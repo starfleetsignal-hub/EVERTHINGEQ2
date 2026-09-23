@@ -1,0 +1,61 @@
+---
+title: Slayer's Forearms of Forbidden Rites
+type: item
+item_kind: Equipment
+icon: images/Item_1427.png
+tier: Fabled
+level: '50'
+slot: Forearms
+flags: attunable
+stats:
+  str: '+28'
+  sta: '+28'
+  mit: '192'
+  crit: '1'
+  critbonus: '0.3'
+  potency: '1.3'
+  dps: '5'
+  multi: '2.8'
+  dtype: Leather Armor
+effects: '**Icy Feedback**'
+item_link: \aITEM -1480853783 1024739890:Slayer's Forearms of Forbidden Rites\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Forearms (Inventory Slot)
+- Icy Feedback (Equipment)
+- Leather Armor (Equipment Type)
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Swashbuckler Equipment
+- Tier 6 Equipment
+- Troubador Equipment
+source:
+  title: Slayer's Forearms of Forbidden Rites
+  url: https://eq2.fandom.com/wiki/Slayer's_Forearms_of_Forbidden_Rites
+  history: https://eq2.fandom.com/wiki/Slayer's_Forearms_of_Forbidden_Rites?action=history
+  revision: 1888192
+  revised: '2025-09-16T21:34:09Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

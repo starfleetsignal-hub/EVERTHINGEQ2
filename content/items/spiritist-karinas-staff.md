@@ -1,0 +1,87 @@
+---
+title: Spiritist Karina's Staff
+type: item
+item_kind: Equipment
+icon: images/Item_2955.png
+tier: Fabled
+level: '120'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +11,150
+  agi: +5,588
+  health: +332,486
+  power: +208,948
+  crit: '780'
+  potency: 17,960.6
+  resolve: '450'
+  aspeed: '38'
+  dps: '248.6'
+  cbovercap: '+848.8'
+  dmg: 4367 - 6550
+  delay: '6.0'
+  drating: '1819.44'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+effects: '**Anguish**'
+item_link: \aITEM -466780550 1077633505:Spiritist Karina's Staff\/a
+categories:
+- Anguish (Equipment)
+- Attack Speed (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Spiritist Karina's Staff
+  url: https://eq2.fandom.com/wiki/Spiritist_Karina's_Staff
+  history: https://eq2.fandom.com/wiki/Spiritist_Karina's_Staff?action=history
+  revision: 1904366
+  revised: '2025-09-18T22:37:26Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

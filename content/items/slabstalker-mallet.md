@@ -1,0 +1,98 @@
+---
+title: Slabstalker Mallet
+type: item
+item_kind: Equipment
+icon: images/Item_635.png
+tier: Legendary
+level: '110'
+slot: Primary
+flags: no-trade infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +1,647
+  agi: +1,060
+  health: +33,380
+  power: +15,016
+  crit: '338.1'
+  potency: '586.6'
+  resolve: '67.5'
+  dps: '100.5'
+  cbovercap: '+26.8'
+  mitinc: '30.7'
+  dmg: 678 - 1017
+  delay: '4.0'
+  drating: '423.94'
+  dtype: One-Handed Crushing
+  wtype: Mace
+effects: '**Noxious Rending**'
+obtained_from: '[[Elements of Destruction: Layers of Order]]'
+item_link: \aITEM 860495342 237646317:Slabstalker Mallet\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mace (Weapon Type)
+- Mage Equipment
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Rending (Equipment)
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 12 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Slabstalker Mallet
+  url: https://eq2.fandom.com/wiki/Slabstalker_Mallet
+  history: https://eq2.fandom.com/wiki/Slabstalker_Mallet?action=history
+  revision: 1904170
+  revised: '2025-09-18T22:30:54Z'
+  license: CC BY-SA 3.0
+expansion: Chaos Descending
+expansion_source: source
+---
+
+

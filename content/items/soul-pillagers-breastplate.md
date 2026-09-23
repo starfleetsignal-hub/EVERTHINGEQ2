@@ -1,0 +1,53 @@
+---
+title: Soul Pillager's Breastplate
+type: item
+item_kind: Equipment
+icon: images/Item_1712.png
+tier: Legendary
+level: '90'
+slot: Chest
+flags: attunable heirloom no-value
+stats:
+  str: '+88'
+  sta: '+91'
+  mit: '650'
+  critbonus: '10.3'
+  potency: '5.2'
+  aspeed: '20.7'
+  dps: '20.7'
+  mitinc: '2.9'
+  dtype: Plate Armor
+effects: '**Pestilential Rain**'
+item_link: \aITEM -559439475 1073876149:Soul Pillager's Breastplate\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Census Credits
+- Chest (Inventory Slot)
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Guardian Equipment
+- Legendary Equipment
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Pestilential Rain (Equipment)
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Tier 10 Equipment
+- Warrior Equipment
+source:
+  title: Soul Pillager's Breastplate
+  url: https://eq2.fandom.com/wiki/Soul_Pillager's_Breastplate
+  history: https://eq2.fandom.com/wiki/Soul_Pillager's_Breastplate?action=history
+  revision: 1888261
+  revised: '2025-09-16T21:36:28Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

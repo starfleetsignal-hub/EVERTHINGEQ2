@@ -1,0 +1,72 @@
+---
+title: Signet of Displaced Teleportation
+type: item
+item_kind: Equipment
+icon: images/Item_2236.png
+tier: Legendary
+level: '20'
+slot: Finger
+flags: lore-equip attunable
+stats:
+  sta: '+8'
+  int: '+8'
+item_link: \aITEM 1481726599 215762644:Signet of Displaced Teleportation\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Finger (Inventory Slot)
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 3 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Signet of Displaced Teleportation
+  url: https://eq2.fandom.com/wiki/Signet_of_Displaced_Teleportation
+  history: https://eq2.fandom.com/wiki/Signet_of_Displaced_Teleportation?action=history
+  revision: 1298339
+  revised: '2021-04-05T20:29:38Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

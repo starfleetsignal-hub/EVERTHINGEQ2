@@ -1,0 +1,64 @@
+---
+title: Spectropic Great Sword of Stoic Purpose
+type: item
+item_kind: Equipment
+icon: images/Item_1647.png
+tier: Fabled
+level: '125'
+slot: Primary
+classes: ', , , [[Channeler]], [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +12,760
+  agi: +7,354
+  health: +580,382
+  power: +364,730
+  maxhealth: '305.2'
+  crit: '1052.2'
+  potency: 75,547.2
+  resolve: '850'
+  cbovercap: '+2941.6'
+  mitinc: '52.9'
+  dmg: 7860 - 11790
+  delay: '6.0'
+  drating: '3274.99'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+item_link: \aITEM 1562644406 1328270330:Spectropic Great Sword of Stoic Purpose\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Tier 13 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Spectropic Great Sword of Stoic Purpose
+  url: https://eq2.fandom.com/wiki/Spectropic_Great_Sword_of_Stoic_Purpose
+  history: https://eq2.fandom.com/wiki/Spectropic_Great_Sword_of_Stoic_Purpose?action=history
+  revision: 1744836
+  revised: '2023-09-25T22:25:18Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

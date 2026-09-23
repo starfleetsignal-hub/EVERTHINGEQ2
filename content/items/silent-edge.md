@@ -1,0 +1,54 @@
+---
+title: Silent Edge
+type: item
+item_kind: Equipment
+icon: images/Item_1661.png
+tier: Treasured
+level: '40'
+slot: Primary
+flags: attunable
+stats:
+  str: '+14'
+  sta: '+14'
+  dmg: 29 - 162
+  delay: '6.0'
+  drating: '31.68'
+  dtype: One-Handed Slashing
+  wtype: Rapier
+item_link: \aITEM 1820712881 67236556:Silent Edge\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- One-Handed Slashing (Equipment Type)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rapier (Weapon Type)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Swashbuckler Equipment
+- Tier 5 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Silent Edge
+  url: https://eq2.fandom.com/wiki/Silent_Edge
+  history: https://eq2.fandom.com/wiki/Silent_Edge?action=history
+  revision: 1332645
+  revised: '2021-05-16T23:00:08Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

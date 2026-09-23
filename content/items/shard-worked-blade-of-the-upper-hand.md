@@ -1,0 +1,73 @@
+---
+title: Shard Worked Blade of the Upper Hand
+type: item
+item_kind: Equipment
+icon: images/Item_2259.png
+tier: Legendary
+level: '130'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable heirloom
+stats:
+  sta: +6,533
+  agi: +3,899
+  health: +363,238
+  power: +228,270
+  crit: '557.9'
+  potency: 49,806.8
+  resolve: '515'
+  abmod: +4120,106
+  cbovercap: '+1560.1'
+  dmg: 5649 - 8474
+  delay: '4.0'
+  drating: '3530.88'
+  dtype: One-Handed Slashing
+  wtype: Sword
+item_link: \aITEM -1508131153 1023552377:Shard Worked Blade of the Upper Hand\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Legendary Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 14 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Shard Worked Blade of the Upper Hand
+  url: https://eq2.fandom.com/wiki/Shard_Worked_Blade_of_the_Upper_Hand
+  history: https://eq2.fandom.com/wiki/Shard_Worked_Blade_of_the_Upper_Hand?action=history
+  revision: 1845386
+  revised: '2024-12-09T22:56:01Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

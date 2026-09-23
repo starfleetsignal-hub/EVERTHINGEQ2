@@ -1,0 +1,84 @@
+---
+title: Slippers of Red scales
+type: item
+item_kind: Equipment
+icon: images/Item_1398.png
+tier: Fabled
+level: '70'
+slot: Feet
+flags: lore-equip attunable heirloom
+stats:
+  str: '+33'
+  sta: '+33'
+  mit: '164'
+  crit: '1.4'
+  critbonus: '0.4'
+  potency: '1.9'
+  abmod: '+46'
+  dtype: Cloth Armor
+item_link: \aITEM -1670146555 577700348:Slippers of Red scales\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Feet (Inventory Slot)
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Slippers of Red scales
+  url: https://eq2.fandom.com/wiki/Slippers_of_Red_scales
+  history: https://eq2.fandom.com/wiki/Slippers_of_Red_scales?action=history
+  revision: 1681904
+  revised: '2023-03-16T13:40:47Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

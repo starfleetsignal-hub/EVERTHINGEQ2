@@ -1,0 +1,62 @@
+---
+title: Skald's Tunic (Level 85)
+type: item
+item_kind: Equipment
+icon: images/Item_3334.png
+tier: Legendary
+level: '85'
+slot: Chest
+flags: lore no-trade no-value infusable
+stats:
+  sta: '+81'
+  agi: '+81'
+  health: '+70'
+  power: '+18'
+  maxhealth: '10.1'
+  mit: '586'
+  crit: '4.6'
+  critbonus: '3.7'
+  potency: '8.2'
+  aspeed: '10.9'
+  dtype: Chain Armor
+obtained_from: From [[A Packet of Equipment (Troubador, 85)|A Packet of Equipment]]
+item_link: \aITEM -677348429 -601502682:Skald's Tunic\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Chest (Inventory Slot)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Max Health (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 9 Equipment
+- Troubador Equipment
+source:
+  title: Skald's Tunic (Level 85)
+  url: https://eq2.fandom.com/wiki/Skald's_Tunic_(Level_85)
+  history: https://eq2.fandom.com/wiki/Skald's_Tunic_(Level_85)?action=history
+  revision: 1583907
+  revised: '2022-10-04T20:18:51Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+

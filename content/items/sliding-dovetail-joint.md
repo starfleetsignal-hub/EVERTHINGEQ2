@@ -1,0 +1,26 @@
+---
+title: Sliding Dovetail Joint
+type: item
+item_kind: Collection Item
+icon: images/Item_707.png
+item_level: '25'
+obtained_from: Can only be seen by someone who acquired the [[Earring of the Solstice]], and harvested from random red [[Ground spawn|ground spawning]] nodes in [[Sandstone Delta]].
+item_link: \aITEM -1096149860 1556984960:Sliding Dovetail Joint\/a
+image: images/Sliding_Dovetail_Joint.png
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Item pages with existing iname images
+- Items
+source:
+  title: Sliding Dovetail Joint
+  url: https://eq2.fandom.com/wiki/Sliding_Dovetail_Joint
+  history: https://eq2.fandom.com/wiki/Sliding_Dovetail_Joint?action=history
+  revision: 1791899
+  revised: '2024-04-17T18:31:16Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: source
+---
+
+This item is needed for the collection: [[No Nails in These (Collection)|No Nails in These]]

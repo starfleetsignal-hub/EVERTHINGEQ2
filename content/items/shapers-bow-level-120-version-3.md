@@ -1,0 +1,73 @@
+---
+title: Shaper's Bow (Level 120) (Version 3)
+type: item
+item_kind: Equipment
+icon: images/Item_3755.png
+tier: Legendary
+level: '120'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: lore no-trade no-value infusable
+stats:
+  sta: +6,023
+  wis: +3,209
+  health: +210,283
+  power: +132,149
+  maxhealth: '135.3'
+  crit: '459.2'
+  potency: 19,866.9
+  resolve: '315'
+  cbovercap: '+1188.8'
+  dmg: 4961 - 7442
+  delay: '8.0'
+  drating: '1550.4'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+obtained_from: From [[A Packet of Equipment (Channeler, 120) (Version 3)|A Packet of Equipment]]
+item_link: \aITEM 198369301 1397870497:Shaper's Bow\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Max Health (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Shaper's Bow (Level 120) (Version 3)
+  url: https://eq2.fandom.com/wiki/Shaper's_Bow_(Level_120)_(Version_3)
+  history: https://eq2.fandom.com/wiki/Shaper's_Bow_(Level_120)_(Version_3)?action=history
+  revision: 1626279
+  revised: '2022-12-10T18:51:36Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

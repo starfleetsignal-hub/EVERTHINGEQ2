@@ -1,0 +1,85 @@
+---
+title: Staff of Otherworldly Destruction
+type: item
+item_kind: Equipment
+icon: images/Item_618.png
+tier: Fabled
+level: '92'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  str: '+220'
+  sta: '+220'
+  crit: '15.6'
+  critbonus: '13.6'
+  potency: '22.4'
+  multi: '38.4'
+  dmg: 186 - 1054
+  delay: '7.0'
+  drating: '177.16'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+effects: '**Mental Overload**<br>**Rallosian Terror**'
+item_link: \aITEM 1961406184 2127314248:Staff of Otherworldly Destruction\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mental Overload (Equipment)
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Rallosian Terror (Equipment)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Staff of Otherworldly Destruction
+  url: https://eq2.fandom.com/wiki/Staff_of_Otherworldly_Destruction
+  history: https://eq2.fandom.com/wiki/Staff_of_Otherworldly_Destruction?action=history
+  revision: 1904477
+  revised: '2025-09-18T22:41:08Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

@@ -1,0 +1,68 @@
+---
+title: Slayer's Staff of Wrath
+type: item
+item_kind: Equipment
+icon: images/Item_3596.png
+tier: Legendary
+level: '95'
+slot: Primary
+flags: attunable heirloom no-value
+stats:
+  sta: '+733'
+  int: '+519'
+  crit: '173.2'
+  critbonus: '33.3'
+  potency: '33.3'
+  aspeed: '86.5'
+  dmg: 176 - 999
+  delay: '6.0'
+  drating: '195.92'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+item_link: \aITEM 662779342 -489781139:Slayer's Staff of Wrath\/a
+categories:
+- Attack Speed (Equipment)
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Slayer's Staff of Wrath
+  url: https://eq2.fandom.com/wiki/Slayer's_Staff_of_Wrath
+  history: https://eq2.fandom.com/wiki/Slayer's_Staff_of_Wrath?action=history
+  revision: 980595
+  revised: '2019-04-16T08:19:28Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

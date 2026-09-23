@@ -1,0 +1,91 @@
+---
+title: Stone Emblem of the Cursed Scholar
+type: item
+item_kind: Equipment
+icon: images/Item_4942.png
+tier: Mythical
+level: '125'
+slot: Finger
+flags: lore-equip attunable heirloom
+stats:
+  sta: +5,498
+  agi: +3,230
+  health: +276,432
+  power: +173,719
+  maxhealth: '324.2'
+  critbonus: 1,292.2
+  potency: 34,754
+  resolve: '460'
+  vselemental: +310,750
+effects: '**Scholarly Effectiveness**'
+item_link: \aITEM -1175638464 2056694661:Stone Emblem of the Cursed Scholar\/a
+aliases:
+- Stone Emlblem of the Cursed Scholar
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Finger (Inventory Slot)
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Mythical Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Resolve (Equipment)
+- Rogue Equipment
+- Scholarly Effectiveness (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Stone Emblem of the Cursed Scholar
+  url: https://eq2.fandom.com/wiki/Stone_Emblem_of_the_Cursed_Scholar
+  history: https://eq2.fandom.com/wiki/Stone_Emblem_of_the_Cursed_Scholar?action=history
+  revision: 1747143
+  revised: '2023-10-16T21:39:37Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+
