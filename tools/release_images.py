@@ -6,13 +6,16 @@
 images-release.json lists every file with its shard, source URL, uploader and upload time (CC BY-SA credit).
 Tar members are images/<File_name>, the path pages link to, like the shared tars.
 """
-import argparse, hashlib, json, os, sys, tarfile, time, urllib.request
+import argparse, hashlib, io, json, os, socket, sys, tarfile, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 PLAN = os.path.join(ROOT, "images-release.json")
 UA = "NorrathLedgerImporter/0.1 (fan wiki conversion; contact via github.com/starfleetsignal-hub)"
 SHARD_BYTES = 1_900_000_000          # release assets must stay under 2 GiB
+
+_getaddrinfo = socket.getaddrinfo      # runners have no IPv6 route; an IPv6 address stalls each connect ~2 minutes
+socket.getaddrinfo = lambda host, port, family=0, *a, **k: _getaddrinfo(host, port, socket.AF_INET, *a, **k)
 
 def plan(allimages, index):
     al = json.load(open(allimages)); have = json.load(open(index))
@@ -28,35 +31,39 @@ def plan(allimages, index):
     print(f"{len(out)} files, {sum(i['size'] for i in out) / 1e9:.2f} GB in {shard + 1} shards", file=sys.stderr)
 
 def fetch(i):
-    for attempt in range(5):
+    """The file's bytes, or an error string. Without ?format=original Fandom serves a re-encoded copy."""
+    for attempt in range(4):
         try:
-            req = urllib.request.Request(i["url"], headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=120) as r: data = r.read()
-            if i.get("sha1") and hashlib.sha1(data).hexdigest() != i["sha1"]: raise ValueError("sha1 mismatch")
+            req = urllib.request.Request(i["url"] + "?format=original", headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=60) as r: data = r.read()
+            if i.get("sha1") and hashlib.sha1(data).hexdigest() != i["sha1"]: print(f"  sha1 differs: {i['name']}", file=sys.stderr)
             return data
         except Exception as e:
             err = str(e)
-            if "404" in err: break
+            if getattr(e, "code", None) in (404, 410): break
             time.sleep(2 ** attempt)
     return err
 
-def shard(n, workers=6):
-    items = [i for i in json.load(open(PLAN)) if i["shard"] == n]
+def shard(n, workers=8, limit=None):
+    items = [i for i in json.load(open(PLAN)) if i["shard"] == n][:limit]
+    t0 = time.time()
     name, failed = f"eq2-images-{n:02d}.tar", []
     with tarfile.open(name, "w") as tar, ThreadPoolExecutor(workers) as ex:
         for k, (i, data) in enumerate(zip(items, ex.map(fetch, items)), 1):
             if isinstance(data, str): failed.append({"name": i["name"], "error": data}); continue
             ti = tarfile.TarInfo("images/" + i["name"]); ti.size = len(data); ti.mtime = int(time.time())
-            tar.addfile(ti, __import__("io").BytesIO(data))
-            if k % 1000 == 0: print(f"  {k}/{len(items)}", file=sys.stderr)
+            tar.addfile(ti, io.BytesIO(data))
+            if k % 1000 == 0: print(f"  {k}/{len(items)} in {time.time() - t0:.0f}s, {len(failed)} failed", file=sys.stderr, flush=True)
+            if k == 200 and len(failed) > 100: sys.exit(f"stopping: {len(failed)} of the first 200 failed, e.g. {failed[0]}")
     json.dump(failed, open(f"eq2-images-{n:02d}-failed.json", "w"), indent=1)
-    print(f"{name}: {len(items) - len(failed)} of {len(items)} files, {len(failed)} failed", file=sys.stderr)
+    print(f"{name}: {len(items) - len(failed)} of {len(items)} files, {len(failed)} failed, {time.time() - t0:.0f}s", file=sys.stderr)
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--plan", action="store_true"); ap.add_argument("--shard", type=int)
+    ap.add_argument("--limit", type=int, help="only the first N files of the shard (a quick test)")
     ap.add_argument("--allimages", default=os.path.join(ROOT, "data", "allimages.json"))
     ap.add_argument("--index", default=os.path.join(ROOT, "images", "index.json"))
     a = ap.parse_args()
     if a.plan: plan(a.allimages, a.index)
-    if a.shard is not None: shard(a.shard)
+    if a.shard is not None: shard(a.shard, limit=a.limit)
