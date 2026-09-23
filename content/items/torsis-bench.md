@@ -1,0 +1,27 @@
+---
+title: Torsis Bench
+type: item
+item_kind: House Item
+item_subtype: Barrel
+tier: Handcrafted
+description: This item can be placed in your house or guild hall.
+obtained_from: Crafted by [[Carpenter]] (level 100) from [[Bloody Tooth Carpentry Essentials]]
+categories:
+- Barrel (Item Subtype)
+- Handcrafted Items
+- House Item (Item Type)
+- Items
+- Items with Rent Status Reduction
+- Tier 3 RSR Items
+source:
+  title: Torsis Bench
+  url: https://eq2.fandom.com/wiki/Torsis_Bench
+  history: https://eq2.fandom.com/wiki/Torsis_Bench?action=history
+  revision: 690042
+  revised: '2016-11-17T13:49:15Z'
+  license: CC BY-SA 3.0
+expansion: Kunark Ascending
+expansion_source: source
+---
+
+

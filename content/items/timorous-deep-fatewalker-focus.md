@@ -1,0 +1,66 @@
+---
+title: Timorous Deep Fatewalker Focus
+type: item
+item_kind: Equipment
+icon: images/Item_713.png
+tier: Legendary
+level: '90'
+slot: Secondary
+flags: no-trade
+stats:
+  sta: '+126'
+  agi: '+126'
+  health: '+70'
+  power: '+18'
+  crit: '4.86'
+  critbonus: '4.36'
+  potency: '12.5'
+  abmod: '+277'
+  dtype: Symbols
+item_link: \aITEM -137015923 -1650607453:Timorous Deep Fatewalker Focus\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Ability Modifier (Equipment)
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Secondary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Symbols (Equipment Type)
+- Templar Equipment
+- Tier 10 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Timorous Deep Fatewalker Focus
+  url: https://eq2.fandom.com/wiki/Timorous_Deep_Fatewalker_Focus
+  history: https://eq2.fandom.com/wiki/Timorous_Deep_Fatewalker_Focus?action=history
+  revision: 1423831
+  revised: '2022-03-21T03:03:48Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

@@ -1,0 +1,72 @@
+---
+title: Tempered Darkmetal Etched Buckler
+type: item
+item_kind: Equipment
+icon: images/Item_19.png
+tier: Fabled
+level: '100'
+slot: Shield
+flags: no-trade infusable
+stats:
+  sta: +1,178
+  agi: '+540'
+  crit: '181.5'
+  critbonus: '29.6'
+  potency: '36.4'
+  resolve: '5'
+  abmod: +3,901
+  aspeed: '30.7'
+  dtype: Buckler
+effects: '**Noxious Rending**'
+obtained_from: 'Collection reward: [[Tokens of the Dhalgar]]'
+item_link: \aITEM -1801162441 308913864:Tempered Darkmetal Etched Buckler\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Buckler (Equipment Type)
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Collection Quest Rewards
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Inquisitor Equipment
+- Mystic Equipment
+- Noxious Rending (Equipment)
+- Potency (Equipment)
+- Predator Equipment
+- Priest Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Shield (Inventory Slot)
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warden Equipment
+source:
+  title: Tempered Darkmetal Etched Buckler
+  url: https://eq2.fandom.com/wiki/Tempered_Darkmetal_Etched_Buckler
+  history: https://eq2.fandom.com/wiki/Tempered_Darkmetal_Etched_Buckler?action=history
+  revision: 1893251
+  revised: '2025-09-17T21:00:30Z'
+  license: CC BY-SA 3.0
+expansion: Terrors of Thalumbra
+expansion_source: source
+---
+
+

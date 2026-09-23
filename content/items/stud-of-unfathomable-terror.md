@@ -1,0 +1,90 @@
+---
+title: Stud of Unfathomable Terror
+type: item
+item_kind: Equipment
+icon: images/Item_3462.png
+tier: Fabled
+level: '90'
+slot: Ear
+flags: lore attunable
+stats:
+  str: '+70'
+  sta: '+70'
+  crit: '4.4'
+  critbonus: '1.5'
+  potency: '6.8'
+  multi: '11'
+  vselemental: '+512'
+effects: '**Empyrean Recovery**'
+item_link: \aITEM 2000837370 439023914:Stud of Unfathomable Terror\/a
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Ear (Inventory Slot)
+- Elemental Resistance (Equipment)
+- Empyrean Recovery (Equipment)
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing default images
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Perah'Celsis' Abominable Laboratory Dropped Items
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Stud of Unfathomable Terror
+  url: https://eq2.fandom.com/wiki/Stud_of_Unfathomable_Terror
+  history: https://eq2.fandom.com/wiki/Stud_of_Unfathomable_Terror?action=history
+  revision: 1490391
+  revised: '2022-06-14T18:22:22Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

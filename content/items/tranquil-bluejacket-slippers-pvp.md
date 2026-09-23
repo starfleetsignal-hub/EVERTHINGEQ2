@@ -1,0 +1,51 @@
+---
+title: Tranquil Bluejacket Slippers (PvP)
+type: item
+item_kind: Equipment
+icon: images/Item_1433.png
+tier: Handcrafted
+level: '95'
+slot: Feet
+flags: attunable
+stats:
+  sta: '+466'
+  int: '+246'
+  maxhealth: '7.1'
+  mit: '548'
+  critbonus: '21.1'
+  potency: '21.1'
+  dtype: Cloth Armor
+item_link: \aITEM 926986556 -2060156677:Tranquil Bluejacket Slippers\/a
+categories:
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Handcrafted Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 10 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Tranquil Bluejacket Slippers (PvP)
+  url: https://eq2.fandom.com/wiki/Tranquil_Bluejacket_Slippers_(PvP)
+  history: https://eq2.fandom.com/wiki/Tranquil_Bluejacket_Slippers_(PvP)?action=history
+  revision: 1753127
+  revised: '2023-11-15T08:59:09Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

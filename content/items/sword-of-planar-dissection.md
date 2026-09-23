@@ -1,0 +1,64 @@
+---
+title: Sword of Planar Dissection
+type: item
+item_kind: Equipment
+icon: images/Item_1679.png
+tier: Legendary
+level: '90'
+slot: Primary
+flags: lore-equip attunable heirloom
+stats:
+  str: '+64'
+  sta: '+64'
+  crit: '3.8'
+  critbonus: '1.4'
+  potency: '6.2'
+  aspeed: '8.8'
+  multi: '9.6'
+  dmg: 72 - 408
+  delay: '4.0'
+  drating: '120.04'
+  dtype: One-Handed Piercing
+  wtype: Rapier
+item_link: \aITEM 727087090 -263738947:Sword of Planar Dissection\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Legendary Equipment
+- Multi Attack Chance (Equipment)
+- One-Handed Piercing (Equipment Type)
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rapier (Weapon Type)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Sword of Planar Dissection
+  url: https://eq2.fandom.com/wiki/Sword_of_Planar_Dissection
+  history: https://eq2.fandom.com/wiki/Sword_of_Planar_Dissection?action=history
+  revision: 1710641
+  revised: '2023-03-18T17:43:03Z'
+  license: CC BY-SA 3.0
+expansion: The Shadow Odyssey
+expansion_source: linked
+---
+
+

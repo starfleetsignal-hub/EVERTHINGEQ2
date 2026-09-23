@@ -1,0 +1,55 @@
+---
+title: Strifewing Clawed Fist
+type: item
+item_kind: Equipment
+icon: images/Item_1676.png
+tier: Legendary
+level: '62'
+slot: Primary
+classes: ', [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+30'
+  sta: '+30'
+  crit: '1.1'
+  critbonus: '0.3'
+  potency: '1.7'
+  abmod: '+36'
+  dmg: 34 - 190
+  delay: '4.0'
+  drating: '55.85'
+  dtype: Main Hand Slashing
+  wtype: Fists
+obtained_from: Crafted by [[Artisan]] (level 64) from [[Recipes for the Aggressor's Claws]]
+item_link: \aITEM 339183265 -1678955976:Strifewing Clawed Fist\/a
+aliases:
+- Strifewing Clawed Fists
+categories:
+- Ability Modifier (Equipment)
+- Beastlord Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Fists (Weapon Type)
+- Legendary Equipment
+- Main Hand Slashing (Equipment Type)
+- Monk Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Tier 7 Equipment
+source:
+  title: Strifewing Clawed Fist
+  url: https://eq2.fandom.com/wiki/Strifewing_Clawed_Fist
+  history: https://eq2.fandom.com/wiki/Strifewing_Clawed_Fist?action=history
+  revision: 1621784
+  revised: '2022-12-10T10:40:25Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: source
+---
+
+

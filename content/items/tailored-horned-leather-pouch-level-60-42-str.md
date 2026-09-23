@@ -1,0 +1,64 @@
+---
+title: Tailored Horned Leather Pouch (Level 60) (42 str)
+type: item
+item_kind: Equipment
+icon: images/Item_2143.png
+tier: Handcrafted
+level: '60'
+slot: Ranged
+flags: attunable
+description: Used for easy access to thrown ammo when used in ranged combat.
+stats:
+  str: '+24'
+  sta: '+24'
+  crit: '0.6'
+  potency: '0.9'
+  aspeed: '1.1'
+  dmg: 46 - 139
+  delay: '2.8'
+  drating: '66.11'
+  range: 2 - 25
+  dtype: ranged
+  wtype: Thrown Weapon
+item_link: \aITEM 1074051870 -873030219:Tailored Horned Leather Pouch\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Chance (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Monk Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Swashbuckler Equipment
+- Thrown Weapon (Weapon Type)
+- Tier 7 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Tailored Horned Leather Pouch (Level 60) (42 str)
+  url: https://eq2.fandom.com/wiki/Tailored_Horned_Leather_Pouch_(Level_60)_(42_str)
+  history: https://eq2.fandom.com/wiki/Tailored_Horned_Leather_Pouch_(Level_60)_(42_str)?action=history
+  revision: 1271090
+  revised: '2021-01-09T23:57:31Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

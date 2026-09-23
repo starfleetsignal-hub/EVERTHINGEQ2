@@ -1,0 +1,26 @@
+---
+title: The Second Wife's Tale - Page 17
+type: item
+item_kind: Collection Item
+icon: images/Item_185.png
+item_level: '45'
+obtained_from: Harvested from random [[Ground spawn|ground spawning]] nodes in [[The Sinking Sands]] and [[Maj'Dul]].
+item_link: \aITEM 885438932 1270861244:The Second Wife's Tale - Page 17\/a
+image: images/The_Second_Wife's_Tale_-_Page_17.png
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Item pages with existing iname images
+- Items
+source:
+  title: The Second Wife's Tale - Page 17
+  url: https://eq2.fandom.com/wiki/The_Second_Wife's_Tale_-_Page_17
+  history: https://eq2.fandom.com/wiki/The_Second_Wife's_Tale_-_Page_17?action=history
+  revision: 1785481
+  revised: '2024-02-23T21:00:13Z'
+  license: CC BY-SA 3.0
+expansion: Desert of Flames
+expansion_source: source
+---
+
+This item is needed for the collection: [[The Second Wife's Tale (Collection)|The Second Wife's Tale]]

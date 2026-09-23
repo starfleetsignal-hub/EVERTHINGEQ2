@@ -1,0 +1,73 @@
+---
+title: Tincture of Bark
+type: item
+item_kind: Snack
+icon: images/Item_4697.png
+tier: Handcrafted
+flags: no-trade no-value
+stats:
+  duration: 30 minutes
+  charges: (1/1)
+  casting: 0.6 seconds
+  recast: 0.0 seconds
+effect_name: Tincture of Bark
+effects: "- Applies Tincture of Bark when Activated.  Lasts for 30 minutes.\n  - Shapechanges caster"
+obtained_from: Crafted by [[Artisan]] (level 110) from [[Tincture of Bark Recipe]]
+item_link: \aITEM -1096378100 1428713456:Tincture of Bark\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Handcrafted Items
+- Illusionist Equipment
+- Inquisitor Equipment
+- Items
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Snack (Item Type)
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Tincture of Bark
+  url: https://eq2.fandom.com/wiki/Tincture_of_Bark
+  history: https://eq2.fandom.com/wiki/Tincture_of_Bark?action=history
+  revision: 1935318
+  revised: '2026-01-02T19:42:37Z'
+  license: CC BY-SA 3.0
+expansion: Chaos Descending
+expansion_source: source
+---
+
+

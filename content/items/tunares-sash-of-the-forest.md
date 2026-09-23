@@ -1,0 +1,57 @@
+---
+title: Tunare's Sash of the Forest
+type: item
+item_kind: Equipment
+icon: images/Item_2221.png
+tier: Ethereal
+level: '95'
+slot: Waist
+flags: attunable heirloom
+description: A certain power comes from the forest. A sense of protection and strength.
+stats:
+  sta: '+219'
+  agi: '+219'
+  crit: '71.1'
+  critbonus: '13.1'
+  potency: '13.1'
+  dps: '38.8'
+  multi: '41.7'
+  flurry: '0.6'
+effects: '**Woodland Cover**'
+item_link: \aITEM -1664455642 504512753 0 0 0:Tunare's Sash of the Forest\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Dirge Equipment
+- Equipment
+- Ethereal Equipment
+- Flurry Chance (Equipment)
+- Multi Attack Chance (Equipment)
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Waist (Inventory Slot)
+- Woodland Cover (Equipment)
+source:
+  title: Tunare's Sash of the Forest
+  url: https://eq2.fandom.com/wiki/Tunare's_Sash_of_the_Forest
+  history: https://eq2.fandom.com/wiki/Tunare's_Sash_of_the_Forest?action=history
+  revision: 1888670
+  revised: '2025-09-16T21:50:22Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

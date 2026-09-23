@@ -1,0 +1,59 @@
+---
+title: Stygian Skimmer's Coat
+type: item
+item_kind: Equipment
+icon: images/Item_3620.png
+tier: Legendary
+level: '100'
+slot: Chest
+flags: attunable heirloom infusable
+stats:
+  sta: +2,023
+  agi: '+568'
+  maxhealth: '19.3'
+  mit: '774'
+  critbonus: '57'
+  potency: '57.7'
+  resolve: '3'
+  multi: '105.3'
+  dtype: Chain Armor
+item_link: \aITEM 1052041608 -1126677775:Stygian Skimmer's Coat\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Chest (Inventory Slot)
+- Crit Bonus (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Legendary Equipment
+- Max Health (Equipment)
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+source:
+  title: Stygian Skimmer's Coat
+  url: https://eq2.fandom.com/wiki/Stygian_Skimmer's_Coat
+  history: https://eq2.fandom.com/wiki/Stygian_Skimmer's_Coat?action=history
+  revision: 1684575
+  revised: '2023-03-16T14:34:01Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

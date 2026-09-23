@@ -1,0 +1,27 @@
+---
+title: Turtle Plushie
+type: item
+item_kind: House Item
+icon: images/Item_170.png
+tier: Treasured
+item_level: '0'
+flags: no-value
+description: This item can be placed on the floor in any house type.
+item_link: \aITEM 1066833976 -829167478:Turtle Plushie\/a
+categories:
+- Census Credits
+- House Item (Item Type)
+- Items
+- Items with Rent Status Reduction
+- Tier 2 RSR Items
+- Treasured Items
+source:
+  title: Turtle Plushie
+  url: https://eq2.fandom.com/wiki/Turtle_Plushie
+  history: https://eq2.fandom.com/wiki/Turtle_Plushie?action=history
+  revision: 980218
+  revised: '2019-04-16T07:47:12Z'
+  license: CC BY-SA 3.0
+---
+
+

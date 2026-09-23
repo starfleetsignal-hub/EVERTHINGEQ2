@@ -1,0 +1,66 @@
+---
+title: 'Stout II : Void-Soaked Standard'
+type: item
+icon: images/Item_5930.png
+flags: heirloom no-value
+description: This guild standard grants level 135 or higher allies in the area a bonus to maximum health. This effect can only be applied in Rage of Cthurath raid or Untold Dungeon zones.
+stats:
+  charges: (1/1)
+  casting: 5 seconds
+  recast: 2 seconds
+effect_name: Void-Soaked Standard of Advanced Health II
+effects: "- Applies Void-Soaked Standard of Advanced Health II when Activated.\n  - This guild standard grants level 135 or higher allies in the area a bonus to maximum health. This effect can only be applied in Rage of Cthurath raid or Untold Dungeon zones."
+item_link: '\aITEM 707799152 771133445:Stout II : Void-Soaked Standard\/a'
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Items
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: 'Stout II : Void-Soaked Standard'
+  url: https://eq2.fandom.com/wiki/Stout_II_:_Void-Soaked_Standard
+  history: https://eq2.fandom.com/wiki/Stout_II_:_Void-Soaked_Standard?action=history
+  revision: 2007580
+  revised: '2026-05-17T15:19:01Z'
+  license: CC BY-SA 3.0
+---
+
+

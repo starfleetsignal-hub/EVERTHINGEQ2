@@ -1,0 +1,52 @@
+---
+title: Stowaway's Gloves of Protection (2 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_2740.png
+tier: Legendary
+level: '98'
+slot: Hands
+flags: attunable heirloom
+description: 2/4 blue malice gem slots filled.
+stats:
+  sta: '+577'
+  int: '+283'
+  maxhealth: '8.2'
+  mit: '612'
+  critbonus: '24.2'
+  potency: '24.2'
+  dtype: Cloth Armor
+item_link: \aITEM -1861485412 -1332118790:Stowaway's Gloves of Protection\/a
+categories:
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Hands (Inventory Slot)
+- Illusionist Equipment
+- Legendary Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 10 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Stowaway's Gloves of Protection (2 Gem)
+  url: https://eq2.fandom.com/wiki/Stowaway's_Gloves_of_Protection_(2_Gem)
+  history: https://eq2.fandom.com/wiki/Stowaway's_Gloves_of_Protection_(2_Gem)?action=history
+  revision: 1947912
+  revised: '2026-01-04T11:49:28Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

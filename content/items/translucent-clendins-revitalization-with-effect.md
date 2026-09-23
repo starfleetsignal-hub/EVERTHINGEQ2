@@ -1,0 +1,75 @@
+---
+title: Translucent Clendin's Revitalization (with effect)
+type: item
+item_kind: Potion
+icon: images/Item_327.png
+tier: Mastercrafted Legendary
+level: '30'
+description: Clendin's Revitalization provides greater power regeneration overtime.
+stats:
+  duration: 30.0 seconds
+  charges: (7/7)
+  casting: 1 second
+  recast: 2 minutes 45 seconds
+effect_name: Clendin's Revitalization
+effects: "- Applies Clendin's Revitalization  when Activated.  Lasts for 30.0 seconds.\n  - Increases power of caster by 34 instantly and every 3 seconds."
+item_link: \aITEM -1870830860 737878822:Translucent Clendin's Revitalization\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Items
+- Mage Equipment
+- Mastercrafted Legendary Items
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potion (Item Type)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 4 Items
+- Tier 4 Potion
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Translucent Clendin's Revitalization (with effect)
+  url: https://eq2.fandom.com/wiki/Translucent_Clendin's_Revitalization_(with_effect)
+  history: https://eq2.fandom.com/wiki/Translucent_Clendin's_Revitalization_(with_effect)?action=history
+  revision: 1935508
+  revised: '2026-01-02T19:51:47Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

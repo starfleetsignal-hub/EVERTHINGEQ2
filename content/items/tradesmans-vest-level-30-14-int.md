@@ -1,0 +1,75 @@
+---
+title: Tradesman's Vest (Level 30) (14 int)
+type: item
+item_kind: Equipment
+icon: images/Item_2871.png
+tier: Handcrafted
+level: '30'
+slot: Chest
+flags: attunable
+stats:
+  sta: '+8'
+  agi: '+9'
+  mit: '67'
+  dtype: Cloth Armor
+item_link: \aITEM 132839816 -1236102277:Tradesman's Vest\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Chest (Inventory Slot)
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 4 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Tradesman's Vest (Level 30) (14 int)
+  url: https://eq2.fandom.com/wiki/Tradesman's_Vest_(Level_30)_(14_int)
+  history: https://eq2.fandom.com/wiki/Tradesman's_Vest_(Level_30)_(14_int)?action=history
+  revision: 1237660
+  revised: '2021-01-08T09:48:47Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,63 @@
+---
+title: Treasure hoarder's mace
+type: item
+item_kind: Equipment
+icon: images/Item_284.png
+tier: Treasured
+level: '20'
+slot: Primary
+classes: ', , [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+7'
+  sta: '+7'
+  dmg: 14 - 43
+  delay: '4.0'
+  drating: '14.4'
+  dtype: One-Handed Crushing
+  wtype: Mace
+item_link: \aITEM 2095516780 1896991483:treasure hoarder's mace\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Mace (Weapon Type)
+- Monk Equipment
+- Mystic Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Templar Equipment
+- Tier 3 Equipment
+- Treasured Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Treasure hoarder's mace
+  url: https://eq2.fandom.com/wiki/Treasure_hoarder's_mace
+  history: https://eq2.fandom.com/wiki/Treasure_hoarder's_mace?action=history
+  revision: 1271790
+  revised: '2021-01-10T00:27:56Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

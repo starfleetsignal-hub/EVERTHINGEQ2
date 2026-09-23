@@ -1,0 +1,56 @@
+---
+title: Swift Phantom Chain Helm (0 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_3627.png
+tier: Legendary
+level: '98'
+slot: Head
+flags: attunable heirloom no-value
+description: 0/4 yellow malice gem slots filled.
+stats:
+  sta: '+506'
+  agi: '+276'
+  mit: '669'
+  critbonus: '26.3'
+  aspeed: '96'
+  dps: '67.1'
+  dtype: Chain Armor
+item_link: \aITEM -1373257041 -1451632270:Swift Phantom Chain Helm\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Head (Inventory Slot)
+- Legendary Equipment
+- Mystic Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Swift Phantom Chain Helm (0 Gem)
+  url: https://eq2.fandom.com/wiki/Swift_Phantom_Chain_Helm_(0_Gem)
+  history: https://eq2.fandom.com/wiki/Swift_Phantom_Chain_Helm_(0_Gem)?action=history
+  revision: 1948230
+  revised: '2026-01-04T12:03:11Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

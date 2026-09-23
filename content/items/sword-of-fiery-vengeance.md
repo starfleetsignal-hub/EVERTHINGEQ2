@@ -1,0 +1,79 @@
+---
+title: Sword of Fiery Vengeance
+type: item
+item_kind: Equipment
+icon: images/Item_2721.png
+tier: Fabled
+level: '110'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable heirloom infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +1,787
+  agi: +1,173
+  health: +48,078
+  power: +21,628
+  crit: '366.5'
+  potency: '679.5'
+  resolve: '97.5'
+  abmod: +6,006
+  aspeed: '123'
+  cbovercap: '+28.8'
+  dmg: 721 - 1081
+  delay: '4.0'
+  drating: '450.41'
+  dtype: One-Handed Slashing
+  wtype: Sword
+effects: '**Devastation Strike**'
+item_link: \aITEM 2127960071 -2061426425:Sword of Fiery Vengeance\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Devastation Strike (Equipment)
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Guardian Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 12 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Sword of Fiery Vengeance
+  url: https://eq2.fandom.com/wiki/Sword_of_Fiery_Vengeance
+  history: https://eq2.fandom.com/wiki/Sword_of_Fiery_Vengeance?action=history
+  revision: 1904756
+  revised: '2025-09-18T22:50:26Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+
