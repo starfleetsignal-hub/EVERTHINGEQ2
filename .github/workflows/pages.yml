@@ -4,7 +4,7 @@ name: Build site
 on:
   push:
     branches: [main]
-    paths: ["content/**", "data/**", "tools/**", ".github/workflows/pages.yml"]
+    paths: ["content/**", "data/**", "tools/**", "CNAME", ".github/workflows/pages.yml"]
   workflow_dispatch:
 
 permissions:
@@ -25,6 +25,8 @@ jobs:
       - run: pip install pyyaml
       - run: python3 tools/build_preview.py
       - run: mkdir -p build/site/images && cp images/*.png build/site/images/
+      # The custom domain lives in CNAME at the repo root; gh-pages is rebuilt from scratch, so copy it in each time
+      - run: if [ -f CNAME ]; then cp CNAME build/site/CNAME; fi
       - name: Publish to gh-pages
         run: |
           cd build/site
