@@ -1,0 +1,19 @@
+---
+title: Bridle Joint
+type: page
+categories:
+- Armorer Tradeskills
+- Artisan Tradeskills
+- Metal Shaping Tradeskills
+- Outfitter Tradeskills
+- Tradeskills
+source:
+  title: Bridle Joint
+  url: https://eq2.fandom.com/wiki/Bridle_Joint
+  history: https://eq2.fandom.com/wiki/Bridle_Joint?action=history
+  revision: 188626
+  revised: '2007-12-17T00:28:36Z'
+  license: CC BY-SA 3.0
+---
+
+

@@ -1,0 +1,19 @@
+---
+title: Arcane Hive Defender's Leather Boots
+type: disambiguation
+categories:
+- Disambiguation
+source:
+  title: Arcane Hive Defender's Leather Boots
+  url: https://eq2.fandom.com/wiki/Arcane_Hive_Defender's_Leather_Boots
+  history: https://eq2.fandom.com/wiki/Arcane_Hive_Defender's_Leather_Boots?action=history
+  revision: 1925017
+  revised: '2025-12-31T20:54:30Z'
+  license: CC BY-SA 3.0
+---
+
+- [[Arcane Hive Defender's Leather Boots (0 Gem)]]
+- [[Arcane Hive Defender's Leather Boots (1 Gem)]]
+- [[Arcane Hive Defender's Leather Boots (2 Gem)]]
+- [[Arcane Hive Defender's Leather Boots (3 Gem)]]
+- [[Arcane Hive Defender's Leather Boots (4 Gem)]]

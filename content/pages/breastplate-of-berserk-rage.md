@@ -1,0 +1,16 @@
+---
+title: Breastplate of Berserk Rage
+type: disambiguation
+categories:
+- Disambiguation
+source:
+  title: Breastplate of Berserk Rage
+  url: https://eq2.fandom.com/wiki/Breastplate_of_Berserk_Rage
+  history: https://eq2.fandom.com/wiki/Breastplate_of_Berserk_Rage?action=history
+  revision: 1949833
+  revised: '2026-01-04T15:42:00Z'
+  license: CC BY-SA 3.0
+---
+
+- [[Breastplate of Berserk Rage (Level 67)]]
+- [[Breastplate of Berserk Rage (QuestReward)]]

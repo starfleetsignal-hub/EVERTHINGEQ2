@@ -1,0 +1,16 @@
+---
+title: Battlerager's Cloak
+type: disambiguation
+categories:
+- Disambiguation
+source:
+  title: Battlerager's Cloak
+  url: https://eq2.fandom.com/wiki/Battlerager's_Cloak
+  history: https://eq2.fandom.com/wiki/Battlerager's_Cloak?action=history
+  revision: 1956483
+  revised: '2026-01-24T00:30:34Z'
+  license: CC BY-SA 3.0
+---
+
+- [[Battlerager's Cloak (Fabled)]]
+- [[Battlerager's Cloak (Fabled, Relic)]]
