@@ -1,0 +1,64 @@
+---
+title: Crude imbued fulginate leafblade (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_1674.png
+tier: Handcrafted
+level: '40'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable
+stats:
+  sta: '+10'
+  agi: '+11'
+  dmg: 17 - 50
+  delay: '2.1'
+  drating: '31.45'
+  dtype: One-Handed Piercing
+  wtype: Spear
+effects: '**Faintly Gleaming Strike**'
+item_link: \aITEM 2128084781 -1872980195:crude imbued fulginate leafblade\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Faintly Gleaming Strike (Equipment)
+- Guardian Equipment
+- Handcrafted Equipment
+- Mystic Equipment
+- One-Handed Piercing (Equipment Type)
+- Paladin Equipment
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Spear (Weapon Type)
+- Swashbuckler Equipment
+- Tier 5 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Crude imbued fulginate leafblade (Version 2)
+  url: https://eq2.fandom.com/wiki/Crude_imbued_fulginate_leafblade_(Version_2)
+  history: https://eq2.fandom.com/wiki/Crude_imbued_fulginate_leafblade_(Version_2)?action=history
+  revision: 1896170
+  revised: '2025-09-18T17:37:25Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,53 @@
+---
+title: Dealer's Choice Measured Robe
+type: item
+item_kind: Equipment
+icon: images/Item_1593.png
+tier: Fabled
+level: '130'
+slot: Chest
+flags: attunable heirloom
+stats:
+  sta: +6,546
+  int: +3,918
+  health: +369,843
+  power: +232,421
+  mit: '327'
+  critbonus: 1,567.7
+  potency: 50,991.6
+  resolve: '525'
+  dtype: Cloth Armor
+item_link: \aITEM 410697164 -783586624:Dealer's Choice Measured Robe\/a
+categories:
+- Census Credits
+- Chest (Inventory Slot)
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 14 Equipment
+- Warlock Equipment
+- Weapon Damage Bonus (Equipment)
+- Wizard Equipment
+source:
+  title: Dealer's Choice Measured Robe
+  url: https://eq2.fandom.com/wiki/Dealer's_Choice_Measured_Robe
+  history: https://eq2.fandom.com/wiki/Dealer's_Choice_Measured_Robe?action=history
+  revision: 1857017
+  revised: '2025-02-09T10:38:57Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

@@ -1,0 +1,62 @@
+---
+title: Cracked maple bo
+type: item
+item_kind: Equipment
+icon: images/Item_621.png
+level: '13'
+slot: Primary
+classes: ', , , , [[Beastlord]]'
+stats:
+  dmg: 4 - 13
+  delay: '1.7'
+  drating: '10.08'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+item_link: \aITEM 536097322 -551040331:cracked maple bo\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 2 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Cracked maple bo
+  url: https://eq2.fandom.com/wiki/Cracked_maple_bo
+  history: https://eq2.fandom.com/wiki/Cracked_maple_bo?action=history
+  revision: 756837
+  revised: '2017-10-01T17:48:41Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

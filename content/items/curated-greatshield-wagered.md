@@ -1,0 +1,54 @@
+---
+title: Curated Greatshield Wagered
+type: item
+item_kind: Equipment
+icon: images/Item_2267.png
+tier: Mythical
+level: '125'
+slot: Shield
+flags: attunable heirloom
+stats:
+  sta: +6,163
+  agi: +3,388
+  health: +232,037
+  power: +145,820
+  crit: '484.7'
+  potency: 26,489.2
+  resolve: '345'
+  multi: '26.4'
+  cbovercap: '+1311.8'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM 266793018 322072167:Curated Greatshield Wagered\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Multi Attack Chance (Equipment)
+- Mythical Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 13 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Curated Greatshield Wagered
+  url: https://eq2.fandom.com/wiki/Curated_Greatshield_Wagered
+  history: https://eq2.fandom.com/wiki/Curated_Greatshield_Wagered?action=history
+  revision: 1700970
+  revised: '2023-03-16T23:08:42Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

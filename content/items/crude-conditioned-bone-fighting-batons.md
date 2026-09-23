@@ -1,0 +1,66 @@
+---
+title: Crude conditioned bone fighting batons
+type: item
+item_kind: Equipment
+icon: images/Item_2159.png
+tier: Mastercrafted Legendary
+level: '4'
+slot: Primary
+flags: attunable
+stats:
+  str: '+4'
+  int: '+4'
+  dmg: 2 - 6
+  delay: '1.5'
+  drating: '5.08'
+  dtype: One-Handed Crushing
+  wtype: Staff
+item_link: \aITEM 1633646350 1804043485:crude conditioned bone fighting batons\/a
+categories:
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mastercrafted Legendary Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 1 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Crude conditioned bone fighting batons
+  url: https://eq2.fandom.com/wiki/Crude_conditioned_bone_fighting_batons
+  history: https://eq2.fandom.com/wiki/Crude_conditioned_bone_fighting_batons?action=history
+  revision: 757369
+  revised: '2017-10-01T18:07:58Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

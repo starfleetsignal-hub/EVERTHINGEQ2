@@ -1,0 +1,97 @@
+---
+title: Divine Judgment
+type: item
+item_kind: Equipment
+icon: images/Item_698.png
+tier: Fabled
+level: '104'
+slot: Primary
+flags: attunable heirloom infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +1,528
+  agi: '+886'
+  health: +25,649
+  power: +7,692
+  crit: '313.3'
+  critbonus: '177.9'
+  potency: '242'
+  resolve: '36'
+  aspeed: '105.4'
+  mitinc: '26.7'
+  dmg: 245 - 736
+  delay: '4.0'
+  drating: '245.42'
+  dtype: One-Handed Crushing
+  wtype: Mace
+effects: '**Arcane Rending**'
+item_link: \aITEM -1763034757 -949254745:Divine Judgment\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Arcane Rending (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mace (Weapon Type)
+- Mage Equipment
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Divine Judgment
+  url: https://eq2.fandom.com/wiki/Divine_Judgment
+  history: https://eq2.fandom.com/wiki/Divine_Judgment?action=history
+  revision: 1896818
+  revised: '2025-09-18T18:00:06Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

@@ -1,0 +1,70 @@
+---
+title: Divine Xiocite Deathwatch Bo Staff
+type: item
+item_kind: Equipment
+icon: images/Item_2157.png
+tier: Mastercrafted
+level: '98'
+slot: Primary
+classes: ', , [[Beastlord]]'
+flags: attunable
+stats:
+  sta: +1,133
+  agi: '+628'
+  crit: '209.6'
+  critbonus: '37.8'
+  potency: '37.8'
+  abmod: +4,196
+  dmg: 303 - 1715
+  delay: '6.0'
+  drating: '336.24'
+  dtype: Two-Handed Crushing
+  wtype: Great Hammer
+item_link: \aITEM 1286458826 -619068483:Divine Xiocite Deathwatch Bo Staff\/a
+categories:
+- Ability Modifier (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Great Hammer (Weapon Type)
+- Guardian Equipment
+- Inquisitor Equipment
+- Mastercrafted Equipment
+- Monk Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Divine Xiocite Deathwatch Bo Staff
+  url: https://eq2.fandom.com/wiki/Divine_Xiocite_Deathwatch_Bo_Staff
+  history: https://eq2.fandom.com/wiki/Divine_Xiocite_Deathwatch_Bo_Staff?action=history
+  revision: 1384474
+  revised: '2021-12-06T21:45:46Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

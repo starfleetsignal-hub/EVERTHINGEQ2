@@ -1,0 +1,73 @@
+---
+title: Dense Axe of Enchanting
+type: item
+item_kind: Equipment
+icon: images/Item_2733.png
+tier: Fabled
+level: '125'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable heirloom
+stats:
+  sta: +6,380
+  agi: +3,677
+  health: +290,191
+  power: +182,365
+  crit: '526.1'
+  potency: 37,773.6
+  resolve: '425'
+  abmod: +2461,076
+  cbovercap: '+1470.8'
+  dmg: 3992 - 5989
+  delay: '4.0'
+  drating: '2495.23'
+  dtype: One-Handed Slashing
+  wtype: Sword
+item_link: \aITEM 1610348723 -1624054935:Dense Axe of Enchanting\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Guardian Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 13 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Dense Axe of Enchanting
+  url: https://eq2.fandom.com/wiki/Dense_Axe_of_Enchanting
+  history: https://eq2.fandom.com/wiki/Dense_Axe_of_Enchanting?action=history
+  revision: 1744762
+  revised: '2023-09-25T22:16:45Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

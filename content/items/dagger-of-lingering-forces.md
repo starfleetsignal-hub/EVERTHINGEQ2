@@ -1,0 +1,96 @@
+---
+title: Dagger of Lingering Forces
+type: item
+item_kind: Equipment
+icon: images/Item_39.png
+tier: Legendary
+level: '100'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable infusable
+stats:
+  sta: +1,152
+  agi: '+538'
+  health: +4,050
+  power: +2,430
+  crit: '179.4'
+  critbonus: '46.2'
+  potency: '53.3'
+  resolve: '7'
+  aspeed: '60.7'
+  mitinc: '14.6'
+  dmg: 225 - 676
+  delay: '4.0'
+  drating: '225.45'
+  dtype: One-Handed Piercing
+  wtype: Dagger
+effects: '**Arcane Rending**'
+obtained_from: 'Collection reward: [[Lingering Forces of Ancient Deities]]'
+item_link: \aITEM 130330467 319857505:Dagger of Lingering Forces\/a
+image: images/Dagger_of_Lingering_Forces.jpg
+categories:
+- AE Autoattack Chance (Equipment)
+- Arcane Rending (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Coercer Equipment
+- Collection Quest Rewards
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dagger (Weapon Type)
+- Defiler Equipment
+- Dirge Equipment
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Fighter Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Legendary Equipment
+- Mage Equipment
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Piercing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Dagger of Lingering Forces
+  url: https://eq2.fandom.com/wiki/Dagger_of_Lingering_Forces
+  history: https://eq2.fandom.com/wiki/Dagger_of_Lingering_Forces?action=history
+  revision: 1896463
+  revised: '2025-09-18T17:48:14Z'
+  license: CC BY-SA 3.0
+expansion: Kunark Ascending
+expansion_source: source
+---
+
+

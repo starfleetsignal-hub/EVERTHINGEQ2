@@ -1,0 +1,52 @@
+---
+title: Crypt Dweller Tower Shield of the Dracomancer
+type: item
+item_kind: Equipment
+icon: images/Item_2266.png
+tier: Legendary
+level: '130'
+slot: Shield
+flags: attunable heirloom
+stats:
+  sta: +6,533
+  agi: +3,899
+  health: +363,238
+  power: +228,270
+  crit: '557.9'
+  potency: 49,806.8
+  resolve: '515'
+  cbovercap: '+1560.1'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM -697698886 -480656950:Crypt Dweller Tower Shield of the Dracomancer\/a
+categories:
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Legendary Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 14 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+source:
+  title: Crypt Dweller Tower Shield of the Dracomancer
+  url: https://eq2.fandom.com/wiki/Crypt_Dweller_Tower_Shield_of_the_Dracomancer
+  history: https://eq2.fandom.com/wiki/Crypt_Dweller_Tower_Shield_of_the_Dracomancer?action=history
+  revision: 1839884
+  revised: '2024-11-25T00:49:36Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

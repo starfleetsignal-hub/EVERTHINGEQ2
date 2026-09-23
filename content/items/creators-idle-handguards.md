@@ -1,0 +1,59 @@
+---
+title: Creator's Idle Handguards
+type: item
+item_kind: Equipment
+icon: images/Item_3246.png
+tier: Fabled
+level: '120'
+slot: Hands
+flags: attunable heirloom
+stats:
+  sta: +4,832
+  agi: +2,486
+  health: +153,923
+  power: +96,731
+  mit: '909'
+  potency: 10,197.1
+  resolve: '250'
+  multi: '17.5'
+  cbovercap: '+418.8'
+  dtype: Chain Armor
+item_link: \aITEM -1784197700 427787505:Creator's Idle Handguards\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Block Chance (Equipment)
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus Overcap (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Hands (Inventory Slot)
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+source:
+  title: Creator's Idle Handguards
+  url: https://eq2.fandom.com/wiki/Creator's_Idle_Handguards
+  history: https://eq2.fandom.com/wiki/Creator's_Idle_Handguards?action=history
+  revision: 1652107
+  revised: '2023-03-14T10:02:57Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

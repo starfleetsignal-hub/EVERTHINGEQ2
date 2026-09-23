@@ -1,0 +1,55 @@
+---
+title: Darkpaw Scourge Gauntlets of Willful Permanence
+type: item
+item_kind: Equipment
+icon: images/Item_5601.png
+tier: Fabled
+level: '130'
+slot: Hands
+flags: no-trade
+stats:
+  str: +3,249
+  sta: +5,509
+  health: +285,788
+  power: +179,598
+  maxhealth: '319.5'
+  mit: '1064'
+  critbonus: 1,300
+  potency: 38,187.5
+  resolve: '490'
+  dtype: Plate Armor
+obtained_from: From [[Darkpaw Spoils III - Hands]]
+item_link: \aITEM 840946595 944415075:Darkpaw Scourge Gauntlets of Willful Permanence\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Hands (Inventory Slot)
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Max Health (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 14 Equipment
+- Warrior Equipment
+source:
+  title: Darkpaw Scourge Gauntlets of Willful Permanence
+  url: https://eq2.fandom.com/wiki/Darkpaw_Scourge_Gauntlets_of_Willful_Permanence
+  history: https://eq2.fandom.com/wiki/Darkpaw_Scourge_Gauntlets_of_Willful_Permanence?action=history
+  revision: 1797944
+  revised: '2024-05-03T12:34:55Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

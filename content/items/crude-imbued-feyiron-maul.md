@@ -1,0 +1,62 @@
+---
+title: Crude imbued feyiron maul
+type: item
+item_kind: Equipment
+icon: images/Item_636.png
+tier: Handcrafted
+level: '30'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+16'
+  wis: '+18'
+  dmg: 19 - 56
+  delay: '2.5'
+  drating: '30.02'
+  dtype: Two-Handed Crushing
+  wtype: Great Hammer
+effects: '**Faintly Gleaming Strike**'
+item_link: \aITEM 512525226 1063179921:crude imbued feyiron maul\/a
+categories:
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Faintly Gleaming Strike (Equipment)
+- Fighter Equipment
+- Fury Equipment
+- Great Hammer (Weapon Type)
+- Guardian Equipment
+- Handcrafted Equipment
+- Inquisitor Equipment
+- Monk Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Templar Equipment
+- Tier 4 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Crude imbued feyiron maul
+  url: https://eq2.fandom.com/wiki/Crude_imbued_feyiron_maul
+  history: https://eq2.fandom.com/wiki/Crude_imbued_feyiron_maul?action=history
+  revision: 1896108
+  revised: '2025-09-18T17:35:15Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

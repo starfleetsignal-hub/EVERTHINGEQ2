@@ -1,0 +1,73 @@
+---
+title: Deep Forge Fatewalker Blade
+type: item
+item_kind: Equipment
+icon: images/Item_2263.png
+tier: Legendary
+level: '90'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: no-trade
+stats:
+  sta: '+150'
+  agi: '+150'
+  health: '+70'
+  power: '+18'
+  crit: '5.34'
+  critbonus: '4.84'
+  potency: '14.9'
+  abmod: '+301'
+  dmg: 151 - 226
+  delay: '4.0'
+  drating: '94.29'
+  dtype: One-Handed Slashing
+  wtype: Sword
+item_link: \aITEM -1710319878 -1100941653:Deep Forge Fatewalker Blade\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Legendary Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 10 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Deep Forge Fatewalker Blade
+  url: https://eq2.fandom.com/wiki/Deep_Forge_Fatewalker_Blade
+  history: https://eq2.fandom.com/wiki/Deep_Forge_Fatewalker_Blade?action=history
+  revision: 1424111
+  revised: '2022-03-21T03:18:12Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

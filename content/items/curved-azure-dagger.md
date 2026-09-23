@@ -1,0 +1,86 @@
+---
+title: Curved Azure Dagger
+type: item
+item_kind: Equipment
+icon: images/Item_2370.png
+tier: Fabled
+level: '100'
+slot: Primary
+classes: ', , , , , [[Channeler]]'
+flags: lore attunable
+stats:
+  str: '+361'
+  sta: '+714'
+  agi: '+361'
+  wis: '+361'
+  int: '+361'
+  crit: '120.4'
+  critbonus: '21.7'
+  potency: '21.7'
+  aspeed: '60.1'
+  dps: '42'
+  dmg: 196 - 1109
+  delay: '6.0'
+  drating: '217.51'
+  dtype: One-Handed Piercing
+  wtype: Dagger
+obtained_from: From [[Malicious Caisson]]
+item_link: \aITEM -1348208548 -1297429756:Curved Azure Dagger\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Dagger (Weapon Type)
+- Defiler Equipment
+- Dirge Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Item obtained from a Crate
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Piercing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Curved Azure Dagger
+  url: https://eq2.fandom.com/wiki/Curved_Azure_Dagger
+  history: https://eq2.fandom.com/wiki/Curved_Azure_Dagger?action=history
+  revision: 805182
+  revised: '2017-12-25T12:03:47Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: source
+---
+
+

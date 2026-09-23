@@ -1,0 +1,46 @@
+---
+title: Discord's Battle Medic Toolbelt
+type: item
+item_kind: Equipment
+icon: images/Item_2147.png
+tier: Fabled
+level: '90'
+slot: Waist
+flags: lore-equip attunable heirloom no-value
+stats:
+  sta: '+64'
+  wis: '+64'
+effects: '**Mutilation**'
+item_link: \aITEM 1237851838 -1992422242:Discord's Battle Medic Toolbelt\/a
+categories:
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Inquisitor Equipment
+- Mutilation (Equipment)
+- Mystic Equipment
+- Priest Equipment
+- Shaman Equipment
+- Spell Reuse Speed (Equipment)
+- Templar Equipment
+- Tier 10 Equipment
+- Waist (Inventory Slot)
+- Warden Equipment
+source:
+  title: Discord's Battle Medic Toolbelt
+  url: https://eq2.fandom.com/wiki/Discord's_Battle_Medic_Toolbelt
+  history: https://eq2.fandom.com/wiki/Discord's_Battle_Medic_Toolbelt?action=history
+  revision: 1833309
+  revised: '2024-11-24T20:17:57Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

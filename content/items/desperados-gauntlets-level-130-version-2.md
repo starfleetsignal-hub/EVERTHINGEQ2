@@ -1,0 +1,60 @@
+---
+title: Desperado's Gauntlets (Level 130) (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_3331.png
+tier: Legendary
+level: '130'
+slot: Hands
+flags: lore no-trade no-value infusable
+stats:
+  sta: +5,585
+  agi: +3,362
+  health: +628,394
+  power: +628,394
+  maxhealth: '723.9'
+  mit: '837'
+  critbonus: 1,345.4
+  potency: 45,356.9
+  resolve: '600'
+  dtype: Chain Armor
+obtained_from: From [[A Packet of Equipment (Brigand, 130) (Version 2)|A Packet of Equipment]]
+item_link: \aITEM -592702080 166632786:Desperado's Gauntlets\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Hands (Inventory Slot)
+- Item obtained from a Crate
+- Legendary Equipment
+- Max Health (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 14 Equipment
+- Troubador Equipment
+source:
+  title: Desperado's Gauntlets (Level 130) (Version 2)
+  url: https://eq2.fandom.com/wiki/Desperado's_Gauntlets_(Level_130)_(Version_2)
+  history: https://eq2.fandom.com/wiki/Desperado's_Gauntlets_(Level_130)_(Version_2)?action=history
+  revision: 2005484
+  revised: '2026-05-17T13:50:03Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

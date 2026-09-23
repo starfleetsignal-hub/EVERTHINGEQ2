@@ -1,0 +1,47 @@
+---
+title: Discord's Battle Medic Needlepoint Earring
+type: item
+item_kind: Equipment
+icon: images/Item_3472.png
+tier: Fabled
+level: '90'
+slot: Ear
+flags: lore-equip attunable heirloom no-value
+stats:
+  sta: '+69'
+  wis: '+55'
+  crit: '8'
+effects: '**Overloaded Heal**'
+item_link: \aITEM 1159589588 -252958919:Discord's Battle Medic Needlepoint Earring\/a
+categories:
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Ear (Inventory Slot)
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Inquisitor Equipment
+- Mystic Equipment
+- Overloaded Heal (Equipment)
+- Priest Equipment
+- Shaman Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warden Equipment
+source:
+  title: Discord's Battle Medic Needlepoint Earring
+  url: https://eq2.fandom.com/wiki/Discord's_Battle_Medic_Needlepoint_Earring
+  history: https://eq2.fandom.com/wiki/Discord's_Battle_Medic_Needlepoint_Earring?action=history
+  revision: 1884218
+  revised: '2025-09-15T21:24:17Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

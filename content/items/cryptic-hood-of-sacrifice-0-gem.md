@@ -1,0 +1,53 @@
+---
+title: Cryptic Hood of Sacrifice (0 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_432.png
+tier: Legendary
+level: '95'
+slot: Head
+flags: attunable heirloom no-value
+description: 0/4 yellow gem slots filled
+stats:
+  sta: '+337'
+  int: '+240'
+  maxhealth: '7.7'
+  mit: '323'
+  critbonus: '22.8'
+  potency: '22.8'
+  abmod: +3,341
+  dtype: Cloth Armor
+item_link: \aITEM 1790966706 1828588321:Cryptic Hood of Sacrifice\/a
+categories:
+- Ability Modifier (Equipment)
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Head (Inventory Slot)
+- Illusionist Equipment
+- Legendary Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 10 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Cryptic Hood of Sacrifice (0 Gem)
+  url: https://eq2.fandom.com/wiki/Cryptic_Hood_of_Sacrifice_(0_Gem)
+  history: https://eq2.fandom.com/wiki/Cryptic_Hood_of_Sacrifice_(0_Gem)?action=history
+  revision: 1940887
+  revised: '2026-01-03T23:21:55Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

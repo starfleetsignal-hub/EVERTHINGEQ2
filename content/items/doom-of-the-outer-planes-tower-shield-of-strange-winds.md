@@ -1,0 +1,52 @@
+---
+title: Doom of the Outer Planes Tower Shield of Strange Winds
+type: item
+item_kind: Equipment
+icon: images/Item_3602.png
+tier: Fabled
+level: '135'
+slot: Shield
+flags: attunable heirloom
+stats:
+  sta: +6,664
+  agi: +4,094
+  health: +842,788
+  power: +842,788
+  crit: '585.8'
+  potency: 63,446.5
+  resolve: '670'
+  cbovercap: '+1638.3'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM 1656577798 -14761304:Doom of the Outer Planes Tower Shield of Strange Winds\/a
+categories:
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 14 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+source:
+  title: Doom of the Outer Planes Tower Shield of Strange Winds
+  url: https://eq2.fandom.com/wiki/Doom_of_the_Outer_Planes_Tower_Shield_of_Strange_Winds
+  history: https://eq2.fandom.com/wiki/Doom_of_the_Outer_Planes_Tower_Shield_of_Strange_Winds?action=history
+  revision: 2024027
+  revised: '2026-08-23T13:27:06Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+

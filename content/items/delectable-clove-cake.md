@@ -1,0 +1,34 @@
+---
+title: Delectable clove cake
+type: item
+item_kind: Food
+icon: images/Item_299.png
+tier: Handcrafted
+level: '60'
+item_level: '60'
+stats:
+  satiation: High
+  duration: 1 hour
+effects: '- Increases Max Power of target by 108.8.
+
+  - Increases Health Regen of target by 127.5.'
+item_link: \aITEM -793815473 -2106939919:delectable clove cake\/a
+categories:
+- Census Credits
+- Food (Item Type)
+- Handcrafted Items
+- Items
+- Tier 7 Food
+- Tier 7 Items
+source:
+  title: Delectable clove cake
+  url: https://eq2.fandom.com/wiki/Delectable_clove_cake
+  history: https://eq2.fandom.com/wiki/Delectable_clove_cake?action=history
+  revision: 1176544
+  revised: '2021-01-04T22:20:50Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

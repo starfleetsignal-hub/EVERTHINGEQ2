@@ -1,0 +1,48 @@
+---
+title: Crude imbued ebon katar
+type: item
+item_kind: Equipment
+icon: images/Item_1672.png
+tier: Mastercrafted
+level: '42'
+slot: Primary
+flags: attunable
+stats:
+  str: '+13'
+  sta: '+13'
+  potency: '0.2'
+  dmg: 14 - 41
+  delay: '1.6'
+  drating: '34.09'
+  dtype: One-Handed Slashing
+  wtype: Fists
+effects: '**Faintly Gleaming Strike**'
+item_link: \aITEM -1955214369 -2126204276:crude imbued ebon katar\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Combat Skills (Equipment)
+- Equipment
+- Faintly Gleaming Strike (Equipment)
+- Fists (Weapon Type)
+- Mastercrafted Equipment
+- Monk Equipment
+- One-Handed Slashing (Equipment Type)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Tier 5 Equipment
+source:
+  title: Crude imbued ebon katar
+  url: https://eq2.fandom.com/wiki/Crude_imbued_ebon_katar
+  history: https://eq2.fandom.com/wiki/Crude_imbued_ebon_katar?action=history
+  revision: 1896059
+  revised: '2025-09-18T17:33:32Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

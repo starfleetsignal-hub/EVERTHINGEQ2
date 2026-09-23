@@ -1,0 +1,23 @@
+---
+title: Crooked Cootie Claw
+type: item
+item_kind: Collection Item
+icon: images/Item_5909.png
+item_level: '130'
+item_link: \aITEM -561906363 2125297388:Crooked Cootie Claw\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: Crooked Cootie Claw
+  url: https://eq2.fandom.com/wiki/Crooked_Cootie_Claw
+  history: https://eq2.fandom.com/wiki/Crooked_Cootie_Claw?action=history
+  revision: 1876615
+  revised: '2025-05-18T19:55:07Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+This item is needed for the collection: [[Crabicus Crunch's King Cootie Claws]]

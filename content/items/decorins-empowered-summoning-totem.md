@@ -1,0 +1,65 @@
+---
+title: Decorin's Empowered Summoning Totem
+type: item
+item_kind: Equipment
+icon: images/Item_860.png
+tier: Fabled
+level: '92'
+slot: Charm
+flags: lore-equip attunable heirloom
+stats:
+  str: '+110'
+  sta: '+110'
+  crit: '7.8'
+  critbonus: '6.8'
+  potency: '11.2'
+  multi: '19.2'
+effects: '**Major Violence and Ruination**'
+item_link: \aITEM 859469114 -1157991193:Decorin's Empowered Summoning Totem\/a
+categories:
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Charm (Inventory Slot)
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Major Violence and Ruination (Equipment)
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Reuse Speed (Equipment)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Decorin's Empowered Summoning Totem
+  url: https://eq2.fandom.com/wiki/Decorin's_Empowered_Summoning_Totem
+  history: https://eq2.fandom.com/wiki/Decorin's_Empowered_Summoning_Totem?action=history
+  revision: 1884164
+  revised: '2025-09-15T21:21:09Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

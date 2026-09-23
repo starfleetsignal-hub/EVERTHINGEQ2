@@ -1,0 +1,66 @@
+---
+title: Dormant Longbow of Vrezdask
+type: item
+item_kind: Equipment
+icon: images/Item_724.png
+tier: Legendary
+level: '95'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: attunable heirloom
+stats:
+  sta: '+378'
+  agi: '+273'
+  crit: '91.1'
+  critbonus: '16.4'
+  potency: '16.4'
+  dmg: 267 - 1511
+  delay: '9.0'
+  drating: '197.57'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+item_link: \aITEM 4959404 -694105146:Dormant Longbow of Vrezdask\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Block Chance (Equipment)
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Legendary Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Dormant Longbow of Vrezdask
+  url: https://eq2.fandom.com/wiki/Dormant_Longbow_of_Vrezdask
+  history: https://eq2.fandom.com/wiki/Dormant_Longbow_of_Vrezdask?action=history
+  revision: 1705107
+  revised: '2023-03-18T15:34:46Z'
+  license: CC BY-SA 3.0
+expansion: Tears of Veeshan
+expansion_source: linked
+---
+
+

@@ -1,0 +1,50 @@
+---
+title: Crude forged indium vanguard gauntlets (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_1715.png
+tier: Handcrafted
+level: '50'
+slot: Hands
+flags: attunable
+stats:
+  sta: '+20'
+  wis: '+21'
+  mit: '300'
+  crit: '0.2'
+  potency: '0.7'
+  abmod: '+20'
+  dtype: Plate Armor
+item_link: \aITEM 1138653432 1060610410:crude forged indium vanguard gauntlets\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Hands (Inventory Slot)
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 6 Equipment
+- Warrior Equipment
+source:
+  title: Crude forged indium vanguard gauntlets (Version 1)
+  url: https://eq2.fandom.com/wiki/Crude_forged_indium_vanguard_gauntlets_(Version_1)
+  history: https://eq2.fandom.com/wiki/Crude_forged_indium_vanguard_gauntlets_(Version_1)?action=history
+  revision: 1311118
+  revised: '2021-05-15T21:48:59Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

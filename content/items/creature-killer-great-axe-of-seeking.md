@@ -1,0 +1,63 @@
+---
+title: Creature Killer Great Axe of Seeking
+type: item
+item_kind: Equipment
+icon: images/Item_2971.png
+tier: Legendary
+level: '132'
+slot: Primary
+classes: ', , , [[Channeler]], [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +13,196
+  agi: +7,990
+  health: +1537,718
+  power: +1537,718
+  crit: '1143.2'
+  potency: 112,485.6
+  resolve: '1240'
+  abmod: +5075,970
+  cbovercap: '+3197.4'
+  dmg: 12085 - 18127
+  delay: '6.0'
+  drating: '5035.41'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+item_link: \aITEM -316606367 1718016439:Creature Killer Great Axe of Seeking\/a
+categories:
+- Ability Modifier (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Legendary Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Tier 14 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Creature Killer Great Axe of Seeking
+  url: https://eq2.fandom.com/wiki/Creature_Killer_Great_Axe_of_Seeking
+  history: https://eq2.fandom.com/wiki/Creature_Killer_Great_Axe_of_Seeking?action=history
+  revision: 1924677
+  revised: '2025-12-31T14:13:32Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+

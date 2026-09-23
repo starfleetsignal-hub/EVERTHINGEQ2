@@ -1,0 +1,42 @@
+---
+title: Crude imbued briarwood kite shield
+type: item
+item_kind: Equipment
+icon: images/Item_2268.png
+tier: Handcrafted
+level: '30'
+slot: Shield
+flags: attunable
+stats:
+  sta: '+8'
+  int: '+9'
+  dtype: Kite Shield
+effects: '**Faint Sanguine Imbued**'
+item_link: \aITEM -745984917 -729675666:crude imbued briarwood kite shield\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Equipment
+- Faint Sanguine Imbued (Equipment)
+- Guardian Equipment
+- Handcrafted Equipment
+- Kite Shield (Equipment Type)
+- Paladin Equipment
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 4 Equipment
+- Warrior Equipment
+source:
+  title: Crude imbued briarwood kite shield
+  url: https://eq2.fandom.com/wiki/Crude_imbued_briarwood_kite_shield
+  history: https://eq2.fandom.com/wiki/Crude_imbued_briarwood_kite_shield?action=history
+  revision: 1891892
+  revised: '2025-09-17T20:14:22Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+
