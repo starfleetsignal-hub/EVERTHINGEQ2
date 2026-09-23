@@ -2,7 +2,6 @@
 title: A Graystone resident
 type: npc
 expansion: Shattered Lands
-race: '*'
 zone: '[[Qeynos Province District]]'
 location: Outside [[Graystone Yard]]
 added_in: Shattered Lands

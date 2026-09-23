@@ -4,7 +4,6 @@ type: npc
 expansion: Shattered Lands
 subtitle: A gratified merchant in Antonica.
 purpose: Merchant
-race: '*'
 zone: '[[*]]'
 location: See notes below
 image: images/A_gratified_merchant_(Ant).jpg

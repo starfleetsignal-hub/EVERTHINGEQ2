@@ -4,7 +4,6 @@ type: npc
 expansion: Shattered Lands
 subtitle: The North Qeynos celebrator as a dwarf
 purpose: Ecology
-race: '*'
 zone: '[[*]]'
 location: Multiple Locations (see below)
 events:

@@ -2,7 +2,6 @@
 title: A sickened citizen
 type: npc
 expansion: Shattered Lands
-race: '*'
 zone: '[[Qeynos Province District]]'
 location: '[[The Elddar Grove (POI)|The Elddar Grove]]'
 categories:

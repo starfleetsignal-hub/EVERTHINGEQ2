@@ -3,7 +3,6 @@ title: A gratified merchant (Nek)
 type: npc
 expansion: Shattered Lands
 purpose: Merchant
-race: '*'
 zone: '[[Nektulos Forest]]'
 location: See notes below
 image: images/A_gratified_merchant_(Ant).jpg

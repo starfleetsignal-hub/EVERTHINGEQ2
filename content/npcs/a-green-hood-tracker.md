@@ -1,30 +1,30 @@
 ---
-title: A green hood tracker
+title: A Green Hood tracker
 type: npc
-expansion: Shattered Lands
-race: Gnome
-zone: '[[The Feerrott]]'
-faction: The Green Hoods
-location: The Qeynosian camp at {{waypoint 65, 2, 46}}
+race: Wood Elf
+zone: '[[Scourge Keep (Advanced Solo)]]'
+location: Near the exit to [[Zek, the Scourge Wastes]] {{waypoint -208.01, 2.12, 92.35}}
+added_in: LU100
 categories:
-- Gnome
-- NPC pages that need EQ2MAP uid
+- LU100 NPCs
 - NPCs
 - Quest (NPC Type)
-- Shattered Lands NPCs
-- The Feerrott NPCs
-- The Feerrott Quest NPCs
-- The Green Hoods (Faction)
-- The Green Hoods NPCs
+- Scourge Keep (Advanced Solo) NPCs
+- Scourge Keep (Advanced Solo) Quest NPCs
+- Wood Elf
 source:
-  title: A green hood tracker
-  url: https://eq2.fandom.com/wiki/A_green_hood_tracker
-  history: https://eq2.fandom.com/wiki/A_green_hood_tracker?action=history
-  revision: 886904
-  revised: '2018-07-12T06:14:52Z'
+  title: A Green Hood tracker
+  url: https://eq2.fandom.com/wiki/A_Green_Hood_tracker
+  history: https://eq2.fandom.com/wiki/A_Green_Hood_tracker?action=history
+  revision: 681035
+  revised: '2016-05-07T01:22:58Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
+
+- *Near the tracker is a bottle. Clicking the bottle will prevent the cutscenes from running inside the Keep.*
+
 ## Related Quests
 
-- [[Overseas Mail]]
+- [[Knock Knock, Maknok]]

@@ -3,7 +3,6 @@ title: A gratified merchant (Antonica)
 type: npc
 expansion: Shattered Lands
 purpose: Merchant
-race: '*'
 zone: '[[Antonica]]'
 location: See notes below
 image: images/A_gratified_merchant_(Ant).jpg

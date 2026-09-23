@@ -1,0 +1,62 @@
+---
+title: Gonok Shieldmaul
+type: npc
+purpose: Mercenary
+race: Drolvarg
+class: Inquisitor
+zone: '[[Rogues Gallery]]'
+location: '{{waypoint 31, -32, -20}}'
+added_in: ‎Rum Cellar Campaign
+categories:
+- Drolvarg
+- Inquisitor Mercenary
+- Mercenary (NPC Type)
+- NPC needing location
+- NPC pages that need EQ2MAP uid
+- NPCs
+- Rogues Gallery Mercenary NPCs
+- Rogues Gallery NPCs
+- Rum Cellar Campaign NPCs
+source:
+  title: Gonok Shieldmaul
+  url: https://eq2.fandom.com/wiki/Gonok_Shieldmaul
+  history: https://eq2.fandom.com/wiki/Gonok_Shieldmaul?action=history
+  revision: 1049814
+  revised: '2020-05-01T13:57:52Z'
+  license: CC BY-SA 3.0
+---
+
+## Description
+
+*"Gonok Maulclaw has long been away from his descendants in Kunark. Captured as a pup, he was raised by the dwarven brothers Grim and Kror Stormshield, simply because they desired a challenge. He has since been on his own and seems to value honor and victory above all else. Good dwarven values"*
+
+## Abilities / Spells
+
+- [[Mercenary's Resolve]] (Increases resolve granted by worn equipment by 400%)
+- [[Fanaticism IV]] (Master)
+- [[Sacred Armor VII]] (Master)
+- [[Fanatic's Faith VI]] (Master)
+- [[Tenacity VII]] (Master)
+- [[Condemn VIII]] (Master)
+- [[Hammer Divine Smite III]] (Master)
+- [[Alleviation VII]] (Master)
+- [[Fanatical Healing VIII]] (Master)
+- [[Resolute Flagellant III]] (Master)
+- [[Malevolent Diatribe VII]] (Master)
+- [[Mercenary Battalion: Shattered Lands (Healer)]]
+- Open free spell slot on the Hire tab
+- Open free spell slot on the Hire tab
+- Open free spell slot on the Hire tab
+
+(to be confirmed after Merc Revamp) :
+
+## Rarity
+
+All mercenaries from [[Mercenary Crates|mercenary crates]] are granted randomly. Rarity describes how likely or unlikely a player is to get this mercenary from a crate and, in turn, how much they will sell to [[Sneerio Backlash]] for [[Status points|status points]].
+
+- Gonok Shieldmaul is common and sells for 1,000,000 status.
+
+## Notes
+
+- See the [[Rogues Gallery]] page for information about this type of mercenary and the location they are found in.
+- See the [[Mercenary Guide]] for a page that describes the use, train, how to add gear, and other topics related to mercenaries.

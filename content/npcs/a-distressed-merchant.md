@@ -4,7 +4,6 @@ type: npc
 expansion: Shattered Lands
 subtitle: A distressed merchant in Antonica.
 purpose: Merchant
-race: '*'
 zone: '[[*]]'
 location: See notes below
 image: images/A_distressed_merchant_(Ant).jpg

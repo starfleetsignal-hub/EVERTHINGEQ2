@@ -2,7 +2,6 @@
 title: An eager cultist
 type: npc
 expansion: Shattered Lands
-race: '*'
 zone: '[[The Shadowhand Crypt]]'
 location: Near the back of the crypt
 categories:

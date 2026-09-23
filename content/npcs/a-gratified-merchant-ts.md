@@ -3,7 +3,6 @@ title: A gratified merchant (TS)
 type: npc
 expansion: Shattered Lands
 purpose: Merchant
-race: '*'
 zone: '[[The Thundering Steppes]]'
 location: See notes below
 image: images/A_gratified_merchant_(Ant).jpg

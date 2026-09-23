@@ -30,7 +30,7 @@ source:
 As a Norrathian Armory Merchant, Sirius is the primary point of contact when handling the looted [[Relics]] from [[Rage of Cthurath]] and its related Game Update dungeon instances.
 
 - The initial Fabled, Relic items may only be looted as rare drops from [Solo] and [Heroic] bosses
-  - Once looted *(NOT traded from another player)* the first time, the player's account is flagged to allow any subsequent purchases of that same Fabled version directly from this NPC *(by that same character or any other character on the account)* at the cost of x1 [[Norrathian Armory Token]] **per Relic** ( each), allowing players to pay real-world money to 'skip' the time spent trying to loot another 'rare drop'
+  - Once looted *(NOT traded from another player)* the first time, the player's account is flagged to allow any subsequent purchases of that same Fabled version directly from this NPC *(by that same character or any other character on the account)* at the cost of x1 [[Norrathian Armory Token]] **per Relic** (Marketplace (999 Daybreak Cash) each), allowing players to pay real-world money to 'skip' the time spent trying to loot another 'rare drop'
 - Players possessing the fabled version of a Relic *(either looted -or- traded)* may use the fabled version to purchase the upgraded Mythical, Relic version of that same Relic.
 
 ## Barter List
