@@ -36,7 +36,12 @@ def fetch(i):
     for attempt in range(4):
         try:
             req = urllib.request.Request(i["url"] + "?format=original", headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=60) as r: data = r.read()
+            with urllib.request.urlopen(req, timeout=60) as r:
+                parts, deadline = [], time.time() + 300    # a server that trickles bytes would otherwise hold the job for hours
+                while chunk := r.read1(1 << 16):
+                    parts.append(chunk)
+                    if time.time() > deadline: raise TimeoutError("download took over 5 minutes")
+                data = b"".join(parts)
             return data
         except Exception as e:
             err = str(e)

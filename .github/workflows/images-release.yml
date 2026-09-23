@@ -7,6 +7,11 @@ on:
     branches: [main]
     paths: ["images-release.json"]
   workflow_dispatch:
+    inputs:
+      shards:
+        description: 'Shards to (re)build as a JSON list, e.g. [4]; empty means all'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -47,7 +52,9 @@ jobs:
           )"
           gh release upload "$TAG" images-release.json --clobber
       - id: shards
-        run: echo "shards=$(python3 tools/release_images.py --list-shards)" >> "$GITHUB_OUTPUT"
+        env:
+          ONLY: ${{ github.event.inputs.shards }}
+        run: echo "shards=${ONLY:-$(python3 tools/release_images.py --list-shards)}" >> "$GITHUB_OUTPUT"
 
   shard:
     needs: release
