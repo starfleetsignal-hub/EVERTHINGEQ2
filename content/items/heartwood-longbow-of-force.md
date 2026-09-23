@@ -1,0 +1,76 @@
+---
+title: Heartwood Longbow of Force
+type: item
+item_kind: Equipment
+icon: images/Item_3754.png
+tier: Mastercrafted Legendary
+level: '105'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: attunable infusable
+stats:
+  sta: +1,466
+  agi: '+850'
+  health: +24,623
+  power: +7,384
+  crit: '300.7'
+  critbonus: '177.7'
+  potency: '220.7'
+  resolve: '24'
+  abmod: +2,462
+  dps: '89.6'
+  dmg: 627 - 1880
+  delay: '8.0'
+  drating: '313.37'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+effects: '**Elemental Rending**'
+obtained_from: Crafted by [[Woodworker]] (level 105) from [[Advanced Woodworker Volume 105]]
+item_link: \aITEM 1317418463 626240730:Heartwood Longbow of Force\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Dirge Equipment
+- Elemental Rending (Equipment)
+- Equipment
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Heartwood Longbow of Force
+  url: https://eq2.fandom.com/wiki/Heartwood_Longbow_of_Force
+  history: https://eq2.fandom.com/wiki/Heartwood_Longbow_of_Force?action=history
+  revision: 1898137
+  revised: '2025-09-18T19:07:15Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

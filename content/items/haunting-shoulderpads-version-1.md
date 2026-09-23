@@ -1,0 +1,67 @@
+---
+title: Haunting Shoulderpads (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_3650.png
+tier: Legendary
+level: '76'
+slot: Shoulders
+flags: attunable heirloom
+stats:
+  sta: '+45'
+  agi: '+45'
+  mit: '318'
+  crit: '2.3'
+  critbonus: '0.8'
+  potency: '3.6'
+  dps: '9.7'
+  dtype: Chain Armor
+item_link: \aITEM -793147176 1770472350:Haunting Shoulderpads\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- 'Charasis: Vault of Eternal Sleep Dropped Items'
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Shoulders (Inventory Slot)
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Haunting Shoulderpads (Version 1)
+  url: https://eq2.fandom.com/wiki/Haunting_Shoulderpads_(Version_1)
+  history: https://eq2.fandom.com/wiki/Haunting_Shoulderpads_(Version_1)?action=history
+  revision: 1664222
+  revised: '2023-03-15T19:38:00Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

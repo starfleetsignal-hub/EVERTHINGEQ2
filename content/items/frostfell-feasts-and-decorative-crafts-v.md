@@ -1,0 +1,55 @@
+---
+title: Frostfell Feasts and Decorative Crafts V
+type: item
+item_kind: Recipe book
+icon: images/Item_2183.png
+level: '1'
+classes: Artisan
+flags: heirloom
+recipes: '- [[Candy-Striped Frostfell Mug]]
+
+  - [[Classic Frostfell Mug]]
+
+  - [[Frostfell Soup Tureen]]
+
+  - [[Frostfell Steamed Green Beans]]
+
+  - [[Giant Blue Raspberry Taffy Stick]]
+
+  - [[Giant Butterscotch Ball]]
+
+  - [[Giant Cinnamint Swirl]]
+
+  - [[Giant Green Apple Sour]]
+
+  - [[Giant Tart Cherry Taffy Stick]]
+
+  - [[Giant Vanilla Ball]]
+
+  - [[Giant Vanilla Taffy Stick]]'
+obtained_from: '*Sold by [[Giggawat Gigglegibber]] (Frostfell) in [[Frostfell Wonderland Village]] for 60s 90c *Sold by [[Garsleblat Gigglegibber]] in [[Frostfell Wonderland Village]]'
+item_link: \aITEM -1678396794 -408712135:Frostfell Feasts and Decorative Crafts V\/a
+events:
+- Frostfell
+categories:
+- Artisan Recipe Books
+- Census Credits
+- Frostfell
+- Frostfell Recipe Books
+- Recipe Books
+source:
+  title: Frostfell Feasts and Decorative Crafts V
+  url: https://eq2.fandom.com/wiki/Frostfell_Feasts_and_Decorative_Crafts_V
+  history: https://eq2.fandom.com/wiki/Frostfell_Feasts_and_Decorative_Crafts_V?action=history
+  revision: 1867554
+  revised: '2025-04-02T16:04:09Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+## Notes
+
+To make these items you need special crafting stations and materials.
+
+- See the [[Frostfell Crafting Stations]] page for details about both of the above.

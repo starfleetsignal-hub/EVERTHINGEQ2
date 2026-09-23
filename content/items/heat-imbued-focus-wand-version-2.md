@@ -1,0 +1,69 @@
+---
+title: Heat-Imbued Focus Wand (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_349.png
+tier: Legendary
+level: '65'
+slot: Ranged
+flags: no-trade
+stats:
+  str: '+31'
+  sta: '+31'
+  crit: '1.1'
+  critbonus: '0.3'
+  potency: '1.7'
+  dmg: 89 - 502
+  delay: '8.0'
+  drating: '73.89'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+obtained_from: '[[Claws in the Darkness]]'
+item_link: \aITEM 749565790 -1691269495:Heat-Imbued Focus Wand\/a
+categories:
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 7 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Heat-Imbued Focus Wand (Version 2)
+  url: https://eq2.fandom.com/wiki/Heat-Imbued_Focus_Wand_(Version_2)
+  history: https://eq2.fandom.com/wiki/Heat-Imbued_Focus_Wand_(Version_2)?action=history
+  revision: 1718559
+  revised: '2023-04-15T20:59:41Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: source
+---
+
+

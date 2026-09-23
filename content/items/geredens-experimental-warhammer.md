@@ -1,0 +1,87 @@
+---
+title: Gereden's Experimental Warhammer
+type: item
+item_kind: Equipment
+icon: images/Item_3568.png
+tier: Mythical
+level: '125'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +12,910
+  agi: +7,566
+  health: +640,422
+  power: +402,462
+  maxhealth: '370.6'
+  crit: '1082.6'
+  potency: 80,884.8
+  resolve: '910'
+  cbovercap: '+3026.6'
+  mitinc: '64.2'
+  dmg: 8687 - 13031
+  delay: '6.0'
+  drating: '3619.73'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+effects: '**Wary Protection**'
+item_link: \aITEM -2079941418 -1848301121:Gereden's Experimental Warhammer\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Mythical Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wary Protection (Equipment)
+- Wizard Equipment
+source:
+  title: Gereden's Experimental Warhammer
+  url: https://eq2.fandom.com/wiki/Gereden's_Experimental_Warhammer
+  history: https://eq2.fandom.com/wiki/Gereden's_Experimental_Warhammer?action=history
+  revision: 1732110
+  revised: '2023-07-11T20:00:54Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

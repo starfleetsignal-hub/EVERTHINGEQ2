@@ -1,0 +1,78 @@
+---
+title: Gilded Intrusive Etched Sword
+type: item
+item_kind: Equipment
+icon: images/Item_3570.png
+tier: Fabled
+level: '100'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: no-trade infusable
+stats:
+  sta: +1,167
+  agi: '+525'
+  crit: '178'
+  critbonus: '29.3'
+  potency: '35.7'
+  resolve: '4'
+  abmod: +3,825
+  aspeed: '60.8'
+  dmg: 145 - 823
+  delay: '4.0'
+  drating: '241.97'
+  dtype: One-Handed Slashing
+  wtype: Sword
+effects: '**Blackanvil Strike**'
+obtained_from: 'Collection reward: [[Obsidian Forest Samples (Collection)]]'
+item_link: \aITEM -1794176379 1675006147:Gilded Intrusive Etched Sword\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Blackanvil Strike (Equipment)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Collection Quest Rewards
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Guardian Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 11 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Gilded Intrusive Etched Sword
+  url: https://eq2.fandom.com/wiki/Gilded_Intrusive_Etched_Sword
+  history: https://eq2.fandom.com/wiki/Gilded_Intrusive_Etched_Sword?action=history
+  revision: 1897779
+  revised: '2025-09-18T18:53:32Z'
+  license: CC BY-SA 3.0
+expansion: Terrors of Thalumbra
+expansion_source: source
+---
+
+

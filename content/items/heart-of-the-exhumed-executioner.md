@@ -1,0 +1,23 @@
+---
+title: Heart of the Exhumed Executioner
+type: item
+item_kind: Collection Item
+icon: images/Item_5763.png
+item_level: '135'
+item_link: \aITEM -58678324 162650401:Heart of the Exhumed Executioner\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: Heart of the Exhumed Executioner
+  url: https://eq2.fandom.com/wiki/Heart_of_the_Exhumed_Executioner
+  history: https://eq2.fandom.com/wiki/Heart_of_the_Exhumed_Executioner?action=history
+  revision: 2004730
+  revised: '2026-05-17T12:21:22Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+This item is needed for the collection: [[Hearts of Gerion]]

@@ -1,0 +1,87 @@
+---
+title: Gearzerker's Wristband
+type: item
+item_kind: Equipment
+icon: images/Item_378.png
+tier: Treasured
+level: '80'
+slot: Wrist
+flags: lore no-trade
+stats:
+  str: '+47'
+  sta: '+47'
+  crit: '2.5'
+  critbonus: '0.8'
+  potency: '3.8'
+  aspeed: '5.6'
+  multi: '6.4'
+  vselemental: '+311'
+item_link: \aITEM 30404675 1343067399:Gearzerker's Wristband\/a
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 9 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+- Wrist (Inventory Slot)
+source:
+  title: Gearzerker's Wristband
+  url: https://eq2.fandom.com/wiki/Gearzerker's_Wristband
+  history: https://eq2.fandom.com/wiki/Gearzerker's_Wristband?action=history
+  revision: 1526201
+  revised: '2022-07-19T18:56:16Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

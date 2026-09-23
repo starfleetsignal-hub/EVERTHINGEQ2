@@ -1,0 +1,77 @@
+---
+title: Gown of the Spurned
+type: item
+item_kind: Equipment
+icon: images/Item_2445.png
+tier: Treasured
+level: '10'
+slot: Chest
+flags: attunable
+stats:
+  str: '+4'
+  sta: '+4'
+  mit: '22'
+  dtype: Cloth Armor
+item_link: \aITEM 1714089783 276154727:Gown of the Spurned\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Chest (Inventory Slot)
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing default images
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Nektulos Forest Dropped Items
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 2 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Gown of the Spurned
+  url: https://eq2.fandom.com/wiki/Gown_of_the_Spurned
+  history: https://eq2.fandom.com/wiki/Gown_of_the_Spurned?action=history
+  revision: 1554652
+  revised: '2022-08-16T12:24:33Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: linked
+---
+
+

@@ -1,0 +1,78 @@
+---
+title: Fortified Drakizite-Studded Cap of the Underdepths
+type: item
+item_kind: Equipment
+icon: images/Item_2889.png
+tier: Fabled
+level: '92'
+slot: Head
+flags: attunable heirloom
+description: A cap studded with drakizite, a rare metal found in the Underdepths, heat treated by the flames of dragons.
+stats:
+  str: '+106'
+  sta: '+106'
+  mit: '403'
+  crit: '7.4'
+  critbonus: '6.5'
+  potency: '10.8'
+  dps: '27.9'
+  mitinc: '11.6'
+  dtype: Leather Armor
+item_link: \aITEM 1748744040 1023741087:Fortified Drakizite-Studded Cap of the Underdepths\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Block Chance (Equipment)
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Leather Armor (Equipment Type)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Priest Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Fortified Drakizite-Studded Cap of the Underdepths
+  url: https://eq2.fandom.com/wiki/Fortified_Drakizite-Studded_Cap_of_the_Underdepths
+  history: https://eq2.fandom.com/wiki/Fortified_Drakizite-Studded_Cap_of_the_Underdepths?action=history
+  revision: 1661521
+  revised: '2023-03-14T13:40:29Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

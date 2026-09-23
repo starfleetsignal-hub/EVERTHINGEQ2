@@ -1,0 +1,76 @@
+---
+title: Gravity
+type: item
+item_kind: Equipment
+icon: images/Item_2520.png
+tier: Celestial, Relic
+level: '120'
+slot: Ranged
+flags: attunable heirloom infusable
+stats:
+  sta: +5,641
+  agi: +2,873
+  health: +175,149
+  power: +110,071
+  maxhealth: '72.7'
+  crit: '401.1'
+  potency: 10,664.1
+  resolve: '240'
+  cbovercap: '+465.5'
+  dmg: 6420 - 9631
+  delay: '8.0'
+  drating: '2006.4'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+effects: '**Decisive Strike**'
+item_link: \aITEM 1426252790 1784669124:Gravity\/a
+categories:
+- Celestial Relic Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Decisive Strike (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Prestige Equipment
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Resolve (Equipment)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Weapon Damage Bonus (Equipment)
+- Wizard Equipment
+source:
+  title: Gravity
+  url: https://eq2.fandom.com/wiki/Gravity
+  history: https://eq2.fandom.com/wiki/Gravity?action=history
+  revision: 1897917
+  revised: '2025-09-18T18:59:51Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

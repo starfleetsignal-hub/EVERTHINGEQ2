@@ -1,0 +1,30 @@
+---
+title: Green and Red Felt Stocking
+type: item
+item_kind: House Item
+item_subtype: Holiday Decoration
+icon: images/Item_521.png
+tier: Handcrafted
+item_level: '10'
+description: This item can be placed on the wall in any house type.
+obtained_from: Crafted by [[Artisan]] (level 1) from [[Frostfell Outfits You Can Make XIII]]
+item_link: \aITEM -987911945 1185984014:Green and Red Felt Stocking\/a
+categories:
+- Census Credits
+- Frostfell
+- Handcrafted Items
+- Holiday Decoration (Item Subtype)
+- House Item (Item Type)
+- Items
+source:
+  title: Green and Red Felt Stocking
+  url: https://eq2.fandom.com/wiki/Green_and_Red_Felt_Stocking
+  history: https://eq2.fandom.com/wiki/Green_and_Red_Felt_Stocking?action=history
+  revision: 1868312
+  revised: '2025-04-07T15:24:48Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

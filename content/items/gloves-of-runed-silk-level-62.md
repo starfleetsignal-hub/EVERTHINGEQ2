@@ -1,0 +1,45 @@
+---
+title: Gloves of Runed Silk (Level 62)
+type: item
+item_kind: Equipment
+icon: images/Item_2896.png
+tier: Legendary
+level: '62'
+slot: Hands
+classes: '[[Conjuror]]'
+flags: no-trade
+stats:
+  sta: '+31'
+  int: '+31'
+  mit: '130'
+  crit: '1.1'
+  critbonus: '0.3'
+  potency: '1.7'
+  abmod: '+33'
+  dtype: Cloth Armor
+item_link: \aITEM 1524240703 1220707283 0 0 0:Gloves of Runed Silk\/a
+categories:
+- Ability Modifier (Equipment)
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Hands (Inventory Slot)
+- Legendary Equipment
+- Potency (Equipment)
+- Tier 7 Equipment
+source:
+  title: Gloves of Runed Silk (Level 62)
+  url: https://eq2.fandom.com/wiki/Gloves_of_Runed_Silk_(Level_62)
+  history: https://eq2.fandom.com/wiki/Gloves_of_Runed_Silk_(Level_62)?action=history
+  revision: 1554448
+  revised: '2022-08-16T12:17:59Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

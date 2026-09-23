@@ -1,0 +1,58 @@
+---
+title: Harrower's Organic Elmlinked Coif
+type: item
+item_kind: Equipment
+icon: images/Item_3330.png
+tier: Fabled
+level: '125'
+slot: Head
+flags: attunable heirloom
+stats:
+  sta: +5,423
+  agi: +3,125
+  health: +246,662
+  power: +155,010
+  mit: '585'
+  potency: 32,107.5
+  resolve: '425'
+  flurry: '44.9'
+  cbovercap: '+1250.1'
+  dtype: Chain Armor
+item_link: \aITEM -1889163836 1458246057:Harrower's Organic Elmlinked Coif\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus Overcap (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Flurry Chance (Equipment)
+- Head (Inventory Slot)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+source:
+  title: Harrower's Organic Elmlinked Coif
+  url: https://eq2.fandom.com/wiki/Harrower's_Organic_Elmlinked_Coif
+  history: https://eq2.fandom.com/wiki/Harrower's_Organic_Elmlinked_Coif?action=history
+  revision: 1718940
+  revised: '2023-04-15T21:13:25Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

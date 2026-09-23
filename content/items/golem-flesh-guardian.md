@@ -1,0 +1,34 @@
+---
+title: Golem-Flesh (Guardian)
+type: item
+item_kind: Dungeon Maker
+item_subtype: Spawner
+icon: images/Item_2238.png
+tier: Treasured
+item_level: '0'
+flags: heirloom no-value
+description: 'Activating this item will allow for you to use "a guardian sentinel," in your [[Dungeon Maker System|Dungeon Maker Dungeons]]. It will spawn as: golem-flesh (guardian)'
+effects: '- Adds Golem-Flesh (Guardian) to your Dungeon Maker toolbox'
+obtained_from: Purchased via the Marketplace using either [[Dungeon Mark|Dungeon Marks]] or Station Cash.
+item_link: \aITEM 721662689 990399721:Golem-Flesh (Guardian)\/a
+categories:
+- Census Credits
+- Creature Spawners
+- Dungeon Maker (Item Type)
+- Dungeon Maker Spawners
+- Fighter Spawners
+- Golem Spawners
+- Guardian Spawners
+- Items
+- Spawner (Item Subtype)
+- Treasured Items
+source:
+  title: Golem-Flesh (Guardian)
+  url: https://eq2.fandom.com/wiki/Golem-Flesh_(Guardian)
+  history: https://eq2.fandom.com/wiki/Golem-Flesh_(Guardian)?action=history
+  revision: 1694976
+  revised: '2023-03-16T19:37:38Z'
+  license: CC BY-SA 3.0
+---
+
+

@@ -1,0 +1,46 @@
+---
+title: Glorified Tunic of Impetus
+type: item
+item_kind: Equipment
+icon: images/Item_3986.png
+tier: Mastercrafted Fabled
+level: '40'
+slot: Chest
+classes: ', [[Channeler]]'
+flags: attunable
+stats:
+  str: '+14'
+  sta: '+14'
+  mit: '172'
+  potency: '0.2'
+  dtype: Leather Armor
+effects: '**Divine Purpose**'
+obtained_from: '*Crafted by [[Tailor]] (level 40) from [[Ancient Knowledge: Glorified Tunic of Impetus]] *Made from [[Powerful Reactant]]'
+item_link: \aITEM 1206247607 -369877158:Glorified Tunic of Impetus\/a
+categories:
+- Census Credits
+- Channeler Equipment
+- Chest (Inventory Slot)
+- Combat Skills (Equipment)
+- Divine Purpose (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Item obtained from a Pattern
+- Leather Armor (Equipment Type)
+- Mastercrafted Fabled Equipment
+- Potency (Equipment)
+- Tier 5 Equipment
+- Warden Equipment
+source:
+  title: Glorified Tunic of Impetus
+  url: https://eq2.fandom.com/wiki/Glorified_Tunic_of_Impetus
+  history: https://eq2.fandom.com/wiki/Glorified_Tunic_of_Impetus?action=history
+  revision: 1600540
+  revised: '2022-12-09T16:25:49Z'
+  license: CC BY-SA 3.0
+expansion: Age of Discovery
+expansion_source: source
+---
+
+

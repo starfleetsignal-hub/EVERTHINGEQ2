@@ -1,0 +1,56 @@
+---
+title: Hardened Bludgeoner of Crystal Shards
+type: item
+item_kind: Equipment
+icon: images/Item_285.png
+tier: Fabled
+level: '60'
+slot: Primary
+flags: lore-equip attunable heirloom
+stats:
+  str: '+48'
+  sta: '+48'
+  crit: '1.2'
+  potency: '1.8'
+  aspeed: '2.2'
+  dmg: 83 - 468
+  delay: '7.0'
+  drating: '78.74'
+  dtype: Two-Handed Crushing
+  wtype: Great Hammer
+item_link: \aITEM 1876897603 716406393:Hardened Bludgeoner of Crystal Shards\/a
+categories:
+- Attack Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Great Hammer (Weapon Type)
+- Inquisitor Equipment
+- Mystic Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shaman Equipment
+- Templar Equipment
+- Tier 7 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+source:
+  title: Hardened Bludgeoner of Crystal Shards
+  url: https://eq2.fandom.com/wiki/Hardened_Bludgeoner_of_Crystal_Shards
+  history: https://eq2.fandom.com/wiki/Hardened_Bludgeoner_of_Crystal_Shards?action=history
+  revision: 1706683
+  revised: '2023-03-18T16:05:57Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

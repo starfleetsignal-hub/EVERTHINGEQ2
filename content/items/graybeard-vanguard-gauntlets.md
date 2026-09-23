@@ -1,0 +1,51 @@
+---
+title: Graybeard Vanguard Gauntlets
+type: item
+item_kind: Equipment
+icon: images/Item_4107.png
+tier: Fabled
+level: '100'
+slot: Hands
+flags: attunable heirloom infusable
+stats:
+  str: '+534'
+  sta: +1,695
+  maxhealth: '15.4'
+  mit: '922'
+  critbonus: '59.2'
+  potency: '65.5'
+  resolve: '5'
+  aspeed: '88.7'
+  dtype: Plate Armor
+item_link: \aITEM 1298582962 1366120264:Graybeard Vanguard Gauntlets\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Hands (Inventory Slot)
+- Max Health (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Tier 11 Equipment
+- Warrior Equipment
+source:
+  title: Graybeard Vanguard Gauntlets
+  url: https://eq2.fandom.com/wiki/Graybeard_Vanguard_Gauntlets
+  history: https://eq2.fandom.com/wiki/Graybeard_Vanguard_Gauntlets?action=history
+  revision: 1663350
+  revised: '2023-03-14T14:44:45Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

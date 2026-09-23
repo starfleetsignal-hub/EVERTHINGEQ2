@@ -1,0 +1,68 @@
+---
+title: Hardened Greatsword of the Terranaut
+type: item
+item_kind: Equipment
+icon: images/Item_1665.png
+tier: Legendary
+level: '110'
+slot: Primary
+classes: ', , , [[Channeler]], [[Beastlord]]'
+flags: attunable heirloom infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +3,362
+  agi: +2,164
+  health: +74,178
+  power: +33,370
+  crit: '690.2'
+  potency: 1,197.2
+  resolve: '150'
+  aspeed: '231.4'
+  cbovercap: '+54.8'
+  mitinc: '62.8'
+  dmg: 1348 - 2023
+  delay: '6.0'
+  drating: '561.86'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+effects: '**Devastation Strike**'
+item_link: \aITEM 814292807 -876593059:Hardened Greatsword of the Terranaut\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Attack Speed (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Devastation Strike (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Legendary Equipment
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Tier 12 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Hardened Greatsword of the Terranaut
+  url: https://eq2.fandom.com/wiki/Hardened_Greatsword_of_the_Terranaut
+  history: https://eq2.fandom.com/wiki/Hardened_Greatsword_of_the_Terranaut?action=history
+  revision: 1898084
+  revised: '2025-09-18T19:05:28Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

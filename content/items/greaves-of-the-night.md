@@ -1,0 +1,65 @@
+---
+title: Greaves of the Night
+type: item
+item_kind: Equipment
+icon: images/Item_2888.png
+tier: Treasured
+level: '1'
+slot: Legs
+flags: no-trade
+description: This piece of leather armor is perfect for when you need to carry out those surprise strikes from the darkness.
+stats:
+  mit: '4'
+  dtype: Leather Armor
+item_link: \aITEM -1237626271 775684111:Greaves of the Night\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Leather Armor (Equipment Type)
+- Legs (Inventory Slot)
+- Monk Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Predator Equipment
+- Priest Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 1 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Greaves of the Night
+  url: https://eq2.fandom.com/wiki/Greaves_of_the_Night
+  history: https://eq2.fandom.com/wiki/Greaves_of_the_Night?action=history
+  revision: 820364
+  revised: '2018-01-07T05:35:25Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

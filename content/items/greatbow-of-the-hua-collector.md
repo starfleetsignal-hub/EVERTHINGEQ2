@@ -1,0 +1,71 @@
+---
+title: Greatbow of the Hua Collector
+type: item
+item_kind: Equipment
+icon: images/Item_3748.png
+tier: Legendary
+level: '125'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: lore-equip no-trade no-value
+stats:
+  sta: +6,023
+  agi: +3,209
+  health: +210,283
+  power: +132,149
+  maxhealth: '135.3'
+  crit: '459.2'
+  potency: 19,866.9
+  resolve: '315'
+  cbovercap: '+1188.8'
+  dmg: 6698 - 10047
+  delay: '8.0'
+  drating: '2093.04'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+item_link: \aITEM 1897052143 2036345894:Greatbow of the Hua Collector\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Legendary Equipment
+- Max Health (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Greatbow of the Hua Collector
+  url: https://eq2.fandom.com/wiki/Greatbow_of_the_Hua_Collector
+  history: https://eq2.fandom.com/wiki/Greatbow_of_the_Hua_Collector?action=history
+  revision: 1590359
+  revised: '2022-12-02T07:11:59Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

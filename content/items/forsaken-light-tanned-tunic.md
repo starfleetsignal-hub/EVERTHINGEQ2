@@ -1,0 +1,53 @@
+---
+title: Forsaken Light Tanned Tunic
+type: item
+item_kind: Equipment
+icon: images/Item_5306.png
+tier: Fabled
+level: '125'
+slot: Chest
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+stats:
+  str: +3,298
+  sta: +6,093
+  health: +221,160
+  power: +138,984
+  mit: '939'
+  potency: 23,178.1
+  resolve: '330'
+  abmod: +205,007
+  cbovercap: '+1250.3'
+  dtype: Leather Armor
+item_link: \aITEM 924975924 -1164980122:Forsaken Light Tanned Tunic\/a
+categories:
+- Ability Modifier (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Chest (Inventory Slot)
+- Crit Bonus Overcap (Equipment)
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Leather Armor (Equipment Type)
+- Monk Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Tier 13 Equipment
+- Warden Equipment
+source:
+  title: Forsaken Light Tanned Tunic
+  url: https://eq2.fandom.com/wiki/Forsaken_Light_Tanned_Tunic
+  history: https://eq2.fandom.com/wiki/Forsaken_Light_Tanned_Tunic?action=history
+  revision: 1661506
+  revised: '2023-03-14T13:40:01Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

@@ -1,0 +1,57 @@
+---
+title: Heartstone Leather Boots of Enlightenment
+type: item
+item_kind: Equipment
+icon: images/Item_3317.png
+tier: Fabled
+level: '110'
+slot: Feet
+classes: ', , [[Channeler]]'
+flags: no-trade no-value infusable
+stats:
+  str: +1,295
+  sta: +2,690
+  health: +236,868
+  power: +35,487
+  mit: '827'
+  potency: 1,761.3
+  resolve: '110'
+  abmod: +15,036
+  aspeed: '365.1'
+  cbovercap: '+105.8'
+  dtype: Leather Armor
+obtained_from: Made from [[Enlightened Heartstone Boot Pattern]]
+item_link: \aITEM -246749105 886945426:Heartstone Leather Boots of Enlightenment\/a
+categories:
+- Ability Modifier (Equipment)
+- Attack Speed (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Feet (Inventory Slot)
+- Fury Equipment
+- Item obtained from a Pattern
+- Leather Armor (Equipment Type)
+- Monk Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Tier 12 Equipment
+- Warden Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Heartstone Leather Boots of Enlightenment
+  url: https://eq2.fandom.com/wiki/Heartstone_Leather_Boots_of_Enlightenment
+  history: https://eq2.fandom.com/wiki/Heartstone_Leather_Boots_of_Enlightenment?action=history
+  revision: 981864
+  revised: '2019-05-06T06:05:49Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+
