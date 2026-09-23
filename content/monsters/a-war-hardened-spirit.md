@@ -3,7 +3,6 @@ title: A war-hardened spirit
 type: monster
 expansion: Blood of Luclin
 level: '122'
-difficulty: ^^^
 added_in: Blood of Luclin
 categories:
 - Blood of Luclin Monsters

@@ -5,7 +5,6 @@ expansion: Desert of Flames
 race: Djinn
 class: Wizard
 level: '53'
-difficulty: ^
 zone: '[[The Pillars of Flame]]'
 location: Djinn Pillar {{waypoint 1503, -162, -83}}
 aggressive: true

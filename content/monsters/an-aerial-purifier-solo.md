@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: an aerial purifier
 race: Iron Guardian
 level: '95'
-difficulty: ^
 zone: '[[The Nexus Core (Advanced Solo)]]'
 location: Central room of [[The Nexus Core (Advanced Solo)|the Nexus Core]]
 aggressive: true

@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Bugbear
 level: 30-31
-difficulty: ^
 group: Clan Krulkiel
 zone: '[[Butcherblock Mountains]]'
 location: Throughout [[Kamp Krulkiel]] {{waypoint 111, 249, -320}}

@@ -6,7 +6,6 @@ in_game_name: an unearthed warlord
 race: Skeleton
 class: Bruiser
 level: '79'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: '[[Venril''s Crown]], in the very bottom of the crater by the giant Luclin chunk {{waypoint 11, -138, -246}}'
 aggressive: true

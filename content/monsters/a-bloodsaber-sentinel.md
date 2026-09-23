@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a Bloodsaber sentinel
 subtitle: a Bloodsaber sentinel (dark elf)
-race: '*'
 class: Guardian
 level: 24-25
 group: Bloodsabers

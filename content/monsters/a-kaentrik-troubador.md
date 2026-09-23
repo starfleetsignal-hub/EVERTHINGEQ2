@@ -2,7 +2,6 @@
 title: A Kaentrik troubador
 type: monster
 expansion: Desert of Flames
-race: '*'
 class: Troubador
 level: 54-55
 difficulty: Heroic ^^^

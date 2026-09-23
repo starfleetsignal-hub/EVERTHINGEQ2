@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: vile strider
 race: Vulrich
 level: 79-80
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Near the [[Shadowed Cleft]] {{waypoint -1616.85, -955.58, 400.35}}
 added_in: The Shadow Odyssey

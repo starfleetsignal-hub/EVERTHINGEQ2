@@ -6,7 +6,6 @@ subtitle: a drowned lieutenant
 race: Skeleton
 class: Berserker
 level: '23'
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: In the section of the [[Dead River Basin]] that starts west of [[Bridge Keep]] {{waypoint 55, -20, -252}}
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Froglok
 class: Templar
 level: '60'
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: near the Qeynos camp {{waypoint 182, -237, 213}}
 social: true

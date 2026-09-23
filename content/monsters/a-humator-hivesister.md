@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Ravasect
 class: Fury
 level: '70'
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: Located deep in the cave on the [[Isle of the Ravasect]] {{waypoint 1094, -103, 271}}
 aggressive: true

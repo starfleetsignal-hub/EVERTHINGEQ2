@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Spider
 level: '50'
-difficulty: ^
 zone: '[[Lavastorm]]'
 location: '[[The Wounds]], down in the southwesternmost chasm {{waypoint -406, -113, 92}}'
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Desert of Flames
 race: Cyclops
 class: Assassin
 level: 60-63
-difficulty: ^^
 group: Dunefury Cyclopes
 zone: '[[Cazel''s Mesa]]'
 location: Static spawn, scattered throughout zone

@@ -4,7 +4,6 @@ type: monster
 expansion: Destiny of Velious
 race: Octopus
 level: '87'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: Deep underwater in [[Thurgadin Harbor]]
 aggressive: true

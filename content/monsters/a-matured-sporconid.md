@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Fungusman
 class: Guardian
 level: '77'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '[[Doom''s Morass]], inside a hollow tree trunk {{waypoint 289, -121, 994}}'
 aggressive: true

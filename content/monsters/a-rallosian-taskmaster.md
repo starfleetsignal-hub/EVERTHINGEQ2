@@ -4,7 +4,6 @@ type: monster
 expansion: Chains of Eternity
 race: Ogre
 level: '95'
-difficulty: ^
 zone: '[[Obol Plains]]'
 added_in: Chains of Eternity
 image: images/A_Rallosian_taskmaster.jpg

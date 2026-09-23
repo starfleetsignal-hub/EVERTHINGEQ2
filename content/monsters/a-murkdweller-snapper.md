@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Crocodile
 level: 62-63
-difficulty: ^
 zone: '[[Loping Plains]]'
 location: Bottom of [[Wayunder Lake]] {{waypoint -677, -113, 55}}
 aggressive: true

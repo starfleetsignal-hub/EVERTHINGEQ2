@@ -6,7 +6,6 @@ in_game_name: an Ara' Dal herald
 race: Mummy
 class: Mystic
 level: '52'
-difficulty: ^
 zone: '[[The Living Tombs]]'
 location: '[[Residence Court]], near the entrance and northeast side {{waypoint -442, -12, 375}}'
 aggressive: true

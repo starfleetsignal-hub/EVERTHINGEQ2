@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a Drogan construction enforcer
 race: Goblin
 level: '82'
-difficulty: ^^^
 zone: '[[Nu''roga]]'
 location: The southern walkway on the 4th level {{waypoint 55, 102, -44}}
 aggressive: true

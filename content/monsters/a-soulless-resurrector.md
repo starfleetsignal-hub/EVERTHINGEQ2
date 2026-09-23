@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Zombie
 class: Necromancer
 level: '42'
-difficulty: ^^
 zone: '[[The Obelisk of Lost Souls]]'
 location: Southmost room on the Obelisk's first floor {{waypoint -8, 595, 396}}
 aggressive: true

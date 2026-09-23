@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 in_game_name: an ancient skyfire wurm
 race: Wurm
 level: '82'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Throughout the southern section of [[Skyfire Mountains]] {{waypoint -1937, 164, 1505}}
 aggressive: true

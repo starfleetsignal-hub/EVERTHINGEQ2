@@ -3,7 +3,6 @@ title: A Serilian believer
 type: monster
 expansion: Echoes of Faydwer
 subtitle: A Serilian believer (Boombottom goblin)
-race: '*'
 level: '35'
 difficulty: Heroic ^^
 zone: '[[Kaladim]]'

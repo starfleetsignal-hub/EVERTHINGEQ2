@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 in_game_name: a frontier riverfly
 race: Dragonfly
 level: '103'
-difficulty: ^
 zone: '[[Obulus Frontier]]'
 location: Flying above [[Warslik's River]] {{waypoint -11, -230, -683}}
 added_in: Kunark Ascending

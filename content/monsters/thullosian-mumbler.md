@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 race: Thullosian
 class: Defiler
 level: 78-79
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Inside the [[Ykesha's Spine]] ruins {{waypoint 502, 16, -75}}
 aggressive: true

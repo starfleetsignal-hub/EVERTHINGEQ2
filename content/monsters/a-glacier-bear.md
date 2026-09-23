@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Bear
 level: 47-49
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Throughout [[Guardian's Gulch]] {{waypoint -500, -38, -819}}
 aggressive: true

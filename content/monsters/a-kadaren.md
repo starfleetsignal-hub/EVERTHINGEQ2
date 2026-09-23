@@ -3,7 +3,6 @@ title: A kadaren
 type: monster
 expansion: Desert of Flames
 in_game_name: a kadaren
-race: '*'
 level: '50'
 difficulty: Heroic ^^
 zone: '[[Maj''Dul]]'

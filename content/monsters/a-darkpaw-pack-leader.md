@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Gnoll
 class: Guardian
 level: '12'
-difficulty: ^
 zone: '[[Antonica]]'
 location: In western Qeynos - clear camps of [[A Darkpaw youth|Darkpaw youths]] and [[A Darkpaw mystic|mystics]] to spawn one {{waypoint 26, -16, 397}}
 aggressive: true

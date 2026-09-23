@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a suspicious bodyguard
 race: Human
 level: '53'
-difficulty: ^
 zone: '[[A Young Nobleman''s Residence]]'
 location: Throughout the instance
 aggressive: true

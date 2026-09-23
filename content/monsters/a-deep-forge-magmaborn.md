@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 race: Ogre
 class: Berserker
 level: '83'
-difficulty: ^
 zone: '[[The Deep Forge]]'
 location: In the last room, in the pit in the middle
 aggressive: true

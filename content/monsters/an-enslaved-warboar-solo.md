@@ -5,7 +5,6 @@ expansion: Shattered Lands
 in_game_name: an enslaved warboar
 race: Boarfiend
 level: 32-33
-difficulty: ^
 zone: '[[Runnyeye]]'
 location: First corridor from entrance {{waypoint -58, -28, 93}}
 aggressive: true

@@ -3,7 +3,6 @@ title: A Bloodsaber surveyor
 type: monster
 expansion: Shattered Lands
 subtitle: a Bloodsaber surveyor (human)
-race: '*'
 class: Assassin
 level: 24-25
 difficulty: Heroic ^^

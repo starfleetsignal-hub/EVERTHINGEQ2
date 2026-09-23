@@ -3,7 +3,6 @@ title: A Rampart trainer
 type: monster
 expansion: Echoes of Faydwer
 in_game_name: a Rampart trainer
-race: '*'
 class: Bruiser
 level: 33-34
 difficulty: Heroic ^^

@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Fire Elemental
 level: '60'
-difficulty: ^
 zone: '[[Lavastorm]]'
 location: Found within the lava in the center of the [[Goblet of Ro]] {{waypoint -732, -11, -260}}
 added_in: Echoes of Faydwer

@@ -6,7 +6,6 @@ in_game_name: assessment bot
 race: Clockwork
 class: Wizard
 level: '77'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Throughout [[U.J.L. 1.0]] {{waypoint 1330, 407, 803}}
 added_in: The Shadow Odyssey

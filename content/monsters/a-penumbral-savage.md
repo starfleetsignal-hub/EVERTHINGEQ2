@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Shadowed Man
 class: Bruiser
 level: 61-62
-difficulty: ^^^
 zone: '[[Mistmoore Catacombs]]'
 location: '{{waypoint -117, -161, -47}}'
 aggressive: true

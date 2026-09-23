@@ -3,7 +3,6 @@ title: A forlorn slave
 type: monster
 expansion: Blood of Luclin
 level: '122'
-difficulty: ^
 zone: '[[Wracklands]]'
 location: around [[Ssraeshza Crate]] {{waypoint 593, 83, 547}}
 added_in: Blood of Luclin

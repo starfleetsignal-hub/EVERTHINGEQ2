@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Lizard
 level: 44-45
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Throughout the [[Jagged Plains]] {{waypoint 142, 15, -413}}
 added_in: Shattered Lands

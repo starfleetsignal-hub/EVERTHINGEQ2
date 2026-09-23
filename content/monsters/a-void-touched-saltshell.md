@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a void-touched saltshell
 race: Seaturtle
 level: 80-82
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In the water just off [[Brokenskull Rock]] {{waypoint -1540, -1150, 2417}}
 aggressive: true

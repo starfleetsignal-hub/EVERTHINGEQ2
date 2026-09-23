@@ -6,7 +6,6 @@ in_game_name: an Anaz Mal runemage
 race: Gnoll
 class: Warlock
 level: '55'
-difficulty: ^
 group: Anaz Mal Gnolls
 zone: '[[The Living Tombs]]'
 location: In the sludge channels above [[Statue Court]]

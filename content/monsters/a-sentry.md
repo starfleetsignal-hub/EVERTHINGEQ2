@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Living Statue
 level: '55'
-difficulty: ^
 zone: '[[New Tunaria]]'
 location: guarding all approaches to the first bridge
 aggressive: true

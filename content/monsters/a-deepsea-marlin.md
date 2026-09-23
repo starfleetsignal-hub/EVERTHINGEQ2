@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Swordfish
 level: 22-24
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: '[[Butcherblock Bay]], North of [[Tidesylph Isle]] {{waypoint 907, 13, -238}}'
 added_in: Echoes of Faydwer

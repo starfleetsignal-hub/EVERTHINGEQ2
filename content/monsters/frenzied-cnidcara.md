@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: frenzied cnidcara
 race: Octoyogg
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Aetherscar]] near {{waypoint 465, 31.18, -158.81}}'
 aggressive: true

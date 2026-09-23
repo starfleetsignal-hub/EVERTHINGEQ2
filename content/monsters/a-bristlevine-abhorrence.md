@@ -4,7 +4,6 @@ type: monster
 expansion: Sentinel's Fate
 race: Root Abomination
 level: 82-83
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: Toxxulia Forest {{waypoint 526, 143, 3258}}
 aggressive: true

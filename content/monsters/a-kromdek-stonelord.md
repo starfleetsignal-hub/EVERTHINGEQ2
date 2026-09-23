@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Giant
 class: Guardian
 level: 74-75
-difficulty: ^
 group: Kromdek
 zone: '[[Fens of Nathsar]]'
 location: Patrolling [[Camp Kromdek]] {{waypoint -1014, -326, -1700}}

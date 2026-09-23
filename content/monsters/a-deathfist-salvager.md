@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Orc
 level: 39-40
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: They roam in the vicinity outside of Deathfist Citadel. {{waypoint 200, -36, -622}}
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Skeleton
 class: Shadowknight
 level: '27'
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: In [[The Valley of the Ancients]] and the canyon leading to it {{waypoint 638, -23, 537}}
 aggressive: true

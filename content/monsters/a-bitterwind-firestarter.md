@@ -3,7 +3,6 @@ title: A Bitterwind firestarter
 type: monster
 expansion: Shattered Lands
 subtitle: a Bitterwind firestarter (human)
-race: '*'
 class: Wizard
 level: 41-42
 difficulty: Heroic ^^

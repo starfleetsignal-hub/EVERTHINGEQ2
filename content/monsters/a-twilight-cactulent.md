@@ -3,7 +3,6 @@ title: A twilight cactulent
 type: monster
 expansion: Blood of Luclin
 level: '118'
-difficulty: ^
 zone: '[[Wracklands]]'
 added_in: Blood of Luclin
 categories:

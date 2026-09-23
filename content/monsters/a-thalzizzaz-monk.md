@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a Thalz'Iz'Zaz monk
 race: Lizardman
 level: 76-77
-difficulty: ^
 group: Thalz'Iz'Zaz Lizardmen
 zone: '[[Moors of Ykesha]]'
 location: '[[Thalz''Iz''Zaz Area]] {{waypoint 1097, 393, 844}}'

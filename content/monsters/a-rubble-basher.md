@@ -6,7 +6,6 @@ in_game_name: a rubble basher
 race: Tentacle Terror
 class: Bruiser
 level: '54'
-difficulty: ^
 zone: '[[The Living Tombs]]'
 location: '[[Priestess'' Court]], in the dugout section in the northeast and north {{waypoint -266, -17, 125}}'
 aggressive: true

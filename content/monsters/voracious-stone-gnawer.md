@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: voracious stone gnawer
 race: Centipede
 level: 76-77
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Thalz'Iz'Zaz Area of [[U.J.L. 1.0]]
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: a Quellithulian elementalist
 race: Erudite
 class: Wizard
 level: 65-66
-difficulty: ^^^
 group: Quellithulian Enclave
 zone: '[[The Vaults of El''Arad]]'
 aggressive: true

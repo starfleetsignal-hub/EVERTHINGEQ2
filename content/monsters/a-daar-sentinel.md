@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: a Daar sentinel
 race: golem
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: All over [[Daarspire]]
 aggressive: true

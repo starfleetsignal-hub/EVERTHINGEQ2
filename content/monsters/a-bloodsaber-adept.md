@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a Bloodsaber adept
 subtitle: a Bloodsaber adept (human)
-race: '*'
 class: Assassin
 level: 13-14
 difficulty: Heroic ^^^

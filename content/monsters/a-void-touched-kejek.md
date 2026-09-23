@@ -4,7 +4,6 @@ type: monster
 expansion: Sentinel's Fate
 race: Kejekan
 level: '83'
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: At the entrance to [[Kejaan's Rill]] nearby the [[Stonebrunt Encampment]]. {{waypoint 388, 239, 3732}}
 aggressive: true

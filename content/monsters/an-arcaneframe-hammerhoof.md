@@ -3,7 +3,6 @@ title: An arcaneframe hammerhoof
 type: monster
 expansion: Ballads of Zimara
 level: '130'
-difficulty: ^
 zone: '[[Zimara Breadth]]'
 location: on [[Columnar Highgarden]] {{waypoint 621, 206, -573}}
 aggressive: true

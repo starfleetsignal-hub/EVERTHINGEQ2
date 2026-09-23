@@ -4,7 +4,6 @@ type: monster
 expansion: Kingdom of Sky
 race: Flying Snake
 level: '63'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: Northwest section of [[Strifewind Isle]] {{waypoint 222, -5, -611}}
 aggressive: true

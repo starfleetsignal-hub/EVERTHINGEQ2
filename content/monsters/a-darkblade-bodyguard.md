@@ -3,7 +3,6 @@ title: A Darkblade bodyguard
 type: monster
 expansion: Shattered Lands
 subtitle: a Darkblade bodyguard (kerran)
-race: '*'
 class: Brigand
 level: 9-11
 group: Darkblades

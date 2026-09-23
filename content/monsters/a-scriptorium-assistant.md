@@ -3,7 +3,6 @@ title: A scriptorium assistant
 type: monster
 expansion: Desert of Flames
 in_game_name: a scriptorium assistant
-race: '*'
 level: '65'
 difficulty: Epic x4 ^^^
 zone: '[[The Poets Palace: Return]]'

@@ -5,7 +5,6 @@ expansion: Chaos Descending
 in_game_name: a conflagrant emissary
 race: Efreeti
 level: '116'
-difficulty: ^^^
 zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
 location: Inside one of the towers at {{waypoint -443, 59, 288}}
 aggressive: true

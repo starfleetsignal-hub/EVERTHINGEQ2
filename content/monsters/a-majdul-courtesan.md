@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Maj'Dul courtesan
 race: Human
 level: Scales
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: On a bed in the back of the instance. {{waypoint 41, 0, 2}}
 social: true

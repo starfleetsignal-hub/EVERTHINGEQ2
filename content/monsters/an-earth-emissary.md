@@ -4,7 +4,6 @@ type: monster
 expansion: Chaos Descending
 race: Roper
 level: '115'
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: Around the [[Rim of Erosion]].
 added_in: Chaos Descending

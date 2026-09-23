@@ -6,7 +6,6 @@ in_game_name: a smoldering forgelord
 race: Ethereal
 class: Monk
 level: 91-92
-difficulty: ^^
 zone: '[[The Hole]]'
 location: At the tunnel leading from the bottom of [[Storm Chasm]] {{waypoint -102, -270, -685}}
 social: true

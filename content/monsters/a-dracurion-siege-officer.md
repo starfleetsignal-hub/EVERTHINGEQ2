@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Droag
 level: '77'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Near The [[Herculean Rampart]] {{waypoint -772, 29.27, 85}}
 aggressive: true

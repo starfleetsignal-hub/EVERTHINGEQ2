@@ -3,9 +3,7 @@ title: A captured specimen
 type: monster
 expansion: Echoes of Faydwer
 subtitle: a captured specimen (kobold)
-race: '*'
 level: 52-53
-difficulty: ^^
 zone: '[[Klak''Anon]]'
 location: In [[The Zoo]], in the cages {{waypoint -326, 1, -10}}
 aggressive: true

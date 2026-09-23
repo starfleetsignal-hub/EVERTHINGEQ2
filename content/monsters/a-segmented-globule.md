@@ -3,7 +3,6 @@ title: A segmented globule
 type: monster
 expansion: Shattered Lands
 subtitle: a segmented globule (spheroid)
-race: '*'
 level: '19'
 difficulty: v
 zone: '[[The Serpent Sewer]]'

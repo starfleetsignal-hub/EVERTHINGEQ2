@@ -3,9 +3,7 @@ title: A prized possession
 type: monster
 expansion: Desert of Flames
 subtitle: a prized possession
-race: '*'
 level: '62'
-difficulty: ^
 zone: '[[The Poets Palace]]'
 location: Second floor, narrow hallway before the third mirror
 aggressive: true

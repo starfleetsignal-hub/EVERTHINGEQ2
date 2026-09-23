@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a Drogan fire stoker
 race: Goblin
 level: '81'
-difficulty: ^
 zone: '[[Nu''roga]]'
 location: '[[Arcane Practice and Study]] (3rd floor), in the corners where there aren''t ramps {{waypoint 60, 101, -36}}'
 aggressive: true

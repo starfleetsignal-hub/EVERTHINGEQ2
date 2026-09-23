@@ -3,7 +3,6 @@ title: A Bloodsaber specialist
 type: monster
 expansion: Shattered Lands
 subtitle: a Bloodsaber specialist (ratonga)
-race: '*'
 class: Berserker
 level: 15-16
 difficulty: Heroic ^^

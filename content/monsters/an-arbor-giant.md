@@ -6,7 +6,6 @@ in_game_name: an arbor giant
 race: Giant
 class: Guardian
 level: 68-71
-difficulty: ^
 zone: '[[Kylong Plains]]'
 location: Around [[Karatun Hold]] {{waypoint 849, 213, -2185}}
 aggressive: true

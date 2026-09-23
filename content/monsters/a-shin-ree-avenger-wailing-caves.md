@@ -6,7 +6,6 @@ in_game_name: a Shin`Ree avenger
 race: Skeleton
 class: Guardian
 level: '14'
-difficulty: ^
 group: Shin'Ree Orcs
 zone: '[[The Wailing Caves]]'
 location: In the room to the west of the hallway with green slime {{waypoint 42, -15, -79}}

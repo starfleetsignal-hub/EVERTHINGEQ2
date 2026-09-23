@@ -5,7 +5,6 @@ expansion: Destiny of Velious
 race: Lich
 class: Guardian
 level: 87-88
-difficulty: ^
 zone: '[[Great Divide]]'
 location: Ocean northwest of Fina's Retreat, only spawns during the quest *A New Calling* {{waypoint -1145, -549, -2667}}
 aggressive: true

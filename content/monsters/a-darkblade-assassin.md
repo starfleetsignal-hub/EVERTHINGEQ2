@@ -2,7 +2,6 @@
 title: A Darkblade assassin
 type: monster
 expansion: Shattered Lands
-race: '*'
 level: '10'
 difficulty: Heroic
 zone: '[[The Darkblade Den of Assassins]]'

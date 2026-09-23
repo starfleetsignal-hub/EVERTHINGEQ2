@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: plumewit ridgestalker
 race: Terrorbird
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Metetherial Plains]] around {{waypoint 140.64, 17.63, 295.08}}'
 aggressive: true

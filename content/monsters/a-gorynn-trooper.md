@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Orc
 level: 39-40
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: Northwest of [[The Deathfist Citadel]] {{waypoint 108, -36, -806}}
 added_in: Shattered Lands

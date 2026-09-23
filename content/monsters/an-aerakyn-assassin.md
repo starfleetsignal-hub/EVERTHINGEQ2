@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: an aerakyn assassin
 race: Aerakyn
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: A pair attacks you in a pond on [[Karak Peak]] {{waypoint -406, 138, -492}}
 aggressive: true

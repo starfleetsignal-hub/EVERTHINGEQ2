@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Sphinx
 class: Berserker
 level: '70'
-difficulty: ^^^
 zone: '[[Palace of the Awakened]]'
 location: '[[Oratory of Naar''Yora]] (5th floor) {{waypoint -1, 113, -25}}'
 aggressive: true

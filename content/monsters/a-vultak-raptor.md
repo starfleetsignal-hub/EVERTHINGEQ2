@@ -6,7 +6,6 @@ in_game_name: a vultak raptor
 race: Vultak
 class: Berserker
 level: 59-60
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: Flying above [[Vultak Scavenging Site]] {{waypoint -707, 175, -123}}
 aggressive: true

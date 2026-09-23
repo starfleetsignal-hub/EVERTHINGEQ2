@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Beetle
 level: 31-32
-difficulty: ^
 group: Klakrok Beetles
 zone: '[[Enchanted Lands]]'
 location: Northeast of docks near the rocky hill {{waypoint -89, 4, -105}}

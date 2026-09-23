@@ -3,7 +3,6 @@ title: A Springview Healer (POD:O(s))
 type: monster
 expansion: Planes of Prophecy
 in_game_name: a Springview Healer
-race: '*'
 level: '110'
 difficulty: Heroic ^^^
 zone: '[[Plane of Disease: Outbreak (Solo)]]'

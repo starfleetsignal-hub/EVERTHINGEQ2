@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Skeleton
 class: Mystic
 level: '14'
-difficulty: ^
 group: Shin'Ree Orcs
 zone: '[[The Wailing Caves]]'
 location: In the room to the west of the hallway with green slime {{waypoint 42, -15, -79}}

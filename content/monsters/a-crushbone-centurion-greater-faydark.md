@@ -6,7 +6,6 @@ in_game_name: a Crushbone centurion
 race: Orc
 class: Guardian
 level: 17-20
-difficulty: ^
 zone: '[[Greater Faydark]]'
 aggressive: true
 social: true

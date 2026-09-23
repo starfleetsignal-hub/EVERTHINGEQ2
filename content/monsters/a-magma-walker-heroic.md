@@ -4,7 +4,6 @@ type: monster
 expansion: Terrors of Thalumbra
 race: Basilisk
 level: '103'
-difficulty: ^^^
 zone: '[[Maldura: District of Ash (Heroic)]]'
 location: '[[Warsmith''s Lifeblood]]'
 aggressive: true

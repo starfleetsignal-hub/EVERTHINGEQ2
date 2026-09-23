@@ -2,7 +2,6 @@
 title: A savage escaped specimen
 type: monster
 expansion: Sentinel's Fate
-race: '*'
 level: '92'
 difficulty: Heroic ^^^
 zone: '[[Vasty Deep: The Abandoned Labs]]'

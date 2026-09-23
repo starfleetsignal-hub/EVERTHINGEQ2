@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Goblin
 class: Defiler
 level: '76'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: North end of mistgoblin territory, due west from [[City of Mist]] {{waypoint 6, 154, -907}}
 aggressive: true

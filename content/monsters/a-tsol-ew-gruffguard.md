@@ -4,7 +4,6 @@ type: monster
 expansion: Chains of Eternity
 race: Lizardman
 level: '92'
-difficulty: ^
 group: Tsol Ew Lizardmen
 zone: '[[The Eidolon Jungle]]'
 location: Patrolling the West Camp in [[The Lightshadow Undergrowth]] {{waypoint 175, -10, 155}}

@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Maj'Dul patrician
 race: Human
 level: Scales
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: Spawns once the mark has been kidnapped.
 aggressive: true

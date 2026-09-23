@@ -6,7 +6,6 @@ in_game_name: an elemental blaze
 race: Fire Elemental
 class: Guardian
 level: '81'
-difficulty: ^^
 zone: '[[Nu''roga]]'
 location: Floating above [[Bloodchief Tzabos]]
 aggressive: true

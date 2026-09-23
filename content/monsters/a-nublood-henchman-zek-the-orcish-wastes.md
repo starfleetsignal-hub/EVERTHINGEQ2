@@ -6,7 +6,6 @@ in_game_name: a Nublood henchman
 race: Orc
 class: Berserker
 level: '39'
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: Walking around the grassy ledge surrounding [[The Deathfist Citadel]] {{waypoint 7, -30, -762}}
 aggressive: true

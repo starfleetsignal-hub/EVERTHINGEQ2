@@ -2,7 +2,6 @@
 title: A Spicerunner deck hand
 type: monster
 expansion: Shattered Lands
-race: '*'
 class: Guardian
 level: 10-12
 difficulty: Heroic ^^

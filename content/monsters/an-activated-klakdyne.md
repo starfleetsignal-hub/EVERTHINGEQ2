@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Clockwork
 class: Berserker
 level: '51'
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: In [[The Clockwork Assembly Plant]] {{waypoint -129, 21, 59}}
 aggressive: true

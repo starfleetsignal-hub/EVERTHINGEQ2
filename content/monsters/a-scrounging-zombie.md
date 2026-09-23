@@ -6,7 +6,6 @@ in_game_name: a scrounging zombie
 race: Zombie
 class: Guardian
 level: 16-17
-difficulty: ^^^
 zone: '[[Stormhold]]'
 location: First floor, northwest section, north of [[The Chessboard (Stormhold)|The Chessboard]] {{waypoint 32, 4, -135}}
 aggressive: true

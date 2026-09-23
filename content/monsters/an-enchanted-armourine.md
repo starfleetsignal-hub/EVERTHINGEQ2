@@ -6,7 +6,6 @@ in_game_name: an enchanted armourine
 race: Mannequin
 class: Templar
 level: '82'
-difficulty: ^^^
 zone: '[[Ravenscale Repository]]'
 location: In [[The Grand Mezzanine]] {{waypoint -50, 4, -138}}
 aggressive: true

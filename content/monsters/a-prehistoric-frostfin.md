@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Shark
 level: '49'
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Underwater, throughout [[Icegill Lagoon]] {{waypoint 125, -87, -1495}}
 aggressive: true

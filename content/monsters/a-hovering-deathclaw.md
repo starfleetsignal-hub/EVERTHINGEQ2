@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Griffin
 level: '23'
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: Northern [[Thundermist Valley]] around {{waypoint 1166, -5, -82}}
 aggressive: true

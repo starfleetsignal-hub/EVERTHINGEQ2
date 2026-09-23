@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Blades champion
 race: Human
 level: '57'
-difficulty: ^
 zone: '[[Blades'' Arena]]'
 location: Tenth and final contestant
 aggressive: true

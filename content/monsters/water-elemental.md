@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Elemental
 level: '80'
-difficulty: ^
 zone: '[[Fens of Nathsar]]'
 aggressive: true
 social: true

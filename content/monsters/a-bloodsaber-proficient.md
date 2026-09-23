@@ -3,7 +3,6 @@ title: A Bloodsaber proficient
 type: monster
 expansion: Shattered Lands
 subtitle: A Bloodsaber proficient (dark elf)
-race: '*'
 class: Assassin
 level: 15-16
 difficulty: Heroic ^^

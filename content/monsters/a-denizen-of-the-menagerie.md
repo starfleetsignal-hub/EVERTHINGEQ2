@@ -3,7 +3,6 @@ title: A denizen of the Menagerie
 type: monster
 expansion: Shattered Lands
 subtitle: a denizen of the Menagerie (khoalrat)
-race: '*'
 level: '43'
 difficulty: Heroic
 zone: '[[Tobrin''s Former Domain]]'

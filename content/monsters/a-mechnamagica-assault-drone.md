@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Clockwork
 class: Berserker
 level: 53-54
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: '[[The Clockwork Hydroelectric Dam]] {{waypoint -114, 3, -109}}'
 aggressive: true

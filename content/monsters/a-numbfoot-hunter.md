@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Troglodyte
 class: Assassin
 level: 46-47
-difficulty: ^
 zone: '[[Everfrost]]'
 location: '[[Hollowfrost Grove]] near the [[World Tree Root]] {{waypoint -647, -18, -309}}'
 aggressive: true

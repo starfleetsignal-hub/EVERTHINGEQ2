@@ -3,7 +3,6 @@ title: A shissar revenant
 type: monster
 expansion: Blood of Luclin
 level: '122'
-difficulty: ^
 zone: '[[Wracklands]]'
 location: around [[Ssraeshza Crater]] {{waypoint 593, 83, 547}}
 aggressive: true

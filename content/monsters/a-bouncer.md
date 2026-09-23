@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Renda'Dal
 class: Guardian
 level: '58'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: Guarding the bar above the [[New Tunarian Market]] {{waypoint -584, 65, -887}}
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: a Brokenskull officer
 race: Troll
 class: Brigand
 level: 77-80
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Top level of the moors, along the path to [[Obelisk of Ahkzul]]. {{waypoint 978.02, 386.00, 1052.31}}
 aggressive: true

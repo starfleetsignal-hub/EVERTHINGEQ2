@@ -6,7 +6,6 @@ in_game_name: Gulthga
 race: Amygdalan
 class: Berserker
 level: '94'
-difficulty: ^
 zone: '[[The Eidolon Jungle]]'
 location: '{{waypoint -1350, 218, 605}}'
 aggressive: true

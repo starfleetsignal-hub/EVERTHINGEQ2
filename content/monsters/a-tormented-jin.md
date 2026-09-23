@@ -1,0 +1,30 @@
+---
+title: A tormented jin
+type: monster
+race: Ghost
+level: '76'
+difficulty: Heroic ^^^
+zone: '[[The Crypt of Agony]]'
+location: '[[Cavern of Torment]]'
+aggressive: true
+social: true
+aliases:
+- A Tormented Jin
+categories:
+- Ghost
+- Heroic Monsters
+- Monster pages that need EQ2MAP uid
+- Monsters
+- The Crypt of Agony Monsters
+- Tier 8 Heroic Monsters
+- Tier 8 Monsters
+source:
+  title: A tormented jin
+  url: https://eq2.fandom.com/wiki/A_tormented_jin
+  history: https://eq2.fandom.com/wiki/A_tormented_jin?action=history
+  revision: 1854366
+  revised: '2025-01-22T01:54:16Z'
+  license: CC BY-SA 3.0
+---
+
+

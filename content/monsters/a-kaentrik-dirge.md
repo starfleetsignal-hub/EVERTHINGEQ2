@@ -2,7 +2,6 @@
 title: A Kaentrik dirge
 type: monster
 expansion: Desert of Flames
-race: '*'
 class: Dirge
 level: 54-55
 difficulty: Heroic ^^^

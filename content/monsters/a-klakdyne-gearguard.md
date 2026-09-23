@@ -6,7 +6,6 @@ subtitle: a klakdyne gearguard
 race: Clockwork
 class: Guardian
 level: 47-48
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: '[[Klak''Anon Central]], on the platforms atop the lake {{waypoint 89, 9, 25}}'
 added_in: Echoes of Faydwer

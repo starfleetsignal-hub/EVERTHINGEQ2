@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 subtitle: Mortartoe miners
 race: Dwarf
 level: '30'
-difficulty: ^^^
 zone: '[[Butcherblock Mountains]]'
 location: In the tunnel between [[East Fort Irontoe]] and [[West Fort Irontoe]] {{waypoint -297, 180, -167}}
 added_in: Echoes of Faydwer

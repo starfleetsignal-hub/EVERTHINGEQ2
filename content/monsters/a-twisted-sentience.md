@@ -4,7 +4,6 @@ type: monster
 expansion: Altar of Malice
 race: Wisp
 level: '96'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: All around [[The Isle of Refuge]]
 aggressive: true

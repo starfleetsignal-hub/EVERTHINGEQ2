@@ -3,7 +3,6 @@ title: A Windstalker citizen
 type: monster
 expansion: Shattered Lands
 subtitle: a Windstalker citizen (human)
-race: '*'
 level: 16-18
 zone: '[[Antonica]]'
 location: Throughout [[Windstalker Village]] {{waypoint -1890, -38, -549}}

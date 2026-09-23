@@ -5,7 +5,6 @@ expansion: Chains of Eternity
 in_game_name: a forgotten defender (Sleeper's Tomb)
 race: Construct
 level: '100'
-difficulty: ^^^
 zone: '[[Eastern Wastes]]'
 location: Various parts of [[Sleeper's Tomb (Contested)]]
 aggressive: true

@@ -2,7 +2,6 @@
 title: A Blackscale stalker
 type: monster
 expansion: Kingdom of Sky
-race: '*'
 class: Scout
 level: 67-68
 difficulty: Heroic ^^^

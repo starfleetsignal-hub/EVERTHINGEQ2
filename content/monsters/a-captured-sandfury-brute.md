@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a captured Sandfury Brute
 race: Cyclops
 level: '56'
-difficulty: ^
 group: Sandfury Cyclopes
 zone: '[[Blades'' Arena]]'
 location: One of the possible contestants

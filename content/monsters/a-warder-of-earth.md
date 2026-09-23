@@ -3,7 +3,6 @@ title: A warder of earth
 type: monster
 expansion: Chaos Descending
 level: 115-116
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: in [[Shade Arbor]].
 added_in: Chaos Descending

@@ -6,7 +6,6 @@ in_game_name: a fractous dreloc
 race: Myr'Dal
 class: Berserker
 level: 82-83
-difficulty: ^^^
 zone: '[[Ravenscale Repository]]'
 location: In [[The Grand Mezzanine]] {{waypoint -50, 4, -138}}
 aggressive: true

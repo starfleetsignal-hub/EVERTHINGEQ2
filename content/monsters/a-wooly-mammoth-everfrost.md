@@ -5,7 +5,6 @@ expansion: Shattered Lands
 in_game_name: a wooly mammoth
 race: Mammoth
 level: 48-49
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Throughout [[Guardian's Gulch]] {{waypoint -445, -38, -797}}
 added_in: Shattered Lands

@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Wisp
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: Located all over [[Veiled Thessk]]
 aggressive: true

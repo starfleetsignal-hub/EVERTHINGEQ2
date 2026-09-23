@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: an exiled Kromtorr
 race: Giant
 level: 48-50
-difficulty: ^
 group: Kromtorr Giants
 zone: '[[The Sinking Sands]]'
 location: In [[The Sinking Sands]] up the Sandslide Passage and west through the desert, found some near {{waypoint -1072, -126, -518}}

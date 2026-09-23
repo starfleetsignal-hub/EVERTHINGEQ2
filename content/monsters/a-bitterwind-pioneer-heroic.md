@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a Bitterwind pioneer
 subtitle: a Bitterwind pioneer (barbarian)
-race: '*'
 level: 41-42
 difficulty: Heroic ^^
 zone: '[[Everfrost]]'

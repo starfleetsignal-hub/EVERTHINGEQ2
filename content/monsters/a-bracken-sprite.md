@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Sprite
 class: Wizard
 level: '36'
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: in the [[Valley of Sacrifice]] {{waypoint 195, 6, 39}}
 added_in: Shattered Lands

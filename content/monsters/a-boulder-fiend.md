@@ -5,7 +5,6 @@ expansion: Blood of Luclin
 in_game_name: a boulder fiend
 race: Golem
 level: '122'
-difficulty: ^
 zone: '[[Wracklands]]'
 location: around [[Ssraeshza Crater]] {{waypoint 593, 83, 547}}
 aggressive: true

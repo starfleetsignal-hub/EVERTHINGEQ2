@@ -3,7 +3,6 @@ title: A gemmed protector
 type: monster
 expansion: Chaos Descending
 level: '116'
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: In the [[Rim of Erosion]].
 aggressive: true

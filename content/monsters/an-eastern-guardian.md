@@ -4,7 +4,6 @@ type: monster
 expansion: Chains of Eternity
 race: Gorilla
 level: '94'
-difficulty: ^
 zone: '[[The Eidolon Jungle]]'
 location: '{{waypoint -2364, 206, 548}}'
 aggressive: true

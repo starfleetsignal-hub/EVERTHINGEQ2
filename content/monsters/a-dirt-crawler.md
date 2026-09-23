@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Centipede
 level: 22-23
-difficulty: ^^
 zone: '[[Stormhold]]'
 location: Third level, in the deadend south after you come down the stairs. {{waypoint 73, -43, -68}}
 added_in: Shattered Lands

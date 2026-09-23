@@ -6,7 +6,6 @@ in_game_name: an ether-charged automaton
 subtitle: an ether-charged automaton
 race: Golem
 level: '95'
-difficulty: ^
 zone: '[[The Nexus Core (Advanced Solo)]]'
 location: North room of [[The Nexus Core (Advanced Solo)|the Nexus Core]]
 aggressive: true

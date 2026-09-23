@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a leopard kit
 race: Panther
 level: '58'
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: On a bed
 aggressive: true

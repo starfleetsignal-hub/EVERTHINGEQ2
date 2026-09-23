@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Orc
 class: Guardian
 level: '8'
-difficulty: ^
 zone: '[[Greater Faydark]]'
 location: A single one of these spawns on [[Orc Hill]] at {{waypoint 199, 73, -154}}
 aggressive: true

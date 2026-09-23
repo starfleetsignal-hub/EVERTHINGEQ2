@@ -2,7 +2,6 @@
 title: A prisoner
 type: monster
 expansion: Shattered Lands
-race: '*'
 level: '31'
 difficulty: Heroic ^^^
 zone: '[[Nektropos Castle]]'

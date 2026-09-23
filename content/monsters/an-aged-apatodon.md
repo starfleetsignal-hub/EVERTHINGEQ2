@@ -4,7 +4,6 @@ type: monster
 expansion: Altar of Malice
 race: Dinosaur
 level: '101'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: Found on the eastern side of [[South Dshinn]]
 added_in: Altar of Malice

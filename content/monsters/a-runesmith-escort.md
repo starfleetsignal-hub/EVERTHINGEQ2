@@ -6,7 +6,6 @@ in_game_name: a runesmith escort
 race: Orc
 class: Berserker
 level: 33-34
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: '[[Valley of Sacrifice]] around the druid ring {{waypoint 114, 11, 82}}'
 aggressive: true

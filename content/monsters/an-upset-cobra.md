@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: an upset cobra
 race: Cobra
 level: '53'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: Sometimes spawns from the clickable blue baskets strewn about the city.
 aggressive: true

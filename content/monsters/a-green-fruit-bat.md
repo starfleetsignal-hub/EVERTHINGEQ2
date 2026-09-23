@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: a green fruit bat
 race: Bat
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Esoterra Gardens]] at'
 aggressive: true

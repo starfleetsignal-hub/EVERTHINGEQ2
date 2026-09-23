@@ -6,7 +6,6 @@ in_game_name: a Dracurion hoplite elite
 race: Droag
 class: Guardian
 level: 77-78
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Around [[The Herculean Rampart]] {{waypoint -846, 173, 283}}
 aggressive: true

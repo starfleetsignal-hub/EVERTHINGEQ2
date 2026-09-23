@@ -6,7 +6,6 @@ in_game_name: a klakdroid sentinel
 race: Clockwork
 class: Berserker
 level: 51-52
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: Patrolling [[The Clockwork Commons and Maintenance]] {{waypoint -216, 8, -83}}
 aggressive: true

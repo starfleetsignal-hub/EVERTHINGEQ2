@@ -6,7 +6,6 @@ in_game_name: a Vallon road guard
 race: Orc
 class: Berserker
 level: '34'
-difficulty: ^
 group: Vallon Orcs
 zone: '[[Zek, the Orcish Wastes]]'
 location: Patrols the trail from the [[Vallon Mill]] to the small camp in [[Blood Ore Valley]]

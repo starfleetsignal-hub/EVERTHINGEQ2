@@ -6,7 +6,6 @@ in_game_name: a Bloodskull soldier
 race: Orc
 class: Berserker
 level: '17'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: Southeast edge of the Commonlands, back in the mountains {{waypoint -855, -48, 670}}
 aggressive: true

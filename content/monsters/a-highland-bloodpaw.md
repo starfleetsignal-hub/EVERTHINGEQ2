@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Lion
 level: '24'
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: Northeast corner of [[Thundermist Valley]] {{waypoint 995, -1, -346}}
 aggressive: true

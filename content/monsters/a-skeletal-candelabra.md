@@ -4,7 +4,6 @@ type: monster
 expansion: Sentinel's Fate
 race: Skeleton
 level: 82-85
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: In the [[Lair of Bone]] {{waypoint 814, -10, 3591}}
 aggressive: true

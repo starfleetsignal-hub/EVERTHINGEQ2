@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Minotaur
 class: Berserker
 level: 32-33
-difficulty: ^
 group: Gorehorn Minotaurs
 zone: '[[Runnyeye]]'
 location: Entry room, around the edge of the water {{waypoint -74, -26, 46}}

@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Air Elemental
 level: '60'
-difficulty: ^
 zone: '[[Loping Plains]]'
 location: Found near [[The Crypt of Valdoon]] climbing wall {{waypoint 192, 72, 309}}
 added_in: Echoes of Faydwer

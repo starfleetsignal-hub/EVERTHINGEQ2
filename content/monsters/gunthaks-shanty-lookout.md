@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 race: Troll
 class: Brigand
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: All around [[Gunthak's Shanty]] {{waypoint -1280, -952, -644}}
 aggressive: true

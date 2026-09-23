@@ -6,7 +6,6 @@ in_game_name: a silt shark
 subtitle: A silt shark
 race: Shark
 level: 55-57
-difficulty: ^
 zone: '[[The Pillars of Flame]]'
 location: Throughout [[The Burning Seas]].
 aggressive: true

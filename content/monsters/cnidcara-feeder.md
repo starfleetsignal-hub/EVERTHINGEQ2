@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: cnidcara_feeder
 race: Octoyogg
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Aetherscar]] around {{waypoint 564, -8, -72}}'
 social: true

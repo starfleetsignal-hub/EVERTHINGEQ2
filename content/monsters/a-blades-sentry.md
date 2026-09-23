@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Blades sentry
 race: Human
 level: 48-49
-difficulty: ^
 zone: '[[The Court of the Blades (Quest Instance)]]'
 location: Throughout the instance.
 aggressive: true

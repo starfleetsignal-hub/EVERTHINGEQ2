@@ -3,7 +3,6 @@ title: A shady furrier
 type: monster
 expansion: Shattered Lands
 subtitle: a shady furrier (half elf)
-race: '*'
 class: Brigand
 level: '6'
 zone: '[[Oakmyst Forest]]'

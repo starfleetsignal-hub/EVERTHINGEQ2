@@ -6,7 +6,6 @@ in_game_name: a sweeping sentry
 race: Living Statue
 class: Mystic
 level: '57'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: Patrolling the [[Hall of Truth]]
 aggressive: true

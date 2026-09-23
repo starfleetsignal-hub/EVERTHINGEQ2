@@ -6,7 +6,6 @@ in_game_name: a temple sentinel
 race: Jade Golem
 class: Guardian
 level: '83'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: In [[The Temple of the White Lady]] {{waypoint -2478, 224, 1473}}
 aggressive: true

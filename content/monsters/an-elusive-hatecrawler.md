@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Spider
 level: '34'
-difficulty: ^
 zone: '[[Enchanted Lands]]'
 location: Just west of the wall, from the coast to [[Lookout Stump]] {{waypoint 347, -1, -215}}
 added_in: Shattered Lands

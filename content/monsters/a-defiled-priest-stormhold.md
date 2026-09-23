@@ -6,7 +6,6 @@ in_game_name: a defiled priest
 race: Skeleton
 class: Inquisitor
 level: 17-18
-difficulty: ^^
 zone: '[[Stormhold]]'
 location: First level, around the Chessboard {{waypoint 80, 5, -107}}
 aggressive: true

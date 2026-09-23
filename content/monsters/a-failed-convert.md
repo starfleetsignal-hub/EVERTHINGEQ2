@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Myr'Dal
 level: '67'
-difficulty: ^^^
 zone: '[[Mistmoore Catacombs]]'
 location: In [[The Dregs]] {{waypoint -89, -32, 49}}
 aggressive: true

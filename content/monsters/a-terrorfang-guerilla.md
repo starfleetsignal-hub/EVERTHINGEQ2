@@ -6,7 +6,6 @@ in_game_name: a Terrorfang guerilla
 race: Kejekan
 class: Shadowknight
 level: '88'
-difficulty: ^
 zone: '[[The Stonebrunt Highlands]]'
 location: On a rock inside the Terrorfang camp {{waypoint -104, 280, 102}}
 aggressive: true

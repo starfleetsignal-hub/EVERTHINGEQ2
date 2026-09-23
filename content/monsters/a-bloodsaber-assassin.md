@@ -3,7 +3,6 @@ title: A Bloodsaber assassin
 type: monster
 expansion: Shattered Lands
 subtitle: a Bloodsaber assassin (dark elf)
-race: '*'
 class: Assassin
 level: 24-25
 group: Bloodsabers

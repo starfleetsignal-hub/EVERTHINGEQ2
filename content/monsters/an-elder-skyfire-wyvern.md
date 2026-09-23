@@ -6,7 +6,6 @@ in_game_name: an elder skyfire wyvern
 subtitle: an elder skyfire wyvern
 race: Wyvern
 level: 81-82
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Central section of the [[Skyfire Mountains]] region {{waypoint -2214, 232, 583}}
 aggressive: true

@@ -2,7 +2,6 @@
 title: A Blackscale Guardian
 type: monster
 expansion: Kingdom of Sky
-race: '*'
 level: '67'
 difficulty: Heroic ^^^
 zone: '[[The Blackscale Sepulcher]]'

@@ -2,7 +2,6 @@
 title: A Dismal Rage draconist
 type: monster
 expansion: Shattered Lands
-race: '*'
 level: 17-18
 zone: '[[A small hideout]]'
 aggressive: true

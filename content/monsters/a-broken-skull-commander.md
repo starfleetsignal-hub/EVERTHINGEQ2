@@ -2,7 +2,6 @@
 title: A Broken Skull commander
 type: monster
 expansion: Shattered Lands
-race: '*'
 class: Swashbuckler
 level: 12-13
 difficulty: Heroic ^^^

@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Bat
 level: '60'
-difficulty: ^
 zone: '[[Mistmoore Catacombs]]'
 location: Flying above the zone entrance
 added_in: Echoes of Faydwer

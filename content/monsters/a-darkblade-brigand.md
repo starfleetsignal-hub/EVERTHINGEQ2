@@ -3,7 +3,6 @@ title: A Darkblade brigand
 type: monster
 expansion: Shattered Lands
 subtitle: a Darkblade brigand (ratonga)
-race: '*'
 class: Brigand
 level: 6-9
 group: Darkblades

@@ -4,7 +4,6 @@ type: monster
 expansion: Blood of Luclin
 race: Seaturtle
 level: '118'
-difficulty: ^
 zone: '[[Wracklands]]'
 location: around [[Twilight Sea]] {{waypoint -137, -17, 91}}
 added_in: Blood of Luclin

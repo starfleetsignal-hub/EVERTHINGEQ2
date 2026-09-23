@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a Bitterwind pioneer
 subtitle: a Bitterwind pioneer (barbarian)
-race: '*'
 level: '45'
 zone: '[[Everfrost]]'
 location: In the [[Bitterwind Trench]], between {{waypoint 233, 4, -311}} and {{waypoint 239, -19, -9}}

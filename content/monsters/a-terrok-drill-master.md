@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Bugbear
 level: '33'
-difficulty: ^
 zone: '[[Kaladim]]'
 location: Against the north wall of [[Heroes Hold]] {{waypoint 127, 18, -192}}
 aggressive: true

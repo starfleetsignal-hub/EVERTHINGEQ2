@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Earth Elemental
 level: 9-10
-difficulty: ^
 zone: '[[Oakmyst Forest]]'
 location: Near the un-corrupted druids {{waypoint 1017, 0, -305}}
 added_in: Shattered Lands

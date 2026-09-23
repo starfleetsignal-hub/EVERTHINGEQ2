@@ -3,7 +3,6 @@ title: A Thrall of Nihx
 type: monster
 expansion: Desert of Flames
 in_game_name: a Thrall of Nihx
-race: '*'
 level: '54'
 difficulty: Heroic ^^^
 zone: '[[The Clefts of Rujark]]'

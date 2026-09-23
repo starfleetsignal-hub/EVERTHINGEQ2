@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Bat
 level: 60-61
-difficulty: ^
 zone: '[[Mistmoore Catacombs]]'
 location: Flying around the middle of the lower levels, mostly around the big "pillar" {{waypoint -91, -146, -61}}
 aggressive: true

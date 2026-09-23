@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Barracuda
 level: '47'
-difficulty: ^
 zone: '[[Lavastorm]]'
 location: In the water by the docks {{waypoint -158, -132, 553}}
 added_in: Shattered Lands

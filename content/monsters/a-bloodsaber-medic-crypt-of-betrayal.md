@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a Bloodsaber medic
 subtitle: a Bloodsaber medic (human)
-race: '*'
 class: Inquisitor
 level: 24-25
 group: Bloodsabers

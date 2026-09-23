@@ -6,7 +6,6 @@ in_game_name: a servant of Mistmoore
 race: Vampire
 class: Guardian
 level: 63-65
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: Nighttime only, through most of the zone
 aggressive: true

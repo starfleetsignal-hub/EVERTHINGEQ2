@@ -4,7 +4,6 @@ type: monster
 expansion: Kingdom of Sky
 race: Vultak
 level: 59-60
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: '[[Vultak Scavenging Site]] {{waypoint -626, 137, -71}}'
 aggressive: true

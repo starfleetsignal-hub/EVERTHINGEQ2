@@ -2,7 +2,6 @@
 title: A fanatical ranger
 type: monster
 expansion: Rise of Kunark
-race: '*'
 class: Warden
 level: 30-33
 zone: '[[The Thundering Steppes]]'

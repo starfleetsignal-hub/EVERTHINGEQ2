@@ -2,7 +2,6 @@
 title: A dervish negotiator
 type: monster
 expansion: Shattered Lands
-race: '*'
 level: '15'
 difficulty: Heroic v
 group: Dervish

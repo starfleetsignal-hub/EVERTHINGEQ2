@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Zombie
 level: 80-83
-difficulty: ^^^
 zone: '[[Sebilis]]'
 location: Entry hall and the [[Mezzanine]].
 aggressive: true

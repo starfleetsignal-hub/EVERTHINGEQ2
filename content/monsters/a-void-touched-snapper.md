@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a void-touched snapper
 race: Crab
 level: 80-82
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Along the edges of [[Brokenskull Rock]] {{waypoint -1745, -1095, 2464}}
 aggressive: true

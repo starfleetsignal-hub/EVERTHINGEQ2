@@ -6,7 +6,6 @@ in_game_name: an arcanist
 race: Renda'Dal
 class: Mage
 level: '63'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: '[[Tower of Arcane Research]] {{waypoint -795, 64, -1282}}'
 aggressive: true

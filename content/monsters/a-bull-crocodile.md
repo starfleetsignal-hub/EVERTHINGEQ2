@@ -4,7 +4,6 @@ type: monster
 expansion: Desert of Flames
 race: Crocodile
 level: 45-46
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Inside the croc caves {{waypoint -1331.60, -227.33, -652.19}}
 aggressive: true

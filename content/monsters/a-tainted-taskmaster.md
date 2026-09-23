@@ -6,7 +6,6 @@ in_game_name: a tainted taskmaster
 race: Minotaur
 class: Bruiser
 level: 52-53
-difficulty: ^^^
 zone: '[[The Mines of Meldrath]]'
 location: Throughout the zone
 aggressive: true

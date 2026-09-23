@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Minotaur
 level: '48'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: '[[Smokehorn Basin]], linked with [[Shaka-Scathar]].'
 added_in: Echoes of Faydwer

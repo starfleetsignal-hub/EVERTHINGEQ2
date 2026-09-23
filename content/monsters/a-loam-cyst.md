@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Ooze
 level: '26'
-difficulty: ^^^
 zone: '[[The Ruins of Varsoon]]'
 location: In the tunnel that runs north from the spider pit room {{waypoint -256, -3, -81}}
 added_in: Shattered Lands

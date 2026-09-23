@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Tentacle Terror
 level: 48-49
-difficulty: ^
 zone: '[[Everfrost]]'
 location: '[[Guardian''s Gulch]], around the icy cracks in the gulch''s surface {{waypoint -635, -39, -733}}'
 aggressive: true

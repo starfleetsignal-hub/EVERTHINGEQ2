@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Brute
 level: '77'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: In the back of [[The Shatterhorn]] {{waypoint -437, 41, -58}}
 aggressive: true

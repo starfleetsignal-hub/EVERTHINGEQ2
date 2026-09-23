@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Carnivorous Plant
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: In the streams on [[Aeterna Gardens]]
 aggressive: true

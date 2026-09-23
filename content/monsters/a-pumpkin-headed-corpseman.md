@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Zombie
 class: Brigand
 level: 68-69
-difficulty: ^
 zone: '[[Loping Plains]]'
 location: Surrounding [[The Tree of Woe]] {{waypoint 219, 69, -130}}
 aggressive: true

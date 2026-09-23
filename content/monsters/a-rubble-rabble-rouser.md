@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Burynai
 class: Shadowknight
 level: '75'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: In the back of [[The Rubble Rabble Burrow]] {{waypoint -197, -36, -100}}
 aggressive: true

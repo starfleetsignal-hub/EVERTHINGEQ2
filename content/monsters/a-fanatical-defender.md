@@ -3,9 +3,7 @@ title: A fanatical defender
 type: monster
 expansion: Shattered Lands
 in_game_name: a fanatical defender
-race: '*'
 level: 65-67
-difficulty: ^^^
 zone: '[[The Unkempt Vale: A Lordly Confrontation]]'
 location: Throughout the instance.
 aggressive: true

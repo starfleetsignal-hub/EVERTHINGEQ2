@@ -4,7 +4,6 @@ type: monster
 expansion: Planes of Prophecy
 race: Golem
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Zivier''s Reach]] around {{waypoint -213, 91, 892}}'
 aggressive: true

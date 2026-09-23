@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Orc
 class: Berserker
 level: 33-34
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: '[[Three Toes Valley]] {{waypoint 441, -24, -360}}'
 aggressive: true

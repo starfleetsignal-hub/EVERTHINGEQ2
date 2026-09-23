@@ -4,7 +4,6 @@ type: monster
 expansion: Blood of Luclin
 in_game_name: a ancient thresh fin
 level: '117'
-difficulty: ^
 zone: '[[Aurelian Coast]]'
 location: '[[Umbral Sea]] {{waypoint -551, 0, 434}}'
 aggressive: true

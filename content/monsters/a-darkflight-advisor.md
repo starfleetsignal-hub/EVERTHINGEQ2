@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Fairy
 class: Berserker
 level: 35-37
-difficulty: ^
 group: Darkflight Fairies
 zone: '[[Enchanted Lands]]'
 location: A bunch of these wander around the path west of [[Chomper's Pond]] at {{waypoint -149, -3, -552}}

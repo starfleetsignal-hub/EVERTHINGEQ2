@@ -6,7 +6,6 @@ in_game_name: a toxic kobold
 race: Kobold
 class: Shadowknight
 level: '85'
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: On a ridge in northwest [[Toxxulia's Reach]] {{waypoint 63, 196, 3001}}
 aggressive: true

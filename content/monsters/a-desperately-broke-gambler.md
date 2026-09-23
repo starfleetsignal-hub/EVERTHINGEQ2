@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a desperately broke gambler
 race: Human
 level: '51'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: Possible spawn after killed a pack of [[An excited gambler|excited gamblers]]. {{waypoint -64, 177, -85}}
 aggressive: true

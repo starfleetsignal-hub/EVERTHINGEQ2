@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Drakota
 level: 52-53
-difficulty: ^
 zone: '[[Lavastorm]]'
 location: Throughout [[Solusek Valley]], often on top of large rocks {{waypoint -239, 17, -411}}
 aggressive: true

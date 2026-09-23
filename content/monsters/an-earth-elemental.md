@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: an Earth elemental
 race: Earth Elemental
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Appears when the 4th and final crystal is picked up at {{waypoint -828, 29, 398}}
 aggressive: true

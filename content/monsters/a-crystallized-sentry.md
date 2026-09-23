@@ -3,7 +3,6 @@ title: A crystallized sentry
 type: monster
 expansion: Chaos Descending
 level: '116'
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: On corners of the [[Sepulcher of the Twelve]].
 aggressive: true

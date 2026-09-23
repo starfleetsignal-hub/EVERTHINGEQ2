@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: an exiled Sha'ir
 race: Human
 level: '50'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Near [[The Undercity Arena]] {{waypoint -291, -103, -238}}
 added_in: Desert of Flames

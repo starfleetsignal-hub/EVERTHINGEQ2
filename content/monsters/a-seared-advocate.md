@@ -5,7 +5,6 @@ expansion: Chaos Descending
 in_game_name: a seared advocate
 race: Efreeti
 level: '116'
-difficulty: ^^^
 zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
 location: Inside one of the towers at {{waypoint -84, 79, 419}}
 aggressive: true

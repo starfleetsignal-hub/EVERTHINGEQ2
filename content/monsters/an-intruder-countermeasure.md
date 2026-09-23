@@ -6,7 +6,6 @@ in_game_name: an intruder countermeasure
 race: Iron Guardian
 class: Berserker
 level: '33'
-difficulty: ^^
 zone: '[[Fallen Gate]]'
 location: '[[Little Neriak]], triggered spawn once you enter the crushed stone house on the east wall {{waypoint 165, 18, -89}}'
 aggressive: true

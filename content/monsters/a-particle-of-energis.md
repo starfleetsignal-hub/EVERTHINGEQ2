@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Wisp
 class: Coercer
 level: '67'
-difficulty: ^
 zone: '[[Sanctum of the Scaleborn]]'
 location: Flying around [[The Audience Chamber]]
 added_in: Kingdom of Sky

@@ -2,7 +2,6 @@
 title: A pit trainer
 type: monster
 expansion: Desert of Flames
-race: '*'
 level: '50'
 difficulty: vv
 zone: '[[The Sinking Sands]]'

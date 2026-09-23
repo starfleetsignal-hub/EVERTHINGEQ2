@@ -5,7 +5,6 @@ expansion: Chaos Descending
 in_game_name: a fiery steward
 race: Efreeti
 level: '116'
-difficulty: ^^^
 zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
 location: '{{waypoint -164, 23, 214}}'
 aggressive: true

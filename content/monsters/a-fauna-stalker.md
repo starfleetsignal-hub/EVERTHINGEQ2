@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Catoplebas
 level: 77-79
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In the Innothule Swamp area surrounding [[Firmroot Moot]]
 aggressive: true

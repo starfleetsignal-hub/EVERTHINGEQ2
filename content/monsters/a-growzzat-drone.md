@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Bixie
 class: Guardian
 level: 7-8
-difficulty: ^
 zone: '[[Greater Faydark]]'
 location: Throughout [[Valley of the Great Swarm]] {{waypoint -437, 35, -165}}
 added_in: Echoes of Faydwer

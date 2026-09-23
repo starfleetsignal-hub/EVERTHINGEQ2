@@ -5,7 +5,6 @@ expansion: Ballads of Zimara
 in_game_name: a construct of attrition
 race: Construct
 level: '130'
-difficulty: ^
 zone: '[[Zimara Breadth]]'
 location: Found on the [[Claved Fate Islets]] around {{waypoint 737, 187, 350}}
 aggressive: true

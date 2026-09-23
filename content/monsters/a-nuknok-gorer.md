@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Boarfiend
 level: 77-79
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In the [[Boarfiend Caves]] {{waypoint 1110, 433, 574}}
 aggressive: true

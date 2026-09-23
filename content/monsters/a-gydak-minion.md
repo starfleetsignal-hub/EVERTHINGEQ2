@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Zombie
 level: 27-28
-difficulty: ^
 zone: '[[Stormhold]]'
 location: Third level, in the torture area around {{waypoint 71, -46, -148}}
 aggressive: true

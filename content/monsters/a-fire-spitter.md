@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a fire spitter
 race: Human
 level: '48'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: Throughout the zone. One such location is at {{waypoint -222, 161, -115}}
 added_in: Desert of Flames

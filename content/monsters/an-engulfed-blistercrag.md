@@ -4,7 +4,6 @@ type: monster
 expansion: Destiny of Velious
 race: Centipede
 level: '90'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: Eastern [[Blisterrock Ridge]] {{waypoint -809, -389, -440}}
 aggressive: true

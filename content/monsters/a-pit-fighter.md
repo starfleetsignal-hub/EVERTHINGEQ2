@@ -3,7 +3,6 @@ title: A pit fighter
 type: monster
 expansion: Desert of Flames
 in_game_name: a pit fighter
-race: '*'
 level: 51-52
 difficulty: v
 zone: '[[Maj''Dul]]'

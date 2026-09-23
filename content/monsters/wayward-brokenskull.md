@@ -3,7 +3,6 @@ title: Wayward Brokenskull
 type: monster
 expansion: The Shadow Odyssey
 in_game_name: wayward Brokenskull
-race: '*'
 class: Brigand
 level: 79-80
 zone: '[[Moors of Ykesha]]'

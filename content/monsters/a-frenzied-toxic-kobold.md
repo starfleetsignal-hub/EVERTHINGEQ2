@@ -5,7 +5,6 @@ expansion: Sentinel's Fate
 race: Kobold
 class: Guardian
 level: '85'
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: On a ridge at the far northwest of [[Toxxulia's Reach]] {{waypoint -27, 175, 2851}}
 aggressive: true

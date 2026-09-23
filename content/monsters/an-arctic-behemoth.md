@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Wyrm
 level: 43-44
-difficulty: ^
 zone: '[[Everfrost]]'
 location: '[[Jagged Plains]], mainly in the center among the slabs of ice {{waypoint 140, 17, -420}}'
 aggressive: true

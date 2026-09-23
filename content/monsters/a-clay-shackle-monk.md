@@ -6,7 +6,6 @@ in_game_name: a Clay shackle monk
 race: Iksar
 class: Monk
 level: '77'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '[[The Tabernacle of Pain]] {{waypoint -29, -52, 179}}'
 aggressive: true

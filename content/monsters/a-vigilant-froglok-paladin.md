@@ -6,7 +6,6 @@ in_game_name: a vigilant froglok paladin
 race: Froglok
 class: Paladin
 level: '60'
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: in the [[Hidden Refuge]] {{waypoint 161, -228, 124}}
 added_in: Kingdom of Sky

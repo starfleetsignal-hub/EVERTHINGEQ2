@@ -4,7 +4,6 @@ type: monster
 expansion: Altar of Malice
 race: Metallic Cobra
 level: '99'
-difficulty: ^
 zone: '[[Ssrez''Ras: Ruins of Stasis]]'
 aggressive: true
 added_in: Altar of Malice

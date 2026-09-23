@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Droag
 class: Guardian
 level: 67-68
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: Flying around the towers on [[Halls of Fate (Island)|Halls of Fate Isle]]
 aggressive: true

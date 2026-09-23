@@ -2,7 +2,6 @@
 title: A Rime field commander
 type: monster
 expansion: Destiny of Velious
-race: '*'
 level: '90'
 zone: '[[Great Divide]]'
 location: In [[Storm Gorge]] area {{waypoint 449, -378, 1275}}

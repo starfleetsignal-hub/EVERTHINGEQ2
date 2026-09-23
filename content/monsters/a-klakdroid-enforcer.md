@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Clockwork
 class: Guardian
 level: '46'
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: Around the edges of [[Klak'Anon Central]] {{waypoint 14, 7, 143}}
 aggressive: true

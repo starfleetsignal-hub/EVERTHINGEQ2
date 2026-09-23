@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Renda'Dal
 class: Guardian
 level: '59'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: '{{waypoint -426, 71, -1009}}'
 aggressive: true

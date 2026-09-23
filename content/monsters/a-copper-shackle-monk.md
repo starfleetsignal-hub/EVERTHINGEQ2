@@ -6,7 +6,6 @@ in_game_name: a Copper shackle monk
 race: Iksar
 class: Monk
 level: '79'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '[[The Tabernacle of Pain]] {{waypoint -54, -49, 176}}'
 aggressive: true

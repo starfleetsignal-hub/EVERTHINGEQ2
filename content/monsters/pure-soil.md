@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Earth Elemental
 level: '65'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: '[[Pedestal of Purity]], only during a specific ring event'
 aggressive: true

@@ -4,7 +4,6 @@ type: monster
 expansion: Chaos Descending
 race: Armadillo
 level: '116'
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: On [[Dustrunner Island]].
 aggressive: true

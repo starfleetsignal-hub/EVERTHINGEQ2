@@ -4,7 +4,6 @@ type: monster
 expansion: Chaos Descending
 race: Basilisk
 level: '115'
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: In [[Rim of Erosion]].
 aggressive: true

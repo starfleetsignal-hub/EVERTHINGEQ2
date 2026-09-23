@@ -6,7 +6,6 @@ in_game_name: an earthen manifestation
 race: Earth Elemental
 class: Berserker
 level: 66-67
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: Shattered Weir {{waypoint -728, -456, 209}}
 added_in: Kingdom of Sky

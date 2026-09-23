@@ -4,7 +4,6 @@ type: monster
 expansion: Desert of Flames
 race: Monkey
 level: '55'
-difficulty: ^^^
 zone: '[[The Shimmering Citadel]]'
 location: Palace courtyard.  He wanders - bring someone with tracking to find him.
 added_in: Desert of Flames

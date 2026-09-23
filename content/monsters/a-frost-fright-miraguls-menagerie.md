@@ -6,7 +6,6 @@ in_game_name: a frost fright
 race: Skeleton
 class: Guardian
 level: '45'
-difficulty: ^^^
 zone: '[[Miragul''s Menagerie]]'
 location: In the entry room
 aggressive: true

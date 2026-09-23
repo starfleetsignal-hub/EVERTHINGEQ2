@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Zombie
 level: 24-25
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: '[[Fallow Farmlands]] around {{waypoint 412, 1, -731}}'
 aggressive: true

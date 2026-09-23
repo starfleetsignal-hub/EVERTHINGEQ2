@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Elemental
 level: '80'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: In the [[Skyfire Mountains]] of Jarsath Wastes. {{waypoint -1351, 211, 216}}
 aggressive: true

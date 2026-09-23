@@ -3,7 +3,6 @@ title: A Nemesis Serpent
 type: monster
 expansion: Blood of Luclin
 level: '121'
-difficulty: ^^^
 zone: '[[The Venom of Ssraeshza (Solo)]]'
 added_in: Blood of Luclin
 categories:

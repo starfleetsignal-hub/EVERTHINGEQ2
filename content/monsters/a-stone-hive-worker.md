@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Wasp
 level: '39'
-difficulty: ^
 zone: '[[Rivervale]]'
 location: Surrounds [[The Tower of the Drafling]] {{waypoint -480, 0, -30}}
 aggressive: true

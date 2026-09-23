@@ -3,7 +3,6 @@ title: A stranded pirate
 type: monster
 expansion: Echoes of Faydwer
 subtitle: a stranded pirate (dark elf)
-race: '*'
 class: Assassin
 level: '6'
 zone: '[[Greater Faydark]]'

@@ -4,7 +4,6 @@ type: monster
 expansion: Chains of Eternity
 race: Tome
 level: '95'
-difficulty: ^
 zone: '[[High Keep (Advanced Solo)]]'
 location: In [[The McCabe Archive]]
 aggressive: true

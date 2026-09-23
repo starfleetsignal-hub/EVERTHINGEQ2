@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a palace sweeper
 race: Human
 level: '49'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: '[[Skygazer Plateau]] {{waypoint -179, 177, -120}}'
 added_in: Desert of Flames

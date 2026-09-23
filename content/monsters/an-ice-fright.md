@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Skeleton
 class: Berserker
 level: 46-47
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Throughout [[Icewail Caverns]] and [[Icewail Pass]] {{waypoint -378, -8, -90}}
 aggressive: true

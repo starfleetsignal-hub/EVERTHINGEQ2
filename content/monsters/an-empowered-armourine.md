@@ -6,7 +6,6 @@ in_game_name: an empowered armourine
 race: Mannequin
 class: Warlock
 level: '82'
-difficulty: ^^^
 zone: '[[Ravenscale Repository]]'
 location: In [[The Grand Mezzanine]] {{waypoint -50, 4, -138}}
 aggressive: true

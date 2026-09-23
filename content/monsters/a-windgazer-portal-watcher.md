@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Hooluk
 class: Shadowknight
 level: '68'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: '[[Isle of Awakening]], guarding the spire leading to The Bonemire {{waypoint 415, 221, 438}}'
 social: true

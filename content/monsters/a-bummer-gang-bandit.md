@@ -2,7 +2,6 @@
 title: A Bummer Gang bandit
 type: monster
 expansion: Echoes of Faydwer
-race: '*'
 class: Brigand
 level: 60-62
 zone: '[[Loping Plains]]'

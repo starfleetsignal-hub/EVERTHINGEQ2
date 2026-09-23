@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 in_game_name: a skyfire wyvern
 race: Wyvern
 level: 80-81
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Throughout the northern section of [[Skyfire Mountains]] {{waypoint -1466, 204, 411}}
 aggressive: true

@@ -3,7 +3,6 @@ title: An Everling caretaker
 type: monster
 expansion: Shattered Lands
 in_game_name: an Everling caretaker
-race: '*'
 class: Guardian
 level: 33-34
 difficulty: Heroic ^^^

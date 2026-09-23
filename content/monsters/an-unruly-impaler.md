@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Wasp
 level: 32-33
-difficulty: ^
 zone: '[[Enchanted Lands]]'
 location: northwest of the docks {{waypoint 156, 0, -122}}
 added_in: Shattered Lands

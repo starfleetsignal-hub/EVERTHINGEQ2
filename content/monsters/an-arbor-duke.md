@@ -6,7 +6,6 @@ in_game_name: an arbor duke
 race: Giant
 class: Guardian
 level: '71'
-difficulty: ^
 zone: '[[Kylong Plains]]'
 location: At the back of the building in [[Karatun Hold]] {{waypoint 787, 88, -2249}}
 aggressive: true

@@ -2,7 +2,6 @@
 title: A twisted Far Seas crew member
 type: monster
 expansion: Altar of Malice
-race: '*'
 level: '96'
 zone: '[[Tranquil Sea]]'
 location: All around [[The Isle of Refuge]] {{waypoint 1083, 10, 1346}}

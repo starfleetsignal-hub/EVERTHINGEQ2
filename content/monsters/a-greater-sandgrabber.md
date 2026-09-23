@@ -5,7 +5,6 @@ expansion: Blood of Luclin
 in_game_name: a greater sandgrabber
 race: Golem
 level: 113-114
-difficulty: ^
 zone: '[[The Blinding]]'
 location: The arid area between [[Recuso Tor]] and [[Sanctus Seru]] starting around {{waypoint -285, 5, 431}}
 aggressive: true

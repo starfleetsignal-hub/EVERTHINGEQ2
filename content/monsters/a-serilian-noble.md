@@ -3,7 +3,6 @@ title: A Serilian noble
 type: monster
 expansion: Echoes of Faydwer
 subtitle: A Serilian noble (fungusman)
-race: '*'
 level: 33-34
 difficulty: Heroic ^
 zone: '[[Kaladim]]'

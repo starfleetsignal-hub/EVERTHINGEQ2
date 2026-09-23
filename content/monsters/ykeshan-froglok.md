@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Zombie
 level: 78-79
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: All around the [[Entrance to Guk]] {{waypoint 752, 147, -778}}
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: a Stone shackle monk
 race: Iksar
 class: Monk
 level: '78'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '[[The Tabernacle of Pain]] {{waypoint -29, -52, 179}}'
 aggressive: true

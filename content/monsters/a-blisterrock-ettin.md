@@ -4,7 +4,6 @@ type: monster
 expansion: Destiny of Velious
 race: Ettin
 level: 90-91
-difficulty: ^
 zone: '[[Great Divide]]'
 location: Eastern part of [[Blisterrock Ridge]] {{waypoint -753, -394, -542}}
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: a Wayward etherwing
 race: Drakota
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: '[[Daarspire]] island, atop the rock wall around [[Falinpol]], e.g. {{waypoint 61, 240, 153}}'
 added_in: Tears of Veeshan

@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a selfish patrician
 race: Human
 level: Scales
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: Throughout the instance.
 aggressive: true

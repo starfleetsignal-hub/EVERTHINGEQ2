@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: a  great black bluffstalker
 race: Scorpion
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: On the Eastern coast of [[Pakiat Bluffs]] near {{waypoint -955, 12, -450}}
 aggressive: true

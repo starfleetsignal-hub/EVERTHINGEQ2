@@ -3,7 +3,6 @@ title: A Diaku warboar
 type: monster
 expansion: Blood of Luclin
 level: '122'
-difficulty: ^^^
 aggressive: true
 added_in: Blood of Luclin
 categories:

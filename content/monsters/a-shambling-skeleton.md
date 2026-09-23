@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Skeleton
 level: '72'
-difficulty: ^
 zone: '[[Fens of Nathsar]]'
 location: At the base of [[Kurn's Tower (POI)|Kurn's Tower]]; Only spawns during [[An Ugly Bounty]]. Starts as an NPC but aggros when spoken to.
 added_in: Rise of Kunark

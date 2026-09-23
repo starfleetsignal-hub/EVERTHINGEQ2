@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Kunark Froglok
 class: Bruiser
 level: '74'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '{{waypoint 773, 75, -395}}'
 aggressive: true

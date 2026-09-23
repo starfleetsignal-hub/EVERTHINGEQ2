@@ -6,7 +6,6 @@ in_game_name: an ancient denizen
 race: Skeleton
 class: Warlock
 level: 77-78
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: In the ruins at {{waypoint -403, -84, -523}} and {{waypoint -881, -87, -382}}
 aggressive: true

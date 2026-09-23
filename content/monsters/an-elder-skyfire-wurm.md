@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 in_game_name: an elder skyfire wurm
 race: Wurm
 level: 81-82
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Central southern section of [[Skyfire Mountains]] - the valley leading to [[The Temple of the Red Lord]] {{waypoint -22145, 2328, 584}}
 aggressive: true

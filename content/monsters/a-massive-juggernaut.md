@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Golem
 level: '78'
-difficulty: ^^^
 zone: '[[Kunzar Jungle]]'
 location: Lined up on either side of the road leading to the front door of [[Sebilis (POI)|Sebilis]] {{waypoint -572, -100, 980}}
 aggressive: true

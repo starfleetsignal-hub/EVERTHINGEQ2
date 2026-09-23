@@ -6,7 +6,6 @@ in_game_name: a Scaleborn Soulclencher
 race: Droag
 class: Shadowknight
 level: '66'
-difficulty: ^^^
 zone: '[[Sanctum of the Scaleborn]]'
 location: Second wave of the Trial of the Sanctum
 aggressive: true

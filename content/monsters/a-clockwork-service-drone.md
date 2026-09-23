@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Clockwork
 class: Bruiser
 level: 49-50
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: Flying around [[The Clockwork Factory]] {{waypoint 167, -9, -6}}
 aggressive: true

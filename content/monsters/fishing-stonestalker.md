@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: fishing stonestalker
 race: Fearstalker
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: On the banks of the northern [[Myhst River]] near {{waypoint -111.48, 26.02, 225.59}}
 aggressive: true

@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Droag
 level: '101'
-difficulty: ^^^
 zone: '[[Vesspyr Isles]]'
 location: Located on [[Daarspire]] island near [[Falinpol]]
 aggressive: true

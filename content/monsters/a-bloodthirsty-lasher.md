@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Khoalrat
 level: 34-35
-difficulty: ^
 zone: '[[Enchanted Lands]]'
 location: In the area around [[Lookout Stump]] {{waypoint 348, 2, -420}}
 added_in: Shattered Lands

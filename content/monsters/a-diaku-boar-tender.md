@@ -4,7 +4,6 @@ type: monster
 expansion: Blood of Luclin
 race: Orc
 level: '122'
-difficulty: ^^^
 aggressive: true
 added_in: Blood of Luclin
 categories:

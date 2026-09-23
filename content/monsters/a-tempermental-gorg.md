@@ -4,7 +4,6 @@ type: monster
 expansion: Kingdom of Sky
 race: Basilisk
 level: '58'
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: Temple Isle
 aggressive: true

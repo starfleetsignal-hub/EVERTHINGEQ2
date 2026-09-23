@@ -6,7 +6,6 @@ in_game_name: a Tunarian rider
 race: Renda'Dal
 class: Guardian
 level: '60'
-difficulty: ^^
 zone: '[[New Tunaria]]'
 location: They patrol around the [[Temple of Growth]]; one often sits at {{waypoint -546, 47, -860}}
 aggressive: true

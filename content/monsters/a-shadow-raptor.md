@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Raptor
 level: '77'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '[[Trakaraptor Alley]] {{waypoint -680, -53, 411}}'
 aggressive: true

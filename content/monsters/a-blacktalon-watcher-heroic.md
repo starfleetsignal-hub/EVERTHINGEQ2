@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Aviak
 class: Ranger
 level: 66-67
-difficulty: ^^^
 zone: '[[Palace of the Awakened]]'
 location: '[[Nest of the West Wing]]'
 aggressive: true

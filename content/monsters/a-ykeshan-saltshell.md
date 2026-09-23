@@ -6,7 +6,6 @@ in_game_name: a Ykeshan saltshell
 race: Seaturtle
 class: Bruiser
 level: 80-81
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: These are found throughout the ocean, but are rather scattered and rare. They can be found without more aggressive mobs mixed in east of the islands at {{waypoint -2437, -1200, 1667}}
 added_in: The Shadow Odyssey

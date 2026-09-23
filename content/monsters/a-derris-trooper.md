@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Orc
 level: 39-40
-difficulty: ^
 group: Derris Orcs
 zone: '[[Zek, the Orcish Wastes]]'
 location: Outside of Deathfist Citadel {{waypoint 112, -38, -597}}

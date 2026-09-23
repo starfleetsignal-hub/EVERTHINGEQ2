@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a Bloodsaber ruffian
 subtitle: a Bloodsaber ruffian (human)
-race: '*'
 class: Assassin
 level: 24-25
 group: Bloodsabers

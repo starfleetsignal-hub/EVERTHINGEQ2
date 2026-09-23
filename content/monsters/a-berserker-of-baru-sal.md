@@ -5,7 +5,6 @@ expansion: Desert of Flames
 race: Ghost
 class: Berserker
 level: 56-57
-difficulty: ^
 zone: '[[The Living Tombs]]'
 location: Western [[Statue Court]] {{waypoint -60, 1, 390}}
 aggressive: true

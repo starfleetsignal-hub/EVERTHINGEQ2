@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Orc
 class: Assassin
 level: 34-35
-difficulty: ^
 group: Blackhook Orcs
 zone: '[[Zek, the Orcish Wastes]]'
 location: Blackhook Landing, by the sirens {{waypoint 36, -42, 353}}

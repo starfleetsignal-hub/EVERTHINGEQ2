@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Dwarf
 class: Guardian
 level: '30'
-difficulty: ^^^
 zone: '[[Butcherblock Mountains]]'
 location: On the bridge southwest of Kaladim that spans [[Darkfall Gorge]] {{waypoint -23, 180, -356}}
 added_in: Echoes of Faydwer

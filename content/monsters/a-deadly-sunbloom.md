@@ -3,7 +3,6 @@ title: A deadly sunbloom
 type: monster
 expansion: Blood of Luclin
 level: '112'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: Teeming Caldera
 added_in: Blood of Luclin

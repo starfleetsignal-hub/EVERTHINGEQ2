@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Slug
 level: 11-12
-difficulty: ^
 zone: '[[Greater Faydark]]'
 location: In [[Aquamarine Pond]] {{waypoint 500, -1, 206}}
 added_in: Echoes of Faydwer

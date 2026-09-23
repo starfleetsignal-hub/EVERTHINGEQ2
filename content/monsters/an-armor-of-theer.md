@@ -4,7 +4,6 @@ type: monster
 expansion: Kingdom of Sky
 race: Dark Elf
 level: '66'
-difficulty: ^
 zone: '[[Palace of the Awakened]]'
 location: Second floor {{waypoint 4, 27, 17}}
 added_in: Kingdom of Sky

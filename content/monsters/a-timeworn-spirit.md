@@ -6,7 +6,6 @@ in_game_name: a timeworn spirit
 race: Ghost
 class: Mystic
 level: '78'
-difficulty: ^^
 zone: '[[Kunzar Jungle]]'
 location: Behind City of Mist {{waypoint -429, 142, -833}}
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: a Thexian commander
 race: Dark Elf
 class: Guardian
 level: 12-13
-difficulty: ^^^
 zone: '[[The Buccaneer''s Rest]]'
 location: Back of the zone
 aggressive: true

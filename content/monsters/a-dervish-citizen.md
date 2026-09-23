@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a dervish citizen
 race: Human
 level: Scales
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: In the back of the instance.
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: a mechnamagica hunter-seeker
 race: Clockwork
 class: Warlock
 level: 53-54
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: Flying around [[The Mechanamagica Retrofitting]] {{waypoint -247, 14, -133}}
 aggressive: true

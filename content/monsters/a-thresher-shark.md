@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 in_game_name: a thresher shark
 race: Shark
 level: 69-70
-difficulty: ^
 zone: '[[Loping Plains]]'
 location: In the ocean south of [[The Timorous Moor]] {{waypoint -123, -10, 551}}
 aggressive: true

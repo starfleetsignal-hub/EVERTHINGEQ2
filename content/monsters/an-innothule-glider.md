@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Snake
 level: '78'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In the Innothule Swamp surrounding [[Firmroot Moot]]
 added_in: The Shadow Odyssey

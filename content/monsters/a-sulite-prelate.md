@@ -5,7 +5,6 @@ expansion: Desert of Flames
 race: Mummy
 class: Templar
 level: '52'
-difficulty: ^^
 zone: '[[The Living Tombs]]'
 location: On top of the central building in the [[Trade Court]] {{waypoint -623, 9, 206}}
 aggressive: true

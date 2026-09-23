@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Bear
 level: 33-34
-difficulty: ^
 group: Briarpaws
 zone: '[[Enchanted Lands]]'
 location: Along the banks of [[The Lazy Drain]] east of the wall {{waypoint -77, 5, -221}}

@@ -4,7 +4,6 @@ type: monster
 expansion: Altar of Malice
 race: Dervish
 level: '103'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: Spawns automatically during a quest
 aggressive: true

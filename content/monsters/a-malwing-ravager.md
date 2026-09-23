@@ -4,7 +4,6 @@ type: monster
 expansion: Ballads of Zimara
 race: Poxfiend
 level: '132'
-difficulty: ^
 zone: '[[Aether Wroughtlands]]'
 aggressive: true
 social: true

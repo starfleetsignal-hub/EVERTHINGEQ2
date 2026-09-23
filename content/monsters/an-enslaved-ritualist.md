@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Skeleton
 level: '100'
-difficulty: ^
 zone: '[[Ssrez''Ras: The Final Confrontation]]'
 aggressive: true
 social: true

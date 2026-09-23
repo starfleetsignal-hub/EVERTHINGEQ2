@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Maj'Dul potentate
 race: Human
 level: '55'
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: In the back of the zone.
 aggressive: true

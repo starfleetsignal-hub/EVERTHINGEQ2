@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 in_game_name: a temperamental tome
 race: Tome
 level: '69'
-difficulty: ^
 zone: '[[Palace of the Awakened]]'
 location: 3rd floor, roams around [[The Lyceum of Naar'Yora]]
 added_in: Kingdom of Sky

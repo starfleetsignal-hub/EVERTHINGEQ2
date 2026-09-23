@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Bixie
 level: '95'
-difficulty: ^
 zone: '[[The Fractured Hive (Advanced Solo)]]'
 location: In the southern honey chamber {{waypoint 63, -32, -121}}
 aggressive: true

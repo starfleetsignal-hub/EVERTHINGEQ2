@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Water Elemental
 level: '60'
-difficulty: ^
 zone: '[[Enchanted Lands]]'
 location: Found off the far northwest shore of the Enchanted Lands {{waypoint 440, -11, -1086}}
 added_in: Echoes of Faydwer

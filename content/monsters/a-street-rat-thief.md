@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a street rat thief
 race: Human
 level: 46-47
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: On the rooftops of the buildings near the [[The Court of Tears|Court of Tears]] {{waypoint -167, 150, 110}}
 added_in: Desert of Flames

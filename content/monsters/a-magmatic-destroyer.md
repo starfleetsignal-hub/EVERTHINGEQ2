@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Golem
 class: Berserker
 level: 80-83
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Scattered throughout [[Skyfire Mountains]], out of sight in lava pits and rivers {{waypoint -1007, 219, 545}}
 aggressive: true

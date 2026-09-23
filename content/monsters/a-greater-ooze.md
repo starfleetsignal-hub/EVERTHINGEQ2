@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Slug
 level: 11-12
-difficulty: ^
 zone: '[[Greater Faydark]]'
 location: '[[Opal Pond]] {{waypoint 165, 2, 92}}'
 added_in: Echoes of Faydwer

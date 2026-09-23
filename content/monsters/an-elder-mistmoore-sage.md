@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Vampire
 level: '76'
-difficulty: ^^^
 zone: '[[Castle Mistmoore]]'
 location: '{{waypoint -74, 5, -50}}'
 aggressive: true

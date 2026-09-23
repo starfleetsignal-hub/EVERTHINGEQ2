@@ -5,7 +5,6 @@ expansion: Kingdom of Sky
 race: Froglok
 class: Wizard
 level: '60'
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: '[[Hidden Refuge]] {{waypoint 169, -233, 188}}'
 social: true

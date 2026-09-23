@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Goblin
 level: '83'
-difficulty: ^^^
 zone: '[[Veksar: The Sunken Theater]]'
 location: '[[The Grand Sancloister]] {{waypoint -43, -3, -156}}'
 aggressive: true

@@ -3,7 +3,6 @@ title: A grime covered savage
 type: monster
 expansion: Shattered Lands
 subtitle: a grime covered savage (barbarian)
-race: '*'
 class: Berserker
 level: 16-18
 zone: '[[Antonica]]'

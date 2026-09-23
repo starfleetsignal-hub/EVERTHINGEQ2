@@ -4,7 +4,6 @@ type: monster
 expansion: Chaos Descending
 race: Snail
 level: '115'
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: On [[Solum Island]].
 added_in: Chaos Descending

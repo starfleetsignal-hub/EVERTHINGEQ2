@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Kobold
 class: Berserker
 level: 33-34
-difficulty: ^
 group: Yarpsnarl Kobolds
 zone: '[[Butcherblock Mountains]]'
 location: At the south end of [[Darkfall Gorge]] {{waypoint -76, 97, -269}}

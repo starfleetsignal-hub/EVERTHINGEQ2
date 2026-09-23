@@ -4,7 +4,6 @@ type: monster
 expansion: Sentinel's Fate
 race: Human
 level: '88'
-difficulty: ^
 zone: '[[The Stonebrunt Highlands]]'
 location: different camps
 added_in: Sentinel's Fate

@@ -5,7 +5,6 @@ expansion: Ballads of Zimara
 in_game_name: a volatile rock formation
 race: Golem
 level: '131'
-difficulty: ^
 zone: '[[Aether Wroughtlands]]'
 location: Found in the [[Coppercurl Maze]] around {{waypoint -454, 56, -332}}
 aggressive: true

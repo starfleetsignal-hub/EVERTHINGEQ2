@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Clockwork
 level: '46'
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: Patrolling several tunnels, including the one linking [[Klak'Anon Central]] with [[The Clockwork Commons and Maintenance]] {{waypoint -117, 14, 1}}
 added_in: Echoes of Faydwer

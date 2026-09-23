@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Ettin
 class: Berserker
 level: 33-34
-difficulty: ^
 group: Tribe Grundin
 zone: '[[Kaladim]]'
 location: Guarding the doors of [[Stormhammer Keep]] {{waypoint -140, 45, -117}}

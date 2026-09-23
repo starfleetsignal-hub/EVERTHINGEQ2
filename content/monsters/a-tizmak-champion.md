@@ -4,7 +4,6 @@ type: monster
 expansion: Destiny of Velious
 race: Minotaur
 level: '90'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: All throughout the [[Tizmak Caves]]
 social: true

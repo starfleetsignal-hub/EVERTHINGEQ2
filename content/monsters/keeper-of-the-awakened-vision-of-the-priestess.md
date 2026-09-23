@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: keeper of the Awakened
 race: Wyrm
 level: '101'
-difficulty: ^
 zone: '[[The Temple of Scale: Vision of the Priestess]]'
 added_in: Tears of Veeshan
 categories:

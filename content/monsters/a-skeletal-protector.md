@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Skeleton
 class: Guardian
 level: '25'
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: '[[Dead River Basin]] east of [[Bridge Keep]] {{waypoint 13, -20, -245}}'
 aggressive: true

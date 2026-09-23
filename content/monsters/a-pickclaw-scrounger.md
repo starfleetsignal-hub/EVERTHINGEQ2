@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Goblin
 level: '95'
-difficulty: ^
 group: Pickclaw Goblins
 zone: '[[High Keep (Advanced Solo)]]'
 location: Throughout the top 3 floors of the zone

@@ -6,7 +6,6 @@ in_game_name: a defender of Thyr
 race: Giant
 class: Assassin
 level: '55'
-difficulty: ^
 zone: '[[Lavastorm]]'
 location: Outside the entrance to [[Solusek's Eye]] {{waypoint -298, 86, -166}}
 aggressive: true

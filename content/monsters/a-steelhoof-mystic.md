@@ -6,7 +6,6 @@ subtitle: a Steelhoof mystic
 race: Centaur
 class: Mystic
 level: 23-25
-difficulty: ^^^
 group: Steelhoof Centaurs
 zone: '[[The Thundering Steppes]]'
 location: Throughout the [[Crested Lowlands]] and at [[Northern Bandit Camp]] at {{waypoint 1195, 1, 571}}

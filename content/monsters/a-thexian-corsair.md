@@ -6,7 +6,6 @@ in_game_name: a Thexian corsair
 race: Dark Elf
 class: Guardian
 level: 10-12
-difficulty: ^^
 zone: '[[The Buccaneer''s Rest]]'
 location: Throughout the zone
 aggressive: true

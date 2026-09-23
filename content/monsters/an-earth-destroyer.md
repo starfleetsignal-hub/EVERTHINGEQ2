@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: an Earth Destroyer
 race: Elemental
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Various locations, notably on the small floating islands eg {{waypoint -1285, 357, -845}} but see the related quest for more map references {{waypoint -838, 342, 1062}}
 aggressive: true

@@ -4,7 +4,6 @@ type: monster
 expansion: Desert of Flames
 in_game_name: a Rujarkian slave
 subtitle: a Rujarkian slave (gnoll)
-race: '*'
 level: 50-51
 zone: '[[The Clefts of Rujark]]'
 location: With a large jail cell {{waypoint -196, -10, 61}}

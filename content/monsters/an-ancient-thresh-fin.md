@@ -3,7 +3,6 @@ title: An ancient thresh fin
 type: monster
 expansion: Blood of Luclin
 level: '113'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: around [[Umbral Sea]]
 aggressive: true

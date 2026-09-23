@@ -3,7 +3,6 @@ title: A Darkblade scout
 type: monster
 expansion: Shattered Lands
 subtitle: a Darkblade scout (kerran)
-race: '*'
 class: Assassin
 level: 6-9
 group: Darkblades

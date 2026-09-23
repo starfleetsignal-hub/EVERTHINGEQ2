@@ -4,7 +4,6 @@ type: monster
 expansion: Blood of Luclin
 race: Golem
 level: 113-114
-difficulty: ^
 zone: '[[The Blinding]]'
 location: near [[Teeming Caldera]]
 added_in: Blood of Luclin

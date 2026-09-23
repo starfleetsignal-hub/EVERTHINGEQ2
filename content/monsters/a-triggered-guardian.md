@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Elemental
 level: '34'
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: '[[The Chessboard]]; spawn when *a loose stone* is inspected. {{waypoint -787, 101, -16}}'
 aggressive: true

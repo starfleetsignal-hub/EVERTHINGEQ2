@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Fae Drake
 level: 59-60
-difficulty: ^^^
 zone: '[[The Lesser Faydark]]'
 location: North from [[Camp of the Legendary Wu]] {{waypoint 868, 140, -642}}
 aggressive: true

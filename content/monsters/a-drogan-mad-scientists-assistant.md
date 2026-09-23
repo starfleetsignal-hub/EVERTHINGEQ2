@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a Drogan mad scientist's assistant
 race: Goblin
 level: 81-82
-difficulty: ^^
 zone: '[[Nu''roga]]'
 location: On [[Arcane Practice and Study]] (3rd floor) {{waypoint -30, 102, 18}}
 aggressive: true

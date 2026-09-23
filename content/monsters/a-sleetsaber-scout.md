@@ -2,7 +2,6 @@
 title: A sleetsaber scout
 type: monster
 expansion: Rise of Kunark
-race: '*'
 class: Ranger
 level: 70-71
 zone: '[[Kylong Plains]]'

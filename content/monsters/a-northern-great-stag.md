@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Deer
 level: '46'
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Throughout most of [[Hollowfrost Grove]] {{waypoint -658, -14, -352}}
 added_in: Shattered Lands

@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a Bitterwind explorer
 subtitle: a Bitterwind explorer (barbarian)
-race: '*'
 class: Guardian
 level: 41-42
 difficulty: Heroic ^^^

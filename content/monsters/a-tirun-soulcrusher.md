@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Tirun
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: Located all over [[Blightscale]].
 aggressive: true

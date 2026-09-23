@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Orc
 class: Berserker
 level: 30-31
-difficulty: ^
 group: Tallon Orcs
 zone: '[[Zek, the Orcish Wastes]]'
 location: '[[Orc Encampment]] {{waypoint 406, -40, 204}}'

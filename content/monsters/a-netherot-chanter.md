@@ -3,7 +3,6 @@ title: A netherot chanter
 type: monster
 expansion: Shattered Lands
 subtitle: a netherot chanter (erudite)
-race: '*'
 class: Coercer
 level: 6-8
 zone: '[[The Thieves'' Way]]'

@@ -6,7 +6,6 @@ in_game_name: a Ree jailer
 race: Orc
 class: Guardian
 level: '16'
-difficulty: ^^
 group: Ree Orcs
 zone: '[[The Wailing Caves]]'
 location: Guarding the jail cells {{waypoint -67, -26, -18}}

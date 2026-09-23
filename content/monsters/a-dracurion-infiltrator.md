@@ -4,7 +4,6 @@ type: monster
 expansion: Kunark Ascending
 race: Droag
 level: '107'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Spawn along the path between [[Danak Shipyards]] and [[Ganak's Battlement]] when [[The Iksar Hero]] is active.
 aggressive: true

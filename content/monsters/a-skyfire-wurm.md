@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 in_game_name: a skyfire wurm
 race: Wurm
 level: 80-81
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Throughout the [[Dracur's Breath]] (northern) region of Skyfire Mountains {{waypoint -1240, 225, 882}}
 aggressive: true

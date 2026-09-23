@@ -6,7 +6,6 @@ in_game_name: a proven Scaleborn reaver
 race: Droag
 class: Shadowknight
 level: '67'
-difficulty: ^^^
 zone: '[[Sanctum of the Scaleborn]]'
 location: '[[Soulrend]] {{waypoint -62, 42, -155}}'
 aggressive: true

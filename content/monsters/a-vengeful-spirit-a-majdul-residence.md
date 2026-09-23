@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a vengeful spirit
 race: Spectre
 level: Scales
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: Spawns after the target NPC has been assassinated.
 aggressive: true

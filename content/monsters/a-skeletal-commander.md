@@ -6,7 +6,6 @@ in_game_name: a skeletal commander
 race: Skeleton
 class: Shadowknight
 level: 28-29
-difficulty: ^^^
 zone: '[[The Thundering Steppes]]'
 location: Southern edge of [[Ruins of Karana]] {{waypoint -493, -1, 1017}}
 aggressive: true

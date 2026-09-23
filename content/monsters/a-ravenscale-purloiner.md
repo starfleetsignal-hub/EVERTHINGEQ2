@@ -6,7 +6,6 @@ in_game_name: a Ravenscale Purloiner
 race: Dark Elf
 class: Assassin
 level: '84'
-difficulty: ^^^
 zone: '[[Ravenscale Repository]]'
 location: Several locations throughout the zone, including {{waypoint 63, 4, -127}}
 aggressive: true

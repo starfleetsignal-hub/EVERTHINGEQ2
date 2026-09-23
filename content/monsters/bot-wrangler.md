@@ -6,7 +6,6 @@ in_game_name: bot wrangler
 race: Gnome
 class: Guardian
 level: '77'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Throughout [[U.J.L. 1.0]] {{waypoint 1330, 411, 761}}
 added_in: The Shadow Odyssey

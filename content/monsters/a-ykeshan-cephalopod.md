@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Octopus
 level: 80-81
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: in the ocean surrounding the lower Moors
 aggressive: true

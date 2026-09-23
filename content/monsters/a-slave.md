@@ -2,7 +2,6 @@
 title: A slave
 type: monster
 expansion: Rise of Kunark
-race: '*'
 level: '82'
 difficulty: Heroic ^^^
 zone: '[[Veeshan''s Peak]]'

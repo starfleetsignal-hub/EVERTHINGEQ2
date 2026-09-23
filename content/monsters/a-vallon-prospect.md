@@ -6,7 +6,6 @@ in_game_name: a Vallon prospect
 race: Orc
 class: Berserker
 level: 34-36
-difficulty: ^
 group: Vallon Orcs
 zone: '[[Zek, the Orcish Wastes]]'
 location: East of [[Blood Ore Valley]] {{waypoint 134, 11, -97}}

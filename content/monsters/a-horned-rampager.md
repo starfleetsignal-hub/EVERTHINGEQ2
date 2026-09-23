@@ -4,7 +4,6 @@ type: monster
 expansion: Sentinel's Fate
 race: Gorgon
 level: 82-83
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: In the skeleton caves, upper lefthand large room {{waypoint 455, -58, 3505}}
 aggressive: true

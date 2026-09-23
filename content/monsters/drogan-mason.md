@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Goblin
 level: '82'
-difficulty: ^^^
 zone: '[[Nu''roga]]'
 location: On the stairs between the second and third levels {{waypoint 55, 102, -44}}
 aggressive: true

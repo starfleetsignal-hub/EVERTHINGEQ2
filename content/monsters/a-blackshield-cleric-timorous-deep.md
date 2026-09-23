@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 in_game_name: a Blackshield cleric
 subtitle: a Blackshield cleric (ratonga)
-race: '*'
 level: '11'
 difficulty: Solo v
 group: Blackshield Pirates

@@ -6,7 +6,6 @@ in_game_name: an enraged shadowbeast
 race: Drolvarg
 class: Berserker
 level: '89'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: '{{waypoint -983, -542, -1820}}'
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: a Sootfoot wizard
 race: Goblin
 class: Wizard
 level: '47'
-difficulty: ^
 group: Sootfoot Goblins
 zone: '[[Lavastorm]]'
 location: Inside buildings wherever Sootfoot Goblins are {{waypoint -320, -131, 421}}

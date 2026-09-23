@@ -4,7 +4,6 @@ type: monster
 expansion: Sentinel's Fate
 race: Kerig'Dal
 level: 94-95
-difficulty: ^^^
 zone: '[[The Vigilant: Rescue]]'
 aggressive: true
 social: true

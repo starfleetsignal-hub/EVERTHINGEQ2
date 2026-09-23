@@ -6,7 +6,6 @@ in_game_name: an Anaz Mal trueblade
 race: Gnoll
 class: Brigand
 level: '55'
-difficulty: ^^
 group: Anaz Mal Gnolls
 zone: '[[The Living Tombs]]'
 location: Northeast [[Statue Court]] {{waypoint -178, -6, 321}}

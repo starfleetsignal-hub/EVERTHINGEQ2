@@ -6,7 +6,6 @@ in_game_name: a Thexian wave crasher
 race: Dark Elf
 class: Inquisitor
 level: 10-12
-difficulty: ^^
 zone: '[[The Buccaneer''s Rest]]'
 location: Throughout the zone
 aggressive: true

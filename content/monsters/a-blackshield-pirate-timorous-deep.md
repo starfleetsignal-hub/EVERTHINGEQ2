@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 in_game_name: a Blackshield pirate
 subtitle: a Blackshield pirate (ratonga)
-race: '*'
 class: Assassin
 level: 10-12
 difficulty: Solo

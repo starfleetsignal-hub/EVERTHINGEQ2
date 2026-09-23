@@ -4,7 +4,6 @@ type: monster
 expansion: Kingdom of Sky
 race: Basilisk
 level: '66'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: Eastern section of [[Isle of Awakening]] {{waypoint 178, 203, 493}}
 aggressive: true

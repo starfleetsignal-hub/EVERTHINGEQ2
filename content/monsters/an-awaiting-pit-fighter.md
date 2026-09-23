@@ -2,7 +2,6 @@
 title: An awaiting pit fighter
 type: monster
 expansion: Desert of Flames
-race: '*'
 level: '50'
 difficulty: vv
 zone: '[[The Sinking Sands]]'

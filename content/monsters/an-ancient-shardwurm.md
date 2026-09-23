@@ -4,7 +4,6 @@ type: monster
 expansion: Destiny of Velious
 race: Wurm
 level: '90'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: On DaggerFlow Glacier {{waypoint -86, -294, -49}}
 aggressive: true

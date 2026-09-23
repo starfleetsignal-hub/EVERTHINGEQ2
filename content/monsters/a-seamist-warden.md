@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Sprite
 level: '35'
-difficulty: ^^^
 zone: '[[Enchanted Lands]]'
 location: '[[The Fae Isle]], east of the druid rings {{waypoint -593, 5, 60}}'
 social: true

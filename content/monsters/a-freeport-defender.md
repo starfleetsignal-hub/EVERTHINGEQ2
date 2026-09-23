@@ -4,9 +4,7 @@ type: monster
 expansion: The Shadow Odyssey
 in_game_name: a Freeport defender
 subtitle: a Freeport defender (human)
-race: '*'
 level: '78'
-difficulty: ^
 zone: '[[Besieged Freeport Docks]]'
 location: Throughout the zone
 aggressive: true

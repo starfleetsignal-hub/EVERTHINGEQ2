@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Yha-lei
 class: Guardian
 level: '80'
-difficulty: ^
 zone: '[[Fens of Nathsar]]'
 location: Along the shore south of [[Omen's Call]] {{waypoint 134, -115, -44}}
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: a sand giant assassin
 race: Giant
 class: Assassin
 level: 60-63
-difficulty: ^^^
 zone: '[[Cazel''s Mesa]]'
 location: Static spawn, scattered through zone
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a feline sentinel
 race: Leopard
 level: Scales
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: Throughout the zone.
 aggressive: true

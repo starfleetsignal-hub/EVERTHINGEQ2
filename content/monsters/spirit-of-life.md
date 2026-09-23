@@ -6,7 +6,6 @@ in_game_name: spirit of life
 race: Wisp
 class: Mystic
 level: '60'
-difficulty: ^
 zone: '[[Greater Faydark]]'
 location: Near the waterfall at the [[Lower Emerald River]] {{waypoint -552, 5, 154}}
 added_in: Echoes of Faydwer

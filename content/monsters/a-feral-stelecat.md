@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 in_game_name: a feral stelecat
 race: Fearstalker
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Southern most point of [[Zivier's Reach]] at {{waypoint -584, 16, 1234}}
 aggressive: true

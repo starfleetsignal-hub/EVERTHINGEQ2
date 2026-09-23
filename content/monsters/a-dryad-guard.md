@@ -5,7 +5,6 @@ expansion: Shattered Lands
 in_game_name: a dryad guard
 race: Dryad
 level: 65-67
-difficulty: ^^^
 zone: '[[The Unkempt Vale: A Lordly Confrontation]]'
 location: Throughout the instance.
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 in_game_name: a fire elemental
 race: Elemental
 level: '80'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: In the [[Skyfire Mountains]] of Jarsath Wastes. {{waypoint -1351, 211, 216}}
 aggressive: true

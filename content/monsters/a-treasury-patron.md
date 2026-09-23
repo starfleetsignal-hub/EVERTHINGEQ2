@@ -3,7 +3,6 @@ title: A treasury patron
 type: monster
 expansion: Echoes of Faydwer
 subtitle: a treasury patron (bugbear)
-race: '*'
 level: 32-33
 difficulty: Heroic vvv
 zone: '[[Kaladim]]'

@@ -4,7 +4,6 @@ type: monster
 expansion: Desert of Flames
 race: Monkey
 level: '55'
-difficulty: ^^^
 zone: '[[The Shimmering Citadel]]'
 aggressive: true
 added_in: Desert of Flames

@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Gnoll
 level: 32-33
-difficulty: ^
 group: The Quaketail Pack
 zone: '[[Kaladim]]'
 location: '[[Ogrebane Arena]], circling the spectator''s ledge {{waypoint 148, 11, -128}}'

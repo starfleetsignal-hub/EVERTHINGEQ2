@@ -4,7 +4,6 @@ type: monster
 expansion: Visions of Vetrovia
 race: Werewolf
 level: 131-132
-difficulty: ^
 zone: '[[Forlorn Gist]]'
 location: Roaming the hills west of [[Little Town]]
 added_in: Visions of Vetrovia

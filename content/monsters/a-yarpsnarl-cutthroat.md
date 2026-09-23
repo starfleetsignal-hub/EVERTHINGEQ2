@@ -6,7 +6,6 @@ in_game_name: a Yarpsnarl cutthroat
 race: Kobold
 class: Brigand
 level: 32-35
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: Two different places
 aggressive: true

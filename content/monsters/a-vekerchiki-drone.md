@@ -5,7 +5,6 @@ expansion: Chaos Descending
 in_game_name: a Vekerchiki drone
 race: Mephlin
 level: '116'
-difficulty: ^
 zone: '[[Vegarlson, the Earthen Badlands]]'
 location: Several flying above the rocky outcrops near the [[Heart of Thudos]] around {{waypoint -273, 105, 178}}
 added_in: Chaos Descending

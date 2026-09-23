@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Hawk
 level: 41-42
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Throughout the [[Bitterwind Trench]] {{waypoint 335, 2, -54}}
 added_in: Shattered Lands

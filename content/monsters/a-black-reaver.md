@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Iron Golem
 class: Berserker
 level: '78'
-difficulty: ^^^
 zone: '[[Kunzar Jungle]]'
 location: Inside a building in the Northwestern section of [[The City of Mist]] {{waypoint -320, 150, -1013}}
 aggressive: true

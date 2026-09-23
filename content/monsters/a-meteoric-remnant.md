@@ -4,7 +4,6 @@ type: monster
 expansion: Blood of Luclin
 race: Dervish
 level: '113'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: near [[Teeming Caldera]]
 added_in: Blood of Luclin

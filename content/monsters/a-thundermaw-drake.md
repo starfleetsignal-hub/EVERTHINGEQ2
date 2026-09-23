@@ -4,7 +4,6 @@ type: monster
 expansion: Kingdom of Sky
 race: Drakota
 level: '61'
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: '[[Vicious Breeding Grounds]] near [[Azdalin]] and several broken pillars {{waypoint 690, -154, 526}}'
 aggressive: true

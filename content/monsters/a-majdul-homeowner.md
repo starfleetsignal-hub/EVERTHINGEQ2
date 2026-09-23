@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Maj'Dul homeowner
 race: Human
 level: Scales
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: Spawns somewhere in the instance once all the other mobs have been slain or the target item has been located.
 aggressive: true

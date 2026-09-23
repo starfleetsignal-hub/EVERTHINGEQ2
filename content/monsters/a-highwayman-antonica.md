@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 in_game_name: a highwayman
 subtitle: a highwayman (human)
-race: '*'
 level: 17-19
 zone: '[[Antonica]]'
 location: Scattered throughout northeast Antonica {{waypoint -1680, -4, -325}}

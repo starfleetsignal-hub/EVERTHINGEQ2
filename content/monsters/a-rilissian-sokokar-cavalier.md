@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Iksar
 class: Shadowknight
 level: '74'
-difficulty: ^^^
 zone: '[[Fens of Nathsar]]'
 location: Flying above [[Riliss]] {{waypoint -1297, 40, -82}}
 aggressive: true

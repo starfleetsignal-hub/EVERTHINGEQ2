@@ -6,7 +6,6 @@ in_game_name: a Bloodskull soldier
 race: Orc
 class: Warrior
 level: '17'
-difficulty: ^
 zone: '[[Bloodskull Valley: The Training Grounds]]'
 location: Shortly after the entrance at {{waypoint -13, -47, 869}}
 aggressive: true

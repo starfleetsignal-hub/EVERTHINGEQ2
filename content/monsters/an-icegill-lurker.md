@@ -6,7 +6,6 @@ in_game_name: an icegill lurker
 race: Goblin
 class: Berserker
 level: 47-48
-difficulty: ^
 group: Icegill Goblins
 zone: '[[Everfrost]]'
 location: On most of the islands in [[Icegill Lagoon]] {{waypoint 54, -35, -1427}}

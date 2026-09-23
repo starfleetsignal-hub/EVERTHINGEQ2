@@ -6,7 +6,6 @@ in_game_name: a Kaladim bridgekeeper
 race: Ghost
 class: Berserker
 level: '34'
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: Down in [[Darkfall Gorge]] towards the east end {{waypoint -29, 95, -385}}
 added_in: Echoes of Faydwer

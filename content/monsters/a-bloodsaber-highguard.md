@@ -3,7 +3,6 @@ title: A Bloodsaber highguard
 type: monster
 expansion: Shattered Lands
 subtitle: a Bloodsaber highguard (human)
-race: '*'
 class: Guardian
 level: 24-25
 group: Bloodsabers

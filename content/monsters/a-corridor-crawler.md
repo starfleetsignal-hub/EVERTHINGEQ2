@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Spider
 level: '66'
-difficulty: ^^^
 zone: '[[Mistmoore Catacombs]]'
 location: In the hallways in the upper catacombs {{waypoint -192, -25, 27}}
 aggressive: true

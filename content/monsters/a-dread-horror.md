@@ -3,7 +3,6 @@ title: A dread horror
 type: monster
 expansion: Blood of Luclin
 level: '114'
-difficulty: ^
 zone: '[[The Blinding]]'
 aggressive: true
 added_in: Blood of Luclin

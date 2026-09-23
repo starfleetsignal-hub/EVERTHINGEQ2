@@ -4,7 +4,6 @@ type: monster
 expansion: Desert of Flames
 race: Orc
 level: '49'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Patrolling the [[Orc Highway]] {{waypoint -247, -105, -47}}
 aggressive: true

@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 in_game_name: a Blackshield assassin
 subtitle: a Blackshield assassin (half elf)
-race: '*'
 class: Assassin
 level: '11'
 difficulty: Solo v

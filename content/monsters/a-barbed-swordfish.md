@@ -4,7 +4,6 @@ type: monster
 expansion: Desert of Flames
 race: Swordfish
 level: 46-48
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: In the ocean to the east and southeast of the docks. {{waypoint -1597, -243, -523}}
 added_in: Desert of Flames

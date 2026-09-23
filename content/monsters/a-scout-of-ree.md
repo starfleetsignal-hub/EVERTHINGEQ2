@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Orc
 class: Brigand
 level: 13-14
-difficulty: ^
 zone: '[[The Wailing Caves]]'
 location: On the top floor of the zone at {{waypoint -2, -15, -114}}
 aggressive: true

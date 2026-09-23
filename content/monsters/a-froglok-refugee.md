@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a froglok refugee
 race: Froglok
 level: 54-55
-difficulty: ^
 zone: '[[A Maj''Dul Residence]]'
 location: Throughout the instance.
 aggressive: true

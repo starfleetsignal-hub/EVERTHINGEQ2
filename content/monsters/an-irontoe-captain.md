@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Dwarf
 class: Guardian
 level: '30'
-difficulty: ^^^
 zone: '[[Butcherblock Mountains]]'
 location: Patrolling the bridge over [[Darkfall Gorge]] {{waypoint -54, 176, -337}}
 added_in: Echoes of Faydwer

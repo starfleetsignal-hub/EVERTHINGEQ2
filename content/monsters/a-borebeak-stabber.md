@@ -4,7 +4,6 @@ type: monster
 expansion: Echoes of Faydwer
 race: Stirge
 level: 63-64
-difficulty: ^
 zone: '[[Mistmoore Catacombs]]'
 location: Southeast corner of the ocean caverns, flying around overhead {{waypoint 85, -124, 150}}
 aggressive: true

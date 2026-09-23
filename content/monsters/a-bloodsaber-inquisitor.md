@@ -3,7 +3,6 @@ title: A Bloodsaber inquisitor
 type: monster
 expansion: Shattered Lands
 subtitle: a Bloodsaber inquisitor (human)
-race: '*'
 class: Inquisitor
 level: 24-25
 group: Bloodsabers

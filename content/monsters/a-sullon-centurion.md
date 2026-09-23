@@ -6,7 +6,6 @@ in_game_name: a Sullon centurion
 race: Orc
 class: Guardian
 level: 36-37
-difficulty: ^
 group: Sullon Orcs
 zone: '[[Zek, the Orcish Wastes]]'
 location: In the [[Defiled Forest]] in the vicinity of the [[Sullon Mill]]. Some spawn in groups of 2 and 3, but singles can be reliably found every 5 minutes at {{waypoint -351, -28, -400}}

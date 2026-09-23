@@ -6,7 +6,6 @@ in_game_name: a Humator colonizer
 race: Ravasect
 class: Assassin
 level: '66'
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: In the hidden tunnel under [[Cacotoxic Stain]] {{waypoint 386, 173, -477}}
 aggressive: true

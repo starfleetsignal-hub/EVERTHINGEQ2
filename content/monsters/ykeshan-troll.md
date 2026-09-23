@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 race: Zombie
 class: Shadowknight
 level: 78-79
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: All around the [[Entrance to Guk]] {{waypoint 766, 157, -726}}
 aggressive: true

@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a maniacal bloodletter
 race: Goblin
 level: '82'
-difficulty: ^^^
 zone: '[[Nu''roga]]'
 location: After [[Bloodpriest Yak'Lar]] is killed, these spawn on either side of his altar {{waypoint -10, 155, -15}}
 aggressive: true

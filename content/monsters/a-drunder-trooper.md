@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Orc
 class: Berserker
 level: 39-40
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: East of [[The Deathfist Citadel]] {{waypoint -64, -36, -704}}
 aggressive: true

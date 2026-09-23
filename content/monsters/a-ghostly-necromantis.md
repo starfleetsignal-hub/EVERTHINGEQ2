@@ -4,7 +4,6 @@ type: monster
 expansion: Visions of Vetrovia
 race: Bat
 level: '131'
-difficulty: ^
 zone: '[[Forlorn Gist]]'
 location: Flying around and hanging in the trees near [[Little Town]]
 aggressive: true

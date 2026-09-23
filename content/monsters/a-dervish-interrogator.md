@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a dervish interrogator
 race: Human
 level: Scales
-difficulty: ^
 group: Dervish
 zone: '[[A Maj''Dul Residence]]'
 location: Spawns once all the mobs have been slain.

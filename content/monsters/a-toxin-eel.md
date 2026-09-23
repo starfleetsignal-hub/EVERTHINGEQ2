@@ -5,7 +5,6 @@ expansion: Blood of Luclin
 in_game_name: a toxin eel
 race: Eel
 level: '114'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: around [[Umbral Sea]]
 aggressive: true

@@ -3,7 +3,6 @@ title: A succulent singer
 type: monster
 expansion: Blood of Luclin
 level: '126'
-difficulty: ^^^
 zone: '[[Wracklands: Diaku Corral (Solo)]]'
 aggressive: true
 added_in: Blood of Luclin

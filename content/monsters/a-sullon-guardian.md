@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Orc
 level: 38-39
-difficulty: ^
 group: Sullon Orcs
 zone: '[[Zek, the Orcish Wastes]]'
 location: Northeastern [[Defiled Forest]] {{waypoint -287, -28, -386}}

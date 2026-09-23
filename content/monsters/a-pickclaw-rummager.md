@@ -4,7 +4,6 @@ type: monster
 expansion: Tears of Veeshan
 race: Goblin
 level: '95'
-difficulty: ^
 group: Pickclaw Goblins
 zone: '[[High Keep (Advanced Solo)]]'
 location: '[[The Guest Apartments]], around the stairway leading down to the next level'

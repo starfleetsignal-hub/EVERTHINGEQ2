@@ -4,7 +4,6 @@ type: monster
 expansion: Chains of Eternity
 race: Skirth
 level: '94'
-difficulty: ^
 zone: '[[Obol Plains]]'
 location: Various areas
 aggressive: true

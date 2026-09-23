@@ -2,7 +2,6 @@
 title: A Nybright thug
 type: monster
 expansion: Echoes of Faydwer
-race: '*'
 class: Brigand
 level: '60'
 difficulty: Heroic ^^^

@@ -6,7 +6,6 @@ in_game_name: a Runnyeye warmonger
 race: Goblin
 class: Inquisitor
 level: '35'
-difficulty: ^
 zone: '[[Enchanted Lands]]'
 location: Just south of [[The Foul Stench]] {{waypoint 24, 23, -780}}
 added_in: Shattered Lands

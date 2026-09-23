@@ -4,7 +4,6 @@ type: monster
 expansion: Rise of Kunark
 race: Yeti
 level: '80'
-difficulty: ^^^
 zone: '[[Kylong Plains]]'
 location: In the icy mountain caves; triggered spawn during a certain quest {{waypoint 1372, 383, -798}}
 aggressive: true

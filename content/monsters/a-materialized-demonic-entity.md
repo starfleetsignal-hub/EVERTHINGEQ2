@@ -4,7 +4,6 @@ type: monster
 expansion: Destiny of Velious
 race: Elemental
 level: '88'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: Only spawns during the quest [[To the Rhythm of Our World]] {{waypoint -1492, -541, -2126}}
 added_in: Destiny of Velious

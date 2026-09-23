@@ -6,7 +6,6 @@ in_game_name: a thieving gnomish pirate
 race: Gnome
 class: Swashbuckler
 level: '90'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: Thurgadin Harbor
 added_in: Destiny of Velious

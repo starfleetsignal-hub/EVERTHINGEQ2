@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Evil Eye
 level: '38'
-difficulty: ^
 zone: '[[The Chamber of Rulgax]]'
 location: Entry room
 aggressive: true

@@ -4,7 +4,6 @@ type: monster
 expansion: Planes of Prophecy
 in_game_name: a lobster monster
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Northwestern area of the [[Auroric Tide]] around {{waypoint 790, 5, -1114}}
 aggressive: true

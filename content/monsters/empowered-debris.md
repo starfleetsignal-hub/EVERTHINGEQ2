@@ -5,7 +5,6 @@ expansion: Altar of Malice
 in_game_name: empowered debris
 race: Dervish
 level: '99'
-difficulty: ^
 zone: '[[Ssrez''Ras: Ruins of Stasis]]'
 aggressive: true
 added_in: Altar of Malice

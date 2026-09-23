@@ -6,7 +6,6 @@ in_game_name: an Ara' Dal metallurgist
 race: Mummy
 class: Illusionist
 level: '52'
-difficulty: ^
 group: Ara' Dal
 zone: '[[The Living Tombs]]'
 location: '[[Residence Court]], near the entrance and northeast side {{waypoint -442, -12, 375}}'

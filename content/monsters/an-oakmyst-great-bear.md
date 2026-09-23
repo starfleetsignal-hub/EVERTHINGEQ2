@@ -4,7 +4,6 @@ type: monster
 expansion: Shattered Lands
 race: Bear
 level: '10'
-difficulty: ^
 zone: '[[Oakmyst Forest]]'
 location: Near [[Clearwater Pond]] {{waypoint 925, 2, -272}}
 aggressive: true

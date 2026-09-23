@@ -4,7 +4,6 @@ type: monster
 expansion: The Shadow Odyssey
 race: Fungusman
 level: 78-80
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: From [[Tillage Patch]] to [[Gunthak's Shanty]]
 aggressive: true

@@ -6,7 +6,6 @@ in_game_name: an emissary of war
 race: Spectre
 class: Berserker
 level: 55-56
-difficulty: ^
 zone: '[[The Silent City]]'
 location: '[[The Halls of War]] {{waypoint 70, 7, 414}}'
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Shattered Lands
 race: Dervish
 class: Guardian
 level: 48-49
-difficulty: ^
 zone: '[[Everfrost]]'
 location: Throughout [[Guardian's Gulch]] {{waypoint -419, -38, -958}}
 added_in: Shattered Lands

@@ -5,7 +5,6 @@ expansion: Blood of Luclin
 in_game_name: a reishi spore
 race: Spheroid
 level: 114-116
-difficulty: ^
 zone: '[[Aurelian Coast]]'
 location: Floating in [[Murkmold Swale]] around {{waypoint 647, 50, 496}}
 social: true

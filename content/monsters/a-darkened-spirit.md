@@ -4,7 +4,6 @@ type: monster
 expansion: Chains of Eternity
 in_game_name: a darkened spirit
 level: '93'
-difficulty: ^
 zone: '[[The Eidolon Jungle]]'
 location: Appears next to the foreboding statue at {{waypoint -1077, 4, 921}}
 added_in: Chains of Eternity

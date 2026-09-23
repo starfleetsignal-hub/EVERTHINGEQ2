@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Drachnid
 class: Berserker
 level: 80-81
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: Center east Skyfire Mountains, in a cavern starting at {{waypoint -2350, 259, 951}}
 aggressive: true

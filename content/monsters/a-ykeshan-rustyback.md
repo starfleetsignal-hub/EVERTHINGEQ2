@@ -6,7 +6,6 @@ in_game_name: a Ykeshan rustyback
 race: Rust Monster
 class: Assassin
 level: 79-80
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Ykeshan Flats]] {{waypoint -664, -1083, 1484}}'
 aggressive: true

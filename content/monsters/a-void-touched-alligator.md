@@ -5,7 +5,6 @@ expansion: The Shadow Odyssey
 in_game_name: a void-touched alligator
 race: Crocodile
 level: 78-79
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In the area around [[Anchor of Bazzul (POI)]] {{waypoint -139, -62, 139}}
 aggressive: true

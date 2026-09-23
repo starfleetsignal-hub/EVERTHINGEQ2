@@ -4,7 +4,6 @@ type: monster
 expansion: Kingdom of Sky
 race: Drakota
 level: 60-61
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 aggressive: true
 social: true

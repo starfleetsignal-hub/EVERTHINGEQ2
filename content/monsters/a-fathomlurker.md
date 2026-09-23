@@ -4,7 +4,6 @@ type: monster
 expansion: Terrors of Thalumbra
 race: Fathomlurker
 level: 100-102
-difficulty: ^
 zone: '[[Thalumbra, the Ever Deep]]'
 location: '{{waypoint 139, 136, 249}}'
 aggressive: true

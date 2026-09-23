@@ -3,7 +3,6 @@ title: A Darkblade fury
 type: monster
 expansion: Shattered Lands
 subtitle: a Darkblade fury (dark elf)
-race: '*'
 level: 5-9
 group: Darkblades
 zone: '[[The Thieves'' Way]]'

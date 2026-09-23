@@ -4,7 +4,6 @@ type: monster
 expansion: Sentinel's Fate
 race: Evil Eye
 level: '94'
-difficulty: ^^
 zone: '[[The Vigilant: Rescue]]'
 aggressive: true
 social: true

@@ -6,7 +6,6 @@ in_game_name: an Ara' Dal peasant
 race: Mummy
 class: Swashbuckler
 level: 52-53
-difficulty: ^^
 zone: '[[The Living Tombs]]'
 location: '[[Residence Court]], everywhere *except* the northeast section {{waypoint -308, -11, 379}}'
 aggressive: true

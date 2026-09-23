@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Blades initiate
 race: Human
 level: 54-55
-difficulty: ^
 zone: '[[Blades'' Arena]]'
 location: One of the possible contestants
 aggressive: true

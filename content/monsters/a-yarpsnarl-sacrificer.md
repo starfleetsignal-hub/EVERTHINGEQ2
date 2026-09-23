@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 race: Kobold
 class: Mystic
 level: 32-35
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: See below
 aggressive: true

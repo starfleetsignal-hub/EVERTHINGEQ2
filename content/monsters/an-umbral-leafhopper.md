@@ -4,7 +4,6 @@ type: monster
 expansion: Terrors of Thalumbra
 race: Insect
 level: '102'
-difficulty: ^
 zone: '[[Thalumbra, the Ever Deep]]'
 location: Found on the leaves around the village of [[Zou'Lidelas]] {{waypoint -328.79, 228.93, 241.86}}
 aggressive: true

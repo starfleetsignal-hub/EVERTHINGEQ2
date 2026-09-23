@@ -4,7 +4,6 @@ type: monster
 expansion: Kunark Ascending
 race: Human
 level: '108'
-difficulty: ^
 zone: '[[Isle of Vul]]'
 aggressive: true
 social: true
