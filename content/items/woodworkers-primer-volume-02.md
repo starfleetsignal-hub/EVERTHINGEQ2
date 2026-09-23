@@ -1,0 +1,30 @@
+---
+title: Woodworker's Primer Volume 02
+type: item
+item_kind: Recipe book
+icon: images/Item_716.png
+tier: Uncommon
+level: '110'
+classes: Woodworker
+flags: heirloom
+recipes: '- [[Student''s Crossbow of Evasion]]
+
+  - [[Student''s Wand of Force]]'
+item_link: \aITEM 711665033 -954838219:Woodworker's Primer Volume 02\/a
+categories:
+- Census Credits
+- Recipe Books
+- Uncommon Recipe Books
+- Woodworker Recipe Books
+source:
+  title: Woodworker's Primer Volume 02
+  url: https://eq2.fandom.com/wiki/Woodworker's_Primer_Volume_02
+  history: https://eq2.fandom.com/wiki/Woodworker's_Primer_Volume_02?action=history
+  revision: 921572
+  revised: '2018-12-02T13:06:37Z'
+  license: CC BY-SA 3.0
+expansion: Chaos Descending
+expansion_source: linked
+---
+
+

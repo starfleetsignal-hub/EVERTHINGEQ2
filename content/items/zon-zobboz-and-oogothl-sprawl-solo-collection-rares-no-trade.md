@@ -1,0 +1,43 @@
+---
+title: Zon Zobboz and Oogothl Sprawl (Solo) Collection Rares (no-trade)
+type: item
+item_kind: Crate
+icon: images/Item_5876.png
+tier: Fabled
+item_level: '0'
+flags: no-trade
+description: Choose 1 rare no-trade collection item from this bag.
+contains: '- [[Imprint of Throes]]
+
+  - [[Affix of Darkened Shadows]]
+
+  - [[Codex of Greater Tribulation]]
+
+  - [[Omnimagics of the Omnimagus]]
+
+  - [[Cerebral Imprint]]
+
+  - [[Unfettered Affix]]
+
+  - [[High Lord''s Codex of Storms]]
+
+  - [[Invocation of Glare]]'
+obtained_from: '*[[A Living Rage (Solo)|A Living Rage [Solo]]] *[[Fueling Rage (Solo)|Fueling Rage [Solo]]] *[[Rage War (Solo)|Rage War [Solo]]]'
+item_link: \aITEM 1729309493 974621323:Zon Zobboz and Oogothl Sprawl [Solo] Collection Rares\/a
+categories:
+- Census Credits
+- Crate (Item Type)
+- Fabled Items
+- Items
+source:
+  title: Zon Zobboz and Oogothl Sprawl (Solo) Collection Rares (no-trade)
+  url: https://eq2.fandom.com/wiki/Zon_Zobboz_and_Oogothl_Sprawl_(Solo)_Collection_Rares_(no-trade)
+  history: https://eq2.fandom.com/wiki/Zon_Zobboz_and_Oogothl_Sprawl_(Solo)_Collection_Rares_(no-trade)?action=history
+  revision: 2005233
+  revised: '2026-05-17T13:24:40Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: source
+---
+
+

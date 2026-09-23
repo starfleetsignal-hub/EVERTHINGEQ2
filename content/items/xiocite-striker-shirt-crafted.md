@@ -1,0 +1,57 @@
+---
+title: Xiocite Striker Shirt (Crafted)
+type: item
+item_kind: Equipment
+icon: images/Item_3070.png
+tier: Mastercrafted
+level: '98'
+slot: Chest
+flags: attunable
+stats:
+  sta: '+966'
+  agi: '+396'
+  wis: '+396'
+  maxhealth: '13.6'
+  mit: '807'
+  critbonus: '36.2'
+  potency: '36.2'
+  dtype: Chain Armor
+obtained_from: Crafted by [[Armorer]] (level 100) from [[Advanced Armorer Volume 100]]
+item_link: \aITEM -341147787 1526733612:Xiocite Striker Shirt\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Chain Armor (Equipment Type)
+- Chest (Inventory Slot)
+- Crit Bonus (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Mastercrafted Equipment
+- Max Health (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+source:
+  title: Xiocite Striker Shirt (Crafted)
+  url: https://eq2.fandom.com/wiki/Xiocite_Striker_Shirt_(Crafted)
+  history: https://eq2.fandom.com/wiki/Xiocite_Striker_Shirt_(Crafted)?action=history
+  revision: 1756963
+  revised: '2023-12-03T12:00:11Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

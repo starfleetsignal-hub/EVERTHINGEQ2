@@ -1,0 +1,54 @@
+---
+title: Worthy Wagered Greatshield
+type: item
+item_kind: Equipment
+icon: images/Item_3128.png
+tier: Legendary
+level: '125'
+slot: Shield
+flags: attunable heirloom
+stats:
+  sta: +5,953
+  agi: +3,120
+  health: +199,406
+  power: +125,314
+  crit: '446.4'
+  potency: 16,555.8
+  resolve: '300'
+  multi: '22.7'
+  cbovercap: '+1127.3'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM -908636715 -931066861:Worthy Wagered Greatshield\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Legendary Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 13 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Worthy Wagered Greatshield
+  url: https://eq2.fandom.com/wiki/Worthy_Wagered_Greatshield
+  history: https://eq2.fandom.com/wiki/Worthy_Wagered_Greatshield?action=history
+  revision: 1702864
+  revised: '2023-03-18T14:53:24Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

@@ -1,0 +1,55 @@
+---
+title: Xiocite Explorer Gauntlets (Crafted)
+type: item
+item_kind: Equipment
+icon: images/Item_3077.png
+tier: Mastercrafted
+level: '98'
+slot: Hands
+flags: attunable
+stats:
+  sta: '+577'
+  agi: '+283'
+  wis: '+283'
+  mit: '753'
+  critbonus: '21.7'
+  potency: '21.7'
+  dtype: Chain Armor
+obtained_from: Crafted by [[Armorer]] (level 96) from [[Advanced Armorer Volume 96]]
+item_link: \aITEM -1509333868 97164446:Xiocite Explorer Gauntlets\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Hands (Inventory Slot)
+- Mastercrafted Equipment
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+source:
+  title: Xiocite Explorer Gauntlets (Crafted)
+  url: https://eq2.fandom.com/wiki/Xiocite_Explorer_Gauntlets_(Crafted)
+  history: https://eq2.fandom.com/wiki/Xiocite_Explorer_Gauntlets_(Crafted)?action=history
+  revision: 1758098
+  revised: '2023-12-06T15:53:26Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

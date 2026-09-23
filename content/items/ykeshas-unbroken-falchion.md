@@ -1,0 +1,62 @@
+---
+title: Ykesha's Unbroken Falchion
+type: item
+item_kind: Equipment
+icon: images/Item_2863.png
+tier: Legendary
+level: '90'
+slot: Primary
+classes: ', , , [[Channeler]], [[Beastlord]]'
+flags: no-trade
+stats:
+  sta: '+316'
+  agi: '+316'
+  health: '+141'
+  power: '+37'
+  crit: '11'
+  critbonus: '10'
+  potency: '31.4'
+  abmod: '+618'
+  dmg: 297 - 446
+  delay: '6.0'
+  drating: '123.76'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+item_link: \aITEM 413133473 1819066273:Ykesha's Unbroken Falchion\/a
+categories:
+- Ability Modifier (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Hate Gain (Equipment)
+- Legendary Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Tier 10 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Ykesha's Unbroken Falchion
+  url: https://eq2.fandom.com/wiki/Ykesha's_Unbroken_Falchion
+  history: https://eq2.fandom.com/wiki/Ykesha's_Unbroken_Falchion?action=history
+  revision: 1429621
+  revised: '2022-04-18T12:54:20Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+
