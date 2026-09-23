@@ -4,7 +4,7 @@ A clean, ad-free reference for **EverQuest II**, from The Shattered Lands throug
 Every page is a Markdown file in this repository, and the site is rebuilt and published to GitHub Pages
 whenever a page changes.
 
-**Site:** https://starfleetsignal-hub.github.io/everythingeq2/
+**Site:** https://starfleetsignal-hub.github.io/EVERTHINGEQ2/
 
 The page text is adapted from the [EverQuest II Wiki](https://eq2.fandom.com/) on Fandom (EQ2i) and is shared
 under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/). Each page names its source article,

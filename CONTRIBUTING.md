@@ -17,7 +17,7 @@ New editors need to be added as collaborators under **Settings → Collaborators
 The full-wiki conversion runs outside this repository and adds pages in batches. Work in a clone of this
 repository so the tools write straight into it:
 
-    git clone https://github.com/starfleetsignal-hub/everythingeq2.git && cd everythingeq2
+    git clone https://github.com/starfleetsignal-hub/EVERTHINGEQ2.git && cd EVERTHINGEQ2
     pip install pyyaml
     # raw/ (downloaded wikitext) is not committed; unpack an existing raw bundle here or fetch again
     python3 tools/fetch.py --all            # or --title / --category for a subset; 1 request/s
