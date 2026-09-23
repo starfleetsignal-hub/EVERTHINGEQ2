@@ -1,0 +1,54 @@
+---
+title: Dreadfell Towershield of Insight
+type: item
+item_kind: Equipment
+icon: images/Item_2277.png
+tier: Legendary
+level: '123'
+slot: Shield
+flags: no-trade
+stats:
+  sta: +5,953
+  agi: +3,120
+  health: +199,406
+  power: +125,314
+  crit: '446.4'
+  potency: 16,555.8
+  resolve: '300'
+  multi: '22.7'
+  cbovercap: '+1127.3'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM 980528612 -1349439535:Dreadfell Towershield of Insight\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Legendary Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 13 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Dreadfell Towershield of Insight
+  url: https://eq2.fandom.com/wiki/Dreadfell_Towershield_of_Insight
+  history: https://eq2.fandom.com/wiki/Dreadfell_Towershield_of_Insight?action=history
+  revision: 1403863
+  revised: '2022-02-15T20:01:29Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

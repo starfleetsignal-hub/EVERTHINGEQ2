@@ -1,0 +1,77 @@
+---
+title: Entomber's Wand
+type: item
+item_kind: Equipment
+icon: images/Item_2968.png
+tier: Fabled
+level: '100'
+slot: Ranged
+flags: attunable heirloom infusable
+stats:
+  sta: +1,272
+  int: '+618'
+  health: +6,076
+  power: +3,645
+  crit: '198.2'
+  critbonus: '67.9'
+  potency: '78.3'
+  resolve: '14'
+  abmod: +2,131
+  dps: '59.3'
+  dmg: 668 - 2004
+  delay: '8.0'
+  drating: '334.08'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+effects: '**Anguish**'
+item_link: \aITEM -312311358 -397575867:Entomber's Wand\/a
+categories:
+- Ability Modifier (Equipment)
+- Anguish (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Entomber's Wand
+  url: https://eq2.fandom.com/wiki/Entomber's_Wand
+  history: https://eq2.fandom.com/wiki/Entomber's_Wand?action=history
+  revision: 1897152
+  revised: '2025-09-18T18:28:50Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

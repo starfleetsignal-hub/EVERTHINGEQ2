@@ -1,0 +1,84 @@
+---
+title: Empowered Cloak of the Lucanic Fighter
+type: item
+item_kind: Equipment
+icon: images/Item_2384.png
+tier: Fabled
+level: '90'
+slot: Cloak
+flags: no-trade
+description: This cloak was presented to you by the Overlord himself for your outstanding service to the city of Freeport!
+stats:
+  str: '+64'
+  sta: '+64'
+  maxhealth: '8.3'
+  crit: '3.8'
+  critbonus: '1.4'
+  potency: '6.2'
+  aspeed: '8.8'
+obtained_from: '[[Your Eternal Reward]]'
+item_link: \aITEM -599500189 2090900857:Empowered Cloak of the Lucanic Fighter\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloak (Inventory Slot)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Empowered Cloak of the Lucanic Fighter
+  url: https://eq2.fandom.com/wiki/Empowered_Cloak_of_the_Lucanic_Fighter
+  history: https://eq2.fandom.com/wiki/Empowered_Cloak_of_the_Lucanic_Fighter?action=history
+  revision: 1312483
+  revised: '2021-05-15T22:34:18Z'
+  license: CC BY-SA 3.0
+expansion: Age of Discovery
+expansion_source: source
+---
+
+

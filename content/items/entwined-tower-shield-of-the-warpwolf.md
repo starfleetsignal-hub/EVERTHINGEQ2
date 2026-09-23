@@ -1,0 +1,53 @@
+---
+title: Entwined Tower Shield of the Warpwolf
+type: item
+item_kind: Equipment
+icon: images/Item_2272.png
+tier: Fabled
+level: '135'
+slot: Shield
+flags: attunable heirloom
+stats:
+  sta: +6,611
+  agi: +4,015
+  health: +783,645
+  power: +783,645
+  crit: '574.4'
+  potency: 57,683.5
+  resolve: '630'
+  abmod: +5306,696
+  cbovercap: '+1606.6'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM 563669968 188036312:Entwined Tower Shield of the Warpwolf\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 14 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+source:
+  title: Entwined Tower Shield of the Warpwolf
+  url: https://eq2.fandom.com/wiki/Entwined_Tower_Shield_of_the_Warpwolf
+  history: https://eq2.fandom.com/wiki/Entwined_Tower_Shield_of_the_Warpwolf?action=history
+  revision: 2007779
+  revised: '2026-05-17T15:28:15Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+

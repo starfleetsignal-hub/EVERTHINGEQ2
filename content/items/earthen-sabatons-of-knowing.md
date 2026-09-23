@@ -1,0 +1,56 @@
+---
+title: Earthen Sabatons of Knowing
+type: item
+item_kind: Equipment
+icon: images/Item_2408.png
+tier: Legendary
+level: '110'
+slot: Feet
+flags: attunable heirloom infusable
+stats:
+  str: '+976'
+  sta: +2,212
+  health: +81,178
+  power: +12,162
+  mit: '791'
+  potency: '732.1'
+  resolve: '40'
+  abmod: +9,302
+  aspeed: '304.8'
+  cbovercap: '+25.6'
+  dtype: Plate Armor
+item_link: \aITEM -1703102235 -11741157:Earthen Sabatons of Knowing\/a
+categories:
+- Ability Modifier (Equipment)
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 12 Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Earthen Sabatons of Knowing
+  url: https://eq2.fandom.com/wiki/Earthen_Sabatons_of_Knowing
+  history: https://eq2.fandom.com/wiki/Earthen_Sabatons_of_Knowing?action=history
+  revision: 1656094
+  revised: '2023-03-14T11:15:37Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

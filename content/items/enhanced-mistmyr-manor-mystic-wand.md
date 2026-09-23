@@ -1,0 +1,74 @@
+---
+title: Enhanced Mistmyr Manor Mystic Wand
+type: item
+item_kind: Equipment
+icon: images/Item_2571.png
+tier: Fabled
+level: '90'
+slot: Ranged
+flags: no-trade
+stats:
+  sta: '+155'
+  agi: '+155'
+  health: '+70'
+  power: '+18'
+  crit: '5.44'
+  critbonus: '4.94'
+  potency: '15.4'
+  abmod: '+306'
+  aspeed: '10.4'
+  dmg: 422 - 632
+  delay: '8.0'
+  drating: '131.73'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+obtained_from: Crafted by [[Artisan]] (level 90) from [[Mistmyr Lore and Legend Weapons]]
+item_link: \aITEM 1714019708 -131539223:Enhanced Mistmyr Manor Mystic Wand\/a
+categories:
+- Ability Modifier (Equipment)
+- Attack Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Reuse Speed (Equipment)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Enhanced Mistmyr Manor Mystic Wand
+  url: https://eq2.fandom.com/wiki/Enhanced_Mistmyr_Manor_Mystic_Wand
+  history: https://eq2.fandom.com/wiki/Enhanced_Mistmyr_Manor_Mystic_Wand?action=history
+  revision: 1791201
+  revised: '2024-04-09T21:48:16Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

@@ -1,0 +1,55 @@
+---
+title: Energized Jun'Rah-Polished Helm (0 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_1590.png
+tier: Fabled
+level: '95'
+slot: Head
+flags: attunable heirloom
+description: 0/1 red gem slots filled
+stats:
+  str: '+326'
+  sta: '+619'
+  maxhealth: '10.4'
+  mit: '822'
+  critbonus: '31.1'
+  abmod: +4,542
+  mitinc: '7'
+  dtype: Plate Armor
+obtained_from: From [[Ethertouched Plate Helm (Energized)|Ethertouched Plate Helm]]
+item_link: \aITEM -1812571211 2096680633:Energized Jun'Rah-Polished Helm\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Extra Riposte Chance (Equipment)
+- Fabled Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warrior Equipment
+source:
+  title: Energized Jun'Rah-Polished Helm (0 Gem)
+  url: https://eq2.fandom.com/wiki/Energized_Jun'Rah-Polished_Helm_(0_Gem)
+  history: https://eq2.fandom.com/wiki/Energized_Jun'Rah-Polished_Helm_(0_Gem)?action=history
+  revision: 1942072
+  revised: '2026-01-04T00:10:51Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

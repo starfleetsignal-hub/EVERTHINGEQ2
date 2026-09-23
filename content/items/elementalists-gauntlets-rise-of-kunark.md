@@ -1,0 +1,54 @@
+---
+title: Elementalist's Gauntlets (Rise of Kunark)
+type: item
+item_kind: Equipment
+icon: images/Item_4115.png
+tier: Legendary
+level: '70'
+slot: Hands
+flags: lore no-trade no-value infusable
+stats:
+  sta: '+34'
+  int: '+35'
+  mit: '389'
+  crit: '1.5'
+  critbonus: '0.6'
+  potency: '3.1'
+  dps: '6.9'
+  dtype: Cloth Armor
+obtained_from: From [[A Packet of Equipment (Rise of Kunark, Conjuror)|A Packet of Equipment]]
+item_link: \aITEM 1391531039 -1534749483:Elementalist's Gauntlets [Rise of Kunark]\/a
+categories:
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Enchanter Equipment
+- Equipment
+- Hands (Inventory Slot)
+- Illusionist Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Mage Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 8 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Elementalist's Gauntlets (Rise of Kunark)
+  url: https://eq2.fandom.com/wiki/Elementalist's_Gauntlets_(Rise_of_Kunark)
+  history: https://eq2.fandom.com/wiki/Elementalist's_Gauntlets_(Rise_of_Kunark)?action=history
+  revision: 1784446
+  revised: '2024-02-18T00:29:34Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

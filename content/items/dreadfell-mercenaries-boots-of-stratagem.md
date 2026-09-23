@@ -1,0 +1,85 @@
+---
+title: Dreadfell Mercenaries Boots of Stratagem
+type: item
+item_kind: Equipment
+icon: images/Item_3662.png
+tier: Mastercrafted
+level: '123'
+slot: Feet
+flags: attunable merc-only
+stats:
+  str: +2,652
+  sta: +5,060
+  health: +169,495
+  power: +106,516
+  mit: '901'
+  potency: 14,072.4
+  resolve: '300'
+  cbovercap: '+958.2'
+  dtype: Plate Armor
+obtained_from: Crafted by [[Armorer]] (level 124) from [[Advanced Vetrovian Armorer's Volume IV]]
+item_link: \aITEM -1273044323 1414837802:Dreadfell Mercenaries Boots of Stratagem\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Block Chance (Equipment)
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mastercrafted Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Dreadfell Mercenaries Boots of Stratagem
+  url: https://eq2.fandom.com/wiki/Dreadfell_Mercenaries_Boots_of_Stratagem
+  history: https://eq2.fandom.com/wiki/Dreadfell_Mercenaries_Boots_of_Stratagem?action=history
+  revision: 1388728
+  revised: '2021-12-12T01:36:25Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: source
+---
+
+

@@ -1,0 +1,52 @@
+---
+title: Enhanced Thundering Steppe Unbroken Tower Shield
+type: item
+item_kind: Equipment
+icon: images/Item_15.png
+tier: Fabled
+level: '90'
+slot: Shield
+flags: no-trade
+stats:
+  sta: '+101'
+  agi: '+101'
+  health: '+70'
+  power: '+18'
+  crit: '4.36'
+  critbonus: '3.86'
+  potency: '10'
+  abmod: '+252'
+  dtype: Tower Shield
+obtained_from: Crafted by [[Artisan]] (level 90) from [[Thundering Lore and Legend Weapons]]
+item_link: \aITEM -698626227 1233780691:Enhanced Thundering Steppe Unbroken Tower Shield\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Hate Gain (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 10 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+source:
+  title: Enhanced Thundering Steppe Unbroken Tower Shield
+  url: https://eq2.fandom.com/wiki/Enhanced_Thundering_Steppe_Unbroken_Tower_Shield
+  history: https://eq2.fandom.com/wiki/Enhanced_Thundering_Steppe_Unbroken_Tower_Shield?action=history
+  revision: 1449642
+  revised: '2022-06-04T17:41:42Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

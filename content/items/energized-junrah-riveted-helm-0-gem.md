@@ -1,0 +1,53 @@
+---
+title: Energized Jun'Rah-Riveted Helm (0 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_1632.png
+tier: Fabled
+level: '95'
+slot: Head
+flags: attunable heirloom
+description: 0/1 red gem slots filled
+stats:
+  str: '+326'
+  sta: '+619'
+  mit: '772'
+  critbonus: '31.1'
+  dps: '79.3'
+  multi: '113.3'
+  dtype: Plate Armor
+obtained_from: From [[Ethertouched Plate Helm (Energized)|Ethertouched Plate Helm]]
+item_link: \aITEM -2086890524 -596025194:Energized Jun'Rah-Riveted Helm\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Energized Jun'Rah-Riveted Helm (0 Gem)
+  url: https://eq2.fandom.com/wiki/Energized_Jun'Rah-Riveted_Helm_(0_Gem)
+  history: https://eq2.fandom.com/wiki/Energized_Jun'Rah-Riveted_Helm_(0_Gem)?action=history
+  revision: 1942086
+  revised: '2026-01-04T00:11:18Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

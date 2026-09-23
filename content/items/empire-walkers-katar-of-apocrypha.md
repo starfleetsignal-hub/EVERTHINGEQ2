@@ -1,0 +1,58 @@
+---
+title: Empire Walker's Katar of Apocrypha
+type: item
+item_kind: Equipment
+icon: images/Item_705.png
+tier: Fabled
+level: '125'
+slot: Primary
+classes: ', [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +6,430
+  agi: +3,748
+  health: +310,204
+  power: +194,942
+  crit: '536.2'
+  potency: 39,552.8
+  resolve: '445'
+  cbovercap: '+1499.1'
+  mitinc: '60.4'
+  dmg: 4202 - 6304
+  delay: '4.0'
+  drating: '2626.56'
+  dtype: One-Handed Crushing
+  wtype: Fists
+effects: '**Wary Protection**'
+item_link: \aITEM -1076829554 -1388423729:Empire Walker's Katar of Apocrypha\/a
+categories:
+- Beastlord Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Fabled Equipment
+- Fists (Weapon Type)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- One-Handed Crushing (Equipment Type)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Secondary (Inventory Slot)
+- Tier 13 Equipment
+- Wary Protection (Equipment)
+source:
+  title: Empire Walker's Katar of Apocrypha
+  url: https://eq2.fandom.com/wiki/Empire_Walker's_Katar_of_Apocrypha
+  history: https://eq2.fandom.com/wiki/Empire_Walker's_Katar_of_Apocrypha?action=history
+  revision: 1732048
+  revised: '2023-07-11T19:56:59Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

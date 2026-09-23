@@ -1,0 +1,23 @@
+---
+title: Etched harness
+type: item
+icon: images/Item_934.png
+tier: Uncommon
+item_level: '30'
+item_link: \aITEM 1933434205 -2038223941:etched harness\/a
+categories:
+- Census Credits
+- Items
+- Uncommon Items
+source:
+  title: Etched harness
+  url: https://eq2.fandom.com/wiki/Etched_harness
+  history: https://eq2.fandom.com/wiki/Etched_harness?action=history
+  revision: 1796141
+  revised: '2024-05-03T10:51:07Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

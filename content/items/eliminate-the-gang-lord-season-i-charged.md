@@ -1,0 +1,26 @@
+---
+title: 'Eliminate the Gang Lord (Season I: Charged)'
+type: item
+item_kind: Overseer
+icon: images/Item_5092.png
+item_level: '0'
+flags: no-trade no-value
+description: 'Grants overseer quest:<br> Eliminate the Gang Lord [Season I: Charged]<br><br>Quest information:<br>Minimum Agents: 1<br>Maximum Agents: 1<br>Mercenary: Yes<br>Familiar: Yes<br>Critical success chance: 5<br>Mishap chance: 5<br>Overseer Experience: 0Adds 1 charges<br>Positive Traits: Lucky, Tough<br>Negative Traits: Noble'
+item_link: '\aITEM -2033402428 1280164309:Eliminate the Gang Lord [Season I: Charged]\/a'
+aliases:
+- Eliminate the Gang Lord (Charged)
+- Eliminate the Gang Lord (Grants overseer quest charged)
+categories:
+- Census Credits
+- Items
+- Overseer (Item Type)
+source:
+  title: 'Eliminate the Gang Lord (Season I: Charged)'
+  url: https://eq2.fandom.com/wiki/Eliminate_the_Gang_Lord_(Season_I:_Charged)
+  history: https://eq2.fandom.com/wiki/Eliminate_the_Gang_Lord_(Season_I:_Charged)?action=history
+  revision: 2008374
+  revised: '2026-05-18T18:09:25Z'
+  license: CC BY-SA 3.0
+---
+
+

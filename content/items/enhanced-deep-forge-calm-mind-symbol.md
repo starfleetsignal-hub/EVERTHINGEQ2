@@ -1,0 +1,67 @@
+---
+title: Enhanced Deep Forge Calm Mind Symbol
+type: item
+item_kind: Equipment
+icon: images/Item_1216.png
+tier: Fabled
+level: '90'
+slot: Secondary
+flags: no-trade
+stats:
+  sta: '+151'
+  agi: '+151'
+  health: '+70'
+  power: '+18'
+  crit: '5.36'
+  critbonus: '4.86'
+  potency: '15'
+  dps: '17.1'
+  dtype: Symbols
+obtained_from: Crafted by [[Artisan]] (level 90) from [[Deep Lore and Legend Weapons]]
+item_link: \aITEM -178328699 -1781730752:Enhanced Deep Forge Calm Mind Symbol\/a
+categories:
+- Block Chance (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Hate Gain (Equipment)
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Secondary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Symbols (Equipment Type)
+- Templar Equipment
+- Tier 10 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Enhanced Deep Forge Calm Mind Symbol
+  url: https://eq2.fandom.com/wiki/Enhanced_Deep_Forge_Calm_Mind_Symbol
+  history: https://eq2.fandom.com/wiki/Enhanced_Deep_Forge_Calm_Mind_Symbol?action=history
+  revision: 1423558
+  revised: '2022-03-21T02:51:42Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

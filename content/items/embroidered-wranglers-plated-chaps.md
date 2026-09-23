@@ -1,0 +1,56 @@
+---
+title: Embroidered Wrangler's Plated Chaps
+type: item
+item_kind: Equipment
+icon: images/Item_3641.png
+tier: Fabled
+level: '120'
+slot: Legs
+flags: no-trade infusable
+stats:
+  str: +1,561
+  sta: +3,403
+  health: +280,030
+  power: +49,681
+  maxhealth: '37.8'
+  mit: '1071'
+  potency: 2,840.8
+  resolve: '185'
+  cbovercap: '+166.2'
+  mitinc: '35.9'
+  dtype: Plate Armor
+item_link: \aITEM 2059264409 2124526107:Embroidered Wrangler's Plated Chaps\/a
+categories:
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legs (Inventory Slot)
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Warrior Equipment
+source:
+  title: Embroidered Wrangler's Plated Chaps
+  url: https://eq2.fandom.com/wiki/Embroidered_Wrangler's_Plated_Chaps
+  history: https://eq2.fandom.com/wiki/Embroidered_Wrangler's_Plated_Chaps?action=history
+  revision: 1096164
+  revised: '2020-07-27T18:17:25Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

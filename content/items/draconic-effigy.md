@@ -1,0 +1,82 @@
+---
+title: Draconic Effigy
+type: item
+item_kind: Equipment
+icon: images/Item_2781.png
+tier: Fabled
+level: '95'
+slot: Charm
+flags: lore-equip attunable heirloom
+stats:
+  str: '+243'
+  sta: '+378'
+  crit: '38'
+  critbonus: '24'
+  potency: '24'
+effects: '**Tormenting Assault**'
+item_link: \aITEM 1890254841 165842962:Draconic Effigy\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Block Chance (Equipment)
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Charm (Inventory Slot)
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- 'Temple of Veeshan: Laboratory of Mutation (Heroic) Dropped Items'
+- Tier 10 Equipment
+- Tormenting Assault (Equipment)
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Draconic Effigy
+  url: https://eq2.fandom.com/wiki/Draconic_Effigy
+  history: https://eq2.fandom.com/wiki/Draconic_Effigy?action=history
+  revision: 1884306
+  revised: '2025-09-15T21:27:21Z'
+  license: CC BY-SA 3.0
+expansion: Tears of Veeshan
+expansion_source: linked
+---
+
+

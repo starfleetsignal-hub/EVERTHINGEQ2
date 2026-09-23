@@ -1,0 +1,227 @@
+---
+title: Empyral Mission Reward Crate (Version 2)
+type: item
+icon: images/Item_1748.png
+tier: Fabled
+item_level: '0'
+obtained_from: This crate is a reward from Overseer Quests from this Season. The same missions it can reward are the ones that drop it.
+item_link: \aITEM -234909864 -769348407:Empyral Mission Reward Crate\/a
+categories:
+- Census Credits
+- Fabled Items
+- Items
+source:
+  title: Empyral Mission Reward Crate (Version 2)
+  url: https://eq2.fandom.com/wiki/Empyral_Mission_Reward_Crate_(Version_2)
+  history: https://eq2.fandom.com/wiki/Empyral_Mission_Reward_Crate_(Version_2)?action=history
+  revision: 1988939
+  revised: '2026-02-26T00:18:12Z'
+  license: CC BY-SA 3.0
+---
+
+## Rewards
+
+This item never actually lands in your inventory. When you receive it, it will automatically give you a loot window containing:<br>
+One of:
+
+- [[Aurelian Coast Rockhopper]] -- *familiar (Treasured)*
+- [[Dreadfire Shadowbeast]] -- *familiar (Fabled)*
+- [[Baleshadow Construct]] -- *familiar (Celestial)*
+- [[Necrotic Reishi]] -- *familiar (Legendary)*
+- [[(Temporary 4 Hour) Familiar Experience (100,000)]]
+- [[(Temporary 4 Hour) Familiar Experience (12,500)]]
+- [[(Temporary 4 Hour) Familiar Experience (25,000)]]
+- [[(Temporary 4 Hour) Familiar Experience (50,000)]]
+- [[(Temporary 4 Hour) Familiar Experience (75,000)]]
+- [[(Temporary 4 Hour) Mercenary Training Reduction (10 Day)]]
+- [[(Temporary 4 Hour) Mercenary Training Reduction (20 Day)]]
+- [[(Temporary 4 Hour) Mercenary Training Reduction (30 Day)]]
+- [[(Temporary 4 Hour) Mount Training Reduction (10 Day)]]
+- [[(Temporary 4 Hour) Mount Training Reduction (20 Day)]]
+- [[(Temporary 4 Hour) Mount Training Reduction (30 Day)]]
+- [[(Temporary 4 Hour) Research Reduction (10 Day)]]
+- [[(Temporary 4 Hour) Research Reduction (20 Day)]]
+- [[(Temporary 4 Hour) Research Reduction (30 Day)]]
+- [[(Temporary 4 Hour) Research Reduction (40 Day)]]
+- [[Limited Potion of Progress]]
+- [[Bladimir Black]] -- *Overseer Agent (Treasured)*
+- [[Wizard Flurggledim]] -- *Overseer Agent (Treasured)*
+- [[Cleric Sararah]] -- *Overseer Agent (Treasured)*
+- [[Galen Stormwolf]] -- *Overseer Agent (Treasured)*
+- [[Doric Silverhew]] -- *Overseer Agent (Treasured)*
+- [[Garith Oldfoe]] -- *Overseer Agent (Treasured)*
+- [[Grumpy Little Stelve]] -- *Overseer Agent (Treasured)*
+- [[Inquisitor L'Morr]] -- *Overseer Agent (Treasured)*
+- [[Sergeant Marcus Carpenter]] -- *Overseer Agent (Treasured)*
+- [[Milo Burningsun]] -- *Overseer Agent (Treasured)*
+- [[Selmo Koriat]] -- *Overseer Agent (Treasured)*
+- [[Young Michem]] -- *Overseer Agent (Treasured)*
+- [[Councilor Wrathburn]] -- *Overseer Agent (Fabled)*
+- [[Gretacia Windsong]] -- *Overseer Agent (Fabled)*
+- [[King Grorlif]] -- *Overseer Agent (Fabled)*
+- [[Lucielyn L'Kirin]] -- *Overseer Agent (Fabled)*
+- [[Mingla Gelfshir]] -- *Overseer Agent (Fabled)*
+- [[Morlin Val'Sara]] -- *Overseer Agent (Fabled)*
+- [[Alexandrina X'Aphon]] -- *Overseer Agent (Celestial)*
+- [[Klirgain the Mangler]] -- *Overseer Agent (Celestial)*
+- [[Velun Punox]] -- *Overseer Agent (Celestial)*
+- [[Xiang Jie]] -- *Overseer Agent (Celestial)*
+- [[Druid Ellanha]] -- *Overseer Agent (Legendary)*
+- [[Garick the Mad]] -- *Overseer Agent (Legendary)*
+- [[Kror McKroffan]] -- *Overseer Agent (Legendary)*
+- [[Magnus Frostheart]] -- *Overseer Agent (Legendary)*
+- [[Mina Szekle]] -- *Overseer Agent (Legendary)*
+- [[Morac the Builder]] -- *Overseer Agent (Legendary)*
+- [[Rittan D'Sal]] -- *Overseer Agent (Legendary)*
+- [[Rosamond]] -- *Overseer Agent (Legendary)*
+- [[Familiar Cage]] -- *(Fabled)*
+- [[Eliminate Warlord Ix Acon]] -- *Overseer mission*
+- [[Exact Revenge on the Drakota]] -- *Overseer mission*
+- [[Eliminate Venekor]] -- *Overseer mission*
+- [[Eliminate the Gang Lord]] -- *Overseer mission*
+- [[A Dark Ceremony]] -- *Overseer mission*
+- [[Slay the Evol Ew Chieftain]] -- *Overseer mission*
+- [[Eliminate Klirkan X'Davai]] -- *Overseer mission*
+- [[The Throne of Emperor Fyst]] -- *Overseer mission*
+- [[Reacquire the Idol of Solusek Ro]] -- *Overseer mission*
+- [[Convince the Guardians]] -- *Overseer mission*
+- [[The Kra'thuk's Magical Properties]] -- *Overseer mission*
+- [[Rob the Fool's Gold Tavern]] -- *Overseer mission*
+- [[Treasure in Shortwine Burrow]] -- *Overseer mission*
+- [[Liberate Lady Laravale]] -- *Overseer mission*
+- [[Save Orxilia Calogn]] -- *Overseer mission*
+- [[Save the Valkyrie Princess]] -- *Overseer mission*
+- [[Save the Vision of Vox]] -- *Overseer mission*
+- [[Keeper for the Keep]] -- *Overseer mission*
+- [[Captured in Bramble Woods]] -- *Overseer mission*
+- [[Save Lira Singebellows]] -- *Overseer mission*
+- [[Find the Goblin Banker's Loot]] -- *Overseer mission*
+- [[Find the Golden Idol of the Drafling]] -- *Overseer mission*
+- [[Recover the Stolen Scrolls]] -- *Overseer mission*
+- [[Retrieval for the Crown]] -- *Overseer mission*
+- [[The Word of Thule]] -- *Overseer mission*
+- [[Thexian Treasure]] -- *Overseer mission*
+- [[Valuable Runes in a Dirty Place]] -- *Overseer mission*
+- [[The Thexian Wizard's Wand]] -- *Overseer mission*
+- [[Lesser Fragment of Planar Energy]]
+- [[Superior Fragment of Planar Energy]]
+- [[Greater Fragment of Planar Energy]]
+- [[Veilwalker's Barding Recipes]]
+- [[Veilwalker's Breeching Recipes]]
+- [[Veilwalker's Hackamore Recipes]]
+- [[Veilwalker's Reins Recipes]]
+- [[Veilwalker's Saddle Recipes]]
+- [[Veilwalker's Stirrup Recipes]]
+- [[Veilwalker's Barding Recipes]] -- *(actually has Shoes)*
+- [[Voidpiercer's Barding Recipes]]
+- [[Voidpiercer's Breeching Recipes]]
+- [[Voidpiercer's Hackamore Recipes]]
+- [[Voidpiercer's Reins Recipes]]
+- [[Voidpiercer's Stirrup Recipes]]
+- [[Voidpiercer's Academic's Saddle Recipes]] -- *probably a typo in this name, may change*
+- [[Voidpiercer's Barding Recipes]] -- *(actually has Shoes)*
+- [[Advanced Alchemist Studies 11]]
+- [[Advanced Armorer Studies 11]]
+- [[Advanced Carpenter Studies 11]]
+- [[Advanced Jeweler Studies 11]]
+- [[Advanced Sage Studies 11]]
+- [[Advanced Tailor Studies 11]]
+- [[Advanced Weaponsmith Studies 11]]
+- [[Advanced Woodworker Studies 11]]
+- [[Advanced Alchemist Studies 12]]
+- [[Advanced Armorer Studies 12]]
+- [[Advanced Carpenter Studies 12]]
+- [[Advanced Jeweler Studies 12]]
+- [[Advanced Sage Studies 12]]
+- [[Advanced Tailor Studies 12]]
+- [[Advanced Weaponsmith Studies 12]]
+- [[Advanced Woodworker Studies 12]]
+- [[Advanced Alchemist Studies 13]]
+- [[Advanced Armorer Studies 13]]
+- [[Advanced Carpenter Studies 13]]
+- [[Advanced Jeweler Studies 13]]
+- [[Advanced Sage Studies 13]]
+- [[Advanced Tailor Studies 13]]
+- [[Advanced Weaponsmith Studies 13]]
+- [[Advanced Woodworker Studies 13]]
+- [[Advanced Alchemist Studies 14]]
+- [[Advanced Armorer Studies 14]]
+- [[Advanced Carpenter Studies 14]]
+- [[Advanced Jeweler Studies 14]]
+- [[Advanced Sage Studies 14]]
+- [[Advanced Tailor Studies 14]]
+- [[Advanced Weaponsmith Studies 14]]
+- [[Advanced Woodworker Studies 14]]
+- [[Advanced Alchemist Studies 15]]
+- [[Advanced Armorer Studies 15]]
+- [[Advanced Carpenter Studies 15]]
+- [[Advanced Jeweler Studies 15]]
+- [[Advanced Sage Studies 15]]
+- [[Advanced Tailor Studies 15]]
+- [[Advanced Weaponsmith Studies 15]]
+- [[Advanced Woodworker Studies 15]]
+- [[Advanced Alchemist Studies 16]]
+- [[Advanced Armorer Studies 16]]
+- [[Advanced Carpenter Studies 16]]
+- [[Advanced Jeweler Studies 16]]
+- [[Advanced Sage Studies 16]]
+- [[Advanced Tailor Studies 16]]
+- [[Advanced Weaponsmith Studies 16]]
+- [[Advanced Woodworker Studies 16]]
+- [[Advanced Alchemist Studies 17]]
+- [[Advanced Armorer Studies 17]]
+- [[Advanced Carpenter Studies 17]]
+- [[Advanced Jeweler Studies 17]]
+- [[Advanced Sage Studies 17]]
+- [[Advanced Tailor Studies 17]]
+- [[Advanced Weaponsmith Studies 17]]
+- [[Advanced Woodworker Studies 17]]
+- [[Advanced Alchemist Studies 18]]
+- [[Advanced Armorer Studies 18]]
+- [[Advanced Carpenter Studies 18]]
+- [[Advanced Jeweler Studies 18]]
+- [[Advanced Sage Studies 18]]
+- [[Advanced Tailor Studies 18]]
+- [[Advanced Weaponsmith Studies 18]]
+- [[Advanced Woodworker Studies 18]]
+- [[Advanced Alchemist Studies 19]]
+- [[Advanced Armorer Studies 19]]
+- [[Advanced Carpenter Studies 19]]
+- [[Advanced Jeweler Studies 19]]
+- [[Advanced Sage Studies 19]]
+- [[Advanced Tailor Studies 19]]
+- [[Advanced Weaponsmith Studies 19]]
+- [[Advanced Woodworker Studies 19]]
+- [[Advanced Alchemist Studies 20]]
+- [[Advanced Armorer Studies 20]]
+- [[Advanced Carpenter Studies 20]]
+- [[Advanced Jeweler Studies 20]]
+- [[Advanced Sage Studies 20]]
+- [[Advanced Tailor Studies 20]]
+- [[Advanced Weaponsmith Studies 20]]
+- [[Advanced Woodworker Studies 20]]
+- [[Voidpiercer's Adornments Volume I]]
+- [[Voidpiercer's Adornments Volume II]]
+- [[Voidpiercer's Adornments Volume III]]
+- [[Voidpiercer's Adornments Volume IV]]
+- [[Awakened Abilities]]
+- [[Ancient Empyral Teachings Volume I]]
+- [[Ancient Empyral Teachings Volume II]]
+- [[Ancient Empyral Teachings Volume III]]
+- [[Ancient Empyral Teachings Volume IV]]
+- [[Ancient Empyral Teachings Volume V]]
+- [[Ancient Empyral Teachings Volume VI]]
+- [[Ancient Empyral Teachings Volume VII]]
+- [[Ancient Empyral Teachings Volume VIII]]
+- [[Ancient Empyral Teachings Volume IX]]
+- [[Ancient Empyral Teachings Volume X]]
+- [[Empyral Grandmaster Recipes Volume I]]
+- [[Empyral Grandmaster Recipes Volume II]]
+- [[Empyral Grandmaster Recipes Volume III]]
+- [[Empyral Grandmaster Recipes Volume IV]]
+- [[Empyral Grandmaster Recipes Volume V]]
+- [[Empyral Grandmaster Recipes Volume VI]]
+- [[Empyral Grandmaster Recipes Volume VII]]
+- [[Empyral Grandmaster Recipes Volume VIII]]
+- [[Empyral Grandmaster Recipes Volume IX]]
+- [[Empyral Grandmaster Recipes Volume X]]

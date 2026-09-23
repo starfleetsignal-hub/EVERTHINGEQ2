@@ -1,0 +1,45 @@
+---
+title: Dupione Stoneweave Slippers
+type: item
+item_kind: Equipment
+icon: images/Item_119.png
+tier: Legendary
+level: '55'
+slot: Feet
+flags: lore no-trade
+stats:
+  str: '+26'
+  sta: '+26'
+  mit: '188'
+  crit: '0.8'
+  critbonus: '0.2'
+  potency: '1.1'
+  dtype: Leather Armor
+item_link: \aITEM 1810304982 7294879:Dupione Stoneweave Slippers\/a
+categories:
+- Block Chance (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Feet (Inventory Slot)
+- Leather Armor (Equipment Type)
+- Legendary Equipment
+- Monk Equipment
+- Potency (Equipment)
+- Tier 6 Equipment
+source:
+  title: Dupione Stoneweave Slippers
+  url: https://eq2.fandom.com/wiki/Dupione_Stoneweave_Slippers
+  history: https://eq2.fandom.com/wiki/Dupione_Stoneweave_Slippers?action=history
+  revision: 1581928
+  revised: '2022-10-04T19:28:03Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

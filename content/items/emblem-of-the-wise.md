@@ -1,0 +1,26 @@
+---
+title: Emblem of the Wise
+type: item
+item_kind: Collection Item
+icon: images/Item_3830.png
+item_level: '100'
+obtained_from: Harvested from random [[Ground spawn|ground spawning]] nodes in [[Zek, the Scourge Wastes (Solo)]].
+item_link: \aITEM 849752407 -67382929:Emblem of the Wise\/a
+image: images/Emblem_of_the_Wise.png
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Item pages with existing iname images
+- Items
+source:
+  title: Emblem of the Wise
+  url: https://eq2.fandom.com/wiki/Emblem_of_the_Wise
+  history: https://eq2.fandom.com/wiki/Emblem_of_the_Wise?action=history
+  revision: 1792893
+  revised: '2024-04-24T15:34:52Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+This item is needed for the collection: [[Emblems of Birchbark]]

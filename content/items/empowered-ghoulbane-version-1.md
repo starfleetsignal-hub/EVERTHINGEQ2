@@ -1,0 +1,76 @@
+---
+title: Empowered Ghoulbane (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_686.png
+tier: Legendary
+level: '65'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: lore no-trade no-value
+stats:
+  str: '+31'
+  sta: '+31'
+  crit: '1.2'
+  critbonus: '0.3'
+  potency: '1.7'
+  abmod: '+38'
+  dmg: 38 - 213
+  delay: '4.0'
+  drating: '62.59'
+  dtype: One-Handed Slashing
+  wtype: Sword
+effects: '**Power of Ghoulbane**<br>**Corpse Fire**'
+obtained_from: This item is a quest reward for completing the [[Ghoulbane Empowered]] quest, a subquest of the [[The Symbol in the Flesh]] [[Heritage Quests Timeline|heritage quest]].
+item_link: \aITEM -565440820 479385259:Empowered Ghoulbane\/a
+image: images/Empowered_Ghoulbane.jpg
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Corpse Fire (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Fury Equipment
+- Guardian Equipment
+- Legendary Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Power of Ghoulbane (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 7 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Empowered Ghoulbane (Version 1)
+  url: https://eq2.fandom.com/wiki/Empowered_Ghoulbane_(Version_1)
+  history: https://eq2.fandom.com/wiki/Empowered_Ghoulbane_(Version_1)?action=history
+  revision: 1897032
+  revised: '2025-09-18T18:24:50Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: source
+---
+
+
