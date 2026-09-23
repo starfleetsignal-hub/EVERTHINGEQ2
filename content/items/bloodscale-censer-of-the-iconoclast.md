@@ -1,0 +1,71 @@
+---
+title: Bloodscale Censer of the Iconoclast
+type: item
+item_kind: Equipment
+icon: images/Item_370.png
+tier: Legendary
+level: '92'
+slot: Ranged
+flags: attunable heirloom
+stats:
+  sta: '+100'
+  wis: '+100'
+  crit: '6.7'
+  critbonus: '5.9'
+  potency: '10.2'
+  abmod: '+369'
+  dmg: 198 - 1122
+  delay: '8.0'
+  drating: '165'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+effects: '**Steady Pulse**'
+item_link: \aITEM -473307761 -1084662994:Bloodscale Censer of the Iconoclast\/a
+categories:
+- Ability Modifier (Equipment)
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Steady Pulse (Equipment)
+- Summoner Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Bloodscale Censer of the Iconoclast
+  url: https://eq2.fandom.com/wiki/Bloodscale_Censer_of_the_Iconoclast
+  history: https://eq2.fandom.com/wiki/Bloodscale_Censer_of_the_Iconoclast?action=history
+  revision: 1910280
+  revised: '2025-11-10T18:52:54Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

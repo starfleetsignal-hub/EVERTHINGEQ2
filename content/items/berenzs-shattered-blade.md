@@ -1,0 +1,68 @@
+---
+title: Berenz's Shattered Blade
+type: item
+item_kind: Equipment
+icon: images/Item_1662.png
+tier: Fabled
+level: '120'
+slot: Primary
+classes: ', , , [[Channeler]], [[Beastlord]]'
+flags: attunable heirloom infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +4,002
+  agi: +2,904
+  health: +196,346
+  power: +110,402
+  crit: '865.8'
+  potency: 5,108.6
+  resolve: '380'
+  aspeed: '292.6'
+  cbovercap: '+219.6'
+  mitinc: '83'
+  dmg: 1532 - 2298
+  delay: '6.0'
+  drating: '638.4'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+effects: '**Decisive Strike**'
+item_link: \aITEM 577539362 236151897:Berenz's Shattered Blade\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Attack Speed (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Decisive Strike (Equipment)
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Tier 13 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Berenz's Shattered Blade
+  url: https://eq2.fandom.com/wiki/Berenz's_Shattered_Blade
+  history: https://eq2.fandom.com/wiki/Berenz's_Shattered_Blade?action=history
+  revision: 1893888
+  revised: '2025-09-17T21:22:09Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

@@ -1,0 +1,54 @@
+---
+title: Beast Slayer Dreaded Guards
+type: item
+item_kind: Equipment
+icon: images/Item_1616.png
+tier: Fabled
+level: '130'
+slot: Forearms
+flags: attunable heirloom
+stats:
+  sta: +5,574
+  int: +3,346
+  health: +319,979
+  power: +201,085
+  mit: '305'
+  critbonus: 1,338.9
+  potency: 44,349.8
+  resolve: '535'
+  multi: '36.3'
+  dtype: Cloth Armor
+item_link: \aITEM 1553326726 -396716539:Beast Slayer Dreaded Guards\/a
+categories:
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Forearms (Inventory Slot)
+- Illusionist Equipment
+- Mage Equipment
+- Multi Attack Chance (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 14 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Beast Slayer Dreaded Guards
+  url: https://eq2.fandom.com/wiki/Beast_Slayer_Dreaded_Guards
+  history: https://eq2.fandom.com/wiki/Beast_Slayer_Dreaded_Guards?action=history
+  revision: 1873261
+  revised: '2025-04-23T19:29:17Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

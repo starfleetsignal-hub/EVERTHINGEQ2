@@ -1,0 +1,54 @@
+---
+title: Ashenclaw Flame-Wasp Greaves
+type: item
+item_kind: Equipment
+icon: images/Item_4135.png
+tier: Fabled
+level: '125'
+slot: Legs
+flags: attunable heirloom
+stats:
+  str: +3,506
+  sta: +6,257
+  health: +246,539
+  power: +154,933
+  mit: '1096'
+  potency: 30,904.1
+  resolve: '365'
+  aspeed: '28.1'
+  cbovercap: '+1393.8'
+  dtype: Plate Armor
+item_link: \aITEM 945140888 -317600469:Ashenclaw Flame-Wasp Greaves\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legs (Inventory Slot)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Ashenclaw Flame-Wasp Greaves
+  url: https://eq2.fandom.com/wiki/Ashenclaw_Flame-Wasp_Greaves
+  history: https://eq2.fandom.com/wiki/Ashenclaw_Flame-Wasp_Greaves?action=history
+  revision: 1645267
+  revised: '2023-03-13T22:31:14Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

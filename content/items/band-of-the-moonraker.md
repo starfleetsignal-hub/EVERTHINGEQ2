@@ -1,0 +1,93 @@
+---
+title: Band of the Moonraker
+type: item
+item_kind: Equipment
+icon: images/Item_3909.png
+tier: Fabled
+level: '95'
+slot: Finger
+flags: lore-equip attunable heirloom
+stats:
+  str: '+179'
+  sta: '+179'
+  critbonus: '10.7'
+  potency: '10.7'
+  abmod: '+124'
+  aspeed: '18.7'
+  dps: '18.7'
+  multi: '25.5'
+  flurry: '0.8'
+  vselemental: +8,019
+effects: '**Crack of Doom**'
+item_link: \aITEM -112724658 -1497132964:Band of the Moonraker\/a
+categories:
+- Ability Modifier (Equipment)
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crack of Doom (Equipment)
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Finger (Inventory Slot)
+- Flurry Chance (Equipment)
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Obol Plains Dropped Items
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Band of the Moonraker
+  url: https://eq2.fandom.com/wiki/Band_of_the_Moonraker
+  history: https://eq2.fandom.com/wiki/Band_of_the_Moonraker?action=history
+  revision: 1882857
+  revised: '2025-09-15T18:27:37Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: linked
+---
+
+

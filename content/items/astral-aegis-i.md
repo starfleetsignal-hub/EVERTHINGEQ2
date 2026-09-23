@@ -1,0 +1,74 @@
+---
+title: Astral Aegis I
+type: item
+item_kind: Adornment
+icon: images/Item_3876.png
+tier: Legendary
+level: '90'
+slot: yellow
+flags: heirloom no-value
+effect_name: Astral Aegis I
+effects: "- When Equipped:\n  - Applies Astral Aegis: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Astral Aegis is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,200 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 220 points of shielding every 2 seconds\n  - If above level 90"
+obtained_from: In yellow slots of gear dropped in COE Solo/Heroic instances
+item_link: \aITEM -1454330920 310400651:Astral Aegis I\/a
+categories:
+- Adornments
+- Assassin Adornments
+- Bard Adornments
+- Beastlord Adornments
+- Berserker Adornments
+- Brawler Adornments
+- Brigand Adornments
+- Bruiser Adornments
+- Census Credits
+- Channeler Adornments
+- Charm Adornments
+- Cleric Adornments
+- Cloak Adornments
+- Coercer Adornments
+- Conjuror Adornments
+- Crusader Adornments
+- Defiler Adornments
+- Dirge Adornments
+- Druid Adornments
+- Enchanter Adornments
+- Fighter Adornments
+- Fury Adornments
+- Guardian Adornments
+- Illusionist Adornments
+- Inquisitor Adornments
+- Legendary Adornments
+- Mage Adornments
+- Monk Adornments
+- Mystic Adornments
+- Necromancer Adornments
+- Paladin Adornments
+- Predator Adornments
+- Ranger Adornments
+- Rogue Adornments
+- Shadowknight Adornments
+- Shaman Adornments
+- Sorcerer Adornments
+- Summoner Adornments
+- Swashbuckler Adornments
+- Templar Adornments
+- Tier 10 Adornments
+- Troubador Adornments
+- Waist Adornments
+- Warden Adornments
+- Warlock Adornments
+- Warrior Adornments
+- Wizard Adornments
+- Yellow Slot Adornments
+source:
+  title: Astral Aegis I
+  url: https://eq2.fandom.com/wiki/Astral_Aegis_I
+  history: https://eq2.fandom.com/wiki/Astral_Aegis_I?action=history
+  revision: 1928352
+  revised: '2026-01-01T15:52:34Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

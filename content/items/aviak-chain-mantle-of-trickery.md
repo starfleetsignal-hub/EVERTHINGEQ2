@@ -1,0 +1,61 @@
+---
+title: Aviak Chain Mantle of Trickery
+type: item
+item_kind: Equipment
+icon: images/Item_1613.png
+tier: Uncommon
+level: '125'
+slot: Shoulders
+flags: attunable heirloom
+stats:
+  sta: +5,454
+  agi: +3,170
+  health: +260,271
+  power: +163,563
+  mit: '685'
+  critbonus: 1,268.5
+  potency: 33,750.9
+  resolve: '450'
+  aspeed: '29.5'
+  dtype: Chain Armor
+item_link: \aITEM 1382059090 659227000:Aviak Chain Mantle of Trickery\/a
+image: images/Aviak_Chain_Mantle_of_Trickery.png
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Shoulders (Inventory Slot)
+- Splendor Sky Aerie Dropped Items
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Uncommon Equipment
+source:
+  title: Aviak Chain Mantle of Trickery
+  url: https://eq2.fandom.com/wiki/Aviak_Chain_Mantle_of_Trickery
+  history: https://eq2.fandom.com/wiki/Aviak_Chain_Mantle_of_Trickery?action=history
+  revision: 1882622
+  revised: '2025-09-15T11:30:27Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: linked
+---
+
+

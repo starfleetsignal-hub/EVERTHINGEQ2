@@ -1,0 +1,50 @@
+---
+title: Astral Pugilist's Brutal Arm Wraps
+type: item
+item_kind: Equipment
+icon: images/Item_1515.png
+tier: Fabled
+level: '92'
+slot: Shoulders
+flags: attunable heirloom
+stats:
+  str: '+110'
+  sta: '+110'
+  maxhealth: '16.8'
+  mit: '416'
+  crit: '7.8'
+  critbonus: '6.8'
+  potency: '11.2'
+  multi: '19.2'
+  mitinc: '12.3'
+  dtype: Leather Armor
+item_link: \aITEM -1811565200 415189223:Astral Pugilist's Brutal Arm Wraps\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Fabled Equipment
+- Leather Armor (Equipment Type)
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Potency (Equipment)
+- Shoulders (Inventory Slot)
+- Tier 10 Equipment
+source:
+  title: Astral Pugilist's Brutal Arm Wraps
+  url: https://eq2.fandom.com/wiki/Astral_Pugilist's_Brutal_Arm_Wraps
+  history: https://eq2.fandom.com/wiki/Astral_Pugilist's_Brutal_Arm_Wraps?action=history
+  revision: 1645345
+  revised: '2023-03-13T22:35:36Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

@@ -1,0 +1,72 @@
+---
+title: Blessing of the Prime (How to Heal Your Healers)
+type: item
+item_kind: Quest Item
+icon: images/Item_148.png
+flags: ornate no-trade no-value
+stats:
+  charges: Unlimited
+effect_name: Blessing of the Prime
+effects: '- Applies Blessing of the Prime when Activated.'
+obtained_from: Crafted by [[Artisan]] (level 1) from [[How to Heal Your Healers]]
+used_in_quest: '[[Shipwrecked!]]'
+item_link: \aITEM 263943543 -1945963335:Blessing of the Prime\/a
+image: images/Blessing_of_the_Prime_(How_to_Heal_Your_Healers).png
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item pages with existing iname images
+- Items
+- Items required by quests
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Quest Item (Item Type)
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Blessing of the Prime (How to Heal Your Healers)
+  url: https://eq2.fandom.com/wiki/Blessing_of_the_Prime_(How_to_Heal_Your_Healers)
+  history: https://eq2.fandom.com/wiki/Blessing_of_the_Prime_(How_to_Heal_Your_Healers)?action=history
+  revision: 1928560
+  revised: '2026-01-01T16:05:08Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: source
+---
+
+

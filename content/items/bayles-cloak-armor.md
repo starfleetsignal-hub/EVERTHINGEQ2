@@ -1,0 +1,69 @@
+---
+title: Bayle's Cloak (Armor)
+type: item
+item_kind: Equipment
+icon: images/Item_1098.png
+tier: Fabled
+slot: Cloak
+flags: attunable heirloom no-value
+effects: '**Protector''s Spirit**<br>**Featherfall**'
+obtained_from: From [[Bayle's Cloak (crate)|Bayle's Cloak]]
+item_link: \aITEM -868129400 1692160351:Bayle's Cloak\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloak (Inventory Slot)
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Featherfall (Equipment)
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Protector's Spirit (Equipment)
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Bayle's Cloak (Armor)
+  url: https://eq2.fandom.com/wiki/Bayle's_Cloak_(Armor)
+  history: https://eq2.fandom.com/wiki/Bayle's_Cloak_(Armor)?action=history
+  revision: 1635380
+  revised: '2023-01-05T12:14:23Z'
+  license: CC BY-SA 3.0
+---
+
+

@@ -1,0 +1,49 @@
+---
+title: Bastion of Light Breastplate
+type: item
+item_kind: Equipment
+icon: images/Item_3640.png
+tier: Fabled
+level: '80'
+slot: Chest
+classes: '[[Templar]]'
+flags: lore no-trade no-value
+stats:
+  str: '+55'
+  sta: '+55'
+  maxhealth: '7'
+  mit: '607'
+  crit: '3.2'
+  critbonus: '1.1'
+  potency: '5.1'
+  abmod: '+147'
+  dtype: Plate Armor
+effects: '**Bulwark of Faith**'
+item_link: \aITEM 262969054 1658090667 0 0 0:Bastion of Light Breastplate\/a
+categories:
+- Ability Modifier (Equipment)
+- Bulwark of Faith (Equipment)
+- Census Credits
+- Chest (Inventory Slot)
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Fabled Equipment
+- Max Health (Equipment)
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Templar Equipment
+- Tier 9 Equipment
+source:
+  title: Bastion of Light Breastplate
+  url: https://eq2.fandom.com/wiki/Bastion_of_Light_Breastplate
+  history: https://eq2.fandom.com/wiki/Bastion_of_Light_Breastplate?action=history
+  revision: 1882916
+  revised: '2025-09-15T18:29:41Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

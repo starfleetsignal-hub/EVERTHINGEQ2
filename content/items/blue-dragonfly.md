@@ -1,0 +1,23 @@
+---
+title: Blue Dragonfly
+type: item
+item_kind: Collection Item
+icon: images/Item_1924.png
+item_level: '90'
+item_link: \aITEM 1498659311 908063674:Blue Dragonfly\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: Blue Dragonfly
+  url: https://eq2.fandom.com/wiki/Blue_Dragonfly
+  history: https://eq2.fandom.com/wiki/Blue_Dragonfly?action=history
+  revision: 740189
+  revised: '2017-09-14T17:54:28Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+This item is needed for the collection: [[Fluttered By]]

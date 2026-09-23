@@ -1,0 +1,32 @@
+---
+title: Archivist's Tremissis
+type: item
+item_kind: Currency
+icon: images/Item_4939.png
+item_level: '0'
+flags: heirloom no-value
+description: Currency earned by completing solo and heroic missions in Chaos Descending.
+obtained_from: 'Chaos Descending mission rewards *[[A Bone to Pickclaw (Solo)|A Bone to Pickclaw [Solo]]] *[[Boombottom or Bust (Solo)|Boombottom or Bust [Solo]]] *[[Elements of Air (Solo)|Elements of Air [Solo]]] *[[Elements of Ash (Solo)|Elements of Ash [Solo]]] *[[Elements of Earth (Solo)|Elements of Earth [Solo]]] *[[Elements of Fire (Solo)|Elements of Fire [Solo]]] *[[Elements of Ice (Solo)|Elements of Ice [Solo]]] *[[Elements of Lava (Solo)|Elements of Lava [Solo]]] *[[Elements of Mud (Solo)|Elements of Mud [Solo]]] *[[Elements of Sky (Solo)|Elements of Sky [Solo]]] *[[Elements of Soil (Solo)|Elements of Soil [Solo]]] *[[Elements of Vapor (Solo)|Elements of Vapor [Solo]]] *[[Elements of Water (Solo)|Elements of Water [Solo]]] *[[Elements of Wind (Solo)|Elements of Wind [Solo]]] *[[Gather ''em Up (Solo)|Gather ''em Up [Solo]]] *[[Gathering Elements]] *[[Grinnin Boar It (Solo)|Grinnin Boar It [Solo]]] *[[Grungetalon Cleaner (Solo)|Grungetalon Cleaner [Solo]]] *[[Hunting Elements]] *[[I
+  Don''t Like Sandscrawlers (Solo)|I Don''t Like Sandscrawlers [Solo]]] *[[Knock ''em Down (Solo)|Knock ''em Down [Solo]]] *[[Mining Elements]] *[[Retrace the Chaos (Solo)|Retrace the Chaos [Solo]]] *[[Runnyeye For Your Lives! (Solo)|Runnyeye For Your Lives! [Solo]]] *[[Study of Air: Empty Nest (Solo)|Study of Air: Empty Nest [Solo]]] *[[Study of Air: Hivemind (Solo)|Study of Air: Hivemind [Solo]]] *[[Study of Air: The Trials (Solo)|Study of Air: The Trials [Solo]]] *[[Study of Earth: Into the Ruins (Solo)|Study of Earth: Into the Ruins [Solo]]] *[[Study of Earth: The Stronghold (Solo)|Study of Earth: The Stronghold [Solo]]] *[[Study of Earth: Water Plus Dirt (Solo)|Study of Earth: Water Plus Dirt [Solo]]] *[[Study of Fire: Ignite the Elements (Solo)|Study of Fire: Ignite the Elements [Solo]]] *[[Study of Fire: Into the Furnace (Solo)|Study of Fire: Into the Furnace [Solo]]] *[[Study of Fire: Vengeance (Solo)|Study of Fire: Vengeance [Solo]]] *[[Study of Water: Murky Depths (Solo)|Study
+  of Water: Murky Depths [Solo]]] *[[Study of Water: The Deep End (Solo)|Study of Water: The Deep End [Solo]]] *[[Study of Water: The Great Plunge (Solo)|Study of Water: The Great Plunge [Solo]]] *35x as [[Dramatis Personae: Detroxxulous, the Plaguelands]] *35x as [[Dramatis Personae: Doomfire, the Burning Lands]] *35x as [[Dramatis Personae: Eryslai, the Kingdom of Wind]] *35x as [[Dramatis Personae: Vegarlson, the Earthen Badlands]] *35x as [[Goblin Gatherings (Solo)|Goblin Gatherings [Solo]]] *35x as [[The Elemental Planes: Spells Readied (Solo)|The Elemental Planes: Spells Readied [Solo]]] *35x as [[The Elemental Planes: Spirits Raised (Solo)|The Elemental Planes: Spirits Raised [Solo]]] *35x as [[The Elemental Planes: Weapons Drawn (Solo)|The Elemental Planes: Weapons Drawn [Solo]]] *3x as [[Gather ''em Up (Heroic)|Gather ''em Up [Heroic]]] *3x as [[Knock ''em Down (Heroic)|Knock ''em Down [Heroic]]] *3x as [[Study of Air: Empty Nest (Heroic)|Study of Air: Empty Nest [Heroic]]] *3x
+  as [[Study of Air: Hivemind (Heroic)|Study of Air: Hivemind [Heroic]]] *3x as [[Study of Air: The Trials (Event Heroic)|Study of Air: The Trials [Event Heroic]]] *3x as [[Study of Earth: Into the Ruins (Heroic)|Study of Earth: Into the Ruins [Heroic]]] *3x as [[Study of Earth: The Stronghold (Heroic)|Study of Earth: The Stronghold [Heroic]]] *3x as [[Study of Earth: Water Plus Dirt (Event Heroic)|Study of Earth: Water Plus Dirt [Event Heroic]]] *3x as [[Study of Fire: Ignite the Elements (Heroic)|Study of Fire: Ignite the Elements [Heroic]]] *3x as [[Study of Fire: Into the Furnace (Heroic)|Study of Fire: Into the Furnace [Heroic]]] *3x as [[Study of Fire: Vengeance (Event Heroic)|Study of Fire: Vengeance [Event Heroic]]] *3x as [[Study of Water: Murky Depths (Event Heroic)|Study of Water: Murky Depths [Event Heroic]]] *3x as [[Study of Water: The Deep End (Heroic)|Study of Water: The Deep End [Heroic]]] *3x as [[Study of Water: The Great Plunge (Heroic)|Study of Water: The Great Plunge
+  [Heroic]]] *5x as [[Doctor''s Orders: Awuidor, the Dark Fathoms]] *5x as [[Doctor''s Orders: Eryslai, Winds of Twilight]] *65x as [[A Bone to Pickclaw (Heroic)|A Bone to Pickclaw [Heroic]]] *65x as [[A Chapter on the Elemental Planes (Event Heroic)|A Chapter on the Elemental Planes [Event Heroic]]] *65x as [[Boombottom or Bust (Heroic)|Boombottom or Bust [Heroic]]] *65x as [[Elements of Air (Event Heroic)|Elements of Air [Event Heroic]]] *65x as [[Elements of Ash (Event Heroic)|Elements of Ash [Event Heroic]]] *65x as [[Elements of Earth (Heroic)|Elements of Earth [Heroic]]] *65x as [[Elements of Fire (Heroic)|Elements of Fire [Heroic]]] *65x as [[Elements of Ice (Heroic)|Elements of Ice [Heroic]]] *65x as [[Elements of Lava (Heroic)|Elements of Lava [Heroic]]] *65x as [[Elements of Mud (Event Heroic)|Elements of Mud [Event Heroic]]] *65x as [[Elements of Sky (Heroic)|Elements of Sky [Heroic]]] *65x as [[Elements of Soil (Heroic)|Elements of Soil [Heroic]]] *65x as [[Elements of Vapor
+  (Event Heroic)|Elements of Vapor [Event Heroic]]] *65x as [[Elements of Water (Heroic)|Elements of Water [Heroic]]] *65x as [[Elements of Wind (Heroic)|Elements of Wind [Heroic]]] *65x as [[Goblin Gatherings (Heroic)|Goblin Gatherings [Heroic]]] *65x as [[Grinnin Boar It (Heroic)|Grinnin Boar It [Heroic]]] *65x as [[Grungetalon Cleaner (Heroic)|Grungetalon Cleaner [Heroic]]] *65x as [[I Don''t Like Sandscrawlers (Heroic)|I Don''t Like Sandscrawlers [Heroic]]] *65x as [[Runnyeye For Your Lives! (Heroic)|Runnyeye For Your Lives! [Heroic]]] *65x as [[The Elemental Planes: No Turning Back (Heroic II)|The Elemental Planes: No Turning Back [Heroic II]]] *65x as [[The Elemental Planes: Preparation (Heroic I)|The Elemental Planes: Preparation [Heroic I]]]'
+item_link: \aITEM 2131622667 -2146387869:Archivist's Tremissis\/a
+categories:
+- Census Credits
+- Currency
+- Currency (Item Type)
+- Items
+source:
+  title: Archivist's Tremissis
+  url: https://eq2.fandom.com/wiki/Archivist's_Tremissis
+  history: https://eq2.fandom.com/wiki/Archivist's_Tremissis?action=history
+  revision: 1692506
+  revised: '2023-03-16T18:05:12Z'
+  license: CC BY-SA 3.0
+expansion: Chaos Descending
+expansion_source: source
+---
+
+

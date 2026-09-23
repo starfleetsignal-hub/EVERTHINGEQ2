@@ -1,0 +1,24 @@
+---
+title: Broken erudite battle axe
+type: item
+item_kind: Collection Item
+icon: images/Item_1649.png
+item_level: '65'
+description: There are many sundered battle relics upon the grounds at Kejaan's Rill, evidence of a horrible turn of events that many to this day have tried to forget!
+item_link: \aITEM 580117235 -173768978:broken erudite battle axe\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: Broken erudite battle axe
+  url: https://eq2.fandom.com/wiki/Broken_erudite_battle_axe
+  history: https://eq2.fandom.com/wiki/Broken_erudite_battle_axe?action=history
+  revision: 747090
+  revised: '2017-09-23T12:49:14Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+This item is needed for the collection: [[Battle Relics from Kejaan's Rill]]

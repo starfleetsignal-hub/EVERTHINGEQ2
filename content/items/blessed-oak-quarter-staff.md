@@ -1,0 +1,76 @@
+---
+title: Blessed Oak Quarter Staff
+type: item
+item_kind: Equipment
+icon: images/Item_2157.png
+tier: Mastercrafted
+level: '32'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+10'
+  sta: '+10'
+  dmg: 15 - 85
+  delay: '4.0'
+  drating: '24.95'
+  dtype: One-Handed Crushing
+  wtype: Staff
+effects: '**Glimmering Blessing**'
+obtained_from: '*Crafted by [[Woodworker]] (level 36) from [[Advanced Woodworker Volume 36 (Normal)]] *Crafted by [[Woodworker]] (level 36) from [[Advanced Woodworker Volume 36 (No-Trade)]]'
+item_link: \aITEM 1988156220 -1038543908:Blessed Oak Quarter Staff\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Glimmering Blessing (Equipment)
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mastercrafted Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 4 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Blessed Oak Quarter Staff
+  url: https://eq2.fandom.com/wiki/Blessed_Oak_Quarter_Staff
+  history: https://eq2.fandom.com/wiki/Blessed_Oak_Quarter_Staff?action=history
+  revision: 1894804
+  revised: '2025-09-17T21:52:58Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

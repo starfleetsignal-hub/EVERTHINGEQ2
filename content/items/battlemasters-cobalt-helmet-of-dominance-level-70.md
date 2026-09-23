@@ -1,0 +1,54 @@
+---
+title: Battlemaster's Cobalt Helmet of Dominance (Level 70)
+type: item
+item_kind: Equipment
+icon: images/Item_3251.png
+tier: Fabled
+level: '70'
+slot: Head
+flags: attunable
+stats:
+  sta: '+45'
+  agi: '+45'
+  mit: '477'
+  crit: '2.3'
+  critbonus: '0.8'
+  potency: '3.6'
+  aspeed: '5.1'
+  dps: '9.7'
+  dtype: Plate Armor
+item_link: \aITEM -117457653 -66712492:Battlemaster's Cobalt Helmet of Dominance\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warrior Equipment
+source:
+  title: Battlemaster's Cobalt Helmet of Dominance (Level 70)
+  url: https://eq2.fandom.com/wiki/Battlemaster's_Cobalt_Helmet_of_Dominance_(Level_70)
+  history: https://eq2.fandom.com/wiki/Battlemaster's_Cobalt_Helmet_of_Dominance_(Level_70)?action=history
+  revision: 1544105
+  revised: '2022-08-16T00:19:55Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

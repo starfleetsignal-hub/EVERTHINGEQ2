@@ -1,0 +1,56 @@
+---
+title: Blessed carbonite crescent axe
+type: item
+item_kind: Equipment
+tier: Handcrafted
+level: '20'
+slot: Primary
+flags: Attuneable
+stats:
+  str: '+8'
+  sta: '+8'
+  health: '+15'
+  power: '+15'
+  dmg: 9-36
+  delay: '3.0'
+  drating: '15.0'
+  dtype: One-Handed Slashing
+  wtype: Axe
+effects: Sparkling Blessing
+obtained_from: Crafted by [[Weaponsmith]] (level 22) from [[Weaponsmith Essentials Volume 22]]
+categories:
+- Assassin Equipment
+- Axe (Weapon Type)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 3 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Blessed carbonite crescent axe
+  url: https://eq2.fandom.com/wiki/Blessed_carbonite_crescent_axe
+  history: https://eq2.fandom.com/wiki/Blessed_carbonite_crescent_axe?action=history
+  revision: 441847
+  revised: '2010-02-21T01:42:38Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

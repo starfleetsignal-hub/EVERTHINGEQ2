@@ -1,0 +1,55 @@
+---
+title: Barbute of the Ancient One (Version 3)
+type: item
+item_kind: Equipment
+icon: images/Item_1576.png
+tier: Fabled
+level: '70'
+slot: Head
+flags: lore-equip attunable heirloom
+stats:
+  str: '+41'
+  sta: '+41'
+  mit: '502'
+  crit: '2'
+  critbonus: '0.6'
+  potency: '2.8'
+  aspeed: '4.6'
+  dtype: Plate Armor
+effects: '**Presence of Mind**'
+item_link: \aITEM 1149654232 1639456666:Barbute of the Ancient One\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Presence of Mind (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warrior Equipment
+source:
+  title: Barbute of the Ancient One (Version 3)
+  url: https://eq2.fandom.com/wiki/Barbute_of_the_Ancient_One_(Version_3)
+  history: https://eq2.fandom.com/wiki/Barbute_of_the_Ancient_One_(Version_3)?action=history
+  revision: 1882913
+  revised: '2025-09-15T18:29:33Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

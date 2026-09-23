@@ -1,0 +1,35 @@
+---
+title: Bland bear soup
+type: item
+item_kind: Food
+icon: images/Item_295.png
+tier: Handcrafted
+level: '40'
+item_level: '40'
+description: This homemade food increases your maximum health and replenishes additional health during non-combat situations.
+stats:
+  satiation: High
+  duration: 2 hours and 32 minutes
+effects: '- Increases Health Regen of target by 77.5.
+
+  - Increases Max Health of target by 91.0.'
+item_link: \aITEM -1217398269 743399054:bland bear soup\/a
+categories:
+- Census Credits
+- Food (Item Type)
+- Handcrafted Items
+- Items
+- Tier 5 Food
+- Tier 5 Items
+source:
+  title: Bland bear soup
+  url: https://eq2.fandom.com/wiki/Bland_bear_soup
+  history: https://eq2.fandom.com/wiki/Bland_bear_soup?action=history
+  revision: 1176071
+  revised: '2021-01-04T22:04:31Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,50 @@
+---
+title: Branded Flesh Chest of the Unliving (3 Gem, PvP)
+type: item
+item_kind: Equipment
+icon: images/Item_4112.png
+tier: Fabled
+level: '100'
+slot: Chest
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+description: 3/4 green malice gem slots filled.
+stats:
+  str: '+460'
+  sta: +1,284
+  maxhealth: '15.8'
+  mit: '742'
+  critbonus: '47'
+  dtype: Leather Armor
+item_link: \aITEM 368024804 207320708:Branded Flesh Chest of the Unliving\/a
+categories:
+- Block Chance (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Chest (Inventory Slot)
+- Crit Bonus (Equipment)
+- Druid Equipment
+- Equipment
+- Extra Riposte Chance (Equipment)
+- Fabled Equipment
+- Fury Equipment
+- Leather Armor (Equipment Type)
+- Max Health (Equipment)
+- Monk Equipment
+- Tier 11 Equipment
+- Warden Equipment
+source:
+  title: Branded Flesh Chest of the Unliving (3 Gem, PvP)
+  url: https://eq2.fandom.com/wiki/Branded_Flesh_Chest_of_the_Unliving_(3_Gem,_PvP)
+  history: https://eq2.fandom.com/wiki/Branded_Flesh_Chest_of_the_Unliving_(3_Gem,_PvP)?action=history
+  revision: 1939516
+  revised: '2026-01-03T22:28:07Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

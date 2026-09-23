@@ -1,0 +1,73 @@
+---
+title: Blessed Tungsten Scimitar
+type: item
+item_kind: Equipment
+icon: images/Item_62.png
+tier: Mastercrafted
+level: '92'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable
+stats:
+  sta: '+138'
+  wis: '+138'
+  crit: '44.8'
+  critbonus: '8.2'
+  potency: '8.2'
+  multi: '35.5'
+  dmg: 121 - 685
+  delay: '6.0'
+  drating: '134.35'
+  dtype: One-Handed Slashing
+  wtype: Sword
+effects: '**Astral Blessing**'
+obtained_from: '*Crafted by [[Weaponsmith]] (level 93) from [[Advanced Weaponsmith Volume 93 (with desc)]] *Crafted by [[Weaponsmith]] (level 93) from [[Advanced Weaponsmith Volume 93 (without desc)]]'
+item_link: \aITEM -276681192 805606670:Blessed Tungsten Scimitar\/a
+categories:
+- Assassin Equipment
+- Astral Blessing (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Mastercrafted Equipment
+- Multi Attack Chance (Equipment)
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 10 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Blessed Tungsten Scimitar
+  url: https://eq2.fandom.com/wiki/Blessed_Tungsten_Scimitar
+  history: https://eq2.fandom.com/wiki/Blessed_Tungsten_Scimitar?action=history
+  revision: 1895014
+  revised: '2025-09-17T21:59:56Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

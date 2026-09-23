@@ -1,0 +1,74 @@
+---
+title: Battleaxe of Vindication
+type: item
+item_kind: Equipment
+icon: images/Item_643.png
+tier: Fabled
+level: '60'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: lore-equip attunable heirloom
+stats:
+  str: '+26'
+  sta: '+26'
+  crit: '0.8'
+  critbonus: '0.2'
+  potency: '1.1'
+  abmod: '+28'
+  aspeed: '1.5'
+  dmg: 90 - 270
+  delay: '6.0'
+  drating: '59.99'
+  dtype: One-Handed Slashing
+  wtype: Axe
+effects: '**Vindication**'
+item_link: \aITEM 955336887 -1805820317:Battleaxe of Vindication\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Axe (Weapon Type)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Guardian Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 7 Equipment
+- Troubador Equipment
+- Vindication (Equipment)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Battleaxe of Vindication
+  url: https://eq2.fandom.com/wiki/Battleaxe_of_Vindication
+  history: https://eq2.fandom.com/wiki/Battleaxe_of_Vindication?action=history
+  revision: 1893866
+  revised: '2025-09-17T21:21:25Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

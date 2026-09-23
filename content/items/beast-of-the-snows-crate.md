@@ -1,0 +1,24 @@
+---
+title: Beast of the Snows (crate)
+type: item
+item_kind: Crate
+icon: images/Item_1211.png
+tier: Treasured
+item_level: '0'
+contains: '- [[Beast of the Snows (Crate Reward){{!}}Beast of the Snows]]'
+item_link: \aITEM 958702303 -211165621:Beast of the Snows\/a
+categories:
+- Census Credits
+- Crate (Item Type)
+- Items
+- Treasured Items
+source:
+  title: Beast of the Snows (crate)
+  url: https://eq2.fandom.com/wiki/Beast_of_the_Snows_(crate)
+  history: https://eq2.fandom.com/wiki/Beast_of_the_Snows_(crate)?action=history
+  revision: 1636151
+  revised: '2023-01-05T13:26:22Z'
+  license: CC BY-SA 3.0
+---
+
+

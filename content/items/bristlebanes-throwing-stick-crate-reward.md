@@ -1,0 +1,72 @@
+---
+title: Bristlebane's Throwing Stick (Crate Reward)
+type: item
+icon: images/Item_2126.png
+level: '1'
+flags: ornate lore attunable heirloom no-value
+description: Bound to keep the family drolvarg entertained for hours!
+stats:
+  charges: Unlimited
+  casting: 1 second
+  recast: 2 seconds
+effect_name: Toss Throwing Stick
+effects: '- Applies Toss Throwing Stick when Activated.'
+obtained_from: From [[Bristlebane's Throwing Stick (crate)|Bristlebane's Throwing Stick]]
+item_link: \aITEM -737370372 -750434522:Bristlebane's Throwing Stick\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Items
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 1 Items
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Bristlebane's Throwing Stick (Crate Reward)
+  url: https://eq2.fandom.com/wiki/Bristlebane's_Throwing_Stick_(Crate_Reward)
+  history: https://eq2.fandom.com/wiki/Bristlebane's_Throwing_Stick_(Crate_Reward)?action=history
+  revision: 1928695
+  revised: '2026-01-01T16:14:23Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

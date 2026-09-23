@@ -1,0 +1,58 @@
+---
+title: Brigandine Handguards of Anguish
+type: item
+item_kind: Equipment
+icon: images/Item_1477.png
+tier: Treasured
+level: '40'
+slot: Hands
+flags: attunable heirloom
+stats:
+  str: '+14'
+  sta: '+14'
+  mit: '166'
+  dtype: Chain Armor
+item_link: \aITEM -924517797 1284678582:Brigandine Handguards of Anguish\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Hands (Inventory Slot)
+- Inquisitor Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 5 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Brigandine Handguards of Anguish
+  url: https://eq2.fandom.com/wiki/Brigandine_Handguards_of_Anguish
+  history: https://eq2.fandom.com/wiki/Brigandine_Handguards_of_Anguish?action=history
+  revision: 1648509
+  revised: '2023-03-14T08:56:52Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+
