@@ -34,7 +34,7 @@ source:
 ---
 
 - (2) +20 INT
-- (3) Applies ******.
+- (3) Applies *****Quicksilver Blood*****.
   - Applies Quicksilver Blood IV to qualifying pets.
     - Increases Ability Casting Speed of target by 4.0%
     - Increases Ability Reuse Speed of target by 4.0%

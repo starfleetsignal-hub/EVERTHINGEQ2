@@ -1,0 +1,30 @@
+---
+title: Ready Up (Fighter)
+type: page
+class: Fighter
+altname: Ready Up
+line: Reign of Shadows
+cost: '3'
+max: '1'
+iconnum: '16'
+iconbg: '317'
+target: self
+casting: Instant
+recast: Instant
+duration: Until Chancelled
+effects: '*On a hostile ability cast this spell has a 10% chance to cast Ready Up on caster.  Lasts for 1.0 second. **Clears the reuse of most modifiable profession Abilities.  Ignores the reset lockout placed by all other reset abilities. **Prevents global reuse reset effects from triggering for 120 seconds. **Cannot be modified except by direct means **This effect can only trigger once every 80.0 seconds.'
+categories:
+- AAs
+- Census Credits
+- Fighter AAs
+- Fighter Reign of Shadows (AA Line)
+source:
+  title: Ready Up (Fighter)
+  url: https://eq2.fandom.com/wiki/Ready_Up_(Fighter)
+  history: https://eq2.fandom.com/wiki/Ready_Up_(Fighter)?action=history
+  revision: 1847078
+  revised: '2024-12-22T12:30:22Z'
+  license: CC BY-SA 3.0
+---
+
+

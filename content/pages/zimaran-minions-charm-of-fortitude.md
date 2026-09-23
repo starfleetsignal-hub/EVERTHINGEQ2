@@ -1,0 +1,16 @@
+---
+title: Zimaran Minion's Charm of Fortitude
+type: disambiguation
+categories:
+- Disambiguation
+source:
+  title: Zimaran Minion's Charm of Fortitude
+  url: https://eq2.fandom.com/wiki/Zimaran_Minion's_Charm_of_Fortitude
+  history: https://eq2.fandom.com/wiki/Zimaran_Minion's_Charm_of_Fortitude?action=history
+  revision: 1794240
+  revised: '2024-05-01T16:14:14Z'
+  license: CC BY-SA 3.0
+---
+
+- [[Zimaran Minion's Charm of Fortitude (Handcrafted)]]
+- [[Zimaran Minion's Charm of Fortitude (lore-equip heirloom)]]

@@ -23,7 +23,7 @@ source:
 
 Chrono Dungeons are a feature introduced with the expansion Ballads of Zimara.<br>Initially, dungeons from The Shadow Odyssey, Sentinel's Fate and Destiny of Velious were available as Chrono Dungeons.
 
-*Players who do not already have the Chrono Dungeon feature activated may unlock it account-wide from a Chrono Merchant in-game (or  - Note: Players who are members will get the normal -10% Discount if purchased directly through the marketplace, there are conflicting reports over whether players receive the same discount or not if purchased from the in-game vendor instead... proceed with caution.*
+*Players who do not already have the Chrono Dungeon feature activated may unlock it account-wide from a Chrono Merchant in-game (or Marketplace (1500 Daybreak Cash) - Note: Players who are members will get the normal -10% Discount if purchased directly through the marketplace, there are conflicting reports over whether players receive the same discount or not if purchased from the in-game vendor instead... proceed with caution.*
 
 Subsequent expansions have added additional previous content to the Chrono Dungeons roster.
 

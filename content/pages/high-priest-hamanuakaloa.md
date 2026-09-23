@@ -1,6 +1,6 @@
 ---
 title: High Priest Hamanu'akaloa
-type: page
+type: disambiguation
 expansion: Altar of Malice
 categories:
 - Allu'thoa

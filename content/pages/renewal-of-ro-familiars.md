@@ -18,6 +18,16 @@ source:
 
 "Renewal of Ro Familiars" is a sub-heading in the "Familiar" collection tab and contains the following familiars:<br>
 
+- [[Enchanted Raj'Dur Carpet]]
+- [[Verdant Drakeform]]
+- [[Sunscar Coyote (Familiar){{!}}Sunscar Coyote]]
+- [[Colonel Cornelius Gold]]
+- [[Raj'Dur Vulture]]
+- [[Sandstone Hippolisk]]
+- [[Bulbous Repugnance]]
+- [[Spore Popper]]
+- [[Tishan's Sandskimmer]]
+
 ## How to obtain
 
 All these familiars are looted *(loot rarity ranging from uncommon to extremely rare)* from named foes (Overland, Dungeon, etc) from across the [[Renewal of Ro]] expansion zones and instances.

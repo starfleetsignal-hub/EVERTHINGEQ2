@@ -1,6 +1,6 @@
 ---
 title: A royal guard
-type: page
+type: disambiguation
 expansion: Echoes of Faydwer
 categories:
 - Arcanists of Tunaria (Bad Faction)

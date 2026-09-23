@@ -1,0 +1,16 @@
+---
+title: Treespeaker's Bands of the Sapient
+type: disambiguation
+categories:
+- Disambiguation
+source:
+  title: Treespeaker's Bands of the Sapient
+  url: https://eq2.fandom.com/wiki/Treespeaker's_Bands_of_the_Sapient
+  history: https://eq2.fandom.com/wiki/Treespeaker's_Bands_of_the_Sapient?action=history
+  revision: 1041694
+  revised: '2020-04-04T00:13:14Z'
+  license: CC BY-SA 3.0
+---
+
+- [[Treespeaker's Bands of the Sapient (Level 50)]]
+- [[Treespeaker's Bands of the Sapient (Level 55)]]

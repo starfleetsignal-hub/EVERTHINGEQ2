@@ -1,0 +1,46 @@
+---
+title: Scribe's Inspiration (Armor Set)
+type: page
+aliases:
+- Scriber's Inspiration (Armor Set)
+categories:
+- Alchemist Equipment
+- Armor Sets
+- Armorer Equipment
+- Carpenter Equipment
+- Critical success chance (Equipment)
+- Jeweler Equipment
+- Provisioner Equipment
+- Sage Equipment
+- Tailor Equipment
+- Tier 8 Armor Sets
+- Weaponsmith Equipment
+- Woodworker Equipment
+source:
+  title: Scribe's Inspiration (Armor Set)
+  url: https://eq2.fandom.com/wiki/Scribe's_Inspiration_(Armor_Set)
+  history: https://eq2.fandom.com/wiki/Scribe's_Inspiration_(Armor_Set)?action=history
+  revision: 433951
+  revised: '2010-02-03T11:50:00Z'
+  license: CC BY-SA 3.0
+---
+
+**Scribe's Inspiration armor set**
+
+- [[Scribe's Band]] - Finger
+- [[Scribe's Choker]] - Neck
+- [[Scribe's Armlet]] - Wrist
+
+---
+
+(3) Applies ***Scribe's Inspiration***.
+
+- Increases critical success chance by 5.0%
+
+This jewelry set may be worn only by:
+
+Possible chest loot from any of the Heroic tradeskill mission quests given in [[The Village of Shin]], including:
+
+- [[Clockwork Rescue]]
+- [[Supply Stocking]]
+- [[Shipyard Services]]

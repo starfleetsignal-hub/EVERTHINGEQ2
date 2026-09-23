@@ -1,6 +1,6 @@
 ---
 title: Unatu
-type: page
+type: disambiguation
 expansion: Altar of Malice
 categories:
 - Altar of Malice Named Monsters

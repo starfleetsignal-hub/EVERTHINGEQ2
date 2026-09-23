@@ -1,0 +1,68 @@
+---
+title: Warmage's Aura of Death (Armor Set)
+type: page
+removed_from_game: Replaced by, and merged with the [[Warcaster's Aura of Death (Armor Set)]]
+categories:
+- Armor Sets
+- Coercer Equipment
+- Conjuror Equipment
+- Enchanter Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Necromancer Equipment
+- Removed from game
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 10 Armor Sets
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Warmage's Aura of Death (Armor Set)
+  url: https://eq2.fandom.com/wiki/Warmage's_Aura_of_Death_(Armor_Set)
+  history: https://eq2.fandom.com/wiki/Warmage's_Aura_of_Death_(Armor_Set)?action=history
+  revision: 635202
+  revised: '2014-04-21T20:46:10Z'
+  license: CC BY-SA 3.0
+---
+
+**Warmage's Aura of Death armor set**
+
+- [[Frozen Energy Clasp]]
+- [[Bangle of Searing War]]
+- [[Wristlet of Seizurous Assault]]
+- [[Dominant Wristlet of Assault]]
+- [[Ancient Bracelet of Corroded Amethyst]]
+- [[Forceful Bracelet of Corroded Amethyst]]
+- [[Stalwart Bangle of the Fallen]]
+- [[Bangle of Elemental Enslavement]]
+- [[Armband of the Hendin Shadow Savant]]
+- [[Modulated Armband of the Hendin Shadow Savant]]
+- [[Rending Bangle of the Morlock]]
+- [[Forceful Wristlet of Phlebotomization Reversal]]
+- [[Armband of the Fate Revisionist]]
+- [[Modulated Armband of the Fate Revisionist]]
+
+---
+
+- (2) 3% Potency, +675 Ability Modifier, 1% Doublecast Chance
+
+This armor may be worn only by:
+
+This armor is obtained as follows:
+
+| Item | Dropped by | Zone |
+|---|---|---|
+| [[Frozen Energy Clasp]] | [[Iilatus Frostbeard (Challenge Mode Epic)\|Iilatus Frostbeard]] | [[Kraytoc's Fortress of Rime (Challenge)]] |
+| [[Bangle of Searing War]] | [[Supreme Imperium Valdemar (Challenge Mode Epic)\|Supreme Imperium Valdemar]] | [[Temple of Rallos Zek: Foundations of Stone (Challenge)]] |
+| [[Wristlet of Seizurous Assault]] (no longer drops) | [[Mrogr Bloodtaint (Challenge Mode Epic)\|Mrogr Bloodtaint]] | [[Sullon's Spire (Challenge)]] |
+| [[Dominant Wristlet of Assault]] | [[Mrogr Bloodtaint (Challenge Mode Epic)\|Mrogr Bloodtaint]] | [[Sullon's Spire (Challenge)]] |
+| [[Ancient Bracelet of Corroded Amethyst]] (no longer drops) | [[Hand of Vallon (Challenge Mode Epic)\|Hand of Vallon]] | [[Vallon's Tower (Challenge)]] |
+| [[Forceful Bracelet of Corroded Amethyst]] | [[General Utehk (Challenge Mode Epic)\|General Utehk]] | [[Tallon's Stronghold (Challenge)]] |
+| [[Stalwart Bangle of the Fallen]] | [[Lichlord Skulldugger (Challenge Mode Epic)\|Lichlord Skulldugger]] | [[Vallon's Tower (Challenge)]] |
+| [[Bangle of Elemental Enslavement]] | [[Category:Plane of War Monsters\|Harpy trash]] | [[Plane of War]] |
+| [[Armband of the Hendin Shadow Savant]] (no longer drops) | [[Category:Plane of War Monsters\|Harpy trash]] | [[Plane of War]] |
+| [[Modulated Armband of the Hendin Shadow Savant]] | [[Category:Plane of War Monsters\|Harpy trash]] | [[Plane of War]] |
+| [[Rending Bangle of the Morlock]] | [[Tagrin Maldric]] | [[Plane of War]] |
+| [[Forceful Wristlet of Phlebotomization Reversal]] | [[General Teku\|Generals]] | [[Plane of War]] |
+| [[Armband of the Fate Revisionist]] (no longer drops) | [[Tagrin Maldric]] | [[Plane of War]] |
+| [[Modulated Armband of the Fate Revisionist]] | [[Tagrin Maldric]] | [[Plane of War]] |

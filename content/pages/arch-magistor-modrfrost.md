@@ -1,6 +1,6 @@
 ---
 title: Arch-Magistor Modrfrost
-type: page
+type: disambiguation
 expansion: Destiny of Velious
 categories:
 - Destiny of Velious Named Monsters

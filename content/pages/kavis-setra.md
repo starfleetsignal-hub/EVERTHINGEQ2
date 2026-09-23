@@ -1,6 +1,6 @@
 ---
 title: Kavis Set'Ra
-type: page
+type: disambiguation
 expansion: Altar of Malice
 categories:
 - Akhevan

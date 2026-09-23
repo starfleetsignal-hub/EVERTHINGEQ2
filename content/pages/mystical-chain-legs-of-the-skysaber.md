@@ -1,0 +1,17 @@
+---
+title: Mystical Chain Legs of the Skysaber
+type: disambiguation
+categories:
+- Disambiguation
+source:
+  title: Mystical Chain Legs of the Skysaber
+  url: https://eq2.fandom.com/wiki/Mystical_Chain_Legs_of_the_Skysaber
+  history: https://eq2.fandom.com/wiki/Mystical_Chain_Legs_of_the_Skysaber?action=history
+  revision: 1925912
+  revised: '2025-12-31T21:32:03Z'
+  license: CC BY-SA 3.0
+---
+
+- [[Mystical Chain Legs of the Skysaber (0 Gem)]]
+- [[Mystical Chain Legs of the Skysaber (1 Gem)]]
+- [[Mystical Chain Legs of the Skysaber (2 Gem)]]

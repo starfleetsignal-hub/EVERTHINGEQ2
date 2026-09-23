@@ -1,6 +1,6 @@
 ---
 title: Kraytoc Killingfrost
-type: page
+type: disambiguation
 expansion: Destiny of Velious
 categories:
 - Destiny of Velious Named Monsters
