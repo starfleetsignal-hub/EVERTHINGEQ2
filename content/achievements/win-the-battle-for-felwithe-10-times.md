@@ -1,0 +1,23 @@
+---
+title: Win the Battle for Felwithe 10 times
+type: achievement
+in_game_name: Win the Battle for Felwithe 10 times
+description: Win the Battle for Felwithe 10 times within the Proving Grounds
+category: Proving Grounds
+points: '10'
+quota: '10'
+categories:
+- 10 Point Achievements
+- Achievements
+- Census Credits
+- Proving Grounds Achievements
+source:
+  title: Win the Battle for Felwithe 10 times
+  url: https://eq2.fandom.com/wiki/Win_the_Battle_for_Felwithe_10_times
+  history: https://eq2.fandom.com/wiki/Win_the_Battle_for_Felwithe_10_times?action=history
+  revision: 1953788
+  revised: '2026-01-12T18:28:17Z'
+  license: CC BY-SA 3.0
+---
+
+

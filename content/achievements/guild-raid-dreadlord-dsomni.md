@@ -1,0 +1,27 @@
+---
+title: 'Guild Raid: Dreadlord D''Somni'
+type: achievement
+in_game_name: 'Guild Raid: Dreadlord D''Somni'
+description: Defeat Dreadlord D'Somni within the Shard of Hate [Raid]
+category: Guild Raids
+subcategory: Planes of Prophecy
+points: '10'
+requirements:
+- Tier II
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Guild Raids Achievements
+- Planes of Prophecy Achievements
+source:
+  title: 'Guild Raid: Dreadlord D''Somni'
+  url: https://eq2.fandom.com/wiki/Guild_Raid:_Dreadlord_D'Somni
+  history: https://eq2.fandom.com/wiki/Guild_Raid:_Dreadlord_D'Somni?action=history
+  revision: 1109889
+  revised: '2020-08-23T21:13:08Z'
+  license: CC BY-SA 3.0
+---
+
+

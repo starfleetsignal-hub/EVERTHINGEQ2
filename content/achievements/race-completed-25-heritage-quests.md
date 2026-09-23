@@ -1,0 +1,29 @@
+---
+title: 'Race: Completed 25 Heritage Quests'
+type: achievement
+in_game_name: 'Race: Completed 25 Heritage Quests'
+description: Complete 25 Heritage quests on the Race to Trakanon server!
+category: Events
+subcategory: Race to Trakanon
+points: '0'
+quota: '25'
+rewards:
+- 'Race: Completed 25 Heritage Quests'
+categories:
+- 0 Point Achievements
+- Achievements
+- Achievements missing alink
+- Achievements with Rewards
+- Census Credits
+- Events Achievements
+- Race to Trakanon Achievements
+source:
+  title: 'Race: Completed 25 Heritage Quests'
+  url: https://eq2.fandom.com/wiki/Race:_Completed_25_Heritage_Quests
+  history: https://eq2.fandom.com/wiki/Race:_Completed_25_Heritage_Quests?action=history
+  revision: 1953531
+  revised: '2026-01-12T17:26:39Z'
+  license: CC BY-SA 3.0
+---
+
+

@@ -1,0 +1,27 @@
+---
+title: 'Guild Flawless: Defeating Baliath, Harbinger of Nightmares'
+type: achievement
+in_game_name: 'Guild Flawless: Defeating Baliath, Harbinger of Nightmares'
+description: Defeat Baliath, Harbinger of Nightmares with no deaths!
+category: Guild Raids
+subcategory: Kunark Ascending
+points: '10'
+requirements:
+- Unknown
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Guild Raids Achievements
+- Kunark Ascending Achievements
+source:
+  title: 'Guild Flawless: Defeating Baliath, Harbinger of Nightmares'
+  url: https://eq2.fandom.com/wiki/Guild_Flawless:_Defeating_Baliath,_Harbinger_of_Nightmares
+  history: https://eq2.fandom.com/wiki/Guild_Flawless:_Defeating_Baliath,_Harbinger_of_Nightmares?action=history
+  revision: 1109799
+  revised: '2020-08-23T21:11:23Z'
+  license: CC BY-SA 3.0
+---
+
+

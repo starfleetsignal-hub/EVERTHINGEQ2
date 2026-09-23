@@ -1,0 +1,29 @@
+---
+title: 'Race: Completed 50 Collections'
+type: achievement
+in_game_name: 'Race: Completed 50 Collections'
+description: Complete 50 Collection quests on the Race to Trakanon server!
+category: Events
+subcategory: Race to Trakanon
+points: '0'
+quota: '50'
+rewards:
+- 'Race: Completed 50 Collections'
+categories:
+- 0 Point Achievements
+- Achievements
+- Achievements missing alink
+- Achievements with Rewards
+- Census Credits
+- Events Achievements
+- Race to Trakanon Achievements
+source:
+  title: 'Race: Completed 50 Collections'
+  url: https://eq2.fandom.com/wiki/Race:_Completed_50_Collections
+  history: https://eq2.fandom.com/wiki/Race:_Completed_50_Collections?action=history
+  revision: 1953538
+  revised: '2026-01-12T17:27:25Z'
+  license: CC BY-SA 3.0
+---
+
+

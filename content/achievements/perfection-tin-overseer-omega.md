@@ -1,0 +1,29 @@
+---
+title: 'Perfection: Tin Overseer Omega'
+type: achievement
+in_game_name: 'Perfection: Tin Overseer Omega'
+description: Obtain Kill, Flawless, and Shorthanded Achievements
+category: Triumphs
+subcategory: Planes of Prophecy
+points: '25'
+requirements:
+- Defeat Tin Overseer Omega
+- Shorthand Tin Overseer Omega
+- Flawless Tin Overseer Omega
+categories:
+- 25 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Planes of Prophecy Achievements
+- Triumphs Achievements
+source:
+  title: 'Perfection: Tin Overseer Omega'
+  url: https://eq2.fandom.com/wiki/Perfection:_Tin_Overseer_Omega
+  history: https://eq2.fandom.com/wiki/Perfection:_Tin_Overseer_Omega?action=history
+  revision: 1111090
+  revised: '2020-08-25T21:11:25Z'
+  license: CC BY-SA 3.0
+---
+
+

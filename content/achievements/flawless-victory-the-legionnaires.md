@@ -1,0 +1,27 @@
+---
+title: 'Flawless Victory: The Legionnaires'
+type: achievement
+in_game_name: 'Flawless Victory: The Legionnaires'
+description: Defeat the Legionnaires in the Accursed Sanctum with no deaths.
+category: Raids
+subcategory: Tears of Veeshan
+points: '10'
+requirements:
+- Unknown
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Raids Achievements
+- Tears of Veeshan Achievements
+source:
+  title: 'Flawless Victory: The Legionnaires'
+  url: https://eq2.fandom.com/wiki/Flawless_Victory:_The_Legionnaires
+  history: https://eq2.fandom.com/wiki/Flawless_Victory:_The_Legionnaires?action=history
+  revision: 1106079
+  revised: '2020-08-17T19:16:21Z'
+  license: CC BY-SA 3.0
+---
+
+

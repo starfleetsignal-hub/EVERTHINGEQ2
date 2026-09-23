@@ -1,0 +1,26 @@
+---
+title: The Eternal Raider III
+type: achievement
+in_game_name: The Eternal Raider III
+description: Consume Wyssker Family Works.
+category: Dungeons
+subcategory: Fear of Eternity
+points: '10'
+quota: '600'
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Dungeons Achievements
+- Fear of Eternity Achievements
+source:
+  title: The Eternal Raider III
+  url: https://eq2.fandom.com/wiki/The_Eternal_Raider_III
+  history: https://eq2.fandom.com/wiki/The_Eternal_Raider_III?action=history
+  revision: 1953666
+  revised: '2026-01-12T18:01:36Z'
+  license: CC BY-SA 3.0
+---
+
+

@@ -1,0 +1,27 @@
+---
+title: '(Guild Shorthanded) Raid: Arlyxir'
+type: achievement
+in_game_name: '[Guild Shorthanded] Raid: Arlyxir'
+description: 'Defeat Arlyxir with less than 20 players within Solusek Ro''s Tower: Citadel of the Sun [Raid]'
+category: Guild Raids
+subcategory: Planes of Prophecy
+points: '10'
+requirements:
+- Tier III
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Guild Raids Achievements
+- Planes of Prophecy Achievements
+source:
+  title: '(Guild Shorthanded) Raid: Arlyxir'
+  url: https://eq2.fandom.com/wiki/(Guild_Shorthanded)_Raid:_Arlyxir
+  history: https://eq2.fandom.com/wiki/(Guild_Shorthanded)_Raid:_Arlyxir?action=history
+  revision: 1109622
+  revised: '2020-08-23T21:08:02Z'
+  license: CC BY-SA 3.0
+---
+
+

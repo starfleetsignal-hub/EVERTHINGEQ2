@@ -1,0 +1,61 @@
+---
+title: 'Triumph: Gnolls the Troubles I''ve Seen (Heroic)'
+type: achievement
+in_game_name: 'Triumph: Gnolls the Troubles I''ve Seen [Heroic]'
+description: Defeat all boss encounters in Darkpaw Warrens [Heroic].
+category: Triumphs
+subcategory: Darkpaw Rising
+points: '100'
+requirements:
+- Haska the Hacker
+- Gorlon the Goner
+- Kinmaster Kipp
+- Anima of Snarlip
+- Madpaw Mixl
+- Sporky
+- Twotooth
+- Yipyap
+- Vmork the Voracious
+- Pillowpaw
+- Sawmaw
+- Klubber and Tundo
+- The Prophets Three
+- Yorgen Stonechipper
+- The Terranaught
+- Korrosk the Exiled
+- Anima of Vixra
+- Hamlet
+- Dustpaw Devil
+- Frostok the Frigid and Iceclaw
+- Brucko the Brutal
+- Repungus
+- Glag the Gut
+- Anima of Gashok
+- Emberclaw
+- Brulk Skullcrusher
+- Grotglutton
+- Cracklebones
+- High Shaman Rakada Darkpaw
+- Perilaxous
+- Ernst Boarg
+rewards:
+- '[[Status Bounty (10,000)|Status Bounty [10,000]]]'
+hidden: true
+categories:
+- 100 Point Achievements
+- Achievements
+- Achievements missing alink
+- Achievements with Rewards
+- Achievements with invalid subcategory
+- Census Credits
+- Triumphs Achievements
+source:
+  title: 'Triumph: Gnolls the Troubles I''ve Seen (Heroic)'
+  url: https://eq2.fandom.com/wiki/Triumph:_Gnolls_the_Troubles_I've_Seen_(Heroic)
+  history: https://eq2.fandom.com/wiki/Triumph:_Gnolls_the_Troubles_I've_Seen_(Heroic)?action=history
+  revision: 1793960
+  revised: '2024-05-01T14:44:45Z'
+  license: CC BY-SA 3.0
+---
+
+

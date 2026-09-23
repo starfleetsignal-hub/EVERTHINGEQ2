@@ -1,0 +1,27 @@
+---
+title: '(Fabled Guk) Victory: Ferhustr Frupdor & Lunchmeat (T3)'
+type: achievement
+in_game_name: '[Fabled Guk] Victory: Ferhustr Frupdor & Lunchmeat (T3)'
+description: 'Defeat Ferhustr Frupdor & Lunchmeat (T3) in The Fabled Ruins of Guk: Ykesha''s Outer Stronghold [Heroic]'
+category: Dungeons
+subcategory: The Shadow Odyssey
+points: '10'
+requirements:
+- Unknown
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Dungeons Achievements
+- The Shadow Odyssey Achievements
+source:
+  title: '(Fabled Guk) Victory: Ferhustr Frupdor & Lunchmeat (T3)'
+  url: https://eq2.fandom.com/wiki/(Fabled_Guk)_Victory:_Ferhustr_Frupdor_&_Lunchmeat_(T3)
+  history: https://eq2.fandom.com/wiki/(Fabled_Guk)_Victory:_Ferhustr_Frupdor_&_Lunchmeat_(T3)?action=history
+  revision: 1107151
+  revised: '2020-08-22T14:59:54Z'
+  license: CC BY-SA 3.0
+---
+
+

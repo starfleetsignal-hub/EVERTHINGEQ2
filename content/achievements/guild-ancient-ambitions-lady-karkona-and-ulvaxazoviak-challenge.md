@@ -1,0 +1,27 @@
+---
+title: '(Guild) Ancient Ambitions: Lady Karkona and Ulvaxazoviak (Challenge)'
+type: achievement
+in_game_name: '[Guild] Ancient Ambitions: Lady Karkona and Ulvaxazoviak [Challenge]'
+description: 'Defeat Lady Karkona and Ulvaxazoviak at the same time within the Dragon Necropolis: Disturbed Vaults [Raid]'
+category: Guild Raids
+subcategory: Scars of Destruction
+points: '50'
+requirements:
+- Tier 5
+categories:
+- 50 Point Achievements
+- Achievements
+- Achievements missing alink
+- Census Credits
+- Guild Raids Achievements
+- Scars of Destruction Achievements
+source:
+  title: '(Guild) Ancient Ambitions: Lady Karkona and Ulvaxazoviak (Challenge)'
+  url: https://eq2.fandom.com/wiki/(Guild)_Ancient_Ambitions:_Lady_Karkona_and_Ulvaxazoviak_(Challenge)
+  history: https://eq2.fandom.com/wiki/(Guild)_Ancient_Ambitions:_Lady_Karkona_and_Ulvaxazoviak_(Challenge)?action=history
+  revision: 1841991
+  revised: '2024-11-25T21:37:05Z'
+  license: CC BY-SA 3.0
+---
+
+

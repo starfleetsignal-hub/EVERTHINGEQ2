@@ -1,0 +1,31 @@
+---
+title: 'Victory: Pygmy Cannibal Trio (Heroic II)'
+type: achievement
+in_game_name: 'Victory: Pygmy Cannibal Trio'
+description: 'Defeat Elder Gromekus, Priestess Olipna, and; Guard Ponshudu within Karuupa Jungle: Dedraka''s Descent [Heroic II]'
+category: Dungeons
+subcategory: Visions of Vetrovia
+points: '10'
+requirements:
+- Unknown
+rewards:
+- '[[Status Bounty (50,000)|Status Bounty [50,000]]]'
+hidden: true
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Achievements with Rewards
+- Census Credits
+- Dungeons Achievements
+- Visions of Vetrovia Achievements
+source:
+  title: 'Victory: Pygmy Cannibal Trio (Heroic II)'
+  url: https://eq2.fandom.com/wiki/Victory:_Pygmy_Cannibal_Trio_(Heroic_II)
+  history: https://eq2.fandom.com/wiki/Victory:_Pygmy_Cannibal_Trio_(Heroic_II)?action=history
+  revision: 1387775
+  revised: '2021-12-11T15:51:21Z'
+  license: CC BY-SA 3.0
+---
+
+

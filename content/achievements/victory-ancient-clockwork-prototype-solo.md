@@ -1,0 +1,30 @@
+---
+title: 'Victory: Ancient Clockwork Prototype (Solo)'
+type: achievement
+in_game_name: 'Victory: Ancient Clockwork Prototype'
+description: 'Defeat the Ancient Clockwork Prototype within the Plane of Innovation: Masks of the Marvelous [Solo]'
+category: Dungeons
+subcategory: Planes of Prophecy
+points: '10'
+requirements:
+- Unknown
+rewards:
+- 49000 status
+categories:
+- 10 Point Achievements
+- Achievements
+- Achievements missing alink
+- Achievements with Rewards
+- Census Credits
+- Dungeons Achievements
+- Planes of Prophecy Achievements
+source:
+  title: 'Victory: Ancient Clockwork Prototype (Solo)'
+  url: https://eq2.fandom.com/wiki/Victory:_Ancient_Clockwork_Prototype_(Solo)
+  history: https://eq2.fandom.com/wiki/Victory:_Ancient_Clockwork_Prototype_(Solo)?action=history
+  revision: 1049350
+  revised: '2020-04-27T21:24:12Z'
+  license: CC BY-SA 3.0
+---
+
+﻿
