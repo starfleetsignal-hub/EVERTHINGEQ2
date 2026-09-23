@@ -1,0 +1,53 @@
+---
+title: Shaped imbued dragonhide fist wraps
+type: item
+item_kind: Equipment
+icon: images/Item_283.png
+tier: Mastercrafted
+level: '62'
+slot: Primary
+flags: attunable
+stats:
+  str: '+30'
+  sta: '+30'
+  crit: '1.1'
+  critbonus: '0.3'
+  potency: '1.7'
+  mitinc: '2'
+  dmg: 20 - 59
+  delay: '1.4'
+  drating: '55.85'
+  dtype: One-Handed Crushing
+  wtype: Fists
+effects: '**Dimly Gleaming Strike**'
+item_link: \aITEM 433925155 1011640816:shaped imbued dragonhide fist wraps\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Dimly Gleaming Strike (Equipment)
+- Equipment
+- Fists (Weapon Type)
+- Mastercrafted Equipment
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- One-Handed Crushing (Equipment Type)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Tier 7 Equipment
+source:
+  title: Shaped imbued dragonhide fist wraps
+  url: https://eq2.fandom.com/wiki/Shaped_imbued_dragonhide_fist_wraps
+  history: https://eq2.fandom.com/wiki/Shaped_imbued_dragonhide_fist_wraps?action=history
+  revision: 1903642
+  revised: '2025-09-18T22:13:15Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

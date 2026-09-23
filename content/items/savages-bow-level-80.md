@@ -1,0 +1,71 @@
+---
+title: Savage's Bow (Level 80)
+type: item
+item_kind: Equipment
+icon: images/Item_3748.png
+tier: Legendary
+level: '80'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: lore no-trade no-value infusable
+stats:
+  sta: '+65'
+  agi: '+65'
+  health: '+63'
+  power: '+16'
+  crit: '3.4'
+  critbonus: '2.9'
+  potency: '6.4'
+  abmod: '+201'
+  dmg: 313 - 470
+  delay: '8.0'
+  drating: '97.92'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+obtained_from: From [[A Packet of Equipment (Beastlord, 80)|A Packet of Equipment]]
+item_link: \aITEM -2042216796 -1232496454:Savage's Bow\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 9 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Savage's Bow (Level 80)
+  url: https://eq2.fandom.com/wiki/Savage's_Bow_(Level_80)
+  history: https://eq2.fandom.com/wiki/Savage's_Bow_(Level_80)?action=history
+  revision: 1585376
+  revised: '2022-10-04T21:24:16Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+

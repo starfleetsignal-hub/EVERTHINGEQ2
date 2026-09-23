@@ -1,0 +1,78 @@
+---
+title: Sepultural Wand of Mastery
+type: item
+item_kind: Equipment
+icon: images/Item_2161.png
+tier: Fabled
+level: '50'
+slot: Primary
+classes: ', , , , [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+22'
+  sta: '+22'
+  maxhealth: '1.2'
+  crit: '0.5'
+  potency: '0.8'
+  dmg: 22 - 66
+  delay: '1.9'
+  drating: '47.83'
+  dtype: One-Handed Crushing
+  wtype: Staff
+effects: '**Swiftness**'
+item_link: \aITEM -1219254679 1114087663:Sepultural Wand of Mastery\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Swiftness (Equipment)
+- Templar Equipment
+- Tier 6 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Sepultural Wand of Mastery
+  url: https://eq2.fandom.com/wiki/Sepultural_Wand_of_Mastery
+  history: https://eq2.fandom.com/wiki/Sepultural_Wand_of_Mastery?action=history
+  revision: 1903200
+  revised: '2025-09-18T21:58:31Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

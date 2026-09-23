@@ -1,0 +1,75 @@
+---
+title: Shaped Conditioned Cedar Fighting Baton (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_877.png
+tier: Mastercrafted
+level: '42'
+slot: Primary
+flags: attunable
+stats:
+  str: '+13'
+  sta: '+13'
+  potency: '0.2'
+  abmod: '+8'
+  dmg: 14 - 41
+  delay: '1.6'
+  drating: '34.09'
+  dtype: One-Handed Crushing
+  wtype: Staff
+item_link: \aITEM 110779085 264035775:Shaped Conditioned Cedar Fighting Baton\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mastercrafted Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 5 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Shaped Conditioned Cedar Fighting Baton (Version 1)
+  url: https://eq2.fandom.com/wiki/Shaped_Conditioned_Cedar_Fighting_Baton_(Version_1)
+  history: https://eq2.fandom.com/wiki/Shaped_Conditioned_Cedar_Fighting_Baton_(Version_1)?action=history
+  revision: 1332000
+  revised: '2021-05-16T22:38:37Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

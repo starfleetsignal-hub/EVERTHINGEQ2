@@ -1,0 +1,80 @@
+---
+title: Sandalwood Fighting Baton (Level 50) (Crafted)
+type: item
+item_kind: Equipment
+icon: images/Item_2159.png
+tier: Handcrafted
+level: '50'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+21'
+  sta: '+20'
+  crit: '0.2'
+  potency: '0.7'
+  aspeed: '0.1'
+  dmg: 25 - 143
+  delay: '4.0'
+  drating: '42.17'
+  dtype: One-Handed Crushing
+  wtype: Staff
+obtained_from: '*Crafted by [[Woodworker]] (level 57) from [[Woodworker Essentials Volume 57 (Normal)]] *Crafted by [[Woodworker]] (level 57) from [[Woodworker Essentials Volume 57 (no-trade)]]'
+item_link: \aITEM -1834113597 569593563:Sandalwood Fighting Baton\/a
+categories:
+- Attack Speed (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 6 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Sandalwood Fighting Baton (Level 50) (Crafted)
+  url: https://eq2.fandom.com/wiki/Sandalwood_Fighting_Baton_(Level_50)_(Crafted)
+  history: https://eq2.fandom.com/wiki/Sandalwood_Fighting_Baton_(Level_50)_(Crafted)?action=history
+  revision: 1519050
+  revised: '2022-06-17T16:10:25Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

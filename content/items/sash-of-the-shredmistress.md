@@ -1,0 +1,85 @@
+---
+title: Sash of the Shredmistress
+type: item
+item_kind: Equipment
+icon: images/Item_379.png
+tier: Treasured
+level: '89'
+slot: Waist
+flags: no-trade
+stats:
+  str: '+58'
+  sta: '+58'
+  crit: '3.2'
+  critbonus: '1.1'
+  potency: '5.4'
+  aspeed: '7.4'
+  dps: '13.1'
+obtained_from: '[[Shredmistress Ikaika (Quest)|Shredmistress Ikaika]]'
+item_link: \aITEM -59847571 9766922:Sash of the Shredmistress\/a
+image: images/Sash_of_the_Shredmistress.jpg
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 9 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Waist (Inventory Slot)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Sash of the Shredmistress
+  url: https://eq2.fandom.com/wiki/Sash_of_the_Shredmistress
+  history: https://eq2.fandom.com/wiki/Sash_of_the_Shredmistress?action=history
+  revision: 1836092
+  revised: '2024-11-24T21:52:30Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: source
+---
+
+

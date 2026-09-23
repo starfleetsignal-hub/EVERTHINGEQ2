@@ -1,0 +1,73 @@
+---
+title: Rune of Empyral Torment (Crafted)
+type: item
+item_kind: Adornment
+icon: images/Item_3865.png
+tier: Mythical
+level: '115'
+slot: red
+flags: lore no-trade no-value
+effect_name: Tormented Visage
+effects: "- Applies Tormented Visage when Activated.\n  - Inflicts 25.0% of max health in divine damage on caster.\n  - Inflicts 10.0% of max health in divine damage on caster every 1.5 seconds.\n    - This effect cannot be critically applied.\n  - Increases Fervor Overcap of caster by 40.0 and Fervor of caster by 40.0.\n  - You must be in combat to maintain this spell.\n  - Cannot be modified except by direct means\n  - The casting time of Tormented Visage is 0.1 seconds and the reuse time of the spell is 2.0 seconds"
+obtained_from: 'Made with Adorning (skill 600) from [[Empyral Rune: Empyral Torment]].'
+item_link: \aITEM -1904144037 402792709:Rune of Empyral Torment\/a
+categories:
+- Adornments
+- Assassin Adornments
+- Bard Adornments
+- Beastlord Adornments
+- Berserker Adornments
+- Brawler Adornments
+- Brigand Adornments
+- Bruiser Adornments
+- Census Credits
+- Channeler Adornments
+- Cleric Adornments
+- Coercer Adornments
+- Conjuror Adornments
+- Crusader Adornments
+- Defiler Adornments
+- Dirge Adornments
+- Druid Adornments
+- Enchanter Adornments
+- Fighter Adornments
+- Fury Adornments
+- Guardian Adornments
+- Head Adornments
+- Illusionist Adornments
+- Inquisitor Adornments
+- Mage Adornments
+- Monk Adornments
+- Mystic Adornments
+- Mythical Adornments
+- Necromancer Adornments
+- Paladin Adornments
+- Predator Adornments
+- Prestige Adornments
+- Ranger Adornments
+- Red Slot Adornments
+- Rogue Adornments
+- Shadowknight Adornments
+- Shaman Adornments
+- Sorcerer Adornments
+- Summoner Adornments
+- Swashbuckler Adornments
+- Templar Adornments
+- Tier 12 Adornments
+- Troubador Adornments
+- Warden Adornments
+- Warlock Adornments
+- Warrior Adornments
+- Wizard Adornments
+source:
+  title: Rune of Empyral Torment (Crafted)
+  url: https://eq2.fandom.com/wiki/Rune_of_Empyral_Torment_(Crafted)
+  history: https://eq2.fandom.com/wiki/Rune_of_Empyral_Torment_(Crafted)?action=history
+  revision: 1918457
+  revised: '2025-12-17T19:38:40Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

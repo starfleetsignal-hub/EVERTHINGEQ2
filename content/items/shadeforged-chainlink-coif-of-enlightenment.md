@@ -1,0 +1,61 @@
+---
+title: Shadeforged Chainlink Coif of Enlightenment
+type: item
+item_kind: Equipment
+icon: images/Item_4108.png
+tier: Fabled
+level: '120'
+slot: Head
+flags: no-trade infusable
+stats:
+  sta: +2,765
+  agi: +1,386
+  health: +309,507
+  power: +60,721
+  mit: '894'
+  potency: 3,013.7
+  resolve: '200'
+  abmod: +16,372
+  multi: '412.5'
+  cbovercap: '+144.3'
+  dtype: Chain Armor
+item_link: \aITEM 1159114651 942457775:Shadeforged Chainlink Coif of Enlightenment\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus Overcap (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Head (Inventory Slot)
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+source:
+  title: Shadeforged Chainlink Coif of Enlightenment
+  url: https://eq2.fandom.com/wiki/Shadeforged_Chainlink_Coif_of_Enlightenment
+  history: https://eq2.fandom.com/wiki/Shadeforged_Chainlink_Coif_of_Enlightenment?action=history
+  revision: 1120621
+  revised: '2020-09-23T23:27:55Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

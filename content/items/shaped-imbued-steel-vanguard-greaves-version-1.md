@@ -1,0 +1,46 @@
+---
+title: Shaped Imbued Steel Vanguard Greaves (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_274.png
+tier: Mastercrafted
+level: '22'
+slot: Legs
+flags: attunable
+stats:
+  str: '+7'
+  sta: '+7'
+  mit: '144'
+  dtype: Plate Armor
+effects: '**Dim Sanguine Imbued**'
+item_link: \aITEM 345031626 -155258919:Shaped Imbued Steel Vanguard Greaves\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Dim Sanguine Imbued (Equipment)
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legs (Inventory Slot)
+- Mastercrafted Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 3 Equipment
+- Warrior Equipment
+source:
+  title: Shaped Imbued Steel Vanguard Greaves (Version 1)
+  url: https://eq2.fandom.com/wiki/Shaped_Imbued_Steel_Vanguard_Greaves_(Version_1)
+  history: https://eq2.fandom.com/wiki/Shaped_Imbued_Steel_Vanguard_Greaves_(Version_1)?action=history
+  revision: 1888007
+  revised: '2025-09-16T21:26:56Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

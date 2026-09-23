@@ -1,0 +1,68 @@
+---
+title: Shaped imbued cobalt great flail
+type: item
+item_kind: Equipment
+icon: images/Item_639.png
+tier: Mastercrafted
+level: '52'
+slot: Primary
+flags: attunable
+stats:
+  str: '+42'
+  sta: '+40'
+  crit: '0.4'
+  potency: '1.4'
+  abmod: '+40'
+  dmg: 59 - 177
+  delay: '4.0'
+  drating: '59.02'
+  dtype: Two-Handed Crushing
+  wtype: Great Hammer
+effects: '**Dimly Gleaming Strike**'
+item_link: \aITEM 91640077 -1222713952:shaped imbued cobalt great flail\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dimly Gleaming Strike (Equipment)
+- Druid Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Great Hammer (Weapon Type)
+- Guardian Equipment
+- Inquisitor Equipment
+- Mastercrafted Equipment
+- Monk Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Templar Equipment
+- Tier 6 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Shaped imbued cobalt great flail
+  url: https://eq2.fandom.com/wiki/Shaped_imbued_cobalt_great_flail
+  history: https://eq2.fandom.com/wiki/Shaped_imbued_cobalt_great_flail?action=history
+  revision: 1903612
+  revised: '2025-09-18T22:12:15Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

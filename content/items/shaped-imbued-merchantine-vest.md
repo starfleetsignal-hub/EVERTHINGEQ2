@@ -1,0 +1,77 @@
+---
+title: Shaped imbued merchantine vest
+type: item
+item_kind: Equipment
+icon: images/Item_1523.png
+tier: Mastercrafted Legendary
+level: '12'
+slot: Chest
+flags: attunable
+stats:
+  sta: '+4'
+  agi: '+4'
+  mit: '27'
+  dtype: Cloth Armor
+effects: '**Dim Lambent Imbued**'
+item_link: \aITEM 737900979 -1944967160:shaped imbued merchantine vest\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Chest (Inventory Slot)
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dim Lambent Imbued (Equipment)
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mastercrafted Legendary Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 2 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Shaped imbued merchantine vest
+  url: https://eq2.fandom.com/wiki/Shaped_imbued_merchantine_vest
+  history: https://eq2.fandom.com/wiki/Shaped_imbued_merchantine_vest?action=history
+  revision: 1887941
+  revised: '2025-09-16T21:24:44Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

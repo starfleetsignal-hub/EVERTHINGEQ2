@@ -1,0 +1,87 @@
+---
+title: Sacred Geometry Bangle
+type: item
+item_kind: Equipment
+icon: images/Item_5748.png
+tier: Fabled
+level: '130'
+slot: Wrist
+flags: lore-equip attunable heirloom no-value
+stats:
+  sta: +5,541
+  agi: +3,297
+  health: +303,138
+  power: +190,502
+  critbonus: 1,319.5
+  potency: 41,328.5
+  resolve: '505'
+  aspeed: '34.4'
+  vselemental: +354,380
+item_link: \aITEM -539786920 1473212484:Sacred Geometry Bangle\/a
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 14 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+- Wrist (Inventory Slot)
+source:
+  title: Sacred Geometry Bangle
+  url: https://eq2.fandom.com/wiki/Sacred_Geometry_Bangle
+  history: https://eq2.fandom.com/wiki/Sacred_Geometry_Bangle?action=history
+  revision: 1911399
+  revised: '2025-11-10T19:40:03Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

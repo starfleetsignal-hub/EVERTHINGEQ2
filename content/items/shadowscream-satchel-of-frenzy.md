@@ -1,0 +1,73 @@
+---
+title: Shadowscream Satchel of Frenzy
+type: item
+item_kind: Equipment
+icon: images/Item_2144.png
+tier: Mastercrafted Legendary
+level: '120'
+slot: Ranged
+flags: attunable
+stats:
+  sta: +5,553
+  agi: +2,767
+  health: +163,275
+  power: +102,609
+  crit: '386.4'
+  potency: 8,419
+  resolve: '220'
+  dps: '122.1'
+  cbovercap: '+410.7'
+  dmg: 5253 - 7880
+  delay: '8.0'
+  drating: '1641.6'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Thrown Weapon
+effects: '**Elemental Rending**'
+obtained_from: '*Crafted by [[Tailor]] (level 120) from [[Shadowscream Tailor Studies III]] *Made from [[Pattern: Shadowscream Satchel of Frenzy]]'
+item_link: \aITEM -509246294 -57928205:Shadowscream Satchel of Frenzy\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Dirge Equipment
+- Elemental Rending (Equipment)
+- Equipment
+- Guardian Equipment
+- Item obtained from a Pattern
+- Mastercrafted Legendary Equipment
+- Monk Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Swashbuckler Equipment
+- Thrown Weapon (Weapon Type)
+- Tier 13 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Shadowscream Satchel of Frenzy
+  url: https://eq2.fandom.com/wiki/Shadowscream_Satchel_of_Frenzy
+  history: https://eq2.fandom.com/wiki/Shadowscream_Satchel_of_Frenzy?action=history
+  revision: 1903384
+  revised: '2025-09-18T22:04:39Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

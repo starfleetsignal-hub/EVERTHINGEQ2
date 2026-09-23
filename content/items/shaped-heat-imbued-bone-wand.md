@@ -1,0 +1,73 @@
+---
+title: Shaped Heat Imbued Bone Wand
+type: item
+item_kind: Equipment
+icon: images/Item_618.png
+tier: Mastercrafted
+level: '12'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+4'
+  int: '+4'
+  dmg: 3 - 10
+  delay: '1.6'
+  drating: '8.7'
+  dtype: One-Handed Crushing
+  wtype: Staff
+effects: '**Fire Ball**'
+item_link: \aITEM -100466924 -1616462899:Shaped Heat Imbued Bone Wand\/a
+categories:
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fire Ball (Equipment)
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mastercrafted Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 2 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Shaped Heat Imbued Bone Wand
+  url: https://eq2.fandom.com/wiki/Shaped_Heat_Imbued_Bone_Wand
+  history: https://eq2.fandom.com/wiki/Shaped_Heat_Imbued_Bone_Wand?action=history
+  revision: 1268701
+  revised: '2021-01-09T20:44:00Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

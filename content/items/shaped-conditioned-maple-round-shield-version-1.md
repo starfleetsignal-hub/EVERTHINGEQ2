@@ -1,0 +1,50 @@
+---
+title: Shaped Conditioned Maple Round Shield (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_18.png
+tier: Handcrafted
+level: '10'
+slot: Shield
+flags: attunable
+stats:
+  sta: '+2'
+  agi: '+3'
+  dtype: Round Shield
+item_link: \aITEM 1590343505 -1237647002:Shaped Conditioned Maple Round Shield\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Round Shield (Equipment Type)
+- Scout Equipment
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Swashbuckler Equipment
+- Tier 2 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Shaped Conditioned Maple Round Shield (Version 1)
+  url: https://eq2.fandom.com/wiki/Shaped_Conditioned_Maple_Round_Shield_(Version_1)
+  history: https://eq2.fandom.com/wiki/Shaped_Conditioned_Maple_Round_Shield_(Version_1)?action=history
+  revision: 960649
+  revised: '2019-03-18T15:28:19Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

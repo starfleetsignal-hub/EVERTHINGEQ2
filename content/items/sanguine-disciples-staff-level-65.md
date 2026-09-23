@@ -1,0 +1,80 @@
+---
+title: Sanguine Disciple's Staff (Level 65)
+type: item
+item_kind: Equipment
+icon: images/Item_2375.png
+tier: Treasured
+level: '65'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+60'
+  sta: '+60'
+  crit: '2'
+  critbonus: '0.6'
+  potency: '3.2'
+  abmod: '+64'
+  dmg: 69 - 393
+  delay: '6.0'
+  drating: '77.02'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+item_link: \aITEM 1952782334 -445012538:Sanguine Disciple's Staff\/a
+categories:
+- Ability Modifier (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 7 Equipment
+- Treasured Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Sanguine Disciple's Staff (Level 65)
+  url: https://eq2.fandom.com/wiki/Sanguine_Disciple's_Staff_(Level_65)
+  history: https://eq2.fandom.com/wiki/Sanguine_Disciple's_Staff_(Level_65)?action=history
+  revision: 1331891
+  revised: '2021-05-16T22:34:57Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

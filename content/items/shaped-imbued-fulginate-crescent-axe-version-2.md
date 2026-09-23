@@ -1,0 +1,59 @@
+---
+title: Shaped imbued fulginate crescent axe (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_640.png
+tier: Handcrafted
+level: '40'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+10'
+  agi: '+11'
+  dmg: 12 - 35
+  delay: '1.5'
+  drating: '31.45'
+  dtype: One-Handed Slashing
+  wtype: Axe
+effects: '**Dimly Gleaming Strike**'
+item_link: \aITEM -1072128722 1929062157:shaped imbued fulginate crescent axe\/a
+categories:
+- Assassin Equipment
+- Axe (Weapon Type)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Dimly Gleaming Strike (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 5 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Shaped imbued fulginate crescent axe (Version 2)
+  url: https://eq2.fandom.com/wiki/Shaped_imbued_fulginate_crescent_axe_(Version_2)
+  history: https://eq2.fandom.com/wiki/Shaped_imbued_fulginate_crescent_axe_(Version_2)?action=history
+  revision: 1903738
+  revised: '2025-09-18T22:16:27Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

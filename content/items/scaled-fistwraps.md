@@ -1,0 +1,54 @@
+---
+title: Scaled Fistwraps
+type: item
+item_kind: Equipment
+icon: images/Item_283.png
+tier: Mastercrafted
+level: '52'
+slot: Primary
+classes: ', [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+24'
+  sta: '+24'
+  crit: '0.7'
+  critbonus: '0.2'
+  potency: '1'
+  multi: '2.2'
+  dmg: 34 - 191
+  delay: '5.0'
+  drating: '44.97'
+  dtype: One-Handed Crushing
+  wtype: Fists
+obtained_from: '*Crafted by [[Weaponsmith]] (level 59) from [[Advanced Weaponsmith Volume 59 (Heirloom)]] *Crafted by [[Weaponsmith]] (level 59) from [[Advanced Weaponsmith Volume 59 (Normal)]]'
+item_link: \aITEM 19480555 827457533:Scaled Fistwraps\/a
+categories:
+- Beastlord Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Fists (Weapon Type)
+- Mastercrafted Equipment
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- One-Handed Crushing (Equipment Type)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Tier 6 Equipment
+source:
+  title: Scaled Fistwraps
+  url: https://eq2.fandom.com/wiki/Scaled_Fistwraps
+  history: https://eq2.fandom.com/wiki/Scaled_Fistwraps?action=history
+  revision: 1267651
+  revised: '2021-01-09T19:51:03Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

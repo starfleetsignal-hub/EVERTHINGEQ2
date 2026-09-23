@@ -1,0 +1,70 @@
+---
+title: Shaped imbued adamantine short spear
+type: item
+item_kind: Equipment
+icon: images/Item_1673.png
+tier: Handcrafted
+level: '60'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable
+stats:
+  str: '+21'
+  sta: '+20'
+  crit: '0.2'
+  potency: '0.7'
+  aspeed: '0.1'
+  dmg: 22 - 67
+  delay: '1.7'
+  drating: '52.89'
+  dtype: One-Handed Piercing
+  wtype: Spear
+effects: '**Dimly Gleaming Strike**'
+item_link: \aITEM -428459177 -807062013:shaped imbued adamantine short spear\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dimly Gleaming Strike (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Mystic Equipment
+- One-Handed Piercing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Spear (Weapon Type)
+- Swashbuckler Equipment
+- Tier 7 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Shaped imbued adamantine short spear
+  url: https://eq2.fandom.com/wiki/Shaped_imbued_adamantine_short_spear
+  history: https://eq2.fandom.com/wiki/Shaped_imbued_adamantine_short_spear?action=history
+  revision: 1903457
+  revised: '2025-09-18T22:07:05Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

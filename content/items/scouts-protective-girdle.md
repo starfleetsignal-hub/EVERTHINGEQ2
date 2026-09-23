@@ -1,0 +1,83 @@
+---
+title: Scout's Protective Girdle
+type: item
+item_kind: Equipment
+icon: images/Item_2135.png
+tier: Mastercrafted Fabled
+level: '90'
+slot: Waist
+flags: attunable
+stats:
+  str: '+84'
+  sta: '+84'
+  crit: '5.5'
+  critbonus: '4.9'
+  potency: '8.4'
+  dps: '21.1'
+obtained_from: '*Crafted by [[Armorer]] (level 89) from [[Forgemasters Armoring Studies]] *Made from [[Globe of Coalescing Shadows]]'
+item_link: \aITEM 442587592 647246449:Scout's Protective Girdle\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item obtained from a Pattern
+- Mage Equipment
+- Mastercrafted Fabled Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Waist (Inventory Slot)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Scout's Protective Girdle
+  url: https://eq2.fandom.com/wiki/Scout's_Protective_Girdle
+  history: https://eq2.fandom.com/wiki/Scout's_Protective_Girdle?action=history
+  revision: 1836166
+  revised: '2024-11-24T21:55:02Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+

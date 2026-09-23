@@ -1,0 +1,89 @@
+---
+title: Shackles of Reckoning
+type: item
+item_kind: Equipment
+icon: images/Item_2201.png
+tier: Fabled
+level: '135'
+slot: Wrist
+flags: requires-equip  no-transmute  no-salvage  lore-equip no-trade
+stats:
+  sta: +5,652
+  agi: +3,462
+  health: +703,801
+  power: +703,801
+  critbonus: 1,385.7
+  potency: 52,704.7
+  resolve: '660'
+  abmod: +5099,040
+  vselemental: +442,665
+obtained_from: 'Collection reward: [[Trophies of Reckoning]]'
+item_link: \aITEM -1528485981 1809061350:Shackles of Reckoning\/a
+categories:
+- Ability Modifier (Equipment)
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Collection Quest Rewards
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 14 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+- Wrist (Inventory Slot)
+source:
+  title: Shackles of Reckoning
+  url: https://eq2.fandom.com/wiki/Shackles_of_Reckoning
+  history: https://eq2.fandom.com/wiki/Shackles_of_Reckoning?action=history
+  revision: 2004194
+  revised: '2026-05-17T11:01:55Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+

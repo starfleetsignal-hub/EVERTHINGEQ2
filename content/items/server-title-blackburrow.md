@@ -1,0 +1,21 @@
+---
+title: 'Server Title: Blackburrow'
+type: item
+icon: images/Item_2182.png
+item_level: '0'
+flags: lore no-trade
+description: The shattered lands are wrought with peril but you and your lineage have borne the burden of these changes for decades.  Now you will bear this forgotten name that had power in Norrath so that you may begin the struggle anew.
+item_link: '\aITEM -1334114241 1707415628:Server Title: Blackburrow\/a'
+categories:
+- Census Credits
+- Items
+source:
+  title: 'Server Title: Blackburrow'
+  url: https://eq2.fandom.com/wiki/Server_Title:_Blackburrow
+  history: https://eq2.fandom.com/wiki/Server_Title:_Blackburrow?action=history
+  revision: 2028208
+  revised: '2026-09-06T21:44:01Z'
+  license: CC BY-SA 3.0
+---
+
+

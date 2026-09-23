@@ -1,0 +1,96 @@
+---
+title: Shadowguard's Mace
+type: item
+item_kind: Equipment
+icon: images/Item_633.png
+tier: Fabled
+level: '120'
+slot: Primary
+flags: attunable heirloom
+stats:
+  sta: +5,684
+  agi: +2,925
+  health: +181,087
+  power: +113,802
+  crit: '408.4'
+  potency: 11,786.6
+  resolve: '250'
+  aspeed: '20.7'
+  dps: '135.4'
+  cbovercap: '+492.9'
+  dmg: 2335 - 3502
+  delay: '4.0'
+  drating: '1459.2'
+  dtype: One-Handed Crushing
+  wtype: Mace
+effects: '**Decisive Strike**'
+obtained_from: Crafted by [[Artisan]] (level 10) from [[Shadow Prospecting Weaponsmith (Tier 12)]]
+item_link: \aITEM -1874261802 1132211962:Shadowguard's Mace\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Decisive Strike (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mace (Weapon Type)
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Shadowguard's Mace
+  url: https://eq2.fandom.com/wiki/Shadowguard's_Mace
+  history: https://eq2.fandom.com/wiki/Shadowguard's_Mace?action=history
+  revision: 1903339
+  revised: '2025-09-18T22:03:09Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

@@ -1,0 +1,75 @@
+---
+title: Scintillating Adornment of Elemental Resilience (Lesser) (Crafted)
+type: item
+item_kind: Adornment
+icon: images/Item_3871.png
+tier: Handcrafted
+level: '66'
+slot: white
+flags: no-value
+stats:
+  vselemental: '+385'
+obtained_from: Made with Adorning (skill 300) from [[Essential Adornments Volume 7]].
+item_link: \aITEM -16281629 -1987115003:Scintillating Adornment of Elemental Resilience (Lesser)\/a
+categories:
+- Adornments
+- Assassin Adornments
+- Bard Adornments
+- Beastlord Adornments
+- Berserker Adornments
+- Brawler Adornments
+- Brigand Adornments
+- Bruiser Adornments
+- Census Credits
+- Channeler Adornments
+- Cleric Adornments
+- Coercer Adornments
+- Conjuror Adornments
+- Crusader Adornments
+- Defiler Adornments
+- Dirge Adornments
+- Druid Adornments
+- Earring Adornments
+- Enchanter Adornments
+- Fighter Adornments
+- Fury Adornments
+- Guardian Adornments
+- Handcrafted Adornments
+- Illusionist Adornments
+- Inquisitor Adornments
+- Mage Adornments
+- Monk Adornments
+- Mystic Adornments
+- Necromancer Adornments
+- Paladin Adornments
+- Predator Adornments
+- Ranger Adornments
+- Resistances Adornments
+- Ring Adornments
+- Rogue Adornments
+- Shadowknight Adornments
+- Shaman Adornments
+- Sorcerer Adornments
+- Summoner Adornments
+- Swashbuckler Adornments
+- Templar Adornments
+- Tier 7 Adornments
+- Troubador Adornments
+- Warden Adornments
+- Warlock Adornments
+- Warrior Adornments
+- White Slot Adornments
+- Wizard Adornments
+- Wrist Adornments
+source:
+  title: Scintillating Adornment of Elemental Resilience (Lesser) (Crafted)
+  url: https://eq2.fandom.com/wiki/Scintillating_Adornment_of_Elemental_Resilience_(Lesser)_(Crafted)
+  history: https://eq2.fandom.com/wiki/Scintillating_Adornment_of_Elemental_Resilience_(Lesser)_(Crafted)?action=history
+  revision: 1575528
+  revised: '2022-08-17T15:35:31Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: source
+---
+
+
