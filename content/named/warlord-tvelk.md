@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ghost
 level: '29'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: On [[D'Abth Bridge]] {{waypoint -227, 8, -648}}
 related_quests:

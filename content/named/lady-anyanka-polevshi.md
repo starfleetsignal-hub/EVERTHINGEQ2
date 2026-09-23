@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ghost
 level: '20'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: Roams near the [[The Ruins of Val`marr]] around {{waypoint 471, -49, 603}}
 related_quests:

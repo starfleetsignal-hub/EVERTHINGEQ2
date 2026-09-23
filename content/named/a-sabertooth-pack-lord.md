@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnoll
 level: '18'
-difficulty: ^
 zone: '[[Antonica]]'
 location: Northern Farmlands {{waypoint -1629, -16, 207}}
 placeholder: '[[A Sabertooth elder]]'

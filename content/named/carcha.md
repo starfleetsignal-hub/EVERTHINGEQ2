@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Shark
 level: '80'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '{{waypoint -1535, -1100, -508}}'
 drops:

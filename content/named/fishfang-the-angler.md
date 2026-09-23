@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnoll
 level: '13'
-difficulty: ^
 zone: '[[Blackburrow]]'
 location: Top level, south end of the stream at {{waypoint -14.24, -1.08, 27.14}}
 drops:

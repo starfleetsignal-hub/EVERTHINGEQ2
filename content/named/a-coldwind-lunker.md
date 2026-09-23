@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Barracuda
 level: '14'
-difficulty: ^
 zone: '[[Antonica]]'
 location: In the water surrounding [[Mariner's Island]] {{waypoint 258, -53, 821}}
 placeholder: a level 14 [[A coldwind pike|coldwind pike]]

@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 race: Iksar
 class: Monk
 level: '76'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '[[The Tabernacle of Pain]], in the trial ring'
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Chaos Descending
 race: Mephlin
 level: '117'
-difficulty: ^^^
 zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
 location: Inside one of the towers in {{waypoint -176, 6, -108}}
 specials: Fear

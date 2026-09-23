@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Armadillo
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Roams around {{waypoint -68, 34, 512}}
 drops:

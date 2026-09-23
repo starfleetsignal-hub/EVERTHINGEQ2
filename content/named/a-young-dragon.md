@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Dragon
 level: '65'
-difficulty: ^^^
 zone: '[[The Bonemire]]'
 location: Over the Halls of Fate entrance
 drops:

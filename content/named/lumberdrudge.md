@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Carnivorous Plant
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Wanders  around the [[Esoterra Gardens]]
 drops:

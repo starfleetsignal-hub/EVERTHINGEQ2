@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Human
 level: '25'
-difficulty: ^
 group: Nerius Pirates
 zone: '[[Nektulos Forest]]'
 location: Spawns after killing all the pirates in a Nerius Pirate tent encampment along the beach near [[Port Naythex]]. One potential location is {{waypoint 612, -1, -212}}

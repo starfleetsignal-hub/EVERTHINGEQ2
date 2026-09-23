@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Wyvern
 level: '72'
-difficulty: ^
 zone: '[[Kylong Plains]]'
 location: Roams in the [[A young wyvern|young wyvern]] area west of [[Karnor's Castle]] {{waypoint -211, 46, -251}}
 drops:

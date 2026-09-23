@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Human
 level: '55'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: In the first market near the carpet landing platform. {{waypoint -227, 161, -104}}
 related_quests:

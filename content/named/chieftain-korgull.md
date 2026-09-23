@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Myr'Dal
 level: '65'
-difficulty: ^^^
 zone: '[[Mistmoore Catacombs]]'
 location: '{{waypoint -132, 101, 162}}'
 drops:

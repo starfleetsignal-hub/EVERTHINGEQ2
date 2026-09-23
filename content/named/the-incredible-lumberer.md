@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Thullosian
 level: '78'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: By the waterfall in the Thullosian ruins. {{waypoint 549.14, 15.83, 116.18}}
 health: 33,000

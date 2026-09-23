@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Skeleton
 level: '52'
-difficulty: ^^^
 zone: '[[The Shimmering Citadel]]'
 location: Basement caverns {{waypoint -128, 80, -120}}
 drops:

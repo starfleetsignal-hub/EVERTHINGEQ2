@@ -4,7 +4,6 @@ type: named
 expansion: Chaos Descending
 race: Giant
 level: '117'
-difficulty: ^^^
 zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
 location: Inside one of the towers at {{waypoint -234, 88, 404}}
 specials: Fear

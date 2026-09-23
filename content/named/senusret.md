@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Mummy
 level: '53'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Northern oasis of the [[The Twin Tears|Twin Tears]]. Spawns at the location given once all the mummies on the rocks above have been killed. {{waypoint -359, -146, -1124}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Iksar
 level: '79'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 drops:
 - no unique drops

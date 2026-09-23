@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Dragon
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: '[[Vesspyr Isles]] on a small unnamed isle at {{waypoint -146, 51, -517}}'
 drops:

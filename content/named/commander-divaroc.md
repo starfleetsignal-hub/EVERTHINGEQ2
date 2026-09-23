@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Di'Zok
 level: '75'
-difficulty: ^^^
 zone: '[[Fens of Nathsar]]'
 location: In the back of the fortress of [[Bathezid's Watch]] {{waypoint 1178, 203, 1529}}
 achievement_xp: true

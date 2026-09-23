@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Centaur
 level: '30'
-difficulty: ^^
 zone: '[[The Thundering Steppes]]'
 location: Southwest of [[Crater Mine]], roaming around {{waypoint 835, -1, 1050}}
 related_quests:

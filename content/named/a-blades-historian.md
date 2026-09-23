@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Blades Historian
 race: Human
 level: '48'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: Roams around the city, often seen outside [[The Court of the Blades]]
 related_quests:

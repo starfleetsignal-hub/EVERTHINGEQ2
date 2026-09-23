@@ -4,7 +4,6 @@ type: named
 expansion: Sentinel's Fate
 race: Lich
 level: '85'
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: On top of the mound in the Hua Mein battleground site on the western end of [[Kejaan's Rill]]. {{waypoint 779, 189, 4035}}
 drops:

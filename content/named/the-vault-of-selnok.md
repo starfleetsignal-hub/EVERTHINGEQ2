@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Clay Golem
 level: '70'
-difficulty: ^
 zone: '[[Kylong Plains]]'
 location: '[[The Sel''Nok Towers]] {{waypoint 2082, 188, -2549}}'
 respawn: 6 minutes

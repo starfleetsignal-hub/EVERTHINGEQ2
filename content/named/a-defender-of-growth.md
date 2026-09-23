@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Root Horror
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: The Defender of Growth pops right where you are standing when you speak to [[Vuulan]] to turn in the quest [[Spoil Spores]] {{waypoint -727, 438, 395}}
 added_in: Tears of Veeshan

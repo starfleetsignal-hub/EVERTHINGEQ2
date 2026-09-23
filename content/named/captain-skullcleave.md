@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Troll
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Graw''s Crown]] {{waypoint -1349, -653, 377}}'
 related_quests:

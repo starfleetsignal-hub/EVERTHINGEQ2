@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Brownie
 level: '105'
-difficulty: ^
 zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
 drops:
 - '[[First Mate''s Insignia]]'

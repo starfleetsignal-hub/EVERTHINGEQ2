@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Satyr
 level: '65'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: Back of the satyr camp {{waypoint -841, 54, -1106}}
 placeholder: The specific [[A myntr tribesman|myntr tribesman]] that spawns in his /location

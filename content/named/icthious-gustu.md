@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Yha-lei
 level: '80'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: in [[The Azure Cradle]], atop a large meteor in a crater lake
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Vampire
 level: '15'
-difficulty: ^
 zone: '[[Darklight Wood]]'
 location: '[[Nerian Highlands]] {{waypoint -4, -27, -409}}'
 achievement_xp: true

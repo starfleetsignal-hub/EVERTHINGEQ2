@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 in_game_name: the Mother Hen
 level: '106'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Spawns next to den in the [[Auroric Tide]] at {{waypoint -1210, -21, 369}}
 added_in: Planes of Prophecy

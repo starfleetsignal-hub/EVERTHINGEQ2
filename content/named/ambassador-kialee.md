@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Sprite
 level: '12'
-difficulty: ^
 group: Oakmyst Fairies
 zone: '[[Oakmyst Forest]]'
 location: the bridge between the sprite and fairy hilltops {{waypoint 868.30, 11.41, -228.34}}

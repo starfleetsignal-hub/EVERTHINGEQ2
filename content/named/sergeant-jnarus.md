@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Skeleton
 level: '8'
-difficulty: ^
 zone: '[[Darklight Wood]]'
 location: '[[Field of Ruin]] at {{waypoint -393, -51, -80}}'
 image: images/Sergeant_J'Narus.png

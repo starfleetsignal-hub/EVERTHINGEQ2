@@ -4,7 +4,6 @@ type: named
 expansion: Kunark Ascending
 race: Golem
 level: '107'
-difficulty: ^^^
 zone: '[[Lost City of Torsis: The Shrouded Temple (Event Heroic)]]'
 location: 'Near the zone-in of the [[Lost City of Torsis: The Shrouded Temple (Event Heroic)]] at {{waypoint -179, 4, -240}}'
 aggressive: true

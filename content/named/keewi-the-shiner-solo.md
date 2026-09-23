@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Clockwork
 level: '109'
-difficulty: ^^^
 zone: '[[Plane of Innovation: Gears in the Machine (Solo)]]'
 location: East of [[The Heapsorter]]. {{waypoint -214.66, 4.26, -184.13}}
 drops:

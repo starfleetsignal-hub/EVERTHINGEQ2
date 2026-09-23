@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Ogre
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: near Gunthak's Shanty {{waypoint -1284, -1070, 1101}}
 respawn: 5 minutes

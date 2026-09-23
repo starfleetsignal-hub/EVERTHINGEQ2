@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Octopus
 level: '17'
-difficulty: ^
 zone: '[[Antonica]]'
 location: Underwater, just a bit west of the rocks with the entrance to the Condemned Catacomb {{waypoint -1205, -49, -1072}}
 primary_damage: crushing

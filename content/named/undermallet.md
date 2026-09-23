@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Tentacle Terror
 level: '49'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: '[[Aquaduct Ruins]]; spawns once all the surrounding tentacle terrors have been killed. {{waypoint -739, -103, -583}}'
 drops:

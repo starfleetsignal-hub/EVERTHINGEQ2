@@ -4,7 +4,6 @@ type: named
 expansion: Terrors of Thalumbra
 race: Cepholex
 level: '103'
-difficulty: ^
 zone: '[[Thalumbra, the Ever Deep]]'
 location: On a cliff a bit southwest of the [[Abandoned Fungus Farm]] {{waypoint 809, 72, 360}}
 primary_damage: Poison

@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Troll
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: in Furlongers Outpost {{waypoint -577, -1080, 1362}}
 related_quests:

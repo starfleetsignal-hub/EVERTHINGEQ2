@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Dark Elf
 level: '82'
-difficulty: ^
 zone: '[[The City of Freeport]]'
 location: '{{waypoint 22, -37, -124}}'
 related_quests:

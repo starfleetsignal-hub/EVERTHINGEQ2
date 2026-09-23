@@ -5,7 +5,6 @@ expansion: Shattered Lands
 in_game_name: Scholar Al'Quylar
 race: Erudite
 level: '35'
-difficulty: ^^^
 zone: '[[Antonica]]'
 location: Behind [[The Tower of the Oracles]] {{waypoint -1034, 15, -667}}
 drops:

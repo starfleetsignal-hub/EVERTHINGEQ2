@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Dark Elf
 level: '35'
-difficulty: ^^^
 zone: '[[The D''Vinnian Throne]]'
 location: '{{waypoint -82, -9, -178}}'
 related_quests:

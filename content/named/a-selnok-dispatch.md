@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Di'Zok
 level: '80'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: It runs a path between [[Scout Nan'Dor]] {{waypoint -1704, 240, -71}} and the bottom of the hill at {{waypoint -1669, 228, 125}}
 specials: Bruiser combat arts

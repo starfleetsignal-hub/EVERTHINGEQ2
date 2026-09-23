@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Wisp
 level: '11'
-difficulty: ^
 zone: '[[Darklight Wood]]'
 location: '[[The Harrowglade]] (The Druid Ring), around {{waypoint 54, -39, 221}}'
 drops:

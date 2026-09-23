@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Evil Eye
 level: '93'
-difficulty: ^
 zone: '[[The Eidolon Jungle]]'
 location: '{{waypoint -1478, -5, 321}}'
 drops:

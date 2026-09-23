@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Orc
 level: '25'
-difficulty: ^^
 zone: '[[Antonica]]'
 location: On a certain step during the quest [[Passage to the Isle of Zek]], follow the Qeynos Highway north from the path to Thundering Steppes, then speak with [[Noa Sails]] {{waypoint -2230, -44, 509}}
 drops:

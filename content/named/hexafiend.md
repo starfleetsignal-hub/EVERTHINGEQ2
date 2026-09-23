@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Rock Crawler
 level: '30'
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: '{{waypoint -924, 95, -640}}'
 placeholder: '[[A menacing dust crawler]]'

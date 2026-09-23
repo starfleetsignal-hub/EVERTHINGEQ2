@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Cockatrice
 level: '80'
-difficulty: ^
 zone: '[[Fens of Nathsar]]'
 location: '{{waypoint 417, -99, 867}}'
 related_quests:

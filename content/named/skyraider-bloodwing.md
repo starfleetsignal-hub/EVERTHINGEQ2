@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Vultak
 level: '63'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: On [[Strifewind Isle]] {{waypoint -127, -18, -612}}
 drops:

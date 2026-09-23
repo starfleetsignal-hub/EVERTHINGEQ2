@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Barracuda
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: swimming around location {{waypoint -1012, -4, 235}}
 drops:

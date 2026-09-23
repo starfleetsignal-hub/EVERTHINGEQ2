@@ -2,7 +2,6 @@
 title: Doppleganger Encounter
 type: named
 expansion: The Shadow Odyssey
-race: '*'
 level: 51-Scales
 difficulty: Heroic ^
 zone: '[[Miragul''s Phylactery: The Anathema]]'

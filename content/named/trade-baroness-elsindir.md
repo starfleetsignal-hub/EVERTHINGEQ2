@@ -3,7 +3,6 @@ title: Trade Baroness Elsindir
 type: named
 expansion: Blood of Luclin
 level: '122'
-difficulty: ^^^
 zone: '[[Fordel Midst: Bizarre Bazaar (Solo)]]'
 location: '{{waypoint -42, -1, 49}}'
 added_in: Blood of Luclin

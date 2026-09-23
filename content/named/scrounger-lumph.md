@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Boarfiend
 level: '77'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Boarfiend Caves]] {{waypoint 1631, 456, 46}}'
 drops:

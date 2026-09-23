@@ -3,7 +3,6 @@ title: The Sacrificed
 type: named
 expansion: Kunark Ascending
 level: '101'
-difficulty: ^
 zone: '[[Crypt of Dalnir: Ritual Chamber (Solo)]]'
 drops:
 - '[[Bloodied Goblin Sash]]'

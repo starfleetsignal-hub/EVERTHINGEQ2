@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Renda'Dal
 level: '63'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: Outside [[Tower of the Third Guard]] {{waypoint -523, 92, -1144}}
 drops:

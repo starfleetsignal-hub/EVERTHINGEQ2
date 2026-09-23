@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ratonga
 level: '106'
-difficulty: ^^^
 zone: '[[F.S. Distillery: Distill or Be Killed (Heroic)]]'
 location: Working on top floor of the **Lift to Sugarcane Press** {{waypoint 5, -101, -2}}
 aggressive: true

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Dark Elf
 level: '56'
-difficulty: ^
 zone: '[[The Lesser Faydark]]'
 location: '{{waypoint -97, -11, 8}}'
 drops:

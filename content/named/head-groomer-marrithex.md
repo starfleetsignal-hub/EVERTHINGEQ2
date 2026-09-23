@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Troll
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Brokenskull Loft]] {{waypoint 451, 41, 1200}}'
 achievement_xp: true

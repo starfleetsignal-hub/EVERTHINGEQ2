@@ -4,7 +4,6 @@ type: named
 expansion: Chaos Descending
 race: Air Elemental
 level: '116'
-difficulty: ^^
 zone: '[[Eryslai, the Kingdom of Wind]]'
 drops:
 - '[[Earthen Bracers of Knowing]]'

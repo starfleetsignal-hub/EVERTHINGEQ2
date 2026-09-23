@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Ghost
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: near the Salty Sail Port {{waypoint -898, -1087, 1006}}
 related_quests:

@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: The Terrorgore
 race: Minotaur
 level: '55'
-difficulty: ^
 zone: '[[The Arena (Instance)]]'
 location: Near the entrance, and fights with you in the arena.
 related_quests:

@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 subtitle: Furious Honey Elemental
 race: Elemental
 level: '95'
-difficulty: ^
 zone: '[[The Fractured Hive (Advanced Solo)]]'
 location: In a cave off of the main honey storage area {{waypoint 94, -28, -172}}
 achievement_xp: true

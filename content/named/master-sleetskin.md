@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Goblin
 level: '49'
-difficulty: ^^^
 group: Icegill Goblins
 zone: '[[Everfrost]]'
 location: Island in the north east corner of [[Icegill Lagoon]] at {{waypoint 186, -36, -1597}}

@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Golem
 level: '96'
-difficulty: ^
 zone: '[[The Nexus Core (Advanced Solo)]]'
 location: Center room of the Nexus
 health: 12,200,000

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Wolf
 level: '36'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: Ledge above [[Camp Redcap]] {{waypoint -446, 128, 713}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Pygmy
 level: '126'
-difficulty: ^
 zone: '[[Wracklands]]'
 location: Wanders the [[Twilight Coast]] around {{waypoint 70, 21, 564}}
 drops:

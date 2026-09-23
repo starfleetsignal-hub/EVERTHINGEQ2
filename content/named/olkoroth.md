@@ -4,7 +4,6 @@ type: named
 expansion: Terrors of Thalumbra
 race: Aberrant
 level: '103'
-difficulty: ^
 zone: '[[Thalumbra, the Ever Deep]]'
 location: '{{waypoint 447, 43, -784}}'
 drops:

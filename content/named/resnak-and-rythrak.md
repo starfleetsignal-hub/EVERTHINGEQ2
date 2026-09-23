@@ -7,7 +7,6 @@ level: '118'
 difficulty: Epic x4 ^^^
 zone: '[[Plane of Disease: Virulent Insurrection (Raid)]]'
 health: 2.9 Tril + 2.9 Tril
-specials: ','
 added_in: Planes of Prophecy
 image: images/Resnak_and_Rythrak.jpg
 categories:

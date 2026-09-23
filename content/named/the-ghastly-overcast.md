@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Ethereal
 level: '65'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: '[[Cloudmist Isle]] {{waypoint -597, 248, -145}}'
 drops:

@@ -3,7 +3,6 @@ title: Rector Droz'Kzar
 type: named
 expansion: Kunark Ascending
 level: '101'
-difficulty: ^
 zone: '[[Crypt of Dalnir: Ritual Chamber (Solo)]]'
 added_in: Kunark Ascending
 categories:

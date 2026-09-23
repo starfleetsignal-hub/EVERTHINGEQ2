@@ -4,7 +4,6 @@ type: named
 expansion: Kunark Ascending
 race: Cube
 level: '101'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'On the R/H side of [[Lost City of Torsis: Reaver''s Remnants (Solo)]] at {{waypoint -106, -6, -561}}'
 aggressive: true

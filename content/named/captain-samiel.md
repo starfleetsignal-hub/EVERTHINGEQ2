@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Human
 level: '47'
-difficulty: ^
 group: Samiel Pirates
 zone: '[[The Sinking Sands]]'
 location: Spawns inside the cave on [[Onerock Isle]] once all other Samiel Pirates on the island have been killed. {{waypoint -2142, -245, 828}}

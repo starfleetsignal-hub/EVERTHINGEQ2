@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Gnome
 level: '45'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: Cliff house above the [[Smokehorn Basin]] {{waypoint -945, 96, 1682}}
 achievement_xp: true

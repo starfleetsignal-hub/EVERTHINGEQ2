@@ -3,7 +3,6 @@ title: Dread Azure
 type: named
 expansion: Altar of Malice
 level: '100'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: In the water between [[The Isle of Refuge]] and [[South Dshinn]] {{waypoint 193, -98, 579}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Kobold
 level: '40'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: '[[Camp Redcap]]'
 placeholder: a Grikbar madcap

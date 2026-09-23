@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Beetle
 level: '16'
-difficulty: ^
 group: Klicnik
 zone: '[[Antonica]]'
 location: '[[Watchtower Plains]] at {{waypoint 150, -20, -511}}'

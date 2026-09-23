@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Orc
 level: '49'
-difficulty: ^
 group: Rujarkian Orcs
 zone: '[[The Sinking Sands]]'
 location: Patrols the [[Orc Highway]] {{waypoint -454, -146, -1169}}

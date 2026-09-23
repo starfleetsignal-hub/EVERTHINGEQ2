@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ghost
 level: '28'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: Top of [[N'Marr's Ascent]] {{waypoint -396, 60, -1303}}
 related_quests:

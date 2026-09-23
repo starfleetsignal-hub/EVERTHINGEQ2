@@ -4,7 +4,6 @@ type: named
 expansion: Terrors of Thalumbra
 race: Elemental
 level: '101'
-difficulty: ^
 zone: '[[Maldura: District of Ash (Advanced Solo)]]'
 location: '[[The Deep Quarry]]'
 drops:

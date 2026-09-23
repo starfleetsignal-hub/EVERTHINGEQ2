@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Dervish
 level: '39'
-difficulty: ^^^
 zone: '[[Runnyeye]]'
 location: Southwest area {{waypoint 215, -15, 38}}
 related_quests:

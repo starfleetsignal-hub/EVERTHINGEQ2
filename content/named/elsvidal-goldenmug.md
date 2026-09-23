@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Renda'Dal
 level: '58'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: In the bar overlooking [[New Tunarian Market]] {{waypoint -603, 72, -854}}
 placeholder: The specific [[A patron|patron]] that spawns at his /location

@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Ogre
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Gunthak''s Shanty]]'
 drops:

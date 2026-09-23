@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Golem
 level: '53'
-difficulty: ^^^
 zone: '[[Klak''Anon]]'
 location: Northwest corner of [[The Ore Extraction Site]] {{waypoint 151, -15, -141}}
 respawn: 25 minutes

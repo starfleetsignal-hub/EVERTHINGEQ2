@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Ettin
 level: '49'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Spawns in front of the statue at the location provided after all the surrounding [[A desert lunatic (The Sinking Sands)|desert lunatics]] are killed. {{waypoint -663, -107, -502}}
 drops:

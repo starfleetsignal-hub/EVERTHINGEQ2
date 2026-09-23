@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Wood Elf
 level: '27'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: Triggered spawn at the [[Qeynosian Scout Camp]]. {{waypoint -261, 1, -272}}
 related_quests:

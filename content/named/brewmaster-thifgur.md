@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ghost
 level: Scales
-difficulty: ^
 zone: '[[Hammerhall Barrel Chambers]]'
 location: Last room to the west, north off the hallway.
 drops:

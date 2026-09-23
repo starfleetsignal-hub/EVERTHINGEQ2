@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Halfling
 level: '34'
-difficulty: ^
 zone: '[[Enchanted Lands]]'
 location: '[[Lookout Stump]] {{waypoint 306, 2, -373}}'
 related_quests:

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Kobold
 level: '47'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: Roams around {{waypoint -980, 71, 1270}}
 related_quests:

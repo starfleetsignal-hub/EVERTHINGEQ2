@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Mantaray
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Swims North of [[Vallation Bay]] around {{waypoint -97, -21, -1220}}
 drops:

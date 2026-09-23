@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Lizardman
 level: '50'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Spawns at the end of a ring event near the two collapsed pillars at the southern end of the southern oasis of the [[The Twin Tears|Twin Tears]]. {{waypoint -662, -112, -752}}
 drops:

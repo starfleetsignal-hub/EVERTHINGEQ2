@@ -4,7 +4,6 @@ type: named
 expansion: Sentinel's Fate
 race: Leech
 level: '83'
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: '{{waypoint 453, 145, 2992}}'
 achievement_xp: true

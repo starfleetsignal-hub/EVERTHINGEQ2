@@ -3,7 +3,6 @@ title: Umbral Destroyer
 type: named
 expansion: Shattered Lands
 level: '85'
-difficulty: ^^^
 zone: '[[Neriak, City of Hate]]'
 categories:
 - Named Monster needing location

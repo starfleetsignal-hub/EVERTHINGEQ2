@@ -3,7 +3,6 @@ title: Ginbal
 type: named
 expansion: Ballads of Zimara
 level: '132'
-difficulty: ^
 zone: '[[Zimara Breadth]]'
 location: Roams Northern end of [[Columnar Highgarden]] at {{waypoint 739, 228, -818}}
 drops:

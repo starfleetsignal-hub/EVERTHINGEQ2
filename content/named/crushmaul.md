@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Golem
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Wanders [[Pakiat Bluffs]]  around {{waypoint -358, 13, -842}}
 drops:

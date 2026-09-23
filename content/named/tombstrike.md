@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Scorpion
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Pakiat Bluffs]] near {{waypoint -611, 49, -749}}'
 drops:

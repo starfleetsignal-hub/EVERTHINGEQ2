@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Myr'Dal
 level: '68'
-difficulty: ^^^
 zone: '[[Mistmoore Catacombs]]'
 location: '[[Conversion Chamber]]'
 drops:

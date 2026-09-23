@@ -2,7 +2,6 @@
 title: A Rallosian Captain
 type: named
 expansion: Shattered Lands
-race: '*'
 level: '36'
 difficulty: Heroic v
 zone: '[[The QSS Bootstrutter]]'

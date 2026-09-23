@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Piranha
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Drukyna Marsh]] in the lake around {{waypoint -797, -56, 125}}'
 health: '985000000'

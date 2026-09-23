@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Rat
 level: '10'
-difficulty: ^
 zone: '[[The Peat Bog]]'
 location: '[[The Refuse Heap]] {{waypoint 650.00, -35.00, 607.00}}'
 drops:

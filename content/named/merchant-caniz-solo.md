@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 subtitle: Merchant Caniz, an Iksar ghost
 race: Ghost
 level: '101'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'Within the [[Lost City of Torsis: The Spectral Market (Solo)]] at {{waypoint 31, 6, -109}}'
 aggressive: true

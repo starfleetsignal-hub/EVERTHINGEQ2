@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Fungusman
 level: '80'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Corrupted Tillage Patch]] {{waypoint -581, -933, 187}}'
 drops:

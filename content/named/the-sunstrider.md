@@ -3,7 +3,6 @@ title: The Sunstrider
 type: named
 expansion: Desert of Flames
 level: '55'
-difficulty: ^^^
 zone: '[[The Pillars of Flame]]'
 drops:
 - none known

@@ -4,7 +4,6 @@ type: named
 expansion: Chaos Descending
 race: Phoenix
 level: '117'
-difficulty: ^^^
 zone: '[[Doomfire, the Burning Lands]]'
 location: On [[Blazeplate Rise]] on the [[Fennin's Rest]] island. {{waypoint -365.70, 61.16, -337.60}}
 drops:

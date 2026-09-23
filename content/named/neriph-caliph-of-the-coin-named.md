@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: Neriph, Caliph of the Coin
 race: Human
 level: '55'
-difficulty: ^
 zone: '[[The Court of the Coin: Imminent Danger]]'
 location: At the center of the main room {{waypoint -1, 0, 25}}
 added_in: Desert of Flames

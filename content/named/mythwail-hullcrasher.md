@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Siren
 level: '46'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: In an alcove at the top of [[Hullcrusher Rock]] {{waypoint -1867, -166, -281}}
 respawn: ~10 minutes

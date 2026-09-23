@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Troll
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Gunthak''s Shanty]] {{waypoint -1291, -939, 545}}'
 related_quests:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnoll
 level: '12'
-difficulty: ^
 zone: '[[Antonica]]'
 location: At Darkpaw gnoll camps throughout western Antonica. One such camp is at {{waypoint 199.40, -18.98, 666.10}}
 placeholder: '[[A Darkpaw pack leader]]'

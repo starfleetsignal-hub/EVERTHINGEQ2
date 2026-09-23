@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Gnoll
 level: '52'
-difficulty: ^
 group: Anaz Mal Gnolls
 zone: '[[The Sinking Sands]]'
 location: Spawns when a player enters southern tent of the northern oasis of the [[The Twin Tears|Twin Tears]]. {{waypoint -344, -130, -1043}}

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Goblin
 level: '32'
-difficulty: ^
 zone: '[[Kaladim]]'
 location: East tower of [[Bloodforge Gate]] {{waypoint -24, 44, -131}}
 related_quests:

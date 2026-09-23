@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Wood Elemental
 level: '55'
-difficulty: ^
 zone: '[[The Lesser Faydark]]'
 location: '[[The Mossy Stump]] {{waypoint -76, -17, -299}}'
 achievement_xp: true

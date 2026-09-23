@@ -5,7 +5,6 @@ expansion: Rise of Kunark
 in_game_name: Puncture
 race: Sabertooth
 level: '74'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: South of [[The City of Mist]], paths between {{waypoint 86, 116, -354}} and {{waypoint -249, 118, -336}}
 placeholder: '[[A lost sabrecat wanderer]]'

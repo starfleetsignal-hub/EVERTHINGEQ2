@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Iron Guardian
 level: '96'
-difficulty: ^
 zone: '[[The Nexus Core (Advanced Solo)]]'
 location: In the east room of the Nexus
 health: 12,300,000

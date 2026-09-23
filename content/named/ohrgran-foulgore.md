@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Orc
 level: 15-16
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: Far Eastern Edge of [[The Commonlands]] south of [[The Sprawl]] entrance. {{waypoint -1217, -47, 609}}
 health: Needed

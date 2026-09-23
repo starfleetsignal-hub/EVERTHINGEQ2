@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Lizardman
 level: '50'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: On the southern island in the southern [[The Twin Tears|Twin Tears]] lake {{waypoint -503, -133, -786}}
 drops:

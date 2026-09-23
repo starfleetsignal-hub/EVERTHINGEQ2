@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Wolf
 level: '15'
-difficulty: ^
 zone: '[[Darklight Wood]]'
 location: '{{waypoint 271, -59, -216}}'
 drops:

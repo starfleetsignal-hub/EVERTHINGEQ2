@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Bone Golem
 level: '20'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: '[[Barrage Meadow]]; spawn only during [[The Cleansing of the Bonepile]]. {{waypoint -1314, -79, -271}}'
 achievement_xp: true

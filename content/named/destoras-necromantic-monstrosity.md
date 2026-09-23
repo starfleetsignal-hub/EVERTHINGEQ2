@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Skeleton
 level: '102'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 drops:
 - No unique drops

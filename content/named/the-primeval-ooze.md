@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Ooze
 level: '100'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: '[[Tar Pits of Inevitability]] {{waypoint -964.17, 33.45, 271.61}}'
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnoll
 level: '16'
-difficulty: ^^^
 zone: '[[Blackburrow]]'
 location: '{{waypoint -42.40, -17.51, 30.17}}'
 achievement_xp: true

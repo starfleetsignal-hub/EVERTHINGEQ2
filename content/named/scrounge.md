@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Goblin
 level: '28'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: '[[Camp Leeot]] {{waypoint 111, 64, -1446}}'
 drops:

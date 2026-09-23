@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Goblin
 level: '82'
-difficulty: ^^^
 zone: '[[Nu''roga]]'
 location: In an alcove in the northwest corner of [[Sacrificial Chamber]] (first floor) {{waypoint 65, 0, -39}}
 primary_damage: slashing

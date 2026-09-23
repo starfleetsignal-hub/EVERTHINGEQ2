@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Ashlok
 level: '97'
-difficulty: ^
 zone: '[[Wurmbone''s End (Advanced Solo)]]'
 location: '[[All-Tender''s Altar]] {{waypoint 637.47, -158.86, -481.82}}'
 drops:

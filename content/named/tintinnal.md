@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Wisp
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Wanders the [[Amphitheater of Song]] around {{waypoint 172, -156, 974}}
 drops:

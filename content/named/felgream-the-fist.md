@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Galorian
 level: '126'
-difficulty: ^
 zone: '[[Wracklands]]'
 location: Among the [[Bloodtribe Ruins]] at {{waypoint 323, -8, 249}}
 drops:

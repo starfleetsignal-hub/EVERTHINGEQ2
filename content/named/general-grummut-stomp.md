@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Ogre
 level: '79'
-difficulty: ^^
 zone: '[[Moors of Ykesha]]'
 location: Upper central area of the Thullosian ruins, which are southwest of Firmroot Moot.
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ghost
 level: '29'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: On the [[Hidden Beach Path]] {{waypoint 470, 0, -356}}
 related_quests:

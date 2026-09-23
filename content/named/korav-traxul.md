@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Human
 level: '38'
-difficulty: ^^^
 zone: '[[Rivervale]]'
 location: South end of the Valeflow River, on the porch of the tree house near the drain {{waypoint -183, 2, 212}}
 drops:

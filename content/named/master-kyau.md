@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Human
 level: '60'
-difficulty: ^^^
 zone: '[[The Lesser Faydark]]'
 location: North of Wu's camp {{waypoint 850, 138, -468}}
 drops:

@@ -3,7 +3,6 @@ title: Altraxas Bhotlis
 type: named
 expansion: Shattered Lands
 level: Scales
-difficulty: ^
 zone: '[[West Freeport]]'
 location: outside Blood Haze Inn {{waypoint 282, -4, 102}}
 categories:

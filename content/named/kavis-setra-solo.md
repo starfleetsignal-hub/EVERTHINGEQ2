@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Akhevan
 level: '100'
-difficulty: ^
 zone: '[[Ssraeshza Temple (Solo)]]'
 location: Final room with the teleporter
 drops:

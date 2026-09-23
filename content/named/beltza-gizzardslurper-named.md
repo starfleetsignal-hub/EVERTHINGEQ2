@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Troll
 level: '78'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In a tree on the northeast edge of [[Firmroot Moot]] {{waypoint 57, -71.5, -524}}
 related_quests:

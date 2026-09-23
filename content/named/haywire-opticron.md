@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Clockwork
 level: '42'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: In the pit near [[The Great Gear (Steamfont Mountains)|The Great Gear]] {{waypoint -1120, 79, 936}}
 drops:

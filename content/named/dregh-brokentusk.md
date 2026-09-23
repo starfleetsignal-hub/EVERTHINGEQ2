@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Orc
 level: '12'
-difficulty: ^
 group: Brokentusk Orcs
 zone: '[[The Ruins]]'
 location: '[[Brokentusk Encampment]] {{waypoint -133, 2, 158}}'

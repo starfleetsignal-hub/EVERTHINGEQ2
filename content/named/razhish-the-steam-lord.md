@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Efreeti
 level: 53-Scales
-difficulty: ^^^
 zone: '[[Najena''s Hollow Tower]]'
 location: The steam engine room one level 1 down from the top of the tower spiral {{waypoint -185, -113, 111}}
 respawn: None

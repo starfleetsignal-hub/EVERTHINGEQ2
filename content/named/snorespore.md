@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Fungusman
 level: '77'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: In [[Doom's Morass]], inside a hollow tree {{waypoint 289, -121, 994}}
 achievement_xp: true

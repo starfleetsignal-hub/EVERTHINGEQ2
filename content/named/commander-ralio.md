@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Human
 level: '20'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: In a nook to the west of [[Captain's Deck]] in the [[Yapping Maze]], at {{waypoint 1478, -15, 221}}
 related_quests:

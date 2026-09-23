@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Dragon
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: On the [[Droumlunds]] island. {{waypoint 441, 370, -757}}
 health: 35,800,000

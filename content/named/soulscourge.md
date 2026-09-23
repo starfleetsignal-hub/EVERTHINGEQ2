@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Wisp
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: Spawns at the conclusion of [[Satiated Hunger]]
 added_in: Tears of Veeshan

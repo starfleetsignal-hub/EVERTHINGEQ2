@@ -5,7 +5,6 @@ expansion: Blood of Luclin
 subtitle: The 2 forms of Cluster
 race: Dervish
 level: '118'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: Hovers in the hills above the [[Teeming Caldera]] around {{waypoint -476, 72, -36}}
 drops:

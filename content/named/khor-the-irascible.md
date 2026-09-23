@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Minotaur
 level: '43'
-difficulty: ^
 group: Bloodhorn Minotaurs
 zone: '[[Steamfont Mountains]]'
 location: South of [[Goldsteam Geyser]], West of [[The Great Gear (Steamfont Mountains)|The Great Gear]], at {{waypoint -960, 105, 950}}

@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Octopus
 level: '103'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: In the water between [[Kithicor Island]] and [[Grim Shales]] {{waypoint -273, -25, -135}}
 health: 12.3 million

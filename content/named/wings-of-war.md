@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Drakota
 level: '67'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: '[[Isle of Awakening]] {{waypoint 485, 173, 232}}'
 respawn: 20 minutes

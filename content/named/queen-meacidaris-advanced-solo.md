@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Bixie
 level: '96'
-difficulty: ^
 zone: '[[The Fractured Hive (Advanced Solo)]]'
 location: On the platform at the top of the Queen's Chamber
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Minotaur
 level: '43'
-difficulty: ^
 group: Bloodhorn Minotaurs
 zone: '[[Steamfont Mountains]]'
 location: In the valley of [[The Great Gear (Steamfont Mountains)|The Great Gear]] near the entrance to [[The Mines of Meldrath]]

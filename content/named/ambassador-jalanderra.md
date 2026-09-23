@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Fairy
 level: 11-12
-difficulty: ^
 group: Sunshimmer Sprites
 zone: '[[Oakmyst Forest]]'
 location: the bridge between the sprite and fairy hilltops {{waypoint 868.30, 11.41, -228.34}}

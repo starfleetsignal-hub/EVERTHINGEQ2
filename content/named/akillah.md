@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Terrorbird
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Wanders the [[Metetherial Plains]] around {{waypoint 166, 10, 334}}
 health: 800-900 million

@@ -5,7 +5,6 @@ expansion: Blood of Luclin
 in_game_name: Deathpetal
 race: Carnivorous Plant
 level: '118'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: On the shore of [[Recuso Bluff]] at {{waypoint -794, 5, 797}}
 drops:

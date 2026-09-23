@@ -5,7 +5,6 @@ expansion: Altar of Malice
 in_game_name: Kavis Set'Ra
 race: Akhevan
 level: '100'
-difficulty: ^
 zone: '[[Ssraeshza Temple (Advanced Solo)]]'
 location: '[[The Rebuilt Acrylic Transport Room]] {{waypoint 154, -47, -40}}'
 drops:

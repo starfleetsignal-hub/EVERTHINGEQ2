@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Drolvarg
 level: '72'
-difficulty: ^
 zone: '[[Kylong Plains]]'
 location: '[[The Dreadlands]] {{waypoint 415, 10, -39}}'
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Chaos Descending
 race: Nilborien
 level: '117'
-difficulty: ^^^
 zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
 location: Hovering above a platform on the Northern isle of [[Fennin's Rest]] at {{waypoint -363, 61, -341}}
 specials: Teleport

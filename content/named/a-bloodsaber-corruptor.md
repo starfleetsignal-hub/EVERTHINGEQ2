@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Human
 level: '20'
-difficulty: ^
 group: Bloodsabers
 zone: '[[Antonica]]'
 location: Any 'a highwayman campfire' in northeast Antonica - see below {{waypoint -2376, -13, -840}}

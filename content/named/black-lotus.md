@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Mantrap
 level: '75'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '{{waypoint 328, 55, -507}}'
 drops:

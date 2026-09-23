@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 subtitle: Spectral Beguiler, a Sarnak ghost
 race: Ghost
 level: '101'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'On the L/H side of [[Lost City of Torsis: Reaver''s Remnants (Solo)]] at {{waypoint 135, -6, -557}}'
 aggressive: true

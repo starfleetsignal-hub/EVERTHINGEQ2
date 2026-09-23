@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Goblin
 level: '47'
-difficulty: ^^
 group: Sootfoot Goblins
 zone: '[[Lavastorm]]'
 location: In a hut in southern [[Najena's Valley]] {{waypoint -320.00, -129.00, 459.00}}

@@ -4,10 +4,8 @@ type: named
 expansion: Desert of Flames
 race: Scorpion
 level: '50'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: East of [[Camp D'Sas]] {{waypoint -228, -105, -884}}
-placeholder: '*'
 drops:
 - '[[Cuirass of the Matriarch]]'
 - '[[Handwraps of the Matriarch]]'

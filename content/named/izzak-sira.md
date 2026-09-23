@@ -4,7 +4,6 @@ type: named
 expansion: Kunark Ascending
 race: Ghost
 level: '101'
-difficulty: ^
 zone: '[[Crypt of Dalnir: Ritual Chamber (Solo)]]'
 drops:
 - '[[Archelogist''s Find]]'

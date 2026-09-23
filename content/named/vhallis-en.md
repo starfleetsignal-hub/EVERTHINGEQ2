@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Ghoul
 level: '101'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: Spawns automatically during a quest
 related_quests:

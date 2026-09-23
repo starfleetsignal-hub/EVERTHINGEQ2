@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Wisp
 level: '70'
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: '[[Cacotoxic Stain]] {{waypoint 408, 201, -501}}'
 drops:

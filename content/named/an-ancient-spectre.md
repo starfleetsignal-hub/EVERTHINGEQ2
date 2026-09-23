@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Spectre
 level: '118'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: On top of a mountain peak to the East of Grieg's Spire platform at {{waypoint 434, 348, -505}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Pygmy
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: '[[Drukyna Marsh]] near {{waypoint -720, -51, 40}}'
 drops:

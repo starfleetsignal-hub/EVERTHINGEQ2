@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: Welkus, Guardian of Wurms
 race: Wyvern
 level: '96'
-difficulty: ^
 zone: '[[Temple of Veeshan: Halls of the Betrayer (Advanced Solo)]]'
 location: Flies up and down the hallway at the loc below {{waypoint 1633.98, 320.14, 269.08}}
 added_in: Tears of Veeshan

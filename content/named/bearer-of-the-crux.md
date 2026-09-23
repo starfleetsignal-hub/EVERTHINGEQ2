@@ -10,7 +10,6 @@ location: Just north west of the Cloud Station from Drednever Crash Site {{waypo
 health: 1,450,000
 primary_damage: crushing
 specials: casts a long-lasting, non-breakable (but curable) fear several times during the fight
-placeholder: '*'
 drops:
 - '[[Tempestuous Drakescale Leggings]]'
 achievement_xp: true

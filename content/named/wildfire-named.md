@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 in_game_name: Wildfire
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Rooming in that location {{waypoint 808, 129, -61}}
 specials: '[[Stunning Shards]]'

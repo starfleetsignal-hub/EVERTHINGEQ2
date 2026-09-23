@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Living Statue
 level: '51'
-difficulty: ^
 zone: '[[The Court of Truth (Quest Instance)]]'
 location: Bottom floor, spawns after banner is removed from display case. {{waypoint -28, -18, 41}}
 added_in: Desert of Flames

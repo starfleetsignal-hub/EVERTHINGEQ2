@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Skeleton
 level: '50'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: '[[The Sunken Spire]]; spawns at the end of a ring event. {{waypoint -1032, -106, -884}}'
 drops:

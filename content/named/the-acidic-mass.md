@@ -7,7 +7,6 @@ level: '49'
 difficulty: Heroic ^^^
 zone: '[[The Temple of Cazic-Thule]]'
 location: On a platform near the top of the large pyramid {{waypoint 0.00, 44.00, -214.00}}
-placeholder: '*'
 drops:
 - '[[Acid Marked Blade]]'
 - '[[Acid Scarred Chain Tunic]]'

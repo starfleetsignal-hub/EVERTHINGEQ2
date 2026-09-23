@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Ghost
 level: '96'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: '[[The Isle of Refuge]] {{waypoint 622.15, 23.33, 1142.40}}'
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Troll
 level: '80'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Brokenskull Farpost]] {{waypoint -603, -1079, 1362}}'
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Ballads of Zimara
 race: Golem
 level: '131'
-difficulty: ^
 zone: '[[Aether Wroughtlands]]'
 location: Wanders the lava flow in [[Iron Flats]] around {{waypoint 48, -46, -380}}
 drops:

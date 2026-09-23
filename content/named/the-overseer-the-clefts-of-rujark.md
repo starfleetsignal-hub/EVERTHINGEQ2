@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: The Overseer
 race: Orc
 level: '52'
-difficulty: ^
 group: Steelslave Orcs
 zone: '[[The Clefts of Rujark]]'
 location: '[[The Overseer''s Chamber]] {{waypoint 8, -5, -79}}'

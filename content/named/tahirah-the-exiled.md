@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Allyrian
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Within [[Aetherscar]] at {{waypoint 746, 12, -493}}
 drops:

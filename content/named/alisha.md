@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Ghost
 level: '125'
-difficulty: ^
 zone: '[[Aurelian Coast]]'
 location: Inside a cabin within [[Spectral Ruins]] at {{waypoint 543, 84, -47}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Elemental
 level: '28'
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: on the Northeast side of [[The Quarry (POI)|The Quarry]]
 drops:

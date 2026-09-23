@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Halfling
 level: '62'
-difficulty: ^
 zone: '[[Loping Plains]]'
 location: '[[Shinspitter Camp]], north of [[Wayunder Lake]] {{waypoint -661, -4, -223}}'
 related_quests:

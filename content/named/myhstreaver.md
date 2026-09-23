@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Flying Snake
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Flies above the river around {{waypoint -194, -26, 637}}
 drops:

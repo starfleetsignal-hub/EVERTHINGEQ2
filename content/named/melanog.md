@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Goblin
 level: '59'
-difficulty: ^
 zone: '[[The Lesser Faydark]]'
 location: in the tunnels known as [[Emerald Halls Hollow]] {{waypoint 260, -55, -179}}
 drops:

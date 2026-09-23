@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Orc
 level: '122'
-difficulty: ^^^
 zone: '[[*]]'
 added_in: Blood of Luclin
 categories:

@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Zombie
 level: '51'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: On a rock near [[The Eye of Anuk]] {{waypoint -602, -126, -1279}}
 drops:

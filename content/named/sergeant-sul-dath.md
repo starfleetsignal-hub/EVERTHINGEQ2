@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Skeleton
 level: '50'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Spawns at the end of a ring event near some rocks in the northern part of [[The Stilled Sea]]. {{waypoint -1109, -106, -1129}}
 drops:

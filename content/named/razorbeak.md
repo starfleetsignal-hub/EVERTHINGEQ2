@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Vulrich
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Ykeshan Flats]] {{waypoint -890, -1046, 878}}'
 drops:

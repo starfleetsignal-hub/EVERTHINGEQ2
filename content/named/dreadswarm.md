@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Beetle
 level: '46'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: On some rocks in [[The Stilled Sea]] {{waypoint -1343, -185, -365}}
 drops:

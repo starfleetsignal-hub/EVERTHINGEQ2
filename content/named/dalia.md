@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Human
 level: '53'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: '[[The Golden Scepter]] {{waypoint 95, 148, -137}}'
 added_in: Desert of Flames

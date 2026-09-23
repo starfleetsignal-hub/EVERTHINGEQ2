@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Wolf
 level: '10'
-difficulty: ^
 zone: '[[Greater Faydark]]'
 location: '{{waypoint -164.27, 10.81, 196.63}}'
 achievement_xp: true

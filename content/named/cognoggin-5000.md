@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Clockwork
 level: '54'
-difficulty: ^
 zone: '[[The Lesser Faydark]]'
 location: wanders the road from [[Lower Grove Station]] to [[Greater Faydark Station]] {{waypoint -540.66, -56.54, -47.51}}
 drops:

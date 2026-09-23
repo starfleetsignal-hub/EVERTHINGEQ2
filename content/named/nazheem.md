@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Human
 level: '51'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: Tent area across from the [[Library of Light]] {{waypoint -214, 161, -99}}
 related_quests:

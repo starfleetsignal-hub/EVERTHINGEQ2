@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Spider
 level: '92'
-difficulty: ^
 zone: '[[Great Divide]]'
 location: '{{waypoint -342, -383, 244}}'
 health: '770000'

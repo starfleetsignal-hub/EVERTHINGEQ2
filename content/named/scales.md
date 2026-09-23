@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Crocodile
 level: '73'
-difficulty: ^
 zone: '[[Fens of Nathsar]]'
 respawn: 2 hours
 placeholder: '[[A Nathsarian croc]]'

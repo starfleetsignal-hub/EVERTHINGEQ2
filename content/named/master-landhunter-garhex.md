@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Allu'thoa
 level: '99'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: '[[Gazanti]] on [[South Dshinn]]'
 drops:

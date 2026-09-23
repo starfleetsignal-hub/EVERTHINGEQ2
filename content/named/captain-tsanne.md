@@ -5,7 +5,6 @@ expansion: Shattered Lands
 subtitle: Captain T'Sanne
 race: Skeleton
 level: '29'
-difficulty: ^
 group: Gul'Thex
 zone: '[[Nektulos Forest]]'
 location: Possible spawn at the end of a ring-event inside [[Citadel of Gul'thex]]. {{waypoint 687, -0, -718}}

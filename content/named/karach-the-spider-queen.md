@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Spider
 level: '9'
-difficulty: ^
 zone: '[[Oakmyst Forest]]'
 location: By the tree on the ledge outside [[Teardrop Cave]] {{waypoint 930, 10, -214}}
 primary_damage: Piercing (13-19)

@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Droag
 level: '83'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: '[[Dracur''s Breath]]'
 drops:

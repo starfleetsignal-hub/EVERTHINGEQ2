@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Renda'Dal
 level: '65'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: Upper level of Thex Castle, in front of the door to Throne of New Tunaria {{waypoint -92, 95, -245}}
 added_in: Echoes of Faydwer

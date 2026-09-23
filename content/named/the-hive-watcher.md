@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Apopheli
 level: '95'
-difficulty: ^
 zone: '[[The Withered Lands]]'
 location: Bug Area, east of Mourning Lowlands {{waypoint -2858.42, -534.04, -1185.83}}
 primary_damage: Sac Spray (poison)

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Centaur
 level: Scales
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: Around [[Northern Bandit Camp]] at {{waypoint 1231, 2.66, 372}}
 related_quests:

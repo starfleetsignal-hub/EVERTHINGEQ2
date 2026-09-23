@@ -4,7 +4,6 @@ type: named
 expansion: Kunark Ascending
 race: Living Statue
 level: '102'
-difficulty: ^^
 zone: '[[Kunzar Jungle]]'
 location: 'At the Northermost point of [[Lost City of Torsis: The Spectral Market (Solo)]] at {{waypoint 23, 18, -314}}'
 aggressive: true

@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 in_game_name: Akaranseth
 race: Orc
 level: '65'
-difficulty: ^
 zone: '[[The Acadechism]]'
 location: '{{waypoint -186.58, 11.32, -5.24}}'
 achievement_xp: true

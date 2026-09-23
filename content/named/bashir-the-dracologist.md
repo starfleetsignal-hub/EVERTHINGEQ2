@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Droag
 level: '68'
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: '[[Bashir''s Excavation]] (island west of  center island) {{waypoint 139, -33, 188}}'
 drops:

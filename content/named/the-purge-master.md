@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Golem
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: Found on [[Sothshae]] isle. {{waypoint 945, 318, 519}}
 drops:

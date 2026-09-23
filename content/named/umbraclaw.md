@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Fearstalker
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Wanders the [[Metetherial Plains]] around {{waypoint 132, 109, -42}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Satyr
 level: '95'
-difficulty: ^
 zone: '[[The Withered Lands]]'
 location: Near Mourning Lowlands, in a cave [[Mourning Lowlands]] {{waypoint -1574.95, -589.96, -832.69}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Crab
 level: '13'
-difficulty: ^
 zone: '[[Antonica]]'
 location: On the beach south of [[Archer's Wood]] {{waypoint -663, -38, 820}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Spheroid
 level: '9'
-difficulty: ^
 zone: '[[The Peat Bog]]'
 location: One "room" past the big rat nest after the pond and giant slug areas {{waypoint 768, -36, 579}}
 added_in: Shattered Lands

@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Grimling
 level: '103'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: Spawns automatically
 related_quests:

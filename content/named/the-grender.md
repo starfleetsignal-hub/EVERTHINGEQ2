@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Satyr
 level: '10'
-difficulty: ^
 zone: '[[The Grender''s Lair]]'
 location: The very back of the lair {{waypoint -146, -29, -17}}
 primary_damage: piercing

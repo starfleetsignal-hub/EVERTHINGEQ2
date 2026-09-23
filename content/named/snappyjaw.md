@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Crocodile
 level: '78'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In the swamp near [[Firmroot Moot]] {{waypoint 130, -97, -239}}
 aggressive: true

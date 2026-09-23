@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Horror
 level: '118'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: '{{waypoint -99, 307, -811}}'
 drops:

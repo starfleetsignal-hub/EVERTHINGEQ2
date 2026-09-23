@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Zombie
 level: '16'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: Bow of [[L.M.S. Retribution]] at {{waypoint -1099, -204, -816}}
 achievement_xp: true

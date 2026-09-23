@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Skeleton
 level: '15'
-difficulty: ^^^
 group: Shin'Ree Orcs
 zone: '[[The Wailing Caves]]'
 location: At the bottom of the skeleton pit {{waypoint -66.38, -51.70, -178.56}}

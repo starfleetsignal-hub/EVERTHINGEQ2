@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Centipede
 level: '118'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: In Southern most area of [[Marus Chitin Mounds]] around {{waypoint 350, 145, 925}}
 drops:

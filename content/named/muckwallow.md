@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ooze
 level: '25'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: At the bottom of [[The Pot]]. {{waypoint -1047, -28, -500}}
 placeholder: '[[A bloated soul leech]]'

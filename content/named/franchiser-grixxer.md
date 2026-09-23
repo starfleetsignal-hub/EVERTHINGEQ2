@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Iksar
 level: '80'
-difficulty: ^^^
 zone: '[[Sebilis]]'
 location: Outside the [[First Bank of Sebilis]]. {{waypoint -95, 0, 211}}
 drops:

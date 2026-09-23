@@ -4,7 +4,6 @@ type: named
 expansion: Terrors of Thalumbra
 race: Treant
 level: '103'
-difficulty: ^
 zone: '[[Thalumbra, the Ever Deep]]'
 location: A big tree near [[Abyssal Overlook]] {{waypoint -259, 224, 497}}
 drops:

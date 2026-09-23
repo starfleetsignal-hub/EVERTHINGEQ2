@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Catoplebas
 level: '32'
-difficulty: ^^^
 zone: '[[Tombs of Night]]'
 location: paths in water on first level if up
 drops:

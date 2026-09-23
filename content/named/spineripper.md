@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Owlbear
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: roaming around location {{waypoint -780, 37, 730}}
 drops:

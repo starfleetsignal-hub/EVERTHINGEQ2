@@ -3,7 +3,6 @@ title: Aglazia Nullfang
 type: named
 expansion: Rage of Cthurath
 level: '139'
-difficulty: ^^^
 zone: '[[Oogothl Sprawl: Coral Roost (Solo)]]'
 added_in: Rage of Cthurath
 image: images/Aglazia.png

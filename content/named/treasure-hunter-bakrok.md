@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Orc
 level: '17'
-difficulty: ^
 group: Bloodskull Orcs
 zone: '[[Bloodskull Valley: The Excavation Site]]'
 location: Final wave of the ring event at [[Bloodskull Treasure Rock]]. {{waypoint -105, -39, 959}}

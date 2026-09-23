@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Planar Elemental
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Among the peaks between [[Aetherscar]] and [[Khali'Yrzu]] around {{waypoint 349, 447, -487}}
 drops:

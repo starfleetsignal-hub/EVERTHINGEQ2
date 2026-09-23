@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Rockhopper
 level: '118'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: Roams coastline with other rockhoppers, around {{waypoint -403, 6, 750}}
 drops:

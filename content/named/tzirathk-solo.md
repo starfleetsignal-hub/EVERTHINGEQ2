@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 subtitle: Tzirathk, a Sarnak ghost
 race: Ghost
 level: '101'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'Central room of [[Lost City of Torsis: Reaver''s Remnants (Solo)]] at {{waypoint 20, -5, -717}}'
 aggressive: true

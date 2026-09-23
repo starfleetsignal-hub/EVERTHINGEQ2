@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Snake
 level: '35'
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: In the cave with all the [[A cave adder|cave adders]] {{waypoint -466, -48, -121}}
 placeholder: '[[A cave adder]]'

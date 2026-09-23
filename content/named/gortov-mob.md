@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: Gortov
 race: Droag
 level: '101'
-difficulty: ^
 zone: '[[Vesspyr Isles]]'
 location: On the small island west of [[Karak Peak]] {{waypoint -124, 29, -509}}
 health: 1,100,000

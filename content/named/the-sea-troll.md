@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Angler
 level: '102'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: In the water between [[Kithicor Island]] and [[South Dshinn]] {{waypoint -490, -30, 733}}
 drops:

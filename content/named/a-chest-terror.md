@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Mimic
 level: '23'
-difficulty: ^
 zone: '[[Stormhold]]'
 location: In the treasure chest room next to the library {{waypoint -92, -32, -163}}
 drops:

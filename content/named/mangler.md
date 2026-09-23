@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ghost
 level: '48'
-difficulty: ^^^
 zone: '[[Rivervale]]'
 location: Pathing along the main road leading through the zone
 drops:

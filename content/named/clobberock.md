@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Golem
 level: '118'
-difficulty: ^
 zone: '[[The Blinding]]'
 location: On the shores of [[Umbral Sea]] at {{waypoint 62, 9, 533}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Clockwork
 level: '46'
-difficulty: ^
 zone: '[[Klak''Anon]]'
 location: '[[The Scrapyard]] {{waypoint 77, 17, 307}}'
 primary_damage: Slashing

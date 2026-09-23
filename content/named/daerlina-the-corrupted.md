@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Fae
 level: '96'
-difficulty: ^
 zone: '[[The Withered Lands]]'
 location: In the swamp just below the [[Sanctuary of Tears]] travel post {{waypoint -194.35, -735.98, -558.20}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Skeleton
 level: '54'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Atop the [[A skeletal cobra|skeletal cobra]] rock near [[The Undercity Arena]] carpet {{waypoint -353, -93, -419}}
 achievement_xp: true

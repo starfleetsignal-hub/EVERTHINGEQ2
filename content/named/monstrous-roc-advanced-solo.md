@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 subtitle: Monstrous Roc
 race: Terrorbird
 level: '96'
-difficulty: ^
 zone: '[[The Fractured Hive (Advanced Solo)]]'
 achievement_xp: true
 added_in: Tears of Veeshan

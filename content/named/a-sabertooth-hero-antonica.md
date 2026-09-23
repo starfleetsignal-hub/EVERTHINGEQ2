@@ -5,7 +5,6 @@ expansion: Shattered Lands
 in_game_name: A Sabertooth Hero
 race: Gnoll
 level: '20'
-difficulty: ^
 zone: '[[Antonica]]'
 location: Near the hidden entrance to Blackburrow {{waypoint -1256.5, -2, 897}}
 categories:

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Kobold
 level: '37'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: on a ledge up the ramp behind the Mazkeen camp in the North side of the [[Mazkeen Crater]]. {{waypoint -677.00, 149.00, 587.00}}
 drops:

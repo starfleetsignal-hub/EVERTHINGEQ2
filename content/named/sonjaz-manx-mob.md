@@ -6,7 +6,6 @@ in_game_name: Sonjaz Manx
 race: Iksar
 class: Bruiser
 level: '75'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: '{{waypoint 596, 66, -452}}'
 drops:

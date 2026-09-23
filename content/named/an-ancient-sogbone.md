@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Skeleton
 level: '14'
-difficulty: ^
 zone: '[[Antonica]]'
 location: In the small underwater graveyard in Qeynos moat {{waypoint 544, -50, 378}}
 placeholder: '[[A timeworn sogbone]]'

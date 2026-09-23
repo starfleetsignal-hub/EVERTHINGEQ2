@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Rust Monster
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Ykeshan Flats]] {{waypoint -884, -1065, 764}}'
 drops:

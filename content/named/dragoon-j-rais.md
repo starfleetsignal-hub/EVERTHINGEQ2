@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Skeleton
 level: '23'
-difficulty: ^
 group: Gul'Thex
 zone: '[[Nektulos Forest]]'
 location: West of [[J'Rais Bridge]]. {{waypoint -46.75, -0.05, 110.00}}

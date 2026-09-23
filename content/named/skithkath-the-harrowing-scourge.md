@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Skirth
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: Found in the center of [[Nuthshae]] isle. {{waypoint 865, 268, -28}}
 drops:

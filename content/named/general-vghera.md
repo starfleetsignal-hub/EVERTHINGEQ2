@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Zombie
 level: '100'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: '{{waypoint 764, 70, 1357}}'
 drops:

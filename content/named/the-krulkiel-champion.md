@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Bugbear
 level: '33'
-difficulty: ^
 group: Clan Krulkiel
 zone: '[[Butcherblock Mountains]]'
 location: On the natural stone bridge, at {{waypoint 75, 243, -255}}

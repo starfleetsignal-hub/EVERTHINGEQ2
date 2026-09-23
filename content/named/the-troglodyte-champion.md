@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Troglodyte
 level: '18'
-difficulty: ^
 zone: '[[Bloodskull Valley: The Excavation Site]]'
 location: Spawns at end of minor ring event inside [[The Bloodskull Arena]]. {{waypoint 162, -48, 770}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Manticore
 level: '40'
-difficulty: ^
 zone: '[[The Darkened Den]]'
 specials: Can sleep pets / players, deals poison over time, AoE attack (100-200 damage), sees Invisible
 placeholder: tainted drake

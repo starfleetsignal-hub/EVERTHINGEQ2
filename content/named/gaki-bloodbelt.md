@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Orc
 level: Scales
-difficulty: ^
 zone: '[[Zek, the Orcish Wastes]]'
 location: Spawns on the road just outside the [[Orc Encampment]] at Loc {{waypoint 365, -42, 231}}
 achievement_xp: true

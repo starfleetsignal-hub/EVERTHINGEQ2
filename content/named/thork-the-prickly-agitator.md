@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Etherpine
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: In the center of [[Veeshenna Tol]] {{waypoint 154, 124, 805}}
 health: 15,600,000

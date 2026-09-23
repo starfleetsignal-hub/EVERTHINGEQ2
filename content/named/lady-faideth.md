@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Human
 level: '18'
-difficulty: ^
 zone: '[[Antonica]]'
 location: In the [[Glade of the Coven]] {{waypoint -1517, -8, -223}}
 drops:

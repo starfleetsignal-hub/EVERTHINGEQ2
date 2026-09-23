@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Drakota
 level: '47'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: '[[Kerafyrm''s Crater]] {{waypoint -1093, 61, 1249}}'
 placeholder: '[[Viridian drake]]'

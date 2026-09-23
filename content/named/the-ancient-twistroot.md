@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Treant
 level: '19'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: '[[The Hidden Vale]] around {{waypoint -250, -48, 837}}'
 achievement_xp: true

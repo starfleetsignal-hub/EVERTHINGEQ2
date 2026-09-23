@@ -4,7 +4,6 @@ type: named
 expansion: Ballads of Zimara
 race: Basilisk
 level: '131'
-difficulty: ^
 zone: '[[Aether Wroughtlands]]'
 location: '{{waypoint -311, -41, -440}}'
 drops:

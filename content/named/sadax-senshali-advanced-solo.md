@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Akhevan
 level: '105'
-difficulty: ^^
 zone: '[[Castle Highhold (Advanced Solo)]]'
 achievement_xp: true
 added_in: Altar of Malice

@@ -5,7 +5,6 @@ expansion: Desert of Flames
 in_game_name: a Master Assassin
 race: Human
 level: '56'
-difficulty: ^^^
 zone: '[[The Court of the Coin: Imminent Danger]]'
 location: Spawns at the zone-in once several waves of hired assassins have been taken care of.
 drops:

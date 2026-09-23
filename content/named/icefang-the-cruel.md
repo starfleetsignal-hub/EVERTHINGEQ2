@@ -4,7 +4,6 @@ type: named
 expansion: Destiny of Velious
 race: Spider
 level: '94'
-difficulty: ^^^
 zone: '[[Hold of Rime: The Ascent]]'
 drops:
 - '[[Belt of the Frostkeeper]]'

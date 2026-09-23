@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 subtitle: Dread Wraith, an Iksar ghost
 race: Ghost
 level: '101'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'Within the [[Lost City of Torsis: Reaver''s Remnants (Solo)]] at {{waypoint 20, -5, -848}}'
 aggressive: true

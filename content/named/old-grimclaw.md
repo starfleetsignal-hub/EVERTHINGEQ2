@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Lion
 level: '42'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: Ledge near [[Steamfont Windmill]] {{waypoint -887, 111, 1120}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Kobold
 level: '38'
-difficulty: ^
 zone: '[[Steamfont Mountains]]'
 location: Wanders the Grikbar camps near the Grikbar Crater
 drops:

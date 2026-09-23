@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Rat
 level: '9'
-difficulty: ^
 zone: '[[Antonica]]'
 location: '*see below*'
 drops:

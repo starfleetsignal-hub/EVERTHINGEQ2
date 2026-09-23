@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Slug
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Northern rocky coastline around {{waypoint 644, 20, -731}}
 drops:

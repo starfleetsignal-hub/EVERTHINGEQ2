@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnome
 level: '19'
-difficulty: ^
 zone: '[[Invasion of the Vale]]'
 location: In the tent near the back of the Vale. {{waypoint -2587.09, 17.53, -30.52}}
 drops:

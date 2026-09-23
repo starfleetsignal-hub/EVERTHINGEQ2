@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ogre
 level: '18'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: '[[Yapping Maze]] {{waypoint 1236, 41, 338}}'
 image: images/Frund_the_big_grin.jpg_Frund_the_Big_Grin

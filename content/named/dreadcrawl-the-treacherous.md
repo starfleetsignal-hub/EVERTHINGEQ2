@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Spider
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: On [[Veiled Thessk]] {{waypoint -718, -16, -35}}
 drops:

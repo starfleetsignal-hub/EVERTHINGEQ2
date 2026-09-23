@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Naga
 level: '55'
-difficulty: ^
 zone: '[[The Pillars of Flame]]'
 location: '[[The Island of the Naga]] {{waypoint 1101, -173, -1693}}'
 drops:

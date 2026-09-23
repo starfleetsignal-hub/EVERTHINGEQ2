@@ -4,7 +4,6 @@ type: named
 expansion: Sentinel's Fate
 race: Roper
 level: '86'
-difficulty: ^^
 zone: '[[The Stonebrunt Highlands]]'
 location: In the room at the end of the tunnel {{waypoint -462, 378, 1179}}
 drops:

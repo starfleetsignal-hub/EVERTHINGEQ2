@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Iksar
 level: '76'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: Top of a guard tower, by the Oathsworn and elite C-9 units {{waypoint -421.40, 155.49, -710.92}}
 drops:

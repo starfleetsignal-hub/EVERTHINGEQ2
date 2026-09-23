@@ -4,7 +4,6 @@ type: named
 expansion: Kunark Ascending
 race: Golem
 level: '101'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'Within the [[Lost City of Torsis: The Spectral Market (Solo)]] at {{waypoint -8, 4, -128}}'
 aggressive: true

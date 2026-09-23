@@ -3,7 +3,6 @@ title: Bazaar Baron Brixwald
 type: named
 expansion: Blood of Luclin
 level: '122'
-difficulty: ^^^
 zone: '[[Fordel Midst: Bizarre Bazaar (Solo)]]'
 location: '{{waypoint 274.56, -33.06, 17.18}}'
 added_in: Blood of Luclin

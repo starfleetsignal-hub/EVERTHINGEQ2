@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Human
 level: '45'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: '[[Outcasts'' Ledge]] {{waypoint -226, 135, -15}}'
 added_in: Desert of Flames

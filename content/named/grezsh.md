@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Iksar
 level: '70'
-difficulty: ^
 zone: '[[Fens of Nathsar]]'
 location: '[[Iksar Bandit Camp]] {{waypoint -12, -96, -483}}'
 drops:

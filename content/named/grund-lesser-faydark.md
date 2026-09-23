@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 in_game_name: Grund
 race: Ogre
 level: '60'
-difficulty: ^^^
 zone: '[[The Lesser Faydark]]'
 location: '[[Camp Nybright]]'
 drops:

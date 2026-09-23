@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: a Tumultuous Growth
 race: Treant
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: On the island of [[Karak Peak]] at {{waypoint -490, 220, -500}}
 drops:

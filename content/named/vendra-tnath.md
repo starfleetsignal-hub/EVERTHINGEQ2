@@ -7,7 +7,6 @@ level: '30'
 difficulty: Heroic ^^^
 zone: '[[Crushbone Keep]]'
 location: '[[Hall of Truths]] {{waypoint 19, -39, 46}}'
-placeholder: '*'
 drops:
 - '[[Gloves of Warsongs]]'
 achievement_xp: true

@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Drake
 level: '83'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: In the Valley of the Ancient, south of [[Shaman Medicus]] {{waypoint -2400, 264, 900}}
 placeholder: a skyshadow drake

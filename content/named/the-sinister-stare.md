@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Gazer
 level: '65'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: on the [[Isle of Aversion]] {{waypoint -366, 263, 663}}
 respawn: 10 mins!

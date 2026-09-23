@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Ghost
 level: '96'
-difficulty: ^
 zone: '[[Chelsith: The Ancient Vault (Advanced Solo)]]'
 location: '[[Ruined Necropolis]] {{waypoint 430.38, -24.19, -146.00}}'
 health: '2500000'

@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Eel
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Swims near the coast of the [[Auroric Tide]] around {{waypoint -962, 0, 247}}
 drops:

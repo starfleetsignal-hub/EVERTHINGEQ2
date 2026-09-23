@@ -4,7 +4,6 @@ type: named
 expansion: Terrors of Thalumbra
 race: Dwarf
 level: '101'
-difficulty: ^*
 zone: '[[Maldura: District of Ash (Advanced Solo)]]'
 location: In the [[Forge of Brell (District of Ash Solo)|Forge of Brell]] {{waypoint 73.56, 34.86, -167.55}}
 drops:

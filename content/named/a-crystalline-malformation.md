@@ -4,7 +4,6 @@ type: named
 expansion: Sentinel's Fate
 race: Geonid
 level: '85'
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: In the second level of the Roekillik tunnels, north edge of the big central room with the hot springs {{waypoint 1036, -286, 3343}}
 primary_damage: Crushing

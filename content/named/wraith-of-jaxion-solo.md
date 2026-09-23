@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 subtitle: Wraith of Jaxion, a Sarnak ghost
 race: Ghost
 level: '101'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'In the first room to the West in the [[Lost City of Torsis: The Spectral Market (Solo)]] at {{waypoint 54, 6, -12}}'
 aggressive: true

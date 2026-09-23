@@ -4,7 +4,6 @@ type: named
 expansion: Terrors of Thalumbra
 race: Nether Beast
 level: '105'
-difficulty: ^^^
 zone: '[[Thalumbra, the Ever Deep]]'
 location: On the bottom of the ocean north of the [[Blightstone Barrens]] {{waypoint 741, 4, -930}}
 drops:

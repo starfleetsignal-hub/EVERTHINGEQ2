@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Treant
 level: '73'
-difficulty: ^
 zone: '[[Fens of Nathsar]]'
 location: roams around loc {{waypoint -2500, -32, 1550}}
 drops:

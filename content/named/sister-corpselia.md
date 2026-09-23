@@ -3,7 +3,6 @@ title: Sister Corpselia
 type: named
 expansion: Visions of Vetrovia
 level: '129'
-difficulty: ^
 zone: '[[Mahngavi Wastes]]'
 location: '[[Dreadfell Body Farm]]'
 related_quests:

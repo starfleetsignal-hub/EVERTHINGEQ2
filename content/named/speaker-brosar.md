@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Droag
 level: '62'
-difficulty: ^^^
 zone: '[[Sanctum of the Scaleborn]]'
 location: '[[Ready Room]] {{waypoint 176, 157, -80}}'
 added_in: Kingdom of Sky

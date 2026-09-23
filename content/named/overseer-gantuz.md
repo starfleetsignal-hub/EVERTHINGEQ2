@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Droag
 level: '57'
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: the Stonesetter area
 drops:

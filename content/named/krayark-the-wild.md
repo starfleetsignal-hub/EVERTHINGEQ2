@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Sokokar
 level: '76'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: Wandering around the sokokar area north of [[Murkdweller's River]] {{waypoint 556, -73, 327}}
 achievement_xp: true

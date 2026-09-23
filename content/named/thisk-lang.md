@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Iksar
 level: '75'
-difficulty: ^^^
 zone: '[[Kylong Plains]]'
 location: '[[Sulassk Post]]; Only spawns while on the quest [[Ambushing the Arcanist]]. {{waypoint -998, 12, -737}}'
 related_quests:

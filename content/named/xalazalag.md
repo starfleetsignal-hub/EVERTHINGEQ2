@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Erudite
 level: '68'
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: '[[Doomwing Pit]] {{waypoint -170, 69, 761}}'
 specials: Jab (222 dmg)

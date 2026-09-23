@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Spectre
 level: '53'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Northern oasis of the [[The Twin Tears|Twin Tears]]. Spawns at the location given once all the mummies on the island above have been killed, followed by the [[An overwatcher|overwatchers]]. {{waypoint -365, -134, -1142}}
 placeholder: '[[An overwatcher]]'

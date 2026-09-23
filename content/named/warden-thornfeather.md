@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Aviak
 level: '66'
-difficulty: ^
 zone: '[[The Barren Sky]]'
 location: '[[Prisoner''s Isle]] up on the cliffs {{waypoint 580, -110, 63}}'
 respawn: 20 minutes real time

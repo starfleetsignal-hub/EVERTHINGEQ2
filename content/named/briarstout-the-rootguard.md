@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Root Horror
 level: '101'
-difficulty: ^^
 zone: '[[Vesspyr Isles]]'
 location: On [[Aeterna Gardens]] {{waypoint -536, 381, 422}}
 primary_damage: Crush

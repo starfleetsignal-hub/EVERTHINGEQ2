@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Frog
 level: '7'
-difficulty: ^
 zone: '[[The Peat Bog]]'
 categories:
 - Frog

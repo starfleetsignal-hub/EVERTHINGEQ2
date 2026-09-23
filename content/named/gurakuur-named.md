@@ -5,7 +5,6 @@ expansion: Altar of Malice
 in_game_name: Gurakuur
 race: Urzarach
 level: '96'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: In [[Lost Khorr]] {{waypoint 487, 74, -1000}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Tirun
 level: Scales
-difficulty: ^
 zone: '[[Ring of Karana]]'
 location: Next to the druid ring
 achievement_xp: true

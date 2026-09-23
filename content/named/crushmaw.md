@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Crocodile
 level: '14'
-difficulty: ^
 zone: '[[Timorous Deep]]'
 location: In the small lake at [[Gorowyn Beach Outpost]] {{waypoint 2295, 33, 1039}}
 drops:

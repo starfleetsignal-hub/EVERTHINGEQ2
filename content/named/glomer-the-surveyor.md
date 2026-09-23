@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Orafic
 level: '95'
-difficulty: ^^^
 zone: '[[Obol Plains]]'
 location: South of Cardin Ward in a Canyon {{waypoint -532, -21, 144}}
 health: 157,000,000

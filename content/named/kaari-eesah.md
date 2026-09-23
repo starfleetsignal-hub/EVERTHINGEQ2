@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Fae
 level: '60'
-difficulty: ^^^
 zone: '[[The Lesser Faydark]]'
 location: At [[The Aphotic Intersection]] {{waypoint 373, -21, 171}}
 drops:

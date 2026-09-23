@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Bear
 level: '13'
-difficulty: ^
 zone: '[[Greater Faydark]]'
 location: Outside [[Tunare's Glade]] {{waypoint -174, 2, 150}}
 drops:

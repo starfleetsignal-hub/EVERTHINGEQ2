@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnoll
 level: 14-17
-difficulty: ^
 zone: '[[Antonica]]'
 location: Near the furthest east entrance to [[Blackburrow]] at {{waypoint -1588, -9, 792}}
 related_quests:

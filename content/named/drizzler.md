@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Spheroid
 level: '57'
-difficulty: ^
 zone: '[[Tenebrous Tangle]]'
 location: floats above the pond near entrance to [[The Temple of Scale]] {{waypoint -13, 44, -135}}
 drops:

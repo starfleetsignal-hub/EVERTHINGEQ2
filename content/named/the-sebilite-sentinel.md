@@ -8,7 +8,6 @@ difficulty: Heroic ^^^
 zone: '[[Kunzar Jungle]]'
 location: part of the ring event just outside the entrance to [[Sebilis]]
 health: 132,000
-placeholder: '*'
 drops:
 - '[[Battlemaster''s Cobalt Sabatons of Dominance]]'
 - '[[Earthkeeper''s Winter Weave Leather Boots of Restoration]]'

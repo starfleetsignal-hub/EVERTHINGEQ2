@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Troll
 level: '80'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: In [[Grobb]]
 specials: Has two(2) 80^ Guards.

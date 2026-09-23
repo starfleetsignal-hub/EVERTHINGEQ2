@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Octopus
 level: '81'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: '[[Brokenskull Harbor]] {{waypoint -1004, -1120, 1557}}'
 drops:

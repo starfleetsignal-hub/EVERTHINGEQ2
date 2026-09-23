@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: Bigz the Big
 race: Goblin
 level: '96'
-difficulty: ^
 zone: '[[High Keep: The Pickclaw Depths (Advanced Solo)]]'
 location: '{{waypoint -24.50, -153, -284.50}}'
 added_in: Tears of Veeshan

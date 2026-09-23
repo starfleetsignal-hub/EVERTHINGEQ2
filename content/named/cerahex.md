@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Cerodon
 level: '99'
-difficulty: ^
 zone: '[[Phantom Sea]]'
 location: '[[The Boiling Wells]] on [[South Dshinn]] {{waypoint -977.61, 52.50, 606.57}}'
 drops:

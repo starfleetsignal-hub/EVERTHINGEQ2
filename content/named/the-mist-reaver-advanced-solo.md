@@ -4,7 +4,6 @@ type: named
 expansion: Kunark Ascending
 race: Golem
 level: '107'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: 'Central area of the [[Lost City of Torsis: The Shrouded Temple (Advanced Solo)]] at {{waypoint -179, 29, -345}}'
 aggressive: true

@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Ghost
 level: '46'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Wanders the entire length of the eastern beach, from opposite [[Onerock Isle]] carpet to east of [[The Bay of Anuk]].
 specials: Giant's Kick - trauma knockback that can send you all the way up the cliffs

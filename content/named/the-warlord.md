@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Troll
 level: '79'
-difficulty: ^
 zone: '[[Moors of Ykesha]]'
 location: Behind waterfall in back room of a cave in the swamp of [[Firmroot Moot]] {{waypoint 166, -81, -937}}
 respawn: 5mins

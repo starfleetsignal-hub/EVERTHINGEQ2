@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnoll
 level: '16'
-difficulty: ^
 zone: '[[Blackburrow]]'
 location: walks up and down the mining shaft to the left of the entrance as you come into Blackburrow {{waypoint 3, -7, -64}}
 drops:

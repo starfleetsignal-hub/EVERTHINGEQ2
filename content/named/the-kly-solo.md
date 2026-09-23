@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 in_game_name: The Kly
 race: Di'Zok
 level: '101'
-difficulty: ^
 zone: '[[Crypt of Dalnir: Ritual Chamber (Solo)]]'
 added_in: Kunark Ascending
 categories:

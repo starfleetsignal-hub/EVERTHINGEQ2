@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Treant
 level: '73'
-difficulty: ^
 zone: '[[Kylong Plains]]'
 location: Big treant roaming the [[Stonewood]]. {{waypoint 1156, 117, -2332}}
 respawn: 30 min

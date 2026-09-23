@@ -2,7 +2,6 @@
 title: Your Conflicted Persona
 type: named
 expansion: Kunark Ascending
-race: '*'
 level: '100'
 difficulty: Heroic ^^^
 zone: '[[A Planar Fragment]]'

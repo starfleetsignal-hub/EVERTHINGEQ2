@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Dinosaur
 level: '100'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: '[[Earthshaker Penninsula]] on [[South Dshinn]] {{waypoint -1330.74, 58.61, 272.23}}'
 drops:

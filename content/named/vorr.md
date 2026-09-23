@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Shark
 level: '22'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: In the waters around [[Port Naythex]]. {{waypoint 996, -21, -93}}
 drops:

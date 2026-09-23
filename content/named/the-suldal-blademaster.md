@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Skeleton
 level: '53'
-difficulty: ^
 zone: '[[The Sinking Sands]]'
 location: Southwest cave off [[The Bay of Anuk]] (under [[The Eye of Anuk]]) {{waypoint -669, -229, -1147}}
 respawn: Ring event

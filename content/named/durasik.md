@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Iksar
 level: '76'
-difficulty: ^
 zone: '[[Kunzar Jungle]]'
 location: the trial ring of [[Tabernacle of Pain]]
 drops:

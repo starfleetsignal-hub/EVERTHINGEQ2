@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Snake
 level: '10'
-difficulty: ^
 zone: '[[Antonica]]'
 location: At viper dens near the Qeynos Moat - see below
 primary_damage: Piercing

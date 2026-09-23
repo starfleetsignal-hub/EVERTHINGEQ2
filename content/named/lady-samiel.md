@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: High Elf
 level: '47'
-difficulty: ^
 group: Samiel Pirates
 zone: '[[The Sinking Sands]]'
 location: Spawns once all the Samiel Pirates on the beach-level of [[Pirate's Perch]] are killed, and then after all the [[An elite Samiel guard|elite Samiel guards]] on the upper tier of the island are slain as well. {{waypoint -2040, -157, 58}}

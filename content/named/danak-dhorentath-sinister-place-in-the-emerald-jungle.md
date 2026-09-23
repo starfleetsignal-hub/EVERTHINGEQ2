@@ -5,7 +5,6 @@ expansion: Shattered Lands
 in_game_name: Danak Dhorentath
 race: Iksar
 level: Scales
-difficulty: ^
 zone: '[[A Sinister Place in the Emerald Jungle]]'
 drops:
 - no unique drops

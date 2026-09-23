@@ -5,7 +5,6 @@ expansion: Altar of Malice
 in_game_name: Bladefin
 race: Shark
 level: '100'
-difficulty: ^
 zone: '[[Tranquil Sea]]'
 location: '[[Razortooth Bay]] {{waypoint 834, -5, 1247}}'
 drops:

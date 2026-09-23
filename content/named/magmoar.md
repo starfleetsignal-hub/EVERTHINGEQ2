@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Fire Elemental
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Roaming in the area around {{waypoint -103, 163, -71}}
 drops:

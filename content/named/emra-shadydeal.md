@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: High Elf
 level: '15'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: With The Blackshield Smugglers at {{waypoint -432, -91, -979}}
 achievement_xp: true

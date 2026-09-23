@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Renda'Dal
 level: '59'
-difficulty: ^^^
 zone: '[[New Tunaria]]'
 location: On the wall surrounding the [[Temple of Growth]] {{waypoint -506, 56, -860}}
 placeholder: The specific [[A temple guard|temple guard]] that spawns in his /location

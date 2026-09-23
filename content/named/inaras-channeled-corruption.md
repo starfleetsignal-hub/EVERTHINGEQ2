@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Nightblood
 level: '60'
-difficulty: ^
 zone: '[[The Lesser Faydark]]'
 location: On an overlook on the eastern wall of the [[The Fae Drake Breeding Grounds]]
 drops:

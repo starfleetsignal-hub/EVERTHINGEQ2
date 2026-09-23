@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 in_game_name: Nurgal
 race: Goblin
 level: '96'
-difficulty: ^
 zone: '[[High Keep: The Pickclaw Depths (Advanced Solo)]]'
 location: '{{waypoint -82, -128, -89}}'
 added_in: Tears of Veeshan

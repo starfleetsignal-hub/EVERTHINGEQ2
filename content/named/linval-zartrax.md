@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Dark Elf
 level: '20'
-difficulty: ^
 zone: '[[Nektulos Forest]]'
 location: '{{waypoint -1455, 43, -1414}}'
 achievement_xp: true

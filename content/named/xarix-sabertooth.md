@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Gnoll
 level: Scales
-difficulty: ^
 zone: '[[The Thundering Steppes]]'
 location: Gnoll-infested craters in the [[Fallow Farmlands]] around {{waypoint 242, -7, -740}}
 achievement_xp: true

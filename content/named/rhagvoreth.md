@@ -4,7 +4,6 @@ type: named
 expansion: Blood of Luclin
 race: Shissar
 level: '122'
-difficulty: ^^^
 zone: '[[The Venom of Ssraeshza (Solo)]]'
 location: Rooming
 added_in: Blood of Luclin

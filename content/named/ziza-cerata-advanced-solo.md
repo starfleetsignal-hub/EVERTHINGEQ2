@@ -5,7 +5,6 @@ expansion: Tears of Veeshan
 subtitle: Ziza Cerata
 race: Bixie
 level: '95'
-difficulty: ^
 zone: '[[The Fractured Hive (Advanced Solo)]]'
 drops:
 - No unique drops

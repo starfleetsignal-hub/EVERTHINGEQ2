@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Human
 level: '25'
-difficulty: ^^^
 zone: '[[Antonica]]'
 location: On the northern bridge connecting the two halves of Antonica at {{waypoint -1512, -16, -549}}
 achievement_xp: true

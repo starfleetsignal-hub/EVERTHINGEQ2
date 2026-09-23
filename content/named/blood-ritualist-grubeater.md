@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Goblin
 level: '72'
-difficulty: ^
 zone: '[[Kylong Plains]]'
 location: In a hollow tree Camp Rotsnot area west of Highton {{waypoint 2068, 163, -2150}}
 primary_damage: Crushing

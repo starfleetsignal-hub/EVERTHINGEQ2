@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Fungusman
 level: '23'
-difficulty: ^
 group: Murkbloom Fungusmen
 zone: '[[Nektulos Forest]]'
 location: Near [[Behemoth Pond]], at {{waypoint -150, 2, -167}}

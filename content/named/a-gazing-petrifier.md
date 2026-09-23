@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Cockatrice
 level: '80'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: '[[The Ashen Grove]] {{waypoint 350, -46, 235}}'
 drops:

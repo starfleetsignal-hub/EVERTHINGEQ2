@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Ravasect
 level: '70'
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: '[[Isle of the Ravasect]] {{waypoint 904, -118, 237}}'
 placeholder: '[[An acrid maiden]]'

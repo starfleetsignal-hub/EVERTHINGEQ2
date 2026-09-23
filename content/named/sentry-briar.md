@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Human
 level: '25'
-difficulty: ^^^
 zone: '[[Antonica]]'
 location: '[[Middle Qeynos Tower]] at {{waypoint -390, 0, 119}}'
 achievement_xp: true

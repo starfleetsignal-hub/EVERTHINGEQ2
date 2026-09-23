@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Aviak
 level: '32'
-difficulty: ^
 zone: '[[Butcherblock Mountains]]'
 location: At the very top of [[Kragploom Roost]] {{waypoint 519, 409, -552}}
 respawn: 10 min

@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Human
 level: '50'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: On rooftops at multiple locations {{waypoint -124, 148, 144}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Altar of Malice
 race: Akhevan
 level: '100'
-difficulty: ^
 zone: '[[Ssraeshza Temple: Shadow of Luclin]]'
 achievement_xp: true
 added_in: Altar of Malice

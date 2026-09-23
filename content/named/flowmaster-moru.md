@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Mummy
 level: '52'
-difficulty: ^^^
 zone: '[[The Living Tombs]]'
 location: On the roof of the west building in the [[Trade Court]]. To spawn, clear the rooftop of all mummies. {{waypoint -609, 5, 203}}
 drops:

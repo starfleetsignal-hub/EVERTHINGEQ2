@@ -3,7 +3,6 @@ title: Tramplehoof
 type: named
 expansion: Planes of Prophecy
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Wanders the [[Kandra Uplands]] around {{waypoint -350, 34, 267}}
 health: '892000000'

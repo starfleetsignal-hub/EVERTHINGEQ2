@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Gazer
 level: '33'
-difficulty: ^
 zone: '[[Kaladim]]'
 location: flying around Kaladim
 achievement_xp: true

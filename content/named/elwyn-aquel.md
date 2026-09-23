@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Ghost
 level: '9'
-difficulty: ^
 zone: '[[Sunken City]]'
 location: '[[The Ruined Shrine of Prexus]] around {{waypoint -3, 0, -52}}'
 drops:

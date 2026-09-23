@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Elemental
 level: '96'
-difficulty: ^
 zone: '[[Chelsith: The Ancient Vault (Advanced Solo)]]'
 location: Final room of the zone {{waypoint 746.01, -100.46, -1015.28}}
 drops:

@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Human
 level: '50'
-difficulty: ^
 zone: '[[Maj''Dul]]'
 location: Possible spawn from killing [[A Maj'Dul citizen|Maj'Dul citizens]]. One such location is at {{waypoint -38, 150, -202}}
 drops:

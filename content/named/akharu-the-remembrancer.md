@@ -4,7 +4,6 @@ type: named
 expansion: Kingdom of Sky
 race: Droag
 level: '68'
-difficulty: ^
 zone: '[[The Bonemire]]'
 location: '[[Halls of Fate (Island)]] {{waypoint -242, -343, -10}}'
 drops:

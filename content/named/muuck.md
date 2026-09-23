@@ -4,7 +4,6 @@ type: named
 expansion: Terrors of Thalumbra
 race: Ooze
 level: '103'
-difficulty: ^
 zone: '[[Thalumbra, the Ever Deep]]'
 location: Normally remains in the sea shallows, just off the coast of the [[Abandoned Fungus Farm]] at {{waypoint 982, 1, 283}}
 drops:

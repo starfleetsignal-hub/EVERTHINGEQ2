@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Wyvern
 level: '102'
-difficulty: ^^^
 zone: '[[Eastern Wastes]]'
 location: In the [[The Watcher's Retreat]] on the lower level of [[Sleeper's Tomb (Contested)]] at {{waypoint -236, -149, -319}}
 drops:

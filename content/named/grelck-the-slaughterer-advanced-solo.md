@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Ashlok
 level: '95'
-difficulty: ^
 zone: '[[Wurmbone Crag (Advanced Solo)]]'
 location: Up on a platform at the top of the long ramp
 added_in: Chains of Eternity

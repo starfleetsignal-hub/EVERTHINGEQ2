@@ -4,7 +4,6 @@ type: named
 expansion: Sentinel's Fate
 race: Air Elemental
 level: '81'
-difficulty: ^
 zone: '[[The Sundered Frontier]]'
 location: '[[Timeworn Peaks]] {{waypoint 2502, -120, 3321}}'
 drops:

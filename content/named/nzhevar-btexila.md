@@ -4,7 +4,6 @@ type: named
 expansion: The Shadow Odyssey
 race: Vampire
 level: 53-Scales
-difficulty: ^^^
 zone: '[[Evernight Abbey]]'
 drops:
 - '[[Black Velvet Leggings]]'

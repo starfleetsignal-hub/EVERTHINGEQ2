@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Bat
 level: '12'
-difficulty: ^
 zone: '[[The Commonlands]]'
 location: Flying above [[Turmoil Cemetery]], around {{waypoint -1317, -69, 332}}
 image: images/Duskscreech.png

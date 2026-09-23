@@ -4,7 +4,6 @@ type: named
 expansion: Desert of Flames
 race: Goblin
 level: '55'
-difficulty: ^
 zone: '[[The Pillars of Flame]]'
 location: Multiple spawns in the monk controlled areas.
 related_quests:

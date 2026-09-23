@@ -4,7 +4,6 @@ type: named
 expansion: Chains of Eternity
 race: Human
 level: '95'
-difficulty: ^
 zone: '[[Obol Plains]]'
 location: Inside [[Cardin Ward]] {{waypoint -315, 13, -34}}
 primary_damage: crushing

@@ -4,7 +4,6 @@ type: named
 expansion: Tears of Veeshan
 race: Elemental
 level: '96'
-difficulty: ^
 zone: '[[The Nexus Core (Advanced Solo)]]'
 location: West room of [[The Nexus Core (Advanced Solo)|the Nexus Core]]
 added_in: Tears of Veeshan

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Satyr
 level: '62'
-difficulty: ^^^
 zone: '[[The Lesser Faydark]]'
 location: '[[Hearth Cymenea]]'
 drops:

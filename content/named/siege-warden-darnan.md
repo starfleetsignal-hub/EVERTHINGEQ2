@@ -4,7 +4,6 @@ type: named
 expansion: Rise of Kunark
 race: Droag
 level: '78'
-difficulty: ^
 zone: '[[Jarsath Wastes]]'
 location: In a small camp near the gate to the Skyfire Mountains {{waypoint -772.20, 29.27, 85.33}}
 achievement_xp: true

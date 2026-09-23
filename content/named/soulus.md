@@ -4,7 +4,6 @@ type: named
 expansion: Planes of Prophecy
 race: Wisp
 level: '112'
-difficulty: ^
 zone: '[[Plane of Magic]]'
 location: Roaming around location {{waypoint 894, 47, 985}}
 drops:

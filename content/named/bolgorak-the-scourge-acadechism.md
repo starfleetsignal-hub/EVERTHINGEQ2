@@ -5,7 +5,6 @@ expansion: Echoes of Faydwer
 in_game_name: Bolgorak the Scourge
 race: Orc
 level: '65'
-difficulty: ^
 zone: '[[The Acadechism]]'
 location: '{{waypoint -185.49, 11.48, -12.20}}'
 achievement_xp: true

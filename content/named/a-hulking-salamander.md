@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Wyrm
 level: '27'
-difficulty: ^^^
 zone: '[[Stormhold]]'
 location: Fourth level, southwest corner {{waypoint 168, -42, 61}}
 achievement_xp: true

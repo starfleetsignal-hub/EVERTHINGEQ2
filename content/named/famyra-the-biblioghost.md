@@ -3,7 +3,6 @@ title: Famyra the Biblioghost
 type: named
 expansion: Blood of Luclin
 level: '122'
-difficulty: ^^^
 zone: '[[Fordel Midst: Wayward Manor (Solo)]]'
 location: '{{waypoint 760, -9, -735}}'
 specials: Power Drain

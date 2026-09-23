@@ -4,7 +4,6 @@ type: named
 expansion: Destiny of Velious
 race: Golem
 level: '92'
-difficulty: ^^
 zone: '[[Eastern Wastes]]'
 related_quests:
 - '[[Tangled Roots of Growth]]'

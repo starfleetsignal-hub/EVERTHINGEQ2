@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Kobold
 level: '35'
-difficulty: ^
 group: Mazkeen Kobolds
 zone: '[[Steamfont Mountains]]'
 location: On the north lip of the [[Mazkeen Crater]] {{waypoint -814.40, 154.11, 662.02}}

@@ -4,7 +4,6 @@ type: named
 expansion: Echoes of Faydwer
 race: Human
 level: '63'
-difficulty: ^
 zone: '[[Loping Plains]]'
 location: Bandit camp east of [[Wayunder Lake]] {{waypoint -807, 3, 24}}
 drops:

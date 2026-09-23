@@ -4,7 +4,6 @@ type: named
 expansion: Shattered Lands
 race: Skeleton
 level: '14'
-difficulty: ^
 group: Shin'Ree Orcs
 zone: '[[The Commonlands]]'
 location: Roaming outside [[The Wailing Caves]] in the Shin'Ree Orcs area {{waypoint -340.25, -44.73, -824.88}}
