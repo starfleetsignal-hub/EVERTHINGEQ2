@@ -6,7 +6,7 @@
 images-release.json lists every file with its shard, source URL, uploader and upload time (CC BY-SA credit).
 Tar members are images/<File_name>, the path pages link to, like the shared tars.
 """
-import argparse, io, json, os, socket, sys, tarfile, time, urllib.request
+import argparse, http.client, io, json, os, socket, sys, tarfile, threading, time, urllib.error, urllib.parse, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
@@ -31,25 +31,41 @@ def plan(allimages, index):
     json.dump(out, open(PLAN, "w"), ensure_ascii=False, indent=0)
     print(f"{len(out)} files, {sum(i['size'] for i in out) / 1e9:.2f} GB in {shard + 1} shards", file=sys.stderr)
 
+_local = threading.local()
+
+def get(url):
+    """GET over a kept-alive connection per thread: the image host sometimes takes 20 s to accept a new connection."""
+    u = urllib.parse.urlsplit(url)
+    conn = getattr(_local, "conn", None)
+    if conn is None or (conn.host, conn.port) != (u.hostname, u.port or (443 if u.scheme == "https" else 80)):
+        cls = http.client.HTTPSConnection if u.scheme == "https" else http.client.HTTPConnection
+        conn = _local.conn = cls(u.hostname, u.port, timeout=60)
+    try:
+        conn.request("GET", u.path + "?" + u.query, headers={"User-Agent": UA})
+        r = conn.getresponse()
+        parts, deadline = [], time.time() + 300    # a server that trickles bytes would otherwise hold the job for hours
+        while chunk := r.read1(1 << 16):
+            parts.append(chunk)
+            if time.time() > deadline: raise TimeoutError("download took over 5 minutes")
+        if r.status in (301, 302, 303, 307, 308): return get(urllib.parse.urljoin(url, r.getheader("Location")))
+        if r.status != 200: raise urllib.error.HTTPError(url, r.status, r.reason, r.headers, None)
+        return b"".join(parts)
+    except Exception:
+        conn.close(); _local.conn = None
+        raise
+
 def fetch(i):
     """The file's bytes, or an error string. Without ?format=original Fandom serves a re-encoded copy."""
     for attempt in range(4):
         try:
-            req = urllib.request.Request(i["url"] + "?format=original", headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=60) as r:
-                parts, deadline = [], time.time() + 300    # a server that trickles bytes would otherwise hold the job for hours
-                while chunk := r.read1(1 << 16):
-                    parts.append(chunk)
-                    if time.time() > deadline: raise TimeoutError("download took over 5 minutes")
-                data = b"".join(parts)
-            return data
+            return get(i["url"] + "?format=original")
         except Exception as e:
             err = str(e)
             if getattr(e, "code", None) in (404, 410): break
             time.sleep(2 ** attempt)
     return err
 
-def shard(n, workers=8, limit=None):
+def shard(n, workers=16, limit=None):
     items = [i for i in json.load(open(PLAN)) if i["shard"] == n][:limit]
     t0 = time.time()
     name, failed = f"eq2-images-{n:02d}.tar", []
