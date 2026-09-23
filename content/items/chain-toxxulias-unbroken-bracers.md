@@ -1,0 +1,60 @@
+---
+title: Chain Toxxulia's Unbroken Bracers
+type: item
+item_kind: Equipment
+icon: images/Item_2891.png
+tier: Legendary
+level: '90'
+slot: Forearms
+flags: no-trade
+stats:
+  sta: '+170'
+  agi: '+170'
+  health: '+70'
+  power: '+18'
+  mit: '407'
+  crit: '5.74'
+  critbonus: '5.24'
+  potency: '16.9'
+  abmod: '+321'
+  dtype: Chain Armor
+item_link: \aITEM -1762551428 867734396:Chain Toxxulia's Unbroken Bracers\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Block Chance (Equipment)
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Forearms (Inventory Slot)
+- Hate Gain (Equipment)
+- Legendary Equipment
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+source:
+  title: Chain Toxxulia's Unbroken Bracers
+  url: https://eq2.fandom.com/wiki/Chain_Toxxulia's_Unbroken_Bracers
+  history: https://eq2.fandom.com/wiki/Chain_Toxxulia's_Unbroken_Bracers?action=history
+  revision: 1418861
+  revised: '2022-03-20T23:35:08Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

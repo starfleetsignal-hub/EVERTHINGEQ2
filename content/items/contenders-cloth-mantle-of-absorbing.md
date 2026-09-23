@@ -1,0 +1,55 @@
+---
+title: Contender's Cloth Mantle of Absorbing
+type: item
+item_kind: Equipment
+icon: images/Item_3688.png
+level: '100'
+slot: Shoulders
+flags: no-trade no-value infusable
+stats:
+  sta: +1,526
+  int: '+488'
+  health: +11,178
+  power: +2,235
+  maxhealth: '13.8'
+  mit: '575'
+  critbonus: '106.2'
+  potency: '117.3'
+  resolve: '5'
+  mitinc: '10.6'
+  dtype: Cloth Armor
+item_link: \aITEM 1835282523 -188183845:Contender's Cloth Mantle of Absorbing\/a
+categories:
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Shoulders (Inventory Slot)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 11 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Contender's Cloth Mantle of Absorbing
+  url: https://eq2.fandom.com/wiki/Contender's_Cloth_Mantle_of_Absorbing
+  history: https://eq2.fandom.com/wiki/Contender's_Cloth_Mantle_of_Absorbing?action=history
+  revision: 756291
+  revised: '2017-10-01T17:29:06Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

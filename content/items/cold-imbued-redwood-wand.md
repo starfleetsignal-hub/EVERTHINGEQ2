@@ -1,0 +1,71 @@
+---
+title: Cold Imbued Redwood Wand
+type: item
+item_kind: Equipment
+icon: images/Item_619.png
+tier: Handcrafted
+level: '70'
+slot: Ranged
+flags: attunable
+stats:
+  sta: '+41'
+  agi: '+42'
+  crit: '2'
+  critbonus: '0.8'
+  potency: '3.4'
+  dps: '8.6'
+  dmg: 159 - 477
+  delay: '8.0'
+  drating: '79.51'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+effects: '**Frost Blast**'
+item_link: \aITEM -832492954 2017825296:Cold Imbued Redwood Wand\/a
+categories:
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Focus (Weapon Type)
+- Frost Blast (Equipment)
+- Fury Equipment
+- Handcrafted Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Cold Imbued Redwood Wand
+  url: https://eq2.fandom.com/wiki/Cold_Imbued_Redwood_Wand
+  history: https://eq2.fandom.com/wiki/Cold_Imbued_Redwood_Wand?action=history
+  revision: 1252227
+  revised: '2021-01-08T19:13:13Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

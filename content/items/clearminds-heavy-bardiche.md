@@ -1,0 +1,65 @@
+---
+title: Clearmind's Heavy Bardiche
+type: item
+item_kind: Equipment
+icon: images/Item_1667.png
+tier: Legendary
+level: '120'
+slot: Primary
+flags: attunable heirloom infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +3,924
+  agi: +2,766
+  health: +163,622
+  power: +73,602
+  crit: '824.6'
+  potency: 2,838.2
+  resolve: '330'
+  abmod: +18,196
+  dps: '235.6'
+  cbovercap: '+183'
+  dmg: 1379 - 2068
+  delay: '6.0'
+  drating: '574.56'
+  dtype: Two-Handed Piercing
+  wtype: Great Spear
+effects: '**Noxious Rending**'
+item_link: \aITEM -1031404342 271825016:Clearmind's Heavy Bardiche\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Equipment
+- Great Spear (Weapon Type)
+- Guardian Equipment
+- Legendary Equipment
+- Mystic Equipment
+- Noxious Rending (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Tier 13 Equipment
+- Two-Handed Piercing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Clearmind's Heavy Bardiche
+  url: https://eq2.fandom.com/wiki/Clearmind's_Heavy_Bardiche
+  history: https://eq2.fandom.com/wiki/Clearmind's_Heavy_Bardiche?action=history
+  revision: 1895592
+  revised: '2025-09-18T05:19:43Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

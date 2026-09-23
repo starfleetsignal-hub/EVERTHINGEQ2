@@ -1,0 +1,23 @@
+---
+title: Chancellor's Codex of Battle
+type: item
+item_kind: Collection Item
+icon: images/Item_5633.png
+item_level: '135'
+item_link: \aITEM 956027984 -1956246111:Chancellor's Codex of Battle\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: Chancellor's Codex of Battle
+  url: https://eq2.fandom.com/wiki/Chancellor's_Codex_of_Battle
+  history: https://eq2.fandom.com/wiki/Chancellor's_Codex_of_Battle?action=history
+  revision: 2004523
+  revised: '2026-05-17T11:38:57Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+This item is needed for the collection: [[Ver'Bhoten Codex]]

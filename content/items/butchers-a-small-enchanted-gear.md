@@ -1,0 +1,72 @@
+---
+title: Butcher's A Small Enchanted Gear
+type: item
+item_kind: Equipment
+icon: images/Item_1041.png
+tier: Legendary
+level: '10'
+slot: Charm
+flags: lore-equip attunable
+stats:
+  str: '+8'
+  sta: '+8'
+item_link: \aITEM -1730297895 -1493327338:Butcher's A Small Enchanted Gear\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Charm (Inventory Slot)
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 2 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Butcher's A Small Enchanted Gear
+  url: https://eq2.fandom.com/wiki/Butcher's_A_Small_Enchanted_Gear
+  history: https://eq2.fandom.com/wiki/Butcher's_A_Small_Enchanted_Gear?action=history
+  revision: 1539263
+  revised: '2022-08-08T16:47:00Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

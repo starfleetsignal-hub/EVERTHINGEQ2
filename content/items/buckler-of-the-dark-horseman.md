@@ -1,0 +1,79 @@
+---
+title: Buckler of the Dark Horseman
+type: item
+item_kind: Equipment
+icon: images/Item_3213.png
+tier: Legendary
+level: '80'
+slot: Shield
+flags: lore-equip attunable heirloom
+stats:
+  str: '+53'
+  sta: '+53'
+  crit: '2.9'
+  critbonus: '1.1'
+  potency: '4.9'
+  dps: '12'
+  multi: '7.4'
+  vselemental: '+790'
+  dtype: Buckler
+effects: '**Undead Bane**'
+item_link: \aITEM 602634912 1739206692:Buckler of the Dark Horseman\/a
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Buckler (Equipment Type)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Priest Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Shield (Inventory Slot)
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 9 Equipment
+- Troubador Equipment
+- Undead Bane (Equipment)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Buckler of the Dark Horseman
+  url: https://eq2.fandom.com/wiki/Buckler_of_the_Dark_Horseman
+  history: https://eq2.fandom.com/wiki/Buckler_of_the_Dark_Horseman?action=history
+  revision: 1891785
+  revised: '2025-09-17T20:10:37Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

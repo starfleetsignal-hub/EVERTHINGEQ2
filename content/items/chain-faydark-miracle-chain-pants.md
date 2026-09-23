@@ -1,0 +1,61 @@
+---
+title: Chain Faydark Miracle Chain Pants
+type: item
+item_kind: Equipment
+icon: images/Item_2900.png
+tier: Legendary
+level: '90'
+slot: Legs
+flags: no-trade
+stats:
+  sta: '+80'
+  agi: '+80'
+  health: '+70'
+  power: '+18'
+  mit: '436'
+  crit: '3.94'
+  critbonus: '3.44'
+  potency: '7.9'
+  abmod: '+231'
+  multi: '9.7'
+  dtype: Chain Armor
+item_link: \aITEM 1066528311 1149629126:Chain Faydark Miracle Chain Pants\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Legendary Equipment
+- Legs (Inventory Slot)
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+source:
+  title: Chain Faydark Miracle Chain Pants
+  url: https://eq2.fandom.com/wiki/Chain_Faydark_Miracle_Chain_Pants
+  history: https://eq2.fandom.com/wiki/Chain_Faydark_Miracle_Chain_Pants?action=history
+  revision: 1410561
+  revised: '2022-03-01T21:11:22Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

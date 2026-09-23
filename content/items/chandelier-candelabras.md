@@ -1,0 +1,23 @@
+---
+title: Chandelier candelabras
+type: item
+item_kind: Collection Item
+icon: images/Item_1056.png
+item_level: '100'
+item_link: \aITEM -1027527846 -1439899155:chandelier candelabras\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: Chandelier candelabras
+  url: https://eq2.fandom.com/wiki/Chandelier_candelabras
+  history: https://eq2.fandom.com/wiki/Chandelier_candelabras?action=history
+  revision: 753206
+  revised: '2017-10-01T15:35:09Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+This item is needed for the collection: [[Chandelier Made Good]]

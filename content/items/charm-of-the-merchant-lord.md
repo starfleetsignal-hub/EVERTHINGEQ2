@@ -1,0 +1,88 @@
+---
+title: Charm of the Merchant Lord
+type: item
+item_kind: Equipment
+icon: images/Item_173.png
+tier: Fabled
+level: '100'
+slot: Charm
+flags: lore-equip attunable heirloom infusable
+stats:
+  sta: '+921'
+  agi: '+531'
+  health: +6,697
+  power: +4,018
+  crit: '65.1'
+  critbonus: '51'
+  potency: 1,316.2
+  resolve: '20'
+  abmod: +1,823
+  dps: '31.1'
+effects: '**Fates Entwined**'
+item_link: \aITEM -776179629 -1353742519:Charm of the Merchant Lord\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Charm (Inventory Slot)
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fates Entwined (Equipment)
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+- Wizard Equipment
+source:
+  title: Charm of the Merchant Lord
+  url: https://eq2.fandom.com/wiki/Charm_of_the_Merchant_Lord
+  history: https://eq2.fandom.com/wiki/Charm_of_the_Merchant_Lord?action=history
+  revision: 1909515
+  revised: '2025-11-10T18:11:28Z'
+  license: CC BY-SA 3.0
+expansion: Kunark Ascending
+expansion_source: linked
+---
+
+

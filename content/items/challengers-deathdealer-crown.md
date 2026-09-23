@@ -1,0 +1,53 @@
+---
+title: Challenger's Deathdealer Crown
+type: item
+item_kind: Equipment
+icon: images/Item_2857.png
+tier: Fabled
+level: '90'
+slot: Head
+flags: lore-equip attunable heirloom no-value
+stats:
+  sta: '+62'
+  int: '+69'
+  mit: '304'
+  crit: '8'
+  critbonus: '2.9'
+  abmod: '+40'
+  dtype: Cloth Armor
+effects: '**Soulsteal**'
+item_link: \aITEM 1554027079 1413069517:Challenger's Deathdealer Crown\/a
+categories:
+- Ability Modifier (Equipment)
+- Casting Speed (Equipment)
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Head (Inventory Slot)
+- Illusionist Equipment
+- Mage Equipment
+- Necromancer Equipment
+- Sorcerer Equipment
+- Soulsteal (Equipment)
+- Summoner Equipment
+- Tier 10 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Challenger's Deathdealer Crown
+  url: https://eq2.fandom.com/wiki/Challenger's_Deathdealer_Crown
+  history: https://eq2.fandom.com/wiki/Challenger's_Deathdealer_Crown?action=history
+  revision: 1883359
+  revised: '2025-09-15T18:45:21Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

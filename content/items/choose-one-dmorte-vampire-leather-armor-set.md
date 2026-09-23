@@ -1,0 +1,36 @@
+---
+title: 'Choose One: D''Morte Vampire Leather Armor Set'
+type: item
+item_kind: Crate
+icon: images/Item_5390.png
+tier: Fabled
+item_level: '0'
+flags: heirloom no-value
+description: Choose one piece of armor from the D'Morte Vampire Leather Armor Set.
+contains: '- [[D''Morte Vampire Leather Gi]]
+
+  - [[D''Morte Vampire Leather Sandals]]
+
+  - [[D''Morte Vampire Leather Gloves]]
+
+  - [[D''Morte Vampire Leather Cap]]
+
+  - [[D''Morte Vampire Leather Leggings]]
+
+  - [[D''Morte Vampire Leather Mantle]]'
+item_link: '\aITEM -1208755499 -1071328211:Choose One: D''Morte Vampire Leather Armor Set\/a'
+categories:
+- Census Credits
+- Crate (Item Type)
+- Fabled Items
+- Items
+source:
+  title: 'Choose One: D''Morte Vampire Leather Armor Set'
+  url: https://eq2.fandom.com/wiki/Choose_One:_D'Morte_Vampire_Leather_Armor_Set
+  history: https://eq2.fandom.com/wiki/Choose_One:_D'Morte_Vampire_Leather_Armor_Set?action=history
+  revision: 1781436
+  revised: '2024-02-03T22:39:02Z'
+  license: CC BY-SA 3.0
+---
+
+

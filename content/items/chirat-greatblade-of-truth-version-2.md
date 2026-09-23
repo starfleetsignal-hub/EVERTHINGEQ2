@@ -1,0 +1,57 @@
+---
+title: Chirat, Greatblade of Truth (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_2957.png
+tier: Fabled
+level: '70'
+slot: Primary
+flags: lore-equip attunable heirloom
+stats:
+  str: '+82'
+  sta: '+82'
+  crit: '4'
+  critbonus: '1.2'
+  potency: '5.6'
+  dps: '17.8'
+  mitinc: '6.6'
+  dmg: 166 - 497
+  delay: '7.0'
+  drating: '94.7'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+effects: '**Suppressing Strike**'
+item_link: \aITEM -1899119027 2147110827:Chirat, Greatblade of Truth\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Fabled Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Suppressing Strike (Equipment)
+- Tier 8 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Chirat, Greatblade of Truth (Version 2)
+  url: https://eq2.fandom.com/wiki/Chirat,_Greatblade_of_Truth_(Version_2)
+  history: https://eq2.fandom.com/wiki/Chirat,_Greatblade_of_Truth_(Version_2)?action=history
+  revision: 1895545
+  revised: '2025-09-18T05:17:57Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

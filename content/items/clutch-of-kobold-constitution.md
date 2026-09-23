@@ -1,0 +1,70 @@
+---
+title: Clutch of Kobold Constitution
+type: item
+item_kind: Equipment
+icon: images/Item_3443.png
+tier: Fabled
+level: '90'
+slot: Finger
+flags: lore-equip attunable heirloom
+stats:
+  str: '+90'
+  sta: '+90'
+  maxhealth: '13.1'
+  crit: '6.1'
+  critbonus: '5.4'
+  potency: '9'
+  dps: '23.4'
+  multi: '15.1'
+  vselemental: +1,598
+item_link: \aITEM 1687644210 -309166279 0 0 0:Clutch of Kobold Constitution\/a
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Dirge Equipment
+- Elemental Resistance (Equipment)
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Finger (Inventory Slot)
+- Guardian Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Sullon's Spire (Challenge) Dropped Items
+- Swashbuckler Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Clutch of Kobold Constitution
+  url: https://eq2.fandom.com/wiki/Clutch_of_Kobold_Constitution
+  history: https://eq2.fandom.com/wiki/Clutch_of_Kobold_Constitution?action=history
+  revision: 1651020
+  revised: '2023-03-14T09:43:36Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

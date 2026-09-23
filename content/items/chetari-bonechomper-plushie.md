@@ -1,0 +1,31 @@
+---
+title: Chetari Bonechomper Plushie
+type: item
+item_kind: House Item
+item_subtype: Plushie
+icon: images/Item_5726.png
+tier: Treasured
+item_level: '0'
+flags: no-value
+description: This item can be placed on the floor in any house type.
+obtained_from: 'Collection reward: [[Chetari Relics]]'
+item_link: \aITEM 1630665405 -187798430:Chetari Bonechomper Plushie\/a
+categories:
+- Census Credits
+- Collection Quest Rewards
+- House Item (Item Type)
+- Items
+- Plushie (Item Subtype)
+- Treasured Items
+source:
+  title: Chetari Bonechomper Plushie
+  url: https://eq2.fandom.com/wiki/Chetari_Bonechomper_Plushie
+  history: https://eq2.fandom.com/wiki/Chetari_Bonechomper_Plushie?action=history
+  revision: 1869463
+  revised: '2025-04-11T09:43:50Z'
+  license: CC BY-SA 3.0
+expansion: Scars of Destruction
+expansion_source: source
+---
+
+

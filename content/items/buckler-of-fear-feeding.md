@@ -1,0 +1,51 @@
+---
+title: Buckler of Fear Feeding
+type: item
+item_kind: Equipment
+icon: images/Item_13.png
+tier: Treasured
+level: '40'
+slot: Shield
+flags: attunable
+stats:
+  str: '+14'
+  sta: '+14'
+  dtype: Buckler
+item_link: \aITEM -1105831543 754473446:Buckler of Fear Feeding\/a
+categories:
+- Berserker Equipment
+- Buckler (Equipment Type)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Priest Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Shield (Inventory Slot)
+- Templar Equipment
+- Tier 5 Equipment
+- Treasured Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Buckler of Fear Feeding
+  url: https://eq2.fandom.com/wiki/Buckler_of_Fear_Feeding
+  history: https://eq2.fandom.com/wiki/Buckler_of_Fear_Feeding?action=history
+  revision: 1243825
+  revised: '2021-01-08T13:36:17Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

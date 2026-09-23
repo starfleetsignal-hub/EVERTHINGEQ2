@@ -1,0 +1,72 @@
+---
+title: Cane of Trickery (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_2958.png
+tier: Fabled
+level: '70'
+slot: Primary
+flags: lore-equip attunable heirloom
+stats:
+  sta: '+39'
+  wis: '+39'
+  crit: '1.8'
+  critbonus: '0.5'
+  potency: '2.6'
+  aspeed: '4'
+  flurry: '2.1'
+  dmg: 106 - 197
+  delay: '4.0'
+  drating: '75.95'
+  dtype: Main Hand Crushing
+  wtype: Staff
+effects: '**Bristlebane''s Shenanigans**'
+item_link: \aITEM 1728955585 -207531829:Cane of Trickery\/a
+categories:
+- Attack Speed (Equipment)
+- Bristlebane's Shenanigans (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Flurry Chance (Equipment)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Main Hand Crushing (Equipment Type)
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Cane of Trickery (Version 1)
+  url: https://eq2.fandom.com/wiki/Cane_of_Trickery_(Version_1)
+  history: https://eq2.fandom.com/wiki/Cane_of_Trickery_(Version_1)?action=history
+  revision: 1895461
+  revised: '2025-09-18T05:06:18Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

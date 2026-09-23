@@ -1,0 +1,56 @@
+---
+title: Catacomb Raider Wrist Wraps
+type: item
+item_kind: Equipment
+icon: images/Item_3633.png
+tier: Legendary
+level: '122'
+slot: Forearms
+flags: no-trade
+stats:
+  sta: +5,040
+  int: +2,627
+  health: +166,413
+  power: +104,579
+  mit: '718'
+  potency: 13,134.2
+  resolve: '295'
+  dps: '124.2'
+  multi: '18.9'
+  cbovercap: '+940.7'
+  dtype: Cloth Armor
+item_link: \aITEM -303933798 1203361246:Catacomb Raider Wrist Wraps\/a
+categories:
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- DPS (Equipment)
+- Enchanter Equipment
+- Equipment
+- Forearms (Inventory Slot)
+- Illusionist Equipment
+- Legendary Equipment
+- Mage Equipment
+- Multi Attack Chance (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 13 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Catacomb Raider Wrist Wraps
+  url: https://eq2.fandom.com/wiki/Catacomb_Raider_Wrist_Wraps
+  history: https://eq2.fandom.com/wiki/Catacomb_Raider_Wrist_Wraps?action=history
+  revision: 1388643
+  revised: '2021-12-12T01:34:19Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+
