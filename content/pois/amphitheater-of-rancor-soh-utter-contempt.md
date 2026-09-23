@@ -1,0 +1,35 @@
+---
+title: 'Amphitheater of Rancor (SoH: Utter Contempt)'
+type: poi
+zone: '[[Shard of Hate: Utter Contempt (Solo)]], [[Shard of Hate: Utter Contempt (Heroic)]], [[Shard of Hate: Reignited Hatred (Raid)]]'
+location: The central portion of the zone, where the large organ is to be found. {{waypoint -16, 8, -43}}
+discovery_xp: Y
+added_in: LU106
+aliases:
+- 'Amphitheater of Rancor (SoH: Utter Contempt (Solo)'
+- 'Amphitheater of Rancor (SoH: Utter Contempt Heroic)'
+- 'Amphitheater of Rancor (SoH: Utter Contempt Raid)'
+- 'Amphitheater of Rancor (SoH: Utter Contempt Raid))'
+- 'Amphitheater of Rancor (SoH: Utter Contempt Solo)'
+categories:
+- Discovery Locations
+- LU106 Discovery Locations
+- LU106 POIs
+- POI pages that need EQ2MAP uid
+- POIs
+- 'Shard of Hate: Reignited Hatred (Raid) Discovery Locations'
+- 'Shard of Hate: Reignited Hatred (Raid) POIs'
+- 'Shard of Hate: Utter Contempt (Heroic) Discovery Locations'
+- 'Shard of Hate: Utter Contempt (Heroic) POIs'
+- 'Shard of Hate: Utter Contempt (Solo) Discovery Locations'
+- 'Shard of Hate: Utter Contempt (Solo) POIs'
+source:
+  title: 'Amphitheater of Rancor (SoH: Utter Contempt)'
+  url: https://eq2.fandom.com/wiki/Amphitheater_of_Rancor_(SoH:_Utter_Contempt)
+  history: https://eq2.fandom.com/wiki/Amphitheater_of_Rancor_(SoH:_Utter_Contempt)?action=history
+  revision: 876054
+  revised: '2018-06-05T06:48:13Z'
+  license: CC BY-SA 3.0
+---
+
+
