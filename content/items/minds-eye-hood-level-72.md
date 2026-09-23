@@ -1,0 +1,86 @@
+---
+title: Mind's Eye Hood (Level 72)
+type: item
+item_kind: Equipment
+icon: images/Item_2736.png
+tier: Treasured
+level: '72'
+slot: Head
+flags: no-trade
+stats:
+  sta: '+45'
+  agi: '+45'
+  mit: '153'
+  crit: '2.2'
+  critbonus: '0.7'
+  potency: '3.6'
+  abmod: '+80'
+  dtype: Cloth Armor
+effects: '**Arcane Recovery**'
+obtained_from: '[[Truffle Hunting]]'
+item_link: \aITEM -1584649974 -404757361:Mind's Eye Hood\/a
+categories:
+- Ability Modifier (Equipment)
+- Arcane Recovery (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Mind's Eye Hood (Level 72)
+  url: https://eq2.fandom.com/wiki/Mind's_Eye_Hood_(Level_72)
+  history: https://eq2.fandom.com/wiki/Mind's_Eye_Hood_(Level_72)?action=history
+  revision: 1558909
+  revised: '2022-08-16T17:23:01Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: source
+---
+
+

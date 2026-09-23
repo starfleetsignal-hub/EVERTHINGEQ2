@@ -1,0 +1,42 @@
+---
+title: Mossy Blood Hide Gloves
+type: item
+item_kind: Equipment
+icon: images/Item_231.png
+tier: Mastercrafted
+level: '32'
+slot: Hands
+classes: ', [[Channeler]]'
+flags: attunable
+stats:
+  str: '+10'
+  sta: '+10'
+  mit: '110'
+  dtype: Leather Armor
+obtained_from: Crafted by [[Tailor]] (level 40) from [[Common Deathfist Mossy Armor Plans]]
+item_link: \aITEM -563204016 -205125380 0 0 0:Mossy Blood Hide Gloves\/a
+categories:
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Druid Equipment
+- Equipment
+- Equipment pages with existing default images
+- Fury Equipment
+- Hands (Inventory Slot)
+- Leather Armor (Equipment Type)
+- Mastercrafted Equipment
+- Tier 4 Equipment
+- Warden Equipment
+source:
+  title: Mossy Blood Hide Gloves
+  url: https://eq2.fandom.com/wiki/Mossy_Blood_Hide_Gloves
+  history: https://eq2.fandom.com/wiki/Mossy_Blood_Hide_Gloves?action=history
+  revision: 1559022
+  revised: '2022-08-16T17:27:12Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,76 @@
+---
+title: Mace of Unfailing Deeds
+type: item
+item_kind: Equipment
+icon: images/Item_635.png
+level: '1'
+slot: Primary
+flags: ornate appearance-only attunable heirloom no-value
+stats:
+  dmg: 4 - 11
+  delay: '4.0'
+  drating: '3.57'
+  dtype: One-Handed Crushing
+  wtype: Crushing
+item_link: \aITEM 674770847 -227528325:Mace of Unfailing Deeds\/a
+categories:
+- Appearance Only (Equipment Type)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Crushing (Weapon Type)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 1 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Mace of Unfailing Deeds
+  url: https://eq2.fandom.com/wiki/Mace_of_Unfailing_Deeds
+  history: https://eq2.fandom.com/wiki/Mace_of_Unfailing_Deeds?action=history
+  revision: 1707851
+  revised: '2023-03-18T16:32:08Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

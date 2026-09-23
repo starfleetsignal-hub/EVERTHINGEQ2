@@ -1,0 +1,51 @@
+---
+title: Lavaworn Helm of Chaotic Energy
+type: item
+item_kind: Equipment
+icon: images/Item_3643.png
+tier: Fabled
+level: '80'
+slot: Head
+flags: lore-equip attunable heirloom no-value
+stats:
+  str: '+54'
+  sta: '+54'
+  mit: '577'
+  crit: '3.1'
+  critbonus: '1.1'
+  potency: '5'
+  dps: '12.6'
+  dtype: Plate Armor
+effects: '**Runic Recovery**'
+obtained_from: '*Made from [[Elemental Champion''s Helm Mold]] *Made from [[Elemental Champion''s Helm Pattern]]'
+item_link: \aITEM 554719306 1133004103 0 0 0:Lavaworn Helm of Chaotic Energy\/a
+categories:
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Equipment
+- Fabled Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Item obtained from a Pattern
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Runic Recovery (Equipment)
+- Templar Equipment
+- Tier 9 Equipment
+source:
+  title: Lavaworn Helm of Chaotic Energy
+  url: https://eq2.fandom.com/wiki/Lavaworn_Helm_of_Chaotic_Energy
+  history: https://eq2.fandom.com/wiki/Lavaworn_Helm_of_Chaotic_Energy?action=history
+  revision: 1806947
+  revised: '2024-06-30T21:26:38Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

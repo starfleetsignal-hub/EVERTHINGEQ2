@@ -1,0 +1,64 @@
+---
+title: 'Level 130 Tradeskill Boost: Scars of Destruction'
+type: item
+icon: images/Item_4991.png
+tier: Treasured
+flags: ornate heirloom no-value no-destroy
+description: Examining this boost will allow you to boost your tradeskill profession class to level 130 and your Transmuting, Tinkering and Adorning to 625.  If you have already selected a tradeskill profession, this boost will only boost your currently tradeskill profession to level 130.  This boost is non-refundable.
+obtained_from: '*From [[Level 130 Tradeskill Boost Holiday Bundle (Version 1)|Level 130 Tradeskill Boost Holiday Bundle]] *From [[Level 130 Tradeskill Boost Holiday Bundle (Version 2)|Level 130 Tradeskill Boost Holiday Bundle]]'
+item_link: '\aITEM 1523286866 2091054082:Level 130 Tradeskill Boost: Scars of Destruction\/a'
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Items
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Treasured Items
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: 'Level 130 Tradeskill Boost: Scars of Destruction'
+  url: https://eq2.fandom.com/wiki/Level_130_Tradeskill_Boost:_Scars_of_Destruction
+  history: https://eq2.fandom.com/wiki/Level_130_Tradeskill_Boost:_Scars_of_Destruction?action=history
+  revision: 1931555
+  revised: '2026-01-01T20:39:45Z'
+  license: CC BY-SA 3.0
+---
+
+

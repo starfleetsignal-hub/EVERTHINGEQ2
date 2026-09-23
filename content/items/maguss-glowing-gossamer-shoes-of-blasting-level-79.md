@@ -1,0 +1,87 @@
+---
+title: Magus's Glowing Gossamer Shoes of Blasting (Level 79)
+type: item
+item_kind: Equipment
+icon: images/Item_1398.png
+tier: Treasured
+level: '79'
+slot: Feet
+flags: no-trade
+stats:
+  str: '+66'
+  sta: '+66'
+  maxhealth: '0.8'
+  mit: '166'
+  critbonus: '5.3'
+  potency: '3.1'
+  abmod: '+167'
+  aspeed: '14'
+  dtype: Cloth Armor
+obtained_from: '[[More Components for Vixna]]'
+item_link: \aITEM 688719356 -1007322794:Magus's Glowing Gossamer Shoes of Blasting\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Magus's Glowing Gossamer Shoes of Blasting (Level 79)
+  url: https://eq2.fandom.com/wiki/Magus's_Glowing_Gossamer_Shoes_of_Blasting_(Level_79)
+  history: https://eq2.fandom.com/wiki/Magus's_Glowing_Gossamer_Shoes_of_Blasting_(Level_79)?action=history
+  revision: 1558375
+  revised: '2022-08-16T17:04:43Z'
+  license: CC BY-SA 3.0
+expansion: The Shadow Odyssey
+expansion_source: source
+---
+
+

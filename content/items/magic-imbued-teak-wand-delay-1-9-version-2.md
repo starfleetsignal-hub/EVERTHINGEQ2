@@ -1,0 +1,63 @@
+---
+title: Magic imbued teak wand (Delay 1.9) (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_2161.png
+tier: Handcrafted
+level: '40'
+slot: Ranged
+flags: attunable
+stats:
+  sta: '+10'
+  int: '+11'
+  dmg: 79 - 236
+  delay: '8.0'
+  drating: '39.31'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+effects: '**Lightning Shock**'
+item_link: \aITEM 832212361 2042040204:magic imbued teak wand\/a
+categories:
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Handcrafted Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Lightning Shock (Equipment)
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 5 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Magic imbued teak wand (Delay 1.9) (Version 2)
+  url: https://eq2.fandom.com/wiki/Magic_imbued_teak_wand_(Delay_1.9)_(Version_2)
+  history: https://eq2.fandom.com/wiki/Magic_imbued_teak_wand_(Delay_1.9)_(Version_2)?action=history
+  revision: 1331106
+  revised: '2021-05-16T22:08:36Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

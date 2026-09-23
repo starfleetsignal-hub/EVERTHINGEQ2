@@ -1,0 +1,37 @@
+---
+title: Lucidus Hand Pattern of the Deathless (heirloom)
+type: item
+item_kind: Crate
+icon: images/Item_1048.png
+tier: Fabled
+item_level: '120'
+flags: heirloom no-value
+contains: '- [[Lucidus Gauntlets of the Deathless]]
+
+  - [[Lucidus Mitts of the Deathless]]
+
+  - [[Lucidus Gloves of the Deathless]]
+
+  - [[Lucidus Leather Gauntlets of the Deathless (Version 1){{!}}Lucidus Leather Gauntlets of the Deathless]]
+
+  - [[Lucidus Leather Gauntlets of Evasion (Version 1){{!}}Lucidus Leather Gauntlets of Evasion]]
+
+  - [[Lucidus Gauntlets of Evasion]]'
+item_link: \aITEM -802649447 1883709129:Lucidus Hand Pattern of the Deathless\/a
+categories:
+- Census Credits
+- Crate (Item Type)
+- Fabled Items
+- Items
+source:
+  title: Lucidus Hand Pattern of the Deathless (heirloom)
+  url: https://eq2.fandom.com/wiki/Lucidus_Hand_Pattern_of_the_Deathless_(heirloom)
+  history: https://eq2.fandom.com/wiki/Lucidus_Hand_Pattern_of_the_Deathless_(heirloom)?action=history
+  revision: 1695633
+  revised: '2023-03-16T20:00:14Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

@@ -1,0 +1,56 @@
+---
+title: Mayka's Raucous Spaulders
+type: item
+item_kind: Equipment
+icon: images/Item_3674.png
+tier: Legendary
+level: '110'
+slot: Shoulders
+flags: attunable heirloom infusable
+stats:
+  str: +1,017
+  sta: +2,305
+  health: +100,221
+  power: +15,016
+  maxhealth: '20.1'
+  mit: '853'
+  potency: '762.4'
+  resolve: '45'
+  cbovercap: '+26.8'
+  mitinc: '22'
+  dtype: Plate Armor
+item_link: \aITEM -1292748408 -901034000:Mayka's Raucous Spaulders\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Shoulders (Inventory Slot)
+- Templar Equipment
+- Tier 12 Equipment
+- Warrior Equipment
+source:
+  title: Mayka's Raucous Spaulders
+  url: https://eq2.fandom.com/wiki/Mayka's_Raucous_Spaulders
+  history: https://eq2.fandom.com/wiki/Mayka's_Raucous_Spaulders?action=history
+  revision: 1669974
+  revised: '2023-03-15T21:28:08Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

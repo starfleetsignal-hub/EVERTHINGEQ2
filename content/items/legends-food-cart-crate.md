@@ -1,0 +1,24 @@
+---
+title: Legend's Food Cart (crate)
+type: item
+item_kind: Crate
+icon: images/Item_869.png
+tier: Treasured
+item_level: '0'
+contains: '- [[Legend''s Food Cart (House Item){{!}}Legend''s Food Cart]]'
+item_link: \aITEM 1453950458 -1070723649:Legend's Food Cart\/a
+categories:
+- Census Credits
+- Crate (Item Type)
+- Items
+- Treasured Items
+source:
+  title: Legend's Food Cart (crate)
+  url: https://eq2.fandom.com/wiki/Legend's_Food_Cart_(crate)
+  history: https://eq2.fandom.com/wiki/Legend's_Food_Cart_(crate)?action=history
+  revision: 1636251
+  revised: '2023-01-05T13:28:03Z'
+  license: CC BY-SA 3.0
+---
+
+

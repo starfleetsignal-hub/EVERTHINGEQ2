@@ -1,0 +1,55 @@
+---
+title: Leather Mistmyr Manor Mender Mitts
+type: item
+item_kind: Equipment
+icon: images/Item_3246.png
+tier: Legendary
+level: '90'
+slot: Hands
+classes: ', , [[Channeler]]'
+flags: no-trade
+stats:
+  sta: '+154'
+  agi: '+154'
+  health: '+70'
+  power: '+18'
+  maxhealth: '9.1'
+  mit: '350'
+  crit: '5.42'
+  critbonus: '4.92'
+  potency: '15.3'
+  abmod: '+305'
+  dtype: Leather Armor
+item_link: \aITEM -821330587 1725237444:Leather Mistmyr Manor Mender Mitts\/a
+categories:
+- Ability Modifier (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Hands (Inventory Slot)
+- Leather Armor (Equipment Type)
+- Legendary Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Tier 10 Equipment
+- Warden Equipment
+source:
+  title: Leather Mistmyr Manor Mender Mitts
+  url: https://eq2.fandom.com/wiki/Leather_Mistmyr_Manor_Mender_Mitts
+  history: https://eq2.fandom.com/wiki/Leather_Mistmyr_Manor_Mender_Mitts?action=history
+  revision: 1428769
+  revised: '2022-04-18T12:25:57Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

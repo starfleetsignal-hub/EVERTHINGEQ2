@@ -1,0 +1,75 @@
+---
+title: Line of Fire
+type: item
+item_kind: Equipment
+icon: images/Item_2972.png
+tier: Mythical
+level: '120'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: attunable heirloom
+stats:
+  sta: +3,838
+  agi: +2,674
+  health: +106,354
+  power: +64,401
+  crit: '842'
+  potency: 6,556.2
+  resolve: '205'
+  abmod: +25,790
+  aspeed: '152.9'
+  cbovercap: '+118.9'
+  dmg: 2030 - 3045
+  delay: '8.0'
+  drating: '634.37'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+effects: '**Noxious Rending**'
+item_link: \aITEM -151071859 21790592:Line of Fire\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Mythical Equipment
+- Noxious Rending (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Line of Fire
+  url: https://eq2.fandom.com/wiki/Line_of_Fire
+  history: https://eq2.fandom.com/wiki/Line_of_Fire?action=history
+  revision: 1901717
+  revised: '2025-09-18T21:07:52Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

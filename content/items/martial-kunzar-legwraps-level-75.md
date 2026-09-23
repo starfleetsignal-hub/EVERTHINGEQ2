@@ -1,0 +1,46 @@
+---
+title: Martial Kunzar Legwraps (Level 75)
+type: item
+item_kind: Equipment
+icon: images/Item_3687.png
+tier: Treasured
+level: '75'
+slot: Legs
+flags: attunable
+stats:
+  sta: '+44'
+  agi: '+44'
+  maxhealth: '4.7'
+  mit: '275'
+  crit: '2.1'
+  critbonus: '0.7'
+  potency: '3.6'
+  dtype: Leather Armor
+item_link: \aITEM 968436610 1901850374:Martial Kunzar Legwraps\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Leather Armor (Equipment Type)
+- Legs (Inventory Slot)
+- Max Health (Equipment)
+- Monk Equipment
+- Potency (Equipment)
+- Tier 8 Equipment
+- Treasured Equipment
+source:
+  title: Martial Kunzar Legwraps (Level 75)
+  url: https://eq2.fandom.com/wiki/Martial_Kunzar_Legwraps_(Level_75)
+  history: https://eq2.fandom.com/wiki/Martial_Kunzar_Legwraps_(Level_75)?action=history
+  revision: 1558727
+  revised: '2022-08-16T17:16:42Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

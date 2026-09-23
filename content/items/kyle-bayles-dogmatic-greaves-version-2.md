@@ -1,0 +1,50 @@
+---
+title: Kyle Bayle's Dogmatic Greaves (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_2865.png
+tier: Legendary
+level: '70'
+slot: Legs
+flags: lore attunable
+stats:
+  str: '+39'
+  sta: '+39'
+  maxhealth: '4.1'
+  mit: '457'
+  crit: '1.8'
+  critbonus: '0.5'
+  potency: '2.6'
+  multi: '4.8'
+  dtype: Plate Armor
+obtained_from: 'From [[Faydwer Plate Pattern: Legs]]'
+item_link: \aITEM 1376401906 -849107223 0 0 0:Kyle Bayle's Dogmatic Greaves\/a
+categories:
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Legs (Inventory Slot)
+- Max Health (Equipment)
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Tier 8 Equipment
+source:
+  title: Kyle Bayle's Dogmatic Greaves (Version 2)
+  url: https://eq2.fandom.com/wiki/Kyle_Bayle's_Dogmatic_Greaves_(Version_2)
+  history: https://eq2.fandom.com/wiki/Kyle_Bayle's_Dogmatic_Greaves_(Version_2)?action=history
+  revision: 1716972
+  revised: '2023-04-15T19:59:08Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

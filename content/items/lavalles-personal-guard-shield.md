@@ -1,0 +1,55 @@
+---
+title: Lavalle's Personal Guard Shield
+type: item
+item_kind: Equipment
+icon: images/Item_5362.png
+tier: Fabled
+level: '125'
+slot: Shield
+flags: attunable heirloom
+description: Gnomes are Beefcake's favorite treat, so she keeps a steady supply of them.
+stats:
+  sta: +6,023
+  agi: +3,209
+  health: +210,283
+  power: +132,149
+  maxhealth: '135.3'
+  crit: '459.2'
+  potency: 19,866.9
+  resolve: '315'
+  cbovercap: '+1188.8'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM 366661675 -664086734:Lavalle's Personal Guard Shield\/a
+categories:
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Max Health (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 13 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+source:
+  title: Lavalle's Personal Guard Shield
+  url: https://eq2.fandom.com/wiki/Lavalle's_Personal_Guard_Shield
+  history: https://eq2.fandom.com/wiki/Lavalle's_Personal_Guard_Shield?action=history
+  revision: 1701604
+  revised: '2023-03-16T23:30:25Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

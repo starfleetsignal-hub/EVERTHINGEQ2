@@ -1,0 +1,29 @@
+---
+title: Mischievous Hackamore of Proficiency (Recipe Book)
+type: item
+item_kind: Recipe book
+icon: images/Item_711.png
+tier: Mythical
+level: '110'
+classes: Artisan
+flags: heirloom
+recipes: '- [[Mischievous Hackamore of Proficiency]]'
+obtained_from: Potential reward from [[Anchorage Mission Reward Crate]] for completing [[Mischief and Mayhem Crafting Timeline#Tradeskill Missions|Tradeskill Missions]] in [[The Anchorage (Public Tradeskill)]]
+item_link: \aITEM -1131345548 -1640119956:Mischievous Hackamore of Proficiency\/a
+categories:
+- Artisan Recipe Books
+- Census Credits
+- Mythical Recipe Books
+- Recipe Books
+source:
+  title: Mischievous Hackamore of Proficiency (Recipe Book)
+  url: https://eq2.fandom.com/wiki/Mischievous_Hackamore_of_Proficiency_(Recipe_Book)
+  history: https://eq2.fandom.com/wiki/Mischievous_Hackamore_of_Proficiency_(Recipe_Book)?action=history
+  revision: 1700222
+  revised: '2023-03-16T22:43:37Z'
+  license: CC BY-SA 3.0
+expansion: Chaos Descending
+expansion_source: source
+---
+
+

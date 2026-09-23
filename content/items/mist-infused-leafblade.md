@@ -1,0 +1,64 @@
+---
+title: Mist Infused Leafblade
+type: item
+item_kind: Equipment
+icon: images/Item_1674.png
+tier: Fabled
+level: '10'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable
+stats:
+  sta: '+5'
+  agi: '+5'
+  dmg: 4 - 13
+  delay: '2.1'
+  drating: '8.11'
+  dtype: One-Handed Piercing
+  wtype: Spear
+effects: '**Chill Gust Glyph**'
+item_link: \aITEM 469010235 -1646041884:Mist Infused Leafblade\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Chill Gust Glyph (Equipment)
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Mystic Equipment
+- One-Handed Piercing (Equipment Type)
+- Paladin Equipment
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Spear (Weapon Type)
+- Swashbuckler Equipment
+- Tier 2 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Mist Infused Leafblade
+  url: https://eq2.fandom.com/wiki/Mist_Infused_Leafblade
+  history: https://eq2.fandom.com/wiki/Mist_Infused_Leafblade?action=history
+  revision: 1902029
+  revised: '2025-09-18T21:19:00Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

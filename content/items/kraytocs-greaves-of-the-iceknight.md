@@ -1,0 +1,76 @@
+---
+title: Kraytoc's Greaves of the Iceknight
+type: item
+item_kind: Equipment
+icon: images/Item_4109.png
+tier: Legendary
+level: '1'
+slot: Legs
+flags: ornate appearance-only no-trade no-value
+description: This item is ceremonial in nature and will not offer any protection to the wearer if worn in combat.  Any person can wear this item regardless of their profession.
+stats:
+  mit: '184'
+  dtype: Cloth Armor
+obtained_from: From [[Kraytoc's Iceknight Armor Crate]]
+item_link: \aITEM -1930143063 -1741055031:Kraytoc's Greaves of the Iceknight\/a
+categories:
+- Appearance Only (Equipment Type)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Legs (Inventory Slot)
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 1 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Kraytoc's Greaves of the Iceknight
+  url: https://eq2.fandom.com/wiki/Kraytoc's_Greaves_of_the_Iceknight
+  history: https://eq2.fandom.com/wiki/Kraytoc's_Greaves_of_the_Iceknight?action=history
+  revision: 838587
+  revised: '2018-02-06T22:47:58Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

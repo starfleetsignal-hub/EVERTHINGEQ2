@@ -1,0 +1,23 @@
+---
+title: Mediocre Moonflower Emulsion
+type: item
+icon: images/Item_405.png
+tier: Uncommon
+item_level: '40'
+item_link: \aITEM -915582416 1113961268:Mediocre Moonflower Emulsion\/a
+categories:
+- Census Credits
+- Items
+- Uncommon Items
+source:
+  title: Mediocre Moonflower Emulsion
+  url: https://eq2.fandom.com/wiki/Mediocre_Moonflower_Emulsion
+  history: https://eq2.fandom.com/wiki/Mediocre_Moonflower_Emulsion?action=history
+  revision: 1796760
+  revised: '2024-05-03T11:12:53Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,94 @@
+---
+title: Mesmerizer's Bolstered Earring (Level 110)
+type: item
+item_kind: Equipment
+icon: images/Item_3462.png
+tier: Legendary
+level: '110'
+slot: Ear
+flags: lore no-trade no-value infusable
+stats:
+  sta: '+900'
+  int: '+606'
+  health: +16,512
+  power: +4,950
+  critbonus: '190.9'
+  potency: 1,591.7
+  resolve: '15'
+  flurry: '31.9'
+  vselemental: +52,580
+  mitinc: '14.1'
+obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
+item_link: \aITEM -654443642 2122346143:Mesmerizer's Bolstered Earring\/a
+image: images/Mesmerizer's_Bolstered_Earring_(Level_110).png
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Ear (Inventory Slot)
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Fighter Equipment
+- Flurry Chance (Equipment)
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Mage Equipment
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 12 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+- Wizard Equipment
+source:
+  title: Mesmerizer's Bolstered Earring (Level 110)
+  url: https://eq2.fandom.com/wiki/Mesmerizer's_Bolstered_Earring_(Level_110)
+  history: https://eq2.fandom.com/wiki/Mesmerizer's_Bolstered_Earring_(Level_110)?action=history
+  revision: 2030203
+  revised: '2026-09-21T18:35:02Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+

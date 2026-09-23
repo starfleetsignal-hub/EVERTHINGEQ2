@@ -1,0 +1,63 @@
+---
+title: Mudwalker's Chain Greaves of the Deathless
+type: item
+item_kind: Equipment
+icon: images/Item_3269.png
+tier: Fabled
+level: '110'
+slot: Legs
+flags: no-trade no-value infusable
+stats:
+  sta: +3,305
+  agi: +1,451
+  health: +175,458
+  power: +26,287
+  maxhealth: '28'
+  mit: '925'
+  potency: 1,503.1
+  resolve: '75'
+  cbovercap: '+56.1'
+  mitinc: '33.6'
+  dtype: Chain Armor
+obtained_from: Made from [[Deathless Mudwalker's Pant Pattern]]
+item_link: \aITEM -308888106 280847139:Mudwalker's Chain Greaves of the Deathless\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus Overcap (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Item obtained from a Pattern
+- Legs (Inventory Slot)
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 12 Equipment
+- Troubador Equipment
+source:
+  title: Mudwalker's Chain Greaves of the Deathless
+  url: https://eq2.fandom.com/wiki/Mudwalker's_Chain_Greaves_of_the_Deathless
+  history: https://eq2.fandom.com/wiki/Mudwalker's_Chain_Greaves_of_the_Deathless?action=history
+  revision: 1096519
+  revised: '2020-07-27T18:35:36Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

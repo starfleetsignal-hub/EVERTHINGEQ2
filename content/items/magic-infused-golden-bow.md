@@ -1,0 +1,74 @@
+---
+title: Magic-infused Golden Bow
+type: item
+item_kind: Equipment
+icon: images/Item_74.png
+tier: Fabled
+level: '100'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: attunable heirloom infusable
+stats:
+  sta: +1,178
+  agi: '+540'
+  crit: '183.3'
+  critbonus: '29.8'
+  potency: '36.4'
+  resolve: '5'
+  aspeed: '62.1'
+  dps: '55'
+  multi: '31'
+  dmg: 433 - 2455
+  delay: '9.0'
+  drating: '320.9'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+effects: '**Anguish**'
+item_link: \aITEM -360507529 1871815863:Magic-infused Golden Bow\/a
+categories:
+- Anguish (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Magic-infused Golden Bow
+  url: https://eq2.fandom.com/wiki/Magic-infused_Golden_Bow
+  history: https://eq2.fandom.com/wiki/Magic-infused_Golden_Bow?action=history
+  revision: 1901835
+  revised: '2025-09-18T21:11:50Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

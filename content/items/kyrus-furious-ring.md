@@ -1,0 +1,89 @@
+---
+title: Kyrus' Furious Ring
+type: item
+item_kind: Equipment
+icon: images/Item_3899.png
+tier: Fabled
+level: '100'
+slot: Finger
+flags: attunable heirloom infusable
+stats:
+  sta: '+772'
+  agi: '+426'
+  critbonus: '20.2'
+  potency: '28.2'
+  resolve: '6'
+  aspeed: '38'
+  vselemental: +35,154
+effects: '**Building Furor**'
+item_link: \aITEM -970900039 1295237869:Kyrus' Furious Ring\/a
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Block Chance (Equipment)
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Building Furor (Equipment)
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Finger (Inventory Slot)
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Kyrus' Furious Ring
+  url: https://eq2.fandom.com/wiki/Kyrus'_Furious_Ring
+  history: https://eq2.fandom.com/wiki/Kyrus'_Furious_Ring?action=history
+  revision: 1886567
+  revised: '2025-09-16T20:31:22Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+
