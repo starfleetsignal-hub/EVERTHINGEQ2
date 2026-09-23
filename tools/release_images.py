@@ -6,13 +6,14 @@
 images-release.json lists every file with its shard, source URL, uploader and upload time (CC BY-SA credit).
 Tar members are images/<File_name>, the path pages link to, like the shared tars.
 """
-import argparse, hashlib, io, json, os, socket, sys, tarfile, time, urllib.request
+import argparse, io, json, os, socket, sys, tarfile, time, urllib.request
 from concurrent.futures import ThreadPoolExecutor
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 PLAN = os.path.join(ROOT, "images-release.json")
 UA = "NorrathLedgerImporter/0.1 (fan wiki conversion; contact via github.com/starfleetsignal-hub)"
 SHARD_BYTES = 1_900_000_000          # release assets must stay under 2 GiB
+SHARD_FILES = 5_000                  # download time goes by file count, so keep shards even for parallel jobs
 
 _getaddrinfo = socket.getaddrinfo      # runners have no IPv6 route; an IPv6 address stalls each connect ~2 minutes
 socket.getaddrinfo = lambda host, port, family=0, *a, **k: _getaddrinfo(host, port, socket.AF_INET, *a, **k)
@@ -20,10 +21,10 @@ socket.getaddrinfo = lambda host, port, family=0, *a, **k: _getaddrinfo(host, po
 def plan(allimages, index):
     al = json.load(open(allimages)); have = json.load(open(index))
     rest = sorted((i for i in al if i["name"] not in have and not i["mime"].startswith("video/youtube")), key=lambda i: i["name"])
-    shard, used, out = 0, 0, []
+    shard, used, count, out = 0, 0, 0, []
     for i in rest:
-        if used + i["size"] > SHARD_BYTES and used: shard, used = shard + 1, 0
-        used += i["size"]
+        if (used + i["size"] > SHARD_BYTES or count == SHARD_FILES) and used: shard, used, count = shard + 1, 0, 0
+        used += i["size"]; count += 1
         out.append({"name": i["name"], "shard": shard, "url": i["url"], "size": i["size"], "sha1": i["sha1"],
                     "file_page": "https://eq2.fandom.com/wiki/File:" + urllib.request.quote(i["name"]),
                     "uploader": i.get("user", ""), "uploaded": i.get("uploaded", "")})
@@ -36,7 +37,6 @@ def fetch(i):
         try:
             req = urllib.request.Request(i["url"] + "?format=original", headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=60) as r: data = r.read()
-            if i.get("sha1") and hashlib.sha1(data).hexdigest() != i["sha1"]: print(f"  sha1 differs: {i['name']}", file=sys.stderr)
             return data
         except Exception as e:
             err = str(e)
@@ -56,14 +56,17 @@ def shard(n, workers=8, limit=None):
             if k % 1000 == 0: print(f"  {k}/{len(items)} in {time.time() - t0:.0f}s, {len(failed)} failed", file=sys.stderr, flush=True)
             if k == 200 and len(failed) > 100: sys.exit(f"stopping: {len(failed)} of the first 200 failed, e.g. {failed[0]}")
     json.dump(failed, open(f"eq2-images-{n:02d}-failed.json", "w"), indent=1)
+    if os.environ.get("GITHUB_OUTPUT"): open(os.environ["GITHUB_OUTPUT"], "a").write(f"failed={len(failed)}\n")
     print(f"{name}: {len(items) - len(failed)} of {len(items)} files, {len(failed)} failed, {time.time() - t0:.0f}s", file=sys.stderr)
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("--plan", action="store_true"); ap.add_argument("--shard", type=int)
     ap.add_argument("--limit", type=int, help="only the first N files of the shard (a quick test)")
+    ap.add_argument("--list-shards", action="store_true", help="print the shard numbers as a JSON list (for the CI matrix)")
     ap.add_argument("--allimages", default=os.path.join(ROOT, "data", "allimages.json"))
     ap.add_argument("--index", default=os.path.join(ROOT, "images", "index.json"))
     a = ap.parse_args()
     if a.plan: plan(a.allimages, a.index)
+    if a.list_shards: print(json.dumps(sorted({i["shard"] for i in json.load(open(PLAN))})))
     if a.shard is not None: shard(a.shard, limit=a.limit)

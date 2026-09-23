@@ -23,6 +23,8 @@ env:
 jobs:
   release:
     runs-on: ubuntu-latest
+    outputs:
+      shards: ${{ steps.shards.outputs.shards }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -44,15 +46,16 @@ jobs:
           NOTES
           )"
           gh release upload "$TAG" images-release.json --clobber
+      - id: shards
+        run: echo "shards=$(python3 tools/release_images.py --list-shards)" >> "$GITHUB_OUTPUT"
 
   shard:
     needs: release
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
-      max-parallel: 3
       matrix:
-        shard: [0, 1, 2, 3, 4]   # one per shard in images-release.json
+        shard: ${{ fromJSON(needs.release.outputs.shards) }}
     steps:
       - uses: actions/checkout@v4
         with:
