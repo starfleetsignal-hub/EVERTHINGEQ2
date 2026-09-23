@@ -1,0 +1,43 @@
+---
+title: Knight's Stance IX
+type: spell
+class: '[[Paladin]]'
+spell_type: arts
+category: Stance - Defensive
+icon: images/Spell_183.png
+levels: 4, 16, 30, 44, 58, 72, 82, 92, 102, 112, 121, 126, 131
+cast_time: 0.5 seconds
+recast: Instant
+duration: Until Cancelled
+description: Greatly increases defense, aggression, base avoidance, stamina, physical, and arcane damage mitigation at the cost of offensive melee skills. This is the paladin's primary defensive stance.
+effects: '- Reduces physical damage done to caster by 5%.
+
+  - Increases STA of caster by X
+
+  - Adds Y% to base avoidance.
+
+  - Decreases Crushing, Piercing and Slashing of caster by 25.1.
+
+  - Increases Aggression and Defense of caster by Z.
+
+  - Increases Mitigation of caster vs arcane damage by M.
+
+  - Increases the caster''s effectiveness of worn armor vs physical damage by 15%.'
+categories:
+- Paladin Spells
+- Spells
+- Spells by Type Combat Arts
+- Stance - Defensive (Spell Type)
+source:
+  title: Knight's Stance IX
+  url: https://eq2.fandom.com/wiki/Knight's_Stance_IX
+  history: https://eq2.fandom.com/wiki/Knight's_Stance_IX?action=history
+  revision: 1954651
+  revised: '2026-01-15T03:52:33Z'
+  license: CC BY-SA 3.0
+---
+
+X: 2,506.5 / 3,063.5 / 3,342.0 / 4,288.9 / 4,456.0 / 4,678.8 / 5,625.7 / 5,765.0 (Apprentice to Grandmaster)
+Y: 2.8 / 3.4 / 3.7 / 4.8 / 5.0 / 5.2 / 6.3 / 6.4 (Apprentice to Grandmaster)
+Z: 31.9 / 39.0 / 42.5 / 54.5 / 56.7 / 59.5 / 71.5 / 73.3 (Apprentice to Grandmaster)
+M: 2,081 / 2,543 / 2,774 / 3,560 / 3,699 / 3,884 / 4,670 / 4,786 (Apprentice to Grandmaster)

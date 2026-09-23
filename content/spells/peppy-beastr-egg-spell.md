@@ -1,0 +1,28 @@
+---
+title: Peppy Beast'r Egg (Spell)
+type: spell
+spell_type: abilities
+icon: images/Spell_774.png
+levels: '0'
+cast_time: 3.0 seconds
+recast: Instant
+duration: Until Cancelled
+effects: '- Summons a pet Peppy Beast''r Egg
+
+  - Cannot be modified except by direct means'
+categories:
+- Census Credits
+- Fun Spell (Spell Type)
+- Spells
+- Spells by Type Abilities
+- Summon Pet (Spell Type)
+source:
+  title: Peppy Beast'r Egg (Spell)
+  url: https://eq2.fandom.com/wiki/Peppy_Beast'r_Egg_(Spell)
+  history: https://eq2.fandom.com/wiki/Peppy_Beast'r_Egg_(Spell)?action=history
+  revision: 2021907
+  revised: '2026-08-12T00:10:13Z'
+  license: CC BY-SA 3.0
+---
+
+

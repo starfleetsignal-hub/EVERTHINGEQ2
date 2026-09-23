@@ -1,0 +1,35 @@
+---
+title: Fancy Footwork X
+type: spell
+class: '[[Swashbuckler]]'
+spell_type: arts
+category: Stance - Defensive
+icon: images/Spell_225.png
+levels: 18, 32, 46, 60, 73, 83, 93, 103, 113, 122, 127, 132
+cast_time: 0.5 seconds
+recast: Instant
+duration: Until Cancelled
+description: Increases defense, parry, aggression, and physical damage mitigation while reducing the offensive melee skills. This is the swashbuckler's primary defensive stance.
+effects: '- Decreases Slashing, Piercing and Crushing of caster by 41.6.
+
+  - Increases Aggression of caster by X.
+
+  - Increases Defense and Parry of caster by Y.
+
+  - Increases the caster''s effectiveness of worn armor vs physical damage by 22%.'
+categories:
+- Spells
+- Spells by Type Combat Arts
+- Stance - Defensive (Spell Type)
+- Swashbuckler Spells
+source:
+  title: Fancy Footwork X
+  url: https://eq2.fandom.com/wiki/Fancy_Footwork_X
+  history: https://eq2.fandom.com/wiki/Fancy_Footwork_X?action=history
+  revision: 2011400
+  revised: '2026-06-08T21:47:51Z'
+  license: CC BY-SA 3.0
+---
+
+X: 20.1 / 24.6 / 26.8 / 34.4 / 35.7 / 37.5 / 45.1 / 46.2 (Apprentice to Grandmaster)
+Y: 40.2 / 49.1 / 53.6 / 68.8 / 71.4 / 75.0 / 90.2 / 92.4 (Apprentice to Grandmaster)

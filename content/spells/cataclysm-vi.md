@@ -1,0 +1,38 @@
+---
+title: Cataclysm VI
+type: spell
+class: '[[Warlock]]'
+spell_type: spells
+icon: images/Spell_238.png
+levels: 2, 14, 28, 42, 56, 70, 80, 90, 100, 110, 120, 125, 130, 135
+target: Enemy
+power_cost: '289'
+cast_time: 2.0 seconds
+recast: 8.0 seconds
+duration: 3.0 seconds
+range: Up to 35.0 meters
+radius: 7.5 meters
+max_targets: '8'
+mastery: Disruption
+description: Interrupts and deals great amounts of poison damage over time to all enemies surrounding the warlock.
+effects: '- Interrupts targets in Area of Effect
+
+  - Inflicts X poison damage on targets in Area of Effect instantly and every second.'
+categories:
+- DOT (Spell Type)
+- Disruption Spells
+- Interrupt (Spell Type)
+- Spells
+- Spells by Type Spells
+- Warlock Spells
+source:
+  title: Cataclysm VI
+  url: https://eq2.fandom.com/wiki/Cataclysm_VI
+  history: https://eq2.fandom.com/wiki/Cataclysm_VI?action=history
+  revision: 2002891
+  revised: '2026-05-16T04:12:49Z'
+  license: CC BY-SA 3.0
+---
+
+Resistibility: 12% Harder / 12% Harder / 12% Harder / 16% Harder / 21% Harder / 24% Harder / 27% Harder / 30% Harder (Apprentice to Grandmaster)
+X: 102-189 / 124-230 / 135-251 / 174-323 / 180-335 / 190-352 / 228-423 / 233-434 (Apprentice to Grandmaster)

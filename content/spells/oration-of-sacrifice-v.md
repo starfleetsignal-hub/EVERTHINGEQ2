@@ -1,0 +1,34 @@
+---
+title: Oration of Sacrifice V
+type: spell
+class: '[[Dirge]]'
+spell_type: spells
+category: HOT
+icon: images/Spell_487.png
+levels: 65, 78, 86, 96, 106, 116, 123, 128, 133
+target: Raid or Group Friend
+health_cost: 1431 to cast
+cast_time: 0.5 seconds
+recast: 45.0 seconds
+duration: 8.0 seconds
+radius: Up to 20.0 meters
+mastery: Ministration
+description: Quickly channels health over-time from the dirge to an ally. While in effect, the dirge is temporarily stifled.
+effects: "- Heals target for X instantly and every 0.3 seconds.\n- Stifles caster\n- On any combat or spell hit this spell will cast Fierce Combat on target of attack.\n  - Inflicts Y disease damage on target.\n  - This effect can only trigger once every 1.5 second."
+categories:
+- Dirge Spells
+- HOT (Spell Type)
+- Ministration Spells
+- Spells
+- Spells by Type Spells
+source:
+  title: Oration of Sacrifice V
+  url: https://eq2.fandom.com/wiki/Oration_of_Sacrifice_V
+  history: https://eq2.fandom.com/wiki/Oration_of_Sacrifice_V?action=history
+  revision: 2010434
+  revised: '2026-06-02T03:13:19Z'
+  license: CC BY-SA 3.0
+---
+
+X: 1 / 1 / 1 / 1 / 1 / 1 / 2 / 2 (Apprentice to Grandmaster)
+Y: 3,639-6,064 / 4,447-7,412 / 4,852-8,086 / 6,226-10,377 / 6,469-10,781 / 6,792-11,320 / 8,167-13,611 / 8,369-13,948 (Apprentice to Grandmaster)

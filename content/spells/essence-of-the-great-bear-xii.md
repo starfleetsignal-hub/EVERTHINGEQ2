@@ -1,0 +1,42 @@
+---
+title: Essence of the Great Bear XII
+type: spell
+class: '[[Warden]]'
+spell_type: spells
+category: Buff
+icon: images/Spell_203.png
+levels: 16, 30, 44, 58, 72, 82, 92, 102, 112, 121, 126, 131
+target: Group
+concentration: '1'
+cast_time: 3.0 seconds
+recast: 2.0 seconds
+duration: Until Cancelled
+radius: 50.0 meters
+mastery: Ordination
+description: A group augmentation that increases the resistances and stamina of the warden's group.
+effects: '- Increases STA of group members (AE) by X.
+
+  - Increases Max Health of group members (AE) by H%.
+
+  - Increases Crit Bonus of group members (AE) by Y.
+
+  - Increases Mitigation of group members (AE) vs elemental damage by Z.'
+categories:
+- Buff (Spell Type)
+- Ordination Spells
+- Spells
+- Spells by Type Spells
+- Warden Spells
+source:
+  title: Essence of the Great Bear XII
+  url: https://eq2.fandom.com/wiki/Essence_of_the_Great_Bear_XII
+  history: https://eq2.fandom.com/wiki/Essence_of_the_Great_Bear_XII?action=history
+  revision: 2030150
+  revised: '2026-09-21T15:20:02Z'
+  license: CC BY-SA 3.0
+---
+
+X: 57.3 / 70.0 / 76.4 / 98.0 / 101.8 / 106.9 / 128.4 / 131.7 (Apprentice to Grandmaster)
+H: 7.2 / 8.8 / 9.6 / 12.3 / 12.8 / 13.4 / 16.2 / 16.6 (Apprentice to Grandmaster)
+Y: 531.2 / 649.2 / 708.3 / 908.9 / 944.4 / 991.6 / 1,192.3 / 1,221.8 (Apprentice to Grandmaster)
+Z: 29,002 / 35,447 / 38,669 / 49,626 / 51,559 / 54,137 / 65,093 / 66,705 (Apprentice to Grandmaster)

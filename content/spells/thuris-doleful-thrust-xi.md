@@ -1,0 +1,33 @@
+---
+title: Thuri's Doleful Thrust XI
+type: spell
+class: '[[Dirge]]'
+spell_type: arts
+category: DD
+icon: images/Spell_338.png
+levels: 1, 8, 15, 29, 43, 57, 71, 81, 91, 101, 111, 121, 126, 131
+target: Enemy
+power_cost: '1504'
+cast_time: 0.5 seconds
+recast: 10.0 seconds
+range: Up to 5.0 meters
+description: A quick attack that drains the target's health, granting a portion of it to the dirge.
+effects: '- Inflicts X melee damage on target
+
+  - Heals caster for Y.'
+categories:
+- DD (Spell Type)
+- Dirge Spells
+- Spells
+- Spells by Type Combat Arts
+source:
+  title: Thuri's Doleful Thrust XI
+  url: https://eq2.fandom.com/wiki/Thuri's_Doleful_Thrust_XI
+  history: https://eq2.fandom.com/wiki/Thuri's_Doleful_Thrust_XI?action=history
+  revision: 2009506
+  revised: '2026-05-21T12:48:40Z'
+  license: CC BY-SA 3.0
+---
+
+X: 400-667 / 489-816 / 534-890 / 685-1,142 / 712-1,187 / 747-1,246 / 899-1,498 / 921-1,536 (Apprentice to Grandmaster)
+Y: 193 / 236 / 258 / 331 / 344 / 361 / 434 / 445 (Apprentice to Grandmaster)

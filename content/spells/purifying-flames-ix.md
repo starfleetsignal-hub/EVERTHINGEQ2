@@ -1,0 +1,37 @@
+---
+title: Purifying Flames IX
+type: spell
+class: '[[Inquisitor]]'
+spell_type: spells
+icon: images/Spell_190.png
+levels: 23, 37, 51, 65, 77, 87, 97, 107, 117, 124, 129, 134
+target: Enemy
+power_cost: '1839'
+cast_time: 2.0 seconds
+recast: 15.0 seconds
+duration: 16.0seconds
+range: Up to 30.0 meters
+mastery: Disruption
+description: Deals heat damage over time to the inquisitor's target and lowers their divine resistance.
+effects: '- Inflicts X heat damage on target instantly and every 4 seconds.
+
+  - Decreases Mitigation of target vs arcane damage by Y.'
+categories:
+- DOT (Spell Type)
+- Debuff (Spell Type)
+- Disruption Spells
+- Inquisitor Spells
+- Spells
+- Spells by Type Spells
+source:
+  title: Purifying Flames IX
+  url: https://eq2.fandom.com/wiki/Purifying_Flames_IX
+  history: https://eq2.fandom.com/wiki/Purifying_Flames_IX?action=history
+  revision: 1988975
+  revised: '2026-02-26T03:28:55Z'
+  license: CC BY-SA 3.0
+---
+
+Resistibility: 12% Harder / 12% Harder / 12% Harder / 16% Harder / 21% Harder / 24% Harder / 27% Harder / 30% Harder (Apprentice to Grandmaster)
+X: 312-381381-466 / 416-509 / 534-653 / 555-678 / 583-712 / 700-856 / 718-877 (Apprentice to Grandmaster)
+Y: 2,248 / 2,748 / 2,997 / 3,847 / 3,997 / 4,196 / 5,046 / 5,171 (Apprentice to Grandmaster)

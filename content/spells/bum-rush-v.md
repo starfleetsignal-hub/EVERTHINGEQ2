@@ -1,0 +1,34 @@
+---
+title: Bum Rush V
+type: spell
+class: '[[Brigand]]'
+spell_type: arts
+icon: images/Spell_377.png
+levels: 5, 19, 33, 47, 61, 74, 84, 94, 104, 114, 122, 127, 132, 133
+target: Enemy
+power_cost: '55'
+cast_time: 0.5 seconds
+recast: 10.0 seconds
+range: Up to 5.0 meters
+description: An attack made from the side that deals moderate damage and interrupts the target.
+effects: '- Interrupts target
+
+  - Inflicts X melee damage on target
+
+  - Must be flanking or behind'
+categories:
+- Brigand Spells
+- DD (Spell Type)
+- Interrupt (Spell Type)
+- Spells
+- Spells by Type Combat Arts
+source:
+  title: Bum Rush V
+  url: https://eq2.fandom.com/wiki/Bum_Rush_V
+  history: https://eq2.fandom.com/wiki/Bum_Rush_V?action=history
+  revision: 2017887
+  revised: '2026-07-16T03:14:42Z'
+  license: CC BY-SA 3.0
+---
+
+X: 205-342 / 250-418 / 273-456 / 351-585 / 364-608 / 383-638 (Apprentice to Grandmaster)

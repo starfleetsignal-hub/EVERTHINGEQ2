@@ -1,0 +1,30 @@
+---
+title: Abandoned Fury XII
+type: spell
+class: '[[Berserker]]'
+spell_type: arts
+category: Stance - Offensive
+icon: images/Spell_288.png
+levels: 4, 16, 36, 50, 64, 76, 86, 96, 106, 116, 123, 128, 133
+cast_time: 0.5 seconds
+recast: Instant
+duration: Until Cancelled
+description: Increases the berserker's offensive melee skills and grants a chance to attack all nearby enemies in an encounter with each melee attack, but at the cost of decreased defense skill. This is the berserker's primary offensive stance.
+effects: "- Increases Potency of caster by X.\n- Increases Fervor of caster by 0.6.\n- Decreases Defense of caster by 60.7.\n- Increases Slashing, Piercing and Crushing of caster by Y.\n- The caster may not benefit from any stoneskin, death prevent, or 100% avoidance abilities while under this effect and for 5 seconds after the effect has been removed.\n- Increases bleedthrough on target by 30%.\n- On a melee hit this spell may cast Furious Assault on target of attack. Triggers about 2.0 times per minute.\n  - Inflicts Z melee damage on target encounter\n  - This effect can only trigger once every 1.0 - 4.0 seconds."
+categories:
+- Berserker Spells
+- Spells
+- Spells by Type Combat Arts
+- Stance - Offensive (Spell Type)
+source:
+  title: Abandoned Fury XII
+  url: https://eq2.fandom.com/wiki/Abandoned_Fury_XII
+  history: https://eq2.fandom.com/wiki/Abandoned_Fury_XII?action=history
+  revision: 2018235
+  revised: '2026-07-17T17:27:57Z'
+  license: CC BY-SA 3.0
+---
+
+X: 14.4 / 17.6 / 19.2 / 24.6 / 25.6 / 26.9 / 32.3 / 33.1 (Apprentice to Grandmaster)
+Y: 86.4 / 105.6 / 115.2 / 147.8 / 153.5 / 161.2 / 193.9 / 198.6 (Apprentice to Grandmaster)
+Z: 4,635-7,725 / 5,665-9,442 / 6,180-10,300 / 7,931-13,219 / 8,240-13,734 / 8,652-14,420 / 10,403-17,339 / 10,661-17,768 (Apprentice to Grandmaster)

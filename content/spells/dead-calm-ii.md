@@ -1,0 +1,34 @@
+---
+title: Dead Calm II
+type: spell
+class: '[[Dirge]]'
+spell_type: spells
+category: Buff
+icon: images/Spell_206.png
+levels: 22, 36, 50, 64, 75, 85, 95, 105, 115, 123, 128, 133
+target: Group
+power_cost: '76'
+concentration: '1'
+cast_time: 3.0 seconds
+recast: 2.0 seconds
+duration: Until Cancelled
+radius: 50.0 meters
+mastery: Ordination
+description: Grants the dirge's group a chance to strike for additional disease damage on a successful attack.
+effects: "- On a combat hit this spell has a 12% chance to cast Crypt's Revenge on target of attack.\n  - Inflicts X disease damage on target"
+categories:
+- Buff (Spell Type)
+- Dirge Spells
+- Ordination Spells
+- Spells
+- Spells by Type Spells
+source:
+  title: Dead Calm II
+  url: https://eq2.fandom.com/wiki/Dead_Calm_II
+  history: https://eq2.fandom.com/wiki/Dead_Calm_II?action=history
+  revision: 2010281
+  revised: '2026-06-01T04:45:14Z'
+  license: CC BY-SA 3.0
+---
+
+X: 53-89 / 65-109 / 71-118 / 91-152 / 95-158 / 99-166 / 120-200 / 123-205 (Apprentice to Grandmaster)

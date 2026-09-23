@@ -1,0 +1,43 @@
+---
+title: Silence VII
+type: spell
+class: '[[Coercer]]'
+spell_type: spells
+icon: images/Spell_495.png
+levels: 16, 30, 44, 58, 72, 82, 92, 102, 112, 121, 126, 131
+target: Enemy
+power_cost: '250'
+cast_time: 2.0 seconds
+recast: 25.0 seconds
+duration: 6.0 seconds
+range: Up to 25.0 meters
+mastery: Subjugation
+description: Stifles and damages the coercer's target for a medium amount initially and a smaller amount over time.
+effects: '- Inflicts X mental damage on target.
+
+  - Inflicts Y mental damage on target every second.
+
+  - Stifles target.
+
+  - Epic targets gain an immunity to Stifle effects of 18.0 seconds and duration is reduced to 2.0 seconds.
+
+  - Resistibility increases against targets higher than level 111.'
+categories:
+- Coercer Spells
+- DOT (Spell Type)
+- Spells
+- Spells by Type Spells
+- Stifle (Spell Type)
+- Subjugation Spells
+source:
+  title: Silence VII
+  url: https://eq2.fandom.com/wiki/Silence_VII
+  history: https://eq2.fandom.com/wiki/Silence_VII?action=history
+  revision: 1994943
+  revised: '2026-04-09T02:40:46Z'
+  license: CC BY-SA 3.0
+---
+
+Resistibility: 25% Harder / 25% Harder / 25% Harder / 29% Harder / 33% Harder / 35% Harder / 38% Harder / 40% Harder (Apprentice to Grandmaster)
+X: 321-393 / 393-480 / 428-523 / 550-672 / 571-698 / 600-733 / 721-881 / 739-903 (Apprentice to Grandmaster)
+Y: 107-131 / 131-160 / 143-174 / 183-224 / 190-233 / 200-244 / 240-294 / 246-301 (Apprentice to Grandmaster)

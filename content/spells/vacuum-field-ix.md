@@ -1,0 +1,38 @@
+---
+title: Vacuum Field IX
+type: spell
+class: '[[Warlock]]'
+spell_type: spells
+category: Debuff
+icon: images/Spell_261.png
+levels: 4, 13, 27, 41, 55, 69, 79, 89, 99, 109, 119, 125, 130, 135
+target: Enemy
+power_cost: '134'
+cast_time: 1.0 second
+recast: 20.0 seconds
+duration: 36.0 seconds
+range: Up to 35.0 meters
+radius: 10.0 meters
+mastery: Disruption
+description: Reduces target encounter's poison and disease resist.
+effects: '- Decreases Combat Mitigation of target encounter by X.
+
+  - Decreases Mitigation of target encounter vs all noxious damage by Y.'
+categories:
+- Debuff (Spell Type)
+- Disruption Spells
+- Spells
+- Spells by Type Spells
+- Warlock Spells
+source:
+  title: Vacuum Field IX
+  url: https://eq2.fandom.com/wiki/Vacuum_Field_IX
+  history: https://eq2.fandom.com/wiki/Vacuum_Field_IX?action=history
+  revision: 2002049
+  revised: '2026-05-11T22:03:27Z'
+  license: CC BY-SA 3.0
+---
+
+Resistibility: 25% Harder / 25% Harder / 25% Harder / 29% Harder / 33% Harder / 35% Harder / 38% Harder / 40% Harder (Apprentice to Grandmaster)
+X: 0.0 / 0.1 / 0.1 / 0.1 / 0.1 / 0.1 / 0.1 / 0.1 (Apprentice to Grandmaster)
+Y: 1,069 / 1,307 / 1,426 / 1,830 / 1,901 / 1,996 / 2,400 / 2,459 (Apprentice to Grandmaster)

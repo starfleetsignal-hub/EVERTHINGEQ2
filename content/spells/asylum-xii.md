@@ -1,0 +1,36 @@
+---
+title: Asylum XII
+type: spell
+class: '[[Coercer]]'
+spell_type: spells
+icon: images/Spell_476.png
+levels: 14, 28, 42, 56, 70, 80, 90, 100, 110, 120, 125, 130, 135
+target: Enemy
+power_cost: '2625'
+cast_time: 1.0 second
+recast: 6.0 seconds
+duration: 24.0 seconds
+range: Up to 35.0 meters
+mastery: Disruption
+description: Deals mental damage over time to the target and decreases their arcane resistance. If the target still has more than 50% of their power after this spell expires, they receive additional mental damage.
+effects: "- Applies Forceful Headache on termination.\n  - Inflicts X mental damage on target.\n    - If over 50% power\n- Inflicts Y mental damage on target instantly and every 6 seconds.\n- Decreases Combat Mitigation of target by Z."
+categories:
+- Coercer Spells
+- DOT (Spell Type)
+- Debuff (Spell Type)
+- Disruption Spells
+- Spells
+- Spells by Type Spells
+source:
+  title: Asylum XII
+  url: https://eq2.fandom.com/wiki/Asylum_XII
+  history: https://eq2.fandom.com/wiki/Asylum_XII?action=history
+  revision: 1994930
+  revised: '2026-04-08T23:55:05Z'
+  license: CC BY-SA 3.0
+---
+
+Resistibility: 12% Harder / 12% Harder / 12% Harder / 16% Harder / 21% Harder / 24% Harder / 27% Harder / 30% Harder (Apprentice to Grandmaster)
+X: 1,494-2,491 / 1,826-3,044 / 1,992-3,321 / 2,557-4,262 / 2,657-4,428 / 2,789-4,648 / 3,354-5,590 / 3,437-5,728 (Apprentice to Grandmaster)
+Y: 1,195-1,461 / 1,461-1,786 / 1,594-1,948 / 2,046-2,500 / 2,125-2,598 / 2,231-2,727 / 2,683-3,279 / 2,750-3,361 (Apprentice to Grandmaster)
+Z: 0.1 / 0.1 / 0.1 / 0.1 / 0.1 / 0.1 / 0.2 / 0.2 (Apprentice to Grandmaster)

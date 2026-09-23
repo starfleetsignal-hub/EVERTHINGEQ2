@@ -1,0 +1,38 @@
+---
+title: Mana Cloak IX
+type: spell
+class: '[[Enchanter]]'
+spell_type: spells
+category: Power Management
+icon: images/Spell_195.png
+levels: 35, 53, 71, 81, 91, 101, 111, 121, 126, 131
+target: Group
+cast_time: 2.0 seconds
+recast: 3 minutes
+duration: 30.0 seconds
+radius: 50.0 meters
+mastery: Ordination
+description: Augmentation, placed upon you and your group, which provides the chance to gain power back when receiving any damage.
+effects: "- When any damage is received this spell will cast Mana Breeze on target.\n  - Increases power of caster by (X)\n  - Grants a total of 3 triggers of the spell."
+categories:
+- Coercer Spells
+- Enchanter Spells
+- Illusionist Spells
+- Ordination Spells
+- Power Management (Spell Type)
+- Spells
+- Spells by Type Spells
+source:
+  title: Mana Cloak IX
+  url: https://eq2.fandom.com/wiki/Mana_Cloak_IX
+  history: https://eq2.fandom.com/wiki/Mana_Cloak_IX?action=history
+  revision: 1917962
+  revised: '2025-12-16T21:13:48Z'
+  license: CC BY-SA 3.0
+---
+
+(X): 803 / 981 / 1,070 / 1,374 / 1,427 / 1,499 / 1,802 / 1,847 (Apprentice to Grandmaster)
+
+## Enhance
+
+- Coercer: [[Enhance: Mana Cloak]]
