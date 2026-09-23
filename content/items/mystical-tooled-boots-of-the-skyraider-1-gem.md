@@ -1,0 +1,50 @@
+---
+title: Mystical Tooled Boots of the Skyraider (1 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_1391.png
+tier: Fabled
+level: '95'
+slot: Feet
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+description: 1/2 purple gem slots filled
+stats:
+  str: '+333'
+  sta: '+685'
+  mit: '505'
+  critbonus: '28.5'
+  aspeed: '104.4'
+  dps: '73'
+  dtype: Leather Armor
+item_link: \aITEM 1959003073 1972440723:Mystical Tooled Boots of the Skyraider\/a
+categories:
+- Attack Speed (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- DPS (Equipment)
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Feet (Inventory Slot)
+- Fury Equipment
+- Leather Armor (Equipment Type)
+- Monk Equipment
+- Tier 10 Equipment
+- Warden Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Mystical Tooled Boots of the Skyraider (1 Gem)
+  url: https://eq2.fandom.com/wiki/Mystical_Tooled_Boots_of_the_Skyraider_(1_Gem)
+  history: https://eq2.fandom.com/wiki/Mystical_Tooled_Boots_of_the_Skyraider_(1_Gem)?action=history
+  revision: 1944212
+  revised: '2026-01-04T09:17:55Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

@@ -1,0 +1,86 @@
+---
+title: Petrified Warstaff
+type: item
+item_kind: Equipment
+icon: images/Item_3598.png
+tier: Treasured
+level: '125'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +12,584
+  agi: +7,106
+  health: +510,336
+  power: +320,712
+  crit: '1016.8'
+  potency: 69,320
+  resolve: '780'
+  aspeed: '29'
+  cbovercap: '+2842.6'
+  dmg: 5236 - 7854
+  delay: '6.0'
+  drating: '2181.53'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+effects: '**Wary Protection**'
+item_link: \aITEM 223746124 -594536064:Petrified Warstaff\/a
+categories:
+- Attack Speed (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Treasured Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wary Protection (Equipment)
+- Weapon Damage Bonus (Equipment)
+- Wizard Equipment
+source:
+  title: Petrified Warstaff
+  url: https://eq2.fandom.com/wiki/Petrified_Warstaff
+  history: https://eq2.fandom.com/wiki/Petrified_Warstaff?action=history
+  revision: 1708551
+  revised: '2023-03-18T16:48:27Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

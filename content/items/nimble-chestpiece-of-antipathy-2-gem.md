@@ -1,0 +1,48 @@
+---
+title: Nimble Chestpiece of Antipathy (2 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_4151.png
+tier: Fabled
+level: '100'
+slot: Chest
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+description: 2/2 purple malice gem slots filled.
+stats:
+  str: '+564'
+  sta: +2,017
+  mit: '781'
+  critbonus: '57.5'
+  potency: '57.5'
+  dtype: Leather Armor
+item_link: \aITEM -1375271323 -358193058:Nimble Chestpiece of Antipathy\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Chest (Inventory Slot)
+- Crit Bonus (Equipment)
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Leather Armor (Equipment Type)
+- Monk Equipment
+- Potency (Equipment)
+- Tier 11 Equipment
+- Warden Equipment
+source:
+  title: Nimble Chestpiece of Antipathy (2 Gem)
+  url: https://eq2.fandom.com/wiki/Nimble_Chestpiece_of_Antipathy_(2_Gem)
+  history: https://eq2.fandom.com/wiki/Nimble_Chestpiece_of_Antipathy_(2_Gem)?action=history
+  revision: 1944277
+  revised: '2026-01-04T09:20:05Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

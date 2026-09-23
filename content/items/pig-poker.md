@@ -1,0 +1,67 @@
+---
+title: Pig Poker
+type: item
+item_kind: Equipment
+icon: images/Item_2848.png
+tier: Fabled
+level: '110'
+slot: Primary
+flags: attunable heirloom infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +3,504
+  int: +2,256
+  health: +91,578
+  power: +41,198
+  crit: '718.8'
+  critbonus: '57.2'
+  potency: 1,246.8
+  resolve: '180'
+  abmod: +11,778
+  dps: '213.8'
+  cbovercap: '+57.2'
+  dmg: 1414 - 2121
+  delay: '6.0'
+  drating: '589.24'
+  dtype: Two-Handed Piercing
+  wtype: Great Spear
+effects: '**Noxious Rending**'
+item_link: \aITEM 5562587 1424549191:Pig Poker\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Census Credits
+- Crit Bonus (Equipment)
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Equipment
+- Fabled Equipment
+- Great Spear (Weapon Type)
+- Guardian Equipment
+- Mystic Equipment
+- Noxious Rending (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Tier 12 Equipment
+- Two-Handed Piercing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Pig Poker
+  url: https://eq2.fandom.com/wiki/Pig_Poker
+  history: https://eq2.fandom.com/wiki/Pig_Poker?action=history
+  revision: 1902481
+  revised: '2025-09-18T21:34:17Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

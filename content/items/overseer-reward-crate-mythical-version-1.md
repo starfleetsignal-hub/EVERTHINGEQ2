@@ -1,0 +1,268 @@
+---
+title: Overseer Reward Crate (Mythical) (Version 1)
+type: item
+icon: images/Item_5133.png
+tier: Mythical
+item_level: '0'
+item_link: \aITEM 737474604 -1338959770:Overseer Reward Crate\/a
+aliases:
+- Overseer Reward Crate (Version 4)
+categories:
+- Census Credits
+- Items
+- Mythical Items
+source:
+  title: Overseer Reward Crate (Mythical) (Version 1)
+  url: https://eq2.fandom.com/wiki/Overseer_Reward_Crate_(Mythical)_(Version_1)
+  history: https://eq2.fandom.com/wiki/Overseer_Reward_Crate_(Mythical)_(Version_1)?action=history
+  revision: 1387368
+  revised: '2021-12-11T13:35:11Z'
+  license: CC BY-SA 3.0
+---
+
+## Rewards
+
+This item never actually lands in your inventory. When you receive it, it will automatically give you a loot window containing one or more of:
+
+- [[Overlord's Plated Silver Ring]] -- *165 Resolve ring*
+- [[Overlord's Plated Diamond Stud]] -- *165 Resolve ear*
+- [[Overlord's Plated Insignia]] -- *165 Resolve charm*
+- [[Overlord's Plated Eye Ring]] -- *165 Resolve ring*
+- [[Overlord's Plated Bronze Bangle]] -- *165 Resolve wrist*
+- [[Overlord's Polished Electrum Stud]] -- *165 Resolve ear*
+- [[Overlord's Polished Electrum Cuff]] -- *165 Resolve wrist*
+- [[Overlord's Polished Alloy Earring]] -- *165 Resolve ear*
+- [[Overlord's Polished Alloy Ring]] -- *165 Resolve ring*
+- [[Overlord's Polished Alloy Bangle]] -- *165 Resolve wrist*
+- [[Overlord's Polished Alloy-Threaded Shroud]] -- *165 Resolve cloak*
+- [[Overlord's Polished Alloy Sapphire Ring]] -- *165 Resolve ring*
+- [[Overlord's Polished Runed Ring]] -- *165 Resolve ring*
+- [[Overlord's Polished Runed Girdle]] -- *165 Resolve belt*
+- [[Overlord's Barbed Runed Band]] -- *165 Resolve wrist*
+- [[Overlord's Solid Runed Stud]] -- *165 Resolve ear*
+- [[Overlord's Solid Runed Earring]] -- *165 Resolve ear*
+- [[Overlord's Solid Runed Chain]] -- *165 Resolve neck*
+- [[Overlord's Guarded Runed Icon]] -- *160 Resolve charm*
+- [[Overlord's Energy Runed Cloak]] -- *160 Resolve cloak*
+- [[Overlord's Energy Runed Ring]] -- *160 Resolve ring*
+- [[Overlord's Energy Runed Sash]] -- *160 Resolve belt*
+- [[Overlord's Energy Runed Belt]] -- *160 Resolve belt*
+- [[Overlord's Energy Runed Shroud]] -- *160 Resolve cloak*
+- [[Overlord's Spiked Energy Icon]] -- *160 Resolve charm*
+- [[Overlord's Energy Spiked Earring]] -- *160 Resolve ear*
+- [[Overlord's Energy Barbed Stud]] -- *160 Resolve ear*
+- [[Overlord's Energy Barbed Shroud]] -- *160 Resolve cloak*
+- [[Overlord's Energy Barbed Band]] -- *160 Resolve wrist*
+- [[Overlord's Energy Spiked Electrum Earring]] -- *160 Resolve ear*
+- [[Overlord's Energy Barbed Silver Ring]] -- *160 Resolve ring*
+- [[Overlord's Energy Barbed Silver Bangle]] -- *160 Resolve wrist*
+- [[Overlord's Energy Barbed Silver Torque]] -- *160 Resolve neck*
+- [[Overlord's Power Spiked Cord]] -- *160 Resolve belt*
+- [[Overlord's Power Guarded Cloak]] -- *160 Resolve cloak*
+- [[Overlord's Power Guarded Ruby Ring]] -- *160 Resolve ring*
+- [[Overlord's Power Guarded Belt]] -- *160 Resolve belt*
+- [[Overlord's Power Guarded Girdle]] -- *160 Resolve belt*
+- [[Overlord's Power Guarded Seal]] -- *160 Resolve charm*
+- [[Overseer's Polished Ebon Threaded Robes]] -- *165 Resolve chest*
+- [[Overseer's Vanadium Melee Chestgaurd]] -- *175 Resolve chest*
+- [[Overseer's Vanadium Greaves]] -- *175 Resolve legs*
+- [[Overseer's Indium Threaded Robes]] -- *160 Resolve chest*
+- [[Overseer's Indium Threaded Pants]] -- *160 Resolve legs*
+- [[Empyral Ancient Crit Bonus Infuser]]
+- [[Empyral Ancient Ability Mod Infuser]]
+- [[Empyral Ancient Potency Infuser]]
+- [[Empyral Ancient Stamina Infuser]]
+- [[Instance Lockout Reset: 7 Day Reuse]]
+- [[Empyral Arcane Reprieve]]
+- [[Empyral Cure Arcane]]
+- [[Empyral Cure Elemental]]
+- [[Empyral Cure Noxious]]
+- [[Empyral Cure Trauma]]
+- [[Empyral Elemental Reprieve]]
+- [[Empyral Elixir of Constitution]]
+- [[Empyral Elixir of Deftness]]
+- [[Empyral Elixir of Fortitude]]
+- [[Empyral Elixir of Intellect]]
+- [[Empyral Elixir of Piety]]
+- [[Empyral Elixir of Tactics]]
+- [[Empyral Elixir of Thorns]]
+- [[Empyral Elixir of Transcendence]]
+- [[Empyral Essence of Clarity]]
+- [[Empyral Essence of Health]]
+- [[Empyral Essence of Power]]
+- [[Empyral Essence of Regeneration]]
+- [[Empyral Noxious Reprieve]]
+- [[Voidpiercer's Painlink]]
+- [[Voidpiercer's Powerlink]]
+- [[Voidpiercer's Forcelink]]
+- [[Bladimir Black]] -- *Overseer Agent (Treasured)*
+- [[Wizard Flurggledim]] -- *Overseer Agent (Treasured)*
+- [[Cleric Sararah]] -- *Overseer Agent (Treasured)*
+- [[Galen Stormwolf]] -- *Overseer Agent (Treasured)*
+- [[Doric Silverhew]] -- *Overseer Agent (Treasured)*
+- [[Garith Oldfoe]] -- *Overseer Agent (Treasured)*
+- [[Grumpy Little Stelve]] -- *Overseer Agent (Treasured)*
+- [[Inquisitor L'Morr]] -- *Overseer Agent (Treasured)*
+- [[Sergeant Marcus Carpenter]] -- *Overseer Agent (Treasured)*
+- [[Milo Burningsun]] -- *Overseer Agent (Treasured)*
+- [[Selmo Koriat]] -- *Overseer Agent (Treasured)*
+- [[Young Michem]] -- *Overseer Agent (Treasured)*
+- [[Councilor Wrathburn]] -- *Overseer Agent (Fabled)*
+- [[Gretacia Windsong]] -- *Overseer Agent (Fabled)*
+- [[King Grorlif]] -- *Overseer Agent (Fabled)*
+- [[Lucielyn L'Kirin]] -- *Overseer Agent (Fabled)*
+- [[Mingla Gelfshir]] -- *Overseer Agent (Fabled)*
+- [[Morlin Val'Sara]] -- *Overseer Agent (Fabled)*
+- [[Alexandrina X'Aphon]] -- *Overseer Agent (Celestial)*
+- [[Klirgain the Mangler]] -- *Overseer Agent (Celestial)*
+- [[Velun Punox]] -- *Overseer Agent (Celestial)*
+- [[Xiang Jie]] -- *Overseer Agent (Celestial)*
+- [[Druid Ellanha]] -- *Overseer Agent (Legendary)*
+- [[Garick the Mad]] -- *Overseer Agent (Legendary)*
+- [[Kror McKroffan]] -- *Overseer Agent (Legendary)*
+- [[Magnus Frostheart]] -- *Overseer Agent (Legendary)*
+- [[Mina Szekle]] -- *Overseer Agent (Legendary)*
+- [[Morac the Builder]] -- *Overseer Agent (Legendary)*
+- [[Rittan D'Sal]] -- *Overseer Agent (Legendary)*
+- [[Rosamond]] -- *Overseer Agent (Legendary)*
+- [[Eliminate Warlord Ix Acon]] -- *Overseer mission*
+- [[Exact Revenge on the Drakota]] -- *Overseer mission*
+- [[Eliminate Venekor]] -- *Overseer mission*
+- [[Eliminate the Gang Lord]] -- *Overseer mission*
+- [[A Dark Ceremony]] -- *Overseer mission*
+- [[Slay the Evol Ew Chieftan]] -- *Overseer mission*
+- [[Eliminate Klirkan X'Davai]] -- *Overseer mission*
+- [[The Throne of Emperor Fyst]] -- *Overseer mission*
+- [[Reacquire the Idol of Solusek Ro]] -- *Overseer mission*
+- [[Convince the Guardians]] -- *Overseer mission*
+- [[The Kra'thuk's Magical Properties]] -- *Overseer mission*
+- [[Rob the Fool's Gold Tavern]] -- *Overseer mission*
+- [[Treasure in Shortwine Burrow]] -- *Overseer mission*
+- [[Liberate Lady Laravale]] -- *Overseer mission*
+- [[Save Orxilia Calogn]] -- *Overseer mission*
+- [[Save the Valkyrie Princess]] -- *Overseer mission*
+- [[Save the Vision of Vox]] -- *Overseer mission*
+- [[Keeper for the Keep]] -- *Overseer mission*
+- [[Captured in Bramble Woods]] -- *Overseer mission*
+- [[Save Lira Singebellows]] -- *Overseer mission*
+- [[Find the Goblin Banker's Loot]] -- *Overseer mission*
+- [[Find the Golden Idol of the Drafling]] -- *Overseer mission*
+- [[Recover the Stolen Scrolls]] -- *Overseer mission*
+- [[Retrieval for the Crown]] -- *Overseer mission*
+- [[The Word of Thule]] -- *Overseer mission*
+- [[Thexian Treasure]] -- *Overseer mission*
+- [[Valuable Runes in a Dirty Place]] -- *Overseer mission*
+- [[The Thexian Wizard's Wand]] -- *Overseer mission*
+- [[Lesser Fragment of Planar Energy]]
+- [[Superior Fragment of Planar Energy]]
+- [[Greater Fragment of Planar Energy]]
+- [[Hardened Zelniak Pelt]]
+- [[Hornbeam Spruce Log]]
+- [[Humming Azurite]]
+- [[Lunar Mushroom]]
+- [[Luclizite Cluster]]
+- [[Radiant Algae]]
+- [[Rockhopper Meat]]
+- [[Slow Creeping Root]]
+- [[Splitfin Dartfish]]
+- [[Humming Sapphire Gem]]
+- [[Jumping Creeper]]
+- [[Lantern Hogfish]]
+- [[Lustrous Rockhopper Hide]]
+- [[Primal Luclizite Shard]]
+- [[Radiant Pome]]
+- [[Shrieking Mushroom]]
+- [[Wracked Wood Wedge]]
+- [[Zelniak Steak]]
+- [[Shadowed Hardened Zelniak Pelt]]
+- [[Shadowed Hornbeam Spruce Log]]
+- [[Shadowed Humming Azurite]]
+- [[Shadowed Lunar Mushroom]]
+- [[Shadowed Luclizite Cluster]]
+- [[Shadowed Radiant Algae]]
+- [[Shadowed Rockhopper Meat]]
+- [[Shadowed Slow Creeping Root]]
+- [[Shadowed Splitfin Dartfish]]
+- [[Shadowed Humming Sapphire Gem]]
+- [[Shadowed Jumping Creeper]]
+- [[Shadowed Lantern Hogfish]]
+- [[Shadowed Lustrous Rockhopper Hide]]
+- [[Shadowed Primal Luclizite Shard]]
+- [[Shadowed Radiant Pome]]
+- [[Shadowed Shrieking Mushroom]]
+- [[Shadowed Wracked Wood Wedge]]
+- [[Shadowed Zelniak Steak]]
+- [[Shadow Alchemist Studies 15]]
+- [[Shadow Alchemist Studies 16]]
+- [[Shadow Sage Studies 15]]
+- [[Shadow Sage Studies 16]]
+- [[Empyral Armorer Studies 15]]
+- [[Empyral Armorer Studies 16]]
+- [[Empyral Jeweler Studies 15]]
+- [[Empyral Jeweler Studies 16]]
+- [[Empyral Tailor Studies 15]]
+- [[Empyral Tailor Studies 16]]
+- [[Empyral Weaponsmith Studies 15]]
+- [[Empyral Weaponsmith Studies 16]]
+- [[Empyral Woodworker Studies 15]]
+- [[Empyral Woodworker Studies 16]]
+- [[Empyral Barding Recipes]]
+- [[Empyral Breeching Recipes]]
+- [[Empyral Hackamore Recipes]]
+- [[Empyral Reins Recipes]]
+- [[Empyral Saddle Recipes]]
+- [[Empyral Shoe Recipes]]
+- [[Empyral Stirrup Recipes]]
+- [[Sambata Barding Recipes]]
+- [[Sambata Breeching Recipes]]
+- [[Sambata Hackamore Recipes]]
+- [[Sambata Reins Recipes]]
+- [[Sambata Saddle Recipes]]
+- [[Sambata Shoe Recipes]]
+- [[Sambata Stirrup Recipes]]
+- [[Ercel's Feral Claws]] -- *collectible*
+- [[Ercel's Hunter Prey]] -- *collectible*
+- [[Ercel's Lunging Slam]] -- *collectible*
+- [[Ercel's Stalked Prey]] -- *collectible*
+- [[Purpyron's Devastating Swath]] -- *collectible*
+- [[Brixwald's Bizarre Bash]] -- *collectible*
+- [[Brixwald's Sand Rune]] -- *collectible*
+- [[Baltar's Cremation]] -- *collectible*
+- [[Baltar's Hyperthermia]] -- *collectible*
+- [[Baltar's Immortal Flame]] -- *collectible*
+- [[Baltar's Reach]] -- *collectible*
+- [[Dapperling's Furious Bite]] -- *collectible*
+- [[Elsindir's Bait-and-Switch]] -- *collectible*
+- [[Elsindir's Economic Sphere]] -- *collectible*
+- [[Elsindir's First Regulation]] -- *collectible*
+- [[Elsindir's Monopoly of Souls]] -- *collectible*
+- [[Dichromanus' Dichroic Impact]] -- *collectible*
+- [[Dichromanus' Diffraction]] -- *collectible*
+- [[Typhenon's Benevolent Strike]] -- *collectible*
+- [[Typhenon's Cleanse]] -- *collectible*
+- [[Typhenon's Savage Malice]] -- *collectible*
+- [[Typhenon's Shield Wall]] -- *collectible*
+- [[Warglave's Commands]] -- *collectible*
+- [[Warglave's Holy Reckoning]] -- *collectible*
+- [[Prysmerah's Arx Fire]] -- *collectible*
+- [[Rhag'Nazza's Authentic Affliction]] -- *collectible*
+- [[Rhag'Nazza's Shockwave]] -- *collectible*
+- [[Kor Va Xian's Aura]] -- *collectible*
+- [[Kor Va Xian's Dark Omen]] -- *collectible*
+- [[Kor Va Xian's Dark Pact]] -- *collectible*
+- [[Kor Va Xian's Luclinite Bomb]] -- *collectible*
+- [[Rhozth's Chillblaze]] -- *collectible*
+- [[Rhozth's Dark Blizzard]] -- *collectible*
+- [[Rhozth's Deafening Cold]] -- *collectible*
+- [[Rhozth's Scales of Shadow]] -- *collectible*
+- [[Lord Yzo's Dark Summons]] -- *collectible*
+- [[Lord Yzo's Light Loss]] -- *collectible*
+- [[Lord Yzo's Shadow Vortex]] -- *collectible*
+- [[Overseer's Vanadium Flail]] -- *165 Resolve 1H crushing*
+- [[Overseer's Vanadium Guarded Dagger]] -- *165 Resolve 1H piercing*
+- [[Overseer's Heavy Cedar Wand]] -- *165 Resolve ranged*
+- [[Overseer's Solid Cedar Wand]] -- *165 Resolve ranged*
+- [[Overseer's Heavy Vanadium Staff]] -- *320 Resolve 2H crushing*
+- [[Overseer's Sharp Vanadium Crossbow]] -- *165 Resolve ranged*
+- [[Overseer's Heavy Cedar Greatstaff]] -- *320 Resolve 2H crushing*
+- [[Overseer's Vanadium Etched Wand]] -- *165 Resolve ranged*

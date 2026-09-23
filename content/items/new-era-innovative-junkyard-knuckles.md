@@ -1,0 +1,58 @@
+---
+title: New Era Innovative Junkyard Knuckles
+type: item
+item_kind: Equipment
+icon: images/Item_3594.png
+tier: Fabled
+level: '125'
+slot: Primary
+classes: ', [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +6,342
+  agi: +3,624
+  health: +275,181
+  power: +172,933
+  crit: '518.5'
+  potency: 36,439.2
+  resolve: '410'
+  cbovercap: '+1449.6'
+  mitinc: '47.2'
+  dmg: 3593 - 5390
+  delay: '4.0'
+  drating: '2245.71'
+  dtype: One-Handed Crushing
+  wtype: Fists
+effects: '**Wary Protection**'
+item_link: \aITEM 163770946 -1132352221:New Era Innovative Junkyard Knuckles\/a
+categories:
+- Beastlord Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Fabled Equipment
+- Fists (Weapon Type)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- One-Handed Crushing (Equipment Type)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Secondary (Inventory Slot)
+- Tier 13 Equipment
+- Wary Protection (Equipment)
+source:
+  title: New Era Innovative Junkyard Knuckles
+  url: https://eq2.fandom.com/wiki/New_Era_Innovative_Junkyard_Knuckles
+  history: https://eq2.fandom.com/wiki/New_Era_Innovative_Junkyard_Knuckles?action=history
+  revision: 1733053
+  revised: '2023-07-11T20:57:11Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

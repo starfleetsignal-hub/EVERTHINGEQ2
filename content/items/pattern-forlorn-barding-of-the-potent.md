@@ -1,0 +1,30 @@
+---
+title: 'Pattern: Forlorn Barding of the Potent'
+type: item
+item_kind: Pattern
+icon: images/Item_4835.png
+tier: Fabled
+level: '125'
+item_level: '120'
+flags: heirloom
+creates: '- [[Forlorn Barding of the Potent]]'
+item_link: '\aITEM 1610908184 -1433347134:Pattern: Forlorn Barding of the Potent\/a'
+categories:
+- Census Credits
+- Fabled Items
+- Items
+- Pattern (Item Type)
+- Tier 13 Items
+- Tier 13 Pattern
+source:
+  title: 'Pattern: Forlorn Barding of the Potent'
+  url: https://eq2.fandom.com/wiki/Pattern:_Forlorn_Barding_of_the_Potent
+  history: https://eq2.fandom.com/wiki/Pattern:_Forlorn_Barding_of_the_Potent?action=history
+  revision: 1696079
+  revised: '2023-03-16T20:18:39Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

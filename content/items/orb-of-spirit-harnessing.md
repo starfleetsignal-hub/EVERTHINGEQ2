@@ -1,0 +1,60 @@
+---
+title: Orb of Spirit Harnessing
+type: item
+item_kind: Equipment
+icon: images/Item_369.png
+tier: Uncommon
+level: '40'
+slot: Secondary
+flags: attunable
+stats:
+  sta: '+14'
+  wis: '+14'
+  dtype: Symbols
+item_link: \aITEM -567823616 -1559323052:Orb of Spirit Harnessing\/a
+categories:
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Priest Equipment
+- Ranged (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Symbols (Equipment Type)
+- Templar Equipment
+- The Lesser Faydark Dropped Items
+- Tier 5 Equipment
+- Uncommon Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Orb of Spirit Harnessing
+  url: https://eq2.fandom.com/wiki/Orb_of_Spirit_Harnessing
+  history: https://eq2.fandom.com/wiki/Orb_of_Spirit_Harnessing?action=history
+  revision: 1246605
+  revised: '2021-01-08T15:20:12Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,246 @@
+---
+title: Overseer Bonus Reward Crate (Mythical) (Version 1)
+type: item
+icon: images/Item_5133.png
+tier: Mythical
+item_level: '0'
+obtained_from: Obtain a 'Critical Success' on any Overseer Season 1 Fabled *(purple)* 10h00m mission.
+item_link: \aITEM -1598234888 -868460876:Overseer Bonus Reward Crate\/a
+aliases:
+- Overseer Bonus Reward Crate (Version 8)
+categories:
+- Census Credits
+- Items
+- Mythical Items
+- Overseer Season 1 Reward Crate
+source:
+  title: Overseer Bonus Reward Crate (Mythical) (Version 1)
+  url: https://eq2.fandom.com/wiki/Overseer_Bonus_Reward_Crate_(Mythical)_(Version_1)
+  history: https://eq2.fandom.com/wiki/Overseer_Bonus_Reward_Crate_(Mythical)_(Version_1)?action=history
+  revision: 1998036
+  revised: '2026-04-26T08:07:28Z'
+  license: CC BY-SA 3.0
+---
+
+## Rewards
+
+This item never actually lands in your inventory. When you receive it, it will automatically give you a loot window containing one or more of:
+
+- [[Overlord's Plated Silver Ring]] -- *165 Resolve ring*
+- [[Overlord's Plated Diamond Stud]] -- *165 Resolve ear*
+- [[Overlord's Plated Insignia]] -- *165 Resolve charm*
+- [[Overlord's Plated Eye Ring]] -- *165 Resolve ring*
+- [[Overlord's Plated Bronze Bangle]] -- *165 Resolve wrist*
+- [[Overlord's Polished Electrum Stud]] -- *165 Resolve ear*
+- [[Overlord's Polished Electrum Cuff]] -- *165 Resolve wrist*
+- [[Overlord's Polished Alloy Earring]] -- *165 Resolve ear*
+- [[Overlord's Polished Alloy Ring]] -- *165 Resolve ring*
+- [[Overlord's Polished Alloy Bangle]] -- *165 Resolve wrist*
+- [[Overlord's Polished Alloy-Threaded Shroud]] -- *165 Resolve cloak*
+- [[Overlord's Polished Alloy Sapphire Ring]] -- *165 Resolve ring*
+- [[Overlord's Polished Runed Ring]] -- *165 Resolve ring*
+- [[Overlord's Polished Runed Girdle]] -- *165 Resolve belt*
+- [[Overlord's Barbed Runed Band]] -- *165 Resolve wrist*
+- [[Overlord's Solid Runed Stud]] -- *165 Resolve ear*
+- [[Overlord's Solid Runed Earring]] -- *165 Resolve ear*
+- [[Overlord's Solid Runed Chain]] -- *165 Resolve neck*
+- [[Selmo's Guarded Earring]]
+- [[Morlin's Gilded Shroud]]
+- [[Rittan's Silvered Bangle]]
+- [[Alexandrina's Ruby Electrum Cord]]
+- [[Rosamond's Sapphire Dusted Girdle]]
+- [[Milo's Fancy Belt]]
+- [[Mina's Barbed Etched Earring]]
+- [[Velun's Heavy Cloak]]
+- [[Garick's Blood-Stained Shash]]
+- [[Overseer's Polished Ebon Chestguard]]
+- [[Overseer's Polished Ebon Threaded Robes]]
+- [[Overseer's Polished Ebon Studded Chestplate]]
+- [[Overseer's Polished Ebon Huaberk]]
+- [[Milo's Polished Chain Cuirass]]
+- [[Milo's Barbed Chain Cuirass]]
+- [[Milo's Heavy Chain Cuirass]]
+- [[Milo's Heavy Chain Leggings]]
+- [[Flurggledim's Threaded Robes]]
+- [[Flurggledim's Barbed Robes]]
+- [[Flurggledim's Heavy Robes]]
+- [[Flurggledim's Heavy Pantaloons]]
+- [[Gretacia's Polished Leather Cuirass]]
+- [[Gretacia's Barbed Leather Cuirass]]
+- [[Gretacia's Heavy Leather Cuirass]]
+- [[Gretacia's Heavy Leather Leggings]]
+- [[Kror's Polished Hauberk]]
+- [[Kror's Barbed Hauberk]]
+- [[Kror's Heavy Hauberk]]
+- [[Kror's Heavy Greaves]]
+- [[Overseer's Vanadium Mercenary Cuirass]]
+- [[Overseer's Vanadium Mercenary Chestguard]]
+- [[Overseer's Vanadium Mercenary Chestplate]]
+- [[Overseer's Vanadium Mercenary Greaves]]
+- [[Empyral Ancient Crit Bonus Quested Infuser]]
+- [[Empyral Ancient Ability Mod Quested Infuser]]
+- [[Empyral Ancient Potency Quested Infuser]]
+- [[Empyral Ancient Stamina Quested Infuser]]
+- [[Overseer's Familiar Experience (100,000)]]
+- [[Overseer's Familiar Experience (50,000)]]
+- [[Overseer's Mercenary Training Reduction (15 Day)]]
+- [[Overseer's Mercenary Training Reduction (20 Day)]]
+- [[Overseer's Extra Barding Slot]]
+- [[Overseer's Mount Training Reduction (15 Day)]]
+- [[Overseer's Mount Training Reduction (20 Day)]]
+- [[Instance Lockout Reset: 7 Day Reuse]]
+- [[Shadowed Arcane Reprieve]]
+- [[Shadowed Cure Arcane]]
+- [[Shadowed Cure Elemental]]
+- [[Shadowed Cure Noxious]]
+- [[Shadowed Cure Trauma]]
+- [[Shadowed Elemental Reprieve]]
+- [[Shadowed Elixir of Constitution]]
+- [[Shadowed Elixir of Deftness]]
+- [[Shadowed Elixir of Fortitude]]
+- [[Shadowed Elixir of Intellect]]
+- [[Shadowed Elixir of Piety]]
+- [[Shadowed Elixir of Tactics]]
+- [[Shadowed Elixir of Thorns]]
+- [[Shadowed Elixir of Transcendence]]
+- [[Shadowed Essence of Clarity]]
+- [[Shadowed Essence of Health]]
+- [[Shadowed Essence of Power]]
+- [[Shadowed Essence of Regeneration]]
+- [[Shadowed Noxious Reprieve]]
+- [[Empyral Painlink]]
+- [[Empyral Powerlink]]
+- [[Empyral Forcelink]]
+- [[Councilor Wrathburn]] -- *Overseer Agent (Fabled)*
+- [[Gretacia Windsong]] -- *Overseer Agent (Fabled)*
+- [[King Grorlif]] -- *Overseer Agent (Fabled)*
+- [[Lucielyn L'Kirin]] -- *Overseer Agent (Fabled)*
+- [[Mingla Gelfshir]] -- *Overseer Agent (Fabled)*
+- [[Morlin Val'Sara]] -- *Overseer Agent (Fabled)*
+- [[Alexandrina X'Aphon]] -- *Overseer Agent (Celestial)*
+- [[Klirgain the Mangler]] -- *Overseer Agent (Celestial)*
+- [[Velun Punox]] -- *Overseer Agent (Celestial)*
+- [[Xiang Jie]] -- *Overseer Agent (Celestial)*
+- [[Druid Ellanha]] -- *Overseer Agent (Legendary)*
+- [[Garick the Mad]] -- *Overseer Agent (Legendary)*
+- [[Kror McKroffan]] -- *Overseer Agent (Legendary)*
+- [[Magnus Frostheart]] -- *Overseer Agent (Legendary)*
+- [[Mina Szekle]] -- *Overseer Agent (Legendary)*
+- [[Morac the Builder]] -- *Overseer Agent (Legendary)*
+- [[Rittan D'Sal]] -- *Overseer Agent (Legendary)*
+- [[Rosamond]] -- *Overseer Agent (Legendary)*
+- [[Mercenary: Rosa Dod]]
+- [[Mercenary: Oor of Umbra]]
+- [[Mercenary: Zel'Kriaz]]
+- [[Mercenary: Melban Pindleclasp]]
+- [[Eliminate Warlord Ix Acon]] -- *Overseer mission*
+- [[Exact Revenge on the Drakota]] -- *Overseer mission*
+- [[Eliminate Venekor]] -- *Overseer mission*
+- [[The Throne of Emperor Fyst]] -- *Overseer mission*
+- [[Reacquire the Idol of Solusek Ro]] -- *Overseer mission*
+- [[Convince the Guardians]] -- *Overseer mission*
+- [[The Kra'thuk's Magical Properties]]
+- [[Liberate Lady Laravale]] -- *Overseer mission*
+- [[Save Orxilia Calogn]] -- *Overseer mission*
+- [[Save the Valkyrie Princess]] -- *Overseer mission*
+- [[Save the Vision of Vox]] -- *Overseer mission*
+- [[Find the Goblin Banker's Loot]] -- *Overseer mission*
+- [[Find the Golden Idol of the Drafling]] -- *Overseer mission*
+- [[Recover the Stolen Scrolls]] -- *Overseer mission*
+- [[Retrieval for the Crown]] -- *Overseer mission*
+- [[The Word of Thule]] -- *Overseer mission*
+- [[Lesser Fragment of Planar Energy]]
+- [[Superior Fragment of Planar Energy]]
+- [[Greater Fragment of Planar Energy]]
+- [[Essence of Chaos]]
+- [[Shadowed Hardened Zelniak Pelt]]
+- [[Shadowed Spruce Log]]
+- [[Shadowed Humming Azurite]]
+- [[Shadowed Lunar Mushroom]]
+- [[Shadowed Luclizite Cluster]]
+- [[Shadowed Algae]]
+- [[Shadowed Rockhopper Meat]]
+- [[Shadowed Slow Creeping Roots]]
+- [[Shadowed Splitfin Dartfish]]
+- [[Shadowed Humming Sapphire Gem]]
+- [[Shadowed Jumping Creeper]]
+- [[Shadowed Lantern Hogfish]]
+- [[Shadowed Rockhopper Hide]]
+- [[Shadowed Primal Luclizite Shard]]
+- [[Shadowed Pome]]
+- [[Shadowed Shrieker Mushroom]]
+- [[Shadowed Wracked Wood Wedge]]
+- [[Shadowed Zelniak Steak]]
+- [[Shadow Alchemist Studies 17]]
+- [[Shadow Alchemist Studies 18]]
+- [[Shadow Alchemist Studies 19]]
+- [[Shadow Alchemist Studies 20]]
+- [[Shadow Sage Studies 17]]
+- [[Shadow Sage Studies 18]]
+- [[Shadow Sage Studies 19]]
+- [[Shadow Sage Studies 20]]
+- [[Empyral Armorer Studies 17]]
+- [[Empyral Armorer Studies 18]]
+- [[Empyral Armorer Studies 19]]
+- [[Empyral Armorer Studies 20]]
+- [[Empyral Jeweler Studies 17]]
+- [[Empyral Jeweler Studies 18]]
+- [[Empyral Jeweler Studies 19]]
+- [[Empyral Jeweler Studies 20]]
+- [[Empyral Tailor Studies 17]]
+- [[Empyral Tailor Studies 18]]
+- [[Empyral Tailor Studies 19]]
+- [[Empyral Tailor Studies 20]]
+- [[Empyral Weaponsmith Studies 17]]
+- [[Empyral Weaponsmith Studies 18]]
+- [[Empyral Weaponsmith Studies 19]]
+- [[Empyral Weaponsmith Studies 20]]
+- [[Empyral Woodworker Studies 17]]
+- [[Empyral Woodworker Studies 18]]
+- [[Empyral Woodworker Studies 19]]
+- [[Empyral Woodworker Studies 20]]
+- [[Sambata Barding Recipes]]
+- [[Sambata Breeching Recipes]]
+- [[Sambata Hackamore Recipes]]
+- [[Sambata Reins Recipes]]
+- [[Sambata Saddle Recipes]]
+- [[Sambata Shoe Recipes]]
+- [[Sambata Stirrup Recipes]]
+- [[Shadowed Barding Recipes]]
+- [[Shadowed Breeching Recipes]]
+- [[Shadowed Hackamore Recipes]]
+- [[Shadowed Reins Recipes]]
+- [[Shadowed Saddle Recipes]]
+- [[Shadowed Shoe Recipes]]
+- [[Shadowed Stirrup Recipes]]
+- [[Empyral Rune: Ascension of Life (Recipe Book)|Empyral Rune: Ascension of Life]]
+- [[Empyral Rune: Ascension of Love (Recipe Book)|Empyral Rune: Ascension of Love]]
+- [[Empyral Rune: Ascension of Magic (Recipe Book)|Empyral Rune: Ascension of Magic]]
+- [[Empyral Rune: Chorus of Night (Recipe Book)|Empyral Rune: Chorus of Night]]
+- [[Empyral Rune: Firmament of Fire (Recipe Book)|Empyral Rune: Firmament of Fire]]
+- [[Empyral Rune: Firmament of Growth (Recipe Book)|Empyral Rune: Firmament of Growth]]
+- [[Empyral Rune: Firmament of Passion (Recipe Book)|Empyral Rune: Firmament of Passion]]
+- [[Empyral Rune: Firmament of Power (Recipe Book)|Empyral Rune: Firmament of Power]]
+- [[Empyral Rune: Foundation of Earth (Recipe Book)|Empyral Rune: Foundation of Earth]]
+- [[Empyral Rune: Foundation of Excitement (Recipe Book)|Empyral Rune: Foundation of Excitement]]
+- [[Empyral Rune: Foundation of Ruin (Recipe Book)|Empyral Rune: Foundation of Ruin]]
+- [[Empyral Rune: Foundation of Thought (Recipe Book)|Empyral Rune: Foundation of Thought]]
+- [[Empyral Rune of Championship (VIII) (Recipe Book)|Empyral Rune of Championship [VIII]]]
+- [[Empyral Rune of Evasion (Recipe Book)|Empyral Rune of Evasion]]
+- [[Empyral Rune of Expedience (Recipe Book)|Empyral Rune of Expedience]]
+- [[Empyral Rune of Glory (VIII) (Recipe Book)|Empyral Rune of Glory [VIII]]]
+- [[Empyral Rune of Juxtaposition (VIII) (Recipe Book)|Empyral Rune of Juxtaposition [VIII]]]
+- [[Empyral Rune of Rage (Recipe Book)|Empyral Rune of Rage]]
+- [[Empyral Rune of Reactionary Strike (Recipe Book)|Empyral Rune of Reactionary Strike]]
+- [[Empyral Rune of Witness (VIII) (Recipe Book)|Empyral Rune of Witness [VIII]]]
+- [[Empyral Rune: Symphony of the Void (Recipe Book)|Empyral Rune: Symphony of the Void]]
+- [[Empyral Rune: Empyral Torment]]
+- [[Overseer's Vanadium Scimitar]]
+- [[Overseer's Vanadium Flail]] -- *165 Resolve 1H crushing*
+- [[Overseer's Vanadium Guarded Dagger]] -- *165 Resolve 1H piercing*
+- [[Overseer's Vanadium Barbed Spear]]
+- [[Overseer's Vanadium Bardiche]]
+- [[Overseer's Vanadium Towershield]]
+- [[Overseer's Cedar Barbed Buckler]]
+- [[Overseer's Heavy Cedar Wand]] -- *165 Resolve ranged*
+- [[Overseer's Solid Cedar Wand]] -- *165 Resolve ranged*

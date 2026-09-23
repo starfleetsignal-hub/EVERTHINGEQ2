@@ -1,0 +1,30 @@
+---
+title: 'Pattern: Sacrarium Saddle of Evasion'
+type: item
+item_kind: Pattern
+icon: images/Item_4838.png
+tier: Fabled
+level: '120'
+item_level: '120'
+flags: heirloom
+creates: '- [[Sacrarium Saddle of Evasion]]'
+item_link: '\aITEM 163656505 138145466:Pattern: Sacrarium Saddle of Evasion\/a'
+categories:
+- Census Credits
+- Fabled Items
+- Items
+- Pattern (Item Type)
+- Tier 13 Items
+- Tier 13 Pattern
+source:
+  title: 'Pattern: Sacrarium Saddle of Evasion'
+  url: https://eq2.fandom.com/wiki/Pattern:_Sacrarium_Saddle_of_Evasion
+  history: https://eq2.fandom.com/wiki/Pattern:_Sacrarium_Saddle_of_Evasion?action=history
+  revision: 1696228
+  revised: '2023-03-16T20:23:37Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

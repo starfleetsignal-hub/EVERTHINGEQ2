@@ -1,0 +1,43 @@
+---
+title: Pirate's Helm of Concentration
+type: item
+item_kind: Equipment
+icon: images/Item_1576.png
+tier: Treasured
+level: '1'
+slot: Head
+flags: attunable
+stats:
+  sta: '+2'
+  wis: '+2'
+  mit: '6'
+  dtype: Plate Armor
+item_link: \aITEM 1665928233 -1096376168:Pirate's Helm of Concentration\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 1 Equipment
+- Treasured Equipment
+- Warrior Equipment
+source:
+  title: Pirate's Helm of Concentration
+  url: https://eq2.fandom.com/wiki/Pirate's_Helm_of_Concentration
+  history: https://eq2.fandom.com/wiki/Pirate's_Helm_of_Concentration?action=history
+  revision: 948584
+  revised: '2019-03-18T05:15:07Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+
