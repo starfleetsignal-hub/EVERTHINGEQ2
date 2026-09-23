@@ -1,0 +1,92 @@
+---
+title: Expert's Forgeheated Skyiron Shank
+type: item
+item_kind: Equipment
+icon: images/Item_36.png
+tier: Legendary
+level: '100'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable heirloom infusable
+stats:
+  sta: +1,440
+  agi: '+673'
+  health: +15,000
+  power: +6,000
+  crit: '224.2'
+  critbonus: '69.3'
+  potency: '80'
+  resolve: '14'
+  abmod: +8,036
+  aspeed: '75.9'
+  dmg: 225 - 676
+  delay: '4.0'
+  drating: '225.45'
+  dtype: One-Handed Piercing
+  wtype: Dagger
+effects: '**Elemental Rending**'
+item_link: \aITEM -99800267 -472064975:Expert's Forgeheated Skyiron Shank\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Dagger (Weapon Type)
+- Defiler Equipment
+- Dirge Equipment
+- Elemental Rending (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Legendary Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Piercing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Expert's Forgeheated Skyiron Shank
+  url: https://eq2.fandom.com/wiki/Expert's_Forgeheated_Skyiron_Shank
+  history: https://eq2.fandom.com/wiki/Expert's_Forgeheated_Skyiron_Shank?action=history
+  revision: 1897307
+  revised: '2025-09-18T18:34:00Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

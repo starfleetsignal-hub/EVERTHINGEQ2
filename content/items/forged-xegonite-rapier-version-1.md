@@ -1,0 +1,61 @@
+---
+title: Forged xegonite rapier (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_614.png
+tier: Mastercrafted
+level: '62'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+30'
+  agi: '+30'
+  crit: '1.1'
+  critbonus: '0.3'
+  potency: '1.7'
+  dmg: 17 - 52
+  delay: '1.3'
+  drating: '55.85'
+  dtype: One-Handed Piercing
+  wtype: Rapier
+item_link: \aITEM 468458919 768851628:forged xegonite rapier\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Mastercrafted Equipment
+- One-Handed Piercing (Equipment Type)
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rapier (Weapon Type)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Swashbuckler Equipment
+- Tier 7 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Forged xegonite rapier (Version 1)
+  url: https://eq2.fandom.com/wiki/Forged_xegonite_rapier_(Version_1)
+  history: https://eq2.fandom.com/wiki/Forged_xegonite_rapier_(Version_1)?action=history
+  revision: 1617708
+  revised: '2022-12-10T00:40:05Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

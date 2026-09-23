@@ -1,0 +1,73 @@
+---
+title: Eye of the Vegerog
+type: item
+item_kind: Equipment
+icon: images/Item_3209.png
+tier: Fabled
+level: '110'
+slot: Secondary
+flags: no-trade infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +1,932
+  agi: +1,330
+  health: +39,556
+  power: +17,796
+  crit: '396.5'
+  potency: '958.9'
+  resolve: '105'
+  abmod: +6,499
+  dps: '117.8'
+  cbovercap: '+29.9'
+  dtype: Symbols
+effects: '**Equalize**'
+obtained_from: '[[Elements of Destruction: Face the Chaos]]'
+item_link: \aITEM -328037323 1585181405:Eye of the Vegerog\/a
+categories:
+- Ability Modifier (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equalize (Equipment)
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Secondary (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Symbols (Equipment Type)
+- Templar Equipment
+- Tier 12 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Eye of the Vegerog
+  url: https://eq2.fandom.com/wiki/Eye_of_the_Vegerog
+  history: https://eq2.fandom.com/wiki/Eye_of_the_Vegerog?action=history
+  revision: 1892146
+  revised: '2025-09-17T20:23:16Z'
+  license: CC BY-SA 3.0
+expansion: Chaos Descending
+expansion_source: source
+---
+
+

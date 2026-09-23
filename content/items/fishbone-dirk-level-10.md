@@ -1,0 +1,72 @@
+---
+title: Fishbone Dirk (Level 10)
+type: item
+item_kind: Equipment
+icon: images/Item_609.png
+tier: Treasured
+level: '10'
+slot: Primary
+classes: ', , , , , [[Channeler]]'
+flags: lore-equip attunable
+stats:
+  str: '+6'
+  sta: '+6'
+  dmg: 4 - 24
+  delay: '4.0'
+  drating: '7.2'
+  dtype: One-Handed Piercing
+  wtype: Dagger
+item_link: \aITEM 808341896 1356779749:Fishbone Dirk\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Dagger (Weapon Type)
+- Defiler Equipment
+- Dirge Equipment
+- Enchanter Equipment
+- Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Piercing (Equipment Type)
+- Paladin Equipment
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Tier 2 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Fishbone Dirk (Level 10)
+  url: https://eq2.fandom.com/wiki/Fishbone_Dirk_(Level_10)
+  history: https://eq2.fandom.com/wiki/Fishbone_Dirk_(Level_10)?action=history
+  revision: 1256940
+  revised: '2021-01-08T22:32:12Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,76 @@
+---
+title: Ethereal Paladin Scroll Crate (I)
+type: item
+item_kind: Crate
+icon: images/Item_4813.png
+item_level: '0'
+flags: lore no-trade no-value
+description: Grants a choice of Paladin spell scrolls. You may only open a single Chaos Descending Ethereal Scroll Crate [I]
+contains: '- [[Doom Judgment VI{{!}}Doom Judgment VI (Celestial)]]
+
+  - [[Pledge of Armament VIII{{!}}Pledge of Armament VIII (Celestial)]]
+
+  - [[Faith Strike IX{{!}}Faith Strike IX (Celestial)]]
+
+  - [[Power Cleave VIII{{!}}Power Cleave VIII (Celestial)]]
+
+  - [[Clarion X{{!}}Clarion X (Celestial)]]
+
+  - [[Knight''s Stance IX{{!}}Knight''s Stance IX (Celestial)]]
+
+  - [[Prayer of Healing IX{{!}}Prayer of Healing IX (Celestial)]]
+
+  - [[Wrath Stance IX{{!}}Wrath Stance IX (Celestial)]]
+
+  - [[Consecrate V{{!}}Consecrate V (Celestial)]]
+
+  - [[Crusade VIII{{!}}Crusade VIII (Celestial)]]
+
+  - [[Lay on Hands VIII{{!}}Lay on Hands VIII (Celestial)]]
+
+  - [[Penitent Kick IX{{!}}Penitent Kick IX (Celestial)]]
+
+  - [[Holy Circle IX{{!}}Holy Circle IX (Celestial)]]
+
+  - [[Divine Inspiration IX{{!}}Divine Inspiration IX (Celestial)]]
+
+  - [[Holy Aid IX{{!}}Holy Aid IX (Celestial)]]
+
+  - [[Righteousness IX{{!}}Righteousness IX (Celestial)]]
+
+  - [[Blessed Weapon IX{{!}}Blessed Weapon IX (Celestial)]]
+
+  - [[Blessing of the Paladin VIII{{!}}Blessing of the Paladin VIII (Celestial)]]
+
+  - [[Divine Vengeance IX{{!}}Divine Vengeance IX (Celestial)]]
+
+  - [[Castigate V{{!}}Castigate V (Celestial)]]
+
+  - [[Devout Sacrament VIII{{!}}Devout Sacrament VIII (Celestial)]]
+
+  - [[Refusal of Atonement VII{{!}}Refusal of Atonement VII (Celestial)]]
+
+  - [[Demonstration of Faith IX{{!}}Demonstration of Faith IX (Celestial)]]
+
+  - [[Heroic Dash IX{{!}}Heroic Dash IX (Celestial)]]
+
+  - [[Judgment X{{!}}Judgment X (Celestial)]]
+
+  - [[Decree VI{{!}}Decree VI (Celestial)]]
+
+  - [[Holy Strike VIII{{!}}Holy Strike VIII (Celestial)]]'
+item_link: \aITEM -725151917 -1158859936:Ethereal Paladin Scroll Crate [I]\/a
+categories:
+- Census Credits
+- Crate (Item Type)
+- Items
+source:
+  title: Ethereal Paladin Scroll Crate (I)
+  url: https://eq2.fandom.com/wiki/Ethereal_Paladin_Scroll_Crate_(I)
+  history: https://eq2.fandom.com/wiki/Ethereal_Paladin_Scroll_Crate_(I)?action=history
+  revision: 1872620
+  revised: '2025-04-17T13:48:48Z'
+  license: CC BY-SA 3.0
+---
+
+

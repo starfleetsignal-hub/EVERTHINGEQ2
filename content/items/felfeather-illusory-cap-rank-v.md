@@ -1,0 +1,48 @@
+---
+title: Felfeather Illusory Cap (Rank V)
+type: item
+item_kind: Equipment
+icon: images/Item_2860.png
+tier: Fabled
+level: '130'
+slot: Head
+classes: '[[Illusionist]]'
+flags: no-trade no-value
+description: A generous gift as appreciation for your assistance to the Felfeather Flock. Felfeather Rank V
+stats:
+  sta: +5,520
+  int: +3,265
+  health: +290,891
+  power: +182,805
+  mit: '305'
+  critbonus: 1,306.3
+  potency: 39,074.8
+  resolve: '500'
+  dtype: Cloth Armor
+effects: '**Felfeather Mental Aptitude**'
+item_link: \aITEM 1711191722 1860260805:Felfeather Illusory Cap [Rank V]\/a
+categories:
+- Ability Doublecast (Equipment)
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Equipment
+- Fabled Equipment
+- Felfeather Mental Aptitude (Equipment)
+- Head (Inventory Slot)
+- Illusionist Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Tier 14 Equipment
+source:
+  title: Felfeather Illusory Cap (Rank V)
+  url: https://eq2.fandom.com/wiki/Felfeather_Illusory_Cap_(Rank_V)
+  history: https://eq2.fandom.com/wiki/Felfeather_Illusory_Cap_(Rank_V)?action=history
+  revision: 1942533
+  revised: '2026-01-04T00:31:14Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

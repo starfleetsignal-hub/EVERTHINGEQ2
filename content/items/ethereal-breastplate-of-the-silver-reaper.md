@@ -1,0 +1,55 @@
+---
+title: Ethereal Breastplate of the Silver Reaper
+type: item
+item_kind: Equipment
+icon: images/Item_4151.png
+tier: Ethereal
+level: '95'
+slot: Chest
+flags: attunable heirloom
+description: The Silver Reaper himself bestowed this mighty garb upon you for helping save his soul from what seemed to be utter annihilation.
+stats:
+  str: '+220'
+  sta: '+226'
+  mit: '795'
+  critbonus: '25.8'
+  potency: '12.9'
+  aspeed: '51.5'
+  dps: '51.5'
+  mitinc: '4.8'
+  dtype: Plate Armor
+effects: '**Reaper''s Cloak**'
+item_link: \aITEM -470001779 -526507690 0 0 0:Ethereal Breastplate of the Silver Reaper\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Census Credits
+- Chest (Inventory Slot)
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Ethereal Equipment
+- Extra Riposte Chance (Equipment)
+- Guardian Equipment
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Reaper's Cloak (Equipment)
+- Shadowknight Equipment
+- Tier 10 Equipment
+- Warrior Equipment
+source:
+  title: Ethereal Breastplate of the Silver Reaper
+  url: https://eq2.fandom.com/wiki/Ethereal_Breastplate_of_the_Silver_Reaper
+  history: https://eq2.fandom.com/wiki/Ethereal_Breastplate_of_the_Silver_Reaper?action=history
+  revision: 1884564
+  revised: '2025-09-15T21:38:56Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

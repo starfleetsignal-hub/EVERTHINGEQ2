@@ -1,0 +1,27 @@
+---
+title: Fiery activation runes
+type: item
+item_kind: Collection Item
+icon: images/Item_2520.png
+item_level: '65'
+description: Some of the necrotic constructs that roam Dartain's realm are true abominations! With a little sweat and a lot of blood, you can own one of your very own!
+obtained_from: Harvested from random [[Ground spawn|ground spawning]] nodes in [[The Hole]].
+item_link: \aITEM -1461510432 1795136233:fiery activation runes\/a
+image: images/Fiery_activation_runes.png
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Item pages with existing iname images
+- Items
+source:
+  title: Fiery activation runes
+  url: https://eq2.fandom.com/wiki/Fiery_activation_runes
+  history: https://eq2.fandom.com/wiki/Fiery_activation_runes?action=history
+  revision: 1733191
+  revised: '2023-07-14T10:49:26Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: source
+---
+
+This item is needed for the collection: [[Necrotic Construct Parts]]

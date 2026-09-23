@@ -1,0 +1,52 @@
+---
+title: Ferrite Righteous Gussets
+type: item
+item_kind: Equipment
+icon: images/Item_1637.png
+tier: Handcrafted
+level: '70'
+slot: Forearms
+flags: attunable
+stats:
+  str: '+39'
+  sta: '+38'
+  mit: '420'
+  crit: '1.7'
+  critbonus: '0.7'
+  potency: '3.5'
+  dtype: Plate Armor
+obtained_from: '*Crafted by [[Armorer]] (level 72) from [[Armorer Essentials Volume 72 (Normal)]] *Crafted by [[Armorer]] (level 72) from [[Armorer Essentials Volume 72 (no-trade)]]'
+item_link: \aITEM -1511166844 1824926094:Ferrite Righteous Gussets\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Forearms (Inventory Slot)
+- Guardian Equipment
+- Handcrafted Equipment
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warrior Equipment
+source:
+  title: Ferrite Righteous Gussets
+  url: https://eq2.fandom.com/wiki/Ferrite_Righteous_Gussets
+  history: https://eq2.fandom.com/wiki/Ferrite_Righteous_Gussets?action=history
+  revision: 1552890
+  revised: '2022-08-16T10:43:51Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

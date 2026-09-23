@@ -1,0 +1,72 @@
+---
+title: Forged Cobalt Stiletto (Version 4)
+type: item
+item_kind: Equipment
+icon: images/Item_1664.png
+tier: Mastercrafted Legendary
+level: '52'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+24'
+  agi: '+24'
+  crit: '0.7'
+  critbonus: '0.2'
+  potency: '1'
+  abmod: '+24'
+  dmg: 16 - 49
+  delay: '1.5'
+  drating: '44.97'
+  dtype: One-Handed Piercing
+  wtype: Dagger
+item_link: \aITEM 2091763812 1928022981:Forged Cobalt Stiletto\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Dagger (Weapon Type)
+- Dirge Equipment
+- Enchanter Equipment
+- Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Mastercrafted Legendary Equipment
+- Necromancer Equipment
+- One-Handed Piercing (Equipment Type)
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Tier 6 Equipment
+- Troubador Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Forged Cobalt Stiletto (Version 4)
+  url: https://eq2.fandom.com/wiki/Forged_Cobalt_Stiletto_(Version_4)
+  history: https://eq2.fandom.com/wiki/Forged_Cobalt_Stiletto_(Version_4)?action=history
+  revision: 1328719
+  revised: '2021-05-16T20:47:53Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

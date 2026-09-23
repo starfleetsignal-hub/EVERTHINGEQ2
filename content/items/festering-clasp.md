@@ -1,0 +1,82 @@
+---
+title: Festering Clasp
+type: item
+item_kind: Equipment
+icon: images/Item_2136.png
+tier: Fabled
+level: '90'
+slot: Waist
+flags: lore attunable heirloom
+stats:
+  str: '+68'
+  sta: '+68'
+  crit: '4.2'
+  critbonus: '1.5'
+  potency: '6.6'
+effects: '**Followthrough**'
+item_link: \aITEM -374267612 883103194:Festering Clasp\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Followthrough (Equipment)
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Waist (Inventory Slot)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Festering Clasp
+  url: https://eq2.fandom.com/wiki/Festering_Clasp
+  history: https://eq2.fandom.com/wiki/Festering_Clasp?action=history
+  revision: 1884738
+  revised: '2025-09-15T21:46:40Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

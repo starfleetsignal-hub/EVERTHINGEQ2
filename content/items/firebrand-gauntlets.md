@@ -1,0 +1,56 @@
+---
+title: Firebrand Gauntlets
+type: item
+item_kind: Equipment
+icon: images/Item_2431.png
+tier: Legendary
+level: '70'
+slot: Hands
+flags: lore-equip attunable heirloom
+stats:
+  str: '+32'
+  sta: '+32'
+  mit: '426'
+  crit: '1.3'
+  critbonus: '0.4'
+  potency: '1.8'
+  abmod: '+44'
+  dtype: Plate Armor
+item_link: \aITEM -1031465264 -563539384:Firebrand Gauntlets\/a
+image: images/Firebrand_Gauntlets.jpg
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Guardian Equipment
+- Hands (Inventory Slot)
+- Inquisitor Equipment
+- Legendary Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- The Laboratory of Lord Vyemm Dropped Items
+- Tier 8 Equipment
+- Warrior Equipment
+source:
+  title: Firebrand Gauntlets
+  url: https://eq2.fandom.com/wiki/Firebrand_Gauntlets
+  history: https://eq2.fandom.com/wiki/Firebrand_Gauntlets?action=history
+  revision: 1660580
+  revised: '2023-03-14T13:12:38Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: linked
+---
+
+

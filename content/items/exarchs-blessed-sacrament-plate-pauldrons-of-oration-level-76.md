@@ -1,0 +1,55 @@
+---
+title: Exarch's Blessed Sacrament Plate Pauldrons of Oration (Level 76)
+type: item
+item_kind: Equipment
+icon: images/Item_1550.png
+tier: Treasured
+level: '76'
+slot: Shoulders
+flags: no-trade
+stats:
+  sta: '+45'
+  wis: '+45'
+  mit: '469'
+  crit: '2.3'
+  critbonus: '0.8'
+  potency: '3.6'
+  abmod: '+89'
+  dps: '9.7'
+  dtype: Plate Armor
+obtained_from: '[[Swamp Fire Defense]]'
+item_link: \aITEM -999911221 -212871609:Exarch's Blessed Sacrament Plate Pauldrons of Oration\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Shoulders (Inventory Slot)
+- Templar Equipment
+- Tier 8 Equipment
+- Treasured Equipment
+- Warrior Equipment
+source:
+  title: Exarch's Blessed Sacrament Plate Pauldrons of Oration (Level 76)
+  url: https://eq2.fandom.com/wiki/Exarch's_Blessed_Sacrament_Plate_Pauldrons_of_Oration_(Level_76)
+  history: https://eq2.fandom.com/wiki/Exarch's_Blessed_Sacrament_Plate_Pauldrons_of_Oration_(Level_76)?action=history
+  revision: 1552245
+  revised: '2022-08-16T10:22:02Z'
+  license: CC BY-SA 3.0
+expansion: The Shadow Odyssey
+expansion_source: source
+---
+
+

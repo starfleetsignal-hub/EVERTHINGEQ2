@@ -1,0 +1,61 @@
+---
+title: Forged blackened iron short sword (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_2531.png
+tier: Mastercrafted Legendary
+level: '2'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable
+stats:
+  sta: '+2'
+  agi: '+2'
+  dmg: 1 - 1
+  delay: '1.2'
+  drating: '1.92'
+  dtype: One-Handed Slashing
+  wtype: Sword
+item_link: \aITEM -1813678413 -1940235747:forged blackened iron short sword\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crusader Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 1 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Forged blackened iron short sword (Version 1)
+  url: https://eq2.fandom.com/wiki/Forged_blackened_iron_short_sword_(Version_1)
+  history: https://eq2.fandom.com/wiki/Forged_blackened_iron_short_sword_(Version_1)?action=history
+  revision: 963123
+  revised: '2019-03-18T19:58:51Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

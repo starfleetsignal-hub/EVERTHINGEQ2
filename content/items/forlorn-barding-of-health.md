@@ -1,0 +1,34 @@
+---
+title: Forlorn Barding of Health
+type: item
+item_kind: Mount Gear
+item_subtype: Barding
+icon: images/Item_4835.png
+tier: Mastercrafted Fabled
+level: '125'
+item_level: '120'
+flags: ornate attunable heirloom
+effects: 755568 health
+obtained_from: '*Crafted by [[Artisan]] (level 125) from [[Forlorn Tack Volume IV]] *Made from [[Pattern: Forlorn Barding of Health]]'
+item_link: \aITEM -1119401185 1086228411:Forlorn Barding of Health\/a
+categories:
+- Barding (Item Subtype)
+- Census Credits
+- Item obtained from a Pattern
+- Items
+- Mastercrafted Fabled Items
+- Mount Gear (Item Type)
+- Tier 13 Items
+- Tier 13 Mount Gear
+source:
+  title: Forlorn Barding of Health
+  url: https://eq2.fandom.com/wiki/Forlorn_Barding_of_Health
+  history: https://eq2.fandom.com/wiki/Forlorn_Barding_of_Health?action=history
+  revision: 1694768
+  revised: '2023-03-16T19:27:29Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

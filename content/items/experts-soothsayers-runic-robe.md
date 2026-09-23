@@ -1,0 +1,58 @@
+---
+title: Expert's Soothsayer's Runic Robe
+type: item
+item_kind: Equipment
+icon: images/Item_2446.png
+tier: Fabled
+level: '100'
+slot: Chest
+flags: attunable heirloom infusable
+stats:
+  sta: +2,606
+  int: '+792'
+  health: +47,250
+  power: +6,300
+  maxhealth: '24.1'
+  mit: '706'
+  critbonus: '199.4'
+  potency: '201.9'
+  resolve: '15'
+  aspeed: '273.2'
+  multi: '136.5'
+  dtype: Cloth Armor
+item_link: \aITEM -1600147657 2108165593:Expert's Soothsayer's Runic Robe\/a
+categories:
+- Attack Speed (Equipment)
+- Census Credits
+- Chest (Inventory Slot)
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Multi Attack Chance (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 11 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Expert's Soothsayer's Runic Robe
+  url: https://eq2.fandom.com/wiki/Expert's_Soothsayer's_Runic_Robe
+  history: https://eq2.fandom.com/wiki/Expert's_Soothsayer's_Runic_Robe?action=history
+  revision: 1659181
+  revised: '2023-03-14T12:33:43Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

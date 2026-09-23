@@ -1,0 +1,88 @@
+---
+title: Expert Mote of Putrescence
+type: item
+item_kind: Equipment
+icon: images/Item_2521.png
+tier: Fabled
+level: '110'
+slot: Charm
+flags: lore-equip attunable infusable
+stats:
+  sta: +1,155
+  agi: '+857'
+  health: +44,500
+  power: +20,020
+  crit: '135.8'
+  critbonus: '248.7'
+  potency: 3,041.1
+  resolve: '35'
+  abmod: +33,476
+  dps: '51.5'
+effects: '**Perfect Warrior**'
+item_link: \aITEM -787816134 -1074792934:Expert Mote of Putrescence\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Charm (Inventory Slot)
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Perfect Warrior (Equipment)
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 12 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+- Wizard Equipment
+source:
+  title: Expert Mote of Putrescence
+  url: https://eq2.fandom.com/wiki/Expert_Mote_of_Putrescence
+  history: https://eq2.fandom.com/wiki/Expert_Mote_of_Putrescence?action=history
+  revision: 1200168
+  revised: '2021-01-06T15:20:16Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+
