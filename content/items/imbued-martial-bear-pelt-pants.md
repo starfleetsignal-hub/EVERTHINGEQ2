@@ -1,0 +1,75 @@
+---
+title: Imbued Martial Bear Pelt Pants
+type: item
+item_kind: Equipment
+icon: images/Item_268.png
+tier: Handcrafted
+level: '90'
+slot: Legs
+flags: attunable
+stats:
+  str: '+152'
+  sta: '+152'
+  mit: '392'
+  critbonus: '15.5'
+  dps: '118'
+  mitinc: '4.8'
+  dtype: Leather Armor
+effects: '**Imbued Smite**'
+obtained_from: '*Crafted by [[Tailor]] (level 95) from [[Tailor Essentials Volume 95 (with desc)]] *Crafted by [[Tailor]] (level 95) from [[Tailor Essentials Volume 95 (without desc)]]'
+item_link: \aITEM 34530220 -1538491413:Imbued Martial Bear Pelt Pants\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Imbued Smite (Equipment)
+- Inquisitor Equipment
+- Leather Armor (Equipment Type)
+- Legs (Inventory Slot)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Predator Equipment
+- Priest Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Imbued Martial Bear Pelt Pants
+  url: https://eq2.fandom.com/wiki/Imbued_Martial_Bear_Pelt_Pants
+  history: https://eq2.fandom.com/wiki/Imbued_Martial_Bear_Pelt_Pants?action=history
+  revision: 1885971
+  revised: '2025-09-16T20:11:06Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

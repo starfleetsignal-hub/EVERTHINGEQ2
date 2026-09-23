@@ -1,0 +1,60 @@
+---
+title: Imbued Architect's Vest (Level 32) (Pale Lambent Imbued)
+type: item
+item_kind: Equipment
+icon: images/Item_2871.png
+tier: Mastercrafted
+level: '32'
+slot: Chest
+flags: attunable
+stats:
+  sta: '+10'
+  wis: '+10'
+  mit: '144'
+  dtype: Chain Armor
+effects: '**Pale Lambent Imbued**'
+item_link: \aITEM 1371360423 -370116744:Imbued Architect's Vest\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Chest (Inventory Slot)
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Mastercrafted Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Pale Lambent Imbued (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 4 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Imbued Architect's Vest (Level 32) (Pale Lambent Imbued)
+  url: https://eq2.fandom.com/wiki/Imbued_Architect's_Vest_(Level_32)_(Pale_Lambent_Imbued)
+  history: https://eq2.fandom.com/wiki/Imbued_Architect's_Vest_(Level_32)_(Pale_Lambent_Imbued)?action=history
+  revision: 1885401
+  revised: '2025-09-15T22:25:55Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

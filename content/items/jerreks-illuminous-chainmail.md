@@ -1,0 +1,59 @@
+---
+title: Jerrek's Illuminous Chainmail
+type: item
+item_kind: Equipment
+icon: images/Item_4137.png
+tier: Fabled
+level: '120'
+slot: Chest
+flags: attunable heirloom
+stats:
+  sta: +5,641
+  agi: +2,873
+  health: +175,149
+  power: +110,071
+  mit: '974'
+  potency: 10,251
+  resolve: '240'
+  dps: '130.9'
+  cbovercap: '+465.5'
+  dtype: Chain Armor
+item_link: \aITEM -1951384485 -1977042209:Jerrek's Illuminous Chainmail\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Chest (Inventory Slot)
+- Crit Bonus Overcap (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Jerrek's Illuminous Chainmail
+  url: https://eq2.fandom.com/wiki/Jerrek's_Illuminous_Chainmail
+  history: https://eq2.fandom.com/wiki/Jerrek's_Illuminous_Chainmail?action=history
+  revision: 1667317
+  revised: '2023-03-15T20:32:56Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

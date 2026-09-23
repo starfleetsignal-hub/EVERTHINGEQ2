@@ -1,0 +1,53 @@
+---
+title: Imbued Iron Lance
+type: item
+item_kind: Equipment
+icon: images/Item_626.png
+tier: Handcrafted
+level: '10'
+slot: Primary
+classes: ', , , [[Channeler]], [[Beastlord]]'
+flags: attunable
+stats:
+  str: '+6'
+  sta: '+4'
+  dmg: 10 - 56
+  delay: '7.0'
+  drating: '9.38'
+  dtype: Two-Handed Piercing
+  wtype: Great Spear
+effects: '**Gleaming Strike**'
+obtained_from: '*Crafted by [[Outfitter]] (level 16) from [[Outfitters essentials volume 16 (Normal)]] *Crafted by [[Outfitter]] (level 16) from [[Outfitters Essentials Volume 16 (no-trade)]]'
+item_link: \aITEM 526385461 1179095317:Imbued Iron Lance\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Census Credits
+- Channeler Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Equipment
+- Gleaming Strike (Equipment)
+- Great Spear (Weapon Type)
+- Guardian Equipment
+- Handcrafted Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Tier 2 Equipment
+- Two-Handed Piercing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued Iron Lance
+  url: https://eq2.fandom.com/wiki/Imbued_Iron_Lance
+  history: https://eq2.fandom.com/wiki/Imbued_Iron_Lance?action=history
+  revision: 1900581
+  revised: '2025-09-18T20:28:37Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,47 @@
+---
+title: Imbued steel tulwar (Palely Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_616.png
+tier: Mastercrafted Legendary
+level: '22'
+slot: Primary
+flags: attunable
+stats:
+  str: '+14'
+  sta: '+14'
+  dmg: 11 - 32
+  delay: '2.0'
+  drating: '21.32'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+effects: '**Palely Gleaming Strike**'
+item_link: \aITEM 1742815864 -423197039:imbued steel tulwar\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- Paladin Equipment
+- Palely Gleaming Strike (Equipment)
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Tier 3 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued steel tulwar (Palely Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_steel_tulwar_(Palely_Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_steel_tulwar_(Palely_Gleaming_Strike)?action=history
+  revision: 1901130
+  revised: '2025-09-18T20:46:55Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

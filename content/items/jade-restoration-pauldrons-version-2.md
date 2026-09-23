@@ -1,0 +1,50 @@
+---
+title: Jade Restoration Pauldrons (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_3667.png
+tier: Fabled
+level: '80'
+slot: Shoulders
+flags: lore-equip attunable heirloom
+stats:
+  sta: '+47'
+  agi: '+47'
+  mit: '545'
+  crit: '2.5'
+  critbonus: '0.8'
+  potency: '3.8'
+  aspeed: '5.7'
+  dps: '10.6'
+  dtype: Plate Armor
+effects: '**Runic Absorption**'
+item_link: \aITEM 1900624639 -1856633318:Jade Restoration Pauldrons\/a
+categories:
+- Attack Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Equipment
+- Fabled Equipment
+- Inquisitor Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Runic Absorption (Equipment)
+- Shoulders (Inventory Slot)
+- Templar Equipment
+- Tier 9 Equipment
+source:
+  title: Jade Restoration Pauldrons (Version 2)
+  url: https://eq2.fandom.com/wiki/Jade_Restoration_Pauldrons_(Version_2)
+  history: https://eq2.fandom.com/wiki/Jade_Restoration_Pauldrons_(Version_2)?action=history
+  revision: 1886488
+  revised: '2025-09-16T20:28:24Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

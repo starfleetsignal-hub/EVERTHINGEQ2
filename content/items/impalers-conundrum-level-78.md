@@ -1,0 +1,55 @@
+---
+title: Impaler's Conundrum (Level 78)
+type: item
+item_kind: Equipment
+icon: images/Item_3233.png
+tier: Legendary
+level: '78'
+slot: Chest
+flags: attunable heirloom
+stats:
+  sta: '+46'
+  agi: '+46'
+  mit: '522'
+  crit: '2.4'
+  critbonus: '0.8'
+  potency: '3.7'
+  dps: '10.1'
+  dtype: Plate Armor
+effects: '**Lesser Runic Absorption**'
+item_link: \aITEM -306040876 178450541:Impaler's Conundrum\/a
+categories:
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Chest (Inventory Slot)
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Lesser Runic Absorption (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warrior Equipment
+source:
+  title: Impaler's Conundrum (Level 78)
+  url: https://eq2.fandom.com/wiki/Impaler's_Conundrum_(Level_78)
+  history: https://eq2.fandom.com/wiki/Impaler's_Conundrum_(Level_78)?action=history
+  revision: 1886404
+  revised: '2025-09-16T20:25:35Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

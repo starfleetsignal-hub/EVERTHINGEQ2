@@ -1,0 +1,64 @@
+---
+title: Iron sai
+type: item
+item_kind: Equipment
+tier: Handcrafted
+level: '10'
+slot: Primary
+flags: attuneable
+stats:
+  str: '+3'
+  sta: '+3'
+  agi: '+3'
+  health: '+8'
+  power: '+8'
+  dmg: 5 - 21
+  delay: '3.0'
+  drating: '8.6'
+  dtype: One-Handed Piercing
+  wtype: Dagger
+obtained_from: Crafted by [[Outfitter]] (level 11) from [[Outfitters essentials volume 11]]
+item_link: \aITEM -781482646 1327748234:iron sai\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Dagger (Weapon Type)
+- Dirge Equipment
+- Enchanter Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Necromancer Equipment
+- One-Handed Piercing (Equipment Type)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Tier 2 Equipment
+- Troubador Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Iron sai
+  url: https://eq2.fandom.com/wiki/Iron_sai
+  history: https://eq2.fandom.com/wiki/Iron_sai?action=history
+  revision: 452012
+  revised: '2010-03-01T20:30:26Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

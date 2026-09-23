@@ -1,0 +1,50 @@
+---
+title: Invigorated Uzulu Astral Helmet
+type: item
+item_kind: Equipment
+icon: images/Item_3665.png
+tier: Fabled
+level: '100'
+slot: Head
+flags: attunable heirloom infusable
+stats:
+  str: '+519'
+  sta: +1,679
+  maxhealth: '15.9'
+  mit: '876'
+  critbonus: '79.3'
+  potency: '87.5'
+  resolve: '5'
+  dtype: Plate Armor
+item_link: \aITEM -1070774366 -1322450678:Invigorated Uzulu Astral Helmet\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Max Health (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Tier 11 Equipment
+- Warrior Equipment
+source:
+  title: Invigorated Uzulu Astral Helmet
+  url: https://eq2.fandom.com/wiki/Invigorated_Uzulu_Astral_Helmet
+  history: https://eq2.fandom.com/wiki/Invigorated_Uzulu_Astral_Helmet?action=history
+  revision: 1666990
+  revised: '2023-03-15T20:27:14Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

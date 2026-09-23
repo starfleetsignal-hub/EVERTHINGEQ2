@@ -1,0 +1,54 @@
+---
+title: Jalira Waterfrost's Pauldrons of Frenzy
+type: item
+item_kind: Equipment
+icon: images/Item_1620.png
+tier: Legendary
+level: '122'
+slot: Shoulders
+flags: attunable heirloom
+stats:
+  str: +2,627
+  sta: +5,040
+  health: +166,413
+  power: +104,579
+  mit: '946'
+  potency: 13,134.2
+  resolve: '295'
+  aspeed: '18.9'
+  cbovercap: '+940.7'
+  dtype: Plate Armor
+item_link: \aITEM -1186973958 -890327852:Jalira Waterfrost's Pauldrons of Frenzy\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shoulders (Inventory Slot)
+- Templar Equipment
+- Tier 13 Equipment
+- Warrior Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Jalira Waterfrost's Pauldrons of Frenzy
+  url: https://eq2.fandom.com/wiki/Jalira_Waterfrost's_Pauldrons_of_Frenzy
+  history: https://eq2.fandom.com/wiki/Jalira_Waterfrost's_Pauldrons_of_Frenzy?action=history
+  revision: 1667279
+  revised: '2023-03-15T20:32:07Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

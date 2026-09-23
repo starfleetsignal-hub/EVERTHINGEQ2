@@ -1,0 +1,52 @@
+---
+title: Imbued Ash Pike (Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_624.png
+tier: Handcrafted
+level: '20'
+slot: Primary
+classes: ', , , [[Channeler]]'
+flags: attunable
+stats:
+  str: '+12'
+  sta: '+10'
+  dmg: 11 - 33
+  delay: '2.4'
+  drating: '18.76'
+  dtype: Two-Handed Piercing
+  wtype: Great Spear
+effects: '**Gleaming Strike**'
+item_link: \aITEM -1515516606 749836314:Imbued Ash Pike\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Equipment
+- Gleaming Strike (Equipment)
+- Great Spear (Weapon Type)
+- Guardian Equipment
+- Handcrafted Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Tier 3 Equipment
+- Two-Handed Piercing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued Ash Pike (Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_Ash_Pike_(Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_Ash_Pike_(Gleaming_Strike)?action=history
+  revision: 1898480
+  revised: '2025-09-18T19:18:37Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

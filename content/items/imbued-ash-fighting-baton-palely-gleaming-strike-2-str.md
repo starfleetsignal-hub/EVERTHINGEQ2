@@ -1,0 +1,73 @@
+---
+title: Imbued Ash Fighting Baton (Palely Gleaming Strike) (2 str)
+type: item
+item_kind: Equipment
+icon: images/Item_877.png
+tier: Handcrafted
+level: '20'
+slot: Primary
+flags: attunable
+stats:
+  str: '+6'
+  sta: '+5'
+  dmg: 14 - 43
+  delay: '4.0'
+  drating: '14.29'
+  dtype: One-Handed Crushing
+  wtype: Staff
+effects: '**Palely Gleaming Strike**'
+item_link: \aITEM -982841499 988722359:Imbued Ash Fighting Baton\/a
+categories:
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Palely Gleaming Strike (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 3 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Imbued Ash Fighting Baton (Palely Gleaming Strike) (2 str)
+  url: https://eq2.fandom.com/wiki/Imbued_Ash_Fighting_Baton_(Palely_Gleaming_Strike)_(2_str)
+  history: https://eq2.fandom.com/wiki/Imbued_Ash_Fighting_Baton_(Palely_Gleaming_Strike)_(2_str)?action=history
+  revision: 1898464
+  revised: '2025-09-18T19:18:05Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

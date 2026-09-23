@@ -1,0 +1,73 @@
+---
+title: Joyous Tidings Shoes
+type: item
+item_kind: Equipment
+icon: images/Item_4146.png
+tier: Handcrafted
+slot: Feet
+flags: appearance-only attunable
+description: A finely crafted, leather armor piece, in red with gold accents. A joyous tidings Frostfell outfit, indeed!
+stats:
+  dtype: Cloth Armor
+obtained_from: Crafted by [[Artisan]] (level 1) from [[Frostfell Outfits You Can Make XI]]
+item_link: \aITEM 738087066 1998225968:Joyous Tidings Shoes\/a
+categories:
+- Appearance Only (Equipment Type)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Fighter Equipment
+- Frostfell
+- Fury Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Joyous Tidings Shoes
+  url: https://eq2.fandom.com/wiki/Joyous_Tidings_Shoes
+  history: https://eq2.fandom.com/wiki/Joyous_Tidings_Shoes?action=history
+  revision: 1868257
+  revised: '2025-04-07T03:41:38Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: source
+---
+
+

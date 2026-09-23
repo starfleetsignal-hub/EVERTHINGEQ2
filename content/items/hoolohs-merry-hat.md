@@ -1,0 +1,50 @@
+---
+title: Hoo'Loh's Merry Hat
+type: item
+item_kind: Equipment
+icon: images/Item_115.png
+tier: Legendary
+level: '60'
+slot: Head
+classes: '[[Troubador]]'
+flags: no-trade
+stats:
+  str: '+31'
+  sta: '+31'
+  mit: '297'
+  crit: '1.2'
+  critbonus: '0.3'
+  potency: '1.7'
+  aspeed: '2.4'
+  dtype: Chain Armor
+effects: '**Hooluk in a Hat**'
+obtained_from: '[[Blood of the Brood]]'
+item_link: \aITEM 452839301 -504065910:Hoo'Loh's Merry Hat\/a
+aliases:
+- Hoo'loh's Merry Hat
+categories:
+- Attack Speed (Equipment)
+- Census Credits
+- Chain Armor (Equipment Type)
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Head (Inventory Slot)
+- Hooluk in a Hat (Equipment)
+- Legendary Equipment
+- Potency (Equipment)
+- Tier 7 Equipment
+- Troubador Equipment
+source:
+  title: Hoo'Loh's Merry Hat
+  url: https://eq2.fandom.com/wiki/Hoo'Loh's_Merry_Hat
+  history: https://eq2.fandom.com/wiki/Hoo'Loh's_Merry_Hat?action=history
+  revision: 1600909
+  revised: '2022-12-09T16:33:55Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: source
+---
+
+

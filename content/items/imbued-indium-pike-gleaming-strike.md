@@ -1,0 +1,50 @@
+---
+title: Imbued Indium Pike (Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_627.png
+tier: Handcrafted
+level: '50'
+slot: Primary
+flags: attunable
+stats:
+  str: '+42'
+  sta: '+40'
+  crit: '0.4'
+  potency: '1.4'
+  aspeed: '0.2'
+  dmg: 35 - 104
+  delay: '2.5'
+  drating: '55.34'
+  dtype: Two-Handed Piercing
+  wtype: Great Spear
+effects: '**Gleaming Strike**'
+item_link: \aITEM 1606004743 -1104181569:Imbued Indium Pike\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Gleaming Strike (Equipment)
+- Great Spear (Weapon Type)
+- Guardian Equipment
+- Handcrafted Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Tier 6 Equipment
+- Two-Handed Piercing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued Indium Pike (Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_Indium_Pike_(Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_Indium_Pike_(Gleaming_Strike)?action=history
+  revision: 1900449
+  revised: '2025-09-18T20:24:14Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

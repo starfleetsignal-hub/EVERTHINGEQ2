@@ -1,0 +1,51 @@
+---
+title: Imbued ebon halberd (Palely Gleaming Strike) (Level 42) (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_625.png
+tier: Mastercrafted Legendary
+level: '42'
+slot: Primary
+flags: attunable
+stats:
+  str: '+26'
+  sta: '+26'
+  potency: '0.4'
+  dmg: 25 - 76
+  delay: '2.3'
+  drating: '44.74'
+  dtype: Two-Handed Slashing
+  wtype: Great Axe
+effects: '**Palely Gleaming Strike**'
+item_link: \aITEM 317327946 -1951616872:imbued ebon halberd\/a
+aliases:
+- Imbued ebon halberd (Palely Gleaming Strike) (Level 40)
+categories:
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Equipment
+- Great Axe (Weapon Type)
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- Paladin Equipment
+- Palely Gleaming Strike (Equipment)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Tier 5 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued ebon halberd (Palely Gleaming Strike) (Level 42) (Version 2)
+  url: https://eq2.fandom.com/wiki/Imbued_ebon_halberd_(Palely_Gleaming_Strike)_(Level_42)_(Version_2)
+  history: https://eq2.fandom.com/wiki/Imbued_ebon_halberd_(Palely_Gleaming_Strike)_(Level_42)_(Version_2)?action=history
+  revision: 1963010
+  revised: '2026-01-25T22:13:35Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,71 @@
+---
+title: Imbued Ferrite Morning Star (Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_1656.png
+tier: Handcrafted
+level: '70'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+41'
+  wis: '+42'
+  crit: '2'
+  critbonus: '0.8'
+  potency: '3.4'
+  aspeed: '4.4'
+  dmg: 25 - 76
+  delay: '1.6'
+  drating: '63.61'
+  dtype: One-Handed Crushing
+  wtype: Hammer
+effects: '**Gleaming Strike**'
+item_link: \aITEM -895350100 832986018:Imbued Ferrite Morning Star\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Gleaming Strike (Equipment)
+- Guardian Equipment
+- Hammer (Weapon Type)
+- Handcrafted Equipment
+- Inquisitor Equipment
+- Monk Equipment
+- Mystic Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Imbued Ferrite Morning Star (Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_Ferrite_Morning_Star_(Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_Ferrite_Morning_Star_(Gleaming_Strike)?action=history
+  revision: 1899601
+  revised: '2025-09-18T19:56:00Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

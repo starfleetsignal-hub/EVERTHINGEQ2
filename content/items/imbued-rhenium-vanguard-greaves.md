@@ -1,0 +1,48 @@
+---
+title: Imbued Rhenium Vanguard Greaves
+type: item
+item_kind: Equipment
+icon: images/Item_1591.png
+tier: Handcrafted
+level: '90'
+slot: Legs
+flags: attunable
+stats:
+  str: '+152'
+  sta: '+152'
+  mit: '662'
+  critbonus: '15.5'
+  mitinc: '4.8'
+  dtype: Plate Armor
+effects: '**Imbued Smite**'
+obtained_from: '*Crafted by [[Armorer]] (level 95) from [[Armorer Essentials Volume 95 (with desc)]] *Crafted by [[Armorer]] (level 95) from [[Armorer Essentials Volume 95 (without desc)]]'
+item_link: \aITEM 1055793614 -1751789423:Imbued Rhenium Vanguard Greaves\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Imbued Smite (Equipment)
+- Legs (Inventory Slot)
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Shadowknight Equipment
+- Tier 10 Equipment
+- Warrior Equipment
+source:
+  title: Imbued Rhenium Vanguard Greaves
+  url: https://eq2.fandom.com/wiki/Imbued_Rhenium_Vanguard_Greaves
+  history: https://eq2.fandom.com/wiki/Imbued_Rhenium_Vanguard_Greaves?action=history
+  revision: 1886066
+  revised: '2025-09-16T20:14:16Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

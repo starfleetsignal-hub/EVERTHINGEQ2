@@ -1,0 +1,49 @@
+---
+title: Imbued Carbonite Vanguard Greaves (Crafted)
+type: item
+item_kind: Equipment
+icon: images/Item_274.png
+tier: Handcrafted
+level: '20'
+slot: Legs
+flags: attunable
+stats:
+  str: '+6'
+  sta: '+5'
+  mit: '129'
+  dtype: Plate Armor
+effects: '**Sanguine Imbued**'
+obtained_from: '*Crafted by [[Armorer]] (level 27) from [[Armorer Essentials Volume 27 (Normal)]] *Crafted by [[Armorer]] (level 27) from [[Armorer Essentials Volume 27 (no-trade)]]'
+item_link: \aITEM 1457467782 -1471385373:Imbued Carbonite Vanguard Greaves\/a
+image: images/Imbued_Carbonite_Vanguard_Greaves.jpg
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Guardian Equipment
+- Handcrafted Equipment
+- Inquisitor Equipment
+- Legs (Inventory Slot)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Sanguine Imbued (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 3 Equipment
+- Warrior Equipment
+source:
+  title: Imbued Carbonite Vanguard Greaves (Crafted)
+  url: https://eq2.fandom.com/wiki/Imbued_Carbonite_Vanguard_Greaves_(Crafted)
+  history: https://eq2.fandom.com/wiki/Imbued_Carbonite_Vanguard_Greaves_(Crafted)?action=history
+  revision: 1885547
+  revised: '2025-09-15T22:30:53Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

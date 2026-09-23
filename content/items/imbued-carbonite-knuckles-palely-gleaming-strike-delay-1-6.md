@@ -1,0 +1,45 @@
+---
+title: Imbued carbonite knuckles (Palely Gleaming Strike) (Delay 1.6)
+type: item
+item_kind: Equipment
+icon: images/Item_283.png
+tier: Handcrafted
+level: '20'
+slot: Primary
+flags: attunable
+stats:
+  str: '+6'
+  sta: '+5'
+  dmg: 6 - 17
+  delay: '1.6'
+  drating: '14.29'
+  dtype: One-Handed Crushing
+  wtype: Fists
+effects: '**Palely Gleaming Strike**'
+item_link: \aITEM 1115220128 300709852:imbued carbonite knuckles\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Equipment
+- Fists (Weapon Type)
+- Handcrafted Equipment
+- Monk Equipment
+- One-Handed Crushing (Equipment Type)
+- Palely Gleaming Strike (Equipment)
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Tier 3 Equipment
+source:
+  title: Imbued carbonite knuckles (Palely Gleaming Strike) (Delay 1.6)
+  url: https://eq2.fandom.com/wiki/Imbued_carbonite_knuckles_(Palely_Gleaming_Strike)_(Delay_1.6)
+  history: https://eq2.fandom.com/wiki/Imbued_carbonite_knuckles_(Palely_Gleaming_Strike)_(Delay_1.6)?action=history
+  revision: 1898893
+  revised: '2025-09-18T19:32:23Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,47 @@
+---
+title: Imbued steel double headed axe (Palely Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_2534.png
+tier: Mastercrafted
+level: '22'
+slot: Primary
+flags: attunable
+stats:
+  str: '+14'
+  sta: '+14'
+  dmg: 21 - 64
+  delay: '4.0'
+  drating: '21.32'
+  dtype: Two-Handed Slashing
+  wtype: Great Axe
+effects: '**Palely Gleaming Strike**'
+item_link: \aITEM 1313709681 -1577434598:imbued steel double headed axe\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Equipment
+- Great Axe (Weapon Type)
+- Guardian Equipment
+- Mastercrafted Equipment
+- Paladin Equipment
+- Palely Gleaming Strike (Equipment)
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Tier 3 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued steel double headed axe (Palely Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_steel_double_headed_axe_(Palely_Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_steel_double_headed_axe_(Palely_Gleaming_Strike)?action=history
+  revision: 1901006
+  revised: '2025-09-18T20:42:45Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

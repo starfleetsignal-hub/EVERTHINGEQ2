@@ -1,0 +1,55 @@
+---
+title: Hooved Glove
+type: item
+item_kind: Equipment
+icon: images/Item_1617.png
+tier: Legendary
+level: '80'
+slot: Primary
+classes: ', [[Beastlord]]'
+flags: lore-equip attunable heirloom
+stats:
+  str: '+47'
+  sta: '+47'
+  crit: '2.5'
+  critbonus: '0.8'
+  potency: '3.8'
+  aspeed: '5.6'
+  dps: '10.5'
+  dmg: 45 - 252
+  delay: '4.0'
+  drating: '74.2'
+  dtype: One-Handed Crushing
+  wtype: Fists
+item_link: \aITEM -1054101955 -1367885947 0 0 0:Hooved Glove\/a
+categories:
+- Attack Speed (Equipment)
+- Beastlord Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Equipment
+- Fists (Weapon Type)
+- Legendary Equipment
+- Monk Equipment
+- One-Handed Crushing (Equipment Type)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Tier 9 Equipment
+source:
+  title: Hooved Glove
+  url: https://eq2.fandom.com/wiki/Hooved_Glove
+  history: https://eq2.fandom.com/wiki/Hooved_Glove?action=history
+  revision: 1706956
+  revised: '2023-03-18T16:11:47Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

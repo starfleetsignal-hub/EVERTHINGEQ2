@@ -1,0 +1,55 @@
+---
+title: Incorporeal Wrath Robe of Impetuousness
+type: item
+item_kind: Equipment
+icon: images/Item_1684.png
+tier: Fabled
+level: '135'
+slot: Chest
+flags: attunable heirloom
+description: This item may be permanently converted to an alternate version using Matter Mallea.
+stats:
+  sta: +6,637
+  int: +4,054
+  health: +813,216
+  power: +813,216
+  mit: '358'
+  critbonus: 1,622.4
+  potency: 60,565
+  resolve: '650'
+  abmod: +5768,148
+  dtype: Cloth Armor
+item_link: \aITEM -539512188 -204923291:Incorporeal Wrath Robe of Impetuousness\/a
+categories:
+- Ability Modifier (Equipment)
+- Census Credits
+- Chest (Inventory Slot)
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Illusionist Equipment
+- Mage Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 14 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Incorporeal Wrath Robe of Impetuousness
+  url: https://eq2.fandom.com/wiki/Incorporeal_Wrath_Robe_of_Impetuousness
+  history: https://eq2.fandom.com/wiki/Incorporeal_Wrath_Robe_of_Impetuousness?action=history
+  revision: 2015383
+  revised: '2026-07-05T12:40:43Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+

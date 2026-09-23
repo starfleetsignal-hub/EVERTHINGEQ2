@@ -1,0 +1,47 @@
+---
+title: Imbued Carbonite Devout Greaves
+type: item
+item_kind: Equipment
+icon: images/Item_274.png
+tier: Handcrafted
+level: '20'
+slot: Legs
+flags: attunable
+stats:
+  str: '+6'
+  sta: '+5'
+  mit: '129'
+  dtype: Plate Armor
+effects: '**Sanguine Imbued**'
+obtained_from: '*Crafted by [[Armorer]] (level 27) from [[Armorer Essentials Volume 27 (Normal)]] *Crafted by [[Armorer]] (level 27) from [[Armorer Essentials Volume 27 (no-trade)]]'
+item_link: \aITEM 947304542 1372747008:Imbued Carbonite Devout Greaves\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Inquisitor Equipment
+- Legs (Inventory Slot)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Sanguine Imbued (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 3 Equipment
+- Warrior Equipment
+source:
+  title: Imbued Carbonite Devout Greaves
+  url: https://eq2.fandom.com/wiki/Imbued_Carbonite_Devout_Greaves
+  history: https://eq2.fandom.com/wiki/Imbued_Carbonite_Devout_Greaves?action=history
+  revision: 1885538
+  revised: '2025-09-15T22:30:35Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,69 @@
+---
+title: Imbued Xegonite Maul (Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_285.png
+tier: Mastercrafted
+level: '62'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+60'
+  wis: '+60'
+  crit: '2.2'
+  critbonus: '0.6'
+  potency: '3.4'
+  dmg: 44 - 132
+  delay: '2.4'
+  drating: '73.3'
+  dtype: Two-Handed Crushing
+  wtype: Great Hammer
+effects: '**Gleaming Strike**'
+item_link: \aITEM -1718050583 57977968:Imbued Xegonite Maul\/a
+categories:
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Gleaming Strike (Equipment)
+- Great Hammer (Weapon Type)
+- Guardian Equipment
+- Inquisitor Equipment
+- Mastercrafted Equipment
+- Monk Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Templar Equipment
+- Tier 7 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Imbued Xegonite Maul (Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_Xegonite_Maul_(Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_Xegonite_Maul_(Gleaming_Strike)?action=history
+  revision: 1901409
+  revised: '2025-09-18T20:56:15Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

@@ -1,0 +1,56 @@
+---
+title: Invigorated Stygian Plate Greaves
+type: item
+item_kind: Equipment
+icon: images/Item_3696.png
+tier: Fabled
+level: '100'
+slot: Legs
+flags: attunable heirloom infusable
+stats:
+  str: '+625'
+  sta: +2,125
+  maxhealth: '19.8'
+  mit: '988'
+  critbonus: '99.4'
+  potency: '100.7'
+  resolve: '5'
+  mitinc: '13.8'
+  dtype: Plate Armor
+obtained_from: From [[Underforged Plate Pants]]
+item_link: \aITEM -2134838180 -1019666814:Invigorated Stygian Plate Greaves\/a
+categories:
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Legs (Inventory Slot)
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Warrior Equipment
+source:
+  title: Invigorated Stygian Plate Greaves
+  url: https://eq2.fandom.com/wiki/Invigorated_Stygian_Plate_Greaves
+  history: https://eq2.fandom.com/wiki/Invigorated_Stygian_Plate_Greaves?action=history
+  revision: 1666966
+  revised: '2023-03-15T20:26:47Z'
+  license: CC BY-SA 3.0
+expansion: Terrors of Thalumbra
+expansion_source: source
+---
+
+

@@ -1,0 +1,58 @@
+---
+title: Imbued Feysteel Rapier (Gleaming Strike) (Level 32) (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_614.png
+tier: Mastercrafted Legendary
+level: '32'
+slot: Primary
+flags: attunable
+stats:
+  sta: '+10'
+  agi: '+10'
+  dmg: 8 - 23
+  delay: '1.3'
+  drating: '24.95'
+  dtype: One-Handed Piercing
+  wtype: Rapier
+effects: '**Gleaming Strike**'
+item_link: \aITEM -128183786 -1992809263:Imbued Feysteel Rapier\/a
+aliases:
+- Imbued Feysteel Rapier (Gleaming Strike) (Level 30)
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Dirge Equipment
+- Equipment
+- Gleaming Strike (Equipment)
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- One-Handed Piercing (Equipment Type)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rapier (Weapon Type)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Swashbuckler Equipment
+- Tier 4 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Imbued Feysteel Rapier (Gleaming Strike) (Level 32) (Version 2)
+  url: https://eq2.fandom.com/wiki/Imbued_Feysteel_Rapier_(Gleaming_Strike)_(Level_32)_(Version_2)
+  history: https://eq2.fandom.com/wiki/Imbued_Feysteel_Rapier_(Gleaming_Strike)_(Level_32)_(Version_2)?action=history
+  revision: 1963194
+  revised: '2026-01-25T22:18:12Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

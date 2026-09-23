@@ -1,0 +1,51 @@
+---
+title: Imbued Brellium Kite Shield
+type: item
+item_kind: Equipment
+icon: images/Item_2268.png
+tier: Mastercrafted
+level: '82'
+slot: Shield
+flags: attunable
+stats:
+  str: '+62'
+  sta: '+62'
+  crit: '3.5'
+  critbonus: '1.2'
+  potency: '6'
+  multi: '8.9'
+  dtype: Tower Shield
+effects: '**Sanguine Imbued**'
+obtained_from: '*Crafted by [[Armorer]] (level 80) from [[Advanced Armorer Volume 80 (Heirloom)]] *Crafted by [[Armorer]] (level 80) from [[Advanced Armorer Volume 80 (Normal)]]'
+item_link: \aITEM 1840976984 -267731388:Imbued Brellium Kite Shield\/a
+categories:
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Mastercrafted Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Sanguine Imbued (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 9 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued Brellium Kite Shield
+  url: https://eq2.fandom.com/wiki/Imbued_Brellium_Kite_Shield
+  history: https://eq2.fandom.com/wiki/Imbued_Brellium_Kite_Shield?action=history
+  revision: 1892407
+  revised: '2025-09-17T20:32:13Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

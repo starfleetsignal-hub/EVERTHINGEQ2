@@ -1,0 +1,83 @@
+---
+title: Honorific Sash of Independence
+type: item
+item_kind: Equipment
+icon: images/Item_381.png
+tier: Legendary
+level: '92'
+slot: Waist
+flags: attunable heirloom
+stats:
+  str: '+100'
+  sta: '+100'
+  crit: '6.7'
+  critbonus: '5.9'
+  potency: '10.2'
+  dps: '25.5'
+  multi: '16.5'
+item_link: \aITEM 1699342039 -771800039:Honorific Sash of Independence\/a
+image: images/Honorific_Sash_of_Independence.png
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Troubador Equipment
+- Waist (Inventory Slot)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Honorific Sash of Independence
+  url: https://eq2.fandom.com/wiki/Honorific_Sash_of_Independence
+  history: https://eq2.fandom.com/wiki/Honorific_Sash_of_Independence?action=history
+  revision: 1834678
+  revised: '2024-11-24T21:04:22Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

@@ -1,0 +1,47 @@
+---
+title: Hunter's Dauntless Bracers (Level 85)
+type: item
+item_kind: Equipment
+icon: images/Item_3332.png
+tier: Legendary
+level: '85'
+slot: Forearms
+classes: '[[Ranger]]'
+flags: no-trade no-value indestructible
+stats:
+  sta: '+73'
+  agi: '+73'
+  maxhealth: '8.3'
+  mit: '370'
+  crit: '3.8'
+  critbonus: '3.3'
+  potency: '7.2'
+  dtype: Chain Armor
+obtained_from: From [[A Packet of Heroic Goods (Ranger, 85)|A Packet of Heroic Goods]]
+item_link: \aITEM 516778476 -635265571:Hunter's Dauntless Bracers\/a
+categories:
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Forearms (Inventory Slot)
+- Item obtained from a Crate
+- Legendary Equipment
+- Max Health (Equipment)
+- Potency (Equipment)
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Tier 9 Equipment
+source:
+  title: Hunter's Dauntless Bracers (Level 85)
+  url: https://eq2.fandom.com/wiki/Hunter's_Dauntless_Bracers_(Level_85)
+  history: https://eq2.fandom.com/wiki/Hunter's_Dauntless_Bracers_(Level_85)?action=history
+  revision: 1472305
+  revised: '2022-06-09T22:02:10Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+

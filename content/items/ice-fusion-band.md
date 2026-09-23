@@ -1,0 +1,68 @@
+---
+title: Ice Fusion Band
+type: item
+item_kind: Equipment
+icon: images/Item_3438.png
+tier: Legendary
+level: '90'
+slot: Finger
+flags: lore-equip attunable heirloom
+stats:
+  str: '+75'
+  sta: '+75'
+  crit: '4.6'
+  critbonus: '4.3'
+  potency: '7.6'
+  abmod: '+238'
+  multi: '11.5'
+  vsarcane: '+468'
+item_link: \aITEM -953983266 9174614:Ice Fusion Band\/a
+categories:
+- Ability Modifier (Equipment)
+- Arcane Resistance (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Finger (Inventory Slot)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Potency (Equipment)
+- Priest Equipment
+- Resistances (Equipment)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Ice Fusion Band
+  url: https://eq2.fandom.com/wiki/Ice_Fusion_Band
+  history: https://eq2.fandom.com/wiki/Ice_Fusion_Band?action=history
+  revision: 1665297
+  revised: '2023-03-15T19:56:53Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

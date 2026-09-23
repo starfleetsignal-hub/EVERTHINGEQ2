@@ -1,0 +1,54 @@
+---
+title: Imbued Ferrite Vanguard Cuirass
+type: item
+item_kind: Equipment
+icon: images/Item_1565.png
+tier: Handcrafted
+level: '70'
+slot: Chest
+flags: attunable
+stats:
+  str: '+39'
+  sta: '+38'
+  mit: '450'
+  crit: '1.7'
+  critbonus: '0.7'
+  potency: '3.5'
+  dtype: Plate Armor
+effects: '**Lambent Imbued**'
+obtained_from: '*Crafted by [[Armorer]] (level 79) from [[Armorer Essentials Volume 79 (Normal)]] *Crafted by [[Armorer]] (level 79) from [[Armorer Essentials Volume 79 (no-trade)]]'
+item_link: \aITEM 949738356 -384318101:Imbued Ferrite Vanguard Cuirass\/a
+categories:
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Chest (Inventory Slot)
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Inquisitor Equipment
+- Lambent Imbued (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Warrior Equipment
+source:
+  title: Imbued Ferrite Vanguard Cuirass
+  url: https://eq2.fandom.com/wiki/Imbued_Ferrite_Vanguard_Cuirass
+  history: https://eq2.fandom.com/wiki/Imbued_Ferrite_Vanguard_Cuirass?action=history
+  revision: 1885749
+  revised: '2025-09-15T22:37:47Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

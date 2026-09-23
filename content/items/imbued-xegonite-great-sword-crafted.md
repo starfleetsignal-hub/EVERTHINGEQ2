@@ -1,0 +1,54 @@
+---
+title: Imbued Xegonite Great Sword (Crafted)
+type: item
+item_kind: Equipment
+icon: images/Item_2155.png
+tier: Mastercrafted
+level: '62'
+slot: Primary
+flags: attunable
+stats:
+  str: '+60'
+  sta: '+60'
+  crit: '2.2'
+  critbonus: '0.6'
+  potency: '3.4'
+  dmg: 77 - 436
+  delay: '7.0'
+  drating: '73.3'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+effects: '**Gleaming Strike**'
+obtained_from: '*Crafted by [[Weaponsmith]] (level 67) from [[Advanced Weaponsmith Volume 67 (no-value)]] *Crafted by [[Weaponsmith]] (level 67) from [[Advanced Weaponsmith Volume 67 (Uncommon)]]'
+item_link: \aITEM 1164659612 120533896:Imbued Xegonite Great Sword\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Gleaming Strike (Equipment)
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Mastercrafted Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Shadowknight Equipment
+- Tier 7 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warrior Equipment
+source:
+  title: Imbued Xegonite Great Sword (Crafted)
+  url: https://eq2.fandom.com/wiki/Imbued_Xegonite_Great_Sword_(Crafted)
+  history: https://eq2.fandom.com/wiki/Imbued_Xegonite_Great_Sword_(Crafted)?action=history
+  revision: 1911081
+  revised: '2025-11-10T19:21:05Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

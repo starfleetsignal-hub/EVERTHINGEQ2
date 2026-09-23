@@ -1,0 +1,45 @@
+---
+title: Imbued strengthened leather cestii (Palely Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_632.png
+tier: Handcrafted
+level: '40'
+slot: Primary
+flags: attunable
+stats:
+  str: '+11'
+  sta: '+10'
+  dmg: 16 - 47
+  delay: '2.0'
+  drating: '31.45'
+  dtype: One-Handed Crushing
+  wtype: Fists
+effects: '**Palely Gleaming Strike**'
+item_link: \aITEM 1485492234 -567678874:imbued strengthened leather cestii\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Equipment
+- Fists (Weapon Type)
+- Handcrafted Equipment
+- Monk Equipment
+- One-Handed Crushing (Equipment Type)
+- Palely Gleaming Strike (Equipment)
+- Primary (Inventory Slot)
+- Secondary (Inventory Slot)
+- Tier 5 Equipment
+source:
+  title: Imbued strengthened leather cestii (Palely Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_strengthened_leather_cestii_(Palely_Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_strengthened_leather_cestii_(Palely_Gleaming_Strike)?action=history
+  revision: 1901163
+  revised: '2025-09-18T20:48:02Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

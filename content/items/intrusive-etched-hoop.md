@@ -1,0 +1,64 @@
+---
+title: Intrusive Etched Hoop
+type: item
+item_kind: Equipment
+icon: images/Item_3308.png
+tier: Fabled
+level: '100'
+slot: Ear
+flags: no-trade infusable
+stats:
+  sta: '+758'
+  wis: '+406'
+  critbonus: '20.2'
+  potency: '25.7'
+  resolve: '4'
+  abmod: +1,622
+  aspeed: '36.7'
+  dps: '14'
+  vselemental: +30,687
+effects: '**Shroud of the Sea**'
+obtained_from: 'Collection reward: [[Brood Pool Samples (Collection)]]'
+item_link: \aITEM 1011124853 -900709017:Intrusive Etched Hoop\/a
+categories:
+- Ability Modifier (Equipment)
+- Arcane Resistance (Equipment)
+- Attack Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Collection Quest Rewards
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Ear (Inventory Slot)
+- Elemental Resistance (Equipment)
+- Equipment
+- Fabled Equipment
+- Fury Equipment
+- Inquisitor Equipment
+- Mystic Equipment
+- Noxious Resistance (Equipment)
+- Potency (Equipment)
+- Priest Equipment
+- Resistances (Equipment)
+- Resolve (Equipment)
+- Shaman Equipment
+- Shroud of the Sea (Equipment)
+- Templar Equipment
+- Tier 11 Equipment
+- Warden Equipment
+source:
+  title: Intrusive Etched Hoop
+  url: https://eq2.fandom.com/wiki/Intrusive_Etched_Hoop
+  history: https://eq2.fandom.com/wiki/Intrusive_Etched_Hoop?action=history
+  revision: 1886452
+  revised: '2025-09-16T20:27:11Z'
+  license: CC BY-SA 3.0
+expansion: Terrors of Thalumbra
+expansion_source: source
+---
+
+

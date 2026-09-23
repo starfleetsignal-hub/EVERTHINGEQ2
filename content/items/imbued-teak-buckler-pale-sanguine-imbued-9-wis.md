@@ -1,0 +1,64 @@
+---
+title: Imbued teak buckler (Pale Sanguine Imbued) (9 wis)
+type: item
+item_kind: Equipment
+icon: images/Item_2265.png
+tier: Handcrafted
+level: '40'
+slot: Shield
+flags: attunable
+stats:
+  sta: '+10'
+  int: '+11'
+  dtype: Buckler
+effects: '**Pale Sanguine Imbued**'
+item_link: \aITEM -864254541 1553841316:imbued teak buckler\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Buckler (Equipment Type)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Inquisitor Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Pale Sanguine Imbued (Equipment)
+- Predator Equipment
+- Priest Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Shield (Inventory Slot)
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 5 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Imbued teak buckler (Pale Sanguine Imbued) (9 wis)
+  url: https://eq2.fandom.com/wiki/Imbued_teak_buckler_(Pale_Sanguine_Imbued)_(9_wis)
+  history: https://eq2.fandom.com/wiki/Imbued_teak_buckler_(Pale_Sanguine_Imbued)_(9_wis)?action=history
+  revision: 1892593
+  revised: '2025-09-17T20:38:27Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

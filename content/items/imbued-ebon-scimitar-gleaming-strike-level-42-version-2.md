@@ -1,0 +1,70 @@
+---
+title: Imbued Ebon Scimitar (Gleaming Strike) (Level 42) (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_1662.png
+tier: Mastercrafted Legendary
+level: '42'
+slot: Primary
+classes: ', , , , [[Channeler]]'
+flags: attunable
+stats:
+  sta: '+13'
+  agi: '+13'
+  potency: '0.2'
+  dps: '1.1'
+  dmg: 12 - 36
+  delay: '1.4'
+  drating: '34.09'
+  dtype: One-Handed Slashing
+  wtype: Sword
+effects: '**Gleaming Strike**'
+item_link: \aITEM -1698322196 1197462279:Imbued Ebon Scimitar\/a
+aliases:
+- Imbued Ebon Scimitar (Gleaming Strike) (Level 40)
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Combat Skills (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Gleaming Strike (Equipment)
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Sword (Weapon Type)
+- Tier 5 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Imbued Ebon Scimitar (Gleaming Strike) (Level 42) (Version 2)
+  url: https://eq2.fandom.com/wiki/Imbued_Ebon_Scimitar_(Gleaming_Strike)_(Level_42)_(Version_2)
+  history: https://eq2.fandom.com/wiki/Imbued_Ebon_Scimitar_(Gleaming_Strike)_(Level_42)_(Version_2)?action=history
+  revision: 1963064
+  revised: '2026-01-25T22:14:56Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

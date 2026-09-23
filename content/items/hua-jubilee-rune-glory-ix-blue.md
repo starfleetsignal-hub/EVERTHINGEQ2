@@ -1,0 +1,83 @@
+---
+title: 'Hua Jubilee Rune: Glory (IX) (blue)'
+type: item
+item_kind: Adornment
+icon: images/Item_3879.png
+tier: Legendary
+level: '120'
+slot: blue
+flags: lore no-trade no-value
+stats:
+  maxhealth: '377.52'
+  abmod: +476,520
+  cbovercap: '204.72'
+item_link: '\aITEM 821809226 -972360024:Hua Jubilee Rune: Glory [IX]\/a'
+categories:
+- Ability Modifier Adornments
+- Adornments
+- Assassin Adornments
+- Bard Adornments
+- Beastlord Adornments
+- Berserker Adornments
+- Blue Slot Adornments
+- Brawler Adornments
+- Brigand Adornments
+- Bruiser Adornments
+- Census Credits
+- Channeler Adornments
+- Charm Adornments
+- Cleric Adornments
+- Cloak Adornments
+- Coercer Adornments
+- Conjuror Adornments
+- Crit Bonus Overcap Adornments
+- Crusader Adornments
+- Defiler Adornments
+- Dirge Adornments
+- Druid Adornments
+- Enchanter Adornments
+- Fighter Adornments
+- Fury Adornments
+- Guardian Adornments
+- Illusionist Adornments
+- Inquisitor Adornments
+- Legendary Adornments
+- Mage Adornments
+- Max Health Adornments
+- Missing Adornment Obtain Info
+- Monk Adornments
+- Mystic Adornments
+- Necromancer Adornments
+- Paladin Adornments
+- Predator Adornments
+- Primary Adornments
+- Ranged Adornments
+- Ranger Adornments
+- Rogue Adornments
+- Secondary Adornments
+- Shadowknight Adornments
+- Shaman Adornments
+- Sorcerer Adornments
+- Summoner Adornments
+- Swashbuckler Adornments
+- Templar Adornments
+- Tier 13 Adornments
+- Troubador Adornments
+- Waist Adornments
+- Warden Adornments
+- Warlock Adornments
+- Warrior Adornments
+- Wizard Adornments
+- Wrist Adornments
+source:
+  title: 'Hua Jubilee Rune: Glory (IX) (blue)'
+  url: https://eq2.fandom.com/wiki/Hua_Jubilee_Rune:_Glory_(IX)_(blue)
+  history: https://eq2.fandom.com/wiki/Hua_Jubilee_Rune:_Glory_(IX)_(blue)?action=history
+  revision: 1773276
+  revised: '2024-01-01T13:55:00Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

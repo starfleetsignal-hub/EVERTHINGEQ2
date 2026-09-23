@@ -1,0 +1,65 @@
+---
+title: Imbued adamantine crescent axe (Palely Gleaming Strike)
+type: item
+item_kind: Equipment
+icon: images/Item_640.png
+tier: Handcrafted
+level: '60'
+slot: Primary
+flags: attunable
+stats:
+  str: '+21'
+  sta: '+20'
+  crit: '0.2'
+  potency: '0.7'
+  dps: '2.2'
+  dmg: 20 - 59
+  delay: '1.5'
+  drating: '52.89'
+  dtype: One-Handed Slashing
+  wtype: Axe
+effects: '**Palely Gleaming Strike**'
+item_link: \aITEM -462807442 1750215775:imbued adamantine crescent axe\/a
+categories:
+- Assassin Equipment
+- Axe (Weapon Type)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- One-Handed Slashing (Equipment Type)
+- Paladin Equipment
+- Palely Gleaming Strike (Equipment)
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 7 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Imbued adamantine crescent axe (Palely Gleaming Strike)
+  url: https://eq2.fandom.com/wiki/Imbued_adamantine_crescent_axe_(Palely_Gleaming_Strike)
+  history: https://eq2.fandom.com/wiki/Imbued_adamantine_crescent_axe_(Palely_Gleaming_Strike)?action=history
+  revision: 1898335
+  revised: '2025-09-18T19:13:47Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

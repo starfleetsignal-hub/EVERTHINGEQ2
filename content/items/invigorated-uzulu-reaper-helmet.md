@@ -1,0 +1,54 @@
+---
+title: Invigorated Uzulu Reaper Helmet
+type: item
+item_kind: Equipment
+icon: images/Item_4108.png
+tier: Fabled
+level: '100'
+slot: Head
+flags: attunable heirloom infusable
+stats:
+  str: '+519'
+  sta: +1,679
+  maxhealth: '15.9'
+  mit: '876'
+  critbonus: '79.3'
+  potency: '87.5'
+  resolve: '5'
+  mitinc: '10.9'
+  dtype: Plate Armor
+item_link: \aITEM 878182031 -1270068829:Invigorated Uzulu Reaper Helmet\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Warrior Equipment
+source:
+  title: Invigorated Uzulu Reaper Helmet
+  url: https://eq2.fandom.com/wiki/Invigorated_Uzulu_Reaper_Helmet
+  history: https://eq2.fandom.com/wiki/Invigorated_Uzulu_Reaper_Helmet?action=history
+  revision: 1667006
+  revised: '2023-03-15T20:27:29Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+
