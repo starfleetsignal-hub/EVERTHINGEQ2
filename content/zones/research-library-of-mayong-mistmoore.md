@@ -6,8 +6,6 @@ release: '[[Altar of Malice]]'
 levels: Scales
 access: Solo
 entered_from: '[[The Duality''s Vigilant Sanctum]]'
-success_lockout: '-'
-failure_lockout: '-'
 categories:
 - Altar of Malice
 - Altar of Malice Instances

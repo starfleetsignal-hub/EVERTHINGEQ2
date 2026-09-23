@@ -7,7 +7,6 @@ levels: Scales
 access: Solo
 entered_from: '[[Qeynos Capitol District]]'
 entrance: Click on the House's door at {{waypoint 645, -18, 205}}.
-players: '---'
 related_quest: '[[For the Lonce]]'
 image: images/The_House_of_Endings.png
 categories:

@@ -5,7 +5,6 @@ expansion: Altar of Malice
 release: '[[Altar of Malice]]'
 access: Solo
 entrance: examine [[Message in a Bottle]] to get teleported to the zone
-players: '---'
 categories:
 - Altar of Malice
 - Altar of Malice Instances

@@ -8,8 +8,6 @@ access: Solo
 entered_from: '[[The Commonlands]]'
 access_quest: '[[Awakening Bonds: The First Steps]]'
 related_quest: '[[Awakening Bonds: The First Steps]]'
-success_lockout: '-'
-failure_lockout: '-'
 categories:
 - Instances
 - Kunark Ascending

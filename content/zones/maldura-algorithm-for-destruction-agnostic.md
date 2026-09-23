@@ -6,7 +6,6 @@ release: '[[Altar of Malice]]'
 levels: Scaling
 access: Group
 entrance: use one of the portals:<br> [[Qeynos Province District]] {{waypoint 762.60, -20.60, 12.50}}<br>[[The City of Freeport]] {{waypoint 212.25, -3.03, -41.99}}.
-players: '---'
 image: images/Maldura_Entrance_Agnostic.jpg
 categories:
 - Altar of Malice

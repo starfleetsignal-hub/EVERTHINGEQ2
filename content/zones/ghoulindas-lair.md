@@ -5,7 +5,6 @@ expansion: Visions of Vetrovia
 release: '[[Visions of Vetrovia]]'
 entered_from: '[[Mahngavi Wastes]]'
 entrance: Door is at [[Irewater Pond]] {{waypoint 540.33, 95.51, 165.02}}
-players: '---'
 access_quest: '[[To The Lair]]'
 categories:
 - Endless Persistent Instances

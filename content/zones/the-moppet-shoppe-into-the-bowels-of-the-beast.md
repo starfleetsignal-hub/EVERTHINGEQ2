@@ -7,7 +7,6 @@ levels: '80'
 access: Solo-Group
 entered_from: '[[Kunzar Jungle]]'
 entrance: Click the door beneath the bridge in [[The City of Mist]]. The door only appears while you have the required quest. {{waypoint -232, 125, -1006}}
-players: '---'
 related_quest: '[[Into the Bowels of the Beast]]'
 image: images/The_Moppet_Shoppe.png
 categories:

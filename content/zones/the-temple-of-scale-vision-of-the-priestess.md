@@ -6,7 +6,6 @@ release: '[[Tears of Veeshan]]'
 levels: '95'
 access: Solo-Group
 entered_from: '[[Vesspyr Isles]]'
-players: '---'
 access_quest: '[[Vision of Scale]]'
 categories:
 - Endless Persistent Instances

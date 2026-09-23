@@ -6,7 +6,6 @@ release: '[[Age of Discovery]]'
 levels: 40+
 access: Solo
 entered_from: '[[The Feerrott]]'
-players: '---'
 related_quest: '[[Collective Minds]]'
 categories:
 - Age of Discovery

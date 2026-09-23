@@ -6,7 +6,6 @@ release: '[[Reign of Shadows]]'
 levels: 120+
 entered_from: '[[City of Shar Vahl]]'
 entrance: palace door at {{waypoint -48, 95, 342}}
-players: '---'
 access_quest: '[[Reign of Shadows: Shadow on the Vahl]]'
 related_quest: '[[Reign of Shadows: Shadow on the Vahl]]'
 categories:

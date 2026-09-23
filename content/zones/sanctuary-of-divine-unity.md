@@ -7,7 +7,6 @@ levels: 100+
 access: Solo
 entered_from: '[[Nektulos Forest]]'
 entrance: A hidden tunnel by the [[East Bear Cave]] {{waypoint -1310.82, 13.59, -754.86}}
-players: '---'
 categories:
 - Endless Persistent Instances
 - Instances

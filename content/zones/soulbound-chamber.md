@@ -5,7 +5,6 @@ expansion: Planes of Prophecy
 release: '[[Planes of Prophecy]]'
 levels: '110'
 access: Solo
-players: '---'
 access_quest: '[[Conservation of Planar Energy]]'
 categories:
 - Coliseum of Valor Instances

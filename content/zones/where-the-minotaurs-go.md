@@ -8,8 +8,6 @@ access: Solo-Group
 entered_from: '[[Steamfont Mountains]]'
 access_quest: '[[Minotaurs? Minotaurs!]]'
 related_quest: '[[Minotaurs? Minotaurs!]]'
-success_lockout: '-'
-failure_lockout: '-'
 categories:
 - IZone pages that need EQ2MAP uid
 - Instances

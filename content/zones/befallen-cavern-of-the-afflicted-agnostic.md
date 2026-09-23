@@ -7,7 +7,6 @@ levels: Scaling
 access: Group
 entered_from: '[[Befallen: Cavern of the Afflicted]]'
 entrance: use one of the portals:<br> [[Qeynos Province District]] {{waypoint 762.60, -20.60, 12.50}}<br>[[The City of Freeport]] {{waypoint 212.25, -3.03, -41.99}}.
-players: '---'
 image: images/Cavern_of_the_Afflicted.jpg
 categories:
 - Altar of Malice

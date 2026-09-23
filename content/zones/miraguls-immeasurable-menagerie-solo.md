@@ -6,7 +6,6 @@ release: '[[Ballads of Zimara]]'
 levels: 125-130
 access: Solo
 entered_from: '[[The Celestial Conveyance]]'
-players: '---'
 categories:
 - Ballads of Zimara
 - Ballads of Zimara Instances

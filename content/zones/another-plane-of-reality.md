@@ -7,7 +7,6 @@ levels: '100'
 access: Solo
 entered_from: '[[Cobalt Scar]]'
 entrance: '{{waypoint 4760, -1140, 1432}}'
-players: '---'
 related_quest: '[[Nonsense Is Better Than No Sense At All]]'
 categories:
 - Cobalt Scar Instances

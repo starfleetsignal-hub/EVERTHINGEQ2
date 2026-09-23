@@ -6,7 +6,6 @@ release: '[[Reign of Shadows]]'
 levels: 120+
 entered_from: '[[City of Shar Vahl]]'
 entrance: speak to [[Hymnist Wadakha]] at [[The Jharin Assemblage]] {{waypoint -84.25, 31.12, -410.88}}
-players: '---'
 access_quest: '[[Reign of Shadows: Shadow on the Vahl]]'
 related_quest: '[[Reign of Shadows: Shadow on the Vahl]]'
 categories:

@@ -7,7 +7,6 @@ levels: 110-120
 access: Solo
 entered_from: '[[Sanctus Seru (City)]]'
 entrance: A door on the upper level of [[Sanctus Seru (City)|Sanctus Seru]] at {{waypoint -181, 180, 95}}.
-players: '---'
 related_quest: '[[Shattered Dawn: Behind the Walls of Seru]]'
 categories:
 - Blood of Luclin

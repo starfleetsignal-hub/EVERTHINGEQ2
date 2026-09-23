@@ -6,8 +6,6 @@ release: '[[Kingdom of Sky]]'
 levels: '70'
 entered_from: '[[Solusek''s Eye]]'
 entrance: 'Through [[The Oratorium of Thyr: Deserted]], then at {{waypoint -402, -590, -151}}'
-success_lockout: '-'
-failure_lockout: '-'
 image: images/Nagafen's_Lair.png
 categories:
 - Instances

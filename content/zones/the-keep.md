@@ -5,7 +5,6 @@ expansion: Kunark Ascending
 release: '[[Kunark Ascending]]'
 levels: '100'
 entered_from: '[[The Withered Lands]]'
-players: '---'
 categories:
 - Endless Persistent Instances
 - IZone pages that need EQ2MAP uid

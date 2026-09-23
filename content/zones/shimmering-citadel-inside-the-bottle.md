@@ -6,8 +6,6 @@ release: '[[Kunark Ascending]]'
 levels: '100'
 access: Solo
 entered_from: '[[The Sinking Sands]]'
-success_lockout: '-'
-failure_lockout: '-'
 categories:
 - IZone pages that need EQ2MAP uid
 - Instances

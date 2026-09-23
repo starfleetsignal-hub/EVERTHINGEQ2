@@ -7,7 +7,6 @@ levels: 120+
 access: Solo
 entered_from: '[[Forlorn Gist]]'
 entrance: Basement door at {{waypoint -363, 16, 78}}
-players: '---'
 access_quest: '[[Were Is the Messenger: ''Ware the Were]]'
 categories:
 - Endless Persistent Instances

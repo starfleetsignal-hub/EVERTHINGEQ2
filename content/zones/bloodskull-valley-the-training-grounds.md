@@ -7,7 +7,6 @@ levels: 17-21
 access: Group
 entered_from: '[[The Commonlands]]'
 entrance: at {{waypoint 0, -48, 726}}
-players: '---'
 access_quest: '[[The Training Grounds]]'
 image: images/Bloodskull_Valley_-_The_Training_Grounds.png
 image_caption: '*Bloodskull Valley: The Training Grounds at dawn.*'

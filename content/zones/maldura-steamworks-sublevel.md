@@ -7,7 +7,6 @@ levels: Scales
 access: Solo
 entered_from: '[[Frostfell Workshop]]'
 entrance: Click on the *Enchanted Snowglobe* while on the corresponding quest step.
-players: '---'
 related_quest: '[[Special Delivery]]'
 image: images/Maldura_Steamworks_Sublevel.png
 categories:

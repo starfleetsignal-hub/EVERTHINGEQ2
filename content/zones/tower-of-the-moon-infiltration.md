@@ -7,7 +7,6 @@ levels: 50+
 access: Solo
 entered_from: '[[Maj''Dul]]'
 entrance: '{{waypoint -150, 176, -150}}'
-players: '---'
 related_quest: '[[Be Careful What You Wish For]]'
 categories:
 - Desert of Flames

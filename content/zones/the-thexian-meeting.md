@@ -7,8 +7,6 @@ levels: 12-14 Heroic
 access: Solo
 entered_from: '[[The City of Freeport]]'
 related_quest: '[[Key to Fallen Gate]]'
-success_lockout: '-'
-failure_lockout: '-'
 image: images/The_Thexian_Meeting.png
 categories:
 - IZone pages that need EQ2MAP uid

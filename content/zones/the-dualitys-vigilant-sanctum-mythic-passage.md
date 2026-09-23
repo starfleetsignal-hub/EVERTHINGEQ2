@@ -5,7 +5,6 @@ expansion: Blood of Luclin
 release: '[[Blood of Luclin]]'
 levels: 110+
 entered_from: '[[The Sundered Frontier]]'
-players: '---'
 categories:
 - Blood of Luclin
 - Blood of Luclin Instances

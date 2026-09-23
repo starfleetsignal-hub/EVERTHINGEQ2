@@ -7,7 +7,6 @@ access: Raid
 difficulty: x4
 entered_from: '[[Permafrost]]'
 success_lockout: 1.5 hours
-failure_lockout: '-'
 categories:
 - IZone pages that need EQ2MAP uid
 - Instances

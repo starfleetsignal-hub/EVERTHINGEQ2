@@ -3,14 +3,10 @@ title: The Overlord's Office
 type: instance
 expansion: Altar of Malice
 release: '[[Altar of Malice]]'
-levels: '-'
 access: Solo
 entered_from: '[[The City of Freeport]]'
 entrance: In the [[Overlord's Plaza]] at {{waypoint -5, -20, 24}}, appears as a purple-black portal
-players: '---'
 related_quest: '**[[Shattered Seas: Summoned to Dethknell Citadel]]**<br>**[[Shattered Seas: Epilogue in Dethknell Citadel]]**'
-success_lockout: '-'
-failure_lockout: '-'
 categories:
 - Altar of Malice
 - Altar of Malice Instances

@@ -7,7 +7,6 @@ levels: '70'
 access: Solo
 entered_from: '[[The Barren Sky]]'
 entrance: '[[The Whisperwind Isle (POI)|The Whisperwind Isle]] {{waypoint -675, -21, -498}}'
-players: '---'
 related_quest: '[[Blood of the Brood]]'
 image: images/The_Nest_of_the_Great_Egg.png
 categories:

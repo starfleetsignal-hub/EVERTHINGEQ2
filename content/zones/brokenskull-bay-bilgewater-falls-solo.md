@@ -7,8 +7,6 @@ levels: 99-99
 access: Solo-Group
 entered_from: '[[Tranquil Sea]]'
 players: 90 minutes-3 days
-success_lockout: '-'
-failure_lockout: '-'
 image: images/Bilgewater_Falls.jpg
 categories:
 - Altar of Malice

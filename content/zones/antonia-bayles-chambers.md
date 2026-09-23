@@ -7,7 +7,6 @@ levels: n/a
 access: Solo
 entered_from: '[[Qeynos Capitol District]]'
 entrance: '{{waypoint 488, 5, -19}}'
-players: '---'
 related_quest: '[[The Shadow Odyssey, Prologue: A Missive from the Queen]]'
 image: images/Antonia_Bayle's_Chambers.png
 categories:

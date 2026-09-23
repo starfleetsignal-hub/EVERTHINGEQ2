@@ -7,7 +7,6 @@ levels: 100+
 access: Solo
 entered_from: '[[Antonica]]'
 entrance: A hidden tunnel {{waypoint 123.38, -25.98, -392.42}} at the end of a mite burrow {{waypoint 98.00, -21.17, -418.59}}
-players: '---'
 categories:
 - Antonica Instances
 - Endless Persistent Instances

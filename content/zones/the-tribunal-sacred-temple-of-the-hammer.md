@@ -3,11 +3,9 @@ title: 'The Tribunal: Sacred Temple of the Hammer'
 type: instance
 expansion: Rise of Kunark
 release: '[[Rise of Kunark]]'
-levels: '-'
 access: Solo
 entered_from: '[[Timorous Deep]]'
 entrance: Automatically zoned into after speaking with [[Justinian Theo]] on the beach next to [[Chrykori Village]] when accepting the quest, [[The Jury]]. {{waypoint -291, 1, -156}}
-players: '---'
 related_quest: '[[The Jury]]'
 image: images/Sacred_Temple_of_the_Hammer.png
 categories:

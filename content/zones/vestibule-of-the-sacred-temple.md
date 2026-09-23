@@ -7,7 +7,6 @@ levels: 60-65
 access: Solo
 entered_from: '[[Everfrost]]'
 entrance: Click on 'an icy boulder' behind [[Kaira L'or]], at {{waypoint -164, 47, -681}}
-players: '---'
 related_quest: '[[Trial of the Gatekeeper]]'
 image: images/Vestibule_of_the_Sacred_Temple.png
 categories:

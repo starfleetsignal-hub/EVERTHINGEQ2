@@ -5,7 +5,6 @@ expansion: Sentinel's Fate
 release: '[[Sentinel''s Fate]]'
 levels: '90'
 entered_from: '[[Antonica]]'
-players: '---'
 related_quest: '[[A Source of Malediction]]'
 categories:
 - Antonica Instances

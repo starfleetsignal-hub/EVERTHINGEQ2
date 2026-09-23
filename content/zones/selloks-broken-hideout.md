@@ -8,8 +8,6 @@ access: Solo
 entered_from: '[[Nektulos Forest]]'
 entrance: at the Western end of the beach in Nektulos Forest {{waypoint 1052, -0.80, -338}}
 related_quest: '[[The Truespirits'' Lament]]'
-success_lockout: '-'
-failure_lockout: '-'
 categories:
 - IZone pages that need EQ2MAP uid
 - Instances

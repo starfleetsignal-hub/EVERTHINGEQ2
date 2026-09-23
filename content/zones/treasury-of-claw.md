@@ -7,7 +7,6 @@ levels: 60-70
 access: Solo
 entered_from: '[[The Barren Sky]]'
 entrance: '*see below*'
-players: '---'
 image: images/Treasury_of_Claw.png
 categories:
 - Endless Persistent Instances

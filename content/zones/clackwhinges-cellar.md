@@ -6,7 +6,6 @@ release: '[[Altar of Malice]]'
 levels: 90-100
 access: Solo
 entered_from: '[[Tranquil Sea]]'
-players: '---'
 categories:
 - Altar of Malice
 - Altar of Malice Instances

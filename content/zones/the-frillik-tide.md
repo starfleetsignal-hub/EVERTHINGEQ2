@@ -7,7 +7,6 @@ levels: '100'
 access: Solo
 entered_from: '[[Obulus Frontier]]'
 entrance: '"a Frillik Tide Dinghy" at {{waypoint 443, -242, -833}}'
-players: '---'
 related_quest: '[[Changing of the Tides]]'
 categories:
 - Endless Persistent Instances

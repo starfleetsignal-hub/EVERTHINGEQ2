@@ -8,8 +8,6 @@ access: Solo-Group
 entered_from: '[[Steamfont Mountains]]'
 entrance: '[[Lair of the Rex]] {{waypoint -70, 80, 1292}}'
 related_quest: '[[The Staff of the Observers]]'
-success_lockout: '-'
-failure_lockout: '-'
 image: images/King_Grikbar_Caverns.png
 categories:
 - Echoes of Faydwer

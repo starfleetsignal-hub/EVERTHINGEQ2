@@ -6,7 +6,6 @@ release: '[[Age of Discovery]]'
 levels: 90+
 access: Solo
 entered_from: '[[Fens of Nathsar]]'
-players: '---'
 access_quest: Axiom of the Great Chokidai (Collection)|Axiom of the Great Chokidai
 related_quest: '[[Time is of the Essence]]'
 categories:

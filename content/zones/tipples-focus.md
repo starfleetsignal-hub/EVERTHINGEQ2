@@ -6,8 +6,6 @@ release: '[[Desert of Flames]]'
 levels: Scales between 50-61
 access: Solo
 entered_from: '[[The Sinking Sands]]'
-success_lockout: '-'
-failure_lockout: '-'
 categories:
 - Desert of Flames
 - Desert of Flames Instances

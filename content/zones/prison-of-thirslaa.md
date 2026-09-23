@@ -6,7 +6,6 @@ release: '[[Age of Discovery]]'
 levels: 40+
 access: Solo
 entered_from: '[[Zek, the Orcish Wastes]]'
-players: '---'
 related_quest: '[[Collective Minds]]'
 categories:
 - Age of Discovery
