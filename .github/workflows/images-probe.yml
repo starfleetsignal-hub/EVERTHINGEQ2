@@ -1,0 +1,14 @@
+name: Images probe
+# One-off check that Fandom's image host answers GitHub runners, and how fast.
+on:
+  push:
+    branches: [main]
+    paths: [".github/workflows/images-probe.yml"]
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for u in https://static.wikia.nocookie.net/eq2/images/9/95/%21Fluffy.jpg https://static.wikia.nocookie.net/eq2/images/f/f4/Gong_of_Ro.png; do
+            curl -sS -o /dev/null -A "NorrathLedgerImporter/0.1" -w "%{http_code} %{size_download}B %{time_total}s $u\n" "$u" || true
+          done
