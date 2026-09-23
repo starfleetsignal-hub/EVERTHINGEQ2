@@ -1,0 +1,41 @@
+---
+title: Unpowered Tor Rune, Haeg (Quest)
+type: quest
+expansion: Visions of Vetrovia
+level: '125'
+difficulty: Solo
+zone: '[[Mahngavi Wastes]]'
+timeline: '[[Visions of Vetrovia Timeline]]'
+journal_category: Mahngavi Wastes
+starts: Loot and use [[Unpowered Tor Rune, Haeg]] dropped from [[A ghoul fish]] around [[Bleak Dreams Bay]]
+prerequisite: '[[Heck of a Ghoul Time]]'
+in_game_name: Unpowered Tor Rune, Haeg
+added_in: Visions of Vetrovia
+categories:
+- Mahngavi Wastes Quests
+- Mahngavi Wastes Solo Quests
+- Quests
+- Solo Quests
+- Tier 13 Quests
+- Tier 13 Solo Quests
+- Visions of Vetrovia Quests
+source:
+  title: Unpowered Tor Rune, Haeg (Quest)
+  url: https://eq2.fandom.com/wiki/Unpowered_Tor_Rune,_Haeg_(Quest)
+  history: https://eq2.fandom.com/wiki/Unpowered_Tor_Rune,_Haeg_(Quest)?action=history
+  revision: 1392513
+  revised: '2022-01-05T21:40:54Z'
+  license: CC BY-SA 3.0
+---
+
+## Steps
+
+1. Kill 15 [[A ghoul fish|ghoul fish]] around [[Bleak Dreams Bay]]. ![](images/A_ghoul_fish.png)
+
+## Rewards
+
+- 2p 52g 59s 84c
+- [[Empowered Blod Rune, Haeg]] - *Heirloom Collectible* for the collection [[Empowered Runes, Mahngavi Wastes]]
+- One of the following:
+  - [[Protective Treasures of the Shrouded Isle]]
+  - [[Aggressive Treasures of the Shrouded Isle]]

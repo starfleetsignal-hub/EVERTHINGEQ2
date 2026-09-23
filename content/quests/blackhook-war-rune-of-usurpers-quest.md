@@ -1,0 +1,42 @@
+---
+title: Blackhook War Rune of Usurpers (Quest)
+type: quest
+expansion: Scars of Destruction
+level: '130'
+difficulty: Solo
+zone: '[[Sodden Archipelago]]'
+timeline: '[[Scars of Destruction Timeline]]'
+starts: Examine [[Blackhook War Rune of Usurpers (Quest Starter)|Blackhook War Rune of Usurpers]] dropped from [[Voracious Darkpaw]] {{waypoint 213, 101, 360}} in Sodden Archipelago
+prerequisite: '[[Scars of Destruction: Battle the Behemoth!]]'
+in_game_name: Blackhook War Rune of Usurpers
+added_in: Scars of Destruction
+categories:
+- Quests
+- Scars of Destruction Quests
+- Sodden Archipelago Quests
+- Sodden Archipelago Solo Quests
+- Solo Quests
+- Tier 14 Quests
+- Tier 14 Solo Quests
+source:
+  title: Blackhook War Rune of Usurpers (Quest)
+  url: https://eq2.fandom.com/wiki/Blackhook_War_Rune_of_Usurpers_(Quest)
+  history: https://eq2.fandom.com/wiki/Blackhook_War_Rune_of_Usurpers_(Quest)?action=history
+  revision: 1973934
+  revised: '2026-02-06T22:49:26Z'
+  license: CC BY-SA 3.0
+---
+
+## Notes
+
+- Quest has to be done within 5days
+
+## Steps
+
+1. kill 15 "Mandokos" [[A Mandoko manhunter]], [[A Mandoko manhunter]] or [[A Mandoko boneshaman]] {{waypoint -53, 128, 85}}
+   - *Encounter of 1 or 2+ mobs count as 1*
+
+## Rewards
+
+- 50 [[Scarred Dinar]]
+- 2p 52g 59s 84c

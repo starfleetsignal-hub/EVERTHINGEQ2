@@ -1,0 +1,42 @@
+---
+title: 'Order of Arcane: Gremlin Muses'
+type: quest
+expansion: Echoes of Faydwer
+level: '64'
+difficulty: solo
+zone: '[[Greater Faydark]]'
+timeline: '[[Kelethin City Tasks Timeline]]'
+journal_category: City Tasks
+city_faction: Order of Arcane
+starts: Speak with [[Celinista Ryannalis]] in [[Kelethin]] in the [[Order of Arcane (Faction)|Order of Arcane]] building {{waypoint 286, 107, 417}}
+added_in: Echoes of Faydwer
+categories:
+- City Tasks Quests
+- Echoes of Faydwer Quests
+- Faction Quests
+- Greater Faydark Quests
+- Greater Faydark Solo Quests
+- Order of Arcane (Faction)
+- Order of Arcane (Good Faction)
+- Order of Arcane Quests
+- Quests
+- Solo Quests
+- Tier 7 Quests
+- Tier 7 Solo Quests
+source:
+  title: 'Order of Arcane: Gremlin Muses'
+  url: https://eq2.fandom.com/wiki/Order_of_Arcane:_Gremlin_Muses
+  history: https://eq2.fandom.com/wiki/Order_of_Arcane:_Gremlin_Muses?action=history
+  revision: 618889
+  revised: '2014-01-11T23:06:17Z'
+  license: CC BY-SA 3.0
+---
+
+## Steps
+
+1. Slay 12 [[A gremlin muse|gremlin muses]] in [[Loping Plains]]
+
+## Rewards
+
+- +150 faction with **Order of Arcane**
+- 8600 status

@@ -1,0 +1,32 @@
+---
+title: The Algae Fiend (Solo)
+type: named
+expansion: Kunark Ascending
+race: Cube
+level: '101'
+difficulty: ^
+zone: '[[Kunzar Jungle]]'
+location: 'Within the [[Lost City of Torsis: The Spectral Market (Solo)]] at {{waypoint 28, 4, -208}}'
+aggressive: true
+drops:
+- '[[Misty Leather Armwraps]]'
+added_in: Kunark Ascending
+image: images/The_Algae_Fiend_(Solo).jpg
+categories:
+- Cube
+- Kunark Ascending Named Monsters
+- Kunzar Jungle Named Monsters
+- Monsters that award SP
+- Named Monsters
+- Solo Named Monsters
+- Tier 11 Named Monsters
+source:
+  title: The Algae Fiend (Solo)
+  url: https://eq2.fandom.com/wiki/The_Algae_Fiend_(Solo)
+  history: https://eq2.fandom.com/wiki/The_Algae_Fiend_(Solo)?action=history
+  revision: 1778205
+  revised: '2024-01-11T14:02:07Z'
+  license: CC BY-SA 3.0
+---
+
+

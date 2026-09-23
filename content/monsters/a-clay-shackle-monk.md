@@ -1,0 +1,40 @@
+---
+title: A Clay shackle monk
+type: monster
+expansion: Rise of Kunark
+in_game_name: a Clay shackle monk
+race: Iksar
+class: Monk
+level: '77'
+difficulty: ^
+zone: '[[Kunzar Jungle]]'
+location: '[[The Tabernacle of Pain]] {{waypoint -29, -52, 179}}'
+aggressive: true
+social: true
+added_in: Rise of Kunark
+categories:
+- Faction Monsters
+- Iksar
+- Kunzar Jungle Monsters
+- Monster pages that need EQ2MAP uid
+- Monsters
+- Monsters with shared spawn points
+- Rise of Kunark Monsters
+- Solo Monsters
+- The Swifttail Caste (Bad Faction)
+- The Swifttail Caste (Faction)
+- Tier 8 Monsters
+source:
+  title: A Clay shackle monk
+  url: https://eq2.fandom.com/wiki/A_Clay_shackle_monk
+  history: https://eq2.fandom.com/wiki/A_Clay_shackle_monk?action=history
+  revision: 1285972
+  revised: '2021-02-17T01:23:18Z'
+  license: CC BY-SA 3.0
+---
+
+Shares its spawn point with [[A Clay shackle monk]], [[A Rock shackle monk]], [[A Stone shackle monk]].
+
+## Factions
+
+- -100 faction with **The Swifttail Caste**

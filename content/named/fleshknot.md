@@ -1,0 +1,35 @@
+---
+title: Fleshknot
+type: named
+expansion: Echoes of Faydwer
+race: Clockwork
+level: '54'
+difficulty: Heroic ^^^
+zone: '[[The Mines of Meldrath]]'
+location: '{{waypoint -192.52, -28.88, 220.11}}'
+drops:
+- '[[Gearbasher]] (treasure)'
+- '[[Mechanized Bracer]] (ornate)'
+- '[[Necklace of Knotted Flesh]] (exquisite)'
+achievement_xp: true
+added_in: Echoes of Faydwer
+categories:
+- Clockwork
+- Echoes of Faydwer Named Monsters
+- Heroic Named Monsters
+- Monsters that award AA
+- Named Monster needing location
+- Named Monsters
+- The Mines of Meldrath Named Monsters
+- Tier 6 Heroic Named Monsters
+- Tier 6 Named Monsters
+source:
+  title: Fleshknot
+  url: https://eq2.fandom.com/wiki/Fleshknot
+  history: https://eq2.fandom.com/wiki/Fleshknot?action=history
+  revision: 608299
+  revised: '2013-11-15T02:38:19Z'
+  license: CC BY-SA 3.0
+---
+
+

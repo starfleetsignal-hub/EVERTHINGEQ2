@@ -1,0 +1,35 @@
+---
+title: A Dunefury Brawler
+type: monster
+expansion: Desert of Flames
+race: Cyclops
+class: Guardian
+level: 60-63
+difficulty: Heroic ^^
+group: Dunefury Cyclopes
+zone: '[[Cazel''s Mesa]]'
+location: Static spawn, scattered throughout zone
+aggressive: true
+social: true
+added_in: Desert of Flames
+categories:
+- Cazel's Mesa Monsters
+- Cyclops
+- Desert of Flames Monsters
+- Dunefury Cyclopes (Group)
+- Heroic Monsters
+- Monster pages that need EQ2MAP uid
+- Monsters
+- Monsters that use Trauma attacks
+- Tier 7 Heroic Monsters
+- Tier 7 Monsters
+source:
+  title: A Dunefury Brawler
+  url: https://eq2.fandom.com/wiki/A_Dunefury_Brawler
+  history: https://eq2.fandom.com/wiki/A_Dunefury_Brawler?action=history
+  revision: 1290261
+  revised: '2021-03-18T21:35:05Z'
+  license: CC BY-SA 3.0
+---
+
+

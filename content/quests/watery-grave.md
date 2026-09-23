@@ -1,0 +1,35 @@
+---
+title: Watery Grave
+type: quest
+expansion: Altar of Malice
+level: '105'
+difficulty: Heroic
+zone: '[[*]]'
+journal_category: 'Mission: Weekly'
+starts: Speak with [[Kraya Oararm]] {{waypoint 1228.83, 8.21, 1181.75}} in [[Tranquil Sea]] or [[Kraygon Oararm]] {{waypoint 1225, 19, 1186}} in [[Phantom Sea]]
+added_in: Altar of Malice
+categories:
+- Altar of Malice Quests
+- Heroic Quests
+- 'Mission: Weekly Quests'
+- Quests
+- Tier 11 Heroic Quests
+- Tier 11 Quests
+source:
+  title: Watery Grave
+  url: https://eq2.fandom.com/wiki/Watery_Grave
+  history: https://eq2.fandom.com/wiki/Watery_Grave?action=history
+  revision: 2024369
+  revised: '2026-08-26T05:34:03Z'
+  license: CC BY-SA 3.0
+---
+
+## Steps
+
+1. Kill [[Veerach the Vile]] in [[Brokenskull Bay: Bosun's Private Stock (Event Heroic)]]
+1. Enter [[Zavith'loa: The Hunt (Event Heroic)]].  Click the carcass.  Kill the ring event to spawn the Land Before Time dinosaurs.  Weep as you kill them.  Kill [[Sharptooth]] and [[Maw]] to complete the quest.
+
+## Rewards
+
+- At least 5p 40g 35,000 status
+- 25 [[Far Seas Ferrin]]

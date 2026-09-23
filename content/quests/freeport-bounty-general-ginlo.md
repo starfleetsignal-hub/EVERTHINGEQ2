@@ -1,0 +1,50 @@
+---
+title: 'Freeport Bounty: General Ginlo'
+type: quest
+expansion: Shattered Lands
+level: Scales
+difficulty: Solo
+zone: '[[Antonica]]'
+timeline: '[[Freeport Faction Timeline]]'
+journal_category: Betrayal
+starts: Speak to [[Gol M'Tun]] in the [[Antonica]] {{waypoint -29, -15, -56}} outside the [[North Qeynos (POI)|North Qeynos]] gates.
+prerequisite: '[[Freeport Bounty: Marvan Honeyjum]]'
+next_quest: '[[Freeport Bounty: Nor''sona A''tyel]]'
+achievement_xp: true
+categories:
+- AA Quests
+- Antonica AA Quests
+- Antonica Quests
+- Antonica Solo Quests
+- Betrayal Quests
+- Faction Quests
+- Quests
+- Scalable Quests
+- Shattered Lands Quests
+- Solo Quests
+- The City of Freeport (Faction)
+- The City of Freeport (Good Faction)
+- The City of Kelethin (Bad Faction)
+- The City of Kelethin (Faction)
+- The City of Qeynos (Bad Faction)
+- The City of Qeynos (Faction)
+source:
+  title: 'Freeport Bounty: General Ginlo'
+  url: https://eq2.fandom.com/wiki/Freeport_Bounty:_General_Ginlo
+  history: https://eq2.fandom.com/wiki/Freeport_Bounty:_General_Ginlo?action=history
+  revision: 1105002
+  revised: '2020-08-14T20:07:37Z'
+  license: CC BY-SA 3.0
+---
+
+## Steps
+
+1. Travel to the [[Qeynos Capitol District]] and kill [[General Ginlo]] who will spawn in [[Irontoe's East]] at {{waypoint 341, -20, 136}}.
+1. Return to [[Gol M'Tun]] for your reward.
+
+## Rewards
+
+- AA Experience
+  - +3000 faction with **The City of Freeport**
+  - -4000 faction with **The City of Qeynos**
+  - -4000 faction with **The City of Kelethin**

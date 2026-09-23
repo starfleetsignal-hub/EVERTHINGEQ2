@@ -1,0 +1,28 @@
+---
+title: Kamil Aziz
+type: npc
+expansion: Sentinel's Fate
+race: Erudite
+zone: '[[The Sundered Frontier]]'
+location: On the airship dock {{waypoint 1881, -225, 2994}}
+added_in: Sentinel's Fate
+categories:
+- Erudite
+- NPC pages that need EQ2MAP uid
+- NPCs
+- Quest (NPC Type)
+- Sentinel's Fate NPCs
+- The Sundered Frontier NPCs
+- The Sundered Frontier Quest NPCs
+source:
+  title: Kamil Aziz
+  url: https://eq2.fandom.com/wiki/Kamil_Aziz
+  history: https://eq2.fandom.com/wiki/Kamil_Aziz?action=history
+  revision: 682595
+  revised: '2016-07-17T00:53:05Z'
+  license: CC BY-SA 3.0
+---
+
+## Related Quests
+
+- [[Secrets of the Tallonites]]

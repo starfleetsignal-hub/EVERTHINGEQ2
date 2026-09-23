@@ -1,0 +1,84 @@
+---
+title: Crippling Assault (Armor Set)
+type: page
+expansion: The Shadow Odyssey
+categories:
+- Armor Sets
+- Magical Alacrity (Equipment)
+- The Shadow Odyssey
+- Tier 8 Armor Sets
+source:
+  title: Crippling Assault (Armor Set)
+  url: https://eq2.fandom.com/wiki/Crippling_Assault_(Armor_Set)
+  history: https://eq2.fandom.com/wiki/Crippling_Assault_(Armor_Set)?action=history
+  revision: 1117042
+  revised: '2020-08-30T19:39:03Z'
+  license: CC BY-SA 3.0
+---
+
+Set's got changed into:
+
+- [[Crippling Assault (Armor Set)]]
+- [[Crippling Assault (Adornment Set)]]
+
+**Crippling Assault armor set**
+
+- [[Battlepriest's Band]]
+- [[Battlepriest's Chain]]
+- [[Battlepriest's Earstud]]
+
+*or*
+
+- [[Crippling Band]]
+- [[Crippling Amulet]]
+- [[Crippling Hoop]]
+
+*or*
+
+- [[Ensnaring Band]]
+- [[Ensnaring Broach]]
+- [[Ensnaring Earring]]
+- [[Blackflame Ring]]
+- [[Elemental Chains of Control]]
+- [[Imbued Earring of Flowing Magma]]
+
+*or*
+
+- [[Tactician's Band]]
+- [[Tactician's Chain]]
+- [[Tactician's Hoop]]
+- [[Circlet of Najena's Assassin]]
+- [[Flaming Spiked Choker]]
+- [[Marauding Plug of the Flame Warrior]]
+
+*or*
+
+- [[Rumbling Choker]]
+- [[Rumbling Earring]]
+- [[Rumbling Ring]]
+- [[Cursed Stud of the Abyss]]
+- [[Empowered Elemental Ring]]
+- [[Igneous Rock Choker]]
+
+*or*
+
+- [[Unholy Band]]
+- [[Unholy Choker]]
+- [[Unholy Earring]]
+- [[Smoldering Sapphire Necklace]]
+
+---
+
+- (2) 3% Attack Speed
+  - Applies Magical Alacrity III.
+    - Reduces cast time of all spells by 3 percent.
+- (3) Applies Forgotten Technique.
+  - On any successful combat or spell attack this spell has a chance to cast Forgotten Technique on target of attack. Lasts for 10.0 seconds. This effect will trigger an average of 1.8 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.
+    - Reduces Double Attack chance of target by 5.0%
+    - This spell can not be modified except by direct means
+    - If Target is not Epic
+  - This spell can not be modified except by direct means.
+
+## Notes
+
+There are actually several Crippling Assault sets with the same name and effects. Items from a different set will not contribute towards the set bonus in another set. In other words, you will not get a two set bonus for just wearing both a Battlepriest's Band and Crippling Amulet, since they belong in different sets.

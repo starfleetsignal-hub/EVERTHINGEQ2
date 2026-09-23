@@ -1,0 +1,49 @@
+---
+title: Prexus Celebration Research Investigation - Vol 145
+type: quest
+expansion: Ballads of Zimara
+level: '125'
+difficulty: Solo
+zone: '[[Fens of Nathsar]]'
+timeline: '[[Year of Darkpaw Timeline]]'
+journal_category: Mission
+starts: Talk to the [[Herald of the Oceanlord]] {{waypoint -1765, -402, -2728}}
+added_in: Ballads of Zimara
+repeatable: true
+categories:
+- Ballads of Zimara Quests
+- Fens of Nathsar Quests
+- Fens of Nathsar Solo Quests
+- Mission Quests
+- Quests
+- Solo Quests
+- Tier 13 Quests
+- Tier 13 Solo Quests
+- Unlimited Repeatable Quests
+source:
+  title: Prexus Celebration Research Investigation - Vol 145
+  url: https://eq2.fandom.com/wiki/Prexus_Celebration_Research_Investigation_-_Vol_145
+  history: https://eq2.fandom.com/wiki/Prexus_Celebration_Research_Investigation_-_Vol_145?action=history
+  revision: 1830611
+  revised: '2024-11-20T02:53:38Z'
+  license: CC BY-SA 3.0
+---
+
+## Notes
+
+- This quest is repeatable.
+
+## Steps
+
+The avatar summoning rituals require the manipulation of immense power and are inherently dangerous. To reduce the chance of failure and provide an anchor for that power, the herald of Prexus has asked me to collect an item that may have once belonged to that god or one of their most loyal followers
+
+- Collect [[Reliquary of Prexus|Reliquaries of Prexus]] from a powerful creature in [[Vaashkaani: Every Which Way (Event Heroic I)|Vaashkaani: Every Which Way]] heroic dungeon.
+
+**This does not update in [Solo]. It needs to be Vaashkaani: Every Which Way [Event Heroic I]**
+
+- Return to the [[Herald of the Oceanlord]] {{waypoint -1765, -402, -2728}} in [[Fens of Nathsar]]
+
+## Rewards
+
+- 25 [[Minted Celebration Token|Minted Celebration Tokens]]
+- [[Status Bounty (25,000)|Status Bounty [25,000]]]

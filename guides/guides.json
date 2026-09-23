@@ -1,0 +1,82 @@
+[
+ {
+  "slug": "heroic-opportunities-kantharis",
+  "title": "(almost) Complete Guide to Heroic Opportunities",
+  "author": "Kantharis",
+  "url": "https://forums.daybreakgames.com/eq2/index.php?threads/almost-complete-guide-to-heroic-opportunities.296464/",
+  "posted": "2004-12-21",
+  "updated": "2005-05-01",
+  "topics": {
+   "zones": [],
+   "classes": [
+    "Fighter",
+    "Priest",
+    "Mage",
+    "Scout"
+   ],
+   "expansions": [
+    "The Shattered Lands"
+   ],
+   "tags": [
+    "heroic opportunities",
+    "grouping",
+    "combat"
+   ]
+  },
+  "summary": "A launch-era reference to Heroic Opportunities (HOs), the group combo system where each archetype's abilities advance a shared chain for a bonus effect. It was written in December 2004 and the HO system has changed since, so treat specific combos as historical.\n\n**What it covers**\n- Each archetype has one ability that opens a starter chain: Fighting Chance (fighter), Divine Providence (priest), Arcane Augur (mage) and Lucky Break (scout).\n- Archetype icon colors: fighters blue, priests yellow, mages red, scouts green. Abilities that can advance the current step blink on your hotbar.\n- The two stages: the starter chain, which must be followed in order, and the combat wheel, which has about 10 seconds to finish. Scouts can reroll the wheel's effect with a coin-icon ability before anyone advances it.\n- A full table of starter chains for solo, duo, trio and four-archetype groups, with every wheel and its effect (damage, heals, power, buffs, debuffs). HO buffs lasted 6 minutes and area effects reached 25 m.\n- Group etiquette: agree who advances each step when two players share an archetype, and suggested rules for which archetype should open the chain in duos and trios.\n\nThe thread's replies add a few corrections and ask for it to be pinned. The original also offered PDF and Word copies.",
+  "fetched": "2026-09-23T03:22:00Z"
+ },
+ {
+  "slug": "levelling-adorning-tinkering-transmuting",
+  "title": "Levelling adorning, tinkering and transmuting",
+  "author": "Jaysuit",
+  "contributors": [
+   "Khal of Dragons",
+   "Gregore",
+   "Rosyposy",
+   "Drax99",
+   "Marae"
+  ],
+  "url": "https://forums.daybreakgames.com/eq2/index.php?threads/levelling-adorning-tinkering-and-transmuting.593328/",
+  "posted": "2020-02-08",
+  "updated": null,
+  "topics": {
+   "zones": [],
+   "classes": [],
+   "expansions": [
+    "Blood of Luclin"
+   ],
+   "tags": [
+    "tradeskills",
+    "adorning",
+    "tinkering",
+    "transmuting",
+    "secondary tradeskills"
+   ]
+  },
+  "summary": "A community discussion on catching up the three secondary tradeskills (adorning, tinkering and transmuting), which players needed for Blood of Luclin. It started as Jaysuit's request for faster leveling than the daily quests, and the replies turned it into a set of practical tips.\n\n**Tips from the thread**\n- A level 110 tradeskill boost, from the marketplace or left in your /claim window from an expansion bundle, raised transmuting to 600 and adorning and tinkering to 550 (Khal of Dragons, confirmed by Jaysuit).\n- Some players found older boosts from Planes of Prophecy or Chaos Descending leveled tinkering and adorning but skipped transmuting (Rosyposy, Drax99).\n- A boost can cost you rare recipe books you've already scribed, so think twice if you collect faction or quest recipes (Marae).\n- For tinkering, buy tinkering training kits from the dock vendor, trading old currencies at the nearby exchange NPC if needed. Then craft them on a basic workbench, ideally with a crafting speed potion (Gregore).",
+  "fetched": "2026-09-23T03:22:00Z"
+ },
+ {
+  "slug": "original-prima-game-guide",
+  "title": "Original EverQuest II Prima Game Guide",
+  "author": "Gnaeus",
+  "url": "https://forums.daybreakgames.com/eq2/index.php?threads/original-everquest-ii-prima-game-guide.579340/",
+  "posted": "2017-06-27",
+  "updated": null,
+  "topics": {
+   "zones": [],
+   "classes": [],
+   "expansions": [
+    "The Shattered Lands"
+   ],
+   "tags": [
+    "official guide",
+    "nostalgia",
+    "Fallen Gate"
+   ]
+  },
+  "summary": "A short post pointing to a scan of the original 2004 Prima Official eGuide for EverQuest II on the Internet Archive (https://archive.org/details/EverQuest_II_Prima_Official_eGuide). It was shared for players on the Fallen Gate time-locked server.\n\nReplies note that the book is a fun look back but describes the game as it was at launch, so it's of limited use on modern or progression servers.",
+  "fetched": "2026-09-23T03:22:00Z"
+ }
+]

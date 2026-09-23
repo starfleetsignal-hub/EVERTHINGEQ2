@@ -1,0 +1,31 @@
+---
+title: Metal Mercantile District
+type: poi
+expansion: Terrors of Thalumbra
+zone: '[[Maldura]], [[Maldura: District of Ash (Heroic)]], [[Maldura: District of Ash (Advanced Solo)]]'
+location: '{{waypoint -150.75, -6.31, -79.70}}'
+discovery_xp: y
+added_in: Terrors of Thalumbra
+categories:
+- Discovery Locations
+- Maldura Discovery Locations
+- Maldura POIs
+- 'Maldura: District of Ash (Advanced Solo) Discovery Locations'
+- 'Maldura: District of Ash (Advanced Solo) POIs'
+- 'Maldura: District of Ash (Heroic) Discovery Locations'
+- 'Maldura: District of Ash (Heroic) POIs'
+- POI needing location
+- POI pages that need EQ2MAP uid
+- POIs
+- Terrors of Thalumbra Discovery Locations
+- Terrors of Thalumbra POIs
+source:
+  title: Metal Mercantile District
+  url: https://eq2.fandom.com/wiki/Metal_Mercantile_District
+  history: https://eq2.fandom.com/wiki/Metal_Mercantile_District?action=history
+  revision: 683782
+  revised: '2016-09-06T08:48:22Z'
+  license: CC BY-SA 3.0
+---
+
+
