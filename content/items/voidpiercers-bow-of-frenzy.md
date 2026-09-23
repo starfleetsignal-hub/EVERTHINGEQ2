@@ -1,0 +1,78 @@
+---
+title: Voidpiercer's Bow of Frenzy
+type: item
+item_kind: Equipment
+icon: images/Item_628.png
+tier: Mastercrafted Legendary
+level: '115'
+slot: Ranged
+classes: ', , , [[Channeler]]'
+flags: attunable infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +1,797
+  agi: +1,269
+  health: +76,902
+  power: +34,592
+  crit: '375.1'
+  potency: 1,248.8
+  resolve: '150'
+  aspeed: '106.4'
+  dps: '94.2'
+  multi: '106.4'
+  cbovercap: '+80.5'
+  dmg: 1729 - 2593
+  delay: '8.0'
+  drating: '540.29'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+effects: '**Anguish**'
+obtained_from: Crafted by [[Woodworker]] (level 117) from [[Advanced Woodworker Studies 17]]
+item_link: \aITEM -1623237787 -1216638711:Voidpiercer's Bow of Frenzy\/a
+categories:
+- Anguish (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 12 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Voidpiercer's Bow of Frenzy
+  url: https://eq2.fandom.com/wiki/Voidpiercer's_Bow_of_Frenzy
+  history: https://eq2.fandom.com/wiki/Voidpiercer's_Bow_of_Frenzy?action=history
+  revision: 1905547
+  revised: '2025-09-19T19:43:09Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

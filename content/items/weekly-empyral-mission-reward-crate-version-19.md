@@ -1,0 +1,21 @@
+---
+title: Weekly Empyral Mission Reward Crate (Version 19)
+type: item
+icon: images/Item_1749.png
+tier: Fabled
+item_level: '0'
+item_link: \aITEM -2026979184 -1237128703:Weekly Empyral Mission Reward Crate\/a
+categories:
+- Census Credits
+- Fabled Items
+- Items
+source:
+  title: Weekly Empyral Mission Reward Crate (Version 19)
+  url: https://eq2.fandom.com/wiki/Weekly_Empyral_Mission_Reward_Crate_(Version_19)
+  history: https://eq2.fandom.com/wiki/Weekly_Empyral_Mission_Reward_Crate_(Version_19)?action=history
+  revision: 1116874
+  revised: '2020-08-30T00:51:12Z'
+  license: CC BY-SA 3.0
+---
+
+

@@ -1,0 +1,34 @@
+---
+title: Void Etched Saddle of Durability
+type: item
+item_kind: Mount Gear
+item_subtype: Saddle
+icon: images/Item_4838.png
+tier: Fabled
+level: '120'
+item_level: '120'
+flags: ornate attunable heirloom
+effects: "- Applies Mounting Durability when Equipped.\n  - Increases the amount of durability gained by 11.9."
+obtained_from: '*Crafted by [[Artisan]] (level 120) from [[Void Etched Saddle Recipes]] *Made from [[Pattern: Void Etched Saddle of Durability]]'
+item_link: \aITEM -1863970177 -521542966:Void Etched Saddle of Durability\/a
+categories:
+- Census Credits
+- Fabled Items
+- Item obtained from a Pattern
+- Items
+- Mount Gear (Item Type)
+- Saddle (Item Subtype)
+- Tier 13 Items
+- Tier 13 Mount Gear
+source:
+  title: Void Etched Saddle of Durability
+  url: https://eq2.fandom.com/wiki/Void_Etched_Saddle_of_Durability
+  history: https://eq2.fandom.com/wiki/Void_Etched_Saddle_of_Durability?action=history
+  revision: 1698729
+  revised: '2023-03-16T21:52:43Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

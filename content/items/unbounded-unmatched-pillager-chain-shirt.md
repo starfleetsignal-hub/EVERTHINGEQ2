@@ -1,0 +1,58 @@
+---
+title: Unbounded Unmatched Pillager Chain Shirt
+type: item
+item_kind: Equipment
+icon: images/Item_3334.png
+tier: Fabled
+level: '135'
+slot: Chest
+flags: attunable heirloom
+stats:
+  sta: +6,624
+  agi: +4,035
+  health: +798,431
+  power: +798,431
+  mit: '946'
+  potency: 59,124.3
+  resolve: '640'
+  cbovercap: '+1614.5'
+  mitinc: '118.9'
+  dtype: Chain Armor
+item_link: \aITEM 1999515706 -399942864:Unbounded Unmatched Pillager Chain Shirt\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Chest (Inventory Slot)
+- Crit Bonus Overcap (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Mitigation Increase (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 14 Equipment
+- Troubador Equipment
+source:
+  title: Unbounded Unmatched Pillager Chain Shirt
+  url: https://eq2.fandom.com/wiki/Unbounded_Unmatched_Pillager_Chain_Shirt
+  history: https://eq2.fandom.com/wiki/Unbounded_Unmatched_Pillager_Chain_Shirt?action=history
+  revision: 2015603
+  revised: '2026-07-05T12:48:33Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+

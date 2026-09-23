@@ -1,0 +1,22 @@
+---
+title: Untold Treasures Dominion of Pain Reward Crate Stages 61 to 70
+type: item
+icon: images/Item_1046.png
+tier: Legendary
+item_level: '0'
+description: If the mission that rewards this crate is active when the stage is set, you must zone for the rewards to be displayed.<br> Possible rewards are only visible within an Untold Heroic dungeon after the stage has been committed.
+item_link: \aITEM -1408652327 -1832066037:Untold Treasures Dominion of Pain Reward Crate Stages 61 to 70\/a
+categories:
+- Census Credits
+- Items
+- Legendary Items
+source:
+  title: Untold Treasures Dominion of Pain Reward Crate Stages 61 to 70
+  url: https://eq2.fandom.com/wiki/Untold_Treasures_Dominion_of_Pain_Reward_Crate_Stages_61_to_70
+  history: https://eq2.fandom.com/wiki/Untold_Treasures_Dominion_of_Pain_Reward_Crate_Stages_61_to_70?action=history
+  revision: 2015809
+  revised: '2026-07-05T13:00:59Z'
+  license: CC BY-SA 3.0
+---
+
+

@@ -1,0 +1,49 @@
+---
+title: Voidsong Steel Cuirass
+type: item
+item_kind: Equipment
+icon: images/Item_3623.png
+tier: Fabled
+level: '80'
+slot: Chest
+classes: '[[Troubador]]'
+flags: lore no-trade no-value
+stats:
+  str: '+55'
+  sta: '+55'
+  mit: '417'
+  crit: '3.2'
+  critbonus: '1.1'
+  potency: '5.1'
+  abmod: '+147'
+  dps: '13'
+  dtype: Chain Armor
+effects: '**Rhythmic War Chant**'
+item_link: \aITEM 88492828 -1633921712 0 0 0:Voidsong Steel Cuirass\/a
+categories:
+- Ability Modifier (Equipment)
+- Census Credits
+- Chain Armor (Equipment Type)
+- Chest (Inventory Slot)
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Equipment
+- Fabled Equipment
+- Potency (Equipment)
+- Rhythmic War Chant (Equipment)
+- Tier 9 Equipment
+- Troubador Equipment
+source:
+  title: Voidsong Steel Cuirass
+  url: https://eq2.fandom.com/wiki/Voidsong_Steel_Cuirass
+  history: https://eq2.fandom.com/wiki/Voidsong_Steel_Cuirass?action=history
+  revision: 1888851
+  revised: '2025-09-16T22:00:58Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

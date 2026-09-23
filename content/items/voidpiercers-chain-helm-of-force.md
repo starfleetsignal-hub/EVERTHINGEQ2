@@ -1,0 +1,62 @@
+---
+title: Voidpiercer's Chain Helm of Force
+type: item
+item_kind: Equipment
+icon: images/Item_3686.png
+tier: Mastercrafted Legendary
+level: '115'
+slot: Head
+flags: attunable infusable
+stats:
+  sta: +2,468
+  agi: +1,195
+  health: +230,902
+  power: +34,592
+  mit: '791'
+  potency: 1,570.7
+  resolve: '150'
+  abmod: +12,474
+  multi: '292'
+  cbovercap: '+100.8'
+  dtype: Chain Armor
+obtained_from: Crafted by [[Armorer]] (level 118) from [[Advanced Armorer Studies 18]]
+item_link: \aITEM 1186327434 853037402:Voidpiercer's Chain Helm of Force\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus Overcap (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Head (Inventory Slot)
+- Mastercrafted Legendary Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 12 Equipment
+- Troubador Equipment
+source:
+  title: Voidpiercer's Chain Helm of Force
+  url: https://eq2.fandom.com/wiki/Voidpiercer's_Chain_Helm_of_Force
+  history: https://eq2.fandom.com/wiki/Voidpiercer's_Chain_Helm_of_Force?action=history
+  revision: 1009796
+  revised: '2019-12-29T01:11:49Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

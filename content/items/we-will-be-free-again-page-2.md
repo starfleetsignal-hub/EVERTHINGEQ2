@@ -1,0 +1,24 @@
+---
+title: We Will Be Free Again - Page 2
+type: item
+item_kind: Collection Item
+icon: images/Item_2180.png
+item_level: '55'
+description: This page contains a piece of the ancient froglok liberation song, "We Will Be Free Again!".
+item_link: \aITEM 63974948 1613161236:We Will Be Free Again - Page 2\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: We Will Be Free Again - Page 2
+  url: https://eq2.fandom.com/wiki/We_Will_Be_Free_Again_-_Page_2
+  history: https://eq2.fandom.com/wiki/We_Will_Be_Free_Again_-_Page_2?action=history
+  revision: 1742759
+  revised: '2023-09-25T21:07:40Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+This item is needed for the collection: [[We Will Be Free Again (Collection)|We Will Be Free Again]]

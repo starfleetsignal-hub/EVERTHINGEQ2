@@ -1,0 +1,55 @@
+---
+title: Vagabond's Bow of Storms
+type: item
+item_kind: Equipment
+icon: images/Item_630.png
+tier: Treasured
+level: '10'
+slot: Ranged
+flags: attunable
+stats:
+  sta: '+5'
+  agi: '+5'
+  dmg: 10 - 31
+  delay: '4.5'
+  drating: '9.07'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Bow
+item_link: \aITEM 396164844 534056267:Vagabond's Bow of Storms\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Berserker Equipment
+- Bow (Weapon Type)
+- Brigand Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crusader Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Swashbuckler Equipment
+- Tier 2 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Vagabond's Bow of Storms
+  url: https://eq2.fandom.com/wiki/Vagabond's_Bow_of_Storms
+  history: https://eq2.fandom.com/wiki/Vagabond's_Bow_of_Storms?action=history
+  revision: 1272102
+  revised: '2021-01-10T00:40:03Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

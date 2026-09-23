@@ -1,0 +1,24 @@
+---
+title: Unblemished Sneezeweed Resin
+type: item
+icon: images/Item_405.png
+tier: Uncommon
+item_level: '30'
+obtained_from: created with a Recipe called *Unblemished Sneezeweed Resin*
+item_link: \aITEM 1037354323 -2074429887:Unblemished Sneezeweed Resin\/a
+categories:
+- Census Credits
+- Items
+- Uncommon Items
+source:
+  title: Unblemished Sneezeweed Resin
+  url: https://eq2.fandom.com/wiki/Unblemished_Sneezeweed_Resin
+  history: https://eq2.fandom.com/wiki/Unblemished_Sneezeweed_Resin?action=history
+  revision: 1797627
+  revised: '2024-05-03T12:14:39Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,51 @@
+---
+title: Void Obelisk Helm of Frenzy
+type: item
+item_kind: Equipment
+icon: images/Item_1422.png
+tier: Uncommon
+level: '130'
+slot: Head
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+stats:
+  str: +3,378
+  sta: +5,596
+  health: +640,961
+  power: +640,961
+  mit: '491'
+  critbonus: 1,352.1
+  potency: 46,581.5
+  resolve: '610'
+  dtype: Leather Armor
+item_link: \aITEM -114868655 -1510059989:Void Obelisk Helm of Frenzy\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Head (Inventory Slot)
+- Leather Armor (Equipment Type)
+- Monk Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Tier 14 Equipment
+- Uncommon Equipment
+- Warden Equipment
+source:
+  title: Void Obelisk Helm of Frenzy
+  url: https://eq2.fandom.com/wiki/Void_Obelisk_Helm_of_Frenzy
+  history: https://eq2.fandom.com/wiki/Void_Obelisk_Helm_of_Frenzy?action=history
+  revision: 1919569
+  revised: '2025-12-17T21:07:51Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

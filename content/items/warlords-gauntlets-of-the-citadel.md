@@ -1,0 +1,50 @@
+---
+title: Warlord's Gauntlets of the Citadel
+type: item
+item_kind: Equipment
+icon: images/Item_1568.png
+tier: Fabled
+level: '90'
+slot: Hands
+classes: '[[Berserker]]'
+flags: attunable heirloom
+stats:
+  str: '+86'
+  sta: '+86'
+  mit: '691'
+  crit: '5.7'
+  critbonus: '5.1'
+  potency: '8.6'
+  aspeed: '13.2'
+  dtype: Plate Armor
+effects: '**Haste**'
+obtained_from: From [[Inexorable Gauntlets]]
+item_link: \aITEM 723744642 1709510314:Warlord's Gauntlets of the Citadel\/a
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Fabled Equipment
+- Hands (Inventory Slot)
+- Haste (Equipment)
+- Item obtained from a Crate
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Tier 10 Equipment
+source:
+  title: Warlord's Gauntlets of the Citadel
+  url: https://eq2.fandom.com/wiki/Warlord's_Gauntlets_of_the_Citadel
+  history: https://eq2.fandom.com/wiki/Warlord's_Gauntlets_of_the_Citadel?action=history
+  revision: 1690072
+  revised: '2023-03-16T16:50:40Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

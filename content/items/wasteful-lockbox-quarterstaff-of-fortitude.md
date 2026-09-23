@@ -1,0 +1,85 @@
+---
+title: Wasteful Lockbox Quarterstaff of Fortitude
+type: item
+item_kind: Equipment
+icon: images/Item_3586.png
+level: '130'
+slot: Primary
+classes: ', , , [[Beastlord]]'
+flags: no-trade no-value
+stats:
+  sta: +12,938
+  agi: +7,608
+  health: +660,434
+  power: +415,038
+  maxhealth: '367.8'
+  crit: '1088.6'
+  potency: 87,765.4
+  resolve: '930'
+  cbovercap: '+3044.2'
+  mitinc: '70.8'
+  dmg: 10350 - 15525
+  delay: '6.0'
+  drating: '4312.45'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+effects: '**Wary Protection**'
+item_link: \aITEM -1722721147 804858916 0 0 0:Wasteful Lockbox Quarterstaff of Fortitude\/a
+categories:
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Staff (Weapon Type)
+- Summoner Equipment
+- Templar Equipment
+- Tier 14 Equipment
+- Two-Handed Crushing (Equipment Type)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wary Protection (Equipment)
+- Wizard Equipment
+source:
+  title: Wasteful Lockbox Quarterstaff of Fortitude
+  url: https://eq2.fandom.com/wiki/Wasteful_Lockbox_Quarterstaff_of_Fortitude
+  history: https://eq2.fandom.com/wiki/Wasteful_Lockbox_Quarterstaff_of_Fortitude?action=history
+  revision: 1851765
+  revised: '2025-01-06T21:07:32Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: level
+---
+
+

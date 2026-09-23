@@ -1,0 +1,90 @@
+---
+title: Veil Scarf (Version 1)
+type: item
+item_kind: Equipment
+icon: images/Item_1231.png
+tier: Fabled
+level: '70'
+slot: Head
+flags: lore-equip attunable heirloom
+stats:
+  str: '+39'
+  sta: '+39'
+  mit: '164'
+  crit: '1.8'
+  critbonus: '0.5'
+  potency: '2.6'
+  abmod: '+62'
+  aspeed: '4'
+  dtype: Cloth Armor
+effects: '**Veiled Subtlety**'
+item_link: \aITEM -1561569965 -1669812574:Veil Scarf\/a
+image: images/Veil_Scarf.png
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- The Emerald Halls Dropped Items
+- Tier 8 Equipment
+- Troubador Equipment
+- Veiled Subtlety (Equipment)
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Veil Scarf (Version 1)
+  url: https://eq2.fandom.com/wiki/Veil_Scarf_(Version_1)
+  history: https://eq2.fandom.com/wiki/Veil_Scarf_(Version_1)?action=history
+  revision: 1888778
+  revised: '2025-09-16T21:58:16Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

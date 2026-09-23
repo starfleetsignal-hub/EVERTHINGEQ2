@@ -1,0 +1,96 @@
+---
+title: Will of Ayquini
+type: item
+item_kind: Equipment
+icon: images/Item_4919.png
+tier: Fabled
+level: '120'
+slot: Primary
+flags: attunable heirloom
+stats:
+  sta: +3,794
+  agi: +2,601
+  health: +96,536
+  power: +53,361
+  crit: '818.5'
+  potency: 5,125.6
+  resolve: '190'
+  dps: '128.4'
+  cbovercap: '+107.9'
+  mitinc: '41.2'
+  dmg: 773 - 1160
+  delay: '4.0'
+  drating: '483.33'
+  dtype: One-Handed Crushing
+  wtype: Mace
+effects: '**Anguish**'
+item_link: \aITEM 1992435061 138787656:Will of Ayquini\/a
+categories:
+- Anguish (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mace (Weapon Type)
+- Mage Equipment
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Will of Ayquini
+  url: https://eq2.fandom.com/wiki/Will_of_Ayquini
+  history: https://eq2.fandom.com/wiki/Will_of_Ayquini?action=history
+  revision: 1905802
+  revised: '2025-09-19T19:51:46Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

@@ -1,0 +1,54 @@
+---
+title: Velious Minion's Chain Boots of Fortitude
+type: item
+item_kind: Equipment
+icon: images/Item_3339.png
+level: '135'
+slot: Feet
+stats:
+  sta: +5,596
+  agi: +3,378
+  health: +640,961
+  power: +640,961
+  mit: '497'
+  critbonus: 1,352.1
+  potency: 46,581.5
+  resolve: '610'
+  dtype: Chain Armor
+item_link: \aITEM 126725545 88225302:Velious Minion's Chain Boots of Fortitude\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Block Chance (Equipment)
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 14 Equipment
+- Troubador Equipment
+source:
+  title: Velious Minion's Chain Boots of Fortitude
+  url: https://eq2.fandom.com/wiki/Velious_Minion's_Chain_Boots_of_Fortitude
+  history: https://eq2.fandom.com/wiki/Velious_Minion's_Chain_Boots_of_Fortitude?action=history
+  revision: 2006749
+  revised: '2026-05-17T14:35:24Z'
+  license: CC BY-SA 3.0
+expansion: Rage of Cthurath
+expansion_source: level
+---
+
+

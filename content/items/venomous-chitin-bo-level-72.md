@@ -1,0 +1,54 @@
+---
+title: Venomous Chitin Bo (Level 72)
+type: item
+item_kind: Equipment
+icon: images/Item_3606.png
+tier: Legendary
+level: '72'
+slot: Primary
+classes: ', [[Beastlord]]'
+flags: lore no-trade
+stats:
+  str: '+90'
+  sta: '+90'
+  crit: '4.4'
+  critbonus: '1.4'
+  potency: '7.2'
+  abmod: '+160'
+  dmg: 154 - 617
+  delay: '6.0'
+  drating: '128.52'
+  dtype: Two-Handed Crushing
+  wtype: Staff
+effects: '**Necrotic Scorpikis Poison**'
+item_link: \aITEM -1574397852 234919887:Venomous Chitin Bo\/a
+categories:
+- Ability Modifier (Equipment)
+- Beastlord Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Equipment
+- Legendary Equipment
+- Monk Equipment
+- Necrotic Scorpikis Poison (Equipment)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Staff (Weapon Type)
+- Tier 8 Equipment
+- Two-Handed Crushing (Equipment Type)
+source:
+  title: Venomous Chitin Bo (Level 72)
+  url: https://eq2.fandom.com/wiki/Venomous_Chitin_Bo_(Level_72)
+  history: https://eq2.fandom.com/wiki/Venomous_Chitin_Bo_(Level_72)?action=history
+  revision: 1905485
+  revised: '2025-09-19T19:41:05Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

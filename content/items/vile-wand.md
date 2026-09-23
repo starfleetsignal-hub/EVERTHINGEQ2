@@ -1,0 +1,77 @@
+---
+title: Vile Wand
+type: item
+item_kind: Equipment
+icon: images/Item_369.png
+tier: Legendary
+level: '100'
+slot: Ranged
+flags: attunable heirloom infusable
+stats:
+  sta: +1,128
+  int: '+527'
+  health: +3,645
+  power: +2,187
+  crit: '175.8'
+  critbonus: '45.2'
+  potency: '52.2'
+  resolve: '7'
+  abmod: +1,890
+  dps: '52.6'
+  dmg: 562 - 1685
+  delay: '8.0'
+  drating: '280.81'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+effects: '**Arcane Rending**'
+item_link: \aITEM -109700649 -1399158235:Vile Wand\/a
+categories:
+- Ability Modifier (Equipment)
+- Arcane Rending (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 11 Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Vile Wand
+  url: https://eq2.fandom.com/wiki/Vile_Wand
+  history: https://eq2.fandom.com/wiki/Vile_Wand?action=history
+  revision: 1905507
+  revised: '2025-09-19T19:41:49Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

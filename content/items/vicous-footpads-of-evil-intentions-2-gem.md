@@ -1,0 +1,50 @@
+---
+title: Vicous Footpads of Evil Intentions (2 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_4131.png
+tier: Fabled
+level: '100'
+slot: Feet
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+description: 2/2 red malice gem slots filled.
+stats:
+  str: '+353'
+  sta: '+848'
+  maxhealth: '10.1'
+  mit: '693'
+  critbonus: '30.2'
+  potency: '30.2'
+  dtype: Leather Armor
+item_link: \aITEM 907137976 1707618686:Vicous Footpads of Evil Intentions\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Druid Equipment
+- Equipment
+- Fabled Equipment
+- Feet (Inventory Slot)
+- Fury Equipment
+- Leather Armor (Equipment Type)
+- Max Health (Equipment)
+- Monk Equipment
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Tier 11 Equipment
+- Warden Equipment
+source:
+  title: Vicous Footpads of Evil Intentions (2 Gem)
+  url: https://eq2.fandom.com/wiki/Vicous_Footpads_of_Evil_Intentions_(2_Gem)
+  history: https://eq2.fandom.com/wiki/Vicous_Footpads_of_Evil_Intentions_(2_Gem)?action=history
+  revision: 1948986
+  revised: '2026-01-04T12:32:48Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

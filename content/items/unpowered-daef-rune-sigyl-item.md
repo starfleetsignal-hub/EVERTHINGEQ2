@@ -1,0 +1,27 @@
+---
+title: Unpowered Daef Rune, Sigyl (Item)
+type: item
+item_kind: Quest Starter
+icon: images/Item_1356.png
+item_level: '0'
+flags: lore no-trade no-value
+description: An unpowered rune, used for Crone-Speak.
+starts_quest: '[[Unpowered Daef Rune, Sigyl (Quest)|Unpowered Daef Rune, Sigyl]]'
+item_link: \aITEM -1123475915 -650755310:Unpowered Daef Rune, Sigyl\/a
+categories:
+- Census Credits
+- Items
+- Items that start quests
+- Quest Starter (Item Type)
+source:
+  title: Unpowered Daef Rune, Sigyl (Item)
+  url: https://eq2.fandom.com/wiki/Unpowered_Daef_Rune,_Sigyl_(Item)
+  history: https://eq2.fandom.com/wiki/Unpowered_Daef_Rune,_Sigyl_(Item)?action=history
+  revision: 1373251
+  revised: '2021-12-05T16:46:15Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: source
+---
+
+

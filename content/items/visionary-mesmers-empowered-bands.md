@@ -1,0 +1,51 @@
+---
+title: Visionary Mesmer's Empowered Bands
+type: item
+item_kind: Equipment
+icon: images/Item_3615.png
+tier: Fabled
+level: '92'
+slot: Forearms
+flags: attunable heirloom
+stats:
+  str: '+104'
+  sta: '+104'
+  maxhealth: '15.3'
+  mit: '229'
+  crit: '7.1'
+  critbonus: '6.3'
+  potency: '10.6'
+  multi: '17.5'
+  dtype: Cloth Armor
+effects: '**Greater Siphoning Eulogy**'
+item_link: \aITEM 1361262508 -894811581:Visionary Mesmer's Empowered Bands\/a
+categories:
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Forearms (Inventory Slot)
+- Greater Siphoning Eulogy (Equipment)
+- Illusionist Equipment
+- Max Health (Equipment)
+- Multi Attack Chance (Equipment)
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Tier 10 Equipment
+source:
+  title: Visionary Mesmer's Empowered Bands
+  url: https://eq2.fandom.com/wiki/Visionary_Mesmer's_Empowered_Bands
+  history: https://eq2.fandom.com/wiki/Visionary_Mesmer's_Empowered_Bands?action=history
+  revision: 1888829
+  revised: '2025-09-16T22:00:11Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

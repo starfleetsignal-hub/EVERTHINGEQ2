@@ -1,0 +1,55 @@
+---
+title: Wayward Leggings of Elements
+type: item
+item_kind: Equipment
+icon: images/Item_1605.png
+tier: Treasured
+level: '1'
+slot: Legs
+flags: attunable
+stats:
+  sta: '+1'
+  agi: '+1'
+  mit: '4'
+  dtype: Chain Armor
+item_link: \aITEM -2011555201 -1776723546:Wayward Leggings of Elements\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Cleric Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legs (Inventory Slot)
+- Mystic Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 1 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Wayward Leggings of Elements
+  url: https://eq2.fandom.com/wiki/Wayward_Leggings_of_Elements
+  history: https://eq2.fandom.com/wiki/Wayward_Leggings_of_Elements?action=history
+  revision: 958538
+  revised: '2019-03-18T12:44:59Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

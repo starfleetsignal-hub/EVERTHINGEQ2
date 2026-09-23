@@ -1,0 +1,53 @@
+---
+title: Weapon Betrayer
+type: item
+item_kind: Equipment
+icon: images/Item_2268.png
+tier: Fabled
+level: '100'
+slot: Shield
+flags: attunable heirloom no-value infusable
+stats:
+  str: '+525'
+  sta: +1,167
+  crit: '181.5'
+  critbonus: '29.6'
+  potency: '35.7'
+  resolve: '5'
+  aspeed: '61.5'
+  dtype: Tower Shield
+effects: '**Essencelich**'
+item_link: \aITEM 1123481180 -1816480220:Weapon Betrayer\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Essencelich (Equipment)
+- Fabled Equipment
+- Guardian Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 11 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+source:
+  title: Weapon Betrayer
+  url: https://eq2.fandom.com/wiki/Weapon_Betrayer
+  history: https://eq2.fandom.com/wiki/Weapon_Betrayer?action=history
+  revision: 1893431
+  revised: '2025-09-17T21:06:37Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

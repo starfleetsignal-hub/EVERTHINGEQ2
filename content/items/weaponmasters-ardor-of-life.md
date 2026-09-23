@@ -1,0 +1,52 @@
+---
+title: Weaponmaster's Ardor of Life
+type: item
+item_kind: Equipment
+icon: images/Item_3694.png
+tier: Legendary
+level: '92'
+slot: Hands
+flags: attunable heirloom
+stats:
+  str: '+102'
+  sta: '+102'
+  mit: '620'
+  crit: '6.9'
+  critbonus: '6.1'
+  potency: '10.4'
+  multi: '17'
+  dtype: Plate Armor
+effects: '**Haste**'
+item_link: \aITEM -2145357245 -1174761451 0 0 0:Weaponmaster's Ardor of Life\/a
+categories:
+- Berserker Equipment
+- Block Chance (Equipment)
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Guardian Equipment
+- Hands (Inventory Slot)
+- Haste (Equipment)
+- Legendary Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Tier 10 Equipment
+- Warrior Equipment
+source:
+  title: Weaponmaster's Ardor of Life
+  url: https://eq2.fandom.com/wiki/Weaponmaster's_Ardor_of_Life
+  history: https://eq2.fandom.com/wiki/Weaponmaster's_Ardor_of_Life?action=history
+  revision: 1690296
+  revised: '2023-03-16T16:57:23Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+
