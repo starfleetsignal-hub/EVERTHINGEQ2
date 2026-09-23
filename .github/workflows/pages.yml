@@ -24,6 +24,7 @@ jobs:
           python-version: "3.12"
       - run: pip install pyyaml
       - run: python3 tools/build_preview.py
+      - run: mkdir -p build/site/images && cp images/*.png build/site/images/
       - name: Publish to gh-pages
         run: |
           cd build/site

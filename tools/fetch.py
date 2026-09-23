@@ -4,23 +4,28 @@
 Usage:
   fetch.py --category "Antonica Quests" --title Antonica ...
 Saves one JSON file per page in raw/ (title, pageid, revid, timestamp, categories, wikitext).
-Polite: one request at a time, >=1s apart, maxlag honoured, identifying User-Agent.
+Polite: requests start --interval apart (default 1 s, never under 0.5 s), at most --workers in flight, maxlag honoured,
+identifying User-Agent. A batch of 50 pages takes ~3 requests (category lists continue), so ~1,000 pages/min at 1 s.
 """
-import argparse, json, os, re, sys, time, urllib.parse, urllib.request
+import argparse, concurrent.futures, json, os, re, sys, threading, time, urllib.parse, urllib.request
 
 API = "https://eq2.fandom.com/api.php"
 UA = "NorrathLedgerImporter/0.1 (fan wiki conversion; contact via github.com/starfleetsignal-hub)"
 HERE = os.path.dirname(os.path.abspath(__file__))
 RAW = os.path.join(HERE, "..", "raw")
 _last = [0.0]
+_pace = threading.Lock()
+WORKERS = 1
+INTERVAL = 1.0      # seconds between request starts
 
 def api(params):
     params = {**params, "format": "json", "formatversion": "2", "maxlag": "5"}
     url = API + "?" + urllib.parse.urlencode(params)
     for attempt in range(5):
-        wait = 1.0 - (time.time() - _last[0])
-        if wait > 0: time.sleep(wait)
-        _last[0] = time.time()
+        with _pace:                          # requests start INTERVAL apart, however many workers
+            wait = INTERVAL - (time.time() - _last[0])
+            if wait > 0: time.sleep(wait)
+            _last[0] = time.time()
         try:
             req = urllib.request.Request(url, headers={"User-Agent": UA})
             with urllib.request.urlopen(req, timeout=60) as r:
@@ -45,34 +50,45 @@ def category_members(cat):
 def safe_name(title):
     return re.sub(r"[^A-Za-z0-9._-]+", "_", title)[:150] + ".json"
 
+def fetch_batch(batch):
+    """Fetch up to 50 titles: wikitext, categories and redirect aliases, following API continuation."""
+    saved, acc, cont = [], {}, {}
+    while True:
+        d = api({"action": "query", "prop": "revisions|categories|redirects", "rvprop": "ids|timestamp|content",
+                 "rvslots": "main", "cllimit": "max", "rdlimit": "max", "rdnamespace": "0", "redirects": "1",
+                 "titles": "|".join(batch), **cont})
+        for p in d["query"]["pages"]:
+            a = acc.setdefault(p["title"], {"page": p, "cats": [], "reds": [], "rev": None})
+            a["cats"] += [c["title"].split(":", 1)[1] for c in p.get("categories", [])]
+            a["reds"] += [r["title"] for r in p.get("redirects", [])]
+            if p.get("revisions"): a["rev"] = p["revisions"][0]
+        if "continue" not in d: break
+        cont = d["continue"]
+    for t, a in acc.items():
+        p, rev = a["page"], a["rev"]
+        if p.get("missing") or p.get("invalid") or not rev:
+            print("  missing:", t, file=sys.stderr); continue
+        rec = {"title": t, "pageid": p["pageid"], "revid": rev["revid"], "timestamp": rev["timestamp"],
+               "categories": sorted(set(a["cats"])), "redirects": sorted(set(a["reds"])),
+               "wikitext": rev["slots"]["main"]["content"]}
+        with open(os.path.join(RAW, safe_name(t)), "w") as f:
+            json.dump(rec, f, ensure_ascii=False)
+        saved.append(t)
+    return saved
+
 def fetch_pages(titles):
-    """Fetch wikitext, categories and redirect aliases, following API continuation so nothing is cut short."""
-    saved = []
-    for i in range(0, len(titles), 50):
-        batch = titles[i:i + 50]; acc, cont = {}, {}
-        while True:
-            d = api({"action": "query", "prop": "revisions|categories|redirects", "rvprop": "ids|timestamp|content",
-                     "rvslots": "main", "cllimit": "max", "rdlimit": "max", "rdnamespace": "0", "redirects": "1",
-                     "titles": "|".join(batch), **cont})
-            for p in d["query"]["pages"]:
-                a = acc.setdefault(p["title"], {"page": p, "cats": [], "reds": [], "rev": None})
-                a["cats"] += [c["title"].split(":", 1)[1] for c in p.get("categories", [])]
-                a["reds"] += [r["title"] for r in p.get("redirects", [])]
-                if p.get("revisions"): a["rev"] = p["revisions"][0]
-            if "continue" not in d: break
-            cont = d["continue"]
-        for t, a in acc.items():
-            p, rev = a["page"], a["rev"]
-            if p.get("missing") or p.get("invalid") or not rev:
-                print("  missing:", t, file=sys.stderr); continue
-            rec = {"title": t, "pageid": p["pageid"], "revid": rev["revid"], "timestamp": rev["timestamp"],
-                   "categories": sorted(set(a["cats"])), "redirects": sorted(set(a["reds"])),
-                   "wikitext": rev["slots"]["main"]["content"]}
-            with open(os.path.join(RAW, safe_name(t)), "w") as f:
-                json.dump(rec, f, ensure_ascii=False)
-            saved.append(t)
-        if (i // 50) % 20 == 0 or i + 50 >= len(titles):
-            print(f"  fetched {min(i + 50, len(titles))}/{len(titles)}", file=sys.stderr)
+    """Fetch titles in batches of 50, WORKERS batches in flight (each request still starts >=1s after the last)."""
+    batches = [titles[i:i + 50] for i in range(0, len(titles), 50)]
+    saved, done = [], 0
+    with concurrent.futures.ThreadPoolExecutor(max_workers=WORKERS) as ex:
+        def safe(batch):
+            try: return fetch_batch(batch)
+            except Exception as e:           # a failed batch is picked up by the next --all run
+                print("  batch failed:", batch[0], repr(e)[:200], file=sys.stderr); return []
+        for got in ex.map(safe, batches):
+            saved += got; done += 1
+            if done % 20 == 0 or done == len(batches):
+                print(f"  fetched {min(done * 50, len(titles))}/{len(titles)}", file=sys.stderr, flush=True)
     return saved
 
 def all_titles():
@@ -121,7 +137,11 @@ if __name__ == "__main__":
     ap.add_argument("--title", action="append", default=[])
     ap.add_argument("--refresh-meta", action="store_true", help="re-read categories/redirects for all saved pages")
     ap.add_argument("--all", action="store_true", help="every article on the wiki not already saved")
+    ap.add_argument("--workers", type=int, default=1, help="batches in flight at once")
+    ap.add_argument("--interval", type=float, default=1.0, help="seconds between request starts (never below 0.5)")
     a = ap.parse_args()
+    WORKERS = max(1, a.workers)
+    INTERVAL = max(0.5, a.interval)
     if a.refresh_meta:
         refresh_meta(); sys.exit()
     os.makedirs(RAW, exist_ok=True)
