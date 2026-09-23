@@ -1,0 +1,67 @@
+name: Images release
+
+# Downloads the wiki images listed in images-release.json from Fandom's image host and attaches them to the
+# "images" release as ~1.9 GB tars (tools/release_images.py). Re-run it to replace the tars.
+on:
+  push:
+    branches: [main]
+    paths: ["images-release.json"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: images-release
+  cancel-in-progress: false
+
+env:
+  TAG: images
+  GH_TOKEN: ${{ github.token }}
+  GH_REPO: ${{ github.repository }}
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tools
+            images-release.json
+          sparse-checkout-cone-mode: false
+      - name: Create the release
+        run: |
+          gh release view "$TAG" >/dev/null 2>&1 || gh release create "$TAG" --title "Wiki images" --notes "$(cat <<'NOTES'
+          Images from the EverQuest II Fandom wiki (eq2.fandom.com) that the site links to but that are not stored with the site.
+          Files are licensed CC BY-SA 3.0 unless their File: page says otherwise; images-release.json lists each file's File: page, uploader and upload time.
+
+          Each eq2-images-NN.tar holds images/<File_name>, the path pages link to. Unpack from the repository root:
+
+              for f in eq2-images-*.tar; do tar -xf "$f"; done
+
+          eq2-images-NN-failed.json lists files the wiki could not serve when the tar was built.
+          NOTES
+          )"
+          gh release upload "$TAG" images-release.json --clobber
+
+  shard:
+    needs: release
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      max-parallel: 3
+      matrix:
+        shard: [0, 1, 2, 3, 4]   # one per shard in images-release.json
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tools
+            images-release.json
+          sparse-checkout-cone-mode: false
+      - run: python3 tools/release_images.py --shard ${{ matrix.shard }}
+      - name: Upload to the release
+        run: |
+          n=$(printf %02d ${{ matrix.shard }})
+          gh release upload "$TAG" "eq2-images-$n.tar" "eq2-images-$n-failed.json" --clobber
