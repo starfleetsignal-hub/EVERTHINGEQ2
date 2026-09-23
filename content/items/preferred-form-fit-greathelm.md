@@ -1,0 +1,52 @@
+---
+title: Preferred Form-Fit Greathelm
+type: item
+item_kind: Equipment
+icon: images/Item_1541.png
+tier: Fabled
+level: '125'
+slot: Head
+flags: attunable heirloom
+stats:
+  str: +3,125
+  sta: +5,423
+  health: +246,662
+  power: +155,010
+  mit: '851'
+  critbonus: 1,250.1
+  potency: 32,107.5
+  resolve: '425'
+  dtype: Plate Armor
+item_link: \aITEM 1312200187 -103220725:Preferred Form-Fit Greathelm\/a
+categories:
+- Ability Doublecast (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Warrior Equipment
+source:
+  title: Preferred Form-Fit Greathelm
+  url: https://eq2.fandom.com/wiki/Preferred_Form-Fit_Greathelm
+  history: https://eq2.fandom.com/wiki/Preferred_Form-Fit_Greathelm?action=history
+  revision: 1674919
+  revised: '2023-03-15T23:07:25Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

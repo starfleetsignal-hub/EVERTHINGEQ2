@@ -1,0 +1,51 @@
+---
+title: Ravener's Epaulets of Superior Stamina (2 Gem, PvP)
+type: item
+item_kind: Equipment
+icon: images/Item_1438.png
+tier: Legendary
+level: '98'
+slot: Shoulders
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+description: 2/4 blue malice gem slots filled.
+stats:
+  str: '+283'
+  sta: '+578'
+  maxhealth: '8.2'
+  mit: '656'
+  critbonus: '24.3'
+  potency: '24.3'
+  aspeed: '88.7'
+  dtype: Leather Armor
+item_link: \aITEM 1993885343 1310625879:Ravener's Epaulets of Superior Stamina\/a
+categories:
+- Attack Speed (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Leather Armor (Equipment Type)
+- Legendary Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Potency (Equipment)
+- Shoulders (Inventory Slot)
+- Tier 10 Equipment
+- Warden Equipment
+source:
+  title: Ravener's Epaulets of Superior Stamina (2 Gem, PvP)
+  url: https://eq2.fandom.com/wiki/Ravener's_Epaulets_of_Superior_Stamina_(2_Gem,_PvP)
+  history: https://eq2.fandom.com/wiki/Ravener's_Epaulets_of_Superior_Stamina_(2_Gem,_PvP)?action=history
+  revision: 1945973
+  revised: '2026-01-04T10:26:48Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

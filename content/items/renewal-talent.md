@@ -1,0 +1,35 @@
+---
+title: Renewal Talent
+type: item
+item_kind: Currency
+icon: images/Item_5490.png
+item_level: '0'
+flags: heirloom no-value
+description: Currency on the Island of Ro.
+obtained_from: '*30x as [[Bygones Betwixt Bygones (Solo)|Bygones Betwixt Bygones [Solo]]] *30x as [[Bygones Will Be Bygones (Solo)|Bygones Will Be Bygones [Solo]]] *30x as [[Hang Tight, Hizite (Solo)|Hang Tight, Hizite [Solo]]] *30x as [[It''s Alright, Hizite (Solo)|It''s Alright, Hizite [Solo]]] *3x as [[Antiquities Roadshow (Solo)|Antiquities Roadshow [Solo]]] *3x as [[Daily Desert: Blood and Sand (Signature)|Daily Desert: Blood and Sand [Signature]]] *3x as [[Daily Desert: Eye of Night (Solo)|Daily Desert: Eye of Night [Solo]]] *3x as [[Daily Desert: Eye of the Storm (Solo)|Daily Desert: Eye of the Storm [Solo]]] *3x as [[Daily Desert: Foundation of Knowledge (Solo)|Daily Desert: Foundation of Knowledge [Solo]]] *3x as [[Daily Desert: Grave Grange (Solo)|Daily Desert: Grave Grange [Solo]]] *3x as [[Daily Desert: Kigathor''s Glade (Solo)|Daily Desert: Kigathor''s Glade [Solo]]] *3x as [[Daily Desert: Overgrowth (Solo)|Daily Desert: Overgrowth [Solo]]] *3x as [[Daily Desert: Terrene Threshold
+  (Signature)|Daily Desert: Terrene Threshold [Signature]]] *3x as [[Daily Desert: The Sacred Gift (Signature)|Daily Desert: The Sacred Gift [Signature]]] *3x as [[Daily Desert: The Sultan''s Dagger (Signature)|Daily Desert: The Sultan''s Dagger [Signature]]] *3x as [[Just Deserts: Blood and Sand (Signature)|Just Deserts: Blood and Sand [Signature]]] *3x as [[Just Deserts: Eye of Night (Solo)|Just Deserts: Eye of Night [Solo]]] *3x as [[Just Deserts: Eye of the Storm (Solo)|Just Deserts: Eye of the Storm [Solo]]] *3x as [[Just Deserts: Foundation of Knowledge (Solo)|Just Deserts: Foundation of Knowledge [Solo]]] *3x as [[Just Deserts: Grave Grange (Solo)|Just Deserts: Grave Grange [Solo]]] *3x as [[Just Deserts: Kigathor''s Glade (Solo)|Just Deserts: Kigathor''s Glade [Solo]]] *3x as [[Just Deserts: Overgrowth (Solo)|Just Deserts: Overgrowth [Solo]]] *3x as [[Just Deserts: Terrene Threshold (Signature)|Just Deserts: Terrene Threshold [Signature]]] *3x as [[Just Deserts: The Sacred Gift (Signature)|Just
+  Deserts: The Sacred Gift [Signature]]] *3x as [[Just Deserts: The Sultan''s Dagger (Signature)|Just Deserts: The Sultan''s Dagger [Signature]]] *3x as [[Shattered Plausibilities (Solo)|Shattered Plausibilities [Solo]]] *3x as [[Shattered Potentialities (Solo)|Shattered Potentialities [Solo]]] *3x as [[Shattered Predictabilities (Solo)|Shattered Predictabilities [Solo]]] *3x as [[Shattered Probabilities (Solo)|Shattered Probabilities [Solo]]] *3x as [[Shattered Productivities (Solo)|Shattered Productivities [Solo]]] *4x as [[Daily Desert: Grave Grange (Event Heroic II)|Daily Desert: Grave Grange [Event Heroic II]]] *4x as [[Daily Desert: The Sacred Gift (Event Heroic II)|Daily Desert: The Sacred Gift [Event Heroic II]]] *4x as [[Just Deserts: Grave Grange (Event Heroic II)|Just Deserts: Grave Grange [Event Heroic II]]] *4x as [[Just Deserts: The Sacred Gift (Event Heroic II)|Just Deserts: The Sacred Gift [Event Heroic II]]] *50x as [[Bygones Betwixt Bygones (Heroic)|Bygones Betwixt Bygones
+  [Heroic]]] *50x as [[Bygones Will Be Bygones (Heroic)|Bygones Will Be Bygones [Heroic]]] *50x as [[Hang Tight, Hizite (Heroic I)|Hang Tight, Hizite [Heroic I]]] *50x as [[It''s Alright, Hizite (Heroic I)|It''s Alright, Hizite [Heroic I]]] *5x as [[Antiquities Roadshow (Heroic I)|Antiquities Roadshow [Heroic I]]] *5x as [[Daily Desert: Blood and Sand (Heroic I)|Daily Desert: Blood and Sand [Heroic I]]] *5x as [[Daily Desert: Eye of Night (Heroic I)|Daily Desert: Eye of Night [Heroic I]]] *5x as [[Daily Desert: Eye of the Storm (Heroic I)|Daily Desert: Eye of the Storm [Heroic I]]] *5x as [[Daily Desert: Eye of the Storm (Heroic II)|Daily Desert: Eye of the Storm [Heroic II]]] *5x as [[Daily Desert: Foundation of Knowledge (Heroic I)|Daily Desert: Foundation of Knowledge [Heroic I]]] *5x as [[Daily Desert: Kigathor''s Glade (Heroic I)|Daily Desert: Kigathor''s Glade [Heroic I]]] *5x as [[Daily Desert: Overgrowth (Heroic I)|Daily Desert: Overgrowth [Heroic I]]] *5x as [[Daily Desert: Terrene
+  Threshold (Heroic I)|Daily Desert: Terrene Threshold [Heroic I]]] *5x as [[Daily Desert: Terrene Threshold (Heroic II)|Daily Desert: Terrene Threshold [Heroic II]]] *5x as [[Daily Desert: The Sultan''s Dagger (Heroic I)|Daily Desert: The Sultan''s Dagger [Heroic I]]] *5x as [[Just Deserts: Blood and Sand (Heroic I)|Just Deserts: Blood and Sand [Heroic I]]] *5x as [[Just Deserts: Eye of Night (Heroic I)|Just Deserts: Eye of Night [Heroic I]]] *5x as [[Just Deserts: Eye of the Storm (Heroic I)|Just Deserts: Eye of the Storm [Heroic I]]] *5x as [[Just Deserts: Foundation of Knowledge (Heroic I)|Just Deserts: Foundation of Knowledge [Heroic I]]] *5x as [[Just Deserts: Foundation of Knowledge (Heroic II)|Just Deserts: Foundation of Knowledge [Heroic II]]] *5x as [[Just Deserts: Kigathor''s Glade (Heroic I)|Just Deserts: Kigathor''s Glade [Heroic I]]] *5x as [[Just Deserts: Overgrowth (Heroic I)|Just Deserts: Overgrowth [Heroic I]]] *5x as [[Just Deserts: Terrene Threshold (Heroic I)|Just Deserts:
+  Terrene Threshold [Heroic I]]] *5x as [[Just Deserts: The Sultan''s Dagger (Heroic I)|Just Deserts: The Sultan''s Dagger [Heroic I]]] *5x as [[Shattered Plausibilities (Heroic)|Shattered Plausibilities [Heroic]]] *5x as [[Shattered Potentialities (Heroic)|Shattered Potentialities [Heroic]]] *5x as [[Shattered Predictabilities (Heroic)|Shattered Predictabilities [Heroic]]] *5x as [[Shattered Probabilities (Heroic)|Shattered Probabilities [Heroic]]] *5x as [[Shattered Productivities (Heroic)|Shattered Productivities [Heroic]]] *5x as [[Takish''Hiz Arena: Renewal of Ro]] *70x as [[Hang Tight, Hizite (Heroic II)|Hang Tight, Hizite [Heroic II]]] *70x as [[It''s Alright, Hizite (Heroic II)|It''s Alright, Hizite [Heroic II]]] *7x as [[Daily Desert: Eye of Night (Heroic II)|Daily Desert: Eye of Night [Heroic II]]] *7x as [[Daily Desert: Foundation of Knowledge (Heroic II)|Daily Desert: Foundation of Knowledge [Heroic II]]] *7x as [[Just Deserts: Eye of Night (Heroic II)|Just Deserts: Eye of Night
+  [Heroic II]]] *7x as [[Just Deserts: Eye of the Storm (Heroic II)|Just Deserts: Eye of the Storm [Heroic II]]] *7x as [[Just Deserts: Terrene Threshold (Heroic II)|Just Deserts: Terrene Threshold [Heroic II]]] *8x as [[Who Ordered Desert? Raj''Dur Plateaus]] *8x as [[Who Ordered Desert? Sandstone Delta]] *8x as [[Who Ordered Desert? Takish Badlands]]'
+item_link: \aITEM -1657282838 -1394719705:Renewal Talent\/a
+image: images/Renewal_Talent.png
+categories:
+- Census Credits
+- Currency
+- Currency (Item Type)
+- Item pages with existing iname images
+- Items
+source:
+  title: Renewal Talent
+  url: https://eq2.fandom.com/wiki/Renewal_Talent
+  history: https://eq2.fandom.com/wiki/Renewal_Talent?action=history
+  revision: 1812617
+  revised: '2024-07-27T09:00:43Z'
+  license: CC BY-SA 3.0
+expansion: Renewal of Ro
+expansion_source: source
+---
+
+

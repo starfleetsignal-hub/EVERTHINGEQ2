@@ -1,0 +1,24 @@
+---
+title: Pristine feyiron hook
+type: item
+icon: images/Item_1037.png
+tier: Uncommon
+item_level: '30'
+obtained_from: created with a Recipe called *pristine feyiron hook*
+item_link: \aITEM 1827435971 453551029:pristine feyiron hook\/a
+categories:
+- Census Credits
+- Items
+- Uncommon Items
+source:
+  title: Pristine feyiron hook
+  url: https://eq2.fandom.com/wiki/Pristine_feyiron_hook
+  history: https://eq2.fandom.com/wiki/Pristine_feyiron_hook?action=history
+  revision: 1797096
+  revised: '2024-05-03T11:27:02Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

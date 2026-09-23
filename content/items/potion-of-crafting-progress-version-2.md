@@ -1,0 +1,47 @@
+---
+title: Potion of Crafting Progress (Version 2)
+type: item
+icon: images/Item_3053.png
+tier: Treasured
+level: '1'
+flags: heirloom no-value
+stats:
+  duration: 30 minutes
+  charges: (1/1)
+  casting: 2 seconds
+  recast: 2 seconds
+effect_name: Crafting Progress
+effects: "- Applies Crafting Progress when Activated.  Lasts for 30 minutes.\n  - Increases progress by 500.0."
+obtained_from: From [[(10 Pack) Potion of Crafting Progress]]
+item_link: \aITEM -418474885 1887345477:Potion of Crafting Progress\/a
+categories:
+- Alchemist Equipment
+- Armorer Equipment
+- Artisan Equipment
+- Carpenter Equipment
+- Census Credits
+- Craftsman Equipment
+- Item obtained from a Crate
+- Items
+- Jeweler Equipment
+- Outfitter Equipment
+- Provisioner Equipment
+- Sage Equipment
+- Scholar Equipment
+- Tailor Equipment
+- Tier 1 Items
+- Treasured Items
+- Weaponsmith Equipment
+- Woodworker Equipment
+source:
+  title: Potion of Crafting Progress (Version 2)
+  url: https://eq2.fandom.com/wiki/Potion_of_Crafting_Progress_(Version_2)
+  history: https://eq2.fandom.com/wiki/Potion_of_Crafting_Progress_(Version_2)?action=history
+  revision: 1933580
+  revised: '2026-01-02T17:51:36Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,52 @@
+---
+title: Rector's Revered Plate Cuirass of the Battlepriest of Butchery
+type: item
+item_kind: Equipment
+icon: images/Item_2449.png
+tier: Legendary
+level: '50'
+slot: Chest
+flags: attunable
+stats:
+  str: '+31'
+  sta: '+31'
+  mit: '366'
+  crit: '1.1'
+  critbonus: '0.3'
+  potency: '1.7'
+  dps: '5.6'
+  dtype: Plate Armor
+item_link: \aITEM -2027628240 1630044031:Rector's Revered Plate Cuirass of the Battlepriest of Butchery\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Chest (Inventory Slot)
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Equipment
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 6 Equipment
+- Warrior Equipment
+source:
+  title: Rector's Revered Plate Cuirass of the Battlepriest of Butchery
+  url: https://eq2.fandom.com/wiki/Rector's_Revered_Plate_Cuirass_of_the_Battlepriest_of_Butchery
+  history: https://eq2.fandom.com/wiki/Rector's_Revered_Plate_Cuirass_of_the_Battlepriest_of_Butchery?action=history
+  revision: 1583452
+  revised: '2022-10-04T20:07:08Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

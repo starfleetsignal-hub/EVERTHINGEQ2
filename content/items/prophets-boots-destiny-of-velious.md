@@ -1,0 +1,58 @@
+---
+title: Prophet's Boots (Destiny of Velious)
+type: item
+item_kind: Equipment
+icon: images/Item_3333.png
+tier: Legendary
+level: '80'
+slot: Feet
+flags: lore no-trade no-value infusable
+stats:
+  sta: '+65'
+  wis: '+65'
+  mit: '515'
+  crit: '3.4'
+  critbonus: '2.9'
+  potency: '6.4'
+  dtype: Chain Armor
+obtained_from: From [[A Packet of Equipment (Destiny of Velious, Mystic)|A Packet of Equipment]]
+item_link: \aITEM -1693866704 -809003677:Prophet's Boots [Destiny of Velious]\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Item obtained from a Crate
+- Legendary Equipment
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 9 Equipment
+- Troubador Equipment
+source:
+  title: Prophet's Boots (Destiny of Velious)
+  url: https://eq2.fandom.com/wiki/Prophet's_Boots_(Destiny_of_Velious)
+  history: https://eq2.fandom.com/wiki/Prophet's_Boots_(Destiny_of_Velious)?action=history
+  revision: 1821569
+  revised: '2024-08-30T00:24:08Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

@@ -1,0 +1,57 @@
+---
+title: Radiant Sabatons of Knowledge
+type: item
+item_kind: Equipment
+icon: images/Item_2869.png
+tier: Treasured
+level: '61'
+slot: Feet
+flags: attunable
+stats:
+  sta: '+30'
+  wis: '+30'
+  mit: '369'
+  crit: '1'
+  critbonus: '0.3'
+  potency: '1.6'
+  dps: '5.3'
+  vsnoxious: '+397'
+  dtype: Plate Armor
+item_link: \aITEM 1832706660 1614939300:Radiant Sabatons of Knowledge\/a
+categories:
+- Arcane Resistance (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Elemental Resistance (Equipment)
+- Equipment
+- Feet (Inventory Slot)
+- Guardian Equipment
+- Inquisitor Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resistances (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 7 Equipment
+- Treasured Equipment
+- Warrior Equipment
+source:
+  title: Radiant Sabatons of Knowledge
+  url: https://eq2.fandom.com/wiki/Radiant_Sabatons_of_Knowledge
+  history: https://eq2.fandom.com/wiki/Radiant_Sabatons_of_Knowledge?action=history
+  revision: 1605564
+  revised: '2022-12-09T18:59:41Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

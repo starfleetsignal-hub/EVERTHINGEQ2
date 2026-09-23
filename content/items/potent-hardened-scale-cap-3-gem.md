@@ -1,0 +1,52 @@
+---
+title: Potent Hardened Scale Cap (3 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_3672.png
+tier: Fabled
+level: '95'
+slot: Head
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+description: 3/3 green gem slots filled
+stats:
+  str: '+342'
+  sta: '+684'
+  maxhealth: '11'
+  mit: '534'
+  critbonus: '32.6'
+  abmod: +4,771
+  mitinc: '7.3'
+  dtype: Leather Armor
+item_link: \aITEM -1945357244 1672957369:Potent Hardened Scale Cap\/a
+categories:
+- Ability Modifier (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Druid Equipment
+- Equipment
+- Extra Riposte Chance (Equipment)
+- Fabled Equipment
+- Fury Equipment
+- Head (Inventory Slot)
+- Leather Armor (Equipment Type)
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Tier 10 Equipment
+- Warden Equipment
+source:
+  title: Potent Hardened Scale Cap (3 Gem)
+  url: https://eq2.fandom.com/wiki/Potent_Hardened_Scale_Cap_(3_Gem)
+  history: https://eq2.fandom.com/wiki/Potent_Hardened_Scale_Cap_(3_Gem)?action=history
+  revision: 1945326
+  revised: '2026-01-04T09:58:16Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

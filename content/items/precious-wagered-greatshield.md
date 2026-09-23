@@ -1,0 +1,54 @@
+---
+title: Precious Wagered Greatshield
+type: item
+item_kind: Equipment
+icon: images/Item_15.png
+tier: Fabled
+level: '125'
+slot: Shield
+flags: attunable heirloom
+stats:
+  sta: +5,977
+  agi: +3,150
+  health: +203,032
+  power: +127,592
+  crit: '450.7'
+  potency: 17,659.5
+  resolve: '305'
+  multi: '23.1'
+  cbovercap: '+1147.8'
+  dtype: Tower Shield
+effects: '**Wary Protection**'
+item_link: \aITEM 506842509 -214052948:Precious Wagered Greatshield\/a
+categories:
+- Berserker Equipment
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Shield (Inventory Slot)
+- Tier 13 Equipment
+- Tower Shield (Equipment Type)
+- Warrior Equipment
+- Wary Protection (Equipment)
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Precious Wagered Greatshield
+  url: https://eq2.fandom.com/wiki/Precious_Wagered_Greatshield
+  history: https://eq2.fandom.com/wiki/Precious_Wagered_Greatshield?action=history
+  revision: 1701885
+  revised: '2023-03-16T23:46:02Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

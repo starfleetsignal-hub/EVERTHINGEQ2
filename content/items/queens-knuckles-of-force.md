@@ -1,0 +1,59 @@
+---
+title: Queen's Knuckles of Force
+type: item
+item_kind: Equipment
+icon: images/Item_2952.png
+tier: Legendary
+level: '120'
+slot: Primary
+classes: ', [[Beastlord]]'
+flags: attunable heirloom
+stats:
+  sta: +5,488
+  agi: +2,688
+  health: +154,369
+  power: +97,012
+  crit: '375.3'
+  potency: 6,735.2
+  resolve: '205'
+  abmod: +63,896
+  cbovercap: '+369.6'
+  dmg: 1985 - 2977
+  delay: '4.0'
+  drating: '1240.32'
+  dtype: One-Handed Crushing
+  wtype: Fists
+effects: '**Decisive Strike**'
+item_link: \aITEM 1365979773 2140658440:Queen's Knuckles of Force\/a
+categories:
+- Ability Modifier (Equipment)
+- Beastlord Equipment
+- Brawler Equipment
+- Bruiser Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Decisive Strike (Equipment)
+- Equipment
+- Fists (Weapon Type)
+- Legendary Equipment
+- Monk Equipment
+- One-Handed Crushing (Equipment Type)
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Secondary (Inventory Slot)
+- Tier 13 Equipment
+source:
+  title: Queen's Knuckles of Force
+  url: https://eq2.fandom.com/wiki/Queen's_Knuckles_of_Force
+  history: https://eq2.fandom.com/wiki/Queen's_Knuckles_of_Force?action=history
+  revision: 1902790
+  revised: '2025-09-18T21:44:43Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

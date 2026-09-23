@@ -1,0 +1,65 @@
+---
+title: Planar Chainlink Mitts
+type: item
+item_kind: Equipment
+icon: images/Item_3246.png
+tier: Fabled
+level: '110'
+slot: Hands
+flags: attunable heirloom infusable
+stats:
+  sta: +2,428
+  agi: +1,051
+  wis: +1,051
+  health: +130,932
+  power: +19,619
+  maxhealth: '21.4'
+  mit: '879'
+  potency: '736.6'
+  resolve: '35'
+  aspeed: '167.1'
+  cbovercap: '+19.6'
+  mitinc: '23.1'
+  dtype: Chain Armor
+obtained_from: '*Made from [[Condensed Wisdom of Planar Armor: Hands]] *Made from [[Inert Crystal of Planar Armor: Hands]]'
+item_link: \aITEM -918459114 1027748539:Planar Chainlink Mitts\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus Overcap (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Hands (Inventory Slot)
+- Item obtained from a Pattern
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 12 Equipment
+- Troubador Equipment
+source:
+  title: Planar Chainlink Mitts
+  url: https://eq2.fandom.com/wiki/Planar_Chainlink_Mitts
+  history: https://eq2.fandom.com/wiki/Planar_Chainlink_Mitts?action=history
+  revision: 855422
+  revised: '2018-03-07T21:10:39Z'
+  license: CC BY-SA 3.0
+expansion: Planes of Prophecy
+expansion_source: level
+---
+
+

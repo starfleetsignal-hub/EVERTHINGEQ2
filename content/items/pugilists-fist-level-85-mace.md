@@ -1,0 +1,94 @@
+---
+title: Pugilist's Fist (Level 85) (Mace)
+type: item
+item_kind: Equipment
+icon: images/Item_631.png
+tier: Legendary
+level: '85'
+slot: Primary
+flags: lore no-trade no-value infusable
+stats:
+  str: '+81'
+  sta: '+81'
+  health: '+70'
+  power: '+18'
+  maxhealth: '10.1'
+  crit: '4.6'
+  critbonus: '3.7'
+  potency: '8.2'
+  dmg: 138 - 207
+  delay: '4.0'
+  drating: '86.31'
+  dtype: One-Handed Crushing
+  wtype: Mace
+obtained_from: From [[A Packet of Equipment (Brusier, 85)|A Packet of Equipment]]
+item_link: \aITEM -637325731 1952725893:Pugilist's Fist\/a
+aliases:
+- Pugilist's Fist (Level 85) (Version 2)
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Block Chance (Equipment)
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Legendary Equipment
+- Mace (Weapon Type)
+- Mage Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- One-Handed Crushing (Equipment Type)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rogue Equipment
+- Secondary (Inventory Slot)
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 9 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: Pugilist's Fist (Level 85) (Mace)
+  url: https://eq2.fandom.com/wiki/Pugilist's_Fist_(Level_85)_(Mace)
+  history: https://eq2.fandom.com/wiki/Pugilist's_Fist_(Level_85)_(Mace)?action=history
+  revision: 1746123
+  revised: '2023-10-15T16:27:39Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+

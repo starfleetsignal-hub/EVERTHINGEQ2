@@ -1,0 +1,26 @@
+---
+title: Pouch of peat
+type: item
+item_kind: Fertilizer Treasure
+icon: images/Item_10.png
+item_level: '10'
+description: 'Looted fertilizer treasure:  This would make good plant fertilizer.'
+item_link: \aITEM 599111897 -1109797835:pouch of peat\/a
+categories:
+- Census Credits
+- Fertilizer Treasure (Item Type)
+- Items
+source:
+  title: Pouch of peat
+  url: https://eq2.fandom.com/wiki/Pouch_of_peat
+  history: https://eq2.fandom.com/wiki/Pouch_of_peat?action=history
+  revision: 1019063
+  revised: '2020-01-19T15:41:48Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+## Notes
+
+for use with the [[Carnivorous Plant]] and [[A Burynai Digger|burynai seekers]]

@@ -1,0 +1,61 @@
+---
+title: Relinked Blood Iron Sentinel's Bracers
+type: item
+item_kind: Equipment
+icon: images/Item_3625.png
+tier: Fabled
+level: '100'
+slot: Forearms
+flags: attunable heirloom infusable
+stats:
+  sta: +1,679
+  agi: '+519'
+  maxhealth: '15.9'
+  mit: '777'
+  critbonus: '79.3'
+  potency: '96.25'
+  resolve: '5'
+  dps: '61.3'
+  mitinc: '10.9'
+  dtype: Chain Armor
+obtained_from: 'Crafted by [[Armorer]] (level 100) from [[Scourge Armor Plans: Blood Iron Chain Bracers]]'
+item_link: \aITEM -746929825 -1414844204:Relinked Blood Iron Sentinel's Bracers\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Forearms (Inventory Slot)
+- Max Health (Equipment)
+- Mitigation Increase (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 11 Equipment
+- Troubador Equipment
+source:
+  title: Relinked Blood Iron Sentinel's Bracers
+  url: https://eq2.fandom.com/wiki/Relinked_Blood_Iron_Sentinel's_Bracers
+  history: https://eq2.fandom.com/wiki/Relinked_Blood_Iron_Sentinel's_Bracers?action=history
+  revision: 1676791
+  revised: '2023-03-15T23:48:20Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

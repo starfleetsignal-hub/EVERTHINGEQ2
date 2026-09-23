@@ -1,0 +1,55 @@
+---
+title: Quixotic Seer's Masterous Bands
+type: item
+item_kind: Equipment
+icon: images/Item_530.png
+tier: Fabled
+level: '90'
+slot: Forearms
+flags: attunable heirloom
+stats:
+  sta: '+90'
+  int: '+90'
+  mit: '233'
+  crit: '6.1'
+  critbonus: '5.4'
+  potency: '9'
+  abmod: '+297'
+  multi: '15.1'
+  dtype: Cloth Armor
+item_link: \aITEM -957587822 -1167421651:Quixotic Seer's Masterous Bands\/a
+categories:
+- Ability Modifier (Equipment)
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Forearms (Inventory Slot)
+- Illusionist Equipment
+- Mage Equipment
+- Multi Attack Chance (Equipment)
+- Necromancer Equipment
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 10 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Quixotic Seer's Masterous Bands
+  url: https://eq2.fandom.com/wiki/Quixotic_Seer's_Masterous_Bands
+  history: https://eq2.fandom.com/wiki/Quixotic_Seer's_Masterous_Bands?action=history
+  revision: 1675978
+  revised: '2023-03-15T23:29:32Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

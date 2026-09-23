@@ -1,0 +1,70 @@
+---
+title: Quarry Guard's Shield
+type: item
+item_kind: Equipment
+icon: images/Item_2276.png
+tier: Legendary
+level: '120'
+slot: Shield
+flags: attunable heirloom
+stats:
+  sta: +5,488
+  agi: +2,688
+  health: +154,369
+  power: +97,012
+  maxhealth: '45.9'
+  crit: '375.3'
+  potency: 6,735.2
+  resolve: '205'
+  cbovercap: '+369.6'
+  dtype: Buckler
+effects: '**Anguish**'
+item_link: \aITEM -1594787895 -570712429:Quarry Guard's Shield\/a
+categories:
+- Anguish (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Buckler (Equipment Type)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Max Health (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Priest Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Shield (Inventory Slot)
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warden Equipment
+source:
+  title: Quarry Guard's Shield
+  url: https://eq2.fandom.com/wiki/Quarry_Guard's_Shield
+  history: https://eq2.fandom.com/wiki/Quarry_Guard's_Shield?action=history
+  revision: 1892864
+  revised: '2025-09-17T20:47:31Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

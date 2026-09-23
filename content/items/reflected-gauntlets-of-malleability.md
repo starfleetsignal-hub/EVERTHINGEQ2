@@ -1,0 +1,53 @@
+---
+title: Reflected Gauntlets of Malleability
+type: item
+item_kind: Equipment
+icon: images/Item_3267.png
+tier: Legendary
+level: '126'
+slot: Hands
+classes: ', , [[Channeler]]'
+flags: no-trade
+stats:
+  str: +3,186
+  sta: +5,465
+  health: +265,374
+  power: +166,770
+  maxhealth: '291.7'
+  mit: '483'
+  critbonus: 1,274.8
+  potency: 34,638.2
+  resolve: '455'
+  dtype: Leather Armor
+obtained_from: '[[Storm''s A Brewin'']]'
+item_link: \aITEM 1472779299 460365002:Reflected Gauntlets of Malleability\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Hands (Inventory Slot)
+- Leather Armor (Equipment Type)
+- Legendary Equipment
+- Max Health (Equipment)
+- Monk Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Tier 13 Equipment
+- Warden Equipment
+source:
+  title: Reflected Gauntlets of Malleability
+  url: https://eq2.fandom.com/wiki/Reflected_Gauntlets_of_Malleability
+  history: https://eq2.fandom.com/wiki/Reflected_Gauntlets_of_Malleability?action=history
+  revision: 1794616
+  revised: '2024-05-02T18:50:29Z'
+  license: CC BY-SA 3.0
+expansion: Ballads of Zimara
+expansion_source: source
+---
+
+

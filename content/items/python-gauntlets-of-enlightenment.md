@@ -1,0 +1,60 @@
+---
+title: Python Gauntlets of Enlightenment
+type: item
+item_kind: Equipment
+icon: images/Item_226.png
+tier: Fabled
+level: '120'
+slot: Hands
+flags: attunable heirloom infusable
+stats:
+  str: +1,315
+  sta: +2,705
+  health: +255,466
+  power: +40,481
+  mit: '925'
+  potency: 2,009.1
+  resolve: '170'
+  aspeed: '372.4'
+  cbovercap: '+119.1'
+  dtype: Plate Armor
+obtained_from: '*From [[Python Scale Hand Pattern of Enlightenment (heirloom)|Python Scale Hand Pattern of Enlightenment]] *Made from [[Python Scale Hand Pattern of Enlightenment (no-trade)|Python Scale Hand Pattern of Enlightenment]]'
+item_link: \aITEM 412347619 -723366192:Python Gauntlets of Enlightenment\/a
+aliases:
+- Python Plate Gauntlets of Enlightenment
+categories:
+- Attack Speed (Equipment)
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- Hands (Inventory Slot)
+- Inquisitor Equipment
+- Item obtained from a Crate
+- Item obtained from a Pattern
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Reuse Speed (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Warrior Equipment
+source:
+  title: Python Gauntlets of Enlightenment
+  url: https://eq2.fandom.com/wiki/Python_Gauntlets_of_Enlightenment
+  history: https://eq2.fandom.com/wiki/Python_Gauntlets_of_Enlightenment?action=history
+  revision: 1675759
+  revised: '2023-03-15T23:24:38Z'
+  license: CC BY-SA 3.0
+expansion: Blood of Luclin
+expansion_source: level
+---
+
+

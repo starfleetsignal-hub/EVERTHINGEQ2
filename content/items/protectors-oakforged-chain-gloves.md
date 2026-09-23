@@ -1,0 +1,58 @@
+---
+title: Protector's Oakforged Chain Gloves
+type: item
+item_kind: Equipment
+icon: images/Item_3286.png
+tier: Fabled
+level: '125'
+slot: Hands
+flags: attunable heirloom
+stats:
+  sta: +5,466
+  agi: +3,185
+  health: +263,673
+  power: +165,701
+  maxhealth: '296.4'
+  mit: '616'
+  critbonus: 1,274.2
+  potency: 33,619.8
+  resolve: '445'
+  dtype: Chain Armor
+item_link: \aITEM -406082082 822204521:Protector's Oakforged Chain Gloves\/a
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Crit Bonus (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Hands (Inventory Slot)
+- Max Health (Equipment)
+- Mystic Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+source:
+  title: Protector's Oakforged Chain Gloves
+  url: https://eq2.fandom.com/wiki/Protector's_Oakforged_Chain_Gloves
+  history: https://eq2.fandom.com/wiki/Protector's_Oakforged_Chain_Gloves?action=history
+  revision: 1730749
+  revised: '2023-07-11T17:38:23Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

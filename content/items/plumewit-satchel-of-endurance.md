@@ -1,0 +1,74 @@
+---
+title: Plumewit Satchel of Endurance
+type: item
+item_kind: Equipment
+icon: images/Item_2146.png
+tier: Handcrafted
+level: '100'
+slot: Ranged
+flags: attunable infusable
+stats:
+  sta: +1,268
+  agi: '+735'
+  health: +13,932
+  power: +4,176
+  crit: '283'
+  critbonus: '147.7'
+  potency: '201'
+  resolve: '15'
+  aspeed: '93.1'
+  mitinc: '23.4'
+  dmg: 572 - 1716
+  delay: '8.0'
+  drating: '286.01'
+  range: 2 - 35
+  dtype: ranged
+  wtype: Thrown Weapon
+effects: '**Devastation Strike**'
+obtained_from: Crafted by [[Tailor]] (level 107) from [[Tailor Essentials Volume 107]]
+item_link: \aITEM 1340654467 1416250531:Plumewit Satchel of Endurance\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Devastation Strike (Equipment)
+- Dirge Equipment
+- Equipment
+- Guardian Equipment
+- Handcrafted Equipment
+- Mitigation Increase (Equipment)
+- Monk Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Ranger Equipment
+- Resolve (Equipment)
+- Rogue Equipment
+- Scout Equipment
+- Swashbuckler Equipment
+- Thrown Weapon (Weapon Type)
+- Tier 11 Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Plumewit Satchel of Endurance
+  url: https://eq2.fandom.com/wiki/Plumewit_Satchel_of_Endurance
+  history: https://eq2.fandom.com/wiki/Plumewit_Satchel_of_Endurance?action=history
+  revision: 1902528
+  revised: '2025-09-18T21:35:51Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

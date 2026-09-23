@@ -1,0 +1,54 @@
+---
+title: Resilient Corilac Plate Shoes
+type: item
+item_kind: Equipment
+icon: images/Item_4131.png
+tier: Fabled
+level: '124'
+slot: Feet
+flags: attunable heirloom
+stats:
+  str: +2,702
+  sta: +5,099
+  health: +175,659
+  power: +110,389
+  mit: '1015'
+  potency: 15,948.7
+  resolve: '310'
+  abmod: +151,771
+  cbovercap: '+993'
+  dtype: Plate Armor
+item_link: \aITEM 644815437 -34462286:Resilient Corilac Plate Shoes\/a
+categories:
+- Ability Modifier (Equipment)
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Crit Bonus Overcap (Equipment)
+- Crusader Equipment
+- Equipment
+- Fabled Equipment
+- Feet (Inventory Slot)
+- Guardian Equipment
+- Inquisitor Equipment
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Warrior Equipment
+source:
+  title: Resilient Corilac Plate Shoes
+  url: https://eq2.fandom.com/wiki/Resilient_Corilac_Plate_Shoes
+  history: https://eq2.fandom.com/wiki/Resilient_Corilac_Plate_Shoes?action=history
+  revision: 1676870
+  revised: '2023-03-15T23:50:20Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

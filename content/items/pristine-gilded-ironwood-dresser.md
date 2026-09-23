@@ -1,0 +1,31 @@
+---
+title: Pristine gilded ironwood dresser
+type: item
+item_kind: House Item
+item_subtype: Dresser
+icon: images/Item_653.png
+tier: Mastercrafted
+item_level: '50'
+description: This item can be placed in any house type.
+obtained_from: '*Crafted by [[Carpenter]] (level 59) from [[Advanced Carpenter Volume 59 (Heirloom)]] *Crafted by [[Carpenter]] (level 59) from [[Advanced Carpenter Volume 59 (Normal)]]'
+item_link: \aITEM -2145203135 88051062:pristine gilded ironwood dresser\/a
+categories:
+- Census Credits
+- Dresser (Item Subtype)
+- House Item (Item Type)
+- Items
+- Items with Rent Status Reduction
+- Mastercrafted Items
+- Tier 6 RSR Items
+source:
+  title: Pristine gilded ironwood dresser
+  url: https://eq2.fandom.com/wiki/Pristine_gilded_ironwood_dresser
+  history: https://eq2.fandom.com/wiki/Pristine_gilded_ironwood_dresser?action=history
+  revision: 1923009
+  revised: '2025-12-29T05:13:20Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

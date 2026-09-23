@@ -1,0 +1,67 @@
+---
+title: Quellithulian Assassin's Boots
+type: item
+item_kind: Equipment
+icon: images/Item_1412.png
+tier: Treasured
+level: '60'
+slot: Feet
+flags: lore attunable
+stats:
+  str: '+30'
+  sta: '+30'
+  mit: '262'
+  crit: '1'
+  critbonus: '0.3'
+  potency: '1.6'
+  aspeed: '2.2'
+  dtype: Chain Armor
+item_link: \aITEM 1798889462 -1634347449:Quellithulian Assassin's Boots\/a
+categories:
+- Assassin Equipment
+- Attack Speed (Equipment)
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Census Credits
+- Chain Armor (Equipment Type)
+- Cleric Equipment
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Equipment
+- Equipment pages with existing default images
+- Feet (Inventory Slot)
+- Guardian Equipment
+- Inquisitor Equipment
+- Mystic Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Scout Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 7 Equipment
+- Treasured Equipment
+- Troubador Equipment
+- Warrior Equipment
+source:
+  title: Quellithulian Assassin's Boots
+  url: https://eq2.fandom.com/wiki/Quellithulian_Assassin's_Boots
+  history: https://eq2.fandom.com/wiki/Quellithulian_Assassin's_Boots?action=history
+  revision: 1604969
+  revised: '2022-12-09T18:47:44Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

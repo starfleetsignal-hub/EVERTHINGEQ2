@@ -1,0 +1,48 @@
+---
+title: Reworked Blood Iron Tyrant's Headwrap
+type: item
+item_kind: Equipment
+icon: images/Item_1443.png
+tier: Fabled
+level: '100'
+slot: Head
+flags: attunable heirloom infusable
+stats:
+  str: '+519'
+  sta: +1,679
+  maxhealth: '15.9'
+  mit: '719'
+  critbonus: '79.3'
+  potency: '96.25'
+  resolve: '5'
+  dtype: Leather Armor
+obtained_from: 'Crafted by [[Tailor]] (level 100) from [[Scourge Tailor Plans: Blood Iron Headwraps]]'
+item_link: \aITEM -1781749972 -1495403125:Reworked Blood Iron Tyrant's Headwrap\/a
+categories:
+- AE Autoattack Chance (Equipment)
+- Block Chance (Equipment)
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Crit Bonus (Equipment)
+- Equipment
+- Fabled Equipment
+- Head (Inventory Slot)
+- Leather Armor (Equipment Type)
+- Max Health (Equipment)
+- Monk Equipment
+- Potency (Equipment)
+- Resolve (Equipment)
+- Tier 11 Equipment
+source:
+  title: Reworked Blood Iron Tyrant's Headwrap
+  url: https://eq2.fandom.com/wiki/Reworked_Blood_Iron_Tyrant's_Headwrap
+  history: https://eq2.fandom.com/wiki/Reworked_Blood_Iron_Tyrant's_Headwrap?action=history
+  revision: 2006257
+  revised: '2026-05-17T14:18:10Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

@@ -1,0 +1,22 @@
+---
+title: Rawhide leather pelt (no-value) (Version 2)
+type: item
+icon: images/Item_125.png
+item_level: '0'
+flags: no-value
+item_link: \aITEM -1390062701 446323017:rawhide leather pelt\/a
+image: images/Rawhide_leather_pelt.png
+categories:
+- Census Credits
+- Item pages with existing iname images
+- Items
+source:
+  title: Rawhide leather pelt (no-value) (Version 2)
+  url: https://eq2.fandom.com/wiki/Rawhide_leather_pelt_(no-value)_(Version_2)
+  history: https://eq2.fandom.com/wiki/Rawhide_leather_pelt_(no-value)_(Version_2)?action=history
+  revision: 1797189
+  revised: '2024-05-03T11:43:22Z'
+  license: CC BY-SA 3.0
+---
+
+
