@@ -2,6 +2,7 @@
 title: Fribles's Fate (Kelethin)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Greater Faydark]]'

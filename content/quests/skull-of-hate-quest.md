@@ -2,6 +2,7 @@
 title: Skull of Hate (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

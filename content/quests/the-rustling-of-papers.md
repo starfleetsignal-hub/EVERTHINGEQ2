@@ -2,6 +2,7 @@
 title: The Rustling of Papers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '48'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -2,6 +2,7 @@
 title: On Cue, Sang'Huuu (Solo)
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '136'
 difficulty: Solo
 zone: '[[Splendor Sky Aerie]]'

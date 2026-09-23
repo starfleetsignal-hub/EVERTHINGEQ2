@@ -2,6 +2,7 @@
 title: Cleft Scouting
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 difficulty: Solo
 zone: '[[The Court of the Blades]]'

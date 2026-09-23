@@ -2,6 +2,7 @@
 title: The Final Request
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '44'
 difficulty: Heroic
 zone: '[[The Tower of the Drafling]]'

@@ -2,6 +2,7 @@
 title: A Ring's Calling
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '17'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

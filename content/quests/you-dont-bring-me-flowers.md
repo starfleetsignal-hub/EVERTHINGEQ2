@@ -2,6 +2,7 @@
 title: You Don't Bring Me Flowers
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Darklight Wood]]'

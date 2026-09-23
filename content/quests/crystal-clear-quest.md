@@ -2,6 +2,7 @@
 title: Crystal Clear (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

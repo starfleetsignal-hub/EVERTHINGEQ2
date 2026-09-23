@@ -2,6 +2,7 @@
 title: Wine for the Lady (Freeport)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Greater Faydark]]'

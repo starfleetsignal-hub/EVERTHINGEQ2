@@ -2,6 +2,7 @@
 title: Seeking an Ancient Clue
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '53'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Redbeard Sentinels'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '61'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: The Bathezid Barracks
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '79'
 difficulty: Heroic
 zone: '[[Kylong Plains]]'

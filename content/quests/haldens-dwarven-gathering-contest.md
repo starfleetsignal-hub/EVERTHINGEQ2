@@ -2,6 +2,7 @@
 title: Halden's Dwarven Gathering Contest
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

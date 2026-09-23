@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Pirates'' Plot'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Tranquil Sea]]'

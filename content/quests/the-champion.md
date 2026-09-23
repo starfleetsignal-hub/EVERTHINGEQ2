@@ -2,6 +2,7 @@
 title: The Champion
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

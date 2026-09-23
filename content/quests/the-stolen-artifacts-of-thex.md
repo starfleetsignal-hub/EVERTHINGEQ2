@@ -2,6 +2,7 @@
 title: The Stolen Artifacts of Thex
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '10'
 difficulty: Solo
 zone: '[[Longshadow Alley]]'

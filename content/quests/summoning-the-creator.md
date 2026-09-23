@@ -2,6 +2,7 @@
 title: Summoning the Creator
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '44'
 zone: '[[The Obelisk of Lost Souls]]'
 timeline: '[[The Obelisk of Lost Souls Timeline]]'

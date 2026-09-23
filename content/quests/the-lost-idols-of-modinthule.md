@@ -2,6 +2,7 @@
 title: The Lost Idols of Modinthule
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '46'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

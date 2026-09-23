@@ -1,7 +1,8 @@
 ---
 title: Memories of Misty Thicket (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '39'
 zone: '[[The Elddar Grove]]'
 timeline: '[[Runnyeye Timeline]]'

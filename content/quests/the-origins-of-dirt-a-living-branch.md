@@ -2,6 +2,7 @@
 title: 'The Origins of Dirt: A Living Branch'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Detroxxulous, the Plaguelands]]'

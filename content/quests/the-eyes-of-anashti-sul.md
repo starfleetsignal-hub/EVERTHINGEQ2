@@ -2,6 +2,7 @@
 title: The Eyes of Anashti Sul
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Heroic
 zone: '[[The Silent City]]'

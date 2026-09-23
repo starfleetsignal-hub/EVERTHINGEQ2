@@ -2,6 +2,7 @@
 title: 'The Scrivener''s Tale: Rockin'' n Knockin'''
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Vegarlson, the Earthen Badlands]]'

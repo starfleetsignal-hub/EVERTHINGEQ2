@@ -2,6 +2,7 @@
 title: More Power
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '3'
 zone: '[[Temple Street]]'
 timeline: '[[Freeport Racial Timeline]]'

@@ -2,6 +2,7 @@
 title: Vanishing Rewards
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '62'
 zone: '[[Sanctum of the Scaleborn]]'
 timeline: '[[Claymore Timeline]]'

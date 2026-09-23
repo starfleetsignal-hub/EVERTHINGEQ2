@@ -2,6 +2,7 @@
 title: The Terrok Strongbox
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[Kaladim]]'

@@ -2,6 +2,7 @@
 title: 'Celestial Watch: Durus Decapitators'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '79'
 zone: '[[Kylong Plains]]'
 journal_category: City Tasks

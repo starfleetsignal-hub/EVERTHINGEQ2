@@ -2,6 +2,7 @@
 title: Under a Shady Tree
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[Antonica]]'

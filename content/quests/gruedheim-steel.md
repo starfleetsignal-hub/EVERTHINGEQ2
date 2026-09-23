@@ -2,6 +2,7 @@
 title: Gruedheim Steel
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '30'
 difficulty: Heroic
 zone: '[[Crushbone Keep]]'

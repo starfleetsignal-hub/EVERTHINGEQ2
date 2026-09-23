@@ -2,6 +2,7 @@
 title: Peace of Mind, Peace of Body
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '35'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Deity Timeline]]'

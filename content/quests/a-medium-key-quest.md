@@ -2,6 +2,7 @@
 title: A medium key (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Cove of Decay: A Treaty for Treasure]]'
 journal_category: Thundering Steppes

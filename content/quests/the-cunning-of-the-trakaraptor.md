@@ -2,6 +2,7 @@
 title: The Cunning of the Trakaraptor
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 zone: '[[Fens of Nathsar]]'
 timeline: '[[Fury Epic Weapon Timeline]]'

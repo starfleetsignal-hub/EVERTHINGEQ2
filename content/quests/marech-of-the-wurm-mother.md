@@ -2,6 +2,7 @@
 title: Marech of the Wurm Mother
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Vesspyr Isles]]'

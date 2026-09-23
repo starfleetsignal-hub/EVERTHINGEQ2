@@ -2,6 +2,7 @@
 title: 'Court of Truth: In the Name of Love'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '51'
 difficulty: Solo
 zone: '[[The Court of Truth]]'

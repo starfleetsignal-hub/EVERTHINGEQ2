@@ -2,6 +2,7 @@
 title: Errand of Destiny
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '13'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

@@ -2,6 +2,7 @@
 title: Dem Bones, Dem Bones Gonna Walk Aroun'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '65'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

@@ -2,6 +2,7 @@
 title: Halasian Hangover
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '60'
 zone: '[[*]]'
 timeline: '[[Shipwrecked Timeline]]'

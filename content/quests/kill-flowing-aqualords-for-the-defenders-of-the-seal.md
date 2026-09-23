@@ -2,6 +2,7 @@
 title: Kill Flowing Aqualords for the Defenders of the Seal
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Heroic
 zone: '[[The Hole]]'

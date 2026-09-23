@@ -2,6 +2,7 @@
 title: Report to the Primary
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '3'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

@@ -2,6 +2,7 @@
 title: The Gauntlet of al-Azhar
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

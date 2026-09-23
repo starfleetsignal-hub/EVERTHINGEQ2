@@ -2,6 +2,7 @@
 title: The Woe of the Travelers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Thundering Steppes Timeline]]'

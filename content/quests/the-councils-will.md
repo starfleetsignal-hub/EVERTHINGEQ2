@@ -2,6 +2,7 @@
 title: The Council's Will
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 difficulty: Heroic
 zone: '[[The Feerrott]]'

@@ -2,6 +2,7 @@
 title: Our Fallen
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '13'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

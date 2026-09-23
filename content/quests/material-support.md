@@ -1,7 +1,8 @@
 ---
 title: Material Support
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: chain
 level: '35'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

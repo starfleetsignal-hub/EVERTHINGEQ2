@@ -2,6 +2,7 @@
 title: A Living Rage (Heroic)
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '143'
 difficulty: Heroic
 zone: '[[*]]'

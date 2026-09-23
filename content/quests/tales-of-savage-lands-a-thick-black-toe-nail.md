@@ -2,6 +2,7 @@
 title: 'Tales of Savage Lands: A Thick Black Toe Nail'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

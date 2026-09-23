@@ -1,7 +1,8 @@
 ---
 title: Getting to Know Poko
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '5'
 zone: '[[The Baubbleshire]]'
 timeline: '[[Qeynos Racial Timeline]]'

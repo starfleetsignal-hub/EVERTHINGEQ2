@@ -2,6 +2,7 @@
 title: Pressing Your Luck In Upper Guk
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Heroic
 zone: '[[Moors of Ykesha]]'

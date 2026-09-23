@@ -1,7 +1,8 @@
 ---
 title: Unhappily Ever After
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '90'
 difficulty: Heroic
 zone: '[[Tower of Frozen Shadow: Umbral Halls]]'

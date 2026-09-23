@@ -1,7 +1,8 @@
 ---
 title: Lingwal's Orders
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '90'
 difficulty: solo
 zone: '[[Hold of Rime: The Fortress Spire]]'

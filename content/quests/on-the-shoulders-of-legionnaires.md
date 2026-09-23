@@ -2,6 +2,7 @@
 title: On the Shoulders of Legionnaires
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '28'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

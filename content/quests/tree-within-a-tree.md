@@ -2,6 +2,7 @@
 title: Tree within a Tree
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

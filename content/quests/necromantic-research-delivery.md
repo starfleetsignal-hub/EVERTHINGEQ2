@@ -2,6 +2,7 @@
 title: Necromantic Research - Delivery
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 difficulty: solo
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: Beacon of Courage
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '35'
 zone: '[[Greater Faydark]]'
 timeline: '[[Deity Timeline]]'

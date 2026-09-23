@@ -2,6 +2,7 @@
 title: Snakes, He Hates Snakes
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '38'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

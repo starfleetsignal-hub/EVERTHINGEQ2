@@ -2,6 +2,7 @@
 title: Far Seas Requisition - WC 002 (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 zone: '[[The Commonlands]]'
 timeline: '[[Wailing Caves Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: A Citizen's Request
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '10'
 zone: '[[Oakmyst Forest]]'
 timeline: '[[Qeynos Outlying Areas Timeline]]'

@@ -2,6 +2,7 @@
 title: Delving Into the Depths (Heroic)
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Vesspyr Isles]]'

@@ -2,6 +2,7 @@
 title: Progress Check
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '18'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

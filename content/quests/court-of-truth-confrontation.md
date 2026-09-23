@@ -2,6 +2,7 @@
 title: 'Court of Truth: Confrontation'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[The Court of Truth]]'

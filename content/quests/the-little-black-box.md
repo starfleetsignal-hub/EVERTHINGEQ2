@@ -2,6 +2,7 @@
 title: The Little Black Box
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '42'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

@@ -2,6 +2,7 @@
 title: Krok's Pot (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '40'
 journal_category: Feerrott
 in_game_name: Krok's Pot

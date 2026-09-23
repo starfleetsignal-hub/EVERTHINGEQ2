@@ -2,6 +2,7 @@
 title: Trust Must Be Earned, Part 2
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

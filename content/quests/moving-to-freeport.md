@@ -1,7 +1,8 @@
 ---
 title: Moving to Freeport
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: chain
 level: Scales
 difficulty: Solo
 zone: '[[Neriak, City of Hate]]'

@@ -2,6 +2,7 @@
 title: The Weak
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

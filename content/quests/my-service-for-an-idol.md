@@ -2,6 +2,7 @@
 title: My Service for an Idol
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '47'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

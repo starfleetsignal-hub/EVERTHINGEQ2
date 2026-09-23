@@ -2,6 +2,7 @@
 title: Nothing Subtle About It
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 difficulty: Solo
 zone: '[[Plane of Magic]]'

@@ -2,6 +2,7 @@
 title: Only Way Out
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '92'
 difficulty: Solo
 zone: '[[The Eidolon Jungle]]'

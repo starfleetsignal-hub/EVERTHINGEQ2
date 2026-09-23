@@ -2,6 +2,7 @@
 title: The Ragebourne Identity
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '96'
 difficulty: Heroic
 zone: '[[Kael Drakkel]]'

@@ -2,6 +2,7 @@
 title: Scaled Salutations
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 zone: '[[Palace of the Awakened]]'
 timeline: '[[Claymore Timeline]]'

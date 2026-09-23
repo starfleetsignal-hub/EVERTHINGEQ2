@@ -2,6 +2,7 @@
 title: Guard N'Garen's Unrest with Safiya
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 difficulty: Solo
 zone: '[[The Commonlands]]'

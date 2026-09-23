@@ -2,6 +2,7 @@
 title: Smelly Ore for Toadie
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 zone: '[[Maldura]]'
 timeline: '[[Terrors of Thalumbra Timeline]]'

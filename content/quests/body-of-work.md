@@ -2,6 +2,7 @@
 title: Body of Work
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '102'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

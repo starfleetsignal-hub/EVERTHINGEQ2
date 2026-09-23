@@ -2,6 +2,7 @@
 title: 'Court of Truth: Brush with Celebrity'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '54'
 difficulty: Heroic
 zone: '[[The Court of Truth]]'

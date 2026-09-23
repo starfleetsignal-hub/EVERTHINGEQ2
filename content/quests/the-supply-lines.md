@@ -2,6 +2,7 @@
 title: The Supply Lines
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '14'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

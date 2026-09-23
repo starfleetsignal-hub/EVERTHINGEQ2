@@ -1,7 +1,8 @@
 ---
 title: The Next World
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: Scales
 zone: '[[The House of Endings]]'
 timeline: '[[The City of Qeynos Timeline]]'

@@ -2,6 +2,7 @@
 title: The Air Necessities
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Eryslai, the Kingdom of Wind]]'

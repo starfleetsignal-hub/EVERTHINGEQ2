@@ -2,6 +2,7 @@
 title: Creepy Lake Spirits
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 difficulty: Heroic
 zone: '[[Zek, the Orcish Wastes]]'

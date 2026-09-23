@@ -2,6 +2,7 @@
 title: Cracking the Case
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Takish Badlands]]'

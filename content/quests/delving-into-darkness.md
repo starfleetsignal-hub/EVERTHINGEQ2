@@ -2,6 +2,7 @@
 title: Delving into Darkness
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '51'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

@@ -2,6 +2,7 @@
 title: Varski, Part I
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '21'
 difficulty: Solo
 zone: '[[West Freeport]]'

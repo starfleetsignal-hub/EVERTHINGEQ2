@@ -2,6 +2,7 @@
 title: Cure the Affliction
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[Befallen: Cavern of the Afflicted (Agnostic)]]'

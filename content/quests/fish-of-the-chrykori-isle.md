@@ -2,6 +2,7 @@
 title: Fish of the Chrykori Isle
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '3'
 zone: '[[Timorous Deep]]'
 timeline: '[[Timorous Deep Timeline]]'

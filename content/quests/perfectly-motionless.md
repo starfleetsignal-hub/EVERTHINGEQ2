@@ -2,6 +2,7 @@
 title: Perfectly Motionless
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '46'
 difficulty: Solo
 zone: '[[North Freeport]]'

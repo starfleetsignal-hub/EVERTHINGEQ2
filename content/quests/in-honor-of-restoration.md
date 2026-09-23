@@ -2,6 +2,7 @@
 title: In Honor of Restoration
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '84'
 difficulty: Heroic
 zone: '[[Kylong Plains]]'

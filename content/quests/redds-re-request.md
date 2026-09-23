@@ -2,6 +2,7 @@
 title: Redd's Re-request
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Redd''s Abode: House Crashers]]'

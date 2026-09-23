@@ -2,6 +2,7 @@
 title: 'Legend Hunting: Echoes of Faydwer'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Great Divide]]'

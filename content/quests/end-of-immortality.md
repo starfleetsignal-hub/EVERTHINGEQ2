@@ -1,7 +1,8 @@
 ---
 title: End of Immortality
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: level
 level: '96'
 difficulty: Heroic
 zone: '[[Outer Kael]]'

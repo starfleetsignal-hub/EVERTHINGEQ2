@@ -2,6 +2,7 @@
 title: 'Midst Mission: Den of Shadows (Solo)'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 difficulty: Heroic
 zone: '[[City of Fordel Midst]]'

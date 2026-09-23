@@ -2,6 +2,7 @@
 title: 'The Shadow Odyssey, Chapter 2: The Gods Must Be Crazy'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: heroic
 zone: '[[Moors of Ykesha]]'

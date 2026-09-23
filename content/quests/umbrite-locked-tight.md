@@ -2,6 +2,7 @@
 title: Umbrite Locked Tight
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Maldura]]'

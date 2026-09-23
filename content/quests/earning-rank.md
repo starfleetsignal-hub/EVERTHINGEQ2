@@ -2,6 +2,7 @@
 title: Earning Rank
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Heroic
 zone: '[[The Court of Truth]]'

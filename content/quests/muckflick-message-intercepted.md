@@ -2,6 +2,7 @@
 title: Muckflick Message Intercepted!
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '22'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

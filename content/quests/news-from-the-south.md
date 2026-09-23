@@ -2,6 +2,7 @@
 title: News from the South
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '9'
 zone: '[[Greater Faydark]]'
 journal_category: Greater Faydark

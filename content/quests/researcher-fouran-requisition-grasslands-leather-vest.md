@@ -2,6 +2,7 @@
 title: 'Researcher Fouran: Requisition - Grasslands Leather Vest'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Yon Gorroth]]'

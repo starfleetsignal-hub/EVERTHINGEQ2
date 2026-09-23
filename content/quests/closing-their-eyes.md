@@ -1,7 +1,8 @@
 ---
 title: Closing Their Eyes
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '90'
 difficulty: Solo
 zone: '[[Thurgadin, City of the Coldain]]'

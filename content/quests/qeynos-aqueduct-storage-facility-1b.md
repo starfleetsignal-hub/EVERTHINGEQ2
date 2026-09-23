@@ -2,6 +2,7 @@
 title: Qeynos Aqueduct Storage Facility 1B
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 zone: '[[Antonica]]'
 journal_category: Antonica

@@ -1,7 +1,8 @@
 ---
 title: Worrisome Rumors
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '84'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

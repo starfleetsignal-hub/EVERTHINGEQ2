@@ -2,6 +2,7 @@
 title: Illuminate the Sootfoot
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 difficulty: Solo
 zone: '[[North Freeport]]'

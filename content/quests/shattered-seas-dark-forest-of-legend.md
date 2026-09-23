@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Dark Forest of Legend'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '102'
 difficulty: Heroic
 zone: '[[Phantom Sea]]'

@@ -2,6 +2,7 @@
 title: 'New Halas: Krait Patriarchs'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '87'
 difficulty: Solo
 zone: '[[Thurgadin, City of the Coldain]]'

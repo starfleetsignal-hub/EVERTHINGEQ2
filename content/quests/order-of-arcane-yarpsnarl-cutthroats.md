@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Yarpsnarl Cutthroats'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '34'
 difficulty: solo
 zone: '[[Greater Faydark]]'

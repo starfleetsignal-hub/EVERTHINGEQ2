@@ -2,6 +2,7 @@
 title: Every One Counts
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 zone: '[[Maj''Dul]]'
 timeline: '[[Maj''Dul Timeline]]'

@@ -2,6 +2,7 @@
 title: Once upon a Plague
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 difficulty: Heroic
 zone: '[[Rivervale]]'

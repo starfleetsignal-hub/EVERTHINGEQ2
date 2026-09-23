@@ -2,6 +2,7 @@
 title: Further Fame and Fortune
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '30'
 difficulty: solo
 zone: '[[Butcherblock Mountains]]'

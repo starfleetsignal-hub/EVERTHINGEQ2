@@ -2,6 +2,7 @@
 title: Black Horn Ring
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '37'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

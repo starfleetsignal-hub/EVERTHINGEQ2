@@ -1,7 +1,8 @@
 ---
 title: Restocking Bog Faerie Wings
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '7'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

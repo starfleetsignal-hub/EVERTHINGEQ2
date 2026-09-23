@@ -2,6 +2,7 @@
 title: Karana Celebration Research Investigation - Vol 165
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Enchanted Lands]]'

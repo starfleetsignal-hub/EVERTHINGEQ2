@@ -2,6 +2,7 @@
 title: Safety for Travelers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '24'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Thundering Steppes Timeline]]'

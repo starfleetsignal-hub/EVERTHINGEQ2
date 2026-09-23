@@ -2,6 +2,7 @@
 title: Misery Unchained
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '41'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

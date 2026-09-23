@@ -2,6 +2,7 @@
 title: 'Of Duty and Fate: My Brother''s Keeper (Quest)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Splendor Sky Aerie]]'
 timeline: '[[Of Duty and Fate Timeline]]'

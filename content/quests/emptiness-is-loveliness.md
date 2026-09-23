@@ -2,6 +2,7 @@
 title: Emptiness is Loveliness
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '31'
 difficulty: Solo
 zone: '[[North Freeport]]'

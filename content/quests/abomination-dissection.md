@@ -2,6 +2,7 @@
 title: Abomination Dissection
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

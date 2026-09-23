@@ -2,6 +2,7 @@
 title: 'The Tenets of Cthurath: Oogothl Omens (Quest)'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '135'
 difficulty: Solo
 zone: '[[Oogothl Sprawl]]'

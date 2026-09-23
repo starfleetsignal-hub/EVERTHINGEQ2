@@ -2,6 +2,7 @@
 title: 'Aether Racing: Greater Faydark'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Greater Faydark]]'

@@ -2,6 +2,7 @@
 title: 'The Scrivener''s Tale: A Bee in Need, A Bee Indeed'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Eryslai, the Kingdom of Wind]]'

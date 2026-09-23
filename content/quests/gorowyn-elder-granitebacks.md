@@ -2,6 +2,7 @@
 title: 'Gorowyn: Elder Granitebacks'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '27'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

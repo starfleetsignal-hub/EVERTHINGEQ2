@@ -2,6 +2,7 @@
 title: 'Rage of Cthurath: Distant Wastes and Dark Places'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '135'
 difficulty: Heroic
 zone: '[[Yon Gorroth]]'

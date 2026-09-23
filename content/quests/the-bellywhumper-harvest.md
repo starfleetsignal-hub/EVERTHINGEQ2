@@ -2,6 +2,7 @@
 title: The Bellywhumper Harvest
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '74'
 zone: '[[Fens of Nathsar]]'
 timeline: '[[Fens of Nathsar Timeline]]'

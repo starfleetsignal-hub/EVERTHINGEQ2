@@ -2,6 +2,7 @@
 title: Hiding From Deinodons
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

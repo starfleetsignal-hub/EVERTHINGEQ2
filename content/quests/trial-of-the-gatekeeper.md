@@ -2,6 +2,7 @@
 title: Trial of the Gatekeeper
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '60'
 zone: '[[Timorous Deep]]'
 timeline: '[[Deity Timeline]]'

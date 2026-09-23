@@ -2,6 +2,7 @@
 title: Shadowed Heart Signet (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 zone: '[[Fallen Gate]]'
 timeline: '[[Fallen Gate Timeline]]'

@@ -2,6 +2,7 @@
 title: Sullon Orc Tongues
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '37'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Deity Timeline]]'

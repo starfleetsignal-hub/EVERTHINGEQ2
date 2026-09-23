@@ -2,6 +2,7 @@
 title: Isolation Through Immolation
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '33'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

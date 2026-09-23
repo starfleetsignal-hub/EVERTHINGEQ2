@@ -2,6 +2,7 @@
 title: Scorched Skeletons
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Heroic
 zone: '[[Stormhold]]'

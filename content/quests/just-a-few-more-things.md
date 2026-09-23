@@ -2,6 +2,7 @@
 title: Just a Few More Things...
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Takish Badlands]]'

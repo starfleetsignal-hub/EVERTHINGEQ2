@@ -1,7 +1,8 @@
 ---
 title: Burn the Bonecallers
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '45'
 difficulty: Solo
 zone: '[[Lavastorm]]'

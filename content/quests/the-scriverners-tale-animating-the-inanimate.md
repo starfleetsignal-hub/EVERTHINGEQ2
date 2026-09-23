@@ -2,6 +2,7 @@
 title: 'The Scriverner''s Tale: Animating the Inanimate'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Myrist, the Great Library]]'

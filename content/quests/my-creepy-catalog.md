@@ -2,6 +2,7 @@
 title: My Creepy Catalog
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[*]]'
 timeline: '[[Creature Cataloging Timeline]]'

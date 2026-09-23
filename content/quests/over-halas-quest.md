@@ -2,6 +2,7 @@
 title: Over Halas (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '42'
 zone: '[[Everfrost]]'
 timeline: '[[Book Quests Timeline]]'

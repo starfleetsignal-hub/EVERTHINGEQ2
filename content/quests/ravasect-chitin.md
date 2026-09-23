@@ -2,6 +2,7 @@
 title: Ravasect Chitin
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '61'
 zone: '[[South Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

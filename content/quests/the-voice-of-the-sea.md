@@ -2,6 +2,7 @@
 title: The Voice of the Sea
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[Kylong Plains]]'

@@ -1,7 +1,8 @@
 ---
 title: 'Of Fire and Ice: The Sorcerer-Astronomer'
 type: quest
-expansion: Echoes of Faydwer
+expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Solo
 zone: '[[New Tunaria]]'

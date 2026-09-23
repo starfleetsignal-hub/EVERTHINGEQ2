@@ -2,6 +2,7 @@
 title: '"The Age of Scale" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '46'
 zone: '[[*]]'
 timeline: '[[Permafrost Timeline]]'

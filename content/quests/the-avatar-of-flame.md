@@ -2,6 +2,7 @@
 title: The Avatar of Flame
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '75'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

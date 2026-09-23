@@ -2,6 +2,7 @@
 title: High Risks, Higher Profits - Part 2
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '75'
 difficulty: solo
 zone: '[[Jarsath Wastes]]'

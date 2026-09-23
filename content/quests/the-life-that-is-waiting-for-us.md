@@ -2,6 +2,7 @@
 title: The Life that is Waiting for Us
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Heroic
 zone: '[[Fens of Nathsar]]'

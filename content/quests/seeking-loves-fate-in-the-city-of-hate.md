@@ -2,6 +2,7 @@
 title: Seeking Love's Fate in the City of Hate
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

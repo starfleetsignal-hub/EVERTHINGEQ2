@@ -2,6 +2,7 @@
 title: Bristlebane Celebration Research Investigation - Vol 35
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Rivervale]]'

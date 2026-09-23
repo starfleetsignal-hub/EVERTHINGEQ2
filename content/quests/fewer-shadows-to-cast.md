@@ -2,6 +2,7 @@
 title: Fewer Shadows To Cast
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '113'
 difficulty: Solo
 zone: '[[The Blinding]]'

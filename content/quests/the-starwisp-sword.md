@@ -2,6 +2,7 @@
 title: The Starwisp Sword
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 difficulty: Solo
 journal_category: Antonica

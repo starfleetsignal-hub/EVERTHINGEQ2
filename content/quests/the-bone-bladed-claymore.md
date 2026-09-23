@@ -2,6 +2,7 @@
 title: The Bone Bladed Claymore
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 difficulty: Heroic
 zone: '[[Stormhold]]'

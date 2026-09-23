@@ -2,6 +2,7 @@
 title: Helping Holly Rowan
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Thundering Steppes Timeline]]'

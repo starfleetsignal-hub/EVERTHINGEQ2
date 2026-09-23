@@ -2,6 +2,7 @@
 title: 'Seafury Buccaneers: Sporconid Eyesores'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '76'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

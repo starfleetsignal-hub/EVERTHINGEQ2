@@ -2,6 +2,7 @@
 title: Holier than Thou
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '64'
 difficulty: Heroic
 zone: '[[North Qeynos]]'

@@ -2,6 +2,7 @@
 title: Swim With the Fishes
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '105'
 difficulty: Solo
 zone: '[[*]]'

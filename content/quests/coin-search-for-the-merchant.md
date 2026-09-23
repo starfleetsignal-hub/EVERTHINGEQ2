@@ -2,6 +2,7 @@
 title: 'Coin: Search for the Merchant'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '48'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Court of the Coin Timeline]]'

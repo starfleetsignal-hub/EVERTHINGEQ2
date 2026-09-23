@@ -2,6 +2,7 @@
 title: 'Plane of Disease: Outbreak'
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '117'
 difficulty: Heroic
 zone: '[[Coliseum of Valor]]'

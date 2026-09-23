@@ -2,6 +2,7 @@
 title: 'Dramatis Personae: Eryslai, the Kingdom of Wind'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '117'
 difficulty: Solo
 zone: '[[Myrist, the Great Library]]'

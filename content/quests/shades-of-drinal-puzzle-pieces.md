@@ -2,6 +2,7 @@
 title: 'Shades of Drinal: Puzzle Pieces'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '96'
 difficulty: Solo
 zone: '[[The Eidolon Jungle]]'

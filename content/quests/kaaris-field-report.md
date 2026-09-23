@@ -2,6 +2,7 @@
 title: Kaari's Field Report
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '52'
 zone: '[[The Lesser Faydark]]'
 timeline: '[[Lesser Faydark Timeline]]'

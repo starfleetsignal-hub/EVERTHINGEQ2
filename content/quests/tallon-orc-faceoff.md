@@ -2,6 +2,7 @@
 title: Tallon Orc Faceoff
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '35'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Deity Timeline]]'

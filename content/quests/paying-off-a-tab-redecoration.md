@@ -25,6 +25,8 @@ source:
   revision: 1117478
   revised: '2020-08-31T10:30:00Z'
   license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: patch
 ---
 
 ## Notes

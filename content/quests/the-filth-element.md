@@ -2,6 +2,7 @@
 title: The Filth Element
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Detroxxulous, the Plaguelands]]'

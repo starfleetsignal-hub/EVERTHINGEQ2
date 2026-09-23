@@ -2,6 +2,7 @@
 title: Pools of Blood (Quest)
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '107'
 difficulty: Heroic
 zone: '[[*]]'

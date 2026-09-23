@@ -1,7 +1,8 @@
 ---
 title: Gathering Rock Samples
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '13'
 zone: '[[The Caves]]'
 timeline: '[[Qeynos Outlying Areas Timeline]]'

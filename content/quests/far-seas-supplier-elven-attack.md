@@ -2,6 +2,7 @@
 title: Far Seas Supplier - Elven Attack
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '34'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

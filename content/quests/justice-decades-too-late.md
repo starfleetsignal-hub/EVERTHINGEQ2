@@ -2,6 +2,7 @@
 title: Justice, Decades Too Late
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Enchanted Lands]]'
 starts: examine [[An Old Broach]]

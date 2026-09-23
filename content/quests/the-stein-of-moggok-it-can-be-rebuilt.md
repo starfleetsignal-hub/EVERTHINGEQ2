@@ -2,6 +2,7 @@
 title: 'The Stein of Moggok: It Can Be Rebuilt...'
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '40'
 difficulty: Heroic
 zone: '[[The City of Freeport]]'

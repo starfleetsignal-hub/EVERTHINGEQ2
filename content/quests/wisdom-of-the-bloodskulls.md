@@ -2,6 +2,7 @@
 title: Wisdom Of The Bloodskulls
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

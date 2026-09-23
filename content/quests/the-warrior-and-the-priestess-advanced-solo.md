@@ -2,6 +2,7 @@
 title: The Warrior and the Priestess (Advanced Solo)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '106'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

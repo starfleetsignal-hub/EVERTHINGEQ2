@@ -2,6 +2,7 @@
 title: Scuttle The Man-O-War
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '33'
 difficulty: Heroic
 zone: '[[North Freeport]]'

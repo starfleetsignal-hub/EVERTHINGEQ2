@@ -2,6 +2,7 @@
 title: Reverence for Life
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: solo
 zone: '[[Great Divide]]'

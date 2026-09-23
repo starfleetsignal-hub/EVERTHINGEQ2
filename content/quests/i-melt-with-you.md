@@ -2,6 +2,7 @@
 title: I Melt With You
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Great Divide]]'

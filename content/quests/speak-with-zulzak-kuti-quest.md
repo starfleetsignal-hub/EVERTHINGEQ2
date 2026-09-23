@@ -1,7 +1,8 @@
 ---
 title: Speak with Zulzak Ku'ti (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '70'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: 'The Scrivener''s Tale: Copper for a Tale'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Myrist, the Great Library]]'

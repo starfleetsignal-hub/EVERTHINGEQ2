@@ -2,6 +2,7 @@
 title: A Bone to Grind
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '81'
 difficulty: Heroic
 zone: '[[Befallen: Cavern of the Afflicted]]'

@@ -2,6 +2,7 @@
 title: A Thief in the House of Truth
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '49'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

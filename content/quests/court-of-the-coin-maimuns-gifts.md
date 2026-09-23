@@ -2,6 +2,7 @@
 title: 'Court of the Coin: Maimun''s Gifts'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '51'
 difficulty: Heroic
 zone: '[[The Court of the Coin]]'

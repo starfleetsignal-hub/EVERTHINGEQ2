@@ -2,6 +2,7 @@
 title: 'Ley of the Land: Remembrance of the Lost Haven'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 difficulty: Epic
 zone: '[[Fordel Midst: Remembrance (Raid)]]'

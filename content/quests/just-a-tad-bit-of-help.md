@@ -1,7 +1,8 @@
 ---
 title: Just a Tad Bit of Help
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '5'
 difficulty: Solo
 zone: '[[Castleview Hamlet]]'

@@ -2,6 +2,7 @@
 title: A Wizard's Demise
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '22'
 zone: '[[North Freeport]]'
 journal_category: The City of Freeport

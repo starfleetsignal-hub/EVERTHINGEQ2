@@ -2,6 +2,7 @@
 title: Repairing the Ward
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 zone: '[[The Graveyard]]'
 timeline: '[[The Graveyard Timeline]]'

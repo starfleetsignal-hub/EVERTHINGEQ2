@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Barbtail Ray'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '19'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

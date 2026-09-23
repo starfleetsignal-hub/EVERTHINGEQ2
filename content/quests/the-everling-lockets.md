@@ -2,6 +2,7 @@
 title: The Everling Lockets
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 zone: '[[Nektropos Castle]]'
 timeline: '[[Nektropos Castle Timeline]]'

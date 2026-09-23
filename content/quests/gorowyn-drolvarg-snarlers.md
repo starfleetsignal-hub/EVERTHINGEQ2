@@ -2,6 +2,7 @@
 title: 'Gorowyn: Drolvarg Snarlers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '69'
 zone: '[[Kylong Plains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

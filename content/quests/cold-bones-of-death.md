@@ -2,6 +2,7 @@
 title: Cold Bones of Death
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '47'
 difficulty: Solo
 zone: '[[North Freeport]]'

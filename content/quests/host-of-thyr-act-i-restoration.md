@@ -2,6 +2,7 @@
 title: 'Host of Thyr. Act I: Restoration'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '49'
 difficulty: Heroic
 zone: '[[Solusek''s Eye]]'

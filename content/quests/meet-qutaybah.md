@@ -2,6 +2,7 @@
 title: Meet Qutaybah
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '89'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

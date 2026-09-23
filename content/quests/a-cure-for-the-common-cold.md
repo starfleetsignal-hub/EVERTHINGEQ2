@@ -2,6 +2,7 @@
 title: A Cure for the Common Cold
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '87'
 difficulty: Solo
 zone: '[[Great Divide]]'

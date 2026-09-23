@@ -2,6 +2,7 @@
 title: The Battle of Storm Gorge
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 zone: '[[Great Divide]]'
 journal_category: Public

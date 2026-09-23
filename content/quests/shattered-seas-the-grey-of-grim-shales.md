@@ -2,6 +2,7 @@
 title: 'Shattered Seas: The Grey of Grim Shales'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '103'
 difficulty: Heroic
 zone: '[[Phantom Sea]]'

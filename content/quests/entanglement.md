@@ -2,6 +2,7 @@
 title: Entanglement
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '26'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

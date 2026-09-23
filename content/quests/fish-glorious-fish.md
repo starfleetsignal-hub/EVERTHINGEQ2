@@ -2,6 +2,7 @@
 title: Fish, Glorious Fish!
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '71'
 difficulty: Solo
 zone: '[[Fens of Nathsar]]'

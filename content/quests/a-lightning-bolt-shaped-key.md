@@ -2,6 +2,7 @@
 title: A Lightning Bolt Shaped Key
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 difficulty: Solo
 zone: '[[Stormhold]]'

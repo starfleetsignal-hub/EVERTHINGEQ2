@@ -2,6 +2,7 @@
 title: Paralytic Perpetrators
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '67'
 zone: '[[North Qeynos]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

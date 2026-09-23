@@ -1,7 +1,8 @@
 ---
 title: Ghosts of Times Past
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '18'
 zone: '[[Darklight Wood]]'
 timeline: '[[Darklight Wood Timeline]]'

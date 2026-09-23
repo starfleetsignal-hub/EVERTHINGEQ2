@@ -2,6 +2,7 @@
 title: The Kragploom Message
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '29'
 difficulty: solo
 zone: '[[Butcherblock Mountains]]'

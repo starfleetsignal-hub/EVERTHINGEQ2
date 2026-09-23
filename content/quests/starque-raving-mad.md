@@ -2,6 +2,7 @@
 title: Starque Raving Mad
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

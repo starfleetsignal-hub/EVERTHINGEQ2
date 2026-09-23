@@ -2,6 +2,7 @@
 title: The Hidden Riddle (Antonica)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 zone: '[[Antonica]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

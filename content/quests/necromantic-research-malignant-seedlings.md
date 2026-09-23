@@ -2,6 +2,7 @@
 title: Necromantic Research - Malignant Seedlings
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '83'
 difficulty: solo
 zone: '[[The Sundered Frontier]]'

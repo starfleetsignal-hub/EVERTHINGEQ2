@@ -2,6 +2,7 @@
 title: Scrawlings in the Dark
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '18'
 zone: '[[Antonica]]'
 timeline: '[[Blackburrow Timeline]]'

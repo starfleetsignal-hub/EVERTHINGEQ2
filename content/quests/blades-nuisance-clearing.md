@@ -2,6 +2,7 @@
 title: 'Blades: Nuisance Clearing'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Court of the Blades Timeline]]'

@@ -2,6 +2,7 @@
 title: Missions of Gearful Importance
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[Steamfont Mountains]]'

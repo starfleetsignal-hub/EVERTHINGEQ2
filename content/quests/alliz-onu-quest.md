@@ -2,6 +2,7 @@
 title: Alliz Onu (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 zone: '[[The Feerrott]]'
 journal_category: Feerrott

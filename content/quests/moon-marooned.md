@@ -2,6 +2,7 @@
 title: Moon Marooned
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 difficulty: Epic
 journal_category: Mission

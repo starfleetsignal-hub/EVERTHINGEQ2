@@ -2,6 +2,7 @@
 title: Bee Swatter
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '2'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

@@ -2,6 +2,7 @@
 title: Stone Cold Eyes
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '63'
 difficulty: Heroic
 zone: '[[Sanctum of the Scaleborn]]'

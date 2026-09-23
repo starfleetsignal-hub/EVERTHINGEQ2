@@ -2,6 +2,7 @@
 title: Operation Green Hood
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

@@ -2,6 +2,7 @@
 title: It Is the Soldier
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '43'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: The Legend of Motte
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '19'
 difficulty: Solo
 zone: '[[Antonica]]'

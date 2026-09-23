@@ -2,6 +2,7 @@
 title: Wu's Edict of the Material
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '55'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

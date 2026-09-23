@@ -2,6 +2,7 @@
 title: The Mysterious Missing Shipment
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '12'
 difficulty: Solo
 zone: '[[The Commonlands]]'

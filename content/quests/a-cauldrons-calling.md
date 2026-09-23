@@ -2,6 +2,7 @@
 title: A Cauldron's Calling
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '30'
 zone: '[[Nektropos Castle]]'
 timeline: '[[Nektropos Castle Timeline]]'

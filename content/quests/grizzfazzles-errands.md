@@ -2,6 +2,7 @@
 title: Grizzfazzle's Errands
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 difficulty: Heroic
 zone: '[[The Bonemire]]'

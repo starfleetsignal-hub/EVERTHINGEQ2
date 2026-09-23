@@ -1,7 +1,8 @@
 ---
 title: One Afterlife to Live
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: Scales
 zone: '[[*]]'
 timeline: '[[Heroes'' Festival Timeline]]'

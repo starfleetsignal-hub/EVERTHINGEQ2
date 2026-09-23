@@ -2,6 +2,7 @@
 title: Who Ordered Desert
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '128'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

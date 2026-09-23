@@ -1,7 +1,8 @@
 ---
 title: Not Without Our Leader
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '96'
 difficulty: Heroic
 zone: '[[Kael Drakkel]]'

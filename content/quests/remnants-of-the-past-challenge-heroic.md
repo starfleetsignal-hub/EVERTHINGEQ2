@@ -2,6 +2,7 @@
 title: Remnants of the Past (Challenge Heroic)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '108'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

@@ -2,6 +2,7 @@
 title: Document Recovery (Freeport)
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '62'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

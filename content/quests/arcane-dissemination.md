@@ -2,6 +2,7 @@
 title: Arcane Dissemination
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '106'
 difficulty: Heroic
 zone: '[[Arcanna''se Spire: Repository of Secrets (Heroic)]]'

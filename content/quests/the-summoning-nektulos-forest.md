@@ -2,6 +2,7 @@
 title: The Summoning (Nektulos Forest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '27'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

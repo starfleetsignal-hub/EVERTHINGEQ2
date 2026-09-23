@@ -2,6 +2,7 @@
 title: Grobin Trouble at the Pond
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '4'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

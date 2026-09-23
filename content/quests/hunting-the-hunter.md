@@ -2,6 +2,7 @@
 title: Hunting the Hunter
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '56'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

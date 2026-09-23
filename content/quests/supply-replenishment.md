@@ -2,6 +2,7 @@
 title: Supply Replenishment
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 difficulty: solo
 zone: '[[The Court of the Coin]]'

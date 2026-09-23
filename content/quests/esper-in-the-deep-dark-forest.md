@@ -2,6 +2,7 @@
 title: Esper in the Deep Dark Forest
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 zone: '[[Plane of Magic]]'
 timeline: '[[Planes of Prophecy Timeline]]'

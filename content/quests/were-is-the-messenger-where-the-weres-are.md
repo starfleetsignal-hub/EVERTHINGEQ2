@@ -2,6 +2,7 @@
 title: 'Were Is the Messenger: Where the Weres Are'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Renfry''s Basement]]'

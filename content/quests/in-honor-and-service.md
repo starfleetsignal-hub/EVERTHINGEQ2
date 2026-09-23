@@ -2,12 +2,12 @@
 title: In Honor and Service
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '19'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'
 timeline: '[[Heritage Quests Timeline]]'
 journal_category: Heritage
-starts: '*'
 added_in: Echoes of Faydwer
 achievement_xp: true
 aliases:

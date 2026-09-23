@@ -2,6 +2,7 @@
 title: 'Execution Order: Prelate C''Luzz'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

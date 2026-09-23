@@ -2,6 +2,7 @@
 title: Don't Get it in Arozik's Eyes
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '6'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

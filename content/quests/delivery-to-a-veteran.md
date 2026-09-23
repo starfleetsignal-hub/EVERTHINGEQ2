@@ -2,6 +2,7 @@
 title: Delivery to a Veteran
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '3'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

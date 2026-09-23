@@ -2,6 +2,7 @@
 title: Earth and Water
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '30'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

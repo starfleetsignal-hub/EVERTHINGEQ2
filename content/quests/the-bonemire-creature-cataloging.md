@@ -2,6 +2,7 @@
 title: The Bonemire Creature Cataloging
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '65'
 zone: '[[The Bonemire]]'
 timeline: '[[Book Quests Timeline]]'

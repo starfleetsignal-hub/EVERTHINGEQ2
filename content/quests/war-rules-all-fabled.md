@@ -1,7 +1,8 @@
 ---
 title: War Rules All (Fabled)
 type: quest
-expansion: Shattered Lands
+expansion: Chaos Descending
+expansion_source: level
 level: '116'
 journal_category: Mission
 in_game_name: War Rules All [Fabled]

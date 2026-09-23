@@ -2,6 +2,7 @@
 title: 'Blind Leading the Blind: Burned-Out Light Stone'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Wracklands]]'

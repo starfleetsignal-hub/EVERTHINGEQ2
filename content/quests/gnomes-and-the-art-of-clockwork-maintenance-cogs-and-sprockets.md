@@ -2,6 +2,7 @@
 title: 'Gnomes and the Art of Clockwork Maintenance: Cogs and Sprockets'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Solo
 zone: '[[*]]'

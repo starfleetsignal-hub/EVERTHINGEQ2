@@ -2,6 +2,7 @@
 title: Soothing the Spirits of Marr
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 zone: '[[The Graveyard]]'
 timeline: '[[Freeport Outlying Areas Timeline]]'

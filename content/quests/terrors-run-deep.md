@@ -2,6 +2,7 @@
 title: Terrors Run Deep
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

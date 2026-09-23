@@ -2,6 +2,7 @@
 title: Deadeye (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 difficulty: Solo
 zone: '[[Vermin''s Snye]]'

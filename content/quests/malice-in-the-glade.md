@@ -2,6 +2,7 @@
 title: Malice in the Glade
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Greater Faydark]]'
 journal_category: World Event

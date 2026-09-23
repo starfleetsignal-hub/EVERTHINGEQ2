@@ -2,6 +2,7 @@
 title: Screech and Scratch Go to Freeport
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '33'
 difficulty: Solo
 zone: '[[North Freeport]]'

@@ -2,6 +2,7 @@
 title: Collective Minds
 type: quest
 expansion: Age of Discovery
+expansion_source: patch
 level: Scales
 zone: '[[The Feerrott]]'
 journal_category: Hallmark

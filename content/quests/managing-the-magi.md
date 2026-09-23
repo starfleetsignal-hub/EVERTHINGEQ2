@@ -2,6 +2,7 @@
 title: Managing the Magi
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '11'
 zone: '[[The Sprawl]]'
 timeline: '[[Freeport Outlying Areas Timeline]]'

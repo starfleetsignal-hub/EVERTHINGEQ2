@@ -2,6 +2,7 @@
 title: Storming the Necropolis
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 difficulty: Epic
 zone: '[[The Arbiter''s Master]]'

@@ -2,6 +2,7 @@
 title: 'Ley of the Land: Leashing the Unleashed'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 difficulty: Epic
 zone: '[[Ssraeshza''s Hallowed Halls [Raid]]]'

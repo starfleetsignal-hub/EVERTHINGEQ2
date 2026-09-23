@@ -2,6 +2,7 @@
 title: Components for Gimble
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '13'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

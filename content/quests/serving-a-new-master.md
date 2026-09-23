@@ -2,6 +2,7 @@
 title: Serving a New Master
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Epic
 zone: '[[The Bonemire]]'

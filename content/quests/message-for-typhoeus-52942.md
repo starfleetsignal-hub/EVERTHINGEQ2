@@ -2,6 +2,7 @@
 title: Message for Typhoeus
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[West Freeport]]'

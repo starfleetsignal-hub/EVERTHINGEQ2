@@ -2,6 +2,7 @@
 title: More Elements of Order
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Sandstone Delta]]'

@@ -1,7 +1,8 @@
 ---
 title: A Joined Heritage
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '4'
 zone: '[[The Willow Wood]]'
 timeline: '[[Qeynos Racial Timeline]]'

@@ -2,6 +2,7 @@
 title: Protecting Coldwind Beach
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '19'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Thundering Steppes Timeline]]'

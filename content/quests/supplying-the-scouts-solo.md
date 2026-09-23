@@ -2,6 +2,7 @@
 title: Supplying the Scouts (Solo)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 zone: '[[South Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

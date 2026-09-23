@@ -2,6 +2,7 @@
 title: The Gnollish Menace (Antonica)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Heroic
 zone: '[[Antonica]]'

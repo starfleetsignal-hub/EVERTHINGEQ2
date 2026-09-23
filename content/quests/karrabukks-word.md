@@ -2,6 +2,7 @@
 title: Karrabukk's Word
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '97'
 zone: '[[Tranquil Sea]]'
 timeline: '[[Shattered Seas Timeline]]'

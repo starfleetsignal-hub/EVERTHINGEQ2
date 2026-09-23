@@ -2,6 +2,7 @@
 title: Strange Deliveries (Ashen Disciples)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '59'
 difficulty: Solo
 zone: '[[The Pillars of Flame]]'

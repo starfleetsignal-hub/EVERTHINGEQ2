@@ -2,6 +2,7 @@
 title: Missing Somborn Supplies
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '63'
 zone: '[[Loping Plains]]'
 timeline: '[[Loping Plains Timeline]]'

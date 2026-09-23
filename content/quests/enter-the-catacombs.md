@@ -2,6 +2,7 @@
 title: Enter the Catacombs
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 difficulty: Solo
 zone: '[[Loping Plains]]'

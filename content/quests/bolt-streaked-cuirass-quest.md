@@ -2,6 +2,7 @@
 title: Bolt-Streaked Cuirass (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '23'
 difficulty: Solo
 zone: '[[Stormhold]]'

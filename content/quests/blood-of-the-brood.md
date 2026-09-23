@@ -2,6 +2,7 @@
 title: Blood of the Brood
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[The Barren Sky]]'

@@ -2,6 +2,7 @@
 title: 'Alchemist''s Component: Viscule Drather'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Examine a [[Stalvo's Notes - Viscule Drather]] that drops randomly from all monsters in Zek

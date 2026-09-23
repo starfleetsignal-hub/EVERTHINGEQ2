@@ -2,6 +2,7 @@
 title: Thinning the Herd (Fallen Gate)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 difficulty: Heroic
 zone: '[[West Freeport]]'

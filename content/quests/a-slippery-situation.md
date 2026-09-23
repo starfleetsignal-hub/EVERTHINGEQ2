@@ -2,6 +2,7 @@
 title: A Slippery Situation
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '53'
 zone: '[[The Living Tombs]]'
 timeline: '[[Ahket Aken Timeline]]'

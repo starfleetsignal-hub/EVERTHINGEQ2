@@ -2,6 +2,7 @@
 title: 'Luclin Landscaping: The Blinding'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[The Blinding]]'

@@ -2,6 +2,7 @@
 title: Envoy Incursion
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '95'
 difficulty: Epic
 zone: '[[The Vasty Deep]]'

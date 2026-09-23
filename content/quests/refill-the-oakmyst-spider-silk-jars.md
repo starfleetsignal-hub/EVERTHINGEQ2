@@ -2,6 +2,7 @@
 title: Refill the Oakmyst Spider Silk Jars
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '8'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

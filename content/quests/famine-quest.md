@@ -2,6 +2,7 @@
 title: Famine (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '26'
 difficulty: Solo
 zone: '[[West Freeport]]'

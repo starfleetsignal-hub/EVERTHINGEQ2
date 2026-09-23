@@ -2,6 +2,7 @@
 title: Extinguish the Flames
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '102'
 difficulty: Solo
 zone: '[[Thalumbra, the Ever Deep]]'

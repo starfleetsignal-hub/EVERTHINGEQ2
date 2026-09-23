@@ -2,6 +2,7 @@
 title: 'Shadeweaver''s Thicket: Secret of Umbral Vestige'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '126'
 difficulty: Solo
 zone: '[[Shadeweaver''s Thicket]]'

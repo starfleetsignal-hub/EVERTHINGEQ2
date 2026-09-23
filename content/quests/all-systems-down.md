@@ -2,6 +2,7 @@
 title: All Systems... Down
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '77'
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

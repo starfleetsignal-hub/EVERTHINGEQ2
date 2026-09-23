@@ -2,6 +2,7 @@
 title: Rakurjahl the Warbringer's Key (Quest)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '53'
 zone: '[[The Clefts of Rujark]]'
 journal_category: Clefts of Rujark

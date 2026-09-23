@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Brokenskull Deckhands'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '76'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

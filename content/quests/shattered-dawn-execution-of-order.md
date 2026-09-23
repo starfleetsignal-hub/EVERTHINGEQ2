@@ -2,6 +2,7 @@
 title: 'Shattered Dawn: Execution of Order'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '115'
 difficulty: Heroic
 zone: '[[Sanctus Seru (City)]]'

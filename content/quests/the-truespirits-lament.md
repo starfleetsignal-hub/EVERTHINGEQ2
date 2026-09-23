@@ -2,6 +2,7 @@
 title: The Truespirits' Lament
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Jarsath Wastes]]'
 journal_category: Miscellaneous

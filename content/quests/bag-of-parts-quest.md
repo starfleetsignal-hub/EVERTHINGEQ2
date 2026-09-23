@@ -2,6 +2,7 @@
 title: Bag of Parts (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 difficulty: Solo
 zone: '[[The Baubbleshire]]'

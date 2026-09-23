@@ -2,6 +2,7 @@
 title: Mash'al and Praun
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '92'
 difficulty: Heroic
 zone: '[[The Stonebrunt Highlands]]'

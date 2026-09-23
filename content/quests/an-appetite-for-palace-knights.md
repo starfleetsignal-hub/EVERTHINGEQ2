@@ -2,6 +2,7 @@
 title: An Appetite for Palace Knights
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '69'
 zone: '[[Palace of the Awakened]]'
 timeline: '[[Claymore Timeline]]'

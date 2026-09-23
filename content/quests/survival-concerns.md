@@ -2,6 +2,7 @@
 title: Survival Concerns
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: Scales
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Moors of Ykesha Timeline]]'

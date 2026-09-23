@@ -2,6 +2,7 @@
 title: 'Tutorial: Forging Ahead'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '3'
 zone: '[[Tradeskill Instance]]'
 timeline: '[[Crafting Tutorial Timeline]]'

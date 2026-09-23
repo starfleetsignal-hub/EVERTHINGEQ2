@@ -2,6 +2,7 @@
 title: Dishonored Dead
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '26'
 difficulty: Heroic
 zone: '[[Crushbone Keep]]'

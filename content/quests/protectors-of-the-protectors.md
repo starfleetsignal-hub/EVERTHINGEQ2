@@ -29,6 +29,8 @@ source:
   revision: 567885
   revised: '2012-09-01T16:34:52Z'
   license: CC BY-SA 3.0
+expansion: Destiny of Velious
+expansion_source: patch
 ---
 
 This quest is from Part 1 of the Beastlord Prelude for good aligned characters and will only be available for a short time during Game Update 61.

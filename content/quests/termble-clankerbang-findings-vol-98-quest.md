@@ -2,6 +2,7 @@
 title: Termble Clankerbang Findings Vol. 98 (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '47'
 difficulty: Heroic
 zone: '[[*]]'

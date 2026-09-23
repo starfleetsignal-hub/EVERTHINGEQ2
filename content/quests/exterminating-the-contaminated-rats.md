@@ -2,6 +2,7 @@
 title: Exterminating the Contaminated Rats
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 zone: '[[Edgewater Drains]]'
 timeline: '[[Freeport Sewers Timeline]]'

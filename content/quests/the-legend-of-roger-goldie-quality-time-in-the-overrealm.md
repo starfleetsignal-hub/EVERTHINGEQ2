@@ -2,6 +2,7 @@
 title: 'The Legend of Roger Goldie: Quality Time in the Overrealm'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '67'
 difficulty: solo
 zone: '[[Tenebrous Tangle]]'

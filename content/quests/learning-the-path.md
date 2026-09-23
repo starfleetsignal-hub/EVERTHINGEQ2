@@ -2,6 +2,7 @@
 title: Learning the Path
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 journal_category: Hallmark

@@ -2,6 +2,7 @@
 title: 'Age''s End: Shattered Fate Revisited'
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '103'
 difficulty: Epic
 zone: '[[Skyshrine: The City of Dracur]]'

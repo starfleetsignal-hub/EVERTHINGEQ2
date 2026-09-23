@@ -2,6 +2,7 @@
 title: The Book of the Dead (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '8'
 zone: '[[The Graveyard]]'
 timeline: '[[The Graveyard Timeline]]'

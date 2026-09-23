@@ -2,6 +2,7 @@
 title: Draconic Etyma Mission System
 type: quest
 expansion: Tears of Veeshan
+expansion_source: category
 categories:
 - Mission Quests
 - Tears of Veeshan

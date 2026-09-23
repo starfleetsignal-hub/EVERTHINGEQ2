@@ -2,6 +2,7 @@
 title: The Temple in the Mist (Advanced Solo)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '107'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

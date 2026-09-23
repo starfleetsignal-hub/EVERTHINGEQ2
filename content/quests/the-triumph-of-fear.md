@@ -2,6 +2,7 @@
 title: The Triumph of Fear
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Heroic
 zone: '[[Lost Temple of Cabilis]]'

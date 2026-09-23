@@ -2,6 +2,7 @@
 title: 'The Warrior''s Call: Volume IV'
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '108'
 difficulty: Heroic
 zone: '[[The Keep]]'

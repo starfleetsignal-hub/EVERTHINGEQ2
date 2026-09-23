@@ -2,6 +2,7 @@
 title: Koyame's Elemental Study
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Plane of Magic]]'

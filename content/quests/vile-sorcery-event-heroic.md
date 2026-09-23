@@ -2,6 +2,7 @@
 title: Vile Sorcery (Event Heroic)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '105'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

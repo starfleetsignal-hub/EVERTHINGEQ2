@@ -2,6 +2,7 @@
 title: The Pirate Hoop
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 zone: '[[*]]'
 journal_category: Nektulos Forest

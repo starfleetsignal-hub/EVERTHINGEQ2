@@ -2,6 +2,7 @@
 title: Prime Target
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Heroic
 zone: '[[The Crypt of Betrayal]]'

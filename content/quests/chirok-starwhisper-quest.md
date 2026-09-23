@@ -2,6 +2,7 @@
 title: Chirok Starwhisper (Quest)
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '65'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

@@ -2,6 +2,7 @@
 title: Sustaining Souls of Bloody Kithicor
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '102'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

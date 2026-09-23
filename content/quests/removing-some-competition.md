@@ -2,6 +2,7 @@
 title: Removing Some Competition
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 difficulty: Solo
 zone: '[[Plane of Magic]]'

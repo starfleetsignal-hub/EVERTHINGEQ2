@@ -2,6 +2,7 @@
 title: The Wind of Strife Blows Fickle
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '75'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

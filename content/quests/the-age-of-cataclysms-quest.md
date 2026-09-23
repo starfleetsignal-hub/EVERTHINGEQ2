@@ -2,6 +2,7 @@
 title: '"The Age of Cataclysms" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '49'
 zone: '[[*]]'
 timeline: '[[Permafrost Timeline]]'

@@ -2,6 +2,7 @@
 title: The Tomb of the Shadow Lords
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '16'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

@@ -2,6 +2,7 @@
 title: Mercenary Contract - Down with the Ship
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '24'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

@@ -2,6 +2,7 @@
 title: Omnushan (Quest)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '59'
 difficulty: Heroic
 zone: '[[The Cave of Knowledge]]'

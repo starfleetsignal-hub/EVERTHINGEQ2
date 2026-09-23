@@ -2,6 +2,7 @@
 title: Tailors on the Task
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Kylong Plains]]'

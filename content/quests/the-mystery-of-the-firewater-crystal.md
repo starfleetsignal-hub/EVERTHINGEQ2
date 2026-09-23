@@ -1,7 +1,8 @@
 ---
 title: The Mystery of the Firewater Crystal
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '85'
 difficulty: Heroic
 zone: '[[Edgewater Drains]]'

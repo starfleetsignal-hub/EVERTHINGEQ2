@@ -2,6 +2,7 @@
 title: Building a New Future
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '96'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

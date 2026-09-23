@@ -1,7 +1,8 @@
 ---
 title: Books Bound to Bring Knowledge
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '3'
 difficulty: Solo
 zone: '[[Nettleville]]'

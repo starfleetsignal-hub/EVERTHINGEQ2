@@ -2,6 +2,7 @@
 title: Ku'Vi's Vengeance
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '8'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

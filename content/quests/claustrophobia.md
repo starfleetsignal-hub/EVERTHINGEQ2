@@ -2,6 +2,7 @@
 title: Claustrophobia
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '32'
 difficulty: Heroic
 zone: '[[The City of Freeport]]'

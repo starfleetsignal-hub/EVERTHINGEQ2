@@ -2,6 +2,7 @@
 title: Reinforcing a Relic
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 zone: '[[The Estate of Unrest]]'
 starts: Examine the [[Leather Insoles]], a very rare drop off of [[Garanel Rucksif, the Cursed]] in [[The Estate of Unrest]].

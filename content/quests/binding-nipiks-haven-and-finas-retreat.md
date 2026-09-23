@@ -2,6 +2,7 @@
 title: Binding Nipik's Haven and Fina's Retreat
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '92'
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

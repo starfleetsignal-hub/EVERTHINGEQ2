@@ -2,6 +2,7 @@
 title: The Mysterious Drafling
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 difficulty: Heroic
 zone: '[[Rivervale]]'

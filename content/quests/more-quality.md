@@ -2,6 +2,7 @@
 title: More Quality
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 zone: '[[Temple Street]]'
 timeline: '[[Freeport Racial Timeline]]'

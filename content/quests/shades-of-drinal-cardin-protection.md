@@ -2,6 +2,7 @@
 title: 'Shades of Drinal: Cardin Protection'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '96'
 difficulty: Solo
 zone: '[[Obol Plains]]'

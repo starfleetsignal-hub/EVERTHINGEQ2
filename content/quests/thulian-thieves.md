@@ -2,6 +2,7 @@
 title: Thulian Thieves
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '40'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

@@ -2,6 +2,7 @@
 title: Play Both Sides
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '62'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: Finding Bait
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '8'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

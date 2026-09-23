@@ -1,7 +1,8 @@
 ---
 title: Blades of Torment
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: level
 level: '80'
 difficulty: Epic
 zone: '[[Kurn''s Tower: Breaching the Void]]'

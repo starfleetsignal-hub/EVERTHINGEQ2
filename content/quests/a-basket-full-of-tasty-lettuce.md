@@ -2,6 +2,7 @@
 title: A Basket Full of Tasty Lettuce
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '56'
 zone: '[[Tenebrous Tangle]]'
 timeline: '[[Tenebrous Tangle Timeline]]'

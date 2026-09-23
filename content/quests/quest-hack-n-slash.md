@@ -2,6 +2,7 @@
 title: 'Quest: Hack ''n Slash'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Epic
 zone: '[[The Commonlands]]'

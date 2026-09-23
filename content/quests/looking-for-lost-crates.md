@@ -2,6 +2,7 @@
 title: Looking for Lost Crates
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '32'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

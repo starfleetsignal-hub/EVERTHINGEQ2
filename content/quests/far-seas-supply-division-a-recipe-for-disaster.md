@@ -2,6 +2,7 @@
 title: Far Seas Supply Division - A Recipe for Disaster
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 zone: '[[The Village of Shin]]'
 timeline: '[[Tradeskill Timeline]]'

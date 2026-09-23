@@ -1,7 +1,8 @@
 ---
 title: Crystalline Acid Collection
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '89'
 zone: '[[Great Divide]]'
 timeline: '[[Great Divide Timeline]]'

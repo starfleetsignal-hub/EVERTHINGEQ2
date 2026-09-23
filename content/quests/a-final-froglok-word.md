@@ -2,6 +2,7 @@
 title: A Final Froglok Word
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '75'
 zone: '[[Tenebrous Tangle]]'
 timeline: '[[Claymore Timeline]]'

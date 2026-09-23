@@ -2,6 +2,7 @@
 title: Feeling of the Fauna
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

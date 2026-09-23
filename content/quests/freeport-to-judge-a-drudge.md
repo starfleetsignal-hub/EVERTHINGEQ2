@@ -2,6 +2,7 @@
 title: 'Freeport: To Judge a Drudge'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '89'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

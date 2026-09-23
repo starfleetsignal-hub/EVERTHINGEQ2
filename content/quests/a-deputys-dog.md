@@ -2,6 +2,7 @@
 title: A Deputy's Dog
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

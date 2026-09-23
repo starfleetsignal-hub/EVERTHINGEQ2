@@ -2,6 +2,7 @@
 title: Blood Cleansing
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 difficulty: Solo
 zone: '[[North Freeport]]'

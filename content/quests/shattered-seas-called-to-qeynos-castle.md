@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Called to Qeynos Castle'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

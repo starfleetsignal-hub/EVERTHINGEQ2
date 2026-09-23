@@ -2,6 +2,7 @@
 title: Stiletto's Orders Intercepted
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '35'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

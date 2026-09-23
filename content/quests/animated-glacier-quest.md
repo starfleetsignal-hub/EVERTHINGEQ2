@@ -2,6 +2,7 @@
 title: Animated Glacier (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 journal_category: Permafrost
 starts: examine [[Animated glacier (Quest Starter)|animated glacier]]

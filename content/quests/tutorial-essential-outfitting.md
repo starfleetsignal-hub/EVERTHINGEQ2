@@ -2,6 +2,7 @@
 title: 'Tutorial: Essential Outfitting'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '9'
 zone: '[[Tradeskill Instance]]'
 timeline: '[[Crafting Tutorial Timeline]]'

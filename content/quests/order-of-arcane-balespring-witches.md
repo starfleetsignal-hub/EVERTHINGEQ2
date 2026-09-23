@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Balespring Witches'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '49'
 difficulty: solo
 zone: '[[Greater Faydark]]'

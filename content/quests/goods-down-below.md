@@ -2,6 +2,7 @@
 title: Goods Down Below
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '8'
 difficulty: Solo
 zone: '[[The Down Below]]'

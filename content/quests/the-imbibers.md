@@ -2,6 +2,7 @@
 title: The Imbibers
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '38'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

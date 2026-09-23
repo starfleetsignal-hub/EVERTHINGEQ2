@@ -2,6 +2,7 @@
 title: The Gates of Cauldron Hollow
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '29'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

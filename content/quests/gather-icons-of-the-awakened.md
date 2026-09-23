@@ -2,6 +2,7 @@
 title: Gather Icons of the Awakened
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '64'
 difficulty: Heroic
 zone: '[[North Freeport]]'

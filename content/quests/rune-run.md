@@ -2,6 +2,7 @@
 title: Rune Run
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '101'
 zone: '[[Crypt of Dalnir: Ritual Chamber (Solo)]]'
 timeline: '[[Kunark Ascending Timeline]]'

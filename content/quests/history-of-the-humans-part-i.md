@@ -2,6 +2,7 @@
 title: History of the Humans, Part I
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

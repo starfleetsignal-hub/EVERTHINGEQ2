@@ -2,6 +2,7 @@
 title: Erudite Alchemy
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '3'
 zone: '[[Stonestair Byway]]'
 timeline: '[[Freeport Racial Timeline]]'

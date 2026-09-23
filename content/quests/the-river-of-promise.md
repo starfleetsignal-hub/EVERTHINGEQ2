@@ -2,6 +2,7 @@
 title: The River of Promise
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

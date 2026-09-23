@@ -2,6 +2,7 @@
 title: Unpowered Lif Rune, Ilcsa (Quest)
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Karuupa Jungle]]'

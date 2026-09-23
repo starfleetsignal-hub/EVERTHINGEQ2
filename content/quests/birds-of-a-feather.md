@@ -2,6 +2,7 @@
 title: Birds of a Feather...
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '66'
 zone: '[[North Qeynos]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

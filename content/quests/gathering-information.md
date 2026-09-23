@@ -2,6 +2,7 @@
 title: Gathering Information
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '8'
 zone: '[[Greater Faydark]]'
 journal_category: Greater Faydark

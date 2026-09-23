@@ -2,6 +2,7 @@
 title: The Means to an End...
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '85'
 difficulty: Heroic
 zone: '[[Halls of the Unseen]]'

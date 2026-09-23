@@ -2,6 +2,7 @@
 title: Neutral Zealotry
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '83'
 difficulty: Heroic
 zone: '[[Jarsath Wastes]]'

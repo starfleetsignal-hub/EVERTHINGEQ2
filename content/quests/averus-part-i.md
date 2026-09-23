@@ -2,6 +2,7 @@
 title: Averus, Part I
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '12'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport Timeline]]'

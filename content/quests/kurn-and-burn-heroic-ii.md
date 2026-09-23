@@ -1,7 +1,8 @@
 ---
 title: Kurn and Burn (Heroic II)
 type: quest
-expansion: Shattered Lands
+expansion: Visions of Vetrovia
+expansion_source: level
 level: '133'
 difficulty: Heroic
 zone: '[[The Fabled Kurn''s Tower: Breaching the Void (Heroic II)]]'

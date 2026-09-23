@@ -1,7 +1,8 @@
 ---
 title: Prince Agtak's Hit List
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '40'
 difficulty: Heroic
 zone: '[[Deathfist Citadel]]'

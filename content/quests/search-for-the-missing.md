@@ -2,6 +2,7 @@
 title: Search for the Missing
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 zone: '[[The City of Freeport]]'
 timeline: '[[Froglok Timeline]]'

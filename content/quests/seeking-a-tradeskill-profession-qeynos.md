@@ -2,6 +2,7 @@
 title: Seeking a Tradeskill Profession (Qeynos)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '1'
 removed_from_game: Removed with [[Rise of Kunark]] - see [[Crafting Tutorial Timeline]].
 categories:

@@ -2,6 +2,7 @@
 title: Courier for the Captain
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '6'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

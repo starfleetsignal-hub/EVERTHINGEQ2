@@ -2,6 +2,7 @@
 title: Gnomore Gnomesteaks
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 difficulty: Solo
 zone: '[[Big Bend]]'

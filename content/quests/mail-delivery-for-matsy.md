@@ -1,7 +1,8 @@
 ---
 title: Mail Delivery for Matsy
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '18'
 difficulty: Solo
 zone: '[[Antonica]]'

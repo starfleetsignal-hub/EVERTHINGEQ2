@@ -2,6 +2,7 @@
 title: Fighting the Infestation
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 difficulty: Solo
 zone: '[[Rivervale]]'

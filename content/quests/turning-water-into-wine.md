@@ -2,6 +2,7 @@
 title: Turning Water Into Wine
 type: quest
 expansion: Age of Discovery
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'

@@ -2,6 +2,7 @@
 title: A Bite Out of Crime
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Darkpaw Dugout]]'

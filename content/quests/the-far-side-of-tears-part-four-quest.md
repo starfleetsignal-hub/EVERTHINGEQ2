@@ -2,6 +2,7 @@
 title: The Far Side of Tears, Part Four (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

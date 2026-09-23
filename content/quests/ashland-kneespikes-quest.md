@@ -2,6 +2,7 @@
 title: Ashland Kneespikes (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '26'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

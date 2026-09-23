@@ -1,7 +1,8 @@
 ---
 title: Danak Master Craftsman Work Requisition
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: level
 level: '80'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'

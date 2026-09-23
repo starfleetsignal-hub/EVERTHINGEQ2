@@ -2,6 +2,7 @@
 title: Troll Patrol
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 difficulty: Solo
 zone: '[[Big Bend]]'

@@ -2,6 +2,7 @@
 title: '15th Anniversary Event: A Jeweler''s Contribution'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

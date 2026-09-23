@@ -2,6 +2,7 @@
 title: Charred Bone - Left Tibia
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

@@ -2,6 +2,7 @@
 title: Far Seas Supplier - Snake Menace
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '35'
 zone: '[[Zek, the Orcish Wastes]]'
 journal_category: Zek, the Orcish Wastes

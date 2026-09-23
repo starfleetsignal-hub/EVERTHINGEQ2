@@ -2,6 +2,7 @@
 title: From the Scars, Comes Destruction!
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 zone: '[[*]]'
 timeline: '[[Scars of Destruction Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: Destroy the Corruption
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '13'
 difficulty: Heroic
 zone: '[[Oakmyst Forest]]'

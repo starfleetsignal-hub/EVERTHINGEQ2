@@ -2,6 +2,7 @@
 title: 'Broken Barrier: Sealing of the Blade'
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[Darklight Wood]]'

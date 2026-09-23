@@ -2,6 +2,7 @@
 title: Warlock's Enhanced Cataclysm
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Epic
 zone: '[[Raj''Dur Plateaus]]'

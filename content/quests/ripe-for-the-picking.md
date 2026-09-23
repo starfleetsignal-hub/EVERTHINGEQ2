@@ -2,6 +2,7 @@
 title: Ripe for the Picking
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '11'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

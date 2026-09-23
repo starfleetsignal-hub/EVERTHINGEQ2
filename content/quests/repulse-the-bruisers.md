@@ -2,6 +2,7 @@
 title: Repulse the Bruisers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

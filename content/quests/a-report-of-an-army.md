@@ -2,6 +2,7 @@
 title: A Report of an Army
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '29'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

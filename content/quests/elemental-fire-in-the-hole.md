@@ -2,6 +2,7 @@
 title: 'Elemental: Fire in the Hole'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[The Unknown]]'

@@ -1,7 +1,8 @@
 ---
 title: In the Name of Prestige
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '3'
 difficulty: Solo
 zone: '[[Outpost of the Overlord]]'

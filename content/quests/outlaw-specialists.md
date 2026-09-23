@@ -2,6 +2,7 @@
 title: Outlaw Specialists
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '15'
 timeline: '[[Qeynos Catacombs Timeline]]'
 journal_category: Vermin's Snye

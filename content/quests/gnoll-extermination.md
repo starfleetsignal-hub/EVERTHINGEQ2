@@ -2,6 +2,7 @@
 title: Gnoll Extermination
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 difficulty: Solo
 zone: '[[North Qeynos]]'

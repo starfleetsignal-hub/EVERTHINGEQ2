@@ -2,6 +2,7 @@
 title: Bad Dog (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[Thundering Steppes]]'
 journal_category: Thundering Steppes

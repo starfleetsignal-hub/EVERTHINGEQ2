@@ -1,7 +1,8 @@
 ---
 title: 'Cataloguing Vesspyr: Harrowing Horde (Quest)'
 type: quest
-expansion: Shattered Lands
+expansion: Tears of Veeshan
+expansion_source: level
 level: '103'
 difficulty: Solo
 zone: '[[*]]'

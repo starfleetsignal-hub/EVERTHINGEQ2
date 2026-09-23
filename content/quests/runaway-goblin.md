@@ -1,7 +1,8 @@
 ---
 title: Runaway Goblin
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '39'
 difficulty: Solo
 zone: '[[Enchanted Lands]]'

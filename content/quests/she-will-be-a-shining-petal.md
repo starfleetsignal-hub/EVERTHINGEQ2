@@ -2,6 +2,7 @@
 title: She Will Be A Shining Petal
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 difficulty: Solo
 zone: '[[Antonica]]'

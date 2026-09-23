@@ -2,6 +2,7 @@
 title: Finding the Dain
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Great Divide]]'

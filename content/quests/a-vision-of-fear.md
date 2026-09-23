@@ -2,6 +2,7 @@
 title: A Vision of Fear
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

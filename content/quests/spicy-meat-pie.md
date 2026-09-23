@@ -1,7 +1,8 @@
 ---
 title: Spicy Meat Pie
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '13'
 difficulty: Solo
 zone: '[[Antonica]]'

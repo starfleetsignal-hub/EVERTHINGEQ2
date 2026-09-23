@@ -2,6 +2,7 @@
 title: An Offering and Peace
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '57'
 difficulty: Solo
 zone: '[[The Silent City]]'

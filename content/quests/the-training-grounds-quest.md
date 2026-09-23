@@ -2,6 +2,7 @@
 title: The Training Grounds (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '19'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

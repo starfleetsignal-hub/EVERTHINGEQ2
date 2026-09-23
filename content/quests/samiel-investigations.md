@@ -2,6 +2,7 @@
 title: Samiel Investigations
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '46'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Court of Truth Timeline]]'

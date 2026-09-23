@@ -2,6 +2,7 @@
 title: Short Froglok Arms
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 difficulty: Heroic
 zone: '[[Sanctum of the Scaleborn]]'

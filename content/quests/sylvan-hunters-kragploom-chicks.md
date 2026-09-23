@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Kragploom Chicks'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '22'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

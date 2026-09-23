@@ -2,6 +2,7 @@
 title: Delivering Bag O' Bones
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '81'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: Knowledge Through Experimentation
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '79'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'

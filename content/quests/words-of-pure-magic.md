@@ -2,6 +2,7 @@
 title: Words of Pure Magic
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '45'
 zone: '[[*]]'
 timeline: '[[Language Timeline]]'

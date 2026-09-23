@@ -2,6 +2,7 @@
 title: Defiled Drem Drem
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '9'
 difficulty: Solo
 zone: '[[The Down Below]]'

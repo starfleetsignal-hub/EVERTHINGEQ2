@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Krulkiel Carvers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '31'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

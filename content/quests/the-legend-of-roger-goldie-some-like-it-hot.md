@@ -1,7 +1,8 @@
 ---
 title: 'The Legend of Roger Goldie: Some Like It Hot'
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '42'
 difficulty: solo
 zone: '[[Steamfont Mountains]]'

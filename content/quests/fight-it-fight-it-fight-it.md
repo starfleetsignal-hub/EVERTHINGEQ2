@@ -2,6 +2,7 @@
 title: Fight It, Fight It, Fight It
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '29'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

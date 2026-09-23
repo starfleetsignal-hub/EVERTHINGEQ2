@@ -2,6 +2,7 @@
 title: 'A Cavernous Conundrum: A Spongy Stem'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

@@ -2,6 +2,7 @@
 title: Altered Beasts
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '87'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

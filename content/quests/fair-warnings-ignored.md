@@ -2,6 +2,7 @@
 title: Fair Warnings Ignored
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 zone: '[[Nektropos Castle]]'
 timeline: '[[Nektropos Castle Timeline]]'

@@ -2,6 +2,7 @@
 title: Blind Taste Test
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 zone: '[[Scale Yard]]'
 journal_category: Scale Yard

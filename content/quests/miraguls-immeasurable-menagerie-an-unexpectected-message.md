@@ -2,6 +2,7 @@
 title: 'Miragul''s Immeasurable Menagerie: An Unexpectected Message'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[*]]'
 journal_category: Mission

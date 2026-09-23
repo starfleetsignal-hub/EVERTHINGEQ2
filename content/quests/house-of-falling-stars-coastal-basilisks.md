@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Coastal Basilisks'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '22'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

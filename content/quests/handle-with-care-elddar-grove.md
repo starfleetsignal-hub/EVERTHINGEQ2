@@ -2,6 +2,7 @@
 title: Handle With Care (Elddar Grove)
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '69'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

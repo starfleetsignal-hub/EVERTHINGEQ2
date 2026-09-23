@@ -2,6 +2,7 @@
 title: 'Orcish Information: Part I'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '17'
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'

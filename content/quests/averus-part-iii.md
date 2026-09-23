@@ -2,6 +2,7 @@
 title: Averus, Part III
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '14'
 zone: '[[West Freeport]]'
 journal_category: West Freeport

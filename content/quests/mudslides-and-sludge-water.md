@@ -2,6 +2,7 @@
 title: Mudslides and Sludge Water
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

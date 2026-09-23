@@ -2,6 +2,7 @@
 title: Key Evidence
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '55'
 zone: '[[Timorous Deep]]'
 timeline: '[[Deity Timeline]]'

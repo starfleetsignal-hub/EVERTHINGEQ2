@@ -2,6 +2,7 @@
 title: Tapping the Torrent
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

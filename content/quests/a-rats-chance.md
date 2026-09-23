@@ -2,6 +2,7 @@
 title: A Rat's Chance
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '78'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'

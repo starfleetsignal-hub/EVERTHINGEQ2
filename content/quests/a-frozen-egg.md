@@ -2,6 +2,7 @@
 title: A Frozen Egg
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '1'
 zone: '[[*]]'
 journal_category: Miscellaneous

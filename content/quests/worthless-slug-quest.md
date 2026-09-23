@@ -2,6 +2,7 @@
 title: Worthless Slug (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 journal_category: Feerrott
 in_game_name: Worthless Slug

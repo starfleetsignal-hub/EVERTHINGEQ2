@@ -2,6 +2,7 @@
 title: Bleak Crystal Pendant Fragment (Quest)
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Zimara Breadth]]'

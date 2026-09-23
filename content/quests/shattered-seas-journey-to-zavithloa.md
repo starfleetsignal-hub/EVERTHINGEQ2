@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Journey to Zavith''loa'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '101'
 difficulty: Heroic
 zone: '[[Tranquil Sea]]'

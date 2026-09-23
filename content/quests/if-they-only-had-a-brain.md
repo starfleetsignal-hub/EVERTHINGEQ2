@@ -1,7 +1,8 @@
 ---
 title: If They Only Had a Brain
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: chain
 level: Scales
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

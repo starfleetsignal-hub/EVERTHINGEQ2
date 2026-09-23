@@ -2,6 +2,7 @@
 title: The Unearthed Scions
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '26'
 difficulty: Heroic
 zone: '[[Stormhold]]'

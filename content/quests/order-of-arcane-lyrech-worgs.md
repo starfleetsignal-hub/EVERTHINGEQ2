@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Lyrech Worgs'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

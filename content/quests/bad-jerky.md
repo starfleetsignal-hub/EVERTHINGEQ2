@@ -2,6 +2,7 @@
 title: Bad Jerky
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '47'
 zone: '[[Solusek''s Eye]]'
 timeline: '[[Solusek''s Eye Timeline]]'

@@ -2,6 +2,7 @@
 title: An Eggsellent Task
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 difficulty: Heroic
 zone: '[[Sanctum of the Scaleborn]]'

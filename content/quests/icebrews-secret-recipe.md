@@ -2,6 +2,7 @@
 title: Icebrew's Secret Recipe
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 difficulty: solo
 zone: '[[Scale Yard]]'

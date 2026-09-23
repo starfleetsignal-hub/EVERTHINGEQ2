@@ -2,6 +2,7 @@
 title: Saphronia's Request
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

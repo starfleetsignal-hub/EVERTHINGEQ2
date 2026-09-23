@@ -2,6 +2,7 @@
 title: A Cured Gingus
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 difficulty: Solo
 zone: '[[The Bonemire]]'

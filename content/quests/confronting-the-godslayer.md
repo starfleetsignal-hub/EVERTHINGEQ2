@@ -2,6 +2,7 @@
 title: Confronting the Godslayer
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: Epic
 zone: '[[The Stonebrunt Highlands]]'

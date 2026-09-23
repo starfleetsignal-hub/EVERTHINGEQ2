@@ -2,6 +2,7 @@
 title: Hunting Dangerous Prey (Shattered Lands)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 difficulty: Heroic
 zone: '[[Lavastorm]]'

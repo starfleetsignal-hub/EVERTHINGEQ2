@@ -2,6 +2,7 @@
 title: Thalumbra Chests for the Keys
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: category
 categories:
 - Terrors of Thalumbra
 - Treasure Hunt Quests

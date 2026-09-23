@@ -2,6 +2,7 @@
 title: A Knight in The Graveyard
 type: quest
 expansion: Age of Discovery
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'

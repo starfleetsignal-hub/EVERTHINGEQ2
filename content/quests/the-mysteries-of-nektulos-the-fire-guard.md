@@ -2,6 +2,7 @@
 title: The Mysteries of Nektulos - The Fire Guard
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

@@ -2,6 +2,7 @@
 title: Nectar of the Villisis
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '80'
 difficulty: Heroic
 zone: '[[Kylong Plains]]'

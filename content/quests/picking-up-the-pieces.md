@@ -2,6 +2,7 @@
 title: Picking up the Pieces
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '27'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

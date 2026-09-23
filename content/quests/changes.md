@@ -2,6 +2,7 @@
 title: Changes
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Hold of Rime: The Fortress Spire]]'

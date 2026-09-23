@@ -2,6 +2,7 @@
 title: A Lost Sister (Heroic)
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Harrow''s End: Baleful Dominion (Heroic)]]'

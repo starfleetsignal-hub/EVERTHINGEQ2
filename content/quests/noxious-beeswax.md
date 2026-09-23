@@ -2,6 +2,7 @@
 title: Noxious Beeswax
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Nektulos Forest]]'
 starts: examine a piece of yellow paper by the road near [[Kleron Asana]]

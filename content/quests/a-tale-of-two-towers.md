@@ -2,6 +2,7 @@
 title: A Tale of Two Towers
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '31'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

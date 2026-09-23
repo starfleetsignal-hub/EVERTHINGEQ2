@@ -2,6 +2,7 @@
 title: The Varsoon Collection, Volume 2 - The Quest for Immortality (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '33'
 difficulty: Solo
 zone: '[[The Ruins of Varsoon]]'

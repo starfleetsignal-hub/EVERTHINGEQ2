@@ -2,6 +2,7 @@
 title: Muzzle The Carnivores
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '36'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

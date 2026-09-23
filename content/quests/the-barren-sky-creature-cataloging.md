@@ -2,6 +2,7 @@
 title: The Barren Sky Creature Cataloging
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 zone: '[[The Barren Sky]]'
 timeline: '[[Book Quests Timeline]]'

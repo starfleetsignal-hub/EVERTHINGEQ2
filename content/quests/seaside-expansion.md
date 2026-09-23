@@ -2,6 +2,7 @@
 title: Seaside Expansion
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '31'
 difficulty: Solo
 zone: '[[South Freeport]]'

@@ -2,6 +2,7 @@
 title: The Claw of the Bear
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '12'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

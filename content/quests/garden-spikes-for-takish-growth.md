@@ -2,6 +2,7 @@
 title: Garden Spikes for Takish Growth
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Takish Badlands]]'

@@ -2,6 +2,7 @@
 title: Watch Your Step in the Thundering Steppes, Part III
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '27'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

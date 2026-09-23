@@ -2,6 +2,7 @@
 title: The Mountain Throms
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '13'
 zone: '[[Timorous Deep]]'
 timeline: '[[Timorous Deep Timeline]]'

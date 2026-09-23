@@ -2,6 +2,7 @@
 title: Castaway
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '10'
 zone: '[[*]]'
 timeline: '[[Shipwrecked Timeline]]'

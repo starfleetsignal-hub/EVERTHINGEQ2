@@ -2,6 +2,7 @@
 title: 'Ruins of Varsoon: Golem Creation Process'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '34'
 difficulty: Heroic
 zone: '[[Antonica]]'

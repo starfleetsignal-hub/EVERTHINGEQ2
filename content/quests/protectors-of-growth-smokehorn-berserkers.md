@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Smokehorn Berserkers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '46'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

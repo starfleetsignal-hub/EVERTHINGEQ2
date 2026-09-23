@@ -2,6 +2,7 @@
 title: 'Midst Mission: Shade of Vex Thal (Heroic II)'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 difficulty: Heroic
 zone: '[[Vex Thal: Den of Shadows (Heroic II)]]'

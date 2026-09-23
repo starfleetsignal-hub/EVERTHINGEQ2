@@ -2,6 +2,7 @@
 title: Experimentation Most Foul
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '74'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

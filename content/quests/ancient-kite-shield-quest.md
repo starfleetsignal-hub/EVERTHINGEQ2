@@ -2,6 +2,7 @@
 title: Ancient Kite Shield (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 difficulty: Solo
 zone: '[[Antonica]]'

@@ -2,6 +2,7 @@
 title: Betrayal From Within
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '11'
 difficulty: Solo
 zone: '[[North Freeport]]'

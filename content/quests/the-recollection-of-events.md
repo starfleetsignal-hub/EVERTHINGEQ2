@@ -1,7 +1,8 @@
 ---
 title: The Recollection of Events
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '92'
 difficulty: Solo
 zone: '[[The Withered Lands]]'

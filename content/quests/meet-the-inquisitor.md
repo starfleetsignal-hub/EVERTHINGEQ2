@@ -2,6 +2,7 @@
 title: Meet the Inquisitor
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 zone: '[[Beggar''s Court]]'
 timeline: '[[Freeport Racial Timeline]]'

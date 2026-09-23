@@ -2,6 +2,7 @@
 title: 'Gorowyn: Wooly Grazers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '22'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

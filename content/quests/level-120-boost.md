@@ -2,6 +2,7 @@
 title: Level 120 boost!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '1'
 zone: '[[*]]'
 journal_category: none

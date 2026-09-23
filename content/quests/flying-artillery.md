@@ -2,6 +2,7 @@
 title: Flying Artillery
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '22'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

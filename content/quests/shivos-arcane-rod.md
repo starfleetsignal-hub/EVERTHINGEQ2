@@ -2,6 +2,7 @@
 title: Shivo's Arcane Rod
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 zone: '[[The Sprawl]]'
 timeline: '[[Freeport Outlying Areas Timeline]]'

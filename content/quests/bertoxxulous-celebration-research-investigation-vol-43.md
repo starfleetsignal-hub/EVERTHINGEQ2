@@ -2,6 +2,7 @@
 title: Bertoxxulous Celebration Research Investigation - Vol 43
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Antonica]]'

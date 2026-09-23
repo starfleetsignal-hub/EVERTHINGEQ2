@@ -2,6 +2,7 @@
 title: Ley of the Land
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '129'
 timeline: '[[Blood of Luclin Raid Timeline]]'
 journal_category: Hallmark

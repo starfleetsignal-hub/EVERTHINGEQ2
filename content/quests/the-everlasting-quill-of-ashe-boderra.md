@@ -2,6 +2,7 @@
 title: The Everlasting Quill of Ashe Boderra
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 zone: '[[*]]'
 timeline: '[[Dirge Epic Weapon Timeline]]'

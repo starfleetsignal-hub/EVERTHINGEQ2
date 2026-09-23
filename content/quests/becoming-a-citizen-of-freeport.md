@@ -24,6 +24,8 @@ source:
   revision: 613161
   revised: '2013-12-10T19:01:28Z'
   license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: patch
 ---
 
 **NOTE:** You must have +10,000 (amiable) or higher standing with the City of Freeport before Gol will offer you this quest. Once you qualify, he will no longer offer any of his other quests.

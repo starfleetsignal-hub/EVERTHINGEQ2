@@ -2,6 +2,7 @@
 title: 'Doctor''s Orders: The Kingdom of Wind'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '117'
 difficulty: Solo
 zone: '[[Eryslai, the Kingdom of Wind]]'

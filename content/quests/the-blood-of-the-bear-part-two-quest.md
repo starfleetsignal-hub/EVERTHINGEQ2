@@ -2,6 +2,7 @@
 title: The Blood of the Bear, Part Two (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 difficulty: Solo
 zone: '[[Enchanted Lands]]'

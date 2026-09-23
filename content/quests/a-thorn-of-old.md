@@ -2,6 +2,7 @@
 title: A Thorn of Old
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 difficulty: Epic
 zone: '[[The Barren Sky]]'

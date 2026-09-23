@@ -2,6 +2,7 @@
 title: Whispers in the Wind
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '62'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

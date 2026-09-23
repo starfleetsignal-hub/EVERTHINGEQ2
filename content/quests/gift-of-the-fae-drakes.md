@@ -2,6 +2,7 @@
 title: Gift of the Fae Drakes
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '59'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

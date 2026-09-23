@@ -2,6 +2,7 @@
 title: Wormling Defenses
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 zone: '[[South Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

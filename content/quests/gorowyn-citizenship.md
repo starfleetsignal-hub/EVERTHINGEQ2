@@ -2,6 +2,7 @@
 title: Gorowyn Citizenship
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[East Freeport]]'

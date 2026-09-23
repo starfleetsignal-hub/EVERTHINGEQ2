@@ -2,6 +2,7 @@
 title: The Bowels of Bonemire
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 difficulty: Epic
 zone: '[[Tenebrous Tangle]]'

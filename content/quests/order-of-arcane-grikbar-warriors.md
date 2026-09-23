@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Grikbar Warriors'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '37'
 difficulty: solo
 zone: '[[Greater Faydark]]'

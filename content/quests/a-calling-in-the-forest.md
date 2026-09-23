@@ -2,6 +2,7 @@
 title: A Calling in the Forest
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

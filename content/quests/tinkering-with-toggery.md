@@ -2,6 +2,7 @@
 title: Tinkering with Toggery
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[Lavastorm]]'

@@ -2,6 +2,7 @@
 title: How Broken Shore Bay Got Its Name
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '126'
 difficulty: Solo
 zone: '[[Svarni Expanse]]'

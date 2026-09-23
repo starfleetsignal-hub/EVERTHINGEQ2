@@ -2,6 +2,7 @@
 title: A Strange Brew
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '57'
 difficulty: Heroic
 zone: '[[The Lesser Faydark]]'

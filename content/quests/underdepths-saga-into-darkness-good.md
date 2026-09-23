@@ -2,6 +2,7 @@
 title: 'Underdepths Saga: Into Darkness (good)'
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

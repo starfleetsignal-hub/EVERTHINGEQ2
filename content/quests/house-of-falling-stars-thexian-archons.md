@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Thexian Archons'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '55'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

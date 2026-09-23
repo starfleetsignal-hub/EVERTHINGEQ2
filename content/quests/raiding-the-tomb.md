@@ -2,6 +2,7 @@
 title: Raiding the Tomb
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[The Crypt of Agony (Agnostic)]]'

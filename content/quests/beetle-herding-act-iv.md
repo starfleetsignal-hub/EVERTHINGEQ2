@@ -2,6 +2,7 @@
 title: Beetle Herding - Act IV
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '47'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

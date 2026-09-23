@@ -2,6 +2,7 @@
 title: 'Underdepths Saga: Eyes of the Ironshadow'
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Thalumbra, the Ever Deep]]'

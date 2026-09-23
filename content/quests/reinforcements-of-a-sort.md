@@ -2,6 +2,7 @@
 title: Reinforcements of a Sort
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '9'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

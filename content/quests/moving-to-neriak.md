@@ -1,7 +1,8 @@
 ---
 title: Moving to Neriak
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: Scales
 zone: '[[*]]'
 timeline: '[[Citizenship Timeline]]'

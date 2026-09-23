@@ -2,6 +2,7 @@
 title: The Secret of the Stone
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '85'
 difficulty: Epic
 zone: '[[The Moppet Shoppe: Into the Bowels of the Beast]]'

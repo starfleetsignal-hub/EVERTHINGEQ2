@@ -2,6 +2,7 @@
 title: 'Dismal Rage: Nurgan Scavengers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '71'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

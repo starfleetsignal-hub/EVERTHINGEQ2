@@ -2,6 +2,7 @@
 title: Salt Encrusted Treasure Hunt
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 journal_category: World Event

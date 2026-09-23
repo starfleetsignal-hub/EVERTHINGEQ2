@@ -2,6 +2,7 @@
 title: 'Gorowyn: Feral Dire Wolves'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 zone: '[[Thurgadin, City of the Coldain]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

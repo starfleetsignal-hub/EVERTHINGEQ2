@@ -2,6 +2,7 @@
 title: The Sins of Butcherblock
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '35'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

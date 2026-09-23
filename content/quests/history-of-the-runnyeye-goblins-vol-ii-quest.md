@@ -2,6 +2,7 @@
 title: '"History of the Runnyeye Goblins, Vol. II" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Runnyeye]]'
 timeline: '[[Book Quests Timeline]]'

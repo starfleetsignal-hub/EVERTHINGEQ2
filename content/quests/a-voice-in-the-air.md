@@ -2,6 +2,7 @@
 title: A Voice in the Air
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '40'
 difficulty: Heroic
 zone: '[[The Tower of the Drafling]]'

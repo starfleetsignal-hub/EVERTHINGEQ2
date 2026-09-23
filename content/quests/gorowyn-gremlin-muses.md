@@ -2,6 +2,7 @@
 title: 'Gorowyn: Gremlin Muses'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '63'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

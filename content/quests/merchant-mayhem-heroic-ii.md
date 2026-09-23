@@ -1,7 +1,8 @@
 ---
 title: Merchant Mayhem (Heroic II)
 type: quest
-expansion: Shattered Lands
+expansion: Visions of Vetrovia
+expansion_source: level
 level: '133'
 difficulty: Heroic
 journal_category: Mission

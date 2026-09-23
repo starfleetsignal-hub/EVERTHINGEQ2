@@ -2,6 +2,7 @@
 title: 'Doctor''s Orders: The Blinding''s Prismatic Depths'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 zone: '[[The Blinding]]'
 journal_category: Mission

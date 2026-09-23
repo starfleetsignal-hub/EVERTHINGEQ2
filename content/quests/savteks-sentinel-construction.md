@@ -2,6 +2,7 @@
 title: Savtek's Sentinel Construction
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '101'
 zone: '[[Vesspyr Isles]]'
 timeline: '[[Vesspyr Isles Timeline]]'

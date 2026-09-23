@@ -2,6 +2,7 @@
 title: Wanted Gnoll Bandit!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 journal_category: Antonica
 starts: examine [[A Wanted Poster (for 5 gnolls)|A Wanted Poster]]

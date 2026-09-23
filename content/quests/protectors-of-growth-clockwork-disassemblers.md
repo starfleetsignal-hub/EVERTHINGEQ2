@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Clockwork Disassemblers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '43'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

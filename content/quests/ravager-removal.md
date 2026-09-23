@@ -2,6 +2,7 @@
 title: Ravager Removal
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '66'
 zone: '[[The Elddar Grove]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

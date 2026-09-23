@@ -2,6 +2,7 @@
 title: 'Aether Racing: Great Divide'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Great Divide]]'

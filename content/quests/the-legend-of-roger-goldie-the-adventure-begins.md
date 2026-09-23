@@ -2,6 +2,7 @@
 title: 'The Legend of Roger Goldie: The Adventure Begins'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '32'
 difficulty: solo
 zone: '[[Butcherblock Mountains]]'

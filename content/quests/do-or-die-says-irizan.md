@@ -2,6 +2,7 @@
 title: Do or Die, Says Irizan
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

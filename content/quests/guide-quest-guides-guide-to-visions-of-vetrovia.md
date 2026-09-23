@@ -2,6 +2,7 @@
 title: 'Guide Quest: Guide''s Guide to Visions of Vetrovia'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Kylong Plains]]'

@@ -2,6 +2,7 @@
 title: Talisman Lost
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

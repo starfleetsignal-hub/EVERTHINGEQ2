@@ -2,6 +2,7 @@
 title: Proof of Their Passing
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '64'
 difficulty: Solo
 zone: '[[South Qeynos]]'

@@ -2,6 +2,7 @@
 title: Sticky Situation
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 zone: '[[The Serpent Sewer]]'
 timeline: '[[Freeport Sewers Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Gorowyn: Canyon Shrillers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '21'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

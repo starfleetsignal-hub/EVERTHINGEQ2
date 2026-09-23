@@ -2,6 +2,7 @@
 title: Striking Fear Into the Carrion Dregs
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

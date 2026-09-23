@@ -1,7 +1,8 @@
 ---
 title: Screewoggins Stranded
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '85'
 difficulty: Heroic
 zone: '[[Enchanted Lands]]'

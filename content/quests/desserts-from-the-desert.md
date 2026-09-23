@@ -1,7 +1,8 @@
 ---
 title: Desserts from the Desert
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

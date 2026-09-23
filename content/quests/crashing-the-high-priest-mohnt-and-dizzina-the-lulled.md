@@ -2,6 +2,7 @@
 title: Crashing the High Priest Mohnt and Dizzina the Lulled
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Great Divide]]'

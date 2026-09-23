@@ -1,7 +1,8 @@
 ---
 title: 'New Halas: Reclusive Spiders'
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '73'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

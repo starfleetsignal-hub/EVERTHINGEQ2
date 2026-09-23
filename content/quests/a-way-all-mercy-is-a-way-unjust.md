@@ -2,6 +2,7 @@
 title: A Way All Mercy is a Way Unjust
 type: quest
 expansion: Age of Discovery
+expansion_source: questline
 level: '95'
 difficulty: Heroic
 zone: '[[Jarsath Wastes]]'

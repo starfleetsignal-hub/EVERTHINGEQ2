@@ -2,6 +2,7 @@
 title: 'Tunarian Alliance: Brokenskull Mates'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '76'
 zone: '[[Moors of Ykesha]]'
 journal_category: City Tasks

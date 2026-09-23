@@ -1,7 +1,8 @@
 ---
 title: The Kragbak Strongbox
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '62'
 difficulty: Heroic
 zone: '[[Kaladim]]'

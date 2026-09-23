@@ -2,6 +2,7 @@
 title: 'Host of Thyr. Act II: Corruption'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '49'
 difficulty: Heroic
 zone: '[[Solusek''s Eye]]'

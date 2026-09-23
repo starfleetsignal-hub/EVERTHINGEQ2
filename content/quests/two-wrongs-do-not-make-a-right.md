@@ -2,6 +2,7 @@
 title: Two Wrongs Do Not Make a Right
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '26'
 difficulty: Heroic
 zone: '[[The Crypt of Betrayal]]'

@@ -2,6 +2,7 @@
 title: The Torches of Forewarning and Onward to Cauldron Hollow
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '29'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

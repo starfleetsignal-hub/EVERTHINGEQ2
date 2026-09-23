@@ -1,7 +1,8 @@
 ---
 title: Blub, Blub - Something Smells Fishy
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '13'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

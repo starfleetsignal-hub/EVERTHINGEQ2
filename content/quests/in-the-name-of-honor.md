@@ -1,7 +1,8 @@
 ---
 title: In the Name of Honor
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '4'
 zone: '[[Outpost of the Overlord]]'
 timeline: '[[Isle of Refuge Timeline]]'

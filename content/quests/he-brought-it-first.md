@@ -2,6 +2,7 @@
 title: He Brought It First!
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '86'
 difficulty: Heroic
 zone: '[[Kunzar Jungle]]'

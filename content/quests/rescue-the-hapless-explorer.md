@@ -2,6 +2,7 @@
 title: Rescue the Hapless Explorer
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '35'
 difficulty: Solo
 zone: '[[Tombs of Night]]'

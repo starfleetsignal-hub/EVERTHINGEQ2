@@ -2,6 +2,7 @@
 title: Feats of Burning Devotion
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

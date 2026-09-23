@@ -1,7 +1,8 @@
 ---
 title: 'Gorowyn: Fauna Stalkers'
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '80'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

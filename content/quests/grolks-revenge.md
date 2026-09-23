@@ -2,6 +2,7 @@
 title: Grolk's Revenge!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

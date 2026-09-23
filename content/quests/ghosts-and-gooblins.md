@@ -2,6 +2,7 @@
 title: Ghosts and Gooblins
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '108'
 difficulty: Solo
 zone: '[[Crypt of Dalnir: Ritual Chamber (Solo)]]'

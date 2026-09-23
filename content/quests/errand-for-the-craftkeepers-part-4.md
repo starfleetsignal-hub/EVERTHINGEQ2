@@ -1,7 +1,8 @@
 ---
 title: Errand for the Craftkeepers, part 4
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '82'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

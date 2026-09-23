@@ -2,6 +2,7 @@
 title: Seeking the Past
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '48'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Court of Truth Timeline]]'

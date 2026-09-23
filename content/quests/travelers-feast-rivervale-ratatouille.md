@@ -1,7 +1,8 @@
 ---
 title: Traveler's Feast – Rivervale Ratatouille
 type: quest
-expansion: Shattered Lands
+expansion: Reign of Shadows
+expansion_source: timeline
 level: '120'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'

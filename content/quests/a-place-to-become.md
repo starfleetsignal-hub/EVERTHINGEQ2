@@ -2,6 +2,7 @@
 title: A Place to Become
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '44'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

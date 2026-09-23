@@ -2,6 +2,7 @@
 title: The Never-ending Search for More Booty!
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Brokenskull Bay: Spoils of Maraud (Contested)]]'

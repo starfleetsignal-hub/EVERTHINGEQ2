@@ -2,6 +2,7 @@
 title: Terror of the Feerrott
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '46'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

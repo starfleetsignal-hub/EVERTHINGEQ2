@@ -2,6 +2,7 @@
 title: '"The Age of Turmoil" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '49'
 zone: '[[*]]'
 timeline: '[[Permafrost Timeline]]'

@@ -2,6 +2,7 @@
 title: Green Hood Beheading
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '33'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Deity Timeline]]'

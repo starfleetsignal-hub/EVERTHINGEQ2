@@ -1,7 +1,8 @@
 ---
 title: The Final Assault
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '6'
 zone: '[[Outpost of the Overlord]]'
 timeline: '[[Isle of Refuge Timeline]]'

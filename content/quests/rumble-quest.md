@@ -2,6 +2,7 @@
 title: Rumble (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 zone: '[[Stormhold]]'
 timeline: '[[Stormhold Timeline]]'

@@ -2,6 +2,7 @@
 title: A Chore for Cazic
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '39'
 difficulty: Heroic
 zone: '[[The Temple of Cazic-Thule]]'

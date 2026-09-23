@@ -2,6 +2,7 @@
 title: 'Cracking the Crypts: Ancestral Crypt of Z''Tozia'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Mahngavi Wastes]]'

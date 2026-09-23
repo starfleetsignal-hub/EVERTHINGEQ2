@@ -2,6 +2,7 @@
 title: Handle With Care (Tranquil Sea)
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '99'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

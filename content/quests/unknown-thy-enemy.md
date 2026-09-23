@@ -2,6 +2,7 @@
 title: Unknown Thy Enemy
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '143'
 difficulty: Heroic
 zone: '[[*]]'

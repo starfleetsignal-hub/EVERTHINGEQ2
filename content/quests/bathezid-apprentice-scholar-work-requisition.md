@@ -2,6 +2,7 @@
 title: Bathezid Apprentice Scholar Work Requisition
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '72'
 zone: '[[Fens of Nathsar]]'
 journal_category: Tradeskill

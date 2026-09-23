@@ -2,6 +2,7 @@
 title: 'Qeynos: Ry''Gorr Thaumaturgists'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Solo
 zone: '[[Thurgadin]]'

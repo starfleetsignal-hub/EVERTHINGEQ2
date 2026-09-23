@@ -2,6 +2,7 @@
 title: List of Acquisitions for the Continuing of Research
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '40'
 zone: '[[The Obelisk of Lost Souls]]'
 timeline: '[[The Obelisk of Lost Souls Timeline]]'

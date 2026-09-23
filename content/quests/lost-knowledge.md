@@ -1,7 +1,8 @@
 ---
 title: Lost Knowledge
 type: quest
-expansion: Shattered Lands
+expansion: Terrors of Thalumbra
+expansion_source: level
 level: '106'
 journal_category: 'Arcanna''se Spire: Repository of Secrets'
 categories:

@@ -2,6 +2,7 @@
 title: The Maidens' Reception
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[Palace of the Awakened]]'

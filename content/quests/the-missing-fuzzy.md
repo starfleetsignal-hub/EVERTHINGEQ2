@@ -2,6 +2,7 @@
 title: The Missing Fuzzy
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '84'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'

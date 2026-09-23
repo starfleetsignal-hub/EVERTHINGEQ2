@@ -2,6 +2,7 @@
 title: Meet the Custodian
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 zone: '[[Longshadow Alley]]'
 timeline: '[[Freeport Racial Timeline]]'

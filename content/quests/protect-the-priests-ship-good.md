@@ -2,6 +2,7 @@
 title: Protect the Priest's Ship! (Good)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '34'
 zone: '[[The QSS Bootstrutter]]'
 timeline: '[[Feerrott Timeline]]'

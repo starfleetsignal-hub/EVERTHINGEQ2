@@ -1,7 +1,8 @@
 ---
 title: Providing for Ergra
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '91'
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

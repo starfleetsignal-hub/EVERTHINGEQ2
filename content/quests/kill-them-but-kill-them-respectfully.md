@@ -2,6 +2,7 @@
 title: Kill Them, But Kill Them Respectfully
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '73'
 difficulty: Heroic
 zone: '[[Kylong Plains]]'

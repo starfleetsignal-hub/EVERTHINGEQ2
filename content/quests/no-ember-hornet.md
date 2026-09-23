@@ -2,6 +2,7 @@
 title: No Ember Hornet
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '72'
 zone: '[[Kylong Plains]]'
 timeline: '[[Kylong Plains Timeline]]'

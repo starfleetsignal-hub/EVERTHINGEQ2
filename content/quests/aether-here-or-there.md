@@ -2,6 +2,7 @@
 title: Aether Here or There
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '138'
 difficulty: Solo
 zone: '[[Splendor Sky Aerie]]'

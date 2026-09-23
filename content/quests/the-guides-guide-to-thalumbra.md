@@ -2,6 +2,7 @@
 title: The Guide's Guide to Thalumbra
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

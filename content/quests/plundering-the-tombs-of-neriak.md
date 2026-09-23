@@ -2,6 +2,7 @@
 title: Plundering the Tombs of Neriak
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 difficulty: Heroic
 zone: '[[South Freeport]]'

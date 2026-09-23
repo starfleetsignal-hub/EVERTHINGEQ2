@@ -2,6 +2,7 @@
 title: Checking on the Shadowed Grove
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '51'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

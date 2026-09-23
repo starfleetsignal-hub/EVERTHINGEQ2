@@ -2,6 +2,7 @@
 title: On The Overlord's Secret Service
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '55'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

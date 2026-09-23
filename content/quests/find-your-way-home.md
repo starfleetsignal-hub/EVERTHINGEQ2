@@ -2,6 +2,7 @@
 title: Find Your Way Home
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[Naya''Patel: Realm of the Dead]]'

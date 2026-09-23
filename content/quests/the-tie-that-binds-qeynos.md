@@ -2,6 +2,7 @@
 title: The Tie That Binds (Qeynos)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 zone: '[[Antonica]]'
 journal_category: Hallmark

@@ -2,6 +2,7 @@
 title: Walk the halls
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[The Ruins of Guk: Halls of the Fallen (Agnostic)]]'

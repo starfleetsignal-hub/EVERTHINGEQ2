@@ -2,6 +2,7 @@
 title: An Important Delivery (Lesser Faydark)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '50'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

@@ -2,6 +2,7 @@
 title: Assault on the Rebel Camp
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '74'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

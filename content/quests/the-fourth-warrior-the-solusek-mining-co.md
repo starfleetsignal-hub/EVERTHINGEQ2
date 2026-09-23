@@ -2,6 +2,7 @@
 title: The Fourth Warrior - The Solusek Mining Co.
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

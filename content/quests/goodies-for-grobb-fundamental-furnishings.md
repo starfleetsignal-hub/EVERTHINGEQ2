@@ -2,6 +2,7 @@
 title: Goodies for Grobb - Fundamental Furnishings
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 zone: '[[Moors of Ykesha]]'
 journal_category: Tradeskill

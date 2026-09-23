@@ -2,6 +2,7 @@
 title: 'The Hangry Halfling: Svarni Expanse'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Renfry''s Basement]]'

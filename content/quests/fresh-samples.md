@@ -2,6 +2,7 @@
 title: Fresh Samples
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 difficulty: Solo
 zone: '[[The Serpent Sewer]]'

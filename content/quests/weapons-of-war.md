@@ -1,7 +1,8 @@
 ---
 title: Weapons of War
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '55'
 difficulty: Heroic
 zone: '[[West Freeport]]'

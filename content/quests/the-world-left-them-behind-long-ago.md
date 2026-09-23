@@ -2,6 +2,7 @@
 title: The World Left Them Behind Long Ago
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

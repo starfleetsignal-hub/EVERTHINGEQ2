@@ -2,6 +2,7 @@
 title: Tillin's Gnoll Woes
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 difficulty: Solo
 zone: '[[Antonica]]'

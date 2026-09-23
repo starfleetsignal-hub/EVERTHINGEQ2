@@ -2,6 +2,7 @@
 title: Surveyor Says
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '31'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

@@ -2,6 +2,7 @@
 title: Paludal Removal
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '118'
 difficulty: Heroic
 zone: '[[Aurelian Coast]]'

@@ -2,6 +2,7 @@
 title: Far Seas Requisition - FG 016 (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '23'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

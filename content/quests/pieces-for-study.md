@@ -2,6 +2,7 @@
 title: Pieces For Study
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 zone: '[[Everfrost]]'
 journal_category: Mission

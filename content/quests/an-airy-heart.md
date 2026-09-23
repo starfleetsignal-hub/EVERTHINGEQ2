@@ -2,6 +2,7 @@
 title: An Airy Heart
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: heroic
 zone: '[[Kylong Plains]]'

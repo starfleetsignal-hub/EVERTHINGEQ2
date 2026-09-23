@@ -2,6 +2,7 @@
 title: The Relic of Storm (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '41'
 difficulty: Epic
 zone: '[[Zek, the Orcish Wastes]]'

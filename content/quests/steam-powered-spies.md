@@ -2,6 +2,7 @@
 title: Steam-Powered Spies
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '40'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

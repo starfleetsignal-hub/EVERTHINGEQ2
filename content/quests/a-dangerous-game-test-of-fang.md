@@ -2,6 +2,7 @@
 title: A Dangerous Game! Test of Fang!
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'

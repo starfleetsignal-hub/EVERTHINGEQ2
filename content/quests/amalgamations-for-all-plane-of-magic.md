@@ -2,6 +2,7 @@
 title: 'Amalgamations for All: Plane of Magic'
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

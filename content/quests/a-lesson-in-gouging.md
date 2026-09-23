@@ -2,6 +2,7 @@
 title: A Lesson in Gouging
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 zone: '[[Maj''Dul]]'
 timeline: '[[Maj''Dul Timeline]]'

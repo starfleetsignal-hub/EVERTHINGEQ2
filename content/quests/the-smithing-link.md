@@ -2,6 +2,7 @@
 title: The Smithing Link
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '116'
 difficulty: Solo
 zone: '[[Aurelian Coast]]'

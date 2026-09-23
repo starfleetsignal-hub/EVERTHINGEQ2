@@ -2,6 +2,7 @@
 title: Additional Samples
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '69'
 difficulty: Solo
 zone: '[[Loping Plains]]'

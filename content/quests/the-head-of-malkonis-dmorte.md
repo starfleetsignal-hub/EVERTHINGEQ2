@@ -2,6 +2,7 @@
 title: The Head of Malkonis D'Morte
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Epic
 zone: '[[Freethinker Hideout]]'

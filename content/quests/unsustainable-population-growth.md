@@ -2,6 +2,7 @@
 title: Unsustainable Population Growth
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

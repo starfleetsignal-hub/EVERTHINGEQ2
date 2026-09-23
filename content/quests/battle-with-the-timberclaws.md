@@ -2,6 +2,7 @@
 title: Battle with the Timberclaws
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '15'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

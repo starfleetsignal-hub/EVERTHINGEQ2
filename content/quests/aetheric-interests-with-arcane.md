@@ -2,6 +2,7 @@
 title: Aetheric Interests with Arcane
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Aether Wroughtlands]]'
 timeline: '[[Ballads of Zimara Timeline]]'

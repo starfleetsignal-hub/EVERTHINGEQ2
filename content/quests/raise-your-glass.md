@@ -2,6 +2,7 @@
 title: Raise Your Glass
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '94'
 difficulty: Heroic
 zone: '[[Hold of Rime: The Ascent]]'

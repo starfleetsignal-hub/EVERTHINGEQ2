@@ -2,6 +2,7 @@
 title: Old Man Cedric's Stool
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '23'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Geonach Rumblers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '49'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

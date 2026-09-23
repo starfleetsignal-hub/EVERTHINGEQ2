@@ -2,6 +2,7 @@
 title: Where Spirocs Dare
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '22'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

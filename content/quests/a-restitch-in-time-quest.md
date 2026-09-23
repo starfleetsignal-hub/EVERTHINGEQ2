@@ -2,6 +2,7 @@
 title: A Restitch in Time (Quest)
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '115'
 difficulty: Heroic
 zone: '[[Coliseum of Valor]]'

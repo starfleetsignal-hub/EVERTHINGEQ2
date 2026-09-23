@@ -2,6 +2,7 @@
 title: Bug Begone
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

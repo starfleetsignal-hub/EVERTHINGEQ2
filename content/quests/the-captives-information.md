@@ -1,7 +1,8 @@
 ---
 title: The Captive's Information
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '19'
 zone: '[[The City of Freeport]]'
 timeline: '[[The City of Freeport Timeline]]'

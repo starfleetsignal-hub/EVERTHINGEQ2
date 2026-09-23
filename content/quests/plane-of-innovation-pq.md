@@ -1,7 +1,8 @@
 ---
 title: Plane of Innovation PQ
 type: quest
-expansion: Shattered Lands
+expansion: Planes of Prophecy
+expansion_source: timeline
 level: '112'
 difficulty: Epic
 zone: '[[*]]'

@@ -2,6 +2,7 @@
 title: 'Echo Caverns: Secret of Sentry Overlook'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '126'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

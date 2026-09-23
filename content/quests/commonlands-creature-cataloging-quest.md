@@ -2,6 +2,7 @@
 title: Commonlands Creature Cataloging (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '20'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

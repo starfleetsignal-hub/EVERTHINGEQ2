@@ -2,6 +2,7 @@
 title: Far Seas Requisition. ANT0243
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '13'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

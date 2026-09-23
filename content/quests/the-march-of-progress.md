@@ -2,6 +2,7 @@
 title: The March of Progress
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '26'
 difficulty: Solo
 zone: '[[North Freeport]]'

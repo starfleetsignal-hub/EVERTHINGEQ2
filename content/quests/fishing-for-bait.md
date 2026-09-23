@@ -2,6 +2,7 @@
 title: Fishing for Bait
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '18'
 difficulty: Solo
 zone: '[[Antonica]]'

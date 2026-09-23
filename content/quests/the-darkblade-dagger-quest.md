@@ -2,6 +2,7 @@
 title: The Darkblade Dagger (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 difficulty: Solo
 zone: '[[The Thieves'' Way]]'

@@ -2,6 +2,7 @@
 title: No Pride to Speak Of
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 difficulty: Solo
 zone: '[[Plane of Magic]]'

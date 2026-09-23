@@ -2,6 +2,7 @@
 title: Drop Your Weapon
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[Fens of Nathsar]]'

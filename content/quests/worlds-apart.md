@@ -2,6 +2,7 @@
 title: Worlds Apart
 type: quest
 expansion: Age of Discovery
+expansion_source: patch
 level: '80'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[Beastlord Lore Timeline]]'

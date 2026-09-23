@@ -2,6 +2,7 @@
 title: Tomb Guard's Chair
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '15'
 zone: '[[Vermin''s Snye]]'
 timeline: '[[Qeynos Catacombs Timeline]]'

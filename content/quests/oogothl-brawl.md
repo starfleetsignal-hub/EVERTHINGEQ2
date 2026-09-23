@@ -2,6 +2,7 @@
 title: Oogothl Brawl
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '139'
 difficulty: Solo
 zone: '[[*]]'

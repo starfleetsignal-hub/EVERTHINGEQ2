@@ -2,6 +2,7 @@
 title: 'Dismantling Haoaera: Tappers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '17'
 zone: '[[Timorous Deep]]'
 timeline: '[[Timorous Deep Timeline]]'

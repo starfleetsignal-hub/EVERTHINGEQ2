@@ -2,6 +2,7 @@
 title: The Malgurt (Quest)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '20'
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'

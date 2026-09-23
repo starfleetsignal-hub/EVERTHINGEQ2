@@ -2,6 +2,7 @@
 title: Reporting to the Ruins
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 zone: '[[The Graveyard]]'
 timeline: '[[The Graveyard Timeline]]'

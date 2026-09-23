@@ -2,6 +2,7 @@
 title: Confirming the Right Track
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '56'
 zone: '[[The Silent City]]'
 timeline: '[[Peacock Club Timeline]]'

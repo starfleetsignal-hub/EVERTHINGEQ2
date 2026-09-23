@@ -2,6 +2,7 @@
 title: Crash Course
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '92'
 difficulty: Heroic
 zone: '[[The Vigilant: Incursion]]'

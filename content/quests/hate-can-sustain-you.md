@@ -2,6 +2,7 @@
 title: Hate Can Sustain You
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

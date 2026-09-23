@@ -2,6 +2,7 @@
 title: Plagued With Questions
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '101'
 zone: '[[Phantom Sea]]'
 timeline: '[[Shattered Seas Timeline]]'

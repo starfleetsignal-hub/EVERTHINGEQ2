@@ -2,6 +2,7 @@
 title: Takish Field Research Requisition A
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '125'
 zone: '[[Takish Badlands]]'
 journal_category: Tradeskill

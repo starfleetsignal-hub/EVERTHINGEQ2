@@ -2,6 +2,7 @@
 title: 'Dismal Rage: Brokenskull Handlers'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '76'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Freeport City Tasks Timeline]]'

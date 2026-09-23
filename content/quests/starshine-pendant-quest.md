@@ -2,6 +2,7 @@
 title: Starshine Pendant (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 zone: '[[Rivervale]]'
 timeline: '[[Rivervale Timeline]]'

@@ -2,6 +2,7 @@
 title: Frostfin Hunting
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '41'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

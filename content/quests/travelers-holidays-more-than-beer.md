@@ -1,7 +1,8 @@
 ---
 title: Traveler's Holidays - More than Beer?
 type: quest
-expansion: Shattered Lands
+expansion: Reign of Shadows
+expansion_source: timeline
 level: Scales
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'

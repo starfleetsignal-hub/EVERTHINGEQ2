@@ -2,6 +2,7 @@
 title: Training is a Shield
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 difficulty: Heroic
 zone: '[[Zek, the Orcish Wastes]]'

@@ -2,6 +2,7 @@
 title: The Gathering
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

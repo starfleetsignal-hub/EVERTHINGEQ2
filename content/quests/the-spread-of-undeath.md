@@ -2,6 +2,7 @@
 title: The Spread of Undeath
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '50'
 difficulty: Heroic
 zone: '[[North Qeynos]]'

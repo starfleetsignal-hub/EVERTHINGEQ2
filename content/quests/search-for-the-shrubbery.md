@@ -2,6 +2,7 @@
 title: Search for the Shrubbery
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '3'
 difficulty: Solo
 zone: '[[Big Bend]]'

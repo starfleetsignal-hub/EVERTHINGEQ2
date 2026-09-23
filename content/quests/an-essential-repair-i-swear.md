@@ -2,6 +2,7 @@
 title: An Essential Repair, I Swear
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '78'
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'

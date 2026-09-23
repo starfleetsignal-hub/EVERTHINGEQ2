@@ -2,6 +2,7 @@
 title: A Tour of the Feerrott
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

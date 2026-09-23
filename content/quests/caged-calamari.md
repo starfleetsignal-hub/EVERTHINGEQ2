@@ -2,6 +2,7 @@
 title: Caged Calamari
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '92'
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

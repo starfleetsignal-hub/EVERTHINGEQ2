@@ -2,6 +2,7 @@
 title: 'Celestial Watch: Drachnid Hunters'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '68'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

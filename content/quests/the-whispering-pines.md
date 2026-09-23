@@ -2,6 +2,7 @@
 title: The Whispering Pines
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

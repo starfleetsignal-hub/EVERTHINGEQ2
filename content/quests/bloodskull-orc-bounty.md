@@ -2,6 +2,7 @@
 title: Bloodskull Orc Bounty
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '14'
 difficulty: solo
 zone: '[[The Commonlands]]'

@@ -2,6 +2,7 @@
 title: Clockwork Despair
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '48'
 difficulty: Heroic
 zone: '[[Steamfont Mountains]]'

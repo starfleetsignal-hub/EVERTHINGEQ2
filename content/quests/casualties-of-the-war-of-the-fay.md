@@ -2,6 +2,7 @@
 title: Casualties of the War of the Fay
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 difficulty: Epic
 zone: '[[Greater Faydark]]'

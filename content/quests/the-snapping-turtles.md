@@ -2,6 +2,7 @@
 title: The Snapping Turtles
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '33'
 difficulty: Solo
 zone: '[[South Freeport]]'

@@ -1,7 +1,8 @@
 ---
 title: That Cheating Gnome!
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '6'
 zone: '[[Oakmyst Forest]]'
 starts: Speak with [[Jorn Sorefoot]] at {{waypoint 848, 8, -202}}

@@ -2,6 +2,7 @@
 title: Barking at the Moon
 type: quest
 expansion: Tears of Veeshan
+expansion_source: questline
 level: '101'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

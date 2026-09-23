@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Ebon Drakes'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '46'
 difficulty: solo
 zone: '[[Greater Faydark]]'

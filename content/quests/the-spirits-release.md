@@ -2,6 +2,7 @@
 title: The Spirit's Release
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '7'
 difficulty: Solo
 zone: '[[The Thieves'' Way]]'

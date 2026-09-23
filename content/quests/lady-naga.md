@@ -2,6 +2,7 @@
 title: Lady Naga
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 zone: '[[The Pillars of Flame]]'
 timeline: '[[Shimmering Citadel Timeline]]'

@@ -2,6 +2,7 @@
 title: Zealots of The Consumer
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '135'
 difficulty: Solo
 zone: '[[The Unknown]]'

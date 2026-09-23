@@ -2,6 +2,7 @@
 title: 'Hold of Rime: Forgotten Pools - Life: Not as We Know It'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '94'
 difficulty: Heroic
 zone: '[[Great Divide]]'

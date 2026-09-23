@@ -2,6 +2,7 @@
 title: Forced Reduction in Force
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Zimara Breadth]]'

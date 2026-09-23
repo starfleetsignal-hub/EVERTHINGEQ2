@@ -2,6 +2,7 @@
 title: Take My Xebrith Away
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '143'
 difficulty: Epic
 zone: '[[The Unknown]]'

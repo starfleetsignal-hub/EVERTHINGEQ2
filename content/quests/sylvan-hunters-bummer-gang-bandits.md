@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Bummer Gang Bandits'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '61'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

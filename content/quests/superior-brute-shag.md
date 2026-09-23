@@ -2,6 +2,7 @@
 title: Superior Brute Shag
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '73'
 difficulty: solo
 zone: '[[Fens of Nathsar]]'

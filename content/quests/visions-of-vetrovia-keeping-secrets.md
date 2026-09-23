@@ -2,6 +2,7 @@
 title: 'Visions of Vetrovia: Keeping Secrets'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '126'
 difficulty: Solo
 zone: '[[Svarni Expanse]]'

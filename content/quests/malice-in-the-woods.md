@@ -2,6 +2,7 @@
 title: Malice in the Woods
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Darklight Wood]]'
 journal_category: World Event

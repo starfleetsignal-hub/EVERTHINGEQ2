@@ -2,6 +2,7 @@
 title: Inside the Edgewater Drains
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 difficulty: Heroic
 zone: '[[Edgewater Drains]]'

@@ -2,6 +2,7 @@
 title: The Heart of Bones
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '103'
 difficulty: Epic
 zone: '[[*]]'

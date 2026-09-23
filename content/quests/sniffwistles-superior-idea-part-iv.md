@@ -2,6 +2,7 @@
 title: 'Sniffwistle''s Superior Idea: Part IV'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '15'
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'

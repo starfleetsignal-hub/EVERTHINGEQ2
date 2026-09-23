@@ -2,6 +2,7 @@
 title: Help Mog
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Moors of Ykesha Timeline]]'

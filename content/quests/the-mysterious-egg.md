@@ -2,6 +2,7 @@
 title: The Mysterious Egg
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '50'
 zone: '[[*]]'
 journal_category: Miscellaneous

@@ -2,6 +2,7 @@
 title: Splinter of the Maiden's Eye
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '118'
 difficulty: Solo
 zone: '[[Aurelian Coast]]'

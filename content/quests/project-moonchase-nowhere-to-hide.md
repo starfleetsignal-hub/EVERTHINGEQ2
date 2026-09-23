@@ -2,6 +2,7 @@
 title: 'Project Moonchase: Nowhere to Hide'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 difficulty: Heroic
 zone: '[[The Blinding]]'

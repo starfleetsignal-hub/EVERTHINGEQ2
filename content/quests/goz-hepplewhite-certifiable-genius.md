@@ -2,6 +2,7 @@
 title: Goz Hepplewhite, Certifiable Genius
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '49'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

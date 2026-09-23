@@ -2,6 +2,7 @@
 title: Toxic Glands for Erollisi's Bane
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

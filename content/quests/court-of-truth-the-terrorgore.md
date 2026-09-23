@@ -2,6 +2,7 @@
 title: 'Court of Truth: The Terrorgore'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '53'
 difficulty: Heroic
 zone: '[[The Court of Truth]]'

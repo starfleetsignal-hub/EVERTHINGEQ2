@@ -2,6 +2,7 @@
 title: '"Remembrances - Berrox" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '43'
 zone: '[[*]]'
 timeline: '[[The Obelisk of Lost Souls Timeline]]'

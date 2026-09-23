@@ -1,7 +1,8 @@
 ---
 title: A Fallen Green Hood's Final Tasks
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '40'
 difficulty: Heroic
 zone: '[[Deathfist Citadel]]'

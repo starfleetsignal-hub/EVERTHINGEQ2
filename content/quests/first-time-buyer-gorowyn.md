@@ -1,7 +1,8 @@
 ---
 title: First Time Buyer (Gorowyn)
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: Scales
 zone: '[[Timorous Deep]]'
 timeline: '[[Timorous Deep Timeline]]'

@@ -2,6 +2,7 @@
 title: A Foul Wind (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 difficulty: Heroic
 zone: '[[Antonica]]'

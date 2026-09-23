@@ -2,6 +2,7 @@
 title: Ain't No Monkey Business
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '28'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

@@ -2,6 +2,7 @@
 title: Tap Into the Power
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '47'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

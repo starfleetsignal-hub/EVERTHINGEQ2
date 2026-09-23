@@ -2,6 +2,7 @@
 title: By Land? By Air? By Sea?
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[The Bonemire]]'

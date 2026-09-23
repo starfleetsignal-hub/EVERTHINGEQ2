@@ -2,6 +2,7 @@
 title: Bandit Sash Bounty
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '17'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

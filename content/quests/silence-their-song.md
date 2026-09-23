@@ -1,7 +1,8 @@
 ---
 title: Silence Their Song
 type: quest
-expansion: Shattered Lands
+expansion: Chains of Eternity
+expansion_source: timeline
 level: '103'
 difficulty: Heroic
 zone: '[[Cobalt Scar]]'

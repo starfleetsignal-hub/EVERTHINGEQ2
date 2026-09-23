@@ -2,6 +2,7 @@
 title: Adventures in Nestsitting
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Splendor Sky Aerie]]'
 starts: Speak to [[Kudurri]] on [[Preening Island]] at {{waypoint -356.26, 194.92, 1181.93}}

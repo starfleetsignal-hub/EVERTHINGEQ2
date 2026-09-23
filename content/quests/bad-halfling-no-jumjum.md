@@ -2,6 +2,7 @@
 title: Bad Halfling No JumJum
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 zone: '[[Enchanted Lands]]'
 journal_category: Enchanted Lands

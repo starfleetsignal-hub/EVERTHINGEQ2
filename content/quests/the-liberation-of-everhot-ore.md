@@ -2,6 +2,7 @@
 title: The Liberation of Everhot Ore
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '34'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

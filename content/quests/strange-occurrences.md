@@ -2,6 +2,7 @@
 title: Strange Occurrences
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '20'
 zone: '[[North Qeynos]]'
 timeline: '[[Rodcet Nife Timeline]]'

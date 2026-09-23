@@ -1,7 +1,8 @@
 ---
 title: Kestrel Pot Pie (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '20'
 difficulty: Solo
 zone: '[[Frostfang Sea]]'

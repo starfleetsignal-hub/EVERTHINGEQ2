@@ -2,6 +2,7 @@
 title: Hadden's Earring
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

@@ -2,6 +2,7 @@
 title: 'Just Deserts: The Sultan''s Dagger (Signature)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

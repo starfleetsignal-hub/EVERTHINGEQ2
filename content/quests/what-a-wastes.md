@@ -2,6 +2,7 @@
 title: What a Wastes
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '138'
 zone: '[[Western Wastes]]'
 timeline: '[[Scars of Destruction Timeline]]'

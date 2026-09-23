@@ -2,6 +2,7 @@
 title: 'Were Is the Messenger: Different Tastes'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Svarni Expanse]]'

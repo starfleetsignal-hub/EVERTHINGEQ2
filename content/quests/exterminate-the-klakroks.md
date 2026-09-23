@@ -2,6 +2,7 @@
 title: Exterminate the Klakroks
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '31'
 difficulty: Solo
 zone: '[[West Freeport]]'

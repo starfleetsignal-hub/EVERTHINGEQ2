@@ -2,6 +2,7 @@
 title: Jenni's Stained Pants
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: solo
 zone: '[[Obol Plains]]'

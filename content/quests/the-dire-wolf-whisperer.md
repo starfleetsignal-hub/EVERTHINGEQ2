@@ -2,6 +2,7 @@
 title: The Dire Wolf Whisperer
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '61'
 difficulty: Solo
 zone: '[[Loping Plains]]'

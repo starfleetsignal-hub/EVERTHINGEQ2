@@ -2,6 +2,7 @@
 title: The Heart of Fear
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '47'
 difficulty: Heroic
 zone: '[[The Temple of Cazic-Thule]]'

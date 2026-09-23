@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Krulkiel Bashers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '31'
 difficulty: solo
 zone: '[[Greater Faydark]]'

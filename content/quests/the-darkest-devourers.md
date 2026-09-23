@@ -2,6 +2,7 @@
 title: The Darkest Devourers
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '18'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

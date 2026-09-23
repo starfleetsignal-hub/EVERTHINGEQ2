@@ -2,6 +2,7 @@
 title: The Yarpsnarls
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '23'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

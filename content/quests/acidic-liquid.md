@@ -2,6 +2,7 @@
 title: Acidic Liquid
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 zone: '[[The Ruins of Varsoon]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

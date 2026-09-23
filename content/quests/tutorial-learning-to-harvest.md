@@ -2,6 +2,7 @@
 title: 'Tutorial: Learning to Harvest'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '2'
 zone: '[[*]]'
 timeline: '[[Tradeskill Timeline]]'

@@ -2,6 +2,7 @@
 title: Light as a Feather, Stiff as a Sword
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '15'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

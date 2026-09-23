@@ -2,6 +2,7 @@
 title: Plundering the Ruins of the Dead
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 difficulty: Solo
 zone: '[[South Freeport]]'

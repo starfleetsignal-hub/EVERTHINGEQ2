@@ -2,6 +2,7 @@
 title: One Too Many
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

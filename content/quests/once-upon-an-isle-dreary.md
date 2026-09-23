@@ -2,6 +2,7 @@
 title: Once Upon an Isle Dreary
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 difficulty: Solo
 zone: '[[Antonica]]'

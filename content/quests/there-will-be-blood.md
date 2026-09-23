@@ -2,6 +2,7 @@
 title: There Will Be Blood
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '103'
 difficulty: Heroic
 zone: '[[*]]'

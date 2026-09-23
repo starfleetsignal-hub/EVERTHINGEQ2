@@ -2,6 +2,7 @@
 title: Guide's Guide to Luclin
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

@@ -2,6 +2,7 @@
 title: Wrapping It All Up
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Epic
 zone: '[[The Silent City]]'

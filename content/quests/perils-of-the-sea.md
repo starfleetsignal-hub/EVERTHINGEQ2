@@ -2,6 +2,7 @@
 title: Perils of the Sea
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '45'
 difficulty: solo
 zone: '[[The City of Freeport]]'

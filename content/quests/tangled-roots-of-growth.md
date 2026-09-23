@@ -2,6 +2,7 @@
 title: Tangled Roots of Growth
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '93'
 difficulty: Heroic
 zone: '[[Eastern Wastes]]'

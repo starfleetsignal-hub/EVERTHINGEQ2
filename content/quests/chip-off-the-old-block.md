@@ -2,6 +2,7 @@
 title: Chip Off the Old Block
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 difficulty: solo
 zone: '[[Plane of Magic]]'

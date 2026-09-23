@@ -2,6 +2,7 @@
 title: Why Don't the Ayriegales Sing
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 zone: '[[Plane of Magic]]'
 timeline: '[[Planes of Prophecy Timeline]]'

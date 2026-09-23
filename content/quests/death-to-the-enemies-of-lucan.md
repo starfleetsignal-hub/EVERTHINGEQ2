@@ -1,7 +1,8 @@
 ---
 title: Death to the Enemies of Lucan!
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '55'
 difficulty: Solo
 zone: '[[West Freeport]]'

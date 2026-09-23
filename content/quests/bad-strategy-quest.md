@@ -2,6 +2,7 @@
 title: Bad Strategy (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 journal_category: Lost Temple of Cazic-Thule
 starts: examine [[Bad strategy (Quest Starter)|bad strategy]]

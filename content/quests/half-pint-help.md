@@ -2,6 +2,7 @@
 title: Half Pint Help
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 zone: '[[The Ruins of Varsoon]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

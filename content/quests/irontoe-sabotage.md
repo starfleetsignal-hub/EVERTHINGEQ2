@@ -1,7 +1,8 @@
 ---
 title: Irontoe Sabotage
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '26'
 difficulty: Solo
 zone: '[[Antonica]]'

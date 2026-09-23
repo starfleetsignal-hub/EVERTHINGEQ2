@@ -2,6 +2,7 @@
 title: 'Leatherfoot Tales: The Houndslayer, Part Three, 2nd Ed. (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 zone: '[[Rivervale]]'
 timeline: '[[Rivervale Timeline]]'

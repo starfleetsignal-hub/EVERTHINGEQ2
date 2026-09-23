@@ -2,6 +2,7 @@
 title: A Bounty is in Order
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 zone: '[[Echo Caverns]]'
 journal_category: Hallmark

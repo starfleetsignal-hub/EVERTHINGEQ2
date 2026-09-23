@@ -2,6 +2,7 @@
 title: Hidden Information Recovery
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[Qeynos Province District]]'

@@ -2,6 +2,7 @@
 title: Knowledge of the Past
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Heroic
 zone: '[[The Pillars of Flame]]'

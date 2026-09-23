@@ -2,6 +2,7 @@
 title: Not All Vampire Bats Suck Blood
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '26'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

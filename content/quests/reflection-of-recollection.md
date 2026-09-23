@@ -2,6 +2,7 @@
 title: Reflection of Recollection
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '110'
 zone: '[[Plane of Magic]]'
 timeline: '[[Planes of Prophecy Timeline]]'

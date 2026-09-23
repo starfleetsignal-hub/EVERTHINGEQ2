@@ -2,6 +2,7 @@
 title: 'Ley of the Land: The Nature of Shadows'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 difficulty: Epic
 zone: '[[Sanctus Seru: The Fading Arches (Raid)]]'

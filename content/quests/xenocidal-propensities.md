@@ -2,6 +2,7 @@
 title: Xenocidal Propensities
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '39'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: Keeping the Topside Safe
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

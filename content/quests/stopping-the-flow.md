@@ -2,6 +2,7 @@
 title: Stopping the Flow
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '47'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Sinking Sands Timeline]]'

@@ -2,6 +2,7 @@
 title: Pungent Recluse Destruction
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '38'
 difficulty: Solo
 zone: '[[The Feerrott]]'

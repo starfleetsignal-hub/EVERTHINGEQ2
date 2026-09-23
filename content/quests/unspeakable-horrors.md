@@ -2,6 +2,7 @@
 title: Unspeakable Horrors
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[North Qeynos]]'

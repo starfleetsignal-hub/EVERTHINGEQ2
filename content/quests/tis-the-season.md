@@ -2,6 +2,7 @@
 title: Tis the Season
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Maldura]]'

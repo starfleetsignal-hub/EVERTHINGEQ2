@@ -1,0 +1,27 @@
+---
+title: Tokens of the Eastern Wastes
+type: quest
+level: '90'
+added_in: Destiny of Velious
+categories:
+- Census Credits
+- Collection Quests
+- Collections that reward Collection Items
+- Collections that reward House Items
+- Destiny of Velious (CQ Category)
+- Destiny of Velious Collection Quests
+- Eastern Wastes Collection Quests
+- Quests
+- Tier 10 Collection Quests
+source:
+  title: Tokens of the Eastern Wastes
+  url: https://eq2.fandom.com/wiki/Tokens_of_the_Eastern_Wastes
+  history: https://eq2.fandom.com/wiki/Tokens_of_the_Eastern_Wastes?action=history
+  revision: 1435439
+  revised: '2022-06-01T20:30:23Z'
+  license: CC BY-SA 3.0
+expansion: Destiny of Velious
+expansion_source: patch
+---
+
+

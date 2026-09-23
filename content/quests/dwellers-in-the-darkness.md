@@ -2,6 +2,7 @@
 title: Dwellers in the Darkness
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '62'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

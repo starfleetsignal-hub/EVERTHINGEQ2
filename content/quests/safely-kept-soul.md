@@ -2,6 +2,7 @@
 title: Safely-Kept Soul
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '84'
 difficulty: Heroic
 zone: '[[Jarsath Wastes]]'

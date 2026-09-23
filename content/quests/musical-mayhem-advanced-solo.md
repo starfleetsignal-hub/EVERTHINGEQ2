@@ -2,6 +2,7 @@
 title: Musical Mayhem (Advanced Solo)
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '105'
 zone: '[[*]]'
 journal_category: Mission

@@ -2,6 +2,7 @@
 title: Looking Deep Within the Crystals
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '92'
 difficulty: Heroic
 zone: '[[Crystal Caverns: Collapse]]'

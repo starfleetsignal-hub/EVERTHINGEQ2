@@ -2,6 +2,7 @@
 title: 'Sabotage: Blunted and Bent'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The Commonlands]]'

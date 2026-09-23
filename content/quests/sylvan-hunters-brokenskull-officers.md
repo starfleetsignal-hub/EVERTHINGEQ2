@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Brokenskull Officers'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

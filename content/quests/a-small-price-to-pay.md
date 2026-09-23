@@ -2,6 +2,7 @@
 title: A Small Price to Pay
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '37'
 difficulty: Solo
 zone: '[[North Freeport]]'

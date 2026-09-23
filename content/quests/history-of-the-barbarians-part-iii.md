@@ -2,6 +2,7 @@
 title: History of the Barbarians, Part III
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

@@ -2,6 +2,7 @@
 title: A Missing Mask
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '35'
 difficulty: Heroic
 zone: '[[Nektropos Castle]]'

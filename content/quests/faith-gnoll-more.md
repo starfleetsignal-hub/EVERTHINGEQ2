@@ -2,6 +2,7 @@
 title: Faith Gnoll More
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 difficulty: Solo
 zone: '[[Darkpaw Dugout]]'
 timeline: '[[Darkpaw Rising Timeline]]'

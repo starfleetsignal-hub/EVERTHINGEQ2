@@ -2,6 +2,7 @@
 title: Daily Adorning
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

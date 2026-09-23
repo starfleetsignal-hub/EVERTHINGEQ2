@@ -2,6 +2,7 @@
 title: The Soul of Tarinax
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '35'
 difficulty: Heroic
 zone: '[[The Feerrott]]'

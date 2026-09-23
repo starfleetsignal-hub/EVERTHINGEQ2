@@ -2,6 +2,7 @@
 title: Sovereign of Rile Mission System
 type: quest
 expansion: Kunark Ascending
+expansion_source: category
 categories:
 - Kunark Ascending
 - Mission Quests

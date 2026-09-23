@@ -2,6 +2,7 @@
 title: 'Gorowyn: Skeletal Stalking'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: solo
 zone: '[[The Sundered Frontier]]'

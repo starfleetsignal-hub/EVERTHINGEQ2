@@ -2,6 +2,7 @@
 title: '"The Nine Contemplations" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '38'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

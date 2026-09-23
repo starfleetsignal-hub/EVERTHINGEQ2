@@ -2,6 +2,7 @@
 title: 'Blessings of Growth: Kylong Plains'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[Kylong Plains]]'
 journal_category: Kylong Plains

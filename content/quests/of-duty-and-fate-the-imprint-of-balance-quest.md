@@ -2,6 +2,7 @@
 title: 'Of Duty and Fate: The Imprint of Balance (Quest)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Splendor Sky Aerie]]'

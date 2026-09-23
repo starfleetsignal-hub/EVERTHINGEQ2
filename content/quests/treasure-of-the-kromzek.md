@@ -2,6 +2,7 @@
 title: Treasure of the Kromzek
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[Great Divide]]'

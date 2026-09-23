@@ -2,6 +2,7 @@
 title: Gathering Feathers
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '25'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

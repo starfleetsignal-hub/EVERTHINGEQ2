@@ -2,6 +2,7 @@
 title: 'Gorowyn: Growth Slithers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '51'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

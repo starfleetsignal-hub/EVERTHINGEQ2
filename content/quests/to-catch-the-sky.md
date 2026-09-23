@@ -2,6 +2,7 @@
 title: To Catch The Sky
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '65'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

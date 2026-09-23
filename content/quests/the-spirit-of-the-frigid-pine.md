@@ -2,6 +2,7 @@
 title: The Spirit of the Frigid Pine
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '46'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

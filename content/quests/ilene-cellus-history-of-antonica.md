@@ -2,6 +2,7 @@
 title: Ilene Cellus' History of Antonica
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Solo
 zone: '[[Stormhold]]'

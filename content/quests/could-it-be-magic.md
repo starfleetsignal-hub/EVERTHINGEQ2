@@ -2,6 +2,7 @@
 title: Could It Be Magic?
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

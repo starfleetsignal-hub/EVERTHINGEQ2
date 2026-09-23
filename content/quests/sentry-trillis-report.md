@@ -2,6 +2,7 @@
 title: Sentry Trillis' Report
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '3'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

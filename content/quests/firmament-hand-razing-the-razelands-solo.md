@@ -2,6 +2,7 @@
 title: 'Firmament Hand: Razing the Razelands (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '135'
 zone: '[[Zimara Breadth]]'
 timeline: '[[Ballads of Zimara Timeline]]'

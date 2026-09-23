@@ -2,6 +2,7 @@
 title: Storm's A Brewin'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Zimara Breadth]]'
 timeline: '[[Ballads of Zimara Timeline]]'

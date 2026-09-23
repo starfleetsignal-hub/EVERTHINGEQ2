@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Chasing Greymast'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '97'
 difficulty: Heroic
 zone: '[[Tranquil Sea]]'

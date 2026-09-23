@@ -1,7 +1,8 @@
 ---
 title: Servant for the Crown
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '85'
 difficulty: Heroic
 zone: '[[Mistmyr Manor]]'

@@ -2,6 +2,7 @@
 title: Trial of the Sacred Spirits
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[City of Shar Vahl]]'

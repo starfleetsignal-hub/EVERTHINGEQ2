@@ -2,6 +2,7 @@
 title: Heck of a Ghoul Time
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Mahngavi Wastes]]'

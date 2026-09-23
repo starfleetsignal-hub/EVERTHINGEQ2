@@ -2,6 +2,7 @@
 title: 'Shades of Drinal: The Shores of Everafter'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '92'
 difficulty: Solo
 zone: '[[The Feerrott]]'

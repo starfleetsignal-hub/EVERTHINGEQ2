@@ -2,6 +2,7 @@
 title: Cleansing of the Cove (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 difficulty: Solo
 zone: '[[The Feerrott]]'

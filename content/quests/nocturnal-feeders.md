@@ -2,6 +2,7 @@
 title: Nocturnal Feeders
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Heroic
 zone: '[[West Freeport]]'

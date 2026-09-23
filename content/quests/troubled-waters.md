@@ -2,6 +2,7 @@
 title: Troubled Waters
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '108'
 difficulty: Epic
 zone: '[[*]]'

@@ -2,6 +2,7 @@
 title: The Lyresmith Poetry Collection - Children's Rhymes (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '43'
 zone: '[[*]]'
 timeline: '[[The Obelisk of Lost Souls Timeline]]'

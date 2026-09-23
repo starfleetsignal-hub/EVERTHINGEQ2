@@ -2,6 +2,7 @@
 title: To Be Tagged, or Not to Be Tagged
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'

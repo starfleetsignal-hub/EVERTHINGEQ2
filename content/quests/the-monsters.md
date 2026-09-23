@@ -2,6 +2,7 @@
 title: The Monsters
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 zone: '[[North Freeport]]'
 timeline: '[[Book Quests Timeline]]'

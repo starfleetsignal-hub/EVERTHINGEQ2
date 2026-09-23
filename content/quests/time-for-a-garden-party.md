@@ -2,6 +2,7 @@
 title: Time for a Garden Party
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '58'
 zone: '[[The Silent City]]'
 timeline: '[[Peacock Club Timeline]]'

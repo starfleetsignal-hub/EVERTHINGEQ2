@@ -2,6 +2,7 @@
 title: '"Destroyer''s Folly" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 zone: '[[*]]'
 timeline: '[[Permafrost Timeline]]'

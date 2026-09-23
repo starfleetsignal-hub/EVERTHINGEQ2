@@ -2,6 +2,7 @@
 title: Transcripts from the Element Planes (Raid III)
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '118'
 difficulty: Epic
 zone: '[[Myrist, the Great Library]]'

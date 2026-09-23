@@ -2,6 +2,7 @@
 title: Eliminate Geraufl
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 zone: '[[The City of Freeport]]'
 timeline: '[[Froglok Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: The Gavel of Justice
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '43'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

@@ -2,6 +2,7 @@
 title: Far Seas Supplier - Siren Subterfuge
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

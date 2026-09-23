@@ -2,6 +2,7 @@
 title: The Staff of the Observers
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '50'
 difficulty: Heroic
 zone: '[[Steamfont Mountains]]'

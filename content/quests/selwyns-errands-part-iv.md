@@ -1,7 +1,8 @@
 ---
 title: Selwyn's Errands - Part IV
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '23'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Armor Quest Timeline]]'

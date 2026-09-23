@@ -2,6 +2,7 @@
 title: 'Meet and Greet: Lost and Found'
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Sodden Archipelago]]'

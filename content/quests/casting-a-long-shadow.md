@@ -2,6 +2,7 @@
 title: Casting a Long Shadow
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '98'
 difficulty: Epic
 zone: '[[Tower of Frozen Shadow]]'

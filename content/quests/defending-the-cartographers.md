@@ -2,6 +2,7 @@
 title: Defending the Cartographers
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '24'
 difficulty: Solo
 zone: '[[South Freeport]]'

@@ -2,6 +2,7 @@
 title: 'Court of the Blades: Dukarem''s Purge, Part III'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[The Court of the Blades]]'

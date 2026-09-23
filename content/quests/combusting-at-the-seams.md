@@ -2,6 +2,7 @@
 title: Combusting at the Seams
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: Scales
 zone: '[[Butcherblock Mountains]]'
 journal_category: World Event

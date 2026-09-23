@@ -2,6 +2,7 @@
 title: He Said, He Said
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 zone: '[[Scale Yard]]'
 timeline: '[[Freeport Racial Timeline]]'

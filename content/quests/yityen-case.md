@@ -2,6 +2,7 @@
 title: Yityen Case
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '83'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'

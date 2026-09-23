@@ -2,6 +2,7 @@
 title: The Whispers of Death
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

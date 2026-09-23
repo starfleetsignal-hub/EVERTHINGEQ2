@@ -2,6 +2,7 @@
 title: 'Sanctus Seru: Stocking Up Requisition 8563'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Sanctus Seru (City)]]'

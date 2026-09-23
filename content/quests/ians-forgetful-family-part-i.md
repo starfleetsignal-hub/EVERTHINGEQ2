@@ -1,7 +1,8 @@
 ---
 title: Ian's Forgetful Family - Part I
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '20'
 difficulty: Solo
 zone: '[[Qeynos Harbor]]'

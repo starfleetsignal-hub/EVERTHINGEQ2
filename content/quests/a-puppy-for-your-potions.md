@@ -2,6 +2,7 @@
 title: A Puppy for Your Potions?
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '3'
 zone: '[[Scale Yard]]'
 timeline: '[[Freeport Racial Timeline]]'

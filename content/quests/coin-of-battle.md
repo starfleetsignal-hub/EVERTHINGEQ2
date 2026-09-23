@@ -2,6 +2,7 @@
 title: Coin of Battle
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Solo
 zone: '[[Edgewater Drains]]'

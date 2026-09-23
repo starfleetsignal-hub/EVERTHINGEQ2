@@ -1,7 +1,8 @@
 ---
 title: There Will Be Ghosts
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: Scales
 difficulty: Heroic
 zone: '[[Haunted Mansion]]'

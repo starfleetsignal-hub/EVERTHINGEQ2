@@ -2,6 +2,7 @@
 title: 'Were Is the Messenger: ''Ware the Were'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Mahngavi Wastes]]'

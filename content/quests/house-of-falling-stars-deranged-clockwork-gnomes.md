@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Deranged Clockwork Gnomes'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '40'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

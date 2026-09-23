@@ -2,6 +2,7 @@
 title: The Flames That Cannot Die
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Vasty Deep: The Conservatory]]'

@@ -2,6 +2,7 @@
 title: Bird Watching - The Beast of the Enchanted Lands, Part II (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 categories:
 - Quest needing level
 - Quest needing starting information

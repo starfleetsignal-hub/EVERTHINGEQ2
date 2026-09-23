@@ -2,6 +2,7 @@
 title: 'Gorowyn: Raging Geonaches'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '47'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

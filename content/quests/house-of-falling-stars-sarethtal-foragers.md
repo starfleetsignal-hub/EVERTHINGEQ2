@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Sareth''Tal Foragers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '67'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

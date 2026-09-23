@@ -2,6 +2,7 @@
 title: Scout Reports
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '82'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

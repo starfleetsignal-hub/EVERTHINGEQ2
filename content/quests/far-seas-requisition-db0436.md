@@ -2,6 +2,7 @@
 title: Far Seas Requisition DB0436
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '6'
 zone: '[[The Down Below]]'
 timeline: '[[Qeynos Catacombs Timeline]]'

@@ -2,6 +2,7 @@
 title: Obtaining Awakened Prophecies
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '59'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

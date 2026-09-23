@@ -2,6 +2,7 @@
 title: First Time Buyer (Kelethin)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: Scales
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Timeline]]'

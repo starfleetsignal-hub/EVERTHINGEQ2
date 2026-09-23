@@ -1,7 +1,8 @@
 ---
 title: Clearing Remmy's Name
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '5'
 zone: '[[The Forest Ruins]]'
 timeline: '[[Qeynos Districts Timeline]]'

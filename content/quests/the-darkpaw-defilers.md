@@ -2,6 +2,7 @@
 title: The Darkpaw Defilers
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '13'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

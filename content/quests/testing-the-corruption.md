@@ -2,6 +2,7 @@
 title: Testing the Corruption
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '54'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

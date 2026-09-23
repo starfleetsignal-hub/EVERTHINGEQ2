@@ -2,6 +2,7 @@
 title: Karath Smoothmane - Breaking of the Pact
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '20'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

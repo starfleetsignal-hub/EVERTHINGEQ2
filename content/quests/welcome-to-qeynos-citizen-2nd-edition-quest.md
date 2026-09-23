@@ -2,6 +2,7 @@
 title: Welcome to Qeynos, Citizen! - 2nd Edition (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '7'
 difficulty: Solo
 zone: '[[Antonica]]'

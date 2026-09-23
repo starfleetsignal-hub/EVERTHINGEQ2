@@ -2,6 +2,7 @@
 title: Cuts Like A Knife
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

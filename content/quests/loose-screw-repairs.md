@@ -2,6 +2,7 @@
 title: Loose Screw Repairs
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: solo
 zone: '[[Triad of Elements (Solo)]]'

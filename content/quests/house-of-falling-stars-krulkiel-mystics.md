@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Krulkiel Mystics'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '31'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

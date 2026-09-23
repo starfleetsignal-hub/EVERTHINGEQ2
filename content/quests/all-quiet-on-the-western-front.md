@@ -2,6 +2,7 @@
 title: All Quiet on the Western Front?
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '31'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

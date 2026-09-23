@@ -2,6 +2,7 @@
 title: 'Moon Mission: Listless Spires (Solo)'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '122'
 difficulty: Solo
 zone: '[[Aurelian Coast]]'

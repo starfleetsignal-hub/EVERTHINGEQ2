@@ -2,6 +2,7 @@
 title: The Real Terror of Thalumbra
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '104'
 zone: '[[Thalumbra, the Ever Deep]]'
 journal_category: 'Mission: Weekly'

@@ -2,6 +2,7 @@
 title: Sticks and Stones
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '65'
 zone: '[[Timorous Deep]]'
 timeline: '[[Deity Timeline]]'

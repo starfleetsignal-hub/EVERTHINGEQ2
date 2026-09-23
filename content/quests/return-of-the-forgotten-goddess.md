@@ -2,6 +2,7 @@
 title: Return of the Forgotten Goddess
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[The Sinking Sands]]'

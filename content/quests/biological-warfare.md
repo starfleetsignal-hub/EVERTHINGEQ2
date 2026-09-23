@@ -1,7 +1,8 @@
 ---
 title: Biological Warfare
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '92'
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

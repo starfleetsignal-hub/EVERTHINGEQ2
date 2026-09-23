@@ -2,6 +2,7 @@
 title: A Demonstration of Meldrath's Might
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: scales
 difficulty: solo
 zone: '[[*]]'

@@ -2,6 +2,7 @@
 title: A Wizard's Request
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '47'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

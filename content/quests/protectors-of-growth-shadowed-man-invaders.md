@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Shadowed Man Invaders'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

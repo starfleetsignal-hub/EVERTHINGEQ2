@@ -2,6 +2,7 @@
 title: First Time Buyer (Neriak)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: Scales
 zone: '[[Neriak, City of Hate]]'
 timeline: '[[Neriak Timeline]]'

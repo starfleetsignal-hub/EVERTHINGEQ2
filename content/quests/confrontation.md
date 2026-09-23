@@ -1,7 +1,8 @@
 ---
 title: Confrontation
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '5'
 zone: '[[Starcrest Commune]]'
 timeline: '[[Qeynos Racial Timeline]]'

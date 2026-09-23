@@ -2,6 +2,7 @@
 title: Fulgation's End
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '50'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

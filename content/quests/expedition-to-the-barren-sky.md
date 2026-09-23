@@ -2,6 +2,7 @@
 title: Expedition to the Barren Sky
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 zone: '[[Tenebrous Tangle]]'
 timeline: '[[Claymore Timeline]]'

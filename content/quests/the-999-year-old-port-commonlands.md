@@ -2,6 +2,7 @@
 title: The 999 year old port (Commonlands)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '20'
 zone: '[[The Commonlands]]'
 timeline: '[[The 999 Year Old Port Timeline]]'

@@ -2,6 +2,7 @@
 title: Black Box Mechanimation
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '42'
 difficulty: Heroic
 zone: '[[Steamfont Mountains]]'

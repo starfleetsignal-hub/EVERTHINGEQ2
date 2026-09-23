@@ -2,6 +2,7 @@
 title: '"The Pirate Queen and the Map" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 zone: '[[The Temple of Cazic-Thule]]'
 timeline: '[[Temple of Cazic-Thule Timeline]]'

@@ -2,6 +2,7 @@
 title: Building a Fire
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

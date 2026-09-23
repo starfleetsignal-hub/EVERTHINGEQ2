@@ -2,6 +2,7 @@
 title: Ashes to Ashes
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '46'
 zone: '[[Lavastorm]]'
 timeline: '[[Lavastorm Timeline]]'

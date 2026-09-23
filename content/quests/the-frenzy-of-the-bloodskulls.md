@@ -2,6 +2,7 @@
 title: The Frenzy of the Bloodskulls
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '13'
 difficulty: Solo
 zone: '[[The Commonlands]]'

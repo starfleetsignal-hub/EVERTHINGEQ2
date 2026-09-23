@@ -2,6 +2,7 @@
 title: A Strange Gem (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '18'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

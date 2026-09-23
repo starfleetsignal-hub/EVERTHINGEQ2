@@ -2,6 +2,7 @@
 title: Emergency Floozlegigs
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '62'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

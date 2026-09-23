@@ -1,7 +1,8 @@
 ---
 title: Path to Oblivion
 type: quest
-expansion: Shattered Lands
+expansion: Scars of Destruction
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

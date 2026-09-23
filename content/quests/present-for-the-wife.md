@@ -2,6 +2,7 @@
 title: Present for the Wife
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

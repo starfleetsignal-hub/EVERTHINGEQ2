@@ -1,7 +1,8 @@
 ---
 title: Hit Them Where it Hurts
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '11'
 difficulty: Solo
 zone: '[[The Caves]]'

@@ -2,6 +2,7 @@
 title: Fireflies in the Sky
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Splendor Sky Aerie]]'
 timeline: '[[Of Duty and Fate Timeline]]'

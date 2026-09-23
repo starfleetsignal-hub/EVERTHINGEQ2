@@ -2,6 +2,7 @@
 title: 'Blessings of Growth: Commonlands'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[The Commonlands]]'
 journal_category: Commonlands

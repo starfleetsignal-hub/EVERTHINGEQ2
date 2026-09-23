@@ -1,0 +1,27 @@
+---
+title: Splitiron Mining Equipment (Collection)
+type: quest
+level: '100'
+in_game_name: Splitiron Mining Equipment
+added_in: Terrors of Thalumbra
+categories:
+- Census Credits
+- Collection Quests
+- Collections that reward Legendary Items
+- EQ2U Credits
+- Quests
+- Terrors of Thalumbra (CQ Category)
+- Terrors of Thalumbra Collection Quests
+- Tier 11 Collection Quests
+source:
+  title: Splitiron Mining Equipment (Collection)
+  url: https://eq2.fandom.com/wiki/Splitiron_Mining_Equipment_(Collection)
+  history: https://eq2.fandom.com/wiki/Splitiron_Mining_Equipment_(Collection)?action=history
+  revision: 1811979
+  revised: '2024-07-12T11:16:07Z'
+  license: CC BY-SA 3.0
+expansion: Terrors of Thalumbra
+expansion_source: patch
+---
+
+Commonly found in the [[Splitiron Mine]] {{waypoint 285.38, 127.68, 219.39}}and [[Glittervein Depths]] {{waypoint 285.38, 127.68, 219.39}} areas.

@@ -2,6 +2,7 @@
 title: A Mother's Love
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

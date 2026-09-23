@@ -1,7 +1,8 @@
 ---
 title: 'Sabotage: The Absence of Light'
 type: quest
-expansion: Shattered Lands
+expansion: Kingdom of Sky
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

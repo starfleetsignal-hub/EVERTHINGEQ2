@@ -2,6 +2,7 @@
 title: Trust Must Be Earned, Part 1
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

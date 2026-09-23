@@ -2,6 +2,7 @@
 title: Echoes of the Tribunal
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '42'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

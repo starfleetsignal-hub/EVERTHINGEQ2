@@ -2,6 +2,7 @@
 title: House of Tulle
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '132'
 zone: '[[Forlorn Gist]]'
 timeline: '[[Visions of Vetrovia Timeline]]'

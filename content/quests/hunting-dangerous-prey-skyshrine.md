@@ -2,6 +2,7 @@
 title: Hunting Dangerous Prey (Skyshrine)
 type: quest
 expansion: Age of Discovery
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[The Withered Lands]]'

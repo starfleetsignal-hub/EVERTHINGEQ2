@@ -26,6 +26,8 @@ source:
   revision: 1276097
   revised: '2021-01-21T21:35:38Z'
   license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: patch
 ---
 
 ![Examine to receive a Letter to Shivo.](images/A_Giantslayer_messenger.jpg)

@@ -2,6 +2,7 @@
 title: 'Visions of Vetrovia: A Smashing Success'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '132'
 difficulty: Solo
 zone: '[[Forlorn Gist]]'

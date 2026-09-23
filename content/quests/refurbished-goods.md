@@ -2,6 +2,7 @@
 title: Refurbished Goods
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '34'
 zone: '[[The Haunted Vaults]]'
 timeline: '[[Kaladim Timeline]]'

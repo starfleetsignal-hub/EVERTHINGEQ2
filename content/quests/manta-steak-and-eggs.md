@@ -2,6 +2,7 @@
 title: Manta Steak and Eggs
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '129'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

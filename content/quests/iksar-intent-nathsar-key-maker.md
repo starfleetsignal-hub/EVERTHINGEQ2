@@ -2,6 +2,7 @@
 title: Iksar Intent - Nathsar Key Maker
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 zone: '[[Kylong Plains]]'
 journal_category: Overseer
 starts: Speak with [[Grigissa Khuskisth]] at {{waypoint 1986, 480, -788}}

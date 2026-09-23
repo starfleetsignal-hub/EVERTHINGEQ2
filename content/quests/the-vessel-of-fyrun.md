@@ -2,6 +2,7 @@
 title: The Vessel of Fyr'Un
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 zone: '[[The Living Tombs]]'
 timeline: '[[Ahket Aken Timeline]]'

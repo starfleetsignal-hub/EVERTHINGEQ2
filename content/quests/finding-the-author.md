@@ -2,6 +2,7 @@
 title: Finding the Author
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 zone: '[[Mistmoore Catacombs]]'
 timeline: '[[Flowing Cape of the Dark Lord Timeline]]'

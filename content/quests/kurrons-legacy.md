@@ -2,6 +2,7 @@
 title: Kurron's Legacy
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '115'
 difficulty: Solo
 zone: '[[Sanctus Seru (City)]]'

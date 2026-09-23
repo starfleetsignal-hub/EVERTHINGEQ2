@@ -2,6 +2,7 @@
 title: To Speak as a Dragon
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 difficulty: Epic
 zone: '[[Maiden''s Gulch: Rescue of the Sage]]'

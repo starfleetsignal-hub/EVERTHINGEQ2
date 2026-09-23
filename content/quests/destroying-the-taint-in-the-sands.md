@@ -2,6 +2,7 @@
 title: Destroying the Taint in the Sands
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Solo
 zone: '[[North Qeynos]]'

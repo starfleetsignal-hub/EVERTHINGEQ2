@@ -2,6 +2,7 @@
 title: 'Firmament Hand: Chaotic Currents (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '135'
 zone: '[[Aether Wroughtlands]]'
 timeline: '[[Ballads of Zimara Timeline]]'

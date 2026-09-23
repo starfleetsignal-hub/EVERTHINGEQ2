@@ -2,6 +2,7 @@
 title: Reaving Through the Mist (Heroic)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '106'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

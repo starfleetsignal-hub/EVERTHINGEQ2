@@ -2,6 +2,7 @@
 title: Far Seas Supplier - Blood Ore Pick
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '34'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Speak to [[Division Supplier Gaertarn]] in a tent on the east side of the fort {{waypoint 475, -40, 254}}

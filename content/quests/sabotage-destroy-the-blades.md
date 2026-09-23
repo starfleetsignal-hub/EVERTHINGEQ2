@@ -2,6 +2,7 @@
 title: 'Sabotage: Destroy the Blades'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The Commonlands]]'

@@ -2,6 +2,7 @@
 title: The Blood of Ro
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '42'
 difficulty: Solo
 zone: '[[North Freeport]]'

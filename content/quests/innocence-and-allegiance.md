@@ -2,6 +2,7 @@
 title: Innocence and Allegiance
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

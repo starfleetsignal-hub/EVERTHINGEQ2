@@ -2,6 +2,7 @@
 title: Graverobber Spoils
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

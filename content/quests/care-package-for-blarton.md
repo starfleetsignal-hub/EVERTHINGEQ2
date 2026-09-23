@@ -1,7 +1,8 @@
 ---
 title: Care Package for Blarton
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '10'
 difficulty: Solo
 zone: '[[Antonica]]'

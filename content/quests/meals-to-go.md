@@ -2,6 +2,7 @@
 title: Meals To Go
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

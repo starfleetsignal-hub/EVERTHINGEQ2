@@ -2,6 +2,7 @@
 title: The Harrowing Hoard
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '94'
 zone: '[[Obol Plains]]'
 timeline: '[[Obol Plains Timeline]]'

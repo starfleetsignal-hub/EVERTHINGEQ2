@@ -2,6 +2,7 @@
 title: We Can Rebuild
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Steamfont Mountains]]'
 journal_category: World Event

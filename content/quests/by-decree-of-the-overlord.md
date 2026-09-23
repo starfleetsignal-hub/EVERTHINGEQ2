@@ -2,6 +2,7 @@
 title: By Decree of the Overlord
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '17'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

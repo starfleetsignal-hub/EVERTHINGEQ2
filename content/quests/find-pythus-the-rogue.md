@@ -2,6 +2,7 @@
 title: Find Pythus the Rogue
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '14'
 zone: '[[The City of Freeport]]'
 timeline: '[[The Commonlands Timeline]]'

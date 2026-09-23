@@ -2,6 +2,7 @@
 title: 'Kamapor Me a Daily: Dedraka''s Descent (Heroic II)'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '133'
 difficulty: Heroic
 zone: '[[Svarni Expanse]]'

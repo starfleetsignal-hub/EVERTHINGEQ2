@@ -2,6 +2,7 @@
 title: 'Echo Caverns: Secret of Crystal Pinnacle'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

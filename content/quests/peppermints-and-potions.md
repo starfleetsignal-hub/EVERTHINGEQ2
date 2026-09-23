@@ -2,6 +2,7 @@
 title: Peppermints and Potions
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 difficulty: Solo
 zone: '[[Antonica]]'

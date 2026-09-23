@@ -1,7 +1,8 @@
 ---
 title: The Clay Barrel
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '34'
 zone: '[[Runnyeye]]'
 timeline: '[[Runnyeye Timeline]]'

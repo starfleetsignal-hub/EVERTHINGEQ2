@@ -2,6 +2,7 @@
 title: It's Alright, Hizite (Solo)
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

@@ -2,6 +2,7 @@
 title: 'Gorowyn: Huntsman Spiders'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '60'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: Collecting on What is Earned
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '13'
 difficulty: Solo
 zone: '[[The Commonlands]]'

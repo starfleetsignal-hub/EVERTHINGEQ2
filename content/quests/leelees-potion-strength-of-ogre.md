@@ -2,6 +2,7 @@
 title: 'Leelee''s Potion: Strength of Ogre'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '35'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Speak to [[Leelee Brewbubble]] after completing all of the other [[Additional Zek Quests#Alchemist's Components|Alchemist's Components]] item-triggered quests at least once

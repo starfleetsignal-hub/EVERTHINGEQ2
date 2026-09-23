@@ -2,6 +2,7 @@
 title: Some Animals Are More Equal than Others
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

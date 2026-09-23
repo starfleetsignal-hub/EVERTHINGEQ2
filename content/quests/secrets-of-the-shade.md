@@ -2,6 +2,7 @@
 title: Secrets of the Shade
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

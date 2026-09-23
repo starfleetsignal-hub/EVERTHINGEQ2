@@ -2,6 +2,7 @@
 title: Her Former Tooth
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

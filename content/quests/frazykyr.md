@@ -2,6 +2,7 @@
 title: Frazykyr
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '20'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

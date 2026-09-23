@@ -2,6 +2,7 @@
 title: 'Gorowyn: Shadesire Defenders'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '24'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

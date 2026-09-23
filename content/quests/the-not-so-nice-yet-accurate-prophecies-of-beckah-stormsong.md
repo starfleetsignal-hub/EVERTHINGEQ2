@@ -2,6 +2,7 @@
 title: The Not So Nice Yet Accurate Prophecies of Beckah Stormsong
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Kylong Plains]]'

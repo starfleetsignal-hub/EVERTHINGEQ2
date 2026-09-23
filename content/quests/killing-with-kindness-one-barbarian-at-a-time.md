@@ -1,7 +1,8 @@
 ---
 title: Killing With Kindness, One Barbarian at a Time
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '10'
 difficulty: Solo
 zone: '[[Antonica]]'

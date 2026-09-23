@@ -1,7 +1,8 @@
 ---
 title: An Explosive Idea
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '12'
 difficulty: Solo
 zone: '[[The Caves]]'

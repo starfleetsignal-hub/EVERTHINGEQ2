@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Mountain Grazer'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: Geologic Studies
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '66'
 difficulty: solo
 zone: '[[The Bonemire]]'

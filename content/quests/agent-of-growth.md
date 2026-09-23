@@ -2,6 +2,7 @@
 title: Agent of Growth
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Vesspyr Isles]]'

@@ -2,6 +2,7 @@
 title: Playing with Fire
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '45'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

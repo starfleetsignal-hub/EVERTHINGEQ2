@@ -2,6 +2,7 @@
 title: The Relic of Ocean (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

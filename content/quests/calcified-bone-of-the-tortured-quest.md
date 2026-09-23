@@ -2,6 +2,7 @@
 title: Calcified Bone of the Tortured (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 difficulty: Solo
 zone: '[[Vermin''s Snye]]'

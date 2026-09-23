@@ -2,6 +2,7 @@
 title: Digging Deeper (Lavastorm)
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: heroic
 zone: '[[Lavastorm]]'

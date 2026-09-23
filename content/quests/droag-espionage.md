@@ -2,6 +2,7 @@
 title: Droag Espionage
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

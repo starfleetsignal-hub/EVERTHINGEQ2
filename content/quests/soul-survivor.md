@@ -2,6 +2,7 @@
 title: Soul Survivor
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '63'
 zone: '[[Sanctum of the Scaleborn]]'
 timeline: '[[Claymore Timeline]]'

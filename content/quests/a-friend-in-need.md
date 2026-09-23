@@ -2,6 +2,7 @@
 title: A Friend in Need
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '12'
 difficulty: Solo
 zone: '[[The Commonlands]]'

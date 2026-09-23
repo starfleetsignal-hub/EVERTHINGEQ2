@@ -2,6 +2,7 @@
 title: 'Hold of Rime: The Ascent - The Scrying Game'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '93'
 difficulty: Heroic
 zone: '[[Great Divide]]'

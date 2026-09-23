@@ -2,6 +2,7 @@
 title: The Sweet Taste of Fairy Dust
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '34'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

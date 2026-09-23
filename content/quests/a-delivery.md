@@ -2,6 +2,7 @@
 title: A Delivery
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '3'
 difficulty: Solo
 zone: '[[Beggar''s Court]]'

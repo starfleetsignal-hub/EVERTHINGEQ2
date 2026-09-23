@@ -2,6 +2,7 @@
 title: Can't Fight This Feeling
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: Scales
 zone: '[[*]]'
 journal_category: World Event

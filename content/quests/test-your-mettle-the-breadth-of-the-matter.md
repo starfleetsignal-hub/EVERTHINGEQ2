@@ -2,6 +2,7 @@
 title: 'Test Your Mettle: The Breadth of the Matter'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Splendor Sky Aerie]]'

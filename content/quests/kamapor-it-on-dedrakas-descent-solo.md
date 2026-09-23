@@ -2,6 +2,7 @@
 title: 'Kamapor It On: Dedraka''s Descent (Solo)'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '128'
 difficulty: Solo
 zone: '[[Svarni Expanse]]'

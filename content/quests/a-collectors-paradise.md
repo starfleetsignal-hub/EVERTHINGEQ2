@@ -2,6 +2,7 @@
 title: A Collector's Paradise
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '23'
 difficulty: Solo
 zone: '[[The Crypt of Betrayal]]'

@@ -2,6 +2,7 @@
 title: Within Lies Our Enemy
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '107'
 difficulty: Heroic
 zone: '[[*]]'

@@ -2,6 +2,7 @@
 title: 'Daily Duty: Argent Sanctuary (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '135'
 difficulty: Solo
 zone: '[[Splendor Sky Aerie]]'

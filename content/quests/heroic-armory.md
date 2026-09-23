@@ -2,6 +2,7 @@
 title: Heroic Armory!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '1'
 difficulty: Solo
 zone: '[[*]]'

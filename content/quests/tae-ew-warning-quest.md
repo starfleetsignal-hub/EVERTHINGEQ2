@@ -2,6 +2,7 @@
 title: Tae Ew Warning (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 journal_category: Lost Temple of Cazic-Thule
 starts: examine [[Tae ew warning (Quest Starter)|tae ew warning]]

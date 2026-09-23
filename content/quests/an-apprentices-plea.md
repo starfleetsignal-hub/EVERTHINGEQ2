@@ -2,6 +2,7 @@
 title: An Apprentice's Plea
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '73'
 zone: '[[Fens of Nathsar]]'
 timeline: '[[Fens of Nathsar Timeline]]'

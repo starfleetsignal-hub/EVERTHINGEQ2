@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Ravenous Ghouls'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '64'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

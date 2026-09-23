@@ -1,7 +1,8 @@
 ---
 title: The Honeybrood's Finest
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: chain
 level: '60'
 difficulty: solo
 zone: '[[The Lesser Faydark]]'

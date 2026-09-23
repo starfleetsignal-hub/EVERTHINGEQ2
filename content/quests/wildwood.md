@@ -2,6 +2,7 @@
 title: Wildwood
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

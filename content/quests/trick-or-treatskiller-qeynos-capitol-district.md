@@ -2,6 +2,7 @@
 title: Trick or Treatskiller (Qeynos Capitol District)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: scales
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

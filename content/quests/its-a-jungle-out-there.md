@@ -2,6 +2,7 @@
 title: It's a Jungle Out There
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '128'
 difficulty: Solo
 zone: '[[Karuupa Jungle]]'

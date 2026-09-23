@@ -2,6 +2,7 @@
 title: A Forgotten Poster
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 difficulty: Solo
 zone: '[[The Serpent Sewer]]'

@@ -1,7 +1,8 @@
 ---
 title: The Legacy of Seth McMannus
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '42'
 difficulty: Epic
 zone: '[[Everfrost]]'

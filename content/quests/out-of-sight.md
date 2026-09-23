@@ -2,6 +2,7 @@
 title: Out of Sight
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '45'
 zone: '[[Steamfont Mountains]]'
 starts: Talk to [[Oglethorpe]] in [[Steamfont Mountains]] {{waypoint -1004, 92, 1702}}.

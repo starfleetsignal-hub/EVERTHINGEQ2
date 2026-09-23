@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Skyshadow Drakes'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '82'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

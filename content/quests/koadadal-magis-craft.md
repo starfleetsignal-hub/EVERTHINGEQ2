@@ -2,6 +2,7 @@
 title: Koada'dal Magi's Craft
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 zone: '[[Greater Faydark]]'
 timeline: '[[Signature Quests Timeline]]'

@@ -2,6 +2,7 @@
 title: A Lost Package (Commonlands)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '17'
 difficulty: Solo
 zone: '[[The Commonlands]]'

@@ -1,7 +1,8 @@
 ---
 title: Freeport Band Aid
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: Scales
 zone: '[[West Freeport]]'
 timeline: '[[Heroes'' Festival Timeline]]'

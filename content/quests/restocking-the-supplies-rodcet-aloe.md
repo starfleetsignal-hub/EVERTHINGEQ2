@@ -2,6 +2,7 @@
 title: 'Restocking the Supplies: Rodcet Aloe'
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '59'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

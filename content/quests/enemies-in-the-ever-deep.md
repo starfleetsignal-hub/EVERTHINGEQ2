@@ -2,6 +2,7 @@
 title: Enemies in the Ever Deep
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '108'
 difficulty: Epic
 zone: '[[Thalumbra, the Ever Deep]]'

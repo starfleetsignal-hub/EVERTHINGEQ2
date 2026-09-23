@@ -2,6 +2,7 @@
 title: Hunting for the Briarpaw Bag
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

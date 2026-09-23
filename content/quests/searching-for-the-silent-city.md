@@ -2,6 +2,7 @@
 title: Searching for the Silent City
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '56'
 difficulty: Heroic
 zone: '[[The Living Tombs]]'

@@ -2,6 +2,7 @@
 title: Thinning the Herd (The Commonlands)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '11'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

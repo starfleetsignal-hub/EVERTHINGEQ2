@@ -2,6 +2,7 @@
 title: 'The Scrivener''s Tale: Crafting at a Snail''s Pace'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Myrist, the Great Library]]'

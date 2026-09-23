@@ -2,6 +2,7 @@
 title: The Fang of the Wolf
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '8'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

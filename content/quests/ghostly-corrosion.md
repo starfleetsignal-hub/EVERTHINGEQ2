@@ -2,6 +2,7 @@
 title: Ghostly Corrosion
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '92'
 difficulty: solo
 zone: '[[Obol Plains]]'

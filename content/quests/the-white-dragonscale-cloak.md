@@ -2,6 +2,7 @@
 title: The White Dragonscale Cloak
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '84'
 difficulty: Heroic
 zone: '[[Miragul''s Phylactery: Scion of Ice]]'

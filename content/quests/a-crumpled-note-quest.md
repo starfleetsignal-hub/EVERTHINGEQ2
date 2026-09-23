@@ -2,6 +2,7 @@
 title: A Crumpled Note (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '10'
 zone: '[[The Down Below]]'
 timeline: '[[Qeynos Catacombs Timeline]]'

@@ -2,6 +2,7 @@
 title: No Stranger to Enmity
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '45'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

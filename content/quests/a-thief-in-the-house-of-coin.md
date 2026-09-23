@@ -2,6 +2,7 @@
 title: A Thief in the House of Coin
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '49'
 zone: '[[Maj''Dul]]'
 timeline: '[[Peacock Club Timeline]]'

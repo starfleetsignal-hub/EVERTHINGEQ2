@@ -2,6 +2,7 @@
 title: Not Your Ordinary Messenger - Part 2
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '75'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'

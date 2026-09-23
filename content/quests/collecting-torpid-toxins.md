@@ -2,6 +2,7 @@
 title: Collecting Torpid Toxins
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '56'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

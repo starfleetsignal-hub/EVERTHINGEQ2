@@ -2,6 +2,7 @@
 title: Unsettling Developments
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '16'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

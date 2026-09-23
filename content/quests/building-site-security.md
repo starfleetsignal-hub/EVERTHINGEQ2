@@ -1,7 +1,8 @@
 ---
 title: Building Site Security
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: Scales
 zone: '[[The Sinking Sands]]'
 timeline: '[[D.I.R.T.Y. Timeline]]'

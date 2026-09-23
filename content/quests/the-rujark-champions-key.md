@@ -2,6 +2,7 @@
 title: The Rujark Champion's Key
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '54'
 zone: '[[The Clefts of Rujark]]'
 journal_category: Clefts of Rujark

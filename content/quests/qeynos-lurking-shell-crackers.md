@@ -2,6 +2,7 @@
 title: 'Qeynos: Lurking Shell-Crackers'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Solo
 zone: '[[Thurgadin]]'

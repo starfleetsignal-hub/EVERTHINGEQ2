@@ -2,6 +2,7 @@
 title: Iriana Cellus' History of Antonica
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '23'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

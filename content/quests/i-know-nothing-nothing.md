@@ -2,6 +2,7 @@
 title: I Know Nothing! Nothing!
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 difficulty: Solo
 zone: '[[Enchanted Lands]]'

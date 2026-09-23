@@ -2,6 +2,7 @@
 title: Varski, Part III
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '22'
 difficulty: Heroic
 zone: '[[West Freeport]]'

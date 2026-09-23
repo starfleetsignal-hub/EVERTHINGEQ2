@@ -1,7 +1,8 @@
 ---
 title: Elements of a Ritual
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '13'
 difficulty: Heroic
 zone: '[[The Caves]]'

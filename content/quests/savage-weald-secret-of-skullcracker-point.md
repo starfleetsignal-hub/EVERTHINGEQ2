@@ -2,6 +2,7 @@
 title: 'Savage Weald: Secret of Skullcracker Point'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '126'
 difficulty: Solo
 zone: '[[Savage Weald]]'

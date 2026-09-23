@@ -1,7 +1,8 @@
 ---
 title: Kill Mischevious Instigators for the Guardians of the Underfoot
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '88'
 difficulty: Heroic
 zone: '[[The Hole]]'

@@ -2,6 +2,7 @@
 title: Love Will Lead You Back
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: Scales
 difficulty: Epic
 zone: '[[The Commonlands]]'

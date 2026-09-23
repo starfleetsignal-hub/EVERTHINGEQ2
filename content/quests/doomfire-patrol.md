@@ -2,6 +2,7 @@
 title: Doomfire Patrol
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '116'
 difficulty: Heroic
 zone: '[[Myrist, the Great Library]]'

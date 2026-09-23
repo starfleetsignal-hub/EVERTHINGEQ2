@@ -2,6 +2,7 @@
 title: And They Tell Two Friends...
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

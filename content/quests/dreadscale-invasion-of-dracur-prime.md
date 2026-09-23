@@ -1,7 +1,8 @@
 ---
 title: Dreadscale Invasion of Dracur Prime
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '100'
 difficulty: Heroic
 zone: '[[Skyshrine: The City of Dracur]]'

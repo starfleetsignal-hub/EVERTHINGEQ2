@@ -2,6 +2,7 @@
 title: The Jury
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '70'
 zone: '[[Timorous Deep]]'
 timeline: '[[Deity Timeline]]'

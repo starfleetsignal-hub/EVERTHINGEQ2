@@ -2,6 +2,7 @@
 title: 'The Blinding: Kill ''Em All'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[The Blinding]]'

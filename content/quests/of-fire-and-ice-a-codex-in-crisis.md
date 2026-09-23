@@ -2,6 +2,7 @@
 title: 'Of Fire and Ice: A Codex in Crisis'
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Heroic
 zone: '[[New Tunaria]]'

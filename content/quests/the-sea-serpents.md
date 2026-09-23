@@ -2,6 +2,7 @@
 title: The Sea Serpents
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '26'
 difficulty: Solo
 zone: '[[South Freeport]]'

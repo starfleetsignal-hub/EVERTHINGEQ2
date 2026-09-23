@@ -1,7 +1,8 @@
 ---
 title: Preventative Maintenance
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '3'
 zone: '[[Outpost of the Overlord]]'
 timeline: '[[Isle of Refuge Timeline]]'

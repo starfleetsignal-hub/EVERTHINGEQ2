@@ -2,6 +2,7 @@
 title: Enfeebler
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 difficulty: Solo
 zone: '[[South Freeport]]'

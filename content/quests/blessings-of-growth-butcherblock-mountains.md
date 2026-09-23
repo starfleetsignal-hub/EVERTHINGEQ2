@@ -2,6 +2,7 @@
 title: 'Blessings of Growth: Butcherblock Mountains'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 zone: '[[Butcherblock Mountains]]'
 journal_category: Butcherblock Mountains

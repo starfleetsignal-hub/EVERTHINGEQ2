@@ -1,7 +1,8 @@
 ---
 title: They won't miss it...
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: chain
 level: Scales
 zone: '[[Haunted Mansion]]'
 journal_category: Miscellaneous

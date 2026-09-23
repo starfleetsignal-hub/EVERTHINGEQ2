@@ -1,7 +1,8 @@
 ---
 title: Regrowth (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '5'
 zone: '[[Oakmyst Forest]]'
 starts: Speak with [[Adalin Emerael]] at {{waypoint 745, 10, -201}}

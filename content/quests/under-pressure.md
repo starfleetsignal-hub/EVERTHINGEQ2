@@ -2,6 +2,7 @@
 title: Under Pressure
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '23'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

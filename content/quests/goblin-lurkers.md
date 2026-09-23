@@ -2,6 +2,7 @@
 title: Goblin Lurkers
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '23'
 difficulty: Solo
 zone: '[[West Freeport]]'

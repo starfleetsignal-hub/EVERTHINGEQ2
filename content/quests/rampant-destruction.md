@@ -1,7 +1,8 @@
 ---
 title: Rampant Destruction
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: level
 level: '100'
 difficulty: Heroic
 zone: '[[The Fabled Halls of Fate]]'

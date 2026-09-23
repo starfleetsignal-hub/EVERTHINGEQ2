@@ -2,6 +2,7 @@
 title: The One That Got Away (The Sundered Frontier)
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '79'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: Mycotoxins from A to Z
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '57'
 difficulty: Heroic
 zone: '[[The Lesser Faydark]]'

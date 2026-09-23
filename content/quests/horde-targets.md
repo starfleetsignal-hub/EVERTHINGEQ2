@@ -2,6 +2,7 @@
 title: Horde Targets
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '101'
 zone: '[[Vesspyr Isles]]'
 journal_category: Vesspyr Isles

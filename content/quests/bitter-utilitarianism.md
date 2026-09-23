@@ -2,6 +2,7 @@
 title: Bitter Utilitarianism
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '33'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

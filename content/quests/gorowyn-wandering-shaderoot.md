@@ -2,6 +2,7 @@
 title: 'Gorowyn: Wandering Shaderoot'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '94'
 zone: '[[Great Divide]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

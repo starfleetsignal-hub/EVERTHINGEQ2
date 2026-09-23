@@ -2,6 +2,7 @@
 title: Spare Change?
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '63'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

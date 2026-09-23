@@ -2,6 +2,7 @@
 title: 'Alchemist''s Component: B-32'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Examine a [[Stalvo's Notes - B-32]] that drops randomly from all monsters in Zek

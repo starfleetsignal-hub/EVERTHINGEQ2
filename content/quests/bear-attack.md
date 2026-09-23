@@ -2,6 +2,7 @@
 title: Bear Attack
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '37'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

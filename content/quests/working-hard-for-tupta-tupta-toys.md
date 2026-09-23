@@ -2,6 +2,7 @@
 title: Working Hard for Tupta - Tupta Toys
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

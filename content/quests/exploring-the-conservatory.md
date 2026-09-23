@@ -2,6 +2,7 @@
 title: Exploring the Conservatory
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[Vasty Deep: The Conservatory (Agnostic)]]'

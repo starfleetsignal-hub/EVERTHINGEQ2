@@ -2,6 +2,7 @@
 title: Necromantic Research - Wadi Scavengers
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '84'
 difficulty: solo
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: A Feather on the Sea
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '87'
 difficulty: Solo
 zone: '[[Great Divide]]'

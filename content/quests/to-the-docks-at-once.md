@@ -2,6 +2,7 @@
 title: To The Docks at Once!
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '20'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

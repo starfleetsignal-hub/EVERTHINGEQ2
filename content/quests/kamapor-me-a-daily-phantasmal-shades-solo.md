@@ -2,6 +2,7 @@
 title: 'Kamapor Me a Daily: Phantasmal Shades (Solo)'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '128'
 difficulty: Solo
 zone: '[[Svarni Expanse]]'

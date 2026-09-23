@@ -2,6 +2,7 @@
 title: Ongoing Efforts
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '10'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Timeline]]'

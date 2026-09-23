@@ -1,7 +1,8 @@
 ---
 title: Far Seas Direct Requisition PBG0295
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '7'
 difficulty: Solo
 zone: '[[The Peat Bog]]'

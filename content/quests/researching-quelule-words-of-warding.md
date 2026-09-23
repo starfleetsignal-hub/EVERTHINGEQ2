@@ -2,6 +2,7 @@
 title: 'Researching Quel''ule: Words of Warding'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

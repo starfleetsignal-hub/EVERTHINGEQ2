@@ -2,6 +2,7 @@
 title: Memorial of Power
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 zone: '[[Fallen Gate]]'
 timeline: '[[Fallen Gate Timeline]]'

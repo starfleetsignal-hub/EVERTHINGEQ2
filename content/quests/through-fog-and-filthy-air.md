@@ -2,6 +2,7 @@
 title: Through Fog and Filthy Air
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '44'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -1,7 +1,8 @@
 ---
 title: Proof of Poachers
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '6'
 difficulty: Solo
 zone: '[[Oakmyst Forest]]'

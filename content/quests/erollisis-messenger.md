@@ -1,7 +1,8 @@
 ---
 title: Erollisi's Messenger
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '90'
 difficulty: Heroic
 zone: '[[Frostfang Sea]]'

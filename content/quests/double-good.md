@@ -1,7 +1,8 @@
 ---
 title: Double + Good!
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '35'
 difficulty: Heroic
 zone: '[[Runnyeye]]'

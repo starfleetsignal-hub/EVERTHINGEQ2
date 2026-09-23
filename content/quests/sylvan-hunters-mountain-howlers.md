@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Mountain Howlers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '46'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

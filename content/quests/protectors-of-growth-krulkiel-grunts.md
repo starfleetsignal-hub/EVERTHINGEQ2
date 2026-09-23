@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Krulkiel Grunts'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '28'
 difficulty: solo
 zone: '[[Greater Faydark]]'

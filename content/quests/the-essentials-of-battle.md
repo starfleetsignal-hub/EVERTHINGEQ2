@@ -2,6 +2,7 @@
 title: The Essentials of Battle
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[Obol Plains]]'

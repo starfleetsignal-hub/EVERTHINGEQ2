@@ -2,6 +2,7 @@
 title: Learning About Nightbloods the Hard Way.
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '43'
 zone: '[[Rivervale]]'
 timeline: '[[Rivervale Timeline]]'

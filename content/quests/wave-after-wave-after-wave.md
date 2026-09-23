@@ -2,6 +2,7 @@
 title: Wave after Wave after Wave
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

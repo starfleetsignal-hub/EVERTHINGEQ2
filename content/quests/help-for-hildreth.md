@@ -2,6 +2,7 @@
 title: Help for Hildreth
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[City of Fordel Midst]]'

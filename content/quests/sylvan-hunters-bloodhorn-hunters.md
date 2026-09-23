@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Bloodhorn Hunters'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '40'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

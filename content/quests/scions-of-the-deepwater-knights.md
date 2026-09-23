@@ -2,6 +2,7 @@
 title: Scions of the Deepwater Knights
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

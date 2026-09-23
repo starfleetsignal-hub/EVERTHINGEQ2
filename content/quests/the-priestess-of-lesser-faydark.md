@@ -2,6 +2,7 @@
 title: The Priestess of Lesser Faydark
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

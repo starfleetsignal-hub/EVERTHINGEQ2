@@ -2,6 +2,7 @@
 title: Coded Messages
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '93'
 difficulty: Heroic
 zone: '[[The Stonebrunt Highlands]]'

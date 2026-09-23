@@ -2,6 +2,7 @@
 title: The Relic of Decay (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 difficulty: Heroic
 zone: '[[Zek, the Orcish Wastes]]'

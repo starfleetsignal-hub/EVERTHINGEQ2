@@ -2,6 +2,7 @@
 title: Remembering the Forgotten
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Sleeper''s Tomb]]'

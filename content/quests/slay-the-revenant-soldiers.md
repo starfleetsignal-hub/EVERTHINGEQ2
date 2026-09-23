@@ -2,6 +2,7 @@
 title: Slay the Revenant Soldiers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '23'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

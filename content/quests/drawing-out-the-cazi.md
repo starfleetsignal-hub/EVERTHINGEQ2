@@ -2,6 +2,7 @@
 title: Drawing out the Cazi
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '67'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

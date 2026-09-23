@@ -2,6 +2,7 @@
 title: Attack of the Zombies
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '18'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

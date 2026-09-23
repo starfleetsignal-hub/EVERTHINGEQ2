@@ -2,6 +2,7 @@
 title: The Mysterious Oocyte
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 difficulty: Solo
 zone: '[[West Freeport]]'

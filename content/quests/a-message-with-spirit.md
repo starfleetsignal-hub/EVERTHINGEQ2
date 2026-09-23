@@ -2,6 +2,7 @@
 title: A Message with Spirit
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'

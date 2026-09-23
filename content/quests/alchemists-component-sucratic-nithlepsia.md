@@ -2,6 +2,7 @@
 title: 'Alchemist''s Component: Sucratic Nithlepsia'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '37'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Examine a [[Stalvo's Notes - Sucratic Nithlepsia]] that drops randomly from all monsters in Zek

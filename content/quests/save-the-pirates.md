@@ -1,7 +1,8 @@
 ---
 title: Save the Pirates!
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: Scales
 zone: '[[Prison of Admiral Grimgadget]]'
 timeline: '[[The 999 Year Old Port Timeline]]'

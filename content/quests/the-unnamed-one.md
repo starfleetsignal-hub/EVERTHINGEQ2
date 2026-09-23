@@ -2,6 +2,7 @@
 title: The Unnamed One
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '59'
 difficulty: Heroic
 zone: '[[Maj''Dul]]'

@@ -2,6 +2,7 @@
 title: The Winds of Halas
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '42'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

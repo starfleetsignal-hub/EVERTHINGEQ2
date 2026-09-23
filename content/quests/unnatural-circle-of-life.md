@@ -2,6 +2,7 @@
 title: Unnatural Circle of Life
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '46'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

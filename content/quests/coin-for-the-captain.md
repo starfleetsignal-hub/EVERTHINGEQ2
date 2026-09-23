@@ -2,6 +2,7 @@
 title: Coin for the Captain
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '21'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

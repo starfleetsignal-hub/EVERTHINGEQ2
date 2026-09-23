@@ -2,6 +2,7 @@
 title: Making it Manifest
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '64'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

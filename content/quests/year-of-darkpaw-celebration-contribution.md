@@ -2,6 +2,7 @@
 title: 'Year of Darkpaw: Celebration Contribution'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '5'
 difficulty: Solo
 zone: '[[*]]'

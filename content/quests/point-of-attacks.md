@@ -1,7 +1,8 @@
 ---
 title: Point of Attacks
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '87'
 zone: '[[Great Divide]]'
 timeline: '[[Great Divide Timeline]]'

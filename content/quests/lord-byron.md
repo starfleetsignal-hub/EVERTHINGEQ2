@@ -2,6 +2,7 @@
 title: Lord Byron
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 zone: '[[Stormhold]]'
 timeline: '[[Stormhold Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Court of the Coin: Setting the House in Order'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '54'
 difficulty: Heroic
 zone: '[[The Court of the Coin]]'

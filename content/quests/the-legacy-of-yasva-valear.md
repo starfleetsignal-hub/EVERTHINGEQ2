@@ -2,6 +2,7 @@
 title: The Legacy of Yasva V'Alear
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[*]]'

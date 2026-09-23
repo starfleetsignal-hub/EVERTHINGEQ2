@@ -2,6 +2,7 @@
 title: The Broken Halfling Skull
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '23'
 zone: '[[Fallen Gate]]'
 timeline: '[[Fallen Gate Timeline]]'

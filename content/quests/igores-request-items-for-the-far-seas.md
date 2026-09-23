@@ -2,6 +2,7 @@
 title: 'Igore''s Request: Items for the Far Seas'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Renfry''s Basement]]'

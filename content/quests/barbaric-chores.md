@@ -2,6 +2,7 @@
 title: Barbaric Chores
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

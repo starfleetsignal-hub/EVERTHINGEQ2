@@ -2,6 +2,7 @@
 title: The Champions of Rujark
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '53'
 zone: '[[Maj''Dul]]'
 timeline: '[[Court of the Blades Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: Aether Them or Us (Solo)
 type: quest
-expansion: Shattered Lands
+expansion: Ballads of Zimara
+expansion_source: timeline
 level: '138'
 zone: '[[Aether Wroughtlands]]'
 timeline: '[[Ballads of Zimara Timeline]]'

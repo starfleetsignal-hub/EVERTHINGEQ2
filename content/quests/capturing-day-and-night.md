@@ -2,6 +2,7 @@
 title: Capturing Day and Night
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Epic
 zone: '[[The Poets Palace]]'

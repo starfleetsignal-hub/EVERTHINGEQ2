@@ -2,6 +2,7 @@
 title: 'Guide Quest: Guide''s Guide to Reign of Shadows'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

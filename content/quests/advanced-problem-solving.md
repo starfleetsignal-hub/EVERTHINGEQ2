@@ -2,6 +2,7 @@
 title: Advanced Problem Solving
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 zone: '[[The Sprawl]]'
 journal_category: The Sprawl

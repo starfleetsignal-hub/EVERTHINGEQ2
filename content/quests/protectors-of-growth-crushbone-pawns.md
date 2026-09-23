@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Crushbone Pawns'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '10'
 difficulty: solo
 zone: '[[Greater Faydark]]'

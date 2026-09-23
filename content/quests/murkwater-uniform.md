@@ -2,6 +2,7 @@
 title: Murkwater Uniform
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 difficulty: Solo
 zone: '[[The Serpent Sewer]]'

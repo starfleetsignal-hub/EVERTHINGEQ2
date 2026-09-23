@@ -1,7 +1,8 @@
 ---
 title: Searching for the Ruins
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '10'
 zone: '[[Sunken City]]'
 timeline: '[[Sunken City Timeline]]'

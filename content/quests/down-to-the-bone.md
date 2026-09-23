@@ -1,7 +1,8 @@
 ---
 title: Down to the Bone
 type: quest
-expansion: Shattered Lands
+expansion: Altar of Malice
+expansion_source: timeline
 level: '101'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

@@ -2,6 +2,7 @@
 title: Give the key to the Glademaster
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '31'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

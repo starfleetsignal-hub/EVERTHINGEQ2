@@ -2,6 +2,7 @@
 title: Toes, Teeth, and Death
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '104'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

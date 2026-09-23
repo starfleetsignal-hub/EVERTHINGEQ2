@@ -2,6 +2,7 @@
 title: Obstructed Aortae
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '38'
 difficulty: Solo
 zone: '[[South Freeport]]'

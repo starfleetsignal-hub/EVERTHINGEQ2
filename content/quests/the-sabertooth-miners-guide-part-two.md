@@ -2,6 +2,7 @@
 title: The Sabertooth Miner's Guide, Part Two
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 difficulty: Heroic
 zone: '[[Blackburrow]]'

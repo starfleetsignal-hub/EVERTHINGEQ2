@@ -2,6 +2,7 @@
 title: 'Gorowyn: Rubble-Rabble Burynais'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '74'
 zone: '[[Kylong Plains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

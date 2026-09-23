@@ -2,6 +2,7 @@
 title: 'Researchers of Ro: Renewal'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

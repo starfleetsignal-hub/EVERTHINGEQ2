@@ -2,6 +2,7 @@
 title: 'Coin: Manifest Error'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '45'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Court of the Coin Timeline]]'

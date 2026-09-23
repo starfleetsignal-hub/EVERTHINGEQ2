@@ -2,6 +2,7 @@
 title: Far Seas Requisition. ANT0424
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '14'
 difficulty: Solo
 zone: '[[Antonica]]'

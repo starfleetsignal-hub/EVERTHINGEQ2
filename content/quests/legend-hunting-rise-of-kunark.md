@@ -2,6 +2,7 @@
 title: 'Legend Hunting: Rise of Kunark'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Great Divide]]'

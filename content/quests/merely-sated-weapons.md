@@ -2,10 +2,10 @@
 title: Merely Sated Weapons
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Heroic
 zone: '[[Raj''Dur Plateaus]]'
-journal_category: ???
 starts: see below
 added_in: Renewal of Ro
 categories:

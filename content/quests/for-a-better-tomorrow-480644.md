@@ -2,6 +2,7 @@
 title: For a Better Tomorrow
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[North Freeport]]'

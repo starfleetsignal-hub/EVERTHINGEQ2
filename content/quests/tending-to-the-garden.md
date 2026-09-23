@@ -2,6 +2,7 @@
 title: Tending to the Garden
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '58'
 difficulty: Heroic
 zone: '[[The Silent City]]'

@@ -2,6 +2,7 @@
 title: 'Gorowyn: Tough Kitties'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

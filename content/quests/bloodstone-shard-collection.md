@@ -1,0 +1,28 @@
+---
+title: Bloodstone shard collection
+type: quest
+level: '50'
+in_game_name: bloodstone shard collection
+added_in: Bloodline Chronicles
+aliases:
+- 'Shard: bloodstone shard collection'
+categories:
+- Bloodline Chronicles Collection Quests
+- Census Credits
+- Collection Quests
+- Collections that reward House Items
+- Quests
+- Shard (CQ Category)
+- The Crypt of T'haen Collection Quests
+- Tier 6 Collection Quests
+- Tombs of Night Collection Quests
+source:
+  title: Bloodstone shard collection
+  url: https://eq2.fandom.com/wiki/Bloodstone_shard_collection
+  history: https://eq2.fandom.com/wiki/Bloodstone_shard_collection?action=history
+  revision: 1434146
+  revised: '2022-05-27T18:04:13Z'
+  license: CC BY-SA 3.0
+---
+
+

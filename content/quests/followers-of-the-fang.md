@@ -2,6 +2,7 @@
 title: Followers of the Fang
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '11'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

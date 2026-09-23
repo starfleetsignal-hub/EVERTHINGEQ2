@@ -2,6 +2,7 @@
 title: 'Ruins of Varsoon: Tomes of Life and Death'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

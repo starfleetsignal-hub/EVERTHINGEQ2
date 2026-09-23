@@ -1,7 +1,8 @@
 ---
 title: Driven into the Flames!
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '80'
 difficulty: Solo
 zone: '[[Lavastorm]]'

@@ -2,6 +2,7 @@
 title: To Cast a Trap
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '99'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

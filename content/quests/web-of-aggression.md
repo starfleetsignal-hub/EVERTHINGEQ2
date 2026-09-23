@@ -2,6 +2,7 @@
 title: Web of Aggression
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 difficulty: Solo
 zone: '[[North Freeport]]'

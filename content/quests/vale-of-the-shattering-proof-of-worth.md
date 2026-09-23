@@ -2,6 +2,7 @@
 title: 'Vale of the Shattering: Proof of Worth'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Shattered Vale Timeline]]'

@@ -2,6 +2,7 @@
 title: Watch your step in The Thundering Steppes, Part II
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

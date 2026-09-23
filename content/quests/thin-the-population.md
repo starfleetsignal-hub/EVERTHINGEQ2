@@ -2,6 +2,7 @@
 title: Thin the Population
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '60'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

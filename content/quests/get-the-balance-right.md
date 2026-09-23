@@ -2,6 +2,7 @@
 title: Get the Balance Right
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '36'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

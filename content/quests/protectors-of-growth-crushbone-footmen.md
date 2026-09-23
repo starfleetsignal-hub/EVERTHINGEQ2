@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Crushbone Footmen'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '13'
 difficulty: solo
 zone: '[[Greater Faydark]]'

@@ -1,7 +1,8 @@
 ---
 title: 'Researching Lavastorm: Wormling Study'
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '45'
 zone: '[[Lavastorm]]'
 timeline: '[[Lavastorm Timeline]]'

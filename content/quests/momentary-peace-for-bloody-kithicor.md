@@ -2,6 +2,7 @@
 title: Momentary Peace for Bloody Kithicor
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '102'
 difficulty: Heroic
 zone: '[[Phantom Sea]]'

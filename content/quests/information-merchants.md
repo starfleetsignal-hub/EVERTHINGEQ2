@@ -1,7 +1,8 @@
 ---
 title: Information Merchants
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '4'
 zone: '[[Starcrest Commune]]'
 timeline: '[[Qeynos Racial Timeline]]'

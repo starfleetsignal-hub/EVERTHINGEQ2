@@ -2,6 +2,7 @@
 title: Void Energy Farmer
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '135'
 difficulty: Solo
 zone: '[[Gerion, Hold of D''Lere]]'

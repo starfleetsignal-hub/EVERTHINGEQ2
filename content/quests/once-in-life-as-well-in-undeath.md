@@ -2,6 +2,7 @@
 title: Once in Life as Well in Undeath
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[North Qeynos]]'

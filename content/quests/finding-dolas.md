@@ -2,6 +2,7 @@
 title: Finding Dolas
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[*]]'

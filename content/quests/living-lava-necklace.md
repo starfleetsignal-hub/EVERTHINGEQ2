@@ -2,6 +2,7 @@
 title: Living Lava Necklace
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '45'
 difficulty: Heroic
 zone: '[[Lavastorm]]'

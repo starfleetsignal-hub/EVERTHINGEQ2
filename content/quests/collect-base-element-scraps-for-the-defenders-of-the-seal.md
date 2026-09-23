@@ -1,7 +1,8 @@
 ---
 title: Collect Base Element Scraps for the Defenders of the Seal
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '88'
 difficulty: Heroic
 zone: '[[The Hole]]'

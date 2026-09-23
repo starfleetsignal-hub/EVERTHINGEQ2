@@ -2,6 +2,7 @@
 title: Completing a Coward's Job
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '12'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

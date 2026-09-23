@@ -2,6 +2,7 @@
 title: Narin Heirloom
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '20'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

@@ -2,6 +2,7 @@
 title: A Couple Ringlets Missing
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '33'
 difficulty: Heroic
 zone: '[[Kaladim]]'

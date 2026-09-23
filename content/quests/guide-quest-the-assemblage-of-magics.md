@@ -2,6 +2,7 @@
 title: 'Guide Quest: The Assemblage of Magics'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 difficulty: Solo
 zone: '[[Antonica]]'

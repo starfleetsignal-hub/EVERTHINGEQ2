@@ -2,6 +2,7 @@
 title: Bridge Keep Threats
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Thundering Steppes Timeline]]'

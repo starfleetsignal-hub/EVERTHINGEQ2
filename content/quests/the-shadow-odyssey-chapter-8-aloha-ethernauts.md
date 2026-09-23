@@ -2,6 +2,7 @@
 title: 'The Shadow Odyssey, Chapter 8: Aloha, Ethernauts'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: heroic
 zone: '[[Moors of Ykesha]]'

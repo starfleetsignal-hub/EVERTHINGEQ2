@@ -2,6 +2,7 @@
 title: Search for Grandma Blumble
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 difficulty: Solo
 zone: '[[Blumble''s Halfling Hole]]'

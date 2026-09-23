@@ -2,6 +2,7 @@
 title: There and Back Again
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '83'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

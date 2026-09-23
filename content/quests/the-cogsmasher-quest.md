@@ -2,6 +2,7 @@
 title: The Cogsmasher (Quest)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '16'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

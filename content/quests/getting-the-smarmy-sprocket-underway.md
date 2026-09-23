@@ -1,7 +1,8 @@
 ---
 title: Getting the Smarmy Sprocket Underway!
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '25'
 zone: '[[*]]'
 timeline: '[[The 999 Year Old Port Timeline]]'

@@ -2,6 +2,7 @@
 title: Treasures of Tupta - Curious Gnomes
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

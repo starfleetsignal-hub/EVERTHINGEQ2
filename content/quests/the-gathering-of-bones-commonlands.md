@@ -2,6 +2,7 @@
 title: The Gathering of Bones (Commonlands)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

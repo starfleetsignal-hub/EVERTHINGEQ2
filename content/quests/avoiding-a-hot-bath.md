@@ -2,6 +2,7 @@
 title: Avoiding a Hot Bath
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

@@ -2,6 +2,7 @@
 title: What's This Thing Do?
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

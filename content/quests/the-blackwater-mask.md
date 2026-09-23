@@ -2,6 +2,7 @@
 title: The Blackwater Mask
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Epic
 zone: '[[Loping Plains]]'

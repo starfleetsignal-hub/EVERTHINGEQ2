@@ -2,6 +2,7 @@
 title: Smuggler's Slaughter
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

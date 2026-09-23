@@ -2,6 +2,7 @@
 title: The Flowing Cape of the Dark Lord
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Epic
 zone: '[[Castle Mistmoore]]'

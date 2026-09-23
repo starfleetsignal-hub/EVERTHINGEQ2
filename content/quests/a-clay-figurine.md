@@ -2,6 +2,7 @@
 title: A Clay Figurine
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '46'
 zone: '[[The Temple of Cazic-Thule]]'
 timeline: '[[Temple of Cazic-Thule Timeline]]'

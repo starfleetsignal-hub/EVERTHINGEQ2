@@ -2,6 +2,7 @@
 title: A Wonderland at Night
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '46'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

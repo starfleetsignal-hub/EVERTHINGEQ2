@@ -2,6 +2,7 @@
 title: 'Guide Quest: Guide''s Guide to Renewal of Ro'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Sinking Sands]]'

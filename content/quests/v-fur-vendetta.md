@@ -2,6 +2,7 @@
 title: V Fur Vendetta
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '132'
 difficulty: Solo
 zone: '[[Forlorn Gist]]'

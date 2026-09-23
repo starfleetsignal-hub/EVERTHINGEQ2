@@ -2,6 +2,7 @@
 title: Seeking Love's Fate Through Valor
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

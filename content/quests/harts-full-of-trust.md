@@ -2,6 +2,7 @@
 title: Harts Full of Trust
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Frostfang Sea]]'

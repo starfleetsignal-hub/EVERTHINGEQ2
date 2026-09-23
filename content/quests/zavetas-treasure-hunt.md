@@ -2,6 +2,7 @@
 title: Zaveta's Treasure Hunt
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

@@ -1,7 +1,8 @@
 ---
 title: Exile to Kelethin - Acceptance
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: Scales to Level
 difficulty: Solo
 zone: '[[Greater Faydark]]'

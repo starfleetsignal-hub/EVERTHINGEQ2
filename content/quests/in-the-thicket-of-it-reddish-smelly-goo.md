@@ -2,6 +2,7 @@
 title: 'In the Thicket of It: Reddish Smelly Goo'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Savage Weald]]'

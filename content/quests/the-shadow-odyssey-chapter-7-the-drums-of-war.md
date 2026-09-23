@@ -2,6 +2,7 @@
 title: 'The Shadow Odyssey, Chapter 7: The Drums of War'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: heroic
 zone: '[[Moors of Ykesha]]'

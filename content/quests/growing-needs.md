@@ -2,6 +2,7 @@
 title: Growing Needs
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '114'
 difficulty: Solo
 zone: '[[The Blinding]]'

@@ -2,6 +2,7 @@
 title: Nosy Neighbors
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '45'
 difficulty: Heroic
 zone: '[[The City of Freeport]]'

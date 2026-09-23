@@ -2,6 +2,7 @@
 title: Ironblood and Guts
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 zone: '[[Thalumbra, the Ever Deep]]'
 timeline: '[[Terrors of Thalumbra Timeline]]'

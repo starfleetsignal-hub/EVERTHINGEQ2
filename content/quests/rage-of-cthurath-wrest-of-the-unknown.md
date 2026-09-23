@@ -2,6 +2,7 @@
 title: 'Rage of Cthurath: Wrest of the Unknown'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '135'
 difficulty: Heroic
 zone: '[[Gerion: Rage of Cthurath]]'

@@ -2,6 +2,7 @@
 title: 'Doctor''s Orders: The Burning Lands'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '117'
 difficulty: Solo
 zone: '[[Doomfire, the Burning Lands]]'

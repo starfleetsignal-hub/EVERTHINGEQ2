@@ -2,6 +2,7 @@
 title: Slimed!
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '18'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

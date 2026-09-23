@@ -2,6 +2,7 @@
 title: 'Mount Stations: Lesser Faydark'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: Scales
 zone: '[[The Lesser Faydark]]'
 starts: Speak to any of the six [[A stable master (Lesser Faydark)|stable masters]]

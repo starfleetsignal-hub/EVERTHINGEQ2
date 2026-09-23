@@ -2,6 +2,7 @@
 title: A Painful Reminder
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 zone: '[[Stonestair Byway]]'
 timeline: '[[Freeport Racial Timeline]]'

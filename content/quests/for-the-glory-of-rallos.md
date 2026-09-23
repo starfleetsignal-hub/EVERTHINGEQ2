@@ -2,6 +2,7 @@
 title: For The Glory of Rallos!
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '20'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

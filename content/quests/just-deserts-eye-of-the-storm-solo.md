@@ -2,6 +2,7 @@
 title: 'Just Deserts: Eye of the Storm (Solo)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Sandstone Delta]]'

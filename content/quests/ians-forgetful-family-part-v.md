@@ -1,7 +1,8 @@
 ---
 title: Ian's Forgetful Family - Part V
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '24'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

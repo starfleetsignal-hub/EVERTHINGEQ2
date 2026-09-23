@@ -2,6 +2,7 @@
 title: '"Ship''s Log - Bountiful Mane" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '47'
 zone: '[[*]]'
 timeline: '[[Permafrost Timeline]]'

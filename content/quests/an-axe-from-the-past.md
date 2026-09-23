@@ -2,6 +2,7 @@
 title: An Axe from the Past
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '30'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

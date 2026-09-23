@@ -2,6 +2,7 @@
 title: Little Tarby Lost
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '27'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

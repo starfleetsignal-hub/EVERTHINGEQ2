@@ -2,6 +2,7 @@
 title: A Touch of the Elements
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '79'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

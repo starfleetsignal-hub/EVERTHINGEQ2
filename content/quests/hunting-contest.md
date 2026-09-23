@@ -2,6 +2,7 @@
 title: Hunting Contest
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Heroic
 zone: '[[*]]'

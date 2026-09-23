@@ -2,6 +2,7 @@
 title: Lift For Dead
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Wracklands]]'

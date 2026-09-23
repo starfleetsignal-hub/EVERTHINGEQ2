@@ -1,7 +1,8 @@
 ---
 title: Forest Ruins Volunteer
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '6'
 zone: '[[The Forest Ruins]]'
 timeline: '[[Qeynos Outlying Areas Timeline]]'

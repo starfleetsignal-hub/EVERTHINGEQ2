@@ -2,6 +2,7 @@
 title: Paralyzing Stingers
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '32'
 difficulty: Solo
 zone: '[[West Freeport]]'

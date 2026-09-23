@@ -2,6 +2,7 @@
 title: Bring the End
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Epic
 zone: '[[Maj''Dul]]'

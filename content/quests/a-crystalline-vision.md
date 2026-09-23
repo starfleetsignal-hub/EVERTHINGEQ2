@@ -2,6 +2,7 @@
 title: A Crystalline Vision
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 zone: '[[Nektropos Castle]]'
 timeline: '[[Nektropos Castle Timeline]]'

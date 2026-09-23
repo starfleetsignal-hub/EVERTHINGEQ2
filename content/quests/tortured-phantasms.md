@@ -2,6 +2,7 @@
 title: Tortured Phantasms
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '84'
 difficulty: heroic
 zone: '[[The Commonlands]]'

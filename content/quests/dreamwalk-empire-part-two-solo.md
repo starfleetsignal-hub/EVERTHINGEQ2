@@ -2,6 +2,7 @@
 title: Dreamwalk Empire, Part Two (Solo)
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '128'
 difficulty: Heroic
 zone: '[[Svarni Expanse]]'

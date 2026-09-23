@@ -2,6 +2,7 @@
 title: Missing Caravan
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '45'
 difficulty: Solo
 zone: '[[The Pillars of Flame]]'

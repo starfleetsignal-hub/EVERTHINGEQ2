@@ -2,6 +2,7 @@
 title: Wasp What I Can Do!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '3'
 difficulty: Solo
 zone: '[[Scale Yard]]'

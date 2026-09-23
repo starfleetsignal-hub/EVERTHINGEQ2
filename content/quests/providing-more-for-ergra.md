@@ -2,6 +2,7 @@
 title: Providing More for Ergra
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '91'
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

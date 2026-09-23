@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Summoned to Dethknell Citadel'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[*]]'

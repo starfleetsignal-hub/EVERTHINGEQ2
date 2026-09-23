@@ -2,6 +2,7 @@
 title: Trawling of the Terrors (Event)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Awuidor: Trench of Terrors]]'
 starts: Automatic upon entering the 'Trench of Terrors' dungeon instances

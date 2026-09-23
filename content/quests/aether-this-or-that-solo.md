@@ -2,6 +2,7 @@
 title: Aether This or That (Solo)
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '138'
 zone: '[[Aether Wroughtlands]]'
 timeline: '[[Ballads of Zimara Timeline]]'

@@ -2,6 +2,7 @@
 title: The Curse of the Bloody Shank
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 difficulty: Solo
 zone: '[[Enchanted Lands]]'

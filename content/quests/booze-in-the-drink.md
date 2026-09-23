@@ -1,7 +1,8 @@
 ---
 title: Booze in the Drink
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '6'
 zone: '[[Oakmyst Forest]]'
 journal_category: Oakmyst Forest

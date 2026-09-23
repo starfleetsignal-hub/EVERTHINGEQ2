@@ -2,6 +2,7 @@
 title: Six O'Flock High
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '71'
 difficulty: Heroic
 zone: '[[Palace of the Awakened]]'

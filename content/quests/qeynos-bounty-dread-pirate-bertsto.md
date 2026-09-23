@@ -2,6 +2,7 @@
 title: 'Qeynos Bounty: Dread Pirate Bertsto'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Heroic
 zone: '[[The Commonlands]]'

@@ -2,6 +2,7 @@
 title: Finding Gloln Kilnkor
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

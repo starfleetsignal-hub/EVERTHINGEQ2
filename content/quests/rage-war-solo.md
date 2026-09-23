@@ -2,6 +2,7 @@
 title: Rage War (Solo)
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '143'
 difficulty: Solo
 timeline: '[[Rage of Cthurath Timeline]]'

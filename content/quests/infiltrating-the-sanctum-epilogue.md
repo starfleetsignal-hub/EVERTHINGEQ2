@@ -2,6 +2,7 @@
 title: 'Infiltrating the Sanctum: Epilogue'
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 difficulty: Epic
 zone: '[[Sanctum of the Scaleborn]]'

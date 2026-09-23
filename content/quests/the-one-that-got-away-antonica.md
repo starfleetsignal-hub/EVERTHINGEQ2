@@ -2,6 +2,7 @@
 title: The One That Got Away (Antonica)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 difficulty: Solo
 zone: '[[Antonica]]'

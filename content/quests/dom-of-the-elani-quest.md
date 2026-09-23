@@ -2,6 +2,7 @@
 title: Dom of the Elani (Quest)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '67'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

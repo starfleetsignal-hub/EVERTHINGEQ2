@@ -2,6 +2,7 @@
 title: 'Just Deserts: Terrene Threshold (Signature)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Buried Takish''Hiz: Terrene Threshold (Signature)]]'

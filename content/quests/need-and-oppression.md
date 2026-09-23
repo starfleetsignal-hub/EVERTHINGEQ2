@@ -2,6 +2,7 @@
 title: Need and Oppression
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '42'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

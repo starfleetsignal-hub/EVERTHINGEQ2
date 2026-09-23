@@ -2,6 +2,7 @@
 title: 'Firmament Hand: Golden Rule (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '135'
 difficulty: Solo
 zone: '[[Zimara Breadth]]'

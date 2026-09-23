@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Crushbone Oracles'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '16'
 difficulty: solo
 zone: '[[Greater Faydark]]'

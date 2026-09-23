@@ -2,6 +2,7 @@
 title: Tainted Love
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Frostfang Sea]]'

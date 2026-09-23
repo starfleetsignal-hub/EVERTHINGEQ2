@@ -2,6 +2,7 @@
 title: 'Destination Unknown: Kith and Kin'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Yon Gorroth]]'

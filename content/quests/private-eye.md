@@ -2,6 +2,7 @@
 title: Private Eye
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[The Stonebrunt Highlands]]'

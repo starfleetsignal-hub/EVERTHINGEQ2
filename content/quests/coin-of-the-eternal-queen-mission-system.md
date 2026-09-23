@@ -2,6 +2,7 @@
 title: Coin of the Eternal Queen Mission System
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: category
 categories:
 - Mission Quests
 - Terrors of Thalumbra

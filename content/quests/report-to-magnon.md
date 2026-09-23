@@ -25,6 +25,8 @@ source:
   revision: 823938
   revised: '2018-01-16T08:26:14Z'
   license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: patch
 ---
 
 *This quest is unavailable to characters of Evil-alignment.*

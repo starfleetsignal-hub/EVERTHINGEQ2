@@ -2,6 +2,7 @@
 title: Fleshless Tongue Untied
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Aurelian Coast]]'

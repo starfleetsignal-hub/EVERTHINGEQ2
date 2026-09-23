@@ -2,6 +2,7 @@
 title: Into the Shadowed Grove
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '72'
 difficulty: Heroic
 zone: '[[The Lesser Faydark]]'

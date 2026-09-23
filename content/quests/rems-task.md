@@ -2,6 +2,7 @@
 title: Rem's Task
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 zone: '[[Permafrost]]'
 timeline: '[[Permafrost Timeline]]'

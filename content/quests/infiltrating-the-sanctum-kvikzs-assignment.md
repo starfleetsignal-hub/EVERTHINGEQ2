@@ -2,6 +2,7 @@
 title: 'Infiltrating the Sanctum: Kvikz''s Assignment'
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '64'
 difficulty: Heroic
 zone: '[[Sanctum of the Scaleborn]]'

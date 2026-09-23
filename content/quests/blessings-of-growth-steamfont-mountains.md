@@ -2,6 +2,7 @@
 title: 'Blessings of Growth: Steamfont Mountains'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 zone: '[[Steamfont Mountains]]'
 journal_category: Steamfont Mountains

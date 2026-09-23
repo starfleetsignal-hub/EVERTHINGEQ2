@@ -2,6 +2,7 @@
 title: Nowhere To Be Found
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '92'
 difficulty: Heroic
 zone: '[[The Vigilant: Infiltration]]'

@@ -2,6 +2,7 @@
 title: She Had Ribbons In Her Hair
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

@@ -2,6 +2,7 @@
 title: The Sewer it Key
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

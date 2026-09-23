@@ -2,6 +2,7 @@
 title: Message of the Brave
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

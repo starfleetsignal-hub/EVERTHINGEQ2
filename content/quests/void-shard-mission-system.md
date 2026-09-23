@@ -2,6 +2,7 @@
 title: Void Shard Mission System
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: category
 categories:
 - Mission Quests
 - The Shadow Odyssey

@@ -2,6 +2,7 @@
 title: No Rest for the Weary (Solo)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

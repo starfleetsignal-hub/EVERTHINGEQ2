@@ -2,6 +2,7 @@
 title: Submerged in Terror
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '49'
 difficulty: Solo
 zone: '[[North Qeynos]]'

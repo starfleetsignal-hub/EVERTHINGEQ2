@@ -2,6 +2,7 @@
 title: Good Housekeeping
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '83'
 difficulty: Heroic
 zone: '[[Mistmyr Manor]]'

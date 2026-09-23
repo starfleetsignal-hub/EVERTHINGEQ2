@@ -2,6 +2,7 @@
 title: Not Your Ordinary Messenger - Part 1
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '75'
 zone: '[[Jarsath Wastes]]'
 timeline: '[[Kylong Plains Timeline]]'

@@ -2,6 +2,7 @@
 title: Blue Blood Belts (Quest)
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Kael Drakkel]]'

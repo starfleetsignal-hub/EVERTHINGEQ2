@@ -2,6 +2,7 @@
 title: 'Gorowyn: Haoaeran Provens'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '17'
 zone: '[[Timorous Deep]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

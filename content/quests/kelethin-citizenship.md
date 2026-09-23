@@ -2,6 +2,7 @@
 title: 'Kelethin: Citizenship'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '20'
 zone: '[[Greater Faydark]]'
 timeline: '[[Citizenship Timeline]]'

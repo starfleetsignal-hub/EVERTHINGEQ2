@@ -2,6 +2,7 @@
 title: Forgotten Potion, Part III
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 difficulty: Heroic
 zone: '[[The Crypt of Betrayal]]'

@@ -2,6 +2,7 @@
 title: Xanne's Carcanet
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '84'
 difficulty: heroic
 zone: '[[Moors of Ykesha]]'

@@ -2,6 +2,7 @@
 title: I Seek Knowledge
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 difficulty: Solo
 zone: '[[The Living Tombs]]'

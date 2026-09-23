@@ -1,7 +1,8 @@
 ---
 title: Heroes' Feast in Qeynos!
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '95'
 difficulty: solo
 zone: '[[Qeynos Capitol District]]'

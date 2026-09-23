@@ -2,6 +2,7 @@
 title: 'Luclin Landscaping: Shadeweaver''s Thicket'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 difficulty: Solo
 zone: '[[City of Fordel Midst]]'

@@ -2,6 +2,7 @@
 title: Devotion or Greed
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

@@ -2,6 +2,7 @@
 title: The Varsoon Collection, Volume 3 - The Gift of Immortality (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 zone: '[[The Ruins of Varsoon]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

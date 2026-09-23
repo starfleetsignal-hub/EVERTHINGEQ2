@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Grikbar Battlers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '37'
 difficulty: solo
 zone: '[[Greater Faydark]]'

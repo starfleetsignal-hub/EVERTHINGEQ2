@@ -2,6 +2,7 @@
 title: Into the Crypt of Betrayal
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Bloodsaber Timeline]]'

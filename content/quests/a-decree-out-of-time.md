@@ -2,6 +2,7 @@
 title: A Decree Out of Time
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Portal to the Past: Plains of Karana]]'

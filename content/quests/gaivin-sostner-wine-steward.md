@@ -2,6 +2,7 @@
 title: Gaivin Sostner, Wine Steward
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '83'
 difficulty: Heroic
 zone: '[[Mistmyr Manor]]'

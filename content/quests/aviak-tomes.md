@@ -2,6 +2,7 @@
 title: Aviak Tomes
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[South Freeport]]'

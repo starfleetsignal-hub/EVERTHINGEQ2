@@ -2,6 +2,7 @@
 title: 'The Footsteps of Dartain: Preparation'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 difficulty: Heroic
 zone: '[[The Stonebrunt Highlands]]'

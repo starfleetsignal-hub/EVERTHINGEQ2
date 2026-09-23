@@ -2,6 +2,7 @@
 title: The Hidden Wanted Poster
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '26'
 difficulty: Solo
 zone: '[[The Crypt of Betrayal]]'

@@ -1,7 +1,8 @@
 ---
 title: Vaughn's Stuff
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '10'
 difficulty: Solo
 zone: '[[The Forest Ruins]]'

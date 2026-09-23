@@ -1,7 +1,8 @@
 ---
 title: To the Source
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '5'
 zone: '[[Nettleville]]'
 timeline: '[[Qeynos Racial Timeline]]'

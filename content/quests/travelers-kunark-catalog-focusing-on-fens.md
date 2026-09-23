@@ -1,7 +1,8 @@
 ---
 title: 'Traveler''s Kunark Catalog: Focusing on Fens'
 type: quest
-expansion: Shattered Lands
+expansion: Reign of Shadows
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

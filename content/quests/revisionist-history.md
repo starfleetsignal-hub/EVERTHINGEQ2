@@ -2,6 +2,7 @@
 title: Revisionist History
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '28'
 difficulty: Solo
 zone: '[[Crushbone Keep]]'

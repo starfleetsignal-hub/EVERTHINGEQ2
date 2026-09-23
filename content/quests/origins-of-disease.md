@@ -2,6 +2,7 @@
 title: Origins of Disease
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '116'
 difficulty: Solo
 zone: '[[Myrist, the Great Library]]'

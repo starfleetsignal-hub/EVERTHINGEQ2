@@ -2,6 +2,7 @@
 title: Reforging the Forge
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[The Deep Forge (Agnostic)]]'

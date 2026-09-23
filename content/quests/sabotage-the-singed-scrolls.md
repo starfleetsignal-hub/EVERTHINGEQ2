@@ -1,7 +1,8 @@
 ---
 title: 'Sabotage: The Singed Scrolls'
 type: quest
-expansion: Shattered Lands
+expansion: Kingdom of Sky
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

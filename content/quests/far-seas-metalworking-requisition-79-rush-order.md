@@ -2,6 +2,7 @@
 title: Far Seas Metalworking Requisition 79 (Rush Order)
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 zone: '[[The Village of Shin]]'
 journal_category: Tradeskill

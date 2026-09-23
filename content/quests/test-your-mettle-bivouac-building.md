@@ -2,6 +2,7 @@
 title: 'Test Your Mettle: Bivouac Building'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Splendor Sky Aerie]]'

@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Bloodhorn Enslavers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '43'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

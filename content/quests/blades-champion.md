@@ -2,6 +2,7 @@
 title: Blades Champion
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 zone: '[[The Court of the Blades]]'
 timeline: '[[Court of the Blades Timeline]]'

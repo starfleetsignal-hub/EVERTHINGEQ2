@@ -2,6 +2,7 @@
 title: Dressed the Part
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '74'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

@@ -1,7 +1,8 @@
 ---
 title: Meeting with Cayan
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '3'
 zone: '[[Starcrest Commune]]'
 timeline: '[[Qeynos Racial Timeline]]'

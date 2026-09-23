@@ -2,6 +2,7 @@
 title: Golem Testing
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 zone: '[[North Freeport]]'
 starts: Speak to [[Euphemius Granius]] in [[North Freeport]] at [[The Academy of Arcane Science]].

@@ -2,6 +2,7 @@
 title: Dismemberment
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '29'
 difficulty: Solo
 zone: '[[South Freeport]]'

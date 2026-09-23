@@ -2,6 +2,7 @@
 title: Caustic Collection
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '99'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

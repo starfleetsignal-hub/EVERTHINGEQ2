@@ -2,6 +2,7 @@
 title: Far Seas Ferrin Mission System
 type: quest
 expansion: Altar of Malice
+expansion_source: category
 categories:
 - Altar of Malice
 - Mission Quests

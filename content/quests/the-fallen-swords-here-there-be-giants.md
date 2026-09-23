@@ -1,7 +1,8 @@
 ---
 title: 'The Fallen Swords: Here, There Be Giants'
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '95'
 difficulty: Heroic
 zone: '[[Thurgadin, City of the Coldain]]'

@@ -2,6 +2,7 @@
 title: The Ancient Watcher
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '33'
 difficulty: Epic
 zone: '[[Antonica]]'

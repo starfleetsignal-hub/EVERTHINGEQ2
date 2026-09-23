@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Revelations in Highhold'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '102'
 difficulty: Heroic
 zone: '[[Phantom Sea]]'

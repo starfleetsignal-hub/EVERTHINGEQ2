@@ -2,6 +2,7 @@
 title: Do or Die Aerie
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '132'
 difficulty: Solo
 zone: '[[Splendor Sky Aerie]]'

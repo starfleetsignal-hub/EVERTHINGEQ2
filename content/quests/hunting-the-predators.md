@@ -2,6 +2,7 @@
 title: Hunting The Predators
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '11'
 difficulty: Solo
 zone: '[[South Freeport]]'

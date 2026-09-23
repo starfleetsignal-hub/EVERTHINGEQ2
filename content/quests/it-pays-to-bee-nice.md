@@ -2,6 +2,7 @@
 title: It Pays To Bee Nice
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '57'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

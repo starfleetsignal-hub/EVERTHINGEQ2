@@ -2,6 +2,7 @@
 title: Paying Back the Pain
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '47'
 zone: '[[The Temple of Cazic-Thule]]'
 timeline: '[[Temple of Cazic-Thule Timeline]]'

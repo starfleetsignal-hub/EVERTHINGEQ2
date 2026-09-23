@@ -2,6 +2,7 @@
 title: Shrouded in Secrecy
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '75'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

@@ -2,6 +2,7 @@
 title: A Trip to the Isle
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

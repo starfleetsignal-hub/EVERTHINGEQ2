@@ -2,6 +2,7 @@
 title: The Cursed
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '29'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Firmament Hand: Wisdom''s Plight (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '135'
 difficulty: Solo
 zone: '[[Zimara Breadth]]'

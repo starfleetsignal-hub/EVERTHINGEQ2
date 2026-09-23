@@ -2,6 +2,7 @@
 title: Until the End
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '48'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

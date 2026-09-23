@@ -2,6 +2,7 @@
 title: A Tinkerer's Clockwork Catalog
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

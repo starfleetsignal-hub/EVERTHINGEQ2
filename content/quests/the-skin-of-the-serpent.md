@@ -2,6 +2,7 @@
 title: The Skin of the Serpent
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 difficulty: Solo
 zone: '[[*]]'

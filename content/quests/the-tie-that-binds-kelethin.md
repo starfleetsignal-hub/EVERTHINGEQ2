@@ -2,6 +2,7 @@
 title: The Tie That Binds (Kelethin)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '10'
 zone: '[[Greater Faydark]]'
 added_in: Echoes of Faydwer

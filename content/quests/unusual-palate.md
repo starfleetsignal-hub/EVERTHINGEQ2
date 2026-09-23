@@ -2,6 +2,7 @@
 title: Unusual Palate
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '21'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

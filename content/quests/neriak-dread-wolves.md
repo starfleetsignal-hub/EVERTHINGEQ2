@@ -1,7 +1,8 @@
 ---
 title: 'Neriak: Dread Wolves'
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '100'
 difficulty: Solo
 zone: '[[Guild Hall]]'

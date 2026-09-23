@@ -1,7 +1,8 @@
 ---
 title: Judgement of the Dryads
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '8'
 zone: '[[Oakmyst Forest]]'
 timeline: '[[Qeynos Outlying Areas Timeline]]'

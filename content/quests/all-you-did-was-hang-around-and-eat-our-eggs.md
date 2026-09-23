@@ -2,6 +2,7 @@
 title: All You Did Was Hang Around And Eat Our Eggs!
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '33'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

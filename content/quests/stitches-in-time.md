@@ -2,6 +2,7 @@
 title: Stitches in Time
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '45'
 difficulty: Heroic
 zone: '[[The Feerrott]]'

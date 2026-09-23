@@ -2,6 +2,7 @@
 title: Yon Voyage, Gorroth
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '138'
 difficulty: Solo
 zone: '[[Yon Gorroth]]'

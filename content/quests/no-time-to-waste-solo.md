@@ -2,6 +2,7 @@
 title: No Time to Waste! (Solo)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

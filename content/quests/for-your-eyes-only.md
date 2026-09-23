@@ -2,6 +2,7 @@
 title: For Your Eyes Only
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[Maldura]]'

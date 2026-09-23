@@ -2,6 +2,7 @@
 title: Militia Recruiting
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '57'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

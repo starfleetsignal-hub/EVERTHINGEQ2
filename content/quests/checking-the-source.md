@@ -2,6 +2,7 @@
 title: Checking the Source
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '9'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Timeline]]'

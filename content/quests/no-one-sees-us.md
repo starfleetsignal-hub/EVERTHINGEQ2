@@ -2,6 +2,7 @@
 title: No One Sees Us
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '34'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: The Ever-Hungry Ahroun
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

@@ -1,7 +1,8 @@
 ---
 title: Assisting Qeynos Yet Again
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: Scales with player level from level 60
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

@@ -2,6 +2,7 @@
 title: The Mystery of the Slain Scholar
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: heroic
 zone: '[[Library of Erudin]]'

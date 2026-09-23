@@ -2,6 +2,7 @@
 title: 'An Air Apparent: A Fragment of Solidified Lightning'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Doomfire, the Burning Lands]]'

@@ -2,6 +2,7 @@
 title: A Job for a Secondary
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

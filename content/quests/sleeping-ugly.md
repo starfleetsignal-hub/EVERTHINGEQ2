@@ -2,6 +2,7 @@
 title: Sleeping Ugly
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

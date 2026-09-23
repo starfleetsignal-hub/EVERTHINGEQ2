@@ -2,6 +2,7 @@
 title: Orcish Threats
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

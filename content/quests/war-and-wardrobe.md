@@ -2,6 +2,7 @@
 title: War and Wardrobe
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '35'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

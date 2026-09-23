@@ -2,6 +2,7 @@
 title: Traitorous Designs (Fallen Gate)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '21'
 difficulty: Solo
 zone: '[[North Freeport]]'

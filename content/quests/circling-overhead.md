@@ -2,6 +2,7 @@
 title: Circling Overhead
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

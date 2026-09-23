@@ -2,6 +2,7 @@
 title: The Number One Threat in Butcherblock
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '24'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

@@ -2,6 +2,7 @@
 title: Fists of Furious Ferocity
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '58'
 difficulty: Heroic
 zone: '[[The Cave of Knowledge]]'

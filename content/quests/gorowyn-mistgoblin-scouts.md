@@ -1,7 +1,8 @@
 ---
 title: 'Gorowyn: Mistgoblin Scouts'
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '76'
 zone: '[[Kylong Plains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

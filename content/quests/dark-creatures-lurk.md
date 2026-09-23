@@ -2,6 +2,7 @@
 title: Dark Creatures Lurk
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

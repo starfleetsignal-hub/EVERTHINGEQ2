@@ -1,7 +1,8 @@
 ---
 title: 'Gorowyn: Risen Shraloks'
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '100'
 difficulty: Solo
 zone: '[[Guild Hall]]'

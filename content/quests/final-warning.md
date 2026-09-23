@@ -2,6 +2,7 @@
 title: Final Warning
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Heroic
 zone: '[[The Ruins of Guk: The Lower Corridors]]'

@@ -2,6 +2,7 @@
 title: Weigh Anchor
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '103'
 difficulty: Heroic
 zone: '[[High Keep: The Bloodless Incursion (Contested)]]'

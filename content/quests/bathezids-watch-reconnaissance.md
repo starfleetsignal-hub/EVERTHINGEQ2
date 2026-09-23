@@ -2,6 +2,7 @@
 title: 'Bathezid''s Watch: Reconnaissance'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '70'
 difficulty: Solo
 zone: '[[Fens of Nathsar]]'

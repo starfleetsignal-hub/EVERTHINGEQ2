@@ -2,6 +2,7 @@
 title: Poking at the Paranormal
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

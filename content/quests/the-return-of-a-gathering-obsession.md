@@ -2,6 +2,7 @@
 title: The Return Of A Gathering Obsession
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

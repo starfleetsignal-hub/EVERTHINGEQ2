@@ -2,6 +2,7 @@
 title: Foul Order
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '21'
 difficulty: Solo
 zone: '[[The Serpent Sewer]]'

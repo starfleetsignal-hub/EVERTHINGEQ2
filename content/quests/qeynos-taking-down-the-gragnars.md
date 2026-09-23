@@ -2,6 +2,7 @@
 title: 'Qeynos: Taking Down the Gragnars'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '86'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

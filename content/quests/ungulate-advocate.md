@@ -2,6 +2,7 @@
 title: Ungulate Advocate
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '34'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

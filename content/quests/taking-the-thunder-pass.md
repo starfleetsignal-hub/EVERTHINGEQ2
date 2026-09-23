@@ -2,6 +2,7 @@
 title: Taking the Thunder Pass
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '99'
 zone: '[[Phantom Sea]]'
 timeline: '[[Shattered Seas Timeline]]'

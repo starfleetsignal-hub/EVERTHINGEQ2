@@ -2,6 +2,7 @@
 title: The Root of Evil
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '43'
 difficulty: Solo
 zone: '[[Rivervale]]'

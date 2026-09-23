@@ -2,6 +2,7 @@
 title: The Witch's Key
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

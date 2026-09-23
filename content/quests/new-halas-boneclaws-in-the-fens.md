@@ -2,6 +2,7 @@
 title: 'New Halas: Boneclaws in the Fens'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '76'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

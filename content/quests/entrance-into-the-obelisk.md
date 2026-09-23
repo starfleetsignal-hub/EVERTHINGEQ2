@@ -2,6 +2,7 @@
 title: Entrance into the Obelisk
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '39'
 difficulty: Heroic
 zone: '[[The Obelisk of Lost Souls]]'

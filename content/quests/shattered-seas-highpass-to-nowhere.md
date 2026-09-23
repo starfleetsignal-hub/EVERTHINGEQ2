@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Highpass to Nowhere'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '102'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

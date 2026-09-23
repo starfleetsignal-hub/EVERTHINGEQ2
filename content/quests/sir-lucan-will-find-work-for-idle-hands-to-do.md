@@ -2,6 +2,7 @@
 title: Sir Lucan Will Find Work for Idle Hands to Do
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '33'
 difficulty: Solo
 zone: '[[West Freeport]]'

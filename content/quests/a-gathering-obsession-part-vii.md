@@ -2,6 +2,7 @@
 title: A Gathering Obsession, Part VII
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '65'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

@@ -2,6 +2,7 @@
 title: The Lift Key of Rujark
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 difficulty: Solo
 zone: '[[The Clefts of Rujark]]'

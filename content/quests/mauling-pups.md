@@ -2,6 +2,7 @@
 title: Mauling Pups
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '42'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

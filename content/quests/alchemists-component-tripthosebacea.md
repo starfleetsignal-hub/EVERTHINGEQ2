@@ -2,6 +2,7 @@
 title: 'Alchemist''s Component: Tripthosebacea'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Examine a [[Stalvo's Notes - Tripthosebacea]] that drops randomly from all monsters in Zek

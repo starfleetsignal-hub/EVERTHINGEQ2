@@ -2,6 +2,7 @@
 title: Kyrtoxxulous' Challenge
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[*]]'

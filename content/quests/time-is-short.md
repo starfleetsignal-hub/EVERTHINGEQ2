@@ -2,6 +2,7 @@
 title: Time Is Short
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[Arcanna''se Spire: Into The Spire (Tradeskill)]]'

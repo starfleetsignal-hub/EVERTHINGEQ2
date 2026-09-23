@@ -2,6 +2,7 @@
 title: Bog Mountain's Eruption
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Enchanted Lands]]'
 journal_category: World Event

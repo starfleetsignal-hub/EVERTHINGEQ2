@@ -2,6 +2,7 @@
 title: The Book That Cursed Ireatan
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '65'
 difficulty: Epic
 zone: '[[The Temple of Scale]]'

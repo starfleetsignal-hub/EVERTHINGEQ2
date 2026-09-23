@@ -2,6 +2,7 @@
 title: Now That's The Spirit!
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '99'
 difficulty: Heroic
 zone: '[[Tranquil Sea]]'

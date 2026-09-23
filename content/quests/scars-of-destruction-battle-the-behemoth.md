@@ -2,6 +2,7 @@
 title: 'Scars of Destruction: Battle the Behemoth!'
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 difficulty: Heroic
 zone: '[[Western Wastes]]'

@@ -2,6 +2,7 @@
 title: 'The Courts of Maj''Dul: Of Fate and Destiny'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Heroic
 zone: '[[The Pillars of Flame]]'

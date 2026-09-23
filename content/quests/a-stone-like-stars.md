@@ -2,6 +2,7 @@
 title: A Stone Like Stars
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

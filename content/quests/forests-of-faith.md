@@ -2,6 +2,7 @@
 title: Forests of Faith
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '38'
 difficulty: Solo
 zone: '[[North Freeport]]'

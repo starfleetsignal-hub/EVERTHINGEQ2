@@ -2,6 +2,7 @@
 title: Terris-Thule Celebration Research Investigation - Vol 151
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Darklight Wood]]'

@@ -2,6 +2,7 @@
 title: Inundated by Evil
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 difficulty: Solo
 zone: '[[Rivervale]]'

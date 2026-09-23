@@ -2,6 +2,7 @@
 title: A Cold-Hearted Snake
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Lavastorm]]'

@@ -2,6 +2,7 @@
 title: 'Shades of Drinal: Skies of Red'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '96'
 difficulty: Solo
 zone: '[[The Eidolon Jungle]]'

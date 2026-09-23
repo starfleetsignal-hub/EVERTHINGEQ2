@@ -2,6 +2,7 @@
 title: Erollisi Marr Celebration Research Investigation - Vol 33
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Frostfang Sea]]'

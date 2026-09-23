@@ -2,6 +2,7 @@
 title: The Blades' Training Arena
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 difficulty: Solo
 zone: '[[Blades'' Arena]]'

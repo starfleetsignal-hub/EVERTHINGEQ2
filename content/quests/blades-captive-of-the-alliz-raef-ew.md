@@ -2,6 +2,7 @@
 title: 'Blades: Captive of the Alliz Raef Ew'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '48'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Court of the Blades Timeline]]'

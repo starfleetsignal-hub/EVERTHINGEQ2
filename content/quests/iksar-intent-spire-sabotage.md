@@ -2,6 +2,7 @@
 title: Iksar Intent - Spire Sabotage!
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 zone: '[[Kylong Plains]]'
 journal_category: Overseer
 starts: Complete Previous Quest

@@ -1,7 +1,8 @@
 ---
 title: 'Amalgamations for All: Set Sail for Sodden'
 type: quest
-expansion: Shattered Lands
+expansion: Altar of Malice
+expansion_source: timeline
 level: '130'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

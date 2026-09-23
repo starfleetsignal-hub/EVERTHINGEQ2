@@ -1,7 +1,8 @@
 ---
 title: These Boots Were Made For...
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: chain
 level: '25'
 difficulty: Heroic
 zone: '[[Antonica]]'

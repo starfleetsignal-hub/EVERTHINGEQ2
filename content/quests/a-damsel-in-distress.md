@@ -2,6 +2,7 @@
 title: A Damsel in Distress
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '46'
 zone: '[[Maj''Dul]]'
 timeline: '[[Peacock Club Timeline]]'

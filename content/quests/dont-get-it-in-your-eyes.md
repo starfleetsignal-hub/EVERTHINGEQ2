@@ -2,6 +2,7 @@
 title: Don't Get it in Your Eyes
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '4'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

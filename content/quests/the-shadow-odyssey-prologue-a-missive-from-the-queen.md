@@ -2,6 +2,7 @@
 title: 'The Shadow Odyssey, Prologue: A Missive from the Queen'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

@@ -1,7 +1,8 @@
 ---
 title: Cheers!
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '4'
 zone: '[[Graystone Yard]]'
 timeline: '[[Qeynos Racial Timeline]]'

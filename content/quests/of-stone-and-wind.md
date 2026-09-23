@@ -2,6 +2,7 @@
 title: Of Stone and Wind
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '1'
 zone: '[[Stonestair Byway]]'
 timeline: '[[Freeport Racial Timeline]]'

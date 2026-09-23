@@ -2,6 +2,7 @@
 title: It's Just Your Imagination
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '41'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

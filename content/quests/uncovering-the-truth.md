@@ -2,6 +2,7 @@
 title: Uncovering the Truth
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '82'
 difficulty: Heroic
 zone: '[[Befallen: Cavern of the Afflicted]]'

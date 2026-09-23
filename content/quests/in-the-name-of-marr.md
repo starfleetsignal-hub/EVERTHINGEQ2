@@ -2,6 +2,7 @@
 title: In the Name of Marr
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '56'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

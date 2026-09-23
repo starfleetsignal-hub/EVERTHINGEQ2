@@ -2,6 +2,7 @@
 title: Beware of Biting Books
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 difficulty: Heroic
 zone: '[[The Ruins of Varsoon]]'

@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Dire Wargs'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '67'
 difficulty: solo
 zone: '[[Greater Faydark]]'

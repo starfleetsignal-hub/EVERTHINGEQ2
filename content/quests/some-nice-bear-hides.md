@@ -2,6 +2,7 @@
 title: Some Nice Bear Hides
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 difficulty: Solo
 zone: '[[North Qeynos]]'

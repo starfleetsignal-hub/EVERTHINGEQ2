@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Gremlin Muses'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '64'
 difficulty: solo
 zone: '[[Greater Faydark]]'

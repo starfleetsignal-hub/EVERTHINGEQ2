@@ -2,6 +2,7 @@
 title: Venomous Venture
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '46'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

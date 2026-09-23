@@ -1,7 +1,8 @@
 ---
 title: Silencing the Sentries
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '60'
 difficulty: Solo
 zone: '[[The Elddar Grove]]'

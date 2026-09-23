@@ -2,6 +2,7 @@
 title: Swords in Formation
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '62'
 zone: '[[Sanctum of the Scaleborn]]'
 timeline: '[[Sanctum of the Scaleborn Timeline]]'

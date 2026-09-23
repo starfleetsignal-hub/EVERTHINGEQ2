@@ -2,6 +2,7 @@
 title: The Shasik Crystal (Quest)
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '83'
 difficulty: Heroic
 zone: '[[Fens of Nathsar]]'

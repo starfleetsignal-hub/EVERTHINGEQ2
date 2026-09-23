@@ -2,6 +2,7 @@
 title: Welcome to the Peacock Club
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '49'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

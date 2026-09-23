@@ -2,6 +2,7 @@
 title: Deadly Report (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 journal_category: Crypt of Betrayal
 starts: examine [[Deadly report (Quest Starter)|deadly report]]

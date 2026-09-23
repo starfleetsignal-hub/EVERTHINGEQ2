@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Aqua Goblin Mystics'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '22'
 difficulty: solo
 zone: '[[Greater Faydark]]'

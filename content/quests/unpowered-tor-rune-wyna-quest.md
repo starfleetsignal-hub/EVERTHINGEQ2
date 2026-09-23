@@ -2,6 +2,7 @@
 title: Unpowered Tor Rune, Wyna (Quest)
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '125'
 zone: '[[Mahngavi Wastes]]'
 timeline: '[[Visions of Vetrovia Timeline]]'

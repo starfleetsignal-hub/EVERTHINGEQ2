@@ -2,6 +2,7 @@
 title: Kleron's Wristguards
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '22'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

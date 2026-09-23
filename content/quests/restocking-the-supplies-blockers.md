@@ -2,6 +2,7 @@
 title: 'Restocking the Supplies: Blockers'
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '57'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

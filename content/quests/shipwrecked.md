@@ -2,6 +2,7 @@
 title: Shipwrecked!
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '5'
 zone: '[[*]]'
 timeline: '[[Shipwrecked Timeline]]'

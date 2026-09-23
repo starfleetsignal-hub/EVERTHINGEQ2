@@ -2,6 +2,7 @@
 title: Splitpaw Down Under, Part Two (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

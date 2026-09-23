@@ -2,6 +2,7 @@
 title: E'Ci Celebration Research Investigation - Vol 31
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Everfrost]]'

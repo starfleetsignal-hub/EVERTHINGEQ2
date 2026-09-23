@@ -2,6 +2,7 @@
 title: Up In Flames
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '67'
 difficulty: Heroic
 zone: '[[Mistmoore Catacombs]]'

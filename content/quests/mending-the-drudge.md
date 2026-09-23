@@ -2,6 +2,7 @@
 title: Mending the Drudge
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '80'
 difficulty: Epic
 zone: '[[Veeshan''s Peak]]'

@@ -2,6 +2,7 @@
 title: In His Name
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[The Commonlands]]'

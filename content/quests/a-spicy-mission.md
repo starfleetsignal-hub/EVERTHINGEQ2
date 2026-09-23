@@ -2,6 +2,7 @@
 title: A Spicy Mission
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

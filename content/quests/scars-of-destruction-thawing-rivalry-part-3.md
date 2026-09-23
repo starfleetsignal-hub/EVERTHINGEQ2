@@ -2,6 +2,7 @@
 title: 'Scars of Destruction: Thawing Rivalry - Part 3'
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '138'
 difficulty: Epic
 zone: '[[Sodden Archipelago]]'

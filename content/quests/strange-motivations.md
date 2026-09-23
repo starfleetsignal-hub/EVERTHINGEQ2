@@ -1,7 +1,8 @@
 ---
 title: Strange Motivations
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '93'
 difficulty: Heroic
 zone: '[[The Withered Lands]]'

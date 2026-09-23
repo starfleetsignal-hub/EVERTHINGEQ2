@@ -2,6 +2,7 @@
 title: The Noxious Urn
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '43'
 zone: '[[The Temple of Cazic-Thule]]'
 timeline: '[[Temple of Cazic-Thule Timeline]]'

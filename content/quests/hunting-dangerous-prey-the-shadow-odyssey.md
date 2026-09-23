@@ -1,7 +1,8 @@
 ---
 title: Hunting Dangerous Prey (The Shadow Odyssey)
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: level
 level: '80'
 difficulty: Heroic
 zone: '[[Moors of Ykesha]]'

@@ -2,6 +2,7 @@
 title: Vida Needs a New Broom
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '8'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

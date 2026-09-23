@@ -2,11 +2,11 @@
 title: Menial Tasks...
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '82'
 difficulty: Solo
 zone: '[[Halls of the Unseen]]'
 timeline: '[[Dark Mail Gauntlets Timeline]]'
-journal_category: ???
 starts: Speak to [[Nyran Dudez]]
 prerequisite: '[[Demonstration of Loyalty]]'
 next_quest: '[[Tie up Some Loose Ends]]'

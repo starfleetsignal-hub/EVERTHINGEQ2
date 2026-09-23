@@ -2,6 +2,7 @@
 title: Vibia's Wailing Cave Ingredients
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '13'
 zone: '[[The City of Freeport]]'
 timeline: '[[Wailing Caves Timeline]]'

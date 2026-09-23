@@ -2,6 +2,7 @@
 title: For the Crusade
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '108'
 difficulty: Epic
 zone: '[[Obulus Frontier]]'

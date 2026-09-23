@@ -1,7 +1,8 @@
 ---
 title: Exiled from New Halas
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[Frostfang Sea]]'

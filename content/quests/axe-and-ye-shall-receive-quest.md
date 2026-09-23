@@ -2,6 +2,7 @@
 title: Axe And Ye Shall Receive (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

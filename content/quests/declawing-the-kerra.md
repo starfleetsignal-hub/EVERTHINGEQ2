@@ -2,6 +2,7 @@
 title: Declawing the Kerra
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'

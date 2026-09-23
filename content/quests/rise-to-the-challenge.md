@@ -2,6 +2,7 @@
 title: Rise to the Challenge
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '38'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

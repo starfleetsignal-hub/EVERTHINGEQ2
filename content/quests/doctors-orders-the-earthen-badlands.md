@@ -2,6 +2,7 @@
 title: 'Doctor''s Orders: The Earthen Badlands'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '117'
 difficulty: Solo
 zone: '[[Vegarlson, the Earthen Badlands]]'

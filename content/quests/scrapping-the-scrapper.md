@@ -2,6 +2,7 @@
 title: Scrapping the Scrapper
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '46'
 zone: '[[Steamfont Mountains]]'
 journal_category: Klak'Anon

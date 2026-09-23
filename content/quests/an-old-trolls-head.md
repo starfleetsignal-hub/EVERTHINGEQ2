@@ -2,6 +2,7 @@
 title: An Old Troll's Head
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '86'
 difficulty: Heroic
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: Bristles of Conflict (Quest)
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Iceshard Keep]]'

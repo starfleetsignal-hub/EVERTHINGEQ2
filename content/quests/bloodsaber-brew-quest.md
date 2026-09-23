@@ -2,6 +2,7 @@
 title: Bloodsaber Brew (quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '15'
 zone: '[[Vermin''s Snye]]'
 timeline: '[[Qeynos Catacombs Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: Far Seas Direct Requisition FRN0378
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '6'
 difficulty: Solo
 zone: '[[The Forest Ruins]]'

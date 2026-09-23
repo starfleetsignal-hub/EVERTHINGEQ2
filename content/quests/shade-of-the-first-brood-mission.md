@@ -1,7 +1,8 @@
 ---
 title: Shade of the First Brood (Mission)
 type: quest
-expansion: Shattered Lands
+expansion: Kunark Ascending
+expansion_source: level
 level: '107'
 difficulty: Epic
 zone: '[[Fens of Nathsar]]'

@@ -2,6 +2,7 @@
 title: The Sound Is Deep
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '42'
 difficulty: Solo
 zone: '[[West Freeport]]'

@@ -2,6 +2,7 @@
 title: Taer Felwind (Quest)
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

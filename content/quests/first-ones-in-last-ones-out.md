@@ -2,6 +2,7 @@
 title: First Ones In, Last Ones Out
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[The Lesser Faydark]]'

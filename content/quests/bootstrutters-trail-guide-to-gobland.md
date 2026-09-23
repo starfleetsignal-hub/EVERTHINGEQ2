@@ -2,6 +2,7 @@
 title: Bootstrutter's Trail Guide to Gobland
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '35'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

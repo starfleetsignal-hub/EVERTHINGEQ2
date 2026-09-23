@@ -2,6 +2,7 @@
 title: 'Daily Desert: Grave Grange (Solo)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Sandstone Delta]]'

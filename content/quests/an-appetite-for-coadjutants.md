@@ -2,6 +2,7 @@
 title: An Appetite for Coadjutants
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 zone: '[[Palace of the Awakened]]'
 timeline: '[[Claymore Timeline]]'

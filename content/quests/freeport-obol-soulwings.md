@@ -1,7 +1,8 @@
 ---
 title: 'Freeport: Obol Soulwings'
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: level
 level: '95'
 difficulty: Solo
 zone: '[[Great Divide]]'

@@ -2,6 +2,7 @@
 title: One Door Closes, Another Door Opens
 type: quest
 expansion: Age of Discovery
+expansion_source: questline
 level: '90'
 difficulty: Heroic
 zone: '[[Spiritual Wound (Fens of Nathsar)]]'

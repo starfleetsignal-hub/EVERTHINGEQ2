@@ -2,6 +2,7 @@
 title: Groaning Bracers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '17'
 difficulty: Heroic
 zone: '[[The Wailing Caves]]'

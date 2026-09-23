@@ -2,6 +2,7 @@
 title: A Lost Sister (Epic)
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: Epic
 zone: '[[Harrow''s End (Raid)]]'

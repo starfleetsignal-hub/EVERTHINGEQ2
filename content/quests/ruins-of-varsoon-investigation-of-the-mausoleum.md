@@ -2,6 +2,7 @@
 title: 'Ruins of Varsoon: Investigation of the Mausoleum'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 difficulty: Solo
 zone: '[[Vermin''s Snye]]'

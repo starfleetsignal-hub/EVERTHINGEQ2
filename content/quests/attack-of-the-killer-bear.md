@@ -2,6 +2,7 @@
 title: Attack of the Killer Bear
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

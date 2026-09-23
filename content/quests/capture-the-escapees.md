@@ -2,6 +2,7 @@
 title: Capture the Escapees
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '72'
 zone: '[[Fens of Nathsar]]'
 timeline: '[[Fens of Nathsar Timeline]]'

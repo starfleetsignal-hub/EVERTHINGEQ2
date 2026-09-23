@@ -2,6 +2,7 @@
 title: Necromantic Research - Toxxulia Prowlers
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '81'
 difficulty: solo
 zone: '[[The Sundered Frontier]]'

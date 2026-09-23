@@ -2,6 +2,7 @@
 title: Arcana and Teleportation
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

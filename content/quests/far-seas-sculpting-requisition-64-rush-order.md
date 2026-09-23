@@ -2,6 +2,7 @@
 title: Far Seas Sculpting Requisition 64 (Rush Order)
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '64'
 zone: '[[The Village of Shin]]'
 journal_category: Tradeskill

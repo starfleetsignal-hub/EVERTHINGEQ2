@@ -2,6 +2,7 @@
 title: The Book of Thex (Quest)
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '85'
 difficulty: heroic
 zone: '[[Befallen: Cavern of the Afflicted]]'

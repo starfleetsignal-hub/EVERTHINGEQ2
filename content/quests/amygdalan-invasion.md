@@ -2,6 +2,7 @@
 title: Amygdalan Invasion
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '74'
 difficulty: Epic
 zone: '[[Tenebrous Tangle]]'

@@ -1,7 +1,8 @@
 ---
 title: Of Sea, Sails and Slumber (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '38'
 difficulty: Heroic
 zone: '[[Enchanted Lands]]'

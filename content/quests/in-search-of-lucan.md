@@ -2,6 +2,7 @@
 title: In Search of Lucan
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[*]]'

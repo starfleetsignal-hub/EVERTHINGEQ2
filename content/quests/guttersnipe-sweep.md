@@ -2,6 +2,7 @@
 title: Guttersnipe Sweep
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 zone: '[[The Sprawl]]'
 timeline: '[[Repeatable Quests Timeline]]'

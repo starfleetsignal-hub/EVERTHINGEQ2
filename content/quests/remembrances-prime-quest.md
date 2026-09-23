@@ -2,6 +2,7 @@
 title: '"Remembrances - Prime" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '47'
 zone: '[[*]]'
 timeline: '[[The Obelisk of Lost Souls Timeline]]'

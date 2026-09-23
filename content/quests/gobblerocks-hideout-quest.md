@@ -1,7 +1,8 @@
 ---
 title: Gobblerock's Hideout (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '30'
 zone: '[[The Commonlands]]'
 timeline: '[[Gobblerock''s Hideout Timeline]]'

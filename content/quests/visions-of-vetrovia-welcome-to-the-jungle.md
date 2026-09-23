@@ -2,6 +2,7 @@
 title: 'Visions of Vetrovia: Welcome to the Jungle'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '127'
 difficulty: Solo
 zone: '[[Svarni Expanse]]'

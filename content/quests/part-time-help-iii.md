@@ -2,6 +2,7 @@
 title: 'Part Time Help: III'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '11'
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'

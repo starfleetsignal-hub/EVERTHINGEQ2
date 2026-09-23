@@ -2,6 +2,7 @@
 title: Collars of the Ahroun
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '69'
 difficulty: Solo
 zone: '[[Loping Plains]]'

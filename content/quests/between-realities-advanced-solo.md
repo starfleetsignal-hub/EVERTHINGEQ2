@@ -2,6 +2,7 @@
 title: Between Realities (Advanced Solo)
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '96'
 difficulty: Solo
 zone: '[[Vesspyr Isles]]'

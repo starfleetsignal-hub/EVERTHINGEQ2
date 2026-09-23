@@ -2,6 +2,7 @@
 title: The Ashes of Conquest
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 zone: '[[Maj''Dul]]'
 timeline: '[[Court of the Blades Timeline]]'

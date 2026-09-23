@@ -2,6 +2,7 @@
 title: Fueling Rage (Heroic)
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '143'
 difficulty: Heroic
 timeline: '[[Rage of Cthurath Timeline]]'

@@ -2,6 +2,7 @@
 title: Ogled Goggles (Freeport)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[West Freeport]]'

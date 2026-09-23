@@ -2,6 +2,7 @@
 title: Distillation Inspiration
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 difficulty: solo
 zone: '[[Rivervale]]'

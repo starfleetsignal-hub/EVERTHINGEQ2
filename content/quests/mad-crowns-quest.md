@@ -2,6 +2,7 @@
 title: Mad Crown's Quest
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '94'
 difficulty: Solo
 zone: '[[Obol Plains]]'

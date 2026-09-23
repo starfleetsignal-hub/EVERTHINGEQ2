@@ -2,6 +2,7 @@
 title: 'Firmament Hand: Ferric Fields (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '136'
 zone: '[[Aether Wroughtlands]]'
 timeline: '[[Ballads of Zimara Timeline]]'

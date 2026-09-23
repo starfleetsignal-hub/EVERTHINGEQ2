@@ -2,6 +2,7 @@
 title: Servant of the Temple (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 zone: '[[The Temple of Cazic-Thule]]'
 timeline: '[[Feerrott Timeline]]'

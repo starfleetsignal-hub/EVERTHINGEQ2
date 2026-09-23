@@ -2,6 +2,7 @@
 title: The Mysterious Supplier
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '23'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

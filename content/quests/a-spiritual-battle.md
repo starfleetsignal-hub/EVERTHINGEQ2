@@ -2,6 +2,7 @@
 title: A Spiritual Battle
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Examine a stack of wood behind the limbermill at {{waypoint -383, -26, -291}}

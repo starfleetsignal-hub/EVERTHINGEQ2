@@ -2,6 +2,7 @@
 title: Pump Out of Order
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 difficulty: Solo
 zone: '[[Rivervale]]'

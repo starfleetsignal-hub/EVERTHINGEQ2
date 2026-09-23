@@ -2,6 +2,7 @@
 title: Mechanical Weaponry
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '69'
 difficulty: Heroic
 zone: '[[West Freeport]]'

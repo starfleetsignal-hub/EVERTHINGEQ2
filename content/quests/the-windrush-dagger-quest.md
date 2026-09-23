@@ -2,6 +2,7 @@
 title: The Windrush Dagger (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '17'
 difficulty: Heroic
 zone: '[[The Wailing Caves]]'

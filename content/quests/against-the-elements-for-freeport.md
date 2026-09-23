@@ -2,6 +2,7 @@
 title: Against the Elements for Freeport
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '99'
 zone: '[[*]]'
 journal_category: World Event

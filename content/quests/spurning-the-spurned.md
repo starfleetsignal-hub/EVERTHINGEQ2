@@ -2,6 +2,7 @@
 title: Spurning the Spurned
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '82'
 difficulty: heroic
 zone: '[[Lavastorm]]'

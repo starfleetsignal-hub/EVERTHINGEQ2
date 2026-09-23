@@ -2,6 +2,7 @@
 title: Challenge of the Savages
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '49'
 zone: '[[Permafrost]]'
 timeline: '[[Permafrost Timeline]]'

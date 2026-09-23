@@ -1,7 +1,8 @@
 ---
 title: Desert Magical Studies
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '55'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

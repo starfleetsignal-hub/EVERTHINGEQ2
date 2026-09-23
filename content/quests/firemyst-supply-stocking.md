@@ -2,6 +2,7 @@
 title: Firemyst Supply Stocking
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: solo
 zone: '[[Firemyst Gully: Supply Shortage]]'

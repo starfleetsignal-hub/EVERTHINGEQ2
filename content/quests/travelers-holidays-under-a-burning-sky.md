@@ -2,6 +2,7 @@
 title: Traveler's Holidays - Under a Burning Sky
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

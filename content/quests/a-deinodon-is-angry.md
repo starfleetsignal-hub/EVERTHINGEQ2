@@ -2,6 +2,7 @@
 title: A Deinodon is Angry
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '99'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

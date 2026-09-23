@@ -2,6 +2,7 @@
 title: Securing Future Livelihood
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '49'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

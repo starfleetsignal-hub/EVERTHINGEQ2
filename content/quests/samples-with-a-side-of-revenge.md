@@ -2,6 +2,7 @@
 title: Samples with a Side of Revenge
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '66'
 zone: '[[Loping Plains]]'
 timeline: '[[Loping Plains Timeline]]'

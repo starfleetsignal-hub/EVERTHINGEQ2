@@ -2,6 +2,7 @@
 title: The Sabertooth Miner's Guide, Part One
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 difficulty: Solo
 zone: '[[Blackburrow]]'

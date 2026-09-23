@@ -2,6 +2,7 @@
 title: Stomping the Crushbone Plans
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '8'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

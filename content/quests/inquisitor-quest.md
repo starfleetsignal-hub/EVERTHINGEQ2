@@ -2,6 +2,7 @@
 title: Inquisitor (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '28'
 difficulty: Heroic
 zone: '[[The Crypt of Betrayal]]'

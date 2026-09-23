@@ -2,6 +2,7 @@
 title: In the Djinn Master's Service
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '57'
 difficulty: Heroic
 zone: '[[The Poets Palace]]'

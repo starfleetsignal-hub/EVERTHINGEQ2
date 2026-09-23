@@ -2,6 +2,7 @@
 title: Putting Maltena to Rest
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '50'
 difficulty: Solo
 zone: '[[Nektropos Castle]]'

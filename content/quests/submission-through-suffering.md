@@ -2,6 +2,7 @@
 title: Submission Through Suffering
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '26'
 difficulty: Solo
 zone: '[[North Freeport]]'

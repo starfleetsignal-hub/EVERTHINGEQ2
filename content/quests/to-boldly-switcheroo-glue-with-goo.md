@@ -1,7 +1,8 @@
 ---
 title: 'To Boldly Switcheroo: Glue with Goo'
 type: quest
-expansion: Shattered Lands
+expansion: Visions of Vetrovia
+expansion_source: level
 level: '130'
 difficulty: Solo
 zone: '[[Spiral of Vul (Contested)]]'

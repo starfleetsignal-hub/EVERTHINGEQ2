@@ -2,6 +2,7 @@
 title: Speak with Ankinil Zo'ri
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '25'
 zone: '[[Timorous Deep]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

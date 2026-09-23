@@ -2,6 +2,7 @@
 title: Eye Lash
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '64'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

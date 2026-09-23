@@ -2,6 +2,7 @@
 title: Coldain Hero's Insignia Ring
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '97'
 difficulty: Epic
 zone: '[[Tower of Frozen Shadow]]'

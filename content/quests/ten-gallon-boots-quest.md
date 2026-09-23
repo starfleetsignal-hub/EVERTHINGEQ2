@@ -2,6 +2,7 @@
 title: Ten Gallon Boots (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 difficulty: Solo
 zone: '[[Rivervale]]'

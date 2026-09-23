@@ -2,6 +2,7 @@
 title: Over the Hills and Far Away
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

@@ -2,6 +2,7 @@
 title: The Molten Lamps
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 zone: '[[South Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

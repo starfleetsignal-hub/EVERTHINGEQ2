@@ -2,6 +2,7 @@
 title: 'Gorowyn: Yarpsnarl Reavers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '32'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

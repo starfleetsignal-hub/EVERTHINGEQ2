@@ -2,6 +2,7 @@
 title: Swog's Salutary Salve
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '91'
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

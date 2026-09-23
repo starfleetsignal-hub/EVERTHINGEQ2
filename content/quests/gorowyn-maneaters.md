@@ -2,6 +2,7 @@
 title: 'Gorowyn: Maneaters'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '14'
 zone: '[[Timorous Deep]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

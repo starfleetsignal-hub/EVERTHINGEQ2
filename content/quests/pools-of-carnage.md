@@ -2,6 +2,7 @@
 title: Pools of Carnage
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '23'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

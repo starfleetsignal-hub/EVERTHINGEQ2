@@ -2,6 +2,7 @@
 title: The Dire Warg Whisperer
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '67'
 difficulty: Solo
 zone: '[[Loping Plains]]'

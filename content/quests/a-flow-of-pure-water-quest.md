@@ -2,6 +2,7 @@
 title: A Flow of Pure Water (Quest)
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Heroic
 zone: '[[Kylong Plains]]'

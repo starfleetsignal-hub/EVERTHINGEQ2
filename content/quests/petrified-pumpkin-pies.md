@@ -1,7 +1,8 @@
 ---
 title: Petrified Pumpkin Pies
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '25'
 zone: '[[Antonica]]'
 timeline: '[[Nights of the Dead Timeline]]'

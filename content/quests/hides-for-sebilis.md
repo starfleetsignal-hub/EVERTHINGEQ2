@@ -2,6 +2,7 @@
 title: Hides for Sebilis
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '77'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

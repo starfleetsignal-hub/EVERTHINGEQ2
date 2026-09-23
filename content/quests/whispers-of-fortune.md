@@ -2,6 +2,7 @@
 title: Whispers of Fortune
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 zone: '[[Antonica]]'
 timeline: '[[Nektropos Castle Timeline]]'

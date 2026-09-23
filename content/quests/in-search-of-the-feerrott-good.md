@@ -2,6 +2,7 @@
 title: In Search of the Feerrott (Good)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '34'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Feerrott Timeline]]'

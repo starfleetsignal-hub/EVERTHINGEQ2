@@ -1,7 +1,8 @@
 ---
 title: 'Sabotage: The Latest Fashions'
 type: quest
-expansion: Shattered Lands
+expansion: Kingdom of Sky
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

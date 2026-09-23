@@ -2,6 +2,7 @@
 title: The Relic of Growth (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

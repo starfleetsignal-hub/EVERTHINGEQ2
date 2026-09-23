@@ -2,6 +2,7 @@
 title: Cooking Crocodiles
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '48'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

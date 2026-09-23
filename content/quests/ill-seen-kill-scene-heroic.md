@@ -2,6 +2,7 @@
 title: Ill-Seen Kill Scene (Heroic)
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '106'
 difficulty: Heroic
 zone: '[[Thalumbra, the Ever Deep]]'

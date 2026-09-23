@@ -2,6 +2,7 @@
 title: Kill or be Killed
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 zone: '[[Scale Yard]]'
 timeline: '[[Freeport Racial Timeline]]'

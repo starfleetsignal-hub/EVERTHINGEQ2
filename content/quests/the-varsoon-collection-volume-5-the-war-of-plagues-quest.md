@@ -2,6 +2,7 @@
 title: '"The Varsoon Collection, Volume 5 - The War of Plagues" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 difficulty: Solo
 zone: '[[The Ruins of Varsoon]]'

@@ -2,6 +2,7 @@
 title: 'Qeynos Bounty: Gaki Bloodbelt'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The Commonlands]]'

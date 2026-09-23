@@ -2,6 +2,7 @@
 title: History of the Runnyeye Goblins, Part III
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Runnyeye]]'
 timeline: '[[Book Quests Timeline]]'

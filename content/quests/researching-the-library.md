@@ -2,6 +2,7 @@
 title: Researching the Library
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[Library of Erudin (Agnostic)]]'

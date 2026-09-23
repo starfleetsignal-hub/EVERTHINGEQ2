@@ -2,6 +2,7 @@
 title: The Tie That Binds (Freeport)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 zone: '[[The Commonlands]]'
 starts: Speak with [[Heilanna]] near the Freeport griffon tower at {{waypoint -565, -45, -830}} in [[The Commonlands]].

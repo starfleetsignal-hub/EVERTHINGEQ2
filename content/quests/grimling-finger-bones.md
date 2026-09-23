@@ -1,0 +1,27 @@
+---
+title: Grimling Finger Bones
+type: quest
+level: '120'
+timeline: '[[Reign of Shadows Timeline]]'
+added_in: Reign of Shadows
+categories:
+- Census Credits
+- Collection Quests
+- Collections needing rewardtype
+- Quests
+- Reign of Shadows (CQ Category)
+- Reign of Shadows Collection Quests
+- 'Savage Weald: Chaotic Caverns (Solo) Collection Quests'
+- Tier 13 Collection Quests
+source:
+  title: Grimling Finger Bones
+  url: https://eq2.fandom.com/wiki/Grimling_Finger_Bones
+  history: https://eq2.fandom.com/wiki/Grimling_Finger_Bones?action=history
+  revision: 2029167
+  revised: '2026-09-14T13:41:42Z'
+  license: CC BY-SA 3.0
+expansion: Reign of Shadows
+expansion_source: patch
+---
+
+

@@ -2,6 +2,7 @@
 title: 'Tales of Savage Lands: A Sickle Shaped Claw'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

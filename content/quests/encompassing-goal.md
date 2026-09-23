@@ -2,6 +2,7 @@
 title: Encompassing Goal
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '40'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Shipwrecked Timeline]]'

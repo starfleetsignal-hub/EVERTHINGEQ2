@@ -2,6 +2,7 @@
 title: 'Mahngavi Wastes: Word of Byrj'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Mahngavi Wastes]]'

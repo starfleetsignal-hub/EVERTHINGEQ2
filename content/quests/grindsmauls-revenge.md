@@ -2,6 +2,7 @@
 title: Grindsmaul's Revenge!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

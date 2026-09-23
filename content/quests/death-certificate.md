@@ -2,6 +2,7 @@
 title: Death certificate
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '10'
 difficulty: Solo
 zone: '[[North Freeport]]'

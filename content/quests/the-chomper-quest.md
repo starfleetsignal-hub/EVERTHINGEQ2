@@ -2,6 +2,7 @@
 title: The Chomper (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 difficulty: Heroic
 zone: '[[Blackburrow]]'

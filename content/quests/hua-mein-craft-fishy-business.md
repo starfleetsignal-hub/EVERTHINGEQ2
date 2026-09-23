@@ -2,6 +2,7 @@
 title: 'Hua Mein Craft: Fishy Business'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: Zek Creature Cataloging
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '40'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

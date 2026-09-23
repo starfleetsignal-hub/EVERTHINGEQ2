@@ -2,6 +2,7 @@
 title: Down and D.I.R.T.Y.
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The Commonlands]]'

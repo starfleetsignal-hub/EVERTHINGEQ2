@@ -2,6 +2,7 @@
 title: More Than Just a Tree
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '30'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

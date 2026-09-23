@@ -1,7 +1,8 @@
 ---
 title: Test of Military (Fabled)
 type: quest
-expansion: Shattered Lands
+expansion: Chaos Descending
+expansion_source: level
 level: '115'
 journal_category: Mission
 in_game_name: Test of Military [Fabled]

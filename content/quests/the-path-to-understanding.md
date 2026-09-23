@@ -2,6 +2,7 @@
 title: The Path to Understanding...
 type: quest
 expansion: Age of Discovery
+expansion_source: questline
 level: '95'
 difficulty: Heroic
 zone: '[[The Stonebrunt Highlands]]'

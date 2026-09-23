@@ -2,6 +2,7 @@
 title: Skortch Beneath the Surface
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Sodden Archipelago]]'

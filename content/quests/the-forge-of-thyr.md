@@ -2,6 +2,7 @@
 title: The Forge of Thyr
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '50'
 zone: '[[Solusek''s Eye]]'
 timeline: '[[Solusek''s Eye Timeline]]'

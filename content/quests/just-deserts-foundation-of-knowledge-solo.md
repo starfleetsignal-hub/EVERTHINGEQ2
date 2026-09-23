@@ -2,6 +2,7 @@
 title: 'Just Deserts: Foundation of Knowledge (Solo)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Buried Takish''Hiz: Foundation of Knowledge (Solo)]]'

@@ -1,7 +1,8 @@
 ---
 title: Defending the Defenders
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '90'
 difficulty: Solo
 zone: '[[Thurgadin, City of the Coldain]]'

@@ -2,6 +2,7 @@
 title: The Mysteries of Nektulos - The Behemoth Pond
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '21'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

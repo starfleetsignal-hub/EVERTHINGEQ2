@@ -2,6 +2,7 @@
 title: Conservation of Planar Energy
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '104'
 zone: '[[*]]'
 timeline: '[[Planes of Prophecy Timeline]]'

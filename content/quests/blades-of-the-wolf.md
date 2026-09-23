@@ -1,7 +1,8 @@
 ---
 title: Blades of the Wolf
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '43'
 difficulty: Heroic
 zone: '[[Everfrost]]'

@@ -2,6 +2,7 @@
 title: The Call of Kelethin
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '6'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Timeline]]'

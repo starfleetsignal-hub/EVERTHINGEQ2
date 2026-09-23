@@ -1,7 +1,8 @@
 ---
 title: An Icy Coin
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '44'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

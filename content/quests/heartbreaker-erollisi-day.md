@@ -2,6 +2,7 @@
 title: Heartbreaker (Erollisi Day)
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Timorous Deep]]'

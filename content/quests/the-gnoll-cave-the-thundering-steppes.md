@@ -2,6 +2,7 @@
 title: The Gnoll Cave (The Thundering Steppes)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '26'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

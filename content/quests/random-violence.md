@@ -2,6 +2,7 @@
 title: Random Violence
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '44'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

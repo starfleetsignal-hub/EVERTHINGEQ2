@@ -2,6 +2,7 @@
 title: Scorched Wooden Staff
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 difficulty: Solo
 zone: '[[Fallen Gate]]'

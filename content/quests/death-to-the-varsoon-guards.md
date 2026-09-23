@@ -2,6 +2,7 @@
 title: Death to the Varsoon Guards!
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 zone: '[[The Ruins of Varsoon]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

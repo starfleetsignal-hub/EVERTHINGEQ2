@@ -2,6 +2,7 @@
 title: Outlying Qeynos Creature Cataloging
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '15'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

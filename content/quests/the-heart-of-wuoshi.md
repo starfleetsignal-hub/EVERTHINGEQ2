@@ -1,7 +1,8 @@
 ---
 title: The Heart of Wuoshi
 type: quest
-expansion: Shattered Lands
+expansion: Kingdom of Sky
+expansion_source: level
 level: '70'
 difficulty: Epic
 zone: '[[*]]'

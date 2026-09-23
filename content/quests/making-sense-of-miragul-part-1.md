@@ -2,6 +2,7 @@
 title: Making Sense of Miragul, Part 1
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: heroic
 zone: '[[Everfrost]]'

@@ -1,7 +1,8 @@
 ---
 title: Longshadow Alley Patrol
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: Scales
 zone: '[[The City of Freeport]]'
 timeline: '[[Citizenship Timeline]]'

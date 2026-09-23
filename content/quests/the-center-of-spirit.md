@@ -2,6 +2,7 @@
 title: The Center of Spirit
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[City of Shar Vahl]]'

@@ -2,6 +2,7 @@
 title: Cooking With Elves
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 difficulty: Solo
 zone: '[[*]]'

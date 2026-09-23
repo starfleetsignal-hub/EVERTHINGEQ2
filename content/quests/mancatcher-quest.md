@@ -2,6 +2,7 @@
 title: Mancatcher (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 zone: '[[Blackburrow]]'
 timeline: '[[Blackburrow Timeline]]'

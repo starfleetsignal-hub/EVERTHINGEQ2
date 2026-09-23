@@ -2,6 +2,7 @@
 title: Freedom!
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Epic
 zone: '[[The Clefts of Rujark]]'

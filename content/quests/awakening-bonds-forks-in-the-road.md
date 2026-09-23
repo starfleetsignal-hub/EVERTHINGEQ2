@@ -2,6 +2,7 @@
 title: 'Awakening Bonds: Forks in the Road'
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[Sanctuary of Divine Unity]]'

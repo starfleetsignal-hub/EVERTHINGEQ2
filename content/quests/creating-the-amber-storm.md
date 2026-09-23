@@ -1,7 +1,8 @@
 ---
 title: Creating the Amber Storm
 type: quest
-expansion: Shattered Lands
+expansion: Chains of Eternity
+expansion_source: timeline
 level: '95'
 zone: '[[Cobalt Scar]]'
 timeline: '[[Scars of the Awakened Crafting Timeline]]'

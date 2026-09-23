@@ -2,6 +2,7 @@
 title: Stop the Elementals
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '29'
 difficulty: Solo
 zone: '[[Gnoll Cave]]'

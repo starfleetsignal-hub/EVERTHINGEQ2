@@ -2,6 +2,7 @@
 title: A Mist Call
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '108'
 difficulty: Heroic
 zone: '[[Kunzar Jungle]]'

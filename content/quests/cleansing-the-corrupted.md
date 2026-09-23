@@ -2,6 +2,7 @@
 title: Cleansing the Corrupted
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '43'
 zone: '[[Rivervale]]'
 timeline: '[[Rivervale Timeline]]'

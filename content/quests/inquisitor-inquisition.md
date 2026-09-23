@@ -2,6 +2,7 @@
 title: Inquisitor Inquisition
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '105'
 difficulty: Heroic
 zone: '[[*]]'

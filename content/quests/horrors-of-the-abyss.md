@@ -2,6 +2,7 @@
 title: Horrors of the Abyss
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 difficulty: Heroic
 zone: '[[West Freeport]]'

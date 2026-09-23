@@ -2,6 +2,7 @@
 title: 'Elemental: Earth to Anyone'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[The Unknown]]'

@@ -2,6 +2,7 @@
 title: In Defense of the Flower Patch
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

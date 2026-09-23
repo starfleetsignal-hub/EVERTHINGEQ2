@@ -1,7 +1,8 @@
 ---
 title: Now to the Druid Ring
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '90'
 difficulty: Solo
 zone: '[[Great Divide]]'

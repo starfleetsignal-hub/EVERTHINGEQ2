@@ -2,6 +2,7 @@
 title: Starfaller
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '89'
 difficulty: Heroic
 zone: '[[The Hole]]'

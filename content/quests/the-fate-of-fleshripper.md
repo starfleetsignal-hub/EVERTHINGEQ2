@@ -2,6 +2,7 @@
 title: The Fate of Fleshripper
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 difficulty: Solo
 zone: '[[Nektropos Castle]]'

@@ -2,6 +2,7 @@
 title: Gilded Cages
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Solo
 zone: '[[Thurgadin, City of the Coldain]]'

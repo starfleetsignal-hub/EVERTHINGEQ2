@@ -2,6 +2,7 @@
 title: Delivery From Sayer's Outfitters
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '18'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

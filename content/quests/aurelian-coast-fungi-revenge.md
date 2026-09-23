@@ -2,6 +2,7 @@
 title: 'Aurelian Coast: Fungi Revenge'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '117'
 difficulty: Solo
 zone: '[[Aurelian Coast]]'

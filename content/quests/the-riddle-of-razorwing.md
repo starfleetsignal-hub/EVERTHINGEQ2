@@ -2,6 +2,7 @@
 title: The Riddle of Razorwing
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '76'
 difficulty: Epic
 zone: '[[Ascent of the Awakened]]'

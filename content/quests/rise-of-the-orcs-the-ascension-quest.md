@@ -2,6 +2,7 @@
 title: Rise of the Orcs - The Ascension (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 aliases:
 - '"Rise of the Orcs - The Ascension" (Quest)'
 categories:

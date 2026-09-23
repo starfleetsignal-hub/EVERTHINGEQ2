@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Yarpsnarl Scamps'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '34'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

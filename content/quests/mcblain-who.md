@@ -1,7 +1,8 @@
 ---
 title: McBlain Who
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '40'
 zone: '[[Lavastorm]]'
 timeline: '[[Lavastorm Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: Shadow Falls on the Heretic
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: level
 level: '95'
 difficulty: Heroic
 zone: '[[Sleeper''s Tomb]]'

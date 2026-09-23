@@ -2,6 +2,7 @@
 title: Cleaning the Scriptorium
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 zone: '[[The Shimmering Citadel]]'
 timeline: '[[Shimmering Citadel Timeline]]'

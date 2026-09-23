@@ -1,7 +1,8 @@
 ---
 title: Hold Your Nose
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '48'
 zone: '[[Neriak, City of Hate]]'
 timeline: '[[Neriak City Tasks Timeline]]'

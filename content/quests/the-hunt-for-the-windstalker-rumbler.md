@@ -2,6 +2,7 @@
 title: The Hunt for the Windstalker Rumbler
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '21'
 difficulty: Epic
 zone: '[[Antonica]]'

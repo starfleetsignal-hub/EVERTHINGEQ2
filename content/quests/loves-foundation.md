@@ -2,6 +2,7 @@
 title: Love's Foundation
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '20'
 difficulty: Solo
 zone: '[[New Halas]]'

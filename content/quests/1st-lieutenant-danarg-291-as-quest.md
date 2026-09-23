@@ -2,6 +2,7 @@
 title: 1st Lieutenant Danarg, 291 AS (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 zone: '[[*]]'
 timeline: '[[Feerrott Timeline]]'

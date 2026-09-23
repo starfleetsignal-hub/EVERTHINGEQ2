@@ -1,7 +1,8 @@
 ---
 title: Acts of Heresy
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '40'
 difficulty: Solo
 zone: '[[Neriak, City of Hate]]'

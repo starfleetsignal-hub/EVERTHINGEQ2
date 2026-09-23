@@ -2,6 +2,7 @@
 title: Fire and Ice
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 difficulty: Epic
 zone: '[[Nagafen''s Lair]]'

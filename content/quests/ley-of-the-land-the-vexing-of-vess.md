@@ -2,6 +2,7 @@
 title: 'Ley of the Land: The Vexing of Vess'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 difficulty: Epic
 zone: '[[Aurelian Coast: The Emergent Eclipse (Raid)]]'

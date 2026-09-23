@@ -2,6 +2,7 @@
 title: Forging a Bond
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '23'
 zone: '[[Timorous Deep]]'
 timeline: '[[Deity Timeline]]'

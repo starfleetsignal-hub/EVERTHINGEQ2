@@ -2,6 +2,7 @@
 title: The Freeport Citizen's Guide to Opportunity - 2nd Edition (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '7'
 difficulty: Solo
 zone: '[[North Freeport]]'

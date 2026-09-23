@@ -2,6 +2,7 @@
 title: Battle on the Home Front
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 difficulty: Solo
 zone: '[[Scale Yard]]'

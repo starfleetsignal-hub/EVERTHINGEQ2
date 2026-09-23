@@ -2,6 +2,7 @@
 title: Auxiliary Service
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '53'
 difficulty: Solo
 zone: '[[The Living Tombs]]'

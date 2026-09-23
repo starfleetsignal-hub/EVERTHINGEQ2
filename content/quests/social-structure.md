@@ -2,6 +2,7 @@
 title: Social Structure
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 difficulty: Solo
 zone: '[[The Feerrott]]'

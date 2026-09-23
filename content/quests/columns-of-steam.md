@@ -2,6 +2,7 @@
 title: Columns of Steam
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '48'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

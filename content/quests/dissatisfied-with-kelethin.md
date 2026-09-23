@@ -1,7 +1,8 @@
 ---
 title: Dissatisfied with Kelethin
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[Greater Faydark]]'

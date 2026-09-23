@@ -1,7 +1,8 @@
 ---
 title: Seeking a Profession I
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: chain
 level: '1'
 zone: '[[Tradeskill Instance]]'
 timeline: '[[Seeking a Profession Timeline]]'

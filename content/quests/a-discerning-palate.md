@@ -2,6 +2,7 @@
 title: A Discerning Palate
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '75'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

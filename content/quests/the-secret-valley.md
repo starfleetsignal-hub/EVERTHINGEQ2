@@ -2,6 +2,7 @@
 title: The Secret Valley
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '15'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

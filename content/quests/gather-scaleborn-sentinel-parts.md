@@ -2,6 +2,7 @@
 title: Gather Scaleborn Sentinel Parts
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '62'
 difficulty: Heroic
 zone: '[[North Freeport]]'

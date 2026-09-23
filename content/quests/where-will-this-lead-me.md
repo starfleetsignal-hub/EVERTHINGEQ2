@@ -2,6 +2,7 @@
 title: Where Will This Lead Me?
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

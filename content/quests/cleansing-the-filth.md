@@ -2,6 +2,7 @@
 title: Cleansing the Filth
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Solo
 zone: '[[Stormhold]]'

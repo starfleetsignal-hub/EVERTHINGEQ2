@@ -2,6 +2,7 @@
 title: Battlement Bound
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '107'
 difficulty: Epic
 zone: '[[Jarsath Wastes]]'

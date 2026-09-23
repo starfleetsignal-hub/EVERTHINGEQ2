@@ -2,6 +2,7 @@
 title: How Did Their Garden Grow?
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

@@ -2,6 +2,7 @@
 title: Liquid Lunch
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Portal to the Past: Grobb]]'

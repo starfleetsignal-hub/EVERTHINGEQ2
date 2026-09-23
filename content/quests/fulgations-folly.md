@@ -2,6 +2,7 @@
 title: Fulgation's Folly
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '39'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

@@ -2,6 +2,7 @@
 title: A Bleeder in the Haystack
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '37'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Click on a haystack in the same building as [[The Glademaster]]

@@ -2,6 +2,7 @@
 title: 'The Legend of Roger Goldie: Booty Abound!'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '65'
 difficulty: solo
 zone: '[[Kylong Plains]]'

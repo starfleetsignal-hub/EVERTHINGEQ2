@@ -1,7 +1,8 @@
 ---
 title: What Ales Them
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

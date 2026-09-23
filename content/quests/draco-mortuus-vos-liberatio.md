@@ -2,6 +2,7 @@
 title: Draco Mortuus vos Liberatio
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 zone: '[[Tenebrous Tangle]]'
 timeline: '[[Heritage Quests Timeline]]'

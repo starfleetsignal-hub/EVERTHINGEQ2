@@ -2,6 +2,7 @@
 title: 'Neriak: Nuknok Screamers'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '76'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Neriak City Tasks Timeline]]'

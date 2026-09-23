@@ -2,6 +2,7 @@
 title: 'Renewal of Ro: In for a Raj''Durabad Time'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

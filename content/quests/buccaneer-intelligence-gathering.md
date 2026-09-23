@@ -1,7 +1,8 @@
 ---
 title: Buccaneer Intelligence Gathering
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '55'
 zone: '[[South Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

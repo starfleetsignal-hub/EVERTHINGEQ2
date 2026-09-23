@@ -2,6 +2,7 @@
 title: Sounding the Clarion
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '50'
 difficulty: Heroic
 zone: '[[The Sinking Sands]]'

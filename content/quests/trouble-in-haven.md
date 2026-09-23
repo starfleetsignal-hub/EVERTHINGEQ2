@@ -2,6 +2,7 @@
 title: Trouble in Haven
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '120'
 zone: '[[City of Fordel Midst]]'
 timeline: '[[Reign of Shadows Timeline]]'

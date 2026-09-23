@@ -2,6 +2,7 @@
 title: Consolidation of Power
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[Lavastorm]]'

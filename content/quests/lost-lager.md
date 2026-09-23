@@ -2,6 +2,7 @@
 title: Lost Lager
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 zone: '[[Rivervale]]'
 timeline: '[[Rivervale Timeline]]'

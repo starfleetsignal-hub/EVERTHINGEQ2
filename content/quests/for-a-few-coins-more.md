@@ -2,6 +2,7 @@
 title: For a Few Coins More
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[Kylong Plains]]'

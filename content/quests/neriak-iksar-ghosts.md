@@ -2,6 +2,7 @@
 title: 'Neriak: Iksar Ghosts'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '77'
 zone: '[[Kylong Plains]]'
 timeline: '[[Neriak City Tasks Timeline]]'

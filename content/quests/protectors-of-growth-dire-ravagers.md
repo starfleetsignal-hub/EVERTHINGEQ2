@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Dire Ravagers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '64'
 difficulty: solo
 zone: '[[Greater Faydark]]'

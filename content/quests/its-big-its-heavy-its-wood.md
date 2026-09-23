@@ -2,6 +2,7 @@
 title: It's Big, It's Heavy, It's Wood
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '53'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

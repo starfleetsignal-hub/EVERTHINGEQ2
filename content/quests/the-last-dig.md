@@ -2,6 +2,7 @@
 title: The Last Dig
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

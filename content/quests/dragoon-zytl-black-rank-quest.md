@@ -2,6 +2,7 @@
 title: '"Dragoon Zytl - Black Rank" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

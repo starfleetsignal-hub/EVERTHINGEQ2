@@ -2,6 +2,7 @@
 title: Dragon Scales!
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '58'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Swampents'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '73'
 zone: '[[Kylong Plains]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

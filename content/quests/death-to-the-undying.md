@@ -2,6 +2,7 @@
 title: Death to the Undying!
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '70'
 zone: '[[North Qeynos]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

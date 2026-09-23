@@ -2,6 +2,7 @@
 title: The Unseen Master
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Solo
 zone: '[[North Freeport]]'

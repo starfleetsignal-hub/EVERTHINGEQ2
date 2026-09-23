@@ -2,6 +2,7 @@
 title: A Page From Their Book
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Solo
 zone: '[[Great Divide]]'

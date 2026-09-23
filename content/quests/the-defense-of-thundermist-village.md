@@ -2,6 +2,7 @@
 title: The Defense of Thundermist Village
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '19'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

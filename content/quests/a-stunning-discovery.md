@@ -2,6 +2,7 @@
 title: A Stunning Discovery
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -2,6 +2,7 @@
 title: Hunting Tender Spider Meat
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

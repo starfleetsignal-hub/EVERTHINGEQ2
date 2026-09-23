@@ -2,6 +2,7 @@
 title: Charge of the Leatherfoot Brigade - Tippytoe
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 difficulty: Heroic
 zone: '[[Fallen Gate]]'

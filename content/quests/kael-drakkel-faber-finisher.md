@@ -2,6 +2,7 @@
 title: 'Kael Drakkel: Faber Finisher'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Kael Drakkel]]'

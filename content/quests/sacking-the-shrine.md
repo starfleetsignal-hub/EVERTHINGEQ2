@@ -1,7 +1,8 @@
 ---
 title: Sacking the Shrine
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: level
 level: '98'
 difficulty: Heroic
 zone: '[[The Temple of Rallos Zek]]'

@@ -2,6 +2,7 @@
 title: The Horn Sounds
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 zone: '[[Permafrost]]'
 timeline: '[[Permafrost Timeline]]'

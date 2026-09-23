@@ -2,6 +2,7 @@
 title: Breaking the Seal to the Inner Sanctum
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '27'
 difficulty: Heroic
 zone: '[[The Vault of the Fallen]]'

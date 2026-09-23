@@ -1,7 +1,8 @@
 ---
 title: Some Assembly Still Required
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '93'
 difficulty: Solo
 zone: '[[The Withered Lands]]'

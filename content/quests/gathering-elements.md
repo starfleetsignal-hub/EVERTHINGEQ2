@@ -2,6 +2,7 @@
 title: Gathering Elements
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '115'
 difficulty: Solo
 zone: '[[Guild Hall]]'

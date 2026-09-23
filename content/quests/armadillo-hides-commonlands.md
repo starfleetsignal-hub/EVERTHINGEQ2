@@ -2,6 +2,7 @@
 title: Armadillo Hides (Commonlands)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '12'
 difficulty: Solo
 zone: '[[The Commonlands]]'

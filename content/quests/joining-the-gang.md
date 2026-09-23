@@ -2,6 +2,7 @@
 title: Joining the Gang
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 zone: '[[Sunken City]]'
 journal_category: Sunken City

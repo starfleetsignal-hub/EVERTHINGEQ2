@@ -2,6 +2,7 @@
 title: Defiled Knights
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Stormhold]]'
 timeline: '[[Stormhold Timeline]]'

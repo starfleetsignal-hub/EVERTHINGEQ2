@@ -2,6 +2,7 @@
 title: Burning the Black Sun Grizzly Rug
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '33'
 difficulty: Heroic
 zone: '[[Kaladim]]'

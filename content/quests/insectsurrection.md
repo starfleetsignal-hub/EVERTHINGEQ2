@@ -2,6 +2,7 @@
 title: Insectsurrection
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '65'
 difficulty: Solo
 zone: '[[The Bonemire]]'

@@ -2,6 +2,7 @@
 title: Outland Brigade Reports
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '30'
 zone: '[[Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

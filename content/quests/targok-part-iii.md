@@ -2,6 +2,7 @@
 title: Targok, Part III
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 difficulty: Solo
 zone: '[[West Freeport]]'

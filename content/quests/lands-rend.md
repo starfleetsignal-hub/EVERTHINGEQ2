@@ -23,6 +23,8 @@ source:
   revision: 1906286
   revised: '2025-09-23T20:14:18Z'
   license: CC BY-SA 3.0
+expansion: Scars of Destruction
+expansion_source: timeline
 ---
 
 ## Notes

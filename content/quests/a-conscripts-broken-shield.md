@@ -2,6 +2,7 @@
 title: A Conscript's Broken Shield
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

@@ -2,6 +2,7 @@
 title: Tell it to My Heart (Freeport)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'

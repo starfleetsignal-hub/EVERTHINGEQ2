@@ -2,6 +2,7 @@
 title: 'Ballads of Zimara: Song of the Maedjinn'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Zimara Breadth]]'

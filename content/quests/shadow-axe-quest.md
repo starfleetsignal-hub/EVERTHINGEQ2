@@ -2,6 +2,7 @@
 title: Shadow Axe (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 journal_category: Nektulos Forest
 in_game_name: Shadow Axe

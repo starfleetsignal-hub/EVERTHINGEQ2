@@ -1,7 +1,8 @@
 ---
 title: A Barrel of Stag Hides
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '45'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

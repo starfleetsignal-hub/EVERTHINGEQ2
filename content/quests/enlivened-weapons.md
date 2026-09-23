@@ -2,10 +2,10 @@
 title: Enlivened Weapons
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Heroic
 zone: '[[Takish Badlands]]'
-journal_category: ???
 starts: Talk to [[Khepri]] in the [[Takish Badlands]] Arena
 prerequisite: '[[Merely Sated Weapons]]'
 next_quest: '[[Enraptured Weapons]]'

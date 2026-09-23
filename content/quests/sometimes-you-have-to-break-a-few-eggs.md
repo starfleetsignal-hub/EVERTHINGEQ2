@@ -2,6 +2,7 @@
 title: Sometimes You Have To Break A Few Eggs...
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '30'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

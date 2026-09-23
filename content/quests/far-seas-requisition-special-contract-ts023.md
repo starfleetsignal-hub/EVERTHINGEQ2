@@ -2,6 +2,7 @@
 title: Far Seas Requisition - Special Contract TS023
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

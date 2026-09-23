@@ -2,6 +2,7 @@
 title: 'The Coast is Clear: Filthy Shirt'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[The Blinding]]'

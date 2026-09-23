@@ -2,6 +2,7 @@
 title: Isabella Cellus' History of Antonica
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

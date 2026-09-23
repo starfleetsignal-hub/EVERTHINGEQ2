@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Gladehoof Protectors'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '52'
 zone: '[[The Lesser Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

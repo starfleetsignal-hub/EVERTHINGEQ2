@@ -2,6 +2,7 @@
 title: And Your Little Dog Too!
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '37'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

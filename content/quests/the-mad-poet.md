@@ -2,6 +2,7 @@
 title: The Mad Poet
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 zone: '[[The Poets Palace]]'
 timeline: '[[Shimmering Citadel Timeline]]'

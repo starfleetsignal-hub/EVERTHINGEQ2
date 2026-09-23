@@ -2,6 +2,7 @@
 title: Qeynos Catacombs Creature Cataloging
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '25'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

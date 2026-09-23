@@ -2,6 +2,7 @@
 title: Blood, Sweat, and Gears
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

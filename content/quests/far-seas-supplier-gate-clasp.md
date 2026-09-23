@@ -2,6 +2,7 @@
 title: Far Seas Supplier - Gate Clasp
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '31'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

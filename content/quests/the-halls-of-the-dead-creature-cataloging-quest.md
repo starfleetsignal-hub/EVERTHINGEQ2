@@ -2,6 +2,7 @@
 title: The Halls of the Dead Creature Cataloging (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

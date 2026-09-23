@@ -2,6 +2,7 @@
 title: Feeding the Flame of Yore
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '83'
 zone: '[[Jarsath Wastes]]'
 timeline: '[[Troubador Epic Weapon Timeline]]'

@@ -2,6 +2,7 @@
 title: Prexus Celebration Research Investigation - Vol 124
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Fens of Nathsar]]'

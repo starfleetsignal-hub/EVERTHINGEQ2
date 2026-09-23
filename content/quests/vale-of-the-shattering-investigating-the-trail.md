@@ -2,6 +2,7 @@
 title: 'Vale of the Shattering: Investigating the Trail'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Shattered Vale Timeline]]'

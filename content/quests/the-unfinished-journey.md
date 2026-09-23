@@ -2,6 +2,7 @@
 title: The Unfinished Journey
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '100'
 difficulty: Epic
 zone: '[[Zavith''loa: The Molten Pools (Raid)]]'

@@ -2,6 +2,7 @@
 title: Digging Deeper (Temple Street)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 difficulty: Solo
 zone: '[[Temple Street]]'

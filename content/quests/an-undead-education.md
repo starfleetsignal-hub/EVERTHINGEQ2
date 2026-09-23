@@ -2,6 +2,7 @@
 title: An Undead Education
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '29'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

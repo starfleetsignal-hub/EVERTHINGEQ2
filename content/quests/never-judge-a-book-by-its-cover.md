@@ -2,6 +2,7 @@
 title: Never Judge A Book By Its Cover
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '19'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

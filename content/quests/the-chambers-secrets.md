@@ -2,6 +2,7 @@
 title: The Chamber's Secrets
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[Charasis: Maiden''s Chamber (Agnostic)]]'

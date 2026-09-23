@@ -2,6 +2,7 @@
 title: Pluck Them of Their Pride
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '8'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

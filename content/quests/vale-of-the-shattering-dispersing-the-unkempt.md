@@ -2,6 +2,7 @@
 title: 'Vale of the Shattering: Dispersing the Unkempt'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '14'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Shattered Vale Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Haywire Clockwork Spiders'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '40'
 difficulty: solo
 zone: '[[Greater Faydark]]'

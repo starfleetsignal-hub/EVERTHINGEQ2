@@ -2,6 +2,7 @@
 title: The Spirit of Arctic Doom (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '48'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

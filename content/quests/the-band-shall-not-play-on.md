@@ -2,6 +2,7 @@
 title: The Band Shall Not Play On
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[*]]'

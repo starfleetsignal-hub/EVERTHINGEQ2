@@ -2,6 +2,7 @@
 title: To the Rhythm of Our World
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '88'
 difficulty: Solo
 zone: '[[Great Divide]]'

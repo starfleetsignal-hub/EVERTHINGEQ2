@@ -2,6 +2,7 @@
 title: Driving Back the Dervish
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 zone: '[[The Sprawl]]'
 timeline: '[[Freeport Outlying Areas Timeline]]'

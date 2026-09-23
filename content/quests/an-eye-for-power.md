@@ -2,6 +2,7 @@
 title: An Eye for Power
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 difficulty: Heroic
 zone: '[[Everfrost]]'

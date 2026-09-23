@@ -2,6 +2,7 @@
 title: Hot Parts
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '48'
 zone: '[[Solusek''s Eye]]'
 timeline: '[[Solusek''s Eye Timeline]]'

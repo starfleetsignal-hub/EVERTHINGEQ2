@@ -2,6 +2,7 @@
 title: Piratical Fashion
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '20'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Shipwrecked Timeline]]'

@@ -2,6 +2,7 @@
 title: Falling Rocks (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 journal_category: Thundering Steppes
 starts: examine [[Falling rocks (Quest Starter)|falling rocks]]

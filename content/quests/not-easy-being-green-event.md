@@ -2,6 +2,7 @@
 title: Not Easy Being Green (Event)
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '120'
 zone: '[[Innovation: Tinkerer''s Trial (Solo)]]'
 starts: 'automatically offered every 18 hours upon entering Innovation: Tinkerer''s Trial Solo or Heroic'

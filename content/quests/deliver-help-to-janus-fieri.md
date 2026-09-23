@@ -2,6 +2,7 @@
 title: Deliver Help to Janus Fieri
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 difficulty: Solo
 zone: '[[Beggar''s Court]]'

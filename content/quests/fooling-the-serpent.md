@@ -2,6 +2,7 @@
 title: Fooling the Serpent
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 difficulty: Solo
 zone: '[[*]]'

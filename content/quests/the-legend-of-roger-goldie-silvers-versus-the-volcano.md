@@ -2,6 +2,7 @@
 title: 'The Legend of Roger Goldie: Silvers versus the Volcano'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '52'
 difficulty: solo
 zone: '[[Lavastorm]]'

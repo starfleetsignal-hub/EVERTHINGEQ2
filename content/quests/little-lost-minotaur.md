@@ -2,6 +2,7 @@
 title: Little Lost Minotaur
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 difficulty: Heroic
 zone: '[[The Crypt of Betrayal]]'

@@ -2,6 +2,7 @@
 title: 'Court of the Blades: Dukarem''s Purge, Part II'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '54'
 zone: '[[The Court of the Blades]]'
 timeline: '[[Court of the Blades Timeline]]'

@@ -2,6 +2,7 @@
 title: The Bummer Gang
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '62'
 zone: '[[Loping Plains]]'
 timeline: '[[Loping Plains Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Researchers of Ro: Responsibility for Raj''Dur'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

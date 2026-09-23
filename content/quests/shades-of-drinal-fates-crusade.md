@@ -2,6 +2,7 @@
 title: 'Shades of Drinal: Fate''s Crusade'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '96'
 zone: '[[Obol Plains]]'
 timeline: '[[Obol Plains Timeline]]'

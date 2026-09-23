@@ -2,6 +2,7 @@
 title: Diary of a Madman
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '92'
 zone: '[[The Eidolon Jungle]]'
 timeline: '[[The Eidolon Jungle Timeline]]'

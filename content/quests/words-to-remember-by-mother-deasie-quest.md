@@ -2,6 +2,7 @@
 title: '"Words to Remember - by Mother Deasie" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 difficulty: Heroic
 zone: '[[Rivervale]]'

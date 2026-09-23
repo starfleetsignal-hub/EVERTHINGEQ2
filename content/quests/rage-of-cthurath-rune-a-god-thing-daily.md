@@ -2,6 +2,7 @@
 title: 'Rage of Cthurath: Rune a God Thing (Daily)'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '143'
 difficulty: Heroic
 zone: '[[Gerion, Hold of D''Lere]]'

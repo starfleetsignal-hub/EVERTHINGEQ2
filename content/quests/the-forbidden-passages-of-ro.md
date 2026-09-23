@@ -2,6 +2,7 @@
 title: The Forbidden Passages of Ro
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 difficulty: Solo
 zone: '[[North Freeport]]'

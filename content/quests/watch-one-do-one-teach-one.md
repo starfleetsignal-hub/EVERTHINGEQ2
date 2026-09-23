@@ -2,6 +2,7 @@
 title: Watch One, Do One, Teach One
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

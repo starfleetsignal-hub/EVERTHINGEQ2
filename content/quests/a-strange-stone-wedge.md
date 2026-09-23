@@ -2,6 +2,7 @@
 title: A Strange Stone Wedge
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '18'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

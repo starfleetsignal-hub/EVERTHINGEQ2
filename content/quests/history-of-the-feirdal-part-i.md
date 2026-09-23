@@ -2,6 +2,7 @@
 title: History of the Feir'Dal, Part I
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[*]]'

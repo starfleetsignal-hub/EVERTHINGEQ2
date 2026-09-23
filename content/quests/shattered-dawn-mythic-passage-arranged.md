@@ -2,6 +2,7 @@
 title: 'Shattered Dawn: Mythic Passage Arranged'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

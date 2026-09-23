@@ -2,6 +2,7 @@
 title: Shielding the Surveyors
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '33'
 difficulty: Solo
 zone: '[[West Freeport]]'

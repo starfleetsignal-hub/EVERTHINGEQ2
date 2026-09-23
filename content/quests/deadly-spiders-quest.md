@@ -2,6 +2,7 @@
 title: Deadly Spiders (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 journal_category: Feerrott
 starts: examine [[Deadly spiders (Quest Starter)|deadly spiders]]

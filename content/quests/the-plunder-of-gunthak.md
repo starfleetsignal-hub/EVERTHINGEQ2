@@ -2,6 +2,7 @@
 title: The Plunder of Gunthak
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '14'
 difficulty: Solo
 zone: '[[The Commonlands]]'

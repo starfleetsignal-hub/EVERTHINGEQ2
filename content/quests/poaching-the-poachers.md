@@ -2,6 +2,7 @@
 title: Poaching the Poachers
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '1'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

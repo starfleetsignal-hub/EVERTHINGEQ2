@@ -2,6 +2,7 @@
 title: Cleansing of the Firemyst Gully
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Heroic
 zone: '[[The Firemyst Gully]]'

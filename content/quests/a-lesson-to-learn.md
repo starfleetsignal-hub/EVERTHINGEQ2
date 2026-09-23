@@ -2,6 +2,7 @@
 title: A Lesson to Learn
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 zone: '[[Longshadow Alley]]'
 timeline: '[[Freeport Racial Timeline]]'

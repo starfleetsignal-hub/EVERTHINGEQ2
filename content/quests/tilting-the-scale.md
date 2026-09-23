@@ -2,6 +2,7 @@
 title: Tilting the Scale
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '8'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Timeline]]'

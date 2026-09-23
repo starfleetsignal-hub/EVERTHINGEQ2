@@ -2,6 +2,7 @@
 title: Fearful Intelligence
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '93'
 difficulty: Solo
 zone: '[[The Eidolon Jungle]]'

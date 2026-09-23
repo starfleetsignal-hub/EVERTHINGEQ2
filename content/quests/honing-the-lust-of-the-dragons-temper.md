@@ -2,6 +2,7 @@
 title: Honing the Lust of the Dragon's Temper
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[Jarsath Wastes]]'

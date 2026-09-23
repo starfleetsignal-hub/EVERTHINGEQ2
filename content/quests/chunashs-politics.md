@@ -2,6 +2,7 @@
 title: Chunash's Politics!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 difficulty: Solo
 zone: '[[The Commonlands]]'

@@ -2,6 +2,7 @@
 title: 'Just Deserts: Kigathor''s Glade (Solo)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Takish Badlands: Kigathor''s Glade (Solo)]]'

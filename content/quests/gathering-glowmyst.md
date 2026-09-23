@@ -2,6 +2,7 @@
 title: Gathering Glowmyst
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

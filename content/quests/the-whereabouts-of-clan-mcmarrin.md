@@ -2,6 +2,7 @@
 title: The Whereabouts of Clan McMarrin
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '23'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

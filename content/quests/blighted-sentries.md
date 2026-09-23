@@ -2,6 +2,7 @@
 title: Blighted Sentries
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '28'
 difficulty: Solo
 zone: '[[North Freeport]]'

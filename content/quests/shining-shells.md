@@ -2,6 +2,7 @@
 title: Shining Shells
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

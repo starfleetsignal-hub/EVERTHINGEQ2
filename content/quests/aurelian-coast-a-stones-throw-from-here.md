@@ -2,6 +2,7 @@
 title: 'Aurelian Coast: A Stone''s Throw From Here'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Aurelian Coast]]'

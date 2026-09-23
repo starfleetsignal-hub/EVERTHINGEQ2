@@ -2,6 +2,7 @@
 title: Don't Try to Look Beneath the Surface
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '48'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

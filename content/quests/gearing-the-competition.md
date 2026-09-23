@@ -2,6 +2,7 @@
 title: Gearing the Competition
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Tinkerfest Timeline]]'

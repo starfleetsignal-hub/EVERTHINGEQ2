@@ -2,6 +2,7 @@
 title: Beam Wrangling
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '94'
 difficulty: Heroic
 zone: '[[The Stonebrunt Highlands]]'

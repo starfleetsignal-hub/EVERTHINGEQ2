@@ -2,6 +2,7 @@
 title: A tarnished silver key (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 difficulty: Solo
 zone: '[[Blackburrow]]'

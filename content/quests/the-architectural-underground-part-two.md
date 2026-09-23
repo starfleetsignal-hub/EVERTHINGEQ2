@@ -2,6 +2,7 @@
 title: The Architectural Underground, Part Two
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '10'
 difficulty: Solo
 zone: '[[*]]'

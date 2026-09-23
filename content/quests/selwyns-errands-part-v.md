@@ -1,7 +1,8 @@
 ---
 title: Selwyn's Errands - Part V
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '24'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

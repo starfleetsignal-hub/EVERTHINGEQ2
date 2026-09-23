@@ -2,6 +2,7 @@
 title: Do You Dare?
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '93'
 difficulty: Heroic
 zone: '[[Tower of Frozen Shadow: Umbral Halls]]'

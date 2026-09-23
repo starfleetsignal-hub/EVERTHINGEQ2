@@ -2,6 +2,7 @@
 title: Trick or Treatskiller (Freeport)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'

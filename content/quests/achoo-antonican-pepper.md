@@ -1,7 +1,8 @@
 ---
 title: Achoo! Antonican Pepper
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '11'
 difficulty: Solo
 zone: '[[Antonica]]'

@@ -2,6 +2,7 @@
 title: A Vicious Tongue
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '104'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

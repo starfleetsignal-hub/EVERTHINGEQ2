@@ -2,6 +2,7 @@
 title: Shattered Sanity of the Mad
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[Neriak, City of Hate]]'

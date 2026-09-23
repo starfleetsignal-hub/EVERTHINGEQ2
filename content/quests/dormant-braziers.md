@@ -2,6 +2,7 @@
 title: Dormant Braziers
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Kralet Penumbra: Temple of the Ill-Seen (Advanced Solo)]]'

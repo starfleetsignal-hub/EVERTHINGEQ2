@@ -2,6 +2,7 @@
 title: 'Neriak: Broken Toe Goblins'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '70'
 zone: '[[Kylong Plains]]'
 timeline: '[[Neriak City Tasks Timeline]]'

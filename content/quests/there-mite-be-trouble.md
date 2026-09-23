@@ -2,6 +2,7 @@
 title: There Mite be Trouble
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[Antonica]]'

@@ -2,6 +2,7 @@
 title: Chaos Effect
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Epic
 zone: '[[*]]'

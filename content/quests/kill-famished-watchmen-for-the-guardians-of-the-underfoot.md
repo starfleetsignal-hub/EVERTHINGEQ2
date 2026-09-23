@@ -2,6 +2,7 @@
 title: Kill Famished Watchmen for the Guardians of the Underfoot
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Heroic
 zone: '[[The Hole]]'

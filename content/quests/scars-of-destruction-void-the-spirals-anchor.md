@@ -2,6 +2,7 @@
 title: 'Scars of Destruction: Void the Spiral''s Anchor'
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 difficulty: Heroic
 zone: '[[Sodden Archipelago]]'

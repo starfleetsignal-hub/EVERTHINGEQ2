@@ -2,6 +2,7 @@
 title: Aquatic Quarantine
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '32'
 difficulty: Solo
 zone: '[[South Freeport]]'

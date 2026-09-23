@@ -2,6 +2,7 @@
 title: 'Elements of Destruction: Pursuit of Justice'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Heroic
 zone: '[[Myrist, the Great Library]]'

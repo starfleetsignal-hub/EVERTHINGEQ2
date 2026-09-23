@@ -2,6 +2,7 @@
 title: Unraveling the Bloodsaber Plots
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Antonica]]'
 timeline: '[[Bloodsaber Timeline]]'

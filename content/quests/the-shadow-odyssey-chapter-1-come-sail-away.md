@@ -2,6 +2,7 @@
 title: 'The Shadow Odyssey, Chapter 1: Come Sail Away'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[*]]'

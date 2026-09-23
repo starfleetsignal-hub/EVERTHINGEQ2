@@ -2,6 +2,7 @@
 title: Mithaniel Marr Celebration Research Investigation - Vol 110
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[The Commonlands]]'

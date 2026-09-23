@@ -1,7 +1,8 @@
 ---
 title: The Gatecaller's Key
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '52'
 difficulty: Heroic
 zone: '[[The Clefts of Rujark]]'

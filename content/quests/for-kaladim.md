@@ -2,6 +2,7 @@
 title: For Kaladim!
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '35'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

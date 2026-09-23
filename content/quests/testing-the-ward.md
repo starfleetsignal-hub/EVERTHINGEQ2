@@ -2,6 +2,7 @@
 title: Testing the Ward
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '7'
 zone: '[[The Graveyard]]'
 timeline: '[[The Graveyard Timeline]]'

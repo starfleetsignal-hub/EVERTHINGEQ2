@@ -2,6 +2,7 @@
 title: 'Moon Over My Daily: Bizarre Bazaar (Heroic)'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 journal_category: Mission

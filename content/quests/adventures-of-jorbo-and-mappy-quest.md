@@ -2,6 +2,7 @@
 title: '"Adventures of Jorbo and Mappy" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 difficulty: Heroic
 zone: '[[Rivervale]]'

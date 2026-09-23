@@ -2,6 +2,7 @@
 title: Shadows of the Betrayed
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: Solo
 zone: '[[*]]'

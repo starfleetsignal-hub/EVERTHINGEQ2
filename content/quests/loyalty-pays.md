@@ -2,6 +2,7 @@
 title: Loyalty Pays
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 zone: '[[The Court of the Coin]]'
 timeline: '[[Court of the Coin Timeline]]'

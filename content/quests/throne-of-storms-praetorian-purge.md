@@ -2,6 +2,7 @@
 title: 'Throne of Storms: Praetorian Purge'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '96'
 difficulty: Heroic
 zone: '[[Throne of Storms]]'

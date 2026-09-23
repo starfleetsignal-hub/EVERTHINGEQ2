@@ -2,6 +2,7 @@
 title: '"Even More Adventures of Jorbo and Mappy" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 zone: '[[Rivervale]]'
 timeline: '[[Rivervale Timeline]]'

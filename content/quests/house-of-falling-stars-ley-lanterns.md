@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Ley Lanterns'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '49'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

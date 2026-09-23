@@ -2,6 +2,7 @@
 title: Anger-Fang
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '12'
 difficulty: Solo
 zone: '[[The Ruins]]'

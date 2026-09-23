@@ -2,6 +2,7 @@
 title: The Final Blow
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

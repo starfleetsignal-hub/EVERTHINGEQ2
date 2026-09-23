@@ -2,6 +2,7 @@
 title: Ritual of the Flame's Purification
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Deity Timeline]]'

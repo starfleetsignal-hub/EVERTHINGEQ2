@@ -2,6 +2,7 @@
 title: Choose the Slug Life
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

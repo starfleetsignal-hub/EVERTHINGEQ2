@@ -2,6 +2,7 @@
 title: Ignatia Cellus' History of Antonica
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 difficulty: Solo
 zone: '[[Antonica]]'

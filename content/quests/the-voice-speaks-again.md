@@ -2,6 +2,7 @@
 title: The Voice Speaks Again
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '43'
 difficulty: Heroic
 zone: '[[The Tower of the Drafling]]'

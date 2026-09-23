@@ -2,6 +2,7 @@
 title: Eyeball Soup (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 journal_category: Lost Temple of Cazic-Thule
 starts: examine [[Torn Page (Eyeball Soup)|Torn Page]]

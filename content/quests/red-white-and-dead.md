@@ -2,6 +2,7 @@
 title: Red, White and Dead
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'

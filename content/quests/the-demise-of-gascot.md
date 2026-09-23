@@ -2,6 +2,7 @@
 title: The Demise of Gascot
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 difficulty: Solo
 zone: '[[Nektropos Castle]]'

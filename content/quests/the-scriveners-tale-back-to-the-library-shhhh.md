@@ -2,6 +2,7 @@
 title: 'The Scrivener''s Tale: Back to the Library, Shhhh!'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Vegarlson, the Earthen Badlands]]'

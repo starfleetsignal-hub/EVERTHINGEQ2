@@ -2,6 +2,7 @@
 title: Mertshak's Search for a Bite
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[Obol Plains]]'

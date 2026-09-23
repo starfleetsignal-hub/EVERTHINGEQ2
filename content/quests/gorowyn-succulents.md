@@ -2,6 +2,7 @@
 title: 'Gorowyn: Succulents'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '77'
 zone: '[[Kylong Plains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

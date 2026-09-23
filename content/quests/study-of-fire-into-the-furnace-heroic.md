@@ -2,6 +2,7 @@
 title: 'Study of Fire: Into the Furnace (Heroic)'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '118'
 difficulty: Heroic
 zone: '[[Myrist, the Great Library]]'

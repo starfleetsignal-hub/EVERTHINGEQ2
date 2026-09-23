@@ -2,6 +2,7 @@
 title: Gem Analyzer
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '32'
 zone: '[[Kaladim]]'
 journal_category: Kaladim

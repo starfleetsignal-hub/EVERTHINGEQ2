@@ -2,6 +2,7 @@
 title: 'Blessings of Growth: Kunzar Jungle'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[Kunzar Jungle]]'
 journal_category: Kunzar Jungle

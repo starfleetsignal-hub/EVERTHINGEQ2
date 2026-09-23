@@ -2,6 +2,7 @@
 title: 'The Fallen Swords: Mystery in the Shadows'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Great Divide]]'

@@ -2,6 +2,7 @@
 title: Training Will Get You Everywhere
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '7'
 difficulty: Solo
 zone: '[[The Sprawl]]'

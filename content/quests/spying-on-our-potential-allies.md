@@ -2,6 +2,7 @@
 title: Spying on our Potential Allies
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '75'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

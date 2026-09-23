@@ -2,6 +2,7 @@
 title: Zarvonn's Legacy
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '15'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

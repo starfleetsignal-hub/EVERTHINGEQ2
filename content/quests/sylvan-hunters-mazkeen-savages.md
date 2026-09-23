@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Mazkeen Savages'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '37'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

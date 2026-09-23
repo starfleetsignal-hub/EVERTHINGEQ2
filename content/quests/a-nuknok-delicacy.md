@@ -2,6 +2,7 @@
 title: A Nuknok Delicacy
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '77'
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'

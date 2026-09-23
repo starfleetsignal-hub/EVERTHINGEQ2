@@ -2,6 +2,7 @@
 title: 'Stromur''s Hit List: Brokenskull pirate lookouts'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '105'
 difficulty: Heroic
 zone: '[[Brokenskull Bay: Spoils of Maraud (Contested)]]'

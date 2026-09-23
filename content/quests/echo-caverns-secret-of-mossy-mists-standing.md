@@ -2,6 +2,7 @@
 title: 'Echo Caverns: Secret of Mossy Mists Standing'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '124'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

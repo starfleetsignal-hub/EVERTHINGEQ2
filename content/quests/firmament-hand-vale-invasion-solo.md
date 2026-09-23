@@ -2,6 +2,7 @@
 title: 'Firmament Hand: Vale Invasion (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '135'
 zone: '[[Splendor Sky Aerie]]'
 timeline: '[[Ballads of Zimara Timeline]]'

@@ -2,6 +2,7 @@
 title: The Freeport Citizen's Guide to Opportunity (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 categories:
 - Quest needing level
 - Quest needing starting information

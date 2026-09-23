@@ -2,6 +2,7 @@
 title: The 999 year old port (Antonica)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '20'
 zone: '[[Antonica]]'
 timeline: '[[The 999 Year Old Port Timeline]]'

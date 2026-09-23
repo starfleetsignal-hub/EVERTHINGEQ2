@@ -2,6 +2,7 @@
 title: O Frostfell Tree
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Frostfell Workshop]]'

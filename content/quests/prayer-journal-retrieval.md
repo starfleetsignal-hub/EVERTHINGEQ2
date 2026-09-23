@@ -2,6 +2,7 @@
 title: Prayer Journal Retrieval
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '25'
 difficulty: Heroic
 zone: '[[Nektulos Forest]]'

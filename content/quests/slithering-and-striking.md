@@ -2,6 +2,7 @@
 title: Slithering and Striking
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

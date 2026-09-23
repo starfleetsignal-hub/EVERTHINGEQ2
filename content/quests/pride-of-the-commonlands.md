@@ -2,6 +2,7 @@
 title: Pride of the Commonlands
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '17'
 difficulty: Solo
 zone: '[[North Freeport]]'

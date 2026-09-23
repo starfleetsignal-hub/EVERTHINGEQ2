@@ -2,6 +2,7 @@
 title: 'Sanctus Seru: Requisition 8562'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Sanctus Seru (City)]]'

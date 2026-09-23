@@ -2,6 +2,7 @@
 title: Champion of the Refugees
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '15'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

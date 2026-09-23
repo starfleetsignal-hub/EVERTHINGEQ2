@@ -2,6 +2,7 @@
 title: Another One Bites the Rock
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 zone: '[[Thalumbra, the Ever Deep]]'
 timeline: '[[Terrors of Thalumbra Timeline]]'

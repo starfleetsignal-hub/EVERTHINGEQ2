@@ -1,7 +1,8 @@
 ---
 title: The Trail of Slime
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '33'
 difficulty: Epic
 zone: '[[The Commonlands]]'

@@ -2,6 +2,7 @@
 title: A Kobold Relic
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '33'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

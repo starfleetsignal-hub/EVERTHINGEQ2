@@ -2,6 +2,7 @@
 title: Unknown Shores
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[The Village of Shin]]'

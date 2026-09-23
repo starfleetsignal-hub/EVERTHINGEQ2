@@ -2,6 +2,7 @@
 title: The Indomitable Hulks
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '128'
 zone: '[[Karuupa Jungle]]'
 timeline: '[[Visions of Vetrovia Timeline]]'

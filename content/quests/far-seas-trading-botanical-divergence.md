@@ -2,6 +2,7 @@
 title: 'Far Seas Trading: Botanical Divergence'
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[Vesspyr Isles]]'

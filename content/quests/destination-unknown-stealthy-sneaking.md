@@ -2,6 +2,7 @@
 title: 'Destination Unknown: Stealthy Sneaking'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Oogothl Sprawl]]'

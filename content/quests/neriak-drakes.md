@@ -2,6 +2,7 @@
 title: 'Neriak: Drakes'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '80'
 zone: '[[Kylong Plains]]'
 timeline: '[[Neriak City Tasks Timeline]]'

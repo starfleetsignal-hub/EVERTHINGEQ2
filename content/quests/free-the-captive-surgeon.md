@@ -2,6 +2,7 @@
 title: Free the captive surgeon
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '58'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

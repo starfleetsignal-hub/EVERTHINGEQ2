@@ -2,6 +2,7 @@
 title: 'The Shadow Odyssey, Prologue: The Overlord''s Command'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: solo
 zone: '[[The City of Freeport]]'

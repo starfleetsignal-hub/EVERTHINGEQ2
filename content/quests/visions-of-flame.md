@@ -2,6 +2,7 @@
 title: Visions of Flame
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

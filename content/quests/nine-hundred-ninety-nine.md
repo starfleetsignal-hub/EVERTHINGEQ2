@@ -2,6 +2,7 @@
 title: Nine Hundred Ninety Nine
 type: quest
 expansion: Tears of Veeshan
+expansion_source: questline
 level: '100'
 difficulty: Epic
 zone: '[[*]]'

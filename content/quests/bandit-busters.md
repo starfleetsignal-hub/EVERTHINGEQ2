@@ -2,6 +2,7 @@
 title: Bandit Busters
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '94'
 difficulty: solo
 zone: '[[Obol Plains]]'

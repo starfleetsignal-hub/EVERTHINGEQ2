@@ -2,6 +2,7 @@
 title: Skills of Deduction
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '78'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

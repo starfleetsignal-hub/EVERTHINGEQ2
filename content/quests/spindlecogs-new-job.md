@@ -2,6 +2,7 @@
 title: Spindlecog's New Job
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

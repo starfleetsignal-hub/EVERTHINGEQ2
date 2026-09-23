@@ -1,7 +1,8 @@
 ---
 title: Continued Fuel for the Fire
 type: quest
-expansion: Shattered Lands
+expansion: Chains of Eternity
+expansion_source: timeline
 level: '95'
 difficulty: Solo
 zone: '[[Cobalt Scar]]'

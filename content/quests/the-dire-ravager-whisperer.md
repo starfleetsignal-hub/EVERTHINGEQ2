@@ -2,6 +2,7 @@
 title: The Dire Ravager Whisperer
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 difficulty: Solo
 zone: '[[Loping Plains]]'

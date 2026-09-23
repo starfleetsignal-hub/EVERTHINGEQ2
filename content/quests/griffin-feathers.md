@@ -2,6 +2,7 @@
 title: Griffin Feathers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

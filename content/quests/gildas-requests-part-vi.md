@@ -2,6 +2,7 @@
 title: Gildas' Requests - Part VI
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '24'
 difficulty: Heroic
 zone: '[[Qeynos Province District]]'

@@ -2,6 +2,7 @@
 title: 'Forlorn Gist: Word of Dagune'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Forlorn Gist]]'

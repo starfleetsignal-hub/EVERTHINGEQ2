@@ -2,6 +2,7 @@
 title: Secrets of the Sands
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

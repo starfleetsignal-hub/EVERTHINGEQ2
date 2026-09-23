@@ -2,6 +2,7 @@
 title: Down the Drain...
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '35'
 difficulty: Heroic
 zone: '[[North Qeynos]]'

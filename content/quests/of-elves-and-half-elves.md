@@ -2,6 +2,7 @@
 title: Of Elves and Half-elves
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '13'
 difficulty: Solo
 zone: '[[*]]'

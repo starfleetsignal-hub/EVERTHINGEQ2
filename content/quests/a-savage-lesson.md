@@ -2,6 +2,7 @@
 title: A Savage Lesson
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

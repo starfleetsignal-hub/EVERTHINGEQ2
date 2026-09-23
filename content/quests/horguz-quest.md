@@ -1,7 +1,8 @@
 ---
 title: '"Horguz" (Quest)'
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '30'
 zone: '[[Runnyeye]]'
 timeline: '[[Runnyeye Timeline]]'

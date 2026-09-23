@@ -2,6 +2,7 @@
 title: Reptile Reduction (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 journal_category: Feerrott
 starts: examine [[Reptile reduction (Quest Starter)|reptile reduction]]

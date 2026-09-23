@@ -2,6 +2,7 @@
 title: The Five Chambers of Protection
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Arcanna''se Spire: Repository of Secrets (Solo)]]'

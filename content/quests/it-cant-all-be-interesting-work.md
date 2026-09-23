@@ -2,6 +2,7 @@
 title: It Can't ALL Be Interesting Work
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '7'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

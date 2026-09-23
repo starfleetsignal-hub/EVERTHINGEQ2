@@ -2,6 +2,7 @@
 title: Snakes on the Plains
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '62'
 difficulty: Solo
 zone: '[[Loping Plains]]'

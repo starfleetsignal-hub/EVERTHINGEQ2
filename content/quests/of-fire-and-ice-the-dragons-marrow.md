@@ -2,6 +2,7 @@
 title: 'Of Fire and Ice: The Dragon''s Marrow'
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[*]]'

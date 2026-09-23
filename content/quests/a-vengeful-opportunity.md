@@ -2,6 +2,7 @@
 title: A Vengeful Opportunity
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '43'
 difficulty: Heroic
 zone: '[[Rivervale]]'

@@ -2,6 +2,7 @@
 title: When You Mess With An Angry Dwarf
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '33'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

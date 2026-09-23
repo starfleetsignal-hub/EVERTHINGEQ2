@@ -2,6 +2,7 @@
 title: Headless or Tails
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 difficulty: Epic
 zone: '[[Nektulos Forest]]'
 journal_category: Public

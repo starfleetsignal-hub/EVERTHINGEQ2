@@ -2,6 +2,7 @@
 title: Crack Pot
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '14'
 difficulty: Solo
 zone: '[[The Commonlands]]'

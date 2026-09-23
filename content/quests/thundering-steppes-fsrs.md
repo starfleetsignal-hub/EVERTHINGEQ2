@@ -2,6 +2,7 @@
 title: Thundering Steppes FSRs
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 categories:
 - FSRs
 - Quests

@@ -2,6 +2,7 @@
 title: 'Gorowyn: Mountain Crawlers'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '76'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

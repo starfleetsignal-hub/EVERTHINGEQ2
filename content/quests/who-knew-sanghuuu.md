@@ -2,6 +2,7 @@
 title: Who Knew, Sang'Huuu
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '136'
 difficulty: Solo
 zone: '[[*]]'

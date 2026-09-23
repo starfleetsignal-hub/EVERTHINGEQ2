@@ -2,6 +2,7 @@
 title: A Fruitful Relationship
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '16'
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'

@@ -2,6 +2,7 @@
 title: Stand Up and Be Slaughtered
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '32'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

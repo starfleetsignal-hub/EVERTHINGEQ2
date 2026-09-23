@@ -2,6 +2,7 @@
 title: Sealed With a Curse
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

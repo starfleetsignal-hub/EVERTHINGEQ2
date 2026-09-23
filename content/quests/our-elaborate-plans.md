@@ -2,6 +2,7 @@
 title: Our Elaborate Plans
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '43'
 difficulty: Solo
 zone: '[[West Freeport]]'

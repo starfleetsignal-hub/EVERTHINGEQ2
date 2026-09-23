@@ -1,7 +1,8 @@
 ---
 title: Efforts Repaid
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '49'
 zone: '[[Lavastorm]]'
 timeline: '[[Lavastorm Timeline]]'

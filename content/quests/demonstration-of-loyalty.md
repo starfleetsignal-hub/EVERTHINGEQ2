@@ -2,11 +2,11 @@
 title: Demonstration of Loyalty
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '82'
 difficulty: Heroic
 zone: '[[Halls of the Unseen]]'
 timeline: '[[Dark Mail Gauntlets Timeline]]'
-journal_category: ???
 starts: Speak to [[Nyran Dudez]] at {{waypoint 25, 3, 49}}
 prerequisite: '[[Mysterious Mark]]'
 next_quest: '[[Menial Tasks...]]'

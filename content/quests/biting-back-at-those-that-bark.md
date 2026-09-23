@@ -2,6 +2,7 @@
 title: Biting Back at Those That Bark
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '38'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

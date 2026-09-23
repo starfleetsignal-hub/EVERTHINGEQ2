@@ -1,7 +1,8 @@
 ---
 title: My Dear, Deloris...
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: chain
 level: '90'
 difficulty: Heroic
 zone: '[[Demitrik''s Bastion]]'

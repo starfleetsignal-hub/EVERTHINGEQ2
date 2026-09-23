@@ -2,6 +2,7 @@
 title: Fiery Jewel of the Underfoot
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '85'
 difficulty: Heroic
 zone: '[[Tenebrous Tangle]]'

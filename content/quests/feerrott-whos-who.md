@@ -2,6 +2,7 @@
 title: Feerrott Who's Who
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '38'
 difficulty: Solo
 zone: '[[The Feerrott]]'

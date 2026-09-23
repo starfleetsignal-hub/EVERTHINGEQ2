@@ -2,6 +2,7 @@
 title: Innoruuk Celebration Research Investigation - Vol 14
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

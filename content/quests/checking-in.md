@@ -2,6 +2,7 @@
 title: Checking In
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 difficulty: Heroic
 zone: '[[The Lesser Faydark]]'

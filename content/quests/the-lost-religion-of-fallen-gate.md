@@ -2,6 +2,7 @@
 title: The Lost Religion of Fallen Gate
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 difficulty: Heroic
 zone: '[[The City of Freeport]]'

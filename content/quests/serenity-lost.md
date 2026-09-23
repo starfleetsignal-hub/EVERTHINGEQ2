@@ -2,6 +2,7 @@
 title: Serenity Lost
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '11'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

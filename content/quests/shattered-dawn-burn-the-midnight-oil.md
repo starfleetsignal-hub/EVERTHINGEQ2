@@ -1,7 +1,8 @@
 ---
 title: 'Shattered Dawn: Burn the Midnight Oil'
 type: quest
-expansion: Shattered Lands
+expansion: Blood of Luclin
+expansion_source: timeline
 level: '118'
 difficulty: Heroic
 zone: '[[Aurelian Coast]]'

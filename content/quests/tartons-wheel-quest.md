@@ -2,6 +2,7 @@
 title: Tarton's Wheel (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '40'
 difficulty: Heroic
 zone: '[[*]]'

@@ -2,6 +2,7 @@
 title: An Unwelcome Task
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '77'
 difficulty: Heroic
 zone: '[[Moors of Ykesha]]'

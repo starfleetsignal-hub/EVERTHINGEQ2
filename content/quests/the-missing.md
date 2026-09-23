@@ -2,6 +2,7 @@
 title: The Missing
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Froglok Timeline]]'

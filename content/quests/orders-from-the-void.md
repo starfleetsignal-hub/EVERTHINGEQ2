@@ -2,6 +2,7 @@
 title: Orders from the Void
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

@@ -2,6 +2,7 @@
 title: Bone Dust
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 zone: '[[The Graveyard]]'
 timeline: '[[Freeport Outlying Areas Timeline]]'

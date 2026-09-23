@@ -2,6 +2,7 @@
 title: Haute Cuisine, Roekillik Style
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Heroic
 zone: '[[The Hole]]'

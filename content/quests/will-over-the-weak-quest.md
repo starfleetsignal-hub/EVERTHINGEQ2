@@ -2,6 +2,7 @@
 title: Will Over the Weak (Quest)
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Kael Drakkel]]'

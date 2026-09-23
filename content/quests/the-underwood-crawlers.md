@@ -2,6 +2,7 @@
 title: The Underwood Crawlers
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '12'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Timeline]]'

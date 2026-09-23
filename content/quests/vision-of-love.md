@@ -2,6 +2,7 @@
 title: Vision of Love
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: Scales
 zone: '[[The Stonebrunt Highlands]]'
 journal_category: World Event

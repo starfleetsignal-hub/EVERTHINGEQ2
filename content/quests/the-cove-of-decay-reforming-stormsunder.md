@@ -2,6 +2,7 @@
 title: The Cove of Decay - Reforming Stormsunder
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '31'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

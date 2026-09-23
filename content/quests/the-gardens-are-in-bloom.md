@@ -2,6 +2,7 @@
 title: The Gardens Are In Bloom
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

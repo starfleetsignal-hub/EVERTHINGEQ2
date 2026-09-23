@@ -1,7 +1,8 @@
 ---
 title: Will Over the Weak (Fabled)
 type: quest
-expansion: Shattered Lands
+expansion: Chaos Descending
+expansion_source: level
 level: '113'
 zone: '[[Fabled Kael Drakkel]]'
 journal_category: Mission

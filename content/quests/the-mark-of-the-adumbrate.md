@@ -2,6 +2,7 @@
 title: The Mark of the Adumbrate
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 difficulty: Heroic
 zone: '[[The Feerrott]]'

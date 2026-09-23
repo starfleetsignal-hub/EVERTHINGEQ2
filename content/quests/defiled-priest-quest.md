@@ -2,6 +2,7 @@
 title: Defiled Priest (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[Stormhold]]'
 timeline: '[[Stormhold Timeline]]'

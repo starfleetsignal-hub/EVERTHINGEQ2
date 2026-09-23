@@ -2,6 +2,7 @@
 title: Sweet Spell of Success
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '129'
 difficulty: Solo
 zone: '[[Mahngavi Wastes]]'

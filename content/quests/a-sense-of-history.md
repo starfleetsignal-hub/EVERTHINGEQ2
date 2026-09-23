@@ -2,6 +2,7 @@
 title: A Sense of History
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '24'
 zone: '[[Greater Faydark]]'
 timeline: '[[Crushbone Keep Timeline]]'

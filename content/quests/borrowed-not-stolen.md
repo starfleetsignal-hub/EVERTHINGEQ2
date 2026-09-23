@@ -2,6 +2,7 @@
 title: Borrowed, Not Stolen
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '102'
 difficulty: Heroic
 zone: '[[High Keep (Heroic)]]'

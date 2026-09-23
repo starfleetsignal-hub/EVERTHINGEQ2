@@ -2,6 +2,7 @@
 title: Dock Delinquency
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '20'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

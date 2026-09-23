@@ -1,7 +1,8 @@
 ---
 title: The Search for Shards
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '49'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

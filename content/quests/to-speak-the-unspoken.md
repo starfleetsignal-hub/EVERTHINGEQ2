@@ -2,6 +2,7 @@
 title: To Speak the Unspoken
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[The Bonemire]]'

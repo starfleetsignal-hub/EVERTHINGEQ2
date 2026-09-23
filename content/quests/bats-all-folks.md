@@ -1,7 +1,8 @@
 ---
 title: Bats All, Folks!
 type: quest
-expansion: Shattered Lands
+expansion: Reign of Shadows
+expansion_source: timeline
 level: '120'
 difficulty: Solo
 zone: '[[Savage Weald]]'

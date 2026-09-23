@@ -2,6 +2,7 @@
 title: Somborn Spirits
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '63'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

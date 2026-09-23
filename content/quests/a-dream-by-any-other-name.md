@@ -1,7 +1,8 @@
 ---
 title: A Dream, By Any Other Name
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: Scales
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nights of the Dead Timeline]]'

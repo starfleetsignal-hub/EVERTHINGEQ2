@@ -2,6 +2,7 @@
 title: Grum's Inspiring Axe
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '18'
 difficulty: Solo
 zone: '[[The Commonlands]]'

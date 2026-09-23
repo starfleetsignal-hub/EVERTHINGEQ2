@@ -2,6 +2,7 @@
 title: Devotion and Compassion
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '65'
 difficulty: Heroic
 zone: '[[New Halas]]'

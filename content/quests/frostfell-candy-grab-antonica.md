@@ -28,6 +28,8 @@ source:
   revision: 1856667
   revised: '2025-02-09T02:58:17Z'
   license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: patch
 ---
 
 ## Notes

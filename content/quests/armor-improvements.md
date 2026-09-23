@@ -2,6 +2,7 @@
 title: Armor Improvements
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

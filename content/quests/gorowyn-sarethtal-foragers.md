@@ -2,6 +2,7 @@
 title: 'Gorowyn: Sareth''Tal Foragers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '66'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

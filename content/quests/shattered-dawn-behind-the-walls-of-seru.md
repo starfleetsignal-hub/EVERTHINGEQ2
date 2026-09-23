@@ -2,6 +2,7 @@
 title: 'Shattered Dawn: Behind the Walls of Seru'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '114'
 difficulty: Heroic
 zone: '[[The Blinding]]'

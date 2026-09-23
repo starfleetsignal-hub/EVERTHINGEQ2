@@ -2,6 +2,7 @@
 title: A Gathering Obsession, Part V
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '45'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

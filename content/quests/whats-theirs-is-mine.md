@@ -2,6 +2,7 @@
 title: What's Theirs is Mine
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '74'
 difficulty: Solo
 zone: '[[Fens of Nathsar]]'

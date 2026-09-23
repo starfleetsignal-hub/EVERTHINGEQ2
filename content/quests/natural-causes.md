@@ -1,7 +1,8 @@
 ---
 title: Natural Causes?
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '8'
 difficulty: Solo
 zone: '[[Oakmyst Forest]]'

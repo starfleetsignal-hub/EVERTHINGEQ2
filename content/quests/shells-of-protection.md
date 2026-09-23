@@ -2,6 +2,7 @@
 title: Shells of Protection
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '5'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

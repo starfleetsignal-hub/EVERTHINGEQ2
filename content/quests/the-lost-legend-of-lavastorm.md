@@ -2,6 +2,7 @@
 title: The Lost Legend of Lavastorm
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 difficulty: Heroic
 zone: '[[Lavastorm]]'

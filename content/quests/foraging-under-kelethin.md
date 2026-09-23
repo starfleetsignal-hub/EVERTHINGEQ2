@@ -2,6 +2,7 @@
 title: Foraging under Kelethin
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '11'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

@@ -2,6 +2,7 @@
 title: The Search for Bloodskull Valley
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '15'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

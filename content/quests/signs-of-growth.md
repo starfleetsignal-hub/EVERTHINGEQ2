@@ -2,6 +2,7 @@
 title: Signs of Growth
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '56'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

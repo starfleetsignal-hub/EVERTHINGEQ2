@@ -2,6 +2,7 @@
 title: The Hatchery
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 zone: '[[Palace of the Awakened]]'
 timeline: '[[Palace of the Awakened Timeline]]'

@@ -2,6 +2,7 @@
 title: Prove Your Skill
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '5'
 difficulty: Solo
 zone: '[[*]]'

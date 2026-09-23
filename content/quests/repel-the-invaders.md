@@ -2,6 +2,7 @@
 title: Repel the Invaders
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Heroic
 zone: '[[North Freeport]]'

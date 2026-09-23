@@ -2,6 +2,7 @@
 title: Evict the Seelie Guests
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 difficulty: Heroic
 zone: '[[The Tower of the Drafling]]'

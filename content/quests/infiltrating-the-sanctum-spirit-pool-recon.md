@@ -2,6 +2,7 @@
 title: 'Infiltrating the Sanctum: Spirit Pool Recon'
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '65'
 zone: '[[Sanctum of the Scaleborn]]'
 timeline: '[[Sanctum of the Scaleborn Timeline]]'

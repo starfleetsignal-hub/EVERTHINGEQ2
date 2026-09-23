@@ -2,6 +2,7 @@
 title: Against the Elements for Qeynos
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '99'
 zone: '[[*]]'
 journal_category: World Event

@@ -2,6 +2,7 @@
 title: 'Blessings of Growth: Greater Faydark'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 zone: '[[Greater Faydark]]'
 journal_category: Greater Faydark

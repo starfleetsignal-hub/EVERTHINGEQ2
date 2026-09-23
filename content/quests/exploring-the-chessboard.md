@@ -2,6 +2,7 @@
 title: Exploring the Chessboard
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '23'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

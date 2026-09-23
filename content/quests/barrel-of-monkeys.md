@@ -2,6 +2,7 @@
 title: Barrel of Monkeys
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 difficulty: solo
 zone: '[[Plane of Magic]]'

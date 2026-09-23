@@ -1,7 +1,8 @@
 ---
 title: Hunting Dangerous Prey (Deserts of Flame)
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '60'
 difficulty: Heroic
 zone: '[[The Pillars of Flame]]'

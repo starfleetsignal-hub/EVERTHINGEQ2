@@ -2,6 +2,7 @@
 title: Key to Curing the Spellpox
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[The Sundered Frontier]]'

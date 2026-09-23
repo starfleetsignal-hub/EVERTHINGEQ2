@@ -1,7 +1,8 @@
 ---
 title: Helping a Friend
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '3'
 difficulty: Solo
 zone: '[[The Baubbleshire]]'

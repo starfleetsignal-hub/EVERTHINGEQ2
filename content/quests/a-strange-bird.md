@@ -2,6 +2,7 @@
 title: A Strange Bird
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '80'
 difficulty: Heroic
 zone: '[[Timorous Deep]]'

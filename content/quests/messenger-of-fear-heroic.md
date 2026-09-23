@@ -2,6 +2,7 @@
 title: Messenger of Fear (Heroic)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '107'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

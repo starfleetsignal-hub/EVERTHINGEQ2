@@ -2,6 +2,7 @@
 title: 'Legacy of Power: Hero''s Devotion'
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 difficulty: Heroic
 zone: '[[Plane of Magic]]'

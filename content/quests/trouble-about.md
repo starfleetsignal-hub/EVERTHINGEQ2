@@ -2,6 +2,7 @@
 title: Trouble About
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '15'
 difficulty: Solo
 zone: '[[The Commonlands]]'

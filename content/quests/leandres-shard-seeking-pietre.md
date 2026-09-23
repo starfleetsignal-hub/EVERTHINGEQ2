@@ -2,6 +2,7 @@
 title: 'Leandre''s Shard: Seeking Pietre'
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Solo
 zone: '[[*]]'

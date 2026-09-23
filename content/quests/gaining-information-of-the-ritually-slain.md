@@ -2,6 +2,7 @@
 title: Gaining Information of the Ritually Slain
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '63'
 difficulty: Heroic
 zone: '[[North Freeport]]'

@@ -2,6 +2,7 @@
 title: Ingredients for Valetail Stout
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 difficulty: Heroic
 zone: '[[Rivervale]]'

@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Orb Creepers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '66'
 difficulty: solo
 zone: '[[Greater Faydark]]'

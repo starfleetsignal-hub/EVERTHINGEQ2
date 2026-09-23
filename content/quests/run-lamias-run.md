@@ -2,6 +2,7 @@
 title: Run Lamias Run
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '42'
 difficulty: Solo
 zone: '[[Rivervale]]'

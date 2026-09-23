@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Blood Gorgers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '61'
 difficulty: solo
 zone: '[[Greater Faydark]]'

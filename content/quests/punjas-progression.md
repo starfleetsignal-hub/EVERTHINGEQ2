@@ -2,6 +2,7 @@
 title: Punja's Progression
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '58'
 zone: '[[The Silent City]]'
 timeline: '[[Ahket Aken Timeline]]'

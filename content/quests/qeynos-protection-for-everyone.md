@@ -2,6 +2,7 @@
 title: Qeynos Protection for Everyone!
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: Faydwer Faire
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 categories:
 - Quest articles needing next step
 - Quest articles needing rewards

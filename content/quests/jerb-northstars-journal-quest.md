@@ -2,6 +2,7 @@
 title: Jerb Northstar's Journal (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 categories:
 - Quest needing level
 - Quest needing starting information

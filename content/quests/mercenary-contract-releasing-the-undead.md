@@ -2,6 +2,7 @@
 title: Mercenary Contract - Releasing the Undead
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '29'
 difficulty: Heroic
 zone: '[[Nektulos Forest]]'

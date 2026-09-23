@@ -2,6 +2,7 @@
 title: Big Trouble (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 journal_category: Thundering Steppes
 starts: examine [[Big trouble (Quest Starter)|big trouble]]

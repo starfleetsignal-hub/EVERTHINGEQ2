@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Dire Wolves'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '61'
 difficulty: solo
 zone: '[[Greater Faydark]]'

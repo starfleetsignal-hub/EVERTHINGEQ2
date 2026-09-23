@@ -2,6 +2,7 @@
 title: A Darkened Shard, Part 2
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Splitpaw Saga Timeline]]'

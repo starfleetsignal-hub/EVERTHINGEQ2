@@ -2,6 +2,7 @@
 title: 'Vale of the Shattering: Visiting the Windstalker Grave'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '14'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Shattered Vale Timeline]]'

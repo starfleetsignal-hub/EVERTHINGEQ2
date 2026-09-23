@@ -2,6 +2,7 @@
 title: The Gathering of Bones (Fallen Gate)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '21'
 difficulty: Heroic
 zone: '[[North Freeport]]'

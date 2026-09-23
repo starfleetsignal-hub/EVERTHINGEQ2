@@ -2,6 +2,7 @@
 title: Room Service
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: Scales
 zone: '[[Maj''Dul]]'
 timeline: '[[Maj''Dul Timeline]]'

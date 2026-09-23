@@ -2,6 +2,7 @@
 title: Quicksand!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '38'
 difficulty: Solo
 zone: '[[West Freeport]]'

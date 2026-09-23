@@ -2,6 +2,7 @@
 title: Golem Research
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Solo
 zone: '[[North Freeport]]'

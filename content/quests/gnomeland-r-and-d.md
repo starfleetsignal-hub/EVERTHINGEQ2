@@ -2,6 +2,7 @@
 title: Gnomeland R & D
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '41'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

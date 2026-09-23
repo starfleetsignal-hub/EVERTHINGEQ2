@@ -2,6 +2,7 @@
 title: 'Aether Wroughtlands: Experiment BU-T13-R'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Aether Wroughtlands]]'
 timeline: '[[Ballads of Zimara Timeline]]'

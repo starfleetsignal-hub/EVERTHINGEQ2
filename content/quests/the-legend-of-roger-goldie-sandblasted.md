@@ -2,6 +2,7 @@
 title: 'The Legend of Roger Goldie: Sandblasted'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '57'
 difficulty: solo
 zone: '[[The Sinking Sands]]'

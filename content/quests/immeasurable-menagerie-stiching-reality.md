@@ -2,6 +2,7 @@
 title: Immeasurable Menagerie Stiching Reality
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Miragul''s Immeasurable Menagerie (Solo)]]'
 journal_category: Mission

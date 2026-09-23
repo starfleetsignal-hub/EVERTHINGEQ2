@@ -2,6 +2,7 @@
 title: Ceremony of the Fanged Necklace
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 difficulty: Heroic
 zone: '[[The Tombs of Night]]'

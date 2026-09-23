@@ -2,6 +2,7 @@
 title: Not Enough Crystals!
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

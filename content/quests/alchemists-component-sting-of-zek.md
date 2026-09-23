@@ -2,6 +2,7 @@
 title: 'Alchemist''s Component: Sting of Zek'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 zone: '[[Zek, the Orcish Wastes]]'
 starts: Examine a [[Stalvo's Notes - Sting of Zek]] that drops randomly from all monsters in Zek

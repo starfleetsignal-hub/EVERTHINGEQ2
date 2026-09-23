@@ -2,6 +2,7 @@
 title: A Toast, To the Far Seas!
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '99'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

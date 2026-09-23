@@ -2,6 +2,7 @@
 title: Music Box Quests At A Glance
 type: quest
 expansion: Renewal of Ro
+expansion_source: category
 categories:
 - Renewal of Ro Quests
 source:

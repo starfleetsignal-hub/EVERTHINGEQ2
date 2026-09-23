@@ -2,6 +2,7 @@
 title: 'Amalgamations for All: Surrounding Knowledge'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

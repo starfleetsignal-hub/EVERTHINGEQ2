@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Mudfin Warriors'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '69'
 zone: '[[Kylong Plains]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

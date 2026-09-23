@@ -2,6 +2,7 @@
 title: The Cure for the Common Hangover
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '34'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

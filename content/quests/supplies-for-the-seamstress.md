@@ -2,6 +2,7 @@
 title: Supplies for the Seamstress
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '56'
 zone: '[[Maj''Dul]]'
 timeline: '[[Maj''Dul Timeline]]'

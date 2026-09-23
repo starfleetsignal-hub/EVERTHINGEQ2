@@ -2,6 +2,7 @@
 title: Of Spars and Sails and ...
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '27'
 zone: '[[Qeynos Harbor]]'
 journal_category: Qeynos Harbor

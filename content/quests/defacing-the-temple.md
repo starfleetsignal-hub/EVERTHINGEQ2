@@ -2,6 +2,7 @@
 title: Defacing the Temple
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Heroic
 zone: '[[Temple of the Faceless (Agnostic)]]'

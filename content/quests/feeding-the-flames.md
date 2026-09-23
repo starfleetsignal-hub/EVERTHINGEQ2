@@ -2,6 +2,7 @@
 title: Feeding the Flames
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[The Halls of Fate]]'

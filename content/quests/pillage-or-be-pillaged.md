@@ -2,6 +2,7 @@
 title: Pillage or be Pillaged
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '30'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

@@ -2,6 +2,7 @@
 title: Hundred Fold Blade (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '26'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

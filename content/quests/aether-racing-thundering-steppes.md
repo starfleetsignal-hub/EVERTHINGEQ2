@@ -2,6 +2,7 @@
 title: 'Aether Racing: Thundering Steppes'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Thundering Steppes]]'

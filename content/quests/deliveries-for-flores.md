@@ -2,6 +2,7 @@
 title: Deliveries for Flores
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '19'
 difficulty: Solo
 zone: '[[Antonica]]'

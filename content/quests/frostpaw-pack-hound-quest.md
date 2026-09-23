@@ -2,6 +2,7 @@
 title: Frostpaw Pack Hound (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 journal_category: Permafrost
 starts: examine [[Frostpaw pack hound (Quest Starter)|frostpaw pack hound]]

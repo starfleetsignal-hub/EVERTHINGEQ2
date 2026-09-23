@@ -2,6 +2,7 @@
 title: Nektulos Forest FSRs
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 categories:
 - FSRs
 - Nektulos Forest Quests

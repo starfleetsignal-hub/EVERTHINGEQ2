@@ -2,6 +2,7 @@
 title: Burglars Afoot
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '56'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

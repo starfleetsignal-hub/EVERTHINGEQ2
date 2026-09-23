@@ -2,6 +2,7 @@
 title: Vale of the Shattering
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 zone: '[[The Elddar Grove]]'
 timeline: '[[Shattered Vale Timeline]]'

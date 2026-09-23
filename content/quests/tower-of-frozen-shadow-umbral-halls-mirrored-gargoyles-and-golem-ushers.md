@@ -2,6 +2,7 @@
 title: 'Tower of Frozen Shadow: Umbral Halls - Mirrored Gargoyles & Golem Ushers'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Tower of Frozen Shadow: Umbral Halls]]'

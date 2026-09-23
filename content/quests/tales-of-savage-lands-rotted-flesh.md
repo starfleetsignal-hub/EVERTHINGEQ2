@@ -2,6 +2,7 @@
 title: 'Tales of Savage Lands: Rotted Flesh'
 type: quest
 expansion: Reign of Shadows
+expansion_source: timeline
 level: '120'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

@@ -2,6 +2,7 @@
 title: 'Legacy of Power: Realm of the Plaguebringer'
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '110'
 difficulty: Heroic
 zone: '[[Coliseum of Valor]]'

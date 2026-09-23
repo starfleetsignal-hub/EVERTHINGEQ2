@@ -2,6 +2,7 @@
 title: The Last Straw
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '35'
 difficulty: Heroic
 zone: '[[Enchanted Lands]]'

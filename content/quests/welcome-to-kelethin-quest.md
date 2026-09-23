@@ -2,6 +2,7 @@
 title: Welcome to Kelethin! (Quest)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '7'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

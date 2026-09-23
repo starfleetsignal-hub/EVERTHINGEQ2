@@ -2,6 +2,7 @@
 title: Dirty Fairies (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 journal_category: Enchanted Lands
 starts: examine[[Dirty fairies (Quest Starter)|dirty fairies]]

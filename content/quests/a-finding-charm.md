@@ -2,6 +2,7 @@
 title: A Finding Charm
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

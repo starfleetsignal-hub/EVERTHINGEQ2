@@ -2,6 +2,7 @@
 title: Fine Silks for Sale
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '30'
 difficulty: Solo
 zone: '[[The Ruins of Varsoon]]'

@@ -2,6 +2,7 @@
 title: Redeeming Qualities
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '97'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

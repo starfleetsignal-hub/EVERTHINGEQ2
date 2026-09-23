@@ -1,7 +1,8 @@
 ---
 title: Ill Omen (Mission)
 type: quest
-expansion: Shattered Lands
+expansion: Kunark Ascending
+expansion_source: level
 level: '107'
 difficulty: Epic
 zone: '[[Kylong Plains]]'

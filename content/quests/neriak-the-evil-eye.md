@@ -2,6 +2,7 @@
 title: 'Neriak: The Evil Eye'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '87'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

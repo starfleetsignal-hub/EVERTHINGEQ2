@@ -1,7 +1,8 @@
 ---
 title: Even More Filth
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '36'
 zone: '[[Runnyeye]]'
 timeline: '[[Runnyeye Timeline]]'

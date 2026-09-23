@@ -1,7 +1,8 @@
 ---
 title: Unbinding the Suffered
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '60'
 difficulty: Heroic
 zone: '[[The Lesser Faydark]]'

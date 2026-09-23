@@ -2,6 +2,7 @@
 title: 'Rage of Cthurath: Sprawl Intents and Purposes'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '135'
 difficulty: Heroic
 zone: '[[Oogothl Sprawl]]'

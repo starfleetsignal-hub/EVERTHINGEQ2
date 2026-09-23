@@ -1,7 +1,8 @@
 ---
 title: Information Acquisition
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '8'
 zone: '[[The Peat Bog]]'
 timeline: '[[Qeynos Racial Timeline]]'

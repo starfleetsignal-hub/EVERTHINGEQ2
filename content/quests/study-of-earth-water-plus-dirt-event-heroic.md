@@ -2,6 +2,7 @@
 title: 'Study of Earth: Water Plus Dirt (Event Heroic)'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '118'
 difficulty: Heroic
 zone: '[[Myrist, the Great Library]]'

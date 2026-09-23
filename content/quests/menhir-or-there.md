@@ -2,6 +2,7 @@
 title: Menhir or There
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '93'
 difficulty: Solo
 zone: '[[Eastern Wastes]]'

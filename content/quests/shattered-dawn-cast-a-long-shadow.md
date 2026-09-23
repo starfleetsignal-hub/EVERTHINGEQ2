@@ -2,6 +2,7 @@
 title: 'Shattered Dawn: Cast a Long Shadow'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '118'
 difficulty: Heroic
 zone: '[[Sanctus Seru (City)]]'

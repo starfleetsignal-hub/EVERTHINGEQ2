@@ -2,6 +2,7 @@
 title: Troubles Melt
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '43'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

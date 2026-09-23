@@ -2,6 +2,7 @@
 title: Serving the Land
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '64'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

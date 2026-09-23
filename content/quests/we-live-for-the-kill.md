@@ -2,6 +2,7 @@
 title: We Live for the Kill
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

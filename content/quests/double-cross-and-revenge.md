@@ -2,6 +2,7 @@
 title: Double Cross & Revenge
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '17'
 zone: '[[The Wailing Caves]]'
 timeline: '[[Wailing Caves Timeline]]'

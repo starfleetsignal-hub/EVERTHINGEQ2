@@ -2,6 +2,7 @@
 title: Of Scholarly Pursuits
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '69'
 difficulty: Heroic
 zone: '[[North Qeynos]]'

@@ -1,7 +1,8 @@
 ---
 title: Required Components
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '4'
 difficulty: Solo
 zone: '[[Nettleville]]'

@@ -2,6 +2,7 @@
 title: A Drudge Problem
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Solo
 zone: '[[The Serpent Sewer]]'

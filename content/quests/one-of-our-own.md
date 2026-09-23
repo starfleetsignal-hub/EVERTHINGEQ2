@@ -2,6 +2,7 @@
 title: One of Our Own
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[The Eidolon Jungle]]'

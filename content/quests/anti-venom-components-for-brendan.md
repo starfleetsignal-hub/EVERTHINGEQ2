@@ -2,6 +2,7 @@
 title: Anti-venom Components for Brendan
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

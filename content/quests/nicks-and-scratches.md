@@ -2,6 +2,7 @@
 title: Nicks and Scratches
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '46'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -2,6 +2,7 @@
 title: Noxiousity
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '55'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

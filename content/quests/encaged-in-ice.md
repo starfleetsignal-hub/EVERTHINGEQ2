@@ -2,6 +2,7 @@
 title: Encaged in Ice
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '44'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

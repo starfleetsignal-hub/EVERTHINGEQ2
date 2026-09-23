@@ -1,7 +1,8 @@
 ---
 title: Destroying the Foundation
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '14'
 difficulty: Solo
 zone: '[[The Caves]]'

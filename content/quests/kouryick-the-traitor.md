@@ -2,6 +2,7 @@
 title: Kouryick the Traitor
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 zone: '[[West Freeport]]'
 timeline: '[[Freeport Timeline]]'

@@ -2,6 +2,7 @@
 title: Take a Swim
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '25'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

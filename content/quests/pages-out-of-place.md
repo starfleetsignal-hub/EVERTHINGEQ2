@@ -2,6 +2,7 @@
 title: Pages Out of Place
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '109'
 difficulty: solo
 zone: '[[Plane of Magic]]'

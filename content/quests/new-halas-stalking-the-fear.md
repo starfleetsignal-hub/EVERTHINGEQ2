@@ -1,7 +1,8 @@
 ---
 title: 'New Halas: Stalking the Fear'
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '86'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

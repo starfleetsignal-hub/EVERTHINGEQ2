@@ -2,6 +2,7 @@
 title: Unspeakable Horror (quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '68'
 difficulty: Heroic
 zone: '[[North Qeynos]]'

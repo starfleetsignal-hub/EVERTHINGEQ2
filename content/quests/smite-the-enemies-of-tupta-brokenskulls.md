@@ -2,6 +2,7 @@
 title: Smite the Enemies of Tupta! - Brokenskulls
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Moors of Ykesha Timeline]]'

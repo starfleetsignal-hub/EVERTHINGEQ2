@@ -1,7 +1,8 @@
 ---
 title: East Freeport Patrol
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: Scales
 zone: '[[East Freeport]]'
 timeline: '[[Citizenship Timeline]]'

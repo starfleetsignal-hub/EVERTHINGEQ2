@@ -2,6 +2,7 @@
 title: Terrors in the Swamp
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '43'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

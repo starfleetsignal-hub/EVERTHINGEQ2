@@ -2,6 +2,7 @@
 title: A Lack of Information
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '10'
 zone: '[[The Caves]]'
 journal_category: Caves

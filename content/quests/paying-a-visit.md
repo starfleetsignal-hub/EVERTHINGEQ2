@@ -2,6 +2,7 @@
 title: Paying a Visit
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 zone: '[[The Graveyard]]'
 timeline: '[[The Graveyard Timeline]]'

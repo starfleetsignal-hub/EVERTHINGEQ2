@@ -2,6 +2,7 @@
 title: Offering for Drinal
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 zone: '[[Obol Plains]]'
 timeline: '[[Obol Plains Timeline]]'

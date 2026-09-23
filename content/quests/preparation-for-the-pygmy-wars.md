@@ -2,6 +2,7 @@
 title: Preparation for the Pygmy Wars
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '98'
 difficulty: Solo
 zone: '[[Tranquil Sea]]'

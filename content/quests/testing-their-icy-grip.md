@@ -2,6 +2,7 @@
 title: Testing Their Icy Grip
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '89'
 difficulty: Solo
 zone: '[[Great Divide]]'

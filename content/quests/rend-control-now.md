@@ -2,6 +2,7 @@
 title: Rend Control Now
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

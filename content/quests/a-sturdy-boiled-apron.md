@@ -2,6 +2,7 @@
 title: A Sturdy Boiled Apron
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Solo
 journal_category: Tradeskill

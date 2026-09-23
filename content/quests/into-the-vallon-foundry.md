@@ -2,6 +2,7 @@
 title: Into the Vallon Foundry
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '34'
 difficulty: Heroic
 zone: '[[Zek, the Orcish Wastes]]'

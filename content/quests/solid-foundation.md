@@ -2,6 +2,7 @@
 title: Solid Foundation
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '34'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

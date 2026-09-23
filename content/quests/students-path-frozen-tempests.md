@@ -2,6 +2,7 @@
 title: 'Student''s Path: Frozen Tempests'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '42'
 difficulty: Heroic
 zone: '[[Everfrost]]'

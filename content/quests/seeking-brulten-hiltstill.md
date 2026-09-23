@@ -2,6 +2,7 @@
 title: Seeking Brulten Hiltstill
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '22'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

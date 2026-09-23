@@ -2,6 +2,7 @@
 title: Jabber's Arts and Crafts
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 zone: '[[Splendor Sky Aerie]]'
 timeline: '[[Ballads of Zimara Timeline]]'

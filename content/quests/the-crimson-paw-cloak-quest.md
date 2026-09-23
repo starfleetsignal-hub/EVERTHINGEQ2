@@ -2,6 +2,7 @@
 title: The Crimson Paw Cloak (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '15'
 zone: '[[The Wailing Caves]]'
 timeline: '[[Wailing Caves Timeline]]'

@@ -2,6 +2,7 @@
 title: Gator Care - Egg Gathering
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[The Moors of Ykesha Timeline]]'

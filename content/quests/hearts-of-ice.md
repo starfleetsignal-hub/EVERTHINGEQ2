@@ -2,6 +2,7 @@
 title: Hearts of Ice
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 difficulty: Heroic
 zone: '[[The Feerrott]]'

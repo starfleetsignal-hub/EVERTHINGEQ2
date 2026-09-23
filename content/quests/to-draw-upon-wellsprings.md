@@ -1,7 +1,8 @@
 ---
 title: To Draw Upon Wellsprings
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '7'
 difficulty: Solo
 zone: '[[Darklight Wood]]'

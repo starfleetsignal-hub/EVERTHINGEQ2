@@ -2,6 +2,7 @@
 title: Bad Dolly!
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '34'
 zone: '[[Nektropos Castle]]'
 timeline: '[[Nektropos Castle Timeline]]'

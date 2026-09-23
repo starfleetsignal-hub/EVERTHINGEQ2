@@ -2,6 +2,7 @@
 title: Ro's Infernal Device
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '35'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

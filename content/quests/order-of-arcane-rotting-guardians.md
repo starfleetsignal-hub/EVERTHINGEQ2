@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Rotting Guardians'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '19'
 difficulty: solo
 zone: '[[Greater Faydark]]'

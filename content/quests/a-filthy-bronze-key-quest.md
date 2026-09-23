@@ -2,6 +2,7 @@
 title: A filthy bronze key (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 difficulty: Solo
 zone: '[[Blackburrow]]'

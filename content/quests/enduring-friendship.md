@@ -1,7 +1,8 @@
 ---
 title: Enduring Friendship
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: level
 level: '80'
 difficulty: Heroic
 zone: '[[The Ruins of Guk: The Lower Corridors]]'

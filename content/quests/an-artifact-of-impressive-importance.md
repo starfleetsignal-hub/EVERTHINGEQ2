@@ -2,6 +2,7 @@
 title: An Artifact of Impressive Importance
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '18'
 zone: '[[Timorous Deep]]'
 timeline: '[[Timorous Deep Timeline]]'

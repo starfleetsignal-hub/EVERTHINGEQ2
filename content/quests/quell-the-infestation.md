@@ -2,6 +2,7 @@
 title: Quell the Infestation
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '15'
 difficulty: Solo
 zone: '[[North Freeport]]'

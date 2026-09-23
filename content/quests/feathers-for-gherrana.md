@@ -2,6 +2,7 @@
 title: Feathers for Gherrana
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '23'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

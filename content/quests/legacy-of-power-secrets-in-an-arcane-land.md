@@ -2,6 +2,7 @@
 title: 'Legacy of Power: Secrets in an Arcane Land'
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '105'
 difficulty: Heroic
 zone: '[[Plane of Magic]]'

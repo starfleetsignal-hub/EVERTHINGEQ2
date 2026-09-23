@@ -2,6 +2,7 @@
 title: The Savage Deepening of Spirit
 type: quest
 expansion: Age of Discovery
+expansion_source: questline
 level: '98'
 difficulty: Epic
 zone: '[[*]]'

@@ -1,7 +1,8 @@
 ---
 title: 'Raj''Dur Plateaus: The Eafrygia Music Box'
 type: quest
-expansion: Shattered Lands
+expansion: Renewal of Ro
+expansion_source: timeline
 level: '130'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus]]'

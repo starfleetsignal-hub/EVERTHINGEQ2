@@ -2,6 +2,7 @@
 title: Assistant Researcher's Notes (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 zone: '[[*]]'
 journal_category: Forum Lore
 starts: See [[#About the Quest|About the Quest]] below

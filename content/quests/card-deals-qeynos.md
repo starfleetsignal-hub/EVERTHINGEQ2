@@ -2,6 +2,7 @@
 title: Card Deals (Qeynos)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Qeynos Harbor]]'

@@ -2,6 +2,7 @@
 title: Paying Homage to the Past
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 zone: '[[Scale Yard]]'
 timeline: '[[Freeport Racial Timeline]]'

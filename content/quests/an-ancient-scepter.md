@@ -2,6 +2,7 @@
 title: An Ancient Scepter
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '10'
 difficulty: Solo
 zone: '[[The Down Below]]'

@@ -2,6 +2,7 @@
 title: 'Neriak: Obol Sludgelings'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[Great Divide]]'

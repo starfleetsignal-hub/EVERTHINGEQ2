@@ -2,6 +2,7 @@
 title: The Final Report
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '70'
 zone: '[[The Halls of Fate]]'
 timeline: '[[Claymore Timeline]]'

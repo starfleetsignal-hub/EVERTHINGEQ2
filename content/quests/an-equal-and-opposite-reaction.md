@@ -2,6 +2,7 @@
 title: An Equal and Opposite Reaction
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 difficulty: Heroic
 zone: '[[Enchanted Lands]]'

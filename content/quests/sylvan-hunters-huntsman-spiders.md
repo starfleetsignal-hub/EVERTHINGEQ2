@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Huntsman Spiders'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '64'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

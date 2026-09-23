@@ -2,6 +2,7 @@
 title: The Blood of the Bear, Part One (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 zone: '[[Fallen Gate]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

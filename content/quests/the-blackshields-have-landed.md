@@ -2,6 +2,7 @@
 title: The Blackshields Have Landed
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '11'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

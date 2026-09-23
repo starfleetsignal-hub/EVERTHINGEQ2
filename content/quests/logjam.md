@@ -2,6 +2,7 @@
 title: Logjam
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '21'
 difficulty: Solo
 zone: '[[South Freeport]]'

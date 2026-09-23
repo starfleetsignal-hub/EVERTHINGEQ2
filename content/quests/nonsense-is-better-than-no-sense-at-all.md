@@ -2,6 +2,7 @@
 title: Nonsense Is Better Than No Sense At All
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

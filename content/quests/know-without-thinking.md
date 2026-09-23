@@ -2,6 +2,7 @@
 title: Know without Thinking
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '40'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

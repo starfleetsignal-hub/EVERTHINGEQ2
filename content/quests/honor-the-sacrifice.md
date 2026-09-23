@@ -2,6 +2,7 @@
 title: Honor the Sacrifice
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[New Halas]]'

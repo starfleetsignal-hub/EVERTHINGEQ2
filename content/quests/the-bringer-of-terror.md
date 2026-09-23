@@ -2,6 +2,7 @@
 title: The Bringer of Terror
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '27'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: To Sulphurous and Tormenting Flames
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '45'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

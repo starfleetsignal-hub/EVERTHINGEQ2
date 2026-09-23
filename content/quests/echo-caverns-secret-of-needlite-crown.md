@@ -2,6 +2,7 @@
 title: 'Echo Caverns: Secret of Needlite Crown'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '123'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

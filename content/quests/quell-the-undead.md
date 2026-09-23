@@ -2,6 +2,7 @@
 title: Quell the Undead
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '13'
 difficulty: Solo
 zone: '[[The Commonlands]]'

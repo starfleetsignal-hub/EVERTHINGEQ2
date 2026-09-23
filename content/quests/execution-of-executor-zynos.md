@@ -2,6 +2,7 @@
 title: Execution of Executor Zynos
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: heroic
 zone: '[[Moors of Ykesha]]'

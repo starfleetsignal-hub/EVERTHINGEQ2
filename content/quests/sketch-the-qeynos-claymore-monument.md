@@ -2,6 +2,7 @@
 title: Sketch the Qeynos Claymore Monument
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '8'
 difficulty: Solo
 zone: '[[Nettleville]]'

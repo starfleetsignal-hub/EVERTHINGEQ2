@@ -2,6 +2,7 @@
 title: Devotion (Quest)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 difficulty: Heroic
 zone: '[[New Tunaria]]'

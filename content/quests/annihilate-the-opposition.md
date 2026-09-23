@@ -2,6 +2,7 @@
 title: Annihilate the Opposition
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: scales
 difficulty: Solo
 zone: '[[*]]'

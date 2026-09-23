@@ -2,6 +2,7 @@
 title: See with Your Heart
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '42'
 difficulty: Solo
 zone: '[[West Freeport]]'

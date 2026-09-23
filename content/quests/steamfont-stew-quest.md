@@ -2,6 +2,7 @@
 title: Steamfont Stew (Quest)
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '36'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

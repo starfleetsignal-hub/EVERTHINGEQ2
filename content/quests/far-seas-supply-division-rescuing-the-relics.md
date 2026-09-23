@@ -2,6 +2,7 @@
 title: Far Seas Supply Division - Rescuing the Relics
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: Scales
 zone: '[[The Village of Shin]]'
 timeline: '[[Tradeskill Timeline]]'

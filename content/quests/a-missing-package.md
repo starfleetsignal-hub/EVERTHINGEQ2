@@ -2,6 +2,7 @@
 title: A Missing Package
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '26'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

@@ -2,6 +2,7 @@
 title: Ancient Tablets
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

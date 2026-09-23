@@ -2,6 +2,7 @@
 title: Sabertooth Battle Plans
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '18'
 difficulty: Heroic
 zone: '[[Antonica]]'

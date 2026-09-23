@@ -1,7 +1,8 @@
 ---
 title: The Old "Switcheroo"
 type: quest
-expansion: Shattered Lands
+expansion: Kingdom of Sky
+expansion_source: timeline
 level: '1'
 difficulty: Solo
 zone: '[[The Commonlands]]'

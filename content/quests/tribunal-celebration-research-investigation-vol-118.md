@@ -2,6 +2,7 @@
 title: Tribunal Celebration Research Investigation - Vol 118
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

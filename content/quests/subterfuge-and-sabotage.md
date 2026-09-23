@@ -2,6 +2,7 @@
 title: Subterfuge and Sabotage
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Outer Kael]]'

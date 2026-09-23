@@ -2,6 +2,7 @@
 title: Be Careful What You Wish For
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '57'
 difficulty: Heroic
 zone: '[[The Shimmering Citadel]]'

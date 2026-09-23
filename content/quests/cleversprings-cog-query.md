@@ -2,6 +2,7 @@
 title: Cleverspring's Cog Query
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: scales
 difficulty: Solo
 zone: '[[*]]'

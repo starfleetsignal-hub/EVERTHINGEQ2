@@ -2,6 +2,7 @@
 title: Fallen From Beauty (Ashen Disciples)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '57'
 difficulty: Solo
 zone: '[[The Pillars of Flame]]'

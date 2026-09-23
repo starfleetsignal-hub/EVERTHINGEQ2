@@ -2,6 +2,7 @@
 title: The Eaters and the Eaten
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Sundered Splitpaw: Upper Tunnels]]'
 timeline: '[[Splitpaw Saga Timeline]]'

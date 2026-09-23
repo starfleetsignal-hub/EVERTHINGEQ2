@@ -2,6 +2,7 @@
 title: One Chip at a Time
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '83'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

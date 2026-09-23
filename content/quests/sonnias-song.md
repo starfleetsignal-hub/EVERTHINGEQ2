@@ -2,6 +2,7 @@
 title: Son'Nia's Song
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Epic
 zone: '[[The Barren Sky]]'

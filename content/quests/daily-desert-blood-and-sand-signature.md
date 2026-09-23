@@ -2,6 +2,7 @@
 title: 'Daily Desert: Blood and Sand (Signature)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Raj''Dur Plateaus: Blood and Sand (Signature)]]'

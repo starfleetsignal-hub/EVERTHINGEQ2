@@ -35,6 +35,8 @@ source:
   revision: 1801580
   revised: '2024-05-09T16:20:28Z'
   license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: patch
 ---
 
 ## Notes

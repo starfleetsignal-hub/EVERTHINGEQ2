@@ -2,6 +2,7 @@
 title: Attack of the Arachnids
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

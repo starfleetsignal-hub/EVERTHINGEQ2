@@ -2,6 +2,7 @@
 title: The Captain's New Friend
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '25'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Zek Timeline]]'

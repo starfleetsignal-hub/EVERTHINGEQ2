@@ -2,6 +2,7 @@
 title: Till Death Do They Part (Advanced Solo)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '105'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

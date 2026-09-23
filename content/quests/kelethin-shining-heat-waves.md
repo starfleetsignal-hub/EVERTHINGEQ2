@@ -2,6 +2,7 @@
 title: 'Kelethin: Shining Heat Waves'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '86'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

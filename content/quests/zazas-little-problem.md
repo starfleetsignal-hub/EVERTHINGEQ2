@@ -2,6 +2,7 @@
 title: ZaZa's Little Problem
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

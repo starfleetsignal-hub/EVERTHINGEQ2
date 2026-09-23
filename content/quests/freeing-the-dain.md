@@ -2,6 +2,7 @@
 title: Freeing the Dain
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Epic
 zone: '[[Tower of Frozen Shadow]]'

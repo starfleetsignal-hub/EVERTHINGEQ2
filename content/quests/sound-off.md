@@ -2,6 +2,7 @@
 title: Sound Off!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 difficulty: Solo
 zone: '[[Scale Yard]]'

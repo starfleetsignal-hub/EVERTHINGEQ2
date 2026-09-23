@@ -2,6 +2,7 @@
 title: Preservation Fragmentation
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 difficulty: Solo
 zone: '[[Thalumbra, the Ever Deep]]'

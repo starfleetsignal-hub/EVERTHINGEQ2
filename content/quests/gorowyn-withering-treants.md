@@ -2,6 +2,7 @@
 title: 'Gorowyn: Withering Treants'
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '92'
 zone: '[[Great Divide]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

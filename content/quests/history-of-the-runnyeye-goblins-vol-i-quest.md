@@ -1,7 +1,8 @@
 ---
 title: '"History of the Runnyeye Goblins, Vol. I" (Quest)'
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '35'
 zone: '[[Rivervale]]'
 timeline: '[[Runnyeye Timeline]]'

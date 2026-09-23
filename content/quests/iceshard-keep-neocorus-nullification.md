@@ -2,6 +2,7 @@
 title: 'Iceshard Keep: Neocorus Nullification'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Outer Kael]]'

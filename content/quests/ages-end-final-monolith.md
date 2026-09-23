@@ -2,6 +2,7 @@
 title: 'Age''s End: Final Monolith'
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '101'
 zone: '[[*]]'
 timeline: '[[Vesspyr Isles Timeline]]'

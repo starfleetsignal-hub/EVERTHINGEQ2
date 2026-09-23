@@ -2,6 +2,7 @@
 title: The Lost Artifacts
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '28'
 difficulty: Heroic
 zone: '[[Antonica]]'

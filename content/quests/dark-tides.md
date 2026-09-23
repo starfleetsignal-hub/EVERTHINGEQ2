@@ -2,6 +2,7 @@
 title: Dark Tides
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '25'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Butcherblock Mountains Timeline]]'

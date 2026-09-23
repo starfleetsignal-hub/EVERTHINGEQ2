@@ -2,6 +2,7 @@
 title: Passage to the Isle of Zek
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

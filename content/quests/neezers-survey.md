@@ -1,7 +1,8 @@
 ---
 title: Neezer's Survey
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '5'
 zone: '[[Qeynos Capitol District]]'
 journal_category: The City of Qeynos

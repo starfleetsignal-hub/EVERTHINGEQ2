@@ -2,6 +2,7 @@
 title: In Search of the Tower of the Order of Three
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[The Baubbleshire]]'

@@ -2,6 +2,7 @@
 title: Accord Assistance - To Dye For
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

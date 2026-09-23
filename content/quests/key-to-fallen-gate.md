@@ -2,6 +2,7 @@
 title: Key to Fallen Gate
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '18'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

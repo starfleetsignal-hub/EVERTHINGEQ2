@@ -2,6 +2,7 @@
 title: The Vexing Order of Bedlam
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 difficulty: Epic
 zone: '[[City of Fordel Midst]]'

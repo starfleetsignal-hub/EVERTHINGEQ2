@@ -2,6 +2,7 @@
 title: Amongst the Mad
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '57'
 difficulty: Solo
 zone: '[[The Pillars of Flame]]'

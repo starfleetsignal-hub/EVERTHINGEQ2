@@ -2,6 +2,7 @@
 title: Delivery to Prungo
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '64'
 zone: '[[Loping Plains]]'
 timeline: '[[Loping Plains Timeline]]'

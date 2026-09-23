@@ -2,6 +2,7 @@
 title: Dominating the Dervish
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 difficulty: Solo
 zone: '[[The Sprawl]]'

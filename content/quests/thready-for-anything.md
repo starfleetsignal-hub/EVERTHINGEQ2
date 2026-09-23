@@ -2,6 +2,7 @@
 title: Thready for Anything
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Doomfire: Ro''s Sweatshop (Solo)]]'

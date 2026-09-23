@@ -2,6 +2,7 @@
 title: Frivolous Crusade
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '47'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

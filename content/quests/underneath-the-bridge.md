@@ -2,6 +2,7 @@
 title: Underneath The Bridge
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 zone: '[[North Qeynos]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

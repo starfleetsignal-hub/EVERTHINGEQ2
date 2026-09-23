@@ -2,6 +2,7 @@
 title: Threads of the Desert
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

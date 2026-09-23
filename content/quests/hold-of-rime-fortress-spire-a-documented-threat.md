@@ -2,6 +2,7 @@
 title: 'Hold of Rime: Fortress Spire - A Documented Threat'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Great Divide]]'

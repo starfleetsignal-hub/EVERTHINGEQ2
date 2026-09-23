@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Greater Nathsarian Crocs'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '73'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

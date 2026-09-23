@@ -1,7 +1,8 @@
 ---
 title: Building a Better Rat Trap
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '80'
 difficulty: Solo
 zone: '[[Nektropos Castle: Craftsman Errands]]'

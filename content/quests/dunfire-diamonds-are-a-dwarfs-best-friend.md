@@ -2,6 +2,7 @@
 title: Dunfire Diamonds are a Dwarf's Best Friend
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '32'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

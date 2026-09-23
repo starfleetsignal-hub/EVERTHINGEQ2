@@ -2,6 +2,7 @@
 title: 'The Fourth Warrior, Task for the Ardent Cowl: Raem Stone'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[Mistmoore Catacombs]]'

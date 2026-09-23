@@ -2,6 +2,7 @@
 title: 'Court of Truth: Ishara''s Search'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 difficulty: Heroic
 zone: '[[The Court of Truth]]'

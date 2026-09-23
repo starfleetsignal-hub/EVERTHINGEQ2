@@ -2,6 +2,7 @@
 title: The Prison That Kraytoc Built
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Great Divide]]'

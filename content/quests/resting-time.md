@@ -2,6 +2,7 @@
 title: Resting Time
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '46'
 zone: '[[Solusek''s Eye]]'
 timeline: '[[Solusek''s Eye Timeline]]'

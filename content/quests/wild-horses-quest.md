@@ -2,6 +2,7 @@
 title: Wild Horses (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 journal_category: Thundering Steppes
 starts: examine [[Wild horses (Quest Starter)|wild horses]]

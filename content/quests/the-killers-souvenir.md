@@ -2,6 +2,7 @@
 title: The Killer's Souvenir
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '103'
 zone: '[[Temple of Veeshan: Guardian''s Edifice (Raid)]]'
 journal_category: Vesspyr Isles

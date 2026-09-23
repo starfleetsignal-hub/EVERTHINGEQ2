@@ -1,7 +1,8 @@
 ---
 title: In Search of Spiritkeepers
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '17'
 difficulty: Heroic
 zone: '[[The City of Freeport]]'

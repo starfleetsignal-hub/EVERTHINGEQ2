@@ -2,6 +2,7 @@
 title: Provisioners Fuel the Forces
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Kylong Plains]]'

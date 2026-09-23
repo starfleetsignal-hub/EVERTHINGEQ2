@@ -2,6 +2,7 @@
 title: To Discord Isle
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 difficulty: Solo
 zone: '[[The Barren Sky]]'

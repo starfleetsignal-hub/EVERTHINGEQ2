@@ -2,6 +2,7 @@
 title: Where did this come from?!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[*]]'
 journal_category: Forum Lore

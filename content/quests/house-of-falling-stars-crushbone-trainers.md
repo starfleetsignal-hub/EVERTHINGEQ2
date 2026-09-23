@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Crushbone Trainers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '16'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

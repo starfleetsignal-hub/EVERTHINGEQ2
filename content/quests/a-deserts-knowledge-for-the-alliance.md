@@ -2,6 +2,7 @@
 title: A Desert's Knowledge for the Alliance
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

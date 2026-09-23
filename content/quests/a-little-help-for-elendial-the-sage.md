@@ -2,6 +2,7 @@
 title: A Little Help For Elendial the Sage
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '14'
 difficulty: Solo
 zone: '[[Vermin''s Snye]]'

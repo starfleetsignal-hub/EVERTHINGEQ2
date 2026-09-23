@@ -1,7 +1,8 @@
 ---
 title: Summoned to Somborn
 type: quest
-expansion: Shattered Lands
+expansion: Blood of Luclin
+expansion_source: level
 level: '120'
 difficulty: Solo
 zone: '[[Loping Plains]]'

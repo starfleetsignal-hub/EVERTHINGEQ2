@@ -1,7 +1,8 @@
 ---
 title: Words of His Majesty
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: chain
 level: '96'
 difficulty: Heroic
 zone: '[[Outer Kael]]'

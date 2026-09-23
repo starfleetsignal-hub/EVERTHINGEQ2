@@ -2,6 +2,7 @@
 title: A Gathering Obsession, Part VIII
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '75'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

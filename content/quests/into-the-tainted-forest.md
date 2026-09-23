@@ -1,7 +1,8 @@
 ---
 title: Into the Tainted Forest
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '3'
 zone: '[[Queen''s Colony]]'
 timeline: '[[Isle of Refuge Timeline]]'

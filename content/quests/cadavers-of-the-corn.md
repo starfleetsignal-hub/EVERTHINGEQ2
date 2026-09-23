@@ -1,7 +1,8 @@
 ---
 title: Cadavers of the Corn
 type: quest
-expansion: Shattered Lands
+expansion: Visions of Vetrovia
+expansion_source: level
 level: '130'
 difficulty: Epic
 zone: '[[Thundering Steppes]]'

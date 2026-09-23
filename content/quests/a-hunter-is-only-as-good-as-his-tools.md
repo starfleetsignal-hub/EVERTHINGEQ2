@@ -2,6 +2,7 @@
 title: A Hunter is Only as Good as His Tools
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '74'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

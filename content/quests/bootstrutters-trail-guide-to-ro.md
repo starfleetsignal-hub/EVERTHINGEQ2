@@ -1,7 +1,8 @@
 ---
 title: Bootstrutter's Trail Guide to Ro
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '50'
 zone: '[[Prison of Admiral Grimgadget]]'
 timeline: '[[Sinking Sands Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: A Diplomatic Mission
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '5'
 zone: '[[Queen''s Colony]]'
 timeline: '[[Isle of Refuge Timeline]]'

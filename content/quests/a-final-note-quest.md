@@ -2,6 +2,7 @@
 title: A Final Note (Quest)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '51'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

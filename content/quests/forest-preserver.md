@@ -2,6 +2,7 @@
 title: Forest Preserver
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '29'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: A Favor for a Favor
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 difficulty: Solo
 zone: '[[Temple Street]]'

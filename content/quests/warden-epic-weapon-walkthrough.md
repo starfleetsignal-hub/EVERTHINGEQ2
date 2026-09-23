@@ -2,6 +2,7 @@
 title: Warden Epic Weapon Walkthrough
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 categories:
 - AA Quests
 - Darklight Wood AA Quests

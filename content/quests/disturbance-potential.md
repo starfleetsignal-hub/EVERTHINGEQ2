@@ -1,7 +1,8 @@
 ---
 title: Disturbance Potential
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: timeline
 level: '90'
 zone: '[[Great Divide]]'
 timeline: '[[Great Divide Timeline]]'

@@ -2,6 +2,7 @@
 title: Rings that Thirst
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '24'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

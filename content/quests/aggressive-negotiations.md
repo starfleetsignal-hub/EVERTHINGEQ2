@@ -2,6 +2,7 @@
 title: Aggressive Negotiations
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '48'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

@@ -2,6 +2,7 @@
 title: Trading Information
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[Sanctum of the Scaleborn]]'

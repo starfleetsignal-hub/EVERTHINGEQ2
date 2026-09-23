@@ -2,6 +2,7 @@
 title: Tending to Toxxicology
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '92'
 difficulty: Epic
 zone: '[[Lair of the Dragon Queen]]'

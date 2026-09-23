@@ -2,6 +2,7 @@
 title: Go Visit The Sprawl
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 difficulty: Solo
 zone: '[[Scale Yard]]'

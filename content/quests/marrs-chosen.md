@@ -2,6 +2,7 @@
 title: Marr's Chosen
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '50'
 difficulty: Solo
 zone: '[[The Hidden Village of Kugup]]'

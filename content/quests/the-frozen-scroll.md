@@ -2,6 +2,7 @@
 title: The Frozen Scroll
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '42'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

@@ -2,6 +2,7 @@
 title: Gruengach Quash
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

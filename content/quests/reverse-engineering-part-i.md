@@ -2,6 +2,7 @@
 title: Reverse Engineering, Part I
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '53'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

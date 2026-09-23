@@ -2,6 +2,7 @@
 title: Meeting the Family
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '50'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

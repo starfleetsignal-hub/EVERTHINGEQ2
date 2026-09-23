@@ -1,7 +1,8 @@
 ---
 title: Report to Deegli Bebbowus
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: chain
 level: '67'
 difficulty: Solo
 zone: '[[The Bonemire]]'

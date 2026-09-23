@@ -2,6 +2,7 @@
 title: Hides for Brianna
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '29'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

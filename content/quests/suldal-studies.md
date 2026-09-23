@@ -2,6 +2,7 @@
 title: Sul'Dal Studies
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

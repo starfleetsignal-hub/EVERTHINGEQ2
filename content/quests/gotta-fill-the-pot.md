@@ -2,6 +2,7 @@
 title: Gotta Fill the Pot
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 zone: '[[Western Wastes]]'
 timeline: '[[Scars of Destruction Timeline]]'

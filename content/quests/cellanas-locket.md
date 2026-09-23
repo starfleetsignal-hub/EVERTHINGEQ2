@@ -2,6 +2,7 @@
 title: Cellana's Locket
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 difficulty: Solo
 zone: '[[The Crypt of Betrayal]]'

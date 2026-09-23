@@ -2,6 +2,7 @@
 title: 'Firmament Hand: Strungstone Ascent (Solo)'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '135'
 zone: '[[Zimara Breadth]]'
 timeline: '[[Ballads of Zimara Timeline]]'

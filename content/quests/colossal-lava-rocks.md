@@ -2,6 +2,7 @@
 title: Colossal Lava Rocks
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '53'
 zone: '[[Lavastorm]]'
 timeline: '[[Lavastorm Timeline]]'

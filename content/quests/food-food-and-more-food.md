@@ -2,6 +2,7 @@
 title: Food, Food, and More Food!
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '83'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: Starving for Information
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '38'
 zone: '[[Zek, the Orcish Wastes]]'
 timeline: '[[Zek Timeline]]'

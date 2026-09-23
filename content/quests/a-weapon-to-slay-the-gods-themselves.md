@@ -2,6 +2,7 @@
 title: A Weapon to Slay the Gods Themselves
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[*]]'

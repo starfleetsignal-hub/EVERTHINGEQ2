@@ -1,7 +1,8 @@
 ---
 title: 'Sabotage: The Poisoned Grain'
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '20'
 zone: '[[The Commonlands]]'
 timeline: '[[Betrayal Timeline]]'

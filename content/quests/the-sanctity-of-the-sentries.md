@@ -2,6 +2,7 @@
 title: The Sanctity of the Sentries
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -2,6 +2,7 @@
 title: The Calling of Thule
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 difficulty: Heroic
 zone: '[[The Temple of Cazic-Thule]]'

@@ -2,6 +2,7 @@
 title: The Grim Diggers
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '21'
 difficulty: Heroic
 zone: '[[South Freeport]]'

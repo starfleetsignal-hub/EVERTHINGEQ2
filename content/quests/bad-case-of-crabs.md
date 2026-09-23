@@ -2,6 +2,7 @@
 title: Bad Case of Crabs
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 difficulty: Solo
 zone: '[[North Freeport]]'

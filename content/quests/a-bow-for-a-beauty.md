@@ -2,6 +2,7 @@
 title: A Bow for a Beauty
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '13'
 difficulty: Solo
 zone: '[[Antonica]]'

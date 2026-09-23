@@ -2,6 +2,7 @@
 title: Binding to the Dark
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '128'
 difficulty: Epic
 zone: '[[*]]'

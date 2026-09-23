@@ -1,7 +1,8 @@
 ---
 title: Marta Terrilon's Fur Hunt
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '48'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

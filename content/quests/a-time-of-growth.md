@@ -2,6 +2,7 @@
 title: A Time of Growth
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

@@ -2,6 +2,7 @@
 title: History of the Trials
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '23'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

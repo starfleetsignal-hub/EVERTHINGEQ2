@@ -2,6 +2,7 @@
 title: Further Research
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

@@ -1,7 +1,8 @@
 ---
 title: 'Freeport: Dreadooze'
 type: quest
-expansion: Shattered Lands
+expansion: Destiny of Velious
+expansion_source: level
 level: '94'
 difficulty: Solo
 zone: '[[Great Divide]]'

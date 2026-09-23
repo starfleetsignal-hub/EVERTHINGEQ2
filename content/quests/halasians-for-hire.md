@@ -2,6 +2,7 @@
 title: Halasians for Hire
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '50'
 zone: '[[*]]'
 timeline: '[[Shipwrecked Timeline]]'

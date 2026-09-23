@@ -2,6 +2,7 @@
 title: Blinding the Visions
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '65'
 zone: '[[North Qeynos]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

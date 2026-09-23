@@ -2,6 +2,7 @@
 title: Hopefully the Meat Isn't Timeworn
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '3'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

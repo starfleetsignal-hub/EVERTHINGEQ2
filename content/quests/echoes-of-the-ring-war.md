@@ -1,7 +1,8 @@
 ---
 title: Echoes of the Ring War
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '90'
 zone: '[[Great Divide]]'
 journal_category: Public

@@ -1,7 +1,8 @@
 ---
 title: Mysterious Machine
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '8'
 difficulty: Solo
 zone: '[[The Peat Bog]]'

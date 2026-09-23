@@ -2,6 +2,7 @@
 title: 'Part Time Help: II'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

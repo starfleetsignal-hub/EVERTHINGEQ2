@@ -2,6 +2,7 @@
 title: Dying to Have You
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '107'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

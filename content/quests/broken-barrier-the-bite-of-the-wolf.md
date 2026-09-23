@@ -2,6 +2,7 @@
 title: 'Broken Barrier: The Bite of the Wolf'
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Heroic
 zone: '[[Darklight Wood]]'

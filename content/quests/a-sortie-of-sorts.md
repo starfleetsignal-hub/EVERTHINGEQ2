@@ -2,6 +2,7 @@
 title: A Sortie Of Sorts
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[The Vasty Deep]]'

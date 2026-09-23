@@ -2,6 +2,7 @@
 title: 'Guide Quest: Guides Guide to the Celestial Realms!'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

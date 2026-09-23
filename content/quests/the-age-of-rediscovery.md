@@ -27,6 +27,8 @@ source:
   revision: 1889542
   revised: '2025-09-17T10:05:12Z'
   license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: patch
 ---
 
 ## Steps

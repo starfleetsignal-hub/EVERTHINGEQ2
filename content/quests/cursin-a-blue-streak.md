@@ -2,6 +2,7 @@
 title: Cursin' a Blue Streak
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '80'
 difficulty: Heroic
 zone: '[[Kunzar Jungle]]'

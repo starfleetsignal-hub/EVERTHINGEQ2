@@ -2,6 +2,7 @@
 title: Dead River Defender
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: Scales
 zone: '[[Thundering Steppes]]'
 journal_category: World Event

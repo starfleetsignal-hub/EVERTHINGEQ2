@@ -2,6 +2,7 @@
 title: 'Guide event: Void Invasion of Qeynos'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[North Qeynos]]'
 journal_category: World Event

@@ -2,6 +2,7 @@
 title: Proaction
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '26'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

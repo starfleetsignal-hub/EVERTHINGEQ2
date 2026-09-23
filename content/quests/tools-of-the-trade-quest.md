@@ -1,7 +1,8 @@
 ---
 title: Tools of the Trade (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '18'
 zone: '[[Darklight Wood]]'
 timeline: '[[Darklight Wood Timeline]]'

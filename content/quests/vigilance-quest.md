@@ -2,6 +2,7 @@
 title: Vigilance (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Heroic
 zone: '[[Stormhold]]'

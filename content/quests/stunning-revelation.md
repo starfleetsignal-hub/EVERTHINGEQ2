@@ -1,7 +1,8 @@
 ---
 title: Stunning Revelation
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '9'
 difficulty: Solo
 zone: '[[Darklight Wood]]'

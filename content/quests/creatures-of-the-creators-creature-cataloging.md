@@ -2,6 +2,7 @@
 title: Creatures of the Creators Creature Cataloging
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '35'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

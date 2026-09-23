@@ -2,6 +2,7 @@
 title: Into the Past
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[The Pillars of Flame]]'

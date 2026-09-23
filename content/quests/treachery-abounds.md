@@ -2,6 +2,7 @@
 title: Treachery Abounds
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '35'
 difficulty: Heroic
 zone: '[[New Halas]]'

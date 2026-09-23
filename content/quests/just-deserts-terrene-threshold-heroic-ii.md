@@ -2,6 +2,7 @@
 title: 'Just Deserts: Terrene Threshold (Heroic II)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Heroic
 zone: '[[Raj''Dur Plateaus]]'

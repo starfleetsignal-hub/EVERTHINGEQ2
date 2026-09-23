@@ -2,6 +2,7 @@
 title: The Captain's Lament
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '93'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

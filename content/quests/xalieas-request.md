@@ -1,7 +1,8 @@
 ---
 title: Xaliea's Request
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '6'
 difficulty: Solo
 zone: '[[Outpost of the Overlord]]'

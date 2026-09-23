@@ -1,7 +1,8 @@
 ---
 title: 'Paying Off a Tab: Fish Fry'
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '85'
 difficulty: Solo
 zone: '[[Fens of Nathsar]]'

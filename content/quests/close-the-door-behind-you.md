@@ -37,6 +37,8 @@ source:
   revision: 1801635
   revised: '2024-05-09T20:42:55Z'
   license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: patch
 ---
 
 ***This quest scales to the level of the character!***

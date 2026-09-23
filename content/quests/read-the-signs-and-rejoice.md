@@ -2,6 +2,7 @@
 title: Read the Signs and Rejoice
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '47'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

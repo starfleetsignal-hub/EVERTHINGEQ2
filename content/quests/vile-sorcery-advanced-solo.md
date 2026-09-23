@@ -2,6 +2,7 @@
 title: Vile Sorcery (Advanced Solo)
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '105'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

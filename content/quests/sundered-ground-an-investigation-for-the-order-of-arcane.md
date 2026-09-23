@@ -2,6 +2,7 @@
 title: Sundered Ground, an Investigation for the Order of Arcane
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Greater Faydark]]'

@@ -2,6 +2,7 @@
 title: Fur Lined Gloves (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '18'
 difficulty: Solo
 zone: '[[Antonica]]'

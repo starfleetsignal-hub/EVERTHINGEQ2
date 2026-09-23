@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Refuge Return'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '96'
 difficulty: Heroic
 zone: '[[Tranquil Sea]]'

@@ -2,6 +2,7 @@
 title: Harvesting the Fungus
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

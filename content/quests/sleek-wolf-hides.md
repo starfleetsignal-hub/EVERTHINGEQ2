@@ -2,6 +2,7 @@
 title: Sleek Wolf Hides
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

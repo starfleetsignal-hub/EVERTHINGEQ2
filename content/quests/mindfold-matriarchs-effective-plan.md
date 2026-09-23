@@ -2,6 +2,7 @@
 title: Mindfold Matriarch's Effective Plan
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '107'
 difficulty: Solo
 zone: '[[Plane of Magic]]'

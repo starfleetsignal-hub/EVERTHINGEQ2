@@ -2,6 +2,7 @@
 title: Far Seas Traitor Company
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '105'
 difficulty: Heroic
 zone: '[[*]]'

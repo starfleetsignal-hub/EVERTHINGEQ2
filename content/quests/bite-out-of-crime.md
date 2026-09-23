@@ -2,6 +2,7 @@
 title: Bite Out of Crime
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '41'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

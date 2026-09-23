@@ -2,6 +2,7 @@
 title: 'Gorowyn: The Roots of Horror'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '81'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

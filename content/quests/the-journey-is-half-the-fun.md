@@ -2,6 +2,7 @@
 title: The Journey is Half the Fun
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 difficulty: Heroic
 zone: '[[Antonica]]'

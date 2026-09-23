@@ -2,6 +2,7 @@
 title: The Pursuit of Happiness
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 difficulty: Solo
 zone: '[[West Freeport]]'

@@ -2,6 +2,7 @@
 title: The Commander's Wife (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '30'
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

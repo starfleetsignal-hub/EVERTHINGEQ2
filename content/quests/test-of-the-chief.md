@@ -2,6 +2,7 @@
 title: Test of the Chief
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

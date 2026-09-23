@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Wetlands Skimmers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '60'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

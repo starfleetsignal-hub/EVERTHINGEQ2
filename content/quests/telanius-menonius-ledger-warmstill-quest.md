@@ -2,6 +2,7 @@
 title: Telanius Menonius Ledger - Warmstill (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 difficulty: Heroic
 zone: '[[*]]'
 journal_category: Obelisk of Lost Souls

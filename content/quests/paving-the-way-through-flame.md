@@ -2,6 +2,7 @@
 title: Paving The Way Through Flame
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

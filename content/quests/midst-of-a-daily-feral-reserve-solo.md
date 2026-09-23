@@ -2,6 +2,7 @@
 title: 'Midst of a Daily: Feral Reserve (Solo)'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 difficulty: Heroic
 zone: '[[City of Fordel Midst]]'

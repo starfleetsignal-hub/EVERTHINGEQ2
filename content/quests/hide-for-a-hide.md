@@ -2,6 +2,7 @@
 title: Hide for a Hide
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '54'
 difficulty: Solo
 zone: '[[The Pillars of Flame]]'

@@ -2,6 +2,7 @@
 title: 'Hold of Rime: Forgotten Pools - Relics of the Lost'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '94'
 difficulty: Heroic
 zone: '[[Great Divide]]'

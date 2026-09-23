@@ -2,6 +2,7 @@
 title: Scientific Progression
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '93'
 difficulty: heroic
 zone: '[[The Sundered Frontier]]'

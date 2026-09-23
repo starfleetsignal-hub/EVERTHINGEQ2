@@ -2,6 +2,7 @@
 title: G.W.A. Gnemlin With Attitude
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '100'
 difficulty: Epic
 zone: '[[Maldura: Bhoughbh''s Folly (X2 Raid)]]'

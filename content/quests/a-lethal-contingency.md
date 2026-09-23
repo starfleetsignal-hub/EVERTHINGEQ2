@@ -1,7 +1,8 @@
 ---
 title: A Lethal Contingency
 type: quest
-expansion: Shattered Lands
+expansion: Chains of Eternity
+expansion_source: timeline
 level: '95'
 difficulty: Solo
 zone: '[[Cobalt Scar]]'

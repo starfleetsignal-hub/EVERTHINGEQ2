@@ -2,6 +2,7 @@
 title: Hyena Jerky (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '11'
 difficulty: Solo
 zone: '[[The Commonlands]]'

@@ -2,6 +2,7 @@
 title: History of the Condemned Catacomb
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 difficulty: Heroic
 zone: '[[Antonica]]'

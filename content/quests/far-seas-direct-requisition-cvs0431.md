@@ -1,7 +1,8 @@
 ---
 title: Far Seas Direct Requisition CVS0431
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '10'
 difficulty: Solo
 zone: '[[The Caves]]'

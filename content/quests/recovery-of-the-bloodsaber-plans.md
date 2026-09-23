@@ -2,6 +2,7 @@
 title: Recovery of the Bloodsaber Plans
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '18'
 difficulty: Heroic
 zone: '[[The Elddar Grove]]'

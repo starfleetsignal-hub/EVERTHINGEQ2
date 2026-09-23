@@ -1,7 +1,8 @@
 ---
 title: Clearing the Eye
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: chain
 level: '90'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

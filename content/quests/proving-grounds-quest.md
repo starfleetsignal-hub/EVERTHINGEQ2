@@ -2,6 +2,7 @@
 title: Proving Grounds (Quest)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '58'
 difficulty: Solo
 zone: '[[The Pillars of Flame]]'

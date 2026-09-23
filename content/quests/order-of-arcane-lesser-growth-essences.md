@@ -2,6 +2,7 @@
 title: 'Order of Arcane: Lesser Growth Essences'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '52'
 difficulty: Solo
 zone: '[[The Lesser Faydark]]'

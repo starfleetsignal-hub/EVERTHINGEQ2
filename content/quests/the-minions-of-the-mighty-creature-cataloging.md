@@ -2,6 +2,7 @@
 title: The Minions of the Mighty Creature Cataloging
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '55'
 zone: '[[*]]'
 timeline: '[[Book Quests Timeline]]'

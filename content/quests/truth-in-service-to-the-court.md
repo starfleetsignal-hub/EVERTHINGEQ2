@@ -2,6 +2,7 @@
 title: 'Truth: In Service to the Court'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 zone: '[[The Sinking Sands]]'
 timeline: '[[Court of Truth Timeline]]'

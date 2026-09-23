@@ -1,0 +1,22 @@
+---
+title: Celestial Realm Notions
+type: quest
+level: '20'
+categories:
+- Census Credits
+- Collection Quests
+- Collections that reward House Items
+- Jubilee (CQ Category)
+- Quests
+- Tier 3 Collection Quests
+- Triad of Elements (Solo) Collection Quests
+source:
+  title: Celestial Realm Notions
+  url: https://eq2.fandom.com/wiki/Celestial_Realm_Notions
+  history: https://eq2.fandom.com/wiki/Celestial_Realm_Notions?action=history
+  revision: 1877482
+  revised: '2025-06-17T21:52:34Z'
+  license: CC BY-SA 3.0
+---
+
+There's only 2 purple shinies per instance. Reset instance to refresh.

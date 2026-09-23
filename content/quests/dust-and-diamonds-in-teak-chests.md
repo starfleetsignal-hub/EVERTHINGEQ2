@@ -2,6 +2,7 @@
 title: Dust And Diamonds In Teak Chests
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '33'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

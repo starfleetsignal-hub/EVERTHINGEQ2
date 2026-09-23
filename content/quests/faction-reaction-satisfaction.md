@@ -2,6 +2,7 @@
 title: Faction Reaction Satisfaction
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '110'
 difficulty: solo
 zone: '[[Plane of Magic]]'

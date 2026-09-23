@@ -2,6 +2,7 @@
 title: 'Di''Zok Intelligence: Queue''s Plan'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '72'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

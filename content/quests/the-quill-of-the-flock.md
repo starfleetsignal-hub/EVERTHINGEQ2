@@ -2,6 +2,7 @@
 title: The Quill of the Flock
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 difficulty: Heroic
 zone: '[[Palace of the Awakened]]'

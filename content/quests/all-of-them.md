@@ -2,6 +2,7 @@
 title: All of Them...
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: Sobering Remedy
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 zone: '[[Qeynos Capitol District]]'
 journal_category: The City of Qeynos

@@ -2,6 +2,7 @@
 title: I Hate Those Wimmin
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '36'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

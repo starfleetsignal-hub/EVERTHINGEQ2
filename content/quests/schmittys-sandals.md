@@ -2,6 +2,7 @@
 title: Schmitty's Sandals
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '21'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

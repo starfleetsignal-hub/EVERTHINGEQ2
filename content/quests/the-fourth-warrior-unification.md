@@ -2,6 +2,7 @@
 title: The Fourth Warrior - Unification
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Cloak of Flames Timeline]]'

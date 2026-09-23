@@ -2,6 +2,7 @@
 title: Subordination Insubordination
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '98'
 difficulty: Epic
 zone: '[[The Stonebrunt Highlands]]'

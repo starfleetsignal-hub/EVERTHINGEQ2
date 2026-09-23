@@ -1,7 +1,8 @@
 ---
 title: Far Seas Supply Division - Restocking the Stores
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: chain
 level: '80'
 difficulty: Solo
 zone: '[[The Village of Shin]]'

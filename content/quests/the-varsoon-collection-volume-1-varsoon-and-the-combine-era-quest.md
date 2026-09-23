@@ -2,6 +2,7 @@
 title: The Varsoon Collection, Volume 1 - Varsoon and the Combine Era (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 zone: '[[The Ruins of Varsoon]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

@@ -1,7 +1,8 @@
 ---
 title: 'A Rune Awakening: Moors of Ykesha'
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '25'
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

@@ -2,6 +2,7 @@
 title: Termite Troubles, Part II
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'

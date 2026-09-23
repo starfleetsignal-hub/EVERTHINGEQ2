@@ -2,6 +2,7 @@
 title: Officer Training - Deep Sea Diving
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'

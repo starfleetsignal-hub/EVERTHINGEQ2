@@ -2,6 +2,7 @@
 title: An Abandoned Boat
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '11'
 difficulty: Solo
 zone: '[[The Commonlands]]'

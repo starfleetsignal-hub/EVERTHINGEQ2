@@ -2,6 +2,7 @@
 title: Smite the Enemies of Tupta! - Every One!
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

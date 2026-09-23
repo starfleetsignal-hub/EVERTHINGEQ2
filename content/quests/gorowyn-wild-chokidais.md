@@ -2,6 +2,7 @@
 title: 'Gorowyn: Wild Chokidais'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '12'
 zone: '[[Timorous Deep]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

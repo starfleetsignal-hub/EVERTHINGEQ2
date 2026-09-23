@@ -2,6 +2,7 @@
 title: The Visage of Aeristok (Quest)
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '67'
 difficulty: Heroic
 zone: '[[Palace of the Awakened]]'

@@ -1,7 +1,8 @@
 ---
 title: For the Lonce
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: Scales
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[The City of Qeynos Timeline]]'

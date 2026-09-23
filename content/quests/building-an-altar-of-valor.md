@@ -2,6 +2,7 @@
 title: Building an Altar of Valor
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '20'
 zone: '[[Greater Faydark]]'
 timeline: '[[Deity Timeline]]'

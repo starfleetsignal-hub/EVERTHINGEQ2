@@ -2,6 +2,7 @@
 title: The Abhorrent Ring (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '10'
 difficulty: Heroic
 zone: '[[The Wailing Caves]]'

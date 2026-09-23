@@ -1,7 +1,8 @@
 ---
 title: Assassinating Demitrik
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '90'
 difficulty: Heroic
 zone: '[[The Sundered Frontier]]'

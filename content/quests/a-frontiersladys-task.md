@@ -2,6 +2,7 @@
 title: A Frontierslady's Task
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '15'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

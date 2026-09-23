@@ -2,6 +2,7 @@
 title: The Relic of Underfoot (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '38'
 difficulty: Heroic
 zone: '[[Zek, the Orcish Wastes]]'

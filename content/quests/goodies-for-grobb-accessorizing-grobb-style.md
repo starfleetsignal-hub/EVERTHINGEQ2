@@ -2,6 +2,7 @@
 title: Goodies for Grobb - Accessorizing, Grobb Style
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Moors of Ykesha Timeline]]'

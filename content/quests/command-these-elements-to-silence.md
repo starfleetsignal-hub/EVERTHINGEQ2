@@ -2,6 +2,7 @@
 title: Command These Elements to Silence
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '40'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

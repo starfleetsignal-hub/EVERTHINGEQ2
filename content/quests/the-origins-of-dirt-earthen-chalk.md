@@ -2,6 +2,7 @@
 title: 'The Origins of Dirt: Earthen Chalk'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Detroxxulous, the Plaguelands]]'

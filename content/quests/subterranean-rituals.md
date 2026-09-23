@@ -2,6 +2,7 @@
 title: Subterranean Rituals
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '23'
 difficulty: Heroic
 zone: '[[North Freeport]]'

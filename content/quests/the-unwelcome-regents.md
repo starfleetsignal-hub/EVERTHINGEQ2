@@ -2,6 +2,7 @@
 title: The Unwelcome Regents
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '35'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

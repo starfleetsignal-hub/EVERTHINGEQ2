@@ -2,6 +2,7 @@
 title: Forgotten Complications
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

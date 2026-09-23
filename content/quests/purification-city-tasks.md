@@ -2,6 +2,7 @@
 title: Purification (City Tasks)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '48'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

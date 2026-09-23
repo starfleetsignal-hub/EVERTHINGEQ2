@@ -1,7 +1,8 @@
 ---
 title: Tinmizer's Astounding Frost Disruptor
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '38'
 zone: '[[Rivervale]]'
 timeline: '[[Everfrost Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Blessings of Growth: Antonica'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 zone: '[[Antonica]]'
 journal_category: Antonica

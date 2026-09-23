@@ -2,6 +2,7 @@
 title: Report To Enforcer Kurdek
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 zone: '[[Scale Yard]]'
 timeline: '[[Freeport Racial Timeline]]'

@@ -2,6 +2,7 @@
 title: Strange Sensations
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[*]]'
 journal_category: World Event

@@ -1,7 +1,8 @@
 ---
 title: The Engraved Torch
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '49'
 difficulty: Heroic
 zone: '[[Lavastorm]]'

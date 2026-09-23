@@ -2,6 +2,7 @@
 title: Goblin Diplomacy
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '56'
 zone: '[[The Pillars of Flame]]'
 timeline: '[[Pillars of Flame Timeline]]'

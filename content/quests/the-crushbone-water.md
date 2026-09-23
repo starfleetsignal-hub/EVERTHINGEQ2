@@ -2,6 +2,7 @@
 title: The Crushbone Water
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '18'
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'

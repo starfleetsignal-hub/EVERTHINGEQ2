@@ -1,7 +1,8 @@
 ---
 title: The Crossing of the Fanged Sea
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '40'
 difficulty: Heroic
 zone: '[[Zek, the Orcish Wastes]]'

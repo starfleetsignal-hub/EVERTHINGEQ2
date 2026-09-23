@@ -1,7 +1,8 @@
 ---
 title: Gyrok Deepfreeze (Quest)
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '51'
 journal_category: Permafrost
 starts: examine [[Gyrok deepfreeze (Quest Starter)|gyrok deepfreeze]]

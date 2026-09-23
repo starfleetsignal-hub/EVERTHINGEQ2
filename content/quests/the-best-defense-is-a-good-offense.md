@@ -2,6 +2,7 @@
 title: The Best Defense Is a Good Offense
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '38'
 difficulty: Solo
 zone: '[[West Freeport]]'

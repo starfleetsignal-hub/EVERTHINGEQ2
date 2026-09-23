@@ -2,6 +2,7 @@
 title: Putting a Curse to Rest
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '81'
 difficulty: heroic
 zone: '[[The Commonlands]]'

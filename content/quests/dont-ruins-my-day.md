@@ -2,6 +2,7 @@
 title: Don't Ruins My Day...
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '78'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'

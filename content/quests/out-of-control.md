@@ -2,6 +2,7 @@
 title: Out of Control!
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '46'
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Steamfont Mountains Timeline]]'

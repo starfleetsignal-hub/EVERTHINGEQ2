@@ -2,6 +2,7 @@
 title: Returning to Mentha
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '14'
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'

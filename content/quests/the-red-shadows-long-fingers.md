@@ -2,6 +2,7 @@
 title: The Red Shadow's Long Fingers
 type: quest
 expansion: Tears of Veeshan
+expansion_source: questline
 level: '101'
 difficulty: Solo
 zone: '[[Vesspyr Isles]]'

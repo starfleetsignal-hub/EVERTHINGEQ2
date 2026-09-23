@@ -2,6 +2,7 @@
 title: Fighting Swamp Foot
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: Scales
 difficulty: solo
 zone: '[[Moors of Ykesha]]'

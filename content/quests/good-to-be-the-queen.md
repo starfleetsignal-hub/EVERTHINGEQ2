@@ -1,7 +1,8 @@
 ---
 title: Good to be the Queen
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '91'
 difficulty: Heroic
 zone: '[[The Withered Lands]]'

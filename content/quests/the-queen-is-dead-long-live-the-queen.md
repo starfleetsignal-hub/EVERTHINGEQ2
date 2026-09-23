@@ -2,6 +2,7 @@
 title: The Queen is Dead, Long Live the Queen!
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '103'
 difficulty: Heroic
 zone: '[[*]]'

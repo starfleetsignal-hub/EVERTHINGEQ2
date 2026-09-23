@@ -2,6 +2,7 @@
 title: Lost Friend in Fallen Gate
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Heroic
 zone: '[[Fallen Gate]]'

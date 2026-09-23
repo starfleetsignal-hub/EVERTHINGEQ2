@@ -2,6 +2,7 @@
 title: Dragon Attack!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 zone: '[[*]]'
 journal_category: Mission
 starts: attack the dragon while the pq is active

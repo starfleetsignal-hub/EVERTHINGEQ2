@@ -2,6 +2,7 @@
 title: The Half Eaten Order Slip
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '12'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

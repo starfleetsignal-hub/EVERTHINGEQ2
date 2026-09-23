@@ -2,6 +2,7 @@
 title: Stench of the Void
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '38'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

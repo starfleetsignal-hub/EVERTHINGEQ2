@@ -2,6 +2,7 @@
 title: 'Drednever Expedition: Unto the Breach!'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '48'
 difficulty: Heroic
 zone: '[[Solusek''s Eye]]'

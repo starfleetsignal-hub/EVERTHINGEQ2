@@ -2,6 +2,7 @@
 title: Shredmistress Ikaika (Quest)
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '89'
 zone: '[[The Stonebrunt Highlands]]'
 timeline: '[[The Stonebrunt Highlands Timeline]]'

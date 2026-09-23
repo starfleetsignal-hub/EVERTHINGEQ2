@@ -2,6 +2,7 @@
 title: The Guide's Guide to Ballads of Zimara
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 difficulty: Heroic
 timeline: '[[Ballads of Zimara Timeline]]'

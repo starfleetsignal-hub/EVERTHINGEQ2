@@ -2,6 +2,7 @@
 title: 'Host of Thyr. Act III: Reckoning'
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '49'
 difficulty: Heroic
 zone: '[[Solusek''s Eye]]'

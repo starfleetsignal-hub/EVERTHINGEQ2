@@ -2,6 +2,7 @@
 title: Bullying the Bully
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '8'
 difficulty: Solo
 zone: '[[The Sprawl]]'

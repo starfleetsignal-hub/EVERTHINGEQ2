@@ -2,6 +2,7 @@
 title: Dazzle Defenses
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '112'
 difficulty: Solo
 zone: '[[The Blinding]]'

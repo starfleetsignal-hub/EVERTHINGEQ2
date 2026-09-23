@@ -2,6 +2,7 @@
 title: Not as Convincing
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '45'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

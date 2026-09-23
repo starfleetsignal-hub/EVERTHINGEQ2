@@ -2,6 +2,7 @@
 title: Lord Grimrot's Scythe
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '18'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

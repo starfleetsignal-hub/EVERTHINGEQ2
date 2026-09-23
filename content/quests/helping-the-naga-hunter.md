@@ -2,6 +2,7 @@
 title: Helping the Naga Hunter
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '58'
 zone: '[[The Pillars of Flame]]'
 timeline: '[[Maj''Dul Timeline]]'

@@ -2,6 +2,7 @@
 title: The Blade Within the Keep
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

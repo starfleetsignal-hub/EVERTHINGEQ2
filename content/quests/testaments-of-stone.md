@@ -2,6 +2,7 @@
 title: Testaments of Stone
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Deity Timeline]]'

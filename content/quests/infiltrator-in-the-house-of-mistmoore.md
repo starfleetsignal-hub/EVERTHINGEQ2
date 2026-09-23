@@ -2,6 +2,7 @@
 title: Infiltrator in the House of Mistmoore
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '74'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

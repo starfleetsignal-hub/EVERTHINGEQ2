@@ -1,7 +1,8 @@
 ---
 title: Moving to Qeynos
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: chain
 level: Scales
 zone: '[[Greater Faydark]]'
 journal_category: Betrayal

@@ -1,7 +1,8 @@
 ---
 title: A Raging Mess
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '39'
 zone: '[[Runnyeye]]'
 timeline: '[[Runnyeye Timeline]]'

@@ -2,6 +2,7 @@
 title: A Hint of Fear
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

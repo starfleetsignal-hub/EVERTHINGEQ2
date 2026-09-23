@@ -2,6 +2,7 @@
 title: Platinum Key of Fabled Rujark
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '1'
 journal_category: Fabled Clefts of Rujark
 categories:

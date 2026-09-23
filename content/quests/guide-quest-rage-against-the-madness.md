@@ -2,6 +2,7 @@
 title: 'Guide Quest: Rage Against the Madness'
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '132'
 difficulty: Heroic
 zone: '[[Yon Gorroth]]'

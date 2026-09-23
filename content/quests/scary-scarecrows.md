@@ -1,7 +1,8 @@
 ---
 title: Scary Scarecrows
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '26'
 difficulty: Heroic
 zone: '[[Antonica]]'

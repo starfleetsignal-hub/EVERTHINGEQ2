@@ -2,6 +2,7 @@
 title: 'Gorowyn: Broken Toe Shamans'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 zone: '[[Kylong Plains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

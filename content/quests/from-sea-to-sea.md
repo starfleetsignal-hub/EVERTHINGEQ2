@@ -2,6 +2,7 @@
 title: From Sea to Sea
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '27'
 difficulty: Heroic
 zone: '[[Qeynos Harbor]]'

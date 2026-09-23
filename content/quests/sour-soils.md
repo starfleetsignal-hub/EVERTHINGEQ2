@@ -2,6 +2,7 @@
 title: Sour Soils
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '38'
 zone: '[[Enchanted Lands]]'
 timeline: '[[Enchanted Lands Timeline]]'

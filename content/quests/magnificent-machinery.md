@@ -1,7 +1,8 @@
 ---
 title: Magnificent Machinery
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '7'
 zone: '[[The Forest Ruins]]'
 journal_category: Forest Ruins

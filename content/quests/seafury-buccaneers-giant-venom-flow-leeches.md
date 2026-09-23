@@ -2,6 +2,7 @@
 title: 'Seafury Buccaneers: Giant Venom Flow Leeches'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '74'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

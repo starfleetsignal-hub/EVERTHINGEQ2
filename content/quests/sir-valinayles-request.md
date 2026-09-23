@@ -2,6 +2,7 @@
 title: Sir Valinayle's Request
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 difficulty: Heroic
 zone: '[[Stormhold]]'

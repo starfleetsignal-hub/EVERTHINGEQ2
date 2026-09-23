@@ -2,6 +2,7 @@
 title: A Weapon Worthy of Tales Told
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '108'
 difficulty: Heroic
 zone: '[[The Keep]]'

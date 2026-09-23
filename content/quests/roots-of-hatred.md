@@ -2,6 +2,7 @@
 title: Roots of Hatred
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '1'
 zone: '[[Timorous Deep]]'
 timeline: '[[Timorous Deep Timeline]]'

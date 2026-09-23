@@ -2,6 +2,7 @@
 title: 'Gorowyn: Krulkiel Carvers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '28'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

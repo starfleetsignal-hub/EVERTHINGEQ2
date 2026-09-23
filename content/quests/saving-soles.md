@@ -2,6 +2,7 @@
 title: Saving Soles
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '50'
 difficulty: Epic
 zone: '[[Lavastorm]]'

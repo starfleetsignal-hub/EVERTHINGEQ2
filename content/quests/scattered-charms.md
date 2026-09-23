@@ -1,7 +1,8 @@
 ---
 title: Scattered Charms
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[*]]'

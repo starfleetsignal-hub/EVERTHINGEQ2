@@ -2,6 +2,7 @@
 title: Ravenous Grizzlies
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Solo
 zone: '[[West Freeport]]'

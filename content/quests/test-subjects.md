@@ -2,6 +2,7 @@
 title: Test Subjects
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '38'
 difficulty: Heroic
 zone: '[[The Feerrott]]'

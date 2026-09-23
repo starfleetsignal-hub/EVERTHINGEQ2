@@ -2,6 +2,7 @@
 title: Air Fare
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '80'
 zone: '[[*]]'
 timeline: '[[Shipwrecked Timeline]]'

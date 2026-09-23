@@ -2,6 +2,7 @@
 title: 'Of Fire and Ice: The Flame Disciple''s Ring'
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 difficulty: Solo
 zone: '[[The Tower of the Moon]]'

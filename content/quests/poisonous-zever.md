@@ -2,6 +2,7 @@
 title: Poisonous Zever
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '22'
 zone: '[[Scale Yard]]'
 journal_category: Scale Yard

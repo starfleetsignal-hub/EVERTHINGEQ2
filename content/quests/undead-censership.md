@@ -2,6 +2,7 @@
 title: Undead Censership
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Solo
 zone: '[[The Living Tombs]]'

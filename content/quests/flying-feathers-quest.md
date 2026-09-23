@@ -2,6 +2,7 @@
 title: Flying Feathers (Quest)
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '90'
 zone: '[[*]]'
 timeline: '[[Shipwrecked Timeline]]'

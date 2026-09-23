@@ -2,6 +2,7 @@
 title: 'Neriak: Bastion Beating'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '80'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[Neriak City Tasks Timeline]]'

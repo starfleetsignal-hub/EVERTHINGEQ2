@@ -2,6 +2,7 @@
 title: No, I Am the Prettiest!
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '42'
 difficulty: Heroic
 zone: '[[Qeynos Province District]]'

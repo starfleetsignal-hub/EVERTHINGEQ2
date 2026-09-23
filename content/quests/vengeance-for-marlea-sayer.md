@@ -2,6 +2,7 @@
 title: Vengeance for Marlea Sayer
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '21'
 zone: '[[Antonica]]'
 timeline: '[[Antonica Timeline]]'

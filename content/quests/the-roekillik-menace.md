@@ -2,6 +2,7 @@
 title: The Roekillik Menace
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: heroic
 zone: '[[The Hole]]'

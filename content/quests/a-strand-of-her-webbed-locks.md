@@ -1,7 +1,8 @@
 ---
 title: A Strand of Her Webbed Locks
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: level
 level: '92'
 difficulty: Heroic
 zone: '[[Crystal Caverns: Collapse]]'

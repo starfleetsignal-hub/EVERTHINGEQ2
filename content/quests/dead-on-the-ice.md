@@ -2,6 +2,7 @@
 title: Dead on the Ice
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '92'
 zone: '[[Eastern Wastes]]'
 timeline: '[[Eastern Wastes Timeline]]'

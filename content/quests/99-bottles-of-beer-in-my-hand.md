@@ -2,6 +2,7 @@
 title: 99 Bottles of Beer in My Hand
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '6'
 zone: '[[Beggar''s Court]]'
 journal_category: Beggar's Court

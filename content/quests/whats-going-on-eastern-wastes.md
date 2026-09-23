@@ -2,6 +2,7 @@
 title: What's Going On? (Eastern Wastes)
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Eastern Wastes]]'

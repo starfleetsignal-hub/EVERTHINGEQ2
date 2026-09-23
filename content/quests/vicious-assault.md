@@ -2,6 +2,7 @@
 title: Vicious Assault
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '31'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[Thundering Steppes Timeline]]'

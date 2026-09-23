@@ -2,6 +2,7 @@
 title: More Refined Parts
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '78'
 difficulty: Heroic
 zone: '[[Kunzar Jungle]]'

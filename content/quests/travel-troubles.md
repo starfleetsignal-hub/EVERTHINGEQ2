@@ -2,6 +2,7 @@
 title: Travel Troubles
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '16'
 difficulty: Heroic
 zone: '[[North Freeport]]'

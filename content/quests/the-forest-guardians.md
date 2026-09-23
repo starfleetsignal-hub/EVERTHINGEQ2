@@ -2,6 +2,7 @@
 title: The Forest Guardians
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '101'
 difficulty: Heroic
 zone: '[[Stygian Threshold (Heroic)]]'

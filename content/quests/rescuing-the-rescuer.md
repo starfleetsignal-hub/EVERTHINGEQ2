@@ -1,7 +1,8 @@
 ---
 title: Rescuing the Rescuer
 type: quest
-expansion: Shattered Lands
+expansion: Kingdom of Sky
+expansion_source: timeline
 level: '1'
 difficulty: Solo
 zone: '[[The Commonlands]]'

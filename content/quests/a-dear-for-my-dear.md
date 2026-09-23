@@ -2,6 +2,7 @@
 title: A Dear for my Dear
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '76'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

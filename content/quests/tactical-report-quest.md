@@ -2,6 +2,7 @@
 title: Tactical Report (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '29'
 journal_category: Crypt of Betrayal
 in_game_name: Tactical Report

@@ -2,6 +2,7 @@
 title: Tin Metal Protection (Neriak)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Darklight Wood]]'

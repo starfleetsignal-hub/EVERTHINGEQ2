@@ -2,6 +2,7 @@
 title: Remnants of a Traitor
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '34'
 difficulty: Heroic
 zone: '[[The Haunted Vaults]]'

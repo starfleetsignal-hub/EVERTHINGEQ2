@@ -2,6 +2,7 @@
 title: 'Kelethin: The Time to Vine is Now'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '84'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

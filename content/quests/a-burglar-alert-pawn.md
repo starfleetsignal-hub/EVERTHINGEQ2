@@ -1,7 +1,8 @@
 ---
 title: 'A Burglar Alert: Pawn'
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: '38'
 zone: '[[Deathfist Citadel]]'
 timeline: '[[Deathfist Citadel Timeline]]'

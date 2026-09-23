@@ -2,6 +2,7 @@
 title: Corroborating the Existence of the Stormhold Library
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Solo
 zone: '[[Antonica]]'

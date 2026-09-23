@@ -1,7 +1,8 @@
 ---
 title: Gildas' Requests - Part IV
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '23'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Armor Quest Timeline]]'

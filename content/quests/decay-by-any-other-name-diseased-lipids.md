@@ -2,6 +2,7 @@
 title: 'Decay By Any Other Name: Diseased Lipids'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Vegarlson, the Earthen Badlands]]'

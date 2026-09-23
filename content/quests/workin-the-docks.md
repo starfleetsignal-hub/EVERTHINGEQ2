@@ -2,6 +2,7 @@
 title: Workin' the Docks
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '81'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'

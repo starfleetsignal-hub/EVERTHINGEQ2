@@ -2,6 +2,7 @@
 title: Tasks aboard the Far Journey
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '1'
 difficulty: Solo
 zone: '[[The Far Journey]]'

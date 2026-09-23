@@ -2,6 +2,7 @@
 title: Grim Reaping
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '103'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

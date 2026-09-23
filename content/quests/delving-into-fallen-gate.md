@@ -2,6 +2,7 @@
 title: Delving into Fallen Gate
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '23'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

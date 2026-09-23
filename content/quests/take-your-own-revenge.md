@@ -2,6 +2,7 @@
 title: Take Your Own Revenge
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '76'
 zone: '[[Kunzar Jungle]]'
 timeline: '[[Kunzar Jungle Timeline]]'

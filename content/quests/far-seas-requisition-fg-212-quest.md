@@ -2,6 +2,7 @@
 title: Far Seas Requisition - FG 212 (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 zone: '[[The Commonlands]]'
 timeline: '[[Fallen Gate Timeline]]'

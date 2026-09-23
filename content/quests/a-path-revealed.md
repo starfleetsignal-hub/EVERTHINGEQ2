@@ -2,6 +2,7 @@
 title: A Path Revealed
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '60'
 difficulty: Heroic
 zone: '[[Tenebrous Tangle]]'

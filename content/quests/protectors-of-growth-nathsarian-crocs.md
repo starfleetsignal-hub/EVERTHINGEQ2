@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Nathsarian Crocs'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '72'
 zone: '[[Kylong Plains]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

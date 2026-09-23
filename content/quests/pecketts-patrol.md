@@ -2,6 +2,7 @@
 title: Peckett's Patrol
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '11'
 difficulty: Solo
 zone: '[[Antonica]]'

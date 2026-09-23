@@ -2,6 +2,7 @@
 title: 'Gorowyn: Wadi Lizards'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '83'
 difficulty: solo
 zone: '[[The Sundered Frontier]]'

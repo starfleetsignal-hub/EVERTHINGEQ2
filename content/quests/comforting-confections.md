@@ -2,6 +2,7 @@
 title: Comforting Confections
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Enchanted Zygomyd Grotto]]'

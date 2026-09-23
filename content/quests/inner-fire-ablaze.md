@@ -2,6 +2,7 @@
 title: Inner Fire Ablaze
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '49'
 zone: '[[Solusek''s Eye]]'
 timeline: '[[Solusek''s Eye Timeline]]'

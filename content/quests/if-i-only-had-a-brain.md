@@ -2,6 +2,7 @@
 title: If I Only Had a Brain
 type: quest
 expansion: Rage of Cthurath
+expansion_source: patch
 level: '135'
 difficulty: Solo
 zone: '[[The Unknown]]'

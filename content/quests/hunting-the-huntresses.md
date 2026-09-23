@@ -2,6 +2,7 @@
 title: Hunting the Huntresses
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

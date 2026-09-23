@@ -2,6 +2,7 @@
 title: Platinum Coldain Insignia Ring
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Great Divide]]'

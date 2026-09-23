@@ -2,6 +2,7 @@
 title: The Fume and Fire Ceremony
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '5'
 difficulty: Solo
 zone: '[[Big Bend]]'

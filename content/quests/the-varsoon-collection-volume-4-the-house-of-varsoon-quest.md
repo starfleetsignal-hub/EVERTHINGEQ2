@@ -2,6 +2,7 @@
 title: The Varsoon Collection, Volume 4 - The House of Varsoon (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '32'
 zone: '[[The Ruins of Varsoon]]'
 timeline: '[[The Ruins of Varsoon Timeline]]'

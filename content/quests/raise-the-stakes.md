@@ -2,6 +2,7 @@
 title: Raise the Stakes
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '40'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

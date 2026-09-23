@@ -2,6 +2,7 @@
 title: Beyond Death's Door
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '78'
 difficulty: Epic
 zone: '[[The Halls of Fate]]'

@@ -2,6 +2,7 @@
 title: The Giggling Orc
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '13'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

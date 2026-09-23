@@ -2,6 +2,7 @@
 title: A Belt with Potential
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '29'
 difficulty: Solo
 zone: '[[Edgewater Drains]]'

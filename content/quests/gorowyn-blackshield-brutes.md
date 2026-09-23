@@ -2,6 +2,7 @@
 title: 'Gorowyn: Blackshield Brutes'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '10'
 zone: '[[Timorous Deep]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

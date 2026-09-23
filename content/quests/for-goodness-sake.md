@@ -2,6 +2,7 @@
 title: For Goodness Sake
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Skerry Hideaway]]'
 journal_category: World Event

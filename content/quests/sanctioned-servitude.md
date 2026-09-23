@@ -2,6 +2,7 @@
 title: Sanctioned Servitude
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '34'
 difficulty: Solo
 zone: '[[North Freeport]]'

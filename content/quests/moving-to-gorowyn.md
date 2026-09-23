@@ -2,6 +2,7 @@
 title: Moving to Gorowyn
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[East Freeport]]'

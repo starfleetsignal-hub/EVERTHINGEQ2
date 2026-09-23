@@ -2,6 +2,7 @@
 title: It's Got a Salty... It's Salt
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '12'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

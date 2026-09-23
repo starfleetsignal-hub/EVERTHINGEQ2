@@ -2,6 +2,7 @@
 title: 'Gorowyn: Vicious Razorfangs'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '77'
 zone: '[[Kylong Plains]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

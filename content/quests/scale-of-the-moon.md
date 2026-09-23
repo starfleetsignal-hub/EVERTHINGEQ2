@@ -1,7 +1,8 @@
 ---
 title: Scale of the Moon
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '60'
 difficulty: Epic
 zone: '[[*]]'

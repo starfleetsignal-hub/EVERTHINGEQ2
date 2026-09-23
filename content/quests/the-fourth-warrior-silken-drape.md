@@ -2,6 +2,7 @@
 title: The Fourth Warrior - Silken Drape
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 difficulty: Heroic
 zone: '[[Butcherblock Mountains]]'

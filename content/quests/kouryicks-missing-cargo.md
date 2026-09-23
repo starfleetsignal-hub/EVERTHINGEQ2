@@ -2,6 +2,7 @@
 title: Kouryick's Missing Cargo
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '22'
 zone: '[[East Freeport]]'
 timeline: '[[Freeport Timeline]]'

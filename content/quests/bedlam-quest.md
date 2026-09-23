@@ -2,6 +2,7 @@
 title: Bedlam (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '27'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -2,6 +2,7 @@
 title: A Tour of the Commonlands
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '20'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

@@ -2,6 +2,7 @@
 title: Scatter the Bones
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '15'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

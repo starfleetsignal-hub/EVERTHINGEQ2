@@ -2,6 +2,7 @@
 title: Putting the Rage in Ragefire
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '95'
 difficulty: Epic
 zone: '[[Vesspyr Isles]]'

@@ -2,6 +2,7 @@
 title: Valean's Stolen Books
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '8'
 difficulty: Solo
 zone: '[[Castleview Hamlet]]'

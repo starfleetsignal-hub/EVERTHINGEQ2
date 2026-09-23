@@ -2,6 +2,7 @@
 title: End of the Rending (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '41'
 difficulty: Solo
 zone: '[[Rivervale]]'

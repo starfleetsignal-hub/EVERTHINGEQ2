@@ -2,6 +2,7 @@
 title: 'Tutorial: Alchemical Experiments'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '8'
 zone: '[[Tradeskill Instance]]'
 timeline: '[[Crafting Tutorial Timeline]]'

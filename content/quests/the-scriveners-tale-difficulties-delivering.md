@@ -2,6 +2,7 @@
 title: 'The Scrivener''s Tale: Difficulties Delivering'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Doomfire, the Burning Lands]]'

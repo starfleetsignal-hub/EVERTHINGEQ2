@@ -1,7 +1,8 @@
 ---
 title: A Delivery for Hucklethin Gorsefoot
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '25'
 difficulty: Solo
 zone: '[[Edgewater Drains]]'

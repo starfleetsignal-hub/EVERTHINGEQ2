@@ -2,6 +2,7 @@
 title: Targok, Part IV
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '23'
 difficulty: Solo
 zone: '[[West Freeport]]'

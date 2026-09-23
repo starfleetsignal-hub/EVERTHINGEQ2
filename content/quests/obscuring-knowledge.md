@@ -2,6 +2,7 @@
 title: Obscuring Knowledge
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '72'
 difficulty: Epic
 zone: '[[The Halls of Fate]]'

@@ -2,6 +2,7 @@
 title: Finding Fulgation
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '38'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

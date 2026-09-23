@@ -2,6 +2,7 @@
 title: Hatching the Egg
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '58'
 zone: '[[Scornfeather Roost]]'
 timeline: '[[The Clefts of Rujark Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Enter the Savage Lands'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '101'
 difficulty: Heroic
 zone: '[[Tranquil Sea]]'

@@ -2,6 +2,7 @@
 title: Ritsy's Lucky String (Quest)
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[The Sundered Frontier]]'

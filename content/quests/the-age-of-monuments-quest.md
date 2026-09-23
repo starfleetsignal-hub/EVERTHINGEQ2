@@ -2,6 +2,7 @@
 title: '"The Age of Monuments" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 zone: '[[*]]'
 timeline: '[[Permafrost Timeline]]'

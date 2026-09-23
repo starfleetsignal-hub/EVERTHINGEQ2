@@ -2,6 +2,7 @@
 title: The Lady of the Lake (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '39'
 zone: '[[*]]'
 timeline: '[[Feerrott Timeline]]'

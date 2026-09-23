@@ -2,6 +2,7 @@
 title: Reporting to Wyrwynne
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '27'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

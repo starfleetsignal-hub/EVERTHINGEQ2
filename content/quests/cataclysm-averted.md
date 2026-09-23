@@ -2,6 +2,7 @@
 title: Cataclysm Averted
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '43'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

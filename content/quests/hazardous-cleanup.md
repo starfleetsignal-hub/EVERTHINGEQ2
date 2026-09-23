@@ -2,6 +2,7 @@
 title: Hazardous Cleanup
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '72'
 difficulty: solo
 zone: '[[Fens of Nathsar]]'

@@ -2,6 +2,7 @@
 title: 'Academy of Arcane Science: Thullosian Grinders'
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'

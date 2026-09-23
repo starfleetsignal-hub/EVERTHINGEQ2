@@ -1,7 +1,8 @@
 ---
 title: Fate Worse Than...
 type: quest
-expansion: Shattered Lands
+expansion: Tears of Veeshan
+expansion_source: level
 level: '103'
 difficulty: Heroic
 zone: '[[Temple of Veeshan: Laboratory of Mutation (Heroic)]]'

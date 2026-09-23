@@ -2,6 +2,7 @@
 title: A Deeper History of the Truthbringer
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 zone: '[[Greater Faydark]]'
 timeline: '[[Deity Timeline]]'

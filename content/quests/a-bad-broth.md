@@ -2,6 +2,7 @@
 title: A Bad Broth
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '31'
 zone: '[[Nektropos Castle]]'
 timeline: '[[Nektropos Castle Timeline]]'

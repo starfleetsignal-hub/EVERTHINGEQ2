@@ -2,6 +2,7 @@
 title: A Lonely Tree
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '38'
 zone: '[[The Elddar Grove]]'
 starts: Speak to [[Warble Wildmane]] in [[The Elddar Grove]] behind the House of Pottery

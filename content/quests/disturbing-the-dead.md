@@ -2,6 +2,7 @@
 title: Disturbing the Dead
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '14'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

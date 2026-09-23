@@ -2,6 +2,7 @@
 title: 'Kunark Ascending: Reading Assignment'
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '104'
 difficulty: Heroic
 zone: '[[Fens of Nathsar]]'

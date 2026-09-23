@@ -2,6 +2,7 @@
 title: The Hardest Part
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '70'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

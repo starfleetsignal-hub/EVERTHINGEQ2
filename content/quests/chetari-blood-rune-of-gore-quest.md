@@ -2,6 +2,7 @@
 title: Chetari Blood Rune of Gore (Quest)
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Western Wastes]]'

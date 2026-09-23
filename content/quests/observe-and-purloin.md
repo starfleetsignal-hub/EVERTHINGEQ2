@@ -2,6 +2,7 @@
 title: Observe and Purloin
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '90'
 difficulty: Solo
 zone: '[[The Stonebrunt Highlands]]'

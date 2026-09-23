@@ -2,6 +2,7 @@
 title: 'Moon Platoon II: The Return (Raid)'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 difficulty: Epic
 zone: '[[*]]'

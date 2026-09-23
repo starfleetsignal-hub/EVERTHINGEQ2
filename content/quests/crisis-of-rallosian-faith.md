@@ -1,7 +1,8 @@
 ---
 title: Crisis of Rallosian Faith
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: Scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'

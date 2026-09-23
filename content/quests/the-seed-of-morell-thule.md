@@ -2,6 +2,7 @@
 title: The Seed of Morell-Thule
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '37'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -1,7 +1,8 @@
 ---
 title: Digging For Grubs
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '60'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

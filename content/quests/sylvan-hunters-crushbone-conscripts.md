@@ -2,6 +2,7 @@
 title: 'Sylvan Hunters: Crushbone Conscripts'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '13'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

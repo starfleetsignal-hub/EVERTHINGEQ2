@@ -2,6 +2,7 @@
 title: The Reaching Blade of the Assassin
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '40'
 difficulty: Heroic
 zone: '[[Enchanted Lands]]'

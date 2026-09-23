@@ -2,6 +2,7 @@
 title: Sweeping the Tears of Anuk
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 zone: '[[The Court of the Blades]]'
 timeline: '[[Court of the Blades Timeline]]'

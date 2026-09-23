@@ -2,6 +2,7 @@
 title: Seeking Crystalline Carapaces
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '66'
 difficulty: Heroic
 zone: '[[North Freeport]]'

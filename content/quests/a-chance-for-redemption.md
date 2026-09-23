@@ -2,6 +2,7 @@
 title: A Chance For Redemption
 type: quest
 expansion: Age of Discovery
+expansion_source: questline
 level: '95'
 difficulty: Heroic
 zone: '[[A Dark Cave]]'

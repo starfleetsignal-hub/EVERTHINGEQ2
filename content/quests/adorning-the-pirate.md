@@ -2,6 +2,7 @@
 title: Adorning the Pirate
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '30'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Shipwrecked Timeline]]'

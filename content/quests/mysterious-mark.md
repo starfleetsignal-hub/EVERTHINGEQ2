@@ -2,10 +2,10 @@
 title: Mysterious Mark
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '82'
 zone: '[[The Ruins of Guk: Halls of the Fallen]]'
 timeline: '[[Dark Mail Gauntlets Timeline]]'
-journal_category: ???
 starts: Get [[A Mysterious Symbol]] from a speared remains {{waypoint 99, -37, -190}}
 next_quest: '[[Demonstration of Loyalty]]'
 added_in: The Shadow Odyssey

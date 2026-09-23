@@ -2,6 +2,7 @@
 title: 'Destination: Omniscience'
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '39'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

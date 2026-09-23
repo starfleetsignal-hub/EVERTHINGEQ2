@@ -2,6 +2,7 @@
 title: Fathomless Pits
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Kralet Penumbra: Rise to Power (Advanced Solo)]]'

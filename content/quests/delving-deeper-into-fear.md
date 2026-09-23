@@ -2,6 +2,7 @@
 title: Delving Deeper Into Fear
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '44'
 zone: '[[The Temple of Cazic-Thule]]'
 timeline: '[[Temple of Cazic-Thule Timeline]]'

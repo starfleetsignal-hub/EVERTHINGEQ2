@@ -1,7 +1,8 @@
 ---
 title: Karg's Gratitude
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '45'
 zone: '[[Icespire Summit]]'
 timeline: '[[Everfrost Timeline]]'

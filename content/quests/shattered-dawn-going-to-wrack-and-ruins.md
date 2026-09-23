@@ -2,6 +2,7 @@
 title: 'Shattered Dawn: Going to Wrack and Ruins'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '120'
 difficulty: Heroic
 zone: '[[The Blinding]]'

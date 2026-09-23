@@ -2,6 +2,7 @@
 title: 'Kunark Ascending: Opportunity ''Noks'
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '102'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

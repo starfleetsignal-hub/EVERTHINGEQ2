@@ -2,6 +2,7 @@
 title: Tarew Marr Celebration Research Investigation - Vol 36
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[The Mystic Lake]]'

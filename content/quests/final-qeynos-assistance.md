@@ -1,7 +1,8 @@
 ---
 title: Final Qeynos Assistance
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: Scales with player level from level 80
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

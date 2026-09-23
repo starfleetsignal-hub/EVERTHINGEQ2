@@ -2,6 +2,7 @@
 title: Far Seas Requisition - TS0544-SCO
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

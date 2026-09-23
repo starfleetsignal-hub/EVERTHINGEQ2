@@ -2,6 +2,7 @@
 title: Far Seas Requisition DB0372
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '6'
 difficulty: Solo
 zone: '[[The Down Below]]'

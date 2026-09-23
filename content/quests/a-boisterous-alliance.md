@@ -2,6 +2,7 @@
 title: A Boisterous Alliance
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '64'
 difficulty: Heroic
 zone: '[[Sanctum of the Scaleborn]]'

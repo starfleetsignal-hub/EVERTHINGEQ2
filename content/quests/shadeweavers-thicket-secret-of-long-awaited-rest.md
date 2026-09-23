@@ -2,6 +2,7 @@
 title: 'Shadeweaver''s Thicket: Secret of Long Awaited Rest'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '126'
 difficulty: Solo
 zone: '[[Shadeweaver''s Thicket]]'

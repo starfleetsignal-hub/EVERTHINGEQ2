@@ -2,6 +2,7 @@
 title: The Treaty for Treasure (quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '19'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

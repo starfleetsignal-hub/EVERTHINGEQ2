@@ -1,7 +1,8 @@
 ---
 title: Cause for Investigation
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '9'
 difficulty: Solo
 zone: '[[Oakmyst Forest]]'

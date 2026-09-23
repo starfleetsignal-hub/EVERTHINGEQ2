@@ -2,6 +2,7 @@
 title: Prove Yourself
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '21'
 zone: '[[Nektulos Forest]]'
 timeline: '[[Nektulos Forest Timeline]]'

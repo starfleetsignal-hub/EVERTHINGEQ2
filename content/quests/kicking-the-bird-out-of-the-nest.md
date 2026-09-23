@@ -2,6 +2,7 @@
 title: Kicking the Bird Out of the Nest
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '65'
 difficulty: Heroic
 zone: '[[The Nest of the Great Egg]]'

@@ -2,6 +2,7 @@
 title: 'Kunark Ascending: Ghost Whisperer'
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '103'
 difficulty: Solo
 zone: '[[Obulus Frontier]]'

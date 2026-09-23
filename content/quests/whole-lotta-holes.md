@@ -2,6 +2,7 @@
 title: Whole Lotta' Holes
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '58'
 difficulty: Heroic
 zone: '[[Tenebrous Tangle]]'

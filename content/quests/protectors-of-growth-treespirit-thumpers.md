@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Treespirit Thumpers'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '52'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

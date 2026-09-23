@@ -2,6 +2,7 @@
 title: Dealing with the Bloodskulls
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '14'
 zone: '[[The Commonlands]]'
 timeline: '[[The Commonlands Timeline]]'

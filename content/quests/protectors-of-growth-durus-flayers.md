@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Durus Flayers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '79'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

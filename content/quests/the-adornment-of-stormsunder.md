@@ -2,6 +2,7 @@
 title: The Adornment of Stormsunder
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 zone: '[[The Thundering Steppes]]'
 timeline: '[[The Thundering Steppes Timeline]]'

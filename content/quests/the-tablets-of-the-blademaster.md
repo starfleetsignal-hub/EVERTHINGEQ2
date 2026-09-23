@@ -2,6 +2,7 @@
 title: The Tablets of the Blademaster
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[The Clefts of Rujark]]'

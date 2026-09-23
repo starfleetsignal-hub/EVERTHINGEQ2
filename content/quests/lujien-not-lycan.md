@@ -2,6 +2,7 @@
 title: Lujien, not Lycan
 type: quest
 expansion: Chains of Eternity
+expansion_source: patch
 level: '95'
 difficulty: Solo
 zone: '[[Obol Plains]]'

@@ -2,6 +2,7 @@
 title: The Greater Faydark
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '11'
 difficulty: Solo
 zone: '[[Greater Faydark]]'

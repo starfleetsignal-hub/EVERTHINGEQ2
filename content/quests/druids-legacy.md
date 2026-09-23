@@ -2,6 +2,7 @@
 title: Druid's Legacy
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 zone: '[[Oakmyst Forest]]'
 timeline: '[[Qeynos Districts Timeline]]'

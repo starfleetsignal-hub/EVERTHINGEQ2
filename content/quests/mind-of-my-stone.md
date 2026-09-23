@@ -2,6 +2,7 @@
 title: Mind of My Stone
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '110'
 difficulty: Solo
 zone: '[[Vegarlson, the Earthen Badlands]]'

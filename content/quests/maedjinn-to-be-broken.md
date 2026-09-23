@@ -2,6 +2,7 @@
 title: Maedjinn To Be Broken
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Aether Wroughtlands]]'

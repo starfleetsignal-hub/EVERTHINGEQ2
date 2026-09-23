@@ -2,6 +2,7 @@
 title: Bogstrutter's Field Guide to the Moors of Ykesha
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: Solo
 zone: '[[Moors of Ykesha]]'

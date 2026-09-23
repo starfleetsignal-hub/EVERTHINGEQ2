@@ -2,6 +2,7 @@
 title: 'Disassemble: Hide if You Can'
 type: quest
 expansion: Ballads of Zimara
+expansion_source: patch
 level: '125'
 difficulty: Solo
 zone: '[[Aether Wroughtlands]]'

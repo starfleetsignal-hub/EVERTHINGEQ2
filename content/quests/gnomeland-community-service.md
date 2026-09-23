@@ -2,6 +2,7 @@
 title: Gnomeland Community Service
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '41'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

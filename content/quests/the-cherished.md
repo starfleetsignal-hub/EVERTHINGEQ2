@@ -2,6 +2,7 @@
 title: The Cherished
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 zone: '[[The Hidden Cache]]'
 journal_category: Hidden Cache

@@ -2,6 +2,7 @@
 title: The Island Fortress of Varis
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '70'
 difficulty: solo
 zone: '[[Kylong Plains]]'

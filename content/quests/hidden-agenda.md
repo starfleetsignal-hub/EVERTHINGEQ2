@@ -2,6 +2,7 @@
 title: Hidden Agenda
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '83'
 difficulty: heroic
 zone: '[[Loping Plains]]'

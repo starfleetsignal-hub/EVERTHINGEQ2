@@ -2,6 +2,7 @@
 title: Bloodlust of Zek
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '34'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

@@ -2,6 +2,7 @@
 title: 'Shattered Seas: Temple of Doom'
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '104'
 difficulty: Heroic
 zone: '[[Phantom Sea]]'

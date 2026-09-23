@@ -2,6 +2,7 @@
 title: A Deepice Mystery
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Frostfell Wonderland Village]]'
 timeline: '[[Frostfell Timeline]]'

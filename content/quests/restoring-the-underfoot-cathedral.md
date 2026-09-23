@@ -2,6 +2,7 @@
 title: Restoring the Underfoot Cathedral
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '70'
 zone: '[[Butcherblock Mountains]]'
 timeline: '[[Deity Timeline]]'

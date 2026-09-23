@@ -1,7 +1,8 @@
 ---
 title: Catching a Thief
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '96'
 difficulty: Solo
 zone: '[[The City of Freeport]]'

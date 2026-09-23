@@ -2,6 +2,7 @@
 title: The Blood of the Bear, Part Three (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '33'
 zone: '[[The Ruins of Varsoon]]'
 timeline: '[[Enchanted Lands Timeline]]'

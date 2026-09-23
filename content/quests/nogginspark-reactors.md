@@ -1,7 +1,8 @@
 ---
 title: Nogginspark Reactors
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '3'
 zone: '[[The Baubbleshire]]'
 timeline: '[[Qeynos Racial Timeline]]'

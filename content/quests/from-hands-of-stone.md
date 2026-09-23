@@ -2,6 +2,7 @@
 title: From Hands of Stone
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '56'
 zone: '[[The Living Tombs]]'
 timeline: '[[Peacock Club Timeline]]'

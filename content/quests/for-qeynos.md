@@ -1,7 +1,8 @@
 ---
 title: For Qeynos
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '7'
 difficulty: Solo
 zone: '[[The Forest Ruins]]'

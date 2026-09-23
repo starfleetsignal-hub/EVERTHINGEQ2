@@ -2,6 +2,7 @@
 title: Defeat the Frostpaw Pack Hounds
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 zone: '[[Permafrost]]'
 timeline: '[[Permafrost Timeline]]'

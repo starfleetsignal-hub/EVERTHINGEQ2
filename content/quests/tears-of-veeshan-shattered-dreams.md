@@ -2,6 +2,7 @@
 title: 'Tears of Veeshan: Shattered Dreams'
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Vesspyr Isles]]'

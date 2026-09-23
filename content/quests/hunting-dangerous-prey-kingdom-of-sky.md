@@ -1,7 +1,8 @@
 ---
 title: Hunting Dangerous Prey (Kingdom Of Sky)
 type: quest
-expansion: Shattered Lands
+expansion: Kingdom of Sky
+expansion_source: level
 level: '70'
 difficulty: Heroic
 zone: '[[The Bonemire]]'

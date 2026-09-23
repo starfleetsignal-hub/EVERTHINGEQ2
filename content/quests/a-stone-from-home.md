@@ -1,7 +1,8 @@
 ---
 title: A Stone from Home
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '5'
 zone: '[[Graystone Yard]]'
 timeline: '[[Qeynos Racial Timeline]]'

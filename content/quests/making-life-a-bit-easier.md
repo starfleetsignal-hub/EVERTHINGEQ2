@@ -2,6 +2,7 @@
 title: Making Life a Bit Easier
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '84'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

@@ -2,6 +2,7 @@
 title: Silencing the Sirens
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 difficulty: Solo
 zone: '[[The Thundering Steppes]]'

@@ -2,6 +2,7 @@
 title: 'Ruins of Varsoon: Revealing the Entrance'
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '20'
 difficulty: Heroic
 zone: '[[Vermin''s Snye]]'

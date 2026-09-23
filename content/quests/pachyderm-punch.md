@@ -2,6 +2,7 @@
 title: Pachyderm Punch
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '16'
 difficulty: Solo
 zone: '[[The Commonlands]]'

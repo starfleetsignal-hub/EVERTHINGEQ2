@@ -2,6 +2,7 @@
 title: 'Freeport Militia: Kromdek Warbears'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '73'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

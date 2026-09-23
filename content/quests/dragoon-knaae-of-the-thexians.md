@@ -2,6 +2,7 @@
 title: Dragoon K'Naae of the Thexians
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '30'
 difficulty: Heroic
 zone: '[[Nektulos Forest]]'

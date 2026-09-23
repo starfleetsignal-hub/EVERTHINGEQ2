@@ -2,6 +2,7 @@
 title: In Search of the Feerrott (Evil)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '34'
 zone: '[[The City of Freeport]]'
 timeline: '[[Feerrott Timeline]]'

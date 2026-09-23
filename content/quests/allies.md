@@ -2,6 +2,7 @@
 title: Allies?
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '42'
 zone: '[[The Feerrott]]'
 timeline: '[[Feerrott Timeline]]'

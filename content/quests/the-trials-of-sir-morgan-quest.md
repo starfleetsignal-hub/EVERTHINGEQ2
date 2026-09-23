@@ -2,6 +2,7 @@
 title: The Trials of Sir Morgan (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '27'
 difficulty: Heroic
 zone: '[[The Thundering Steppes]]'

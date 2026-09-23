@@ -2,6 +2,7 @@
 title: Preparing for Take Off
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '82'
 difficulty: Heroic
 zone: '[[Kylong Plains]]'

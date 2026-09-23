@@ -2,6 +2,7 @@
 title: The Map is a Key. The Key is a Map?
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[The Sinking Sands]]'

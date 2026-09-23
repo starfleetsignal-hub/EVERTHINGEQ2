@@ -2,6 +2,7 @@
 title: Proto-Capling Rescue
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '7'
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Timeline]]'

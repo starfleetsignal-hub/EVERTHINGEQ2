@@ -2,6 +2,7 @@
 title: Words of a Feather
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The Barren Sky]]'

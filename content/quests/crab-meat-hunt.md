@@ -2,6 +2,7 @@
 title: Crab Meat Hunt
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '25'
 difficulty: Solo
 zone: '[[Edgewater Drains]]'

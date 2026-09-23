@@ -1,7 +1,8 @@
 ---
 title: Aether Way (Solo)
 type: quest
-expansion: Shattered Lands
+expansion: Ballads of Zimara
+expansion_source: timeline
 level: '138'
 difficulty: Solo
 zone: '[[Aether Wroughtlands]]'

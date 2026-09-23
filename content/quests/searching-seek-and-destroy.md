@@ -2,6 +2,7 @@
 title: Searching, Seek and Destroy
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '138'
 difficulty: Heroic
 zone: '[[Western Wastes]]'

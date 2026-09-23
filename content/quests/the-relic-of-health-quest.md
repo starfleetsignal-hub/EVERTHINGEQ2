@@ -2,6 +2,7 @@
 title: The Relic of Health (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '37'
 difficulty: Solo
 zone: '[[Zek, the Orcish Wastes]]'

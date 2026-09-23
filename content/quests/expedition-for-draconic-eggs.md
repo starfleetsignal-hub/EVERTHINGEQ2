@@ -2,6 +2,7 @@
 title: Expedition for Draconic Eggs
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[Tenebrous Tangle]]'

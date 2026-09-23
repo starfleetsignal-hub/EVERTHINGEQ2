@@ -2,6 +2,7 @@
 title: 'Gorowyn: Armorclad Ice Urchins'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '87'
 zone: '[[Thurgadin, City of the Coldain]]'
 timeline: '[[Gorowyn City Tasks Timeline]]'

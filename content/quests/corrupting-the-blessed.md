@@ -1,7 +1,8 @@
 ---
 title: Corrupting the Blessed
 type: quest
-expansion: Shattered Lands
+expansion: Altar of Malice
+expansion_source: chain
 level: '101'
 difficulty: Solo
 zone: '[[Phantom Sea]]'

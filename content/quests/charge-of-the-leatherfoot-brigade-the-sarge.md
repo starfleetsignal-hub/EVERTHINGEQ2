@@ -2,6 +2,7 @@
 title: Charge of the Leatherfoot Brigade - The Sarge
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '24'
 difficulty: Heroic
 zone: '[[Fallen Gate]]'

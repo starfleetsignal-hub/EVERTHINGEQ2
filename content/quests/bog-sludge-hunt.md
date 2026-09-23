@@ -2,6 +2,7 @@
 title: Bog Sludge Hunt
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '5'
 difficulty: Solo
 zone: '[[The Peat Bog]]'

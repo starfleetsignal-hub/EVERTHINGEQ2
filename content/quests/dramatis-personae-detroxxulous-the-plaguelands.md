@@ -2,6 +2,7 @@
 title: 'Dramatis Personae: Detroxxulous, the Plaguelands'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '117'
 difficulty: Solo
 zone: '[[Myrist, the Great Library]]'

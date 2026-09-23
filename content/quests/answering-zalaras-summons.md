@@ -2,6 +2,7 @@
 title: Answering Zalara's Summons
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 difficulty: Solo
 zone: '[[Maj''Dul]]'

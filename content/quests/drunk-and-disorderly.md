@@ -2,6 +2,7 @@
 title: Drunk and Disorderly
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '101'
 difficulty: Solo
 zone: '[[Thalumbra, the Ever Deep]]'

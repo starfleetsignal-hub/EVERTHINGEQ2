@@ -2,6 +2,7 @@
 title: Smash the Enemies of Grobb! - Thullosians
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '79'
 zone: '[[Moors of Ykesha]]'
 journal_category: The Moors of Ykesha

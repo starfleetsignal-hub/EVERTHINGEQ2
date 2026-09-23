@@ -2,6 +2,7 @@
 title: 'Tears of Veeshan: Falling Tears'
 type: quest
 expansion: Tears of Veeshan
+expansion_source: patch
 level: '101'
 difficulty: Heroic
 zone: '[[Vesspyr Isles]]'

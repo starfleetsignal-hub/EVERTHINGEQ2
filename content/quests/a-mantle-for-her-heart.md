@@ -2,6 +2,7 @@
 title: A Mantle for her Heart
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '74'
 difficulty: Solo
 zone: '[[Kunzar Jungle]]'

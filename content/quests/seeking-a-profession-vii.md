@@ -2,6 +2,7 @@
 title: Seeking a Profession VII
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '6'
 zone: '[[Tradeskill Instance]]'
 timeline: '[[Seeking a Profession Timeline]]'

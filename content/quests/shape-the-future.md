@@ -1,7 +1,8 @@
 ---
 title: Shape the Future
 type: quest
-expansion: Shattered Lands
+expansion: Planes of Prophecy
+expansion_source: timeline
 level: '106'
 difficulty: Solo
 zone: '[[Plane of Magic]]'

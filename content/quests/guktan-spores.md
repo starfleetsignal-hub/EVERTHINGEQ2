@@ -1,0 +1,25 @@
+---
+title: Guktan Spores
+type: quest
+level: '110'
+timeline: '[[Fabled Guk Timeline]]'
+added_in: LU107
+categories:
+- Census Credits
+- Collection Quests
+- Collections needing rewardtype
+- LU107 Collection Quests
+- Meta Collection Quests
+- Quests
+- Return to Guk (CQ Category)
+- Tier 12 Collection Quests
+source:
+  title: Guktan Spores
+  url: https://eq2.fandom.com/wiki/Guktan_Spores
+  history: https://eq2.fandom.com/wiki/Guktan_Spores?action=history
+  revision: 1863594
+  revised: '2025-03-08T13:40:44Z'
+  license: CC BY-SA 3.0
+---
+
+

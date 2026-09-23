@@ -2,6 +2,7 @@
 title: Hazardous Waters
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '34'
 difficulty: Solo
 zone: '[[South Freeport]]'

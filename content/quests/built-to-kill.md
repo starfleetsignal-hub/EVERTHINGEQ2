@@ -2,6 +2,7 @@
 title: Built to Kill
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '53'
 difficulty: Heroic
 zone: '[[Steamfont Mountains]]'

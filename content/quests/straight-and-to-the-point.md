@@ -2,6 +2,7 @@
 title: Straight and to the Point
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '27'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

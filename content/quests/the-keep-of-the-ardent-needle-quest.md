@@ -2,6 +2,7 @@
 title: The Keep of the Ardent Needle (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '15'
 difficulty: Solo
 zone: '[[Antonica]]'

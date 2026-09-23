@@ -2,6 +2,7 @@
 title: Lupine Elimination
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '65'
 zone: '[[Loping Plains]]'
 timeline: '[[Flowing Cape of the Dark Lord Timeline]]'

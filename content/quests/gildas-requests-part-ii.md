@@ -1,7 +1,8 @@
 ---
 title: Gildas' Requests - Part II
 type: quest
-expansion: Shattered Lands
+expansion: Age of Discovery
+expansion_source: timeline
 level: '21'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Armor Quest Timeline]]'

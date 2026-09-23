@@ -2,6 +2,7 @@
 title: Wings in Danger
 type: quest
 expansion: Kunark Ascending
+expansion_source: patch
 level: '103'
 difficulty: Heroic
 zone: '[[Obulus Frontier]]'

@@ -2,6 +2,7 @@
 title: A Journey Outside the City
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[The Ruins]]'

@@ -2,6 +2,7 @@
 title: The Word is Hate
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '27'
 difficulty: Solo
 zone: '[[North Freeport]]'

@@ -2,6 +2,7 @@
 title: '"Remembrances - Norrath" (Quest)'
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '46'
 zone: '[[*]]'
 timeline: '[[The Obelisk of Lost Souls Timeline]]'

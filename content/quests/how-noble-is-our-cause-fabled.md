@@ -1,7 +1,8 @@
 ---
 title: How Noble is Our Cause (Fabled)
 type: quest
-expansion: Shattered Lands
+expansion: Chaos Descending
+expansion_source: level
 level: '115'
 journal_category: Mission
 starts: -1175.81,100.34,805.05

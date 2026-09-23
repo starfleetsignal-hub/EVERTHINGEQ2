@@ -2,6 +2,7 @@
 title: Retaking The Test
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '105'
 difficulty: Solo
 zone: '[[Plane of Magic]]'

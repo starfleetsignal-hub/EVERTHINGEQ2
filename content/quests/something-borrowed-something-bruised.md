@@ -2,6 +2,7 @@
 title: Something Borrowed, Something Bruised
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 difficulty: Heroic
 zone: '[[Tower of Frozen Shadow: Umbral Halls]]'

@@ -2,6 +2,7 @@
 title: Searching the Temple Depths
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 difficulty: Heroic
 zone: '[[The Temple of Cazic-Thule]]'

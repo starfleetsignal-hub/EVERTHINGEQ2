@@ -2,6 +2,7 @@
 title: The Great Griffin Escape
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '10'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

@@ -2,6 +2,7 @@
 title: The Architectural Underground, Part One
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '10'
 difficulty: Solo
 zone: '[[Vermin''s Snye]]'

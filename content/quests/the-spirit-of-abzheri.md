@@ -2,6 +2,7 @@
 title: The Spirit of Ab'zheri
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '57'
 difficulty: Solo
 zone: '[[The Sinking Sands]]'

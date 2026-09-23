@@ -2,6 +2,7 @@
 title: Altar of Malice - The Nebulous Newsies
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '100'
 difficulty: Heroic
 zone: '[[Obol Plains]]'

@@ -2,6 +2,7 @@
 title: The Vexing Golden Coin
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '106'
 zone: '[[Plane of Magic]]'
 timeline: '[[Planes of Prophecy Timeline]]'

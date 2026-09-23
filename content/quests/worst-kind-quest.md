@@ -2,6 +2,7 @@
 title: Worst Kind (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 journal_category: Enchanted Lands
 starts: examine [[Worst kind (Quest Starter)|worst kind]]

@@ -1,7 +1,8 @@
 ---
 title: A Soot Covered Page
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: '43'
 zone: '[[Lavastorm]]'
 timeline: '[[Lavastorm Timeline]]'

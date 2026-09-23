@@ -1,7 +1,8 @@
 ---
 title: 'New Halas: Urgent Insurgents'
 type: quest
-expansion: Shattered Lands
+expansion: Sentinel's Fate
+expansion_source: timeline
 level: '79'
 difficulty: Solo
 zone: '[[Kylong Plains]]'

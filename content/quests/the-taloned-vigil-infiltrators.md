@@ -2,6 +2,7 @@
 title: The Taloned Vigil Infiltrators
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Solo
 zone: '[[The Bonemire]]'

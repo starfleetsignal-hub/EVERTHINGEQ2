@@ -1,7 +1,8 @@
 ---
 title: 'Order of Arcane: Honeybrood Stingers'
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: level
 level: '58'
 zone: '[[The Lesser Faydark]]'
 journal_category: City Tasks

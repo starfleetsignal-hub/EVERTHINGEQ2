@@ -2,6 +2,7 @@
 title: 'Project Moonchase: Carry a Big Stick (Solo)'
 type: quest
 expansion: Blood of Luclin
+expansion_source: patch
 level: '122'
 difficulty: Heroic
 zone: '[[The Blinding]]'

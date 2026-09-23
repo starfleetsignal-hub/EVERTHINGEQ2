@@ -2,6 +2,7 @@
 title: Vicious Wormlings
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '45'
 difficulty: Solo
 zone: '[[North Freeport]]'

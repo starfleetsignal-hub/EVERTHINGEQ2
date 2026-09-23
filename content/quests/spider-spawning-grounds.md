@@ -2,6 +2,7 @@
 title: Spider Spawning Grounds
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '48'
 zone: '[[Solusek''s Eye]]'
 timeline: '[[Solusek''s Eye Timeline]]'

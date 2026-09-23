@@ -2,6 +2,7 @@
 title: Capturing the Essence
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '57'
 zone: '[[The Lesser Faydark]]'
 timeline: '[[Lesser Faydark Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Kamapor It On: Suite of Screams (Solo)'
 type: quest
 expansion: Visions of Vetrovia
+expansion_source: patch
 level: '128'
 difficulty: Solo
 zone: '[[Svarni Expanse]]'

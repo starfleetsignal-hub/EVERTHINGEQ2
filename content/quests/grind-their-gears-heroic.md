@@ -2,6 +2,7 @@
 title: Grind Their Gears (Heroic)
 type: quest
 expansion: Terrors of Thalumbra
+expansion_source: patch
 level: '105'
 difficulty: Heroic
 zone: '[[Maldura: District of Ash (Heroic)]]'

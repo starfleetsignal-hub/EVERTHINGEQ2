@@ -2,6 +2,7 @@
 title: Didn't See it Coming
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '65'
 difficulty: Heroic
 zone: '[[Qeynos Province District]]'

@@ -2,6 +2,7 @@
 title: The League
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[Loping Plains]]'

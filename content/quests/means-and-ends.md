@@ -2,6 +2,7 @@
 title: Means and Ends
 type: quest
 expansion: Tears of Veeshan
+expansion_source: questline
 level: '101'
 difficulty: Solo
 zone: '[[*]]'

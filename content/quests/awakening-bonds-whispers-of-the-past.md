@@ -2,6 +2,7 @@
 title: 'Awakening Bonds: Whispers of the Past'
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[Sanctuary of Divine Unity]]'

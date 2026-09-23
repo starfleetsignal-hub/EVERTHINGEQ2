@@ -2,6 +2,7 @@
 title: A Clockwork Snafu
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Moors of Ykesha]]'
 journal_category: World Event

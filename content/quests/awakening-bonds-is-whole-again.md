@@ -2,6 +2,7 @@
 title: 'Awakening Bonds: ...Is Whole Again'
 type: quest
 expansion: Kunark Ascending
+expansion_source: questline
 level: '108'
 difficulty: Heroic
 zone: '[[Sanctuary of Divine Unity]]'

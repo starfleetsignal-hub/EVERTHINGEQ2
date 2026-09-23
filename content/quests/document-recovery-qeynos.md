@@ -2,6 +2,7 @@
 title: Document Recovery (Qeynos)
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '63'
 difficulty: Solo
 zone: '[[Qeynos Capitol District]]'

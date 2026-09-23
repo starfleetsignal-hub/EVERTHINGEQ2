@@ -1,7 +1,8 @@
 ---
 title: 'Sabotage: A Simple Prank'
 type: quest
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
+expansion_source: timeline
 level: Scales
 zone: '[[The Commonlands]]'
 timeline: '[[Betrayal Timeline]]'

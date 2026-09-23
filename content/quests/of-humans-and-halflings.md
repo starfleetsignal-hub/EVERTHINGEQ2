@@ -2,6 +2,7 @@
 title: Of Humans and Halflings
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '13'
 difficulty: Solo
 zone: '[[*]]'

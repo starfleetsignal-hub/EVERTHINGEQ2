@@ -2,6 +2,7 @@
 title: Egg Hunt in the Nest
 type: quest
 expansion: Kingdom of Sky
+expansion_source: patch
 level: '68'
 difficulty: Heroic
 zone: '[[The Barren Sky]]'

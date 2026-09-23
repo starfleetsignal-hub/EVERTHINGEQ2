@@ -2,6 +2,7 @@
 title: Find 'em a Find, Catch 'em a Catch! (Qeynos)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[Antonica]]'

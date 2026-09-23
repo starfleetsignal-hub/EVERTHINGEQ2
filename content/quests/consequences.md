@@ -2,6 +2,7 @@
 title: Consequences
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 zone: '[[Maj''Dul]]'
 timeline: '[[Maj''Dul Timeline]]'

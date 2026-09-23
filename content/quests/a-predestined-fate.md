@@ -2,6 +2,7 @@
 title: A Predestined Fate
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '71'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

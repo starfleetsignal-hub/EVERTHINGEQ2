@@ -2,6 +2,7 @@
 title: 'Scars of Destruction: A Weapon for the Ages: Gold Gallery (Quest)'
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '138'
 difficulty: Epic
 zone: '[[Western Wastes]]'

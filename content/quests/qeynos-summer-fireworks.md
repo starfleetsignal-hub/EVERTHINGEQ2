@@ -2,6 +2,7 @@
 title: Qeynos Summer Fireworks
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 difficulty: Solo
 zone: '[[North Qeynos]]'

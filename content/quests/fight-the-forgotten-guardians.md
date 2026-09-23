@@ -2,6 +2,7 @@
 title: Fight the Forgotten Guardians
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '10'
 difficulty: Solo
 zone: '[[Qeynos Province District]]'

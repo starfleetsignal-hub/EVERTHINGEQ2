@@ -2,6 +2,7 @@
 title: 'Solusek Ro''s Tower: Monolith of Fire (Solo) (Mission)'
 type: quest
 expansion: Planes of Prophecy
+expansion_source: patch
 level: '114'
 difficulty: Heroic
 zone: '[[Coliseum of Valor]]'

@@ -2,6 +2,7 @@
 title: Fire and Feathers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '70'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

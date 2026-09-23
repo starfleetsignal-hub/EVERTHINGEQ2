@@ -2,6 +2,7 @@
 title: Deathtoll Access
 type: quest
 expansion: Kingdom of Sky
+expansion_source: category
 aliases:
 - Deathtoll Access Timeline
 categories:

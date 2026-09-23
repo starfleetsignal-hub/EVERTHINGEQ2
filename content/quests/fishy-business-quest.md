@@ -2,6 +2,7 @@
 title: Fishy Business (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '50'
 journal_category: Miscellaneous
 in_game_name: Fishy Business

@@ -2,6 +2,7 @@
 title: 'Kelethin: Thrashing Titans'
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'

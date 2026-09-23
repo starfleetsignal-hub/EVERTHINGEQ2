@@ -2,6 +2,7 @@
 title: The Shadow Lords
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '17'
 difficulty: Heroic
 zone: '[[Timorous Deep]]'

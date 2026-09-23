@@ -2,6 +2,7 @@
 title: Oww!! Me head!
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: Scales
 zone: '[[Kylong Plains]]'
 journal_category: Forum Lore

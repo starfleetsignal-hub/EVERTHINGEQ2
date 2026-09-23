@@ -2,6 +2,7 @@
 title: Sickness through Subterfuge
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '16'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

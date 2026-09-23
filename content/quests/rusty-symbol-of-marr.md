@@ -2,6 +2,7 @@
 title: Rusty Symbol of Marr
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '9'
 difficulty: Solo
 zone: '[[The Graveyard]]'

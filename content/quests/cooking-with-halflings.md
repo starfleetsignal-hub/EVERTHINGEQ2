@@ -2,6 +2,7 @@
 title: Cooking With Halflings
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '14'
 difficulty: Solo
 zone: '[[*]]'

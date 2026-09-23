@@ -2,6 +2,7 @@
 title: Terithal's Revenge
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '18'
 difficulty: Solo
 zone: '[[Bloodskull Valley: The Excavation Site]]'

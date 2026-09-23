@@ -2,6 +2,7 @@
 title: 'The Fallen Swords: Sins of the Past'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '95'
 difficulty: Heroic
 zone: '[[Thurgadin, City of the Coldain]]'

@@ -2,6 +2,7 @@
 title: The Survival of the Rhino
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 zone: '[[Jarsath Wastes]]'
 timeline: '[[Fury Epic Weapon Timeline]]'

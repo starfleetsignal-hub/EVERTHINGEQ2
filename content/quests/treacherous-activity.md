@@ -2,6 +2,7 @@
 title: Treacherous Activity
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '55'
 difficulty: Heroic
 zone: '[[New Halas]]'

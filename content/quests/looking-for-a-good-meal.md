@@ -2,6 +2,7 @@
 title: Looking For a Good Meal
 type: quest
 expansion: Shattered Lands
+expansion_source: patch
 level: '47'
 zone: '[[The City of Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

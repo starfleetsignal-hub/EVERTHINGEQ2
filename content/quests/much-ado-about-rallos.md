@@ -2,6 +2,7 @@
 title: Much Ado' About Rallos
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '4'
 difficulty: Solo
 zone: '[[Big Bend]]'

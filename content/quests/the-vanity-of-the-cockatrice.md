@@ -2,6 +2,7 @@
 title: The Vanity of the Cockatrice
 type: quest
 expansion: Rise of Kunark
+expansion_source: questline
 level: '85'
 zone: '[[Kylong Plains]]'
 timeline: '[[Fury Epic Weapon Timeline]]'

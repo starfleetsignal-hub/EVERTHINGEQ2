@@ -2,6 +2,7 @@
 title: Pillars of Flame Creature Cataloging
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '60'
 difficulty: Solo
 zone: '[[*]]'

@@ -2,6 +2,7 @@
 title: 'Just Deserts: The Sacred Gift (Signature)'
 type: quest
 expansion: Renewal of Ro
+expansion_source: patch
 level: '133'
 difficulty: Solo
 zone: '[[Buried Takish''Hiz: The Sacred Gift (Signature)]]'

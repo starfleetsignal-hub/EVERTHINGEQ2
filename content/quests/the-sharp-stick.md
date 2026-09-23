@@ -2,6 +2,7 @@
 title: The Sharp Stick
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '39'
 difficulty: Solo
 zone: '[[North Freeport]]'

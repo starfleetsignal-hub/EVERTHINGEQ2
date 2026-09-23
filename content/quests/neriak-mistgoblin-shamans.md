@@ -2,6 +2,7 @@
 title: 'Neriak: Mistgoblin Shamans'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '76'
 zone: '[[Kylong Plains]]'
 timeline: '[[Neriak City Tasks Timeline]]'

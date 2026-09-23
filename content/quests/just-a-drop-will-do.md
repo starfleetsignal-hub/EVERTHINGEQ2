@@ -2,6 +2,7 @@
 title: Just a Drop Will Do
 type: quest
 expansion: The Shadow Odyssey
+expansion_source: patch
 level: '80'
 difficulty: heroic
 zone: '[[Fens of Nathsar]]'

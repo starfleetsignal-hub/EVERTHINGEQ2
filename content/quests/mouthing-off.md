@@ -2,6 +2,7 @@
 title: Mouthing Off
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '45'
 difficulty: Solo
 zone: '[[Steamfont Mountains]]'

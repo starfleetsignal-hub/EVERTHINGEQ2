@@ -2,6 +2,7 @@
 title: 'The Elemental Planes: Preparation (Heroic I)'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '118'
 difficulty: Heroic
 zone: '[[Myrist, the Great Library]]'

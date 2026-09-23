@@ -1,7 +1,8 @@
 ---
 title: The Fate of Karg Icebear
 type: quest
-expansion: Shattered Lands
+expansion: Rise of Kunark
+expansion_source: timeline
 level: '40'
 zone: '[[Everfrost]]'
 timeline: '[[Everfrost Timeline]]'

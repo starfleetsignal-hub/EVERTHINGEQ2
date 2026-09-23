@@ -1,7 +1,8 @@
 ---
 title: The Troubling Truth
 type: quest
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
+expansion_source: timeline
 level: Scales
 difficulty: Epic
 zone: '[[Antonica]]'

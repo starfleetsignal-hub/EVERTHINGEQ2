@@ -2,6 +2,7 @@
 title: 'Court of the Blades: Dukaris, Hero of the People'
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '50'
 difficulty: Heroic
 zone: '[[The Court of the Blades]]'

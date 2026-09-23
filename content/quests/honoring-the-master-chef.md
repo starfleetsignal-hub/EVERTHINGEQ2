@@ -2,6 +2,7 @@
 title: Honoring the Master Chef
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '80'
 zone: '[[Kylong Plains]]'
 timeline: '[[Kylong Plains Timeline]]'

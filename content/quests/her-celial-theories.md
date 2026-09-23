@@ -2,6 +2,7 @@
 title: Her Celial Theories
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '120'
 difficulty: Solo
 zone: '[[Echo Caverns]]'

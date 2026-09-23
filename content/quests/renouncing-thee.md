@@ -1,7 +1,8 @@
 ---
 title: Renouncing Thee
 type: quest
-expansion: Shattered Lands
+expansion: Tears of Veeshan
+expansion_source: level
 level: '102'
 difficulty: Heroic
 zone: '[[Izshrash''Khar: Stratum of the Protectors (Heroic)]]'

@@ -2,6 +2,7 @@
 title: Restoring Ghoulbane
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '36'
 difficulty: Heroic
 zone: '[[Qeynos Capitol District]]'

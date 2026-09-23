@@ -2,6 +2,7 @@
 title: 'Protectors of Growth: Carnivorous Granitebacks'
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '25'
 difficulty: solo
 zone: '[[Greater Faydark]]'

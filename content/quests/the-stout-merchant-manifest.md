@@ -2,6 +2,7 @@
 title: The Stout Merchant Manifest
 type: quest
 expansion: Shattered Lands
+expansion_source: chain
 level: '10'
 zone: '[[Crow''s Resting Place]]'
 journal_category: Down Below

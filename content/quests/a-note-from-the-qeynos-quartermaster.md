@@ -1,7 +1,8 @@
 ---
 title: A Note from the Qeynos Quartermaster
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: chain
 level: '12'
 zone: '[[The Caves]]'
 journal_category: Antonica

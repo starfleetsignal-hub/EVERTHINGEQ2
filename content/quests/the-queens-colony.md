@@ -1,7 +1,8 @@
 ---
 title: The Queen's Colony
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '1'
 difficulty: Solo
 zone: '[[Queen''s Colony]]'

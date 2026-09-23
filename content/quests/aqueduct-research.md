@@ -2,6 +2,7 @@
 title: Aqueduct Research
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '52'
 zone: '[[The Court of Truth]]'
 timeline: '[[Court of Truth Timeline]]'

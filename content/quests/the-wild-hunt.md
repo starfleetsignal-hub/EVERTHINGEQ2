@@ -2,6 +2,7 @@
 title: The Wild Hunt
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '46'
 zone: '[[Qeynos Province District]]'
 timeline: '[[Qeynos City Tasks Timeline]]'

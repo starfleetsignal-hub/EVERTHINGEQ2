@@ -2,6 +2,7 @@
 title: 'Freeport: Frostbite Shadowbeasts'
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '89'
 difficulty: Solo
 zone: '[[Thurgadin, City of the Coldain]]'

@@ -2,6 +2,7 @@
 title: On A Boat (Tradeskill)
 type: quest
 expansion: Altar of Malice
+expansion_source: patch
 level: '100'
 zone: '[[*]]'
 timeline: '[[Shipwrecked Timeline]]'

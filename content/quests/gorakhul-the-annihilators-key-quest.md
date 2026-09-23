@@ -2,6 +2,7 @@
 title: Gorakhul the Annihilator's Key (Quest)
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '53'
 difficulty: Solo
 zone: '[[The Clefts of Rujark]]'

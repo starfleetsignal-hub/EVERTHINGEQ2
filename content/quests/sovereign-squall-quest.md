@@ -2,6 +2,7 @@
 title: Sovereign Squall (Quest)
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '97'
 difficulty: Heroic
 zone: '[[Kael Drakkel]]'

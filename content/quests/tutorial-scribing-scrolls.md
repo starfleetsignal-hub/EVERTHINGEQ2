@@ -2,6 +2,7 @@
 title: 'Tutorial: Scribing Scrolls'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '7'
 zone: '[[Tradeskill Instance]]'
 timeline: '[[Crafting Tutorial Timeline]]'

@@ -2,6 +2,7 @@
 title: 'Midst Mission: Quarry Quandary (Heroic)'
 type: quest
 expansion: Reign of Shadows
+expansion_source: patch
 level: '128'
 difficulty: Heroic
 zone: '[[City of Fordel Midst]]'

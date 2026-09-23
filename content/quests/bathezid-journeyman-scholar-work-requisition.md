@@ -2,6 +2,7 @@
 title: Bathezid Journeyman Scholar Work Requisition
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '74'
 zone: '[[Fens of Nathsar]]'
 starts: Given by Supply Sergeant Anuhadux at Bathezid's Watch

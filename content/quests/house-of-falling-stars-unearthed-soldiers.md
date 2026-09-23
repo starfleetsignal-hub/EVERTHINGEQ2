@@ -2,6 +2,7 @@
 title: 'House of Falling Stars: Unearthed Soldiers'
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '77'
 zone: '[[Kylong Plains]]'
 timeline: '[[Kelethin City Tasks Timeline]]'

@@ -2,6 +2,7 @@
 title: The Seal of the Sea
 type: quest
 expansion: Desert of Flames
+expansion_source: patch
 level: '56'
 difficulty: Solo
 zone: '[[The Silent City]]'

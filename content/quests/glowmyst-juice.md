@@ -1,7 +1,8 @@
 ---
 title: Glowmyst Juice
 type: quest
-expansion: Shattered Lands
+expansion: Desert of Flames
+expansion_source: timeline
 level: '5'
 difficulty: Solo
 zone: '[[Oakmyst Forest]]'

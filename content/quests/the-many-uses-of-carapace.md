@@ -2,6 +2,7 @@
 title: The Many Uses of Carapace
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '24'
 difficulty: Solo
 zone: '[[Butcherblock Mountains]]'

@@ -2,6 +2,7 @@
 title: Sandy Eggs
 type: quest
 expansion: Rise of Kunark
+expansion_source: patch
 level: '5'
 difficulty: Solo
 zone: '[[Timorous Deep]]'

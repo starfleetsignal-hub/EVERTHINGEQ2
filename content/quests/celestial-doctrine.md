@@ -2,6 +2,7 @@
 title: Celestial Doctrine
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '118'
 difficulty: Epic
 zone: '[[Myrist, the Great Library]]'

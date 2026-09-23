@@ -2,6 +2,7 @@
 title: Front Yard Cleanup
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '7'
 zone: '[[The Commonlands]]'
 timeline: '[[Repeatable Quests Timeline]]'

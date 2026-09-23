@@ -2,6 +2,7 @@
 title: Sacrifice the Vengeful Seal-Watcher
 type: quest
 expansion: Sentinel's Fate
+expansion_source: patch
 level: '88'
 difficulty: Heroic
 zone: '[[The Hole]]'

@@ -2,6 +2,7 @@
 title: Leave the Thievin' to Professionals
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 difficulty: Solo
 zone: '[[Sodden Archipelago]]'

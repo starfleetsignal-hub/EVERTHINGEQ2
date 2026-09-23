@@ -1,7 +1,8 @@
 ---
 title: 'Doctor''s Orders: Awuidor, the Dark Fathoms'
 type: quest
-expansion: Shattered Lands
+expansion: Chaos Descending
+expansion_source: timeline
 level: '116'
 difficulty: Epic
 zone: '[[Myrist, the Great Library]]'

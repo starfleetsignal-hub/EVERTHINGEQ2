@@ -2,6 +2,7 @@
 title: Drayek's Chamber (Quest)
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '48'
 difficulty: Epic
 zone: '[[Everfrost]]'

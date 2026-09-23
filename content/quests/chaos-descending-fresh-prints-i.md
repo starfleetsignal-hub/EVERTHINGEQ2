@@ -2,6 +2,7 @@
 title: 'Chaos Descending: Fresh Prints I'
 type: quest
 expansion: Chaos Descending
+expansion_source: patch
 level: '115'
 difficulty: Solo
 zone: '[[Myrist, the Great Library]]'

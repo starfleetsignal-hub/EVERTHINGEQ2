@@ -2,6 +2,7 @@
 title: Curators of Bone
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '37'
 zone: '[[North Freeport]]'
 timeline: '[[Freeport City Tasks Timeline]]'

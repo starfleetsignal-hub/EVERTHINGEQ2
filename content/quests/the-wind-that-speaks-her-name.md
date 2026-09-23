@@ -2,6 +2,7 @@
 title: The Wind That Speaks Her Name
 type: quest
 expansion: Echoes of Faydwer
+expansion_source: patch
 level: '24'
 difficulty: Heroic
 zone: '[[Greater Faydark]]'

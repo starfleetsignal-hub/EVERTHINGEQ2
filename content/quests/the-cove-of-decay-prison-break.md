@@ -2,6 +2,7 @@
 title: The Cove of Decay - Prison Break
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '28'
 difficulty: Solo
 zone: '[[The Ruins of Varsoon]]'

@@ -2,6 +2,7 @@
 title: The Return of the Light
 type: quest
 expansion: Shattered Lands
+expansion_source: category
 level: '20'
 difficulty: Heroic
 zone: '[[The Commonlands]]'

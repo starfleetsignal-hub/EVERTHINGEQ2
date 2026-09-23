@@ -2,6 +2,7 @@
 title: The Fallen Lovers
 type: quest
 expansion: Shattered Lands
+expansion_source: timeline
 level: '24'
 difficulty: Solo
 zone: '[[Nektulos Forest]]'

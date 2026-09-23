@@ -2,6 +2,7 @@
 title: 'Enemies of the Blackhook: the Octo-Wanderers'
 type: quest
 expansion: Scars of Destruction
+expansion_source: patch
 level: '130'
 zone: '[[Sodden Archipelago]]'
 timeline: '[[Scars of Destruction Timeline]]'

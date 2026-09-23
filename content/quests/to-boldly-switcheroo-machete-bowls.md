@@ -1,7 +1,8 @@
 ---
 title: 'To Boldly Switcheroo: Machete Bowls'
 type: quest
-expansion: Shattered Lands
+expansion: Visions of Vetrovia
+expansion_source: level
 level: '130'
 difficulty: solo
 zone: '[[Spiral of Vul (Contested)]]'

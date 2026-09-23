@@ -2,6 +2,7 @@
 title: Subtle 'Splosions
 type: quest
 expansion: Destiny of Velious
+expansion_source: patch
 level: '90'
 zone: '[[Great Divide]]'
 timeline: '[[Great Divide Timeline]]'
