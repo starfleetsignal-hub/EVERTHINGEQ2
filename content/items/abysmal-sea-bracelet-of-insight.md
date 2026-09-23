@@ -1,0 +1,90 @@
+---
+title: Abysmal Sea Bracelet of Insight
+type: item
+item_kind: Equipment
+icon: images/Item_952.png
+level: '120'
+slot: Wrist
+flags: lore-equip no-trade no-value
+stats:
+  sta: +4,961
+  agi: +2,526
+  health: +154,087
+  power: +96,833
+  critbonus: '871.1'
+  potency: 9,381.6
+  resolve: '275'
+  dps: '115'
+  multi: '17.5'
+  vselemental: +166,260
+obtained_from: Sold by [[Tishan's Lockbox (Svarni Expanse)]] (Merchant) for 0c.
+item_link: \aITEM 2136074423 1375596796 0 0 0:Abysmal Sea Bracelet of Insight\/a
+image: images/Abysmal_Sea_Bracelet_of_Insight.png
+categories:
+- Arcane Resistance (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crusader Equipment
+- DPS (Equipment)
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Elemental Resistance (Equipment)
+- Enchanter Equipment
+- Equipment
+- Equipment pages with existing iname images
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Mystic Equipment
+- Necromancer Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Potency (Equipment)
+- Predator Equipment
+- Ranger Equipment
+- Resistances (Equipment)
+- Resolve (Equipment)
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Tier 13 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+- Wrist (Inventory Slot)
+source:
+  title: Abysmal Sea Bracelet of Insight
+  url: https://eq2.fandom.com/wiki/Abysmal_Sea_Bracelet_of_Insight
+  history: https://eq2.fandom.com/wiki/Abysmal_Sea_Bracelet_of_Insight?action=history
+  revision: 1773936
+  revised: '2024-01-01T14:25:42Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: source
+---
+
+

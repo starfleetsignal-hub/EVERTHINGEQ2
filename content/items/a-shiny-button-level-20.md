@@ -1,0 +1,22 @@
+---
+title: A shiny button (Level 20)
+type: item
+icon: images/Item_1025.png
+item_level: '20'
+description: A button that has been well taken care of. A merchant might pay a few coin for this item.
+item_link: \aITEM -873237435 2064689245:a shiny button\/a
+categories:
+- Census Credits
+- Items
+source:
+  title: A shiny button (Level 20)
+  url: https://eq2.fandom.com/wiki/A_shiny_button_(Level_20)
+  history: https://eq2.fandom.com/wiki/A_shiny_button_(Level_20)?action=history
+  revision: 996733
+  revised: '2019-10-22T19:17:18Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

@@ -1,0 +1,65 @@
+---
+title: Ancient Velium Rapier (Version 2)
+type: item
+item_kind: Equipment
+icon: images/Item_614.png
+tier: Fabled
+level: '70'
+slot: Primary
+flags: attunable
+stats:
+  str: '+33'
+  sta: '+33'
+  crit: '1.4'
+  critbonus: '0.4'
+  potency: '1.9'
+  abmod: '+46'
+  dmg: 72 - 216
+  delay: '4.0'
+  drating: '72.15'
+  dtype: One-Handed Piercing
+  wtype: Rapier
+effects: '**Velium Shards**'
+item_link: \aITEM 568411361 -729055571:Ancient Velium Rapier\/a
+categories:
+- Ability Modifier (Equipment)
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brigand Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Combat Skills (Equipment)
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Dirge Equipment
+- Equipment
+- Fabled Equipment
+- Guardian Equipment
+- One-Handed Piercing (Equipment Type)
+- Potency (Equipment)
+- Predator Equipment
+- Primary (Inventory Slot)
+- Ranger Equipment
+- Rapier (Weapon Type)
+- Rogue Equipment
+- Scout Equipment
+- Secondary (Inventory Slot)
+- Swashbuckler Equipment
+- Tier 8 Equipment
+- Troubador Equipment
+- Velium Shards (Equipment)
+- Warrior Equipment
+source:
+  title: Ancient Velium Rapier (Version 2)
+  url: https://eq2.fandom.com/wiki/Ancient_Velium_Rapier_(Version_2)
+  history: https://eq2.fandom.com/wiki/Ancient_Velium_Rapier_(Version_2)?action=history
+  revision: 1893661
+  revised: '2025-09-17T21:14:33Z'
+  license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: level
+---
+
+

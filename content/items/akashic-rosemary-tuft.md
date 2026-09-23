@@ -1,0 +1,25 @@
+---
+title: Akashic Rosemary Tuft
+type: item
+icon: images/Item_336.png
+tier: Legendary
+item_level: '125'
+flags: temporary no-trade no-value
+description: A commonly requested item in many recipes used by the Dreadfell coven. No refunds or substitutions, so be careful with them! You might find a purpose for them further into the Akashic Neverthere.
+item_link: \aITEM -587406513 -1909672531:Akashic Rosemary Tuft\/a
+categories:
+- Census Credits
+- Items
+- Legendary Items
+source:
+  title: Akashic Rosemary Tuft
+  url: https://eq2.fandom.com/wiki/Akashic_Rosemary_Tuft
+  history: https://eq2.fandom.com/wiki/Akashic_Rosemary_Tuft?action=history
+  revision: 1447998
+  revised: '2022-06-04T15:41:32Z'
+  license: CC BY-SA 3.0
+expansion: Visions of Vetrovia
+expansion_source: level
+---
+
+

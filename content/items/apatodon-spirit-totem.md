@@ -1,0 +1,26 @@
+---
+title: Apatodon Spirit Totem
+type: item
+item_kind: Collection Item
+icon: images/Item_372.png
+item_level: '100'
+obtained_from: Random shiny harvest on [[South Dshinn]] in the [[Tranquil Sea]]
+item_link: \aITEM 173459636 -1494187960:Apatodon Spirit Totem\/a
+image: images/Apatodon_Spirit_Totem.png
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Item pages with existing iname images
+- Items
+source:
+  title: Apatodon Spirit Totem
+  url: https://eq2.fandom.com/wiki/Apatodon_Spirit_Totem
+  history: https://eq2.fandom.com/wiki/Apatodon_Spirit_Totem?action=history
+  revision: 1998935
+  revised: '2026-04-29T09:13:15Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: source
+---
+
+This item is needed for the collection: [[Ancient Animals]]

@@ -1,0 +1,26 @@
+---
+title: A crude oil painting of a knight
+type: item
+item_kind: House Item
+icon: images/Item_855.png
+tier: Handcrafted
+item_level: '0'
+description: This item can be placed on the wall in any house type.
+item_link: \aITEM -602491646 1764465992:a crude oil painting of a knight \/a
+categories:
+- Census Credits
+- Handcrafted Items
+- House Item (Item Type)
+- Items
+- Items with Rent Status Reduction
+- Tier 1 RSR Items
+source:
+  title: A crude oil painting of a knight
+  url: https://eq2.fandom.com/wiki/A_crude_oil_painting_of_a_knight
+  history: https://eq2.fandom.com/wiki/A_crude_oil_painting_of_a_knight?action=history
+  revision: 1376629
+  revised: '2021-12-05T19:50:33Z'
+  license: CC BY-SA 3.0
+---
+
+

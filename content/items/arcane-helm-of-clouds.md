@@ -1,0 +1,47 @@
+---
+title: Arcane Helm of Clouds
+type: item
+item_kind: Equipment
+icon: images/Item_3062.png
+tier: Treasured
+level: '71'
+slot: Head
+flags: attunable
+stats:
+  wis: '+22'
+  mit: '454'
+  vsarcane: '+300'
+  dtype: Plate Armor
+item_link: \aITEM 1583592605 956902:Arcane Helm of Clouds\/a
+categories:
+- Arcane Resistance (Equipment)
+- Berserker Equipment
+- Census Credits
+- Cleric Equipment
+- Crusader Equipment
+- Elemental Resistance (Equipment)
+- Equipment
+- Guardian Equipment
+- Head (Inventory Slot)
+- Inquisitor Equipment
+- Noxious Resistance (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Resistances (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Treasured Equipment
+- Warrior Equipment
+source:
+  title: Arcane Helm of Clouds
+  url: https://eq2.fandom.com/wiki/Arcane_Helm_of_Clouds
+  history: https://eq2.fandom.com/wiki/Arcane_Helm_of_Clouds?action=history
+  revision: 739317
+  revised: '2017-09-13T22:00:18Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

@@ -1,0 +1,69 @@
+---
+title: Academic's Blade of Energy
+type: item
+item_kind: Equipment
+icon: images/Item_3583.png
+tier: Mastercrafted Legendary
+level: '110'
+slot: Primary
+classes: ', , , [[Channeler]], [[Beastlord]]'
+flags: attunable infusable
+description: Gains experience as Planar Essences are imbued into the item.  Each Planar Level increases the base Ability Modifier, Potency, and Primary Attributes by 5%.
+stats:
+  sta: +3,298
+  agi: +2,082
+  health: +83,728
+  power: +37,668
+  crit: '676.6'
+  potency: 1,044.1
+  resolve: '180'
+  abmod: +11,086
+  aspeed: '113.4'
+  cbovercap: '+51.6'
+  dmg: 1362 - 2042
+  delay: '6.0'
+  drating: '567.3'
+  dtype: Two-Handed Slashing
+  wtype: Great Sword
+effects: '**Decisive Strike**'
+obtained_from: Crafted by [[Weaponsmith]] (level 110) from [[Advanced Weaponsmith Studies 05]]
+item_link: \aITEM 1107079917 2080076287:Academic's Blade of Energy\/a
+categories:
+- Ability Modifier (Equipment)
+- Attack Speed (Equipment)
+- Beastlord Equipment
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Crit Bonus Overcap (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Decisive Strike (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Great Sword (Weapon Type)
+- Guardian Equipment
+- Mastercrafted Legendary Equipment
+- Paladin Equipment
+- Potency (Equipment)
+- Primary (Inventory Slot)
+- Resolve (Equipment)
+- Shadowknight Equipment
+- Tier 12 Equipment
+- Two-Handed Slashing (Equipment Type)
+- Warden Equipment
+- Warrior Equipment
+source:
+  title: Academic's Blade of Energy
+  url: https://eq2.fandom.com/wiki/Academic's_Blade_of_Energy
+  history: https://eq2.fandom.com/wiki/Academic's_Blade_of_Energy?action=history
+  revision: 1893478
+  revised: '2025-09-17T21:08:20Z'
+  license: CC BY-SA 3.0
+expansion: Chaos Descending
+expansion_source: source
+---
+
+

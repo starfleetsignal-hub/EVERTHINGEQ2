@@ -1,0 +1,31 @@
+---
+title: 'Ancient Knowledge: Fortified Hoop of Rancor'
+type: item
+item_kind: Recipe book
+icon: images/Item_719.png
+tier: Fabled
+level: '60'
+classes: Carpenter
+flags: no-trade no-value
+description: A powerful recipe.
+recipes: '- [[Fortified Hoop of Rancor]]'
+obtained_from: Sold by tradeskill recipe merchants (Tradeskill Apprentices).
+item_link: '\aITEM -478052457 -1316292873:Ancient Knowledge: Fortified Hoop of Rancor\/a'
+categories:
+- Carpenter Recipe Books
+- Census Credits
+- Fabled Recipe Books
+- Recipe Books
+- Recipe Books from Tradeskill Apprentice
+source:
+  title: 'Ancient Knowledge: Fortified Hoop of Rancor'
+  url: https://eq2.fandom.com/wiki/Ancient_Knowledge:_Fortified_Hoop_of_Rancor
+  history: https://eq2.fandom.com/wiki/Ancient_Knowledge:_Fortified_Hoop_of_Rancor?action=history
+  revision: 721247
+  revised: '2017-08-27T18:13:47Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

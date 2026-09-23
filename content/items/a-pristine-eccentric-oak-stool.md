@@ -1,0 +1,29 @@
+---
+title: A pristine eccentric oak stool
+type: item
+item_kind: House Item
+icon: images/Item_649.png
+tier: Mastercrafted Legendary
+item_level: '30'
+description: This item can be placed on the floor in any house type.
+obtained_from: '*Crafted by [[Carpenter]] (level 39) from [[Advanced Carpenter Volume 39 (Normal)]] *Crafted by [[Carpenter]] (level 39) from [[Advanced Carpenter Volume 39 (No-Trade)]]'
+item_link: \aITEM -1296581816 -1579741766:a pristine eccentric oak stool\/a
+categories:
+- Census Credits
+- House Item (Item Type)
+- Items
+- Items with Rent Status Reduction
+- Mastercrafted Legendary Items
+- Tier 4 RSR Items
+source:
+  title: A pristine eccentric oak stool
+  url: https://eq2.fandom.com/wiki/A_pristine_eccentric_oak_stool
+  history: https://eq2.fandom.com/wiki/A_pristine_eccentric_oak_stool?action=history
+  revision: 1376891
+  revised: '2021-12-05T20:47:21Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: level
+---
+
+

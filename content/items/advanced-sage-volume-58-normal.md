@@ -1,0 +1,72 @@
+---
+title: Advanced Sage Volume 58 (Normal)
+type: item
+item_kind: Recipe book
+icon: images/Item_185.png
+tier: Uncommon
+level: '58'
+classes: Sage
+recipes: '- [[Aegolism V (Expert)]]
+
+  - [[Ancestral Mettle IV (Expert)]]
+
+  - [[Aspect of the Forest V (Expert)]]
+
+  - [[Bewilderment IV (Expert)]]
+
+  - [[Bloodcloud IV (Expert)]]
+
+  - [[Earthquake IV (Expert)]]
+
+  - [[Encase IV (Expert)]]
+
+  - [[Essence of the Great Bear IV (Expert)]]
+
+  - [[Eye Shot IV (Expert)]]
+
+  - [[Fanatic''s Faith IV (Expert)]]
+
+  - [[Grasping Bones IV (Expert)]]
+
+  - [[Harbinger V (Expert)]]
+
+  - [[Lucidity V (Expert)]]
+
+  - [[Magma Chamber V (Expert)]]
+
+  - [[Master of the Hunt IV (Expert)]]
+
+  - [[Noxious Efflux IV (Expert)]]
+
+  - [[Petrify IV (Expert)]]
+
+  - [[Premonition V (Expert)]]
+
+  - [[Silence IV (Expert)]]
+
+  - [[Speechless IV (Expert)]]
+
+  - [[Stupefy IV (Expert)]]
+
+  - [[Symbol of Marzin IV (Expert)]]
+
+  - [[Tenacity V (Expert)]]'
+obtained_from: This recipe book drops from creatures (level 58).
+item_link: \aITEM -140464815 955701669:Advanced Sage Volume 58\/a
+categories:
+- Census Credits
+- Recipe Books
+- Sage Recipe Books
+- Uncommon Recipe Books
+source:
+  title: Advanced Sage Volume 58 (Normal)
+  url: https://eq2.fandom.com/wiki/Advanced_Sage_Volume_58_(Normal)
+  history: https://eq2.fandom.com/wiki/Advanced_Sage_Volume_58_(Normal)?action=history
+  revision: 905021
+  revised: '2018-09-29T15:31:22Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

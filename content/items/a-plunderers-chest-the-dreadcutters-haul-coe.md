@@ -1,0 +1,23 @@
+---
+title: A Plunderer's Chest (The Dreadcutter's Haul CoE)
+type: item
+item_kind: Collection Item
+icon: images/Item_566.png
+item_level: '85'
+item_link: \aITEM -134232285 1171978962:A Plunderer's Chest\/a
+categories:
+- Census Credits
+- Collection Item (Item Type)
+- Items
+source:
+  title: A Plunderer's Chest (The Dreadcutter's Haul CoE)
+  url: https://eq2.fandom.com/wiki/A_Plunderer's_Chest_(The_Dreadcutter's_Haul_CoE)
+  history: https://eq2.fandom.com/wiki/A_Plunderer's_Chest_(The_Dreadcutter's_Haul_CoE)?action=history
+  revision: 1827617
+  revised: '2024-10-23T20:46:40Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+This item is needed for the collection: [[The Dreadcutter's Haul (Chains of Eternity)|The Dreadcutter's Haul]]

@@ -1,0 +1,69 @@
+---
+title: Acid Pocked Focus (Level 72)
+type: item
+item_kind: Equipment
+icon: images/Item_348.png
+tier: Treasured
+level: '72'
+slot: Ranged
+flags: no-trade
+stats:
+  sta: '+45'
+  wis: '+45'
+  crit: '2.2'
+  critbonus: '0.7'
+  potency: '3.6'
+  dmg: 85 - 480
+  delay: '8.0'
+  drating: '70.65'
+  range: Up to 35
+  dtype: ranged
+  wtype: Focus
+obtained_from: '[[Descamus'' Payment: Yeti Skins]]'
+item_link: \aITEM 454963568 1895188956:Acid Pocked Focus\/a
+categories:
+- Casting Speed (Equipment)
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Combat Skills (Equipment)
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Defiler Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Equipment
+- Focus (Weapon Type)
+- Fury Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Priest Equipment
+- Ranged (Equipment Type)
+- Ranged (Inventory Slot)
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Templar Equipment
+- Tier 8 Equipment
+- Treasured Equipment
+- Warden Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Acid Pocked Focus (Level 72)
+  url: https://eq2.fandom.com/wiki/Acid_Pocked_Focus_(Level_72)
+  history: https://eq2.fandom.com/wiki/Acid_Pocked_Focus_(Level_72)?action=history
+  revision: 1510176
+  revised: '2022-06-16T22:02:54Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: source
+---
+
+

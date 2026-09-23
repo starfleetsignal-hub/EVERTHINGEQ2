@@ -1,0 +1,95 @@
+---
+title: A Packet of Heroic Goods (Channeler, 90)
+type: item
+item_kind: Crate
+icon: images/Item_3155.png
+item_level: '0'
+flags: no-trade no-value
+description: A Packet of Heroic Goods.
+contains: '- [[Valorous Focus (Level 90){{!}}Valorous Focus]]
+
+  - [[Valorous Talisman (Level 90){{!}}Valorous Talisman]]
+
+  - [[Valorous Cloak (Level 90){{!}}Valorous Cloak]]
+
+  - [[Valorous Earring (Level 90) (Version 2){{!}}Valorous Earring]]
+
+  - [[Valorous Earring (Level 90) (Version 1){{!}}Valorous Earring]]
+
+  - [[Valorous Ring (Level 90) (Version 2){{!}}Valorous Ring]]
+
+  - [[Valorous Ring (Level 90) (Version 1){{!}}Valorous Ring]]
+
+  - [[Valorous Amulet (Level 90){{!}}Valorous Amulet]]
+
+  - [[Valorous Belt (Level 90){{!}}Valorous Belt]]
+
+  - [[Valorous Bracelet (Level 90) (Version 1){{!}}Valorous Bracelet]]
+
+  - [[Valorous Bracelet (Level 90) (Version 2){{!}}Valorous Bracelet]]
+
+  - [[Plain Rhenium Arrow (Level 90 Crate){{!}}Plain Rhenium Arrow]]
+
+  - [[Plain Rhenium Arrow (Level 90 Crate){{!}}Plain Rhenium Arrow]]
+
+  - [[Plain Rhenium Arrow (Level 90 Crate){{!}}Plain Rhenium Arrow]]
+
+  - [[Shaper''s Valorous Tunic (Level 90){{!}}Shaper''s Valorous Tunic]]
+
+  - [[Shaper''s Valorous Boots (Level 90){{!}}Shaper''s Valorous Boots]]
+
+  - [[Shaper''s Valorous Bracers (Level 90){{!}}Shaper''s Valorous Bracers]]
+
+  - [[Shaper''s Valorous Gloves (Level 90){{!}}Shaper''s Valorous Gloves]]
+
+  - [[Shaper''s Valorous Cap (Level 90){{!}}Shaper''s Valorous Cap]]
+
+  - [[Shaper''s Valorous Pants (Level 90){{!}}Shaper''s Valorous Pants]]
+
+  - [[Shaper''s Valorous Sleeves (Level 90){{!}}Shaper''s Valorous Sleeves]]
+
+  - [[Adventurer''s Ammo Pouch]]
+
+  - [[(5) Adventurer''s Rucksack]]
+
+  - [[Academic''s Arcane Remedy (Level 90 Crate){{!}}Academic''s Arcane Remedy]]
+
+  - [[Academic''s Elemental Remedy (Level 90 Crate){{!}}Academic''s Elemental Remedy]]
+
+  - [[Academic''s Noxious Remedy (Level 90 Crate){{!}}Academic''s Noxious Remedy]]
+
+  - [[Academic''s Trauma Remedy (Level 90 Crate){{!}}Academic''s Trauma Remedy]]
+
+  - [[Academic''s Essence of Health (Level 90 Crate){{!}}Academic''s Essence of Health]]
+
+  - [[Academic''s Essence of Power (Level 90 Crate){{!}}Academic''s Essence of Power]]
+
+  - [[Heroic Stone of Return: Eidolon Jungle]]
+
+  - [[Eidolon Ale (Level 90 Crate){{!}}Eidolon Ale]]
+
+  - [[Eidolon Iron Rations (Level 90 Crate){{!}}Eidolon Iron Rations]]
+
+  - [[Valorous Priest''s Longbow (Level 90){{!}}Valorous Priest''s Longbow]]
+
+  - [[Valorous Priest''s Falchion (Level 90){{!}}Valorous Priest''s Falchion]]
+
+  - [[Valorous Priest''s Buckler (Level 90){{!}}Valorous Priest''s Buckler]]'
+obtained_from: '[[Heroic Armory! (Version 4)|Heroic Armory!]]'
+item_link: \aITEM -392326855 357351600:A Packet of Heroic Goods\/a
+categories:
+- Census Credits
+- Crate (Item Type)
+- Items
+source:
+  title: A Packet of Heroic Goods (Channeler, 90)
+  url: https://eq2.fandom.com/wiki/A_Packet_of_Heroic_Goods_(Channeler,_90)
+  history: https://eq2.fandom.com/wiki/A_Packet_of_Heroic_Goods_(Channeler,_90)?action=history
+  revision: 1823168
+  revised: '2024-09-24T03:58:33Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+

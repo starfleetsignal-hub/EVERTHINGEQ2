@@ -1,0 +1,52 @@
+---
+title: 'Aetheric Mastery Scroll Case: Beastlord'
+type: item
+item_kind: Crate
+icon: images/Item_4813.png
+item_level: '0'
+flags: no-trade no-value
+description: Grants a choice of Beastlord spell scrolls.
+contains: '- [[Quick Swipe XV{{!}}Quick Swipe XV (Grandmaster)]]
+
+  - [[Warder''s Ferocity IV{{!}}Warder''s Ferocity IV (Grandmaster)]]
+
+  - [[Glacial Lance XV{{!}}Glacial Lance XV (Grandmaster)]]
+
+  - [[Rush XV{{!}}Rush XV (Grandmaster)]]
+
+  - [[Savage Rake IV{{!}}Savage Rake IV (Grandmaster)]]
+
+  - [[Vine Net XIV{{!}}Vine Net XIV (Grandmaster)]]
+
+  - [[Chilling Claws XII{{!}}Chilling Claws XII (Grandmaster)]]
+
+  - [[Spinechiller Blood XV{{!}}Spinechiller Blood XV (Grandmaster)]]
+
+  - [[Animalistic Intent II{{!}}Animalistic Intent II (Grandmaster)]]
+
+  - [[Feral Destruction IV{{!}}Feral Destruction IV (Grandmaster)]]
+
+  - [[Savage Beating III{{!}}Savage Beating III (Grandmaster)]]
+
+  - [[Savage Ruin XII{{!}}Savage Ruin XII (Grandmaster)]]
+
+  - [[Shred III{{!}}Shred III (Grandmaster)]]
+
+  - [[Evade XII{{!}}Evade XII (Grandmaster)]]'
+obtained_from: 'Achievement reward: [[130th Season Adventurer]]'
+item_link: '\aITEM 892618642 -830173653:Aetheric Mastery Scroll Case: Beastlord\/a'
+categories:
+- Achievement Rewards
+- Census Credits
+- Crate (Item Type)
+- Items
+source:
+  title: 'Aetheric Mastery Scroll Case: Beastlord'
+  url: https://eq2.fandom.com/wiki/Aetheric_Mastery_Scroll_Case:_Beastlord
+  history: https://eq2.fandom.com/wiki/Aetheric_Mastery_Scroll_Case:_Beastlord?action=history
+  revision: 1784252
+  revised: '2024-02-18T00:13:35Z'
+  license: CC BY-SA 3.0
+---
+
+

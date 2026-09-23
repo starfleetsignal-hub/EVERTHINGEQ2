@@ -1,0 +1,52 @@
+---
+title: Ancient's Plate Boots
+type: item
+item_kind: Equipment
+icon: images/Item_4105.png
+tier: Legendary
+level: '90'
+slot: Feet
+flags: attunable heirloom infusable
+stats:
+  str: '+64'
+  sta: '+64'
+  mit: '604'
+  crit: '3.8'
+  critbonus: '1.4'
+  potency: '6.2'
+  multi: '9.6'
+  dtype: Plate Armor
+item_link: \aITEM 1169471776 533154996:Ancient's Plate Boots\/a
+categories:
+- Berserker Equipment
+- Casting Speed (Equipment)
+- Census Credits
+- Cleric Equipment
+- Crit Bonus (Equipment)
+- Crit Chance (Equipment)
+- Crusader Equipment
+- Equipment
+- Feet (Inventory Slot)
+- Guardian Equipment
+- Inquisitor Equipment
+- Legendary Equipment
+- Multi Attack Chance (Equipment)
+- Paladin Equipment
+- Plate Armor (Equipment Type)
+- Potency (Equipment)
+- Shadowknight Equipment
+- Templar Equipment
+- Tier 10 Equipment
+- Warrior Equipment
+source:
+  title: Ancient's Plate Boots
+  url: https://eq2.fandom.com/wiki/Ancient's_Plate_Boots
+  history: https://eq2.fandom.com/wiki/Ancient's_Plate_Boots?action=history
+  revision: 1805416
+  revised: '2024-06-30T20:29:53Z'
+  license: CC BY-SA 3.0
+expansion: Sentinel's Fate
+expansion_source: level
+---
+
+

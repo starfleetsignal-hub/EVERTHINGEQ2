@@ -1,0 +1,32 @@
+---
+title: Advanced Woodworker Volume 74 (Normal)
+type: item
+item_kind: Recipe book
+icon: images/Item_185.png
+tier: Uncommon
+level: '74'
+classes: Woodworker
+recipes: '- [[Blessed Mahogany Pike]]
+
+  - [[Imbued Mahogany Pike]]
+
+  - [[Mahogany Pike]]'
+obtained_from: This recipe book drops from creatures (level 74).
+item_link: \aITEM 1219866810 223891032:Advanced Woodworker Volume 74\/a
+categories:
+- Census Credits
+- Recipe Books
+- Uncommon Recipe Books
+- Woodworker Recipe Books
+source:
+  title: Advanced Woodworker Volume 74 (Normal)
+  url: https://eq2.fandom.com/wiki/Advanced_Woodworker_Volume_74_(Normal)
+  history: https://eq2.fandom.com/wiki/Advanced_Woodworker_Volume_74_(Normal)?action=history
+  revision: 1537914
+  revised: '2022-07-24T22:07:11Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

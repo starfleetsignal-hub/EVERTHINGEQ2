@@ -1,0 +1,52 @@
+---
+title: Ancient Sandals of Malice (0 Gem, PvP)
+type: item
+item_kind: Equipment
+icon: images/Item_4152.png
+tier: Fabled
+level: '100'
+slot: Feet
+flags: attunable heirloom
+description: 0/2 red malice gem slots filled.
+stats:
+  sta: '+836'
+  int: '+343'
+  mit: '646'
+  critbonus: '29.4'
+  potency: '29.4'
+  abmod: +4,308
+  dtype: Cloth Armor
+item_link: \aITEM -844272383 675909011:Ancient Sandals of Malice\/a
+categories:
+- Ability Modifier (Equipment)
+- Census Credits
+- Cloth Armor (Equipment Type)
+- Coercer Equipment
+- Conjuror Equipment
+- Crit Bonus (Equipment)
+- Enchanter Equipment
+- Equipment
+- Fabled Equipment
+- Feet (Inventory Slot)
+- Illusionist Equipment
+- Mage Equipment
+- Necromancer Equipment
+- Potency (Equipment)
+- Reuse Speed (Equipment)
+- Sorcerer Equipment
+- Summoner Equipment
+- Tier 11 Equipment
+- Warlock Equipment
+- Wizard Equipment
+source:
+  title: Ancient Sandals of Malice (0 Gem, PvP)
+  url: https://eq2.fandom.com/wiki/Ancient_Sandals_of_Malice_(0_Gem,_PvP)
+  history: https://eq2.fandom.com/wiki/Ancient_Sandals_of_Malice_(0_Gem,_PvP)?action=history
+  revision: 1937693
+  revised: '2026-01-03T21:13:55Z'
+  license: CC BY-SA 3.0
+expansion: Altar of Malice
+expansion_source: level
+---
+
+

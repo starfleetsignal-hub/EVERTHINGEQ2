@@ -1,0 +1,31 @@
+---
+title: 'Ancient Knowledge: Toxic Dagger of Rapidity'
+type: item
+item_kind: Recipe book
+icon: images/Item_719.png
+tier: Fabled
+level: '80'
+classes: Weaponsmith
+flags: no-trade no-value
+description: A powerful recipe.
+recipes: '- [[Toxic Dagger of Rapidity]]'
+obtained_from: Sold by tradeskill recipe merchants (Tradeskill Apprentices).
+item_link: '\aITEM 1149396721 -186796171:Ancient Knowledge: Toxic Dagger of Rapidity\/a'
+categories:
+- Census Credits
+- Fabled Recipe Books
+- Recipe Books
+- Recipe Books from Tradeskill Apprentice
+- Weaponsmith Recipe Books
+source:
+  title: 'Ancient Knowledge: Toxic Dagger of Rapidity'
+  url: https://eq2.fandom.com/wiki/Ancient_Knowledge:_Toxic_Dagger_of_Rapidity
+  history: https://eq2.fandom.com/wiki/Ancient_Knowledge:_Toxic_Dagger_of_Rapidity?action=history
+  revision: 721537
+  revised: '2017-08-27T18:24:09Z'
+  license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: level
+---
+
+

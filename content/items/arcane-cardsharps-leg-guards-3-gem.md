@@ -1,0 +1,50 @@
+---
+title: Arcane Cardsharp's Leg Guards (3 Gem)
+type: item
+item_kind: Equipment
+icon: images/Item_3261.png
+tier: Legendary
+level: '95'
+slot: Legs
+classes: ', , [[Channeler]]'
+flags: attunable heirloom
+description: 3/4 blue gem slots filled
+stats:
+  str: '+305'
+  sta: '+634'
+  mit: '521'
+  critbonus: '29.1'
+  dps: '74.3'
+  multi: '106.2'
+  dtype: Leather Armor
+item_link: \aITEM -1335402982 320963513:Arcane Cardsharp's Leg Guards\/a
+categories:
+- Brawler Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Crit Bonus (Equipment)
+- DPS (Equipment)
+- Druid Equipment
+- Equipment
+- Fury Equipment
+- Leather Armor (Equipment Type)
+- Legendary Equipment
+- Legs (Inventory Slot)
+- Monk Equipment
+- Multi Attack Chance (Equipment)
+- Tier 10 Equipment
+- Warden Equipment
+- Weapon Damage Bonus (Equipment)
+source:
+  title: Arcane Cardsharp's Leg Guards (3 Gem)
+  url: https://eq2.fandom.com/wiki/Arcane_Cardsharp's_Leg_Guards_(3_Gem)
+  history: https://eq2.fandom.com/wiki/Arcane_Cardsharp's_Leg_Guards_(3_Gem)?action=history
+  revision: 1937815
+  revised: '2026-01-03T21:19:08Z'
+  license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: level
+---
+
+

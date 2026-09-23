@@ -1,0 +1,33 @@
+---
+title: Advanced Woodworker Volume 58 (Heirloom)
+type: item
+item_kind: Recipe book
+icon: images/Item_185.png
+tier: Uncommon
+level: '58'
+classes: Woodworker
+flags: heirloom
+recipes: '- [[Blessed Ironwood Sorcerer''s Staff]]
+
+  - [[Imbued Ironwood Sorcerer''s Staff]]
+
+  - [[Ironwood Sorcerer''s Staff]]'
+obtained_from: Sold by tradeskill recipe merchants (Advanced 50-59).
+item_link: \aITEM -43683636 967452404:Advanced Woodworker Volume 58\/a
+categories:
+- Census Credits
+- Recipe Books
+- Uncommon Recipe Books
+- Woodworker Recipe Books
+source:
+  title: Advanced Woodworker Volume 58 (Heirloom)
+  url: https://eq2.fandom.com/wiki/Advanced_Woodworker_Volume_58_(Heirloom)
+  history: https://eq2.fandom.com/wiki/Advanced_Woodworker_Volume_58_(Heirloom)?action=history
+  revision: 1699847
+  revised: '2023-03-16T22:31:00Z'
+  license: CC BY-SA 3.0
+expansion: Kingdom of Sky
+expansion_source: level
+---
+
+

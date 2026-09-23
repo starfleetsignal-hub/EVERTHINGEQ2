@@ -1,0 +1,71 @@
+---
+title: 'Amplifying Plume III: Environ Linimentum I'
+type: item
+item_kind: Equipment
+icon: images/Item_5510.png
+tier: Mastercrafted Fabled
+level: '10'
+slot: Textures
+flags: ornate no-trade no-value
+effects: '**Environ Linimentum**'
+obtained_from: 'Crafted by [[Artisan]] (level 135) from [[Amplifying Plumes III: Volume II]]'
+item_link: '\aITEM 901145484 455193843:Amplifying Plume III: Environ Linimentum I\/a'
+categories:
+- Assassin Equipment
+- Bard Equipment
+- Beastlord Equipment
+- Berserker Equipment
+- Brawler Equipment
+- Brigand Equipment
+- Bruiser Equipment
+- Census Credits
+- Channeler Equipment
+- Cleric Equipment
+- Coercer Equipment
+- Conjuror Equipment
+- Crusader Equipment
+- Defiler Equipment
+- Dirge Equipment
+- Druid Equipment
+- Enchanter Equipment
+- Environ Linimentum (Equipment)
+- Equipment
+- Fighter Equipment
+- Fury Equipment
+- Guardian Equipment
+- Illusionist Equipment
+- Inquisitor Equipment
+- Mage Equipment
+- Mastercrafted Fabled Equipment
+- Monk Equipment
+- Mystic Equipment
+- Necromancer Equipment
+- Paladin Equipment
+- Predator Equipment
+- Ranger Equipment
+- Rogue Equipment
+- Shadowknight Equipment
+- Shaman Equipment
+- Sorcerer Equipment
+- Summoner Equipment
+- Swashbuckler Equipment
+- Templar Equipment
+- Textures (Inventory Slot)
+- Tier 2 Equipment
+- Troubador Equipment
+- Warden Equipment
+- Warlock Equipment
+- Warrior Equipment
+- Wizard Equipment
+source:
+  title: 'Amplifying Plume III: Environ Linimentum I'
+  url: https://eq2.fandom.com/wiki/Amplifying_Plume_III:_Environ_Linimentum_I
+  history: https://eq2.fandom.com/wiki/Amplifying_Plume_III:_Environ_Linimentum_I?action=history
+  revision: 2015256
+  revised: '2026-07-05T12:35:08Z'
+  license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: source
+---
+
+
