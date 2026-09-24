@@ -16,7 +16,8 @@ stats:
   drating: '41.27'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,648\n      - Must be flanking or behind\n    - Increases Threat to target by 2,313\n      - Must be in front of\n    - Inflicts 91 - 168 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 48) from [[Woodworker Essentials Volume 48 (Normal)]] *Crafted by [[Woodworker]] (level 48) from [[Woodworker Essentials Volume 48 (no-trade)]]'
 item_link: \aITEM 510968171 -590912509:Imbued Teak Sorcerer's Staff\/a
 categories:

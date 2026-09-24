@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate attunable no-value
-effects: '**Amplifying Plume: Ability Doublecast**'
+effect_name: 'Amplifying Plume: Ability Doublecast'
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 16.9.\n  - The value of this effect is increased by the number of characters in the group or raid wearing an Amplifying Plume effect to a maximum of double the base value."
 obtained_from: '*Crafted by [[Artisan]] (level 0) from [[Basic Plumes for All (Robust, Striking)]] *Crafted by [[Artisan]] (level 0) from [[Plumes of Inspired Jubilation]]'
 item_link: \aITEM 1464687634 320243435:Striking Plume of Inspired Jubilation\/a
 categories:

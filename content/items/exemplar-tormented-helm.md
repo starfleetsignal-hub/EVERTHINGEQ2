@@ -19,7 +19,8 @@ stats:
   abmod: +9,478
   multi: '118.4'
   dtype: Chain Armor
-effects: '**Deathbringer''s Sight**'
+effect_name: Deathbringer's Sight
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Territus, the Deathbringer."
 obtained_from: From [[Satchel of the Deathbringer]]
 item_link: \aITEM -1951489279 1065463164:Exemplar Tormented Helm\/a
 categories:

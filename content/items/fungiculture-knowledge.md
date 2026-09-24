@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: +1,527
   aspeed: '17.2'
-effects: '**Noxious Focus**'
+effect_name: Noxious Focus
+effects: "- Applies Noxious Focus III when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all noxious abilities.\n  - Removes 200 potency from arcane and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Noxious Focus III is 2 minutes"
 obtained_from: '[[Ironblood and Guts]]'
 item_link: \aITEM 1947935543 13982536:Fungiculture Knowledge\/a
 image: images/Fungiculture_Knowledge.png

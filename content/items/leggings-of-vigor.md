@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   aspeed: '2.7'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 item_link: \aITEM -2108483122 630626948:Leggings of Vigor\/a
 categories:
 - Assassin Equipment

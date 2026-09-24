@@ -18,7 +18,8 @@ stats:
   vselemental: +1,269
   mitinc: '6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: From [[Satchel of Vanquisher's Leather]]
 item_link: \aITEM -459755302 821163325:Vanquisher's Dragon Leather Gloves\/a
 categories:

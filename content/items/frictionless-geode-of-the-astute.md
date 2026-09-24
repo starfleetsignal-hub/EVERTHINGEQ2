@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless II when Activated.  Lasts for 18.0 seconds.\n  - Lasts for a maximum of four spells\n  - Increases the potency of heals and wards by 60%.\n  - Prevents caster from being Interrupted due to movement\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless II is 1 minute"
 item_link: \aITEM -266226790 -1040853666:Frictionless Geode of the Astute\/a
 categories:
 - Assassin Equipment

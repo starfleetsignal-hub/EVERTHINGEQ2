@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Chain Armor
-effects: '**Adrenaline Rage**'
+effect_name: Adrenaline Rage
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Adrenaline Rage on caster.  Lasts for 15.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases Multi Attack of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1347694324 -649197050:Trooper Scale Boots\/a
 categories:
 - Ability Modifier (Equipment)

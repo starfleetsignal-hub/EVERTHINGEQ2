@@ -15,7 +15,8 @@ stats:
   drating: '14.29'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Fire Ball**'
+effect_name: Fire Ball
+effects: "- Applies Fire Ball when Activated.\n  - Inflicts 67 - 112 heat damage on target.\n  - The casting time of Fire Ball is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -2055253639 -1137603542:shaped flame imbued ash wand\/a
 categories:
 - Berserker Equipment

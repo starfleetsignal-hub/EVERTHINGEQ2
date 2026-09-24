@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.3'
   dtype: Cloth Armor
-effects: '**Incandescent Blurt**'
+effect_name: Incandescent Blurt
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Incandescent Blurt on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 740 magic damage on target.\n    - Inflicts 74 magic damage on target every 4 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -532115583 1283937313:Starred Robe\/a
 categories:
 - Assassin Equipment

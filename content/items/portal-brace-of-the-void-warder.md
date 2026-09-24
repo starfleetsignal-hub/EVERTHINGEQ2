@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   str: '+1'
   sta: '+1'
-effects: '**Rift Portals**'
+effect_name: Rift Portals
+effects: "- Applies Rift Portals when Activated.\n  - Shifts the caster partially into the void, producing small rifts around them."
 obtained_from: Made from [[A Void Cube]]
 item_link: \aITEM 552342734 -2044085964:Portal Brace of the Void Warder\/a
 categories:

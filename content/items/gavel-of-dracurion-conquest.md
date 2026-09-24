@@ -19,7 +19,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Soothing Sigil**'
+effect_name: Soothing Sigil
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil II on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 200 levels of any hostile effects on target\n    - Heals target for 5,384 - 5,951.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1671312284 994118937:Gavel of Dracurion Conquest\/a
 categories:
 - Assassin Equipment

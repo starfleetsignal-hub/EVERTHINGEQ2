@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending IV on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target by 0.8%.\n    - Inflicts 820 disease damage on target instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1705625736 -1256989768:The Dark Sender\/a
 categories:
 - Ability Modifier (Equipment)

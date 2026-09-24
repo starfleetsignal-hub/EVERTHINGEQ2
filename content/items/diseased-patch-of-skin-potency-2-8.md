@@ -13,7 +13,8 @@ stats:
   crit: '7'
   critbonus: '3.6'
   potency: '2.8'
-effects: '**Shielding Presence**'
+effect_name: Shielding Presence
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Shielding Presence on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Block Chance of target by 10.0%.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 71264063 -1217219483:Diseased Patch of Skin\/a
 categories:
 - Casting Speed (Equipment)

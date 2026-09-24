@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   multi: '16.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: From [[Ornate Crate of Endless Goodies]]
 item_link: \aITEM -1220815072 336364202:Overt Gloves of Draconic Recognition\/a
 categories:

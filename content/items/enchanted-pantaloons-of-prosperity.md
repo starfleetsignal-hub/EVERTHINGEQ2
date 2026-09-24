@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '50'
   dtype: Cloth Armor
-effects: '**Glyph of Stamina**'
+effect_name: Glyph of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Stamina on caster.  Lasts for 30.0 seconds.\n    - Increases STA of target by 8.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1448816387 1833787976:Enchanted Pantaloons of Prosperity\/a
 categories:
 - Assassin Equipment

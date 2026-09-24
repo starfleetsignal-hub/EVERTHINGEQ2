@@ -16,7 +16,8 @@ stats:
   potency: '5'
   multi: '4'
   dtype: Leather Armor
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,218 - 1,827 poison damage on target\n    - Heals caster for 811 - 1,217\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1331299540 -1653590549:Discord's Hide of Kejaan\/a
 categories:
 - Brawler Equipment

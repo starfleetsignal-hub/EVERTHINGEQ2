@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   vsarcane: '+280'
-effects: '**Debilitating Strike**'
+effect_name: Debilitating Strike
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 25% chance to cast Debilitating Strike on target of spell.  Lasts for 12.0 seconds.\n    - Decreases DPS of target by 6.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 87580815 -269233957:Chaos-etched Ring\/a
 categories:
 - Ability Modifier (Equipment)

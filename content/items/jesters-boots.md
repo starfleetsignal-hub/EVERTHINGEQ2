@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 538909981 -207631145:Jester's Boots\/a
 categories:
 - Ability Modifier (Equipment)

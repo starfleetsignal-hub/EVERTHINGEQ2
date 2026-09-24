@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   aspeed: '5'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -1085254741 307890155:Elegant Praetor's Robes\/a
 categories:
 - Arcane Recovery (Equipment)

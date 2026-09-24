@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   aspeed: '118.4'
   dtype: Leather Armor
-effects: '**Deathbringer''s Sight**'
+effect_name: Deathbringer's Sight
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Territus, the Deathbringer."
 obtained_from: From [[Satchel of the Deathbringer]]
 item_link: \aITEM 466303364 -1882054744:Exemplar  Druadic Gloves\/a
 categories:

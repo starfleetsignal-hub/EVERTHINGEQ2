@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   mitinc: '5.1'
   dtype: Leather Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 1259452630 -2140202207 0 0 0:Furious Voidchanneled Shoulderpads of Restoration\/a
 categories:
 - Ability Modifier (Equipment)

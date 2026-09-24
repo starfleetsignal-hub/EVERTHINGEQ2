@@ -11,7 +11,8 @@ stats:
   str: '+7'
   sta: '+7'
   dtype: Tower Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 43 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Advanced Armorer Volume 20 (Normal)]] *Crafted by [[Armorer]] (level 20) from [[Advanced Armorer Volume 20 (No-Trade)]]'
 item_link: \aITEM 1076299880 472810628:Imbued Steel Tower Shield\/a
 categories:

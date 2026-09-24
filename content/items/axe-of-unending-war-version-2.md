@@ -19,7 +19,8 @@ stats:
   drating: '104.66'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Fever of War**'
+effect_name: Fever of War
+effects: "- When Equipped:\n  - Caster will Parry 5.0% of incoming attacks.\n  - On a combat hit this spell may cast Fever of War on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 121 - 282 slashing damage on targets in Area of Effect.\n    - Inflicts 30 - 69 slashing damage on targets in Area of Effect every 4 seconds.\n    - Increases Multi Attack of caster by 10.0.\n    - Increases Crit Chance of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1668164397 2111640466:Axe of Unending War\/a
 categories:
 - Ability Modifier (Equipment)

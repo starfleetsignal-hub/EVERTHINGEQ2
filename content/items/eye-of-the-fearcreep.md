@@ -11,7 +11,8 @@ stats:
   sta: '+15'
   mit: '446'
   dtype: Cloth Armor
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 6.5%."
 obtained_from: Crafted by [[Armorer]] (level 90) from [[Advanced Armorer Volume 90]]
 item_link: \aITEM 608497230 35535025:Eye of the Fearcreep\/a
 categories:

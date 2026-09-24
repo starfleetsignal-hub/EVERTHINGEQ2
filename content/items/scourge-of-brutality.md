@@ -16,7 +16,8 @@ stats:
   drating: '8.11'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Force Burst Glyph**'
+effect_name: Force Burst Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1075512978 -1810484083:Scourge of Brutality\/a
 categories:
 - Beastlord Equipment

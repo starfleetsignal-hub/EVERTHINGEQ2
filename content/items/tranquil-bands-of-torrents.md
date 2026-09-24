@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '28'
   dtype: Cloth Armor
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- When Equipped:\n  - Increases Disruption, Focus and Subjugation of caster by 4.0.\n  - Reduces resistibility of all spells by 0.3%."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Tranquil Bands of Torrents]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1004277711 1066762182:Tranquil Bands of Torrents\/a
 categories:

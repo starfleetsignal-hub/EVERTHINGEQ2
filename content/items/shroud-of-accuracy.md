@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Void Frenzy**'
+effect_name: Void Frenzy
+effects: "- When Equipped:\n  - Reduces the reuse timers of all combat arts by 5%."
 item_link: \aITEM -1087826377 390813170 0 0 0:Shroud of Accuracy\/a
 categories:
 - Ability Modifier (Equipment)

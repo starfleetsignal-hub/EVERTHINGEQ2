@@ -16,7 +16,8 @@ stats:
   abmod: '+405'
   dps: '27.9'
   vselemental: '+624'
-effects: '**Destructive Command**'
+effect_name: Destructive Command
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Destructive Command on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of group members (AE) by 5.0%.\n    - Increases DPS of group members (AE) by 25.0.\n    - Increases Haste of group members (AE) by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Clutch Of Violent Visions]] *Made from [[A Bloody Prime Drakota Eye]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Maligonian Horns]]'
 item_link: \aITEM -1967561101 1506696550:Clutch of Violent Visions\/a
 categories:

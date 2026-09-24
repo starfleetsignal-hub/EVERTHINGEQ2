@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vselemental: '+434'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 677651141 -1971444056:Ring of the Powermonger\/a
 categories:
 - Ability Modifier (Equipment)

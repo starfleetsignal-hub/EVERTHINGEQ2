@@ -18,7 +18,8 @@ stats:
   resolve: '345'
   aspeed: '22.4'
   flurry: '27.8'
-effects: '**Neverburning Flames**'
+effect_name: Neverburning Flames
+effects: "- Applies Neverburning Flames when Activated.\n  - \"Neverburning Flames\" increases the wearer's fervor by 15.\n  - The casting time of Neverburning Flames is 0.5 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM -1124868403 -413403074:Neverthere Everburning Candle\/a
 categories:
 - Assassin Equipment

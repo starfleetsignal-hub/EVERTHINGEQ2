@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   mitinc: '11.2'
-effects: '**Bulwark**'
+effect_name: Bulwark
+effects: "- When Equipped:\n  - Increases the raid's maximum health by 5% when in defensive stance. This effect stacks from multiple casters.\n  - If fighter"
 obtained_from: From [[Talan's Fighting Necklace]]
 item_link: \aITEM -1613204199 1354366436:Stone of the Bulwark\/a
 categories:

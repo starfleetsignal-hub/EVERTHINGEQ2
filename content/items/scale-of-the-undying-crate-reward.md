@@ -21,7 +21,8 @@ stats:
   multi: '22.1'
   flurry: '18.4'
   mitinc: '9.1'
-effects: '**Undying**'
+effect_name: Undying
+effects: "- Applies Undying when Activated.  Lasts for 8.0 seconds.\n  - When damaged this spell will cast Shock of Rime on target's attacker.\n    - Inflicts 15,135 - 18,498 cold damage on target.\n    - Cannot be modified except by direct means\n    - Grants a total of 5 triggers of the spell.\n    - This effect can only trigger once every 0.1 seconds.\n  - On death this spell will cast Rune of Undying on target.\n    - Heals caster for 100.0% of max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Undying is 1.0 second and the reuse time of the spell is 8 minutes"
 obtained_from: From [[Scale of the Undying (crate)|Scale of the Undying]]
 item_link: \aITEM -854412777 1052894159:Scale of the Undying\/a
 categories:

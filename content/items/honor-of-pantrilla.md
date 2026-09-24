@@ -15,7 +15,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   dtype: Symbols
-effects: '**Honor of Pantrilla**'
+effect_name: Honor of Pantrilla
+effects: "- Applies Honor of Pantrilla when Activated.\n  - Increases power of caster by 1,139.\n  - The reuse time of Honor of Pantrilla is 10 minutes\n  - Requires 1 Power to cast."
 item_link: \aITEM 965301096 -930467165:Honor of Pantrilla\/a
 categories:
 - Ability Modifier (Equipment)

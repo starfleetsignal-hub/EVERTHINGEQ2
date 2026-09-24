@@ -15,7 +15,8 @@ stats:
   drating: '8.7'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 39 - 72 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -468064012 2116832784:Imbued Blackened Iron Dirk\/a
 categories:
 - Assassin Equipment

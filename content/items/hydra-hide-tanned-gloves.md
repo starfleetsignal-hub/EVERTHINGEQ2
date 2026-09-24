@@ -16,7 +16,8 @@ stats:
   potency: '13.1'
   dps: '29.1'
   dtype: Leather Armor
-effects: '**Pentamerous Decimation**'
+effect_name: Pentamerous Decimation
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM -1181763393 403259704 0 0 0:Hydra Hide Tanned Gloves\/a
 categories:
 - Census Credits

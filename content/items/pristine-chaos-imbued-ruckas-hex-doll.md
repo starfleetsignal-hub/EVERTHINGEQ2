@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+7'
   sta: '+7'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 257.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 26) from [[Advanced Tailor Volume 26 (Normal)]] *Crafted by [[Tailor]] (level 26) from [[Advanced Tailor Volume 26 (No-Trade)]]'
 item_link: \aITEM -576843713 -1385392965 0 0 0:pristine chaos imbued ruckas hex doll\/a
 aliases:

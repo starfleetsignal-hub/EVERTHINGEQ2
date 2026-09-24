@@ -16,7 +16,8 @@ stats:
   dps: '28.1'
   vselemental: +30,687
   mitinc: '7.4'
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Increases Block Chance of caster by 10.0%."
 item_link: \aITEM 1897127127 957538183:Dark Summoner's Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

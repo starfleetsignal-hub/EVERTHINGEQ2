@@ -14,7 +14,9 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   dps: '15.9'
-effects: '**Undeniable Malice**<br>**Scornful Presence**'
+effect_name: Undeniable Malice, Scornful Presence
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Undeniable Malice on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 3,665\n    - Inflicts 1,192 mental damage on target.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Undeniable Malice on target of attack.  Triggers about 1.4 times per minute.\n    - Increases Threat to target by 3,665\n    - Inflicts 1,192 mental damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Scornful Presence on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Increases Hate Gain of caster by 15.0.\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Scornful Presence on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three\
+  \ second triggering event.\n    - Increases Hate Gain of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 557971611 632191927:Zulfiqar's Sash of Defense\/a
 categories:
 - Assassin Equipment

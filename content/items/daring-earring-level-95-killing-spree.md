@@ -15,7 +15,8 @@ stats:
   abmod: +1,000
   flurry: '0.5'
   vselemental: +5,273
-effects: '**Killing Spree**'
+effect_name: Killing Spree
+effects: "- When Equipped:\n  - On a death blow this spell will cast Killing Spree III on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus by 6 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Assassin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Beastlord, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Brigand, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Dirge, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Ranger, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Swashbuckler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Troubador, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -816517084 -1332219965:Daring Earring\/a
 categories:

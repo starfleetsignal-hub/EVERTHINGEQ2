@@ -15,7 +15,8 @@ stats:
   potency: '10.3'
   dps: '22.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[Drinal's Steward (Faction Merchant)]] in [[Obol Plains]]
 item_link: \aITEM 699533465 1935592179 0 0 0:Heavy Ethereal Steward's Gloves\/a
 categories:

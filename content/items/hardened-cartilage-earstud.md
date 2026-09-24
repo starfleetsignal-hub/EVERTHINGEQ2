@@ -16,7 +16,8 @@ stats:
   abmod: '+133'
   multi: '7.7'
   vselemental: '+400'
-effects: '**Precise Strikes**<br>**Vampire Bane**'
+effect_name: Precise Strikes, Vampire Bane
+effects: "- Applies Precise Strikes when Activated.  Lasts for 16.0 seconds.\n  - Increases DPS of caster by 20.0.\n  - The casting time of Precise Strikes is 0.5 seconds and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Additional equipment with Vampire Bane improves this effect.\n  - On any combat or spell hit this spell may cast Vampire Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 756 divine damage on target.\n      - Must be classified as a vampire\n    - Inflicts 378 divine damage on target.\n      - Must not be classified as a vampire\n    - Decreases Mitigation of target vs arcane damage by 560.\n      - Must be classified as a vampire\n    - Cannot be modified except by direct means"
 obtained_from: Made from [[Primogen's Jewelry Case]] * *Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -1296251260 1032767226:Hardened Cartilage Earstud\/a
 categories:

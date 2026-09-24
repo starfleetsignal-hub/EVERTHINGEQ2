@@ -15,7 +15,8 @@ stats:
   drating: '7.2'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Orcbane**'
+effect_name: Orcbane
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Orcbane on target of attack.\n    - Inflicts 5 - 9 magic damage on target.\n    - If target is orc\n    - Cannot be modified except by direct means"
 obtained_from: '[[Bloodskull Disruption]]'
 item_link: \aITEM 866856661 -1982594259:Scalecleave\/a
 categories:

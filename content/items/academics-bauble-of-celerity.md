@@ -18,7 +18,8 @@ stats:
   resolve: '60'
   aspeed: '67.2'
   dps: '51.1'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Advanced Jeweler Studies 09]]
 item_link: \aITEM -885754221 -1048744076:Academic's Bauble of Celerity\/a
 categories:

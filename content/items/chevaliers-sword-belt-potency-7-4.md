@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   aspeed: '9.7'
-effects: '**Pinpoint Strikes**'
+effect_name: Pinpoint Strikes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pinpoint Strikes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 9.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 782836461 1868332624:Chevalier's Sword Belt\/a
 categories:
 - Ability Modifier (Equipment)

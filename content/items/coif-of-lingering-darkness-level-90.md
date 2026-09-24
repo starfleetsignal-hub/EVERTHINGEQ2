@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dtype: Chain Armor
-effects: '**Lesser Smash**'
+effect_name: Lesser Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 98.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1478283378 343569090:Coif of Lingering Darkness\/a
 categories:
 - Assassin Equipment

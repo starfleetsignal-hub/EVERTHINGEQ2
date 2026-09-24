@@ -25,7 +25,8 @@ stats:
   drating: '247.82'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Undeniable Malice**'
+effect_name: Undeniable Malice
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 7% chance to cast Undeniable Malice on target of spell.\n    - Increases Threat to target by 2,665\n    - Inflicts 10,084 mental damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds.\n  - When damaged this spell has a 7% chance to cast Undeniable Malice on target's attacker.\n    - Increases Threat to target by 2,665\n    - Inflicts 10,084 mental damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM -481990101 -827616801:Fabled Bone Hilted Axe\/a
 categories:
 - Assassin Equipment

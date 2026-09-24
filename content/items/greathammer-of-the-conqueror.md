@@ -15,7 +15,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -892939100 962180092:Greathammer of the Conqueror\/a
 categories:
 - Census Credits

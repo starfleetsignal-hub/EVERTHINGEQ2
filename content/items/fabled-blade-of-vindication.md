@@ -25,7 +25,8 @@ stats:
   drating: '483.33'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Equalize**<br>**Attunement to Air**'
+effect_name: Equalize, Attunement to Air
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,855 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds.\n- Applies Attunement to Air when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Air is 10.0 seconds"
 item_link: \aITEM 372570768 -1009457886:Fabled Blade of Vindication\/a
 categories:
 - Ability Modifier (Equipment)

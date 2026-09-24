@@ -19,7 +19,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   dtype: Cloth Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1069824546 -911555277:Remnant Shawl, Relic of Old Velious\/a
 categories:
 - Attack Speed (Equipment)

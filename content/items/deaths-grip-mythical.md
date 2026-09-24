@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Dagger
-effects: '**Negative Void**<br>**Acid Rain**<br>**Critical Mind**'
+effect_name: Negative Void, Acid Rain, Critical Mind
+effects: "- Applies Negative Void when Activated.\n  - Changes damage based encounter AE spells into single target.  Improves their damage by 30%.\n  - The casting time of Negative Void is 5.0 seconds and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - On a damage spell hit this spell has a 12% chance to cast Acid Rain on target of spell.\n    - Decreases threat priority of target encounter by 1 position\n    - Inflicts 518 - 778 poison damage on target encounter.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Improves the critical damage of the warlock's professional spells by 10%."
 obtained_from: '[[Kyrtoxxulous'' Challenge]]'
 item_link: \aITEM 17463714 -179706899:Death's Grip\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: 1,839.1
   resolve: '21'
   abmod: +27,467
-effects: '**Misanthropic Malevolence**'
+effect_name: Misanthropic Malevolence
+effects: "- When Equipped:\n  - Increases STA of caster by 600.0.\n  - Increases Potency of caster by 15.0.\n  - This effect improves based on the number of unique boss encounters defeated in Shard of Hate [Solo].\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1281107485 -1610774040:Silk Sash of Contempt\/a
 categories:
 - Ability Doublecast (Equipment)

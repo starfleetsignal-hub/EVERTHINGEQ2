@@ -14,7 +14,8 @@ stats:
   crit: '1.1'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Incandescent Blurt**'
+effect_name: Incandescent Blurt
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Incandescent Blurt on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 890 magic damage on target.\n    - Inflicts 89 magic damage on target every 4 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2006653115 -1184160544:Ashen Sigil\/a
 categories:
 - Assassin Equipment

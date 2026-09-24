@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +26,832
-effects: '**Tactical Superiority**'
+effect_name: Tactical Superiority
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tactical Superiority III on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Potency of target by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -181272235 -742703927:Bone Etched Stud of Tactical Superiority\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -24,7 +24,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Blessing of the Loving Huntress**'
+effect_name: Blessing of the Loving Huntress
+effects: "- When Equipped:\n  - \"Blessing of the Loving Huntress\" protects the wearer from strong deific magics used by Erollisi Marr!"
 item_link: \aITEM -1510347680 -475055093:Erollisi Marr's Bow of the Hunt [Rank III]\/a
 categories:
 - Assassin Equipment

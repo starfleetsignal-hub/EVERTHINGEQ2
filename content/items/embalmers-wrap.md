@@ -14,7 +14,8 @@ stats:
   critbonus: '3'
   dps: '3'
   vselemental: '+880'
-effects: '**Vampiric Blows**<br>**Barrier**'
+effect_name: Vampiric Blows, Barrier
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Vampiric Blows on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 249 divine damage on target\n    - Heals caster for 249\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM -1048900848 -631724207:Embalmer's Wrap\/a
 categories:

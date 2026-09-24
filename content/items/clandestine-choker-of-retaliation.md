@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   flurry: '5.6'
-effects: '**Unrelenting Gaze**'
+effect_name: Unrelenting Gaze
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -101637736 -1660584112:Clandestine Choker of Retaliation\/a
 categories:
 - Assassin Equipment

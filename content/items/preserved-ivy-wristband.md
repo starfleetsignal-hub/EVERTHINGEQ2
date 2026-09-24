@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '18.7'
   vselemental: +28,885
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 37.5.\n  - Increases Potency of caster by 37.5."
 obtained_from: 'Collection reward: [[Luminous Flora and Fauna (Collection)]]'
 item_link: \aITEM -72927433 -644509286:Preserved Ivy Wristband\/a
 image: images/Preserved_Ivy_Wristband.png

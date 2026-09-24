@@ -18,7 +18,8 @@ stats:
   aspeed: '5.6'
   dps: '10.5'
   vselemental: '+360'
-effects: '**Evasion**'
+effect_name: Evasion
+effects: "- When Equipped:\n  - When caster is damaged by a spell, this spell has a 5% chance to absorb 1000 damage."
 obtained_from: 'Collection reward: [[Standards of the Goblin Tribes]]'
 item_link: \aITEM 639176501 313007628:Signet of the Ankexfen\/a
 image: images/Signet_of_the_Ankexfen.jpg

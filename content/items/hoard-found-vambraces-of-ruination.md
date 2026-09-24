@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   multi: '35.7'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 276845662 -847807914:Hoard Found Vambraces of Ruination\/a
 categories:
 - Berserker Equipment

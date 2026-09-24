@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   aspeed: '5.6'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 343802421 -1977814097:Recondite Belt of Renewal\/a
 categories:
 - Arcane Recovery (Equipment)

@@ -13,7 +13,8 @@ stats:
   mit: '153'
   potency: '0.2'
   dtype: Leather Armor
-effects: '**Glyph of Warding**'
+effect_name: Glyph of Warding
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Glyph of Warding on caster.  Lasts for 30.0 seconds.\n    - Wards target against 6 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -410507389 2104452243:Rubicite Studded Vale Gloves\/a
 categories:
 - Assassin Equipment

@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Lesser Mirage**'
+effect_name: Lesser Mirage
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Mirage on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 350\n    - Cannot be modified except by direct means"
 obtained_from: '[[Mission Complete]]'
 item_link: \aITEM -209333938 -330785548:Terenite Piercer\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '1.8'
   abmod: '+44'
   dtype: Buckler
-effects: '**Healing of the Ancients**'
+effect_name: Healing of the Ancients
+effects: "- Applies Healing of the Ancients when Equipped.\n  - When damaged with a melee weapon this spell has a 10% chance to cast Healing of the Ancients on caster.\n    - Heals caster for 135.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -20533472 -620083146:Drelakor's Scale Shield\/a
 categories:
 - Ability Modifier (Equipment)

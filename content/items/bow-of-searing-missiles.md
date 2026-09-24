@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Searing Missile**'
+effect_name: Searing Missile
+effects: "- Applies Searing Missile when Equipped.\n  - On a combat hit this spell may cast Searing Missile on target of attack.  Triggers about 18.0 times per minute.\n    - Inflicts 11 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1038934092 1531905757:Bow of Searing Missiles\/a
 categories:
 - Assassin Equipment

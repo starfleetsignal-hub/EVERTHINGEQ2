@@ -19,7 +19,8 @@ stats:
   abmod: +8,866
   aspeed: '290.8'
   dtype: Chain Armor
-effects: '**Journeyman''s Step**'
+effect_name: Journeyman's Step
+effects: "- Applies Journeyman's Step when Equipped.\n  - Increases in-combat movement speed of caster by 10.0%."
 item_link: \aITEM 1981529138 -1732302927:Legendary Journeyman's Boots\/a
 categories:
 - Ability Modifier (Equipment)

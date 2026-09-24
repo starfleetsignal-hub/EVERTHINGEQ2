@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +11,484
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Voice on target.  Lasts for 20.1 seconds.  Triggers about 0.4 times per minute.\n    - Cannot be modified except by direct means\n  - The trigger chance is multiplied by the number of players in the wearer's raid. Increments up to 20 times."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume IV]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM -1035924661 -2011096794:Furious Flinger's Fingerbone Band\/a
 categories:

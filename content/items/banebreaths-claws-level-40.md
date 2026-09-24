@@ -18,7 +18,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Ancient Glyph of Poison**'
+effect_name: Ancient Glyph of Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Poison on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 44 - 54 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1831724292 -1837743648:Banebreath's Claws\/a
 aliases:
 - Banebreath's Claws (Level 50)

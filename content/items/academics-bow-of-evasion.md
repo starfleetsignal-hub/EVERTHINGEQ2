@@ -25,7 +25,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,807 magic damage on target instantly and every second.\n    - Inflicts an additional 46 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 110) from [[Advanced Woodworker Studies 08]]
 item_link: \aITEM -975623241 86623928:Academic's Bow of Evasion\/a
 categories:

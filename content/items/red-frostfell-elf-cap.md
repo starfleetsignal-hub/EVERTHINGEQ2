@@ -11,7 +11,8 @@ stats:
   agi: '+1'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 obtained_from: Purchased from [[Frostfell Vendor Items|Giggawat and Garslebat  Gigglegibber]] in the Wonderland Village during [[Frostfell]] for 1s 87c
 item_link: \aITEM 1847695580 -1992585623:Red Frostfell Elf Cap\/a
 events:

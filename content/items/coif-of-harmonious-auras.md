@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: Sold by [[Scion of War]] in [[Neriak, City of Hate]]
 item_link: \aITEM -777533693 684559900:Coif of Harmonious Auras\/a
 categories:

@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Blessing of the Burning Prince**'
+effect_name: Blessing of the Burning Prince
+effects: "- When Equipped:\n  - \"Blessing of the Burning Prince\" protects the wearer from strong deific magics used by Solusek Ro!"
 item_link: \aITEM 528944766 -711228654:Engulfed Sunstars of Ro [Rank IV]\/a
 categories:
 - Assassin Equipment

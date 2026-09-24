@@ -18,7 +18,7 @@ stats:
   vsarcane: '+412'
   vsnoxious: '+412'
   dtype: Chain Armor
-effects: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds.\n    - Heals target for 86 instantly and every 4 seconds"
 obtained_from: Crafted by [[Armorer]] (level ) from [[Advanced Armorer Volume 79]]
 item_link: -1477087695 561291067:Pristine Imbued Incarnadine Chainmail Coat
 categories:

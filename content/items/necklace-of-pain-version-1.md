@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Essence Shift**'
+effect_name: Essence Shift
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Essence Shift on target of spell.  Triggers about 1.4 times per minute.\n    - Inflicts 172 - 211 magic damage on target.\n    - Increases power of caster by 171 - 209.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1067892891 -496485272:Necklace of Pain\/a
 categories:
 - Ability Modifier (Equipment)

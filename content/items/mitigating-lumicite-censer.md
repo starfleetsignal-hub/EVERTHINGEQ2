@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   aspeed: '34.5'
   mitinc: '7'
-effects: '**Dragon Grit**'
+effect_name: Dragon Grit
+effects: "- Applies Dragon Grit when Activated.  Lasts for 20.0 seconds.\n  - Reduces all damage done to caster by 15%. This spell will absorb a total of 20 attacks.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Dragon Grit is 2 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1098001869 2122025201:Mitigating Lumicite censer\/a
 categories:

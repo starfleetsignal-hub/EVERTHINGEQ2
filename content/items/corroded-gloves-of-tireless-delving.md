@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   dps: '5.6'
   dtype: Chain Armor
-effects: '**Enticing Opus**'
+effect_name: Enticing Opus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Enticing Opus on caster.  Lasts for 15.0 seconds.  Triggers about 1.0 times per minute.\n    - Increases Reuse Speed of caster by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 932266910 839724868:Corroded Gloves of Tireless Delving\/a
 categories:
 - Assassin Equipment

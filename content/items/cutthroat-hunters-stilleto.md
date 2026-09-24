@@ -18,7 +18,8 @@ stats:
   drating: '65.87'
   dtype: Off Hand Piercing
   wtype: Dagger
-effects: '**Power Overwhelming**<br>**Flay the Beast**'
+effect_name: Power Overwhelming, Flay the Beast
+effects: "- When Equipped:\n  - Increases Fervor of target by 0.3\n- When Equipped:\n  - Increases Ability Reuse Speed of caster by 2.3%\n  - On a hostile ability cast this spell has a 10% chance to cast Flay on target of spell.  Lasts for 6.0 seconds.\n    - Inflicts 64 - 119 heat damage on target instantly and every second\n    - Increases Ability Reuse Speed of caster by 2.3%\n    - Cannot be modified except by direct means"
 item_link: \aITEM -277915717 1703978680:Cutthroat Hunter's Stilleto\/a
 categories:
 - Ability Doublecast (Equipment)

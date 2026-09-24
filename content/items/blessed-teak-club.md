@@ -15,7 +15,8 @@ stats:
   drating: '31.45'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Luminous Blessing**'
+effect_name: Luminous Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Luminous Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 40\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 40) from [[Woodworker Essentials Volume 40 (Normal)]] *Crafted by [[Woodworker]] (level 40) from [[Woodworker Essentials Volume 40 (no-trade)]]'
 item_link: \aITEM -644942041 -566278967:Blessed Teak Club\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**All In**'
+effect_name: All In
+effects: "- Applies All In II when Activated.  Lasts for 8.0 seconds.\n  - Increases Potency of caster by 440.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The reuse time of All In II is 2 minutes"
 item_link: \aITEM 1803589893 1993661993:Vehement Idol of the Allu'thoa Caster\/a
 categories:
 - Ability Modifier (Equipment)

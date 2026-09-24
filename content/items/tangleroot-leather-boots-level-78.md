@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   abmod: '+98'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 item_link: \aITEM -1747633332 789148763:Tangleroot Leather Boots\/a
 image: images/Tangleroot_Leather_Boots.png
 categories:

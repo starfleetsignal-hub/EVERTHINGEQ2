@@ -15,7 +15,8 @@ stats:
   abmod: '+238'
   multi: '43'
   vselemental: +10,148
-effects: '**Currents of Talan**'
+effect_name: Currents of Talan
+effects: "- When Equipped:\n  - Increases WIS, INT and STA of caster by 100.0.\n  - Increases Potency of caster by 7.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1913368606 662701277:Talan's Brace of Coercion\/a
 categories:
 - Ability Modifier (Equipment)

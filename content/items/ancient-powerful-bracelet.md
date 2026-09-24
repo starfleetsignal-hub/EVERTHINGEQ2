@@ -16,7 +16,8 @@ stats:
   abmod: +1,686
   aspeed: '19'
   vselemental: +35,154
-effects: '**Uplifted Power**'
+effect_name: Uplifted Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 110.0."
 item_link: \aITEM 531699344 -2022736086:Ancient Powerful Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

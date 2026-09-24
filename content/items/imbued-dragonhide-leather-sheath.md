@@ -19,7 +19,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 3,009\n      - Must be flanking or behind\n    - Increases Threat to target by 3,674\n      - Must be in front of\n    - Inflicts 205 - 381 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 64) from [[Advanced Tailor Volume 64 (no-value)]] *Crafted by [[Tailor]] (level 64) from [[Advanced Tailor Volume 64 (Uncommon)]]'
 item_link: \aITEM 1539858254 -1068693049:Imbued Dragonhide Leather Sheath\/a
 categories:

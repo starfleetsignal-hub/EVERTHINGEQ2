@@ -18,7 +18,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1208628297 -1259475117:Hoard Found Boots of Desolation\/a
 categories:
 - AE Autoattack Chance (Equipment)

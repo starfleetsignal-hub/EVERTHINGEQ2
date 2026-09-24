@@ -7,7 +7,8 @@ tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
 description: Once every 24 hours this cloak can be used to repair broken equipment whether they need it or not!
-effects: '**Repair**'
+effect_name: Repair
+effects: "- Applies Repair when Activated.\n  - This effect cancels during combat\n  - The casting time of Repair is 5.0 seconds and the reuse time of the spell is 1 day"
 obtained_from: From [[Cloak of Quick Repair (crate)|Cloak of Quick Repair]]
 item_link: \aITEM 1922526697 -147188638:Cloak of Quick Repair\/a
 categories:

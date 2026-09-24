@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   mitinc: '6'
-effects: '**Dragon Grit**'
+effect_name: Dragon Grit
+effects: "- Applies Dragon Grit IV when Activated.  Lasts for 20.0 seconds.\n  - Reduces all damage done to caster by 11%. This spell will absorb a total of 20 attacks.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Dragon Grit IV is 2 minutes"
 item_link: \aITEM -1484894697 -1229820797:Red Dragon Jack\/a
 categories:
 - AE Autoattack Chance (Equipment)

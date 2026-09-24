@@ -24,7 +24,8 @@ stats:
   drating: '248.62'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 10.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1371120660 305797385:Twisted Club\/a
 categories:
 - AE Autoattack Chance (Equipment)

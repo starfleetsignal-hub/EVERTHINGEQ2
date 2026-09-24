@@ -11,7 +11,8 @@ stats:
   sta: '+4'
   agi: '+4'
   dtype: Symbols
-effects: '**Arcanic Orcbane**'
+effect_name: Arcanic Orcbane
+effects: "- When Equipped:\n  - On a hostile spell cast this spell will cast Orcbane on target of spell.\n    - Inflicts 10 - 18 magic damage on target.\n    - If target is orc\n    - Cannot be modified except by direct means"
 obtained_from: '[[Bloodskull Disruption]]'
 item_link: \aITEM -2020937595 1692772329:Orcsoul\/a
 categories:

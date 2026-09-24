@@ -27,7 +27,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,284 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 117) from [[Advanced Woodworker Studies 17]]
 item_link: \aITEM -1623237787 -1216638711:Voidpiercer's Bow of Frenzy\/a
 categories:

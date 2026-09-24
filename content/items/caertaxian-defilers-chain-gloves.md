@@ -17,7 +17,8 @@ stats:
   dps: '13.9'
   multi: '8.7'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Sold by [[Vlad the Bargainer]] (Faction Merchant) in [[The Hole]]<br>Requires 50,000 faction with Caertaxian Legion
 item_link: \aITEM -1430312342 -1977070245:Caertaxian Defiler's Chain Gloves\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Cloth Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 42.7.\n  - Increases Crit Bonus of caster by 364.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -448469217 -1293027211:Vestige Robe, Greater Untarnished Relic of Old Velious\/a
 categories:
 - Census Credits

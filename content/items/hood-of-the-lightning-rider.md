@@ -17,7 +17,8 @@ stats:
   potency: '5.2'
   dps: '13.4'
   dtype: Cloth Armor
-effects: '**Atmospheric Discharge**'
+effect_name: Atmospheric Discharge
+effects: "- When Equipped:\n  - On a hostile spell cast this spell will cast Atmospheric Discharge on target of spell.\n    - Inflicts 1 to 225 magic damage. May randomly spike for much greater damage."
 item_link: \aITEM -1756537795 422291595:Hood of the Lightning Rider\/a
 categories:
 - Atmospheric Discharge (Equipment)

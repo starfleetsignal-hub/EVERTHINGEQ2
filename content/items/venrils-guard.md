@@ -13,7 +13,8 @@ stats:
   crit: '3'
   critbonus: '3'
   dtype: Round Shield
-effects: '**Barrier**'
+effect_name: Barrier
+effects: "- When Equipped:\n  - On a block this spell has a 20% chance to cast Barrier on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 750 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 508857759 -1816721046:Venril's Guard\/a
 categories:
 - Assassin Equipment

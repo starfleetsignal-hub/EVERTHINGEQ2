@@ -11,7 +11,7 @@ stats:
   charges: 10/10
   casting: 1.0 seconds
   recast: 2.0 seconds
-effects: Confetti firework
+effects: "- Applies Confetti firework when Activated. Lasts for 3.0 seconds.\n  - Launches a firework when used."
 obtained_from: '*[[The Queen''s Impending Speech]] *[[The Overlord''s Impending Speech]] *[[Aggressive Advertising in Qeynos]]'
 item_link: '\aITEM 1306633778 1101092988:Firework: Confetti Shower\/a'
 categories:

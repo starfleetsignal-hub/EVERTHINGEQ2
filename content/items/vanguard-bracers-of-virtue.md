@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '218'
   dtype: Plate Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Riposte Chance of caster by 9.0.\n  - Increases Riposte Damage of caster by 9.0."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Vanguard Bracers of Virtue]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1217238541 573464843:Vanguard Bracers of Virtue\/a
 categories:

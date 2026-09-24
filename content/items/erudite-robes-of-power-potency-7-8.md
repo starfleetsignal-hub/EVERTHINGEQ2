@@ -18,7 +18,8 @@ stats:
   aspeed: '9.3'
   dps: '15.9'
   dtype: Cloth Armor
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1372768458 1626786206:Erudite Robes of Power\/a
 categories:
 - Attack Speed (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vselemental: '+435'
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 4 percent."
 item_link: \aITEM 2141288011 2131423935:Possessed Wristlet of Undoing\/a
 categories:
 - Ability Modifier (Equipment)

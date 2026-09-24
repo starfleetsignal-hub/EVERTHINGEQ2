@@ -17,7 +17,8 @@ stats:
   potency: 2,816.3
   resolve: '32'
   abmod: +31,268
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1830502335 -394357561:Cloak of Deceit\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   abmod: '+152'
-effects: '**Flawless Aura of Destruction**'
+effect_name: Flawless Aura of Destruction
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Flawless Aura of Destruction on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 magic damage on target.\n    - Reduces resistibility of all spells by 5%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Complete the achievement [[Flawless Victory: The Shadow Odyssey]]'
 item_link: \aITEM 1381090014 420207800:Flawless Stone of Destruction\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   aspeed: '10.2'
   multi: '11'
   dtype: Chain Armor
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 3.0%."
 item_link: \aITEM -466598740 -1813881426:Boots of Rigorous Striking\/a
 categories:
 - Assassin Equipment

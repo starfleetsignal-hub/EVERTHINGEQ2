@@ -17,7 +17,8 @@ stats:
   drating: '23.04'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mark of Pestilence**'
+effect_name: Mark of Pestilence
+effects: '- Applies Mark of Pestilence when Equipped.'
 obtained_from: '[[Bring on the Blight]]'
 item_link: \aITEM -1830184779 -1524550020:Lurid Fist of Pestilence\/a
 categories:

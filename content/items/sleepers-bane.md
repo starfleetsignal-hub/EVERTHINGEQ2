@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Theer''s Rage**'
+effect_name: Theer's Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Theer's Rage on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 250, 000-500, 000 magic damage to the target. This inflicts more damage to more powerful enemies.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -941063131 2119651827:Sleeper's Bane\/a
 categories:
 - Arcane Resistance (Equipment)

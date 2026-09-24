@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   aspeed: '2.4'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 23.0."
 obtained_from: '[[Serving a New Master]]'
 item_link: \aITEM -583020915 -323952963:Amulet of the Forsworn\/a
 categories:

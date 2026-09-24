@@ -21,7 +21,8 @@ stats:
   drating: '112.89'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Benevolent Alacrity**<br>**Runic Recovery**'
+effect_name: Benevolent Alacrity, Runic Recovery
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent.\n- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1498972777 -356778689:Unfathomable Aquastaff\/a
 categories:
 - Attack Speed (Equipment)

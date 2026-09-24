@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+6'
   sta: '+5'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 180.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 26) from [[Tailor Essentials Volume 26 (Normal)]] *Crafted by [[Tailor]] (level 26) from [[Tailor Essentials Volume 26 (no-trade)]]'
 item_link: \aITEM -799233482 1167160047:pristine ruin imbued canvas hex doll\/a
 categories:

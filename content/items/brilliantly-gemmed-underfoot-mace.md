@@ -20,7 +20,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Intense Focus**'
+effect_name: Intense Focus
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Intense Focus on the group.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of the group's next spell by 75%"
 item_link: \aITEM 454522457 -1698028572:Brilliantly Gemmed Underfoot  Mace\/a
 categories:
 - Ability Modifier (Equipment)

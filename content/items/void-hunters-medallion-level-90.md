@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7'
   abmod: '+210'
-effects: '**Power Overwhelming**<br>**Hunter''s Rage**'
+effect_name: Power Overwhelming, Hunter's Rage
+effects: "- When Equipped:\n  - Increases Fervor of target by 3.1.\n- Applies Hunter's Rage when Activated.  Lasts for 30 minutes.\n  - Increases Fervor of caster by 3.1.\n  - Increases Ability Doublecast of caster by 3.1.\n  - Increases Max Health of caster by 7.0%.\n  - Increases Reuse Speed of caster by 7.9%.\n  - Cannot be modified except by direct means\n  - The casting time of Hunter's Rage is 1.0 second and the reuse time of the spell is 3 hours"
 item_link: \aITEM 1172651218 1930551855:Void Hunter's Medallion\/a
 categories:
 - Ability Modifier (Equipment)

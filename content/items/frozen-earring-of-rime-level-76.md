@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   dps: '9.7'
   vselemental: '+360'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 3 percent."
 item_link: \aITEM -399456310 624962672:Frozen Earring of Rime\/a
 categories:
 - Arcane Resistance (Equipment)

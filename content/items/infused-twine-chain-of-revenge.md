@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,580
   mitinc: '20.3'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 10.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2006147002 -2081571001:Infused Twine Chain of Revenge\/a
 categories:
 - Ability Modifier (Equipment)

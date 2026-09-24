@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Scoundrel''s Slip**'
+effect_name: Scoundrel's Slip
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Scoundrel's Slip on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases threat priority of target encounter by 3 positions\n    - Inflicts 820 disease damage on target encounter instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1346257038 -1539045029:Scoundrel's Slip\/a
 categories:
 - Assassin Equipment

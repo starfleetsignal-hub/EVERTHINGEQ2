@@ -20,7 +20,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Earthshaker**'
+effect_name: Earthshaker
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Earthshaker on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 1,061 - 1,296 crushing damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1647680469 104438525:Earthshaker\/a
 categories:
 - Attack Speed (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -522571547 -521879691:Blade of Marus Xand\/a
 categories:
 - Assassin Equipment

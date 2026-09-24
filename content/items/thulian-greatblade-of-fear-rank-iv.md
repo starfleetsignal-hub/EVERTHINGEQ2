@@ -24,7 +24,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Blessing of the Faceless**'
+effect_name: Blessing of the Faceless
+effects: "- When Equipped:\n  - \"Blessing of the Faceless\" protects the wearer from strong deific magics used by Cazic-Thule!"
 item_link: \aITEM -1989602608 385691279:Thulian Greatblade of Fear [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Scintillating Blessing**'
+effect_name: Scintillating Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Scintillating Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 90\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 65) from [[Advanced Weaponsmith Volume 65 (no-value)]] *Crafted by [[Weaponsmith]] (level 65) from [[Advanced Weaponsmith Volume 65 (Uncommon)]]'
 item_link: \aITEM -1000595970 1725330409:Blessed Xegonite Mace\/a
 categories:

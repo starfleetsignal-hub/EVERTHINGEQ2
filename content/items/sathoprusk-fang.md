@@ -17,7 +17,8 @@ stats:
   aspeed: '38'
   dps: '23.1'
   multi: '22.1'
-effects: '**Kerafyrm''s Furor**'
+effect_name: Kerafyrm's Furor
+effects: "- Applies Kerafyrm's Furor when Activated.  Lasts for 15.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 78.0.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Furor is 1 minute\n- When Equipped:\n  - Increases Crit Bonus of caster by 91.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 15532811 -366591180:Sath'Oprusk Fang\/a
 categories:
 - Assassin Equipment

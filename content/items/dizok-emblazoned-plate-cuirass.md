@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Plate Armor
-effects: '**Infuriation**'
+effect_name: Infuriation
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 10% chance to cast Infuriation on target of combat art.\n    - Increases Threat to target by 481\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Armorer]] (level 77) from [[Bathezid Heavy Armoring Volume II]]
 item_link: \aITEM 1811441442 1274240210:Di'Zok Emblazoned Plate Cuirass\/a
 categories:

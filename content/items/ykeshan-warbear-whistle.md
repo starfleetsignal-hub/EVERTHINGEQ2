@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: 0.0 seconds
-effects: Call Ykeshan Warbear
+effects: "- Applies Call Ykeshan Warbear when Activated.\n  - Increases Reuse Speed of caster by 3.0%\n  - Increases Max Power of caster by 250\n  - Summons a mount to ride that increases your speed by 65%\n    - If level 80 or higher"
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} for 50 [[Void Shard|Void Shards]].
 item_link: \aITEM -258589620 -1270191792:Ykeshan Warbear whistle\/a
 categories:

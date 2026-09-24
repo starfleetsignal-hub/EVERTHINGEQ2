@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +15,652
-effects: '**Inconspicuous Strike**'
+effect_name: Inconspicuous Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Inconspicuous Strike V on target of attack.  Triggers about 3.0 times per minute.\n    - Decreases threat priority of target by 1 position\n    - Inflicts 440,000 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1526505124 1585542831:Bold Bracelet of Striking\/a
 image: images/Bold_Bracelet_of_Striking.png
 categories:

@@ -19,7 +19,8 @@ stats:
   potency: 47,371.1
   resolve: '565'
   dtype: Leather Armor
-effects: '**Mark of the Many**'
+effect_name: Mark of the Many
+effects: "- When Equipped:\n  - Grants an additional 20 in-combat runspeed.\n  - Increases Fervor of caster by 44.5.\n  - Increases Crit Bonus of caster by 713.0.\n  - Increases Fervor Overcap of caster by 61.2.\n  - Increases Crit Bonus Overcap of caster by 380.3.\n  - Must be in a Scars of Destruction raid zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 975122324 -534463566:Amalgus' Bracers of the Many\/a
 categories:
 - Brawler Equipment

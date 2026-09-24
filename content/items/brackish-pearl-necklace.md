@@ -14,7 +14,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   abmod: +1,250
-effects: '**Armor of the Ulthork**'
+effect_name: Armor of the Ulthork
+effects: "- When Equipped:\n  - When the wearer dies, they will take only 20% of the base armor damage.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Taking the Thunder Pass]]'
 item_link: \aITEM -714735612 1368645177:Brackish Pearl Necklace\/a
 image: images/Brackish_Pearl_Necklace.jpg

@@ -16,7 +16,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 359 piercing damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A More Dangerous Game! Test of Mastery!]]'
 item_link: \aITEM 133117080 2087196679:Mantle of the Wastes Hunter\/a
 image: images/Mantle_of_the_Wastes_Hunter.jpg

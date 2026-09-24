@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dps: '15.2'
-effects: '**Enduring Breath**'
+effect_name: Enduring Breath
+effects: "- When Equipped:\n  - Allows caster to breathe under water"
 item_link: \aITEM -2041180332 1645780314:Torque of Holding Breath\/a
 categories:
 - Assassin Equipment

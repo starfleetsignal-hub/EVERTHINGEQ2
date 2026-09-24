@@ -25,7 +25,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Bow
-effects: '**Paragon**'
+effect_name: Paragon
+effects: "- When Equipped:\n  - Adds a large damage strike to Granite Protector, and makes it unable to be targeted directly and immune to all damage.\n  - Adds a second summon to Elemental Amalgamation.\n  - Ethermancy will increase the groups Crit Bonus Overcap.\n  - When Tainted Mutation triggers it will grant a large potency buff to the group.\n  - On any combat or spell hit this spell may cast Paragon on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 6,676 magic damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Awakening Bonds: Once Was Lost...]]'
 item_link: \aITEM 1092213110 1605087083:Gossamer Thread Bow\/a
 categories:

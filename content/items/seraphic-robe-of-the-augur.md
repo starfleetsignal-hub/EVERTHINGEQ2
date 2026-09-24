@@ -18,7 +18,8 @@ stats:
   abmod: '+306'
   multi: '15.6'
   dtype: Cloth Armor
-effects: '**Unavoidable Annihilation**'
+effect_name: Unavoidable Annihilation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Unavoidable Annihilation on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,227 - 3,566 piercing damage on a target in Area of Effect instantly and every 3 seconds.\n    - Heals group members (AE) for 1,039 - 1,148 instantly and every 3 seconds.\n    - Increases Casting Speed of caster by 10.0%.\n    - Increases Crit Bonus of group members (AE) by 4.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Thudomatonian Robe]]
 item_link: \aITEM -322630786 -1456558471:Seraphic Robe of the Augur\/a
 categories:

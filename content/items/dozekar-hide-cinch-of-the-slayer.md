@@ -16,7 +16,9 @@ stats:
   potency: '10.6'
   abmod: '+393'
   aspeed: '16.8'
-effects: '**Overbearing Storms**'
+effect_name: Overbearing Storms
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overbearing Storms IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 11.5.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Overbearing Storms IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 11.5.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Overbearing Storms IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per\
+  \ minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 11.5.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - This effect will not stack with any rank or tier of itself.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1574941162 1686922005:Dozekar-Hide Cinch of the Slayer\/a
 categories:
 - Ability Modifier (Equipment)

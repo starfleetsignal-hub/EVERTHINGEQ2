@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+5'
   sta: '+5'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 100 points of all damage\n    - Wards caster against 50 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Radiant Bangle of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 1813509922 1680483605:Radiant Bangle of Smiting\/a
 categories:

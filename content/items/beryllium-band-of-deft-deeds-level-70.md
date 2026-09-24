@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   vselemental: '+300'
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 328 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 819605043 754907592:Beryllium Band of Deft Deeds\/a
 categories:
 - Arcane Resistance (Equipment)

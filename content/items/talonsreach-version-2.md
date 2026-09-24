@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Talon Swipe**'
+effect_name: Talon Swipe
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Talon Swipe on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 141 - 235 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1677277009 1289732876:Talonsreach\/a
 categories:
 - Assassin Equipment

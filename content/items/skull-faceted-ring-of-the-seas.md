@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Draconic Soulsiphon**'
+effect_name: Draconic Soulsiphon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Draconic Soulsiphon V on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 132,000 magic damage on target instantly and every second.\n    - Increases Ability Mod of caster by 6,250.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 51961599 -1105581440:Skull-faceted Ring of the Seas\/a
 categories:
 - Arcane Resistance (Equipment)

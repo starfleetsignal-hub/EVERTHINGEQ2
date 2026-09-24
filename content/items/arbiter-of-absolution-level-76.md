@@ -21,7 +21,8 @@ stats:
   drating: '74.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Memory Lapse**'
+effect_name: Memory Lapse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Memory Lapse on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM -191571899 1990870349:Arbiter of Absolution\/a
 categories:
 - Ability Modifier (Equipment)

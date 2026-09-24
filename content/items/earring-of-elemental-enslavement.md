@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   abmod: '+431'
   vsarcane: +1,833
-effects: '**Major Bolstering Roar**'
+effect_name: Major Bolstering Roar
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Major Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Major Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2076177692 -1371749043 0 0 0:Earring of Elemental Enslavement\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   resolve: '2'
   abmod: '+779'
   dps: '27'
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 1249303511 -1030848410:Torque of the Temple Listener\/a
 categories:
 - Ability Modifier (Equipment)

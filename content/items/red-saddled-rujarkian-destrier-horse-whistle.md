@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Rujarkian Destrier
+effects: "- Applies Call Rujarkian Destrier when Activated.  Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 40%\n  - Increases Focus, Crushing, Piercing and Slashing of caster by 4.8"
 obtained_from: Sold by [[Bursar Sirenia]] (Court Treasures) in [[The Court of Truth]] for 14p 40g 1c
 item_link: \aITEM -1249704818 691893432:red-saddled Rujarkian Destrier horse whistle\/a
 categories:

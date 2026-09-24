@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Rage of the Sky**'
+effect_name: Rage of the Sky
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Wrath of the Sky on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 235 - 392 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 908425744 779756047:Gaudralek, Sword of the Sky\/a
 image: images/Gaudralek,_Sword_of_the_Sky.jpg
 categories:

@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '68'
   dtype: Cloth Armor
-effects: '**Power of the Brethren**'
+effect_name: Power of the Brethren
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 5.0.\n  - This effect suspends during combat"
 obtained_from: '[[Crushing Betrayal]]'
 item_link: \aITEM -1404056922 -926984276:Honorary Robe of the Brethren\/a
 image: images/HonoraryRobeOfTheBrethren.jpg

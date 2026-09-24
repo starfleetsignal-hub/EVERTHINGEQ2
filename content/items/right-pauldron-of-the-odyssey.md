@@ -8,7 +8,8 @@ slot: Shoulders
 flags: attunable heirloom no-value
 stats:
   dtype: Leather Armor
-effects: '**Reverse Pauldron**'
+effect_name: Reverse Pauldron
+effects: "- Applies Reverse Pauldron when Activated.\n  - Summon 1 Left Pauldron of the Odyssey\n  - This effect cannot be cast during combat\n  - The casting time of Reverse Pauldron is 1.0 second and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1464472037 1792272173:Right Pauldron of the Odyssey\/a
 categories:
 - Assassin Equipment

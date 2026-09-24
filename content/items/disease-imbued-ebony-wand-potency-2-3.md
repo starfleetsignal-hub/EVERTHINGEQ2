@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 330 - 551 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 727092838 -1645767798:Disease Imbued Ebony Wand\/a
 categories:
 - Attack Speed (Equipment)

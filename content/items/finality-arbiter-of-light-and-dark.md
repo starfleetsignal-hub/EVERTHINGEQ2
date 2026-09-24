@@ -20,7 +20,8 @@ stats:
   drating: '115.2'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Balance**'
+effect_name: Balance
+effects: "- Applies Balance when Activated.  Lasts for 20.0 seconds.\n  - Increases threat priority of target by 3 positions\n  - Increases Threat to target by 5,665\n  - Caster will Parry 15.0% of incoming attacks.\n  - Must have Finality, Arbiter of Light and Dark equipped.\n  - The casting time of Balance is 0.5 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM -714944274 1770808342:Finality, Arbiter of Light and Dark\/a
 categories:
 - Attack Speed (Equipment)

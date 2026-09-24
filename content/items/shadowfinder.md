@@ -15,7 +15,8 @@ stats:
   potency: '27'
   dps: '21.8'
   multi: '31.2'
-effects: '**Disengage**'
+effect_name: Disengage
+effects: "- Applies Disengage III when Activated.  Lasts for 30.0 seconds.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - Grants stealth to caster\n  - Suspends caster's movement speed enhancements\n  - Removes all of your hate from surrounding encounters.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Disengage III is 4 minutes"
 item_link: \aITEM -681038737 1113567232:Shadowfinder\/a
 categories:
 - Assassin Equipment

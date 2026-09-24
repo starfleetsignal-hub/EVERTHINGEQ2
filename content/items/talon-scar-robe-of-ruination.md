@@ -17,7 +17,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -4686092 1296171403:Talon Scar Robe of Ruination\/a
 categories:
 - Census Credits

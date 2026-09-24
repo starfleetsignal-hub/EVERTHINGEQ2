@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,736
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulate V on target of attack.  Triggers about 3.0 times per minute.\n    - Decreases Threat to target by 2,100,000\n    - Inflicts 686,400 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1447589458 677216494:Inspired Band of Utter Confusion\/a
 categories:
 - Arcane Resistance (Equipment)

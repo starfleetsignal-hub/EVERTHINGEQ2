@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   vselemental: '+395'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 903214357 1127237984:Commanding Thought Earring\/a
 categories:
 - Ability Modifier (Equipment)

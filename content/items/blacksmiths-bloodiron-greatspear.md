@@ -21,7 +21,7 @@ stats:
   drating: '283.3'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: Elemental Rending
+effects: "When Equipped:\n\n- On any combat or spell hit this spell may cast Elemental Rending on target of attack. Lasts for 8.0 seconds. Triggers about 3.0 times per minute.\n  - Increases elemental damage done to target by 2.6%\n  - Inflicts 2,890,824 heat damage on target.\n  - Inflicts 2,890,824 cold damage on target.\n  - Cannot be modified except by direct means.\n- This item may not be used in a PvP zone."
 obtained_from: 'Collection reward: [[Hammers of the Blacksmith]]'
 item_link: \aITEM -1728236407 -1113345897 0 0 0:[Blacksmith's Bloodiron Greatspear]\/a
 image: images/Blacksmith's_Bloodiron_Greatspear.png

@@ -17,7 +17,8 @@ stats:
   resolve: '495'
   cbovercap: '+1544.9'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Answers for Baasik Questions]]'
 item_link: \aITEM 786886314 773415058:Port Woe Great Shield of Frenzy\/a
 categories:

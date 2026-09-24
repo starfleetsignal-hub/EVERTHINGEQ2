@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 10%."
 item_link: \aITEM 160635930 1775486609 0 0 0:Void Elementalist's Riftcloth Sleeves\/a
 categories:
 - Ability Modifier (Equipment)

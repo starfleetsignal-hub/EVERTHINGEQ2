@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   abmod: '+75'
   vselemental: '+600'
-effects: '**Invigorating Aura**'
+effect_name: Invigorating Aura
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Invigorating Aura on target's attacker.\n    - Decreases power of target by 249.\n    - Increases power of caster by 276.\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM 129174620 -1988205009:Runed Mobius Strip\/a
 categories:

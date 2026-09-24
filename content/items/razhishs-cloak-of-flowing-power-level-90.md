@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Fiery Flux**'
+effect_name: Fiery Flux
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Fiery Flux on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 594 heat damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 604585066 -561917349:Ra'zhish's Cloak of Flowing Power\/a
 categories:
 - Ability Modifier (Equipment)

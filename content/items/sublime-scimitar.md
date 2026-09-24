@@ -20,7 +20,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Runic Deflection**'
+effect_name: Runic Deflection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Deflection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 2,400 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1218529338 1575303627:Sublime Scimitar\/a
 categories:
 - Ability Modifier (Equipment)

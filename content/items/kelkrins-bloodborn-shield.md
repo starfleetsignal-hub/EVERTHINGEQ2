@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dtype: Tower Shield
-effects: '**Hatespike**'
+effect_name: Hatespike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Hatespike II on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 1,665\n    - Cannot be modified except by direct means"
 item_link: \aITEM -262787502 489158516:Kelkrin's Bloodborn Shield\/a
 categories:
 - Ability Modifier (Equipment)

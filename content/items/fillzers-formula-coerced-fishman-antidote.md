@@ -9,7 +9,7 @@ stats:
   charges: 1/1
   casting: '1.48'
   recast: '2.0'
-effects: Drop "Antidote"
+effects: "- Applies Drop \"Antidote\" when Activated.\n  - This effect cannot be cast during combat"
 obtained_from: During the quest [[Showdown at Gra'al Shul Temple]] from [[Hilbraega Stoutmun]]
 used_in_quest: '[[Showdown at Gra''al Shul Temple]]'
 categories:

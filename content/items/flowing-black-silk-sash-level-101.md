@@ -18,7 +18,8 @@ stats:
   resolve: '24'
   abmod: +43,947
   flurry: '32.6'
-effects: '**Magical Alacrity**<br>**Haste**'
+effect_name: Magical Alacrity, Haste
+effects: "- When Equipped:\n  - Increases Casting Speed of target by 5.0%.\n- When Equipped:\n  - Increases Haste of caster by 15.0."
 item_link: \aITEM 677891939 78293525:Flowing Black Silk Sash\/a
 categories:
 - Ability Doublecast (Equipment)

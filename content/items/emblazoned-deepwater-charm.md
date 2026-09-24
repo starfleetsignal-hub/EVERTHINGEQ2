@@ -14,7 +14,8 @@ stats:
   critbonus: '5.1'
   potency: '8.6'
   dps: '21.9'
-effects: '**Deepwater Purity**'
+effect_name: Deepwater Purity
+effects: "- Applies Deepwater Purity when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 10.0.\n  - On a healing spell cast this spell will cast Deepwater Purity on target of spell cast.\n    - Dispels 120 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Deepwater Purity is 5 minutes"
 obtained_from: '[[The Fallen Swords: All Roads Lead To...]]'
 item_link: \aITEM 362567863 2073829782:Emblazoned Deepwater Charm\/a
 categories:

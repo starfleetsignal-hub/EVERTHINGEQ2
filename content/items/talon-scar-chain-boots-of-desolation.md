@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1620418482 959690650:Talon Scar Chain Boots of Desolation\/a
 categories:
 - AE Autoattack Chance (Equipment)

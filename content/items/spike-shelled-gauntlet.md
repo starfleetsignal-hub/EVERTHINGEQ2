@@ -21,7 +21,8 @@ stats:
   drating: '149.27'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -19098456 565889874 0 0 0:Spike Shelled Gauntlet\/a
 categories:
 - Beastlord Equipment

@@ -18,7 +18,8 @@ stats:
   potency: '8.2'
   mitinc: '8.3'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume II]] Sold by [[Cramnon Spirittalker]] (Faction Merchant) in [[Eastern Wastes]] at [[Ry'Gorr Keep]] {{waypoint -685, -340, 2755}}
 item_link: \aITEM 189450937 1796734385:Warlord's Prodigious Gauntlets\/a
 categories:

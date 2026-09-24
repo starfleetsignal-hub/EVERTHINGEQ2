@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dtype: Buckler
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 112 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 44094094 -391496648:imbued ironwood buckler\/a
 aliases:
 - Imbued ironwood buckler (Pale Sanguine Imbued) (Level 50)

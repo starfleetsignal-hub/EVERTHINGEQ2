@@ -16,7 +16,8 @@ stats:
   drating: '31.68'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Cleanse**'
+effect_name: Cleanse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cleanse on target of attack.  Triggers about 1.8 times per minute.\n    - Dispels 57 - 69 levels of any beneficial effects on target\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 523162081 28347869:Maid's Wooden Broom\/a
 categories:
 - Beastlord Equipment

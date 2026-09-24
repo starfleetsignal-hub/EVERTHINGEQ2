@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '23.1'
   multi: '19.8'
-effects: '**Dominant Stand**'
+effect_name: Dominant Stand
+effects: "- Applies Dominant Stand when Activated.  Lasts for 30.0 seconds.\n  - Wards the caster for up to 380,000 damage. The value decreases for each group or raid member within 10 meters of the caster.\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Dominant Stand is 1 minute\n- When Equipped:\n  - Heals caster for 36,000 health every 3 seconds\n  - Cannot be modified except by direct means"
 item_link: \aITEM -796755158 -2011188068:Ceremonial Aberrant Drum\/a
 categories:
 - Assassin Equipment

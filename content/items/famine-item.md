@@ -14,7 +14,8 @@ stats:
   potency: '11.1'
   abmod: '+187'
   vselemental: +8,415
-effects: '**Famine**'
+effect_name: Famine
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 5.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1903969997 1242612017 0 0 0:Famine\/a
 categories:
 - Ability Modifier (Equipment)

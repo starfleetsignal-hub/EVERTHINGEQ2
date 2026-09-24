@@ -16,7 +16,8 @@ stats:
   abmod: +1,686
   aspeed: '19'
   vselemental: +35,154
-effects: '**Staggered Combination**'
+effect_name: Staggered Combination
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 12.0.\n  - Increases Crit Bonus of caster by 25.0.\n  - Increases Potency of caster by 52.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 772951468 -950530518:Ashenfell Staggering Band\/a
 categories:
 - Ability Modifier (Equipment)

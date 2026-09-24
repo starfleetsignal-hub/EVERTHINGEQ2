@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Protection of the White Scale**'
+effect_name: Protection of the White Scale
+effects: "- Applies Protection of the White Scale when Equipped.\n  - Increases Combat Health Regen of caster by 1.0.\n  - Increases Combat Power Regen of caster by 1.0.\n  - Increases Max Power of caster by 50.0."
 item_link: \aITEM 1013866562 -1430021237:Wand of the White Scales\/a
 categories:
 - Ability Modifier (Equipment)

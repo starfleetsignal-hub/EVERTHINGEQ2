@@ -13,7 +13,8 @@ stats:
   mit: '197'
   potency: '0.2'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 40) from [[Ancient Knowledge: Reverent Wristguard of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 733831026 -786186510:Reverent Wristguard of Impetus\/a
 categories:

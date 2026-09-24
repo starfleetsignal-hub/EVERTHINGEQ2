@@ -16,7 +16,8 @@ stats:
   drating: '41.89'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Banish Undead**'
+effect_name: Banish Undead
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Banish Undead on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 53 - 65 divine damage on target.\n    - If target is undead\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[The Heart of Fear]]'
 item_link: \aITEM 569799376 -1076576296:Staff of Undead Legions\/a
 categories:

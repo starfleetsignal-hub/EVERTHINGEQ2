@@ -20,7 +20,8 @@ stats:
   drating: '59.11'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Flameward**'
+effect_name: Flameward
+effects: "- Applies Flameward when Activated.  Lasts for 5 minutes.\n  - Wards caster against 350 points of elemental damage\n  - The casting time of Flameward is 3.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 82015035 -364997267:Mace of the Flamelord\/a
 categories:
 - Beastlord Equipment

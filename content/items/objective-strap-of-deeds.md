@@ -16,7 +16,8 @@ stats:
   potency: '11'
   aspeed: '28.9'
   dps: '28.9'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1670255239 -2086175500 0 0 0:Objective Strap of Deeds\/a
 categories:
 - Attack Speed (Equipment)

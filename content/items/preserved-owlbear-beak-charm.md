@@ -16,7 +16,8 @@ stats:
   critbonus: '683.9'
   potency: 5,643.9
   resolve: '205'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.7.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Collection reward: [[Preserved Owlbear Beak (Collection)]]'
 item_link: \aITEM 879119655 -2008091189:Preserved Owlbear Beak\/a
 categories:

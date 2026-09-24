@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   multi: '0.9'
   dtype: Plate Armor
-effects: '**Dim Lambent Imbued**'
+effect_name: Dim Lambent Imbued
+effects: "- Applies Dim Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 44 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -487378371 -1190106894:Shaped Imbued Cobalt Vanguard Cuirass\/a
 categories:
 - Berserker Equipment

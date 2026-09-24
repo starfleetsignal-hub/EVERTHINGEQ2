@@ -17,7 +17,8 @@ stats:
   potency: 1,802.3
   resolve: '17'
   abmod: +26,917
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1864236147 1196316148:Incandescent Planar Carapace\/a
 categories:
 - AE Autoattack Chance (Equipment)

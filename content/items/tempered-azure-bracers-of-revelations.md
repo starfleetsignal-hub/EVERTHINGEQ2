@@ -17,7 +17,8 @@ stats:
   potency: '10.8'
   multi: '18.1'
   dtype: Leather Armor
-effects: '**Will of the Battle Priest**'
+effect_name: Will of the Battle Priest
+effects: "- When Equipped:\n  - Increases STA of caster by 50.0.\n  - Increases Crushing, Slashing, Piercing, Ranged, Disruption and Subjugation of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Bracers of Revelations]] *Made from [[Colossal Frog Tongue]] *Made from [[Shimmering Siren Scales]] *Made from [[Tavalan Armor Shard]]'
 item_link: \aITEM -1621213924 -1919611681:Tempered Azure Bracers of Revelations\/a
 image: images/Tempered_Azure_Bracers_of_Revelations.png

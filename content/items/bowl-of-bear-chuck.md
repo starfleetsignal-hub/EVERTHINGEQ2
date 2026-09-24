@@ -7,7 +7,7 @@ slot: Charm
 flags: LORE NO-TRADE NO-VALUE ORNATE
 stats:
   charges: 1/1
-effects: Place Bowl
+effects: "- Applies **Place Bowl** when Activated.\n  - This effect cannot be cast during combat"
 obtained_from: Received when you start the quest [[A Mind Of My Own]]
 used_in_quest: '[[A Mind Of My Own]]'
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '25.5'
   potency: '25.5'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- Applies Prayer to Tunare III when Activated.\n  - Heals the caster for 159,500 health\n  - Suspends the passive effect for 60 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare III is 1 minute\n- When Equipped:\n  - Heals caster for 10,690 health every 3 seconds\n  - Cannot be modified except by direct means"
 obtained_from: '[[From the Ruins]]'
 item_link: \aITEM 1322948050 -1893789502:Polished Runestone Shard\/a
 categories:

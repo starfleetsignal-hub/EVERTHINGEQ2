@@ -15,7 +15,8 @@ stats:
   critbonus: '13.1'
   potency: '5'
   dtype: Chain Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -1018114823 -1244326805:Discord's Dark Voodoo Legguards\/a
 categories:
 - Ancient Invigoration of War (Equipment)

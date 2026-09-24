@@ -21,7 +21,8 @@ stats:
   drating: '76.96'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2086397618 -759297360:Mishandled Dirk\/a
 categories:
 - Ability Modifier (Equipment)

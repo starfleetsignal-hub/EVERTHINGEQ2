@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Reet Shield Dance**'
+effect_name: Reet Shield Dance
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Reet Shield Dance on caster.  Lasts for 10.0 seconds.\n    - Wards caster against 600 points of physical damage\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Reet Knight Armor]]'
 item_link: \aITEM -523833532 -827596557:Sallet of the Reet Knight\/a
 image: images/SalletoftheReefKnightExamine.jpg

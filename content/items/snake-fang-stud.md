@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   vselemental: '+395'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 1405267975 944959305:Snake Fang Stud\/a
 categories:
 - Ability Modifier (Equipment)

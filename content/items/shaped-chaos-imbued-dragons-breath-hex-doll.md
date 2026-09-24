@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dps: '2.2'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 702.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -379636509 -968121595:shaped chaos imbued dragon's breath hex doll\/a
 categories:
 - Assassin Equipment

@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Enduring Breath**<br>**Featherfall**'
+effect_name: Enduring Breath, Featherfall
+effects: "- When Equipped:\n  - Allows caster to breathe under water\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Cloak of Runes (crate)|Cloak of Runes]] *Legends of Norrath loot card'
 used_in_quest: '[[Back in Fashion]]'
 starts_quest: '[[Back in Fashion]]'

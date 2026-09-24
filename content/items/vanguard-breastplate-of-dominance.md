@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '88'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Vanguard Breastplate of Dominance]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 1349291160 2108194458:Vanguard Breastplate of Dominance\/a
 categories:

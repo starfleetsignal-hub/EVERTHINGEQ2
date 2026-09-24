@@ -14,7 +14,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Escaped Melee**'
+effect_name: Escaped Melee
+effects: "- Applies Escaped Melee III when Activated.  Lasts for 18.0 seconds.\n  - Increases Weapon Damage Bonus of the caster by 30. This value grows by 4.7 for each meter the caster is from their currently targeted enemy. The maximum increase is 265.\n  - Cannot be modified except by direct means\n  - The reuse time of Escaped Melee III is 1 minute"
 item_link: \aITEM 963861042 -1381645477:Locust of the Plagues\/a
 categories:
 - Assassin Equipment

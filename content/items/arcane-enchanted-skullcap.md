@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   multi: '3.4'
   dtype: Leather Armor
-effects: '**Stumble**'
+effect_name: Stumble
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Stumble on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases AGI of target by 54.2.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1078455363 -891721121:Arcane Enchanted Skullcap\/a
 categories:
 - Assassin Equipment

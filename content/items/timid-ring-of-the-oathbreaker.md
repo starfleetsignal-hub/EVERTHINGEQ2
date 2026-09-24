@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   str: '+1'
   sta: '+1'
-effects: '**Memory Lapse**'
+effect_name: Memory Lapse
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Memory Lapse on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM 358436742 684291401:Timid Ring of the Oathbreaker\/a
 categories:
 - Assassin Equipment

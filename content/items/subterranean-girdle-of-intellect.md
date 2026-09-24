@@ -13,7 +13,8 @@ stats:
   maxhealth: '1.2'
   crit: '0.5'
   potency: '0.8'
-effects: '**Slip**'
+effect_name: Slip
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Slip on target's attacker.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1796779045 -12176589:Subterranean Girdle of Intellect\/a
 categories:
 - Assassin Equipment

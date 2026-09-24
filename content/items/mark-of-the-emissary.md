@@ -5,7 +5,7 @@ item_kind: Equipment
 level: '80'
 slot: Finger
 flags: LORE NO-TRADE, NO-VALUE, ORNATE
-effects: Mark of the Emissary
+effects: "- Applies Mark of the Emissary when Equipped.\n  - Wearing of this ring indicates you are in the service of the Freeport Emissaries and includes all respect due to those distinguished enough to bear such a token."
 used_in_quest: '[[For A Better Tomorrow]]'
 categories:
 - Assassin Equipment

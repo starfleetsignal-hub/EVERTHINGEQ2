@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Force**'
+effect_name: Force
+effects: "- When Equipped:\n  - Increases magic damage done by spells by up to 50."
 item_link: \aITEM 762223641 -750221198:Staff of Nihilism\/a
 image: images/Staff_of_Nihilism_(Version_1).png
 categories:

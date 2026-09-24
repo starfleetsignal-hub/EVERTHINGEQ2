@@ -18,7 +18,8 @@ stats:
   aspeed: '41.6'
   dps: '31.7'
   vselemental: +46,116
-effects: '**Paragon**'
+effect_name: Paragon
+effects: "- When Equipped:\n  - Adds a large damage strike to Granite Protector, and makes it unable to be targeted directly and immune to all damage.\n  - Adds a second summon to Elemental Amalgamation.\n  - Ethermancy will increase the groups Crit Bonus Overcap.\n  - When Tainted Mutation triggers it will grant a large potency buff to the group."
 obtained_from: '[[Nonsense Is Better Than No Sense at All]]'
 item_link: \aITEM 1051293884 1899018336:Bristlebane's Envy\/a
 categories:

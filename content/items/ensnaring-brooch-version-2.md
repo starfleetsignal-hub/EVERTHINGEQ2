@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dps: '12.8'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1942422273 -541520183 0 0 0:Ensnaring Brooch\/a
 categories:

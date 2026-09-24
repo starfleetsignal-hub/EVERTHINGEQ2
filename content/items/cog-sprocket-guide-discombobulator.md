@@ -12,7 +12,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Discombobulation**'
+effect_name: Discombobulation
+effects: "- Applies Discombobulation when Activated.  Lasts for 30 minutes.\n  - Shapechanges target"
 item_link: \aITEM -1085161703 -1854981674:Cog-Sprocket Guide Discombobulator\/a
 categories:
 - Assassin Equipment

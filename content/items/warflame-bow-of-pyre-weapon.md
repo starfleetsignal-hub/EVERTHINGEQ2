@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Sagittus Solis**'
+effect_name: Sagittus Solis
+effects: "- Applies Sagittus Solis when Activated.\n  - Summons 200 Saggitus Solis\n  - Cannot be modified except by direct means\n  - The reuse time of Sagittus Solis is 5 minutes"
 item_link: \aITEM 1849573554 -160616411:Warflame, Bow of Pyre\/a
 image: images/Warflame,_Bow_of_Pyre_(Weapon).png
 categories:

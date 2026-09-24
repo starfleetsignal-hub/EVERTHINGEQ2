@@ -26,7 +26,8 @@ stats:
   drating: '483.33'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,823 heat damage on target.\n    - Inflicts 3,823 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1222039232 897900946:Jaggedtooth's Toothy Dagger\/a
 categories:
 - Assassin Equipment

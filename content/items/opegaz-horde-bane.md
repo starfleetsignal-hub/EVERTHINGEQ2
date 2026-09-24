@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 0.91 seconds
   recast: 0.0 seconds
-effects: Opegaz, Horde Bane
+effects: "- Applies Opegaz, Horde Bane when Activated.\n  - Increases Crit Bonus of caster by 10.0%\n  - Increases Potency of caster by 10.0%\n  - Increases Crit Chance of caster by 36.0\n  - Increases Max Health of caster by 1,600.0\n  - Increases Max Power of caster by 1,600.0\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%"
 item_link: \aITEM -708494398 -986357222:Opegaz, Horde Bane\/a
 image: images/Opegaz_Window.png
 categories:

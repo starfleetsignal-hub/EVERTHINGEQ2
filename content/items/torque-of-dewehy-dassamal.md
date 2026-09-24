@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   aspeed: '9.7'
-effects: '**Enlightened Efficiency**'
+effect_name: Enlightened Efficiency
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Enlightened Efficiency on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of spells by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -719391770 -747662966:Torque of Dew'ehy Das'Samal\/a
 categories:
 - Attack Speed (Equipment)

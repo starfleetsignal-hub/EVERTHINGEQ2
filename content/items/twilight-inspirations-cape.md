@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: 'Twilight: a time of transition; an opportunity to ponder the day past, and to prepare for the day ahead.'
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM -1697704405 -690224494:Twilight Inspirations Cape\/a
 categories:

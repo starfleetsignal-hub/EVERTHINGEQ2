@@ -16,7 +16,8 @@ stats:
   drating: '14.29'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Sparkling Blessing**'
+effect_name: Sparkling Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Sparkling Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 15\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 29) from [[Weaponsmith Essentials Volume 29 (Normal)]] *Crafted by [[Weaponsmith]] (level 29) from [[Weaponsmith Essentials Volume 29 (no-trade)]]'
 item_link: \aITEM 1741960249 365114824:Blessed Boiled Fistwraps\/a
 categories:

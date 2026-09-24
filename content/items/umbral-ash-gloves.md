@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 obtained_from: '*Made from [[Elemental Master''s Glove Mold]] *Made from [[Elemental Master''s Glove Pattern]]'
 item_link: \aITEM -1896603911 -109116719 0 0 0:Umbral Ash Gloves\/a
 categories:

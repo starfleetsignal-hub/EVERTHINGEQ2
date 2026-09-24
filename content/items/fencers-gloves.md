@@ -15,7 +15,8 @@ stats:
   abmod: '+60'
   dps: '5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1898686460 392632788:Fencer's Gloves\/a
 categories:
 - Ability Modifier (Equipment)

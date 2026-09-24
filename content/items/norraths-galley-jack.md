@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**The Bell Tolls**'
+effect_name: The Bell Tolls
+effects: "- Applies The Bell Tolls IV when Activated.  Lasts for 12.0 seconds.\n  - On any combat or spell hit this spell will cast The Bell Tolls IV on target of attack.\n    - Inflicts 370, 000 magic damage on the target. Deals an extra 370, 000 magic damage for every 25% health the target is damaged.\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of The Bell Tolls IV is 1 minute"
 item_link: \aITEM 111180833 782663115:Norrath's Galley Jack\/a
 categories:
 - Ability Modifier (Equipment)

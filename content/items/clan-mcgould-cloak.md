@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Clan McGould Kilt Crate]]
 item_link: \aITEM 234545315 -1356585777:Clan McGould Cloak\/a
 categories:

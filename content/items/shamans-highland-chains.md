@@ -16,7 +16,8 @@ stats:
   potency: '5.6'
   multi: '8.1'
   dtype: Chain Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Desperate Times Mean Desperate Ingredients - Delivery]]'
 item_link: \aITEM 1746627531 721060465:Shaman's Highland Chains\/a
 categories:

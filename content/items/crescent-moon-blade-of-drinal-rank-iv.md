@@ -24,7 +24,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blessing of the Silver Reaper**'
+effect_name: Blessing of the Silver Reaper
+effects: "- When Equipped:\n  - \"Blessing of the Silver Reaper\" protects the wearer from strong deific magics used by Drinal!"
 item_link: \aITEM -1487175656 2133452465:Crescent Moon Blade of Drinal [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

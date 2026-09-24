@@ -13,7 +13,8 @@ stats:
   crit: '0.3'
   potency: '0.6'
   aspeed: '0.3'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 116285154 -901076142:Girdle of Conquering\/a
 categories:
 - Assassin Equipment

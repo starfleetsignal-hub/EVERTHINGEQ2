@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Plate Armor
-effects: '**Choke**'
+effect_name: Choke
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Choke on target's attacker.  Lasts for 6.0 seconds.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1097192963 324180121:Shimmering Star Tonlets\/a
 categories:
 - Attack Speed (Equipment)

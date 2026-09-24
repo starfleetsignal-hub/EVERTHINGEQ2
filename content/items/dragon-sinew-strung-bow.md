@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Stalker''s Missile**<br>**Missile Mastery**'
+effect_name: Stalker's Missile, Missile Mastery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Stalker's Missile on target of attack.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,572 - 2,843 crushing damage on targets in Area of Effect.\n    - Inflicts 514 - 569 crushing damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 257 - 284 crushing damage on targets in Area of Effect every tick.\n    - Increases Crit Bonus of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Missile Mastery on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ranged Weapon Range of caster by 20.0%.\n    - Gives caster a 50.0% chance to not use ammunition on an attack.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Dragon Sinew Strung Bow]] *Made from [[Prime Drake Fang]] *Made from [[Prime Maligonian Horns]] *Made from [[Prime Skyshrine Golem Core]]'
 item_link: \aITEM 795732840 -1713499004:Dragon Sinew Strung Bow\/a
 categories:

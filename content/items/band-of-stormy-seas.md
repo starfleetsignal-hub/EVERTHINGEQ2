@@ -16,7 +16,8 @@ stats:
   aspeed: '27.6'
   dps: '13.8'
   vselemental: +9,108
-effects: '**Silvered Reaping**'
+effect_name: Silvered Reaping
+effects: "- When Equipped:\n  - Increases Combat Mana Regen of caster by 10.0%.\n  - Increases Max Power of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 8.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2021866227 -789058693:Band of Stormy Seas\/a
 categories:
 - Ability Modifier (Equipment)

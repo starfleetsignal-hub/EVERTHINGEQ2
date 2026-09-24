@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 0.13 seconds
   recast: 0.0 seconds
-effects: Exceptional Harvesting Technique
+effects: "- Applies *Exceptional Harvesting Technique* when Activated. Lasts for 10 days\n  - Increases Bountiful Harvest of caster by 10.0\n  - Reduces the harvest time for fishing, foresting, gathering, mining and trapping by .5 second."
 obtained_from: Crafted by [[Woodworker]] (level 77) from [[Woodworker Essentials Volume 77]]
 categories:
 - Assassin Equipment

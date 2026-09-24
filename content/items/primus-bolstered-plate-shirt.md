@@ -18,7 +18,8 @@ stats:
   potency: '627.4'
   resolve: '30'
   dtype: Plate Armor
-effects: '**Facet of Eternity**'
+effect_name: Facet of Eternity
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Rejuvenating One."
 obtained_from: From [[Satchel of the Primus]]
 item_link: \aITEM 1762202230 1698592268:Primus' Bolstered Plate Shirt\/a
 categories:

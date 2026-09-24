@@ -16,7 +16,8 @@ stats:
   critbonus: '734.6'
   potency: 6,584.6
   resolve: '215'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Achievement reward: [[Triumph: Echo K.O.]]'
 item_link: \aITEM -614733625 34270599:Shell of the Stranded Heart\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Hidden Shot**'
+effect_name: Hidden Shot
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Hidden Shot on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 675\n    - Cannot be modified except by direct means"
 item_link: \aITEM -669897630 -1979562757:Torn Ligament Longbow\/a
 categories:
 - Assassin Equipment

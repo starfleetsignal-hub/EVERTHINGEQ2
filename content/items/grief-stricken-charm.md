@@ -19,7 +19,8 @@ stats:
   aspeed: '86.3'
   vselemental: +130,232
   mitinc: '27.1'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 1,683.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -600430665 -1230807592:Grief Stricken Charm\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Reckless Abandon**'
+effect_name: Reckless Abandon
+effects: "- When Equipped:\n  - On a hit this spell may cast Reckless Abandon on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases DPS of caster by 25.0.\n    - Decreases the caster's effectiveness of worn armor vs physical damage by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 11280396 -943327105:Greatmaul of Fury\/a
 categories:
 - Ability Modifier (Equipment)

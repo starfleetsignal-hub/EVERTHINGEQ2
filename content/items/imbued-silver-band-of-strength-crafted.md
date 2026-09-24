@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 4.0.\n    - Increases DPS of caster by 13.9.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Scholar]] (level 18) from [[Advanced Scholar Volume 18 (Normal)]] *Crafted by [[Scholar]] (level 18) from [[Advanced Scholar Volume 18 (No-Trade)]]'
 item_link: \aITEM -1126827383 1689006135:Imbued Silver Band of Strength\/a
 categories:

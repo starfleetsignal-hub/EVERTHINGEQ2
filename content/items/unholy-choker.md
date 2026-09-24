@@ -16,7 +16,8 @@ stats:
   abmod: '+30'
   vselemental: '+533'
   vsarcane: '+533'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards or Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: -1831660144 -2004131018:Unholy Choker
 categories:

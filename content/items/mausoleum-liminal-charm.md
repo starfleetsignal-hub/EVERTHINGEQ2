@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   mitinc: '72.1'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1257004186 1619319333:Mausoleum Liminal Charm\/a
 categories:
 - Assassin Equipment

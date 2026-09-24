@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   vselemental: +1,395
-effects: '**Blood Ritual**'
+effect_name: Blood Ritual
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blood Ritual on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,383 poison damage on target\n    - Heals caster for 1,907\n    - When any damage is received this spell has a 10% chance to cast Blood Ritual on target's attacker.  This effect normalizes based off of a three second triggering event.\n      - Heals target for 1,741.\n        - This effect cannot be critically applied.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2071254928 120424763:Brace of Blinding Defenses\/a
 categories:
 - AE Autoattack Chance (Equipment)

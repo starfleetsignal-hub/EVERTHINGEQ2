@@ -12,7 +12,8 @@ stats:
   sta: '+2'
   mit: '22'
   dtype: Cloth Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 15 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Outfitter]] (level 16) from [[Outfitters essentials volume 16 (Normal)]] *Crafted by [[Outfitter]] (level 16) from [[Outfitters Essentials Volume 16 (no-trade)]]'
 item_link: \aITEM 1130756464 -1650661538:Imbued Tranquil Burlap Pantaloons\/a
 categories:

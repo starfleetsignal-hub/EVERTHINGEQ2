@@ -17,7 +17,8 @@ stats:
   multi: '35.6'
   flurry: '0.6'
   vselemental: +8,415
-effects: '**Wretched Heart**'
+effect_name: Wretched Heart
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,371.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 798068301 -2037147275:Deflector of the Wretched\/a
 categories:
 - Arcane Resistance (Equipment)

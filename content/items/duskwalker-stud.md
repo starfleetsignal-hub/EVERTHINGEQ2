@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vsarcane: '+320'
-effects: '**Lesser Sap Strength**'
+effect_name: Lesser Sap Strength
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Sap Strength on target's attacker.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases DPS of target by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Crystal Mountain]]'
 item_link: \aITEM 2062231477 1241622975:Duskwalker Stud\/a
 categories:

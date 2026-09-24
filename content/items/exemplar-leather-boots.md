@@ -21,7 +21,8 @@ stats:
   abmod: +4,738
   mitinc: '15.6'
   dtype: Leather Armor
-effects: '**Grasp of Nightmares**'
+effect_name: Grasp of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Warden of Nightmares."
 obtained_from: From [[Hoard of the Nightmare Warden]]
 item_link: \aITEM -1212561813 640678712:Exemplar  Leather Boots\/a
 categories:

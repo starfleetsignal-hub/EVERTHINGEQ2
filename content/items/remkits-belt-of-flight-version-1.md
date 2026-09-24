@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   dps: '10.1'
-effects: '**Flight**'
+effect_name: Flight
+effects: "- When Equipped:\n  - Increases Ranged Weapon Range of caster by 5.0%."
 item_link: \aITEM 1883592479 232631017:Remkit's Belt of Flight\/a
 image: images/Remkit's_Belt_of_Flight.png
 categories:

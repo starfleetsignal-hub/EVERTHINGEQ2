@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: '+763'
   dps: '26.4'
-effects: '**Whispers from Beyond**'
+effect_name: Whispers from Beyond
+effects: "- Applies Whispers from Beyond when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of target by 120.0.\n    - If priest\n  - Increases Crit Bonus of target by 120.0.\n    - If priest\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Whispers from Beyond is 1 minute 20 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1157497415 -1189397727:Tranquil Lumicite Orb\/a
 categories:

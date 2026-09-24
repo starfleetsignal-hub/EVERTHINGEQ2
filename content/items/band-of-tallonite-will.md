@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   vsarcane: '+511'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 1939065929 233124500:Band of Tallonite Will\/a
 categories:
 - Ability Modifier (Equipment)

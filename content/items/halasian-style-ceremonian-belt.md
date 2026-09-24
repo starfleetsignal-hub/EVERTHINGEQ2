@@ -13,7 +13,7 @@ stats:
   power: '+90'
   vsarcane: '+792'
   vsnoxious: '+468'
-effects: Arcane Recovery I
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Mission Complete]]'
 categories:
 - Arcane Resistance (Equipment)

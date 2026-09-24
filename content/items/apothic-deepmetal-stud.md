@@ -17,7 +17,8 @@ stats:
   dps: '28.8'
   multi: '22.2'
   vselemental: +33,491
-effects: '**Countermoves**'
+effect_name: Countermoves
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Countermoves on the raid.  Lasts for 5.0 seconds.  Triggers about 0.6 times per minute.\n    - Increases Potency of raid and group members (AE) by 16.0.\n    - Cannot be modified except by direct means\n  - When any damage is received this spell will cast Countermoves on the raid.  Lasts for 5.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency of raid and group members (AE) by 16.0.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -2081970737 80317978:Apothic Deepmetal Stud\/a
 categories:
 - Arcane Resistance (Equipment)

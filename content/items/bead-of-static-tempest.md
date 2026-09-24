@@ -17,7 +17,8 @@ stats:
   aspeed: '13.8'
   multi: '67.7'
   flurry: '0.6'
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2062997446 1278979383 0 0 0:Bead of Static Tempest\/a
 categories:
 - Assassin Equipment

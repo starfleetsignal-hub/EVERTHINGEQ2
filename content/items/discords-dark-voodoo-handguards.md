@@ -14,7 +14,8 @@ stats:
   crit: '6'
   critbonus: '2.9'
   dtype: Chain Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 580.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2099164284 -310145931:Discord's Dark Voodoo Handguards\/a
 categories:
 - Bard Equipment

@@ -17,7 +17,8 @@ stats:
   dps: '15.9'
   multi: '10'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 15.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]]
 item_link: \aITEM 1704381304 -61768747:Steelgrip Gloves\/a
 categories:

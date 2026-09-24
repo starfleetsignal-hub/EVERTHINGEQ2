@@ -15,7 +15,8 @@ stats:
   int: '+10'
   mit: '39'
   dtype: Cloth Armor
-effects: '**Goggles of the Bat**'
+effect_name: Goggles of the Bat
+effects: "- Applies Goggles of the Bat when Equipped.\n  - Grants Sonic Vision to caster"
 obtained_from: Made with Tinkering (skill 70) from [[Apprentice Blueprints 0.007]].
 item_link: \aITEM 1593030979 492621837:Goggles of the Bats\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Lifespike**'
+effect_name: Lifespike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lifespike on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 mental damage on target\n    - Heals caster for 864\n    - When any damage is received this spell has a 10% chance to cast Lifesource on target's attacker.  This effect normalizes based off of a three second triggering event.\n      - Heals target for 960.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1602165095 -952995788:Lifespike, Stiletto of Ruin\/a
 categories:
 - AE Autoattack Chance (Equipment)

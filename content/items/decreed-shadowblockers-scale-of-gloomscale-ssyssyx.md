@@ -17,7 +17,8 @@ stats:
   potency: 8,465.9
   resolve: '235'
   multi: '16.7'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 28.8.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 24.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1412425734 886392102:Decreed Shadowblocker's Scale of Gloomscale Ssyssyx\/a
 categories:
 - Assassin Equipment

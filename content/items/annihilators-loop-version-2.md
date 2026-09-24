@@ -15,7 +15,8 @@ stats:
   potency: '5'
   dps: '12.6'
   vselemental: '+400'
-effects: '**Precision Strikes**'
+effect_name: Precision Strikes
+effects: "- When Equipped:\n  - On a hit this spell may cast Precision Strikes on caster.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Crit Chance of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -246024039 -1394827748:Annihilator's Loop\/a
 categories:
 - Arcane Resistance (Equipment)

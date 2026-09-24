@@ -16,7 +16,8 @@ stats:
   abmod: '+270'
   multi: '13.5'
   vselemental: '+558'
-effects: '**Scathing Sands**'
+effect_name: Scathing Sands
+effects: "- When Equipped:\n  - When damaged this spell has a 8% chance to cast Scathing Sands on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 4,165\n    - Inflicts 1,986 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Scathing Sands on target of attack.  Triggers about 1.6 times per minute.\n    - Increases Threat to target by 4,165\n    - Inflicts 1,986 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2044213739 -6780526:Ghastly Sands Bangle\/a
 categories:
 - Ability Modifier (Equipment)

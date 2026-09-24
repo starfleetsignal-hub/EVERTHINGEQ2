@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   aspeed: '1.3'
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 320) from [[Master's Blueprints 0.001]].
 item_link: \aITEM -1114597666 -444147868:Eye of Agamatoo\/a
 categories:

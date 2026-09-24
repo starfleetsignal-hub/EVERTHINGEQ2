@@ -20,7 +20,8 @@ stats:
   drating: '91.5'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Impact on target of attack.  Lasts for 0.3 seconds.  Triggers about 1.8 times per minute.\n    - Interrupts target\n    - Throws target back\n    - Inflicts 227 - 378 crushing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 80913307 -1843945218:Stonestaff of Striking\/a
 categories:
 - Ability Modifier (Equipment)

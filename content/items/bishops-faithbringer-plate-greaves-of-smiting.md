@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -611247854 455315824:Bishop's Faithbringer Plate Greaves of Smiting\/a
 categories:
 - Berserker Equipment

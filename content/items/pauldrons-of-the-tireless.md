@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Plate Armor
-effects: '**Lesser Enraging Presence**'
+effect_name: Lesser Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 43\n    - Cannot be modified except by direct means"
 obtained_from: Former [[Recover the Lost Slaves]]
 item_link: \aITEM -2103364884 -1754797212:Pauldrons of the Tireless\/a
 categories:

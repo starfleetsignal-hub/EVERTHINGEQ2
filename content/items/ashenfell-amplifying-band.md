@@ -16,7 +16,8 @@ stats:
   abmod: '+843'
   dps: '29'
   vselemental: +35,154
-effects: '**Amplifying Combo**'
+effect_name: Amplifying Combo
+effects: "- When Equipped:\n  - The values increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value.\n  - Increases Crit Bonus by 16.2%-78.3%, Potency 32%-80.3%, Weapon Damage Bonus  by 12%-44.2% and Stamina by 130-452."
 item_link: \aITEM 2106070568 -1068550575:Ashenfell Amplifying Band\/a
 categories:
 - Ability Modifier (Equipment)

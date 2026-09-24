@@ -16,7 +16,8 @@ stats:
   dps: '47.8'
   multi: '16.7'
   dtype: Chain Armor
-effects: '**Magnitude**'
+effect_name: Magnitude
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Magnitude III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 50.0.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Magnitude III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 50.0.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -418878465 -16869033:Particle-Dispersed Shoulders of Composition\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '9.6'
   abmod: '+336'
   vsarcane: +1,598
-effects: '**Greater Rain of Blades**'
+effect_name: Greater Rain of Blades
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Greater Rain of Blades on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,796 - 4,196 slashing damage on target encounter.\n    - Inflicts 633 - 699 slashing damage on target encounter every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 120327171 -335293214:Jeweled Bracelet of the Hallowed Battlepriest\/a
 categories:
 - Ability Modifier (Equipment)

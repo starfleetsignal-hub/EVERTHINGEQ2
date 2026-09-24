@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Inspiration Martyrdom**'
+effect_name: Inspiration Martyrdom
+effects: "- When Equipped:\n  - On death this spell will cast Inspirational Martyrdom on target.  Lasts for 30.0 seconds.\n    - Reduces all damage done to group members (AE) by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -201322305 638428081:Pickclaw Chef's Lost Studs\/a
 categories:
 - Arcane Resistance (Equipment)

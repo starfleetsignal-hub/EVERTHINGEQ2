@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Draconic Wrath**'
+effect_name: Draconic Wrath
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Draconic Wrath on target of attack.\n    - Inflicts 23 - 29 divine damage on target.\n      - If target is draconic\n    - Cannot be modified except by direct means"
 item_link: \aITEM 241957019 -1985570636:Wurm Destroyer Bow\/a
 categories:
 - Assassin Equipment

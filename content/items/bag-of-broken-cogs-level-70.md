@@ -19,7 +19,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Broken Cogs**'
+effect_name: Broken Cogs
+effects: "- Applies Broken Cogs when Activated.\n  - Summons 99 broken cogs\n  - The casting time of Broken Cogs is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM -1209701225 -2113561981:Bag of Broken Cogs\/a
 image: images/Bag_of_Broken_Cogs.jpg
 categories:

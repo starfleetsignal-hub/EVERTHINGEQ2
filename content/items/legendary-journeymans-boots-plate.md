@@ -13,7 +13,7 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Plate Armor
-effects: Journeyman's Boots
+effects: "- Applies **Journeyman's Boots** when equipped.\n  - Increases speed of caster by 10%\n  - This effect suspends during combat"
 obtained_from: '[[The Journey is Half the Fun]]'
 item_link: -18624585 -1732302927:Legendary Journeyman's Boots
 categories:

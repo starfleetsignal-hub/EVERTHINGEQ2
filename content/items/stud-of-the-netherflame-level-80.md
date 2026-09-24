@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vselemental: '+395'
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 205.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2050967343 31203031:Stud of the Netherflame\/a
 categories:
 - Ability Modifier (Equipment)

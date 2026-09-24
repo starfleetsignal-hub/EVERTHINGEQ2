@@ -17,7 +17,8 @@ stats:
   dps: '27.9'
   multi: '18.1'
   vselemental: +1,824
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1861263062 198175683 0 0 0:Ring of Endless Woebegone\/a
 categories:
 - Ability Modifier (Equipment)

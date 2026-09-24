@@ -18,7 +18,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equiped:\n  - Increases Attack Speed of caster by 38"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -607252104 410618772:[Abandoned Gloves of the Jin Drake]\/a
 categories:

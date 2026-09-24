@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Ethereal Strike**'
+effect_name: Ethereal Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ethereal Strike IV on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 9,650 poison damage on target.\n    - Increases Crit Bonus of caster by 22.0.\n    - Increases Potency of caster by 22.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -806781377 823985540:Silk Needles\/a
 categories:
 - AE Autoattack Chance (Equipment)

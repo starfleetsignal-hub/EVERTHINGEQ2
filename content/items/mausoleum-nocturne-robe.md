@@ -17,7 +17,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 10 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -4334738 1961568627:Mausoleum Nocturne Robe\/a
 categories:
 - Census Credits

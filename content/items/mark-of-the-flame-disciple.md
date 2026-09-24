@@ -16,7 +16,8 @@ stats:
   aspeed: '6.9'
   dps: '12.4'
   vsarcane: '+840'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 32.0."
 obtained_from: '[[Barred No More]]'
 item_link: \aITEM -520509746 -1391967508:Mark of the Flame Disciple\/a
 categories:

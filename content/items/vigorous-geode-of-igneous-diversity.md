@@ -15,7 +15,8 @@ stats:
   potency: '27'
   dps: '21.8'
   multi: '31.2'
-effects: '**Vigor**'
+effect_name: Vigor
+effects: "- Applies Vigor II when Activated.\n  - Increases the casting or upkeep cost of all abilities by 130%.\n  - Increases Potency and Damage Per Second by 0.75% of the caster's primary attribute\n  - This item may not be used in a PvP zone.\n  - Your target cannot have Vigor or Enchanted Vigor already active.\n  - Cannot be modified except by direct means\n  - The casting time of Vigor II is 0.5 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 464542342 -1535100626:Vigorous Geode of Igneous Diversity\/a
 categories:
 - Assassin Equipment

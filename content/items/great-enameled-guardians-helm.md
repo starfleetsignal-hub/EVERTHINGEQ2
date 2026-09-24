@@ -17,7 +17,7 @@ stats:
   mit: '426'
   vsarcane: '+455'
   dtype: Plate Armor
-effects: Debilitating Aura
+effects: "- When Equipped:\n  - When target is damaged in combat this spell has a 15% chance to cast Debilitating Aura on target's attacker.\n    - Decreases Attack Speed of target by 5.0"
 item_link: 172707331 263818527:Great Enameled Guardian's Helm
 categories:
 - Arcane Resistance (Equipment)

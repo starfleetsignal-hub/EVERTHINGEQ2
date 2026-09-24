@@ -17,7 +17,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -391198001 739869891:Leather Gloves of Greater Skyshrine\/a
 categories:
 - Assassin Equipment

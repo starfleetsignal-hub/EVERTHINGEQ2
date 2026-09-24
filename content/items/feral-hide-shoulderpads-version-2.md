@@ -17,7 +17,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Leather Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 5%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1543312190 -498397517 0 0 0:Feral Hide Shoulderpads\/a
 categories:

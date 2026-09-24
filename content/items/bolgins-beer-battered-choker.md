@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   multi: '31.2'
-effects: '**Discreet Employer**'
+effect_name: Discreet Employer
+effects: "- When Equipped:\n  - The wearer's mercenary will taunt all enemies that hate the wearer and have its hate generation doubled."
 obtained_from: Dropped by [[Bolgin Serilis]] in [[High Keep (Heroic)]]
 item_link: \aITEM -995605611 -2081739653:Bolgin's Beer-Battered Choker\/a
 image: images/Bolgin's_Beer-Battered_Choker.png

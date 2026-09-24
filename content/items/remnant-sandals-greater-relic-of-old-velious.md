@@ -18,7 +18,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Cloth Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 393.9.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1337624762 2088435077:Remnant Sandals, Greater Relic of Old Velious\/a
 categories:
 - Census Credits

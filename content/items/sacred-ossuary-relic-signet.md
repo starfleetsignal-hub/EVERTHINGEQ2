@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor of caster by 48.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -126191765 1376014282:Sacred Ossuary Relic Signet\/a
 categories:
 - Arcane Resistance (Equipment)

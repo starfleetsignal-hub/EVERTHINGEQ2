@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dps: '4'
-effects: '**Structural Anguish**'
+effect_name: Structural Anguish
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Structural Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals caster for 340.\n    - Increases Defense of caster by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Structural Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 10.0 times per minute.\n    - Heals caster for 340.\n    - Increases Defense of caster by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1246436149 -10400386:Weakened Beak of Amenophas\/a
 categories:
 - Assassin Equipment

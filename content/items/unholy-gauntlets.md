@@ -15,7 +15,8 @@ stats:
   abmod: '+50'
   dps: '5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 235120106 -459675565:Unholy Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

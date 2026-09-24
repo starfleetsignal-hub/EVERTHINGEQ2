@@ -17,7 +17,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1,078.1.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 582102262 -581095740:Raging Relic Pauldrons\/a
 categories:
 - Assassin Equipment

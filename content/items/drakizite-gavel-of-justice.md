@@ -21,7 +21,9 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Corrosive Fog**<br>**Cyclical Battering**'
+effect_name: Corrosive Fog, Cyclical Battering
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 793 - 876 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 480.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 6.0.\n    - Increases DPS of caster by 9.0.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in\
+  \ pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -568092690 -1709183637:Drakizite Gavel of Justice\/a
 categories:
 - Beastlord Equipment

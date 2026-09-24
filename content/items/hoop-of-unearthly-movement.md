@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Unearthly Vigor**'
+effect_name: Unearthly Vigor
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Unearthly Vigor on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 2,200 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1021805076 550114501:Hoop of Unearthly Movement\/a
 categories:
 - Arcane Resistance (Equipment)

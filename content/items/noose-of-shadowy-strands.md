@@ -18,7 +18,8 @@ stats:
   resolve: '19'
   abmod: +27,467
   aspeed: '61.2'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 3.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -156400832 -159790953:Noose of Shadowy Strands\/a
 categories:
 - Ability Modifier (Equipment)

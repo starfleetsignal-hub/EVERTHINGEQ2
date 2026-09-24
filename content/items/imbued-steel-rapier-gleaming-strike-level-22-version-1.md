@@ -15,7 +15,8 @@ stats:
   drating: '16.25'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 60 - 112 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1054396337 -184721587:Imbued Steel Rapier\/a
 image: images/Imbued_steel_rapier.jpg
 aliases:

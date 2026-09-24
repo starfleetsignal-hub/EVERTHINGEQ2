@@ -20,7 +20,8 @@ stats:
   drating: '120.04'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1681361129 1148785502:Hammer of the Stormlord\/a
 categories:
 - Attack Speed (Equipment)

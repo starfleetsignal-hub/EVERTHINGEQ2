@@ -19,7 +19,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Velium Shards**'
+effect_name: Velium Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Velium Shards on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 179 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 851989577 -1365004844:Ancient Velium Kris\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   drating: '9.45'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Orcbane**'
+effect_name: Orcbane
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Orcbane on target of attack.\n    - Inflicts 5 - 9 magic damage on target.\n    - If target is orc\n    - Cannot be modified except by direct means"
 obtained_from: '[[Bloodskull Disruption]]'
 item_link: \aITEM 2046264717 -1945673446:Strength of Stendyr\/a
 categories:

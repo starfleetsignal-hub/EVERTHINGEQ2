@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   vsarcane: '+280'
-effects: '**Adrenaline Boost**'
+effect_name: Adrenaline Boost
+effects: "- When Equipped:\n  - On a hit this spell may cast Adrenaline Boost on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Multi Attack of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1940609194 -2071953261 0 0 0:Ring of Tunarian Might\/a
 categories:
 - Ability Modifier (Equipment)

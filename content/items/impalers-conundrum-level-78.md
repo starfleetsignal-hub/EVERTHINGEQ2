@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   dps: '10.1'
   dtype: Plate Armor
-effects: '**Lesser Runic Absorption**'
+effect_name: Lesser Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Lesser Runic Absorption on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 300 points of all damage\n    - Cannot be modified except by direct means\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -306040876 178450541:Impaler's Conundrum\/a
 categories:
 - Berserker Equipment

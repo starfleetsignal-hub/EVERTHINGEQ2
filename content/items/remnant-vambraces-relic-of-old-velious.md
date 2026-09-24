@@ -18,7 +18,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Plate Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1158574839 385548128:Remnant Vambraces, Relic of Old Velious\/a
 categories:
 - Berserker Equipment

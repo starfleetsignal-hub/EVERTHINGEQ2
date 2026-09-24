@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Symbols
-effects: '**Life Flow**'
+effect_name: Life Flow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Life Flow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1469873316 887937912:Demonstration of Frigid Will\/a
 categories:
 - Ability Modifier (Equipment)

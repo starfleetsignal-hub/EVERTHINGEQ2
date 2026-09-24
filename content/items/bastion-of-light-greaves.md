@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM -1128519886 198460343 0 0 0:Bastion of Light Greaves\/a
 categories:
 - Ability Modifier (Equipment)

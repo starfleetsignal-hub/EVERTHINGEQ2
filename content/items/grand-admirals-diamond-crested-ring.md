@@ -14,7 +14,8 @@ stats:
   abmod: '+94'
   multi: '8'
   vselemental: '+837'
-effects: '**Suppressed Rage**'
+effect_name: Suppressed Rage
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM -470747727 981115186:Grand Admiral's Diamond Crested Ring\/a
 categories:
 - Ability Modifier (Equipment)

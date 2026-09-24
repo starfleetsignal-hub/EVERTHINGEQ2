@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,660
-effects: '**Nightmare Shroud**'
+effect_name: Nightmare Shroud
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Nightmare Shroud on caster.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.0.\n    - Increases Crit Bonus of caster by 8.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1993450458 -66089654:Overseer's Ring of the Bluejacket\/a
 categories:
 - Arcane Resistance (Equipment)

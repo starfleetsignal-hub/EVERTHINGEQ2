@@ -19,7 +19,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Chain Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 55.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1854717804 2073292412:Monumental Chain Bracers, Greater Relic of Old Velious\/a
 categories:
 - Assassin Equipment

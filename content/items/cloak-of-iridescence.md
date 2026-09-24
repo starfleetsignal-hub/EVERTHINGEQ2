@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (450 Daybreak Cash)
 item_link: \aITEM 1725093407 -818726679:Cloak of Iridescence\/a
 categories:

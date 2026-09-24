@@ -18,7 +18,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**<br>**Haste**'
+effect_name: Benevolent Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent.\n- When Equipped:\n  - Increases Attack Speed of caster by 38"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]]
 item_link: \aITEM 157915835 -382922161:Holy Warrior's Gauntlets\/a
 categories:

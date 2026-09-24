@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Lightning Strikes**'
+effect_name: Lightning Strikes
+effects: "- When Equipped:\n  - Increases Damage Per Second and Attack Speed by 26 for each target who hates the wearer, up to 104 maximum."
 item_link: \aITEM -1603698429 -537261595:Necklace of Primal Renewal\/a
 categories:
 - Assassin Equipment

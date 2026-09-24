@@ -18,7 +18,8 @@ stats:
   abmod: +257,912
   cbovercap: '+1414.3'
   dtype: Symbols
-effects: '**Consume Life**'
+effect_name: Consume Life
+effects: "- Applies Consume Life when Activated.\n  - On a healing spell cast this spell has a 10% chance to cast Quenching Thirst on caster.\n    - Heals group members (AE) for 12.0% of max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n  - The casting time of Consume Life is 2.0 seconds and the reuse time of the spell is 30.0 seconds"
 item_link: \aITEM 422038059 655167701:Bloodlord's Recently Filled Decanter\/a
 categories:
 - Ability Modifier (Equipment)

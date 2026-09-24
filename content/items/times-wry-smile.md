@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Disengage**'
+effect_name: Disengage
+effects: "- Applies Disengage when Activated.  Lasts for 30.0 seconds.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - Grants stealth to caster\n  - Suspends caster's movement speed enhancements\n  - Removes all of your hate from surrounding encounters.\n  - Cannot be modified except by direct means\n  - The reuse time of Disengage is 5 minutes"
 obtained_from: '* *Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]'
 item_link: \aITEM 2040437687 610327119:Time's Wry Smile\/a
 categories:

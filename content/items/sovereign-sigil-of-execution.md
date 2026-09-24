@@ -16,7 +16,8 @@ stats:
   critbonus: 1,312.6
   potency: 39,962.1
   resolve: '510'
-effects: '**Sovereign Execution**'
+effect_name: Sovereign Execution
+effects: "- Applies Sovereign Execution when Equipped.\n  - When looted, this item will grant a character flag that contributes to the Ballads of Zimara: Flawless Execution effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1569485075 -663245069:Sovereign Sigil of Execution\/a
 categories:
 - Assassin Equipment

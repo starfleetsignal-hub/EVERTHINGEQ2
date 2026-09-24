@@ -18,7 +18,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 207837807 1475907075:Discord's Battle Bandolier\/a
 categories:
 - Assassin Equipment

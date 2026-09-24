@@ -9,7 +9,8 @@ flags: attunable heirloom
 stats:
   mit: '266'
   dtype: Cloth Armor
-effects: '**Hot Hop**<br>**Double Jump**'
+effect_name: Hot Hop, Double Jump
+effects: "- Applies Hot Hop when Equipped.\n  - Allows caster to jump farther\n  - Reduces maximum falling speed of caster\n- Applies Double Jump when Activated.\n  - Perform another jump while jumping.\n  - The reuse time of Double Jump is 5 minutes outside of Doomfire: Ro's Sweatshop.\n  - If not on a mount\n  - Must not be engaged in combat\n  - Cannot be modified except by direct means\n  - The reuse time of Double Jump is 15.0 seconds"
 obtained_from: Crafted by [[Artisan]] (level 0) from [[Hot Hoppers (Recipe Book)]]
 item_link: \aITEM -187620225 177532208:Hot Hoppers\/a
 categories:

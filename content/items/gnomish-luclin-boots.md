@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '134'
   dtype: Chain Armor
-effects: '**Luclin Boots**'
+effect_name: Luclin Boots
+effects: "- Applies Luclin Boots when Equipped.\n  - Decreases falling damage taken by caster by 53.9%.\n  - This effect suspends during combat"
 obtained_from: 'Made with Tinkering (skill 180) from [[Blueprint: Gnomish Luclin Boots]].'
 item_link: \aITEM 1362171712 -36625641:Gnomish Luclin Boots\/a
 categories:

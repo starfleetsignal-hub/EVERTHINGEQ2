@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   flurry: '7.7'
   mitinc: '11.6'
-effects: '**Will of the Hounds**'
+effect_name: Will of the Hounds
+effects: "- Applies Will of the Hounds when Activated.  Lasts for 30.0 seconds.\n  - Increases Crit Bonus of caster by 50.0.\n  - Makes caster immune to Stifle effects\n  - 5% of all physical damage received by the caster is prevented.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Will of the Hounds is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[The Fallen Swords: Endgame]]'
 item_link: \aITEM -801822566 1816305470:Solidified Blood of Rallos Zek\/a
 categories:

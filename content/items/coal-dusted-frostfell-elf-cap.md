@@ -11,7 +11,8 @@ stats:
   int: '+1'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 obtained_from: '*Purchased from [[Frostfell Vendor Items|Giggawat and Garslebat  Gigglegibber]] in the Wonderland Village during [[Frostfell]] for 1s *Received from [[Frostfell cracker]]'
 item_link: \aITEM 1215632999 -672322908:Coal Dusted Frostfell Elf Cap\/a
 events:

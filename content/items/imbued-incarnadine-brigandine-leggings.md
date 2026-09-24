@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   dps: '9.6'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 177 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 77) from [[Advanced Armorer Volume 77 (Heirloom)]] *Crafted by [[Armorer]] (level 77) from [[Advanced Armorer Volume 77 (Normal)]] *From [[Brigandine Armor Pack (Level 72 Mastercrafted) (Version 1)|Brigandine Armor Pack (Level 72 Mastercrafted)]] *From [[Brigandine Armor Pack (Level 72 Mastercrafted) (Version 2)|Brigandine Armor Pack (Level 72 Mastercrafted)]]'
 item_link: \aITEM -778134377 -703256643:Imbued Incarnadine Brigandine Leggings\/a
 categories:

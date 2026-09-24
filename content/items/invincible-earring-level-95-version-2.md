@@ -14,7 +14,8 @@ stats:
   potency: '17.7'
   abmod: +1,000
   vselemental: +13,728
-effects: '**Curse Armor**'
+effect_name: Curse Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curse Armor III on target of attack.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 1,197.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Berserker, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Bruiser, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Guardian, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Monk, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Paladin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Shadowknight, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM 139733655 -983288024:Invincible Earring\/a
 categories:

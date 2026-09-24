@@ -11,7 +11,8 @@ stats:
   drating: '40.56'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Frigid Winds**'
+effect_name: Frigid Winds
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frigid Winds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 94 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1413678486 1720605531:Frozen Dagger\/a
 categories:
 - Assassin Equipment

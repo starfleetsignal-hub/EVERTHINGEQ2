@@ -18,7 +18,8 @@ stats:
   drating: '52.89'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Lightning Shock**'
+effect_name: Lightning Shock
+effects: "- Applies Lightning Shock when Activated.\n  - Inflicts 244 - 407 magic damage on target.\n  - The casting time of Lightning Shock is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -673584183 -552633942:shaped magic imbued rosewood wand\/a
 categories:
 - Attack Speed (Equipment)

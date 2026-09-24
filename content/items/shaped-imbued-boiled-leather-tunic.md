@@ -12,7 +12,8 @@ stats:
   agi: '+6'
   mit: '72'
   dtype: Leather Armor
-effects: '**Dim Lambent Imbued**'
+effect_name: Dim Lambent Imbued
+effects: "- Applies Dim Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 11 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1196695979 636405580:Shaped Imbued Boiled Leather Tunic\/a
 categories:
 - Assassin Equipment

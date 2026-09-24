@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Chelsith Scourge**'
+effect_name: Featherfall, Chelsith Scourge
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Chelsith Scourge when Activated.  Lasts for 1 minute.\n  - Shapechanges target into a Snake\n  - Does not affect Epic targets\n  - The casting time of Chelsith Scourge is 4.0 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: '*From [[Cloak of Chelsith (crate)|Cloak of Chelsith]] *Legends of Norrath loot card'
 item_link: \aITEM 1245007407 -522009249:Cloak of Chelsith\/a
 categories:

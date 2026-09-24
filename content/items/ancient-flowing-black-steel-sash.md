@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dps: '15.2'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1187944987 -428288689:Ancient Flowing Black Steel Sash\/a
 categories:
 - Attack Speed (Equipment)

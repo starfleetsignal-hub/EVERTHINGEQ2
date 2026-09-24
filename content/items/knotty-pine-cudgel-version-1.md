@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Sledgefist**'
+effect_name: Sledgefist
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sledgefist on target of attack.  Triggers about 1.0 times per minute.\n    - Inflicts 448 crushing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1295405941 -1953464470:Knotty Pine Cudgel\/a
 categories:
 - Ability Modifier (Equipment)

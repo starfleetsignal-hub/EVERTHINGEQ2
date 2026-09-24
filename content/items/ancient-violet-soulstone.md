@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   multi: '17.5'
-effects: '**Momentary Perception**'
+effect_name: Momentary Perception
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Momentary Perception on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Momentary Perception increases the amount of your next healing spell by 35%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM -649722028 -1467206959 0 0 0:Ancient Violet Soulstone\/a
 categories:
 - Ability Modifier (Equipment)

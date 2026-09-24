@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Symbols
-effects: '**Howl of Tishan**'
+effect_name: Howl of Tishan
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Howl of Tishan on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs noxious and arcane damage by 1,155.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2045331584 1436470522:Orb of Tishan\/a
 image: images/Orb_of_Tishan.jpg
 categories:

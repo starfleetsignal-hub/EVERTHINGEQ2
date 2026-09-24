@@ -10,7 +10,8 @@ flags: lore-equip no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Taint of Fear**'
+effect_name: Taint of Fear
+effects: "- Applies Taint of Fear when Activated.  Lasts for 8.0 seconds.\n  - Makes target afraid\n  - 20% chance to dispel when target takes damage\n  - 20% chance to dispel when target receives hostile action\n  - If under level 18\n  - Resistibility increases against targets higher than level 20.\n  - The casting time of Taint of Fear is 2.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Gnomore Gnomesteaks]]'
 item_link: \aITEM -1793580977 -804588731:Thulian Symbol of Fear\/a
 categories:

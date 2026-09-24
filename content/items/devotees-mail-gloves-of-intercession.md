@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 2007459643 -240612510:Devotee's Mail Gloves of Intercession\/a
 categories:
 - Assassin Equipment

@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Amplified Obedience**'
+effect_name: Amplified Obedience
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Amplify Healing on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the amount of your next healing spell by 25%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1759421078 1374334241:Obedience Baton\/a
 categories:
 - Ability Modifier (Equipment)

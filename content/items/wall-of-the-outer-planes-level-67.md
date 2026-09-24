@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Tower Shield
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 5.0%."
 item_link: \aITEM -879606494 -691921670:Wall of the Outer Planes\/a
 categories:
 - Attack Speed (Equipment)

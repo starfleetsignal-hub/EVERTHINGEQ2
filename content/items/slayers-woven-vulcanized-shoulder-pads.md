@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   abmod: '+28'
   dtype: Leather Armor
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Detonation on target's attacker.\n    - Inflicts 68 - 113 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -652939071 1353787556:Slayer's Woven Vulcanized Shoulder Pads\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +11,880
-effects: '**Practiced Tactics**'
+effect_name: Practiced Tactics
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Tactics II on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the group's Crit Bonus and Potency by 0.4 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 24 Crit Bonus and Potency.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1711765028 2104955411:Dreadscale Band\/a
 categories:
 - AE Autoattack Chance (Equipment)

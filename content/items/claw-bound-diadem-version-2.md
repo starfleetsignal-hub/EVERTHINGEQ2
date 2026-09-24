@@ -18,7 +18,8 @@ stats:
   abmod: '+66'
   aspeed: '4.1'
   dtype: Leather Armor
-effects: '**Extension of Pain**'
+effect_name: Extension of Pain
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 10% chance to cast Extension of Pain on target of combat art.\n    - Inflicts 161 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1624856833 -651887107:Claw-bound Diadem\/a
 categories:
 - Ability Modifier (Equipment)

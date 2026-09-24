@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- Applies Detonation when Activated.\n  - Inflicts 411,600 heat damage on targets in Area of Effect.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Detonation is 30.0 seconds"
 obtained_from: 'Collection reward: [[Ethereal Explorer]]'
 item_link: \aITEM 1564169026 -872677995:Stone of Detonation\/a
 categories:

@@ -25,7 +25,8 @@ stats:
   drating: '373.66'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Sacred Territory**<br>**Savage Healing**'
+effect_name: Sacred Territory, Savage Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Sacred Territory on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against all damage for 5.2% of the caster's maximum health\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 11.0 - 16.0 seconds.\n- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Savage Healing on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 10.0% of caster's max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM 1479470333 -1430539595:Frenzied Hammer of Skulls\/a
 categories:
 - Ability Modifier (Equipment)

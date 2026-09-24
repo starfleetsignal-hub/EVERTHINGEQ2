@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1474225345 -779864171:Pious Gloves of Draconic Recognition\/a
 categories:
 - Assassin Equipment

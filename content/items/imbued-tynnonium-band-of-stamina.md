@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vsarcane: '+324'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 24.8.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 78) from [[Advanced Jeweler Volume 78 (Heirloom)]] *Crafted by [[Jeweler]] (level 78) from [[Advanced Jeweler Volume 78 (Normal)]]'
 item_link: \aITEM -152784838 958252942:Imbued Tynnonium Band of Stamina\/a
 categories:

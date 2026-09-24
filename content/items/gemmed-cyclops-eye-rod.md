@@ -16,7 +16,8 @@ stats:
   abmod: '+270'
   dps: '21.1'
   dtype: Symbols
-effects: '**Abundant Reformation**'
+effect_name: Abundant Reformation
+effects: "- Applies Abundant Reformation when Activated.  Lasts for 20.0 seconds.\n  - On any combat or spell hit this spell may cast Abundant Reformation on caster.  Triggers about 10.0 times per minute.\n    - Increases power of caster by 73.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - The reuse time of Abundant Reformation is 20 minutes"
 item_link: \aITEM -411960157 -809161929:Gemmed Cyclops Eye Rod\/a
 categories:
 - Ability Modifier (Equipment)

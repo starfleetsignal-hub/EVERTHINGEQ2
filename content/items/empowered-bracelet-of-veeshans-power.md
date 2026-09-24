@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +11,880
-effects: '**Veeshan''s Restoration**'
+effect_name: Veeshan's Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Veeshan's Restoration II on the group.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Instantly restores 3.25% of incoming damage to the group\n    - Cannot be modified except by direct means"
 item_link: \aITEM -508655982 2100849274:Empowered Bracelet of Veeshan's Power\/a
 aliases:
 - Empowered Bracelet of Veeshan's Power (1 Gem)

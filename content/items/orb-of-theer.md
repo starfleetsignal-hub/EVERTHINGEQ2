@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   abmod: '+217'
-effects: '**Balance**'
+effect_name: Balance
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Balance of Order on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 1,161 - 1,741.\n    - Heals group members (AE) for 580 - 871 every 3 seconds.\n    - Increases Mitigation of group members (AE) vs all damage by 930.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Balance of Chaos on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 divine damage on target.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 154030181 183325421:Orb of Theer\/a
 categories:
 - Ability Modifier (Equipment)

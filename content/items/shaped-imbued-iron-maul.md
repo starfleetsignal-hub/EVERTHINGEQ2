@@ -15,7 +15,8 @@ stats:
   drating: '9.38'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 19 - 29 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1721746764 723538733:shaped imbued iron maul\/a
 categories:
 - Berserker Equipment

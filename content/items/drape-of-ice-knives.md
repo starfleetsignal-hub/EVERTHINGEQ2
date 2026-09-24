@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Icicle Explosion**'
+effect_name: Icicle Explosion
+effects: "- When Equipped:\n  - On any combat or spell hit this spell has a 15% chance to cast Icicle Explosion on target of attack.  Lasts for 6.0 seconds.\n    - On death this spell will cast Icicle Explosion on caster.\n      - Inflicts 1,080 cold damage on targets in Area of Effect.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1560491499 1713236965:Drape of Ice Knives\/a
 categories:
 - Ability Modifier (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Flux**'
+effect_name: Flux
+effects: "- When Equipped:\n  - On any combat or spell hit this spell has a 15% chance to cast Flux Fusion on target of attack.  Lasts for 6.0 seconds.\n    - On death this spell will cast Flux Fusion on caster.\n      - Inflicts 1,787 - 2,185 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -142543708 -1132288615:Vulcin, Staff of Fusion\/a
 categories:
 - Attack Speed (Equipment)

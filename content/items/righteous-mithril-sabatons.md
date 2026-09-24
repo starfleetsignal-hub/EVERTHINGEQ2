@@ -17,7 +17,8 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -1633376224 -1696446190:Righteous Mithril Sabatons\/a
 categories:

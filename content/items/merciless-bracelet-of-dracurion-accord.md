@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,776
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Discombobulate IV on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,884 - 5,399\n    - Inflicts 2,561 - 2,831 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Discombobulate IV on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,884 - 5,399\n    - Inflicts 2,561 - 2,831 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2072030186 -666143907:Merciless Bracelet of Dracurion Accord\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   abmod: '+211'
   dps: '18.3'
   vselemental: +8,019
-effects: '**Egothief**'
+effect_name: Egothief
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Egothief III on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 5,930 - 6,555 poison damage on target\n    - Heals caster for 2,965 - 3,277\n    - Decreases Slashing, Crushing, Piercing and Ranged of target by 25.0.\n    - Decreases Mitigation of target vs physical damage by 545.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 889124337 973920407:Bracelet of Thulian Rain\/a
 categories:
 - Ability Modifier (Equipment)

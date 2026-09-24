@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   dps: '10'
   vsnoxious: +1,240
-effects: '**Soul Reap**'
+effect_name: Soul Reap
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM 443034214 -1826032379:Soul Reaper's Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

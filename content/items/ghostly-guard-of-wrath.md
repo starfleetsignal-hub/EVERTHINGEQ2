@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   multi: '6.3'
   dtype: Symbols
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 25.0%."
 item_link: \aITEM 2102390603 -1195617077:Ghostly Guard of Wrath\/a
 categories:
 - Assassin Equipment

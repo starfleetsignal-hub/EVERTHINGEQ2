@@ -18,7 +18,8 @@ stats:
   dps: '27.9'
   multi: '18.1'
   dtype: Chain Armor
-effects: '**Lucid Haste**<br>**Crushing Grip**'
+effect_name: Lucid Haste, Crushing Grip
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Crushing Grip on caster.  Lasts for 5.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 92) from [[Draconic Knowledge: Scaled Dragonhide Gloves]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Wyvern Stinger]]'
 item_link: \aITEM -589720418 1206625951:Scaled Dragonhide Gloves\/a
 categories:

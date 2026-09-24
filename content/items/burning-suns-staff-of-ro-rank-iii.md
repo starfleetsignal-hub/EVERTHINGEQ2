@@ -24,7 +24,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Burning Prince**'
+effect_name: Blessing of the Burning Prince
+effects: "- When Equipped:\n  - \"Blessing of the Burning Prince\" protects the wearer from strong deific magics used by Solusek Ro!"
 item_link: \aITEM -211097062 -1855453494:Burning Sun's Staff of Ro [Rank III]\/a
 categories:
 - Ability Modifier (Equipment)

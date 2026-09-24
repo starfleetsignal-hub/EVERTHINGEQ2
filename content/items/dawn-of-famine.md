@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +16,380
-effects: '**Starving Souleater**'
+effect_name: Starving Souleater
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus based on the number of increments of Starving Souleater. 0: -15 Crit Bonus. 1: -10 Crit Bonus. 2: -5 Crit Bonus. 3: 0 Crit Bonus. 4: 30 Crit Bonus. 5: 50 Crit Bonus\n  - On a death blow this spell will cast Starving Souleater II on caster.  Lasts for 2 minutes.  This effect normalizes based off of a three second triggering event.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1245415570 -683323830:Dawn of Famine\/a
 categories:
 - Ability Modifier (Equipment)

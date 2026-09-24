@@ -19,7 +19,8 @@ stats:
   drating: '59.02'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 176 - 328 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -551514102 717467959:imbued ironwood bo staff\/a
 aliases:
 - Imbued ironwood bo staff (Palely Gleaming Strike) (Level 50)

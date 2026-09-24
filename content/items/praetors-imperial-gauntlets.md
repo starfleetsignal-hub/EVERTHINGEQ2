@@ -16,7 +16,8 @@ stats:
   multi: '39.2'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1821477896 -1650177371:Praetor's Imperial Gauntlets\/a
 categories:
 - Berserker Equipment

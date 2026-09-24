@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Beloved Hearts**<br>**Featherfall**'
+effect_name: Beloved Hearts, Featherfall
+effects: "- Applies Beloved Hearts when Activated.\n  - Summons a pet heart\n  - The casting time of Beloved Hearts is 1.0 second and the reuse time of the spell is 2.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM -325903845 1454564393:Cloak of the Beloved\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   aspeed: '70.1'
   dps: '53.3'
   multi: '77.2'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 10.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1078309651 -443470311:Decaying Strand of Revulsion\/a
 categories:
 - Assassin Equipment

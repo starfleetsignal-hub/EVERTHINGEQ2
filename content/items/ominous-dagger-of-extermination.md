@@ -19,7 +19,8 @@ stats:
   drating: '50.26'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mindsieve**'
+effect_name: Mindsieve
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Mindsieve V on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 353 - 391 mental damage on target.\n    - Increases power of caster by 31.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Mindsieve V on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 353 - 391 mental damage on target.\n    - Increases power of caster by 31.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 50) from [[Ancient Knowledge: Ominous Dagger of Extermination]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 269600203 2054861663:Ominous Dagger of Extermination\/a
 categories:

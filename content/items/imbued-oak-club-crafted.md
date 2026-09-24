@@ -15,7 +15,8 @@ stats:
   drating: '24.95'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,268\n      - Must be flanking or behind\n    - Increases Threat to target by 1,933\n      - Must be in front of\n    - Inflicts 92 - 171 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 30) from [[Advanced Woodworker Volume 30 (Normal)]] *Crafted by [[Woodworker]] (level 30) from [[Advanced Woodworker Volume 30 (No-Trade)]]'
 item_link: \aITEM -781594264 1101849991:Imbued Oak Club\/a
 categories:

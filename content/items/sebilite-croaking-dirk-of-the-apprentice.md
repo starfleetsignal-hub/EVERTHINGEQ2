@@ -19,7 +19,8 @@ stats:
   drating: '97.92'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Sinister Toxins**'
+effect_name: Sinister Toxins
+effects: "- When Equipped:\n  - Increases damage of all crafted poisons by 10 percent."
 item_link: \aITEM 1600596077 555371036:Sebilite Croaking Dirk of the Apprentice\/a
 categories:
 - Assassin Equipment

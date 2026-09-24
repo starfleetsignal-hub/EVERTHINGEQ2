@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: '+702'
   dps: '25.8'
-effects: '**Divine Breath**'
+effect_name: Divine Breath
+effects: "- Applies Divine Breath when Activated.  Lasts for 10.0 seconds.\n  - Dispels 115 levels of any hostile effects on group members (AE)\n  - This effect can be used while stifled, stunned or feared.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Breath is 1 minute"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -114004343 -1817623622:Tranquil Umbrite Orb\/a
 categories:

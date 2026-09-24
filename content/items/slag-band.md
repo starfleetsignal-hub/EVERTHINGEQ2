@@ -15,7 +15,8 @@ stats:
   resolve: '2'
   aspeed: '35.2'
   vselemental: +28,613
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 10.  This effect increases to 22 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 970793904 -449468824:Slag Band\/a
 image: images/Slag_Band.png
 categories:

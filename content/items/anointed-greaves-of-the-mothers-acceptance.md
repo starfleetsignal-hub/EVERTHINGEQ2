@@ -16,7 +16,9 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   dtype: Plate Armor
-effects: '**Spellweave**<br>**Cogent**'
+effect_name: Spellweave, Cogent
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Spellweave IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 6.0%.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 173,688.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Spellweave IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 6.0%.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 173,688.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect\
+  \ will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 736374118 -214523692:Anointed Greaves of the Mother's Acceptance\/a
 categories:
 - Attack Speed (Equipment)

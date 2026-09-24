@@ -14,7 +14,7 @@ stats:
   delay: '2.8'
   drating: '54.3'
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts 239-444 magic damage on target"
 obtained_from: Crafted by [[Tailor]] (level 61) from [[Tailor Essentials Volume 61]]
 categories:
 - Assassin Equipment

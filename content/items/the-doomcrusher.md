@@ -20,7 +20,8 @@ stats:
   drating: '80.44'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Crushing Doom**'
+effect_name: Crushing Doom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Crushing Doom on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 191 - 319 crushing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 728540124 1117790073:The Doomcrusher\/a
 categories:
 - Beastlord Equipment

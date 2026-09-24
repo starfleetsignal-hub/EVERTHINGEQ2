@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dps: '12.4'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Extinguishing the Burning Dead]]'
 item_link: \aITEM 1481255018 -1282983500:Cloak of the Burning Dead\/a
 categories:

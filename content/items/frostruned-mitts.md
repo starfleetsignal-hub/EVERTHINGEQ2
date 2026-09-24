@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   aspeed: '5.6'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -805472479 -814639655:Frostruned Mitts\/a
 categories:
 - Ability Modifier (Equipment)

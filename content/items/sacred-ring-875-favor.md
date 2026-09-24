@@ -10,7 +10,8 @@ flags: ornate no-trade
 description: This piece of jewelry can be sacrificed at the altar of any deity, for 875 favor!
 stats:
   wis: '+75'
-effects: '**Sacrilege**'
+effect_name: Sacrilege
+effects: "- Applies Sacrilege when Equipped.\n  - It's sacrilegious to wear this item. Offer it up at a deity altar!"
 item_link: \aITEM -1917132434 1472730559:Sacred Ring (875 Favor)\/a
 categories:
 - Assassin Equipment

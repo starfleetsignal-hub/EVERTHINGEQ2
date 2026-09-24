@@ -8,7 +8,8 @@ slot: Head
 flags: lore-equip attunable heirloom no-value
 stats:
   dtype: Cloth Armor
-effects: '**Fireworks**'
+effect_name: Fireworks
+effects: "- Applies Fireworks when Activated.  Lasts for 3.0 seconds.\n  - Launches a firework when used.\n  - The casting time of Fireworks is 1.0 second and the reuse time of the spell is 3 minutes"
 obtained_from: From [[Jester's Cap (crate)|Jester's Cap]]
 item_link: \aITEM -917824727 1994819336:Jester's Cap\/a
 categories:

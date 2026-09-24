@@ -13,7 +13,8 @@ stats:
   crit: '5.5'
   critbonus: '4.9'
   potency: '8.4'
-effects: '**Bleeding Anguish**'
+effect_name: Bleeding Anguish
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Bleeding Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals caster for 1,312.\n    - Increases Defense of caster by 50.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Bleeding Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 10.0 times per minute.\n    - Heals caster for 1,312.\n    - Increases Defense of caster by 50.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1137393827 -785817434:Jeweled Beak of Amenophas\/a
 categories:
 - Assassin Equipment

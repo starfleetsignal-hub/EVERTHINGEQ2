@@ -23,7 +23,8 @@ stats:
   drating: '231.75'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Terror Yaulp**'
+effect_name: Terror Yaulp
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Terror Yaulp on target of attack.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Threat to caster by 3,151\n      - Must be flanking or behind\n    - Increases Threat to caster by 3,816\n      - Must be in front of\n    - Increases power of caster by 384.\n    - Increases STR, AGI, INT and WIS of caster by 30.2.\n    - Increases Max Power of caster by 795.7.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 669782097 798155464:Screaming Mace\/a
 categories:
 - Ability Modifier (Equipment)

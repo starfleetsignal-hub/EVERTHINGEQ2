@@ -17,7 +17,8 @@ stats:
   multi: '28.2'
   flurry: '0.8'
   vselemental: +5,273
-effects: '**Blessing of the Prime Healer**'
+effect_name: Blessing of the Prime Healer
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Blessing of the Prime Healer III on caster.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 1.0% of caster's max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 seconds."
 obtained_from: '*From [[A Packet of Heroic Goods (Assassin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Beastlord, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Brigand, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Dirge, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Ranger, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Swashbuckler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Troubador, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -1953129121 -600917511:Daring Ring\/a
 categories:

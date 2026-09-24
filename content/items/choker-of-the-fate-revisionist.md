@@ -15,7 +15,8 @@ stats:
   critbonus: '6.8'
   potency: '11.2'
   dps: '29.6'
-effects: '**Gore and Conquest**'
+effect_name: Gore and Conquest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gore and Conquest on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 949 - 1,049 slashing damage on target encounter instantly and every 2 seconds.\n    - Heals group members (AE) for 1,039 - 1,148 instantly and every 2 seconds.\n    - Decreases Potency of target encounter by 8%.\n    - Increases Potency of group members (AE) by 8%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1491026222 817943297:Choker of the Fate Revisionist\/a
 categories:
 - Assassin Equipment

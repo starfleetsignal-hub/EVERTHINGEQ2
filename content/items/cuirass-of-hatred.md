@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   dtype: Plate Armor
-effects: '**Glimmer of Hatred**'
+effect_name: Glimmer of Hatred
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 5.0%.\n  - On a combat hit this spell may cast Crippling Hate on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Mitigation of target vs physical and noxious damage by 700.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1529142301 -162159141:Cuirass of Hatred\/a
 categories:
 - AE Autoattack Chance (Equipment)

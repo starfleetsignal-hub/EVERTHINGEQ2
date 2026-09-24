@@ -21,7 +21,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Shock**'
+effect_name: Shock
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Shock on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 269 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -488033162 1875340988 0 0 0:Shock\/a
 categories:
 - Ability Modifier (Equipment)

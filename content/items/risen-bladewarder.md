@@ -19,7 +19,8 @@ stats:
   drating: '42.79'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Bladeward**'
+effect_name: Bladeward
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bladeward on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of caster vs physical damage by 600.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1700151166 -1498528133:Risen Bladewarder\/a
 categories:
 - Ability Modifier (Equipment)

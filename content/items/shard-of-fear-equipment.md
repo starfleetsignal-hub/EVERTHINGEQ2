@@ -19,7 +19,7 @@ stats:
   charges: Unlimited
   casting: 3.0 seconds
   recast: 30 minutes
-effects: Fright and Dread
+effects: "- Applies ***Fright and Dread*** when Activated. Lasts for 30.0 seconds.\n  - Summons a limited pet aid to the caster\n  - Summons a limited pet aid to the caster"
 item_link: -1685802819 -1583944444:Shard of Fear
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Chain Armor
-effects: '**Fortitude of the Underworld**'
+effect_name: Fortitude of the Underworld
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fortitude of the Underworld on the group.  Lasts for 15.0 seconds.  Triggers about 1.4 times per minute.\n    - Increases Max Health of group members (AE) by 750.0.\n    - Increases Max Power of group members (AE) by 750.0.\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Fortitude of the Underworld on the group.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Max Health of group members (AE) by 750.0.\n    - Increases Max Power of group members (AE) by 750.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1090575765 -416872697:Spiritshackle Leggings\/a
 categories:
 - Ability Modifier (Equipment)

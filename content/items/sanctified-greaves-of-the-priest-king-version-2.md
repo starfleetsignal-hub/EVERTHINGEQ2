@@ -17,7 +17,8 @@ stats:
   abmod: '+98'
   aspeed: '5.5'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM 568305514 1742250987:Sanctified Greaves of the Priest King\/a
 categories:
 - Ability Modifier (Equipment)

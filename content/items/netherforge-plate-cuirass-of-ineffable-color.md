@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   mitinc: '95.5'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1321304617 558866350:Netherforge Plate Cuirass of Ineffable Color\/a
 categories:
 - Berserker Equipment

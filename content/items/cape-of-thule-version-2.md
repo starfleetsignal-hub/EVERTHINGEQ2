@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   abmod: '+54'
-effects: '**Arcane Fear**'
+effect_name: Arcane Fear
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Fear VI on target of spell.  Lasts for 3.0 seconds.  Triggers about 2.2 times per minute.\n    - Makes target afraid\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Strife]]'
 item_link: \aITEM 1552195538 2072778949:Cape of Thule\/a
 categories:

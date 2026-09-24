@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Evasive Twirl**'
+effect_name: Evasive Twirl
+effects: "- When Equipped:\n  - Applies Evasive Twirl III.  Lasts for 10.0 seconds.\n    - Inflicts 211,200 crushing damage on targets in Area of Effect.\n    - Increases Block Chance of caster by 4.5%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1237760194 -298962968:Bracelet of Evasive Anger\/a
 categories:
 - Arcane Resistance (Equipment)

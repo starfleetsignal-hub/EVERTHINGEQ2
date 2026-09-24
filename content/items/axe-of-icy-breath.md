@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Icy Breath**'
+effect_name: Icy Breath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Icy Breath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 152 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -598643725 1671335709:Axe of Icy Breath\/a
 categories:
 - Ability Modifier (Equipment)

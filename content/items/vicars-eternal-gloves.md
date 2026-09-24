@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   dps: '4.3'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM -1157547182 -692252985:Vicar's Eternal Gloves\/a
 categories:
 - Census Credits

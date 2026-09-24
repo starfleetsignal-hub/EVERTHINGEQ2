@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Cloth Armor
-effects: '**Toxic Avenger**<br>**Stone Defense**'
+effect_name: Toxic Avenger, Stone Defense
+effects: "- When Equipped:\n  - Applies Toxic Avenger to qualifying pets.\n    - Wards caster against 485 points of noxious damage\n    - On any combat or spell hit this spell may cast Toxic Revenge on target of attack.  Triggers about 2.0 times per minute.\n      - Inflicts 216 disease damage on target.\n      - Inflicts 216 poison damage on target.\n- When Equipped:\n  - Applies Stone Defense III to qualifying pets.\n    - Increases Max Health of target by 15.0%.\n    - Increases Defense and Parry of target by 25.0."
 item_link: \aITEM -51283849 6156122 0 0 0:Riftcaller's Dark Robe\/a
 categories:
 - Ability Modifier (Equipment)

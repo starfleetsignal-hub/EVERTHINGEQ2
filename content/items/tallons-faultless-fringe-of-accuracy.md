@@ -16,7 +16,8 @@ stats:
   multi: '39.7'
   flurry: '0.6'
   vselemental: +9,356
-effects: '**Evasion of a Dauntless Champion**'
+effect_name: Evasion of a Dauntless Champion
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Evasion of a Dauntless Champion on caster.  Lasts for 10.0 seconds.  Triggers about 1.4 times per minute.\n    - Prevents AOE (except when direct)\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Evasion of a Dauntless Champion on caster.  Lasts for 10.0 seconds.  Triggers about 1.4 times per minute.\n    - Prevents AOE (except when direct)\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases Crit Bonus of caster by 10.0."
 item_link: \aITEM 61213015 884049071:Tallon's Faultless Fringe of Accuracy\/a
 categories:
 - Ability Modifier (Equipment)

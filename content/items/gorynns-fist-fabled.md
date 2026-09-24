@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Strike of Anger**'
+effect_name: Strike of Anger
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Strike of Anger on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 5,585\n    - Inflicts 346 - 518 crushing damage on target.\n    - Increases Crit Chance of caster by 7.0.\n    - Cannot be modified except by direct means\n    - Attacker must be in front of\n  - On a melee hit this spell may cast Strike of Anger on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 410 - 616 crushing damage on target.\n    - Increases Crit Chance of caster by 7.0.\n    - Cannot be modified except by direct means\n    - Attacker must be behind or flanking\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Broken Fist]]'
 item_link: \aITEM -304656655 2064600847:Gorynn's Fist\/a
 categories:

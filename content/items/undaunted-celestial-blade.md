@@ -16,7 +16,8 @@ stats:
   drating: '14.4'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Celestial Glow**'
+effect_name: Celestial Glow
+effects: '- Applies Celestial Glow when Equipped.'
 obtained_from: '[[Blight on the Horizon]]'
 item_link: \aITEM -1568221888 -1151524632:Undaunted Celestial Blade\/a
 categories:

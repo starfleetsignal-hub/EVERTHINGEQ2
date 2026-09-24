@@ -21,7 +21,8 @@ stats:
   drating: '96.97'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Reflexive Regeneration**'
+effect_name: Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 170 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2018901334 1831261260:Anilom's Axe of Undeath\/a
 image: images/Anilom%27s_Axe_of_Undeath.jpg
 categories:

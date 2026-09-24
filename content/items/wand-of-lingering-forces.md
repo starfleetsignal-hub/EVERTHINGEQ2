@@ -25,7 +25,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 2.8%.\n    - Inflicts 1,005 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 44 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Lingering Forces of Ancient Deities]]'
 item_link: \aITEM 2020609637 242093298:Wand of Lingering Forces\/a
 image: images/Wand_of_Lingering_Forces.jpg

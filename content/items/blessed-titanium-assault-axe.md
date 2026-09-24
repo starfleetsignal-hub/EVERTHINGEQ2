@@ -20,7 +20,8 @@ stats:
   drating: '79.51'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Ethereal Blessing**'
+effect_name: Ethereal Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Ethereal Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 125\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 81) from [[Weaponsmith Essentials Volume 81]]
 item_link: \aITEM 100437085 -1255207123:Blessed Titanium Assault Axe\/a
 categories:

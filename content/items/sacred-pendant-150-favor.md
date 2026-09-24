@@ -7,7 +7,8 @@ tier: Treasured
 slot: Neck
 flags: ornate no-trade
 description: This piece of jewelry can be sacrificed at the altar of any deity, for 150 favor!
-effects: '**Sacrilege**'
+effect_name: Sacrilege
+effects: "- Applies Sacrilege when Equipped.\n  - It's sacrilegious to wear this item. Offer it up at a deity altar!"
 item_link: \aITEM -1050029044 -1923746666:Sacred Pendant (150 Favor)\/a
 categories:
 - Assassin Equipment

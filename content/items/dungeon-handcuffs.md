@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Harrowing Tempest**'
+effect_name: Harrowing Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Harrowing Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts between 80,000 and 800,000 points of damage based on the target's current health\n    - Cannot be modified except by direct means"
 item_link: \aITEM 983160079 1380303192:Dungeon Handcuffs\/a
 categories:
 - Arcane Resistance (Equipment)

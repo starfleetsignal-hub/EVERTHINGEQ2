@@ -17,7 +17,8 @@ stats:
   potency: '8.8'
   dps: '22.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Dropped by [[Primus Pilus Gunnr (Epic)|Primus Pilus Gunnr]] in [[Throne of Storms: Hall of Legends]]'
 item_link: \aITEM 794660846 -60735681:Thug's Slaughtering Cuffs\/a
 categories:

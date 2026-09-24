@@ -16,7 +16,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Toxic Wind Glyph**'
+effect_name: Toxic Wind Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1672899936 1488676552:Pritchetts Fork\/a
 categories:
 - Berserker Equipment

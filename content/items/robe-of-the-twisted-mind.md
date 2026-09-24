@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Living Whispers**'
+effect_name: Living Whispers
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Dark Secrets on caster.  Lasts for 30.0 seconds.  Triggers about 0.2 times per minute.\n    - Increases INT of target by 92.2.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1325928105 -681830269:Robe of the Twisted Mind\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   mit: '272'
   potency: '0.2'
   dtype: Plate Armor
-effects: '**Stumble**'
+effect_name: Stumble
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Stumble on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases AGI of target by 21.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 221566222 1539547609:Fossilized Combine Vambraces\/a
 categories:
 - Berserker Equipment

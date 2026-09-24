@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   dps: '17.3'
   multi: '11'
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1687605530 -1627352863:Rhee'Gor's Raging Necklace\/a
 categories:
 - Assassin Equipment

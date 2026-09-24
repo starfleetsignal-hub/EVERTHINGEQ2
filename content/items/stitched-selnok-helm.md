@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   dtype: Cloth Armor
-effects: '**Befuddle**'
+effect_name: Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 800\n    - Cannot be modified except by direct means"
 obtained_from: '[[To the Warlord!]]'
 item_link: \aITEM -1067410700 -23431006:Stitched Sel'Nok Helm\/a
 categories:

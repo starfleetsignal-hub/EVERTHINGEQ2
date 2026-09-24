@@ -17,7 +17,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1702193860 -935485863 0 0 0:Blasted Conduit Gloves\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 113 - 210 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -395091603 1147628808:imbued ebon short spear\/a
 categories:
 - Assassin Equipment

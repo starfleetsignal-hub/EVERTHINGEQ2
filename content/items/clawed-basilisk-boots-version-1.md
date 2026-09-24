@@ -17,7 +17,8 @@ stats:
   aspeed: '3.2'
   multi: '4'
   dtype: Leather Armor
-effects: '**Ethereal Strike**'
+effect_name: Ethereal Strike
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 6% chance to cast Ethereal Strike on target of combat art.\n    - Inflicts 260 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -156908244 -1486579788:Clawed Basilisk Boots\/a
 image: images/Clawed_Basilisk_Boots.jpg
 categories:

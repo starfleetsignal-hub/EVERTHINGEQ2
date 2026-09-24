@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   strike: '17.5'
   multi: '18.1'
-effects: '**Lionheart**'
+effect_name: Lionheart
+effects: "- When Equipped:\n  - Increases Max Health of caster by 3.0%.\n  - Increases healing received by 3.00%."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Woven Drake Tooth Gorget]] *Made from [[A Bloody Prime Drakota Eye]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Drake Fang]]'
 item_link: \aITEM 1868797005 -462983223:Woven Drake Tooth Gorget\/a
 categories:

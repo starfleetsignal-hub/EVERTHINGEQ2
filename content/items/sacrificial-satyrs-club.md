@@ -20,7 +20,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,113 - 4,545 heat damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '[[Pay For Their Crime]]'
 item_link: \aITEM 323927380 -1979678463:Sacrificial Satyr's Club\/a
 image: images/Sacrificial_Satyr's_Club.png

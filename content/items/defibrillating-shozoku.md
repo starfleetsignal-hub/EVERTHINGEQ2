@@ -16,7 +16,8 @@ stats:
   potency: '3.9'
   dps: '11'
   dtype: Leather Armor
-effects: '**Major Arrhythmia**'
+effect_name: Major Arrhythmia
+effects: "- When Equipped:\n  - When a combat art is used this spell will cast Major Arrhythmia on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 151 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 856206917 -68667026:Defibrillating Shozoku\/a
 categories:
 - Block Chance (Equipment)

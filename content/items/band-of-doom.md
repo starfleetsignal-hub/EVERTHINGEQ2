@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   vselemental: '+511'
-effects: '**Ancient Invigoration**'
+effect_name: Ancient Invigoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancient Invigoration on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 1,000 points of all damage\n    - Replenishes 250 points of absorption every 2 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM -1661798303 452331919:Band of Doom\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '1'
   potency: '4.9'
   aspeed: '6.8'
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 328 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -702114372 -1022244093:Brokenskull Mate's Belt\/a
 image: images/Brokenskull_Mate%27s_Belt.jpg
 categories:

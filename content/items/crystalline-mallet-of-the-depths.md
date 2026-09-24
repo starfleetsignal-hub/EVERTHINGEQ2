@@ -22,7 +22,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Terrestrial Smite**'
+effect_name: Terrestrial Smite
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Terrestrial Smite on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 3,972 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1544852125 281074461:Crystalline Mallet of the Depths\/a
 categories:
 - Attack Speed (Equipment)

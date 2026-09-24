@@ -16,7 +16,8 @@ stats:
   potency: '1'
   damage: '21'
   dtype: Cloth Armor
-effects: '**Excavator''s Dedication**'
+effect_name: Excavator's Dedication
+effects: '- Applies Excavator''s Dedication when Equipped.'
 obtained_from: '[[Tinkering with Toggery]]'
 item_link: \aITEM -15401989 -1461683986:Toggery's Tinkered Excavation Cap\/a
 image: images/Toggery's_Tinkered_Excavation_Cap.jpg

@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   dtype: Cloth Armor
-effects: '**Al''kabor''s Arcane Barrier**'
+effect_name: Al'kabor's Arcane Barrier
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Al'kabor's Arcane Barrier on caster.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster against 1,200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1848960950 -230802106:Fur-lined Slippers of Al'Kabor\/a
 categories:
 - Al'kabor's Arcane Barrier (Equipment)

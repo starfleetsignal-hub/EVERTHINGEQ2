@@ -21,7 +21,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Truesilver Befuddlement**'
+effect_name: Truesilver Befuddlement
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Truesilver Befuddlement on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 300\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1030132906 564146868:Truesilver Rapier\/a
 image: images/Truesilver_Rapier.png
 categories:

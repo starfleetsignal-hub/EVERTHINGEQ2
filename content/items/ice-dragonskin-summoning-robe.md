@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Cloth Armor
-effects: '**Enigmatic Wording**'
+effect_name: Enigmatic Wording
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Enigmatic Wording on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 5.0.\n    - Reduces resistibility by 7%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2065464788 -1144889356:Ice Dragonskin Summoning Robe\/a
 categories:
 - Ability Modifier (Equipment)

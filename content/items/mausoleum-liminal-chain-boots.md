@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1776279017 704632818:Mausoleum Liminal Chain Boots\/a
 categories:
 - AE Autoattack Chance (Equipment)

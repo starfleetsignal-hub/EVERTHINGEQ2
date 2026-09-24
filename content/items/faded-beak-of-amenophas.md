@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   dps: '15.9'
-effects: '**Abounding Ward**'
+effect_name: Abounding Ward
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Abounding Ward on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Wards target against 2,450 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1399196094 -1667735105:Faded Beak of Amenophas\/a
 categories:
 - Abounding Ward (Equipment)

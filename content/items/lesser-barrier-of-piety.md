@@ -19,7 +19,8 @@ stats:
   resolve: '43.5'
   dps: '99'
   dtype: Tower Shield
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 4.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -701263958 -693837868:Lesser Barrier of Piety\/a
 categories:
 - Berserker Equipment

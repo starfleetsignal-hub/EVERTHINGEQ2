@@ -15,7 +15,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   dtype: Symbols
-effects: '**Sanction of Protection**'
+effect_name: Sanction of Protection
+effects: "- Applies Sanction of Protection when Activated.  Lasts for 1 minute.\n  - Wards caster against 97 points of physical damage\n  - If Gnomish Spring Boots equipped in Feet\n  - The reuse time of Sanction of Protection is 30 minutes"
 item_link: \aITEM -1444355006 698125787:Tome of Sanctions\/a
 categories:
 - Ability Modifier (Equipment)

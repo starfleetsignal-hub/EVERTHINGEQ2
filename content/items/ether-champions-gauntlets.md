@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1133707335 -1101925653 0 0 0:Ether Champion's Gauntlets\/a
 categories:
 - Census Credits

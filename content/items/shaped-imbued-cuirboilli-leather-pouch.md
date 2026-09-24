@@ -16,7 +16,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 55 - 83 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1558207548 582989140:Shaped Imbued Cuirboilli Leather Pouch\/a
 categories:
 - Assassin Equipment

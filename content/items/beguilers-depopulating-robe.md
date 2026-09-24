@@ -17,7 +17,8 @@ stats:
   critbonus: '5.6'
   potency: '9.2'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Cruor-Forged Robe]]
 item_link: \aITEM -632127329 1549142276:Beguiler's Depopulating Robe\/a
 categories:

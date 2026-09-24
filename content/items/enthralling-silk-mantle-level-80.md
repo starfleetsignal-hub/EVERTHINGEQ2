@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Subjugative Resilience**'
+effect_name: Subjugative Resilience
+effects: "- When Equipped:\n  - Increases the duration of subjugation based spells by 10%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 917657777 691338997 0 0 0:Enthralling Silk Mantle\/a
 categories:

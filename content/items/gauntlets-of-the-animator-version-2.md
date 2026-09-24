@@ -17,7 +17,8 @@ stats:
   dps: '10.5'
   multi: '6.4'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -1682542821 184175974:Gauntlets of the Animator\/a
 categories:
 - Assassin Equipment

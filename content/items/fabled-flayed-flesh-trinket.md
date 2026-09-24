@@ -18,7 +18,8 @@ stats:
   resolve: '110'
   abmod: +48,333
   aspeed: '76.5'
-effects: '**Enlightened Ascension**'
+effect_name: Enlightened Ascension
+effects: "- When Equipped:\n  - Reduces the recast time of all Ascension abilities by 20%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1438351930 205618464:Fabled Flayed Flesh Trinket\/a
 categories:
 - Ability Modifier (Equipment)

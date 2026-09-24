@@ -20,7 +20,8 @@ stats:
   aspeed: '83.8'
   dps: '63.6'
   vselemental: +129,080
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 1,294.9.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1417048570 -989232850:Overlord's Corrupted Soil\/a
 categories:
 - Ability Modifier (Equipment)

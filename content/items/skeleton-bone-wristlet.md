@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   multi: '5.9'
   vselemental: '+338'
-effects: '**Lesser Reflexive Regeneration**'
+effect_name: Lesser Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 105 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: One of the choices for a reward from the quest [[Danger Zone]]
 item_link: \aITEM 1672100007 292797420:Skeleton Bone Wristlet\/a
 categories:

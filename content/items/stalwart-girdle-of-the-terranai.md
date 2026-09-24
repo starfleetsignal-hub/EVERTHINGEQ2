@@ -14,7 +14,8 @@ stats:
   crit: '4.8'
   critbonus: '1.6'
   potency: '7.2'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1134165087 -907839554 0 0 0:Stalwart Girdle of the Terranai\/a
 categories:
 - Berserker Equipment

@@ -16,7 +16,8 @@ stats:
   abmod: '+74'
   vsarcane: '+280'
   dtype: Round Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 130 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -644004901 955619392:Imbued Redwood Round Shield\/a
 categories:
 - Ability Modifier (Equipment)

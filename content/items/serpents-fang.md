@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Crafted of the fangs from serpents' mouths and skin from their backs.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (800 Daybreak Cash)
 item_link: \aITEM 918723892 1115358622:Serpent's Fang\/a
 categories:

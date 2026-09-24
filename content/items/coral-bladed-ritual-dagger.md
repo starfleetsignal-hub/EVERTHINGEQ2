@@ -20,7 +20,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Noumenal Ascendancy**'
+effect_name: Noumenal Ascendancy
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Noumenal Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Noumenal Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2000859592 871884209 0 0 0:Coral-Bladed Ritual Dagger\/a
 categories:
 - Attack Speed (Equipment)

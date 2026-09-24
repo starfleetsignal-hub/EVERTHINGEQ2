@@ -17,7 +17,8 @@ stats:
   aspeed: '37.4'
   dps: '14.3'
   vselemental: +32,207
-effects: '**Power of Malice**'
+effect_name: Power of Malice
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 72. If the wearer is the top of an enemy's hatelist, the value is increased to 96.\n  - Increases the wearer's health by 20,000. If the wearer is the top of an enemy's hatelist, the value is increased to 42,000."
 item_link: \aITEM -36956688 697345307:Powerhungry Stud\/a
 categories:
 - Ability Modifier (Equipment)

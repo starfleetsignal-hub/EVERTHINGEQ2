@@ -15,7 +15,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 53 - 79 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1549268940 294792204:crude imbued feyiron karabela\/a
 categories:
 - Assassin Equipment

@@ -6,7 +6,7 @@ slot: Charm
 flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   charges: '1'
-effects: Ataraxic Shroud
+effects: "- Applies ***Ataraxic Shroud*** when Activated. Lasts for 30.0 seconds.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - Dispelled when target takes damage\n  - This effect cancels during combat\n  - Must be in Deathfist Citadel: Prison Break."
 obtained_from: 'Quest: [[Peaceful Prison Break]]'
 image: images/Ataraxic_shroud.gif
 categories:

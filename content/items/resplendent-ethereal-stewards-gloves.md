@@ -16,7 +16,8 @@ stats:
   abmod: '+172'
   dps: '65.4'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[Drinal's Steward (Faction Merchant)]] (Faction Merchant) in [[Obol Plains]]
 item_link: \aITEM -1173336083 1161081853 0 0 0:Resplendent Ethereal Steward's Gloves\/a
 categories:

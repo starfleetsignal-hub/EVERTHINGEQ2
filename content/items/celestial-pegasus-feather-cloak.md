@@ -16,7 +16,8 @@ stats:
   critbonus: '253.6'
   potency: 3,935.8
   resolve: '70'
-effects: '**Glide**<br>**Featherfall**'
+effect_name: Glide, Featherfall
+effects: "- Applies Glide when Activated.  Lasts for 30.0 seconds.\n  - Allows caster to jump farther\n  - Cannot be modified except by direct means\n  - The casting time of Glide is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 item_link: \aITEM 1738096194 1178025804:Celestial Pegasus Feather Cloak\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   dps: '10.6'
   dtype: Symbols
-effects: '**Font of Loh-Kai**'
+effect_name: Font of Loh-Kai
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 8% chance to cast Font of Loh-Kai on caster.  Lasts for 7.0 seconds.\n    - Font of Loh-Kai will increase the damage of hostile spells by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 799717432 681221079:Tempered Gold Mask\/a
 categories:
 - Assassin Equipment

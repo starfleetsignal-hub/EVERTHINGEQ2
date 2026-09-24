@@ -15,7 +15,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   abmod: '+68'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 1421108475 2037131377:Kindred Cloak of the Warrior\/a
 categories:
 - Ability Modifier (Equipment)

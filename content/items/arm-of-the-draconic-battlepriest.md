@@ -19,7 +19,8 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Glorious Advance**'
+effect_name: Glorious Advance
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Glorious Advance on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,543 - 1,706 divine damage on targets in Area of Effect instantly and every 2 seconds.\n    - Heals group members (AE) for 1,678 - 1,855 instantly and every 2 seconds.\n    - Increases Potency of group members (AE) by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Arm Of The Draconic Battlepriest]] *Made from [[Dragon Hide]] *Made from [[Maligonian Horns]] *Made from [[Skyshrine Golem Core]]'
 item_link: \aITEM 278310624 -1848476945:Arm of the Draconic Battlepriest\/a
 categories:

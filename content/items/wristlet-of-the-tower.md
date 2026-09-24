@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.3'
   vselemental: '+400'
-effects: '**War Face**'
+effect_name: War Face
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast War Face on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' spell or combat arts by 7%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -838807432 -945870986:Wristlet of the Tower\/a
 categories:
 - Arcane Resistance (Equipment)

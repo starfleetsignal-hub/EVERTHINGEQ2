@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 item_link: \aITEM -785056913 -1784659826 0 0 0:Lavaworn Bracers of Chaotic Energy\/a
 categories:
 - Benevolent Alacrity (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   dps: '24'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -283436087 -584837683:Mogul's Imperial Gloves\/a
 categories:
 - Census Credits

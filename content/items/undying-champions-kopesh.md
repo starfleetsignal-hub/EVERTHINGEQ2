@@ -23,7 +23,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.3%.\n    - Inflicts 1,168 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 416003139 1342636334:Undying Champion's Kopesh\/a
 categories:
 - Anguish (Equipment)

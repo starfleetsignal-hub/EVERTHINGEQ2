@@ -18,7 +18,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Cloth Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1834376389 -1122716191:Remnant Guards, Relic of Old Velious\/a
 categories:
 - Casting Speed (Equipment)

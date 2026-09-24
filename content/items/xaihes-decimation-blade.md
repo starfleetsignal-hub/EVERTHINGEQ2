@@ -22,7 +22,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Wrathful Ire**'
+effect_name: Wrathful Ire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wrathful Ire on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to targets in Area of Effect by 5,665\n    - Inflicts 5,296 mental damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Wrathful Ire on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 1,250 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -683976766 2016100713:Xaihes, Decimation Blade\/a
 categories:
 - Ability Modifier (Equipment)

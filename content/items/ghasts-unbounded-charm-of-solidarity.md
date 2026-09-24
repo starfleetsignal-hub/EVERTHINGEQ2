@@ -17,7 +17,8 @@ stats:
   resolve: '670'
   abmod: +5295,157
   cbovercap: '+1392.4'
-effects: '**Ghastly Application**<br>**Ghastly Advantage**'
+effect_name: Ghastly Application, Ghastly Advantage
+effects: "- Applies Ghastly Application when Activated.  Lasts for 25.0 seconds.\n  - Increases Potency of caster by 13,318.0.\n  - Increases fervor if \"Masterful Casting,\" \"Consuming Drive,\" or \"Oblivion's Chance\" are active prior to this effect being applied.\n  - Cannot be modified except by direct means\n  - The casting time of Ghastly Application is 2.10 seconds and the reuse time of the spell is 2 minutes\n- When Equipped:\n  - Decreases Hate Gain by 25, if NOT Fighter.\n  - Increases Crit Bonus of caster by 650.0.\n  - Increases Potency of caster by 10,000.0.\n  - This effect can only take effect within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1776772760 -1738816003:Ghast's Unbounded Charm of Solidarity\/a
 categories:
 - Ability Modifier (Equipment)

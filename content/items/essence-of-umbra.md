@@ -17,7 +17,8 @@ stats:
   abmod: +1,686
   aspeed: '38'
   dps: '14.5'
-effects: '**Growing Power**'
+effect_name: Growing Power
+effects: "- Applies Growing Power when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 178.0.\n  - Increases Potency of caster by an additional 6.6% every 2 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Power is 2 minutes"
 item_link: \aITEM 377553132 -609540457:Essence of Umbra\/a
 categories:
 - Ability Modifier (Equipment)

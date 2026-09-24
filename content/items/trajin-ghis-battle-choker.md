@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   strike: '10.8'
   dps: '16.6'
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1631424651 2085973267:Trajin Ghis' Battle Choker\/a
 categories:
 - Assassin Equipment

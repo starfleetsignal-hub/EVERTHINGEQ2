@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   abmod: '+162'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: '[[Fearstalker Pelts]]'
 item_link: \aITEM -1407433506 27137517:Fearstalker Hide Cloak\/a
 image: images/Fearstalker_Hide_Cloak.png

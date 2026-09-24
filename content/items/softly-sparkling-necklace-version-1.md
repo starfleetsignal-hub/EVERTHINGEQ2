@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   strike: '7.3'
   abmod: '+101'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM -1764328847 1600420637:Softly Sparkling Necklace\/a
 categories:
 - Ability Modifier (Equipment)

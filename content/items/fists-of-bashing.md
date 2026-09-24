@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Impact on target of attack.  Lasts for 0.3 seconds.  Triggers about 1.8 times per minute.\n    - Interrupts target\n    - Throws target back\n    - Inflicts 235 - 391 crushing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1193785421 -1434624061:Fists of Bashing\/a
 aliases:
 - Fists of bashing

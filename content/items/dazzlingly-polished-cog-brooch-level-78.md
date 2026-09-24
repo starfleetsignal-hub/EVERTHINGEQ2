@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   multi: '6.2'
-effects: '**Majesty**'
+effect_name: Majesty
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Majesty on target's attacker.  Lasts for 4.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Stuns target\n    - Only affects targets level 88 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 98.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -868203383 -1038188625:Dazzlingly Polished Cog Brooch\/a
 categories:
 - AE Autoattack Chance (Equipment)

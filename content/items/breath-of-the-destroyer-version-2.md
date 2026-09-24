@@ -16,7 +16,8 @@ stats:
   potency: '2'
   abmod: '+48'
   dtype: Cloth Armor
-effects: '**Thought Hemorrhage**'
+effect_name: Thought Hemorrhage
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Thought Hemorrhage on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 107 - 179.\n    - Inflicts 224 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 998600439 552941786:Breath of the Destroyer\/a
 categories:
 - Ability Modifier (Equipment)

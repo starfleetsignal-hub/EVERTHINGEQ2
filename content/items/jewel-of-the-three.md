@@ -19,7 +19,8 @@ stats:
   resolve: '16'
   aspeed: '40.4'
   flurry: '10.7'
-effects: '**Concentrate**<br>**Trained to Battle**'
+effect_name: Concentrate, Trained to Battle
+effects: "- Applies Concentrate when Activated.  Lasts for 2.0 seconds.\n- When Equipped:\n  - Thermal Depletion will siphon Fervor to the caster.\n  - Etherflash will grant Potency to the caster and the caster's friendly target.\n  - Terrene Destruction will increase the casters Crit Bonus and Crit Bonus Overcap.\n  - Adds a combat mitigation reduction to Toxic Life."
 obtained_from: '[[Curse of the Magic Thief]]'
 item_link: \aITEM -1799473773 -275138028:Jewel of The Three\/a
 categories:

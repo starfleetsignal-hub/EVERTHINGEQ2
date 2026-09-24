@@ -26,7 +26,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Fatal Lifetap on target of spell.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 4,455 poison damage on target.\n    - Heals caster for 2.0 - 3.0% of caster's max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM 2126434815 1229227352:Frenzied Deathbone Bow of Blood\/a
 categories:
 - Ability Modifier (Equipment)

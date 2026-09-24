@@ -16,7 +16,8 @@ stats:
   abmod: '+129'
   vsarcane: '+390'
   dtype: Kite Shield
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 10.0%."
 item_link: \aITEM -613570613 1972701108:Odyssiac Shield\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +11,088
-effects: '**Unfathomable Blight**'
+effect_name: Unfathomable Blight
+effects: "- When Equipped:\n  - Inflicts 315,000 disease damage to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 144906623 -1513142484:Krasnok's Evil\/a
 categories:
 - Arcane Resistance (Equipment)

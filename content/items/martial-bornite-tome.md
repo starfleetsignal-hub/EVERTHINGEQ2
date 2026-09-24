@@ -20,7 +20,8 @@ stats:
   aspeed: '33.7'
   dps: '25.8'
   multi: '18.6'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- When Equipped:\n  - Heals caster for 36,000 health every 3 seconds\n  - Cannot be modified except by direct means\n- Applies Prayer to Tunare when Activated.\n  - Heals the caster for 526,350 health\n  - Suspends the passive effect for 60 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare is 1 minute"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -1934605372 570471328:Martial Bornite Tome\/a
 categories:

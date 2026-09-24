@@ -23,7 +23,8 @@ stats:
   drating: '229.23'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 item_link: \aITEM -809615668 -857570832:Serrated Bone Dirk\/a
 categories:
 - AE Autoattack Chance (Equipment)

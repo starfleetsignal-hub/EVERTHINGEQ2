@@ -19,7 +19,8 @@ stats:
   multi: '102.9'
   vselemental: +170,040
   mitinc: '29.4'
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -708690831 -269028132:Earring of Peculiar Allies\/a
 categories:
 - Arcane Resistance (Equipment)

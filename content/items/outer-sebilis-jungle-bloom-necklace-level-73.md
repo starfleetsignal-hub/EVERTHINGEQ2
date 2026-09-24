@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   aspeed: '5.1'
   multi: '5.9'
-effects: '**Lesser Befuddle**'
+effect_name: Lesser Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 obtained_from: '[[Like a Book without Pages]]'
 item_link: \aITEM -1826016632 -1484584228:Outer Sebilis Jungle Bloom Necklace\/a
 categories:

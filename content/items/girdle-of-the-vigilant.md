@@ -7,7 +7,8 @@ tier: Legendary
 level: '110'
 slot: Waist
 flags: no-trade no-value infusable
-effects: '**Vigilant Harvesting**'
+effect_name: Vigilant Harvesting
+effects: "- Applies Vigilant Harvesting when Equipped.\n  - Increases rare harvest chance by 5.0%."
 obtained_from: '[[Piercing the Darkness: Carving A Legacy]]'
 item_link: \aITEM 1493794344 -65392406:Girdle of the Vigilant\/a
 image: images/Girdle_of_the_Vigilant.png

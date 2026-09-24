@@ -19,7 +19,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -2139869837 1169265209:Immortal Mace of the Lucanic Knight\/a
 categories:
 - Attack Speed (Equipment)

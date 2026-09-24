@@ -16,7 +16,8 @@ stats:
   abmod: '+254'
   dps: '32.1'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -328833875 -1280154669:Subjugator's Immortal Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

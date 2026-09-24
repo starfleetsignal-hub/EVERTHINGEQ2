@@ -16,7 +16,8 @@ stats:
   drating: '55.34'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Lambent Blessing**'
+effect_name: Lambent Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Lambent Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 60\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1016813421 1762634587:Blessed Indium Sledgehammer\/a
 categories:
 - Berserker Equipment

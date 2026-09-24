@@ -11,7 +11,8 @@ stats:
   sta: '+14'
   int: '+14'
   potency: '0.2'
-effects: '**Lesser Runic Barrier**'
+effect_name: Lesser Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 150 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1467225716 -832576888:Curled Sash\/a
 categories:
 - Assassin Equipment

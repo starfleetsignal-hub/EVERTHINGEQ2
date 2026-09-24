@@ -21,7 +21,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Sacred Bolt Glyph**'
+effect_name: Sacred Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 908146160 1128993006:Slayer's Maul of Blight\/a
 categories:
 - Attack Speed (Equipment)

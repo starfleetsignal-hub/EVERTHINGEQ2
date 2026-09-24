@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 146 - 243 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -575707835 2672968:Disease Imbued Teak Wand\/a
 categories:
 - Census Credits

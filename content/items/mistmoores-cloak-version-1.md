@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   aspeed: '4'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 433767656 -277029543:Mistmoore's Cloak\/a
 image: images/Mistmoore's_Cloak.JPG‎
 categories:

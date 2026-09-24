@@ -15,7 +15,8 @@ stats:
   drating: '14.29'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mental Blast**'
+effect_name: Mental Blast
+effects: "- Applies Mental Blast when Activated.\n  - Inflicts 67 - 112 mental damage on target.\n  - The casting time of Mental Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1294782454 -1789598651:Shaped Mental Imbued Ash Wand\/a
 categories:
 - Berserker Equipment

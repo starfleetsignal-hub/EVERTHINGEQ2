@@ -13,7 +13,8 @@ stats:
   sta: '+11'
   mit: '131'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 30) from [[Ancient Knowledge: Glorified Tunic of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1420612703 2096440780:Glorified Tunic of Momentum\/a
 categories:

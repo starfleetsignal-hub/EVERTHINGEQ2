@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Rhythmic Slaughter**'
+effect_name: Rhythmic Slaughter
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rhythmic Slaughter on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 772 - 853 heat damage on target encounter instantly and every 2 seconds.\n    - Decreases Hate Gain of group members (AE) by 5.0.\n      - If not fighter\n    - Increases Strikethrough of group members (AE) by 5.0%.\n    - Increases Accuracy of group members (AE) by 5.0%.\n    - Increases Hate Gain of group members (AE) by 5.0.\n      - If fighter\n    - Increases Haste of group members (AE) by 20.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Edge Of Seething Torrents]] *Made from [[Prime Bone Golem Shards]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Drake Fang]]'
 item_link: \aITEM 968779957 2057601403:Edge of Seething Torrents\/a
 categories:

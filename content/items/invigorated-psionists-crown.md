@@ -18,7 +18,8 @@ stats:
   resolve: '6'
   mitinc: '12.5'
   dtype: Cloth Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -1720288842 1704261727:Invigorated Psionist's Crown\/a
 categories:
 - AE Autoattack Chance (Equipment)

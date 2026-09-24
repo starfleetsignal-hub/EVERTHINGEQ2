@@ -18,7 +18,8 @@ stats:
   aspeed: '6.7'
   multi: '7.4'
   dtype: Chain Armor
-effects: '**Salubrious Aura**'
+effect_name: Salubrious Aura
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Salubrious Aura on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Reflexive Restoration on target.  This effect normalizes based off of a three second triggering event.\n      - Heals caster for 358.\n      - Grants a total of 3 triggers of the spell.\n    - Cannot be modified except by direct means"
 obtained_from: '[[How the Mighty Fall]]'
 item_link: \aITEM 980971361 -1386466734:Ritualistic Chestguard of D'Lere\/a
 categories:

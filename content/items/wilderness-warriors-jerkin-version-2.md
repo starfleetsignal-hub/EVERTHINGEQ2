@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Leather Armor
-effects: '**Savage Healing**'
+effect_name: Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1280988052 -1878301410 0 0 0:Wilderness Warrior's Jerkin\/a
 categories:
 - Assassin Equipment

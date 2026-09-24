@@ -15,7 +15,8 @@ stats:
   potency: '22.3'
   dps: '31.6'
   multi: '33.1'
-effects: '**Blazing Radiance**'
+effect_name: Blazing Radiance
+effects: "- When Equipped:\n  - Increases Potency of caster by 7.5.\n  - Increases Focus, Ordination, Subjugation, Ministration and Disruption of caster by 80.0.\n  - Reduces resistibility of all spells by 10%.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Necklace of Searing Radiance]] *Made from [[Aquatic Singularity]] *Made from [[Shard of Prime Radiance]] *Made from [[Shimmering Orb of Regrowth]]'
 item_link: \aITEM 1415924392 2023363136:Necklace of Searing Radiance\/a
 image: images/Necklace_of_Searing_Radiance.png

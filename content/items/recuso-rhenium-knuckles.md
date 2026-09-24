@@ -25,7 +25,8 @@ stats:
   drating: '428.08'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Rending Torrent**'
+effect_name: Rending Torrent
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 50% chance to cast Rending Torrent on target of spell.  Lasts for 14.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases physical and elemental damage done to target by 2%.\n    - Inflicts 4,063 crushing damage on target.\n    - Inflicts 406 crushing damage on target every 2 seconds.\n    - Inflicts 4,063 cold damage on target.\n    - Inflicts 406 cold damage on target every 2 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 14.0 seconds."
 obtained_from: '[[Shattered Dawn: Battle of the Nexus]]'
 item_link: \aITEM 1792478365 -2114602474:Recuso Rhenium Knuckles\/a
 categories:

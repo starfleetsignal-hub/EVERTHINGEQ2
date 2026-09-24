@@ -18,7 +18,8 @@ stats:
   vselemental: '+615'
   vsnoxious: +1,066
   dtype: Leather Armor
-effects: '**Empowered Arts**'
+effect_name: Empowered Arts
+effects: "- When Equiped:\n  - Increases base Combat Art damage by 5%"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -2121622046 -1619893362:[Combatant's Double Weave Shoulderpads]\/a
 categories:

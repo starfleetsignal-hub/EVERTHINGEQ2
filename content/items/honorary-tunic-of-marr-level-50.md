@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   aspeed: '0.3'
   dtype: Leather Armor
-effects: '**Power of Marr**'
+effect_name: Power of Marr
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 5.0.\n  - This effect suspends during combat"
 obtained_from: '[[A Vicious Twist]]'
 item_link: \aITEM 154290318 -275617572:Honorary Tunic of Marr\/a
 categories:

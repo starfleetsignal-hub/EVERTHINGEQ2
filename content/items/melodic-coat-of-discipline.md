@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 9.0.\n  - Increases Haste of caster by 9.0.\n  - Increases in-combat movement speed of caster by 9.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 90) from [[Ancient Knowledge: Melodic Coat of Discipline]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -1196216386 -1473082922:Melodic Coat of Discipline\/a
 categories:

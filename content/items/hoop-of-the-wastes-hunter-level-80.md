@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   dps: '9.7'
   vselemental: '+360'
-effects: '**Replenishing Heal**'
+effect_name: Replenishing Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Replenishing Heal on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 1.2 times per minute.\n    - Increases power of target by 53 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A More Dangerous Game! Test of Mastery!]]'
 item_link: \aITEM 1336780750 -164268856:Hoop of the Wastes Hunter\/a
 image: images/Hoop_of_the_Wastes_Hunter.jpg

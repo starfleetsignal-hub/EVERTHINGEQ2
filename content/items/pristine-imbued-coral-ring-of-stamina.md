@@ -11,7 +11,7 @@ stats:
   int: '+6'
   health: '+5'
   power: '+5'
-effects: Aura of Stamina
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 3% chance to cast Spark of Stamina on caster. Lasts for 45.0 seconds.\n    - Increases STA of caster by 5.1\n    - Increases In-Combat Health Regeneration Per Tick of caster by 15.6"
 obtained_from: Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16]]
 item_link: \aITEM 1727526432 -1537544891:Pristine Imbued Coral Ring of Stamina\/a
 categories:

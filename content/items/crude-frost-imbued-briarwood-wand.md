@@ -15,7 +15,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- Applies Frost Blast when Activated.\n  - Inflicts 106 - 177 cold damage on target.\n  - The casting time of Frost Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1807228586 -137531844:crude frost imbued briarwood wand\/a
 categories:
 - Berserker Equipment

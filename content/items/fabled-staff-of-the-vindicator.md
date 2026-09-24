@@ -25,7 +25,8 @@ stats:
   drating: '634.37'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Rending**<br>**Attunement to Air**'
+effect_name: Arcane Rending, Attunement to Air
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3.7%.\n    - Inflicts 2,910 magic damage on target instantly and every second.\n    - Inflicts an additional 47 magic damage on target every tick.\n    - Cannot be modified except by direct means\n- Applies Attunement to Air when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Air is 10.0 seconds"
 item_link: \aITEM -2020683466 -1126080596:Fabled Staff of the Vindicator\/a
 categories:
 - Ability Modifier (Equipment)

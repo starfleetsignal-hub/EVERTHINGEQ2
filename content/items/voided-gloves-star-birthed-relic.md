@@ -19,7 +19,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 24.4.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1467965595 1120725176:Voided Gloves, Star Birthed Relic\/a
 categories:
 - Assassin Equipment

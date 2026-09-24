@@ -17,7 +17,8 @@ stats:
   aspeed: '36.7'
   dps: '28.1'
   multi: '20.5'
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: '- When Equipped:'
 obtained_from: 'Collection reward: [[Malduran Forge Ruins (Collection)]]'
 item_link: \aITEM 711814208 42952027:Intrusive Etched Chain\/a
 image: images/Intrusive_Etched_Chain.jpg

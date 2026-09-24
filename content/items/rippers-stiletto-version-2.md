@@ -21,7 +21,8 @@ stats:
   drating: '76.96'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Deathly Lifetap**'
+effect_name: Deathly Lifetap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Deathly Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 483 - 1,003 magic damage on target\n    - Heals caster for 322 - 668\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Miscellania Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1244581519 845028275:Ripper's Stiletto\/a
 categories:

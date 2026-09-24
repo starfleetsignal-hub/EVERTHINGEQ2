@@ -18,7 +18,8 @@ stats:
   potency: 59,124.3
   resolve: '640'
   dtype: Chain Armor
-effects: '**Swarmer''s Energy**'
+effect_name: Swarmer's Energy
+effects: "- When Equipped:\n  - Increases Fervor of caster by 15.5.\n  - Increases Fervor Overcap of caster by 21.3.\n  - Grants an additional 25 in-combat runspeed.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1736303897 -1016018326:Illicus' Void-Borne Chain Greaves\/a
 categories:
 - Assassin Equipment

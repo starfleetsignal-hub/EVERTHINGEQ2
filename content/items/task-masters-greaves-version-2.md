@@ -16,7 +16,8 @@ stats:
   potency: '3.9'
   dps: '11'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 item_link: \aITEM 1015946594 -1721499693:Task Master's Greaves\/a
 categories:
 - Benevolent Alacrity (Equipment)

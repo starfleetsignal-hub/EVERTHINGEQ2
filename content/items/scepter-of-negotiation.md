@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   aspeed: '37.7'
   mitinc: '7.9'
-effects: '**Whispers from Beyond**'
+effect_name: Whispers from Beyond
+effects: "- Applies Whispers from Beyond when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of target by 120.0.\n    - If priest\n  - Increases Crit Bonus of target by 120.0.\n    - If priest\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Whispers from Beyond is 1 minute 20 seconds"
 item_link: \aITEM -536258596 1778777864:Scepter of Negotiation\/a
 categories:
 - Attack Speed (Equipment)

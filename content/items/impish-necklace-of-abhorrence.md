@@ -15,7 +15,8 @@ stats:
   potency: '22.3'
   dps: '31.6'
   multi: '33.1'
-effects: '**Impish Prank**'
+effect_name: Impish Prank
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Impish Prank on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Impish Prank on target.\n      - Heals target for 2,101.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 767536992 -261991174:Impish Necklace of Abhorrence\/a
 categories:
 - Assassin Equipment

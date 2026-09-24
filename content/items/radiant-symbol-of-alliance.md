@@ -18,7 +18,8 @@ stats:
   resolve: '65'
   abmod: +32,213
   dps: '54.3'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.2.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Sold by [[Tumri Ston]] in [[Myrist, the Great Library]]
 item_link: \aITEM -1340386052 1894142144:Radiant Symbol of Alliance\/a
 categories:

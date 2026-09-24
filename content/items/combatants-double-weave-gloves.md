@@ -18,7 +18,8 @@ stats:
   vsarcane: '+615'
   vsnoxious: +1,066
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equiped:\n  - Increases Attack Speed pf caster by 35"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -1586564890 -1717589443:[Combatant's Double Weave Gloves]\/a
 categories:

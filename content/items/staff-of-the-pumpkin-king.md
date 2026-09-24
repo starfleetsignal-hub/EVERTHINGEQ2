@@ -20,7 +20,8 @@ stats:
   drating: '99.68'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Wrath of the Pumpkin King**'
+effect_name: Wrath of the Pumpkin King
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Wrath of the Pumpkin King on target of spell.  Lasts for 8.0 seconds.  Triggers about 1.2 times per minute.\n    - Inflicts 92 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 378 - 462.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1959609956 -613670769:Staff of the Pumpkin King\/a
 categories:
 - Census Credits

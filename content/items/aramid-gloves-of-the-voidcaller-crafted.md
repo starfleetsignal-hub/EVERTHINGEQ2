@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 1617799964 -1201813609 0 0 0:Aramid Gloves of the Voidcaller\/a
 categories:

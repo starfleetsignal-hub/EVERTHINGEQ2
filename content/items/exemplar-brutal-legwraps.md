@@ -20,7 +20,8 @@ stats:
   resolve: '23'
   dps: '207'
   dtype: Leather Armor
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 obtained_from: From [[Satchel of Sorrowsong]]
 item_link: \aITEM 1596901476 454561381:Exemplar Brutal Legwraps\/a
 categories:

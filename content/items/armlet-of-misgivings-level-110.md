@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   vselemental: +76,560
   mitinc: '20.3'
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 7.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -177278970 2106206620:Armlet of Misgivings\/a
 categories:
 - Aegis of Animosity (Equipment)

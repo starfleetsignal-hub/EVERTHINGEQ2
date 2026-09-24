@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+133'
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 131.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1503249802 -898265533:Sash of the Bechoi Stonemason\/a
 categories:
 - Ability Modifier (Equipment)

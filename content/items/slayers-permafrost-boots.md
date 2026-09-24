@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Leather Armor
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Lethargy on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases Haste of target by 11.3 - 18.8.\n    - Only affects targets level 60 and below\n    - Cannot be modified except by direct means"
 item_link: \aITEM -976978053 -868328140:Slayer's Permafrost Boots\/a
 categories:
 - Assassin Equipment

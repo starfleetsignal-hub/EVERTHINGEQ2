@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   abmod: +1,591
   aspeed: '18'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 33.3.\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -235444864 -2111400045:Sovereignty of the Nizari'zhi\/a
 image: images/Sovereignty_of_the_Nizari'zhi.png
 categories:

@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 1234290615 213006165 0 0 0:Riftcaller's Dark Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

@@ -22,7 +22,8 @@ stats:
   drating: '257.65'
   dtype: Main Hand Crushing
   wtype: Mace
-effects: '**Aura of Immolation**'
+effect_name: Aura of Immolation
+effects: "- When Equipped:\n  - On any combat or spell hit, Aura of Immolation has a chance to reset the reuse of most profession Abilities.\n  - When Immolation terminates the caster will be granted 100 fervor."
 item_link: \aITEM -762713801 -1428080163:Ire-Dread, the Undead Devourer\/a
 categories:
 - AE Autoattack Chance (Equipment)

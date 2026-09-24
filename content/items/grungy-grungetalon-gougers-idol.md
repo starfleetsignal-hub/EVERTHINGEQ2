@@ -21,7 +21,8 @@ stats:
   dps: '106.9'
   cbovercap: '+28.6'
   dtype: Symbols
-effects: '**Equalize**'
+effect_name: Equalize
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,636 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 item_link: \aITEM 1415181032 469314237:Grungy Grungetalon Gouger's Idol\/a
 categories:
 - Ability Modifier (Equipment)

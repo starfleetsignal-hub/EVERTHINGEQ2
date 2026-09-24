@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Cloth Armor
-effects: '**Summon Self-Help Book**'
+effect_name: Summon Self-Help Book
+effects: "- Applies Summon Self-Help Book when Equipped.\n  - On a hostile spell hit this spell may cast Summon Self-Help Book on target of spell.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Summons a limited pet to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM 875026691 -578534870:Fidgeting Hands of the Savant\/a
 categories:
 - Attack Speed (Equipment)

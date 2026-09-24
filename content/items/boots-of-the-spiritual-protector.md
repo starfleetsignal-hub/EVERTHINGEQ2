@@ -16,7 +16,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Savage Healing**<br>**Benevolent Alacrity**'
+effect_name: Savage Healing, Benevolent Alacrity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 63717242 -458151837:Boots  of the Spiritual Protector\/a
 categories:

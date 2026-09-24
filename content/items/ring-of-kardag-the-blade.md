@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   vselemental: '+511'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -528762147 -1349301485:Ring of Kardag the Blade\/a
 categories:
 - Arcane Resistance (Equipment)

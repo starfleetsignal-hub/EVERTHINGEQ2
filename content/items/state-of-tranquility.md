@@ -7,7 +7,7 @@ slot: Charm
 flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   charges: '1'
-effects: State of Tranquility
+effects: "- Applies **State of Tranquility** when Activated. Lasts for 30.0 seconds.\n  - Mesmerizes targets in Area of Effect\n  - Dispelled when target takes damage\n  - Must be in Deathfist Citadel: Prison Break.\n  - Epic targets gain an immmunity to Mesmerize effects of 1 minute 30 seconds and duration is reduced to 10.0 seconds\n  - Resistibility increases againts targets higher than level 21."
 obtained_from: 'Quest: [[Peaceful Prison Break]]'
 image: images/State_of_tranquility.gif
 removed_from_game: Part of the [[Return of the Gods Timeline]]

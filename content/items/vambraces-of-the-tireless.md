@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Plate Armor
-effects: '**Lesser Taunting Blow**'
+effect_name: Lesser Taunting Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Taunting Blow on target of attack.  Triggers about 1.4 times per minute.\n    - Increases Threat to target by 787\n    - Cannot be modified except by direct means"
 item_link: \aITEM -861178516 -647123740:Vambraces of the Tireless\/a
 categories:
 - Ability Modifier (Equipment)

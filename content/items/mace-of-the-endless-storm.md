@@ -16,7 +16,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Lightning Bolt Glyph**'
+effect_name: Lightning Bolt Glyph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 218 - 266 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -204011743 580179427:Mace of the Endless Storm\/a
 categories:
 - Beastlord Equipment

@@ -16,7 +16,8 @@ stats:
   aspeed: '29'
   dps: '14.5'
   vselemental: +9,554
-effects: '**Fabled Vengeance**'
+effect_name: Fabled Vengeance
+effects: "- When Equipped:\n  - Increases STA of caster by 25.0.\n  - Increases Max Power of caster by 250.0.\n  - Increases Max Health of caster by 250.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '*Made from [[A fabled platinum key]] *[[Platinum Key of Fabled Rujark]]'
 item_link: \aITEM 49308742 -866564163:Ring of Wise Counsel\/a
 categories:

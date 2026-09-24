@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -1980373905 -1456319296 0 0 0:Coercive Cuffs of Twisted Thoughts\/a
 categories:
 - Ability Modifier (Equipment)

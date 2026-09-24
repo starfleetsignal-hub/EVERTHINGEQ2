@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +33,476
   dps: '51.5'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -787816134 -1074792934:Expert Mote of Putrescence\/a
 categories:
 - Ability Modifier (Equipment)

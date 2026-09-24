@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   aspeed: '0.1'
   dtype: Buckler
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 43 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2113812531 -43636950:crude imbued rosewood buckler\/a
 categories:
 - Assassin Equipment

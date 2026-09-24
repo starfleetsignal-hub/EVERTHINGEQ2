@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +11,880
-effects: '**Arced Conductivity**'
+effect_name: Arced Conductivity
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arced Conductivity on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 400, 000-800, 000 magic damage to the target and the caster will gain 16%-32% potency, based on the number of enemies who hate the wearer that are within 15 meters of the target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1711435435 -879241552:Arcing Ring of Conductivity\/a
 aliases:
 - Arcing Ring of Conductivity (1 Gem)

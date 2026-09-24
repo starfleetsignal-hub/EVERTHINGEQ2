@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   aspeed: '37.4'
   flurry: '19.2'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception II when Equipped.\n  - Increases Fervor of caster by 4.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 250."
 item_link: \aITEM -1054912421 1336286121:Bladedancer Sash\/a
 categories:
 - Assassin Equipment

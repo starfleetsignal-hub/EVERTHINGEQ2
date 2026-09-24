@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 147 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Advanced Armorer Volume 60 (no-value)]] *Crafted by [[Armorer]] (level 60) from [[Advanced Armorer Volume 60 (Uncommon)]]'
 item_link: \aITEM 2073754621 540285917:Imbued Xegonite Melodic Leggings\/a
 categories:

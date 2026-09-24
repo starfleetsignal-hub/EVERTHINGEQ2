@@ -13,7 +13,8 @@ stats:
   drating: '75.25'
   dtype: Dual Wield Piercing
   wtype: Piercing
-effects: '**Pierce of the Hua Mein Adventurer**'
+effect_name: Pierce of the Hua Mein Adventurer
+effects: "- Applies Pierce of the Hua Mein Adventurer when Activated.\n  - Shapechanges the user into a Hua Mein Adventurer.\n  - The casting time of Pierce of the Hua Mein Adventurer is 3.0 seconds and the reuse time of the spell is 10.0 seconds"
 obtained_from: Sold by [[Ra'di]] (Faction Merchant) in [[The Sundered Frontier]]
 item_link: \aITEM -1668984882 -2143925809:Sai of the Hua Mein Adventurer\/a
 categories:

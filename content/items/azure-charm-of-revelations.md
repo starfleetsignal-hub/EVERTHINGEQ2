@@ -14,7 +14,8 @@ stats:
   critbonus: '7.9'
   potency: '7.9'
   aspeed: '66.9'
-effects: '**Soothing Wave**'
+effect_name: Soothing Wave
+effects: "- When Equipped:\n  - Increases STA and WIS of caster by 25.0.\n  - Increases Potency of caster by 2.0.\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of Revelations]] *Made from [[Azure Reactant]]'
 item_link: \aITEM -863697492 -1899391591:Azure Charm of Revelations\/a
 categories:

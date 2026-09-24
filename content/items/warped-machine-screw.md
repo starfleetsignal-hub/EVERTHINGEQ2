@@ -15,7 +15,8 @@ stats:
   abmod: +1,500
   aspeed: '16.7'
   vselemental: +26,832
-effects: '**The Battlemage**'
+effect_name: The Battlemage
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 60.0.\n  - If any of the following are true:\n    - If mage\n    - If priest"
 item_link: \aITEM -183912480 -1782098726:Warped Machine Screw\/a
 categories:
 - Ability Modifier (Equipment)

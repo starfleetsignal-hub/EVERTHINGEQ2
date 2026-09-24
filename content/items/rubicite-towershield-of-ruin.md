@@ -18,7 +18,8 @@ stats:
   resolve: '24'
   aspeed: '101.1'
   dtype: Tower Shield
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,284 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 105) from [[Advanced Weaponsmith Volume 105]]
 item_link: \aITEM -1719653040 -482420094:Rubicite Towershield of Ruin\/a
 categories:

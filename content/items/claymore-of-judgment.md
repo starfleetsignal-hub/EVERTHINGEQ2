@@ -18,7 +18,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Judgment**'
+effect_name: Judgment
+effects: "- When Equipped:\n  - On a hit this spell may cast Judgment on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Interrupts target\n    - Inflicts 204 - 249 divine damage on target.\n    - Increases your Spell Damage by 82.\n    - Increases your Combat Art Damage by 82.\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 804170896 -1024705060:Claymore of Judgment\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '21.3'
   vselemental: +32,207
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM 1468071636 -1747068202:Absorbing Clockwork Brace\/a
 categories:
 - Arcane Resistance (Equipment)

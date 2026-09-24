@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   multi: '36.3'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 891926209 1510381207:Talon Scar Chain Bracers of Ruination\/a
 categories:
 - Assassin Equipment

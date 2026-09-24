@@ -21,7 +21,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Poise in Battle**'
+effect_name: Poise in Battle
+effects: "- Applies Poise in Battle when Activated.  Lasts for 25.0 seconds.\n  - Increases Potency of caster by 25.0.\n  - On a healing spell cast this spell will cast Poise in Battle on target of spell cast.\n    - Dispels 120 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - The reuse time of Poise in Battle is 6 minutes"
 item_link: \aITEM -1432534335 645579344:Hammered Wand of War\/a
 categories:
 - Ability Modifier (Equipment)

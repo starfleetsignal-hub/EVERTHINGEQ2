@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Vigor**'
+effect_name: Vigor
+effects: "- Applies Vigor when Activated.\n  - Increases the casting or upkeep cost of all abilities by 150%.\n  - Increases Potency and Damage Per Second by 0.75% of the caster's primary attribute\n  - Your target cannot have Vigor or Enchanted Vigor already active.\n  - Cannot be modified except by direct means\n  - The casting time of Vigor is 0.5 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM 1969982830 1501948503:Ahrmatal's Scorching Eye\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   dps: '25.5'
-effects: '**Overbearing Storms**'
+effect_name: Overbearing Storms
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Overbearing Storms III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Overbearing Storms III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1060318729 -1192347500:Imported Chain of the Malevolent\/a
 categories:
 - AE Autoattack Chance (Equipment)

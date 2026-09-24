@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   abmod: +1,606
   aspeed: '18.1'
-effects: '**Spectral Annihilation**'
+effect_name: Spectral Annihilation
+effects: "- Applies Spectral Annihilation when Activated.\n  - Inflicts 2,649,200 mental damage on target.\n  - This effect can be cast while casting other abilities\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Spectral Annihilation is 15.0 seconds"
 item_link: \aITEM 715657203 731395783:Remains of the Dark Destroyer\/a
 categories:
 - Ability Modifier (Equipment)

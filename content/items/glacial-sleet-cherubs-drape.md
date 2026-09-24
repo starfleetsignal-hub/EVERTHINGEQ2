@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Massive Concussive Shock**<br>**Arcane Recovery**'
+effect_name: Massive Concussive Shock, Arcane Recovery
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Massive Concussive Shock on target of spell.  Lasts for 7.2 seconds.  Triggers about 2.4 times per minute.\n    - Stuns target encounter\n    - Must not be engaged in pvp combat\n    - Epic targets gain an immunity to Stun effects of 21.6 seconds and duration is reduced to 2.4 seconds.\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -1950366370 -344374835:Glacial Sleet Cherub's Drape\/a
 categories:
 - Ability Modifier (Equipment)

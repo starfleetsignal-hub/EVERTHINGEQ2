@@ -13,7 +13,8 @@ stats:
   sta: '+11'
   mit: '123'
   dtype: Leather Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 30) from [[Ancient Knowledge: Glorified Bracers of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 158434511 -467229204:Glorified Bracers of Momentum\/a
 categories:

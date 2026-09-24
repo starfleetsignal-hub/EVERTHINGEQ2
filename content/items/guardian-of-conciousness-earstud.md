@@ -15,7 +15,7 @@ stats:
   abmod: '+45'
   vselemental: '+560'
   vsarcane: '+240'
-effects: Minion's Resilience II
+effects: "- When Equipped:\n  - Increases pet health by 500 and all resists by 250."
 item_link: '1293400139 -1527505139:'
 categories:
 - Ability Modifier (Equipment)

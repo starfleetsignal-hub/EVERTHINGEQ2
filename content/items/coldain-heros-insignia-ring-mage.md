@@ -16,7 +16,9 @@ stats:
   potency: '9.2'
   abmod: '+306'
   vselemental: '+564'
-effects: '**Favor of Brell**'
+effect_name: Favor of Brell
+effects: "- When Equipped:\n  - On a critical spell hit this spell has a 8% chance to cast Brell's Blessing IX on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 5.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell has a 8% chance to cast Brell's Blessing IX on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 5.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical healing spell cast this spell has a 8% chance to cast Brell's Blessing IX on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 5.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged with a melee weapon this spell will cast Brell's Retribution IX on target's attacker.\n    - Inflicts 67 piercing damage on target.\n    - Must not be engaged in pvp combat\n    -\
+  \ Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Coldain Hero''s Insignia Ring (Quest)|Coldain Hero''s Insignia Ring]]'
 item_link: \aITEM 1698188594 -337327019:Coldain Hero's Insignia Ring\/a
 categories:

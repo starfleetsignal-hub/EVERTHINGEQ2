@@ -10,7 +10,7 @@ stats:
   charges: '1'
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Frog
+effects: "- Applies **Spirit of the Frog** when Activated. Lasts for 30 minutes.\n  - Increases Out-of-Combat Health Regeneration Per Tick of caster by 8.0\n  - This effect suspends during combat\n  - Only affects targets level 1 and above"
 obtained_from: Crafted by [[Artisan]] (level 8) from [[Artisan essentials volume 8]]
 item_link: \aITEM -1281851107 1996719457:Spirit Totem of the Frog\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: 50,991.6
   resolve: '525'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1622306543 261298740:Hoard Found Cuirass of Obliteration\/a
 categories:
 - Berserker Equipment

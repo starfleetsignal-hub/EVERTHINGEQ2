@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   vselemental: '+395'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1902914684 -1032539960 0 0 0:Spellspike Band\/a
 categories:

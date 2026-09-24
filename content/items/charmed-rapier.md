@@ -16,7 +16,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Lightning Bolt Glyph**'
+effect_name: Lightning Bolt Glyph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 218 - 266 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 8058671 -1803001278:Charmed Rapier\/a
 categories:
 - Assassin Equipment

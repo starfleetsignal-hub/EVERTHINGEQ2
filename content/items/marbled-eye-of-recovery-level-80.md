@@ -13,7 +13,8 @@ stats:
   crit: '3'
   critbonus: '1.1'
   potency: '5'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM -1641803092 -1274786931:Marbled Eye of Recovery\/a
 categories:
 - Arcane Recovery (Equipment)

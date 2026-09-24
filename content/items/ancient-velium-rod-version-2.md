@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Velium Shards**'
+effect_name: Velium Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Velium Shards on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 179 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1895468471 -521333051:Ancient Velium Rod\/a
 categories:
 - Ability Modifier (Equipment)

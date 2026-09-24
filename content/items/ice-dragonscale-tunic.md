@@ -17,7 +17,8 @@ stats:
   strike: '12.2'
   abmod: '+217'
   dtype: Chain Armor
-effects: '**Enlightened Efficiency**'
+effect_name: Enlightened Efficiency
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Enlightened Efficiency on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of spells by 15%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -136122182 145998519:Ice Dragonscale Tunic\/a
 categories:
 - Ability Modifier (Equipment)

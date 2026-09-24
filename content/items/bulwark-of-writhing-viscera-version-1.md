@@ -15,7 +15,8 @@ stats:
   potency: '2'
   multi: '4'
   dtype: Tower Shield
-effects: '**Writhing Viscera**'
+effect_name: Writhing Viscera
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Writhing Viscera on target's attacker.  Lasts for 10.0 seconds.\n    - Decreases Haste of target by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 275470337 883740223:Bulwark of Writhing Viscera\/a
 categories:
 - Berserker Equipment

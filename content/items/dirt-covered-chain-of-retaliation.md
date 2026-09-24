@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +19,032
-effects: '**Retaliation**'
+effect_name: Retaliation
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Retaliation III on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 43,472 - 48,048 slashing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1201875451 -1820184503:Dirt Covered Chain of Retaliation\/a
 categories:
 - Arcane Resistance (Equipment)

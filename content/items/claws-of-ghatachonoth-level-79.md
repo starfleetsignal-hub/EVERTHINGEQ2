@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   multi: '5.9'
   dtype: Chain Armor
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 353 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -3206313 1556893072:Claws of Ghatachonoth\/a
 categories:
 - Assassin Equipment

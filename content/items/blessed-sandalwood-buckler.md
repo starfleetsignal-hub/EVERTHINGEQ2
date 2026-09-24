@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dtype: Buckler
-effects: '**Lambent Blessing**'
+effect_name: Lambent Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Lambent Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 60\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 50) from [[Woodworker Essentials Volume 50 (Normal)]] *Crafted by [[Woodworker]] (level 50) from [[Woodworker Essentials Volume 50 (no-trade)]]'
 item_link: \aITEM -417320587 -1375337389:Blessed Sandalwood Buckler\/a
 categories:

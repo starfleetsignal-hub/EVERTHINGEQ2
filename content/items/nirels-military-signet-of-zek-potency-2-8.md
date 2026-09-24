@@ -16,7 +16,8 @@ stats:
   dps: '15.9'
   multi: '10'
   vselemental: +1,256
-effects: '**Enigmatic Wording**'
+effect_name: Enigmatic Wording
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Enigmatic Wording on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces resistibility by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 387060514 266141095:Nirel's Military Signet of Zek\/a
 categories:
 - Arcane Resistance (Equipment)

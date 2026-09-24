@@ -20,7 +20,8 @@ stats:
   drating: '173.24'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Cogent**<br>**Tactical Advance**'
+effect_name: Cogent, Tactical Advance
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Tactical Advance II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Tactical Advance II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1649796491 -2033846918:Arcane Staff of the Theologian\/a
 categories:
 - Attack Speed (Equipment)

@@ -10,7 +10,7 @@ stats:
   charges: '5'
   casting: 2 second
   recast: 60 seconds
-effects: Spirit Totem of the Chokidai
+effects: "- Applies Spirit Totem of the Chokidai when activated. Lasts for 30 minutes.\n  - Shape changed caster into a chokidai\n  - Increases speed of caster by 45%\n  - This effect suspends during combat\n  - Only effects targets level 65 and above"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Woodworker Essentials Volume 70]]
 item_link: \aITEM -1502036144 1093551108:Spirit Totem of the Chokidai\/a
 categories:

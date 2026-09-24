@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   dps: '271.1'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1450158497 -1105233680:Ossuary Nexus Chausses\/a
 categories:
 - Berserker Equipment

@@ -18,7 +18,8 @@ stats:
   resolve: '180'
   aspeed: '87.9'
   dps: '66.7'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,583.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1245664206 -216776663:Luminary's Book of Secrets\/a
 categories:
 - Assassin Equipment

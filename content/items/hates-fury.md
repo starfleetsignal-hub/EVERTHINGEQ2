@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Voracity**'
+effect_name: Voracity
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Voracity on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 288,120 poison damage on target.\n    - Increases Crit Bonus of caster by 34.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 352222497 330084773:Hate's Fury\/a
 categories:
 - AE Autoattack Chance (Equipment)

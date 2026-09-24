@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '*Made from [[Elemental Vanquisher''s Helm Mold]] *Made from [[Elemental Vanquisher''s Helm Pattern]]'
 item_link: \aITEM -2107043473 1740507625 0 0 0:Fireborn Hood of Mindmelting\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Blast of Divine Glyph**'
+effect_name: Blast of Divine Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2134871552 1621743729:Leafblade of Spiritcalling\/a
 categories:
 - Assassin Equipment

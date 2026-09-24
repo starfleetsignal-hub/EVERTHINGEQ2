@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   multi: '8'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -2027715351 1872540586:Atrebite Robes of Power\/a
 categories:
 - Ability Modifier (Equipment)

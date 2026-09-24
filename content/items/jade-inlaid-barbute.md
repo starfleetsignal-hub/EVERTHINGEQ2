@@ -16,7 +16,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   dtype: Plate Armor
-effects: '**Lesser Mana Leak**'
+effect_name: Lesser Mana Leak
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Mana Leak on target of spell cast.  Triggers about 1.6 times per minute.\n    - Increases power of target by 175.\n    - Decreases power of caster by 175.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Overlord Overload]]'
 item_link: \aITEM -2033649466 -1284884709:Jade-inlaid Barbute\/a
 categories:

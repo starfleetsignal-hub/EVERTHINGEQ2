@@ -16,7 +16,8 @@ stats:
   critbonus: '13.1'
   potency: '5'
   dtype: Leather Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -1500860557 1234937439:Wrathcaller Leggings\/a
 categories:
 - Ancient Invigoration of War (Equipment)

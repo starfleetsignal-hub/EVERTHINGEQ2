@@ -15,7 +15,8 @@ stats:
   potency: '27'
   dps: '21.8'
   multi: '31.2'
-effects: '**Salvo**'
+effect_name: Salvo
+effects: "- Applies Salvo IV when Activated.  Lasts for 20.0 seconds.\n  - Increases the wearer's Crit Bonus and Potency by 162 and an additional 4 Crit Bonus and Potency for each other Salvo active in the raid at the same time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Salvo IV is 1 minute"
 item_link: \aITEM 1745747679 2000607169:Reliquary of Sacred Salves\/a
 categories:
 - Assassin Equipment

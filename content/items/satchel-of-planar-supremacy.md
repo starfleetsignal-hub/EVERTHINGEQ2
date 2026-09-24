@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Vindication of Conflict**'
+effect_name: Vindication of Conflict
+effects: "- Applies Vindication of Conflict when Activated.  Lasts for 10.0 seconds.\n  - Dispels 518 levels of hostile Stun, hostile Mesmerize, hostile Root, hostile Fear, hostile Stifle and hostile Daze effects on caster\n  - Makes caster immune to Stun effects\n  - This effect will terminate if the caster engages in PVP combat.\n  - This item may not be used in a PvP zone.\n  - The casting time of Vindication of Conflict is 1.0 second and the reuse time of the spell is 8 minutes 20 seconds"
 item_link: \aITEM 283039709 1117832732:Satchel of Planar Supremacy\/a
 categories:
 - Assassin Equipment

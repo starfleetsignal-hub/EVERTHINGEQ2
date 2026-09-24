@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dtype: Round Shield
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 43 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1153406284 1291038112:crude imbued rosewood roundshield\/a
 categories:
 - Assassin Equipment

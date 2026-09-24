@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 669647784 1045578448:Wristguards of Whispered Echoes\/a
 categories:
 - Ability Modifier (Equipment)

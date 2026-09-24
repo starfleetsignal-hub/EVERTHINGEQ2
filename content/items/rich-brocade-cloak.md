@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   aspeed: '5.1'
   multi: '5.9'
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 167.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Even Sadder Tale of Rhodoqiz Karazz]]'
 item_link: \aITEM 160341497 -310455410:Rich Brocade Cloak\/a
 categories:

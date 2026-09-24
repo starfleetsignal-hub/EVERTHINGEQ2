@@ -17,7 +17,8 @@ stats:
   potency: '5.8'
   aspeed: '7.9'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: Sold by [[Rockshaper Jorgun]] (Faction Merchant) in [[The Hole]]<br>Requires 50,000 faction with Guardians of the Underfoot
 item_link: \aITEM 1359378482 834959655:Gloves of the Underfoot Mage\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   resolve: '2'
   abmod: '+779'
   dps: '27'
-effects: '**Disengage**'
+effect_name: Disengage
+effects: "- Applies Disengage when Activated.  Lasts for 30.0 seconds.\n  - Suspends caster's movement speed enhancements.\n  - Increases stealth or invisible movement speed of caster by 15.0%.\n  - Increases Potency of caster by 300.0.\n  - Grants Stealth and Invisibility to caster\n  - Removes all of your hate from surrounding encounters.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Disengage is 2 minutes"
 item_link: \aITEM -1182773933 -575034885:Dalkuhm's History Lesson\/a
 image: images/Dalkuhm's_History_Lesson.png
 categories:

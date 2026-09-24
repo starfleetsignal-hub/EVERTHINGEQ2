@@ -22,7 +22,8 @@ stats:
   drating: '341.96'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 8,970,000 crushing damage on target\n    - Increases Crit Bonus of caster by 43.1.\n    - Increases Potency of caster by 67.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 265619539 436795428:Captain's Staff of Station\/a
 categories:
 - Ability Modifier (Equipment)

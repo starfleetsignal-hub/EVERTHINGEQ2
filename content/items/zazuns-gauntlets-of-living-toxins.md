@@ -16,7 +16,8 @@ stats:
   multi: '40.4'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Greater Nocturnal Celerity**'
+effect_name: Greater Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM 1228742444 2124117040:Zazun's Gauntlets of Living Toxins\/a
 categories:
 - Berserker Equipment

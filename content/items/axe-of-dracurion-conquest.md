@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Focused Destruction**'
+effect_name: Focused Destruction
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Focused Destruction II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 660.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Focused Destruction II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 660.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Quartermaster Zrek]] SS faction merchant'
 item_link: \aITEM -535469321 -327792224:Axe of Dracurion Conquest\/a
 categories:

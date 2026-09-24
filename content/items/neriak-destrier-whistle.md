@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Neriak Destrier
+effects: "- Applies Call Neriak Destrier when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 130%"
 obtained_from: '[[Collecting the Spirits]]'
 image: images/Neriak_Destrier_whistle_(Visible).png
 categories:

@@ -20,7 +20,8 @@ stats:
   range: Up to 40
   dtype: ranged
   wtype: Bow
-effects: '**Point Blank Shot**<br>**Eagle Strike**<br>**Talon Strike**'
+effect_name: Point Blank Shot, Eagle Strike, Talon Strike
+effects: "- When Equipped:\n  - Increases Melee Multiplier of caster by 0.20.\n- When Equipped:\n  - Improves the combat art damage of the ranger by 10%.\n- When Equipped:\n  - On a ranged hit this spell may cast Talon Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 410 - 616 slashing damage on target.\n    - Gives caster a 60.0% chance to not use ammunition on an attack.\n    - Adds normalized combat art damage based on 20% of your current agility.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Untapped Power!]]'
 item_link: \aITEM -1764628570 690638045:Eagle's Talon\/a
 image: images/Eaglestalon.jpg

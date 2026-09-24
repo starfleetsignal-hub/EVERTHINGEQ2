@@ -19,7 +19,8 @@ stats:
   drating: '69.55'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: No longer obtainable - former [[A Game of Grab Sap]]
 item_link: \aITEM 1998049091 -266044438:Enchanted Sabertooth Talon\/a
 categories:

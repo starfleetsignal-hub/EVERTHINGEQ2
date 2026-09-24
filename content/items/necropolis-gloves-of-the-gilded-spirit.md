@@ -18,7 +18,8 @@ stats:
   resolve: '555'
   aspeed: '37.6'
   dtype: Cloth Armor
-effects: '**Gilded Intensity**'
+effect_name: Gilded Intensity
+effects: "- When Equipped:\n  - Increases Fervor of caster by 22.3.\n  - Increases Fervor Overcap of caster by 44.5.\n  - Must be in a Scars of Destruction raid zone.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1780948986 -1822309288:Necropolis Gloves of the Gilded Spirit\/a
 categories:
 - Attack Speed (Equipment)

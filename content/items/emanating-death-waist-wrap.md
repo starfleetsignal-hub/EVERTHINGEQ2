@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dps: '12.6'
-effects: '**Blurting Obscenities**'
+effect_name: Blurting Obscenities
+effects: "- Applies Blurting Obscenities when Activated.\n  - Increases Threat to targets in Area of Effect by 3,165\n  - Must be engaged in combat\n  - The casting time of Blurting Obscenities is 0.5 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 232181600 842978559:Emanating Death Waist-Wrap\/a
 categories:
 - Ability Modifier (Equipment)

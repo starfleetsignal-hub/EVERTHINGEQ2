@@ -18,7 +18,8 @@ stats:
   vsarcane: '+615'
   vsnoxious: +1,066
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 categories:
 - Ability Modifier (Equipment)

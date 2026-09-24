@@ -13,7 +13,8 @@ stats:
   crit: '1.2'
   critbonus: '0.4'
   potency: '1.8'
-effects: '**Awakened Intellect**'
+effect_name: Awakened Intellect
+effects: "- Applies Awakened Intellect when Equipped.\n  - Increases Crit Chance of caster by 2.0.\n  - Increases Combat Power Regen of caster by 5.0."
 obtained_from: '[[A Mark of Awakening]]'
 item_link: \aITEM -1391477988 1448083965:Mark of the Awakened Intellect\/a
 categories:

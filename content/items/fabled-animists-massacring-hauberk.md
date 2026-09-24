@@ -21,7 +21,8 @@ stats:
   multi: '455.9'
   cbovercap: '+145.8'
   dtype: Chain Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - This effect may only trigger in Kael Drakkel, Temple of Rallos Zek, and Throne of Storms Fabled zones.\n  - On a hostile ability cast this spell has a 10% chance to cast Pestilential Rain on target of spell.\n    - Inflicts 3,327 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 - 12.0 seconds."
 item_link: \aITEM -1073934020 997840582:Fabled Animist's Massacring Hauberk\/a
 categories:
 - Attack Speed (Equipment)

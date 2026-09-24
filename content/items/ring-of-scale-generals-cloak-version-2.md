@@ -13,7 +13,8 @@ stats:
   crit: '3.1'
   critbonus: '1.1'
   potency: '5'
-effects: '**Scaled Protection**'
+effect_name: Scaled Protection
+effects: "- Applies Scaled Protection when Activated.  Lasts for 10.0 seconds.\n  - Reduces all damage done to caster by 10%.\n  - The reuse time of Scaled Protection is 3 minutes"
 item_link: \aITEM -1230006375 -2115853844:Ring of Scale General's Cloak\/a
 categories:
 - AE Autoattack Chance (Equipment)

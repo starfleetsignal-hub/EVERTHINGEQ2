@@ -12,7 +12,8 @@ stats:
   agi: '+4'
   mit: '27'
   dtype: Cloth Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 11 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1577082994 411741780:imbued roughspun blouse\/a
 aliases:
 - Imbued roughspun blouse (Pale Lambent Imbued) (Level 10)

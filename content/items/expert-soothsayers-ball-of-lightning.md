@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   abmod: +31,774
   dps: '49.9'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 28.8.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 24.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1812879053 1215638455:Expert Soothsayer's Ball of Lightning\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   drating: '51.07'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Curse of the Vile**'
+effect_name: Curse of the Vile
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Curse of the Vile on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 181 - 302 poison damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1999323947 -72085542:Dayvedars Dirk of Despondency\/a
 categories:
 - AE Autoattack Chance (Equipment)

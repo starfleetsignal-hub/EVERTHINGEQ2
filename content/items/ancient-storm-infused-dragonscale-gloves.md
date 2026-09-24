@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Chain Armor
-effects: '**Cogent**<br>**Haste**'
+effect_name: Cogent, Haste
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1606801990 1357362427:Ancient Storm Infused Dragonscale Gloves\/a
 categories:
 - Assassin Equipment

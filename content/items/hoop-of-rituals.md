@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   multi: '10.5'
   vsnoxious: +1,302
-effects: '**Rancorous Ire**'
+effect_name: Rancorous Ire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rancorous Ire on target of attack.  Triggers about 2.0 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 532 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM -1589360466 150118759:Hoop of Rituals\/a
 categories:

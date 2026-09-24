@@ -23,7 +23,8 @@ stats:
   drating: '1605.12'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Anguish**<br>**Phantastic Power**<br>**Phanatic**'
+effect_name: Anguish, Phantastic Power, Phanatic
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,300 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Gains power as you complete the \"Colossal Conundrum\", \"Dabbling in the Darkside\", and \"Triumph: Pall of All of Vex Thal\" achievements.\n- Applies Phanatic when Equipped.\n  - Grants protection from powerful shadow magic and allows the target to bypass certain akhessar protection magic."
 obtained_from: 'Crafted by [[Artisan]] (level 120) from [[Recipe: Phantastic Heartpiercer]]'
 item_link: \aITEM -1799264668 173247634:Phantastic Heartpiercer\/a
 categories:

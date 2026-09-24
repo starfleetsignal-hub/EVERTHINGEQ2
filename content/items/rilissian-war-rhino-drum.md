@@ -7,7 +7,7 @@ slot: Charm
 flags: LORE  NO-TRADE
 stats:
   charges: Unlimited
-effects: Call Rilissian War Rhino
+effects: "- Applies Call Rilissian War Rhino when Activated.  Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 50%\n  - Increases Melee Weapon Range of caster by 1.0%"
 obtained_from: Buy from [[Klok Xe'thas]] for 18p
 image: images/Rilissian_War_Rhino_Drum.jpg
 categories:

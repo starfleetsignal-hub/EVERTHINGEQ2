@@ -8,7 +8,8 @@ flags: no-trade no-value
 description: With these on, beauty is truly in the eye of the beholder!
 stats:
   dtype: Cloth Armor
-effects: '**Ale Goggles**'
+effect_name: Ale Goggles
+effects: "- Applies Ale Goggles when Equipped.\n  - Grants Ale Vision to caster"
 used_in_quest: '[[Ale Goggles (Quest)|Ale Goggles]]'
 item_link: \aITEM -385062196 -1035872832:Ale Goggles\/a
 categories:

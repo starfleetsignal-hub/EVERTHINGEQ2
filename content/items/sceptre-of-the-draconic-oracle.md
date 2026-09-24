@@ -19,7 +19,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Arcane Pummeling**'
+effect_name: Arcane Pummeling
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Pummeling on target of attack.  Lasts for 3.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,089 - 1,203 heat damage on targets in Area of Effect instantly and every 0.5 seconds.\n    - Decreases Mitigation of target vs arcane damage by 288.\n    - Decreases Mitigation of target vs elemental damage by 288.\n    - Decreases Mitigation of target vs noxious damage by 288.\n    - Decreases Mitigation of target vs physical damage by 288.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Sceptre Of The Draconic Oracle]] *Made from [[A Bloody Drakota Eye]] *Made from [[Bone Golem Shards]] *Made from [[Wyvern Stinger]]'
 item_link: \aITEM -579710374 -90371082:Sceptre of the Draconic Oracle\/a
 categories:

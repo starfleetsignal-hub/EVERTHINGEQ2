@@ -16,7 +16,8 @@ stats:
   abmod: '+95'
   vselemental: '+356'
   dtype: Buckler
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: '[[Egging Them On]]'
 item_link: \aITEM 1713324682 955419502:Gigantic Turtleshell Buckler\/a
 categories:

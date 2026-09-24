@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Growing Criticals**'
+effect_name: Growing Criticals
+effects: "- Applies Growing Criticals II when Activated.  Lasts for 40.0 seconds.\n  - Increases Crit Bonus of caster by 110.0.\n  - Increases Crit Bonus of caster by an additional 2.5% every 2 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Criticals II is 2 minutes"
 item_link: \aITEM 1378094686 -1309884364:Fabled Mutagenic Ravasect Pincher\/a
 categories:
 - Assassin Equipment

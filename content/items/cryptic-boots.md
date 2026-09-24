@@ -16,7 +16,8 @@ stats:
   potency: '0.7'
   abmod: '+18'
   dtype: Cloth Armor
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM 1023753027 337654927:Cryptic Boots\/a
 categories:
 - Ability Modifier (Equipment)

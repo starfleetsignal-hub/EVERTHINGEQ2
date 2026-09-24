@@ -16,7 +16,8 @@ stats:
   drating: '1.63'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Searing Spiral Glyph**'
+effect_name: Searing Spiral Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 5 - 6 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1714996655 -505226907:Scaled Tribal Spear\/a
 categories:
 - Assassin Equipment

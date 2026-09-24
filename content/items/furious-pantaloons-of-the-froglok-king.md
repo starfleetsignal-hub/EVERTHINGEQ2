@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   multi: '8'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**<br>**Bloodcall**'
+effect_name: Arcane Recovery, Bloodcall
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent.\n- When Equipped:\n  - On a damage spell hit this spell may cast Bloodcall on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 346 - 518 magic damage on target\n    - Heals caster for 346 - 518\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -542437947 1055047118:Furious Pantaloons of the Froglok King\/a
 categories:
 - Ability Modifier (Equipment)

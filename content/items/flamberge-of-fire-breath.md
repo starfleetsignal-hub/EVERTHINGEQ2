@@ -19,7 +19,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Fire Breath**'
+effect_name: Fire Breath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fire Breath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 138 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -963999754 -853934885:Flamberge of Fire Breath\/a
 categories:
 - Berserker Equipment

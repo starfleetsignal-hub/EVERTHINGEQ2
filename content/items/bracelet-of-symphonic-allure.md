@@ -14,7 +14,8 @@ stats:
   dps: '10'
   vselemental: '+630'
   vsarcane: '+420'
-effects: '**Symphonic Allure**'
+effect_name: Symphonic Allure
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Symphonic Allure on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1752 poison damage on target\n    - Heals caster for 1402\n    - When any damage is received this spell has a 10% chance to cast Symphonic Allure on target's attacker.\n      - Heals target for 1292\n        - This effect cannot be critically applied.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -86356272 424279826:Bracelet of Symphonic Allure\/a
 categories:
 - Arcane Resistance (Equipment)

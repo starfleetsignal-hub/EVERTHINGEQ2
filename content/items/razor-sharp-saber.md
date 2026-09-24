@@ -19,7 +19,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Razor Burn**'
+effect_name: Razor Burn
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Razor Burn on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 864 heat damage on target\n    - Heals caster for 605\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1668633775 984575039:Razor Sharp Saber\/a
 categories:
 - Ability Modifier (Equipment)

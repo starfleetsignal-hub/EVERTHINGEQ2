@@ -17,7 +17,8 @@ stats:
   abmod: +3,312
   aspeed: '27.8'
   dtype: Symbols
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 100) from [[Deepforge Woodworking Essentials]]
 item_link: \aITEM -753063786 -778087252:Carved Malduran Idol\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   vselemental: '+664'
   vsnoxious: +1,162
   dtype: Cloth Armor
-effects: '**Quicksilver Blood**<br>**Empowered Magic**'
+effect_name: Quicksilver Blood, Empowered Magic
+effects: "- When Equipped:\n  - Increases pet Spell and Combat Art damage by up to 10, and reduces reuse times by 1%.<br>\n- When Equipped:\n  - Increases base Spell and Combat Art damage of pet by 8%.\n  - Increases base Spell damage of caster by 8%."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -1488577637 -1389132009:[Aramid Mantle of the Voidcaller]\/a
 categories:

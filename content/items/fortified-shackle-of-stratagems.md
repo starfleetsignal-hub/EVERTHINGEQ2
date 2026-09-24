@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   potency: '0.2'
   vsarcane: '+84'
-effects: '**Champion''s Impedence**'
+effect_name: Champion's Impedence
+effects: "- When Equipped:\n  - On a block this spell has a 10% chance to cast Champion's Impedence IV on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 12.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 10% chance to cast Champion's Impedence IV on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 12.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 40) from [[Ancient Knowledge: Fortified Shackle of Stratagems]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 982323178 607352495:Fortified Shackle of Stratagems\/a
 categories:

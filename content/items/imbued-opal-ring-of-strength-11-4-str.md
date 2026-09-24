@@ -11,7 +11,8 @@ stats:
   sta: '+10'
   int: '+10'
   vselemental: '+48'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 10.2.\n    - Increases DPS of caster by 18.9.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2030169728 -1089517844:Imbued Opal Ring of Strength\/a
 categories:
 - Arcane Resistance (Equipment)

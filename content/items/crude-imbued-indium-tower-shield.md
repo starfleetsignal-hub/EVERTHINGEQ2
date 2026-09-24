@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dtype: Tower Shield
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 35 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -572678496 1087526303:Crude Imbued Indium Tower Shield\/a
 categories:
 - Berserker Equipment

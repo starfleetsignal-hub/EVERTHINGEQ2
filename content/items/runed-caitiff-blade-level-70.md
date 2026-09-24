@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 28.0."
 obtained_from: Dropped by [[The Devoted Caitiff]] in [[Castle Mistmoore]]
 item_link: \aITEM 290278665 520019515:Runed Caitiff Blade\/a
 categories:

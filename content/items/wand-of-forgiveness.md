@@ -12,7 +12,7 @@ stats:
   charges: 1/1
   casting: 4.28 seconds
   recast: 1.9 seconds
-effects: Forgiveness
+effects: "- Applies Forgiveness when Activated. Lasts for 1.0 second.\n  - Removes experience debt when used."
 item_link: \aITEM -30646346 -770247723:[Wand of Forgiveness]\/a
 categories:
 - Assassin Equipment

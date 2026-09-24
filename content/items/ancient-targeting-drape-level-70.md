@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dps: '9.2'
-effects: '**Precise Strikes**'
+effect_name: Precise Strikes
+effects: "- Applies Precise Strikes when Activated.  Lasts for 16.0 seconds.\n  - Increases DPS of caster by 20.0.\n  - The casting time of Precise Strikes is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -381695834 -122234821:Ancient Targeting Drape\/a
 aliases:
 - Ancient Targetting Drape (Level 70)

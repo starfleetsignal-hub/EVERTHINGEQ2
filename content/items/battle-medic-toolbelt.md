@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   sta: '+64'
   wis: '+64'
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 746254481 -1888915798:Battle Medic Toolbelt\/a
 categories:
 - Casting Speed (Equipment)

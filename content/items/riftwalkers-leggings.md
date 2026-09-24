@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Leather Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM 1418085698 -2076266975 0 0 0:Riftwalker's Leggings\/a
 categories:
 - Census Credits

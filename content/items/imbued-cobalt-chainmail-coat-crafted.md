@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.5'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 54 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 53) from [[Advanced Armorer Volume 53 (Heirloom)]] *Crafted by [[Armorer]] (level 53) from [[Advanced Armorer Volume 53 (Normal)]] *From [[Chainmail Armor Pack (Level 52 Mastercrafted) (Version 1)|Chainmail Armor Pack (Level 52 Mastercrafted)]] *From [[Chainmail Armor Pack (Level 52 Mastercrafted) (Version 2)|Chainmail Armor Pack (Level 52 Mastercrafted)]]'
 item_link: \aITEM -1170207056 1100964699:Imbued Cobalt Chainmail Coat\/a
 categories:

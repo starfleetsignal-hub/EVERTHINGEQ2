@@ -15,7 +15,8 @@ stats:
   potency: '34.6'
   resolve: '4'
   dps: '28.1'
-effects: '**Last Stand**'
+effect_name: Last Stand
+effects: "- Applies Last Stand when Activated.  Lasts for 5.0 seconds.\n  - Reduces all damage done to caster by 85%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Last Stand is 3 minutes"
 item_link: \aITEM 1854353985 1239040543:The Protégé's Headstone\/a
 categories:
 - Assassin Equipment

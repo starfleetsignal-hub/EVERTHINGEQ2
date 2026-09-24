@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 item_link: \aITEM 1362257532 1367102734:Claw of the Silver Guardian\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   flurry: '1.6'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 1363909831 204547029:Cuffs of Dissidence\/a
 categories:
 - Assassin Equipment

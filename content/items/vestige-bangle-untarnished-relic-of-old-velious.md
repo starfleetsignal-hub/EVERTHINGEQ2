@@ -17,7 +17,8 @@ stats:
   resolve: '505'
   aspeed: '34.4'
   vselemental: +354,380
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 41.4.\n  - Increases Crit Bonus Overcap of caster by 353.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -27365076 -1558097378:Vestige Bangle, Untarnished Relic of Old Velious\/a
 categories:
 - Arcane Resistance (Equipment)

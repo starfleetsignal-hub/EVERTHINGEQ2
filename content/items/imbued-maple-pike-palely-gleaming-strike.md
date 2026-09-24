@@ -16,7 +16,8 @@ stats:
   drating: '9.38'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 19 - 35 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -343426201 -1350573637:imbued maple pike\/a
 categories:
 - Berserker Equipment

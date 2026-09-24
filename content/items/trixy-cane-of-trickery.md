@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Symbols
-effects: '**Bristlebane''s Shenanigans**'
+effect_name: Bristlebane's Shenanigans
+effects: "- When Equipped:\n  - Chicanery: Reduces hate gain of caster by 50%.\n  - Razzle-Dazzle: Restores power to the caster's group.\n  - Hocus-Pocus Focus: Reduces cast time of spells by 33% and power cost by 50%.\n  - On a spell cast this spell may cast Bristlebane's Shenanigans on caster.  Triggers about 3.0 times per minute.\n    - This effect may trigger Chicanery, Razzle-Dazzle, or Hocus-Pocus Focus on the spell caster."
 item_link: \aITEM 1643590278 -46320571:Trixy Cane of Trickery\/a
 categories:
 - Ability Modifier (Equipment)

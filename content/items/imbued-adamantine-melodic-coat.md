@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 50 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Armorer Essentials Volume 60 (Normal)]] *Crafted by [[Armorer]] (level 60) from [[Armorer Essentials Volume 60 (no-trade)]]'
 item_link: \aITEM 600669857 630652535:Imbued Adamantine Melodic Coat\/a
 categories:

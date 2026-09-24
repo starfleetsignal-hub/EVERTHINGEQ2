@@ -18,7 +18,8 @@ stats:
   resolve: '230'
   aspeed: '16.4'
   flurry: '14.8'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.7.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1391447549 -134469467:Wretched Francine's Soothing Gruel\/a
 categories:
 - Assassin Equipment

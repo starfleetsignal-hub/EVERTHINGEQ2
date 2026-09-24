@@ -16,7 +16,7 @@ stats:
   drating: '8.6'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.6 times per minute.\n    - Decreases Threat to target by 135\n      - Must be flanking or behind\n    - Increases Threat to target by 135\n      - Must be in front of\n    - Inflicts 43 - 79 magic damage on target"
 obtained_from: Crafted by [[Outfitter]] (level 10) from [[Outfitters essentials volume 10]]
 item_link: \aITEM 1459804667 -336537189:imbued iron falchion\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**<br>**Ensorcelled Vulnerability**'
+effect_name: Arcane Recovery, Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent.\n- When Equipped:\n  - Reduces resistibility of all spells by 5%."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 1012684557 742265690:Cuffs of Coercion\/a
 categories:

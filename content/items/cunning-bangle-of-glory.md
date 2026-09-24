@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,736
-effects: '**Shared Glory**'
+effect_name: Shared Glory
+effects: "- When Equipped:\n  - When inflicting more than 2% of the target's maximum health in damage with a single hit, the wearer's group will gain 20% Crit Bonus for 20 seconds"
 item_link: \aITEM 341725306 -1857231331:Cunning Bangle of Glory\/a
 image: images/Cunning_Bangle_of_Glory.png
 categories:

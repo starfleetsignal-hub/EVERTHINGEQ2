@@ -17,7 +17,8 @@ stats:
   aspeed: '7'
   dps: '12.6'
   dtype: Symbols
-effects: '**Arcane Recovery**<br>**Deathly Aura**'
+effect_name: Arcane Recovery, Deathly Aura
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent.\n- When Equipped:\n  - Applies Deathly Aura to qualifying pets.\n    - Increases Crushing, Slashing, Piercing and Disruption of caster by 10.0.\n    - Increases Ability Mod of caster by 125.0.\n    - On any combat or spell hit this spell may cast Death Grip on target of attack.  Triggers about 2.0 times per minute.\n      - Inflicts 540 disease damage on target\n      - Heals caster for 540"
 item_link: \aITEM -1203578680 -728319111:Manual of Malady\/a
 categories:
 - Arcane Recovery (Equipment)

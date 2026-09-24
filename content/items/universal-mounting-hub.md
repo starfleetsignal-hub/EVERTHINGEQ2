@@ -16,7 +16,8 @@ stats:
   aspeed: '33.4'
   dps: '11.5'
   vselemental: +20,072
-effects: '**Power of Malice**'
+effect_name: Power of Malice
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 50. If the wearer is the top of an enemy's hatelist, the value is increased to 80.\n  - Increases the wearer's health by 20,000. If the wearer is the top of an enemy's hatelist, the value is increased to 32,000."
 item_link: \aITEM -1978950057 -1735565969:Universal Mounting Hub\/a
 image: images/Universal_Mounting_Hub.png
 categories:

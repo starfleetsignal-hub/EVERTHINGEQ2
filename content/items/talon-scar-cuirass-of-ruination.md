@@ -17,7 +17,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 288146438 1440971452:Talon Scar Cuirass of Ruination\/a
 categories:
 - Berserker Equipment

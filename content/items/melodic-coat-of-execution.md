@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '60'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 1.0.\n  - Increases Haste of caster by 1.0.\n  - Increases in-combat movement speed of caster by 1.0%."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Melodic Coat of Execution]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1307836776 -1932425357:Melodic Coat of Execution\/a
 categories:

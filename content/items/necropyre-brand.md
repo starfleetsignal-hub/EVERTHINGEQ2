@@ -17,7 +17,8 @@ stats:
   potency: '12.6'
   aspeed: '20.3'
   vselemental: +2,079
-effects: '**Temporal Break**'
+effect_name: Temporal Break
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Temporal Break II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 6.5%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Temporal Break II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 6.5%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1951131020 1041339551:Necropyre Brand\/a
 categories:
 - Arcane Resistance (Equipment)

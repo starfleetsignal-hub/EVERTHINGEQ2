@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Piercing
   wtype: Rapier
-effects: '**Swarthy Ways**<br>**Swarthy Chaos**<br>**Flamboyant Swipe**'
+effect_name: Swarthy Ways, Swarthy Chaos, Flamboyant Swipe
+effects: "- When Equipped:\n  - Improves the combat art damage of the swashbuckler by 10%.\n- When Equipped:\n  - On a melee hit this spell may cast Swarthy Chaos on target of attack.  Lasts for 12.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 432 - 648 piercing damage on target.\n    - Inflicts 151 - 227 piercing damage on target every 3 seconds.\n    - Adds an additional 8% hate transfer to Swarthy Deception IV.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Traumatic Swipe will gain an additional effect that causes the target to reduce their spell damage by 10%."
 obtained_from: '[[The Voice of the Sea]]'
 item_link: \aITEM -1846014448 1858859186:Charm's Way\/a
 categories:

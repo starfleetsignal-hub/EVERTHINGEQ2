@@ -16,7 +16,8 @@ stats:
   abmod: '+227'
   multi: '19.8'
   vselemental: +8,019
-effects: '**Silver Conflagration**'
+effect_name: Silver Conflagration
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Silver Conflagration III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 11,079 - 12,245 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 2,301.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1256190497 -1486355637:Ring of Fixed Focus\/a
 categories:
 - Ability Modifier (Equipment)

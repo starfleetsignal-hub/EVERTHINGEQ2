@@ -15,7 +15,8 @@ stats:
   potency: '24'
   dps: '21.8'
   multi: '31.2'
-effects: '**Hypnotic Tranquility**'
+effect_name: Hypnotic Tranquility
+effects: "- Applies Hypnotic Tranquility when Activated.  Lasts for 30.0 seconds.\n  - Mesmerizes targets in Area of Effect\n  - Dispelled when target takes damage\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Hypnotic Tranquility is 3 minutes"
 obtained_from: '*Marketplace *[[Spoil Spores]]'
 item_link: \aITEM -1251212892 -1352790017:Bronze Icon of the Scale Temple\/a
 image: images/Bronze_Icon_of_the_Scale_Temple.png

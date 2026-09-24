@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+360'
-effects: '**Tranquil Mind**'
+effect_name: Tranquil Mind
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Tranquil Mind on caster.  Lasts for 20.0 seconds.  Triggers about 1.0 times per minute.\n    - Prevents caster and pet from taking damage from AoE spells. Spell will cancel in the event any direct damage is taken."
 item_link: \aITEM 97386857 1029733168:Remnant of the Tintinnabulum\/a
 categories:
 - Ability Modifier (Equipment)

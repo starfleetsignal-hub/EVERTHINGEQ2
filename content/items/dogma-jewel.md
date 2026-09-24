@@ -18,7 +18,8 @@ stats:
   resolve: '17'
   aspeed: '40.8'
   flurry: '24.7'
-effects: '**Awakened Enlightenment**'
+effect_name: Awakened Enlightenment
+effects: "- When Equipped:\n  - Adds a damage shield component to Bulwark of Rime.\n  - Mudslide will inflict damage a second time.\n  - Increases physical damage done to targets effected by Withering.\n  - Reduces the trigger limit on Siphoned Fervor to .5 seconds."
 obtained_from: '[[Awakening Bonds: Forks in the Road]]'
 item_link: \aITEM -1011193848 -1743787138:Dogma Jewel\/a
 categories:

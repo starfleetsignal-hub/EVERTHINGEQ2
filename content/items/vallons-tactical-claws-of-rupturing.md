@@ -22,7 +22,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: '**Cyclonic Form**<br>**Phantasmal Siphon**'
+effect_name: Cyclonic Form, Phantasmal Siphon
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 3.0%.\n  - Increases Multi Attack of caster by 7.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon IV on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,341 - 2,587 poison damage on target\n    - Heals caster for 1,170 - 1,294\n    - Decreases Slashing, Crushing, Piercing and Ranged of target by 22.0.\n    - Decreases Mitigation of target vs physical damage by 517.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 911066614 1192560184:Vallon's Tactical Claws of Rupturing\/a
 categories:
 - Ability Modifier (Equipment)

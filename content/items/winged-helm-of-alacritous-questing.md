@@ -8,7 +8,8 @@ slot: Head
 flags: appearance-only heirloom no-value
 stats:
   dtype: Cloth Armor
-effects: '**Gale of Alacritous Questing**'
+effect_name: Gale of Alacritous Questing
+effects: "- Applies Gale of Alacritous Questing when Equipped.\n  - Increases Ground Mount Speed of wearer by 5%"
 obtained_from: '*Achievement reward: [[Fallen Gate: No Quest for the Weary]] *Achievement reward: [[Kaladim: No Quest for the Weary]] *Achievement reward: [[Nagafen: No Quest for the Weary]] *Achievement reward: [[No Quest for the Weary]]'
 item_link: \aITEM 1596212243 -1717386224:Winged Helm of Alacritous Questing\/a
 categories:

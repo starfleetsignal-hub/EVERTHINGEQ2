@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Sootfoot Spiky Lava Cow
+effects: "- Applies Call Sootfoot Spiky Lava Cow when Activated.\n  - Summons a mount to ride that increases your speed by 45%\n  - Increases Out-of-Combat Power Regeneration Per Tick of caster by 15.0\n  - Increases Out-of-Combat Health Regeneration Per Tick of caster by 15.0\n  - Increases Max Health of caster by 100"
 obtained_from: Sold by [[Kabcar Trapitsa]] (Faction Merchant) in [[Lavastorm]] for 1p 8g
 item_link: \aITEM -1758701349 2061429465:a Sootfoot spiky lava cow drum\/a
 categories:

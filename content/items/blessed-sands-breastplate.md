@@ -16,7 +16,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   dtype: Plate Armor
-effects: '**Protective Sands**'
+effect_name: Protective Sands
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Protective Sands on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of group members (AE) by 300.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -529932953 -1074918219:Blessed Sands Breastplate\/a
 categories:
 - AE Autoattack Chance (Equipment)

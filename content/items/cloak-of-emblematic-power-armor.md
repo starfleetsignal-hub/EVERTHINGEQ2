@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Emblem of Power**<br>**Featherfall**'
+effect_name: Emblem of Power, Featherfall
+effects: "- Applies Emblem of Power when Activated.\n  - Summons an emblem of power to your left hand.\n  - The casting time of Emblem of Power is 1.0 second and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of Emblematic Power (crate)|Cloak of Emblematic Power]]
 item_link: \aITEM 1246278823 1645256847:Cloak of Emblematic Power\/a
 categories:

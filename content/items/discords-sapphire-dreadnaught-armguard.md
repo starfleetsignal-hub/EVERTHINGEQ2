@@ -13,7 +13,8 @@ stats:
   crit: '8'
   abmod: '+82'
   multi: '8'
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1005415345 -52060584:Discord's Sapphire Dreadnaught Armguard\/a
 categories:
 - Ability Modifier (Equipment)

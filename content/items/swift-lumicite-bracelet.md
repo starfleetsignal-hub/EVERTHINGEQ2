@@ -16,7 +16,8 @@ stats:
   abmod: +1,527
   aspeed: '17.2'
   vselemental: +29,243
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1109272890 -867876461:Swift Lumicite Bracelet\/a
 categories:

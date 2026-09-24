@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Bloodfrenzy**'
+effect_name: Bloodfrenzy
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 33% chance to cast Bloodfrenzy on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 2,648 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - On a hostile spell hit this spell has a 33% chance to cast Bloodfrenzy on target of spell.\n    - Inflicts 2,648 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM -1105003967 -1323636294:Kaborite Enriched Bandolier\/a
 categories:

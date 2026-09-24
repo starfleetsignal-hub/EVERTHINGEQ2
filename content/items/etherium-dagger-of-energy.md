@@ -24,7 +24,8 @@ stats:
   drating: '215.66'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.7%.\n    - Inflicts 1,233 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 101) from [[Weaponsmith Essentials Volume 101]]
 item_link: \aITEM -714489927 -305129547:Etherium Dagger of Energy\/a
 categories:

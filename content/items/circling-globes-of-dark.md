@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   dps: '13'
   vsarcane: '+400'
-effects: '**Anger of Mynzak**'
+effect_name: Anger of Mynzak
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Anger of Mynzak on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 432 disease damage on target.\n    - Inflicts 432 poison damage on target.\n    - Increases Crit Chance of caster by 5.0.\n    - Increases Multi Attack of caster by 5.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 956738232 -1458375937:Circling Globes of Dark\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   aspeed: '72.2'
   vselemental: +87,497
   mitinc: '22.7'
-effects: '**Exploit Advantage**'
+effect_name: Exploit Advantage
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 25.0."
 item_link: \aITEM -1517552724 655738225:Planar Shrunken Imp Skulls\/a
 categories:
 - Arcane Resistance (Equipment)

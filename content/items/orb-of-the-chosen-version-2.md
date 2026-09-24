@@ -17,7 +17,8 @@ stats:
   abmod: '+68'
   vsarcane: '+280'
   dtype: Symbols
-effects: '**Mind Shatter**'
+effect_name: Mind Shatter
+effects: "- When Equipped:\n  - Increases mental damage done by spells by up to 50."
 item_link: \aITEM -1874471822 1391279189:Orb of the Chosen\/a
 categories:
 - Ability Modifier (Equipment)

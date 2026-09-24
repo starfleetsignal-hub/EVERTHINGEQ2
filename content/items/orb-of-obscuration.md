@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Symbols
-effects: '**Obscure**'
+effect_name: Obscure
+effects: "- Applies Obscure when Activated.  Lasts for 5 minutes.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - Dispelled when target takes damage\n  - This effect cancels during combat\n  - Only affects targets level 30 and above\n  - The casting time of Obscure is 5.0 seconds and the reuse time of the spell is 25 minutes"
 item_link: \aITEM -54915364 -1897899756:Orb of Obscuration\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '36.3'
   resolve: '5'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 58 and 158 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 14075005 -934162970:Aberrant Scale Cloak\/a
 categories:
 - Ability Doublecast (Equipment)

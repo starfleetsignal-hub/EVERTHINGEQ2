@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: '\aITEM -393198061 -1838928402:Rejuvenating Bracelet: Exchangeable\/a'
 categories:

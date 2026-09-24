@@ -15,7 +15,8 @@ stats:
   dps: '23.1'
   vselemental: +20,072
   mitinc: '6.2'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 5.  This effect increases to 11 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 1493479409 -1568674308:Valdoon's Fang\/a
 categories:
 - Arcane Resistance (Equipment)

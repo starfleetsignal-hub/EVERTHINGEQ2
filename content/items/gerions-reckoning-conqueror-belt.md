@@ -17,7 +17,8 @@ stats:
   critbonus: 1,379
   potency: 51,480
   resolve: '650'
-effects: '**Invader''s Focus**'
+effect_name: Invader's Focus
+effects: "- When Equipped:\n  - Increases Flurry Multiplier of caster by 0.8.\n  - Increases Potency of caster by 17,419.5.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 1)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 2)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 3)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 4)|Gerion''s Reckoning Raid Rares Beta Reward]]'
 item_link: \aITEM -492875625 -245235547:Gerion's Reckoning Conqueror Belt\/a
 categories:

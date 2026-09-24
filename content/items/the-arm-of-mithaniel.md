@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   dtype: Symbols
-effects: '**Claymore Energis**'
+effect_name: Claymore Energis
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Claymore Calm on target of spell.\n    - Decreases threat priority of target by 1 position\n    - Inflicts 176 - 264 heat damage on target.\n    - Cannot be modified except by direct means\n  - On a hostile ability cast this spell has a 50% chance to cast Claymore Energis on caster.  Lasts for 30.0 seconds.\n    - Increases Disruption and Subjugation of caster by 70.8.\n    - Increases Ability Mod of caster by 30.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Final Froglok Word]]'
 item_link: \aITEM -1523722893 1475557075:The Arm of Mithaniel\/a
 categories:

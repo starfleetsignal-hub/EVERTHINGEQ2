@@ -16,7 +16,8 @@ stats:
   aspeed: '10.7'
   dps: '18.1'
   dtype: Buckler
-effects: '**Critical Aegis**'
+effect_name: Critical Aegis
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Critical Aegis on caster.  Lasts for 24.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Max Health of group members by 600.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1848488601 472820396:Leaf-covered Buckler of Rejuvenation\/a
 categories:
 - Attack Speed (Equipment)

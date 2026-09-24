@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   abmod: +32,535
   vselemental: +87,497
-effects: '**Unquenched Power**'
+effect_name: Unquenched Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 550.0."
 item_link: \aITEM -214303259 1308719439:Planar Hoops of Decadence\/a
 categories:
 - Ability Modifier (Equipment)

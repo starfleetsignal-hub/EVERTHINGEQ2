@@ -15,7 +15,7 @@ stats:
   vselemental: '+977'
   vsarcane: '+977'
   vsnoxious: '+977'
-effects: Summon Carpet of the Djinn Master
+effects: "- Applies Summon Carpet of the Djinn Master when Activated..\n  - Wards caster against 157 points of all damage\n  - Summons a mount to ride\n    - Increases your speed by 130%\n  - Reduces maximum falling speed of caster\n  - Cannot be modified except by direct means\n  - The casting time of Summon Carpet of the Djinn Master is 1.0 second"
 item_link: 102932550 1962842243:Djinn Bracelet of the Sky
 image: images/Djinn_Bracelet_of_the_Sky.jpg
 categories:

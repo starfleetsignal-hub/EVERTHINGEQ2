@@ -23,7 +23,8 @@ stats:
   drating: '215.66'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,803 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: Crafted by [[Weaponsmith]] (level 104) from [[Weaponsmith Essentials Volume 104]]
 item_link: \aITEM 1929498234 430457225:Etherium Knuckles of Ruin\/a
 categories:

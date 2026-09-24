@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '115'
   dtype: Leather Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 76 magic damage on target."
 item_link: \aITEM -762826734 -1863819420:Cap of Wonder\/a
 categories:
 - Assassin Equipment

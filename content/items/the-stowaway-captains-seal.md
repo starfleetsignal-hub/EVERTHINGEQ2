@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Shared Aim**'
+effect_name: Shared Aim
+effects: "- When Equipped:\n  - Increases the group's crit bonus by 30%\n  - Cannot be modified except by direct means"
 item_link: \aITEM 666622695 -1803085087:The Stowaway Captain's Seal\/a
 image: images/The_Stowaway_Captain's_Seal.png
 categories:

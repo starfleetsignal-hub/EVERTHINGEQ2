@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   vselemental: '+385'
-effects: '**Lesser Smash**'
+effect_name: Lesser Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 96.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -439643403 504874294:Band of Learning\/a
 categories:
 - Ability Modifier (Equipment)

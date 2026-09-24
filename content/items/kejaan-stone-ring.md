@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Kejaan Aura**'
+effect_name: Kejaan Aura
+effects: "- Applies Kejaan Aura when Equipped.\n  - Increases Max Health of caster by 9.0."
 obtained_from: '[[Conspiracies]]'
 item_link: \aITEM -218568326 -2017373175:Kejaan Stone Ring\/a
 categories:

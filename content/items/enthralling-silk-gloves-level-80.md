@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -241761675 -300833743 0 0 0:Enthralling Silk Gloves\/a
 categories:

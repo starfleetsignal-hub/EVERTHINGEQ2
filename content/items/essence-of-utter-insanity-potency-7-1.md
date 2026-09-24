@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 3.0%."
 item_link: \aITEM 1206987347 -1889507223:Essence of Utter Insanity\/a
 categories:
 - Ability Modifier (Equipment)

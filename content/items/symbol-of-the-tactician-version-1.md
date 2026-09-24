@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   vsarcane: '+280'
   dtype: Symbols
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 7.0."
 item_link: \aITEM -1245673218 2087722955:Symbol of the Tactician\/a
 categories:
 - Arcane Resistance (Equipment)

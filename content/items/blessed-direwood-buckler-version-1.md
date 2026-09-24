@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Buckler
-effects: '**Direwood Thorns**'
+effect_name: Direwood Thorns
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Direwood Thorns on target of spell.  Triggers about 2.4 times per minute.\n    - Inflicts 362 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -545748064 -914206821 0 0 0:Blessed Direwood Buckler\/a
 image: images/Blessed_Direwood_Buckler.jpg
 categories:

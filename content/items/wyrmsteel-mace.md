@@ -16,7 +16,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Wyrmsteel**'
+effect_name: Wyrmsteel
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Wyrmsteel on target of attack.\n    - Inflicts 15 - 18 magic damage on target.\n      - If target is Darathar\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 40) from [[Classified Recipes of the Coalition]] *Crafted by [[Weaponsmith]] (level 40) from [[Secret Recipes of the Ironforge Family]]'
 item_link: \aITEM -1026107552 519198947:Wyrmsteel Mace\/a
 categories:

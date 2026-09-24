@@ -16,7 +16,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mutilation on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Reduces healing received by 15.00%\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second.\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1979644408 -1398862758:Deathbringer's Wand\/a
 categories:
 - Casting Speed (Equipment)

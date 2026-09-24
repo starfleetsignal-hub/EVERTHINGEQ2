@@ -17,7 +17,8 @@ stats:
   potency: '5.4'
   aspeed: '7.4'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[The Three Tidings]]'
 item_link: \aITEM -1634872409 -1587429229:Pantaloons of the Three Tidings\/a
 categories:

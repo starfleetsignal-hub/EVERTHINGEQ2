@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Flames of Rending**'
+effect_name: Flames of Rending
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Flames of Rending on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 heat damage on target.\n    - Increases Strikethrough of caster by 5.0%.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1463150797 -1834951547:Fiery Bow of Underfoot Rending\/a
 categories:
 - Assassin Equipment

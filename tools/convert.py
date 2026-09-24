@@ -507,9 +507,13 @@ class Page:
                 v = self.val(a.get(k))
                 if v and v not in ("-",): stats[k] = v
             put("stats", stats)
-            put("effect_name", self.val(a.get("effectname")))
-            eff = a.get("effects") or a.get("effectlist") or a.get("effectdesc")
-            put("effects", self.body(eff) if eff and eff.strip() else "")
+            # effectlist holds only the effect names; effectdesc holds the full text, so prefer it
+            ek = next((k for k in ("effects", "effectdesc", "effectlist") if (a.get(k) or "").strip()), None)
+            eff = a[ek] if ek else ""
+            names = re.findall(r"\{\{\s*equipment\s*_?effect\s*\|\s*([^|}]+)", a.get("effectlist") or "", re.I) \
+                if ek != "effectlist" else []
+            put("effect_name", self.val(a.get("effectname")) or ", ".join(dict.fromkeys(n.strip() for n in names)))
+            put("effects", self.body(eff) if eff else "")
             put("contains", self.body(a["contains"]) if (a.get("contains") or "").strip() else "")
             put("recipes", self.body(a["recipes"]) if (a.get("recipes") or "").strip() else "")
             put("creates", self.val(a.get("creates")))

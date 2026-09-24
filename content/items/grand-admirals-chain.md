@@ -11,7 +11,8 @@ stats:
   str: '+53'
   sta: '+63'
   multi: '8'
-effects: '**Greater Combat Expertise**'
+effect_name: Greater Combat Expertise
+effects: "- When Equipped:\n  - On a hit this spell may cast Greater Combat Expertise on target of attack.  Lasts for 25.0 seconds.  Triggers about 2.0 times per minute.\n    - Interrupts target\n    - Increases Crit Bonus of caster by 5.0.\n    - Increases Crit Chance of caster by 10.0.\n    - Increases Ability Mod of caster by 200.0.\n    - This effect will not stack with Combat Expertise.\n    - Must be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 60.0 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 418252173 -725825114:Grand Admiral's Chain\/a
 categories:
 - Assassin Equipment

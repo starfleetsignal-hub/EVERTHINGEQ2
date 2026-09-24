@@ -15,7 +15,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   aspeed: '7.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Treasure chests in [[The Sundered Frontier]]
 item_link: \aITEM 938526162 -1774464926:Choker of the Enduring Challenge\/a
 categories:

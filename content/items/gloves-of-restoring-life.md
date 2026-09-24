@@ -16,7 +16,8 @@ stats:
   abmod: '+172'
   dps: '65.4'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Achievement reward: [[Restorer of Life]]'
 item_link: \aITEM 1344457890 1973101766:Gloves of Restoring Life\/a
 categories:

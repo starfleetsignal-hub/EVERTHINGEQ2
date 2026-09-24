@@ -17,7 +17,8 @@ stats:
   resolve: '32'
   flurry: '36.3'
   vselemental: +66,348
-effects: '**Hate''s Heroism**'
+effect_name: Hate's Heroism
+effects: "- When Equipped:\n  - Increases STA of caster by 600.0.\n  - Increases Potency of caster by 25.0.\n  - This effect improves based on the number of unique boss encounters defeated in Shard of Hate [Heroic].\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1786940515 -2055606570:Repulsive Ring\/a
 categories:
 - Arcane Resistance (Equipment)

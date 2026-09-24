@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   aspeed: '7.3'
   multi: '8.1'
-effects: '**Focus: Bria''s Inspiring Ballad**'
+effect_name: 'Focus: Bria''s Inspiring Ballad'
+effects: "- When Equipped:\n  - Increases regeneration amount of Bria's Inspiring Ballad VI."
 obtained_from: '[[Gorililililas!]]'
 item_link: \aITEM 460163999 52521501:Martah's Drums of the Isle\/a
 categories:

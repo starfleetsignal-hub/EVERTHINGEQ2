@@ -17,7 +17,8 @@ stats:
   drating: '1.89'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Fyr''Un Flood**'
+effect_name: Fyr'Un Flood
+effects: "- Applies Fyr'Un Flood when Activated.  Lasts for 1 minute.\n  - Heals group members (AE) for 10.\n  - Heals group members (AE) for 4 every 5 seconds.\n  - Increases Mitigation of group members (AE) vs arcane damage by 8.\n  - The casting time of Fyr'Un Flood is 2.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 285126196 1280790935:The Scepter of Fyr\/a
 categories:
 - Beastlord Equipment

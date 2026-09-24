@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 second
   recast: 0.0 seconds
-effects: Call Steed of the Blazing Sun
+effects: "- Applies Call Steed of the Blazing Sun when Activated.\n  - Increases Potency 2.0%\n  - Summons a mount to ride\n    - Increases your ground speed by 130%"
 obtained_from: Part of the [[Twelve Month Subscription Crate]] /claim item
 item_link: \aITEM -1525971849 327543459:[Steed of the Blazing Sun]\/a
 categories:

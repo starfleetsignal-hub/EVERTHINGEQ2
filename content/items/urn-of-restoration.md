@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Improved Restoration**'
+effect_name: Improved Restoration
+effects: "- Applies Improved Restoration III when Activated.  Lasts for 10.0 seconds.\n  - Increases healing received of the target group member by 75%\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Improved Restoration III is 2 minutes"
 item_link: \aITEM 902276951 -1660804891:Urn of Restoration\/a
 categories:
 - Attack Speed (Equipment)

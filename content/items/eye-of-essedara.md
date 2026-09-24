@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Daring Offensive**'
+effect_name: Daring Offensive
+effects: "- Applies Daring Offensive when Activated.  Lasts for 10.0 seconds.\n  - Increases all damage done to group members (AE) by 25%.\n  - Increases Potency of group members (AE) by 40.0.\n  - This effect stacks from multiple casters.\n  - Cannot be modified except by direct means\n  - The reuse time of Daring Offensive is 1 minute 30 seconds"
 item_link: \aITEM 674456131 -161155432:Eye of Essedara\/a
 categories:
 - Assassin Equipment

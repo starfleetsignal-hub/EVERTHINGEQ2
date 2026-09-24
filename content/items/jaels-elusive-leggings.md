@@ -16,7 +16,8 @@ stats:
   critbonus: '2'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Severe Mistarget**'
+effect_name: Severe Mistarget
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Severe Mistarget on target of attack.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Accuracy of target by 5.0%.\n    - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 2000231052 289999320:Jael's Elusive Leggings\/a
 categories:

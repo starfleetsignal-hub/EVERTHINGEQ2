@@ -16,7 +16,8 @@ stats:
   multi: '89.3'
   flurry: '0.5'
   mitinc: '2.5'
-effects: '**Steadfast Blade**'
+effect_name: Steadfast Blade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Steadfast Blade on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Threat to target encounter by 14,914 - 16,415\n    - Decreases Accuracy of target encounter by 6.0%.\n    - Decreases Strikethrough of target encounter by 6.0%.\n    - 5% of all physical damage received by the caster is prevented.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1021659563 492910873 0 0 0:Transposed Eye of Zek\/a
 categories:
 - Berserker Equipment

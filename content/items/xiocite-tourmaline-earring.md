@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +21,632
-effects: '**Kinetic Conversion**'
+effect_name: Kinetic Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Kinetic Conversion II on target.\n    - Heals group members (AE) for 43,906.\n      - This effect cannot be critically applied.\n    - Increases power of group members (AE) by 348.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 obtained_from: Crafted by [[Jeweler]] (level 97) from [[Advanced Jeweler Volume 97]]
 item_link: \aITEM -742049169 1079647257:Xiocite Tourmaline Earring\/a
 categories:

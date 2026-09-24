@@ -12,7 +12,8 @@ stats:
   agi: '+5'
   mit: '38'
   dtype: Leather Armor
-effects: '**Mental Feedback**'
+effect_name: Mental Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 24 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 486774789 -1522515088:Gloves of the Overseer\/a
 categories:
 - Assassin Equipment

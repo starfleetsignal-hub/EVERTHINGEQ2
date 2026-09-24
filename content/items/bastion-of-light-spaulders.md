@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   mitinc: '5.1'
   dtype: Plate Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -919002802 -988651671 0 0 0:Bastion of Light Spaulders\/a
 categories:
 - Arcane Recovery (Equipment)

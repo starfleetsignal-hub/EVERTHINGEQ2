@@ -12,7 +12,7 @@ stats:
   charges: 1/1
   casting: 4.0 seconds
   recast: 2.0 seconds
-effects: a blessed experience
+effects: "- Applies a blessed experience when Activated. Lasts for forty five minutes.\n  - Increases Tradeskill XP Gain of caster by 77.0%"
 item_link: \aITEM -217650105 -1728707028:[Draught of the Skilled]\/a
 categories:
 - Alchemist Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '27'
   dps: '21.8'
   multi: '31.2'
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- Applies Arcane Focus II when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all arcane abilities.\n  - Removes 200 potency from noxious and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Arcane Focus II is 2 minutes"
 item_link: \aITEM 1594194192 -2081008811:Diabo Seal of Arcane Focus\/a
 categories:
 - Arcane Focus (Equipment)

@@ -18,7 +18,8 @@ stats:
   drating: '42.79'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 160 - 267 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 49144620 7267427:Risen Zig's Bloodletter\/a
 categories:
 - Ability Modifier (Equipment)

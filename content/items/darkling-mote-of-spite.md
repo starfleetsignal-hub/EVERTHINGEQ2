@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   multi: '77.2'
   mitinc: '20.3'
-effects: '**Heightened Hostility**<br>**Hostile Hymn**'
+effect_name: Heightened Hostility, Hostile Hymn
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Heightened Hostility on caster.  Lasts for 30.0 seconds.\n    - Builds charges of Heightened Hostility.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second.\n  - Cannot be modified except by direct means\n- Applies Hostile Hymn when Activated.  Lasts for 15.0 seconds.\n  - Increases Max Health of group members (AE) by 7.0%.\n  - Increases Block Chance of group members (AE) by 12.0%.\n  - Requires 50 stacks of Heightened Hostility to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Hostile Hymn is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 488743963 -2048426250:Darkling Mote of Spite\/a
 categories:
 - Assassin Equipment

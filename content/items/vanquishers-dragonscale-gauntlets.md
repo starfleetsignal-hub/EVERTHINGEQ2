@@ -18,7 +18,8 @@ stats:
   vselemental: +1,269
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: From [[Satchel of Vanquisher's Plate]]
 item_link: \aITEM -676025367 -2012757016:Vanquisher's Dragonscale Gauntlets\/a
 categories:

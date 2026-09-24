@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Steelrain**'
+effect_name: Steelrain
+effects: "- When Equipped:\n  - On a hit this spell may cast Steelrain on target of attack.  Triggers about 1.0 times per minute.\n    - Inflicts 569 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 387161873 827341790:Steelrain\/a
 categories:
 - Assassin Equipment

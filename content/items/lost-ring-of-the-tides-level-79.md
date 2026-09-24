@@ -16,7 +16,8 @@ stats:
   abmod: '+89'
   multi: '5.9'
   vselemental: '+356'
-effects: '**Runic Barrier**'
+effect_name: Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 280 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -79216311 -1132261569:Lost Ring of the Tides\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   aspeed: '33.7'
   dps: '12.9'
   vselemental: +28,613
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 37.5.\n  - Increases Potency of caster by 37.5."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM 912766433 -226342264:Hammered Bornite Bangle\/a
 categories:

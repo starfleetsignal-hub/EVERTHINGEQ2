@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Fae Fall**'
+effect_name: Fae Fall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 item_link: \aITEM -1151938138 -565328264:Fae Wing Cloak\/a
 image: images/Fae_Wing_Cloak.jpg
 categories:

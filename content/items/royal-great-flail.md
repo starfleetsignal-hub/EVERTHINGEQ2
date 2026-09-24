@@ -19,7 +19,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Ancient Glyph of Flame**'
+effect_name: Ancient Glyph of Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Flame on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 166 - 277 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1951869896 -175577439:Royal Great Flail\/a
 categories:
 - Ability Modifier (Equipment)

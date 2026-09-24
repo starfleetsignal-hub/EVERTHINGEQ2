@@ -21,7 +21,8 @@ stats:
   dps: '121.1'
   multi: '68.3'
   dtype: Symbols
-effects: '**Flash of Intuition**'
+effect_name: Flash of Intuition
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Flash of Intuition on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the the damage and healing of your next Spell or Combat Arts by 25.\n    - Dispelled when target casts a hostile spell\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 13.0 - 19.0 seconds."
 item_link: \aITEM -420768272 -1284446921:Fabled Plaguemist Buckler\/a
 categories:
 - Attack Speed (Equipment)

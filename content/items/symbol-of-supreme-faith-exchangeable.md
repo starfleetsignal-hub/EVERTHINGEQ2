@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '12.8'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: '\aITEM -1403070299 -1638913098 0 0 0:Symbol of Supreme Faith: Exchangeable\/a'
 categories:

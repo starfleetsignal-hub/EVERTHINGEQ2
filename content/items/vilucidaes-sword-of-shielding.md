@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Vilucidae''s Shield**'
+effect_name: Vilucidae's Shield
+effects: "- Applies Vilucidae's Shield when Equipped.\n  - On a combat hit this spell may cast Vilucidae's Shield on caster.  Lasts for 1 minute.  Triggers about 1.8 times per minute.\n    - Wards caster against 200 points of arcane damage\n    - Increases Defense of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1200564068 -358456911:Vilucidae's Sword of Shielding\/a
 categories:
 - Assassin Equipment

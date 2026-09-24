@@ -16,7 +16,8 @@ stats:
   abmod: '+843'
   dps: '29'
   vselemental: +35,154
-effects: '**Brotherhood of the Underfoot**'
+effect_name: Brotherhood of the Underfoot
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Brotherhood of the Underfoot on target.  Lasts for 14.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Crit Bonus of raid and group members (AE) by 6.0.\n    - Increases Potency of raid and group members (AE) by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1893946059 -1550140378:Ring of Brotherhood\/a
 categories:
 - Ability Modifier (Equipment)

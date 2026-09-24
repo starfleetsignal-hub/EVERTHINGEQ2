@@ -15,7 +15,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   aspeed: '16.2'
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1135885761 1626603256:Purchased Cloak of the Covenant\/a
 categories:
 - Assassin Equipment

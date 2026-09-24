@@ -18,7 +18,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 10 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 685260133 999673064:Mausoleum Nocturne Boots\/a
 categories:
 - Brawler Equipment

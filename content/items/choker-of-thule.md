@@ -17,7 +17,8 @@ stats:
   potency: 1,299
   resolve: '23'
   flurry: '75.3'
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 item_link: \aITEM -886215221 503920076:Choker of Thule\/a
 categories:
 - AE Autoattack Chance (Equipment)

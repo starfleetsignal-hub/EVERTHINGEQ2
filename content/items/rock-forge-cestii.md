@@ -16,7 +16,7 @@ stats:
   drating: '30.8'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: Ancient Glyph of Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Flame on target of attack. Triggers about 2.9 times per minute.\n    - Inflicts 175 - 292 heat damage on target\n    - Cannot be modified except by direct means"
 item_link: \aITEM 968581212 1739234664:[Rock-Forged Cestii]\/a
 categories:
 - Brawler Equipment

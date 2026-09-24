@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   abmod: '+369'
-effects: '**Soothing Sigil**'
+effect_name: Soothing Sigil
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil II on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 200 levels of any hostile effects on target\n    - Heals target for 5,358 - 5,922.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1374477237 -1745847525:Encompassed Destination Cloak\/a
 categories:
 - Ability Modifier (Equipment)

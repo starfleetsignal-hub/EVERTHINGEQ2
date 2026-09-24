@@ -15,7 +15,8 @@ stats:
   potency: '9.8'
   abmod: '+347'
   multi: '15.6'
-effects: '**Oracle**'
+effect_name: Oracle
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 6.5%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1076488130 -1093086379:Necklace of the Meticulous Sage\/a
 categories:
 - Ability Modifier (Equipment)

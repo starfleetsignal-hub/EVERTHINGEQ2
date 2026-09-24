@@ -15,7 +15,7 @@ stats:
   abmod: '+15'
   vsarcane: '+410'
   vsnoxious: '+410'
-effects: Sorcerous Alacrity II
+effects: Reduces cast time of hostile spells by 2 percent.
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]] Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM -1065259646 -1185369687:Annihilator's Crystalized Power\/a
 categories:

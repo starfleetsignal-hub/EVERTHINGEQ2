@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   int: '+2'
-effects: '**Antonia''s Favor**'
+effect_name: Antonia's Favor
+effects: "- Applies Antonia's Favor when Activated.\n  - Increases power of caster by 21.\n  - The casting time of Antonia's Favor is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Crate and Barrel]]'
 item_link: \aITEM 48465872 -1026332806:Antonican Signet\/a
 categories:

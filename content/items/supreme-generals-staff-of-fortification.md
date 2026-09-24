@@ -19,7 +19,8 @@ stats:
   drating: '173.24'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Oracle**<br>**Cogent**'
+effect_name: Oracle, Cogent
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 6%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 5.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 218499787 -182733893:Supreme General's Staff of Fortification\/a
 categories:
 - Beastlord Equipment

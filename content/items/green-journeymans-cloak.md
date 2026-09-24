@@ -7,7 +7,8 @@ level: '1'
 slot: Cloak
 flags: lore no-trade no-value
 description: A cloak stitched to enhance the wearer's ability to traverse Norrath.
-effects: '**Journeyman''s Cloak**'
+effect_name: Journeyman's Cloak
+effects: "- Applies Journeyman's Cloak when Equipped.\n  - Increases speed of caster by 25.0%.\n  - This effect suspends during combat"
 obtained_from: 'From [[Universal Trial: Green Journeyman''s Cloak & Potion Pack]]'
 item_link: \aITEM -1348654791 1058885296:Green Journeyman's Cloak\/a
 categories:

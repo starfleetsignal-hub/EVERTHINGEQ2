@@ -20,7 +20,8 @@ stats:
   drating: '65.45'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Lesser Swift Recovery**'
+effect_name: Lesser Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 0.8 times per minute.\n    - Increases power of caster by 64.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Goblin Revenge]]'
 item_link: \aITEM -1424196122 -255876912:Runed Drogan Scimitar\/a
 categories:

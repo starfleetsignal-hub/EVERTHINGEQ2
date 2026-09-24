@@ -17,7 +17,8 @@ stats:
   aspeed: '14.1'
   dps: '23.1'
   dtype: Chain Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 1316548898 -1692403842:Transcendent Eliminator's Despotic Cuffs\/a
 categories:
 - Assassin Equipment

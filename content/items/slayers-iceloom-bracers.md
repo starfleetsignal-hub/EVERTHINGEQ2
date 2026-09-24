@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   abmod: '+26'
   dtype: Cloth Armor
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Impact on target's attacker.  Lasts for 2.5 seconds.\n    - Throws target back\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -879323181 1312906145:Slayer's Iceloom Bracers\/a
 categories:
 - Ability Modifier (Equipment)

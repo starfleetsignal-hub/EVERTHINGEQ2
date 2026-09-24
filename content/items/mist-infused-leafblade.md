@@ -16,7 +16,8 @@ stats:
   drating: '8.11'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Chill Gust Glyph**'
+effect_name: Chill Gust Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 469010235 -1646041884:Mist Infused Leafblade\/a
 categories:
 - Assassin Equipment

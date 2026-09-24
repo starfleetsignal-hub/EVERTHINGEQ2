@@ -17,7 +17,8 @@ stats:
   abmod: '+185'
   aspeed: '8.8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM -1212527022 1760475084:Marauder's Daring Gloves\/a
 categories:
 - Ability Modifier (Equipment)

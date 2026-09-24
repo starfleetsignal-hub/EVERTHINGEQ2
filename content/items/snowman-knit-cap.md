@@ -11,7 +11,8 @@ stats:
   agi: '+1'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 item_link: \aITEM -1284057016 1492385844:Snowman Knit Cap\/a
 categories:
 - Assassin Equipment

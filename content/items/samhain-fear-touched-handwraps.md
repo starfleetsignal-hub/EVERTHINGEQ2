@@ -16,7 +16,8 @@ stats:
   multi: '37.5'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '* *From [[Crate of Ethereal Goodies]]'
 item_link: \aITEM -1366297057 -1543492144 0 0 0:Samhain Fear-Touched Handwraps\/a
 categories:

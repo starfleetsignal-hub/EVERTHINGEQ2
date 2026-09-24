@@ -16,7 +16,8 @@ stats:
   aspeed: '69.3'
   dps: '69.3'
   dtype: Cloth Armor
-effects: '**Necromunger''s Greater Fortitude**'
+effect_name: Necromunger's Greater Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM 204819040 -1761461758:Robes of the Necrotic Finger\/a
 categories:
 - Attack Speed (Equipment)

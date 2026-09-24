@@ -16,7 +16,8 @@ stats:
   aspeed: '18.4'
   multi: '19.2'
   vsarcane: +1,833
-effects: '**Rhythmic Slaughter**'
+effect_name: Rhythmic Slaughter
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rhythmic Slaughter on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 763 - 843 heat damage on target encounter instantly and every 2 seconds.\n    - Decreases Hate Gain of group members (AE) by 5.0.\n      - If not fighter\n    - Increases Strikethrough of group members (AE) by 5.0%.\n    - Increases Accuracy of group members (AE) by 5.0%.\n    - Increases Hate Gain of group members (AE) by 5.0.\n      - If fighter\n    - Increases Haste of group members (AE) by 20.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1857081776 1550214569 0 0 0:Earhoop of Toxic Warboar Blood\/a
 categories:
 - AE Autoattack Chance (Equipment)

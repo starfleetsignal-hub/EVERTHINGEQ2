@@ -22,7 +22,8 @@ stats:
   drating: '1605.12'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Decisive Strike**<br>**Phantastic Power**<br>**Phanatic**'
+effect_name: Decisive Strike, Phantastic Power, Phanatic
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,806 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Gains power as you complete the \"Colossal Conundrum\", \"Dabbling in the Darkside\", and \"Triumph: Pall of All of Vex Thal\" achievements.\n- Applies Phanatic when Equipped.\n  - Grants protection from powerful shadow magic and allows the target to bypass certain akhessar protection magic."
 obtained_from: 'Crafted by [[Artisan]] (level 120) from [[Recipe: Phantastic Talon Club]]'
 item_link: \aITEM 85549188 236071056:Phantastic Talon Club\/a
 categories:

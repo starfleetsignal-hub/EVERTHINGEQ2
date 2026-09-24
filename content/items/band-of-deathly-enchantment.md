@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +11,088
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulate III on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 1,815,000\n    - Inflicts 450,000 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1667170632 -1707422512:Band of Deathly Enchantment\/a
 categories:
 - Arcane Resistance (Equipment)

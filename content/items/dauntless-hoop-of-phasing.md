@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +15,652
-effects: '**Minor Phasing**'
+effect_name: Minor Phasing
+effects: "- When Equipped:\n  - On any combat or spell hit this spell has a 10% chance to cast Minor Phasing on target of attack.\n    - Teleports caster to a random location within 5 meters\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 60.0 seconds."
 item_link: \aITEM 1117807227 -319580860:Dauntless Hoop of Phasing\/a
 categories:
 - AE Autoattack Chance (Equipment)

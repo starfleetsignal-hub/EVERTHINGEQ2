@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   dtype: Plate Armor
-effects: '**Battlefield Command**'
+effect_name: Battlefield Command
+effects: "- When Equipped:\n  - Increases STA of caster by 50.0.\n  - Increases Hate Gain of caster by 3.0.\n  - Increases Ranged, Slashing, Crushing and Piercing of caster by 20.0."
 obtained_from: '* *Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Gussets of the Mountain]] *Made from [[Colossal Frog Tongue]] *Made from [[Protective Siren Shell]] *Made from [[Shimmering Siren Scales]]'
 item_link: \aITEM -1855769415 1198871492:Tempered Azure Gussets of the Mountain\/a
 image: images/Tempered_Azure_Gussets_of_the_Mountain.png

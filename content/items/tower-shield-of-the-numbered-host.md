@@ -17,7 +17,8 @@ stats:
   resolve: '525'
   cbovercap: '+1567.7'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[EverQuest II 2025 Celebration Subscriber Gear Bag (Berserker)|EverQuest II 2025 Celebration Subscriber Gear Bag]] *From [[EverQuest II 2025 Celebration Subscriber Gear Bag (Guardian)|EverQuest II 2025 Celebration Subscriber Gear Bag]] *From [[EverQuest II 2025 Celebration Subscriber Gear Bag (Paladin)|EverQuest II 2025 Celebration Subscriber Gear Bag]] *From [[EverQuest II 2025 Celebration Subscriber Gear Bag (Shadowknight)|EverQuest II 2025 Celebration Subscriber Gear Bag]]'
 item_link: \aITEM -1777441524 -1833099105:Tower Shield of the Numbered Host\/a
 categories:

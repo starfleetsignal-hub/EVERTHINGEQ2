@@ -19,7 +19,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Alacrity**'
+effect_name: Alacrity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Alacrity on caster.  Lasts for 18.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 14.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -523916127 -2131590565:Hardened Iceshard Cestii\/a
 categories:
 - Ability Modifier (Equipment)

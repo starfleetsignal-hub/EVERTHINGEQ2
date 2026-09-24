@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Clairvoyant Preparation**'
+effect_name: Clairvoyant Preparation
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Clairvoyant Preparation on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of the casters next spell by 50%"
 item_link: \aITEM -1508204556 619415172:Onayan Sash of Tears\/a
 categories:
 - Attack Speed (Equipment)

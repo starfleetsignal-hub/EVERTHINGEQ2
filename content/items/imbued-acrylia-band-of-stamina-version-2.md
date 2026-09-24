@@ -13,7 +13,8 @@ stats:
   crit: '1.1'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 21.5.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 898053625 1046577656:imbued acrylia band of stamina\/a
 categories:
 - Assassin Equipment

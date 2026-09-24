@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +16,380
-effects: '**Bloodspattered Glory**'
+effect_name: Bloodspattered Glory
+effects: "- When Equipped:\n  - On a death blow this spell will cast Bloodspattered Glory II on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency by 8 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 97) from [[Jeweler Essentials Volume 97]]
 item_link: \aITEM 1515736109 990149865:Phantom Cadmium Band\/a
 categories:

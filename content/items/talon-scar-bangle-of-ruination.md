@@ -17,7 +17,8 @@ stats:
   resolve: '525'
   aspeed: '36.3'
   vselemental: +374,075
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -486411379 -1798248057:Talon Scar Bangle of Ruination\/a
 categories:
 - Arcane Resistance (Equipment)

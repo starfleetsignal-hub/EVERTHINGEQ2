@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -620494180 -1321348936 0 0 0:Spiked Earth Gauntlet\/a
 categories:
 - Berserker Equipment

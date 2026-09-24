@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +21,632
-effects: '**Frenzied Pace**'
+effect_name: Frenzied Pace
+effects: "- When Equipped:\n  - Whenever the group strikes a deathblow, the wearer will gain 440 STR, AGI, WIS and INT for 24 seconds. Increments up to 10 times.\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 96) from [[Advanced Jeweler Volume 96]]
 item_link: \aITEM 451245055 996986714:Xiocite Tourmaline Ring\/a
 categories:

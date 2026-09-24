@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Round on Brell**<br>**Constitution of Stone**'
+effect_name: Round on Brell, Constitution of Stone
+effects: "- Applies Round on Brell when Activated.\n  - Once a day, Brell may be called upon to treat his disciples to a round of spirits... to raise their spirits!\n  - The casting time of Round on Brell is 3.0 seconds and the reuse time of the spell is 1 hour 12 minutes\n- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Constitution of Stone on caster.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 350.\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Constitution of Stone on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 350.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Restoring the Underfoot Cathedral]] the 5th deity quest of [[Brell Serilis]]'
 item_link: \aITEM -660299296 627539132:Cloak of the Underfoot\/a
 image: images/Cloak_of_the_Underfoot.jpg

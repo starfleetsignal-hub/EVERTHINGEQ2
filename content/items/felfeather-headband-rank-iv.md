@@ -19,7 +19,8 @@ stats:
   potency: 38,187.5
   resolve: '490'
   dtype: Leather Armor
-effects: '**Felfeather Mental Aptitude**'
+effect_name: Felfeather Mental Aptitude
+effects: "- When Equipped:\n  - Protects the wearer from specific types of chromatic magic.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2079189362 789106220:Felfeather Headband [Rank IV]\/a
 categories:
 - Ability Doublecast (Equipment)

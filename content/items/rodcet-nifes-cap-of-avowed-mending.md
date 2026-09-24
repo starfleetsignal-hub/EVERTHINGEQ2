@@ -18,7 +18,8 @@ stats:
   dps: '32'
   multi: '22.3'
   dtype: Leather Armor
-effects: '**Avowed Mending**'
+effect_name: Avowed Mending
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Avowed Mending on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 5,500 points of all damage\n    - Increases Crit Bonus of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 962528243 -119196708 0 0 0:Rodcet Nife's Cap of Avowed Mending\/a
 categories:
 - Avowed Mending (Equipment)

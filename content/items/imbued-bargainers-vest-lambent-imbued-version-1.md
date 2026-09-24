@@ -12,7 +12,8 @@ stats:
   int: '+6'
   mit: '44'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 14 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1909691625 1729186395:Imbued Bargainer's Vest\/a
 categories:
 - Assassin Equipment

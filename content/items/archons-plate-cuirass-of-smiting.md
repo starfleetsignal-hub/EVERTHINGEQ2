@@ -16,7 +16,8 @@ stats:
   potency: '5.8'
   abmod: '+173'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: '[[Bountiful Berries]]'
 item_link: \aITEM 541435985 -1517482947:Archon's Plate Cuirass of Smiting\/a
 image: images/Archon's_Plate_Cuirass_of_Smiting.png

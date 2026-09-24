@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+217'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 21.5.\n    - Increases Haste of caster by 22.9.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 68) from [[Advanced Jeweler Volume 68 (no-value)]] *Crafted by [[Jeweler]] (level 68) from [[Advanced Jeweler Volume 68 (Uncommon)]]'
 item_link: \aITEM -1500360648 -995475043:Imbued Acrylia Band of Agility\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   multi: '6.3'
   vselemental: '+315'
-effects: '**Thought Retrieval**'
+effect_name: Thought Retrieval
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Thought Retrieval on caster.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 240.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -637081617 -1011869659:Hoop of Planar Power\/a
 categories:
 - Arcane Resistance (Equipment)

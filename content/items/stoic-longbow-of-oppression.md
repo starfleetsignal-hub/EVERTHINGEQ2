@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Aegis of Blood**'
+effect_name: Aegis of Blood
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Aegis of Blood on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards caster against 1,000 points of all damage\n    - Inflicts 3,796 - 4,196 piercing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1559584538 1667468135:Stoic Longbow of Oppression\/a
 categories:
 - Aegis of Blood (Equipment)

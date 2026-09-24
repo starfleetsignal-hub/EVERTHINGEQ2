@@ -17,7 +17,8 @@ stats:
   resolve: '370'
   abmod: +219,224
   vselemental: +238,938
-effects: '**Betrayed Thoughts**'
+effect_name: Betrayed Thoughts
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Betrayed Thoughts on target of spell cast.  Triggers about 2.0 times per minute.\n    - Decreases Threat to targets in Area of Effect by 1,600\n    - Cannot be modified except by direct means"
 item_link: \aITEM -364681247 432085841:Fabled Eye of Ashenclaw\/a
 categories:
 - Ability Modifier (Equipment)

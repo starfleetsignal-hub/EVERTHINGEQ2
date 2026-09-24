@@ -17,7 +17,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Glyph of Detonation**'
+effect_name: Glyph of Detonation
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Detonation on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 101 - 168 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1820444451 1937662231:Grinnin'S Staff of Detonation\/a
 aliases:
 - Grinnin'S Staff of Detonation (Level 50)

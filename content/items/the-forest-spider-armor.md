@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Spider''s Curse**'
+effect_name: Spider's Curse
+effects: "- Applies Spider's Curse when Activated.  Lasts for 24.0 seconds.\n  - Applies Snare on termination.  Lasts for 24.0 seconds.\n    - Slows target by 39.3%.\n    - 5% chance to dispel when target receives hostile action\n    - 5% chance to dispel when target takes damage\n  - Inflicts 3 - 4 disease damage on target instantly and every 4 seconds.\n  - Slows target by 39.3%.\n  - The casting time of Spider's Curse is 1.0 second and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 1134125958 -576828798:The Forest Spider\/a
 categories:
 - Assassin Equipment

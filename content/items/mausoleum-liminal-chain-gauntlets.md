@@ -18,7 +18,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 10 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1015828965 1146236051:Mausoleum Liminal Chain Gauntlets\/a
 categories:
 - Assassin Equipment

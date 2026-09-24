@@ -17,7 +17,8 @@ stats:
   multi: '17.5'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 909588382 281419538:Dauntless Gauntlets of Dracurion Accord\/a
 categories:
 - Berserker Equipment

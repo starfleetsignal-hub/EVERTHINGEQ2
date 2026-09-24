@@ -16,7 +16,8 @@ stats:
   dps: '27'
   vselemental: +28,613
   mitinc: '7'
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM -581982510 -1346849672:Heavy Chain Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

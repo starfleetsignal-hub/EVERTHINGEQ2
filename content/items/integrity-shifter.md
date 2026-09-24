@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '19.8'
   vselemental: +29,521
-effects: '**Amplifying Stamina**'
+effect_name: Amplifying Stamina
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 25%-96.3% and Stamina by 270-983. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 927198433 -733143130:Integrity Shifter\/a
 image: images/Integrity_Shifter.png
 categories:

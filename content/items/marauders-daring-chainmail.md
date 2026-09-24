@@ -17,7 +17,8 @@ stats:
   aspeed: '7.9'
   multi: '8.7'
   dtype: Chain Armor
-effects: '**Slayer''s Conviction**'
+effect_name: Slayer's Conviction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Slayer's Conviction on caster.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Increases DPS of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 794237858 1906459038:Marauder's Daring Chainmail\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '13.5'
   abmod: '+226'
   vselemental: +10,148
-effects: '**Aquatic Monstrosity**'
+effect_name: Aquatic Monstrosity
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 5.0.\n  - Increases Block Chance of caster by 7.0%.\n  - Increases Crit Bonus of caster by 6.0.\n  - Increases Ability Mod of caster by 1,200.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1323101223 -1619923375:Warcouncil's Earring of the Monstrosity\/a
 categories:
 - Ability Modifier (Equipment)

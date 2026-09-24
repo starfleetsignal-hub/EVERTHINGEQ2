@@ -11,7 +11,8 @@ stats:
   str: '+9'
   sta: '+8'
   vsarcane: '+45'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 7.2.\n    - Increases Combat Health Regen of caster by 12.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 38) from [[Jeweler Essentials Volume 38 (Normal)]] *Crafted by [[Jeweler]] (level 38) from [[Jeweler Essentials Volume 38 (no-trade)]]'
 item_link: \aITEM -335706856 1326701202:Imbued Velium Band of Stamina\/a
 categories:

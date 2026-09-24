@@ -23,7 +23,8 @@ stats:
   drating: '251.9'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.2%.\n    - Inflicts 1,366 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -386321389 1433502079:Guarded Hook\/a
 categories:
 - Anguish (Equipment)

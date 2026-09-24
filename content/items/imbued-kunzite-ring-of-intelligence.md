@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   vsarcane: '+280'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 18.5.\n    - Increases Disruption, Subjugation and Focus of caster by 10.5.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 76) from [[Jeweler Essentials Volume 76 (Normal)]] *Crafted by [[Jeweler]] (level 76) from [[Jeweler Essentials Volume 76 (no-trade)]]'
 item_link: \aITEM -1937159002 -483827034:Imbued Kunzite Ring of Intelligence\/a
 image: images/Imbued_Kunzite_Ring_of_Intelligence.png

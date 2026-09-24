@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**Egothief**'
+effect_name: Egothief
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Egothief II on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 5,474 - 6,051 poison damage on target\n    - Heals caster for 2,737 - 3,025\n    - Decreases Mitigation of target vs physical damage by 1,663.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1409512646 -2031308683:Entrancing Earring of Wonderment\/a
 categories:
 - Ability Modifier (Equipment)

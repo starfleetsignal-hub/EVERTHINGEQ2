@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   dtype: Buckler
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1495525759 833601172:Small Round Shield of the Sage\/a
 image: images/Small_Round_Shield_of_the_Sage.png
 categories:

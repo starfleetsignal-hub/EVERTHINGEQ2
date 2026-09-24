@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Leather Armor
-effects: '**Lesser Runic Absorption**'
+effect_name: Lesser Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Lesser Runic Absorption on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 300 points of all damage\n    - Cannot be modified except by direct means\n  - Must not be in an Expansion: Destiny of Velious zone"
 obtained_from: '[[Seeking Sergeant Slithess]]'
 item_link: \aITEM -1708044979 -1905243133:Droag Skin Leggings\/a
 categories:

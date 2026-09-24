@@ -11,7 +11,8 @@ stats:
   sta: '+7'
   int: '+7'
   dtype: Round Shield
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 41 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -498551517 150001767:imbued fir round shield\/a
 aliases:
 - Imbued fir round shield (Pale Sanguine Imbued) (Level 20)

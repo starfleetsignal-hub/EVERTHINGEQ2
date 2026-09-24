@@ -16,7 +16,8 @@ stats:
   potency: '5'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 39016578 -1910365711 0 0 0:Heroic Steel Gauntlets\/a
 categories:

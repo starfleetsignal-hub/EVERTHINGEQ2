@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   dps: '11'
   mitinc: '4.2'
-effects: '**Runic Redemption**'
+effect_name: Runic Redemption
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 9% chance to cast Runic Redemption on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 1,125 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2018566301 37300333:Mark of the Dragonslayer\/a
 categories:
 - Berserker Equipment

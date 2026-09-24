@@ -22,7 +22,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Focused Magnitude**'
+effect_name: Focused Magnitude
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Focused Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases STR and AGI of caster by 44.0.\n    - Increases Accuracy of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Focused Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases STR and AGI of caster by 44.0.\n    - Increases Accuracy of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1745322427 1699881029:Storm Enchanted Dagger of Vyskudra\/a
 categories:
 - Assassin Equipment

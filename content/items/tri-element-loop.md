@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: +1,000
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -647791414 892019406:Tri-element Loop\/a
 categories:
 - Arcane Resistance (Equipment)

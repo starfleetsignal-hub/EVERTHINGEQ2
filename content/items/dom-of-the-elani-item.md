@@ -11,7 +11,8 @@ stats:
   sta: '+200'
   wis: '+290'
   dtype: Symbols
-effects: '**Aura of the Elani**'
+effect_name: Aura of the Elani
+effects: "- Applies Aura of the Elani when Activated.\n  - Dispels 64 levels of noxious hostile effects on targets in Area of Effect\n  - Heals targets in Area of Effect for 16.\n  - Increases Mitigation of targets in Area of Effect vs elemental, noxious and arcane damage by 182.\n  - The casting time of Aura of the Elani is 1 minute and the reuse time of the spell is 10 minutes"
 obtained_from: A mound of dirt in [[The Breathless Hollow]] in the [[Loping Plains]] {{waypoint -277, -7, -75}}, during the quest [[Dom of the Elani]]
 item_link: \aITEM -1711219558 -414345282:Dom of the Elani\/a
 image: images/Dom_of_the_Elani.jpg

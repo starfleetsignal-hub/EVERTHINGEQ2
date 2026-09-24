@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**True Neutral**'
+effect_name: True Neutral
+effects: "- Applies True Neutral when Activated.  Lasts for 2.0 seconds.\n  - Raises or lowers each group member's health to exactly half.\n  - Will absorb all damage.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The reuse time of True Neutral is 1 minute 30 seconds"
 item_link: \aITEM -722089284 -1156219826:Perfectly Balanced Obsidian Gavel\/a
 categories:
 - Assassin Equipment

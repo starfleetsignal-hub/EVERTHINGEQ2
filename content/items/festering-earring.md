@@ -12,7 +12,8 @@ stats:
   int: '+45'
   critbonus: '2'
   vsnoxious: '+880'
-effects: '**Sorcerous Alacrity**<br>**Festering Rage**'
+effect_name: Sorcerous Alacrity, Festering Rage
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent.\n- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1352859028 1843886883:Festering Earring\/a
 categories:
 - Arcane Resistance (Equipment)

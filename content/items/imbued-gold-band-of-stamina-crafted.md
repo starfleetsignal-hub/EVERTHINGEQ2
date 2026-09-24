@@ -11,7 +11,8 @@ stats:
   str: '+6'
   sta: '+5'
   vsarcane: '+20'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 4.5.\n    - Increases Combat Health Regen of caster by 12.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 28) from [[Jeweler Essentials Volume 28 (Normal)]] *Crafted by [[Jeweler]] (level 28) from [[Jeweler Essentials Volume 28 (no-trade)]]'
 item_link: \aITEM -1350843768 1553718859:Imbued Gold Band of Stamina\/a
 categories:

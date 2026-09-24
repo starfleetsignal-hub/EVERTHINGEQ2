@@ -17,7 +17,8 @@ stats:
   potency: '1.1'
   abmod: '+26'
   dtype: Plate Armor
-effects: '**Divine Fortitude**'
+effect_name: Divine Fortitude
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Divine Fortitude on caster.  Lasts for 4.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases STR and INT of caster by 200.0.\n    - Increases Mitigation of caster vs physical damage by 169.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1297145697 1167784492:Holy Cuirass of Fortitude\/a
 categories:
 - Ability Modifier (Equipment)

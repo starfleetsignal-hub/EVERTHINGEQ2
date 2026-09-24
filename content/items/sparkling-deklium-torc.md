@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Soothing Psalm**'
+effect_name: Soothing Psalm
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Soothing Psalm on caster.  Lasts for 1.0 second.  Triggers about 1.6 times per minute.\n    - Decreases threat priority of targets in Area of Effect by 2 positions\n      - Must be engaged in combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -49514366 -981148910:Sparkling Deklium Torc\/a
 categories:
 - Ability Modifier (Equipment)

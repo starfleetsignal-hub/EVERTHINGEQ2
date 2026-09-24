@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   multi: '5.9'
   dtype: Chain Armor
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 169.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1889297283 1378112377:Mithrilweave Gloves of the Spirit Destroyer\/a
 categories:
 - Assassin Equipment

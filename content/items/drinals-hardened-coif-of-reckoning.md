@@ -17,7 +17,8 @@ stats:
   dps: '63.9'
   multi: '22.3'
   dtype: Chain Armor
-effects: '**Superior Soul Schism**'
+effect_name: Superior Soul Schism
+effects: "- Applies Superior Soul Schism when Activated.  Lasts for 1 minute 15 seconds.\n  - Shapechanges caster into an a Tirun Soulbreaker\n  - Increases Crit Bonus of caster by 30.0.\n  - Increases Haste of caster by 30.0.\n  - When a combat art is used this spell will cast Superior Soul Schism on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 11,662 piercing damage on target\n    - Heals caster for 2,916\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Superior Soul Schism is 5 minutes"
 item_link: \aITEM -794628085 -1315488726 0 0 0:Drinal's Hardened Coif of Reckoning\/a
 categories:
 - Assassin Equipment

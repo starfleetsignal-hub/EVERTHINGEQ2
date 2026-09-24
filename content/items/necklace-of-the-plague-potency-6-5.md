@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   aspeed: '6'
   multi: '6.8'
-effects: '**Plagued Strike**'
+effect_name: Plagued Strike
+effects: "- When Equipped:\n  - Increases the range of spells and ranged weapons."
 item_link: \aITEM -1360468383 -1932342764:Necklace of the Plague\/a
 categories:
 - Assassin Equipment

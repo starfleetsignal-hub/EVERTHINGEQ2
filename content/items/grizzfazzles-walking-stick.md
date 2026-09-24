@@ -19,7 +19,8 @@ stats:
   drating: '62.59'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Grizzfazzle''s Burst**'
+effect_name: Grizzfazzle's Burst
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Grizzfazzle's Rage on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 195 - 363 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM 1216595027 971256786:Grizzfazzle's Walking Stick\/a
 categories:

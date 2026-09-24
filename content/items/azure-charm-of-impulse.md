@@ -15,7 +15,8 @@ stats:
   potency: '7.9'
   aspeed: '12.5'
   multi: '25.7'
-effects: '**Titan''s Fist**'
+effect_name: Titan's Fist
+effects: "- When Equipped:\n  - Increases STA and INT of caster by 25.0.\n  - Increases Potency of caster by 2.0.\n  - Increases Disruption and Subjugation of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of Impulse]] *Made from [[Azure Reactant]]'
 item_link: \aITEM -2033683604 -2053807209:Azure Charm of Impulse\/a
 image: images/Azure_Charm_of_Impulse.png

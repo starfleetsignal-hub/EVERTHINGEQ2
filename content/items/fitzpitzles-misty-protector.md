@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Symbols
-effects: '**Fitzpitzle''s Protection**'
+effect_name: Fitzpitzle's Protection
+effects: "- Applies Fitzpitzle's Protection when Equipped.\n  - On a hostile spell cast this spell may cast Fitzpitzle's Necromantic Restoration on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 96 - 287 magic damage on target.\n    - Heals caster for 95 - 286.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 obtained_from: '[[Beyond Death''s Door]]'
 item_link: \aITEM -1174671998 697231471:Fitzpitzle's Misty Protector\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '10'
   potency: '10'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1229451046 444795754:Gloves of the Violet Ember\/a
 categories:
 - Casting Speed (Equipment)

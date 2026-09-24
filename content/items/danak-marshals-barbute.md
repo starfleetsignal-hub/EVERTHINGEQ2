@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Chain Armor
-effects: '**Lesser Mana Leak**'
+effect_name: Lesser Mana Leak
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Mana Leak on target of spell cast.  Triggers about 1.6 times per minute.\n    - Increases power of target by 234.\n    - Decreases power of caster by 212.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Somers'' Sunk and Salvaged!]]'
 item_link: \aITEM -372706880 1563269183:Danak Marshal's Barbute\/a
 image: images/Danak_marshal's_barbute.jpg

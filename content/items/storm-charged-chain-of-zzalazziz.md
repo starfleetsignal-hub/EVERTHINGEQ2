@@ -15,7 +15,8 @@ stats:
   potency: '24.2'
   dps: '34.3'
   multi: '36'
-effects: '**Ageless Damnation**'
+effect_name: Ageless Damnation
+effects: "- When Equipped:\n  - Increases WIS and INT of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1880947817 -2096372528:Storm Charged Chain of Zzalazziz\/a
 categories:
 - Ageless Damnation (Equipment)

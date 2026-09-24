@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dps: '12.4'
-effects: '**Shadow''s Touch**'
+effect_name: Shadow's Touch
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Shadow's Touch on target of attack.  Triggers about 1.8 times per minute.\n    - Increases power of target by 120 - 146.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1268530830 2050063596:Void-Touched Amulet of Disdain\/a
 categories:
 - Ability Modifier (Equipment)

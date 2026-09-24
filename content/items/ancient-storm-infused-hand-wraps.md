@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   mitinc: '10.9'
   dtype: Leather Armor
-effects: '**Haste**<br>**Stout**'
+effect_name: Haste, Stout
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -952526992 -565117775:Ancient Storm Infused Hand Wraps\/a
 categories:
 - Assassin Equipment

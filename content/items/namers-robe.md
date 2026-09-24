@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Cloth Armor
-effects: '**Toxic Avenger**'
+effect_name: Toxic Avenger
+effects: "- When Equipped:\n  - Applies Toxic Avenger to qualifying pets.\n    - Wards caster against 485 points of noxious damage\n    - On any combat or spell hit this spell may cast Toxic Revenge on target of attack.  Triggers about 2.0 times per minute.\n      - Inflicts 216 poison damage on target.\n      - Inflicts 216 disease damage on target."
 item_link: \aITEM 1026162298 508250623:Namer's Robe\/a
 categories:
 - Casting Speed (Equipment)

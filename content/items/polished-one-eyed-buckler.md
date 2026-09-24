@@ -15,7 +15,8 @@ stats:
   potency: '8.4'
   abmod: '+270'
   dtype: Buckler
-effects: '**Silent Redemption**'
+effect_name: Silent Redemption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Silent Redemption on caster.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Heals caster for 604 - 738.\n    - Heals caster for 118 - 144 every 2 seconds.\n    - Increases the caster's effectiveness of worn armor vs arcane damage by 10%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -204042695 1483484459:Polished One Eyed Buckler\/a
 categories:
 - Ability Modifier (Equipment)

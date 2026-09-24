@@ -16,7 +16,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Blazing Pylon Glyph**'
+effect_name: Blazing Pylon Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1192912217 2073717275:Reinforced Leather Sheath\/a
 categories:
 - Assassin Equipment

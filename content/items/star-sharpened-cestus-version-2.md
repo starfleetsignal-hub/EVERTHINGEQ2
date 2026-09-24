@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Star Shards**'
+effect_name: Star Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Star Shards on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 133 - 200 magic damage on target.\n    - Increases DPS of caster by 33.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1339904876 751168659:Star Sharpened Cestus\/a
 categories:
 - Attack Speed (Equipment)

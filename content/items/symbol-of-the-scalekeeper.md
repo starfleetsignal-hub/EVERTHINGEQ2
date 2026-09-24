@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   dps: '16.6'
   dtype: Symbols
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 871.\n    - Heals group members (AE) for 290 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -77601082 -667407519:Symbol of the Scalekeeper\/a
 categories:
 - Assassin Equipment

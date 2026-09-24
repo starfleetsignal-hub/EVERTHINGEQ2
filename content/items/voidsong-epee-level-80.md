@@ -19,7 +19,8 @@ stats:
   drating: '97.92'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Silencing Blow**'
+effect_name: Silencing Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silencing Blow on target of attack.  Lasts for 4.0 seconds.  Triggers about 1.6 times per minute.\n    - Stifles target\n    - Only affects targets level 102 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 623409337 -494793172:Voidsong Epee\/a
 categories:
 - AE Autoattack Chance (Equipment)

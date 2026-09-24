@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Inconspicuous Strike**'
+effect_name: Inconspicuous Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Inconspicuous Strike on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases threat priority of target by 1 position\n    - Inflicts 173,558 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 691492106 -669011094:Earrings of the Handler\/a
 categories:
 - AE Autoattack Chance (Equipment)

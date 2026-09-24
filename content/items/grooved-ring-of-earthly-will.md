@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   aspeed: '11.2'
   multi: '12'
-effects: '**Power Through Misery**'
+effect_name: Power Through Misery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Power Through Misery on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Accuracy of target by 3.0%.\n    - Increases Flurry of Caster by 2.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 647990958 1070432511:Grooved Ring of Earthly Will\/a
 categories:
 - AE Autoattack Chance (Equipment)

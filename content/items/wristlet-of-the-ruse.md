@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +11,880
-effects: '**Trickster''s Ruse**'
+effect_name: Trickster's Ruse
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Trickster's Ruse on target's attacker.  Lasts for 6.0 seconds.\n    - Increases Max Health of caster by 8.0%.\n    - Increases Crit Bonus of caster by 8.0.\n    - Increases Potency of caster by 8.0.\n    - This can only trigger once per 6 seconds.\n    - Inflicts 300, 000-1, 200, 000 piercing damage to the target, based on target's tier. Heroic and Epic targets take more damage.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -440340960 -706734364:Wristlet of the Ruse\/a
 aliases:
 - Wristlet of the Ruse (1 Gem)

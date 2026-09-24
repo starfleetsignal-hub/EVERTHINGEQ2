@@ -10,7 +10,7 @@ stats:
   charges: 10 / 10
   casting: 1.0 seconds
   recast: 2.0 seconds
-effects: Confetti firework
+effects: "- Applies Confetti firework when activated. Lasts for 3.0 seconds.\n  - Launches a firework when used."
 obtained_from: Made with Tinkering (skill 375) from [[Master's Blueprints 0.006]].
 item_link: \aITEM 211087992 -1281297203:[Tinkered Firework]\/a
 categories:

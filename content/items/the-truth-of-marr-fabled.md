@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Marr''s Favor**'
+effect_name: Marr's Favor
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Marr's Fury on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 462 - 564 divine damage on target.\n    - Cannot be modified except by direct means\n  - On a spell cast this spell has a 9% chance to cast Marr's Favor on caster.  Lasts for 15.0 seconds.\n    - Increases the damage of spells by up to 17.5% of your total strength.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[A Paladin''s Crusade]] part of the [[Paladin Epic Weapon Timeline]]'
 item_link: \aITEM 438581840 1998801301:The Truth of Marr\/a
 image: images/TheTruthofMarr.jpg

@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dps: '15.2'
-effects: '**Deadly Combination**'
+effect_name: Deadly Combination
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Deadly Combination on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,324 poison damage on target.\n    - Increases Accuracy of caster by 3.0%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Runes of Fate]]'
 item_link: \aITEM 1477459025 2130701496:Combined Runes of El'Arad\/a
 categories:

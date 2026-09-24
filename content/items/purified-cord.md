@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   abmod: '+40'
-effects: '**Gather Mana**'
+effect_name: Gather Mana
+effects: "- Applies Gather Mana when Activated.\n  - Applies Strands of Mana on termination.\n    - Decreases power of target by 358.\n    - Increases power of caster by 148.\n  - Must be engaged in pvp combat\n  - The reuse time of Gather Mana is 30 minutes"
 item_link: \aITEM -2012331627 945765167:Purified Cord\/a
 categories:
 - Ability Modifier (Equipment)

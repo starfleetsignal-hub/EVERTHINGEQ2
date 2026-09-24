@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Symbols
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Miscellania Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 1646366259 95062367:Lost Orb of Souls\/a
 categories:

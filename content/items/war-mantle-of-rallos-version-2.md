@@ -13,7 +13,8 @@ stats:
   crit: '1.7'
   critbonus: '0.5'
   potency: '2.5'
-effects: '**Bladed Fury**'
+effect_name: Bladed Fury
+effects: "- When Equipped:\n  - On a hit this spell may cast Bladed Fury on target of attack.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 251 slashing damage on target.\n    - Inflicts 81 slashing damage on target every 3 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[In Service of Rallos Zek]]'
 item_link: \aITEM 1264182596 -1661016974:War Mantle of Rallos\/a
 categories:

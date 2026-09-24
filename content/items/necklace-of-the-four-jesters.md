@@ -11,7 +11,8 @@ stats:
   str: '+15'
   sta: '+15'
   abmod: '+8'
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM 1612282115 1366924899:Necklace of the Four Jesters\/a
 categories:
 - Ability Modifier (Equipment)

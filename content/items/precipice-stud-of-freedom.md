@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +24,232
-effects: '**Free Movements**'
+effect_name: Free Movements
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Free Movements II on target.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Potency of caster by 18.0.\n    - Increases Crit Bonus of caster by 18.0.\n    - Prevents AOE (except when direct)\n    - Can only trigger if no allies are within 6 meters of the caster\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -906352242 -1684552987:Precipice Stud of Freedom\/a
 categories:
 - AE Autoattack Chance (Equipment)

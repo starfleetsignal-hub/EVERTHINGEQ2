@@ -19,7 +19,8 @@ stats:
   drating: '63.61'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 3,527\n      - Must be flanking or behind\n    - Increases Threat to target by 4,192\n      - Must be in front of\n    - Inflicts 182 - 339 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 73) from [[Weaponsmith Essentials Volume 73 (Normal)]] *Crafted by [[Weaponsmith]] (level 73) from [[Weaponsmith Essentials Volume 73 (no-trade)]]'
 item_link: \aITEM -1923376727 1014124042:Imbued Ferrite Scimitar\/a
 categories:

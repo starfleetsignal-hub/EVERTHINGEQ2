@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Spirit Steed
+effects: "- Applies Call Spirit Steed when Activated.  Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 48%"
 obtained_from: '*Sold by [[Meredeth]] (Faction Merchant) in [[North Qeynos]] *Sold by [[Stable Hand Marcellun Iver]] (Horse Merchant) in [[South Qeynos]] *Sold by [[Trainer Lucien Laurel]] (Horse Merchant) in [[Greater Faydark]] **for 10p 80g 337500 status'
 item_link: \aITEM 1899784534 593411294:spirit steed summoner\/a
 categories:

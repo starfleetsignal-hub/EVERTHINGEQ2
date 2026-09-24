@@ -11,7 +11,7 @@ stats:
   int: '+2'
   power: '+5'
   vsnoxious: '+7'
-effects: Spider's Curse
+effects: "- Applies **Spider's Curse** when Activated. Lasts for 24.0 seconds.\n  - Inflicts 10-12 disease damage on target instantly and every 4 seconds\n  - Slows target by 41%"
 obtained_from: '[[Another Contact]]'
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Camaraderie**'
+effect_name: Camaraderie
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 30 if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM 1036760652 -1821618833:Razorwing Talon Necklace\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Chain Armor
-effects: '**Lesser Memory Lapse**'
+effect_name: Lesser Memory Lapse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Memory Lapse on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 350\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Sad Tale of Rhodoqiz Karazz]]'
 item_link: \aITEM 361620033 -1815344978:Elaborately Ornamented Chain Shoulders\/a
 categories:

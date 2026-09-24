@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+11'
   sta: '+11'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate III on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate III on termination.  Lasts for 15.0 seconds.\n      - Wards target against 300 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 131 - 144.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 30) from [[Ancient Knowledge: Radiant Cincture of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1249952249 -1678658416:Radiant Cincture of Momentum\/a
 categories:

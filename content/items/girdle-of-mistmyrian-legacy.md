@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Vitae of the Elder**'
+effect_name: Vitae of the Elder
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Vitae of the Elder on the group.  Triggers about 2.0 times per minute.\n    - Increases power of group members (AE) by 432.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -124004185 -1415524174:Girdle of Mistmyrian Legacy\/a
 categories:
 - Ability Modifier (Equipment)

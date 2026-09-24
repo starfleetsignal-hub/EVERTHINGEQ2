@@ -17,7 +17,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Of Spells and Swords]]'
 item_link: \aITEM -1422671502 607736726:Lucanic Robe of the Mentalist\/a
 categories:

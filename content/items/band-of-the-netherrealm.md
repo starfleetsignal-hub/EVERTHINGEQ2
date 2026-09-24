@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vselemental: '+347'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: '[[Slice Your Way Up the Ladder]]'
 item_link: \aITEM -214000439 -1828482804:Band of the Netherrealm\/a
 categories:

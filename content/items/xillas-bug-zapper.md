@@ -13,7 +13,8 @@ stats:
   drating: '39.24'
   dtype: One-Handed Piercing
   wtype: Magic Affinity
-effects: '**Bug Zap**'
+effect_name: Bug Zap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bug Zap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 64 - 78 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Beetle Herding - Final Act]]'
 item_link: \aITEM 990765227 -51318519:Xilla's Bug Zapper\/a
 categories:

@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Red C.R.A.S.H. Pad
+effects: "- Applies Red C.R.A.S.H. Pad when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n  - This can be used as a flying mount appearance\n  - The Aetheric Sprocket drive has been removed completely. This unit wont break down, but cannot fly under its own power."
 obtained_from: Complete an [[Aether Racing|Aether Race]] 5 times
 item_link: \aITEM -633815969 -2094587266:[Red C.R.A.S.H. Pad]\/a
 categories:

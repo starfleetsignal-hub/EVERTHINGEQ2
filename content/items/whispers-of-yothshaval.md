@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '28.8'
   multi: '22.2'
-effects: '**Divine Whispers**'
+effect_name: Divine Whispers
+effects: "- Applies Divine Whispers when Activated.  Lasts for 10.0 seconds.\n  - Increases healing received of group members (AE) by 25%\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Whispers is 2 minutes"
 item_link: \aITEM -848776413 653636852:Whispers of Yothshaval\/a
 image: images/Whispers_of_Yothshaval.png
 categories:

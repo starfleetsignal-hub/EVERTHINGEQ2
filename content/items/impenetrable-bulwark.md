@@ -12,7 +12,8 @@ stats:
   sta: '+42'
   multi: '5'
   dtype: Tower Shield
-effects: '**Lesser Infuriation**<br>**Shield Block**'
+effect_name: Lesser Infuriation, Shield Block
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Lesser Infuriation on target of combat art.\n    - Increases Threat to target by 481\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Block Chance of caster by 10.0%."
 item_link: \aITEM -1480452628 1572916393:Impenetrable Bulwark\/a
 categories:
 - Berserker Equipment

@@ -16,7 +16,8 @@ stats:
   abmod: '+30'
   vsarcane: +1,162
   dtype: Cloth Armor
-effects: '**Summoned Vengeance**'
+effect_name: Summoned Vengeance
+effects: "- When Equiped:\n  - Increases pet spell and combat art damage by 50, and weapon/casting skills by 10."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 283450453 500011427:[Aramid Hood of the Voidcaller]\/a
 categories:

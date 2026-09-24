@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   dtype: Plate Armor
-effects: '**Dark Tidings**'
+effect_name: Dark Tidings
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Dark Tidings on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 1,400\n    - Cannot be modified except by direct means"
 item_link: \aITEM -776098705 1112184291:Breastplate of the Blessed Emperor\/a
 categories:
 - Berserker Equipment

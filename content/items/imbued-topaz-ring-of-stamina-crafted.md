@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   vsarcane: '+210'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 16.0.\n    - Increases Combat Health Regen of caster by 12.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 66) from [[Jeweler Essentials Volume 66 (Normal)]] *Crafted by [[Jeweler]] (level 66) from [[Jeweler Essentials Volume 66 (no-trade)]]'
 item_link: \aITEM 954187848 1538495667:Imbued Topaz Ring of Stamina\/a
 categories:

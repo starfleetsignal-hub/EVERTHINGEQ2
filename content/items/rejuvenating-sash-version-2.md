@@ -13,7 +13,8 @@ stats:
   crit: '3.1'
   critbonus: '1.1'
   potency: '5.1'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1032425286 -1942130334 0 0 0:Rejuvenating Sash\/a
 categories:

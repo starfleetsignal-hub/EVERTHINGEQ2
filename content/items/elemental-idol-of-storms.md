@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Atheneal Lightning**'
+effect_name: Atheneal Lightning
+effects: "- Applies Atheneal Lightning when Activated.  Lasts for 30.0 seconds.\n  - All offensive spells deal magic damage.\n  - Must be in Ward of Elements.\n  - The casting time of Atheneal Lightning is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -90969704 331722848:Elemental Idol of Storms\/a
 categories:
 - Ability Modifier (Equipment)

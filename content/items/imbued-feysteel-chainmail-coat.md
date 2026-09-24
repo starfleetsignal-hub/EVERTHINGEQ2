@@ -15,7 +15,7 @@ stats:
   vsarcane: '74'
   vsnoxious: '74'
   dtype: Chain Armor
-effects: 10 Toughness<br>Lambent Imbued
+effects: "Applies Lambent Imbued when Equipped.\n\n- When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds.\n  - Heals target for 35 instantly and every 4 seconds\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Armorer]] (level 33) from [[Advanced Armorer Volume 33]] ·
 categories:
 - Arcane Resistance (Equipment)

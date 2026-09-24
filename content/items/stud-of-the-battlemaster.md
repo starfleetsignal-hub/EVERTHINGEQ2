@@ -16,7 +16,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   vselemental: '+356'
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Mirg Nel'Ron]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 1521357195 -1625518355:Stud of the Battlemaster\/a
 categories:

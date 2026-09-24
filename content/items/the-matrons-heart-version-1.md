@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   abmod: '+68'
-effects: '**Dire Alacrity**'
+effect_name: Dire Alacrity
+effects: "- Applies Dire Alacrity when Activated.  Lasts for 36.0 seconds.\n  - Increases Reuse Speed of caster by 100.0%.\n  - The casting time of Dire Alacrity is 0.5 seconds and the reuse time of the spell is 1 hour"
 item_link: \aITEM -980393231 129225312:The Matron's Heart\/a
 image: images/The_Matron's_Heart.jpg
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Block Chance**<br>**Indestructible Being**'
+effect_name: Block Chance, Indestructible Being
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Indestructible Being on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of caster by 15.0.\n    - Makes caster immune to Mesmerize effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1290023188 -1087398992:Absolute Club of Conflict\/a
 categories:
 - Ability Modifier (Equipment)

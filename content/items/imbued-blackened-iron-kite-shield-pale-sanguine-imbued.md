@@ -11,7 +11,8 @@ stats:
   str: '+4'
   sta: '+4'
   dtype: Kite Shield
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 19 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1337140017 1333080807:Imbued Blackened Iron Kite Shield\/a
 categories:
 - Berserker Equipment

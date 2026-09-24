@@ -13,7 +13,8 @@ stats:
   mit: '94'
   abmod: '+8'
   dtype: Cloth Armor
-effects: '**Diseased Feedback**'
+effect_name: Diseased Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Diseased Feedback on target's attacker.\n    - Inflicts 103 disease damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -691698265 557132113:Sludged Sandals\/a
 categories:
 - Ability Modifier (Equipment)

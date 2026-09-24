@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Cloth Armor
-effects: '**Forgotten Dreams**'
+effect_name: Forgotten Dreams
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Forgotten Dreams on caster.  Lasts for 30.0 seconds.  Triggers about 2.4 times per minute.\n    - Wards caster against 500 points of all damage\n    - Increases power of caster by 238.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1003690730 1978359075:Robe of Forgotten Dreams\/a
 image: images/Robe_of_Forgotten_Dreams.jpg
 categories:

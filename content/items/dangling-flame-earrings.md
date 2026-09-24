@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +11,880
-effects: '**Draconic Soulsiphon**'
+effect_name: Draconic Soulsiphon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Draconic Soulsiphon IV on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 72,030 magic damage on target instantly and every second.\n    - Increases Ability Mod of caster by 5,500.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -920335332 -1432451688:Dangling Flame Earrings\/a
 aliases:
 - Dangling Flame Earrings (1 Gem)

@@ -16,7 +16,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Crushing
   wtype: Crushing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -172383231 -1066900624:Bo of the Conqueror\/a
 categories:
 - Beastlord Equipment

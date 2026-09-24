@@ -17,7 +17,7 @@ stats:
   vselemental: '+203'
   vsarcane: '+135'
   dtype: Chain Armor
-effects: Journeyman's Boots
+effects: "- Applies **Journeyman's Boots** when equipped.\n  - Increases speed of caster by 10%\n  - This effect suspends during combat"
 obtained_from: '[[The Journey is Half the Fun]]'
 item_link: -88006633 -1732302927:Legendary Journeyman's Boots
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vselemental: '+400'
-effects: '**Strike of the Ethernauts**'
+effect_name: Strike of the Ethernauts
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Strike of the Ethernauts on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 292 heat damage on target.\n    - Inflicts 292 magic damage on target.\n    - Inflicts 292 poison damage on target.\n    - Increases Multi Attack of caster by 8.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Collection reward: [[Relics of the Ethernauts (Collection, Version 1)]] *Collection reward: [[Relics of the Ethernauts (Collection, Version 2)]]'
 item_link: \aITEM 941330364 1687494820:Signet of the Ethernauts\/a
 image: images/Signet_of_the_Ethernauts.jpg

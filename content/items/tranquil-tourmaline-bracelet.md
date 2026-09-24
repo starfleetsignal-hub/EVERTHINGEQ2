@@ -13,7 +13,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +15,750
-effects: '**Empowering Kills**'
+effect_name: Empowering Kills
+effects: "- When Equipped:\n  - On a death blow this spell will cast Empowering Kills II on caster.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 6,750.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Jeweler Essentials Volume 100]]
 item_link: \aITEM -373209103 -612829937:Tranquil Tourmaline Bracelet\/a
 image: images/Tranquil_Tourmaline_Bracelet.png

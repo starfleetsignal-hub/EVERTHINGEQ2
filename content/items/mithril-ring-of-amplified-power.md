@@ -16,7 +16,8 @@ stats:
   dps: '21.8'
   vselemental: +26,832
   mitinc: '5'
-effects: '**Amplifying Power**'
+effect_name: Amplifying Power
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 46%-92%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 obtained_from: 'Collection reward: [[Triumphs of Shattered Seas]]'
 item_link: \aITEM -1339428852 211703308:Mithril Ring of Amplified Power\/a
 image: images/Mithril_Ring_of_Amplified_Power.PNG

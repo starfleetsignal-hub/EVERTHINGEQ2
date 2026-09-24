@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Cloth Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM -878498847 -344222751 0 0 0:Coercive Hood of Twisted Thoughts\/a
 categories:
 - Casting Speed (Equipment)

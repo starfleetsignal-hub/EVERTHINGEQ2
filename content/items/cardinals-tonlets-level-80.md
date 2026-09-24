@@ -17,7 +17,8 @@ stats:
   dps: '10.3'
   multi: '6.3'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 item_link: \aITEM 437176507 -1142958860:Cardinal's Tonlets\/a
 categories:
 - Benevolent Alacrity (Equipment)

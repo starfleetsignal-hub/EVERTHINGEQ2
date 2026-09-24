@@ -12,7 +12,8 @@ stats:
   sta: '+7'
   mit: '77'
   dtype: Leather Armor
-effects: '**Diseased Feedback**'
+effect_name: Diseased Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Diseased Feedback on target's attacker.\n    - Inflicts 48 disease damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 122012240 488865611:Cap of the Bloodplague\/a
 categories:
 - Assassin Equipment

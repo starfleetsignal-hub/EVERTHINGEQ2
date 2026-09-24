@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Tranquil Backlash**'
+effect_name: Tranquil Backlash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tranquil Backlash on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 987.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -519986184 -364150455:Chain of Toxic Horrors\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: '+129'
   mitinc: '4.7'
   dtype: Plate Armor
-effects: '**Lesser Runic Barrier**'
+effect_name: Lesser Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 150 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 896822965 -482336226:Drogan Enforcer Greaves\/a
 categories:
 - Ability Modifier (Equipment)

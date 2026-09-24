@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 1170999701 417949894 0 0 0:Fireborn Sleeves of Mindmelting\/a
 categories:
 - Arcane Recovery (Equipment)

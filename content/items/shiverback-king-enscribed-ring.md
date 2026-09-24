@@ -16,7 +16,8 @@ stats:
   aspeed: '27.6'
   dps: '13.8'
   vselemental: +9,108
-effects: '**Astral Dew**'
+effect_name: Astral Dew
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Astral Dew III on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 3,556 - 3,930 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1548494408 -2098098497:Shiverback King Enscribed Ring\/a
 categories:
 - Ability Modifier (Equipment)

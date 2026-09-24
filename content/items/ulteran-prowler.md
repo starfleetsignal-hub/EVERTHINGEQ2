@@ -8,7 +8,7 @@ slot: Charm
 flags: Heirloom No-Value
 stats:
   charges: Unlimited
-effects: Call Ulteran Prowler
+effects: "- Applies Call Ulteran Prowler when Activated.\n  - Increases Crushing, Focus, Subjugation, Disruption, Piercing, Aggression, Slashing, Ministration, Ranged and Ordination of caster by 5.0\n  - Summons a mount to ride.\n    - Increases your ground speed by 135%"
 obtained_from: Random Reward from [[Goblin Games]]
 item_link: -1953425035 1675856321:Ulteran Prowler
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.6'
   potency: '2.8'
   abmod: '+71'
-effects: '**Infuriating Dexterity**'
+effect_name: Infuriating Dexterity
+effects: "- When Equipped:\n  - On a successful dodge or parry, this spell has a 10% chance to increase threat to the target by 350."
 item_link: \aITEM -303395607 17402755:Cloak of Woven Heartwood\/a
 categories:
 - Ability Modifier (Equipment)

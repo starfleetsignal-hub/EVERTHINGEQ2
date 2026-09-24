@@ -15,7 +15,8 @@ stats:
   potency: '7.8'
   abmod: '+246'
   dtype: mace
-effects: '**Crested Thirst**'
+effect_name: Crested Thirst
+effects: "- When Equipped:\n  - On a block this spell has a 9% chance to cast Crested Thirst on target's victim.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 255 magic damage on target.\n    - Heals caster for 276.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1221991441 239939277:Crested Mistmoore Shield\/a
 categories:
 - Ability Modifier (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Ire of Shadow**'
+effect_name: Ire of Shadow
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Ire of Shadow on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 mental damage on target.\n    - Increases Accuracy of caster by 5.0%.\n    - Increases Multi Attack of caster by 10.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 978578582 -409322726:Umbra, Seraph Blade\/a
 image: images/Umbra,_Seraph_Blade.jpg
 categories:

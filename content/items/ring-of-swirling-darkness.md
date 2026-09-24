@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   vsarcane: '+397'
-effects: '**Darkness**'
+effect_name: Darkness
+effects: "- Applies Darkness when Activated.  Lasts for 1 minute.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - This effect cancels during combat\n  - The casting time of Darkness is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 1156403749 -1438699630:Ring of Swirling Darkness\/a
 categories:
 - Arcane Resistance (Equipment)

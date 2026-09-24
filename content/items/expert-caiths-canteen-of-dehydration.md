@@ -20,7 +20,8 @@ stats:
   abmod: +32,091
   aspeed: '66.2'
   dps: '50.3'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1446031713 2106346934:Expert Caith's Canteen of Dehydration\/a
 categories:
 - Ability Modifier (Equipment)

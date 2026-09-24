@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Desert Survival Tactic Number Eight]]'
 item_link: \aITEM -2037111644 844022217:Devoured-hide Mitts\/a
 categories:

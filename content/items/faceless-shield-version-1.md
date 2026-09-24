@@ -15,7 +15,8 @@ stats:
   potency: '2.4'
   dps: '7.2'
   dtype: Round Shield
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM -2001598935 864451849:Faceless Shield\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Flowing Invigoration**'
+effect_name: Flowing Invigoration
+effects: "- When Equipped:\n  - Whenever the wearer receives a Mana Flow, they will gain 60% Crit Bonus and 15% Max Health for 15 seconds"
 item_link: \aITEM -1173212107 -1179928557:Ring of the Antediluvian\/a
 categories:
 - Arcane Resistance (Equipment)

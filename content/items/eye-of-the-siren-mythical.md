@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Siren''s Stare**<br>**Siren''s Gift**<br>**Siren''s Flow**'
+effect_name: Siren's Stare, Siren's Gift, Siren's Flow
+effects: "- Applies Siren's Stare when Activated.  Lasts for 12 hours.\n  - Adds mental damage to a fighter's single target and AE taunts.\n  - The reuse time of Siren's Stare is 10.0 seconds\n- When Equipped:\n  - Reduces the reuse timers of all spells by 10%.\n  - On a damage spell hit this spell has a 12% chance to cast Siren's Gift on the group.  Lasts for 10.0 seconds.\n    - Reduces the power cost of group members' spells by 20%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the max health of the coercer's Possess Essence by 25%\n  - Reduces the duration and cost of Mana Flow. Additionally, Mana Flow will cast instantly and apply to the target's group."
 obtained_from: '[[Leandre''s Shard: The Targets]]'
 item_link: \aITEM 356780499 -1917028012:Eye of the Siren\/a
 categories:

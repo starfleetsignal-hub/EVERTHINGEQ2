@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**Synthetic Strengthening**'
+effect_name: Synthetic Strengthening
+effects: "- When Equipped:\n  - Suspends for 30 seconds when the caster takes damage greater than 30% of their maximum health\n  - Increases the caster's effectiveness of worn armor vs physical damage by 13%."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Jeweler Essentials Volume 100]]
 item_link: \aITEM -1204887318 -108794745:Phantom Tourmaline Locket\/a
 categories:

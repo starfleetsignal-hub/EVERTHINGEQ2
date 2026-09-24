@@ -17,7 +17,8 @@ stats:
   dps: '27.1'
   multi: '17.5'
   vselemental: +1,832
-effects: '**Temporal Exception**'
+effect_name: Temporal Exception
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Temporal Exception II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 12.0.\n    - Increases Multi Attack of caster by 26.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1887356336 1930795677:Caella's Bangle of Pearls\/a
 categories:
 - Arcane Resistance (Equipment)

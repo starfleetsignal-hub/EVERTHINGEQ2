@@ -17,7 +17,8 @@ stats:
   abmod: +1,989
   dps: '55.5'
   dtype: Symbols
-effects: '**Agony**'
+effect_name: Agony
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Agony on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1%.\n    - Inflicts 988 mental damage on target encounter.\n    - Inflicts 253 mental damage on target encounter every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1163569945 717739742:The Symbol of the Hive Mind\/a
 categories:
 - Ability Modifier (Equipment)

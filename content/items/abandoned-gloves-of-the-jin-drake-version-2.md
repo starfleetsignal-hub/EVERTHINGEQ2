@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 item_link: \aITEM -607252104 410618772 0 0 0:Abandoned Gloves of the Jin Drake\/a
 categories:
 - Attack Speed (Equipment)

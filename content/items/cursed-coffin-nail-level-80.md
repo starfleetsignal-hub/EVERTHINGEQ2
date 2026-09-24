@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   abmod: '+129'
-effects: '**Greater Vampire Bane**'
+effect_name: Greater Vampire Bane
+effects: "- When Equipped:\n  - Additional equipment with Vampire Bane improves this effect.\n  - On any combat or spell hit this spell may cast Greater Vampire Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 955 divine damage on target.\n      - Must be classified as a vampire\n    - Inflicts 477 divine damage on target.\n      - Must not be classified as a vampire\n    - Decreases Mitigation of target vs arcane damage by 711.\n      - Must be classified as a vampire\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1581846508 -1336387319:Cursed Coffin Nail\/a
 categories:
 - Ability Modifier (Equipment)

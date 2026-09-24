@@ -14,7 +14,9 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   vselemental: '+564'
-effects: '**Favor of Brell**'
+effect_name: Favor of Brell
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell has a 8% chance to cast Brell's Blessing IV on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 2.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell has a 8% chance to cast Brell's Blessing IV on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 2.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell has a 8% chance to cast Brell's Blessing IV on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 2.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged with a melee weapon this spell will cast Brell's Retribution IV on target's attacker.\n    - Inflicts 33 piercing damage on target.\n    - Must not be engaged in pvp combat\n    -\
+  \ Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Platinum Coldain Insignia Ring (Quest)|Platinum Coldain Insignia Ring]]'
 item_link: \aITEM -317660150 -865718872:Platinum Coldain Insignia Ring\/a
 categories:

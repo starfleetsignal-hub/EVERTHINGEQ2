@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   multi: '3.4'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -368764711 -881175723:Apothecaries Leggings\/a
 categories:
 - Assassin Equipment

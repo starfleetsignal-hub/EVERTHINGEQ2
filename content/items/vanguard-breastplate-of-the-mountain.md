@@ -17,7 +17,8 @@ stats:
   dps: '15.2'
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Armorer]] (level 90) from [[Ancient Knowledge: Vanguard Breastplate of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -555194879 -872173173:Vanguard Breastplate of the Mountain\/a
 categories:

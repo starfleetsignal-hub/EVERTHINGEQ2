@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7'
   abmod: '+210'
-effects: '**Bloodfrenzy**'
+effect_name: Bloodfrenzy
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 33% chance to cast Bloodfrenzy on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 5,296 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - On a hostile spell hit this spell has a 33% chance to cast Bloodfrenzy on target of spell.\n    - Inflicts 5,296 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 733824713 1934190901:Earring of Animosity\/a
 categories:
 - Ability Modifier (Equipment)

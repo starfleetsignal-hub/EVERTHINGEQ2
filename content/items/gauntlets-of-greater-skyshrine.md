@@ -17,7 +17,8 @@ stats:
   multi: '17.5'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1266380020 -1753772718:Gauntlets of Greater Skyshrine\/a
 categories:
 - Berserker Equipment

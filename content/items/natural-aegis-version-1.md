@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Buckler
-effects: '**Betraying Thoughts**'
+effect_name: Betraying Thoughts
+effects: "- When Equipped:\n  - When damaged this spell has a 8% chance to cast Betraying Thoughts on target's attacker.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2007121740 -1964877704:Natural Aegis\/a
 categories:
 - Ability Modifier (Equipment)

@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: '0.5'
   recast: 10.0 seconds
-effects: Stake Through the Heart
+effects: "- Applies Stake Through the Heart when Activated.\n  - Inflicts 2.7% of max health in piercing damage on target\n  - If target is Greater Vampire\n  - If under 6% Health"
 item_link: 24961957 -2088560038:Sharpened Heartwood Stake
 categories:
 - Assassin Equipment

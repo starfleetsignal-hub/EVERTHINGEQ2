@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +24,750
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 70%-139%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 obtained_from: Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume V]]
 item_link: \aITEM -574853766 -1709392441:Scorched Scale Ring\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dps: '12.8'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: '\aITEM -2000677381 -1476542274 0 0 0:Ensnaring Brooch: Exchangeable\/a'
 categories:

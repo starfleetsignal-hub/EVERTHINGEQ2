@@ -19,7 +19,8 @@ stats:
   potency: '8.8'
   multi: '14.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[Category:The Three Generals|The Three Generals]] in [[Tallon's Stronghold]]
 item_link: \aITEM -1596053182 -772952316:Sublime Cuffs of the Darkblade\/a
 categories:

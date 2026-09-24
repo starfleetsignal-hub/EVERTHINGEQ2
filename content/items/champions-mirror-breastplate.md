@@ -16,7 +16,7 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Plate Armor
-effects: Steelier Nerves
+effects: "- When Equipped:\n  - 3% of all physical damage received by the caster is prevented."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] or Sold by [[A mysterious Quellthulian]] (Merchant) in [[Moors of Ykesha]]
 image: images/Champion%27s_Mirror_Breastplate.jpg
 categories:

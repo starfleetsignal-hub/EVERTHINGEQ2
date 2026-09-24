@@ -19,7 +19,8 @@ stats:
   resolve: '650'
   flurry: '31.5'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1,293.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -192427425 -1686882558:Bone Vault Relic Bracers\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   dps: '20.4'
   multi: '26.8'
   dtype: Chain Armor
-effects: '**Swiftness in the Dark**'
+effect_name: Swiftness in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 1696238790 -341085722:Chain Boots of the Volatile Avenger\/a
 categories:
 - Assassin Equipment

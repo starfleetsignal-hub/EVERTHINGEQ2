@@ -16,7 +16,8 @@ stats:
   dps: '28.6'
   vselemental: +32,207
   mitinc: '7.6'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 10.  This effect increases to 22 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM -1230966157 -336556295:Bracelet of Yothshaval\/a
 categories:
 - Arcane Resistance (Equipment)

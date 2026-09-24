@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   abmod: '+167'
   vsarcane: '+415'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: '[[Investigating Strange Bones]]'
 item_link: \aITEM -818246440 49656787:Forgotten Hoop of Wealth\/a
 categories:

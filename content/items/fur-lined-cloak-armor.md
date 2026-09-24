@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Form of the Ghost Bear**'
+effect_name: Featherfall, Form of the Ghost Bear
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Form of the Ghost Bear when Activated.\n  - Shapechanges the user into a Ghost Bear.\n  - The casting time of Form of the Ghost Bear is 3.0 seconds and the reuse time of the spell is 10.0 seconds"
 obtained_from: From [[Fur Lined Cloak (crate)|Fur Lined Cloak]]
 item_link: \aITEM 503918349 1653187898:Fur Lined Cloak\/a
 categories:

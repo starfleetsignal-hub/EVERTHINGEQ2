@@ -17,7 +17,8 @@ stats:
   dps: '26.4'
   multi: '19'
   vselemental: +29,243
-effects: '**The Finisher**'
+effect_name: The Finisher
+effects: "- When Equipped:\n  - Increases Potency of caster by 80.0.\n  - Improves the potency of all abilities by 135% when the target is below 50% health.  This effect will not stack with any other finisher effect.\n    - This effect will not stack with any other Finisher effect."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -492351830 -1036701356:Martial Arcannium Hoop\/a
 categories:

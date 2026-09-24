@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Symbols
-effects: '**Symbolic Fury**'
+effect_name: Symbolic Fury
+effects: "- Applies Symbolic Fury when Equipped.\n  - Increases DPS of caster by 15.0."
 item_link: \aITEM -586705623 -1678796960:Symbol of Mystic Etchings\/a
 categories:
 - Census Credits

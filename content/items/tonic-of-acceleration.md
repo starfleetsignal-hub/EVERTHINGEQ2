@@ -6,7 +6,7 @@ slot: Charm
 flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   charges: '1'
-effects: Acceleration of the Tranquil
+effects: "- Applies **'Acceleration of the Tranquil**' when Activated. Lasts for 30.0 seconds.\n  - Increases speed of caster by 60%\n  - Must be in Deathfist Citadel: Prison Break."
 obtained_from: 'Quest: [[Peaceful Prison Break]]'
 image: images/Ataraxic_shroud.gif
 removed_from_game: Part of the [[Return of the Gods Timeline]]

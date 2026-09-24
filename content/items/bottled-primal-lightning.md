@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Turbulent Tempest**'
+effect_name: Turbulent Tempest
+effects: "- Applies Turbulent Tempest when Activated.\n  - Summons a great storm that heals and buffs all allies in its radius, while damaging all foes. Only one Turbulent Tempest will heal the raid at a time. Lasts for 20.0 seconds.\n  - The reuse time of Turbulent Tempest is 1 minute"
 item_link: \aITEM 171819167 2058572391:Bottled Primal Lightning\/a
 categories:
 - Ability Modifier (Equipment)

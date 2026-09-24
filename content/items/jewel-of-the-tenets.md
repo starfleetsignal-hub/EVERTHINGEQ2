@@ -17,7 +17,8 @@ stats:
   resolve: '23'
   flurry: '27'
   vselemental: +55,296
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 obtained_from: From [[Satchel of Thule]]
 item_link: \aITEM 1868503402 769810711:Jewel of the Tenets\/a
 categories:

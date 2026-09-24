@@ -17,7 +17,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   dtype: Chain Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Subordination Insubordination]]'
 item_link: \aITEM 1413420303 1163349748:Gleaming Shoulderpads of Ulteran Conquerors\/a
 categories:

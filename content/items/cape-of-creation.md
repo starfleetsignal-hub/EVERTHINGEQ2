@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '63'
   dtype: Cloth Armor
-effects: '**Summon Creation**'
+effect_name: Summon Creation
+effects: "- Applies Summon Creation when Activated.  Lasts for 30.0 seconds.\n  - Summons a limited pet to aid the caster\n  - The casting time of Summon Creation is 2.0 seconds and the reuse time of the spell is 15 minutes\n  - Requires 117 Power to cast."
 item_link: \aITEM -658168595 1479263608:Cape of Creation\/a
 categories:
 - Assassin Equipment

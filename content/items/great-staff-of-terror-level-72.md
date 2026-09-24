@@ -20,7 +20,8 @@ stats:
   drating: '128.52'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: '[[The Mystery of the Cursed Tower]]'
 item_link: \aITEM 1151991926 -1560289462:Great Staff of Terror\/a
 categories:

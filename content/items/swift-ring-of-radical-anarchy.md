@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,736
-effects: '**Radical Anarchy**'
+effect_name: Radical Anarchy
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Radical Anarchy III on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Strikethrough of target by 8.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1304811048 -450615852:Swift Ring of Radical Anarchy\/a
 categories:
 - AE Autoattack Chance (Equipment)

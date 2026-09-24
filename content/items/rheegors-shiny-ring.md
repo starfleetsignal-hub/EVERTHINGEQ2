@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   vselemental: '+511'
-effects: '**Critical Aegis**'
+effect_name: Critical Aegis
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Critical Aegis on caster.  Lasts for 24.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Max Health of group members by 500.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -15339571 -1738164006:Rhee'Gor's Shiny Ring\/a
 categories:
 - Ability Modifier (Equipment)

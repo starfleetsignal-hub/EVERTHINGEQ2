@@ -17,7 +17,8 @@ stats:
   potency: '1.2'
   dps: '4.6'
   dtype: Leather Armor
-effects: '**Flowing Warrior''s Wish**'
+effect_name: Flowing Warrior's Wish
+effects: "- Applies Flowing Warrior's Wish when Activated.  Lasts for 7.5 seconds.\n  - Caster will Riposte 100.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n  - Must have Jerkin of the Coming Storm equipped.\n  - The casting time of Flowing Warrior's Wish is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 1385554368 810202154:Jerkin of the Coming Storm\/a
 categories:
 - Brawler Equipment

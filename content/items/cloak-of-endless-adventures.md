@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: ornate attunable heirloom no-value
 description: This durable cloak is handcrafted from rugged leather and is sure to last for years.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM -115256115 1358503780:Cloak of Endless Adventures\/a
 categories:

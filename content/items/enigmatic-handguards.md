@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   dtype: Chain Armor
-effects: '**Frost Gale**'
+effect_name: Frost Gale
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Frost Gale on target's attacker.  Lasts for 0.3 seconds.\n    - Throws target back\n    - Inflicts 124 - 207 cold damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -122436207 1903236567:Enigmatic Handguards\/a
 categories:
 - Assassin Equipment

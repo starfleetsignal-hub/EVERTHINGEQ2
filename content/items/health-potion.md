@@ -9,7 +9,7 @@ stats:
   charges: 3/3
   casting: 1.0 second
   recast: 5 minutes
-effects: Health Potion
+effects: "- Applies Health Potion when Activated.\n  - Heals caster for 100.0% of max health.\n    - This effect cannot be critically applied.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 641512384 1615940054:Health Potion\/a
 categories:
 - Assassin Equipment

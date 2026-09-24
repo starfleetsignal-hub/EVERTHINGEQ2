@@ -13,7 +13,8 @@ stats:
   mit: '153'
   potency: '0.2'
   dtype: Leather Armor
-effects: '**Languor**'
+effect_name: Languor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Languor on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases DPS of target encounter by 5.0 - 8.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -644395876 1891877385:Reinforced Gloves of the Ardent\/a
 categories:
 - Assassin Equipment

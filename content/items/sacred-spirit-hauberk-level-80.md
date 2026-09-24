@@ -17,7 +17,8 @@ stats:
   aspeed: '6.9'
   multi: '7.7'
   dtype: Chain Armor
-effects: '**Successive Blows**'
+effect_name: Successive Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Successive Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 9.0.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 769781266 -1059101066 0 0 0:Sacred Spirit Hauberk\/a
 categories:

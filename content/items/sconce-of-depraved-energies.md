@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Ancient Energy**'
+effect_name: Ancient Energy
+effects: "- Applies Ancient Energy II when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of group members (AE) by 2.2 - 41.8.\n  - Cannot be modified except by direct means\n  - The reuse time of Ancient Energy II is 1 minute 30 seconds"
 item_link: \aITEM -596807755 1148043021:Sconce of Depraved Energies\/a
 categories:
 - Ancient Energy (Equipment)

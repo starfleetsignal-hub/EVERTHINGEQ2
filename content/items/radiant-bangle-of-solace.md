@@ -14,7 +14,8 @@ stats:
   potency: '0.5'
   dps: '2.2'
   vsarcane: '+130'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality V on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 500 points of all damage\n    - Wards caster against 250 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 50) from [[Ancient Knowledge: Radiant Bangle of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 1964163789 2067998389:Radiant Bangle of Solace\/a
 categories:

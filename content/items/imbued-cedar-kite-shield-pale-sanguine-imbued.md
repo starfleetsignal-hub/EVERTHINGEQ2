@@ -12,7 +12,8 @@ stats:
   int: '+13'
   potency: '0.2'
   dtype: Kite Shield
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 85 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1464597040 707245868:imbued cedar kite shield\/a
 categories:
 - Berserker Equipment

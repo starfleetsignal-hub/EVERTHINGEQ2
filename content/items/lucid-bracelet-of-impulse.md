@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vsarcane: '+517'
-effects: '**Overwhelming Power**'
+effect_name: Overwhelming Power
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Overwhelming Power IX on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Overwhelming Power IX on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 90) from [[Ancient Knowledge: Lucid Bracelet of Impulse]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -235590072 -104067652:Lucid Bracelet of Impulse\/a
 categories:

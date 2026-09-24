@@ -11,7 +11,8 @@ stats:
   str: '+28'
   sta: '+52'
   vsarcane: '+800'
-effects: '**Rotting Shield**'
+effect_name: Rotting Shield
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rotting Shield on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 1,000 points of physical damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 2123045695 -1217270064:Rotting Flesh Band\/a
 categories:

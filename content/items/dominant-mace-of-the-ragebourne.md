@@ -22,7 +22,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Aegis**'
+effect_name: Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Aegis II on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 4,400 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1989427511 458486801:Dominant Mace of the Ragebourne\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   strike: '4.9'
   multi: '67.7'
   mitinc: '3.5'
-effects: '**Death''s Dance**'
+effect_name: Death's Dance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 3.0%.\n  - Increases Health Regen of caster by 15.0.\n  - Increases Max Health of caster by 1,440.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1966259551 1700371258 0 0 0:Cloak of the Long Dead\/a
 categories:
 - Berserker Equipment

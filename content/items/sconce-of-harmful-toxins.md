@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Toxins**'
+effect_name: Toxins
+effects: "- Applies Toxins III when Activated.  Lasts for 1 minute.\n  - Increases Weapon Damage of caster by 12.0.\n  - Converts damage spells to poison damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Toxins III is 1 minute"
 item_link: \aITEM -1555653536 1450029299:Sconce of Harmful Toxins\/a
 categories:
 - Assassin Equipment

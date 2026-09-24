@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   aspeed: '5.6'
   dtype: Plate Armor
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 5.0%."
 item_link: \aITEM -1405867369 -1673890027:Hammered Bracers\/a
 categories:
 - Attack Speed (Equipment)

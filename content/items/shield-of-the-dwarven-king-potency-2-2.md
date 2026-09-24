@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   aspeed: '5.6'
   dtype: Tower Shield
-effects: '**Rush To Battle**'
+effect_name: Rush To Battle
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Rush To Battle on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces physical damage done to caster by 5%.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 449178898 -2061036650:Shield of the Dwarven King\/a
 categories:
 - Attack Speed (Equipment)

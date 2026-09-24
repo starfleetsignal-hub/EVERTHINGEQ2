@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**The Assailant**'
+effect_name: The Assailant
+effects: "- When Equipped:\n  - Increases DPS of caster by 21.8.\n  - Increases Ability Mod of caster by 1,250.0."
 item_link: \aITEM -2144338861 -738908868:Fabled Assailing Necklace of the Abomination\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   dps: '13'
   vsarcane: '+400'
-effects: '**Amazing Presence**'
+effect_name: Amazing Presence
+effects: "- Applies Amazing Presence when Activated.  Lasts for 15.0 seconds.\n  - On a healing spell cast this spell will cast Amazing Presence on target of spell cast.\n    - Dispels 93 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - The reuse time of Amazing Presence is 5 minutes"
 item_link: \aITEM 864297868 1608526987:Frozen Font of Life\/a
 categories:
 - Ability Modifier (Equipment)

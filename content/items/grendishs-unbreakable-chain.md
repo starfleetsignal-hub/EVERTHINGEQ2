@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   abmod: +1,250
-effects: '**Unbreakable Warding**'
+effect_name: Unbreakable Warding
+effects: "- When Equipped:\n  - The shaman's primary ward grants a 10% chance when taking damage to stoneskin the next attack greater than 30% of the target's life."
 obtained_from: From [[Elaborate Ethertouched Necklace]]
 item_link: \aITEM 222271926 -1280668417:Grendish's Unbreakable Chain\/a
 categories:

@@ -10,7 +10,8 @@ flags: no-trade
 stats:
   sta: '+13'
   agi: '+13'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 15.0."
 obtained_from: '[[A Horn Aplenty]]'
 item_link: \aITEM -1526658107 478617482:Amulet of the Frostgiant\/a
 categories:

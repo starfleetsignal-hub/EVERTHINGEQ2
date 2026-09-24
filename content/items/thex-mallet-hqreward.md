@@ -21,7 +21,8 @@ stats:
   drating: '128.52'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Mark of the Imprisoned**'
+effect_name: Mark of the Imprisoned
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mark of the Imprisoned on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 974 divine damage on target.\n    - Heals caster for 1,076.\n    - Increases Defense of caster by 8.0.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Book of Thex (Quest)|The Book of Thex]]'
 item_link: \aITEM -1299561169 1352188948:Thex Mallet\/a
 categories:

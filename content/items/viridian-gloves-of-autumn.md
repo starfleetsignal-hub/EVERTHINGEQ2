@@ -16,7 +16,8 @@ stats:
   potency: '7.7'
   dps: '17'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[A Jagged Branch]]'
 item_link: \aITEM -1476013814 1268529728:Viridian Gloves of Autumn\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   dps: '21.9'
   multi: '14'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[High Shinu-Zonn Cerulea]] in [[Citadel of V'uul]]
 item_link: \aITEM -928676009 706769301:Maestro's Cuffs of the Citadel\/a
 categories:

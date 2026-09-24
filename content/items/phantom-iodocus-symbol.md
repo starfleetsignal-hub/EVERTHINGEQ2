@@ -17,7 +17,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Stunning Blast**'
+effect_name: Stunning Blast
+effects: "- Applies Stunning Blast III when Activated.  Lasts for 7.5 seconds.\n  - Stuns targets in Area of Effect\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Stunning Blast III is 2 minutes 40 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 96) from [[Jeweler Essentials Volume 96]]
 item_link: \aITEM -1186771322 -86517818:Phantom Iodocus Symbol\/a
 image: images/Phantom_Iodocus_Symbol.png

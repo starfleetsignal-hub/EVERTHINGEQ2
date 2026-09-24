@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Leather Armor
-effects: '**Uncontrolled Healing**'
+effect_name: Uncontrolled Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 214.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell may cast Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 214.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -504682176 1649668073 0 0 0:Graven Essence Jerkin\/a
 categories:
 - Casting Speed (Equipment)

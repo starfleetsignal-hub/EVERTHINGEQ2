@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   aspeed: '0.1'
   dtype: Buckler
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 87 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1826804802 -313522643:Imbued Sandalwood Buckler\/a
 categories:
 - Assassin Equipment

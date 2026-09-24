@@ -17,7 +17,8 @@ stats:
   aspeed: '7.2'
   mitinc: '5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 2099914397 -569283951 0 0 0:Champion's Mirror Gauntlets\/a
 categories:

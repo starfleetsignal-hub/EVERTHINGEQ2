@@ -16,7 +16,8 @@ stats:
   abmod: '+835'
   dps: '28.8'
   vselemental: +33,491
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM -1402176802 -2062795136:Earring of Triage\/a
 categories:
 - Ability Modifier (Equipment)

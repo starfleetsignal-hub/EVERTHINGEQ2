@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: This cape's colors and stylish embroidery handily conceal travel stains, so you always look your best when wearing it no matter how far you've traveled.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 299503975 -1290348618:Traveler's Joy\/a
 categories:

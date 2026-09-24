@@ -17,7 +17,8 @@ stats:
   potency: '7'
   aspeed: '10.7'
   dtype: Cloth Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Subordination Insubordination]]'
 item_link: \aITEM -1250100579 606364292:Resplendent Sleeves of Ulteran Conquerors\/a
 categories:

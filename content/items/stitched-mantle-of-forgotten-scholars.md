@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   aspeed: '7.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '[[Hunting for a Headstone]]'
 item_link: \aITEM -1182355536 -1465097860:Stitched Mantle of Forgotten Scholars\/a
 categories:

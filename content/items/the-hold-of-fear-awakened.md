@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   aspeed: '36.3'
   dtype: Plate Armor
-effects: '**Fallible Prescience**'
+effect_name: Fallible Prescience
+effects: "- When Equipped:\n  - Increases Potency of caster by 5,005.6.\n  - Increases Crit Bonus Overcap of caster by 237.7.\n  - This effect will improve as you complete stages of the achievement Fear in Focus.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1696299435 -1128205724:The Hold of Fear, Awakened\/a
 categories:
 - Assassin Equipment

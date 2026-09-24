@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   dps: '11'
   vselemental: '+360'
-effects: '**Sorcerous Alacrity**<br>**Blood Sacrifice**'
+effect_name: Sorcerous Alacrity, Blood Sacrifice
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent.\n- Applies Blood Sacrifice when Activated.  Lasts for 30.0 seconds.\n  - Increases cast time and halves healing of all beneficial spells.\n  - Increases hostile Spell  and Combat Art damage by 10%.\n  - The casting time of Blood Sacrifice is 0.5 seconds"
 item_link: \aITEM 592251670 743317120:Ring of Rage\/a
 aliases:
 - Ring of Rage

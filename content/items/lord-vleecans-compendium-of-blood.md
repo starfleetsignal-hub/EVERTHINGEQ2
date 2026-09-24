@@ -18,7 +18,8 @@ stats:
   resolve: '210'
   dps: '74.3'
   mitinc: '30.7'
-effects: '**Deadly Insight**'
+effect_name: Deadly Insight
+effects: "- Applies Deadly Insight when Activated.  Lasts for 1 minute 30 seconds.\n  - Increases Weapon Damage of caster by 64.8.\n  - Increases Weapon Damage Overcap of caster by 64.8.\n  - Increases the damage and healing of spells and combat arts by 10.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Deadly Insight is 2.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1155547715 1545060675:Lord Vleecan's Compendium of Blood\/a
 categories:
 - Assassin Equipment

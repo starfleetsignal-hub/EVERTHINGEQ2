@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   vselemental: '+360'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM -1757671654 225971686:Bangle of the Sapient Scholar\/a
 categories:
 - Arcane Resistance (Equipment)

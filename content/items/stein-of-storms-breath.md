@@ -15,7 +15,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   aspeed: '31.2'
-effects: '**Kiss of Life**'
+effect_name: Kiss of Life
+effects: "- Applies Kiss of Life III when Activated.\n  - This effect can be cast while casting other abilities\n  - Instantly heals the group for 60,000. If the wearer is a priest, the group will be healed for 360,000.\n  - Cannot be modified except by direct means\n  - The reuse time of Kiss of Life III is 1 minute 30 seconds"
 item_link: \aITEM -869696006 1972092479:Stein of Storm's Breath\/a
 aliases:
 - Stein of Storm's Breath (0 Gem)

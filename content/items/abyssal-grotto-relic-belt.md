@@ -18,7 +18,8 @@ stats:
   potency: 52,704.7
   resolve: '660'
   dps: '81.6'
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 1,078.1.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 863217876 1934783556:Abyssal Grotto Relic Belt\/a
 categories:
 - Assassin Equipment

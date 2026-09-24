@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Inspiring Toughness**'
+effect_name: Inspiring Toughness
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Inspiring Toughness on the raid.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus of raid and group members (AE) by 2.0, multiplied by increment stacks.\n    - Increases Mitigation of caster vs physical damage by 0, multiplied by increment stacks.\n    - This effect can stack from multiple casters. Increments up to 10 times.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 seconds."
 item_link: \aITEM -41665908 747629799:Keplin's Hardened Earring\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1947572109 -1077154616:Pacifier's Gauntlets of Reform\/a
 categories:
 - Berserker Equipment

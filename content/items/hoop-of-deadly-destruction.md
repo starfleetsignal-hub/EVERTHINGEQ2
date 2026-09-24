@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   aspeed: '7.3'
   vselemental: '+400'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 6 percent."
 item_link: \aITEM -2143234342 1884469741:Hoop of Deadly Destruction\/a
 categories:
 - Ability Modifier (Equipment)

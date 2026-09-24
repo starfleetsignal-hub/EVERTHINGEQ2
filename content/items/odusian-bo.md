@@ -18,7 +18,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Scourge Bolt Glyph**'
+effect_name: Scourge Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 51 - 63 disease damage on target.\n    - Inflicts 48 - 59 disease damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1002466929 1009047999:Odusian Bo\/a
 categories:
 - Ability Modifier (Equipment)

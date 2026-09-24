@@ -16,7 +16,8 @@ stats:
   abmod: '+165'
   dps: '62.5'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: From [[Crate of Ethereal Goodies]]
 item_link: \aITEM 1011569685 226131524 0 0 0:Samhain Fear-Touched Gloves\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   crit: '1.1'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Titan''s Mettle**'
+effect_name: Titan's Mettle
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Titan's Mettle VI on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 520 - 635.\n    - Increases Mitigation of caster vs physical damage by 682.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 obtained_from: '*Crafted by [[Sage]] (level 60) from [[Ancient Knowledge: Fortified Crag of Rancor]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 12809029 -2002253878:Fortified Crag of Rancor\/a
 categories:

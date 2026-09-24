@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   potency: '0.2'
   abmod: '+7'
-effects: '**Fatal Pestilience**'
+effect_name: Fatal Pestilience
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Pestilience IV on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 45 - 49 disease damage on targets in Area of Effect.\n    - Inflicts 56 - 62 disease damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 4 - 4 disease damage on targets in Area of Effect every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 40) from [[Ancient Knowledge: Lucid Gemstone of Volatility]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -1874794518 -1435965591:Lucid Gemstone of Volatility\/a
 categories:

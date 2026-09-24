@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   multi: '1.3'
   dtype: Round Shield
-effects: '**Weakness**<br>**Flame Pillar**'
+effect_name: Weakness, Flame Pillar
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Weakness on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases STR of target by 37.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a combat hit this spell may cast Flame Pillar on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 46 - 76 heat damage on target every 4.8 seconds.\n    - Inflicts 112 - 186 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -791616226 100560073:Uktrl's Round Shield of Stealth\/a
 categories:
 - AE Autoattack Chance (Equipment)

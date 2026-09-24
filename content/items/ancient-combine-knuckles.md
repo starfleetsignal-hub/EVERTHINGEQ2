@@ -20,7 +20,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Ancient Glyph of Striking**'
+effect_name: Ancient Glyph of Striking
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 166 - 277 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1611693364 -1263609137:Ancient Combine Knuckles\/a
 categories:
 - Ability Modifier (Equipment)

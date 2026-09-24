@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   abmod: +1,250
-effects: '**The Soulrender**'
+effect_name: The Soulrender
+effects: "- When Equipped:\n  - Increases Ability Mod of caster by 2,500.0."
 item_link: \aITEM 270875004 1493659055:Fabled Beaded Necklace of Rending\/a
 categories:
 - Ability Modifier (Equipment)

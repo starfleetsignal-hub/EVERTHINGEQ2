@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dps: '15.2'
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 378.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2086253889 284403959:Necklace of Beaded Water\/a
 categories:
 - Ability Modifier (Equipment)

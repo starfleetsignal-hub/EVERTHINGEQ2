@@ -15,7 +15,8 @@ stats:
   potency: '13.1'
   dps: '29.1'
   dtype: Chain Armor
-effects: '**Pentamerous Decimation**'
+effect_name: Pentamerous Decimation
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 1757585024 1202438486 0 0 0:Hydra Scale Chain Gloves\/a
 categories:
 - Census Credits

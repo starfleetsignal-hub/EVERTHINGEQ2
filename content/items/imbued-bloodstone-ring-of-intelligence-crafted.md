@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+10'
   vsarcane: '+100'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 10.3.\n    - Increases Disruption, Subjugation and Focus of caster by 6.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 46) from [[Jeweler Essentials Volume 46 (Normal)]] *Crafted by [[Jeweler]] (level 46) from [[Jeweler Essentials Volume 46 (no-trade)]]'
 item_link: \aITEM 285433493 -1434071508:Imbued Bloodstone Ring of Intelligence\/a
 categories:

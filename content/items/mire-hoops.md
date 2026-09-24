@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +16,380
-effects: '**Loose Limbs**'
+effect_name: Loose Limbs
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Loose Limbs on target of attack.  Lasts for 15.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases DPS of target by 25.0.\n    - This spell will not stack if cast by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 357881162 433651023:Mire Hoops\/a
 categories:
 - Arcane Resistance (Equipment)

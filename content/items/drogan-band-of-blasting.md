@@ -16,7 +16,8 @@ stats:
   abmod: '+95'
   aspeed: '5.6'
   vselemental: '+315'
-effects: '**Concussive Blast**'
+effect_name: Concussive Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Concussive Blast on target of spell.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Stuns target\n    - Must not be engaged in pvp combat\n    - Only affects targets level 125 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1861324563 1332587045:Drogan Band of Blasting\/a
 categories:
 - Ability Modifier (Equipment)

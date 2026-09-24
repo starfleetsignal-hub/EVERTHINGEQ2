@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +22,204
-effects: '**Murder and Mayhem**'
+effect_name: Murder and Mayhem
+effects: "- When Equipped:\n  - On a death blow this spell will cast Murder and Mayhem II on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus and Potency by 4.5 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1704958368 574495012:Bloody Tendrils\/a
 categories:
 - Arcane Resistance (Equipment)

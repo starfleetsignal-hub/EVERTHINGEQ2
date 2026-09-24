@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -2046908086 884708714:Corrupted Orb of Stilled Lava\/a
 aliases:
 - Corrupted Orb of Still Lava

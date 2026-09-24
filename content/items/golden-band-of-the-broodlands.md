@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Curse Armor**'
+effect_name: Curse Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curse Armor on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 962.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 obtained_from: '*Marketplace *[[The Fallen Tear]]'
 item_link: \aITEM 1781553923 -759460383:Golden Band of the Broodlands\/a
 image: images/Golden_Band_of_the_Broodlands.png

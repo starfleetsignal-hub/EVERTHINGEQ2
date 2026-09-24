@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   multi: '31.2'
-effects: '**To Arms**'
+effect_name: To Arms
+effects: "- When Equipped:\n  - Increases Potency of caster by 22.0.\n  - Cannot be modified except by direct means\n- Applies To Arms II when Activated.  Lasts for 15.0 seconds.\n  - Increases Weapon Damage of group members (AE) by 18.0.\n  - Suspends the passive effect for 15 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of To Arms II is 1 minute"
 item_link: \aITEM 1031983192 -107668127:Fabled Abominable Trophy\/a
 categories:
 - AE Autoattack Chance (Equipment)

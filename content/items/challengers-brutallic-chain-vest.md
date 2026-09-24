@@ -16,7 +16,8 @@ stats:
   abmod: '+40'
   multi: '4'
   dtype: Chain Armor
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,598 - 2,398 poison damage on target\n    - Heals caster for 1,065 - 1,597\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of Baast]] (Battlegrounds Merchant) in [[Cities]]
 item_link: \aITEM -1079540825 1179110066:Challenger's Brutallic Chain Vest\/a
 categories:

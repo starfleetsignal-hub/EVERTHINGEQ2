@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   vselemental: '+440'
   mitinc: '7'
-effects: '**Undeath**'
+effect_name: Undeath
+effects: "- When Equipped:\n  - Increases Unconscious Health of caster by 1,800.0."
 item_link: \aITEM -127267235 -762602609:Brace of Ykeshan Dominance\/a
 categories:
 - Arcane Resistance (Equipment)

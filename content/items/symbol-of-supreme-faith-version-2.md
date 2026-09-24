@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Symbols
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Miscellania Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 666883079 -269611534:Symbol of Supreme Faith\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Languid Pace**'
+effect_name: Languid Pace
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Languid Pace V on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.4 times per minute.\n    - Decreases Haste of target by 14.0.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of War]] in [[Neriak, City of Hate]]
 item_link: \aITEM 1099862084 1431532859:Mantle of Harmonious Auras\/a
 categories:

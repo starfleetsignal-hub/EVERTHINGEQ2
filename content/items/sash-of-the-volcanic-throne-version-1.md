@@ -14,7 +14,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   strike: '7.6'
-effects: '**Volcanic Wrath**'
+effect_name: Volcanic Wrath
+effects: "- Applies Volcanic Wrath when Activated.  Lasts for 15.0 seconds.\n  - Increases the base damage of all hostile spells by 12%.\n  - The reuse time of Volcanic Wrath is 3 minutes"
 item_link: \aITEM -287751671 1889557559:Sash of the Volcanic Throne\/a
 categories:
 - Bard Equipment

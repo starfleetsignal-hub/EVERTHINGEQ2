@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Tunare''s Grace**'
+effect_name: Tunare's Grace
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Tunare's Grace on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 476 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1589999156 553402629:Tunare's Wrath\/a
 categories:
 - Ability Modifier (Equipment)

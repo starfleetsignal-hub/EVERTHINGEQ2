@@ -15,7 +15,8 @@ stats:
   crit: '7'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 item_link: \aITEM -6764205 -1494765610:Tormenting Vambraces\/a
 categories:
 - Ability Modifier (Equipment)

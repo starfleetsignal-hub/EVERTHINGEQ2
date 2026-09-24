@@ -17,7 +17,8 @@ stats:
   aspeed: '6.9'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Empowered Magic**'
+effect_name: Empowered Magic
+effects: "- When Equipped:\n  - Increases base Spell damage by 5%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -775562635 1893811906 0 0 0:Scintillating Silk Mantle\/a
 categories:

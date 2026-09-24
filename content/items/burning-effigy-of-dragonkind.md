@@ -18,7 +18,8 @@ stats:
   abmod: +271,139
   cbovercap: '+1455.3'
   dtype: Symbols
-effects: '**Gaze Distraction**'
+effect_name: Gaze Distraction
+effects: "- Applies Gaze Distraction when Activated.\n  - Decreases threat priority of target by 24 positions\n  - The reuse time of Gaze Distraction is 3 minutes"
 item_link: \aITEM -1162903622 -350065871:Burning Effigy of Dragonkind\/a
 categories:
 - Ability Modifier (Equipment)

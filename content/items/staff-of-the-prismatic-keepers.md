@@ -21,7 +21,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Prismatic Guardians Rage**'
+effect_name: Prismatic Guardians Rage
+effects: "- Applies Prismatic Guardians Rage when Equipped.\n  - On a combat hit this spell may cast Prismatic Guardians Rage on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 179 heat damage on target.\n    - Inflicts 179 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -782065169 1279009779:Staff of the Prismatic Keepers\/a
 categories:
 - Ability Modifier (Equipment)

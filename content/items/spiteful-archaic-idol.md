@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Salvo**'
+effect_name: Salvo
+effects: "- Applies Salvo III when Activated.  Lasts for 20.0 seconds.\n  - Increases the wearer's Crit Bonus and Potency by 150 and an additional 3.8 Crit Bonus and Potency for each other Salvo active in the raid at the same time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Salvo III is 1 minute"
 item_link: \aITEM 906228555 -1736578740:Spiteful Archaic Idol\/a
 categories:
 - AE Autoattack Chance (Equipment)

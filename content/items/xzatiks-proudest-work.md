@@ -24,7 +24,8 @@ stats:
   drating: '336.33'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.1%.\n    - Inflicts 1,960 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -475418070 -2083584772:Xzatik's Proudest Work\/a
 categories:
 - AE Autoattack Chance (Equipment)

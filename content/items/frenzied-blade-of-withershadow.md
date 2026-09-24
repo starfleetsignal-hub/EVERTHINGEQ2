@@ -26,7 +26,8 @@ stats:
   drating: '260.86'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Shadow Strike**'
+effect_name: Shadow Strike
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 9% chance to cast Shadow Strike on target of spell.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 12,563 magic damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of pierce, slash or crush abilities.\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM 176140983 -1892220189:Frenzied Blade of Withershadow\/a
 categories:
 - Assassin Equipment

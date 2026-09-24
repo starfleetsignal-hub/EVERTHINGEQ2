@@ -17,7 +17,8 @@ stats:
   abmod: +1,527
   aspeed: '34.5'
   dps: '13.2'
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 48%-120%. The value increases based on how long the wearer has stood still."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -191977313 586303393:Hammered Arcannium Torque\/a
 categories:

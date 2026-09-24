@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   multi: '16.5'
   vselemental: +1,728
-effects: '**Aegis**'
+effect_name: Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Aegis III on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 4,620 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2048711598 350240025 0 0 0:Furious Hoop of the Phantasm\/a
 categories:
 - Aegis (Equipment)

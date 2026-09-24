@@ -11,7 +11,8 @@ stats:
   str: '+14'
   sta: '+14'
   dtype: Symbols
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 12.0.\n  - This effect suspends during combat"
 item_link: \aITEM 2096526163 -387764764:Idol of Focus\/a
 categories:
 - Assassin Equipment

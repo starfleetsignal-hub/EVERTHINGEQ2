@@ -16,7 +16,8 @@ stats:
   aspeed: '4.3'
   flurry: '2.3'
   vsarcane: '+630'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 21.0."
 item_link: \aITEM 1971810263 -543908272:Barbed Bracelet of Bloodletting\/a
 categories:
 - Arcane Resistance (Equipment)

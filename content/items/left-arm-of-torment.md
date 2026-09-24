@@ -18,7 +18,8 @@ stats:
   potency: '450.2'
   resolve: '25'
   dtype: Plate Armor
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 obtained_from: From [[Pauldrons of The Summoned]]
 item_link: \aITEM 949579946 -1699435505:Left Arm of Torment\/a
 categories:

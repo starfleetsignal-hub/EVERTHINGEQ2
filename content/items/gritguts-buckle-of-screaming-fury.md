@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Screaming Fury**'
+effect_name: Screaming Fury
+effects: "- Applies Screaming Fury when Activated.  Lasts for 8.0 seconds.\n  - Makes target afraid\n  - 20% chance to dispel when target takes damage\n  - 20% chance to dispel when target receives hostile action\n  - If under level 18\n  - Resistibility increases against targets higher than level 20.\n  - The casting time of Screaming Fury is 2.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: Quest reward from [[What Happens in the Scale Yard Stays...]]
 item_link: \aITEM -1838894340 -2098157147:Gritgut's Buckle of Screaming Fury\/a
 categories:

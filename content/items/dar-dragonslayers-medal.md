@@ -18,7 +18,8 @@ stats:
   resolve: '380'
   abmod: +230,467
   mitinc: '33.6'
-effects: '**Runic Redemption**'
+effect_name: Runic Redemption
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 9% chance to cast Runic Redemption on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 4 points of all damage\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 16.0 - 20.0 seconds."
 item_link: \aITEM 2098040994 -971177695:Dar Dragonslayer's Medal\/a
 categories:
 - Ability Modifier (Equipment)

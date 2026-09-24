@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   multi: '6.4'
   vselemental: '+360'
-effects: '**Foresight of the Ankexfen**'
+effect_name: Foresight of the Ankexfen
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Foresight of the Ankexfen on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell by 25%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Standards of the Goblin Tribes]]'
 item_link: \aITEM 733583127 1356004522:Totem of the Ankexfen\/a
 image: images/Totem_of_the_Ankexfen.jpg

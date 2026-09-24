@@ -16,7 +16,8 @@ stats:
   strike: '12.2'
   abmod: '+217'
   aspeed: '11.2'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -427956198 2116643793:Kaborite Plated Girdle\/a
 categories:
 - Ability Modifier (Equipment)

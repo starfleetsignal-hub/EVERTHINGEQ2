@@ -15,7 +15,8 @@ stats:
   potency: '7.5'
   dps: '16.7'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -1493770988 277819762:Gloves of the Last Rite\/a
 categories:
 - Census Credits

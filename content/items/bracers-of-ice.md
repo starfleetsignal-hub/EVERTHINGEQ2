@@ -14,7 +14,8 @@ stats:
   crit: '0.5'
   potency: '0.8'
   dtype: Chain Armor
-effects: '**Mental Feedback**'
+effect_name: Mental Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 103 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -300776033 1772268765:Bracers of Ice\/a
 categories:
 - Assassin Equipment

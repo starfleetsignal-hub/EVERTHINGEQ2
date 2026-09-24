@@ -5,7 +5,7 @@ item_kind: Equipment
 level: (varies)
 slot: Charm
 flags: LORE NO-TRADE
-effects: Short Root
+effects: "- Applies Short Root when Activated.\n  - Lasts (varies, see notes).\n  - Increases speed of caster by x."
 obtained_from: A [[Carnivorous Plant]]
 categories:
 - Assassin Equipment

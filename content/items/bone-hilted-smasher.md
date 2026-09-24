@@ -20,7 +20,8 @@ stats:
   drating: '157.56'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Followthrough**<br>**Slayer''s Conviction**'
+effect_name: Followthrough, Slayer's Conviction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 piercing damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Slayer's Conviction on caster.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Increases DPS of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2076465586 943431406:Bone Hilted Smasher\/a
 categories:
 - Ability Modifier (Equipment)

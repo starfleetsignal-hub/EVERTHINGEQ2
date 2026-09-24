@@ -14,7 +14,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   strike: '13.5'
-effects: '**Scathing Sands**'
+effect_name: Scathing Sands
+effects: "- When Equipped:\n  - When damaged this spell has a 8% chance to cast Scathing Sands on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 4,165\n    - Inflicts 1,998 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Scathing Sands on target of attack.  Triggers about 1.6 times per minute.\n    - Increases Threat to target by 4,165\n    - Inflicts 1,998 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1648302702 -944568198:Jeweled Claw of Amenophas\/a
 categories:
 - AE Autoattack Chance (Equipment)

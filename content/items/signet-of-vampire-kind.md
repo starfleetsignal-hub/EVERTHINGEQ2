@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vselemental: '+400'
-effects: '**Barrier**<br>**Energy Drain**'
+effect_name: Barrier, Energy Drain
+effects: "- When Equipped:\n  - On a block this spell has a 20% chance to cast Barrier on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 750 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 90.\n    - Increases power of caster by 161.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Vampire Hunter''s Lockbox]]'
 item_link: \aITEM -839770960 914193883:Signet of Vampire Kind\/a
 categories:

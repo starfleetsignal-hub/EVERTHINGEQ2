@@ -17,7 +17,8 @@ stats:
   dps: '20.9'
   multi: '27.4'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1060061906 -660770789 0 0 0:Primaeval Sinewbound Gloves\/a
 categories:
 - Accuracy (Equipment)

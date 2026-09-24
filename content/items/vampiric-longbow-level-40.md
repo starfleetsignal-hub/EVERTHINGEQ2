@@ -19,7 +19,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Siphon Essence**'
+effect_name: Siphon Essence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Siphon Essence on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 56 - 68.\n    - Inflicts 100 - 149 magic damage on target.\n    - Increases power of caster by 52 - 71.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -243310723 -840405668:Vampiric Longbow\/a
 aliases:
 - Vampiric Longbow (Level 50)

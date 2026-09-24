@@ -16,7 +16,8 @@ stats:
   aspeed: '36'
   dps: '13.8'
   vselemental: +29,521
-effects: '**Consort of Fear**'
+effect_name: Consort of Fear
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 70.0.\n  - On any combat or spell hit this spell may cast Consort of Fear on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Summons a frightful gaze to attack your target at range.\n    - Summons one thulian shadowknight with high health and a stacking strength tap spell.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 30.0 seconds."
 item_link: \aITEM 1442242434 -981610491:Thule's Fearless Stud of Servants\/a
 categories:
 - Ability Modifier (Equipment)

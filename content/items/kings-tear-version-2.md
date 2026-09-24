@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   vsarcane: '+280'
-effects: '**Minor Aggravation**'
+effect_name: Minor Aggravation
+effects: "- When Equipped:\n  - On a hit this spell may cast Minor Aggravation on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 393\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1931867848 -1935704025 0 0 0:King's Tear\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   dtype: Cloth Armor
-effects: '**Powerfont**'
+effect_name: Powerfont
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 10% chance to cast Powerfont on caster.  Lasts for 7.0 seconds.\n    - Powerfont will increase the damage of hostile spells by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1385887557 -88363437:Vine-wrapped Boots\/a
 categories:
 - Ability Modifier (Equipment)

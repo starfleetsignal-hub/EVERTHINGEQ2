@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   multi: '8.1'
   vselemental: '+400'
-effects: '**Blazing Rage of the Commander**'
+effect_name: Blazing Rage of the Commander
+effects: "- When Equipped:\n  - On a hit this spell may cast Blazing Rage of the Commander on caster.  Lasts for 35.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR and AGI of caster by 35.0.\n    - Increases DPS of caster by 35.0.\n    - Increases Haste of caster by 35.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 624768608 -529115457:Band of the Ancient Kunark Commander\/a
 categories:
 - Ability Modifier (Equipment)

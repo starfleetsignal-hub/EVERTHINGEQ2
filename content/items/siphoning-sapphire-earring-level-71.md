@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   dps: '9.7'
   vselemental: '+320'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 133.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1344838024 1782428725:Siphoning Sapphire Earring\/a
 categories:
 - Arcane Resistance (Equipment)

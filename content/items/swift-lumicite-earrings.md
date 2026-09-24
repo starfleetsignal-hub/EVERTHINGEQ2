@@ -16,7 +16,8 @@ stats:
   abmod: +1,527
   aspeed: '17.2'
   vselemental: +29,243
-effects: '**Power of Malice**'
+effect_name: Power of Malice
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 72. If the wearer is the top of an enemy's hatelist, the value is increased to 96.\n  - Increases the wearer's health by 20,000. If the wearer is the top of an enemy's hatelist, the value is increased to 42,000."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1089033208 -1384866775:Swift Lumicite Earrings\/a
 categories:

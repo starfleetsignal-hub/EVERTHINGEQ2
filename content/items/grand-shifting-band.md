@@ -14,7 +14,8 @@ stats:
   abmod: '+136'
   multi: '8'
   vsarcane: '+837'
-effects: '**Greater Averted Eyes**'
+effect_name: Greater Averted Eyes
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Greater Averted Eyes on target's attacker.\n    - Forces target to clear their selected target.\n    - Inflicts 500 - 612 divine damage on target\n    - This effect will not stack with Averted Eyes.\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 15.0 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 681739173 -915437363:Grand Shifting Band\/a
 categories:
 - Ability Modifier (Equipment)

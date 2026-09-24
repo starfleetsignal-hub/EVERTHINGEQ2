@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   dps: '23.1'
   flurry: '19.2'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 58 and 158 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 1720492749 1575883809:Shroud of the Fanatic\/a
 categories:
 - All for One (Equipment)

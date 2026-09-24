@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+11'
   agi: '+11'
-effects: '**Fiery Feedback**'
+effect_name: Fiery Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 1% chance to cast Fiery Feedback on target's attacker.\n    - Inflicts 76 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1047643090 1815505339:Sunsoaked Bangle\/a
 categories:
 - Assassin Equipment

@@ -11,7 +11,7 @@ description: Only an 100th and higher seasoned adventurer or tradeskiller will b
 stats:
   duration: 10 days
   charges: Unlimited
-effects: Summon Herrol Nightdrifter
+effects: "Applies Summon Herrol Nightdrifter when Activated.\n\n- Increases caster's chance to block by 4.0%\n- Increases Resolve of caster by 10.0\n- Increases Crit Bonus of caster by 40.0%\n- Increases Potency of caster by 200.0%\n- Increases Crit Chance of caster by 425.0\n- Increases Max Power of caster by 10,000.0\n- Increases Max Health of caster by 25,500.0\n- Increases Mitigation of caster vs arcane damage by 8000\n- Increases Mitigation of caster vs noxious damage by 8000\n- Increases Mitigation of caster vs elemental damage by 8000\n- Increases Ability Modifier of caster by 22,000.0\n- Your adventure level must be 100 or above to receive statistic bonuses.\n- Summons a mount to ride\n  - Increases your ground speed by 100%\n  - Increases your air speed by 150%\n- Special: See Description"
 obtained_from: 'Collection reward: [[Siege Plans]]'
 item_link: \aITEM 936923196 -1047188250:Herrol Nightdrifter\/a
 image: images/Herrol_Nightdrifter.png

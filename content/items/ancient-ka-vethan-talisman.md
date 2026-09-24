@@ -20,7 +20,8 @@ stats:
   cbovercap: '+84.2'
   mitinc: '34.3'
   dtype: Symbols
-effects: '**Rending Torrent**'
+effect_name: Rending Torrent
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 50% chance to cast Rending Torrent on target of spell.  Lasts for 14.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases physical and elemental damage done to target by 2%.\n    - Inflicts 4,024 crushing damage on target.\n    - Inflicts 402 crushing damage on target every 2 seconds.\n    - Inflicts 4,024 cold damage on target.\n    - Inflicts 402 cold damage on target every 2 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 14.0 seconds."
 obtained_from: 'Collection reward: [[Ka Vethan Artifacts]]'
 item_link: \aITEM -1916673008 1302247638:Ancient Ka Vethan Talisman\/a
 image: images/Ancient_Ka_Vethan_Talisman.jpg

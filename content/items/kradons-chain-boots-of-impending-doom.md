@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   multi: '21.2'
   dtype: Chain Armor
-effects: '**Rapidity in the Dark**'
+effect_name: Rapidity in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM -269170108 -891423006:Kradon's Chain Boots of Impending Doom\/a
 categories:
 - Casting Speed (Equipment)

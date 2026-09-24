@@ -17,7 +17,8 @@ stats:
   dps: '26.3'
   multi: '17'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 1140672945 1527374684 0 0 0:Adroit's Ardor of Life\/a
 categories:
 - Assassin Equipment

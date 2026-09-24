@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Chain Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 370.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -1780478017 805436496 0 0 0:Spiritual Chain Leggings\/a
 categories:

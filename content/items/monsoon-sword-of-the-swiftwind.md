@@ -15,7 +15,8 @@ stats:
   drating: '41.89'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Haste of the Swiftwind**'
+effect_name: Haste of the Swiftwind
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 obtained_from: '[[The Heart of Fear]]'
 item_link: \aITEM 1628491788 914490696:Monsoon, Sword of the Swiftwind\/a
 categories:

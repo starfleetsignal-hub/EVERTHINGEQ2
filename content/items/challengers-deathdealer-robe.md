@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+45'
   dtype: Cloth Armor
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 951845890 1570892612:Challenger's Deathdealer Robe\/a
 categories:
 - Ability Modifier (Equipment)

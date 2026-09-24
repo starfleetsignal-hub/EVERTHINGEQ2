@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+133'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM -1160509566 2123502223:Begemmed Ydallian Girdle\/a
 categories:
 - Ability Modifier (Equipment)

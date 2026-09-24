@@ -15,7 +15,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   abmod: '+105'
-effects: '**Scaled Protection**'
+effect_name: Scaled Protection
+effects: "- Applies Scaled Protection when Activated.  Lasts for 10.0 seconds.\n  - Reduces all damage done to caster by 10%.\n  - The reuse time of Scaled Protection is 3 minutes"
 item_link: \aITEM 723953474 -2115853844:Ring of Scale General's Cloak\/a
 categories:
 - Ability Modifier (Equipment)

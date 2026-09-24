@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Chain Armor
-effects: '**Strike of the Teir''Dal**'
+effect_name: Strike of the Teir'Dal
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Strike of the Teir'Dal on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.6 times per minute.\n    - Inflicts 437 - 535 poison damage on target.\n    - Inflicts 194 - 238 poison damage on target every 3 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1400454930 1772427430:Leggings of the Teir'dal Champion\/a
 categories:
 - AE Autoattack Chance (Equipment)

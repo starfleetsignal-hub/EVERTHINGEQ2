@@ -16,7 +16,8 @@ stats:
   resolve: '6'
   abmod: '+843'
   dps: '29'
-effects: '**Kerafyrm''s Rage**'
+effect_name: Kerafyrm's Rage
+effects: "- When Equipped:\n  - Increases Potency of caster by 91.0.\n  - Cannot be modified except by direct means\n- Applies Kerafyrm's Rage when Activated.  Lasts for 15.0 seconds.\n  - Increases Potency of group members (AE) by 78.0.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Rage is 1 minute"
 item_link: \aITEM 1820458468 -1132009657:Vanlith's Spore of Rage\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: '+203'
   aspeed: '10.2'
   dtype: Plate Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '* Sold by [[Sehesh]] in [[Paineel]] for [[Greaves of Recollected Vengeance]] and 45 [[Seal of Arad|Seals of Arad]] *'
 item_link: \aITEM 149235525 1239711423:Lion's Haunches\/a
 categories:

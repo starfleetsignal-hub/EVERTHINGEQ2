@@ -16,7 +16,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Piercing
   wtype: Dagger
-effects: '**Freezing Spellpower**'
+effect_name: Freezing Spellpower
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Freezing Spellpower on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 357 - 436 cold damage on target.\n    - Increases your Spell Damage by 98.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 516640098 701190677:Sunbeam, Dagger of the Morning\/a
 categories:
 - Ability Modifier (Equipment)

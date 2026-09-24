@@ -15,7 +15,8 @@ stats:
   aspeed: '31.8'
   multi: '22.2'
   vselemental: +9,108
-effects: '**Shivering Enragement**'
+effect_name: Shivering Enragement
+effects: "- When Equipped:\n  - Increases Combat Mana Regen of caster by 10.0%.\n  - Increases Max Power of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 8.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1353009541 -83518644:Shiverback King Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

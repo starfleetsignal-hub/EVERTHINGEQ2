@@ -20,7 +20,8 @@ stats:
   aspeed: '33.7'
   dps: '25.8'
   multi: '18.6'
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -808405249 2051680513:Martial Bornite Torque\/a
 categories:

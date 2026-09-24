@@ -15,7 +15,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   aspeed: '9.7'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 piercing damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM 2117262788 1478452896:Belt of the Mercenary\/a
 categories:

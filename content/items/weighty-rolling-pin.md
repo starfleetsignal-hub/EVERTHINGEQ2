@@ -15,7 +15,8 @@ stats:
   drating: '6.7'
   dtype: Two-Handed Crushing
   wtype: Magic Affinity
-effects: '**Doom**'
+effect_name: Doom
+effects: "- When Equipped\n  - Increases success chance By 10%"
 obtained_from: From the chest of a tradeskill instance. ([[Shipyard Services]], [[Supply Stocking]], [[Clockwork Rescue]], or [[Emergency Portal Repairs]])
 item_link: 1559814375 37403226:[Weighty Rolling Pin ]
 image: images/WeightyRollingPin.jpg

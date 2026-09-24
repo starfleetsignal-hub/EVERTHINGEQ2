@@ -18,7 +18,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 categories:
 - Ability Modifier (Equipment)

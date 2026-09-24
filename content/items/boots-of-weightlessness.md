@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '38'
   dtype: Leather Armor
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 24 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1484604458 1131640104:Boots of Weightlessness\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   aspeed: '17.3'
   dps: '27.9'
   multi: '18.1'
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 10.0.\n  - Increases Max Health of caster by 1,444.4.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1942739576 1372478666:Belkreiz's Bundle of White Lotus Seeds\/a
 categories:
 - Assassin Equipment

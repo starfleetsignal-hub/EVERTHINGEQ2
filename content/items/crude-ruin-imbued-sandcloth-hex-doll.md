@@ -12,7 +12,8 @@ stats:
   agi: '+21'
   crit: '0.2'
   potency: '0.7'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 450.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -437101774 656227235:crude ruin imbued sandcloth hex doll\/a
 categories:
 - Assassin Equipment

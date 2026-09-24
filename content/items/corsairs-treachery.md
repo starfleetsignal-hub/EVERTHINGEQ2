@@ -14,7 +14,8 @@ stats:
   critbonus: '13.4'
   potency: '13.4'
   flurry: '17.8'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception II when Equipped.\n  - Increases Fervor of caster by 4.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 250."
 obtained_from: combine [[Corsair's Trickery (2nd upgrade)]] with [[Corsair's Trickery (Original)]]
 item_link: \aITEM -2013890024 1523088370:Corsair's Treachery\/a
 categories:

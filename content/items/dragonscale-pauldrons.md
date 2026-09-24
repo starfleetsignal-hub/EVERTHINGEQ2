@@ -17,7 +17,8 @@ stats:
   dps: '6.4'
   multi: '3.7'
   dtype: Plate Armor
-effects: '**Strength of the Dragon**'
+effect_name: Strength of the Dragon
+effects: "- Applies Strength of the Dragon when Activated.  Lasts for 5 minutes.\n  - Increases Max Health of caster by 200.0.\n  - This effect cannot be cast during combat\n  - The casting time of Strength of the Dragon is 4.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: '[[An Audience with Aaryonar]]'
 item_link: \aITEM -1531834585 1337334308:Dragonscale Pauldrons\/a
 categories:

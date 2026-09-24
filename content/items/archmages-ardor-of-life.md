@@ -15,7 +15,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 1174941988 216636584 0 0 0:Archmage's Ardor of Life\/a
 categories:
 - Casting Speed (Equipment)

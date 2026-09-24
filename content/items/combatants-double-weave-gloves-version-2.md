@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1586564890 -1717589443 0 0 0:Combatant's Double Weave Gloves\/a
 categories:

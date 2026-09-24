@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Leather Armor
-effects: '**Arcane Stun**'
+effect_name: Arcane Stun
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Stun VI on target of spell.  Lasts for 3.0 seconds.  Triggers about 2.2 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 84.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1673572608 -40952520:Shoulder Pads of Withered Grasp\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   multi: '37.5'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Nocturnal Celerity**'
+effect_name: Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -1657813565 913511493:Gauntlets of Living Toxin\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +15,652
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulate IV on target of attack.  Triggers about 3.0 times per minute.\n    - Decreases Threat to target by 2,000,000\n    - Inflicts 633,600 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1544683268 1869717682:Ardent Chain Confusion\/a
 categories:
 - Ability Modifier (Equipment)

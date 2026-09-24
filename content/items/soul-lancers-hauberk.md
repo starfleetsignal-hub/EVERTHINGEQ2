@@ -18,7 +18,7 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Chain Armor
-effects: Savage Healing
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast Savage Healing on the group. This effect will trigger an average of 2.0 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - Heals group members for 506"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]]
 item_link: \aITEM -1688443996 705329126:Soul Lancer's Hauberk\/a
 categories:

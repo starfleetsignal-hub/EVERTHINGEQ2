@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   aspeed: '36.3'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1657994939 2115677999:Talon Scar Gloves of Ruination\/a
 categories:
 - Attack Speed (Equipment)

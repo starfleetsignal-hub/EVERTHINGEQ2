@@ -16,7 +16,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   dtype: Leather Armor
-effects: '**Lesser Blurry Image**'
+effect_name: Lesser Blurry Image
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Blurry Image on target of spell cast.  Triggers about 2.0 times per minute.\n    - Decreases Threat to targets in Area of Effect by 300\n      - Must be engaged in combat\n    - Cannot be modified except by direct means"
 obtained_from: '[[Challenge Rock (Quest)|Challenge Rock]]'
 item_link: \aITEM 1868272875 2045421087:Tenacious Cap\/a
 categories:

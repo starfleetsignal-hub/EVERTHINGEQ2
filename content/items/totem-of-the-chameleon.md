@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Totem of the Chameleon
+effects: "- Applies **Totem of the Chameleon** when activated. Lasts for 30 minutes.\n  - grants Invis caster\n  - suspends movement speed enhancements\n  - dispelled when caster takes damage\n  - This effect suspends during combat\n  - Only effects targets level 30 and above"
 obtained_from: Crafted by [[Woodworker]] (level 49) from [[Woodworker Essentials Volume 49]]
 item_link: -228547525 -768234911:Totem of the Chameleon
 aliases:

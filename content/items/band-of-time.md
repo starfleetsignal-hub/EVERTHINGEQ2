@@ -15,7 +15,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   vsnoxious: '+242'
-effects: '**Languid Pace**'
+effect_name: Languid Pace
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Languid Pace on target of spell.  Lasts for 1 minute 12 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 6.0.\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[The Mutagenic Outcast]] in [[The Bonemire]]
 item_link: \aITEM -1784457095 1922025490:Band of Time\/a
 categories:

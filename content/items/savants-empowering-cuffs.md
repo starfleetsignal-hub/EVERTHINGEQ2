@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+101'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -2042455364 1423016145:Savant's Empowering Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

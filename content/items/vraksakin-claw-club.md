@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Wrath of the Broodwatcher**'
+effect_name: Wrath of the Broodwatcher
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Wrath of the Brood Watcher on target of spell.  Triggers about 0.2 times per minute.\n    - Inflicts 271 - 331 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1200085455 154004311:Vraksakin Claw Club\/a
 categories:
 - Attack Speed (Equipment)

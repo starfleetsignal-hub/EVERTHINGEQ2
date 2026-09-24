@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   multi: '18.1'
-effects: '**Deathdealer''s Aura**<br>**Greater Draconic Might**'
+effect_name: Deathdealer's Aura, Greater Draconic Might
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 3.0.\n  - Increases Accuracy of caster by 3.0%.\n  - Increases Strikethrough of caster by 3.0%.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Greater Draconic Might on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 92) from [[Draconic Knowledge: Dragonhide Shroud Of Deathdealing]] *Made from [[A Bloody Prime Drakota Eye]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Great Dragon Scales]]'
 item_link: \aITEM 915159208 585219153:Dragonhide Shroud of Deathdealing\/a
 categories:

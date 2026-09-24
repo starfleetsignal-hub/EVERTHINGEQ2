@@ -15,7 +15,8 @@ stats:
   potency: '8.6'
   dps: '21.9'
   vsarcane: '+564'
-effects: '**Velium Flames**'
+effect_name: Velium Flames
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Velium Flames II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,555 - 5,035 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Velium Flames II on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 4,555 - 5,035 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1064367238 451010596:Stalwart Clutch of Zekian Decimation\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Chain Armor
-effects: '**Cogent**<br>**Engulfing Aegis**'
+effect_name: Cogent, Engulfing Aegis
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis IV on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,400 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 824554092 718360973:Missionary's Spaulders of Veeshan's Will\/a
 categories:
 - Assassin Equipment

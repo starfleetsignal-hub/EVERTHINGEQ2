@@ -17,7 +17,8 @@ stats:
   aspeed: '36.3'
   dps: '13.9'
   vselemental: +30,369
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM -88644379 -62266293:Spiked Ring of Blattod Tyopt\/a
 image: images/Spiked_Ring_of_Blattod_Tyopt.png
 categories:

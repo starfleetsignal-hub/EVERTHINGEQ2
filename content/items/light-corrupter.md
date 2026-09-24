@@ -25,7 +25,8 @@ stats:
   drating: '593.07'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3.7%.\n    - Inflicts 2,864 magic damage on target instantly and every second.\n    - Inflicts an additional 46 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 347217674 -1519592711:Light Corrupter\/a
 categories:
 - Arcane Rending (Equipment)

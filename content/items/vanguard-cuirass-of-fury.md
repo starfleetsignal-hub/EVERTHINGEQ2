@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   dtype: Plate Armor
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Detonation on target's attacker.\n    - Inflicts 101 - 168 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -3696266 -617925993:Vanguard Cuirass of Fury\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   multi: '31.2'
   vselemental: +15,750
-effects: '**Stunning Deftness**'
+effect_name: Stunning Deftness
+effects: "- When Equipped:\n  - When avoiding an attack, the wearer will stun their attacker for 2.5 seconds. This can only trigger once every 10 seconds. Does not apply to epic targets."
 item_link: \aITEM -1471557255 -866945257:Half-hoop of Blurred Blades\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   abmod: '+34'
-effects: '**Boon of Battle**'
+effect_name: Boon of Battle
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 433 - 529.\n    - Increases power of caster by 222.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 433 - 529.\n    - Increases power of caster by 222.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 107853407 -244484401:Rallosian Warforged Gauntlet Plate\/a
 categories:
 - Ability Modifier (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: Off Hand Slashing
   wtype: Fists
-effects: '**Flay the Beast**'
+effect_name: Flay the Beast
+effects: "- When Equipped:\n  - Increases Fervor of caster by 3.1.\n  - Increases Reuse Speed of caster by 7.9%.\n  - On a hostile ability cast this spell has a 10% chance to cast Flay on target of spell.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 106 - 198 heat damage on target instantly and every second.\n    - Increases Reuse Speed of caster by 7.9%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -582944798 -2019106071:Reaver's Claw\/a
 categories:
 - AE Autoattack Chance (Equipment)

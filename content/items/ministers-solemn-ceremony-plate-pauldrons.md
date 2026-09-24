@@ -15,7 +15,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -1435484596 -289535511:Minister's Solemn Ceremony Plate Pauldrons\/a
 categories:
 - Berserker Equipment

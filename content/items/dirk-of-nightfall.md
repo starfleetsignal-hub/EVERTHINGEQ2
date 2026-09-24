@@ -19,7 +19,8 @@ stats:
   drating: '74.67'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Destructive Aura**'
+effect_name: Destructive Aura
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Destructive Force on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 155 - 259 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1153589839 719007160:Dirk of Nightfall\/a
 categories:
 - Ability Modifier (Equipment)

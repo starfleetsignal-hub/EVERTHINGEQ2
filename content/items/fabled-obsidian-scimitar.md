@@ -21,7 +21,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Obsidian Shards**'
+effect_name: Obsidian Shards
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Impact on target of attack.  Lasts for 2.5 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 6,229 magic damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Must not be engaged in pvp combat\n    - Resistibility increases against targets higher than level 118.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1277473812 -1940197740:Fabled Obsidian Scimitar\/a
 image: images/Fabled_Obsidian_Scimitar.png
 categories:

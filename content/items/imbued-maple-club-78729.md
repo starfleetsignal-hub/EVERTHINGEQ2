@@ -17,7 +17,7 @@ stats:
   drating: '8.6'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.6 times per minute.\n    - Inflicts 33 - 61 magic damage on target\n    - Decreases Threat to target by 135\n      - Must be flanking or behind\n    - Increase Threat to target by 135\n      - Must be in front of"
 obtained_from: Crafted by [[Craftsman]] (level 10) from [[Craftsman essentials volume 10]]
 item_link: \aITEM -640469159 -1589808803:imbued maple club\/a
 categories:

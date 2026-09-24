@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   aspeed: '5.5'
   dps: '10.3'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 1846366382 -1542514489:Cloak of the Sandscrawler Champion\/a
 categories:
 - Arcane Recovery (Equipment)

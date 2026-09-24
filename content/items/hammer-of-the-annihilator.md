@@ -18,7 +18,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 636986764 395040981:Hammer of the Annihilator\/a
 categories:
 - Casting Speed (Equipment)

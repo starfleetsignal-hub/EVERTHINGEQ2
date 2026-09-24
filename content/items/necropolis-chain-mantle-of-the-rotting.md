@@ -18,7 +18,8 @@ stats:
   resolve: '555'
   mitinc: '87.1'
   dtype: Chain Armor
-effects: '**Necrotic Thirst**'
+effect_name: Necrotic Thirst
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 12.2.\n  - Grants see stealth.\n  - Increases Flurry of Caster by 57.6.\n  - Must be in a Scars of Destruction raid zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1656776573 -1724450930:Necropolis Chain Mantle of the Rotting\/a
 categories:
 - Assassin Equipment

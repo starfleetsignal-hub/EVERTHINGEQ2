@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   aspeed: '11.2'
   dps: '18.8'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 2013766242 -571984376:Strategic Healing Brace\/a
 categories:
 - Assassin Equipment

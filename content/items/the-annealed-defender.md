@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Defender''s Might**'
+effect_name: Defender's Might
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Defender's Strength on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 36.7.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1563423557 -2125764590:The Annealed Defender\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   dtype: Buckler
-effects: '**Restorative Counter**'
+effect_name: Restorative Counter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Restorative Counter III on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Restorative Counter III on target.\n      - Heals target for 1,777.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Ornate Crate of Endless Goodies]]
 item_link: \aITEM 74888956 668555897:Almsgiven Buckler of Draconic Awe\/a
 image: images/Almsgiven_Buckler_of_Draconic_Awe.png

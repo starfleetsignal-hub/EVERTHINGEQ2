@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Axe
-effects: '**Enrage**'
+effect_name: Enrage
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Enrage on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 346 - 518 heat damage on target.\n    - Increases Crit Chance of caster by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*[[The Consequences of a Berserker''s Rage]] *[[The Responsibilities of a Berserker''s Rage]] **both part of the [[Berserker Epic Weapon Timeline]]'
 used_in_quest: '[[Honing the Lust of the Dragon''s Temper]]'
 item_link: \aITEM -504545233 369393578:Dragon's Temper\/a

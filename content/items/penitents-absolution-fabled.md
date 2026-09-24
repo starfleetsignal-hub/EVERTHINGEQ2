@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Penitent Smite**'
+effect_name: Penitent Smite
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Penitent Smite on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 410 - 616 divine damage on target.\n    - Makes group members (AE) immune to Stifle effects\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Saga of Yasva V''Alear]]'
 item_link: \aITEM -1166179674 265970665:Penitent's Absolution\/a
 categories:

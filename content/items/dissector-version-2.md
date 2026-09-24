@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Venomous Decay**'
+effect_name: Venomous Decay
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Venomous Decay on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 112 - 137 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -928382883 1926082615:Dissector\/a
 categories:
 - Assassin Equipment

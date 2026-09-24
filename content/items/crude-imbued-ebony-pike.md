@@ -20,7 +20,8 @@ stats:
   drating: '73.3'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 164 - 246 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1768724165 8515455:crude imbued ebony pike\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Siren''s Gift**<br>**Invoke Leandre**'
+effect_name: Siren's Gift, Invoke Leandre
+effects: "- When Equipped:\n  - Reduces the reuse timers of all spells by 5%.\n  - On a damage spell hit this spell has a 9% chance to cast Siren's Gift on the group.  Lasts for 10.0 seconds.\n    - Reduces the power cost of group members' spells by 10%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Invoke Leandre when Activated."
 obtained_from: '[[Leandre''s Shard: Drusella''s Extraction]]'
 item_link: \aITEM 1658623060 -1917028012:Eye of the Siren\/a
 categories:

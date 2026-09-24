@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '7'
-effects: '**Invigorated Torpor**<br>**All for One**'
+effect_name: Invigorated Torpor, All for One
+effects: "- When Equipped:\n  - Removes the attack speed and movement speed reduction of Torpor.\n  - Torpor will heal and ward for an increased amount.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 973565337 671152061:Cloak of the Ancestors\/a
 categories:
 - Ability Doublecast (Equipment)

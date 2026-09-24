@@ -19,7 +19,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Frigid Blast**'
+effect_name: Frigid Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frigid Blast on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 229 - 382 cold damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 223036995 -971150045:Edge of the Frozen Depths\/a
 categories:
 - Assassin Equipment

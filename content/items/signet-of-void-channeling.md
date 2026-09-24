@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vsarcane: '+400'
-effects: '**Arcane Recovery**<br>**Positive Channeling of the Void**'
+effect_name: Arcane Recovery, Positive Channeling of the Void
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent.\n- When Equipped:\n  - Increases Effective Level of caster to 83.\n  - Must be in Munzok's Material Bastion.\n  - Requires not having an apprentice"
 obtained_from: '[[Hook, Line, and... Anchor?]]'
 item_link: \aITEM -60181126 1388556032:Signet of Void Channeling\/a
 categories:

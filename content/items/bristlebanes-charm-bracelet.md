@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   multi: '31.2'
   vselemental: +11,880
-effects: '**Jester''s Dance**'
+effect_name: Jester's Dance
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Jester's Dance on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 504,896 poison damage on target.\n    - Increases Max Health of caster by 5.0%.\n    - Increases Weapon Damage of caster by 10.0.\n    - Increases threat by 800,000 if the wearer is in front of the target and reduces it by 800,000 if the wearer is behind the target\n    - Cannot be modified except by direct means"
 item_link: \aITEM 118683937 1762238193:Bristlebane's Charm Bracelet\/a
 aliases:
 - Bristlebane's Charm Bracelet (1 Gem)

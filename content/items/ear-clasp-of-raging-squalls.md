@@ -15,7 +15,8 @@ stats:
   abmod: '+220'
   multi: '23.1'
   vselemental: +9,504
-effects: '**Storming Squall**'
+effect_name: Storming Squall
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 900.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1500948952 -736789614:Ear Clasp of Raging Squalls\/a
 categories:
 - Ability Modifier (Equipment)

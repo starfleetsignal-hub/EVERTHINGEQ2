@@ -15,7 +15,8 @@ stats:
   drating: '21.32'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 64 - 120 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2143177608 -785067678:imbued fir greatstaff\/a
 aliases:
 - Imbued fir greatstaff (Palely Gleaming Strike) (Level 20)

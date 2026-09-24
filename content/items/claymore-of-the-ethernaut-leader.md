@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Fury of the Void Walkers**'
+effect_name: Fury of the Void Walkers
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fury of the Void Walkers on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 999 slashing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: Made from [[Relics of the Shadow Odyssey]] from  [[The Shadow Odyssey Timeline]]
 item_link: \aITEM -1003920973 -1232848084:Claymore of the Ethernaut Leader\/a
 categories:

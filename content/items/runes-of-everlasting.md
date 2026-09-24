@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Stifling Blast**'
+effect_name: Stifling Blast
+effects: "- Applies Stifling Blast II when Activated.  Lasts for 7.5 seconds.\n  - Stifles targets in Area of Effect\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Stifling Blast II is 2 minutes 40 seconds"
 item_link: \aITEM -1176566414 -591360136:Runes of Everlasting\/a
 categories:
 - Assassin Equipment

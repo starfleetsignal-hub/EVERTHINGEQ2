@@ -18,7 +18,8 @@ stats:
   resolve: '660'
   abmod: +5099,040
   vselemental: +442,665
-effects: '**Grasp of Yon-Solhoth**'
+effect_name: Grasp of Yon-Solhoth
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 35.0.\n    - If NOT Fighter.\n  - Increases Hate Gain of caster by 25.0.\n    - If Fighter.\n  - Increases in-combat movement speed of caster by 25.0%.\n  - Increases Potency of caster by 23,226.1.\n  - You must be within a Rage of Cthurath Raid or Untold Dungeon zone for this effect to apply."
 item_link: \aITEM 2117960185 -864095846:Yon-Solhoth's Armlet of Void Corruption\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   abmod: +1,250
-effects: '**The Wild Divine**'
+effect_name: The Wild Divine
+effects: "- When Equipped:\n  - Increases Potency of caster by 20.0.\n  - Improves the heal potency granted by the heal stance by 40% and whenever the priest casts a heal while in that stance, they will gain 50% Flurry for 3 seconds.\n  - Removes the penalties from the priest's heal stance"
 item_link: \aITEM -1019273981 -1693507471:Gorget of the Wild\/a
 categories:
 - Ability Modifier (Equipment)

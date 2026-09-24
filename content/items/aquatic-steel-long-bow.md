@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Uncontrollable Emotions**'
+effect_name: Uncontrollable Emotions
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Vigorous Wail on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 735.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Vigorous Wail on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 735.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 199974181 824771235 0 0 0:Aquatic Steel Long Bow\/a
 categories:
 - Assassin Equipment

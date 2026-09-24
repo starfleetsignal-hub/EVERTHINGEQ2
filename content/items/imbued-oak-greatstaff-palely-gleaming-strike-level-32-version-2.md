@@ -15,7 +15,8 @@ stats:
   drating: '32.75'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 98 - 183 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1960225671 -1261426142:imbued oak greatstaff\/a
 aliases:
 - Imbued oak greatstaff (Palely Gleaming Strike) (Level 30)

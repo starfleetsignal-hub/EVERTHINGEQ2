@@ -17,7 +17,8 @@ stats:
   aspeed: '5.7'
   multi: '6.5'
   dtype: Cloth Armor
-effects: '**Displacement**'
+effect_name: Displacement
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Displacement on caster.  Lasts for 5 minutes.  This effect normalizes based off of a three second triggering event.\n    - Applies Displacement on termination.\n      - Increases power of group members by 360.\n    - Will absorb all damage. This spell will absorb a total of 2 attacks.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 958572696 -964881966:Robe of Dark Power\/a
 categories:
 - Attack Speed (Equipment)

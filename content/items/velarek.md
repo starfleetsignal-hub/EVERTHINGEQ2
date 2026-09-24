@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Wrath of the Warlord**<br>**Speak to Vel''Arek**'
+effect_name: Wrath of the Warlord, Speak to Vel'Arek
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Wrath of the Warrior on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces physical damage done to caster by 5%.\n    - Inflicts 410 - 616 slashing damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Speak to Vel'Arek when Activated."
 obtained_from: '[[The Search for Vel''Arek]]'
 item_link: \aITEM -323141217 1794777588:Vel'Arek\/a
 categories:

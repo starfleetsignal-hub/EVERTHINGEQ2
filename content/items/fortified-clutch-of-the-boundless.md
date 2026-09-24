@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vselemental: '+217'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution VII on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 837.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 70) from [[Ancient Knowledge: Fortified Clutch of the Boundless]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -1209126880 1367491739:Fortified Clutch of the Boundless\/a
 categories:

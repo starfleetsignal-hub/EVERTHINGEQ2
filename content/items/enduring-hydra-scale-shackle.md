@@ -17,7 +17,8 @@ stats:
   multi: '40.5'
   flurry: '0.6'
   vselemental: +9,554
-effects: '**Enduring Temperance**'
+effect_name: Enduring Temperance
+effects: "- When Equipped:\n  - Increases Reuse Speed of caster by 6.0%.\n  - Increases Crit Bonus of caster by 3.0.\n  - Increases Potency of caster by 3.0.\n  - Increases Crushing, Slashing, Piercing and Ranged of caster by 35.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1728279522 -1865593560:Enduring Hydra-Scale Shackle\/a
 categories:
 - Arcane Resistance (Equipment)

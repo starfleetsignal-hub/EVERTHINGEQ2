@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 80) from [[Ancient Knowledge: Reverent Wristguard of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 1450652347 -1352816648:Reverent Wristguard of Synergism\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   abmod: '+341'
   aspeed: '43.1'
   dtype: Cloth Armor
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -529530346 1948652392:Polarized Pants of Disturbance\/a
 categories:
 - Ability Modifier (Equipment)

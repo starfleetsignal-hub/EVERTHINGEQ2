@@ -19,7 +19,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Velium Shards**'
+effect_name: Velium Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Velium Shards on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 179 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1690684783 -58276740:Ancient Velium Greatsword\/a
 categories:
 - AE Autoattack Chance (Equipment)

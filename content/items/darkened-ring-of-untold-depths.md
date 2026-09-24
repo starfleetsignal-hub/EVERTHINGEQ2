@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Opitulation**'
+effect_name: Opitulation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Opitulation on caster.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Hate Gain of caster by 30.0.\n    - Prevents AOE on the caster and their pet (except when direct)\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1366262188 987699304:Darkened Ring of Untold Depths\/a
 categories:
 - Arcane Resistance (Equipment)

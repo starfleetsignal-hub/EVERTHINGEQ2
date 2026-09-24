@@ -16,7 +16,8 @@ stats:
   potency: '7.7'
   dps: '17'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 638091141 -485041599:Vicar's Imperial Gloves\/a
 categories:
 - Census Credits

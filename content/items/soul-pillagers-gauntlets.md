@@ -16,7 +16,8 @@ stats:
   multi: '18.5'
   mitinc: '4.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1137516994 1749430381:Soul Pillager's Gauntlets\/a
 categories:
 - Berserker Equipment

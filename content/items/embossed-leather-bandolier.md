@@ -17,7 +17,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Frozen Wind Glyph**'
+effect_name: Frozen Wind Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2092413498 -1420882323:Embossed Leather Bandolier\/a
 categories:
 - Assassin Equipment

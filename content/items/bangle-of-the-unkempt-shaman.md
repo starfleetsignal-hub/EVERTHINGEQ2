@@ -18,7 +18,8 @@ stats:
   abmod: +27,467
   aspeed: '61.2'
   vselemental: +56,952
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 125.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 250666604 -421687952:Bangle of the Unkempt Shaman\/a
 categories:
 - Ability Modifier (Equipment)

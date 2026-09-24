@@ -19,7 +19,8 @@ stats:
   drating: '61.92'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Lesser Energy Drain**'
+effect_name: Lesser Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 72.\n    - Increases power of caster by 62.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Testing a Theory]]'
 item_link: \aITEM -1878554835 766617702:Sacrificial Broken Toe Shiv\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   aspeed: '2'
   multi: '2.8'
   dtype: Chain Armor
-effects: '**Glyph of Warding**'
+effect_name: Glyph of Warding
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Glyph of Warding on caster.  Lasts for 30.0 seconds.\n    - Wards target against 6 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 402894501 -1873946440:Slayer's Ice Imbued Chestguard\/a
 categories:
 - Assassin Equipment

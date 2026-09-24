@@ -13,7 +13,8 @@ stats:
   mit: '187'
   potency: '0.2'
   dtype: Chain Armor
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Impact on target's attacker.  Lasts for 2.5 seconds.\n    - Throws target back\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1551271884 126077076:Enigmatic Shoulder Pads\/a
 categories:
 - Assassin Equipment

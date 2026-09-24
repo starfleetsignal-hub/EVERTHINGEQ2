@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Oathbreaker''s Halo**<br>**Featherfall**'
+effect_name: Oathbreaker's Halo, Featherfall
+effects: "- Applies Oathbreaker's Halo when Activated.\n  - Summons a glowing Halo.\n  - The casting time of Oathbreaker's Halo is 1.0 second and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of the Oathbreaker (crate)|Cloak of the Oathbreaker]]
 item_link: \aITEM -257360399 691223589:Cloak of the Oathbreaker\/a
 categories:

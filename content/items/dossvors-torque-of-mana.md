@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   abmod: '+795'
   dps: '27.6'
-effects: '**Understanding the Weak Spots**'
+effect_name: Understanding the Weak Spots
+effects: "- When Equipped:\n  - Increases Potency of caster by 52.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 item_link: \aITEM -845016599 -1602516051:Dossvor's Torque of Mana\/a
 categories:
 - Ability Modifier (Equipment)

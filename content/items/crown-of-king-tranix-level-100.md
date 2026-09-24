@@ -19,7 +19,8 @@ stats:
   resolve: '20'
   mitinc: '13.2'
   dtype: Chain Armor
-effects: '**Flame Shroud**<br>**Eye of Tranix**'
+effect_name: Flame Shroud, Eye of Tranix
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Flame Shroud on target's attacker.\n    - Inflicts 372 - 455 heat damage on target.\n    - Cannot be modified except by direct means\n- Applies Eye of Tranix when Activated.  Lasts for 2 hours.\n  - Grants Infravision to caster"
 item_link: \aITEM 1630153286 -1469215356:Crown of King Tranix\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Ethereal Shards**'
+effect_name: Ethereal Shards
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a hostile spell cast this spell may cast Ethereal Shards on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 1,567 - 2,612 magic damage on target.\n    - Inflicts 1,567 - 2,612 piercing damage on target.\n    - Inflicts 1,567 - 2,612 divine damage on target.\n    - Decreases Mitigation of target vs arcane damage by 3,532.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Ethereal Shards on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,567 - 2,612 magic damage on target.\n    - Inflicts 1,567 - 2,612 piercing damage on target.\n    - Inflicts 1,567 - 2,612 divine damage on target.\n    - Decreases Mitigation of target vs arcane damage by 3,532.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1562612667 -1273053556:Queen Vorticia V'uul's Battle Scepter\/a
 categories:
 - Attack Speed (Equipment)

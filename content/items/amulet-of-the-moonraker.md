@@ -16,7 +16,8 @@ stats:
   dps: '53.6'
   multi: '18.7'
   flurry: '0.6'
-effects: '**Crack of Doom**'
+effect_name: Crack of Doom
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Crack of Doom I on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 735.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Crack of Doom I on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 735.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1640726768 -538563566:Amulet of the Moonraker\/a
 categories:
 - Assassin Equipment

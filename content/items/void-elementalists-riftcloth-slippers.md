@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 5%."
 item_link: \aITEM -673841932 -1377835386 0 0 0:Void Elementalist's Riftcloth Slippers\/a
 categories:
 - Ability Modifier (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Slashing Claw**'
+effect_name: Slashing Claw
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Slashing Claw on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 138 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 297292821 1256601805:Scimitar of the Slashing Claw\/a
 categories:
 - Ability Modifier (Equipment)

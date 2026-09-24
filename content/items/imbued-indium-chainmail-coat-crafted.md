@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   aspeed: '0.1'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 40 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 53) from [[Armorer Essentials Volume 53 (Normal)]] *Crafted by [[Armorer]] (level 53) from [[Armorer Essentials Volume 53 (no-trade)]]'
 item_link: \aITEM 1996199502 586733801:Imbued Indium Chainmail Coat\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 1694606409 -1901433588:Resurgent Robe of the Augur\/a
 categories:
 - AE Autoattack Chance (Equipment)

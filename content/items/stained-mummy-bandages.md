@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+142'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -231717817 665762572:Stained Mummy Bandages\/a
 categories:
 - Ability Modifier (Equipment)

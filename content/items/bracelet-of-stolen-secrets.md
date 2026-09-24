@@ -17,7 +17,8 @@ stats:
   aspeed: '42.1'
   dps: '16'
   vselemental: +37,985
-effects: '**Cannibalized Health**'
+effect_name: Cannibalized Health
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cannibalized Health on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of caster by 50.0.\n    - Increase ability modifier by .6% of the caster's maximum hitpoints.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Thalumbra Indicia]]'
 item_link: \aITEM 10542666 1252472954:Bracelet of Stolen Secrets\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '9.8'
   dps: '24.1'
   multi: '15.6'
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Haste of caster by 4.5.\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -425772683 -553504929:Choker of the Gifted Composer\/a
 categories:
 - Assassin Equipment

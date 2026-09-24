@@ -15,7 +15,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   mitinc: '6'
-effects: '**Dragon Grit**'
+effect_name: Dragon Grit
+effects: "- Applies Dragon Grit III when Activated.  Lasts for 20.0 seconds.\n  - Reduces all damage done to caster by 10%. This spell will absorb a total of 20 attacks.\n  - Cannot be modified except by direct means\n  - The reuse time of Dragon Grit III is 2 minutes"
 item_link: \aITEM -670543375 -1940807180:Toxicant Dragon Fang of the Vile\/a
 aliases:
 - Toxicant Dragon Fang of the Vile (1 Gem)

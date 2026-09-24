@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 10 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 69458126 -1862165645:Choker of Intercepting Confidence\/a
 categories:
 - Assassin Equipment

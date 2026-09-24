@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vsnoxious: '+320'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Pilfer the Goods]]'
 item_link: \aITEM -530906955 -1208653402:Starblast Earring\/a
 categories:

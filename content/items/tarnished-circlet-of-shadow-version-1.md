@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Gather Shadows**'
+effect_name: Gather Shadows
+effects: "- Applies Gather Shadows when Activated.  Lasts for 8 minutes.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - Dispelled when target takes damage\n  - This effect cancels during combat\n  - Only affects targets level 80 and above\n  - The casting time of Gather Shadows is 2.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 499046220 1986024192:Tarnished Circlet of Shadow\/a
 categories:
 - Assassin Equipment

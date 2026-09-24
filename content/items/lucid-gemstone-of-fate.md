@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+11'
   sta: '+11'
-effects: '**Fatal Pestilience**'
+effect_name: Fatal Pestilience
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Pestilience III on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 33 - 36 disease damage on targets in Area of Effect.\n    - Inflicts 41 - 45 disease damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 3 - 3 disease damage on targets in Area of Effect every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 30) from [[Ancient Knowledge: Lucid Gemstone of Fate]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -2085419281 -1817275670:Lucid Gemstone of Fate\/a
 categories:

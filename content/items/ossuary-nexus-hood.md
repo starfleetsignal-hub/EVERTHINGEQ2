@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   flurry: '75.1'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1772109131 2060220799:Ossuary Nexus Hood\/a
 categories:
 - Census Credits

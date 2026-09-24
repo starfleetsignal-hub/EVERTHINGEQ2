@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   multi: '9.6'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 846303188 1454232402:War Necklace of the Amahn\/a
 categories:
 - Assassin Equipment

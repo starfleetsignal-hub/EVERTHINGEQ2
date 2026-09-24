@@ -12,7 +12,8 @@ stats:
   sta: '+15'
   mit: '147'
   dtype: Leather Armor
-effects: '**Harmless Appearance**'
+effect_name: Harmless Appearance
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7% chance to cast Harmless Appearance on target's attacker.\n    - Decreases Threat to target by 1,269 - 2,115\n    - Cannot be modified except by direct means"
 item_link: \aITEM -74878347 988942367:Djar'veh's Vest of Cunning\/a
 categories:
 - Assassin Equipment

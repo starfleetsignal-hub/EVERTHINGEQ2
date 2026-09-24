@@ -11,7 +11,8 @@ stats:
   str: '+10'
   sta: '+10'
   dtype: Tower Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 66 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Advanced Armorer Volume 30 (Normal)]] *Crafted by [[Armorer]] (level 30) from [[Advanced Armorer Volume 30 (No-Trade)]]'
 item_link: \aITEM 1768072126 -449681835:Imbued Feysteel Tower Shield\/a
 categories:

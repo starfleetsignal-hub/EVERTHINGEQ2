@@ -16,7 +16,8 @@ stats:
   abmod: '+763'
   dps: '26.4'
   vselemental: +29,243
-effects: '**Understanding the Weak Spots**'
+effect_name: Understanding the Weak Spots
+effects: "- When Equipped:\n  - Increases Potency of caster by 52.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -964877994 1578797214:Tranquil Lumicite Earrings\/a
 categories:

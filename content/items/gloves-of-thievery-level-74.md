@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Chain Armor
-effects: '**Lesser Counterattack**'
+effect_name: Lesser Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 206 piercing damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Cursin'' a Blue Streak]]'
 item_link: \aITEM 1898008101 526799584:Gloves of Thievery\/a
 categories:

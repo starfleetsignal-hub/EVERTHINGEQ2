@@ -17,7 +17,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   dtype: Cloth Armor
-effects: '**Potent Essence Infusion**'
+effect_name: Potent Essence Infusion
+effects: "- When Equipped:\n  - Applies Potent Essence Infusion to qualifying pets.\n    - On a combat hit this spell may cast Potent Essence Infusion on target of attack.  Triggers about 2.0 times per minute.\n      - Increases power of group members by 324.\n      - Inflicts 324 heat damage on target encounter.\n      - Inflicts 324 poison damage on target encounter."
 item_link: \aITEM 1337081697 1117434519 0 0 0:Aramid Robe of the Voidcaller\/a
 categories:
 - Attack Speed (Equipment)

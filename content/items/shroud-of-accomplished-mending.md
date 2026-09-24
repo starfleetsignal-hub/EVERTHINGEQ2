@@ -16,7 +16,9 @@ stats:
   potency: '11.6'
   aspeed: '14.2'
   multi: '19.8'
-effects: '**Soul Sliver**<br>**Ageless Damnation**'
+effect_name: Soul Sliver, Ageless Damnation
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Soul Sliver on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 120.0.\n    - Increases Potency of caster by 4.0.\n    - Increases Crit Bonus of caster by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Soul Sliver on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 120.0.\n    - Increases Potency of caster by 4.0.\n    - Increases Crit Bonus of caster by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases WIS and INT of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This\
+  \ effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1395540396 -2133958190 0 0 0:Shroud of Accomplished Mending\/a
 categories:
 - Ageless Damnation (Equipment)

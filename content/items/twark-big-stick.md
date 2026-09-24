@@ -24,7 +24,8 @@ stats:
   drating: '312.56'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 18,642 crushing damage on target.\n    - Increases Crit Bonus of caster by 38.7.\n    - Increases Potency of caster by 60.0.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 100) from [[Bloody Tooth Woodworking Essentials]]
 item_link: \aITEM 1206713997 -1158512809:Twark Big Stick\/a
 categories:

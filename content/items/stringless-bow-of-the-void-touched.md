@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Flight**'
+effect_name: Flight
+effects: "- When Equipped:\n  - Increases Ranged Weapon Range of caster by 5.0%."
 item_link: \aITEM 1866256500 134623906:Stringless Bow of the Void Touched\/a
 categories:
 - Ability Modifier (Equipment)

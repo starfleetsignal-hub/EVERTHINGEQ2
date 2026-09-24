@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Immaterial Vitality**'
+effect_name: Immaterial Vitality
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Immaterial Vitality III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 211,200 divine damage on target.\n    - Increases Max Health of caster by 9.0%.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 99) from [[Advanced Jeweler Volume 99]]
 item_link: \aITEM -1487571323 -929524246:Xiocite Cadmium Bangle\/a
 categories:

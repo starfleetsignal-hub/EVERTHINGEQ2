@@ -17,7 +17,8 @@ stats:
   potency: 3,260.1
   resolve: '35'
   abmod: +32,213
-effects: '**Infinite Melancholy**'
+effect_name: Infinite Melancholy
+effects: "- Applies Infinite Melancholy when Activated.  Lasts for 30.0 seconds.\n  - Decreases power of caster by 3.0% every 2 seconds.\n  - Decreases power of caster by an additional 3.0% every tick.\n  - Increases Potency of caster by 1,500.0.\n  - Increases Ability Mod of caster by 10,000.0.\n  - This effect can be toggled off.\n  - Cannot be modified except by direct means\n  - The casting time of Infinite Melancholy is 2.0 seconds and the reuse time of the spell is 3 minutes\n  - Requires 23 Power to cast and 23 Power every 2.0 seconds."
 item_link: \aITEM 275266023 655905560:Ragged Felt Cloak\/a
 categories:
 - Ability Doublecast (Equipment)

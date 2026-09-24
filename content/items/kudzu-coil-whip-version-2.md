@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Strike of Thorns**'
+effect_name: Strike of Thorns
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Strike of Thorns on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 239 magic damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 848411708 685355032:Kudzu Coil Whip\/a
 categories:
 - Assassin Equipment

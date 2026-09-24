@@ -17,7 +17,8 @@ stats:
   resolve: '555'
   multi: '37.6'
   vselemental: +387,205
-effects: '**Mischievous Might**'
+effect_name: Mischievous Might
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 1,304.2.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Scars of Destruction: Bonds of Mischief - Part 4]]'
 item_link: \aITEM 2094266211 -1451396041:Precious Hoop of the Mischievous Bonds\/a
 categories:

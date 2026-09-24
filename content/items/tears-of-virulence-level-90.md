@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dps: '15.2'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -654801840 -1092649436:Tears of Virulence\/a
 categories:
 - Assassin Equipment

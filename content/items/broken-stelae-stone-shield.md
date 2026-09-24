@@ -15,7 +15,9 @@ stats:
   potency: '10.2'
   multi: '16.5'
   dtype: Tower Shield
-effects: '**Serrated Skin**'
+effect_name: Serrated Skin
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Serrated Skin II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Serrated Skin II on target's attacker.\n      - Inflicts 200 - 221 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Serrated Skin II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Serrated Skin II on target's attacker.\n      - Inflicts 200 - 221 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot\
+  \ be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 513578031 -2081020482:Broken Stelae Stone Shield\/a
 categories:
 - Berserker Equipment

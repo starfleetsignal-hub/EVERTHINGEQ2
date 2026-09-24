@@ -19,7 +19,9 @@ stats:
   drating: '173.24'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Soothing Sigil**<br>**Overbearing Onslaught**'
+effect_name: Soothing Sigil, Overbearing Onslaught
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil III on target of spell cast.  Triggers about 2.0 times per minute.\n    - Heals target for 5,594 - 6,182.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Overbearing Onslaught III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Overbearing Onslaught III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n\
+  \    - Increases Potency of caster by 11.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -39451221 813258816:Supreme General's Spear of Justice\/a
 categories:
 - Beastlord Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   mitinc: '10.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 391829184 -1569213611:Colossal Gauntlets of Impedance\/a
 image: images/Colossal_Gauntlets_of_Impedance.png
 categories:

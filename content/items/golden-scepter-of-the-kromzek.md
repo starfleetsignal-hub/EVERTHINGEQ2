@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Flowing Consciousness**'
+effect_name: Flowing Consciousness
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 5 percent."
 item_link: \aITEM -1729002198 -20984834:Golden Scepter of the Kromzek\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   dps: '8.9'
   flurry: '2.4'
   vselemental: '+665'
-effects: '**Ethereal Recovery**'
+effect_name: Ethereal Recovery
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ethereal Recovery on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Decrease the caster's spell reuse time by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 600538475 1048959490:Earring of Unkempt Power\/a
 categories:
 - Arcane Resistance (Equipment)

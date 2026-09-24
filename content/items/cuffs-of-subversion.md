@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   multi: '13.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Looted from [[A Triumphant Armor Piece (Storm Gorge)|A Triumphant Armor Piece]] after completing the [[Battle of Storm Gorge]]
 item_link: \aITEM -1913377378 -1297728472:Cuffs of Subversion\/a
 image: images/Cuffs_of_Subversion.jpg

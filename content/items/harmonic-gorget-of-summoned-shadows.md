@@ -14,7 +14,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   abmod: '+270'
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Empowered Healing on caster.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 1,750.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -473436191 -1766192118:Harmonic Gorget of Summoned Shadows\/a
 categories:
 - Ability Modifier (Equipment)

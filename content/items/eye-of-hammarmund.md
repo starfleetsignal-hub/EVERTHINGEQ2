@@ -15,7 +15,8 @@ stats:
   potency: '8.6'
   aspeed: '13.2'
   dps: '21.9'
-effects: '**Dragonslayer''s Fury**'
+effect_name: Dragonslayer's Fury
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Dragonslayer's Fury on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.2 times per minute.\n    - Inflicts 2,344 heat damage on target.\n    - Heals caster for 2,100.\n    - Increases Flurry of Caster by 2.0.\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Dragonslayer's Fury on target of spell.  Lasts for 12.0 seconds.  Triggers about 1.2 times per minute.\n    - Inflicts 2,344 heat damage on target.\n    - Heals caster for 2,100.\n    - Increases Flurry of Caster by 2.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1519288375 1155511224:Eye of Hammarmund\/a
 categories:
 - Assassin Equipment

@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Totem of the Void
+effects: "- Applies **Totem of the Void** when activated. Lasts for 30 minutes.\n  - Grants Invisibly to group members (AE)\n  - Suspends group members (AE)'s movement speed enhancements\n  - Dispelled when caster takes damage\n  - This effect suspends during combat\n  - Only effects targets level 30 and above\n  - Requires 219(?) Power to castu"
 obtained_from: Crafted by [[Woodworker]] (level 82) from [[Woodworker Essentials Volume 82]]
 item_link: \aITEM 366869117 -1434054327:[Totem of the Void]\/a
 categories:

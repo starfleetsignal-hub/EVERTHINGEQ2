@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '150'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 12.0."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Melodic Wristguard of the Neurotic]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1553805509 1263653660:Melodic Wristguard of the Neurotic\/a
 categories:

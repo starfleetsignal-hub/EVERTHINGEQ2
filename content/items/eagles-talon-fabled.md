@@ -20,7 +20,8 @@ stats:
   range: Up to 40
   dtype: ranged
   wtype: Bow
-effects: '**Talon Strike**'
+effect_name: Talon Strike
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Talon Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 178 - 416 slashing damage on target.\n    - Gives caster a 20.0% chance to not use ammunition on an attack.\n    - Adds normalized combat art damage based on 10% of your current agility.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Removing the Darkness From Within...]]'
 item_link: \aITEM 1767887503 690638045:Eagle's Talon\/a
 image: images/Eagle's_Talon_-_Fabled.jpg

@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   aspeed: '20.9'
   vselemental: +2,079
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1762118718 366143521:Sentinel's Wristlet of the Wrecker\/a
 categories:
 - Arcane Resistance (Equipment)

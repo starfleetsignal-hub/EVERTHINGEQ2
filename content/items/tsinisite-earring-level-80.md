@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   vselemental: '+338'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM 1976039826 -1817055874:Tsinisite Earring\/a
 categories:
 - Ability Modifier (Equipment)

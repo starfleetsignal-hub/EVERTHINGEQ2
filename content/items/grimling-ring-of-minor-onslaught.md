@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Unyielding Onslaught**'
+effect_name: Unyielding Onslaught
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus based on the number of increments of Unyielding Onslaught. 0: -15 Crit Bonus. 1: -10 Crit Bonus. 2: -5 Crit Bonus. 3: 0 Crit Bonus. 4: 36 Crit Bonus. 5: 60 Crit Bonus\n  - On any combat or spell hit this spell may cast Unyielding Onslaught III on caster.  Lasts for 2 minutes.  Triggers about 1.0 times per minute.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1719982526 19163426:Grimling Ring of Minor Onslaught\/a
 categories:
 - AE Autoattack Chance (Equipment)

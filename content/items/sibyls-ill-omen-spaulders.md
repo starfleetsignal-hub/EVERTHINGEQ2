@@ -15,7 +15,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   dtype: Chain Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 202064806 1057875893:Sibyl's Ill Omen Spaulders\/a
 categories:
 - Assassin Equipment

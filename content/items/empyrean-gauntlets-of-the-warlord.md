@@ -19,7 +19,8 @@ stats:
   abmod: '+306'
   mitinc: '9.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Thudomatonian Gauntlets]]
 item_link: \aITEM 1608782779 -1798030011:Empyrean Gauntlets of the Warlord\/a
 categories:

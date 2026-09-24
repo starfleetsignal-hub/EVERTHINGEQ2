@@ -20,7 +20,8 @@ stats:
   drating: '86.01'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Viscous Venom**'
+effect_name: Viscous Venom
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Viscous Venom on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 531 poison damage on target.\n    - Inflicts 530 poison damage on target every 5 seconds.\n    - Cannot be modified except by direct means\n  - On a melee hit this spell may cast Viscous Venom on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 20.0.\n    - Decreases Attack Speed of target by an additional 3 every 5 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM 566560114 1842422081:Battleaxe of Venom\/a
 categories:
 - Ability Modifier (Equipment)

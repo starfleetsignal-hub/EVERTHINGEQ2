@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   dps: '9.7'
   dtype: Cloth Armor
-effects: '**Lesser Bitter Miasma**'
+effect_name: Lesser Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 385.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -355229133 750726332:Drenchmage's Gloves\/a
 categories:
 - Assassin Equipment

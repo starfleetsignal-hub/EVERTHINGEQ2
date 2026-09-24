@@ -15,7 +15,8 @@ stats:
   potency: '1'
   multi: '2.1'
   vsarcane: '+186'
-effects: '**Martial Vulnerability**'
+effect_name: Martial Vulnerability
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Martial Vulnerability VI on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 620.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Martial Vulnerability VI on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 620.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 60) from [[Ancient Knowledge: Oiled Ring of Engagements]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 587544432 1898461833:Oiled Ring of Engagements\/a
 categories:

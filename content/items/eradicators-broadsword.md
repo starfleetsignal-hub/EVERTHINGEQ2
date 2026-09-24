@@ -17,7 +17,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1717386506 -1526665532:Eradicator's Broadsword\/a
 categories:
 - Berserker Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '2'
   aspeed: '3.2'
   dtype: Plate Armor
-effects: '**Venom Immunity**'
+effect_name: Venom Immunity
+effects: "- Applies Venom Immunity when Activated.  Lasts for 40.0 seconds.\n  - Wards caster against 450 points of noxious damage\n  - The casting time of Venom Immunity is 5.0 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM 1205078901 -1562981790:Wingblade Sabatons\/a
 categories:
 - Attack Speed (Equipment)

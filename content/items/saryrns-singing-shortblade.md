@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Viperous Mist**'
+effect_name: Viperous Mist
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Viperous Mist on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 61 - 75 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 168751158 -83811757:Saryrn's Singing Shortblade\/a
 aliases:
 - Saryn's Singing Shortblade

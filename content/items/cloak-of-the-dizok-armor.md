@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Ancestral Fury**<br>**Featherfall**'
+effect_name: Ancestral Fury, Featherfall
+effects: "- Applies Ancestral Fury when Activated.\n  - Changes the wearer into an avenging ghost.\n  - The casting time of Ancestral Fury is 1.0 second and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of the Di'Zok (crate)|Cloak of the Di'Zok]]
 item_link: \aITEM -1398072797 8681493:Cloak of the Di'Zok\/a
 categories:

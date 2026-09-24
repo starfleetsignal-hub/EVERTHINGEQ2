@@ -15,7 +15,8 @@ stats:
   potency: '6'
   multi: '8.9'
   vselemental: '+451'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 29.0.\n    - Increases Haste of caster by 27.4.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 88) from [[Advanced Jeweler Volume 88 (Heirloom)]] *Crafted by [[Jeweler]] (level 88) from [[Advanced Jeweler Volume 88 (Normal)]] *From [[Melee Jewelry Pack (Level 82 Mastercrafted)]]'
 item_link: \aITEM 113195880 -1552145068:Brellium Band Of Agility\/a
 categories:

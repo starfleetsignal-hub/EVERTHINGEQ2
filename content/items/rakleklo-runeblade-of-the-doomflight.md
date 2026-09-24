@@ -19,7 +19,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Life Draining**'
+effect_name: Life Draining
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Drain Life on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 296 - 362 magic damage on target.\n    - Heals caster for 205 - 251.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1824581657 1598228238:Rak'leklo, Runeblade of the Doomflight\/a
 image: images/Rak'leklo,_Runeblade_of_the_Doomflight.jpg
 categories:

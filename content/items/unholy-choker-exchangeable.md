@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dps: '12.8'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: '\aITEM -851343998 2017325811 0 0 0:Unholy Choker: Exchangeable\/a'
 categories:

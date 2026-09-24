@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Distracting Blow**'
+effect_name: Distracting Blow
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Distracting Blow on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 item_link: \aITEM 245085461 -1441970462:Interloper's Mantle\/a
 categories:
 - Ability Modifier (Equipment)

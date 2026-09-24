@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   flurry: '36.3'
   mitinc: '17.6'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -359541870 -1480782368:Discarded Cloak of the Master\/a
 categories:
 - Assassin Equipment

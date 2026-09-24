@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Vial Potency**'
+effect_name: Vial Potency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 5.0%."
 item_link: \aITEM -1553368873 -345846505:Void-Darkened Shard of Strength\/a
 categories:
 - Ability Modifier (Equipment)

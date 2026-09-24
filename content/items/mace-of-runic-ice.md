@@ -21,7 +21,8 @@ stats:
   drating: '76.96'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Bite of Rime**'
+effect_name: Bite of Rime
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Bite of Rime on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 212 cold damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Sold by [[Melimy Yolta]] (Faction Merchant) in [[Fens of Nathsar]]
 item_link: \aITEM 1793273958 -1778525382:Mace of Runic Ice\/a
 categories:

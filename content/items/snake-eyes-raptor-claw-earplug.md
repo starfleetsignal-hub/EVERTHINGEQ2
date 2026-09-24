@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vsarcane: '+338'
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 18% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 206.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Removing the Skar from this Land]]'
 item_link: \aITEM 2094530010 -994978603:Snake-Eye's Raptor Claw Earplug\/a
 categories:

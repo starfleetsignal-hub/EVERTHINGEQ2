@@ -14,7 +14,8 @@ stats:
   crit: '7.1'
   critbonus: '6.3'
   potency: '10.6'
-effects: '**Psychotic Assault**'
+effect_name: Psychotic Assault
+effects: "- When Equipped:\n  - Increases all damage done to caster by 99%.\n  - Increases Potency of caster by 150.0.\n  - Prevents Sanguine Sacrifice from consuming health when casting spells and prevents Bertoxxulous' Blessing from exceeding 90 seconds duration."
 obtained_from: From [[Talan's Casting Necklace]]
 item_link: \aITEM 1035162320 -400188242:Enraged Skull Necklace\/a
 categories:

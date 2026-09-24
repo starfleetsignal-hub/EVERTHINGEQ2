@@ -16,7 +16,8 @@ stats:
   dps: '9.7'
   multi: '5.9'
   vselemental: '+360'
-effects: '**Enlightenment**'
+effect_name: Enlightenment
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Enlightenment on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 240 instantly and every 6 seconds.\n    - Increases Max Power of caster by 10.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1412141532 1793770544:Earring of the Enlightened One\/a
 categories:
 - Arcane Resistance (Equipment)

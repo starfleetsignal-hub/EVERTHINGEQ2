@@ -14,7 +14,7 @@ stats:
   health: '+309'
   power: '+212'
   vselemental: '+883'
-effects: 8% Double Attack Chance<br>Stonewill III
+effects: "- When Equipped:<br>\n  - On any combat or spell hit this spell may cast Stonewill on caster. Lasts for 12.0 seconds. Triggers about 1.4 times per minute.<br>\n    - Wards caster against 2000 points of all damage<br>\n    - Cannot be modified except by direct means\n  - When damaged in combat this spell has a 7% chance to cast Stonewill on caster. lasts for 12.0 seconds.\n    - Wards caster against 2000 points of all damage<br>\n    - Cannot be modified except by direct means"
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment

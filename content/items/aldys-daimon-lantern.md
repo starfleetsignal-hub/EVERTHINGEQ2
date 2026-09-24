@@ -17,7 +17,8 @@ stats:
   potency: 35,132.1
   resolve: '465'
   mitinc: '57.7'
-effects: '**Aldys'' Guiding Light**'
+effect_name: Aldys' Guiding Light
+effects: "- When Equipped:\n  - Grants an additional 10 in-combat movement speed.\n  - Grants an additional 18 Crit Bonus.\n  - Grants an additional 18 Fervor.\n  - Grants an additional 10 Fervor Overcap.\n  - Grants an additional 10 Crit Bonus Overcap.\n  - These bonuses will only apply when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2014991468 1558444040:Aldys' Daimon Lantern\/a
 categories:
 - Aldys' Guiding Light (Equipment)

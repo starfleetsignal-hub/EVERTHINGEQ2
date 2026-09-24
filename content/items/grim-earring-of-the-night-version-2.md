@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   dps: '8.9'
   vsarcane: '+280'
-effects: '**Infuriating Shout**'
+effect_name: Infuriating Shout
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Infuriating Shout II on target of attack.  Triggers about 1.0 times per minute.\n    - Increases Threat to target by 831\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2050733300 -1565485148:Grim Earring of the Night\/a
 categories:
 - Arcane Resistance (Equipment)

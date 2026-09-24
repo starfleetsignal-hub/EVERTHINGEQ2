@@ -16,7 +16,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 26 - 39 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -702485187 -330579672:Crude Imbued Cured Leather Sheath\/a
 categories:
 - Assassin Equipment

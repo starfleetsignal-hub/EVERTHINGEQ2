@@ -19,7 +19,8 @@ stats:
   drating: '91.5'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Startle**'
+effect_name: Startle
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Startle on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to targets in Area of Effect by 2,160 - 3,157\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1817317787 -1721742421:Axe of the Overlord\/a
 categories:
 - Berserker Equipment

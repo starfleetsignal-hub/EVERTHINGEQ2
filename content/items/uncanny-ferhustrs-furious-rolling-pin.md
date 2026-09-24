@@ -21,7 +21,8 @@ stats:
   dps: '118.8'
   multi: '67'
   dtype: Symbols
-effects: '**Flour Power**'
+effect_name: Flour Power
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Flour Power on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the the damage and healing of your next Spell or Combat Arts by 20.\n    - Dispelled when target casts a hostile spell\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 13.0 - 19.0 seconds."
 item_link: \aITEM 150980265 -496291421:Uncanny Ferhustr's Furious Rolling-Pin\/a
 categories:
 - Attack Speed (Equipment)

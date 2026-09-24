@@ -20,7 +20,8 @@ stats:
   drating: '97.92'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Greenmist**'
+effect_name: Greenmist
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Greenmist on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 730 divine damage on target.\n    - Decreases Mitigation of target vs physical damage by 702.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 943660557 938829716:Greenmist\/a
 categories:
 - Ability Modifier (Equipment)

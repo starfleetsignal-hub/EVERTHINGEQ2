@@ -16,7 +16,8 @@ stats:
   abmod: '+149'
   dps: '56.6'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 796316285 1858154107:Praetor's Immortal Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

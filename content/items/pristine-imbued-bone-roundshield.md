@@ -12,7 +12,7 @@ stats:
   health: '+10'
   power: '+10'
   dtype: Round Shield
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 34 heat damage on target"
 obtained_from: Crafted by [[Craftsman]] (level 11) from [[Advanced craftsman volume 11]]
 item_link: \aITEM -90059073 -216156504:Pristine Imbued Bone Roundshield\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Stalactite**'
+effect_name: Stalactite
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stalactite on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 540 piercing damage on target.\n    - Inflicts 540 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 643973595 1990042517:Rohop, the Icecleaver\/a
 image: images/Rohop,_the_Icecleaver.jpg
 categories:

@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Footwound**'
+effect_name: Footwound
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Footwound on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.6 times per minute.\n    - Slows target by 40.0%.\n    - Only affects targets level 103 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1750514885 963515110:Hallgloom's Bow of Hobbling\/a
 image: images/Hallgloom's_Bow_of_Hobbling_(Level_71).png
 categories:

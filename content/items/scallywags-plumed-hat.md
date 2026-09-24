@@ -17,7 +17,8 @@ stats:
   aspeed: '2.9'
   multi: '3.7'
   dtype: Chain Armor
-effects: '**Scallywag''s Ruse**'
+effect_name: Scallywag's Ruse
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Scallywag's Slip on target's attacker.  Lasts for 5.0 seconds.\n    - Slows target by 39.2%.\n    - Cannot be modified except by direct means\n  - Does not affect Epic targets"
 item_link: \aITEM 1674096033 -854249761:Scallywag's Plumed Hat\/a
 categories:
 - Assassin Equipment

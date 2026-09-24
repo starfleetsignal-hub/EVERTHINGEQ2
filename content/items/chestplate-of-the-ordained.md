@@ -16,7 +16,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Plate Armor
-effects: '**Distracting Aura**'
+effect_name: Distracting Aura
+effects: "- Applies Distracting Aura when Activated.  Lasts for 30.0 seconds.\n  - When damaged this spell will cast Distract on target's attacker.\n    - Decreases Threat to target encounter by 1,409 - 2,349\n    - Cannot be modified except by direct means\n  - The reuse time of Distracting Aura is 30 minutes"
 obtained_from: Purchased with PvP status points.
 item_link: \aITEM -1068264509 -816221746:Chestplate of the Ordained\/a
 categories:

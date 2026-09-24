@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dps: '5.9'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 608.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 66) from [[Advanced Tailor Volume 66 (no-value)]] *Crafted by [[Tailor]] (level 66) from [[Advanced Tailor Volume 66 (Uncommon)]]'
 item_link: \aITEM 665198909 -1316286759 0 0 0:pristine ruin imbued dragon's breath hex doll\/a
 categories:

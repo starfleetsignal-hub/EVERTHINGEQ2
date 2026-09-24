@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '21.3'
   vselemental: +32,207
-effects: '**Veeshan''s Restoration**'
+effect_name: Veeshan's Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Veeshan's Restoration on the group.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Reduces physical damage done to group members (AE) by 10%. This spell will absorb a total of 10 attacks.\n    - Instantly restores 4.65% of incoming damage to the group\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1100776044 1061251521:Grave-caller's Dangling Bones\/a
 categories:
 - Arcane Resistance (Equipment)

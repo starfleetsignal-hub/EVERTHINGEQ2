@@ -15,7 +15,8 @@ stats:
   potency: '10.7'
   abmod: '+179'
   vselemental: +8,019
-effects: '**Immovable Soul**'
+effect_name: Immovable Soul
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 34.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 220453797 1495571480:Platinum Stud of Clout\/a
 categories:
 - Ability Modifier (Equipment)

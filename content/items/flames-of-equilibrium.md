@@ -17,7 +17,8 @@ stats:
   potency: 9,674.3
   resolve: '205'
   dps: '73'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 36.4.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 30.3.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 312929213 -784992264:Flames of Equilibrium\/a
 categories:
 - Assassin Equipment

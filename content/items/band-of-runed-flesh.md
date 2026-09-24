@@ -16,7 +16,8 @@ stats:
   abmod: '+105'
   multi: '6.8'
   vselemental: '+360'
-effects: '**Deft Parry**'
+effect_name: Deft Parry
+effects: "- When Equipped:\n  - Caster will Parry 2.0% of incoming attacks."
 obtained_from: '[[The Black Heart of Hatred]]'
 item_link: \aITEM 1070899508 -996045940:Band of Runed Flesh\/a
 categories:

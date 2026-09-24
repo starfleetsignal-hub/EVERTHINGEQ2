@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Call of Solusek**'
+effect_name: Call of Solusek
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Call of Solusek IX on target of attack.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,265 - 1,399 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 1,053.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Call of Solusek IX on target of spell.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,265 - 1,399 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 1,053.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 90) from [[Ancient Knowledge: Lucid Sash of Impulse]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 1699525404 914196456:Lucid Sash of Impulse\/a
 categories:

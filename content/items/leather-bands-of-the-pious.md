@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: Sold by [[Aliyah Vensdord]] (Faction Merchant) in [[Kylong Plains]]
 item_link: \aITEM -29037767 335500825:Leather Bands of the Pious\/a
 categories:

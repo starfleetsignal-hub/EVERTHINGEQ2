@@ -13,7 +13,8 @@ stats:
   crit: '1.1'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Silence**'
+effect_name: Silence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silence II on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.0 times per minute.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 87.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1296778320 -849333126:Belt of the Sinister Creation\/a
 image: images/Belt_of_the_Sinister_Creation.jpg
 categories:

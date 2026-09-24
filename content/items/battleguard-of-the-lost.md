@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Plate Armor
-effects: '**Replenish Power**'
+effect_name: Replenish Power
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Replenish Power on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 105.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1192927796 -2033278421:Battleguard of the Lost\/a
 categories:
 - Berserker Equipment

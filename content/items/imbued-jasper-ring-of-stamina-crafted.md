@@ -11,7 +11,8 @@ stats:
   str: '+7'
   sta: '+7'
   vsarcane: '+33'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 6.6.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 26) from [[Advanced Jeweler Volume 26 (Normal)]] *Crafted by [[Jeweler]] (level 26) from [[Advanced Jeweler Volume 26 (No-Trade)]]'
 item_link: \aITEM 867959501 -1082984062:Imbued Jasper Ring of Stamina\/a
 image: images/Imbued_Jasper_Ring_of_Stamina.jpg

@@ -21,7 +21,8 @@ stats:
   dps: '118.8'
   multi: '67'
   dtype: Symbols
-effects: '**Leverage**'
+effect_name: Leverage
+effects: "- When Equipped:\n  - Increases the damage and healing of profession Abilities by 0.6%."
 item_link: \aITEM 504513592 994154949:Fabled Life Force of the High Advisor\/a
 categories:
 - Attack Speed (Equipment)

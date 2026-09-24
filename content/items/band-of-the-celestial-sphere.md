@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   vselemental: '+210'
-effects: '**Fragile as Glass**'
+effect_name: Fragile as Glass
+effects: "- Applies Fragile as Glass when Activated.  Lasts for 1 minute.\n  - Decreases Mitigation of target vs physical damage by 588.\n  - Must be engaged in pvp combat\n  - The casting time of Fragile as Glass is 2.0 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM 633305211 1170895163:Band of the Celestial Sphere\/a
 categories:
 - Ability Modifier (Equipment)

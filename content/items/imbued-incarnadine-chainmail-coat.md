@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 84 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 79) from [[Advanced Armorer Volume 79 (Heirloom)]] *Crafted by [[Armorer]] (level 79) from [[Advanced Armorer Volume 79 (Normal)]] *From [[Chainmail Armor Pack (Level 72 Mastercrafted) (Version 1)|Chainmail Armor Pack (Level 72 Mastercrafted)]] *From [[Chainmail Armor Pack (Level 72 Mastercrafted) (Version 2)|Chainmail Armor Pack (Level 72 Mastercrafted)]]'
 item_link: \aITEM -1477087695 -1249100003:Imbued Incarnadine Chainmail Coat\/a
 categories:

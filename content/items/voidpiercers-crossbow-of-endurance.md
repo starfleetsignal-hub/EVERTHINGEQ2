@@ -25,7 +25,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Aim
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,799 heat damage on target.\n    - Inflicts 3,799 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 120) from [[Advanced Woodworker Studies 20]]
 item_link: \aITEM -1241370472 1233753771:Voidpiercer's Crossbow of Endurance\/a
 categories:

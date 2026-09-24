@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Plate Armor
-effects: '**Lesser Impact Conversion**'
+effect_name: Lesser Impact Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 4% chance to cast Impact Conversion on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 16 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Another Shell Game]]'
 item_link: \aITEM -56165088 -1007964943:Jade-inlaid Gauntlets\/a
 categories:

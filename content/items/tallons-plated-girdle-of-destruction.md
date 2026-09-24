@@ -18,7 +18,8 @@ stats:
   aspeed: '40'
   flurry: '21'
   mitinc: '10'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception VI when Equipped.\n  - Increases Fervor of caster by 16.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 375."
 item_link: \aITEM 2119261472 137483159:Tallon's Plated Girdle of Destruction\/a
 categories:
 - Ability Doublecast (Equipment)

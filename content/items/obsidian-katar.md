@@ -21,7 +21,8 @@ stats:
   drating: '59.99'
   dtype: Main Hand Piercing
   wtype: Fists
-effects: '**Obsidian Shards**'
+effect_name: Obsidian Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Impact on target of attack.  Lasts for 2.5 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 75 magic damage on target.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 79.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 14860676 -91282551:Obsidian Katar\/a
 categories:
 - Ability Modifier (Equipment)

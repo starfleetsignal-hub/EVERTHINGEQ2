@@ -13,7 +13,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +15,750
-effects: '**Murder and Mayhem**'
+effect_name: Murder and Mayhem
+effects: "- When Equipped:\n  - On a death blow this spell will cast Murder and Mayhem on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus and Potency by 3.5 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 item_link: \aITEM -773258568 377949938:Bloodsoaked Band of Ill Intent\/a
 image: images/Bloodsoaked_Band_of_Ill_Intent.png
 categories:

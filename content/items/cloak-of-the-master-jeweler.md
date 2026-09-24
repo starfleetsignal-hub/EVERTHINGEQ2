@@ -8,7 +8,8 @@ level: '80'
 slot: Cloak
 classes: '[[Jeweler]]'
 flags: lore no-trade no-value
-effects: '**Focused Proficiency**'
+effect_name: Focused Proficiency
+effects: "- Applies Focused Proficiency when Activated.  Lasts for 6 hours.\n  - Increases Artificing of caster by 15.4.\n  - Increases success chance by 1.5%.\n  - The casting time of Focused Proficiency is 5.0 seconds and the reuse time of the spell is 10.0 seconds"
 obtained_from: '[[Promises Kept]]'
 item_link: \aITEM -1748058745 -2029245839:Cloak of the Master Jeweler\/a
 image: images/Cloak_of_the_Master_Jeweler.png

@@ -15,7 +15,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   aspeed: '7.4'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -642409939 665341343:Choker of Elemental Command\/a
 categories:
 - Ability Modifier (Equipment)

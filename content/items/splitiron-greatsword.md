@@ -22,7 +22,8 @@ stats:
   drating: '318.21'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 100) from [[Deepforge Weaponsmithing Essentials]]
 item_link: \aITEM -1621777410 -1694931547:Splitiron Greatsword\/a
 categories:

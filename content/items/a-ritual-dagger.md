@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Mindmelt**'
+effect_name: Mindmelt
+effects: "- Applies Mindmelt when Activated.  Lasts for 1 minute.\n  - Increases Potency of caster by 10.0.\n  - Converts damage spells to mental damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Mindmelt is 1 minute"
 item_link: \aITEM 1719638617 -1839881024:A Ritual Dagger\/a
 categories:
 - Bard Equipment

@@ -13,7 +13,8 @@ stats:
   crit: '3.3'
   critbonus: '1.2'
   potency: '5.2'
-effects: '**Arcane Mastery**'
+effect_name: Arcane Mastery
+effects: "- When Equipped:\n  - Increases the range and radius of spells by 10%, reduces casting time and power cost by 5%."
 item_link: \aITEM 1855406270 1065237644:Collected Memories of a Thaumaturge\/a
 categories:
 - Arcane Mastery (Equipment)

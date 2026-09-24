@@ -16,7 +16,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -865813927 775002031:Devastator's Greatsword\/a
 categories:
 - Berserker Equipment

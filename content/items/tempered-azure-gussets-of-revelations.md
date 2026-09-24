@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   multi: '18.1'
   dtype: Plate Armor
-effects: '**Will of the Battle Priest**'
+effect_name: Will of the Battle Priest
+effects: "- When Equipped:\n  - Increases STA of caster by 50.0.\n  - Increases Crushing, Slashing, Piercing, Ranged, Disruption and Subjugation of caster by 40.0."
 obtained_from: '* *Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Gussets of Revelations]] *Made from [[Colossal Frog Tongue]] *Made from [[Shimmering Siren Scales]] *Made from [[Tavalan Armor Shard]]'
 item_link: \aITEM 1342225346 830811372:Tempered Azure Gussets of Revelations\/a
 image: images/Tempered_Azure_Gussets_of_Revelations.png

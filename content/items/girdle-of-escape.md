@@ -13,7 +13,8 @@ stats:
   crit: '0.5'
   potency: '0.8'
   abmod: '+19'
-effects: '**Spirit of the Wind**'
+effect_name: Spirit of the Wind
+effects: "- Applies Spirit of the Wind when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM -1946437800 -1155007132:Girdle of Escape\/a
 categories:
 - Ability Modifier (Equipment)

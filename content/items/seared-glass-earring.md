@@ -17,7 +17,8 @@ stats:
   aspeed: '38.3'
   dps: '14.6'
   vselemental: +36,558
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -1395113983 -2007015814:Seared Glass Earring\/a
 image: images/Seared_Glass_Earring.jpg
 categories:

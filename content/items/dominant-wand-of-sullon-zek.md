@@ -22,7 +22,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,113 - 4,545 heat damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1947308740 -1330195979:Dominant Wand of Sullon Zek\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Freeze**'
+effect_name: Freeze
+effects: "- Applies Freeze II when Activated.  Lasts for 1 minute.\n  - Increases DPS of caster by 60.0.\n  - Converts damage spells to cold damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Freeze II is 1 minute"
 item_link: \aITEM 1881945899 394859089:Sconce of Freezing Spite\/a
 categories:
 - AE Autoattack Chance (Equipment)

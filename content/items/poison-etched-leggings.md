@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   multi: '1.1'
   dtype: Chain Armor
-effects: '**Slip**'
+effect_name: Slip
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Slip on target's attacker.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means"
 item_link: \aITEM 460844289 -1323849678:Poison Etched Leggings\/a
 categories:
 - Assassin Equipment

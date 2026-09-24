@@ -16,7 +16,8 @@ stats:
   aspeed: '15.7'
   multi: '16.5'
   vselemental: +1,728
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1485013804 -1778016702:Leveraged Cuffs of Buyout\/a
 image: images/Leveraged_Cuffs_of_Buyout.png
 categories:

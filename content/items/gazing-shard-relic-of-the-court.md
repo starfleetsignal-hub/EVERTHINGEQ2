@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   abmod: +4902,923
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 862.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -556087287 -993318629:Gazing Shard, Relic of the Court\/a
 categories:
 - Ability Modifier (Equipment)

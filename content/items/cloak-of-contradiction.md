@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dps: '9.7'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM -1010353635 833793928:Cloak of Contradiction\/a
 categories:
 - Ability Modifier (Equipment)

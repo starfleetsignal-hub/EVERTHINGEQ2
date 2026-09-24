@@ -18,7 +18,8 @@ stats:
   potency: '8.6'
   dps: '21.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: From [[Inexorable Gloves]]
 item_link: \aITEM 325271888 -1181463343:Virtuoso's Cuffs of the Citadel\/a
 categories:

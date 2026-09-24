@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   multi: '6.4'
   dtype: Plate Armor
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 353 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -318119180 -114422932:Iceknight Cuirass\/a
 categories:
 - Ability Modifier (Equipment)

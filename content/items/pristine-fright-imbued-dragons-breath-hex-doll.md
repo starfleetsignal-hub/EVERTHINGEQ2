@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   multi: '3.4'
   mitinc: '2'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 15.8.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 66) from [[Advanced Tailor Volume 66 (no-value)]] *Crafted by [[Tailor]] (level 66) from [[Advanced Tailor Volume 66 (Uncommon)]]'
 item_link: \aITEM -524827734 1133627485 0 0 0:pristine fright imbued dragon's breath hex doll\/a
 categories:

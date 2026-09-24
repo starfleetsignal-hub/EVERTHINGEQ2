@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: +1,404
   aspeed: '16.8'
-effects: '**Undercover Assault**'
+effect_name: Undercover Assault
+effects: "- Applies Undercover Assault when Activated.  Lasts for 18.0 seconds.\n  - Automatically reduces the caster's threat by 80% of all damage inflicted\n  - Increases the potency of attacks by 125%.\n  - Increases Potency by 1.00% of Crit Bonus.\n  - On any combat or spell hit this spell will cast Undercover Assault on target of attack.\n    - Decreases threat priority of target by 1 position\n      - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 18.0 - 27.0 seconds.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Undercover Assault is 2 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -925076460 1465726182:Swift Umbrite Symbol\/a
 categories:

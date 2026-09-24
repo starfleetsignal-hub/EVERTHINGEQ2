@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -1008621244 1118434158 0 0 0:Darkthread Cuffs of Rift Evocation\/a
 categories:
 - Ability Modifier (Equipment)

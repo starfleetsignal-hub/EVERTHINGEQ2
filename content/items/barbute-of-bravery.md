@@ -12,7 +12,8 @@ stats:
   wis: '+5'
   mit: '47'
   dtype: Chain Armor
-effects: '**Glyph of Stamina**'
+effect_name: Glyph of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Stamina on caster.  Lasts for 30.0 seconds.\n    - Increases STA of target by 4.8.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1546735360 -1338245788:Barbute of Bravery\/a
 categories:
 - Assassin Equipment

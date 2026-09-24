@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**You''re On Your Own**'
+effect_name: You're On Your Own
+effects: "- When Equipped:\n  - Increases the raid's health by 8,000\n  - Cannot be modified except by direct means\n- Applies You're On Your Own II when Activated.  Lasts for 12.0 seconds.\n  - Increases the caster's health by 8,000 per ally within 35 meters.\n  - Suspends the passive effect for 12 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of You're On Your Own II is 1 minute"
 item_link: \aITEM -708488486 1209811758:Depraved Idol of Solitary\/a
 categories:
 - Assassin Equipment

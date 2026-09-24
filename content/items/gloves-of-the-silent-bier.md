@@ -17,7 +17,8 @@ stats:
   potency: '10'
   dps: '22.2'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 662631579 53577840:Gloves of the Silent Bier\/a
 categories:
 - Census Credits

@@ -16,7 +16,8 @@ stats:
   abmod: '+779'
   dps: '27'
   vselemental: +28,613
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 18.8."
 item_link: \aITEM -340827192 1237290989:Earring of Swift Stings\/a
 categories:
 - Ability Modifier (Equipment)

@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -461298379 -1295558858:Malteor's Sash of Scales\/a
 categories:
 - Assassin Equipment

@@ -12,7 +12,8 @@ stats:
   sta: '+12'
   mit: '115'
   dtype: Leather Armor
-effects: '**Renewing Breeze Glyph**'
+effect_name: Renewing Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Renewing Breeze on caster.\n    - Heals caster for 35.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 786380708 -81526340:Woven Vine Bracer\/a
 categories:
 - Assassin Equipment

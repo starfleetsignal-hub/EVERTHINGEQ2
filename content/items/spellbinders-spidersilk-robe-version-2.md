@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 5%."
 item_link: \aITEM -977640325 1281066168 0 0 0:Spellbinder's Spidersilk Robe\/a
 categories:
 - Casting Speed (Equipment)

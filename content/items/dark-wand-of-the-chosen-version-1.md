@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Aura of the Chosen**'
+effect_name: Aura of the Chosen
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Aura of the Chosen on caster.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases DPS of pet by 5.0.\n    - Increase pets melee damage by 5% and spell damage by 100.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -627151274 927872982:Dark Wand of the Chosen\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   critbonus: '987.9'
   potency: 11,287.9
   resolve: '265'
-effects: '**Deadly Insight**'
+effect_name: Deadly Insight
+effects: "- Applies Deadly Insight when Activated.  Lasts for 1 minute 30 seconds.\n  - Increases Weapon Damage of caster by 72.0.\n  - Increases Weapon Damage Overcap of caster by 72.0.\n  - Increases the damage and healing of spells and combat arts by 10.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Deadly Insight is 2.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1421219874 -133781108:Peculiar Deadstone of Power\/a
 categories:
 - Ability Doublecast (Equipment)

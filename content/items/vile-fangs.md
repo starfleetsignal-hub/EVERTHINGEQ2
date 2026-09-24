@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +16,380
-effects: '**Noxious Coating**'
+effect_name: Noxious Coating
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Noxious Coating II on target's attacker.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 36,432 poison damage on target.\n    - Decreases Accuracy of target by 8.0%.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -580846915 -200703046:Vile Fangs\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '5.2'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 130 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Armorer]] (level 86) from [[Armorer Essentials Volume 86]]
 item_link: \aITEM 1814335384 -1143561912:Imbued Titanium Brigandine Leggings\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +19,032
   mitinc: '6'
-effects: '**Bloodsoaked**'
+effect_name: Bloodsoaked
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus and Potency based on the number of increments of Paindrinker. 0: -8 Crit Bonus/Potency. 1: -5 Crit Bonus/Potency. 2: -3 Crit Bonus/Potency. 3: 0 Crit Bonus/Potency. 4: 18 Crit Bonus/Potency. 5: 29 Crit Bonus/Potency\n  - When any damage is received this spell has a 30% chance to cast Bloodsoaked II on caster.  Lasts for 2 minutes.  This effect normalizes based off of a three second triggering event.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1165831772 2101947332:Resolute Band of Covered Tribes\/a
 categories:
 - AE Autoattack Chance (Equipment)

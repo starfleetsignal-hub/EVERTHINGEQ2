@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   dps: '9.7'
   vselemental: '+356'
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Path for Medicus]]'
 item_link: \aITEM -943605737 -18485285:Skleross Bands of Glory\/a
 categories:

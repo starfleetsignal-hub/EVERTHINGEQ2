@@ -17,7 +17,8 @@ stats:
   resolve: '535'
   multi: '36.3'
   vselemental: +374,075
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1545992997 -135550347:Grand Relic Eminent Stud\/a
 categories:
 - Arcane Resistance (Equipment)

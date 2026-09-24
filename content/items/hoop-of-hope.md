@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   vselemental: '+400'
-effects: '**Hopeful Resolve**'
+effect_name: Hopeful Resolve
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Hopeful Resolve on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Makes caster immune to Stifle effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 273246243 890145727:Hoop of Hope\/a
 categories:
 - Arcane Resistance (Equipment)

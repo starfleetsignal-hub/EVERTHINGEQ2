@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Sacred Bolt Glyph**'
+effect_name: Sacred Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 100 - 122 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -110988108 -198817457:Sabre of the Storyteller\/a
 categories:
 - Assassin Equipment

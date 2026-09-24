@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: Sold by [[Dealer Zaynx]] (Faction Merchant) in [[Kunzar Jungle]]
 item_link: \aITEM 570339496 -736149230:Battledruid's Hide Pants\/a
 categories:

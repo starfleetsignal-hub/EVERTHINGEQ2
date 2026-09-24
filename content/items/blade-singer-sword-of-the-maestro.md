@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Uplifting Concerto**'
+effect_name: Uplifting Concerto
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Concerto on the group.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - On any combat or spell hit this spell will cast Singing Blades on target of attack.\n      - Inflicts 389 - 475 magic damage on target.\n      - Grants a total of 3 triggers of the spell.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -955295821 -585661848:Blade Singer, Sword of the Maestro\/a
 categories:
 - Ability Modifier (Equipment)

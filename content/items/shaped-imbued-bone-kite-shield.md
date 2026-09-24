@@ -11,7 +11,8 @@ stats:
   sta: '+4'
   int: '+4'
   dtype: Kite Shield
-effects: '**Dim Sanguine Imbued**'
+effect_name: Dim Sanguine Imbued
+effects: "- Applies Dim Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Sanguine Feedback on target's attacker.\n    - Inflicts 17 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2120431153 -1723239907:shaped imbued bone kite shield\/a
 categories:
 - Berserker Equipment

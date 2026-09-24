@@ -17,7 +17,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Leather Armor
-effects: '**Battlefury**'
+effect_name: Battlefury
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 3.4.\n  - On a melee hit this spell may cast Battle Fury on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 22.0.\n    - If Target is not Epic\n    - Cannot be modified except by direct means"
 item_link: \aITEM -251185714 -912672985:Battlerager Hat\/a
 categories:
 - Ability Modifier (Equipment)

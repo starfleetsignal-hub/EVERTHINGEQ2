@@ -11,7 +11,8 @@ stats:
   str: '+10'
   sta: '+10'
   dtype: Buckler
-effects: '**Glimmering Blessing**'
+effect_name: Glimmering Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Glimmering Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 30\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 30) from [[Advanced Woodworker Volume 30 (Normal)]] *Crafted by [[Woodworker]] (level 30) from [[Advanced Woodworker Volume 30 (No-Trade)]]'
 item_link: \aITEM -586571844 1592732824:Blessed Oak Buckler\/a
 categories:

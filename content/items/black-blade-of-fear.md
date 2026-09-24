@@ -22,7 +22,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 8,970,000 crushing damage on target\n    - Increases Crit Bonus of caster by 36.4.\n    - Increases Potency of caster by 56.9.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1027188060 1415358043:Black Blade of Fear\/a
 categories:
 - Ability Modifier (Equipment)

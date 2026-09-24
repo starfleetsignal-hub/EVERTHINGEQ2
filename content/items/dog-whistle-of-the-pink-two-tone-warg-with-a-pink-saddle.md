@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Pink Two Tone Warg with a Pink Saddle
+effects: "- Applies Pink Two Tone Warg with a Pink Saddle when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 50%\n  - Increases Crushing, Piercing, Slashing, Ranged and Disruption of caster by 7.0\n  - Increases damage done by spells and combat arts by up to 30."
 obtained_from: Sold by [[Verkaera Myr'zok]] (Horse Merchant) in [[Timorous Deep]]
 item_link: 1703102610 979450902:Dog Whistle of the Pink Two Tone Warg with a Pink Saddle
 image: images/DogWhistlePinkWarg1.jpg

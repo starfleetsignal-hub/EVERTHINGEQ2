@@ -12,7 +12,8 @@ stats:
   sta: '+19'
   crit: '0.2'
   potency: '0.5'
-effects: '**Titan''s Mettle**'
+effect_name: Titan's Mettle
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Titan's Mettle V on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 418 - 512.\n    - Increases Mitigation of caster vs physical damage by 572.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 obtained_from: '*Crafted by [[Sage]] (level 50) from [[Ancient Knowledge: Fortified Crag of Dynamism]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 2094851417 -1237374880:Fortified Crag of Dynamism\/a
 categories:

@@ -24,7 +24,8 @@ stats:
   drating: '254.7'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Reave**'
+effect_name: Reave
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Reave on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 2,872 mental damage on target encounter instantly and every second.\n    - Decreases Combat Mitigation of target encounter by 15.1.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1171631371 -470538528:The Mist Reaver\/a
 categories:
 - AE Autoattack Chance (Equipment)

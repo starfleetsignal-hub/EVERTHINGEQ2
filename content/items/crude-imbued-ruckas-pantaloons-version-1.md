@@ -12,7 +12,8 @@ stats:
   int: '+7'
   mit: '50'
   dtype: Cloth Armor
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 20 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2061831309 -944842998:crude imbued ruckas pantaloons\/a
 categories:
 - Assassin Equipment

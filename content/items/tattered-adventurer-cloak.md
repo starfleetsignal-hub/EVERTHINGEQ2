@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   aspeed: '8.8'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 976221275 -39303413:Tattered Adventurer Cloak\/a
 categories:
 - Assassin Equipment

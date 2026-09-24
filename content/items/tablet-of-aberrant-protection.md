@@ -15,7 +15,8 @@ stats:
   potency: '32.3'
   resolve: '2'
   dps: '27'
-effects: '**Stonesoul**'
+effect_name: Stonesoul
+effects: "- Applies Stonesoul when Activated.  Lasts for 30.0 seconds.\n  - Gives caster an extra 20.0% mitigation to their worn armor.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Stonesoul is 1 minute 30 seconds"
 item_link: \aITEM 121060368 549087031:Tablet of Aberrant Protection\/a
 categories:
 - Assassin Equipment

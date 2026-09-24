@@ -15,7 +15,8 @@ stats:
   potency: '5'
   vselemental: '+400'
   mitinc: '4.9'
-effects: '**Skin Like Stone**'
+effect_name: Skin Like Stone
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Skin Like Stone on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 1,144 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1841501789 490662133:Ring of the Glade Protector\/a
 categories:
 - Arcane Resistance (Equipment)

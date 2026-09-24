@@ -7,7 +7,7 @@ flags: no-trade no-value
 description: You never know what everyday item may sparkle when you wear these!
 stats:
   dtype: Cloth Armor
-effects: Improved Ale Goggles
+effects: "- Applies Improved Ale Goggles when Equipped.\n  - Grants Ale Vision to caster"
 obtained_from: '[[Ale Goggles]]'
 item_link: \aITEM -2118312268 51911723:[Improved Ale Goggles]\/a
 events:

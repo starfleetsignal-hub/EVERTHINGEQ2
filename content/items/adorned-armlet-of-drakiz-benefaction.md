@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   vselemental: +1,692
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 803823622 -272339057:Adorned Armlet of Drakiz Benefaction\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   abmod: '+68'
-effects: '**Force**'
+effect_name: Force
+effects: "- When Equipped:\n  - Increases magic damage done by spells by up to 35."
 item_link: \aITEM 748571457 -771067992:Cord of Vines\/a
 categories:
 - Ability Modifier (Equipment)

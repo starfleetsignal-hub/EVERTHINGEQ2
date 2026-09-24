@@ -18,7 +18,8 @@ stats:
   multi: '17.5'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 884122033 1745688007:Tempered Drakizite Gauntlets of the Underdepths\/a
 categories:
 - Berserker Equipment

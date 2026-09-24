@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   multi: '13.5'
   dtype: Cloth Armor
-effects: '**Servant of the Dead**'
+effect_name: Servant of the Dead
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Servant of the Dead on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 1.0 times per minute.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Servant of the Dead on target of attack.  Lasts for 20.0 seconds.  Triggers about 1.0 times per minute.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1856170171 1117140930:Astral Sands Robe\/a
 categories:
 - Assassin Equipment

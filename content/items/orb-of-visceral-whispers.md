@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Divine Whispers**'
+effect_name: Divine Whispers
+effects: "- Applies Divine Whispers III when Activated.  Lasts for 10.0 seconds.\n  - Increases healing received of group members (AE) by 20%\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Whispers III is 2 minutes"
 item_link: \aITEM 2111091099 464803288:Orb of Visceral Whispers\/a
 categories:
 - Ability Modifier (Equipment)

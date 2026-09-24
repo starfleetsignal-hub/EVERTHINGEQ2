@@ -11,7 +11,7 @@ stats:
   sta: '+12'
   health: '+10'
   power: '+10'
-effects: Aura of Stamina
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 3% chance to cast Spark of Stamina on caster. Lasts for 45.0 seconds.\n    - Increases STA of caster by 5.1\n    - Increases In-Combat Health Regeneration Per Tick by 15.6"
 obtained_from: Crafted by [[Scholar]] (level 18) from [[Advanced Scholar Volume 18]]
 item_link: \aITEM -388161725 -299751509:Pristine Imbued Silver Band of Stamina\/a
 categories:

@@ -24,7 +24,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Duke of Below**'
+effect_name: Blessing of the Duke of Below
+effects: "- When Equipped:\n  - \"Blessing of the Duke of Below\" protects the wearer from strong deific magics used by Brell!"
 item_link: \aITEM 347543088 -439111232:Double-Bladed Greatstaff of Underfoot [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

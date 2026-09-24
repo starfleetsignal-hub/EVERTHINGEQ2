@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   strike: '7.3'
   dps: '10.6'
-effects: '**Runic Reflection**'
+effect_name: Runic Reflection
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Reflection on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 425 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 258021806 1656264666:Lava-Walker Utility Belt\/a
 categories:
 - Assassin Equipment

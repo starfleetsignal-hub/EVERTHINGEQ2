@@ -12,7 +12,7 @@ stats:
   int: '+23'
   health: '+45'
   power: '+45'
-effects: Aura of Wisdom
+effects: "- When Equipped:\n  - When target casts a beneficial spell this spell has a chance to cast Gleam of Wisdom on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases WIS of caster by 23\n    - Increases Focus, Ministration and Ordination of caster by 13.1"
 obtained_from: Crafted by [[Jeweler]] (level )
 image: images/Pristine_imbued_moonstone_ring_of_wisdom.jpg
 aliases:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Plate Armor
-effects: '**Memory Lapse**'
+effect_name: Memory Lapse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Memory Lapse on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1345132375 1043690363:Battlepriest's Plate Stompers\/a
 categories:
 - Berserker Equipment

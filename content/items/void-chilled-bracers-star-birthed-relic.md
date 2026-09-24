@@ -19,7 +19,8 @@ stats:
   resolve: '630'
   multi: '11.7'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 862.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1614930786 -955249052:Void Chilled Bracers, Star Birthed Relic\/a
 categories:
 - Assassin Equipment

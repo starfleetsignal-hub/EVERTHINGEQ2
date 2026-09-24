@@ -16,7 +16,8 @@ stats:
   abmod: '+129'
   aspeed: '6.7'
   vselemental: '+335'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM -1691266973 771872987:Ring of Mystic Ice\/a
 categories:
 - Ability Modifier (Equipment)

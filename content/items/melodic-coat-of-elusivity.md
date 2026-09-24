@@ -13,7 +13,8 @@ stats:
   mit: '211'
   potency: '0.2'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 4.0.\n  - Increases Haste of caster by 4.0.\n  - Increases in-combat movement speed of caster by 4.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 40) from [[Ancient Knowledge: Melodic Coat of Elusivity]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 761548447 903142050:Melodic Coat of Elusivity\/a
 categories:

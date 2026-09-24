@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Allied Energy**'
+effect_name: Allied Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 item_link: \aITEM -555733879 -256147274:Torque of the Primordial Allies\/a
 categories:
 - Allied Energy (Equipment)

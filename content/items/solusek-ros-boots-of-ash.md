@@ -16,7 +16,8 @@ stats:
   aspeed: '53'
   multi: '36.3'
   dtype: Cloth Armor
-effects: '**Dragonsoul**'
+effect_name: Dragonsoul
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 5.5.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2068153133 -1435435786 0 0 0:Solusek Ro's Boots of Ash\/a
 categories:
 - Attack Speed (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +26,832
   mitinc: '6'
-effects: '**Accursed Retribution**'
+effect_name: Accursed Retribution
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Accursed Retribution II on target.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus of caster by 60.0, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - Can only trigger once every 30 seconds and only triggers on damage greater than 25% of the wearer's maximum health"
 item_link: \aITEM 1603439037 -817304239:Ring of the Dark Accursed\/a
 categories:
 - AE Autoattack Chance (Equipment)

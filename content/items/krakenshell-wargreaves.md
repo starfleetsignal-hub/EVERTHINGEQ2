@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Plate Armor
-effects: '**Krakenshell**'
+effect_name: Krakenshell
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 4% chance to cast Krakenshell on caster.  Lasts for 10.0 seconds.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -796368618 -2109444045:Krakenshell Wargreaves\/a
 categories:
 - Ability Modifier (Equipment)

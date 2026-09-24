@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.3'
   vsarcane: '+400'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[White-hot Ring]], [[Ensnaring Band]] and 1p 50g
 item_link: \aITEM 1486777679 351878033 0 0 0:Blackflame Ring\/a
 categories:

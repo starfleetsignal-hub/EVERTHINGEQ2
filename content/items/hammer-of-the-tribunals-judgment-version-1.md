@@ -20,7 +20,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Tribunal''s Judgment**'
+effect_name: Tribunal's Judgment
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Hammer of the Tribunal on target of spell.  Lasts for 3.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 179 - 269 divine damage on target.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 9.0 seconds and duration is reduced to 1.0 second.\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1870926994 80337286:Hammer of the Tribunal's Judgment\/a
 categories:
 - Beastlord Equipment

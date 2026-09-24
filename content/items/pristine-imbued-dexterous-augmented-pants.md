@@ -16,7 +16,7 @@ stats:
   vsarcane: '+118'
   vsnoxious: '+118'
   dtype: Leather Armor
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 124 heat damage on target"
 obtained_from: Crafted by [[Tailor]] (level 49) from [[Advanced Tailor Volume 49]]
 categories:
 - Arcane Resistance (Equipment)

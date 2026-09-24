@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM -1743252937 -709961503 0 0 0:Unholy Greaves of the Rift\/a
 categories:
 - Census Credits

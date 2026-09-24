@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '82'
   dtype: Plate Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 0.3%.\n  - Increases Riposte Chance of caster by 3.0.\n  - Increases Riposte Damage of caster by 3.0."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Vanguard Bracers of Dominance]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 1978359096 1878088869:Vanguard Bracers of Dominance\/a
 categories:

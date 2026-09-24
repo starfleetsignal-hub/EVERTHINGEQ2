@@ -17,7 +17,8 @@ stats:
   drating: '70.07'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Soul Restrain**'
+effect_name: Soul Restrain
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Soul Restrain on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 4.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2083591603 905976637:Mace of the Shadowed Soul\/a
 categories:
 - Beastlord Equipment

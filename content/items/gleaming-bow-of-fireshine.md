@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Silver Conflagration**<br>**Eternal Damnation**'
+effect_name: Silver Conflagration, Eternal Damnation
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Silver Conflagration III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 11,079 - 12,245 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 2,301.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2144295543 -1397854270:Gleaming Bow of Fireshine\/a
 categories:
 - AE Autoattack Chance (Equipment)

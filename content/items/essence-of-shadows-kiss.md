@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Shadow''s Kiss**'
+effect_name: Shadow's Kiss
+effects: "- Applies Shadow's Kiss when Activated.  Lasts for 20.0 seconds.\n  - Inflicts 5 - 6 poison damage on target instantly and every 4 seconds.\n  - The casting time of Shadow's Kiss is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[A Lesson Learned]] part of the ()'
 item_link: \aITEM 864013614 1643450378:Essence of Shadow's Kiss\/a
 image: images/Essence_of_Shadow's_Kiss.jpg

@@ -17,7 +17,8 @@ stats:
   potency: 34,754
   resolve: '460'
   flurry: '56.1'
-effects: '**Swirling Djinn**'
+effect_name: Swirling Djinn
+effects: "- Applies Swirling Djinn when Activated.  Lasts for 25.0 seconds.\n  - \"Swirling Djinn\" increases the raid's incoming healing by 12% for 25 seconds when in Renewal of Ro raid zones.\n  - The casting time of Swirling Djinn is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 776261327 197685341:Swirling Contained Djinn\/a
 categories:
 - Assassin Equipment

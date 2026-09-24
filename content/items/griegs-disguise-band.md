@@ -17,7 +17,8 @@ stats:
   resolve: '245'
   aspeed: '17.2'
   vselemental: +172,560
-effects: '**Winner, Winner**'
+effect_name: Winner, Winner
+effects: "- Applies Winner, Winner when Activated.  Lasts for 10.0 seconds.\n  - Uses the remnants of Grieg Veneficus' power to illusion the caster into a chicken. The minimal power left within the ring cannot sustain the illusion for very long.\n  - The reuse time of Winner, Winner is 20 minutes"
 item_link: \aITEM -426765254 -1752301384:Grieg's Disguise Band\/a
 aliases:
 - Grieg's Band of Disguise (Version 2)

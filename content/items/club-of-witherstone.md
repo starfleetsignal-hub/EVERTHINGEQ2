@@ -18,7 +18,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Soothing Sigil**'
+effect_name: Soothing Sigil
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil II on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 192 levels of any hostile effects on target\n    - Heals target for 5,333 - 5,894.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Pay For Their Crime]]'
 item_link: \aITEM -1383818704 1755008799:Club of Witherstone\/a
 categories:

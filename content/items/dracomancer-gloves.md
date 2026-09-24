@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   abmod: '+44'
   dtype: Cloth Armor
-effects: '**Mana Font**'
+effect_name: Mana Font
+effects: "- Applies Mana Font when Activated.  Lasts for 10.0 seconds.\n  - Increases power of caster by 200 instantly and every 2 seconds.\n  - The casting time of Mana Font is 3.0 seconds and the reuse time of the spell is 30 minutes"
 item_link: \aITEM -1784025313 -567484696:Dracomancer Gloves\/a
 categories:
 - Ability Modifier (Equipment)

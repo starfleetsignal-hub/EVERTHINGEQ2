@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 29,322.9.\n  - Increases Fervor Overcap of caster by 58.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1223146473 1656699009:Abberant Regalia, Relic of the Throne\/a
 categories:
 - Arcane Resistance (Equipment)

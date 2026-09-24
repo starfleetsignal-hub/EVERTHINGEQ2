@@ -16,7 +16,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 101 - 151 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1955214369 -2126204276:crude imbued ebon katar\/a
 categories:
 - Brawler Equipment

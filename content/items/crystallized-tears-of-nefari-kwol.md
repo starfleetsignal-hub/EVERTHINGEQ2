@@ -14,7 +14,8 @@ stats:
   crit: '6.7'
   critbonus: '5.9'
   potency: '10.2'
-effects: '**Mana Counter**'
+effect_name: Mana Counter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Mana Counter III on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Mana Counter III on target.\n      - Heals caster for 193.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2073746807 1689057867:Crystallized Tears of Nefari Kwol\/a
 categories:
 - AE Autoattack Chance (Equipment)

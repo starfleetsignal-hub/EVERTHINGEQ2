@@ -16,7 +16,8 @@ stats:
   strike: '11.3'
   vselemental: +1,349
   mitinc: '7'
-effects: '**Haste**<br>**Toxic Tempest**'
+effect_name: Haste, Toxic Tempest
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1325157828 862102742:Rhee'Gor's Slimy Band\/a
 categories:
 - Arcane Resistance (Equipment)

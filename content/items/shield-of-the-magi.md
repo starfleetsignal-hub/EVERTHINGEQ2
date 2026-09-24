@@ -16,7 +16,8 @@ stats:
   abmod: '+38'
   vsarcane: '+217'
   dtype: Symbols
-effects: '**Shielding of the Magi**'
+effect_name: Shielding of the Magi
+effects: "- Applies Shielding of the Magi when Equipped.\n  - When damaged this spell has a 10% chance to cast Shielding of the Magi on caster.  Lasts for 36.0 seconds.\n    - Wards caster against 309 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: '[[Koada''dal Magi''s Craft]]'
 item_link: \aITEM 1061509354 1011837241:Shield of the Magi\/a
 categories:

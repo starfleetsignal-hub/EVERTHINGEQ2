@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +16,380
-effects: '**Phantom Seething**'
+effect_name: Phantom Seething
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Phantom Seething on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 77,440 mental damage on target instantly and every 2 seconds.\n      - This effect cannot be critically applied.\n    - Heals caster for 6,359 instantly and every 2 seconds.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -796017610 1479174552:Strings of Madness\/a
 categories:
 - Arcane Resistance (Equipment)

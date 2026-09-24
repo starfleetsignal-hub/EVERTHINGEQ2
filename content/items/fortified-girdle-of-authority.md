@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Monstrous Roar**<br>**Intimidating Rush**'
+effect_name: Monstrous Roar, Intimidating Rush
+effects: "- Applies Monstrous Roar when Activated.  Lasts for 15.0 seconds.\n  - Increases Hate Gain of caster by 15.0.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Monstrous Roar is 5 minutes\n- When Equipped:\n  - On a critical combat hit this spell may cast Intimidating Rush II on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 332 - 367\n      - If over 80% Health\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Intimidating Rush II on target of spell.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 332 - 367\n      - If over 80% Health\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 20) from [[Ancient Knowledge: Fortified Girdle of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1219380419 2044799339:Fortified Girdle of Authority\/a
 categories:

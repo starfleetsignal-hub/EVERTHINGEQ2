@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Plate Armor
-effects: '**Lesser Replenishing Heal**'
+effect_name: Lesser Replenishing Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Replenishing Heal on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 1.2 times per minute.\n    - Increases power of target by 23 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Scor-peons]]'
 item_link: \aITEM 711825875 -84610483:Jade-inlaid Boots\/a
 categories:

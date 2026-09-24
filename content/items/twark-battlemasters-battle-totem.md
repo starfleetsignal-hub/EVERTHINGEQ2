@@ -18,7 +18,8 @@ stats:
   resolve: '5'
   abmod: +5,913
   dps: '27.4'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 15.0.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 15.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Bloody Tooth Jewelry Essentials]]
 item_link: \aITEM 657796369 -1945416997:Twark Battlemaster's Battle Totem\/a
 categories:

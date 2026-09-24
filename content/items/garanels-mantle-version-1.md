@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   aspeed: '4'
-effects: '**Harnessed Power of the Curse**'
+effect_name: Harnessed Power of the Curse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Harnessed Power of the Curse on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 103 divine damage on target.\n    - Heals caster for 103.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 320013830 -1464940667:Garanel's Mantle\/a
 image: images/Garanel's_Mantle.jpg
 categories:

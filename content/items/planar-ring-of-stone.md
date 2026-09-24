@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   vselemental: +87,497
   mitinc: '22.7'
-effects: '**Unquenched Power**'
+effect_name: Unquenched Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 550.0."
 item_link: \aITEM 1015196182 -149300166:Planar Ring of Stone\/a
 categories:
 - Arcane Resistance (Equipment)

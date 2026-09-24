@@ -16,7 +16,10 @@ stats:
   vselemental: '+1599'
   vsarcane: '+1599'
   vsnoxious: '+1599'
-effects: Sorcerous Alacrity II
+effects: 'When equipped:
+
+
+  - Reduces cast time of hostile spells by 2 percent.'
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards or Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: \aITEM 2125711390 -727966392:Unholy Band\/a
 categories:

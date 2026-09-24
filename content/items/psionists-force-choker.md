@@ -17,7 +17,8 @@ stats:
   aspeed: '38'
   dps: '23.1'
   multi: '22.1'
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 150%-233%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM -2084409643 1183428079:Psionist's Force Choker\/a
 categories:
 - Attack Speed (Equipment)

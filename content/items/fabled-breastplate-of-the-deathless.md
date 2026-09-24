@@ -19,7 +19,8 @@ stats:
   cbovercap: '+198.2'
   mitinc: '39.6'
   dtype: Plate Armor
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1091924794 2064487088:Fabled Breastplate of the Deathless\/a
 categories:
 - Berserker Equipment

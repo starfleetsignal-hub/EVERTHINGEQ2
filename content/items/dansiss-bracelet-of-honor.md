@@ -16,7 +16,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   vselemental: '+347'
-effects: '**Assassin''s Thirst**'
+effect_name: Assassin's Thirst
+effects: "- When Equipped:\n  - Increases Ability Mod of caster by 30.0.\n  - On a kill this spell will cast Assassin's Thirst on caster.  Lasts for 20.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases DPS of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2094490438 2144883874:Dansiss' Bracelet of Honor\/a
 categories:
 - Ability Modifier (Equipment)

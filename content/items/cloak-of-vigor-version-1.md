@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   aspeed: '4'
   flurry: '2.1'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 26.0."
 item_link: \aITEM -1984710420 -516618541:Cloak of Vigor\/a
 image: images/Cloak_of_Vigor.jpg
 categories:

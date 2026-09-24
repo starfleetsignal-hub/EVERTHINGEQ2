@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Toxins**'
+effect_name: Toxins
+effects: "- Applies Toxins when Activated.  Lasts for 1 minute.\n  - Increases Weapon Damage of caster by 7.5.\n  - Converts damage spells to poison damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Toxins is 1 minute"
 item_link: \aITEM -782771788 -2135418903:Vial of Ectoplasm\/a
 categories:
 - Attack Speed (Equipment)

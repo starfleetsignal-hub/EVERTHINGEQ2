@@ -16,7 +16,8 @@ stats:
   aspeed: '10.7'
   multi: '11.5'
   vselemental: +1,349
-effects: '**Runic Absorption**'
+effect_name: Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Absorption on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 1,300 points of all damage\n    - This effect stacks with the Runic Deflection line.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -130865680 195897429:Embroidered Bangle of the Scholar\/a
 categories:
 - Arcane Resistance (Equipment)

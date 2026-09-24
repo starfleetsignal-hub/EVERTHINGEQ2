@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: '+763'
   dps: '26.4'
-effects: '**Plague**'
+effect_name: Plague
+effects: "- Applies Plague when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to disease damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Plague is 1 minute 30 seconds"
 obtained_from: '[[Gilzin''s Lingering Legacy]]'
 item_link: \aITEM -1624467404 -1215797209:Bluefist's Focusing Orb\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '1.2'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 148.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1256549724 66171095:Choker of Waves\/a
 categories:
 - Assassin Equipment

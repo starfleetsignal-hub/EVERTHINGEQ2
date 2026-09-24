@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: +1,395
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 580.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -768863901 932741978:Toxic Healing Earring\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -19,7 +19,8 @@ stats:
   resolve: '525'
   abmod: +4284,910
   dtype: Chain Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 456.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1063429039 1141589263:Memorial Chain Greaves, Greater Relic of Old Velious\/a
 categories:
 - Ability Modifier (Equipment)

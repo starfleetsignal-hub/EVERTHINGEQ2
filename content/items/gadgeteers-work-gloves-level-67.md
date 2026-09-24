@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 item_link: \aITEM 1234711376 529296770:Gadgeteer's Work Gloves\/a
 categories:
 - Assassin Equipment

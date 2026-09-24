@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '89'
   dtype: Cloth Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 65 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 45) from [[Tailor Essentials Volume 45 (Normal)]] *Crafted by [[Tailor]] (level 45) from [[Tailor Essentials Volume 45 (no-trade)]]'
 item_link: \aITEM 1805527684 -142321022:Imbued Tranquil Rough Linen Pantaloons\/a
 aliases:

@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Leather Armor
-effects: '**Critical Channeling**'
+effect_name: Critical Channeling
+effects: "- When Equipped:\n  - On a hit this spell will cast Critical Channeling on target of attack.\n    - Inflicts 163 cold damage on target.\n    - Inflicts 163 heat damage on target.\n    - Heals group members for 150 - 450.\n    - If Target is Epic\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2073978490 1872765397:Woodland Leggings of Dawn\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Undeniable Malice**'
+effect_name: Undeniable Malice
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Undeniable Malice on target of attack.  Triggers about 1.4 times per minute.\n    - Increases Threat to target by 4,665\n    - Inflicts 1,390 mental damage on target.\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Undeniable Malice on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 4,665\n    - Inflicts 1,390 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 500183676 -806952417:Jagged Scale\/a
 categories:
 - Assassin Equipment

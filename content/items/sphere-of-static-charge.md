@@ -16,7 +16,8 @@ stats:
   potency: '12.1'
   aspeed: '19.2'
   multi: '39.5'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 44703963 791971465 0 0 0:Sphere of Static Charge\/a
 categories:
 - Attack Speed (Equipment)

@@ -21,7 +21,8 @@ stats:
   dps: '116.5'
   multi: '65.7'
   dtype: Symbols
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Pestilential Rain on target of spell.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 5,500 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM -836667837 -464678754:Storied Cracked Skull Totem\/a
 categories:
 - Attack Speed (Equipment)

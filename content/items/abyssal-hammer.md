@@ -18,7 +18,8 @@ stats:
   drating: '149.27'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Silver Boon**'
+effect_name: Silver Boon
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Silver Boon I on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 192 levels of any hostile effects on target\n    - Heals target for 6,028 - 6,663.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2093281862 880441738 0 0 0:Abyssal Hammer\/a
 categories:
 - Assassin Equipment

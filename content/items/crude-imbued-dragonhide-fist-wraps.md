@@ -19,7 +19,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 164 - 246 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 485094762 1768844561:crude imbued dragonhide fist wraps\/a
 categories:
 - Ability Modifier (Equipment)

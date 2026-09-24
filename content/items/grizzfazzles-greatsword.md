@@ -18,7 +18,8 @@ stats:
   drating: '82.15'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Grizzfazzle''s Blast**'
+effect_name: Grizzfazzle's Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Grizzfazzle's Rage on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 195 - 363 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM -1054929208 1902037089:Grizzfazzle's Greatsword\/a
 categories:

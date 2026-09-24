@@ -20,7 +20,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Power of the Elements**'
+effect_name: Power of the Elements
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ice Storm on target of spell.  Lasts for 6.0 seconds.  Triggers about 0.2 times per minute.\n    - Inflicts 157 - 470 cold damage on target.\n    - Roots target\n    - Epic targets gain an immunity to Root effects of 18.0 seconds and duration is reduced to 2.0 seconds.\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -150754698 -714262456:Staff of the Elemental Mistress\/a
 image: images/Staff_of_the_Elemental_Mistress.jpg
 categories:

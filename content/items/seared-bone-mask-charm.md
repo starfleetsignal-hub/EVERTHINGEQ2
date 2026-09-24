@@ -18,7 +18,8 @@ stats:
   resolve: '210'
   aspeed: '15.2'
   flurry: '12.6'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Collection reward: [[Seared Bone Mask (Collection)]]'
 item_link: \aITEM -705515756 309380455:Seared Bone Mask\/a
 categories:

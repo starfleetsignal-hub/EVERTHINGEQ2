@@ -16,7 +16,8 @@ stats:
   aspeed: '27.4'
   dps: '13.7'
   vselemental: +9,009
-effects: '**Mortal Champion**'
+effect_name: Mortal Champion
+effects: "- When Equipped:\n  - Increases INT and WIS of caster by 35.0.\n  - Increases Crit Bonus of caster by 6.0.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Scrolls of the Mortal Champion]]'
 item_link: \aITEM 1961952655 -218085263:Signet of the Mortal Priest\/a
 categories:

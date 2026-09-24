@@ -21,7 +21,9 @@ stats:
   drating: '149.27'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Reprisal**'
+effect_name: Reprisal
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Reprisal I on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Reprisal I on target's attacker.\n      - Inflicts 261 - 288 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Reprisal I on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Reprisal I on target's attacker.\n      - Inflicts 261 - 288 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except\
+  \ by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2046032900 -1783958123 0 0 0:Pelagic Short Sword\/a
 categories:
 - Assassin Equipment

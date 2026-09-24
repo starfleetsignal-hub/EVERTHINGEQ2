@@ -23,7 +23,8 @@ stats:
   drating: '196.98'
   dtype: Two-Handed Slashing
   wtype: Axe
-effects: '**Vengeance**'
+effect_name: Vengeance
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Rage on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Potency of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1266107111 -149572368:Sullon's Vengeful Focus\/a
 image: images/Sullon's_Vengeful_Focus.png
 categories:

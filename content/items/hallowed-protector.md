@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   dps: '15.9'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]]
 item_link: \aITEM -552204859 1543626702:Hallowed Protector\/a
 categories:

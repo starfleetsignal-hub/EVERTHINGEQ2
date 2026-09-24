@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Theer''s Triumph**'
+effect_name: Theer's Triumph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Theer's Triumph on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 200,000 mental damage to the target. If the caster is in a group with 3 or more members, the damage is increased to 430,000\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '2x as [[Age''s End: Shattered Fate]]'
 item_link: \aITEM 1557800295 -1395219463:Hoop of Relentless Victory\/a
 image: images/Hoop_of_Relentless_Victory.gif

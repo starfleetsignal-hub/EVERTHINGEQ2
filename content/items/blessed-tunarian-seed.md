@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   int: '+2'
-effects: '**Tunare''s Blessing**'
+effect_name: Tunare's Blessing
+effects: "- Applies Tunare's Blessing when Activated.  Lasts for 30.0 seconds.\n  - Heals caster for 5 instantly and every 5 seconds.\n  - The casting time of Tunare's Blessing is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[The Commune]]'
 item_link: \aITEM 297350546 381142135:Blessed Tunarian Seed\/a
 categories:

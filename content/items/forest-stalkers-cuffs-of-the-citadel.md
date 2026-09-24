@@ -18,7 +18,8 @@ stats:
   potency: '8.6'
   dps: '21.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[High Shinu-Zonn Cerulea]] in [[Citadel of V'uul]]
 item_link: \aITEM -1258540128 605887765:Forest Stalker's Cuffs of the Citadel\/a
 categories:

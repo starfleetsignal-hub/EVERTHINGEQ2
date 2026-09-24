@@ -17,7 +17,8 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] *Sold by [[A mysterious Quellthulian]] (Merchant) in [[Moors of Ykesha]]'
 item_link: -564052531 -2006298978:Elucidated Manaweave Pantaloons
 image: images/Elucidated_Manaweave_Pantaloons.jpg

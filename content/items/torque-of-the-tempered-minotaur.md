@@ -15,7 +15,8 @@ stats:
   potency: '22.3'
   strike: '3.5'
   multi: '66.4'
-effects: '**Deific Temper**'
+effect_name: Deific Temper
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 7.5.\n  - Increases Max Health of caster by 1,800.0.\n  - Increases Ranged, Crushing, Slashing and Piercing of caster by 50.0.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Torque of the Tempered Minotaur]] *Made from [[Ancient Words of War]] *Made from [[Truthbringer''s Minotaur Shackle]] *Made from [[War Braid of Rage]]'
 item_link: \aITEM 1562234129 -1265702679:Torque of the Tempered Minotaur\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 830185055 -1307387293:Greathammer of the Destructor\/a
 categories:
 - Ability Modifier (Equipment)

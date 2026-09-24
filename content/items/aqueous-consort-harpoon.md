@@ -18,7 +18,8 @@ stats:
   drating: '79.85'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Aqueous Asphyxiation**'
+effect_name: Aqueous Asphyxiation
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aqueous Asphyxiation on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 179 - 298 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -948684615 -12953870:Aqueous Consort Harpoon\/a
 categories:
 - Aqueous Asphyxiation (Equipment)

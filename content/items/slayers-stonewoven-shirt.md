@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Cloth Armor
-effects: '**Slip**'
+effect_name: Slip
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Slip on target's attacker.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1741798491 -1086431058:Slayer's Stonewoven Shirt\/a
 categories:
 - Assassin Equipment

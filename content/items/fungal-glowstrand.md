@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: +1,527
   aspeed: '17.2'
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- Applies Arcane Focus II when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all arcane abilities.\n  - Removes 200 potency from noxious and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Arcane Focus II is 2 minutes"
 obtained_from: '[[Ironblood and Guts]]'
 item_link: \aITEM 52171681 504857802:Fungal Glowstrand\/a
 image: images/Fungal_Glowstrand.png

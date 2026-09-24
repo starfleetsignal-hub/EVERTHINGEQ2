@@ -18,7 +18,8 @@ stats:
   abmod: '+306'
   aspeed: '14.8'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -2042951636 -932308660:Forceful Seraphic Mitts\/a
 categories:
 - Ability Modifier (Equipment)

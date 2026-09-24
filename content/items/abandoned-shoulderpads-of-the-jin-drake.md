@@ -18,7 +18,8 @@ stats:
   vselemental: '+664'
   vsnoxious: +1,162
   dtype: Leather Armor
-effects: '**Empowered Arts**'
+effect_name: Empowered Arts
+effects: "- When Equiped:\n  - Increases base Combat Art damage by 8%"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 2110679574 -26018227:[Abandoned Shoulderpads of the Jin Drake]\/a
 categories:

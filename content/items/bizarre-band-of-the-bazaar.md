@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   vselemental: +1,728
-effects: '**Velium Flames**'
+effect_name: Velium Flames
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical spell hit this spell may cast Velium Flames II on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 4,610 - 5,095 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Velium Flames II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,610 - 5,095 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 785546253 31912537:Bizarre Band of the Bazaar\/a
 categories:
 - Ability Modifier (Equipment)

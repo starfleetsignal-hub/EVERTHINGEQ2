@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+9'
   sta: '+8'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 7.2.\n    - Increases Ordination, Ministration and Focus of caster by 4.5.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 36) from [[Jeweler Essentials Volume 36 (Normal)]] *Crafted by [[Jeweler]] (level 36) from [[Jeweler Essentials Volume 36 (no-trade)]]'
 item_link: \aITEM -1592179661 -1898448999:Imbued Opaline Ring of Wisdom\/a
 categories:

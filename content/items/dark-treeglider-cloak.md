@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (400 Daybreak Cash)
 item_link: \aITEM -1321624361 -959258311:Dark Treeglider Cloak\/a
 categories:

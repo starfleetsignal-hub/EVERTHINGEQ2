@@ -18,7 +18,8 @@ stats:
   abmod: '+288'
   multi: '14.5'
   dtype: Cloth Armor
-effects: '**Siphoning Eulogy**<br>**Torrent**'
+effect_name: Siphoning Eulogy, Torrent
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Siphoning Eulogy on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 696 - 769 piercing damage on target instantly and every 3 seconds.\n    - Heals caster for 762 - 842 instantly and every 3 seconds.\n    - Increases Crit Bonus of caster by 3.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Queen Vorticia V'uul]] in [[Citadel of V'uul]]
 item_link: \aITEM 1940418215 -552225200:Beguiler's Robe of the Citadel\/a
 categories:

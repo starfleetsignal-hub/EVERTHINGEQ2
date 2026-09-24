@@ -16,7 +16,8 @@ stats:
   critbonus: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM -768293236 -1016986893:Earthen Cap\/a
 categories:
 - Ability Modifier (Equipment)

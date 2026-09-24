@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dps: '9.7'
-effects: '**Fearful Respect**'
+effect_name: Fearful Respect
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 7.0."
 item_link: \aITEM -763159586 1979291445:Belt of Deceptive Purity\/a
 categories:
 - Assassin Equipment

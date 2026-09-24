@@ -16,7 +16,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   vselemental: +1,728
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Haste of caster by 4.5.\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1795941817 -1695207473:Ancient Storm Dragon Tooth Stud\/a
 categories:
 - Arcane Resistance (Equipment)

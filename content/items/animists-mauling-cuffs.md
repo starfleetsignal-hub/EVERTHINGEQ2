@@ -18,7 +18,8 @@ stats:
   aspeed: '8.8'
   multi: '9.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume I]]
 item_link: \aITEM -909805159 -278393588:Animist's Mauling Cuffs\/a
 categories:

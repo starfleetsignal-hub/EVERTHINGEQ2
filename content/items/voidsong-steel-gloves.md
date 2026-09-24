@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -160200107 1219458709 0 0 0:Voidsong Steel Gloves\/a
 categories:
 - Census Credits

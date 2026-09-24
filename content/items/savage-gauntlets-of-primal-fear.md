@@ -18,7 +18,8 @@ stats:
   dps: '18.8'
   multi: '12'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 377252639 -1310927978:Savage Gauntlets of Primal Fear\/a
 categories:
 - Attack Speed (Equipment)

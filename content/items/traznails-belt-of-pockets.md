@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   flurry: '19.2'
   mitinc: '7.6'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception II when Equipped.\n  - Increases Fervor of caster by 4.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 250."
 item_link: \aITEM 1803195026 1573696526:Traznail's Belt of Pockets\/a
 categories:
 - Assassin Equipment

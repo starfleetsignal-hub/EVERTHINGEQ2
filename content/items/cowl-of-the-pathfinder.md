@@ -17,7 +17,7 @@ stats:
   vselemental: '+525'
   vsarcane: '+525'
   dtype: Chain Armor
-effects: Arrow Flurry
+effects: "- When Equipped:\n  - On a successful ranged attack this spell has a chance to cast Arrow Flurry on target of attack.  Lasts for 10.0 seconds.  This effect will trigger an average of 1.8 times per minute.  If a melee attack is used, only the primary weapon can trigger this effect.\n    - Increases Ranged Crit Chance of caster by 2.8%\n    - Increases Attack Speed of caster by 2.8"
 item_link: -1205363794 -1357648679:Cowl of the Pathfinder
 categories:
 - Arcane Resistance (Equipment)

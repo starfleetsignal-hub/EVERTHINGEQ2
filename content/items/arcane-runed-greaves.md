@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   dps: '2.2'
   dtype: Plate Armor
-effects: '**Startle**'
+effect_name: Startle
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Startle on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target encounter by 1,655 - 2,315\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1256988998 2088876492:Arcane Runed Greaves\/a
 categories:
 - Berserker Equipment

@@ -18,7 +18,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mental Blast**'
+effect_name: Mental Blast
+effects: "- Applies Mental Blast when Activated.\n  - Inflicts 266 - 444 mental damage on target.\n  - The casting time of Mental Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1751113861 -1732213326:Shaped Mental Imbued Ironwood Wand\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '150'
   abmod: +38,666
   aspeed: '66.4'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 113) from [[Advanced Jeweler Studies 13]]
 item_link: \aITEM -1174633652 820047478:Voidpiercer's Charm of Force\/a
 categories:

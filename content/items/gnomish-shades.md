@@ -16,7 +16,8 @@ stats:
   potency: '3.4'
   dps: '8.6'
   dtype: Cloth Armor
-effects: '**Gnomish Shades**'
+effect_name: Gnomish Shades
+effects: "- Applies Gnomish Shades when Equipped.\n  - Grants Ultravision to caster"
 obtained_from: Made with Tinkering (skill 355) from [[Master's Blueprints 0.004]].
 item_link: \aITEM 1786301992 693534130:Gnomish Shades\/a
 categories:

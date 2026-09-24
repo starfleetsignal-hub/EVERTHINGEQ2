@@ -20,7 +20,8 @@ stats:
   drating: '80.44'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Bloody Cleave**'
+effect_name: Bloody Cleave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bloody Cleave on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 179 - 298 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1611197648 555608945:Ishi-Kurrat's Sawtooth\/a
 categories:
 - Beastlord Equipment

@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: +1,395
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,589 - 2,383 poison damage on target\n    - Heals caster for 1,058 - 1,587\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 21861524 -1032085146:Hoop of the Ritualist\/a
 categories:
 - Arcane Resistance (Equipment)

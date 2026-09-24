@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Buckler
-effects: '**PvP Potency**'
+effect_name: PvP Potency
+effects: "- When Equipped:\n  - Increases Potency of caster by 5.0.\n  - Must be engaged in pvp combat"
 item_link: \aITEM -127515659 827618111:Destructor's Buckler\/a
 categories:
 - Ability Modifier (Equipment)

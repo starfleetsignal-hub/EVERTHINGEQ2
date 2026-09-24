@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   dps: '18.8'
-effects: '**Stonewill**<br>**Fatal Lifetap**'
+effect_name: Stonewill, Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Stonewill on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Stonewill on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,589 - 2,383 poison damage on target\n    - Heals caster for 1,058 - 1,587\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1700858477 1289265317:Hammered Defensive Torque\/a
 categories:
 - Berserker Equipment

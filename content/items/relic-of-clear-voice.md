@@ -11,7 +11,7 @@ stats:
   charges: 1/1
   casting: 1.0 second
   recast: 3 minutes
-effects: Greater Clear Voice
+effects: "- Applies Clear Voice when Activated. Lasts for 1 minute 30 seconds.\n  - Makes cater immune to Stifle effects."
 obtained_from: Sold by a merchant (City Merchant)
 item_link: \aITEM 1255338941 -1256704699:Relic of Clear Voice\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 156428770 1436970443 0 0 0:Wasted Wilderness Wraps\/a
 categories:

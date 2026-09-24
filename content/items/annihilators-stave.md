@@ -19,7 +19,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 912355126 270094151:Annihilator's Stave\/a
 categories:
 - Ability Modifier (Equipment)

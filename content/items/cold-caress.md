@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +16,380
-effects: '**Chilling Retaliation**'
+effect_name: Chilling Retaliation
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Chilling Retaliation II on target's attacker.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 36,432 cold damage on target.\n    - Slows target by 30.0%.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1681265181 -1243625923:Cold Caress\/a
 categories:
 - AE Autoattack Chance (Equipment)

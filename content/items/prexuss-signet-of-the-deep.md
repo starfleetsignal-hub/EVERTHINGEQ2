@@ -16,7 +16,8 @@ stats:
   aspeed: '30.4'
   dps: '15.2'
   vselemental: +10,049
-effects: '**Scrutiny of the Hounds**'
+effect_name: Scrutiny of the Hounds
+effects: "- When Equipped:\n  - Increases Potency of caster by 5.0.\n  - Increases Crit Bonus of caster by 5.0.\n  - Increases Max Health of caster by 1,550.0.\n  - Increases Ability Mod of caster by 1,100.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1795476773 -433619696:Prexus's Signet of the Deep\/a
 categories:
 - Ability Modifier (Equipment)

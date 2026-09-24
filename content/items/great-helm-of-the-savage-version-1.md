@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   multi: '3.2'
   dtype: Plate Armor
-effects: '**Debilitating Aura**'
+effect_name: Debilitating Aura
+effects: "- When Equipped:\n  - When damaged this spell has a 15% chance to cast Debilitating Aura on target's attacker.\n    - Decreases Haste of target by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -23212570 740519309:Great Helm of the Savage\/a
 categories:
 - Berserker Equipment

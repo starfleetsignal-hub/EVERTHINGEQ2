@@ -21,7 +21,8 @@ stats:
   drating: '77.02'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Fyr''Un Flood**'
+effect_name: Fyr'Un Flood
+effects: "- Applies Fyr'Un Flood when Activated.  Lasts for 1 minute.\n  - Heals group members (AE) for 408.\n  - Heals group members (AE) for 163 every 5 seconds.\n  - Increases Mitigation of group members (AE) vs arcane damage by 520.\n  - The casting time of Fyr'Un Flood is 2.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: '*[[The Mystery of the Clandestine Cabal]] *[[The Mystery of the Secret Cabal]]'
 item_link: \aITEM 1949922594 85462689:The Resplendent Scepter of Fyr\/a
 categories:

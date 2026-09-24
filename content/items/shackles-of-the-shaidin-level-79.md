@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   dtype: Leather Armor
-effects: '**Befuddle**'
+effect_name: Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 800\n    - Cannot be modified except by direct means"
 item_link: \aITEM -349391050 1800818375:Shackles of the Shai'Din\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '86.01'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Rancid Decay**'
+effect_name: Rancid Decay
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Rancid Decay on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 298 - 497 poison damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1382218381 -1248783613:Doomcoil's Deactivated Control Baton\/a
 categories:
 - Ability Modifier (Equipment)

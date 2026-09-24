@@ -16,7 +16,8 @@ stats:
   resolve: '2'
   abmod: +1,591
   aspeed: '18'
-effects: '**Holy**'
+effect_name: Holy
+effects: "- Applies Holy when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to divine damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Holy is 1 minute 30 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 371229381 781396566:Charm of the Maltese\/a
 categories:

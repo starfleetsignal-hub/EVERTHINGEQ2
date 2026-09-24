@@ -16,7 +16,8 @@ stats:
   potency: '11.2'
   abmod: '+431'
   dtype: Buckler
-effects: '**Subsistence of Flesh**'
+effect_name: Subsistence of Flesh
+effects: "- Applies Subsistence of Flesh when Activated.  Lasts for 30.0 seconds.\n  - Decreases Hate Gain of caster by 22.5 - 27.5.\n  - Increases Potency of caster by 25.0.\n  - Prevents AOE (except when direct)\n  - The reuse time of Subsistence of Flesh is 5 minutes"
 item_link: \aITEM 591438987 1393535343:Barrier of Undisputed Restoration\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   aspeed: '4.6'
-effects: '**Fearful Respect**'
+effect_name: Fearful Respect
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 5.0."
 item_link: \aITEM 471827522 633410216:Cincture of the Unkempt Master\/a
 categories:
 - Ability Modifier (Equipment)

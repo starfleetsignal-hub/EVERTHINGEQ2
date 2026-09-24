@@ -9,7 +9,8 @@ flags: no-trade no-value no-zone
 stats:
   mit: '1'
   dtype: Cloth Armor
-effects: '**courier costume**'
+effect_name: courier costume
+effects: '- Applies courier costume when Equipped.'
 obtained_from: 'Quest: [[Smugglers'' Secrets]]'
 used_in_quest: '[[Smugglers'' Secrets]]'
 item_link: \aITEM -551321351 -1361399838:a courier costume\/a

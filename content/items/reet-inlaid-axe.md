@@ -20,7 +20,8 @@ stats:
   drating: '70.92'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Lesser Swift Recovery**'
+effect_name: Lesser Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 0.8 times per minute.\n    - Increases power of caster by 73.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Stop the Progeny]]'
 item_link: \aITEM -852297658 -1596509720:Reet Inlaid Axe\/a
 categories:

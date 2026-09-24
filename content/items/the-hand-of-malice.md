@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Hand of Malice**'
+effect_name: Hand of Malice
+effects: "- Applies Hand of Malice when Activated.  Lasts for 10 minutes.\n  - Charms target\n  - If under level 35\n  - This is not an undead creature.\n  - This creature is too powerful to heed the call of malice.\n  - Certain enemies cannot be charmed\n  - The casting time of Hand of Malice is 3.0 seconds and the reuse time of the spell is 1 hour\n  - Requires 3673 Health to cast."
 item_link: \aITEM 602622658 -1636466162:The Hand of Malice\/a
 categories:
 - Assassin Equipment

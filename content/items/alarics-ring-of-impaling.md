@@ -16,7 +16,8 @@ stats:
   strike: '10.8'
   abmod: '+197'
   vselemental: '+511'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1864813014 -1390603482:Alaric's Ring of Impaling\/a
 categories:
 - Ability Modifier (Equipment)

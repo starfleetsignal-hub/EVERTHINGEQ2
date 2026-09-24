@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   mitinc: '4.7'
   dtype: Leather Armor
-effects: '**Crippling Riposte**'
+effect_name: Crippling Riposte
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Crippling Riposte on target's attacker.  Lasts for 16.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Haste of target by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 399723860 2004424858:Mantle of Tundric Furs\/a
 categories:
 - Assassin Equipment

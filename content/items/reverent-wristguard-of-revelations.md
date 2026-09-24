@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   multi: '9.6'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 90) from [[Ancient Knowledge: Reverent Wristguard of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 1897039077 139067115:Reverent Wristguard of Revelations\/a
 categories:

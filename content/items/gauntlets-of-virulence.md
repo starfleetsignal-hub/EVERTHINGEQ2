@@ -14,7 +14,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Leather Armor
-effects: '**Fiery Feedback**'
+effect_name: Fiery Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 1% chance to cast Fiery Feedback on target's attacker.\n    - Inflicts 103 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1829823374 -217360980:Gauntlets of Virulence\/a
 categories:
 - Assassin Equipment

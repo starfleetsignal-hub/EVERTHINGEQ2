@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Bedeviled Amber Robe Set]] *From [[Bedeviled Amber Vanguard Set]]'
 item_link: \aITEM 951504734 755251531:Bedeviled Amber Cloak\/a
 categories:

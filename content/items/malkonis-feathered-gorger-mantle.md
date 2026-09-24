@@ -15,7 +15,8 @@ stats:
   critbonus: '11.1'
   potency: '11.1'
   flurry: '12.6'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 48 and 148 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 obtained_from: combine [[Feathered Gorger Mantle (Original)]] with [[Feathered Gorger Mantle (2nd upgrade)]]
 item_link: \aITEM 1658263280 2095263771:Malkonis' Feathered Gorger Mantle\/a
 categories:

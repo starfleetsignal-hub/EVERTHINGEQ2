@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.1'
   dtype: Tower Shield
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -600554544 -1015982742:Slayer's Frozen Aegis\/a
 categories:
 - Berserker Equipment

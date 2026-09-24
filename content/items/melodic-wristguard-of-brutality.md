@@ -16,7 +16,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 2.3%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 28.0."
 obtained_from: '*Crafted by [[Armorer]] (level 70) from [[Ancient Knowledge: Melodic Wristguard of Brutality]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -1815202329 -650106433:Melodic Wristguard of Brutality\/a
 categories:

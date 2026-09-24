@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dps: '12.4'
-effects: '**Focus: Bria''s Inspiring Ballad**<br>**Vampire Bane**'
+effect_name: 'Focus: Bria''s Inspiring Ballad, Vampire Bane'
+effects: "- When Equipped:\n  - Increases regeneration amount of Bria's Inspiring Ballad VI.\n- When Equipped:\n  - Additional equipment with Vampire Bane improves this effect.\n  - On any combat or spell hit this spell may cast Vampire Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 802 divine damage on target.\n      - Must be classified as a vampire\n    - Inflicts 401 divine damage on target.\n      - Must not be classified as a vampire\n    - Decreases Mitigation of target vs arcane damage by 581.\n      - Must be classified as a vampire\n    - Cannot be modified except by direct means"
 obtained_from: Made from [[Primogen's Jewelry Case]]
 item_link: \aITEM -1589400052 625058251:Mistmoore Battle Drums\/a
 categories:

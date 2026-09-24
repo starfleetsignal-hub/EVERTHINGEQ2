@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Salvaged Shot**'
+effect_name: Salvaged Shot
+effects: "- When Equipped:\n  - On a kill this spell has a 10% chance to cast Salvaged Shot on caster.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1819848564 566740501:Executioners Longbow\/a
 categories:
 - Assassin Equipment

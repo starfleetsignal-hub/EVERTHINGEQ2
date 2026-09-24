@@ -16,7 +16,8 @@ stats:
   resolve: '6'
   dps: '55.5'
   dtype: Tower Shield
-effects: '**Ethereal Precision**'
+effect_name: Ethereal Precision
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ethereal Precision on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 9,650 poison damage on target.\n    - Increases Crit Bonus of caster by 50.0.\n    - Increases Potency of caster by 50.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1471919535 37350868:The Polliwog's Chameleon Wall\/a
 categories:
 - Berserker Equipment

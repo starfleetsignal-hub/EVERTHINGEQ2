@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Fighting Spirit**<br>**Featherfall**'
+effect_name: Fighting Spirit, Featherfall
+effects: "- Applies Fighting Spirit when Activated.  Lasts for 12.0 seconds.\n  - The caster's spells deal 5% more damage.\n  - The casting time of Fighting Spirit is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of the Dragonslayer (crate)|Cloak of the Dragonslayer]]
 item_link: \aITEM 2099248676 -990344088:Cloak of the Dragonslayer\/a
 categories:

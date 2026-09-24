@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vselemental: '+469'
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 3 percent."
 item_link: \aITEM -500057598 766864315:Master's Bracer of Control\/a
 categories:
 - AE Autoattack Chance (Equipment)

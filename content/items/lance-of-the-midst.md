@@ -24,7 +24,8 @@ stats:
   drating: '638.4'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.1%.\n    - Inflicts 2,080 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -911400924 472080510:Lance of the Midst\/a
 categories:
 - Ability Modifier (Equipment)

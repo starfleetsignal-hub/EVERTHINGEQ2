@@ -18,7 +18,8 @@ stats:
   drating: '51.07'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frigid Blast**'
+effect_name: Frigid Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frigid Blast on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 181 - 302 cold damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -394654380 1888216040:Crystalline Staff\/a
 categories:
 - Beastlord Equipment

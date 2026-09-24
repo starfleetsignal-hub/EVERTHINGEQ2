@@ -18,7 +18,8 @@ stats:
   resolve: '210'
   dps: '73.7'
   mitinc: '30.5'
-effects: '**Magmatic Link**'
+effect_name: Magmatic Link
+effects: "- Applies Magmatic Link when Activated.  Lasts for 24.0 seconds.\n  - Increases the target's Fervor by 51%-75%. The value increases based on how many group members are within a range of 10 or less from the caster.\n  - Increases the target's Fervor Overcap by 51%-75%. The value increases based on how many group members are within a range of 10 or less from the caster.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Magmatic Link is 2.2 seconds and the reuse time of the spell is 9 minutes"
 item_link: \aITEM 1445988773 -975040541:Magmatic Eye\/a
 categories:
 - AE Autoattack Chance (Equipment)

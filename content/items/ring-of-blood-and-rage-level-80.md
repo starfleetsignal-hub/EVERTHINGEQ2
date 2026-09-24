@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: '+880'
-effects: '**Transposition**'
+effect_name: Transposition
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Transposition on caster.  Lasts for 6 minutes 40 seconds.  This effect normalizes based off of a three second triggering event.\n    - Applies Transposition on termination.\n      - Increases power of group members by 480.\n    - Will absorb all damage. This spell will absorb a total of 2 attacks.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1120403262 -2083210168:Ring of Blood and Rage\/a
 categories:
 - Arcane Resistance (Equipment)

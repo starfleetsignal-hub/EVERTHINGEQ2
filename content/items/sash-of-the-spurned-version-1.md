@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   abmod: '+54'
-effects: '**Infuriating Shout**'
+effect_name: Infuriating Shout
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Infuriating Shout I on target of attack.  Triggers about 0.8 times per minute.\n    - Increases Threat to target by 700\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[A vampire]] in [[Castle Mistmoore]]
 item_link: \aITEM -1226891076 -739531987:Sash of the Spurned\/a
 image: images/Sash_of_the_Spurned.jpg

@@ -16,7 +16,8 @@ stats:
   abmod: +1,559
   aspeed: '17.6'
   vselemental: +28,613
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 item_link: \aITEM 1480164104 -1872085963:Flesh Eating Manacles\/a
 categories:
 - Ability Modifier (Equipment)

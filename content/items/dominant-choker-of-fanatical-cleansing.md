@@ -15,7 +15,8 @@ stats:
   critbonus: '5.6'
   potency: '9.2'
   multi: '15.6'
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 984892388 219831011:Dominant Choker of Fanatical Cleansing\/a
 categories:
 - Casting Speed (Equipment)

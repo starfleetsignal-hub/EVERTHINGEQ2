@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Chaotic Pain**'
+effect_name: Chaotic Pain
+effects: "- Applies Chaotic Pain when Activated.  Lasts for 20.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 1.8 - 34.2.\n  - Cannot be modified except by direct means\n  - The reuse time of Chaotic Pain is 1 minute 30 seconds"
 item_link: \aITEM 1684708919 345142903:Overseer's Charm of the Explorer\/a
 categories:
 - AE Autoattack Chance (Equipment)

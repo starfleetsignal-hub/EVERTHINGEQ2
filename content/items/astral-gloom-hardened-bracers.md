@@ -20,7 +20,8 @@ stats:
   dps: '254.2'
   cbovercap: '+70.5'
   dtype: Plate Armor
-effects: '**Gloom-Hardening**'
+effect_name: Gloom-Hardening
+effects: "- When Equipped:\n  - Increases Resolve of Caster by 20.0\n    - Requires Membership.\n    - Requires Planar Level 5"
 obtained_from: Sold by [[Machaess of the Gloom]] in [[Myrist, the Great Library]]
 item_link: \aITEM 1391055120 -1925607499:Astral Gloom-Hardened Bracers\/a
 categories:

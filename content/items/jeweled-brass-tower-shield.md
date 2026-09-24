@@ -15,7 +15,8 @@ stats:
   potency: '8.4'
   aspeed: '12.7'
   dtype: Tower Shield
-effects: '**Overflowing Wonderment**'
+effect_name: Overflowing Wonderment
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Overflowing Wonderment on caster.  Lasts for 15.0 seconds.  Triggers about 1.0 times per minute.\n    - Increases Accuracy of caster by 5.0%.\n    - Increases Haste of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 278181774 1478389675:Jeweled Brass Tower Shield\/a
 categories:
 - Attack Speed (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   dtype: Buckler
-effects: '**Blinding Light**'
+effect_name: Blinding Light
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Fearless on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Makes caster immune to Fear effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type."
 item_link: \aITEM 8104710 -372881850:Shield of Rainbow Hues\/a
 image: images/Shield_of_Rainbow_Hues_(Buckler).jpg
 categories:

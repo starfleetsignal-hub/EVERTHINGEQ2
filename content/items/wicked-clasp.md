@@ -17,7 +17,8 @@ stats:
   resolve: '32'
   vselemental: +73,025
   mitinc: '19.6'
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 5.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1126346143 -1874210425:Wicked Clasp\/a
 categories:
 - Aegis of Animosity (Equipment)

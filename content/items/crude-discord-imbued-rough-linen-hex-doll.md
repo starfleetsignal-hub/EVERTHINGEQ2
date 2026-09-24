@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+13'
   wis: '+13'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 21.0.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -962615718 1322652439:crude discord imbued rough linen hex doll\/a
 categories:
 - Assassin Equipment

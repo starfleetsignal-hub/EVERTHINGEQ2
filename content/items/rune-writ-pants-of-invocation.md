@@ -17,7 +17,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   dtype: Cloth Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2145220964 1639350909:Rune Writ Pants of Invocation\/a
 categories:
 - Attack Speed (Equipment)

@@ -11,7 +11,8 @@ stats:
   int: '+44'
   health: '+165'
   power: '+110'
-effects: '**Minion''s Resilience**<br>**Sorcerous Alacrity**'
+effect_name: Minion's Resilience, Sorcerous Alacrity
+effects: <br>
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards or Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]
 categories:
 - Conjuror Equipment

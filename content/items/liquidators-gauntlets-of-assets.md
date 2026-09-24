@@ -17,7 +17,8 @@ stats:
   dps: '25.5'
   multi: '16.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -233799857 -1428220090:Liquidator's Gauntlets of Assets\/a
 categories:
 - Assassin Equipment

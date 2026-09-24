@@ -14,7 +14,8 @@ stats:
   crit: '2.4'
   critbonus: '0.8'
   potency: '3.7'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 169.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2094754428 -966096955:Ghatachonoth's Energy Siphon\/a
 image: images/Ghatachonoth's_Energy_Siphon.png
 categories:

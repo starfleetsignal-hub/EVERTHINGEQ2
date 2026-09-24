@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- Applies Bloodthirst III when Activated.\n  - Grants a 9% chance to instantly recast any offensive Combat Art used. When this triggers, the caster will take 15% of their life as damage.\n  - Increases all damage done to caster by 20%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Bloodthirst III is 1.0 second and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -357666011 -1726049782:Gorget of Obscene Bloodthirst\/a
 categories:
 - Assassin Equipment

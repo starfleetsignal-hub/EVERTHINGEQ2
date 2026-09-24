@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Buckler
-effects: '**Evasion**'
+effect_name: Evasion
+effects: "- When Equipped:\n  - When caster is damaged by a spell, this spell has a 5% chance to absorb 1000 damage."
 item_link: \aITEM 1959733877 1446563813:Brace of Deflection\/a
 image: images/Brace_of_Deflection.jpg
 categories:

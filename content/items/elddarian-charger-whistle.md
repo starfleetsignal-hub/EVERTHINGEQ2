@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: '2.0'
   recast: '0.0'
-effects: Call Elddarian Charger
+effects: "- Applies Call Elddarian Charger when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 40%"
 obtained_from: Any Horse Merchant
 item_link: -1913405831 1093257876:elddarian charger whistle
 image: images/Elddarian_charger_whistle.jpg

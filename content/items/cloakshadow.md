@@ -18,7 +18,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Despoiling Mist**'
+effect_name: Despoiling Mist
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Despoiling Mist on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 85 - 103 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 668363697 -1030291262:Cloakshadow\/a
 categories:
 - Assassin Equipment

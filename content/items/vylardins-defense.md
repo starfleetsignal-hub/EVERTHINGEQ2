@@ -20,7 +20,8 @@ stats:
   abmod: +4,262
   aspeed: '33.5'
   dtype: Symbols
-effects: '**Curuvar''Renda**'
+effect_name: Curuvar'Renda
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curuvar'Renda on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 6,602 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Quest Ascension in Kunark]] in [[Obulus Frontier]]'
 item_link: \aITEM 487364185 78483546:Vylardin's Defense\/a
 image: images/Vylardin's_Defense.jpg

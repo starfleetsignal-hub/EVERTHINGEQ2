@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 8.8.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1932484516 -533635383:crude fright imbued burlap hex doll\/a
 categories:
 - Assassin Equipment

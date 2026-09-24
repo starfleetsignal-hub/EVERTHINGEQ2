@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   aspeed: '4'
   dtype: Cloth Armor
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM -2083007031 -775257532:Saturnine Silk Ensemble\/a
 categories:
 - Assassin Equipment

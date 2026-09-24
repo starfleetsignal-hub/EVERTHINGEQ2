@@ -19,7 +19,8 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Engulfing Aegis**<br>**Steady Pulse**'
+effect_name: Engulfing Aegis, Steady Pulse
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis III on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,200 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Steady Pulse III on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 2,370 - 2,620 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -605112801 145441677:Universal Mallet of the Historian\/a
 categories:
 - Beastlord Equipment

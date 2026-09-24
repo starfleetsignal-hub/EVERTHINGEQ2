@@ -19,7 +19,8 @@ stats:
   resolve: '1'
   abmod: +1,404
   aspeed: '16.8'
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 48%-120%. The value increases based on how long the wearer has stood still."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -1479928429 1084788255:Swift Umbrite Necklace\/a
 categories:

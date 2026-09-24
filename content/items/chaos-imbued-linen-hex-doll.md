@@ -11,7 +11,8 @@ stats:
   sta: '+13'
   int: '+13'
   potency: '0.2'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 491.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -654545012 -1357927187:chaos imbued linen hex doll\/a
 categories:
 - Assassin Equipment

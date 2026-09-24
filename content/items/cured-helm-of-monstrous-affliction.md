@@ -15,7 +15,8 @@ stats:
   potency: '11.3'
   dps: '27.7'
   dtype: Leather Armor
-effects: '**Craft of War**'
+effect_name: Craft of War
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Craft of War on caster.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases WIS and INT of caster by 150.0.\n    - Increases Potency of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 968507222 -2009047338:Cured Helm of Monstrous Affliction\/a
 categories:
 - Casting Speed (Equipment)

@@ -24,7 +24,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Blessing of the Loving Mother**'
+effect_name: Blessing of the Loving Mother
+effects: "- When Equipped:\n  - \"Blessing of the Loving Mother\" protects the wearer from strong deific magics used by Tunare!"
 item_link: \aITEM 1690961329 -2142770372:Crawling Vine Dagger of Growth [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

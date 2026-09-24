@@ -17,7 +17,8 @@ stats:
   dps: '16.1'
   multi: '21.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1574595726 -1639502741:Brutalizer's Immortal Manchette\/a
 categories:
 - Accuracy (Equipment)

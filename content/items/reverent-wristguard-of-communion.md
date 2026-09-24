@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '103'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Ancient Knowledge: Reverent Wristguard of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -119477578 -727393624:Reverent Wristguard of Communion\/a
 categories:

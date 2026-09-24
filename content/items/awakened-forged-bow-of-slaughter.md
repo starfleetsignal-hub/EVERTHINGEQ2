@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1789894973 569412919:Awakened Forged Bow of Slaughter\/a
 categories:
 - Assassin Equipment

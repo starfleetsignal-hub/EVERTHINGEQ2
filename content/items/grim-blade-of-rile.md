@@ -21,7 +21,8 @@ stats:
   drating: '62.38'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 72.\n    - Increases power of caster by 94.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Klok Zlaxx]] (Faction Merchant) in [[Fens of Nathsar]]
 item_link: \aITEM 1732413998 50130943:Grim Blade of Rile\/a
 categories:

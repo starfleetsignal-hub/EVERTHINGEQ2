@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +11,731
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 40%-100%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 314188681 -348768291:Atramentous Projectile\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   aspeed: '37.4'
   dps: '14.3'
   vselemental: +32,207
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 108 maximum"
 item_link: \aITEM 750944324 -54784662:Perpetual Motion Band\/a
 categories:
 - Ability Modifier (Equipment)

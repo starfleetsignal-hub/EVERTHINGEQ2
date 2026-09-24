@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 553288523 1080833412:Spiritbound Ancestral Cap\/a
 categories:
 - Attack Speed (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   vselemental: '+400'
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 5 percent."
 item_link: \aITEM -1286256366 -873714293:Shackle of Kurn's Torment\/a
 categories:
 - Arcane Resistance (Equipment)

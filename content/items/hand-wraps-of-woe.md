@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   abmod: '+270'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Looted from [[A Triumphant Armor Piece (Storm Gorge)|A Triumphant Armor Piece]] after completing the [[Battle of Storm Gorge]]
 item_link: \aITEM -1768003483 -1480048772:Hand Wraps of Woe\/a
 image: images/Hand_Wraps_of_Woe.jpg

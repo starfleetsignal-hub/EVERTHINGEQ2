@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   mitinc: '4.9'
   dtype: Plate Armor
-effects: '**Greater Salubrious Aura**'
+effect_name: Greater Salubrious Aura
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Greater Salubrious Aura on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Greater Reflexive Restoration on target.  This effect normalizes based off of a three second triggering event.\n      - Heals caster for 498.\n      - Grants a total of 3 triggers of the spell.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Champion''s Breastplate Mold]] *Made from [[Elemental Champion''s Breastplate Pattern]]'
 item_link: \aITEM -542045918 -756889332 0 0 0:Lavaworn Breastplate of Chaotic Energy\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   aspeed: '40.8'
   dps: '31.1'
   vselemental: +42,714
-effects: '**Illuminated Bonds**'
+effect_name: Illuminated Bonds
+effects: "- When Equipped:\n  - Converts the damage component of Scorched Earth into an encounter effect and adds a debuff that will increase all magic damage done to the target.\n  - Increases the duration of implosion by 2 seconds and number of damage ticks by 2.\n  - Telluric Rending will decrease Combat Mitigation.\n  - Adds a damage over time component to Virulent Outbreak."
 obtained_from: '[[Awakening Bonds: Whispers of the Past]]'
 item_link: \aITEM -813332071 1093149428:Tears of Spiritual Devotion\/a
 categories:

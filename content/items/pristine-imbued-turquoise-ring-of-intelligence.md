@@ -9,7 +9,7 @@ flags: ATTUNEABLE
 stats:
   wis: '+2'
   int: '+2'
-effects: Aura of Intelligence
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cast Flash of Intelligence on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases INT of caster by 3.6\n    - Increases Subjugation, Focus and Disruption of caster by 2.2"
 obtained_from: Crafted by [[Scholar]] (level 16) from [[Scholar essentials volume 16]]
 item_link: \aITEM 505007324 2076621457:Pristine Imbued Turquoise Ring of Intelligence\/a
 categories:

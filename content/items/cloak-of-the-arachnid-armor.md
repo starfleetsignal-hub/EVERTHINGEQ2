@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Creeping Crawly**'
+effect_name: Creeping Crawly
+effects: "- Applies Creeping Crawly when Activated.\n  - Summons a pet Creepy Crawly\n  - The casting time of Creeping Crawly is 2.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: From [[Cloak of the Arachnid (crate)|Cloak of the Arachnid]]
 item_link: \aITEM -454648372 1419666869:Cloak of the Arachnid\/a
 categories:

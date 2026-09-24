@@ -17,7 +17,8 @@ stats:
   resolve: '525'
   multi: '35.7'
   vselemental: +367,510
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 52.5.\n  - Increases Crit Bonus Overcap of caster by 456.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 522117063 -1814427648:Memorial Hoop, Greater Untarnished Relic of Old Velious\/a
 categories:
 - Arcane Resistance (Equipment)

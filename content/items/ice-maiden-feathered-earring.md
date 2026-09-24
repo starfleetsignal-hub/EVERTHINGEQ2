@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   vsarcane: '+511'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 1799176264 -94088938:Ice Maiden Feathered Earring\/a
 categories:
 - Ability Modifier (Equipment)

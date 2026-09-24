@@ -8,7 +8,7 @@ flags: LORE NO-TRADE
 stats:
   duration: (varies, see notes)
   charges: 1/1
-effects: Toadstool
+effects: "- Applies Toadstool when activated. Lasts for (varies, see notes).\n  - Shrinks caster by 35%.\n  - Enlarges caster by 50%"
 obtained_from: A [[Carnivorous Plant]]
 item_link: \aITEM 1445419951 1055013107:Toadstool\/a
 categories:

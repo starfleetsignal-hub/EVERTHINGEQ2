@@ -21,7 +21,7 @@ stats:
   drating: '213.0'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: Deathcall I<br>Egothief I
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast ***Deathcall I*** on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 12.0%\n    - Must not be engaged in pvp combat\n  - On any combat or spell hit this spell may cast ***Egothief I*** on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4843 - 5352 poison damage on target\n    - Heals caster for 2421 - 2676\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n\nitemlink="
 categories:
 - Ability Modifier (Equipment)
 - Crit Bonus (Equipment)

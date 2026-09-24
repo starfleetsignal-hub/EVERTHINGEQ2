@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   dps: '276'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 50 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1187176640 -1256234202:Hoard Found Chausses of Ruination\/a
 categories:
 - Berserker Equipment

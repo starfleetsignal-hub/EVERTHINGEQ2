@@ -19,7 +19,8 @@ stats:
   resolve: '30'
   mitinc: '15.1'
   dtype: Plate Armor
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 item_link: \aITEM -255916323 211321793 0 0 0:Visage of Torment\/a
 categories:
 - Artifact Equipment

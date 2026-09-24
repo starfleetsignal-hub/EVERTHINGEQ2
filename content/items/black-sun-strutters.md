@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.3'
   dtype: Chain Armor
-effects: '**Stone Feet**'
+effect_name: Stone Feet
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stone Feet on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.0 times per minute.\n    - Roots target\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 70 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 79.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -699830774 645970959:Black Sun Strutters\/a
 categories:
 - Assassin Equipment

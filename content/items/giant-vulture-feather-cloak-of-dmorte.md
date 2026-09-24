@@ -15,7 +15,8 @@ stats:
   critbonus: '16'
   potency: '16'
   flurry: '17.8'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -515148731 -1771647779:Giant Vulture Feather Cloak of D'Morte\/a
 categories:
 - Ability Doublecast (Equipment)

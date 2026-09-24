@@ -16,7 +16,8 @@ stats:
   critbonus: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 180536665 -91560831:Cap of the Netherealm\/a
 categories:
 - Ability Modifier (Equipment)

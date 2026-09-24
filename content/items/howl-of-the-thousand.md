@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '13.8'
   vselemental: +29,521
-effects: '**Prismatic Reaction**'
+effect_name: Prismatic Reaction
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -425259843 548810204:Howl of the Thousand\/a
 categories:
 - Ability Modifier (Equipment)

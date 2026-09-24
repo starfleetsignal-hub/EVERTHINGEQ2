@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Amplifying Plume: Crit Bonus**'
+effect_name: 'Amplifying Plume: Crit Bonus'
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1,242.2.\n  - The value of this effect is increased by the number of characters in the group or raid wearing an Amplifying Plume effect to a maximum of double the base value."
 obtained_from: Crafted by [[Artisan]] (level 0) from [[Primeval Plumes]]
 item_link: \aITEM -55914547 -988953084:Primeval Critical Plume of Darkpaw\/a
 categories:

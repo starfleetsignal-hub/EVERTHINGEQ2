@@ -18,7 +18,7 @@ stats:
   vsarcane: '+412'
   vsnoxious: '+412'
   dtype: Plate Armor
-effects: Sanguine Imbued
+effects: "- Applies ***Sanguine Imbued*** when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts heat damage on target"
 obtained_from: Crafted by [[Armorer]] (level ) from [[Advanced Armorer Volume 77]]
 item_link: -1600537842 931989723:Pristine Imbued Incarnadine Vanguard Greaves
 categories:

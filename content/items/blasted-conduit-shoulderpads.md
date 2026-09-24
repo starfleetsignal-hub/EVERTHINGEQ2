@@ -16,7 +16,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Leather Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 5%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 316573320 -760568435 0 0 0:Blasted Conduit Shoulderpads\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**Armor of the Ulthork**'
+effect_name: Armor of the Ulthork
+effects: "- When Equipped:\n  - When the wearer dies, they will take only 10% of the base armor damage.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1977987935 404723125:Blightstopper\/a
 categories:
 - AE Autoattack Chance (Equipment)

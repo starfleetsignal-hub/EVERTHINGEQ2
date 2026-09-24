@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   multi: '0.9'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 13.5.\n    - Increases Haste of caster by 15.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1615375988 572232440:Crude Imbued Beryllium Band of Agility\/a
 categories:
 - Assassin Equipment

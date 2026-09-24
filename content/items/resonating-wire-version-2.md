@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Resonating Bands**'
+effect_name: Resonating Bands
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Resonating Bands on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 513 - 627 piercing damage on target.\n    - Heals caster for 481 - 587.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -497256133 997015228:Resonating Wire\/a
 categories:
 - Ability Modifier (Equipment)

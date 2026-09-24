@@ -16,7 +16,8 @@ stats:
   aspeed: '28.2'
   multi: '28.2'
   flurry: '0.5'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- Applies Prayer to Tunare III when Activated.\n  - Heals the caster for 159,500 health\n  - Suspends the passive effect for 60 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare III is 1 minute\n- When Equipped:\n  - Heals caster for 10,690 health every 3 seconds\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Assassin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Beastlord, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Brigand, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Dirge, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Ranger, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Swashbuckler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Troubador, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -746489146 -845756007:Daring Focus\/a
 categories:

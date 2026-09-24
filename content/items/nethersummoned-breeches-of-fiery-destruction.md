@@ -16,7 +16,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '*Made from [[Elemental Master''s Pantaloon Mold]] *Made from [[Elemental Master''s Pantaloon Pattern]]'
 item_link: \aITEM -1209076445 33992171 0 0 0:Nethersummoned Breeches of Fiery Destruction\/a
 categories:

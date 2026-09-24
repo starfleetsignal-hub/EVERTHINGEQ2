@@ -16,7 +16,8 @@ stats:
   potency: 34,375.9
   resolve: '455'
   cbovercap: '+1286.2'
-effects: '**Market Correction**<br>**Back Room Dealings**'
+effect_name: Market Correction, Back Room Dealings
+effects: "- Applies Market Correction when Activated.\n  - Fires a powerful beam straight ahead of the caster, dealing damage to any targets in its path. The damage ticks 3 additional times.\n  - Targets hit by the beam are also afflicted with a crippling fear that saps attributes and causes the target to take 3% more damage for 15 seconds\n  - In Ballads of Zimara or previous expansion zones\n  - Cannot be modified except by direct means\n  - The casting time of Market Correction is 0.85 seconds and the reuse time of the spell is 1 minute\n- When Equipped:\n  - Increases Fervor of caster by 40.7.\n  - Increases Fervor Overcap of caster by 81.5.\n  - Increases Potency of caster by 5,230.5.\n  - In Ballads of Zimara or previous expansion zones"
 obtained_from: 'Collection reward: [[Unburied Booty]]'
 item_link: \aITEM 1024777966 672725359:Ascendant Relic Seeker's Necklace\/a
 categories:

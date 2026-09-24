@@ -16,7 +16,8 @@ stats:
   abmod: '+105'
   multi: '6.8'
   dtype: Symbols
-effects: '**Malign Intent**<br>**Sorcerous Alacrity**'
+effect_name: Malign Intent, Sorcerous Alacrity
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Malign Intent on target of spell.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces all spell damage by up to 200.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces cast time of hostile spells by 4 percent."
 item_link: \aITEM -1700236124 -599538637:Eye of Innoruuk\/a
 categories:
 - Ability Modifier (Equipment)

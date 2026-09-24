@@ -13,7 +13,8 @@ stats:
   drating: '45.38'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- Applies Frost Blast when Activated.\n  - Inflicts 210 - 350 cold damage on target.\n  - The casting time of Frost Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1193723480 489242887:Crude Cold Imbued Sandalwood Wand\/a
 categories:
 - Berserker Equipment

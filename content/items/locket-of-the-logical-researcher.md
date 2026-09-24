@@ -14,7 +14,8 @@ stats:
   critbonus: '5.7'
   potency: '9.8'
   multi: '15.6'
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -892131034 1344878581:Locket of the Logical Researcher\/a
 categories:
 - Assassin Equipment

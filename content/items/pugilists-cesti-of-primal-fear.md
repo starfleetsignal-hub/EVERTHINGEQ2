@@ -18,7 +18,8 @@ stats:
   dps: '18.8'
   multi: '12'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -726719464 -2138222518:Pugilist's Cesti of Primal Fear\/a
 categories:
 - Ability Modifier (Equipment)

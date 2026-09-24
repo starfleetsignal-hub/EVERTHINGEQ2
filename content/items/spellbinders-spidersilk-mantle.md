@@ -16,7 +16,8 @@ stats:
   vselemental: '+664'
   vsnoxious: +1,162
   dtype: Cloth Armor
-effects: '**Empowered Magic**<br>**Ensorcelled Vulnerability**'
+effect_name: Empowered Magic, Ensorcelled Vulnerability
+effects: "- When equipped:\n  - Reduces resistability of spells by 5%\n  - Increases base spell damage by 4%"
 categories:
 - Arcane Resistance (Equipment)
 - Cloth Armor (Equipment Type)

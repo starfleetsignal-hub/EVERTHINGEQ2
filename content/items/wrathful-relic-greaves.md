@@ -18,7 +18,8 @@ stats:
   potency: 59,124.3
   resolve: '640'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor of caster by 40.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -311612216 -1412026156:Wrathful Relic Greaves\/a
 categories:
 - Assassin Equipment

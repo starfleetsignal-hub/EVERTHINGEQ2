@@ -14,7 +14,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +11,484
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Applies Fortitude Stand II.  Lasts for 10.0 seconds.\n    - Inflicts 452,760 slashing damage on target.\n    - Gives caster an extra 7.7% mitigation to their worn armor.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 326318297 -330038198:Telkorenar's Fortified Brace\/a
 aliases:
 - Telkorenar's Fortified Brace (0 Gem, Potency)

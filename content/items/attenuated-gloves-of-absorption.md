@@ -18,7 +18,8 @@ stats:
   dps: '27.1'
   multi: '17.5'
   dtype: Chain Armor
-effects: '**Hurried Strikes**<br>**Haste**'
+effect_name: Hurried Strikes, Haste
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -2092128954 -1894237738:Attenuated Gloves of Absorption\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   strike: '12.2'
   aspeed: '11.2'
-effects: '**Order**'
+effect_name: Order
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Order on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 19,325\n    - Inflicts 2,913 crushing damage on target.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1810077584 -2031961995:Rune of Order\/a
 categories:
 - Attack Speed (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   dps: '12.8'
   dtype: Plate Armor
-effects: '**Asphyxiating Sorcery**'
+effect_name: Asphyxiating Sorcery
+effects: "- Applies Asphyxiating Sorcery when Activated.  Lasts for 30.0 seconds.\n  - Increases the chance of all procs by 25 percent.\n    - If under level 90\n  - The casting time of Asphyxiating Sorcery is 0.5 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: Made from [[Powermonger's Lockbox]]
 item_link: \aITEM -926559251 -87904461:Lich Orishin Vambraces\/a
 categories:

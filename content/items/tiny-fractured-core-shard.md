@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Spikes**'
+effect_name: Spikes
+effects: "- Applies Spikes when Activated.  Lasts for 24.0 seconds.\n  - Slows target by 50.0%.\n  - Inflicts 100, 000 piercing damage to the target. Provided the target moves between ticks, they will take an additional 100, 000 piercing damage every 2 seconds.\n  - Cannot be modified except by direct means\n  - The reuse time of Spikes is 1 minute 30 seconds"
 item_link: \aITEM -1075615902 -93314822:Tiny Fractured Core Shard\/a
 categories:
 - Assassin Equipment

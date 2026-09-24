@@ -13,7 +13,7 @@ stats:
   int: '+25'
   power: '+125'
   crit: '2'
-effects: Act of Survival
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cat Act of Survival on target of spell. This effect will trigger an average of 1.6 times per minute.\n    - Inflicts 253 magic damage on target\n    - Heals caster for 141"
 obtained_from: '[[A Higher Purpose]]'
 item_link: \aITEM 1570128621 -1140425793:[Survival Accord Broach]\/a
 image: images/Survival_Accord_Broach.jpg

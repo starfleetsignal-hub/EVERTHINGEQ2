@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   abmod: '+16'
   dtype: Plate Armor
-effects: '**Flame Pillar**'
+effect_name: Flame Pillar
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Flame Pillar on target's attacker.  Lasts for 24.0 seconds.\n    - Inflicts 112 - 186 heat damage on target.\n    - Inflicts 46 - 76 heat damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 107633172 1286469802:Shimmering Star Pauldrons\/a
 image: images/Shimmering_Star_Pauldrons.jpg
 categories:

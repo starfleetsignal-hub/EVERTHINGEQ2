@@ -16,7 +16,8 @@ stats:
   potency: '7.8'
   abmod: '+246'
   dtype: Cloth Armor
-effects: '**Mindburst**'
+effect_name: Mindburst
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Mindburst on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 273 mental damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 801378735 -652361734:Robe of the Oracle\/a
 categories:
 - Ability Modifier (Equipment)

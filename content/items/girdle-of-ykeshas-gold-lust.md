@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   abmod: '+152'
   dps: '13.4'
-effects: '**Poison Coins**<br>**Haste**'
+effect_name: Poison Coins, Haste
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Poison Coins on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 378 - 702 poison damage on target.\n    - Inflicts 378 - 702 poison damage on target.\n    - Inflicts 378 - 702 poison damage on target.\n    - Inflicts 378 - 702 poison damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 2054040860 -558659447:Girdle of Ykesha's Gold Lust\/a
 categories:
 - Ability Modifier (Equipment)

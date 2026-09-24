@@ -17,7 +17,8 @@ stats:
   dps: '25.8'
   multi: '18.6'
   vselemental: +28,612
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM 1600987748 -1773658445:Martial Bornite Hoop\/a
 categories:

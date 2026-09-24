@@ -18,7 +18,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Chain Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 393.9.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1597249610 189445288:Remnant Chain Boots, Greater Relic of Old Velious\/a
 categories:
 - Assassin Equipment

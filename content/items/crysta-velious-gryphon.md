@@ -11,7 +11,7 @@ stats:
   duration: Until Cancelled
   charges: Unlimited
   casting: 2.0 seconds
-effects: Crysta, Velious Gryphon
+effects: "- Applies Crysta, Velious Gryphon when activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 75%\n    - Increases your air speed by 150%\n  - Increases Crit Bonus of caster by 4.0%\n  - Increases Potency 4.0%.\n  - Increases Crit Chance of caster by 14.0\n  - Increases Max Health of caster by 600.0\n  - Increases Max Power of caster by 600.0"
 item_link: \aITEM 1185596514 -862392973:Crysta, Velious Gryphon\/a
 image: images/Crysta,_Velious_Gryphon.jpg
 categories:

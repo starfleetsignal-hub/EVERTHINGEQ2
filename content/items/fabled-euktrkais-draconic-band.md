@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Dragonflare**'
+effect_name: Dragonflare
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dragonflare on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 145,775 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -71158443 153923092:Fabled Euktrkai's Draconic Band\/a
 categories:
 - Arcane Resistance (Equipment)

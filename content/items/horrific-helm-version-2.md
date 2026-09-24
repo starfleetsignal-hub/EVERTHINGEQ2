@@ -16,7 +16,8 @@ stats:
   potency: '2.7'
   aspeed: '4.3'
   dtype: Plate Armor
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM -1197706913 1141715719:Horrific Helm\/a
 categories:
 - Attack Speed (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   abmod: '+92'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 obtained_from: Crafted by [[Alchemist]] (level 70) from [[Riliss Alchemy Volume II]]
 item_link: \aITEM 904366162 -1792986864:Rilissian Essence Vial Necklace\/a
 categories:

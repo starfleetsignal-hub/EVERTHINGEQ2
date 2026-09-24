@@ -15,7 +15,8 @@ stats:
   critbonus: '2.9'
   dps: '1.8'
   dtype: Chain Armor
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 4.0%."
 item_link: \aITEM -490820596 1660163187:Discord's Brutallic Sabatons\/a
 categories:
 - Assassin Equipment

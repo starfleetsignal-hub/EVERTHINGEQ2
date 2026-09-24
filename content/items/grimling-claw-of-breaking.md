@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +21,632
-effects: '**Flow Break**'
+effect_name: Flow Break
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Flow Break III on target.  Lasts for 24.0 seconds.  Triggers about 3.0 times per minute.\n    - Dispels when the wearer uses a healing spell\n    - Increases the value of heals and wards by 15%-255% based on increments. Increments up to 6 times, if at 1 increment.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1818881628 -2043990547:Grimling Claw of Breaking\/a
 categories:
 - Arcane Resistance (Equipment)

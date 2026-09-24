@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   vselemental: '+512'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -1889555900 -1575300141:Erudin Researcher's Jeweled Earstud\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -9,7 +9,7 @@ flags: attuneable
 stats:
   str: '+2'
   sta: '+2'
-effects: Aura of Strength
+effects: "- When Equipped:\n  - When a successful attack this spell has a chance to cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  This effect will trigger an average of 2.2 times per minute.  If a melee attack is used, only the primary weapon can trigger this effect.\n    - Increase STR of caster by 3.6\n    - Increase Damage Per Second of caster by 11.3"
 obtained_from: Crafted by [[Scholar]] (level 18) from [[Scholar essentials volume 18]]
 item_link: \aITEM -1909406360 1587668932:Pristine Imbued Electrum Band of Strength\/a
 categories:

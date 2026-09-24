@@ -17,7 +17,8 @@ stats:
   multi: '38.7'
   flurry: '0.6'
   vselemental: +9,108
-effects: '**Ethereal Temporality**'
+effect_name: Ethereal Temporality
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 4.0%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1698807944 1641563585:Shackle of the Silver Reaper\/a
 categories:
 - Arcane Resistance (Equipment)

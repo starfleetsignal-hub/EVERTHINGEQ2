@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   abmod: '+197'
-effects: '**Manaweave**'
+effect_name: Manaweave
+effects: "- When Equipped:\n  - On a hit this spell may cast Manaweave on caster.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 189 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -195246424 -1844170066:Strength of Zek\/a
 categories:
 - Ability Modifier (Equipment)

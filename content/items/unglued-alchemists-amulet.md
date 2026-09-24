@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   aspeed: '5.1'
   multi: '5.9'
-effects: '**Black Phylactery**'
+effect_name: Black Phylactery
+effects: "- Applies Black Phylactery when Activated.\n  - Heals caster for 3,300.\n  - The casting time of Black Phylactery is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[Safely-Kept Soul]]'
 item_link: \aITEM -2121617625 -428926424:Unglued Alchemist's Amulet\/a
 categories:

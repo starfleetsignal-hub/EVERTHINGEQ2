@@ -15,7 +15,7 @@ stats:
   vselemental: '+415'
   vsarcane: '+415'
   vsnoxious: '+415'
-effects: Deadly Repulsion
+effects: "- When Equipped:\n  - When target is damaged with a melee weapon this spell has a 4% chance to cast Deadly Repulsion on caster. Lasts fo 10.0 seconds.\n    - Replenishes 1000 points of absorption every 2 seconds\n    - Wards caster against 2000 points of all physical damage\n  - This spell can not be modified execept by direct means"
 item_link: \aITEM -242320298 1305586653:Ring of Repulsion\/a
 categories:
 - Arcane Resistance (Equipment)

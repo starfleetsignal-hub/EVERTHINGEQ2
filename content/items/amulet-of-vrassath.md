@@ -19,7 +19,8 @@ stats:
   abmod: +11,956
   dps: '29.2'
   flurry: '12.2'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 342.2.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -580352844 1416871613:Amulet of Vrassath\/a
 categories:
 - Ability Modifier (Equipment)

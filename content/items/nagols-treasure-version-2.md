@@ -16,7 +16,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   vselemental: '+360'
-effects: '**Alacritous Incantation**'
+effect_name: Alacritous Incantation
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 5 percent."
 item_link: \aITEM -2084634721 1712312535:Nagol's Treasure\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '1.1'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 41 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 43) from [[Advanced Armorer Volume 43 (Normal)]] *Crafted by [[Armorer]] (level 43) from [[Advanced Armorer Volume 43 (no-trade)]] *From [[Chainmail Armor Pack (Level 42 Mastercrafted)]]'
 item_link: \aITEM -1989327410 -630168452:Imbued Ebon Chainmail Coat\/a
 categories:

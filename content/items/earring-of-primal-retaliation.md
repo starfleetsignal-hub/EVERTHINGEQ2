@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   dps: '45'
   vselemental: +26,832
-effects: '**Powerful Retaliation**'
+effect_name: Powerful Retaliation
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 45% chance to cast Powerful Retaliation on target.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency of caster by 12.0, multiplied by increment stacks.\n    - This effect increments up to 10 times.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1161788590 847498756:Earring of Primal Retaliation\/a
 categories:
 - Arcane Resistance (Equipment)

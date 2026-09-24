@@ -18,7 +18,8 @@ stats:
   resolve: '650'
   flurry: '31.5'
   dtype: Chain Armor
-effects: '**Invader''s Energy**'
+effect_name: Invader's Energy
+effects: "- When Equipped:\n  - Increases Fervor of caster by 17.4.\n  - Increases Fervor Overcap of caster by 23.2.\n  - Grants an additional 25 in-combat runspeed.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Gerion's Reckoning Raid Rares Beta Reward (crate) (Version 1)|Gerion's Reckoning Raid Rares Beta Reward]]
 item_link: \aITEM 1216514304 -1127502650:Gerion's Reckoning Dominator Chain Bracers\/a
 categories:

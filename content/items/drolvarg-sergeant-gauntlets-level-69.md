@@ -16,7 +16,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Holy Smite**'
+effect_name: Holy Smite
+effects: "- When Equipped:\n  - Increases divine damage done by spells by up to 40."
 item_link: \aITEM -234641900 984872064:Drolvarg Sergeant Gauntlets\/a
 categories:
 - Berserker Equipment

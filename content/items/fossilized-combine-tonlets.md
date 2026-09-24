@@ -13,7 +13,8 @@ stats:
   mit: '272'
   potency: '0.2'
   dtype: Plate Armor
-effects: '**Enfeeblement**'
+effect_name: Enfeeblement
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Enfeeblement on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases STR of target encounter by 13.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 898420774 -2125097398:Fossilized Combine Tonlets\/a
 categories:
 - Berserker Equipment

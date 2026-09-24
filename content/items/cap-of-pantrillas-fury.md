@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   dtype: Cloth Armor
-effects: '**Pantrilla''s Wrath**'
+effect_name: Pantrilla's Wrath
+effects: "- Applies Pantrilla's Wrath when Activated.\n  - Inflicts 158 magic damage on target.\n  - The reuse time of Pantrilla's Wrath is 10 minutes\n  - Requires 1 Power to cast."
 item_link: \aITEM 595192832 1760918983:Cap of Pantrilla's Fury\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   aspeed: '2.9'
   flurry: '1.7'
   dtype: Chain Armor
-effects: '**Mark of Dread**'
+effect_name: Mark of Dread
+effects: "- Applies Mark of Dread when Activated.  Lasts for 30.0 seconds.\n  - Increases Crit Chance of caster by 2.0.\n  - The casting time of Mark of Dread is 2.0 seconds and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 1266493671 1824267190:Armguards of Dread\/a
 categories:
 - Assassin Equipment

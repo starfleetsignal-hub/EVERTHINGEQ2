@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Fatal Pestilience**'
+effect_name: Fatal Pestilience
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Pestilience IX on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 380 - 420 disease damage on targets in Area of Effect.\n    - Inflicts 506 - 559 disease damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 18 - 20 disease damage on targets in Area of Effect every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 90) from [[Ancient Knowledge: Lucid Gemstone of Impulse]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -127187934 -1971781639:Lucid Gemstone of Impulse\/a
 categories:

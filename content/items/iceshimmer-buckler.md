@@ -13,7 +13,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Buckler
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 103 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 275338247 -132366917:Iceshimmer Buckler\/a
 categories:
 - Berserker Equipment

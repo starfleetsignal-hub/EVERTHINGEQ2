@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 598488647 1669963332:Cleansing Choker\/a
 categories:
 - Ability Modifier (Equipment)

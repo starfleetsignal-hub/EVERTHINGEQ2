@@ -21,7 +21,8 @@ stats:
   aspeed: '343.2'
   multi: '171.4'
   dtype: Leather Armor
-effects: '**Facet of Eternity**'
+effect_name: Facet of Eternity
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Rejuvenating One."
 obtained_from: From [[Satchel of the Primus]]
 item_link: \aITEM -897793792 1902910201:Primus' Honed Leather Shirt\/a
 categories:

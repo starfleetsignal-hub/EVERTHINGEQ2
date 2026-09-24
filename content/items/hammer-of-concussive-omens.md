@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Heavenly Fist**'
+effect_name: Heavenly Fist
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Heavenly Fist on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Applies Knockdown on termination.  Lasts for 2.3 seconds.\n      - Throws target back\n      - Blurs vision of target.\n      - Stuns target\n      - Does not affect Epic targets\n    - Inflicts 1,415 - 1,564 divine damage on targets in Area of Effect instantly and every second.\n    - Increases Hate Gain of caster by 12.0.\n    - Increases DPS of group members (AE) by 30.0.\n    - 1% of all damage received by the caster is prevented.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 92) from [[Draconic Knowledge: Hammer Of Concussive Omens]] *Made from [[Prime Bone Golem Shards]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Maligonian Horns]]'
 item_link: \aITEM -48762483 690726255:Hammer of Concussive Omens\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   aspeed: '4'
   multi: '4.8'
   dtype: Leather Armor
-effects: '**Dizzying Dance**'
+effect_name: Dizzying Dance
+effects: "- When Equipped:\n  - On a hit this spell may cast Dizzying Dance on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.0 times per minute.\n    - Dazes target\n    - Only affects targets level 79 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1592257794 1299555563:Tanara's Dizzying Straps\/a
 categories:
 - Attack Speed (Equipment)

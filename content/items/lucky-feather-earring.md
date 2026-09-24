@@ -11,7 +11,8 @@ stats:
   str: '+2'
   sta: '+2'
   vsarcane: '+1'
-effects: '**Haste of the Great Hawk**'
+effect_name: Haste of the Great Hawk
+effects: "- When Equipped:\n  - Increases Haste of caster by 2.0."
 item_link: \aITEM 1691574638 1327480356:Lucky Feather Earring\/a
 categories:
 - Arcane Resistance (Equipment)

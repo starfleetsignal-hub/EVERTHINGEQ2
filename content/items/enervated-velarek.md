@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Speak to Vel''Arek**'
+effect_name: Speak to Vel'Arek
+effects: '- Applies Speak to Vel''Arek when Activated.'
 obtained_from: '[[Epic Repercussions]]'
 item_link: \aITEM -189671343 1951262995:Enervated Vel'Arek\/a
 categories:

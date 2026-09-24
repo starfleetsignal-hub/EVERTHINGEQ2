@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+4'
   agi: '+4'
-effects: '**Hex of Shadows**'
+effect_name: Hex of Shadows
+effects: "- Applies Hex of Shadows when Activated.  Lasts for 1 minute 48 seconds.\n  - Applies Hex of Fright.  Lasts for 1 minute 48 seconds.\n    - Decreases Haste of target by 11.6.\n    - Cannot be modified except by direct means\n  - Slows target by 31.6%.\n  - 5% chance to dispel when target takes damage\n  - 5% chance to dispel when target receives hostile action\n  - The casting time of Hex of Shadows is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1539311634 1600977324:crude shadow imbued roughspun hex doll\/a
 categories:
 - Assassin Equipment

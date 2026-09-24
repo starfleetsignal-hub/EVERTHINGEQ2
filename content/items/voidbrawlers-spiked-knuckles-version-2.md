@@ -20,7 +20,8 @@ stats:
   drating: '76.96'
   dtype: Main Hand Piercing
   wtype: Fists
-effects: '**Deathly Lifetap**'
+effect_name: Deathly Lifetap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Deathly Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 483 - 1,003 magic damage on target\n    - Heals caster for 322 - 668\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1055706717 -1425691823:Voidbrawler's Spiked Knuckles\/a
 categories:
 - AE Autoattack Chance (Equipment)

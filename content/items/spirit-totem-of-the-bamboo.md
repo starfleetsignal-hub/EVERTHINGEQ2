@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Bamboo
+effects: "- Applies **Spirit of the Bamboo** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a goblin\n  - Increases Out-of-Combat power Regeneration of caster by 108\n  - This effect suspends during combat\n  - Only affects targets level 80 and above"
 obtained_from: Crafted by [[Woodworker]] (level 81) from [[Woodworker Essentials Volume 81]]
 categories:
 - Assassin Equipment

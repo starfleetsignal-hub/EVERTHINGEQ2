@@ -12,7 +12,7 @@ stats:
   health: '+10'
   power: '+10'
   dtype: Buckler
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 34 heat damage on target"
 obtained_from: Crafted by [[Craftsman]] (level 10) from [[Advanced craftsman volume 10]]
 item_link: \aITEM -544745821 -1803697160:Pristine Imbued Bone Buckler\/a
 categories:

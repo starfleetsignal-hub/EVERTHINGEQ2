@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Summon Ally**'
+effect_name: Summon Ally
+effects: "- Applies Summon Ally on target Friend when Activated.\n  - Teleports target to caster\n  - This effect cannot be cast during combat\n  - The casting time of Summon Ally is 15.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1223605313 812389315:Orb of Summoning\/a
 categories:
 - Ability Modifier (Equipment)

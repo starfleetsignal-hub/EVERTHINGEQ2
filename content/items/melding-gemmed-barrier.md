@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Symbols
-effects: '**Sustenance**'
+effect_name: Sustenance
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Sustenance on caster.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Hate Gain of caster by 25.0.\n    - Prevents AOE (except when direct)\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 501159679 -129507760:Melding Gemmed Barrier\/a
 categories:
 - Ability Modifier (Equipment)

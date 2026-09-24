@@ -16,7 +16,8 @@ stats:
   abmod: '+137'
   multi: '8'
   dtype: Symbols
-effects: '**Undead Bane**<br>**Asphyxiating Sorcery**'
+effect_name: Undead Bane, Asphyxiating Sorcery
+effects: "- When Equipped:\n  - Additional equipment with Undead Bane improves this effect.\n  - On any combat or spell hit this spell may cast Undead Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 531 mental damage on target.\n      - Must be classified as an undead\n    - Inflicts 265 mental damage on target.\n      - Must not be classified as an undead\n    - Decreases Mitigation of target vs arcane damage by 395.\n      - Must be classified as an undead\n    - Cannot be modified except by direct means\n- Applies Asphyxiating Sorcery when Activated.  Lasts for 30.0 seconds.\n  - Increases the chance of all procs by 25 percent.\n    - If under level 90\n  - The casting time of Asphyxiating Sorcery is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1404480392 1404470735:Words of the Dread Exarch\/a
 image: images/Words_of_the_Dread_Exarch.jpg
 categories:

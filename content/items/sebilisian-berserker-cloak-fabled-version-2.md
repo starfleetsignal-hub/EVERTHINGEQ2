@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   aspeed: '5.6'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 1566932118 55843201:Sebilisian Berserker Cloak\/a
 categories:
 - Assassin Equipment

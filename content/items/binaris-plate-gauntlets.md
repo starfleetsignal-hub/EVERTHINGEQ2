@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 370.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1116600079 1336758541:Binari's Plate Gauntlets\/a
 categories:
 - Berserker Equipment

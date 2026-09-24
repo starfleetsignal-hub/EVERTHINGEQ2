@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Lesser Silence**'
+effect_name: Lesser Silence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Silence on target of spell.  Lasts for 2.5 seconds.  Triggers about 1.6 times per minute.\n    - Stifles target\n    - Only affects targets level 121 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 92.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Cookie''s Monster]]'
 item_link: \aITEM -1985602089 268673166:Cookie's Apron\/a
 categories:

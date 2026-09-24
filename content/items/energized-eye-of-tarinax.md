@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Energize**<br>**Consume Energy**'
+effect_name: Energize, Consume Energy
+effects: "- When Equipped:\n  - Raid members have a 1% chance on attacks to build an increment of Energize on the wearer. Lasts for 62 seconds and increments up to 20 times.\n- Applies Consume Energy when Activated.  Lasts for 40.0 seconds.\n  - Increases the wearer's Potency by 9 for every increment of Energize consumed.\n  - This can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Consume Energy is 1 minute"
 obtained_from: Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume V]]
 item_link: \aITEM 1479866695 1994033195:Energized Eye of Tarinax\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   dps: '27.9'
   vselemental: +1,881
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1500071358 1965657097:Red Kelp Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

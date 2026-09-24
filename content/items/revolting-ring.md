@@ -17,7 +17,8 @@ stats:
   resolve: '21'
   flurry: '34'
   vselemental: +57,798
-effects: '**Misanthropic Malevolence**'
+effect_name: Misanthropic Malevolence
+effects: "- When Equipped:\n  - Increases STA of caster by 600.0.\n  - Increases Potency of caster by 15.0.\n  - This effect improves based on the number of unique boss encounters defeated in Shard of Hate [Solo].\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1449686493 1535494418:Revolting Ring\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 4.0.\n    - Increases Haste of caster by 12.1.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Scholar]] (level 18) from [[Advanced Scholar Volume 18 (Normal)]] *Crafted by [[Scholar]] (level 18) from [[Advanced Scholar Volume 18 (No-Trade)]]'
 item_link: \aITEM -1236030280 -1028470768:Imbued Silver Band of Agility\/a
 categories:

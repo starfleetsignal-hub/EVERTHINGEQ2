@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dps: '12.6'
-effects: '**Call of Death**'
+effect_name: Call of Death
+effects: "- When Equipped:\n  - Increases the trigger chance of items and spells by 15%.\n  - On any combat or spell hit this spell may cast Call of Death on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 389 - 475 disease damage on target.\n      - If over 20% Health\n    - Inflicts 1,555 - 1,901 disease damage on target.\n      - If under 20% Health\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2021247674 -1316746000 0 0 0:Charm of Anashti Sul\/a
 categories:
 - Assassin Equipment

@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Lightning**'
+effect_name: Lightning
+effects: "- When Equipped:\n  - Increases Casting Speed of caster by 25.0%."
 item_link: \aITEM 1441925077 1944950711:Fabled Lightning Swift Trinket\/a
 categories:
 - Assassin Equipment

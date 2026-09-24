@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   vselemental: '+395'
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 239.\n    - Increases power of caster by 146.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: \aITEM 63168100 1711092566 0 0 0:Voidblaster's Stud\/a
 categories:

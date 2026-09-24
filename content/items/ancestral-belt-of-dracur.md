@@ -15,7 +15,8 @@ stats:
   potency: '9.8'
   dps: '24.1'
   multi: '15.6'
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 879759962 -1406550011:Ancestral Belt of Dracur\/a
 categories:
 - Assassin Equipment

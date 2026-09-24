@@ -21,7 +21,9 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Thunderstorm**<br>**Prophetic Shield**'
+effect_name: Thunderstorm, Prophetic Shield
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Thunderstorm on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Applies Energize.  Lasts for 12.0 seconds.\n      - Heals group members (AE) for 1,458 instantly and every 4 seconds.\n      - Increases power of group members (AE) by 109 instantly and every 4 seconds.\n      - Cannot be modified except by direct means\n    - Inflicts 5,328 heat damage on target instantly and every 4 seconds.\n    - Inflicts an additional 2,664 heat damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a beneficial spell cast this spell may cast Prophetic Shield on the group.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,200 points of all damage\n    - Heals group members (AE) for 1,662 - 1,837 instantly and every 3 seconds.\n    - Increases Potency\
+  \ of group members (AE) by 8.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1554038024 1560993266:Sledge of Recondite Mending\/a
 categories:
 - Ability Modifier (Equipment)

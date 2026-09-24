@@ -23,7 +23,8 @@ stats:
   drating: '1386.24'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,847 heat damage on target.\n    - Inflicts 3,847 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1669228668 -389892169:Prime Stalwart Skewer\/a
 categories:
 - Assassin Equipment

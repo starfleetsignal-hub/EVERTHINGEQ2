@@ -21,7 +21,8 @@ stats:
   drating: '157.56'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1347067758 -1715193245:Earth Imbued Claymore\/a
 categories:
 - Attack Speed (Equipment)

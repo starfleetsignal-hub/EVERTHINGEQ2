@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 90 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 48) from [[Advanced Armorer Volume 48 (Normal)]] *Crafted by [[Armorer]] (level 48) from [[Advanced Armorer Volume 48 (no-trade)]] *From [[Reverent Armor Pack (Level 42 Mastercrafted) (heirloom)|Reverent Armor Pack (Level 42 Mastercrafted)]] *From [[Reverent Armor Pack (Level 42 Mastercrafted) (normal)|Reverent Armor Pack (Level 42 Mastercrafted)]]'
 item_link: \aITEM 1069139400 2052801069:Imbued Ebon Reverent Leggings\/a
 categories:

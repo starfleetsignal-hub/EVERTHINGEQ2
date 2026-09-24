@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Twisted Thoughts**'
+effect_name: Twisted Thoughts
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Twisted Thoughts on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,250\n    - Cannot be modified except by direct means"
 item_link: \aITEM 260973432 1037950259:Tailspike of Pharadar\/a
 categories:
 - Beastlord Equipment

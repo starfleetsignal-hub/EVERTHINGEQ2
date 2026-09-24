@@ -11,7 +11,8 @@ stats:
   int: '+1'
   mit: '1'
   dtype: Cloth Armor
-effects: '**Dev AE Slay**'
+effect_name: Dev AE Slay
+effects: "- Applies Dev AE Slay when Activated.\n  - Inflicts 90.0% of max health in cold damage on target encounter."
 item_link: \aITEM -1191286709 1362448446:Test Bracers\/a
 categories:
 - Assassin Equipment

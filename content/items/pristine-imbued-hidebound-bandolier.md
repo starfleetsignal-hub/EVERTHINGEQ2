@@ -18,7 +18,7 @@ stats:
   drating: '87.3'
   range: 2 - 25
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- When equipped:\n  - On a successful attack this spell has a chance to cast Gleaming Strike on target of attack. This effect will trigger an average of 2.1 times per minute.\n    - Inflicts 497 - 923 magic damage on target"
 obtained_from: Crafted by [[Tailor]] (level 74) from [[Advanced Tailor Volume 74]]
 item_link: \aITEM 268121217 1089690196:pristine imbued hidebound bandolier\/a
 image: images/Pristine_imbued_hidebound_bandolier.jpg

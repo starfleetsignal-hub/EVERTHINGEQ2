@@ -16,7 +16,8 @@ stats:
   multi: '29.5'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1072074216 10850564:Brutalizer's Immortal Hand Wraps\/a
 categories:
 - Block Chance (Equipment)

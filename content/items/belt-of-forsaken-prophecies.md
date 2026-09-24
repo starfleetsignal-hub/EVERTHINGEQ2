@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   dps: '33.2'
   multi: '21.6'
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -439432552 2129488616 0 0 0:Belt of Forsaken Prophecies\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Necessary Healing**'
+effect_name: Necessary Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Necessary Healing II on target of spell cast.  Lasts for 12.0 seconds.\n    - Increases Potency of caster by 66.0.\n    - Applies to the caster if the target they heal is below 25% when the heal lands\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1515808950 -1876371783:Fabled Wristband of the Deep\/a
 categories:
 - Arcane Resistance (Equipment)

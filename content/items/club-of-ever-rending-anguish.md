@@ -21,7 +21,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.5%.\n    - Inflicts 988 mental damage on target encounter.\n    - Inflicts 253 mental damage on target encounter every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1148822772 504270929:Club of Ever Rending Anguish\/a
 categories:
 - Ability Modifier (Equipment)

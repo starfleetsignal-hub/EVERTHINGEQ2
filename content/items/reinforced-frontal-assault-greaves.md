@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dtype: Plate Armor
-effects: '**Lesser Torrent**'
+effect_name: Lesser Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 662 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -588912006 2005676487:Reinforced Frontal Assault Greaves\/a
 categories:
 - AE Autoattack Chance (Equipment)

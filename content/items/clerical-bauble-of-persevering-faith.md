@@ -15,7 +15,8 @@ stats:
   potency: '5.4'
   aspeed: '7.4'
   vsarcane: '+400'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '[[Joining Their Ranks]]'
 item_link: \aITEM -1367468666 -1838246313:Clerical Bauble of Persevering Faith\/a
 categories:

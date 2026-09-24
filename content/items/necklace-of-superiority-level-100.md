@@ -18,7 +18,8 @@ stats:
   resolve: '20'
   flurry: '26.3'
   mitinc: '12.4'
-effects: '**Wisdom of the Kly**'
+effect_name: Wisdom of the Kly
+effects: "- When Equipped:\n  - Increases the effectiveness of Blood Contract and Revocation of Life"
 item_link: \aITEM -607081576 1605324122:Necklace of Superiority\/a
 categories:
 - Assassin Equipment

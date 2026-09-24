@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   dps: '10.5'
   dtype: Chain Armor
-effects: '**Mirage**'
+effect_name: Mirage
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Mirage on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 obtained_from: '[[Seeking Sergeant Slithess]]'
 item_link: \aITEM -836598834 -408363097:Battlement Battalion 623 Boots\/a
 categories:

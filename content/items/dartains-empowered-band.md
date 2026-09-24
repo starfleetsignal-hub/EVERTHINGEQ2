@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   multi: '10'
-effects: '**Manaweave**'
+effect_name: Manaweave
+effects: "- When Equipped:\n  - On a hit this spell may cast Manaweave on caster.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 189 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -266821641 -992060217:Dartain's Empowered Band\/a
 categories:
 - Assassin Equipment

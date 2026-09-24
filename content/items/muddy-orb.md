@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   aspeed: '5.6'
   dtype: Symbols
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 1859343621 -1350285006 0 0 0:Muddy Orb\/a
 image: images/Muddy_Orb.png
 categories:

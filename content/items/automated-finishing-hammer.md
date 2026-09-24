@@ -8,7 +8,8 @@ level: '20'
 slot: Charm
 classes: '[[Weaponsmith]]'
 flags: attunable
-effects: '**Simple Tools**'
+effect_name: Simple Tools
+effects: "- Applies Simple Tools when Equipped.\n  - Increases success chance by 1.0%."
 obtained_from: Made with Tinkering (skill 20) from [[Apprentice Blueprints 0.002]].
 item_link: \aITEM -1159876444 -1111199616:Automated Finishing Hammer\/a
 categories:

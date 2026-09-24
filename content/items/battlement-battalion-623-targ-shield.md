@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Tower Shield
-effects: '**Lesser Infuriation**'
+effect_name: Lesser Infuriation
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Lesser Infuriation on target of combat art.\n    - Increases Threat to target by 481\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Armorer]] (level 70) from [[Danak Heavy Armoring Volume I]]
 item_link: \aITEM 1952587110 1715410579:Battlement Battalion 623 Targ Shield\/a
 categories:

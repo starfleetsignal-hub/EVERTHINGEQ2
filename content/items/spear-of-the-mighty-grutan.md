@@ -20,7 +20,8 @@ stats:
   drating: '75.95'
   dtype: Main Hand Piercing
   wtype: Spear
-effects: '**Flow of the Spirits**'
+effect_name: Flow of the Spirits
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Flow of the Spirits on target of spell cast.  Triggers about 1.8 times per minute.\n    - Heals caster for 188.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1187119273 360704633:Spear of the Mighty Grutan\/a
 categories:
 - AE Autoattack Chance (Equipment)

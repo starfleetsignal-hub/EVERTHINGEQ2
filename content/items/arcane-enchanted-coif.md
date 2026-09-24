@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Chain Armor
-effects: '**Flame Pillar**'
+effect_name: Flame Pillar
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Flame Pillar on target's attacker.  Lasts for 24.0 seconds.\n    - Inflicts 165 - 275 heat damage on target.\n    - Inflicts 68 - 113 heat damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 267592214 -1103677250:Arcane Enchanted Coif\/a
 categories:
 - Assassin Equipment

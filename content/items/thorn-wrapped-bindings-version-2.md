@@ -19,7 +19,8 @@ stats:
   drating: '72.15'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Strike of Thorns**'
+effect_name: Strike of Thorns
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Strike of Thorns on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 239 magic damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 535672845 47464074:Thorn Wrapped Bindings\/a
 categories:
 - Beastlord Equipment

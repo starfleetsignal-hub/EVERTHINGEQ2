@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 64 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1521418270 -1878488119:imbued producer's vest\/a
 aliases:
 - Imbued producer's vest (Lambent Imbued) (Level 50)

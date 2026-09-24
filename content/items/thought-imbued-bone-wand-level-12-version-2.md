@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Mental Blast**'
+effect_name: Mental Blast
+effects: "- Applies Mental Blast when Activated.\n  - Inflicts 63 - 104 mental damage on target.\n  - The casting time of Mental Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 830542536 1456797750:thought imbued bone wand\/a
 aliases:
 - Thought imbued bone wand (Level 10) (4 int)

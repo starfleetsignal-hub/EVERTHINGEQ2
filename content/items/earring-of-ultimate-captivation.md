@@ -16,7 +16,8 @@ stats:
   abmod: '+843'
   dps: '29'
   vselemental: +35,154
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 23.0."
 item_link: \aITEM -1501975085 133449833:Earring of Ultimate Captivation\/a
 categories:
 - Ability Modifier (Equipment)

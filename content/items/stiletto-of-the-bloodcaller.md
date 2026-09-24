@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Bleed**'
+effect_name: Bleed
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bleed on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 18 - 22 slashing damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1687780474 44775891:Stiletto of the Bloodcaller\/a
 categories:
 - Assassin Equipment

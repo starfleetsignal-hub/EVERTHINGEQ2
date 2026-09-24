@@ -16,7 +16,8 @@ stats:
   abmod: '+835'
   dps: '28.8'
   vselemental: +33,491
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 18.8."
 item_link: \aITEM 1722985063 -2052368216:Dwarven Pearl Earring\/a
 categories:
 - Ability Modifier (Equipment)

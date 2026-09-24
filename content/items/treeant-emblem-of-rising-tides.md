@@ -20,7 +20,7 @@ stats:
   dps: '23.1'
   multi: '19.8'
   charges: Unlimited
-effects: Rising Tide
+effects: "- Applies Rising Tide when Activated. Lasts for 10.0 seconds.\n  - Applies Fates Entwined on termination. Lasts for 10.0 seconds.\n    - Increases potency by 80% of the caster's base potency.\n    - Cannot be modified except by direct means.\n  - Reduces Potency of caster by 50%\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means.\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes."
 obtained_from: 'Collection reward: [[Emblems of Birchbark]]'
 item_link: \aITEM 559728850 -389417929 0 0 0:[Treeant Emblem of Rising Tides]\/a
 image: images/Treeant_Emblem_of_Rising_Tides.png

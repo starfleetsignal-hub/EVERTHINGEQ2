@@ -21,7 +21,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1418467154 1307757448:Blade of Black Blood\/a
 categories:
 - Assassin Equipment

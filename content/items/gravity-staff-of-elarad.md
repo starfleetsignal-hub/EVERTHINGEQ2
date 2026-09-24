@@ -20,7 +20,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Gravity Flux**<br>**Mystic Havoc**'
+effect_name: Gravity Flux, Mystic Havoc
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Gravity Flux on target of spell.  Triggers about 2.0 times per minute.\n    - Interrupts target encounter\n    - Inflicts 1,986 crushing damage on target encounter.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1497211307 -1270426629:Gravity, Staff of El'Arad\/a
 image: images/Gravity,_Staff_of_El'Arad.png
 categories:

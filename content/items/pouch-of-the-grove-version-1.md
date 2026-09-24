@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Nature''s Reprieve**'
+effect_name: Nature's Reprieve
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Nature's Reprieve on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 197 - 241 divine damage on target.\n    - Heals caster for 196 - 240.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -410703080 -1302254613:Pouch of the Grove\/a
 categories:
 - Assassin Equipment

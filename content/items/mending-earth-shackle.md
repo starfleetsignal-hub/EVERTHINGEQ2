@@ -15,7 +15,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   dtype: Plate Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 1,161.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -477324326 1965142179 0 0 0:Mending Earth Shackle\/a
 categories:
 - Casting Speed (Equipment)

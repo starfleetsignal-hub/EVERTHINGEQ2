@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Tropical Saliraptor
+effects: "- Applies Call Tropical Saliraptor when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 60%\n    - Increases your air speed by 200%\n  - Increases Focus, Ministration, Crushing, Ranged, Disruption, Piercing, Aggression, Subjugation, Ordination and Slashing of caster by 5.0"
 item_link: 58389460 -1904643949:Tropical Saliraptor
 categories:
 - Assassin Equipment

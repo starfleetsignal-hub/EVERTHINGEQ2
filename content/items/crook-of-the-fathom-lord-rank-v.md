@@ -24,7 +24,8 @@ stats:
   drating: '5149.2'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Fathom Lord**'
+effect_name: Blessing of the Fathom Lord
+effects: "- When Equipped:\n  - \"Blessing of the Fathom Lord\" protects the wearer from strong deific magics used by Tarew Marr!"
 obtained_from: '*Made from [[Ethereal Writings: Crook of the Fathom Lord]] *[[Ethereal: Crook of the Fathom Lord]]'
 item_link: \aITEM -66006135 758728875:Crook of the Fathom Lord [Rank V]\/a
 categories:

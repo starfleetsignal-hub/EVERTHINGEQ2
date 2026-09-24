@@ -19,7 +19,8 @@ stats:
   resolve: '51'
   aspeed: '131.5'
   dtype: Tower Shield
-effects: '**Defiant Stand**'
+effect_name: Defiant Stand
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Defiant Stand on caster.  Lasts for 12.0 seconds.\n    - Increases Ability Doublecast of caster by 8.0.\n    - Increases Block Chance of caster by 8.0%.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 9.0 - 13.0 seconds.\n  - On a hostile ability cast this spell has a 14% chance to cast Defiant Stand on caster.  Lasts for 12.0 seconds.\n    - Increases Ability Doublecast of caster by 8.0.\n    - Increases Block Chance of caster by 8.0%.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 9.0 - 13.0 seconds."
 item_link: \aITEM 428165107 76812598:Storied Noxious Bone Shield\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '71.45'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: Sold by [[Tragen Gorschk]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 2066544393 2013187183:Staff of the Scorpikis Master\/a
 categories:

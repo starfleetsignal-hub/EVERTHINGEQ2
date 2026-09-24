@@ -14,7 +14,9 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   multi: '17'
-effects: '**Serrated Skin**<br>**Severity**'
+effect_name: Serrated Skin, Severity
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Serrated Skin IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives caster an extra 2.0% mitigation to their worn armor.\n    - When any damage is received this spell will cast Serrated Skin IV on target's attacker.\n      - Inflicts 201 - 222 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Serrated Skin IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives caster an extra 2.0% mitigation to their worn armor.\n    - When any damage is received this spell will cast Serrated Skin IV on target's attacker.\n      - Inflicts 201 - 222 piercing damage on target.\n      - Must\
+  \ not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -469558651 1945798361:Mercenary's Choker of Veeshan's Will\/a
 categories:
 - Assassin Equipment

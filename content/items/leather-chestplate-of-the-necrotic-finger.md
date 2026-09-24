@@ -17,7 +17,8 @@ stats:
   aspeed: '21.1'
   multi: '21'
   dtype: Leather Armor
-effects: '**Necromunger''s Greater Fortitude**'
+effect_name: Necromunger's Greater Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM 1314378692 -911472279:Leather Chestplate of the Necrotic Finger\/a
 categories:
 - Attack Speed (Equipment)

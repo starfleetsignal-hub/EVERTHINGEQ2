@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   multi: '3.2'
   dtype: Chain Armor
-effects: '**Distraction**'
+effect_name: Distraction
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Distraction on target's attacker.\n    - Decreases Threat to target by 700\n    - Cannot be modified except by direct means"
 item_link: \aITEM -26259777 -1994369329:Dapper Hat of the Vault Raider\/a
 categories:
 - Assassin Equipment

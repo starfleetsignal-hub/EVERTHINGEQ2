@@ -16,7 +16,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**The Dark Protector**'
+effect_name: The Dark Protector
+effects: "- When Equipped:\n  - Changes Sanctuary of Darkness into a short range group spell. It will also grant 20% damage reduction to magical attacks."
 obtained_from: From [[Elaborate Ethertouched Necklace]]
 item_link: \aITEM -1657447271 1683461505:Torque of the Betrayer\/a
 categories:

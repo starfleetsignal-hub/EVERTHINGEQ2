@@ -21,7 +21,9 @@ stats:
   drating: '173.24'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Phantasmal Siphon**<br>**Magnitude**'
+effect_name: Phantasmal Siphon, Magnitude
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon III on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,369 - 2,618 poison damage on target\n    - Heals caster for 1,185 - 1,309\n    - Decreases Mitigation of target vs physical damage by 1,339.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Magnitude III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 50.0.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast\
+  \ this spell may cast Magnitude III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 50.0.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1057117869 -1240718356:Supreme General's Spear of Confrontation\/a
 categories:
 - Beastlord Equipment

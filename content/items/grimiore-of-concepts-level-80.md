@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '12.8'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM 1652764910 -705831903:Grimiore of Concepts\/a
 categories:
 - Assassin Equipment

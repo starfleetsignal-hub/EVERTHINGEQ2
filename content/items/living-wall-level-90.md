@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Tower Shield
-effects: '**Barrier**'
+effect_name: Barrier
+effects: "- When Equipped:\n  - On a block this spell has a 20% chance to cast Barrier on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 750 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1686519399 -1258335292:Living Wall\/a
 categories:
 - Ability Modifier (Equipment)

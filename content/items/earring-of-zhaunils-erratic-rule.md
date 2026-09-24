@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   vselemental: +1,728
-effects: '**Corrosive Fog**'
+effect_name: Corrosive Fog
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog II on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,082 - 1,196 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1785742723 14017674:Earring of Zhaunil's Erratic Rule\/a
 categories:
 - Ability Modifier (Equipment)

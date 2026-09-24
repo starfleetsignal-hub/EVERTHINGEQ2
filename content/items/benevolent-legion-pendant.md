@@ -13,7 +13,8 @@ stats:
   crit: '2.4'
   critbonus: '0.8'
   potency: '3.7'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Sold by [[Eviss Ryiss]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM -1790409316 340503059:Benevolent Legion Pendant\/a
 categories:

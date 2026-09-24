@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '7'
-effects: '**Sandstorm Mastery**<br>**All for One**'
+effect_name: Sandstorm Mastery, All for One
+effects: "- When Equipped:\n  - Sandstorm will affect the entire raid and grant ability modifier.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -1117319094 801528867:Mantle of the Tempest\/a
 categories:
 - Ability Doublecast (Equipment)

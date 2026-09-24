@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   multi: '6.4'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 1271135739 1726398740:Sash of Secrets\/a
 categories:
 - Ability Modifier (Equipment)

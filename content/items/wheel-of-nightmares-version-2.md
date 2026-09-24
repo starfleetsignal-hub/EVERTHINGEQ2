@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   dps: '11'
   dtype: Round Shield
-effects: '**Divine Intervention**'
+effect_name: Divine Intervention
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Intervention on caster.  Triggers about 1.8 times per minute.\n    - Heals caster for 438.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2116989077 1093271270:Wheel of Nightmares\/a
 categories:
 - Berserker Equipment

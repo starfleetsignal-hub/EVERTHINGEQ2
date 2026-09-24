@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 4.7.\n    - Increases DPS of caster by 16.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 861093577 -1747840083:imbued coral ring of strength\/a
 categories:
 - Assassin Equipment

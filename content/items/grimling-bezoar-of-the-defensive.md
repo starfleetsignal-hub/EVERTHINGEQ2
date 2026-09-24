@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Defensive Oath**'
+effect_name: Defensive Oath
+effects: "- Applies Defensive Oath III when Activated.  Lasts for 30.0 seconds.\n  - Increases Block Chance of caster by 21.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Defensive Oath III is 1 minute 30 seconds"
 item_link: \aITEM -951986364 -406604935:Grimling Bezoar of the Defensive\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 3 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 138648046 -1211884538 0 0 0:Scintillating Silk Gloves\/a
 categories:

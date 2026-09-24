@@ -18,7 +18,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Plate Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 42.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1681176329 795174077:Vestige Cuirass, Greater Relic of Old Velious\/a
 categories:
 - Berserker Equipment

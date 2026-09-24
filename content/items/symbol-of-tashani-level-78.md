@@ -16,7 +16,8 @@ stats:
   aspeed: '5.4'
   dps: '10.1'
   dtype: Symbols
-effects: '**Bitter Miasma**'
+effect_name: Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 593.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -121051757 1483761209:Symbol of Tashani\/a
 categories:
 - Assassin Equipment

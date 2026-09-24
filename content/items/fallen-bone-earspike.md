@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   vselemental: +1,710
-effects: '**Magnitude**'
+effect_name: Magnitude
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Magnitude II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 11.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Magnitude II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 11.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1234190882 -769174086:Fallen Bone Earspike\/a
 image: images/Fallen_Bone_Earspike.png
 categories:

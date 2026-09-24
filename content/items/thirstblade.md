@@ -23,7 +23,8 @@ stats:
   drating: '3619.73'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Sanguine Splash**'
+effect_name: Sanguine Splash
+effects: "- Applies Sanguine Splash when Equipped.\n  - Increases Ability Doublecast of caster by 10.0.\n  - Increases Fervor of caster by 48.0.\n  - Increases Potency of caster by 750.0.\n  - On a hostile ability cast this spell has a 20% chance to cast Sanguine Splash on target of spell.  Lasts for 9.0 seconds.\n    - Inflicts 20,058 crushing damage on target.\n    - Heals caster for 5,976 instantly and every 4.5 seconds.\n    - Decreases Combat Mitigation of target by 1,426.6.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 16.0 seconds."
 item_link: \aITEM -116028468 720860855:Thirstblade\/a
 categories:
 - Ability Modifier (Equipment)

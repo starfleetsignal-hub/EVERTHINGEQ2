@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   aspeed: '7.3'
   vselemental: '+400'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM -1308454009 1556516884:Dangle of Twisted Thoughts\/a
 categories:
 - Ability Modifier (Equipment)

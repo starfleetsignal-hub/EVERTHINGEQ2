@@ -9,7 +9,8 @@ slot: Cloak
 flags: attunable heirloom no-value
 stats:
   wis: '+1'
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Made with Tinkering (skill 25) from [[Tinkerfest Blueprints 8.0]].
 item_link: \aITEM -172229991 -1782385656:Dapper Traveler's Cloak\/a
 categories:

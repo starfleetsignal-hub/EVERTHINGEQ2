@@ -16,7 +16,8 @@ stats:
   dps: '13.4'
   multi: '8.4'
   vselemental: +1,040
-effects: '**Pure Corruption**'
+effect_name: Pure Corruption
+effects: "- When Equipped:\n  - On a hit this spell may cast Pure Corruption on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR and AGI of caster by 75.0.\n    - Increases Haste of caster by 40.0.\n    - Increases DPS of caster by 55.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1988312028 2132320853:Band of the Corruptor\/a
 categories:
 - Arcane Resistance (Equipment)

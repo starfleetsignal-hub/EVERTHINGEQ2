@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +26,832
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Stamina IV on target.  Lasts for 20.1 seconds.  Triggers about 0.4 times per minute.\n    - Increases Max Health of caster by 1.1%, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - The trigger chance is multiplied by the number of players in the wearer's raid. Increments up to 20 times."
 item_link: \aITEM 74631250 613842799:Stud of Primal Vitality\/a
 categories:
 - AE Autoattack Chance (Equipment)

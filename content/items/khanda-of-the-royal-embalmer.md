@@ -20,7 +20,8 @@ stats:
   drating: '58.77'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Poison**'
+effect_name: Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poisoning on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 112 - 187 poison damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1420604237 -917933031:Khanda of the Royal Embalmer\/a
 categories:
 - Assassin Equipment

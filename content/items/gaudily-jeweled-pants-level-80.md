@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dtype: Cloth Armor
-effects: '**Subjugative Alacrity**'
+effect_name: Subjugative Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of Subjugation-based spells by 2 percent."
 item_link: \aITEM -1081861655 77709654:Gaudily Jeweled Pants\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   dps: '21.1'
   vsarcane: '+564'
-effects: '**Flowing Consciousness**'
+effect_name: Flowing Consciousness
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 5 percent."
 item_link: \aITEM -1796658644 977439877:Bangle of the Fulgurator\/a
 categories:
 - Arcane Resistance (Equipment)

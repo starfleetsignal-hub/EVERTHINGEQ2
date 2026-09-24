@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '103'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 0.6%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 8.0."
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Ancient Knowledge: Melodic Wristguard of the Umbral]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1354108532 456985273:Melodic Wristguard of the Umbral\/a
 categories:

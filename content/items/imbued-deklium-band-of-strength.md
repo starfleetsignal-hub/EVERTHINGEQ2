@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   vsarcane: '+280'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 18.5.\n    - Increases DPS of caster by 22.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 78) from [[Jeweler Essentials Volume 78 (Normal)]] *Crafted by [[Jeweler]] (level 78) from [[Jeweler Essentials Volume 78 (no-trade)]]'
 item_link: \aITEM 1283595702 -135708399:Imbued Deklium Band of Strength\/a
 categories:

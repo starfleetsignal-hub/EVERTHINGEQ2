@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Tseralith''s Curse**'
+effect_name: Tseralith's Curse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Tseralith's Curse on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 31 - 38 disease damage on target.\n    - Inflicts 18 - 22 disease damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -26271960 -668189933:Razor-edged Cutlass of Curses\/a
 categories:
 - Assassin Equipment

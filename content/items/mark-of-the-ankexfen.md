@@ -17,7 +17,8 @@ stats:
   dps: '10.5'
   multi: '6.4'
   vselemental: '+360'
-effects: '**Manaweave**'
+effect_name: Manaweave
+effects: "- When Equipped:\n  - On a hit this spell may cast Manaweave on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 144 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Standards of the Goblin Tribes]]'
 item_link: \aITEM 1482634583 649889865:Mark of the Ankexfen\/a
 image: images/Mark_of_the_Ankexfen.jpg

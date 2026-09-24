@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   dtype: Chain Armor
-effects: '**Mana Font**'
+effect_name: Mana Font
+effects: "- Applies Mana Font when Activated.  Lasts for 10.0 seconds.\n  - Increases power of caster by 200 instantly and every 2 seconds.\n  - The casting time of Mana Font is 3.0 seconds and the reuse time of the spell is 30 minutes"
 item_link: \aITEM -1590471485 451779324:Doomseer Leggings\/a
 image: images/Doomseer_Leggings.jpg
 categories:

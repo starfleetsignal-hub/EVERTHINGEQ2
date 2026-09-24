@@ -17,7 +17,8 @@ stats:
   abmod: '+105'
   aspeed: '6'
   dtype: Cloth Armor
-effects: '**Wreak Havoc**'
+effect_name: Wreak Havoc
+effects: "- When Equipped:\n  - Increases damage done by Ice Comet III by up to 2000.\n  - Increases damage done by Distortion V by up to 550."
 item_link: \aITEM -13558581 1342507013:Arcane Robe of Hatred\/a
 categories:
 - Ability Modifier (Equipment)

@@ -20,7 +20,8 @@ stats:
   vselemental: +2,173
   vsarcane: +2,173
   vsnoxious: +2,173
-effects: '**Destructive Channeling**'
+effect_name: Destructive Channeling
+effects: "- When Equipped:\n  - Increases range of hostile spells by 15 percent."
 item_link: \aITEM 313007953 -1957372269:Engagement Ring of the Scorned\/a
 categories:
 - Arcane Resistance (Equipment)

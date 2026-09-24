@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: +1,395
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1416940723 -1713631765:Enforcer's Emerald Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

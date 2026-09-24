@@ -16,7 +16,8 @@ stats:
   potency: '2.4'
   multi: '4.3'
   dtype: Leather Armor
-effects: '**Lesser Overloaded Heal**'
+effect_name: Lesser Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 2.8 times per minute.\n    - Heals group members (AE) for 178.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[An Apprentice''s Plea]]'
 item_link: \aITEM -674845747 1060301651:Devoured-hide Shoulderguards\/a
 categories:

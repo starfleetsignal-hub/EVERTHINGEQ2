@@ -16,7 +16,8 @@ stats:
   aspeed: '5.4'
   multi: '6.2'
   vselemental: '+347'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 10696680 1977459049 0 0 0:Magicky Danglies\/a
 image: images/Magicky_Danglies.png
 categories:

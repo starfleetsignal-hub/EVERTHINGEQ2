@@ -25,7 +25,8 @@ stats:
   drating: '556.42'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3.7%.\n    - Inflicts 2,836 magic damage on target instantly and every second.\n    - Inflicts an additional 46 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1811319053 2036221653:Dawngathering Dazzler's Staff\/a
 categories:
 - Ability Modifier (Equipment)

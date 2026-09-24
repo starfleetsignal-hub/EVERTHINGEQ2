@@ -13,7 +13,8 @@ stats:
   mit: '292'
   potency: '0.2'
   dtype: Plate Armor
-effects: '**Tremble**'
+effect_name: Tremble
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Impact on target's attacker.  Lasts for 1.5 seconds.\n    - Throws target back\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1238780615 -792200499:Fossilized Combine Breastplate\/a
 categories:
 - Berserker Equipment

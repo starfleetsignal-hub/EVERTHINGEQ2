@@ -5,7 +5,7 @@ item_kind: Equipment
 level: '1'
 slot: Cloak
 flags: LORE NO-TRADE NO-VALUE
-effects: Flames of the Gathering
+effects: "- Applies **Flames of the Gathering** when Activated.\n  - Send fireworks into the sky!\n  - The casting time of Flames of the Gathering is 1.0 seconds and the reuse time of the spell is 5 minures"
 obtained_from: Given to players who attended the 2007 SOE Fanfaire in Las Vegas
 item_link: \aITEM 161910215 442323362:Sebilisian Cloak of the Gathering\/a
 categories:

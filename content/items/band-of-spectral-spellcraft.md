@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +11,484
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Blows on target.  Lasts for 20.1 seconds.  Triggers about 0.4 times per minute.\n    - Increases Flurry of Caster by 1.0, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - The trigger chance is multiplied by the number of players in the wearer's raid. Increments up to 20 times."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume IV]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM -1278973868 1591700808:Band of Spectral Spellcraft\/a
 categories:

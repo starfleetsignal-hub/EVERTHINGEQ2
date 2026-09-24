@@ -20,7 +20,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Oracle**'
+effect_name: Oracle
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 5.5%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1797866903 1087980569:Staff of Dracurion Conquest\/a
 categories:
 - Assassin Equipment

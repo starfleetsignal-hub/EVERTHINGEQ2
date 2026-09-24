@@ -16,7 +16,8 @@ stats:
   abmod: '+89'
   dps: '9.7'
   vselemental: '+360'
-effects: '**Greater Battle Presence**'
+effect_name: Greater Battle Presence
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Greater Battle Presence on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes caster immune to Fear effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -814032328 451060107:Fragment of the Tintinnabulum\/a
 categories:
 - Ability Modifier (Equipment)

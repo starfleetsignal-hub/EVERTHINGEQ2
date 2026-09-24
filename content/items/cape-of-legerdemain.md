@@ -15,7 +15,8 @@ stats:
   potency: '13.3'
   aspeed: '114.6'
   multi: '41.8'
-effects: '**Bristlebanes Cunning**'
+effect_name: Bristlebanes Cunning
+effects: "- When Equipped:\n  - Increases AGI of caster by 55.0.\n  - Increases Crit Bonus of caster by 5.0.\n  - Increases Multi Attack of caster by 50.0.\n  - Increases Max Health of caster by 2,250.0.\n  - Increases Crushing, Slashing, Piercing and Ranged of caster by 45.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 141605219 1821247453 0 0 0:Cape of Legerdemain\/a
 categories:
 - Assassin Equipment

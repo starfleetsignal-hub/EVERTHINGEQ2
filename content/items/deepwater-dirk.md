@@ -20,7 +20,8 @@ stats:
   drating: '113.04'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[A Grave Name]]'
 item_link: \aITEM 1187343441 -1770703115:Deepwater Dirk\/a
 categories:

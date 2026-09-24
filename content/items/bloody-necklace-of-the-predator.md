@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   abmod: +1,250
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 12 for every enemy who is engaged with the wearer, up to 48 maximum"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM 1202179105 -99836888:Bloody Necklace of the Predator\/a
 categories:

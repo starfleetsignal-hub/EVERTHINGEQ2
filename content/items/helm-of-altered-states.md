@@ -18,7 +18,8 @@ stats:
   abmod: '+203'
   aspeed: '10.2'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM -646175517 -692566609:Helm of Altered States\/a
 categories:
 - Ability Modifier (Equipment)

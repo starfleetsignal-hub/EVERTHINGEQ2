@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Practiced Strike**'
+effect_name: Practiced Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Strike on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 50,000 slashing damage per time this effect triggers on the same target. Stops growing after 45 triggers. Restarts if this does not trigger on that target for over a minute.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1601955106 1084456179:Ancient Planar Trinket\/a
 categories:
 - Arcane Resistance (Equipment)

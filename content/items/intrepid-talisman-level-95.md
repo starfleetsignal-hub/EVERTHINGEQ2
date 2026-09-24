@@ -15,7 +15,8 @@ stats:
   potency: '17.7'
   aspeed: '28.2'
   multi: '28.2'
-effects: '**Earthen Consort**'
+effect_name: Earthen Consort
+effects: "- When Equipped:\n  - When damaged, this spell has a 5% chance to cast Earthen Consort on target's attacker. Lasts for 10.0 seconds.\n- Applies Earthen Consort when Activated.  Lasts for 20.0 seconds.\n  - Suspends the passive effect for 120 seconds\n  - Summons an earthen pet that will voraciously taunt foes off the caster for a limited duration.\n  - This item may not be used in a PvP zone.\n  - The casting time of Earthen Consort is 0.5 seconds and the reuse time of the spell is 2 minutes"
 obtained_from: '*From [[A Packet of Heroic Goods (Coercer, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Conjuror, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Illusionist, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Necromancer, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warlock, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Wizard, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -1392551680 706747141:Intrepid Talisman\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Intangible**'
+effect_name: Intangible
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Intangible on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 137,200 magic damage on target.\n    - Increases Block Chance of caster by 3.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -105539613 890583354:Greater Lich Ring\/a
 categories:
 - Arcane Resistance (Equipment)

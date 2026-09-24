@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+403'
-effects: '**Planar Infusion**'
+effect_name: Planar Infusion
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Infusion on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals caster for 117 - 176.\n    - Increases Mitigation of caster vs physical damage by 124.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Planar Orbs]]'
 item_link: \aITEM 1164923556 -442493787:Planar Orb of the Warrior\/a
 categories:

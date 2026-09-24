@@ -8,7 +8,8 @@ level: '1'
 slot: Finger
 flags: no-trade no-value
 description: Using this magical ring enchants the wearer's feet with a spell to run faster.
-effects: '**Spell of Swift Travel**'
+effect_name: Spell of Swift Travel
+effects: "- Applies Spell of Swift Travel when Activated.  Lasts for 31 minutes 30 seconds.\n  - Increases speed of caster by 70.0%.\n  - This effect suspends during combat\n  - If zone allows riding mounts\n  - The casting time of Spell of Swift Travel is 0.5 seconds and the reuse time of the spell is 1.5 seconds"
 obtained_from: Obtained from the [[Welcome Home Travel Pack]]
 item_link: \aITEM -1788990254 -740692884:Ring of Swift Travel\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   critbonus: '391.5'
   potency: 7,510.7
   resolve: '210'
-effects: '**Essence of Shadow**'
+effect_name: Essence of Shadow
+effects: "- Applies Essence of Shadow when Equipped.\n  - Increases Fervor of caster by 85.0.\n  - Increases Fervor Overcap of caster by 30.0."
 item_link: \aITEM 375687414 -1769106099:Cloak of Dark Shadows\/a
 categories:
 - Artifact Equipment

@@ -16,7 +16,8 @@ stats:
   aspeed: '42.8'
   dps: '42.8'
   dtype: Plate Armor
-effects: '**Breach**'
+effect_name: Breach
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Strikethrough of caster by 6.0%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -145227240 1124296825 0 0 0:Sabatons of Unstoppable Conquest\/a
 categories:
 - Attack Speed (Equipment)

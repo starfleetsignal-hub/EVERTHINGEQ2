@@ -17,7 +17,8 @@ stats:
   dps: '18.1'
   multi: '11.5'
   dtype: Chain Armor
-effects: '**Minor Interlude**<br>**Poison Proficiency**'
+effect_name: Minor Interlude, Poison Proficiency
+effects: "- When Equipped:\n  - Adds 3% Spell and Combat Art reuse speed bonus to Aria of Magic VI and Riana's Relentless Tune VII.\n- When Equipped:\n  - Increases poison trigger chance by 4.0%."
 obtained_from: Sold by [[Sehesh]] in [[Paineel]] for [[Boots of Rigorous Striking]] and 30 [[Seal of Arad|Seals of Arad]]
 item_link: \aITEM 1301281541 -97028417:Devious Darkfeather Sabatons\/a
 categories:

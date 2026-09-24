@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Chain Armor
-effects: '**Thought Siphon**'
+effect_name: Thought Siphon
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Thought Siphon on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 389.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1673169491 1255280132:Sabatons of Piety\/a
 categories:
 - Ability Modifier (Equipment)

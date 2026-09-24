@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   multi: '0.9'
   dtype: Chain Armor
-effects: '**Faint Lambent Imbued**'
+effect_name: Faint Lambent Imbued
+effects: "- Applies Faint Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 28 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2143463867 -1860011831:crude imbued indium chainmail coat\/a
 categories:
 - Assassin Equipment

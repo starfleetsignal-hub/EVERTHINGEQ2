@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Vital Deflection**'
+effect_name: Vital Deflection
+effects: "- When Equipped:\n  - Applies Vital Deflection.  Lasts for 10.0 seconds.\n    - Inflicts 137,200 piercing damage on targets in Area of Effect.\n    - Increases Max Health of caster by 6.0%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1188140789 2105560920:Band of the Raised Dead\/a
 categories:
 - AE Autoattack Chance (Equipment)

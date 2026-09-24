@@ -20,7 +20,9 @@ stats:
   drating: '163.05'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Corrosive Fog**<br>**Focused Magnitude**'
+effect_name: Corrosive Fog, Focused Magnitude
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 793 - 876 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 480.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Focused Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases STR and AGI of caster by 44.0.\n    - Increases Accuracy of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be\
+  \ engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Focused Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases STR and AGI of caster by 44.0.\n    - Increases Accuracy of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 55630780 -786411483:Awakened Spear of Division\/a
 categories:
 - Assassin Equipment

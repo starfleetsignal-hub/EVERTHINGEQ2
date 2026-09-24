@@ -17,7 +17,8 @@ stats:
   resolve: '395'
   cbovercap: '+1428.4'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1637802737 1649330474:Edrigen's Shield of Antiquity\/a
 categories:
 - Berserker Equipment

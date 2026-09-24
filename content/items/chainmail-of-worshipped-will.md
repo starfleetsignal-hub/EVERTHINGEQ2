@@ -15,7 +15,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   dtype: Chain Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 871.\n    - Heals group members (AE) for 290 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 571985720 -1964914871:Chainmail of Worshipped Will\/a
 categories:
 - Bard Equipment

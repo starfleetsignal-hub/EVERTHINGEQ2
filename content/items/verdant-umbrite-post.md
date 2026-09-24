@@ -16,7 +16,8 @@ stats:
   abmod: '+763'
   dps: '26.4'
   vselemental: +28,613
-effects: '**Prismatic Reaction**'
+effect_name: Prismatic Reaction
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means"
 obtained_from: '*[[Mining Your Business]] *[[Return to the Pillars]]'
 item_link: \aITEM -1386897988 -846825058:Verdant Umbrite Post\/a
 image: images/Verdant_Umbrite_Post.png

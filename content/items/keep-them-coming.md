@@ -15,7 +15,8 @@ stats:
   abmod: +1,500
   aspeed: '16.7'
   vselemental: +26,832
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 60 maximum"
 item_link: \aITEM 1734484706 -348517942:Keep Them Coming\/a
 categories:
 - Ability Modifier (Equipment)

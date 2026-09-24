@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.3'
   dps: '13'
-effects: '**Channel a Kazarian Champion**'
+effect_name: Channel a Kazarian Champion
+effects: "- Applies Channel a Kazarian Champion when Activated.\n  - You temporarily become the host for an extremely powerful Sullonite's essence.\n  - The reuse time of Channel a Kazarian Champion is 6 minutes"
 item_link: \aITEM 430380107 -1682727469:Channeling Crystal of the Sullonites\/a
 categories:
 - Alchemist Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '3.7'
   abmod: '+98'
   dtype: Plate Armor
-effects: '**Dark Tidings**'
+effect_name: Dark Tidings
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Dark Tidings on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 1,400\n    - Cannot be modified except by direct means"
 item_link: \aITEM 91276608 1112184291:Breastplate of the Blessed Emperor\/a
 categories:
 - Ability Modifier (Equipment)

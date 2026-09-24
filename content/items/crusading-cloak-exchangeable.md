@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dps: '12.8'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume II]]
 item_link: '\aITEM -166996105 -845093931:Crusading Cloak: Exchangeable\/a'
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '69.02'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Aggravate**'
+effect_name: Aggravate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aggravate II on target of attack.  Triggers about 1.0 times per minute.\n    - Increases Threat to target by 1,225\n    - Cannot be modified except by direct means"
 item_link: \aITEM 732940336 -757862922:Boombottom sword\/a
 categories:
 - Aggravate (Equipment)

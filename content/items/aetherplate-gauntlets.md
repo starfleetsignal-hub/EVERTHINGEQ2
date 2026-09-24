@@ -16,7 +16,8 @@ stats:
   multi: '27.8'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[A Jagged Branch]]'
 item_link: \aITEM -1064029978 -360592671:Aetherplate Gauntlets\/a
 categories:

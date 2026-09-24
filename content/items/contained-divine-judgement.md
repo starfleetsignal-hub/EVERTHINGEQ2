@@ -18,7 +18,8 @@ stats:
   resolve: '100'
   abmod: +43,155
   aspeed: '76.5'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1267658598 1541059962:Contained Divine Judgement\/a
 categories:
 - Ability Modifier (Equipment)

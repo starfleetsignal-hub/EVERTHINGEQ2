@@ -17,7 +17,8 @@ stats:
   multi: '36.3'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1712320318 1984575075:Deathspiral Gloves\/a
 categories:
 - Block Chance (Equipment)

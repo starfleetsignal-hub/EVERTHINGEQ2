@@ -21,7 +21,8 @@ stats:
   drating: '208.28'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Exalted Wave**'
+effect_name: Exalted Wave
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Exalted Wave IX on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1017 - 1124 cold damage on targets in Area of Effect instantly and every 2 seconds\n    - Heals group members (AE) for 1108 - 1225 instantly and every 2 seconds\n    - Increases the amount of wards and heals cast by the caster's group by 5%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone."
 obtained_from: '*Crafted by [[Weaponsmith]] (level 90) from [[Ancient Knowledge: Dire Sledge of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 60687534 -791600425:Dire Sledge of Revelations\/a
 categories:

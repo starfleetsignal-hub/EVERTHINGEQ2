@@ -16,7 +16,8 @@ stats:
   drating: '14.51'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Spirit Theft**'
+effect_name: Spirit Theft
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Spirit Theft on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 71 - 118 mental damage on target.\n    - Increases power of caster by 46 - 77.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -742672293 1615657918:Spear of Dark Spirits\/a
 categories:
 - Assassin Equipment

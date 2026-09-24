@@ -18,7 +18,8 @@ stats:
   potency: 53,929.3
   resolve: '670'
   mitinc: '113.5'
-effects: '**Oblivion''s Stance**<br>**Oblivion''s Chance**'
+effect_name: Oblivion's Stance, Oblivion's Chance
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,226.1.\n  - Increases Fervor of caster by 38.7.\n  - Increases Fervor Overcap of caster by 38.7.\n  - Increases Crit Bonus of caster by 2,053.6.\n  - Prevents AOE (except when direct)\n  - Cannot be modified except by direct means\n- Applies Oblivion's Chance III when Activated.  Lasts for 20.0 seconds.\n  - Increases Fervor of caster by 87.1.\n  - Increases Fervor of group members (AE) by 29.0.\n  - Enlarges group members (AE) by 16.2%.\n  - Increases All Attributes of group members (AE) by 20.2%.\n  - Increases in-combat movement speed of group members (AE) by 35.0%.\n  - This item may not be used in a PvP zone.\n  - The reuse time of Oblivion's Chance III is 2 minutes"
 item_link: \aITEM -247558489 227780383:Cthurath's Thread of Reality\/a
 categories:
 - Assassin Equipment

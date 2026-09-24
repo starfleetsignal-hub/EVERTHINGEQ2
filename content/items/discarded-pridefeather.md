@@ -13,7 +13,8 @@ stats:
   crit: '6.9'
   critbonus: '6.1'
   potency: '10.4'
-effects: '**Vitality Shift**'
+effect_name: Vitality Shift
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Vitality Shift on target of attack.  Lasts for 1.0 second.  Triggers about 2.2 times per minute.\n    - Inflicts 3,442 - 3,804 piercing damage on target encounter.\n    - Heals group members (AE) for 3,767 - 4,164.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2058040529 -1945617331:Discarded Pridefeather\/a
 categories:
 - Assassin Equipment

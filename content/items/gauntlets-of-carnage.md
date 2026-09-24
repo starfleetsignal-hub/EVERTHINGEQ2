@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   abmod: '+26'
   dtype: Plate Armor
-effects: '**Rattle**'
+effect_name: Rattle
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Rattle on target of attack.  Triggers about 1.8 times per minute.\n    - Interrupts target\n    - Cannot be modified except by direct means"
 item_link: \aITEM 461713828 1786680857:Gauntlets of Carnage\/a
 categories:
 - Ability Modifier (Equipment)

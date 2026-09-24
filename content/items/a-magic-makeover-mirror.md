@@ -12,7 +12,7 @@ stats:
   charges: 1/1
   casting: 2.14 seconds
   recast: 4.8 seconds
-effects: Magic Makeover
+effects: "- Applies Magic Makeover when Activated. Lasts for 3.0 seconds.\n  - Gives the owner of the mirror a complete makeover of their choice."
 item_link: \aITEM -1877676680 410148599:[A Magic Makeover Mirror]\/a
 categories:
 - Assassin Equipment

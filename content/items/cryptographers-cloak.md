@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: This cloak is well made.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cryptographer's Coverings]]
 item_link: \aITEM 1393308702 -1431914255:Cryptographer's Cloak\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '60.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Scale Skin**'
+effect_name: Scale Skin
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Scale Skin on caster.  Lasts for 36.0 seconds.  Triggers about 0.4 times per minute.\n    - Wards caster against 383 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1941388071 946557999:Blackscale Shortsword\/a
 categories:
 - Assassin Equipment

@@ -21,7 +21,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Reap the Whirlwind**<br>**Toxic Tempest**'
+effect_name: Reap the Whirlwind, Toxic Tempest
+effects: "- When Equipped:\n  - Applies Reap the Whirlwind to qualifying pets.\n    - Increases Potency of caster by 10.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 490530854 -2066606296:Zessius, Tempest Rod\/a
 categories:
 - Ability Modifier (Equipment)

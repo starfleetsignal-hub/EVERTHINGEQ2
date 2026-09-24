@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   abmod: '+16'
   vsarcane: '+250'
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 obtained_from: 'Dropped by *[[Borxx]] in [[The Obelisk of Lost Souls]] *[[Trenda''loz the Caller]] in [[Vault of the Fallen Lair of Trenda''Loz]] *[[Vanudozalon the Elusive]] in [[Firemyst Gully: Vanudozalon''s Lair]]'
 item_link: \aITEM 489990367 1482332096:Band of the Shimmering Spirit\/a
 categories:

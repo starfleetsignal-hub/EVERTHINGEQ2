@@ -16,7 +16,8 @@ stats:
   abmod: '+381'
   vselemental: +1,728
   mitinc: '10.9'
-effects: '**Repugnant Cloud**'
+effect_name: Repugnant Cloud
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical spell hit this spell may cast Repugnant Cloud II on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,082 - 1,196 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Repugnant Cloud II on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,082 - 1,196 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1122060173 1170165388:Ebon Claw Crested Ring\/a
 categories:
 - Ability Modifier (Equipment)

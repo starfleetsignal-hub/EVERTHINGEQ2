@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Paralyzing Puncture**'
+effect_name: Paralyzing Puncture
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Paralyzing Puncture IX on target of attack.  Lasts for 2.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 5,441 - 6,014 heat damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 90) from [[Ancient Knowledge: Calamitous Katar of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -871142438 -1353131903:Calamitous Katar of the Mountain\/a
 categories:

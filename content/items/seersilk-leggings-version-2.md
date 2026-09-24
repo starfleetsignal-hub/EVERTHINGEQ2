@@ -17,7 +17,8 @@ stats:
   dps: '10.5'
   multi: '6.4'
   dtype: Cloth Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM -1900427868 726198604:Seersilk Leggings\/a
 categories:
 - Assassin Equipment

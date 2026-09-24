@@ -17,7 +17,8 @@ stats:
   aspeed: '36.7'
   dps: '28.1'
   multi: '20.5'
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: '- When Equipped:'
 item_link: \aITEM -213372790 -575013098:The Black Gear\/a
 categories:
 - Assassin Equipment

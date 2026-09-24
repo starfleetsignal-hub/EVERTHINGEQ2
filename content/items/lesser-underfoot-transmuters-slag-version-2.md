@@ -8,7 +8,8 @@ level: '90'
 slot: Ear
 flags: ornate no-trade
 description: This item can be transmuted for adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 item_link: \aITEM 1374237100 1905481787:Lesser Underfoot Transmuter's Slag\/a
 categories:
 - Assassin Equipment

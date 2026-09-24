@@ -18,7 +18,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1591887870 -527864692:Greathammer of the Eradicator\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   abmod: +31,884
   vselemental: +69,575
   mitinc: '18.3'
-effects: '**Ill Will**'
+effect_name: Ill Will
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - Increases Crit Bonus Overcap of caster by 10.0.\n  - This effect may be improved by sacrificing additional Grim Legacy of Ill Wills.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1386112747 1403195782:Grim Legacy of Ill Will\/a
 categories:
 - Ability Modifier (Equipment)

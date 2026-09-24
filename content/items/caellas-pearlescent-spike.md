@@ -17,7 +17,8 @@ stats:
   dps: '27.1'
   multi: '17.5'
   vselemental: +1,832
-effects: '**Crack of Doom**'
+effect_name: Crack of Doom
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Crack of Doom II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.5.\n    - Increases Ability Mod of caster by 700.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Crack of Doom II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.5.\n    - Increases Ability Mod of caster by 700.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2099605711 2104881963:Caella's Pearlescent Spike\/a
 categories:
 - Ability Modifier (Equipment)

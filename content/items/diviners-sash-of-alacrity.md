@@ -13,7 +13,8 @@ stats:
   crit: '2.5'
   critbonus: '0.8'
   potency: '3.8'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 obtained_from: Sold by [[Mirg Nel'Ron]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM -1492446095 -1175744489:Diviner's Sash of Alacrity\/a
 categories:

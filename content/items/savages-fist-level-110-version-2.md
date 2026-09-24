@@ -24,7 +24,8 @@ stats:
   drating: '218.88'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.7%.\n    - Inflicts 1,109 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: From [[A Packet of Equipment (Beastlord, 110)|A Packet of Equipment]]
 item_link: \aITEM -495392059 -1813428018:Savage's Fist\/a
 categories:

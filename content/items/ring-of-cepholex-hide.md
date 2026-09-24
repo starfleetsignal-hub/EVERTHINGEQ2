@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '13.8'
   vselemental: +29,521
-effects: '**Allied Energy**'
+effect_name: Allied Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 item_link: \aITEM 1484162741 -1378519675:Ring of Cepholex Hide\/a
 categories:
 - Ability Modifier (Equipment)

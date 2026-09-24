@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   abmod: '+129'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: '[[Hook, Line, and... Anchor?]]'
 item_link: \aITEM 348346956 -1382228415:Armband of Molten Lava\/a
 categories:

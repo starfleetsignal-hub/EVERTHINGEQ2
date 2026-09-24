@@ -15,7 +15,8 @@ stats:
   potency: '8.4'
   abmod: '+270'
   vselemental: '+558'
-effects: '**Incandescent Blast**'
+effect_name: Incandescent Blast
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Incandescent Blast on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 magic damage on target.\n    - Inflicts 331 magic damage on target every 4 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -217637303 857246753:Astral Sands Bracelet\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   mitinc: '6'
-effects: '**Kerafyrm''s Rites**'
+effect_name: Kerafyrm's Rites
+effects: "- When Equipped:\n  - Increases All Attributes of caster by 15.0%.\n  - Cannot be modified except by direct means\n- Applies Kerafyrm's Rites when Activated.  Lasts for 15.0 seconds.\n  - Increases All Attributes of group members (AE) by 10.0%.\n  - Suspends the passive effect for 15 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Rites is 1 minute"
 item_link: \aITEM 1811485520 -1336613617:Unstable Core\/a
 categories:
 - Assassin Equipment

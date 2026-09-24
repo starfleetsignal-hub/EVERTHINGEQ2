@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   multi: '10'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -1225451369 788702898:Gruengach Soul-Bargain Scroll of Terms\/a
 categories:
 - Assassin Equipment

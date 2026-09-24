@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   vselemental: '+156'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 18.2.\n    - Increases Haste of caster by 20.8.\n    - Cannot be modified except by direct means"
 obtained_from: From [[Melee Jewelry Pack (Level 62 Mastercrafted)]]
 item_link: \aITEM -710423050 1778354943:Imbued Vanadium Band of Agility\/a
 categories:

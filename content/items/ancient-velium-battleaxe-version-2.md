@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Velium Shards**'
+effect_name: Velium Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Velium Shards on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 179 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 591591143 -1371243143:Ancient Velium Battleaxe\/a
 categories:
 - Berserker Equipment

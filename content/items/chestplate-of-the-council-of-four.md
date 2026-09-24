@@ -17,7 +17,8 @@ stats:
   aspeed: '19.6'
   multi: '19.6'
   dtype: Leather Armor
-effects: '**Necromunger''s Fortitude**'
+effect_name: Necromunger's Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 2117484279 1874824510:Chestplate of the Council of Four\/a
 categories:
 - Attack Speed (Equipment)

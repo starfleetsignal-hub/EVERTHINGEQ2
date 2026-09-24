@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+6'
   sta: '+5'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 4.5.\n    - Increases Haste of caster by 10.6.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 28) from [[Jeweler Essentials Volume 28 (Normal)]] *Crafted by [[Jeweler]] (level 28) from [[Jeweler Essentials Volume 28 (no-trade)]]'
 item_link: \aITEM -235572877 34958768:Imbued Gold Band of Agility\/a
 image: images/Imbued_Gold_Band_of_Agility_(Crafted).png

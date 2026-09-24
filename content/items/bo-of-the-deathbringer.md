@@ -17,7 +17,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Crushing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1238634987 678183923:Bo of the Deathbringer\/a
 categories:
 - Beastlord Equipment

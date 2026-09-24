@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Plate Armor
-effects: '**Defensive Blademastery**'
+effect_name: Defensive Blademastery
+effects: "- When Equipped:\n  - Caster will Riposte 1.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n  - Increases Riposte Damage of caster by 50.0."
 item_link: \aITEM 363991381 294902592:Armguards of the Elite Yha-lei Shock Troops\/a
 categories:
 - Ability Modifier (Equipment)

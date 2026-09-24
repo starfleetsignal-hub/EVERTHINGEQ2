@@ -13,7 +13,8 @@ stats:
   agi: '+327'
   crit: '107.6'
   flurry: '17.3'
-effects: '**Shared Dragonsbane**<br>**Dragonsbane**'
+effect_name: Shared Dragonsbane, Dragonsbane
+effects: "- Applies Shared Dragonsbane when Activated.\n  - Protects the group from powerful Draconic abilities within Temple of Veeshan!\n- When Equipped:\n  - Protects the wearer from powerful Draconic abilities within Temple of Veeshan! This protection does not take effect for a few seconds after a resurrection."
 item_link: \aITEM 654970827 37755098:Furious Belt of the Dreadscale\/a
 aliases:
 - Furious Belt of the Dreadscale (1 Gem)

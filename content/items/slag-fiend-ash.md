@@ -17,7 +17,8 @@ stats:
   potency: 9,584.7
   resolve: '200'
   dps: '71.8'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 43.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1260438149 400375225:Slag Fiend Ash\/a
 categories:
 - Assassin Equipment

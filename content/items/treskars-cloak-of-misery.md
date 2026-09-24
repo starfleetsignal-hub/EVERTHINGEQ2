@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   abmod: '+197'
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1747759909 2082824027:Treskar's Cloak of Misery\/a
 categories:
 - Ability Modifier (Equipment)

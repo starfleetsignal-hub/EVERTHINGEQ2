@@ -17,7 +17,8 @@ stats:
   dps: '28.1'
   multi: '20.5'
   vselemental: +30,687
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 57.0."
 item_link: \aITEM 663856856 -1751913584:Charred Metal Cylinder\/a
 categories:
 - Arcane Resistance (Equipment)

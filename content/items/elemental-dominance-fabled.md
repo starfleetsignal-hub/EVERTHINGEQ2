@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Inferno**'
+effect_name: Inferno
+effects: "- When Equipped:\n  - On a hostile spell cast this spell has a 9% chance to cast Inferno on target of spell.  Lasts for 12.0 seconds.\n    - Applies Inferno.  Lasts for 12.0 seconds.\n      - Increases Crit Chance of pet by 10.0.\n    - Inflicts 367 - 551 heat damage on target.\n    - Inflicts 65 - 97 heat damage on target every 3 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Domination of Phrotis]] part of the [[Conjuror Epic Weapon Timeline]]'
 item_link: \aITEM 311599239 723977191:Elemental Dominance\/a
 categories:

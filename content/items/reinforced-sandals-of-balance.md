@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Leather Armor
-effects: '**Lord''s Stone Stance**'
+effect_name: Lord's Stone Stance
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Lord's Stone Stance on caster.  Lasts for 15.0 seconds.\n    - Will absorb physical damage. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n    - Will trigger off of slash, crush or pierce abilities.\n    - This effect can only trigger once every 20.0 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -735779189 1820226298:Reinforced Sandals of Balance\/a
 categories:
 - Ability Modifier (Equipment)

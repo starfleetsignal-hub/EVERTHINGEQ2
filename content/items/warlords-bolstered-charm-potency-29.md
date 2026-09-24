@@ -18,7 +18,8 @@ stats:
   resolve: '1'
   abmod: +1,404
   aspeed: '16.8'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 12.3.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: From [[A Packet of Level 100 Equipment (Berserker) (Version 1)|A Packet of Level 100 Equipment]]
 item_link: \aITEM 337197906 -1536571275:Warlord's Bolstered Charm\/a
 categories:

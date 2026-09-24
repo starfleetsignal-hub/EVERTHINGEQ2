@@ -17,7 +17,8 @@ stats:
   multi: '18.1'
   mitinc: '11.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1436285497 796685141:Vital Time Etched Leather Gloves\/a
 categories:
 - Assassin Equipment

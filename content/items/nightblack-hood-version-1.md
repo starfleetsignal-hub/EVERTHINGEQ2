@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM 1527786258 -516708829:Nightblack Hood\/a
 categories:
 - AE Autoattack Chance (Equipment)

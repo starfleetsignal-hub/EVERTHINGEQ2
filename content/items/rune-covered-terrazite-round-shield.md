@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   dps: '18.8'
   dtype: Round Shield
-effects: '**Stigmatic Frenzy**<br>**Unchained**'
+effect_name: Stigmatic Frenzy, Unchained
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Stigmatic Frenzy on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a hostile spell cast this spell may cast Unchained on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of group members by 300.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast Unchained on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of group members by 300.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 90340196 -341905765:Rune Covered Terrazite Round Shield\/a
 categories:
 - Ability Modifier (Equipment)

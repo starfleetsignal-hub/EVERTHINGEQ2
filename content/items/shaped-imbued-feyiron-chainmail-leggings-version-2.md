@@ -12,7 +12,8 @@ stats:
   agi: '+9'
   mit: '133'
   dtype: Chain Armor
-effects: '**Dim Sanguine Imbued**'
+effect_name: Dim Sanguine Imbued
+effects: "- Applies Dim Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Sanguine Feedback on target's attacker.\n    - Inflicts 28 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1720156312 693433575:Shaped Imbued Feyiron Chainmail Leggings\/a
 categories:
 - Assassin Equipment

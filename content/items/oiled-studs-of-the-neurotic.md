@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+11'
   vsarcane: '+48'
-effects: '**Rising Brutality**'
+effect_name: Rising Brutality
+effects: "- Applies Rising Brutality III when Activated.  Lasts for 12.0 seconds.\n  - Applies Invigorated Haste III on termination.  Lasts for 30.0 seconds.\n    - Increases Haste of caster by 40.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Damage Per Second of the caster over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Rising Brutality III is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 30) from [[Ancient Knowledge: Oiled Studs of the Neurotic]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 566648197 -959021595:Oiled Studs of the Neurotic\/a
 categories:

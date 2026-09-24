@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Strikethrough**<br>**Serene Strike**<br>**Iron Stance**'
+effect_name: Strikethrough, Serene Strike, Iron Stance
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 50.0%.\n  - Increases Block Chance of caster by 15.0%.\n- When Equipped:\n  - On a melee hit this spell may cast Serene Strike on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 510 - 948 crushing damage on target.\n    - Increases Multi Attack of caster by 15.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Reinforces leather armor's mitigation so that it rivals that of chain."
 obtained_from: '[[The Mended Hand]]'
 item_link: \aITEM -341424282 -471426680:The Restored Hand of Serenity\/a
 categories:

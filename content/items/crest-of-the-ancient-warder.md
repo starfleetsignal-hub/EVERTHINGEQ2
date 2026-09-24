@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   dps: '33.2'
   multi: '21.6'
-effects: '**Deathcall**'
+effect_name: Deathcall
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Deathcall II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 60.0.\n    - Increases Crit Bonus of caster by 13.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Deathcall II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 60.0.\n    - Increases Crit Bonus of caster by 13.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 982088480 -1618452520:Crest of the Ancient Warder\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   aspeed: '16.8'
   dps: '27.1'
   multi: '17.5'
-effects: '**Tactical Will**'
+effect_name: Tactical Will
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Tactical Will IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Increases Potency of caster by 3.0.\n    - Increases Crit Bonus of caster by 4.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Tactical Will IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Increases Potency of caster by 3.0.\n    - Increases Crit Bonus of caster by 4.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -199440150 -7030990:The Eye of Theldek\/a
 categories:
 - Assassin Equipment

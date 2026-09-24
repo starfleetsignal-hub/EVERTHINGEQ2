@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '115'
   dtype: Leather Armor
-effects: '**Fiery Feedback**'
+effect_name: Fiery Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 1% chance to cast Fiery Feedback on target's attacker.\n    - Inflicts 76 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Agelidaes]] in [[Nektulos Forest]]'
 item_link: \aITEM -1759003572 985923485:Quicksilver Wristguards\/a
 categories:

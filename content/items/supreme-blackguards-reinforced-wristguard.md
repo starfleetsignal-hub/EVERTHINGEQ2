@@ -18,7 +18,8 @@ stats:
   dps: '27.1'
   flurry: '7.5'
   dtype: Chain Armor
-effects: '**Greater Siphoning Eulogy**'
+effect_name: Greater Siphoning Eulogy
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Greater Siphoning Eulogy on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 886 - 979 piercing damage on target instantly and every 3 seconds.\n    - Heals caster for 970 - 1,072 instantly and every 3 seconds.\n    - Increases Crit Bonus of caster by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1555347776 1200102724:Supreme Blackguard's Reinforced Wristguard\/a
 categories:
 - Assassin Equipment

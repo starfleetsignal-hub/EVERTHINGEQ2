@@ -16,7 +16,8 @@ stats:
   potency: '1'
   dps: '4.2'
   dtype: Plate Armor
-effects: '**Excavator''s Dedication**'
+effect_name: Excavator's Dedication
+effects: '- Applies Excavator''s Dedication when Equipped.'
 obtained_from: '[[Tinkering with Toggery]]'
 item_link: \aITEM -2124120890 1861558292:Toggery's Tinkered Excavation Helmet\/a
 image: images/Toggery's_Tinkered_Excavation_Helmet.jpg

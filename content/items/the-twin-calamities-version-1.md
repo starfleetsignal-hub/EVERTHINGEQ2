@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: '**Calamitous Rapidity**'
+effect_name: Calamitous Rapidity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Calamity Thrash on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 348 - 425 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -745963479 1902155785:The Twin Calamities\/a
 categories:
 - Attack Speed (Equipment)

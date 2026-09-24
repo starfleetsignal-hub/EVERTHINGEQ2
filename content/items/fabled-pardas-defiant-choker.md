@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   mitinc: '6'
-effects: '**The Defiant**'
+effect_name: The Defiant
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 6.0%.\n  - Gives caster an extra 6.0% mitigation to their worn armor."
 item_link: \aITEM 1881345757 -1019228751:Fabled Pardas' Defiant Choker\/a
 categories:
 - AE Autoattack Chance (Equipment)

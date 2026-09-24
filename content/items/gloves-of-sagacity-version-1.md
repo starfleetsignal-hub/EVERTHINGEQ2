@@ -16,7 +16,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   dtype: Cloth Armor
-effects: '**Harrowing Strike**'
+effect_name: Harrowing Strike
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Harrowing Strike on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 316 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1345851207 2000036053:Gloves of Sagacity\/a
 categories:
 - Ability Modifier (Equipment)

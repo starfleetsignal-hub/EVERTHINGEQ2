@@ -7,7 +7,7 @@ level: '20'
 slot: Charm
 stats:
   charges: '5'
-effects: Vision Totem of the Owl
+effects: "- Applies **Vision Totem of the Owl** when activated. Lasts for 15 minutes.\n  - Grants 'See Invis' to the caster"
 obtained_from: Crafted by [[Woodworker]] (level 29) from [[Woodworker Essentials Volume 29]]
 item_link: -1604870469 -1976200466:Vision Totem of the Owl
 categories:

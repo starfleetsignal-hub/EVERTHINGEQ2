@@ -16,7 +16,8 @@ stats:
   potency: '11.7'
   aspeed: '25'
   dtype: Leather Armor
-effects: '**Ageless Damnation**'
+effect_name: Ageless Damnation
+effects: "- When Equipped:\n  - Increases WIS and INT of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -726508951 11792962 0 0 0:Leggings of the Blessed Koalindl\/a
 categories:
 - Ageless Damnation (Equipment)

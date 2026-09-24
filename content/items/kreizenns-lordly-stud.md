@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   vselemental: +11,880
   mitinc: '6'
-effects: '**Ancient Stamina**'
+effect_name: Ancient Stamina
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ancient Stamina IV on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 61,009 disease damage on target instantly and every second.\n    - Increases Max Health of caster by 8.5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 958938770 1087323394:Kreizenn's Lordly Stud\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '8.11'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Searing Spiral Glyph**'
+effect_name: Searing Spiral Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1702238961 -42097540:Tendonslicer\/a
 categories:
 - Assassin Equipment

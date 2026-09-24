@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +16,380
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon IV on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 162,624 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM -1696609283 -1252593654:Faceted Dragon Scales\/a
 categories:
 - Arcane Resistance (Equipment)

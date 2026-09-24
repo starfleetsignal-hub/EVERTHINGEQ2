@@ -17,7 +17,8 @@ stats:
   resolve: '515'
   multi: '35'
   vselemental: +360,945
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2082670775 1612098818:Ossuary Nexus Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

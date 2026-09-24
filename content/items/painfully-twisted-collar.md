@@ -17,7 +17,8 @@ stats:
   potency: 2,816.3
   resolve: '32'
   flurry: '38.1'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 271276686 -2033051940:Painfully Twisted Collar\/a
 categories:
 - AE Autoattack Chance (Equipment)

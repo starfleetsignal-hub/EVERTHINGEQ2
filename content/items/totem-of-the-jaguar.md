@@ -7,7 +7,7 @@ level: '30'
 slot: Charm
 stats:
   charges: '5'
-effects: Totem of the Jaguar
+effects: "- Applies **Totem of the Jaguar** when activated. Lasts for 30 minutes.\n  - grants Stealth to caster\n  - suspends movement speed enchancements\n  - dispelled when caster takes damage\n  - This effect suspends during combat\n  - Only effects targets level 30 and above"
 obtained_from: Crafted by [[Woodworker]] (level 49) from [[Woodworker Essentials Volume 49]]
 item_link: -1425023238 -1074137541:Totem of the Jaguar
 categories:

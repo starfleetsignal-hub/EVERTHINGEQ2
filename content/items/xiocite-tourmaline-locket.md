@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Speedy Recovery**'
+effect_name: Speedy Recovery
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 11.0.\n  - Increases Potency of caster by 11.0.\n  - Cures Revived Sickness received from most resurrection spells."
 obtained_from: Crafted by [[Jeweler]] (level 98) from [[Advanced Jeweler Volume 98]]
 item_link: \aITEM 547692196 -1213362601:Xiocite Tourmaline Locket\/a
 categories:

@@ -13,7 +13,7 @@ stats:
   power: '+110'
   crit: '2'
   dtype: Symbols
-effects: +35 heal amount<br>Runic Recovery I
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: -19638341 916465634:Censer of Beconing Darkness
 image: images/Censor_of_Beconing_Darkness.png
 categories:

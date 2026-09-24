@@ -17,7 +17,8 @@ stats:
   potency: 2,434.1
   resolve: '29'
   abmod: +30,647
-effects: '**Hate''s Heroism**'
+effect_name: Hate's Heroism
+effects: "- When Equipped:\n  - Increases STA of caster by 600.0.\n  - Increases Potency of caster by 25.0.\n  - This effect improves based on the number of unique boss encounters defeated in Shard of Hate [Heroic].\n  - Cannot be modified except by direct means"
 item_link: \aITEM 233292117 967988171:Belt of Short Ribs\/a
 categories:
 - Ability Doublecast (Equipment)

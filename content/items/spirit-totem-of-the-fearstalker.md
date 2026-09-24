@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Fearstalker
+effects: "- Applies **Spirit of the Fearstalker** when activated. Lasts for 30 minutes.\n  - Increases Out-of-Combat health Regeneration of caster by 265.5\n  - Only affects targets level 80 and above"
 obtained_from: Crafted by [[Woodworker]] (level 82) from [[Woodworker Essentials Volume 82]]
 categories:
 - Assassin Equipment

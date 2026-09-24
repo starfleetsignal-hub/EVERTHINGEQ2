@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +11,088
-effects: '**Spectral Domination**'
+effect_name: Spectral Domination
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Spectral Domination on target of attack.  Lasts for 18.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 450,000 mental damage on target.\n    - Increases Potency of caster by 7.5.\n    - Increases Crit Bonus of caster by 7.5.\n    - Increases Mitigation of caster vs arcane damage by 2,000.\n    - Increases Ability Mod of caster by 1,250.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1087589465 787559506:Lorokai's Hidden Phylactery\/a
 categories:
 - Ability Modifier (Equipment)

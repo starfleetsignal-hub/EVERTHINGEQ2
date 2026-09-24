@@ -12,7 +12,8 @@ stats:
   sta: '+12'
   mit: '103'
   dtype: Leather Armor
-effects: '**Lightning Reflexes**'
+effect_name: Lightning Reflexes
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Lightning Reflexes on caster.  Lasts for 5.0 seconds.\n    - Increases DPS of caster by 19.7.\n    - Increases Parry of caster by 20.8.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2017719001 684899721:Mitts of Waging War\/a
 categories:
 - Assassin Equipment

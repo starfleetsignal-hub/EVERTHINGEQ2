@@ -16,7 +16,8 @@ stats:
   abmod: '+843'
   dps: '29'
   vselemental: +35,154
-effects: '**Amplifying Combination**'
+effect_name: Amplifying Combination
+effects: "- When Equipped:\n  - The values increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value.\n  - Increases Crit Bonus by 16.2%-76%, Potency 30%-76%, Weapon Damage Bonus  by 10.8%-40.2% and Stamina by 108-430."
 item_link: \aITEM -352838268 122446284:Ashenfell Amplifying Ring\/a
 categories:
 - Ability Modifier (Equipment)

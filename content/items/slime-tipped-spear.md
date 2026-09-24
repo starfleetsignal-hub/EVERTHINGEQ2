@@ -16,7 +16,8 @@ stats:
   drating: '8.11'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Bane Gust Glyph**'
+effect_name: Bane Gust Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 474924981 -1953039658:Slime Tipped Spear\/a
 categories:
 - Assassin Equipment

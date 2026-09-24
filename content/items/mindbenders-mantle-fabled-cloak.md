@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '6'
-effects: '**Channel Mastery**<br>**All for One**'
+effect_name: Channel Mastery, All for One
+effects: "- When Equipped:\n  - Channel will increase the groups potency by 25% of their current potency.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -862009269 300087768:Mindbender's Mantle\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -16,7 +16,8 @@ stats:
   abmod: '+191'
   aspeed: '9.3'
   vsarcane: +1,256
-effects: '**Back into the Fray**'
+effect_name: Back into the Fray
+effects: "- Applies Back into the Fray when Activated.\n  - Dispels 100 levels of hostile Fear, hostile Mesmerize, hostile Daze, hostile Prevent Changing Target, hostile Root, hostile Stifle and hostile Stun effects on caster\n  - Must have Discord's Runed Victim's Skull equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Back into the Fray is 6 minutes"
 item_link: \aITEM -1605368953 -160775127:Discord's Runed Victim's Skull\/a
 categories:
 - Ability Modifier (Equipment)

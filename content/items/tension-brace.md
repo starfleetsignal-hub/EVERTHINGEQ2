@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +27,352
-effects: '**Impartial Engagement**'
+effect_name: Impartial Engagement
+effects: "- Applies Impartial Engagement when Activated.  Lasts for 8.0 seconds.\n  - Reduces all damage done to caster by 50%.\n  - Suspends the passive effect for 8 seconds.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Impartial Engagement is 0.5 seconds and the reuse time of the spell is 10 minutes\n- When Equipped:\n  - Increases Crit Bonus of caster by 130.0."
 item_link: \aITEM 746100796 -257044055:Tension Brace\/a
 categories:
 - Arcane Resistance (Equipment)

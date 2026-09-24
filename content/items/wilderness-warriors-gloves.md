@@ -19,7 +19,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Leather Armor
-effects: '**Sorcerous Alacrity**<br>**Haste**'
+effect_name: Sorcerous Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 3%.\n- When Equipped:\n  - Increases Attack Speed of caster by 38."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume II]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 categories:
 - Ability Modifier (Equipment)

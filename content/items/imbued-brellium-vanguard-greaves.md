@@ -17,7 +17,8 @@ stats:
   dps: '14.1'
   mitinc: '5.5'
   dtype: Plate Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 214 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 87) from [[Advanced Armorer Volume 87 (Heirloom)]] *Crafted by [[Armorer]] (level 87) from [[Advanced Armorer Volume 87 (Normal)]] *From [[Vanguard Plate Armor Pack (Level 82 Mastercrafted) (Version 1)|Vanguard Plate Armor Pack (Level 82 Mastercrafted)]] *From [[Vanguard Plate Armor Pack (Level 82 Mastercrafted) (Version 2)|Vanguard Plate Armor Pack (Level 82 Mastercrafted)]]'
 item_link: \aITEM 1480344824 -2110788940:Imbued Brellium Vanguard Greaves\/a
 categories:

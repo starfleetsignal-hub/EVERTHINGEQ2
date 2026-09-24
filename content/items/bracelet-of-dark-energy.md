@@ -16,7 +16,8 @@ stats:
   abmod: '+89'
   dps: '9.7'
   vselemental: '+360'
-effects: '**Arcane Energy Barrier**'
+effect_name: Arcane Energy Barrier
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Energy Barrier on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes caster immune to Mesmerize effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 255905934 -16057800:Bracelet of Dark Energy\/a
 categories:
 - Ability Modifier (Equipment)

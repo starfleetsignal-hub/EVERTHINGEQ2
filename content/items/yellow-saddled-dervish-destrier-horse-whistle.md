@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Dervish Destrier
+effects: "- Applies Call Dervish Destrier when Activated.  Lasts for 1 day.\n  - Summons a mount to ride that increase your speed by 40%\n  - Increases Focus, Crushing, Piercing and Slashing of caster by 4.8"
 obtained_from: Sold by [[Bursar Hulna]] (Court Treasures) in [[The Court of the Coin]] for 14p 40g 1c
 item_link: \aITEM -300678236 1179742924:yellow-saddled Dervish Destrier horse whistle\/a
 categories:

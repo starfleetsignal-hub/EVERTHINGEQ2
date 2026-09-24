@@ -17,7 +17,8 @@ stats:
   multi: '18.6'
   mitinc: '11.9'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1969108369 -546707404:Storm Dragonhide Hand Wraps\/a
 categories:
 - Assassin Equipment

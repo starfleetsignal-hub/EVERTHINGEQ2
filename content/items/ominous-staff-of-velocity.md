@@ -20,7 +20,8 @@ stats:
   drating: '123.42'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Vortex**'
+effect_name: Arcane Vortex
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Vortex VIII on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 355 - 392 cold damage on targets in Area of Effect instantly and every 2 seconds.\n    - Increases power of group members (AE) by 45 - 50 instantly and every 2 seconds.\n    - Increases Potency of group members (AE) by 4.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 80) from [[Ancient Knowledge: Ominous Staff of Velocity]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 757611518 1640064846:Ominous Staff of Velocity\/a
 categories:

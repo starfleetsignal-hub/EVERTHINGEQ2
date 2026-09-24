@@ -19,7 +19,8 @@ stats:
   drating: '132'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 256594866 -1385103104:Vendor's Staff of Bargains\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   aspeed: '5.4'
   multi: '6.2'
   dtype: Chain Armor
-effects: '**Water-piercing Pitch**'
+effect_name: Water-piercing Pitch
+effects: "- When Equipped:\n  - Increases radius of beneficial songs by 5m."
 item_link: \aITEM 1045539433 892350235:Sonorous Scalemail of the Whale\/a
 categories:
 - Assassin Equipment

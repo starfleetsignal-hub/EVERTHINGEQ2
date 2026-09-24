@@ -19,7 +19,8 @@ stats:
   resolve: '48'
   dps: '99.9'
   dtype: Tower Shield
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 8.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1556786549 230404957:Lesser Barrier of Devotion\/a
 categories:
 - Berserker Equipment

@@ -6,7 +6,8 @@ icon: images/Item_618.png
 tier: Treasured
 slot: Charm
 flags: ornate no-trade no-value
-effects: '**Glomalin Channel**'
+effect_name: Glomalin Channel
+effects: "- Applies Glomalin Channel when Equipped.\n  - While equipped, this divining rod blurs your vision and seems to pull you toward large concentrations of glomalin!"
 obtained_from: 'Quest: [[An Organic Matter of Fact]]'
 item_link: \aITEM -1888162121 1786982488:Glomalin Divining Rod\/a
 image: images/Glomalin_Divining_Rod.png

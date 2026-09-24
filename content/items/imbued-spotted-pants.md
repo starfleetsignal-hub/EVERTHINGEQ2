@@ -17,7 +17,8 @@ stats:
   dps: '14.1'
   mitinc: '5.5'
   dtype: Leather Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 214 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Heirloom)]] *Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Normal)]]'
 item_link: \aITEM -1428832830 -805813484:Imbued Spotted Pants\/a
 categories:

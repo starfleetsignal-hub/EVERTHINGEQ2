@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '69'
   dtype: Leather Armor
-effects: '**Cry of Agony**'
+effect_name: Cry of Agony
+effects: "- Applies Cry of Agony when Activated.\n  - Inflicts 15 - 46 mental damage on targets in Area of Effect.\n  - The casting time of Cry of Agony is 1.0 second and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 1160152531 927549527:Gloves of Agony\/a
 categories:
 - Assassin Equipment

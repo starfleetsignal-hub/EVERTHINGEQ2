@@ -17,7 +17,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -360746264 1870156451:Force of Chaos\/a
 categories:
 - Beastlord Equipment

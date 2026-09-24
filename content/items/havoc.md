@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Piercing
   wtype: Sword
-effects: '**Havoc''s Fury**'
+effect_name: Havoc's Fury
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Havoc's Fury on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 346 - 518 piercing damage on target.\n    - Increases Multi Attack of caster by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Heart of Treachery]]'
 item_link: \aITEM 923845910 -1268328348:Havoc\/a
 categories:

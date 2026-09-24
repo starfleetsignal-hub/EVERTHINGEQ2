@@ -24,7 +24,8 @@ stats:
   drating: '251.9'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.2%.\n    - Inflicts 1,366 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -629114443 112656088:Expert's Ashiirian Dagger\/a
 categories:
 - AE Autoattack Chance (Equipment)

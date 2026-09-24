@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   sta: '+10'
   int: '+11'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 10.3.\n    - Increases Disruption, Subjugation and Focus of caster by 6.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1258043403 1073600581:Shaped Imbued Bloodstone Ring of Intelligence\/a
 categories:
 - Assassin Equipment

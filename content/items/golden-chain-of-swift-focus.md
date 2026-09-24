@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   multi: '31.2'
-effects: '**Singular Focus**'
+effect_name: Singular Focus
+effects: "- When Equipped:\n  - Increases Potency of caster by 12.0.\n  - Increases Crit Bonus of caster by 12.0.\n  - Increases range and radius of all spells by 7%."
 item_link: \aITEM -1374946842 -1172982651:Golden Chain of Swift Focus\/a
 image: images/Golden_Chain_of_Swift_Focus.png
 categories:

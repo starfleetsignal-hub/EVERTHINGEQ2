@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Chain Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 90) from [[Ancient Knowledge: Reverent Coat of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -324386686 -2017144268:Reverent Coat of Revelations\/a
 categories:

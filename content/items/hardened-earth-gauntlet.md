@@ -18,7 +18,8 @@ stats:
   abmod: '+217'
   mitinc: '7.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 931020285 1880697119 0 0 0:Hardened Earth Gauntlet\/a
 categories:
 - Ability Modifier (Equipment)

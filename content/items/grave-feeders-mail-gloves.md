@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Sold by [[Scion of Baast]] (Battlegrounds Merchant) in [[Cities]]
 item_link: \aITEM -53212522 132374308:Grave Feeders Mail Gloves\/a
 categories:

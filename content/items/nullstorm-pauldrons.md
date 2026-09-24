@@ -18,7 +18,8 @@ stats:
   abmod: +3502,088
   cbovercap: '+1326'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Spiraling Out of Control]]'
 item_link: \aITEM -1751867074 193699363:Nullstorm Pauldrons\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   dtype: Cloth Armor
-effects: '**Invader''s Effort**'
+effect_name: Invader's Effort
+effects: "- When Equipped:\n  - Increases Potency of caster by 13,935.6.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 257626969 443129898:Tha'Bael's Shawl of the Invader\/a
 categories:
 - Census Credits

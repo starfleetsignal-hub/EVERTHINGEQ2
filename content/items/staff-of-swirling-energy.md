@@ -20,7 +20,8 @@ stats:
   drating: '195.92'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Precise Blame**'
+effect_name: Precise Blame
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 6%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 191517278 1117920230 0 0 0:Staff of Swirling Energy\/a
 categories:
 - Ability Modifier (Equipment)

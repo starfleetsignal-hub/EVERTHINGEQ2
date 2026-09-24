@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Discreet Employer**'
+effect_name: Discreet Employer
+effects: "- When Equipped:\n  - The wearer's mercenary will taunt all enemies that hate the wearer and have its hate generation doubled.\n  - Increases Potency of caster by 8.0.\n  - Increases Crit Bonus of caster by 8.0."
 item_link: \aITEM 356448983 623250009:Soldier's Fortune\/a
 categories:
 - Assassin Equipment

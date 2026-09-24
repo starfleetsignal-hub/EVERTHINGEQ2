@@ -8,7 +8,8 @@ flags: ornate no-trade no-value
 description: A sentient blizzard grizzly bear pelt!
 stats:
   dtype: Cloth Armor
-effects: '**Griz**'
+effect_name: Griz
+effects: '- Applies Griz when Equipped.'
 used_in_quest: '[[Sometimes You Feel Like a Knut]]'
 item_link: \aITEM 2092161907 -1948076907:Griz\/a
 categories:

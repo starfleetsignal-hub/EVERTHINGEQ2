@@ -13,7 +13,8 @@ stats:
   critbonus: '15'
   potency: '15'
   vselemental: +9,900
-effects: '**Frenzied Pace**'
+effect_name: Frenzied Pace
+effects: "- When Equipped:\n  - Whenever the group strikes a deathblow, the wearer will gain 250 STR, AGI, WIS and INT for 24 seconds. Increments up to 10 times.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 571797366 1819373618:Fractured Sliver of Veeshan's Tear\/a
 categories:
 - Arcane Resistance (Equipment)

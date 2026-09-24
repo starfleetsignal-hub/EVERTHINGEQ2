@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Mistmoore Sage''s Absorption**'
+effect_name: Mistmoore Sage's Absorption
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Mistmoore Sage's Absorption on target of spell.  Triggers about 1.0 times per minute.\n    - Decreases power of target by 206.\n    - Increases power of caster by 205.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -345604460 400867073:V'Ncenzi's Voluminous Cape\/a
 categories:
 - Ability Modifier (Equipment)

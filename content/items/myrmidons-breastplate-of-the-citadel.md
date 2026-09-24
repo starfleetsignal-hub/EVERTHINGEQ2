@@ -18,7 +18,8 @@ stats:
   potency: '8.8'
   dps: '22.6'
   dtype: Plate Armor
-effects: '**Pestilential Rain**<br>**Serrated Subterfuge**'
+effect_name: Pestilential Rain, Serrated Subterfuge
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Serrated Subterfuge on caster.  Lasts for 8.0 seconds.  Triggers about 2.2 times per minute.\n    - When damaged this spell will cast Serrated Subterfuge on target's attacker.\n      - Inflicts 2,676 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Queen Vorticia V'uul]] in [[Citadel of V'uul]]
 item_link: \aITEM 435002923 1743827087:Myrmidon's Breastplate of the Citadel\/a
 categories:

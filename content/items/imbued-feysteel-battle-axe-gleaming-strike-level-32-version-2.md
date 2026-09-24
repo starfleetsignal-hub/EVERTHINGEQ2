@@ -15,7 +15,8 @@ stats:
   drating: '24.95'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 109 - 203 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1612732505 2032267545:Imbued Feysteel Battle Axe\/a
 aliases:
 - Imbued Feysteel Battle Axe (Gleaming Strike) (Level 30)

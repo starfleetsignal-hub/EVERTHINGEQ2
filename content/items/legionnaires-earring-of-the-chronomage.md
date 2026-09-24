@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Chronomage**'
+effect_name: Chronomage
+effects: "- When Equipped:\n  - When Time Warp wears off, the wearer will gain 20% potency for 15 seconds"
 item_link: \aITEM 1251632867 895026775:Legionnaires' Earring of the Chronomage\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Pox Strike**'
+effect_name: Pox Strike
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Pox Strike on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 177 disease damage on target instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1632957127 115987069:Infirmity\/a
 categories:
 - Assassin Equipment

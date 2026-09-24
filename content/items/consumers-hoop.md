@@ -17,7 +17,8 @@ stats:
   dps: '27'
   multi: '19.4'
   vselemental: +28,613
-effects: '**Countermoves**'
+effect_name: Countermoves
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Countermoves on the raid.  Lasts for 5.0 seconds.  Triggers about 0.6 times per minute.\n    - Increases Potency of raid and group members (AE) by 16.0.\n    - Cannot be modified except by direct means\n  - When any damage is received this spell will cast Countermoves on the raid.  Lasts for 5.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency of raid and group members (AE) by 16.0.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 337483958 887741884:Consumer's Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -24,7 +24,8 @@ stats:
   drating: '267.44'
   dtype: Off Hand Piercing
   wtype: Dagger
-effects: '**Curuvar''Renda**'
+effect_name: Curuvar'Renda
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curuvar'Renda on target of attack.  Triggers about 3.0 times per minute.\n    - Applies Curuvar'Renda.  Lasts for 6.0 seconds.\n      - Increases Fervor of target by 5.0.\n    - Inflicts 6,676 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1879985330 33311980:Ascendent Dagger of Vylardin\/a
 categories:
 - Ability Modifier (Equipment)

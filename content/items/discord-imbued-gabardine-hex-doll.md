@@ -15,7 +15,8 @@ stats:
   potency: '6'
   dps: '14.1'
   multi: '8.9'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 74.4.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Heirloom)]] *Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Normal)]]'
 item_link: \aITEM 1190737096 -938989584 0 0 0:discord imbued gabardine hex doll\/a
 categories:

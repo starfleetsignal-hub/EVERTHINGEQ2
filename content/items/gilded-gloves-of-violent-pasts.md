@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   mitinc: '10.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1799300206 -586274557:Gilded Gloves of Violent Pasts\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   vsnoxious: '+356'
   dtype: Kite Shield
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 10.0%."
 obtained_from: 'Collection reward: [[Relics of the Goblin Hero]]'
 item_link: \aITEM -860057809 1175213388:Marrowgut's Blocker\/a
 categories:

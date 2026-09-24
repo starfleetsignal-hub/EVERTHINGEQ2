@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Lesser Footwound**'
+effect_name: Lesser Footwound
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Footwound on target of attack.  Lasts for 4.0 seconds.  Triggers about 1.6 times per minute.\n    - Slows target by 30.0%.\n    - Only affects targets level 103 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Even Sadder Tale of Rhodoqiz Karazz]]'
 item_link: \aITEM 1984502197 -2089020797:Intricate Brocade Sash\/a
 categories:

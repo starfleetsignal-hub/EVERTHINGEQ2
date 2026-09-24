@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   abmod: '+568'
   vselemental: +2,079
-effects: '**Vitriolic Animus**'
+effect_name: Vitriolic Animus
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Vitriolic Animus I on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,926 - 3,234 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1281144109 1089222101:Bone Spike of Discernment\/a
 categories:
 - Ability Modifier (Equipment)

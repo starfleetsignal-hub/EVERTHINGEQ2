@@ -16,7 +16,8 @@ stats:
   aspeed: '7'
   dps: '12.6'
   vselemental: '+840'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 271965728 1071667370:Ghostly Bangle of the Loyalist\/a
 categories:
 - Arcane Recovery (Equipment)

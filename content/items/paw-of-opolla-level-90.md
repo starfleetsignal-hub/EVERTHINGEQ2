@@ -14,7 +14,8 @@ stats:
   critbonus: '1'
   potency: '4.9'
   abmod: '+121'
-effects: '**Curse of Opolla**'
+effect_name: Curse of Opolla
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 5% chance to cast Curse of Opolla on caster.\n    - Drains 5% of your group's health and grants a portion of that health back to the wearer!\n    - Cannot be modified except by direct means"
 item_link: \aITEM -28159939 1593363484:Paw of Opolla\/a
 categories:
 - Ability Modifier (Equipment)

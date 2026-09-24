@@ -16,7 +16,8 @@ stats:
   multi: '36.8'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1718735732 -1739590795:Brutalizer's Imperial Gauntlets\/a
 categories:
 - Berserker Equipment

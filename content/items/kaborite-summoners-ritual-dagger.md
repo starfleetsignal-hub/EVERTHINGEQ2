@@ -20,7 +20,8 @@ stats:
   drating: '120.04'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2127175401 678677495:Kaborite Summoner's Ritual Dagger\/a
 categories:
 - Assassin Equipment

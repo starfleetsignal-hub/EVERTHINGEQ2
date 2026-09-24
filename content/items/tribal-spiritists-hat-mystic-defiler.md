@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Chain Armor
-effects: '**Cannibalism**'
+effect_name: Cannibalism
+effects: "- Applies Cannibalism when Activated.\n  - Inflicts 4.0% of caster's max health in magic damage on caster.\n    - This effect cannot be critically applied.\n  - Increases power of caster by 194.\n  - The reuse time of Cannibalism is 30.0 seconds"
 item_link: \aITEM -1479845478 -294818374:Tribal Spiritist's Hat\/a
 categories:
 - Attack Speed (Equipment)

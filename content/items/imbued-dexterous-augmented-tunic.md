@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   dtype: Leather Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 41 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 49) from [[Advanced Tailor Volume 49 (Normal)]] *Crafted by [[Tailor]] (level 49) from [[Advanced Tailor Volume 49 (no-trade)]] *From [[Dexterous Leather Armor Pack (Level 42 Mastercrafted) (Version 1)|Dexterous Leather Armor Pack (Level 42 Mastercrafted)]] *From [[Dexterous Leather Armor Pack (Level 42 Mastercrafted) (Version 2)|Dexterous Leather Armor Pack (Level 42 Mastercrafted)]]'
 item_link: \aITEM -2057172724 858223033:Imbued Dexterous Augmented Tunic\/a
 categories:

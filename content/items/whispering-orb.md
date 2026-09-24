@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Whispers from Beyond**'
+effect_name: Whispers from Beyond
+effects: "- Applies Whispers from Beyond II when Activated.  Lasts for 12.0 seconds.\n  - Increases the potency and crit bonus of the group's heals and wards by 70%.\n  - Cannot be modified except by direct means\n  - The reuse time of Whispers from Beyond II is 1 minute 10 seconds"
 item_link: \aITEM -1424285222 1383476576:Whispering Orb\/a
 categories:
 - AE Autoattack Chance (Equipment)

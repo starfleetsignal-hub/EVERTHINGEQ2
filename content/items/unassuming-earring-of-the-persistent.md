@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +15,652
-effects: '**Unassuming Visage**'
+effect_name: Unassuming Visage
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Unassuming Visage on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 30.0 seconds."
 item_link: \aITEM 556853563 -1302043178:Unassuming Earring of the Persistent\/a
 categories:
 - Arcane Resistance (Equipment)

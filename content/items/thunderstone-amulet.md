@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+14'
   sta: '+14'
-effects: '**Arcane Feedback**'
+effect_name: Arcane Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Arcane Feedback on target's attacker.\n    - Inflicts 103 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1434938486 -121759439:Thunderstone Amulet\/a
 categories:
 - Arcane Feedback (Equipment)

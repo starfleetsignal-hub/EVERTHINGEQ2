@@ -10,7 +10,8 @@ flags: lore no-trade no-value
 stats:
   mit: '133'
   dtype: Cloth Armor
-effects: '**Feet of Furious Fastness**'
+effect_name: Feet of Furious Fastness
+effects: "- Applies Feet of Furious Fastness when Equipped.\n  - Increases speed of caster by 70.0%."
 obtained_from: Reward from the quest, [Becoming a Guide](https://guide.everquest.com/guideapp/faq.php).
 item_link: \aITEM -1987057950 1397681527:Guide's Shoes\/a
 categories:

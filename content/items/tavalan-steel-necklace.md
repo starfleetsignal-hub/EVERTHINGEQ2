@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   multi: '17.5'
-effects: '**Assay**'
+effect_name: Assay
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 7%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1674844403 -900949949:Tavalan Steel Necklace\/a
 categories:
 - Assay (Equipment)

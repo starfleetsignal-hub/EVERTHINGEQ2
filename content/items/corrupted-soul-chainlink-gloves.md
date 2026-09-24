@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '14.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[In Search of Satyr]]'
 item_link: \aITEM -1632481072 1042895518:Corrupted Soul Chainlink Gloves\/a
 categories:

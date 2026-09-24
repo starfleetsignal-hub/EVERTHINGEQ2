@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dps: '2.2'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 13.5.\n    - Increases Disruption, Subjugation and Focus of caster by 7.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2098202801 1663895786:imbued nacre ring of intelligence\/a
 categories:
 - Assassin Equipment

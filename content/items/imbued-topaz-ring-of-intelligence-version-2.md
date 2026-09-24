@@ -12,7 +12,8 @@ stats:
   int: '+21'
   crit: '0.2'
   potency: '0.7'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 16.0.\n    - Increases Disruption, Subjugation and Focus of caster by 9.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 652602773 -347868875:imbued topaz ring of intelligence\/a
 image: images/Imbued_topaz_ring_of_intelligence.jpg
 categories:

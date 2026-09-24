@@ -19,7 +19,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Primal Rumination**'
+effect_name: Primal Rumination
+effects: "- Applies Primal Rumination when Activated.  Lasts for 12.5 seconds.\n  - Increases Potency of caster by 12.5.\n  - On a healing spell cast this spell will cast Primal Rumination on target of spell cast.\n    - Dispels 120 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - The reuse time of Primal Rumination is 6 minutes"
 item_link: \aITEM 707291735 1902079487:Velium Mace of Primal Rumination\/a
 categories:
 - Casting Speed (Equipment)

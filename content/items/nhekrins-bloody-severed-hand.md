@@ -17,7 +17,8 @@ stats:
   potency: 7,235.1
   resolve: '190'
   abmod: +50,749
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 36.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -306877208 -1416431065:Nhekrin's Bloody Severed Hand\/a
 categories:
 - AE Autoattack Chance (Equipment)

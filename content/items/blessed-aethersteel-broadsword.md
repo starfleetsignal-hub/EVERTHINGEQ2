@@ -21,7 +21,7 @@ stats:
   drating: '533.9'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack. Lasts for 10.0 seconds. Triggers about 3.0 times per minute.\n    - Inflicts 12,402 crushing damage on target\n    - Increases Crit Bonus of caster by 34.5%\n    - Increases Potency of caster by 54.0%\n    - Cannot be modified except by direct means."
 obtained_from: '[[All the Flight Moves]]'
 item_link: \aITEM 2127419424 -1706338077 0 0 0:[Blessed Aethersteel Broadsword]\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   dtype: Chain Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 954552296 1997090628:Feral Coif of Rings\/a
 categories:
 - Attack Speed (Equipment)

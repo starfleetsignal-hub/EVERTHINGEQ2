@@ -16,7 +16,8 @@ stats:
   dps: '28.1'
   vselemental: +30,687
   mitinc: '7.4'
-effects: '**Prismatic Reaction**'
+effect_name: Prismatic Reaction
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1847324081 -1647701516:Ring of the Tepid Destroyer\/a
 categories:
 - Arcane Resistance (Equipment)

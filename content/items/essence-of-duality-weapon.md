@@ -21,7 +21,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Ethereal Conduit**'
+effect_name: Ethereal Conduit
+effects: "- When Equipped:\n  - On a hostile spell hit, Ethereal Conduit has a chance to reset the reuse of most damaging spells."
 item_link: \aITEM 1650284571 205296518:Essence of Duality\/a
 categories:
 - Ability Modifier (Equipment)

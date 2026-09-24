@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Venomous Zephyr Glyph**'
+effect_name: Venomous Zephyr Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 100 - 122 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1335245759 -1691837372:Ancient Combine Stiletto\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '11.2'
   aspeed: '18.4'
   dtype: Tower Shield
-effects: '**Braced for Impact**<br>**Insurmountable**'
+effect_name: Braced for Impact, Insurmountable
+effects: "- Applies Braced for Impact when Activated.  Lasts for 36.0 seconds.\n  - Increases Max Health of caster by 8.0%.\n  - Increases All Attributes of caster by 12.0%.\n  - The reuse time of Braced for Impact is 6 minutes\n- When Equipped:\n  - On a block this spell has a 10% chance to cast Insurmountable on target's victim.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,398 - 1,545 crushing damage on target.\n    - Increases Hate Gain of caster by 12.0.\n    - Increases Block Chance of caster by 20.0%.\n    - Enlarges caster by 20.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 892072708 1559642214:Rampart of Universal Conflict\/a
 categories:
 - Attack Speed (Equipment)

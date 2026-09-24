@@ -17,7 +17,7 @@ stats:
   vsarcane: '+245'
   vsnoxious: '+350'
   dtype: Plate Armor
-effects: Divine Affirmation
+effects: "- When Equipped:\n  - On a successful spell attack this spell has a chance to cast Divine Affirmation on target of spell.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts # divine damage on target"
 item_link: 97799057 1851335045:Helm of the Defiant
 categories:
 - Arcane Resistance (Equipment)

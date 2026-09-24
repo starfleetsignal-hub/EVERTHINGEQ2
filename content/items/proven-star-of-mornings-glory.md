@@ -20,7 +20,8 @@ stats:
   drating: '74.2'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Dawnfire**<br>**Haste**'
+effect_name: Dawnfire, Haste
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Dawnfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 344 heat damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 1394065692 -887334181:Proven Star of Morning's Glory\/a
 categories:
 - Beastlord Equipment

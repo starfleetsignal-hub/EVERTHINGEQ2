@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 701082496 1332197982 0 0 0:Coercive Gloves of Twisted Thoughts\/a
 categories:
 - Arcane Recovery (Equipment)

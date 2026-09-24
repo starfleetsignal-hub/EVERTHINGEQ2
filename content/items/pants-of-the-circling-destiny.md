@@ -17,7 +17,8 @@ stats:
   potency: '5.4'
   multi: '8.2'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: '[[Stalking the Stalkers]]'
 item_link: \aITEM -2146185168 -785574462:Pants of the Circling Destiny\/a
 categories:

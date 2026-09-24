@@ -18,7 +18,8 @@ stats:
   multi: '15.6'
   flurry: '6.7'
   vsarcane: +1,645
-effects: '**Cyclical Battering**'
+effect_name: Cyclical Battering
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 9.0.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2120857353 1168477918 0 0 0:Stalwart Warhoop of the Gindan Deathsquad\/a
 categories:
 - Arcane Resistance (Equipment)

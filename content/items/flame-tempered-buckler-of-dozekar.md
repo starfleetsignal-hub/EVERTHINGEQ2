@@ -17,7 +17,8 @@ stats:
   aspeed: '15.7'
   dps: '25.5'
   dtype: Round Shield
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 10.0.\n  - Increases Max Health of caster by 1,444.4.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 41393847 1982414064:Flame-Tempered Buckler of Dozekar\/a
 categories:
 - Assassin Equipment

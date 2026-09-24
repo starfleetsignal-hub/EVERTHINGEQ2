@@ -16,7 +16,7 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Cloth Armor
-effects: Greater Concussive Shock
+effects: '- When Equipped:'
 categories:
 - Arcane Resistance (Equipment)
 - Cloth Armor (Equipment Type)

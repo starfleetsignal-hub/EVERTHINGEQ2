@@ -14,7 +14,8 @@ stats:
   crit: '1.9'
   critbonus: '0.6'
   potency: '2.7'
-effects: '**Grasp of the Discordian Lords**'
+effect_name: Grasp of the Discordian Lords
+effects: "- Applies Grasp of the Discordian Lords when Activated.  Lasts for 12.0 seconds.\n  - Prevents target from changing targets\n  - Cannot be modified except by direct means\n  - The casting time of Grasp of the Discordian Lords is 0.2 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM -735557681 -1488290014:Sky Slayer's Girdle\/a
 categories:
 - Assassin Equipment

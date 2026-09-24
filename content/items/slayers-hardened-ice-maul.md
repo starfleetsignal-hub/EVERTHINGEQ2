@@ -19,7 +19,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lethargy on target of attack.  Lasts for 1 minute 12 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 10.5 - 17.5.\n    - Only affects targets level 60 and below\n    - Cannot be modified except by direct means"
 item_link: \aITEM -528571187 -240075987:Slayer's Hardened Ice Maul\/a
 categories:
 - Beastlord Equipment

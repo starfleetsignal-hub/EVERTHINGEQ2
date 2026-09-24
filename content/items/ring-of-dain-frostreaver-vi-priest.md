@@ -15,7 +15,9 @@ stats:
   critbonus: '6.5'
   potency: '10.8'
   vselemental: '+611'
-effects: '**Frostweaver''s Blessing**'
+effect_name: Frostweaver's Blessing
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell has a 8% chance to cast Brell's Breath X on caster.  Lasts for 10.0 seconds.\n    - Heals caster for 802 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell has a 8% chance to cast Brell's Breath X on caster.  Lasts for 10.0 seconds.\n    - Heals caster for 802 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical healing spell cast this spell has a 8% chance to cast Brell's Blessing X on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 6.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell has a 8% chance to cast Brell's Blessing X on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 6.0.\n   \
+  \ - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell has a 8% chance to cast Brell's Breath X on caster.  Lasts for 10.0 seconds.\n    - Heals caster for 802 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell has a 8% chance to cast Brell's Blessing X on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 6.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged with a melee weapon this spell will cast Brell's Retribution X on target's attacker.\n    - Inflicts 73 piercing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Ring of Dain Frostreaver VI]]'
 item_link: \aITEM -34825227 -125705899:Ring of Dain Frostreaver VI\/a
 aliases:

@@ -16,7 +16,8 @@ stats:
   aspeed: '36.2'
   multi: '42.2'
   vselemental: +9,950
-effects: '**Mythical Carpet of the Djinn Master**<br>**Sky Blue Aura**'
+effect_name: Mythical Carpet of the Djinn Master, Sky Blue Aura
+effects: "- Applies Mythical Carpet of the Djinn Master when Activated.\n  - Increases Max Health of caster by 2,000.0.\n  - Increases Max Power of caster by 2,000.0.\n  - Increases Crit Bonus of caster by 13.0.\n  - Increases Potency of caster by 13.0.\n  - Increases Crit Chance of caster by 75.0.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%\n  - Cannot be modified except by direct means\n  - The casting time of Mythical Carpet of the Djinn Master is 1.0 second\n- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 1,000.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2143240734 -178932652:Mythical Djinn Bracelet of the Sky\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '583.1'
   resolve: '7'
   abmod: +17,421
-effects: '**Aspect of Eternity**'
+effect_name: Aspect of Eternity
+effects: "- Applies Aspect of Eternity when Equipped.\n  - Increases Fervor of caster by 10.0."
 obtained_from: 'Collection reward: [[Ancient Nizari Spells]]'
 item_link: \aITEM -319578529 -271619679:Mistress Zhvari's Sash of Station\/a
 categories:

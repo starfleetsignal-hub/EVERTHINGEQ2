@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Chilling Brimstone**'
+effect_name: Chilling Brimstone
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 11.2.\n  - On a combat hit this spell may cast Chilling Darkness on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 67 - 125 cold damage on target.\n    - Heals caster for 54 - 66.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 821751173 1407341178:Grim Brimstone Hammer\/a
 categories:
 - Ability Modifier (Equipment)

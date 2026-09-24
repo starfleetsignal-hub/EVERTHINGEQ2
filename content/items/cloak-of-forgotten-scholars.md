@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   aspeed: '7.4'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Hunting for a Headstone]]'
 item_link: \aITEM 425859704 850259802:Cloak of Forgotten Scholars\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Plate Armor
-effects: '**Provoke**'
+effect_name: Provoke
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Provoke on target's attacker.\n    - Increases Threat to target by 962\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1790224445 -1018713217:Hurricane Forged Cuirass\/a
 categories:
 - Ability Modifier (Equipment)

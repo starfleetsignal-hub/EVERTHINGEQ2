@@ -16,7 +16,8 @@ stats:
   dps: '25.8'
   vselemental: +28,613
   mitinc: '6.6'
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Increases Block Chance of caster by 10.0%."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -1590557806 749421694:Mitigating Umbrite Earrings\/a
 categories:

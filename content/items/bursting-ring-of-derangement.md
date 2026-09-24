@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +19,032
-effects: '**Burst**'
+effect_name: Burst
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Burst III on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 13,794 - 15,246 magic damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 2021027261 715259688:Bursting Ring of Derangement\/a
 categories:
 - AE Autoattack Chance (Equipment)

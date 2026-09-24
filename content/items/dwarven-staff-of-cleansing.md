@@ -16,7 +16,8 @@ stats:
   drating: '9.52'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Cleansing Light**'
+effect_name: Cleansing Light
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cleansing Light on target of attack.  Triggers about 6.0 times per minute.\n    - Inflicts 4 - 5 divine damage on target.\n    - If target is undead\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[Cleansing of the Firemyst Gully]]'
 item_link: \aITEM -1901500417 1214323488:Dwarven Staff of Cleansing\/a
 categories:

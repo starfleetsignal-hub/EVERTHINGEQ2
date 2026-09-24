@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Forceful Thudomatonian Gauntlets]]
 item_link: \aITEM -1085826715 1258458104:Forceful Empyrean Hand Wraps\/a
 categories:

@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value no-transmute no-salvage
-effects: '**Tunare''s Spirit**<br>**Featherfall**'
+effect_name: Tunare's Spirit, Featherfall
+effects: "- Applies Tunare's Spirit when Activated.\n  - Changes the wearer into an avenging spirit.\n  - The casting time of Tunare's Spirit is 1.0 second and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of Chains (crate)|Cloak of Chains]]
 item_link: \aITEM -1248922326 2145210949:Cloak of Chains\/a
 categories:

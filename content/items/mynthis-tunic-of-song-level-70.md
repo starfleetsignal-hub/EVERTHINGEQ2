@@ -16,7 +16,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   dtype: Chain Armor
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 obtained_from: Dropped by [[Mynthi Davissi]] in [[Castle Mistmoore]]
 item_link: \aITEM 200632612 -1631837587:Mynthi's Tunic of Song\/a
 categories:

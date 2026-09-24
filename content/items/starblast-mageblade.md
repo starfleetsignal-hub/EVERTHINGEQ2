@@ -19,7 +19,8 @@ stats:
   drating: '69.55'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Mommy''s Little Monsters]]'
 item_link: \aITEM 1523340259 -1178343320:Starblast Mageblade\/a
 categories:

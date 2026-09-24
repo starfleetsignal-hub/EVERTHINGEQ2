@@ -19,7 +19,8 @@ stats:
   aspeed: '56.3'
   dps: '42.8'
   multi: '61.9'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 23.1.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 23.1.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: From [[A Packet of Level 110 Equipment (Warlock)|A Packet of Level 110 Equipment]]
 item_link: \aITEM -1788180208 -836474962:Despoiler's Vicious Charm\/a
 aliases:

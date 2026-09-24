@@ -16,7 +16,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 25 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 352042965 -1917099322:crude imbued iron scimitar\/a
 categories:
 - Assassin Equipment

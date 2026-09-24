@@ -19,7 +19,8 @@ stats:
   drating: '69.72'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Amplify Healing**'
+effect_name: Amplify Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Amplify Healing on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell by 25%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM 329903778 -1474208652:Hammer of Tenacious Might\/a
 categories:
 - Amplify Healing (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '12.6'
   dps: '32.4'
   vselemental: +2,079
-effects: '**Dragonsoul**'
+effect_name: Dragonsoul
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 5.5.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 263813808 -1519710350:Bracelet of Determined Chill\/a
 categories:
 - Arcane Resistance (Equipment)

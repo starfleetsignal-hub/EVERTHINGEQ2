@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Environ Linimentum**'
+effect_name: Environ Linimentum
+effects: "- Applies Environ Linimentum II when Equipped.\n  - When any damage is received this spell has a 8% chance to cast Environ Linimentum II on target.  Lasts for 2.0 seconds.\n    - When triggered this effect will heal any group members equipped with an Amplifying Plume II effect double the base amount.\n    - Heals group members for 116 instantly and every second.\n      - This effect cannot be critically applied.\n    - Heals group members for 116 instantly and every second.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 60.0 seconds."
 obtained_from: 'Achievement reward: [[A Jubilee for You and Me III]]'
 item_link: '\aITEM -431483986 -1167675418:Amplifying Plume II: Environ Linimentum II\/a'
 categories:

@@ -17,7 +17,8 @@ stats:
   aspeed: '4'
   dps: '8.1'
   dtype: Chain Armor
-effects: '**Aspect of the Rougarou**'
+effect_name: Aspect of the Rougarou
+effects: "- Applies Aspect of the Rougarou when Activated.\n  - Shapechanges caster into a werewolf\n  - Decreases WIS and INT of caster by 20.0.\n  - Increases STR and STA of caster by 12.0.\n  - Caster will Dodge 2.0% of incoming attacks.\n  - Increases Crit Chance of caster by 2.0.\n  - Enlarges caster by 20.0%.\n  - The reuse time of Aspect of the Rougarou is 30 minutes"
 item_link: \aITEM -384578194 -1996911856:Rougarou Hood\/a
 categories:
 - Aspect of the Rougarou (Equipment)

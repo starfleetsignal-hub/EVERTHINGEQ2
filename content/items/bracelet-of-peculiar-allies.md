@@ -18,7 +18,8 @@ stats:
   resolve: '200'
   aspeed: '93.7'
   vselemental: +170,040
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 786517929 185633639:Bracelet of Peculiar Allies\/a
 categories:
 - Arcane Resistance (Equipment)

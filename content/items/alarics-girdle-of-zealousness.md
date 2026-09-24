@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   aspeed: '9.7'
-effects: '**Storm''s Fury**'
+effect_name: Storm's Fury
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Storm's Fury on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of group members by 3.0%.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast Storm's Fury on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of group members by 3.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2119373454 -14356702:Alaric's Girdle of Zealousness\/a
 categories:
 - Assassin Equipment

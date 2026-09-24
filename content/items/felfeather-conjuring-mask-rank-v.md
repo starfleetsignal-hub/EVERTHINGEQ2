@@ -19,7 +19,8 @@ stats:
   potency: 39,074.8
   resolve: '500'
   dtype: Cloth Armor
-effects: '**Felfeather Mental Aptitude**'
+effect_name: Felfeather Mental Aptitude
+effects: "- When Equipped:\n  - Protects the wearer from specific types of chromatic magic.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 123204225 -1007390911:Felfeather Conjuring Mask [Rank V]\/a
 categories:
 - Ability Doublecast (Equipment)

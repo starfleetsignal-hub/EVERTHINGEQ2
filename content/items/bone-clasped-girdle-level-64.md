@@ -13,7 +13,8 @@ stats:
   crit: '1.2'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Burning Affliction**'
+effect_name: Burning Affliction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Burning Affliction on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 272 - 453 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 543.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 688290120 -219290335:Bone-Clasped Girdle\/a
 categories:
 - Assassin Equipment

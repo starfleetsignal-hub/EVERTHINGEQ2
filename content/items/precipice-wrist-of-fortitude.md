@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +24,232
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Applies Fortitude Stand V.  Lasts for 10.0 seconds.\n    - Inflicts 721,600 slashing damage on target.\n    - Gives caster an extra 10.0% mitigation to their worn armor.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1485400229 -1954495705:Precipice Wrist of Fortitude\/a
 categories:
 - Arcane Resistance (Equipment)

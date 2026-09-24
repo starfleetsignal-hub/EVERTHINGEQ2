@@ -18,7 +18,8 @@ stats:
   resolve: '24'
   abmod: +43,947
   flurry: '32.6'
-effects: '**Burning Affliction**'
+effect_name: Burning Affliction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Burning Affliction on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 623 - 1,039 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 1,282.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Fracture (Freeport)]] and [[Fracture (Qeynos)]]
 item_link: \aITEM 39719435 -219290335:Bone-Clasped Girdle\/a
 categories:

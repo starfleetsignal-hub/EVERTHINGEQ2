@@ -22,7 +22,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Bow
-effects: '**Viscid Mire**<br>**Summon Viscid Globs**'
+effect_name: Viscid Mire, Summon Viscid Globs
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Viscid Mire on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.8 times per minute.\n    - Cancels up to 20.0% of target's speed buffs.\n    - Cannot be modified except by direct means\n- Applies Summon Viscid Globs when Activated.\n  - Summons 100 viscid globs\n  - The casting time of Summon Viscid Globs is 4.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 23749110 776770987:Ichorstrand\/a
 categories:
 - Assassin Equipment

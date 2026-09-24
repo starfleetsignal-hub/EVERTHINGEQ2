@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Plate Armor
-effects: '**Ancient Invigoration**'
+effect_name: Ancient Invigoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancient Invigoration on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 2,800 points of all damage\n    - Replenishes 600 points of absorption every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -333149428 -779199988:Sacred Blessed Greaves\/a
 categories:
 - Ability Modifier (Equipment)

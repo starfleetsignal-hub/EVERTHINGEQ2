@@ -18,7 +18,8 @@ stats:
   aspeed: '13.8'
   dps: '22.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Dropped by [[Primus Pilus Gunnr (Epic)|Primus Pilus Gunnr]] in [[Throne of Storms: Hall of Legends]]'
 item_link: \aITEM -1120938682 249798987:Virtuoso's Slaughtering Cuffs\/a
 categories:

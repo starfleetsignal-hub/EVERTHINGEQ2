@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 89,729 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: '*Marketplace *[[The Fallen of Falinpol]]'
 item_link: \aITEM 83179524 270085344:Precious Rhenium Wristband\/a
 categories:

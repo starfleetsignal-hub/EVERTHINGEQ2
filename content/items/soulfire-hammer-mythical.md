@@ -20,7 +20,8 @@ stats:
   drating: '79.74'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Absolve Vitae**'
+effect_name: Absolve Vitae
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Absolve Vitae on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals group members (AE) for 1,079.\n    - Increases Mitigation of target vs all damage by 707.\n    - Cannot be modified except by direct means"
 obtained_from: Reward from [[Sir Trodonis]] after completing [[A Freeport Overlord in Queen Lenya's Court]] and then killing [[Mayong Mistmoore]]
 item_link: \aITEM 957091562 -1813412128:Soulfire Hammer\/a
 aliases:

@@ -24,7 +24,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Plaguebringer**'
+effect_name: Blessing of the Plaguebringer
+effects: "- When Equipped:\n  - \"Blessing of the Plaguebringer\" protects the wearer from strong deific magics used by Bertoxxulous!"
 item_link: \aITEM -706782398 2021277817:Plaguebringer's Staff of Bertoxxulous [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

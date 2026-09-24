@@ -17,7 +17,8 @@ stats:
   potency: '6.8'
   dps: '17.3'
   dtype: Plate Armor
-effects: '**Solid Reflexes**'
+effect_name: Solid Reflexes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Solid Reflexes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of caster by 3.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 878125990 -1928065695:Pauldrons of Remembrance\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   multi: '5.9'
   vsarcane: '+648'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 24.8.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 76) from [[Advanced Jeweler Volume 76 (Heirloom)]] *Crafted by [[Jeweler]] (level 76) from [[Advanced Jeweler Volume 76 (Normal)]]'
 item_link: \aITEM 354213663 -1007645824:Imbued Fire Emerald Ring of Stamina\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   multi: '17.5'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Hurried Strikes**<br>**Haste**'
+effect_name: Hurried Strikes, Haste
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1995601032 1054695921:Blade-Turning Gauntlets of Reflection\/a
 categories:
 - Berserker Equipment

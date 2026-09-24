@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   dps: '16.6'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM -599641543 -1500463674:Shattered Emerald of Zek\/a
 categories:
 - Assassin Equipment

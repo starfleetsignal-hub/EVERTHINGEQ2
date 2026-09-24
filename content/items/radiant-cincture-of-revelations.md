@@ -13,7 +13,8 @@ stats:
   crit: '3.8'
   critbonus: '1.4'
   potency: '6.2'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate IX on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate IX on termination.  Lasts for 15.0 seconds.\n      - Wards target against 2,500 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 1,385 - 1,531.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 90) from [[Ancient Knowledge: Radiant Cincture of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -865028399 -1262044319:Radiant Cincture of Revelations\/a
 categories:

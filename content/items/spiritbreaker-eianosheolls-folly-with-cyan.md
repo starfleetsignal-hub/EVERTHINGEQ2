@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Unbound Anger**'
+effect_name: Unbound Anger
+effects: "- When Equipped:\n  - Makes caster immune to Root effects\n  - Cannot be modified except by direct means"
 item_link: \aITEM 145610804 494225142:Spiritbreaker, Eianosheoll's Folly\/a
 categories:
 - Attack Speed (Equipment)

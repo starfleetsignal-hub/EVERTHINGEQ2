@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   aspeed: '2.4'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM -741703524 -205945301:Silvered Sergeant's Medallion\/a
 categories:
 - Assassin Equipment

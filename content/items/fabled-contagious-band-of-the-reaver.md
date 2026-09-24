@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Contagion**'
+effect_name: Contagion
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Contagion on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 34,986 poison damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 743679638 -471375787:Fabled Contagious Band of the Reaver\/a
 categories:
 - Arcane Resistance (Equipment)

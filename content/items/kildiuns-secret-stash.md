@@ -15,7 +15,8 @@ stats:
   abmod: +1,250
   dps: '21.8'
   vselemental: +26,832
-effects: '**Static Criticals**'
+effect_name: Static Criticals
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 67.2.\n  - This effect will not stack with \"Uplifting\" effects of the same type."
 item_link: \aITEM -583287998 -961732630:Kildiun's Secret Stash\/a
 categories:
 - Ability Modifier (Equipment)

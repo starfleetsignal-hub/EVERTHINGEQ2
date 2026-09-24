@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM -587436943 -733814341 0 0 0:Channeled Legs of Ethereal Energy\/a
 categories:
 - Casting Speed (Equipment)

@@ -16,7 +16,8 @@ stats:
   abmod: +7,155
   multi: '89.6'
   dtype: Cloth Armor
-effects: '**Pure Malice**'
+effect_name: Pure Malice
+effects: "- Applies Pure Malice when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 668239771 1223398115:Brell's Crown of Underfoot\/a
 categories:
 - Ability Modifier (Equipment)

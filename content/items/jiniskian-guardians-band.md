@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vsnoxious: '+320'
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 161.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Rug Deliveries]]'
 item_link: \aITEM -1582138544 -1562790190:Jiniskian Guardian's Band\/a
 categories:

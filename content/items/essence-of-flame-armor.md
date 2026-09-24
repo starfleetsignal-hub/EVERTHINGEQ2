@@ -11,7 +11,8 @@ stats:
   str: '+15'
   sta: '+15'
   dps: '1.1'
-effects: '**Cold Stare**'
+effect_name: Cold Stare
+effects: "- Applies Cold Stare when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 20 - 24 cold damage on target every 4 seconds.\n  - The casting time of Cold Stare is 3.0 seconds and the reuse time of the spell is 6.0 seconds"
 item_link: \aITEM 1903894903 -1943611266:Essence of Flame\/a
 categories:
 - Assassin Equipment

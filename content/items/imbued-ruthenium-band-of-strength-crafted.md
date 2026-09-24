@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+10'
   sta: '+10'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 10.2.\n    - Increases DPS of caster by 18.9.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 38) from [[Advanced Jeweler Volume 38 (Normal)]] *Crafted by [[Jeweler]] (level 38) from [[Advanced Jeweler Volume 38 (No-Trade)]]'
 item_link: \aITEM -352063970 -1086483753:Imbued Ruthenium Band of Strength\/a
 categories:

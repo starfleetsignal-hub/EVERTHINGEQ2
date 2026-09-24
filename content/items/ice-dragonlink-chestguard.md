@@ -18,7 +18,8 @@ stats:
   dps: '18.8'
   flurry: '5.1'
   dtype: Chain Armor
-effects: '**Empowered Attacks**'
+effect_name: Empowered Attacks
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Empowered Attacks on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 900.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -487035560 1696265859:Ice Dragonlink Chestguard\/a
 categories:
 - Assassin Equipment

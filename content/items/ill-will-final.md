@@ -17,7 +17,8 @@ stats:
   aspeed: '7.3'
   vselemental: '+400'
   mitinc: '5.1'
-effects: '**Anti-Antipathy**'
+effect_name: Anti-Antipathy
+effects: "- Applies Anti-Antipathy when Activated.\n  - Increases AGI, STR, STA, INT and WIS of caster by 25.0.\n  - Increases Mitigation of caster vs all damage by 1,040.\n  - This effect can be toggled on and off.\n  - This effect requires 1 concentration slot to maintain.\n  - When healed this spell will cast Hateful Healing on caster.\n    - Heals caster for 120.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1390867252 -1031868024:Ill Will\/a
 categories:
 - Anti-Antipathy (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1596297290 -342915579:Annihilator's Broadsword\/a
 categories:
 - Ability Modifier (Equipment)

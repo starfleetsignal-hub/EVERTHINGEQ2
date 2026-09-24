@@ -18,7 +18,8 @@ stats:
   resolve: '160'
   abmod: +46,883
   aspeed: '80.5'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,383.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1920204872 -1652019525:Illegal Tender\/a
 categories:
 - Ability Modifier (Equipment)

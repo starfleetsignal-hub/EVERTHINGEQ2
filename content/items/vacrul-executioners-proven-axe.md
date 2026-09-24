@@ -24,7 +24,8 @@ stats:
   drating: '3447.36'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Butcher''s Glee**'
+effect_name: Butcher's Glee
+effects: "- When Equipped:\n  - Increases Max Health of caster by 22.5%.\n  - Increases Weapon Damage of caster by 86.4.\n  - Increases all bonuses by 50% if you are at the top of an enemy's hate list."
 item_link: \aITEM -1186019635 -215109512:Vacrul Executioner's Proven Axe\/a
 categories:
 - Beastlord Equipment

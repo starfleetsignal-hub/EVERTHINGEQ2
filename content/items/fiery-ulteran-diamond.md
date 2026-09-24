@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   aspeed: '11.2'
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2003240698 -995798479:Fiery Ulteran Diamond\/a
 categories:
 - Attack Speed (Equipment)

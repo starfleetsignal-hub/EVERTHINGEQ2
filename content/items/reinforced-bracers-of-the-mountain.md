@@ -16,7 +16,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Leather Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 3.0%.\n  - Increases Riposte Chance of caster by 27.0.\n  - Increases Riposte Damage of caster by 27.0."
 obtained_from: '*Crafted by [[Tailor]] (level 90) from [[Ancient Knowledge: Reinforced Bracers of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 512537641 -1090912327:Reinforced Bracers of the Mountain\/a
 image: images/Reinforced_Bracers_of_the_mountain.jpg

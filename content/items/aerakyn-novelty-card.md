@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   multi: '31.2'
-effects: '**Undercover Assault**'
+effect_name: Undercover Assault
+effects: "- Applies Undercover Assault when Activated.  Lasts for 18.0 seconds.\n  - Automatically reduces the caster's threat by 80% of all damage inflicted\n  - Increases Weapon Damage of caster by 100.0.\n  - Increases the crit bonus of attacks by 100%.\n  - On any combat or spell hit this spell will cast Undercover Assault on target of attack.\n    - Decreases threat priority of target by 1 position\n      - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 18.0 - 27.0 seconds.\n  - Cannot be modified except by direct means\n  - The reuse time of Undercover Assault is 2 minutes"
 item_link: \aITEM 296934444 162153923:Aerakyn Novelty Card\/a
 categories:
 - AE Autoattack Chance (Equipment)

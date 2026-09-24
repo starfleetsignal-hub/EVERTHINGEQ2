@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   flurry: '81.1'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -763133029 2132856976:Talon Scar Coif of Ruination\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -828068375 -1289391152:Plated Gloves of Greater Skyshrine\/a
 categories:
 - Berserker Equipment

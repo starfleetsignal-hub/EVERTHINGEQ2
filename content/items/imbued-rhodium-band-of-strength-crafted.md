@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   vsarcane: '+84'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 14.3.\n    - Increases DPS of caster by 21.4.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 48) from [[Advanced Jeweler Volume 48 (Normal)]] *Crafted by [[Jeweler]] (level 48) from [[Advanced Jeweler Volume 48 (no-trade)]] *From [[Melee Jewelry Pack (Level 42 Mastercrafted)]]'
 item_link: \aITEM 1490168968 -629473685:Imbued Rhodium Band of Strength\/a
 categories:

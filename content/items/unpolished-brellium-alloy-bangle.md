@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   multi: '12'
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1017261473 243748516:Unpolished Brellium Alloy Bangle\/a
 categories:
 - Attack Speed (Equipment)

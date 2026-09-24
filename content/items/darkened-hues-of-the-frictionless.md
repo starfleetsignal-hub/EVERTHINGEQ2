@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +1,670
   aspeed: '18.8'
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless when Activated.  Lasts for 15.0 seconds.\n  - Increases the potency of heals and wards by 70%.\n  - Prevents caster from being Interrupted due to movement\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless is 1 minute 20 seconds"
 item_link: \aITEM 341242815 -1713268869:Darkened Hues of the Frictionless\/a
 categories:
 - Ability Modifier (Equipment)

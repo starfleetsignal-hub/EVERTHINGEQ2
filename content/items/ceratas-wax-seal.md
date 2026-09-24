@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulate on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 1,500,000\n    - Inflicts 349,860 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1015017626 1028841970:Cerata's Wax Seal\/a
 image: images/Cerata's_Wax_Seal.png
 categories:

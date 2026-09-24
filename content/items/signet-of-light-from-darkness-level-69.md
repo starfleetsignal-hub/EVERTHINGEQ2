@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   vsarcane: '+242'
-effects: '**Divine Light**'
+effect_name: Divine Light
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Divine Light on target's attacker.\n    - Inflicts 610 - 746 divine damage on target.\n    - Heals caster for 606 - 741.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 199677404 173914132:Signet of Light from Darkness\/a
 image: images/Signet_of_Light_from_Darkness.jpg
 categories:

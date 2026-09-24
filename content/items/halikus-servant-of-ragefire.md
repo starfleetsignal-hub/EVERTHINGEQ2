@@ -9,7 +9,7 @@ flags: NO-TRADE, NO-VALUE
 stats:
   charges: Unlimited
   recast: 0.0 seconds
-effects: Call Sokokar
+effects: "- Applies Call Sokokar when activated.\n  - Increases Weapon Damage Bonus of caster by 3.0\n  - Increases Spell Weapon Damage Bonus of caster by 3.0\n  - Increases Potency of caster by 13.0%\n  - Increases Crit Bonus of caster by 13.0%\n  - Increases Crit Chance of caster by 75.0%\n  - Increases Max Power of caster by 3,000.0\n  - Increases Max Health of caster by 10,000.0\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%"
 obtained_from: '[[Putting the Rage in Ragefire]]'
 item_link: 1630873070 -128917636:Halikus, Servant of Ragefire
 categories:

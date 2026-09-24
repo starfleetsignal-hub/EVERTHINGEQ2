@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+338'
-effects: '**Lesser Mirage**'
+effect_name: Lesser Mirage
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Mirage on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 350\n    - Cannot be modified except by direct means"
 obtained_from: One of the possible rewards from the quest [[Danger Zone]]
 item_link: \aITEM 872878948 -1877854508:Goblin Tongue Wristlet\/a
 categories:

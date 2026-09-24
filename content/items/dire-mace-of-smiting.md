@@ -16,7 +16,8 @@ stats:
   drating: '9.73'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 100 points of all damage\n    - Heals target for 23 - 25 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Dire Mace of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1128068227 -1892804552:Dire Mace of Smiting\/a
 categories:

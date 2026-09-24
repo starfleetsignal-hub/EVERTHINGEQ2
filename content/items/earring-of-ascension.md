@@ -18,7 +18,8 @@ stats:
   aspeed: '49.4'
   dps: '37.6'
   vselemental: +53,244
-effects: '**Mastery of Nightmares**'
+effect_name: Mastery of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Baliath, Harbinger of Nightmares."
 obtained_from: From [[Hoard of the Harbinger]]
 item_link: \aITEM 676527070 -883820799:Earring of Ascension\/a
 categories:

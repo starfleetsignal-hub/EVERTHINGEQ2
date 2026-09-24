@@ -16,7 +16,8 @@ stats:
   multi: '37.5'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Nocturnal Celerity**'
+effect_name: Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -995312634 -325671716:Leather Gloves of Venom\/a
 categories:
 - Block Chance (Equipment)

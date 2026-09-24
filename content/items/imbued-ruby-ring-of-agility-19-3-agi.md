@@ -11,7 +11,8 @@ stats:
   sta: '+13'
   agi: '+13'
   potency: '0.2'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 16.9.\n    - Increases Haste of caster by 22.1.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1574196155 1510231096:imbued ruby ring of agility\/a
 categories:
 - Assassin Equipment

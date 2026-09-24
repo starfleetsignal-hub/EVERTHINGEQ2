@@ -19,7 +19,8 @@ stats:
   drating: '42.17'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 2,249\n      - Must be flanking or behind\n    - Increases Threat to target by 2,914\n      - Must be in front of\n    - Inflicts 121 - 225 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 52) from [[Weaponsmith Essentials Volume 52 (Normal)]] *Crafted by [[Weaponsmith]] (level 52) from [[Weaponsmith Essentials Volume 52 (no-trade)]]'
 item_link: \aITEM -573278732 -528546004:Imbued Indium Javelin\/a
 categories:

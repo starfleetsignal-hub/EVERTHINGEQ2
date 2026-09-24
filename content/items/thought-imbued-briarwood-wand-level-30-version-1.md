@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Mental Blast**'
+effect_name: Mental Blast
+effects: "- Applies Mental Blast when Activated.\n  - Inflicts 106 - 177 mental damage on target.\n  - The casting time of Mental Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 35471778 -783868895:Thought Imbued Briarwood Wand\/a
 aliases:
 - Thought Imbued Briarwood Wand (Level 30) (6 int)

@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   dtype: Cloth Armor
-effects: '**Dispersion**'
+effect_name: Dispersion
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Dispersion on caster.  Lasts for 5 minutes.  This effect normalizes based off of a three second triggering event.\n    - Applies Dispersion on termination.\n      - Increases power of group members by 171.\n    - Will absorb all damage. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1217764717 173257584:Runed Bracers of Diffusion\/a
 categories:
 - Ability Modifier (Equipment)

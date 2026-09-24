@@ -16,7 +16,8 @@ stats:
   dps: '26.8'
   multi: '18.3'
   dtype: Symbols
-effects: '**Battle Unlocked**'
+effect_name: Battle Unlocked
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Battle Unlocked on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Decreases threat priority of target by 1 position\n    - Decreases Threat to target by 25,575  instantly and Decreases Threat by 25,575  every 4 seconds thereafter\n    - Inflicts 8,918 heat damage on target instantly and every 4 seconds.\n    - Inflicts an additional 2,744 heat damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1485533277 1161448905:Tallon's Key to Battle\/a
 categories:
 - Battle Unlocked (Equipment)

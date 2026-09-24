@@ -19,7 +19,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -1052217362 -2035940251:Immortal Ritual Dagger of the Lucanic Knight\/a
 categories:
 - Ability Modifier (Equipment)

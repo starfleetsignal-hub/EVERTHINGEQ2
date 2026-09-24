@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**All In**'
+effect_name: All In
+effects: "- Applies All In III when Activated.  Lasts for 8.0 seconds.\n  - Increases Potency of caster by 480.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The reuse time of All In III is 2 minutes"
 item_link: \aITEM 644015737 2069763311:Crystal of Akhevan Treachery\/a
 categories:
 - Ability Modifier (Equipment)

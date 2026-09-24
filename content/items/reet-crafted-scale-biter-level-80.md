@@ -20,7 +20,8 @@ stats:
   drating: '97.92'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 378.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Imitation Relocation]]'
 item_link: \aITEM -135129084 -538956746:Reet Crafted Scale Biter\/a
 image: images/Reet_crafted_scale_biter.jpg

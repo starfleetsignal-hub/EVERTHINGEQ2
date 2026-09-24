@@ -20,7 +20,8 @@ stats:
   aspeed: '108.7'
   cbovercap: '+25.6'
   dtype: Buckler
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,685 heat damage on target.\n    - Inflicts 3,685 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1478492118 382002236:Phoenix Lord's Buckler\/a
 categories:
 - Ability Modifier (Equipment)

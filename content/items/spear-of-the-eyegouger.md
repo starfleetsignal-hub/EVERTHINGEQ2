@@ -21,7 +21,8 @@ stats:
   drating: '101.01'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Deathly Lifetap**'
+effect_name: Deathly Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Deathly Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 483 - 1,003 magic damage on target\n    - Heals caster for 322 - 668\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1205933509 404505415:Spear of the Eyegouger\/a
 categories:
 - Attack Speed (Equipment)

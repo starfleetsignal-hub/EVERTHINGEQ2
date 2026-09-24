@@ -15,7 +15,8 @@ stats:
   potency: '5'
   aspeed: '7'
   dps: '12.6'
-effects: '**Cloak and Dagger**'
+effect_name: Cloak and Dagger
+effects: "- Applies Cloak and Dagger when Activated.  Lasts for 30.0 seconds.\n  - Heals target for 600 instantly and every 2 seconds.\n  - This effect can be toggled off.\n  - On any combat or spell hit this spell will cast Clandestine Attack on target of attack.\n    - Inflicts 216 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The casting time of Cloak and Dagger is 0.5 seconds and the reuse time of the spell is 3 minutes\n  - Requires 115 Power to cast and 92 Power every 2.0 seconds."
 item_link: \aITEM -2022007047 -1757769091:Malign Mantle\/a
 categories:
 - Assassin Equipment

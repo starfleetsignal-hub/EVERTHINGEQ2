@@ -17,7 +17,8 @@ stats:
   abmod: '+270'
   dps: '21.1'
   vsarcane: '+564'
-effects: '**Strategic Strikes**'
+effect_name: Strategic Strikes
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Strategic Strikes on target of spell.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 2,398 magic damage on target.\n    - Decreases DPS of target by 20.0.\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Strategic Strikes on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 2,398 magic damage on target.\n    - Decreases DPS of target by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1827985013 -680736853:Bracelet of the Prime Tribunus\/a
 categories:
 - Ability Modifier (Equipment)

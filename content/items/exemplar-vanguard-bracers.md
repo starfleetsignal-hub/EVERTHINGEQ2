@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   abmod: +4,738
   dtype: Plate Armor
-effects: '**Deathbringer''s Sight**'
+effect_name: Deathbringer's Sight
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Territus, the Deathbringer."
 obtained_from: From [[Horde of the Deathbringer]]
 item_link: \aITEM 672579877 -240357374:Exemplar  Vanguard Bracers\/a
 categories:

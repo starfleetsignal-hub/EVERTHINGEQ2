@@ -18,7 +18,8 @@ stats:
   dps: '19.8'
   multi: '25.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 419964555 476988634:Etherscourge Gloves\/a
 categories:
 - Accuracy (Equipment)

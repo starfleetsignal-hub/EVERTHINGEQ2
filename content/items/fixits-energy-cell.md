@@ -18,7 +18,8 @@ stats:
   resolve: '24'
   abmod: +28,600
   mitinc: '16.3'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 34.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1316951798 -833650679:Fixit's Energy Cell\/a
 categories:
 - Ability Modifier (Equipment)

@@ -24,7 +24,8 @@ stats:
   drating: '211.74'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 11,651 crushing damage on target.\n    - Increases Crit Bonus of caster by 31.0.\n    - Increases Potency of caster by 48.7.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -988087593 179052740:Obulon's Blade\/a
 image: images/Obulon's_Blade.png
 categories:

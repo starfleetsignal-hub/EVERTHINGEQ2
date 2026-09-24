@@ -16,7 +16,7 @@ stats:
   drating: '69.6'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: Plasma Boost
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to cast Plasma Boost on caster.  Lasts for 12.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Increases the base damage of hostile spells cast by 8%."
 item_link: 335135119 256208155:Wand of Crystalized Plasma
 categories:
 - Coercer Equipment

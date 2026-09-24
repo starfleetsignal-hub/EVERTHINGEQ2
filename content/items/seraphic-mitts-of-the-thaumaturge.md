@@ -18,7 +18,8 @@ stats:
   abmod: '+306'
   aspeed: '14.8'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Thudomatonian Mitts]]
 item_link: \aITEM 98028088 -784158337:Seraphic Mitts of the Thaumaturge\/a
 categories:

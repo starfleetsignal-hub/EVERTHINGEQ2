@@ -16,7 +16,8 @@ stats:
   aspeed: '17.3'
   multi: '18.1'
   vselemental: '+624'
-effects: '**Planar Mender''s Aura**'
+effect_name: Planar Mender's Aura
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Planar Mender's Aura on the group.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 3,500 points of all damage\n    - Increases healing received by 3.00%.\n    - Increases the caster's heals and wards by 10%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Hoop Of Draconic Fervor]] *Made from [[Prime Bone Golem Shards]] *Made from [[Prime Drake Fang]] *Made from [[Prime Wyvern Stinger]]'
 item_link: \aITEM -1582573210 -310102893:Hoop of Draconic Fervor\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Lambent Blessing**'
+effect_name: Lambent Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Lambent Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 70\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 57) from [[Advanced Woodworker Volume 57 (Heirloom)]] *Crafted by [[Woodworker]] (level 57) from [[Advanced Woodworker Volume 57 (Normal)]]'
 item_link: \aITEM -367919600 395368999:Blessed Ironwood Fighting Baton\/a
 categories:

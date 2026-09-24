@@ -17,7 +17,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -117820919 124407200 0 0 0:Feral Hide Gloves\/a
 categories:

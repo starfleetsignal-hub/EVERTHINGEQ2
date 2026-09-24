@@ -16,7 +16,8 @@ stats:
   potency: '12.6'
   abmod: '+551'
   vselemental: +2,079
-effects: '**Phantom Wound**'
+effect_name: Phantom Wound
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Phantom Wound II on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Phantom Wound II on target.\n      - Heals target for 2,101.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1668245602 1926432581:Crisis of Flame\/a
 categories:
 - Ability Modifier (Equipment)

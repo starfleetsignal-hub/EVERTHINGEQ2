@@ -20,7 +20,8 @@ stats:
   aspeed: '180.8'
   dps: '126'
   dtype: Chain Armor
-effects: '**Quacker Power**'
+effect_name: Quacker Power
+effects: "- Applies Quacker Power when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 1910439484 50642648:Robber Ducky's Burgler Hat\/a
 categories:
 - Ability Modifier (Equipment)

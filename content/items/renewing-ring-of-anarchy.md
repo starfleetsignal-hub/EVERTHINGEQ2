@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Radical Anarchy**'
+effect_name: Radical Anarchy
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Radical Anarchy IV on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Strikethrough of target by 9.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 422875002 -1585301722:Renewing Ring of Anarchy\/a
 categories:
 - Arcane Resistance (Equipment)

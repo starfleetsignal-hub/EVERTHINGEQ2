@@ -19,7 +19,8 @@ stats:
   drating: '62.59'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Soul Channel**'
+effect_name: Soul Channel
+effects: "- Applies Soul Channel when Activated.\n  - Decreases power of target by 191.\n  - Increases power of caster by 190.\n  - The casting time of Soul Channel is 1.0 second and the reuse time of the spell is 3 minutes"
 obtained_from: '[[Infiltrating the Sanctum: Shadow Ordinance]]'
 item_link: \aITEM -2128956156 397700043:Umbranis\/a
 image: images/Umbranis.jpg

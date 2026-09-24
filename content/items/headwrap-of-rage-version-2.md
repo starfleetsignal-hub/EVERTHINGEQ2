@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   dps: '5.6'
   dtype: Leather Armor
-effects: '**Blind Rage**'
+effect_name: Blind Rage
+effects: "- When Equipped:\n  - On a hit this spell may cast Blind Rage on caster.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 95.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1837979145 2088977570:Headwrap of Rage\/a
 categories:
 - Blind Rage (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '157.56'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Toxic Tempest**<br>**Pestilential Rain**'
+effect_name: Toxic Tempest, Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 poison damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1026840200 -2075238526:Staff of Skulls\/a
 categories:
 - Ability Modifier (Equipment)

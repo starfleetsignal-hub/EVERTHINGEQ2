@@ -15,7 +15,8 @@ stats:
   potency: '1.2'
   abmod: '+29'
   dps: '4.7'
-effects: '**Wraith Touch**'
+effect_name: Wraith Touch
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Wraith Touch on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 168 - 205 disease damage on target.\n    - Heals caster for 52.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1023520974 302072746:Wraith Touched Necklace\/a
 categories:
 - Ability Modifier (Equipment)

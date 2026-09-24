@@ -15,7 +15,8 @@ stats:
   abmod: '+60'
   dps: '5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1218659739 -973917866:Gloves of the Blackguard\/a
 categories:
 - Ability Modifier (Equipment)

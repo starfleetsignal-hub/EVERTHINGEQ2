@@ -7,7 +7,8 @@ slot: Head
 flags: no-trade no-value
 stats:
   dtype: Cloth Armor
-effects: '**Friendly Experience**'
+effect_name: Friendly Experience
+effects: "- Applies Friendly Experience when Equipped.\n  - Applies Friendly Experience.\n    - Increases Combat XP of target by 10.0%.\n    - Only applies if the caster is mentoring\n    - Dispelled when target stops mentoring\n  - Requires having an apprentice"
 item_link: \aITEM -1772201848 -428184505:Companion's Hood\/a
 categories:
 - Assassin Equipment

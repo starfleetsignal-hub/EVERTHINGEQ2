@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   vsarcane: '+280'
-effects: '**One With Nature**'
+effect_name: One With Nature
+effects: "- When Equipped:\n  - When damaged with a spell this spell has a 20% chance to cast One With Nature on the group.\n    - Heals group members (AE) for 286.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1706579664 1395861658 0 0 0:Circle of Unity\/a
 categories:
 - Ability Modifier (Equipment)

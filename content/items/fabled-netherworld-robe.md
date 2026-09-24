@@ -17,7 +17,8 @@ stats:
   dps: '51.3'
   multi: '35.1'
   dtype: Cloth Armor
-effects: '**Summoner''s Gift**'
+effect_name: Summoner's Gift
+effects: "- Applies Summoner's Gift when Activated.  Lasts for 3 minutes.\n  - Wards caster against 10,000 points of all damage\n  - Increases Potency of caster by 10.0.\n  - Must have Fabled Netherworld Robe equipped.\n  - Cannot be modified except by direct means\n  - The casting time of Summoner's Gift is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 1553405017 -1210225894 0 0 0:Fabled Netherworld Robe\/a
 categories:
 - Attack Speed (Equipment)

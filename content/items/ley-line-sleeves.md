@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Sold by [[Bad'Ushra]] (Merchant) in [[The Stonebrunt Highlands]] for 50 [[Mark of Manaar|Marks of Manaar]] Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] for 47 [[Mark of Manaar|Marks of Manaar]]
 item_link: \aITEM 676468867 -1822309069:Ley Line Sleeves\/a
 categories:

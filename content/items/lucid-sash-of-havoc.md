@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Call of Solusek**'
+effect_name: Call of Solusek
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Call of Solusek II on target of attack.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 64 - 71 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 246.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Call of Solusek II on target of spell.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 64 - 71 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 246.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 20) from [[Ancient Knowledge: Lucid Sash of Havoc]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 1949443582 801865614:Lucid Sash of Havoc\/a
 categories:

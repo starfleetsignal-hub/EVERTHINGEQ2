@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Soul Barrier**'
+effect_name: Soul Barrier
+effects: "- Applies Soul Barrier on target Friend when Activated.  Lasts for 15.0 seconds.\n  - On death this spell will cast Soul Barrier on target.\n    - Heals caster for 100.0% of max health.\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - Drains 15% of the caster's power every second. Terminates if the caster doesn't have enough power to maintain the spell\n  - Applies to group members only. Cannot be used on the caster\n  - If over 15% power\n  - Cannot be modified except by direct means\n  - The reuse time of Soul Barrier is 2 minutes"
 item_link: \aITEM -999867440 -985221530:Sigil of Marred Souls\/a
 categories:
 - Assassin Equipment

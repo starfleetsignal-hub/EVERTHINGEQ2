@@ -16,7 +16,8 @@ stats:
   dps: '111.8'
   flurry: '0.5'
   mitinc: '5'
-effects: '**March of the Combine**'
+effect_name: March of the Combine
+effects: "- Applies March of the Combine when Activated.  Lasts for 30.0 seconds.\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases the base trigger chance of spells and items by 10%.\n  - Cannot be modified except by direct means\n  - The casting time of March of the Combine is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[Tear in the Grotto]]'
 item_link: \aITEM -100585157 68664692:Vishra's Ribbon of Valor\/a
 image: images/Vishra's_Ribbon_of_Valor.png

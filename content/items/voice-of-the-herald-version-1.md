@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   strike: '7.1'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -455598371 -681570544:Voice of the Herald\/a
 categories:
 - Arcane Recovery (Equipment)

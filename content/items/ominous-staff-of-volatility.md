@@ -17,7 +17,8 @@ stats:
   drating: '50.01'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Vortex**'
+effect_name: Arcane Vortex
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Vortex IV on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 90 - 100 cold damage on targets in Area of Effect instantly and every 2 seconds.\n    - Increases power of group members (AE) by 22 - 25 instantly and every 2 seconds.\n    - Increases Potency of group members (AE) by 2.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 40) from [[Ancient Knowledge: Ominous Staff of Volatility]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 1357010487 -1913676485:Ominous Staff of Volatility\/a
 categories:

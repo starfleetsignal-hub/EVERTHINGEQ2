@@ -15,7 +15,8 @@ stats:
   drating: '30.46'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Brain Smash**'
+effect_name: Brain Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Brain Smash on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 126 - 234 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Vindicator Crush]] in the [[The D''Vinnian Throne]].'
 item_link: \aITEM -1793756628 -1159983463:Brainsmasher, Sword of Crush\/a
 categories:

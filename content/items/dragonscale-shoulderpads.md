@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   aspeed: '2.9'
   dtype: Leather Armor
-effects: '**Strength of the Dragon**'
+effect_name: Strength of the Dragon
+effects: "- Applies Strength of the Dragon when Activated.  Lasts for 5 minutes.\n  - Increases Max Health of caster by 200.0.\n  - This effect cannot be cast during combat\n  - The casting time of Strength of the Dragon is 4.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: '[[An Audience with Aaryonar]]'
 item_link: \aITEM -476775256 -787849193:Dragonscale Shoulderpads\/a
 categories:

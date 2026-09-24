@@ -16,7 +16,8 @@ stats:
   abmod: '+167'
   aspeed: '7.3'
   vsarcane: '+420'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[Ra'di]] (Faction Merchant) in [[The Sundered Frontier]]
 item_link: \aITEM 1548534564 899834510:Hoop of Bai Yun\/a
 categories:

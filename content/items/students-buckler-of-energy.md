@@ -20,7 +20,8 @@ stats:
   aspeed: '52.2'
   cbovercap: '+23.3'
   dtype: Buckler
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,726 heat damage on target.\n    - Inflicts 3,726 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 110) from [[Woodworker's Primer Volume 04]]
 item_link: \aITEM 1476921745 -2050736357:Student's Buckler of Energy\/a
 categories:

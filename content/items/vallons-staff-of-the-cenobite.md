@@ -22,7 +22,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Cyclonic Form**<br>**Corrosive Fog**'
+effect_name: Cyclonic Form, Corrosive Fog
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 3.0%.\n  - Increases Multi Attack of caster by 7.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 783 - 866 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 470.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -222858919 4097910:Vallon's Staff of the Cenobite\/a
 categories:
 - Beastlord Equipment

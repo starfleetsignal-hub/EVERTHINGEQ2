@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Understanding the Weak Spots**'
+effect_name: Understanding the Weak Spots
+effects: "- When Equipped:\n  - Increases Potency of caster by 20.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 200%"
 item_link: \aITEM 395180943 -1542038993:Depraved Torque of Understanding\/a
 categories:
 - Attack Speed (Equipment)

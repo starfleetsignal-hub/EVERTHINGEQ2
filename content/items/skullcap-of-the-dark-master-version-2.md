@@ -16,7 +16,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   dtype: Leather Armor
-effects: '**Thought Retrieval**'
+effect_name: Thought Retrieval
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Thought Retrieval on caster.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 240.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1887302970 -185912529:Skullcap of the Dark Master\/a
 categories:
 - Ability Modifier (Equipment)

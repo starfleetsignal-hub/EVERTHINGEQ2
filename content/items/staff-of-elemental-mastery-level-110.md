@@ -20,7 +20,8 @@ stats:
   abmod: +5,774
   aspeed: '59.1'
   dtype: Symbols
-effects: '**Guise of Lies**'
+effect_name: Guise of Lies
+effects: "- Applies Guise of Lies when Activated.\n  - Shapechanges pet\n  - Increases Potency of pet by 150.0.\n  - Increases Potency of pet by 500.0.\n  - Within the Shard of Hate, you can extract the essence of any creature you find to imbue your pet with its power. Has a similar but lesser effect outside of the plane.\n  - Cannot be modified except by direct means\n  - The casting time of Guise of Lies is 2.0 seconds and the reuse time of the spell is 15.0 seconds\n  - Requires 23 Power to cast and 23 Power every 0.0 seconds."
 item_link: \aITEM 1535218836 -771183487:Staff of Elemental Mastery\/a
 categories:
 - Ability Modifier (Equipment)

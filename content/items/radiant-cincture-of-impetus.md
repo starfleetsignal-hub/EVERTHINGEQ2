@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   potency: '0.2'
   abmod: '+7'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate IV on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate IV on termination.  Lasts for 15.0 seconds.\n      - Wards target against 400 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 223 - 247.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 40) from [[Ancient Knowledge: Radiant Cincture of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -1850833150 1430799444:Radiant Cincture of Impetus\/a
 categories:

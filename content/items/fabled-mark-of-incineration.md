@@ -15,7 +15,8 @@ stats:
   potency: '24'
   dps: '21.8'
   multi: '31.2'
-effects: '**Conservative Rate of Fire**'
+effect_name: Conservative Rate of Fire
+effects: "- Applies Conservative Rate of Fire II when Activated.\n  - Decreases Haste of caster by 150.0.\n  - Gives caster a 95.0% chance to not use ammunition on an attack.\n  - Cannot be modified except by direct means\n  - The casting time of Conservative Rate of Fire II is 1.0 second and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -378257196 267627793:Fabled Mark of Incineration\/a
 categories:
 - Assassin Equipment

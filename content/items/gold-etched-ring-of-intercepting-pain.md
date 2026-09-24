@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +19,032
-effects: '**Paindrinker**'
+effect_name: Paindrinker
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus based on the number of increments of Paindrinker. 0: -15 Crit Bonus. 1: -10 Crit Bonus. 2: -5 Crit Bonus. 3: 0 Crit Bonus. 4: 33 Crit Bonus. 5: 55 Crit Bonus\n  - When any damage is received this spell has a 30% chance to cast Paindrinker II on caster.  Lasts for 2 minutes.  This effect normalizes based off of a three second triggering event.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 482689543 -653703651:Gold Etched Ring of Intercepting Pain\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 359\n      - Must be flanking or behind\n    - Increases Threat to target by 629\n      - Must be in front of\n    - Inflicts 21 - 39 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Outfitter]] (level 14) from [[Outfitters essentials volume 14 (Normal)]] *Crafted by [[Outfitter]] (level 14) from [[Outfitters Essentials Volume 14 (no-trade)]]'
 item_link: \aITEM 802543194 1995589242:Imbued Iron Flail\/a
 image: images/Imbued_Iron_Flail.png

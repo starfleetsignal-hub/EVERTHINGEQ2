@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -1822758200 1260313860 0 0 0:Darkthread Slippers of Rift Evocation\/a
 categories:
 - Ability Modifier (Equipment)

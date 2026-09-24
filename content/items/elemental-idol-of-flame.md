@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '13'
-effects: '**Atheneal Fire**'
+effect_name: Atheneal Fire
+effects: "- Applies Atheneal Fire when Activated.  Lasts for 30.0 seconds.\n  - All offensive spells deal heat damage.\n  - Must be in Ward of Elements.\n  - The casting time of Atheneal Fire is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1751529289 1570437711:Elemental Idol of Flame\/a
 categories:
 - Assassin Equipment

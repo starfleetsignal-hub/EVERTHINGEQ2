@@ -15,7 +15,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   vselemental: +1,728
-effects: '**Uncanny Insight**'
+effect_name: Uncanny Insight
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 4.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2126648444 -396333853:Durable Manacle of Goods\/a
 categories:
 - Arcane Resistance (Equipment)

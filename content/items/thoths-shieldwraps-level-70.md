@@ -15,7 +15,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   dtype: Cloth Armor
-effects: '**Arcane Stun**'
+effect_name: Arcane Stun
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Stun V on target of spell.  Lasts for 3.0 seconds.  Triggers about 2.0 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1279212730 -1618473645:T'Hoth's Shieldwraps\/a
 categories:
 - Arcane Stun (Equipment)

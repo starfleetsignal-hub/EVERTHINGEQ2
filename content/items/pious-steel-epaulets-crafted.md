@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Plate Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 5%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -902297631 1415434911 0 0 0:Pious Steel Epaulets\/a
 categories:

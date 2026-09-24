@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Cloth Armor
-effects: '**Noxious Mist**'
+effect_name: Noxious Mist
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Noxious Mist on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 324 poison damage on target encounter.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Unadorned Steel Circlet]]'
 item_link: \aITEM -2119355611 -1310669425 0 0 0:Nethersummoned Circlet of Voidfire\/a
 categories:

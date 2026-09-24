@@ -16,7 +16,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   vselemental: +1,349
-effects: '**Critical Aegis**'
+effect_name: Critical Aegis
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Critical Aegis on caster.  Lasts for 24.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Max Health of group members by 500.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -184314546 777422699:Bangle of Dying Woods\/a
 categories:
 - Arcane Resistance (Equipment)

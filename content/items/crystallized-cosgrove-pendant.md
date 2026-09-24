@@ -18,7 +18,8 @@ stats:
   abmod: +1,702
   aspeed: '38.3'
   dps: '14.6'
-effects: '**Uplifting Fury**'
+effect_name: Uplifting Fury
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 25.2."
 obtained_from: 'Achievement reward: [[Quest Over-Achiever in Terrors of Thalumbra]]'
 item_link: \aITEM 1013306522 -82018349:Crystallized Cosgrove Pendant\/a
 categories:

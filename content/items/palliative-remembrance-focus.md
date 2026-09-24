@@ -24,7 +24,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.7%.\n    - Inflicts 1,192 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Goblin Lost Memory Imprints]]'
 item_link: \aITEM 344717088 -1538001343:Palliative Remembrance Focus\/a
 image: images/Palliative_Remembrance_Focus.png

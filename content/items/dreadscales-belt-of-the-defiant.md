@@ -13,7 +13,8 @@ stats:
   agi: '+327'
   crit: '107.6'
   potency: '47.3'
-effects: '**Shared Dragonsbane**<br>**Dragonsbane**'
+effect_name: Shared Dragonsbane, Dragonsbane
+effects: "- Applies Shared Dragonsbane when Activated.\n  - Protects the group from powerful Draconic abilities within Temple of Veeshan!\n- When Equipped:\n  - Protects the wearer from powerful Draconic abilities within Temple of Veeshan! This protection does not take effect for a few seconds after a resurrection."
 item_link: \aITEM -1719384942 24231330:Dreadscale's Belt of the Defiant\/a
 aliases:
 - Dreadscale's Belt of the Defiant (1 Gem)

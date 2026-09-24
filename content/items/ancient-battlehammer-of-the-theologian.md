@@ -21,7 +21,8 @@ stats:
   drating: '173.24'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Tactical Advance**<br>**Stout**'
+effect_name: Tactical Advance, Stout
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Tactical Advance II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Tactical Advance II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -911150989 -2006753373:Ancient Battlehammer of the Theologian\/a
 categories:
 - Beastlord Equipment

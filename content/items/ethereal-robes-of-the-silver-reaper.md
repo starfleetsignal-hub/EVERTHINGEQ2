@@ -18,7 +18,8 @@ stats:
   dps: '52.8'
   multi: '36.1'
   dtype: Cloth Armor
-effects: '**Reaper''s Wrath**'
+effect_name: Reaper's Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Reaper's Wrath on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 7,234 - 7,995 piercing damage on targets in Area of Effect instantly and every 3 seconds.\n    - Increases Crit Bonus of group members (AE) by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Reaper's Will on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Heals caster for 1,206 - 1,333 instantly and every 3 seconds.\n    - Increases Flurry of Caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -95079815 1679112171 0 0 0:Ethereal Robes of the Silver Reaper\/a
 categories:
 - Attack Speed (Equipment)

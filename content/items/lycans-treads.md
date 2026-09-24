@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   dps: '5.6'
   dtype: Leather Armor
-effects: '**Lesser Swift Recovery**'
+effect_name: Lesser Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 0.8 times per minute.\n    - Increases power of caster by 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2091027316 -346110845:Lycan's Treads\/a
 categories:
 - Assassin Equipment

@@ -24,7 +24,8 @@ stats:
   drating: '347.2'
   dtype: Two-Handed Crushing
   wtype: Mace
-effects: '**Thunder Strike**'
+effect_name: Thunder Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 911 - 1,113 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Fracture (Freeport)]] and [[Fracture (Qeynos)]]
 item_link: \aITEM -1490004139 2030020629:Bone Bladed Claymore\/a
 categories:

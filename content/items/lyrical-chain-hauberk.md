@@ -18,7 +18,7 @@ stats:
   vselemental: '+615'
   vsarcane: +1,066
   dtype: Chain Armor
-effects: Hollow Aria
+effects: "- When Equipped:\n  - Adds an additional trigger chance increase to Chimes of Blades and Perfection of the Maestro."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 997015166 1181129653:Lyrical Chain Hauberk\/a
 categories:

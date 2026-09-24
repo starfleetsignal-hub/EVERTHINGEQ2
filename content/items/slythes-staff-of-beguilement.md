@@ -21,7 +21,8 @@ stats:
   drating: '93.77'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 117.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Hold on to the Phylactery]]'
 item_link: \aITEM 2014338701 933657011:Slythe's Staff of Beguilement\/a
 categories:

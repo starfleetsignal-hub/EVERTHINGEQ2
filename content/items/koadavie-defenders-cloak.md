@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Spirit of the Koada''Vie**'
+effect_name: Featherfall, Spirit of the Koada'Vie
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Spirit of the Koada'Vie when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into a high elf\n  - The casting time of Spirit of the Koada'Vie is 1.0 second and the reuse time of the spell is 5.0 seconds"
 obtained_from: From [[High Elf Heritage Armor Crate]]
 item_link: \aITEM 1756105552 1624557447:Koada'Vie Defender's Cloak\/a
 categories:

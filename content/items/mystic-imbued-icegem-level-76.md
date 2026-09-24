@@ -13,7 +13,8 @@ stats:
   crit: '2.3'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -1752683478 515391667:Mystic Imbued Icegem\/a
 categories:
 - Arcane Recovery (Equipment)

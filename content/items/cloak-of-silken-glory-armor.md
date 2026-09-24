@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Glorious Halo**<br>**Featherfall**'
+effect_name: Glorious Halo, Featherfall
+effects: "- Applies Glorious Halo when Activated.\n  - Summons a glowing halo.\n  - The casting time of Glorious Halo is 1.0 second and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of Silken Glory (crate)|Cloak of Silken Glory]]
 item_link: \aITEM 1970041833 821866026:Cloak of Silken Glory\/a
 categories:

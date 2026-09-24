@@ -16,7 +16,8 @@ stats:
   dps: '26.4'
   vselemental: +29,243
   mitinc: '7'
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 18.8."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1241888913 -792970931:Mitigating Lumicite Earrings\/a
 categories:

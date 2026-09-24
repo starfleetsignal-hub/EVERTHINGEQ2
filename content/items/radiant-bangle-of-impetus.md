@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   vsarcane: '+84'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality IV on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 400 points of all damage\n    - Wards caster against 200 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 40) from [[Ancient Knowledge: Radiant Bangle of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -399028986 -2050814888:Radiant Bangle of Impetus\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   abmod: '+18'
   dps: '2.9'
   dtype: Kite Shield
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 15.8.\n  - This effect suspends during combat"
 item_link: \aITEM 688909019 -1276861795:Kite Shield of the King\/a
 categories:
 - Ability Modifier (Equipment)

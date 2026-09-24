@@ -20,7 +20,8 @@ stats:
   dps: '111.1'
   cbovercap: '+29'
   dtype: Symbols
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,954 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM 1739328774 -967725222:Efreeti Standard Symbol\/a
 categories:
 - Ability Modifier (Equipment)

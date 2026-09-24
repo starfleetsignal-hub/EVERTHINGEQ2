@@ -10,7 +10,7 @@ flags: No-trade No-value ornate
 stats:
   duration: Until Cancelled
   charges: Unlimited
-effects: Summon Darkhaven Cavedrifter
+effects: "- Applies Summon Darkhaven Cavedrifter when Activated.\n  - Increases caster's chance to block by 4.0%\n  - Increases Crit Bonus of caster by 40.0%\n  - Increases Potency of caster by 82.0%\n  - Increases Crit Chance of caster by 310.0\n  - Increases Max Power of caster by 6,600.0\n  - Increases Max Health of caster by 17,700.0\n  - Increases Mitigation of caster vs noxious damage by 5900\n  - Increases Mitigation of caster vs arcane damage by 5900\n  - Increases Mitigation of caster vs elemental damage by 5900\n  - Increases Ability Modifier of caster by 13,000.0\n  - Your adventure level must be 100 or above to receive statistic bonuses.\n  - Summons a mount to ride\n    - Increases your ground speed by 100%\n    - Increases your air speed by 150%"
 obtained_from: Included in the **Premium Edition** of the Terrors of Thalumbra expansion.  Once you have the premium edition, /claim it from the marketplace
 item_link: \aITEM 1099506053 -352423785:Darkhaven Cavedrifter\/a
 categories:

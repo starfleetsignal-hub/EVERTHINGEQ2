@@ -15,7 +15,8 @@ stats:
   critbonus: '6.3'
   potency: '10.6'
   aspeed: '16.8'
-effects: '**Field Marshall**'
+effect_name: Field Marshall
+effects: "- When Equipped:\n  - Increases the raid's crit bonus by 5% when in offensive stance. This effect stacks from multiple casters.\n  - If fighter"
 obtained_from: From [[Talan's Fighting Necklace]]
 item_link: \aITEM -856450089 -1663488332:Skull Amulet of the Hydra\/a
 categories:

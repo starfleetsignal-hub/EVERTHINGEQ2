@@ -16,7 +16,7 @@ stats:
   vselemental: '+615'
   vsarcane: +1,066
   dtype: Cloth Armor
-effects: Concussive Shock
+effects: "- When Equipped:\n  - When target successfully casts a hostile spell this spell has a chance to cast Concussive Shock on target of spell. Lasts for 4.0 seconds. This effect will trigger an average of 2.0 times per minute.\n    - Stuns target encounter\n    - Epic targets gain an immunity to Stun effects of 12.0 seconds and duration is reduced to 1.3 seconds.\n    - Resistablility increases against targets higher than level 102."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -581964182 1259289041:Enthralling Silk Robe\/a
 categories:

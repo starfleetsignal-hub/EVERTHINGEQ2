@@ -15,7 +15,8 @@ stats:
   drating: '24.95'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 109 - 203 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 225183305 1515172553:Imbued Feysteel Flamberge\/a
 categories:
 - Berserker Equipment

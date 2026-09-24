@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Piercing
   wtype: Sword
-effects: '**Intrepid Strike**'
+effect_name: Intrepid Strike
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Intrepid Strike on caster.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Flurry of Caster by 15.0.\n    - Increases Potency of caster by 15.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sing a Song of Sorrow]]'
 item_link: \aITEM 445423814 1371701413:Lamentation of the Intrepid\/a
 image: images/Lamentation.JPG

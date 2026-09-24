@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Dagger of Marnek**'
+effect_name: Dagger of Marnek
+effects: "- Applies Dagger of Marnek when Activated.\n  - Summons 99 Marnek Daggers\n  - The casting time of Dagger of Marnek is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM -647719078 -580998564:Dagger of Marnek\/a
 categories:
 - Ability Modifier (Equipment)

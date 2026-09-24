@@ -16,7 +16,8 @@ stats:
   multi: '33.4'
   mitinc: '11.2'
   dtype: Leather Armor
-effects: '**Uncanny Insight**'
+effect_name: Uncanny Insight
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 4.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1652853584 -634559231:Transverse Mantle of Propagation\/a
 categories:
 - Brawler Equipment

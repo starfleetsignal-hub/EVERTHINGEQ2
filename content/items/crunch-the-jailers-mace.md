@@ -18,7 +18,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Bone Break**'
+effect_name: Bone Break
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bone Break on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 77 - 94 crushing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 963968433 461571696:Crunch, the Jailer's Mace\/a
 categories:
 - Beastlord Equipment

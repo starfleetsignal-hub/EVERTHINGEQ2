@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dtype: Chain Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 546437800 -2116467377:Mitts of Taranis\/a
 categories:
 - Ability Modifier (Equipment)

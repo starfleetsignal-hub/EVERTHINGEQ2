@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '13.8'
   vselemental: +29,521
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM 2053910675 673366265:Clipped Fairy Wings\/a
 categories:
 - Ability Modifier (Equipment)

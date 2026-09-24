@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: no-trade no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: 'From [[Age of Discovery: Special Edition Rewards]]'
 item_link: \aITEM 617395434 1297220655:Cloak of the Truespirit\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 19 - 29 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 563942448 -55461224:shaped imbued iron ritual dagger\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   crit: '2.3'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Lesser Mana Leak**'
+effect_name: Lesser Mana Leak
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Mana Leak on target of spell cast.  Triggers about 1.6 times per minute.\n    - Increases power of target by 209.\n    - Decreases power of caster by 197.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Charm Unlike Any Other]]'
 item_link: \aITEM 1822080151 891195022:Braided Swamplord Necklace\/a
 image: images/Braided_Swamplord_Necklace.png

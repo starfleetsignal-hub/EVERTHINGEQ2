@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   mitinc: '5.1'
   dtype: Leather Armor
-effects: '**Serpentine Technique**'
+effect_name: Serpentine Technique
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 8.0%."
 item_link: \aITEM 2101527274 2127954069 0 0 0:Shadowweave Sleeves of Perfect Balance\/a
 categories:
 - Census Credits

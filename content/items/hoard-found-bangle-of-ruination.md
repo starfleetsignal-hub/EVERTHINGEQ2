@@ -17,7 +17,8 @@ stats:
   resolve: '525'
   aspeed: '35.7'
   vselemental: +367,510
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -999217480 1945845951:Hoard Found Bangle of Ruination\/a
 categories:
 - Arcane Resistance (Equipment)

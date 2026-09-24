@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   multi: '18.1'
-effects: '**Monstrous Warding**'
+effect_name: Monstrous Warding
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Monstrous Warding on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 5,000 points of all damage\n    - Increases Max Health of target by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Cleansing Totem Of The Dragon Seer]] *Made from [[A Bloody Prime Drakota Eye]] *Made from [[Prime Skyshrine Golem Core]] *Made from [[Prime Wurm Tongue]]'
 item_link: \aITEM 1648419859 -1441142755:Cleansing Totem of the Dragon Seer\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Incinerate Blood**'
+effect_name: Incinerate Blood
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Incinerate Blood on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.2 times per minute.\n    - Inflicts 134 heat damage on target instantly and every 5 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1118405699 775368349:Blood Fire, Burning Essence of Thule\/a
 categories:
 - Ability Modifier (Equipment)

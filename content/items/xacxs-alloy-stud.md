@@ -16,7 +16,8 @@ stats:
   abmod: +1,591
   aspeed: '18'
   vselemental: +29,521
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM -611584036 -761258435:Xacx's Alloy Stud\/a
 categories:
 - Ability Modifier (Equipment)

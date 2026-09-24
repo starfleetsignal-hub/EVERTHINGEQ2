@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**Juggernaut''s Fury**<br>**All for One**'
+effect_name: Juggernaut's Fury, All for One
+effects: "- When Equipped:\n  - Removes the negative effects of Juggernaut.\n  - Juggernaut will now affect the entire group.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 1406438222 74401433:Battlemaster's Serape\/a
 categories:
 - All for One (Equipment)

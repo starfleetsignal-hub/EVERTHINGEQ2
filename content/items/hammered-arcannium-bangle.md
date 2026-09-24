@@ -17,7 +17,8 @@ stats:
   aspeed: '34.5'
   dps: '13.2'
   vselemental: +29,243
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 656072600 -785807685:Hammered Arcannium Bangle\/a
 categories:

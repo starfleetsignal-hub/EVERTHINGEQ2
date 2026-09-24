@@ -17,7 +17,8 @@ stats:
   dps: '29.5'
   multi: '78'
   flurry: '0.6'
-effects: '**Will of Gen''ra**'
+effect_name: Will of Gen'ra
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 6.0.\n  - Increases Piercing, Slashing, Crushing and Ranged of caster by 55.0.\n  - Increases Ability Mod of caster by 1,200.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1033093712 -1537802945 0 0 0:Empowered Coral Stone\/a
 categories:
 - Assassin Equipment

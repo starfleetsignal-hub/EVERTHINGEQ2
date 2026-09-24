@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +16,380
-effects: '**Spontaneous Combustion**'
+effect_name: Spontaneous Combustion
+effects: "- When Equipped:\n  - When damaged this spell will cast Spontaneous Combustion on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 15,525-62,100 heat damage on target\n    - Damage increases as the caster is attacked\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -105443315 -497276800:Oil-Drenched Manacles\/a
 categories:
 - Arcane Resistance (Equipment)

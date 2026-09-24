@@ -14,7 +14,8 @@ stats:
   potency: '13.1'
   abmod: '+458'
   vselemental: +9,851
-effects: '**Concentrated Convergence**'
+effect_name: Concentrated Convergence
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Concentrated Convergence on caster.  Lasts for 18.0 seconds.  Triggers about 1.4 times per minute.\n    - Prevents caster and pet from taking damage from AoE spells. Spell will cancel if damage taken is more than 25% of your max health.\n  - Increases Potency of caster by 10.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1981819981 1897655814:Zek's Hoop of Concentrated Convergence\/a
 categories:
 - Ability Modifier (Equipment)

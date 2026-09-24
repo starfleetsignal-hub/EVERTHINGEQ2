@@ -13,7 +13,8 @@ stats:
   drating: '2.4'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Gone Fishin''**'
+effect_name: Gone Fishin'
+effects: '- Applies Gone Fishin'' when Equipped.'
 item_link: \aITEM 132138617 -165842035:Good Ol' Fishin' Pole\/a
 categories:
 - Assassin Equipment

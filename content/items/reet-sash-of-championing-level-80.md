@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   dps: '9.7'
   multi: '5.9'
-effects: '**Runic Barrier**'
+effect_name: Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 280 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: '[[Imitation Relocation]]'
 item_link: \aITEM 2126398145 -457535818:Reet Sash of Championing\/a
 image: images/Reet_sash_of_champoning.jpg

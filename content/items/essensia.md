@@ -20,7 +20,8 @@ stats:
   drating: '62.59'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Soul Rend**'
+effect_name: Soul Rend
+effects: "- Applies Soul Rend when Equipped.\n  - On a combat hit this spell may cast Soul Rend on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 191.\n    - Increases power of caster by 190.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Infiltrating the Sanctum: Shadow Ordinance]]'
 item_link: \aITEM 1865328685 -109021470:Essensia\/a
 image: images/Essensia.jpg

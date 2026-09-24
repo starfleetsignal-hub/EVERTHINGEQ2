@@ -15,7 +15,7 @@ stats:
   vselemental: '+347'
   vsarcane: '+347'
   vsnoxious: '+347'
-effects: Aura of Strength
+effects: "When Equipped:\n\n- On a hit this spell may cast Blaze of Strength on caster. Lasts about 45.0 seconds. Triggers about 1.8 times per minute.\n  - Increases STR of caster by 26.7\n  - Increases Damage Per Second of caster by 30.9\n  - Cannot be modified except by direct means."
 obtained_from: Crafted by [[Jeweler]] (level artisanLevel) from [[RecipeBook]]
 item_link: \aITEM -1793979714 -499229159:[pristine imbued tynnonium band of strength]\/a
 categories:

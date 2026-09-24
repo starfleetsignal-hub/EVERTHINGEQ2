@@ -17,7 +17,8 @@ stats:
   abmod: +1,591
   aspeed: '36'
   dps: '13.8'
-effects: '**Pact of Constitution**'
+effect_name: Pact of Constitution
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 4.2 and health by 1,800 for each member of their group or raid."
 item_link: \aITEM -938070294 202044120:Constricting Choker\/a
 categories:
 - Ability Modifier (Equipment)

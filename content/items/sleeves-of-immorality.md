@@ -12,7 +12,8 @@ stats:
   int: '+8'
   mit: '47'
   dtype: Cloth Armor
-effects: '**Renewing Breeze Glyph**'
+effect_name: Renewing Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Renewing Breeze on caster.\n    - Heals caster for 22.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1068594946 -1390428088:Sleeves of Immorality\/a
 categories:
 - Assassin Equipment

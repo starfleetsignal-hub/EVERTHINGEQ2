@@ -16,7 +16,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -564052531 -2006298978 0 0 0:Elucidated Manaweave Pantaloons\/a
 categories:
 - Arcane Recovery (Equipment)

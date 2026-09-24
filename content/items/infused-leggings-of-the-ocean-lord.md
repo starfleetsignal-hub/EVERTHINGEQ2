@@ -16,7 +16,8 @@ stats:
   abmod: '+298'
   aspeed: '75.4'
   dtype: Cloth Armor
-effects: '**Ageless Damnation**'
+effect_name: Ageless Damnation
+effects: "- When Equipped:\n  - Increases WIS and INT of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1196780438 -811745253 0 0 0:Infused Leggings of the Ocean Lord\/a
 categories:
 - Ability Modifier (Equipment)

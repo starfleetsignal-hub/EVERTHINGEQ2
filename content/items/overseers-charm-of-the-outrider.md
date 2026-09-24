@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Chaotic Pain**'
+effect_name: Chaotic Pain
+effects: "- Applies Chaotic Pain when Activated.  Lasts for 20.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 1.8 - 34.2.\n  - Cannot be modified except by direct means\n  - The reuse time of Chaotic Pain is 1 minute 30 seconds"
 item_link: \aITEM -806408152 -1660624748:Overseer's Charm of the Outrider\/a
 categories:
 - Assassin Equipment

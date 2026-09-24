@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '131'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Tailor]] (level 30) from [[Ancient Knowledge: Reinforced Gi of Virtue]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -618943075 1542506438:Reinforced Gi of Virtue\/a
 categories:

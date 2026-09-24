@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dps: '10.1'
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Lord Vizaroth]] in [[The Crypt of Agony]] <br>
 item_link: \aITEM 950057211 -1045772756:Cloak of Trepidation\/a
 categories:

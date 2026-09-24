@@ -15,7 +15,8 @@ stats:
   critbonus: '5.5'
   potency: '9.6'
   dtype: Leather Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 1892754704 -880143334:Astral Pugilist's Brutal Hand Wraps\/a
 categories:
 - Block Chance (Equipment)

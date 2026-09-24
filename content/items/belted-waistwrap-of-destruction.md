@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   abmod: '+217'
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -809782075 836772751:Belted Waistwrap of Destruction\/a
 categories:
 - Ability Modifier (Equipment)

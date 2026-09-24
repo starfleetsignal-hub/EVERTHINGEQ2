@@ -18,7 +18,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Horrifying Impact**'
+effect_name: Horrifying Impact
+effects: "- Applies Horrifying Impact when Activated.\n  - Inflicts 3,240 mental damage on targets in Area of Effect.\n  - The casting time of Horrifying Impact is 3.0 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1159247838 -92116725:Nightfall's Dark Katana\/a
 categories:
 - AE Autoattack Chance (Equipment)

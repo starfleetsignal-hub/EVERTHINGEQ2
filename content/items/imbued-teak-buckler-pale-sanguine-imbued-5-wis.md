@@ -11,7 +11,8 @@ stats:
   sta: '+10'
   int: '+11'
   dtype: Buckler
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 52 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 496855509 -1382733612:Imbued Teak Buckler\/a
 categories:
 - Berserker Equipment

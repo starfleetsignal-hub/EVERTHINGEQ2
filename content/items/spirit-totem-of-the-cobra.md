@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Cobra
+effects: "- Applies **Spirit Totem of the Cobra** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a snake\n  - Increases Out-of-Combat health Regeneration of caster by 102\n  - Only affects targets level 49 and above"
 obtained_from: Crafted by [[Woodworker]] (level 58) from [[Woodworker Essentials Volume 58]]
 categories:
 - Assassin Equipment

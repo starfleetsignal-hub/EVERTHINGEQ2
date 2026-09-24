@@ -14,7 +14,8 @@ stats:
   mit: '172'
   potency: '0.2'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 40) from [[Ancient Knowledge: Glorified Tunic of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 1206247607 -369877158:Glorified Tunic of Impetus\/a
 categories:

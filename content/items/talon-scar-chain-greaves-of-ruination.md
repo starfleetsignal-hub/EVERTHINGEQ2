@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   dps: '281'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2006436211 -1097589904:Talon Scar Chain Greaves of Ruination\/a
 categories:
 - Assassin Equipment

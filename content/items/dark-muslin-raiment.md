@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   aspeed: '5.6'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 253639887 49841059:Dark Muslin Raiment\/a
 categories:
 - Arcane Recovery (Equipment)

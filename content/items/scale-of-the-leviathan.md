@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dps: '9.7'
-effects: '**Leviathan''s Tenacity**'
+effect_name: Leviathan's Tenacity
+effects: "- When Equipped:\n  - Grants a 2.0% chance to resist Stun effects\n  - Allows caster to breathe under water"
 obtained_from: '[[Leviacide]]'
 item_link: \aITEM 41729229 161188924:Scale of the Leviathan\/a
 categories:

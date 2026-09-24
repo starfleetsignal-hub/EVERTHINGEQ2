@@ -10,7 +10,8 @@ flags: lore attunable
 stats:
   str: '+12'
   sta: '+12'
-effects: '**Summon Silence**'
+effect_name: Summon Silence
+effects: "- Applies Summon Silence when Activated.  Lasts for 30.0 seconds.\n  - Summons a limited pet to aid the caster\n  - The casting time of Summon Silence is 2.0 seconds and the reuse time of the spell is 15 minutes"
 item_link: \aITEM -50792089 -1574047589:Girdle of Spirits and Lies\/a
 categories:
 - Assassin Equipment

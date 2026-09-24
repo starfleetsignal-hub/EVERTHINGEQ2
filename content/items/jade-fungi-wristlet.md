@@ -17,7 +17,8 @@ stats:
   resolve: '460'
   aspeed: '31.4'
   vselemental: +310,750
-effects: '**Fungi Layer**'
+effect_name: Fungi Layer
+effects: "- When Equipped:\n  - Reduces noxious damage done to target by 2.5%.\n  - Grants 25 Attack Speed to the wearer.\n  - Grants 25 DPS to the wearer.\n  - These effects will only apply when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1213017873 -2138860593:Jade Fungi Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

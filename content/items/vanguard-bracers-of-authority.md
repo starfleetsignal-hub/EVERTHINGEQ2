@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '150'
   dtype: Plate Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 0.6%.\n  - Increases Riposte Chance of caster by 6.0.\n  - Increases Riposte Damage of caster by 6.0."
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Ancient Knowledge: Vanguard Bracers of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 998666422 -1710874324:Vanguard Bracers of Authority\/a
 categories:

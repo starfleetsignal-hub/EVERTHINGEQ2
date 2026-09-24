@@ -13,7 +13,8 @@ stats:
   mit: '99'
   potency: '0.2'
   dtype: Cloth Armor
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- When Equipped:\n  - Increases Disruption, Focus and Subjugation of caster by 16.0.\n  - Reduces resistibility of all spells by 1.3%."
 obtained_from: '*Crafted by [[Tailor]] (level 40) from [[Ancient Knowledge: Tranquil Bands of Volatility]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 1073957397 -86739179:Tranquil Bands of Volatility\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   dps: '18.1'
   multi: '11.5'
   vselemental: +1,349
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1535390144 -646244205:Clasp of Unbound Energy\/a
 categories:
 - Arcane Resistance (Equipment)

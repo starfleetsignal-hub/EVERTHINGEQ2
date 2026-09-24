@@ -16,7 +16,8 @@ stats:
   potency: '11.6'
   multi: '20'
   dtype: Leather Armor
-effects: '**Dragonsoul**'
+effect_name: Dragonsoul
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 5.5.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 888365728 -671880557 0 0 0:Tallon's Bracers of the Storm\/a
 categories:
 - Casting Speed (Equipment)

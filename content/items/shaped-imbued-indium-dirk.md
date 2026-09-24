@@ -18,7 +18,8 @@ stats:
   drating: '42.17'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 111 - 166 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1824290881 1513316735:shaped imbued indium dirk\/a
 categories:
 - Ability Modifier (Equipment)

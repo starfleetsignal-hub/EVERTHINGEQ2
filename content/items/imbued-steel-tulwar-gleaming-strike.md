@@ -15,7 +15,8 @@ stats:
   drating: '21.32'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 72 - 133 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 882177476 -539021749:Imbued Steel Tulwar\/a
 categories:
 - Berserker Equipment

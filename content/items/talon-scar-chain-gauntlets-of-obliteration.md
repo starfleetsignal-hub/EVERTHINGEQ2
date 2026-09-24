@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -863123603 -474313712:Talon Scar Chain Gauntlets of Obliteration\/a
 categories:
 - Assassin Equipment

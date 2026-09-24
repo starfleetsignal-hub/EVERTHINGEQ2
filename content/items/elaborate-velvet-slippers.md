@@ -14,7 +14,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Cloth Armor
-effects: '**Choke**'
+effect_name: Choke
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Choke on target's attacker.  Lasts for 5.0 seconds.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -323015552 -1285671026:Elaborate Velvet Slippers\/a
 categories:
 - Assassin Equipment

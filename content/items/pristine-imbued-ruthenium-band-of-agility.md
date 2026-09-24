@@ -12,7 +12,7 @@ stats:
   agi: '+10'
   health: '+20'
   power: '+20'
-effects: Aura of Agility
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast **Flare of Agility** on caster. Lasts for 45.0 seconds.\n    - Increases AGI of caster by 12.2\n    - Increases Attack Speed of caster by 17.5"
 obtained_from: Crafted by [[Jeweler]] (level 38) from [[Advanced Jeweler Volume 38]]
 categories:
 - Assassin Equipment

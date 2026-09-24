@@ -24,7 +24,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Aim
-effects: '**Equalize**'
+effect_name: Equalize
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,699 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 obtained_from: From [[Seeds of Vengeance Promotion Pack]]
 item_link: \aITEM -345275693 -1510625559:Hate's Vengeance\/a
 categories:

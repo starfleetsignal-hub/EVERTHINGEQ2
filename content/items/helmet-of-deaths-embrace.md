@@ -16,7 +16,8 @@ stats:
   potency: '7'
   dps: '18.1'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 obtained_from: <br>
 item_link: \aITEM 413812735 -326369994:Helmet of Death's Embrace\/a
 categories:

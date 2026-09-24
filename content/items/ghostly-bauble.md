@@ -17,7 +17,8 @@ stats:
   abmod: '+405'
   multi: '18.1'
   vselemental: +1,824
-effects: '**Cyclical Battering**'
+effect_name: Cyclical Battering
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 9.0.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1570901134 1601305282 0 0 0:Ghostly Bauble\/a
 categories:
 - Ability Modifier (Equipment)

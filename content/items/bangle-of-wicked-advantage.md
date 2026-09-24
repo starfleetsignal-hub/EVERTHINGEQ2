@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +21,632
-effects: '**Positional Advantage**'
+effect_name: Positional Advantage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Positional Advantage V on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 95, 000 piercing damage to the target. This damage increases if the wearer is flanking or behind their target and the closer they are to the target, up to 726, 750 piercing damage.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1485333244 -1212169434:Bangle of Wicked Advantage\/a
 categories:
 - Arcane Resistance (Equipment)

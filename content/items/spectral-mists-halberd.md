@@ -23,7 +23,8 @@ stats:
   drating: '379.96'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 20,447 crushing damage on target.\n    - Increases Crit Bonus of caster by 53.3.\n    - Increases Potency of caster by 83.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1904809921 1095468921:Spectral Mists Halberd\/a
 categories:
 - Ability Modifier (Equipment)

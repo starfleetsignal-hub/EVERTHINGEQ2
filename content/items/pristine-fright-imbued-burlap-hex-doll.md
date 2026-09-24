@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 8.8.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Outfitter]] (level 16) from [[Outfitters essentials volume 16 (Normal)]] *Crafted by [[Outfitter]] (level 16) from [[Outfitters Essentials Volume 16 (no-trade)]]'
 item_link: \aITEM 620507749 245204840:pristine fright imbued burlap hex doll\/a
 categories:

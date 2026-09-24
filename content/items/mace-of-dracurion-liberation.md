@@ -20,7 +20,8 @@ stats:
   drating: '132'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 298505352 -2104046106:Mace of Dracurion Liberation\/a
 categories:
 - Assassin Equipment

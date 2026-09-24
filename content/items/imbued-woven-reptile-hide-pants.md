@@ -15,7 +15,8 @@ stats:
   potency: '8.1'
   aspeed: '60.6'
   dtype: Leather Armor
-effects: '**Imbued Smite**'
+effect_name: Imbued Smite
+effects: "- Applies Imbued Smite when Equipped.\n  - When any damage is received this spell has a 10% chance to cast Imbued Smite on target's attacker.  Lasts for 5.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 413 divine damage on target instantly and every second.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Imbued Smite on target of attack.  Lasts for 5.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 413 divine damage on target instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 95) from [[Advanced Tailor Volume 95 (with desc)]] *Crafted by [[Tailor]] (level 95) from [[Advanced Tailor Volume 95 (without desc)]]'
 item_link: \aITEM -349972270 1930220563:Imbued Woven Reptile Hide Pants\/a
 categories:

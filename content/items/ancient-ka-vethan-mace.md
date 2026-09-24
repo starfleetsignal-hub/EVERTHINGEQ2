@@ -24,7 +24,8 @@ stats:
   drating: '400.38'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,402 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Ka Vethan Artifacts]]'
 item_link: \aITEM -997724359 -56983784:Ancient Ka Vethan Mace\/a
 image: images/Ancient_Ka_Vethan_Mace.png

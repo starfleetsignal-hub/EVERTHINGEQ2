@@ -13,7 +13,7 @@ stats:
   wis: '+25'
   health: '+125'
   multi: '2'
-effects: Act of Survival
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 8% chance to cast Act of Survival on target's attacker.\n    - Inflicts 253 magic damage on target\n    - Heals caster for 141"
 obtained_from: '[[A Higher Purpose]]'
 item_link: \aITEM 261749425 -1858555654:[Survival Accord Badge]\/a
 image: images/Survival_Accord_Badge.jpg

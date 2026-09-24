@@ -16,7 +16,8 @@ stats:
   abmod: '+101'
   vselemental: '+356'
   dtype: Symbols
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: 'Collection reward: [[Relics of the Goblin Hero]]'
 item_link: \aITEM -347406720 -1342774089:Idol of the Broken Toe\/a
 categories:

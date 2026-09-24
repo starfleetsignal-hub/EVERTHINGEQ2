@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   aspeed: '6.7'
-effects: '**Lesser Soulsiphon**'
+effect_name: Lesser Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 169.\n    - Increases power of caster by 85.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 353869617 606646476:Mechanic's Toolbelt\/a
 categories:
 - Ability Modifier (Equipment)

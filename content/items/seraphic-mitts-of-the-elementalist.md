@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   multi: '15.6'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: Dropped by [[General Utehk (Challenge Mode Epic)|General Utehk]] in [[Tallon's Stronghold]]
 item_link: \aITEM -2084915408 -1197872300:Seraphic Mitts of the Elementalist\/a
 categories:

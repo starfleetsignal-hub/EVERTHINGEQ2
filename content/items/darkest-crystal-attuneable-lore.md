@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   aspeed: '8.8'
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 153\n    - Increases power of caster by 102\n    - Cannot be modified except by direct means"
 item_link: \aITEM -430177987 1200521221:Darkest Crystal\/a
 categories:
 - Ability Modifier (Equipment)

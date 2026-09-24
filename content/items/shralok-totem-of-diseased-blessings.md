@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Bertoxxulous'' Blessing**'
+effect_name: Bertoxxulous' Blessing
+effects: "- Applies Bertoxxulous' Blessing III when Activated.  Lasts for 1 minute 30 seconds.\n  - Inflicts 457,600 disease damage on target instantly and every second.\n  - Inflicts an additional 48,400 disease damage on target every tick.\n  - Inflicts 4.5% of max health in disease damage on caster instantly and every second.\n  - Inflicts an additional 0.9% of max health in disease damage on caster every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Bertoxxulous' Blessing III is 1 minute 30 seconds"
 item_link: \aITEM -391333838 789870358:Shralok Totem of Diseased Blessings\/a
 categories:
 - AE Autoattack Chance (Equipment)

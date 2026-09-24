@@ -17,7 +17,8 @@ stats:
   abmod: '+369'
   dps: '25.5'
   vselemental: +1,728
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -915286213 -1594428151:Blood-Drenched Ring of Dagarn\/a
 categories:
 - Ability Modifier (Equipment)

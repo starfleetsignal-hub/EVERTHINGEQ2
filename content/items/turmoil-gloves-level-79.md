@@ -17,7 +17,8 @@ stats:
   strike: '7'
   multi: '6.2'
   dtype: Leather Armor
-effects: '**Crippling Riposte**'
+effect_name: Crippling Riposte
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Crippling Riposte on target's attacker.  Lasts for 16.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Haste of target by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1768676023 -788741796:Turmoil Gloves\/a
 categories:
 - Assassin Equipment

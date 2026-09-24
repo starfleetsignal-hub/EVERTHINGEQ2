@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM -226580326 1070199349:Battlemage's Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

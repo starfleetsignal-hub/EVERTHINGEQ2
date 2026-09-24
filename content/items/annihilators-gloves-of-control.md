@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 791873391 -158363668:Annihilator's Gloves of Control\/a
 categories:
 - Assassin Equipment

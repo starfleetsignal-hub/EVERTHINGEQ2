@@ -20,7 +20,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Alacrity**'
+effect_name: Alacrity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Alacrity on caster.  Lasts for 18.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 17.3.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -605234642 1029478666:Ever Clenched Gauntlets\/a
 categories:
 - AE Autoattack Chance (Equipment)

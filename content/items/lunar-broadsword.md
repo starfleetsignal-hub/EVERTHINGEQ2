@@ -15,7 +15,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Slashing
   wtype: Great Sword
-effects: '**Holy Strike Glyph**'
+effect_name: Holy Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 904647171 -625014617:Lunar Broadsword\/a
 categories:
 - Berserker Equipment

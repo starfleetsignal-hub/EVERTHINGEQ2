@@ -17,7 +17,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Cloth Armor
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse timers of subjugation-based spells by 3%."
 categories:
 - Arcane Resistance (Equipment)
 - Cloth Armor (Equipment Type)

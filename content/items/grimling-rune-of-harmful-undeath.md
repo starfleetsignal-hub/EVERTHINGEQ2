@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Agony of Undeath**'
+effect_name: Agony of Undeath
+effects: "- Applies Agony of Undeath III when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 107,360 disease damage on target instantly and every second.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Agony of Undeath III is 30.0 seconds"
 item_link: \aITEM -1826015935 400432261:Grimling Rune of Harmful Undeath\/a
 categories:
 - Agony of Undeath (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   abmod: '+22'
-effects: '**Aura of Rhaondrilliis**'
+effect_name: Aura of Rhaondrilliis
+effects: "- Applies Aura of Rhaondrilliis when Activated.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - The casting time of Aura of Rhaondrilliis is 2.0 seconds and the reuse time of the spell is 3 minutes\n  - Requires 4592 Health to cast and 4592 Health every 5.0 seconds.\n  - Requires 575 Power to cast and 575 Power every 5.0 seconds."
 obtained_from: '[[The Cherished]]'
 item_link: \aITEM 1863486222 -2051109277:Rhaondrilliis\/a
 aliases:

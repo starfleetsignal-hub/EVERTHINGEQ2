@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +11,088
-effects: '**Seething Malevolence**'
+effect_name: Seething Malevolence
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Seething Malevolence on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 301,840 disease damage on target.\n    - Increases Crit Bonus of caster by 34.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -599950968 -872456947:Lanys' Malice\/a
 categories:
 - AE Autoattack Chance (Equipment)

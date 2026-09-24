@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dps: '9.7'
-effects: '**Footwound**'
+effect_name: Footwound
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Footwound on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.6 times per minute.\n    - Slows target by 40.0%.\n    - Only affects targets level 103 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 obtained_from: '[[Culling the Force]]'
 item_link: \aITEM 1413939995 -1054233344:Nax's Girdle of Acuity\/a
 categories:

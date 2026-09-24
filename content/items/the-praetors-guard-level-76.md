@@ -16,7 +16,8 @@ stats:
   abmod: '+89'
   multi: '5.9'
   dtype: Symbols
-effects: '**Praetor''s Strike**'
+effect_name: Praetor's Strike
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Praetor's Strike on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 396 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -842978413 622541615:The Praetor's Guard\/a
 categories:
 - Ability Modifier (Equipment)

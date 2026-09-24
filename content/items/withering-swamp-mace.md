@@ -20,7 +20,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Pay For Their Crime]]'
 item_link: \aITEM -1352356737 1860284992:Withering Swamp Mace\/a
 categories:

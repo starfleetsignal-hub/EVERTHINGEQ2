@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   dtype: Cloth Armor
-effects: '**Arcane Cunning**'
+effect_name: Arcane Cunning
+effects: "- When Equipped:\n  - Increases STA of caster by 50.0.\n  - Increases Subjugation and Disruption of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Cuffs of Impulse]] *Made from [[Tavalan Armor Shard]]'
 item_link: \aITEM -1521342223 -2080541879:Tempered Azure Cuffs of Impulse\/a
 categories:

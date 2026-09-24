@@ -21,7 +21,8 @@ stats:
   drating: '235.61'
   dtype: Off Hand Piercing
   wtype: Fists
-effects: '**Ethereal Retaliation**'
+effect_name: Ethereal Retaliation
+effects: "- When Equipped:\n  - On any combat or spell hit may grant Retaliation.  Retaliation will reflect the next attack over 10% of the casters health."
 item_link: \aITEM -518648157 -1222224956:Ironfist, the Breaker\/a
 categories:
 - Ability Modifier (Equipment)

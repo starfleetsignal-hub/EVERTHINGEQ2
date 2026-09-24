@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   vselemental: '+400'
-effects: '**Precise Strikes**'
+effect_name: Precise Strikes
+effects: "- Applies Precise Strikes when Activated.  Lasts for 16.0 seconds.\n  - Increases DPS of caster by 20.0.\n  - The casting time of Precise Strikes is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -476271058 811255992:Ancient Ceremonial Warhoops\/a
 categories:
 - Arcane Resistance (Equipment)

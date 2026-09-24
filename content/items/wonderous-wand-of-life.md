@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 0.38 seconds
   recast: 1 minute 3 seconds
-effects: Second Life
+effects: "- Applies Second Life when Activated.\n  - This spell can imbue life to some magically altered living dead."
 item_link: \aITEM -2048962957 -898843811:Wonderous Wand of Life\/a
 categories:
 - Assassin Equipment

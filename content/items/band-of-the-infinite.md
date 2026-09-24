@@ -18,7 +18,8 @@ stats:
   aspeed: '40.4'
   dps: '30.8'
   vselemental: +40,714
-effects: '**Illuminated Bonds**'
+effect_name: Illuminated Bonds
+effects: "- When Equipped:\n  - Converts the damage component of Scorched Earth into an encounter effect and adds a debuff that will increase all magic damage done to the target.\n  - Increases the duration of implosion by 2 seconds and number of damage ticks by 2.\n  - Telluric Rending will decrease Combat Mitigation.\n  - Adds a damage over time component to Virulent Outbreak."
 obtained_from: '[[Key to Curing the Spellpox]]'
 item_link: \aITEM -2026351585 -1101677021:Band of the Infinite\/a
 categories:

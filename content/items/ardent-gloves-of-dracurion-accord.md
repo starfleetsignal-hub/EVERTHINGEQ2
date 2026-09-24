@@ -17,7 +17,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -164787453 -1167487400:Ardent Gloves of Dracurion Accord\/a
 categories:
 - Assassin Equipment

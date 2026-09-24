@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Venomous Retribution**'
+effect_name: Venomous Retribution
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Venomous Retribution on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 67 - 112 poison damage on target every 3 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1922426044 -726888726:Serrated Sword of Retribution\/a
 categories:
 - Ability Modifier (Equipment)

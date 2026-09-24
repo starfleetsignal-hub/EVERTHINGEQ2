@@ -18,7 +18,8 @@ stats:
   abmod: +32,535
   aspeed: '72.2'
   vselemental: +87,497
-effects: '**Unquenched Power**'
+effect_name: Unquenched Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 550.0."
 item_link: \aITEM 1060177676 -336705587:Planar Mithril Leaf Earring\/a
 categories:
 - Ability Modifier (Equipment)

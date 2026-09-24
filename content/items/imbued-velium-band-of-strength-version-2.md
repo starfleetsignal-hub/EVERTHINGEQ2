@@ -11,7 +11,8 @@ stats:
   sta: '+8'
   agi: '+9'
   vselemental: '+45'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 7.2.\n    - Increases DPS of caster by 14.2.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1221401140 1302779406:Imbued Velium Band of Strength\/a
 categories:
 - Arcane Resistance (Equipment)

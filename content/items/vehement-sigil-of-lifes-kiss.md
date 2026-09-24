@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Kiss of Life**'
+effect_name: Kiss of Life
+effects: "- Applies Kiss of Life V when Activated.\n  - This effect can be cast while casting other abilities\n  - Instantly heals the group for 75,000. If the wearer is a priest, the group will be healed for 450,000.\n  - Cannot be modified except by direct means\n  - The reuse time of Kiss of Life V is 1 minute 30 seconds"
 item_link: \aITEM 1061840171 2010064892:Vehement Sigil of Life's Kiss\/a
 categories:
 - Ability Modifier (Equipment)

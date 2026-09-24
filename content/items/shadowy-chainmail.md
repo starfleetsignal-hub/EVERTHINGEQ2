@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   dps: '5.6'
   dtype: Chain Armor
-effects: '**Defiant Splash**'
+effect_name: Defiant Splash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Splash on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 561 - 685 heat damage on target.\n    - Inflicts 561 - 685 heat damage on target.\n    - Inflicts 561 - 685 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 433398757 139659903:Shadowy Chainmail\/a
 categories:
 - Assassin Equipment

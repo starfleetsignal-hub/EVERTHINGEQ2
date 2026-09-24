@@ -13,7 +13,8 @@ stats:
   sta: '+5'
   mit: '46'
   dtype: Leather Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Glorified Bracers of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 84215491 163424853:Glorified Bracers of Smiting\/a
 categories:

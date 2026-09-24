@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 1 minute
-effects: Totem of the Enduring Spirit
+effects: "- Applies Totem of the Enduring Spirit when activated. Lasts for 15 minutes.\n  - Grants Fish Vision  to caster\n  - Allows caster to breathe under water\n  - Allows caster to walk under water\n  - Only affects targets level 80 and above"
 obtained_from: Crafted by [[Woodworker]] (level 85) from [[Woodworker Essentials Volume 85]]
 item_link: \aITEM 1837899702 -664768518:[Totem of the Enduring Spirit]\/a
 categories:

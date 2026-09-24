@@ -20,7 +20,8 @@ stats:
   drating: '62.42'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mindsieve**'
+effect_name: Mindsieve
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Mindsieve VI on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 512 - 566 mental damage on target.\n    - Increases power of caster by 39.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Mindsieve VI on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 512 - 566 mental damage on target.\n    - Increases power of caster by 39.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 60) from [[Ancient Knowledge: Ominous Dagger of Agony]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 1585244229 528318470:Ominous Dagger of Agony\/a
 categories:

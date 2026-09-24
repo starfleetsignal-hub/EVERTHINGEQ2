@@ -15,7 +15,8 @@ stats:
   potency: '5.8'
   aspeed: '20.7'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: 'Heritage quest reward: [[A Thread of Hope]]'
 item_link: \aITEM 103412736 -1269860634:Flowing Black Robe\/a
 categories:

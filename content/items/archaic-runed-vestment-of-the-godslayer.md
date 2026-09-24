@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Cloth Armor
-effects: '**Stigmatic Frenzy**<br>**Torrent**'
+effect_name: Stigmatic Frenzy, Torrent
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Stigmatic Frenzy on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of group members (AE) by 6.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1296899094 397559109:Archaic Runed Vestment of the Godslayer\/a
 categories:
 - Ability Modifier (Equipment)

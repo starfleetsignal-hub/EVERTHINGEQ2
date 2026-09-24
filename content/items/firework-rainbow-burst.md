@@ -10,7 +10,7 @@ stats:
   charges: 10/10
   casting: 1.0 seconds
   recast: 2.0 seconds
-effects: Rainbow Burst
+effects: "- Applies Rainbow Burst when Activated.  Lasts for 3.0 seconds.\n  - Launches a firework when used."
 obtained_from: Given by a [[Guides of the Shattered Lands|Guide]] during a GM event
 item_link: '\aITEM 1869794557 -963726217:Firework: Rainbow Burst\/a'
 image: images/Firework_Rainbow_Burst.jpg

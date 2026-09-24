@@ -19,7 +19,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Cloth Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1428106631 -749153459:Monumental Pants, Relic of Old Velious\/a
 categories:
 - Census Credits

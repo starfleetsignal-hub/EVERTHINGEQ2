@@ -12,7 +12,8 @@ stats:
   agi: '+35'
   vsarcane: '+396'
   dtype: Round Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 177 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1989128455 226908342:Imbued Mahogany Round Shield\/a
 categories:
 - Arcane Resistance (Equipment)

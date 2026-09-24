@@ -14,7 +14,8 @@ stats:
   critbonus: '6.5'
   potency: '10.8'
   abmod: '+405'
-effects: '**Titan''s Fist**'
+effect_name: Titan's Fist
+effects: "- When Equipped:\n  - Increases STA and INT of caster by 25.0.\n  - Increases Potency of caster by 2.0.\n  - Increases Disruption and Subjugation of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of Impulse]] *Made from [[Lock of Siren Hair]] *Made from [[Shimmering Siren Scales]] *Made from [[Tavalan Tentacle]]'
 item_link: \aITEM 2083422172 -808728988:Tempered Azure Charm of Impulse\/a
 image: images/Tempered_Azure_Charm_of_Impulse.png

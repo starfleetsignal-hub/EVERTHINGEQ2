@@ -6,7 +6,8 @@ icon: images/Item_2713.png
 tier: Fabled
 level: '90'
 flags: lore-equip attunable heirloom no-value
-effects: '**Bladed Retribution**'
+effect_name: Bladed Retribution
+effects: "- Applies Bladed Retribution when Activated.  Lasts for 5.0 seconds.\n  - Temporarily increases the damage of your combat arts by 10%.\n  - Makes caster immune to Daze effects\n  - Must have Oft-stabbed Fallen Foe Trinket equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Bladed Retribution is 3 minutes"
 item_link: \aITEM -1024428387 -1199892042:Oft-stabbed Fallen Foe Trinket\/a
 categories:
 - Assassin Equipment

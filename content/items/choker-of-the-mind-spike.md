@@ -15,7 +15,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   dps: '20.3'
-effects: '**Hymn of Devastation**'
+effect_name: Hymn of Devastation
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Hymn of Devastation on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base damage of hostile spells cast by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -300860878 -611189648:Choker of the Mind Spike\/a
 categories:
 - Casting Speed (Equipment)

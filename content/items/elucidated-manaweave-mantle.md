@@ -17,7 +17,8 @@ stats:
   vselemental: '+664'
   vsnoxious: +1,162
   dtype: Cloth Armor
-effects: '**Empowered Magic**'
+effect_name: Empowered Magic
+effects: "- When Equipped:\n  - Increases base Spell damage by 8%."
 obtained_from: Crafted by [[Armorer]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] or Sold by [[A mysterious Quellthulian]] (Merchant) in [[Moors of Ykesha]]
 image: images/Elucidated_Manaweave_Mantle.jpg
 categories:

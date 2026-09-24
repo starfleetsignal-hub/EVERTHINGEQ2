@@ -19,7 +19,8 @@ stats:
   aspeed: '93.7'
   multi: '102.9'
   vselemental: +170,040
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1917383339 -1012520834:Signet of Peculiar Allies\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -19,7 +19,8 @@ stats:
   resolve: '660'
   dps: '81.6'
   dtype: Plate Armor
-effects: '**Immaculate Consumption**'
+effect_name: Immaculate Consumption
+effects: "- When Equipped:\n  - Increases Flurry Multiplier of target by 0.8.\n  - Increases Flurry of Target by 10.0.\n  - Increases Fervor of target by 14.5.\n  - Increases Fervor Overcap of target by 14.5.\n  - Increases Max Power of target by 61.7%.\n  - Increases Max Health of target by 61.7%.\n  - Increases Crit Bonus Overcap of target by 513.4.\n  - Reduces power cost of all spells and abilities by 10% while in a Rage of Cthurath Raid or Untold Dungeon zone.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1320360936 -480391015:Aveliur's Platemail Gauntlets of Influence\/a
 categories:
 - Berserker Equipment

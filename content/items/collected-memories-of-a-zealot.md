@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   abmod: '+152'
-effects: '**Divine Mastery**'
+effect_name: Divine Mastery
+effects: "- When Equipped:\n  - Increases the range and radius of spells by 10% and reduces casting time and power cost by 5%."
 item_link: \aITEM 1499474714 417398506:Collected Memories of a Zealot\/a
 categories:
 - Ability Modifier (Equipment)

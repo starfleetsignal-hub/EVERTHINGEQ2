@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Corruptive Shot**'
+effect_name: Corruptive Shot
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Corruptive Shot on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 141 - 235 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1247199535 -713467789:Longbow of Corruption\/a
 categories:
 - Ability Modifier (Equipment)

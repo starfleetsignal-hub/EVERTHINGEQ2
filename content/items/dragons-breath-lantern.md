@@ -15,7 +15,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   abmod: +1,250
-effects: '**Divine Breath**'
+effect_name: Divine Breath
+effects: "- Applies Divine Breath II when Activated.\n  - Dispels 109 levels of any hostile effects on group members (AE)\n  - This ability can be used while stifled\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Breath II is 57.0 seconds"
 item_link: \aITEM 1740002466 408674949:Dragon's Breath Lantern\/a
 aliases:
 - Dragon's Breath Lantern (0 Gem)

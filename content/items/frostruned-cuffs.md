@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM 223618730 232309842:Frostruned Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

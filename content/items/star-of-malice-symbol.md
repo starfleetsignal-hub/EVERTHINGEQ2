@@ -16,7 +16,8 @@ stats:
   aspeed: '6'
   multi: '6.8'
   dtype: Symbols
-effects: '**Angelic Entourage**'
+effect_name: Angelic Entourage
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Angelic Entourage on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Summons 3 Angelic Manifestations to heal and protect the caster's party."
 item_link: \aITEM 2007998423 1561213652:Star of Malice\/a
 categories:
 - Angelic Entourage (Equipment)

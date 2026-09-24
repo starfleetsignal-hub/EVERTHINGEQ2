@@ -16,7 +16,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 91 - 168 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1757940173 552510487:Imbued Strengthened Leather Satchel\/a
 categories:
 - Assassin Equipment

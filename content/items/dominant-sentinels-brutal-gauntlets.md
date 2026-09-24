@@ -16,7 +16,8 @@ stats:
   potency: '9.6'
   mitinc: '9.5'
   dtype: Plate Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 1888699473 -1270717541:Dominant Sentinel's Brutal Gauntlets\/a
 categories:
 - Berserker Equipment

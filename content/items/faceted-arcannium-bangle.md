@@ -15,7 +15,8 @@ stats:
   resolve: '1'
   aspeed: '34.5'
   vselemental: +29,243
-effects: '**Uplifting Criticals**'
+effect_name: Uplifting Criticals
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 90.0."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 603621762 -1933868873:Faceted Arcannium Bangle\/a
 categories:

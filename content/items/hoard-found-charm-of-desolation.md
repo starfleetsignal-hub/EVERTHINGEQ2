@@ -17,7 +17,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   mitinc: '78.1'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -310437209 965047079:Hoard Found Charm of Desolation\/a
 categories:
 - Assassin Equipment

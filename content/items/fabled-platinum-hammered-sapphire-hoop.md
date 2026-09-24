@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Virulent Wrath**'
+effect_name: Virulent Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Virulent Wrath II on target of attack.  Triggers about 2.0 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 143,374 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 726186481 1830071290:Fabled Platinum Hammered Sapphire Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

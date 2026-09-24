@@ -16,7 +16,8 @@ stats:
   multi: '33.4'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Uncanny Insight**'
+effect_name: Uncanny Insight
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 4.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -236226840 -1523490980:Blade-Turning Spaulders of Reflection\/a
 categories:
 - Berserker Equipment

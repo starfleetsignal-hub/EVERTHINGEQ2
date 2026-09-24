@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Intimidating Taunts**'
+effect_name: Intimidating Taunts
+effects: "- When Equipped:\n  - Primary single target and encounter taunts will reduce the target's Weapon Damage Bonus by 0.5% per increment, up to 6 increments."
 obtained_from: From [[Runic Ethertouched Necklace]]
 item_link: \aITEM 377216814 407399447:Dragoon's Choker\/a
 categories:

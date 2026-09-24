@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Serene Strike**'
+effect_name: Serene Strike
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Serene Strike on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 410 - 616 crushing damage on target.\n    - Increases Multi Attack of caster by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Broken Hand]]'
 item_link: \aITEM -1673602335 1704824004:The Hand of Serenity\/a
 categories:

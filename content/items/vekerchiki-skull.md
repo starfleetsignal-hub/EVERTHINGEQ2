@@ -18,7 +18,8 @@ stats:
   resolve: '70'
   aspeed: '75'
   flurry: '41.2'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 28.8.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 24.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1234851491 -1034258059:Vekerchiki Skull\/a
 categories:
 - Assassin Equipment

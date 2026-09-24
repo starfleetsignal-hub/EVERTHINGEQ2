@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Forth Zhoul
+effects: "- Applies **Call Forth Zhoul** when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 55%.\n  - Increases Melee, Ranged, Heal and Damage Spell Critical Chance by 3.0%"
 item_link: \aITEM 578963000 -534041415:[Zhoul]\/a
 categories:
 - Assassin Equipment

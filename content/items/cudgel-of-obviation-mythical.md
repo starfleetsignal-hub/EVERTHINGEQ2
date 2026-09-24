@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Mace
-effects: '**Tribal Rage**<br>**Spiritual Warding**<br>**Spirit Tap**'
+effect_name: Tribal Rage, Spiritual Warding, Spirit Tap
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell has a 12% chance to cast Tribal Rage on the group.  Lasts for 12.0 seconds.\n    - Increases DPS of group members (AE) by 15.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the power of wards by 30% of the mystic's wisdom.\n- Applies Spirit Tap when Activated.  Lasts for 30.0 seconds.\n  - Restores 10% of group members health and power every 0.5 seconds.\n  - The casting time of Spirit Tap is 2.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Awakening the Cudgel]]'
 item_link: \aITEM -305449863 -1749295877:Cudgel of Obviation\/a
 categories:

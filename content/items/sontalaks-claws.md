@@ -15,7 +15,8 @@ stats:
   critbonus: '24'
   potency: '24'
   mitinc: '6'
-effects: '**Last Stand**'
+effect_name: Last Stand
+effects: "- Applies Last Stand when Activated.  Lasts for 5.0 seconds.\n  - Reduces all damage done to caster by 75%.\n  - Consumes 75% of the caster's current health\n  - Cannot be modified except by direct means\n  - The reuse time of Last Stand is 3 minutes"
 item_link: \aITEM -459336089 -1840169157:Sontalak's Claws\/a
 categories:
 - AE Autoattack Chance (Equipment)

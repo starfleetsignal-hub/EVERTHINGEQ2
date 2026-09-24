@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: A beautiful Aniiji styled cloak.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (400 Daybreak Cash)
 item_link: \aITEM 255304878 -387255636:Drape of Aniiji\/a
 categories:

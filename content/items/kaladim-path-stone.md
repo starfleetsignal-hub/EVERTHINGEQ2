@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Memory of Kaladim**'
+effect_name: Memory of Kaladim
+effects: "- Applies Memory of Kaladim when Activated.  Lasts for 30.0 seconds.\n  - Heals caster for 6 instantly and every 5 seconds.\n  - The casting time of Memory of Kaladim is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[A Stone from Home]]'
 item_link: \aITEM 582035150 420285250:Kaladim Path Stone\/a
 categories:

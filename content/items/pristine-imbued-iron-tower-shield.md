@@ -10,7 +10,7 @@ stats:
   str: '+2'
   sta: '+2'
   dtype: Tower Shield
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 30 heat damage on target"
 obtained_from: Crafted by [[Outfitter]] (level 10) from [[Outfitters essentials volume 10]]
 item_link: \aITEM -132107341 561179538:Pristine Imbued Iron Tower Shield\/a
 categories:

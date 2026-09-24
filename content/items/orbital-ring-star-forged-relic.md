@@ -16,7 +16,8 @@ stats:
   potency: 49,030.8
   resolve: '630'
   vselemental: +418,973
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,458.3.\n  - Increases Crit Bonus of caster by 1,555.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -537874382 1097987710:Orbital Ring, Star Forged Relic\/a
 categories:
 - Arcane Resistance (Equipment)

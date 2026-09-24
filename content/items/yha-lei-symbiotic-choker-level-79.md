@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   abmod: '+92'
-effects: '**Mana Leak**'
+effect_name: Mana Leak
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Mana Leak on target of spell cast.  Triggers about 2.0 times per minute.\n    - Increases power of target by 337.\n    - Decreases power of caster by 306.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1166106249 773548188:Yha-lei Symbiotic Choker\/a
 image: images/Yha-lei_Symbiotic_Choker.png
 categories:

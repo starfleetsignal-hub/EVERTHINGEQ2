@@ -15,7 +15,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 57 - 95 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1390137437 -642181154:black bone dirk\/a
 categories:
 - Ancient Glyph of Venom (Equipment)

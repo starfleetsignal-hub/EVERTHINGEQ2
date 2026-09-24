@@ -11,7 +11,8 @@ stats:
   sta: '+57'
   int: '+67'
   abmod: '+105'
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -830063040 1335869201:Deathdealer Sash\/a
 categories:
 - Ability Modifier (Equipment)

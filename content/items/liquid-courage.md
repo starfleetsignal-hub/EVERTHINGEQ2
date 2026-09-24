@@ -11,7 +11,7 @@ stats:
   charges: 30/30
   casting: 4.0 seconds
   recast: 2.0 seconds
-effects: Liquid Courage
+effects: "- Applies Liquid Courage when Activated. Lasts for 15.0 seconds.\n  - Drink this to go streaking!"
 obtained_from: '[[Beers for Brell!]]'
 item_link: \aITEM -1918976084 197886559:Liquid Courage\/a
 categories:

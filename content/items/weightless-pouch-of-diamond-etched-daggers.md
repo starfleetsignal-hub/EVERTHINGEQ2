@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Followthrough**<br>**Diamond Etched Daggers**'
+effect_name: Followthrough, Diamond Etched Daggers
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means\n- Applies Diamond Etched Daggers when Activated.\n  - Summons 99 Diamond Etched Daggers\n  - Cannot be modified except by direct means\n  - The reuse time of Diamond Etched Daggers is 15 minutes"
 item_link: \aITEM 1044985137 715322778:Weightless Pouch of Diamond Etched Daggers\/a
 categories:
 - Assassin Equipment

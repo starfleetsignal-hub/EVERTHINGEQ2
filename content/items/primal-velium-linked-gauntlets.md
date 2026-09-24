@@ -17,7 +17,8 @@ stats:
   dps: '33.2'
   multi: '21.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -495221835 -169278402 0 0 0:Primal Velium Linked Gauntlets\/a
 categories:
 - Assassin Equipment

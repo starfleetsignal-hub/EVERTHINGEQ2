@@ -18,7 +18,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1099350791 1464876592:Talon Scar Barbute of Desolation\/a
 categories:
 - Berserker Equipment

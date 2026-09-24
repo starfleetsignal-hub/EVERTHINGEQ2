@@ -18,7 +18,8 @@ stats:
   drating: '104.35'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Ethereal Blessing**'
+effect_name: Ethereal Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Ethereal Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 125\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 87) from [[Weaponsmith Essentials Volume 87]]
 item_link: \aITEM -1457994053 695149553:Blessed Titanium Great Sword\/a
 categories:

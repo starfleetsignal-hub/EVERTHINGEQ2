@@ -15,7 +15,8 @@ stats:
   potency: '8.2'
   dps: '18.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 364379830 353137498:Harbinger's Immortal Manchette\/a
 categories:
 - Census Credits

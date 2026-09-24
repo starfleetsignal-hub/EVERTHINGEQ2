@@ -16,7 +16,8 @@ stats:
   potency: '8.2'
   multi: '13'
   flurry: '5.6'
-effects: '**Spectral Infusion**'
+effect_name: Spectral Infusion
+effects: "- Applies Spectral Infusion when Activated.  Lasts for 20.0 seconds.\n  - Shapechanges caster into a Spectre\n  - On a critical combat hit this spell will cast Spectral Infusion on target of attack.\n    - Inflicts 1,338 magic damage on target.\n    - Heals caster for 583.\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell will cast Spectral Infusion on target of spell.\n    - Inflicts 1,338 magic damage on target.\n    - Heals caster for 583.\n    - Cannot be modified except by direct means\n  - The reuse time of Spectral Infusion is 20 minutes"
 item_link: \aITEM -122557789 -1669147434:Leather Binding Strap\/a
 categories:
 - Assassin Equipment

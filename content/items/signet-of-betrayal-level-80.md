@@ -16,7 +16,8 @@ stats:
   dps: '11'
   multi: '6.8'
   vselemental: '+360'
-effects: '**Dire Consequences**'
+effect_name: Dire Consequences
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dire Consequences on target of attack.  Triggers about 2.0 times per minute.\n    - Has a chance to betray the wearer by calling unwanted attention to itself.\n    - Decreases Threat to target by 3,125\n      - Must be at the top of the hate list of your current target.\n    - Increases Threat to target by 2,665\n      - Must be not at the top of the hate list of your current target.\n    - Inflicts 1,080 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1293663139 688090205:Signet of Betrayal\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 3.0.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Outfitter]] (level 15) from [[Outfitters essentials volume 15 (Normal)]] *Crafted by [[Outfitter]] (level 15) from [[Outfitters Essentials Volume 15 (no-trade)]]'
 item_link: \aITEM 1117111395 1379127970:pristine discord imbued burlap hex doll\/a
 image: images/Pristine_discord_imbued_burlap_hex_doll.png

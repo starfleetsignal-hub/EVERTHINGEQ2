@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   mitinc: '3.7'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM -1357543665 -1365326063:Pendant of the Trapped Spirit\/a
 categories:
 - Assassin Equipment

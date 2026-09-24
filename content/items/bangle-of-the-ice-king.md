@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   multi: '1.3'
   vsarcane: '+200'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -1751373046 -1404060128:Bangle of the Ice King\/a
 categories:
 - Arcane Resistance (Equipment)

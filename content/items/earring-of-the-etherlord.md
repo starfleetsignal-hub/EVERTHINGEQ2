@@ -18,7 +18,8 @@ stats:
   aspeed: '42'
   dps: '32'
   vselemental: +47,952
-effects: '**Ascended Etherealist**'
+effect_name: Ascended Etherealist
+effects: "- When Equipped:\n  - Reduces the cast time of all Etherealist abilities up to level 10 by 10%.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Master Etherealist]]'
 item_link: \aITEM 826350197 -1645520431:Earring of the Etherlord\/a
 image: images/Earring_of_the_Etherlord.png

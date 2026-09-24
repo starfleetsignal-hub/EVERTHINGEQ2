@@ -13,7 +13,7 @@ stats:
   charges: Unlimited
   casting: 3.0 seconds
   recast: 20.0 seconds
-effects: Fist of Pestilence
+effects: "- Applies Fist of Pestilence when Activated.  Lasts for 1 hour.\n  - If target is a challenge."
 obtained_from: 'Given by and used for quests: [[Bring on the Blight]] and [[Crusade of Infection]]'
 image: images/Fist_of_Pestilence.jpg
 categories:

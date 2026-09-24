@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '13'
   vselemental: '+880'
-effects: '**Blood Symphony**'
+effect_name: Blood Symphony
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Blood Symphony on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,620 poison damage on target\n    - Heals caster for 1,296\n    - When any damage is received this spell has a 10% chance to cast Blood Symphony on target's attacker.  This effect normalizes based off of a three second triggering event.\n      - Heals target for 1,200.\n        - This effect cannot be critically applied.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2014317121 -1144399735:Bangle of the Blood Symphony\/a
 categories:
 - Arcane Resistance (Equipment)

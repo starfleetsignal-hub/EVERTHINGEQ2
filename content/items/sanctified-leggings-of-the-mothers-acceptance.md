@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   dtype: Chain Armor
-effects: '**Steady Pulse**<br>**Cogent**'
+effect_name: Steady Pulse, Cogent
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Steady Pulse IV on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 2,370 - 2,620 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -698397876 -272874732:Sanctified Leggings of the Mother's Acceptance\/a
 categories:
 - Assassin Equipment

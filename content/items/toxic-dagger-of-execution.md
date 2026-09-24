@@ -16,7 +16,8 @@ stats:
   drating: '9.73'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Infected Strike**'
+effect_name: Infected Strike
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Infected Strike on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 11 - 13 disease damage on target instantly and every 2 seconds.\n    - Decreases AGI, INT, STR and WIS of target by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Infected Strike on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 11 - 13 disease damage on target instantly and every 2 seconds.\n    - Decreases AGI, INT, STR and WIS of target by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Toxic Dagger of Execution]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 402424831 -462456191:Toxic Dagger of Execution\/a
 categories:

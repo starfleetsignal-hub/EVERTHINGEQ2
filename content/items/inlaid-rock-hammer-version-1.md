@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Sparkling Strike**'
+effect_name: Sparkling Strike
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Sparkling Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 239 magic damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: Drops off [[The Segmented Rumbler]] in [[The Emerald Halls]]
 item_link: \aITEM 265540336 915013905:Inlaid Rock Hammer\/a
 image: images/Inlaid_Rock_Hammer.jpg

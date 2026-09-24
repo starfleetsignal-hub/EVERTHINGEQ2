@@ -16,7 +16,8 @@ stats:
   potency: '9.6'
   abmod: '+336'
   dtype: Plate Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 521338551 1616041885:Celestial Curate's Sovereign Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

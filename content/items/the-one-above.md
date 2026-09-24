@@ -20,7 +20,8 @@ stats:
   drating: '235.61'
   dtype: Main Hand Piercing
   wtype: Dagger
-effects: '**Ethereal Expertise**'
+effect_name: Ethereal Expertise
+effects: "- When Equipped:\n  - On any combat or spell hit may trigger Ethereal Expertise on the Group, causing the next hostile spell to trigger twice."
 item_link: \aITEM -1878295019 637272934:The One Above\/a
 categories:
 - Ability Modifier (Equipment)

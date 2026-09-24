@@ -15,7 +15,8 @@ stats:
   potency: '12'
   multi: '4'
   dtype: Plate Armor
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 134\n    - Increases power of caster by 89\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of Bhaast]] (Battlegrounds Merchant) in [[Frostfang Sea]] on Erollis Dock at {{waypoint -349.92, 30.30, 239.44}} for 1p 20g 45 Klak'Anon Cog and 45 Smuggler's Den Special Reserve Rum
 item_link: \aITEM -31102321 -307656774:Challenger's Dreadnaught Shoulderplates\/a
 categories:

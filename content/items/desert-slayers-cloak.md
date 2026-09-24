@@ -14,7 +14,8 @@ stats:
   crit: '1.4'
   critbonus: '0.4'
   potency: '1.9'
-effects: '**Will of the Discordian Lords**'
+effect_name: Will of the Discordian Lords
+effects: "- Applies Will of the Discordian Lords when Activated.  Lasts for 12.0 seconds.\n  - Dispels 1000 levels of hostile Fear, hostile Daze, hostile Stifle, hostile Stun and hostile Root effects on caster\n  - Makes caster immune to Root effects\n  - Makes caster immune to Fear effects\n  - Makes caster immune to Daze effects\n  - Makes caster immune to Stun effects\n  - Makes caster immune to Stifle effects\n  - Cannot be modified except by direct means\n  - The casting time of Will of the Discordian Lords is 0.2 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM 224322216 97454067:Desert Slayer's Cloak\/a
 categories:
 - Assassin Equipment

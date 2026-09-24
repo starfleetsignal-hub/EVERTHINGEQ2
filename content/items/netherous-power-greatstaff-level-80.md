@@ -20,7 +20,8 @@ stats:
   drating: '128.52'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Complicated Destruction]]'
 item_link: \aITEM 776141410 -1337754818:Netherous Power Greatstaff\/a
 categories:

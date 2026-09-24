@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +19,032
-effects: '**Spectral Protection**'
+effect_name: Spectral Protection
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Spectral Protection II on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 193,600 mental damage on target.\n    - Increases Mitigation of caster vs physical damage by 1,333.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 459072402 -1629431480:Ring of the Spectral Miscreant\/a
 categories:
 - Ability Modifier (Equipment)

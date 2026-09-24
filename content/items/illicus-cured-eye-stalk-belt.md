@@ -18,7 +18,8 @@ stats:
   critbonus: 1,372.3
   potency: 50,255.4
   resolve: '640'
-effects: '**Ocular Focus**'
+effect_name: Ocular Focus
+effects: "- When Equipped:\n  - Increases Flurry Multiplier of caster by 0.8.\n  - Increases Potency of caster by 14,516.3.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1318546697 980189620:Illicus' Cured Eye-Stalk Belt\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   vselemental: '+320'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 133.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1074161385 1782428725:Siphoning Sapphire Earring\/a
 categories:
 - AE Autoattack Chance (Equipment)

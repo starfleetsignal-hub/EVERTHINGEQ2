@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Round Shield
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 15.8.\n  - This effect suspends during combat"
 item_link: \aITEM 489968105 -1434820039:Shadowy Scale Round Shield\/a
 categories:
 - Assassin Equipment

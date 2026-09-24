@@ -16,7 +16,8 @@ stats:
   abmod: +1,686
   aspeed: '19'
   vselemental: +35,154
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 item_link: \aITEM -1422741908 -685611664:Ancient Powerful Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

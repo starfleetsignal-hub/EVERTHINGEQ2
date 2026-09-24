@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Plate Armor
-effects: '**Holy Smite**'
+effect_name: Holy Smite
+effects: "- When Equipped:\n  - Increases divine damage done by spells by up to 5."
 obtained_from: No longer obtainable
 item_link: \aITEM -2142793395 157379796:Sanctified Bathezid Shoulderplates\/a
 categories:

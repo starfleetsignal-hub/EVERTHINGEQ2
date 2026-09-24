@@ -20,7 +20,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Frost Gale**'
+effect_name: Frost Gale
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frost Gale on target of attack.  Lasts for 0.3 seconds.  Triggers about 2.0 times per minute.\n    - Throws target back\n    - Inflicts 166 - 277 cold damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1953940950 1564842755:Slayer's Frost Forged Sai\/a
 categories:
 - Assassin Equipment

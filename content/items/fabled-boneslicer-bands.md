@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Flow Break**'
+effect_name: Flow Break
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Flow Break II on target.  Lasts for 24.0 seconds.  Triggers about 2.0 times per minute.\n    - Dispels when the wearer uses a healing spell\n    - Increases the value of heals and wards by 11%-231% based on increments. Increments up to 6 times, if at 1 increment.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1875317755 -1184480971:Fabled Boneslicer Bands\/a
 categories:
 - Ability Modifier (Equipment)

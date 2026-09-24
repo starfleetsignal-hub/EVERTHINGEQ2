@@ -20,7 +20,8 @@ stats:
   drating: '50.41'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Master Wu''s Smite**'
+effect_name: Master Wu's Smite
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Master Wu's Smite on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 153 divine damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Lock and Key]]'
 item_link: \aITEM 1979861428 -1121917844:Master Wu's Meditation Stick\/a
 image: images/Master_Wu's_Meditation_Stick.gif

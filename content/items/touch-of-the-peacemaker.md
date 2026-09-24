@@ -7,7 +7,7 @@ flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   duration: Instant
   charges: 1/1
-effects: Touch of the Peacemaker
+effects: "- Applies **Touch of the Tranquil** when Activated.\n  - Heals caster for 100% of max health\n  - Must be in Deathfist Citadel: Prison Break."
 obtained_from: 'Quest: [[Peaceful Prison Break]]'
 image: images/Touch_of_the_peacemaker.gif
 removed_from_game: Part of the [[Return of the Gods Timeline]]

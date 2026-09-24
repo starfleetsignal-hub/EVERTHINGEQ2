@@ -16,7 +16,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: +1,395
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1679846038 -781517808:Frozen Dragonbone Ring of Punishment\/a
 categories:
 - AE Autoattack Chance (Equipment)

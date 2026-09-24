@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+4'
   int: '+4'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 163.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Tailor]] (level 1?) from [[Advanced Tailor Volume 1?]]
 item_link: \aITEM 380131287 -7461306:chaos imbued roughspun hex doll\/a
 categories:

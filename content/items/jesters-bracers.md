@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Jester''s Retort**'
+effect_name: Jester's Retort
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Jester's Retort on target's attacker.\n    - Inflicts 285 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1653472024 1572014830:Jester's Bracers\/a
 categories:
 - Ability Modifier (Equipment)

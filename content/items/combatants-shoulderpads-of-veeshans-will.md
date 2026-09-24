@@ -17,7 +17,8 @@ stats:
   multi: '17'
   mitinc: '10.9'
   dtype: Leather Armor
-effects: '**Uncanny Insight**<br>**Hurried Strikes**'
+effect_name: Uncanny Insight, Hurried Strikes
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Strikethrough of caster by 5.0%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1997230324 535104300:Combatant's Shoulderpads of Veeshan's Will\/a
 categories:
 - Assassin Equipment

@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   dps: '165.2'
   dtype: Cloth Armor
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 obtained_from: From [[Satchel of Saryrn]]
 item_link: \aITEM 1780467195 -1986909018:Exemplar Arcanna Cuffs\/a
 categories:

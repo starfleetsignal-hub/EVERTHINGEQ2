@@ -17,7 +17,8 @@ stats:
   abmod: +1,670
   aspeed: '37.7'
   dps: '14.4'
-effects: '**Pact of Constitution**'
+effect_name: Pact of Constitution
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 7 and health by 3,000 for each member of their group or raid."
 item_link: \aITEM -722717875 863997666:Mindwarper Eyeball Necklace\/a
 categories:
 - Ability Modifier (Equipment)

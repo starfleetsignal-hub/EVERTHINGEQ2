@@ -14,7 +14,8 @@ stats:
   critbonus: '13.5'
   potency: '13.5'
   multi: '84.4'
-effects: '**Gen''ra''s Resolve**'
+effect_name: Gen'ra's Resolve
+effects: "- When Equipped:\n  - Increases WIS, INT and STA of caster by 160.0.\n  - Increases Potency of caster by 6.0.\n  - Increases Ability Mod of caster by 1,000.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 635787756 -1944715901 0 0 0:Swallowed Helmsman's Compass Needle\/a
 categories:
 - Casting Speed (Equipment)

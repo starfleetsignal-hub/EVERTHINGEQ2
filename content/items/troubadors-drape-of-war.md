@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   dps: '33.2'
   multi: '21.6'
-effects: '**Uplifting Sonata**'
+effect_name: Uplifting Sonata
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Uplifting Sonata on target.  Lasts for 6.0 seconds.  Triggers about 2.4 times per minute.\n    - Prevents group members (AE) from being Interrupted due to movement\n    - Cannot be modified except by direct means\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -2145734019 986978742:Troubador's Drape of War\/a
 categories:

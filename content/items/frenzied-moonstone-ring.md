@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   vselemental: '+400'
-effects: '**Deadly Strikes**'
+effect_name: Deadly Strikes
+effects: "- Applies Deadly Strikes when Activated.  Lasts for 45.0 seconds.\n  - Increases DPS of caster by 30.0.\n  - The casting time of Deadly Strikes is 0.5 seconds and the reuse time of the spell is 6 minutes"
 item_link: \aITEM -1960398312 -222878861:Frenzied Moonstone Ring\/a
 categories:
 - Arcane Resistance (Equipment)

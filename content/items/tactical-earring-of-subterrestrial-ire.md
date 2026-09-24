@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Tactical Superiority**'
+effect_name: Tactical Superiority
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tactical Superiority II on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Potency of target by 18.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -618718036 1903926487:Tactical Earring of Subterrestrial Ire\/a
 categories:
 - Arcane Resistance (Equipment)

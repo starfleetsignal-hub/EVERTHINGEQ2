@@ -10,7 +10,8 @@ flags: attunable heirloom no-value
 stats:
   sta: '+2'
   wis: '+2'
-effects: '**Aqua Vision**<br>**Featherfall**'
+effect_name: Aqua Vision, Featherfall
+effects: "- Applies Aqua Vision when Activated.  Lasts for 2 minutes 6 seconds.\n  - Grants Fish Vision to caster\n  - The reuse time of Aqua Vision is 2.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '[[Back in Fashion]]'
 item_link: \aITEM -318740598 225024095:Cloak of Crystal Shards\/a
 categories:

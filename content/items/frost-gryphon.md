@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Frost Gryphon
+effects: "- Applies Call Frost Gryphon when Activated.\n  - Summons a flying mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%"
 obtained_from: Complete [[Dream Weaving]] then the 5 daily training quests
 item_link: \aITEM -399470150 1879036192:Frost Gryphon\/a
 image: images/Frost_Gryphon.jpg

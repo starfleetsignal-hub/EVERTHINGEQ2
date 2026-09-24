@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**Breach**'
+effect_name: Breach
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 6.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 781389104 -2049724864:Caella's Pearlescent Earring\/a
 categories:
 - Ability Modifier (Equipment)

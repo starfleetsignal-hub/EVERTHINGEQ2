@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   int: '+2'
-effects: '**Lucan''s Favor**'
+effect_name: Lucan's Favor
+effects: "- Applies Lucan's Favor when Activated.  Lasts for 30.0 seconds.\n  - Heals caster for 5 instantly and every 5 seconds.\n  - The casting time of Lucan's Favor is 1.0 second and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 417515382 923806137:Lucanic Signet\/a
 categories:
 - Assassin Equipment

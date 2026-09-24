@@ -11,7 +11,8 @@ stats:
   sta: '+14'
   agi: '+14'
   potency: '0.2'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 1911201998 -35081690:Glimmering Hoop\/a
 categories:
 - Assassin Equipment

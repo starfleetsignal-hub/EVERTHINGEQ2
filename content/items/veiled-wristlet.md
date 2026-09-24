@@ -16,7 +16,8 @@ stats:
   abmod: '+835'
   dps: '28.8'
   vselemental: +33,491
-effects: '**Uplifting Criticals**'
+effect_name: Uplifting Criticals
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 90.0."
 item_link: \aITEM 1632277481 211685480:Veiled Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

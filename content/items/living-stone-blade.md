@@ -19,7 +19,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Lifeless Touch**'
+effect_name: Lifeless Touch
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lifeless Touch on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 92 - 137.\n    - Inflicts 184 - 276 magic damage on target.\n    - Heals caster for 205 - 251.\n    - Increases power of caster by 102 - 125.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -939420147 410477203:Living Stone Blade\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '13'
-effects: '**Funeral Pyre**'
+effect_name: Funeral Pyre
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Funeral Pyre on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 488 - 814 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 1,997.\n    - Cannot be modified except by direct means\n    - Will trigger off of poison, mental, magic, heat, divine, disease or cold abilities."
 item_link: \aITEM -813627010 -451705217:Moldered Flesh Wrap\/a
 categories:
 - Casting Speed (Equipment)

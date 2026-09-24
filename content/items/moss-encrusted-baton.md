@@ -21,7 +21,8 @@ stats:
   drating: '149.27'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**No Quarter**'
+effect_name: No Quarter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast No Quarter I on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AE Autoattack of Caster by 36.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1529898915 -130470361 0 0 0:Moss Encrusted Baton\/a
 categories:
 - Beastlord Equipment

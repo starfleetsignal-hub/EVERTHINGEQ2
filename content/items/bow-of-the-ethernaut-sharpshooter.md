@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Fury of the Void Walkers**'
+effect_name: Fury of the Void Walkers
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Fury of the Void Walkers on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 999 slashing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: Made from [[Relics of the Shadow Odyssey]] from the [[The Shadow Odyssey Timeline]]
 item_link: \aITEM -769828585 -608489148:Bow of the Ethernaut Sharpshooter\/a
 categories:

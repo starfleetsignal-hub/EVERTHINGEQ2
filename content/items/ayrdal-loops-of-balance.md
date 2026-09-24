@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Path of Balance**'
+effect_name: Path of Balance
+effects: "- Applies Path of Balance when Equipped.\n  - Increases STR, STA, AGI, INT and WIS of caster by 0.8."
 item_link: \aITEM -16417899 1832572872:Ayr'Dal Loops of Balance\/a
 categories:
 - Assassin Equipment

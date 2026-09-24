@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   aspeed: '4'
   vsarcane: '+595'
-effects: '**Minor Aggravation**'
+effect_name: Minor Aggravation
+effects: "- When Equipped:\n  - On a hit this spell may cast Minor Aggravation on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 393\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1571327132 -1935704025 0 0 0:King's Tear\/a
 categories:
 - Arcane Resistance (Equipment)

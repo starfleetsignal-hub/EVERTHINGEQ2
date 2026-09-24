@@ -13,7 +13,8 @@ stats:
   drating: '3.81'
   dtype: Two-Handed Magic Affinity
   wtype: Magic Affinity
-effects: '**Wand of Surprises**'
+effect_name: Wand of Surprises
+effects: "- Applies Wand of Surprises when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into a clawed creature\n  - The casting time of Wand of Surprises is 1.0 second and the reuse time of the spell is 3.0 seconds"
 obtained_from: Marketplace (200 Daybreak Cash)
 item_link: \aITEM 815949879 -1368728206:Clawed Wand of Surprises\/a
 categories:

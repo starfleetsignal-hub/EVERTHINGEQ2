@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   aspeed: '5.1'
   dps: '9.7'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 361.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1088872273 -1803403979:Cloak of the Traitor's Grace\/a
 categories:
 - Assassin Equipment

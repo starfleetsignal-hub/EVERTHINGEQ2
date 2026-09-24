@@ -17,7 +17,8 @@ stats:
   abmod: '+62'
   flurry: '2.1'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1195751598 -469256816:Amygdalan Plate Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '16.25'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Lightning Shock**'
+effect_name: Lightning Shock
+effects: "- Applies Lightning Shock when Activated.\n  - Inflicts 97 - 162 magic damage on target.\n  - The casting time of Lightning Shock is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -862777584 2115826917:Shaped Magic Imbued Fir Wand\/a
 categories:
 - Berserker Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '7'
   dtype: Tower Shield
-effects: '**Ferocious Presence**'
+effect_name: Ferocious Presence
+effects: "- When Equipped:\n  - Stormbringer Bulwark of the Unstoppable must be equipped to maintain Ferocious Presence.\n- Applies Ferocious Presence when Activated.  Lasts for 15 minutes.\n  - Transfers 10% of group members (AE)'s current Threat to the caster\n  - The casting time of Ferocious Presence is 1.0 second and the reuse time of the spell is 10.0 seconds"
 item_link: \aITEM -1618619253 -1365649098:Stormbringer Bulwark of the Unstoppable\/a
 categories:
 - Attack Speed (Equipment)

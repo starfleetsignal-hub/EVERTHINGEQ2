@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   dtype: Buckler
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM 146844093 1520983973:Buckler of the Douser\/a
 categories:
 - Benevolent Alacrity (Equipment)

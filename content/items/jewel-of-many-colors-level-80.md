@@ -16,7 +16,8 @@ stats:
   aspeed: '7.6'
   dps: '13.4'
   vselemental: '+880'
-effects: '**Darkened Hues**'
+effect_name: Darkened Hues
+effects: "- When Equipped:\n  - On a hit this spell may cast Darkened Hues on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 216 instantly and every 4 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1337398515 -1389467974:Jewel of Many Colors\/a
 image: images/Jewel_of_Many_Colors.jpg
 categories:

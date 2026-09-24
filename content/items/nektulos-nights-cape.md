@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: One never knows what dangers may be lurking within the depths of Nektulos forest. Stay stylish, warm, and inconspicuous in the dark!
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 1029200704 -134353692:Nektulos Nights Cape\/a
 categories:

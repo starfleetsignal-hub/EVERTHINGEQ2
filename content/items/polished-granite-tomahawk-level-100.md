@@ -23,7 +23,8 @@ stats:
   drating: '229.23'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Might of the Land**'
+effect_name: Might of the Land
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Might of the Land on caster.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster against 870 points of all damage\n    - Increases power of caster by 458.\n    - Increases STR, AGI, INT and WIS of caster by 30.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 590737983 876212148:Polished Granite Tomahawk\/a
 categories:
 - Ability Modifier (Equipment)

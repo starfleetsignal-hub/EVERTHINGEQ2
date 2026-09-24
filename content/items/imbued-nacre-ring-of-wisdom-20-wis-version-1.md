@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   dps: '2.2'
   vselemental: '+150'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 13.5.\n    - Increases Ordination, Ministration and Focus of caster by 7.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1851461298 -1614484746:Imbued Nacre Ring of Wisdom\/a
 categories:
 - Arcane Resistance (Equipment)

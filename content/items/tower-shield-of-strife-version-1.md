@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   dtype: Tower Shield
-effects: '**Infuriation**'
+effect_name: Infuriation
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 10% chance to cast Infuriation on target of combat art.\n    - Increases Threat to target by 481\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1558454771 1441823866:Tower Shield of Strife\/a
 image: images/Tower_Shield_of_Strife.png
 categories:

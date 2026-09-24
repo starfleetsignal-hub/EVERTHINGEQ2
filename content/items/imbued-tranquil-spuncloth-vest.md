@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   abmod: '+74'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 60 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 87) from [[Tailor Essentials Volume 87]]
 item_link: \aITEM 2041551611 -747625012:Imbued Tranquil Spuncloth Vest\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   potency: '8.8'
   multi: '14.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[Category:The Three Generals|The Three Generals]] in [[Tallon's Stronghold]]
 item_link: \aITEM 881902877 -2104074630:Sublime Cuffs of the Maestro\/a
 categories:

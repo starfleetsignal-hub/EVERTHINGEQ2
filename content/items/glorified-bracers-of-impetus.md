@@ -14,7 +14,8 @@ stats:
   mit: '161'
   potency: '0.2'
   dtype: Leather Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 40) from [[Ancient Knowledge: Glorified Bracers of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 467026909 -397114600:Glorified Bracers of Impetus\/a
 categories:

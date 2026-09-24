@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Essence Drain**'
+effect_name: Essence Drain
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Essence Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 972 - 1,188 piercing damage on target\n    - Heals caster for 647 - 791\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1808407074 1364125776:Enchanted Dagger of the Warmaster\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: 39,962.1
   resolve: '510'
   abmod: +3137,871
-effects: '**Sovereign Execution**'
+effect_name: Sovereign Execution
+effects: "- Applies Sovereign Execution when Equipped.\n  - When looted, this item will grant a character flag that contributes to the Ballads of Zimara: Flawless Execution effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1723148176 1892384574:Sovereign Sigil of Power\/a
 categories:
 - Ability Modifier (Equipment)

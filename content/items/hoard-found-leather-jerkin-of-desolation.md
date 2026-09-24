@@ -19,7 +19,8 @@ stats:
   resolve: '525'
   mitinc: '92'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1997645739 1745572386:Hoard Found Leather Jerkin of Desolation\/a
 categories:
 - Brawler Equipment

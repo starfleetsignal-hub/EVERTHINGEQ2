@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 obtained_from: '[[Killing in the Name]]'
 item_link: \aITEM -1016344876 -1399529638:Wrap of the Combine\/a
 categories:

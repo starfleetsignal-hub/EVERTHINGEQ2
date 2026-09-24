@@ -18,7 +18,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2084040459 1772507554:Netherforge Plate Barbute of Ineffable Color\/a
 categories:
 - Berserker Equipment

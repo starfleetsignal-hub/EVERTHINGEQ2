@@ -16,7 +16,8 @@ stats:
   potency: '6'
   abmod: '+179'
   dtype: Symbols
-effects: '**Runic Absorption**'
+effect_name: Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Absorption on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 1,000 points of all damage\n    - This effect stacks with the Runic Deflection line.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 86) from [[Advanced Jeweler Volume 86 (Heirloom)]] *Crafted by [[Jeweler]] (level 86) from [[Advanced Jeweler Volume 86 (Normal)]]'
 item_link: \aITEM -485397109 -1698554906:Brellium Tablet\/a
 categories:

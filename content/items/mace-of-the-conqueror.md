@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1934050482 -1361816402:Mace of the Conqueror\/a
 categories:
 - Beastlord Equipment

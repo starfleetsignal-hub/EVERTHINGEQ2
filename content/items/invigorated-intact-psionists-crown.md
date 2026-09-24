@@ -18,7 +18,8 @@ stats:
   resolve: '6'
   mitinc: '11.3'
   dtype: Cloth Armor
-effects: '**Psionic Aura**'
+effect_name: Psionic Aura
+effects: "- Applies Psionic Aura when Equipped.\n  - The Intact Psionist Helm emits an aura which allows the wearer to present themselves as a psionist."
 obtained_from: '*Crafted by [[Artisan]] (level 100) from [[Crowning Achievements of the Deepforge Founders]] *Crafted by [[Artisan]] (level 100) from [[Crowning Achievements of the Deepforge Founders]]'
 item_link: \aITEM -1133987794 -1855594322:Invigorated Intact Psionist's Crown\/a
 categories:

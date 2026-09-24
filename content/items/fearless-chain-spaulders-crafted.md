@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Chain Armor
-effects: '**Empowered Arts**'
+effect_name: Empowered Arts
+effects: "- When Equipped:\n  - Increases base Combat Art damage by 5%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 2038353584 -910588689 0 0 0:Fearless Chain Spaulders\/a
 categories:

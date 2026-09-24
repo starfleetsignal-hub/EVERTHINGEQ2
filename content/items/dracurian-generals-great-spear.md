@@ -19,7 +19,9 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Soothing Sigil**<br>**Restorative Counter**'
+effect_name: Soothing Sigil, Restorative Counter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil IV on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 221 levels of any hostile effects on target\n    - Heals target for 5,664 - 6,260.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Restorative Counter IV on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Restorative Counter IV on target.\n      - Heals target for 1,840.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not\
+  \ be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1380672121 -1181833269:Dracurian General's Great Spear\/a
 categories:
 - Beastlord Equipment

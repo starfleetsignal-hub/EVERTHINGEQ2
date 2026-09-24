@@ -15,7 +15,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Tormenting Strike Glyph**'
+effect_name: Tormenting Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 37 - 46 disease damage on target.\n    - Inflicts 35 - 43 disease damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Drops off [[N'Kzak the Unnatural]]
 item_link: \aITEM -1038486613 832546037:Pulsing Claymore of Control\/a
 categories:

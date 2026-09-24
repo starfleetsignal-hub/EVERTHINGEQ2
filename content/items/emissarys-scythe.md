@@ -18,7 +18,8 @@ stats:
   drating: '77.14'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -1059672684 -1625058024:Emissary's Scythe\/a
 categories:
 - Berserker Equipment

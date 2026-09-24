@@ -17,7 +17,7 @@ stats:
   vselemental: '+205'
   vsarcane: '+205'
   vsnoxious: '+205'
-effects: Mana Leak
+effects: "- When Equipped:\n  - When target casts a healing spell this spell has a chance to cast Mana leak on target of spell cast.  This effecdt will trigger an average of 2.2 times per minute.\n    - Increases power of target by 336\n    - Decreases power of caster by 320"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM -1622790980 -1557696514:Druidic Drape\/a
 image: images/Druidic_drape.JPG

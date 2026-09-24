@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Frenzied Glyph**'
+effect_name: Frenzied Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frenzied Glyph on caster.  Lasts for 20.0 seconds.  Triggers about 0.4 times per minute.\n    - Increases Haste of target by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -344914915 696888798:The Forgotten Blade of the Ancients\/a
 categories:
 - Assassin Equipment

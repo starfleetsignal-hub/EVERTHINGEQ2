@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Sagittus Solis**'
+effect_name: Sagittus Solis
+effects: "- Applies Sagittus Solis when Activated.\n  - Summons 200 Sagittus Solis\n  - Cannot be modified except by direct means\n  - The reuse time of Sagittus Solis is 5 minutes"
 obtained_from: Etheral crate from daily or weekly quest in Vesspyr Islands
 item_link: \aITEM 251868874 -542384262:Blazing Bow of Light\/a
 image: images/Blazing_Bow_of_Light.png

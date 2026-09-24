@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Amplifying Stamina**'
+effect_name: Amplifying Stamina
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 46%-92% and Stamina by 500-983. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -1114605200 239386936:Ring of Primal Vitality\/a
 categories:
 - AE Autoattack Chance (Equipment)

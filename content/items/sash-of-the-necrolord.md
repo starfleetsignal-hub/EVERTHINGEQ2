@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   strike: '10.4'
   aspeed: '9.3'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 2033933745 432308005:Sash of the Necrolord\/a
 image: images/Sash_of_the_Necrolord.jpg
 categories:

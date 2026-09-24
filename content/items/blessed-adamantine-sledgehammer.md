@@ -17,7 +17,8 @@ stats:
   drating: '69.41'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Scintillating Blessing**'
+effect_name: Scintillating Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Scintillating Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 75\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1509930892 304157465:Blessed Adamantine Sledgehammer\/a
 categories:
 - Berserker Equipment

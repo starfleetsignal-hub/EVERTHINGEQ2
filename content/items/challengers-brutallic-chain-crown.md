@@ -16,7 +16,8 @@ stats:
   abmod: '+35'
   multi: '2'
   dtype: Chain Armor
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 134\n    - Increases power of caster by 89\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of Baast]] (Battlegrounds Merchant)
 item_link: \aITEM 1334109654 -721639626:Challenger's Brutallic Chain Crown\/a
 categories:

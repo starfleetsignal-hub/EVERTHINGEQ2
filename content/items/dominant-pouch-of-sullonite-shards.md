@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Siphoning Flames**'
+effect_name: Siphoning Flames
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,341 - 2,587 poison damage on target\n    - Heals caster for 1,170 - 1,294\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1170757064 522404106:Dominant Pouch of Sullonite Shards\/a
 categories:
 - AE Autoattack Chance (Equipment)

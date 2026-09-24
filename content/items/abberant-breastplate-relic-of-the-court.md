@@ -18,7 +18,8 @@ stats:
   resolve: '650'
   abmod: +5768,148
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 32.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -994621538 -448583448:Abberant Breastplate, Relic of the Court\/a
 categories:
 - Ability Modifier (Equipment)

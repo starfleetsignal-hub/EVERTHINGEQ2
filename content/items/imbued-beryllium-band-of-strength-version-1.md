@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   multi: '0.9'
   vselemental: '+150'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 13.5.\n    - Increases DPS of caster by 18.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2146852657 770413492:Imbued Beryllium Band of Strength\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -18,7 +18,8 @@ stats:
   aspeed: '7.4'
   dps: '13.1'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Going Over the Great Wall]]'
 item_link: \aITEM 1265190206 -1950448027:Robe of the Onset\/a
 categories:

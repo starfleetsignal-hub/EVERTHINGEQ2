@@ -21,7 +21,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM -1921285945 -178763782 0 0 0:Staff of Fear Feasting\/a
 categories:
 - Beastlord Equipment

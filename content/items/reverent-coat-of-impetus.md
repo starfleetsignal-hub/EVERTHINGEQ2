@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   dtype: Chain Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 40) from [[Ancient Knowledge: Reverent Coat of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -142402422 1156997604:Reverent Coat of Impetus\/a
 categories:

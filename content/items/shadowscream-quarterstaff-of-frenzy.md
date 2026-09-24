@@ -24,7 +24,8 @@ stats:
   drating: '1723.68'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3.7%.\n    - Inflicts 1,723 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 47 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 120) from [[Shadowscream Woodworker Studies III]] *Made from [[Pattern: Shadowscream Quarterstaff of Frenzy]]'
 item_link: \aITEM 251610390 -1627525321:Shadowscream Quarterstaff of Frenzy\/a
 categories:

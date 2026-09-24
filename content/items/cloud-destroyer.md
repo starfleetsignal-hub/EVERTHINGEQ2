@@ -21,7 +21,8 @@ stats:
   drating: '218.97'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Great Waters**'
+effect_name: Great Waters
+effects: "- When Equipped:\n  - Increases the group's healing received by 3%, Crit Bonus by 10%, Potency by 10% and Flurry by 5%\n  - This effect does not stack with itself\n  - Cannot be modified except by direct means"
 obtained_from: From [[Ethernere Weapon]]
 item_link: \aITEM 1677015554 -2120300148:Cloud Destroyer\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   flurry: '78.1'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -472470954 285825271:Hoard Found Barbute of Ruination\/a
 categories:
 - Berserker Equipment

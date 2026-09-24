@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Cloth Armor
-effects: '**Lesser Benevolent Infusion**'
+effect_name: Lesser Benevolent Infusion
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Benevolent Infusion on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 150.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 obtained_from: '[[Brute Force (Quest)|Brute Force]]'
 item_link: \aITEM 1944788797 177995717:Emissary's Robe\/a
 categories:

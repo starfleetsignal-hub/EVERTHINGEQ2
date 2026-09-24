@@ -19,7 +19,8 @@ stats:
   abmod: +2,132
   dps: '82.5'
   dtype: Buckler
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 11,651 crushing damage on target.\n    - Increases Crit Bonus of caster by 31.0.\n    - Increases Potency of caster by 48.7.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Gerbi Frostfoot (Frostfell)]] in [[Frostfell Wonderland Village]]
 item_link: \aITEM -527805031 -2035050960:Chillstone Buckler\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: '+418'
   dps: '28.8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 2136862280 1238710044:Storm Dragonlinked Gloves\/a
 categories:
 - Ability Modifier (Equipment)

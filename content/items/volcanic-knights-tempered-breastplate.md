@@ -17,7 +17,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Plate Armor
-effects: '**Rockiron Nerves**'
+effect_name: Rockiron Nerves
+effects: "- When Equipped:\n  - Reduces physical damage done to target by 5%."
 obtained_from: '*Made from [[Elemental Champion''s Breastplate Mold]] *Made from [[Elemental Champion''s Breastplate Pattern]]'
 item_link: \aITEM -782282894 -195268273 0 0 0:Volcanic Knight's Tempered Breastplate\/a
 categories:

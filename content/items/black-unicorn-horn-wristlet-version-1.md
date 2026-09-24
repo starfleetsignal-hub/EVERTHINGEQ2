@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   vsarcane: '+280'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM -1952558432 1125831452 0 0 0:Black Unicorn Horn Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '18.7'
   vselemental: +28,613
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 37.5.\n  - Increases Potency of caster by 37.5."
 obtained_from: '*[[Pollen For the Thrall]] *[[Underdepths Saga: Zaphardt''s Defenders]]'
 item_link: \aITEM 1881523240 -863262875:Zaphardt's Invocation Cable\/a
 image: images/Zaphardt's_Invocation_Cable.png

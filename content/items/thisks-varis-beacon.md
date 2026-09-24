@@ -7,7 +7,7 @@ flags: no-trade
 stats:
   casting: 5 seconds
   recast: 2 seconds
-effects: Use beacon
+effects: '- Applies Use Beacon when Activated'
 obtained_from: 'Quest: [[Execution (Kylong Plains)]]'
 used_in_quest: '[[Execution (Kylong Plains)|Execution]]'
 image: images/Thisks_Varis_Beacon.png

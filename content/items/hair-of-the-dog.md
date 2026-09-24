@@ -8,7 +8,7 @@ stats:
   charges: 5/5
   casting: 9.0 seconds
   recast: 15.0 seconds
-effects: Hair of the Dog
+effects: "- Applies Hair of the Dog when activated. Lasts for 5 minutes\n  - Had a bit too much to drink last night? Feeling like death warmed over? Sometimes the best cure is a hair of the dog that bit ya!"
 obtained_from: Crafted by [[Provisioner]] (level 25) from [[Provisioner Mastery volume 1]]
 item_link: \aITEM 902917047 1185163441:[Hair of the Dog]\/a
 categories:

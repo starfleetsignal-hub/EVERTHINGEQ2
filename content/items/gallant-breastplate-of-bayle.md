@@ -18,7 +18,8 @@ stats:
   aspeed: '6.7'
   dps: '12'
   dtype: Plate Armor
-effects: '**Hatespike**'
+effect_name: Hatespike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Hatespike II on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 1,665\n    - Cannot be modified except by direct means"
 item_link: \aITEM -862069218 -1111923437:Gallant Breastplate of Bayle\/a
 categories:
 - Attack Speed (Equipment)

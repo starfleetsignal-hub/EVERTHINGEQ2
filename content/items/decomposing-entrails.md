@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Energy**'
+effect_name: Energy
+effects: "- Applies Energy when Activated.  Lasts for 1 minute.\n  - Increases AE Autoattack of Caster by 10.0%.\n  - Converts damage spells to magic damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Energy is 1 minute"
 item_link: \aITEM -575164258 -230301886:Decomposing Entrails\/a
 categories:
 - Attack Speed (Equipment)

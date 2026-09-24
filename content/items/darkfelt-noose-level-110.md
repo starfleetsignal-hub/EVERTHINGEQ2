@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,895
   aspeed: '70.8'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 12.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1740786466 -1296747078:Darkfelt Noose\/a
 categories:
 - Ability Modifier (Equipment)

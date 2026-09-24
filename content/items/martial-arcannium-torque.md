@@ -17,7 +17,8 @@ stats:
   aspeed: '34.5'
   dps: '26.4'
   multi: '19'
-effects: '**Pact of Constitution**'
+effect_name: Pact of Constitution
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 4.2 and health by 1,800 for each member of their group or raid."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1914362417 926705070:Martial Arcannium Torque\/a
 categories:

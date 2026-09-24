@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1208874122 -252897063:Destructor's Broadsword\/a
 categories:
 - Berserker Equipment

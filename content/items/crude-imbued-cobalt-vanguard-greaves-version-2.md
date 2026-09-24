@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.5'
   dtype: Plate Armor
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 56 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1257931527 1832433050:crude imbued cobalt vanguard greaves\/a
 categories:
 - Attack Speed (Equipment)

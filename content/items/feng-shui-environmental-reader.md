@@ -8,7 +8,8 @@ level: '20'
 slot: Charm
 classes: '[[Carpenter]]'
 flags: attunable
-effects: '**Simple Tools**'
+effect_name: Simple Tools
+effects: "- Applies Simple Tools when Equipped.\n  - Increases success chance by 1.0%."
 obtained_from: Made with Tinkering (skill 50) from [[Apprentice Blueprints 0.005]].
 item_link: \aITEM 1466628562 1313978117:Feng-shui Environmental Reader\/a
 categories:

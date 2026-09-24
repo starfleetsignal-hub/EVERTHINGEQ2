@@ -16,7 +16,8 @@ stats:
   multi: '20.4'
   mitinc: '4.6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 874396869 -369088779:Subjugator's Immortal Gauntlets\/a
 categories:
 - Berserker Equipment

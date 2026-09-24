@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Cloth Armor
-effects: '**Calming Aura**'
+effect_name: Calming Aura
+effects: "- When Equipped:\n  - On a hostile spell cast this spell has a 8% chance to cast Calming Aura on caster.  Lasts for 24.0 seconds.\n    - Decreases Hate Gain of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1914040628 -30343629:Enspelled Doomweave Robes\/a
 categories:
 - Attack Speed (Equipment)

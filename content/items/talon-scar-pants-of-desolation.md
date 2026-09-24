@@ -18,7 +18,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 493958920 -1430543782:Talon Scar Pants of Desolation\/a
 categories:
 - Census Credits

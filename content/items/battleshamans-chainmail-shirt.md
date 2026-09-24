@@ -16,7 +16,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Chain Armor
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 188.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Tradesman Zaalk]] (Faction Merchant) in [[Kunzar Jungle]]
 item_link: \aITEM 966579620 1920591835:Battleshaman's Chainmail Shirt\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '14.4'
   vselemental: +33,491
-effects: '**Amplifying Combination**'
+effect_name: Amplifying Combination
+effects: "- When Equipped:\n  - The values increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value.\n  - Increases Crit Bonus by 16.2%-76%, Potency 30%-76%, Weapon Damage Bonus  by 10.8%-40.2% and Stamina by 108-430."
 item_link: \aITEM 431590473 -829267774:Flux Amplifier\/a
 categories:
 - Ability Modifier (Equipment)

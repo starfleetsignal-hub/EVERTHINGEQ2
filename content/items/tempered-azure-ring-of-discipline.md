@@ -16,7 +16,8 @@ stats:
   abmod: '+405'
   multi: '18.1'
   vselemental: '+644'
-effects: '**Sublime Power**'
+effect_name: Sublime Power
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - Increases Multi Attack of caster by 40.0.\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 525.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of Discipline]] *Made from [[Lock of Siren Hair]] *Made from [[Shimmering Siren Scales]] *Made from [[Tavalan Finger Webbing]] *Made from [[Tavalan Tentacle]]'
 item_link: \aITEM -246678748 1880890739:Tempered Azure Ring of Discipline\/a
 image: images/Tempered_Azure_Ring_of_Discipline.png

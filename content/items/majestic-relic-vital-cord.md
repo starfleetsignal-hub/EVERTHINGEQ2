@@ -17,7 +17,8 @@ stats:
   critbonus: 1,345.4
   potency: 45,356.9
   resolve: '545'
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 625592990 -1949418487:Majestic Relic Vital Cord\/a
 categories:
 - Assassin Equipment

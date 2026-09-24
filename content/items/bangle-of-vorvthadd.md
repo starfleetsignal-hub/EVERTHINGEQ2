@@ -16,7 +16,8 @@ stats:
   dps: '27.8'
   vselemental: +30,369
   mitinc: '7.3'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 10.  This effect increases to 22 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM -1662384109 700657569:Bangle of Vorv'Thadd\/a
 categories:
 - Arcane Resistance (Equipment)

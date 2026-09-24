@@ -18,7 +18,8 @@ stats:
   drating: '52.89'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- Applies Frost Blast when Activated.\n  - Inflicts 244 - 407 cold damage on target.\n  - The casting time of Frost Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 269509621 362519196:shaped cold imbued rosewood wand\/a
 categories:
 - Berserker Equipment

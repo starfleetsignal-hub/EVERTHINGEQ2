@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Grace of Quellious**'
+effect_name: Grace of Quellious
+effects: "- Applies Grace of Quellious when Activated.\n  - Only 1 Grace of Quellious may be active at a time\n  - Heals targets within 35m for 45,000 health every 4s\n  - Cannot be modified except by direct means\n  - The casting time of Grace of Quellious is 1.0 second and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 1557434266 1014400411:Essence of Divine Grace\/a
 categories:
 - Assassin Equipment

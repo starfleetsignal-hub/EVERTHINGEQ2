@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1750988151 -1915866329:Talon Scar Guards of Obliteration\/a
 categories:
 - Casting Speed (Equipment)

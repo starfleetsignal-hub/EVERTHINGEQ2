@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Once worn by the greatest dragon hunters in Norrath, ready to be worn once again.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (1000 Daybreak Cash)
 item_link: \aITEM 590666770 1731535591:Cloak of the Dragon Slayer\/a
 categories:

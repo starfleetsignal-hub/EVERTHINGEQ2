@@ -15,7 +15,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   vsarcane: '+564'
-effects: '**Healing Abundance**'
+effect_name: Healing Abundance
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Healing Abundance on target of spell.  Lasts for 18.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 2,041.\n    - Heals group members (AE) for 583 every 4.5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1294950092 -114882826:Earstuds of the Exarch\/a
 categories:
 - Arcane Resistance (Equipment)

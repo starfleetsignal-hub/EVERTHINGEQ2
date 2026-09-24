@@ -17,7 +17,8 @@ stats:
   critbonus: '5.6'
   potency: '9.2'
   dtype: Leather Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,998 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Umbral Primal Velium Breastplate]]
 item_link: \aITEM -734961568 1054345860:Brute's Shattering Gi\/a
 categories:

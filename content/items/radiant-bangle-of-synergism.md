@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+324'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality VIII on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 1,500 points of all damage\n    - Wards caster against 750 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 80) from [[Ancient Knowledge: Radiant Bangle of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -1019735241 -556108325:Radiant Bangle of Synergism\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '141.22'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1113149410 -1289196124:Arcane Truncheon of Tainted Grounds\/a
 categories:
 - Ability Modifier (Equipment)

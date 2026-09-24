@@ -17,7 +17,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dps: '230.3'
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 46.0.\n  - Increases Crit Bonus Overcap of caster by 393.9.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -112804641 -1709429137:Remnant Wrap, Greater Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

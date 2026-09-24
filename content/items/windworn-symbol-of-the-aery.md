@@ -20,7 +20,8 @@ stats:
   dps: '117.8'
   cbovercap: '+70.4'
   dtype: Symbols
-effects: '**Equalize**'
+effect_name: Equalize
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,855 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 item_link: \aITEM 1241916236 -949072699:Windworn Symbol of the Aery\/a
 categories:
 - Ability Modifier (Equipment)

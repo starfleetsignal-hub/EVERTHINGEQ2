@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Lightning Shock**'
+effect_name: Lightning Shock
+effects: "- Applies Lightning Shock when Activated.\n  - Inflicts 463 - 771 magic damage on target.\n  - The casting time of Lightning Shock is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '*Crafted by [[Woodworker]] (level 85) from [[Advanced Woodworker Volume 85 (Heirloom)]] *Crafted by [[Woodworker]] (level 85) from [[Advanced Woodworker Volume 85 (Normal)]]'
 item_link: \aITEM -2104100769 -1595326803:Magic Imbued Eucalyptus Wand\/a
 categories:

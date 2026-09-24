@@ -16,7 +16,8 @@ stats:
   potency: '5'
   multi: '7.8'
   dtype: Symbols
-effects: '**Fury of the Void Walkers**<br>**Eylee''s Cantata**'
+effect_name: Fury of the Void Walkers, Eylee's Cantata
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fury of the Void Walkers on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 999 mental damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the speed of Selo's Accelerando VI by 15%.\n  - Increases duration of debuffing and beneficial songs by 10%."
 obtained_from: 'Made from [[Relics of the Shadow Odyssey]] *[[The Shadow Odyssey, Chapter 8: Aloha, Ethernauts]]'
 item_link: \aITEM -162668698 -1122476678:Drum of the Ethernaut Chronicler\/a
 categories:

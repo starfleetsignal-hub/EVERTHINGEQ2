@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Wrath of the Warlord**<br>**Blade Mastery**<br>**Shielding of Vel`Arek**'
+effect_name: Wrath of the Warlord, Blade Mastery, Shielding of Vel`Arek
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Wrath of the Warrior on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Reduces physical, slash, crush and pierce damage done to caster by 5%.\n    - Inflicts 583 - 875 slashing damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Caster is immune to riposte damage.\n- When Equipped:\n  - On a melee hit this spell may cast Shielding of Vel`Arek on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes caster immune to Root effects\n    - Makes caster immune to Daze effects\n    - Makes caster immune to Fear effects\n    - Makes caster immune to Stifle effects\n    - Makes caster immune to Stun effects\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Revitalizing Vel''Arek]]'
 item_link: \aITEM 503382067 -178049450:Revitalized Vel'Arek\/a
 categories:

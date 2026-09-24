@@ -17,7 +17,8 @@ stats:
   resolve: '5'
   abmod: '+827'
   dps: '28.6'
-effects: '**Understanding the Weak Spots**'
+effect_name: Understanding the Weak Spots
+effects: "- When Equipped:\n  - Increases Potency of caster by 52.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 item_link: \aITEM 365278553 912153681:a Lovely Necklace\/a
 categories:
 - Ability Modifier (Equipment)

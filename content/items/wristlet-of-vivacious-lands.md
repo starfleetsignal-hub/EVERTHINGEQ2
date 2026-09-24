@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,032
-effects: '**Holy Land**'
+effect_name: Holy Land
+effects: "- When Equipped:\n  - Inflicts 240,000 divine damage to up to eight targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 363187094 -1028623225:Wristlet of Vivacious Lands\/a
 categories:
 - AE Autoattack Chance (Equipment)

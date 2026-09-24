@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   abmod: '+167'
   aspeed: '7.3'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Sold by [[Ra'di]] (Faction Merchant) in [[The Sundered Frontier]]
 item_link: \aITEM 1523616803 1095916520:Sash of the Hua Mein\/a
 categories:

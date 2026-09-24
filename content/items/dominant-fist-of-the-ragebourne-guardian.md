@@ -21,7 +21,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Repugnant Cloud**'
+effect_name: Repugnant Cloud
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical spell hit this spell may cast Repugnant Cloud II on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,069 - 1,182 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Repugnant Cloud II on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,069 - 1,182 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2084075194 18403851:Dominant Fist of the Ragebourne Guardian\/a
 categories:
 - Beastlord Equipment

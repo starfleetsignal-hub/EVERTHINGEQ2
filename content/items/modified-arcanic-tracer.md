@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   int: '+2'
-effects: '**Arcane Trace**'
+effect_name: Arcane Trace
+effects: "- Applies Arcane Trace when Activated.\n  - Increases power of caster by 21.\n  - The casting time of Arcane Trace is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[More Quality]]'
 item_link: \aITEM -1842055119 1031680328:Modified Arcanic Tracer\/a
 categories:

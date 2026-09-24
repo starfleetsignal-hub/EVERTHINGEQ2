@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Entangling Shot**'
+effect_name: Entangling Shot
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Entangling Shot on target of attack.  Lasts for 1.9 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 247 - 302 heat damage on target.\n    - Slows target by 33.0%.\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -708971875 1011308874:The Marksman\/a
 categories:
 - Assassin Equipment

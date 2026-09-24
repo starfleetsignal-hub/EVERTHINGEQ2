@@ -17,7 +17,8 @@ stats:
   dps: '25.5'
   multi: '16.5'
   dtype: Chain Armor
-effects: '**Surefoot**'
+effect_name: Surefoot
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 10.0%.\n  - Increases DPS of caster by 20.0."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Boots Of The Draconic Miscreant]] *Made from [[A Bloody Drakota Eye]] *Made from [[Dragon Hide]] *Made from [[Skyshrine Golem Core]]'
 item_link: \aITEM -103206555 1729582125:Boots of the Draconic Miscreant\/a
 categories:

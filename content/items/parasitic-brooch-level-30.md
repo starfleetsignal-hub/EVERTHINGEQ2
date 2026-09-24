@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+11'
   sta: '+11'
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM -1594300047 -222346472:Parasitic Brooch\/a
 categories:
 - Assassin Equipment

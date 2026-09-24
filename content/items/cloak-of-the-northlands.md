@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Spirit of the Northlands**<br>**Featherfall**'
+effect_name: Spirit of the Northlands, Featherfall
+effects: "- Applies Spirit of the Northlands when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into a barbarian\n  - The casting time of Spirit of the Northlands is 1.0 second and the reuse time of the spell is 5.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Barbarian Heritage Armor Crate]]
 item_link: \aITEM 1143929333 584942059:Cloak of the Northlands\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '6.5'
   potency: '10.8'
   aspeed: '17.3'
-effects: '**Greater Draconic Might**<br>**Archmagi''s Aura**'
+effect_name: Greater Draconic Might, Archmagi's Aura
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Greater Draconic Might on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Potency of caster by 3.0.\n  - Reduces resistibility of all spells by 6%."
 obtained_from: '*Crafted by [[Artisan]] (level 92) from [[Draconic Knowledge: Scaled Cloak Of The Archmagus]] *Made from [[Prime Great Dragon Scales]] *Made from [[Prime Skyshrine Golem Core]] *Made from [[Prime Wurm Tongue]]'
 item_link: \aITEM 17926794 1266013535:Scaled Cloak of the Archmagus\/a
 categories:

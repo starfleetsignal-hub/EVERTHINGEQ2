@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple IX on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 2,500 points of all damage\n    - Heals target for 970 - 1,072 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 90) from [[Ancient Knowledge: Dire Mace of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -1928264883 -211635167:Dire Mace of Revelations\/a
 categories:

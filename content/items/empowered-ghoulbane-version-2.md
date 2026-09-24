@@ -20,7 +20,8 @@ stats:
   drating: '62.59'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Power of Ghoulbane**<br>**Corpse Fire**'
+effect_name: Power of Ghoulbane, Corpse Fire
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Power of Ghoulbane on target of attack.\n    - Inflicts 40 - 49 divine damage on target.\n      - If target is undead\n    - Cannot be modified except by direct means\n- Applies Corpse Fire when Activated.  Lasts for 30.0 seconds.\n  - Inflicts 96 - 117 divine damage on target.\n  - Decreases Mitigation of target vs arcane damage by 504.\n  - The casting time of Corpse Fire is 1.0 second and the reuse time of the spell is 30.0 seconds"
 obtained_from: '[[Ghoulbane Empowered]]'
 item_link: \aITEM -306036084 479385259:Empowered Ghoulbane\/a
 categories:

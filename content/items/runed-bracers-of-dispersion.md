@@ -16,7 +16,8 @@ stats:
   vselemental: '+975'
   vsarcane: '+600'
   dtype: Cloth Armor
-effects: '**Dispersion**'
+effect_name: Dispersion
+effects: "- When Equipped:\n  - When target is damaged with a melee weapon this spell has a 1% chance to cast Dispersion on caster. Lasts for 5 minutes.\n    - Will absorb all attacks. This spell will absorb a total of 1 attack.\n    - Applies Dispersion on termination.\n      - Increases power of group members by 4\n  - This spell can not be modified except by direct means"
 obtained_from: Drop of [[A Drolvarg Foreman]] in [[Karnor's Castle]]
 categories:
 - Arcane Resistance (Equipment)

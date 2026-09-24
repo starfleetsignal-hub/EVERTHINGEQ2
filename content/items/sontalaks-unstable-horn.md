@@ -14,7 +14,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Life Link**'
+effect_name: Life Link
+effects: "- Applies Life Link when Activated.\n  - Applies Life Link on termination.  Lasts for 1 minute 30 seconds.\n    - If the player who was resurrected dies, the player who resurrected them will die as well\n  - Resurrects target with 50% health and power\n  - Cannot be modified except by direct means\n  - The reuse time of Life Link is 3 minutes"
 item_link: \aITEM -86269958 1258846168:Sontalak's Unstable Horn\/a
 categories:
 - Assassin Equipment

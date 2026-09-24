@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 5%."
 item_link: \aITEM 503933280 -31721251 0 0 0:Illusory Robe of Shifting Visions\/a
 categories:
 - Casting Speed (Equipment)

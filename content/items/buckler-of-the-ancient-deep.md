@@ -17,7 +17,8 @@ stats:
   abmod: +2,332
   aspeed: '29'
   dtype: Buckler
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 355208172 -1275302579:Buckler of the Ancient Deep\/a
 image: images/Buckler_of_the_Ancient_Deep.png
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   aspeed: '9.3'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -408691567 -241250040:Emissary's Band of Dominance\/a
 categories:
 - Assassin Equipment

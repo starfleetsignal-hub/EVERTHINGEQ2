@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Rune of the Scholar**'
+effect_name: Featherfall, Rune of the Scholar
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Rune of the Scholar when Activated.\n  - Runes of the scholar surround you.\n  - The casting time of Rune of the Scholar is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Marketplace (350 Daybreak Cash)
 item_link: \aITEM -1729027689 935646231:Djinn Scholar's Cloak\/a
 categories:

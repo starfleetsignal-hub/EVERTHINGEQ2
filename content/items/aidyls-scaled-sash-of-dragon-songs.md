@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+133'
-effects: '**Aidyl''s Song of Destruction**'
+effect_name: Aidyl's Song of Destruction
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Aidyl's Song of Destruction on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base damage of hostile spells cast by 8%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1544895902 1071313584:Aidyl's Scaled Sash of Dragon Songs\/a
 categories:
 - Ability Modifier (Equipment)

@@ -20,7 +20,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Leather Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 353.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -181750826 293785448:Vestige Gauntlets, Relic of Old Velious\/a
 categories:
 - Brawler Equipment

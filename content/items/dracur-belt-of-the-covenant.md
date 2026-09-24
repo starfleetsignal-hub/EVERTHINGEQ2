@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   dps: '27.1'
-effects: '**Mana Counter**'
+effect_name: Mana Counter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Mana Counter II on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Mana Counter II on target.\n      - Heals caster for 1,608 - 1,777.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1521178003 -1548887087:Dracur Belt of the Covenant\/a
 categories:
 - Assassin Equipment

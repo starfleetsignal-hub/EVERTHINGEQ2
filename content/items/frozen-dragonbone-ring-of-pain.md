@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 289403413 -1677051276:Frozen Dragonbone Ring of Pain\/a
 categories:
 - Ability Modifier (Equipment)

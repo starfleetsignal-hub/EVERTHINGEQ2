@@ -15,7 +15,8 @@ stats:
   potency: '27'
   dps: '21.8'
   multi: '31.2'
-effects: '**Baleful Binding**'
+effect_name: Baleful Binding
+effects: "- Applies Baleful Binding II when Activated.  Lasts for 15.0 seconds.\n  - Increases Mitigation of caster vs elemental, noxious and arcane damage by 23,920.\n  - Roots caster\n  - Cannot be modified except by direct means\n  - The casting time of Baleful Binding II is 1.0 second and the reuse time of the spell is 30.0 seconds"
 item_link: \aITEM -1050547021 570931629:Wicked Dark Locust\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '8.6'
   abmod: '+279'
   vsarcane: '+564'
-effects: '**Steady Pulse**'
+effect_name: Steady Pulse
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Steady Pulse II on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 2,222 - 2,456 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1462834857 1689053539:Forceful Stud of the Avazek Battlepriest\/a
 categories:
 - Ability Modifier (Equipment)

@@ -10,7 +10,7 @@ stats:
   charges: 5/5
   casting: 2.0 seconds
   recast: 1 minute
-effects: Totem of the Otter
+effects: "- Applies Totem of the Otter when activated. Lasts for 15 minutes.\n  - Allows caster to breathe under water."
 obtained_from: Crafted by [[Craftsman]] (level 18) from [[Craftsman essentials volume 18]]
 item_link: 2028144937 1454132026:Totem of the Otter
 categories:

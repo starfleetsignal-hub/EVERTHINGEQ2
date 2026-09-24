@@ -16,7 +16,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   dtype: Leather Armor
-effects: '**Abounding Ward**'
+effect_name: Abounding Ward
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Abounding Ward on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Wards target against 2,450 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -41595997 -2059313132:Revered Tunic\/a
 categories:
 - Abounding Ward (Equipment)

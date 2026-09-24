@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   dps: '27.9'
   multi: '18.1'
-effects: '**Erudition of the Dragon Lords**'
+effect_name: Erudition of the Dragon Lords
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Erudition of the Dragon Lords on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases INT and WIS of caster by 100.0.\n    - Increases Crit Bonus of caster by 6.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Erudition of the Dragon Lords on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases INT and WIS of caster by 100.0.\n    - Increases Crit Bonus of caster by 6.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Sleeper''s Tomb Legacy]]'
 item_link: \aITEM -364832348 -1492930243:Primal Storm Dragon Talisman\/a
 categories:

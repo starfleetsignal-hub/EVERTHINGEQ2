@@ -17,7 +17,8 @@ stats:
   abmod: +1,591
   aspeed: '36'
   dps: '13.8'
-effects: '**Power Through**'
+effect_name: Power Through
+effects: "- Applies Power Through when Activated.  Lasts for 15 minutes.\n  - Applies Power Through III.  Lasts for 22.5 seconds.\n    - Increases Crit Bonus of group members (AE) by 6.0, multiplied by increment stacks.\n    - Increases Potency of group members (AE) by 9.0, multiplied by increment stacks.\n    - Increments up to 10 times, once every 4 seconds\n    - Cannot be modified except by direct means\n  - Drains 5% of the caster's power instantly. Every 4 seconds, the power drain increases by 5% up to 50%. Terminates if the caster doesn't have enough power to maintain the spell\n  - If over 5% power\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Power Through is 1 minute 30 seconds"
 item_link: \aITEM 384173244 -2043401464:Stalwart Gem of Aberrant Power\/a
 categories:
 - Ability Modifier (Equipment)

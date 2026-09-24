@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   dps: '10.3'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 item_link: \aITEM 1564693206 789148763:Tangleroot Leather Boots\/a
 categories:
 - Assassin Equipment

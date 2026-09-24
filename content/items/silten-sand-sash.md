@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   abmod: '+95'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Wanted by the Irontoe Brigade]]'
 item_link: \aITEM 327549303 -292061902:Silten Sand Sash\/a
 image: images/Silten_Sand_Sash.jpg

@@ -19,7 +19,8 @@ stats:
   drating: '42.48'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Blessing of the Smith**'
+effect_name: Blessing of the Smith
+effects: "- When Equipped:\n  - Increases Metalworking and Metal Shaping of caster by 22.5."
 item_link: \aITEM -950173651 2070422638:Unargin's Smithy Hammer\/a
 categories:
 - Attack Speed (Equipment)

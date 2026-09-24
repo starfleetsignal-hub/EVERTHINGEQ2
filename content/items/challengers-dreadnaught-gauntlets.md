@@ -16,7 +16,8 @@ stats:
   abmod: '+45'
   aspeed: '5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Sold by [[Scion of Bhaast]] (Battlegrounds Merchant) in [[Frostfang Sea]] on Erollis Dock at {{waypoint -349.92, 30.30, 239.44}} for 1p 20g 45 Klak'Anon Cog and 45 Battlefield of Ganak Trophy
 item_link: \aITEM -1461144716 -695616074:Challenger's Dreadnaught Gauntlets\/a
 categories:

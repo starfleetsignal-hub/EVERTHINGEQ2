@@ -17,7 +17,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 240 - 400 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1666992693 -10211086:crude disease imbued cedar wand\/a
 categories:
 - Ability Modifier (Equipment)

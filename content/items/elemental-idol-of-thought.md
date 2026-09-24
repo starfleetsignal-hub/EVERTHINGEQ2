@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Atheneal Mindmeld**'
+effect_name: Atheneal Mindmeld
+effects: "- Applies Atheneal Mindmeld when Activated.  Lasts for 30.0 seconds.\n  - All offensive spells deal mental damage.\n  - Must be in Ward of Elements.\n  - The casting time of Atheneal Mindmeld is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 562280225 -1844667562:Elemental Idol of Thought\/a
 categories:
 - Ability Modifier (Equipment)

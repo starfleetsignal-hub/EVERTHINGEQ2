@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Chain Armor
-effects: '**Essence of Hatred**'
+effect_name: Essence of Hatred
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Essence of Hatred on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,069 - 1,307 piercing damage on target.\n    - Increases Crit Chance of caster by 10.0.\n    - Increases Multi Attack of caster by 10.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1207095733 1469109378:Chainlinks of Hatred\/a
 categories:
 - AE Autoattack Chance (Equipment)

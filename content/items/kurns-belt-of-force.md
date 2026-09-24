@@ -14,7 +14,8 @@ stats:
   crit: '3.2'
   critbonus: '1.1'
   potency: '5.1'
-effects: '**Reinforce**'
+effect_name: Reinforce
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Reinforce on caster.  Lasts for 30.0 seconds.\n    - Wards caster against 900 points of physical damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -891369681 1127047503:Kurn's Belt of Force\/a
 categories:
 - Assassin Equipment

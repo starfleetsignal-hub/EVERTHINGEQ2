@@ -21,7 +21,8 @@ stats:
   drating: '120.04'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1728808980 708617432:Jagged Boneblade\/a
 categories:
 - Assassin Equipment

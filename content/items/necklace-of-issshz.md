@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   abmod: '+803'
   dps: '27.8'
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 55 if they have 1 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 80."
 item_link: \aITEM 1605715420 -1977870684:Necklace of Issshz\/a
 image: images/Necklace_of_Issshz.png
 categories:

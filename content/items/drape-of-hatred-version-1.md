@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Soultap**'
+effect_name: Soultap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Soultap on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 101 divine damage on target.\n    - Heals caster for 100.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Dark Beacon (Quest)|The Dark Beacon]]'
 item_link: \aITEM -979292369 110925588:Drape of Hatred\/a
 image: images/Drape_of_Hatred.jpg

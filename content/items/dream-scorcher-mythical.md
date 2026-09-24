@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Spear
-effects: '**Tribal Spirit**<br>**Nightmares**<br>**Healing Shroud**'
+effect_name: Tribal Spirit, Nightmares, Healing Shroud
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell has a 12% chance to cast Tribal Spirit on the group.  Lasts for 12.0 seconds.\n    - Reduces elemental, noxious and arcane damage done to group members (AE) by 5%.\n    - Improves the value of healing and ward spells by 8%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Nightmares when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 785 - 960 disease damage on target encounter instantly and every 4 seconds.\n  - Heals group members (AE) for 654 - 800 instantly and every 4 seconds.\n  - The casting time of Nightmares is 2.0 seconds and the reuse time of the spell is 1 minute\n- When Equipped:\n  - Adds additional healing to Ancient Shroud VII and Carrion Warding VI."
 obtained_from: '[[The Dream Scorcher, Part Two]]'
 item_link: \aITEM 65856238 -114587292:Dream Scorcher\/a
 categories:

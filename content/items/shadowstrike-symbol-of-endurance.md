@@ -20,7 +20,8 @@ stats:
   cbovercap: '+107.9'
   mitinc: '41.2'
   dtype: Symbols
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3%.\n    - Inflicts 1,070 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 47 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -623965520 1557796460:Shadowstrike Symbol of Endurance\/a
 categories:
 - AE Autoattack Chance (Equipment)

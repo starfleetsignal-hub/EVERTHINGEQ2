@@ -14,7 +14,8 @@ stats:
   potency: '10'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM -1520715268 -64692359:Tormenting Pauldrons\/a
 categories:
 - Ability Modifier (Equipment)

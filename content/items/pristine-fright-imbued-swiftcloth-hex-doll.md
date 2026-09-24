@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dps: '9.9'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 16.8.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Heirloom)]] *Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Normal)]]'
 item_link: \aITEM 729599906 1425331513 0 0 0:pristine fright imbued swiftcloth hex doll\/a
 image: images/Fright_imbued_swiftcloth_hex_doll.jpg

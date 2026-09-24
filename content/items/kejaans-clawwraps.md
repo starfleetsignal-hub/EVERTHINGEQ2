@@ -16,7 +16,8 @@ stats:
   critbonus: '2.9'
   abmod: '+41'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1147816230 -1318141749:Kejaan's Clawwraps\/a
 categories:
 - Ability Modifier (Equipment)

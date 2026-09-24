@@ -25,7 +25,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 8.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -35398266 -1671633062:Warped Wand of the Despised\/a
 categories:
 - AE Autoattack Chance (Equipment)

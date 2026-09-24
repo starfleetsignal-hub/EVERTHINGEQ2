@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Flirting with Death**'
+effect_name: Flirting with Death
+effects: "- When Equipped:\n  - When target falls below 30% health this spell will cast Flirting with Death on caster.  Lasts for 1 minute.\n    - Increases Crit Bonus of caster by 10.0, multiplied by increment stacks.\n    - Increments up to 5 times\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 2.0 seconds."
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM -2114840891 -140091967:Icon of the Fallen\/a
 categories:

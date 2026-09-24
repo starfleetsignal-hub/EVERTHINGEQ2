@@ -15,7 +15,8 @@ stats:
   resolve: '5'
   aspeed: '37.7'
   vselemental: +33,491
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM 739867052 -1257028259:Thalumbrite Chain Clasp\/a
 categories:
 - Arcane Resistance (Equipment)

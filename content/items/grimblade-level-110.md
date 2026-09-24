@@ -26,7 +26,8 @@ stats:
   drating: '425.32'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Grim Outlook**'
+effect_name: Grim Outlook
+effects: "- When Equipped:\n  - On a hit this spell may cast Grim Outlook on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Accuracy of target by 3.0%.\n    - Slows target by 50.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -470667783 7008309:Grimblade\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,032
-effects: '**Power from Pain**'
+effect_name: Power from Pain
+effects: "- When Equipped:\n  - Modifies the wearer's Potency based on the number of increments of Power from Pain. 0: -15 Potency. 1: -10 Potency. 2: -5 Potency. 3: 0 Potency. 4: 33 Potency. 5: 55 Potency\n  - When any damage is received this spell has a 30% chance to cast Power from Pain II on caster.  Lasts for 2 minutes.  This effect normalizes based off of a three second triggering event.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 292106944 -123642407:Ring of Vivacious Villains\/a
 categories:
 - AE Autoattack Chance (Equipment)

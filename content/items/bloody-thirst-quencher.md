@@ -15,7 +15,8 @@ stats:
   dps: '26.8'
   vselemental: +28,140
   mitinc: '7'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 5.  This effect increases to 11 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 976391285 -195760051:Bloody Thirst Quencher\/a
 categories:
 - Arcane Resistance (Equipment)

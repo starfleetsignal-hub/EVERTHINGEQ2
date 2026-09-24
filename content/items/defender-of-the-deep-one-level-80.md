@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Dextrous Defense**'
+effect_name: Dextrous Defense
+effects: "- When Equipped:\n  - Caster will Riposte 2.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried."
 item_link: \aITEM -1200789677 537085363:Defender of the Deep One\/a
 categories:
 - Assassin Equipment

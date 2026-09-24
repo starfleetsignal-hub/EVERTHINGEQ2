@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Accursed Retribution**'
+effect_name: Accursed Retribution
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Accursed Retribution on target.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus of caster by 35.0, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - Can only trigger once every 60 seconds and only triggers on damage greater than 50% of the wearer's maximum health"
 item_link: \aITEM -503827299 1781600038:Band of Unforeseen Destiny\/a
 categories:
 - Accursed Retribution (Equipment)

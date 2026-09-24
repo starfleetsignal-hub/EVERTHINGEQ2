@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**To Arms!**'
+effect_name: To Arms!
+effects: "- When Equipped:\n  - Increases Potency of caster by 20.0.\n  - Cannot be modified except by direct means\n- Applies To Arms! when Activated.  Lasts for 15.0 seconds.\n  - Increases Weapon Damage of group members (AE) by 15.0.\n  - Suspends the passive effect for 15 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of To Arms! is 1 minute"
 item_link: \aITEM -987205917 -416593134:Stridor Fangs\/a
 categories:
 - Assassin Equipment

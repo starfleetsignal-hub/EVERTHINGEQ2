@@ -16,7 +16,8 @@ stats:
   aspeed: '34.7'
   dps: '13.4'
   vselemental: +28,140
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 48 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 64."
 item_link: \aITEM -1016094143 901284772:Sanguine Shard\/a
 categories:
 - Ability Modifier (Equipment)

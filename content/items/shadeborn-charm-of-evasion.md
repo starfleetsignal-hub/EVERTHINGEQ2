@@ -16,7 +16,8 @@ stats:
   critbonus: '328.2'
   potency: 7,131.7
   resolve: '185'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 36.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 942264725 713655866:Shadeborn Charm of Evasion\/a
 categories:
 - AE Autoattack Chance (Equipment)

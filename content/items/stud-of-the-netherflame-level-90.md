@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   vselemental: '+434'
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 205.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -294953997 31203031:Stud of the Netherflame\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   aspeed: '9.3'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -76317122 639406032:Bangle of the Collected Warlords\/a
 categories:
 - Assassin Equipment

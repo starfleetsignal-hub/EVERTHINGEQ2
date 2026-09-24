@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Spikes**'
+effect_name: Spikes
+effects: "- Applies Spikes III when Activated.  Lasts for 24.0 seconds.\n  - Slows target by 60.0%.\n  - Inflicts 150, 000 piercing damage to the target. Provided the target moves between ticks, they will take an additional 150, 000 piercing damage every 2 seconds.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Spikes III is 1 minute 30 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 96) from [[Jeweler Essentials Volume 96]]
 item_link: \aITEM 1085000752 -1790402544:Phantom Iodocus Icon\/a
 image: images/Phantom_Iodocus_Icon.png

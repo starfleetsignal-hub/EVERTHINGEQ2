@@ -18,7 +18,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Sacred Bolt Glyph**'
+effect_name: Sacred Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 100 - 122 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1702354652 1455707365:Marran Halberd\/a
 categories:
 - Ability Modifier (Equipment)

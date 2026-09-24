@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Unstable Power Portal**'
+effect_name: Unstable Power Portal
+effects: "- Applies Unstable Power Portal when Activated.  Lasts for 10.0 seconds.\n  - When any damage is received this spell has a 10% chance to cast Unstable Power Portal on target's attacker.  Lasts for 40.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Slows caster by 1.5%, multiplied by increment stacks.\n    - Increases All Attributes of caster by 2.0%, multiplied by increment stacks.\n    - Enlarges caster by 3.0%, multiplied by increment stacks.\n    - Increments up to 30 times. Applies to the caster of Unstable Power Portal. If the increments hit 30, all allies near the caster take 150,000 damage.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Unstable Power Portal is 1 minute 30 seconds"
 item_link: \aITEM 976512887 1464461778:Jalkhir's Orb of Power\/a
 categories:
 - Assassin Equipment

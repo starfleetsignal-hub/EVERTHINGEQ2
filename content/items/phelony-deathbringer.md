@@ -20,7 +20,8 @@ stats:
   drating: '235.61'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Ethereal Onslaught**'
+effect_name: Ethereal Onslaught
+effects: "- When Equipped:\n  - On combat or spell hit, Ethereal Onslaught has a chance to reset the reuse of most hostile abilities."
 item_link: \aITEM -1184384036 -495441205:Phelony, Deathbringer\/a
 categories:
 - Ability Modifier (Equipment)

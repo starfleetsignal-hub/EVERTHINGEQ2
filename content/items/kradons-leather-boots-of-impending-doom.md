@@ -16,7 +16,8 @@ stats:
   potency: '11.2'
   multi: '21.2'
   dtype: Leather Armor
-effects: '**Rapidity in the Dark**'
+effect_name: Rapidity in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM -231578028 -542692101:Kradon's Leather Boots of Impending Doom\/a
 categories:
 - Casting Speed (Equipment)

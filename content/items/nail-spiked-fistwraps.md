@@ -16,7 +16,8 @@ stats:
   potency: '2.5'
   dps: '7.6'
   dtype: Leather Armor
-effects: '**Nail Spikes**'
+effect_name: Nail Spikes
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Nail Spikes on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 55 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1564091792 -1966566880:Nail Spiked Fistwraps\/a
 categories:
 - Assassin Equipment

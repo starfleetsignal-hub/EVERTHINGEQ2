@@ -22,7 +22,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blackanvil Smash**'
+effect_name: Blackanvil Smash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Smash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1053401519 743734341:Htardlem's Tentacle Blade\/a
 categories:
 - Assassin Equipment

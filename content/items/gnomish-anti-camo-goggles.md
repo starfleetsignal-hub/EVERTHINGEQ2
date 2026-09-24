@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '41'
   dtype: Cloth Armor
-effects: '**Gnomish Anti-Camo Goggles**'
+effect_name: Gnomish Anti-Camo Goggles
+effects: "- Applies Gnomish Anti-Camo Goggles when Equipped.\n  - Grants See Stealth to caster."
 obtained_from: Made with Tinkering (skill 110) from [[Apprentice Blueprints 0.011]].
 item_link: \aITEM -1617340122 -366200756:Gnomish Anti-Camo Goggles\/a
 aliases:

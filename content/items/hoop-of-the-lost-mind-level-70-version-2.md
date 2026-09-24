@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   vsarcane: '+280'
-effects: '**Clouded Mind**'
+effect_name: Clouded Mind
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Clouded Mind on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 3,920\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1621784750 -248833549:Hoop of the Lost Mind\/a
 categories:
 - Arcane Resistance (Equipment)

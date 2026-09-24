@@ -17,7 +17,8 @@ stats:
   abmod: '+152'
   multi: '8.4'
   dtype: Cloth Armor
-effects: '**Darkened Celerity**'
+effect_name: Darkened Celerity
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Darkened Celerity on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Casting Speed of caster by 5.0%.\n    - Increases the base damage of hostile spells cast by 5%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Means to an End...]]'
 item_link: \aITEM 1101373989 -865436038:Dark Mail Gauntlets\/a
 categories:

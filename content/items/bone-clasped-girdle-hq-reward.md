@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   abmod: '+42'
-effects: '**Burning Affliction**'
+effect_name: Burning Affliction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Burning Affliction on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 302 - 504 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 625.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Draco Mortuus vos Liberatio]]'
 item_link: \aITEM 579587842 -219290335:Bone-Clasped Girdle\/a
 categories:

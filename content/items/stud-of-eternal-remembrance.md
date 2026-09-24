@@ -16,7 +16,8 @@ stats:
   dps: '13.4'
   multi: '8.4'
   vselemental: +1,040
-effects: '**Storm of Memories**'
+effect_name: Storm of Memories
+effects: "- When Equipped:\n  - On a hit this spell may cast Storm of Memories on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases DPS of caster by 35.0.\n    - Increases Haste of caster by 35.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1940548163 786480260:Stud of Eternal Remembrance\/a
 categories:
 - Arcane Resistance (Equipment)

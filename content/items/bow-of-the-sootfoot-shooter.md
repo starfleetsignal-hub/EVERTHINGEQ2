@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Big Boom**'
+effect_name: Big Boom
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Big Boom on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 150 - 249 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Talk to [[Blisterzonk]] after reaching -10,000 Sootfoot faction
 item_link: \aITEM 2067496931 2070874184:Bow of the Sootfoot Shooter\/a
 categories:

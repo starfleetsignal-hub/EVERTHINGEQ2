@@ -21,7 +21,8 @@ stats:
   drating: '132'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -856248105 1742646847:Splitting Axe of the Underdepths\/a
 categories:
 - Assassin Equipment

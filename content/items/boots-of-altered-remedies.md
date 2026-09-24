@@ -17,7 +17,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   dtype: Plate Armor
-effects: '**Shielding Presence**'
+effect_name: Shielding Presence
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Shielding Presence on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Block Chance of target by 5.0%.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 38848172 -1143437729:Boots of Altered Remedies\/a
 categories:
 - Attack Speed (Equipment)

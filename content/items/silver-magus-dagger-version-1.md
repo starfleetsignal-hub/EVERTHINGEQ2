@@ -19,7 +19,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Silver Forged**'
+effect_name: Silver Forged
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Silver Vulnerability on target of attack.\n    - Inflicts 18 - 23 magic damage on target.\n      - If target is werewolf\n    - Cannot be modified except by direct means"
 obtained_from: '[[Silver Wares]]'
 item_link: \aITEM 1325172829 1114101633:Silver Magus Dagger\/a
 categories:

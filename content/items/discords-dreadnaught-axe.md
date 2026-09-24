@@ -16,7 +16,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1341284374 615032335:Discord's Dreadnaught Axe\/a
 categories:
 - Assassin Equipment

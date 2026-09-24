@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+11'
   vsarcane: '+48'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm III when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter III on termination.\n    - Inflicts 1,242 - 1,373 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 31 - 38 poison damage on target.\n  - Inflicts 39 - 47 poison damage on target every second.\n  - Inflicts an additional 15 - 18 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm III is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 30) from [[Ancient Knowledge: Lucid Stud of Fate]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 1557216557 -1565254102:Lucid Stud of Fate\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Flying Fist**'
+effect_name: Flying Fist
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Flying Fist II on target of attack.  Lasts for 2.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 332 - 367\n    - Inflicts 64 - 71 heat damage on target.\n    - Stifles target\n      - If Target is not Epic\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 20) from [[Ancient Knowledge: Calamitous Pouch of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1730266235 -1113652463:Calamitous Pouch of Authority\/a
 categories:

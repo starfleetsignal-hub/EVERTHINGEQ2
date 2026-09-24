@@ -17,7 +17,8 @@ stats:
   potency: 4,920.4
   resolve: '95'
   dps: '58'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 3,807.1.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1151881784 217196295:Jaggedtooth's Jagged Tooth\/a
 categories:
 - Assassin Equipment

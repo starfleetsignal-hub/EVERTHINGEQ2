@@ -21,7 +21,8 @@ stats:
   drating: '71.45'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 82.\n    - Increases power of caster by 114.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Tragen Gorschk]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM -527848853 142197289:Blade of the Skleross\/a
 categories:

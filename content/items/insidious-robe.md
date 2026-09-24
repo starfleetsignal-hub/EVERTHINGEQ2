@@ -17,7 +17,7 @@ stats:
   vselemental: '+166'
   vsarcane: +1,121
   dtype: Cloth Armor
-effects: Insidious Visions<br>Sorcerous Alacrity V
+effects: "- When Equipped:\n  - Improves Illusionist pet subjugation by 10, casting/reuse speeds by 10%, and Spell damage by up to 90.\n  - Enchances [[Enraging Demeanor]] with up to 100 Combat Art damage and a hate porc.\n- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM 633806790 -699401699:Insidious Robe\/a
 categories:
 - Arcane Resistance (Equipment)

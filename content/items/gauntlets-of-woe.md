@@ -17,7 +17,8 @@ stats:
   multi: '13.5'
   mitinc: '8.6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Looted from [[A Triumphant Armor Piece (Storm Gorge)|A Triumphant Armor Piece]] after completing the [[Battle of Storm Gorge]]
 item_link: \aITEM -1364890307 1376921928:Gauntlets of Woe\/a
 categories:

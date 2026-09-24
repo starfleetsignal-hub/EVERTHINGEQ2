@@ -16,7 +16,8 @@ stats:
   critbonus: '241.6'
   potency: 2,678.6
   resolve: '32'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2059462084 543157833:Shank Protector\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Thunderous Strike**'
+effect_name: Thunderous Strike
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Thunderous Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 1,361 - 1,663 magic damage on target encounter.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1117027951 1040986741:Stormbringer, Bow of Thunder\/a
 categories:
 - AE Autoattack Chance (Equipment)

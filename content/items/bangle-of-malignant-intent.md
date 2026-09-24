@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +26,832
-effects: '**Pirate''s Aim**'
+effect_name: Pirate's Aim
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Pirate's Aim on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 219,530.\n    - Increases Crit Bonus of target by 27.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM -782825704 2063327490:Bangle of Malignant Intent\/a
 categories:
 - Arcane Resistance (Equipment)

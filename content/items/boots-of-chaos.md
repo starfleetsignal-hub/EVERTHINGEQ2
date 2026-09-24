@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1823459117 1226707277:Boots of Chaos\/a
 categories:
 - Ability Modifier (Equipment)

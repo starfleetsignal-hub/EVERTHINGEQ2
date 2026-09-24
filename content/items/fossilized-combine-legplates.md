@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   dtype: Plate Armor
-effects: '**Lightning Bolt**'
+effect_name: Lightning Bolt
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Lightning Bolt on target's attacker.\n    - Inflicts 84 - 103 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1673038893 -894433532:Fossilized Combine Legplates\/a
 categories:
 - Berserker Equipment

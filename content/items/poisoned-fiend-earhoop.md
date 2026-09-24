@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: +1,395
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 153\n    - Increases power of caster by 102\n    - Cannot be modified except by direct means"
 item_link: \aITEM 482531319 -1794116350:Poisoned Fiend Earhoop\/a
 categories:
 - Arcane Resistance (Equipment)

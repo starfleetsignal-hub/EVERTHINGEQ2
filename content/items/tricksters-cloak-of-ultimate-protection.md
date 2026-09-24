@@ -16,7 +16,8 @@ stats:
   strike: '5'
   multi: '74.4'
   mitinc: '3.5'
-effects: '**Bristlebanes Resilience**'
+effect_name: Bristlebanes Resilience
+effects: "- When Equipped:\n  - Increases STR and STA of caster by 55.0.\n  - Increases Block Chance of caster by 2.0%.\n  - Increases Hate Gain of caster by 5.0.\n  - Increases Crit Bonus of caster by 5.0.\n  - Increases Max Health of caster by 4,500.0.\n  - Increases Aggression of caster by 40.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 381615987 645227085 0 0 0:Trickster's Cloak of Ultimate Protection\/a
 categories:
 - Assassin Equipment

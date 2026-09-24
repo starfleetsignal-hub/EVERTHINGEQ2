@@ -18,7 +18,8 @@ stats:
   resolve: '23'
   multi: '54.6'
   mitinc: '10'
-effects: '**Deathbringer''s Sight**'
+effect_name: Deathbringer's Sight
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Territus, the Deathbringer."
 obtained_from: From [[Horde of the Deathbringer]]
 item_link: \aITEM -1852898814 1034137870:Necklace of the Nightmare Warden\/a
 categories:

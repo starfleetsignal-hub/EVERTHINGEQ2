@@ -15,7 +15,8 @@ stats:
   potency: '20.2'
   dps: '21.8'
   multi: '31.2'
-effects: '**The Battlemage**'
+effect_name: The Battlemage
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 60.0.\n  - If mage"
 item_link: \aITEM -231026300 -1902005386:Solid Torque of the Battlemage\/a
 categories:
 - Census Credits

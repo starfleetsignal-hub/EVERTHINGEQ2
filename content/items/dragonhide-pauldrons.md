@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   dtype: Plate Armor
-effects: '**Will of the Dragon**'
+effect_name: Will of the Dragon
+effects: "- Applies Will of the Dragon when Activated.  Lasts for 5 minutes.\n  - Increases Max Power of caster by 5.0%.\n  - This effect cannot be cast during combat\n  - The casting time of Will of the Dragon is 4.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: '[[An Audience with Aaryonar]]'
 item_link: \aITEM -1647195738 -1003632761:Dragonhide Pauldrons\/a
 categories:

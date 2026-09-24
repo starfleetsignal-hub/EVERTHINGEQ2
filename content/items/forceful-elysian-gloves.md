@@ -18,7 +18,8 @@ stats:
   multi: '15.6'
   flurry: '6.7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 1306981050 -1025812982:Forceful Elysian Gloves\/a
 categories:
 - Assassin Equipment

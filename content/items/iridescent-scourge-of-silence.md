@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Suffocate**'
+effect_name: Suffocate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Suffocate on target of attack.  Lasts for 3.6 seconds.  Triggers about 1.8 times per minute.\n    - Stifles target encounter\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1914480814 577389055:Iridescent Scourge of Silence\/a
 categories:
 - Ability Modifier (Equipment)

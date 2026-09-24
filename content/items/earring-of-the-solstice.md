@@ -17,7 +17,8 @@ stats:
   abmod: '+101'
   aspeed: '5.7'
   vselemental: '+360'
-effects: '**Earring of the Solstice**'
+effect_name: Earring of the Solstice
+effects: "- Applies Earring of the Solstice when Activated.  Lasts for 1 day.\n  - Increases speed of caster by 45.0%.\n  - Increases Artificing, Artistry, Chemistry, Fletching, Metal Shaping, Metalworking, Scribing, Sculpting, Tailoring and Transmuting of caster by 20.0.\n  - Increases Fishing, Foresting, Gathering, Mining and Trapping of caster by 25.0.\n  - Increases success chance by 1.0%.\n  - Increases critical success chance by 1.0%.\n  - This effect suspends during combat\n  - The casting time of Earring of the Solstice is 2.0 seconds and the reuse time of the spell is 1 minute"
 obtained_from: '[[The Proof of the Pudding]]'
 item_link: \aITEM -642327463 -1630209615:Earring of the Solstice\/a
 aliases:

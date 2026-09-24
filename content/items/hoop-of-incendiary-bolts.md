@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   aspeed: '9.3'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -1579087909 1893479984:Hoop of Incendiary Bolts\/a
 categories:
 - Arcane Recovery (Equipment)

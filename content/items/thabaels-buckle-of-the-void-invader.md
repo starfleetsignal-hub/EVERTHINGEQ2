@@ -17,7 +17,8 @@ stats:
   critbonus: 1,379
   potency: 51,480
   resolve: '650'
-effects: '**Invader''s Focus**'
+effect_name: Invader's Focus
+effects: "- When Equipped:\n  - Increases Flurry Multiplier of caster by 0.8.\n  - Increases Potency of caster by 17,419.5.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1734334971 -1648321923:Tha'Bael's Buckle of the Void Invader\/a
 categories:
 - Assassin Equipment

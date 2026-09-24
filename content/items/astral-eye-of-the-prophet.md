@@ -18,7 +18,8 @@ stats:
   resolve: '38'
   abmod: +34,162
   mitinc: '22.7'
-effects: '**Astral Ascendants Grace**'
+effect_name: Astral Ascendants Grace
+effects: "- When Equipped:\n  - Increases the damage and healing of Wildfire, Levinbolt, Stone Hammer, and Septic Strike by 8."
 obtained_from: '*From [[Packaged Astral Eye of the Prophet]] *see notes below'
 item_link: \aITEM 515460755 -1861165486:Astral Eye of the Prophet\/a
 categories:

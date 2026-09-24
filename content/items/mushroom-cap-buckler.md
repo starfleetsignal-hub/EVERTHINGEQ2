@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dtype: Buckler
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 1802274459 1674804436:Mushroom Cap Buckler\/a
 categories:
 - Ability Modifier (Equipment)

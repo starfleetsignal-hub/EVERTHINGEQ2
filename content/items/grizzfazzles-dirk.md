@@ -18,7 +18,8 @@ stats:
   drating: '62.59'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Grizzfazzle''s Blast**'
+effect_name: Grizzfazzle's Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Grizzfazzle's Rage on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 195 - 363 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM 1876609891 -556698486:Grizzfazzle's Dirk\/a
 categories:

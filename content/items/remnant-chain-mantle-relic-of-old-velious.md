@@ -19,7 +19,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   dtype: Chain Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -99640980 -1295796004:Remnant Chain Mantle, Relic of Old Velious\/a
 categories:
 - Assassin Equipment

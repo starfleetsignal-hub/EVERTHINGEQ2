@@ -17,7 +17,8 @@ stats:
   dps: '12'
   mitinc: '4.7'
   dtype: Leather Armor
-effects: '**Reflexive Regeneration**'
+effect_name: Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 170 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -988986372 -1445660826:Sapient Leathers\/a
 categories:
 - Assassin Equipment

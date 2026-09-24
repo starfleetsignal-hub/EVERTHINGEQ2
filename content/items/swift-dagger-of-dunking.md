@@ -20,7 +20,8 @@ stats:
   drating: '120.04'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Enduring Breath**'
+effect_name: Enduring Breath
+effects: "- When Equipped:\n  - Allows caster to breathe under water"
 item_link: \aITEM -420299858 -1551820784:Swift Dagger of Dunking\/a
 categories:
 - Assassin Equipment

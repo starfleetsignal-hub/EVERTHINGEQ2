@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '25'
   dtype: Cloth Armor
-effects: '**Diseased Feedback**'
+effect_name: Diseased Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Diseased Feedback on target's attacker.\n    - Inflicts 24 disease damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -411563301 1155964695:Pantaloons of Stability\/a
 categories:
 - Assassin Equipment

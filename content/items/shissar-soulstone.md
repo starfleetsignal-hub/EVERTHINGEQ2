@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   mitinc: '6'
-effects: '**Stonesoul**'
+effect_name: Stonesoul
+effects: "- Applies Stonesoul III when Activated.  Lasts for 30.0 seconds.\n  - Gives caster an extra 20.0% mitigation to their worn armor.\n  - Cannot be modified except by direct means\n  - The reuse time of Stonesoul III is 1 minute 30 seconds"
 item_link: \aITEM -2017668017 -970479004:Shissar Soulstone\/a
 categories:
 - AE Autoattack Chance (Equipment)

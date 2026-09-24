@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   dps: '9.7'
   vsnoxious: '+338'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 151.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Taking it to the Source]]'
 item_link: \aITEM -1703063747 -616200878:Reet Tongue Fingerwrap\/a
 categories:

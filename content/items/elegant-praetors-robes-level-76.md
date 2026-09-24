@@ -17,7 +17,8 @@ stats:
   abmod: '+89'
   aspeed: '5.1'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 992777347 307890155:Elegant Praetor's Robes\/a
 categories:
 - Ability Modifier (Equipment)

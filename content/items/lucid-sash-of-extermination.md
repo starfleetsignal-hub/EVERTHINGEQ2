@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   aspeed: '0.1'
-effects: '**Call of Solusek**'
+effect_name: Call of Solusek
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Call of Solusek V on target of attack.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 353 - 391 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 582.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Call of Solusek V on target of spell.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 353 - 391 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 582.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 50) from [[Ancient Knowledge: Lucid Sash of Extermination]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -565702490 1847581049:Lucid Sash of Extermination\/a
 categories:

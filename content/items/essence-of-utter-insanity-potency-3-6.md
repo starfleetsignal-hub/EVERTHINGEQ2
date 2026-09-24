@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   multi: '10.5'
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 3.0%."
 item_link: \aITEM -94608015 -1889507223:Essence of Utter Insanity\/a
 categories:
 - Assassin Equipment

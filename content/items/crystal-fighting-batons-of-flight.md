@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 2038441149 -1975713205:Crystal Fighting Batons of Flight\/a
 categories:
 - Ability Modifier (Equipment)

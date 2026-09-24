@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   multi: '0.9'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 12.0.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 2099367630 28089639:crude fright imbued sandcloth hex doll\/a
 categories:
 - Assassin Equipment

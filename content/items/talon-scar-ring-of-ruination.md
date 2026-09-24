@@ -16,7 +16,8 @@ stats:
   potency: 44,349.8
   resolve: '525'
   vselemental: +374,075
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 662342102 -1169685210:Talon Scar Ring of Ruination\/a
 categories:
 - Arcane Resistance (Equipment)

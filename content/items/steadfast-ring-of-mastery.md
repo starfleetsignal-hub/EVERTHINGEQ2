@@ -17,7 +17,8 @@ stats:
   aspeed: '17.3'
   multi: '18.1'
   vselemental: +1,824
-effects: '**Mastery**'
+effect_name: Mastery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mastery on caster.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases the base trigger chance of spells and items by 5%.\n    - 4% of all physical damage received by the caster is prevented.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1089942313 -1741760605 0 0 0:Steadfast Ring of Mastery\/a
 categories:
 - Ability Modifier (Equipment)

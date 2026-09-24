@@ -17,7 +17,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 50 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1728262306 -1698623128:Hoard Found Gloves of Obliteration\/a
 categories:
 - Casting Speed (Equipment)

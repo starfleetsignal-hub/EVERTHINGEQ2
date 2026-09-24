@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Cloak of the Arbor**'
+effect_name: Featherfall, Cloak of the Arbor
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Cloak of the Arbor when Activated.\n  - Symbols of nature surround you.\n  - The casting time of Cloak of the Arbor is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: From [[Cloak of the Arbor (crate)|Cloak of the Arbor]]
 item_link: \aITEM 1531165381 2095492033:Cloak of the Arbor\/a
 categories:

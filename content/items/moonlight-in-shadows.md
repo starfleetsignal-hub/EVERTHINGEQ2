@@ -17,7 +17,8 @@ stats:
   potency: 11,287.9
   resolve: '265'
   mitinc: '17.4'
-effects: '**Bond of Akelha''Ra**'
+effect_name: Bond of Akelha'Ra
+effects: "- When Equipped:\n  - Increases effectiveness of Heroic Opportunities by 80%.\n  - On completion of a Heroic Opportunity, target and their group members with Bond of Akelha'Ra will receive Word of Akelha'Ra, if their word is not in cooldown.\n  - The effects of Word of Akelha'Ra increment by 1 each time a Heroic Opportunity is completed, with max duration increasing by 10 seconds. At 10 increments, each archetype gains a new effect and the duration is set to 120 seconds.\n  - Word of Akelha'Ra goes into cooldown for 15 minutes when it reaches 10 increments, or on expiration, or upon target's death.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1587249247 -2102784998:Moonlight in Shadows\/a
 categories:
 - Assassin Equipment

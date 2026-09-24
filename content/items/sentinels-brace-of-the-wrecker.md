@@ -16,7 +16,8 @@ stats:
   aspeed: '2.3'
   dps: '9.2'
   vselemental: +8,415
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 483402105 -1891199871:Sentinel's Brace of the Wrecker\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -766234405 1015404156:Mace of the Obliterator\/a
 categories:
 - Beastlord Equipment

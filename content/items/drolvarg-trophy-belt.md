@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+83'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Commanding Attention]]'
 item_link: \aITEM 1947147535 -968117529:Drolvarg Trophy Belt\/a
 categories:

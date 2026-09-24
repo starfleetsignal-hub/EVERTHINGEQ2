@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   vselemental: '+511'
-effects: '**King''s Legacy**'
+effect_name: King's Legacy
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 0.5.\n    - Increases Potency of group members (AE) by 6.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 0.5.\n    - Increases Potency of group members (AE) by 6.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 797793392 -2136771028:Bracelet of Removed Lands\/a
 categories:
 - Arcane Resistance (Equipment)

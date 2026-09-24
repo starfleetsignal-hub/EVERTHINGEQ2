@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Cloth Armor
-effects: '**Cabalistic Nexus**'
+effect_name: Cabalistic Nexus
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 5.0%.\n  - Increases Potency of caster by 5.0."
 obtained_from: '*Crafted by [[Tailor]] (level 90) from [[Ancient Knowledge: Tranquil Robe of Impulse]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -104907855 -1979037953:Tranquil Robe of Impulse\/a
 image: images/Tranquil_Robe_of_Impulse.jpg

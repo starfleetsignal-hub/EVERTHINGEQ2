@@ -18,7 +18,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Ruinous Glyph**'
+effect_name: Ruinous Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ruinous Glyph on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 21411652 1172825783:Tellurian Spine\/a
 categories:
 - Ability Modifier (Equipment)

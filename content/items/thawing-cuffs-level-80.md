@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM -1724031931 460780124:Thawing Cuffs\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   vselemental: +1,395
-effects: '**Superheated Vapor**'
+effect_name: Superheated Vapor
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Superheated Vapor on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell by 35%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1433487149 1419215456:Bubbled Steel Hoop\/a
 categories:
 - Ability Modifier (Equipment)

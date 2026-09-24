@@ -11,7 +11,8 @@ stats:
   sta: '+2'
   mit: '1'
   dtype: Cloth Armor
-effects: '**Fungoid Fascination**'
+effect_name: Fungoid Fascination
+effects: "- Applies Fungoid Fascination when Equipped.\n  - Shrinks caster by 30.0%."
 obtained_from: '[[Fungoid Fascination]]'
 item_link: \aITEM -1714502655 -1950657408:Fungoid Souvenir\/a
 image: images/Fungoid_Souvenir_In-Game_Examine_Window.jpg

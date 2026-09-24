@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Spear
-effects: '**Tribal Spirit**'
+effect_name: Tribal Spirit
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell has a 9% chance to cast Tribal Spirit on the group.  Lasts for 12.0 seconds.\n    - Reduces elemental, noxious and arcane damage done to group members (AE) by 5%.\n    - Improves the value of healing and ward spells by 5%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Dream Scorcher]]'
 item_link: \aITEM 286869160 -114587292:Dream Scorcher\/a
 categories:

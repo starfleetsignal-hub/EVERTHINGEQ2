@@ -16,7 +16,8 @@ stats:
   drating: '9.73'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Paralyzing Puncture**'
+effect_name: Paralyzing Puncture
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Paralyzing Puncture on target of attack.  Lasts for 2.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 23 - 25 heat damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Calamitous Katar of Dominance]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -352614018 1750298511:Calamitous Katar of Dominance\/a
 categories:

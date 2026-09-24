@@ -18,7 +18,8 @@ stats:
   drating: '74.67'
   dtype: Main Hand Slashing
   wtype: Axe
-effects: '**Destructive Aura**'
+effect_name: Destructive Aura
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Destructive Force on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 155 - 259 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -859758653 -1991062404:Planar Axe of Destruction\/a
 categories:
 - Axe (Weapon Type)

@@ -18,7 +18,8 @@ stats:
   resolve: '630'
   multi: '11.7'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,458.3.\n  - Increases Crit Bonus of caster by 1,555.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1485751217 1820220652:Void Chilled Bracers, Star Forged Relic\/a
 categories:
 - Assassin Equipment

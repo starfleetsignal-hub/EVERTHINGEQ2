@@ -20,7 +20,8 @@ stats:
   drating: '79.74'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Bristlebane''s Shenanigans**'
+effect_name: Bristlebane's Shenanigans
+effects: "- When Equipped:\n  - Chicanery: Reduces hate gain of caster by 30%.\n  - Razzle-Dazzle: Restores power to the caster's group.\n  - Hocus-Pocus Focus: Increases casting speed by 20%.\n  - On a spell cast this spell may cast Bristlebane's Shenanigans on caster.  Triggers about 3.0 times per minute.\n    - This effect may trigger Chicanery, Razzle-Dazzle, or Hocus-Pocus Focus on the spell caster."
 item_link: \aITEM -767905770 -207531829:Cane of Trickery\/a
 categories:
 - Attack Speed (Equipment)

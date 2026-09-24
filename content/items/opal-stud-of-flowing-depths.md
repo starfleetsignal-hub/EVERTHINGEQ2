@@ -17,7 +17,8 @@ stats:
   aspeed: '11.2'
   flurry: '5.1'
   vselemental: '+511'
-effects: '**Pestilential Rain**<br>**King''s Legacy**'
+effect_name: Pestilential Rain, King's Legacy
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a hostile spell cast this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2021923054 -520828334:Opal Stud of Flowing Depths\/a
 categories:
 - Ability Modifier (Equipment)

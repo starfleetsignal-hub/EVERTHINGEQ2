@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   str: '+1'
   sta: '+1'
-effects: '**Blurry Image**'
+effect_name: Blurry Image
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Blurry Image on target of spell cast.  Triggers about 1.8 times per minute.\n    - Decreases Threat to targets in Area of Effect by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1625603263 -426995050:Forgotten Ring of the Oathbreaker\/a
 categories:
 - Assassin Equipment

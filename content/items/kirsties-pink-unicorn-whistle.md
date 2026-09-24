@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 0.71 seconds
   recast: 0.0 seconds
-effects: Call Kirstie's Pink Unicorn
+effects: "- Applies Call Kirstie's Pink Unicorn when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 10%"
 obtained_from: There is no known method to obtain this mount.
 item_link: \aITEM -174591985 -1228253700:[Kirstie's Pink Unicorn whistle]\/a
 categories:

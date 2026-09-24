@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Leather Armor
-effects: '**Grasping Roots**'
+effect_name: Grasping Roots
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Grasping Roots on target of spell.  Lasts for 3.0 seconds.  Triggers about 1.8 times per minute.\n    - Roots target\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 77 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 86.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2124838219 1058981455:Cap of Nature's Wrath\/a
 categories:
 - Ability Modifier (Equipment)

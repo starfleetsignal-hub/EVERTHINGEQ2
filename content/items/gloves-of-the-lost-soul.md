@@ -15,7 +15,8 @@ stats:
   potency: '7.7'
   dps: '17'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[A Jagged Branch]]'
 item_link: \aITEM -1265389606 333000925:Gloves of the Lost Soul\/a
 image: images/Gloves_of_the_Lost_Soul.png

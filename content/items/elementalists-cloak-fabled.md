@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '6'
-effects: '**Avatar''s Infusion**<br>**All for One**'
+effect_name: Avatar's Infusion, All for One
+effects: "- When Equipped:\n  - Increases the damage of Blazing Avatar and removes its trigger limit.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -420698280 -549096263:Elementalist's Cloak\/a
 categories:
 - Ability Doublecast (Equipment)

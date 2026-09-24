@@ -16,7 +16,8 @@ stats:
   aspeed: '5.5'
   dps: '10.3'
   dtype: Buckler
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 25.0%."
 item_link: \aITEM -1846561490 592936898:Broken Toe Blocker\/a
 categories:
 - Attack Speed (Equipment)

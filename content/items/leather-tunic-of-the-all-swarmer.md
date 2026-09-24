@@ -17,7 +17,8 @@ stats:
   dps: '83.2'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Necromunger''s Fortitude**'
+effect_name: Necromunger's Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 1506163785 -1778168476:Leather Tunic of the All Swarmer\/a
 categories:
 - Attack Speed (Equipment)

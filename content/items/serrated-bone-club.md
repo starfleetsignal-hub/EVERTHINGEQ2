@@ -17,7 +17,8 @@ stats:
   drating: '33.79'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 obtained_from: 'Heritage quest reward: [[The Reaching Blade of the Assassin]]'
 item_link: \aITEM -1427834588 1633899969:Serrated Bone Club\/a
 image: images/Serrated_Bone_Club.png

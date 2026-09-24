@@ -20,7 +20,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases Haste of caster by 4.5.\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -632362468 244816964:Draconic Dagger of Ages\/a
 categories:
 - Assassin Equipment

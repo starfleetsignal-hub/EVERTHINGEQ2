@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+142'
   aspeed: '7'
-effects: '**Poisoning of Thule**<br>**Empyrean Recovery**'
+effect_name: Poisoning of Thule, Empyrean Recovery
+effects: "- When Equipped:\n  - Grants a 10.0% chance to resist Fear effects\n  - On any combat or spell hit this spell may cast Poisoning of Thule on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 224 - 273 poison damage on target encounter instantly and every 3 seconds.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Spell Reuse Speed of caster by 5.0%."
 item_link: \aITEM 1849788051 -1760024861 0 0 0:Charm of Cazic Thule\/a
 categories:
 - Ability Modifier (Equipment)

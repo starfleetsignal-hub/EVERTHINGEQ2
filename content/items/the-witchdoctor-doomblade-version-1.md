@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Caustic Affliction**'
+effect_name: Caustic Affliction
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Caustic Affliction on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 228 poison damage on target instantly and every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1650394813 2130067711:The Witchdoctor Doomblade\/a
 categories:
 - Assassin Equipment

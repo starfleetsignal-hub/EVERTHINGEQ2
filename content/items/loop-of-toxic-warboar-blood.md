@@ -16,7 +16,8 @@ stats:
   aspeed: '18.4'
   dps: '29.6'
   vsarcane: +1,833
-effects: '**Major Aegis of Blood**'
+effect_name: Major Aegis of Blood
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Major Aegis of Blood on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards caster against 1,500 points of all damage\n    - Inflicts 4,555 - 5,035 piercing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 175424508 -835675757 0 0 0:Loop of Toxic Warboar Blood\/a
 categories:
 - Arcane Resistance (Equipment)

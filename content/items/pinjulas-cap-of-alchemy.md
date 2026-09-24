@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '69'
   dtype: Leather Armor
-effects: '**Insightful Awareness**'
+effect_name: Insightful Awareness
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Flash of Insight on caster.\n    - Increases power of target by 21 - 39.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -809525005 361366993:Pinjula's Cap of Alchemy\/a
 image: images/Pinjula's_Cap_of_Alchemy.png
 categories:

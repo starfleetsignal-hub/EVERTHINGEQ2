@@ -19,7 +19,8 @@ stats:
   abmod: +11,686
   dps: '28'
   flurry: '12'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 340.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Bloody Tooth Advanced Jewelry]]
 item_link: \aITEM 1810834551 -1283924466:Bloody Tooth Soothsayer's Luck Charm\/a
 categories:

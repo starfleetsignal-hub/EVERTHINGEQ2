@@ -17,7 +17,8 @@ stats:
   aspeed: '36.7'
   dps: '14'
   vselemental: +30,687
-effects: '**Uplifting Criticals**'
+effect_name: Uplifting Criticals
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 90.0."
 obtained_from: 'Collection reward: [[Waterworks Spare Parts (Collection)]]'
 item_link: \aITEM 859625953 1743027396:Intrusive Etched Bangle\/a
 categories:

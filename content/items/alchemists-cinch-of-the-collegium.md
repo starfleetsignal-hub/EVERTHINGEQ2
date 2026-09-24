@@ -16,7 +16,8 @@ stats:
   potency: '9.8'
   aspeed: '14.8'
   dps: '24.1'
-effects: '**Oracle**'
+effect_name: Oracle
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 6%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -635387471 1065792073:Alchemist's Cinch of the Collegium\/a
 image: images/Alchemist's_Cinch_of_the_Collegium.png
 categories:

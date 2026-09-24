@@ -17,7 +17,8 @@ stats:
   abmod: '+306'
   aspeed: '14.8'
   multi: '15.6'
-effects: '**Cyclonic Form**'
+effect_name: Cyclonic Form
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 7.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -979246413 2065487988:Dominant Choker of Delirium\/a
 categories:
 - Ability Modifier (Equipment)

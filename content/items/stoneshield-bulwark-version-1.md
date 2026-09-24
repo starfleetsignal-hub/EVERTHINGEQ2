@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   aspeed: '4'
   dtype: Tower Shield
-effects: '**Stoneshield Phalanx**'
+effect_name: Stoneshield Phalanx
+effects: "- When Equipped:\n  - Has a 2% chance to absorb a melee attack."
 item_link: \aITEM 150560794 247438716:Stoneshield Bulwark\/a
 image: images/Stoneshield_Bulwark.jpg
 categories:

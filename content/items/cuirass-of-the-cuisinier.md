@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Plate Armor
-effects: '**Crippling Riposte**'
+effect_name: Crippling Riposte
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Crippling Riposte on target's attacker.  Lasts for 16.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Haste of target by 20.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Honoring the Master Chef]]'
 item_link: \aITEM 1301377389 489073549:Cuirass of the Cuisinier\/a
 categories:

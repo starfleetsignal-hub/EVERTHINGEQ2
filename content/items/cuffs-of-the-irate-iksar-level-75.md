@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   multi: '5.9'
   vselemental: '+338'
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1265862655 2034367417:Cuffs of the Irate Iksar\/a
 categories:
 - AE Autoattack Chance (Equipment)

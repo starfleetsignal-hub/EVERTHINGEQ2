@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   dps: '21.8'
   multi: '31.2'
-effects: '**Terrifying Taunts**'
+effect_name: Terrifying Taunts
+effects: "- When Equipped:\n  - The wearer's primary taunts will be converted to detaunts"
 obtained_from: From [[Runic Ethertouched Necklace]]
 item_link: \aITEM -1572126825 -1117151468:Fireshot's Pendant\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '52.7'
   aspeed: '179.2'
   dtype: Chain Armor
-effects: '**Pure Malice**'
+effect_name: Pure Malice
+effects: "- Applies Pure Malice when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 997425168 -482592641:Underfoot Crown of Serilis\/a
 categories:
 - Assassin Equipment

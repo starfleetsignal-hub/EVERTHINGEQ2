@@ -16,7 +16,8 @@ stats:
   aspeed: '28.2'
   multi: '28.2'
   flurry: '0.5'
-effects: '**Earthen Consort**'
+effect_name: Earthen Consort
+effects: "- When Equipped:\n  - When damaged, this spell has a 5% chance to cast Earthen Consort on target's attacker. Lasts for 10.0 seconds.\n- Applies Earthen Consort when Activated.  Lasts for 20.0 seconds.\n  - Suspends the passive effect for 120 seconds\n  - Summons an earthen pet that will voraciously taunt foes off the caster for a limited duration.\n  - This item may not be used in a PvP zone.\n  - The casting time of Earthen Consort is 0.5 seconds and the reuse time of the spell is 2 minutes"
 obtained_from: '*From [[A Packet of Heroic Goods (Assassin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Beastlord, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Brigand, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Dirge, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Ranger, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Swashbuckler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Troubador, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -662426768 1569854035:Daring Talisman\/a
 categories:

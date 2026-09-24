@@ -16,7 +16,8 @@ stats:
   abmod: '+393'
   dps: '27.1'
   vselemental: +1,832
-effects: '**Reprisal**'
+effect_name: Reprisal
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Reprisal II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives caster an extra 2.2% mitigation to their worn armor.\n    - When any damage is received this spell will cast Reprisal II on target's attacker.\n      - Inflicts 326 - 360 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -840014091 279566569:Caella's Hardened Pearl Casing\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   multi: '35.7'
   vselemental: +367,510
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 456.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 999185210 -6708205:Memorial Hoop, Greater Relic of Old Velious\/a
 categories:
 - Arcane Resistance (Equipment)

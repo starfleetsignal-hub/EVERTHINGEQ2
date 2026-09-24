@@ -16,7 +16,8 @@ stats:
   critbonus: 1,358.3
   potency: 47,371.1
   resolve: '565'
-effects: '**Spiritual Thirst**'
+effect_name: Spiritual Thirst
+effects: "- When Equipped:\n  - Increases Flurry Multiplier of caster by 2.7.\n  - Increases Ability Doublecast of caster by 12.2.\n  - Grants see stealth.\n  - Increases Flurry of Caster by 57.6.\n  - Must be in a Scars of Destruction raid zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1259229769 -1442834703:Lady's Charm of the Spirit\/a
 categories:
 - Assassin Equipment

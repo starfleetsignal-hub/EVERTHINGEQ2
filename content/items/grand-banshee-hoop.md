@@ -13,7 +13,8 @@ stats:
   crit: '6'
   abmod: '+175'
   vselemental: '+837'
-effects: '**Baleful Countenance**'
+effect_name: Baleful Countenance
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1590343231 -896195013:Grand Banshee Hoop\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '94.04'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple VIII on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 1,250 points of all damage\n    - Heals target for 561 - 620 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 80) from [[Ancient Knowledge: Dire Mace of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -1960099253 -1499953119:Dire Mace of Synergism\/a
 categories:

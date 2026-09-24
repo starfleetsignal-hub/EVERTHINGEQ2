@@ -19,7 +19,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Leather Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 42.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1807071609 -597277191:Vestige Leather Jerkin, Greater Relic of Old Velious\/a
 categories:
 - Brawler Equipment

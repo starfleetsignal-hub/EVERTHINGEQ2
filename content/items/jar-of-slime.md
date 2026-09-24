@@ -17,7 +17,8 @@ stats:
   potency: 1,766.2
   resolve: '16'
   dps: '44.6'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 23.1.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 23.1.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -793757906 -39404749:Jar of Slime\/a
 image: images/Jar_of_Slime.png
 categories:

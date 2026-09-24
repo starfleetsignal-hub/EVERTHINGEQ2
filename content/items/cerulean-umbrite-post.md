@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '18.7'
   vselemental: +28,612
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 obtained_from: '*[[Mining Your Business]] *[[Return to the Pillars]]'
 item_link: \aITEM 1886204472 265208761:Cerulean Umbrite Post\/a
 image: images/Cerulean_Umbrite_Post.png

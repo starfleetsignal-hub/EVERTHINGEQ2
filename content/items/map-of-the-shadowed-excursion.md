@@ -17,7 +17,8 @@ stats:
   potency: 9,047.3
   resolve: '170'
   dps: '64.2'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.0.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1593721104 -1807474047:Map of the Shadowed Excursion\/a
 categories:
 - Assassin Equipment

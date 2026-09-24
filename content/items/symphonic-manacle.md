@@ -14,7 +14,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   vselemental: '+360'
-effects: '**Symphony of the Night**'
+effect_name: Symphony of the Night
+effects: "- When Equipped:\n  - Increases range and duration of all spells by 5%.\n  - Reduces resistibility of all spells by 5%.\n  - Increases casting speed and reduces reuse time of all spells by 3%."
 obtained_from: '[[The Aria of Malediction]]'
 item_link: \aITEM 661252862 969700050:Symphonic Manacle\/a
 image: images/Symphonic_Manacle.jpg

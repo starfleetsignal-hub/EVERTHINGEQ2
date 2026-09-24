@@ -16,7 +16,8 @@ stats:
   abmod: +1,622
   aspeed: '18.3'
   vselemental: +30,687
-effects: '**Allied Energy**'
+effect_name: Allied Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 item_link: \aITEM -196030472 66914347:Binary Zero\/a
 categories:
 - Ability Modifier (Equipment)

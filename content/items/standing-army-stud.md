@@ -15,7 +15,8 @@ stats:
   resolve: '5'
   aspeed: '37.7'
   vselemental: +33,491
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Gives caster an extra 12.0% mitigation to their worn armor.\n  - Increases Block Chance of caster by 12.0%."
 item_link: \aITEM -1372805865 -1869344290:Standing Army Stud\/a
 categories:
 - Arcane Resistance (Equipment)

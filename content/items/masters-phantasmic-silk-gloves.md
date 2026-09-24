@@ -16,7 +16,8 @@ stats:
   potency: '5.8'
   abmod: '+173'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[This is Nuts!]]'
 item_link: \aITEM 1327354001 1123424855:Master's Phantasmic Silk Gloves\/a
 categories:

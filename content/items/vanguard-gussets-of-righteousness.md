@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '204'
   dtype: Plate Armor
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 76 divine damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Drops off [[N'Kzak the Unnatural]]
 item_link: \aITEM -1149427779 -1895216850:Vanguard Gussets of Righteousness\/a
 categories:

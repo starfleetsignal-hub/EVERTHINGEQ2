@@ -16,7 +16,8 @@ stats:
   potency: '1'
   dps: '4'
   dtype: Plate Armor
-effects: '**Weakness**'
+effect_name: Weakness
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Weakness on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases STR of target by 46.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1840446902 1402697811:Gussets of Carnage\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   abmod: '+12'
   dtype: Cloth Armor
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM -1966550911 -168347865:Tobrin's Mystical Eyepatch\/a
 categories:
 - Ability Modifier (Equipment)

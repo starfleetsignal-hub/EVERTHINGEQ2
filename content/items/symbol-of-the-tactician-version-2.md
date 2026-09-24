@@ -17,7 +17,8 @@ stats:
   abmod: '+71'
   vsarcane: '+280'
   dtype: Symbols
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 7.0."
 item_link: \aITEM -1695296928 2087722955:Symbol of the Tactician\/a
 categories:
 - Ability Modifier (Equipment)

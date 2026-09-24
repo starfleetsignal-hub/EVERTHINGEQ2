@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**Death''s Advance**<br>**All for One**'
+effect_name: Death's Advance, All for One
+effects: "- When Equipped:\n  - Grants a 5% chance to instantly recast any offensive Combat Art used.\n  - Death March and On the March will now effect the entire raid.\n  - Doubles the duration of On the March.\n  - On the March will grant ability doublecast to the raid.\n  - On the March will increase Max Health.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 1235984063 -898371006:Gravelord's Shroud\/a
 categories:
 - All for One (Equipment)

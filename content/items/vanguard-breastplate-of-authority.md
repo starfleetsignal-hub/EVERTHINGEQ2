@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '161'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Ancient Knowledge: Vanguard Breastplate of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 800016949 -2007039213:Vanguard Breastplate of Authority\/a
 categories:

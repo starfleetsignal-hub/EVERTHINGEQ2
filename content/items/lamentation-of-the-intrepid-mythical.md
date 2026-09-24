@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Piercing
   wtype: Sword
-effects: '**March of Blades**<br>**Intrepid Strike**<br>**Sustain of the Intrepid**'
+effect_name: March of Blades, Intrepid Strike, Sustain of the Intrepid
+effects: "- When Equipped:\n  - Applies the effects of Cacophony of Blades II to all raid members.\n- When Equipped:\n  - On a melee hit this spell may cast Intrepid Strike on caster.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Increases Flurry of Caster by 25.0.\n    - Increases Potency of caster by 25.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Riana's Relentless Tune VI will improve combat art damage by 10%."
 obtained_from: '[[Restoration of the Lamentation]]'
 item_link: \aITEM -1478755540 1371701413:Lamentation of the Intrepid\/a
 image: images/Lamentation_of_the_Intrepid_(Mythical).JPG

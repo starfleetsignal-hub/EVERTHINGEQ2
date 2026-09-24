@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '55'
   dtype: Cloth Armor
-effects: '**Cabalistic Nexus**'
+effect_name: Cabalistic Nexus
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 1.3%.\n  - Increases Potency of caster by 1.3."
 obtained_from: '*Crafted by [[Tailor]] (level 20) from [[Ancient Knowledge: Tranquil Robe of Havoc]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 235691005 1825411669:Tranquil Robe of Havoc\/a
 categories:

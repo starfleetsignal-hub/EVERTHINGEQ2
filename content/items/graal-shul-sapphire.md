@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   abmod: '+32'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: '[[Crippling Gra''al Shul]]'
 item_link: \aITEM 1107762193 -1302438970:Gra'al Shul Sapphire\/a
 categories:

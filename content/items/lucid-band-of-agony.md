@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   vsarcane: '+186'
-effects: '**Arcane Vulnerability**'
+effect_name: Arcane Vulnerability
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Arcane Vulnerability VI on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 620.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Arcane Vulnerability VI on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 620.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 60) from [[Ancient Knowledge: Lucid Band of Agony]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 144414082 -420412166:Lucid Band of Agony\/a
 categories:

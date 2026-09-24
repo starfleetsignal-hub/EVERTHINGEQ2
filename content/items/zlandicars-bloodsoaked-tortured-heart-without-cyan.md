@@ -15,7 +15,9 @@ stats:
   potency: '22.4'
   dps: '30'
   dtype: Tower Shield
-effects: '**Ubiquity of Zek**<br>**Insurmountable**'
+effect_name: Ubiquity of Zek, Insurmountable
+effects: "- Applies Ubiquity of Zek when Activated.  Lasts for 1 minute.\n  - Applies Planar Fortitude.  Lasts for 1 minute.\n    - Will absorb elemental, noxious and arcane damage. This spell will absorb a total of 5 attacks.\n    - Cannot be modified except by direct means\n  - Increases Unconscious Health of caster by 2,300.0.\n  - Transfers 10% of group members (AE)'s current Threat to the caster\n  - Cannot be modified except by direct means\n  - The casting time of Ubiquity of Zek is 1.0 second and the reuse time of the spell is 8 minutes\n- When Equipped:\n  - On a block this spell has a 10% chance to cast Insurmountable on target's victim.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,440 - 1,591 crushing damage on target.\n    - Increases Hate Gain of caster by 12.0.\n    - Increases Block Chance of caster by 20.0%.\n    - Enlarges caster by 20.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified\
+  \ except by direct means"
 obtained_from: 'Heritage quest reward: [[The Heart of Bones]]'
 item_link: \aITEM -174404763 -94912140:Zlandicar's Bloodsoaked Tortured Heart\/a
 categories:

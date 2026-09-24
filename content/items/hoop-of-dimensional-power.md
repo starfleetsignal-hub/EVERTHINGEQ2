@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+360'
-effects: '**Thought Siphon**'
+effect_name: Thought Siphon
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Thought Siphon on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 389.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1191133444 -252171576:Hoop of Dimensional Power\/a
 categories:
 - Ability Modifier (Equipment)

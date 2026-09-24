@@ -15,7 +15,8 @@ stats:
   critbonus: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM -479172251 -89852060:Cap of Coercion\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '7'
   dps: '18.1'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 5 percent."
 obtained_from: <br>
 item_link: \aITEM -2090399129 -2052651723:Channeling Cap of Ghost Mind\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   dps: '24.8'
   dtype: Plate Armor
-effects: '**Greater Nocturnal Celerity**'
+effect_name: Greater Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM 366082035 66778228:Zazun's Plate Gauntlets of Living Toxins\/a
 categories:
 - Census Credits

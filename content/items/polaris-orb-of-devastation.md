@@ -13,7 +13,8 @@ stats:
   crit: '5'
   abmod: '+75'
   dtype: Symbols
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 5%."
 item_link: \aITEM 638780272 -1962708976:Polaris, Orb of Devastation\/a
 categories:
 - Ability Modifier (Equipment)

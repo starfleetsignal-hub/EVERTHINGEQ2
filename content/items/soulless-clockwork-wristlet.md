@@ -16,7 +16,8 @@ stats:
   abmod: '+827'
   dps: '28.6'
   vselemental: +32,207
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 37.5.\n  - Increases Potency of caster by 37.5."
 item_link: \aITEM 229439297 1195608667:Soulless Clockwork Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

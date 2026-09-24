@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vselemental: '+217'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality VII on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 750 points of all damage\n    - Wards caster against 375 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 70) from [[Ancient Knowledge: Radiant Bangle of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -1809261798 1675121728:Radiant Bangle of the Profound\/a
 categories:

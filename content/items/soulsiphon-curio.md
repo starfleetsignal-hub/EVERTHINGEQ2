@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   dps: '15.9'
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 113\n    - Increases power of caster by 75\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1197894149 -549302299:Soulsiphon Curio\/a
 categories:
 - Assassin Equipment

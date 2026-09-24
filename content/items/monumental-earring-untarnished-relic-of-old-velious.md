@@ -16,7 +16,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   vselemental: +374,075
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 53.0.\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 531927589 -1701467382:Monumental Earring, Untarnished Relic of Old Velious\/a
 categories:
 - Arcane Resistance (Equipment)

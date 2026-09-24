@@ -16,7 +16,8 @@ stats:
   abmod: +1,606
   aspeed: '18.1'
   vselemental: +30,369
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM -417348642 -1519800937:Etched Bangle of Vel'da'kar\/a
 image: images/Etched_Bangle_of_Vel'da'kar.png
 categories:

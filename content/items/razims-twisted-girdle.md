@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   dps: '13.1'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: '[[Darkest Dust]]'
 item_link: \aITEM -1560176759 179844780:Razim's Twisted Girdle\/a
 categories:

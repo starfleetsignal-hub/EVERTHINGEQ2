@@ -16,7 +16,8 @@ stats:
   dps: '22'
   multi: '28.8'
   dtype: Chain Armor
-effects: '**Rapidity in the Dark**'
+effect_name: Rapidity in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM 1516385872 1698514330:Kradon's Chain Sabatons of Impending Doom\/a
 categories:
 - Assassin Equipment

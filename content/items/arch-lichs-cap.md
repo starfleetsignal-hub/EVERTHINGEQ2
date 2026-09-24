@@ -16,7 +16,8 @@ stats:
   critbonus: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 3 percent."
 item_link: \aITEM -632952812 -2089065165:Arch Lich's Cap\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   resolve: '7'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**All for One**<br>**Aria of War**'
+effect_name: All for One, Aria of War
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries.\n- When Equipped:\n  - Aria of Magic will now trigger from combat arts.\n  - Increases the damage of Aria of Magic.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1722082694 -1795856334:Cloak of the Virtuoso\/a
 categories:
 - All for One (Equipment)

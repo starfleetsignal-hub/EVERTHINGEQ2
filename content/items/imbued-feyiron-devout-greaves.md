@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '193'
   dtype: Plate Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 47 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 37) from [[Armorer Essentials Volume 37 (Normal)]] *Crafted by [[Armorer]] (level 37) from [[Armorer Essentials Volume 37 (no-trade)]]'
 item_link: \aITEM 473524987 -1200568427:Imbued Feyiron Devout Greaves\/a
 categories:

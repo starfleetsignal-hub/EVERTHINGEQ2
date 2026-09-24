@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   aspeed: '7.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: '[[Source of the Rumblings]]'
 item_link: \aITEM -1691998599 1713697869:Gemstone Necklace of Persevering Faith\/a
 categories:

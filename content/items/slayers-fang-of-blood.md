@@ -15,7 +15,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   vsarcane: '+238'
-effects: '**Lesser Swift Recovery**'
+effect_name: Lesser Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 0.8 times per minute.\n    - Increases power of caster by 60.\n    - Cannot be modified except by direct means"
 obtained_from: no longer obtainable
 item_link: \aITEM 1179834491 1977956694:Slayer's Fang of Blood\/a
 categories:

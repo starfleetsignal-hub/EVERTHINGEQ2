@@ -19,7 +19,8 @@ stats:
   resolve: '640'
   mitinc: '100.9'
   dtype: Cloth Armor
-effects: '**Scent of Tenacity**'
+effect_name: Scent of Tenacity
+effects: "- When Equipped:\n  - On a hostile ability cast this spell will cast Scent of Tenacity I on caster.  Lasts for 42.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Max Health of caster by 27.5%.\n    - Increases Potency of caster by 7,654.0.\n    - Increases Critical Bonus mutliplied by the number of living allies with the \"Scent of Tenacity\" effect worn. With the maximum gain for this effect being 6000 additional Critical Bonus.\n    - The amount of Critical Bonus is further increased if the allies have higher ranking versions of the \"Scent of Tenacity\" effect active.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 48.0 - 60.0 seconds.\n  - The \"Scent of Tenacity\" effect can only trigger within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -752008619 -1444697680:Kantankerus Voidshell Shawl of Tenacity\/a
 categories:
 - Census Credits

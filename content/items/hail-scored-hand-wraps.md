@@ -17,7 +17,8 @@ stats:
   dps: '18.1'
   multi: '11.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1522060050 828252846:Hail-scored Hand Wraps\/a
 categories:
 - Assassin Equipment

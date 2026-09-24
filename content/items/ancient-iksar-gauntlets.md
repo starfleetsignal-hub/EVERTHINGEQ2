@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   multi: '6.4'
   dtype: Chain Armor
-effects: '**Sap Strength**'
+effect_name: Sap Strength
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Sap Strength on target's attacker.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases DPS of target by 15.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sealed With a Scorpikis]]'
 item_link: \aITEM 107520161 1193445689:Ancient Iksar Gauntlets\/a
 categories:

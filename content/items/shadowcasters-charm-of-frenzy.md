@@ -19,7 +19,8 @@ stats:
   abmod: +50,749
   aspeed: '93.7'
   dps: '71.1'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 3,807.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1602773212 -624356992:Shadowcaster's Charm of Frenzy\/a
 categories:
 - Ability Modifier (Equipment)

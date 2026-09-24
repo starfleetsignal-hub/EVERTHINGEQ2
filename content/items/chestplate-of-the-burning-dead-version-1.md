@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dtype: Chain Armor
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 236.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1203107811 1836510969:Chestplate of the Burning Dead\/a
 categories:
 - Ability Modifier (Equipment)

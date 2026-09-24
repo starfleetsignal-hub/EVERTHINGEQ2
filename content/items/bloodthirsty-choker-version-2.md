@@ -15,7 +15,8 @@ stats:
   potency: '2.7'
   aspeed: '4.3'
   dps: '8.6'
-effects: '**Vampiric Requiem**'
+effect_name: Vampiric Requiem
+effects: "- Applies Vampiric Requiem when Equipped.\n  - Increases base damage of spells and combat arts by 25%.\n  - On a damage spell hit this spell will cast Vampiric Requiem on caster.\n    - Inflicts 10% of max health in focus damage on caster.\n  - When a combat art is used this spell will cast Vampiric Requiem on caster.\n    - Inflicts 10% of max health in focus damage on caster."
 item_link: \aITEM -1134262012 -198550402:Bloodthirsty Choker\/a
 categories:
 - Assassin Equipment

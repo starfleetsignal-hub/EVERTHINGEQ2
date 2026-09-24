@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '110'
   dtype: Leather Armor
-effects: '**Glyph of Warding**'
+effect_name: Glyph of Warding
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Glyph of Warding on caster.  Lasts for 30.0 seconds.\n    - Wards target against 6 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1516290505 318408243:Orc Hide Leggings\/a
 categories:
 - Assassin Equipment

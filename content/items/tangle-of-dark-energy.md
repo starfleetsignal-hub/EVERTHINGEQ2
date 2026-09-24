@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vsarcane: +16,380
-effects: '**Lethargic Limbs**'
+effect_name: Lethargic Limbs
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Lethargic Limbs on target of attack.  Lasts for 15.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Haste of target by 25.0.\n    - This spell will not stack if cast by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1593774795 77391590:Tangle of Dark Energy\/a
 categories:
 - AE Autoattack Chance (Equipment)

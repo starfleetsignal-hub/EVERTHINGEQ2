@@ -16,7 +16,8 @@ stats:
   abmod: '+763'
   dps: '26.4'
   vselemental: +29,243
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -137143772 -2118945983:Tranquil Lumicite Ring\/a
 categories:

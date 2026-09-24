@@ -16,7 +16,8 @@ stats:
   abmod: '+827'
   dps: '28.6'
   vselemental: +32,207
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -140333904 420054584:Eternal Malice\/a
 categories:
 - Ability Modifier (Equipment)

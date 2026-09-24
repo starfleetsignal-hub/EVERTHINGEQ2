@@ -16,7 +16,8 @@ stats:
   abmod: +1,622
   aspeed: '18.3'
   vselemental: +30,687
-effects: '**Power of Malice**'
+effect_name: Power of Malice
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 72. If the wearer is the top of an enemy's hatelist, the value is increased to 96.\n  - Increases the wearer's health by 20,000. If the wearer is the top of an enemy's hatelist, the value is increased to 42,000."
 item_link: \aITEM -1006074406 -591497293:Coil of Mrwar\/a
 categories:
 - Ability Modifier (Equipment)

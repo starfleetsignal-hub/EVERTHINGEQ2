@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '126'
   dtype: Chain Armor
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM -1756320937 2074413218:Broodmother Scale Mantle\/a
 categories:
 - Assassin Equipment

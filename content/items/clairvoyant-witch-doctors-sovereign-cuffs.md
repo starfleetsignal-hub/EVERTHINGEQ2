@@ -16,7 +16,8 @@ stats:
   potency: '9.6'
   abmod: '+336'
   dtype: Chain Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM -2024951976 -710680507:Clairvoyant Witch Doctor's Sovereign Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

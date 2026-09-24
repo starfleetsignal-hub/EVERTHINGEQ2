@@ -21,7 +21,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Vindication**'
+effect_name: Vindication
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Vindication on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 123 - 205 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 955336887 -1805820317:Battleaxe of Vindication\/a
 categories:
 - Ability Modifier (Equipment)

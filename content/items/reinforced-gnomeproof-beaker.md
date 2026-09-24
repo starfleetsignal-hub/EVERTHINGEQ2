@@ -8,7 +8,8 @@ level: '20'
 slot: Charm
 classes: '[[Alchemist]]'
 flags: attunable
-effects: '**Simple Tools**'
+effect_name: Simple Tools
+effects: "- Applies Simple Tools when Equipped.\n  - Increases success chance by 1.0%."
 obtained_from: Made with Tinkering (skill 30) from [[Apprentice Blueprints 0.003]].
 item_link: \aITEM -410766441 1258452422:Reinforced Gnomeproof Beaker\/a
 categories:

@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: '0.0'
-effects: Summon Ornate Carpet
+effects: "- Applies Summon Ornate Carpet when Activated. Lasts for 1 day.\n  - Increases Crushing of caster by 5.0\n  - Summons a mount to ride that increases your speed by 50%\n  - Increases Slashing, Aggression, Ranged and Piercing of caster by 5.0"
 obtained_from: Legends of Norrath loot card
 item_link: 1332417549 1908305770:an ornate Maj'dul carpet card
 image: images/An_ornate_Maj'dul_carpet_card.jpg

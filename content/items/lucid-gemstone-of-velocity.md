@@ -13,7 +13,8 @@ stats:
   crit: '2.3'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Fatal Pestilience**'
+effect_name: Fatal Pestilience
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Pestilience VIII on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 176 - 195 disease damage on targets in Area of Effect.\n    - Inflicts 220 - 244 disease damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 8 - 9 disease damage on targets in Area of Effect every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 80) from [[Ancient Knowledge: Lucid Gemstone of Velocity]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 1946183331 1057607196:Lucid Gemstone of Velocity\/a
 categories:

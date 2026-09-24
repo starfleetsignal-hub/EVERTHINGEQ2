@@ -17,7 +17,8 @@ stats:
   multi: '21.6'
   mitinc: '13.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -374735457 1393329568 0 0 0:Primal Velium Gauntlets\/a
 categories:
 - Berserker Equipment

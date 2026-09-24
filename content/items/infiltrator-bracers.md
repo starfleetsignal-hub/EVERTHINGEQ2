@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Stinging Barbs**'
+effect_name: Stinging Barbs
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Stinging Barbs on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases DPS of target by 7.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -999750177 779406376:Infiltrator Bracers\/a
 categories:
 - Ability Modifier (Equipment)

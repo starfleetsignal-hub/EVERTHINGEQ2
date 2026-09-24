@@ -17,7 +17,8 @@ stats:
   potency: 3,123.9
   resolve: '50'
   dps: '51.6'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Achievement reward: [[Grasping Planar Knowledge]]'
 item_link: \aITEM -1216726300 -1727375123:Planar Knowledge\/a
 image: images/Planar_Knowledge.png

@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Savagery**'
+effect_name: Savagery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Savagery II on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases DPS of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 477317998 87285673:Waning Moon Cutter\/a
 categories:
 - Assassin Equipment

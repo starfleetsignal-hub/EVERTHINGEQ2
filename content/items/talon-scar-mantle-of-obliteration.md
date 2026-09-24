@@ -19,7 +19,8 @@ stats:
   resolve: '535'
   abmod: +3782,255
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -677674112 95891899:Talon Scar Mantle of Obliteration\/a
 categories:
 - Ability Modifier (Equipment)

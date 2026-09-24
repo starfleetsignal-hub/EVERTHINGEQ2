@@ -18,7 +18,8 @@ stats:
   multi: '34.1'
   flurry: '0.6'
   vselemental: +8,019
-effects: '**Vitriolic Animus**'
+effect_name: Vitriolic Animus
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Vitriolic Animus III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 3,544 - 3,917 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 495.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2135225764 -20386297:Shackle of Terris\/a
 categories:
 - Arcane Resistance (Equipment)

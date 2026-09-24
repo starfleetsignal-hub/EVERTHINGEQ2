@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Chain Armor
-effects: '**Successive Blows**'
+effect_name: Successive Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Successive Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 9.0.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -428123699 1656826453 0 0 0:Marauder's Chain Hauberk\/a
 categories:

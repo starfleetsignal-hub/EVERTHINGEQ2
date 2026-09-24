@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   dps: '21.1'
   dtype: Leather Armor
-effects: '**Siphoned Souls**'
+effect_name: Siphoned Souls
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Siphoned Souls on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,365 - 2,047 magic damage on target.\n    - Heals group members (AE) for 1,673 - 2,045.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1625949999 1612276510:Plated Gloves of Tireless Delving\/a
 categories:
 - Assassin Equipment

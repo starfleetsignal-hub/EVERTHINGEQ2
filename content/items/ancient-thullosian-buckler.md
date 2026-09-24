@@ -11,7 +11,8 @@ stats:
   str: '+36'
   vsnoxious: '+456'
   dtype: Buckler
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 5.0%."
 obtained_from: '[[Unlock Their Secrets]]'
 item_link: \aITEM 938570363 1755793003:Ancient Thullosian Buckler\/a
 image: images/Ancient_Thullosian_Buckler.jpg

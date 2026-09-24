@@ -14,7 +14,8 @@ stats:
   potency: '12.6'
   dps: '53.4'
   vselemental: +9,504
-effects: '**Storming Tempest**'
+effect_name: Storming Tempest
+effects: "- When Equipped:\n  - Increases Reuse Speed of caster by 3.0%.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 700.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1934007118 -1695283923:Bangle of the High Seas\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   dps: '10.1'
   multi: '6.2'
   vselemental: '+338'
-effects: '**Mirage**'
+effect_name: Mirage
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Mirage on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM -391363533 1597303691:Bathezid Brigade Bracers\/a
 categories:
 - Arcane Resistance (Equipment)

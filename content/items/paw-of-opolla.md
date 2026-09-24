@@ -17,7 +17,7 @@ stats:
   critbonus: '2.5'
   potency: '10'
   vsarcane: '+791'
-effects: Curse of Opolla
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Curse of Opolla on caster.\n    - Drains 5% of your group's health and grants a portion of that health back to the wearer!\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell has a 5% chance to cast Curse of Opolla on caster.\n    - Drains 5% of your group's health and grants a portion of that health back to the wearer!\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[A Source of Malediction]]'
 item_link: -2146540153 1593363484:[Paw of Opolla]\/a
 categories:

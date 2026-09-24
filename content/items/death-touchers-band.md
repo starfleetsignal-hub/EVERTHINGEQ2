@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Spectral Protection**'
+effect_name: Spectral Protection
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Spectral Protection on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 137,200 mental damage on target.\n    - Increases Mitigation of caster vs physical damage by 1,034.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -606177405 868294899:Death-Toucher's Band\/a
 categories:
 - AE Autoattack Chance (Equipment)

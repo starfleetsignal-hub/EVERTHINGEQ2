@@ -16,7 +16,8 @@ stats:
   critbonus: 1,063.9
   potency: 12,698.9
   resolve: '280'
-effects: '**Fight Night**'
+effect_name: Fight Night
+effects: "- Applies Fight Night when Activated.  Lasts for 2 minutes.\n  - Reduces physical damage done to caster by 8%.\n  - Increases Hate Gain of caster by 25.0.\n  - Increases Weapon Damage of caster by 144.0.\n  - Increases Weapon Damage Overcap of caster by 144.0.\n  - Allows caster to hit all melee based attacks for maximum damage.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Fight Night is 4.0 seconds and the reuse time of the spell is 15 minutes"
 item_link: \aITEM -2002172228 -738403150:Ensorcelled Totem of the Living Pack\/a
 categories:
 - Ability Doublecast (Equipment)

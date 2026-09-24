@@ -17,7 +17,8 @@ stats:
   aspeed: '12.2'
   multi: '13'
   vselemental: +1,457
-effects: '**Dragonslayer''s Fury**'
+effect_name: Dragonslayer's Fury
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Dragonslayer's Fury on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.2 times per minute.\n    - Inflicts 2,344 heat damage on target.\n    - Heals caster for 2,100.\n    - Increases Flurry of Caster by 2.0.\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Dragonslayer's Fury on target of spell.  Lasts for 12.0 seconds.  Triggers about 1.2 times per minute.\n    - Inflicts 2,344 heat damage on target.\n    - Heals caster for 2,100.\n    - Increases Flurry of Caster by 2.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 304250093 900501986:Fingerhoop of Pitiless Clobbering\/a
 categories:
 - Arcane Resistance (Equipment)

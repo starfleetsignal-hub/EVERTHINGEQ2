@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   multi: '6.4'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: 'Collection reward: [[Poked Out Peepers]]'
 item_link: \aITEM 1046178348 1259541870:Boombottom Belt\/a
 image: images/Boombottom_Belt_(Level_80).png

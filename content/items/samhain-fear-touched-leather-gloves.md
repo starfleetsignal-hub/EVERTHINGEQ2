@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   dps: '23'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: From [[Crate of Ethereal Goodies]]
 item_link: \aITEM 1882609065 -833562851 0 0 0:Samhain Fear-Touched Leather Gloves\/a
 categories:

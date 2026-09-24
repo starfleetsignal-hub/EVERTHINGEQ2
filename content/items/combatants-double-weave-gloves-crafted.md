@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 960719887 -1717589443 0 0 0:Combatant's Double Weave Gloves\/a
 categories:

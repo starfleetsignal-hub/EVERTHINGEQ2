@@ -21,7 +21,8 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Martial Quake**'
+effect_name: Martial Quake
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Martial Quake on target of attack.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Applies Knockdown on termination.  Lasts for 2.3 seconds.\n      - Throws target back\n      - Blurs vision of target.\n      - Stuns target\n      - Does not affect Epic targets\n    - Inflicts 4,482 - 4,954 heat damage on targets in Area of Effect.\n    - Increases AE Autoattack of Caster by 100.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Draconic Defender''s Bo Staff]] *Made from [[A Bloody Drakota Eye]] *Made from [[Drake Fang]] *Made from [[Wurm Tongue]]'
 item_link: \aITEM -739571708 -1853290005:Draconic Defender's Bo Staff\/a
 categories:

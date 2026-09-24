@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   abmod: +4284,910
   dtype: Chain Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 52.5.\n  - Increases Crit Bonus Overcap of caster by 456.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1872548636 1931268750:Memorial Chain Greaves, Greater Untarnished Relic of Old Velious\/a
 categories:
 - Ability Modifier (Equipment)

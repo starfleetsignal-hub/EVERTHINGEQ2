@@ -19,7 +19,8 @@ stats:
   resolve: '650'
   mitinc: '123.8'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Fervor of caster by 97.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1470771710 -1407192240:Funerary Rite Relic Breastplate, Revealed\/a
 categories:
 - Assassin Equipment

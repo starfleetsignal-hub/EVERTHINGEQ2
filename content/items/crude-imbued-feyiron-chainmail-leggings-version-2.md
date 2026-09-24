@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '133'
   dtype: Chain Armor
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 19 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1793225660 1044044815:crude imbued feyiron chainmail leggings\/a
 categories:
 - Assassin Equipment

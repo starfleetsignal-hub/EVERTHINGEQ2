@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Strength In Numbers**'
+effect_name: Strength In Numbers
+effects: "- Applies Strength In Numbers when Activated.  Lasts for 10.0 seconds.\n  - For the duration of this effect, any spells or combat arts used by the caster or group members will build up charges. At the end  of the duration, the caster gains a buff that grants 5.0% crit bonus per charge, up to 100.0%.\n  - Cannot be modified except by direct means\n  - The casting time of Strength In Numbers is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -576343920 -1762368057:Strengthened String of Interception\/a
 categories:
 - Assassin Equipment

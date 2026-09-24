@@ -17,7 +17,8 @@ stats:
   abmod: '+105'
   dps: '11'
   dtype: Leather Armor
-effects: '**Reanimated Flesh**'
+effect_name: Reanimated Flesh
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Reanimated Flesh on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.0 times per minute.\n    - When target is healed, they will receive an additional 225 healing."
 item_link: \aITEM -2009147494 1710861637:Rotten Chestwraps of the Guilty\/a
 categories:
 - Ability Modifier (Equipment)

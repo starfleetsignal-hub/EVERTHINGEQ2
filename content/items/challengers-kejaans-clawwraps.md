@@ -17,7 +17,8 @@ stats:
   abmod: '+45'
   aspeed: '5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1077908268 -1900732316:Challenger's Kejaan's Clawwraps\/a
 categories:
 - Ability Modifier (Equipment)

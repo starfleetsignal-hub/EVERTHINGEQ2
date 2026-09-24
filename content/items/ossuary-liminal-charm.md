@@ -17,7 +17,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   mitinc: '75.1'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 754042215 -530871730:Ossuary Liminal Charm\/a
 categories:
 - Assassin Equipment

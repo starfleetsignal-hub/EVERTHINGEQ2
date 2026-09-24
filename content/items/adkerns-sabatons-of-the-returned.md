@@ -18,7 +18,8 @@ stats:
   potency: 51,480
   resolve: '650'
   dtype: Plate Armor
-effects: '**Fated Balance Act**'
+effect_name: Fated Balance Act
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 150.0.\n  - Increases Crit Bonus of caster by 350.0.\n  - Increases Potency of caster by 2,000.0.\n  - This effect can only take effect within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1241887023 387969930:Adkern's Sabatons of the Returned\/a
 categories:
 - Berserker Equipment

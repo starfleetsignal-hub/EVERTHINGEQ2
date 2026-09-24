@@ -20,7 +20,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Fearful Lament**'
+effect_name: Fearful Lament
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Fearful Lament on target of spell.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Stuns target\n      - If Target is not Epic\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast Fearful Lament on target of attack.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Stuns target\n      - If Target is not Epic\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1914613417 1660315615:Voulge of Endless Lamentation\/a
 categories:
 - Ability Modifier (Equipment)

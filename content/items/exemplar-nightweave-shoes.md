@@ -18,7 +18,8 @@ stats:
   resolve: '23'
   dps: '165.2'
   dtype: Cloth Armor
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 obtained_from: From [[Satchel of the Weakened]]
 item_link: \aITEM -532292645 -1942956097:Exemplar Nightweave Shoes\/a
 categories:

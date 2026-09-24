@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+80'
   vselemental: '+347'
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 349.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1633279615 1687168854:Infinite Loop\/a
 categories:
 - Ability Modifier (Equipment)

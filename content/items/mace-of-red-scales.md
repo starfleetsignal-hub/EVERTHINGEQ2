@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Prismatic Guardians Rage**'
+effect_name: Prismatic Guardians Rage
+effects: "- Applies Prismatic Guardians Rage when Equipped.\n  - On a combat hit this spell may cast Prismatic Guardians Rage on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 179 heat damage on target.\n    - Inflicts 179 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1772334395 -1762291932:Mace of Red Scales\/a
 categories:
 - 'Ascent of the Awakened: Audience with the Guardian Dropped Items'

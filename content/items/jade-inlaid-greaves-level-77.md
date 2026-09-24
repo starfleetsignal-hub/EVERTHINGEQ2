@@ -16,7 +16,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Lesser Reflexive Regeneration**'
+effect_name: Lesser Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 111 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Cursin'' a Blue Streak]]'
 item_link: \aITEM 881617712 19834093:Jade-inlaid Greaves\/a
 image: images/Jade-inlaid_Greaves.png

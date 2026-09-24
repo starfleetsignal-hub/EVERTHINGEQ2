@@ -18,7 +18,8 @@ stats:
   resolve: '24'
   aspeed: '63.8'
   mitinc: '16.3'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.0.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Collection reward: [[Planar Comet Dust (Collection)]]'
 item_link: \aITEM 895373780 1655988105:Thick Planar Comet Dust\/a
 categories:

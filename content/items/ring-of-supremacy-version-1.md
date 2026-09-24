@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+48'
   vsarcane: '+245'
-effects: '**Disparaging Affliction**'
+effect_name: Disparaging Affliction
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Disparaging Affliction on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 103 - 171 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1340919413 -1481152605:Ring of Supremacy\/a
 categories:
 - Ability Modifier (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Hostility of Battle**'
+effect_name: Hostility of Battle
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Hostility of Battle on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,074 piercing damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2128041592 630098302:Strategist's Field Dagger\/a
 categories:
 - Assassin Equipment

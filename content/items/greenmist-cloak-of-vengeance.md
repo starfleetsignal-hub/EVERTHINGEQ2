@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dps: '12'
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 18% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 230.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1889655048 -169474390:Greenmist Cloak of Vengeance\/a
 categories:
 - Ability Modifier (Equipment)

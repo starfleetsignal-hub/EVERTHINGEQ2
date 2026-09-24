@@ -17,7 +17,8 @@ stats:
   abmod: '+431'
   aspeed: '18.4'
   dtype: Round Shield
-effects: '**Braced for Impact**'
+effect_name: Braced for Impact
+effects: "- Applies Braced for Impact when Activated.  Lasts for 36.0 seconds.\n  - Increases Max Health of caster by 8.0%.\n  - Increases All Attributes of caster by 12.0%.\n  - The reuse time of Braced for Impact is 6 minutes"
 item_link: \aITEM -295344763 -903872492:Absolute Barrier of Bloodshed\/a
 categories:
 - Ability Modifier (Equipment)

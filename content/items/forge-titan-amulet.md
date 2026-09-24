@@ -16,7 +16,8 @@ stats:
   resolve: '6'
   abmod: +1,686
   aspeed: '19'
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 1761483747 -27181448:Forge Titan Amulet\/a
 categories:
 - Ability Modifier (Equipment)

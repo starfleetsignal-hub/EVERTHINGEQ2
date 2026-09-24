@@ -21,7 +21,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Prismatic Glow**<br>**Prismatic Shard**'
+effect_name: Prismatic Glow, Prismatic Shard
+effects: "- Applies Prismatic Glow when Equipped.\n  - Increases Combat Power Regen of caster by 12.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Prismatic Shard on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 374 - 695 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Deception (Quest)|Deception]]'
 item_link: \aITEM -1307469115 831613028:Prismatic Scepter of the Scale\/a
 image: images/Prismatic_Sceptre_of_the_Scale.jpg

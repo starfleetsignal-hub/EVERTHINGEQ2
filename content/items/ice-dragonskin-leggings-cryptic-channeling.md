@@ -18,7 +18,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   dtype: Leather Armor
-effects: '**Cryptic Channeling**'
+effect_name: Cryptic Channeling
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Cryptic Channeling on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Decrease the caster's ability reuse time by 8%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -122550954 -739834152:Ice Dragonskin Leggings\/a
 categories:
 - Ability Modifier (Equipment)

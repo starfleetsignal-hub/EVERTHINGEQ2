@@ -17,7 +17,8 @@ stats:
   aspeed: '38'
   dps: '14.5'
   vselemental: +35,154
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 41%-197%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -1599828165 -965004504:Uigirf's Amplifying Earring\/a
 categories:
 - Ability Modifier (Equipment)

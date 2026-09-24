@@ -8,7 +8,8 @@ flags: lore no-trade no-value no-zone
 description: Allows the wearer to see the tortured souls of lost adventurers in the Shard of Fear
 stats:
   dtype: Cloth Armor
-effects: '**Ernie''s Incorporeal-Vison**'
+effect_name: Ernie's Incorporeal-Vison
+effects: "- Applies Ernie's Incorporeal-Vison when Equipped.\n  - Grants Incorporeal-Vision to caster"
 obtained_from: '[[Gimblelock''s Short Adventure]]'
 item_link: \aITEM -73174474 -1572205816:Ernie's Incorporeal-Visual Activators\/a
 image: images/Ernies_Incorporeal-Visual_Activators.png

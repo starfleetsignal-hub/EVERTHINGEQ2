@@ -18,7 +18,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   flurry: '30.2'
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 646.9.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1261630637 -1392241411:Voided Thread, Star Birthed Relic\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+347'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM 842178351 1047339339:Bracers of Living Coral\/a
 categories:
 - Ability Modifier (Equipment)

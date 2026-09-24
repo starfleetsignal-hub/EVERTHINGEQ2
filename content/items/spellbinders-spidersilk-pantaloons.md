@@ -16,7 +16,8 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Cloth Armor
-effects: '**Subjugative Alacrity**'
+effect_name: Subjugative Alacrity
+effects: "- When Equipped:\n  - Reduces reuse of subjugative-based spells by 5%."
 categories:
 - Arcane Resistance (Equipment)
 - Cloth Armor (Equipment Type)

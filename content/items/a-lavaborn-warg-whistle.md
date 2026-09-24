@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call the Elder Lavaborn Warg Steed
+effects: "- Applies Call the Elder Lavaborn Warg Steed when Activated.\n  - Summons a mount to ride that increases your speed by 65%\n  - Increases Crit Bonus of caster by 1.0%\n  - Increases Out-of-Combat Health Regeneration of caster by 15.0\n  - Increases Out-of-Combat Power Regeneration of caster by 15.0\n  - Increases Max Health of caster by 150.0"
 item_link: \aITEM 1086344497 1429137675:a lavaborn warg whistle\/a
 categories:
 - Assassin Equipment

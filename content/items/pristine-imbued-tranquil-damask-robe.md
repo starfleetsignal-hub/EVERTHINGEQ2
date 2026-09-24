@@ -16,7 +16,7 @@ stats:
   vsarcane: '+225'
   vsnoxious: '+225'
   dtype: Cloth Armor
-effects: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds.\n    - Heals target for 66 instantly and every 4 seconds."
 obtained_from: Crafted by [[Tailor]] (level 77) from [[Tailor Essentials Volume 77]]
 item_link: \aITEM -1563505300 906726053:Pristine Imbued Tranquil Damask Robe\/a
 image: images/Pristine_Imbued_Tranquil_Damask_Robe.jpg

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   vselemental: '+356'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 obtained_from: 'Drops from Heroic nameds throughout [[Rise of Kunark]] including : *[[Xa''rgo the Cursed]]'
 item_link: \aITEM 616921725 156938942:Dark Knight's Wristwrap\/a
 image: images/Dark_Knight's_Wristwrap.jpg

@@ -17,7 +17,8 @@ stats:
   potency: '70'
   resolve: '6'
   dtype: Leather Armor
-effects: '**Psionic Aura**'
+effect_name: Psionic Aura
+effects: "- Applies Psionic Aura when Equipped.\n  - The Intact Psionist Helm emits an aura which allows the wearer to present themselves as a psionist."
 obtained_from: Crafted by [[Artisan]] (level 100) from [[Crowning Achievements of the Deepforge Founders]]
 item_link: \aITEM 1249789747 1689598072:Intact Martial Psionist's Crown\/a
 categories:

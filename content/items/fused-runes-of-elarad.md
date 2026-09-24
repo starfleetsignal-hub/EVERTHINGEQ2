@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Runed Fusion**'
+effect_name: Runed Fusion
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Runed Fusion on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,324 magic damage on target.\n    - Increases Reuse Speed of caster by 3.0%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Runes of Fate]]'
 item_link: \aITEM -254409803 -398860328:Fused Runes of El'Arad\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 1693749249 1470806968:Venomous Chain Gloves of Primal Fear\/a
 categories:
 - AE Autoattack Chance (Equipment)

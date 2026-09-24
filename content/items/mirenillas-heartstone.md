@@ -14,7 +14,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +11,484
-effects: '**Evasive Posture**'
+effect_name: Evasive Posture
+effects: "- When Equipped:\n  - Applies Evasive Posture II.  Lasts for 10.0 seconds.\n    - Inflicts 452,760 crushing damage on target.\n    - Increases Block Chance of caster by 7.7%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1466531275 1828698640:Mirenilla's Heartstone\/a
 aliases:
 - Mirenilla's Heartstone (0 Gem, Potency)

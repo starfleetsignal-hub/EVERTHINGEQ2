@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   aspeed: '56.8'
   dtype: Tower Shield
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 2.6%.\n    - Inflicts 3,216 heat damage on target.\n    - Inflicts 3,216 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Scourge Weapons]]'
 item_link: \aITEM 862116720 1532725951:Scourge Tainted Towershield\/a
 image: images/Scourge_Tainted_Towershield.png

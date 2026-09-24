@@ -20,7 +20,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Intense Focus**<br>**Torrent**'
+effect_name: Intense Focus, Torrent
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Intense Focus on the group.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of the group's next spell by 75%\n- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -295146259 -155377885:Staff of Toxic Horror\/a
 categories:
 - Ability Modifier (Equipment)

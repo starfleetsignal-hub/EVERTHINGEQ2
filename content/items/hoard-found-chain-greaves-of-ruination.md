@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   dps: '276'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 50 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2115474149 -424486921:Hoard Found Chain Greaves of Ruination\/a
 categories:
 - Assassin Equipment

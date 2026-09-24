@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   dtype: Symbols
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1683535472 555565328:Infused Talisman of Drakiz Benefaction\/a
 categories:
 - Ability Modifier (Equipment)

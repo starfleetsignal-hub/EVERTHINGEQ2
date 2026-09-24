@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   dtype: Plate Armor
-effects: '**Lesser Sap Strength**'
+effect_name: Lesser Sap Strength
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Sap Strength on target's attacker.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases DPS of target by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 376752420 3773587:Cookie's Washtub Breastplate\/a
 categories:
 - Berserker Equipment

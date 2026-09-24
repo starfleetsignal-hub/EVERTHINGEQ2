@@ -24,7 +24,8 @@ stats:
   drating: '5149.2'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Blessing of the Truthbringer**'
+effect_name: Blessing of the Truthbringer
+effects: "- When Equipped:\n  - \"Blessing of the Truthbringer\" protects the wearer from strong deific magics used by Mithaniel Marr!"
 obtained_from: '*Made from [[Ethereal Writings: Truthbringer''s Valorous Glaive]] *[[Ethereal: Truthbringer''s Valorous Glaive]]'
 item_link: \aITEM -1206515710 336047574:Truthbringer's Valorous Glaive [Rank V]\/a
 categories:

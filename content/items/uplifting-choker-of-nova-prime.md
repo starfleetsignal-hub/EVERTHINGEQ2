@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: '+835'
   dps: '28.8'
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: '- When Equipped:'
 item_link: \aITEM 1020390981 1479166714:Uplifting Choker of Nova-Prime\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -511447186 680119173:Destructor's Stave\/a
 categories:
 - Census Credits

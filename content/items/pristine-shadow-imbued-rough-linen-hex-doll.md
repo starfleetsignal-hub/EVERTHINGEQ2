@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+11'
   sta: '+10'
-effects: '**Hex of Shadows**'
+effect_name: Hex of Shadows
+effects: "- Applies Hex of Shadows when Activated.  Lasts for 1 minute 48 seconds.\n  - Applies Hex of Fright.  Lasts for 1 minute 48 seconds.\n    - Decreases Haste of target by 11.2.\n    - Cannot be modified except by direct means\n  - Slows target by 28.5%.\n  - 5% chance to dispel when target takes damage\n  - 5% chance to dispel when target receives hostile action\n  - The casting time of Hex of Shadows is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 46) from [[Tailor Essentials Volume 46 (Normal)]] *Crafted by [[Tailor]] (level 46) from [[Tailor Essentials Volume 46 (no-trade)]]'
 item_link: \aITEM 466661183 -1915971064:pristine shadow imbued rough linen hex doll\/a
 categories:

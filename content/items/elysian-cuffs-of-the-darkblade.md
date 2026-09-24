@@ -19,7 +19,8 @@ stats:
   aspeed: '14.8'
   multi: '15.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: Dropped by [[General Utehk (Challenge Mode Epic)|General Utehk]] in [[Tallon's Stronghold (Challenge)]]
 item_link: \aITEM -995339889 1693974825:Elysian Cuffs of the Darkblade\/a
 categories:

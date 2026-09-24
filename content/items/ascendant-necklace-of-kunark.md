@@ -19,7 +19,8 @@ stats:
   fervor: '5'
   abmod: +5,523
   dps: '31.4'
-effects: '**Ascendants Grace**'
+effect_name: Ascendants Grace
+effects: "- When Equipped:\n  - Increases the damage and healing of Wildfire, Levinbolt, Stone Hammer, and Septic Strike by 5."
 item_link: \aITEM -262325445 1145275682:Ascendant Necklace of Kunark\/a
 categories:
 - Ability Modifier (Equipment)

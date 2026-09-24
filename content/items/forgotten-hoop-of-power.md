@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.6'
   vsarcane: '+415'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '[[Investigating Strange Bones]]'
 item_link: \aITEM -8507414 1706501217:Forgotten Hoop of Power\/a
 image: images/Forgotten_Hoop_of_Power.png

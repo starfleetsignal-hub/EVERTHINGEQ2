@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: '+880'
-effects: '**Purifying Persistance**'
+effect_name: Purifying Persistance
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Purifying Persistence on target of spell cast.  Triggers about 1.8 times per minute.\n    - Dispels 100 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Purifying Persistence on caster.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases the heal or ward amount of the caster's next beneficial spell by 10%.\n    - Dispelled when target casts a beneficial spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1845057975 361298211:Blackened Pearlescent Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

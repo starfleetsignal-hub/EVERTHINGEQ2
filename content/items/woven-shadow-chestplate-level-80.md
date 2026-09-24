@@ -17,7 +17,8 @@ stats:
   dps: '11'
   multi: '6.8'
   dtype: Chain Armor
-effects: '**Fangs of Byzola**'
+effect_name: Fangs of Byzola
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fangs of Byzola on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - When any damage is received this spell has a 3% chance to cast Mindbite on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 384 mental damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1659083216 734546282:Woven Shadow Chestplate\/a
 categories:
 - Assassin Equipment

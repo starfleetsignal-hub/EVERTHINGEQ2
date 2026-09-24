@@ -16,7 +16,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 item_link: \aITEM 1860923278 932448523:Tormenting Legplates\/a
 categories:
 - Ability Modifier (Equipment)

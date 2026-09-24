@@ -15,7 +15,8 @@ stats:
   drating: '24.95'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- Applies Frost Blast when Activated.\n  - Inflicts 149 - 248 cold damage on target.\n  - The casting time of Frost Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1924089727 140862056:Shaped Cold Imbued Oak Wand\/a
 categories:
 - Berserker Equipment

@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+11'
   vsarcane: '+75'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 5.0."
 item_link: \aITEM -1099676946 -1790974499:Earring of Frenzied Voices\/a
 categories:
 - Arcane Resistance (Equipment)

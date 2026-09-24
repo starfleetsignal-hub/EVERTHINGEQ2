@@ -24,7 +24,8 @@ stats:
   drating: '634.37'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.7%.\n    - Inflicts 6,117 heat damage on target.\n    - Inflicts 6,117 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 596939459 -955217238:Heavy Windhelm Glaive\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   multi: '16.5'
-effects: '**Resolute Defense**'
+effect_name: Resolute Defense
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Resolute Defense II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Max Health of caster by 2,988.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Resolute Defense II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Max Health of caster by 2,988.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 6579906 -1111377988:Reflective Cloak of the Stealthed Maligonian\/a
 categories:
 - Assassin Equipment

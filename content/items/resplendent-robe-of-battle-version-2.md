@@ -17,7 +17,8 @@ stats:
   abmod: '+71'
   aspeed: '4.6'
   dtype: Leather Armor
-effects: '**Inner Fire**'
+effect_name: Inner Fire
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Inner Fire on caster.  Lasts for 5.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Crit Chance of caster by 100.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1755765865 1925242502:Resplendent Robe of Battle\/a
 categories:
 - Ability Modifier (Equipment)

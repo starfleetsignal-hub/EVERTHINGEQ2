@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   aspeed: '9.3'
-effects: '**Flash of Intuition**'
+effect_name: Flash of Intuition
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Flash of Intuition on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 10%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1743106040 402385439:Delahnus' Cloak of Oceanic Knowledge\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Ice Zephyr Glyph**'
+effect_name: Ice Zephyr Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 100 - 122 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 217573367 -1384407335:Crystalline Spear\/a
 categories:
 - Assassin Equipment

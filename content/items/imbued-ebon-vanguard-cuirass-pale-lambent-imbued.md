@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   dtype: Plate Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 37 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1013044547 -918749072:Imbued Ebon Vanguard Cuirass\/a
 categories:
 - Ability Modifier (Equipment)

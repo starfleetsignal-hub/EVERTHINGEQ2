@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Mangle**'
+effect_name: Mangle
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mangle on target of attack.  Lasts for 1.3 seconds.  Triggers about 1.6 times per minute.\n    - Inflicts 52 - 64 crushing damage on target.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 3.7 seconds and duration is reduced to 0.4 seconds.\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1518160440 -233894482:Blaqstar, the Mangled Mace\/a
 categories:
 - Ability Modifier (Equipment)

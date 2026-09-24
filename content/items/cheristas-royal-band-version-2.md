@@ -16,7 +16,8 @@ stats:
   aspeed: '4.3'
   dps: '8.4'
   vsarcane: '+630'
-effects: '**Aggravate**'
+effect_name: Aggravate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aggravate I on target of attack.  Triggers about 0.8 times per minute.\n    - Increases Threat to target by 1,050\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1273038896 -1349498796:Cherista's Royal Band\/a
 categories:
 - Aggravate (Equipment)

@@ -16,7 +16,8 @@ stats:
   critbonus: 1,332.5
   potency: 43,342.7
   resolve: '525'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 500590648 -2019083433:Hoard Found Charm of Ruination\/a
 categories:
 - Assassin Equipment

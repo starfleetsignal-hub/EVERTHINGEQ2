@@ -16,7 +16,8 @@ stats:
   aspeed: '9.7'
   dps: '16.6'
   vsarcane: +1,302
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM -114384613 208482376:Bangle of Conflict and Mending\/a
 categories:
 - Arcane Resistance (Equipment)

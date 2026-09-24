@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   abmod: '+25'
-effects: '**Fatal Pestilience**'
+effect_name: Fatal Pestilience
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Pestilience VI on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 73 - 81 disease damage on targets in Area of Effect.\n    - Inflicts 91 - 101 disease damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 7 - 8 disease damage on targets in Area of Effect every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 60) from [[Ancient Knowledge: Lucid Gemstone of Agony]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 1407689897 223967994:Lucid Gemstone of Agony\/a
 categories:

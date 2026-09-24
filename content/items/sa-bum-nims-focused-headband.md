@@ -17,7 +17,8 @@ stats:
   aspeed: '11.2'
   multi: '12'
   dtype: Leather Armor
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1745486854 -1433840985:Sa Bum Nim's Focused Headband\/a
 categories:
 - AE Autoattack Chance (Equipment)

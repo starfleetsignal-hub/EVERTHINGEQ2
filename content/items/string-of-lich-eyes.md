@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   aspeed: '69.5'
   flurry: '38.1'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -241933424 1477877148:String of Lich Eyes\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Leather Armor
-effects: '**Skin like Stone**'
+effect_name: Skin like Stone
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Skin like Stone on caster.  Lasts for 24.0 seconds.\n    - Wards caster against 150 points of all damage\n    - Increases Hate Gain of caster by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: From a pattern from the [[Guild Raid Timeline|Guild Raids]]
 item_link: \aITEM -1423470725 938218883:Dupione Stoneweave Gi\/a
 categories:

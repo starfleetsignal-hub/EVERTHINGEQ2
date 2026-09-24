@@ -16,7 +16,8 @@ stats:
   critbonus: '5.1'
   potency: '8.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[High Shinu-Zonn Cerulea|High Shinu-Zonn Cerulea and High Shinu-Zonn Magentia]] in [[Citadel of V'uul]]
 item_link: \aITEM 817421373 -1204281245:Cenobite's Hand Wraps of the Citadel\/a
 categories:

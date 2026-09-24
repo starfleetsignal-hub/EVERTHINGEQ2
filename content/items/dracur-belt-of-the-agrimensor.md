@@ -16,7 +16,8 @@ stats:
   aspeed: '16.8'
   dps: '27.1'
   multi: '17.5'
-effects: '**Siphoning Flames**'
+effect_name: Siphoning Flames
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,369 - 2,618 poison damage on target\n    - Heals caster for 1,185 - 1,309\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 207969048 1607528343:Dracur Belt of the Agrimensor\/a
 categories:
 - Assassin Equipment

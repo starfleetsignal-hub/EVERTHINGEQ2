@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   dps: '21.8'
   multi: '31.2'
-effects: '**The Battlemage**'
+effect_name: The Battlemage
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 35.0.\n  - If mage"
 item_link: \aITEM -2130227051 -1484012417:Mana Etched Choker\/a
 categories:
 - Census Credits

@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Enchanted Armored Warg
+effects: "- Applies Call Enchanted Armored Warg when Activated. Lasts for 1 day.\n  - Increases Focus, Ministration, Ordination, Subjugation and Disruption of caster by 5.0\n  - Summons a mount to ride that increases your speed by 50%."
 obtained_from: <br>
 item_link: \aITEM 1799410968 -925823769:an enchanted warg summoning drum\/a
 categories:

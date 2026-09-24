@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   abmod: '+152'
   dps: '13.4'
-effects: '**Molten Coins**<br>**Empyrean Recovery**'
+effect_name: Molten Coins, Empyrean Recovery
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Molten Coins on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 302 - 562 heat damage on target.\n    - Inflicts 302 - 562 heat damage on target.\n    - Inflicts 302 - 562 heat damage on target.\n    - Inflicts 302 - 562 heat damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM -1294019973 -1357609089:Girdle of Ykesha's Warlock\/a
 categories:
 - Ability Modifier (Equipment)

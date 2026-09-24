@@ -17,7 +17,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 50 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -36114784 2074835221:Hoard Found Gage of Obliteration\/a
 categories:
 - Berserker Equipment

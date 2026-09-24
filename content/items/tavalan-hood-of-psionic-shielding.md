@@ -16,7 +16,8 @@ stats:
   dps: '99.6'
   multi: '38.4'
   dtype: Cloth Armor
-effects: '**Psionic Protection**<br>**Psionic Conversion**'
+effect_name: Psionic Protection, Psionic Conversion
+effects: "- When Equipped:\n  - Protects the wearer from psionic damage!\n- Applies Psionic Conversion on target Friend when Activated.\n  - Converts combat statistics of your target into protection from psionic damage!\n  - The casting time of Psionic Conversion is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 obtained_from: '*Crafted by [[Armorer]] (level 95) from [[Helms of Psionic Shielding]] *Made from [[Mote of Gleaming Aqua Metal]] *Made from [[Purified Cave Water]] *Made from [[Soaked Coal]] *Made from [[Vial of Ancient Tavalan Blood]]'
 item_link: \aITEM -448571275 1871136530:Tavalan Hood of Psionic Shielding\/a
 categories:

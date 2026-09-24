@@ -16,7 +16,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Tailor]] (level 70) from [[Ancient Knowledge: Reinforced Gi of the Boundless]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 1183675621 1104389075:Reinforced Gi of the Boundless\/a
 categories:

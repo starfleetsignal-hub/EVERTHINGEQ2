@@ -15,7 +15,8 @@ stats:
   drating: '69.93'
   dtype: Two-Handed Crushing
   wtype: Magic Affinity
-effects: '**Doom**'
+effect_name: Doom
+effects: "- When Equipped:\n  - Increases success chance by 10.0%."
 item_link: \aITEM 1456927253 1755726622:Deadly Mixing Spoon\/a
 categories:
 - Alchemist Equipment

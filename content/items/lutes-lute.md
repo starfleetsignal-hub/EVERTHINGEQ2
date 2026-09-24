@@ -17,7 +17,8 @@ stats:
   abmod: +1,591
   aspeed: '36'
   dps: '13.8'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 353.2.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1800154963 -569342845:Lute's Lute\/a
 categories:
 - Ability Modifier (Equipment)

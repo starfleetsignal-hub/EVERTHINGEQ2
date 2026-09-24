@@ -20,7 +20,8 @@ stats:
   drating: '195.92'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Intense Emotion**'
+effect_name: Intense Emotion
+effects: "- When Equipped:\n  - Increases Haste of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2091894266 228304587 0 0 0:Coral Bladed Axe\/a
 categories:
 - Ability Modifier (Equipment)

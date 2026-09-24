@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dps: '18.8'
-effects: '**Enigmatic Wording**'
+effect_name: Enigmatic Wording
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Enigmatic Wording on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces resistibility by 5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 405566036 -329491982:Sash of Mutated Blood\/a
 categories:
 - Ability Modifier (Equipment)

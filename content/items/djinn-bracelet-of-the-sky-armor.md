@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   vsarcane: '+180'
-effects: '**Aura of the Djinn Master**'
+effect_name: Aura of the Djinn Master
+effects: "- Applies Aura of the Djinn Master when Activated.\n  - Wards caster against 74 points of all damage\n  - Reduces maximum falling speed of caster\n  - Will cast one of the following three effects:\n  - 33% chance to apply Lore of the Djinn.\n    - Increases AGI, INT, STA, STR and WIS of caster by 4.3.\n    - Increases Potency of caster by 0.5.\n    - Increases DPS of caster by 1.9.\n  - 33% chance to apply Precision of the Djinn.\n    - Increases AGI, INT, STA, STR and WIS of caster by 4.3.\n    - Increases Crit Chance of caster by 0.3.\n    - Increases DPS of caster by 1.9.\n  - 33% chance to apply Guile of the Djinn.\n    - Increases AGI, INT, STA, STR and WIS of caster by 4.3.\n    - Increases DPS of caster by 1.9.\n    - Increases Ability Mod of caster by 2.9.\n  - Cannot be modified except by direct means\n  - The casting time of Aura of the Djinn Master is 1.0 second"
 item_link: \aITEM 102932550 1962842243:Djinn Bracelet of the Sky\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   abmod: '+80'
   dtype: Cloth Armor
-effects: '**Fiery Flux**'
+effect_name: Fiery Flux
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Fiery Flux on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 594 heat damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1192819649 1711010102:Thaumaturgist's Robe of D'Lere\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   dtype: Cloth Armor
-effects: '**Frost Strike**'
+effect_name: Frost Strike
+effects: "- When Equipped:\n  - Increases cold damage done by spells by up to 45."
 item_link: \aITEM 888417377 -83315272:Fine Mistmoore Silk Pants\/a
 categories:
 - Assassin Equipment

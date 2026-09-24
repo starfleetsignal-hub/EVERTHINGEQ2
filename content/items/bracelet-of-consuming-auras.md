@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   vselemental: +1,395
-effects: '**Consuming Auras**'
+effect_name: Consuming Auras
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Consuming Auras on target of spell cast.  Triggers about 1.8 times per minute.\n    - Dispels 120 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Consuming Auras on caster.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases the heal or ward amount of the caster's next beneficial spell by 12%.\n    - Dispelled when target casts a beneficial spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1322967386 1257132065:Bracelet of Consuming Auras\/a
 categories:
 - Ability Modifier (Equipment)

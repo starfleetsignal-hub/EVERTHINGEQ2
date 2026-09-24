@@ -16,7 +16,8 @@ stats:
   aspeed: '28.2'
   dps: '20.3'
   vselemental: +5,273
-effects: '**Spines**'
+effect_name: Spines
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Spines III on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 30,150 piercing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 obtained_from: '*From [[A Packet of Heroic Goods (Channeler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Defiler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Fury, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Inquisitor, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Mystic, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Templar, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warden, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM 976119736 -1155376829:Valorous Ring\/a
 categories:

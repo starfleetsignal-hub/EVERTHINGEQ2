@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +1,670
   aspeed: '18.8'
-effects: '**Salvo**'
+effect_name: Salvo
+effects: "- Applies Salvo when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 162.0.\n  - Increases Crit Bonus of caster by 162.0.\n  - Increases Potency of raid and group members (AE) by 4.0.\n  - Increases Crit Bonus of raid and group members (AE) by 4.0.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Salvo is 1 minute"
 item_link: \aITEM 1193105184 1122979459:Ashenfell Merchant Token\/a
 categories:
 - Ability Modifier (Equipment)

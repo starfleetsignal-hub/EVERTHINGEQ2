@@ -13,7 +13,8 @@ stats:
   crit: '1.1'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 21.5.\n    - Increases Disruption, Subjugation and Focus of caster by 12.1.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -706002347 942122643:shaped imbued moonstone ring of intelligence\/a
 categories:
 - Assassin Equipment

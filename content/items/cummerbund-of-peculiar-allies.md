@@ -18,7 +18,8 @@ stats:
   potency: 7,372.9
   resolve: '200'
   abmod: +50,749
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1013957613 -813670870:Cummerbund of Peculiar Allies\/a
 categories:
 - Ability Doublecast (Equipment)

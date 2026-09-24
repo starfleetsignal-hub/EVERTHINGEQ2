@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Aspect of Granite**'
+effect_name: Aspect of Granite
+effects: "- When Equipped:\n  - On a block this spell has a 10% chance to cast Aspect of Granite on caster.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Will absorb all damage when the amount is greater than 35% of the target's maximum health. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1124646635 212752665:Ancient Legionnaires Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

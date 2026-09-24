@@ -22,7 +22,8 @@ stats:
   drating: '145.77'
   dtype: Off Hand Crushing
   wtype: Fists
-effects: '**Summon Keeper of Wisdom**'
+effect_name: Summon Keeper of Wisdom
+effects: '- Applies Summon Keeper of Wisdom when Activated.'
 obtained_from: '[[A Chance For Redemption]]'
 item_link: \aITEM 1740795714 1627875977:Spiritual Claws of Khati Sha\/a
 categories:

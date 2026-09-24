@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.1'
   dtype: Symbols
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 12.0.\n  - This effect suspends during combat"
 item_link: \aITEM 233429739 -284485148:Slayer's Idol of the Frozen\/a
 categories:
 - Assassin Equipment

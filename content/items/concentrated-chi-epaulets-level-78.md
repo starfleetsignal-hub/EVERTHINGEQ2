@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   aspeed: '5.4'
   dtype: Leather Armor
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 378.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 821314185 -545131781:Concentrated Chi Epaulets\/a
 categories:
 - Assassin Equipment

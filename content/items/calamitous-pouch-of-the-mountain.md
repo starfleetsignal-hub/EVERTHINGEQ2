@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Flying Fist**'
+effect_name: Flying Fist
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Flying Fist IX on target of attack.  Lasts for 2.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 5,414 - 5,915\n    - Inflicts 5,062 - 5,594 heat damage on target.\n    - Stifles target\n      - If Target is not Epic\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 90) from [[Ancient Knowledge: Calamitous Pouch of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -302346780 1424205664:Calamitous Pouch of the Mountain\/a
 categories:

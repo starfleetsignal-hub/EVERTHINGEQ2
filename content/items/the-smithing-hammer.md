@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Brilliant Light**'
+effect_name: Brilliant Light
+effects: "- When Equipped:\n  - Increases Metalworking of caster by 28.5.\n  - Increases Metal Shaping of caster by 28.5."
 item_link: \aITEM -1974961846 -694227557:The Smithing Hammer\/a
 categories:
 - Beastlord Equipment

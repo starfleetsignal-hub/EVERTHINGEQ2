@@ -18,7 +18,8 @@ stats:
   abmod: '+262'
   dps: '20.3'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume II]]
 item_link: \aITEM 1774503268 364768974:Maestro's Lacerating Cuffs\/a
 categories:

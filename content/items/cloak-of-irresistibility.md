@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Rumor in the taverns of Norrath claims that this unique and stylish cloak can make the wearer irresistible to others!
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (750 Daybreak Cash)
 item_link: \aITEM 130605769 -750710355:Cloak of Irresistibility\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Cloth Armor
-effects: '**Reet Spell Trance**'
+effect_name: Reet Spell Trance
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1%.\n  - On a hostile spell hit this spell may cast Reet Spell Trance on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces reuse time of hostile spells by 5%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Reet Knight Armor]]'
 item_link: \aITEM -221655638 313181550:Silken Cap of the Reet Knight\/a
 image: images/SilkenCapoftheReefKnightExamine.jpg

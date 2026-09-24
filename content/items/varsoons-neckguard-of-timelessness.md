@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+142'
   aspeed: '7'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -518588732 943715434:Varsoon's Neckguard of Timelessness\/a
 categories:
 - Ability Modifier (Equipment)

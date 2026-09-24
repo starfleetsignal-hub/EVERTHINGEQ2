@@ -21,7 +21,8 @@ stats:
   drating: '77.62'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Scale Rend**'
+effect_name: Scale Rend
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Scale Rend on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 86 - 129 melee damage on target\n    - Inflicts 86 - 129 melee damage on target\n    - Inflicts 86 - 129 melee damage on target\n    - Inflicts 233 heat damage on target.\n    - Inflicts 155 heat damage on target every 6 seconds.\n    - If target is draconic\n    - Cannot be modified except by direct means"
 obtained_from: 'Crafted by [[Artisan]] (level 65) from [[Blood-Imbued Wurmslayer]] *Heritage quest reward: [[A Thorn of Old]]'
 item_link: \aITEM 938608 953767497:The Wurmslayer\/a
 categories:

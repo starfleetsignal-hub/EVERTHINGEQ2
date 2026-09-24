@@ -13,7 +13,8 @@ stats:
   crit: '2.2'
   critbonus: '0.7'
   potency: '3.6'
-effects: '**Lesser Befuddle**'
+effect_name: Lesser Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 obtained_from: '[[Like a Book without Pages]]'
 item_link: \aITEM 1274562854 -1484584228:Outer Sebilis Jungle Bloom Necklace\/a
 categories:

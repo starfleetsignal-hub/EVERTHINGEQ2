@@ -17,7 +17,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   vsarcane: '+564'
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,113 - 4,545 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 1,787.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1766682253 2008088249 0 0 0:Stalwart Hoop of Arcane Destruction\/a
 categories:
 - Ability Modifier (Equipment)

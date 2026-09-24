@@ -20,7 +20,8 @@ stats:
   drating: '57.56'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Noxiousness**'
+effect_name: Noxiousness
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Noxiousness on target of attack.  Lasts for 48.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 91 - 152 disease damage on target every 6.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -259733830 -1448321341:Cane of the Lion Tamer\/a
 categories:
 - Attack Speed (Equipment)

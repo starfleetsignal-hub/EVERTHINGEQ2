@@ -17,7 +17,8 @@ stats:
   abmod: '+431'
   aspeed: '18.4'
   dtype: Symbols
-effects: '**Implements of War**'
+effect_name: Implements of War
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Implements of War on caster.  Lasts for 10 minutes.  This effect normalizes based off of a three second triggering event.\n    - Applies Implements of War on termination.\n      - Increases power of group members by 1,021.\n    - Will absorb elemental, noxious and arcane damage. This spell will absorb a total of 4 attacks.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1645363830 -996754663:Tales of Conflict\/a
 categories:
 - Ability Modifier (Equipment)

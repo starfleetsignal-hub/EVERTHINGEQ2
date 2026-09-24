@@ -17,7 +17,8 @@ stats:
   multi: '19.2'
   vsarcane: +1,833
   mitinc: '12.3'
-effects: '**Major Serrated Subterfuge**'
+effect_name: Major Serrated Subterfuge
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Major Serrated Subterfuge on caster.  Lasts for 8.0 seconds.  Triggers about 2.2 times per minute.\n    - When damaged this spell will cast Major Serrated Subterfuge on target's attacker.\n      - Inflicts 3,478 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 503808414 -1300964582 0 0 0:Modulated Shackle of Diakan Fortitude\/a
 categories:
 - Ability Modifier (Equipment)

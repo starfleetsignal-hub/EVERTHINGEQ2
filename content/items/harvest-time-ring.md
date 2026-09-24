@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +9,738
-effects: '**Not Without a Fight!**'
+effect_name: Not Without a Fight!
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Not Without a Fight on target of attack.  Triggers about 10.0 times per minute.\n    - Inflicts 241,200 crushing damage on target.\n    - Cannot be modified except by direct means\n  - If under 25% Health"
 item_link: \aITEM -2132366609 2057240942:Harvest Time Ring\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   multi: '41.2'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM -522780380 417851634:Planar Knight's Brutal Gauntlets\/a
 categories:
 - Berserker Equipment

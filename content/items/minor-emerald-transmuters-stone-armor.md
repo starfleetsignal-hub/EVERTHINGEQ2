@@ -8,7 +8,8 @@ level: '70'
 slot: Ear
 flags: ornate attunable
 description: This item can be transmuted for adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 item_link: \aITEM 372722265 -1022036294:Minor Emerald Transmuter's Stone\/a
 categories:
 - Assassin Equipment

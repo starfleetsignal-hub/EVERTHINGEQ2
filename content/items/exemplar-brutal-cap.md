@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   aspeed: '236.8'
   dtype: Leather Armor
-effects: '**Mastery of Nightmares**'
+effect_name: Mastery of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Baliath, Harbinger of Nightmares."
 obtained_from: From [[Satchel of the Harbinger]]
 item_link: \aITEM 96828786 -618993639:Exemplar Brutal Cap\/a
 categories:

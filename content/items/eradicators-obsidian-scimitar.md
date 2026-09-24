@@ -20,7 +20,8 @@ stats:
   drating: '58.77'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Obsidian Shards**'
+effect_name: Obsidian Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Impact on target of attack.  Lasts for 2.5 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 73 magic damage on target.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 78.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1391329879 398477078:Eradicator's Obsidian Scimitar\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Camaraderie**'
+effect_name: Camaraderie
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 43 if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM -691847293 -800247602:Torque of Seaworthy Camaraderie\/a
 categories:
 - AE Autoattack Chance (Equipment)

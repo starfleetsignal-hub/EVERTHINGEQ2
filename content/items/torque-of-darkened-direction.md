@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dps: '13.4'
-effects: '**Darkened Direction**'
+effect_name: Darkened Direction
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Darkened Direction on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 342 - 418 disease damage on target.\n    - Inflicts 342 - 418 cold damage on target.\n    - Inflicts 342 - 418 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -670184056 -1027780138:Torque of Darkened Direction\/a
 categories:
 - Assassin Equipment

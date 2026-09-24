@@ -16,7 +16,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Cloth Armor
-effects: '**Subtle Hands**'
+effect_name: Subtle Hands
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Subtle Hands on target of spell.  Triggers about 5.0 times per minute.\n    - Decreases Threat to target by 200\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1780873400 1155009241:Deepforest Tunic\/a
 categories:
 - AE Autoattack Chance (Equipment)

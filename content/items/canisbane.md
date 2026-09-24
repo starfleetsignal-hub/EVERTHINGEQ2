@@ -16,7 +16,8 @@ stats:
   drating: '9.45'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Gnollbane**'
+effect_name: Gnollbane
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Gnollbane on target of attack.\n    - Inflicts 5 - 9 magic damage on target.\n    - If target is gnoll\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Gnoll Cave (Antonica)]]'
 item_link: \aITEM -1479380405 -1238054174:Canisbane\/a
 categories:

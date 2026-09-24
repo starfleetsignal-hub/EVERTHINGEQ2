@@ -15,7 +15,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Poison Gale Glyph**'
+effect_name: Poison Gale Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 664438145 1071739529:Beetle Claw Stiletto\/a
 categories:
 - Assassin Equipment

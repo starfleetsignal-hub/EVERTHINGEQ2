@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Symbols
-effects: '**Manawell**<br>**Quickening**'
+effect_name: Manawell, Quickening
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Manawell on target of spell.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 301.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a damage spell hit this spell may cast Quickening on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1011523541 1654370998:Glowing Rune Covered Tome of Sorrow\/a
 categories:
 - Ability Modifier (Equipment)

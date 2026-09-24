@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 50) from [[Ancient Knowledge: Devout Breastplate of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -44867135 1033722877:Devout Breastplate of Solace\/a
 categories:

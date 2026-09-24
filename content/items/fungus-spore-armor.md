@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+137'
-effects: '**Discipline of the Shin Knight**'
+effect_name: Discipline of the Shin Knight
+effects: "- When Equipped:\n  - On a hit this spell may cast Discipline of the Shin Knight on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 120 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1689985518 1785154258:Fungus Spore\/a
 categories:
 - Ability Modifier (Equipment)

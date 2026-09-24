@@ -14,7 +14,8 @@ stats:
   crit: '0.3'
   potency: '0.6'
   dtype: Leather Armor
-effects: '**Bewilder**'
+effect_name: Bewilder
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Bewilder on target's attacker.  Lasts for 9.0 seconds.\n    - Stuns target\n    - Dispelled when target takes damage\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1843706820 -2145852679:Woven Vulcanized Wristguards\/a
 categories:
 - Assassin Equipment

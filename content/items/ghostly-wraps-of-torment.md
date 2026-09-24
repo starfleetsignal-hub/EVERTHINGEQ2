@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   abmod: '+38'
   dtype: Leather Armor
-effects: '**Vitae Absorption**'
+effect_name: Vitae Absorption
+effects: "- When Equipped:\n  - On a kill this spell has a 10% chance to cast Vitae Absorption on caster.\n    - Heals caster for 402.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1106292148 30227880:Ghostly Wraps of Torment\/a
 categories:
 - Ability Modifier (Equipment)

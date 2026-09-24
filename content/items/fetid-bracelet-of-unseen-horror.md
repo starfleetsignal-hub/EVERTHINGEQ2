@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Remain Unseen**'
+effect_name: Remain Unseen
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 20.0.\n  - Increases in-combat movement speed of caster by 15.0%.\n  - Increases Potency of caster by 1,000.0.\n  - You must be within a Rage of Cthurath Raid or Untold Dungeon zone for this effect to apply."
 item_link: \aITEM -1057378043 -173991867:Fetid Bracelet of Unseen Horror\/a
 categories:
 - Arcane Resistance (Equipment)

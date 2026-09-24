@@ -17,7 +17,8 @@ stats:
   dps: '12.4'
   multi: '7.7'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 813818769 2016672596 0 0 0:Spiritual Chain Gloves\/a
 categories:

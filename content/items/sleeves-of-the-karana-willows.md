@@ -16,7 +16,8 @@ stats:
   potency: '1.6'
   multi: '2.9'
   dtype: Leather Armor
-effects: '**Lesser Befuddle**'
+effect_name: Lesser Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 obtained_from: '[[Fish, Glorious Fish!]]'
 item_link: \aITEM -1197601301 1595450081:Sleeves of the Karana Willows\/a
 categories:

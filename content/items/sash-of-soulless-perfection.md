@@ -16,7 +16,8 @@ stats:
   dps: '34.3'
   multi: '36.9'
   flurry: '0.6'
-effects: '**Galvanized Triumph**'
+effect_name: Galvanized Triumph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Galvanized Triumph on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 4,482 - 4,954 slashing damage on target encounter.\n    - Inflicts 640 - 708 slashing damage on target encounter every 10 seconds.\n    - Increases Haste of caster by 5.0.\n    - Increases Crit Bonus of caster by 5.0.\n    - Increases Strikethrough of caster by 5.0%.\n    - Increases DPS of caster by 45.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1791868633 -2112727052:Sash of Soulless Perfection\/a
 aliases:
 - Sash of Souless Perfection

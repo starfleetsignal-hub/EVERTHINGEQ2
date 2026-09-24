@@ -17,7 +17,8 @@ stats:
   aspeed: '2'
   multi: '2.8'
   dtype: Plate Armor
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM 1318854945 348333685:Slayer's Vanguard Cuirass of the Champion\/a
 categories:
 - Attack Speed (Equipment)

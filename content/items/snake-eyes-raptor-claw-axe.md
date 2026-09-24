@@ -20,7 +20,8 @@ stats:
   drating: '71.45'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 117.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Removing the Skar from this Land]]'
 item_link: \aITEM 1246399982 1730624730:Snake-Eye's Raptor Claw Axe\/a
 categories:

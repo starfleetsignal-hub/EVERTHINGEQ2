@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Piercing
   wtype: Rapier
-effects: '**Swarthy Chaos**'
+effect_name: Swarthy Chaos
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Swarthy Chaos on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 259 - 389 piercing damage on target.\n    - Inflicts 65 - 97 piercing damage on target every 3 seconds.\n    - Adds an additional 4% hate transfer to Swarthy Deception IV.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[High Seas Adventure]] part of the [[Swashbuckler Epic Weapon Timeline]]'
 item_link: \aITEM 1891048132 1858859186:Charm's Way\/a
 categories:

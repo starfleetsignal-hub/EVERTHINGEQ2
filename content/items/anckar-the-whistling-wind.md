@@ -18,7 +18,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Whistling Winds**'
+effect_name: Whistling Winds
+effects: "- When Equipped:\n  - Increases Haste of caster by 17.1 - 20.9."
 item_link: \aITEM 1651155866 -2127915317:Anc'Kar, the Whistling Wind\/a
 categories:
 - Berserker Equipment

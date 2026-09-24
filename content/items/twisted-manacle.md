@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   dps: '9.7'
   vselemental: '+360'
-effects: '**Near Death Experience**'
+effect_name: Near Death Experience
+effects: "- When Equipped:\n  - Increases Unconscious Health of caster by 2,000.0."
 item_link: \aITEM -57637312 100200140:Twisted Manacle\/a
 categories:
 - Arcane Resistance (Equipment)

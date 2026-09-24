@@ -17,7 +17,8 @@ stats:
   abmod: +1,686
   aspeed: '38'
   dps: '14.5'
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: '- When Equipped:'
 item_link: \aITEM 1972513056 448808094:Ancient Psionist's Choker\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   dps: '62.7'
   multi: '21.9'
   dtype: Chain Armor
-effects: '**Soul Schism**'
+effect_name: Soul Schism
+effects: "- Applies Soul Schism when Activated.  Lasts for 1 minute.\n  - Shapechanges caster into an a Tirun Soulbreaker\n  - Increases Crit Bonus of caster by 25.0.\n  - Increases Haste of caster by 25.0.\n  - When a combat art is used this spell will cast Soul Schism on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,604 piercing damage on target\n    - Heals caster for 2,401\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Soul Schism is 5 minutes"
 item_link: \aITEM -1437035948 -1205183296:Drinal's Darkened Coif of Reckoning\/a
 categories:
 - Assassin Equipment

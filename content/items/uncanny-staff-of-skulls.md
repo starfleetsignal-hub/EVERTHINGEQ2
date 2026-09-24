@@ -25,7 +25,8 @@ stats:
   drating: '370.08'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Pestilential Rain**<br>**Toxic Tempest**'
+effect_name: Pestilential Rain, Toxic Tempest
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Pestilential Rain on target of spell.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 5,500 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds.\n- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Toxic Tempest on target of spell.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 12,523 poison damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM 1796601955 1991714735:Uncanny Staff of Skulls\/a
 categories:
 - Ability Modifier (Equipment)

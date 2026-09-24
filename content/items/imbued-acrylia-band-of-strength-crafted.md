@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+217'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 21.5.\n    - Increases DPS of caster by 26.5.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 68) from [[Advanced Jeweler Volume 68 (no-value)]] *Crafted by [[Jeweler]] (level 68) from [[Advanced Jeweler Volume 68 (Uncommon)]]'
 item_link: \aITEM 1367193685 -140257501:Imbued Acrylia Band of Strength\/a
 categories:

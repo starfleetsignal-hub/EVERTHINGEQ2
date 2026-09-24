@@ -19,7 +19,8 @@ stats:
   vsarcane: +1,020
   vsnoxious: +1,020
   dtype: Plate Armor
-effects: +50 taunt and combat art amount<br>**Haste**
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Attack Speed of caster by 40"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 categories:
 - Ability Modifier (Equipment)

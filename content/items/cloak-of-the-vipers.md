@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   aspeed: '9.3'
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 153\n    - Increases power of caster by 102\n    - Cannot be modified except by direct means"
 item_link: \aITEM -810634685 -612910471:Cloak of the Vipers\/a
 image: images/Cloak_of_the_Vipers.png
 categories:

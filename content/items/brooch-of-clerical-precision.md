@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   aspeed: '7.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 2062985598 1265150972:Brooch of Clerical Precision\/a
 image: images/Broach_of_Clerical_Precision.jpg
 aliases:

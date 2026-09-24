@@ -17,7 +17,7 @@ stats:
   vselemental: '+455'
   vsarcane: '+455'
   dtype: Plate Armor
-effects: Blessing of the Devout
+effects: "- When Equipped:\n  - When target takes any physical damage this spell has a 5% chance to cast Blessing of the Devout on caster.\n    - Heals caster for 203"
 item_link: -1211245541 -608784675:Heavy Platemail Helm of Valor
 categories:
 - Arcane Resistance (Equipment)

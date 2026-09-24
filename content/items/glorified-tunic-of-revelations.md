@@ -17,7 +17,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 90) from [[Ancient Knowledge: Glorified Tunic of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -303993783 -1101589744:Glorified Tunic of Revelations\/a
 categories:

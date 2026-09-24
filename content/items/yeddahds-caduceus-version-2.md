@@ -18,7 +18,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Summoner''s Soothing (Pet Only)**'
+effect_name: Summoner's Soothing (Pet Only)
+effects: "- Applies Summoner's Soothing (Pet Only) when Activated.\n  - Heals target for 40.0% of max health.\n    - This effect cannot be critically applied.\n  - The casting time of Summoner's Soothing (Pet Only) is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM -2126269506 -593423123:Yeddahd's Caduceus\/a
 categories:
 - Ability Modifier (Equipment)

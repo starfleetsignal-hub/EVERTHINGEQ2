@@ -15,7 +15,8 @@ stats:
   potency: '21.3'
   dps: '30.2'
   multi: '31.7'
-effects: '**Dragonheart**'
+effect_name: Dragonheart
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,371.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1229032629 621173951:Pendant of the Moonraker\/a
 categories:
 - Assassin Equipment

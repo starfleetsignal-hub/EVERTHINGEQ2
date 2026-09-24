@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call New Halasian Courser
+effects: "- Applies Call New Halasian Courser when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 130%"
 obtained_from: '[[Sometimes You Feel Like a Knut]]'
 item_link: \aITEM 1684244989 -675614704:New Halasian Courser whistle\/a
 image: images/New_Halasian_Courser_Whistle_Examine.jpg

@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Intensity**'
+effect_name: Intensity
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Intensity on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases ward and heal amount by 8%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1154923460 -693818750:Ring of Infused Healing\/a
 categories:
 - Arcane Resistance (Equipment)

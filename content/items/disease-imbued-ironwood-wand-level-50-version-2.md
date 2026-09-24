@@ -19,7 +19,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 254 - 423 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1743859366 282453635:Disease Imbued Ironwood Wand\/a
 aliases:
 - Disease Imbued Ironwood Wand (Level 52) (Version 2)

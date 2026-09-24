@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Deathly Lifetap**'
+effect_name: Deathly Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Deathly Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 491 - 1,021 magic damage on target\n    - Heals caster for 327 - 680\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1910830805 341444640:Ixsidious\/a
 categories:
 - Assassin Equipment

@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '144'
   dtype: Chain Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 62 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 851613982 -2001696208:imbued feysteel chainmail leggings\/a
 aliases:
 - Imbued feysteel chainmail leggings (Pale Sanguine Imbued) (Level 30)

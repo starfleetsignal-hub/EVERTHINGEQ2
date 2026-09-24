@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   multi: '5.8'
   dtype: Chain Armor
-effects: '**Mistarget**'
+effect_name: Mistarget
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mistarget on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Accuracy of target by 3.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -744878035 1719124384:Seafury Chestguard of D'Lere\/a
 categories:
 - Brigand Equipment

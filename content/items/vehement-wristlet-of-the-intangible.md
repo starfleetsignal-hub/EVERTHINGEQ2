@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +19,032
-effects: '**Intangible**'
+effect_name: Intangible
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Intangible II on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 193,600 magic damage on target.\n    - Increases Block Chance of caster by 4.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 551206424 -1959629337:Vehement Wristlet of the Intangible\/a
 categories:
 - Ability Modifier (Equipment)

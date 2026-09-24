@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Chaos**'
+effect_name: Chaos
+effects: "- Applies Chaos II when Activated.  Lasts for 20.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 1.8 - 34.2.\n  - Cannot be modified except by direct means\n  - The reuse time of Chaos II is 1 minute 30 seconds"
 item_link: \aITEM -1951938927 -971270727:Ardent Coin of Chaos\/a
 image: images/Ardent_Coin_of_Chaos.png
 categories:

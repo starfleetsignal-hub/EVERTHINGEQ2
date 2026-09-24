@@ -16,7 +16,8 @@ stats:
   abmod: +1,622
   aspeed: '18.3'
   vselemental: +30,687
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 obtained_from: 'Collection reward: [[Lost Tales of the Aberrant]]'
 item_link: \aITEM 1595093957 1304750803:Aphotic Etched Earring\/a
 image: images/Aphotic_Etched_Earring.jpg

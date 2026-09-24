@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dtype: Cloth Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 40379562 -741754243:Runed Robe of Recovery\/a
 categories:
 - Ability Modifier (Equipment)

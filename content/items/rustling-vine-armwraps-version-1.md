@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   multi: '6.3'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM -1913004497 245661597:Rustling Vine Armwraps\/a
 categories:
 - Assassin Equipment

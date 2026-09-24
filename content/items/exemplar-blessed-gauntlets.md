@@ -18,7 +18,8 @@ stats:
   resolve: '23'
   aspeed: '118.4'
   dtype: Plate Armor
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 obtained_from: From [[Hoard of the Weakened]]
 item_link: \aITEM -40574084 454126561:Exemplar  Blessed Gauntlets\/a
 categories:

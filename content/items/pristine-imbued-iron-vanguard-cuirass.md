@@ -14,7 +14,7 @@ stats:
   power: '+10'
   mit: '72'
   dtype: Plate Armor
-effects: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds.\n    - Heals target for 10 instantly and every 4 seconds"
 obtained_from: Crafted by [[Outfitter]] (level 17) from [[Outfitters essentials volume 17]]
 categories:
 - Berserker Equipment

@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Blessing of the Prime Healer**'
+effect_name: Blessing of the Prime Healer
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Blessing of the Prime Healer on caster.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 0.8% of caster's max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 seconds."
 obtained_from: '*Marketplace *[[The Fallen of Falinpol]]'
 item_link: \aITEM -1409920633 -1582459253:Gem Studded Iridium Ring\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   multi: '35.2'
   flurry: '0.6'
   vselemental: +8,148
-effects: '**Harrowing Mien**'
+effect_name: Harrowing Mien
+effects: "- When Equipped:\n  - Increases Haste of caster by 5.5.\n  - Increases DPS of caster by 16.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1384105215 86513791:Hoop of Heroic Accomplishments\/a
 categories:
 - Ability Modifier (Equipment)

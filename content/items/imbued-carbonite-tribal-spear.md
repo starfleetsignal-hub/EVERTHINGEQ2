@@ -16,7 +16,8 @@ stats:
   drating: '14.29'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 719\n      - Must be flanking or behind\n    - Increases Threat to target by 1,259\n      - Must be in front of\n    - Inflicts 42 - 77 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 24) from [[Weaponsmith Essentials Volume 24 (Normal)]] *Crafted by [[Weaponsmith]] (level 24) from [[Weaponsmith Essentials Volume 24 (no-trade)]]'
 item_link: \aITEM 1263830091 -69555328:Imbued Carbonite Tribal Spear\/a
 categories:

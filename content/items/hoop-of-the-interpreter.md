@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   vselemental: +1,395
-effects: '**Hopeful Resolve**'
+effect_name: Hopeful Resolve
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Hopeful Resolve on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Makes caster immune to Stifle effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 387847490 1730646376:Hoop of the Interpreter\/a
 categories:
 - Ability Modifier (Equipment)

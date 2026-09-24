@@ -11,7 +11,8 @@ stats:
   sta: '+10'
   agi: '+11'
   vselemental: '+100'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 10.3.\n    - Increases Combat Health Regen of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1630246365 -1899185807:Imbued Diamondine Band of Stamina\/a
 categories:
 - Arcane Resistance (Equipment)

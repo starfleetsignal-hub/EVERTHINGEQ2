@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dps: '15.2'
-effects: '**Runic Barrier**'
+effect_name: Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 280 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2100321109 -585944389:Ca'iluer's Necklace of Ro\/a
 categories:
 - Ability Modifier (Equipment)

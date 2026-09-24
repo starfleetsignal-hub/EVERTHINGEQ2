@@ -15,7 +15,8 @@ stats:
   potency: '2.7'
   abmod: '+68'
   vsarcane: '+280'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM 2128618680 130755329:Unholy Manacle\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   mitinc: '78.1'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -996960346 -379236653:Hoard Found Shawl of Desolation\/a
 categories:
 - Census Credits

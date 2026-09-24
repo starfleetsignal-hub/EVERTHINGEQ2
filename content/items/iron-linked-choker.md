@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dps: '15.2'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: Sold by [[Rockshaper Jorgun]] (Faction Merchant) in [[The Hole]]<br>Requires 30,000 faction with Guardians of the Underfoot
 item_link: \aITEM -667921777 707374614:Iron Linked Choker\/a
 categories:

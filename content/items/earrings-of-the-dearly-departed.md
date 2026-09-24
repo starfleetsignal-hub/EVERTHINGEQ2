@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Indiscriminate Counter**'
+effect_name: Indiscriminate Counter
+effects: "- When Equipped:\n  - Applies Indiscriminate Counter.  Lasts for 10.0 seconds.\n    - Inflicts 137,200 slashing damage on targets in Area of Effect.\n    - Gives caster an extra 3.0% mitigation to their worn armor.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1989325019 1417516952:Earrings of the Dearly Departed\/a
 categories:
 - AE Autoattack Chance (Equipment)

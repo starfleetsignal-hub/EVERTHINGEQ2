@@ -14,7 +14,8 @@ stats:
   critbonus: '12.1'
   potency: '12.1'
   aspeed: '70.1'
-effects: '**Deathly Chant**'
+effect_name: Deathly Chant
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 6.0.\n  - Increases Mitigation of caster vs elemental, noxious and arcane damage by 990.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 166518985 1103674717 0 0 0:Cloak of the Enraged Dead\/a
 categories:
 - Assassin Equipment

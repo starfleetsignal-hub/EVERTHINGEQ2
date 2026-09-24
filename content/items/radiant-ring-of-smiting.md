@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+5'
   sta: '+5'
-effects: '**Shared Vigor**'
+effect_name: Shared Vigor
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shared Vigor on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of target by 2.0.\n    - Increases Potency of caster by 2.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Radiant Ring of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -585304215 -1336290760:Radiant Ring of Smiting\/a
 categories:

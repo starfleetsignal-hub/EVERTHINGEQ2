@@ -20,7 +20,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Deception of War**'
+effect_name: Deception of War
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Deception of War on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 6,660 magic damage on target instantly and every 4 seconds.\n    - Inflicts an additional 3,996 magic damage on target every tick.\n    - Increases power of caster by 729 instantly and every 4 seconds.\n    - Increases Max Power of caster by 8.0%.\n    - Increases Potency of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1191481891 -1346284096:Aleist, Stave of Prime Wrecking\/a
 categories:
 - Attack Speed (Equipment)

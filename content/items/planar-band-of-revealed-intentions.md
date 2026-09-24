@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   vselemental: +87,497
   mitinc: '22.7'
-effects: '**Celestial Juggernaut**'
+effect_name: Celestial Juggernaut
+effects: "- When Equipped:\n  - Increases Max Health of caster by 5.0%.\n  - Increases Max Health of caster by 250,000.0."
 item_link: \aITEM 1834838086 -1908418131:Planar Band of Revealed Intentions\/a
 categories:
 - Arcane Resistance (Equipment)

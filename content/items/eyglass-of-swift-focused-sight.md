@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Focused Sight**'
+effect_name: Focused Sight
+effects: "- Applies Focused Sight II when Activated.  Lasts for 30.0 seconds.\n  - Increases Accuracy of caster by 55.0%.\n  - Increases Strikethrough of caster by 55.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Focused Sight II is 3 minutes"
 item_link: \aITEM 1036570583 1177904439:Eyglass of Swift Focused Sight\/a
 categories:
 - Assassin Equipment

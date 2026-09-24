@@ -18,7 +18,7 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Chain Armor
-effects: Overloaded Heal
+effects: "- When Equipped:\n  - When target casts a healing spell this spell has a chance to cast Overloaded Heal on caster. This effect will trigger an average of 3.6 times per minute\n    - Heals group members (AE) for 347\n  - This spell cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -466321528 1154423483:Numinous Voidlink Leggings\/a
 categories:

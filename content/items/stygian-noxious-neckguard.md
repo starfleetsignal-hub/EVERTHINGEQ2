@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: '+835'
   dps: '28.8'
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 55 if they have 1 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 80."
 item_link: \aITEM 923368905 1202475521:Stygian Noxious Neckguard\/a
 categories:
 - Ability Modifier (Equipment)

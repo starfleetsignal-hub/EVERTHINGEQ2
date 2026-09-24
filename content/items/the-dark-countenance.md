@@ -20,7 +20,8 @@ stats:
   drating: '75.95'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Twilight''s Favor**'
+effect_name: Twilight's Favor
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Twilight's Favor on target of spell cast.  Triggers about 1.8 times per minute.\n    - Heals target for 257 - 314.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -904397722 454170997:The Dark Countenance\/a
 categories:
 - Census Credits

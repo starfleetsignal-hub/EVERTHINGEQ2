@@ -17,7 +17,8 @@ stats:
   abmod: +7,155
   multi: '89.6'
   dtype: Leather Armor
-effects: '**Pure Malice**'
+effect_name: Pure Malice
+effects: "- Applies Pure Malice when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -625538863 677928212:Brell's Underfoot Candles\/a
 categories:
 - Ability Modifier (Equipment)

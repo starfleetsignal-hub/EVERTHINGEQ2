@@ -26,7 +26,8 @@ stats:
   drating: '398.36'
   dtype: Main Hand Crushing
   wtype: Mace
-effects: '**Planar Protection**<br>**Reality Shift**'
+effect_name: Planar Protection, Reality Shift
+effects: "- Applies Planar Protection when Activated.\n  - Grants protection against destructive planar energies.\n  - The casting time of Planar Protection is 3.0 seconds and the reuse time of the spell is 30.0 seconds\n- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Reality Shift on target of spell.  Lasts for 24.0 seconds.\n    - Inflicts 7,116 magic damage on target.\n    - Inflicts 5,333 magic damage on target every 6 seconds.\n    - Decreases Combat Mitigation of target by 13.2.\n    - Cannot be modified except by direct means\n  - Increases Ability Doublecast of caster by 3.0.\n  - Protects the wearer against destructive planar energies."
 obtained_from: '[[Consolidation of Power]]'
 item_link: \aITEM -76425459 104778229:The Awakened Mirage Star\/a
 categories:

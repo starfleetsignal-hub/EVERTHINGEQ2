@@ -17,7 +17,7 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Cloth Armor
-effects: Potent Essence Infusion
+effects: "- When Equiped:\n  - Applies Potent Essence Infusion to qualifying pets.\n    - On a successful attack this spell has a chance to cast Potent Essence Infusion on target of attack. This effect will trigger an average of 2.0 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n      - Increases power of group members by 304\n      - Inflicts 338 poison damage on target encounter\n      - Inflicts 338 heat damage on target encounter"
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 1337081697 1117434519:[Aramid Robe of the Voidcaller]\/a
 categories:

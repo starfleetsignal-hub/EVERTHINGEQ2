@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   dps: '10.1'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM -1197887030 -300138163:Oiled Leather Boots\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   aspeed: '7.6'
   dps: '13.4'
   vselemental: +1,040
-effects: '**Empty Soul**'
+effect_name: Empty Soul
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Empty Soul on target of spell cast.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Applies Purity of Emptiness on termination.  Lasts for 10.0 seconds.\n      - Dispels 93 levels of physical, elemental, noxious, arcane, heat, cold, magic, mental, divine, disease, poison, slash, crush and pierce hostile effects on caster\n      - Increases Multi Attack of caster by 5.0.\n    - Makes target immune to Fear effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1316094568 2066842791:Ring of Emptiness\/a
 categories:
 - Arcane Resistance (Equipment)

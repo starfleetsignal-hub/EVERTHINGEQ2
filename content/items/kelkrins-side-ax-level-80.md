@@ -20,7 +20,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Fierce Blow**'
+effect_name: Fierce Blow
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Fierce Blow on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 467 - 700 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 653394071 2076142295:Kelkrin's Side Ax\/a
 categories:
 - Ability Modifier (Equipment)

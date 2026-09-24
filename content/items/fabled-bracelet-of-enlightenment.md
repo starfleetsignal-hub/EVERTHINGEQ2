@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Curse Armor**'
+effect_name: Curse Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curse Armor II on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 1,087.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1816102220 596766699:Fabled Bracelet of Enlightenment\/a
 categories:
 - AE Autoattack Chance (Equipment)

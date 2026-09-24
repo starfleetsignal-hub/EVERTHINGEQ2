@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '77'
   dtype: Leather Armor
-effects: '**Glyph of Strength**'
+effect_name: Glyph of Strength
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Strengthen on caster.  Lasts for 30.0 seconds.\n    - Increases STR of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1263080674 -140906475:Shoulder Pads of Strength\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Cloth Armor
-effects: '**Distract**'
+effect_name: Distract
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Distract on target's attacker.\n    - Decreases Threat to targets in Area of Effect by 990 - 1,650\n    - Cannot be modified except by direct means"
 item_link: \aITEM -209660627 -326183740:Slayer's Stonewoven Slippers\/a
 categories:
 - Assassin Equipment

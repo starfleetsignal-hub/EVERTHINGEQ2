@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Spectral Annihilation**'
+effect_name: Spectral Annihilation
+effects: "- Applies Spectral Annihilation when Activated.\n  - Inflicts 548,800 mental damage on target.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Spectral Annihilation is 15.0 seconds"
 item_link: \aITEM -948418748 1207427725:Brog's Rat Trap\/a
 categories:
 - Assassin Equipment

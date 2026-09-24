@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Cloth Armor
-effects: '**Thought Retrieval**'
+effect_name: Thought Retrieval
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Thought Retrieval on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 39 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 426059873 -1965729735:Slippers of Zal'Naz\/a
 categories:
 - Ability Modifier (Equipment)

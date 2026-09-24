@@ -15,7 +15,8 @@ stats:
   potency: '26.9'
   dps: '21.1'
   multi: '26.8'
-effects: '**Psalm of the Sirens**'
+effect_name: Psalm of the Sirens
+effects: "- When Equipped:\n  - Increases Potency of caster by 7.0.\n  - Increases Disruption, Subjugation, Focus, Ministration and Ordination of caster by 75.0.\n  - Reduces resistibility of all spells by 10%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 644140307 -1253237508:Devoured Tavalan Skull Amulet\/a
 categories:
 - Census Credits

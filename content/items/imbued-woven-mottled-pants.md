@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Leather Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 130 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 86) from [[Tailor Essentials Volume 86]]
 item_link: \aITEM -1172644287 1982723338:Imbued Woven Mottled Pants\/a
 categories:

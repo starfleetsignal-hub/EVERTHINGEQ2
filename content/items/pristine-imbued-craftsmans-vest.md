@@ -14,7 +14,7 @@ stats:
   mit: '68'
   vsarcane: '+67'
   dtype: Cloth Armor
-effects: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 35 instantly and every 4 seconds"
 obtained_from: Crafted by [[Tailor]] (level 47) from [[Tailor Essentials Volume 47]]
 removed_from_game: Recipe removed with [[LU48]]
 categories:

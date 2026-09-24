@@ -17,7 +17,7 @@ stats:
   drating: '12.5'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.6 times per minute.\n    - Inflicts 61 - 113 magic damage on target\n    - Decreases Threat to target by 153\n      - Must be flanking or behind\n    - Increases Threat to target by 153\n      - Must be in front of"
 obtained_from: Crafted by [[Outfitter]] (level 12) from [[Advanced Outfitter Volume 12]]
 item_link: \aITEM 875083403 1250256894:imbued blackened iron spatha\/a
 categories:

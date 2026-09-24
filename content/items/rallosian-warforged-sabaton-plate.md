@@ -11,7 +11,8 @@ description: Rallos Zek has been slain! From Underfoot to Overrealm, all of Norr
 stats:
   sta: '+10'
   int: '+10'
-effects: '**Boon of Battle**'
+effect_name: Boon of Battle
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 99 - 121.\n    - Increases power of caster by 60.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 99 - 121.\n    - Increases power of caster by 60.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1805275141 -1232527194:Rallosian Warforged Sabaton Plate\/a
 categories:
 - Boon of Battle (Equipment)

@@ -17,7 +17,8 @@ stats:
   aspeed: '37.4'
   dps: '23.1'
   multi: '21.3'
-effects: '**Growing Power**'
+effect_name: Growing Power
+effects: "- Applies Growing Power when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 135.0.\n  - Increases Potency of caster by an additional 4.6% every 2 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Power is 2 minutes"
 item_link: \aITEM 709942672 -1046162558:Relic of Hate\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   resolve: '19'
   abmod: +28,703
   aspeed: '61.7'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 125.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Coins of the Damned]]'
 item_link: \aITEM 1428054464 652800417:Vial of Liquid Loathing\/a
 categories:

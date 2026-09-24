@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   multi: '11'
   vselemental: '+512'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 2000837370 439023914:Stud of Unfathomable Terror\/a
 categories:
 - Arcane Resistance (Equipment)

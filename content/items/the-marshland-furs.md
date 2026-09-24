@@ -17,7 +17,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dps: '234.5'
-effects: '**Preparation Check**'
+effect_name: Preparation Check
+effects: "- Applies Preparation Check when Activated.  Lasts for 10.0 seconds.\n  - \"Preparation Check\" will display and compare the resolve for all active member(s) of the caster's current raid against the resolve of the currently targeted enemy. Must have a target that requires the \"Resolve\" statistic and the target must be labeled as a \"Named\" or \"Boss\"  in order to use this effect.\n  - The casting time of Preparation Check is 5.0 seconds and the reuse time of the spell is 45.0 seconds"
 item_link: \aITEM -1519995110 110512114:The Marshland Furs\/a
 categories:
 - Assassin Equipment

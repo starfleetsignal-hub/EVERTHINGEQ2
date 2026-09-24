@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Swiftness**'
+effect_name: Swiftness
+effects: "- When Equipped:\n  - Increases speed of caster by 70.0%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 210227954 -718642602:Autumn Sky Pendant\/a
 categories:
 - Assassin Equipment

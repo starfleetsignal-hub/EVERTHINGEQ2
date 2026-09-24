@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   aspeed: '37.7'
   mitinc: '7.9'
-effects: '**Dragon Grit**'
+effect_name: Dragon Grit
+effects: "- Applies Dragon Grit when Activated.  Lasts for 20.0 seconds.\n  - Reduces all damage done to caster by 15%. This spell will absorb a total of 20 attacks.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Dragon Grit is 2 minutes"
 item_link: \aITEM 2026156413 -1025034597:Petrified Tinderton\/a
 categories:
 - Assassin Equipment

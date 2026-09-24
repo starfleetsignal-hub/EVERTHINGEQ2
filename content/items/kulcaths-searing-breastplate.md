@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   aspeed: '0.3'
   dtype: Plate Armor
-effects: '**The Searing**'
+effect_name: The Searing
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Seared on target's attacker.  Lasts for 21.6 seconds.\n    - Decreases Mitigation of target vs elemental damage by 750.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 295921645 -817670249:Kulcath's Searing Breastplate\/a
 categories:
 - Attack Speed (Equipment)

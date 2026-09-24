@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM 1794071506 -306474531:Benevolent Custodian Necklace\/a
 categories:
 - Ability Modifier (Equipment)

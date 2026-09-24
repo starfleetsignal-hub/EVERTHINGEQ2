@@ -16,7 +16,8 @@ stats:
   potency: '2.4'
   abmod: '+52'
   dtype: Plate Armor
-effects: '**Fearless**'
+effect_name: Fearless
+effects: "- When Equipped:\n  - When damaged this spell has a 15% chance to cast Fearless on caster.  Lasts for 15.0 seconds.\n    - Makes caster immune to Fear effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -78323311 -976691773:Umbral Platemail Breastplate\/a
 categories:
 - Ability Modifier (Equipment)

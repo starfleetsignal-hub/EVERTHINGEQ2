@@ -17,7 +17,8 @@ stats:
   abmod: +3,901
   aspeed: '30.7'
   dtype: Buckler
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending IV on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target by 0.8%.\n    - Inflicts 820 disease damage on target instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Tokens of the Dhalgar]]'
 item_link: \aITEM -1801162441 308913864:Tempered Darkmetal Etched Buckler\/a
 categories:

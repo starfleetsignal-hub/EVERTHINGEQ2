@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Secrets of Vazaelle**'
+effect_name: Secrets of Vazaelle
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 12% chance to cast Poisonous Blast on target of spell.  Lasts for 15.0 seconds.\n    - Applies Poisonous Blast.  Lasts for 15.0 seconds.\n      - Increases Crit Chance of pet by 20.0.\n      - Prevents AOE (except when direct)\n    - Inflicts 470 - 1,096 poison damage on target.\n    - Inflicts 97 - 227 poison damage on target every 3 seconds.\n    - Cannot be modified except by direct means\n  - Damage over time spells increase damage with each tick.  Damage ceases to increase after 5 ticks.\n  - Applies Secrets of Vazaelle to qualifying pets.\n    - Improves the ability damage of target pet."
 obtained_from: '[[Shattered Sanity of the Mad]]'
 item_link: \aITEM -2092073898 -1313353754:Vazaelle, the Mad\/a
 categories:

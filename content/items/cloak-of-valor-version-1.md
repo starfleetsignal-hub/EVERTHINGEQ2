@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Countenance of Marr**'
+effect_name: Countenance of Marr
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Countenance of Marr on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 50.0.\n    - Increases DPS of caster by 15.0.\n    - Enlarges caster by 40.0%.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Trials of the Truthbringer]] of the [[Mithaniel Marr (God)|Mithaniel Marr]] deity timeline'
 item_link: \aITEM -1109359011 -1213034838:Cloak of Valor\/a
 image: images/Cloak_of_Valor.jpg

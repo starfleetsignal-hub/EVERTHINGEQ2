@@ -18,7 +18,8 @@ stats:
   resolve: '175'
   abmod: +50,749
   mitinc: '27.1'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,848.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: 'Collection reward: [[Sanctus Seru Station Insignias]]'
 item_link: \aITEM -1233379056 887802946:Sanctus Seru Vial of Victory\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dps: '234.5'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 279328450 2045793459:Hoard Found Cloak of Ruination\/a
 categories:
 - Assassin Equipment

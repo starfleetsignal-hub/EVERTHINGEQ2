@@ -16,7 +16,8 @@ stats:
   potency: '1.3'
   abmod: '+30'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -1102720709 1211690051:Slayer's Wristguards of the Frostbringer\/a
 categories:
 - Ability Modifier (Equipment)

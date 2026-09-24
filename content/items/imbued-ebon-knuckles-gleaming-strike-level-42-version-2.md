@@ -16,7 +16,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 149 - 276 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 876564706 -375051511:Imbued Ebon Knuckles\/a
 aliases:
 - Imbued Ebon Knuckles (Gleaming Strike) (Level 40)

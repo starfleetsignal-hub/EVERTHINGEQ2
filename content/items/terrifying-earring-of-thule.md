@@ -18,7 +18,8 @@ stats:
   aspeed: '49.9'
   dps: '38'
   vselemental: +55,296
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 item_link: \aITEM -995429453 1994430996:Terrifying Earring of Thule\/a
 categories:
 - Arcane Resistance (Equipment)

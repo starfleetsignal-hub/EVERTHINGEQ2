@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Countenance of The Hunt**'
+effect_name: Countenance of The Hunt
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Countenance of The Hunt on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 50.0.\n    - Increases Accuracy of caster by 15.0%.\n    - Increases Haste of caster by 15.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Honor the Sacrifice]]'
 item_link: \aITEM 951503030 -1279538562:Cloak of Love\/a
 categories:

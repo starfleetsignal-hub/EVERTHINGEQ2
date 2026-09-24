@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 50) from [[Ancient Knowledge: Reverent Wristguard of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 215542060 1168549187:Reverent Wristguard of Solace\/a
 categories:

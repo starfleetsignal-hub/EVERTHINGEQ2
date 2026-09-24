@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '68'
   dtype: Cloth Armor
-effects: '**Power of Marr**'
+effect_name: Power of Marr
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 5.0.\n  - This effect suspends during combat"
 obtained_from: '[[A Vicious Twist]]'
 item_link: \aITEM -1529269745 1678586227:Honorary Robe of Marr\/a
 image: images/Honorary_Robe_of_Marr.png

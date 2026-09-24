@@ -16,7 +16,8 @@ stats:
   aspeed: '0.8'
   dps: '3.2'
   dtype: Plate Armor
-effects: '**Poison**'
+effect_name: Poison
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Poisoning on target's attacker.  Lasts for 24.0 seconds.\n    - Inflicts 91 - 152 poison damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1945761208 -823459539:Iridescent Scale Vambraces\/a
 categories:
 - Attack Speed (Equipment)

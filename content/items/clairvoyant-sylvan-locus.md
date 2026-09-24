@@ -16,7 +16,8 @@ stats:
   critbonus: '886.6'
   potency: 9,406.6
   resolve: '245'
-effects: '**Deadly Insight**'
+effect_name: Deadly Insight
+effects: "- Applies Deadly Insight when Activated.  Lasts for 1 minute 30 seconds.\n  - Increases Weapon Damage of caster by 72.0.\n  - Increases Weapon Damage Overcap of caster by 72.0.\n  - Increases the damage and healing of spells and combat arts by 10.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Deadly Insight is 2.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 352353325 1285591975:Clairvoyant Sylvan Locus\/a
 categories:
 - Ability Doublecast (Equipment)

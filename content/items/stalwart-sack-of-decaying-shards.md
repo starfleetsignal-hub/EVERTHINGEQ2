@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Corrosive Fog**'
+effect_name: Corrosive Fog
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 783 - 866 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 470.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 852452702 411583379:Stalwart Sack of Decaying Shards\/a
 categories:
 - Ability Modifier (Equipment)

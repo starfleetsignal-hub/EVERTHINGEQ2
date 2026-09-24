@@ -16,7 +16,8 @@ stats:
   drating: '21.32'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Sparkling Blessing**'
+effect_name: Sparkling Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Sparkling Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 20\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 23) from [[Advanced Woodworker Volume 23 (Normal)]] *Crafted by [[Woodworker]] (level 23) from [[Advanced Woodworker Volume 23 (No-Trade)]]'
 item_link: \aITEM 1216158369 -2078645754:Blessed Fir Greatstaff\/a
 categories:

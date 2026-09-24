@@ -17,7 +17,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: '*Made from [[Elemental Gladiator''s Glove Mold]] *Made from [[Elemental Gladiator''s Glove Pattern]]'
 item_link: \aITEM -1405246814 407557590 0 0 0:Magma-Etched Gloves\/a
 categories:

@@ -17,7 +17,9 @@ stats:
   potency: '12.6'
   abmod: '+551'
   vselemental: +2,079
-effects: '**Cogent**<br>**Temporal Break**'
+effect_name: Cogent, Temporal Break
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 60.0.\n  - Increases Potency of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Temporal Break III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 6.5%.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 189,478.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Temporal Break III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 6.5%.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 189,478.\n    - Must not be engaged\
+  \ in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1456533703 1208329232:Corrallia's Hoop of the Cauldron\/a
 categories:
 - Ability Modifier (Equipment)

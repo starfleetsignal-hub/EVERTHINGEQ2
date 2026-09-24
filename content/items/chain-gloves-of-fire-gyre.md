@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   dps: '23'
   dtype: Chain Armor
-effects: '**Nocturnal Celerity**'
+effect_name: Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 1736280096 -1391043913:Chain Gloves of Fire Gyre\/a
 categories:
 - Census Credits

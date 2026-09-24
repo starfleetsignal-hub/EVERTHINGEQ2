@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   abmod: '+54'
-effects: '**Fury of Ro**'
+effect_name: Fury of Ro
+effects: "- When Equipped:\n  - Increases spell damage by 65."
 obtained_from: '[[The Avatar of Flame]]'
 item_link: \aITEM 848824174 771775398:Cloak of the Burning Prince\/a
 categories:

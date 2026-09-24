@@ -12,7 +12,7 @@ stats:
   agi: '+12'
   health: '+25'
   power: '+25'
-effects: Aura of Agility
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast **Flare of Agility** on caster. Lasts for 45.0 seconds.\n    - Increases AGI of caster by 8.3\n    - Increases Attack Speed of caster by 15.4"
 obtained_from: Crafted by [[Jeweler]] (level 28) from [[Advanced Jeweler Volume 28]]
 item_link: \aITEM 1882394092 1538226401:Pristine Imubed Palladium Band of Agility\/a
 categories:

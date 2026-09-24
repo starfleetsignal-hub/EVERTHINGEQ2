@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Kerafyrm''s Rage**'
+effect_name: Kerafyrm's Rage
+effects: "- Applies Kerafyrm's Rage II when Activated.  Lasts for 15.0 seconds.\n  - Increases Potency of group members (AE) by 70.0.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Rage II is 1 minute\n- When Equipped:\n  - Increases Potency of caster by 82.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -574350115 -1112350801:Rage of the Construct\/a
 categories:
 - Assassin Equipment

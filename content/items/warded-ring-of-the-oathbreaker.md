@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   str: '+1'
   sta: '+1'
-effects: '**Runic Barrier**'
+effect_name: Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 320 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -208461500 1565167524:Warded Ring of the Oathbreaker\/a
 categories:
 - Assassin Equipment

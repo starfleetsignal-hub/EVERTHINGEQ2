@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   abmod: '+40'
-effects: '**Numbing Manacles**'
+effect_name: Numbing Manacles
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Numbing Manacles on target of spell.  Lasts for 12.0 seconds.  Triggers about 1.0 times per minute.\n    - Slows target encounter by 64.6%.\n    - Decreases Mitigation of target encounter vs elemental damage by 960.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -169628038 1528414267:Alluring Bangle\/a
 categories:
 - Ability Modifier (Equipment)

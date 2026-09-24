@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Runic Recovery**<br>**Benevolent Alacrity**'
+effect_name: Runic Recovery, Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent.\n- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 item_link: \aITEM -1645230324 -1871530339:Warding Spirit's Boots\/a
 categories:
 - Ability Modifier (Equipment)

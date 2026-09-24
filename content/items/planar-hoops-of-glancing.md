@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   abmod: +32,535
   vselemental: +87,497
-effects: '**Exploit Advantage**'
+effect_name: Exploit Advantage
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 25.0."
 item_link: \aITEM -1561968715 1121282729:Planar Hoops of Glancing\/a
 categories:
 - Ability Modifier (Equipment)

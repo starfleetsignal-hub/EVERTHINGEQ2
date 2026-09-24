@@ -16,7 +16,8 @@ stats:
   potency: '1'
   abmod: '+24'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 64 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 658821026 1820953332:Imbued Cambric Blouse\/a
 image: images/Imbued_Cambric_Blouse.jpg
 categories:

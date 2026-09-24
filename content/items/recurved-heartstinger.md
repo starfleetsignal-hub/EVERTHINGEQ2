@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Mortal Puncture**'
+effect_name: Mortal Puncture
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mortal Puncture on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 217 - 361 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -951337371 1497512947:Recurved Heartstinger\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '5'
   strike: '8.5'
   dtype: Tower Shield
-effects: '**Ward of Fear**'
+effect_name: Ward of Fear
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Fear-guard of Thule on caster.  Lasts for 10.0 seconds.\n    - Wards caster against 250 points of physical damage\n    - Makes caster immune to Fear effects\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2100349839 966925321:Boneguard Tower\/a
 categories:
 - Berserker Equipment

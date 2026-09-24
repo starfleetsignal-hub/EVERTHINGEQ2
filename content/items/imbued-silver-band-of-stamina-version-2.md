@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+4'
   agi: '+4'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 4.0.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1426835570 -1673757717:Imbued Silver Band of Stamina\/a
 categories:
 - Assassin Equipment

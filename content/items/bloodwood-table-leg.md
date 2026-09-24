@@ -19,7 +19,8 @@ stats:
   drating: '110.43'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Dark Harvest**'
+effect_name: Dark Harvest
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Dark Harvest on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Inflicts 138 slashing damage on target instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Carpenter]] (level 79) from [[Sculptors'' Secrets of Mistmoore, Volume I]] *Made from [[Bloodwood plank]]'
 item_link: \aITEM 463444594 1838983684:Bloodwood Table Leg\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: +1,654
   aspeed: '37.4'
   dps: '14.3'
-effects: '**Pact of Constitution**'
+effect_name: Pact of Constitution
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 4.2 and health by 1,800 for each member of their group or raid."
 item_link: \aITEM -1401437602 -655303018:Neckguard of the Unbroken Pact\/a
 categories:
 - Ability Modifier (Equipment)

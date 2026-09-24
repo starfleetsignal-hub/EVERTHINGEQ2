@@ -19,7 +19,8 @@ stats:
   drating: '83.3'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 23.0."
 item_link: \aITEM -2087308974 -438778436:Doomwing Dragon Katana\/a
 categories:
 - Berserker Equipment

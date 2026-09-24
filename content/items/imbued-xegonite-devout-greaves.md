@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Plate Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 147 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 69) from [[Advanced Armorer Volume 69 (no-value)]] *Crafted by [[Armorer]] (level 69) from [[Advanced Armorer Volume 69 (Uncommon)]]'
 item_link: \aITEM 1050535250 -1122645501:Imbued Xegonite Devout Greaves\/a
 categories:

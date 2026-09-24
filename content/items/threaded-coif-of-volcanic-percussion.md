@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '*Made from [[Elemental Gladiator''s Helm Mold]] *Made from [[Elemental Gladiator''s Helm Pattern]]'
 item_link: \aITEM -781793426 -578070457 0 0 0:Threaded Coif of Volcanic Percussion\/a
 categories:

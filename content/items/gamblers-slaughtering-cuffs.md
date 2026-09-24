@@ -18,7 +18,8 @@ stats:
   abmod: '+288'
   dps: '22.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Dropped by [[Primus Pilus Gunnr (Epic)|Primus Pilus Gunnr]] in [[Throne of Storms: Hall of Legends]]'
 item_link: \aITEM -1792318387 1445559893:Gambler's Slaughtering Cuffs\/a
 categories:

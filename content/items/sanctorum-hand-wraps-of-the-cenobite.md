@@ -18,7 +18,8 @@ stats:
   potency: '8.8'
   abmod: '+288'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Dropped by [[General Aakita (Epic)|General Aakita]] in [[Tallon''s Stronghold]] *Dropped by [[General Utehk (Epic)|General Utehk]] in [[Tallon''s Stronghold]] *Dropped by [[General Zevitus (Epic)|General Zevitus]] in [[Tallon''s Stronghold]]'
 item_link: \aITEM -2001222749 610573914:Sanctorum Hand Wraps of the Cenobite\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '2.4'
   abmod: '+52'
   vsarcane: '+280'
-effects: '**Nail Spikes**'
+effect_name: Nail Spikes
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Nail Spikes on target's attacker.\n    - Inflicts 43 piercing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, slash or pierce abilities."
 item_link: \aITEM -376278783 1606415063:Nail Spiked Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

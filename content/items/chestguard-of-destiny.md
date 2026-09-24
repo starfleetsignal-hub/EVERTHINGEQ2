@@ -12,7 +12,8 @@ stats:
   agi: '+5'
   mit: '50'
   dtype: Chain Armor
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 24 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 870320454 -1538338064:Chestguard of Destiny\/a
 categories:
 - Assassin Equipment

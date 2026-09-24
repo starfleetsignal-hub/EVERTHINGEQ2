@@ -17,7 +17,8 @@ stats:
   potency: '5.8'
   aspeed: '7.9'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[Supply Master Essa'Mae]] (Faction Merchant) in [[The Hole]]<br>Requires 40,000 faction with Defenders of the Seal
 item_link: \aITEM -1941727660 950038952:Seal Defender Summoner's Gloves\/a
 categories:

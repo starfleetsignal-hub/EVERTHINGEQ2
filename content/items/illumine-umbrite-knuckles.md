@@ -21,7 +21,8 @@ stats:
   drating: '216.5'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Dismantle Ten Rats]]'
 item_link: \aITEM 428529462 241840428:Illumine Umbrite Knuckles\/a
 categories:

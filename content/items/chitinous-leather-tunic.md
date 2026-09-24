@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Leather Armor
-effects: '**Mutagenic Catalyst**'
+effect_name: Mutagenic Catalyst
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Mutagenic Reaction on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 350\n    - Increases power of caster by 122 every 5 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 item_link: \aITEM -66704259 -1785591691:Chitinous Leather Tunic\/a
 categories:
 - Assassin Equipment

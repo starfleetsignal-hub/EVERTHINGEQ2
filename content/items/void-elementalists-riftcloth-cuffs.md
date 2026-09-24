@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 722684245 1893634757 0 0 0:Void Elementalist's Riftcloth Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

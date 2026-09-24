@@ -19,7 +19,8 @@ stats:
   potency: '11.4'
   mitinc: '5.4'
   dtype: Plate Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,998 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Warmaster Deynka Packlasher]] in [[Tower of Tactics]]
 item_link: \aITEM -1610703442 882617540:Primordial Breastplate of the Myrmidon\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '1'
   potency: '4.9'
   vsnoxious: '+375'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM 1621717163 1046763232:Woven Nuknok Hair Bracelet\/a
 image: images/Woven_Nuknok_Hair_Bracelet.jpg
 categories:

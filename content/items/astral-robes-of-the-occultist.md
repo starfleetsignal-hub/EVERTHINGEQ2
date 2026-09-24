@@ -18,7 +18,8 @@ stats:
   potency: '8.8'
   abmod: '+288'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Vallon Zek (Epic)|Vallon Zek]] in [[Vallon's Tower]]
 item_link: \aITEM 1325887690 1423377098:Astral Robes of the Occultist\/a
 categories:

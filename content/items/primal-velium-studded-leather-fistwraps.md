@@ -17,7 +17,8 @@ stats:
   multi: '21.6'
   mitinc: '13.9'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -90152378 1127999689 0 0 0:Primal Velium Studded Leather Fistwraps\/a
 categories:
 - Block Chance (Equipment)

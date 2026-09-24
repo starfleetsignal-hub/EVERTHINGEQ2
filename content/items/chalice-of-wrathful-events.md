@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Whispers from Beyond**'
+effect_name: Whispers from Beyond
+effects: "- Applies Whispers from Beyond III when Activated.  Lasts for 12.0 seconds.\n  - Increases the potency and crit bonus of the group's heals and wards by 80%.\n  - Cannot be modified except by direct means\n  - The reuse time of Whispers from Beyond III is 1 minute 20 seconds"
 item_link: \aITEM -890394749 1514875154:Chalice of Wrathful Events\/a
 categories:
 - AE Autoattack Chance (Equipment)

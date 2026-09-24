@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   multi: '3.4'
   dtype: Cloth Armor
-effects: '**Azure Winds**'
+effect_name: Azure Winds
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Azure Winds on target of spell.  Triggers about 4.0 times per minute.\n    - Decreases Threat to target by 2,848\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2137358598 -518306944:Raiment of Maligned Intentions\/a
 categories:
 - Assassin Equipment

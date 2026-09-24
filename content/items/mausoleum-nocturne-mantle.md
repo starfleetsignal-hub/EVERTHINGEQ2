@@ -19,7 +19,8 @@ stats:
   resolve: '505'
   abmod: +3362,005
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -306887610 -1464725730:Mausoleum Nocturne Mantle\/a
 categories:
 - Ability Modifier (Equipment)

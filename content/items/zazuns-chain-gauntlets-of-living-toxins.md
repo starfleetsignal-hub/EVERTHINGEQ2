@@ -17,7 +17,8 @@ stats:
   dps: '22'
   multi: '28.8'
   dtype: Chain Armor
-effects: '**Greater Nocturnal Celerity**'
+effect_name: Greater Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM -721893438 -272182697:Zazun's Chain Gauntlets of Living Toxins\/a
 categories:
 - Accuracy (Equipment)

@@ -16,7 +16,8 @@ stats:
   dps: '56'
   multi: '19.6'
   flurry: '0.6'
-effects: '**Impish Assault**'
+effect_name: Impish Assault
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 5.7%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -81074992 1556979124:Impish Neckguard of Abhorrence\/a
 categories:
 - Assassin Equipment

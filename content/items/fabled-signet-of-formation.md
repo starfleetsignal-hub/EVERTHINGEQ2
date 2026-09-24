@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Killing Spree**'
+effect_name: Killing Spree
+effects: "- When Equipped:\n  - On a death blow this spell will cast Killing Spree II on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus by 5.5 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 item_link: \aITEM -550319660 1899412744:Fabled Signet of Formation\/a
 categories:
 - Ability Modifier (Equipment)

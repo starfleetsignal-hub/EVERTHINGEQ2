@@ -18,7 +18,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Cloth Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 42.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1497371590 -1956461761:Vestige Robe, Greater Relic of Old Velious\/a
 categories:
 - Census Credits

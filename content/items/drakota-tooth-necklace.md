@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   abmod: '+33'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -8732106 316832719:Drakota Tooth Necklace\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   resolve: '7'
   dps: '23.1'
   flurry: '20.1'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception when Equipped.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 375.\n  - Increases Fervor of caster by 8.0."
 item_link: \aITEM -830600183 2067314517:Furious Girdle of Ultimate Deception\/a
 categories:
 - Assassin Equipment

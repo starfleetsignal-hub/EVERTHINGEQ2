@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +24,232
-effects: '**Chilled Tempers**'
+effect_name: Chilled Tempers
+effects: "- When Equipped:\n  - Inflicts 410,000 cold damage and 700,000 threat reduction to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 266628350 1352898462:Ring of Chilling Darkness\/a
 categories:
 - Arcane Resistance (Equipment)

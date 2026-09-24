@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Unphased**'
+effect_name: Unphased
+effects: "- When Equipped:\n  - On any combat or spell hit this spell will cast Unphased on target.  Lasts for 18.0 seconds.\n    - Increases Mitigation of caster vs physical damage by 545, multiplied by increment stacks.\n    - Increments up to 5 times\n    - Cannot be modified except by direct means\n  - If under 25% Health"
 obtained_from: '*Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]] *'
 item_link: \aITEM -534251673 -740105924:Ring of the Waxing Epoch\/a
 image: images/Ring_of_the_Waxing_Epoch.png

@@ -15,7 +15,8 @@ stats:
   abmod: '+249'
   dps: '21.6'
   vselemental: +9,504
-effects: '**Raging Tempest**'
+effect_name: Raging Tempest
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 3.0.\n  - Caster will Parry 3.0% of incoming attacks.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 700.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1476068670 -705678366:Shackle of the High Seas\/a
 categories:
 - Ability Modifier (Equipment)

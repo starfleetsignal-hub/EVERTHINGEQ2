@@ -17,7 +17,8 @@ stats:
   abmod: +1,559
   aspeed: '35.2'
   dps: '13.5'
-effects: '**Enraging Flames**'
+effect_name: Enraging Flames
+effects: "- When Equipped:\n  - Inflicts 610,000 heat damage and 940,000 threat increase to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 166782859 -2043149914:Gem of the Abyss\/a
 categories:
 - Ability Modifier (Equipment)

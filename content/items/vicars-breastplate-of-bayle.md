@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   dps: '9.5'
   dtype: Plate Armor
-effects: '**Replenish Power**'
+effect_name: Replenish Power
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Replenish Power on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 108.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 85443671 1185601563:Vicar's Breastplate of Bayle\/a
 categories:
 - Census Credits

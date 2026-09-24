@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: no-transmute  no-salvage  no-trade no-value
 description: This cloak was recovered from the angsty thief known as Ratscallion Attamilgad!
-effects: '**Imperceptible Field**'
+effect_name: Imperceptible Field
+effects: "- Applies Imperceptible Field when Activated.\n  - Coats the wearer in an almost Imperceptible Field... okay, not really.\n  - The casting time of Imperceptible Field is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Watch EQ2 social media pages for notification of when Ratscallion is up!
 item_link: \aITEM 838865025 -1277173728:Cloak of the Imperceptible\/a
 categories:

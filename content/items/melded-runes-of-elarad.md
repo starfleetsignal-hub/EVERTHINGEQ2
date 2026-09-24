@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Rune Meld**'
+effect_name: Rune Meld
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Rune Meld on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 500 points of all damage\n    - Increases Reuse Speed of caster by 3.0%.\n    - This ward regenerates 250 points per tick.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Runes of Fate]]'
 item_link: \aITEM -1709496688 -314183396:Melded Runes of El'Arad\/a
 categories:

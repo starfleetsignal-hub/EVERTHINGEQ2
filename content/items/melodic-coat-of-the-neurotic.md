@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '161'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 3.0.\n  - Increases Haste of caster by 3.0.\n  - Increases in-combat movement speed of caster by 3.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Melodic Coat of the Neurotic]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 1562200561 1802417486:Melodic Coat of the Neurotic\/a
 categories:

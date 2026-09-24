@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   vsarcane: '+130'
-effects: '**Overwhelming Power**'
+effect_name: Overwhelming Power
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Overwhelming Power IV on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 4.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Overwhelming Power IV on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 4.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 50) from [[Ancient Knowledge: Lucid Bracelet of Extermination]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -32401411 1030472489:Lucid Bracelet of Extermination\/a
 categories:

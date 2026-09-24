@@ -15,7 +15,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   aspeed: '4.3'
-effects: '**Boon of Battle**'
+effect_name: Boon of Battle
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 601 - 734.\n    - Increases power of caster by 267.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 601 - 734.\n    - Increases power of caster by 267.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1889521180 984478233:Rallosian Warforged Chestplate Rivet\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +10,660
-effects: '**Conversion**'
+effect_name: Conversion
+effects: "- When Equipped:\n  - When damaged this spell will cast Conversion on caster.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus of caster by 15.0.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -328755330 967505883:Overseer's Ring of the Deathwatch\/a
 categories:
 - Ability Modifier (Equipment)

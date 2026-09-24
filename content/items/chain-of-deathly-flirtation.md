@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +19,656
-effects: '**Flirting with Death**'
+effect_name: Flirting with Death
+effects: "- When Equipped:\n  - When target falls below 30% health this spell will cast Flirting with Death II on caster.  Lasts for 1 minute.\n    - Increases Crit Bonus of caster by 12.0, multiplied by increment stacks.\n    - Increments up to 5 times\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 2.0 seconds."
 item_link: \aITEM 1003549000 -1928819749:Chain of Deathly Flirtation\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -15,7 +15,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 50) from [[Ancient Knowledge: Glorified Tunic of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 538055878 1254476257:Glorified Tunic of Solace\/a
 categories:

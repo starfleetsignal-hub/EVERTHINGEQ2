@@ -17,7 +17,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mental Blast**'
+effect_name: Mental Blast
+effects: "- Applies Mental Blast when Activated.\n  - Inflicts 202 - 337 mental damage on target.\n  - The casting time of Mental Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 2141407755 -414059382:Crude Mental Imbued Cedar Wand\/a
 categories:
 - Berserker Equipment

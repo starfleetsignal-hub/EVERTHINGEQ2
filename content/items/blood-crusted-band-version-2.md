@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   vsarcane: '+280'
-effects: '**Baleful Countenance**'
+effect_name: Baleful Countenance
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell has a 5% chance to cast Baleful Countenance on caster.\n    - Increases power of caster by 100.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 450550580 1261173723:Blood-crusted Band\/a
 categories:
 - Ability Modifier (Equipment)

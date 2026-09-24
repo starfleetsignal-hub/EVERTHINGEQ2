@@ -16,7 +16,7 @@ stats:
   vsarcane: '+803'
   vsnoxious: '+803'
   dtype: Leather Armor
-effects: Inner Fire
+effects: "- When Equipped:\n  - On a successful melee attack this spell has a chance to cast Inner Fire on target. Lasts for 5.0 seconds. This effect will trigger an everage of 1.8 times per minute. If a melee attack is used, on the primary weapon can trigger this effect.\n    - Increases Melee crit Chance of caster by 100%"
 obtained_from: 'Named Drop: [[Avatar of Flame]]'
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: +14,784
   dps: '28.6'
   mitinc: '8.8'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 36.8.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 24.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1442110966 610250625:Embroidery of the Nizari\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '6'
-effects: '**Fanatic''s Dogma**<br>**All for One**'
+effect_name: Fanatic's Dogma, All for One
+effects: "- When Equipped:\n  - Convert Ally will heal the group, heal for an increased amount, and adds a groups potency buff.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 852370696 76170542:Cloak of the Archon\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '77'
   dtype: Leather Armor
-effects: '**Glyph of Agility**'
+effect_name: Glyph of Agility
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Agility on caster.  Lasts for 30.0 seconds.\n    - Increases AGI of target by 8.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 199066312 1516701961:Finely Stitched Shoulderpads\/a
 categories:
 - Assassin Equipment

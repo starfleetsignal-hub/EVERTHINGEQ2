@@ -11,7 +11,8 @@ stats:
   sta: '+8'
   agi: '+9'
   vselemental: '+45'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 7.2.\n    - Increases Haste of caster by 12.3.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2047230126 295528809:Imbued Velium Band of Agility\/a
 categories:
 - Arcane Resistance (Equipment)

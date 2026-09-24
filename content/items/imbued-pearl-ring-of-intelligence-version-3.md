@@ -15,7 +15,8 @@ stats:
   potency: '1'
   abmod: '+24'
   vselemental: '+156'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 18.2.\n    - Increases Disruption, Subjugation and Focus of caster by 10.1.\n    - Cannot be modified except by direct means"
 obtained_from: From [[Caster Jewelry Pack (Level 62 Mastercrafted)]]
 item_link: \aITEM 1350466233 -895853108:Imbued Pearl Ring of Intelligence\/a
 categories:

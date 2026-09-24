@@ -14,7 +14,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   vselemental: '+360'
-effects: '**Betrayed Thoughts**'
+effect_name: Betrayed Thoughts
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Betrayed Thoughts on target of spell cast.  Triggers about 2.0 times per minute.\n    - Decreases Threat to targets in Area of Effect by 1,600\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1239091365 1584960983:Eye of Hoshkar\/a
 categories:
 - Arcane Resistance (Equipment)

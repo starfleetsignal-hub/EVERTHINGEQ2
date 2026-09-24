@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Plate Armor
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Detonation on target's attacker.\n    - Inflicts 135 - 225 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 988458665 -2028130600:Shimmering Star Legplates\/a
 categories:
 - Attack Speed (Equipment)

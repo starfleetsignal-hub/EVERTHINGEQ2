@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+11'
   sta: '+11'
-effects: '**Blurred Strikes**<br>**Umbral Lightning**'
+effect_name: Blurred Strikes, Umbral Lightning
+effects: "- Applies Blurred Strikes when Activated.  Lasts for 15.0 seconds.\n  - Increases Haste of caster by 100.0.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Blurred Strikes is 5 minutes\n- When Equipped:\n  - On a critical combat hit this spell may cast Umbral Lightning III on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 125 - 153 magic damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Umbral Lightning III on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 125 - 153 magic damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 30) from [[Ancient Knowledge: Oiled Waistband of the Neurotic]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -41194622 -1170038563:Oiled Waistband of the Neurotic\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '50.26'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Paralyzing Puncture**'
+effect_name: Paralyzing Puncture
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Paralyzing Puncture V on target of attack.  Lasts for 2.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 412 - 456 heat damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 50) from [[Ancient Knowledge: Calamitous Katar of Dynamism]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -108005332 944003169:Calamitous Katar of Dynamism\/a
 categories:

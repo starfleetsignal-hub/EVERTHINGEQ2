@@ -13,7 +13,8 @@ stats:
   crit: '3.8'
   critbonus: '1.4'
   potency: '6.2'
-effects: '**Flockmaster''s Protection**'
+effect_name: Flockmaster's Protection
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Flockmaster's Protection IX on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - This effect applies to both the caster and the target.\n    - When any damage is received this spell will cast Flockmaster's Protection IX on target.\n      - Heals target for 970 - 1,072.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 90) from [[Ancient Knowledge: Radiant Stone of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 448969867 -582717890:Radiant Stone of Revelations\/a
 categories:

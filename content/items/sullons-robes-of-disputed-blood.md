@@ -17,7 +17,9 @@ stats:
   dps: '51.9'
   multi: '35.5'
   dtype: Cloth Armor
-effects: '**Indomitable Claws of the Hounds**'
+effect_name: Indomitable Claws of the Hounds
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Indomitable Claws of the Hounds on target of spell.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Decreases Threat to target by 8,074 - 8,925\n    - Inflicts 3,370 - 10,110 piercing damage on target instantly and every 5 seconds.\n    - Increases Reuse Speed of caster by 7.0%.\n    - Increases Potency of caster by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Indomitable Claws of the Hounds on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Decreases Threat to target by 8,074 - 8,925\n    - Inflicts 3,370 - 10,110 piercing damage on target instantly and every 5 seconds.\n    - Increases Reuse Speed of caster by 7.0%.\n    - Increases Potency of caster by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n\
+  \  - Cannot be modified except by direct means"
 item_link: \aITEM 1501330702 957557715:Sullon's Robes of Disputed Blood\/a
 categories:
 - Attack Speed (Equipment)

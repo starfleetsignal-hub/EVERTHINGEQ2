@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**War March**'
+effect_name: War March
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast War March on caster.  Lasts for 2 minutes.  Triggers about 2.0 times per minute.\n    - Increases potency of the raid by 40% for 20 seconds when this reaches 15 increments. Cannot build increments while the potency is active.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 227761773 -87245573:Bangle of the March\/a
 categories:
 - Ability Modifier (Equipment)

@@ -8,7 +8,8 @@ level: '110'
 slot: Neck
 flags: lore no-trade no-value no-destroy
 description: This amulet is often made by the tegi tribes within the Wracklands and used in rituals to their deities.
-effects: '**Tegi''s Gift of Breath**'
+effect_name: Tegi's Gift of Breath
+effects: "- Applies Tegi's Gift of Breath when Equipped.\n  - Tegi's Gift of Breath gives the target a protection sphere around them to protect them within the Grey and allow them to breathe."
 obtained_from: 'Crafted by [[Artisan]] (level 110) from [[Recipe Scroll: Ceremonial Amulet of the Tegi]]'
 item_link: \aITEM -445708636 2128511146:Ceremonial Amulet of the Tegi\/a
 image: images/Ceremonial_Amulet_of_the_Tegi.png

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+4'
   agi: '+4'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 4.0.\n    - Increases Haste of caster by 12.1.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 193297289 -1028470768:Imbued Silver Band of Agility\/a
 categories:
 - Assassin Equipment

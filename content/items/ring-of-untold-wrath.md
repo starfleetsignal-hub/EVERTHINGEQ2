@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Mob''s Wrath**'
+effect_name: Mob's Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mob's Wrath on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 389,000-596,000 slashing damage to the target based on how many raid members are within 15 meters of the caster\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1078360416 1327358629:Ring of Untold Wrath\/a
 categories:
 - AE Autoattack Chance (Equipment)

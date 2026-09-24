@@ -20,7 +20,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Vibrating Fury**'
+effect_name: Vibrating Fury
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Vibrating Fury on target of spell.  Lasts for 12.0 seconds.  Triggers about 0.2 times per minute.\n    - Inflicts 124 - 186 slashing damage on target.\n    - Decreases DPS of target by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 585450517 90334052:vibrellium short sword\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dtype: Cloth Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 69 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -878563588 -356476435:Imbued  Specialist's Bloomers\/a
 categories:
 - Assassin Equipment

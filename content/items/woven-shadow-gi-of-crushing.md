@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Leather Armor
-effects: '**Debilitate**'
+effect_name: Debilitate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Debilitate on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Mitigation of target vs physical damage by 1,097.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1133239931 -554692800 0 0 0:Woven Shadow Gi of Crushing\/a
 categories:
 - Block Chance (Equipment)

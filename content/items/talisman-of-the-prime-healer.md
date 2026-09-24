@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dps: '13.4'
-effects: '**Will from Temperance**'
+effect_name: Will from Temperance
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Will from Temperance on the group.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards group members (AE) against 988 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1541771596 471809131:Talisman of the Prime Healer\/a
 categories:
 - Assassin Equipment

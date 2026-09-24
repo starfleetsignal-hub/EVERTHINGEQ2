@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   dps: '12'
   dtype: Chain Armor
-effects: '**Mirage**'
+effect_name: Mirage
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Mirage on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1180236659 -960032121:Fitzfangle's Aiming Device\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   multi: '31.2'
-effects: '**Stunning Blast**'
+effect_name: Stunning Blast
+effects: "- Applies Stunning Blast II when Activated.  Lasts for 6.0 seconds.\n  - Stuns targets in Area of Effect\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Stunning Blast II is 2 minutes 40 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 96) from [[Jeweler Essentials Volume 96]]
 item_link: \aITEM 1335539809 535328884:Tranquil Iodocus Symbol\/a
 image: images/Tranquil_Iodocus_Symbol.png

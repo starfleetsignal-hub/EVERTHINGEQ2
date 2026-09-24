@@ -16,7 +16,7 @@ stats:
   vselemental: '+533'
   vsarcane: '+533'
   vsnoxious: '+533'
-effects: Arcane Recovery I<br>Sorcerous Alacrity I
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent\n- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 categories:
 - Ability Modifier (Equipment)

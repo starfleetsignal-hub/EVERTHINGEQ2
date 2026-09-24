@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   dtype: Leather Armor
-effects: '**Reflexive Regeneration**'
+effect_name: Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 138 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Peddler Nokken]] (Faction Merchant) in [[Kunzar Jungle]]
 item_link: \aITEM -1622778399 -1421497197:Vine Adorned Leather Cap\/a
 categories:

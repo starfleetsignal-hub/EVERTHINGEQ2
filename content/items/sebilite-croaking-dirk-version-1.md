@@ -20,7 +20,8 @@ stats:
   drating: '97.92'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Sinister Toxins**'
+effect_name: Sinister Toxins
+effects: "- When Equipped:\n  - Increases damage of all crafted poisons by 10 percent."
 item_link: \aITEM -1407295719 1392380522:Sebilite Croaking Dirk\/a
 image: images/Sebilite_Croaking_Dirk.png
 categories:

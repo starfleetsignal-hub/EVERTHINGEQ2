@@ -15,7 +15,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: '**Malign Contingent**'
+effect_name: Malign Contingent
+effects: "- When Equipped:\n  - Increases all damage done to caster by 25%.\n  - Increases Max Health of caster by 50.0%.\n  - Increases Max Power of caster by 50.0%.\n  - Increases the power cost of abilities by 25%."
 item_link: \aITEM 1780041363 1820282995:Medallion of Quivering Stone\/a
 categories:
 - Assassin Equipment

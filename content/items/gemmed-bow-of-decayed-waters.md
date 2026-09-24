@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Defiant Slam**'
+effect_name: Defiant Slam
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Slam on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,319 - 1,612 heat damage on target.\n    - Inflicts 1,319 - 1,612 heat damage on target.\n    - Inflicts 1,319 - 1,612 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1723248188 -1608079703:Gemmed Bow of Decayed Waters\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   potency: '8.4'
   mitinc: '8.6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Ancient Armor of War]]
 item_link: \aITEM 197545042 -29790825:Primordial Gauntlets of the Knight\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   abmod: +29,757
   aspeed: '66.3'
   dps: '50.3'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1557991530 -1433111819:Windstalker's Captain's Wheel\/a
 categories:
 - Ability Modifier (Equipment)

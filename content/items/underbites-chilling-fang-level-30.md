@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ancient Glyph of Ice**'
+effect_name: Ancient Glyph of Ice
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Freeze on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 91 - 151 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1047621231 -1644554425:Underbite's Chilling Fang\/a
 categories:
 - Ancient Glyph of Ice (Equipment)

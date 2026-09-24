@@ -18,7 +18,8 @@ stats:
   resolve: '245'
   aspeed: '17.2'
   flurry: '16.5'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 30.2.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 25.2.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: 'Collection reward: [[Secrets in Shadow]]'
 item_link: \aITEM -309065955 -1939289745:Emblem of Vex Thal\/a
 categories:

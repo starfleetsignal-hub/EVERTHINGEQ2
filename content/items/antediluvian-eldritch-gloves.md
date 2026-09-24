@@ -14,7 +14,8 @@ stats:
   critbonus: '9.5'
   potency: '9.5'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1074689714 291449634 0 0 0:Antediluvian Eldritch Gloves\/a
 categories:
 - Casting Speed (Equipment)

@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   str: '+1'
   sta: '+1'
-effects: '**Noggin Spark**'
+effect_name: Noggin Spark
+effects: "- Applies Noggin Spark when Activated.\n  - Increases power of caster by 21.\n  - The casting time of Noggin Spark is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Neezer''s Survey]]'
 item_link: \aITEM 1049793325 -1631562739:Nogginspark's Wondrous Tickerdoodle\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   dps: '42.9'
   multi: '29.4'
   dtype: Cloth Armor
-effects: '**Necromunger''s Fortitude**'
+effect_name: Necromunger's Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 860745974 -1786067491:Robes of the Prime-Lock\/a
 categories:
 - Attack Speed (Equipment)

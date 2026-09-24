@@ -15,7 +15,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   dtype: Buckler
-effects: '**Burning Coals**'
+effect_name: Burning Coals
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Burning Coals on target's attacker.\n    - Inflicts 170 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -540266854 -612353178:Coal Encrusted Shield\/a
 categories:
 - Ability Modifier (Equipment)

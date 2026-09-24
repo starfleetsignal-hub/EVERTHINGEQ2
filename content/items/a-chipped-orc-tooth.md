@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Plague**'
+effect_name: Plague
+effects: "- Applies Plague when Activated.  Lasts for 1 minute.\n  - Increases Multi Attack of caster by 75.0.\n  - Converts damage spells to disease damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Plague is 1 minute"
 item_link: \aITEM 157335706 -850040507:A Chipped Orc Tooth\/a
 categories:
 - AE Autoattack Chance (Equipment)

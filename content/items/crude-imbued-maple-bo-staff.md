@@ -15,7 +15,8 @@ stats:
   drating: '9.38'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 25 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1933905082 -875277314:crude imbued maple bo staff\/a
 categories:
 - Berserker Equipment

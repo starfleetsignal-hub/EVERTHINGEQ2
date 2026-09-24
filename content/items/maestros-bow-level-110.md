@@ -25,7 +25,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,222 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: From [[A Packet of Level 110 Equipment (Dirge)|A Packet of Level 110 Equipment]]
 item_link: \aITEM 1966381313 -535322912:Maestro's Bow\/a
 categories:

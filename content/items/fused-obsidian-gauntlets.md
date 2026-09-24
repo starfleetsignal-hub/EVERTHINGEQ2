@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   mitinc: '4.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Conqueror''s Glove Mold]] *Made from [[Elemental Conqueror''s Glove Pattern]]'
 item_link: \aITEM 967994482 2092916013 0 0 0:Fused Obsidian Gauntlets\/a
 categories:

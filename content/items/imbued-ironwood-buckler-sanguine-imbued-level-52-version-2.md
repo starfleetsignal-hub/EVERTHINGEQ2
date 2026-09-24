@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   abmod: '+20'
   dtype: Buckler
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 118 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1079091004 852324929:Imbued Ironwood Buckler\/a
 aliases:
 - Imbued Ironwood Buckler (Sanguine Imbued) (Level 52) (25 sta)

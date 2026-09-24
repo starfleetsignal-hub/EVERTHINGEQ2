@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+338'
-effects: '**Hamstring Counter**'
+effect_name: Hamstring Counter
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Hamstring Counter on target's attacker.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Roots target\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 94.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Maelstrom Below]]'
 item_link: \aITEM -645706265 1861901003:Gwalnax Brigade Insignia\/a
 categories:

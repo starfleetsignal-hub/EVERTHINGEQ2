@@ -17,7 +17,8 @@ stats:
   potency: '12.7'
   dps: '31.4'
   dtype: Leather Armor
-effects: '**Oath Sworn Mending**'
+effect_name: Oath Sworn Mending
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Oath Sworn Mending on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 4,500 points of all damage\n    - Increases Crit Bonus of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1825399202 -588956725:Rodcet Nife's Cap of Oath Sworn Mending\/a
 categories:
 - Casting Speed (Equipment)

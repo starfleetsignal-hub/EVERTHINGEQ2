@@ -14,7 +14,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   abmod: '+381'
-effects: '**Dragonsoul**'
+effect_name: Dragonsoul
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,584.4.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 61092246 -1984514866:Queen's Crushing Waves Amulet\/a
 categories:
 - Ability Modifier (Equipment)

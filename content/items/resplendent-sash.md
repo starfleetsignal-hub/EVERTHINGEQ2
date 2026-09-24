@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   abmod: '+32'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Capture the Escapees]]'
 item_link: \aITEM 105039703 111316215:Resplendent Sash\/a
 categories:

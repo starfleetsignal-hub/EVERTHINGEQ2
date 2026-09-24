@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Plate Armor
-effects: '**Dark Tidings**'
+effect_name: Dark Tidings
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Dark Tidings on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 1,400\n    - Cannot be modified except by direct means"
 item_link: \aITEM -372410948 -105909505:Lord's Planeswalker Boots\/a
 categories:
 - Ability Modifier (Equipment)

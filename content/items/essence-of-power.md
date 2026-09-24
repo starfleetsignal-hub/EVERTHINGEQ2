@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 1.0 seconds
   recast: 2 minutes 45 seconds
-effects: essence of power
+effects: "- Applies essence of power when Activated.\n  - Increases power of caster by 29"
 obtained_from: Crafted by [[Scholar]] (level 14) from [[Scholar essentials volume 14]]
 item_link: \aITEM -100989979 580044223:Essence of Power\/a
 categories:

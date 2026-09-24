@@ -18,7 +18,8 @@ stats:
   drating: '42.79'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Frenzied Glyph**'
+effect_name: Frenzied Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frenzied Glyph on caster.  Lasts for 20.0 seconds.  Triggers about 0.4 times per minute.\n    - Increases Haste of target by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1767607373 1007989583:Reviler Guardian Shard Blade\/a
 categories:
 - Ability Modifier (Equipment)

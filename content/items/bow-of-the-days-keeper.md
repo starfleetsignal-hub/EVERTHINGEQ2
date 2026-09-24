@@ -24,7 +24,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1526540289 1576443525:Bow of the Days Keeper\/a
 categories:
 - Assassin Equipment

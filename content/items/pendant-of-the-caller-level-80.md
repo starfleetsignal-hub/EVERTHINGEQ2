@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dps: '12'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -709904222 651951514:Pendant of the Caller\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   drating: '67.03'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Ferrin''s Flame**'
+effect_name: Ferrin's Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ferrin's Flame on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 181 - 302 heat damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1782066837 355423477:Staff of Judgment\/a
 categories:
 - AE Autoattack Chance (Equipment)

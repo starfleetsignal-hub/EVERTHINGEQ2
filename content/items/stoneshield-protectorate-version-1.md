@@ -17,7 +17,8 @@ stats:
   aspeed: '4'
   mitinc: '3'
   dtype: Plate Armor
-effects: '**Infuriate**<br>**Stoneshield of Magic**'
+effect_name: Infuriate, Stoneshield of Magic
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Infuriate on target's attacker.\n    - Increases Threat to target by 4,192\n    - Cannot be modified except by direct means\n- When Equipped:\n  - When any magical damage is received this spell has a 10% chance to cast Stoneshield of Magic on caster.  Lasts for 20.0 seconds.\n    - Wards caster against 400 - 1,200 points of damage from elemental, noxious and arcane damage\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 item_link: \aITEM -1160292877 1786931269:Stoneshield Protectorate\/a
 categories:
 - Attack Speed (Equipment)

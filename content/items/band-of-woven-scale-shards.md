@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   vselemental: '+576'
-effects: '**Martial Efflux**'
+effect_name: Martial Efflux
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Martial Efflux on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases DPS of caster by 20.0.\n    - Increases Haste of caster by 20.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Band Of Woven Scale Shards]] *Made from [[Bone Golem Shards]] *Made from [[Drake Fang]] *Made from [[Great Dragon Scales]]'
 item_link: \aITEM 1557273990 527334518:Band of Woven Scale Shards\/a
 categories:

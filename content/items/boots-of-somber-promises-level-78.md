@@ -17,7 +17,8 @@ stats:
   aspeed: '5.4'
   multi: '6.2'
   dtype: Leather Armor
-effects: '**Lesser Runic Absorption**'
+effect_name: Lesser Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Lesser Runic Absorption on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 300 points of all damage\n    - Cannot be modified except by direct means\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM 1339120105 203911382:Boots of Somber Promises\/a
 categories:
 - Assassin Equipment

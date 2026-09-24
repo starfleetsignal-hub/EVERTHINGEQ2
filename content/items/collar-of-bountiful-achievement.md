@@ -16,7 +16,8 @@ stats:
   potency: '22'
   dps: '25.3'
   multi: '32.1'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1500962536 1637789320:Collar of Bountiful Achievement\/a
 categories:
 - Census Credits

@@ -16,7 +16,8 @@ stats:
   aspeed: '2.6'
   dps: '10.3'
   vselemental: +9,504
-effects: '**Storming Tempest**'
+effect_name: Storming Tempest
+effects: "- When Equipped:\n  - Increases Reuse Speed of caster by 3.0%.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 700.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1286799670 1298609241:Manacle of the High Seas\/a
 categories:
 - Ability Modifier (Equipment)

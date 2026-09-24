@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   dps: '9.9'
   vselemental: '+342'
-effects: '**Lesser Smash**'
+effect_name: Lesser Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 95.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Keep Your Nose to the Grindhoof]]'
 item_link: \aITEM 2113516696 2013162468:Cuffs of the Terrible\/a
 categories:

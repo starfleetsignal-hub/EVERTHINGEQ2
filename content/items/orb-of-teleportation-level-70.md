@@ -13,7 +13,8 @@ stats:
   crit: '1.7'
   critbonus: '0.5'
   potency: '2.5'
-effects: '**Teleport to Ally**'
+effect_name: Teleport to Ally
+effects: "- Applies Teleport to Ally on target Friend when Activated.\n  - Teleports caster to target\n  - This effect cannot be cast during combat\n  - The casting time of Teleport to Ally is 15.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 1701568342 705188178:Orb of Teleportation\/a
 categories:
 - Assassin Equipment

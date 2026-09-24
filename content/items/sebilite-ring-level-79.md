@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   vselemental: '+356'
-effects: '**Memory Lapse**'
+effect_name: Memory Lapse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Memory Lapse on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1298574135 737603640:Sebilite Ring\/a
 categories:
 - Arcane Resistance (Equipment)

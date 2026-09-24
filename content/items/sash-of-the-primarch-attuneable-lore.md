@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   aspeed: '9.7'
-effects: '**Enigmatic Wording**'
+effect_name: Enigmatic Wording
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Enigmatic Wording on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces resistibility by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1299999965 -2019903071:Sash of the Primarch\/a
 categories:
 - Assassin Equipment

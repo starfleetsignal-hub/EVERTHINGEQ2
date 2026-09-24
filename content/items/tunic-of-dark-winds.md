@@ -18,7 +18,8 @@ stats:
   abmod: '+62'
   flurry: '2.1'
   dtype: Leather Armor
-effects: '**Self-reflect**'
+effect_name: Self-reflect
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Self-reflect on caster.  Triggers about 1.8 times per minute.\n    - Heals caster for 143.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1493297428 1694716300:Tunic of Dark Winds\/a
 categories:
 - Ability Modifier (Equipment)

@@ -9,7 +9,8 @@ flags: lore no-trade
 stats:
   mit: '7'
   dtype: Cloth Armor
-effects: '**Arcane aura of the Guide**'
+effect_name: Arcane aura of the Guide
+effects: '- Applies Arcane aura of the Guide when Equipped.'
 item_link: \aITEM 2099810097 246197058:Guide Robe\/a
 categories:
 - Arcane aura of the Guide (Equipment)

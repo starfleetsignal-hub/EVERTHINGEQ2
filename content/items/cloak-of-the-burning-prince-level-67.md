@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Fury of Ro**'
+effect_name: Fury of Ro
+effects: "- When Equipped:\n  - Increases spell damage by 65."
 obtained_from: '[[The Avatar of Flame]]'
 item_link: \aITEM 1842224194 771775398:Cloak of the Burning Prince\/a
 categories:

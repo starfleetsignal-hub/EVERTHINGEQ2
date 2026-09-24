@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Cerebral Destruction**'
+effect_name: Cerebral Destruction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cerebral Destruction II on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 102,626 mental damage on target.\n    - Decreases INT, AGI, WIS and STR of target by 261.2.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -939908845 1332784630:Fabled Blood Splattered Bindings\/a
 categories:
 - Arcane Resistance (Equipment)

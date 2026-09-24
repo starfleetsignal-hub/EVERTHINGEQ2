@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Spirit of Cristanos'' Chosen**'
+effect_name: Featherfall, Spirit of Cristanos' Chosen
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Spirit of Cristanos' Chosen when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into an arasai\n  - The casting time of Spirit of Cristanos' Chosen is 1.0 second and the reuse time of the spell is 5.0 seconds"
 obtained_from: From [[Arasai Heritage Armor Crate]]
 item_link: \aITEM 2121670887 426224112:Cristanos' Chosen Cloak\/a
 categories:

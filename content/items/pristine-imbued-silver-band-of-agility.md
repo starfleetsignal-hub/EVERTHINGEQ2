@@ -11,7 +11,7 @@ stats:
   sta: '+6'
   health: '+5'
   power: '+5'
-effects: Aura of Agility
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast Flare of Agility on caster. Lasts for 45.0 seconds.\n    - Increases AGI of caster by 5.1\n    - Increases Attack Speed of caster by 13.2"
 obtained_from: Crafted by [[Scholar]] (level 18) from [[Advanced Scholar Volume 18]]
 item_link: \aITEM -1236030280 1318869469:Pristine Imubed Silver Band of Agility\/a
 categories:

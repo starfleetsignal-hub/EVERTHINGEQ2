@@ -18,7 +18,7 @@ stats:
   vselemental: '+350'
   vsarcane: '+315'
   dtype: Chain Armor
-effects: Lyrical Salvo
+effects: "- When Equipped:\n  - On any successful attack this spell has a chance to cast Lyrical Salvo on target of attack.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts # magic damage on target"
 item_link: -1521811485 -1300330348:Coif of the Harmonious
 categories:
 - Arcane Resistance (Equipment)

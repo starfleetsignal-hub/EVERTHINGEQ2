@@ -18,7 +18,8 @@ stats:
   multi: '12'
   flurry: '5.1'
   dtype: Leather Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 223070992 -688565789:Cuirass of Divine Equilibrium\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -13,7 +13,8 @@ stats:
   crit: '1'
   critbonus: '0.3'
   potency: '1.6'
-effects: '**Lesser Overflow**'
+effect_name: Lesser Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 14% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members (AE) for 114.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -215088381 1115629729:Dark Bargainers Necklace\/a
 categories:
 - AE Autoattack Chance (Equipment)

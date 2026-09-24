@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Flowing Power**'
+effect_name: Flowing Power
+effects: "- When Equipped:\n  - Whenever the wearer receives a Mana Flow, their next spell will cost no power and cast instantly."
 item_link: \aITEM 149160261 -564334711:Hoop of Flowing Power\/a
 categories:
 - Arcane Resistance (Equipment)

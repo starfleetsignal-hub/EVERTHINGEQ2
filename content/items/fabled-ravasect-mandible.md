@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Chaos**'
+effect_name: Chaos
+effects: "- Applies Chaos when Activated.  Lasts for 20.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 1.5 - 28.5.\n  - Cannot be modified except by direct means\n  - The reuse time of Chaos is 1 minute 30 seconds"
 item_link: \aITEM 103892040 -89246999:Fabled Ravasect Mandible\/a
 categories:
 - Assassin Equipment

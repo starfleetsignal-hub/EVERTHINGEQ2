@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Leather Armor
-effects: '**Act of Survival**'
+effect_name: Act of Survival
+effects: "- When Equipped:\n  - When any damage is received this spell has a 8% chance to cast Act of Survival on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 167 magic damage on target.\n    - Heals caster for 93.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1715557134 1258974169:Wind Riders Pants\/a
 categories:
 - AE Autoattack Chance (Equipment)

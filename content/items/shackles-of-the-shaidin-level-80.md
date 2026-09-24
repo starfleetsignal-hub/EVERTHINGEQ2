@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   dtype: Leather Armor
-effects: '**Befuddle**'
+effect_name: Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 800\n    - Cannot be modified except by direct means"
 item_link: \aITEM -810178891 1800818375:Shackles of the Shai'Din\/a
 categories:
 - Assassin Equipment

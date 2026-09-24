@@ -8,7 +8,7 @@ flags: lore no-trade
 stats:
   charges: 1/1
   casting: (varies)
-effects: Entwining roots
+effects: '- Applies Entwining Root when activated. A single-target root. (varies)'
 obtained_from: A [[Carnivorous Plant]].
 categories:
 - Assassin Equipment

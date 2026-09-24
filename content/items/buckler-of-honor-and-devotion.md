@@ -15,7 +15,8 @@ stats:
   potency: '12.6'
   multi: '44.2'
   dtype: Buckler
-effects: '**Honor and Devotion**'
+effect_name: Honor and Devotion
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Honor and Devotion on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 5,000 points of all damage\n    - Increases Max Health of group members (AE) by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1149937350 1373384616:Buckler of Honor and Devotion\/a
 categories:
 - Block Chance (Equipment)

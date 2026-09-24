@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Allied Insight**'
+effect_name: Allied Insight
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 item_link: \aITEM -1798349623 480042656:Scaled Necklace of Foresight\/a
 categories:
 - AE Autoattack Chance (Equipment)

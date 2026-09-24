@@ -19,7 +19,8 @@ stats:
   drating: '171.8'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Might of the Land**'
+effect_name: Might of the Land
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Might of the Land on caster.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster against 820 points of all damage\n    - Increases power of caster by 446.\n    - Increases STR, AGI, INT and WIS of caster by 28.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1251929570 876212148:Polished Granite Tomahawk\/a
 categories:
 - Assassin Equipment

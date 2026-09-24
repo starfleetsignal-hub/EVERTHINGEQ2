@@ -16,7 +16,8 @@ stats:
   abmod: +1,702
   aspeed: '19.1'
   vselemental: +36,558
-effects: '**Practiced Power**'
+effect_name: Practiced Power
+effects: "- When Equipped:\n  - Applies Practiced Power instantly and every 1.4 seconds.\n    - Increases Potency of group members (AE) by 42.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM -94482101 -1106113002:Bracelet of the Darkened Shard\/a
 categories:
 - Ability Modifier (Equipment)

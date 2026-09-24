@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vselemental: '+400'
-effects: '**Preparation**'
+effect_name: Preparation
+effects: "- Applies Preparation when Activated.  Lasts for 10.0 seconds.\n  - Increases the ring wearer's spell damage by 2000 for a short duration.\n  - The reuse time of Preparation is 1 minute 30 seconds"
 item_link: \aITEM 1742204660 -2090443436:Najena's Ring of Readiness\/a
 image: images/Najena's_Ring_of_Readiness.png
 categories:

@@ -17,7 +17,8 @@ stats:
   multi: '18.1'
   mitinc: '11.6'
   dtype: Plate Armor
-effects: '**Draconic Juggernaut**'
+effect_name: Draconic Juggernaut
+effects: "- When Equipped:\n  - Gives caster an extra 5.0% mitigation to their worn armor.\n  - Increases Hate Gain of caster by 5.0.\n  - Increases Strikethrough of caster by 5.0%."
 obtained_from: '*Crafted by [[Artisan]] (level 92) from [[Draconic Knowledge: Dragonscale Plate Pauldrons]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Drake Fang]] *Made from [[Prime Great Dragon Scales]]'
 item_link: \aITEM -925471700 -1463940732:Dragonscale Plate Pauldrons\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Practiced Tactics**'
+effect_name: Practiced Tactics
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Tactics III on the group.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the group's Crit Bonus and Potency by 0.5 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 30 Crit Bonus and Potency.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -330106416 1069253738:Bangle of the Blundered Bandit\/a
 categories:
 - AE Autoattack Chance (Equipment)

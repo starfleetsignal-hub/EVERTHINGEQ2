@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   abmod: '+27'
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM 959273668 -1352149509:Extraplanar Girdle\/a
 categories:
 - Ability Modifier (Equipment)

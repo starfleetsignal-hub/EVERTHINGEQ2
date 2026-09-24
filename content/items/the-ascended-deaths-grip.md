@@ -25,7 +25,8 @@ stats:
   drating: '450.94'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Fuse Reality**<br>**Planar Protection**'
+effect_name: Fuse Reality, Planar Protection
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Fuse Reality on target of spell.  Lasts for 24.0 seconds.\n    - Inflicts 4,865 disease damage on targets in Area of Effect.\n    - Decreases Combat Mitigation of target by 10.5.\n    - Cannot be modified except by direct means\n  - Increases Ability Doublecast of caster by 5.0.\n  - Protects the wearer against destructive planar energies.\n- Applies Planar Protection when Activated.\n  - Grants protection against destructive planar energies.\n  - The casting time of Planar Protection is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 obtained_from: '[[Chaos Effect]]'
 item_link: \aITEM 615292860 703634100:The Ascended Death's Grip\/a
 categories:

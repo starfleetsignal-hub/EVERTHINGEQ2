@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Overwhelming Assault**'
+effect_name: Overwhelming Assault
+effects: "- When Equipped:\n  - When inflicting more than 10% of the target's maximum health in damage, the target will lose 1,100 to all mitigation for 20 seconds"
 obtained_from: Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM -241757296 -1824436584:Wristlet of Attenuation\/a
 image: images/Wristlet_of_Attenuation.png

@@ -17,7 +17,8 @@ stats:
   aspeed: '2.9'
   dps: '6.5'
   dtype: Plate Armor
-effects: '**Mark of Thule**'
+effect_name: Mark of Thule
+effects: "- Applies Mark of Thule when Equipped.\n  - Increases Multi Attack of caster by 2.0."
 item_link: \aITEM -1595178562 -1861903684:Guard of Thule\/a
 image: images/Guard_of_Thule.jpg
 categories:

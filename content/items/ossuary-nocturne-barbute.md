@@ -17,7 +17,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1121934023 1227756845:Ossuary Nocturne Barbute\/a
 categories:
 - Ability Doublecast (Equipment)

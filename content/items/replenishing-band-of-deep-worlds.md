@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Deep Worlds**'
+effect_name: Deep Worlds
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Deep Worlds on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 290 instantly and every 6 seconds.\n    - Increases Max Power of caster by 10.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1679181635 -1690125758:Replenishing Band of Deep Worlds\/a
 categories:
 - Ability Modifier (Equipment)

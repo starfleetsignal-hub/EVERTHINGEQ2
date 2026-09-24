@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+5'
   agi: '+6'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 9.6.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1155922308 702018195:fright imbued canvas hex doll\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Fire Ball**'
+effect_name: Fire Ball
+effects: "- Applies Fire Ball when Activated.\n  - Inflicts 149 - 248 heat damage on target.\n  - The casting time of Fire Ball is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -2010310720 -77345397:Heat Imbued Oak Wand\/a
 categories:
 - Census Credits

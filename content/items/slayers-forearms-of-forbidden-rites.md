@@ -17,7 +17,8 @@ stats:
   dps: '5'
   multi: '2.8'
   dtype: Leather Armor
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 138 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1480853783 1024739890:Slayer's Forearms of Forbidden Rites\/a
 categories:
 - Assassin Equipment

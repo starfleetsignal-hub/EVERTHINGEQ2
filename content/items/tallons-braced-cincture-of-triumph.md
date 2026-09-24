@@ -18,7 +18,8 @@ stats:
   aspeed: '36.7'
   flurry: '18.9'
   mitinc: '7'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception IV when Equipped.\n  - Increases Fervor of caster by 6.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 375."
 item_link: \aITEM -510927170 1007977267:Tallon's Braced Cincture of Triumph\/a
 categories:
 - Ability Doublecast (Equipment)

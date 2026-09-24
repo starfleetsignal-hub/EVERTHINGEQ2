@@ -15,7 +15,8 @@ stats:
   critbonus: '2.9'
   multi: '2'
   dtype: Chain Armor
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 113\n    - Increases power of caster by 75\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2075790943 1341138896:Discord's Brutallic Chain Crown\/a
 categories:
 - Assassin Equipment

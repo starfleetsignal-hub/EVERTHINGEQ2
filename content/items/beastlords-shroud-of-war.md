@@ -17,7 +17,8 @@ stats:
   abmod: '+568'
   aspeed: '20.9'
   dps: '33.2'
-effects: '**Truespirit''s Guidance**'
+effect_name: Truespirit's Guidance
+effects: "- When Equipped:\n  - All ranks of Feral Rampage and Spirituality will have their durations increased by 2 seconds.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -732679010 -1996527823:Beastlord's Shroud of War\/a
 categories:

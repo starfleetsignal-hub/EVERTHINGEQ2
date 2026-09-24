@@ -17,7 +17,8 @@ stats:
   multi: '9.6'
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 3.0%.\n  - Increases Riposte Chance of caster by 27.0.\n  - Increases Riposte Damage of caster by 27.0."
 obtained_from: '*Crafted by [[Armorer]] (level 90) from [[Ancient Knowledge: Vanguard Bracers of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -915570026 1446100036:Vanguard Bracers of the Mountain\/a
 categories:

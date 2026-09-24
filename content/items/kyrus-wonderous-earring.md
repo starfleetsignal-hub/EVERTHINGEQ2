@@ -16,7 +16,8 @@ stats:
   abmod: +1,686
   aspeed: '19'
   vselemental: +35,154
-effects: '**Aura Share**'
+effect_name: Aura Share
+effects: "- When Equipped:\n  - Increases Potency by 15% per mage in the wearer's raid, up to 150%\n  - Increases Crit Bonus by 15% per scout in the wearer's raid, up to 150%\n  - Increases Heal Received by 3% per priest in the wearer's raid, up to 18%\n  - Increases maximum health by 50,000 per fighter in the wearer's raid, up to 300,000"
 item_link: \aITEM 1067174866 2077430575:Kyrus' Wonderous Earring\/a
 categories:
 - Ability Modifier (Equipment)

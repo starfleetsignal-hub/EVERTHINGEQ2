@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +16,380
-effects: '**Unphased**'
+effect_name: Unphased
+effects: "- When Equipped:\n  - On any combat or spell hit this spell will cast Unphased II on target.  Lasts for 18.0 seconds.\n    - Increases Mitigation of caster vs physical damage by 858, multiplied by increment stacks.\n    - Increments up to 5 times\n    - Cannot be modified except by direct means\n  - If under 25% Health"
 item_link: \aITEM -2057432987 -843875407:Secured Ascension\/a
 categories:
 - Ability Modifier (Equipment)

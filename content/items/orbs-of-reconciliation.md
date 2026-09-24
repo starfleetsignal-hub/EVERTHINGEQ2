@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dps: '12.4'
-effects: '**Teleport to Ally**'
+effect_name: Teleport to Ally
+effects: "- Applies Teleport to Ally on target Friend when Activated.\n  - Teleports caster to target\n  - This effect cannot be cast during combat\n  - The casting time of Teleport to Ally is 15.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Spurning the Spurned]]'
 item_link: \aITEM -1138639378 -1176765476:Orbs of Reconciliation\/a
 aliases:

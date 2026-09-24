@@ -17,7 +17,8 @@ stats:
   dps: '8.2'
   multi: '4.9'
   dtype: Chain Armor
-effects: '**Counterbalance**'
+effect_name: Counterbalance
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 25% chance to cast Counterbalance on target of combat art.\n    - Decreases Threat to target by 125\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1354900538 1946244581:Crown of Cynosure\/a
 categories:
 - Assassin Equipment

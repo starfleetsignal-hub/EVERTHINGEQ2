@@ -15,7 +15,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 66 - 123 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -909566185 -2034014950:Imbued Feyiron Knuckles\/a
 categories:
 - Brawler Equipment

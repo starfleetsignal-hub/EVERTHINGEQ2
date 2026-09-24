@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dtype: Leather Armor
-effects: '**Fearful Ruin**'
+effect_name: Fearful Ruin
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fearful Ruin on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 disease damage on target.\n    - Inflicts 1,080 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 893590225 -22410169:Deathly Tunic\/a
 categories:
 - Ability Modifier (Equipment)

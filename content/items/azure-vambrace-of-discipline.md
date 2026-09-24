@@ -16,7 +16,8 @@ stats:
   aspeed: '9.4'
   multi: '19.8'
   dtype: Chain Armor
-effects: '**Keen Edge**'
+effect_name: Keen Edge
+effects: "- When Equipped:\n  - Increases STA of caster by 50.0.\n  - Increases Crushing, Slashing, Piercing and Ranged of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Vambrace of Discipline]] *Made from [[Azure Reactant]]'
 item_link: \aITEM 1628830123 -1776441270:Azure Vambrace of Discipline\/a
 categories:

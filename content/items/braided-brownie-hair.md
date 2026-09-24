@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Drunken Mastery**'
+effect_name: Drunken Mastery
+effects: "- When Equipped:\n  - Increases Potency of caster by 20.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 item_link: \aITEM -1353010525 -2128353107:Braided Brownie Hair\/a
 image: images/Braided_Brownie_Hair.png
 categories:

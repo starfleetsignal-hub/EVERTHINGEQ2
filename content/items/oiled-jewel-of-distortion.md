@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   aspeed: '0.1'
-effects: '**Final Stab**'
+effect_name: Final Stab
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Final Stab V on target of spell.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Final Stab V on target of attack.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 50) from [[Ancient Knowledge: Oiled Jewel of Distortion]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -1316362833 -67455916:Oiled Jewel of Distortion\/a
 categories:

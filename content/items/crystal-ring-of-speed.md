@@ -13,7 +13,8 @@ stats:
   crit: '0.5'
   potency: '0.8'
   vsarcane: '+150'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 683777800 2060505152:Crystal Ring of Speed\/a
 image: images/Crystalringofspeed.jpg
 categories:

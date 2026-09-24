@@ -16,7 +16,8 @@ stats:
   potency: '6.8'
   dps: '17.3'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2117398389 299384755:Robes of Visionary Being\/a
 categories:
 - Census Credits

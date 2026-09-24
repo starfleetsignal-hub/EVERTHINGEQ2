@@ -16,7 +16,8 @@ stats:
   aspeed: '10.7'
   dps: '18.1'
   vselemental: +1,349
-effects: '**Power Stream**'
+effect_name: Power Stream
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Power Stream on the group.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of group members by 80 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1282116939 -726150483:Hoop of Elemental Will\/a
 categories:
 - Arcane Resistance (Equipment)
