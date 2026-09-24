@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   dtype: Cloth Armor
-effects: '**Haste**<br>**Stout Mind**'
+effect_name: Haste, Stout Mind
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 5.5.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2022754393 799047568:Ancient Storm Infused Gloves\/a
 categories:
 - Ability Modifier (Equipment)

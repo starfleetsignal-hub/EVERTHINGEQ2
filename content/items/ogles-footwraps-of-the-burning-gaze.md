@@ -18,7 +18,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   dtype: Leather Armor
-effects: '**Fated Balance Act**'
+effect_name: Fated Balance Act
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 350.0.\n  - Increases Potency of caster by 1,500.0.\n  - This effect can only take effect within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 993605350 1847295147:Ogles' Footwraps of the Burning Gaze\/a
 categories:
 - Brawler Equipment

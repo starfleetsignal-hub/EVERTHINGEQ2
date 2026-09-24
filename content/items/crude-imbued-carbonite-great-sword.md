@@ -15,7 +15,8 @@ stats:
   drating: '18.76'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 33 - 50 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1863996918 1985227609:crude imbued carbonite great sword\/a
 categories:
 - Berserker Equipment

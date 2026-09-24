@@ -15,7 +15,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   vselemental: '+440'
-effects: '**Will of Anashti**'
+effect_name: Will of Anashti
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Will of Anashti on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 15.0.\n    - Increases Block Chance of caster by 25.0%.\n    - Increases DPS of caster by 45.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2106788972 -1333938582:Tainted Ring of Anashti's Will\/a
 categories:
 - Arcane Resistance (Equipment)

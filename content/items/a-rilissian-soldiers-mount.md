@@ -9,7 +9,7 @@ flags: LORE NO-TRADE NO-VALUE
 stats:
   duration: Until Cancelled
   charges: Unlimited
-effects: Soldier's Mount
+effects: "- Applies Soldier's Mount when Activated.\n  - Summons a mount to ride that increases your speed by 130%\n  - Increases Out-of-Combat Power Regeneration of caster by 15.0\n  - Increases Out-of-Combat Health Regeneration of caster by 15.0\n  - Increases ability modifier of caster by 15.0"
 obtained_from: '[[Infiltration System]]'
 item_link: \aITEM -1776645634 1647792399:Rilissian Soldier's Rhino\/a
 categories:

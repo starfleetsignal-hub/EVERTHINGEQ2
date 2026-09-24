@@ -18,7 +18,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Baffle**'
+effect_name: Baffle
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Baffle on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 1,319 - 2,198\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1476620677 1116268652:Staff of Soothing\/a
 categories:
 - Ability Modifier (Equipment)

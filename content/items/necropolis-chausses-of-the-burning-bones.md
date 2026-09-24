@@ -18,7 +18,8 @@ stats:
   resolve: '555'
   dps: '290.8'
   dtype: Plate Armor
-effects: '**Nerafiun''s Blessing**'
+effect_name: Nerafiun's Blessing
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 713.0.\n  - Increases Crit Bonus Overcap of caster by 380.3.\n  - Must be in a Scars of Destruction raid zone.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 692839866 -1113243645:Necropolis Chausses of the Burning Bones\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   abmod: '+222'
   multi: '23.3'
   vselemental: +9,554
-effects: '**Fabled Reckoning**'
+effect_name: Fabled Reckoning
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.5.\n  - Increases Ability Mod of caster by 150.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '*Made from [[A fabled platinum key]] *[[Platinum Key of Fabled Rujark]]'
 item_link: \aITEM -1262083935 -309047055:Nazgoth's Gem of Allegiance\/a
 categories:

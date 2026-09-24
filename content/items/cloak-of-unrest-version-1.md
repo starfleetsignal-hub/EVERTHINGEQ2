@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Harnessed Power of the Estate**'
+effect_name: Harnessed Power of the Estate
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Harnessed Power of the Estate on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Decrease the caster's spell reuse time by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 335179912 262979273:Cloak of Unrest\/a
 image: images/Cloak_of_Unrest.jpg
 categories:

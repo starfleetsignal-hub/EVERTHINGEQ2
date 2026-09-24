@@ -18,7 +18,8 @@ stats:
   multi: '12'
   flurry: '5.1'
   dtype: Leather Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1021096692 -1732410759:Pugilist's Leather Legs of the Plague\/a
 categories:
 - Assassin Equipment

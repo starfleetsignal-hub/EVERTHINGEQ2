@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Gorowyn Destrier
+effects: "- Applies Call of Gorowyn Destrier when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 25%"
 obtained_from: Reward from the quest [[Frazykyr]] in [[Timorous Deep]]
 item_link: \aITEM 203258907 -1681263922:Gorowyn Destrier whistle\/a
 image: images/Gorowyn_Destrier_Whistle.jpg

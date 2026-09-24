@@ -16,7 +16,8 @@ stats:
   abmod: '+405'
   vselemental: '+644'
   mitinc: '11.6'
-effects: '**Unwavering Sentinel**'
+effect_name: Unwavering Sentinel
+effects: "- When Equipped:\n  - Increases Max Health of caster by 2.0%.\n  - Increases Crit Bonus of caster by 3.0.\n  - Increases DPS of caster by 40.0.\n  - Increases Ability Mod of caster by 525.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of the Mountain]] *Made from [[Colossal Frog Tongue]] *Made from [[Tavalan Armor Shard]] *Made from [[Tavalan Finger Webbing]]'
 item_link: \aITEM -1360856652 601332999:Tempered Azure Ring of the Mountain\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '45.31'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Consecration of Rahotep**'
+effect_name: Consecration of Rahotep
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Consecration of Rahotep on caster.  Triggers about 1.8 times per minute.\n    - Heals group members for 413.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[An Ancient Desert Power]]'
 item_link: \aITEM -1769120390 2113181407:Scepter of Rahotep\/a
 image: images/Scepter_of_Rahotep_(HQ_Reward).jpg

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Practiced Strike**'
+effect_name: Practiced Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Strike III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 125,000 slashing damage per time this effect triggers on the same target. Stops growing after 45 triggers. Restarts if this does not trigger on that target for over a minute.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1330809874 545322511:Striking Etched Bangle\/a
 categories:
 - AE Autoattack Chance (Equipment)

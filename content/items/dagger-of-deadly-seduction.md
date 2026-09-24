@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Sorcerous Alacrity**<br>**Siren Call**'
+effect_name: Sorcerous Alacrity, Siren Call
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent.\n- When Equipped:\n  - Reduces resistibility of all Subjugation and Ordination spells by 15%."
 item_link: \aITEM -1121559787 -912561276:Dagger of Deadly Seduction\/a
 categories:
 - Assassin Equipment

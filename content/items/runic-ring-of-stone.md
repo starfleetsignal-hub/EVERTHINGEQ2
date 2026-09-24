@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Bolstered Confidence**'
+effect_name: Bolstered Confidence
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Bolstered Confidence on caster.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Max Health of caster by 10.0%, multiplied by increment stacks.\n    - Increments up to three times. Dispels when taking damage over 10% of the wearer's maximum health.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1672514718 -836941524:Runic Ring of Stone\/a
 categories:
 - AE Autoattack Chance (Equipment)

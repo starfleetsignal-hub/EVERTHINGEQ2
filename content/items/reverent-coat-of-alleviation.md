@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dtype: Chain Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Ancient Knowledge: Reverent Coat of Alleviation]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -1881275075 775251116:Reverent Coat of Alleviation\/a
 categories:

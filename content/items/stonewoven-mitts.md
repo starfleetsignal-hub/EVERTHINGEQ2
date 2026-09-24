@@ -14,7 +14,8 @@ stats:
   crit: '0.3'
   potency: '0.5'
   dtype: Cloth Armor
-effects: '**Slip**'
+effect_name: Slip
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Slip on target's attacker.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1579195927 -405747760:Stonewoven Mitts\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   abmod: '+133'
   dps: '12.4'
   dtype: Symbols
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 2 percent."
 item_link: \aITEM 1702754446 -986600896:Globe of Shadow\/a
 categories:
 - Ability Modifier (Equipment)

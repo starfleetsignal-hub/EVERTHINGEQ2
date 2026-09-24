@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- Applies Prayer to Tunare IV when Activated.\n  - Heals the caster for 175,450 health\n  - Suspends the passive effect for 60 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare IV is 1 minute\n- When Equipped:\n  - Heals caster for 12,000 health every 3 seconds\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1955077427 -2046141630:Cleric's Sermon\/a
 categories:
 - AE Autoattack Chance (Equipment)

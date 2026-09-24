@@ -18,7 +18,8 @@ stats:
   aspeed: '42'
   dps: '32'
   vselemental: +47,952
-effects: '**Fellowship of Stone**'
+effect_name: Fellowship of Stone
+effects: "- When Equipped:\n  - Obsidian Mind will reduce all damage types and reflect a portion of all damage reduced back onto the attacker."
 obtained_from: Sold by [[Sarya Val'Sara]] in [[Obulus Frontier]]
 item_link: \aITEM 553149371 -1754915883:Cae'Dal Fellowship Bracelet\/a
 categories:

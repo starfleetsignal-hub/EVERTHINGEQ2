@@ -17,7 +17,7 @@ stats:
   vselemental: +1,092
   vsarcane: +1,134
   dtype: Cloth Armor
-effects: 'Focus: [[Distortion]]'
+effects: "- When Equipped:\n  - Increases the damage of [[Distortion]] by 350."
 item_link: -809578297 -526163460:Robe of Sepulchral Judgement
 image: images/Robe_of_Sepulchral_Judgement.jpg
 categories:

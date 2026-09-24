@@ -17,7 +17,8 @@ stats:
   aspeed: '17.3'
   vselemental: +1,824
   mitinc: '11.6'
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1896645433 1267399025 0 0 0:Substantial Ring of the Master\/a
 categories:
 - Ability Modifier (Equipment)

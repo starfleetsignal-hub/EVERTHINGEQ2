@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Leather Armor
-effects: '**Infuriate**'
+effect_name: Infuriate
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Infuriate on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 3,665 - 5,665\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1465543606 93603029:Brutish Legwraps\/a
 categories:
 - Berserker Equipment

@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Mindtap**'
+effect_name: Mindtap
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Mindtap on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 50.\n    - Increases power of caster by 50.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Dark Beacon (Quest)|The Dark Beacon]]'
 item_link: \aITEM -861614084 261715911:Cloak of Hatred\/a
 image: images/Cloak_of_Hatred.jpg

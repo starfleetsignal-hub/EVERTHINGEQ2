@@ -17,7 +17,8 @@ stats:
   drating: '33.79'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Ykesha''s Wrath**'
+effect_name: Ykesha's Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ykesha's Wrath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 198 - 242 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Rescue of the Green Hoods]]'
 item_link: \aITEM -1758817820 -1453232528:Short Sceptre of the Ykesha\/a
 aliases:

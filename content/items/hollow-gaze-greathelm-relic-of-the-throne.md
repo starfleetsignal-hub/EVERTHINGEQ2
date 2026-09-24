@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 29,322.9.\n  - Increases Crit Bonus Overcap of caster by 1,555.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -153688805 -1294121245:Hollow Gaze Greathelm, Relic of the Throne\/a
 categories:
 - Assassin Equipment

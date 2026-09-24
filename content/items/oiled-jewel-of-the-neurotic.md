@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+11'
   sta: '+11'
-effects: '**Final Stab**'
+effect_name: Final Stab
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Final Stab III on target of spell.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Final Stab III on target of attack.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 30) from [[Ancient Knowledge: Oiled Jewel of the Neurotic]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 1539521109 -124883142:Oiled Jewel of the Neurotic\/a
 categories:

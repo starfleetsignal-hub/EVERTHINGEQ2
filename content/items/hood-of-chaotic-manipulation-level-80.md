@@ -17,7 +17,8 @@ stats:
   abmod: '+133'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Chaos Burst**'
+effect_name: Chaos Burst
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Chaos Burst on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 410 disease damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 24063942 343632270:Hood of Chaotic Manipulation\/a
 categories:
 - Ability Modifier (Equipment)

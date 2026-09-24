@@ -17,7 +17,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '*Crafted by [[Armorer]] (level 93) from [[Armorer Essentials Volume 93 (with desc)]] *Crafted by [[Armorer]] (level 93) from [[Armorer Essentials Volume 93 (without desc)]]'
 item_link: \aITEM -856659242 -236614876:Rhenium Melodic Gauntlets\/a
 categories:

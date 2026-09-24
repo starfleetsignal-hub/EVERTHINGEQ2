@@ -21,7 +21,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Assassin''s Thirst**'
+effect_name: Assassin's Thirst
+effects: "- When Equipped:\n  - Increases Ability Mod of caster by 30.0.\n  - On a kill this spell will cast Assassin's Thirst on caster.  Lasts for 20.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases DPS of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -695006715 1172922868:Darkbone Sabre of the Eidolon\/a
 categories:
 - Ability Modifier (Equipment)

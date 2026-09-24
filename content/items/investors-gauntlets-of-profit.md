@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1753968347 1312722112:Investor's Gauntlets of Profit\/a
 categories:
 - Berserker Equipment

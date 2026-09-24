@@ -15,7 +15,8 @@ stats:
   potency: '3.5'
   dps: '9.2'
   vselemental: '+300'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 151.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 126019290 -1573326845:Soulsapper's Wristguards\/a
 categories:
 - Arcane Resistance (Equipment)

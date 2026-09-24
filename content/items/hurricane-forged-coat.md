@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Chain Armor
-effects: '**Confounding**'
+effect_name: Confounding
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7% chance to cast Confounding on target's attacker.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1794100232 -1909003570:Hurricane Forged Coat\/a
 categories:
 - AE Autoattack Chance (Equipment)

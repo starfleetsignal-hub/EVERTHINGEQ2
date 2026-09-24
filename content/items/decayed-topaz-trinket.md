@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vselemental: '+395'
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 2 percent."
 item_link: \aITEM 1239015033 -976211675:Decayed Topaz Trinket\/a
 image: images/Decayed_Topaz_Trinket.png
 categories:

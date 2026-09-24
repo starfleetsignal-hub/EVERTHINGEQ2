@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Mark of Hopelessness**'
+effect_name: Mark of Hopelessness
+effects: "- When Equipped:\n  - Decreases Max Health of caster by 150.0.\n  - Increases Max Power of caster by 300.0."
 item_link: \aITEM -1110043269 1680629439:Dugath, the Axe of Hopelessness\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM -1513142876 -33382860 0 0 0:Void Elementalist's Riftcloth Pants\/a
 categories:
 - Casting Speed (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '11'
   aspeed: '17.9'
   dps: '28.8'
-effects: '**Dragon''s Cynosure**'
+effect_name: Dragon's Cynosure
+effects: "- When Equipped:\n  - This effect will not stack with itself or similar effects.\n  - On a spell cast this spell may cast Dragon's Cynosure on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 250 instantly and every 5 seconds.\n    - Increases Max Power of caster by 15.0%.\n    - Increases Crit Bonus of caster by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 557614345 644851592:Super-Heated Primal Filament\/a
 categories:
 - Attack Speed (Equipment)

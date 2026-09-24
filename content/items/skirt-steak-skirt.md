@@ -17,7 +17,8 @@ stats:
   potency: 2,434.1
   resolve: '29'
   dps: '49.8'
-effects: '**Hate''s Heroism**'
+effect_name: Hate's Heroism
+effects: "- When Equipped:\n  - Increases STA of caster by 600.0.\n  - Increases Potency of caster by 25.0.\n  - This effect improves based on the number of unique boss encounters defeated in Shard of Hate [Heroic].\n  - Cannot be modified except by direct means"
 item_link: \aITEM 307756749 361995068:Skirt Steak Skirt\/a
 categories:
 - Assassin Equipment

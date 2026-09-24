@@ -22,7 +22,7 @@ stats:
   drating: '138.0'
   range: 2 - 35 meters
   wtype: Bow
-effects: Embrace of Shadows
+effects: "- When Equipped:\n  - On a successful ranged attack this spell has a chance to cast Embrace of Shadows on target of attack. Lasts for 15.0 seconds. This effect will trigger an average of 2.4 times per minute.\n    - Inflicts 1733 disease damage on target\n    - Heals caster for 1386\n    - Caster will Multi Attack on 25% of attacks\n    - This spell can not be modified except by direct means."
 item_link: \aITEM -1827682974 -1852341130:[Void Reaver, Bow of Shadow]\/a
 categories:
 - Ability Modifier (Equipment)

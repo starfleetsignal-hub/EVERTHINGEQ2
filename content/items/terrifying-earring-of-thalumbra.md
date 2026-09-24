@@ -17,7 +17,8 @@ stats:
   aspeed: '38.3'
   dps: '14.6'
   vselemental: +36,897
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 41%-197%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -900026333 -1640657026:Terrifying Earring of Thalumbra\/a
 categories:
 - Ability Modifier (Equipment)

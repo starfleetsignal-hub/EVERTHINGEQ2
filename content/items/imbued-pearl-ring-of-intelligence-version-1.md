@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   aspeed: '1.5'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 21.6.\n    - Increases Disruption, Subjugation and Focus of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1178454958 795174827:imbued pearl ring of intelligence\/a
 categories:
 - Assassin Equipment

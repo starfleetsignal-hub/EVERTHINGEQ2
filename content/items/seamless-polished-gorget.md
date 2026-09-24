@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   strike: '12.2'
   abmod: '+217'
-effects: '**Followthrough**<br>**King''s Legacy**'
+effect_name: Followthrough, King's Legacy
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 piercing damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a combat hit this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.5.\n    - Increases Potency of group members (AE) by 10.0.\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.5.\n    - Increases Potency of group members (AE) by 10.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -728011242 1649706322:Seamless Polished Gorget\/a
 categories:
 - Ability Modifier (Equipment)

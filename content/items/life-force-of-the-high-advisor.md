@@ -16,7 +16,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Symbols
-effects: '**Leverage**'
+effect_name: Leverage
+effects: "- When Equipped:\n  - Reduces resistibility of all Subjugation and Ordination spells by 5%."
 item_link: \aITEM 433697891 -1517430437:Life Force of the High Advisor\/a
 categories:
 - Ability Modifier (Equipment)

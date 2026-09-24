@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Storm Arrow**'
+effect_name: Storm Arrow
+effects: "- Applies Storm Arrow when Equipped.\n  - On a ranged hit this spell may cast Storm Arrow on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 77 - 143 magic damage on target.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 15.0 seconds and duration is reduced to 1.7 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Casualties of the War of the Fay]]'
 item_link: \aITEM 923877193 -877581728:Rain Caller\/a
 categories:

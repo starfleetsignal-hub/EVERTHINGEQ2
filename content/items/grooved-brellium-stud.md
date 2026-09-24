@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   vselemental: +1,395
   mitinc: '7.6'
-effects: '**Terrestrial Rage**'
+effect_name: Terrestrial Rage
+effects: "- When Equipped:\n  - On a hit this spell may cast Terrestrial Rage on caster.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 5.0.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases DPS of caster by 40.0.\n    - Increases Haste of caster by 40.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1368903282 1238328576:Grooved Brellium Stud\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '5'
   aspeed: '7'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '*Made from [[Elemental Vanquisher''s Legging Mold]] *Made from [[Elemental Vanquisher''s Legging Pattern]]'
 item_link: \aITEM 1606550762 223599598 0 0 0:Fireborn Pants of Mindmelting\/a
 categories:

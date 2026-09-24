@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: A short feathered cloak used by the Nightwatchers on warmer days.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (325 Daybreak Cash)
 item_link: \aITEM 926038468 -116306681:Nightwatcher's Cloak\/a
 categories:

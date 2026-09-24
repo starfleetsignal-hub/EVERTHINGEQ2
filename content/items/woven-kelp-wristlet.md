@@ -16,7 +16,8 @@ stats:
   abmod: '+405'
   dps: '27.9'
   vselemental: +1,881
-effects: '**Dragonheart**'
+effect_name: Dragonheart
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 10.0.\n  - Increases Max Health of caster by 1,644.4.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 955124832 1504373929:Woven Kelp Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

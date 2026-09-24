@@ -23,7 +23,8 @@ stats:
   drating: '2495.23'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Spirit Siphoning**'
+effect_name: Spirit Siphoning
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 9% chance to cast Spirit Siphoning on target of spell.\n    - Inflicts 576 - 865 magic damage on target.\n    - Decreases power of target by 288 - 431.\n    - Increases power of caster by 266 - 326.\n    - Heals caster for 534 - 653.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities.\n    - This effect can only trigger once every 28.0 - 36.0 seconds."
 item_link: \aITEM 1935862856 -124026326:Nexona's Blade of Bounding\/a
 categories:
 - Ability Modifier (Equipment)

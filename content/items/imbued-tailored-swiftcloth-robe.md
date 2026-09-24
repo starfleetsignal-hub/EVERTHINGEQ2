@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 84 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 77) from [[Advanced Tailor Volume 77 (Heirloom)]] *Crafted by [[Tailor]] (level 77) from [[Advanced Tailor Volume 77 (Normal)]]'
 item_link: \aITEM 713310201 -1099320683:Imbued Tailored Swiftcloth Robe\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Piercing
   wtype: Axe
-effects: '**Ayonic Hymn**<br>**Maestro''s Concerto**<br>**Ayonic Inspiration**'
+effect_name: Ayonic Hymn, Maestro's Concerto, Ayonic Inspiration
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ayonic Hymn on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 583 - 875 mental damage on target.\n    - Increases Crit Chance of caster by 15.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Applies the effects of Perfection of the Maestro II to all raid members.\n- When Equipped:\n  - Aria of Magic V will improve hostile spell damage by 10%."
 obtained_from: '[[Son''Nia''s Song]]'
 item_link: \aITEM -140930154 426931929:Ayonic Axe\/a
 categories:

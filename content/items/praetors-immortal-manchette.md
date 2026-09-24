@@ -17,7 +17,8 @@ stats:
   dps: '19.6'
   multi: '25.7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1361305090 -1683188293:Praetor's Immortal Manchette\/a
 categories:
 - Accuracy (Equipment)

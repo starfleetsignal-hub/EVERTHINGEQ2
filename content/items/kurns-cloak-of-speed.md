@@ -7,7 +7,8 @@ level: '1'
 slot: Cloak
 flags: lore no-trade no-value
 description: A cloak stitched to enhance the wearer's ability to traverse Norrath.
-effects: '**Journeyman''s Cloak**'
+effect_name: Journeyman's Cloak
+effects: "- Applies Journeyman's Cloak when Equipped.\n  - Increases speed of caster by 25.0%.\n  - This effect suspends during combat"
 obtained_from: Legends of Norrath loot card
 item_link: \aITEM -1830460206 1430774742:Kurn's Cloak of Speed\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   dtype: Leather Armor
-effects: '**Clawing Tiger**'
+effect_name: Clawing Tiger
+effects: "- When Equipped:\n  - When a combat art is used this spell will cast Clawing Tiger on target of combat art.\n    - Inflicts 11 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -159369867 -154243587:Leggings of the Master\/a
 categories:
 - Assassin Equipment

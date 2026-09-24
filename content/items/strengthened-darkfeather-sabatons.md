@@ -17,7 +17,8 @@ stats:
   aspeed: '10.7'
   multi: '11.5'
   dtype: Plate Armor
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,218 - 1,827 poison damage on target\n    - Heals caster for 811 - 1,217\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Sold by [[Sehesh]] in [[Paineel]] for [[Boots of Layered Depths]] and 30 [[Seal of Arad|Seals of Arad]]
 item_link: \aITEM 557071436 2146289296:Strengthened Darkfeather Sabatons\/a
 categories:

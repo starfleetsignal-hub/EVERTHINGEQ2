@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   abmod: '+54'
-effects: '**Bristlebane''s Trick**'
+effect_name: Bristlebane's Trick
+effects: "- Applies Bristlebane's Trick when Activated.\n  - Grab a trick from Bristlebane.  You won't know what you'll find until you try.\n  - The casting time of Bristlebane's Trick is 2.0 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[Bristlebane''s Beloved]]'
 item_link: \aITEM -672663747 934900743:Cloak of Mischief\/a
 categories:

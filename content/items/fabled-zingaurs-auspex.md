@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Defensive Oath**'
+effect_name: Defensive Oath
+effects: "- Applies Defensive Oath when Activated.  Lasts for 30.0 seconds.\n  - Increases Block Chance of caster by 15.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Defensive Oath is 1 minute 30 seconds"
 item_link: \aITEM -1455537927 -871014805:Fabled Zin'gaur's Auspex\/a
 categories:
 - Assassin Equipment

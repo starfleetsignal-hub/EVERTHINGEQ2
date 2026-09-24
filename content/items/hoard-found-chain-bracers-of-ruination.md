@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   multi: '35.7'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -374100351 35674640:Hoard Found Chain Bracers of Ruination\/a
 categories:
 - Assassin Equipment

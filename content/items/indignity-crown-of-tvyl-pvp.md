@@ -17,7 +17,8 @@ stats:
   potency: '50.2'
   abmod: +7,333
   dtype: Cloth Armor
-effects: '**Pure Malice**'
+effect_name: Pure Malice
+effects: "- Applies Pure Malice when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 1527287202 -1764404782:Indignity, Crown of T'Vyl\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '16.25'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 60 - 112 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2033496285 -892207663:Imbued Steel Battle Hammer\/a
 aliases:
 - Imbued Steel Battle Hammer (Gleaming Strike) (Level 22)

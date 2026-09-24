@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Buckler
-effects: '**Lesser Swift Recovery**'
+effect_name: Lesser Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 0.8 times per minute.\n    - Increases power of caster by 82.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1423113585 -509358210:Serpentine Buckler of the Abbey\/a
 categories:
 - Ability Modifier (Equipment)

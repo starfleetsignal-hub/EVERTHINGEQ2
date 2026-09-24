@@ -19,7 +19,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Unable to Scream**'
+effect_name: Unable to Scream
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Unable to Scream on target of spell.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Stifles target\n    - Only affects targets level 80 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM -720090211 -1374966267:Rune-Carved Bone Staff\/a
 image: images/Rune-Carved_Bone_Staff.jpg
 categories:

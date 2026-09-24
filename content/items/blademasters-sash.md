@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dps: '6'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -48362185 -1658485264:Blademaster's Sash\/a
 categories:
 - Assassin Equipment

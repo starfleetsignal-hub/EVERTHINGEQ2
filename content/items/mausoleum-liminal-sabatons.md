@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -775412979 -1147406492:Mausoleum Liminal Sabatons\/a
 categories:
 - AE Autoattack Chance (Equipment)

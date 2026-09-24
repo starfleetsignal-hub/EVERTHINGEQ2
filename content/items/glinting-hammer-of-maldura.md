@@ -23,7 +23,7 @@ stats:
   drating: '177.1'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: Blackanvil Strike
+effects: "When Equipped:\n\n- On any combat or spell hit this spell may cast Blackanvil Strike on target of attack. Triggers about 4.0 times per minute.\n  - Inflicts 9650 divine damage on target\n  - Cannot be modified except by direct means"
 obtained_from: '[[It''s Pillar Time]]<br>[[Valley of the Thralls]]'
 item_link: \aITEM 1066405512 1965809644 0 0 0:[Glinting Hammer of Maldura]\/a
 image: images/Glinting_Hammer_of_Maldura.png

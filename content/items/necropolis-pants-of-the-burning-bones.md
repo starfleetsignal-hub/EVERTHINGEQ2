@@ -18,7 +18,8 @@ stats:
   resolve: '555'
   dps: '290.8'
   dtype: Cloth Armor
-effects: '**Nerafiun''s Blessing**'
+effect_name: Nerafiun's Blessing
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 713.0.\n  - Increases Crit Bonus Overcap of caster by 380.3.\n  - Must be in a Scars of Destruction raid zone.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1619869647 1407495337:Necropolis Pants of the Burning Bones\/a
 categories:
 - Census Credits

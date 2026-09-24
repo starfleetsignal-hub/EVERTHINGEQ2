@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 level: '1'
 slot: Cloak
 flags: ornate heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Galvanic Attire Bundle]] *Marketplace (150 Daybreak Cash)'
 item_link: \aITEM -200824115 -71442106:Galvanic Tinkered Cloak\/a
 categories:

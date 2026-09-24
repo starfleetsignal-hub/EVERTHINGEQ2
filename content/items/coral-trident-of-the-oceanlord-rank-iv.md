@@ -24,7 +24,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Oceanlord**'
+effect_name: Blessing of the Oceanlord
+effects: "- When Equipped:\n  - \"Blessing of the Oceanlord\" protects the wearer from strong deific magics used by Prexus!"
 item_link: \aITEM -924803022 1767540162:Coral Trident of the Oceanlord [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

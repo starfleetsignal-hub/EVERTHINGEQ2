@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Concussive Shock**'
+effect_name: Concussive Shock
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Concussive Shock on target of spell.  Lasts for 3.6 seconds.  This effect normalizes based off of a three second triggering event.\n    - Stuns target encounter\n    - Must not be engaged in pvp combat\n    - Epic targets gain an immunity to Stun effects of 10.8 seconds and duration is reduced to 1.2 seconds.\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -581964182 1259289041 0 0 0:Enthralling Silk Robe\/a
 categories:

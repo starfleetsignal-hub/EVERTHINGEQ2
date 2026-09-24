@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   dtype: Round Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 90 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 40) from [[Advanced Woodworker Volume 40 (Normal)]] *Crafted by [[Woodworker]] (level 40) from [[Advanced Woodworker Volume 40 (no-trade)]]'
 item_link: \aITEM 2104465556 -133250032:Imbued Cedar Round Shield\/a
 categories:

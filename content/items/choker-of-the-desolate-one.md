@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dps: '13.4'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 obtained_from: '* *Sold by [[Umbral]] (Exchange Merchant) in [[Moors of Ykesha]]'
 item_link: \aITEM -682083569 -62643271:Choker of the Desolate One\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Vital Exposure**'
+effect_name: Vital Exposure
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Vital Exposure on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 11 - 13 disease damage on target instantly and every 2 seconds.\n    - Inflicts an additional 1 - 1 disease damage on target every tick.\n    - Decreases the target's physical mitigation over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Vital Exposure on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 11 - 13 disease damage on target instantly and every 2 seconds.\n    - Inflicts an additional 1 - 1 disease damage on target every tick.\n    - Decreases the target's physical mitigation over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Toxic Bow of Execution]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 2135088460 -874769329:Toxic Bow of Execution\/a
 categories:

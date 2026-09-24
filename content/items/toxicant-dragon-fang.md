@@ -15,7 +15,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   mitinc: '6'
-effects: '**Dragon Grit**'
+effect_name: Dragon Grit
+effects: "- Applies Dragon Grit II when Activated.  Lasts for 20.0 seconds.\n  - Reduces all damage done to caster by 9%. This spell will absorb a total of 20 attacks.\n  - Cannot be modified except by direct means\n  - The reuse time of Dragon Grit II is 2 minutes"
 item_link: \aITEM -972570133 644439005:Toxicant Dragon Fang\/a
 aliases:
 - Toxicant Dragon Fang (0 Gem)

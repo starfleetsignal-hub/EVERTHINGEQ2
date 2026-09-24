@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +26,832
-effects: '**Flames of Death**'
+effect_name: Flames of Death
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Flames of Death III on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 686,400 heat damage on target.\n    - Increases Crit Bonus of caster by 21.0.\n    - Increases Haste of caster by 40.0.\n    - Increases Mitigation of caster vs elemental damage by 2,885.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1694142253 -224242015:Ring of Death and Flames\/a
 categories:
 - Arcane Resistance (Equipment)

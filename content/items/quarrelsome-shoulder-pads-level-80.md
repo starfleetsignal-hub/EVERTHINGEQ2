@@ -16,7 +16,8 @@ stats:
   abmod: '+50'
   dps: '3'
   dtype: Leather Armor
-effects: '**Serpentine Technique**'
+effect_name: Serpentine Technique
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 8.0%."
 item_link: \aITEM -1259668768 -1393536734:Quarrelsome Shoulder Pads\/a
 categories:
 - Ability Modifier (Equipment)

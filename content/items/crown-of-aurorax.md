@@ -18,7 +18,8 @@ stats:
   resolve: '65'
   aspeed: '71.5'
   flurry: '39.4'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 34.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 887705851 980648011:Crown of Aurorax\/a
 categories:
 - Assassin Equipment

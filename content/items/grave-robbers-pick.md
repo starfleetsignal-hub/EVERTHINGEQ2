@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Riddle**'
+effect_name: Riddle
+effects: "- Applies Riddle when Activated.  Lasts for 1 minute.\n  - Increases Accuracy of caster by 30.0%.\n  - Converts damage spells to slashing damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Riddle is 1 minute"
 item_link: \aITEM 1995867906 1660525321:Grave Robber's Pick\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   aspeed: '7'
   dps: '12.6'
   vselemental: '+400'
-effects: '**Deadly Repulsion**'
+effect_name: Deadly Repulsion
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 4% chance to cast Deadly Repulsion on caster.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 2,000 points of physical damage\n    - Replenishes 1000 points of absorption every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -242320298 1305586653:Ring of Repulsion\/a
 categories:
 - Arcane Resistance (Equipment)

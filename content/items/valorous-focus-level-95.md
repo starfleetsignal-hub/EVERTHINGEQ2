@@ -14,7 +14,8 @@ stats:
   critbonus: '17.1'
   potency: '17.7'
   multi: '28.2'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- Applies Prayer to Tunare III when Activated.\n  - Heals the caster for 159,500 health\n  - Suspends the passive effect for 60 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare III is 1 minute\n- When Equipped:\n  - Heals caster for 10,690 health every 3 seconds\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Channeler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Defiler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Fury, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Inquisitor, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Mystic, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Templar, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warden, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -1781871022 -431644693:Valorous Focus\/a
 image: images/Valorous_Focus.png

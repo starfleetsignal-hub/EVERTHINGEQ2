@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   aspeed: '5.5'
   vselemental: '+356'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM -1734663789 1557159004 0 0 0:Usla's Bangle\/a
 categories:
 - Arcane Recovery (Equipment)

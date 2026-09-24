@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   dps: '12'
   vselemental: '+395'
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 89.\n    - Increases power of caster by 118.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1728769813 1106682726:Ring of the Extractors\/a
 categories:
 - Arcane Resistance (Equipment)

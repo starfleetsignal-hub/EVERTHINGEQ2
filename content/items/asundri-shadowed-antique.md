@@ -17,7 +17,8 @@ stats:
   potency: 7,338.4
   resolve: '200'
   dps: '71.1'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.8.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -711059939 -1765465976:Asundri Shadowed Antique\/a
 categories:
 - Assassin Equipment

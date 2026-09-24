@@ -16,7 +16,8 @@ stats:
   aspeed: '33.4'
   dps: '11.5'
   vselemental: +20,072
-effects: '**Allied Energy**'
+effect_name: Allied Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 item_link: \aITEM 332131414 -1537204597:Micro Sprocket\/a
 categories:
 - Ability Modifier (Equipment)

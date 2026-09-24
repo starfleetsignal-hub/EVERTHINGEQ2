@@ -18,7 +18,8 @@ stats:
   resolve: '45'
   abmod: +30,018
   aspeed: '66.5'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 815214421 -1680331013:Siltsea's Wind Catcher\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   drating: '33.79'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 item_link: \aITEM 1424006206 -857570832:Serrated Bone Dirk\/a
 aliases:
 - Serrated Bone Dirk (Level 42)

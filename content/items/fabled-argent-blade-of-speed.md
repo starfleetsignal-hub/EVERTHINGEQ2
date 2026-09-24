@@ -20,7 +20,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Immaculate Haste**'
+effect_name: Immaculate Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1872664759 376132789 0 0 0:Fabled Argent Blade of Speed\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   abmod: '+16'
   dtype: Cloth Armor
-effects: '**Languor**'
+effect_name: Languor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Languor on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases DPS of target encounter by 5.0 - 8.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -942338972 -594530335:Elaborate Velvet Mitts\/a
 categories:
 - Ability Modifier (Equipment)

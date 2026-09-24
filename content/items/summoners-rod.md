@@ -17,7 +17,8 @@ stats:
   aspeed: '35.2'
   dps: '27'
   multi: '19.4'
-effects: '**Spectral Annihilation**'
+effect_name: Spectral Annihilation
+effects: "- Applies Spectral Annihilation when Activated.\n  - Inflicts 2,634,400 mental damage on target.\n  - This effect can be cast while casting other abilities\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Spectral Annihilation is 15.0 seconds"
 item_link: \aITEM -352924627 1804751742:Summoner's Rod\/a
 image: images/Summoner's_Rod.jpg
 categories:

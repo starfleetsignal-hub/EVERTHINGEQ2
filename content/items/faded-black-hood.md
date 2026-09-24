@@ -16,7 +16,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dtype: Leather Armor
-effects: '**Escape Death**'
+effect_name: Escape Death
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Escape Death on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 2,000 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1524258337 779069803:Faded Black Hood\/a
 categories:
 - Casting Speed (Equipment)

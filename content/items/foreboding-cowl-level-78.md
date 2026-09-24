@@ -17,7 +17,8 @@ stats:
   aspeed: '5.4'
   dps: '10.1'
   dtype: Cloth Armor
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 239.\n    - Increases power of caster by 146.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -40612743 2007711601:Foreboding Cowl\/a
 categories:
 - Assassin Equipment

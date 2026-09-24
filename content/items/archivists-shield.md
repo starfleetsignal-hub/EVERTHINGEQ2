@@ -20,7 +20,8 @@ stats:
   cbovercap: '+22.8'
   mitinc: '25.7'
   dtype: Tower Shield
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,726 heat damage on target.\n    - Inflicts 3,726 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Tishan's Lockbox (Myrist)]] in [[Myrist, the Great Library]] for 0c.
 item_link: \aITEM 211932906 1451342551 0 0 0:Archivist's Shield\/a
 image: images/Archivist's_Shield.png

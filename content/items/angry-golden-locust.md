@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Tormenting Assault**'
+effect_name: Tormenting Assault
+effects: "- Applies Tormenting Assault III when Activated.  Lasts for 18.0 seconds.\n  - Automatically increases the caster's threat by 160% of all damage inflicted\n  - Increases Weapon Damage of caster by 115.0.\n  - On any combat or spell hit this spell will cast Tormenting Assault II on target of attack.\n    - Increases threat priority of target by 1 position\n      - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 18.0 - 27.0 seconds.\n  - Cannot be modified except by direct means\n  - The reuse time of Tormenting Assault III is 2 minutes"
 item_link: \aITEM -990957350 -1191623599:Angry Golden Locust\/a
 categories:
 - Assassin Equipment

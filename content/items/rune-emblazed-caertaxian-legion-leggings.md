@@ -18,7 +18,8 @@ stats:
   aspeed: '7.9'
   dps: '13.9'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: Sold by [[Vlad the Bargainer]] (Faction Merchant) in [[The Hole]]
 item_link: \aITEM 468328642 -2028302496:Rune Emblazed Caertaxian Legion Leggings\/a
 categories:

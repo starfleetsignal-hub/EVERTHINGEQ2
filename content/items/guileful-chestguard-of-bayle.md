@@ -16,7 +16,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 2.0%."
 item_link: \aITEM 1155443697 1118786783:Guileful Chestguard of Bayle\/a
 categories:
 - AE Autoattack Chance (Equipment)

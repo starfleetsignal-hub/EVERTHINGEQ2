@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   dtype: Chain Armor
-effects: '**Plague**'
+effect_name: Plague
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Plague on target's attacker.  Lasts for 48.0 seconds.\n    - Inflicts 37 - 62 disease damage on targets in Area of Effect every 6.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 298119811 -345426088:Enigmatic Leggings\/a
 categories:
 - Assassin Equipment

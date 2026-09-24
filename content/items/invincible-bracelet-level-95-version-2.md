@@ -15,7 +15,8 @@ stats:
   abmod: +1,000
   dps: '20.3'
   vselemental: +13,728
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 112,560 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: '*From [[A Packet of Heroic Goods (Berserker, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Bruiser, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Guardian, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Monk, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Paladin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Shadowknight, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -2082031155 -1655885327:Invincible Bracelet\/a
 categories:

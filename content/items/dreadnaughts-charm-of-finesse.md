@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Ferocious Assault**'
+effect_name: Ferocious Assault
+effects: "- Applies Ferocious Assault IV when Activated.  Lasts for 8.0 seconds.\n  - This effect does not stack from multiple casters.\n  - Cannot be modified except by direct means\n  - The reuse time of Ferocious Assault IV is 1 minute"
 item_link: \aITEM 156653845 2014008620:Dreadnaught's Charm of Finesse\/a
 categories:
 - Ability Modifier (Equipment)

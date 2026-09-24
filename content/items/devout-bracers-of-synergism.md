@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 80) from [[Ancient Knowledge: Devout Bracers of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 295646113 -1905647022:Devout Bracers of Synergism\/a
 categories:

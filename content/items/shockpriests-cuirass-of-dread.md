@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Chain Armor
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 18% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 236.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1239301550 -1235478242:Shockpriest's Cuirass of Dread\/a
 categories:
 - Assassin Equipment

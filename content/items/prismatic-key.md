@@ -14,7 +14,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   aspeed: '31.2'
-effects: '**Salvo**'
+effect_name: Salvo
+effects: "- Applies Salvo II when Activated.  Lasts for 20.0 seconds.\n  - Increases the wearer's Crit Bonus and Potency by 132 and an additional 3.5 Crit Bonus and Potency for each other Salvo active in the raid at the same time.\n  - Cannot be modified except by direct means\n  - The reuse time of Salvo II is 1 minute"
 item_link: \aITEM 890493060 357140893:Prismatic Key\/a
 categories:
 - Assassin Equipment

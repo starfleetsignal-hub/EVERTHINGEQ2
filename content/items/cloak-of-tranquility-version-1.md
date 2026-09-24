@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Tranquility**'
+effect_name: Tranquility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Tranquility on target of combat art.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Hate Gain of caster by 50.0.\n    - Dazes target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Tranquility on target of spell.  Lasts for 8.0 seconds.  Triggers about 1.0 times per minute.\n    - Decreases Hate Gain of caster by 50.0.\n    - Dazes target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Gathering]] #5 in [[Quellious]] timeline'
 item_link: \aITEM -1703101134 -420164286:Cloak of Tranquility\/a
 image: images/Cloak_of_Tranquility.jpg

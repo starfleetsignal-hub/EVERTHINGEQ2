@@ -11,7 +11,8 @@ stats:
   str: '+2'
   sta: '+2'
   vsarcane: '+1'
-effects: '**Anger of the Guurok**'
+effect_name: Anger of the Guurok
+effects: "- When Equipped:\n  - Increases Haste of caster by 2.0."
 item_link: \aITEM -2124934672 278035752:Gooey Ear Plug\/a
 categories:
 - Anger of the Guurok (Equipment)

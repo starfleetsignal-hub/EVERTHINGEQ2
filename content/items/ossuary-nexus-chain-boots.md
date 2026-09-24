@@ -17,7 +17,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1386885953 -791206644:Ossuary Nexus Chain Boots\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   abmod: +1,527
   aspeed: '34.4'
   dps: '13.2'
-effects: '**Disengage**'
+effect_name: Disengage
+effects: "- Applies Disengage when Activated.  Lasts for 30.0 seconds.\n  - Suspends caster's movement speed enhancements.\n  - Increases stealth or invisible movement speed of caster by 15.0%.\n  - Increases Potency of caster by 300.0.\n  - Grants Stealth and Invisibility to caster\n  - Removes all of your hate from surrounding encounters.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Disengage is 2 minutes"
 obtained_from: '[[Ironblood and Guts]]'
 item_link: \aITEM -1484786837 740109917:Chewed Greygum Ore\/a
 image: images/Chewed_Greygum_Ore.png

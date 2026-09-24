@@ -8,7 +8,8 @@ level: '60'
 slot: Charm
 classes: '[[Provisioner]]'
 flags: attunable
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 330) from [[Master's Blueprints 0.002]].
 item_link: \aITEM 1616143265 1539146325:Screewoggins' Bag of Spices\/a
 aliases:

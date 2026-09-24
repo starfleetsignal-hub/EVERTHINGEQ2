@@ -17,7 +17,8 @@ stats:
   critbonus: 1,319.5
   potency: 41,328.5
   resolve: '505'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1870911004 -1024726849:Mausoleum Liminal Medallion\/a
 categories:
 - Assassin Equipment

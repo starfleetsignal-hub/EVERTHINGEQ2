@@ -17,7 +17,8 @@ stats:
   abmod: +1,950
   dps: '54.5'
   dtype: Buckler
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1796176852 1237581152:Gnemlin Buckler of Power\/a
 categories:
 - Ability Modifier (Equipment)

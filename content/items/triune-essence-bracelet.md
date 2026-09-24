@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   aspeed: '10.2'
   vsarcane: '+511'
-effects: '**Runic Recovery**<br>**Runic Absorption**'
+effect_name: Runic Recovery, Runic Absorption
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent.\n- When Equipped:\n  - On a healing spell cast this spell may cast Runic Absorption on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 1,000 points of all damage\n    - This effect stacks with the Runic Deflection line.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1259580091 -671414912:Triune Essence Bracelet\/a
 categories:
 - Arcane Resistance (Equipment)

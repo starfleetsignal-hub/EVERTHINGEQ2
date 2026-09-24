@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   dps: '23.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -576718442 -1040108443 0 0 0:Hallowed Primaeval Gloves\/a
 categories:
 - Census Credits

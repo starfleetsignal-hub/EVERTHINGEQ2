@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Leather Armor
-effects: '**Uncontrolled Healing**'
+effect_name: Uncontrolled Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 214.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell may cast Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 214.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 2139644015 -998498832 0 0 0:Untamed Fell Jerkin\/a
 categories:

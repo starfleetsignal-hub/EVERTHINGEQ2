@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: +1,527
   aspeed: '17.2'
-effects: '**Elemental Focus**'
+effect_name: Elemental Focus
+effects: "- Applies Elemental Focus III when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all elemental abilities.\n  - Removes 200 potency from arcane and noxious damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Elemental Focus III is 2 minutes"
 obtained_from: 'Collection reward: [[Maldura Daily Essentials (Collection)]]'
 item_link: \aITEM 2108928036 403542313:Recharged Travel Lamp\/a
 image: images/Recharged_Travel_Lamp.jpg

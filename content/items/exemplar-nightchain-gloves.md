@@ -20,7 +20,8 @@ stats:
   aspeed: '118.4'
   mitinc: '15.6'
   dtype: Chain Armor
-effects: '**Deathbringer''s Sight**'
+effect_name: Deathbringer's Sight
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Territus, the Deathbringer."
 obtained_from: From [[Horde of the Deathbringer]]
 item_link: \aITEM -1531110110 402193037:Exemplar Nightchain Gloves\/a
 categories:

@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+10'
   vsarcane: '+100'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 10.3.\n    - Increases Haste of caster by 14.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 48) from [[Jeweler Essentials Volume 48 (Normal)]] *Crafted by [[Jeweler]] (level 48) from [[Jeweler Essentials Volume 48 (no-trade)]]'
 item_link: \aITEM -1183737431 -800978294:Imbued Diamondine Band of Agility\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +11,880
-effects: '**Divine Redirection**'
+effect_name: Divine Redirection
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Divine Redirection on the group.\n    - Heals group members (AE) for 100,000.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 18.0 seconds."
 item_link: \aITEM 1456638468 -1883754359:Draconic Stone of Divine Redirection\/a
 aliases:
 - Draconic Stone of Divine Redirection (1 Gem)

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+360'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 1232042814 801749673:Starstricken Stud\/a
 categories:
 - Ability Modifier (Equipment)

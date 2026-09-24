@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**Storm of Karana**'
+effect_name: Storm of Karana
+effects: "- When Equipped:\n  - Increases spell damage and damage dealt by combat arts by up to 50."
 obtained_from: '[[The Stormfather]]'
 item_link: \aITEM -1045956089 43663932:Cloak of Storms\/a
 image: images/Cloak_of_Storms.jpg

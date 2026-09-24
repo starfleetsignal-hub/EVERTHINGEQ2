@@ -19,7 +19,8 @@ stats:
   resolve: '535'
   abmod: +4449,714
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -602097121 -1057422838:Talon Scar Greaves of Obliteration\/a
 categories:
 - Ability Modifier (Equipment)

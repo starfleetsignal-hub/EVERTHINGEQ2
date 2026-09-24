@@ -15,7 +15,8 @@ stats:
   critbonus: '2.6'
   potency: '2.7'
   aspeed: '3.8'
-effects: '**Lava Storm**'
+effect_name: Lava Storm
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Lava Storm on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 928 - 1135 heat damage on target encounter\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1197854341 1635716192:Charm of Solusek Ro\/a
 categories:
 - Assassin Equipment

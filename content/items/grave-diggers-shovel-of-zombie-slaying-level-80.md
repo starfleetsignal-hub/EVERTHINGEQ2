@@ -21,7 +21,8 @@ stats:
   drating: '144.79'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Greater Undead Bane**'
+effect_name: Greater Undead Bane
+effects: "- When Equipped:\n  - Additional equipment with Undead Bane improves this effect.\n  - On any combat or spell hit this spell may cast Greater Undead Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 756 mental damage on target.\n      - Must be classified as an undead\n    - Inflicts 378 mental damage on target.\n      - Must not be classified as an undead\n    - Decreases Mitigation of target vs arcane damage by 640.\n      - Must be classified as an undead\n    - Cannot be modified except by direct means"
 obtained_from: <br>Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 1420028556 1845409425:Grave Digger's Shovel of Zombie Slaying\/a
 categories:

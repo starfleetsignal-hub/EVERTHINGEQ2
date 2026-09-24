@@ -14,7 +14,8 @@ stats:
   potency: '12.6'
   abmod: '+211'
   vselemental: +9,504
-effects: '**Raging Squall**'
+effect_name: Raging Squall
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 3.0.\n  - Increases Block Chance of caster by 7.0%.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 900.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1857900238 -7601530:Earring of Raging Squalls\/a
 categories:
 - Ability Modifier (Equipment)

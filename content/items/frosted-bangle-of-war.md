@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +15,750
-effects: '**Chilling Retaliation**'
+effect_name: Chilling Retaliation
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Chilling Retaliation on target's attacker.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 24,840 cold damage on target.\n    - Slows target by 25.0%.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1349780322 -1806471147:Frosted Bangle of War\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   vselemental: '+511'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -534983641 -461314170:Hoop of the Fallen Warlock\/a
 categories:
 - Arcane Recovery (Equipment)

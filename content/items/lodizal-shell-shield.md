@@ -14,7 +14,8 @@ stats:
   critbonus: '5.1'
   potency: '8.6'
   dtype: Buckler
-effects: '**Enduring Breath**'
+effect_name: Enduring Breath
+effects: "- When Equipped:\n  - Allows caster to breathe under water"
 obtained_from: 'Heritage quest reward: [[The Essence of a Prophet]]'
 item_link: \aITEM -1419321533 -907132121:Lodizal Shell Shield\/a
 categories:

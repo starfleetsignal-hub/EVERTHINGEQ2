@@ -16,7 +16,8 @@ stats:
   drating: '23.04'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mark of Pestilence**'
+effect_name: Mark of Pestilence
+effects: '- Applies Mark of Pestilence when Equipped.'
 obtained_from: '[[Bring on the Blight]]'
 item_link: \aITEM 1460211187 -1713364659:Gruesome Claw of Pestilence\/a
 image: images/Gruesome_Claw_of_Pestilence.jpg

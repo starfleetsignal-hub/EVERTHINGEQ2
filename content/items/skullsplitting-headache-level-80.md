@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Greater Undead Bane**<br>**Maniacal Infusion**'
+effect_name: Greater Undead Bane, Maniacal Infusion
+effects: "- When Equipped:\n  - Additional equipment with Undead Bane improves this effect.\n  - On any combat or spell hit this spell may cast Greater Undead Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 756 mental damage on target.\n      - Must be classified as an undead\n    - Inflicts 378 mental damage on target.\n      - Must not be classified as an undead\n    - Decreases Mitigation of target vs arcane damage by 640.\n      - Must be classified as an undead\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a hostile spell cast this spell may cast Maniacal Infusion on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 200.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 item_link: \aITEM -314980717 1476529191:Skullsplitting Headache\/a
 categories:
 - Ability Modifier (Equipment)

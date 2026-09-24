@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: +1,824
-effects: '**Primal Guile**'
+effect_name: Primal Guile
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Primal Guile on target of attack.  Triggers about 2.2 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 7,202 - 7,960 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1444774941 688947780 0 0 0:Octagonal Stud of the Sentinel\/a
 categories:
 - Ability Modifier (Equipment)

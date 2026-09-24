@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vsnoxious: '+356'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: '[[A Path for Medicus]]'
 item_link: \aITEM 911116408 -1016307116:Scorpikis Crafted Ring of Chitin\/a
 categories:

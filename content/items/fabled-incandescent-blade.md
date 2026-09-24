@@ -24,7 +24,8 @@ stats:
   drating: '2495.23'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Convulsions**'
+effect_name: Convulsions
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 9% chance to cast Convulsions on target of spell.  Lasts for 24.0 seconds.\n    - Inflicts 375 - 458 magic damage on target instantly and every 2 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities.\n    - This effect can only trigger once every 32.0 - 40.0 seconds."
 item_link: \aITEM 993431045 1852564432:Fabled Incandescent Blade\/a
 categories:
 - Assassin Equipment

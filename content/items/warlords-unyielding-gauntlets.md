@@ -18,7 +18,8 @@ stats:
   dps: '15.2'
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume I]] Sold by [[Rotuk]] (Faction Merchant) in [[Great Divide]] at [[Thurgadin Harbor]] {{waypoint 1358, -540, 503}}
 item_link: \aITEM -1012260621 -1944362681:Warlord's Unyielding Gauntlets\/a
 categories:

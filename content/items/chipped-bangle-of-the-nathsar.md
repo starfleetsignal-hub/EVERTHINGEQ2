@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '13'
   vselemental: +1,000
-effects: '**Nathsarian Rage**'
+effect_name: Nathsarian Rage
+effects: "- When Equipped:\n  - Increases combat art damage by 75.\n  - When a combat art is used this spell has a 9% chance to cast Nathsarian Rage on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases DPS of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -512966908 -18440766:Chipped Bangle of the Nathsar\/a
 categories:
 - Arcane Resistance (Equipment)

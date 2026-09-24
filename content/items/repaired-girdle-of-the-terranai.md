@@ -15,7 +15,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   dps: '18.8'
-effects: '**Mana Breeze**'
+effect_name: Mana Breeze
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Mana Breeze on the group.  Triggers about 2.0 times per minute.\n    - Increases power of group members by 493.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2138459207 -183711834 0 0 0:Repaired Girdle of the Terranai\/a
 categories:
 - Block Chance (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: +1,670
   aspeed: '37.7'
   dps: '14.4'
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM -1781644294 863521267:Focused Torque of Yothshaval\/a
 categories:
 - Ability Modifier (Equipment)

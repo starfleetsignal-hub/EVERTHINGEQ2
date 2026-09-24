@@ -16,7 +16,8 @@ stats:
   critbonus: '5'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Bulwark of Faith**'
+effect_name: Bulwark of Faith
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Bulwark of Faith on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives target an extra 5.0% mitigation to their worn armor.\n    - Increases Max Health of target by 10.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 1808511307 1220704500:Patriarch's Breastplate\/a
 categories:

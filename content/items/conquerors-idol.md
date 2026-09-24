@@ -11,7 +11,8 @@ stats:
   sta: '+11'
   int: '+11'
   dtype: Symbols
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 288 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 434183191 1775712254:Conqueror's Idol\/a
 categories:
 - Census Credits

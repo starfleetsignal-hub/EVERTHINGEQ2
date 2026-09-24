@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   mitinc: '1.2'
-effects: '**Irritating Sands**'
+effect_name: Irritating Sands
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Irritating Sands on target of attack.  Triggers about 1.6 times per minute.\n    - Increases Threat to target by 1,915\n    - Inflicts 740 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 8% chance to cast Irritating Sands on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 1,915\n    - Inflicts 740 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 564169888 -369416798:Weakened Claw of Amenophas\/a
 categories:
 - Assassin Equipment

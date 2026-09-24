@@ -17,7 +17,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Savage Healing**'
+effect_name: Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 156190296 705329126 0 0 0:Soul Lancer's Hauberk\/a
 categories:

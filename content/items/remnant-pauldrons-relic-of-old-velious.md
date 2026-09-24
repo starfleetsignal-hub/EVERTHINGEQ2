@@ -19,7 +19,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   dtype: Plate Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 241322948 -148885681:Remnant Pauldrons, Relic of Old Velious\/a
 categories:
 - Attack Speed (Equipment)

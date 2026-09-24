@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   abmod: '+20'
-effects: '**Hex of Shadows**'
+effect_name: Hex of Shadows
+effects: "- Applies Hex of Shadows when Activated.  Lasts for 1 minute 48 seconds.\n  - Applies Hex of Fright.  Lasts for 1 minute 48 seconds.\n    - Decreases Haste of target by 12.8.\n    - Cannot be modified except by direct means\n  - Slows target by 30.3%.\n  - 5% chance to dispel when target takes damage\n  - 5% chance to dispel when target receives hostile action\n  - The casting time of Hex of Shadows is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -578429346 -546257647:crude shadow imbued windcloth hex doll\/a
 categories:
 - Ability Modifier (Equipment)

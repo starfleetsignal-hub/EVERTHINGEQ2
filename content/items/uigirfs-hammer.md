@@ -21,7 +21,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Blackanvil Smash**'
+effect_name: Blackanvil Smash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Smash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 161829272 1746709876:Uigirf's Hammer\/a
 categories:
 - Ability Modifier (Equipment)

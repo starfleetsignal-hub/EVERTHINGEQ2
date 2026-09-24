@@ -17,7 +17,8 @@ stats:
   dps: '12.8'
   multi: '8'
   dtype: Plate Armor
-effects: '**Unstable Emollient**'
+effect_name: Unstable Emollient
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Unstable Emollient on target of spell cast.  Triggers about 4.0 times per minute.\n    - Applies Unstable Emollient.\n      - Inflicts 557 - 928 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1790862740 -854903387:Black Enameled Plate Bracers\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   aspeed: '9.3'
-effects: '**Otherworldly Assistants**'
+effect_name: Otherworldly Assistants
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Otherworldly Assistants on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Summons 4 Otherworldly Assistants to heal and protect the caster's party."
 item_link: \aITEM 2074420101 -23426315:Cloak of Crystalline Depths\/a
 categories:
 - Ability Modifier (Equipment)

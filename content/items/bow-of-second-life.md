@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Strike of the Eternal**<br>**Flow of Fyr''Un**'
+effect_name: Strike of the Eternal, Flow of Fyr'Un
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Strike of the Eternal on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 387 - 581 magic damage on target.\n    - Cannot be modified except by direct means\n- Applies Flow of Fyr'Un when Equipped.\n  - Increases Combat Power Regen of caster by 14.0."
 obtained_from: '[[Wrapping It All Up]]'
 item_link: \aITEM -1069050133 -3162217:Bow of Second Life\/a
 categories:

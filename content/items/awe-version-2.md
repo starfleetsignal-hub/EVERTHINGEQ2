@@ -21,7 +21,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Awe**'
+effect_name: Awe
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Awe on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 134.\n    - Increases power of caster by 134.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1571878708 742439932 0 0 0:Awe\/a
 categories:
 - Attack Speed (Equipment)

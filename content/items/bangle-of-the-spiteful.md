@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: '+880'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 1504997746 -670682686:Bangle of the Spiteful\/a
 categories:
 - Arcane Recovery (Equipment)

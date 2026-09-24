@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   aspeed: '9.7'
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1589371143 832182375:Torque of Zekian Victory\/a
 categories:
 - Ability Modifier (Equipment)

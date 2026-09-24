@@ -18,7 +18,8 @@ stats:
   potency: 52,704.7
   resolve: '660'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 40.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 96286859 -717903546:Abyssal Grotto Relic Boots\/a
 categories:
 - Assassin Equipment

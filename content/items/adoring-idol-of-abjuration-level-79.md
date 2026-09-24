@@ -16,7 +16,8 @@ stats:
   dps: '10.1'
   multi: '6.2'
   dtype: Symbols
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 item_link: \aITEM -796409573 1160462390:Adoring Idol of Abjuration\/a
 categories:
 - Assassin Equipment

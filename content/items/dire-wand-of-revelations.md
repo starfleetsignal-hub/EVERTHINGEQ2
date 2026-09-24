@@ -19,7 +19,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Imposing Righteousness**'
+effect_name: Imposing Righteousness
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Imposing Righteousness IX on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Imposing Righteousness IX on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 90) from [[Ancient Knowledge: Dire Wand of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -331480613 568567516:Dire Wand of Revelations\/a
 categories:

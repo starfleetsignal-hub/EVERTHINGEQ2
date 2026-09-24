@@ -15,7 +15,8 @@ stats:
   potency: '7'
   strike: '11.7'
   dps: '18.1'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1608346993 -1286597139:Massive Leather Girdle\/a
 categories:
 - Assassin Equipment

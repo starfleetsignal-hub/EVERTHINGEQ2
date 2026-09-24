@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +16,380
-effects: '**Not Without a Fight**'
+effect_name: Not Without a Fight
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Not Without a Fight III on target of attack.  Triggers about 10.0 times per minute.\n    - Inflicts 418,176 crushing damage on target.\n    - Cannot be modified except by direct means\n  - If under 25% Health"
 item_link: \aITEM -2054984116 1749010178:Courage Personified\/a
 categories:
 - Arcane Resistance (Equipment)

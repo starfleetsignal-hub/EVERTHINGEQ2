@@ -13,7 +13,7 @@ stats:
   drating: '96.3'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: Shatter
+effects: "- When Equipped:\n  - On any successful attack this spell will cast Shatter on caster."
 obtained_from: '[[The Fist of War]].'
 categories:
 - Equipment

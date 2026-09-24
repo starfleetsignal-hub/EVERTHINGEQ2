@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   abmod: '+17'
   dtype: Chain Armor
-effects: '**Toxicity**'
+effect_name: Toxicity
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Toxicity on target's attacker.  Lasts for 24.0 seconds.\n    - Inflicts 44 - 74 poison damage on targets in Area of Effect every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 590003244 -1704583107:Poison Etched Mantle\/a
 categories:
 - Ability Modifier (Equipment)

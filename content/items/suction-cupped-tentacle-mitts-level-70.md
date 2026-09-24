@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Plate Armor
-effects: '**Impact Conversion**'
+effect_name: Impact Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 4% chance to cast Impact Conversion on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 32 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -918152423 -198933498:Suction Cupped Tentacle Mitts\/a
 categories:
 - Berserker Equipment

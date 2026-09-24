@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Preparation**'
+effect_name: Preparation
+effects: "- Applies Preparation when Activated.  Lasts for 10.0 seconds.\n  - Increases the ring wearer's spell damage by 2000 for a short duration.\n  - The reuse time of Preparation is 1 minute 30 seconds"
 item_link: \aITEM -1623590250 -1457402651:Band of Kurn's Magi\/a
 categories:
 - Ability Modifier (Equipment)

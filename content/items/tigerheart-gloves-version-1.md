@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   abmod: '+98'
   dtype: Leather Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 1746470829 1157028355:Tigerheart Gloves\/a
 categories:
 - Ability Modifier (Equipment)

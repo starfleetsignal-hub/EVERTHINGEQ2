@@ -17,7 +17,8 @@ stats:
   potency: 35,132.1
   resolve: '465'
   dtype: Chain Armor
-effects: '**Scholarly Influence**'
+effect_name: Scholarly Influence
+effects: "- When Equipped:\n  - Grants an additional 15 fervor when in Renewal of Ro raid zones.\n  - Grants an additional 10 fervor overcap when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 701788844 1910105636:Stone-Linked Helmet of Ordast\/a
 categories:
 - Ability Doublecast (Equipment)

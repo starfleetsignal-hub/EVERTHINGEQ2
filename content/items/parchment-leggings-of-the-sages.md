@@ -17,7 +17,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   dtype: Plate Armor
-effects: '**Ancient Invigoration**'
+effect_name: Ancient Invigoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancient Invigoration on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 1,000 points of all damage\n    - Replenishes 250 points of absorption every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -733162902 -808093436:Parchment Leggings of the Sages\/a
 categories:
 - Ancient Invigoration (Equipment)

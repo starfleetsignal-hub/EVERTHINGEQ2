@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 565113703 -1080215715:Slippers of the Netherealm\/a
 categories:
 - Ability Modifier (Equipment)

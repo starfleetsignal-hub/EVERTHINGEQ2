@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   abmod: '+20'
   dtype: Chain Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 36 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1615397985 -287733385:imbued indium chainmail coat\/a
 categories:
 - Ability Modifier (Equipment)

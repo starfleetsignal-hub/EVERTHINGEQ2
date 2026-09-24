@@ -17,7 +17,8 @@ stats:
   aspeed: '38'
   dps: '14.5'
   vselemental: +35,154
-effects: '**Practiced Swings**'
+effect_name: Practiced Swings
+effects: "- When Equipped:\n  - Applies Practiced Swings III instantly and every 1.3 seconds.\n    - Increases Weapon Damage of group members (AE) by 31.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1607805065 1927949596:Bhoughbh Branded Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

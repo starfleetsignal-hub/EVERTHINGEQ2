@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Thudomatonian Cuffs]] *From [[General Utehk (Challenge Mode Epic)|General Uthek]], [[General Zevitus (Challenge Mode Epic)|General Zevitus]], or [[General Aakita (Challenge Mode Epic)|Gerneral Aakita]] in [[Tallon's Stronghold (Challenge)]]
 item_link: \aITEM 295190955 2129378552:Sacrosanct Gauntlets of the Archon\/a
 categories:

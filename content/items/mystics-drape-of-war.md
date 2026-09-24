@@ -15,7 +15,8 @@ stats:
   crit: '8.8'
   critbonus: '7.7'
   potency: '12.8'
-effects: '**Soulbarrier**'
+effect_name: Soulbarrier
+effects: "- Applies Soulbarrier when Activated.  Lasts for 16.0 seconds.\n  - Reduces elemental, noxious and arcane damage done to target by 30%.\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The casting time of Soulbarrier is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM 384232452 275026808:Mystic's Drape of War\/a
 categories:

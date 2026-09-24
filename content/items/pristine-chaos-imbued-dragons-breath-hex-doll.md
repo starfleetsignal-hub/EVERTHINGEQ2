@@ -13,7 +13,8 @@ stats:
   crit: '1.1'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 608.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 66) from [[Advanced Tailor Volume 66 (no-value)]] *Crafted by [[Tailor]] (level 66) from [[Advanced Tailor Volume 66 (Uncommon)]]'
 item_link: \aITEM 1491374278 -894730231 0 0 0:pristine chaos imbued dragon's breath hex doll\/a
 categories:

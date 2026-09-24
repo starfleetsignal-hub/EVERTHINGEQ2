@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '13.8'
   vselemental: +29,521
-effects: '**Shroud of the Sea**'
+effect_name: Shroud of the Sea
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Shroud of the Sea on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 292,793.\n    - Increases STA of target by 425.0.\n    - Increases Potency of group members (AE) by 14.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1904822438 -1583757968:Dossvor's Manacle of Will\/a
 image: images/Dossvor's_Manacle_of_Will.png
 categories:

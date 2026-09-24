@@ -17,7 +17,8 @@ stats:
   resolve: '370'
   aspeed: '24.1'
   vselemental: +238,938
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1360187018 -1976840369:Fabled Ring of Dark Intent\/a
 categories:
 - Arcane Resistance (Equipment)

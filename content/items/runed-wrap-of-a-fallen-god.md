@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Wisdom of Paixao**'
+effect_name: Wisdom of Paixao
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Wisdom of Paixao on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 75.0.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases Potency of caster by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1030334981 1045924571:Runed Wrap of a Fallen God\/a
 categories:
 - Arcane Resistance (Equipment)

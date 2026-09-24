@@ -20,7 +20,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 124 - 207 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 381611124 1186189120:Slayer's Dagger of Distraught\/a
 categories:
 - Ability Modifier (Equipment)

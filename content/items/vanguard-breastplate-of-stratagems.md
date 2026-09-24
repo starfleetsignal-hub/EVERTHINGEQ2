@@ -13,7 +13,8 @@ stats:
   mit: '306'
   potency: '0.2'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Armorer]] (level 40) from [[Ancient Knowledge: Vanguard Breastplate of Stratagems]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -802633873 -1222032974:Vanguard Breastplate of Stratagems\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM -778385048 -1117772458 0 0 0:Unholy Sabatons of the Rift\/a
 categories:
 - Casting Speed (Equipment)

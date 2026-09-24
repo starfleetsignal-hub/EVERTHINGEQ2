@@ -18,7 +18,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 obtained_from: '*Made from [[Elemental Gladiator''s Boot Mold]] *Made from [[Elemental Gladiator''s Boot Pattern]]'
 item_link: \aITEM -1645472491 -517646615 0 0 0:Magma-Etched Boots\/a
 categories:

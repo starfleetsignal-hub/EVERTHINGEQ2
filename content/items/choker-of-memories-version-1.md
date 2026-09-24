@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dps: '13.4'
-effects: '**Circling Wall of Memories**<br>**Benevolent Alacrity**'
+effect_name: Circling Wall of Memories, Benevolent Alacrity
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Circling Wall of Memories on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 825 points of all damage\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 item_link: \aITEM -164776080 -1307540445:Choker of Memories\/a
 image: images/Choker_of_Memories.jpg
 categories:

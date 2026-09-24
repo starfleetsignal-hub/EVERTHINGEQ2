@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '29.6'
   resolve: '7'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception when Equipped.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 375.\n  - Increases Fervor of caster by 8.0."
 item_link: \aITEM 1081352716 1163047317:Doubled Belt of Ultimate Deception\/a
 categories:
 - Ability Doublecast (Equipment)

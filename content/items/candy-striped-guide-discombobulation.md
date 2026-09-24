@@ -15,7 +15,8 @@ stats:
   drating: '1.48'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Frostfell Discombobulation**'
+effect_name: Frostfell Discombobulation
+effects: "- Applies Frostfell Discombobulation when Activated.  Lasts for 30 minutes.\n  - Shapechanges target into a reindeer"
 item_link: \aITEM -1022732406 1363613994:Candy-Striped Guide Discombobulation\/a
 categories:
 - Assassin Equipment

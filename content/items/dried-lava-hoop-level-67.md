@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   abmod: '+38'
   vselemental: '+235'
-effects: '**Lesser Healing Wave**'
+effect_name: Lesser Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on caster.  Triggers about 1.2 times per minute.\n    - Heals group members for 101.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 257375900 -217054099:Dried Lava Hoop\/a
 categories:
 - Ability Modifier (Equipment)

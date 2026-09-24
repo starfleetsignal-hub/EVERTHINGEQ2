@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Cloth Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '[[Seeking Sergeant Slithess]]'
 item_link: \aITEM -979978347 -1560878851:Battlement Battalion 623 Wristguards\/a
 categories:

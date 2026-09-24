@@ -17,7 +17,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 457277461 820792150 0 0 0:Magma-Etched Wristguards\/a
 categories:
 - Ability Modifier (Equipment)

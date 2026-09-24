@@ -18,7 +18,8 @@ stats:
   dps: '27.1'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Uncanny Insight**<br>**Stout**'
+effect_name: Uncanny Insight, Stout
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Strikethrough of caster by 5.0%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Block Chance of caster by 3.0%.\n  - Increases Health Regen of caster by 15.0.\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2034951893 1806319421:Glorified Greaves of the Mother's Acceptance\/a
 categories:
 - Berserker Equipment

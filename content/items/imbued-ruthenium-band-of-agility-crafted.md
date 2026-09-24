@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+10'
   sta: '+10'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 10.2.\n    - Increases Haste of caster by 16.5.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 38) from [[Advanced Jeweler Volume 38 (Normal)]] *Crafted by [[Jeweler]] (level 38) from [[Advanced Jeweler Volume 38 (No-Trade)]]'
 item_link: \aITEM 150085324 -388366790:Imbued Ruthenium Band of Agility\/a
 categories:

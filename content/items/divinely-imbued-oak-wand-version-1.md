@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Holy Strike**'
+effect_name: Holy Strike
+effects: "- Applies Holy Strike when Activated.\n  - Inflicts 176 - 293 divine damage on target.\n  - The casting time of Holy Strike is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 398903001 -1152080203:Divinely Imbued Oak Wand\/a
 categories:
 - Census Credits

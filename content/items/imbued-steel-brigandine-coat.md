@@ -12,7 +12,8 @@ stats:
   sta: '+7'
   mit: '99'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 20 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 28) from [[Advanced Armorer Volume 28 (Normal)]] *Crafted by [[Armorer]] (level 28) from [[Advanced Armorer Volume 28 (No-Trade)]] *From [[Brigandine Armor Pack (Level 22 Mastercrafted) (Version 1)|Brigandine Armor Pack (Level 22 Mastercrafted)]] *From [[Brigandine Armor Pack (Level 22 Mastercrafted) (Version 2)|Brigandine Armor Pack (Level 22 Mastercrafted)]]'
 item_link: \aITEM -430762995 1289131900:Imbued Steel Brigandine Coat\/a
 categories:

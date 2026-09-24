@@ -21,7 +21,8 @@ stats:
   drating: '75.95'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Absolve Vitae**'
+effect_name: Absolve Vitae
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Absolve Vitae on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 504 - 839 heat damage on target.\n    - Heals caster for 356.\n    - Cannot be modified except by direct means"
 obtained_from: Upgrade of [[Lucanic Gladius]] after killing [[Mayong Mistmoore]] in any of his forms.
 item_link: \aITEM 2079594288 -572488345:Soulfire Gladius\/a
 image: images/Soulfire_Gladius.jpg

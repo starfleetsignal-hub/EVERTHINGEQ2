@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 4 percent."
 obtained_from: '[[Kervis Pendleir]] in [[Miragul''s Planar Shard]]'
 item_link: \aITEM 1222148207 2119916759:Nebulous Loop\/a
 categories:

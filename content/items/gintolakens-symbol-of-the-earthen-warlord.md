@@ -20,7 +20,8 @@ stats:
   dps: '117.8'
   cbovercap: '+77.4'
   dtype: Symbols
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,292 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -687226310 1264964719:Gintolaken's Symbol of the Earthen Warlord\/a
 categories:
 - Ability Modifier (Equipment)

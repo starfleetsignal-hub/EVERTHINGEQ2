@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   abmod: '+129'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '[[Hook, Line, and... Anchor?]]'
 item_link: \aITEM 1830357483 1147355570:Bracelet of Molten Lava\/a
 categories:

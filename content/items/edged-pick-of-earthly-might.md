@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Earthen Aura**'
+effect_name: Earthen Aura
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 5.0.\n  - On a combat hit this spell may cast Subterranean Favor on target.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals caster for 47 - 87.\n    - Heals caster for 14 - 25 every 4 seconds.\n    - Increases STR of caster by 110.0.\n    - Increases the caster's effectiveness of worn armor vs physical damage by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1956537678 -659131179:Edged Pick of Earthly Might\/a
 categories:
 - Assassin Equipment

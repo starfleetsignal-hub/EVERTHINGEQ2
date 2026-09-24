@@ -19,7 +19,8 @@ stats:
   resolve: '1'
   aspeed: '33.7'
   mitinc: '6.6'
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM 831493897 -2110552918:Mitigating Umbrite Necklace\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Angelic Interest**'
+effect_name: Angelic Interest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Angelic Interest II on caster.  Lasts for 1 minute.  Triggers about 0.2 times per minute.\n    - Heals caster for 37,325.\n    - Summons an Angelic Assistant that inflicts damage to up to 8 enemies who are engaged with the player. The angel is immune to physical damage but takes double magic damage. It is not immune to area effect abilities.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 60.0 seconds."
 obtained_from: Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM -1594796049 -1509585927:Sparkling Bracelet of Divinity\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '20'
   flurry: '22.5'
   mitinc: '12.4'
-effects: '**Paragon**'
+effect_name: Paragon
+effects: "- When Equipped:\n  - Adds a large damage strike to Granite Protector, and makes it unable to be targeted directly and immune to all damage.\n  - Adds a second summon to Elemental Amalgamation.\n  - Ethermancy will increase the groups Crit Bonus Overcap.\n  - When Tainted Mutation triggers it will grant a large potency buff to the group."
 obtained_from: '[[The Warrior''s Call: Volume IV]]'
 item_link: \aITEM -448105633 -1861399627:Girdle of Captain Luther Taros\/a
 categories:

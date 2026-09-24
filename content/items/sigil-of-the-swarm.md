@@ -6,7 +6,7 @@ tier: Fabled
 level: '1'
 slot: Charm
 flags: Lore No-Trade
-effects: Power of the Swarm<br>Terrifying Swarm
+effects: "- When Equipped:\n  - Increases the wearers attributes and potency based off of their current adventure level.\n- Applies Terrifying Swarm when Activated. Lasts for 1 hour.\n  - Shapechanges caster into a bat swarm\n  - May not be used while mentoring.\n  - Wards caster based on current adventure level.\n  - Grants potency based on current adventure level.\n  - Cannot be modified except by direct means\n  - The reuse time of Terrifying Swarm is 20 hours"
 obtained_from: '*Sold by [[Aldaelon Rootbed]] in [[Kelethin]] *Sold by [[Omarin T''Zaana]] in [[Neriak, City of Hate]]'
 item_link: \aITEM 329749484 1787985030:Sigil of the Swarm\/a
 categories:

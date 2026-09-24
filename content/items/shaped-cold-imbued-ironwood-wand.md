@@ -18,7 +18,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- Applies Frost Blast when Activated.\n  - Inflicts 266 - 444 cold damage on target.\n  - The casting time of Frost Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 249322894 197322178:Shaped Cold Imbued Ironwood Wand\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   aspeed: '2.4'
-effects: '**Lesser Soulsiphon**'
+effect_name: Lesser Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 169.\n    - Increases power of caster by 85.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 366006871 606646476:Mechanic's Toolbelt\/a
 categories:
 - Assassin Equipment

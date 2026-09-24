@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: '[[Mushroom Magic]]'
 item_link: \aITEM 1945904353 -336158378:Fish Embroidered Gloves\/a
 categories:

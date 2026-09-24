@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +22,204
-effects: '**Indiscriminate Counter**'
+effect_name: Indiscriminate Counter
+effects: "- When Equipped:\n  - Applies Indiscriminate Counter III.  Lasts for 10.0 seconds.\n    - Inflicts 211,200 slashing damage on targets in Area of Effect.\n    - Gives caster an extra 4.5% mitigation to their worn armor.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1400168311 -1879291426:Spiteful Golden Hoop\/a
 categories:
 - AE Autoattack Chance (Equipment)

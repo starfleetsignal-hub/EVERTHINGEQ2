@@ -20,7 +20,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Steady Pulse**'
+effect_name: Steady Pulse
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Steady Pulse III on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 2,370 - 2,620 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1466462434 -1140088155:Scimitar of Dracurion Conquest\/a
 categories:
 - Assassin Equipment

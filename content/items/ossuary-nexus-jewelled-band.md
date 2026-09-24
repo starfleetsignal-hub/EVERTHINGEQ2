@@ -16,7 +16,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   vselemental: +360,945
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -320742314 856513274:Ossuary Nexus Jewelled Band\/a
 categories:
 - Arcane Resistance (Equipment)

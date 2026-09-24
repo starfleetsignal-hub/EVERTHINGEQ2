@@ -21,7 +21,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 392865183 2032716204:Staff of Broken Limbs\/a
 categories:
 - Ability Modifier (Equipment)

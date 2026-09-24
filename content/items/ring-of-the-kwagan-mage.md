@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   vselemental: '+360'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM 557652552 721684065:Ring of The Kwagan Mage\/a
 categories:
 - Arcane Resistance (Equipment)

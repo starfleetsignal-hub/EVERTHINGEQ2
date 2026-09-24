@@ -8,7 +8,8 @@ level: '20'
 slot: Charm
 classes: '[[Jeweler]]'
 flags: attunable
-effects: '**Simple Tools**'
+effect_name: Simple Tools
+effects: "- Applies Simple Tools when Equipped.\n  - Increases success chance by 1.0%."
 obtained_from: Made with Tinkering (skill 40) from [[Apprentice Blueprints 0.004]].
 item_link: \aITEM 1490117938 -534394585:Gnomish Ring Press\/a
 categories:

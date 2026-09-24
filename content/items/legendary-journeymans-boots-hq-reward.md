@@ -14,7 +14,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Leather Armor
-effects: '**Journeyman''s Boots**'
+effect_name: Journeyman's Boots
+effects: "- Applies Journeyman's Boots when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 obtained_from: 'Heritage quest reward: [[The Journey is Half the Fun]]'
 item_link: \aITEM -1320082876 -1732302927:Legendary Journeyman's Boots\/a
 categories:

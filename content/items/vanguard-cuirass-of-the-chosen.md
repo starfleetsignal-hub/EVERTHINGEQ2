@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   multi: '0.9'
   dtype: Plate Armor
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM -881310509 2066479657:Vanguard Cuirass of the Chosen\/a
 categories:
 - Battlement of the Mind (Equipment)

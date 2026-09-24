@@ -15,7 +15,8 @@ stats:
   potency: '11.7'
   mitinc: '12'
   dtype: Leather Armor
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2044118169 452763834 0 0 0:Turbulent Leggings of the Deep Tide\/a
 categories:
 - Brawler Equipment

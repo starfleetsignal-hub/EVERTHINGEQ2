@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   aspeed: '2.6'
   dtype: Cloth Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 61 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -940365160 -1561913407:imbued dragon's breath blouse\/a
 categories:
 - Assassin Equipment

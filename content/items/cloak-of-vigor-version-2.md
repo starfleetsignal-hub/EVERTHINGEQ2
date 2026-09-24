@@ -15,7 +15,8 @@ stats:
   critbonus: '0.6'
   potency: '2.6'
   abmod: '+66'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 26.0."
 item_link: \aITEM 1083774691 -516618541:Cloak of Vigor\/a
 categories:
 - Ability Modifier (Equipment)

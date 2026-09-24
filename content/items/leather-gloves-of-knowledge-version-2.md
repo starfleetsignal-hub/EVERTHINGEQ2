@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   mitinc: '3.7'
   dtype: Leather Armor
-effects: '**Power of Knowledge**'
+effect_name: Power of Knowledge
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Power of Knowledge on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Summons 2 limited pets to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2037271656 485465580:Leather Gloves of Knowledge\/a
 aliases:
 - Leather Gloves of Knowledge (Level 80)

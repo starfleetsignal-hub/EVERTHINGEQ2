@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Sold by [[Bad''Ushra]] (Merchant) in [[The Stonebrunt Highlands]]'
 item_link: \aITEM 1942015463 276482050:Shadowfire Slippers\/a
 categories:

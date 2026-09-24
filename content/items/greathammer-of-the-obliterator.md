@@ -16,7 +16,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -752815808 -1973024260:Greathammer of the Obliterator\/a
 categories:
 - Casting Speed (Equipment)

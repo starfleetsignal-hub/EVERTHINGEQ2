@@ -13,7 +13,8 @@ stats:
   mit: '187'
   abmod: '+8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 1058077545 740683187:Wristguards of the Axebringer\/a
 categories:
 - Ability Modifier (Equipment)

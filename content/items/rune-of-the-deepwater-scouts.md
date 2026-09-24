@@ -14,7 +14,8 @@ stats:
   critbonus: '5.1'
   potency: '8.6'
   dps: '21.9'
-effects: '**Dash of the Deepwater Assassin**'
+effect_name: Dash of the Deepwater Assassin
+effects: "- Applies Dash of the Deepwater Assassin when Activated.  Lasts for 30.0 seconds.\n  - Increases Multi Attack of caster by 40.0.\n  - Increases the base trigger chance of spells and items by 15%.\n  - Cannot be modified except by direct means\n  - The casting time of Dash of the Deepwater Assassin is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[The Fallen Swords: All Roads Lead To...]]'
 item_link: \aITEM -529509293 12168702:Rune of the Deepwater Scouts\/a
 categories:

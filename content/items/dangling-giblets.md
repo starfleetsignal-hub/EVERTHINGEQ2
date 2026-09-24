@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,032
-effects: '**Static Criticals**'
+effect_name: Static Criticals
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 30.8.\n  - This effect will not stack with \"Uplifting\" effects of the same type."
 item_link: \aITEM 2097073460 980352670:Dangling Giblets\/a
 categories:
 - Arcane Resistance (Equipment)

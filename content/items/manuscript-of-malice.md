@@ -20,7 +20,8 @@ stats:
   dps: '99.9'
   mitinc: '29.3'
   dtype: Symbols
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 8.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -878255720 -1409384244:Manuscript of Malice\/a
 categories:
 - Census Credits

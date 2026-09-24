@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vsarcane: '+400'
-effects: '**Rebuke of the Summoner**'
+effect_name: Rebuke of the Summoner
+effects: "- Applies Rebuke of the Summoner when Activated.  Lasts for 20.0 seconds.\n  - Exerts the summoner's will upon the target, limiting their true power and making them extremely vulnerable to punishment.\n  - The reuse time of Rebuke of the Summoner is 3 minutes"
 obtained_from: '[[The Shasik Crystal (Quest)|The Shasik Crystal]]'
 item_link: \aITEM -1069397959 -2068134540:Band of the Greenmist Crusader\/a
 image: images/Band_of_the_Greenmist_Crusader.png

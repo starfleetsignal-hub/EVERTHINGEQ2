@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vsarcane: '+440'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -1113379768 28795435:Mystic Infused Bangle\/a
 categories:
 - Ability Modifier (Equipment)

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+13'
   sta: '+13'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 15.0."
 item_link: \aITEM -83741329 -1319312408:Waistband of Haste\/a
 categories:
 - Assassin Equipment

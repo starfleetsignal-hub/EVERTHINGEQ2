@@ -15,7 +15,8 @@ stats:
   potency: '1'
   abmod: '+25'
   vsarcane: '+186'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality VI on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 600 points of all damage\n    - Wards caster against 300 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 60) from [[Ancient Knowledge: Radiant Bangle of Alleviation]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 151868625 2009922925:Radiant Bangle of Alleviation\/a
 categories:

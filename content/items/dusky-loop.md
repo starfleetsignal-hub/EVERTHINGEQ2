@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vsnoxious: '+333'
-effects: '**Lesser Runic Barrier**'
+effect_name: Lesser Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 150 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable - former [[A Game of Grab Sap]]
 item_link: \aITEM -1837196660 1471882852:Dusky Loop\/a
 categories:

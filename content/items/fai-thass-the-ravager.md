@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Ethereal Ravaging**'
+effect_name: Ethereal Ravaging
+effects: "- When Equipped:\n  - On any combat or spell hit, Ethereal Ravaging may grant 100 fervor to the caster."
 item_link: \aITEM 943185275 1582761797:Fai Thass, The Ravager\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -1721321408 1717314805 0 0 0:Untamed Fell Boots\/a
 categories:

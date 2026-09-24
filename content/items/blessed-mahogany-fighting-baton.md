@@ -19,7 +19,8 @@ stats:
   drating: '67.31'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Smoldering Blessing**'
+effect_name: Smoldering Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Smoldering Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 120\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 77) from [[Advanced Woodworker Volume 77 (Heirloom)]] *Crafted by [[Woodworker]] (level 77) from [[Advanced Woodworker Volume 77 (Normal)]]'
 item_link: \aITEM 1543089346 -379076692:Blessed Mahogany Fighting Baton\/a
 categories:

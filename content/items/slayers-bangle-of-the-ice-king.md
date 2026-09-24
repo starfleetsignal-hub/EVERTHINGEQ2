@@ -15,7 +15,8 @@ stats:
   potency: '1.1'
   multi: '2.3'
   vsarcane: '+240'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -940764708 1181404872:Slayer's Bangle of the Ice King\/a
 categories:
 - Arcane Resistance (Equipment)

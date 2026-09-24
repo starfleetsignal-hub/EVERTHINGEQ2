@@ -18,7 +18,8 @@ stats:
   vselemental: '+664'
   vsnoxious: +1,162
   dtype: Leather Armor
-effects: '**Empowered Essence**'
+effect_name: Empowered Essence
+effects: "- When Equipped:\n  - Increases base Spell and Combat Art damage by 8%."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 categories:
 - Ability Modifier (Equipment)

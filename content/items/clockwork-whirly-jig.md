@@ -19,7 +19,8 @@ stats:
   abmod: +31,268
   aspeed: '69.5'
   dps: '52.8'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 43.7.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 25.2.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 219740146 -930238537:Clockwork Whirly Jig\/a
 categories:
 - Ability Modifier (Equipment)

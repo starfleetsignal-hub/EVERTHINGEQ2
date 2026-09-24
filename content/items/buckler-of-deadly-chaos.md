@@ -15,7 +15,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Buckler
-effects: '**Unbridled Savagery**'
+effect_name: Unbridled Savagery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Unbridled Savagery on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases DPS of caster by 45.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1523288139 1762702556:Buckler of Deadly Chaos\/a
 categories:
 - Berserker Equipment

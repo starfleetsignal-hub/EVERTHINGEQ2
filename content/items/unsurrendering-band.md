@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Never Retreat**'
+effect_name: Never Retreat
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Never Retreat on the raid.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of raid and group members (AE) by 2.0, multiplied by increment stacks.\n    - This effect can stack from multiple casters. Dispels if the caster moves. Increments up to 10 times.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 344356511 -1433148044:Unsurrendering Band\/a
 categories:
 - Arcane Resistance (Equipment)

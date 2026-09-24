@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Faultless Sight**'
+effect_name: Faultless Sight
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 256.7.\n  - The value of this effect is increased by the number of characters in the group or raid wearing an Amplifying Plume II effect to a maximum of double the base value. This plume is only active within Chrono Dungeon zones."
 obtained_from: 'Achievement reward: [[A Jubilee for You and Me IV]]'
 item_link: '\aITEM 654496609 711660259:Amplifying Plume III: Faultless Sight II\/a'
 categories:

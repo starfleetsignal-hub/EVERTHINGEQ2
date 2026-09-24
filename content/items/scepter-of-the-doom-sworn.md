@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Quickened**'
+effect_name: Quickened
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Spell Quickening on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Casting Speed of caster by 16.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1803145331 320940117:Scepter of the Doom Sworn\/a
 categories:
 - Ability Modifier (Equipment)

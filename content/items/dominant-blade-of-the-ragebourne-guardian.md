@@ -22,7 +22,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Phantasmal Siphon**'
+effect_name: Phantasmal Siphon
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,341 - 2,587 poison damage on target\n    - Heals caster for 1,170 - 1,294\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1593568539 1506675348:Dominant Blade of the Ragebourne Guardian\/a
 categories:
 - Berserker Equipment

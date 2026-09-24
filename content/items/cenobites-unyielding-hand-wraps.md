@@ -17,7 +17,8 @@ stats:
   potency: '7.2'
   aspeed: '8.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume I]]
 item_link: \aITEM 1150505661 1862328322:Cenobite's Unyielding Hand Wraps\/a
 categories:

@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Beholder
+effects: "- Applies **Spirit Totem of the Beholder** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a beholder\n  - Increases Out-of-Combat power Regeneration of caster by 84\n  - This effect suspends during combat\n  - Only affects targets level 60 and above"
 obtained_from: Crafted by [[Woodworker]] (level 69) from [[Woodworker Essentials Volume 69]]
 categories:
 - Assassin Equipment

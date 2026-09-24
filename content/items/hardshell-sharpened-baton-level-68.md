@@ -20,7 +20,8 @@ stats:
   drating: '69.72'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Lion''s Ferocity**'
+effect_name: Lion's Ferocity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lion's Ferocity on caster.  Triggers about 1.8 times per minute.\n    - Heals caster for 200.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 804791416 -1356750506:Hardshell Sharpened Baton\/a
 categories:
 - Ability Modifier (Equipment)

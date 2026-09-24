@@ -16,7 +16,8 @@ stats:
   abmod: '+197'
   aspeed: '9.7'
   vsarcane: '+511'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM 1052594093 -153245287:Bangle of Mending Spirit\/a
 categories:
 - Ability Modifier (Equipment)

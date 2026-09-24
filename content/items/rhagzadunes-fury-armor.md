@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +11,088
-effects: '**Venomous Fury**'
+effect_name: Venomous Fury
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Venomous Fury on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 301,840 poison damage on target.\n    - Increases Potency of caster by 34.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 795596745 -1739985570:Rhag'Zadune's Fury\/a
 categories:
 - Arcane Resistance (Equipment)

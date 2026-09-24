@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: Sold by [[Rockshaper Jorgun]] (Faction Merchant) in [[The Hole]]<br>Requires 20,000 faction with Guardians of the Underfoot
 item_link: \aITEM -771065902 -2014365464:Deadly Poisoned Doll\/a
 categories:

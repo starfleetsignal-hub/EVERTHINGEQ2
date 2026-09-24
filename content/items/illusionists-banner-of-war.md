@@ -15,7 +15,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   dps: '33.2'
-effects: '**Alliance of Illusions**'
+effect_name: Alliance of Illusions
+effects: "- Applies Alliance of Illusions when Activated.  Lasts for 12.0 seconds.\n  - Monitors the illusionists power usage. When this effect wears off, 30% of the power used will be restored to the group\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The casting time of Alliance of Illusions is 0.25 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -487308591 148621036:Illusionist's Banner of War\/a
 categories:

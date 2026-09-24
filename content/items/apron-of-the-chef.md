@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dps: '12.8'
-effects: '**Tender Loving Care**'
+effect_name: Tender Loving Care
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Tender Loving Care on the group.  Triggers about 2.0 times per minute.\n    - Increases power of group members (AE) by 132.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -93246897 1283506355:Apron of the Chef\/a
 categories:
 - Ability Modifier (Equipment)

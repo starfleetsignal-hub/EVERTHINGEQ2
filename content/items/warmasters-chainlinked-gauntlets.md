@@ -17,7 +17,8 @@ stats:
   dps: '18.3'
   multi: '24'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -422748899 -240907661 0 0 0:Warmaster's Chainlinked Gauntlets\/a
 categories:
 - Accuracy (Equipment)

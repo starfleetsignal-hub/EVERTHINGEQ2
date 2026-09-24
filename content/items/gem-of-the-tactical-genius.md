@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   dps: '27.1'
-effects: '**Tactical Genius**'
+effect_name: Tactical Genius
+effects: "- When Equipped:\n  - When the wearer's group completes a multi-class heroic opportunity, the wearer will gain 12% Crit Bonus for 30 seconds. Increments up to 3 times.\n  - When the other groups in the wearer's raid complete a multi-class heroic opportunity, the wearer will gain 12% Crit Bonus for 30 seconds. Increments up to 6 times.\n  - The amount of increments gained is based on the amount of classes who participated in the heroic opportunity."
 item_link: \aITEM 1876199319 -825495223:Gem of the Tactical Genius\/a
 categories:
 - Assassin Equipment

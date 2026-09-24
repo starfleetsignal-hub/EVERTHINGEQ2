@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mana Sieve**<br>**Viral Fetter**'
+effect_name: Mana Sieve, Viral Fetter
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Mana Sieve on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 112.\n    - Increases power of caster by 111.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a hostile spell cast this spell may cast Viral Fetter on target of spell.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases DPS of target by 4.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1024066886 -1302905723:Sparkling Scepter\/a
 categories:
 - Ability Modifier (Equipment)

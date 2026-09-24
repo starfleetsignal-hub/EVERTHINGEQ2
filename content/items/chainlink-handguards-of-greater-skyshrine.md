@@ -17,7 +17,8 @@ stats:
   abmod: '+393'
   dps: '27.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 367189849 -543874292:Chainlink Handguards of Greater Skyshrine\/a
 categories:
 - Ability Modifier (Equipment)

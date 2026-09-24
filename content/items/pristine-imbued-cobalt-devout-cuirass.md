@@ -17,7 +17,7 @@ stats:
   vsarcane: '+85'
   vsnoxious: '+85'
   dtype: Plate Armor
-effects: Lambent Imbued
+effects: "- Applies Lambent Imbued when equiped\n  - When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds.\n    - Heals target for 2 instantly and every 4 seconds."
 obtained_from: Crafted by [[Armorer]] (level )
 item_link: \aITEM -308445953 1845802578:Pristine Imbued Cobalt Devout Cuirass\/a
 categories:

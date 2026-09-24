@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   abmod: '+18'
   dps: '2.9'
-effects: '**Lightning Bolt**'
+effect_name: Lightning Bolt
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Lightning Bolt on target's attacker.\n    - Inflicts 112 - 137 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -511344190 -836076314:Belt of Dark Voices\/a
 categories:
 - Ability Modifier (Equipment)

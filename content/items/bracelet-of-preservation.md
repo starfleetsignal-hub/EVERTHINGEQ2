@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Speedy Advance**'
+effect_name: Speedy Advance
+effects: "- When Equipped:\n  - Whenever the group strikes a deathblow, they will gain increased 10% out of combat movement speed per increment. Increments up to 15 times. Dispels when a group member dies.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 803391986 -1911653344:Bracelet of Preservation\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Glowing Blessing**'
+effect_name: Glowing Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Glowing Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 10\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Craftsman]] (level 15) from [[Advanced craftsman volume 15 (Normal)]] *Crafted by [[Craftsman]] (level 15) from [[Advanced craftsman volume 15 (No-Trade)]]'
 item_link: \aITEM -351411282 -879669417:Blessed Bone Wand\/a
 categories:

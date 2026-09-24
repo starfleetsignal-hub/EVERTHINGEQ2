@@ -17,7 +17,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   multi: '17.5'
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1949378715 -1930628301:Poison-Dripped Gem of Theldek\/a
 categories:
 - Assassin Equipment

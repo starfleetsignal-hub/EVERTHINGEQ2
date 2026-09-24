@@ -14,7 +14,8 @@ stats:
   critbonus: '6.3'
   potency: '10.6'
   dtype: Buckler
-effects: '**Aegis**<br>**Stout**'
+effect_name: Aegis, Stout
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Aegis IV on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 4,840 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Health Regen of caster by 10.0.\n  - Increases Max Health of caster by 1,444.4.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1185873774 975615567:Dragonscale Buckler of the Underdepths\/a
 categories:
 - Aegis (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+360'
-effects: '**Ethereal Recovery**'
+effect_name: Ethereal Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of spells by 5%.\n  - On a hostile spell cast this spell may cast Ethereal Recovery on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of group members by 120 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 678051889 439663349:Earring of Unkempt Energies\/a
 categories:
 - Ability Modifier (Equipment)

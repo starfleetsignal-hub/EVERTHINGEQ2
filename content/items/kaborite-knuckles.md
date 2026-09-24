@@ -20,7 +20,8 @@ stats:
   drating: '120.04'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Scornful Presence**'
+effect_name: Scornful Presence
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Scornful Presence on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Hate Gain of caster by 5.0.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Scornful Presence on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Increases Hate Gain of caster by 5.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM -1159975059 -1141056919:Kaborite Knuckles\/a
 categories:

@@ -11,7 +11,8 @@ stats:
   sta: '+14'
   mit: '70'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds.\n    - Heals target for 26 instantly and every 4 seconds\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 33) from [[Tailor Essentials Volume 33]]
 item_link: \aITEM 2037175736 67532566:Imbued Etched Leather Vest\/a
 aliases:

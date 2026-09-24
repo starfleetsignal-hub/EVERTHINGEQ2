@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   abmod: '+270'
   dps: '21.1'
-effects: '**Perfectly Executed Combination**'
+effect_name: Perfectly Executed Combination
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Perfectly Executed Combination on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 1000.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Perfectly Executed Combination on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 1000.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1380270527 798251577:Divine Girdle of Winter\/a
 categories:
 - Ability Modifier (Equipment)

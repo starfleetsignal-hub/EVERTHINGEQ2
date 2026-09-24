@@ -20,7 +20,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Cogent**<br>**Silver Ward**'
+effect_name: Cogent, Silver Ward
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 60.0.\n  - Increases Potency of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Silver Ward III on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 5,700 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1453504896 455927255:Stout Hammer of Fuga\/a
 categories:
 - Assassin Equipment

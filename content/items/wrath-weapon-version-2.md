@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Wrath**'
+effect_name: Wrath
+effects: "- Applies Wrath when Activated.  Lasts for 15.0 seconds.\n  - Increases damage done by spells by up to 250.\n  - Must have Wrath equipped.\n  - The reuse time of Wrath is 3 minutes"
 item_link: \aITEM -1230218883 871860129:Wrath\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: +1,622
   aspeed: '36.7'
   dps: '14'
-effects: '**Salvo**'
+effect_name: Salvo
+effects: "- Applies Salvo when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 162.0.\n  - Increases Crit Bonus of caster by 162.0.\n  - Increases Potency of raid and group members (AE) by 4.0.\n  - Increases Crit Bonus of raid and group members (AE) by 4.0.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Salvo is 1 minute"
 item_link: \aITEM 835099974 916165457:Abyssral's Focused Eye\/a
 categories:
 - Ability Modifier (Equipment)

@@ -22,7 +22,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**End of the Beginning**'
+effect_name: End of the Beginning
+effects: "- Applies End of the Beginning when Equipped.\n  - Increases Max Health of caster by 599.9%.\n  - Increases Combat XP of caster by 10.0%.\n    - If under level 127\n  - On death, this spell will repair the condition lost on worn equipment. This effect can only trigger once every 30 minutes. Does not affect items that benefit from lost condition.\n  - Requires having completed one of the following achievements:  \"Laid to Unrest [Heroic I]\", \"No Unrest for the Weary [Heroic II]\", \"Unrest in Pieces [Heroic III]\"."
 obtained_from: 'Crafted by [[Artisan]] (level 125) from [[Recipe Scroll: Enlivened Weapons II]]'
 item_link: \aITEM -2131756845 -197654719:Enlivened Wand of the Sandswept Delta\/a
 categories:

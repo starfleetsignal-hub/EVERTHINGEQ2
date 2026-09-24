@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Natural Spark**'
+effect_name: Natural Spark
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Natural Spark on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 102 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1430749187 117847380:Necklace of Natural Power\/a
 image: images/Necklace_of_Natural_Power.jpg
 categories:

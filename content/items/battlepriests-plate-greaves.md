@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   dtype: Plate Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 294.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Sold by [[Dealer Zaynx]] (Faction Merchant) in [[Kunzar Jungle]]
 item_link: \aITEM 507698174 1830817897:Battlepriest's Plate Greaves\/a
 categories:

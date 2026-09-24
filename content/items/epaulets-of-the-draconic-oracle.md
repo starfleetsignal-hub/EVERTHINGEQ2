@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   dtype: Cloth Armor
-effects: '**Demolishing Boulder**'
+effect_name: Demolishing Boulder
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Demolishing Boulder on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 5,144 - 5,686 crushing damage on target encounter.\n    - Decreases Potency of target encounter by 5.0.\n    - Increases Potency of group members (AE) by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Epaulets Of The Draconic Oracle]] *Made from [[Dragon Hide]] *Made from [[Maligonian Horns]] *Made from [[Wyvern Stinger]]'
 item_link: \aITEM -941843789 -978551138:Epaulets of the Draconic Oracle\/a
 categories:

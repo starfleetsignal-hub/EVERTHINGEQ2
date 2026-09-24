@@ -17,7 +17,8 @@ stats:
   abmod: '+101'
   aspeed: '5.7'
   dtype: Cloth Armor
-effects: '**Blazing Conjurations**'
+effect_name: Blazing Conjurations
+effects: "- When Equipped:\n  - Applies Blazing Conjurations to qualifying pets.\n    - Increases Crit Chance of target by 5.0.\n    - Increases Potency of target by 5.0.\n    - On any combat or spell hit this spell may cast Magma Strike on target of attack.  Triggers about 1.6 times per minute.\n      - Inflicts 680 - 832 heat damage on target.\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell may cast Magma Strike on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 680 - 832 heat damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1149108052 1394895347:Fire Runed Robe of Summoning\/a
 categories:
 - Ability Modifier (Equipment)

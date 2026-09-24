@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   flurry: '2'
-effects: '**Enshrouding Darkness**'
+effect_name: Enshrouding Darkness
+effects: "- Applies Enshrouding Darkness when Activated.  Lasts for 1 minute.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - Dispelled when target takes damage\n  - This effect cancels during combat\n  - The casting time of Enshrouding Darkness is 5.0 seconds and the reuse time of the spell is 30 minutes"
 item_link: \aITEM -1426469978 1865135951:Shard of Vul\/a
 categories:
 - Assassin Equipment

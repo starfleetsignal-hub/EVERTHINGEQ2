@@ -17,7 +17,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 1088862691 -1975237874 0 0 0:Numinous Voidlink Boots\/a
 categories:

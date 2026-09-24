@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending IV on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target by 0.8%.\n    - Inflicts 98,560 disease damage on target instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 362052061 -873154047:Bangle of Primal Rending\/a
 categories:
 - AE Autoattack Chance (Equipment)

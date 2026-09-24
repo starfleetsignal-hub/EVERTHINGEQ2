@@ -17,7 +17,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 126 - 233 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1765093507 765916212:Imbued Ebon Falchion\/a
 aliases:
 - Imbued Ebon Falchion (Gleaming Strike) (Level 42)

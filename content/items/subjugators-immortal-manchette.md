@@ -17,7 +17,8 @@ stats:
   dps: '11.1'
   multi: '14.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -684516256 -1757331810:Subjugator's Immortal Manchette\/a
 categories:
 - Accuracy (Equipment)

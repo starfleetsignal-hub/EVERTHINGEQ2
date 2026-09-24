@@ -17,7 +17,8 @@ stats:
   aspeed: '36.7'
   dps: '28.1'
   multi: '20.5'
-effects: '**Killing Chamber**'
+effect_name: Killing Chamber
+effects: "- Applies Killing Chamber when Activated.  Lasts for 30.0 seconds.\n  - Summons a sigil on the ground that makes any raid member gain a high chance to inflict poison damage on any target they attack.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Killing Chamber is 2 minutes"
 item_link: \aITEM -151839423 -235304423:Fungus-Covered Mug\/a
 categories:
 - Assassin Equipment

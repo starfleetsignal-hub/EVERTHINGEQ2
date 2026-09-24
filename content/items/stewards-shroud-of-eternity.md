@@ -14,7 +14,8 @@ stats:
   critbonus: '11.1'
   potency: '11.1'
   multi: '105'
-effects: '**Undaunted Devotion**'
+effect_name: Undaunted Devotion
+effects: "- Applies Undaunted Devotion when Activated.\n  - The caster is granted a beneficial effect from Drinal's Steward.\n  - The casting time of Undaunted Devotion is 0.5 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[Shades of Drinal: Fate''s Crusade]]'
 item_link: \aITEM -979602710 -1224835744:Steward's Shroud of Eternity\/a
 image: images/Steward's_Shroud_of_Eternity.png

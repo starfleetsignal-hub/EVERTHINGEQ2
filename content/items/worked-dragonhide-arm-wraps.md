@@ -18,7 +18,8 @@ stats:
   multi: '18.1'
   mitinc: '11.6'
   dtype: Leather Armor
-effects: '**Draconic Juggernaut**'
+effect_name: Draconic Juggernaut
+effects: "- When Equipped:\n  - Gives caster an extra 5.0% mitigation to their worn armor.\n  - Increases Hate Gain of caster by 5.0.\n  - Increases Strikethrough of caster by 5.0%."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Worked Dragonhide Arm Wraps]] *Made from [[Prime Bone Golem Shards]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Wyvern Stinger]]'
 item_link: \aITEM 812669277 -523469364:Worked Dragonhide Arm Wraps\/a
 categories:

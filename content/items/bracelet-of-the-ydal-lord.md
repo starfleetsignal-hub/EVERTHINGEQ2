@@ -16,7 +16,8 @@ stats:
   dps: '12'
   multi: '7.4'
   vselemental: '+800'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: 'Collection reward: [[Mistmoore''s Artifacts]]'
 item_link: \aITEM 1952137444 -206159530:Bracelet of the Ydal Lord\/a
 image: images/Bracelet_of_the_Ydal_Lord.png

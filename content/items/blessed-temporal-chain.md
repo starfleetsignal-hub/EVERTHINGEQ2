@@ -12,7 +12,8 @@ stats:
   wis: '+58'
   abmod: '+75'
   vselemental: '+440'
-effects: '**Runic Recovery**<br>**Rapid Casting**'
+effect_name: Runic Recovery, Rapid Casting
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent.\n- Applies Rapid Casting when Activated.  Lasts for 20.0 seconds.\n  - Increases Casting Speed of caster by 50.0%.\n  - Dispelled when target casts a spell\n  - Must be engaged in pvp combat\n  - The reuse time of Rapid Casting is 3 minutes"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM 1607090946 -2081739210:Blessed Temporal Chain\/a
 categories:

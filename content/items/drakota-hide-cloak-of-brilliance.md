@@ -14,7 +14,8 @@ stats:
   critbonus: '6.3'
   potency: '10.6'
   aspeed: '16.8'
-effects: '**Spellweaver''s Magnitude**'
+effect_name: Spellweaver's Magnitude
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Spellweaver's Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases INT and WIS of caster by 44.0.\n    - Increases Casting Speed of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Spellweaver's Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases INT and WIS of caster by 44.0.\n    - Increases Casting Speed of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1608060862 181360911:Drakota Hide Cloak of Brilliance\/a
 categories:
 - Assassin Equipment

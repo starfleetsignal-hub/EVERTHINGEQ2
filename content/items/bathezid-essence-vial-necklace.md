@@ -13,7 +13,8 @@ stats:
   crit: '2.4'
   critbonus: '0.8'
   potency: '3.7'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Alchemist]] (level 70) from [[Bathezid Alchemy Volume II]]
 item_link: \aITEM 167875271 -23387673:Bathezid Essence Vial Necklace\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   potency: '0.5'
   abmod: '+14'
   vsarcane: '+130'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm V when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter V on termination.\n    - Inflicts 2,238 - 2,474 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 56 - 68 poison damage on target.\n  - Inflicts 70 - 85 poison damage on target every second.\n  - Inflicts an additional 27 - 34 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm V is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 50) from [[Ancient Knowledge: Lucid Stud of Extermination]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 2079726699 611766362:Lucid Stud of Extermination\/a
 categories:

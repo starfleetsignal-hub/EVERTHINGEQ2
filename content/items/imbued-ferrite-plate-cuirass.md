@@ -16,7 +16,8 @@ stats:
   critbonus: '0.8'
   potency: '3.4'
   dtype: Plate Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 60 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 79) from [[Armorer Essentials Volume 79 (Normal)]] *Crafted by [[Armorer]] (level 79) from [[Armorer Essentials Volume 79 (no-trade)]]'
 item_link: \aITEM 2097249597 414943772:Imbued Ferrite Plate Cuirass\/a
 categories:

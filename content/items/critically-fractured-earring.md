@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +11,831
-effects: '**Practiced Aim**'
+effect_name: Practiced Aim
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Aim on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the group's Crit Bonus by 0.7 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 42 Crit Bonus.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume III]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM -77197199 -565060277:Critically Fractured Earring\/a
 categories:

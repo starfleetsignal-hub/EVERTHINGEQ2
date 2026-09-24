@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+142'
-effects: '**Hate''s Fate**'
+effect_name: Hate's Fate
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Hate's Fate on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Block Chance of target by 7.0%.\n    - Increases Mitigation of target vs all damage by 800.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1612788750 -1454500698:Cord of Innoruuk's Favored\/a
 categories:
 - Ability Modifier (Equipment)

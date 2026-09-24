@@ -17,7 +17,8 @@ stats:
   potency: '1'
   dps: '4.2'
   dtype: Chain Armor
-effects: '**Excavator''s Dedication**'
+effect_name: Excavator's Dedication
+effects: '- Applies Excavator''s Dedication when Equipped.'
 obtained_from: '[[Tinkering with Toggery]]'
 item_link: \aITEM 179531790 1113997410:Toggery's Tinkered Excavation Helm\/a
 image: images/Toggery's_Tinkered_Excavation_Helm.jpg

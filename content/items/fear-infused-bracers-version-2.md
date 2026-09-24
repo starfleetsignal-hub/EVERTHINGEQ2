@@ -17,7 +17,8 @@ stats:
   abmod: '+62'
   multi: '4.8'
   dtype: Chain Armor
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM -1399649919 -113796641:Fear-infused Bracers\/a
 categories:
 - Ability Modifier (Equipment)

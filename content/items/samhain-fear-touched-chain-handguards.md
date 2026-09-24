@@ -17,7 +17,8 @@ stats:
   dps: '20.4'
   multi: '26.8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: From [[Crate of Ethereal Goodies]]
 item_link: \aITEM 307825390 -949303602 0 0 0:Samhain Fear-Touched Chain Handguards\/a
 categories:

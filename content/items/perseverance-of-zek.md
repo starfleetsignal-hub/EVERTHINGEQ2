@@ -13,7 +13,8 @@ stats:
   crit: '4.2'
   critbonus: '1.5'
   potency: '6.6'
-effects: '**Storm''s Fury**'
+effect_name: Storm's Fury
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Storm's Fury on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of group members by 5.0%.\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Storm's Fury on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of group members by 5.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -873603013 102510582:Perseverance of Zek\/a
 categories:
 - Assassin Equipment

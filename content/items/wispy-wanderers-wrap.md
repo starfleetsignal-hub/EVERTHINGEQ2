@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   aspeed: '10.2'
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2051409484 620278381:Wispy Wanderer's Wrap\/a
 categories:
 - Assassin Equipment

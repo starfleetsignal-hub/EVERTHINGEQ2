@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   dps: '13'
   vsarcane: '+400'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -746082219 1255150069:Band of Swirling Portals\/a
 categories:
 - Ability Modifier (Equipment)

@@ -23,7 +23,8 @@ stats:
   drating: '3447.36'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Surprising Sidestep**'
+effect_name: Surprising Sidestep
+effects: "- When Equipped:\n  - When damaged this spell has a 15% chance to cast Surprising Sidestep on caster.  Lasts for 15.0 seconds.\n    - Increases Flurry Multiplier of target by 0.4.\n    - Increases Flurry of Target by 8.1.\n    - Increases Casting Speed of target by 10.0%.\n    - Increases Reuse Speed of target by 10.0%.\n    - Increases Fervor of target by 10.8.\n    - Increases Max Health of target by 59.4.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 30.0 seconds."
 item_link: \aITEM 1440462251 -2044814889:The Crone's Gnarled Staff\/a
 categories:
 - Ability Modifier (Equipment)

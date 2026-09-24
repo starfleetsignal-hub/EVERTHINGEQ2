@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 845792851 1730702:Wrist of Rock Solid Stance\/a
 categories:
 - Arcane Resistance (Equipment)

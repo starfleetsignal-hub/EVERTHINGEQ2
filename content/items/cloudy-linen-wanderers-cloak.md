@@ -12,7 +12,8 @@ stats:
   agi: '+13'
   potency: '0.2'
   dps: '1.1'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 5.0."
 obtained_from: Crafted by [[Tailor]] (level 43) from [[Traveler's Guide of the Tailor Volume 5]]
 item_link: \aITEM -1553460600 203388682:Cloudy Linen Wanderer's Cloak\/a
 categories:

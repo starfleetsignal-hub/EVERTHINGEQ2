@@ -11,7 +11,8 @@ stats:
   str: '+12'
   sta: '+12'
   vsarcane: '+60'
-effects: '**Water Breathing**'
+effect_name: Water Breathing
+effects: "- Applies Water Breathing when Activated.  Lasts for 12 hours.\n  - Allows caster to breathe under water"
 item_link: \aITEM -263224437 1205992294:Fishbone Earring\/a
 aliases:
 - Fishbone Earring (Level 32)

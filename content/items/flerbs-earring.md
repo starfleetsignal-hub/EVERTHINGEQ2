@@ -15,7 +15,8 @@ stats:
   aspeed: '28'
   multi: '19.6'
   vselemental: +8,019
-effects: '**Silver Ward**'
+effect_name: Silver Ward
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Silver Ward I on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 5,000 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 153296803 998673875:Flerb's Earring\/a
 categories:
 - Arcane Resistance (Equipment)

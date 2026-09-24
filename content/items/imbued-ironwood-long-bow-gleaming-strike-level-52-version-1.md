@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 165 - 307 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 593694044 1936632954:Imbued Ironwood Long Bow\/a
 aliases:
 - Imbued Ironwood Long Bow (Gleaming Strike) (Level 52)

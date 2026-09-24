@@ -13,7 +13,8 @@ stats:
   crit: '1.7'
   critbonus: '0.5'
   potency: '2.5'
-effects: '**Soultap**'
+effect_name: Soultap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Soultap on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 101 divine damage on target.\n    - Heals caster for 100.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Dark Beacon (Quest)|The Dark Beacon]]'
 item_link: \aITEM -1122351747 110925588:Drape of Hatred\/a
 categories:

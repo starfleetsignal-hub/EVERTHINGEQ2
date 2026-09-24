@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   abmod: '+32'
-effects: '**Lesser Fallout**'
+effect_name: Lesser Fallout
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Fallout on caster.  Lasts for 12.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases DPS of targets in Area of Effect by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Keep Your Enemies Closer]]'
 item_link: \aITEM 1258205148 -1727946119:Broken Toe Belt of Blasting\/a
 image: images/Broken_Toe_Belt_of_Blasting.jpg

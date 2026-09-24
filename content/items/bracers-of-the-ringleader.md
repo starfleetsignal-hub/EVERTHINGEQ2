@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Stun**'
+effect_name: Stun
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stun VI on target of attack.  Lasts for 3.5 seconds.  Triggers about 1.2 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 84.\n    - Cannot be modified except by direct means"
 obtained_from: Can be bought from vendors on PvP-Servers.
 item_link: \aITEM 654641427 -1924091746:Bracers of the Ringleader\/a
 categories:

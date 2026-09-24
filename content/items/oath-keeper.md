@@ -16,7 +16,8 @@ stats:
   dps: '28.1'
   vselemental: +30,687
   mitinc: '7.4'
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 37.5.\n  - Increases Potency of caster by 37.5."
 item_link: \aITEM 755351068 1154760254:Oath Keeper\/a
 categories:
 - Arcane Resistance (Equipment)

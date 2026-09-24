@@ -17,7 +17,8 @@ stats:
   abmod: +1,654
   aspeed: '37.4'
   dps: '14.3'
-effects: '**Chain Reaction Chill**'
+effect_name: Chain Reaction Chill
+effects: "- Applies Chain Reaction Chill when Activated.\n  - Triggers a burst of intense cold from yourself and any allies within 10m, dealing 95,000 cold damage per ally.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Chain Reaction Chill is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 1555956184 -2027009057:Short Circuiting Lamp\/a
 categories:
 - Ability Modifier (Equipment)

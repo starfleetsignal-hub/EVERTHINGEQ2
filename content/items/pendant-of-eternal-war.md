@@ -16,7 +16,8 @@ stats:
   critbonus: '732.8'
   potency: 9,719.1
   resolve: '210'
-effects: '**Fervor of War**'
+effect_name: Fervor of War
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 4.0."
 item_link: \aITEM -1263319678 1412071171:Pendant of Eternal War\/a
 categories:
 - Ability Doublecast (Equipment)

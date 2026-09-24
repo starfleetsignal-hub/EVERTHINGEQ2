@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   dps: '8.2'
   dtype: Tower Shield
-effects: '**Scale Mend**'
+effect_name: Scale Mend
+effects: "- When Equipped:\n  - When healed this spell has a 10% chance to cast Scale Mend on caster.  Lasts for 12.0 seconds.\n    - Healing spells heal up to 100 points more.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Armorer]] (level 70) from [[Tunare's Gifts, volume 3]]
 item_link: \aITEM -1372805932 1035521366:Scaled Shield of Growth\/a
 categories:

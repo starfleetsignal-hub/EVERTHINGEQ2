@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   potency: '0.2'
   abmod: '+7'
-effects: '**Final Stab**'
+effect_name: Final Stab
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Final Stab IV on target of spell.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Final Stab IV on target of attack.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 40) from [[Ancient Knowledge: Oiled Jewel of Elusivity]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 733625659 282240269:Oiled Jewel of Elusivity\/a
 categories:

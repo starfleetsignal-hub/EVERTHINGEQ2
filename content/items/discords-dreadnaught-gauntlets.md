@@ -15,7 +15,8 @@ stats:
   critbonus: '2.9'
   abmod: '+41'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1018738203 1300577616:Discord's Dreadnaught Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

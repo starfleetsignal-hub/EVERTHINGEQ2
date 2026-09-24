@@ -19,7 +19,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 10 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1909372785 -1372708093:Mausoleum Liminal Greaves\/a
 categories:
 - Brawler Equipment

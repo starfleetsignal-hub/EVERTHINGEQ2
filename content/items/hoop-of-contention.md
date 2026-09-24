@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   vsarcane: '+140'
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 24.0.\n  - This effect suspends during combat"
 item_link: \aITEM -778655931 715297897:Hoop of Contention\/a
 categories:
 - Arcane Resistance (Equipment)

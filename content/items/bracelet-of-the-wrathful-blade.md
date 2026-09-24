@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Riftblade**'
+effect_name: Riftblade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Riftblade V on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 387,200 crushing damage on targets in Area of Effect.\n    - Does not apply to the target it triggered on\n    - Cannot be modified except by direct means"
 item_link: \aITEM -863032116 1688615296:Bracelet of the Wrathful Blade\/a
 categories:
 - AE Autoattack Chance (Equipment)

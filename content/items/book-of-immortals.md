@@ -17,7 +17,8 @@ stats:
   dps: '10.5'
   vsnoxious: '+356'
   dtype: Symbols
-effects: '**Magical Aptitude**'
+effect_name: Magical Aptitude
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 5 percent."
 item_link: \aITEM -1249665294 -954960493:Book of Immortals\/a
 image: images/Book_of_Immortals.png
 categories:

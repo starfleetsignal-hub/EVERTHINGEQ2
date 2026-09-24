@@ -15,7 +15,8 @@ stats:
   abmod: '+195'
   aspeed: '29.3'
   vselemental: +8,415
-effects: '**Rack**'
+effect_name: Rack
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 6%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1123927045 561986187 0 0 0:Rack\/a
 categories:
 - Ability Modifier (Equipment)

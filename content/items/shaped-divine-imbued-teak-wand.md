@@ -15,7 +15,8 @@ stats:
   drating: '31.45'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Holy Strike**'
+effect_name: Holy Strike
+effects: "- Applies Holy Strike when Activated.\n  - Inflicts 146 - 243 divine damage on target.\n  - The casting time of Holy Strike is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1617893212 1917637762:Shaped Divine Imbued Teak Wand\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Cloth Armor
-effects: '**Cabalistic Nexus**'
+effect_name: Cabalistic Nexus
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 3.0%.\n  - Increases Potency of caster by 3.0."
 obtained_from: '*Crafted by [[Tailor]] (level 70) from [[Ancient Knowledge: Tranquil Robe of Destruction]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -564594245 -180860446:Tranquil Robe of Destruction\/a
 categories:

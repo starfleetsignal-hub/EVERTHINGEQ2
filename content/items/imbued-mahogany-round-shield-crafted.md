@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   dtype: Round Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 177 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 70) from [[Advanced Woodworker Volume 70 (Heirloom)]] *Crafted by [[Woodworker]] (level 70) from [[Advanced Woodworker Volume 70 (Normal)]]'
 item_link: \aITEM -2109833367 2090807796:Imbued Mahogany Round Shield\/a
 categories:

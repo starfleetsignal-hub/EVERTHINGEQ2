@@ -17,7 +17,8 @@ stats:
   aspeed: '7'
   multi: '7.8'
   dtype: Plate Armor
-effects: '**Seething Hatred**'
+effect_name: Seething Hatred
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Seething Hatred on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces physical damage done to caster by 5%.\n    - Increases Threat to target by 9,520 - 11,489\n      - Must be in front of\n    - Inflicts 535 - 653 disease damage on target.\n    - Increases Casting Speed of caster by 10.0%.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Dropped by *[[Avatar of Disease]] in [[Antonica]] *[[Avatar of Hate]] in [[Nektulos Forest]]
 item_link: \aITEM 1477297102 -1805258309:Breastplate of Seething Hatred\/a
 image: images/Breastplate_of_Seething_Hatred.jpg

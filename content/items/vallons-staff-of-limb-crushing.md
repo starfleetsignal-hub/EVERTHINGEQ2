@@ -21,7 +21,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Cogent**<br>**Soothing Sigil**'
+effect_name: Cogent, Soothing Sigil
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil IV on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 221 levels of any hostile effects on target\n    - Heals target for 5,610 - 6,200.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -132430124 -971936824:Vallon's Staff of Limb Crushing\/a
 categories:
 - Ability Modifier (Equipment)

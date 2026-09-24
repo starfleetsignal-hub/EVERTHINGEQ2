@@ -16,7 +16,8 @@ stats:
   dps: '28.8'
   vselemental: +33,491
   mitinc: '7.9'
-effects: '**Pirate''s Aim**'
+effect_name: Pirate's Aim
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Pirate's Aim on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 419,238.\n    - Increases Potency of target by 50.0.\n    - Increases Potency of caster by 100.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1627346360 1046771501:Htardlem's Wrathful Stud\/a
 categories:
 - Arcane Resistance (Equipment)

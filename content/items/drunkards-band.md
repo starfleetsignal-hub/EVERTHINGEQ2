@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   dps: '31.2'
   vselemental: +26,832
-effects: '**Bolstered Block**'
+effect_name: Bolstered Block
+effects: "- When Equipped:\n  - Casting a group AE block ability will apply Bolstered Block to the group, increasing the group's Potency and Crit Bonus by 50% for 20 seconds. This effect does not stack with multiple AE block abilities."
 item_link: \aITEM 1584698162 1942536936:Drunkard's Band\/a
 categories:
 - Arcane Resistance (Equipment)

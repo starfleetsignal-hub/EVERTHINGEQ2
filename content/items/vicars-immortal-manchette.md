@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   dps: '12.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -366289460 -691758547:Vicar's Immortal Manchette\/a
 categories:
 - Census Credits

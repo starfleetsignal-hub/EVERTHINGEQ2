@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: '[[Gathering the Hides]]'
 item_link: \aITEM -900147116 1454164783:Mind's Eye Sleeves\/a
 categories:

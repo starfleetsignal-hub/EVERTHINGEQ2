@@ -17,7 +17,8 @@ stats:
   dps: '21.4'
   multi: '28'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Achievement reward: [[Restorer of Life]]'
 item_link: \aITEM 1194345817 -1825808748:Handguards of Restoring Life\/a
 categories:

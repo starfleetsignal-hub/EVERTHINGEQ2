@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+505'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1223484906 1444676261 0 0 0:Primaeval Eldritch Gloves\/a
 categories:
 - Ability Modifier (Equipment)

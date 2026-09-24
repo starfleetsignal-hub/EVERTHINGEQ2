@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +11,831
-effects: '**Practiced Swings**'
+effect_name: Practiced Swings
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Swings on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the group's Weapon Damage Bonus  by 0.5 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 30 Weapon Damage Bonus .\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume III]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM -961334007 -587833594:Corrupted Earspikes\/a
 categories:

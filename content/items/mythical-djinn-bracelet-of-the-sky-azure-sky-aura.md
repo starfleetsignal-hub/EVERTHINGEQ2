@@ -17,7 +17,8 @@ stats:
   multi: '42.2'
   flurry: '0.6'
   vselemental: +9,950
-effects: '**Azure Sky Aura**<br>**Mythical Carpet of the Djinn Master**'
+effect_name: Azure Sky Aura, Mythical Carpet of the Djinn Master
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 3.0.\n  - Increases Reuse Speed of caster by 6.0%.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 1,000.0.\n  - Cannot be modified except by direct means\n- Applies Mythical Carpet of the Djinn Master when Activated.\n  - Increases Max Health of caster by 2,000.0.\n  - Increases Max Power of caster by 2,000.0.\n  - Increases Crit Bonus of caster by 13.0.\n  - Increases Potency of caster by 13.0.\n  - Increases Crit Chance of caster by 75.0.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%\n  - Cannot be modified except by direct means\n  - The casting time of Mythical Carpet of the Djinn Master is 1.0 second"
 item_link: \aITEM 1530343011 -178932652:Mythical Djinn Bracelet of the Sky\/a
 categories:
 - Arcane Resistance (Equipment)

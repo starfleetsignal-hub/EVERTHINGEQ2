@@ -18,7 +18,8 @@ stats:
   resolve: '110'
   aspeed: '76.5'
   flurry: '42'
-effects: '**Enlightened Ascension**'
+effect_name: Enlightened Ascension
+effects: "- When Equipped:\n  - Reduces the recast time of all Ascension abilities by 20%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1683200165 -1877344802:Fabled Shard of Carnage\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   resolve: '23'
   flurry: '27'
   vselemental: +55,296
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 item_link: \aITEM 1314344396 -373257594:Hoop of Terris\/a
 categories:
 - Arcane Resistance (Equipment)

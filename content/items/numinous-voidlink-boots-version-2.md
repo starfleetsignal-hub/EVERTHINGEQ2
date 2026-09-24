@@ -17,7 +17,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 item_link: \aITEM -1871338756 -1975237874 0 0 0:Numinous Voidlink Boots\/a
 categories:
 - Attack Speed (Equipment)

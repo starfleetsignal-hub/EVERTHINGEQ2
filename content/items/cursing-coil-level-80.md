@@ -16,7 +16,8 @@ stats:
   abmod: '+101'
   vselemental: '+360'
   mitinc: '4.1'
-effects: '**Cursed Verse**'
+effect_name: Cursed Verse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cursed Verse on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Caster is immune to riposte damage.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -145783645 -1925443063 0 0 0:Cursing Coil\/a
 categories:
 - Ability Modifier (Equipment)

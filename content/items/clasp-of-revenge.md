@@ -17,7 +17,8 @@ stats:
   resolve: '32'
   vselemental: +73,025
   mitinc: '19.6'
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 6.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1858845801 -1831578206:Clasp of Revenge\/a
 categories:
 - Aegis of Animosity (Equipment)

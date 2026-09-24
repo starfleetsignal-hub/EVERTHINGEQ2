@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   multi: '3.4'
-effects: '**Hex of Shadows**'
+effect_name: Hex of Shadows
+effects: "- Applies Hex of Shadows when Activated.  Lasts for 1 minute 48 seconds.\n  - Applies Hex of Fright.  Lasts for 1 minute 48 seconds.\n    - Decreases Haste of target by 12.0.\n    - Cannot be modified except by direct means\n  - Slows target by 30.0%.\n  - 5% chance to dispel when target takes damage\n  - 5% chance to dispel when target receives hostile action\n  - The casting time of Hex of Shadows is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 66) from [[Tailor Essentials Volume 66 (Normal)]] *Crafted by [[Tailor]] (level 66) from [[Tailor Essentials Volume 66 (no-trade)]]'
 item_link: \aITEM -1851315282 -2007997635:pristine shadow imbued windcloth hex doll\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   critbonus: '3'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM -1324641104 -203578810:Tormenting Helm\/a
 categories:
 - Ability Modifier (Equipment)

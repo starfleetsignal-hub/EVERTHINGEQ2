@@ -15,7 +15,8 @@ stats:
   potency: '5'
   dps: '12.6'
   vselemental: '+400'
-effects: '**Hypnotic Defense**'
+effect_name: Hypnotic Defense
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Hypnotic Defense on target's attacker.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Mesmerizes target\n    - Dispelled when target takes damage\n    - Only affects targets level 98 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 535994949 17763131:Obsession Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

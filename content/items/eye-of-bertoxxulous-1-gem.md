@@ -15,7 +15,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Bertoxxulous'' Blessing**'
+effect_name: Bertoxxulous' Blessing
+effects: "- Applies Bertoxxulous' Blessing II when Activated.  Lasts for 1 minute 30 seconds.\n  - Inflicts 277,830 disease damage on target instantly and every second.\n  - Inflicts an additional 30,870 disease damage on target every tick.\n  - Inflicts 5.0% of max health in disease damage on caster instantly and every second.\n  - Inflicts an additional 1.0% of max health in disease damage on caster every tick.\n  - Cannot be modified except by direct means\n  - The reuse time of Bertoxxulous' Blessing II is 1 minute 30 seconds"
 item_link: \aITEM -2051365506 765813758:Eye of Bertoxxulous\/a
 categories:
 - Ability Modifier (Equipment)

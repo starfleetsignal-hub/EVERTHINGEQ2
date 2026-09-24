@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM 836964093 395372937:Sarilik Hammer of Forging\/a
 categories:
 - Beastlord Equipment

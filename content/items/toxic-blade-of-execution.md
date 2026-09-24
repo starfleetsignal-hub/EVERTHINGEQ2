@@ -16,7 +16,8 @@ stats:
   drating: '9.73'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Vitality Consumption**'
+effect_name: Vitality Consumption
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Vitality Consumption on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 23 - 25 disease damage on target.\n    - Heals caster for 16 - 18.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Vitality Consumption on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 23 - 25 disease damage on target.\n    - Heals caster for 16 - 18.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Toxic Blade of Execution]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 777130054 1182812945:Toxic Blade of Execution\/a
 categories:

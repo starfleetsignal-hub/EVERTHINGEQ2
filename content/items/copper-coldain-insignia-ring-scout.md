@@ -17,7 +17,9 @@ stats:
   aspeed: '10.8'
   multi: '11.5'
   vselemental: +1,363
-effects: '**Favor of Brell**'
+effect_name: Favor of Brell
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell has a 8% chance to cast Brell's Blessing I on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 1.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell has a 8% chance to cast Brell's Blessing I on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 1.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell has a 8% chance to cast Brell's Blessing I on caster.  Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 1.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged with a melee weapon this spell will cast Brell's Retribution I on target's attacker.\n    - Inflicts 13 piercing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot\
+  \ be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Copper Coldain Insignia Ring (Quest)|Copper Coldain Insignia Ring]]'
 starts_quest: '[[Silver Coldain Insignia Ring (Quest)|Silver Coldain Insignia Ring]]'
 item_link: \aITEM 1651851847 1758595075:Copper Coldain Insignia Ring\/a

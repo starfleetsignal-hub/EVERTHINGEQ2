@@ -14,7 +14,8 @@ stats:
   critbonus: '8'
   potency: '8'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '*Crafted by [[Tailor]] (level 93) from [[Advanced Tailor Volume 93 (with desc)]] *Crafted by [[Tailor]] (level 93) from [[Advanced Tailor Volume 93 (without desc)]]'
 item_link: \aITEM -1162206498 1477095716:Tranquil Banyan Root Mitts\/a
 categories:

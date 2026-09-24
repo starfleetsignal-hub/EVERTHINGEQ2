@@ -14,7 +14,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   aspeed: '16.2'
-effects: '**Bolstering Roar**'
+effect_name: Bolstering Roar
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On a healing spell cast this spell may cast Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 503118879 1622568108:Blood-Spattered Girdle of Refuge\/a
 categories:
 - Assassin Equipment

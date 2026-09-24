@@ -18,7 +18,8 @@ stats:
   vsarcane: '+615'
   vsnoxious: +1,066
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When equipped:\n  - Increase attack speed of caster by 35.0"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -1748006692 -1910365711:Heroic Steel Gauntlets\/a
 categories:

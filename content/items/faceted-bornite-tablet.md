@@ -15,7 +15,8 @@ stats:
   potency: '29'
   resolve: '1'
   dps: '25.8'
-effects: '**Stonesoul**'
+effect_name: Stonesoul
+effects: "- Applies Stonesoul when Activated.  Lasts for 30.0 seconds.\n  - Gives caster an extra 20.0% mitigation to their worn armor.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Stonesoul is 1 minute 30 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM 1199775690 -1366390403:Faceted Bornite Tablet\/a
 categories:

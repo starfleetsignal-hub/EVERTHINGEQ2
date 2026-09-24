@@ -9,7 +9,7 @@ flags: NO-TRADE NO-VALUE ORNATE
 description: When used this magical potion grants the user a bonus to tradeskill experience earned for 1 hour. This potion can only be used once before disappearing.
 stats:
   charges: 1/1
-effects: a blessed experience
+effects: "- Applies **a blessed experience** when Activated. Lasts for 1 hour.\n  - Increases Tradeskill XP Gain of caster by 50%"
 obtained_from: Legends of Norrath loot card
 categories:
 - Assassin Equipment

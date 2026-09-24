@@ -17,7 +17,8 @@ stats:
   multi: '40.2'
   flurry: '0.6'
   vselemental: +9,504
-effects: '**Furious Tempest**'
+effect_name: Furious Tempest
+effects: "- When Equipped:\n  - Increases AGI of caster by 75.0.\n  - Increases Flurry of Caster by 3.0.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 700.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 810583630 -83705009:Bracelet of the High Seas\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,7 @@ stats:
   vselemental: '+188'
   vsarcane: '+188'
   vsnoxious: '+188'
-effects: Aura of Agility
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast ***Flare of Agility*** on caster. Lasts for 45.0 seconds.\n    - Increases AGI of caster by 19.8\n    - Increases Attack Speed of caster by 19.8"
 obtained_from: Crafted by [[Jeweler]] (level 78) from [[Jeweler Essentials Volume 78]]
 item_link: -299378904 1002045923:pristine deklium band of agility
 categories:

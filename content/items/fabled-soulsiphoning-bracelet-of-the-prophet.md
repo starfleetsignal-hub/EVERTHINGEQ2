@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Draconic Soulsiphon**'
+effect_name: Draconic Soulsiphon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Draconic Soulsiphon on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 48,020 magic damage on target instantly and every second.\n    - Increases Ability Mod of caster by 1,500.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -717145906 452773196:Fabled Soulsiphoning Bracelet of the Prophet\/a
 categories:
 - Ability Modifier (Equipment)

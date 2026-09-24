@@ -19,7 +19,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Rigid Blows**'
+effect_name: Rigid Blows
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Rigid Blows on target of attack.  Triggers about 1.8 times per minute.\n    - Interrupts target\n    - Inflicts 351 - 585 magic damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1007202618 -1226740783:Doombringer Pendulum\/a
 categories:
 - AE Autoattack Chance (Equipment)

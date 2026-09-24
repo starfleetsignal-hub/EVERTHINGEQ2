@@ -15,7 +15,8 @@ stats:
   drating: '14.51'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Thunder Strike**'
+effect_name: Thunder Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 99 - 121 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Berik''s Revenge]]'
 item_link: \aITEM 1038395455 -836581856:Berik, Sword of Thunder\/a
 image: images/Berik,_Sword_of_Thunder.jpg

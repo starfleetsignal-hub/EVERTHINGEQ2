@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+101'
   vselemental: '+360'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1362845005 -825490901:Ring of Dark Intent\/a
 categories:
 - Ability Modifier (Equipment)

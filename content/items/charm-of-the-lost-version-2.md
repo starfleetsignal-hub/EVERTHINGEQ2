@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dps: '12.6'
-effects: '**Mutagenic Burst**'
+effect_name: Mutagenic Burst
+effects: "- When Equipped:\n  - Increases Burst effect damage by 33%.\n  - When any damage is received this spell has a 10% chance to cast Mutagenic Burst on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 410 disease damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1040696296 -2045188570:Charm of the Lost\/a
 categories:
 - Assassin Equipment

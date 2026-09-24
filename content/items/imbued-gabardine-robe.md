@@ -17,7 +17,8 @@ stats:
   abmod: '+179'
   aspeed: '8.1'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 109 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 87) from [[Advanced Tailor Volume 87 (Heirloom)]] *Crafted by [[Tailor]] (level 87) from [[Advanced Tailor Volume 87 (Normal)]]'
 item_link: \aITEM -2071819293 762031144:Imbued Gabardine Robe\/a
 categories:

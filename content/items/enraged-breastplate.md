@@ -16,7 +16,8 @@ stats:
   critbonus: '3'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Rockiron Nerves**'
+effect_name: Rockiron Nerves
+effects: "- When Equipped:\n  - Reduces physical damage done to target by 5%."
 item_link: \aITEM -824224022 78265238:Enraged Breastplate\/a
 categories:
 - Ability Modifier (Equipment)

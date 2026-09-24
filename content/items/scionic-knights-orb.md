@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   aspeed: '7.3'
   dtype: Symbols
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Sold by [[Niala]] (Faction Merchant) in [[The Stonebrunt Highlands]]
 item_link: \aITEM -1151176868 -1243572628:Scionic Knights Orb\/a
 categories:

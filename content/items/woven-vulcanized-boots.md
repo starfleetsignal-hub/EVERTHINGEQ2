@@ -14,7 +14,8 @@ stats:
   crit: '0.3'
   potency: '0.6'
   dtype: Leather Armor
-effects: '**Startle**'
+effect_name: Startle
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Startle on target's attacker.\n    - Increases Threat to targets in Area of Effect by 1,655 - 2,315\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2006956804 -1828950521:Woven Vulcanized Boots\/a
 categories:
 - Assassin Equipment

@@ -19,7 +19,8 @@ stats:
   resolve: '660'
   mitinc: '109.3'
   dtype: Chain Armor
-effects: '**Oblivion''s Effort**'
+effect_name: Oblivion's Effort
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 693.1.\n  - Increases Potency of caster by 15,677.6.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1788859715 -1300736436:Aveluir's Chain Mantle of Oblivion's Effort\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 4 percent."
 obtained_from: Crafted by [[Armorer]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] or Sold by [[A mysterious Quellthulian]] (Merchant) in [[Moors of Ykesha]]
 image: images/Elucidated_Manaweave_Gloves.jpg
 categories:

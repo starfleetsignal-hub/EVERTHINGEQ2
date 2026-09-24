@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 90.\n    - Increases power of caster by 155.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1938264812 1127154034:Flame-buckled Torque\/a
 categories:
 - Ability Modifier (Equipment)

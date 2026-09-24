@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Bristlebane's Moonlight Courier Crate]]
 item_link: \aITEM -2034397435 76584470:Bristlebane's Moonlight Courier Cloak\/a
 categories:

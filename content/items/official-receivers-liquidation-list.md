@@ -15,7 +15,8 @@ stats:
   potency: '9.8'
   multi: '15.6'
   mitinc: '9.9'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1861078060 -1937617085:Official Receiver's Liquidation List\/a
 categories:
 - Assassin Equipment

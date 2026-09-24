@@ -17,7 +17,8 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistability of all spells by 5%."
 item_link: \aITEM -977640325 1281066168:Spellbinder's Spidersilk Robe\/a
 categories:
 - Ability Modifier (Equipment)

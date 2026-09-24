@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   abmod: '+811'
   dps: '28.1'
-effects: '**Divine Breath**'
+effect_name: Divine Breath
+effects: "- Applies Divine Breath when Activated.  Lasts for 10.0 seconds.\n  - Dispels 116 levels of any hostile effects on group members (AE)\n  - This effect can be used while stifled, stunned or feared.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Breath is 1 minute"
 item_link: \aITEM -978523908 -1451376055:Darkened Slime Pod\/a
 categories:
 - Ability Modifier (Equipment)

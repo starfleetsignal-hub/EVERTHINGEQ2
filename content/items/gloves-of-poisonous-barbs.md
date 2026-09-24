@@ -17,7 +17,8 @@ stats:
   dps: '20.4'
   multi: '26.8'
   dtype: Chain Armor
-effects: '**Nocturnal Celerity**'
+effect_name: Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -844396279 464911244:Gloves of Poisonous Barbs\/a
 categories:
 - Accuracy (Equipment)

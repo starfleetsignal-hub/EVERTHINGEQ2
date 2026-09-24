@@ -14,7 +14,8 @@ stats:
   critbonus: '6.5'
   potency: '10.8'
   multi: '18.1'
-effects: '**Soothing Wave**'
+effect_name: Soothing Wave
+effects: "- When Equipped:\n  - Increases STA and WIS of caster by 25.0.\n  - Increases Potency of caster by 2.0.\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of Revelations]] *Made from [[Lock of Siren Hair]] *Made from [[Mound of Electrified Coral]] *Made from [[Tavalan Eye]]'
 item_link: \aITEM 569777625 -1218748607:Tempered Azure Charm of Revelations\/a
 categories:

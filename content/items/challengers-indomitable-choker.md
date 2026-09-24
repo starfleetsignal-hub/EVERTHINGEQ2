@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   sta: '+65'
   wis: '+65'
-effects: '**Battlefield Fortitude**<br>**Lesser Mystical Defiance**<br>**Kinetic Barrier**'
+effect_name: Battlefield Fortitude, Lesser Mystical Defiance, Kinetic Barrier
+effects: "- When Equipped:\n  - Increases Mitigation of caster vs physical damage by 259.\n  - Must be engaged in pvp combat\n- When Equipped:\n  - Increases Mitigation of caster vs elemental, noxious and arcane damage by 620.\n  - Must be engaged in pvp combat\n- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1671982019 -1311066793:Challenger's Indomitable Choker\/a
 categories:
 - Assassin Equipment

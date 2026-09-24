@@ -17,7 +17,8 @@ stats:
   strike: '6.7'
   mitinc: '3.7'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**<br>**Sorcerous Alacrity**'
+effect_name: Arcane Recovery, Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent.\n- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM 1763922729 539207247:Hood of Arcane Vigor\/a
 categories:
 - Arcane Recovery (Equipment)

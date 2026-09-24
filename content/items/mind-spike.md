@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '21.3'
   vselemental: +32,207
-effects: '**Amplifying Criticals**'
+effect_name: Amplifying Criticals
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -1409296790 -761384516:Mind Spike\/a
 categories:
 - Amplifying Criticals (Equipment)

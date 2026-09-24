@@ -15,7 +15,9 @@ stats:
   potency: '11'
   aspeed: '17.9'
   multi: '18.6'
-effects: '**Arbiter''s Tenacity**'
+effect_name: Arbiter's Tenacity
+effects: "- When Equipped:\n  - This effect will not stack with itself or similar effects.\n  - On a critical spell hit this spell may cast Arbiter's Tenacity on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Caster will Riposte 2.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n    - Increases the base trigger chance of spells and items by 8%.\n    - 5% of all physical damage received by the caster is prevented.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Arbiter's Tenacity on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Caster will Riposte 2.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n    - Increases the base trigger chance of spells and items by 8%.\n    - 5% of all physical damage received by the caster is prevented.\n\
+  \    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1315262419 66890608:Control Shackle of the Arbiter\/a
 categories:
 - Arbiter's Tenacity (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+48'
   dps: '6.8'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 23.0."
 item_link: \aITEM -2008284259 -1810247939:Flawless Dragonhide Belt\/a
 categories:
 - Ability Modifier (Equipment)

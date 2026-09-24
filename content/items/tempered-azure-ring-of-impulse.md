@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: '+644'
-effects: '**Arcanic Mastery**'
+effect_name: Arcanic Mastery
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.0.\n  - Increases Casting Speed of caster by 5.0%.\n  - Increases Disruption of caster by 40.0.\n  - Increases Ability Mod of caster by 525.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of Impulse]] *Made from [[Stiff Siren Fin]] *Made from [[Tavalan Eye]] *Made from [[Tavalan Tentacle]]'
 item_link: \aITEM 1272069284 -1795773304:Tempered Azure Ring of Impulse\/a
 categories:

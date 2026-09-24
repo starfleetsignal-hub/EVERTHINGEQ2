@@ -17,7 +17,8 @@ stats:
   potency: '8.6'
   aspeed: '13.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[High Shinu-Zonn Cerulea|High Shinu-Zonn Cerulea and High Shinu-Zonn Magentia]] in [[Citadel of V'uul]]
 item_link: \aITEM -977026799 -1264191947:Myrmidon's Gauntlets of the Citadel\/a
 categories:

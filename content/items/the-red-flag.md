@@ -6,7 +6,8 @@ icon: images/Item_1236.png
 level: '6'
 slot: Waist
 flags: lore temporary no-trade no-value no-destroy no-zone
-effects: '**Carrying Red Flag**'
+effect_name: Carrying Red Flag
+effects: "- Applies Carrying Red Flag when Equipped.\n  - Slows caster by 31.5%."
 item_link: \aITEM -433501961 1772165776:the red flag\/a
 categories:
 - Assassin Equipment

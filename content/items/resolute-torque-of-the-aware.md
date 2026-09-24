@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**Awareness**'
+effect_name: Awareness
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 3.6 for every enemy who is engaged with the wearer, up to 14.4 maximum"
 item_link: \aITEM 1452924244 612804309:Resolute Torque of the Aware\/a
 categories:
 - AE Autoattack Chance (Equipment)

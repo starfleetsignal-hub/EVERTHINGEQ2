@@ -14,7 +14,7 @@ stats:
   drating: '8.5'
   range: 2 - 25
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts 43 - 79 magic damage on target"
 obtained_from: Crafted by [[Outfitter]] (level 12) from [[Outfitters essentials volume 12]]
 item_link: \aITEM -417086932 -45130230:Pristine Imbued Tanned Leather Pouch\/a
 categories:

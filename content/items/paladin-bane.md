@@ -16,7 +16,8 @@ stats:
   drating: '30.24'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Wavering Belief**'
+effect_name: Wavering Belief
+effects: "- When Equipped:\n  - On a melee hit this spell has a 5% chance to cast Wavering Belief on target of attack.  Lasts for 8.0 seconds.\n    - Decreases WIS of caster by 11.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 363344292 -1361682565:Paladin Bane\/a
 categories:
 - Beastlord Equipment

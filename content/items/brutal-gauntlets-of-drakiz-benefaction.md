@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   multi: '17'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -2082760185 1211433006:Brutal Gauntlets of Drakiz Benefaction\/a
 categories:
 - Berserker Equipment

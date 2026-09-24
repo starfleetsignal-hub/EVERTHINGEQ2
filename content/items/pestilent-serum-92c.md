@@ -13,7 +13,7 @@ stats:
   charges: Unlimited
   casting: 3.0 seconds
   recast: 20.0 seconds
-effects: Pestilent Serum 92C
+effects: "- Applies Pestilent Serum 92C when Activated. Lasts for 1 hour.\n  - If target is a challenge."
 obtained_from: Required by the quests [[Blight on the Horizon]] and [[Crusade of Healing]]
 categories:
 - Charm (Inventory Slot)

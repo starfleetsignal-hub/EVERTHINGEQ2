@@ -18,7 +18,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Heavens'' Cloud Break**'
+effect_name: Heavens' Cloud Break
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Heaven's Rain on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 40 - 49 melee damage on target\n    - Inflicts 40 - 49 melee damage on target\n    - Inflicts 40 - 49 melee damage on target\n    - Inflicts 40 - 49 melee damage on target\n    - Inflicts 94 - 175 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1956577540 1403089405:Heavens' Cloud\/a
 categories:
 - AE Autoattack Chance (Equipment)

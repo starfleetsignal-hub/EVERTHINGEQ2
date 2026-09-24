@@ -15,7 +15,7 @@ stats:
   crit: '3'
   abmod: '+65'
   vsarcane: +1,134
-effects: Cloak and Dagger
+effects: "- Applies Cloak and Dagger when Activated. Lasts for 30.0 seconds.\n  - On any succuessful attack this spell cast Clandestine Attack on target of attack.\n    - Inficts 251 mental damage on target\n  - This effect can be toggled off\n  - Heals target for 570 instantly and every 2.0 seconds\n  - This spell can not be modified execept by direct means\n  - Requires 372 Power to cast and 298 Power every 2.0 seconds"
 item_link: \aITEM -2022007047 -1757769091:Malign Mantle\/a
 categories:
 - Ability Modifier (Equipment)

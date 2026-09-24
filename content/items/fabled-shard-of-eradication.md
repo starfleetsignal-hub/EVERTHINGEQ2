@@ -18,7 +18,8 @@ stats:
   resolve: '110'
   aspeed: '76.5'
   dps: '58'
-effects: '**Enlightened Ascension**'
+effect_name: Enlightened Ascension
+effects: "- When Equipped:\n  - Reduces the recast time of all Ascension abilities by 20%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1356377768 -2030841789:Fabled Shard of Eradication\/a
 categories:
 - Assassin Equipment

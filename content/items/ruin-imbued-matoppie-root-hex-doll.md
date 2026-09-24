@@ -13,7 +13,8 @@ stats:
   crit: '21.4'
   critbonus: '7.9'
   potency: '7.9'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 1,069.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 95) from [[Tailor Essentials Volume 95 (with desc)]] *Crafted by [[Tailor]] (level 95) from [[Tailor Essentials Volume 95 (without desc)]]'
 item_link: \aITEM -23170587 1519431703:Ruin Imbued Matoppie Root Hex Doll\/a
 categories:

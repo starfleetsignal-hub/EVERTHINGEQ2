@@ -7,7 +7,8 @@ tier: Handcrafted
 level: '20'
 classes: '[[Provisioner]]'
 flags: attunable
-effects: '**Simple Tools**'
+effect_name: Simple Tools
+effects: "- Applies Simple Tools when Equipped.\n  - Increases success chance by 1.0%."
 obtained_from: Made with Tinkering (skill 50) from [[Apprentice Blueprints 0.005]].
 item_link: \aITEM -1464584375 -1695282260:Izzitedibilforpepl Probe\/a
 aliases:

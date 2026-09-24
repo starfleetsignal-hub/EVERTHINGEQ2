@@ -16,7 +16,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   dtype: Symbols
-effects: '**Bitter Miasma**'
+effect_name: Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 593.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -988384779 -1703432666:Censer of the Undying Soul\/a
 categories:
 - Assassin Equipment

@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Kiss of Life**'
+effect_name: Kiss of Life
+effects: "- Applies Kiss of Life when Activated.\n  - Instantly heals the group for 50,000. If the wearer is a priest, the group will be healed for 300,000.\n  - Cannot be modified except by direct means\n  - The reuse time of Kiss of Life is 1 minute 30 seconds"
 item_link: \aITEM -112141643 1917508373:A Banshee's Trapped Scream\/a
 categories:
 - Assassin Equipment

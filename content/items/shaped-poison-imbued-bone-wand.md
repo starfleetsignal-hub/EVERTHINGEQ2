@@ -15,7 +15,8 @@ stats:
   drating: '8.7'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Poison Bolt**'
+effect_name: Poison Bolt
+effects: "- Applies Poison Bolt when Activated.\n  - Inflicts 53 - 88 poison damage on target.\n  - The casting time of Poison Bolt is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 2017779136 433912472:Shaped Poison Imbued Bone Wand\/a
 categories:
 - Berserker Equipment

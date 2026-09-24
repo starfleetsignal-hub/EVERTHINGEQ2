@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM -1405742407 -1639656137 0 0 0:Desecrated Helm of Darkness\/a
 aliases:
 - Desecrated Skullcap of Darkness

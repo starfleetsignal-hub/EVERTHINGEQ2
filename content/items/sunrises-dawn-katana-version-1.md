@@ -20,7 +20,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Ray of Devastation**'
+effect_name: Ray of Devastation
+effects: "- Applies Ray of Devastation when Activated.\n  - Inflicts 3,240 heat damage on targets in Area of Effect.\n  - The casting time of Ray of Devastation is 3.0 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1788979688 -454873995:Sunrise's Dawn Katana\/a
 aliases:
 - Sunrise's Dawn Katana (Level 80)

@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '28.8'
   multi: '22.2'
-effects: '**Spectral Annihilation**'
+effect_name: Spectral Annihilation
+effects: "- Applies Spectral Annihilation when Activated.\n  - Inflicts 2,664,000 mental damage on target.\n  - This effect can be cast while casting other abilities\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Spectral Annihilation is 15.0 seconds"
 item_link: \aITEM -1173029446 441464269:Karith'Ta's Severed Finger\/a
 categories:
 - Assassin Equipment

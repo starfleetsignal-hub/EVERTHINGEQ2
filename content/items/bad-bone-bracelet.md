@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +11,484
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Swings II on target.  Lasts for 20.1 seconds.  Triggers about 0.4 times per minute.\n    - Increases Weapon Damage of caster by 3.6, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - The trigger chance is multiplied by the number of players in the wearer's raid. Increments up to 20 times."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume IV]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM -544330315 109137054:Bad Bone Bracelet\/a
 categories:

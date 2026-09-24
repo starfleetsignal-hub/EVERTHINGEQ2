@@ -17,7 +17,8 @@ stats:
   potency: '5.4'
   aspeed: '7.4'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Archiving the Reports]]'
 item_link: \aITEM -433025521 959436150:Sleeves of Foreboding Contention\/a
 categories:

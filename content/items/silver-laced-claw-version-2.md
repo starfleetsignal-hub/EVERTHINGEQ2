@@ -20,7 +20,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: '**Silver Forged**'
+effect_name: Silver Forged
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Silver Vulnerability on target of attack.\n    - Inflicts 18 - 23 magic damage on target.\n      - If target is werewolf\n    - Cannot be modified except by direct means"
 obtained_from: '[[Silver Wares]]'
 item_link: \aITEM 559745890 -473208730:Silver Laced Claw\/a
 categories:

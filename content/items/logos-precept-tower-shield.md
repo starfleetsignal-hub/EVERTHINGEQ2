@@ -18,7 +18,8 @@ stats:
   resolve: '320'
   cbovercap: '+1209.3'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -996399713 1467079975:Logos Precept Tower Shield\/a
 categories:
 - Berserker Equipment

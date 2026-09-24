@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   strike: '10.4'
   vselemental: +1,256
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,218 - 1,827 poison damage on target\n    - Heals caster for 811 - 1,217\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1696790180 230472684:Bracelet of Visionary Insanity\/a
 categories:
 - Arcane Resistance (Equipment)

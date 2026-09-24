@@ -16,7 +16,8 @@ stats:
   multi: '4'
   flurry: '1.8'
   dtype: Round Shield
-effects: '**Jolt of Hindrance**'
+effect_name: Jolt of Hindrance
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Jolt of Hindrance on target of combat art.  Lasts for 2.0 seconds.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means\n    - Will trigger off of slash, pierce or crush abilities."
 item_link: \aITEM -1955707991 1153698911:Eyestalker Shield of Gazing\/a
 categories:
 - Assassin Equipment

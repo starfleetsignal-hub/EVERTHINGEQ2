@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 10%."
 obtained_from: '*Made from [[Elemental Master''s Mantle Mold]] *Made from [[Elemental Master''s Mantle Pattern]]'
 item_link: \aITEM -2100281201 680742997 0 0 0:Umbral Ash Spaulders\/a
 categories:

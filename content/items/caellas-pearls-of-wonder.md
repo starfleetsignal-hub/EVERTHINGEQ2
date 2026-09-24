@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   vselemental: +1,832
-effects: '**Simulcast**'
+effect_name: Simulcast
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 3.0%.\n  - Increases Multi Attack of caster by 5.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2113010780 -1867962394:Caella's Pearls of Wonder\/a
 categories:
 - Arcane Resistance (Equipment)

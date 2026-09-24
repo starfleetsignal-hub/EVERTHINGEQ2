@@ -19,7 +19,8 @@ stats:
   drating: '104.35'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Ethereal Blessing**'
+effect_name: Ethereal Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Ethereal Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 125\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 88) from [[Woodworker Essentials Volume 88]]
 item_link: \aITEM -2121954868 -1189771211:Blessed Sumac Sorcerer's Staff\/a
 categories:

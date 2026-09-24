@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   abmod: '+75'
   vselemental: '+440'
-effects: '**Free Movement**<br>**Sorcerous Alacrity**'
+effect_name: Free Movement, Sorcerous Alacrity
+effects: "- When Equipped:\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM 516516378 1453838051:Elusive Loop\/a
 categories:

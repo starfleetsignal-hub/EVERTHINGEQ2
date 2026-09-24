@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   multi: '0.1'
   dtype: Chain Armor
-effects: '**Full Body Noxious Environmental Suit**'
+effect_name: Full Body Noxious Environmental Suit
+effects: "- Applies Full Body Noxious Environmental Suit when Equipped.\n  - Converts 4.5% of all noxious damage received into power gain."
 item_link: \aITEM -786331720 -153891289:Full Body Noxious Environmental Suit\/a
 categories:
 - Assassin Equipment

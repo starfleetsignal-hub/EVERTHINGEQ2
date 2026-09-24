@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 1726337301 2000186444 0 0 0:Spiritual Boots from Beyond the Portal\/a
 categories:
 - Ability Modifier (Equipment)

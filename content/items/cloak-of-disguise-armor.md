@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Disguise**'
+effect_name: Featherfall, Disguise
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Disguise when Activated.  Lasts for 12 hours.\n  - Shapechanges caster into an Inconspicuous Crate\n  - This effect cancels during combat\n  - The casting time of Disguise is 2.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '*From [[Cloak of Disguise (crate)|Cloak of Disguise]] *Legends of Norrath loot card'
 item_link: \aITEM 1346578867 -90922301:Cloak of Disguise\/a
 image: images/Cloak_of_Disguise.jpg

@@ -10,7 +10,8 @@ flags: no-transmute  no-salvage  lore no-trade no-value
 stats:
   str: '+12'
   sta: '+12'
-effects: '**Guise of the Deceiver**'
+effect_name: Guise of the Deceiver
+effects: "- Applies Guise of the Deceiver when Activated.  Lasts for 2 hours.\n  - Shapechanges caster into a dark elf\n  - The casting time of Guise of the Deceiver is 1.0 second and the reuse time of the spell is 2.0 seconds"
 obtained_from: 'Heritage quest reward: [[A Missing Mask]]'
 item_link: \aITEM 1843479367 1936422078:Guise of the Deceiver\/a
 image: images/Guise_of_the_Deceiver_(HQ_Reward).png

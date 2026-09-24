@@ -19,7 +19,8 @@ stats:
   drating: '42.48'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Shadow''s Touch**'
+effect_name: Shadow's Touch
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Shadow's Touch on target of attack.  Triggers about 1.8 times per minute.\n    - Increases power of target by 46 - 56.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1686550522 93465029:Withered Totem of Darkness\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '20'
   fervor: '10'
   flurry: '22.5'
-effects: '**Enlightened Ascension**<br>**Channeled Ascension**'
+effect_name: Enlightened Ascension, Channeled Ascension
+effects: "- When Equipped:\n  - Reduces the recast time of all Ascension abilities by 20%.\n  - Cannot be modified except by direct means\n- Applies Channeled Ascension when Activated.  Lasts for 5 minutes.\n  - Increases ascension ability damage by 40.4%.\n  - Cannot be modified except by direct means\n  - The casting time of Channeled Ascension is 4.0 seconds and the reuse time of the spell is 4 hours"
 obtained_from: 'Achievement reward: [[The Ascended]]'
 item_link: \aITEM 164069396 1329238712:Tome of the Ascended\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Leather Armor
-effects: '**Shade Shuriken**'
+effect_name: Shade Shuriken
+effects: "- Applies Shade Shuriken when Activated.\n  - Summons 99 shade shurikens\n  - The casting time of Shade Shuriken is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 427813486 -1144040967:Withered Lotus Wrist Wraps\/a
 categories:
 - Attack Speed (Equipment)

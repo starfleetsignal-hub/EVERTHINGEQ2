@@ -6,7 +6,7 @@ slot: Charm
 flags: NO-TRADE, NO-VALUE
 stats:
   charges: Unlimited
-effects: Siphon
+effects: "- Applies Siphon when Activated.\n  - Inflicts 500 mental damage on target"
 used_in_quest: '[[A Stronger Essence]]'
 item_link: \aITEM 1508925798 -626863815:Meta-Siphon\/a
 categories:

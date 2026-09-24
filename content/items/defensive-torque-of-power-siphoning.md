@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Powersiphon**'
+effect_name: Powersiphon
+effects: "- When Equipped:\n  - Increases the wearer's Ability Modifier by 1,500 and Ability Casting Speed by 10% for every enemy who is engaged with the wearer, up to 6,000 Ability Modifier and 40% Ability Casting Speed  maximum"
 item_link: \aITEM -1467467000 293557274:Defensive Torque of Power Siphoning\/a
 image: images/Defensive_Torque_of_Power_Siphoning.png
 categories:

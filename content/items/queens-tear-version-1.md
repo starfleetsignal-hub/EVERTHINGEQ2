@@ -16,7 +16,8 @@ stats:
   abmod: '+62'
   aspeed: '4'
   vsarcane: '+280'
-effects: '**Obscure Visage**'
+effect_name: Obscure Visage
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Obscure Visage on target's attacker.\n    - Decreases Threat to target by 2,000\n    - Cannot be modified except by direct means\n  - This effect cannot be triggered again for 120 seconds."
 item_link: \aITEM -1560602874 -970333019 0 0 0:Queen's Tear\/a
 categories:
 - Ability Modifier (Equipment)

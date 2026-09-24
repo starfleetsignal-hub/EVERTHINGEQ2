@@ -23,7 +23,8 @@ stats:
   drating: '231.04'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.1%.\n    - Inflicts 2,080 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1946649256 -437686800:Deathly Mace of Scorn\/a
 categories:
 - Anguish (Equipment)

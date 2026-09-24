@@ -15,7 +15,7 @@ stats:
   vselemental: '+308'
   vsarcane: '+308'
   vsnoxious: '+308'
-effects: Aura of Intelligence
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cast ***Flash of Intelligence*** on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases INT of caster by 27\n    - Increases Disruption, Subjugation, and Focus of caster by 15.0"
 obtained_from: Crafted by [[Jeweler]] (level 76) from [[Advanced Jeweler Volume 76]]
 item_link: 1268784687 1345362705:pristine imbued fire emerald ring of intelligence
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Leather Armor
-effects: '**Touch of the Divine**<br>**Haste**'
+effect_name: Touch of the Divine, Haste
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Touch of the Divine on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases healing received by 5.00%.\n    - Increases Max Health of target by 5.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Gloves Of The Draconic Battlepriest]] *Made from [[Maligonian Horns]] *Made from [[Wyvern Stinger]]'
 item_link: \aITEM -1000770500 458306197:Gloves of the Draconic Battlepriest\/a
 categories:

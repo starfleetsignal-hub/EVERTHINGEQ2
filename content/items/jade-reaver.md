@@ -21,7 +21,8 @@ stats:
   drating: '75.65'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Alacritous Incantation**'
+effect_name: Alacritous Incantation
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 5 percent."
 item_link: \aITEM -135033677 -1385136790:Jade Reaver\/a
 categories:
 - Alacritous Incantation (Equipment)

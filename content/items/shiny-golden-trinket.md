@@ -10,7 +10,8 @@ stats:
   charges: Unlimited
   casting: 5 seconds
   recast: 2 seconds
-effects: '**Gold Lust**'
+effect_name: Gold Lust
+effects: "- Applies Gold Lust when Activated.\n  - Inflicts 24 heat damage on target"
 item_link: \aITEM -1107438016 976022058:Shiny Golden Trinket\/a
 categories:
 - Assassin Equipment

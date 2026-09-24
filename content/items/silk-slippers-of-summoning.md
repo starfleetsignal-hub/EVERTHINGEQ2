@@ -17,7 +17,8 @@ stats:
   vselemental: +1,066
   vsnoxious: '+615'
   dtype: Cloth Armor
-effects: '**Summoned Vengeance**'
+effect_name: Summoned Vengeance
+effects: "- When Equipped:\n  - Increases pet spell and combat art damage by 50, and weapon/casting skills by 10."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -422249056 -813569188:[Silk Slippers of Summoning]\/a
 categories:

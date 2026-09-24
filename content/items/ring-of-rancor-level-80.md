@@ -16,7 +16,8 @@ stats:
   aspeed: '6'
   multi: '6.8'
   vselemental: '+360'
-effects: '**Chaotic Happenstance**'
+effect_name: Chaotic Happenstance
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Chaotic Happenstance on caster.  Lasts for 15.0 seconds.  Triggers about 1.4 times per minute.\n    - If scout.\n    - Improves all procs by a base 1% trigger chance.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1365173422 -462955226:Ring of Rancor\/a
 aliases:
 - Ring of Rancor

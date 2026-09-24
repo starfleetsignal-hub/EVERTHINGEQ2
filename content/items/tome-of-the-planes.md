@@ -19,7 +19,8 @@ stats:
   abmod: +32,535
   flurry: '22.5'
   cbovercap: '+15'
-effects: '**Channeled Ascension**<br>**Planar Supremacy**'
+effect_name: Channeled Ascension, Planar Supremacy
+effects: "- Applies Channeled Ascension when Activated.  Lasts for 5 minutes.\n  - Increases the damage and healing of ascension abilities by 20%.\n  - Cannot be modified except by direct means\n  - The casting time of Channeled Ascension is 4.0 seconds and the reuse time of the spell is 4 hours\n- When Equipped:\n  - Increases Fervor of caster by 10.0.\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - Increases in power after the caster obtains the achievement \"Triumph: Plundering the Planes (Tier 4)\".\n  - Increases in power after the caster obtains the achievement \"Triumph: Plundering the Planes (Tier 3)\".\n  - Increases in power after the caster obtains the achievement \"Triumph: Plundering the Planes (Tier 1)\".\n  - Increases in power after the caster obtains the achievement \"Triumph: Plundering the Planes (Tier 2)\".\n  - Increases in power after the caster obtains the achievement \"Greater Ascended\"."
 obtained_from: created with a Recipe called *Tome of the Planes*
 item_link: \aITEM -1171531371 1494573219:Tome of the Planes\/a
 aliases:

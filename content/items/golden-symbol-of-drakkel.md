@@ -21,7 +21,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Flowing Consciousness**'
+effect_name: Flowing Consciousness
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 5 percent."
 item_link: \aITEM -1188930607 1349455149:Golden Symbol of Drakkel\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   crit: '1.7'
   critbonus: '0.5'
   potency: '2.5'
-effects: '**Illusion: Skeleton**'
+effect_name: 'Illusion: Skeleton'
+effects: "- Applies Illusion: Skeleton when Activated.\n  - Shapechanges caster into a skeleton"
 item_link: \aITEM 1054316610 -845282340:Amulet of Necropotence\/a
 image: images/Amulet_of_Necropotence.jpg
 categories:

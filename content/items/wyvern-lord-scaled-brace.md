@@ -17,7 +17,8 @@ stats:
   dps: '33.2'
   multi: '21.6'
   vselemental: +2,079
-effects: '**Mercurial Flux**'
+effect_name: Mercurial Flux
+effects: "- When Equipped:\n  - Increases Haste of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1537024134 -1314397043:Wyvern Lord Scaled Brace\/a
 categories:
 - Arcane Resistance (Equipment)

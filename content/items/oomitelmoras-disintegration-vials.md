@@ -10,7 +10,7 @@ stats:
   charges: Unlimited
   casting: '1.0'
   recast: '2.0'
-effects: Disintegrate Undead Rift
+effects: "- Applies Disintegrate Undead Rift when Activated.\n  - Must be in Starcrest Commune: Shattered Sanctum"
 obtained_from: Automatically received during the quest Unlikely Allies
 used_in_quest: '[[Unlikely Allies]]'
 item_link: \aITEM -1022973402 134504818:Oomitelmora's Disintegration Vials\/a

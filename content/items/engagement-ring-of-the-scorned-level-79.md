@@ -16,7 +16,8 @@ stats:
   dps: '10.3'
   multi: '6.3'
   vselemental: '+356'
-effects: '**Destructive Channeling**'
+effect_name: Destructive Channeling
+effects: "- When Equipped:\n  - Increases range of hostile spells by 15 percent."
 item_link: \aITEM 313007953 -1712039400:Engagement Ring of the Scorned\/a
 categories:
 - Arcane Resistance (Equipment)

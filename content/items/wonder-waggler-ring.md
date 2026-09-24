@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Virulent Wrath**'
+effect_name: Virulent Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Virulent Wrath on target of attack.  Triggers about 2.0 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 130,340 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1269015638 -241236251:Wonder-Waggler Ring\/a
 categories:
 - AE Autoattack Chance (Equipment)

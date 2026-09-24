@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Leather Armor
-effects: '**Dark Squall**'
+effect_name: Dark Squall
+effects: "- When Equipped:\n  - On a combat hit this spell has a 5% chance to cast Dark Squall on target of attack.  Lasts for 7.0 seconds.\n    - Stifles target\n    - Must not be engaged in pvp combat\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 79.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM 1095915921 291098660:Manacles of Dark Sky\/a
 categories:

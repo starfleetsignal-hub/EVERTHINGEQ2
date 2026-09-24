@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '133'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 47 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 36) from [[Armorer Essentials Volume 36 (Normal)]] *Crafted by [[Armorer]] (level 36) from [[Armorer Essentials Volume 36 (no-trade)]]'
 item_link: \aITEM 2035826760 2040418201:Imbued Feyiron Melodic Leggings\/a
 categories:

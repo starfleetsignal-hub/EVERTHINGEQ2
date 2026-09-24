@@ -15,7 +15,8 @@ stats:
   potency: '2.7'
   abmod: '+68'
   multi: '5.1'
-effects: '**Reach of the Discordian Lords**'
+effect_name: Reach of the Discordian Lords
+effects: "- Applies Reach of the Discordian Lords when Activated.  Lasts for 18.0 seconds.\n  - Increases Melee Weapon Range of caster by 100.0%.\n  - Cannot be modified except by direct means\n  - The casting time of Reach of the Discordian Lords is 0.2 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM 1357704450 -515605478:Sky Slayer's Medallion\/a
 categories:
 - Ability Modifier (Equipment)

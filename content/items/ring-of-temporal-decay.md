@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Hard to Catch**'
+effect_name: Hard to Catch
+effects: "- When Equipped:\n  - Using Sprint will increase the wearer's Dodge Chance by 10% for 10 seconds. Can only trigger once every 30 seconds. Damage received greater than 30% of the wearer's maximum health will dispel the effect."
 obtained_from: '*Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]] *'
 item_link: \aITEM -309622880 1875949008:Ring of Temporal Decay\/a
 image: images/Ring_of_Temporal_Decay.png

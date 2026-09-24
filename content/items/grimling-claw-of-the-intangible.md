@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Intangible**'
+effect_name: Intangible
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Intangible III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 211,200 magic damage on target.\n    - Increases Block Chance of caster by 4.5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2089781356 -76107456:Grimling Claw of the Intangible\/a
 categories:
 - Arcane Resistance (Equipment)

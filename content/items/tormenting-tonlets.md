@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1216027729 530511333:Tormenting Tonlets\/a
 categories:
 - Ability Modifier (Equipment)

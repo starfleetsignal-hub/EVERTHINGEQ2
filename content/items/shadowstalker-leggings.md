@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   aspeed: '0.1'
   dtype: Chain Armor
-effects: '**Diseased Feedback**'
+effect_name: Diseased Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Diseased Feedback on target's attacker.\n    - Inflicts 138 disease damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 744748339 1598708413:Shadowstalker Leggings\/a
 categories:
 - Assassin Equipment

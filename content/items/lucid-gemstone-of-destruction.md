@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   aspeed: '2.4'
-effects: '**Fatal Pestilience**'
+effect_name: Fatal Pestilience
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Pestilience VII on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 73 - 81 disease damage on targets in Area of Effect.\n    - Inflicts 91 - 101 disease damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 7 - 8 disease damage on targets in Area of Effect every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 70) from [[Ancient Knowledge: Lucid Gemstone of Destruction]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -544438744 131451093:Lucid Gemstone of Destruction\/a
 categories:

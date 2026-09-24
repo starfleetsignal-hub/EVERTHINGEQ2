@@ -16,7 +16,8 @@ stats:
   abmod: '+185'
   dps: '15.2'
   vsarcane: '+517'
-effects: '**Call of the Prime**'
+effect_name: Call of the Prime
+effects: "- Applies Call of the Prime IX when Activated.  Lasts for 12.0 seconds.\n  - Applies Prime Focus IX on termination.  Lasts for 15.0 seconds.\n    - Increases Potency of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Effectiveness of heals and wards by 15%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Call of the Prime IX is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 90) from [[Ancient Knowledge: Radiant Earring of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 607839022 782012776:Radiant Earring of Revelations\/a
 image: images/Radiant_Earring_of_Revelations.png

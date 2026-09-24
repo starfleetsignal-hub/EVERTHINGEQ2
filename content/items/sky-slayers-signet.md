@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   abmod: '+68'
-effects: '**Rush of the Discordian Lords**'
+effect_name: Rush of the Discordian Lords
+effects: "- Applies Rush of the Discordian Lords when Activated.  Lasts for 12.0 seconds.\n  - Prevents caster from being Interrupted\n  - Prevents caster from being Interrupted due to movement\n  - Cannot be modified except by direct means\n  - The casting time of Rush of the Discordian Lords is 0.2 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM -1730187892 -298875281:Sky Slayer's Signet\/a
 categories:
 - Ability Modifier (Equipment)

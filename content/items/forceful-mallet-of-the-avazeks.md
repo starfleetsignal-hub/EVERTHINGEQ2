@@ -22,7 +22,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM 1387855384 -1444655767:Forceful Mallet of the Avazeks\/a
 categories:
 - Ability Modifier (Equipment)

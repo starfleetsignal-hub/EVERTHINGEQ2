@@ -20,7 +20,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Reap the Whirlwind**<br>**Granite Avatar**'
+effect_name: Reap the Whirlwind, Granite Avatar
+effects: "- When Equipped:\n  - Applies Reap the Whirlwind to qualifying pets.\n    - Increases Potency of caster by 10.0.\n- When Equipped:\n  - Removal of this effect will greatly injure your pet.\n  - Applies Granite Avatar to qualifying pets.\n    - Wards caster against 4,000 points of all damage\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 2,046.\n    - Cannot be modified except by direct means\n  - This effect cannot empower creatures above level 90."
 item_link: \aITEM 1675675183 -109764925:Iilsaad's Control Rod\/a
 categories:
 - Ability Modifier (Equipment)

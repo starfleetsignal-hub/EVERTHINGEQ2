@@ -11,7 +11,8 @@ stats:
   sta: '+40'
   wis: '+60'
   dtype: Symbols
-effects: '**PvP Potency**<br>**Wildfire**'
+effect_name: PvP Potency, Wildfire
+effects: "- When Equipped:\n  - Increases Potency of caster by 2.0.\n  - Must be engaged in pvp combat\n- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1924251862 -1807987027:Discord's Deathdealer Orb\/a
 categories:
 - Casting Speed (Equipment)

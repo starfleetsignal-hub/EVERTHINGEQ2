@@ -16,7 +16,8 @@ stats:
   abmod: '+142'
   multi: '7.8'
   vselemental: '+400'
-effects: '**Mischievous Ways**'
+effect_name: Mischievous Ways
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mischievous Ways on caster.  Triggers about 1.8 times per minute.\n    - Bristlebane is a tricky halfling so who knows what may happen..."
 item_link: \aITEM -1310947741 484155110:Bracelet of the Trickster\/a
 categories:
 - Ability Modifier (Equipment)

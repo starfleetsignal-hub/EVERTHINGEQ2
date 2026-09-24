@@ -15,7 +15,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Holy Strike**'
+effect_name: Holy Strike
+effects: "- Applies Holy Strike when Activated.\n  - Inflicts 106 - 177 divine damage on target.\n  - The casting time of Holy Strike is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1899448276 -759835449:shaped divinely imbued briarwood wand\/a
 categories:
 - Berserker Equipment

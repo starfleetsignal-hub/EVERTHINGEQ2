@@ -17,7 +17,8 @@ stats:
   potency: '1'
   dps: '4'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 60) from [[Ancient Knowledge: Glorified Tunic of Alleviation]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -2012608427 396797320:Glorified Tunic of Alleviation\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   multi: '17.5'
-effects: '**Visage of Dominion**'
+effect_name: Visage of Dominion
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Visage of Dominion on caster.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 138 - 141 instantly and every 4 seconds.\n    - Increases Ability Mod of caster by 2,700.0 - 3,300.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -610214654 372281196 0 0 0:Ancient Green Soulstone\/a
 categories:
 - Ability Modifier (Equipment)

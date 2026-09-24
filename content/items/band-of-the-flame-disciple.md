@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vsarcane: '+400'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Barred No More]]'
 item_link: \aITEM -546048512 -1836969438:Band of the Flame Disciple\/a
 categories:

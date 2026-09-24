@@ -7,7 +7,8 @@ tier: Fabled
 level: '80'
 slot: Finger
 flags: ornate lore no-trade no-value
-effects: '**Mark of the Emissary**'
+effect_name: Mark of the Emissary
+effects: "- Applies Mark of the Emissary when Equipped.\n  - Wearing of this ring indicates you are in the service of the Freeport Emissaries and includes all respect due to those distinguished enough to bear such a token."
 item_link: \aITEM 1371000678 1701367762:Mark of the Emissary\/a
 categories:
 - Assassin Equipment

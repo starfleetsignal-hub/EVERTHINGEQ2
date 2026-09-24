@@ -15,7 +15,8 @@ stats:
   potency: '38.1'
   resolve: '5'
   dps: '28.8'
-effects: '**Magical Shielding**'
+effect_name: Magical Shielding
+effects: "- Applies Magical Shielding when Activated.  Lasts for 10.0 seconds.\n  - Uses the caster's power to restore health to the target group member. Heals 65% of all incoming damage. 6% of the amount healed is subtracted from the caster's power. Terminates if the caster doesn't have the power to absorb the attack.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Magical Shielding is 30.0 seconds"
 item_link: \aITEM -892305142 -1210382284:Mindwarper Tentacle\/a
 categories:
 - Assassin Equipment

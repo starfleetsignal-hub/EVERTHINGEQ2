@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Chain Armor
-effects: '**Runes of Power**'
+effect_name: Runes of Power
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runes of Power on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of target by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 923336957 -1755220287 0 0 0:Spiritual Cuirass from Beyond the Portal\/a
 categories:
 - Casting Speed (Equipment)

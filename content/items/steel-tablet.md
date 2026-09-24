@@ -11,7 +11,8 @@ stats:
   str: '+7'
   sta: '+7'
   dtype: Symbols
-effects: '**Rune of Warding**'
+effect_name: Rune of Warding
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Rune of Warding on caster.  Lasts for 10 minutes.  Triggers about 1.8 times per minute.\n    - Wards caster against 50 points of all damage\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 obtained_from: '*Crafted by [[Jeweler]] (level 26) from [[Advanced Jeweler Volume 26 (Normal)]] *Crafted by [[Jeweler]] (level 26) from [[Advanced Jeweler Volume 26 (No-Trade)]]'
 item_link: \aITEM -1783487422 1153049789:Steel Tablet\/a
 aliases:

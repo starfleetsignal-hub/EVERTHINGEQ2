@@ -17,7 +17,8 @@ stats:
   potency: '6.2'
   multi: '9.6'
   dtype: Leather Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 90) from [[Ancient Knowledge: Glorified Bracers of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 886509299 -1572647347:Glorified Bracers of Revelations\/a
 categories:

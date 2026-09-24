@@ -12,7 +12,8 @@ stats:
   int: '+21'
   crit: '0.2'
   potency: '0.7'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 37.0.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Tailor]] (level 55) from [[Tailors Essentials Volume 55]]
 item_link: \aITEM -244294064 -1904050747:discord imbued sandcloth hex doll\/a
 categories:

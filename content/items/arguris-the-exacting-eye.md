@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Exacting Eye**'
+effect_name: Exacting Eye
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Exacting Eye on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 530 poison damage on target instantly and every 5 seconds.\n    - Inflicts 530 heat damage on target instantly and every 5 seconds.\n    - Inflicts 530 piercing damage on target instantly and every 5 seconds.\n    - Decreases Accuracy of target by 2.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1865091424 -1351901970:Arguris, The Exacting Eye\/a
 categories:
 - Assassin Equipment

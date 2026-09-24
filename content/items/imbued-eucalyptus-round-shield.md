@@ -16,7 +16,8 @@ stats:
   potency: '6'
   dps: '14.1'
   dtype: Round Shield
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '*Crafted by [[Woodworker]] (level 80) from [[Advanced Woodworker Volume 80 (Heirloom)]] *Crafted by [[Woodworker]] (level 80) from [[Advanced Woodworker Volume 80 (Normal)]]'
 item_link: \aITEM 230196526 1263176337:Imbued Eucalyptus Round Shield\/a
 categories:

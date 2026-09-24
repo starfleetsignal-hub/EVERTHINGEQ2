@@ -17,7 +17,8 @@ stats:
   resolve: '670'
   abmod: +5295,157
   cbovercap: '+1392.4'
-effects: '**Masterful Casting**<br>**Oblivion''s Focus**'
+effect_name: Masterful Casting, Oblivion's Focus
+effects: "- Applies Masterful Casting III when Activated.  Lasts for 25.0 seconds.\n  - Increases Potency of caster by 3,551.5.\n  - Increases Crit Bonus of caster by 285.2.\n  - Increases Crit Bonus Overcap of caster by 107.0.\n  - Increases potency and critical bonus effects by 12% and critial bonus overcap by 5% for each other \"Masterful Casting\" effect active in the raid at the same time.\n  - Cannot be modified except by direct means\n  - The casting time of Masterful Casting III is 2.10 seconds and the reuse time of the spell is 2 minutes\n- When Equipped:\n  - Increases Potency of caster by 23,226.1.\n  - Increases Fervor of caster by 38.7.\n  - Increases Fervor Overcap of caster by 38.7.\n  - Increases Crit Bonus of caster by 1,540.2.\n  - Increases Ability Doublecast of caster by 47.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 660235514 721150911:Unbounded Cthurath's Contained Hunger\/a
 categories:
 - Ability Modifier (Equipment)

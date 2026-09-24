@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dps: '12.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 90905764 1669963332:Cleansing Choker\/a
 categories:
 - Assassin Equipment

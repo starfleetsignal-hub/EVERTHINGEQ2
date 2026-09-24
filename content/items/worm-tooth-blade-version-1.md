@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Vortex**'
+effect_name: Vortex
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Vortex on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 199.\n    - Increases power of caster by 220.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1777445177 -1331893516:Worm Tooth Blade\/a
 image: images/Worm_Tooth_Blade.png
 categories:

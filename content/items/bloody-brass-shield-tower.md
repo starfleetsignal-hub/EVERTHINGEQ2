@@ -16,7 +16,20 @@ stats:
   resolve: '6'
   dps: '61.6'
   dtype: Tower Shield
-effects: Brass Reaction
+effects: 'When Equipped:
+
+
+  - When any damage is received this spell has a 2.8% chance to cast Brass Reaction on target''s attacker. Lasts for 4.0 seconds.
+
+  - Increases physical damage done to target by 15% This spell will absorb a total of 8 attacks.
+
+  - Stuns target
+
+  - Epic targets gain an immunity to Stun effects of 12.0 seconds and duration is reduced to 1.3 seconds.
+
+  - Resistibility increases against targets higher than level 137.
+
+  - Cannot be modified except by direct means'
 obtained_from: 'Collection reward: [[Fabled Weapons of the Orcish Wastes]]'
 item_link: \aITEM 730492276 305287060:Bloody Brass Shield\/a
 image: images/Bloody_Brass_Shield_(Tower).png

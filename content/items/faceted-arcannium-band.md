@@ -15,7 +15,8 @@ stats:
   resolve: '1'
   aspeed: '34.5'
   vselemental: +29,243
-effects: '**Allied Energy**'
+effect_name: Allied Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 193313279 -1191276028:Faceted Arcannium Band\/a
 categories:

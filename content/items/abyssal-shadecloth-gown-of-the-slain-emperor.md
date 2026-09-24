@@ -18,7 +18,8 @@ stats:
   dps: '142'
   cbovercap: '+533.9'
   dtype: Cloth Armor
-effects: '**Vicissitude**'
+effect_name: Vicissitude
+effects: "- When Equipped:\n  - Increases Accuracy of target by 8.6%.\n  - Increases Strikethrough of target by 8.6%.\n  - Increases Crit Bonus of target by 27.4.\n  - Increases Weapon Damage of target by 38.1.\n  - Increases Crit Bonus Overcap of target by 27.4.\n  - Increases Weapon Damage Overcap of target by 38.1."
 obtained_from: From [[Abyssal Pattern of the Slain Emperor (Slain Emperor)|Abyssal Pattern of the Slain Emperor]]
 item_link: \aITEM -1110020757 -2080294088:Abyssal Shadecloth Gown of the Slain Emperor\/a
 categories:

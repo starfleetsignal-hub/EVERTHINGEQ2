@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   vselemental: '+84'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 14.3.\n    - Increases DPS of caster by 21.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -46552282 -629473685:Imbued Rhodium Band of Strength\/a
 categories:
 - Ability Modifier (Equipment)

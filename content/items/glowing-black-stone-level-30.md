@@ -11,7 +11,8 @@ stats:
   str: '+12'
   sta: '+12'
   vsarcane: '+45'
-effects: '**Dark Deeds**'
+effect_name: Dark Deeds
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dark Deeds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 79 magic damage on target.\n    - Heals caster for 150.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 674196546 -1762789712:Glowing Black Stone\/a
 aliases:
 - Glowing Black Stone (Level 32)

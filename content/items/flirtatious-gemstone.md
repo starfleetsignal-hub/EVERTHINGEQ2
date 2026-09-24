@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +21,632
   mitinc: '6'
-effects: '**Flirting with Death**'
+effect_name: Flirting with Death
+effects: "- When Equipped:\n  - When target falls below 30% health this spell will cast Flirting with Death III on caster.  Lasts for 1 minute.\n    - Increases Crit Bonus of caster by 14.0, multiplied by increment stacks.\n    - Increments up to 5 times\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 2.0 seconds."
 item_link: \aITEM -1696974683 -2090902733:Flirtatious Gemstone\/a
 image: images/Flirtatious_Gemstone.png
 categories:

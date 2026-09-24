@@ -15,7 +15,8 @@ stats:
   abmod: '+35'
   vsarcane: '+788'
   dtype: Chain Armor
-effects: Hateshield<br>**Runic Recovery**
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - When target casts a healing spell this spell has a chance to cast Hateshield on target of spell cast. Lasts for 30.0 seconds. This effect will trigger an average of 1.5 times per minute.\n    - Wards target against 1500 points of all damage\n- When Equipped:\n  - Reduces reuse time of benefical spells by 3 percent"
 item_link: \aITEM -559966266 2051900139:Rune Etched Helm\/a
 categories:
 - Ability Modifier (Equipment)

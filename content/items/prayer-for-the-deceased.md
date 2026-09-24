@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Freeze**'
+effect_name: Freeze
+effects: "- Applies Freeze when Activated.  Lasts for 1 minute.\n  - Increases DPS of caster by 50.0.\n  - Converts damage spells to cold damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Freeze is 1 minute"
 item_link: \aITEM 1511184127 1896539395:Prayer For the Deceased\/a
 categories:
 - AE Autoattack Chance (Equipment)

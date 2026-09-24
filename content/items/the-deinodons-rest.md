@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '25.5'
   potency: '25.5'
-effects: '**Hypnotic Tranquility**'
+effect_name: Hypnotic Tranquility
+effects: "- Applies Hypnotic Tranquility II when Activated.  Lasts for 40.0 seconds.\n  - Mesmerizes targets in Area of Effect\n  - Dispelled when target takes damage\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Hypnotic Tranquility II is 3 minutes"
 obtained_from: '[[Discarded Deinos]]'
 item_link: \aITEM -333312994 -1789663606:The Deinodon's Rest\/a
 image: images/The_Deinodon's_Rest.jpg

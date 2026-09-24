@@ -20,7 +20,8 @@ stats:
   drating: '91.5'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Elemental Strike**'
+effect_name: Elemental Strike
+effects: "- When Equipped:\n  - On a damage spell hit this spell will cast Elemental Strike on target of spell.\n    - Inflicts 17 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -648154583 -304748086:Bladed Staff of the Elements\/a
 categories:
 - Ability Modifier (Equipment)

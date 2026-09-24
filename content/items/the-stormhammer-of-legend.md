@@ -17,7 +17,8 @@ stats:
   drating: '24.58'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Thunderquake**'
+effect_name: Thunderquake
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Thunderquake on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 109 magic damage on target.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 15.0 seconds and duration is reduced to 1.7 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Stormhammer (Quest)|The Stormhammer]] of the'
 item_link: \aITEM -2131149760 1619356278:The Stormhammer of Legend\/a
 categories:

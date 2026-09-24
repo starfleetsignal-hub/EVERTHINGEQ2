@@ -15,7 +15,8 @@ stats:
   abmod: '+501'
   multi: '14.4'
   vselemental: +9,554
-effects: '**Fabled Vengeance**'
+effect_name: Fabled Vengeance
+effects: "- When Equipped:\n  - Increases STA of caster by 25.0.\n  - Increases Max Power of caster by 250.0.\n  - Increases Max Health of caster by 250.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '*Made from [[A fabled platinum key]] *[[Platinum Key of Fabled Rujark]]'
 item_link: \aITEM 225574788 -1766629886:Vuzur's Signet Ring\/a
 categories:

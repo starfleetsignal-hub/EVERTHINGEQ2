@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   vsarcane: '+217'
-effects: '**Fire Aura**'
+effect_name: Fire Aura
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Char on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 217 - 326 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Mystical Orbs]]'
 item_link: \aITEM -629567489 1633143627:Mystical Orb of the Invoker\/a
 aliases:

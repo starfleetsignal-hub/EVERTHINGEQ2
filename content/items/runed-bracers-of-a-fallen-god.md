@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Retribution of Zou Kunnen**'
+effect_name: Retribution of Zou Kunnen
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Retribution of Zou Kunnen on caster.  Lasts for 20.0 seconds.\n    - Increases INT of caster by 75.0.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases Potency of caster by 5.0.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 - 9.0 seconds."
 item_link: \aITEM 728397982 1907636602:Runed Bracers of a Fallen God\/a
 categories:
 - Arcane Resistance (Equipment)

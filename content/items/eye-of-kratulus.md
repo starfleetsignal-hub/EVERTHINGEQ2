@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   multi: '10.5'
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 4.0%."
 item_link: \aITEM -2041695814 1160911266:Eye of Kratulus\/a
 categories:
 - Ability Modifier (Equipment)

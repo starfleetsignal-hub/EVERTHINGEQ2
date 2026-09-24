@@ -18,7 +18,8 @@ stats:
   resolve: '555'
   aspeed: '37.6'
   dtype: Chain Armor
-effects: '**Gilded Intensity**'
+effect_name: Gilded Intensity
+effects: "- When Equipped:\n  - Increases Fervor of caster by 22.3.\n  - Increases Fervor Overcap of caster by 44.5.\n  - Must be in a Scars of Destruction raid zone.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1261651862 -358184718:Necropolis Chain Gauntlets of the Gilded Spirit\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +16,380
-effects: '**Frenzy of Death**'
+effect_name: Frenzy of Death
+effects: "- When Equipped:\n  - On a death blow this spell will cast Frenzy of Death II on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases damage per second by 30 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1875470680 -487948295:Mode of Momentum\/a
 categories:
 - Arcane Resistance (Equipment)

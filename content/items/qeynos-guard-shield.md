@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   dps: '8.2'
   dtype: Tower Shield
-effects: '**Ward of Valor**'
+effect_name: Ward of Valor
+effects: "- When Equipped:\n  - When damaged with a spell this spell has a 5% chance to cast Skin of Valor on caster.  Lasts for 3 minutes.\n    - Will absorb elemental, noxious and arcane damage. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n  - When damaged with a spell this spell has a 5% chance to cast Ward of Valor on caster.  Lasts for 20.0 seconds.\n    - When damaged this spell will cast Jolt of Valor on target's attacker.\n      - Inflicts 95 - 116 divine damage on target.\n      - This effect can only trigger once every 2.0 - 5.0 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Final Froglok Word]]'
 item_link: \aITEM -705485550 -409184337:Qeynos Guard\/a
 aliases:

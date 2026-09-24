@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Adrenaline-Charged Heals**'
+effect_name: Adrenaline-Charged Heals
+effects: "- When Equipped:\n  - Whenever the group strikes a deathblow, the wearer will gain 8% potency for 24 seconds. Increments up to 10 times.\n  - If priest\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1615188348 1978244192:Shissar Depraved Bangle\/a
 categories:
 - Adrenaline-Charged Heals (Equipment)

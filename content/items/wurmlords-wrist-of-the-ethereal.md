@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Ethereal Strike**'
+effect_name: Ethereal Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ethereal Strike on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 257,250 poison damage on target.\n    - Increases Crit Bonus of caster by 15.0.\n    - Increases Potency of caster by 15.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Chest of Glory]] *'
 item_link: \aITEM -1324413142 -723295801:Wurmlord's Wrist of the Ethereal\/a
 categories:

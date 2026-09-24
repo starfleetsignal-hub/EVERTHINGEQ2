@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   dps: '207'
   dtype: Cloth Armor
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 obtained_from: From [[Satchel of Thule]]
 item_link: \aITEM 598396062 -792821067:Exemplar Nightweave Pantaloons\/a
 categories:

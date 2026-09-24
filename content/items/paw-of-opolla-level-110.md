@@ -18,7 +18,8 @@ stats:
   resolve: '60'
   aspeed: '70.8'
   flurry: '39.1'
-effects: '**Curse of Opolla**'
+effect_name: Curse of Opolla
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 5% chance to cast Curse of Opolla on caster.\n    - Drains 5% of your group's health and grants a portion of that health back to the wearer!\n    - Cannot be modified except by direct means"
 item_link: \aITEM -930563658 1593363484:Paw of Opolla\/a
 categories:
 - Assassin Equipment

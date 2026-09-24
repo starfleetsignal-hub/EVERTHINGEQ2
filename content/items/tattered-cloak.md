@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: This may have once adorned a window, but now it can adorn your shoulders! Perfect for those who wish to remain as inconspicuous as old window trimmings.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM -1545795148 677034478:Tattered Cloak\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Troublesome Tone**'
+effect_name: Troublesome Tone
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Troublesome Tone on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 85 - 103 magic damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: Purchased with PvP status points.
 item_link: \aITEM 5613468 -683232950:Blade of Anthems\/a
 categories:

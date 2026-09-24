@@ -16,7 +16,8 @@ stats:
   potency: '29.1'
   aspeed: '79.6'
   dtype: Tower Shield
-effects: '**Sheer Malice**'
+effect_name: Sheer Malice
+effects: "- Applies Sheer Malice when Equipped.\n  - Increases Fervor of caster by 5.0."
 item_link: \aITEM 1571097860 1257498298:Contempt, Shield of T'Vyl\/a
 categories:
 - AE Autoattack Chance (Equipment)

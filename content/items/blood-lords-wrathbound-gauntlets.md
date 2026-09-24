@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   aspeed: '14.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: 'Dropped by [[Primus Pilus Gunnr (Challenge Mode Epic)|Primus Pilus Gunnr]] in [[Throne of Storms: Hall of Legends (Challenge)]]'
 item_link: \aITEM -383696269 -1919770546:Blood Lord's Wrathbound Gauntlets\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '5.4'
   dps: '13.1'
   multi: '8.2'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Shut Them Down!]]'
 item_link: \aITEM 2131351439 1988846346:Cloak of the Erudian Cleric\/a
 categories:

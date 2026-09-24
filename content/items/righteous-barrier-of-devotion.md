@@ -16,7 +16,7 @@ stats:
   power: '+150'
   vsarcane: +1,121
   dtype: Tower Shield
-effects: Divine Aegis
+effects: "When equipped:\n\n- On any successfull attack this spell as a chance to cast Divine Aegis on caster. Lasts for 20.0 seconds. This effect will trigger an average of 1.8 times per minute.\n  - Increases mitigation of group members (AE) vs heat, cold, magic, mental, disease and poison damage by 830\n  - Increases Mitigation of group members (AE) vs divine damage by 1245\n- Grants 5.0% chance to resist Stun effects"
 item_link: \aITEM 100301442 -1543400773:Righteous Barrier of Devotion\/a
 categories:
 - Arcane Resistance (Equipment)

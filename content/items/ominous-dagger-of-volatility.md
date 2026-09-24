@@ -17,7 +17,8 @@ stats:
   drating: '38.1'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mindsieve**'
+effect_name: Mindsieve
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Mindsieve IV on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 223 - 247 mental damage on target.\n    - Increases power of caster by 24.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Mindsieve IV on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 223 - 247 mental damage on target.\n    - Increases power of caster by 24.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 40) from [[Ancient Knowledge: Ominous Dagger of Volatility]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -1662657394 -1983434215:Ominous Dagger of Volatility\/a
 categories:

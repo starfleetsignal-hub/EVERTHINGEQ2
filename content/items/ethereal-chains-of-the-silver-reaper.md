@@ -17,7 +17,8 @@ stats:
   aspeed: '24'
   multi: '24'
   dtype: Chain Armor
-effects: '**Reaper''s Guidance**'
+effect_name: Reaper's Guidance
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Reaper's Guidance on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards group members (AE) against 4,800 points of all damage\n    - Heals group members (AE) for 1,702 - 1,881.\n    - Heals group members (AE) for 567 - 627 every 2 seconds.\n    - Increases Crit Bonus of caster by 12.0.\n    - This ward regenerates slowly over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 537795559 1539244071 0 0 0:Ethereal Chains of the Silver Reaper\/a
 categories:
 - Attack Speed (Equipment)

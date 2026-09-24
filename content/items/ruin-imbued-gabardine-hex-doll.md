@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '6'
   dps: '14.1'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 866.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Heirloom)]] *Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Normal)]]'
 item_link: \aITEM 1270846422 -781492271 0 0 0:ruin imbued gabardine hex doll\/a
 categories:

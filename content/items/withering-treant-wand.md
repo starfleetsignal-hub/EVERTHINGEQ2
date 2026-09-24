@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,137 - 4,573 heat damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1951469248 223357873:Withering Treant Wand\/a
 categories:
 - Census Credits

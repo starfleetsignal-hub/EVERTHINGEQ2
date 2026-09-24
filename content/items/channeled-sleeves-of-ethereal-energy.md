@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 10%."
 item_link: \aITEM 858983809 645082712 0 0 0:Channeled Sleeves of Ethereal Energy\/a
 categories:
 - Ability Modifier (Equipment)

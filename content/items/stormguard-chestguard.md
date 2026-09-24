@@ -12,7 +12,8 @@ stats:
   sta: '+12'
   mit: '135'
   dtype: Chain Armor
-effects: '**Day in the Life of a Dwarf**'
+effect_name: Day in the Life of a Dwarf
+effects: "- Applies Day in the Life of a Dwarf when Activated.  Lasts for 20.0 seconds.\n  - Shapechanges caster into a dwarf\n  - On any combat or spell hit this spell will cast Draw Essence on target of attack.\n    - Inflicts 162 magic damage on target.\n    - Heals caster for 80.\n    - Cannot be modified except by direct means\n  - The reuse time of Day in the Life of a Dwarf is 20 minutes"
 item_link: \aITEM 155768358 -942379429:Stormguard Chestguard\/a
 image: images/Stormguard_Chestguard.png
 categories:

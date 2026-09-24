@@ -17,7 +17,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -130089177 642761496 0 0 0:Numinous Voidlink Gloves\/a
 categories:

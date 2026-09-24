@@ -16,7 +16,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   dtype: Symbols
-effects: '**Divine Affliction**'
+effect_name: Divine Affliction
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Divine Affliction on target of spell.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Mitigation of target encounter vs elemental, noxious and arcane damage by 336.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 898132213 -710567183:Glory\/a
 categories:
 - Ability Modifier (Equipment)

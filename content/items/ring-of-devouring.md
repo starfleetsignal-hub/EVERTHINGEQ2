@@ -15,7 +15,8 @@ stats:
   potency: '1.8'
   aspeed: '2.7'
   vsarcane: '+455'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 item_link: \aITEM -262311182 -434266222:Ring of Devouring\/a
 categories:
 - Arcane Resistance (Equipment)

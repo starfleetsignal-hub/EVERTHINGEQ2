@@ -18,7 +18,8 @@ stats:
   drating: '59.02'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 151 - 227 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 91640077 -1222713952:shaped imbued cobalt great flail\/a
 categories:
 - Ability Modifier (Equipment)

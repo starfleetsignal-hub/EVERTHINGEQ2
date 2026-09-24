@@ -22,7 +22,8 @@ stats:
   range: 2 - 50
   dtype: ranged
   wtype: Bow
-effects: '**Rain of Stone**'
+effect_name: Rain of Stone
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Rain of Stone on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 863 - 1,054 crushing damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Ritsy''s Lucky String (Quest)|Ritsy''s Lucky String]] *Final reward from [[The Bow of Underfoot Timeline]]'
 item_link: \aITEM 216732423 -1145756122:The Bow of Underfoot\/a
 image: images/The_Bow_of_the_Underfoot.jpg

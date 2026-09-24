@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   dps: '10.5'
   dtype: Chain Armor
-effects: '**Hypnotic Defense**'
+effect_name: Hypnotic Defense
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Hypnotic Defense on target's attacker.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Mesmerizes target\n    - Dispelled when target takes damage\n    - Only affects targets level 98 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 98.\n    - Cannot be modified except by direct means"
 obtained_from: '[[To the Warlord!]]'
 item_link: \aITEM 840649527 150490914:Mottled Sel'Nok Helm\/a
 categories:

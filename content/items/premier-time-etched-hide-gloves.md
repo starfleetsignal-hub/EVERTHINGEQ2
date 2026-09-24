@@ -17,7 +17,8 @@ stats:
   potency: '10.8'
   dps: '27.9'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1334438154 -87347040:Premier Time Etched Hide Gloves\/a
 categories:
 - Assassin Equipment

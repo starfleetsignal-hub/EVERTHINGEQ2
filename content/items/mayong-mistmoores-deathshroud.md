@@ -17,7 +17,8 @@ stats:
   potency: 28,144.8
   resolve: '375'
   abmod: +224,846
-effects: '**Deathshround''s Protection**'
+effect_name: Deathshround's Protection
+effects: "- Applies Deathshround's Protection when Equipped.\n  - Increases healing received by 20.00%.\n  - Increases Fervor of caster by 25.0.\n  - Increases Fervor Overcap of caster by 15.0.\n  - Increases the damage and healing of all profession abilities by 10.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1829206577 2071068235:Mayong Mistmoore's Deathshroud\/a
 categories:
 - Ability Doublecast (Equipment)

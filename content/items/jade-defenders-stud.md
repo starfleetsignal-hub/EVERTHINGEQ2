@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   vselemental: '+360'
   mitinc: '4.1'
-effects: '**Absorb Essence**'
+effect_name: Absorb Essence
+effects: "- When Equipped:\n  - When damaged this spell has a 6% chance to cast Absorb Essence on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 57.\n    - Increases power of caster by 33 every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1372544250 -231402449:Jade Defender's Stud\/a
 categories:
 - Absorb Essence (Equipment)

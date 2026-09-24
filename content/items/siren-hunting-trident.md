@@ -19,7 +19,8 @@ stats:
   drating: '195.92'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Soul Shielding**'
+effect_name: Soul Shielding
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Soul Shielding on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,500 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 806913433 1238751941 0 0 0:Siren Hunting Trident\/a
 categories:
 - Beastlord Equipment

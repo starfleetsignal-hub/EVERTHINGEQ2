@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Summon Decorated Carpet
+effects: "- Applies Summon Decorated Carpet when Activated. Lasts for 1 day.\n  - Increases Focus, Disruption, Ministration, Subjugation and Ordination of caster by 5.0\n  - Summons a mount to ride that increases your speed by 50%"
 obtained_from: Legends of Norrath loot card
 categories:
 - Assassin Equipment

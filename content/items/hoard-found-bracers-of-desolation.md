@@ -19,7 +19,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 184743486 -575395803:Hoard Found Bracers of Desolation\/a
 categories:
 - Brawler Equipment

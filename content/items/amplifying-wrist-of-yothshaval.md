@@ -15,7 +15,8 @@ stats:
   resolve: '6'
   aspeed: '38'
   vselemental: +35,154
-effects: '**Amplifying Stamina**'
+effect_name: Amplifying Stamina
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 25%-96.3% and Stamina by 270-983. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 458339347 -119553471:Amplifying Wrist of Yothshaval\/a
 categories:
 - Amplifying Stamina (Equipment)

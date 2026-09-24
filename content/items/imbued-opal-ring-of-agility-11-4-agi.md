@@ -11,7 +11,8 @@ stats:
   sta: '+10'
   int: '+10'
   vselemental: '+48'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 10.2.\n    - Increases Haste of caster by 16.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 686386137 -636631750:Imbued Opal Ring of Agility\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   abmod: '+568'
-effects: '**Spiritshield**'
+effect_name: Spiritshield
+effects: "- Applies Spiritshield when Activated.  Lasts for 16.0 seconds.\n  - Reduces all damage done to group members (AE) by 15%.\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The casting time of Spiritshield is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM 35538699 -1154979848:Defiler's Banner of War\/a
 categories:

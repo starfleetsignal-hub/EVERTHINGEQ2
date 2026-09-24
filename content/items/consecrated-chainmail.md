@@ -16,7 +16,8 @@ stats:
   potency: '1'
   dps: '4'
   dtype: Chain Armor
-effects: '**Overflowing Mind**'
+effect_name: Overflowing Mind
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overflowing Mind on the group.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Heals group members (AE) for 280 - 342.\n    - Heals group members (AE) for 60 - 73 every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -667245538 1139669848:Consecrated Chainmail\/a
 categories:
 - Assassin Equipment

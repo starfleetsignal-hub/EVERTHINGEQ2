@@ -15,7 +15,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   abmod: '+270'
-effects: '**Strategic Strikes**'
+effect_name: Strategic Strikes
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Strategic Strikes on target of spell.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 2,398 magic damage on target.\n    - Decreases DPS of target by 20.0.\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Strategic Strikes on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 2,398 magic damage on target.\n    - Decreases DPS of target by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -583636052 1934959734:Tserrina's Flowing Robes\/a
 categories:
 - Ability Modifier (Equipment)

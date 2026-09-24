@@ -11,7 +11,8 @@ flags: lore no-trade no-value
 stats:
   mit: '347'
   dtype: Chain Armor
-effects: '**Feet of Furious Fastness**'
+effect_name: Feet of Furious Fastness
+effects: "- Applies Feet of Furious Fastness when Equipped.\n  - Increases speed of caster by 70.0%."
 obtained_from: Reward from the quest, [Becoming a Guide](https://guide.everquest.com/guideapp/faq.php).
 item_link: \aITEM 1665836253 1150808607:Guide's Chainmail Boots\/a
 categories:

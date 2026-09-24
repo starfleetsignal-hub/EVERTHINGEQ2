@@ -17,7 +17,8 @@ stats:
   abmod: '+418'
   dps: '28.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1541694216 -1889720358:Storm Dragonscale Handguards\/a
 categories:
 - Ability Modifier (Equipment)

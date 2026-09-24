@@ -16,7 +16,8 @@ stats:
   potency: '1.2'
   abmod: '+29'
   dtype: Cloth Armor
-effects: '**Enchanter''s Will**'
+effect_name: Enchanter's Will
+effects: "- Applies Enchanter's Will when Activated.  Lasts for 5 minutes.\n  - Wards caster against 1,500 points of all damage\n  - On a hostile spell cast this spell may cast Clear Mind on target of spell.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases power of caster by 74 every 6 seconds.\n    - Cannot be modified except by direct means\n  - Must have Dreamweave Robe equipped.\n  - The casting time of Enchanter's Will is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 292172550 406683374:Dreamweave Robe\/a
 categories:
 - Ability Modifier (Equipment)

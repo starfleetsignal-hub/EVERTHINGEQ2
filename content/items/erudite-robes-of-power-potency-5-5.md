@@ -17,7 +17,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   dtype: Cloth Armor
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1354958771 1626786206:Erudite Robes of Power\/a
 categories:
 - Ability Modifier (Equipment)

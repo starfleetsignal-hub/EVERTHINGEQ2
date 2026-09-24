@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   abmod: '+191'
-effects: '**Cynosure**'
+effect_name: Cynosure
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Cynosure on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of target by 7.5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 22425900 1623985500:Belt of the Legion Leader's Medic\/a
 categories:
 - Ability Modifier (Equipment)

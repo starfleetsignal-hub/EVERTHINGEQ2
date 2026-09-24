@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Cynosure**'
+effect_name: Cynosure
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Cynosure on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of target by 5.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1616412981 1623985500:Belt of the Legion Leader's Medic\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -269992595 -709233816:Bishop's Faithbringer Plate Cuirass of Smiting\/a
 categories:
 - Ability Modifier (Equipment)

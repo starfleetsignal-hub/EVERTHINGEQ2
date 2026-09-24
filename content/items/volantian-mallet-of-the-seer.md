@@ -18,7 +18,8 @@ stats:
   drating: '74.67'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Seer''s Renewal**'
+effect_name: Seer's Renewal
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Seer's Renewal on target of spell.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 88.\n    - Increases power of caster by 131 every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 116049382 -817104175:Volantian Mallet of the Seer\/a
 categories:
 - AE Autoattack Chance (Equipment)

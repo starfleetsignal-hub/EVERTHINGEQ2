@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   vsarcane: '+210'
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 173 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -475068806 53033077:Desert Hunter's Signet\/a
 categories:
 - Ability Doublecast (Equipment)

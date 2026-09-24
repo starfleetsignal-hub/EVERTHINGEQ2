@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   aspeed: '9.7'
-effects: '**Solid Reflexes**'
+effect_name: Solid Reflexes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Solid Reflexes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 830284633 -159233058:Will of Zek\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dps: '12.8'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1831660144 -2004131018 0 0 0:Unholy Choker\/a
 categories:

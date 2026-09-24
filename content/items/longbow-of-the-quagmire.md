@@ -24,7 +24,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Lifelich**'
+effect_name: Lifelich
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Essencelich II on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 6,369 disease damage on target.\n    - Increases DPS of caster by 80.0.\n    - Increases Potency of caster by 80.0.\n    - Increases Mitigation of caster vs noxious damage by 9,704.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1883491432 -45735668:Longbow of the Quagmire\/a
 categories:
 - Assassin Equipment

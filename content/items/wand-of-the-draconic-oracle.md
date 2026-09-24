@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Clairvoyance**'
+effect_name: Clairvoyance
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Clairvoyance on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 1.0.\n    - This effect grows over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Wand Of The Draconic Oracle]] *Made from [[Bone Golem Shards]] *Made from [[Great Dragon Scales]] *Made from [[Skyshrine Golem Core]]'
 item_link: \aITEM -625277422 -1829253950:Wand of the Draconic Oracle\/a
 categories:

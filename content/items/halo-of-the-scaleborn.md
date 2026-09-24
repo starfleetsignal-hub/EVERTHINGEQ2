@@ -17,7 +17,8 @@ stats:
   abmod: '+40'
   vsarcane: '+210'
   dtype: Plate Armor
-effects: '**Draconic Energy**'
+effect_name: Draconic Energy
+effects: "- Applies Draconic Energy when Activated.  Lasts for 20.0 seconds.\n  - Increases power of caster by 52 every 4 seconds.\n  - The casting time of Draconic Energy is 2.0 seconds and the reuse time of the spell is 13 minutes 20 seconds"
 item_link: \aITEM 1468269973 -1037690605:Halo of the Scaleborn\/a
 categories:
 - Ability Modifier (Equipment)

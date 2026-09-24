@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vsarcane: '+324'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 24.8.\n    - Increases Ordination, Ministration and Focus of caster by 14.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 76) from [[Advanced Jeweler Volume 76 (Heirloom)]] *Crafted by [[Jeweler]] (level 76) from [[Advanced Jeweler Volume 76 (Normal)]] *From [[Caster Jewelry Pack (Level 72 Mastercrafted)]]'
 item_link: \aITEM -8317506 -982097378:Imbued Fire Emerald Ring of Wisdom\/a
 categories:

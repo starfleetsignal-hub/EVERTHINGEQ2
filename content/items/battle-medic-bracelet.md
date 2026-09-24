@@ -11,7 +11,8 @@ stats:
   sta: '+64'
   wis: '+60'
   crit: '8'
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1715409616 -2003621120:Battle Medic Bracelet\/a
 categories:
 - Casting Speed (Equipment)

@@ -9,7 +9,7 @@ flags: NO-TRADE NO-VALUE
 description: Call Pegasus
 stats:
   charges: Unlimited
-effects: Call Pegasus
+effects: "- Applies Call Pegasus when Activated.\n  - Increases Potency of caster by 8.5%\n  - Increases Crit Bonus of caster by 8.5%\n  - Gives caster a 10.0% chance to strikethrough a successful avoidance check\n  - Increases Crit Chance of caster by 41.0\n  - Increases Max Power of caster by 900.00\n  - Increase Max Health of caster by 1,000.00\n  - Summons a mount to ride.\n    - Increases your Ground Speed by 75%\n    - Increases your Air Speed by 150%"
 obtained_from: 'complete the quest [[Tears of Veeshan: Falling Tears]]'
 item_link: \aITEM -460437563 -797754181:Sokokar Windrider\/a
 categories:

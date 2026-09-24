@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 0.13 seconds
   recast: 0.0 seconds
-effects: Exceptional Harvesting Technique
+effects: "- Applies *Exceptional Harvesting Technique* when Activated. Lasts for 10 days\n  - Reduces the harvest time for fishing, foresting, gathering, mining and trapping by .5 second.\n  - Caster will harvest a second time on 10.0% of harvests"
 obtained_from: Have owned a single skill harvesting tool when GU60 went live. To obtain after that, see [[Compact Redwood Harvesting Kit]]
 item_link: \aITEM 2127053452 -138714803:[Redwood Harvesting Kit]\/a
 categories:

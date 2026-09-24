@@ -14,7 +14,8 @@ stats:
   potency: '11.1'
   abmod: '+187'
   vselemental: +8,415
-effects: '**Clockwork Reanimation**'
+effect_name: Clockwork Reanimation
+effects: "- When Equipped:\n  - Applies Guardian Souls: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Guardian Souls is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,310 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 231 points of shielding every 2 seconds\n  - If above level 90\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1938332796 -1194305808:Hammered Earring of the Crazed\/a
 categories:
 - Ability Modifier (Equipment)

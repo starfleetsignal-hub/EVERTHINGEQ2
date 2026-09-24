@@ -17,7 +17,7 @@ stats:
   vselemental: '+420'
   vsarcane: '+490'
   dtype: Cloth Armor
-effects: Flesh to Ice
+effects: "- Applies Flesh to Ice when Activated.  Lasts for 1 minute.\n  - When target is damaged with a melee weapon this spell will cast Ice Burn on target's attacker.\n    - Inflicts # cold damage on target\n  - Shapechanges target into an ice golem"
 item_link: 1609141136 -1542058299:Summoner's Hat of Binding
 categories:
 - Arcane Resistance (Equipment)

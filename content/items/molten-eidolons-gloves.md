@@ -18,7 +18,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Conqueror''s Glove Mold]] *Made from [[Elemental Conqueror''s Glove Pattern]]'
 item_link: \aITEM 1075925189 -2028477235 0 0 0:Molten Eidolon's Gloves\/a
 categories:

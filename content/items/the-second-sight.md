@@ -16,7 +16,8 @@ stats:
   abmod: '+827'
   dps: '28.6'
   vselemental: +32,207
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 164002955 -645264408:The Second Sight\/a
 categories:
 - Ability Modifier (Equipment)

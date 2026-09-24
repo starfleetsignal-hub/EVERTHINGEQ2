@@ -13,7 +13,8 @@ stats:
   crit: '6.9'
   critbonus: '6.1'
   potency: '10.4'
-effects: '**Severity**<br>**Engulfing Aegis**'
+effect_name: Severity, Engulfing Aegis
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis IV on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,400 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Can be received by completing "Collapsing the Capitol" tied to Dracur Prime (Advance Solo).
 item_link: \aITEM -283086937 -1489714007:Mender's Chain of Veeshan's Will\/a
 image: images/Mender's_Chain_of_Veeshan's_Will.jpg

@@ -18,7 +18,8 @@ stats:
   resolve: '65'
   abmod: +32,213
   dps: '54.3'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 34.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1660746469 1084082410:Discarded Shiny Pants Pattern\/a
 categories:
 - Ability Modifier (Equipment)

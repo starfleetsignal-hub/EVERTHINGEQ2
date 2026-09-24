@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 263277924 1045752298:Fang of Thanaraax\/a
 categories:
 - Assassin Equipment

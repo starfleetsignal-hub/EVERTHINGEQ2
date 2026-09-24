@@ -16,7 +16,8 @@ stats:
   potency: '1.6'
   aspeed: '2.2'
   dtype: Cloth Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: '[[The Meeting]]'
 item_link: \aITEM -1431543949 -510327590:Nurgan Foe-blaster's Sleeves\/a
 categories:

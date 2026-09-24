@@ -16,7 +16,8 @@ stats:
   drating: '33.79'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Drunken Rage**'
+effect_name: Drunken Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Drunken Rage on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of caster by 5.0.\n    - Decreases Casting Speed of caster by 5.0%.\n    - Increases DPS of caster by 15.0.\n    - Increases Ability Mod of caster by 75.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1697984487 554977669:Stein of Moggokian Brew\/a
 categories:
 - Ability Modifier (Equipment)

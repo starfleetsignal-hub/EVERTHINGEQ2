@@ -16,7 +16,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   vselemental: '+840'
-effects: '**Thirst of the Dar**'
+effect_name: Thirst of the Dar
+effects: "- When Equipped:\n  - Increases Ability Mod of caster by 55.0.\n  - When a combat art is used this spell has a 9% chance to cast Thirst of the Dar Assassin on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases DPS of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 856665968 -111770219:Silver-Plated Bracer\/a
 categories:
 - Arcane Resistance (Equipment)

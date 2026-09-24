@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Heartsworn Contract**'
+effect_name: Heartsworn Contract
+effects: "- When Equipped:\n  - Increases Potency of caster by 1,283.5.\n  - Increases Fervor of caster by 29.0.\n  - Increases Fervor Overcap of caster by 29.0.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply and the effect does not stack with other \"Heartsworn Contract\" effects.\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 1)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 2)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 3)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 4)|Gerion''s Reckoning Raid Rares Beta Reward]]'
 item_link: \aITEM 2005881687 -1221797932:Gerion's Reckoning Conqueror Earring\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   abmod: '+162'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1726998591 278992300:Dangle of Clerical Precision\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Swiftness**'
+effect_name: Swiftness
+effects: "- When Equipped:\n  - Increases speed of caster by 80.0%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 416808684 1095361455:Fulcrum of Speed\/a
 categories:
 - AE Autoattack Chance (Equipment)

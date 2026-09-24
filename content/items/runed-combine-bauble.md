@@ -15,7 +15,8 @@ stats:
   aspeed: '0.5'
   dps: '2.9'
   vsarcane: '+125'
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 15.8.\n  - This effect suspends during combat"
 item_link: \aITEM 611929832 -190980845:Runed Combine Bauble\/a
 categories:
 - Arcane Resistance (Equipment)

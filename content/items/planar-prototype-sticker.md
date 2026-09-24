@@ -26,7 +26,8 @@ stats:
   drating: '262.54'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.8%.\n    - Inflicts 4,032 heat damage on target.\n    - Inflicts 4,032 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1177507175 1156600516:Planar Prototype Sticker\/a
 categories:
 - Assassin Equipment

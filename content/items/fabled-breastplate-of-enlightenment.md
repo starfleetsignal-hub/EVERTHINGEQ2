@@ -19,7 +19,8 @@ stats:
   multi: '537.9'
   cbovercap: '+198.2'
   dtype: Plate Armor
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -430462489 -589515889:Fabled Breastplate of Enlightenment\/a
 categories:
 - AE Autoattack Chance (Equipment)

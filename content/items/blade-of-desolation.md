@@ -19,7 +19,8 @@ stats:
   drating: '76.16'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Destruction**'
+effect_name: Destruction
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Destruction on target of combat art.\n    - Inflicts 475 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -330334359 -1003266437:Blade of Desolation\/a
 categories:
 - Attack Speed (Equipment)

@@ -15,7 +15,7 @@ stats:
   power: '+115'
   vsarcane: '+900'
   dtype: Kite Shield
-effects: Reflexive Regeneration
+effects: "- When Equipped:\n  - When target is damaged with a melee weapon this spell has a 8% chance to cast Reflexive Regeneration on caster. Lasts for 30 seconds.\n    - Heals caster for 143 instantly and every 5 seconds"
 obtained_from: Sold by [[Klok Zlaxx]] (Faction Merchant) in [[Fens of Nathsar]]
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   vsarcane: '+440'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Brethren Corruption]]'
 item_link: \aITEM -1875694608 698815629:Earring of the Healing Flora\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   aspeed: '0.5'
   dtype: Plate Armor
-effects: '**Arcane Feedback**'
+effect_name: Arcane Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Arcane Feedback on target's attacker.\n    - Inflicts 103 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1187711821 -1542713974:Helm of Reverberation\/a
 categories:
 - Arcane Feedback (Equipment)

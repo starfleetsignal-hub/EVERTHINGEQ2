@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 2 percent."
 item_link: \aITEM 1674323431 -455589008:Robes of the Investigators\/a
 categories:
 - Assassin Equipment

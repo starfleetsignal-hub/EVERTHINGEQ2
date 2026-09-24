@@ -19,7 +19,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Necrotic Scorpikis Poison**'
+effect_name: Necrotic Scorpikis Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Scorpic Necrotoxin on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 498 poison damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Anaphylaxis (Quest)|Anaphylaxis]]'
 item_link: \aITEM -1913547685 -1473967382:Spine of the Scorpikis\/a
 categories:

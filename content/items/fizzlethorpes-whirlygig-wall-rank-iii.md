@@ -18,7 +18,8 @@ stats:
   resolve: '490'
   cbovercap: '+1529.5'
   dtype: Buckler
-effects: '**Blessing of the Grand Prankster**'
+effect_name: Blessing of the Grand Prankster
+effects: "- When Equipped:\n  - \"Blessing of the Grand Prankster\" protects the wearer from strong deific magics used by Bristlebane!"
 item_link: \aITEM -2081095653 936016233:Fizzlethorpe's Whirlygig Wall [Rank III]\/a
 categories:
 - Assassin Equipment

@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Mark of Abandonment**'
+effect_name: Mark of Abandonment
+effects: "- When Equipped:\n  - Decreases Max Power of caster by 150.0.\n  - Increases Max Health of caster by 300.0."
 item_link: \aITEM -119378589 -619291719:Argath, the Axe of Abandonment\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   vselemental: +426,870
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1,078.1.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1614034792 320991445:Wrathful Relic Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

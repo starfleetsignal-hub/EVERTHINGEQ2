@@ -11,7 +11,8 @@ stats:
   str: '+8'
   sta: '+8'
   vsarcane: '+40'
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 10.5.\n  - This effect suspends during combat"
 item_link: \aITEM 748108145 1372854343:Crimson Ring of Vitality\/a
 categories:
 - Antonica Dropped Items

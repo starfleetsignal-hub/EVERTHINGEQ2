@@ -17,7 +17,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Ancient Glyph of Flame**'
+effect_name: Ancient Glyph of Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Flame on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 124 - 207 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 464778499 50564759:Wand of the Living Flame\/a
 categories:
 - Ability Modifier (Equipment)

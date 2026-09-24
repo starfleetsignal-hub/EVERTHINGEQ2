@@ -8,7 +8,8 @@ level: '40'
 slot: Charm
 classes: '[[Armorer]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 200) from [[Dabbler's Blueprints 0.009]].
 item_link: \aITEM -1801375289 -886077357:Gnomish Toughened Ring Press\/a
 image: images/Gnomish_Toughened_Ring_Press.png

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   multi: '7.7'
-effects: '**Lesson of Destruction**'
+effect_name: Lesson of Destruction
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Lesson of Destruction on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 193 magic damage on target.\n    - Inflicts 193 heat damage on target.\n    - Inflicts 193 disease damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -564705563 -1256613370:Yxyran's Dictionary of Arcana\/a
 categories:
 - Census Credits

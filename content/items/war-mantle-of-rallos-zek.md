@@ -6,7 +6,7 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: Lore No-Trade
-effects: Bladed Fury
+effects: "- When Equipped:\n  - On successful attack this spell has a chance to cast **Bladed Fury** on target of attack. Lasts for 6.0 seconds. This effect will trigger an average of 1.8 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - Increases DPS of caster by 14\n    - Inflicts 264 slashing damage on target\n    - Inflicts 85 slashing damage on target every 3 seconds"
 obtained_from: Quest reward for [[In Service of Rallos Zek]] in [[Rallos Zek]] deity quest line
 item_link: 1945930887 -1661016974:War Mantle of Rallos Zek
 image: images/RallosCape.JPG

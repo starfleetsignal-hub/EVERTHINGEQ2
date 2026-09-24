@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Chain Armor
-effects: '**Lesser Counterattack**'
+effect_name: Lesser Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 213 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2105669710 -1143468200:Daredevil Vest\/a
 categories:
 - AE Autoattack Chance (Equipment)

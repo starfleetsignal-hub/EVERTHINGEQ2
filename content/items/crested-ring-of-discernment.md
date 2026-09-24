@@ -17,7 +17,8 @@ stats:
   abmod: '+568'
   multi: '21.6'
   vselemental: +2,079
-effects: '**Dynamist**'
+effect_name: Dynamist
+effects: "- When Equipped:\n  - Increases DPS of caster by 6.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -221631042 -1485326557:Crested Ring of Discernment\/a
 categories:
 - Ability Modifier (Equipment)

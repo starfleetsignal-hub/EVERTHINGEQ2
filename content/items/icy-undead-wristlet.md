@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Chilled Tempers**'
+effect_name: Chilled Tempers
+effects: "- When Equipped:\n  - Inflicts 290,000 cold damage and 500,000 threat reduction to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume I]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM -312821800 -1993751796:Icy Undead Wristlet\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dps: '10.5'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM -1788507991 1373065461:Signet of Drenchmage Power\/a
 categories:
 - Ability Modifier (Equipment)

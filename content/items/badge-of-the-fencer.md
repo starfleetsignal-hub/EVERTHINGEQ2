@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Energy**'
+effect_name: Energy
+effects: "- Applies Energy III when Activated.  Lasts for 1 minute.\n  - Increases AE Autoattack of Caster by 15.0%.\n  - Converts damage spells to magic damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Energy III is 1 minute"
 item_link: \aITEM 835824781 -1394416774:Badge of the Fencer\/a
 categories:
 - Assassin Equipment

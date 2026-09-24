@@ -11,7 +11,8 @@ stats:
   str: '+15'
   sta: '+15'
   vsarcane: '+140'
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 103 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by *[[Acrimoniad]] in [[The Feerrott]] *[[Alangria]] in [[Permafrost]] *[[Solusek's Fist]] in [[Lavastorm]] *[[The Vision of Vox]] in [[Permafrost]] *
 item_link: \aITEM -653754098 -1375865334:Band of Exile\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   crit: '3'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**<br>**Haste**'
+effect_name: Benevolent Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 6 percent.\n- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM -2001454110 1185037063:Patriarch's Gauntlets\/a
 categories:

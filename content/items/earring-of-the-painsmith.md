@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.4'
   vsarcane: '+280'
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 156.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Gathering Grains]]'
 item_link: \aITEM -1188803974 1575633693:Earring of the Painsmith\/a
 categories:

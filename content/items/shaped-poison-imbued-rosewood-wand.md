@@ -18,7 +18,8 @@ stats:
   drating: '52.89'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Poison Bolt**'
+effect_name: Poison Bolt
+effects: "- Applies Poison Bolt when Activated.\n  - Inflicts 244 - 407 poison damage on target.\n  - The casting time of Poison Bolt is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -54693357 347296773:shaped poison imbued rosewood wand\/a
 categories:
 - Ability Modifier (Equipment)

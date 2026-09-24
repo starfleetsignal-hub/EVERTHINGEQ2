@@ -18,7 +18,8 @@ stats:
   drating: '88.35'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Smoldering Blessing**'
+effect_name: Smoldering Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Smoldering Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 120\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 77) from [[Advanced Weaponsmith Volume 77 (Heirloom)]] *Crafted by [[Weaponsmith]] (level 77) from [[Advanced Weaponsmith Volume 77 (Normal)]]'
 item_link: \aITEM -1223391563 1249404256:Blessed Incarnadine Great Sword\/a
 categories:

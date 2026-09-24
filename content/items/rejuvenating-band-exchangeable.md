@@ -16,7 +16,8 @@ stats:
   dps: '12.8'
   vsarcane: '+395'
   dtype: Symbols
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: '\aITEM -1377346508 -761129544:Rejuvenating Band: Exchangeable\/a'
 categories:

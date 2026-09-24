@@ -15,7 +15,8 @@ stats:
   potency: '6'
   multi: '8.9'
   dtype: Tower Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 214 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 80) from [[Advanced Armorer Volume 80 (Heirloom)]] *Crafted by [[Armorer]] (level 80) from [[Advanced Armorer Volume 80 (Normal)]]'
 item_link: \aITEM -506645018 1376831319:Imbued Brellium Tower Shield\/a
 categories:

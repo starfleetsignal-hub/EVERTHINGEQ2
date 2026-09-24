@@ -17,7 +17,8 @@ stats:
   abmod: +1,591
   aspeed: '36'
   dps: '13.8'
-effects: '**Divine Whispers**'
+effect_name: Divine Whispers
+effects: "- Applies Divine Whispers when Activated.  Lasts for 10.0 seconds.\n  - Increases healing received of group members (AE) by 25%\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Whispers is 2 minutes"
 item_link: \aITEM -2004709089 1742631652:Darkened Aberrant Tooth\/a
 categories:
 - Ability Modifier (Equipment)

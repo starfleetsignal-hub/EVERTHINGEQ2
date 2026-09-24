@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   dps: '16.6'
   vselemental: '+511'
-effects: '**Aspect of Purity**'
+effect_name: Aspect of Purity
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Aspect of Purity on target of spell cast.  Triggers about 1.0 times per minute.\n    - Summon 1 Aspect of Purity\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2127520638 1290828495:Morgnon's Band of Preservation\/a
 categories:
 - Arcane Resistance (Equipment)

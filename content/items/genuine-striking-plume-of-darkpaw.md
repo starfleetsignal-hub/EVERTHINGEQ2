@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Amplifying Plume: Ability Doublecast**'
+effect_name: 'Amplifying Plume: Ability Doublecast'
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 39.1.\n  - The value of this effect is increased by the number of characters in the group or raid wearing an Amplifying Plume effect to a maximum of double the base value."
 item_link: \aITEM -1736801746 1448793162:Genuine Striking Plume of Darkpaw\/a
 categories:
 - 'Amplifying Plume: Ability Doublecast (Equipment)'

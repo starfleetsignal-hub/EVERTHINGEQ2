@@ -15,7 +15,8 @@ stats:
   potency: '7.5'
   dps: '16.7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 2108731300 -34803229:Gauntlets of Eidolon's Boon\/a
 categories:
 - Census Credits

@@ -24,7 +24,8 @@ stats:
   drating: '392.07'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 20,769 crushing damage on target.\n    - Increases Crit Bonus of caster by 50.6.\n    - Increases Potency of caster by 78.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1488523436 165142851:Bolstered Prototype Bo\/a
 categories:
 - Ability Modifier (Equipment)

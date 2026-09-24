@@ -19,7 +19,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple VII on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 625 points of all damage\n    - Heals target for 395 - 437 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 70) from [[Ancient Knowledge: Dire Mace of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -1470198423 -498393742:Dire Mace of the Profound\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Conservative Rate of Fire**'
+effect_name: Conservative Rate of Fire
+effects: "- Applies Conservative Rate of Fire III when Activated.\n  - Decreases Haste of caster by 100.0.\n  - Gives caster a 95.0% chance to not use ammunition on an attack.\n  - Cannot be modified except by direct means\n  - The casting time of Conservative Rate of Fire III is 1.0 second and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1510190707 1254678293:Marring Geode of Conservative Fire\/a
 categories:
 - Assassin Equipment

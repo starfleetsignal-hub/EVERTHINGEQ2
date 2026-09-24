@@ -17,7 +17,8 @@ stats:
   resolve: '8'
   mitinc: '12.5'
   dtype: Plate Armor
-effects: '**Ancient''s Aura**'
+effect_name: Ancient's Aura
+effects: "- Applies Ancient's Aura when Equipped.\n  - Increases Fervor of caster by 5.0."
 item_link: \aITEM -1492702764 -1844328576:Ancient Scale Helm\/a
 categories:
 - AE Autoattack Chance (Equipment)

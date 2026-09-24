@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   aspeed: '35.7'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2142133229 126630066:Hoard Found Shawl of Ruination\/a
 categories:
 - Attack Speed (Equipment)

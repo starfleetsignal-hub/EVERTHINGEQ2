@@ -15,7 +15,8 @@ stats:
   drating: '41.27'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 82 - 151 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -240308951 119544682:imbued fulginate war hammer\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,032
-effects: '**Divinity Unyielding**'
+effect_name: Divinity Unyielding
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus based on the number of increments of Divinity Unyielding. 0: -15 Crit Bonus. 1: -10 Crit Bonus. 2: -5 Crit Bonus. 3: 0 Crit Bonus. 4: 33 Crit Bonus. 5: 55 Crit Bonus\n  - On a healing spell cast this spell may cast Divinity Unyielding II on caster.  Lasts for 2 minutes.  Triggers about 1.0 times per minute.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1437394338 -1593531296:Unyielding Ring of the Subterrestrial\/a
 categories:
 - Arcane Resistance (Equipment)

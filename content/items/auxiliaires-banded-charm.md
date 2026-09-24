@@ -19,7 +19,8 @@ stats:
   abmod: +5,913
   dps: '26.8'
   mitinc: '11.2'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 300.4.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1287615028 -1745628718:Auxiliaires' Banded Charm\/a
 categories:
 - AE Autoattack Chance (Equipment)

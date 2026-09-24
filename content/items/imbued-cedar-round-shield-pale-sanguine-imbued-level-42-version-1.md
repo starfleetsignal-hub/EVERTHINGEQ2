@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   vselemental: '+147'
   dtype: Round Shield
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 72 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -832939188 -133250032:Imbued Cedar Round Shield\/a
 aliases:
 - Imbued Cedar Round Shield (Pale Sanguine Imbued) (Level 42)

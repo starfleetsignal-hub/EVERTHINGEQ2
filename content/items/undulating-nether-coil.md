@@ -19,7 +19,8 @@ stats:
   aspeed: '83'
   dps: '63'
   vselemental: +145,188
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 34.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1906286697 -1925878641:Undulating Nether Coil\/a
 categories:
 - Arcane Resistance (Equipment)

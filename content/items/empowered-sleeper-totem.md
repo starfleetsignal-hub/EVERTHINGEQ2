@@ -15,7 +15,8 @@ stats:
   potency: '1.9'
   aspeed: '2.9'
   multi: '3.7'
-effects: '**Prismatic Ardor**'
+effect_name: Prismatic Ardor
+effects: "- Applies Prismatic Ardor when Activated.\n  - Heals caster for 12,978.\n  - This effect cannot be cast during combat\n  - The casting time of Prismatic Ardor is 5.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: '[[Reclaiming the Totems]]'
 item_link: \aITEM 1405620718 1384197333:Empowered Sleeper Totem\/a
 categories:

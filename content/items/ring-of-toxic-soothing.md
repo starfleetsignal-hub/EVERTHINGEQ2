@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   vselemental: +1,395
-effects: '**Runic Deflection**'
+effect_name: Runic Deflection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Deflection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 2,800 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -788909797 -1174067343:Ring of Toxic Soothing\/a
 categories:
 - Ability Modifier (Equipment)

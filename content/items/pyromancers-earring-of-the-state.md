@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   vselemental: +1,728
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -475241017 1468758196:Pyromancer's Earring of the State\/a
 categories:
 - Ability Modifier (Equipment)

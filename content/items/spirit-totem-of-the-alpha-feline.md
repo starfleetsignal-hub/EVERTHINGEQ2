@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Alpha Feline
+effects: "- Applies **Spirit Totem of the Alpha Feline** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a lion\n  - Increases Out-of-Combat health Regeneration of caster by 82\n  - Only affects targets level 40 and above"
 obtained_from: Crafted by [[Woodworker]] (level 48) from [[Woodworker Essentials Volume 48]]
 categories:
 - Assassin Equipment

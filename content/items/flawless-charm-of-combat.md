@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   strike: '9'
   mitinc: '5.3'
-effects: '**Flawless Aura of Combat**'
+effect_name: Flawless Aura of Combat
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flawless Aura of Combat on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 crushing damage on target.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Complete the achievement [[Flawless Victory: The Shadow Odyssey]]'
 item_link: \aITEM 92894355 -1176837326:Flawless Charm of Combat\/a
 categories:

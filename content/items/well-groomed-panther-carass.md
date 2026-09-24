@@ -8,7 +8,7 @@ stats:
   charges: 1/1
   casting: '1.0'
   recast: '5.0'
-effects: Drop Carcass
+effects: '- Applies Drop Carcass when Activated'
 obtained_from: Given to you during the quest [[Finding the Tribute Taker]]
 used_in_quest: '[[Finding the Tribute Taker]]'
 categories:

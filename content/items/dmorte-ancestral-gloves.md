@@ -18,7 +18,8 @@ stats:
   dps: '8.1'
   multi: '4.8'
   dtype: Leather Armor
-effects: '**Hindering Swipe**'
+effect_name: Hindering Swipe
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 6% chance to cast Hindering Swipe on target of combat art.  Lasts for 16.0 seconds.\n    - Decreases DPS of target by 6.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 30311190 1162994040:D'Morte Ancestral Gloves\/a
 categories:
 - Brawler Equipment

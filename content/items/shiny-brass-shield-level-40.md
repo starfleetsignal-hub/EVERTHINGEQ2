@@ -12,7 +12,8 @@ stats:
   sta: '+15'
   dps: '1.1'
   dtype: mace
-effects: '**Brass Flash**'
+effect_name: Brass Flash
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Brass Flash on target's attacker.  Lasts for 1.5 seconds.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 4.5 seconds and duration is reduced to 0.5 seconds.\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 item_link: \aITEM -715339667 118197142:Shiny Brass Shield\/a
 categories:
 - Assassin Equipment

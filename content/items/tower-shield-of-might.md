@@ -14,7 +14,8 @@ stats:
   potency: '0.6'
   aspeed: '0.3'
   dtype: Tower Shield
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 15.8.\n  - This effect suspends during combat"
 item_link: \aITEM -1062778364 2025247457:Tower Shield of Might\/a
 categories:
 - Attack Speed (Equipment)

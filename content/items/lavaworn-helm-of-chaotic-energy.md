@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '*Made from [[Elemental Champion''s Helm Mold]] *Made from [[Elemental Champion''s Helm Pattern]]'
 item_link: \aITEM 554719306 1133004103 0 0 0:Lavaworn Helm of Chaotic Energy\/a
 categories:

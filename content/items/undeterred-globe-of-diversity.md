@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +19,656
-effects: '**Undeterred**'
+effect_name: Undeterred
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Undeterred II on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 200,000-340,000 mental damage and increases the wearer's maximum health by 15,000 to 120,000 based on the number of enemies who hate the wearer that are within 15 meters of the target\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1576016324 1273371793:Undeterred Globe of Diversity\/a
 categories:
 - Arcane Resistance (Equipment)

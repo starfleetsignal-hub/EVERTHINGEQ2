@@ -16,7 +16,7 @@ stats:
   drating: '8.6'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: Glowing Blessing
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to cast Glowing Blessing on target of spell cast.  Lasts for 12.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 8"
 obtained_from: Crafted by [[Craftsman]] (level 17) from [[Craftsman essentials volume 17]]
 item_link: \aITEM -420013727 -494687824:blessed maple fighting baton\/a
 categories:

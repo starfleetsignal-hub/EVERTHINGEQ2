@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Perceptive Faith**'
+effect_name: Perceptive Faith
+effects: "- When Equipped:\n  - The cleric's primary reactive will automatically restore 5% of the damage from attacks."
 obtained_from: From [[Elaborate Ethertouched Necklace]]
 item_link: \aITEM -1305377053 -1964572639:Grendish's Choker of Perception\/a
 categories:

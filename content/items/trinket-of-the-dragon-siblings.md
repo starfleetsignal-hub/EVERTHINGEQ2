@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   multi: '12'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Manawell on target of spell.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 301.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1441990328 1439761292:Trinket of the Dragon Siblings\/a
 categories:
 - Assassin Equipment

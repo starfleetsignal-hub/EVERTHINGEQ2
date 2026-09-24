@@ -9,7 +9,8 @@ flags: lore-equip attunable heirloom
 stats:
   mit: '7'
   dtype: Cloth Armor
-effects: '**Arcane aura of Community**'
+effect_name: Arcane aura of Community
+effects: '- Applies Arcane aura of Community when Equipped.'
 item_link: \aITEM 473484405 -1691897574:Community Team Robe\/a
 categories:
 - Arcane aura of Community (Equipment)

@@ -14,7 +14,8 @@ stats:
   crit: '5'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -1985478096 -165110137:Warding Spirit's Handguards\/a
 categories:
 - Ability Modifier (Equipment)

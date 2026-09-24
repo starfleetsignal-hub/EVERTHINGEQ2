@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+38'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM 623993847 -1250336489:Mantle of the Endless Wastes\/a
 categories:
 - Ability Modifier (Equipment)

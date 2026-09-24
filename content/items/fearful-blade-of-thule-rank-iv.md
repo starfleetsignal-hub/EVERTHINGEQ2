@@ -24,7 +24,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blessing of the Faceless**'
+effect_name: Blessing of the Faceless
+effects: "- When Equipped:\n  - \"Blessing of the Faceless\" protects the wearer from strong deific magics used by Cazic-Thule!"
 item_link: \aITEM 132519219 339501956:Fearful Blade of Thule [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

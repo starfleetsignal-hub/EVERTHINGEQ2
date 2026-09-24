@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   aspeed: '0.5'
   dtype: Cloth Armor
-effects: '**Baffle**'
+effect_name: Baffle
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Baffle on target's attacker.\n    - Decreases Threat to target by 1,800 - 3,000\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2116814845 -650089935:Iceloom Hood\/a
 categories:
 - Assassin Equipment

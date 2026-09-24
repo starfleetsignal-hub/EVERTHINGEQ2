@@ -17,7 +17,8 @@ stats:
   potency: 2,458.9
   resolve: '40'
   aspeed: '61.8'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 21.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Jeweler's Primer Volume 08]]
 item_link: \aITEM 1358632765 1801181982:Student's Bauble of Dexterity\/a
 categories:

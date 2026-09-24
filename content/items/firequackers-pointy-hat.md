@@ -19,7 +19,8 @@ stats:
   abmod: +7,227
   aspeed: '90.4'
   dtype: Cloth Armor
-effects: '**Quacker Power**'
+effect_name: Quacker Power
+effects: "- Applies Quacker Power when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 156752798 75590749:Firequacker's Pointy Hat\/a
 categories:
 - Ability Modifier (Equipment)

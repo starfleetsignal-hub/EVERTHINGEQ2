@@ -15,7 +15,8 @@ stats:
   potency: '11.5'
   aspeed: '12.5'
   multi: '25.6'
-effects: '**March of the Combine**'
+effect_name: March of the Combine
+effects: "- Applies March of the Combine when Activated.  Lasts for 30.0 seconds.\n  - Increases Potency of caster by 10.0.\n  - Increases the base trigger chance of spells and items by 10%.\n  - Cannot be modified except by direct means\n  - The casting time of March of the Combine is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[Tear in the Grotto]]'
 item_link: \aITEM 800392196 1263416371:Vishra's Ribbon of Prowess\/a
 image: images/Vishra's_Ribbon_of_Prowess.png

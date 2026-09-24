@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   abmod: '+270'
   dtype: Leather Armor
-effects: '**Strengthening Tether**'
+effect_name: Strengthening Tether
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Strengthened Tether on caster.  Lasts for 15.0 seconds.  Triggers about 0.2 times per minute.\n    - Increases Crit Bonus and Potency of caster by 10 then adds additional Crit Bonus and Potency every second for 15 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1948515038 -485829288:Leather Gloves of Tireless Delving\/a
 categories:
 - Ability Modifier (Equipment)

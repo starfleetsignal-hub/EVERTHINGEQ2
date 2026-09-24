@@ -13,7 +13,8 @@ stats:
   crit: '3.3'
   critbonus: '1.2'
   potency: '5.2'
-effects: '**Spiritual Nightmare**'
+effect_name: Spiritual Nightmare
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Spiritual Nightmare on target of spell.  Lasts for 5.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 4,193.\n    - Cannot be modified except by direct means\n    - Will trigger off of poison, mental, magic, heat, divine, disease or cold abilities."
 item_link: \aITEM 138847476 690988795:Miragul's Sash of Nightmares\/a
 categories:
 - Casting Speed (Equipment)

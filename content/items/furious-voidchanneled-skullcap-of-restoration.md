@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM -359278137 299225112 0 0 0:Furious Voidchanneled Skullcap of Restoration\/a
 categories:
 - Casting Speed (Equipment)

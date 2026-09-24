@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   flurry: '1.6'
-effects: '**Tranquil Breeze Glyph**'
+effect_name: Tranquil Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 23.\n    - Cannot be modified except by direct means\n  - Must be engaged in pvp combat"
 item_link: \aITEM 2087610299 1209627324:Hoop of the Risen\/a
 categories:
 - Assassin Equipment

@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dps: '2.2'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 540.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -641923031 2052693372:ruin imbued windcloth hex doll\/a
 categories:
 - Assassin Equipment

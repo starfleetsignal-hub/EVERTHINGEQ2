@@ -7,7 +7,8 @@ tier: Treasured
 level: '37'
 slot: Cloak
 flags: lore no-trade
-effects: '**Ward of Security**'
+effect_name: Ward of Security
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Ward of Security on caster.  Lasts for 12.0 seconds.  Triggers about 1.0 times per minute.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: '[[Steam-Powered Spies]]'
 item_link: \aITEM 1004805493 1672001932:Gnomeland Security Cloak\/a
 image: images/Gnomeland_Security_Cloak.jpg

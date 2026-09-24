@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Chain Armor
-effects: '**Haste**<br>**Magical Alacrity**'
+effect_name: Haste, Magical Alacrity
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0.\n- When Equipped:\n  - Reduces cast time of all spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -1114155951 -1402071292 0 0 0:Harmonic Museweave Gloves\/a
 categories:

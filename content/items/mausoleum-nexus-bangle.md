@@ -17,7 +17,8 @@ stats:
   resolve: '505'
   aspeed: '34.4'
   vselemental: +354,380
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1540516877 1804108735:Mausoleum Nexus Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

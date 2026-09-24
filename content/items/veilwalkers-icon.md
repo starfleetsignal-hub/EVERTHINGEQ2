@@ -20,7 +20,8 @@ stats:
   dps: '84.8'
   cbovercap: '+72.4'
   dtype: Symbols
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,896 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: Sold by [[Tishan's Lockbox (The Blinding)]] (Merchant) in [[The Blinding]] for 0c.
 item_link: \aITEM -1543260153 1475912863 0 0 0:Veilwalker's Icon\/a
 image: images/Veilwalker's_Icon.png

@@ -15,7 +15,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   vselemental: '+272'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: Sold by [[Aliyah Vensdord]] (Faction Merchant) in [[Kylong Plains]]
 item_link: \aITEM -968042706 987744644:Gold Inlaid Earring\/a
 categories:

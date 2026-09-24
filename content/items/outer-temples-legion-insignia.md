@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   multi: '31.2'
   vselemental: +11,880
-effects: '**Mob''s Wrath**'
+effect_name: Mob's Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mob's Wrath II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 427,900-655,600 slashing damage to the target based on how many raid members are within 15 meters of the caster\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 443778463 -976906946:Outer Temple's Legion Insignia\/a
 aliases:
 - Outer Temple's Legion Insignia (1 Gem)

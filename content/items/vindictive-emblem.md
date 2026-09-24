@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   abmod: +31,268
   dps: '52.8'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Collection reward: [[Planes of Prophecy Expert Heroic Collection]]'
 item_link: \aITEM 1428715409 -1580895921:Vindictive Emblem\/a
 categories:

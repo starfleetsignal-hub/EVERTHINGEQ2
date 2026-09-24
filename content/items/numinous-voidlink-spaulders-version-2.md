@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 8%."
 item_link: \aITEM -39472747 1121266662 0 0 0:Numinous Voidlink Spaulders\/a
 categories:
 - Casting Speed (Equipment)

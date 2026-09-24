@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   dtype: Leather Armor
-effects: '**Faint Lambent Imbued**'
+effect_name: Faint Lambent Imbued
+effects: "- Applies Faint Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 34 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -631864055 1149795192:crude imbued augmented tunic\/a
 categories:
 - Ability Modifier (Equipment)

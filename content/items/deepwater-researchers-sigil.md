@@ -15,7 +15,8 @@ stats:
   potency: '8.6'
   aspeed: '13.2'
   dps: '21.9'
-effects: '**Deepwater Fury**'
+effect_name: Deepwater Fury
+effects: "- Applies Deepwater Fury when Activated.  Lasts for 20.0 seconds.\n  - Decreases Hate Gain of caster by 13.5 - 16.5.\n  - Prevents AOE (except when direct)\n  - Cannot be modified except by direct means\n  - The reuse time of Deepwater Fury is 5 minutes"
 obtained_from: '[[The Fallen Swords: All Roads Lead To...]]'
 item_link: \aITEM 999949146 187633652:Deepwater Researcher's Sigil\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Cloth Armor
-effects: '**Flesh to Ice**'
+effect_name: Flesh to Ice
+effects: "- Applies Flesh to Ice when Activated.  Lasts for 1 minute.\n  - Shapechanges target into an ice golem\n  - When damaged with a melee weapon this spell will cast Ice Burn on target's attacker.\n    - Inflicts 21 cold damage on target.\n    - Cannot be modified except by direct means\n  - The casting time of Flesh to Ice is 2.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 1609141136 -1542058299:Summoner's Hat of Binding\/a
 categories:
 - Ability Modifier (Equipment)

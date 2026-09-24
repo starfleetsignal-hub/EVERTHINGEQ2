@@ -16,7 +16,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Symbols
-effects: '**Mana Sprinkles**'
+effect_name: Mana Sprinkles
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Mana Sprinkles IV on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 569.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Mana Sprinkles IV on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 569.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2093964483 395014132:Stalwart Barrier of the Rallosian Battlemage\/a
 categories:
 - Ability Modifier (Equipment)

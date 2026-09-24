@@ -17,7 +17,8 @@ stats:
   potency: 34,754
   resolve: '460'
   dps: '206.3'
-effects: '**Girdle Gridiron**'
+effect_name: Girdle Gridiron
+effects: "- When Equipped:\n  - Grants see stealth when in Renewal of Ro raid zones.\n  - Grants an additional 5.9 ability double attack chance when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1089534203 899787131:Girdle of Metallic Mesh\/a
 categories:
 - Assassin Equipment

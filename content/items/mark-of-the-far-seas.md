@@ -9,7 +9,8 @@ slot: Finger
 flags: lore no-trade no-value
 stats:
   sta: '+100'
-effects: '**Mark of the Far Seas**'
+effect_name: Mark of the Far Seas
+effects: "- Applies Mark of the Far Seas when Equipped.\n  - Increases Tradeskill XP of target by 20.0%."
 obtained_from: '[[Return to Refuge]]'
 item_link: \aITEM 1190886581 484723304:Mark of the Far Seas\/a
 image: images/Mark_of_the_Far_Seas.png

@@ -14,7 +14,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '7'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception when Equipped.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 375.\n  - Increases Fervor of caster by 8.0."
 item_link: \aITEM 1784362071 347749972:Zealot's Belt of Flame\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Wrath of the Seas**'
+effect_name: Wrath of the Seas
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wrath of the Seas on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Potency of caster by 35.0.\n    - Inflicts 512,000-776,000 slashing damage to the target based on how many raid members are within 15 meters of the caster\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 156563302 -1734856870:Wristlet of the Malice\/a
 categories:
 - AE Autoattack Chance (Equipment)

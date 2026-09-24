@@ -11,7 +11,8 @@ stats:
   int: '+1'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 obtained_from: Purchased from [[Frostfell Vendor Items|Giggawat and Garslebat  Gigglegibber]] in the Wonderland Village during [[Frostfell]] for 1s 87c
 item_link: \aITEM 1767825872 -1520987628:Tanned Frostfell Elf Cap\/a
 categories:

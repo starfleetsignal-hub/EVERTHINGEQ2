@@ -16,7 +16,8 @@ stats:
   potency: '7.5'
   dps: '16.7'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 431574097 1152858513:Shattered Veil Gloves\/a
 categories:
 - Census Credits

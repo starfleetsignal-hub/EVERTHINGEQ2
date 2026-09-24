@@ -15,7 +15,8 @@ stats:
   potency: '24'
   dps: '21.8'
   multi: '31.2'
-effects: '**Ferocious Assault**'
+effect_name: Ferocious Assault
+effects: "- Applies Ferocious Assault when Activated.  Lasts for 8.0 seconds.\n  - This effect does not stack from multiple casters.\n  - If any of the following are true:\n    - Must be engaged in pvp combat\n    - Must be used within a pvp zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Ferocious Assault is 1 minute"
 item_link: \aITEM 1912945755 -796703290:Slayer's Charm of The Ravager\/a
 categories:
 - Assassin Equipment

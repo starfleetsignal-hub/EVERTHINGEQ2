@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: +1,000
-effects: '**Frozen Memory**'
+effect_name: Frozen Memory
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Frozen Memory on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 620 points of all damage\n    - Increases Ability Mod of target by 100.0.\n    - Replenishes 620 points of absorption every 5 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1163785546 -116266709:Loop of Frozen Memories\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   mitinc: '2.1'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 414405472 -1432532460:Sabatons of Frenzied Wrath\/a
 categories:
 - Berserker Equipment

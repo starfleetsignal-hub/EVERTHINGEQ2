@@ -14,7 +14,8 @@ stats:
   crit: '0.3'
   potency: '0.5'
   dtype: Cloth Armor
-effects: '**Journeyman''s Boots**'
+effect_name: Journeyman's Boots
+effects: "- Applies Journeyman's Boots when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM 1980375666 -1732302927:Legendary Journeyman's Boots\/a
 aliases:
 - Legendary Journeyman's Boots (Level 47) (32 sta)

@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   dps: '5.6'
   dtype: Chain Armor
-effects: '**Silence**'
+effect_name: Silence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silence II on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.0 times per minute.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 86.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -950503249 1629240177:Serilisian gloves\/a
 categories:
 - Assassin Equipment

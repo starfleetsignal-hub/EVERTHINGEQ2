@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   dps: '23'
   dtype: Plate Armor
-effects: '**Nocturnal Celerity**'
+effect_name: Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -1136919920 799557772:Gauntlets of Embracing Mists\/a
 categories:
 - Census Credits

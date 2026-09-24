@@ -18,7 +18,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1552250635 -1665731220:Talon Scar Chain Greaves of Desolation\/a
 categories:
 - Assassin Equipment

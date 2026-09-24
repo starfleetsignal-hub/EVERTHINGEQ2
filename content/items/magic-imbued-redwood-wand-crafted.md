@@ -19,7 +19,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Lightning Shock**'
+effect_name: Lightning Shock
+effects: "- Applies Lightning Shock when Activated.\n  - Inflicts 294 - 489 magic damage on target.\n  - The casting time of Lightning Shock is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '*Crafted by [[Woodworker]] (level 75) from [[Woodworker Essentials Volume 75 (Normal)]] *Crafted by [[Woodworker]] (level 75) from [[Woodworker Essentials Volume 75 (no-trade)]]'
 item_link: \aITEM -1005416920 -27163441:Magic Imbued Redwood Wand\/a
 categories:

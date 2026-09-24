@@ -12,7 +12,8 @@ stats:
   sta: '+16'
   potency: '0.2'
   abmod: '+9'
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM -987637967 -222346472:Parasitic Brooch\/a
 aliases:
 - Parasitic Brooch (Level 50)

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vselemental: '+324'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution VIII on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 1,944.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 80) from [[Ancient Knowledge: Fortified Clutch of Energy]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 41645917 -1776102986:Fortified Clutch of Energy\/a
 categories:

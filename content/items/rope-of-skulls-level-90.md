@@ -11,7 +11,8 @@ stats:
   str: '+52'
   crit: '4'
   abmod: '+75'
-effects: '**Off With His Head!**'
+effect_name: Off With His Head!
+effects: "- Applies Off With His Head! when Equipped.\n  - Decreases Max Health of caster by 20.0%.\n  - Increases Potency of caster by 12.0.\n  - When a combat art is used this spell will cast Behead on caster.\n    - Inflicts 5% of max health in focus damage on caster.\n  - On a damage spell hit this spell will cast Behead on caster.\n    - Inflicts 5% of max health in focus damage on caster.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1654500045 -1471825366:Rope of Skulls\/a
 categories:
 - Ability Modifier (Equipment)

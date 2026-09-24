@@ -17,7 +17,8 @@ stats:
   potency: 62,005.8
   resolve: '660'
   dtype: Plate Armor
-effects: '**Ancient''s Energy**'
+effect_name: Ancient's Energy
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 23.6.\n  - Increases Fervor Overcap of caster by 29.0.\n  - Increases Fervor of caster by 29.0.\n  - Grants an additional 30 in-combat runspeed.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1669412273 -1531079317:Yon-Solhoth's Chausses of Void Corruption\/a
 categories:
 - Ancient's Energy (Equipment)

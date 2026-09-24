@@ -16,7 +16,8 @@ stats:
   abmod: '+568'
   dps: '33.2'
   vselemental: +2,079
-effects: '**Unending Sorrows**'
+effect_name: Unending Sorrows
+effects: "- When Equipped:\n  - Increases Haste of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1334113916 -1968400681:Crested Band of Discernment\/a
 categories:
 - Ability Modifier (Equipment)

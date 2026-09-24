@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Plate Armor
-effects: '**Tranquil Backlash**<br>**Runic Absorption**'
+effect_name: Tranquil Backlash, Runic Absorption
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tranquil Backlash on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 1,132.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell may cast Runic Absorption on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 1,300 points of all damage\n    - This effect stacks with the Runic Deflection line.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 758348317 1776735006:Sacred Blessed Helmet\/a
 categories:
 - Ability Modifier (Equipment)

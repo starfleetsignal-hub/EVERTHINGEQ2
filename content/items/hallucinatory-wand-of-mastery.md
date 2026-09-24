@@ -20,7 +20,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Swiftness**'
+effect_name: Swiftness
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swiftness on caster.  Lasts for 18.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 12.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -436828639 -2120914589:Hallucinatory Wand of Mastery\/a
 categories:
 - Ability Modifier (Equipment)

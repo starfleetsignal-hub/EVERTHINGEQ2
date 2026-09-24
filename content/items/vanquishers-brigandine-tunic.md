@@ -18,7 +18,8 @@ stats:
   multi: '9.6'
   vselemental: +1,269
   dtype: Chain Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Satchel of Vanquisher's Chainmail]]
 item_link: \aITEM 586841974 1235673595:Vanquisher's Brigandine Tunic\/a
 categories:

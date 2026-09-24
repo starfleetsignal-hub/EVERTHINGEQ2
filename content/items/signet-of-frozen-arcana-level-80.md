@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   dps: '12'
   vselemental: '+395'
-effects: '**Befuddle**'
+effect_name: Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 800\n    - Cannot be modified except by direct means"
 item_link: \aITEM 525455032 -2117512380:Signet of Frozen Arcana\/a
 categories:
 - Arcane Resistance (Equipment)

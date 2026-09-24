@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,580
   dps: '53.3'
-effects: '**Lycanthropy**'
+effect_name: Lycanthropy
+effects: "- Applies Lycanthropy when Activated.  Lasts for 30.0 seconds.\n  - Shapechanges caster into a werewolf\n  - Increases Ability Doublecast of caster by 5.0.\n  - Enlarges caster by 50.0%.\n  - Grants a 100.0% chance to resist Stun effects\n  - Cannot be modified except by direct means\n  - The casting time of Lycanthropy is 2.0 seconds and the reuse time of the spell is 6 minutes"
 item_link: \aITEM -1306760773 -532829663:Umbral Mandibles\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +15,652
-effects: '**Cerebral Destruction**'
+effect_name: Cerebral Destruction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cerebral Destruction III on target of attack.  Lasts for 15.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 144,320 mental damage on target.\n    - Decreases INT, AGI, WIS and STR of target by 312.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1277121668 -257158534:Earring of Inspired Destruction\/a
 categories:
 - Arcane Resistance (Equipment)

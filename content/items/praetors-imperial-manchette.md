@@ -17,7 +17,8 @@ stats:
   dps: '21.4'
   multi: '28'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1362140842 -521841970:Praetor's Imperial Manchette\/a
 categories:
 - Accuracy (Equipment)

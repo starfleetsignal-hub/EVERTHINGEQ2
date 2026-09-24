@@ -17,7 +17,8 @@ stats:
   potency: 3,104.9
   resolve: '35'
   flurry: '39.5'
-effects: '**Diamond Dust**'
+effect_name: Diamond Dust
+effects: "- Applies Diamond Dust when Activated.\n  - Emits sparkling motes of pure diamond dust from the caster's skin. Known to invoke disgust in nearby adventurers.\n  - The casting time of Diamond Dust is 0.5 seconds and the reuse time of the spell is 1.0 second"
 item_link: \aITEM 1404023348 -1678823637:Diamond Rod\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Rain of Blades**'
+effect_name: Rain of Blades
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rain of Blades on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,163 - 3,497 slashing damage on target encounter.\n    - Inflicts 633 - 699 slashing damage on target encounter every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 22998964 -1615962704:Stout Mallet of the Sensei\/a
 categories:
 - Attack Speed (Equipment)

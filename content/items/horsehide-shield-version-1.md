@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   flurry: '2.1'
   dtype: Tower Shield
-effects: '**Blessing of the Gladerunner**'
+effect_name: Blessing of the Gladerunner
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Blessing of the Gladerunner on caster.  Lasts for 8.0 seconds.\n    - Heals caster for 57 instantly and every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1818444805 -579842422:Horsehide Shield\/a
 categories:
 - Berserker Equipment

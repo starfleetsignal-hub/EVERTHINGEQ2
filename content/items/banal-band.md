@@ -18,7 +18,8 @@ stats:
   flurry: '36.3'
   vselemental: +66,519
   mitinc: '17.6'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 150.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Despicable Lumps]]'
 item_link: \aITEM -1741247971 1390154439:Banal Band\/a
 categories:

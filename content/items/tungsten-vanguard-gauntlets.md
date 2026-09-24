@@ -16,7 +16,8 @@ stats:
   multi: '73.2'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '*Crafted by [[Armorer]] (level 93) from [[Advanced Armorer Volume 93 (with desc)]] *Crafted by [[Armorer]] (level 93) from [[Advanced Armorer Volume 93 (without desc)]]'
 item_link: \aITEM -1535735196 1865070447:Tungsten Vanguard Gauntlets\/a
 image: images/Tungsten_Vanguard_Gauntlets.png

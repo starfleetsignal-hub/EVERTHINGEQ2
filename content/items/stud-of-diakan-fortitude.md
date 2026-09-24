@@ -16,7 +16,8 @@ stats:
   aspeed: '18.4'
   dps: '29.6'
   vsarcane: +1,833
-effects: '**Burning Gaze of the Warlord**'
+effect_name: Burning Gaze of the Warlord
+effects: "- When Equipped:\n  - Increases healing received by 5.00%."
 item_link: \aITEM 1419316092 -419767964 0 0 0:Stud of Diakan Fortitude\/a
 categories:
 - Arcane Resistance (Equipment)

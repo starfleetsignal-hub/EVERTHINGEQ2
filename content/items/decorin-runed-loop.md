@@ -16,7 +16,8 @@ stats:
   aspeed: '14.1'
   multi: '14.9'
   vsarcane: +1,598
-effects: '**Major Rain of Blades**'
+effect_name: Major Rain of Blades
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Major Rain of Blades on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 4,429 - 4,895 slashing damage on target encounter.\n    - Inflicts 633 - 699 slashing damage on target encounter every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1334847444 77204066 0 0 0:Decorin Runed Loop\/a
 categories:
 - Arcane Resistance (Equipment)

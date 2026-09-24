@@ -16,7 +16,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Mindlash**'
+effect_name: Mindlash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mindlash on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Applies Mindlash Bite on termination.\n      - Inflicts 77 - 129 mental damage on target.\n    - Inflicts 51 - 85 mental damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 761839289 -1033464274:Staff of Stellar Wonders\/a
 categories:
 - Beastlord Equipment

@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: '+511'
-effects: '**Strength of Pingyuan Diqu**'
+effect_name: Strength of Pingyuan Diqu
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Strength of Pingyuan Diqu on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 75.0.\n    - Increases Haste of caster by 40.0.\n    - Increases DPS of caster by 55.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1488213712 484668597:Runed Wristguard of a Fallen God\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: '+34'
   aspeed: '2.8'
   dtype: Chain Armor
-effects: '**Journeyman''s Boots**'
+effect_name: Journeyman's Boots
+effects: "- Applies Journeyman's Boots when Equipped.\n  - Increases speed of caster by 10.0%\n  - This effect suspends during combat"
 item_link: \aITEM 1980375666 -1732302927:Legendary Journeyman's Boots\/a
 categories:
 - Ability Modifier (Equipment)

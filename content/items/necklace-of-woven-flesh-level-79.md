@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   aspeed: '5.5'
   mitinc: '3.9'
-effects: '**Heroic Fortitude**'
+effect_name: Heroic Fortitude
+effects: "- Applies Heroic Fortitude when Activated.\n  - Increases Max Health of caster by 500.0.\n  - This effect requires 1 concentration slot to maintain.\n  - The casting time of Heroic Fortitude is 0.5 seconds"
 item_link: \aITEM 1360782895 1949686245:Necklace of Woven Flesh\/a
 aliases:
 - Necklace of Woven Flesh

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Leather Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 361.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1034421318 -1079587754:Shamanic Shoulderpads of Benevolence\/a
 categories:
 - Assassin Equipment

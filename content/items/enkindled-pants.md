@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   aspeed: '2.7'
   dtype: Leather Armor
-effects: '**Act of Survival**'
+effect_name: Act of Survival
+effects: "- When Equipped:\n  - When any damage is received this spell has a 8% chance to cast Act of Survival on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 167 magic damage on target.\n    - Heals caster for 93.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1647235982 837770571:Enkindled Pants\/a
 categories:
 - Act of Survival (Equipment)

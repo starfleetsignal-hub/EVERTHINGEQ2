@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Greater Rain of Blades**'
+effect_name: Greater Rain of Blades
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Greater Rain of Blades on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,796 - 4,196 slashing damage on target encounter.\n    - Inflicts 633 - 699 slashing damage on target encounter every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1967473142 -1348995029:Scintillating Dirk of the Sagacious Deviant\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   vselemental: '+511'
-effects: '**Runic Absorption**'
+effect_name: Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Absorption on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 700 points of all damage\n    - This effect stacks with the Runic Deflection line.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 78519860 -693805748:Bracelet of Decay\/a
 categories:
 - Ability Modifier (Equipment)

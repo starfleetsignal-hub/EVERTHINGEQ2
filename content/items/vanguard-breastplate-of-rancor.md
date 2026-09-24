@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Ancient Knowledge: Vanguard Breastplate of Rancor]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -2057978791 232388266:Vanguard Breastplate of Rancor\/a
 categories:

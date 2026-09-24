@@ -16,7 +16,8 @@ stats:
   potency: 29,082.9
   resolve: '380'
   vselemental: +245,875
-effects: '**Empowered Heal**'
+effect_name: Empowered Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell has a 20% chance to cast Empowered Heal on caster.\n    - Heals group members (AE) for 1,078.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 item_link: \aITEM 1244094819 717862472:Fabled Ring of the Skygazer\/a
 categories:
 - Arcane Resistance (Equipment)

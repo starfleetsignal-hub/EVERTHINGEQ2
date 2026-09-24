@@ -17,7 +17,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   mitinc: '6'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 8 if they have 2 or more grouped allies within 10 meters of them."
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM 1022328372 -1069607189:Fabled Death Trance\/a
 categories:

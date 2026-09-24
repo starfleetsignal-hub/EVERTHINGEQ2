@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '122'
   dtype: Plate Armor
-effects: '**Tormenting Aura**'
+effect_name: Tormenting Aura
+effects: "- Applies Tormenting Aura when Activated.\n  - Increases Threat to target by 431 - 646\n  - Inflicts 4 - 78 mental damage on target.\n  - The casting time of Tormenting Aura is 0.25 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1662196316 1262808199:Vambraces of Torment\/a
 categories:
 - Berserker Equipment

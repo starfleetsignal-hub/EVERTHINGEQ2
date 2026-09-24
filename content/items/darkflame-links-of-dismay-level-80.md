@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Chain Armor
-effects: '**Toxic Backlash**'
+effect_name: Toxic Backlash
+effects: "- When Equipped:\n  - Wards caster against 478 points of noxious damage\n  - When any noxious damage is received this spell will cast Toxic Backlash on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 239 poison damage on target.\n    - Inflicts 239 disease damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of disease or poison abilities."
 item_link: \aITEM 361124475 1770883644:Darkflame Links of Dismay\/a
 aliases:
 - Darkflame Links of Dismay (Level 79)

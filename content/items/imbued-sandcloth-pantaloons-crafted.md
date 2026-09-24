@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dtype: Cloth Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 87 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 52) from [[Tailor Essentials Volume 52 (Normal)]] *Crafted by [[Tailor]] (level 52) from [[Tailor Essentials Volume 52 (no-trade)]]'
 item_link: \aITEM -2013774054 2096279141:Imbued Sandcloth Pantaloons\/a
 image: images/Imbued_Sandcloth_Pantaloons.jpg

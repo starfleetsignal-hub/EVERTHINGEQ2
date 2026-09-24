@@ -12,7 +12,8 @@ stats:
   int: '+13'
   potency: '0.2'
   dtype: Buckler
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 106 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1899786892 1103984625:Imbued Cedar Buckler\/a
 aliases:
 - Imbued Cedar Buckler (Sanguine Imbued) (Level 40)

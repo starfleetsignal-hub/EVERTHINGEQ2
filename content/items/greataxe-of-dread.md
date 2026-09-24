@@ -16,7 +16,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Frost Gale**'
+effect_name: Frost Gale
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frost Gale on target of attack.  Lasts for 0.3 seconds.  Triggers about 2.0 times per minute.\n    - Throws target back\n    - Inflicts 124 - 207 cold damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 939132866 -1184075032:Greataxe of Dread\/a
 categories:
 - Berserker Equipment

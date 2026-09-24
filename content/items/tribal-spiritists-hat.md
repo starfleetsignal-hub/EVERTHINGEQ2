@@ -17,7 +17,7 @@ stats:
   vsarcane: '+455'
   vsnoxious: '+420'
   dtype: Chain Armor
-effects: Cannibalism
+effects: "- Applies Cannibalism when Activated\n  - Increases power of caster by 205\n  - Inflicts # magic damage on caster"
 item_link: -1804682409 -294818374:Tribal Spiritist's Hat
 categories:
 - Arcane Resistance (Equipment)

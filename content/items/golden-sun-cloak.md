@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Maj Dul's upper class have been longing for a cloak just like this.  Made of a satiny gold material, this cloak is perfect for any fan of skygazing.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM -533180798 -1140989023:Golden Sun Cloak\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   abmod: '+77'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: Sold by [[Bulgup Urple]] (Faction Merchant) in [[Kunzar Jungle]]
 item_link: \aITEM -1271512236 -1650294890:Sash of the Ilis\/a
 categories:

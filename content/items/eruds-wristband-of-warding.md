@@ -11,7 +11,8 @@ stats:
   wis: '+2'
   int: '+2'
   vsarcane: '+4'
-effects: '**Erud''s Warding**'
+effect_name: Erud's Warding
+effects: "- Applies Erud's Warding when Activated.  Lasts for 36.0 seconds.\n  - Wards caster against 72 points of all damage\n  - The casting time of Erud's Warding is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Confrontation]]'
 item_link: \aITEM 1962153571 -1172967160:Erud's Wristband of Warding\/a
 categories:

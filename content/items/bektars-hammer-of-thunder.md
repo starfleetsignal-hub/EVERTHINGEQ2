@@ -16,7 +16,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Thunder Strike**'
+effect_name: Thunder Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 158 - 194 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -656684216 334665455:Bek'Tar's Hammer of Thunder\/a
 categories:
 - Beastlord Equipment

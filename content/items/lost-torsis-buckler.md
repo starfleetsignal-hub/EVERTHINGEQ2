@@ -19,7 +19,8 @@ stats:
   abmod: +2,009
   dps: '56'
   dtype: Buckler
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,625 heat damage on target.\n    - Inflicts 3,625 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1424530063 -712828781:Lost Torsis Buckler\/a
 categories:
 - Ability Modifier (Equipment)

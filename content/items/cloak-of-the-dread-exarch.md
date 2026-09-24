@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   abmod: '+129'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: 'Collection reward: [[Possessions of Gynok Moltor]]'
 item_link: \aITEM 1493720374 393814789:Cloak of the Dread Exarch\/a
 categories:

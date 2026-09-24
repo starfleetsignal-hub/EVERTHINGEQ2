@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 10 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -289734979 -1585732739:Mausoleum Nocturne Barbute\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -18,7 +18,8 @@ stats:
   abmod: +54,768
   cbovercap: '+355.9'
   dtype: Tower Shield
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3%.\n    - Inflicts 1,077 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 47 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 120) from [[Acrylia Woodworker's Primer Volume III]]
 item_link: \aITEM -1632872044 -1489376855:Acrylia Tower of Force\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 63 - 104 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 2024874753 -2106523678:Disease Imbued Bone Wand\/a
 aliases:
 - Disease Imbued Bone Wand (Level 10) (Version 1)

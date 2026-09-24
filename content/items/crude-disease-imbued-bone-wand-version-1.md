@@ -15,7 +15,8 @@ stats:
   drating: '8.7'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 63 - 104 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1644643066 -1175513395:crude disease imbued bone wand\/a
 categories:
 - Berserker Equipment

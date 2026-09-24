@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   multi: '35'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -23344575 -425103442:Ossuary Nexus Chain Bracers\/a
 categories:
 - Assassin Equipment

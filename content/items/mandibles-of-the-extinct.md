@@ -14,7 +14,8 @@ stats:
   critbonus: '5.5'
   potency: '9.6'
   dps: '23.1'
-effects: '**Desolating Rampage**'
+effect_name: Desolating Rampage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Desolating Rampage on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Flurry of Caster by 6.0.\n    - Increases DPS of caster by 30.0.\n    - Increases Haste of caster by 30.0.\n    - Increases Multi Attack of caster by 30.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -263834876 22643260:Mandibles of the Extinct\/a
 categories:
 - Assassin Equipment

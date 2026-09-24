@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   vselemental: '+400'
-effects: '**Taunting Blow**'
+effect_name: Taunting Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Taunting Blow on target of attack.  Triggers about 1.6 times per minute.\n    - Increases Threat to target by 1,050\n    - Cannot be modified except by direct means"
 item_link: \aITEM -800951090 -165921320:Void-infused Bangle\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -19,7 +19,8 @@ stats:
   resolve: '515'
   mitinc: '75.1'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -525170506 -558629778:Ossuary Liminal Mantle\/a
 categories:
 - Brawler Equipment

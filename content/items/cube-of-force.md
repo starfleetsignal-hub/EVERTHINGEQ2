@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Magical Shielding**'
+effect_name: Magical Shielding
+effects: "- Applies Magical Shielding when Activated.  Lasts for 10.0 seconds.\n  - Uses the caster's power to restore health to the target group member. Heals 50% of all incoming damage. 6.6% of the amount healed is subtracted from the caster's power. Terminates if the caster doesn't have the power to absorb the attack.\n  - Cannot be modified except by direct means\n  - The reuse time of Magical Shielding is 30.0 seconds"
 obtained_from: 'Collection reward: [[Ethereal Explorer]]'
 item_link: \aITEM -133597356 -2027403939:Cube of Force\/a
 categories:

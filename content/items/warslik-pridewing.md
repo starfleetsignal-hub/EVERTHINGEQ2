@@ -10,7 +10,7 @@ flags: No-Trade No-Value
 description: Only an 85th and higher seasoned adventurer or tradeskiller will be able to summon this patchwork steed.
 stats:
   charges: Unlimited
-effects: Summon Warslik Pridewing
+effects: "- Applies Summon Warslik Pridewing when Activated.\n  - Increases Focus, Slashing, Ministration, Aggression and Piercing of caster by 5.0\n  - Summons a mount to ride.\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%\n  - Increases Disruption, Crushing, Ranged, Subjugation and Ordination of caster by 5.0."
 obtained_from: 'One of many rewards that can be "bought" for 0 copper from [[Pas Yu]] after completing [[Days of Summer 2017: Week 9]]'
 image: images/Warslik-pridewing-examine.jpg
 categories:

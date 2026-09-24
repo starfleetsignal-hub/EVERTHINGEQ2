@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Defensive Oath**'
+effect_name: Defensive Oath
+effects: "- Applies Defensive Oath II when Activated.  Lasts for 30.0 seconds.\n  - Increases Block Chance of caster by 18.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Defensive Oath II is 1 minute 30 seconds"
 item_link: \aITEM 2051121743 192567846:Defending Rune of Broken Oaths\/a
 categories:
 - Assassin Equipment

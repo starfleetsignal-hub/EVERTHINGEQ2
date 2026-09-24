@@ -22,7 +22,8 @@ stats:
   drating: '2327.23'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: From [[A Packet of Equipment (Monk, 135)|A Packet of Equipment]]
 item_link: \aITEM -924418284 2138145393:Sifu's Fist\/a
 categories:

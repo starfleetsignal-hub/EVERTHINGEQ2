@@ -19,7 +19,8 @@ stats:
   drating: '55.34'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 111 - 166 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 592819456 1622530962:shaped imbued sandalwood pike\/a
 categories:
 - Berserker Equipment

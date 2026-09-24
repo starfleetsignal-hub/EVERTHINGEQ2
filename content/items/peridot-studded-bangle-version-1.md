@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   aspeed: '5.4'
   vselemental: '+360'
-effects: '**Heroism**'
+effect_name: Heroism
+effects: "- Applies Heroism when Activated.  Lasts for 10 minutes.\n  - Increases Max Health of caster by 300.0.\n  - The casting time of Heroism is 2.0 seconds and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 583604 472145160:Peridot Studded Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

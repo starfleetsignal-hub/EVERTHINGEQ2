@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   dtype: Plate Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 50 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 69) from [[Armorer Essentials Volume 69 (Normal)]] *Crafted by [[Armorer]] (level 69) from [[Armorer Essentials Volume 69 (no-trade)]]'
 item_link: \aITEM -1358280424 848409006:Imbued Adamantine Devout Cuirass\/a
 categories:

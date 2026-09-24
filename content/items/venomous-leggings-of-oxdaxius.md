@@ -16,7 +16,8 @@ stats:
   potency: '6.8'
   dps: '17.3'
   dtype: Leather Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '*Sold by [[Sehesh]] in [[Paineel]] Exchange [[Pants of Recollected Balance]] and 45 [[Seal of Arad|Seals of Arad]]'
 item_link: \aITEM 345972047 1500656735:Venomous Leggings of Oxdaxius\/a
 categories:

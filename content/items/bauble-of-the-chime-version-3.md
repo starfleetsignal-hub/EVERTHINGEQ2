@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+98'
   vselemental: '+315'
-effects: '**Subtle Grace**<br>**Fearful Respect**'
+effect_name: Subtle Grace, Fearful Respect
+effects: "- When Equipped:\n  - Increases poison trigger chance by 2.0%.\n- When Equipped:\n  - Decreases Hate Gain of caster by 5.0."
 item_link: \aITEM -1189888196 272040131:Bauble of the Chime\/a
 categories:
 - Ability Modifier (Equipment)

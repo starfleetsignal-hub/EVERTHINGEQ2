@@ -12,7 +12,8 @@ stats:
   sta: '+15'
   mit: '11'
   dtype: Cloth Armor
-effects: '**Hand of the Maker**'
+effect_name: Hand of the Maker
+effects: "- Applies Hand of the Maker when Equipped.\n  - Increases experimental progress by 1.0.\n  - Increases max refining quantity by 10.0.\n  - Increases max crafting quantity by 10.0."
 obtained_from: '[[A Helping Hand in Cobalt Scar]]'
 item_link: \aITEM -1034882413 281447482:The Hand of the Maker\/a
 image: images/The_Hand_of_the_Maker.png

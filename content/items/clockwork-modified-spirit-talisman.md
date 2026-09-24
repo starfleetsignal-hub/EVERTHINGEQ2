@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   aspeed: '8.8'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 1893886830 819519292:Clockwork-modified Spirit Talisman\/a
 categories:
 - Assassin Equipment

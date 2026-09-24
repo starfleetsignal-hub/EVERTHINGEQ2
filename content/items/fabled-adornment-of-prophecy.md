@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 98,784 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM 40207442 78350819:Fabled Adornment of Prophecy\/a
 categories:
 - Arcane Resistance (Equipment)

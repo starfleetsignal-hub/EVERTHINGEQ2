@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Protector''s Spirit**<br>**Featherfall**'
+effect_name: Protector's Spirit, Featherfall
+effects: "- Applies Protector's Spirit when Activated.  Lasts for 12.0 seconds.\n  - Caster will Riposte 5.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n  - The casting time of Protector's Spirit is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of the Guardians (crate)|Cloak of the Guardians]]
 item_link: \aITEM -1960732912 1876767943:Cloak of the Guardians\/a
 categories:

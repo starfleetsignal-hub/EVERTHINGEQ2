@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   aspeed: '37.7'
   mitinc: '7.9'
-effects: '**Understanding the Weak Spots**'
+effect_name: Understanding the Weak Spots
+effects: "- When Equipped:\n  - Increases Potency of caster by 52.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 item_link: \aITEM 1884373931 701451497:Tri-wizard Mitigating Amulet\/a
 categories:
 - Assassin Equipment

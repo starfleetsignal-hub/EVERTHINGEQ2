@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Power Through**'
+effect_name: Power Through
+effects: "- Applies Power Through when Activated.  Lasts for 15 minutes.\n  - Applies Power Through.  Lasts for 22.5 seconds.\n    - Increases Crit Bonus of group members (AE) by 4.0, multiplied by increment stacks.\n    - Increases Potency of group members (AE) by 4.0, multiplied by increment stacks.\n    - Increments up to 10 times, once every 4 seconds\n    - Cannot be modified except by direct means\n  - Drains 5% of the caster's power instantly. Every 4 seconds, the power drain increases by 5% up to 50%. Terminates if the caster doesn't have enough power to maintain the spell\n  - If over 5% power\n  - Cannot be modified except by direct means\n  - The reuse time of Power Through is 1 minute 30 seconds"
 obtained_from: 'Collection reward: [[Ethereal Explorer]]'
 item_link: \aITEM 1397244104 -233646521:Stone of Transference\/a
 categories:

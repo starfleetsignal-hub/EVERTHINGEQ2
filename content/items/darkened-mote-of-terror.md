@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   abmod: +31,259
   mitinc: '17.6'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1887345729 -2063533062:Darkened Mote of Terror\/a
 categories:
 - Ability Modifier (Equipment)

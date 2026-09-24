@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '41'
   dtype: Leather Armor
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 24 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -110628140 -1578516240:Leggings of Nightfall\/a
 categories:
 - Assassin Equipment

@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Healing Torrent**'
+effect_name: Healing Torrent
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Healing Torrent on the group.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 238.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 145518460 -726131739:Hammer of the Pureblood\/a
 categories:
 - Ability Modifier (Equipment)

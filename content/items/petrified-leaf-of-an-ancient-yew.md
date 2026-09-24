@@ -17,7 +17,8 @@ stats:
   potency: 2,432.9
   resolve: '29'
   flurry: '36'
-effects: '**Fates Entwined**'
+effect_name: Fates Entwined
+effects: "- Applies Fates Entwined when Activated.  Lasts for 10.0 seconds.\n  - Applies Fates Entwined.  Lasts for 20.0 seconds.\n    - Increases all damage done to caster by 20%.\n    - Cannot be modified except by direct means\n  - Increases all damage done to target by 4.1%.\n  - Increases Threat to target by 1,038,665  instantly and every 2 seconds thereafter\n  - Cannot be modified except by direct means\n  - The casting time of Fates Entwined is 4.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 1484104512 -880238723:Petrified Leaf of an Ancient Yew\/a
 categories:
 - AE Autoattack Chance (Equipment)

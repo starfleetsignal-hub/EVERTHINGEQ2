@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   vsarcane: '+84'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm IV when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter IV on termination.\n    - Inflicts 1,697 - 1,875 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 42 - 52 poison damage on target.\n  - Inflicts 53 - 65 poison damage on target every second.\n  - Inflicts an additional 21 - 25 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm IV is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 40) from [[Ancient Knowledge: Lucid Stud of Volatility]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -1012371915 -711222254:Lucid Stud of Volatility\/a
 categories:

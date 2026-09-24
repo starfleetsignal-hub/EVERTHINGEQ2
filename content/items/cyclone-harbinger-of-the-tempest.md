@@ -20,7 +20,8 @@ stats:
   drating: '115.2'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Swirling Infusion**'
+effect_name: Swirling Infusion
+effects: "- Applies Swirling Infusion when Activated.  Lasts for 30.0 seconds.\n  - Heals target for 960.\n  - Heals target for 420 every 3 seconds.\n  - Reduces reuse time of spells and combat arts by 10%.\n  - Must have Cyclone, Harbinger of the Tempest equipped.\n  - The casting time of Swirling Infusion is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -2039160237 1581168748:Cyclone, Harbinger of the Tempest\/a
 categories:
 - Beastlord Equipment

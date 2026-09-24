@@ -16,7 +16,8 @@ stats:
   critbonus: '700.1'
   potency: 9,584.7
   resolve: '200'
-effects: '**Off With His Head!**'
+effect_name: Off With His Head!
+effects: "- Applies Off With His Head! when Equipped.\n  - Increases Ability Doublecast of caster by 7.5.\n  - Increases Fervor of caster by 15.0.\n  - Increases Fervor Overcap of caster by 15.0.\n  - On a hostile ability cast this spell will cast Behead on caster.\n    - Inflicts 15% of max health in focus damage on caster.\n    - This effect can only trigger once every 1.0 - 3.0 seconds.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Headless or Tails Active Participant Reward Crate]]
 item_link: \aITEM -1168151770 -1442957865:Horseman's Hallow\/a
 categories:

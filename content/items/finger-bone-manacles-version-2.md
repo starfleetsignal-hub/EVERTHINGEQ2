@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+48'
   vsarcane: '+245'
-effects: '**Beguiling Siphon**'
+effect_name: Beguiling Siphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Beguiling Siphon on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 94 - 157 heat damage on target.\n    - Decreases power of target by 94 - 157.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1286091903 -105988353:Finger Bone Manacles\/a
 categories:
 - Ability Modifier (Equipment)

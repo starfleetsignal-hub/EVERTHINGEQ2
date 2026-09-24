@@ -15,7 +15,8 @@ stats:
   potency: '17.7'
   dps: '20.3'
   multi: '28.2'
-effects: '**One Man Army**'
+effect_name: One Man Army
+effects: "- When Equipped:\n  - Whenever the wearer completes a solo heroic opportunity, they will gain 10% to all attributes and grow by 25% for 16 seconds.\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Coercer, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Conjuror, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Illusionist, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Necromancer, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warlock, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Wizard, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM 163328210 470218471:Intrepid Necklace\/a
 categories:

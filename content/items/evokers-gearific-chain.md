@@ -16,7 +16,8 @@ stats:
   abmod: +1,527
   aspeed: '17.2'
   vselemental: +28,612
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 obtained_from: '*[[Pollen For the Thrall]] *[[Underdepths Saga: Zaphardt''s Defenders]] *[[Underdepths Saga: Zaphardt''s Defenders]]'
 item_link: \aITEM 609789651 -1585577223:Evoker's Gearific Chain\/a
 image: images/Evoker's_Gearific_Chain.png

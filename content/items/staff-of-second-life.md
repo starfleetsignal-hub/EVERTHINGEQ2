@@ -21,7 +21,8 @@ stats:
   drating: '78.74'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Flow of Fyr''Un**<br>**Curse of the Godking**'
+effect_name: Flow of Fyr'Un, Curse of the Godking
+effects: "- Applies Flow of Fyr'Un when Equipped.\n  - Increases Combat Power Regen of caster by 14.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Strike of the Godking on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 346 - 519 magic damage on target.\n    - Heals caster for 167 - 278.\n    - Decreases STR of target by 75.2.\n    - Increases INT and WIS of caster by 25.1.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Wrapping It All Up]]'
 item_link: \aITEM -1217646893 -502706182:Staff of Second Life\/a
 categories:

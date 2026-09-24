@@ -16,7 +16,8 @@ stats:
   abmod: '+187'
   multi: '19.6'
   vselemental: +8,019
-effects: '**Soul Bastion**'
+effect_name: Soul Bastion
+effects: "- When Equipped:\n  - Increases INT and WIS of caster by 34.0.\n  - Increases Potency of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1047585845 -1753088875:Stud of Inescapable Darkness\/a
 categories:
 - Ability Modifier (Equipment)

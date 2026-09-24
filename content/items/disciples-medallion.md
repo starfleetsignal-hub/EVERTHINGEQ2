@@ -17,7 +17,8 @@ stats:
   aspeed: '42.1'
   dps: '32.1'
   multi: '23.2'
-effects: '**Disciple''s Fervor**'
+effect_name: Disciple's Fervor
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell has a 45% chance to cast Disciple's Fervor on the group.  Lasts for 12.0 seconds.\n    - Increases Potency of group members (AE) by 1.6, multiplied by increment stacks.\n    - This effect may increment up to 100 times.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -944481584 119251324:Disciple's Medallion\/a
 categories:
 - Assassin Equipment

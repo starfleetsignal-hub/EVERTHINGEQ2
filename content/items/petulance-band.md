@@ -12,7 +12,8 @@ stats:
   agi: '+50'
   multi: '6'
   vselemental: '+560'
-effects: '**Petulance**'
+effect_name: Petulance
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM -805396831 487036446:Petulance Band\/a
 categories:
 - Arcane Resistance (Equipment)

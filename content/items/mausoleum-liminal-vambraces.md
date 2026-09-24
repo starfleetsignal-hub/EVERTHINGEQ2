@@ -18,7 +18,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 268784907 -1023607505:Mausoleum Liminal Vambraces\/a
 categories:
 - Berserker Equipment

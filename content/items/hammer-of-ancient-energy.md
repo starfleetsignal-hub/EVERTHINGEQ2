@@ -20,7 +20,8 @@ stats:
   drating: '75.95'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Vexing Torment**'
+effect_name: Vexing Torment
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Vexing Torment on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 962\n    - Cannot be modified except by direct means"
 item_link: \aITEM 180202885 1959867161:Hammer of Ancient Energy\/a
 categories:
 - Ability Modifier (Equipment)

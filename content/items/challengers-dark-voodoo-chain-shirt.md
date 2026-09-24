@@ -13,7 +13,8 @@ stats:
   mit: '481'
   critbonus: '13.4'
   dtype: Chain Armor
-effects: '**PvP Potency**<br>**Immaterial Barrier**'
+effect_name: PvP Potency, Immaterial Barrier
+effects: "- When Equipped:\n  - Increases Potency of caster by 5.0.\n  - Must be engaged in pvp combat\n- When Equipped:\n  - On a healing spell cast this spell may cast Immaterial Barrier on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of target vs all damage by 940.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1948528988 899918666:Challenger's Dark Voodoo Chain Shirt\/a
 categories:
 - Bard Equipment

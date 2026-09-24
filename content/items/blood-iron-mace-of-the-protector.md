@@ -21,7 +21,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.8%.\n    - Inflicts 3,520 heat damage on target.\n    - Inflicts 3,520 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 211034808 -1088825579:Blood Iron Mace of the Protector\/a
 categories:
 - Ability Modifier (Equipment)

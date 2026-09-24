@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: From [[Thickened Crystalline Robe]]
 item_link: \aITEM -1510000209 916157634:Thaumaturge's Scourging Robe\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.2%.\n    - Inflicts 1,812 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Emperor Fyst''s Regalia]]'
 item_link: \aITEM -2115573609 -1328738620:Fyst's Spear of Anguish\/a
 image: images/Fyst's_Spear_of_Anguish.png

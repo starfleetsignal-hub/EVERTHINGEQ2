@@ -18,7 +18,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1216719091 1738684349:Talon Scar Gloves of Desolation\/a
 categories:
 - Census Credits

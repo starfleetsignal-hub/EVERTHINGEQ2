@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Cloth Armor
-effects: '**Ethereal Charge**'
+effect_name: Ethereal Charge
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ethereal Charge on caster.  Lasts for 15.0 seconds.  Triggers about 1.6 times per minute.\n    - Reduces spell casting time by 50% and resistibility by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2043468685 -1182932244:Robe of Al'Kabor\/a
 image: images/Robeofalkabor.jpg
 categories:

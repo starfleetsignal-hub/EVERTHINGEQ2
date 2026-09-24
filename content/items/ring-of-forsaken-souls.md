@@ -16,7 +16,8 @@ stats:
   abmod: '+795'
   dps: '27.6'
   vselemental: +29,521
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 108 maximum"
 item_link: \aITEM -1589588710 196618440:Ring of Forsaken Souls\/a
 aliases:
 - Ring of Foresaken Souls

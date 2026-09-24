@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 2.7.\n    - Increases Ordination, Ministration and Focus of caster by 1.5.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Scholar]] (level 16) from [[Scholar essentials volume 16 (Normal)]] *Crafted by [[Scholar]] (level 16) from [[Scholar Essentials Volume 16 (no-trade)]]'
 item_link: \aITEM -1779224013 2101585202:Imbued Turquoise Ring of Wisdom\/a
 categories:

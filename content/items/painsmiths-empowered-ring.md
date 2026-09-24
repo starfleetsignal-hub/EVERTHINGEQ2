@@ -15,7 +15,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   vsnoxious: '+242'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: No longer obtainable
 item_link: \aITEM 905294285 740481482:Painsmith's Empowered Ring\/a
 categories:

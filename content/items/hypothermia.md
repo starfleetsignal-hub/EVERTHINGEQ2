@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Buckler
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 item_link: \aITEM 455426760 -1457104545:Hypothermia\/a
 image: images/Hypothermia.jpg
 categories:

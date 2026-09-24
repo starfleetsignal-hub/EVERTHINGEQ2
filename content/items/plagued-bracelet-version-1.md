@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   vselemental: '+360'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM 395250845 1991312101:Plagued Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

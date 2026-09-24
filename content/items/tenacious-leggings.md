@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   dtype: Leather Armor
-effects: '**Lesser Runic Absorption**'
+effect_name: Lesser Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Lesser Runic Absorption on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means\n  - Must not be in an Expansion: Destiny of Velious zone"
 obtained_from: '[[Spudtop''s Request]]'
 item_link: \aITEM 282270336 792853959:Tenacious Leggings\/a
 categories:

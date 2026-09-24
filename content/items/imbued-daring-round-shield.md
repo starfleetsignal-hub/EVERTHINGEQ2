@@ -16,7 +16,8 @@ stats:
   abmod: '+197'
   vselemental: '+511'
   dtype: Round Shield
-effects: '**Stigmatic Frenzy**'
+effect_name: Stigmatic Frenzy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Stigmatic Frenzy on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of group members (AE) by 6.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM -2088392898 147880359:Imbued Daring Round Shield\/a
 categories:

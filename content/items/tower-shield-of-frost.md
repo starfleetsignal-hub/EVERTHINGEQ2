@@ -14,7 +14,8 @@ stats:
   potency: '0.8'
   aspeed: '0.8'
   dtype: Tower Shield
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 15.8.\n  - This effect suspends during combat"
 item_link: \aITEM 1588159601 794536268:Tower Shield of Frost\/a
 categories:
 - Attack Speed (Equipment)

@@ -12,7 +12,8 @@ stats:
   sta: '+15'
   mit: '201'
   dtype: Chain Armor
-effects: '**Glyph of Warding**'
+effect_name: Glyph of Warding
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Glyph of Warding on caster.  Lasts for 30.0 seconds.\n    - Wards target against 6 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -44860347 1101004868:Stone Imbued Chestguard\/a
 aliases:
 - Stone Imbued Chestguard (Level 45)

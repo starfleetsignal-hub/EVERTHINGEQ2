@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   multi: '7.4'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 1776747002 2083085460:Silken Raiment of Strife\/a
 categories:
 - Arcane Recovery (Equipment)

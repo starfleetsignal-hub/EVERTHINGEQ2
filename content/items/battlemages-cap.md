@@ -15,7 +15,8 @@ stats:
   critbonus: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 516890675 -226688852:Battlemage's Cap\/a
 categories:
 - Ability Modifier (Equipment)

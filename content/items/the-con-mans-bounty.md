@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Herald of Sullon Zek**'
+effect_name: Herald of Sullon Zek
+effects: "- Applies Herald of Sullon Zek when Activated.  Lasts for 15.0 seconds.\n  - Applies Herald of Zek instantly and every 3 seconds.\n    - Increases threat priority of targets in Area of Effect by 3 positions\n    - Increases Threat to targets in Area of Effect by 500,665\n    - Applies instantly and every 3 seconds\n  - Shapechanges caster into a Sullonite Commander\n  - Enlarges caster by 25.0%.\n  - Caster will Dodge 50.0% of incoming attacks.\n  - Increases Mitigation of caster vs physical damage by 5,000.\n  - Suspends the passive effect for 180 seconds\n  - If not fighter\n  - Cannot be modified except by direct means\n  - The reuse time of Herald of Sullon Zek is 3 minutes\n- When Equipped:\n  - Grants the group a 10% chance to inflict 24,000 damage and 350,000 threat (if the player is a fighter) to the target on any attack.\n  - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Chest of Glory]] *'
 item_link: \aITEM -977876515 535088755:The Con Man's Bounty\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '2.7'
   dps: '8.6'
   dtype: Plate Armor
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM -1265579894 -166634337:Spiked Shoulderblades of Cazic\/a
 categories:
 - Berserker Equipment

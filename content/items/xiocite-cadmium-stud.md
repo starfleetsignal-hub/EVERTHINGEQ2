@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +21,632
-effects: '**Spectral Protection**'
+effect_name: Spectral Protection
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Spectral Protection III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 211,200 mental damage on target.\n    - Increases Mitigation of caster vs physical damage by 1,481.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 99) from [[Advanced Jeweler Volume 99]]
 item_link: \aITEM -1256386103 -1720202187:Xiocite Cadmium Stud\/a
 categories:

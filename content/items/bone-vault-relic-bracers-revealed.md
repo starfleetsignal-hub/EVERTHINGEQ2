@@ -19,7 +19,8 @@ stats:
   resolve: '650'
   flurry: '31.5'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Crit Bonus of caster by 2,281.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1082447164 -1899579154:Bone Vault Relic Bracers, Revealed\/a
 categories:
 - Assassin Equipment

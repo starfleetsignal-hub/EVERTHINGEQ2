@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   mitinc: '95.5'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 705746754 -1238759198:Talon Scar Robe of Desolation\/a
 categories:
 - Census Credits

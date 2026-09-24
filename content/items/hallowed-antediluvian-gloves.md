@@ -15,7 +15,8 @@ stats:
   potency: '9.5'
   dps: '21'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -86856839 1399262896 0 0 0:Hallowed Antediluvian Gloves\/a
 categories:
 - Census Credits

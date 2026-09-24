@@ -15,7 +15,8 @@ stats:
   potency: '5'
   aspeed: '7'
   multi: '7.8'
-effects: '**Bane of Slain Pain**'
+effect_name: Bane of Slain Pain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bane of Slain Pain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1399169224 -1550234962:Sash of Pain\/a
 aliases:
 - Sash of Pain

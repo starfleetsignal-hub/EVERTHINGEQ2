@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Cloth Armor
-effects: '**Subjugative Alacrity**'
+effect_name: Subjugative Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of Subjugation-based spells by 2 percent."
 item_link: \aITEM 98884033 -1213838219:Gauntlets of the Moonslave\/a
 categories:
 - Ability Modifier (Equipment)

@@ -11,7 +11,8 @@ stats:
   str: '+13'
   sta: '+13'
   potency: '0.2'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 31.5.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 46) from [[Advanced Tailor Volume 46 (Normal)]] *Crafted by [[Tailor]] (level 46) from [[Advanced Tailor Volume 46 (no-trade)]]'
 item_link: \aITEM 1816874401 1352271074 0 0 0:pristine discord imbued linen hex doll\/a
 categories:

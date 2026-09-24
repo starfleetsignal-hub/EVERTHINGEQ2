@@ -15,7 +15,8 @@ stats:
   potency: '24.2'
   dps: '34.3'
   multi: '36'
-effects: '**Soul Shield**'
+effect_name: Soul Shield
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soul Shield on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Soul Feed on target.\n      - Increases power of caster by 209.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -557080387 1246821158:Signet of the Dead\/a
 categories:
 - Assassin Equipment

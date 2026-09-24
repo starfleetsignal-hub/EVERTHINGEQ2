@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   mitinc: '6'
-effects: '**Stonesoul**'
+effect_name: Stonesoul
+effects: "- Applies Stonesoul when Activated.  Lasts for 30.0 seconds.\n  - Gives caster an extra 15.0% mitigation to their worn armor.\n  - Cannot be modified except by direct means\n  - The reuse time of Stonesoul is 1 minute 30 seconds"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM -2131400908 -446572866:Fabled Ender's Gambit\/a
 categories:

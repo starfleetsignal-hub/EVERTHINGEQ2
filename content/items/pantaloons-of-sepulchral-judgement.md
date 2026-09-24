@@ -17,7 +17,7 @@ stats:
   vselemental: +1,092
   vsarcane: +1,134
   dtype: Cloth Armor
-effects: 'Focus: [[Upheaval]]'
+effects: "- When Equipped:\n  - Reduces the recast of [[Upheaval]] by 30 seconds."
 item_link: -1108927949 -769109353:Pantaloons of Sepulchral Judgement
 categories:
 - Arcane Resistance (Equipment)

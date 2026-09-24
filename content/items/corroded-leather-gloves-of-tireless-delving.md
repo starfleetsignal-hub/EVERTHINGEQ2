@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Leather Armor
-effects: '**Overflowing Mind**'
+effect_name: Overflowing Mind
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overflowing Mind on the group.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Heals group members (AE) for 336 - 411.\n    - Heals group members (AE) for 72 - 88 every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 517212883 -1329344431:Corroded Leather Gloves of Tireless Delving\/a
 categories:
 - Ability Modifier (Equipment)

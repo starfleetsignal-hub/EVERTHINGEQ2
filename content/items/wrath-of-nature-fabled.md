@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Sword
-effects: '**Nature''s Wrath**'
+effect_name: Nature's Wrath
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Nature's Wrath on target of spell.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 410 - 616 heat damage on target.\n    - On a hit this spell will cast Nature's Soothing on target of attack.\n      - Heals target for 269 - 499.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Fury Epic Weapon Timeline]]'
 item_link: \aITEM 935644865 981685698:Wrath of Nature\/a
 image: images/Wrath_of_Nature_(Fabled).png

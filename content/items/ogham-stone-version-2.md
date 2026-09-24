@@ -15,7 +15,8 @@ stats:
   potency: '2.7'
   abmod: '+68'
   dtype: Symbols
-effects: '**Holy Smite**'
+effect_name: Holy Smite
+effects: "- When Equipped:\n  - Increases divine damage done by spells by up to 50."
 item_link: \aITEM -57643990 -368588150:Ogham Stone\/a
 categories:
 - Ability Modifier (Equipment)

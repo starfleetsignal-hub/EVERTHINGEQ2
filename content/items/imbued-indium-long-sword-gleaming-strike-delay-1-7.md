@@ -19,7 +19,8 @@ stats:
   drating: '42.17'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 121 - 225 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1720449113 -369715871:Imbued Indium Long Sword\/a
 categories:
 - Assassin Equipment

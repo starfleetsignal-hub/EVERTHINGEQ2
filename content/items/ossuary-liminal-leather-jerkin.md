@@ -19,7 +19,8 @@ stats:
   resolve: '515'
   mitinc: '88.5'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1594677261 -1347069939:Ossuary Liminal Leather Jerkin\/a
 categories:
 - Brawler Equipment

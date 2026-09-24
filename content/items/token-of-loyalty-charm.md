@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Charm
 flags: lore attunable heirloom no-value
-effects: '**Guild Loyalty**'
+effect_name: Guild Loyalty
+effects: "- Applies Guild Loyalty when Equipped.\n  - Improves the amount of status contributed to the guild by 10.0%.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Token of Loyalty (crate)|Token of Loyalty]]
 item_link: \aITEM -147674926 1453943182:Token of Loyalty\/a
 categories:

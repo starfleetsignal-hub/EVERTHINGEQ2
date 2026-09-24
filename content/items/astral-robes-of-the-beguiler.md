@@ -19,7 +19,8 @@ stats:
   abmod: '+288'
   aspeed: '13.8'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Vallon Zek (Epic)|Vallon Zek]] in [[Vallon's Tower]]
 item_link: \aITEM 870717362 -1807156193:Astral Robes of the Beguiler\/a
 categories:

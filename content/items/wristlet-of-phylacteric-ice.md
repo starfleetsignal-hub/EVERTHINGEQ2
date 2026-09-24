@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   multi: '8.1'
   vselemental: +1,000
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 1613068049 -509604214:Wristlet of Phylacteric Ice\/a
 aliases:
 - Wristlet of Phlacteric Ice

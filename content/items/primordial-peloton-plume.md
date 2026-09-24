@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Amplifying Plume: Pack Speed**'
+effect_name: 'Amplifying Plume: Pack Speed'
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 1.5%.\n  - The value of this effect is increased by the 0.15 per characters in the group or raid wearing an Amplifying Plume effect."
 item_link: \aITEM 854266275 2029866638:Primordial Peloton Plume\/a
 categories:
 - 'Amplifying Plume: Pack Speed (Equipment)'

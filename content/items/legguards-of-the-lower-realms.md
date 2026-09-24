@@ -17,7 +17,8 @@ stats:
   abmod: '+203'
   dps: '17.3'
   dtype: Cloth Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 obtained_from: '*Sold by [[Sehesh]] in [[Paineel]] for [[Pantaloons of the Blasphemous Scholars]] and 45 [[Seal of Arad|Seals of Arad]] *'
 item_link: \aITEM 1719540419 1549264870:Legguards of the Lower Realms\/a
 categories:

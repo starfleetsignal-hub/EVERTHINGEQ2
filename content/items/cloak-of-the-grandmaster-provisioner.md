@@ -8,7 +8,9 @@ level: '100'
 slot: Cloak
 classes: '[[Provisioner]]'
 flags: lore no-trade no-value
-effects: '**Grandmaster''s Focus**<br>**Grandmaster''s Proficiency**'
+effect_name: Grandmaster's Focus, Grandmaster's Proficiency
+effects: "- When Equipped:\n  - Increases AGI of caster by 511.0.\n  - Increases WIS of caster by 511.0.\n  - Increases STR of caster by 511.0.\n  - Increases INT of caster by 511.0.\n  - Increases STA of caster by 903.0.\n  - Increases Resolve of caster by 14.0.\n  - Increases Crit Chance of caster by 72.0.\n  - Increases Crit Bonus of caster by 78.7.\n  - Increases Potency of caster by 756.4.\n  - Increases Max Power of caster by 3,645.0.\n  - Increases Max Health of caster by 6,076.0.\n  - Increases Piercing of caster by 473.0.\n  - Increases Crushing of caster by 473.0.\n  - Increases Ranged of caster by 473.0.\n  - Increases Slashing of caster by 473.0.\n  - Increases Ability Mod of caster by 7,245.0.\n  - Your adventure level must be 100 or above to receive adventuring statistic bonuses.\n- Applies Grandmaster's Proficiency when Activated.  Lasts for 7 days.\n  - Decreases experimental critical failure chance by 5.0%.\n  - Increases the amount of durability gained by 5.0.\n  - Increases\
+  \ success chance by 1.6%.\n  - The casting time of Grandmaster's Proficiency is 5.0 seconds"
 obtained_from: '[[The Final Blow]]'
 item_link: \aITEM 1738828661 1629630395:Cloak of the Grandmaster Provisioner\/a
 categories:

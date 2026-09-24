@@ -16,7 +16,7 @@ stats:
   vsarcane: +1,275
   vsnoxious: +1,275
   dtype: Round Shield
-effects: Unbridled Savagery
+effects: "- When Equipped:\n  - On any successful attack this spell has a chance to cast Unbridled Savagery on caster.  Lasts 15 seconds. This effect will trigger on average of 1.8 times per minute.\n    - Increase Damage Per Second of caster by 45"
 item_link: \aITEM -1142729822 581357847:Ethernaut's Roundshield of Knowledge\/a
 categories:
 - Arcane Resistance (Equipment)

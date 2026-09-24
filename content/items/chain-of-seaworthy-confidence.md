@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 5.  This effect increases to 11 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 1402312047 -604902783:Chain of Seaworthy Confidence\/a
 categories:
 - AE Autoattack Chance (Equipment)

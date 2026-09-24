@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Welled Up Rage**'
+effect_name: Welled Up Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Welled Up Rage on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 324 poison damage on target.\n    - Inflicts 324 disease damage on target.\n    - Inflicts 324 cold damage on target.\n    - Increases Crit Chance of caster by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2120587773 1302304781:Murky Gemstone Choker\/a
 categories:
 - Ability Modifier (Equipment)

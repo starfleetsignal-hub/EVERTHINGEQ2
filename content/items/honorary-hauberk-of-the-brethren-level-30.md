@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '135'
   dtype: Chain Armor
-effects: '**Power of the Brethren**'
+effect_name: Power of the Brethren
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 5.0.\n  - This effect suspends during combat"
 obtained_from: '[[Crushing Betrayal]]'
 item_link: \aITEM 179514337 -561133231:Honorary Hauberk of the Brethren\/a
 image: images/Honorary_Hauberk_of_the_Brethren.jpg

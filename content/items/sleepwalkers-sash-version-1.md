@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 121.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -833377279 -1224965901:Sleepwalker's Sash\/a
 categories:
 - Ability Modifier (Equipment)

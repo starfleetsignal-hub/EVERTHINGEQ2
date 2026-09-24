@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '56'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Reverent Wristguard of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1857146796 818583487:Reverent Wristguard of Smiting\/a
 categories:

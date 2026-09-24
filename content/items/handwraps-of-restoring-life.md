@@ -16,7 +16,8 @@ stats:
   multi: '39.2'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Achievement reward: [[Restorer of Life]]'
 item_link: \aITEM 2110248713 879866164:Handwraps of Restoring Life\/a
 categories:

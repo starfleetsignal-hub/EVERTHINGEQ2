@@ -16,7 +16,8 @@ stats:
   drating: '21.28'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Burst of Wrath Glyph**'
+effect_name: Burst of Wrath Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1044862528 2059517686:Bo of Warding\/a
 categories:
 - Beastlord Equipment

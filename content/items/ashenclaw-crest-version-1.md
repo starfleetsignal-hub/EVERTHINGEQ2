@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   multi: '6.5'
   dtype: Buckler
-effects: '**Twisted Thoughts**'
+effect_name: Twisted Thoughts
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Twisted Thoughts on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,250\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1431923471 1512521510:Ashenclaw Crest\/a
 categories:
 - Berserker Equipment

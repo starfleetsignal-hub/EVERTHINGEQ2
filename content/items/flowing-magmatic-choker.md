@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dps: '9.7'
-effects: '**Befuddle**'
+effect_name: Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 800\n    - Cannot be modified except by direct means"
 item_link: \aITEM -163914266 -2134624098:Flowing Magmatic Choker\/a
 categories:
 - Ability Modifier (Equipment)

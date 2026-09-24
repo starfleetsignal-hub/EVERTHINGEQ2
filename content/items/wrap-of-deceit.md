@@ -14,7 +14,8 @@ stats:
   critbonus: '13.3'
   potency: '13.3'
   aspeed: '49.6'
-effects: '**Bristlebanes Anger**'
+effect_name: Bristlebanes Anger
+effects: "- When Equipped:\n  - Increases INT of caster by 55.0.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Max Health of caster by 2,250.0.\n  - Increases Disruption and Subjugation of caster by 45.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1813538195 -1350433391 0 0 0:Wrap of Deceit\/a
 categories:
 - Attack Speed (Equipment)

@@ -18,7 +18,8 @@ stats:
   aspeed: '20.3'
   vselemental: +2,079
   mitinc: '13.5'
-effects: '**Somatic Ascendancy**'
+effect_name: Somatic Ascendancy
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Somatic Ascendancy III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Strikethrough of caster by 3.0%.\n    - Increases Potency of caster by 12.5.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Somatic Ascendancy III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Strikethrough of caster by 3.0%.\n    - Increases Potency of caster by 12.5.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1176210987 981734385:Ring of Cerulean Force\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   vselemental: +1,832
-effects: '**Pact of the Dismal Rage**'
+effect_name: Pact of the Dismal Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pact of the Dismal Rage on target.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of raid and group members (AE) by 15.0.\n      - If priest\n    - Cannot be modified except by direct means"
 item_link: \aITEM 450279215 571071605:Warcouncil Earrings of Dismal Rage\/a
 categories:
 - Arcane Resistance (Equipment)

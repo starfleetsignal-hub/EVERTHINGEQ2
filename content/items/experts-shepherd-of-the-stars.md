@@ -18,7 +18,8 @@ stats:
   resolve: '14'
   abmod: +36,914
   aspeed: '45.9'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -423970545 -148443239:Expert's Shepherd of the Stars\/a
 categories:
 - Ability Modifier (Equipment)

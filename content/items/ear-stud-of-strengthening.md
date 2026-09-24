@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   dps: '16.6'
   vselemental: '+511'
-effects: '**Empowered Attacks**'
+effect_name: Empowered Attacks
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Empowered Attacks on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 900.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 864263619 1206720840:Ear Stud of Strengthening\/a
 categories:
 - Arcane Resistance (Equipment)

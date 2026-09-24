@@ -9,7 +9,7 @@ flags: ATTUNEABLE
 stats:
   wis: '+2'
   int: '+2'
-effects: Aura of Wisdom
+effects: "- When Equipped:\n  - When target casts a beneficial spell this spell has a chance to cast Gleam of Wisdom on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases INT of caster by 3.6\n    - Increases Focus, Ministration and Ordination of caster by 2.2"
 obtained_from: Crafted by [[Scholar]] (level 16) from [[Scholar essentials volume 16]]
 item_link: \aITEM -1779224013 -270039562:Pristine Imbued Turquoise Ring of Wisdom\/a
 categories:

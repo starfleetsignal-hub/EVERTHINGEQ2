@@ -18,7 +18,8 @@ stats:
   range: 2 - 30
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Ruinous Glyph**'
+effect_name: Ruinous Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ruinous Glyph on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2142251222 2134582500:Smuggler's Sack\/a
 categories:
 - Assassin Equipment

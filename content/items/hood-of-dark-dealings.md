@@ -16,7 +16,8 @@ stats:
   potency: '3.9'
   dps: '11'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**<br>**Obsidian Chaos**'
+effect_name: Sorcerous Alacrity, Obsidian Chaos
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent.\n- When Equipped:\n  - On a hostile spell cast this spell will cast Obsidian Chaos on target of spell.\n    - Inflicts 1 to 150 mental damage. May randomly spike for much greater damage."
 item_link: \aITEM 1386293886 53803786:Hood of Dark Dealings\/a
 categories:
 - Assassin Equipment

@@ -21,7 +21,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Soothing Breeze**'
+effect_name: Soothing Breeze
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Soothing Breeze III on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 5,174 - 5,719.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Temporal Gem Hunt]]'
 item_link: \aITEM -177620422 -1852065265:Censer of Decelerated Particles\/a
 categories:

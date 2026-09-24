@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,137 - 4,573 heat damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1741159836 -2103688644:Combine Dark Bow\/a
 categories:
 - Assassin Equipment

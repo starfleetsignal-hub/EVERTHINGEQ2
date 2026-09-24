@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   strike: '17'
   abmod: '+393'
-effects: '**Tactical Engagement**'
+effect_name: Tactical Engagement
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Tactical Engagement III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Increases Strikethrough of caster by 2.5%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Tactical Engagement III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Increases Strikethrough of caster by 2.5%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -100177459 -904982719 0 0 0:Torque of the Arbiter\/a
 categories:
 - Ability Modifier (Equipment)

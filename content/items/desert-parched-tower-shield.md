@@ -17,7 +17,8 @@ stats:
   resolve: '410'
   cbovercap: '+1449.6'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '*Potential reward from [[Renewal Crate (Tier 4)]] on completion of [[Just Deserts: Blood and Sand (Signature)]] *Made from [[(Temporary 45 Day) Gear Up Swag it Up]]'
 item_link: \aITEM -1811748790 -758645758:Desert Parched Tower Shield\/a
 image: images/Desert_Parched_Tower_Shield.png

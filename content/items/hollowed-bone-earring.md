@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +26,832
-effects: '**Physical Vulnerability**'
+effect_name: Physical Vulnerability
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Physical Vulnerability III on target of attack.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases physical damage done to target encounter by 1.4%.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1478170471 1266916573:Hollowed Bone Earring\/a
 categories:
 - Arcane Resistance (Equipment)

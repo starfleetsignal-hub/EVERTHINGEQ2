@@ -17,7 +17,8 @@ stats:
   critbonus: '24'
   potency: '24'
   multi: '31.2'
-effects: '**Ferocious Assault**'
+effect_name: Ferocious Assault
+effects: "- Applies Ferocious Assault III when Activated.  Lasts for 8.0 seconds.\n  - This effect does not stack from multiple casters.\n  - If any of the following are true:\n    - Must be engaged in pvp combat\n    - Must be used within a pvp zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Ferocious Assault III is 1 minute"
 item_link: \aITEM 1833809339 -1895930880:Champion's Charm of Slaughter\/a
 categories:
 - AE Autoattack Chance (Equipment)

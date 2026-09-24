@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vselemental: '+217'
-effects: '**Shared Vigor**'
+effect_name: Shared Vigor
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shared Vigor VII on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of target by 6.0.\n    - Increases Potency of caster by 6.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 70) from [[Ancient Knowledge: Radiant Ring of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -169447205 -220510215:Radiant Ring of the Profound\/a
 categories:

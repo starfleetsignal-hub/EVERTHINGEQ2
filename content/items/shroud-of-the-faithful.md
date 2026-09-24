@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: ornate lore-equip attunable heirloom no-value
 description: Woven to match the steed's trim, this cloak is made in the style worn by Firiona Vie herself when on horseback!
-effects: '**Flames of the Gathering**'
+effect_name: Flames of the Gathering
+effects: "- Applies Flames of the Gathering when Activated.\n  - Send fireworks into the sky!\n  - The casting time of Flames of the Gathering is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -608075259 -1338056258:Shroud of the Faithful\/a
 categories:
 - Assassin Equipment

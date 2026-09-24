@@ -14,7 +14,7 @@ stats:
   critbonus: '6.9'
   potency: '6.9'
   dtype: Symbols
-effects: Focused Destruction II
+effects: "When Equipped:\n\n- On a healing spell cast this may cast Focused Destruction II on caster. Lasts 10.0 seconds. Triggers about 2.0 times per minute.\n  - Increase Ability Modifier of caster by 660.0\n  - Must not be engaged in PVP combat\n  - Cannot be modified except by direct means\n- On any combat or spell hit this spell may cast Focused Destruction II on the caster. Lasts 10.0 seconds.\n  - Increase Ability Modifier of caster by 660.0\n  - Must not be engaged in PVP combat\n  - Cannot be modified except by direct means"
 item_link: \aITEM 811683797 834885541:Corrosive Brace of Balm\/a
 categories:
 - Channeler Equipment

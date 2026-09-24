@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Growth**'
+effect_name: Featherfall, Growth
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Growth when Activated.  Lasts for 12 hours.\n  - Enlarges caster by 34.1%.\n  - The casting time of Growth is 2.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '*From [[Six Month Subscription Crate]] *From [[Three Month Subscription Crate]] *From [[Twelve Month Subscription Crate]]'
 item_link: \aITEM -903251612 7941698:Cloak of the Storm\/a
 categories:

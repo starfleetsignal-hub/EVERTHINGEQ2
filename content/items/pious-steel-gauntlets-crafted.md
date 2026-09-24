@@ -17,7 +17,8 @@ stats:
   aspeed: '6.9'
   dps: '12.4'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 93410704 -1296929666 0 0 0:Pious Steel Gauntlets\/a
 categories:

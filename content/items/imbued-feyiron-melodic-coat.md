@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '133'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 22 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 38) from [[Armorer Essentials Volume 38 (Normal)]] *Crafted by [[Armorer]] (level 38) from [[Armorer Essentials Volume 38 (no-trade)]]'
 item_link: \aITEM -61404600 -1485727686:Imbued Feyiron Melodic Coat\/a
 categories:

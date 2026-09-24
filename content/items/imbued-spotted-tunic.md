@@ -17,7 +17,8 @@ stats:
   abmod: '+179'
   aspeed: '8.1'
   dtype: Leather Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 109 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 88) from [[Advanced Tailor Volume 88 (Heirloom)]] *Crafted by [[Tailor]] (level 88) from [[Advanced Tailor Volume 88 (Normal)]]'
 item_link: \aITEM 1660266418 131619172:Imbued Spotted Tunic\/a
 categories:

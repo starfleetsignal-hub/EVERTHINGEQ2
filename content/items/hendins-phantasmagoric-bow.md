@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Stalker''s Missile**'
+effect_name: Stalker's Missile
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Stalker's Missile on target of attack.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,542 - 2,809 crushing damage on targets in Area of Effect.\n    - Inflicts 508 - 562 crushing damage on targets in Area of Effect every 2 seconds.\n    - Inflicts an additional 254 - 280 crushing damage on targets in Area of Effect every tick.\n    - Increases Crit Bonus of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2003194462 -127127140:Hendin's Phantasmagoric Bow\/a
 categories:
 - AE Autoattack Chance (Equipment)

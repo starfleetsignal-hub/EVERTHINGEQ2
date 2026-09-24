@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dps: '12.6'
-effects: '**Warrior''s Grace**'
+effect_name: Warrior's Grace
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 2.0%.\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1504898690 2125700213:Belt of the Noble Warrior\/a
 categories:
 - Assassin Equipment

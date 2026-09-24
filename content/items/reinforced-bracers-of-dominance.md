@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '46'
   dtype: Leather Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 0.3%.\n  - Increases Riposte Chance of caster by 3.0.\n  - Increases Riposte Damage of caster by 3.0."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Reinforced Bracers of Dominance]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 946099853 935338943:Reinforced Bracers of Dominance\/a
 categories:

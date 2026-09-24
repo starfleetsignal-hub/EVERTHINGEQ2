@@ -15,7 +15,8 @@ stats:
   critbonus: '2.2'
   potency: '8'
   dtype: Leather Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -1060050081 15633354:Wrathcaller Shoulderpads\/a
 categories:
 - Ancient Invigoration of War (Equipment)

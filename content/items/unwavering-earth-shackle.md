@@ -17,7 +17,8 @@ stats:
   potency: '7.2'
   multi: '12'
   dtype: Leather Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 1,161.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2136591889 660051266 0 0 0:Unwavering Earth Shackle\/a
 categories:
 - Casting Speed (Equipment)

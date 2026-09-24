@@ -24,7 +24,8 @@ stats:
   drating: '469.2'
   dtype: One-Handed Crushing
   wtype: Wand
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 4.8 times per minute.\n    - Increases elemental damage done to target by 3%\n    - Inflicts 3847 heat damage on target\n    - Inflicts 3847 cold damage on target\n    - Cannot be modified except by direct means"
 item_link: \aITEM 730690881 -1367282932 0 0 0:Disciple of Rhag Cosh\/a
 categories:
 - Ability Modifier (Equipment)

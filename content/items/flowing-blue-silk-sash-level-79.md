@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   abmod: '+92'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -687542449 -508255960:Flowing Blue Silk Sash\/a
 image: images/Flowing_Blue_Silk_Sash.png
 categories:

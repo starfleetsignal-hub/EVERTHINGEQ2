@@ -17,7 +17,8 @@ stats:
   potency: 3,000.1
   resolve: '40'
   abmod: +29,417
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 498.5.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[It''s Not Easy Being Gangrene]]'
 item_link: \aITEM 1727927857 434102238:Last House Charm\/a
 image: images/Last_House_Charm.png

@@ -19,7 +19,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Brilliant Light**'
+effect_name: Brilliant Light
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 15.0.\n  - This effect suspends during combat"
 item_link: \aITEM 341752445 1002973213:Sharta, the Brilliant Light\/a
 categories:
 - Beastlord Equipment

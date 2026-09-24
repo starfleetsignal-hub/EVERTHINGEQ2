@@ -15,7 +15,8 @@ stats:
   drating: '32.75'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 74 - 111 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2062942834 -1211179877:Crude Imbued Oak Greatstaff\/a
 categories:
 - Berserker Equipment

@@ -22,7 +22,9 @@ stats:
   drating: '242.02'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Ethereal Temporality**<br>**Deathcall**'
+effect_name: Ethereal Temporality, Deathcall
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 4.0%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Deathcall II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 60.0.\n    - Increases Crit Bonus of caster by 13.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Deathcall II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 60.0.\n    - Increases Crit Bonus of caster by 13.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified\
+  \ except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -471735669 -1713498111 0 0 0:Itaerus, Shell of the Kelp Maidens\/a
 categories:
 - Beastlord Equipment

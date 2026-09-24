@@ -20,7 +20,8 @@ stats:
   vsarcane: +4,650
   vsnoxious: +4,650
   mitinc: '4.2'
-effects: '**Endurance of Yael**'
+effect_name: Endurance of Yael
+effects: "- When Equipped:\n  - Increases Unconscious Health of caster by 2,300.0"
 item_link: \aITEM 642544783 223900242:Brilliantly Adorned Karborite Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

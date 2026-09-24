@@ -9,7 +9,7 @@ flags: ATTUNEABLE
 stats:
   dps: '2'
   vselemental: '+638'
-effects: Sorceror's Zeal
+effects: "- When Equipped:\n  - Increases the base damage of hostile spells by 2%"
 obtained_from: Crafted by [[Tailor]] (level 73) from [[Advanced Tailor Volume 73]]
 categories:
 - Arcane Resistance (Equipment)

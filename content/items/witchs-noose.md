@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**Drunken Mastery**'
+effect_name: Drunken Mastery
+effects: "- When Equipped:\n  - Increases Potency of caster by 40.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 item_link: \aITEM 763369592 -1127932637:Witch's Noose\/a
 categories:
 - AE Autoattack Chance (Equipment)

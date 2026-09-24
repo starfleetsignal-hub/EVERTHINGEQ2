@@ -17,7 +17,8 @@ stats:
   abmod: '+246'
   dps: '19'
   dtype: Cloth Armor
-effects: '**Temporal Flux**'
+effect_name: Temporal Flux
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Temporal Flux on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Improves casting speed of hostile spells by 100%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -249518414 -2108462731:Shining Metallic Robe\/a
 categories:
 - Ability Modifier (Equipment)

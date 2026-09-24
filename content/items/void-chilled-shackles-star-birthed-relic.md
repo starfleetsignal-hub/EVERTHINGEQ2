@@ -18,7 +18,8 @@ stats:
   resolve: '640'
   abmod: +4706,806
   vselemental: +426,870
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 24.4.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -193589529 361152318:Void Chilled Shackles, Star Birthed Relic\/a
 categories:
 - Ability Modifier (Equipment)

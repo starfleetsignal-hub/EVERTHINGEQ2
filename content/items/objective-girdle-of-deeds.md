@@ -17,7 +17,8 @@ stats:
   dps: '32.7'
   multi: '35.2'
   flurry: '0.6'
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 5.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 714182139 2062539003 0 0 0:Objective Girdle of Deeds\/a
 categories:
 - Assassin Equipment

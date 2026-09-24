@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   multi: '2.1'
-effects: '**Final Stab**'
+effect_name: Final Stab
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Final Stab VI on target of spell.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Final Stab VI on target of attack.  Triggers about 2.0 times per minute.\n    - Deals damage to target.  Damage increases the closer the target is to death.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 60) from [[Ancient Knowledge: Oiled Jewel of Engagements]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -995325358 -132054601:Oiled Jewel of Engagements\/a
 categories:

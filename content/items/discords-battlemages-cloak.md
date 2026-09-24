@@ -12,7 +12,8 @@ stats:
   int: '+64'
   maxhealth: '5.3'
   abmod: '+105'
-effects: '**Battlefield Fortitude**'
+effect_name: Battlefield Fortitude
+effects: "- When Equipped:\n  - Increases Mitigation of caster vs physical damage by 326.\n  - Must be engaged in pvp combat"
 item_link: \aITEM -112956019 606292183:Discord's Battlemage's Cloak\/a
 categories:
 - Ability Modifier (Equipment)

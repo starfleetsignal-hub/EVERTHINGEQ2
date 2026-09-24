@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   dps: '10.1'
   multi: '6.2'
-effects: '**Precise Strikes**'
+effect_name: Precise Strikes
+effects: "- Applies Precise Strikes when Activated.  Lasts for 16.0 seconds.\n  - Increases DPS of caster by 20.0.\n  - The casting time of Precise Strikes is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 91954363 586644539:Ancient Targeting Drape of the Hero\/a
 aliases:
 - Ancient Targetting Drape of the Hero

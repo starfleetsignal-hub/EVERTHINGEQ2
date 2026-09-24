@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Slashing
   wtype: Axe
-effects: '**Wall of Hatred**<br>**Whirlwind**<br>**Enrage**'
+effect_name: Wall of Hatred, Whirlwind, Enrage
+effects: "- When Equipped:\n  - Reduces physical, slash, crush and pierce damage done to caster by 5%.\n  - Adds a hate position increase to the initial taunt portion of Insolence II.\n  - 25% of the damage done to the berserker will be added back to the attacker as additional hate.\n- Applies Whirlwind when Activated.\n  - Increases AE Autoattack of Caster by 100.0%.\n- When Equipped:\n  - On a melee hit this spell may cast Enrage on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 518 - 778 heat damage on target encounter.\n    - Increases Multi Attack of caster by 10.0.\n    - Increases Crit Chance of caster by 15.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Honing the Lust of the Dragon''s Temper]]'
 item_link: \aITEM -216472471 369393578:Dragon's Temper\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: '**Skewer**'
+effect_name: Skewer
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Skewer on target of attack.  Lasts for 1.5 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 179 piercing damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Cannot be modified except by direct means"
 item_link: \aITEM -449293930 -1023864967:Bonetooth Skewer\/a
 categories:
 - AE Autoattack Chance (Equipment)

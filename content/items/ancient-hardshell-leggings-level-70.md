@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   dps: '6.5'
   dtype: Chain Armor
-effects: '**Listless Sorrow**'
+effect_name: Listless Sorrow
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 10% chance to cast Listless Sorrow on target of combat art.  Lasts for 1 minute 12 seconds.\n    - Decreases Haste of target by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1876217765 -342102514:Ancient Hardshell Leggings\/a
 categories:
 - AE Autoattack Chance (Equipment)

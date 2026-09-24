@@ -20,7 +20,8 @@ stats:
   drating: '115.2'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Fiery Countenance**'
+effect_name: Fiery Countenance
+effects: "- When Equipped:\n  - Reduces casting time by 7 percent.\n  - On a hostile spell hit this spell may cast Flaming Justice on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 684 - 1,270 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -612948614 1695522198:Staff of Unchained Magic\/a
 categories:
 - Ability Modifier (Equipment)

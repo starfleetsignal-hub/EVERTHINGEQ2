@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   strike: '4.4'
   vselemental: '+217'
-effects: '**Call of the Prime**'
+effect_name: Call of the Prime
+effects: "- Applies Call of the Prime VII when Activated.  Lasts for 12.0 seconds.\n  - Applies Prime Focus VII on termination.  Lasts for 15.0 seconds.\n    - Increases Potency of group members (AE) by 6.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Effectiveness of heals and wards by 15%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Call of the Prime VII is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 70) from [[Ancient Knowledge: Radiant Earring of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -993464846 -308929949:Radiant Earring of the Profound\/a
 categories:

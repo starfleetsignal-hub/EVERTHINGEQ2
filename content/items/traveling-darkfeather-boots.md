@@ -17,7 +17,8 @@ stats:
   potency: '7'
   aspeed: '10.7'
   dtype: Leather Armor
-effects: '**Critical Aegis**<br>**Immaterial Barrier**'
+effect_name: Critical Aegis, Immaterial Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Critical Aegis on caster.  Lasts for 24.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Max Health of group members by 500.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell may cast Immaterial Barrier on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of target vs all damage by 1,023.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 396692469 -1159429819:Traveling Darkfeather Boots\/a
 categories:
 - Attack Speed (Equipment)

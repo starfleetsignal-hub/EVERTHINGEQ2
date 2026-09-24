@@ -16,7 +16,8 @@ stats:
   drating: '27.89'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple III on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 200 points of all damage\n    - Heals target for 131 - 144 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 30) from [[Ancient Knowledge: Dire Mace of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1330149007 -677172293:Dire Mace of Momentum\/a
 categories:

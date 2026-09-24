@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '6'
-effects: '**Prismatic Mastery**<br>**All for One**'
+effect_name: Prismatic Mastery, All for One
+effects: "- When Equipped:\n  - Prismatic Chaos will now affect the targets group and has an increased trigger count.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 976029439 1033014474:Chromatic Cloak\/a
 categories:
 - Ability Doublecast (Equipment)

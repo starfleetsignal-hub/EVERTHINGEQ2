@@ -15,7 +15,9 @@ stats:
   potency: '10.4'
   aspeed: '16.2'
   dtype: Tower Shield
-effects: '**Tactical Will**<br>**Renewing Bulwark**'
+effect_name: Tactical Will, Renewing Bulwark
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Tactical Will IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Increases Potency of caster by 3.0.\n    - Increases Crit Bonus of caster by 4.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Tactical Will IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Increases Potency of caster by 3.0.\n    - Increases Crit Bonus of caster by 4.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Applies Renewing Bulwark: Immunity on termination.  Lasts for 30.0 seconds.\n   \
+  \ - While active Renewing Bulwark is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,310 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 231 points of shielding every 2 seconds\n  - If above level 90\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 244567243 975991663:Primal Dragonscale Covered Shield\/a
 categories:
 - Attack Speed (Equipment)

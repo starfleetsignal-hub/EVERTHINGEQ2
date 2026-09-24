@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   dps: '10.5'
   dtype: Cloth Armor
-effects: '**Benevolent Infusion**'
+effect_name: Benevolent Infusion
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Benevolent Infusion on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 200.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 obtained_from: '[[Workin'' the Docks]]'
 item_link: \aITEM -1138374729 947930617:Danak Crested Gloves\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   abmod: '+15'
   dtype: Cloth Armor
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 obtained_from: 'Heritage quest reward: [[An Eye for Power]]'
 item_link: \aITEM 1236582992 -168347865:Tobrin's Mystical Eyepatch\/a
 categories:

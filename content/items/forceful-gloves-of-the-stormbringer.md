@@ -19,7 +19,8 @@ stats:
   abmod: '+306'
   multi: '15.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Forceful Thudomatonian Cuffs]]
 item_link: \aITEM 603654316 -147460365:Forceful Gloves of the Stormbringer\/a
 categories:

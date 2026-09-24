@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Thall Xakra**'
+effect_name: Thall Xakra
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Thall Xakra on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 288,120 divine damage on target.\n    - Increases Potency of caster by 34.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2065607381 -1510765803:Dat'Raf'Dax\/a
 categories:
 - Arcane Resistance (Equipment)

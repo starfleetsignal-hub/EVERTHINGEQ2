@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Sting Like a Bixie**'
+effect_name: Sting Like a Bixie
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sting Like a Bixie on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - This effect can extend for up to 20 seconds provided the wearer is moving. Can only trigger once every 20 seconds.\n    - Shapechanges caster into a bixie\n    - Caster will Dodge 5.0% of incoming attacks.\n    - Increases Flurry of Caster by 25.0.\n    - Can only trigger if the group size is less than 3\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2051805320 1609675895:Stonehive Conqueror's Gem\/a
 categories:
 - AE Autoattack Chance (Equipment)

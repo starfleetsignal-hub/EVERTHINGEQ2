@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Aquatic Aggression**'
+effect_name: Aquatic Aggression
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Aquatic Aggression on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Summons 2 limited pets to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1464182558 1935676360:Aquatic Bow of Obedience\/a
 image: images/Aquatic_Bow_of_Obedience.png
 categories:

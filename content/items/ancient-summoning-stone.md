@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Cornered Bovine**'
+effect_name: Cornered Bovine
+effects: "- Applies Cornered Bovine II when Activated.  Lasts for 30.0 seconds.\n  - Summons a bovine that inflicts damage to up to 3 epic enemies who are engaged with the caster. It can be hit by AOE attacks.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Cornered Bovine II is 1 minute"
 item_link: \aITEM -1722838498 1169626568:Ancient Summoning Stone\/a
 categories:
 - AE Autoattack Chance (Equipment)

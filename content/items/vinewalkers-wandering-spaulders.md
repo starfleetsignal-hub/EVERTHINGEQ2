@@ -18,7 +18,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   dtype: Leather Armor
-effects: '**Runic Deflection**'
+effect_name: Runic Deflection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Deflection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 3,200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1869422598 591296093:Vinewalker's Wandering Spaulders\/a
 categories:
 - Ability Modifier (Equipment)

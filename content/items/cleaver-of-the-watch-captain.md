@@ -20,7 +20,8 @@ stats:
   drating: '83.3'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 276.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1600285355 351865945:Cleaver of the Watch Captain\/a
 categories:
 - Berserker Equipment

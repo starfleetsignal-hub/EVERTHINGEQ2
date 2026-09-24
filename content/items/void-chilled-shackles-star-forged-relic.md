@@ -17,7 +17,8 @@ stats:
   resolve: '640'
   abmod: +4706,806
   vselemental: +426,870
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,458.3.\n  - Increases Fervor Overcap of caster by 48.9.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -286938540 -146080822:Void Chilled Shackles, Star Forged Relic\/a
 categories:
 - Ability Modifier (Equipment)

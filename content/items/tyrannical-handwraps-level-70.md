@@ -18,7 +18,8 @@ stats:
   aspeed: '4.3'
   multi: '5'
   dtype: Leather Armor
-effects: '**Aggravate**'
+effect_name: Aggravate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aggravate II on target of attack.  Triggers about 1.0 times per minute.\n    - Increases Threat to target by 1,225\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1900841555 1624689439:Tyrannical Handwraps\/a
 categories:
 - Aggravate (Equipment)

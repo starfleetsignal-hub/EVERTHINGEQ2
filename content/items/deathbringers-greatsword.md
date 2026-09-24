@@ -17,7 +17,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1101401317 -1309114851:Deathbringer's Greatsword\/a
 categories:
 - Berserker Equipment

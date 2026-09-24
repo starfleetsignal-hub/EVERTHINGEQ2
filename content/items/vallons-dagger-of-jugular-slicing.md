@@ -21,7 +21,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Distraction of the Brute**<br>**Severity**'
+effect_name: Distraction of the Brute, Severity
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Discombobulate II on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,441 - 4,908\n    - Inflicts 2,278 - 2,517 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Discombobulate II on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,441 - 4,908\n    - Inflicts 2,278 - 2,517 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1545966867 -984132360:Vallon's Dagger of Jugular Slicing\/a
 categories:
 - Ability Modifier (Equipment)

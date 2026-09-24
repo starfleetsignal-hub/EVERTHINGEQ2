@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Piercing
   wtype: Dagger
-effects: '**Flurry of Poison**'
+effect_name: Flurry of Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flurry of Poison on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 410 - 616 poison damage on target.\n    - Increases Crit Chance of caster by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*[[Seek out Controller Kenjedeau]] *[[Speak with Preceptor Nyjuss]]'
 item_link: \aITEM 1239318464 1839703603:Fang of Ichor\/a
 image: images/Fang_of_Ichor_(Fabled).jpg

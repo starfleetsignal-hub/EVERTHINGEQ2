@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   vsarcane: '+280'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 18.5.\n    - Increases Haste of caster by 18.9.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 78) from [[Jeweler Essentials Volume 78 (Normal)]] *Crafted by [[Jeweler]] (level 78) from [[Jeweler Essentials Volume 78 (no-trade)]]'
 item_link: \aITEM -299378904 -1908640867:Imbued Deklium Band of Agility\/a
 categories:

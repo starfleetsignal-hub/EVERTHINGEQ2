@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Suppressing Strike**'
+effect_name: Suppressing Strike
+effects: "- When Equipped:\n  - On a hit this spell may cast Supressing Strike on target of attack.  Lasts for 20.0 seconds.  Triggers about 1.0 times per minute.\n    - Increases Threat to target by 525  instantly and by 87  every 5 seconds thereafter\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1899119027 2147110827:Chirat, Greatblade of Truth\/a
 categories:
 - Berserker Equipment

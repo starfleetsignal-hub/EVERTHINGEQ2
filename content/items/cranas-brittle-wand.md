@@ -18,7 +18,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Fragile as Glass**'
+effect_name: Fragile as Glass
+effects: "- Applies Fragile as Glass when Activated.  Lasts for 1 minute.\n  - Decreases Mitigation of target vs physical damage by 450.\n  - The casting time of Fragile as Glass is 2.0 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM -1444643157 1425346037:Crana's Brittle Wand\/a
 image: images/Crana's_Brittle_Wand.png
 categories:

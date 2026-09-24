@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- Applies Detonation II when Activated.\n  - Inflicts 580,800 heat damage on targets in Area of Effect.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Detonation II is 30.0 seconds"
 item_link: \aITEM 953435332 -584618159:Renewing Geode of Detonation\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   resolve: '6'
   aspeed: '42.1'
   flurry: '18.1'
-effects: '**Bonecasters Blight**'
+effect_name: Bonecasters Blight
+effects: "- Applies Bonecasters Blight when Activated.  Lasts for 1 minute.\n  - Reduces elemental, noxious and arcane damage done to caster by 15%.\n  - Increases Fervor of caster by 10.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Bonecasters Blight is 2.0 seconds and the reuse time of the spell is 7 minutes"
 item_link: \aITEM 60460020 -1391641175:Bonecaster's Mantle\/a
 categories:
 - Assassin Equipment

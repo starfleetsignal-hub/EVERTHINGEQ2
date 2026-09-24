@@ -16,7 +16,8 @@ stats:
   dps: '13'
   multi: '8.1'
   vselemental: '+880'
-effects: '**Poisonous Fire**'
+effect_name: Poisonous Fire
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Poisonous Fire on target of spell.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 432 poison damage on target.\n    - Inflicts 432 heat damage on target.\n    - Reduces cast time of all caster's spells by 5%.\n    - Reduces the reuse timers of all caster's spells by 5%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -121443830 1708620293:Darkened Jewel of Poisonous Fire\/a
 categories:
 - Arcane Resistance (Equipment)

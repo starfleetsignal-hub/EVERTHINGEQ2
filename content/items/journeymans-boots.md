@@ -10,7 +10,8 @@ flags: lore attunable no-value
 stats:
   mit: '10'
   dtype: Cloth Armor
-effects: '**Journeyman''s Boots**'
+effect_name: Journeyman's Boots
+effects: "- Applies Journeyman's Boots when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 obtained_from: '*From [[Shattered Lands: Special Edition Rewards]] */claim from the PreOrder Version of the original Everquest 2.'
 item_link: \aITEM -2127703339 -1913658608:Journeyman's Boots\/a
 image: images/Journeyman's_Boots.jpg

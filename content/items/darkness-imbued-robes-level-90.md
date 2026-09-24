@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Cloth Armor
-effects: '**Toxic Backlash**<br>**Enthralling Recovery**'
+effect_name: Toxic Backlash, Enthralling Recovery
+effects: "- When Equipped:\n  - Wards caster against 478 points of noxious damage\n  - When any noxious damage is received this spell will cast Toxic Backlash on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 239 poison damage on target.\n    - Inflicts 239 disease damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of disease or poison abilities.\n- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 1 percent."
 item_link: \aITEM -1206355272 1172253289:Darkness Imbued Robes\/a
 categories:
 - Assassin Equipment

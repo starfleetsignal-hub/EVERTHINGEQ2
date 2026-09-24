@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Cloth Armor
-effects: '**Grievous Omission**'
+effect_name: Grievous Omission
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Grievous Omission on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target encounter by 1,750\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Master''s Boot Mold]] *Made from [[Elemental Master''s Boot Pattern]]'
 item_link: \aITEM 1580106361 1808222729 0 0 0:Ethermage's Flamespun Boots\/a
 categories:

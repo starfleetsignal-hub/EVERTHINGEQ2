@@ -17,7 +17,8 @@ stats:
   dps: '18.1'
   multi: '11.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1372930762 619355149:Fists of the Foretold Warrior\/a
 categories:
 - Berserker Equipment

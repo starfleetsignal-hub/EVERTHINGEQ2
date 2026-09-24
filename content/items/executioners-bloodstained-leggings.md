@@ -18,7 +18,8 @@ stats:
   multi: '12'
   flurry: '5.1'
   dtype: Chain Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1309968845 -178931571:Executioner's Bloodstained Leggings\/a
 categories:
 - Ability Modifier (Equipment)

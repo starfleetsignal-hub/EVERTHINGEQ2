@@ -14,7 +14,8 @@ stats:
   crit: '7.1'
   critbonus: '6.3'
   potency: '10.6'
-effects: '**Recurring Savior**'
+effect_name: Recurring Savior
+effects: "- When Equipped:\n  - Applies Recurring Savior instantly and every 24 seconds.  Lasts for 1 minute.\n    - Applies once every 24 seconds\n    - When the stoneskin triggers, the mage will be immune to all damage for 3 seconds\n    - Will absorb all damage when the amount is greater than 10% of the target's maximum health. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: From [[Talan's Casting Necklace]]
 item_link: \aITEM -1571033869 -1284569582:Skull Pendant of the Grotto\/a
 categories:

@@ -23,7 +23,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Blessing of the Dream Scorcher**'
+effect_name: Blessing of the Dream Scorcher
+effects: "- When Equipped:\n  - \"Blessing of the Dream Scorcher\" protects the wearer from strong deific magics used by Terris-Thule!"
 obtained_from: '*Made from [[Ethereal Writings: Nightmare Fueled Wand]] *[[Ethereal: Nightmare Fueled Wand]]'
 item_link: \aITEM -257992173 -1714994409:Nightmare Fueled Wand [Rank V]\/a
 categories:

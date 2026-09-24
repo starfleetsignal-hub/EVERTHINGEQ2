@@ -20,7 +20,8 @@ stats:
   drating: '68.35'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Sap of Growth**'
+effect_name: Sap of Growth
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sap of Growth on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Predestined Fate]] of the'
 item_link: \aITEM 440094322 1764610253:Ivy-Shrouded Club of Tunare\/a
 categories:

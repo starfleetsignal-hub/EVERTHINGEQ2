@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: no-transmute  no-salvage  no-trade no-value
 description: This cloak was recovered from the angsty thief known as Ratscallion Attamilgad!
-effects: '**Fervorous Zeal**'
+effect_name: Fervorous Zeal
+effects: "- Applies Fervorous Zeal when Activated.\n  - Coats the wearer in a Fervorous Aura\n  - The casting time of Fervorous Zeal is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Watch EQ2 social media pages for notification of when Ratscallion is up!
 item_link: \aITEM -603033171 -1696935179:Cloak of the Fervorous\/a
 categories:

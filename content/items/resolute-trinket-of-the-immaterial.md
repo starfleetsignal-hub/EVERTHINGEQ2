@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +19,032
   mitinc: '6'
-effects: '**Immaterial Vitality**'
+effect_name: Immaterial Vitality
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Immaterial Vitality II on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 193,600 divine damage on target.\n    - Increases Max Health of caster by 8.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -970700337 -1039089731:Resolute Trinket of the Immaterial\/a
 categories:
 - AE Autoattack Chance (Equipment)

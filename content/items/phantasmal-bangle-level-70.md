@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   vselemental: '+300'
-effects: '**Reflexive Regeneration**'
+effect_name: Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 152 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1787245660 -2023282406:Phantasmal Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

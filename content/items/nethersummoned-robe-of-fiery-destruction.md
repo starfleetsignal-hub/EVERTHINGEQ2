@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Cloth Armor
-effects: '**Elemental Disruption**'
+effect_name: Elemental Disruption
+effects: "- When Equipped:\n  - Applies Elemental Disruption to qualifying pets.\n    - On a combat hit this spell may cast Elemental Disruption on target of attack.  Triggers about 2.0 times per minute.\n      - Increases power of group members by 368.\n      - Inflicts 486 heat damage on target encounter.\n      - Inflicts 486 poison damage on target encounter."
 obtained_from: '*Made from [[Elemental Master''s Vest Mold]] *Made from [[Elemental Master''s Vest Pattern]]'
 item_link: \aITEM 768415773 446881202 0 0 0:Nethersummoned Robe of Fiery Destruction\/a
 categories:

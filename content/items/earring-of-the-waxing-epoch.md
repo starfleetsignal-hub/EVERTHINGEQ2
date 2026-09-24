@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Stunning Deftness**'
+effect_name: Stunning Deftness
+effects: "- When Equipped:\n  - When avoiding an attack, the wearer will stun their attacker for 2.5 seconds. This can only trigger once every 10 seconds. Does not apply to epic targets."
 obtained_from: Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM 1171513821 1811671217:Earring of the Waxing Epoch\/a
 image: images/Earring_of_the_Waxing_Epoch.png

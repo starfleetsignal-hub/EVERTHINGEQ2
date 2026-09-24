@@ -15,7 +15,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Pestilence**'
+effect_name: Pestilence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Pestilence on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 32 - 39 disease damage on target.\n    - Inflicts 11 - 13 disease damage on target every 4 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[The Heart of Fear]]'
 item_link: \aITEM -1578037199 -622699345:Bone Razor\/a
 image: images/Bone_Razor_(Level_44).jpg

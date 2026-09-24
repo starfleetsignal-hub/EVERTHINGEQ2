@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   mit: '84'
   dtype: Cloth Armor
-effects: '**Mind Control Immunity**'
+effect_name: Mind Control Immunity
+effects: "- When Equipped:\n  - Completely prevents the wearer from being dominated by evil void beings. 73% of the time, it works every time."
 obtained_from: Talk to [[Blisterzonk]] after completing the Sootfoot Talent Society questline
 item_link: \aITEM -1552354825 -2027507777:Sootfoot Domed Mindcontrol Prevention Cap\/a
 categories:

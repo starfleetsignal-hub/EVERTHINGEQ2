@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Dark Energy**<br>**Featherfall**'
+effect_name: Dark Energy, Featherfall
+effects: "- Applies Dark Energy when Activated.\n  - Coats the wearer in pure Dark Energy.\n  - The casting time of Dark Energy is 1.0 second and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of Dark Energy (crate)|Cloak of Dark Energy]]
 item_link: \aITEM -270011524 1717188741:Cloak of Dark Energy\/a
 categories:

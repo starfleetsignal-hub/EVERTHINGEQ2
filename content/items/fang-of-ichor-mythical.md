@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Piercing
   wtype: Dagger
-effects: '**Rage of Ichor**<br>**Assassin''s Flurry**<br>**Flurry of Poison**'
+effect_name: Rage of Ichor, Assassin's Flurry, Flurry of Poison
+effects: "- When Equipped:\n  - Increases the damage of stealth attacks by 30%.\n- When Equipped:\n  - Increases Flurry of Caster by 15.0.\n- When Equipped:\n  - On a combat hit this spell may cast Flurry of Poison on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 583 - 875 poison damage on target.\n    - Increases Crit Chance of caster by 15.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*[[Catching a Thief]] *[[For a Better Tomorrow]]'
 item_link: \aITEM 194210201 1839703603:Fang of Ichor\/a
 categories:

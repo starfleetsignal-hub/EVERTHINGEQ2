@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +15,652
-effects: '**Burst**'
+effect_name: Burst
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Burst II on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 12,540 - 13,860 magic damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1404090275 -1806247074:Solid Chain of Bursting\/a
 categories:
 - AE Autoattack Chance (Equipment)

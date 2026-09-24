@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 4.7.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Outfitter]] (level 15) from [[Advanced Outfitter Volume 15 (Normal)]] *Crafted by [[Outfitter]] (level 15) from [[Advanced Outfitter Volume 15 (No-Trade)]]'
 item_link: \aITEM 1030021980 1370663706 0 0 0:pristine discord imbued roughspun hex doll\/a
 categories:

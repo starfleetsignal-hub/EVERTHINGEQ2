@@ -16,7 +16,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Taste of Flame**'
+effect_name: Taste of Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Taste of Flame on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 35 - 59 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 349844212 -1637759021:Brewmaster's Fermentation Stick\/a
 categories:
 - Beastlord Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   dps: '134.7'
   dtype: Cloth Armor
-effects: '**Greater Nocturnal Celerity**'
+effect_name: Greater Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM -1855993297 -1960220005:Zazun's Mittens of Living Toxins\/a
 categories:
 - Census Credits

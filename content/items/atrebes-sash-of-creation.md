@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+83'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -930592905 1358159059:Atrebe's Sash of Creation\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: +1,215
   dps: '27.6'
   mitinc: '7.2'
-effects: '**Boundless Blaze**'
+effect_name: Boundless Blaze
+effects: "- Applies Boundless Blaze when Activated.  Lasts for 45.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to heat damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Boundless Blaze is 0.4 seconds and the reuse time of the spell is 1 minute 30 seconds"
 item_link: \aITEM 2120185765 -536299062:Rune of Inner Fire\/a
 categories:
 - Ability Modifier (Equipment)

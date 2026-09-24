@@ -14,7 +14,8 @@ stats:
   critbonus: '13.1'
   potency: '5'
   dtype: Chain Armor
-effects: '**Immaterial Barrier**'
+effect_name: Immaterial Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Immaterial Barrier on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of target vs all damage by 930.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -529255373 -801118452:Discord's Dark Voodoo Chain Shirt\/a
 categories:
 - Bard Equipment

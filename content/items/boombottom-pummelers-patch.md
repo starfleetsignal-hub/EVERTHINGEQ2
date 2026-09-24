@@ -18,7 +18,8 @@ stats:
   resolve: '55'
   multi: '76.3'
   mitinc: '20.2'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,383.5.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: 'Collection reward: [[Boombottom Talisman]]'
 item_link: \aITEM 1500705596 -908900630:Boombottom Pummelers Patch\/a
 categories:

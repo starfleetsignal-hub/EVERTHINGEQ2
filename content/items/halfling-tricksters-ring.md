@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Trickster''s Touch**'
+effect_name: Trickster's Touch
+effects: "- Applies Trickster's Touch when Activated.  Lasts for 9.0 seconds.\n  - Stuns target\n  - If under level 18\n  - Epic targets gain an immunity to Stun effects of 27.0 seconds and duration is reduced to 3.0 seconds.\n  - Resistibility increases against targets higher than level 20.\n  - The casting time of Trickster's Touch is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Paying Off a Sweet Debt]]'
 item_link: \aITEM 107437007 -384110532:Halfling Trickster's Ring\/a
 categories:

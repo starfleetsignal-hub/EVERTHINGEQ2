@@ -17,7 +17,8 @@ stats:
   dps: '10.1'
   multi: '13.2'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 434571282 -1522682369:Reinforced Soul Marauder's Cuffs\/a
 categories:
 - Accuracy (Equipment)

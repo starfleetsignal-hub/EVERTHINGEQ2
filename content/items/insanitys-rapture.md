@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Poisonous Blast**'
+effect_name: Poisonous Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 9% chance to cast Poisonous Blast on target of spell.  Lasts for 10.0 seconds.\n    - Applies Poisonous Blast.  Lasts for 10.0 seconds.\n      - Increases Crit Chance of pet by 10.0.\n    - Inflicts 454 - 680 poison damage on target.\n    - Inflicts 43 - 65 poison damage on target every 3.3 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Bones of Insanity]] part of the [[Necromancer Epic Weapon Timeline]]'
 item_link: \aITEM 34743695 211607607:Insanity's Rapture\/a
 categories:

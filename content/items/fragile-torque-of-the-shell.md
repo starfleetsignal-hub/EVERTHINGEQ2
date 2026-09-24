@@ -15,7 +15,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Fragile Shell**'
+effect_name: Fragile Shell
+effects: "- When Equipped:\n  - Increases caster's physical mitigation by 4,000. This effect is lost if the caster is directly attacked by an aggressive target."
 item_link: \aITEM 1278372685 1935667932:Fragile Torque of the Shell\/a
 categories:
 - Assassin Equipment

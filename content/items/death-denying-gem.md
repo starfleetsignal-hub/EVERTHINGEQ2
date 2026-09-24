@@ -15,7 +15,8 @@ stats:
   potency: '30'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Death Cheater''s Song**'
+effect_name: Death Cheater's Song
+effects: "- Applies Death Cheater's Song when Activated.\n  - Resurrects all deceased group members within a 25 meter radius of the caster with 100% health and power.\n  - Does not trigger resurrection sickness.\n  - Cannot be modified except by direct means\n  - The casting time of Death Cheater's Song is 0.5 seconds and the reuse time of the spell is 7 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM 204553946 -348280262:Death Denying Gem\/a
 categories:

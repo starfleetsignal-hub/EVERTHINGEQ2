@@ -17,7 +17,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Cloth Armor
-effects: '**Mind Melting**<br>**Arcane Recovery**'
+effect_name: Mind Melting, Arcane Recovery
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Mind Melting on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 324 mental damage on target.\n    - Decreases Mitigation of target vs all damage by 320.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Unadorned Steel Circlet]]'
 item_link: \aITEM 536005537 -134141037 0 0 0:Fireborn Circlet of Illusion\/a
 categories:

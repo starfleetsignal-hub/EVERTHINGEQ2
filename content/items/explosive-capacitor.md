@@ -17,7 +17,8 @@ stats:
   abmod: +1,670
   aspeed: '37.7'
   dps: '14.4'
-effects: '**Deathtouch**'
+effect_name: Deathtouch
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 80.0.\n- Applies Deathtouch when Activated.  Lasts for 20.0 seconds.\n  - Instantly kills weaker targets and inflicts damage to stronger targets\n  - Deals reduced damage to named enemies\n  - Increases Crit Bonus and Potency by 100 for 60 seconds after use\n  - This item may not be used in a PvP zone.\n  - The reuse time of Deathtouch is 2 minutes"
 item_link: \aITEM -1743273890 -1655135935:Explosive Capacitor\/a
 categories:
 - Ability Modifier (Equipment)

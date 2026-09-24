@@ -17,7 +17,8 @@ stats:
   potency: '5.6'
   dps: '12.9'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Desperate Times Mean Desperate Ingredients - Delivery]]'
 item_link: \aITEM 1690526279 832455558:Mage's Highland Robes\/a
 categories:

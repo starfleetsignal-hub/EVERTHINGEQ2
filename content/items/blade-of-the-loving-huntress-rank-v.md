@@ -24,7 +24,8 @@ stats:
   drating: '3923.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blessing of the Loving Huntress**'
+effect_name: Blessing of the Loving Huntress
+effects: "- When Equipped:\n  - \"Blessing of the Loving Huntress\" protects the wearer from strong deific magics used by Erollisi Marr!"
 obtained_from: '*Made from [[Ethereal Writings: Blade of the Loving Huntress]] *[[Ethereal: Blade of the Loving Huntress]]'
 item_link: \aITEM -1915509036 -1164779963:Blade of the Loving Huntress [Rank V]\/a
 categories:

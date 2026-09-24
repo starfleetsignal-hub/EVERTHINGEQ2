@@ -26,7 +26,8 @@ stats:
   drating: '398.36'
   dtype: Main Hand Piercing
   wtype: Dagger
-effects: '**Unyielding Blow**<br>**Planar Protection**'
+effect_name: Unyielding Blow, Planar Protection
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Unyielding Blow on target of spell.  Lasts for 24.0 seconds.\n    - Inflicts 14,232 crushing damage on target.\n    - Decreases Combat Mitigation of target by 13.2.\n    - Cannot be modified except by direct means\n  - Increases Ability Doublecast of caster by 3.0.\n  - Protects the wearer against destructive planar energies.\n- Applies Planar Protection when Activated.\n  - Grants protection against destructive planar energies.\n  - The casting time of Planar Protection is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 obtained_from: '[[A Weapon Worthy of Tales Told]]'
 item_link: \aITEM -918221045 -355084368:The Awakened Gorynn's Fist\/a
 categories:

@@ -12,7 +12,8 @@ stats:
   sta: '+7'
   mit: '144'
   dtype: Plate Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 43 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 27) from [[Advanced Armorer Volume 27 (Normal)]] *Crafted by [[Armorer]] (level 27) from [[Advanced Armorer Volume 27 (No-Trade)]] *From [[Vanguard Plate Armor Pack (Level 22 Mastercrafted)]]'
 item_link: \aITEM -1302112727 347322544:Imbued Steel Vanguard Greaves\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: '+92'
   aspeed: '5.4'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -1973060565 1142200777:Gloves of Rapid Consumption\/a
 categories:
 - Ability Modifier (Equipment)

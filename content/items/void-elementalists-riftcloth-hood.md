@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 1584380939 1293562292 0 0 0:Void Elementalist's Riftcloth Hood\/a
 categories:
 - Arcane Recovery (Equipment)

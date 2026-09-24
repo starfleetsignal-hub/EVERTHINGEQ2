@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,032
-effects: '**Continuous Pain**'
+effect_name: Continuous Pain
+effects: "- When Equipped:\n  - Modifies the wearer's Potency based on the number of increments of Continuous Pain. 0: -15 Potency. 1: -10 Potency. 2: -5 Potency. 3: 0 Potency. 4: 33 Potency. 5: 55 Potency\n  - On any combat or spell hit this spell may cast Continuous Pain II on caster.  Lasts for 2 minutes.  Triggers about 1.0 times per minute.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 2133055155 306863011:Serrated Ring of  Dark Chasms\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -23,7 +23,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Blessing of the Forgotten Goddess**'
+effect_name: Blessing of the Forgotten Goddess
+effects: "- When Equipped:\n  - \"Blessing of the Forgotten Goddess\" protects the wearer from strong deific magics used by Anashti Sul!"
 item_link: \aITEM -1329699405 438243192:Anashti Sul's Mace of the Living Death [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

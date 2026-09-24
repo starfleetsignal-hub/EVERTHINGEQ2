@@ -16,7 +16,8 @@ stats:
   multi: '7.4'
   flurry: '3.2'
   dtype: Symbols
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM 2032780146 -1539161768:Seared Cloth Moppet\/a
 categories:
 - Assassin Equipment

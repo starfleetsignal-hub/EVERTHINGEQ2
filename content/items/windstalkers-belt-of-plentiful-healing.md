@@ -15,7 +15,8 @@ stats:
   potency: '12.6'
   aspeed: '20.3'
   dps: '32.4'
-effects: '**Cogent**<br>**Silver Rampart**'
+effect_name: Cogent, Silver Rampart
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 60.0.\n  - Increases Potency of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Silver Rampart III on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards group members (AE) against 6,700 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Extemely rare drop from Venekor's crate in the Temple of the Faceless.
 item_link: \aITEM -899074828 -1970379200:Windstalker's Belt of Plentiful Healing\/a
 image: images/Winstalker's_Belt_of_Plentiful_Healing.jpg

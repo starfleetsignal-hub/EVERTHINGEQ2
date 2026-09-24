@@ -20,7 +20,8 @@ stats:
   drating: '58.03'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Sledgefist**'
+effect_name: Sledgefist
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sledgefist on target of attack.  Triggers about 1.0 times per minute.\n    - Inflicts 403 crushing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -341260569 1824265271 0 0 0:Fistwraps of Tongar Sledgefist\/a
 categories:
 - Beastlord Equipment

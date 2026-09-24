@@ -18,7 +18,8 @@ stats:
   resolve: '16'
   abmod: +26,378
   mitinc: '14.7'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 23.1.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 23.1.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1255365415 1698665088:Stone of Burgeoning Power\/a
 image: images/Stone_of_Burgeoning_Power.png
 categories:

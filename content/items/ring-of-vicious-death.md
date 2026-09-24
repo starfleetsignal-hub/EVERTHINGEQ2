@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +24,232
-effects: '**Flames of Death**'
+effect_name: Flames of Death
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Flames of Death II on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 633,600 heat damage on target.\n    - Increases Crit Bonus of caster by 18.0.\n    - Increases Haste of caster by 35.0.\n    - Increases Mitigation of caster vs elemental damage by 2,546.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1846733479 1564290852:Ring of Vicious Death\/a
 categories:
 - Arcane Resistance (Equipment)

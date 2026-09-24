@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   abmod: '+105'
   vselemental: '+360'
-effects: '**Empowered Heal**'
+effect_name: Empowered Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Empowered Heal on caster.  Triggers about 4.0 times per minute.\n    - Heals group members (AE) for 610.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1058755147 -771398511:Ring of Forgiveness\/a
 categories:
 - Ability Modifier (Equipment)

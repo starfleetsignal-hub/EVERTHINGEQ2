@@ -18,7 +18,8 @@ stats:
   drating: '69.41'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 137 - 254 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 489047673 395812593:imbued adamantine double headed axe\/a
 categories:
 - Berserker Equipment

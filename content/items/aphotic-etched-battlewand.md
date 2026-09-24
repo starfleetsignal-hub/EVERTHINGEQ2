@@ -22,7 +22,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Essencelich**'
+effect_name: Essencelich
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Essencelich II on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 6,369 disease damage on target.\n    - Increases Potency of caster by 32.0.\n    - Increases DPS of caster by 45.0.\n    - Increases Mitigation of caster vs noxious damage by 4,313.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Banners of Thalumbra]]'
 item_link: \aITEM 1270066955 2139358317:Aphotic Etched Battlewand\/a
 categories:

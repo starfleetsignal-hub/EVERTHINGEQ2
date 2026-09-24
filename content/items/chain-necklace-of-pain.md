@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   aspeed: '5.1'
   dps: '9.7'
-effects: '**Essence Conversion**'
+effect_name: Essence Conversion
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Essence Conversion on target of spell.  Triggers about 1.4 times per minute.\n    - Inflicts 313 - 383 magic damage on target.\n    - Increases power of caster by 347 - 424.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1102764450 1023282588:Chain Necklace of Pain\/a
 categories:
 - Assassin Equipment

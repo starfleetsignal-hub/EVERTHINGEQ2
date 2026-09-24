@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 1702698910 64836528:Zynos' Helm of Voidcalling\/a
 categories:
 - Arcane Recovery (Equipment)

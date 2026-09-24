@@ -21,7 +21,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Wild Swings**'
+effect_name: Wild Swings
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Wild Swings IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 9.0.\n    - Increases AE Autoattack of Caster by 33.0%.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 7.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -139173246 92213814:Stalwart Harpoon of Avazekian Feeding\/a
 categories:
 - Beastlord Equipment

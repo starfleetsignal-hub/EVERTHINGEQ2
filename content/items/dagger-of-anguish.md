@@ -24,7 +24,8 @@ stats:
   drating: '251.9'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,495 crushing damage on target.\n    - Increases Crit Bonus of caster by 40.5.\n    - Increases Potency of caster by 63.1.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -7303715 -1283007505:Dagger of Anguish\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '25.5'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Kerafyrm''s Furor**'
+effect_name: Kerafyrm's Furor
+effects: "- Applies Kerafyrm's Furor when Activated.  Lasts for 15.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 60.0.\n  - Suspends the passive effect for 15 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Furor is 1 minute\n- When Equipped:\n  - Increases Crit Bonus of caster by 70.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -59694213 -150200688:Darkened Core\/a
 categories:
 - Assassin Equipment

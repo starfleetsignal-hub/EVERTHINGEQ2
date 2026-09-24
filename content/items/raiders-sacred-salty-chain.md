@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +24,232
-effects: '**Sacred Rites**'
+effect_name: Sacred Rites
+effects: "- When Equipped:\n  - Once per 30 seconds, if one of the caster's allies falls below 5% power and the caster is over 25% power, the caster will transfer 20% of their power to the target. For 30 seconds, the target will gain 25 potency and crit bonus."
 item_link: \aITEM -1564408747 -715795188:Raider's Sacred Salty Chain\/a
 categories:
 - Ability Modifier (Equipment)

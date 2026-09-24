@@ -16,7 +16,8 @@ stats:
   dps: '13'
   multi: '8.1'
   vselemental: '+880'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 item_link: \aITEM 69969069 -2077842989:Switchmaster's Earcuff\/a
 categories:
 - Arcane Resistance (Equipment)

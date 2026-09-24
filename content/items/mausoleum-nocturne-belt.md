@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   abmod: +3362,005
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1000857356 -581503418:Mausoleum Nocturne Belt\/a
 categories:
 - Ability Modifier (Equipment)

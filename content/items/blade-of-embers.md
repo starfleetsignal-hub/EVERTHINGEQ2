@@ -20,7 +20,8 @@ stats:
   drating: '59.11'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Mark of the Flamelord**'
+effect_name: Mark of the Flamelord
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mark of the Flamelord on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 131 - 145 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Exquisite chest of The Bloodscale Flamelord in the Vaults of El'Arad
 item_link: \aITEM -1238046553 359972529:Blade of Embers\/a
 categories:

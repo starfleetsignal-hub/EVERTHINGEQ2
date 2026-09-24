@@ -16,7 +16,8 @@ stats:
   potency: 34,754
   resolve: '460'
   vselemental: +310,750
-effects: '**Scholarly Assistance**'
+effect_name: Scholarly Assistance
+effects: "- When Equipped:\n  - Grants an additional 10 fervor when in Renewal of Ro raid zones.\n  - Grants an additional 380.7 crit bonus when in Renewal of Ro raid zones.\n  - Grants an additional 8000 potency when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1377519506 984855482:Stone Ring of the Cursed Scholar\/a
 categories:
 - Arcane Resistance (Equipment)

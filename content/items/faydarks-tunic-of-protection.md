@@ -16,7 +16,8 @@ stats:
   critbonus: '5'
   abmod: '+50'
   dtype: Leather Armor
-effects: '**Reflexive Skin**'
+effect_name: Reflexive Skin
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Reflexive Skin on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces elemental, noxious and arcane damage done to target by 15%.\n    - Grants a 15.0% chance to resist Stifle effects\n    - Cannot be modified except by direct means\n  - If under level 90"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 2055817360 1615058791:Faydark's Tunic of Protection\/a
 categories:

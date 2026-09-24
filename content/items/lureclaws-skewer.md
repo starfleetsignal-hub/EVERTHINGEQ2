@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Ancient Glyph of Poison**'
+effect_name: Ancient Glyph of Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Poison on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 33 - 41 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1800804730 1924541703:Lureclaw's Skewer\/a
 categories:
 - Ancient Glyph of Poison (Equipment)

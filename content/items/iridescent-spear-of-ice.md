@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Ice Blast**'
+effect_name: Ice Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lethargy on target of attack.  Lasts for 1 minute 12 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 11.3 - 18.8.\n    - Only affects targets level 60 and below\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast Ice Blast on target of attack.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 156 - 260 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -842532118 1069952190:Iridescent Spear of Ice\/a
 categories:
 - Ability Modifier (Equipment)

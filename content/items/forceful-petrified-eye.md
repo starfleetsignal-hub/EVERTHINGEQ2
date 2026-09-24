@@ -15,7 +15,8 @@ stats:
   potency: '8.6'
   abmod: '+279'
   multi: '14'
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -376691290 1768449358:Forceful Petrified Eye\/a
 categories:
 - Ability Modifier (Equipment)

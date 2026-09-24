@@ -17,7 +17,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   dtype: Plate Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -490654849 -422822570:Savage Pauldrons of Mutation\/a
 categories:
 - Ability Modifier (Equipment)

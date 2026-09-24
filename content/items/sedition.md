@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Seething Hatred**'
+effect_name: Seething Hatred
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Seething Hatred on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 462 - 564 disease damage on target.\n    - 100% of health regained from lifetaps will be applied as hate to engaged targets.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[They Have Searched an Age for a Dark Champion...]]'
 item_link: \aITEM 1043034693 1955140562:Sedition\/a
 categories:

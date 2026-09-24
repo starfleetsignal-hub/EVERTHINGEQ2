@@ -19,7 +19,8 @@ stats:
   drating: '93.1'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Flame Strike**'
+effect_name: Flame Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 224 - 374 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1301194767 173425366:Vukar'ohk, Sword of Legend\/a
 image: images/‎Vukar'ohk,_Sword_of_Legend.jpg
 categories:

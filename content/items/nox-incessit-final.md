@@ -16,7 +16,8 @@ stats:
   dps: '37.4'
   multi: '40.2'
   flurry: '0.6'
-effects: '**Nox Incessit**'
+effect_name: Nox Incessit
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Nox Incessit on the group.  Lasts for 9.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of group members (AE) by 10.0.\n    - Increases Ability Mod of group members (AE) by 300.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -572522672 129544008:Nox Incessit\/a
 categories:
 - Assassin Equipment

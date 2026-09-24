@@ -15,7 +15,8 @@ stats:
   potency: '1'
   abmod: '+25'
   vsarcane: '+186'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm VI when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter VI on termination.\n    - Inflicts 2,780 - 3,072 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 69 - 85 poison damage on target.\n  - Inflicts 87 - 106 poison damage on target every second.\n  - Inflicts an additional 34 - 42 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm VI is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 60) from [[Ancient Knowledge: Lucid Stud of Agony]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 1751485640 -1777556794:Lucid Stud of Agony\/a
 categories:

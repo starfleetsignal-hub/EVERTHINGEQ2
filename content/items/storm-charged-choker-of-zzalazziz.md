@@ -16,7 +16,8 @@ stats:
   dps: '60.8'
   multi: '21.3'
   flurry: '0.6'
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 811790122 -856674051:Storm Charged Choker of Zzalazziz\/a
 categories:
 - Assassin Equipment

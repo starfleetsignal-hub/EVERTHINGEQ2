@@ -16,7 +16,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   vselemental: +1,349
-effects: '**Savage Healing**'
+effect_name: Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 842.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -107029817 1223508059:Ring of the Renowned\/a
 categories:
 - Arcane Resistance (Equipment)

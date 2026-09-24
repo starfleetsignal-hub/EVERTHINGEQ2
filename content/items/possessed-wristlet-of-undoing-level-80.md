@@ -15,7 +15,8 @@ stats:
   potency: '5'
   multi: '7.7'
   vselemental: '+395'
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 4 percent."
 item_link: \aITEM 1059794346 2131423935:Possessed Wristlet of Undoing\/a
 categories:
 - Arcane Resistance (Equipment)

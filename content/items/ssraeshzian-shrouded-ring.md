@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +26,832
-effects: '**Shroud of the Sea**'
+effect_name: Shroud of the Sea
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Shroud of the Sea on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 219,530.\n    - Increases STA of target by 300.0.\n    - Increases Potency of target by 14.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM -28525685 653336751:Ssraeshzian Shrouded Ring\/a
 categories:
 - Ability Modifier (Equipment)

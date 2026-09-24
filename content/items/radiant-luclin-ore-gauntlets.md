@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Plate Armor
-effects: '**Crippling Riposte**'
+effect_name: Crippling Riposte
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Crippling Riposte on target's attacker.  Lasts for 16.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Haste of target by 20.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Seeking Sergeant Slithess]]'
 item_link: \aITEM -571886244 1621100033:Radiant Luclin Ore Gauntlets\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   multi: '8.4'
   mitinc: '5.3'
   dtype: Leather Armor
-effects: '**Darkened Rapidity**'
+effect_name: Darkened Rapidity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Darkened Rapidity on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 3.0.\n    - Increases DPS of caster by 3.0.\n    - Increases Crit Chance of caster by 3.0.\n    - Increases Block Chance of caster by 10.0%.\n    - Adds 75 combat art and spell damage.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Means to an End...]]'
 item_link: \aITEM -313766798 -865436038:Dark Mail Gauntlets\/a
 categories:

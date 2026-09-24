@@ -17,7 +17,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   vselemental: +360,945
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 714815061 -154576274:Remnant Ring, Relic of Old Velious\/a
 categories:
 - Arcane Resistance (Equipment)

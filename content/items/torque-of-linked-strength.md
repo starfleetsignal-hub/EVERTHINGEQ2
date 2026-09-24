@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   abmod: +1,250
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 40 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 54."
 item_link: \aITEM 1466460806 1175484171:Torque of Linked Strength\/a
 categories:
 - Ability Modifier (Equipment)

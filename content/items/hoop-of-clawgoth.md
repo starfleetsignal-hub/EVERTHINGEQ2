@@ -16,7 +16,8 @@ stats:
   dps: '27.6'
   vselemental: +29,521
   mitinc: '7.2'
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Increases Block Chance of caster by 10.0%."
 item_link: \aITEM -1708890156 858342952:Hoop of Clawgoth\/a
 categories:
 - Arcane Resistance (Equipment)

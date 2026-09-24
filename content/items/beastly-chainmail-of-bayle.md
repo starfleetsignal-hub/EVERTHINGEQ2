@@ -19,7 +19,8 @@ stats:
   aspeed: '6.7'
   dps: '12'
   dtype: Chain Armor
-effects: '**Ironhide Defense**'
+effect_name: Ironhide Defense
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Ironhide Defense on caster.  Lasts for 10.0 seconds.\n    - Wards caster against 225 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1554474473 1579197965:Beastly Chainmail of Bayle\/a
 categories:
 - Attack Speed (Equipment)

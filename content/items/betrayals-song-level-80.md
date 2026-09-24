@@ -20,7 +20,8 @@ stats:
   drating: '84.47'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Disheveled Thoughts**'
+effect_name: Disheveled Thoughts
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disheveled Thoughts on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 900\n    - Cannot be modified except by direct means"
 item_link: \aITEM -628302197 1405079690:Betrayal's Song\/a
 categories:
 - Assassin Equipment

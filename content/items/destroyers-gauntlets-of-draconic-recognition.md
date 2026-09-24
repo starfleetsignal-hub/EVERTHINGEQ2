@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   multi: '16.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -463600154 -1281665475:Destroyer's Gauntlets of Draconic Recognition\/a
 image: images/Destroyer's_Gauntlets_of_Draconic_Recognition.png
 categories:

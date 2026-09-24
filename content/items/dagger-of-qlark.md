@@ -25,7 +25,8 @@ stats:
   drating: '211.74'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 2.6%.\n    - Inflicts 990 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 44 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 16814996 453204521:Dagger of Qlark\/a
 image: images/Dagger_of_Qlark.png
 categories:

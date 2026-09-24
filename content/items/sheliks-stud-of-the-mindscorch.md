@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   vselemental: +1,782
-effects: '**Simulcast**'
+effect_name: Simulcast
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 3.0%.\n  - Increases Multi Attack of caster by 5.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 509761984 1778712017:Shelik's Stud of the Mindscorch\/a
 categories:
 - Ability Modifier (Equipment)

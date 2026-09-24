@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +21,632
-effects: '**Undeterred**'
+effect_name: Undeterred
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Undeterred III on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 220,000-374,000 mental damage and increases the wearer's maximum health by 16,000 to 128,000 based on the number of enemies who hate the wearer that are within 15 meters of the target\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -175834001 -774752543:Undeterred Bracelet\/a
 categories:
 - Arcane Resistance (Equipment)

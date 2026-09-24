@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   aspeed: '16.2'
   dps: '26.3'
-effects: '**Mystical Cyclone**'
+effect_name: Mystical Cyclone
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 5.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -267995018 804896235:Spectral Belt of Drakiz Benefaction\/a
 categories:
 - Assassin Equipment

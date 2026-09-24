@@ -17,7 +17,9 @@ stats:
   multi: '56.8'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Indomitable Bite of the Hounds**'
+effect_name: Indomitable Bite of the Hounds
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Indomitable Bite of the Hounds on target of spell.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,370 - 10,110 piercing damage on target instantly and every 5 seconds.\n    - Increases Flurry of Caster by 3.0.\n    - Increases Reuse Speed of caster by 7.0%.\n    - Increases Crit Bonus of caster by 10.0.\n    - Increases Potency of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Indomitable Bite of the Hounds on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,370 - 10,110 piercing damage on target instantly and every 5 seconds.\n    - Increases Flurry of Caster by 3.0.\n    - Increases Reuse Speed of caster by 7.0%.\n    - Increases Crit Bonus of caster by 10.0.\n    - Increases Potency of caster by 10.0.\n    - Must not\
+  \ be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1716661372 -1362382190:Tallon's Hauberk of Absolute Conception\/a
 categories:
 - Assassin Equipment

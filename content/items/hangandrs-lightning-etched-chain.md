@@ -17,7 +17,8 @@ stats:
   abmod: '+270'
   dps: '21.1'
   vsarcane: '+564'
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Empowered Healing on caster.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 1,750.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1491178330 -584101484:Hangandr's Lightning Etched Chain\/a
 categories:
 - Ability Modifier (Equipment)

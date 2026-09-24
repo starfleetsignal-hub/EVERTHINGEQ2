@@ -18,7 +18,8 @@ stats:
   resolve: '640'
   abmod: +4706,806
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,458.3.\n  - Increases Crit Bonus Overcap of caster by 1,296.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1079352428 1951949320:Exo Mantle, Star Forged Relic\/a
 categories:
 - Ability Modifier (Equipment)

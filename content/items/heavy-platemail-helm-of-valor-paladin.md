@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   multi: '3.2'
   dtype: Plate Armor
-effects: '**Blessing of the Devout**'
+effect_name: Blessing of the Devout
+effects: "- When Equipped:\n  - When any physical damage is received this spell has a 5% chance to cast Blessing of the Devout on caster.\n    - Heals caster for 212.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 484244962 -608784675:Heavy Platemail Helm of Valor\/a
 categories:
 - Blessing of the Devout (Equipment)

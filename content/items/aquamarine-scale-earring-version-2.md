@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   vselemental: '+360'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM -1941035198 -1025377017:Aquamarine Scale Earring\/a
 categories:
 - Arcane Resistance (Equipment)

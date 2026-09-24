@@ -15,7 +15,8 @@ stats:
   potency: '7.5'
   abmod: '+359'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -1454369995 1448495408:Crimson Star Gloves\/a
 categories:
 - Ability Modifier (Equipment)

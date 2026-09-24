@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dps: '15.2'
-effects: '**Aegis of Blood**'
+effect_name: Aegis of Blood
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Aegis of Blood on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards caster against 1,000 points of all damage\n    - Inflicts 3,796 - 4,196 piercing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Chance For Redemption]]'
 item_link: \aITEM -354013595 -1217110010:Inspirited Talisman of Vah Kerrath\/a
 categories:

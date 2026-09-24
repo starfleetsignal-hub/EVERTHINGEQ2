@@ -19,7 +19,8 @@ stats:
   resolve: '660'
   dps: '81.6'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Crit Bonus Overcap of caster by 1,814.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1724613319 2076281713:Sunless Warren Relic Gauntlets, Revealed\/a
 categories:
 - Assassin Equipment

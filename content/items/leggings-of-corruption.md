@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Chain Armor
-effects: '**Healing Guidance**'
+effect_name: Healing Guidance
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Healing Guidance on caster.\n    - Heals caster for 24.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1514479832 148561524:Leggings of Corruption\/a
 categories:
 - Ability Modifier (Equipment)

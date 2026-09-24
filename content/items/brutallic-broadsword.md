@@ -16,7 +16,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1637029383 -267996570:Brutallic Broadsword\/a
 categories:
 - Assassin Equipment

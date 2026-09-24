@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   dps: '24'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 232129009 -1055447677:Mogul's Imperial Manchette\/a
 categories:
 - Census Credits

@@ -24,7 +24,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Blessing of the Hateful Prince**'
+effect_name: Blessing of the Hateful Prince
+effects: "- When Equipped:\n  - \"Blessing of the Hateful Prince\" protects the wearer from strong deific magics used by Innoruuk!"
 item_link: \aITEM 1304474492 -2036506055:Glaive of the Hateful Prince [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

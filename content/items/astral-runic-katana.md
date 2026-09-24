@@ -20,7 +20,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Astral Scream**'
+effect_name: Astral Scream
+effects: "- Applies Astral Scream when Equipped.\n  - On a combat hit this spell may cast Astral Scream on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 305 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1982983666 1633035589:Astral Runic Katana\/a
 categories:
 - Ability Modifier (Equipment)

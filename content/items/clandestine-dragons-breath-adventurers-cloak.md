@@ -13,7 +13,8 @@ stats:
   crit: '1.1'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 obtained_from: Crafted by [[Tailor]] (level 63) from [[Traveler's Guide of the Tailor Volume 7]]
 item_link: \aITEM -1616413770 346541063:Clandestine Dragon's Breath Adventurer's Cloak\/a
 categories:

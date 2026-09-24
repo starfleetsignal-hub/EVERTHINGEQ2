@@ -18,7 +18,8 @@ stats:
   resolve: '355'
   cbovercap: '+1352.8'
   dtype: Tower Shield
-effects: '**Butcher of Vacrul**<br>**Wary Protection**'
+effect_name: Butcher of Vacrul, Wary Protection
+effects: "- When Equipped:\n  - Increases physical damage done to target by 15%.\n  - Reduces noxious and arcane damage done to target by 15%.\n  - Decreases Max Health of caster by 15.0%.\n  - Increases Fervor Overcap of caster by 25.0.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -91724086 418237915 0 0 0:The Butcher's Guarding Tower\/a
 categories:
 - Berserker Equipment

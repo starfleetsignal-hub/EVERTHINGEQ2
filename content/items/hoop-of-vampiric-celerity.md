@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: '+880'
-effects: '**Blood Nourishment**'
+effect_name: Blood Nourishment
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Blood Nourishment on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 1,520 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 246035063 125680297:Hoop of Vampiric Celerity\/a
 categories:
 - Arcane Resistance (Equipment)

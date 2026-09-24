@@ -7,7 +7,7 @@ level: '20'
 slot: Charm
 stats:
   charges: '5'
-effects: Vision Totem of the Butterfly
+effects: "- Applies **Vision Totem of the Butterfly** when activated. Lasts for 15 minutes.\n  - Grants 'See Stealth' to the caster"
 obtained_from: Crafted by [[Woodworker]] (level 29) from [[Woodworker Essentials Volume 29]]
 item_link: -631330973 -417845352:Vision Totem of the Butterfly
 categories:

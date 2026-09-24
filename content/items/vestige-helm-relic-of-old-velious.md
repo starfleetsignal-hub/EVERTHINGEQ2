@@ -19,7 +19,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Leather Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 353.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1437037673 -1315381405:Vestige Helm, Relic of Old Velious\/a
 categories:
 - Ability Doublecast (Equipment)

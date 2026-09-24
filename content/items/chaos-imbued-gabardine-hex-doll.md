@@ -13,7 +13,8 @@ stats:
   crit: '3.5'
   critbonus: '1.2'
   potency: '6'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 866.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Heirloom)]] *Crafted by [[Tailor]] (level 86) from [[Advanced Tailor Volume 86 (Normal)]]'
 item_link: \aITEM 1461879637 -727656362 0 0 0:chaos imbued gabardine hex doll\/a
 categories:

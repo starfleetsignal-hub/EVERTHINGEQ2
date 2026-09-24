@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Chain Armor
-effects: '**Magical Alacrity**<br>**Haste**'
+effect_name: Magical Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 2 percent.\n- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 451885849 1433351777 0 0 0:Lyrical Chain Gloves\/a
 categories:

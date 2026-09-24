@@ -23,7 +23,8 @@ stats:
   drating: '225.45'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,625 heat damage on target.\n    - Inflicts 3,625 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Iksar Forbidden Eggs]]'
 item_link: \aITEM -1281115291 1070792838:Covering Fist of Iksar\/a
 categories:

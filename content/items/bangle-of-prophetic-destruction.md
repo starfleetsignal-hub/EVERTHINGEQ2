@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   vselemental: '+624'
-effects: '**Mental Overload**'
+effect_name: Mental Overload
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mental Overload on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 12.0.\n    - Increases Ability Mod of caster by 250.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Bangle Of Prophetic Destruction]] *Made from [[A Bloody Prime Drakota Eye]] *Made from [[Prime Bone Golem Shards]] *Made from [[Prime Skyshrine Golem Core]]'
 item_link: \aITEM 1952715776 2127596895:Bangle of Prophetic Destruction\/a
 categories:

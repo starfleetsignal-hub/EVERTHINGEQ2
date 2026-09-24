@@ -16,7 +16,8 @@ stats:
   abmod: +1,527
   aspeed: '17.2'
   vselemental: +28,612
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 57.0."
 obtained_from: '*[[Can You Picture That?]] *[[Ooze Cruise]]'
 item_link: \aITEM 401504946 -779553060:Astral Umbrite Ring\/a
 image: images/Astral_Umbrite_Ring.png

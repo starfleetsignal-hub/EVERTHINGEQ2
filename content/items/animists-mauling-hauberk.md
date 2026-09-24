@@ -18,7 +18,8 @@ stats:
   aspeed: '12.2'
   multi: '13'
   dtype: Chain Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Thickened Crystalline Tunic]]
 item_link: \aITEM -1200682489 1067765453:Animist's Mauling Hauberk\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '11.6'
   multi: '22'
   dtype: Leather Armor
-effects: '**Ethereal Temporality**'
+effect_name: Ethereal Temporality
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 4.0%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 391990572 -813647736 0 0 0:Tunare's Boots of Forest Walking\/a
 categories:
 - Casting Speed (Equipment)

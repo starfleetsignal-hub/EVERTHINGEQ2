@@ -18,7 +18,8 @@ stats:
   resolve: '19'
   multi: '67.3'
   mitinc: '15.5'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 1,630.8.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 120158730 -1397887272:Darkened Mote of Distaste\/a
 categories:
 - Assassin Equipment

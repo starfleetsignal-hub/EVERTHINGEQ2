@@ -14,7 +14,8 @@ stats:
   critbonus: '11.1'
   potency: '11.1'
   flurry: '12.6'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception I when Equipped.\n  - Increases Fervor of caster by 2.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 125."
 item_link: \aITEM 2102607484 -2060058838:Marauder's Ruse\/a
 categories:
 - Ability Doublecast (Equipment)

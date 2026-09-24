@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 item_link: \aITEM -587642874 1940998114:Azure Magus Cloak\/a
 categories:
 - Assassin Equipment

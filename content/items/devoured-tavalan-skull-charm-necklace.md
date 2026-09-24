@@ -15,7 +15,8 @@ stats:
   potency: '26.9'
   strike: '3.5'
   multi: '82.5'
-effects: '**Siren''s Dirge**'
+effect_name: Siren's Dirge
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 7.0.\n  - Increases Max Health of caster by 1,751.0.\n  - Increases Piercing, Slashing, Crushing and Ranged of caster by 60.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 564037442 1106577271:Devoured Tavalan Skull Charm Necklace\/a
 categories:
 - Berserker Equipment

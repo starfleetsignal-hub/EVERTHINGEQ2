@@ -16,7 +16,8 @@ stats:
   resolve: '2'
   abmod: '+779'
   dps: '27'
-effects: '**Shelter**'
+effect_name: Shelter
+effects: "- Applies Shelter when Activated.  Lasts for 12.0 seconds.\n  - Summons a sigil on the ground that makes any group member immune to stun, stifle, fear and daze. All group members receive a ward for 70,000 instantly and every second inside of the sigil.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Shelter is 2 minutes"
 item_link: \aITEM -1042080688 -1676764455:Magma Walker Fossil\/a
 categories:
 - Ability Modifier (Equipment)

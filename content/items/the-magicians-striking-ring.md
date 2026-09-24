@@ -17,7 +17,8 @@ stats:
   dps: '28.8'
   multi: '22.2'
   vselemental: +33,491
-effects: '**Shroud of the Sea**'
+effect_name: Shroud of the Sea
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Shroud of the Sea on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 293,466.\n    - Increases STA of target by 425.0.\n    - Increases Potency of group members (AE) by 14.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM -879776434 -1405631473:The Magician's Striking Ring\/a
 categories:
 - Arcane Resistance (Equipment)

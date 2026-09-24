@@ -16,7 +16,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Holy Strike**'
+effect_name: Holy Strike
+effects: "- Applies Holy Strike when Activated.\n  - Inflicts 202 - 337 divine damage on target.\n  - The casting time of Holy Strike is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 586816212 1321098699:Shaped Divine Imbued Cedar Wand\/a
 categories:
 - Berserker Equipment

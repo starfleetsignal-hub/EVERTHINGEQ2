@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +22,204
-effects: '**Unity**'
+effect_name: Unity
+effects: "- When Equipped:\n  - Inflicts 84,000 heat damage to up to eight targets who are fighting the wearer every 3 seconds. Increases the wearer's potency by 27.6%-52.8% and heals the wearer's allies for 2% to 12.5% of the caster's maximum health based on how many targets are hit. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1685036430 -1351287356:Diabo Bangle of Unity\/a
 categories:
 - Ability Modifier (Equipment)

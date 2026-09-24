@@ -18,7 +18,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Lung Punctures**'
+effect_name: Lung Punctures
+effects: "- When Equipped:\n  - On a hit this spell may cast Lung Punctures on target of attack.  Lasts for 1.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 156 - 190 heat damage on target.\n    - Slows target by 33.0%.\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 175153733 1030570074:Ghost\/a
 categories:
 - Assassin Equipment

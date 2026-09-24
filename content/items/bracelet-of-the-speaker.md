@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.6'
   aspeed: '7.3'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[Al'Diun Stirhinis]] (Faction Merchant) in [[Paineel]] with 40,000 [[City of Paineel]] faction.
 item_link: \aITEM -1105915995 1354085110:Bracelet of the Speaker\/a
 categories:

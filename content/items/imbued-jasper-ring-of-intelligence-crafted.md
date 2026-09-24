@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+7'
   sta: '+7'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 6.6.\n    - Increases Disruption, Subjugation and Focus of caster by 4.3.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 26) from [[Advanced Jeweler Volume 26 (Normal)]] *Crafted by [[Jeweler]] (level 26) from [[Advanced Jeweler Volume 26 (No-Trade)]] *From [[Caster Jewelry Pack (Level 22 Mastercrafted)]]'
 item_link: \aITEM 1980599574 -238108891:Imbued Jasper Ring of Intelligence\/a
 image: images/Imbued_Jasper_Ring_of_Intelligence.jpg

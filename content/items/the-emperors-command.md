@@ -15,7 +15,8 @@ stats:
   abmod: +1,300
   aspeed: '15.7'
   vselemental: +20,072
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 60 maximum"
 item_link: \aITEM -34333869 1375835659:The Emperor's Command\/a
 categories:
 - Ability Modifier (Equipment)

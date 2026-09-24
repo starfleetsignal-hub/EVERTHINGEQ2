@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Arcane Silence**'
+effect_name: Arcane Silence
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Silence V on target of spell.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 84.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1842767268 11576893:Languid Cloud Gloves\/a
 categories:
 - Ability Modifier (Equipment)

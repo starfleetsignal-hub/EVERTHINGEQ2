@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   multi: '5.9'
   vsnoxious: '+338'
-effects: '**Maniacal Infusion**'
+effect_name: Maniacal Infusion
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Maniacal Infusion on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 200.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 obtained_from: '[[Taking it to the Source]]'
 item_link: \aITEM 83168915 1706067928:Reet Toe Signet\/a
 categories:

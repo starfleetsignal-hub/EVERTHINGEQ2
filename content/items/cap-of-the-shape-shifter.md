@@ -19,7 +19,7 @@ stats:
   vsarcane: '+350'
   vsnoxious: '+350'
   dtype: Cloth Armor
-effects: Aggregate Mana
+effects: "- Applies Aggregate Mana when Activated.\n  - Increases power of caster by 445"
 item_link: -1800029679 1089679696:Cap of the Shape Shifter
 categories:
 - Arcane Resistance (Equipment)

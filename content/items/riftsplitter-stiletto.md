@@ -21,7 +21,8 @@ stats:
   drating: '107.89'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume I]]
 item_link: \aITEM 114386830 -1103326276:Riftsplitter Stiletto\/a
 categories:

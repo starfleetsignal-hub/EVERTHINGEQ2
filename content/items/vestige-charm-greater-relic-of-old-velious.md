@@ -18,7 +18,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   mitinc: '72.1'
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 42.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2125599320 1959073542:Vestige Charm, Greater Relic of Old Velious\/a
 categories:
 - Assassin Equipment

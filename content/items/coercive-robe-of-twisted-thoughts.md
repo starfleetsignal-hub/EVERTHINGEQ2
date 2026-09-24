@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 5%."
 item_link: \aITEM -756091341 -231322061 0 0 0:Coercive Robe of Twisted Thoughts\/a
 categories:
 - Census Credits

@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+117'
   vselemental: '+360'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '[[Out of Her Element...]]'
 item_link: \aITEM -1665498769 1470715268:Fanged Earring of Mistrust\/a
 categories:

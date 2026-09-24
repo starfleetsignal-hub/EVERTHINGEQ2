@@ -16,7 +16,8 @@ stats:
   critbonus: 1,149.8
   potency: 24,392.1
   resolve: '355'
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless when Activated.  Lasts for 30.0 seconds.\n  - Terminates after casting three beneficial spells on friendly targets.\n  - Increases effectiveness of heals and wards by 50%.\n  - Prevents caster from being Interrupted due to movement\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless is 3 minutes"
 item_link: \aITEM -1367584731 -630847341:Poppet's Rubber Ball of Ferocity\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Ancestral Call**'
+effect_name: Ancestral Call
+effects: "- Applies Ancestral Call when Activated.\n  - Dispels 23 levels of hostile Fear effects on caster\n  - Dispels 23 levels of hostile Root, hostile Stifle, hostile Stun and hostile Daze effects on group members (AE)\n  - The casting time of Ancestral Call is 1.0 second and the reuse time of the spell is 2 minutes"
 item_link: \aITEM -1753329946 1238944176:Halasian Story Woven Belt\/a
 categories:
 - Ancestral Call (Equipment)

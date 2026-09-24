@@ -18,7 +18,7 @@ stats:
   vselemental: '+315'
   vsarcane: '+350'
   dtype: Cloth Armor
-effects: Betraying Thoughts
+effects: "- When Equipped:\n  - When target is damaged in combat this spell has an 8% chance to cast Betraying Thoughts on caster.\n    - Decreases threat to caster by 500"
 item_link: \aITEM -731840707 -1509620721:Daydreamer's Cloth Cap\/a
 categories:
 - Arcane Resistance (Equipment)

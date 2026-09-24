@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: +1,824
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1084374263 1511031051:Wrist of Granite Wings\/a
 categories:
 - Ability Modifier (Equipment)

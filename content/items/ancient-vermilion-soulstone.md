@@ -16,7 +16,8 @@ stats:
   abmod: '+393'
   multi: '17.5'
   flurry: '7.5'
-effects: '**Skilled Interval**'
+effect_name: Skilled Interval
+effects: "- When Equipped:\n  - On a hit this spell may cast Skilled Interval on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 368 instantly and every 5 seconds.\n    - Increases Flurry of Caster by 5.0.\n    - Increases Ability Mod of caster by 1,000.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 922555864 -1738899006 0 0 0:Ancient Vermilion Soulstone\/a
 categories:
 - Ability Modifier (Equipment)

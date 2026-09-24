@@ -18,7 +18,8 @@ stats:
   abmod: +32,535
   aspeed: '72.2'
   vselemental: +87,497
-effects: '**Exploit Advantage**'
+effect_name: Exploit Advantage
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 25.0."
 item_link: \aITEM -2076258957 -1006316570:Planar Emblem of Raiding\/a
 categories:
 - Ability Modifier (Equipment)

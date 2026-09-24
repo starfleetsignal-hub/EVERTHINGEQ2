@@ -24,7 +24,8 @@ stats:
   drating: '375.78'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 19,992 crushing damage on target.\n    - Increases Crit Bonus of caster by 50.6.\n    - Increases Potency of caster by 78.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 756697781 936891421:Expert's Jagged Sword of Stolen Memories\/a
 categories:
 - AE Autoattack Chance (Equipment)

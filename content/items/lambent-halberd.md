@@ -15,7 +15,8 @@ stats:
   drating: '10.64'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Chill Gust Glyph**'
+effect_name: Chill Gust Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1594715089 -507968636:Lambent Halberd\/a
 categories:
 - Berserker Equipment

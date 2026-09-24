@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   aspeed: '5.6'
   dtype: Cloth Armor
-effects: '**Asphyxiating Sorcery**'
+effect_name: Asphyxiating Sorcery
+effects: "- Applies Asphyxiating Sorcery when Activated.  Lasts for 30.0 seconds.\n  - Increases the chance of all procs by 25 percent.\n    - If under level 90\n  - The casting time of Asphyxiating Sorcery is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -435485942 -1644130130:Frostruned Shoulderpads\/a
 categories:
 - Ability Modifier (Equipment)

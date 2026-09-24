@@ -17,7 +17,8 @@ stats:
   dps: '51.3'
   multi: '35.1'
   dtype: Cloth Armor
-effects: '**Sorcerer''s Rapture**'
+effect_name: Sorcerer's Rapture
+effects: "- Applies Sorcerer's Rapture when Activated.  Lasts for 10 minutes.\n  - Wards caster against 25,000 points of elemental, noxious and arcane damage\n  - Increases Combat Power Regen of caster by 300.0.\n  - Must have Fabled Silversilk Robe equipped.\n  - Cannot be modified except by direct means\n  - The casting time of Sorcerer's Rapture is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 1156336046 -1622895335 0 0 0:Fabled Silversilk Robe\/a
 categories:
 - Attack Speed (Equipment)

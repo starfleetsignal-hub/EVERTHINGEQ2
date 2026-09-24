@@ -19,7 +19,8 @@ stats:
   abmod: +9,478
   aspeed: '236.8'
   dtype: Chain Armor
-effects: '**Mastery of Nightmares**'
+effect_name: Mastery of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Baliath, Harbinger of Nightmares."
 obtained_from: From [[Hoard of the Harbinger]]
 item_link: \aITEM -423133793 1115193411:Exemplar Chainmail Gloves\/a
 categories:

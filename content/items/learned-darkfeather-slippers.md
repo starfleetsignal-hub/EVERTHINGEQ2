@@ -17,7 +17,8 @@ stats:
   potency: '7'
   abmod: '+210'
   dtype: Cloth Armor
-effects: '**Excess Energy**'
+effect_name: Excess Energy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Excess Energy on caster.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 80 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Sehesh]] in [[Paineel]] for [[Sandals of Visionary Being]] and 30 [[Seal of Arad|Seals of Arad]]
 item_link: \aITEM 220972734 -1164752124:Learned Darkfeather Slippers\/a
 categories:

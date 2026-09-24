@@ -15,7 +15,8 @@ stats:
   potency: '12.1'
   multi: '101.5'
   flurry: '1'
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -648948248 -1721960528 0 0 0:Cloak of the Eternal Dead\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   potency: 3,104.9
   resolve: '35'
   dps: '53.8'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 25.2.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1274809467 -1854565204:Bertoxxulous's Plagued Effigy\/a
 categories:
 - Assassin Equipment

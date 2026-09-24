@@ -15,7 +15,8 @@ stats:
   potency: '2.7'
   abmod: '+68'
   vsarcane: '+280'
-effects: '**Languid Pace**'
+effect_name: Languid Pace
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Languid Pace V on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.4 times per minute.\n    - Decreases Haste of target by 14.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -227410503 -276077582:Tumbled Stone Ring\/a
 categories:
 - Ability Modifier (Equipment)

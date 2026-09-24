@@ -15,7 +15,8 @@ stats:
   potency: '8.2'
   dps: '18.1'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -823030778 1749904177:Harbinger's Immortal Gauntlets\/a
 categories:
 - Census Credits

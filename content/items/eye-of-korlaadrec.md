@@ -16,7 +16,8 @@ stats:
   resolve: '2'
   abmod: '+779'
   dps: '27'
-effects: '**Crimson Contract**'
+effect_name: Crimson Contract
+effects: "- Applies Crimson Contract when Activated.\n  - Heals caster for 10% of their maximum health, plus 1% for each group member within 35m\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Crimson Contract is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -1226560314 1179714351:Eye of Korlaadrec\/a
 categories:
 - Ability Modifier (Equipment)

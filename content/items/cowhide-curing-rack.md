@@ -20,7 +20,8 @@ stats:
   aspeed: '56.4'
   mitinc: '29.3'
   dtype: Tower Shield
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 8.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1725694629 -2087005961:Cowhide Curing Rack\/a
 categories:
 - Attack Speed (Equipment)

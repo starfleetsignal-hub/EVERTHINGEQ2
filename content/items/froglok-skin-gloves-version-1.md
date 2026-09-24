@@ -17,7 +17,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Cloth Armor
-effects: '**Destructive Channeling**'
+effect_name: Destructive Channeling
+effects: "- When Equipped:\n  - Increases range of hostile spells by 10 percent."
 item_link: \aITEM -714399097 -89242985:Froglok Skin Gloves\/a
 image: images/Froglok_Skin_Gloves.png
 categories:

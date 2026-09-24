@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Cloth Armor
-effects: '**Strike of Living Flames**'
+effect_name: Strike of Living Flames
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Strike of Living Flames on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 81 - 136 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1245140376 1209976554:Circlet of Living Fire\/a
 categories:
 - Attack Speed (Equipment)

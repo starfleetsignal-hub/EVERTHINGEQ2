@@ -19,7 +19,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Vitalize**'
+effect_name: Vitalize
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Vitalize on caster.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1344984913 -1505370285:Spinesplitter\/a
 categories:
 - Beastlord Equipment

@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Sacrifice to Vallon Zek**'
+effect_name: Sacrifice to Vallon Zek
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sacrifice to Vallon Zek on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - On death this spell will cast Sacrifice to Vallon Zek on caster.  Lasts for 15.0 seconds.\n      - Summons a limited pet that heals up to 3 players near the location of the target's death. Anyone who is healed gains 20% accuracy and strikethrough.\n      - Cannot be modified except by direct means\n      - Grants a total of 1 trigger of the spell.\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM -1331460141 1040668431:Shazzak's Bored Scale\/a
 categories:

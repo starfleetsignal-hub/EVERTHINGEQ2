@@ -16,7 +16,8 @@ stats:
   resolve: '7'
   aspeed: '38'
   flurry: '19.8'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 1777204895 -258321052:Impressive Cloak of Cooperation\/a
 categories:
 - All for One (Equipment)

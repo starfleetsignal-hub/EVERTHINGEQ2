@@ -16,7 +16,7 @@ stats:
   drating: '31.5'
   range: 2 - 35
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 109-203 magic damage on target\n    - Decreases Threat to target by 352\n      - Must be flanking or behind\n    - Increases Threat to target by 522\n      - Must be in front of\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 31) from [[Tailor Essentials Volume 31]]
 item_link: \aITEM 2056742946 -2113571111:Imbued Etched Leather Bandolier\/a
 aliases:

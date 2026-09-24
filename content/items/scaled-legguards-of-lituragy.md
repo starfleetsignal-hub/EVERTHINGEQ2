@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Plate Armor
-effects: '**Holy Smite**'
+effect_name: Holy Smite
+effects: "- When Equipped:\n  - Increases divine damage done by spells by up to 5."
 obtained_from: '[[Conciliatory Delivery]]'
 item_link: \aITEM -1914097639 2107037625:Scaled Legguards of Lituragy\/a
 categories:

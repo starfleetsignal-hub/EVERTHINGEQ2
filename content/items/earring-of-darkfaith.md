@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+101'
   vselemental: '+360'
-effects: '**Darkfaith**'
+effect_name: Darkfaith
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Wrath of the Hydromancer on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the base damage of melee damage and hostile spells cast by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 980552477 -825309080:Earring of Darkfaith\/a
 categories:
 - Ability Modifier (Equipment)

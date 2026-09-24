@@ -16,7 +16,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Glimmering Blessing**'
+effect_name: Glimmering Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Glimmering Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 25\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 36) from [[Woodworker Essentials Volume 36 (Normal)]] *Crafted by [[Woodworker]] (level 36) from [[Woodworker Essentials Volume 36 (no-trade)]]'
 item_link: \aITEM -767387008 -2081482292:Blessed Briarwood Quarter Staff\/a
 categories:

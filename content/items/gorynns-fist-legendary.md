@@ -14,7 +14,8 @@ stats:
   drating: '98.67'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Shatter**'
+effect_name: Shatter
+effects: "- When Equipped:\n  - On any combat or spell hit this spell will cast Shatter on caster.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Fist of War]]'
 item_link: \aITEM 335603700 2064600847:Gorynn's Fist\/a
 categories:

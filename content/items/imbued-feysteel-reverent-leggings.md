@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '144'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 66 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 36) from [[Advanced Armorer Volume 36 (Normal)]] *Crafted by [[Armorer]] (level 36) from [[Advanced Armorer Volume 36 (No-Trade)]] *From [[Reverent Armor Pack (Level 32 Mastercrafted)]]'
 item_link: \aITEM 873794144 1028226086:Imbued Feysteel Reverent Leggings\/a
 categories:

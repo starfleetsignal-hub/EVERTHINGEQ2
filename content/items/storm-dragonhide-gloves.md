@@ -17,7 +17,8 @@ stats:
   abmod: '+418'
   dps: '28.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -357989542 -770358906:Storm Dragonhide Gloves\/a
 categories:
 - Ability Modifier (Equipment)

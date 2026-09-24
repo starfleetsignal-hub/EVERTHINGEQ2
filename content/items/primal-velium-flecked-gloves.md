@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   abmod: '+568'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 290540421 1864580543 0 0 0:Primal Velium Flecked Gloves\/a
 categories:
 - Ability Modifier (Equipment)

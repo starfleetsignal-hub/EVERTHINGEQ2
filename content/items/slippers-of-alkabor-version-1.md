@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   dps: '8.1'
   dtype: Cloth Armor
-effects: '**Absorption Shield**'
+effect_name: Absorption Shield
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Absorption Shield on caster.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster against 333 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 488520313 1434289723:Slippers of Al'Kabor\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -11,7 +11,8 @@ stats:
   sta: '+5'
   int: '+6'
   dtype: Kite Shield
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 12 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1251380192 -730189987:Crude Imbued Carbonite Kite Shield\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Undeterred**'
+effect_name: Undeterred
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Undeterred on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 168,750-300,000 mental damage and increases the wearer's maximum health by 12,000 to 96,000 based on the number of enemies who hate the wearer that are within 15 meters of the target\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '2x as [[Age''s End: Shattered Fate]]'
 item_link: \aITEM -1395206167 -1059659626:Hoop of Undeterred Excellence\/a
 image: images/Hoop_of_Undeterred_Excellence.gif

@@ -15,7 +15,8 @@ stats:
   potency: '2.1'
   dps: '10'
   dtype: Buckler
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 885190019 1569449897:Imbued Eucalyptus Buckler\/a
 categories:
 - Block Chance (Equipment)

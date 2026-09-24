@@ -20,7 +20,8 @@ stats:
   drating: '53.67'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Ringing Blow**'
+effect_name: Ringing Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ringing Blow on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 321 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1708021962 2014535259:Hammer of Formation\/a
 categories:
 - Ability Modifier (Equipment)

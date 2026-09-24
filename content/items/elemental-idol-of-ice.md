@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+147'
-effects: '**Atheneal Frost**'
+effect_name: Atheneal Frost
+effects: "- Applies Atheneal Frost when Activated.  Lasts for 30.0 seconds.\n  - All offensive spells deal cold damage.\n  - Must be in Ward of Elements.\n  - The casting time of Atheneal Frost is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 73345843 149180117:Elemental Idol of Ice\/a
 categories:
 - AE Autoattack Chance (Equipment)

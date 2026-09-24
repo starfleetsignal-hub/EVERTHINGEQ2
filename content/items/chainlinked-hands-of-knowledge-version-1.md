@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dtype: Chain Armor
-effects: '**Power of Knowledge**'
+effect_name: Power of Knowledge
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Power of Knowledge on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Summons 2 limited pets to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM -177506865 1223878340:Chainlinked Hands of Knowledge\/a
 aliases:
 - Chainlinked Hands of Knowledge (Level 80)

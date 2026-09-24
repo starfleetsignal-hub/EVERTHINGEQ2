@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Calming Ward**'
+effect_name: Calming Ward
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Calming Ward on caster.  Lasts for 24.0 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 345167904 326584645:Alluring Cap\/a
 categories:
 - Ability Modifier (Equipment)

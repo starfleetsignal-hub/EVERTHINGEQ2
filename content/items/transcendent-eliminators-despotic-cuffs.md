@@ -16,7 +16,12 @@ stats:
   dps: '22.4'
   multi: '29.4'
   dtype: Chain Armor
-effects: Lucid Haste
+effects: 'When Equipped:
+
+
+  - Increases Attack Speed of caster by 50.0
+
+  - Must not be engaged in pvp combat'
 obtained_from: Hendin Trash
 item_link: \aITEM 1316548898 -1692403842:Transcendent Eliminator's Despotic Cuffs\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   multi: '12'
   vselemental: '+511'
-effects: '**Critical Vigor**'
+effect_name: Critical Vigor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Critical Vigor on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -308231057 253145662:Sqilak's Ring of Elemental Understanding\/a
 categories:
 - Arcane Resistance (Equipment)

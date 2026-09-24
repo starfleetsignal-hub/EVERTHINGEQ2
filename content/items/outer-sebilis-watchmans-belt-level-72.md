@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 177.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Trip to the Abandoned Village]]'
 item_link: \aITEM -777875523 1513916864:Outer Sebilis Watchman's Belt\/a
 categories:

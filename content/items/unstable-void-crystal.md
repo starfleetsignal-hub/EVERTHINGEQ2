@@ -17,7 +17,8 @@ stats:
   critbonus: 1,236.9
   potency: 29,082.9
   resolve: '380'
-effects: '**Crystal Cannon**'
+effect_name: Crystal Cannon
+effects: "- Applies Crystal Cannon when Equipped.\n  - Increases effectiveness of abilities by 10 for every 10% condition lost on the Unstable Void Crystal.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Triumph: Void Where Prohibited]]'
 item_link: \aITEM 1512320205 1160427093:Unstable Void Crystal\/a
 categories:

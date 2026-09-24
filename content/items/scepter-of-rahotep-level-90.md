@@ -19,7 +19,8 @@ stats:
   drating: '171.8'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Consecration of Rahotep**'
+effect_name: Consecration of Rahotep
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Consecration of Rahotep on caster.  Triggers about 1.8 times per minute.\n    - Heals group members for 1,040.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1363985200 2113181407:Scepter of Rahotep\/a
 categories:
 - Ability Modifier (Equipment)

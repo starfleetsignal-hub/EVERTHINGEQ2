@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Cloth Armor
-effects: '**Sneakoscopic Goggles**'
+effect_name: Sneakoscopic Goggles
+effects: "- Applies Sneakoscopic Goggles when Equipped.\n  - Grants See Stealth to caster.\n  - Grants See Invisibility to caster."
 obtained_from: Made with Tinkering (skill 385) from [[Master's Blueprints 0.007]].
 item_link: \aITEM 451439424 -1576151767:Sneakoscopic Goggles\/a
 categories:

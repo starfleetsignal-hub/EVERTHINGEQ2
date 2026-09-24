@@ -15,7 +15,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   abmod: '+568'
-effects: '**Warbearer**'
+effect_name: Warbearer
+effects: "- Applies Warbearer when Activated.  Lasts for 16.0 seconds.\n  - Increases Flurry of Caster by 15.0.\n  - Increases Strikethrough of caster by 100.0%.\n  - Increases Accuracy of caster by 100.0%.\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The casting time of Warbearer is 0.25 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -550874020 1588684428:Inquisitor's Drape of War\/a
 categories:

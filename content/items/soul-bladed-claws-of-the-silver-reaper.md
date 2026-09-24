@@ -21,7 +21,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM 751423639 391675928 0 0 0:Soul-Bladed Claws of the Silver Reaper\/a
 categories:
 - Beastlord Equipment

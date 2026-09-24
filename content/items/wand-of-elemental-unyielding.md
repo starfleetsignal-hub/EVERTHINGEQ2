@@ -19,7 +19,8 @@ stats:
   drating: '132'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Phantasmal Siphon**'
+effect_name: Phantasmal Siphon
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,369 - 2,618 poison damage on target\n    - Heals caster for 1,185 - 1,309\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 737472234 -1377713038:Wand of Elemental Unyielding\/a
 categories:
 - Assassin Equipment

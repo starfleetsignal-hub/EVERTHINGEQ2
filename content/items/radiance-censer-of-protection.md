@@ -14,7 +14,8 @@ stats:
   crit: '3'
   abmod: '+75'
   dtype: Symbols
-effects: '**Mindtap**'
+effect_name: Mindtap
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Mindtap II on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 130.\n    - Increases power of caster by 144.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM -1360806207 -1878440148:Radiance, Censer of Protection\/a
 categories:

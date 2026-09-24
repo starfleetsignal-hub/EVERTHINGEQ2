@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   mitinc: '5.1'
   dtype: Chain Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 1907870719 67058379 0 0 0:Desecrated Armguards of Darkness\/a
 categories:
 - Ability Modifier (Equipment)

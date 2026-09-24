@@ -15,7 +15,8 @@ stats:
   abmod: '+229'
   aspeed: '34.3'
   vselemental: +9,851
-effects: '**Hound''s Armament**'
+effect_name: Hound's Armament
+effects: "- When Equipped:\n  - Increases Potency of caster by 10.0.\n  - On a beneficial spell cast this spell may cast Hound's Armament on caster.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Will absorb all damage when the amount is greater than 50% of the target's maximum health. This spell will absorb a total of 1 attack.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1776564356 1402858056:Hoop of the Hound's Armament\/a
 categories:
 - Ability Modifier (Equipment)

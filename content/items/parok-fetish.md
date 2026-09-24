@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Ritual of Pa''Rok**'
+effect_name: Ritual of Pa'Rok
+effects: "- Applies Ritual of Pa'Rok when Equipped.\n  - Increases Max Health of caster by 9.0."
 obtained_from: '[[Unfortunate Mistakes]]'
 item_link: \aITEM -257863709 -173687751:Pa'Rok Fetish\/a
 categories:

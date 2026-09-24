@@ -16,7 +16,8 @@ stats:
   aspeed: '0.8'
   dps: '3.2'
   dtype: Plate Armor
-effects: '**Frost Gale**'
+effect_name: Frost Gale
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Frost Gale on target's attacker.  Lasts for 0.3 seconds.\n    - Throws target back\n    - Inflicts 166 - 277 cold damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1047443768 -211773605:Iridescent Scale Cuirass\/a
 categories:
 - Attack Speed (Equipment)

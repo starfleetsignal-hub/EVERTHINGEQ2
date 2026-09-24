@@ -17,7 +17,8 @@ stats:
   aspeed: '36.3'
   dps: '13.9'
   vselemental: +30,369
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 item_link: \aITEM -1820390990 1835193477:Etched Bangle of Kroth\/a
 categories:
 - Ability Modifier (Equipment)

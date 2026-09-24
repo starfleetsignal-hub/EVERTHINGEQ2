@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Unfocused Anger**'
+effect_name: Unfocused Anger
+effects: "- Applies Unfocused Anger when Equipped.\n  - Decreases Dissonance Regen of caster by 1,000.0.\n  - Decreases Potency of caster by 50.0.\n  - Decreases Crit Bonus of caster by 50.0.\n  - While under this effect your dissonence regeneration may become dissonence generation.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -607518856 200672469:Spiritbreaker\/a
 categories:
 - Attack Speed (Equipment)

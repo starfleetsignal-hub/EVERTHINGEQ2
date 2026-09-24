@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Lightning Blanket (crate)|Lightning Blanket]]
 item_link: \aITEM 1542415602 978033571:Lightning Blanket\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   dtype: Chain Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 875.\n    - Heals group members (AE) for 292 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Obtained from [[Thickened Crystalline Hauberk]]
 item_link: \aITEM -434659885 502980207:Wraith's Purified Hauberk\/a
 categories:

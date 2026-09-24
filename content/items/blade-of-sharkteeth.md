@@ -21,7 +21,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Reprisal**'
+effect_name: Reprisal
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Reprisal II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives caster an extra 2.2% mitigation to their worn armor.\n    - When any damage is received this spell will cast Reprisal II on target's attacker.\n      - Inflicts 326 - 360 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1492524486 -596220002 0 0 0:Blade of Sharkteeth\/a
 categories:
 - Assassin Equipment

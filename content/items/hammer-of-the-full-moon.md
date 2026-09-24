@@ -20,7 +20,8 @@ stats:
   drating: '148.36'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '[[Shifting News for Nuryen]]'
 item_link: \aITEM 1695661225 -1041974231:Hammer of the Full Moon\/a
 categories:

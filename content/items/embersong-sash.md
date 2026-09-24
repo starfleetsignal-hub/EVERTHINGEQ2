@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7'
   abmod: '+210'
-effects: '**Greater Burning Affliction**'
+effect_name: Greater Burning Affliction
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Greater Burning Affliction on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 499 - 831 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 1,277.\n    - Cannot be modified except by direct means\n    - Will trigger off of poison, mental, magic, heat, divine, disease or cold abilities."
 item_link: \aITEM 1227460961 -1386377071:Embersong Sash\/a
 categories:
 - Ability Modifier (Equipment)

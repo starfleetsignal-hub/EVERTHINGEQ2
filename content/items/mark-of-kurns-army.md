@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Deadly Strikes**'
+effect_name: Deadly Strikes
+effects: "- Applies Deadly Strikes when Activated.  Lasts for 45.0 seconds.\n  - Increases DPS of caster by 30.0.\n  - The casting time of Deadly Strikes is 0.5 seconds and the reuse time of the spell is 6 minutes"
 item_link: \aITEM -819647926 1442027074:Mark of Kurn's Army\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 60 - 91 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1890035058 -1917580188:shaped imbued feyiron falchion\/a
 categories:
 - Assassin Equipment

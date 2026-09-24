@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: +1,527
   aspeed: '17.2'
-effects: '**Elemental Focus**'
+effect_name: Elemental Focus
+effects: "- Applies Elemental Focus III when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all elemental abilities.\n  - Removes 200 potency from arcane and noxious damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Elemental Focus III is 2 minutes"
 obtained_from: '[[Ironblood and Guts]]'
 item_link: \aITEM -317558131 2089563543:Bottled Ironblood Spores\/a
 image: images/Bottled_Ironblood_Spores.png

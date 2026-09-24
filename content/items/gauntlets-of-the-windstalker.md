@@ -12,7 +12,8 @@ stats:
   agi: '+5'
   mit: '68'
   dtype: Plate Armor
-effects: '**Renewing Breeze Glyph**'
+effect_name: Renewing Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Renewing Breeze on caster.\n    - Heals caster for 11.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1476659972 -1763686696:Gauntlets of the Windstalker\/a
 aliases:
 - Gauntlets of Windstalker

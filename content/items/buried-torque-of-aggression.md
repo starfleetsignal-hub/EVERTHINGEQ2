@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   abmod: +1,250
-effects: '**Bottled Aggression**'
+effect_name: Bottled Aggression
+effects: "- When Equipped:\n  - While out of combat, the caster will quickly gain up to 200 potency. While in combat this potency will decrease to 0 at the same rate."
 item_link: \aITEM 87476473 2130036428:Buried Torque of Aggression\/a
 image: images/Buried_Torque_of_Aggression.png
 categories:

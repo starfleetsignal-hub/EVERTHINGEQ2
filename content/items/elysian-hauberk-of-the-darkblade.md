@@ -18,7 +18,8 @@ stats:
   dps: '24.2'
   multi: '15.6'
   dtype: Chain Armor
-effects: '**Shrapnel**'
+effect_name: Shrapnel
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Shrapnel on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 5,062 - 5,594 piercing damage on target encounter.\n    - Inflicts 633 - 699 piercing damage on target encounter every 2 seconds.\n    - Increases Casting Speed of caster by 10.0%.\n    - Increases in-combat movement speed of group members (AE) by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Vallon Zek]] in [[Vallon's Tower (Challenge)]]
 item_link: \aITEM 410902569 -575970081:Elysian Hauberk of the Darkblade\/a
 categories:

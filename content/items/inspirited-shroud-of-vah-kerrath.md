@@ -15,7 +15,9 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Rime Strike**'
+effect_name: Rime Strike
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On a critical spell hit this spell may cast Rime Strike on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,424 - 1,573 poison damage on target.\n    - Inflicts 1,424 - 1,573 heat damage on target.\n    - Increases Crit Bonus of caster by 4.0.\n    - Increases Potency of caster by 4.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Rime Strike on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,424 - 1,573 poison damage on target.\n    - Inflicts 1,424 - 1,573 heat damage on target.\n    - Increases Crit Bonus of caster by 4.0.\n    - Increases Potency of caster by 4.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct\
+  \ means"
 obtained_from: '[[A Chance For Redemption]]'
 item_link: \aITEM -1890746782 1221920197:Inspirited Shroud of Vah Kerrath\/a
 categories:

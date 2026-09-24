@@ -15,7 +15,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 91 - 151 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -509895515 -627665139:Scoundrels Dirk\/a
 categories:
 - Ancient Glyph of Venom (Equipment)

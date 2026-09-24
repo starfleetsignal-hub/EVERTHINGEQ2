@@ -18,7 +18,8 @@ stats:
   resolve: '70'
   aspeed: '75'
   flurry: '41.2'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.2.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Collection reward: [[Earthen Bile (Collection)]]'
 item_link: \aITEM -2079880936 1232551923:Earthen Bile\/a
 categories:

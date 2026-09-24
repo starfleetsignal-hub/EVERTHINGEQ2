@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   multi: '31.2'
-effects: '**Better Part of Valor**'
+effect_name: Better Part of Valor
+effects: "- Applies Better Part of Valor when Activated.  Lasts for 10.0 seconds.\n  - Applies Better Part of Valor.  Lasts for 24.0 seconds.\n    - Slows targets in Area of Effect by 50.0%.\n    - Cannot be modified except by direct means\n  - Dispels 131 levels of hostile Root effects on group members (AE)\n  - Reduces slow effects on group members (AE) by 50.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Better Part of Valor is 1 minute 30 seconds"
 item_link: \aITEM 1367129851 338552128:The Gambler's Winning Hand\/a
 categories:
 - AE Autoattack Chance (Equipment)

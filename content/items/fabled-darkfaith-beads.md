@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: '**The Battlemage**'
+effect_name: The Battlemage
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 40.0.\n  - If mage"
 item_link: \aITEM -820557622 -1415467829:Fabled Darkfaith Beads\/a
 categories:
 - Assassin Equipment

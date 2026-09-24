@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +19,032
-effects: '**Evasive Twirl**'
+effect_name: Evasive Twirl
+effects: "- When Equipped:\n  - Applies Evasive Twirl II.  Lasts for 10.0 seconds.\n    - Inflicts 193,600 crushing damage on targets in Area of Effect.\n    - Increases Block Chance of caster by 4.0%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -725667300 179258177:Evasive Intercepting Manacle\/a
 categories:
 - Arcane Resistance (Equipment)

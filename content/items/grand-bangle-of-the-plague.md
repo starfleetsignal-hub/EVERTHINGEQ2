@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Grand Symphony**'
+effect_name: Grand Symphony
+effects: "- When Equipped:\n  - Grants the raid 15 seconds of increased Crit Bonus following the use of Rhythmic Overture."
 item_link: \aITEM -879745120 -1885010092:Grand Bangle of the Plague\/a
 categories:
 - Arcane Resistance (Equipment)

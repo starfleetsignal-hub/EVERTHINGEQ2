@@ -19,7 +19,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Back Break**'
+effect_name: Back Break
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Back Break on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 305 piercing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of pierce, slash or crush abilities."
 obtained_from: Purchased with PvP status points.
 item_link: \aITEM -433668659 -700540002:Serrated Spineripper\/a
 categories:

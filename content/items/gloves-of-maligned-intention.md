@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   mitinc: '2.1'
   dtype: Leather Armor
-effects: '**Dreadnaught''s Respite**'
+effect_name: Dreadnaught's Respite
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Dreadnaught's Respite on target's attacker.\n    - Inflicts 351 crushing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1474601192 274538989:Gloves of Maligned Intention\/a
 categories:
 - Bruiser Equipment

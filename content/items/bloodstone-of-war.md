@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '30'
   potency: '30'
-effects: '**Warforce**'
+effect_name: Warforce
+effects: "- Applies Warforce when Activated.  Lasts for 3.0 seconds.\n  - Reduces physical damage done to caster by 100%.\n  - Shares a reuse with Sacred Knight and Circle of Intimidation\n  - Cannot be modified except by direct means\n  - The casting time of Warforce is 0.25 seconds and the reuse time of the spell is 1 minute 30 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM -57667409 -1791916422:Bloodstone of War\/a
 categories:

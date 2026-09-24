@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Frozen Wind Glyph**'
+effect_name: Frozen Wind Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1028763266 -1712631393:Ashuk's Ornate Scepter\/a
 categories:
 - Beastlord Equipment

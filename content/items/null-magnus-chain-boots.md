@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Raring to Go]]'
 item_link: \aITEM -1907449346 -1188042774:Null Magnus Chain Boots\/a
 categories:

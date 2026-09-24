@@ -18,7 +18,8 @@ stats:
   drating: '67.31'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Smoldering Blessing**'
+effect_name: Smoldering Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Smoldering Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 120\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 71) from [[Advanced Woodworker Volume 71 (Heirloom)]] *Crafted by [[Woodworker]] (level 71) from [[Advanced Woodworker Volume 71 (Normal)]]'
 item_link: \aITEM 1935289504 1658455133:Blessed Mahogany Knotted Club\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '13'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Swiftlace Shadow Waist]], [[Hearthwarmed Belt]] and 1p 50g
 item_link: \aITEM 1549908023 1738305268 0 0 0:Shimmering Swiftlace Shadow Waist\/a
 categories:

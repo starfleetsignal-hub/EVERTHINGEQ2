@@ -20,7 +20,8 @@ stats:
   dps: '63.1'
   mitinc: '11.5'
   dtype: Plate Armor
-effects: '**Quacker Power**'
+effect_name: Quacker Power
+effects: "- Applies Quacker Power when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -1995895740 -227471156:Cask of the Skullquacker\/a
 categories:
 - Ability Modifier (Equipment)

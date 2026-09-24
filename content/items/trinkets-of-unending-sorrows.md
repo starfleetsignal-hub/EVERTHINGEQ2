@@ -14,7 +14,8 @@ stats:
   potency: '11.1'
   abmod: '+373'
   vselemental: +8,415
-effects: '**Unending Sorrows**'
+effect_name: Unending Sorrows
+effects: "- When Equipped:\n  - Increases Haste of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -242987682 1132967699:Trinkets of Unending Sorrows\/a
 categories:
 - Ability Modifier (Equipment)

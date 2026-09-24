@@ -25,7 +25,8 @@ stats:
   drating: '589.24'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n  - On a hostile ability cast this spell has a 15% chance to cast Execution on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases arcane damage done to target by 3.7%.\n    - Inflicts 2,845 magic damage on target instantly and every second.\n    - Inflicts an additional 46 magic damage on target every tick.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM 1875851539 -883022720:Celestial Executioner's Axe\/a
 events:
 - Chronoportal Phenomenon

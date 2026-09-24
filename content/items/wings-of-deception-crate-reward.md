@@ -6,7 +6,8 @@ icon: images/Item_1837.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Sky Glide**'
+effect_name: Featherfall, Sky Glide
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Sky Glide when Activated.  Lasts for 30.0 seconds.\n  - Allows caster to jump farther\n  - Cannot be modified except by direct means\n  - The casting time of Sky Glide is 1.0 second and the reuse time of the spell is 3 minutes"
 obtained_from: '*From [[Wings of Deception (crate)|Wings of Deception]] *Legends of Norrath loot card'
 item_link: \aITEM -718597871 1547021768:Wings of Deception\/a
 categories:

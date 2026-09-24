@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Vanish**'
+effect_name: Vanish
+effects: "- Applies Vanish when Activated.  Lasts for 15.0 seconds.\n  - Increases in-combat movement speed of caster by 50.0%.\n  - Teleports the caster to the furthest group member away from them. The minimum teleport distance is 10 meters and maximum is 50.\n  - Cannot be modified except by direct means\n  - The reuse time of Vanish is 3 minutes"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM 1502143203 2095961617:Con Man's Game\/a
 categories:

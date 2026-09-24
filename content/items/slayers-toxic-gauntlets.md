@@ -16,7 +16,8 @@ stats:
   potency: '1.2'
   abmod: '+29'
   dtype: Plate Armor
-effects: '**Glyph of Enlightenment**'
+effect_name: Glyph of Enlightenment
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 18.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -507327869 -1610980159:Slayer's Toxic Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

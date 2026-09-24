@@ -15,7 +15,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Venomous Zephyr Glyph**'
+effect_name: Venomous Zephyr Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2117051514 171246774:Sharpened Fossil Dagger\/a
 categories:
 - Assassin Equipment

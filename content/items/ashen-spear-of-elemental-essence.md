@@ -21,7 +21,8 @@ stats:
   drating: '322.96'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3.2%.\n    - Inflicts 1,457 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 45 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Essence of the Scorched]]'
 item_link: \aITEM 49140059 1618210017:Ashen Spear of Elemental Essence\/a
 image: images/Ashen_Spear_of_Elemental_Essence.png

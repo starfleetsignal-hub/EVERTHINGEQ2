@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Fires of Bloody Kithicor**'
+effect_name: Fires of Bloody Kithicor
+effects: "- When Equipped:\n  - Inflicts 300,000 heat damage to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1551291255 -1422979366:Argent Defender's Gile\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   vsarcane: '+280'
-effects: '**Shield of Fired Clay**'
+effect_name: Shield of Fired Clay
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Clay Shield on caster.  Lasts for 24.0 seconds.\n    - Wards caster against 315 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -324210105 -1517464885:Clay Fired Bangle\/a
 image: images/Clay_Fired_Bangle.jpg
 categories:

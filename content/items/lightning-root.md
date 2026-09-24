@@ -8,7 +8,7 @@ slot: Charm
 flags: LORE, NO-TRADE
 stats:
   charges: '1'
-effects: Lightning Root
+effects: "- Applies Lightning Root when Activated. Lasts for 1 minute.\n  - Increases Attack speed of caster by (varies, see notes)"
 obtained_from: A [[Carnivorous Plant]] See Notes.
 categories:
 - Assassin Equipment

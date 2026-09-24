@@ -19,7 +19,8 @@ stats:
   resolve: '370'
   aspeed: '24.1'
   flurry: '31.9'
-effects: '**Money Sink**'
+effect_name: Money Sink
+effects: "- Applies Money Sink when Activated.\n  - Increases Potency of caster by 3,714.9.\n  - Increases Crit Bonus of caster by 346.1.\n  - Increases Fervor of caster by 40.5.\n  - Increases Flurry of Caster by 39.1.\n  - Platinum must be paid to set duration. Each second costs 10 platinum. Maximum duration is 4 hours.\n  - If active, entering a new amount will overwrite the duration.\n  - Cannot be modified except by direct means\n  - The casting time of Money Sink is 1.0 second and the reuse time of the spell is 10.0 seconds"
 item_link: \aITEM -290866486 -2050640570:The Price Paid\/a
 categories:
 - Assassin Equipment

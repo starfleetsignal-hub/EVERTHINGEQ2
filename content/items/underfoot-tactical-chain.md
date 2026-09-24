@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '22.1'
   vselemental: +35,154
-effects: '**Practiced Tactics**'
+effect_name: Practiced Tactics
+effects: "- When Equipped:\n  - Applies Practiced Tactics IV instantly and every 2.6 seconds.\n    - Increases Potency of group members (AE) by 28.0.\n    - Increases Crit Bonus of group members (AE) by 28.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM 782618772 1986191093:Underfoot Tactical Chain\/a
 categories:
 - Arcane Resistance (Equipment)

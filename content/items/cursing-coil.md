@@ -20,7 +20,8 @@ stats:
   vsarcane: +2,200
   vsnoxious: +2,200
   mitinc: '3.4'
-effects: '**Cursed Verse**'
+effect_name: Cursed Verse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cursed Verse on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Caster is immune to riposte damage.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -145783645 910602347:Cursing Coil\/a
 categories:
 - AE Autoattack Chance (Equipment)

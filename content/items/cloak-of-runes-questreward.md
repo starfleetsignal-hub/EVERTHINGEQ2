@@ -10,7 +10,8 @@ flags: attunable heirloom no-value
 stats:
   sta: '+2'
   wis: '+2'
-effects: '**Enduring Breath**<br>**Featherfall**'
+effect_name: Enduring Breath, Featherfall
+effects: "- When Equipped:\n  - Allows caster to breathe under water\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '[[Back in Fashion]]'
 item_link: \aITEM -1912228921 -1941722201:Cloak of Runes\/a
 categories:

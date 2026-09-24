@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Chain Armor
-effects: '**Lesser Hypnotic Defense**'
+effect_name: Lesser Hypnotic Defense
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 4% chance to cast Hypnotic Defense on target's attacker.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Mesmerizes target\n    - Dispelled when target takes damage\n    - Only affects targets level 98 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Making It Vulnerable]]'
 item_link: \aITEM 933545879 1276873026:Boots of Thievery\/a
 categories:

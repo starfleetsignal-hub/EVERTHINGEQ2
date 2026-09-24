@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   aspeed: '0.1'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Tailor]] (level 50) from [[Ancient Knowledge: Reinforced Gi of Dynamism]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 138811481 -1236091547:Reinforced Gi of Dynamism\/a
 categories:

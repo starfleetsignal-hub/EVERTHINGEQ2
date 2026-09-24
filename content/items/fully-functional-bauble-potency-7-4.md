@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Instinctual Precision**'
+effect_name: Instinctual Precision
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Instinctual Precision on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Accuracy of target by 6.0%.\n    - Reduces the resistibility of the target's spells by 6%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -324325366 1394794261:Fully Functional Bauble\/a
 categories:
 - Ability Modifier (Equipment)

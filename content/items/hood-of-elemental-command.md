@@ -17,7 +17,8 @@ stats:
   potency: '5.4'
   aspeed: '7.4'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[A Pic-a-nic Basket]]'
 item_link: \aITEM 1914809256 -94518914:Hood of Elemental Command\/a
 categories:

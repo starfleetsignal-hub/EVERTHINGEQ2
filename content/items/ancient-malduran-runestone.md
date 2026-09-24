@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: '+763'
   dps: '26.4'
-effects: '**Blaze**'
+effect_name: Blaze
+effects: "- Applies Blaze when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to heat damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Blaze is 1 minute 30 seconds"
 obtained_from: '[[Gilzin''s Lingering Legacy]]'
 item_link: \aITEM 103139726 826789216:Ancient Malduran Runestone\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   abmod: +1,670
   aspeed: '18.8'
   vselemental: +33,491
-effects: '**Aura Share**'
+effect_name: Aura Share
+effects: "- When Equipped:\n  - Increases Potency by 14% per mage in the wearer's raid, up to 140%\n  - Increases Crit Bonus by 14% per scout in the wearer's raid, up to 140%\n  - Increases Heal Received by 2% per priest in the wearer's raid, up to 12%\n  - Increases maximum health by 25,000 per fighter in the wearer's raid, up to 150,000"
 item_link: \aITEM -1884306050 872190589:Mechanicha Aurabit\/a
 categories:
 - Ability Modifier (Equipment)

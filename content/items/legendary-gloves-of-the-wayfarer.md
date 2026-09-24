@@ -17,7 +17,8 @@ stats:
   dps: '19.4'
   multi: '25.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 449820166 593824650:Legendary Gloves of the Wayfarer\/a
 categories:
 - Accuracy (Equipment)

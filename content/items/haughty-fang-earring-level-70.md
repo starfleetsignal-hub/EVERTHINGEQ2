@@ -15,7 +15,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   vselemental: '+300'
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2109576705 335053403:Haughty Fang Earring\/a
 categories:
 - Ability Modifier (Equipment)

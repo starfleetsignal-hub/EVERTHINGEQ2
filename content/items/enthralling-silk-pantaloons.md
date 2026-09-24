@@ -17,7 +17,8 @@ stats:
   vselemental: +1,066
   vsnoxious: '+615'
   dtype: Cloth Armor
-effects: '**Subjugative Alacrity**'
+effect_name: Subjugative Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of Subjugation-based spells by 4 percent."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -1354073788 -2045205052:Enthralling Silk Pantaloons\/a
 categories:

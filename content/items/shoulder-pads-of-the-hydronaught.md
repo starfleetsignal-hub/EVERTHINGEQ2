@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Chain Armor
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1531708546 -814320721:Shoulder Pads of the Hydronaught\/a
 categories:
 - AE Autoattack Chance (Equipment)

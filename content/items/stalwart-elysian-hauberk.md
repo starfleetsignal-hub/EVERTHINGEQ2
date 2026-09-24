@@ -19,7 +19,8 @@ stats:
   abmod: '+306'
   aspeed: '14.8'
   dtype: Chain Armor
-effects: '**Shrapnel**'
+effect_name: Shrapnel
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Shrapnel on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 5,062 - 5,594 piercing damage on target encounter.\n    - Inflicts 633 - 699 piercing damage on target encounter every 2 seconds.\n    - Increases Casting Speed of caster by 10.0%.\n    - Increases in-combat movement speed of group members (AE) by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -796101899 -801895075:Stalwart Elysian Hauberk\/a
 categories:
 - Ability Modifier (Equipment)

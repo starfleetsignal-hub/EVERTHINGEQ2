@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Plate Armor
-effects: '**Lesser Crippling Riposte**'
+effect_name: Lesser Crippling Riposte
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Crippling Riposte on target's attacker.  Lasts for 16.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Haste of target by 14.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Save the Reets]]'
 item_link: \aITEM -1157884989 -740285913:Reet Warrior's Boots\/a
 categories:

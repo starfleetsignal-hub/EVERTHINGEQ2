@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Cloth Armor
-effects: '**Empowered Summoner**'
+effect_name: Empowered Summoner
+effects: "- When Equipped:\n  - Increases base Spell damage of caster by 5%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 619122491 1161059173 0 0 0:Silk Mantle of Summoning\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   drating: '8.7'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 431\n      - Must be flanking or behind\n    - Increases Threat to target by 755\n      - Must be in front of\n    - Inflicts 33 - 61 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Outfitter]] (level 12) from [[Advanced Outfitter Volume 12 (Normal)]] *Crafted by [[Outfitter]] (level 12) from [[Advanced Outfitter Volume 12 (No-Trade)]]'
 item_link: \aITEM -41173666 -382163063:Imbued Blackened Iron Morning Star\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '5.7'
   critbonus: '5.1'
   potency: '8.6'
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1504994978 -708382182:Stalwart Sigil of Unquenchable War\/a
 categories:
 - Casting Speed (Equipment)

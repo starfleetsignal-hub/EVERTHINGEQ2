@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Whirling Blades**'
+effect_name: Whirling Blades
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Whirling Blades on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Summons a limited pet to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1821433435 -1928482883:Windrazor\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   dps: '26.8'
   multi: '18.3'
   dtype: Symbols
-effects: '**Aura of Truth**'
+effect_name: Aura of Truth
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aura of Truth on the group.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Spell Reuse Speed of group members (AE) by 6.0%.\n    - Increases Casting Speed of group members (AE) by 10.0%.\n    - Increases Reuse Speed of group members (AE) by 10.0%.\n    - Increases Potency of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1406955232 886030250:Marr's Symbol of Valor\/a
 categories:
 - Aura of Truth (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Fury of Ezaeri**'
+effect_name: Fury of Ezaeri
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Rending on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 63 - 95 melee damage on target\n    - Inflicts 63 - 95 melee damage on target\n    - Inflicts 63 - 95 melee damage on target\n    - Inflicts 63 - 95 melee damage on target\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1664542505 721559299:Ezaeri, Sword of Rending\/a
 categories:
 - Assassin Equipment

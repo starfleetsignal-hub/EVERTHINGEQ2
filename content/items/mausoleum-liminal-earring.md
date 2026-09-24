@@ -16,7 +16,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   vselemental: +354,380
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 824768426 -1026877433:Mausoleum Liminal Earring\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -8,7 +8,7 @@ flags: lore no-trade
 stats:
   charges: 1/1
   casting: (varies)
-effects: Shifting root
+effects: "- Applies Shifting Root when activated. (duration varies, see notes)\n  - Grants invisibility to the caster.\n  - Suspend caster's movement speed enhancements.\n  - Dispells when target takes damage."
 obtained_from: A [[Carnivorous Plant]].
 categories:
 - Assassin Equipment

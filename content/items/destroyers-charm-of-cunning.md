@@ -18,7 +18,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Ferocious Assault**'
+effect_name: Ferocious Assault
+effects: "- Applies Ferocious Assault II when Activated.  Lasts for 8.0 seconds.\n  - This effect does not stack from multiple casters.\n  - If any of the following are true:\n    - Must be engaged in pvp combat\n    - Must be used within a pvp zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Ferocious Assault II is 1 minute"
 item_link: \aITEM 1071354345 1804327527:Destroyer's Charm of Cunning\/a
 categories:
 - Assassin Equipment

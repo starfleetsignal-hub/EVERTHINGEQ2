@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Enduring Breath**<br>**Featherfall**'
+effect_name: Enduring Breath, Featherfall
+effects: "- When Equipped:\n  - Allows caster to breathe under water\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Cloak of Flowing Water (crate)|Cloak of Flowing Water]] *Legends of Norrath loot card'
 item_link: \aITEM 1926704815 1455823004:Cloak of Flowing Water\/a
 image: images/Cloak_of_Flowing_Water.jpg

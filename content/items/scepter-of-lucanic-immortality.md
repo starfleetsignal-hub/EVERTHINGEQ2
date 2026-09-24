@@ -18,7 +18,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -2120407769 503897688:Scepter of Lucanic Immortality\/a
 categories:
 - Arcane Recovery (Equipment)

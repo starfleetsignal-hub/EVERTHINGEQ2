@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+142'
   aspeed: '7'
-effects: '**After Shock**'
+effect_name: After Shock
+effects: "- When Equipped:\n  - On a melee hit this spell may cast After Shock on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 486 - 594 slashing damage on target.\n    - Inflicts 97 - 119 slashing damage on target.\n    - Inflicts 292 - 356 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -976989310 -182820332 0 0 0:Charm of Rallos Zek\/a
 categories:
 - Ability Modifier (Equipment)

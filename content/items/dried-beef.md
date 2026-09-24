@@ -19,7 +19,8 @@ stats:
   abmod: +30,647
   aspeed: '65.6'
   dps: '49.8'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 6.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1610043438 -760896664:Dried Beef\/a
 categories:
 - Ability Modifier (Equipment)

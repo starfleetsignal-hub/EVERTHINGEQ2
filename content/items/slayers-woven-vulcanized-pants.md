@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1.1'
   dtype: Leather Armor
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Lethargy on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases Haste of target by 11.3 - 18.8.\n    - Only affects targets level 60 and below\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1653764416 -2082158839:Slayer's Woven Vulcanized Pants\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   dps: '33.2'
-effects: '**Warbarrier**'
+effect_name: Warbarrier
+effects: "- Applies Warbarrier when Activated.  Lasts for 8.0 seconds.\n  - Reduces all damage done to target by 100%.\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The reuse time of Warbarrier is 5 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM 631930967 1900565714:Conjuror's Banner of War\/a
 categories:

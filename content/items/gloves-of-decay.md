@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Cloth Armor
-effects: '**Enthralling Recovery**<br>**Leaden Limbs**'
+effect_name: Enthralling Recovery, Leaden Limbs
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 2 percent.\n- When Equipped:\n  - On a hostile spell hit this spell may cast Leaden Limbs on target of spell.  Lasts for 20.0 seconds.  Triggers about 1.0 times per minute.\n    - Decreases Haste of target by 16.0 - 24.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 462069197 -618468857:Gloves of Decay\/a
 categories:
 - Assassin Equipment

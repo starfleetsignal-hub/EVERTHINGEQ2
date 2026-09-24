@@ -10,7 +10,8 @@ flags: ornate no-trade
 description: This piece of jewelry can be sacrificed at the altar of any deity, for 250 favor!
 stats:
   wis: '+76'
-effects: '**Sacrilege**'
+effect_name: Sacrilege
+effects: "- Applies Sacrilege when Equipped.\n  - It's sacrilegious to wear this item. Offer it up at a deity altar!"
 obtained_from: Looted from a [[Thrumming Cache]] or [[Resonating Cache]] after completing [[Echoes of the Ring War]]
 item_link: \aITEM 802083398 654091156:Sacred Ring (250 Favor)\/a
 image: images/Sacred_Ring_(250_Favor).png

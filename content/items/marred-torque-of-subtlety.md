@@ -15,7 +15,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**The Subtle**'
+effect_name: The Subtle
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 50.0.\n  - Increases Potency of caster by 20.0."
 item_link: \aITEM 1534792466 -275274087:Marred Torque of Subtlety\/a
 categories:
 - Assassin Equipment

@@ -19,7 +19,8 @@ stats:
   drating: '50.41'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 188 - 314 poison damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM -1412193785 -286768212:Stinger of the Hive Queen\/a
 categories:

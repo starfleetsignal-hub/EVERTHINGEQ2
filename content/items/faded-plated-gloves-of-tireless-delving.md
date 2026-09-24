@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   dps: '15.9'
   dtype: Leather Armor
-effects: '**Defiant Effort**'
+effect_name: Defiant Effort
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Effort on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 241572974 1758157620:Faded Plated Gloves of Tireless Delving\/a
 categories:
 - Assassin Equipment

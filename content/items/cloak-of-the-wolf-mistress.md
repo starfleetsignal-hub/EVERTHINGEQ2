@@ -16,7 +16,8 @@ stats:
   critbonus: '5.1'
   potency: '8.6'
   abmod: '+279'
-effects: '**Advantageous Tactics**'
+effect_name: Advantageous Tactics
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Advantageous Tactics on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 20%.\n    - Dispelled when target casts a heal spell\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 190941366 342574400:Cloak of the Wolf Mistress\/a
 categories:
 - Ability Modifier (Equipment)

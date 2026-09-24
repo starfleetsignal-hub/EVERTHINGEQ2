@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   abmod: +3782,255
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1956824149 166861485:Talon Scar Shawl of Obliteration\/a
 categories:
 - Ability Modifier (Equipment)

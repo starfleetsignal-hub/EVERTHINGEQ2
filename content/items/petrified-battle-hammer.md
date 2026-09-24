@@ -21,7 +21,8 @@ stats:
   drating: '216.5'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Molten Detonation**'
+effect_name: Molten Detonation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Molten Detonation on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: Crafted by [[Woodworker]] (level 100) from [[Deepforge Advanced Woodworking]]
 item_link: \aITEM -1324865631 -308858205:Petrified Battle Hammer\/a
 categories:

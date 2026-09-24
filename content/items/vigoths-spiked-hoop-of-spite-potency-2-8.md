@@ -16,7 +16,8 @@ stats:
   dps: '15.9'
   multi: '10'
   vselemental: +1,256
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 4.0%."
 item_link: \aITEM -968930971 258695098:Vigoth's Spiked Hoop of Spite\/a
 categories:
 - Arcane Resistance (Equipment)

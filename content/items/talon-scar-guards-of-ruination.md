@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   multi: '36.3'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1827472863 -2074835933:Talon Scar Guards of Ruination\/a
 categories:
 - Census Credits

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Chain Armor
-effects: '**Lesser Manawell**'
+effect_name: Lesser Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on target of spell.  Triggers about 1.6 times per minute.\n    - Increases power of caster by 111.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Recipe for Necromancer Stew]]'
 item_link: \aITEM 524899374 -370603436:Nightwatch Gloves\/a
 categories:

@@ -10,7 +10,8 @@ flags: no-trade
 stats:
   str: '+2'
   sta: '+2'
-effects: '**Erollisi''s Glowing Aura**'
+effect_name: Erollisi's Glowing Aura
+effects: '- Applies Erollisi''s Glowing Aura when Equipped.'
 obtained_from: '[[Erollisi''s Messenger]]'
 item_link: \aITEM 626956559 -2136758956:Ring of Erollisi's Charms\/a
 categories:

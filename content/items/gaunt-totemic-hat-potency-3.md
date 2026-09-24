@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Chain Armor
-effects: '**Spirit Drain**'
+effect_name: Spirit Drain
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Spirit Drain on caster.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 142.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -580745474 -108675:Gaunt Totemic Hat\/a
 categories:
 - Assassin Equipment

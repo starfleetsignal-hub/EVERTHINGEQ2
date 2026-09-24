@@ -21,7 +21,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Shadow Strike**'
+effect_name: Shadow Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Shadow Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 417 magic damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of pierce, slash or crush abilities."
 item_link: \aITEM -114747424 526984932:Blade of Withershadow\/a
 categories:
 - Ability Modifier (Equipment)

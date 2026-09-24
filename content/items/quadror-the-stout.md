@@ -11,7 +11,7 @@ stats:
   duration: Until Cancelled
   charges: Unlimited
   casting: 1.0 seconds
-effects: Quadror the Stout
+effects: "- Applies Quadror the Stout when Activated.\n  - Increases Potency of caster by 4.0%\n  - Increases Crit Bonus of caster by 4.0%\n  - Increases Crit Chance of caster by 15.0\n  - Increases Max Health of caster by 600.0\n  - Increases Max Power of caster by 600.0\n  - Summons a mount to ride\n    - Increases your ground speed by 130%"
 item_link: -1215543465 -193895918:Quadror the Stout
 categories:
 - Assassin Equipment

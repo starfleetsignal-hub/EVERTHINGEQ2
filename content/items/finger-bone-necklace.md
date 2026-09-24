@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   abmod: +1,591
   aspeed: '18'
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM -2066860019 -2022373470:Finger Bone Necklace\/a
 categories:
 - Ability Modifier (Equipment)

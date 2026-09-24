@@ -17,7 +17,8 @@ stats:
   aspeed: '6.9'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Empowered Magic**'
+effect_name: Empowered Magic
+effects: "- When Equipped:\n  - Increases base Spell damage by 5%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -815348950 1893811906 0 0 0:Scintillating Silk Mantle\/a
 categories:

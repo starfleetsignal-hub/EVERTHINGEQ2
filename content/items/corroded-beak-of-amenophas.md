@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dps: '5.6'
-effects: '**Structural Anguish**'
+effect_name: Structural Anguish
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Structural Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals caster for 409.\n    - Increases Defense of caster by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Structural Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 10.0 times per minute.\n    - Heals caster for 409.\n    - Increases Defense of caster by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1525043754 673327890:Corroded Beak of Amenophas\/a
 categories:
 - Assassin Equipment

@@ -24,7 +24,8 @@ stats:
   drating: '425.32'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Equalize**'
+effect_name: Equalize
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,636 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 obtained_from: Sold by [[Tumri Ston]] in [[Myrist, the Great Library]]
 item_link: \aITEM -379589188 -2100508929:Gleaming Sword of Alliance\/a
 categories:

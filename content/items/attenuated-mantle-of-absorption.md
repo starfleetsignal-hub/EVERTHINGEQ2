@@ -16,7 +16,8 @@ stats:
   dps: '23.9'
   multi: '41.8'
   dtype: Chain Armor
-effects: '**Uncanny Insight**'
+effect_name: Uncanny Insight
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 4.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -629471798 1310413646:Attenuated Mantle of Absorption\/a
 categories:
 - Assassin Equipment

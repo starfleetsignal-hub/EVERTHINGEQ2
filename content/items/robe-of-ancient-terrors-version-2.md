@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   aspeed: '5.7'
   dtype: Cloth Armor
-effects: '**Ancient Words**'
+effect_name: Ancient Words
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 10% chance to cast Ancient Words on caster.  Lasts for 7.0 seconds.\n    - Increases the damage of hostile spells by 20%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 358544865 1604234610:Robe of Ancient Terrors\/a
 categories:
 - Ancient Words (Equipment)

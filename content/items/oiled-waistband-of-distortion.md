@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dps: '2.2'
-effects: '**Blurred Strikes**<br>**Umbral Lightning**'
+effect_name: Blurred Strikes, Umbral Lightning
+effects: "- Applies Blurred Strikes when Activated.  Lasts for 15.0 seconds.\n  - Increases Haste of caster by 100.0.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Blurred Strikes is 5 minutes\n- When Equipped:\n  - On a critical combat hit this spell may cast Umbral Lightning V on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 337 - 412 magic damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Umbral Lightning V on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 337 - 412 magic damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 50) from [[Ancient Knowledge: Oiled Waistband of Distortion]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 95700922 487399513:Oiled Waistband of Distortion\/a
 categories:

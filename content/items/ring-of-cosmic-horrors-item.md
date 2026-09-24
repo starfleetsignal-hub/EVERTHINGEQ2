@@ -16,7 +16,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**To See and to Be Seen**'
+effect_name: To See and to Be Seen
+effects: "- When Equipped:\n  - Increases Potency of caster by 18,029.2.\n  - Increases Crit Bonus of caster by 2,500.0.\n  - Increases the reuse speed and DPS modifier of beneficial spells cast by wearer by 20%.\n  - Cannot be modified except by direct means"
 obtained_from: '*Collection reward: [[Ring of Cosmic Horrors (Collection)]] *From [[Contained Ring of Cosmic Horrors]]'
 item_link: \aITEM 1726251451 2102428547:\#f08c0aRing of Cosmic Horrors\/a
 categories:

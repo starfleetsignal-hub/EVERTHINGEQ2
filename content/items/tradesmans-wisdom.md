@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   vselemental: '+442'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Descamus'' Payment]]'
 item_link: \aITEM 1666291721 1713447880:Tradesman's Wisdom\/a
 categories:

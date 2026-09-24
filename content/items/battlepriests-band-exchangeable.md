@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   aspeed: '7.2'
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 224.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume II]]
 item_link: '\aITEM -257982038 -2140674027:Battlepriest''s Band: Exchangeable\/a'
 categories:

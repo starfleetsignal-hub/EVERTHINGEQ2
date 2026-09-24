@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   dps: '23.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -928604518 2012899845:Fabled Earthfury Gauntlets\/a
 image: images/Fabled_Earthfury_Gauntlets.png
 categories:

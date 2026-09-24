@@ -22,7 +22,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Indestructible Being**'
+effect_name: Indestructible Being
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Indestructible Being on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of caster by 15.0.\n    - Makes caster immune to Mesmerize effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -29293847 1268166295:Draken, Dagger of Silence\/a
 categories:
 - Assassin Equipment

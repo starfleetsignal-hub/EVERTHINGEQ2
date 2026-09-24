@@ -17,7 +17,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   dtype: Cloth Armor
-effects: '**Siphoning Eulogy**'
+effect_name: Siphoning Eulogy
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Siphoning Eulogy on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 696 - 769 piercing damage on target instantly and every 3 seconds.\n    - Heals caster for 762 - 842 instantly and every 3 seconds.\n    - Increases Crit Bonus of caster by 3.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1155161173 2061455463:Visionary Mesmer's Bands\/a
 categories:
 - Ability Modifier (Equipment)

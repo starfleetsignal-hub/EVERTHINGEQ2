@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Forced Silence**'
+effect_name: Forced Silence
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Forced Silence on target of spell.  Lasts for 3.4 seconds.  Triggers about 1.4 times per minute.\n    - Slows target by 32.5%.\n    - Only affects targets level 80 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM -765003195 788459827:Illuminating Cap\/a
 categories:
 - Ability Modifier (Equipment)

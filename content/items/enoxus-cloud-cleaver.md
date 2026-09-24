@@ -21,7 +21,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Righteous Censure**'
+effect_name: Righteous Censure
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Righteous Censure on the group.  Lasts for 20.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases Accuracy of group members (AE) by 5.0%.\n    - Increases Casting Speed of group members (AE) by 5.0%.\n    - Increases Max Health of group members (AE) by 2,151.0.\n    - Makes caster immune to Stun effects\n    - Cannot be modified except by direct means"
 item_link: \aITEM 622852635 1237689956:Enoxus, Cloud Cleaver\/a
 categories:
 - Berserker Equipment

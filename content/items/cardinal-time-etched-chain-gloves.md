@@ -17,7 +17,8 @@ stats:
   potency: '10.8'
   dps: '27.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1431486499 695750382:Cardinal Time Etched Chain Gloves\/a
 categories:
 - Assassin Equipment

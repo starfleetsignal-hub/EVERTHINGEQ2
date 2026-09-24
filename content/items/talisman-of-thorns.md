@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Field of Spikes**'
+effect_name: Field of Spikes
+effects: "- Applies Field of Spikes when Activated.  Lasts for 24.0 seconds.\n  - Slows targets in Area of Effect by 30.0%.\n  - Inflicts 100, 000 piercing damage to the target and nearby enemies. Provided the target moves between ticks, they will take an additional 100, 000 piercing damage every 2 seconds.\n  - Cannot be modified except by direct means\n  - The reuse time of Field of Spikes is 2 minutes"
 item_link: \aITEM 1345091580 439057417:Talisman of Thorns\/a
 categories:
 - Assassin Equipment

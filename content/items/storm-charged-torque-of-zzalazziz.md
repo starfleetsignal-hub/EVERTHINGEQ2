@@ -15,7 +15,8 @@ stats:
   potency: '24.2'
   strike: '3.5'
   multi: '73.1'
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1740584543 2029289512:Storm Charged Torque of Zzalazziz\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +21,632
-effects: '**Burst**'
+effect_name: Burst
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Burst IV on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 15,048 - 16,632 magic damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1719997253 1474812441:Cuff of Bursting Derangement\/a
 categories:
 - AE Autoattack Chance (Equipment)

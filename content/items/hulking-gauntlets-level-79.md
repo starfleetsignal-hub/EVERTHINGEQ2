@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   mitinc: '3.6'
   dtype: Plate Armor
-effects: '**Smash**'
+effect_name: Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.4 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 98.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1605385085 152910185:Hulking Gauntlets\/a
 categories:
 - Berserker Equipment

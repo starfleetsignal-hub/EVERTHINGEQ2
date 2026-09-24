@@ -20,7 +20,8 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Velium Tempest**<br>**Cogent**'
+effect_name: Velium Tempest, Cogent
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,162 - 4,600 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 1,850.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1031144032 1955295659:Drakizite Staff of the Prime\/a
 categories:
 - Beastlord Equipment

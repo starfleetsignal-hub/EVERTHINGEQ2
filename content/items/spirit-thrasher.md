@@ -21,7 +21,8 @@ stats:
   drating: '229.23'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Virulent Wrath**'
+effect_name: Virulent Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Virulent Wrath V on target of attack.  Triggers about 3.0 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 9,650 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1468458223 1480070822:Spirit Thrasher\/a
 image: images/Spirit_Thrasher.png
 categories:

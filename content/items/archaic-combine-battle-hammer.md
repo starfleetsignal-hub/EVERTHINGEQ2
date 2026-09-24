@@ -21,7 +21,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Lightning Bolt**'
+effect_name: Lightning Bolt
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lightning Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 112 - 137 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1867580704 1115330732:Archaic Combine Battle Hammer\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -8,7 +8,8 @@ level: '31'
 slot: Ear
 flags: ornate no-trade
 description: This item can be transmuted for adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 item_link: \aITEM 74645205 -887463398:Lesser Opal Transmuter's Slag\/a
 categories:
 - Assassin Equipment

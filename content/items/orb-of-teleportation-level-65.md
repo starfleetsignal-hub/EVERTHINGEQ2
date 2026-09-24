@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Teleport to Ally**'
+effect_name: Teleport to Ally
+effects: "- Applies Teleport to Ally on target Friend when Activated.\n  - Teleports caster to target\n  - This effect cannot be cast during combat\n  - The casting time of Teleport to Ally is 15.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1911524866 705188178:Orb of Teleportation\/a
 categories:
 - Ability Modifier (Equipment)

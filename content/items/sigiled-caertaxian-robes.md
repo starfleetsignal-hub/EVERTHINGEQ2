@@ -17,7 +17,8 @@ stats:
   potency: '5.8'
   aspeed: '7.9'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: Sold by [[Vlad the Bargainer]] (Faction Merchant) in [[The Hole]]
 item_link: \aITEM 1227181125 -1572502677:Sigiled Caertaxian Robes\/a
 categories:

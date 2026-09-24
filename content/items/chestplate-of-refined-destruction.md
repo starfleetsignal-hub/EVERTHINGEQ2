@@ -16,7 +16,8 @@ stats:
   potency: '6.8'
   multi: '11'
   dtype: Plate Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1763293781 900558616:Chestplate of Refined Destruction\/a
 categories:
 - Berserker Equipment

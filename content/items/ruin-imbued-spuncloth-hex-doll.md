@@ -13,7 +13,8 @@ stats:
   crit: '1.7'
   critbonus: '0.7'
   potency: '3.5'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 630.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Tailor]] (level 86) from [[Tailor Essentials Volume 86]]
 item_link: \aITEM -966661016 -588955665:ruin imbued spuncloth hex doll\/a
 categories:

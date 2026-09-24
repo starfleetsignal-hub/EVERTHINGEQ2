@@ -12,7 +12,8 @@ stats:
   wis: '+8'
   mit: '94'
   dtype: Chain Armor
-effects: '**Tranquil Breeze Glyph**'
+effect_name: Tranquil Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1994183317 -1412742854:Mantle of Prayers\/a
 categories:
 - Assassin Equipment

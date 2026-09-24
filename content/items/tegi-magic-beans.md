@@ -17,7 +17,8 @@ stats:
   potency: 7,235.1
   resolve: '190'
   dps: '69.3'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.8.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1005793792 986911027:Tegi Magic Beans\/a
 categories:
 - Assassin Equipment

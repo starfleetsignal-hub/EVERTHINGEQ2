@@ -16,7 +16,8 @@ stats:
   abmod: +1,654
   aspeed: '18.7'
   vselemental: +32,207
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM 810238030 -609205074:Edge Skimmer\/a
 categories:
 - Ability Modifier (Equipment)

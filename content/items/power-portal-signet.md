@@ -15,7 +15,8 @@ stats:
   critbonus: '6.3'
   potency: '10.6'
   abmod: '+393'
-effects: '**Stable Power Portal**'
+effect_name: Stable Power Portal
+effects: "- Applies Stable Power Portal when Activated.  Lasts for 10.0 seconds.\n  - When any damage is received this spell has a 10% chance to cast Stable Power Portal on target's attacker.  Lasts for 20.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus of caster by 2.5, multiplied by increment stacks.\n    - Increments up to 30 times. Applies to the caster of Stable Power Portal.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Stable Power Portal is 1 minute 30 seconds"
 item_link: \aITEM 1681430787 -1297480797:Power Portal Signet\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dps: '2.2'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 61.1.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -682443498 -595260981:discord imbued dragon's breath hex doll\/a
 categories:
 - Assassin Equipment

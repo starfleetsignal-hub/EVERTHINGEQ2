@@ -16,7 +16,8 @@ stats:
   dps: '27.6'
   multi: '72.7'
   flurry: '0.5'
-effects: '**Deific Devotion**'
+effect_name: Deific Devotion
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Deific Devotion on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases AGI, INT, STR and WIS of group members (AE) by 200.0.\n    - Increases Crit Bonus of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Deific Devotion on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases AGI, INT, STR and WIS of group members (AE) by 200.0.\n    - Increases Crit Bonus of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 272264361 -776784800 0 0 0:Wings of Marr\/a
 categories:
 - Berserker Equipment

@@ -20,7 +20,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 121 - 182 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1401992229 1030422561:crude Imbued horned leather bandolier\/a
 categories:
 - Assassin Equipment

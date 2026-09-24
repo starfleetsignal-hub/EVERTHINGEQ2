@@ -19,7 +19,8 @@ stats:
   aspeed: '72.2'
   vselemental: +87,497
   mitinc: '22.7'
-effects: '**Zealot''s Zeal**'
+effect_name: Zealot's Zeal
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 5.0."
 item_link: \aITEM -699227591 1187141717:Planar Shrunken Contageon Skulls\/a
 categories:
 - Arcane Resistance (Equipment)

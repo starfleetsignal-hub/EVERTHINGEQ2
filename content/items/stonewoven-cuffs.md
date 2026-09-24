@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   abmod: '+12'
   dtype: Cloth Armor
-effects: '**Fright**'
+effect_name: Fright
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Fright on target's attacker.  Lasts for 7.0 seconds.\n    - Makes target afraid\n    - 25% chance to dispel when target takes damage\n    - 25% chance to dispel when target receives hostile action\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Hand of the Caldera]] in [[Solusek''s Eye]]'
 item_link: \aITEM -1668690020 628725339:Stonewoven Cuffs\/a
 categories:

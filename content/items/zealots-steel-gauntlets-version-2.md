@@ -16,7 +16,8 @@ stats:
   potency: '5'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 1749365371 -1941643978 0 0 0:Zealot's Steel Gauntlets\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Distracting Dance**'
+effect_name: Distracting Dance
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Distracting Dance on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Teleports target to a random location within 7 meters.\n    - Increases all damage done to target by 1.25%.\n    - Increases in-combat movement speed of caster by 15.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -741549185 -1527331311:Hoop of Casalen\/a
 categories:
 - AE Autoattack Chance (Equipment)

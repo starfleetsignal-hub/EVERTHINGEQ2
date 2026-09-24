@@ -18,7 +18,8 @@ stats:
   dps: '192.2'
   cbovercap: '+1455.3'
   dtype: Plate Armor
-effects: '**Bloodmetal Infusion**'
+effect_name: Bloodmetal Infusion
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 8.7.\n  - Increases Potency of caster by 2,228.9.\n  - Must be in a Visions of Vetrovia, Player Home, or Guildhall zone."
 item_link: \aITEM -1956663803 1651847303:Vacrul Bloodmetal Breastplate\/a
 categories:
 - Berserker Equipment

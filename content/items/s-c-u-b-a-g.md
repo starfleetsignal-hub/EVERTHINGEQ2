@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '1.5'
   dtype: Chain Armor
-effects: '**S.C.U.B.A.G.**'
+effect_name: S.C.U.B.A.G.
+effects: "- Applies S.C.U.B.A.G. when Equipped.\n  - Allows caster to breathe underwater and see clearly"
 obtained_from: Made with Tinkering (skill 500) from [[Deepforge Tinkering Blueprints]].
 item_link: \aITEM 651575474 644617658:S.C.U.B.A.G.\/a
 categories:

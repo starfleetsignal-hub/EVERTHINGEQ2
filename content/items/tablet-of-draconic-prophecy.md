@@ -14,7 +14,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   dtype: Symbols
-effects: '**Steady Pulse**<br>**Engulfing Aegis**'
+effect_name: Steady Pulse, Engulfing Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Steady Pulse IV on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 2,370 - 2,620 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis IV on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,400 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -346899449 -1758931524:Tablet of Draconic Prophecy\/a
 categories:
 - Casting Speed (Equipment)

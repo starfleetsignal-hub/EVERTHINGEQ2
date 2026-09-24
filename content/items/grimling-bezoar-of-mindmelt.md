@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Mindmelt**'
+effect_name: Mindmelt
+effects: "- Applies Mindmelt III when Activated.  Lasts for 1 minute.\n  - Increases Potency of caster by 12.0.\n  - Converts damage spells to mental damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Mindmelt III is 1 minute"
 item_link: \aITEM -102874824 310756107:Grimling Bezoar of Mindmelt\/a
 categories:
 - Ability Modifier (Equipment)

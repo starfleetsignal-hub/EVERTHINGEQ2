@@ -16,7 +16,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Glowing Blessing**'
+effect_name: Glowing Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Glowing Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 8\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Outfitter]] (level 19) from [[Outfitters essentials volume 19 (Normal)]] *Crafted by [[Outfitter]] (level 19) from [[Outfitters Essentials Volume 19 (no-trade)]]'
 item_link: \aITEM 693698132 2145496548:Blessed Iron Knuckles\/a
 categories:

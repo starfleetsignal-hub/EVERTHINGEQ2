@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Judgment of the Void Caster**'
+effect_name: Judgment of the Void Caster
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Judgment of the Void Caster on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Hate Gain of caster by 5.0.\n    - Increases Potency of caster by 3.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 86411383 1854326303:Crystallized Essence of the Void Caster\/a
 categories:
 - Ability Modifier (Equipment)

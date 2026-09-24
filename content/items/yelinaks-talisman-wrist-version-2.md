@@ -15,7 +15,8 @@ stats:
   potency: '2'
   multi: '4'
   vsarcane: '+560'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 22.0."
 item_link: \aITEM 851289732 -592009802:Yelinak's Talisman\/a
 categories:
 - AE Autoattack Chance (Equipment)

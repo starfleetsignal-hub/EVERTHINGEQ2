@@ -21,7 +21,8 @@ stats:
   range: 2 - 37
   dtype: ranged
   wtype: Bow
-effects: '**Hailstorm**'
+effect_name: Hailstorm
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Hailstorm on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.6 times per minute.\n    - Calls forth several miniature ice storms to lay waste to all nearby enemies."
 item_link: \aITEM 1441308474 -865816077:Hailstorm, the Ice Spike\/a
 categories:
 - Assassin Equipment

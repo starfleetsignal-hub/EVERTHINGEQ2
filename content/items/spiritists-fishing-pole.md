@@ -11,7 +11,7 @@ stats:
   drating: '1.1'
   dtype: One-Handed Crushing
   wtype: Magic Affinity
-effects: Nightmarish Vision
+effects: "- Applies Nightmarish Vision when Equipped.\n  - Makes the tortured spirits in the Wellspring of Nightmares visible."
 obtained_from: At the beginning of the quest [[Collecting the Spirits]]
 used_in_quest: '[[Collecting the Spirits]]'
 item_link: \aITEM 1699665175 -1704203162:Spiritist's Fishing Pole\/a

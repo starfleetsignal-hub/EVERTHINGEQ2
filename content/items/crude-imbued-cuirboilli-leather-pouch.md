@@ -16,7 +16,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 48 - 73 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1694226886 1342165655:Crude Imbued Cuirboilli Leather Pouch\/a
 categories:
 - Assassin Equipment

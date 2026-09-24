@@ -20,7 +20,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Wrath**'
+effect_name: Wrath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Wrath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 215 - 262 divine damage on target.\n    - Inflicts 215 - 262 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2092120737 -1185274509:Hammer of Fortuity\/a
 categories:
 - Attack Speed (Equipment)

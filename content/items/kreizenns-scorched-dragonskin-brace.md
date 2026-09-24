@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +11,880
-effects: '**Fleshrend**'
+effect_name: Fleshrend
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fleshrend IV on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 111,124 slashing damage on target instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -53755203 1596497915:Kreizenn's Scorched Dragonskin Brace\/a
 aliases:
 - Kreizenn's Scorched Dragonskin Brace (1 Gem)

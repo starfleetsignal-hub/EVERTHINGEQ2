@@ -16,7 +16,8 @@ stats:
   aspeed: '28.8'
   dps: '14.4'
   vselemental: +9,504
-effects: '**Waters of Time**'
+effect_name: Waters of Time
+effects: "- When Equipped:\n  - Caster has a 5.0% chance of having one of their weapons' autoattack affect multiple targets they are facing, who are within range of that weapon.\n  - Increases Potency of caster by 10.0.\n  - Increases Ability Mod of caster by 1,100.0.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Insignias of the Deep]] *Made from [[Brick of Runic Metal]] *Made from [[Mote of Everburning Coal]] *Made from [[Tidal Sapphire]]'
 item_link: \aITEM -1052792456 789393413:Hallowed Insignia of the Deep\/a
 aliases:

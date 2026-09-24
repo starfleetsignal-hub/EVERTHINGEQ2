@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   aspeed: '1.3'
-effects: '**Defiant Splash**'
+effect_name: Defiant Splash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Splash on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 466 - 570 heat damage on target.\n    - Inflicts 466 - 570 heat damage on target.\n    - Inflicts 466 - 570 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2044794663 -1192017805:Tenebrous Shard\/a
 categories:
 - Assassin Equipment

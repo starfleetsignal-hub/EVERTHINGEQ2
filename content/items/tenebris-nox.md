@@ -26,7 +26,8 @@ stats:
   drating: '234.02'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 4.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 75595444 1563668842:Tenebris Nox\/a
 categories:
 - Assassin Equipment

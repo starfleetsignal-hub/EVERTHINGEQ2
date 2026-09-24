@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   dps: '15.9'
-effects: '**Empowered Attacks**<br>**Pinpoint Strikes**'
+effect_name: Empowered Attacks, Pinpoint Strikes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Empowered Attacks on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 1,200.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Pinpoint Strikes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 9.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1118280302 1868332624:Chevalier's Sword Belt\/a
 categories:
 - Assassin Equipment

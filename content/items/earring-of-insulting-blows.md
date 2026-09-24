@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Blows II on target.  Lasts for 20.1 seconds.  Triggers about 0.4 times per minute.\n    - Increases Flurry of Caster by 1.1, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - The trigger chance is multiplied by the number of players in the wearer's raid. Increments up to 20 times."
 item_link: \aITEM -1417358240 682377020:Earring of Insulting Blows\/a
 categories:
 - Arcane Resistance (Equipment)

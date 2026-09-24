@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   flurry: '18.6'
   mitinc: '7.2'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception I when Equipped.\n  - Increases Fervor of caster by 2.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 125."
 item_link: \aITEM 1247528004 1082400952:Tendril of the Fathomlurker\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   potency: 25,330.3
   resolve: '360'
   vselemental: +232,063
-effects: '**Displacement**'
+effect_name: Displacement
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Displacement on caster.  Lasts for 5 minutes.  This effect normalizes based off of a three second triggering event.\n    - Applies Displacement on termination.\n      - Increases power of group members by 636.\n    - Will absorb all damage. This spell will absorb a total of 2 attacks.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 16.0 - 22.0 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1334932906 1905879420:Fabled Soulshattering Band\/a
 categories:
 - Arcane Resistance (Equipment)

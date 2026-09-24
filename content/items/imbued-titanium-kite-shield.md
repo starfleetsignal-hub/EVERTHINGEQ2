@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   aspeed: '6.7'
   dtype: Tower Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 130 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Armorer]] (level 80) from [[Armorer Essentials Volume 80]]
 item_link: \aITEM -798140941 2041922586:Imbued Titanium Kite Shield\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   multi: '38.7'
   flurry: '0.6'
   vselemental: +9,108
-effects: '**Touch of the Silver Reaper**'
+effect_name: Touch of the Silver Reaper
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 2.0.\n  - Increases Accuracy of caster by 10.0%.\n  - Increases Crushing, Piercing and Slashing of caster by 8.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -687844309 1681604515:Wristbrace of the Silver Reaper\/a
 categories:
 - Arcane Resistance (Equipment)

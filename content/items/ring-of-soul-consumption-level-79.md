@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   vselemental: '+356'
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 89.\n    - Increases power of caster by 157.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 885065325 -495553154:Ring of Soul Consumption\/a
 categories:
 - AE Autoattack Chance (Equipment)

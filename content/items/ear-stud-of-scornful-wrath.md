@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Theer''s Rage**'
+effect_name: Theer's Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Theer's Rage III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 330, 000-630, 000 magic damage to the target. This inflicts more damage to more powerful enemies.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -304611152 1559324751:Ear Stud of Scornful Wrath\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +26,832
-effects: '**Veeshan''s Restoration**'
+effect_name: Veeshan's Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Veeshan's Restoration III on the group.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Instantly restores 3.75% of incoming damage to the group\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1693354815 116204905:V'Zher's Restoration\/a
 categories:
 - Arcane Resistance (Equipment)

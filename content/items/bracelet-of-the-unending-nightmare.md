@@ -18,7 +18,8 @@ stats:
   aspeed: '49.9'
   dps: '38'
   vselemental: +55,296
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 item_link: \aITEM 1394737693 -1674090005:Bracelet of the Unending Nightmare\/a
 categories:
 - Arcane Resistance (Equipment)

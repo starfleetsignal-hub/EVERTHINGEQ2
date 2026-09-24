@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   multi: '7.4'
   vselemental: '+805'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 18.5.\n    - Increases Haste of caster by 18.9.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 88) from [[Jeweler Essentials Volume 88]]
 item_link: \aITEM -1349645243 -943447504:Titanium Band Of Agility\/a
 categories:

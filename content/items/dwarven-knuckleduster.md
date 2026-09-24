@@ -21,7 +21,8 @@ stats:
   drating: '229.23'
   dtype: One-Handed Crushing
   wtype: Sword
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '*Collection reward: [[Lost Dwarven Caravan (Collection) (Version 2)]] *Collection reward: [[Lost Dwarven Caravan (Collection)]]'
 item_link: \aITEM -773925034 -1166030514:Dwarven Knuckleduster\/a
 image: images/Dwarven_Knuckleduster.png

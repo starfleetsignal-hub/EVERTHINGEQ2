@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Noxious Focus**'
+effect_name: Noxious Focus
+effects: "- Applies Noxious Focus II when Activated.  Lasts for 8.0 seconds.\n  - Grants 440 potency to all noxious abilities.\n  - Removes 200 potency from arcane and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Noxious Focus II is 2 minutes"
 item_link: \aITEM -693143210 1995283132:Eyepatch of Noxious Focus\/a
 categories:
 - AE Autoattack Chance (Equipment)

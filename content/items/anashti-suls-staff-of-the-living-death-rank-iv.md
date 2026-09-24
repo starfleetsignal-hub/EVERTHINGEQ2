@@ -25,7 +25,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Forgotten Goddess**<br>**Wary Protection**'
+effect_name: Blessing of the Forgotten Goddess, Wary Protection
+effects: "- When Equipped:\n  - \"Blessing of the Forgotten Goddess\" protects the wearer from strong deific magics used by Anashti Sul!\n- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1661457167 -749746888:Anashti Sul's Staff of the Living Death [Rank IV]\/a
 categories:
 - Beastlord Equipment

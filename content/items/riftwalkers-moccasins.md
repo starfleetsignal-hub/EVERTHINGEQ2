@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM -551654044 192275821 0 0 0:Riftwalker's Moccasins\/a
 categories:
 - Casting Speed (Equipment)

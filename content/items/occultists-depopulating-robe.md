@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: 'Dropped by [[Statue of Rallos Zek (Challenge Mode Epic)|Statue of Rallos Zek]] in [[Temple of Rallos Zek: Foundations of Stone (Challenge)]]'
 item_link: \aITEM -1498159129 -336291838:Occultist's Depopulating Robe\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '2.4'
   critbonus: '0.8'
   potency: '3.7'
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Lethargy on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases DPS of target by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1981254673 -567701198:Belt of Debasement\/a
 categories:
 - Assassin Equipment

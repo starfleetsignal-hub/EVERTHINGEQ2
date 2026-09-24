@@ -15,7 +15,12 @@ stats:
   strike: '4.5'
   multi: '62.3'
   mitinc: '3.5'
-effects: Undaunted Devotion
+effects: 'Applies Undaunted Devotion when Activated.
+
+
+  - The caster is granted a beneficial effect from Drinal''s Steward.
+
+  - The casting time of Undaunted Devotion is 0.5 seconds and the reuse time of the spell is 30 minutes'
 obtained_from: '*[[Shades of Drinal: Fate''s Crusade]] *Sold by [[Shady Swashbuckler XVIII]] in [[Nektulos Forest]]'
 item_link: \aITEM -263648603 1345299393:Steward's Cloak of Eternity\/a
 image: images/Steward's_Cloak_of_Eternity.jpg

@@ -18,7 +18,8 @@ stats:
   resolve: '19'
   aspeed: '61.2'
   mitinc: '15.5'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 3.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1858461707 290344346:Cutting Collar\/a
 categories:
 - Assassin Equipment

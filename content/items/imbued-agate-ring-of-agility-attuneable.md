@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+5'
   int: '+6'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 4.5.\n    - Increases Haste of caster by 10.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 626639200 -2129967050:Imbued Agate Ring of Agility\/a
 categories:
 - Assassin Equipment

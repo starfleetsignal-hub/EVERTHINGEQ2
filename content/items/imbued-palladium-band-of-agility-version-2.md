@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+7'
   agi: '+7'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 6.6.\n    - Increases Haste of caster by 14.3.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 773463753 1985268714:Imbued Palladium Band of Agility\/a
 categories:
 - Assassin Equipment

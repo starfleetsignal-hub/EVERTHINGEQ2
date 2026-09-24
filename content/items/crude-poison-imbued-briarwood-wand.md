@@ -15,7 +15,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Poison Bolt**'
+effect_name: Poison Bolt
+effects: "- Applies Poison Bolt when Activated.\n  - Inflicts 106 - 177 poison damage on target.\n  - The casting time of Poison Bolt is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 289597408 1118604278:Crude Poison Imbued Briarwood Wand\/a
 categories:
 - Berserker Equipment

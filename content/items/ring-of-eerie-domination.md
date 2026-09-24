@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Spectral Domination**'
+effect_name: Spectral Domination
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Spectral Domination II on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 633,600 mental damage on target.\n    - Increases Potency of caster by 9.5.\n    - Increases Crit Bonus of caster by 9.5.\n    - Increases Mitigation of caster vs arcane damage by 2,546.\n    - Increases Ability Mod of caster by 1,750.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1281836537 852868863:Ring of Eerie Domination\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '22.1'
   vselemental: +35,154
-effects: '**Amplifying Stamina**'
+effect_name: Amplifying Stamina
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 30%-101.3% and Stamina by 350-1,063. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -1339714494 407116871:Malduran Loyalty Pendant\/a
 categories:
 - Amplifying Stamina (Equipment)

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 108.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Outfitter]] (level 14) from [[Outfitters essentials volume 14 (Normal)]] *Crafted by [[Outfitter]] (level 14) from [[Outfitters Essentials Volume 14 (no-trade)]]'
 item_link: \aITEM 1201901899 523249191:pristine chaos imbued burlap hex doll\/a
 image: images/Pristine_chaos_imbued_burlap_hex_doll.png

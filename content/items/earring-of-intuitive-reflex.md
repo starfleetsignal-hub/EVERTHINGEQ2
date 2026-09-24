@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Frostburn**'
+effect_name: Frostburn
+effects: "- When Equipped:\n  - Increases Burst effect damage by 50%.\n  - When any damage is received this spell has a 10% chance to cast Frostburn on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 410 cold damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 845203973 -1332777143:Earring of Intuitive Reflex\/a
 aliases:
 - Earing of Intuitive Reflex

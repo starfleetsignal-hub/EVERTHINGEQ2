@@ -14,7 +14,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   abmod: '+381'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -995067586 1820162155:Adorned Belt of Drakiz Benefaction\/a
 categories:
 - Ability Modifier (Equipment)

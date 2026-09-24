@@ -16,7 +16,8 @@ stats:
   abmod: '+20'
   vsarcane: '+533'
   vsnoxious: '+533'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards or Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: -603365257 -1841143377:Rejuvenating Band
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: 5,209.2
   resolve: '145'
   dps: '45.3'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 18.0.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 15.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 113) from [[Jeweler's Primer Volume 13]]
 item_link: \aITEM 1687841033 1353012547:Veilwalker's Charm of Rage\/a
 categories:

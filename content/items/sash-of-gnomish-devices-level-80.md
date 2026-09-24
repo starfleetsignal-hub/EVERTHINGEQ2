@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   dps: '12'
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 243.\n    - Increases power of caster by 150.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 148691178 1561805847:Sash of Gnomish Devices\/a
 categories:
 - Assassin Equipment

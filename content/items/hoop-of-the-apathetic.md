@@ -12,7 +12,8 @@ stats:
   agi: '+14'
   potency: '0.2'
   dps: '0.8'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -2037873666 -1654589478:Hoop of the Apathetic\/a
 categories:
 - Assassin Equipment

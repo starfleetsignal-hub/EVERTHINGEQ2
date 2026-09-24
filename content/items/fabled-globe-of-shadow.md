@@ -21,7 +21,8 @@ stats:
   dps: '118.8'
   multi: '67'
   dtype: Symbols
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Increases the damage and healing of profession Abilities by 0.6%."
 item_link: \aITEM -182250399 -2064964490:Fabled Globe of Shadow\/a
 categories:
 - Attack Speed (Equipment)

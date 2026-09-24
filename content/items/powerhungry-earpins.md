@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Soul on target.  Lasts for 20.1 seconds.  Triggers about 0.4 times per minute.\n    - Increases Potency of caster by 2.3, multiplied by increment stacks.\n    - Increases Crit Bonus of caster by 2.3, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - The trigger chance is multiplied by the number of players in the wearer's raid. Increments up to 20 times."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume II]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM 1687072338 1598045413:Powerhungry Earpins\/a
 categories:

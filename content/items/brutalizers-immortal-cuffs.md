@@ -16,7 +16,8 @@ stats:
   abmod: '+122'
   dps: '46.5'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1625253558 278894350:Brutalizer's Immortal Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

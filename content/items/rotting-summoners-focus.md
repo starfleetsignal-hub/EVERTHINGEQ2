@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Kinetic**'
+effect_name: Kinetic
+effects: "- Applies Kinetic when Activated.  Lasts for 1 minute.\n  - Converts damage spells to crushing damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Kinetic is 1 minute"
 item_link: \aITEM -1906841053 -718066430:Rotting Summoner's Focus\/a
 categories:
 - Bard Equipment

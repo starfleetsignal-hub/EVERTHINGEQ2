@@ -15,7 +15,7 @@ stats:
   power: '+369'
   crit: '9.5'
   vsarcane: '+1023'
-effects: Minion's Resilience II
+effects: "- When Equipped\n  - Applies Minion's Resilience II to qualifying pets.\n    - Increases Max Health of target by 500.0\n    - Increases Mitigation of target vs elemental, noxious and arcane damage by 286"
 item_link: \aITEM 1453698947 -1937405588:Sash of the Waring Winds\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**All for One**<br>**Shared Calm**'
+effect_name: All for One, Shared Calm
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries.\n- When Equipped:\n  - Outward Calm will now ward the group.\n  - Increases the ward amount of Outward Calm.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -129846295 -1013137475:Grandmaster's Mantle\/a
 categories:
 - All for One (Equipment)

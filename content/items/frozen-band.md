@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   abmod: '+16'
   vsarcane: '+200'
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM 718607158 90962834:Frozen Band\/a
 categories:
 - Ability Modifier (Equipment)

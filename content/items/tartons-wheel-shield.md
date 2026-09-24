@@ -12,7 +12,8 @@ stats:
   str: '+15'
   sta: '+15'
   dtype: Symbols
-effects: '**Void Shift**'
+effect_name: Void Shift
+effects: "- Applies Void Shift when Activated.\n  - Teleports target to a random location within 10 - 19 meters.\n  - Decreases Threat to targets in Area of Effect by 738\n  - The casting time of Void Shift is 2.0 seconds and the reuse time of the spell is 2 minutes"
 obtained_from: '[[Tarton''s Wheel (Quest)|Tarton''s Wheel]]'
 item_link: \aITEM 737396583 -1091753706:Tarton's Wheel\/a
 image: images/Tartons_Wheel.jpg

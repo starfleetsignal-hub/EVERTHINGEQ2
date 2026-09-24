@@ -20,7 +20,8 @@ stats:
   drating: '97.39'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 539912157 1965992944:Culling Blade of Pancreatic Destruction\/a
 categories:
 - Ability Modifier (Equipment)

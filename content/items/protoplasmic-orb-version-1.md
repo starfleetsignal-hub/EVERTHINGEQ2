@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   aspeed: '5.1'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 180327227 -1385006025:Protoplasmic Orb\/a
 categories:
 - Arcane Recovery (Equipment)

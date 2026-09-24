@@ -13,7 +13,8 @@ stats:
   mit: '153'
   potency: '0.2'
   dtype: Leather Armor
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Impact on target's attacker.  Lasts for 2.5 seconds.\n    - Throws target back\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -815821899 -1946129137:Skullcap of Thunder\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   abmod: +3,979
   aspeed: '31.3'
   dtype: Symbols
-effects: '**Early Advantage**'
+effect_name: Early Advantage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Extreme Advantage on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Increases Weapon Damage of caster by 25.0.\n    - Increases Crit Bonus of caster by 45.0.\n    - Increases Potency of caster by 45.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -124729385 -109218873:The Polliwog's Symbol of the Chameleon\/a
 categories:
 - Ability Modifier (Equipment)

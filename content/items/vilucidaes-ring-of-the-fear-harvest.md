@@ -16,7 +16,8 @@ stats:
   aspeed: '2.9'
   flurry: '1.7'
   vsarcane: '+525'
-effects: '**Amygdala''s Delight**'
+effect_name: Amygdala's Delight
+effects: "- Applies Amygdala's Delight when Activated.  Lasts for 16.0 seconds.\n  - Decreases power of target by 179.\n  - Increases power of caster by 188.\n  - Slows target by 65.0%.\n  - Makes target afraid\n  - Dispelled when target takes damage\n  - Does not affect Epic targets\n  - Resistibility increases against targets higher than level 89.\n  - The casting time of Amygdala's Delight is 5.0 seconds and the reuse time of the spell is 1 hour"
 item_link: \aITEM 928716503 -524404274:Vilucidae's Ring of the Fear-harvest\/a
 categories:
 - Amygdala's Delight (Equipment)

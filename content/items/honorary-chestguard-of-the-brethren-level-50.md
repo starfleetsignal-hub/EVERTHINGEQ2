@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   aspeed: '0.3'
   dtype: Plate Armor
-effects: '**Power of the Brethren**'
+effect_name: Power of the Brethren
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 5.0.\n  - This effect suspends during combat"
 obtained_from: '[[Crushing Betrayal (Quest)|Crushing Betrayal]]'
 item_link: \aITEM 270158044 -982240623:Honorary Chestguard of the Brethren\/a
 categories:

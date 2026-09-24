@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: '2.0'
   recast: '0.0'
-effects: Call Black Cavalry Horse
+effects: "- Applies Call Black Cavalry Horse when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 50%\n  - Increases Slashing, Piercing, Crushing, Focus and Ranged of caster by 7.0"
 obtained_from: Any Horse Merchant
 item_link: -155470510 -1685124366:War-barded Black Cavalry Horse
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   abmod: '+36'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 21.5.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1981750292 -829035479:shaped imbued acrylia band of stamina\/a
 categories:
 - Ability Modifier (Equipment)

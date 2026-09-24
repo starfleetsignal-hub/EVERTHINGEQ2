@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   abmod: '+217'
-effects: '**Wildfire**<br>**Granite Avatar**'
+effect_name: Wildfire, Granite Avatar
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 heat damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Removal of this effect will greatly injure your pet.\n  - Applies Granite Avatar to qualifying pets.\n    - Wards caster against 4,000 points of all damage\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 2,046.\n    - Cannot be modified except by direct means\n  - This effect cannot empower creatures above level 90."
 item_link: \aITEM -1137929715 1666754247 0 0 0:Resonating Girdle of the Terranai\/a
 categories:
 - Ability Modifier (Equipment)

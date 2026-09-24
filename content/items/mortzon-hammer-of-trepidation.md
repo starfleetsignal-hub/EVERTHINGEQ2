@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Immaterial Planar Barrier**'
+effect_name: Immaterial Planar Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Immaterial Planar Barrier on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 6,500 points of all damage\n    - Increases Mitigation of group members (AE) vs all damage by 1,128.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -716244219 1590632650:Mortzon, Hammer of Trepidation\/a
 categories:
 - Ability Modifier (Equipment)

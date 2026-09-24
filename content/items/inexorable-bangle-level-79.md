@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   multi: '5.8'
   vselemental: '+356'
-effects: '**Replenishing Heal**'
+effect_name: Replenishing Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Replenishing Heal on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 1.2 times per minute.\n    - Increases power of target by 52 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 926523449 2009379689:Inexorable Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

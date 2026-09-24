@@ -10,7 +10,8 @@ flags: ornate lore appearance-only no-trade no-value
 description: The corpse of this biological experiment can grant unexpected arcane effects for those who dare to look through its eyes.
 stats:
   dtype: Cloth Armor
-effects: '**Eyes of an Inkubus**'
+effect_name: Eyes of an Inkubus
+effects: "- Applies Eyes of an Inkubus when Equipped.\n  - Grants Eyes of an Inkubus to caster."
 item_link: \aITEM -423167153 -533260428:Eyes of an Inkubus\/a
 categories:
 - Appearance Only (Equipment Type)

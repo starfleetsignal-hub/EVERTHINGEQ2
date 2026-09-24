@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Tears of the Blue Wyrm (crate)|Tears of the Blue Wyrm]]
 item_link: \aITEM -648465719 -1641101150:Tears of the Blue Wyrm\/a
 categories:

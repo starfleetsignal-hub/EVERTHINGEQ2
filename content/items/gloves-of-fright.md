@@ -18,7 +18,8 @@ stats:
   abmod: '+46'
   dps: '6.5'
   dtype: Leather Armor
-effects: '**Mark of Fright**'
+effect_name: Mark of Fright
+effects: "- Applies Mark of Fright when Activated.  Lasts for 30.0 seconds.\n  - Caster will Dodge 2.0% of incoming attacks.\n  - The casting time of Mark of Fright is 2.0 seconds and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 465349319 1849055027:Gloves of Fright\/a
 categories:
 - Ability Modifier (Equipment)

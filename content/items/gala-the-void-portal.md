@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   vsnoxious: '+400'
   dtype: Buckler
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 657206293 -1867410788:Gala, The Void Portal\/a
 categories:
 - Arcane Resistance (Equipment)

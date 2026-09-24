@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   abmod: +1,622
   aspeed: '18.3'
-effects: '**Kerafyrm''s Furor**'
+effect_name: Kerafyrm's Furor
+effects: "- Applies Kerafyrm's Furor when Activated.  Lasts for 15.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 78.0.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Furor is 1 minute\n- When Equipped:\n  - Increases Crit Bonus of caster by 91.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -505914977 -661188793:Clasp of Dark Whispers\/a
 categories:
 - Ability Modifier (Equipment)

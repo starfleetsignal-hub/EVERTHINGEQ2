@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Plate Armor
-effects: '**Infuriating Shout**'
+effect_name: Infuriating Shout
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Infuriating Shout II on target of attack.  Triggers about 1.0 times per minute.\n    - Increases Threat to target by 831\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2067191221 915100741:Gauntlets of the Doomguard\/a
 categories:
 - Ability Modifier (Equipment)

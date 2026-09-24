@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -611788701 -360171983:Spiritbound Ancestral Gloves\/a
 categories:
 - Casting Speed (Equipment)

@@ -10,7 +10,7 @@ stats:
   charges: '5'
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Beetles
+effects: "- Applies **Spirit of the Beetles** when Activated. Lasts for 30 minutes.\n  - Increases Out-of-Combat Power Regeneration of caster by 12.0\n  - This effect suspends during combat\n  - Only affects targets level 1 and above"
 obtained_from: Crafted by [[Artisan]] (level 8) from [[Artisan essentials volume 8]]
 item_link: \aITEM -1446041209 757604351:Spirit Totem of the Beetle\/a
 categories:

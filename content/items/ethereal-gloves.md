@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   aspeed: '0.3'
   dtype: Leather Armor
-effects: '**Noxiousness**'
+effect_name: Noxiousness
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Noxiousness on target's attacker.  Lasts for 48.0 seconds.\n    - Inflicts 76 - 127 disease damage on target every 6.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1469942277 -120338855:Ethereal Gloves\/a
 categories:
 - Assassin Equipment

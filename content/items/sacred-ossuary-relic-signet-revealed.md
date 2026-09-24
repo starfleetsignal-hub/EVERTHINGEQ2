@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Fervor of caster by 97.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -243153368 1526783166:Sacred Ossuary Relic Signet, Revealed\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   abmod: '+811'
   dps: '28.1'
-effects: '**Vigor**'
+effect_name: Vigor
+effects: "- Applies Vigor when Activated.\n  - Increases the casting or upkeep cost of all abilities by 115%.\n  - Increases Potency and Damage Per Second by 0.75% of the caster's primary attribute\n  - This item may not be used in a PvP zone.\n  - Your target cannot have Vigor or Enchanted Vigor already active.\n  - Cannot be modified except by direct means\n  - The casting time of Vigor is 0.5 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1904675286 -426041199:Ooze-Covered Spiderling\/a
 categories:
 - Ability Modifier (Equipment)

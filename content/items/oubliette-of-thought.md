@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '23.1'
   multi: '19.8'
-effects: '**Crimson Contract**'
+effect_name: Crimson Contract
+effects: "- Applies Crimson Contract when Activated.\n  - Heals caster for 10% of their maximum health, plus 1% for each group member within 35m\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Crimson Contract is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -36585537 -469598468:Oubliette of Thought\/a
 categories:
 - Assassin Equipment

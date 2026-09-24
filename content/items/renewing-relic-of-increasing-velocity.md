@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Increasing Velocity**'
+effect_name: Increasing Velocity
+effects: "- Applies Increasing Velocity when Activated.  Lasts for 18.0 seconds.\n  - Increases Weapon Damage Bonus of the caster by 10. This value grows by 2 for each meter the caster is from their currently targeted enemy. The maximum increase is 110.\n  - Cannot be modified except by direct means\n  - The reuse time of Increasing Velocity is 1 minute"
 item_link: \aITEM -1852814760 -939456853:Renewing Relic of Increasing Velocity\/a
 categories:
 - Casting Speed (Equipment)

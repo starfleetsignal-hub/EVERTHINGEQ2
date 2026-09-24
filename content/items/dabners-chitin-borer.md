@@ -19,7 +19,8 @@ stats:
   drating: '58.03'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Fetidthorn Infused**'
+effect_name: Fetidthorn Infused
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Fetidthorn Infusion on target of attack.\n    - Inflicts 19 - 23 magic damage on target.\n      - If target is ravasect\n    - Cannot be modified except by direct means"
 obtained_from: '[[Insectsurrection]]'
 item_link: \aITEM 581533233 -1808546090:Dabner's Chitin Borer\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   abmod: '+105'
   aspeed: '6'
-effects: '**Opportunistic Strike**'
+effect_name: Opportunistic Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Opportunistic Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 540 poison damage on target.\n      - If under 40% Health\n    - Inflicts 1,512 disease damage on target.\n      - If over 80% Health\n    - Inflicts 972 poison damage on target.\n      - If between 40% and 80% health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1607237216 2028573673:Belt of Opportunity\/a
 categories:
 - Ability Modifier (Equipment)

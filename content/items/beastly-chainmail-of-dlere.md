@@ -19,7 +19,8 @@ stats:
   aspeed: '6.7'
   dps: '12'
   dtype: Chain Armor
-effects: '**Ironhide Defense**'
+effect_name: Ironhide Defense
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Ironhide Defense on caster.  Lasts for 10.0 seconds.\n    - Wards caster against 225 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1789819218 -1887817550:Beastly Chainmail of D'Lere\/a
 categories:
 - Attack Speed (Equipment)

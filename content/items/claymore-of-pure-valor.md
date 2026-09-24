@@ -20,7 +20,8 @@ stats:
   drating: '151.2'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Forthright Bearing**'
+effect_name: Forthright Bearing
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 6.0.\n  - On a melee hit this spell may cast Trueheart on caster.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases Max Health of caster by 1,174.0.\n    - Increases Defense and Slashing of caster by 50.0.\n    - Makes caster immune to Stun effects\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1557980739 727540296:Claymore of Pure Valor\/a
 categories:
 - Ability Modifier (Equipment)

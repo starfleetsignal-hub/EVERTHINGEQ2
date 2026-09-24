@@ -16,7 +16,8 @@ stats:
   abmod: '+835'
   dps: '28.8'
   vselemental: +33,491
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 20.0."
 item_link: \aITEM 2019689045 -457137934:Malduran Pearl Earring\/a
 categories:
 - Ability Modifier (Equipment)

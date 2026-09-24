@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Thudomatonian Cuffs]]
 item_link: \aITEM 385235686 1115672973:Sacrosanct Cuffs of the Wraith\/a
 categories:

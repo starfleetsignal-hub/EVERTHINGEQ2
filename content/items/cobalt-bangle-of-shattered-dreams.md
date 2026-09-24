@@ -16,7 +16,8 @@ stats:
   abmod: +1,606
   aspeed: '18.1'
   vselemental: +30,369
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM 745944262 1431412739:Cobalt Bangle of Shattered Dreams\/a
 categories:
 - Ability Modifier (Equipment)

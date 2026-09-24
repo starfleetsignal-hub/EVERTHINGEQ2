@@ -15,7 +15,8 @@ stats:
   potency: '5.4'
   aspeed: '7.4'
   dps: '13.1'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Source of the Rumblings]]'
 item_link: \aITEM -494518492 1239586433:Gemstone Necklace of Summoning Earth\/a
 categories:

@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '177'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 65 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 44) from [[Armorer Essentials Volume 44 (Normal)]] *Crafted by [[Armorer]] (level 44) from [[Armorer Essentials Volume 44 (no-trade)]]'
 item_link: \aITEM 647419345 1530591924:Imbued Fulginate Chainmail Leggings\/a
 categories:

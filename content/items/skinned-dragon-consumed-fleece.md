@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   multi: '17.5'
-effects: '**Soothing Breeze**'
+effect_name: Soothing Breeze
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Soothing Breeze III on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 5,174 - 5,719.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -152878754 -1341182658:Skinned Dragon-Consumed Fleece\/a
 categories:
 - Assassin Equipment

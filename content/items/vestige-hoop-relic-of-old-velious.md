@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   vselemental: +354,380
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 353.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1972893643 -821080692:Vestige Hoop, Relic of Old Velious\/a
 categories:
 - Arcane Resistance (Equipment)

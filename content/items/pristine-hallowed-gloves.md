@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -34037083 1352240885:Pristine Hallowed Gloves\/a
 image: images/Pristine_Hallowed_Gloves.jpg
 categories:

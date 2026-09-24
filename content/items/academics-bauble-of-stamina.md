@@ -18,7 +18,8 @@ stats:
   resolve: '60'
   aspeed: '67.2'
   mitinc: '19.8'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,759.8.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Advanced Jeweler Studies 05]]
 item_link: \aITEM -912231062 -1125302188:Academic's Bauble of Stamina\/a
 categories:

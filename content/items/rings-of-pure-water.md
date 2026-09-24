@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Chain Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 1430567983 -1691725755:Rings of Pure Water\/a
 categories:
 - Ability Modifier (Equipment)

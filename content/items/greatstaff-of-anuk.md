@@ -17,7 +17,7 @@ stats:
   drating: '44.4'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: Strike of the Eternal<br>Flow of Fyr'Un
+effects: "- Applies Strike of the Eternal when Equipped:\n  - On a successful attack this spell has a 7% chance to cast Strike of the Eternal on target of attack.\n    - Inflicts 15 - 28 damage on target\n- Applies Flow of Fyr'Un when Equipped\n  - Increases In-Combat Power Regeneration Per-Tick of catser by 14.0"
 obtained_from: '[[Wrapping It All Up]]'
 categories:
 - Berserker Equipment

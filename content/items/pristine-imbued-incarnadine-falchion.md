@@ -16,7 +16,7 @@ stats:
   drating: '67.9'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: Gleaming Strike
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast ***Gleaming Strike*** on target of attack. This effect will trigger an average of 1.8 times per minute.\n    - Inflicts magic damage on target"
 obtained_from: Crafted by [[Weaponsmith]] (level ) from [[Advanced Weaponsmith Volume 70]]
 item_link: 804200231 -582402771:Pristine Imbued Incarnadine Falchion
 removed_from_game: The new version is [[Imbued incarnadine falchion]] with a hate proc if infront and a deaggro proc if behind the mob.<br>The version you see here can not be created anymore.

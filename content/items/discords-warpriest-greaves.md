@@ -15,7 +15,8 @@ stats:
   critbonus: '13.1'
   potency: '5'
   dtype: Plate Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -2094416670 -1423693202:Discord's Warpriest Greaves\/a
 categories:
 - Ancient Invigoration of War (Equipment)

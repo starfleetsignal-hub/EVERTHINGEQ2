@@ -15,7 +15,8 @@ stats:
   drating: '24.95'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 109 - 203 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -360468036 -1679325317:Imbued Feysteel Dagger\/a
 aliases:
 - Imbued Feysteel Dagger (Gleaming Strike) (Level 30)

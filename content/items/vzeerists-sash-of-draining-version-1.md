@@ -15,7 +15,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   vsarcane: '+280'
-effects: '**Essence Draining**'
+effect_name: Essence Draining
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Essence Drain on target of spell.  Lasts for 12.0 seconds.  Triggers about 0.2 times per minute.\n    - Inflicts 158 - 236 magic damage on target.\n    - Inflicts 50 - 75 magic damage on target every 6 seconds.\n    - Heals caster for 107 - 160.\n    - Heals caster for 36 - 53 every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1807225757 -1812804076:Vzee'rist's Sash of Draining\/a
 categories:
 - Ability Modifier (Equipment)

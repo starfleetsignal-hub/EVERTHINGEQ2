@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Penitent Rage**'
+effect_name: Penitent Rage
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Rage on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base damage of hostile spells cast by 12%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 715817956 -2010984601:Mace of the Everlasting\/a
 categories:
 - Beastlord Equipment

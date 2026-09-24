@@ -17,7 +17,8 @@ stats:
   abmod: '+133'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1592979588 643097633:Pauldrons of the Mason\/a
 categories:
 - Ability Modifier (Equipment)

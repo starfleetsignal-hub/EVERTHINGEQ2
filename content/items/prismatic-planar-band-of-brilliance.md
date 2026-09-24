@@ -18,7 +18,8 @@ stats:
   abmod: +34,161
   aspeed: '83'
   vselemental: +91,863
-effects: '**Unquenched Power**'
+effect_name: Unquenched Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 550.0."
 item_link: \aITEM -255334539 -187184624:Prismatic Planar Band of Brilliance\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   crit: '1'
   critbonus: '0.3'
   potency: '1.6'
-effects: '**Lesser Overloaded Heal**'
+effect_name: Lesser Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 2.8 times per minute.\n    - Heals group members (AE) for 175.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM -847227370 -586982272:Yha-lei Elder's Drape\/a
 categories:

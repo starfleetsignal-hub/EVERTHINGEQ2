@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: This is the royal cloak worn by King Jonah's men. The kingdom was fabled to have been missing for centuries. Wear this weathered cloak proudly.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (300 Daybreak Cash)
 item_link: \aITEM -1891935893 -2125414875:Jonips\/a
 categories:

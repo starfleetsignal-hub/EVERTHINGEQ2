@@ -13,7 +13,8 @@ stats:
   crit: '3.3'
   critbonus: '1.2'
   potency: '5.2'
-effects: '**Karana''s Thunder**'
+effect_name: Karana's Thunder
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Karana's Thunder on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Improves the base amount of spells, combat arts and heals by 5%.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Karana's Thunder on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Improves the base amount of spells, combat arts and heals by 5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 325290750 1373707324 0 0 0:Charm of Karana\/a
 image: images/Charm_of_Karana.png
 categories:

@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Hollow Bludgeon**<br>**Summon Umbral Darkness**'
+effect_name: Hollow Bludgeon, Summon Umbral Darkness
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Hollow Bludgeon on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 160 - 241 divine damage on target.\n    - Cannot be modified except by direct means\n- Applies Summon Umbral Darkness when Activated.\n  - Summons 100 umbral darknesses\n  - The casting time of Summon Umbral Darkness is 4.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -860359341 -1487356328:Bazkul the Soulseeker\/a
 categories:
 - Assassin Equipment

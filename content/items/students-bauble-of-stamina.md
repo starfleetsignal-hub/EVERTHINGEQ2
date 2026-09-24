@@ -18,7 +18,8 @@ stats:
   resolve: '40'
   aspeed: '61.8'
   mitinc: '17.8'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 8.9.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Jeweler's Primer Volume 02]]
 item_link: \aITEM -1103190118 -189697528:Student's Bauble of Stamina\/a
 categories:

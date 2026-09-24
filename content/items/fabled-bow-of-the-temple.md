@@ -26,7 +26,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Attunement to Air**<br>**Noxious Rending**'
+effect_name: Attunement to Air, Noxious Rending
+effects: "- Applies Attunement to Air when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Air is 10.0 seconds\n- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3%.\n    - Inflicts 1,070 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 47 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -432406081 1406885453:Fabled Bow of the Temple\/a
 categories:
 - Assassin Equipment

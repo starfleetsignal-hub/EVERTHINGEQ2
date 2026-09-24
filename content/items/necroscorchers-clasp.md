@@ -18,7 +18,9 @@ stats:
   dps: '32.4'
   multi: '21.1'
   vselemental: +2,079
-effects: '**Vitriol**'
+effect_name: Vitriol
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical spell hit this spell may cast Vitriol II on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 3,508 - 3,877 disease damage on target instantly and every 2 seconds.\n    - Decreases Parry of target by 17.0.\n    - Decreases Defense of target by 5.5.\n    - Decreases Mitigation of target vs physical damage by 545.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Vitriol II on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 3,508 - 3,877 disease damage on target instantly and every 2 seconds.\n    - Decreases Parry of target by 17.0.\n    - Decreases Defense of target by 5.5.\n    - Decreases Mitigation of target vs physical damage by 545.\n    - Must not be engaged in pvp combat\n    - Cannot be modified\
+  \ except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1345420879 -1893146686:Necroscorcher's Clasp\/a
 image: images/Necroscorcher's_Clasp.png
 categories:

@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 2.7.\n    - Increases DPS of caster by 10.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 718340851 242680366:Shaped Imbued Electrum Band of Strength\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: Dropped by [[General Utehk (Challenge Mode Epic)|General Utehk, General Zevitus and General Aakita]] in [[Tallon's Stronghold (Challenge)]]
 item_link: \aITEM -3715560 1166260767:Sacrosanct Cuffs of the Spiritweaver\/a
 categories:

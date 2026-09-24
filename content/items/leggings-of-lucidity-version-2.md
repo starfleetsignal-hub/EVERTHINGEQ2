@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   dtype: Cloth Armor
-effects: '**Siphoning Aggression**'
+effect_name: Siphoning Aggression
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Siphoning Aggression on caster.  Triggers about 1.4 times per minute.\n    - Increases power of caster by 77.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -848537647 2111047409:Leggings of Lucidity\/a
 categories:
 - Ability Modifier (Equipment)

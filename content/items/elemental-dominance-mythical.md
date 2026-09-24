@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Elemental Mastery**'
+effect_name: Elemental Mastery
+effects: "- When Equipped:\n  - Increases the base damage of hostile spells by 10%.\n  - On a hostile spell cast this spell has a 12% chance to cast Inferno on target of spell.  Lasts for 12.0 seconds.\n    - Applies Inferno.  Lasts for 12.0 seconds.\n      - Increases Crit Chance of pet by 20.0.\n      - Prevents AOE (except when direct)\n    - Inflicts 540 - 810 heat damage on target.\n    - Inflicts 151 - 227 heat damage on target every 3 seconds.\n    - Cannot be modified except by direct means\n  - Applies Elemental Mastery to qualifying pets.\n    - Improves the ability damage of target pet."
 obtained_from: '[[The Final Domination of Phrotis]]'
 item_link: \aITEM -858570028 723977191:Elemental Dominance\/a
 categories:

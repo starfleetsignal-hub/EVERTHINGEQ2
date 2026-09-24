@@ -15,7 +15,8 @@ stats:
   potency: '5'
   strike: '8.3'
   abmod: '+133'
-effects: '**Undead Bane**'
+effect_name: Undead Bane
+effects: "- When Equipped:\n  - Additional equipment with Undead Bane improves this effect.\n  - On any combat or spell hit this spell may cast Undead Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 464 mental damage on target.\n      - Must be classified as an undead\n    - Inflicts 232 mental damage on target.\n      - Must not be classified as an undead\n    - Decreases Mitigation of target vs arcane damage by 360.\n      - Must be classified as an undead\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 79) from [[Chemists'' Secrets of Befallen, Volume II]] *Made from [[Bit of moldering cadaver flesh]]'
 item_link: \aITEM 1989128217 915788587:Choker of Zombie Bane\/a
 categories:

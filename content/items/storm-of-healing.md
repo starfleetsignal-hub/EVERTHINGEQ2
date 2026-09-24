@@ -16,7 +16,8 @@ stats:
   abmod: '+89'
   dps: '9.7'
   vselemental: '+360'
-effects: '**Rain of Health**'
+effect_name: Rain of Health
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Rain of Health on target of spell.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 918 - 1,122.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1826133055 759649179:Storm of Healing\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   aspeed: '61.8'
   dps: '47'
   multi: '68.1'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 10.0.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Jeweler's Primer Volume 06]]
 item_link: \aITEM -729454990 1200327241:Student's Bauble of Alacrity\/a
 categories:

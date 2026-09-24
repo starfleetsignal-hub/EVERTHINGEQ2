@@ -16,7 +16,8 @@ stats:
   potency: '2'
   abmod: '+48'
   vsarcane: '+245'
-effects: '**Codex of Rebirth**'
+effect_name: Codex of Rebirth
+effects: "- Applies Codex of Rebirth when Activated.  Lasts for 58 minutes 20 seconds.\n  - On death this spell will cast Codex of Genesis on target.\n    - Your corpse will automatically resurrect 10 seconds after you die.\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - The casting time of Codex of Rebirth is 1.0 second and the reuse time of the spell is 1 hour"
 item_link: \aITEM -1278545510 -759009627:Chel'Drak's Tooth\/a
 categories:
 - Ability Modifier (Equipment)

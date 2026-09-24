@@ -17,7 +17,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Hatespike**'
+effect_name: Hatespike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Hatespike II on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 1,665\n    - Cannot be modified except by direct means"
 obtained_from: reward from Freeport quest A Knight in The Graveyard
 item_link: \aITEM 1289380924 642029806:Righteous Breastplate of D'Lere\/a
 categories:

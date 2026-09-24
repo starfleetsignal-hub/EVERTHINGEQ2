@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1394535029 464403171:Sanctimonious Gauntlets of the Covenant\/a
 image: images/Sanctimonious_Gauntlets_of_the_Covenant.png
 categories:

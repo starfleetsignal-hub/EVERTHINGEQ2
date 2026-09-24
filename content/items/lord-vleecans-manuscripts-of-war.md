@@ -18,7 +18,8 @@ stats:
   resolve: '210'
   dps: '74.3'
   mitinc: '30.7'
-effects: '**Fight Night**'
+effect_name: Fight Night
+effects: "- Applies Fight Night when Activated.  Lasts for 2 minutes.\n  - Reduces physical damage done to caster by 8%.\n  - Increases Hate Gain of caster by 25.0.\n  - Increases Weapon Damage of caster by 129.6.\n  - Increases Weapon Damage Overcap of caster by 129.6.\n  - Allows caster to hit all melee based attacks for maximum damage.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Fight Night is 4.0 seconds and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 1145339813 -417546667:Lord Vleecan's Manuscripts of War\/a
 categories:
 - Assassin Equipment

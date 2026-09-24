@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   aspeed: '5'
   dtype: Cloth Armor
-effects: '**Concussive Blast**'
+effect_name: Concussive Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Concussive Blast on target of spell.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Stuns target\n    - Must not be engaged in pvp combat\n    - Only affects targets level 125 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1121958224 1703083713:Mentalist's Robe of Bayle\/a
 categories:
 - Attack Speed (Equipment)

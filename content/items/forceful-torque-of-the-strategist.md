@@ -15,7 +15,8 @@ stats:
   critbonus: '5.6'
   potency: '9.2'
   abmod: '+306'
-effects: '**Engulfing Aegis**'
+effect_name: Engulfing Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis III on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,200 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1162911468 -412283559:Forceful Torque of the Strategist\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Plate Armor
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 169.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1182311575 1390236780:Gussets of the Spectral General\/a
 categories:
 - Ability Modifier (Equipment)

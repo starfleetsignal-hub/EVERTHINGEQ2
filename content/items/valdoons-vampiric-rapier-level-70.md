@@ -21,7 +21,8 @@ stats:
   drating: '63.47'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Fear**'
+effect_name: Fear
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fear III on target of attack.  Lasts for 2.0 seconds.  Triggers about 0.8 times per minute.\n    - Slows target by 31.4%.\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2059045301 -958448809:Valdoon's Vampiric Rapier\/a
 categories:
 - Assassin Equipment

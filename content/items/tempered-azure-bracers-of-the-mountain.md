@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   dtype: Leather Armor
-effects: '**Battlefield Command**'
+effect_name: Battlefield Command
+effects: "- When Equipped:\n  - Increases STA of caster by 50.0.\n  - Increases Hate Gain of caster by 3.0.\n  - Increases Ranged, Slashing, Crushing and Piercing of caster by 20.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Bracers of the Mountain]] *Made from [[Colossal Frog Tongue]] *Made from [[Protective Siren Shell]] *Made from [[Shimmering Siren Scales]]'
 item_link: \aITEM 781370099 -132570382:Tempered Azure Bracers of the Mountain\/a
 image: images/Tempered_Azure_Bracers_of_the_Mountain.png

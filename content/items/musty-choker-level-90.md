@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dps: '15.2'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM -1199462336 -926390670:Musty Choker\/a
 categories:
 - Ability Modifier (Equipment)

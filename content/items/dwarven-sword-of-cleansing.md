@@ -16,7 +16,8 @@ stats:
   drating: '7.25'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Cleansing Light**'
+effect_name: Cleansing Light
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cleansing Light on target of attack.  Triggers about 6.0 times per minute.\n    - Inflicts 4 - 5 divine damage on target.\n    - If target is undead\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[Cleansing of the Firemyst Gully]]'
 item_link: \aITEM -759040943 336169102:Dwarven Sword of Cleansing\/a
 categories:

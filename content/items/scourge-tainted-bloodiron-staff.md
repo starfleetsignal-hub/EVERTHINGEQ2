@@ -24,7 +24,7 @@ stats:
   drating: '283.3'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: Arcane Rending
+effects: "When Equipped:\n\n- On any combat or spell hit this spell may cast Arcane Rending on target of attack. Lasts for 8.0 seconds. Triggers about 3.0 times per minute.\n  - Increases arcane damage done to target encounter by 2.6%\n  - Inflicts 1,397,112 magic damage on target instantly and every second.\n  - Heals target for an additional 37,500 every tick.\n  - Cannot be modified except by direct means\n- This item may not be used in a PvP zone."
 obtained_from: 'Collection reward: [[Scourge Weapons]]'
 item_link: \aITEM 1505926352 -835096805 0 0 0:[Scourge Taintained Bloodiron Staff]\/a
 image: images/Scourge_Tainted_Bloodiron_Staff.png

@@ -15,7 +15,8 @@ stats:
   drating: '14.29'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- Applies Frost Blast when Activated.\n  - Inflicts 67 - 112 cold damage on target.\n  - The casting time of Frost Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 786597859 1980458577:shaped frost imbued ash wand\/a
 categories:
 - Berserker Equipment

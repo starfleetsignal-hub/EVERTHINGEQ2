@@ -20,7 +20,8 @@ stats:
   drating: '75.95'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Absolve Vitae**'
+effect_name: Absolve Vitae
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Absolve Vitae on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals group members (AE) for 897.\n    - Increases Mitigation of target vs all damage by 588.\n    - Cannot be modified except by direct means"
 obtained_from: Upgrade of [[Lucanic Hammer]] after killing [[Mayong Mistmoore]] in any of his forms.
 item_link: \aITEM -92559247 -1813412128:Soulfire Hammer\/a
 image: images/Soulfire_Hammer.jpg

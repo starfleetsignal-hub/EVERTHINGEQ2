@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Stunning Sturdiness**'
+effect_name: Stunning Sturdiness
+effects: "- When Equipped:\n  - When taking damage, the wearer will stun their attacker for 2.5 seconds. This can only trigger once every 10 seconds. Does not apply to epic targets."
 obtained_from: Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM -29992143 1083835222:Wristlet of Time's Aegis\/a
 categories:

@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Bristlebane''s Trick**'
+effect_name: Bristlebane's Trick
+effects: "- Applies Bristlebane's Trick when Activated.\n  - Grab a trick from Bristlebane.  You won't know what you'll find until you try.\n  - The casting time of Bristlebane's Trick is 2.0 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[Bristlebane''s Beloved]] (The final quest in the [[Bristlebane]] devotion series)'
 item_link: \aITEM 1207976549 -1015324647:Cloak of Mischief\/a
 image: images/Cloak_of_Mischief.png

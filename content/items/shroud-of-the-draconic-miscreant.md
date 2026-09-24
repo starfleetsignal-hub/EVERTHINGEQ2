@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   aspeed: '15.7'
   multi: '16.5'
-effects: '**Lesser Deathdealer''s Aura**<br>**Draconic Might**'
+effect_name: Lesser Deathdealer's Aura, Draconic Might
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 2.0.\n  - Increases Accuracy of caster by 2.0%.\n  - Increases Strikethrough of caster by 2.0%.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Draconic Might on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Shroud Of The Draconic Miscreant]] *Made from [[A Bloody Drakota Eye]] *Made from [[Dragon Hide]] *Made from [[Great Dragon Scales]]'
 item_link: \aITEM 1399030872 -752441748:Shroud of the Draconic Miscreant\/a
 categories:

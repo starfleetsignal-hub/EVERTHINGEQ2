@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Drunken Mastery**'
+effect_name: Drunken Mastery
+effects: "- When Equipped:\n  - Increases Potency of caster by 40.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 item_link: \aITEM -577967370 1888981655:Chain of Forgetfulness\/a
 categories:
 - Assassin Equipment

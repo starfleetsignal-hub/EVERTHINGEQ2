@@ -22,7 +22,8 @@ stats:
   drating: '241.97'
   dtype: Off Hand Crushing
   wtype: Mace
-effects: '**Mastercrafter''s Expertise**<br>**Maintained Discipline**<br>**Blessing of Arcanna''se**'
+effect_name: Mastercrafter's Expertise, Maintained Discipline, Blessing of Arcanna'se
+effects: "- Applies Mastercrafter's Expertise when Equipped.\n  - Increases speed of caster by 20.0%.\n  - Increases critical success chance by 1.0%.\n  - Increases the amount of progress gained by 5.0%.\n- When Equipped:\n  - Applies Maintained Discipline on the wearer's mercenary, increasing the mercenary's Potency and Crit Bonus by 120, Crit Chance by 200, and Flurry and Spell Doublecast by 90.\n  - Cannot be modified except by direct means\n- Applies Blessing of Arcanna'se when Activated.  Lasts for 5 minutes.\n  - Uses the magic of Arcanna'se to summon a fuel merchant to assist the faithful crafter\n  - The casting time of Blessing of Arcanna'se is 5.0 seconds and the reuse time of the spell is 2 hours"
 obtained_from: '[[What Lies Beneath]]'
 item_link: \aITEM 1854173107 1408285594:Embellished Censer of Confinement\/a
 categories:

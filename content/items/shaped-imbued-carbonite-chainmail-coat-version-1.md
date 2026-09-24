@@ -12,7 +12,8 @@ stats:
   agi: '+6'
   mit: '88'
   dtype: Chain Armor
-effects: '**Dim Lambent Imbued**'
+effect_name: Dim Lambent Imbued
+effects: "- Applies Dim Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 11 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1897616835 1774012388:shaped imbued carbonite chainmail coat\/a
 categories:
 - Assassin Equipment

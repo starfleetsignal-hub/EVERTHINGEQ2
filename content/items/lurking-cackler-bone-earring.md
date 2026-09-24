@@ -18,7 +18,8 @@ stats:
   resolve: '325'
   aspeed: '21'
   vselemental: +207,813
-effects: '**Uncontrollable Cackling**'
+effect_name: Uncontrollable Cackling
+effects: "- Applies Uncontrollable Cackling when Activated.  Lasts for 10.0 seconds.\n  - \"Uncontrollable Cackling\" causes the caster's raid party to launch into a fit of uncontrollable laughter.\n  - The casting time of Uncontrollable Cackling is 0.5 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 1046407331 474410993:Lurking Cackler Bone Earring\/a
 categories:
 - AE Autoattack Chance (Equipment)

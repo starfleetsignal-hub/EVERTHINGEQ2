@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Cloth Armor
-effects: '**Toxic Avenger**<br>**Toxic Backlash**'
+effect_name: Toxic Avenger, Toxic Backlash
+effects: "- When Equipped:\n  - Applies Toxic Avenger to qualifying pets.\n    - Wards caster against 478 points of noxious damage\n    - On any combat or spell hit this spell may cast Toxic Revenge on target of attack.  Triggers about 2.0 times per minute.\n      - Inflicts 212 poison damage on target.\n      - Inflicts 212 disease damage on target.\n- When Equipped:\n  - Wards caster against 478 points of noxious damage\n  - When any noxious damage is received this spell will cast Toxic Backlash on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 239 poison damage on target.\n    - Inflicts 239 disease damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of disease or poison abilities."
 item_link: \aITEM 242747849 44229440:Armored Robes of the Usurper\/a
 categories:
 - Assassin Equipment

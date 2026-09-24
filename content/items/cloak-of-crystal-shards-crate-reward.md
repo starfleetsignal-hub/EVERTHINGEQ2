@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Aqua Vision**<br>**Featherfall**'
+effect_name: Aqua Vision, Featherfall
+effects: "- Applies Aqua Vision when Activated.  Lasts for 15 minutes.\n  - Grants Fish Vision to caster\n  - The reuse time of Aqua Vision is 2.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Cloak of Crystal Shards (crate)|Cloak of Crystal Shards]] *Legends of Norrath loot card'
 used_in_quest: '[[Back in Fashion]]'
 starts_quest: '[[Back in Fashion]]'

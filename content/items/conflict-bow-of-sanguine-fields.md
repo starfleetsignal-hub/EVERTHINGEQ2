@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Tyranny of the Devout**'
+effect_name: Tyranny of the Devout
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tyranny of the Devout on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 6,660 heat damage on target instantly and every 4 seconds.\n    - Inflicts an additional 3,996 heat damage on target every tick.\n    - Increases Max Health of group members by 8.0%.\n    - Increases Crit Bonus of group members by 10.0.\n    - Increases Potency of group members by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1740145615 1580419679:Conflict, Bow of Sanguine Fields\/a
 categories:
 - AE Autoattack Chance (Equipment)

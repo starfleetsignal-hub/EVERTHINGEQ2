@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Cloth Armor
-effects: '**Curse of the Living Dead**'
+effect_name: Curse of the Living Dead
+effects: "- Applies Curse of the Living Dead when Activated.  Lasts for 1 minute.\n  - Inflicts 172 - 210 disease damage on target.\n  - Inflicts 96 - 117 disease damage on target every 6 seconds.\n  - The casting time of Curse of the Living Dead is 0.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1413449180 -965830309:Cap of the Plague Bringer\/a
 categories:
 - Ability Modifier (Equipment)

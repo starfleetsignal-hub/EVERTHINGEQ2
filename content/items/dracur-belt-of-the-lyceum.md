@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   dps: '27.1'
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,162 - 4,600 heat damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1189570134 52410974:Dracur Belt of the Lyceum\/a
 categories:
 - Assassin Equipment

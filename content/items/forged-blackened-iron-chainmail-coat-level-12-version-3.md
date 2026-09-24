@@ -12,7 +12,8 @@ stats:
   agi: '+4'
   mit: '54'
   dtype: Chain Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 11 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2037617884 -84213584:forged blackened iron chainmail coat\/a
 aliases:
 - Forged blackened iron chainmail coat (Level 10) (Pale Lambent Imbued)

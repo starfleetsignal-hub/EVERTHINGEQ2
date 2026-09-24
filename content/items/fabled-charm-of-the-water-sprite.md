@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Blood for Blood**'
+effect_name: Blood for Blood
+effects: "- Applies Blood for Blood II when Activated.  Lasts for 15.0 seconds.\n  - Inflicts 50.0% of max health in piercing damage on caster.\n  - Increases Crit Bonus of caster by 220.0.\n  - Reduces healing received by 200.00%.\n  - Cannot be modified except by direct means\n  - The reuse time of Blood for Blood II is 3 minutes"
 item_link: \aITEM -1385139244 -458118330:Fabled Charm of the Water Sprite\/a
 categories:
 - Ability Modifier (Equipment)

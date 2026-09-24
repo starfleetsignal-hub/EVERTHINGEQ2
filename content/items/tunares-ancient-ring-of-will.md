@@ -16,7 +16,8 @@ stats:
   abmod: '+268'
   multi: '23.3'
   vselemental: +9,504
-effects: '**Will of Thorns**'
+effect_name: Will of Thorns
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 11% chance to cast Will of Thorns on target of spell.  Lasts for 15.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 2,346 - 2,593 piercing damage on target instantly and every 3 seconds.\n    - Inflicts an additional 130 - 144 piercing damage on target every tick.\n    - Heals caster for 1,702 - 1,881 instantly and every 3 seconds.\n    - Increases Potency of caster by 8.0.\n    - Increases Crit Bonus of caster by 8.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - This effect will not stack with itself if adorned on multiple items."
 item_link: \aITEM -573561729 -86119846:Tunare's Ancient Ring of Will\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: '+185'
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Solid Reflexes**'
+effect_name: Solid Reflexes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Solid Reflexes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of caster by 3.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1001678295 -702270146:Reinforced Kaborite Plated Greaves\/a
 categories:
 - Ability Modifier (Equipment)

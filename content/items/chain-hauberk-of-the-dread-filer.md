@@ -16,7 +16,8 @@ stats:
   aspeed: '19.6'
   multi: '19.6'
   dtype: Chain Armor
-effects: '**Necromunger''s Fortitude**'
+effect_name: Necromunger's Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -99153809 -1648089692:Chain Hauberk of the Dread-Filer\/a
 categories:
 - Attack Speed (Equipment)

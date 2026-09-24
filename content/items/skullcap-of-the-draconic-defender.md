@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   mitinc: '10.5'
   dtype: Leather Armor
-effects: '**Headstrong**'
+effect_name: Headstrong
+effects: "- When Equipped:\n  - Gives caster an extra 3.0% mitigation to their worn armor."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Skullcap Of The Draconic Defender]] *Made from [[Dragon Hide]] *Made from [[Maligonian Horns]] *Made from [[Skyshrine Golem Core]]'
 item_link: \aITEM 1784856605 1738312801:Skullcap of the Draconic Defender\/a
 categories:

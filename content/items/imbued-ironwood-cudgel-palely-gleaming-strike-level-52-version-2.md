@@ -19,7 +19,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 176 - 328 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1352915883 -446227808:imbued ironwood cudgel\/a
 aliases:
 - Imbued ironwood cudgel (Palely Gleaming Strike) (Level 50)

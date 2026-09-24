@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -891422359 -1069323560:Magus Veinca's Voidmetal Bindings\/a
 categories:
 - Ability Modifier (Equipment)

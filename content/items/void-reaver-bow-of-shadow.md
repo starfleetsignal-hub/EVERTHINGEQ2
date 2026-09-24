@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Embrace of Shadows**'
+effect_name: Embrace of Shadows
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Embrace of Shadows on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,620 disease damage on target\n    - Heals caster for 1,296\n    - Increases Multi Attack of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1827682974 -1852341130:Void Reaver, Bow of Shadow\/a
 categories:
 - Assassin Equipment

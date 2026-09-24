@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   dps: '18.8'
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2026221300 -2004568943:Polished Terrazite Disc\/a
 categories:
 - Ability Modifier (Equipment)

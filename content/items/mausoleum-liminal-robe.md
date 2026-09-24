@@ -18,7 +18,8 @@ stats:
   resolve: '505'
   mitinc: '84.9'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 950957136 1900019849:Mausoleum Liminal Robe\/a
 categories:
 - Census Credits

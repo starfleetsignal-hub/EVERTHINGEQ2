@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,736
-effects: '**Kinetic Conversion**'
+effect_name: Kinetic Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Kinetic Conversion on target.\n    - Heals group members (AE) for 37,850.\n      - This effect cannot be critically applied.\n    - Increases power of group members (AE) by 303.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 item_link: \aITEM -619474743 -1470594199:Bold Hoop of Kinetic Conversion\/a
 image: images/Bold_Hoop_of_Kinetic_Conversion.png
 categories:

@@ -15,7 +15,8 @@ stats:
   aspeed: '35.4'
   multi: '24.7'
   vselemental: +10,148
-effects: '**Aquatic Horror**'
+effect_name: Aquatic Horror
+effects: "- When Equipped:\n  - Increases Potency of caster by 6.0.\n  - Increases Subjugation, Disruption and Focus of caster by 88.0.\n  - Increases Ability Mod of caster by 1,200.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1480295044 2048076718:Warcouncil's Stud of the Monstrosity\/a
 categories:
 - Aquatic Horror (Equipment)

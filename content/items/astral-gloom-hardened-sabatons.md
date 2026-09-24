@@ -21,7 +21,8 @@ stats:
   cbovercap: '+70.5'
   mitinc: '26.4'
   dtype: Plate Armor
-effects: '**Gloom-Hardening**'
+effect_name: Gloom-Hardening
+effects: "- When Equipped:\n  - Increases Resolve of Caster by 20.0\n    - Requires Membership.\n    - Requires Planar Level 5"
 obtained_from: Sold by [[Machaess of the Gloom]] in [[Myrist, the Great Library]]
 item_link: \aITEM -1382370811 1808704743:Astral Gloom-Hardened Sabatons\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vselemental: '+360'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 370.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Imitation Relocation]]'
 item_link: \aITEM -1545990367 -1172585549:Cuffs of the Polliwog Protector\/a
 categories:

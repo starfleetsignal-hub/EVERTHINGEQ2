@@ -18,7 +18,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '*Made from [[Elemental Gladiator''s Leggings Mold]] *Made from [[Elemental Gladiator''s Leggings Pattern]]'
 item_link: \aITEM 1615890229 -446534865 0 0 0:Magma-Etched Leggings\/a
 categories:

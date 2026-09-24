@@ -14,7 +14,8 @@ stats:
   crit: '0.3'
   potency: '0.6'
   dtype: Leather Armor
-effects: '**Madden**'
+effect_name: Madden
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Madden on target's attacker.\n    - Increases threat priority of target by 1 position\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1108176873 -1833885829:Woven Vulcanized Skullcap\/a
 categories:
 - Assassin Equipment

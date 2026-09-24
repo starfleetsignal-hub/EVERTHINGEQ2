@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   dps: '18.8'
-effects: '**Hopeful Resolve**'
+effect_name: Hopeful Resolve
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Hopeful Resolve on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Makes caster immune to Stifle effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1159500480 1564567868:Cloak of Underfoot Confusion\/a
 categories:
 - Casting Speed (Equipment)

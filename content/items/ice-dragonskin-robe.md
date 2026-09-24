@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   strike: '12.2'
   dtype: Cloth Armor
-effects: '**Excess Energy**'
+effect_name: Excess Energy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Excess Energy on caster.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 80 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 641409555 42792732:Ice Dragonskin Robe\/a
 categories:
 - Brawler Equipment

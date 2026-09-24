@@ -24,7 +24,8 @@ stats:
   drating: '377.4'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 4.5%.\n    - Inflicts 1,679 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 45 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1870022091 -1082532618:Greataxe of the Hobgoblin Lord\/a
 categories:
 - AE Autoattack Chance (Equipment)

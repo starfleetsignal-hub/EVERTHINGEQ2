@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   mitinc: '88.5'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 257530709 682312125:Ossuary Liminal Cuirass\/a
 categories:
 - Berserker Equipment

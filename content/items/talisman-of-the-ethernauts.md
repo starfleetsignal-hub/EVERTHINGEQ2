@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vselemental: '+400'
-effects: '**Fury of the Ethernauts**'
+effect_name: Fury of the Ethernauts
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 9% chance to cast Fury of the Ethernauts on target of spell.  Lasts for 15.0 seconds.\n    - Inflicts 292 mental damage on target.\n    - Inflicts 292 cold damage on target.\n    - Inflicts 292 disease damage on target.\n    - Increases Casting Speed of caster by 5.0%.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell has a 9% chance to cast Fury of the Ethernauts on target of spell.  Lasts for 15.0 seconds.\n    - Increases Casting Speed of caster by 5.0%.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*Collection reward: [[Relics of the Ethernauts (Collection, Version 1)]] *Collection reward: [[Relics of the Ethernauts (Collection, Version 2)]]'
 item_link: \aITEM 1369371583 1316397331:Talisman of the Ethernauts\/a
 categories:

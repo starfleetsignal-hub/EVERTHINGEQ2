@@ -19,7 +19,8 @@ stats:
   drating: '73.3'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 188 - 281 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1543338536 -1286377469:shaped imbued ebony great staff\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   vselemental: '+280'
-effects: '**Ward of Resistance**'
+effect_name: Ward of Resistance
+effects: "- When Equipped:\n  - When damaged this spell has a 6% chance to cast Ward of Resistance on caster.  Lasts for 8.0 seconds.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1415191031 61878904:Band of Resistance\/a
 categories:
 - Ability Modifier (Equipment)

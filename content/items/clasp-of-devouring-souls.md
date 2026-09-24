@@ -16,7 +16,9 @@ stats:
   potency: '21.3'
   dps: '24.5'
   multi: '31.1'
-effects: '**Noumenal Ascendancy**'
+effect_name: Noumenal Ascendancy
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Noumenal Ascendancy III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 12.5.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 12.0.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Noumenal Ascendancy III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 12.5.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 12.0.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Noumenal Ascendancy III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times\
+  \ per minute.\n    - Increases Potency of caster by 12.5.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 12.0.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1958188229 1526047028:Clasp of Devouring Souls\/a
 categories:
 - Census Credits

@@ -17,7 +17,8 @@ stats:
   dps: '26.3'
   multi: '17'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -138930826 132781765:Illicit Gloves of the Trafficker\/a
 categories:
 - Assassin Equipment

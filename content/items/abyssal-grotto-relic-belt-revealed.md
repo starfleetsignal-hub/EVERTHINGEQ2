@@ -18,7 +18,8 @@ stats:
   potency: 52,704.7
   resolve: '660'
   dps: '81.6'
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Crit Bonus Overcap of caster by 1,814.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1090461370 -181701782:Abyssal Grotto Relic Belt, Revealed\/a
 categories:
 - Assassin Equipment

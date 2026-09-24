@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Surging Adrenaline**<br>**Regenerating Gift**'
+effect_name: Surging Adrenaline, Regenerating Gift
+effects: "- When Equipped:\n  - On a hit this spell may cast Surging Adrenaline on caster.  Triggers about 1.8 times per minute.\n    - Heals caster for 218.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell will cast Regenerating Gift on caster.\n    - Heals caster for 19.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1690526459 795140670:Enchanted Grove Scimitar\/a
 categories:
 - Ability Modifier (Equipment)

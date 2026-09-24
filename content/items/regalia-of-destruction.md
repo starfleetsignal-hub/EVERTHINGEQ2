@@ -17,7 +17,8 @@ stats:
   critbonus: 1,358.3
   potency: 47,371.1
   resolve: '590'
-effects: '**Mischievous Might**'
+effect_name: Mischievous Might
+effects: "- When Equipped:\n  - Increases Potency of caster by 2,374.7.\n  - Increases Crit Bonus of caster by 380.3.\n  - Increases Crit Bonus Overcap of caster by 855.6.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Scars of Destruction: Depths of Destruction - Part 2]]'
 item_link: \aITEM 910976071 -1188199993:Regalia of Destruction\/a
 categories:

@@ -11,7 +11,8 @@ stats:
   sta: '+15'
   mit: '10'
   dtype: Cloth Armor
-effects: '**Othmir Nimble Fingers**'
+effect_name: Othmir Nimble Fingers
+effects: "- Applies Othmir Nimble Fingers when Equipped.\n  - Increases the amount of progress gained by 5.0%."
 obtained_from: '[[Snappy Dressing]]'
 item_link: \aITEM 2008805349 -1770471037:Othmir Shell Armor\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   multi: '10'
-effects: '**Unbreakable**'
+effect_name: Unbreakable
+effects: "- Applies Unbreakable when Activated.  Lasts for 1.2 seconds.\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Makes caster immune to Stun effects\n  - Must have Discord's Fallen Foe Token of Perseverance equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Unbreakable is 3 minutes"
 item_link: \aITEM -801768130 -186426348:Discord's Fallen Foe Token of Perseverance\/a
 categories:
 - Beastlord Equipment

@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   abmod: '+45'
   vselemental: '+600'
-effects: '**Arcane Recovery**<br>**Rapid Casting**'
+effect_name: Arcane Recovery, Rapid Casting
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 5 percent.\n- Applies Rapid Casting when Activated.  Lasts for 20.0 seconds.\n  - Increases Casting Speed of caster by 50.0%.\n  - Dispelled when target casts a spell\n  - Must be engaged in pvp combat\n  - The reuse time of Rapid Casting is 3 minutes"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM 73310913 1468414191:Hell-fired Temporal Band\/a
 categories:

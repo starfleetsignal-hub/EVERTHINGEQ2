@@ -16,7 +16,8 @@ stats:
   dps: '10.3'
   multi: '6.3'
   vselemental: '+356'
-effects: '**Counterstrike**'
+effect_name: Counterstrike
+effects: "- When Equipped:\n  - Caster will Riposte 3.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried."
 item_link: \aITEM 2077024365 1779249321 0 0 0:Recoiling Wrist Guard\/a
 aliases:
 - Recoiling Wrist Guard (Level 79)

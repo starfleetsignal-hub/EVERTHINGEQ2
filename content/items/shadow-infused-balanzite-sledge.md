@@ -24,7 +24,8 @@ stats:
   drating: '1915.2'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3.7%.\n    - Inflicts 1,723 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 47 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1434230129 -1662736536:Shadow-Infused Balanzite Sledge\/a
 categories:
 - Beastlord Equipment

@@ -16,7 +16,8 @@ stats:
   critbonus: '2.9'
   abmod: '+30'
   dtype: Leather Armor
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 959 - 1,439 poison damage on target\n    - Heals caster for 639 - 958\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -116564775 -1623239408:Challenger's Kejaan's Clawed Boots\/a
 categories:
 - Ability Modifier (Equipment)

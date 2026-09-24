@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +16,380
-effects: '**Overwhelming Assault**'
+effect_name: Overwhelming Assault
+effects: "- When Equipped:\n  - When inflicting more than 5% of the target's maximum health in damage, the target will lose 1,331 to all mitigation for 20 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 98) from [[Jeweler Essentials Volume 98]]
 item_link: \aITEM -474284785 968188779:Phantom Cadmium Stud\/a
 categories:

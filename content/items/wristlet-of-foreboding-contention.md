@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   aspeed: '7.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: '[[Through the Looking Glass]]'
 item_link: \aITEM -1464943066 -39305043:Wristlet of Foreboding Contention\/a
 categories:

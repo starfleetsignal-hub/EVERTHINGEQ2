@@ -16,7 +16,8 @@ stats:
   abmod: '+95'
   multi: '6.4'
   vselemental: '+356'
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 131.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Eviss Ryiss]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 888756265 -728370972:Danak Earring of Service\/a
 categories:

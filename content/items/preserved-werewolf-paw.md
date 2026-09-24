@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Bay and Howl**'
+effect_name: Bay and Howl
+effects: "- Applies Bay and Howl when Activated.  Lasts for 20.0 seconds.\n  - Increases DPS of caster by 10.0.\n  - Increases Ability Mod of caster by 100.0.\n  - The reuse time of Bay and Howl is 5 minutes"
 item_link: \aITEM 74963100 243665124:Preserved Werewolf Paw\/a
 categories:
 - Ability Modifier (Equipment)

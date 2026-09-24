@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Plate Armor
-effects: '**Greater Savage Healing**'
+effect_name: Greater Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Greater Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 810.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Conqueror''s Chestguard Mold]] *Made from [[Elemental Conqueror''s Chestguard Pattern]]'
 item_link: \aITEM -777768966 708144814 0 0 0:Fused Obsidian Chestplate\/a
 categories:

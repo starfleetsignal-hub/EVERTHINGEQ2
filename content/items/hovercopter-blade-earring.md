@@ -16,7 +16,8 @@ stats:
   abmod: +1,654
   aspeed: '18.7'
   vselemental: +32,207
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 18.8."
 item_link: \aITEM 2113101362 1817179325:Hovercopter Blade Earring\/a
 categories:
 - Ability Modifier (Equipment)

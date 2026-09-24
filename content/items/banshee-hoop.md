@@ -12,7 +12,8 @@ stats:
   wis: '+50'
   abmod: '+75'
   vselemental: '+440'
-effects: '**Baleful Countenance**<br>**Benevolent Alacrity**'
+effect_name: Baleful Countenance, Benevolent Alacrity
+effects: "- When Equipped:\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 obtained_from: Sold by [[Scion of Belamorte]] (Battlegrounds Token) in [[Cities]] for 30 [[Battlefield of Ganak Trophy|Battlefield of Ganak Trophies]], 30 [[Smuggler's Den Special Reserve Rum|Bottles of Smuggler's Den Special Reserve Rum]] and 96g
 item_link: \aITEM 1802872087 588972526:Banshee Hoop\/a
 categories:

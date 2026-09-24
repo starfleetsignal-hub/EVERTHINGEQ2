@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Symbols
-effects: '**Rune of Warding**'
+effect_name: Rune of Warding
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Rune of Warding on caster.  Lasts for 10 minutes.  Triggers about 1.8 times per minute.\n    - Wards caster against 600 points of all damage\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 obtained_from: '*Crafted by [[Jeweler]] (level 76) from [[Jeweler Essentials Volume 76 (Normal)]] *Crafted by [[Jeweler]] (level 76) from [[Jeweler Essentials Volume 76 (no-trade)]]'
 item_link: \aITEM 1713801774 -1852129700:Ferrite Tablet\/a
 categories:

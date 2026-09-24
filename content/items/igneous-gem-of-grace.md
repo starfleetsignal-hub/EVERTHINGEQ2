@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +19,032
-effects: '**Saving Grace**'
+effect_name: Saving Grace
+effects: "- When Equipped:\n  - When damaged this spell will cast Saving Grace on target's attacker.  Lasts for 5.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Haste of target by 55.0, multiplied by increment stacks.\n    - Decreases DPS of target by 55.0, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 45.0 seconds."
 item_link: \aITEM -1354978373 1373055071:Igneous Gem of Grace\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   aspeed: '2.3'
   dps: '9.3'
   vselemental: +10,148
-effects: '**Currents of Talan**'
+effect_name: Currents of Talan
+effects: "- When Equipped:\n  - Increases WIS, INT and STA of caster by 100.0.\n  - Increases Potency of caster by 7.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 809559376 1860514391:Talan's Gemmed Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

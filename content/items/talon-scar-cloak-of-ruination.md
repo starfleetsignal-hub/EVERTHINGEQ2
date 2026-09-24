@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dps: '238.7'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 936829943 -361468995:Talon Scar Cloak of Ruination\/a
 categories:
 - Assassin Equipment

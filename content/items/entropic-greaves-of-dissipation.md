@@ -15,7 +15,8 @@ stats:
   potency: '9'
   aspeed: '19.1'
   dtype: Plate Armor
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1284515888 75096232:Entropic Greaves of Dissipation\/a
 categories:
 - Attack Speed (Equipment)

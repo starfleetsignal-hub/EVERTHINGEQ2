@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Wind Komodo
+effects: "- Applies Wind Komodo when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 60%\n    - Increases your air speed by 200%\n  - Increases Focus, Ministration, Crushing, Ranged, Disruption, Piercing, Aggression, Subjugation, Ordination and Slashing of caster by 5.0"
 item_link: 1025797081 872384499:Storm Wind Komodo
 categories:
 - Assassin Equipment

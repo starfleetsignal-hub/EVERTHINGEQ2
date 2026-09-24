@@ -17,7 +17,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dtype: Cloth Armor
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2123291538 -1230329409:Robe of Erudite Grace\/a
 categories:
 - Ability Modifier (Equipment)

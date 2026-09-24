@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   aspeed: '4'
   dps: '8.1'
-effects: '**Nectar Collection**'
+effect_name: Nectar Collection
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Nectar Collection on target of combat art.\n    - Decreases power of target by 239.\n    - Increases power of caster by 149.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -716298871 1874214022:Blithe Bixie Cloak\/a
 categories:
 - Assassin Equipment

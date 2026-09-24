@@ -21,7 +21,8 @@ stats:
   drating: '47.88'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Celestial Glow**'
+effect_name: Celestial Glow
+effects: '- Applies Celestial Glow when Equipped.'
 obtained_from: '[[Blight on the Horizon]]'
 item_link: \aITEM 747491084 1469643025:Splendid Celestial Mallet\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   aspeed: '5.4'
   multi: '6.2'
   dtype: Symbols
-effects: '**Subjugative Alacrity**'
+effect_name: Subjugative Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of Subjugation-based spells by 2 percent."
 item_link: \aITEM 583465709 168155127 0 0 0:Eye Poking Trophy\/a
 categories:
 - Assassin Equipment

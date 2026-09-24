@@ -21,7 +21,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 5.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Temporal Gem Hunt]]'
 item_link: \aITEM -1115341828 -121246505:Tablet of Time Flow Theories\/a
 categories:

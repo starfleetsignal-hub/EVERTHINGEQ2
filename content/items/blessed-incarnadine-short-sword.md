@@ -20,7 +20,8 @@ stats:
   drating: '67.31'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Smoldering Blessing**'
+effect_name: Smoldering Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Smoldering Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 120\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 70) from [[Advanced Weaponsmith Volume 70 (Heirloom)]] *Crafted by [[Weaponsmith]] (level 70) from [[Advanced Weaponsmith Volume 70 (Normal)]]'
 item_link: \aITEM -22176629 63012702:Blessed Incarnadine Short Sword\/a
 categories:

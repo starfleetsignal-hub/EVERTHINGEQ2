@@ -11,7 +11,8 @@ description: This item glows with an otherworldly magic, and is powerful enough 
 stats:
   sta: '+16'
   dtype: Symbols
-effects: '**Mastercrafter''s Expertise**<br>**Blessing of Arcanna''se**'
+effect_name: Mastercrafter's Expertise, Blessing of Arcanna'se
+effects: "- Applies Mastercrafter's Expertise when Equipped.\n  - Increases speed of caster by 20.0%.\n  - Increases critical success chance by 1.0%.\n  - Increases the amount of progress gained by 5.0%.\n- Applies Blessing of Arcanna'se when Activated.  Lasts for 5 minutes.\n  - Uses the magic of Arcanna'se to summon a fuel merchant to assist the faithful crafter\n  - The casting time of Blessing of Arcanna'se is 5.0 seconds and the reuse time of the spell is 2 hours"
 obtained_from: Crafted by [[Artisan]] (level 100) from [[Recipe for a Censer of Containment]]
 item_link: \aITEM 765920838 217336251:Empowered Censer of Containment\/a
 image: images/Empowered_Censer_of_Containment.png

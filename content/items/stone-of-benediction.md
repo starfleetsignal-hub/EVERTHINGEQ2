@@ -14,7 +14,8 @@ stats:
   critbonus: '30'
   potency: '30'
   abmod: +1,250
-effects: '**Planar Benediction**'
+effect_name: Planar Benediction
+effects: "- Applies Planar Benediction when Activated.\n  - When damaged with a melee weapon this spell has a 10% chance to cast Divine Shield on caster.  Lasts for 10.0 seconds.\n    - Will absorb physical damage. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities.\n  - Does not stack with Unyielding Benediction\n  - Cannot be modified except by direct means\n  - The casting time of Planar Benediction is 2.0 seconds and the reuse time of the spell is 6.0 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM -2046813102 1329175053:Stone of Benediction\/a
 categories:

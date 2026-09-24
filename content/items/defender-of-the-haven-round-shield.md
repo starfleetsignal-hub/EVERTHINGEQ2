@@ -18,7 +18,8 @@ stats:
   abmod: +73,024
   cbovercap: '+383.3'
   dtype: Buckler
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,300 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Lichen that Venom]]'
 item_link: \aITEM 1666504173 -2147432911:Defender of the Haven Round Shield\/a
 image: images/Defender_of_the_Haven_Round_Shield.png

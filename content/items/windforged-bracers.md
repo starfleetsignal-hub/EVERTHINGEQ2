@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Plate Armor
-effects: '**Infuriate**'
+effect_name: Infuriate
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Infuriate on target's attacker.\n    - Increases Threat to target by 3,551 - 5,475\n    - Cannot be modified except by direct means"
 item_link: \aITEM 540838809 -1884993396:Windforged Bracers\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '131.73'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Slay the Living**'
+effect_name: Slay the Living
+effects: "- When Equipped:\n  - Soulleech will increase its wielders' crit chance by an additional 5% while attacking living humanoid creatures."
 item_link: \aITEM 783943160 -1589705092:Soul's Torment\/a
 categories:
 - Ability Modifier (Equipment)

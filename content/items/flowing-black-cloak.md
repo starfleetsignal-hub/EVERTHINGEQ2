@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.3'
   dps: '5'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: 'Heritage quest reward: [[A Thread of Hope]]'
 item_link: \aITEM -1342274400 -731729966:Flowing Black Cloak\/a
 categories:

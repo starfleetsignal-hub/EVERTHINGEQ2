@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution II on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 220.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 20) from [[Ancient Knowledge: Fortified Clutch of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 1840385844 1370797181:Fortified Clutch of Authority\/a
 categories:

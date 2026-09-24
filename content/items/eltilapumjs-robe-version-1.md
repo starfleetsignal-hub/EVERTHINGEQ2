@@ -17,7 +17,8 @@ stats:
   aspeed: '5.4'
   multi: '6.2'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 5 percent."
 item_link: \aITEM 466665009 -2076568831:Eltilapumj's Robe\/a
 categories:
 - Arcane Recovery (Equipment)

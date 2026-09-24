@@ -17,7 +17,8 @@ stats:
   potency: '5'
   abmod: '+55'
   dtype: Leather Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -656196564 -1072768038:Challenger's Wrathcaller Leggings\/a
 categories:
 - Ability Modifier (Equipment)

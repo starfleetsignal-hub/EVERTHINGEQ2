@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Crimson Dragonscale Cloak (crate)|Crimson Dragonscale Cloak]]
 item_link: \aITEM 181906952 550956296:Crimson Dragonscale Cloak\/a
 categories:

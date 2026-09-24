@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +30,395
   dps: '28.6'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 19.2.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -347886411 2081743609:Void Threads\/a
 categories:
 - Ability Modifier (Equipment)

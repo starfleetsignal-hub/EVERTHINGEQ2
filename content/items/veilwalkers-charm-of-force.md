@@ -18,7 +18,8 @@ stats:
   resolve: '145'
   abmod: +34,799
   aspeed: '59.7'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 10.0.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 115) from [[Jeweler's Primer Volume 15]]
 item_link: \aITEM -312548768 -346709820:Veilwalker's Charm of Force\/a
 categories:

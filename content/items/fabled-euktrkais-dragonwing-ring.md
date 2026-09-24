@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Dragon Wings**'
+effect_name: Dragon Wings
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dragon Wings on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 48,020 cold damage on target instantly and every second.\n    - Increases Block Chance of caster by 7.2%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1614446991 -658607149:Fabled Euktrkai's Dragonwing Ring\/a
 categories:
 - Arcane Resistance (Equipment)

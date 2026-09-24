@@ -13,7 +13,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Symbols
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 12.0.\n  - This effect suspends during combat"
 item_link: \aITEM -1328980961 1391201637:Idol of the Frozen\/a
 categories:
 - Assassin Equipment

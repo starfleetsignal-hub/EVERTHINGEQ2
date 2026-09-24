@@ -19,7 +19,8 @@ stats:
   drating: '52.89'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Scintillating Blessing**'
+effect_name: Scintillating Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Scintillating Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 75\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 62) from [[Weaponsmith Essentials Volume 62 (Normal)]] *Crafted by [[Weaponsmith]] (level 62) from [[Weaponsmith Essentials Volume 62 (no-trade)]]'
 item_link: \aITEM -1220956643 -1503042319:Blessed Adamantine Short Spear\/a
 categories:

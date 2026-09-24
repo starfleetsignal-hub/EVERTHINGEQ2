@@ -17,7 +17,8 @@ stats:
   aspeed: '37.4'
   dps: '23.1'
   multi: '21.3'
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: '- When Equipped:'
 item_link: \aITEM 786360591 -222638300:Amulet of Yothshaval Servitude\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   multi: '8'
   dtype: Chain Armor
-effects: '**Bloodcall**'
+effect_name: Bloodcall
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bloodcall on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 432 - 648 magic damage on target\n    - Heals caster for 432 - 648\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1062389556 -1760855323:Darkened Mithril Boots\/a
 categories:
 - Ability Modifier (Equipment)

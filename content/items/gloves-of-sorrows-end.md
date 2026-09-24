@@ -14,7 +14,8 @@ stats:
   critbonus: '7.7'
   potency: '7.7'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[A Jagged Branch]]'
 item_link: \aITEM -1313944687 -554456099:Gloves of Sorrow's End\/a
 image: images/Gloves_of_Sorrow's_End.png

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   flurry: '3.4'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Gladiator''s Glove Mold]] *Made from [[Elemental Gladiator''s Glove Pattern]]'
 item_link: \aITEM -1812054087 -460997842 0 0 0:Threaded Gloves of Volcanic Percussion\/a
 categories:

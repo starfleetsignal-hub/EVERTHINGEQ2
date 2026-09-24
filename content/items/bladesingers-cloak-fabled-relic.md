@@ -17,7 +17,8 @@ stats:
   resolve: '7'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**Deafening Cacophony**<br>**All for One**'
+effect_name: Deafening Cacophony, All for One
+effects: "- When Equipped:\n  - Greatly enchances the damage of Cacophony of Blades.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -14002090 1673344274:Bladesinger's Cloak\/a
 categories:
 - All for One (Equipment)

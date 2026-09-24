@@ -17,7 +17,8 @@ stats:
   potency: 30,959.2
   resolve: '390'
   abmod: +241,709
-effects: '**Scaled Protection**'
+effect_name: Scaled Protection
+effects: "- Applies Scaled Protection when Activated.  Lasts for 10.0 seconds.\n  - Reduces all damage done to caster by 10%.\n  - The reuse time of Scaled Protection is 3 minutes"
 item_link: \aITEM 1491539970 691510507:Fabled Ring of Scale General's Cloak\/a
 categories:
 - Ability Doublecast (Equipment)

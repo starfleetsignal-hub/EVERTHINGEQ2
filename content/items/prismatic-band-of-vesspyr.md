@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Rejuvenating Kills**'
+effect_name: Rejuvenating Kills
+effects: "- When Equipped:\n  - On a death blow this spell will cast Rejuvenating Kills II on caster.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 44,790.\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM -970249007 -428998952:Prismatic Band of Vesspyr\/a
 image: images/Prismatic_Band_of_Vesspyr.png

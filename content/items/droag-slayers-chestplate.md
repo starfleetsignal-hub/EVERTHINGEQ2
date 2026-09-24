@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   multi: '6'
   dtype: Plate Armor
-effects: '**Lesser Silencing Blow**'
+effect_name: Lesser Silencing Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silencing Blow on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.4 times per minute.\n    - Stifles target\n    - Only affects targets level 102 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 94.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 479091226 2099346003:Droag Slayer's Chestplate\/a
 categories:
 - Berserker Equipment

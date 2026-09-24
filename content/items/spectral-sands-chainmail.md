@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   dps: '21.1'
   dtype: Chain Armor
-effects: '**Gilded Patience**'
+effect_name: Gilded Patience
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gilded Patience on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Accuracy of caster by 5.0%.\n    - Increases Multi Attack of caster by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1492245363 -150308232:Spectral Sands Chainmail\/a
 categories:
 - Assassin Equipment

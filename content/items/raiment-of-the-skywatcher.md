@@ -16,7 +16,8 @@ stats:
   potency: '1.6'
   aspeed: '2.2'
   dtype: Cloth Armor
-effects: '**Azure Winds**'
+effect_name: Azure Winds
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Azure Winds on target of spell.  Triggers about 4.0 times per minute.\n    - Decreases Threat to target by 2,560\n    - Cannot be modified except by direct means"
 item_link: \aITEM 409831335 -764536703:Raiment of the Skywatcher\/a
 categories:
 - Assassin Equipment

@@ -24,7 +24,8 @@ stats:
   drating: '483.33'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Prismatic Distraction**'
+effect_name: Prismatic Distraction
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 9.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Combat Mitigation of target by 510.9.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 item_link: \aITEM 1077425095 1185711436:Prismatic Distraction\/a
 categories:
 - Ability Modifier (Equipment)

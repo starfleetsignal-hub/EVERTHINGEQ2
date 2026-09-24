@@ -17,7 +17,8 @@ stats:
   dps: '28.8'
   multi: '22.2'
   vselemental: +33,491
-effects: '**The Finisher**'
+effect_name: The Finisher
+effects: "- When Equipped:\n  - Increases Potency of caster by 85.0.\n  - Improves the potency of damage all by 140% when the target is below 50% health.  This effect will not stack with any other finisher effect.\n    - This effect will not stack with any other Finisher effect."
 item_link: \aITEM 1698550503 -1622007823:Karith'Ta Stud of Finality\/a
 categories:
 - Arcane Resistance (Equipment)

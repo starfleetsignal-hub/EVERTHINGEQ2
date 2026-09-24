@@ -20,7 +20,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Caustic Venom**'
+effect_name: Caustic Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Caustic Venom on target of attack.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 76 - 93 poison damage on target.\n    - Inflicts 43 - 53 poison damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 810705064 483106363:Chastening Blade\/a
 categories:
 - Ability Modifier (Equipment)

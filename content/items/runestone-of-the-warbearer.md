@@ -15,7 +15,8 @@ stats:
   potency: '30'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Warbearer**'
+effect_name: Warbearer
+effects: "- Applies Warbearer when Activated.  Lasts for 16.0 seconds.\n  - Increases Flurry of Caster by 15.0.\n  - Increases Strikethrough of caster by 100.0%.\n  - Increases Accuracy of caster by 100.0%.\n  - Cannot be modified except by direct means\n  - The casting time of Warbearer is 0.25 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM 759245774 297825993:Runestone of the Warbearer\/a
 categories:

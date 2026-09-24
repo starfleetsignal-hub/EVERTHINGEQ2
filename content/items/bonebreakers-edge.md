@@ -19,7 +19,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Vicious Focus**<br>**Stonewill**'
+effect_name: Vicious Focus, Stonewill
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - When damaged this spell has a 7% chance to cast Stonewill on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 720 points of all damage\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Stonewill on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Wards caster against 720 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2002791012 260785881:Bonebreaker's Edge\/a
 categories:
 - Berserker Equipment

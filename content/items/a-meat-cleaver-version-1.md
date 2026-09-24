@@ -14,7 +14,8 @@ stats:
   drating: '149.04'
   dtype: Main Hand Crushing
   wtype: Crushing
-effects: '**Fear the Butcher!**'
+effect_name: Fear the Butcher!
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fear the Butcher! on Pork Chop. Lasts for 10.0 seconds.\n  - If target is Pork Chop\n  - If Pork Chop's fat hardens!"
 item_link: \aITEM -327087420 -1873346083:a meat cleaver\/a
 categories:
 - Assassin Equipment

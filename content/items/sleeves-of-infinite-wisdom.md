@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '77'
   dtype: Leather Armor
-effects: '**Tranquil Breeze Glyph**'
+effect_name: Tranquil Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1737178711 136887804:Sleeves of Infinite Wisdom\/a
 categories:
 - Assassin Equipment

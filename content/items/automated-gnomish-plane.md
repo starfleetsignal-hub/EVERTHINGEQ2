@@ -8,7 +8,8 @@ level: '40'
 slot: Charm
 classes: '[[Woodworker]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 160) from [[Dabbler's Blueprints 0.005]].
 item_link: \aITEM 380165575 -303345364:Automated Gnomish Plane\/a
 image: images/Automated_Gnomish_Plane.png

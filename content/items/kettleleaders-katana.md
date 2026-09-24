@@ -18,7 +18,8 @@ stats:
   drating: '74.73'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Perfect Strike**'
+effect_name: Perfect Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Perfect Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 223 - 414 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1739088772 1694240666:Kettleleader's Katana\/a
 categories:
 - AE Autoattack Chance (Equipment)

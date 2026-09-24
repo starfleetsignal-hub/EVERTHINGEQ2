@@ -17,7 +17,8 @@ stats:
   aspeed: '5.4'
   dps: '10.1'
   dtype: Chain Armor
-effects: '**Silencing Blow**'
+effect_name: Silencing Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silencing Blow on target of attack.  Lasts for 4.0 seconds.  Triggers about 1.6 times per minute.\n    - Stifles target\n    - Only affects targets level 102 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1440347155 2023868013:Throatcrushers\/a
 categories:
 - Assassin Equipment

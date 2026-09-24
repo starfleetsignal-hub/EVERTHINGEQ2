@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   multi: '31.2'
-effects: '**Channeled Redirection**'
+effect_name: Channeled Redirection
+effects: "- When Equipped:\n  - Reduces elemental, noxious and arcane damage done to caster by 6.5%.\n    - If not fighter\n  - Damage reduction from this effect will not stack with itself.\n  - When any magical damage is received this spell will cast Channeled Redirection II on target.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency of caster by 120.0.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities.\n    - This effect can only trigger once every 30.0 seconds."
 item_link: \aITEM 546541073 373155751:Torque of Redirection\/a
 categories:
 - AE Autoattack Chance (Equipment)

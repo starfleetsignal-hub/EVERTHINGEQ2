@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +19,656
-effects: '**Unchecked Aggression**'
+effect_name: Unchecked Aggression
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Unchecked Aggression II on caster.  Lasts for 15 minutes.  Triggers about 3.0 times per minute.\n    - Increases Crit Bonus of caster by 8.0, multiplied by increment stacks.\n    - Increments up to 15 times. Dispels when hit.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1418605954 281969882:Marring Silver Hoop of Unchecked Aggression\/a
 categories:
 - Arcane Resistance (Equipment)

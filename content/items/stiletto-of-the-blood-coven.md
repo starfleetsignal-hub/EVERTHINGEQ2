@@ -15,7 +15,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Toxic Wind Glyph**'
+effect_name: Toxic Wind Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 385948717 660858994:Stiletto of the Blood Coven\/a
 categories:
 - Assassin Equipment

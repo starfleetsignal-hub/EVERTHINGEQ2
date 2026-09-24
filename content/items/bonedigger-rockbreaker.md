@@ -19,7 +19,8 @@ stats:
   drating: '64.08'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 156.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Cloudy and Future Danger]]'
 item_link: \aITEM 2073991903 1418192804:Bonedigger Rockbreaker\/a
 categories:

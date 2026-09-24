@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Intensity of Battle**'
+effect_name: Intensity of Battle
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Intensity of Battle III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 66, 000-144, 000 magic damage to the target instantly and every second. This inflicts more damage to more powerful enemies.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2026868972 274805054:Grimling Claw of Intensity\/a
 categories:
 - Arcane Resistance (Equipment)

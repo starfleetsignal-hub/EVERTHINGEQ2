@@ -16,7 +16,8 @@ stats:
   abmod: '+165'
   dps: '62.5'
   dtype: Cloth Armor
-effects: '**Nocturnal Celerity**'
+effect_name: Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -1373146951 -690258240:Gloves of the Great Devourer\/a
 categories:
 - Ability Modifier (Equipment)

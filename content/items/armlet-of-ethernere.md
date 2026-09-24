@@ -9,7 +9,8 @@ slot: Wrist
 flags: lore attunable no-value
 stats:
   sta: '+15'
-effects: '**Ethernere aura**'
+effect_name: Ethernere aura
+effects: "- Applies Ethernere aura when Activated.\n  - Gives the wearer a superficial appearance of belonging in the Ethernere. This will not fool anyone looking closely.\n  - The casting time of Ethernere aura is 0.5 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '[[The Captain''s Lament]]'
 item_link: \aITEM 1028816216 2050940631:Armlet of Ethernere\/a
 image: images/Armlet_of_Ethernere.png

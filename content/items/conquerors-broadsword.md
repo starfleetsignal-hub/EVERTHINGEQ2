@@ -15,7 +15,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 346843018 1230221794:Conqueror's Broadsword\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Symbols
-effects: '**Lesser Bitter Miasma**'
+effect_name: Lesser Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 335.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 546314426 2143301578:Manual of the Master Engineer\/a
 categories:
 - AE Autoattack Chance (Equipment)

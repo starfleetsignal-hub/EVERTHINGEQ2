@@ -16,7 +16,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Malisement**'
+effect_name: Malisement
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Malisement on target of attack.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 468 - 572.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[The Heart of Fear]]'
 item_link: \aITEM -928695723 27447811:Withered Totem of Widdershins\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dps: '12.8'
-effects: '**Blurting Obscenities**<br>**Infuriating Shout**'
+effect_name: Blurting Obscenities, Infuriating Shout
+effects: "- Applies Blurting Obscenities when Activated.\n  - Increases Threat to targets in Area of Effect by 3,165\n  - Must be engaged in combat\n  - The casting time of Blurting Obscenities is 0.5 seconds and the reuse time of the spell is 5 minutes\n- When Equipped:\n  - On a combat hit this spell may cast Infuriating Shout I on target of attack.  Triggers about 0.8 times per minute.\n    - Increases Threat to target by 700\n    - Cannot be modified except by direct means"
 obtained_from: <br>Sold by [[A mysterious Quellithulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 694256963 -1476636479:Clavicle Cinched Belt\/a
 categories:

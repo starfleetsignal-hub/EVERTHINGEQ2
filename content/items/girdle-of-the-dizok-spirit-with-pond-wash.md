@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+83'
-effects: '**Pond Wash**'
+effect_name: Pond Wash
+effects: "- When Equipped:\n  - On a spell cast this spell has a 10% chance to cast Pond Wash on the group.\n    - Increases power of group members (AE) by 2.9% of caster's max power.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Chokidai Collars]]'
 item_link: \aITEM 1457074043 388892313:Girdle of the Di'Zok Spirit\/a
 image: images/Girdle_of_the_Di'Zok_Spirit.jpg

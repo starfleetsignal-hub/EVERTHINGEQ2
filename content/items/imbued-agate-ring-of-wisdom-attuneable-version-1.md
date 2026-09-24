@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+5'
   int: '+6'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 4.5.\n    - Increases Ordination, Ministration and Focus of caster by 3.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1596618281 -597209777:Imbued Agate Ring of Wisdom\/a
 categories:
 - Assassin Equipment

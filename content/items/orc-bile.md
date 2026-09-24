@@ -16,7 +16,8 @@ stats:
   abmod: +1,500
   aspeed: '33.4'
   dps: '13.1'
-effects: '**Noxious Focus**'
+effect_name: Noxious Focus
+effects: "- Applies Noxious Focus III when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all noxious abilities.\n  - Removes 200 potency from arcane and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Noxious Focus III is 2 minutes"
 item_link: \aITEM -465209510 -1680097575:Orc Bile\/a
 categories:
 - Ability Modifier (Equipment)

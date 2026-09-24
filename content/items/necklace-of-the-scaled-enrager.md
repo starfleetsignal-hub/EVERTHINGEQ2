@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**The Enrager**'
+effect_name: The Enrager
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 20.0.\n  - Increases Hate Gain of caster by 40.0."
 item_link: \aITEM 678364385 -514568959:Necklace of the Scaled Enrager\/a
 categories:
 - Assassin Equipment

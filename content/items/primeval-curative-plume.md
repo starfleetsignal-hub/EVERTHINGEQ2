@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Amplifying Plume: Cure**<br>**Amplifying Plume: Contribution**'
+effect_name: 'Amplifying Plume: Cure, Amplifying Plume: Contribution'
+effects: "- Applies Amplifying Plume: Cure when Activated.\n  - Dispels 140 levels of any hostile effects on caster\n  - The casting time of Amplifying Plume: Cure is 1.0 second and the reuse time of the spell is 10 minutes\n- When Equipped:\n  - The reuse time of this effect is decreased by the number of characters in the group or raid wearing an Amplifying Plume effect to a maximum of half the base value."
 obtained_from: '*Crafted by [[Artisan]] (level 0) from [[Primeval Plumes for All]] *Crafted by [[Artisan]] (level 0) from [[Primeval Plumes]]'
 item_link: \aITEM -434620939 -231232766:Primeval Curative Plume\/a
 categories:

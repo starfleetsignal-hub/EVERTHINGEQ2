@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: '+795'
   dps: '27.6'
-effects: '**Boundless Riddle**'
+effect_name: Boundless Riddle
+effects: "- Applies Boundless Riddle when Activated.  Lasts for 45.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to piercing damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Boundless Riddle is 0.4 seconds and the reuse time of the spell is 1 minute 30 seconds"
 item_link: \aITEM -744272607 1015307460:Charm of the Mindbender\/a
 categories:
 - Ability Modifier (Equipment)

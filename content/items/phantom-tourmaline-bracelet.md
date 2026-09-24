@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +16,380
-effects: '**Empowering Kills**'
+effect_name: Empowering Kills
+effects: "- When Equipped:\n  - On a death blow this spell will cast Empowering Kills III on caster.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 7,570.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Jeweler Essentials Volume 100]]
 item_link: \aITEM 386144365 -1241401546:Phantom Tourmaline Bracelet\/a
 categories:

@@ -10,7 +10,7 @@ flags: Heirloom No-Value
 description: Only an 10th and higher seasoned adventurer or tradeskiller will be able to summon this patchwork steed.
 stats:
   charges: Unlimited
-effects: Summon 12th Anniversary Mount
+effects: "- Applies Summon 12th Anniversary Mount when Activated.\n  - Increases Focus, Slashing, Ministration, Aggression and Piercing of caster by 5.0\n  - Summons a mount to ride.\n    - Increases your ground speed by 75%\n    - Increases your air speed by 150%\n  - Increases Disruption, Crushing, Ranged, Subjugation and Ordination of caster by 5.0."
 obtained_from: Random Reward from the [[Heroes' Festival Timeline|Heroes' Festival]] achievement, [[Twelfth Anniversary Celebration]]
 item_link: \aITEM -968350584 1394132081:Twelfth Anniversary Celebration Mount\/a
 image: images/12th-anniversay-mount.jpg

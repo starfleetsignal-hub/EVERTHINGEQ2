@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Purchased from [[Bad''Ushra]] in [[The Stonebrunt Highlands]] for 50 [[Mark of Manaar|Mark of Manaars]]'
 item_link: \aITEM -10558648 989933407:Hallowed Sabatons\/a
 categories:

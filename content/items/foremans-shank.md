@@ -21,7 +21,8 @@ stats:
   drating: '58.77'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Fright**'
+effect_name: Fright
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fright on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes target afraid\n    - 25% chance to dispel when target takes damage\n    - 25% chance to dispel when target receives hostile action\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 78.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 428136957 -2125675250:Foreman's Shank\/a
 categories:
 - Assassin Equipment

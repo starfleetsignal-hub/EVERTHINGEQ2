@@ -16,7 +16,8 @@ stats:
   dps: '23.1'
   multi: '19.8'
   vselemental: +29,521
-effects: '**Pact of Constitution**'
+effect_name: Pact of Constitution
+effects: "- When Equipped:\n  - Increases wearer's Potency between 32 and 80 based on how many members in the group or raid.\n  - Increases wearer's Max Health between 32,000 and 80,000 based on how many members in the group or raid."
 obtained_from: 'Achievement reward: [[The Fabled Spirit Hunter]]'
 item_link: \aITEM -925075520 -1612117941:Soulquell, The Enigmatic Transducer\/a
 categories:

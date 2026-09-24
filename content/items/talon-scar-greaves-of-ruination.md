@@ -19,7 +19,8 @@ stats:
   resolve: '535'
   dps: '281'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1888308903 1950624779:Talon Scar Greaves of Ruination\/a
 categories:
 - Brawler Equipment

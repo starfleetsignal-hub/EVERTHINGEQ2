@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   dtype: Leather Armor
-effects: '**Icy Impact**'
+effect_name: Icy Impact
+effects: "- When Equipped:\n  - On a damage spell hit this spell will cast Icy Impact on target of spell.\n    - Inflicts 11 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 968593799 -231538948:Chitin Imbued Skullcap\/a
 categories:
 - Ability Modifier (Equipment)

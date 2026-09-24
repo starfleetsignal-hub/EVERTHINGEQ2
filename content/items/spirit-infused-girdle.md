@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7'
   dps: '18.1'
-effects: '**Overloaded Heal**<br>**Manawell**'
+effect_name: Overloaded Heal, Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 871.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a spell cast this spell may cast Manawell on target of spell.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 272.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -890082356 1658931103:Spirit Infused Girdle\/a
 categories:
 - Assassin Equipment

@@ -20,7 +20,8 @@ stats:
   drating: '115.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Earthen Aura**'
+effect_name: Earthen Aura
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 6.0.\n  - On a combat hit this spell may cast Subterranean Favor on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals caster for 63 - 117.\n    - Heals caster for 18 - 34 every 4 seconds.\n    - Increases STR of caster by 132.0.\n    - Increases the caster's effectiveness of worn armor vs physical damage by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 734491980 -519654687:War Pick of Elemental Earth\/a
 categories:
 - Ability Modifier (Equipment)

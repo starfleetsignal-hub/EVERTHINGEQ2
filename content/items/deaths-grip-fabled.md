@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Dagger
-effects: '**Acid Rain**'
+effect_name: Acid Rain
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 9% chance to cast Acid Rain on target of spell.\n    - Decreases threat priority of target encounter by 1 position\n    - Inflicts 346 - 518 poison damage on target encounter.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Will of Kyrtoxxulous]]'
 item_link: \aITEM -2141904773 -179706899:Death's Grip\/a
 categories:

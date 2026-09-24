@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Blooded Blade**'
+effect_name: Blooded Blade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blooded Blade II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 500,094 piercing damage on target.\n    - Inflicts 10.0% of max health in piercing damage on caster.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -120352698 1682423947:Blooded Hoops\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Leather Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 5%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 675548385 -498397517 0 0 0:Feral Hide Shoulderpads\/a
 categories:

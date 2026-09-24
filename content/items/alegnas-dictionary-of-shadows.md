@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+133'
-effects: '**Lesson of Stealth**'
+effect_name: Lesson of Stealth
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Lesson of Stealth on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 193 mental damage on target.\n    - Inflicts 193 cold damage on target.\n    - Inflicts 193 poison damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1253784095 -1786663218:Alegna's Dictionary of Shadows\/a
 categories:
 - Ability Modifier (Equipment)

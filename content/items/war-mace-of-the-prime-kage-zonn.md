@@ -20,7 +20,9 @@ stats:
   drating: '120.96'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Ethereal Quills**'
+effect_name: Ethereal Quills
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ethereal Quills on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 462 - 769 magic damage on target.\n    - Inflicts 462 - 769 piercing damage on target.\n    - Inflicts 462 - 769 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a ranged hit this spell may cast Ethereal Quills on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 462 - 769 magic damage on target.\n    - Inflicts 462 - 769 piercing damage on target.\n    - Inflicts 462 - 769 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Ethereal Quills on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 462 - 769 magic damage on target.\n    - Inflicts 462 - 769 piercing damage on target.\n    - Inflicts 462\
+  \ - 769 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1009066651 1848482251:War Mace of the Prime Kage-Zonn\/a
 categories:
 - Census Credits

@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   dps: '165.2'
   dtype: Leather Armor
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 obtained_from: From [[Satchel of the Weakened]]
 item_link: \aITEM -1665016031 2102083314:Exemplar Brutal Boots\/a
 categories:

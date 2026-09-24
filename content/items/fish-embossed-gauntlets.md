@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Chain Armor
-effects: '**Bitter Miasma**'
+effect_name: Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 548.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Mushroom Magic]]'
 item_link: \aITEM -867179588 -864379063:Fish Embossed Gauntlets\/a
 categories:

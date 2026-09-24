@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   flurry: '1.4'
   vsarcane: '+423'
-effects: '**Plumptucket''s Love**'
+effect_name: Plumptucket's Love
+effects: "- Applies Plumptucket's Love when Activated.\n  - Summons a pet Love\n  - This effect suspends during combat\n  - The casting time of Plumptucket's Love is 5.0 seconds and the reuse time of the spell is 15.0 seconds"
 obtained_from: No longer obtainable
 item_link: \aITEM -491293255 -1750982943:Plumptucket's Diamond Engagement Ring\/a
 categories:

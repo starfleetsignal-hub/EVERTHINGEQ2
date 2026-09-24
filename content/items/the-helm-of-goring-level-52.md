@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.3'
   dtype: Plate Armor
-effects: '**Electrified Barrier**'
+effect_name: Electrified Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Electrified Barrier on target's attacker.\n    - Inflicts 81 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -425430627 1014491720:The Helm of Goring\/a
 categories:
 - Attack Speed (Equipment)

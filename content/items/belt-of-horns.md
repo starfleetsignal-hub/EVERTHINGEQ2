@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dps: '12.8'
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 359 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -249235437 855033225:Belt of Horns\/a
 categories:
 - Ability Modifier (Equipment)

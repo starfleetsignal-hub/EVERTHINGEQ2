@@ -18,7 +18,8 @@ stats:
   resolve: '195'
   dps: '69.9'
   mitinc: '28.9'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.8.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -328378765 770435399:Jar of Blackened Tar\/a
 categories:
 - Assassin Equipment

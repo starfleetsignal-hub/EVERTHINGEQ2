@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**The Decider**'
+effect_name: The Decider
+effects: "- Applies The Decider II when Activated.  Lasts for 8.0 seconds.\n  - Increases the caster's ability damage by 125%.\n  - If the target doesn't die before this expires, the caster may die, receive massive damage or have their outgoing damage reduced\n  - This can be cast while using other abilities\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of The Decider II is 1 minute 30 seconds"
 item_link: \aITEM 148440402 1435429670:Mana Reserves\/a
 categories:
 - AE Autoattack Chance (Equipment)

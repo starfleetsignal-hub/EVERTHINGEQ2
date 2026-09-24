@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 1.0 seconds
   recast: 15.0 seconds
-effects: noxious remedy
+effects: "- Applies noxious remedy when Activated.\n  - Dispels 19 levels of any noxious hostile effects on caster"
 obtained_from: Crafted by [[Scholar]] (level 12) from [[Scholar essentials volume 12]]
 item_link: \aITEM 1119368904 1275859698:Noxious Remedy\/a
 categories:

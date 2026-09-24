@@ -22,7 +22,8 @@ stats:
   drating: '229.23'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,121 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Scourge Sandals]]'
 item_link: \aITEM -1668866516 -1703845455:Primitive Blood Iron Dagger\/a
 image: images/Primitive_Bloodiron_Dagger.png

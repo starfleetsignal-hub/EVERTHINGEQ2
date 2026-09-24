@@ -15,7 +15,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   multi: '13'
-effects: '**Unrelenting Gaze**'
+effect_name: Unrelenting Gaze
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -116189992 -35073675:Belt of Falling Stones\/a
 categories:
 - Casting Speed (Equipment)

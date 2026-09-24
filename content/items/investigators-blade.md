@@ -19,7 +19,8 @@ stats:
   drating: '82.69'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 153.\n    - Cannot be modified except by direct means"
 obtained_from: '[[An Important Package]]'
 item_link: \aITEM -281763296 -1510937928:Investigator's Blade\/a
 categories:

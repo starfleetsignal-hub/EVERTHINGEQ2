@@ -16,7 +16,8 @@ stats:
   abmod: +1,591
   aspeed: '36'
   dps: '13.8'
-effects: '**Primordial Cloak of Flames**'
+effect_name: Primordial Cloak of Flames
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 75.0.\n  - Periodically burns all nearby hostile enemies for 313,023 heat damage\n  - Suspends if the caster disables AE Auto Attack or turns off Auto Attack\n- Applies Primordial Cloak of Flames when Activated.  Lasts for 20.0 seconds.\n  - Increases elemental damage done to targets in Area of Effect by 2.5%.\n  - Inflicts 3,580,000 heat damage on targets in Area of Effect.\n  - Suspends the passive effect for 30 seconds\n  - This can be cast while using other abilities\n  - This item may not be used in a PvP zone.\n  - The reuse time of Primordial Cloak of Flames is 20.0 seconds"
 item_link: \aITEM 1112233494 -98893891:Magma Opal of Ro\/a
 categories:
 - Ability Modifier (Equipment)

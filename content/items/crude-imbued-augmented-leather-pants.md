@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '1.1'
   dtype: Leather Armor
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 36 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 134766286 970206280:Crude Imbued Augmented Leather Pants\/a
 categories:
 - Assassin Equipment

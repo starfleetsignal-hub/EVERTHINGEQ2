@@ -23,7 +23,8 @@ stats:
   drating: '251.9'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.6%.\n    - Inflicts 3,811 heat damage on target.\n    - Inflicts 3,811 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -820723148 -1171861899:Expert's Heridal's Plant-Smashing Hammer\/a
 categories:
 - Assassin Equipment

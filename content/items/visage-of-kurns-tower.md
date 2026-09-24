@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   mitinc: '5.1'
-effects: '**Infusion of Kurn**'
+effect_name: Infusion of Kurn
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Infusion of Kurn on the group.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of group members (AE) by 60 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1804186907 -600595973:Visage of Kurn's Tower\/a
 categories:
 - Ability Modifier (Equipment)

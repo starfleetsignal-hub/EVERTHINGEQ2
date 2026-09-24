@@ -14,7 +14,8 @@ stats:
   critbonus: '4'
   potency: '5.4'
   mitinc: '3'
-effects: '**Hunter''s Rage**'
+effect_name: Hunter's Rage
+effects: "- Applies Hunter's Rage when Activated.  Lasts for 30 minutes.\n  - Increases Fervor of caster by 3.1.\n  - Increases Ability Doublecast of caster by 3.1.\n  - Increases Max Health of caster by 7.0%.\n  - Increases Reuse Speed of caster by 7.9%.\n  - Cannot be modified except by direct means\n  - The casting time of Hunter's Rage is 1.0 second and the reuse time of the spell is 3 hours"
 item_link: \aITEM -413718517 2011404345:Wurm Hunter's Badge\/a
 categories:
 - Assassin Equipment

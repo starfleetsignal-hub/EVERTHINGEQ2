@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '13'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Lavaspun Steel Belt]], [[Rejuvenating Sash]] and 1p 50g
 item_link: \aITEM -1708186806 949494780 0 0 0:Magmaweave Metallic Belt\/a
 categories:

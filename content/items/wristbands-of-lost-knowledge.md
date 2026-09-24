@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   dps: '8.1'
   vselemental: '+595'
-effects: '**Channeling Force**'
+effect_name: Channeling Force
+effects: "- When Equipped:\n  - On a damage spell hit this spell will cast Channeling Force on target of spell.\n    - Inflicts 24 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -600471244 -1803248286:Wristbands of Lost Knowledge\/a
 categories:
 - AE Autoattack Chance (Equipment)

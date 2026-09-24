@@ -18,7 +18,8 @@ stats:
   abmod: +136,920
   cbovercap: '+479.2'
   dtype: Symbols
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,830 magic damage on target instantly and every second.\n    - Inflicts an additional 47 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1699493234 -2039383007:Flamed Symbol of the Bounty\/a
 categories:
 - Ability Modifier (Equipment)

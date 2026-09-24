@@ -18,7 +18,8 @@ stats:
   drating: '42.17'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Lambent Blessing**'
+effect_name: Lambent Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Lambent Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 60\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 52) from [[Woodworker Essentials Volume 52 (Normal)]] *Crafted by [[Woodworker]] (level 52) from [[Woodworker Essentials Volume 52 (no-trade)]]'
 item_link: \aITEM 998421952 551618575:Blessed Sandalwood Cudgel\/a
 categories:

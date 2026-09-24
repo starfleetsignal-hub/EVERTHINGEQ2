@@ -17,7 +17,8 @@ stats:
   critbonus: '6.2'
   potency: '6.7'
   dtype: Leather Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -873168756 119608348:Storm Warden's Bands\/a
 categories:
 - Casting Speed (Equipment)

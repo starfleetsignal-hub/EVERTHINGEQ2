@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +24,750
-effects: '**Amplifying Criticals**'
+effect_name: Amplifying Criticals
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 70%-139%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 obtained_from: Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume V]]
 item_link: \aITEM -1191860702 -437625546:Unfathomable Bone Band\/a
 categories:

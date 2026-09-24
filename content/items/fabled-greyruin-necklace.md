@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Strength in Numbers**'
+effect_name: Strength in Numbers
+effects: "- When Equipped:\n  - Increases the wearer's Attack Speed and Damage Per Second by 60 if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM 363056291 1896172154:Fabled Greyruin Necklace\/a
 categories:
 - Assassin Equipment

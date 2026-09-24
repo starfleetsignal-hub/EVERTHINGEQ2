@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Leather Armor
-effects: '**Spirit of the Wind**'
+effect_name: Spirit of the Wind
+effects: "- Applies Spirit of the Wind when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM 1441396227 1808961916:Boots of the Temptress\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   resolve: '225'
   cbovercap: '+424.4'
   dtype: Symbols
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,847 heat damage on target.\n    - Inflicts 3,847 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -233176613 364775463:Splitscar's Symbol of Fortitude\/a
 categories:
 - Census Credits

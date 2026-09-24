@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   abmod: +31,268
   dps: '52.8'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -803484771 -617159:Revolting Strand of Decay\/a
 categories:
 - Ability Modifier (Equipment)

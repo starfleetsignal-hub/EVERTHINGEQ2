@@ -23,7 +23,7 @@ stats:
   drating: '164.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: Noxious Rending
+effects: "When Equipped:\n\n- On any combat or spell hit this spell may cast Noxious Rending on target of attack. Lasts for 8.0 seconds. Triggers about 3.0 times per minute.\n  - Increases noxious damage done to target by 2.6%\n  - Inflicts 818,754 disease damage on target instantly and every second.\n  - Heals target for an additional 37,500 every tick.\n  - Cannot be modified except by direct means.\n- This item may not be used in PvP zones."
 obtained_from: 'Collection reward: [[Hammers of the Blacksmith]]'
 item_link: \aITEM -1944491788 -710928608 0 0 0:[Blacksmith's Bloodiron Sword of Rending]\/a
 image: images/Blacksmith's_Bloodiron_Sword_of_Rending.png

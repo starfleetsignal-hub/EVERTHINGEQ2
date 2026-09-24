@@ -14,7 +14,8 @@ stats:
   potency: '11.5'
   abmod: '+193'
   vselemental: +8,448
-effects: '**Glorious Rout**'
+effect_name: Glorious Rout
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Glorious Rout on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,033 - 3,707 slashing damage on target instantly and every 5 seconds.\n    - Heals caster for 1,678 - 1,855 instantly and every 5 seconds.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Glorious Rout on target of spell.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,033 - 3,707 slashing damage on target instantly and every 5 seconds.\n    - Heals caster for 1,678 - 1,855 instantly and every 5 seconds.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 356418174 -1842695342:Earring of Dissonant Cries\/a
 categories:
 - Ability Modifier (Equipment)

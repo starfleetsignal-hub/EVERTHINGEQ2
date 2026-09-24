@@ -15,7 +15,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Toxic Sting**'
+effect_name: Toxic Sting
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Toxic Sting on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 12 - 14 poison damage on target.\n    - Inflicts 2 poison damage on target every 4 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1910616586 2042557350:Slime Coated Dagger\/a
 categories:
 - Assassin Equipment

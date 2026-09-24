@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   abmod: +31,259
   multi: '73.7'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,071.9.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1314101535 -1001753818:Detestable Tiki Totem\/a
 categories:
 - AE Autoattack Chance (Equipment)

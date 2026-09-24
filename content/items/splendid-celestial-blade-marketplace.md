@@ -14,7 +14,8 @@ stats:
   drating: '6.49'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Celestial Glow**'
+effect_name: Celestial Glow
+effects: '- Applies Celestial Glow when Equipped.'
 obtained_from: Marketplace
 item_link: \aITEM -184327850 1081565783:Splendid Celestial Blade\/a
 categories:

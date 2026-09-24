@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '72'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 30 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 33) from [[Advanced Tailor Volume 33 (Normal)]] *Crafted by [[Tailor]] (level 33) from [[Advanced Tailor Volume 33 (No-Trade)]]'
 item_link: \aITEM -256577007 148591784:Imbued Cloth Vest\/a
 categories:

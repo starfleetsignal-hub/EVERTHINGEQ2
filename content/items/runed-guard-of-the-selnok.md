@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   dtype: Symbols
-effects: '**Asphyxiating Sorcery**'
+effect_name: Asphyxiating Sorcery
+effects: "- Applies Asphyxiating Sorcery when Activated.  Lasts for 30.0 seconds.\n  - Increases the chance of all procs by 25 percent.\n    - If under level 90\n  - The casting time of Asphyxiating Sorcery is 0.5 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: Sold by [[Mirg Nel'Ron]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM -1297514009 -1607929519:Runed Guard of the Sel'Nok\/a
 categories:

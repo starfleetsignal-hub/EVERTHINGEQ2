@@ -12,7 +12,8 @@ stats:
   sta: '+4'
   mit: '44'
   dtype: Leather Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 23 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Outfitter]] (level 15) from [[Advanced Outfitter Volume 15 (Normal)]] *Crafted by [[Outfitter]] (level 15) from [[Advanced Outfitter Volume 15 (No-Trade)]]'
 item_link: \aITEM 1927810093 365207865:Imbued Cured Leather Pants\/a
 categories:

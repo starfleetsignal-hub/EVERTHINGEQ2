@@ -15,7 +15,8 @@ stats:
   potency: '5'
   multi: '7.7'
   dtype: Symbols
-effects: '**Subjugative Alacrity**'
+effect_name: Subjugative Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of Subjugation-based spells by 2 percent."
 item_link: \aITEM 520208035 -1131467476:Shiny Glass Eye\/a
 categories:
 - Assassin Equipment

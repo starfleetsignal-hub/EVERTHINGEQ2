@@ -17,7 +17,8 @@ stats:
   potency: 2,633.6
   resolve: '32'
   dps: '50.8'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 150.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Vile Vestiges]]'
 item_link: \aITEM -394536685 779666865:Simple Leather Strap of Suffering\/a
 categories:

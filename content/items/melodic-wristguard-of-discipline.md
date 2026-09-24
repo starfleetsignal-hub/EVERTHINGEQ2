@@ -17,7 +17,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 3.0%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 36.0."
 obtained_from: '*Crafted by [[Armorer]] (level 90) from [[Ancient Knowledge: Melodic Wristguard of Discipline]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -630372371 1319288998:Melodic Wristguard of Discipline\/a
 categories:

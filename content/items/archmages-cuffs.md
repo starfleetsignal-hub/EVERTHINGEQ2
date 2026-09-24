@@ -16,7 +16,8 @@ stats:
   potency: '6.7'
   abmod: '+319'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 880354468 1167696191:Archmage's Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '25.2'
   dps: '28.9'
   multi: '36.7'
-effects: '**Blades of Exaction**'
+effect_name: Blades of Exaction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blades of Exaction on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 8,472 - 9,364 slashing damage on target encounter.\n    - Inflicts 912 - 1,008 slashing damage on target encounter every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1085943489 270082618:Chain of the Unseen Plane\/a
 categories:
 - Blades of Exaction (Equipment)

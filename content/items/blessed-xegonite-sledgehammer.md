@@ -19,7 +19,8 @@ stats:
   drating: '73.3'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Scintillating Blessing**'
+effect_name: Scintillating Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Scintillating Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 90\n    - Cannot be modified except by direct means"
 item_link: \aITEM -746681483 -884637769:Blessed Xegonite Sledgehammer\/a
 categories:
 - Berserker Equipment

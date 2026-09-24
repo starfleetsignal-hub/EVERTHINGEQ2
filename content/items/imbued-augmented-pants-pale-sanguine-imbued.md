@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   dtype: Leather Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 85 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1786618426 -1905265412:imbued augmented pants\/a
 categories:
 - Ability Modifier (Equipment)

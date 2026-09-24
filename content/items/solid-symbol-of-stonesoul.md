@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   mitinc: '6'
-effects: '**Stonesoul**'
+effect_name: Stonesoul
+effects: "- Applies Stonesoul II when Activated.  Lasts for 30.0 seconds.\n  - Gives caster an extra 18.0% mitigation to their worn armor.\n  - Cannot be modified except by direct means\n  - The reuse time of Stonesoul II is 1 minute 30 seconds"
 item_link: \aITEM 706106328 1778156517:Solid Symbol of Stonesoul\/a
 image: images/Solid_Symbol_of_Stonesoul.png
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '115.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Honey-Coated Chorus**'
+effect_name: Honey-Coated Chorus
+effects: "- When Equipped:\n  - Reduces the reuse time of Perfection of the Maestro and Chimes of Blades by 5 seconds."
 item_link: \aITEM 1768092546 -1646946285:Death Sonata, Blade of Eulogies\/a
 categories:
 - Assassin Equipment

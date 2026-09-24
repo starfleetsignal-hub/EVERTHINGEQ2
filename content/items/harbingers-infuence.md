@@ -18,7 +18,8 @@ stats:
   resolve: '23'
   multi: '55'
   mitinc: '10.4'
-effects: '**Essence of the Summoned**<br>**Fates Entwined**'
+effect_name: Essence of the Summoned, Fates Entwined
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones.\n- Applies Fates Entwined when Activated.  Lasts for 10.0 seconds.\n  - Applies Fates Entwined.  Lasts for 20.0 seconds.\n    - Increases all damage done to caster by 20%.\n    - Cannot be modified except by direct means\n  - Increases all damage done to target by 5%.\n  - Increases Threat to target by 1,038,665  instantly and every 2 seconds thereafter\n  - Cannot be modified except by direct means\n  - The casting time of Fates Entwined is 4.0 seconds and the reuse time of the spell is 1 minute"
 obtained_from: From [[Satchel of Saryrn]]
 item_link: \aITEM 997882718 -107103502:Harbinger's Infuence\/a
 categories:

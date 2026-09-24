@@ -15,7 +15,8 @@ stats:
   potency: '8.6'
   dps: '21.9'
   vsarcane: '+564'
-effects: '**Aegis**'
+effect_name: Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Aegis III on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 4,620 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -54649534 1487433229:Modulated Stalwart Cuff of Methodical Placement\/a
 categories:
 - Aegis (Equipment)

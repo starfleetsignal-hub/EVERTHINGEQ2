@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+133'
-effects: '**Art Mastery**'
+effect_name: Art Mastery
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Art Mastery on target of spell.  Triggers about 0.2 times per minute.\n    - Decreases Threat to target by 1,200\n    - Cannot be modified except by direct means"
 obtained_from: '[[Something Greater]]'
 item_link: \aITEM -118913921 -1312639713:Sash of the Arts\/a
 categories:

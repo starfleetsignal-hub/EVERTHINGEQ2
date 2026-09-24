@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   multi: '6.4'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Sold by [[Tragen Gorschk]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 254674969 -712725746:Razorfang Gloves\/a
 categories:

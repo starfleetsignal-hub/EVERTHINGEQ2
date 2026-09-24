@@ -17,7 +17,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Ancient Glyph of Striking**'
+effect_name: Ancient Glyph of Striking
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 124 - 207 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1905151035 583307560:Taskmasters Battle Hammer\/a
 categories:
 - Ancient Glyph of Striking (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**&quot;If you want something done right...&quot;**'
+effect_name: '&quot;If you want something done right...&quot;'
+effects: "- When Equipped:\n  - If the wearer's mercenary takes fatal damage, the caster will gain 12.5% to all attributes and grow by 15%. Lasts for 18 seconds."
 obtained_from: Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM 595418825 1798484370:Stud of Time's Expanse\/a
 image: images/Stud_of_Time's_Expanse.png

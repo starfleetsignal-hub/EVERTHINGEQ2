@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   vsarcane: '+84'
-effects: '**Shared Vigor**'
+effect_name: Shared Vigor
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shared Vigor IV on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of target by 3.5.\n    - Increases Potency of caster by 3.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 40) from [[Ancient Knowledge: Radiant Ring of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -509922558 1370553205:Radiant Ring of Impetus\/a
 categories:

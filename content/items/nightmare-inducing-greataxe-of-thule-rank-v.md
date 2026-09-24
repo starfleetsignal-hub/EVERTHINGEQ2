@@ -24,7 +24,8 @@ stats:
   drating: '5149.2'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Blessing of the Dream Scorcher**'
+effect_name: Blessing of the Dream Scorcher
+effects: "- When Equipped:\n  - \"Blessing of the Dream Scorcher\" protects the wearer from strong deific magics used by Terris-Thule!"
 obtained_from: '*Made from [[Ethereal Writings: Nightmare Inducing Greataxe of Thule]] *[[Ethereal: Nightmare Inducing Greataxe of Thule]]'
 item_link: \aITEM -1919311621 1560881637:Nightmare Inducing Greataxe of Thule [Rank V]\/a
 categories:

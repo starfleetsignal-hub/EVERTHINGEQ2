@@ -15,7 +15,8 @@ stats:
   critbonus: '6.8'
   potency: '11.2'
   abmod: '+431'
-effects: '**Major Gallant Intervention**'
+effect_name: Major Gallant Intervention
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical healing spell cast this spell may cast Major Gallant Intervention on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards target against 5,000 points of all damage\n    - Heals target for 485 - 536 instantly and every 2 seconds.\n    - Replenishes 700 points of absorption every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -922226759 512670385:Shell of Deep Meditation\/a
 categories:
 - Ability Modifier (Equipment)

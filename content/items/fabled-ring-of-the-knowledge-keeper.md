@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Feedback**'
+effect_name: Feedback
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Feedback on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 13,425 - 14,838 slashing damage on target encounter.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 5778547 -181823564:Fabled Ring of the Knowledge Keeper\/a
 categories:
 - AE Autoattack Chance (Equipment)

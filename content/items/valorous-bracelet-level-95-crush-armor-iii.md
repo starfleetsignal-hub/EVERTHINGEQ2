@@ -15,7 +15,8 @@ stats:
   aspeed: '28.2'
   dps: '20.3'
   vselemental: +5,273
-effects: '**Crush Armor**'
+effect_name: Crush Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Crush Armor III on target of attack.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 1,197.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Channeler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Defiler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Fury, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Inquisitor, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Mystic, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Templar, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warden, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -1583481090 246299760:Valorous Bracelet\/a
 categories:

@@ -8,7 +8,8 @@ level: '90'
 slot: Ear
 flags: ornate no-trade
 description: This item can be transmuted for adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 item_link: \aITEM -1498767631 -1745779379:Minor Underfoot Transmuter's Slag\/a
 image: images/Minor_Underfoot_Transmuter's_Slag.png
 categories:

@@ -16,7 +16,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   vselemental: +1,175
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -1827007935 -1189759842:Curer's Ring of the Darkwing\/a
 categories:
 - Arcane Resistance (Equipment)

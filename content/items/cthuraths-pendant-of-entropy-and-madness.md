@@ -17,7 +17,8 @@ stats:
   potency: 53,929.3
   resolve: '670'
   aspeed: '12.6'
-effects: '**Entropic Dagger**'
+effect_name: Entropic Dagger
+effects: "- When Equipped:\n  - Increases Potency of caster by 19,509.9.\n  - Increases Fervor of caster by 32.5.\n  - Increases DPS of caster by 23.2.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[The Book of Cthurath]]'
 item_link: \aITEM 168360044 -1857785154:Cthurath's Pendant of Entropy and Madness\/a
 categories:

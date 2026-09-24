@@ -23,7 +23,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Blessing of the Grand Prankster**'
+effect_name: Blessing of the Grand Prankster
+effects: "- When Equipped:\n  - \"Blessing of the Grand Prankster\" protects the wearer from strong deific magics used by Bristlebane!"
 item_link: \aITEM -501423577 1694196097:Fizzlethorpe's Baton of the Trickster [Rank III]\/a
 categories:
 - Ability Modifier (Equipment)

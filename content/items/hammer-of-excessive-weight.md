@@ -19,7 +19,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Savage Healing**'
+effect_name: Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 1,132.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1889866343 596106735:Hammer of Excessive Weight\/a
 categories:
 - Ability Doublecast (Equipment)

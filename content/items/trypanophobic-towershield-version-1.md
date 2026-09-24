@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.4'
   dtype: Tower Shield
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM 666693318 1554637130:Trypanophobic Towershield\/a
 image: images/Trypanophobic_Towershield.png
 categories:

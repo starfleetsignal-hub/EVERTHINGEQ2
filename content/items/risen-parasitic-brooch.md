@@ -13,7 +13,8 @@ stats:
   crit: '0.3'
   potency: '0.6'
   abmod: '+17'
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM -1209071755 -940764611:Risen Parasitic Brooch\/a
 categories:
 - Ability Modifier (Equipment)

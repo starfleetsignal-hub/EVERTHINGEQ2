@@ -23,7 +23,8 @@ stats:
   drating: '212.93'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,065 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 100) from [[Bloody Tooth Advanced Woodworking]]
 item_link: \aITEM -1869687516 86065230:Bloody Tooth Swingy Stick\/a
 categories:

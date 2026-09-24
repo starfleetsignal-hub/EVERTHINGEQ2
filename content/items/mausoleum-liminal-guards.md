@@ -18,7 +18,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1129861761 1347148407:Mausoleum Liminal Guards\/a
 categories:
 - Census Credits

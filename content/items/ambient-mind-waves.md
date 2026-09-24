@@ -17,7 +17,8 @@ stats:
   aspeed: '37.4'
   dps: '14.3'
   vselemental: +32,207
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 57.0."
 item_link: \aITEM -1334572148 -711608788:Ambient Mind Waves\/a
 categories:
 - Ability Modifier (Equipment)

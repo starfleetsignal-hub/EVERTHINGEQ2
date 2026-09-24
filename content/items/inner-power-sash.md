@@ -13,7 +13,8 @@ stats:
   power: '+150'
   vselemental: '+533'
   vsarcane: '+533'
-effects: '**Sorcerous Alacrity**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards or Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: -34125967 1079197820:Inner Power Sash
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   vsarcane: '+517'
   mitinc: '6'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution IX on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 5,076.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 90) from [[Ancient Knowledge: Fortified Clutch of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 1467120204 303453431:Fortified Clutch of the Mountain\/a
 categories:

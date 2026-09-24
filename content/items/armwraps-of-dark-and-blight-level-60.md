@@ -15,7 +15,8 @@ stats:
   potency: '2.5'
   abmod: '+60'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 item_link: \aITEM -1536487834 -1172230495:Armwraps of Dark and Blight\/a
 categories:
 - Ability Modifier (Equipment)

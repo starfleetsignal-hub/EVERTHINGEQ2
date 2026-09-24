@@ -16,7 +16,8 @@ stats:
   critbonus: '1'
   potency: '4.9'
   dtype: Leather Armor
-effects: '**Precise Strikes**'
+effect_name: Precise Strikes
+effects: "- Applies Precise Strikes when Activated.  Lasts for 16.0 seconds.\n  - Increases DPS of caster by 20.0.\n  - The casting time of Precise Strikes is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -1336799380 1517840873:No Man's Leather Tunic\/a
 categories:
 - Assassin Equipment

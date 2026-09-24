@@ -13,7 +13,8 @@ stats:
   sta: '+5'
   mit: '49'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Glorified Tunic of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 1690092355 136132119:Glorified Tunic of Smiting\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Silencing Blow**'
+effect_name: Silencing Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silencing Blow on target of attack.  Lasts for 4.0 seconds.  Triggers about 1.6 times per minute.\n    - Stifles target\n    - Only affects targets level 102 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 98.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 468370244 126627882:Sand Etched Platemail\/a
 categories:
 - Berserker Equipment

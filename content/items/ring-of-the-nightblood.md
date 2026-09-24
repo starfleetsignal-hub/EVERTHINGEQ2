@@ -11,7 +11,8 @@ stats:
   sta: '+11'
   agi: '+11'
   vselemental: '+75'
-effects: '**Battlement of the Mind**'
+effect_name: Battlement of the Mind
+effects: "- When Equipped:\n  - Increases Combat Power Regen of caster by 7.0."
 item_link: \aITEM 37251738 -1268852776:Ring of the Nightblood\/a
 categories:
 - Arcane Resistance (Equipment)

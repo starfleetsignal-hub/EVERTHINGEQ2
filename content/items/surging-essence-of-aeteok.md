@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   aspeed: '8.8'
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Confronting the Godslayer]]'
 item_link: \aITEM -1320112568 134268076:Surging Essence of Aeteok\/a
 categories:

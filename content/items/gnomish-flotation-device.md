@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dps: '2.2'
-effects: '**Gnomish Floatation Device**'
+effect_name: Gnomish Floatation Device
+effects: "- Applies Gnomish Floatation Device when Equipped.\n  - Allows caster to walk under water"
 obtained_from: Made with Tinkering (skill 290) from [[Experimenter's Blueprints 0.008]].
 item_link: \aITEM 834923865 445995524:Gnomish Flotation Device\/a
 categories:

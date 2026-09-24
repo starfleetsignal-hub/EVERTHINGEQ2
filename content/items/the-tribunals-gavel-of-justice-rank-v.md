@@ -23,7 +23,8 @@ stats:
   drating: '3923.2'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Blessing of the Seventh Hammer**'
+effect_name: Blessing of the Seventh Hammer
+effects: "- When Equipped:\n  - \"Blessing of the Seventh Hammer\" protects the wearer from strong deific magics used by the Tribunal!"
 obtained_from: '*Made from [[Ethereal Writings: The Tribunal''s Gavel of Justice]] *[[Ethereal: The Tribunal''s Gavel of Justice]]'
 item_link: \aITEM 383592057 1052197925:The Tribunal's Gavel of Justice [Rank V]\/a
 categories:

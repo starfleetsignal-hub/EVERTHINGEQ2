@@ -16,7 +16,8 @@ stats:
   multi: '33.6'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 2017217019 440199696 0 0 0:Lizardskin Gloves of the Warmaster\/a
 categories:
 - Block Chance (Equipment)

@@ -18,7 +18,8 @@ stats:
   abmod: +31,259
   aspeed: '66.9'
   vselemental: +66,348
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1381230865 2049662766:Malignant Clasp\/a
 categories:
 - Ability Modifier (Equipment)

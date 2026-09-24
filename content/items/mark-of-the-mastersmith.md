@@ -14,7 +14,8 @@ stats:
   critbonus: '22.8'
   potency: '22.8'
   aspeed: '31.2'
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- Applies Arcane Focus when Activated.  Lasts for 8.0 seconds.\n  - Grants 400 potency to all arcane abilities.\n  - Removes 200 potency from noxious and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Arcane Focus is 2 minutes"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Spectral Mastery]] *Made from [[Shard of Spectral Light]]'
 item_link: \aITEM -1860816799 -2032908677:Mark of the Mastersmith\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Pursuing Strike**'
+effect_name: Pursuing Strike
+effects: "- When Equipped:\n  - On a hit this spell may cast Pursuing Strike on target of attack.  Lasts for 4.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 299 - 365 poison damage on target.\n    - Caster is immune to slow effects.\n    - Makes caster immune to Root effects\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -548036373 997440846:Parting Silk\/a
 categories:
 - Assassin Equipment

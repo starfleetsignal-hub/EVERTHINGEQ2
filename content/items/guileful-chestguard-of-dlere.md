@@ -16,7 +16,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 2.0%."
 obtained_from: Reward for completing the quest [[Changing Hoods]].
 item_link: \aITEM -1105368958 -407171912:Guileful Chestguard of D'Lere\/a
 categories:

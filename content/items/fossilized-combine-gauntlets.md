@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   dtype: Plate Armor
-effects: '**Flame Pillar**'
+effect_name: Flame Pillar
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Flame Pillar on target's attacker.  Lasts for 24.0 seconds.\n    - Inflicts 83 - 139 heat damage on target.\n    - Inflicts 34 - 57 heat damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1269586969 -369780762:Fossilized Combine Gauntlets\/a
 categories:
 - Berserker Equipment

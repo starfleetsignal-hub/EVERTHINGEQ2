@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   abmod: '+68'
-effects: '**Salve of the Discordian Lords**'
+effect_name: Salve of the Discordian Lords
+effects: "- Applies Salve of the Discordian Lords  when Equipped.\n  - When any damage is received this spell has a 3% chance to cast Discordian Salve on target.\n    - Heals the target for 500\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -350931956 -309297337:Sky Slayer's Earring\/a
 categories:
 - Ability Modifier (Equipment)

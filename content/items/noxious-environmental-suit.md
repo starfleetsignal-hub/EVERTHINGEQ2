@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '83'
   dtype: Chain Armor
-effects: '**Noxious Environmental Suit**'
+effect_name: Noxious Environmental Suit
+effects: "- Applies Noxious Environmental Suit when Equipped.\n  - Converts 3% of all noxious damage received into power gain."
 obtained_from: Made with Tinkering (skill 110) from [[Apprentice Blueprints 0.011]].
 item_link: \aITEM -659563002 1604275049:Noxious Environmental Suit\/a
 categories:

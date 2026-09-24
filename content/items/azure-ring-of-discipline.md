@@ -17,7 +17,8 @@ stats:
   multi: '18.9'
   flurry: '0.8'
   vselemental: +5,940
-effects: '**Sublime Power**'
+effect_name: Sublime Power
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - Increases Multi Attack of caster by 40.0.\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 525.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of Discipline]] *Made from [[Azure Reactant]]'
 item_link: \aITEM -775352945 1954690599:Azure Ring of Discipline\/a
 categories:

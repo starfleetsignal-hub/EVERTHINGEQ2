@@ -17,7 +17,8 @@ stats:
   aspeed: '16.8'
   dps: '27.1'
   vselemental: +1,832
-effects: '**Defiant Resolve**'
+effect_name: Defiant Resolve
+effects: "- When Equipped:\n  - When the wearer takes more than 50% of their life in a single attack, they will heal for 15% of their maximum health. This can only trigger once every 6 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -9891060 330286721:Warcouncil Earrings of Defiance\/a
 categories:
 - Arcane Resistance (Equipment)

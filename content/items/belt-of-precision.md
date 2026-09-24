@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   dps: '16.6'
   multi: '10.5'
-effects: '**Pinpoint Strikes**'
+effect_name: Pinpoint Strikes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pinpoint Strikes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 9.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM 1751453086 1073120357:Belt of Precision\/a
 categories:

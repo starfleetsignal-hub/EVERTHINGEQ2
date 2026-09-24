@@ -17,7 +17,8 @@ stats:
   aspeed: '5.7'
   dps: '10.6'
   dtype: Plate Armor
-effects: '**Heal of Protective Faith**'
+effect_name: Heal of Protective Faith
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Protective Faith on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - When any damage is received this spell will cast Protective Faith on target.\n      - Heals target for 1,080 - 1,320.\n      - Grants a total of 1 trigger of the spell.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -282877506 -1063259084:Cuirass of the High Priest\/a
 categories:
 - Attack Speed (Equipment)

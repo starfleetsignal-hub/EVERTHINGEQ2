@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Inspiring Martyr**'
+effect_name: Inspiring Martyr
+effects: "- When Equipped:\n  - On death this spell has a 33% chance to cast Inspiring Martyr on the group.\n    - Heals group members for 1,064.\n    - Increases power of group members by 1,064.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -218059848 1800353902:Heart of Severilous\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   flurry: '40.2'
   mitinc: '21.9'
-effects: '**Malicious Presence**'
+effect_name: Malicious Presence
+effects: "- Applies Malicious Presence when Activated.  Lasts for 30.0 seconds.\n  - Decreases power of caster by 3.0% every 2 seconds.\n  - Decreases power of caster by an additional 3.0% every tick.\n  - Increases Max Health of caster by 10.0%.\n  - Increases Block Chance of caster by 50.0%.\n  - This effect can be toggled off.\n  - Cannot be modified except by direct means\n  - The casting time of Malicious Presence is 2.0 seconds and the reuse time of the spell is 3 minutes\n  - Requires 23 Power to cast and 23 Power every 2.0 seconds."
 item_link: \aITEM -9675007 -249149947:Hateful Wrap\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   drating: '21.28'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Strike of the Reaper**'
+effect_name: Strike of the Reaper
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Reaper Strike on target of attack.  Lasts for 1 minute 12 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 46 - 77 divine damage on target.\n    - Heals caster for 36 - 60.\n    - Decreases STR of target by 9.6.\n    - Increases STR of caster by 8.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -484445321 283459960:The Tainted Reaper\/a
 categories:
 - Beastlord Equipment

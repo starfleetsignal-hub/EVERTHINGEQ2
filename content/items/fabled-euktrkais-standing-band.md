@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Applies Fortitude Stand.  Lasts for 10.0 seconds.\n    - Inflicts 411,600 slashing damage on target.\n    - Gives caster an extra 7.2% mitigation to their worn armor.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -708362813 1364299436:Fabled Euktrkai's Standing Band\/a
 categories:
 - AE Autoattack Chance (Equipment)

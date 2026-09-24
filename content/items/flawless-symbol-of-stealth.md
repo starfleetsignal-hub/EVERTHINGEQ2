@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   aspeed: '7.6'
   multi: '8.4'
-effects: '**Flawless Aura of Stealth**'
+effect_name: Flawless Aura of Stealth
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flawless Aura of Stealth on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 poison damage on target.\n    - Increases Accuracy of caster by 2.0%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Complete the achievement [[Flawless Victory: The Shadow Odyssey]]'
 item_link: \aITEM -625928716 1415794346:Flawless Symbol of Stealth\/a
 categories:

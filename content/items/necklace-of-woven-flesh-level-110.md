@@ -17,7 +17,8 @@ stats:
   potency: 3,104.9
   resolve: '35'
   dps: '53.8'
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 9.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 911931389 1949686245:Necklace of Woven Flesh\/a
 categories:
 - Aegis of Animosity (Equipment)

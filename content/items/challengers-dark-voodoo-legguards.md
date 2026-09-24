@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+55'
   dtype: Chain Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -143775888 786011277:Challenger's Dark Voodoo Legguards\/a
 categories:
 - Ability Modifier (Equipment)

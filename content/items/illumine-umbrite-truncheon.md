@@ -21,7 +21,8 @@ stats:
   drating: '216.5'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Molten Detonation**'
+effect_name: Molten Detonation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Molten Detonation on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: '[[Rite of Growth]]'
 item_link: \aITEM -930405448 949391914:Illumine Umbrite Truncheon\/a
 image: images/Illumine_Umbrite_Truncheon.png

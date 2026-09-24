@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +9,738
-effects: '**Hero''s Vitality**'
+effect_name: Hero's Vitality
+effects: "- When Equipped:\n  - Whenever the wearer completes a solo heroic opportunity, they have a 25% chance to heal for 8,000 and gain 100 stamina for 18 seconds\n  - Cannot be modified except by direct means"
 item_link: \aITEM -362760246 1730838935:Bracelet of the Quick Harvest\/a
 categories:
 - AE Autoattack Chance (Equipment)

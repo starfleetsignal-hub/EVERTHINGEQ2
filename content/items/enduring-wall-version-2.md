@@ -16,7 +16,8 @@ stats:
   aspeed: '6'
   multi: '6.8'
   dtype: Tower Shield
-effects: '**Enduring Defense**'
+effect_name: Enduring Defense
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Enduring Defense on caster.  Lasts for 10.0 seconds.\n    - Wards caster against 525 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1677017265 -303273988:Enduring Wall\/a
 categories:
 - Attack Speed (Equipment)

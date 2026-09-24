@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '25.5'
   potency: '25.5'
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless when Activated.  Lasts for 18.0 seconds.\n  - Lasts for a maximum of three spells\n  - Increases the potency of heals and wards by 50%.\n  - Prevents caster from being Interrupted due to movement\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless is 1 minute"
 item_link: \aITEM 15823202 -131100714:Mechanoct's Friction Shield\/a
 categories:
 - Assassin Equipment

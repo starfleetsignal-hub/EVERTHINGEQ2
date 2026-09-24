@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Tailor]] (level 60) from [[Ancient Knowledge: Reinforced Gi of Rancor]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 1642644155 -1068897057:Reinforced Gi of Rancor\/a
 categories:

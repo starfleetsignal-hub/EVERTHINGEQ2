@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   dtype: Cloth Armor
-effects: '**Lesser Fallout**'
+effect_name: Lesser Fallout
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Fallout on caster.  Lasts for 12.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases DPS of targets in Area of Effect by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Hulking Profit]]'
 item_link: \aITEM -2066037980 -1751284912:Nurgan Foe-blaster's Robe\/a
 image: images/Nurgan_Foe-blaster's_Robe.jpg

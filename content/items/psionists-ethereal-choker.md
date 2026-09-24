@@ -17,7 +17,8 @@ stats:
   aspeed: '38'
   dps: '23.1'
   multi: '22.1'
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM 991438195 1118748007:Psionist's Ethereal Choker\/a
 categories:
 - Attack Speed (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 181,104 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 719777220 2102076901:Fabled Ghostly Ring of Torment\/a
 categories:
 - AE Autoattack Chance (Equipment)

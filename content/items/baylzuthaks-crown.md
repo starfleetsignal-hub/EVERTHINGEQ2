@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '70'
   dtype: Cloth Armor
-effects: '**Glyph of Strength**'
+effect_name: Glyph of Strength
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Strengthen on caster.  Lasts for 30.0 seconds.\n    - Increases STR of caster by 19.2.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Overseer Baylzuthak]], in [[Runnyeye]]'
 item_link: \aITEM 1015689352 -618196126:Baylzuthak's crown\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   vselemental: +1,349
-effects: '**Flash of Intuition**<br>**Runic Recovery**'
+effect_name: Flash of Intuition, Runic Recovery
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Flash of Intuition on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 10%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 1268173217 527949822:Ring of Hurried Mending\/a
 categories:
 - Arcane Resistance (Equipment)

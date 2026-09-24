@@ -19,7 +19,8 @@ stats:
   dps: '50.4'
   vselemental: +133,690
   mitinc: '20.8'
-effects: '**Fates Entwined**'
+effect_name: Fates Entwined
+effects: "- Applies Fates Entwined when Activated.  Lasts for 10.0 seconds.\n  - Applies Fates Entwined.  Lasts for 20.0 seconds.\n    - Increases all damage done to caster by 20%.\n    - Cannot be modified except by direct means\n  - Increases all damage done to target by 3.6%.\n  - Increases Threat to target by 1,058,664  instantly and every 2 seconds thereafter\n  - Cannot be modified except by direct means\n  - The casting time of Fates Entwined is 4.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 111) from [[Advanced Jeweler Studies 11]]
 item_link: \aITEM 863181198 1776043116:Voidpiercer's Charm of Spirit\/a
 categories:

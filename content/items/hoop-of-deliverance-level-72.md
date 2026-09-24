@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+80'
   vselemental: '+360'
-effects: '**Lesser Replenishing Heal**'
+effect_name: Lesser Replenishing Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Replenishing Heal on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 1.2 times per minute.\n    - Increases power of target by 29 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Reet Seeking]]'
 item_link: \aITEM -2042414365 1017436204:Hoop of Deliverance\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   vselemental: '+511'
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 673806230 1045269474:Bracelet of Pustules\/a
 categories:
 - Ability Modifier (Equipment)

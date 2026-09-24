@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**The Plaguebringer''s Aura**'
+effect_name: The Plaguebringer's Aura
+effects: "- When Equipped:\n  - Can sometimes prevent the untimely death of the wearer."
 obtained_from: '[[The Plaguebringer Cometh]]'
 item_link: \aITEM 1198286251 -258740343:Cloak of Pestilence\/a
 categories:

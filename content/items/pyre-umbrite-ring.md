@@ -17,7 +17,8 @@ stats:
   aspeed: '34.4'
   dps: '13.2'
   vselemental: +28,612
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 obtained_from: '*[[Can You Picture That?]] *[[Ooze Cruise]]'
 item_link: \aITEM 72880257 -677328835:Pyre Umbrite Ring\/a
 image: images/Pyre_Umbrite_Ring.png

@@ -21,7 +21,8 @@ stats:
   drating: '67.31'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Silencing Blow**'
+effect_name: Silencing Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silencing Blow on target of attack.  Lasts for 4.0 seconds.  Triggers about 1.6 times per minute.\n    - Stifles target\n    - Only affects targets level 102 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 91.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 685618329 471823611:Tonguecutter\/a
 categories:
 - Ability Modifier (Equipment)

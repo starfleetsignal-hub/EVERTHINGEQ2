@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   multi: '10'
-effects: '**Furious Blows**'
+effect_name: Furious Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 7.0.\n    - Increases Multi Attack of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 137947316 -1789393461:Cloak of the Scalekeeper\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vselemental: '+360'
-effects: '**Lesser Maniacal Infusion**'
+effect_name: Lesser Maniacal Infusion
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Maniacal Infusion on the group.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 150.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 obtained_from: '[[Reet Seeking]]'
 item_link: \aITEM -66195560 1797031921:Ry'zilk's Battlemage Hoop\/a
 image: images/Ry'zilk's_Battlemage_Hoop.png

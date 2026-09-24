@@ -17,7 +17,8 @@ stats:
   aspeed: '2.9'
   flurry: '1.7'
   dtype: Chain Armor
-effects: '**Sap of Veracity**'
+effect_name: Sap of Veracity
+effects: "- When Equipped:\n  - On a kill this spell has a 10% chance to cast Sap of Veracity on caster.\n    - Heals caster for 196.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1367102243 595290972:Hardshell Bracers\/a
 categories:
 - Assassin Equipment

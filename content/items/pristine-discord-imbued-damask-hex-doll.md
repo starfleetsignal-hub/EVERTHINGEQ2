@@ -13,7 +13,8 @@ stats:
   crit: '0.7'
   critbonus: '0.2'
   potency: '1.2'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 47.0.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 76) from [[Tailor Essentials Volume 76 (Normal)]] *Crafted by [[Tailor]] (level 76) from [[Tailor Essentials Volume 76 (no-trade)]]'
 item_link: \aITEM 1156262872 735821875:pristine discord imbued damask hex doll\/a
 image: images/Pristine_discord_imbued_damask_hex_doll.jpg

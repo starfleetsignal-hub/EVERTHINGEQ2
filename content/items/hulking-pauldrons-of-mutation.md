@@ -18,7 +18,8 @@ stats:
   dps: '18.8'
   mitinc: '7.6'
   dtype: Plate Armor
-effects: '**Courageous Charge**'
+effect_name: Courageous Charge
+effects: "- When Equipped:\n  - On a hostile spell hit this spell has a 33% chance to cast Courageous Charge on target of spell.\n    - Inflicts 2,648 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell has a 33% chance to cast Courageous Charge on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 2,648 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1402230978 -343007034:Hulking Pauldrons of Mutation\/a
 aliases:
 - Voidshell Pauldrons of Mutation

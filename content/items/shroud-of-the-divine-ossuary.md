@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   abmod: +4902,923
-effects: '**Axial Extremity**'
+effect_name: Axial Extremity
+effects: "- When Equipped:\n  - The effects of Axial Extremity will improve as you complete stages of the achievement Osseus Fang: Axial Extremity.\n  - Increases Potency of caster by 580.7.\n  - Increases Fervor of caster by 5.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -102050923 -2051189395:Shroud of the Divine Ossuary\/a
 categories:
 - Ability Modifier (Equipment)

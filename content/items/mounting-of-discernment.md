@@ -17,7 +17,8 @@ stats:
   aspeed: '20.9'
   vselemental: +2,079
   mitinc: '13.9'
-effects: '**Harrowing Mien**'
+effect_name: Harrowing Mien
+effects: "- When Equipped:\n  - Increases DPS of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1678099 -856713681:Mounting of Discernment\/a
 categories:
 - Ability Modifier (Equipment)

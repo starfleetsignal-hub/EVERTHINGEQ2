@@ -16,7 +16,8 @@ stats:
   critbonus: '270.8'
   potency: 6,352.9
   resolve: '155'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1059418377 1586090385:Memories of Before\/a
 categories:
 - AE Autoattack Chance (Equipment)

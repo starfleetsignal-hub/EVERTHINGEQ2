@@ -15,7 +15,8 @@ stats:
   potency: '9.5'
   dps: '21'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 563403209 -283862083 0 0 0:Boneblessed Antediluvian Gauntlets\/a
 categories:
 - Census Credits

@@ -16,7 +16,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   multi: '21.6'
-effects: '**Sacred Knight**'
+effect_name: Sacred Knight
+effects: "- Applies Sacred Knight when Activated.  Lasts for 16.0 seconds.\n  - When the paladin takes damage, they will heal themselves for 110% of the damage amount.\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The casting time of Sacred Knight is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -1408685829 760977469:Paladin's Banner of War\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 222.\n    - Increases power of caster by 131.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Hold on to the Phylactery]]'
 item_link: \aITEM 1048546961 -192112707:Slythe's Vestment of Trickery\/a
 categories:

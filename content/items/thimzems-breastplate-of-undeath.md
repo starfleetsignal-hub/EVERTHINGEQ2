@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '196'
   dtype: Plate Armor
-effects: '**Vengeance of the Dead**'
+effect_name: Vengeance of the Dead
+effects: "- Applies Vengeance of the Dead when Activated.  Lasts for 30.0 seconds.\n  - Shapechanges caster into a zombie\n  - Decreases power of caster by 128 every 3 seconds.\n  - Increases DPS of caster by 40.0.\n  - The casting time of Vengeance of the Dead is 2.0 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM -10962359 -33827962:Thimzem's Breastplate of Undeath\/a
 categories:
 - Berserker Equipment

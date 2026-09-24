@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- Applies Detonation III when Activated.\n  - Inflicts 633,600 heat damage on targets in Area of Effect.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Detonation III is 30.0 seconds"
 item_link: \aITEM 1025640899 1352702661:Chalice of Harmful Lineage\/a
 image: images/Chalice_of_Harmful_Lineage.png
 categories:

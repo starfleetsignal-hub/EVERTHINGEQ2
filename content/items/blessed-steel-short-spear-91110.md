@@ -16,7 +16,7 @@ stats:
   drating: '20.9'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: Sparkling Blessing
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to cast Sparkling Blessing on target of spell cast. Lasts for 12.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases the damage and healing amount of caster's spell by 20"
 obtained_from: Crafted by [[Weaponsmith]] (level 22) from [[Advanced Weaponsmith Volume 22]]
 categories:
 - Assassin Equipment

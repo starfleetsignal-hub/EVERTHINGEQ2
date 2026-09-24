@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Winter Pulse**'
+effect_name: Winter Pulse
+effects: "- When Equipped:\n  - Increases cold damage done by spells by up to 100.\n  - Increases magic damage done by spells by up to 100."
 item_link: \aITEM 1096031755 204707784:Jagged Scimitar of the Scale\/a
 categories:
 - Assassin Equipment

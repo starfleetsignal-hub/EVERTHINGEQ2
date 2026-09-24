@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   abmod: '+11'
   dtype: Plate Armor
-effects: '**Glyph of Enlightenment**'
+effect_name: Glyph of Enlightenment
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 18.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1093498921 675710582:Ancient Ancestral Gloves\/a
 categories:
 - Ability Modifier (Equipment)

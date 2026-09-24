@@ -16,7 +16,8 @@ stats:
   aspeed: '6'
   multi: '6.8'
   vselemental: '+360'
-effects: '**Share Pain**'
+effect_name: Share Pain
+effects: "- Applies Share Pain on target Friend when Activated.\n  - 100% chance to intercept all damage on target.On a successful intercept caster takes 5.0% of attack damage, target takes 95.0% of attack damage.\n  - Mortal Coil must be equipped to maintain Share Pain\n  - The casting time of Share Pain is 0.5 seconds"
 obtained_from: '[[The Black Heart of Hatred]]'
 item_link: \aITEM 1062026393 -165670888:Mortal Coil\/a
 categories:

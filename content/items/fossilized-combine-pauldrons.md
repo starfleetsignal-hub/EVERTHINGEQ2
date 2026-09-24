@@ -13,7 +13,8 @@ stats:
   mit: '272'
   potency: '0.2'
   dtype: Plate Armor
-effects: '**Fright**'
+effect_name: Fright
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Fright on target's attacker.  Lasts for 6.0 seconds.\n    - Makes target afraid\n    - 25% chance to dispel when target takes damage\n    - 25% chance to dispel when target receives hostile action\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 286402445 16830838:Fossilized Combine Pauldrons\/a
 categories:
 - Berserker Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '2'
   abmod: '+48'
   dtype: Plate Armor
-effects: '**Strife of the Codex**'
+effect_name: Strife of the Codex
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 7% chance to cast Strife of the Codex on target of combat art.\n    - Increases Threat to target by 525\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1068573041 -1348128871:Greaves of the Codex\/a
 categories:
 - Ability Modifier (Equipment)

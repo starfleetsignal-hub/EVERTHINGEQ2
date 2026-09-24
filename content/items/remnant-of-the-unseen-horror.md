@@ -18,7 +18,8 @@ stats:
   potency: 51,480
   resolve: '650'
   abmod: +4902,923
-effects: '**Unseen Advantage**'
+effect_name: Unseen Advantage
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 15.0.\n  - Increases Crit Bonus of caster by 500.0.\n  - Increases Potency of caster by 3,000.0.\n  - This effect can only take effect within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2045174998 -1525087054:Remnant of the Unseen Horror\/a
 categories:
 - Ability Modifier (Equipment)

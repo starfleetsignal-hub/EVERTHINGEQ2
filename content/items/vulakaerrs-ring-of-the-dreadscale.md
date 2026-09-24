@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +11,880
-effects: '**Dreadfang**'
+effect_name: Dreadfang
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dreadfang on caster.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - When a combat art is used this spell will cast Dreadfang on target of combat art.  Lasts for 10.0 seconds.\n      - Inflicts 205,800 poison damage on target.\n      - Increases Crit Bonus of caster by 24.0.\n      - Cannot be modified except by direct means\n    - Applies 3 increments when triggered, up to a maximum increment count of 9. Using a Combat Art will consume an increment.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 865812828 -1760262274:Vulak'Aerr's Ring of the Dreadscale\/a
 aliases:
 - Vulak'Aerr's Ring of the Dreadscale (1 Gem)

@@ -17,7 +17,8 @@ stats:
   multi: '85.6'
   flurry: '0.5'
   mitinc: '2.5'
-effects: '**Dragonheart**'
+effect_name: Dragonheart
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,371.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 3452744 547658143 0 0 0:Ball of Static Onslaught\/a
 categories:
 - Berserker Equipment

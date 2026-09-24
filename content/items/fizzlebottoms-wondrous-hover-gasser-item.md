@@ -11,7 +11,7 @@ stats:
   charges: 1/1
   casting: 10.0 seconds
   recast: 10 minutes
-effects: Dihydrogen Monoxide Fuel
+effects: "- Applies **Dihydrogen Monoxide Fuel** when activated.\n  - Summons 1 [[Overclocked Gnomish Hovering Device]]\n  - Heals caster for 15-45% of max health"
 obtained_from: Made with Tinkering (skill 315) from [[Fizzlebottom's Wondrous Hover-gasser (Recipe)]].
 item_link: 1310911324 -1387337132:Fizzlebottom's Wondrous Hover-gasser
 categories:

@@ -15,7 +15,8 @@ stats:
   drating: '114.24'
   dtype: One-Handed Crushing
   wtype: Heavyarmoring
-effects: '**Artisan''s Escape**'
+effect_name: Artisan's Escape
+effects: "- Applies Artisan's Escape when Activated.\n  - Teleports caster within the zone\n    - Must not be engaged in combat\n    - Must not be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The casting time of Artisan's Escape is 5.0 seconds and the reuse time of the spell is 20 minutes"
 obtained_from: '[[Shadows of the Betrayed]]'
 item_link: \aITEM 1537645855 -1602250005:Kaltuk's Armoring Tongs\/a
 categories:

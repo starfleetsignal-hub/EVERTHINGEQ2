@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   mitinc: '6.3'
   dtype: Plate Armor
-effects: '**Scouring Sands**'
+effect_name: Scouring Sands
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Scouring Sands on target of attack.  Triggers about 1.6 times per minute.\n    - Increases Threat to target by 2,915\n    - Inflicts 1,296 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 8% chance to cast Scouring Sands on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 2,915\n    - Inflicts 1,296 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1791378490 -1220420389:Faded Steel Gauntlets of Tireless Delving\/a
 categories:
 - Berserker Equipment

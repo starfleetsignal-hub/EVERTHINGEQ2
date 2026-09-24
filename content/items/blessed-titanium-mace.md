@@ -19,7 +19,8 @@ stats:
   drating: '79.51'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Ethereal Blessing**'
+effect_name: Ethereal Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Ethereal Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 125\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 85) from [[Weaponsmith Essentials Volume 85]]
 item_link: \aITEM 925824671 -1700815821:Blessed Titanium Mace\/a
 categories:

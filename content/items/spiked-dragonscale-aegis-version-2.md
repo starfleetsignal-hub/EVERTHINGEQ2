@@ -15,7 +15,8 @@ stats:
   potency: '2'
   dps: '6.8'
   dtype: Tower Shield
-effects: '**Aegis of Impalement**'
+effect_name: Aegis of Impalement
+effects: "- Applies Aegis of Impalement when Activated.  Lasts for 10 minutes.\n  - Increases Combat Power Regen of caster by 3.0.\n  - When damaged with a melee weapon this spell will cast Aegis of Impalement on target's attacker.\n    - Inflicts 4 magic damage on target.\n    - Cannot be modified except by direct means\n  - The casting time of Aegis of Impalement is 6.0 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM -2058872698 -880092110:Spiked Dragonscale Aegis\/a
 categories:
 - Aegis of Impalement (Equipment)

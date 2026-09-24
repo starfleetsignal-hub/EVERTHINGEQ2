@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: '+511'
-effects: '**Critical Vigor**'
+effect_name: Critical Vigor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Critical Vigor on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 4.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1166264841 1500584853:Shackle of the Annihilator\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1752755474 2002535522:Prexian Idol of Storms and Rage\/a
 categories:
 - Assassin Equipment

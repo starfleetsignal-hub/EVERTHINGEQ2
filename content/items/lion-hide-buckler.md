@@ -20,7 +20,8 @@ stats:
   cbovercap: '+96.9'
   mitinc: '38.9'
   dtype: Buckler
-effects: '**Equalize**'
+effect_name: Equalize
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,667 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 item_link: \aITEM 1409469291 -1895775085:Lion Hide Buckler\/a
 categories:
 - Assassin Equipment

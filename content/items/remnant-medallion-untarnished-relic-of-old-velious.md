@@ -17,7 +17,8 @@ stats:
   critbonus: 1,326
   potency: 42,335.6
   resolve: '515'
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Increases Crit Bonus Overcap of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 498686855 1973221292:Remnant Medallion, Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Chaos**'
+effect_name: Chaos
+effects: "- Applies Chaos III when Activated.  Lasts for 20.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 2.2 - 41.8.\n  - Cannot be modified except by direct means\n  - The reuse time of Chaos III is 1 minute 30 seconds"
 item_link: \aITEM -1441116176 -1671564700:Tome of Chaotic Derangement\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Plate Armor
-effects: '**Rockiron Nerves**'
+effect_name: Rockiron Nerves
+effects: "- When Equipped:\n  - Reduces physical damage done to target by 5%."
 item_link: \aITEM -1366489179 1488013043 0 0 0:Ether Champion's Breastplate\/a
 categories:
 - Ability Modifier (Equipment)

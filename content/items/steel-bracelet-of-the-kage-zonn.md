@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   flurry: '4.5'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1230434258 113749334:Steel Bracelet of the Kage-Zonn\/a
 categories:
 - Ability Modifier (Equipment)

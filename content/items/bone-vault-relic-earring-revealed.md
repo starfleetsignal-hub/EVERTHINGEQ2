@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Crit Bonus of caster by 2,281.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2001246688 1117702186:Bone Vault Relic Earring, Revealed\/a
 categories:
 - Arcane Resistance (Equipment)

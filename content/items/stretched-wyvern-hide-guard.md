@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   dps: '12'
   dtype: Tower Shield
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -989887685 -188503680:Stretched Wyvern Hide Guard\/a
 categories:
 - Berserker Equipment

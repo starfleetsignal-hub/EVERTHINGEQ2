@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '56'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 0.3%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 4.0."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Melodic Wristguard of Execution]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1154174379 2143614524:Melodic Wristguard of Execution\/a
 categories:

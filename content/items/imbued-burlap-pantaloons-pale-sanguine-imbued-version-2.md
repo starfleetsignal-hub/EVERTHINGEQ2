@@ -12,7 +12,8 @@ stats:
   agi: '+3'
   mit: '22'
   dtype: Cloth Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 12 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 804622257 -813681835:imbued burlap pantaloons\/a
 categories:
 - Assassin Equipment

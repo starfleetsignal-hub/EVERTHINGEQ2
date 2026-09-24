@@ -14,7 +14,7 @@ stats:
   crit: '2'
   vsarcane: '+533'
   vsnoxious: '+533'
-effects: Summoned Vengeance I<br>Quicksilver Blood III
+effects: "- When Equipped:\n  - Increase pet spell and combat art damage by 25, and weapon/casting skills by 5.\n- When Equipped:\n  - Increases pet Spell and Combat Art damage by up to 25, and reduces reuse times by 3%"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM 1103343080 -272856597:Netherplane Bangle\/a
 categories:

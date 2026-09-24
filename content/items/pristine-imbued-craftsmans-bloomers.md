@@ -14,7 +14,7 @@ stats:
   mit: '68'
   vsnoxious: '+67'
   dtype: Cloth Armor
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 112 heat damage on target"
 obtained_from: Crafted by [[Tailor]] (level 47) from [[Tailor Essentials Volume 47]]
 removed_from_game: Recipe removed with [[LU48]]
 categories:

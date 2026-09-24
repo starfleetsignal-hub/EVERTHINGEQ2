@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Chain Armor
-effects: '**Hollow Aria**'
+effect_name: Hollow Aria
+effects: "- When Equipped:\n  - Adds an additional trigger chance increase to Cacophony of Blades II and Perfection of the Maestro II."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 997015166 1181129653 0 0 0:Lyrical Chain Hauberk\/a
 categories:

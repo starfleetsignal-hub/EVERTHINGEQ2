@@ -11,7 +11,7 @@ stats:
   int: '+6'
   health: '+5'
   power: '+5'
-effects: Aura of Intelligence
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cast Flash of Intelligence on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases INT of caster by 5.1\n    - Increases Focus, Subjugation and Disruption of caster by 3.3"
 obtained_from: Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16]]
 item_link: \aITEM 340706488 -353855516:Pristine Imbued Coral Ring of Intelligence\/a
 categories:

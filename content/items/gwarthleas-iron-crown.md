@@ -17,7 +17,8 @@ stats:
   aspeed: '9.3'
   dps: '15.9'
   dtype: Plate Armor
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 913583693 1938087964:Gwarthlea's Iron Crown\/a
 categories:
 - Attack Speed (Equipment)

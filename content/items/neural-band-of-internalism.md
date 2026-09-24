@@ -16,7 +16,9 @@ stats:
   abmod: '+381'
   dps: '26.3'
   vselemental: +1,728
-effects: '**Repugnant Cloud**'
+effect_name: Repugnant Cloud
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical spell hit this spell may cast Repugnant Cloud III on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 757 - 837 disease damage on target instantly and every 2 seconds.\n    - Decreases Parry of target by 15.0.\n    - Decreases Defense of target by 5.0.\n    - Decreases Mitigation of target vs physical damage by 480.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Repugnant Cloud III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 757 - 837 disease damage on target instantly and every 2 seconds.\n    - Decreases Parry of target by 15.0.\n    - Decreases Defense of target by 5.0.\n    - Decreases Mitigation of target vs physical damage by 480.\n    - Must not be engaged in pvp combat\n    - Cannot\
+  \ be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -681569903 -1521907221:Neural Band of Internalism\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Light Strike**'
+effect_name: Light Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Light Strike on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 52 - 70 divine damage on target.\n    - Inflicts 129 - 175 divine damage on target every 12 seconds.\n      - If target is undead\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1052741090 1852177323:Scimitar of Murder\/a
 categories:
 - Assassin Equipment

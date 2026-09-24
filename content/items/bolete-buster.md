@@ -24,7 +24,8 @@ stats:
   drating: '1915.2'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 20,490 crushing damage on target.\n    - Increases Crit Bonus of caster by 43.1.\n    - Increases Potency of caster by 67.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -830573380 523510881:Bolete Buster\/a
 categories:
 - Beastlord Equipment

@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Protecting Hand of the Divine**'
+effect_name: Protecting Hand of the Divine
+effects: "- When Equipped:\n  - When the wearer drops below 1% health, they have a 25% chance to cast Escape on themselves."
 obtained_from: Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM 142970312 -312964448:Bracelet of the Waning Epoch\/a
 image: images/Bracelet_of_the_Waning_Epoch.png

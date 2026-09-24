@@ -9,7 +9,8 @@ slot: Cloak
 flags: lore-equip attunable heirloom no-value
 stats:
   str: '+52'
-effects: '**Battlefield Fortitude**'
+effect_name: Battlefield Fortitude
+effects: "- When Equipped:\n  - Increases Mitigation of caster vs physical damage by 326.\n  - Must be engaged in pvp combat"
 item_link: \aITEM 177302147 204210601:Discord's Enforcer's Cloak\/a
 categories:
 - AE Autoattack Chance (Equipment)

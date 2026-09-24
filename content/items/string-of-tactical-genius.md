@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   multi: '31.2'
-effects: '**Tactical Genius**'
+effect_name: Tactical Genius
+effects: "- When Equipped:\n  - When the wearer's group completes a multi-class heroic opportunity, the wearer will gain 18% Crit Bonus for 30 seconds. Increments up to 3 times.\n  - When the other groups in the wearer's raid complete a multi-class heroic opportunity, the wearer will gain 18% Crit Bonus for 30 seconds. Increments up to 6 times.\n  - The amount of increments gained is based on the amount of classes who participated in the heroic opportunity."
 obtained_from: From [[Glowing Ethertouched Necklace]]
 item_link: \aITEM -25552907 -233720255:String of Tactical Genius\/a
 categories:

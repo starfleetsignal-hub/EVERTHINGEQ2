@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vselemental: '+479'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -484298684 1816982631:Tiriini's Ring of Calling\/a
 categories:
 - Ability Modifier (Equipment)

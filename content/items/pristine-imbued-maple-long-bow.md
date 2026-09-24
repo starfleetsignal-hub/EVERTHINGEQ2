@@ -14,7 +14,7 @@ stats:
   drating: '8.5'
   range: 2 - 35
   wtype: Bow
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.7 times per minute.\n    - Inflicts 33 - 61 magic damage on target"
 obtained_from: Crafted by [[Craftsman]] (level 16) from [[Craftsman essentials volume 16]]
 item_link: \aITEM -1771531081 948104653:Pristine Imbued Maple Long Bow\/a
 removed_from_game: Removed during a tradeskill revamp, now [[Imbued maple longbow]]

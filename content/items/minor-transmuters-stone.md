@@ -8,7 +8,8 @@ level: '90'
 slot: Ear
 flags: ornate no-trade
 description: This item can be transmuted for basic adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 obtained_from: '*Looted from a [[Thrumming Cache]] or [[Resonating Cache]] after completing [[Echoes of the Ring War]] *From [[Transmuter''s Cache]] *2x From [[Greater Transmuter''s Cache]] *2x From [[Small Transmuter''s Cache]] *3x From [[Transmuter''s Hoard]] *4x From [[Greater Transmuter''s Hoard]]'
 item_link: \aITEM -1539979868 -1114601681:Minor Transmuter's Stone\/a
 image: images/Minor_Transmuter's_Stone.png

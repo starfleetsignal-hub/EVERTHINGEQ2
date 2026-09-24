@@ -24,7 +24,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,259 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 110) from [[Tailor''s Primer Volume 03]] *Crafted by [[Weaponsmith]] (level 110) from [[Weaponsmith''s Primer Volume 03]]'
 item_link: \aITEM -186038497 578662143:Student's Satchel of Ruin\/a
 categories:

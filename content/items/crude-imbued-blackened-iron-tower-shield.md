@@ -11,7 +11,8 @@ stats:
   str: '+4'
   sta: '+4'
   dtype: Tower Shield
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 9 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1558680572 1955724823:Crude Imbued Blackened Iron Tower Shield\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Tower Shield
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 1252801552 235296341:Interdimensional Guard\/a
 categories:
 - Berserker Equipment

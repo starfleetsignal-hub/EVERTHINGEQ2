@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   dtype: Plate Armor
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Lethargy on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases Haste of target by 10.5 - 17.5.\n    - Only affects targets level 60 and below\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2134600552 -710304776:Vanguard Vambraces of Might\/a
 categories:
 - Ability Modifier (Equipment)

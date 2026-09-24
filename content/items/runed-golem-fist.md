@@ -20,7 +20,8 @@ stats:
   drating: '91.29'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Lesser Healing Wave**'
+effect_name: Lesser Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on caster.  Triggers about 1.2 times per minute.\n    - Heals group members for 122.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sprockbok''s Requisition]]'
 item_link: \aITEM -485782613 -1236737403:Runed Golem-fist\/a
 categories:

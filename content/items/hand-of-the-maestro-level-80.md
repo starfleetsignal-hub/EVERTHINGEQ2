@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   aspeed: '6'
   dtype: Symbols
-effects: '**Abyssal Chorus**'
+effect_name: Abyssal Chorus
+effects: "- When Equipped:\n  - Increases casting speed of all spells by 5 percent.\n  - Reduces reuse time of all songs by 5 percent."
 item_link: \aITEM -1052334673 1816418142:Hand of the Maestro\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -17,7 +17,8 @@ stats:
   resolve: '29'
   vselemental: +63,224
   mitinc: '17'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 150.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2067149050 -2035516137:Armlet of Avarice\/a
 categories:
 - Arcane Resistance (Equipment)

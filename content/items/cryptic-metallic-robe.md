@@ -16,7 +16,8 @@ stats:
   abmod: '+19'
   multi: '1.6'
   dtype: Cloth Armor
-effects: '**Slip**<br>**Baffle**'
+effect_name: Slip, Baffle
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Slip on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a combat hit this spell may cast Baffle on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 1,800 - 3,000\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1283227359 683844192:Cryptic Metallic Robe\/a
 categories:
 - Ability Modifier (Equipment)

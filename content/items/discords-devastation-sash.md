@@ -11,7 +11,8 @@ stats:
   sta: '+57'
   int: '+67'
   abmod: '+105'
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1647177310 -1291852099:Discord's Devastation Sash\/a
 categories:
 - Ability Modifier (Equipment)

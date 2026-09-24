@@ -8,7 +8,8 @@ level: '40'
 slot: Charm
 classes: '[[Weaponsmith]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 190) from [[Dabbler's Blueprints 0.008]].
 item_link: \aITEM -298739212 -654311587:Automated Honing Stone\/a
 image: images/Automated_Honing_Stone.png

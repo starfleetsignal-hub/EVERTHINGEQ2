@@ -8,7 +8,8 @@ flags: no-trade no-value
 description: An ancient instrument, attributed to a wizard named Vilissia, that was designed to give the wearer a keener view of the Shadowed Men's spells and attacks.
 stats:
   dtype: Cloth Armor
-effects: '**Acumen Occultation**'
+effect_name: Acumen Occultation
+effects: "- Applies Acumen Occultation when Equipped.\n  - Grants Acumen Ocultation to caster"
 obtained_from: Required by the quest [[Storms of Mystery]]
 item_link: \aITEM -1190671776 675360461:Acumen Occultation Instrument\/a
 image: images/Acumen_Occultation_Instrument.jpg

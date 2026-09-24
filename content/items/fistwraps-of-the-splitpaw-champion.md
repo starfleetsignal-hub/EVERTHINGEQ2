@@ -19,7 +19,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Flank**'
+effect_name: Flank
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flank on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 10 - 17 (based on equipped weapon) melee damage on target\n    - Must be flanking\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2049511113 -1981486627:Fistwraps of the Splitpaw Champion\/a
 categories:
 - Ability Modifier (Equipment)

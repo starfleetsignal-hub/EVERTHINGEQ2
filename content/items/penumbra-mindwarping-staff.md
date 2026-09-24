@@ -22,7 +22,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blackanvil Smash**'
+effect_name: Blackanvil Smash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Smash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1952009120 321696542:Penumbra Mindwarping Staff\/a
 categories:
 - Beastlord Equipment

@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '83'
   dtype: Chain Armor
-effects: '**Arcane Environmental Suit**'
+effect_name: Arcane Environmental Suit
+effects: "- Applies Arcane Environmental Suit when Equipped.\n  - Converts 3% of all arcane damage received into power gain."
 obtained_from: Made with Tinkering (skill 130) from [[Dabbler's Blueprints 0.002]].
 item_link: \aITEM -1885313599 472477248:Arcane Environmental Suit\/a
 categories:

@@ -18,7 +18,7 @@ stats:
   vselemental: +10,148
   vsarcane: +10,148
   vsnoxious: +10,148
-effects: Aspect of the Dragon
+effects: "- When equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon on a target of attack. Triggers about 2.0 times per minute.\n    - Inflicts 202,846 heat damage on targets in Area of Effect.\n    - This effect can hurt allies.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Fallen of Falinpol]]'
 categories:
 - Ability Modifier (Equipment)

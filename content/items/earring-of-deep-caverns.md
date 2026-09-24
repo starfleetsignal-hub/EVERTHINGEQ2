@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   aspeed: '11.2'
   vselemental: '+511'
-effects: '**Resonating Geode**<br>**Master''s Call**'
+effect_name: Resonating Geode, Master's Call
+effects: "- When Equipped:\n  - On a hostile spell cast this spell has a 4% chance to cast Resonating Geode on caster.\n    - Summon 1 Resonating Geode\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a hostile spell cast this spell may cast Master's Call on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by 15%\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1222854262 -735367802:Earring of Deep Caverns\/a
 categories:
 - Arcane Resistance (Equipment)

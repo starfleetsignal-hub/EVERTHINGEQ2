@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+137'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -34125967 1079197820 0 0 0:Inner Power Sash\/a
 categories:

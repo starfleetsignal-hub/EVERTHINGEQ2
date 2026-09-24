@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   vsarcane: '+84'
-effects: '**Call of the Prime**'
+effect_name: Call of the Prime
+effects: "- Applies Call of the Prime IV when Activated.  Lasts for 12.0 seconds.\n  - Applies Prime Focus IV on termination.  Lasts for 15.0 seconds.\n    - Increases Potency of group members (AE) by 3.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Effectiveness of heals and wards by 15%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Call of the Prime IV is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 40) from [[Ancient Knowledge: Radiant Earring of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -1309834737 342400390:Radiant Earring of Impetus\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '28.2'
   resolve: '6'
   dps: '29'
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 28.0%."
 item_link: \aITEM -712672968 -1876038079:Ancient Malduran Gorget\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Growing Power**'
+effect_name: Growing Power
+effects: "- Applies Growing Power when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 100.0.\n  - Increases Potency of caster by an additional 2% every 2 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Power is 2 minutes"
 item_link: \aITEM -119642927 452737884:Fabled Awakened Effigy of Vyemm's Power\/a
 categories:
 - Ability Modifier (Equipment)

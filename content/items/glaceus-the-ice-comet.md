@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Symbols
-effects: '**Ice Meteorite**'
+effect_name: Ice Meteorite
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Ice Meteorite on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 756 - 1,404 cold damage on target.\n    - Decreases Mitigation of target vs elemental damage by 800.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1124854224 -263555851:Glaceus, the Ice Comet\/a
 categories:
 - Ability Modifier (Equipment)

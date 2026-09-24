@@ -21,7 +21,8 @@ stats:
   drating: '166.82'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 5 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Sold by [[Numahiid]] (Token Trader) in [[The Stonebrunt Highlands]] in [[Moonfield Hamlet (POI)|Moonfield Hamlet]]'
 item_link: \aITEM -1740577143 -1572470140:Shadowfire Greatstaff\/a
 categories:

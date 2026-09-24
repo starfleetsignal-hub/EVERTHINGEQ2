@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +11,731
-effects: '**Amplifying Power**'
+effect_name: Amplifying Power
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 38.5%-75.3%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 595187252 1452762393:Signet of Amplification\/a
 categories:
 - Ability Modifier (Equipment)

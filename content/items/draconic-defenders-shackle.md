@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   vselemental: '+576'
-effects: '**Dread Siphon**'
+effect_name: Dread Siphon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dread Siphon on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 257 - 284 disease damage on target instantly and every 2 seconds.\n    - Heals caster for 420 - 464 instantly and every 2 seconds.\n    - Gives caster an extra 3.0% mitigation to their worn armor.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Draconic Defender''s Shackle]] *Made from [[A Bloody Drakota Eye]] *Made from [[Bone Golem Shards]] *Made from [[Dragon Hide]]'
 item_link: \aITEM 1987768967 -1616078584:Draconic Defender's Shackle\/a
 categories:

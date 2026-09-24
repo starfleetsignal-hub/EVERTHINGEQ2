@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**The Bell Tolls**'
+effect_name: The Bell Tolls
+effects: "- Applies The Bell Tolls V when Activated.  Lasts for 12.0 seconds.\n  - On any combat or spell hit this spell will cast The Bell Tolls V on target of attack.\n    - Inflicts 420, 000 magic damage on the target. Deals an extra 420, 000 magic damage for every 25% health the target is damaged.\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of The Bell Tolls V is 1 minute"
 item_link: \aITEM 817075774 -2001808923:Captain Krasnok's Rum Bottle\/a
 categories:
 - Ability Modifier (Equipment)

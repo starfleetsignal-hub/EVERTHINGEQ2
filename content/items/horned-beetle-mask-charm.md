@@ -17,7 +17,8 @@ stats:
   potency: 5,643.9
   resolve: '205'
   multi: '14.9'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.4.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: 'Collection reward: [[Horned Beetle Mask (Collection)]]'
 item_link: \aITEM -342264522 86170472:Horned Beetle Mask\/a
 categories:

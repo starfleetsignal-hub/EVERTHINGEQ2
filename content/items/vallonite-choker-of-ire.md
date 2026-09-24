@@ -16,7 +16,8 @@ stats:
   potency: '8.2'
   multi: '13'
   flurry: '5.6'
-effects: '**Ferocity of Kings**'
+effect_name: Ferocity of Kings
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Ferocity of Kings on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.0.\n    - Increases damage done by combat arts by up to 500.\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Ferocity of Kings on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.0.\n    - Increases damage done by combat arts by up to 500.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1535964084 161385341:Vallonite Choker of Ire\/a
 categories:
 - Assassin Equipment

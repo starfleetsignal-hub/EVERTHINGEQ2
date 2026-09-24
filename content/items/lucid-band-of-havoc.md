@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Arcane Vulnerability**'
+effect_name: Arcane Vulnerability
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Arcane Vulnerability II on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 220.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Arcane Vulnerability II on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 220.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 20) from [[Ancient Knowledge: Lucid Band of Havoc]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 1637354260 956590483:Lucid Band of Havoc\/a
 categories:

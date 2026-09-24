@@ -7,7 +7,7 @@ flags: LORE NO-TRADE NO-VALUE
 stats:
   charges: 1/1
   casting: 1.0 seconds
-effects: Release Essarr Hawk
+effects: "- Applies Release Essarr Hawk when Activated.\n  - This effect cannot be cast during combat"
 obtained_from: '*Acquired and used in the quest ''[[The Island Fortress of Varis]]'' in [[Kylong Plains]] *Acquired and used in the quest ''[[An Eye in the Sky]]'' in [[Kylong Plains]] *Acquired and used in the quest ''[[A Watchful Eye]]'' in [[Kylong Plains]]'
 used_in_quest: '[[The Island Fortress of Varis]]'
 aliases:

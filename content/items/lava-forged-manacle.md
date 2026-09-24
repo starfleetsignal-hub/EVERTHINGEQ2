@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+356'
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 239.\n    - Increases power of caster by 146.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Path for Medicus]]'
 item_link: \aITEM 1814061151 1333782690:Lava Forged Manacle\/a
 categories:

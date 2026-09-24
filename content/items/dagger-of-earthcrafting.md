@@ -22,7 +22,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Aftermath**'
+effect_name: Aftermath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aftermath on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 5,328 heat damage on target instantly and every 4 seconds.\n    - Inflicts an additional 2,664 heat damage on target every tick.\n    - Decreases Potency of target by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1663495971 1645508013:Dagger of Earthcrafting\/a
 categories:
 - Aftermath (Equipment)

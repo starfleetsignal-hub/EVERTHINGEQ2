@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Leather Armor
-effects: '**Frightful Ruin**'
+effect_name: Frightful Ruin
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Frightful Ruin on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 712 crushing damage on target.\n    - Inflicts 712 disease damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 506563682 445602540:Corroded Plated Gloves of Tireless Delving\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   vselemental: '+615'
   vsarcane: +1,066
   dtype: Plate Armor
-effects: '**Parsimonious Healing**'
+effect_name: Parsimonious Healing
+effects: "- When Equipped:\n  - Reduces power cost of healing spells by 5%."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellithulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 1351519078 1127254540:Pious Steel Breastplate\/a
 image: images/Pious_Steel_Breastplate.jpg

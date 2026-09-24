@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Eviscerate**'
+effect_name: Eviscerate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Eviscerate on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 103 - 126 crushing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1267340255 -223849545:The Meat Cleaver\/a
 categories:
 - Ability Modifier (Equipment)

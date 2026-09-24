@@ -17,7 +17,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Leather Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 10%."
 obtained_from: '*Made from [[Elemental Gladiator''s Shoulderguard Mold]] *Made from [[Elemental Gladiator''s Shoulderguard Pattern]]'
 item_link: \aITEM -2031060436 1762576333 0 0 0:Magma-Etched Shoulderpads\/a
 categories:

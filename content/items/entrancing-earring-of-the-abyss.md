@@ -17,7 +17,8 @@ stats:
   dps: '27.1'
   multi: '17.5'
   vselemental: +1,832
-effects: '**Somatic Ascendancy**'
+effect_name: Somatic Ascendancy
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Somatic Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 13.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 12.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Somatic Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 13.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 12.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -376187005 419169954:Entrancing Earring of the Abyss\/a
 categories:
 - Ability Modifier (Equipment)

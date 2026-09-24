@@ -16,7 +16,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   dtype: Plate Armor
-effects: '**Embodied Anguish**'
+effect_name: Embodied Anguish
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Embodied Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals caster for 912.\n    - Increases Defense of caster by 35.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Embodied Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 10.0 times per minute.\n    - Heals caster for 912.\n    - Increases Defense of caster by 35.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1632417856 1893577269:Revered Breastplate\/a
 categories:
 - Berserker Equipment

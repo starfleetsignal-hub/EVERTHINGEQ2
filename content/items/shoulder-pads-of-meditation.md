@@ -17,7 +17,8 @@ stats:
   abmod: '+50'
   dps: '3'
   dtype: Leather Armor
-effects: '**Serpentine Technique**'
+effect_name: Serpentine Technique
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 8.0%."
 item_link: \aITEM -1788451300 285266813:Shoulder Pads of Meditation\/a
 categories:
 - Ability Modifier (Equipment)

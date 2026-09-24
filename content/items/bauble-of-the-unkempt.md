@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +15,750
-effects: '**Spines**'
+effect_name: Spines
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Spines III on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 31,050 piercing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 obtained_from: '[[A Ranger''s Bow]]'
 item_link: \aITEM 1172018335 -72337225:Bauble of the Unkempt\/a
 categories:

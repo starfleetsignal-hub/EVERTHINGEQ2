@@ -10,7 +10,8 @@ flags: lore no-trade no-value
 stats:
   mit: '133'
   dtype: Cloth Armor
-effects: '**Feet of Furious Fastness**'
+effect_name: Feet of Furious Fastness
+effects: "- Applies Feet of Furious Fastness when Equipped.\n  - Increases speed of caster by 70.0%."
 obtained_from: for [[Guides]] Only
 item_link: \aITEM -570454857 699456923:Guide's Slippers\/a
 categories:

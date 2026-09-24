@@ -19,7 +19,9 @@ stats:
   drating: '69.38'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Ethereal Quills**'
+effect_name: Ethereal Quills
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ethereal Quills on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 252 - 420 magic damage on target.\n    - Inflicts 252 - 420 piercing damage on target.\n    - Inflicts 252 - 420 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a ranged hit this spell may cast Ethereal Quills on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 252 - 420 magic damage on target.\n    - Inflicts 252 - 420 piercing damage on target.\n    - Inflicts 252 - 420 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Ethereal Quills on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 252 - 420 magic damage on target.\n    - Inflicts 252 - 420 piercing damage on target.\n    - Inflicts 252\
+  \ - 420 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2098037196 -1919641841:Sapphire Jeweled Staff of Myronos Zosimos\/a
 categories:
 - Attack Speed (Equipment)

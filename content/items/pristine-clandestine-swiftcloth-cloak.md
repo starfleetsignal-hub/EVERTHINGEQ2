@@ -10,7 +10,8 @@ stats:
   health: '+25'
   power: '+25'
   vsarcane: '+638'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Attack Speed of caster by 26"
 obtained_from: Crafted by [[Tailor]] (level 73) from [[Advanced Tailor Volume 73]]
 item_link: \aITEM -1720314598 -561295144:Pristine Clandestine Swiftcloth Cloak\/a
 categories:

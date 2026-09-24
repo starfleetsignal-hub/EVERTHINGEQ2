@@ -19,7 +19,8 @@ stats:
   drating: '89.91'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Armor Breaker**'
+effect_name: Armor Breaker
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Armor Break on target of attack.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 159 - 266 slashing damage on target.\n    - Decreases Mitigation of target vs physical damage by 737.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1006696633 2080869909:The Helmsplitter\/a
 categories:
 - Ability Modifier (Equipment)

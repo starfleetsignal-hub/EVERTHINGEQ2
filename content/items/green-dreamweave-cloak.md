@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: A magical cloak worn by generals in battle.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (700 Daybreak Cash)
 item_link: \aITEM 333585223 411717239:Green Dreamweave Cloak\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   abmod: '+24'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 21.6.\n    - Increases Ordination, Ministration and Focus of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 206700792 1004542276:imbued pearl ring of wisdom\/a
 categories:
 - Ability Modifier (Equipment)

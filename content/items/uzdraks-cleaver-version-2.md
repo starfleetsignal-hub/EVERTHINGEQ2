@@ -19,7 +19,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Despoiling Mist**'
+effect_name: Despoiling Mist
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Despoiling Mist on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 112 - 137 poison damage on target instantly and every 2 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1617506975 -59430683:Uzdrak's Cleaver\/a
 categories:
 - Ability Modifier (Equipment)

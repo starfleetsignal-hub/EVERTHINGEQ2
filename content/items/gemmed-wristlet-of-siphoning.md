@@ -16,7 +16,8 @@ stats:
   abmod: '+393'
   multi: '17.5'
   vselemental: +1,832
-effects: '**Draft of Tourbillion**'
+effect_name: Draft of Tourbillion
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Draft of Tourbillion on target of attack.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 445,900 cold damage on target.\n    - Can only be active by one caster at a time\n    - When any damage is received this spell has a 10% chance to cast Draught of Aether on target's attacker.  This effect normalizes based off of a three second triggering event.\n      - Heals target for 68,678.\n        - This effect cannot be critically applied.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM 77345920 1631955655:Gemmed Wristlet of Siphoning\/a
 categories:
 - AE Autoattack Chance (Equipment)

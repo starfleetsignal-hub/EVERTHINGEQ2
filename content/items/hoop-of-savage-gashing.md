@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   multi: '10.5'
   vsarcane: '+511'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 1448918749 1230447232:Hoop of Savage Gashing\/a
 categories:
 - Arcane Resistance (Equipment)

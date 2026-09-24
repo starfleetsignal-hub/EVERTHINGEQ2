@@ -18,7 +18,8 @@ stats:
   abmod: +31,580
   aspeed: '70.1'
   vselemental: +76,560
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 300.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1683682880 135790513:Bangle of the Depraved Shaman\/a
 categories:
 - Ability Modifier (Equipment)

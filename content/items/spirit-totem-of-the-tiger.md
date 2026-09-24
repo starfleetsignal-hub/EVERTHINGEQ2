@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Tiger
+effects: "- Applies **Spirit Totem of the Tiger** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a tiger\n  - Increases Out-of-Combat health Regeneration of caster by 62\n  - Only affects targets level 30 and above"
 obtained_from: Crafted by [[Woodworker]] (level 38) from [[Woodworker Essentials Volume 38]]
 categories:
 - Assassin Equipment

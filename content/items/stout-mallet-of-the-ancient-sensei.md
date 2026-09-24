@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Greater Violence and Ruination**'
+effect_name: Greater Violence and Ruination
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical combat hit this spell may cast Greater Violence and Ruination on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,265 - 1,399 slashing damage on target.\n    - Inflicts 696 - 769 slashing damage on target every 2 seconds.\n    - Inflicts an additional 94 - 104 slashing damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Greater Violence and Ruination on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,265 - 1,399 slashing damage on target.\n    - Inflicts 696 - 769 slashing damage on target every 2 seconds.\n    - Inflicts an additional 94 - 104 slashing damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1529473950 -1343021776:Stout Mallet of the Ancient Sensei\/a
 categories:
 - AE Autoattack Chance (Equipment)

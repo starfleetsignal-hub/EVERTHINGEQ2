@@ -18,7 +18,7 @@ stats:
   vselemental: '+615'
   vsarcane: +1,066
   dtype: Plate Armor
-effects: Steel Nerves
+effects: "- When Equipped\n  - 2% of all physical damage received by caster is prevented."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -1298868147 -940117267:Zealot's Steel Breastplate\/a
 categories:

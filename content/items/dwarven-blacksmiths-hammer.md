@@ -16,7 +16,8 @@ stats:
   drating: '31.68'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Blessing of the Smith**'
+effect_name: Blessing of the Smith
+effects: "- When Equipped:\n  - Increases Metalworking and Metal Shaping of caster by 18.0."
 item_link: \aITEM 608185192 -1191667812:Dwarven Blacksmith's Hammer\/a
 categories:
 - Beastlord Equipment

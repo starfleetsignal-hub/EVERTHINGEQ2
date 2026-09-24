@@ -17,7 +17,8 @@ stats:
   potency: '1.1'
   dps: '4.3'
   dtype: Chain Armor
-effects: '**Phantasmic Ward**'
+effect_name: Phantasmic Ward
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Phantasmic Ward on target of spell cast.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1902731218 -1016455408:Warded Phantasmic Hauberk\/a
 categories:
 - Bard Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM -325998859 781937831 0 0 0:Unholy Armguards of the Rift\/a
 categories:
 - Census Credits

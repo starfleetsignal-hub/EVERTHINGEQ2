@@ -24,7 +24,8 @@ stats:
   drating: '2495.23'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 item_link: \aITEM -1241281384 1892456068:Fabled Claw of the Skygazer\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   vsarcane: '+512'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Sold by [[Bad''Ushra]] in [[Moonfield Hamlet]]  for 40 [[Mark of Manaar]]s'
 item_link: \aITEM -516449474 -626281898:Ley Line Earring\/a
 categories:

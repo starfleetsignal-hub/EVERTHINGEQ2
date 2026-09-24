@@ -16,7 +16,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Bleed**'
+effect_name: Bleed
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bleed on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 29 - 36 slashing damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1644808479 678542634:Runnyeye Mines Motivator\/a
 categories:
 - Assassin Equipment

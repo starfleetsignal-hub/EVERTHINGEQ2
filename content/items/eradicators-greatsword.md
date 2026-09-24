@@ -18,7 +18,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1777281623 -784385069:Eradicator's Greatsword\/a
 categories:
 - Berserker Equipment

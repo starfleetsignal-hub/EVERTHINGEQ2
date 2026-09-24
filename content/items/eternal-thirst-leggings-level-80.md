@@ -17,7 +17,8 @@ stats:
   dps: '10.5'
   multi: '6.4'
   dtype: Chain Armor
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 110.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1105706501 -671319502:Eternal Thirst Leggings\/a
 categories:
 - Assassin Equipment

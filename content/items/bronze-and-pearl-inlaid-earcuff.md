@@ -16,7 +16,8 @@ stats:
   abmod: '+89'
   dps: '9.7'
   vsarcane: '+320'
-effects: '**Mana Leak**'
+effect_name: Mana Leak
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Mana Leak on target of spell cast.  Triggers about 2.0 times per minute.\n    - Increases power of target by 266.\n    - Decreases power of caster by 262.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Assault on the Rebel Camp]]'
 item_link: \aITEM -125359906 1874904847:Bronze and Pearl Inlaid Earcuff\/a
 categories:

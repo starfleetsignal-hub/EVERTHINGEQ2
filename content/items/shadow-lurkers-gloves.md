@@ -16,7 +16,8 @@ stats:
   abmod: '+50'
   multi: '3'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1710587024 -677257449:Shadow Lurker's Gloves\/a
 categories:
 - Ability Modifier (Equipment)

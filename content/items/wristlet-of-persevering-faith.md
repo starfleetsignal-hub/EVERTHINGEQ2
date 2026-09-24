@@ -16,7 +16,8 @@ stats:
   aspeed: '7.4'
   dps: '13.1'
   vsarcane: '+960'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: '[[Through the Looking Glass]]'
 item_link: \aITEM 1603374240 -970808389:Wristlet of Persevering Faith\/a
 categories:

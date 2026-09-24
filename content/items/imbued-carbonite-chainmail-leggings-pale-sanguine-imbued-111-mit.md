@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '88'
   dtype: Chain Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 24 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 59224191 -100939955:imbued carbonite chainmail leggings\/a
 categories:
 - Assassin Equipment

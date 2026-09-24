@@ -17,7 +17,8 @@ stats:
   abmod: +2,285
   aspeed: '28.4'
   dtype: Symbols
-effects: '**Molten Detonation**'
+effect_name: Molten Detonation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Molten Detonation on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: '[[Dismantle Ten Rats]]'
 item_link: \aITEM -1454575820 319513790:Great Ewer of Maldura\/a
 categories:

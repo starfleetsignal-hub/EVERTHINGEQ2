@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM 1747379278 -993421 0 0 0:Bastion of Light Helm\/a
 categories:
 - Ability Modifier (Equipment)

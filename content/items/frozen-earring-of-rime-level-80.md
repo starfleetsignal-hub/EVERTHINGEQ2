@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   vselemental: '+360'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 3 percent."
 item_link: \aITEM -898506509 624962672:Frozen Earring of Rime\/a
 image: images/Frozen_Earring_of_Rime.JPG
 categories:

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 44%-110%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM -1909513897 -1059540431:Band of Centered Energy\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: '+835'
   dps: '28.8'
-effects: '**Growing Power**'
+effect_name: Growing Power
+effects: "- Applies Growing Power when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 160.0.\n  - Increases Potency of caster by an additional 4.6% every 2 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Power is 2 minutes"
 item_link: \aITEM -2100493060 -1997200559:The Chosen's Spirit\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Death Field**'
+effect_name: Death Field
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Death Field on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Summons a sigil on the ground that makes any group member gain 50% potency on all attacks. Players within the sigil take constant mental damage.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 15.0 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 547369369 449950001:Pearl Ring of Death\/a
 categories:
 - Arcane Resistance (Equipment)

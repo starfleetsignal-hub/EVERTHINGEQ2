@@ -14,7 +14,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Cloth Armor
-effects: '**Slip**'
+effect_name: Slip
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Slip on target's attacker.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means"
 item_link: \aITEM 203064679 -1801608646:Iceloom Shirt\/a
 categories:
 - Assassin Equipment

@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   sta: '+8'
   int: '+9'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 7.2.\n    - Increases Disruption, Subjugation and Focus of caster by 4.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 353143942 -932835772:shaped imbued opaline ring of intelligence\/a
 categories:
 - Assassin Equipment

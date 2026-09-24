@@ -18,7 +18,8 @@ stats:
   aspeed: '42'
   dps: '32'
   vselemental: +47,952
-effects: '**Ascended Geomancer**'
+effect_name: Ascended Geomancer
+effects: "- When Equipped:\n  - Reduces the cast time of all Geomancer abilities up to level 10 by 10%.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Master Geomancer]]'
 item_link: \aITEM 199451634 -112518366:Earring of the Terramancer\/a
 categories:

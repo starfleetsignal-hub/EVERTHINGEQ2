@@ -15,7 +15,8 @@ stats:
   potency: '27'
   dps: '21.8'
   multi: '31.2'
-effects: '**Kinetic**'
+effect_name: Kinetic
+effects: "- Applies Kinetic II when Activated.  Lasts for 1 minute.\n  - Converts damage spells to crushing damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Kinetic II is 1 minute"
 item_link: \aITEM 1823959568 -2051791017:Kenetic Orb of Diversity\/a
 categories:
 - Assassin Equipment

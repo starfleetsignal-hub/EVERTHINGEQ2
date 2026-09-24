@@ -17,7 +17,8 @@ stats:
   abmod: '+500'
   mitinc: '5'
   dtype: Leather Armor
-effects: '**Savagery of the Hydra**<br>**Psionic Conversion**'
+effect_name: Savagery of the Hydra, Psionic Conversion
+effects: "- When Equipped:\n  - Protects the wearer from psionic damage!\n- Applies Psionic Conversion on target Friend when Activated.\n  - Converts combat statistics of your target into protection from psionic damage!\n  - The casting time of Psionic Conversion is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 item_link: \aITEM -564160683 1194598219:Indestuctible Hydra-Scale Helm of Pummeling\/a
 categories:
 - AE Autoattack Chance (Equipment)

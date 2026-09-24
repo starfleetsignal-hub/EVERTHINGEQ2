@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.1'
   aspeed: '1.5'
-effects: '**Al''Ismak Beni Djinn**'
+effect_name: Al'Ismak Beni Djinn
+effects: "- Applies Al'Ismak Beni Djinn when Activated.  Lasts for 1 minute.\n  - Inflicts 854 magic damage on target.\n    - Only a djinn can be harmed by the true name of the master.\n  - Roots target\n    - Only the Djinn Master can be held by his true name.\n  - Epic targets gain an immunity to Root effects of 3 minutes and duration is reduced to 20.0 seconds.\n  - The casting time of Al'Ismak Beni Djinn is 2.5 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[The Handcrafted Music Box]]'
 item_link: \aITEM 1409977249 733835191:Kazumi's Preserved Musicbox\/a
 categories:

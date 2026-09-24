@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dps: '13.4'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Cloak of Billowing Darkness]], [[Onslaught Mantle]] and 1p 50g
 item_link: \aITEM 764289994 -1338946494 0 0 0:Cloak of Eternal Night\/a
 categories:

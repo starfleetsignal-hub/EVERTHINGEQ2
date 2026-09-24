@@ -24,7 +24,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Tallon''s Obsidian Barb**'
+effect_name: Tallon's Obsidian Barb
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Tallon's Honor on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Potency of caster by 15.0.\n    - Increases Multi Attack of caster by 15.0.\n    - Increases Ranged of caster by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a ranged hit this spell may cast Tallon's Obsidian Barb on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 19,296 - 28,944 piercing damage on target.\n    - Decreases Multi Attack of target by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1447873446 1289741018:Obsidian War Bow\/a
 image: images/Obsidian_War_Bow.png
 categories:

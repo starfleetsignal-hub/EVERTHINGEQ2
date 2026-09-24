@@ -19,7 +19,8 @@ stats:
   aspeed: '71.5'
   dps: '54.3'
   multi: '78.6'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 1,294.9.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1561154295 1662822091:Grimy Grinnin Fisher's Lure\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   mit: '287'
   abmod: '+60'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1632026957 1776527116:Gloves of the Antagonist\/a
 categories:
 - Ability Modifier (Equipment)

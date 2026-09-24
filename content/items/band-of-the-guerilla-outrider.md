@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vsnoxious: '+338'
-effects: '**Lesser Energy Drain**'
+effect_name: Lesser Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 82.\n    - Increases power of caster by 75.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Scorpikis Your Tail Goodbye]]'
 item_link: \aITEM 1099919678 1690353542:Band of the Guerilla Outrider\/a
 categories:

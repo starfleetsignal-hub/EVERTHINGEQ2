@@ -8,7 +8,8 @@ slot: Charm
 flags: lore no-trade
 stats:
   wis: '+26'
-effects: '**Escape of the Djinn Master**'
+effect_name: Escape of the Djinn Master
+effects: "- Applies Escape of the Djinn Master when Activated.\n  - Teleports the caster's group to the Shimmering Citadel\n  - The casting time of Escape of the Djinn Master is 30.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: '[[Lady Naga]]'
 item_link: \aITEM -447798539 -1042443896:Samirah's mirror\/a
 categories:

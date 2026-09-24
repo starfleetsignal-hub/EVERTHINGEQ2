@@ -16,7 +16,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +11,484
-effects: '**Draconic Soulsiphon**'
+effect_name: Draconic Soulsiphon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Draconic Soulsiphon III on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 68,600 magic damage on target instantly and every second.\n    - Increases Ability Mod of caster by 5,000.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -951665010 570195569:Flame Earrings\/a
 aliases:
 - Flame Earrings (0 Gem)

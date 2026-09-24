@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Kerafyrm''s Rites**'
+effect_name: Kerafyrm's Rites
+effects: "- When Equipped:\n  - Increases All Attributes of caster by 18.0%.\n  - Cannot be modified except by direct means\n- Applies Kerafyrm's Rites II when Activated.  Lasts for 15.0 seconds.\n  - Increases All Attributes of group members (AE) by 12.0%.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Rites II is 1 minute"
 item_link: \aITEM -1127739103 2012740762:Reliquary of Dark Rites\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '153.9'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM 147474065 912217027 0 0 0:Combine Ascetic's Warhammer\/a
 categories:
 - Ability Modifier (Equipment)

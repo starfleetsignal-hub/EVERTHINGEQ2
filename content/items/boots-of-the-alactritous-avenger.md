@@ -16,7 +16,8 @@ stats:
   aspeed: '47.5'
   multi: '32.5'
   dtype: Cloth Armor
-effects: '**Swiftness in the Dark**'
+effect_name: Swiftness in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -275782181 1209001834:Boots of the Alactritous Avenger\/a
 categories:
 - Attack Speed (Equipment)

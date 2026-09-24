@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   vselemental: '+395'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -114568895 -1476792982 0 0 0:Ensnaring Band\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Cloth Armor
-effects: '**Moral Duality**'
+effect_name: Moral Duality
+effects: "- When Equipped:\n  - Increases spell damage and healing of the caster's group by 50."
 item_link: \aITEM -2058499040 734459612:Pauldrons of Good and Evil\/a
 categories:
 - Ability Modifier (Equipment)

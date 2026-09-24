@@ -19,7 +19,8 @@ stats:
   drating: '113.04'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[A Grave Name]]'
 item_link: \aITEM -1910110294 1092317925:Stonebrunt Runic Mace\/a
 categories:

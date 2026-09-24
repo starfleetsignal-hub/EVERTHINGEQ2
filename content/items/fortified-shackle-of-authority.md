@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Champion''s Impedence**'
+effect_name: Champion's Impedence
+effects: "- When Equipped:\n  - On a block this spell has a 10% chance to cast Champion's Impedence II on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 10% chance to cast Champion's Impedence II on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 20) from [[Ancient Knowledge: Fortified Shackle of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 309823576 -1684569186:Fortified Shackle of Authority\/a
 categories:

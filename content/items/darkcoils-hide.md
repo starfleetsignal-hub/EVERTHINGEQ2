@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   dtype: Chain Armor
-effects: '**Darkcoil''s Essence**'
+effect_name: Darkcoil's Essence
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Darkcoil's Hardening on caster.  Lasts for 30.0 seconds.\n    - Wards target against 259 points of all damage\n    - Increases STR of target by 11.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1683241220 130894895:Darkcoil's Hide\/a
 categories:
 - Ability Modifier (Equipment)

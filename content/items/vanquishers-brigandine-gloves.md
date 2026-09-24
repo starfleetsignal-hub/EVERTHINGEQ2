@@ -18,7 +18,8 @@ stats:
   multi: '9.6'
   vselemental: +1,269
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: From [[Satchel of Vanquisher's Chainmail]]
 item_link: \aITEM -1081016519 -234615653:Vanquisher's Brigandine Gloves\/a
 categories:

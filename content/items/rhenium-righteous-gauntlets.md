@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '*Crafted by [[Armorer]] (level 93) from [[Armorer Essentials Volume 93 (with desc)]] *Crafted by [[Armorer]] (level 93) from [[Armorer Essentials Volume 93 (without desc)]]'
 item_link: \aITEM -2044757585 1449815676:Rhenium Righteous Gauntlets\/a
 categories:

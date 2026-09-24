@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   vsarcane: '+395'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: '\aITEM -178258834 -865159822 0 0 0:Spellspike Band: Exchangeable\/a'
 categories:

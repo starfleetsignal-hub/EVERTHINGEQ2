@@ -14,7 +14,7 @@ stats:
   drating: '8.5'
   range: 2-25
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack. This effect will trigger an average of 1.6 times per minutes.\n    - Inflicts 37-69 magic damage on target"
 obtained_from: Crafted by [[Outfitter]] (level 13) from [[Outfitter essentials volume 13]]
 categories:
 - Assassin Equipment

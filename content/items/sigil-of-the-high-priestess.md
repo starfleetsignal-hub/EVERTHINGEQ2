@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Growing Power**'
+effect_name: Growing Power
+effects: "- Applies Growing Power IV when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 135.0.\n  - Increases Potency of caster by an additional 3.1% every 2 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Power IV is 2 minutes"
 item_link: \aITEM -1386410588 -1380638006:Sigil of the High Priestess\/a
 categories:
 - Ability Modifier (Equipment)

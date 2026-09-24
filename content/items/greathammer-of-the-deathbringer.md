@@ -16,7 +16,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1990943054 279274699:Greathammer of the Deathbringer\/a
 categories:
 - Casting Speed (Equipment)

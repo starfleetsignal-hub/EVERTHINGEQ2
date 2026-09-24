@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   dps: '10.6'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 33.0."
 item_link: \aITEM -964060353 935366821:Cape of Kor-sha\/a
 categories:
 - Assassin Equipment

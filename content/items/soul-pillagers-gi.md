@@ -17,7 +17,8 @@ stats:
   dps: '36.9'
   mitinc: '2.9'
   dtype: Leather Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -309609794 -1493330113:Soul Pillager's Gi\/a
 categories:
 - Attack Speed (Equipment)

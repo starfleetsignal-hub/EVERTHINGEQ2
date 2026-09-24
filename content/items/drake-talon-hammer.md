@@ -20,7 +20,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Tranquil Backlash**'
+effect_name: Tranquil Backlash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tranquil Backlash on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 987.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Ice Drake Talon]] *[[A Talon Here, A Talon There...]]'
 item_link: \aITEM -768734659 -1379157140:Drake Talon Hammer\/a
 categories:

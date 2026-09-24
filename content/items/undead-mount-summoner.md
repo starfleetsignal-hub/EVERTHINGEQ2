@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Spectral Servant
+effects: "- Applies Call Spectral Servant when Activated.  Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 48%"
 obtained_from: '*Sold by [[Zur]] (Faction Merchant) in [[North Freeport]] for 10p 80g 337500 status *Sold by [[Stable Hand Pachomius]] (Horse Merchant) in [[West Freeport]] for 10p 80g 337500 status'
 item_link: \aITEM 2067118534 582776284:undead mount summoner\/a
 categories:

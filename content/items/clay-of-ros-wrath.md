@@ -18,7 +18,8 @@ stats:
   resolve: '45'
   aspeed: '66.5'
   dps: '50.5'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1456711526 1905226042:Clay of Ro's Wrath\/a
 categories:
 - Assassin Equipment

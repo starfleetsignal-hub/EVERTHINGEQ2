@@ -18,7 +18,8 @@ stats:
   dps: '28.8'
   multi: '18.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1993805642 720442409:Storm Dragonlinked Handguards\/a
 categories:
 - Assassin Equipment

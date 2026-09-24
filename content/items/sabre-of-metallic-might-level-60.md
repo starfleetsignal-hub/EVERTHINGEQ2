@@ -20,7 +20,8 @@ stats:
   drating: '47.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Stun**'
+effect_name: Stun
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stun II on target of attack.  Lasts for 1.3 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 73.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -42426805 1994535700:Sabre of Metallic Might\/a
 categories:
 - Assassin Equipment

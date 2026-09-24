@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   aspeed: '5.7'
   vselemental: '+360'
-effects: '**Magical Aptitude**'
+effect_name: Magical Aptitude
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 3 percent."
 item_link: \aITEM -285030720 2106206620:Armlet of Misgivings\/a
 image: images/Armlet_of_Misgivings.png
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dtype: Tower Shield
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 69 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2021948428 -1088933879:imbued sandalwood tower shield\/a
 categories:
 - Berserker Equipment

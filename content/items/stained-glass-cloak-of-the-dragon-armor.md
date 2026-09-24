@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Growth**'
+effect_name: Featherfall, Growth
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Growth when Activated.  Lasts for 12 hours.\n  - Enlarges caster by 49.6%.\n  - The casting time of Growth is 2.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: From [[Stained Glass Cloak of the Dragon (crate)|Stained Glass Cloak of the Dragon]]
 item_link: \aITEM -649159629 -53638679:Stained Glass Cloak of the Dragon\/a
 categories:

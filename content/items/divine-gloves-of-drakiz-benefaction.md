@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 2135641166 -145352815:Divine Gloves of Drakiz Benefaction\/a
 categories:
 - Assassin Equipment

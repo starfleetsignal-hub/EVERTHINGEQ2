@@ -19,7 +19,8 @@ stats:
   abmod: +31,393
   aspeed: '67'
   dps: '50.8'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 10.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Ireful Items]]'
 item_link: \aITEM -1062833867 -1323600577:Hanging Diamond\/a
 categories:

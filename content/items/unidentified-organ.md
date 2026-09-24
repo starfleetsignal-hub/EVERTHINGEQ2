@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   abmod: +31,268
   aspeed: '69.5'
-effects: '**Mounting Malevolence**<br>**Malevolent Mantra**'
+effect_name: Mounting Malevolence, Malevolent Mantra
+effects: "- When Equipped:\n  - On a hostile ability cast this spell will cast Mounting Malevolence on caster.  Lasts for 30.0 seconds.\n    - Builds charges of Mounting Malevolence.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Malevolent Mantra when Activated.  Lasts for 15.0 seconds.\n  - Increases Potency of group members (AE) by 500.0.\n  - Requires 50 stacks of Mounting Malevolence to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Malevolent Mantra is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 1617649989 1253161140:Unidentified Organ\/a
 categories:
 - Ability Modifier (Equipment)

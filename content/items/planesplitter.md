@@ -15,7 +15,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Shock Strike Glyph**'
+effect_name: Shock Strike Glyph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 158 - 194 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1333461111 -1470172507:Planesplitter\/a
 categories:
 - Assassin Equipment

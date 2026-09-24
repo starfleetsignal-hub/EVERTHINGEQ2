@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 1.0 second
   recast: 0.0 seconds
-effects: Indomitable Pteranodon
+effects: "- Applies Indomitable Pteranodon when Activated.\n  - Increases Potency of caster by 22.0%\n  - Increases Crit Bonus of caster by 22.0%\n  - Increases Crit Chance of caster by 120.0\n  - Increases Max Power of caster by 3,500.0\n  - Increases Max Health of caster by 11,000.0\n  - Increases Mitigation of caster vs elemental damage by 3000\n  - Increases Mitigation of caster vs noxious damage by 3000\n  - Increases Mitigation of caster vs arcane damage by 3000\n  - Summons a mount to ride\n    - Increases your ground speed by 100%\n    - Increases your air speed by 150%"
 obtained_from: '*[[Shattered Seas: Epilogue in Dethknell Citadel]] *[[Shattered Seas: Epilogue in Qeynos Castle]]'
 item_link: \aITEM -526125379 -1491752337 0 0 0:[Indomitable Pteranodon]\/a
 categories:

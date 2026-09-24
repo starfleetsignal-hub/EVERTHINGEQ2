@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Plate Armor
-effects: '**Rockiron Nerves**'
+effect_name: Rockiron Nerves
+effects: "- When Equipped:\n  - Reduces physical damage done to target by 5%."
 item_link: \aITEM 806234443 770688102 0 0 0:Atramentous Shadowplate Chestguard\/a
 categories:
 - Ability Modifier (Equipment)

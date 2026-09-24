@@ -17,7 +17,8 @@ stats:
   abmod: +1,215
   dps: '27.6'
   mitinc: '7.2'
-effects: '**Strength of the Horde**'
+effect_name: Strength of the Horde
+effects: "- Applies Strength of the Horde when Activated.  Lasts for 1 minute.\n  - Reduces physical damage done to caster by 10%.\n  - Increases Fervor of caster by 8.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Strength of the Horde is 2.0 seconds and the reuse time of the spell is 7 minutes"
 obtained_from: 'Achievement reward: [[100 Scourge Keep Arena Kills]]'
 item_link: \aITEM -2057896598 666081119:Writ of the Arena Master\/a
 categories:

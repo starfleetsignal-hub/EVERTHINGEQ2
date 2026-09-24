@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Strike of the Gavel**'
+effect_name: Strike of the Gavel
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Strike of the Gavel on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 8,045\n      - Must be in front of\n    - Inflicts 972 - 1,188 crushing damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -395733030 -1500666745:Fist of Judgment\/a
 categories:
 - AE Autoattack Chance (Equipment)

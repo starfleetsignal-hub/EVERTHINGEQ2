@@ -24,7 +24,8 @@ stats:
   drating: '5149.2'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Blessing of the Silver Reaper**'
+effect_name: Blessing of the Silver Reaper
+effects: "- When Equipped:\n  - \"Blessing of the Silver Reaper\" protects the wearer from strong deific magics used by Drinal!"
 obtained_from: '*Made from [[Ethereal Writings: Drinal''s Scythe of Ethernere]] *[[Ethereal: Drinal''s Scythe of Ethernere]]'
 item_link: \aITEM -159725258 -102304910:Drinal's Scythe of Ethernere [Rank V]\/a
 categories:

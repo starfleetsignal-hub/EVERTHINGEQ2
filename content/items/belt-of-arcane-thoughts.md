@@ -15,7 +15,8 @@ stats:
   critbonus: '1.5'
   potency: '1.6'
   dps: '7'
-effects: '**Soothing Rains**'
+effect_name: Soothing Rains
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Soothing Rains on the group.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Increases power of group members (AE) by 114 - 140 instantly and every 4 seconds\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 439476921 -1308693145:Belt of Arcane Thoughts\/a
 categories:
 - Assassin Equipment

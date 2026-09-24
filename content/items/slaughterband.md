@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +16,380
-effects: '**Killing Spree**'
+effect_name: Killing Spree
+effects: "- When Equipped:\n  - On a death blow this spell will cast Killing Spree IV on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus by 7 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 item_link: \aITEM -650817779 2033334149:Slaughterband\/a
 categories:
 - Arcane Resistance (Equipment)

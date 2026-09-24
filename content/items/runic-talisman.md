@@ -11,7 +11,8 @@ stats:
   sta: '+14'
   agi: '+14'
   potency: '0.2'
-effects: '**Nature''s Reprieve**'
+effect_name: Nature's Reprieve
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Nature's Reprieve on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 98 - 120 divine damage on target.\n    - Heals caster for 97 - 119.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -371012086 -437170900:Runic Talisman\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   potency: 7,269.5
   resolve: '195'
   aspeed: '92.1'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 3,807.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1239789657 1764503631:Shadowguarded Charm of Dexterity\/a
 categories:
 - Assassin Equipment

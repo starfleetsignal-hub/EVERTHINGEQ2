@@ -16,7 +16,8 @@ stats:
   drating: '30.46'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Starshatter**'
+effect_name: Starshatter
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Starshatter on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 52 - 64 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1678071738 1288653254:Starshatter Stave\/a
 categories:
 - Beastlord Equipment

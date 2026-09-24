@@ -12,7 +12,8 @@ stats:
   agi: '+9'
   mit: '109'
   dtype: Leather Armor
-effects: '**Dim Lambent Imbued**'
+effect_name: Dim Lambent Imbued
+effects: "- Applies Dim Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 17 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -522153938 -737693684:Shaped Imbued Etched Leather Vest\/a
 categories:
 - Assassin Equipment

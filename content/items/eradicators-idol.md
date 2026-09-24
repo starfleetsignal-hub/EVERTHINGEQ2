@@ -15,7 +15,8 @@ stats:
   multi: '0.9'
   mitinc: '0.4'
   dtype: Symbols
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 531 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1648197182 901328028:Eradicator's Idol\/a
 categories:
 - Block Chance (Equipment)

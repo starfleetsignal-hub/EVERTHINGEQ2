@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   dps: '31.5'
   dtype: Leather Armor
-effects: '**Psionic Protection**<br>**Psionic Conversion**'
+effect_name: Psionic Protection, Psionic Conversion
+effects: "- When Equipped:\n  - Protects the wearer from psionic damage!\n- Applies Psionic Conversion on target Friend when Activated.\n  - Converts combat statistics of your target into protection from psionic damage!\n  - The casting time of Psionic Conversion is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 item_link: \aITEM 439189850 -14611045:Hydra-Scale Hat of Psionic Shielding\/a
 categories:
 - Casting Speed (Equipment)

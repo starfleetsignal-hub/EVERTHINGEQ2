@@ -17,7 +17,8 @@ stats:
   flurry: '3.4'
   mitinc: '4.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Vanquisher''s Glove Mold]] *Made from [[Elemental Vanquisher''s Glove Pattern]]'
 item_link: \aITEM 89184353 -1826489772 0 0 0:Lavawrought Champion's Gauntlets\/a
 categories:

@@ -23,7 +23,8 @@ stats:
   drating: '2495.23'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Thought Recoil**'
+effect_name: Thought Recoil
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Thought Recoil on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to targets in Area of Effect by 1,600\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1034233260 -359170019:Xygoz's Tooth\/a
 categories:
 - Ability Modifier (Equipment)

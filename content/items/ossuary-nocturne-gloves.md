@@ -17,7 +17,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2007923133 -2097858915:Ossuary Nocturne Gloves\/a
 categories:
 - Casting Speed (Equipment)

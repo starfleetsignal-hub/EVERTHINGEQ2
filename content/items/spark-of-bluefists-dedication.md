@@ -17,7 +17,8 @@ stats:
   aspeed: '34.4'
   dps: '23.1'
   multi: '18.7'
-effects: '**Better Part of Valor**'
+effect_name: Better Part of Valor
+effects: "- Applies Better Part of Valor when Activated.  Lasts for 10.0 seconds.\n  - Applies Mire of Valor.  Lasts for 24.0 seconds.\n    - Slows targets in Area of Effect by 70.0%.\n    - Cannot be modified except by direct means\n  - Dispels 149 levels of hostile Root effects on group members (AE)\n  - Reduces slow effects on group members (AE) by 60.0%.\n  - Increases All Attributes of group members (AE) by 10.0%.\n  - Increases in-combat movement speed of group members (AE) by 23.0%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Better Part of Valor is 1 minute 30 seconds"
 obtained_from: '[[Gilzin''s Lingering Legacy]]'
 item_link: \aITEM -1768429066 -1914929435:Spark of Bluefist's Dedication\/a
 categories:

@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: Instant
-effects: Scorn, Disk of the Deathmage
+effects: "- Applies Scorn, Disk of the Deathmage when Activated.\n  - Reduces maximum falling speed of caster\n  - Increases Crit Bonus of caster by 2.0%\n  - Increases the potency of all abilities by 2.0%\n  - Increases Max Power of caster by 300.0\n  - Increases Max Health of caster by 300.0\n  - Summons a mount to ride that increases your speed by 130%\n    - If level 90 or higher"
 item_link: \aITEM 1259269647 -173774738:[Scorn, Disk of the Deathmage]\/a
 categories:
 - Assassin Equipment

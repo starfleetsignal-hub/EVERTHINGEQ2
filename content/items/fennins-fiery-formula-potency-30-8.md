@@ -15,7 +15,8 @@ stats:
   potency: '30.8'
   abmod: '+795'
   dps: '27.6'
-effects: '**Primordial Burnout**'
+effect_name: Primordial Burnout
+effects: "- Applies Primordial Burnout when Activated.  Lasts for 45.0 seconds.\n  - On a hostile ability cast this spell will cast Primordial Burnout on target of spell.\n    - Inflicts 3,401,000 heat damage on target.\n    - Cannot be modified except by direct means\n    - Grants a total of 15 triggers of the spell.\n  - This item may not be used in a PvP zone.\n  - The reuse time of Primordial Burnout is 2 minutes\n- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 75.0."
 item_link: \aITEM -447655600 1054737711:Fennin's Fiery Formula\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   aspeed: '72.2'
   dps: '54.8'
   vselemental: +87,497
-effects: '**Zealot''s Zeal**'
+effect_name: Zealot's Zeal
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 5.0."
 item_link: \aITEM 442128592 -778467063:Planar Stud of Destruction\/a
 categories:
 - Ability Modifier (Equipment)

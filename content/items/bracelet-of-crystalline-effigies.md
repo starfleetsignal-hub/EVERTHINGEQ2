@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   vselemental: +1,395
-effects: '**Unearthly Forces**'
+effect_name: Unearthly Forces
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Unearthly Forces on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' spells and combat arts by 12%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 839884846 -732206654:Bracelet of Crystalline Effigies\/a
 categories:
 - Ability Modifier (Equipment)

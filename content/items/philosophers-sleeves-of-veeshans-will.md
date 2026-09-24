@@ -16,7 +16,9 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Cloth Armor
-effects: '**Cogent**<br>**Discombobulate**'
+effect_name: Cogent, Discombobulate
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Discombobulate IV on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,884 - 5,399\n    - Inflicts 2,561 - 2,831 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Discombobulate IV on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,884 - 5,399\n    - Inflicts 2,561 - 2,831 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except\
+  \ by direct means"
 item_link: \aITEM -2083871127 -188777537:Philosopher's Sleeves of Veeshan's Will\/a
 categories:
 - Assassin Equipment

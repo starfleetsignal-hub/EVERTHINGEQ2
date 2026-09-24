@@ -16,7 +16,7 @@ stats:
   vsarcane: '+188'
   vsnoxious: '+112'
   dtype: Cloth Armor
-effects: Sanguine Imbued
+effects: "- Apllies Sanguine Imbued when Equipped.\n  - When target is damaged this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 296 heat damage on target"
 obtained_from: Crafted by [[Tailor]] (level 76) from [[Tailor Essentials Volume 76]]
 item_link: \aITEM 1659448328 299047454:Pristine Imbued Tailored Damask Pantaloons\/a
 image: images/Pristine_Imbued_Tailored_Damask_Pantaloons.jpg

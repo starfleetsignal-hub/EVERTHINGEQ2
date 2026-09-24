@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Evasive Twirl**'
+effect_name: Evasive Twirl
+effects: "- When Equipped:\n  - Applies Evasive Twirl.  Lasts for 10.0 seconds.\n    - Inflicts 137,200 crushing damage on targets in Area of Effect.\n    - Increases Block Chance of caster by 3.0%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -936443847 1196710342:Invader's Bracelet\/a
 categories:
 - Arcane Resistance (Equipment)

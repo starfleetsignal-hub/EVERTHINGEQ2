@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Frontline Healing**'
+effect_name: Frontline Healing
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Frontline Healing II on target.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the value of heals and wards by 11% per increment. Increments up to 5 times, if at 1 increment.\n    - Cannot be modified except by direct means"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM 593544017 -751959159:Fabled Light Chitin Earring\/a
 categories:

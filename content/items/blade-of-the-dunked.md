@@ -20,7 +20,8 @@ stats:
   drating: '120.04'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Enduring Breath**'
+effect_name: Enduring Breath
+effects: "- When Equipped:\n  - Allows caster to breathe under water"
 item_link: \aITEM -2056537773 228446768:Blade of the Dunked\/a
 categories:
 - Assassin Equipment

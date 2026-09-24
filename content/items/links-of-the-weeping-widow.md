@@ -17,7 +17,8 @@ stats:
   multi: '35.6'
   flurry: '0.6'
   vselemental: +8,415
-effects: '**Intense Emotion**'
+effect_name: Intense Emotion
+effects: "- When Equipped:\n  - Increases Haste of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 761615612 1049612313:Links of the Weeping Widow\/a
 categories:
 - Arcane Resistance (Equipment)

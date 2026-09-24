@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   abmod: '+157'
   vselemental: '+350'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 18.5.\n    - Increases Disruption, Subjugation and Focus of caster by 10.5.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 86) from [[Jeweler Essentials Volume 86]]
 item_link: \aITEM -1475158318 165970137:Titanium Ring Of Intelligence\/a
 categories:

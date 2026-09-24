@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   multi: '10'
-effects: '**Force of Arms**'
+effect_name: Force of Arms
+effects: "- Applies Force of Arms when Activated.  Lasts for 12.0 seconds.\n  - Temporarily increases the damage of your combat arts by 10%.\n  - Prevents caster from being Interrupted\n  - Must have Discord's Fallen Foe Bauble equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Force of Arms is 3 minutes"
 item_link: \aITEM 475604245 1542316456:Discord's Fallen Foe Bauble\/a
 categories:
 - Ability Modifier (Equipment)

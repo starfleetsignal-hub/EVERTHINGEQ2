@@ -17,7 +17,7 @@ stats:
   vsarcane: '+85'
   vsnoxious: '+85'
   dtype: Plate Armor
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 4 heat damage on target."
 obtained_from: Crafted by [[Armorer]] (level )
 item_link: \aITEM -2038792954 98809771:Pristine Imbued Cobalt Devout Greaves\/a
 categories:

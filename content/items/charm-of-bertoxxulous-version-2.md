@@ -15,7 +15,8 @@ stats:
   potency: '5'
   aspeed: '7'
   dps: '12.6'
-effects: '**Disease Cloud**<br>**Whistling Wind**'
+effect_name: Disease Cloud, Whistling Wind
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Disease Cloud on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 194 - 238 disease damage on target encounter instantly and every 3 seconds.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Reuse Speed of caster by 5.0%."
 item_link: \aITEM 315772105 1604501921 0 0 0:Charm of Bertoxxulous\/a
 categories:
 - Assassin Equipment

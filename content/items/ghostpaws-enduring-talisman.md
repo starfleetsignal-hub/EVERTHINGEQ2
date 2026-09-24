@@ -15,7 +15,8 @@ stats:
   potency: '16.4'
   strike: '3.5'
   multi: '45.9'
-effects: '**Spirit Aegis**'
+effect_name: Spirit Aegis
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Spirit Aegis on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base trigger chance of spells and items by 5%.\n    - 3% of all physical damage received by the caster is prevented.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Unexpected Consequences]]'
 item_link: \aITEM -233338570 681883946:Ghostpaw's Enduring Talisman\/a
 image: images/Ghostpaw's_Enduring_Talisman.png

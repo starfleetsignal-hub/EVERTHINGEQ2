@@ -25,7 +25,8 @@ stats:
   drating: '630.34'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 20,231 crushing damage on target.\n    - Increases Crit Bonus of caster by 43.1.\n    - Increases Potency of caster by 67.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1634763063 1685987835:Frogtongue\/a
 categories:
 - AE Autoattack Chance (Equipment)

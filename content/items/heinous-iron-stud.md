@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +21,632
   mitinc: '6'
-effects: '**Feedback**'
+effect_name: Feedback
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Feedback IV on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 22,572 - 24,948 slashing damage on target encounter.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1003123975 288257551:Heinous Iron Stud\/a
 categories:
 - AE Autoattack Chance (Equipment)

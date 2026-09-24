@@ -15,7 +15,8 @@ stats:
   crit: '4'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Runic Recovery**<br>**Haste**'
+effect_name: Runic Recovery, Haste
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent.\n- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 126333817 590847139:Handguards of the Spiritual Protector\/a
 categories:

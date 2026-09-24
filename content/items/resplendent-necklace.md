@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.4'
   flurry: '1.9'
-effects: '**Lesser Befuddle**'
+effect_name: Lesser Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 obtained_from: '[[Goblin Allies]]'
 item_link: \aITEM -176421935 -1700361447:Resplendent Necklace\/a
 image: images/ResplendentNecklace.jpg

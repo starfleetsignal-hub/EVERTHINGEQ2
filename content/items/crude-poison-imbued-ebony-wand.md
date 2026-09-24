@@ -18,7 +18,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Poison Bolt**'
+effect_name: Poison Bolt
+effects: "- Applies Poison Bolt when Activated.\n  - Inflicts 330 - 551 poison damage on target.\n  - The casting time of Poison Bolt is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 651528198 1477554344:crude poison imbued ebony wand\/a
 categories:
 - Berserker Equipment

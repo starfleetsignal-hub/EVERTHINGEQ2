@@ -20,7 +20,8 @@ stats:
   drating: '85.9'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Lesser Smash**'
+effect_name: Lesser Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 90.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Overseer Dra''soks]]'
 item_link: \aITEM -1016719310 -1841217027:Swifttail Champion's Staff\/a
 categories:

@@ -18,7 +18,7 @@ stats:
   vsarcane: '+201'
   vsnoxious: '+201'
   dtype: Leather Armor
-effects: Lambent Imbued<br>+25 spell and heal amount
+effects: Applies Lambent Imbued when Equipped.<br>When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds<br>Heals target for 74 instantly and every 4 seconds.
 obtained_from: Crafted by [[Tailor]] (level 68) from [[Advanced Tailor Volume 68]]
 item_link: \aITEM -1530040175 -544426593:pristine imbued woven dragonhide tunic\/a
 categories:

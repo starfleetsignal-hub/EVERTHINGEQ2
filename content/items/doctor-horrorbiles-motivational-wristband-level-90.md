@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vselemental: '+434'
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 230.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 351496244 -341226509:Doctor Horrorbile's Motivational Wristband\/a
 categories:
 - Ability Modifier (Equipment)

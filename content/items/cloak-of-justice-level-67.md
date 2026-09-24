@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**The Tribunal''s Balance**'
+effect_name: The Tribunal's Balance
+effects: "- When Equipped:\n  - On a hit this spell may cast Gavel of Justice on target of attack.  Lasts for 9.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Gavel of Justice on target of spell.  Lasts for 9.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Jury]] (The final quest in the [[The Tribunal]] devotion series)'
 item_link: \aITEM 1473721060 -434117000:Cloak of Justice\/a
 image: images/Cloak_of_Justice.jpg

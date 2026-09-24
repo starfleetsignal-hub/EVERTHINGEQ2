@@ -16,7 +16,8 @@ stats:
   potency: '12.6'
   abmod: '+551'
   vselemental: +2,079
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1680677701 -1413463962:Wristlet of Eternal Mayhem\/a
 categories:
 - Ability Modifier (Equipment)

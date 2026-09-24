@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Chain Armor
-effects: '**Rhythmic War Chant**'
+effect_name: Rhythmic War Chant
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rhythmic War Chant on the group.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of group members (AE) by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 88492828 -1633921712 0 0 0:Voidsong Steel Cuirass\/a
 categories:
 - Ability Modifier (Equipment)

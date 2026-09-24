@@ -19,7 +19,8 @@ stats:
   abmod: +38,404
   multi: '51.7'
   mitinc: '10.5'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 770788164 470719084:Expert's Neh'Ashiir's Determined Will\/a
 categories:
 - Ability Modifier (Equipment)

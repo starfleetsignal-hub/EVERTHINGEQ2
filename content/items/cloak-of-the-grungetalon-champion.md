@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   mitinc: '3.9'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1275686040 1749090571:Cloak of the Grungetalon Champion\/a
 image: images/Cloak_of_the_Grungetalon_Champion.png
 categories:

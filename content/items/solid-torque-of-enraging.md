@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**The Enrager**'
+effect_name: The Enrager
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 15.0.\n  - Increases Hate Gain of caster by 40.0."
 item_link: \aITEM -711471782 -2027422390:Solid Torque of Enraging\/a
 categories:
 - AE Autoattack Chance (Equipment)

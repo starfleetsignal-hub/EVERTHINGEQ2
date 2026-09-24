@@ -17,7 +17,8 @@ stats:
   potency: 47,371.1
   resolve: '565'
   dtype: Plate Armor
-effects: '**Spiritual Jaunt**'
+effect_name: Spiritual Jaunt
+effects: "- When Equipped:\n  - Grants an additional 35 in-combat runspeed\n  - Increases Potency of caster by 12,013.5.\n  - Must be in a Scars of Destruction raid zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1386836912 720587407:Ulvaxazoviak's Sabatons of the Spiritlord\/a
 categories:
 - Berserker Equipment

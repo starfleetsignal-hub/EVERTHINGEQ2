@@ -17,7 +17,8 @@ stats:
   potency: 11,758.2
   resolve: '270'
   multi: '18.7'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 36.4.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 30.3.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Sold by [[Blidgero]] in [[The Bazaar]]
 item_link: \aITEM -980404562 -608654465:Undying Gem of the Final Enumeration\/a
 categories:

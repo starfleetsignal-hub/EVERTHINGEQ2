@@ -11,7 +11,8 @@ stats:
   str: '+3'
   sta: '+3'
   vsarcane: '+1'
-effects: '**Faydark Restorative**'
+effect_name: Faydark Restorative
+effects: "- Applies Faydark Restorative when Equipped.\n  - Increases Max Health of caster by 9.0."
 obtained_from: '[[Where''s Whittier?]]'
 item_link: \aITEM 292211585 -131317474:Fae Emerald Ring\/a
 categories:

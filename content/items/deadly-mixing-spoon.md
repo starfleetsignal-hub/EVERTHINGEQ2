@@ -16,7 +16,7 @@ stats:
   drating: '6.7'
   dtype: Two-Handed Crushing
   wtype: Magic Affinity
-effects: +3 Tradeskill XP Gain<br>Doom
+effects: "- When Equipped\n  - Increases success chance By 10%"
 obtained_from: From the chest of a tradeskill instance. ([[Shipyard Services]], [[Supply Stocking]], [[Clockwork Rescue]], or [[Emergency Portal Repairs]])
 item_link: 1456927253 1755726622:[Deadly Mixing Spoon]
 image: images/DeadlyMixingSpoon.jpg

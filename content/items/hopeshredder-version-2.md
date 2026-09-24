@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Shred**'
+effect_name: Shred
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Shred on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 382 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2016469158 1097963343:Hopeshredder\/a
 categories:
 - Assassin Equipment

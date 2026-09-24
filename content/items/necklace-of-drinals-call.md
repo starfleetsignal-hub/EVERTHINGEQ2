@@ -16,7 +16,8 @@ stats:
   potency: '21.3'
   dps: '30.2'
   multi: '31.7'
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 223596293 208181588:Necklace of Drinal's Call\/a
 categories:
 - Bloodthirst (Equipment)

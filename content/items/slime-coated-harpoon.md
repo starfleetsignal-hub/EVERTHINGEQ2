@@ -16,7 +16,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Toxic Sting**'
+effect_name: Toxic Sting
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Toxic Sting on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 12 - 14 poison damage on target.\n    - Inflicts 2 poison damage on target every 4 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[The Trail of Slime]]'
 item_link: \aITEM 440119449 -984416229:Slime Coated Harpoon\/a
 categories:

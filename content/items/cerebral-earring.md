@@ -16,7 +16,8 @@ stats:
   dps: '17.3'
   multi: '11'
   vsarcane: +1,349
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -1734049695 -1700500858:Cerebral Earring\/a
 categories:
 - Arcane Resistance (Equipment)

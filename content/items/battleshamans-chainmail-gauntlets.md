@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Chain Armor
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 107.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Snuffles Skunkstripe]] (Faction Merchant) in [[Fens of Nathsar]] for 7p 41g 31s 20c
 item_link: \aITEM -1173647935 -1699427558:Battleshaman's Chainmail Gauntlets\/a
 categories:

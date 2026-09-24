@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Cloth Armor
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2117319905 409370174:Spellbound Runic Spaulders\/a
 categories:
 - Ability Modifier (Equipment)

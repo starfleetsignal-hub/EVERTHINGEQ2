@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   mitinc: '6'
-effects: '**Synthetic Strengthening**'
+effect_name: Synthetic Strengthening
+effects: "- When Equipped:\n  - Suspends for 30 seconds when the caster takes damage greater than 30% of their maximum health\n  - Increases the caster's effectiveness of worn armor vs physical damage by 10%."
 obtained_from: '*Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]] *'
 item_link: \aITEM 633741953 -481161777:Necklace of Time's Aegis\/a
 categories:

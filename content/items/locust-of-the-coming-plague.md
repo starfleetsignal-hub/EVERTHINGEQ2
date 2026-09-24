@@ -18,7 +18,8 @@ stats:
   resolve: '29'
   aspeed: '65'
   multi: '71.6'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 17.6.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -651937058 -2043013044:Locust of the Coming Plague\/a
 categories:
 - Assassin Equipment

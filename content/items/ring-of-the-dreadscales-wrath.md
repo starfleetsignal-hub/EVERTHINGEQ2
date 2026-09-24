@@ -14,7 +14,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +11,880
-effects: '**Dreadthorn**'
+effect_name: Dreadthorn
+effects: "- When Equipped:\n  - Applies Dreadthorn.  Lasts for 10.0 seconds.\n    - Increases physical damage done to targets in Area of Effect by 0.5%.\n    - Increases Threat to targets in Area of Effect by 800,665\n    - Inflicts 189,336 piercing damage on targets in Area of Effect.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1344765082 -1726914523:Ring of the Dreadscale's Wrath\/a
 aliases:
 - Ring of the Dreadscale's Wrath (1 Gem, Potency)

@@ -18,7 +18,8 @@ stats:
   dps: '15.2'
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume I]] or Faction Merchant on Thurgadin Docks
 item_link: \aITEM -2071214876 900067147:Knight's Unyielding Gauntlets\/a
 categories:

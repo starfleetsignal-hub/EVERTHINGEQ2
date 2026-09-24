@@ -20,7 +20,8 @@ stats:
   drating: '115.2'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Tranquil Blessing**'
+effect_name: Tranquil Blessing
+effects: "- When Equipped:\n  - Caster will Dodge 6.0% of incoming attacks.\n  - On a melee hit this spell may cast Tranquil Strike on target of attack.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 272 - 505 magic damage on target.\n    - Heals caster for 159 - 296.\n    - Increases the caster's effectiveness of worn armor vs physical damage by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 864921528 1671216581:Tenth Stone of Zen\/a
 categories:
 - Ability Modifier (Equipment)

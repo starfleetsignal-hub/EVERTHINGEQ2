@@ -15,7 +15,8 @@ stats:
   potency: '1.8'
   abmod: '+44'
   aspeed: '2.7'
-effects: '**Knowledge of the Dar Brood**'
+effect_name: Knowledge of the Dar Brood
+effects: "- Applies Knowledge of the Dar Brood when Activated.  Lasts for 10 minutes.\n  - On any combat or spell hit this spell will cast Memory of the Dar Brood on target of attack.\n    - Inflicts 210 mental damage on target.\n      - If target is of the Dar Brood\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - The casting time of Knowledge of the Dar Brood is 5.0 seconds and the reuse time of the spell is 2 hours"
 obtained_from: '[[Proof of Resurrection]]'
 item_link: \aITEM -1406691116 218212427:Dar Brooch\/a
 categories:

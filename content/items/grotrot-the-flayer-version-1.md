@@ -21,7 +21,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Flense**'
+effect_name: Flense
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flense on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 45 slashing damage on target every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1941013690 1902363720:Grotrot, the Flayer\/a
 categories:
 - Attack Speed (Equipment)

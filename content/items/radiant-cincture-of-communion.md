@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate II on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate II on termination.  Lasts for 15.0 seconds.\n      - Wards target against 200 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 64 - 71.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 20) from [[Ancient Knowledge: Radiant Cincture of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1185677136 1905352366:Radiant Cincture of Communion\/a
 categories:

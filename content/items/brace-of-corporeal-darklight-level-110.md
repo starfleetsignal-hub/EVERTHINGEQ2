@@ -20,7 +20,8 @@ stats:
   abmod: +5,889
   aspeed: '60.2'
   dtype: Buckler
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 10.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -870338095 786830112:Brace of Corporeal Darklight\/a
 categories:
 - Ability Modifier (Equipment)

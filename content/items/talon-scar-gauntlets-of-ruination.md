@@ -19,7 +19,8 @@ stats:
   resolve: '535'
   aspeed: '36.3'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -243395315 -1514716708:Talon Scar Gauntlets of Ruination\/a
 categories:
 - Attack Speed (Equipment)

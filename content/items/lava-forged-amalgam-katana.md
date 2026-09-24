@@ -16,7 +16,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Blazing Pylon Glyph**'
+effect_name: Blazing Pylon Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 185150590 -768877040:Lava Forged Amalgam Katana\/a
 categories:
 - Berserker Equipment

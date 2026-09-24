@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   multi: '12'
-effects: '**Ascent of Yael**'
+effect_name: Ascent of Yael
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Ascent of Yael on the group.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals group members (AE) for 1,567 - 1,915.\n    - Heals group members (AE) for 784 - 958 every 4 seconds.\n    - Increases Crit Bonus of group members (AE) by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 890521526 -791501592:Chasm Core\/a
 categories:
 - Ascent of Yael (Equipment)

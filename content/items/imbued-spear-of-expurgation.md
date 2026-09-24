@@ -19,7 +19,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Gallant Intervention**'
+effect_name: Gallant Intervention
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical healing spell cast this spell may cast Gallant Intervention on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards target against 4,000 points of all damage\n    - Heals target for 277 - 306 instantly and every 2 seconds.\n    - Replenishes 300 points of absorption every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 635751867 -944978705:Imbued Spear of Expurgation\/a
 categories:
 - Assassin Equipment

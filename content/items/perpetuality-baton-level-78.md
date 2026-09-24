@@ -20,7 +20,8 @@ stats:
   drating: '84.47'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 1034019123 1576542085:Perpetuality Baton\/a
 categories:
 - Ability Modifier (Equipment)

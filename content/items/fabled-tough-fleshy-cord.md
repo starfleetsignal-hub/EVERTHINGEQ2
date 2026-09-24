@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Radical Anarchy**'
+effect_name: Radical Anarchy
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Radical Anarchy II on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Strikethrough of target by 6.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1612952048 -1684995364:Fabled Tough Fleshy Cord\/a
 categories:
 - Arcane Resistance (Equipment)

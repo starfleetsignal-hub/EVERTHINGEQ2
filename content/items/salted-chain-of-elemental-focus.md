@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Elemental Focus**'
+effect_name: Elemental Focus
+effects: "- Applies Elemental Focus III when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all elemental abilities.\n  - Removes 200 potency from arcane and noxious damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Elemental Focus III is 2 minutes"
 item_link: \aITEM -1454475065 -1030148517:Salted Chain of Elemental Focus\/a
 categories:
 - Attack Speed (Equipment)

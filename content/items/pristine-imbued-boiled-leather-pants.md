@@ -14,7 +14,7 @@ stats:
   power: '+20'
   mit: '68'
   dtype: Leather Armor
-effects: Sanguine Imbued
+effects: "- Applied Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 62 heat damage on target"
 obtained_from: Crafted by [[Tailor]] (level 22) from [[Tailor Essentials Volume 22]]
 categories:
 - Assassin Equipment

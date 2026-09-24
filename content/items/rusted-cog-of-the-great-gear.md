@@ -17,7 +17,8 @@ stats:
   potency: 1,839.1
   resolve: '19'
   dps: '46.6'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 74896212 -346790340:Rusted Cog of the Great Gear\/a
 categories:
 - Assassin Equipment

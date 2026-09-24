@@ -19,7 +19,8 @@ stats:
   aspeed: '83'
   dps: '63'
   vselemental: +91,863
-effects: '**Unquenched Power**'
+effect_name: Unquenched Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 550.0."
 item_link: \aITEM 1191138800 1561589827:Prismatic Planar Band of Finesse\/a
 categories:
 - Ability Modifier (Equipment)

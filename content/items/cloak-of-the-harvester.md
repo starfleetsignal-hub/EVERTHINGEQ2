@@ -10,7 +10,8 @@ flags: lore no-trade no-value
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Determination of the Harvester**<br>**Featherfall**'
+effect_name: Determination of the Harvester, Featherfall
+effects: "- Applies Determination of the Harvester when Activated.  Lasts for 12 hours.\n  - Shapechanges caster into a Rock\n  - Enlarges caster by 32.0%.\n  - This effect suspends during combat\n  - The casting time of Determination of the Harvester is 2.0 seconds and the reuse time of the spell is 2.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '[[A Gathering Obsession, Final Errand]]'
 item_link: \aITEM 681557833 166204943:Cloak of the Harvester\/a
 image: images/Cloak_of_the_Harvester.png

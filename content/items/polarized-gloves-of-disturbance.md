@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   dtype: Cloth Armor
-effects: '**Overbearing Storms**<br>**Haste**'
+effect_name: Overbearing Storms, Haste
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Overbearing Storms III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Overbearing Storms III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1300786011 743648718:Polarized Gloves of Disturbance\/a
 categories:
 - Ability Modifier (Equipment)

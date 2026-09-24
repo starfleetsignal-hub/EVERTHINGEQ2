@@ -9,7 +9,8 @@ flags: ornate attunable heirloom no-value
 description: Legend says these boots were blessed by Brell himself!  True or not, they will summon ale for your group once an hour while worn as equipment.  (May not be visible if worn with plate leggings or other leggings that hide your boots.)
 stats:
   dtype: Cloth Armor
-effects: '**Round on Brell**'
+effect_name: Round on Brell
+effects: "- Applies Round on Brell when Activated.\n  - Once an hour, Brell may be called upon to treat his disciples to a round of spirits... to raise their spirits!\n  - The casting time of Round on Brell is 3.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: '*From [[Brewmaster''s Last Call Bundle Pack]] *Marketplace (200 Daybreak Cash)'
 item_link: \aITEM 241726763 -1768752166:Blessed Brewday Boots\/a
 categories:

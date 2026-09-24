@@ -17,7 +17,8 @@ stats:
   dps: '12.4'
   multi: '7.7'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1524812849 2016672596 0 0 0:Spiritual Chain Gloves\/a
 categories:

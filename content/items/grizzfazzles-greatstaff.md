@@ -20,7 +20,8 @@ stats:
   drating: '82.15'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Grizzfazzle''s Blast**'
+effect_name: Grizzfazzle's Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Grizzfazzle's Rage on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 195 - 363 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM 429144661 -1445593860:Grizzfazzle's Greatstaff\/a
 categories:

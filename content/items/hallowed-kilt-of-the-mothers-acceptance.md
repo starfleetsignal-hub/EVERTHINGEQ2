@@ -17,7 +17,9 @@ stats:
   abmod: '+393'
   aspeed: '16.8'
   dtype: Cloth Armor
-effects: '**Overbearing Storms**<br>**Severity**'
+effect_name: Overbearing Storms, Severity
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overbearing Storms IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 11.5.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Overbearing Storms IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 11.5.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Overbearing Storms IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per\
+  \ minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Subjugation, Ordination, Ministration and Disruption of caster by 11.5.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - This effect will not stack with any rank or tier of itself.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 45993783 999983283:Hallowed Kilt of the Mother's Acceptance\/a
 categories:
 - Ability Modifier (Equipment)

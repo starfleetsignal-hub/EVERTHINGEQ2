@@ -11,7 +11,8 @@ stats:
   sta: '+10'
   agi: '+10'
   vselemental: '+48'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 10.2.\n    - Increases Haste of caster by 16.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 521954795 -388366790:Imbued Ruthenium Band of Agility\/a
 categories:
 - Arcane Resistance (Equipment)

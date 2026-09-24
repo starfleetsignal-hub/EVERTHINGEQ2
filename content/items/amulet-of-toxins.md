@@ -13,7 +13,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   abmod: '+18'
-effects: '**Water Breathing**'
+effect_name: Water Breathing
+effects: "- Applies Water Breathing when Activated.  Lasts for 12 hours.\n  - Allows caster to breathe under water"
 item_link: \aITEM 485662391 1808861633:Amulet of Toxins\/a
 categories:
 - Ability Modifier (Equipment)

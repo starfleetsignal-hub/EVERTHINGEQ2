@@ -18,7 +18,8 @@ stats:
   resolve: '150'
   aspeed: '66.4'
   dps: '50.4'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,759.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 119) from [[Advanced Jeweler Studies 19]]
 item_link: \aITEM -1047939422 1722196378:Voidpiercer's Charm of Alacrity\/a
 categories:

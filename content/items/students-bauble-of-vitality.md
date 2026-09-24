@@ -18,7 +18,8 @@ stats:
   resolve: '40'
   abmod: +26,260
   mitinc: '17.8'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 21.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Jeweler's Primer Volume 03]]
 item_link: \aITEM 2073663764 -86999752:Student's Bauble of Vitality\/a
 categories:

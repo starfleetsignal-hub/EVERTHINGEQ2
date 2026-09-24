@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Cockatrice
+effects: "- Applies **Spirit of the Cockatrice** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a cockatrice\n  - Increases Out-of-Combat health Regeneration of caster by 228\n  - Only affects targets level 70 and above"
 obtained_from: Crafted by [[Woodworker]] (level 79) from [[Woodworker Essentials Volume 79]]
 categories:
 - Assassin Equipment

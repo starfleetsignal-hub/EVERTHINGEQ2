@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Aura of Pain**'
+effect_name: Aura of Pain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bolt of Pain on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 141 - 262 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 201647777 245227663:Fists of Pain\/a
 categories:
 - Attack Speed (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '300'
   cbovercap: '+1127.3'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 122) from [[Advanced Vetrovian Weaponsmith's Volume II]]
 item_link: \aITEM -1520431930 -1025361995:Dreadfell Towershield of Stratagem\/a
 image: images/Dreadfell_Towershield_of_Stratagem.png

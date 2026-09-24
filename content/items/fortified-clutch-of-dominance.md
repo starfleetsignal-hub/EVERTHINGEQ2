@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+5'
   sta: '+5'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 120.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Fortified Clutch of Dominance]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1834412025 -1539061260:Fortified Clutch of Dominance\/a
 categories:

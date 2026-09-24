@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**All for One**<br>**Murderous Flurry**'
+effect_name: All for One, Murderous Flurry
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries.\n- When Equipped:\n  - Increase the strikes of Flurry of Blades and adds a debuff that increases all damage done to the target.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -617216347 725193678:Saboteur's Cape\/a
 categories:
 - All for One (Equipment)

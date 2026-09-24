@@ -18,7 +18,8 @@ stats:
   dps: '25'
   multi: '25'
   dtype: Leather Armor
-effects: '**Ferocity of the Hydra**<br>**Psionic Conversion**'
+effect_name: Ferocity of the Hydra, Psionic Conversion
+effects: "- When Equipped:\n  - Protects the wearer from psionic damage!\n- Applies Psionic Conversion on target Friend when Activated.\n  - Converts combat statistics of your target into protection from psionic damage!\n  - The casting time of Psionic Conversion is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 item_link: \aITEM -1907994779 -1436867013:Indestructible Hydra-Scale Helm of Crisis\/a
 categories:
 - AE Autoattack Chance (Equipment)

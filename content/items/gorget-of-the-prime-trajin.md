@@ -13,7 +13,8 @@ stats:
   crit: '4.2'
   critbonus: '1.5'
   potency: '6.6'
-effects: '**Enlightened Efficiency**'
+effect_name: Enlightened Efficiency
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Enlightened Efficiency on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of spells by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2071939389 -799606923:Gorget of the Prime Trajin\/a
 categories:
 - Assassin Equipment

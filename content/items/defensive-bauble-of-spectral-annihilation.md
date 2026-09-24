@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Spectral Annihilation**'
+effect_name: Spectral Annihilation
+effects: "- Applies Spectral Annihilation III when Activated.\n  - Inflicts 844,800 mental damage on target.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Spectral Annihilation III is 15.0 seconds"
 item_link: \aITEM 1633586009 1261889795:Defensive Bauble of Spectral Annihilation\/a
 image: images/Defensive_Bauble_of_Spectral_Annihilation.png
 categories:

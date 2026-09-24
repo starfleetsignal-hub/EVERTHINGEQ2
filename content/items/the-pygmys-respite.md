@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +15,750
-effects: '**Killing Spree**'
+effect_name: Killing Spree
+effects: "- When Equipped:\n  - On a death blow this spell will cast Killing Spree III on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus by 6 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Toast, To the Far Seas!]]'
 item_link: \aITEM -707702352 -303874109:The Pygmy's Respite\/a
 image: images/The_Pygmy's_Respite.jpg

@@ -16,7 +16,8 @@ stats:
   critbonus: 1,292.2
   potency: 34,754
   resolve: '460'
-effects: '**Empowerment of Caedor**'
+effect_name: Empowerment of Caedor
+effects: "- When Equipped:\n  - Grants an additional 10 fervor when in Renewal of Ro raid zones.\n  - Grants an additional 15 fervor overcap when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 443929831 308074005:Skinned Beresky-Scale Cloak\/a
 categories:
 - Assassin Equipment

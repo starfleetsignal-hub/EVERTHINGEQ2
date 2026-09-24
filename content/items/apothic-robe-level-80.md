@@ -17,7 +17,8 @@ stats:
   abmod: '+105'
   dps: '11'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**<br>**Aphotic Animus**'
+effect_name: Empyrean Recovery, Aphotic Animus
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent.\n- When Equipped:\n  - Applies Aphotic Animus to qualifying pets.\n    - Increases STR and INT of target by 100.0.\n    - Increases Mitigation of target vs physical damage by 482.\n    - On any combat or spell hit this spell may cast Aphotic Apoptosis on target of attack.  Triggers about 2.0 times per minute.\n      - Decreases Threat to target by 3,000\n        - If not guardian\n        - If not berserker\n      - Increases Threat to target by 1,665\n        - If any of the following are true:\n          - If guardian\n          - If berserker\n      - Inflicts 868 heat damage on target."
 item_link: \aITEM -1376500585 1181772502:Apothic Robe\/a
 categories:
 - Ability Modifier (Equipment)

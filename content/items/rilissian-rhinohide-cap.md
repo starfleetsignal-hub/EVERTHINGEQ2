@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Leather Armor
-effects: '**Majesty**'
+effect_name: Majesty
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Majesty on target's attacker.  Lasts for 4.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Stuns target\n    - Only affects targets level 88 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 90.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1331956300 353067562:Rilissian Rhinohide Cap\/a
 categories:
 - Ability Modifier (Equipment)

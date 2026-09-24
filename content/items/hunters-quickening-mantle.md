@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   dtype: Cloth Armor
-effects: '**Power Overwhelming**<br>**Mental Feedback**'
+effect_name: Power Overwhelming, Mental Feedback
+effects: "- When Equipped:\n  - Increases Fervor of target by 0.5.\n- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 173 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -531951798 -132374868:Hunter's Quickening Mantle\/a
 categories:
 - Ability Doublecast (Equipment)

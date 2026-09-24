@@ -16,7 +16,8 @@ stats:
   abmod: '+851'
   dps: '29.2'
   vselemental: +36,558
-effects: '**Amplifying Power**'
+effect_name: Amplifying Power
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 25%-96.3%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -753443939 -1218049357:Ring of Immolation\/a
 categories:
 - Ability Modifier (Equipment)

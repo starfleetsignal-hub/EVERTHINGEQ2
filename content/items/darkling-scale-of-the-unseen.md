@@ -17,7 +17,8 @@ stats:
   potency: 2,816.3
   resolve: '32'
   dps: '52.8'
-effects: '**Entwined Enmity**<br>**Enmitic Escalation**'
+effect_name: Entwined Enmity, Enmitic Escalation
+effects: "- Applies Entwined Enmity when Activated.  Lasts for 15.0 seconds.\n  - Heals group members for 20.0% of caster's max health.\n  - Heals group members for 10.0% of caster's max health every 7.5 seconds.\n    - This effect cannot be critically applied.\n  - Increases Max Health of group members by 10.0%.\n  - Requires 25 stacks of Enmitic Escalation to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Entwined Enmity is 2.0 seconds and the reuse time of the spell is 2 minutes\n- When Equipped:\n  - On a healing spell cast this spell will cast Enmitic Escalation on caster.  Lasts for 30.0 seconds.\n    - Builds charges of Enmitic Escalation.\n    - Cannot be modified except by direct means\n  - Must be engaged in combat\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1702501601 444783420:Darkling Scale of the Unseen\/a
 categories:
 - Assassin Equipment

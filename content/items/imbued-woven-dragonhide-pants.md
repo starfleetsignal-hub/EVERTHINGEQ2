@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Leather Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 147 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 68) from [[Advanced Tailor Volume 68 (no-value)]] *Crafted by [[Tailor]] (level 68) from [[Advanced Tailor Volume 68 (Uncommon)]] *From [[Woven Leather Armor Pack (Level 62 Mastercrafted) (Version 1)|Woven Leather Armor Pack (Level 62 Mastercrafted)]] *From [[Woven Leather Armor Pack (Level 62 Mastercrafted) (Version 2)|Woven Leather Armor Pack (Level 62 Mastercrafted)]]'
 item_link: \aITEM 1827498721 1562888645:Imbued Woven Dragonhide Pants\/a
 categories:

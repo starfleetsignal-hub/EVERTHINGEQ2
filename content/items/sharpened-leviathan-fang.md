@@ -20,7 +20,8 @@ stats:
   drating: '149.27'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Bastion**'
+effect_name: Bastion
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Bastion I on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Max Health of caster by 3,496.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Bastion I on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Max Health of caster by 3,496.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -671384892 1275847692 0 0 0:Sharpened Leviathan Fang\/a
 categories:
 - Assassin Equipment

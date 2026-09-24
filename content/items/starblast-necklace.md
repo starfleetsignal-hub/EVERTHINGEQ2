@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+83'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 obtained_from: '[[A Dangerous Game! Test of Stone!]]'
 item_link: \aITEM -763173033 1449855200:Starblast Necklace\/a
 categories:

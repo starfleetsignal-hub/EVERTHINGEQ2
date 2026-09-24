@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   aspeed: '4'
   dtype: Plate Armor
-effects: '**Presence of Mind**'
+effect_name: Presence of Mind
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Presence of Mind on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of the casters next spell by 100%"
 item_link: \aITEM -1519292502 1639456666:Barbute of the Ancient One\/a
 categories:
 - Attack Speed (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   multi: '3.2'
   dtype: Chain Armor
-effects: '**Touch of Health**'
+effect_name: Touch of Health
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 6% chance to cast Touch of Health on caster.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 28 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 874626965 375110684:Unekee's Vest\/a
 categories:
 - Assassin Equipment

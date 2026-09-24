@@ -19,7 +19,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Toxicity**'
+effect_name: Toxicity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Toxicity on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 44 - 74 poison damage on targets in Area of Effect every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 20002403 -1452771708:Maul of Noxious Vapors\/a
 categories:
 - Ability Modifier (Equipment)

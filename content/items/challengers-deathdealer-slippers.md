@@ -14,7 +14,8 @@ stats:
   crit: '4'
   critbonus: '2.9'
   dtype: Cloth Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -979095532 -576442275:Challenger's Deathdealer Slippers\/a
 categories:
 - Census Credits

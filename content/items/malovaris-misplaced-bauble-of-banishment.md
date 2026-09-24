@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   abmod: '+142'
-effects: '**Banishment**'
+effect_name: Banishment
+effects: "- Applies Banishment when Activated.\n  - Teleports caster and caster's group within the zone\n  - This item may not be used in a PvP zone.\n  - The casting time of Banishment is 6.0 seconds and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 997214058 106305898:Malovari's Misplaced Bauble of Banishment\/a
 categories:
 - Ability Modifier (Equipment)

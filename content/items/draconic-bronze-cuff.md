@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Crush Armor**'
+effect_name: Crush Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Crush Armor on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 962.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 obtained_from: '*Marketplace *[[Droums Day]]'
 item_link: \aITEM -931070112 -1712836048:Draconic Bronze Cuff\/a
 image: images/Draconic_Bronze_Cuff.png

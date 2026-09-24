@@ -14,7 +14,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Escaped Melee**'
+effect_name: Escaped Melee
+effects: "- Applies Escaped Melee II when Activated.  Lasts for 18.0 seconds.\n  - Increases Weapon Damage Bonus of the caster by 28. This value grows by 4.5 for each meter the caster is from their currently targeted enemy. The maximum increase is 253.\n  - Cannot be modified except by direct means\n  - The reuse time of Escaped Melee II is 1 minute"
 item_link: \aITEM 1350743173 453611298:Idol of the Escaped\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   multi: '38.7'
   flurry: '0.6'
   vselemental: +9,108
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2064408558 1180207356:Shiverback King Loop\/a
 categories:
 - Ability Modifier (Equipment)

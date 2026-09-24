@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: +1,881
-effects: '**Dragonsoul**'
+effect_name: Dragonsoul
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,584.4.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 641469467 -937167334:Tied Kelp Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

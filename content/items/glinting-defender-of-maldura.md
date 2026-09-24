@@ -17,7 +17,8 @@ stats:
   abmod: +2,285
   aspeed: '28.4'
   dtype: Buckler
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Dismantle Ten Rats]]'
 item_link: \aITEM 1528236837 -980691225:Glinting Defender of Maldura\/a
 categories:

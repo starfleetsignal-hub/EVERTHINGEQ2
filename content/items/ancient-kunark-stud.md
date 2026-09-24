@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   vselemental: '+400'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -1935434208 -167342072:Ancient Kunark Stud\/a
 categories:
 - Arcane Resistance (Equipment)

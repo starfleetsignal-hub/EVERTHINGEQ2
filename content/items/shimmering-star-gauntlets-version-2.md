@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   abmod: '+26'
   dtype: Plate Armor
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Detonation on target's attacker.\n    - Inflicts 135 - 225 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 430915147 -1537688006:Shimmering Star Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

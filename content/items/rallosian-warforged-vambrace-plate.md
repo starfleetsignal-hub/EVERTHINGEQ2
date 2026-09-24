@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   multi: '3.4'
-effects: '**Boon of Battle**'
+effect_name: Boon of Battle
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 433 - 529.\n    - Increases power of caster by 222.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 433 - 529.\n    - Increases power of caster by 222.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1613924099 -246830083:Rallosian Warforged Vambrace Plate\/a
 categories:
 - Boon of Battle (Equipment)

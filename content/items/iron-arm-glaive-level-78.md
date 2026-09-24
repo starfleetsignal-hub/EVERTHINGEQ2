@@ -21,7 +21,8 @@ stats:
   drating: '76.96'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 131.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1513147414 337139845:Iron Arm Glaive\/a
 categories:
 - Assassin Equipment

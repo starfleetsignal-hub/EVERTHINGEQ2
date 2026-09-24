@@ -18,7 +18,8 @@ stats:
   resolve: '60'
   dps: '51.1'
   mitinc: '19.8'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 27.9.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 23.3.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Advanced Jeweler Studies 04]]
 item_link: \aITEM 1876393694 1374674376:Academic's Bauble of Spirit\/a
 categories:

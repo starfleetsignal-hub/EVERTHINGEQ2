@@ -16,7 +16,9 @@ stats:
   aspeed: '16.8'
   multi: '17.5'
   dtype: Tower Shield
-effects: '**Serrated Skin**'
+effect_name: Serrated Skin
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Serrated Skin IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives caster an extra 2.0% mitigation to their worn armor.\n    - When any damage is received this spell will cast Serrated Skin IV on target's attacker.\n      - Inflicts 201 - 222 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Serrated Skin IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives caster an extra 2.0% mitigation to their worn armor.\n    - When any damage is received this spell will cast Serrated Skin IV on target's attacker.\n      - Inflicts 201 - 222 piercing damage on target.\n      - Must\
+  \ not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1343394402 -1904864184:Underdepths Sentinel Carapace\/a
 categories:
 - Attack Speed (Equipment)

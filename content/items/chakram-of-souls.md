@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Ethereal Leach**'
+effect_name: Ethereal Leach
+effects: "- When Equipped:\n  - On any combat or spell hit, Ethereal Leach procs a lifetap based off of the casters maximum health."
 item_link: \aITEM -545266926 -1340474717:Chakram of Souls\/a
 categories:
 - Berserker Equipment

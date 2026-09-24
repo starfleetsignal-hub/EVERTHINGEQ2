@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   dtype: Symbols
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 5.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Ornate Crate of Endless Goodies]]
 item_link: \aITEM -1847117033 -1170480794:Almsgiven Orb of Draconic Power\/a
 categories:

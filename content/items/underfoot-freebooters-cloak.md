@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Spirit of the Underfoot**<br>**Featherfall**'
+effect_name: Spirit of the Underfoot, Featherfall
+effects: "- Applies Spirit of the Underfoot when Activated.  Lasts for 12 hours.\n  - Shapechanges caster into a ratonga\n  - The casting time of Spirit of the Underfoot is 10.0 seconds and the reuse time of the spell is 2.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Ratonga Heritage Armor Crate]]
 item_link: \aITEM 1431010393 -168928138:Underfoot Freebooter's Cloak\/a
 categories:

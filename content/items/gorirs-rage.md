@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   multi: '31.2'
   vselemental: +15,750
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 115,920 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: '[[Escorting Kitkalla]]'
 item_link: \aITEM -966691995 -1762875306:Gorir's Rage\/a
 image: images/Gorir's_Rage.png

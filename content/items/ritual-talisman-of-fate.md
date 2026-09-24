@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.6'
   vselemental: '+360'
-effects: '**Spiritweaver''s Fury**'
+effect_name: Spiritweaver's Fury
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Spiritweaver's Fury on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' spell or combat arts by 5%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 812964204 -1883343964:Ritual Talisman of Fate\/a
 categories:
 - Arcane Resistance (Equipment)

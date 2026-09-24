@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   dtype: Plate Armor
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 574723513 -825266027:Grim Gussets\/a
 categories:
 - Berserker Equipment

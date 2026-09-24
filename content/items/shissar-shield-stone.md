@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Magical Shielding**'
+effect_name: Magical Shielding
+effects: "- Applies Magical Shielding III when Activated.  Lasts for 10.0 seconds.\n  - Uses the caster's power to restore health to the target group member. Heals 60% of all incoming damage. 6.6% of the amount healed is subtracted from the caster's power. Terminates if the caster doesn't have the power to absorb the attack.\n  - Cannot be modified except by direct means\n  - The reuse time of Magical Shielding III is 30.0 seconds"
 item_link: \aITEM -565622703 239359058:Shissar Shield Stone\/a
 categories:
 - Assassin Equipment

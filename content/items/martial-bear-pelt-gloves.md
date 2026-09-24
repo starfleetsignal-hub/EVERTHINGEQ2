@@ -15,7 +15,8 @@ stats:
   potency: '7.7'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '*Crafted by [[Tailor]] (level 93) from [[Tailor Essentials Volume 93 (with desc)]] *Crafted by [[Tailor]] (level 93) from [[Tailor Essentials Volume 93 (without desc)]]'
 item_link: \aITEM -952749624 -469159566:Martial Bear Pelt Gloves\/a
 categories:

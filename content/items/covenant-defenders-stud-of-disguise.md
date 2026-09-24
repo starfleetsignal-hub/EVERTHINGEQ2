@@ -16,7 +16,8 @@ stats:
   abmod: '+369'
   multi: '16.5'
   vselemental: +1,728
-effects: '**Tactical Advance**'
+effect_name: Tactical Advance
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Tactical Advance II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Tactical Advance II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 110.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1719207923 -5215306:Covenant Defender's Stud of Disguise\/a
 categories:
 - Ability Modifier (Equipment)

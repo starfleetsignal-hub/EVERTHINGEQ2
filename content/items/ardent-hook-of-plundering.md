@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +15,652
-effects: '**Plundered Mistmoore Secrets**'
+effect_name: Plundered Mistmoore Secrets
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Plundered Mistmoore Secrets III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 369,600 poison damage on target.\n    - Heals group members (AE) for 45,420.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 623668832 -1456382883:Ardent Hook of Plundering\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vselemental: '+320'
-effects: '**Lesser Silence**'
+effect_name: Lesser Silence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Silence on target of spell.  Lasts for 2.5 seconds.  Triggers about 1.6 times per minute.\n    - Stifles target\n    - Only affects targets level 121 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 90.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Investigating the Rebels]]'
 item_link: \aITEM 1708077823 717625070:Resplendent Bangle\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   aspeed: '5.4'
   dps: '10.1'
   dtype: Cloth Armor
-effects: '**Subjugative Alacrity**<br>**Enthralling Recovery**'
+effect_name: Subjugative Alacrity, Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces cast time of Subjugation-based spells by 4 percent.\n- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 2 percent."
 item_link: \aITEM -829917505 222081104:Robes of the Gathering\/a
 categories:
 - Assassin Equipment

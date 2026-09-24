@@ -17,7 +17,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 638014521 1831735320:Mausoleum Nexus Cuirass\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   drating: '16.25'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 55 - 83 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -399373867 1637820281:shaped imbued steel dirk\/a
 categories:
 - Assassin Equipment

@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: no-transmute  no-salvage  no-trade no-value
 description: This cloak was recovered from the angsty thief known as Ratscallion Attamilgad!
-effects: '**Vivacious Sparkles**'
+effect_name: Vivacious Sparkles
+effects: "- Applies Vivacious Sparkles when Activated.\n  - Coats the wearer in a Shower of Vivacious Sparkles\n  - The casting time of Vivacious Sparkles is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Watch EQ2 social media pages for notification of when Ratscallion is up!
 item_link: \aITEM 1158094871 -910053788:Cloak of the Vivacious\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   abmod: '+60'
   dps: '7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 704161854 -1658879042:Gloves of the Executioner\/a
 categories:
 - Ability Modifier (Equipment)

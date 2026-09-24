@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   flurry: '1.4'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 988482495 903963852:Halasian Style Ceremonial Belt\/a
 categories:
 - Arcane Recovery (Equipment)

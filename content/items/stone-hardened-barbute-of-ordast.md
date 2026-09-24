@@ -18,7 +18,8 @@ stats:
   potency: 35,132.1
   resolve: '465'
   dtype: Plate Armor
-effects: '**Scholarly Influence**'
+effect_name: Scholarly Influence
+effects: "- When Equipped:\n  - Grants an additional 15 fervor when in Renewal of Ro raid zones.\n  - Grants an additional 10 fervor overcap when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 237493758 -1033813680:Stone-Hardened Barbute of Ordast\/a
 categories:
 - Berserker Equipment

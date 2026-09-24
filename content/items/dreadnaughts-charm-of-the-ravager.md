@@ -18,7 +18,8 @@ stats:
   potency: '24'
   dps: '21.8'
   multi: '31.2'
-effects: '**Ferocious Assault**'
+effect_name: Ferocious Assault
+effects: "- Applies Ferocious Assault IV when Activated.  Lasts for 8.0 seconds.\n  - This effect does not stack from multiple casters.\n  - Cannot be modified except by direct means\n  - The reuse time of Ferocious Assault IV is 1 minute"
 item_link: \aITEM -1905191108 948939232:Dreadnaught's Charm of The Ravager\/a
 categories:
 - Assassin Equipment

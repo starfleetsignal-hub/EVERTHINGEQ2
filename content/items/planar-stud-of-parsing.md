@@ -19,7 +19,8 @@ stats:
   aspeed: '72.2'
   dps: '54.8'
   vselemental: +87,497
-effects: '**Exploit Advantage**'
+effect_name: Exploit Advantage
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 25.0."
 item_link: \aITEM -510897653 -1620183621:Planar Stud of Parsing\/a
 categories:
 - Ability Modifier (Equipment)

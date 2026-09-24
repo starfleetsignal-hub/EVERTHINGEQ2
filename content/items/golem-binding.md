@@ -16,7 +16,8 @@ stats:
   dps: '27'
   vselemental: +28,613
   mitinc: '7'
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 1611685156 1382990686:Golem Binding\/a
 image: images/Golem_Binding.png
 categories:

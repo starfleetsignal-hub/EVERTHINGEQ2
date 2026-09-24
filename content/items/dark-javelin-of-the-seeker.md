@@ -16,7 +16,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Ice Zephyr Glyph**'
+effect_name: Ice Zephyr Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -347770941 2096520642:Dark Javelin of the Seeker\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '11.1'
   potency: '11.1'
   multi: '28.5'
-effects: '**Dauntless Devotion**'
+effect_name: Dauntless Devotion
+effects: "- Applies Dauntless Devotion when Activated.\n  - The caster is granted a beneficial effect from Drinal's Steward.\n  - The casting time of Dauntless Devotion is 0.5 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[Shades of Drinal: Fate''s Crusade]]'
 item_link: \aITEM -149845473 938271179:Steward's Mantle of Eternity\/a
 image: images/Steward's_Mantle_of_Eternity.png

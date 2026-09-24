@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Ethereal Avatar**'
+effect_name: Ethereal Avatar
+effects: "- When Equipped:\n  - On any beneficial spell cast, Ethereal Avatar may grant Potency and Ability Modifier to casters group."
 item_link: \aITEM -1487141245 -1053743929:Li Fan, of Pure Spirit\/a
 categories:
 - Ability Modifier (Equipment)

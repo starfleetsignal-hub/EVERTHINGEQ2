@@ -18,7 +18,8 @@ stats:
   dps: '15.2'
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume I]]
 item_link: \aITEM -923795178 -1802228427:Blood Lord's Unyielding Gauntlets\/a
 categories:

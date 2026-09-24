@@ -18,7 +18,8 @@ stats:
   resolve: '60'
   aspeed: '70.1'
   multi: '77.2'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Sold by [[Tumri Ston]] in [[Myrist, the Great Library]]
 item_link: \aITEM -1478890124 -1015621492:Gleaming Horn of Alliance\/a
 categories:

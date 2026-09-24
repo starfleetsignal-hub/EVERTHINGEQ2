@@ -16,7 +16,8 @@ stats:
   dps: '26.4'
   vselemental: +29,243
   mitinc: '7'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 10.  This effect increases to 22 if they have 2 or more grouped allies within 10 meters of them."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -1040594744 -1316100873:Mitigating Lumicite Bracelet\/a
 categories:

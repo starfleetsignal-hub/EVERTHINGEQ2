@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+83'
-effects: '**Lesser Manawell**'
+effect_name: Lesser Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on target of spell.  Triggers about 1.6 times per minute.\n    - Increases power of caster by 92.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Scaley Wolfies]]'
 item_link: \aITEM 1314621798 -387918319:Necklace of the Duskwalker\/a
 categories:

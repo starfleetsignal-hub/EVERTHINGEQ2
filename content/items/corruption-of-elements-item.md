@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.1'
   abmod: '+26'
-effects: '**Corruption of Elements**'
+effect_name: Corruption of Elements
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Corruption of the Elements on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 53 instantly and every 4 seconds.\n    - Heals caster for 53 instantly and every 4 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Corruption of Elements (Collection)]]'
 item_link: \aITEM -1602044284 -2017451037:Corruption of Elements\/a
 image: images/Corruption_of_Elements_(Item).png

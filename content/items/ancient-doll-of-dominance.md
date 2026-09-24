@@ -16,7 +16,8 @@ stats:
   abmod: '+147'
   aspeed: '7.3'
   dtype: Symbols
-effects: '**Shissar Anguish**'
+effect_name: Shissar Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Shissar Anguish on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 594 disease damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1398819279 -960613441:Ancient Doll of Dominance\/a
 categories:
 - Ability Modifier (Equipment)

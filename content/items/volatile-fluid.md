@@ -9,7 +9,7 @@ stats:
   charges: 1 / 1
   casting: 2.5 seconds
   recast: 0.0 seconds
-effects: Flaming Vial
+effects: "- Applies Flaming Vial when activated\n  - Inflicted 2687 heat damage on target"
 obtained_from: click on flask on tables in [[The Halls of Fate]]
 item_link: \aITEM 789646297 949066450:[Volatile Fluid]\/a
 categories:

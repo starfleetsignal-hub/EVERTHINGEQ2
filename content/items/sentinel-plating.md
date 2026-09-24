@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   dps: '54.5'
   dtype: Tower Shield
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 596601754 244565575:Sentinel Plating\/a
 categories:
 - Berserker Equipment

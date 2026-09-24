@@ -16,7 +16,8 @@ stats:
   abmod: '+197'
   vselemental: '+511'
   mitinc: '6.7'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1507791440 -1869563947:Rhee'Gor's Wrapped Ring\/a
 categories:
 - Ability Modifier (Equipment)

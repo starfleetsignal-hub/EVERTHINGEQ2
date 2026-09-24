@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '145'
   dtype: Leather Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 30 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 43) from [[Tailor Essentials Volume 43 (Normal)]] *Crafted by [[Tailor]] (level 43) from [[Tailor Essentials Volume 43 (no-trade)]]'
 item_link: \aITEM 1916401307 -1905926195:Imbued Strengthened Leather Tunic\/a
 categories:

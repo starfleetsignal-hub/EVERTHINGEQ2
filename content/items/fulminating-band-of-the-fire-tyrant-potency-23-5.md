@@ -16,7 +16,8 @@ stats:
   dps: '23.1'
   multi: '19.8'
   vselemental: +29,521
-effects: '**Thermonuclear Flare**'
+effect_name: Thermonuclear Flare
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 75.0.\n  - On any combat or spell hit this spell may cast Thermonuclear Flare on target of attack.  Lasts for 3.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 1,000,000-2,250,000 heat damage on target\n    - After 3 seconds, the Thermonuclear Flare will jump to another nearby enemy, increasing its damage with each jump\n    - Cannot be modified except by direct means"
 item_link: \aITEM 33069484 -617892536:Fulminating Band of the Fire Tyrant\/a
 categories:
 - Arcane Resistance (Equipment)

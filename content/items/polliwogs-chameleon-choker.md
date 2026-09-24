@@ -16,7 +16,8 @@ stats:
   resolve: '6'
   abmod: '+843'
   dps: '29'
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 75 if they have 1 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 100."
 item_link: \aITEM 44581129 -710817134:Polliwog's Chameleon Choker\/a
 categories:
 - Ability Modifier (Equipment)

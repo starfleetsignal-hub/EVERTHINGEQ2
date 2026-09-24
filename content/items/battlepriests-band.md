@@ -17,7 +17,7 @@ stats:
   vselemental: '+533'
   vsarcane: '+533'
   vsnoxious: '+533'
-effects: Healing Wave
+effects: "- On a successful attack this spell has a chance to cast Healing Wave on caster. This effect will trigger an average of 1.6 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n  - Heals group members for 219"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM -1894074195 128866357:Battlepriest's Band\/a
 aliases:

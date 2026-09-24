@@ -17,7 +17,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   dtype: Plate Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 580.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1482138491 967094894:Strengthened Healing Brace\/a
 categories:
 - Attack Speed (Equipment)

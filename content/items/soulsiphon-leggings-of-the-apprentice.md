@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Cloth Armor
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 213.\n    - Increases power of caster by 123.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1446273185 2066729034:Soulsiphon Leggings of the Apprentice\/a
 categories:
 - Assassin Equipment

@@ -12,7 +12,8 @@ stats:
   sta: '+4'
   mit: '54'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 11 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Outfitter]] (level 13) from [[Advanced Outfitter Volume 13 (Normal)]] *Crafted by [[Outfitter]] (level 13) from [[Advanced Outfitter Volume 13 (No-Trade)]] *From [[Chainmail Armor Pack (Level 12 Mastercrafted)]]'
 item_link: \aITEM 312003600 -2013266031:Imbued Blackened Iron Chainmail Coat\/a
 categories:

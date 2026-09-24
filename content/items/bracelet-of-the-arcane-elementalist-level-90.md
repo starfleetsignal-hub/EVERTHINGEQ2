@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vselemental: '+424'
-effects: '**Lesser Befuddle**'
+effect_name: Lesser Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 item_link: \aITEM -727144704 1402901229:Bracelet of the Arcane Elementalist\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Alacrity**'
+effect_name: Alacrity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Alacrity on caster.  Lasts for 18.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 15.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -841450762 -1892145643:Sixta's Knuckles of Mastery\/a
 categories:
 - Alacrity (Equipment)

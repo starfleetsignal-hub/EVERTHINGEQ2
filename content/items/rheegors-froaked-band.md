@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   abmod: '+203'
   multi: '11'
-effects: '**Haste**<br>**Toxic Tempest**'
+effect_name: Haste, Toxic Tempest
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -755737691 1150093863:Rhee'Gor's Froaked Band\/a
 categories:
 - Ability Modifier (Equipment)

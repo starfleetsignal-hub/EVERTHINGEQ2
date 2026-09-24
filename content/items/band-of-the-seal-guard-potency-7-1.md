@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   multi: '10'
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1292245480 -611027704:Band of the Seal Guard\/a
 categories:
 - Assassin Equipment

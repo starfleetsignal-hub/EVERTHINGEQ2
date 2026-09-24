@@ -17,7 +17,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Parted From Pack]]'
 item_link: \aITEM 1862287639 -2125951006:Moonfield Slippers\/a
 image: images/Moonfield_Slippers.png

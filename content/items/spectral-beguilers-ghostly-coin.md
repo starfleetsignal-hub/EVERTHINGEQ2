@@ -18,7 +18,8 @@ stats:
   resolve: '14'
   dps: '29.7'
   mitinc: '9.4'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 36.8.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 24.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1149950439 1998024253:Spectral Beguiler's Ghostly Coin\/a
 categories:
 - Assassin Equipment

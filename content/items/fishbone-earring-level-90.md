@@ -16,7 +16,8 @@ stats:
   flurry: '5.2'
   vsarcane: +1,470
   mitinc: '7.7'
-effects: '**Water Breathing**'
+effect_name: Water Breathing
+effects: "- Applies Water Breathing when Activated.  Lasts for 12 hours.\n  - Allows caster to breathe under water"
 item_link: \aITEM 1472032757 1205992294:Fishbone Earring\/a
 categories:
 - Arcane Resistance (Equipment)

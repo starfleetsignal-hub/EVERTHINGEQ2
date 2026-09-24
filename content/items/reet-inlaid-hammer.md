@@ -20,7 +20,8 @@ stats:
   drating: '70.92'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Lesser Healing Wave**'
+effect_name: Lesser Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on caster.  Triggers about 1.2 times per minute.\n    - Heals group members for 125.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Stop the Progeny]]'
 item_link: \aITEM 157323487 283023912:Reet Inlaid Hammer\/a
 categories:

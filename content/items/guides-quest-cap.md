@@ -7,7 +7,8 @@ slot: Head
 flags: lore no-trade
 stats:
   dtype: Cloth Armor
-effects: '**Quest Feather Cap**'
+effect_name: Quest Feather Cap
+effects: "- Applies Quest Feather Cap when Equipped.\n  - Equipping this cap displays a visible quest feather over your head (even if helm graphics are turned off)"
 obtained_from: Guide only
 item_link: \aITEM 547855647 162114045:Guide's Quest Cap\/a
 image: images/Guide's_Quest_Cap.png

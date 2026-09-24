@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   aspeed: '71.5'
   flurry: '40.2'
-effects: '**Cloak and Dagger**'
+effect_name: Cloak and Dagger
+effects: "- Applies Cloak and Dagger when Activated.  Lasts for 30.0 seconds.\n  - Decreases power of caster by 3.0% every 2 seconds.\n  - Decreases power of caster by an additional 3.0% every tick.\n  - Increases Haste of caster by 500.0.\n  - Increases Crit Bonus Overcap of caster by 50.0.\n  - This effect can be toggled off.\n  - Cannot be modified except by direct means\n  - The casting time of Cloak and Dagger is 2.0 seconds and the reuse time of the spell is 3 minutes\n  - Requires 23 Power to cast and 23 Power every 2.0 seconds."
 item_link: \aITEM 362173264 219138402:Cloak of Solidified Hate\/a
 categories:
 - Assassin Equipment

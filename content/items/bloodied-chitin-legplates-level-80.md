@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   aspeed: '5.6'
   dtype: Plate Armor
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 item_link: \aITEM 491559647 315348747:Bloodied Chitin Legplates\/a
 categories:
 - AE Autoattack Chance (Equipment)

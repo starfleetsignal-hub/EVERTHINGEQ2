@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +27,352
-effects: '**Amplifying Combination**'
+effect_name: Amplifying Combination
+effects: "- When Equipped:\n  - The values increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value.\n  - Increases Crit Bonus and Potency by 30%-76%, Weapon Damage Bonus  by 20%-43% and Stamina by 200-430."
 item_link: \aITEM -190760978 -1981063741:Ring of Amplified Malice\/a
 categories:
 - Ability Modifier (Equipment)

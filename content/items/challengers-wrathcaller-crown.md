@@ -15,7 +15,8 @@ stats:
   crit: '8'
   critbonus: '2.9'
   dtype: Leather Armor
-effects: '**Immaterial Barrier**'
+effect_name: Immaterial Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Immaterial Barrier on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of target vs all damage by 940.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2113369798 982757218:Challenger's Wrathcaller Crown\/a
 categories:
 - Brawler Equipment

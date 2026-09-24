@@ -17,7 +17,8 @@ stats:
   potency: '12.6'
   dps: '32.4'
   multi: '21.1'
-effects: '**Mercurial Flux**<br>**No Quarter**'
+effect_name: Mercurial Flux, No Quarter
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 5.0.\n  - Increases Haste of caster by 13.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast No Quarter III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 12.0.\n    - Increases AE Autoattack of Caster by 40.0%.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 7.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -240204875 1144163327:Dominating Torque of Yisaki\/a
 categories:
 - Assassin Equipment

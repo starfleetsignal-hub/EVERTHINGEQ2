@@ -17,7 +17,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Chain Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Increases Crit Bonus Overcap of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -143753111 -236085980:Remnant Chain Bracers, Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

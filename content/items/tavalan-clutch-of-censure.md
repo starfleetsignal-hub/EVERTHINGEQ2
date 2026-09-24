@@ -15,7 +15,8 @@ stats:
   potency: '24.2'
   dps: '34.3'
   multi: '36'
-effects: '**Impish Offensive**<br>**Silver Rampart**'
+effect_name: Impish Offensive, Silver Rampart
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 10.0%.\n  - Increases Multi Attack of caster by 25.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Silver Rampart III on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards group members (AE) against 6,700 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Tides of War]]'
 item_link: \aITEM 1522026522 -1898547276:Tavalan Clutch of Censure\/a
 categories:

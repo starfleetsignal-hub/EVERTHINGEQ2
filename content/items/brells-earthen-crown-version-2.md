@@ -17,7 +17,8 @@ stats:
   potency: '52.7'
   mitinc: '10.9'
   dtype: Leather Armor
-effects: '**Pure Malice**'
+effect_name: Pure Malice
+effects: "- Applies Pure Malice when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 260652497 1831772117:Brell's Earthen Crown\/a
 categories:
 - AE Autoattack Chance (Equipment)

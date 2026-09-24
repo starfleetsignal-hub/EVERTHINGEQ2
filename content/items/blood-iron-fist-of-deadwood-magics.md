@@ -21,7 +21,8 @@ stats:
   drating: '229.23'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,249 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: 'Collection reward: [[Treant Bark]]'
 item_link: \aITEM -928002009 1981484204:Blood Iron Fist of Deadwood Magics\/a
 image: images/Bloodiron_Fist_of_Deadwood_Magics.png

@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dtype: Chain Armor
-effects: '**Replenish Power**<br>**Empyrean Recovery**'
+effect_name: Replenish Power, Empyrean Recovery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Replenish Power on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 108.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 519916694 -18188635:Undertunic of the Weapon\/a
 categories:
 - Ability Modifier (Equipment)

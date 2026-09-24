@@ -17,7 +17,8 @@ stats:
   potency: '8.2'
   aspeed: '12.2'
   vselemental: +1,457
-effects: '**Son of Blades**'
+effect_name: Son of Blades
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Son of Blades on target of spell.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Summons a limited pet to aid the caster\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell will cast Son of Blades on target of attack.  Lasts for 10.0 seconds.\n    - Summons a limited pet to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM -116884371 1157226883:VhalSera Skull Earring\/a
 categories:
 - Arcane Resistance (Equipment)

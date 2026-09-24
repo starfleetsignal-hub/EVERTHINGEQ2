@@ -17,7 +17,8 @@ stats:
   abmod: +3,901
   aspeed: '30.7'
   dtype: Buckler
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1888449779 -303087425:Sentinel Casing\/a
 categories:
 - Ability Modifier (Equipment)

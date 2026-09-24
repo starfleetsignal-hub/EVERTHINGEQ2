@@ -18,7 +18,8 @@ stats:
   potency: 49,806.8
   resolve: '515'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1325763473 -406642784:Ossuary Nocturne Leather Jerkin\/a
 categories:
 - Brawler Equipment

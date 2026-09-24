@@ -16,7 +16,8 @@ stats:
   abmod: +3,750
   aspeed: '34.6'
   dtype: Buckler
-effects: '**Ethereal Shielding**'
+effect_name: Ethereal Shielding
+effects: "- When Equipped:\n  - On beneficial spell cast Ethereal Shielding may grant stoneskin to the group. This stoneskin effect will only trigger once for each groupmember."
 item_link: \aITEM 1892563682 -68771022:Firalean, the Divine Right\/a
 categories:
 - Ability Modifier (Equipment)

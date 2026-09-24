@@ -12,7 +12,8 @@ stats:
   agi: '+13'
   potency: '0.2'
   multi: '0.1'
-effects: '**Hex of Shadows**'
+effect_name: Hex of Shadows
+effects: "- Applies Hex of Shadows when Activated.  Lasts for 1 minute 48 seconds.\n  - Applies Hex of Fright.  Lasts for 1 minute 48 seconds.\n    - Decreases Haste of target by 14.8.\n    - Cannot be modified except by direct means\n  - Slows target by 37.4%.\n  - 5% chance to dispel when target takes damage\n  - 5% chance to dispel when target receives hostile action\n  - The casting time of Hex of Shadows is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -116863995 -1059764741:shaped shadow imbued linen hex doll\/a
 categories:
 - Assassin Equipment

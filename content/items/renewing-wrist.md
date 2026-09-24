@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Holy Land**'
+effect_name: Holy Land
+effects: "- When Equipped:\n  - Inflicts 260,000 divine damage to up to eight targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -169528267 753737104:Renewing Wrist\/a
 categories:
 - Arcane Resistance (Equipment)

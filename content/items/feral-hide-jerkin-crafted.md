@@ -17,7 +17,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Leather Armor
-effects: '**Parsimonious Casting**'
+effect_name: Parsimonious Casting
+effects: "- When Equipped:\n  - Reduces power cost of damage and healing spells by 3%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 555771039 -807755589 0 0 0:Feral Hide Jerkin\/a
 categories:

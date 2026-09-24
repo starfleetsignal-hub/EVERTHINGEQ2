@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   dps: '21.8'
   vselemental: +11,484
-effects: '**Practiced Power**'
+effect_name: Practiced Power
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Power on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the group's Potency by 0.7 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 42 Potency.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -944301112 1839172228:Storm Lord's Ring of Power\/a
 categories:
 - AE Autoattack Chance (Equipment)

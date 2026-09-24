@@ -14,7 +14,7 @@ stats:
   drating: '37.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: Ykesha's Wrath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast **Ykesha's Wrath** on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 218-267 magic damage on target\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Rescue of the Green Hoods]]'
 item_link: \aITEM -980788455 1288622712:Short Sword of the Ykesha\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 109 - 203 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1709685089 1793003092:Imbued Oak Long Bow\/a
 aliases:
 - Imbued Oak Long Bow (Gleaming Strike) (Level 30)

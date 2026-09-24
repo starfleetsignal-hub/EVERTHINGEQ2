@@ -20,7 +20,8 @@ stats:
   drating: '139.32'
   dtype: One-Handed Piercing
   wtype: Piercing
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 obtained_from: '*[[Going Home]] *[[Boning Up on the Situation]]'
 item_link: \aITEM -1909732940 -1426590934:Snapper Gnawed Anchor\/a
 categories:

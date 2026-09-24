@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Cloth Armor
-effects: '**Subtle Gestures**'
+effect_name: Subtle Gestures
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Nimble Distraction on target of spell.  Triggers about 0.2 times per minute.\n    - Decreases Threat to target by 1,539\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1004644023 -1601696094:Fingerless Gloves of the Quiet\/a
 categories:
 - Assassin Equipment

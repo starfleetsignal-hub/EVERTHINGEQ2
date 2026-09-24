@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,580
   dps: '53.3'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 10.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 670666484 -1352869813:Purposely Discarded Barbed Choker\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   resolve: '460'
   multi: '31.4'
   vselemental: +310,750
-effects: '**Bargain Shopper**'
+effect_name: Bargain Shopper
+effects: "- When Equipped:\n  - Grants an additional 8000 potency when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1281835083 130213268:Takish'Hiz Market Loop\/a
 categories:
 - Arcane Resistance (Equipment)

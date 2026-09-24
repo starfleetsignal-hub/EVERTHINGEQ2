@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Adrenaline-Charged Heals**'
+effect_name: Adrenaline-Charged Heals
+effects: "- When Equipped:\n  - Whenever the group strikes a deathblow, the wearer will gain 6% potency for 24 seconds. Increments up to 10 times.\n  - If priest\n  - Cannot be modified except by direct means"
 item_link: \aITEM -511060360 -1567720016:Bracelet of Metallic Wurm Scales\/a
 categories:
 - Adrenaline-Charged Heals (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Walking Bomb**'
+effect_name: Walking Bomb
+effects: "- Applies Walking Bomb when Activated.  Lasts for 6.0 seconds.\n  - On death this spell will cast Walking Bomb on target.\n    - Hurts nearby allies by the percentage of the target's health at which Walking Bomb was applied\n    - Inflicts cold damage to target's in area of effect based on the amount of health the target had when Walking Bomb was applied\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - Cannot be modified except by direct means\n  - The reuse time of Walking Bomb is 15.0 seconds"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM -182218862 252952735:Bigz's Broken Toe\/a
 categories:

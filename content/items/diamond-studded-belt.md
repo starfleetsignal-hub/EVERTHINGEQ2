@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+11'
   agi: '+11'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -1751234443 1132515036:Diamond Studded Belt\/a
 categories:
 - Assassin Equipment

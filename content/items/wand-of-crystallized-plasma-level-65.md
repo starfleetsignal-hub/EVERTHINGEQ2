@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Plasma Boost**'
+effect_name: Plasma Boost
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Plasma Boost on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base damage of hostile spells cast by 8%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 673571303 1413253002:Wand of Crystallized Plasma\/a
 categories:
 - Ability Modifier (Equipment)

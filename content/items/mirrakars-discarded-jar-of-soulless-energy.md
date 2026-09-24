@@ -16,7 +16,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   dps: '26.3'
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 3.0%.\n  - Increases Health Regen of caster by 15.0.\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 699300097 -140267467:Mirrakar's Discarded Jar of Soulless Energy\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Leather Armor
-effects: '**Fear**'
+effect_name: Fear
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fear II on target of attack.  Lasts for 1.0 second.  Triggers about 1.0 times per minute.\n    - Slows target by 31.4%.\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1392089270 -874393569:Leggings of Determined Growth\/a
 image: images/Leggings_of_Determined_Growth.jpg
 categories:

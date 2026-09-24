@@ -19,7 +19,8 @@ stats:
   aspeed: '65.6'
   dps: '49.8'
   vselemental: +63,224
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 150.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 279415080 -1706998702:Chuck Bangle\/a
 categories:
 - Ability Modifier (Equipment)

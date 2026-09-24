@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Scale Slice**'
+effect_name: Scale Slice
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Scale Slice on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 353 slashing damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Tunare's Gifts, volume 2]]
 item_link: \aITEM 1027555942 -1406829850:Rigid Scale Bow\/a
 categories:

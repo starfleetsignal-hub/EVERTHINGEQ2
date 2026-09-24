@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+5'
   agi: '+6'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 4.5.\n    - Increases DPS of caster by 12.3.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 482036107 -1296419718:Imbued Gold Band of Strength\/a
 categories:
 - Assassin Equipment

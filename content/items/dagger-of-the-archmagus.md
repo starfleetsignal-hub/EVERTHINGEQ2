@@ -19,7 +19,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Temporal Rending**'
+effect_name: Temporal Rending
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Temporal Rending on target of spell.  Lasts for 7.0 seconds.  Triggers about 3.2 times per minute.\n    - Inflicts 184 - 307 heat damage on target.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 79.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -703759460 -1008669886:Dagger of the Archmagus\/a
 categories:
 - Assassin Equipment

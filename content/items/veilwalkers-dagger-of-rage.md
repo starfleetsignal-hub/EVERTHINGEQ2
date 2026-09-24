@@ -25,7 +25,8 @@ stats:
   drating: '394.5'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Equalize**'
+effect_name: Equalize
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,605 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 obtained_from: Crafted by [[Weaponsmith]] (level 113) from [[Weaponsmith's Primer Volume 13]]
 item_link: \aITEM 541386201 -1527127330:Veilwalker's Dagger of Rage\/a
 categories:

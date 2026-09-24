@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -539333584 847241160 0 0 0:Sage's Ardor of Life\/a
 image: images/Sage's_Ardor_of_Life.png
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Bloodfrenzy**'
+effect_name: Bloodfrenzy
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 33% chance to cast Bloodfrenzy on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 2,648 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - On a hostile spell hit this spell has a 33% chance to cast Bloodfrenzy on target of spell.\n    - Inflicts 2,648 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1557763213 -1221622003:Treskar's Cloak of Blight\/a
 categories:
 - Assassin Equipment

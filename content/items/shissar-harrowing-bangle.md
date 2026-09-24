@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Harrowing Tempest**'
+effect_name: Harrowing Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Harrowing Tempest IV on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts between 105,000 and 1,050,000 points of damage based on the target's current health\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1993203489 815941167:Shissar Harrowing Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

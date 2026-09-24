@@ -18,7 +18,8 @@ stats:
   vselemental: '+664'
   vsnoxious: +1,162
   dtype: Chain Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base healing amount by 8%."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -39472747 1121266662:Numinous Voidlink Spaulders\/a
 categories:

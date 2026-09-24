@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 18% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 212.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1130503161 1906521638:Choker of the Fallen Priest\/a
 categories:
 - Ability Modifier (Equipment)

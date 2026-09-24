@@ -16,7 +16,8 @@ stats:
   drating: '36.6'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Sundering Smash**'
+effect_name: Sundering Smash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sundering Smash III on target of attack.  Triggers about 2.0 times per minute.\n    - Applies Knockdown on termination.  Lasts for 2.3 seconds.\n      - Throws target back\n      - Blurs vision of target.\n      - Stuns target\n      - Does not affect Epic targets\n    - Inflicts 131 - 144 heat damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 30) from [[Ancient Knowledge: Calamitous Bo Staff of Virtue]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 1842263604 -1628228646:Calamitous Bo Staff of Virtue\/a
 categories:

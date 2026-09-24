@@ -21,7 +21,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Velium Tempest**<br>**Stout Mind**'
+effect_name: Velium Tempest, Stout Mind
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,113 - 4,545 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 1,787.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 5.5.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -632100719 2068333694:Vallon's Staff of Tactical Destruction\/a
 categories:
 - Ability Modifier (Equipment)

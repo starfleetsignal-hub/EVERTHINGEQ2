@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   abmod: '+167'
   dtype: Symbols
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -2014230668 44079583:Tome of the Vicious Hooligan\/a
 categories:
 - Ability Modifier (Equipment)

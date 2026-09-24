@@ -16,7 +16,8 @@ stats:
   aspeed: '0.8'
   dps: '3.2'
   dtype: Plate Armor
-effects: '**Stunning Feedback Glyph**'
+effect_name: Stunning Feedback Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Stunning Feedback on target's attacker.  Lasts for 1.0 second.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 3.0 seconds and duration is reduced to 0.3 seconds.\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1505211869 1259340076:Frostmail Armguards\/a
 categories:
 - Attack Speed (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Armorer]] (level 70) from [[Ancient Knowledge: Vanguard Breastplate of the Boundless]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -1343553086 149908585:Vanguard Breastplate of the Boundless\/a
 categories:

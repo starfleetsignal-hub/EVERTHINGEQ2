@@ -16,7 +16,8 @@ stats:
   dps: '3.8'
   multi: '5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 1010850259 1841009551:Subjugator's Eternal Manchette\/a
 categories:
 - Assassin Equipment

@@ -19,7 +19,8 @@ stats:
   abmod: +4,018
   aspeed: '31.6'
   dtype: Buckler
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,065 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Undead Army Bounties]]'
 item_link: \aITEM -1035400261 158784141:Kaesora Unholy Buckler\/a
 categories:

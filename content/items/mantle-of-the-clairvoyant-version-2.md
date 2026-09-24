@@ -16,7 +16,8 @@ stats:
   potency: '2'
   abmod: '+48'
   dtype: Cloth Armor
-effects: '**Ethereal Strands**'
+effect_name: Ethereal Strands
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Ethereal Strands on caster.  Triggers about 1.8 times per minute.\n    - Increases power of target by 96.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1411767248 167285102:Mantle of the Clairvoyant\/a
 categories:
 - Ability Modifier (Equipment)

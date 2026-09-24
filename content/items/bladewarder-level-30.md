@@ -16,7 +16,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Bladeward**'
+effect_name: Bladeward
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bladeward on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of caster vs physical damage by 360.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -2146560961 -1918061126:Bladewarder\/a
 categories:
 - Assassin Equipment

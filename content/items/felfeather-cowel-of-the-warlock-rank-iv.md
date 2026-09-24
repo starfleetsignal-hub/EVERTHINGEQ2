@@ -19,7 +19,8 @@ stats:
   potency: 38,187.5
   resolve: '490'
   dtype: Cloth Armor
-effects: '**Felfeather Mental Aptitude**'
+effect_name: Felfeather Mental Aptitude
+effects: "- When Equipped:\n  - Protects the wearer from specific types of chromatic magic.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1181773437 -1822653396:Felfeather Cowel of the Warlock [Rank IV]\/a
 categories:
 - Ability Doublecast (Equipment)

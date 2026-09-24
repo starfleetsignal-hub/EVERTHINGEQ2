@@ -12,7 +12,8 @@ stats:
   agi: '+10'
   vselemental: '+48'
   dtype: Tower Shield
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 26 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -7352086 -777673555:Crude Imbued Feysteel Tower Shield\/a
 categories:
 - Arcane Resistance (Equipment)

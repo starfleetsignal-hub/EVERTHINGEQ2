@@ -14,7 +14,8 @@ stats:
   potency: '0.6'
   dps: '2.6'
   vsarcane: '+125'
-effects: '**Spirit of the Wind**'
+effect_name: Spirit of the Wind
+effects: "- Applies Spirit of the Wind when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM 717097573 1834982583:Eye of Atrius the Watcher\/a
 categories:
 - Arcane Resistance (Equipment)

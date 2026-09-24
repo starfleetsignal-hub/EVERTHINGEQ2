@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Diminish Thoughts**'
+effect_name: Diminish Thoughts
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Diminish Thoughts on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 900\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1462462489 -719825673:Dragonhawk\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -19,7 +19,8 @@ stats:
   resolve: '43.5'
   aspeed: '113.9'
   dtype: Tower Shield
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 807178564 -75680300:Recoiling Wall of Decay\/a
 categories:
 - AE Autoattack Chance (Equipment)

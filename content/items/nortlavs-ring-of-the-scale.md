@@ -16,7 +16,8 @@ stats:
   aspeed: '9.3'
   dps: '15.9'
   vselemental: +1,256
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '*[[Scale of Flame (Quest)|Scale of Flame]] *'
 item_link: \aITEM 1720290550 -1163474117:Nortlav's Ring of the Scale\/a
 categories:

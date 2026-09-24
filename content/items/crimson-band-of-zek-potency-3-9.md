@@ -16,7 +16,8 @@ stats:
   abmod: '+191'
   multi: '10'
   vselemental: '+511'
-effects: '**Bloodfrenzy**<br>**Furious Blows**'
+effect_name: Bloodfrenzy, Furious Blows
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 33% chance to cast Bloodfrenzy on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 2,648 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - On a hostile spell hit this spell has a 33% chance to cast Bloodfrenzy on target of spell.\n    - Inflicts 2,648 poison damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 7.0.\n    - Increases Multi Attack of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1264668930 1469982536:Crimson Band of Zek\/a
 categories:
 - Ability Modifier (Equipment)

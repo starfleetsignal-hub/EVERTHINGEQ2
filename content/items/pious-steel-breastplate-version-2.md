@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Plate Armor
-effects: '**Parsimonious Healing**'
+effect_name: Parsimonious Healing
+effects: "- When Equipped:\n  - Reduces power cost of healing spells by 5%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 1351519078 1127254540 0 0 0:Pious Steel Breastplate\/a
 categories:

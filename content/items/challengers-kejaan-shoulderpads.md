@@ -16,7 +16,8 @@ stats:
   potency: '12'
   multi: '4'
   dtype: Leather Armor
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 134\n    - Increases power of caster by 89\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1468452176 -1401335904:Challenger's Kejaan Shoulderpads\/a
 categories:
 - Assassin Equipment

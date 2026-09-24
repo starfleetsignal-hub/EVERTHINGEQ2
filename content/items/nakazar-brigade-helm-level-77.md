@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   mitinc: '3.8'
   dtype: Plate Armor
-effects: '**Majesty**'
+effect_name: Majesty
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Majesty on target's attacker.  Lasts for 4.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Stuns target\n    - Only affects targets level 88 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 96.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1509879564 1306004647:Nak'azar Brigade Helm\/a
 categories:
 - Berserker Equipment

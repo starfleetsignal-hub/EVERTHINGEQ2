@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+7'
   agi: '+7'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 180.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -396408309 -1704131892:crude ruin imbued canvas hex doll\/a
 categories:
 - Assassin Equipment

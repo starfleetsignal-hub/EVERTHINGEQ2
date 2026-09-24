@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   multi: '6.4'
   dtype: Kite Shield
-effects: '**Block Chance 3%**'
+effect_name: Block Chance 3%
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 3.0%."
 item_link: \aITEM 2052720707 -1157905432:Shield of the Green Dragon\/a
 categories:
 - Berserker Equipment

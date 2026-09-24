@@ -16,7 +16,8 @@ stats:
   abmod: +1,300
   aspeed: '33.4'
   dps: '11.5'
-effects: '**Noxious Focus**'
+effect_name: Noxious Focus
+effects: "- Applies Noxious Focus III when Activated.  Lasts for 8.0 seconds.\n  - Grants 480 potency to all noxious abilities.\n  - Removes 200 potency from arcane and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Noxious Focus III is 2 minutes"
 item_link: \aITEM 2127777515 -1132281666:Minion's Bane\/a
 image: images/Minion's_Bane.png
 categories:

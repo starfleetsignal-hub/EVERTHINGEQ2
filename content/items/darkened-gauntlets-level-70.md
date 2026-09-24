@@ -16,7 +16,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 1515075828 1639542880:Darkened Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

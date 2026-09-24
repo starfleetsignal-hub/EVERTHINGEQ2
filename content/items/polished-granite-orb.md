@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+11'
   dtype: Symbols
-effects: '**Might of the Land**'
+effect_name: Might of the Land
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Might of the Land on caster.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster against 188 points of all damage\n    - Increases power of caster by 96.\n    - Increases STR, AGI, INT and WIS of caster by 7.7.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[An Axe from the Past]]'
 item_link: \aITEM -248048859 2026027897:Polished Granite Orb\/a
 aliases:

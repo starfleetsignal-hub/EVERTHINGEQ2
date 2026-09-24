@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Plate Armor
-effects: '**Glyph of Stamina**'
+effect_name: Glyph of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Stamina on caster.  Lasts for 30.0 seconds.\n    - Increases STA of target by 24.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2017868448 -1454493743:Bracers of Shattering\/a
 categories:
 - Berserker Equipment

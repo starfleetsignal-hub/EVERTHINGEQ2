@@ -17,7 +17,8 @@ stats:
   potency: 2,957.1
   resolve: '35'
   flurry: '38.8'
-effects: '**Pernicious Precision**'
+effect_name: Pernicious Precision
+effects: "- Applies Pernicious Precision when Activated.  Lasts for 30.0 seconds.\n  - Decreases power of caster by 3.0% every 2 seconds.\n  - Decreases power of caster by an additional 3.0% every tick.\n  - Increases in-combat movement speed of caster by 100.0%.\n  - This effect can be toggled off.\n  - Cannot be modified except by direct means\n  - The casting time of Pernicious Precision is 2.0 seconds and the reuse time of the spell is 30.0 seconds\n  - Requires 23 Power to cast and 23 Power every 2.0 seconds."
 item_link: \aITEM 912398580 -343105778:Umbral Scale of the Unknown\/a
 categories:
 - AE Autoattack Chance (Equipment)

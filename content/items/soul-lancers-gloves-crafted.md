@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -1556051518 1058441269 0 0 0:Soul Lancer's Gloves\/a
 categories:

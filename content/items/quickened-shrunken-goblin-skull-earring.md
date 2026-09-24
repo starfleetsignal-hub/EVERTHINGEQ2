@@ -18,7 +18,8 @@ stats:
   abmod: +6,166
   aspeed: '58'
   vselemental: +40,714
-effects: '**Grim Aura**'
+effect_name: Grim Aura
+effects: "- Applies Grim Aura when Activated.  Lasts for 5 hours.\n  - On a hostile ability cast this spell has a 10% chance to cast Grim Strike on target of spell.  Lasts for 12.0 seconds.\n    - Inflicts 2,160 poison damage on target.\n    - Decreases Combat Mitigation of target by 5.1.\n    - Cannot be modified except by direct means\n  - On a spell cast this spell has a 15% chance to cast Grim Aura on caster.  Lasts for 10.0 seconds.\n    - Increases Melee Multiplier of caster by 1.60.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Shrunken Legacy]]'
 item_link: \aITEM 471907499 1288378810:Quickened Shrunken Goblin Skull Earring\/a
 categories:

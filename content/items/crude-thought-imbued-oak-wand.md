@@ -15,7 +15,8 @@ stats:
   drating: '24.95'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mental Blast**'
+effect_name: Mental Blast
+effects: "- Applies Mental Blast when Activated.\n  - Inflicts 176 - 293 mental damage on target.\n  - The casting time of Mental Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -92106476 -13184561:crude thought imbued oak wand\/a
 categories:
 - Berserker Equipment

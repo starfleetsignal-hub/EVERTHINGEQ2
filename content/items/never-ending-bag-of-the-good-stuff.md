@@ -8,7 +8,8 @@ level: '60'
 slot: Charm
 classes: '[[Alchemist]]'
 flags: attunable
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 310) from [[Experimenter's Blueprints 0.010]].
 item_link: \aITEM 987230588 1736412400:Never-ending Bag of "The Good Stuff"\/a
 aliases:

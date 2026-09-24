@@ -20,7 +20,8 @@ stats:
   abmod: +1,404
   aspeed: '33.7'
   dps: '12.9'
-effects: '**Shelter**'
+effect_name: Shelter
+effects: "- Applies Shelter when Activated.  Lasts for 12.0 seconds.\n  - Summons a sigil on the ground that makes any group member immune to stun, stifle, fear and daze. All group members receive a ward for 70,000 instantly and every second inside of the sigil.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Shelter is 2 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -1118283431 1733570220:Hammered Bornite Idol\/a
 categories:

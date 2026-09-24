@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Symbols
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Focus on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of target by 12.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -426636637 196026891:Symbol of Arcane Mastery\/a
 categories:
 - Ability Modifier (Equipment)

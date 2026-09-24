@@ -13,7 +13,8 @@ stats:
   mit: '154'
   potency: '0.2'
   dtype: Leather Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 37 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 713076696 1492896390:Imbued Augmented Leather Tunic\/a
 categories:
 - Assassin Equipment

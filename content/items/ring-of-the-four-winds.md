@@ -15,7 +15,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   aspeed: '2.9'
-effects: '**Whistling Wind**'
+effect_name: Whistling Wind
+effects: "- When Equipped:\n  - Increases Reuse Speed of caster by 5.0%."
 obtained_from: Speak with [[Dhae Lao, The Relic Keeper]] in [[The Village of Shin]].  If you have not already done so, you must hail him one time for each floor you have received access to, plus one more time for completing the final quest. See the [[Fallen Dynasty Timeline]].
 item_link: \aITEM 1601821277 -2126077842:Ring of the Four Winds\/a
 categories:

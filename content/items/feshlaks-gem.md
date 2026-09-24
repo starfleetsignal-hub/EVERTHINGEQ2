@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   multi: '31.2'
   vselemental: +11,484
-effects: '**Inconspicuous Strike**'
+effect_name: Inconspicuous Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Inconspicuous Strike III on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases threat priority of target by 1 position\n    - Inflicts 220,618 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1149150173 -1555862536:Feshlak's Gem\/a
 aliases:
 - Feshlak's Gem (0 Gem)

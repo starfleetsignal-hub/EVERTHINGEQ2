@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Leather Armor
-effects: '**Blessing of Zan Fi**'
+effect_name: Blessing of Zan Fi
+effects: "- When Equipped:\n  - When healed this spell has a 5% chance to cast Blessing of Zan Fi on caster.  Lasts for 5 minutes.\n    - Wards target against 200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 312999878 1418552322:Zan Fi's Lost Hat\/a
 categories:
 - Assassin Equipment

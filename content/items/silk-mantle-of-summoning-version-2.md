@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Cloth Armor
-effects: '**Empowered Summoner**'
+effect_name: Empowered Summoner
+effects: "- When Equipped:\n  - Increases base Spell damage of caster by 5%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -2046019415 1161059173 0 0 0:Silk Mantle of Summoning\/a
 categories:

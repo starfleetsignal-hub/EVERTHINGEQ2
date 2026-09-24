@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Essencelich**'
+effect_name: Essencelich
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Essencelich II on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 633,600 disease damage on target.\n    - Increases Potency of caster by 18.0.\n    - Increases DPS of caster by 25.0.\n    - Increases Mitigation of caster vs noxious damage by 2,546.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 995665238 1500778601:Fossilized Ring of the Primal Lich\/a
 categories:
 - Arcane Resistance (Equipment)

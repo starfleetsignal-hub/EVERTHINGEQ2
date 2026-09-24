@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   multi: '3.4'
   dtype: Leather Armor
-effects: '**Faint Lambent Imbued**'
+effect_name: Faint Lambent Imbued
+effects: "- Applies Faint Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 47 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -773614972 1552012038:crude imbued dragonhide tunic\/a
 categories:
 - Assassin Equipment

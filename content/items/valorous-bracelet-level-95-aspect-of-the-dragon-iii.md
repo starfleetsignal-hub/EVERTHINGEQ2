@@ -15,7 +15,8 @@ stats:
   aspeed: '28.2'
   dps: '20.3'
   vselemental: +5,273
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 112,560 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: '*From [[A Packet of Heroic Goods (Channeler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Defiler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Fury, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Inquisitor, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Mystic, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Templar, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warden, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM 634299054 246299760:Valorous Bracelet\/a
 image: images/Valorous_Bracelet.png

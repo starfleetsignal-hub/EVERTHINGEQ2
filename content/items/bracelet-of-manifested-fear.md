@@ -17,7 +17,8 @@ stats:
   aspeed: '2.2'
   dps: '8.8'
   vselemental: +8,019
-effects: '**Catharsis**'
+effect_name: Catharsis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Catharsis III on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 6,808 - 7,525.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1078289422 -966361195:Bracelet of Manifested Fear\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   abmod: '+568'
-effects: '**Planar Benediction**'
+effect_name: Planar Benediction
+effects: "- When Equipped:\n  - Converts Unyielding Benediction to a groupwide ability.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM 1533884357 -289675925:Templar's Drape of War\/a
 categories:

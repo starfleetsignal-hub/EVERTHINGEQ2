@@ -17,7 +17,8 @@ stats:
   dps: '8.1'
   multi: '4.8'
   dtype: Cloth Armor
-effects: '**Purifying Aggression**'
+effect_name: Purifying Aggression
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Purifying Aggression on caster.  Triggers about 1.4 times per minute.\n    - Increases power of caster by 119.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -835255532 1018168115:Circlet of Dark Thoughts\/a
 categories:
 - Census Credits

@@ -22,7 +22,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Corrosive Fog**<br>**Hurried Strikes**'
+effect_name: Corrosive Fog, Hurried Strikes
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 783 - 866 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 470.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 797644038 -1414540516:Vallon's Odachi of Demolition\/a
 categories:
 - Ability Modifier (Equipment)

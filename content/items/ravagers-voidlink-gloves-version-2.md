@@ -17,7 +17,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 item_link: \aITEM -669929639 -973627403 0 0 0:Ravager's Voidlink Gloves\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   aspeed: '94'
   vselemental: +9,108
   mitinc: '4'
-effects: '**Harrowing Mien**'
+effect_name: Harrowing Mien
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Haste of caster by 5.5.\n  - Increases DPS of caster by 15.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -668148364 811912528:Tuzerk's Monstrous Ring\/a
 categories:
 - Ability Modifier (Equipment)

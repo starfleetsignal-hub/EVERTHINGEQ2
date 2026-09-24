@@ -16,7 +16,8 @@ stats:
   critbonus: 1,319.5
   potency: 41,328.5
   resolve: '505'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 10 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2106252659 -397099856:Mausoleum Nexus Charm\/a
 categories:
 - Assassin Equipment

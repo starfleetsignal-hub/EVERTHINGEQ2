@@ -18,7 +18,8 @@ stats:
   resolve: '24'
   aspeed: '61.2'
   flurry: '32.6'
-effects: '**Dark Deeds**'
+effect_name: Dark Deeds
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dark Deeds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 456 magic damage on target.\n    - Heals caster for 721.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1445122090 -1762789712:Glowing Black Stone\/a
 categories:
 - Ability Doublecast (Equipment)

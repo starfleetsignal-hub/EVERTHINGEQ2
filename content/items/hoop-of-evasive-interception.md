@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +24,232
-effects: '**Evasive Posture**'
+effect_name: Evasive Posture
+effects: "- When Equipped:\n  - Applies Evasive Posture IV.  Lasts for 10.0 seconds.\n    - Inflicts 668,800 crushing damage on target.\n    - Increases Block Chance of caster by 9.0%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2100593847 189630601:Hoop of Evasive Interception\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   vselemental: +367,510
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1791968794 -200245491:Hoard Found Armlet of Obliteration\/a
 categories:
 - Arcane Resistance (Equipment)

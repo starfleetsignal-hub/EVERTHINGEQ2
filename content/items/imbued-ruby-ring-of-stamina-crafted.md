@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   vsarcane: '+84'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 14.3.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 46) from [[Advanced Jeweler Volume 46 (Normal)]] *Crafted by [[Jeweler]] (level 46) from [[Advanced Jeweler Volume 46 (no-trade)]]'
 item_link: \aITEM 479325835 -437780896:Imbued Ruby Ring of Stamina\/a
 image: images/Imbued_Ruby_Ring_of_Stamina.jpg

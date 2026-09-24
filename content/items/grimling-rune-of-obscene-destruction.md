@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Undead Destruction**'
+effect_name: Undead Destruction
+effects: "- Applies Undead Destruction III when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 39,600 disease damage on targets in Area of Effect instantly and every second.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Undead Destruction III is 30.0 seconds"
 item_link: \aITEM -742516583 -818294861:Grimling Rune of Obscene Destruction\/a
 categories:
 - Assassin Equipment

@@ -13,7 +13,8 @@ stats:
   drating: '45.38'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Holy Strike**'
+effect_name: Holy Strike
+effects: "- Applies Holy Strike when Activated.\n  - Inflicts 210 - 350 divine damage on target.\n  - The casting time of Holy Strike is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 243097255 910822558:Shaped Divine Imbued Sandalwood Wand\/a
 categories:
 - Berserker Equipment

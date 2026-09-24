@@ -17,7 +17,8 @@ stats:
   potency: 6,482.6
   resolve: '155'
   dps: '59.8'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: '[[Shattered Dawn: Battle of the Nexus]]'
 item_link: \aITEM -882751245 -270080363:Orb of Ro's Radiance\/a
 image: images/Orb_of_Ro's_Radiance.png

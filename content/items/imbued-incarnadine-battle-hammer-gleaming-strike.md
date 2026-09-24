@@ -15,7 +15,8 @@ stats:
   drating: '67.31'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 247 - 459 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 623798794 1994653179:Imbued Incarnadine Battle Hammer\/a
 categories:
 - Berserker Equipment

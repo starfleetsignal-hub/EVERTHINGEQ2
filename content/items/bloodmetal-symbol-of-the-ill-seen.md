@@ -17,7 +17,8 @@ stats:
   abmod: +3,825
   aspeed: '30.1'
   dtype: Symbols
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1198629822 1789594752:Bloodmetal Symbol of the Ill-Seen\/a
 categories:
 - Ability Modifier (Equipment)

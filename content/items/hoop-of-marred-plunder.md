@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +19,032
-effects: '**Plundered Mistmoore Secrets**'
+effect_name: Plundered Mistmoore Secrets
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Plundered Mistmoore Secrets IV on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 422,400 poison damage on target.\n    - Heals group members (AE) for 49,962.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 908639041 1646517093:Hoop of Marred Plunder\/a
 categories:
 - Arcane Resistance (Equipment)

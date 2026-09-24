@@ -18,7 +18,8 @@ stats:
   potency: 52,704.7
   resolve: '660'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Fervor Overcap of caster by 68.4.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 713167532 -356300081:Abyssal Grotto Relic Boots, Revealed\/a
 categories:
 - Assassin Equipment

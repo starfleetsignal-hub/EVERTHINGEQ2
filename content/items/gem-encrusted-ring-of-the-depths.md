@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +19,032
-effects: '**Eye of Drinal**'
+effect_name: Eye of Drinal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Eye of Drinal III on target of attack.  Lasts for 15.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 133,760 divine damage on target.\n    - Inflicts 96,800 divine damage on target every 3 seconds.\n    - Increases Potency of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1772218247 -283228026:Gem Encrusted Ring of the Depths\/a
 categories:
 - Arcane Resistance (Equipment)

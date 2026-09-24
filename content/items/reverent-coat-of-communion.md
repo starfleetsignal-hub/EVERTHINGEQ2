@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '110'
   dtype: Chain Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Ancient Knowledge: Reverent Coat of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 2137273939 -565168657:Reverent Coat of Communion\/a
 categories:

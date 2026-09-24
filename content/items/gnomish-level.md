@@ -8,7 +8,8 @@ level: '40'
 slot: Charm
 classes: '[[Carpenter]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 170) from [[Dabbler's Blueprints 0.006]].
 item_link: \aITEM -243274498 101922926:Gnomish Level\/a
 image: images/Gnomish_Level.png

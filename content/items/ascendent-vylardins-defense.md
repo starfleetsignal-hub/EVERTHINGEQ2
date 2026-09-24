@@ -20,7 +20,8 @@ stats:
   aspeed: '39.9'
   cbovercap: '+150'
   dtype: Symbols
-effects: '**Curuvar''Renda**'
+effect_name: Curuvar'Renda
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curuvar'Renda on target of attack.  Triggers about 3.0 times per minute.\n    - Applies Curuvar'Renda.  Lasts for 6.0 seconds.\n      - Increases Fervor of target by 5.0.\n    - Inflicts 6,676 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 obtained_from: (see article at this link http://eq2library.com/ka/progression/
 item_link: \aITEM -977435540 865592834:Ascendent Vylardin's Defense\/a
 categories:

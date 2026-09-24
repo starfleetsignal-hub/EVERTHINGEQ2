@@ -16,7 +16,8 @@ stats:
   strike: '11.7'
   dps: '18.1'
   dtype: Tower Shield
-effects: '**Defiant Stand**'
+effect_name: Defiant Stand
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Defiant Stand on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Defiant Stand on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -541017650 1158857585:Arc Knight Towershield\/a
 categories:
 - Berserker Equipment

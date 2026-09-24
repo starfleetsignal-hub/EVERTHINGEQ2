@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   dtype: Chain Armor
-effects: '**Invader''s Effort**'
+effect_name: Invader's Effort
+effects: "- When Equipped:\n  - Increases Potency of caster by 13,935.6.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Gerion's Reckoning Raid Rares Beta Reward (crate) (Version 1)|Gerion's Reckoning Raid Rares Beta Reward]]
 item_link: \aITEM -699830044 1362455837:Gerion's Reckoning Mutilator Chain Mantle\/a
 categories:

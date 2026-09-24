@@ -17,7 +17,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -226926518 -1342254042:Robes of the Vice Vigoth\/a
 categories:
 - Arcane Recovery (Equipment)

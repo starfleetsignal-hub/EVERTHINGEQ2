@@ -13,7 +13,8 @@ stats:
   crit: '5.7'
   critbonus: '5.1'
   potency: '8.6'
-effects: '**Charge of the Deepwater Knight**'
+effect_name: Charge of the Deepwater Knight
+effects: "- Applies Charge of the Deepwater Knight when Activated.  Lasts for 30.0 seconds.\n  - Increases Multi Attack of caster by 40.0.\n  - Makes caster immune to Stifle effects\n  - 5% of all physical damage received by the caster is prevented.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Charge of the Deepwater Knight is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[The Fallen Swords: All Roads Lead To...]]'
 item_link: \aITEM 2025036043 -505834766:Deepwater Mark of Duty\/a
 categories:

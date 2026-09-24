@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Chain Armor
-effects: '**Frost Strike**<br>**Poison Lash**'
+effect_name: Frost Strike, Poison Lash
+effects: "- When Equipped:\n  - Increases cold damage done by spells by up to 50.\n- When Equipped:\n  - Increases poison damage done by spells by up to 50."
 obtained_from: '[[We Will Be Free Again!]]'
 item_link: \aITEM 1540357168 -454801139:Reet Guardian's Wristguard\/a
 categories:

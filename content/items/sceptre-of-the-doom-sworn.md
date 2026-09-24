@@ -17,7 +17,7 @@ stats:
   drating: '73.4'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: Quickened
+effects: "- When Equipped\n  - On a successful attack this spell has a chance to cast ***Spell Quickening*** on caster. Lasts for 10.0 second. This effect will trigger an average of 1.8 times per minute.\n    - Increases Casting Speed of caster by 16.0%"
 obtained_from: drops from [[Doomsworn Zatrakh]] in the [[The Laboratory of Lord Vyemm]]
 image: images/Scepter_of_the_Doom_Sworn.jpg
 categories:

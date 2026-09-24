@@ -17,7 +17,8 @@ stats:
   potency: '213.7'
   resolve: '6'
   dtype: Leather Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -295591708 -605919504:Invigorated Martial Psionist's Crown\/a
 categories:
 - AE Autoattack Chance (Equipment)

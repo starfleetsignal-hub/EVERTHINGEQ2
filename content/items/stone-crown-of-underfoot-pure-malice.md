@@ -16,7 +16,8 @@ stats:
   potency: '52.7'
   mitinc: '10.9'
   dtype: Plate Armor
-effects: '**Pure Malice**'
+effect_name: Pure Malice
+effects: "- Applies Pure Malice when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -1167189691 1966822527:Stone Crown of Underfoot\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '233'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Devout Breastplate of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 1974749976 -2071724639:Devout Breastplate of Momentum\/a
 categories:

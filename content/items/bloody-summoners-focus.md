@@ -15,7 +15,8 @@ stats:
   potency: '24'
   dps: '21.8'
   multi: '31.2'
-effects: '**Escaped Melee**'
+effect_name: Escaped Melee
+effects: "- Applies Escaped Melee when Activated.  Lasts for 18.0 seconds.\n  - Increases Weapon Damage Bonus of the caster by 25. This value grows by 4 for each meter the caster is from their currently targeted enemy. The maximum increase is 225.\n  - Cannot be modified except by direct means\n  - The reuse time of Escaped Melee is 1 minute"
 item_link: \aITEM 1151515504 -951289127:Bloody Summoner's Focus\/a
 categories:
 - Assassin Equipment

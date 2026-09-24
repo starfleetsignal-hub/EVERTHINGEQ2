@@ -17,7 +17,8 @@ stats:
   dps: '17.3'
   multi: '11'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[Sehesh]] in [[The Sundered Frontier]]
 item_link: \aITEM 1573891419 1677368781:Sage-guardian Gauntlets\/a
 categories:

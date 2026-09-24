@@ -13,7 +13,8 @@ stats:
   mit: '106'
   potency: '0.2'
   dtype: Cloth Armor
-effects: '**Cabalistic Nexus**'
+effect_name: Cabalistic Nexus
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 1.8%.\n  - Increases Potency of caster by 1.8."
 obtained_from: '*Crafted by [[Tailor]] (level 40) from [[Ancient Knowledge: Tranquil Robe of Volatility]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -1852532615 636067386:Tranquil Robe of Volatility\/a
 categories:

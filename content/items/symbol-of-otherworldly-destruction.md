@@ -15,7 +15,8 @@ stats:
   potency: '9.6'
   abmod: '+336'
   dtype: Symbols
-effects: '**Aura of the Archmagus**'
+effect_name: Aura of the Archmagus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aura of the Archmagus on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Spell Reuse Speed of group members (AE) by 5.0%.\n    - Increases Casting Speed of group members (AE) by 10.0%.\n    - Increases Reuse Speed of group members (AE) by 10.0%.\n    - Increases Potency of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1775499979 -2102089209:Symbol of Otherworldly Destruction\/a
 categories:
 - Ability Modifier (Equipment)

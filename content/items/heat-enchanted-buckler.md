@@ -13,7 +13,8 @@ stats:
   crit: '0.3'
   potency: '0.5'
   dtype: Buckler
-effects: '**Enfeeblement**'
+effect_name: Enfeeblement
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Enfeeblement on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases STR of target encounter by 24.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 177253864 -554242105:Heat Enchanted Buckler\/a
 categories:
 - Berserker Equipment

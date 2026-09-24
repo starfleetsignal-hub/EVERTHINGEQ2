@@ -16,7 +16,8 @@ stats:
   potency: '510.9'
   resolve: '6'
   abmod: +15,381
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -706705240 863908673:Undying Champion's Focus Cloak\/a
 categories:
 - Ability Doublecast (Equipment)

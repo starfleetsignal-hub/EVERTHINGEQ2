@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 164,640 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1089844824 -474587397:Bungler's Bracelet\/a
 categories:
 - AE Autoattack Chance (Equipment)

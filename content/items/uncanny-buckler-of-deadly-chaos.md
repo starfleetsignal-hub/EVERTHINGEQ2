@@ -21,7 +21,8 @@ stats:
   dps: '118.8'
   multi: '67'
   dtype: Buckler
-effects: '**Unbridled Savagery**'
+effect_name: Unbridled Savagery
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 8% chance to cast Unbridled Savagery on caster.  Lasts for 15.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus Overcap of caster by 28.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 9.0 - 13.0 seconds."
 item_link: \aITEM 241721633 -728951045:Uncanny Buckler of Deadly Chaos\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   aspeed: '14.8'
   multi: '15.6'
   vselemental: +1,632
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Discombobulate II on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,441 - 4,908\n    - Inflicts 2,305 - 2,548 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Discombobulate II on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,441 - 4,908\n    - Inflicts 2,305 - 2,548 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -298393295 -716960227:Fleeced Bracelet of the Wholesaler\/a
 categories:
 - Arcane Resistance (Equipment)

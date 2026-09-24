@@ -17,7 +17,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Detonation on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 101 - 168 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 50930519 1394240387:Hardened Plasmatic Scourge\/a
 categories:
 - Beastlord Equipment

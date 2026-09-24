@@ -15,7 +15,8 @@ stats:
   resolve: '2'
   aspeed: '35.2'
   vselemental: +28,613
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Increases Block Chance of caster by 10.0%."
 item_link: \aITEM 1722424382 -1226758529:Earstud of Yagg-kythor\/a
 categories:
 - Arcane Resistance (Equipment)

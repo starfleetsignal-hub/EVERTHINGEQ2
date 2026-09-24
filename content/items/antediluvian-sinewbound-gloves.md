@@ -17,7 +17,8 @@ stats:
   dps: '18.7'
   multi: '24.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -295487409 748719929 0 0 0:Antediluvian Sinewbound Gloves\/a
 categories:
 - Accuracy (Equipment)

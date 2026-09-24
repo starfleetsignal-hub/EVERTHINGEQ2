@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Leather Armor
-effects: '**Poison Skin**'
+effect_name: Poison Skin
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Skin on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 194 poison damage on target.\n    - Cannot be modified except by direct means\n  - When damaged with a melee weapon this spell has a 10% chance to cast Poison Skin on target's attacker.\n    - Inflicts 194 poison damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Reet Knight Armor]]'
 item_link: \aITEM -512249947 -8809340:Skullcap of the Reet Knight\/a
 image: images/SkullcapoftheReefKnightExamine.jpg

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 10%."
 obtained_from: '*Made from [[Elemental Vanquisher''s Chestguard Mold]] *Made from [[Elemental Vanquisher''s Chestguard Pattern]]'
 item_link: \aITEM 1357382546 -1254155500 0 0 0:Fireborn Robe of Mindmelting\/a
 categories:

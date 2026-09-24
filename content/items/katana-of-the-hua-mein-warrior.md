@@ -13,7 +13,8 @@ stats:
   drating: '100.33'
   dtype: One-Handed Slashing
   wtype: Slashing
-effects: '**Slash of the Hua Mein Warrior**'
+effect_name: Slash of the Hua Mein Warrior
+effects: "- Applies Slash of the Hua Mein Warrior when Activated.\n  - Shapechanges the user into a Hua Mein Warrior.\n  - The casting time of Slash of the Hua Mein Warrior is 3.0 seconds and the reuse time of the spell is 10.0 seconds"
 obtained_from: Sold by [[Ra'di]] (Faction Merchant) in [[The Sundered Frontier]]
 item_link: \aITEM 1921724130 2116162576:Katana of the Hua Mein Warrior\/a
 categories:

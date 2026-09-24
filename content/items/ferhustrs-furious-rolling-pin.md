@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Symbols
-effects: '**Flour Power**'
+effect_name: Flour Power
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Flour Power on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 20%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1426606283 2049700786:Ferhustr's Furious Rolling-Pin\/a
 categories:
 - Assassin Equipment

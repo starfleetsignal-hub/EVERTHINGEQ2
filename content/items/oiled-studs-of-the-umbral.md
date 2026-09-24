@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Rising Brutality**'
+effect_name: Rising Brutality
+effects: "- Applies Rising Brutality II when Activated.  Lasts for 12.0 seconds.\n  - Applies Invigorated Haste II on termination.  Lasts for 30.0 seconds.\n    - Increases Haste of caster by 30.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Damage Per Second of the caster over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Rising Brutality II is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 20) from [[Ancient Knowledge: Oiled Studs of the Umbral]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1381138684 -575673755:Oiled Studs of the Umbral\/a
 categories:

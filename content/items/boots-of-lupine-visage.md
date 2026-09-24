@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   aspeed: '6.7'
   dtype: Leather Armor
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 131.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -141711367 -1416085089:Boots of Lupine Visage\/a
 categories:
 - Assassin Equipment

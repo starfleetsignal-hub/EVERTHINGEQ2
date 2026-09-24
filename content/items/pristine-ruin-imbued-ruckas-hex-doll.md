@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+7'
   sta: '+7'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 257.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 26) from [[Advanced Tailor Volume 26 (Normal)]] *Crafted by [[Tailor]] (level 26) from [[Advanced Tailor Volume 26 (No-Trade)]]'
 item_link: \aITEM -588239679 311232851 0 0 0:pristine ruin imbued ruckas hex doll\/a
 image: images/Ruin_imbued_ruckas_hex_doll.png

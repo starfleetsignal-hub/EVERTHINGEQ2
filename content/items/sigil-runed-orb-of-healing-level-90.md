@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Symbols
-effects: '**Lesser Runic Absorption**'
+effect_name: Lesser Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Lesser Runic Absorption on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM 515628877 -1565661957:Sigil Runed Orb of Healing\/a
 categories:
 - Ability Modifier (Equipment)

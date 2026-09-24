@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Lightning Shock**'
+effect_name: Lightning Shock
+effects: "- Applies Lightning Shock when Activated.\n  - Inflicts 53 - 88 magic damage on target.\n  - The casting time of Lightning Shock is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '*Crafted by [[Craftsman]] (level 15) from [[Advanced craftsman volume 15 (Normal)]] *Crafted by [[Craftsman]] (level 15) from [[Advanced craftsman volume 15 (No-Trade)]]'
 item_link: \aITEM -461930484 1183644933:Magic Imbued Bone Wand\/a
 categories:

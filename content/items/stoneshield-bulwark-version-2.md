@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   dtype: Tower Shield
-effects: '**Stoneshield Phalanx**'
+effect_name: Stoneshield Phalanx
+effects: "- When Equipped:\n  - Has a 2% chance to absorb a melee attack."
 item_link: \aITEM 1991720366 247438716:Stoneshield Bulwark\/a
 categories:
 - Ability Modifier (Equipment)

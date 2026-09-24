@@ -13,7 +13,7 @@ stats:
   vsarcane: '+167'
   vsnoxious: '+167'
   dtype: Kite Shield
-effects: Sanguine Imbued
+effects: "Applies Sanguine Imbued when Equipped.\n\n- When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n  - Inflicts 126 heat damage on target\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Armorer]] (level 30) from [[Advanced Armorer Volume 30]]
 categories:
 - Arcane Resistance (Equipment)

@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+10'
   vsarcane: '+100'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 10.3.\n    - Increases DPS of caster by 16.1.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 48) from [[Jeweler Essentials Volume 48 (Normal)]] *Crafted by [[Jeweler]] (level 48) from [[Jeweler Essentials Volume 48 (no-trade)]]'
 item_link: \aITEM -697632690 1952758447:Imbued Diamondine Band of Strength\/a
 categories:

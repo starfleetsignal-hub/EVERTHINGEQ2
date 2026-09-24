@@ -19,7 +19,8 @@ stats:
   drating: '103.48'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Lethargy on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases DPS of targets in Area of Effect by 18.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1051355391 1348416678:Love's Lament\/a
 image: images/Love's_Lament.png
 categories:

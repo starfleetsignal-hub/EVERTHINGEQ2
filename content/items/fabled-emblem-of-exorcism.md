@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Eye of Drinal**'
+effect_name: Eye of Drinal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Eye of Drinal II on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 98,098 divine damage on target.\n    - Inflicts 67,914 divine damage on target every 3 seconds.\n    - Increases Potency of caster by 22.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 963228424 348227457:Fabled Emblem of Exorcism\/a
 categories:
 - Arcane Resistance (Equipment)

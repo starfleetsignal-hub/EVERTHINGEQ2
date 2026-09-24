@@ -8,7 +8,8 @@ level: '90'
 slot: Ear
 flags: ornate no-trade
 description: This item can be transmuted for valuable adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 obtained_from: '*From [[Greater Transmuter''s Cache]] *From [[Greater Transmuter''s Hoard]] *From [[Transmuter''s Cache]] *From [[Transmuter''s Hoard]]'
 item_link: \aITEM 1027380254 2089448008:Transmuter's Stone\/a
 image: images/Transmuter's_Stone.png

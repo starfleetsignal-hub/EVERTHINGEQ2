@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '13'
-effects: '**Frigid Deflection**'
+effect_name: Frigid Deflection
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 12% chance to cast Frigid Deflection on caster.  Lasts for 15.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Prevents AOE (except when direct)\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1527517428 1716622824:Frosttide Snowcloak\/a
 categories:
 - Assassin Equipment

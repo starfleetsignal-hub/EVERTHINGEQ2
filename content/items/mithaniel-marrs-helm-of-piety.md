@@ -16,7 +16,8 @@ stats:
   potency: '12.7'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Pride of Marr**'
+effect_name: Pride of Marr
+effects: "- Applies Pride of Marr when Activated.  Lasts for 1 minute.\n  - Shapechanges caster into an a clawed sentinel\n  - Increases Crit Bonus of caster by 25.0.\n  - Increases Block Chance of caster by 25.0%.\n  - On any combat or spell hit this spell will cast Pride of Marr on target of attack.\n    - Inflicts 9,604 slashing damage on target\n    - Heals caster for 1,921\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Pride of Marr is 5 minutes"
 item_link: \aITEM 1118333314 1312696559:Mithaniel Marr's Helm of Piety\/a
 categories:
 - Berserker Equipment

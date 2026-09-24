@@ -7,7 +7,8 @@ tier: Treasured
 level: '80'
 slot: Neck
 flags: ornate lore no-trade no-value
-effects: '**Crystalline Stasis**'
+effect_name: Crystalline Stasis
+effects: "- Applies Crystalline Stasis when Activated.  Lasts for 5 minutes 10 seconds.\n  - The target is entombed in a magic crystalline structure.\n  - The amulet would have no effect on this target.\n  - The casting time of Crystalline Stasis is 1.0 second and the reuse time of the spell is 40.0 seconds"
 obtained_from: '[[Frozen Out of Time]]'
 item_link: \aITEM 329401692 440157139:void energized amulet of crystallization\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Ringing Blow**'
+effect_name: Ringing Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ringing Blow on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 350\n    - Inflicts 102 - 152 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[And Your Goblin Too!]]'
 item_link: \aITEM 429508071 -380548691:Sword of the Valkyrie\/a
 categories:

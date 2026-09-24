@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.3'
   abmod: '+30'
-effects: '**Hand of Fate**'
+effect_name: Hand of Fate
+effects: '- Applies Hand of Fate when Activated.'
 obtained_from: '[[The Courts of Maj''Dul: Of Fate and Destiny|The Courts of Maj''Dul:  Of Fate and Destiny]]'
 item_link: \aITEM 1591577922 -1831165990:Ring of Fate\/a
 categories:

@@ -11,7 +11,8 @@ stats:
   sta: '+4'
   int: '+4'
   dtype: Buckler
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 11 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -917430882 1616476904:crude imbued bone buckler\/a
 categories:
 - Assassin Equipment

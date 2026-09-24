@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '1.1'
   dtype: Chain Armor
-effects: '**Full Body Elemental Environmental Suit**'
+effect_name: Full Body Elemental Environmental Suit
+effects: "- Applies Full Body Elemental Environmental Suit when Equipped.\n  - Converts 4.5% of all elemental damage received into power gain."
 item_link: \aITEM 746081064 856050220:Full Body Elemental Environmental Suit\/a
 categories:
 - Assassin Equipment

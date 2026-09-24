@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Chain Armor
-effects: '**Leviathan''s Madness**'
+effect_name: Leviathan's Madness
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Leviathan's Madness on caster.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Applies Leviathan's Burnout on termination.  Lasts for 24.0 seconds.\n      - Decreases Haste of caster by 10.0.\n      - Decreases damage done by Combat Arts by up to 100.\n    - Enlarges caster by 30.0%.\n    - Increases Haste of caster by 50.0.\n    - Increases damage done by Combat Arts by up to 300.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -813835774 1481478345:Runed Leviathan Carapace\/a
 categories:
 - AE Autoattack Chance (Equipment)

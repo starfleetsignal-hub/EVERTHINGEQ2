@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+1'
   sta: '+1'
-effects: '**Empowerment of Bones**'
+effect_name: Empowerment of Bones
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Empowerment of Bones on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 1 instantly and every 3 seconds.\n    - Heals caster for 1 instantly and every 3 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1840734891 -96140719:Enchanted Orcish General's Skull\/a
 categories:
 - Assassin Equipment

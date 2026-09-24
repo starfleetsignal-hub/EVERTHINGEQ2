@@ -12,7 +12,8 @@ stats:
   wis: '+58'
   crit: '5'
   dtype: Symbols
-effects: '**Toxic Tempest**<br>**PvP Potency**'
+effect_name: Toxic Tempest, PvP Potency
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 poison damage on target.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Potency of caster by 2.0.\n  - Must be engaged in pvp combat"
 item_link: \aITEM -472712543 -1891192724:Discord's Devastation Tome\/a
 categories:
 - Census Credits

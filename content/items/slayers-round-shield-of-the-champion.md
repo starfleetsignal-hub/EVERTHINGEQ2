@@ -15,7 +15,8 @@ stats:
   potency: '1.3'
   abmod: '+30'
   dtype: Buckler
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 24.0.\n  - This effect suspends during combat"
 item_link: \aITEM 1911414967 -443833052:Slayer's Round Shield of the Champion\/a
 categories:
 - Ability Modifier (Equipment)

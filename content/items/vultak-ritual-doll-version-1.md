@@ -16,7 +16,8 @@ stats:
   abmod: '+48'
   vsarcane: '+245'
   dtype: Symbols
-effects: '**Rite of the Listless**'
+effect_name: Rite of the Listless
+effects: "- Applies Rite of the Listless when Activated.  Lasts for 20.0 seconds.\n  - Increases Haste of caster by 5.0.\n  - The casting time of Rite of the Listless is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM -1722079978 1835931843:Vultak Ritual Doll\/a
 categories:
 - Ability Modifier (Equipment)

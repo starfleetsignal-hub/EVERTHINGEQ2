@@ -17,7 +17,8 @@ stats:
   potency: '2'
   abmod: '+48'
   dtype: Cloth Armor
-effects: '**Resplendent Misgivings**'
+effect_name: Resplendent Misgivings
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Resplendent Misgivings on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 item_link: \aITEM 1456256449 286401482:Resplendent Scapular's Mantle\/a
 categories:
 - Ability Modifier (Equipment)

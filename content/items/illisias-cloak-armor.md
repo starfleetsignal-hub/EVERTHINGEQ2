@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Illisia''s Spirit**<br>**Featherfall**'
+effect_name: Illisia's Spirit, Featherfall
+effects: "- Applies Illisia's Spirit when Activated.  Lasts for 12.0 seconds.\n  - Increases Accuracy of caster by 5.0%.\n  - The casting time of Illisia's Spirit is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Illisia's Cloak (crate)|Illisia's Cloak]]
 item_link: \aITEM 2045033171 -1339779749:Illisia's Cloak\/a
 categories:

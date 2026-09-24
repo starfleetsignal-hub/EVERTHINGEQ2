@@ -16,7 +16,8 @@ stats:
   critbonus: 1,338.9
   potency: 44,349.8
   resolve: '535'
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 53.0.\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -504639365 -792081741:Monumental Charm, Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

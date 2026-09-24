@@ -16,7 +16,8 @@ stats:
   dps: '15.9'
   multi: '10'
   vselemental: +1,256
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -898492798 2146256287:Stud of Rawr and Grrr\/a
 categories:
 - Arcane Resistance (Equipment)

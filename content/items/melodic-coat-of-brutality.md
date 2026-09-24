@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 7.0.\n  - Increases Haste of caster by 7.0.\n  - Increases in-combat movement speed of caster by 7.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 70) from [[Ancient Knowledge: Melodic Coat of Brutality]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 1480663394 710236400:Melodic Coat of Brutality\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   aspeed: '58'
   dps: '36.9'
   multi: '53.6'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 630269667 1265325474:Expert's Chomp's Noxious Fang\/a
 categories:
 - Ability Doublecast (Equipment)

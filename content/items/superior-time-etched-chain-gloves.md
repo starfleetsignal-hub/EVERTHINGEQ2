@@ -18,7 +18,8 @@ stats:
   multi: '18.1'
   flurry: '7.7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -168241953 -1968899179:Superior Time Etched Chain Gloves\/a
 categories:
 - Assassin Equipment

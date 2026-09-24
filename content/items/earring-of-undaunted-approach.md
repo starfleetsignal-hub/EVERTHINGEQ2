@@ -15,7 +15,8 @@ stats:
   abmod: '+202'
   multi: '21.2'
   vselemental: +8,448
-effects: '**Quest for Immortality**'
+effect_name: Quest for Immortality
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Quest for Immortality on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Reuse Speed of caster by 12.0%.\n    - Increases Casting Speed of caster by 12.0%.\n    - Increases Ability Mod of caster by 900.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Quest for Immortality on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Reuse Speed of caster by 12.0%.\n    - Increases Casting Speed of caster by 12.0%.\n    - Increases Ability Mod of caster by 900.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1804711710 1683419718:Earring of Undaunted Approach\/a
 categories:
 - Ability Modifier (Equipment)

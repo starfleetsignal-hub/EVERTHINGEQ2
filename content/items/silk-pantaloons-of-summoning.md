@@ -17,7 +17,8 @@ stats:
   vselemental: +1,066
   vsnoxious: '+615'
   dtype: Cloth Armor
-effects: '**Power Flux**'
+effect_name: Power Flux
+effects: "- When Equipped:\n  - Increases pet Spell and Combat Art damage by 115, and melee/spell criticals by 3%."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -347708849 1027222942:[Silk Pantaloons of Summoning]\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   dtype: Leather Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM 1709098648 1773570083:Jaggedpine Elder's Cap\/a
 categories:
 - Casting Speed (Equipment)

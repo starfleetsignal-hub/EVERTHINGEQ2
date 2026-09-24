@@ -17,7 +17,8 @@ stats:
   aspeed: '6.3'
   multi: '79.4'
   mitinc: '2'
-effects: '**Thorns of Tunare**'
+effect_name: Thorns of Tunare
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Thorns of Tunare on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Flurry of Caster by 3.0.\n    - When damaged this spell will cast Thorns of Tunare on target's attacker.\n      - Inflicts 6,200 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1235797213 -2071980169 0 0 0:Vine Etched Girdle of Tunare's Champion\/a
 categories:
 - Attack Speed (Equipment)

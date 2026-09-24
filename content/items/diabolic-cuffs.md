@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Binding Howl**'
+effect_name: Binding Howl
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Binding Howl on target of spell.  Lasts for 4.8 seconds.  Triggers about 1.8 times per minute.\n    - Roots target\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 80 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 84.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -967510338 1507249515:Diabolic Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

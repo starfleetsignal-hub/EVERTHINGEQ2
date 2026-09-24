@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Retaliation**'
+effect_name: Retaliation
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Retaliation on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 26,720 - 29,532 slashing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 632300621 -744277363:Fabled Golden Searing Bracelet\/a
 categories:
 - AE Autoattack Chance (Equipment)

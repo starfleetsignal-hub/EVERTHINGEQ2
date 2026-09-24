@@ -11,7 +11,8 @@ stats:
   str: '+1'
   mit: '3'
   dtype: Leather Armor
-effects: '**Thaumatoscopic Goggles**'
+effect_name: Thaumatoscopic Goggles
+effects: "- Applies Thaumatoscopic Goggles when Equipped.\n  - Grants Aura Vision to caster"
 obtained_from: Made with Tinkering (skill 385) from [[Master's Blueprints 0.007]].
 item_link: \aITEM -261121883 -1963999567:Thaumatoscopic Goggles\/a
 categories:

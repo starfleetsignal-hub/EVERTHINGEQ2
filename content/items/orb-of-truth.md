@@ -16,7 +16,8 @@ stats:
   multi: '2.5'
   flurry: '1.2'
   dtype: Symbols
-effects: '**Healing Pulse**'
+effect_name: Healing Pulse
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Healing Pulse on caster.\n    - Heals target for 185.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1551049108 -2016109556:Orb of Truth\/a
 categories:
 - Assassin Equipment

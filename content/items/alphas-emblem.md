@@ -16,7 +16,8 @@ stats:
   resolve: '2'
   abmod: +1,559
   aspeed: '17.6'
-effects: '**Understanding the Weak Spots**'
+effect_name: Understanding the Weak Spots
+effects: "- When Equipped:\n  - Increases Potency of caster by 52.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 300%"
 item_link: \aITEM -857560711 1483574704:Alpha's Emblem\/a
 image: images/Alpha's_Emblem.png
 categories:

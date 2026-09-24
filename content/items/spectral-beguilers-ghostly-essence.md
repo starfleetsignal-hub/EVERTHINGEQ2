@@ -19,7 +19,8 @@ stats:
   abmod: +16,002
   aspeed: '39'
   mitinc: '8.8'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 19.2.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -2098023035 -1882586821:Spectral Beguiler's Ghostly Essence\/a
 categories:
 - Ability Modifier (Equipment)

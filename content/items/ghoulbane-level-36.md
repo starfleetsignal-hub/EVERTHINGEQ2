@@ -16,7 +16,8 @@ stats:
   drating: '24.58'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Power of Ghoulbane**'
+effect_name: Power of Ghoulbane
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Power of Ghoulbane on target of attack.\n    - Inflicts 16 - 19 divine damage on target.\n      - If target is undead\n    - Cannot be modified except by direct means"
 item_link: \aITEM 360355493 -1002157630:Ghoulbane\/a
 aliases:
 - Ghoulbane (Level 32)

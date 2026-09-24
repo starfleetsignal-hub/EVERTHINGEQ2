@@ -18,7 +18,8 @@ stats:
   resolve: '170'
   abmod: +50,749
   aspeed: '85.4'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.0.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1022501254 1823019256:Vleecan's Mustachio Comb\/a
 categories:
 - Ability Modifier (Equipment)

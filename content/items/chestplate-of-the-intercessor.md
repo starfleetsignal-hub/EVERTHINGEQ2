@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Plate Armor
-effects: '**Distracting Aura**'
+effect_name: Distracting Aura
+effects: "- Applies Distracting Aura when Activated.  Lasts for 30.0 seconds.\n  - When damaged this spell will cast Distract on target's attacker.\n    - Decreases Threat to target encounter by 1,409 - 2,349\n    - Cannot be modified except by direct means\n  - The reuse time of Distracting Aura is 30 minutes"
 item_link: \aITEM -669379747 1549793393:Chestplate of the Intercessor\/a
 categories:
 - Ability Modifier (Equipment)

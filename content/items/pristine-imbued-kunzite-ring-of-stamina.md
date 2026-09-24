@@ -15,7 +15,7 @@ stats:
   vselemental: '+188'
   vsarcane: '+188'
   vsnoxious: '+188'
-effects: Aura of Stamina
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 3% chance to cast ***Spark of Stamina*** on caster. Lasts for 45.0 seconds.\n    - Increases STA of caster by 19.8\n    - Increases In-Combat Health Regeneration Per Tick of caster by 12.0"
 obtained_from: Crafted by [[Jeweler]] (level 76) from [[Jeweler Essentials Volume 76]]
 item_link: -1887441351 1524775154:pristine imbued kunzite ring of stamina
 categories:

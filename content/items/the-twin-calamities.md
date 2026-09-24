@@ -18,7 +18,7 @@ stats:
   drating: '73.4'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: Unleash Calamity
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast **Ruinous Strike** on target of attack.  Lasts for 5.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts 342-570 magic damage on target\n    - Decreases Mitagation of target vs piercing damage by 1136"
 image: images/The_Twin_Calamities.jpg
 categories:
 - Brawler Equipment

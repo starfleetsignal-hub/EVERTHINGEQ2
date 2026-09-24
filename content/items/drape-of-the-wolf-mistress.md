@@ -14,7 +14,8 @@ stats:
   crit: '5.2'
   critbonus: '4.8'
   potency: '8.2'
-effects: '**Advantageous Tactics**'
+effect_name: Advantageous Tactics
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Advantageous Tactics on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 20%.\n    - Dispelled when target casts a heal spell\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1674606384 -521365265:Drape of the Wolf Mistress\/a
 categories:
 - Advantageous Tactics (Equipment)

@@ -18,7 +18,8 @@ stats:
   abmod: '+62'
   flurry: '2.1'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 1402749343 1256569750:Bracers of Brawling\/a
 categories:
 - Ability Modifier (Equipment)

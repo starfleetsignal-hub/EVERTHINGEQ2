@@ -16,7 +16,8 @@ stats:
   abmod: '+71'
   multi: '5.4'
   vsarcane: '+280'
-effects: '**Dark Aura of Protection**'
+effect_name: Dark Aura of Protection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Star Darkened Armoring on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the target's effectiveness of worn armor vs physical damage by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1566912253 2096086058:Hoop of the Chosen\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   dps: '82.5'
   dtype: Leather Armor
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 obtained_from: From [[Hoard of the Weakened]]
 item_link: \aITEM -814489789 449307987:Exemplar Martial Cuffs\/a
 categories:

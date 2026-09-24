@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '150'
   dtype: Chain Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 76 magic damage on target."
 item_link: \aITEM -819621071 -332585384:Spellbound Black Iron Chain Breastplate\/a
 categories:
 - Assassin Equipment

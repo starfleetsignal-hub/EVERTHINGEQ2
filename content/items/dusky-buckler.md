@@ -20,7 +20,8 @@ stats:
   abmod: +5,442
   aspeed: '55.8'
   dtype: Buckler
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 4.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1049899538 -2023403518:Dusky Buckler\/a
 categories:
 - Ability Modifier (Equipment)

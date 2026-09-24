@@ -16,7 +16,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1930888326 942944931:Devastation Wand\/a
 categories:
 - Census Credits

@@ -16,7 +16,7 @@ stats:
   drating: '11.3'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: Glowing Blessing
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to cast Glowing Blessing on target of spell cast.  Lasts for 12.0 seconds.  This effect will trigger an average of 1.7 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 8"
 obtained_from: Crafted by [[Craftsman]] (level 13) from [[Craftsman essentials volume 13]]
 item_link: \aITEM -1975938345 943577934:blessed maple greatstaff\/a
 categories:

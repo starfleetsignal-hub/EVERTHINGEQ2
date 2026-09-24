@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   dps: '10.5'
   dtype: Leather Armor
-effects: '**Inner Blaze**'
+effect_name: Inner Blaze
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Inner Blaze on caster.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases Crit Chance of caster by 50.0.\n    - Increases damage done by combat arts by up to 250.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Avatar of Flame]], [[Avatar of Mischief]], [[Avatar of Storms]], and [[Avatar of War]]
 item_link: \aITEM -1822547708 1184300722:Resplendent Raiment\/a
 categories:

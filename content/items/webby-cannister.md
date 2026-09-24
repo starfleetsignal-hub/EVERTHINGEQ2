@@ -11,7 +11,7 @@ stats:
   charges: 5/5
   casting: 0.83 seconds
   recast: 5.9 seconds
-effects: Sticky Feet
+effects: "- Applies Sticky Feet when Activated. Lasts for 40.0 seconds.\n  - Roots target\n  - 5% chance to dispel when target takes damage\n  - Does not affect Epic targets\n  - Resistability increases against targets higher than level 80."
 obtained_from: '[[Infiltrating the Sanctum: Spirit Pool Recon]]'
 categories:
 - Assassin Equipment

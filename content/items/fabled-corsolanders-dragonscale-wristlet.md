@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Dragonscale Protection**'
+effect_name: Dragonscale Protection
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dragonscale Protection on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 48,020 heat damage on target instantly and every second.\n    - Increases Mitigation of caster vs physical damage by 1,378.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -622825361 -1215413670:Fabled Corsolander's Dragonscale Wristlet\/a
 categories:
 - AE Autoattack Chance (Equipment)

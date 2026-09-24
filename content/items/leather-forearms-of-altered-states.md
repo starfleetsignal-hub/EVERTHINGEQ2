@@ -17,7 +17,8 @@ stats:
   potency: '6.8'
   aspeed: '10.2'
   dtype: Leather Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 580.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1701114903 1339598825:Leather Forearms of Altered States\/a
 categories:
 - Attack Speed (Equipment)

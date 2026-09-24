@@ -23,7 +23,8 @@ stats:
   drating: '2626.56'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Exsanguination**'
+effect_name: Exsanguination
+effects: "- Applies Exsanguination when Equipped.\n  - Increases the damage, healing, and warding of profession Spells by 25.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1622708033 -938726479:Vacrul Executioner's Headsplitter\/a
 categories:
 - Assassin Equipment

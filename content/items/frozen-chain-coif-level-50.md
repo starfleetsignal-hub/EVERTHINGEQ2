@@ -15,7 +15,8 @@ stats:
   potency: '0.8'
   abmod: '+19'
   dtype: Chain Armor
-effects: '**Glyph of Enlightenment**'
+effect_name: Glyph of Enlightenment
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 18.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2096686098 1472980103:Frozen Chain Coif\/a
 categories:
 - Ability Modifier (Equipment)

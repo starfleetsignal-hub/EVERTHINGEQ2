@@ -11,7 +11,7 @@ stats:
   sta: '+14'
   mit: '124'
   dtype: Leather Armor
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 80 heat damage on target\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 32) from [[Tailor Essentials Volume 32]]
 item_link: \aITEM 403907897 687915380:Imbued Etched Leather Pants\/a
 aliases:

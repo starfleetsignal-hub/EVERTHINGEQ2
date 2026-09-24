@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   aspeed: '6'
   dps: '11'
-effects: '**Malefic Fury**'
+effect_name: Malefic Fury
+effects: "- Applies Malefic Fury when Equipped.\n  - On a hostile spell cast this spell will cast Malefic Fury on target of spell.\n    - Increases Threat to target by 1,865\n    - Inflicts 216 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1789520988 2021698216:Wicked Wand of Malice\/a
 image: images/Wicked_Wand_of_Malice.jpg
 categories:

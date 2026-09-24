@@ -16,7 +16,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Arrow Flurry**'
+effect_name: Arrow Flurry
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Arrow Flurry on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 3.1.\n    - Increases Crit Chance of caster by 3.1.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2005655288 -1357648679:Cowl of the Pathfinder\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+11'
   agi: '+11'
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 8.3.\n  - This effect suspends during combat"
 item_link: \aITEM 1228633702 1717884587:Bangle of Silence\/a
 categories:
 - Assassin Equipment

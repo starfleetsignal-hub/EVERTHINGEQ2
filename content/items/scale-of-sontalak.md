@@ -15,7 +15,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Salvo**'
+effect_name: Salvo
+effects: "- Applies Salvo when Activated.  Lasts for 20.0 seconds.\n  - Increases the wearer's Crit Bonus and Potency by 120 and an additional 3 Crit Bonus and Potency for each other Salvo active in the raid at the same time.\n  - Cannot be modified except by direct means\n  - The reuse time of Salvo is 1 minute"
 item_link: \aITEM 671427110 1999241881:Scale of Sontalak\/a
 categories:
 - Assassin Equipment

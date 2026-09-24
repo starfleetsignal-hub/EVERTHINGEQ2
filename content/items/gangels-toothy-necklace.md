@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   dps: '21.8'
   multi: '31.2'
-effects: '**Understanding the Weak Spots**'
+effect_name: Understanding the Weak Spots
+effects: "- When Equipped:\n  - Allows mastery attacks to be used on any target and increases the base damage by 200%"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM -1319226144 999705307:Gangel's Toothy Necklace\/a
 categories:

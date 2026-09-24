@@ -16,7 +16,8 @@ stats:
   dps: '12.4'
   multi: '7.7'
   dtype: Tower Shield
-effects: '**Shield Block**'
+effect_name: Shield Block
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 5.0%."
 item_link: \aITEM -1069019452 339384891:Wyrmguard Shield\/a
 categories:
 - Berserker Equipment

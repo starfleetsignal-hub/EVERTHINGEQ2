@@ -21,7 +21,7 @@ stats:
   drating: '101.1'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: Lung Punctures
+effects: "- When Equipped:\n  - On a saccessful attack this spell has a chance to cast Lung Punctures on target of attack. Lasts for 2.0 seconds. This effect will trigger an average of 2.9 times per minute.\n    - Stifles target\n    - Inflicts 166-203 heat damage on target\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Resistability increases against targets higher than level 105.\n    - This spell can not be modified except by direct means"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM 175153733 1030570074:Ghost\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   abmod: '+18'
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM -636820532 -318261176:Chain of Disease\/a
 categories:
 - Ability Modifier (Equipment)

@@ -23,7 +23,8 @@ stats:
   drating: '315.87'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3.2%.\n    - Inflicts 1,584 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 44 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Giant Spiritual Awakening]]'
 item_link: \aITEM 1931130749 1378467968:Obulus Shaman's Longspear\/a
 categories:

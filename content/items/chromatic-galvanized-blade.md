@@ -20,7 +20,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Ferrin''s Flame**'
+effect_name: Ferrin's Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ferrin's Flame on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 229 - 382 heat damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: Purchased with PvP status points.
 item_link: \aITEM 1421872625 -1097522179:Chromatic Galvanized Blade\/a
 categories:

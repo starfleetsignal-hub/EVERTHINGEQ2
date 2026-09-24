@@ -7,7 +7,8 @@ tier: Mastercrafted Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Calefaction Cutter**'
+effect_name: Calefaction Cutter
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 9.3.\n  - The value of this effect is increased by the number of characters in the group or raid wearing an Amplifying Plume II effect to a maximum of double the base value. This plume is only active within active Hot zones."
 obtained_from: 'Crafted by [[Artisan]] (level 135) from [[Amplifying Plumes III: Volume IV]]'
 item_link: '\aITEM -92088182 -1609194356:Amplifying Plume III: Calefaction Cutter I\/a'
 categories:

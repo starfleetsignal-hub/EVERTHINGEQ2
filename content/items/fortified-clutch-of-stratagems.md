@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   vsarcane: '+84'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution IV on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 420.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 40) from [[Ancient Knowledge: Fortified Clutch of Stratagems]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 1224025875 502982234:Fortified Clutch of Stratagems\/a
 categories:

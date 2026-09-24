@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Elevated Shot**'
+effect_name: Elevated Shot
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Elevated Shot on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 596 - 893 magic damage on target.\n    - Increases DPS of caster by 33.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1223146498 -131049441:Silvertipped Recurve\/a
 categories:
 - Ability Modifier (Equipment)

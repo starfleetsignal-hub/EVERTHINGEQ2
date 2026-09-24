@@ -21,7 +21,8 @@ stats:
   drating: '97.92'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Sorcerous Alacrity**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -163188734 -1692828690:Mercurial Windblade\/a
 categories:
 - Arcane Recovery (Equipment)

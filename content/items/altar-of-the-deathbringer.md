@@ -16,7 +16,8 @@ stats:
   aspeed: '15.2'
   multi: '74.4'
   flurry: '0.6'
-effects: '**Dawn of Conquest**'
+effect_name: Dawn of Conquest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dawn of Conquest on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of group members by 6.0.\n    - Increases Potency of group members by 6.0.\n    - Increases Ability Mod of group members by 1,000.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Dawn of Conquest on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of group members by 6.0.\n    - Increases Potency of group members by 6.0.\n    - Increases Ability Mod of group members by 1,000.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 83945369 1090437134 0 0 0:Altar of the Deathbringer\/a
 categories:
 - Assassin Equipment

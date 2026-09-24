@@ -18,7 +18,8 @@ stats:
   drating: '69.41'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 121 - 182 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -595928349 -816643635:crude imbued rosewood spellbinder's staff\/a
 categories:
 - Attack Speed (Equipment)

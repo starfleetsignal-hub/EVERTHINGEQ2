@@ -7,7 +7,7 @@ slot: Charm
 flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   charges: '1'
-effects: Glamour of Orcish Kin
+effects: "- Applies **'Glamour of Orcish Kin**' when Activated. Lasts for 30.0 seconds.\n  - Grants invisibility to caster\n  - Shapechanges caster\n  - Dispelled when target takes damage\n  - Must be in Deathfist Citadel: Prison Break."
 obtained_from: 'Quest: [[Peaceful Prison Break]]'
 image: images/Draught_of_orcish_kin.gif
 categories:

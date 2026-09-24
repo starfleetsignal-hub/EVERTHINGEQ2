@@ -11,7 +11,8 @@ stats:
   sta: '+75'
   wis: '+64'
   crit: '3'
-effects: '**Righteous Anger**'
+effect_name: Righteous Anger
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1270349943 -1062844192:Grand Choker of Righteous Anger\/a
 categories:
 - Census Credits

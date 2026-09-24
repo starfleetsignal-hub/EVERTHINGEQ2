@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+101'
   dtype: Symbols
-effects: '**Magical Aptitude**'
+effect_name: Magical Aptitude
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 3 percent."
 item_link: \aITEM -1145426180 -1830818509:Beacon of Loathing\/a
 categories:
 - Ability Modifier (Equipment)

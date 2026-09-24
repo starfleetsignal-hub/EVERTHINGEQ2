@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Made of the finest coral in the grotto.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (700 Daybreak Cash)
 item_link: \aITEM -1713225865 1563624169:Siren's Breath\/a
 categories:

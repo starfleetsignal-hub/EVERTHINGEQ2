@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -563277376 -995181670:Majestic Gloves of Dracurion Accord\/a
 categories:
 - Ability Modifier (Equipment)

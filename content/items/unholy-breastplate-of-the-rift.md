@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Plate Armor
-effects: '**Bulwark of Faith**'
+effect_name: Bulwark of Faith
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Bulwark of Faith on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Gives target an extra 5.0% mitigation to their worn armor.\n    - Increases Max Health of target by 10.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1345616057 841916390 0 0 0:Unholy Breastplate of the Rift\/a
 categories:
 - Bulwark of Faith (Equipment)

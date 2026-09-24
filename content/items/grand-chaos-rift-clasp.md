@@ -12,7 +12,8 @@ stats:
   int: '+63'
   crit: '8'
   vsnoxious: '+837'
-effects: '**Greater Chaos Rift**'
+effect_name: Greater Chaos Rift
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Greater Chaos Rift on target of spell.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 530 poison damage on target\n    - Inflicts 530 heat damage on target\n    - Decreases Ability Reuse Speed of target by 5.5%\n    - Decreases Ability Casting Speed of caster by 5.5%\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1692663732 1439524407:Grand Chaos Rift Clasp\/a
 categories:
 - Arcane Resistance (Equipment)

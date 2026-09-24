@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   dtype: Plate Armor
-effects: '**Visage of Determination**'
+effect_name: Visage of Determination
+effects: "- Applies Visage of Determination when Activated.  Lasts for 30.0 seconds.\n  - Wards caster against 569 points of all damage\n  - The casting time of Visage of Determination is 0.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -217128104 1171460267:Doomrage Faceguard\/a
 categories:
 - AE Autoattack Chance (Equipment)

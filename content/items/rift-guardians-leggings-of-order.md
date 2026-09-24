@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Leather Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM -1503372491 -1063589709 0 0 0:Rift Guardian's Leggings of Order\/a
 categories:
 - Ability Modifier (Equipment)

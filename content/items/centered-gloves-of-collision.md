@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Leather Armor
-effects: '**Stun**'
+effect_name: Stun
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stun VI on target of attack.  Lasts for 3.5 seconds.  Triggers about 1.2 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 91.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -632491007 855394431:Centered Gloves of Collision\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +26,832
-effects: '**Dragon Wings**'
+effect_name: Dragon Wings
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dragon Wings V on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 89,760 cold damage on target instantly and every second.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1366841496 638533487:Dragonwing Stud\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Necessary Healing**'
+effect_name: Necessary Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Necessary Healing on target of spell cast.  Lasts for 12.0 seconds.\n    - Increases Potency of caster by 60.0.\n    - Applies to the caster if the target they heal is below 25% when the heal lands\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1881413306 -1623349266:Cuffs of Worship\/a
 categories:
 - Arcane Resistance (Equipment)

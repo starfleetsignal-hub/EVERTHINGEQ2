@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dps: '5.9'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 37.0.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 66) from [[Tailor Essentials Volume 66 (Normal)]] *Crafted by [[Tailor]] (level 66) from [[Tailor Essentials Volume 66 (no-trade)]]'
 item_link: \aITEM -1513244547 -777087065:pristine discord imbued windcloth hex doll\/a
 categories:

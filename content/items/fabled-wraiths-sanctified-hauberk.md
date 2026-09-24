@@ -20,7 +20,8 @@ stats:
   multi: '455.9'
   cbovercap: '+145.8'
   dtype: Chain Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - This effect may only trigger in Kael Drakkel, Temple of Rallos Zek, and Throne of Storms Fabled zones.\n  - On a hostile ability cast this spell has a 8% chance to cast Celestial Restoration on the group.  Lasts for 12.0 seconds.\n    - Heals group members (AE) for 4.5% of caster's max health instantly and every 4 seconds.\n      - This effect cannot be critically applied.\n    - Increases power of group members (AE) by 4.5% of caster's max power instantly and every 4 seconds.\n      - This effect cannot be critically applied.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 16.0 seconds."
 item_link: \aITEM 1002990342 68879345:Fabled Wraith's Sanctified Hauberk\/a
 categories:
 - AE Autoattack Chance (Equipment)

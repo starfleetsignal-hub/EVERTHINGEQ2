@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   multi: '3.2'
   dtype: Chain Armor
-effects: '**Lyrical Salvo**'
+effect_name: Lyrical Salvo
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Lyrical Salvo on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 143 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1521811485 -1300330348:Coif of the Harmonious\/a
 categories:
 - Assassin Equipment

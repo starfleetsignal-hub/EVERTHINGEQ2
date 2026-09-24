@@ -18,7 +18,8 @@ stats:
   resolve: '40'
   aspeed: '61.8'
   multi: '68.1'
-effects: '**Fates Entwined**'
+effect_name: Fates Entwined
+effects: "- Applies Fates Entwined when Activated.  Lasts for 10.0 seconds.\n  - Applies Fates Entwined.  Lasts for 20.0 seconds.\n    - Increases all damage done to caster by 20%.\n    - Cannot be modified except by direct means\n  - Increases all damage done to target by 3.6%.\n  - Increases Threat to target by 1,038,665  instantly and every 2 seconds thereafter\n  - Cannot be modified except by direct means\n  - The casting time of Fates Entwined is 4.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Jeweler's Primer Volume 01]]
 item_link: \aITEM 287463676 767334569:Student's Bauble of Quickness\/a
 categories:

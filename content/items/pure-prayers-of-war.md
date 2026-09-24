@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   multi: '18.1'
-effects: '**Purity of the Hounds**'
+effect_name: Purity of the Hounds
+effects: "- Applies Purity of the Hounds when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 50.0.\n  - On a healing spell cast this spell will cast Deepwater Purity on target of spell cast.\n    - Dispels 120 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Purity of the Hounds is 5 minutes"
 obtained_from: '[[The Fallen Swords: Endgame]]'
 item_link: \aITEM -185426918 105120754:Pure Prayers of War\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   aspeed: '34.4'
   dps: '13.2'
   vselemental: +28,885
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 obtained_from: '*Collection reward: [[Glaufaye Memories (Collection) (Version 2)]] *Collection reward: [[Glaufaye Memories (Collection)]]'
 item_link: \aITEM -1982095481 -661250158:Ring of Remembering\/a
 image: images/Ring_of_Remembering.png

@@ -9,7 +9,7 @@ flags: attuneable
 stats:
   str: '+2'
   sta: '+2'
-effects: Aura of Stamina
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increase STA of caster by 3.6\n    - Increase In-Combat Health Regeneration Per Tick of caster by 12.0"
 obtained_from: Crafted by [[Scholar]] (level 18) from [[Scholar essentials volume 18]]
 item_link: \aITEM -712106641 616187530:Pristine Imbued Electrum Band of Stamina\/a
 categories:

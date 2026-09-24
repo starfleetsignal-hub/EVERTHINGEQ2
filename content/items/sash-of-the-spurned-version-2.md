@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   dps: '8.2'
-effects: '**Infuriating Shout**'
+effect_name: Infuriating Shout
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Infuriating Shout I on target of attack.  Triggers about 0.8 times per minute.\n    - Increases Threat to target by 700\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1227262358 -739531987:Sash of the Spurned\/a
 categories:
 - Ability Modifier (Equipment)

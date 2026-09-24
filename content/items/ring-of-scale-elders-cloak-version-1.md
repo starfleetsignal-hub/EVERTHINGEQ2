@@ -13,7 +13,8 @@ stats:
   crit: '2.6'
   critbonus: '0.9'
   potency: '3.9'
-effects: '**Focused Mind**'
+effect_name: Focused Mind
+effects: "- Applies Focused Mind when Activated.  Lasts for 10.0 seconds.\n  - Reduces the power cost of the casters next spell by 100%\n  - The casting time of Focused Mind is 1.0 second and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -469630617 -1962466910:Ring of Scale Elder's Cloak\/a
 categories:
 - Assassin Equipment

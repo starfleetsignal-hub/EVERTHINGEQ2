@@ -23,7 +23,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Blessing of the Dreamlord**'
+effect_name: Blessing of the Dreamlord
+effects: "- When Equipped:\n  - \"Blessing of the Dreamlord\" protects the wearer from strong deific magics used by Morell-Thule!"
 item_link: \aITEM 1964267418 -1522997805:Wand of Fractured Dreams [Rank III]\/a
 categories:
 - Blessing of the Dreamlord (Equipment)

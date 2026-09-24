@@ -18,7 +18,8 @@ stats:
   resolve: '240'
   cbovercap: '+465.5'
   dtype: Tower Shield
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 6,088 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM -44035959 1507974443:Farsight Adjutant Greatshield\/a
 categories:
 - Berserker Equipment

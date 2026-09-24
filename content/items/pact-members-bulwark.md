@@ -19,7 +19,8 @@ stats:
   aspeed: '138.3'
   cbovercap: '+98.8'
   dtype: Tower Shield
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,271 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1286054479 1265275266:Pact Member's Bulwark\/a
 categories:
 - AE Autoattack Chance (Equipment)

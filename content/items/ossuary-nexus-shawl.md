@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 455233223 1699905301:Ossuary Nexus Shawl\/a
 categories:
 - Attack Speed (Equipment)

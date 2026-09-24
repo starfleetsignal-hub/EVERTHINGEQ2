@@ -15,7 +15,8 @@ stats:
   critbonus: '1.2'
   potency: '5.8'
   dtype: Chain Armor
-effects: '**Journeyman''s Step**'
+effect_name: Journeyman's Step
+effects: "- Applies Journeyman's Step when Equipped.\n  - Increases in-combat movement speed of caster by 4.0%."
 item_link: \aITEM -311541266 -1732302927:Legendary Journeyman's Boots\/a
 aliases:
 - Legendary Journeyman's Boots (Level 90)

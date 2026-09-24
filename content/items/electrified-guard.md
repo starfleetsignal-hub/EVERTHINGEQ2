@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Tower Shield
-effects: '**Electrified Barrier**'
+effect_name: Electrified Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Electrified Barrier on target's attacker.\n    - Inflicts 105 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1049788096 2108514857:Electrified Guard\/a
 categories:
 - Berserker Equipment

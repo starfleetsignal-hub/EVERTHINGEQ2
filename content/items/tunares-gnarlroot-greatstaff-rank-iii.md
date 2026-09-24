@@ -24,7 +24,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Loving Mother**'
+effect_name: Blessing of the Loving Mother
+effects: "- When Equipped:\n  - \"Blessing of the Loving Mother\" protects the wearer from strong deific magics used by Tunare!"
 item_link: \aITEM 1226687351 -1719576695:Tunare's Gnarlroot Greatstaff [Rank III]\/a
 categories:
 - Ability Modifier (Equipment)

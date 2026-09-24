@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Plate Armor
-effects: '**Startle**'
+effect_name: Startle
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Startle on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target encounter by 1,655 - 2,315\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2099047220 1131614369:Valorous Greaves\/a
 categories:
 - Berserker Equipment

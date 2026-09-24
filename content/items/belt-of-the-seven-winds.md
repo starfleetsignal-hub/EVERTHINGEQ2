@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   multi: '3.4'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 2033673056 571280979:Belt of the Seven Winds\/a
 categories:
 - Assassin Equipment

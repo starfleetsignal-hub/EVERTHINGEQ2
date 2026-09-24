@@ -17,7 +17,7 @@ stats:
   drating: '35.1'
   range: 2 - 35
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 112-208 magic damage on target\n    - Decreases Threat to target by 352\n      - Must be flanking or behind\n    - Increases Threat to target by 526\n      - Must be in front of\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 32) from [[Tailor Essentials Volume 32]]
 item_link: \aITEM -2101675300 1035690828:Imbued Etched Leather Satchel\/a
 aliases:

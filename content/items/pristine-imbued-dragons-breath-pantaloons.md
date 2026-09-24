@@ -15,7 +15,7 @@ stats:
   vsarcane: '+100'
   vsnoxious: '+100'
   dtype: Cloth Armor
-effects: Sanguine Imbued
+effects: "- Apllies **Sanguine Imbued** when Equipped.\n  - When target is damaged this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 221 heat damage on target"
 obtained_from: Crafted by [[Tailor]] (level 62) from [[Advanced Tailor Volume 62]]
 image: images/Pristine_imbued_dragons_breath_pantaloons.jpg
 categories:

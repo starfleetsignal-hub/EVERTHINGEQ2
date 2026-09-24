@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   dps: '2.2'
   dtype: Chain Armor
-effects: '**Calibrated Gnomish Crosstrainers**'
+effect_name: Calibrated Gnomish Crosstrainers
+effects: "- Applies Calibrated Gnomish Crosstrainers when Activated.  Lasts for 30.0 seconds.\n  - Heals caster for 10.0% of max health.\n    - This effect cannot be critically applied.\n  - Increases speed of caster by 55.0%.\n  - The reuse time of Calibrated Gnomish Crosstrainers is 10 minutes"
 obtained_from: Made with Tinkering (skill 260) from [[Experimenter's Blueprints 0.005]].
 item_link: \aITEM 515798571 -1987951123:Overclocked Gnomish Crosstrainers\/a
 categories:

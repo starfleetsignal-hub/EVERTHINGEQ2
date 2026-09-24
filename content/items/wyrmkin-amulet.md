@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   dps: '21.8'
   multi: '31.2'
-effects: '**The Subtle**'
+effect_name: The Subtle
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 50.0."
 item_link: \aITEM 1124718872 -1892869141:Wyrmkin Amulet\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   aspeed: '0.5'
   dtype: Cloth Armor
-effects: '**Golden Idea**'
+effect_name: Golden Idea
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Golden Idea on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 118.\n    - Increases power of caster by 89 every 5 seconds.\n      - This effect cannot be critically applied.\n    - Increases Potency of caster by 5.0.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Saving Soles]]'
 item_link: \aITEM 263549878 -2014790013:Golden Efreeti Boots\/a
 image: images/Golden_Efreeti_Boots_(HQ_Reward).jpg

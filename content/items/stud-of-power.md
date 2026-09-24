@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   dps: '16.6'
   vselemental: '+512'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1152164712 -60319978:Stud of Power\/a
 categories:
 - Arcane Resistance (Equipment)

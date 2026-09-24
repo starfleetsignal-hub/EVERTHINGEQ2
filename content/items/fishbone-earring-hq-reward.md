@@ -11,7 +11,8 @@ stats:
   str: '+13'
   sta: '+13'
   vsarcane: '+75'
-effects: '**Water Breathing**'
+effect_name: Water Breathing
+effects: "- Applies Water Breathing when Activated.  Lasts for 12 hours.\n  - Allows caster to breathe under water"
 obtained_from: 'Heritage quest reward: [[Hadden''s Earring]]'
 item_link: \aITEM 1572206778 1205992294:Fishbone Earring\/a
 image: images/Fishbone_Earring.jpg

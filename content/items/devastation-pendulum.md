@@ -18,7 +18,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Disarming Counter**'
+effect_name: Disarming Counter
+effects: "- When Equipped:\n  - On a hit this spell may cast Disarming Counter on target of attack.  Lasts for 1.2 seconds.  Triggers about 1.8 times per minute.\n    - Interrupts target\n    - Inflicts 224 - 274 mental damage on target.\n    - Slows target by 33.0%.\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -769090557 1777603530:Devastation Pendulum\/a
 categories:
 - Axe (Weapon Type)

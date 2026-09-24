@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   vselemental: '+440'
-effects: '**Preparation**'
+effect_name: Preparation
+effects: "- Applies Preparation when Activated.  Lasts for 10.0 seconds.\n  - Increases the ring wearer's spell damage by 2000 for a short duration.\n  - The reuse time of Preparation is 1 minute 30 seconds"
 item_link: \aITEM 1576204439 -2090443436:Najena's Ring of Readiness\/a
 categories:
 - Arcane Resistance (Equipment)

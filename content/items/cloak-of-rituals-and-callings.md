@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   multi: '12'
-effects: '**Excess Energy**'
+effect_name: Excess Energy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Excess Energy on caster.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 65 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -637346377 125721725:Cloak of Rituals and Callings\/a
 categories:
 - Attack Speed (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '13.1'
   aspeed: '34.3'
   dps: '34.3'
-effects: '**Nature''s Sword**'
+effect_name: Nature's Sword
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Nature's Sword on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 5,865 - 6,483 slashing damage on target encounter instantly and every 2 seconds.\n    - Heals group members (AE) for 1,277 - 1,411 instantly and every 2 seconds.\n    - Decreases Potency of target encounter by 10%.\n    - Increases Potency of group members (AE) by 20.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1688541425 137842646 0 0 0:Tunare's Vine Decorated Girdle\/a
 categories:
 - Attack Speed (Equipment)

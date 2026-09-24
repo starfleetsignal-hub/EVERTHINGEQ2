@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +9,738
-effects: '**Hard to Catch**'
+effect_name: Hard to Catch
+effects: "- When Equipped:\n  - Using Sprint will increase the wearer's Dodge Chance by 10% for 10 seconds. Can only trigger once every 30 seconds. Damage received greater than 30% of the wearer's maximum health will dispel the effect."
 item_link: \aITEM 1934355043 614371543:Band of the Quick Harvest\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM 1264475381 -1116716295:Klyseer Bracelets\/a
 categories:
 - AE Autoattack Chance (Equipment)

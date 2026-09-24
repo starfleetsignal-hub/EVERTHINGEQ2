@@ -15,7 +15,8 @@ stats:
   potency: '2.5'
   dps: '7.6'
   vsarcane: '+560'
-effects: '**Aggravate**'
+effect_name: Aggravate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aggravate I on target of attack.  Triggers about 0.8 times per minute.\n    - Increases Threat to target by 1,050\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Princess Cherista]] in [[Castle Mistmoore]] <br>
 item_link: \aITEM -771412004 -1349498796:Cherista's Royal Band\/a
 categories:

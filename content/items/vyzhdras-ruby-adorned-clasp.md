@@ -17,7 +17,8 @@ stats:
   potency: 7,304
   resolve: '195'
   dps: '70.5'
-effects: '**Vyzh''dra''s Soulrend**'
+effect_name: Vyzh'dra's Soulrend
+effects: "- Applies Vyzh'dra's Soulrend when Activated.  Lasts for 30.0 seconds.\n  - Increases Ability Doublecast of caster by 33.7.\n  - Cannot be modified except by direct means\n  - The casting time of Vyzh'dra's Soulrend is 2.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: '*Collection reward: [[Vyzh''dra''s Artifacts]] *Sold by [[Maesy Colmiter]] in [[Sanctus Seru (City)]]'
 item_link: \aITEM -313499401 -1727765913:Vyzh'dra's Ruby-Adorned Clasp\/a
 categories:

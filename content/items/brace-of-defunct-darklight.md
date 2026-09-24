@@ -20,7 +20,8 @@ stats:
   abmod: +2,775
   dps: '100.9'
   dtype: Buckler
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 832142999 -286569042:Brace of Defunct Darklight\/a
 categories:
 - Ability Modifier (Equipment)

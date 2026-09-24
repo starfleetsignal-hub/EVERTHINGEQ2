@@ -16,7 +16,9 @@ stats:
   dps: '60.8'
   multi: '21.3'
   flurry: '0.6'
-effects: '**Soul Sliver**<br>**Impish Assault**'
+effect_name: Soul Sliver, Impish Assault
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Soul Sliver on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 120.0.\n    - Increases Potency of caster by 4.0.\n    - Increases Crit Bonus of caster by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Soul Sliver on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 120.0.\n    - Increases Potency of caster by 4.0.\n    - Increases Crit Bonus of caster by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AE Autoattack of Caster by 10.0%.\n  - Increases Multi Attack of caster by 25.0.\n\
+  \  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Tides of War]]'
 item_link: \aITEM -67303215 2035252168:Tavalan Clutch of Umbra\/a
 categories:

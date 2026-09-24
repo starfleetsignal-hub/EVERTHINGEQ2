@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Mana Barrage**'
+effect_name: Mana Barrage
+effects: "- Applies Mana Barrage when Activated.\n  - Fires a powerful beam of magic straight ahead of the caster, dealing 300,840 damage to any targets in its path.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Mana Barrage is 1.0 second and the reuse time of the spell is 1 minute"
 item_link: \aITEM -140945649 -451339093:Scorchbringer\/a
 categories:
 - AE Autoattack Chance (Equipment)

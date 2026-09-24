@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Shelter**'
+effect_name: Shelter
+effects: "- Applies Shelter when Activated.  Lasts for 12.0 seconds.\n  - Summons a sigil on the ground that makes any group member immune to stun, stifle, fear and daze. All group members receive a ward for 55,500 instantly and every second inside of the sigil.\n  - Cannot be modified except by direct means\n  - The reuse time of Shelter is 2 minutes"
 item_link: \aITEM 1592340152 299609350:Ahrmatal's Red Scale\/a
 categories:
 - Assassin Equipment

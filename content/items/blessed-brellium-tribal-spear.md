@@ -21,7 +21,8 @@ stats:
   drating: '101.91'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Ethereal Blessing**'
+effect_name: Ethereal Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Ethereal Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 150\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 84) from [[Advanced Weaponsmith Volume 84 (Heirloom)]] *Crafted by [[Weaponsmith]] (level 84) from [[Advanced Weaponsmith Volume 84 (Normal)]]'
 item_link: \aITEM 1197403261 -1030337177:Blessed Brellium Tribal Spear\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Scampish Assault**'
+effect_name: Scampish Assault
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Scampish Assault on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1226314112 -19992180:Jeweled Blade of the Emerald Viper\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   dps: '12.6'
   multi: '7.8'
   vselemental: '+840'
-effects: '**Sorcerous Alacrity**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 1227765042 1261988535:Coldwater Circlet of Clarity\/a
 categories:
 - Arcane Recovery (Equipment)

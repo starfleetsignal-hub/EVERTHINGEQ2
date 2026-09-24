@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   flurry: '5.1'
   vselemental: +1,395
-effects: '**Draught of Stones**'
+effect_name: Draught of Stones
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Draught of Stones on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target\n    - Heals caster for 1,589\n    - Decreases Accuracy of target by 2.0%.\n    - Increases Accuracy of caster by 2.0%.\n    - When any damage is received this spell has a 10% chance to cast Draught of Stones on target's attacker.  This effect normalizes based off of a three second triggering event.\n      - Heals target for 1,034 - 1,143.\n        - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -835169210 -1255075659:Kaborite Woven Mesh Trinket\/a
 categories:
 - Arcane Resistance (Equipment)

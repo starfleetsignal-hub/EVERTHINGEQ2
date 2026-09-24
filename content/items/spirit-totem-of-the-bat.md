@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Bat
+effects: "- Applies **Spirit Totem of the Bat** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a bat\n  - Increases Out-of-Combat power Regeneration of caster by 48\n  - This effect suspends during combat\n  - Only affects targets level 30 and above"
 obtained_from: Crafted by [[Woodworker]] (level 38) from [[Woodworker Essentials Volume 38]]
 categories:
 - Assassin Equipment

@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Shrink**<br>**Featherfall**'
+effect_name: Shrink, Featherfall
+effects: "- Applies Shrink when Activated.\n  - Shrinks caster by 49.6%.\n  - The casting time of Shrink is 2.0 seconds and the reuse time of the spell is 2.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Legends of Norrath Cloak (crate)|Legends of Norrath Cloak]] *Legends of Norrath loot card (From *Oathbound* expansion set)'
 item_link: \aITEM 950915470 699653865:Legends of Norrath Cloak\/a
 image: images/Legends_of_Norrath_Cloak_(ex).jpg

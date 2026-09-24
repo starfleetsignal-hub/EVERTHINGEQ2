@@ -18,7 +18,8 @@ stats:
   aspeed: '24.5'
   cbovercap: '+1219.5'
   dtype: Plate Armor
-effects: '**Strength of the Vampire**'
+effect_name: Strength of the Vampire
+effects: "- When Equipped:\n  - Increases healing received by 5.00%.\n  - Increases Max Health of caster by 13.4%.\n  - Gives caster an extra 20.0% mitigation to their worn armor.\n  - Increases Hate Gain of caster by 50.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 518852840 -1653250933:Mayong's Vampiric Pauldrons of Blood\/a
 categories:
 - Assassin Equipment

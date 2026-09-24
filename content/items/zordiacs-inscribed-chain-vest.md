@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   multi: '10'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -40394484 -277398515:Zordiac's Inscribed Chain Vest\/a
 categories:
 - Bard Equipment

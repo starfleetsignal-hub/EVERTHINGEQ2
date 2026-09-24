@@ -18,7 +18,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Chain Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 41.4.\n  - Increases Crit Bonus Overcap of caster by 353.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -233602886 1388800309:Vestige Chain Gauntlets, Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

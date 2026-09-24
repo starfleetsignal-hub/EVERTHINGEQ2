@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Cloth Armor
-effects: '**Aggregate Mana**'
+effect_name: Aggregate Mana
+effects: "- Applies Aggregate Mana when Activated.\n  - Increases power of caster by 423.\n  - The casting time of Aggregate Mana is 2.0 seconds and the reuse time of the spell is 11 minutes 40 seconds"
 item_link: \aITEM -1800029679 1089679696:Cap of the Shape Shifter\/a
 categories:
 - Ability Modifier (Equipment)

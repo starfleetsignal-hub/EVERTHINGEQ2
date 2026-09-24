@@ -16,7 +16,8 @@ stats:
   abmod: '+185'
   dps: '15.2'
   vselemental: +1,080
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 600291819 967150790:Twisted Bone Bracelet of Soul Siphoning\/a
 categories:
 - Ability Modifier (Equipment)

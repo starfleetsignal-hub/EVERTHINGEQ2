@@ -15,7 +15,8 @@ stats:
   potency: '2'
   dps: '6.8'
   flurry: '1.8'
-effects: '**Sun Spots**'
+effect_name: Sun Spots
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Sun Spots on target of attack.  Lasts for 2.5 seconds.  Triggers about 1.8 times per minute.\n    - Stifles target\n    - Epic targets gain an immunity to Stifle effects of 7.5 seconds and duration is reduced to 0.8 seconds.\n    - Resistibility increases against targets higher than level 87.\n    - Cannot be modified except by direct means\n  - Does not affect Epic targets"
 item_link: \aITEM 1805302824 860854771:Sash of the Sky\/a
 categories:
 - Assassin Equipment

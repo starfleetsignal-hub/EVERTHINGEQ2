@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Cloth Armor
-effects: '**Alacritous Incantation**'
+effect_name: Alacritous Incantation
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 5 percent."
 obtained_from: Crafted by [[Tailor]] (level 77) from [[Bathezid Light Armoring Volume II]]
 item_link: \aITEM -213629798 2024847800:Di'Zok Ceremonial Cloth Robe\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   multi: '27.6'
   flurry: '0.8'
   vselemental: +8,448
-effects: '**Scrutiny of the Hounds**'
+effect_name: Scrutiny of the Hounds
+effects: "- When Equipped:\n  - Increases Potency of caster by 5.0.\n  - Increases Crit Bonus of caster by 5.0.\n  - Increases Max Health of caster by 1,550.0.\n  - Increases Ability Mod of caster by 1,100.0.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Leashing the Hounds of War]]'
 item_link: \aITEM -1499800956 1557061300:Eliptic of Planar Scrutiny\/a
 categories:

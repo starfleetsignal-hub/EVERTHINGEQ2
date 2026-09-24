@@ -21,7 +21,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Subsistence of Flesh**'
+effect_name: Subsistence of Flesh
+effects: "- Applies Subsistence of Flesh when Activated.  Lasts for 30.0 seconds.\n  - Decreases Hate Gain of caster by 22.5 - 27.5.\n  - Increases Potency of caster by 25.0.\n  - Prevents AOE (except when direct)\n  - The reuse time of Subsistence of Flesh is 5 minutes"
 item_link: \aITEM 429146157 -116541914:Eszadra, Twisted Wand of Zek\/a
 categories:
 - Attack Speed (Equipment)

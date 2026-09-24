@@ -20,7 +20,8 @@ stats:
   vselemental: +2,200
   vsarcane: +2,200
   vsnoxious: +2,200
-effects: '**Runic Recovery**<br>**Innoruuk''s Child**'
+effect_name: Runic Recovery, Innoruuk's Child
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent.\n- When Equipped:\n  - On a healing spell cast this spell may cast Innoruuk's Child on target of spell cast.  Triggers about 1.0 times per minute.\n    - Summon 1 Innoruuk's Child\n    - Cannot be modified except by direct means"
 item_link: \aITEM -438675211 1235323029:Blessing of the Prince\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -19,7 +19,8 @@ stats:
   abmod: '+288'
   mitinc: '9.3'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Dropped by [[General Aakita (Epic)|General Aakita]] in [[Tallon''s Stronghold]] *Dropped by [[General Utehk (Epic)|General Utehk]] in [[Tallon''s Stronghold]] *Dropped by [[General Zevitus (Epic)|General Zevitus]] in [[Tallon''s Stronghold]]'
 item_link: \aITEM 2118704406 -2051442643:Sanctorum Gauntlets of the Knight\/a
 categories:

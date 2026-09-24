@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +1,654
   aspeed: '18.7'
-effects: '**Kerafyrm''s Rites**'
+effect_name: Kerafyrm's Rites
+effects: "- Applies Kerafyrm's Rites when Activated.  Lasts for 15.0 seconds.\n  - Increases All Attributes of group members (AE) by 14.0%.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Rites is 1 minute\n- When Equipped:\n  - Increases All Attributes of caster by 20.0%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1011777562 -424329533:Uzulu Stone\/a
 categories:
 - Ability Modifier (Equipment)

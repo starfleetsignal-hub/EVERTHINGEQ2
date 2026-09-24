@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Pestilence**'
+effect_name: Pestilence
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Pestilence on target of spell.  Lasts for 24.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 220 - 269 disease damage on target instantly and every 4 seconds.\n    - Decreases Mitigation of target vs noxious damage by 1,851 - 2,263.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 519250256 1634803337:Tearful Soulspear\/a
 categories:
 - Assassin Equipment

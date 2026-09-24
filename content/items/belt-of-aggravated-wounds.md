@@ -16,7 +16,9 @@ stats:
   potency: '13.1'
   aspeed: '34.3'
   dps: '34.3'
-effects: '**Aggravated Wounds**'
+effect_name: Aggravated Wounds
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aggravated Wounds on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 8,472 - 9,364 slashing damage on target encounter.\n    - Inflicts 1,303 - 1,441 slashing damage on target encounter every 10 seconds.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases Casting Speed of caster by 7.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Aggravated Wounds on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 8,472 - 9,364 slashing damage on target encounter.\n    - Inflicts 1,303 - 1,441 slashing damage on target encounter every 10 seconds.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases Casting Speed of caster by 7.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct\
+  \ means"
 item_link: \aITEM -1874225242 971161093 0 0 0:Belt of Aggravated Wounds\/a
 categories:
 - Aggravated Wounds (Equipment)

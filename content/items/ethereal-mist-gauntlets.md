@@ -19,7 +19,8 @@ stats:
   dps: '23'
   multi: '23'
   dtype: Plate Armor
-effects: '**Holy Water Sprinkler**'
+effect_name: Holy Water Sprinkler
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Holy Water Sprinkler on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 1904\n    - Heals group members (AE) for 635 every 5 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM -579339747 -2096513347:Ethereal Mist Gauntlets\/a
 categories:
 - Berserker Equipment

@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   dps: '24.2'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: 'Dropped by [[Primus Pilus Gunnr (Challenge Mode Epic)|Primus Pilus Gunnr]] in [[Throne of Storms: Hall of Legends (Challenge)]]'
 item_link: \aITEM 1944310371 -1958826186:Gambler's Massacring Cuffs\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 23.0."
 item_link: \aITEM 1601175211 2139307861:Argent Blade of Speed\/a
 categories:
 - Assassin Equipment

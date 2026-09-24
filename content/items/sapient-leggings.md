@@ -17,7 +17,8 @@ stats:
   aspeed: '5.1'
   dps: '9.7'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM -1220009181 -611215431:Sapient Leggings\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   drating: '36.6'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Vortex**'
+effect_name: Arcane Vortex
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Vortex III on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 66 - 73 cold damage on targets in Area of Effect instantly and every 2 seconds.\n    - Increases power of group members (AE) by 16 - 18 instantly and every 2 seconds.\n    - Increases Potency of group members (AE) by 2.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 30) from [[Ancient Knowledge: Ominous Staff of Fate]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1529195091 -172152859:Ominous Staff of Fate\/a
 categories:

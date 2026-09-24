@@ -16,7 +16,8 @@ stats:
   potency: 34,754
   resolve: '460'
   vselemental: +310,750
-effects: '**Scholarly Studies**'
+effect_name: Scholarly Studies
+effects: "- When Equipped:\n  - Grants an additional 380.7 crit bonus when in Renewal of Ro raid zones.\n  - Grants an additional 8000 potency when in Renewal of Ro raid zones.\n  - Grants an additional 50 critical bonus overcap when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 924990099 -1033689356:Stone Signet of the Cursed Scholar\/a
 categories:
 - Arcane Resistance (Equipment)

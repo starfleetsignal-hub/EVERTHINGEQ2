@@ -16,7 +16,8 @@ stats:
   abmod: +1,670
   aspeed: '18.8'
   vselemental: +33,491
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 57.0."
 item_link: \aITEM 15147648 1415648088:Karith'Ta's Mental Signet\/a
 categories:
 - Ability Modifier (Equipment)

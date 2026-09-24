@@ -20,7 +20,8 @@ stats:
   cbovercap: '+145.8'
   mitinc: '33.6'
   dtype: Plate Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - This effect may only trigger in Kael Drakkel, Temple of Rallos Zek, and Throne of Storms Fabled zones.\n  - On a hostile ability cast this spell has a 10% chance to cast Pestilential Rain on target of spell.\n    - Inflicts 3,327 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 - 12.0 seconds."
 item_link: \aITEM 438377322 -170296372:Fabled Warlord's Wrathbound Breastplate\/a
 categories:
 - Berserker Equipment

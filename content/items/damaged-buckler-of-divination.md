@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Buckler
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 173.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1806193829 1813527851:Damaged Buckler of Divination\/a
 categories:
 - Ability Modifier (Equipment)

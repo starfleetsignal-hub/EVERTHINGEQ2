@@ -14,7 +14,8 @@ stats:
   drating: '6.49'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mark of Pestilence**'
+effect_name: Mark of Pestilence
+effects: '- Applies Mark of Pestilence when Equipped.'
 obtained_from: Marketplace
 item_link: \aITEM 1785503393 -980432237:Lurid Claw of Pestilence\/a
 categories:

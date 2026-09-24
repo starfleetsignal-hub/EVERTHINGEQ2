@@ -21,7 +21,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 871.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1405814532 -1531889901:Gazer's Spear of Teeth\/a
 categories:
 - Ability Modifier (Equipment)

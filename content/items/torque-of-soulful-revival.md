@@ -16,7 +16,8 @@ stats:
   potency: '21.3'
   strike: '3.5'
   multi: '63.1'
-effects: '**Ethereal Temporality**'
+effect_name: Ethereal Temporality
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 4.0%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -600200223 625518568:Torque of Soulful Revival\/a
 categories:
 - Berserker Equipment

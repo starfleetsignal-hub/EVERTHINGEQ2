@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   vsarcane: '+455'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 item_link: \aITEM 1395251687 1844433509:Mark of the Dragonborn\/a
 categories:
 - AE Autoattack Chance (Equipment)

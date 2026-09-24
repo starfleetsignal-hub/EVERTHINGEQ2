@@ -14,7 +14,8 @@ stats:
   drating: '2.13'
   dtype: Two-Handed Crushing
   wtype: Magic Affinity
-effects: '**Icy Sledge**'
+effect_name: Icy Sledge
+effects: "- When Equipped:\n  - Allows wielder to interact with glacial objects."
 obtained_from: '[[Icy Hammer Time!]]'
 item_link: \aITEM 1763703947 -452175414:Icy Sledge\/a
 categories:

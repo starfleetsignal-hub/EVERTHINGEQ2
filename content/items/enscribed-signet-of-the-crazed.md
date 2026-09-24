@@ -16,7 +16,8 @@ stats:
   aspeed: '25.5'
   dps: '12.7'
   vselemental: +8,415
-effects: '**Crazed Soul**'
+effect_name: Crazed Soul
+effects: "- When Equipped:\n  - Increases Max Power of caster by 1,584.4.\n  - This effect will not stack with any other similar effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -851663651 1697050839:Enscribed Signet of the Crazed\/a
 categories:
 - Ability Modifier (Equipment)

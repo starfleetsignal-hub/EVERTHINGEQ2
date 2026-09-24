@@ -22,7 +22,8 @@ stats:
   drating: '150.08'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Wrath**'
+effect_name: Wrath
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Ferocity on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1624836902 849063128 0 0 0:Sullon's Wrath\/a
 image: images/Sullon's_Wrath.png
 categories:

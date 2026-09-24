@@ -17,7 +17,8 @@ stats:
   dps: '18.1'
   multi: '11.5'
   dtype: Chain Armor
-effects: '**Major Interlude**<br>**Poison Proficiency**'
+effect_name: Major Interlude, Poison Proficiency
+effects: "- When Equipped:\n  - Adds 5% Spell and Combat Art reuse speed bonus to Aria of Magic VI and Riana's Relentless Tune VII.\n- When Equipped:\n  - Increases poison trigger chance by 5.0%."
 item_link: \aITEM -1404269604 1102953920:Venomous Identical Chainlink Boots\/a
 categories:
 - Assassin Equipment

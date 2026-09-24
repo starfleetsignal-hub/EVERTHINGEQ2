@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +26,832
-effects: '**Pirate''s Wrath**'
+effect_name: Pirate's Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pirate's Wrath on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Crit Bonus of caster by 35.0.\n    - Inflicts 512,000-776,000 slashing damage to the target based on how many raid members are within 15 meters of the caster\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 472790157 -206743444:Beads O' the Capt'n\/a
 categories:
 - Arcane Resistance (Equipment)

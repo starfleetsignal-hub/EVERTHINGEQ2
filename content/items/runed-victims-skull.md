@@ -6,7 +6,8 @@ icon: images/Item_2710.png
 tier: Fabled
 level: '90'
 flags: lore-equip attunable heirloom no-value
-effects: '**Back into the Fray**'
+effect_name: Back into the Fray
+effects: "- Applies Back into the Fray when Activated.\n  - Dispels 100 levels of hostile Fear, hostile Mesmerize, hostile Daze, hostile Prevent Changing Target, hostile Root, hostile Stifle and hostile Stun effects on caster\n  - Must have Runed Victim's Skull equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Back into the Fray is 6 minutes"
 item_link: \aITEM -1999634922 398323564:Runed Victim's Skull\/a
 categories:
 - Assassin Equipment

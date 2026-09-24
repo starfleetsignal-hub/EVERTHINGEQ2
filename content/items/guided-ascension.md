@@ -11,7 +11,8 @@ stats:
   charges: 1/1
   casting: 1 second
   recast: 10 seconds
-effects: '**Guided Ascension**'
+effect_name: Guided Ascension
+effects: "- Applies Guided Ascension when Activated. Lasts for 2.0 Seconds.\n  - Grants 500,000 Guided Ascension experience to ascension experience."
 obtained_from: from one of the 4 [[Ascension]] Masters (Trainers) every 18 hours
 item_link: \aITEM 1571383273 1606985649:Guided Ascension\/a
 categories:

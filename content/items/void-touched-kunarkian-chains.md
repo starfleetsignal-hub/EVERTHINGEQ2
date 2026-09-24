@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Chain Armor
-effects: '**Fear of the Void**'
+effect_name: Fear of the Void
+effects: "- When Equipped:\n  - Reduces casting time by 10% percent but increases power cost by 5%."
 item_link: \aITEM -217543290 543104077:Void-touched Kunarkian Chains\/a
 categories:
 - Ability Modifier (Equipment)

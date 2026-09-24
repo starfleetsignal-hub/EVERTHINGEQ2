@@ -17,7 +17,7 @@ stats:
   vselemental: +2,444
   vsarcane: +1,410
   vsnoxious: +1,410
-effects: Favor of Brell III
+effects: "- When Equipped:\n  - On a critical combat hit, spell hit or healing spell this spell has a 8% chance to cast Brell's Blessing III on caster. Lasts for 10.0 seconds.\n    - Increases Crit Bonus of caster by 2.0%\n    - Cannot be modified except by direct means\n  - When damaged with a melee weapon this spell will cast Brell's Retribution III on target's attacker.\n    - Inflicts 27 piercing damage on target\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Gold Coldain Insignia Ring]]'
 item_link: \aITEM 1929914430 -563439299:Gold Coldain Insignia Ring\/a
 categories:

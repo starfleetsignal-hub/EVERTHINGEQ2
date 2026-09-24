@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   abmod: '+92'
-effects: '**Mind Wash**'
+effect_name: Mind Wash
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Mind Wash on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 86.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 70) from [[Bathezid Runecraft Volume II]]
 item_link: \aITEM -1264440248 -2138138609:Di'Zok Belt of Inspiration\/a
 categories:

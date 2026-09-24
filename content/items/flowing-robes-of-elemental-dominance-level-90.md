@@ -17,7 +17,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM -1832359938 1733057567:Flowing Robes of Elemental Dominance\/a
 categories:
 - Assassin Equipment

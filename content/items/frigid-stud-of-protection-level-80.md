@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   strike: '7.2'
   vselemental: '+360'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 item_link: \aITEM -1143231130 659697387:Frigid Stud of Protection\/a
 categories:
 - Arcane Resistance (Equipment)

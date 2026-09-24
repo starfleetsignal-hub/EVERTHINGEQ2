@@ -16,7 +16,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   mitinc: '7.6'
-effects: '**Relentless Will**'
+effect_name: Relentless Will
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Relentless Will on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base trigger chance of spells and items by 7%.\n    - 4% of all physical damage received by the caster is prevented.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1630539604 707088290:Lustrous Brellium Nugget\/a
 categories:
 - Beastlord Equipment

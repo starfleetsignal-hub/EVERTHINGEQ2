@@ -16,7 +16,8 @@ stats:
   drating: '1.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Celestial Glow**'
+effect_name: Celestial Glow
+effects: '- Applies Celestial Glow when Equipped.'
 item_link: \aITEM 696893109 1081565783:Splendid Celestial Blade\/a
 categories:
 - Assassin Equipment

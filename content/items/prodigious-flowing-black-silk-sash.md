@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   multi: '9.6'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 550064022 -330581699:Prodigious Flowing Black Silk Sash\/a
 categories:
 - Assassin Equipment

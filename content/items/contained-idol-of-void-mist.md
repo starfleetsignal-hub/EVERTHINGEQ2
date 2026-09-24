@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Symbols
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM 1422984091 -312585352:Contained Idol of Void Mist\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   dps: '23.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 114920230 2024334304 0 0 0:Boneblessed Primaeval Gauntlets\/a
 categories:
 - Census Credits

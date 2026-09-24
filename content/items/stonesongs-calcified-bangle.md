@@ -16,7 +16,8 @@ stats:
   potency: 34,754
   resolve: '460'
   vselemental: +310,750
-effects: '**Stony Brace**'
+effect_name: Stony Brace
+effects: "- When Equipped:\n  - Grants an additional 5 strikethrough when in Renewal of Ro raid zones.\n  - Grants an additional 6.7 fervor when in Renewal of Ro raid zones.\n  - Grants an additional 6.7 fervor overcap when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 291925139 -1587356662:Stonesong's Calcified Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

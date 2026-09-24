@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Reet Blade Flurry**'
+effect_name: Reet Blade Flurry
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Reet Blade Flurry on caster.  Lasts for 10.0 seconds.  Triggers about 1.0 times per minute.\n    - Increases damage done by combat arts by up to 150.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Reet Knight Armor]]'
 item_link: \aITEM -1189936329 -1969091808:Coif of the Reet Knight\/a
 image: images/CoifoftheReefKnightExamine.jpg

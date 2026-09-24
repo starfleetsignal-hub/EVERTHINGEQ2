@@ -19,7 +19,9 @@ stats:
   drating: '120.96'
   dtype: Main Hand Slashing
   wtype: Fists
-effects: '**Hardened Skin**<br>**Strike of Anger**<br>**Unyielding Resolve**'
+effect_name: Hardened Skin, Strike of Anger, Unyielding Resolve
+effects: "- When Equipped:\n  - Reduces physical, slash, crush and pierce damage done to caster by 10%.\n- When Equipped:\n  - On a combat hit this spell may cast Strike of Anger on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Increases Threat to target by 15,572\n    - Inflicts 518 - 778 crushing damage on target.\n    - Increases Crit Chance of caster by 12.0.\n    - Cannot be modified except by direct means\n    - Attacker must be in front of\n  - On a combat hit this spell may cast Strike of Anger on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 583 - 875 crushing damage on target.\n    - Increases Crit Chance of caster by 12.0.\n    - Cannot be modified except by direct means\n    - Attacker must be behind or flanking\n  - Cannot be modified except by direct means\n- Applies Unyielding Resolve when Activated.  Lasts for 10.0 seconds.\n  - Heals caster for 10.0% of max health.\n  - Heals caster\
+  \ for 5.0% of max health every second.\n    - This effect cannot be critically applied.\n  - Caster will Dodge 100.0% of incoming attacks.\n  - The reuse time of Unyielding Resolve is 6 minutes"
 obtained_from: '[[A Taste of Past Glory]]'
 item_link: \aITEM 307854296 2064600847:Gorynn's Fist\/a
 categories:

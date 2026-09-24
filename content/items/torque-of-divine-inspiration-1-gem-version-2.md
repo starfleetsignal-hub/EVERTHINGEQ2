@@ -14,7 +14,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**The Finisher**'
+effect_name: The Finisher
+effects: "- When Equipped:\n  - Increases Potency of caster by 50.0.\n  - Improves the potency of damage abilities by 100% when the target is below 50% health.  This effect will not stack with any other finisher effect.\n    - This effect will not stack with any other Finisher effect."
 item_link: \aITEM -1945214130 -968320379:Torque of Divine Inspiration\/a
 categories:
 - Assassin Equipment

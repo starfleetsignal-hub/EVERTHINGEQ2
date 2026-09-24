@@ -15,7 +15,8 @@ stats:
   resolve: '4'
   aspeed: '36.3'
   vselemental: +30,369
-effects: '**Enraging Flames**'
+effect_name: Enraging Flames
+effects: "- When Equipped:\n  - Inflicts 610,000 heat damage and 940,000 threat increase to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1301451902 -832683810:Bangle of Unholy Fungus\/a
 image: images/Bangle_of_Unholy_Fungus.png
 categories:

@@ -15,7 +15,9 @@ stats:
   potency: '11'
   multi: '18.6'
   mitinc: '11.9'
-effects: '**Overbearing Onslaught**<br>**Renewing Bulwark**'
+effect_name: Overbearing Onslaught, Renewing Bulwark
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Overbearing Onslaught III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Overbearing Onslaught III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Applies Renewing Bulwark: Immunity on termination.  Lasts for 30.0\
+  \ seconds.\n    - While active Renewing Bulwark is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,310 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 231 points of shielding every 2 seconds\n  - If above level 90\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1751582126 -1961928319:Vyskudra's Cloak of Storms\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '11.5'
   aspeed: '24.5'
   dps: '49'
-effects: '**Astounding Triumph**'
+effect_name: Astounding Triumph
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Astounding Triumph on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 4,482 - 4,954 slashing damage on target encounter.\n    - Inflicts 640 - 708 slashing damage on target encounter every 10 seconds.\n    - Increases Reuse Speed of caster by 3.0%.\n    - Increases Casting Speed of caster by 5.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Astounding Triumph on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 4,482 - 4,954 slashing damage on target encounter.\n    - Inflicts 640 - 708 slashing damage on target encounter every 10 seconds.\n    - Increases Reuse Speed of caster by 3.0%.\n    - Increases Casting Speed of caster by 5.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -413983575 1252661016:Girdle of Clashing Intrigue\/a
 categories:
 - Astounding Triumph (Equipment)

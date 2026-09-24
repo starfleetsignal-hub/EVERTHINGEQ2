@@ -17,7 +17,8 @@ stats:
   aspeed: '34.5'
   dps: '26.4'
   multi: '19'
-effects: '**Chain Reaction Chill**'
+effect_name: Chain Reaction Chill
+effects: "- Applies Chain Reaction Chill when Activated.\n  - Triggers a burst of intense cold from yourself and any allies within 10m, dealing 95,000 cold damage per ally.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Chain Reaction Chill is 2.0 seconds and the reuse time of the spell is 2 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -254712289 -2028904678:Martial Arcannium Tome\/a
 categories:

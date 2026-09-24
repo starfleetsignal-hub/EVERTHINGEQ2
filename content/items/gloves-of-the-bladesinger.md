@@ -15,7 +15,8 @@ stats:
   abmod: '+60'
   dps: '5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 510851630 16654118:Gloves of the Bladesinger\/a
 categories:
 - Ability Modifier (Equipment)

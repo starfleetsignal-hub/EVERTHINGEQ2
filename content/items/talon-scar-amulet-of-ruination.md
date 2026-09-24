@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   flurry: '81.1'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1090305344 1588624011:Talon Scar Amulet of Ruination\/a
 categories:
 - Assassin Equipment

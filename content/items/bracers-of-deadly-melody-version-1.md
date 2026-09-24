@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Unremitting Harmony**'
+effect_name: Unremitting Harmony
+effects: "- When Equipped:\n  - Increases duration of all songs by 10 percent."
 obtained_from: Dropped by *[[Kotiz the Death Bringer]] in [[Sebilis]] *[[Quartermaster Shylav]] in [[Sebilis]]
 item_link: \aITEM -1411054961 -1607529131:Bracers of Deadly Melody\/a
 categories:

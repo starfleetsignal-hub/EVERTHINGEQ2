@@ -10,7 +10,7 @@ stats:
   wis: '+2'
   int: '+1'
   dtype: Buckler
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 24 heat damage on target"
 obtained_from: Crafted by [[Craftsman]] (level 12) from [[Craftsman essentials volume 12]]
 item_link: \aITEM 2138271594 -631733660:Pristine Imbued Maple Buckler\/a
 categories:

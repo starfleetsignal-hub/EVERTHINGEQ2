@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Swiftness**'
+effect_name: Swiftness
+effects: "- When Equipped:\n  - Increases speed of caster by 70.0%.\n  - Cannot be modified except by direct means"
 obtained_from: '*Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]] *Dropped by [[Lucky (Heroic)|Lucky]] in [[High Keep (Heroic)]]'
 item_link: \aITEM 1898196107 -350307201:Pendant of the Interim\/a
 image: images/Pendant_of_the_Interim.png

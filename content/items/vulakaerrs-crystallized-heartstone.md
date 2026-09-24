@@ -13,7 +13,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +11,484
-effects: '**Practiced Swings**'
+effect_name: Practiced Swings
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Swings on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the group's Weapon Damage Bonus  by 0.5 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 30 Weapon Damage Bonus .\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1107879317 281519856:Vulak'Aerr's Crystallized Heartstone\/a
 categories:
 - AE Autoattack Chance (Equipment)

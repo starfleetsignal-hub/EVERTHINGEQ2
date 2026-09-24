@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   abmod: '+20'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 16.0.\n    - Increases Ordination, Ministration and Focus of caster by 9.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 56581227 949261843:imbued topaz ring of wisdom\/a
 categories:
 - Ability Modifier (Equipment)

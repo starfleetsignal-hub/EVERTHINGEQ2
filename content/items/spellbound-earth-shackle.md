@@ -17,7 +17,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   dtype: Cloth Armor
-effects: '**Hopeful Resolve**'
+effect_name: Hopeful Resolve
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Hopeful Resolve on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Makes caster immune to Stifle effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1077760459 -405998234 0 0 0:Spellbound Earth Shackle\/a
 categories:
 - Ability Modifier (Equipment)

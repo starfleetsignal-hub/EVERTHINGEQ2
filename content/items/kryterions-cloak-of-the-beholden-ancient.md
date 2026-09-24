@@ -16,7 +16,8 @@ stats:
   critbonus: 1,385.7
   potency: 52,704.7
   resolve: '660'
-effects: '**Beholden Blessing**'
+effect_name: Beholden Blessing
+effects: "- When Equipped:\n  - Reduces arcane damage done to caster by 10%.\n  - Increases Fervor of caster by 19.4.\n  - Increases Fervor Overcap of caster by 19.4.\n  - Increases Crit Bonus Overcap of caster by 1,200.0.\n  - Increases Potency of caster by 8,000.0.\n  - This effect can only take effect within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -910756327 1390994832:Kryterion's Cloak of the Beholden Ancient\/a
 categories:
 - Assassin Equipment

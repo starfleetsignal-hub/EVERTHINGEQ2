@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   dps: '55'
   dtype: Tower Shield
-effects: '**Neural Lashing**'
+effect_name: Neural Lashing
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lashing on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 132974491 1148338699:Graybeard's Wondrous Wall\/a
 categories:
 - Berserker Equipment

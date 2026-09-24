@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2 seconds
   recast: 0.0 seconds
-effects: Cast Nights of the Dead Bounding Orc Skeleton Costume
+effects: "- Applies Cast Nights of the Dead Bounding Orc Skeleton Costume when Activated.\n  - This potion will grant you the illusion of being a bounding orc skeleton!"
 obtained_from: Sold by [[A Nights of the Dead merchant]] for 1s 20c
 item_link: \aITEM 2020124136 847835101:Nights of the Dead Bounding Orc Skeleton Costume\/a
 categories:

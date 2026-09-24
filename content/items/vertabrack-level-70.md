@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   dtype: Symbols
-effects: '**Fear-Stricken Limbs**'
+effect_name: Fear-Stricken Limbs
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Fear-Stricken Limbs on target of spell.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 23.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1568434358 1947236062:Vertabrack\/a
 image: images/Vertabrack.jpg
 categories:

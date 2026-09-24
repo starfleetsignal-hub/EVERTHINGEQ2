@@ -15,7 +15,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Cloth Armor
-effects: '**Clarified Mind**'
+effect_name: Clarified Mind
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Clear Mind on target of spell.  Lasts for 2 minutes 30 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster against 350 points of all damage\n    - Increases power of caster by 90 - 135.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1972886746 -18421594:X'haviz's Gown of Glory\/a
 categories:
 - Assassin Equipment

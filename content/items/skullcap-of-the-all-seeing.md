@@ -18,7 +18,8 @@ stats:
   aspeed: '1.7'
   flurry: '1.2'
   dtype: Leather Armor
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM -815440998 -1154850495:Skullcap of the All Seeing\/a
 categories:
 - Attack Speed (Equipment)

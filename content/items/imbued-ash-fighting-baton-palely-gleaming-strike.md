@@ -14,7 +14,8 @@ stats:
   drating: '16.87'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 44 - 82 magic damage on target\n    - Cannot be modified except by direct means"
 item_link: \aITEM -982841499 1908466456:Imbued Ash Fighting Baton\/a
 categories:
 - Berserker Equipment

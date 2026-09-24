@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Toxic Attunement**'
+effect_name: Toxic Attunement
+effects: "- When Equipped:\n  - Increases the trigger count of poisons by 20%.\n  - On any combat or spell hit this spell will cast Toxic Attunement on target of attack.  Lasts for 10.0 seconds.\n    - Inflicts 643 - 711 poison damage on target encounter instantly and every 2 seconds.\n    - Inflicts an additional 128 - 142 poison damage on target encounter every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Dirk Of The Draconic Miscreant]] *Made from [[Dragon Hide]] *Made from [[Wurm Tongue]] *Made from [[Wyvern Stinger]]'
 item_link: \aITEM 891691393 -1981165731:Dirk of the Draconic Miscreant\/a
 categories:

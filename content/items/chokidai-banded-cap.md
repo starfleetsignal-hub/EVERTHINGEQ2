@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   dtype: Leather Armor
-effects: '**Replenishing Heal**'
+effect_name: Replenishing Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Replenishing Heal on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 1.2 times per minute.\n    - Increases power of target by 38 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Aliyah Vensdord]] (Faction Merchant) in [[Kylong Plains]]
 item_link: \aITEM -183046194 230166683:Chokidai Banded Cap\/a
 categories:

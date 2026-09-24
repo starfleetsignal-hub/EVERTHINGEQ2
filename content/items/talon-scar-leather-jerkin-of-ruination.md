@@ -18,7 +18,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1813288258 -1543359447:Talon Scar Leather Jerkin of Ruination\/a
 categories:
 - Brawler Equipment

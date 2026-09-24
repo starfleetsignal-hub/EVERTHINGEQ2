@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 1927412582 -1378533262 0 0 0:Transfixing Earth Gauntlet\/a
 categories:
 - AE Autoattack Chance (Equipment)

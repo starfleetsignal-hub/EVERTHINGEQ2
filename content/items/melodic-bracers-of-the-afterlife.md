@@ -16,7 +16,8 @@ stats:
   aspeed: '14.3'
   multi: '29.9'
   dtype: Chain Armor
-effects: '**Ethereal Temporality**'
+effect_name: Ethereal Temporality
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 4.0%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1224640161 -1840070752 0 0 0:Melodic Bracers of the Afterlife\/a
 categories:
 - Assassin Equipment

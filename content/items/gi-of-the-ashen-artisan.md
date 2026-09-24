@@ -11,7 +11,8 @@ stats:
   sta: '+328'
   mit: '136'
   dtype: Leather Armor
-effects: '**Exceptional Harvesting Technique**'
+effect_name: Exceptional Harvesting Technique
+effects: "- Applies Exceptional Harvesting Technique when Equipped.\n  - Increases Bountiful Harvest of caster by 12.0.\n  - Reduces the harvest time for fishing, foresting, gathering, mining, and trapping by .5 seconds.\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 90) from [[Tailor Essentials Volume 90]]
 item_link: \aITEM 137820507 1065260772:Gi of the Ashen Artisan\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   dps: '24'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Achievement reward: [[Restorer of Life]]'
 item_link: \aITEM -571044426 -2066468722:Plate Gauntlets of Restoring Life\/a
 categories:

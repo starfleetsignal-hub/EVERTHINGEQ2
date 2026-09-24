@@ -17,7 +17,8 @@ stats:
   abmod: '+568'
   aspeed: '20.9'
   multi: '21.6'
-effects: '**Roguish Daring**'
+effect_name: Roguish Daring
+effects: "- When Equipped:\n  - Daring Attack will have its damage increased by 30%. This is applied before all other effects.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM 2052014779 -1217642136:Swashbuckler's Drape of War\/a
 categories:

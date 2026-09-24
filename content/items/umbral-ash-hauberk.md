@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Greater Ancestral Barrier**'
+effect_name: Greater Ancestral Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Greater Ancestral Barrier on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 750 points of all damage\n    - Replenishes 150 points of absorption every 5 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Master''s Vest Mold]] *Made from [[Elemental Master''s Vest Pattern]]'
 item_link: \aITEM -1201071125 -1918158835 0 0 0:Umbral Ash Hauberk\/a
 categories:

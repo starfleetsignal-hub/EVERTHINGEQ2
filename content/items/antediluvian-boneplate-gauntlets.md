@@ -16,7 +16,8 @@ stats:
   multi: '34.3'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1895464016 2023248513 0 0 0:Antediluvian Boneplate Gauntlets\/a
 categories:
 - Berserker Equipment

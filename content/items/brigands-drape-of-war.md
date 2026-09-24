@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   aspeed: '20.9'
   multi: '21.6'
-effects: '**Thug''s Daring**'
+effect_name: Thug's Daring
+effects: "- When Equipped:\n  - Puncture will have its damage increased by 50%. This is applied before all other effects.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -1614983542 -2135912126:Brigand's Drape of War\/a
 categories:

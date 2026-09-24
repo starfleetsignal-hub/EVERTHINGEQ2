@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Enhanced Overflow**'
+effect_name: Enhanced Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 18% chance to cast Enhanced Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members (AE) for 476.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 94678698 615920225:Impending Violence Magestaff\/a
 categories:
 - Attack Speed (Equipment)

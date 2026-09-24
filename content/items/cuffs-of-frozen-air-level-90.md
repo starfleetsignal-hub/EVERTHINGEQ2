@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Cloth Armor
-effects: '**Bitter Miasma**'
+effect_name: Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 578.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1677675972 1128813238:Cuffs of Frozen Air\/a
 categories:
 - Ability Modifier (Equipment)

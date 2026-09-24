@@ -19,7 +19,8 @@ stats:
   abmod: +9,478
   multi: '118.4'
   dtype: Cloth Armor
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 obtained_from: From [[Satchel of Sorrowsong]]
 item_link: \aITEM 317064955 -649664311:Exemplar Arcanna Cap\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   strike: '10.8'
   abmod: '+197'
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1799958679 -1396653370:Rhee'Gor's Chipped Necklace\/a
 categories:
 - Ability Modifier (Equipment)

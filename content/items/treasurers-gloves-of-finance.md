@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   mitinc: '10.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1733521083 -1665643042:Treasurer's Gloves of Finance\/a
 categories:
 - Assassin Equipment

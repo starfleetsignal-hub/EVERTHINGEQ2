@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   vsarcane: '+395'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -149978729 -1748729713 0 0 0:Rejuvenating Bracelet\/a
 categories:

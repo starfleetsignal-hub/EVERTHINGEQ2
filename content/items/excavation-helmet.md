@@ -13,7 +13,8 @@ stats:
   sta: '+3'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Excavator''s Dedication**'
+effect_name: Excavator's Dedication
+effects: '- Applies Excavator''s Dedication when Equipped.'
 obtained_from: Sold by [[Jimbo McDaniel]] in [[The Sinking Sands]]
 item_link: \aITEM 1211948444 -30283761:Excavation Helmet\/a
 removed_from_game: 'See the quest: [[Tinkering with Toggery]] to acquire similar headgear'

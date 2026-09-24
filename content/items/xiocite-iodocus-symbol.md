@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Obliterate**'
+effect_name: Obliterate
+effects: "- Applies Obliterate III when Activated.\n  - Inflicts 633,600 crushing damage on targets in Area of Effect.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Obliterate III is 30.0 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 98) from [[Advanced Jeweler Volume 98]]
 item_link: \aITEM 1558178298 -1561241987:Xiocite Iodocus Symbol\/a
 categories:

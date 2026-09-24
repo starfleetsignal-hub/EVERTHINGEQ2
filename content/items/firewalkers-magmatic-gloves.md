@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Champion''s Gauntlet Mold]] *Made from [[Elemental Champion''s Gauntlet Pattern]]'
 item_link: \aITEM 1533996272 1106201031 0 0 0:Firewalker's Magmatic Gloves\/a
 categories:

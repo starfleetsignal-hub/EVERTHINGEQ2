@@ -20,7 +20,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Mark of the Scorn**'
+effect_name: Mark of the Scorn
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mark of the Scorn on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 229 - 382 magic damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 365070735 -601554441:Entwined Dragon Claws\/a
 categories:
 - Ability Modifier (Equipment)

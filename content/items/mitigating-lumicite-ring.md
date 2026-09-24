@@ -16,7 +16,8 @@ stats:
   dps: '26.4'
   vselemental: +29,243
   mitinc: '7'
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 57.0."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -1653730768 366561097:Mitigating Lumicite Ring\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   aspeed: '66.9'
   flurry: '36.3'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1410051969 1416099687:Mantle of Malignance\/a
 categories:
 - Assassin Equipment

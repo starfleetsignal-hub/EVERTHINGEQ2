@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +21,736
-effects: '**Theer''s Rage**'
+effect_name: Theer's Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Theer's Rage II on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 300, 000-580, 000 magic damage to the target. This inflicts more damage to more powerful enemies.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1699006062 221946240:Ardent Bangle of Theer's Rage\/a
 categories:
 - Ability Modifier (Equipment)

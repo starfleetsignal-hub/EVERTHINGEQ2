@@ -10,7 +10,8 @@ flags: attunable heirloom no-value
 stats:
   sta: '+1'
   wis: '+1'
-effects: '**Featherfall**<br>**Sky Glide**'
+effect_name: Featherfall, Sky Glide
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Sky Glide when Activated.  Lasts for 30.0 seconds.\n  - Allows caster to jump farther\n  - Cannot be modified except by direct means\n  - The casting time of Sky Glide is 1.0 second and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -2119083716 -537405603:Small Wings of the League\/a
 categories:
 - Assassin Equipment

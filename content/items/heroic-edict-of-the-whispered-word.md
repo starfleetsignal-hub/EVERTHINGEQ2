@@ -16,7 +16,8 @@ stats:
   dps: '10.1'
   mitinc: '3.8'
   dtype: Symbols
-effects: '**Anterograde Amnesia**'
+effect_name: Anterograde Amnesia
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Anterograde Amnesia on caster.  Lasts for 6.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases Hate Gain of caster by 50.0.\n    - Prevents AOE (except when direct)\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 480642352 226074432:Heroic Edict of the Whispered Word\/a
 categories:
 - Anterograde Amnesia (Equipment)

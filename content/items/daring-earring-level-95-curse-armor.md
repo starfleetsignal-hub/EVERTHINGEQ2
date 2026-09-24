@@ -15,7 +15,8 @@ stats:
   abmod: +1,000
   flurry: '0.5'
   vselemental: +5,273
-effects: '**Curse Armor**'
+effect_name: Curse Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curse Armor III on target of attack.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 1,197.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Assassin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Beastlord, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Brigand, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Dirge, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Ranger, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Swashbuckler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Troubador, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM 1809590365 -1332219965:Daring Earring\/a
 categories:

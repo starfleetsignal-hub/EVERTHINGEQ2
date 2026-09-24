@@ -17,7 +17,8 @@ stats:
   potency: 27,206.6
   resolve: '370'
   vselemental: +238,938
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM -195596390 -327141531:Fabled Negative Energy Channeler\/a
 categories:
 - Arcane Resistance (Equipment)

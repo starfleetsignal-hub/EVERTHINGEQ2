@@ -21,7 +21,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Briny Deep**'
+effect_name: Briny Deep
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 7.5.\n  - Increases Potency of caster by 7.5.\n  - Grants a 5.0% chance to resist Stun effects\n  - Cannot be modified except by direct means"
 obtained_from: From [[Ethernere Weapon]]
 item_link: \aITEM -464444820 1491236042:Toe-Slasher\/a
 categories:

@@ -10,7 +10,8 @@ stats:
   agi: '+1'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 obtained_from: Sold by [[Gerbi Frostfoot]] (Merchant) in [[Frostfell Wonderland Village]]
 item_link: \aITEM 940638060 -240474561:ice crested helm\/a
 events:

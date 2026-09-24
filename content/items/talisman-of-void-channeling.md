@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vsarcane: '+400'
-effects: '**Positive Channeling of the Void**<br>**Runic Recovery**'
+effect_name: Positive Channeling of the Void, Runic Recovery
+effects: "- When Equipped:\n  - Increases Effective Level of caster to 83.\n  - Must be in Munzok's Material Bastion.\n  - Requires not having an apprentice\n- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 obtained_from: '[[Hook, Line, and... Anchor?]]'
 item_link: \aITEM 521687514 132934318:Talisman of Void Channeling\/a
 categories:

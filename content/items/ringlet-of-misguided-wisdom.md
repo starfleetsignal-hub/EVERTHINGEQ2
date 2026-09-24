@@ -16,7 +16,8 @@ stats:
   abmod: '+185'
   dps: '15.2'
   vsarcane: +1,080
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM -552760998 252978536:Ringlet of Misguided Wisdom\/a
 categories:
 - Ability Modifier (Equipment)

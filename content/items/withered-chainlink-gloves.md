@@ -16,7 +16,8 @@ stats:
   potency: '9.6'
   dps: '23.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[In Search of Satyr]]'
 item_link: \aITEM -664807698 -277060830:Withered Chainlink Gloves\/a
 categories:

@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Buccaneer's Brawlin Armor Crate]]
 item_link: \aITEM 750585312 -1591923486:Buccaneer's Brawlin Cloak\/a
 categories:

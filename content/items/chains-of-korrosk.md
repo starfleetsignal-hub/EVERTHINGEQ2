@@ -17,7 +17,8 @@ stats:
   potency: 37,300.1
   resolve: '480'
   dps: '209.4'
-effects: '**Ready Sink**'
+effect_name: Ready Sink
+effects: "- Applies Ready Sink when Equipped.\n  - When obtained, this item will grant a character flag that contributes to the Ballads of Zimara: Ready Check and Money Sink effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1031001560 471685740:Chains of Korrosk\/a
 categories:
 - Assassin Equipment

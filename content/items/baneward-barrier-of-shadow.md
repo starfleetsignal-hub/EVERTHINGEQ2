@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   dps: '13.4'
   dtype: Buckler
-effects: '**Split-Second Redemption**'
+effect_name: Split-Second Redemption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Split-Second Redemption on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Will absorb all damage. This spell will absorb a total of 1 attack.\n    - If priest\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type."
 item_link: \aITEM -1892643530 -1411917123:Baneward, Barrier of Shadow\/a
 image: images/Baneward,_Barrier_of_Shadow.jpg
 categories:

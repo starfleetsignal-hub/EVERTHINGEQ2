@@ -17,7 +17,8 @@ stats:
   abmod: '+101'
   multi: '6.5'
   dtype: Chain Armor
-effects: '**Warding of the Oracle**'
+effect_name: Warding of the Oracle
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ward of the Oracle on the group.  Lasts for 15.0 seconds.  Triggers about 2.4 times per minute.\n    - Wards group members (AE) against 780 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1193605931 1023502953:Ancient Tunic of the Oracle\/a
 categories:
 - Ability Modifier (Equipment)

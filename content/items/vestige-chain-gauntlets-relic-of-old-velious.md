@@ -19,7 +19,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Chain Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 353.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 522510065 1397106482:Vestige Chain Gauntlets, Relic of Old Velious\/a
 image: images/Vestige_Chain_Gauntlets,_Relic_of_Old_Velious.png
 categories:

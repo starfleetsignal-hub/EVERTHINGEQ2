@@ -14,7 +14,8 @@ stats:
   crit: '4.2'
   critbonus: '1.5'
   potency: '6.6'
-effects: '**King''s Legacy**'
+effect_name: King's Legacy
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1820065859 950682101:Amulet of the Prime Trajin\/a
 categories:
 - AE Autoattack Chance (Equipment)

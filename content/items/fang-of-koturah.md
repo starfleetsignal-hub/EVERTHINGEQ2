@@ -19,7 +19,8 @@ stats:
   drating: '59.11'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Koturah''s Venom**'
+effect_name: Koturah's Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Koturah's Venom on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 82 poison damage on target instantly and every 6 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Koturah]]'
 item_link: \aITEM -630160610 -1900502548:Fang of Koturah\/a
 categories:

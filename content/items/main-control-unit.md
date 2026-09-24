@@ -16,7 +16,8 @@ stats:
   aspeed: '33.4'
   dps: '13.1'
   vselemental: +26,832
-effects: '**Power of Malice**'
+effect_name: Power of Malice
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 50. If the wearer is the top of an enemy's hatelist, the value is increased to 80.\n  - Increases the wearer's health by 20,000. If the wearer is the top of an enemy's hatelist, the value is increased to 32,000."
 item_link: \aITEM 684725040 -157304864:Main Control Unit\/a
 categories:
 - Ability Modifier (Equipment)

@@ -26,7 +26,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 4%.\n    - Inflicts 4,105 cold damage on target.\n    - Inflicts 4,105 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1547442357 506702359:Prophetic Bow of Karana's Storm\/a
 categories:
 - Assassin Equipment

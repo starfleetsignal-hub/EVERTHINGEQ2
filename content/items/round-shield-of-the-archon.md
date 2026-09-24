@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   potency: '0.2'
   dtype: Buckler
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 24.0.\n  - This effect suspends during combat"
 item_link: \aITEM -1203616109 -1297954716:Round Shield of the Archon\/a
 categories:
 - Berserker Equipment

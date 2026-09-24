@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Ethereal Charge**'
+effect_name: Ethereal Charge
+effects: "- When Equipped:\n  - Reduces reuse time by 10%.\n  - On a hostile spell cast this spell may cast Ethereal Charge on caster.  Lasts for 15.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases spell casting speed by 50% and resistibility by 10%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 83743879 1972775260:Silken Robe of Al'Kabor\/a
 categories:
 - Ability Modifier (Equipment)

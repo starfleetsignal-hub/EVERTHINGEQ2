@@ -16,7 +16,8 @@ stats:
   abmod: +1,527
   aspeed: '17.2'
   vselemental: +28,885
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 obtained_from: 'Collection reward: [[Mine Remainders (Collection)]]'
 item_link: \aITEM 403919753 -1860342626:Miner's ID Bracelet\/a
 categories:

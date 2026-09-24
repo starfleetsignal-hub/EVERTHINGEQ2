@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Frigid Winds**'
+effect_name: Frigid Winds
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frigid Winds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 98 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -204569158 -576512174:Dagger of Icy Breath\/a
 categories:
 - Ability Modifier (Equipment)

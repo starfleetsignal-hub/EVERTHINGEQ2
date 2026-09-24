@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Cloth Armor
-effects: '**Temporal Flux**'
+effect_name: Temporal Flux
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Temporal Flux on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Improves casting speed of hostile spells by 100%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[A Gnomish Master Plan]]'
 item_link: \aITEM -530622962 -2108462731:Shining Metallic Robe\/a
 image: images/Shiny_Metallic_Robe.jpg

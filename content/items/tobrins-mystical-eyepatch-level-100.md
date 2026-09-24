@@ -19,7 +19,8 @@ stats:
   abmod: +7,977
   multi: '99.6'
   dtype: Leather Armor
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM -338764246 -168347865:Tobrin's Mystical Eyepatch\/a
 categories:
 - Ability Modifier (Equipment)

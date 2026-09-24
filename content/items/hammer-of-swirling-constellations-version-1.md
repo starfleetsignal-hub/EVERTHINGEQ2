@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Crushing Wave**'
+effect_name: Crushing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Crushing Wave on caster.  Triggers about 1.6 times per minute.\n    - Heals group members for 356.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 657631678 1367067646:Hammer of Swirling Constellations\/a
 categories:
 - Ability Modifier (Equipment)

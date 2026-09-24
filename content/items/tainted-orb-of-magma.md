@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Corrupted Orb of Still Lava]], [[Energized Orb of Destruction]] and 1p 50g
 item_link: \aITEM 1105454209 2007195860:Tainted Orb of Magma\/a
 categories:

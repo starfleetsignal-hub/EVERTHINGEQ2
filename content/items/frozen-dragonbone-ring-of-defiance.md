@@ -17,7 +17,9 @@ stats:
   dps: '18.8'
   vselemental: '+511'
   mitinc: '7.6'
-effects: '**Defiant Stand**<br>**King''s Legacy**'
+effect_name: Defiant Stand, King's Legacy
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Stand on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Defiant Stand on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a hostile spell cast this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases\
+  \ Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 680819789 870633104:Frozen Dragonbone Ring of Defiance\/a
 categories:
 - Ability Modifier (Equipment)

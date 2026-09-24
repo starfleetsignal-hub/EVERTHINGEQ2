@@ -17,7 +17,9 @@ stats:
   potency: '7.2'
   mitinc: '7.6'
   dtype: Plate Armor
-effects: '**King''s Legacy**<br>**Stonewill**'
+effect_name: King's Legacy, Stonewill
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 0.5.\n    - Increases Potency of group members (AE) by 6.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 0.5.\n    - Increases Potency of group members (AE) by 6.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Stonewill on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Stonewill on caster.  Lasts for\
+  \ 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1211147594 771350854:Hulking Breastplate of the Godslayer\/a
 categories:
 - Berserker Equipment

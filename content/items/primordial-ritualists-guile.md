@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Primordial Vengeance**'
+effect_name: Primordial Vengeance
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Primordial Vengeance on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 288,120 divine damage on target.\n    - Increases Crit Bonus of caster by 18.0.\n    - Increases Potency of caster by 18.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1445755221 1310347896:Primordial Ritualist's Guile\/a
 categories:
 - Ability Modifier (Equipment)

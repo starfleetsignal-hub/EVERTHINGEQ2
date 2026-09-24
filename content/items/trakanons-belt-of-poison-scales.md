@@ -18,7 +18,8 @@ stats:
   resolve: '23'
   dps: '38'
   flurry: '27'
-effects: '**Facet of Eternity**'
+effect_name: Facet of Eternity
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Rejuvenating One."
 item_link: \aITEM -1300919020 802398414:Trakanon's Belt of Poison Scales\/a
 categories:
 - Ability Doublecast (Equipment)

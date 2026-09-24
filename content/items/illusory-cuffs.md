@@ -14,7 +14,8 @@ stats:
   potency: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**<br>**Ensorcelled Vulnerability**'
+effect_name: Arcane Recovery, Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent.\n- When Equipped:\n  - Reduces resistibility of all spells by 5%."
 item_link: \aITEM -1107850772 201420251:Illusory Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

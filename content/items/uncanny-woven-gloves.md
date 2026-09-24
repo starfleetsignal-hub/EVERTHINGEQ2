@@ -25,7 +25,8 @@ stats:
   drating: '247.82'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Decay**'
+effect_name: Decay
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 9% chance to cast Cold Swelter on target of spell.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 5,570 - 6,807 heat damage on target.\n    - Inflicts 5,553 - 6,787 cold damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM 583103376 -1992811306:Uncanny Woven Gloves\/a
 categories:
 - Attack Speed (Equipment)

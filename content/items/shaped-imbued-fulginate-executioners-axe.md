@@ -15,7 +15,8 @@ stats:
   drating: '41.27'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 83 - 124 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -92736968 -664567190:shaped imbued fulginate executioner's axe\/a
 categories:
 - Berserker Equipment

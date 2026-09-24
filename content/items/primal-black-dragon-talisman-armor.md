@@ -16,7 +16,8 @@ stats:
   dps: '27.9'
   multi: '18.1'
   flurry: '7.7'
-effects: '**Fury of the Dragon Lords**'
+effect_name: Fury of the Dragon Lords
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fury of the Dragon Lords on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 25.0.\n    - Increases DPS of caster by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Sleeper''s Tomb Legacy]]'
 item_link: \aITEM -768306005 -57141569:Primal Black Dragon Talisman\/a
 categories:

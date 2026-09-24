@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Piercing
   wtype: Sword
-effects: '**Havoc''s Strike**<br>**Havoc''s Fury**<br>**Tactical Mastery**'
+effect_name: Havoc's Strike, Havoc's Fury, Tactical Mastery
+effects: "- When Equipped:\n  - Improves the damage of Murderous Rake, Dispatch, Debilitate and Backstab by 30%.\n- When Equipped:\n  - On a combat hit this spell may cast Havoc's Fury on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 518 - 778 piercing damage on target.\n    - Increases Multi Attack of caster by 15.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Improves the Brigand's profession debuffs by 10%."
 obtained_from: '[[Greed, Deceit, and Destruction!]]'
 item_link: \aITEM -929107905 -880275705:Havoc, Blade of Treachery\/a
 categories:

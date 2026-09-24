@@ -16,7 +16,8 @@ stats:
   aspeed: '6.9'
   multi: '7.7'
   vsarcane: '+872'
-effects: '**Greater Undead Bane**'
+effect_name: Greater Undead Bane
+effects: "- When Equipped:\n  - Additional equipment with Undead Bane improves this effect.\n  - On any combat or spell hit this spell may cast Greater Undead Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 802 mental damage on target.\n      - Must be classified as an undead\n    - Inflicts 401 mental damage on target.\n      - Must not be classified as an undead\n    - Decreases Mitigation of target vs arcane damage by 664.\n      - Must be classified as an undead\n    - Cannot be modified except by direct means"
 item_link: \aITEM -35036463 -1395208786:Dangling Skull Bone Chip\/a
 categories:
 - Arcane Resistance (Equipment)

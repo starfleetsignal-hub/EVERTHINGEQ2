@@ -17,7 +17,8 @@ stats:
   abmod: +1,702
   aspeed: '38.3'
   dps: '14.6'
-effects: '**All In**'
+effect_name: All In
+effects: "- Applies All In when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 510.0.\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of All In is 1 minute 30 seconds"
 obtained_from: 'Achievement reward: [[Mystically Delightful]]'
 item_link: \aITEM -585982277 -247430994:Tri Leaf Clove\/a
 categories:

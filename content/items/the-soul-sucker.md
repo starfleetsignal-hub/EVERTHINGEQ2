@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Soul Suck**'
+effect_name: Soul Suck
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Soul Suck on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 52 - 64 crushing damage on target.\n    - Heals caster for 52 - 63.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1611581561 -614115599:The Soul Sucker\/a
 categories:
 - Ability Modifier (Equipment)

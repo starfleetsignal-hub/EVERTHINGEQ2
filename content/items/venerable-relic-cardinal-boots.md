@@ -17,7 +17,8 @@ stats:
   potency: 46,364
   resolve: '555'
   dtype: Plate Armor
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Crit Bonus of caster by 836.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1162939861 -1726175318:Venerable Relic Cardinal Boots\/a
 categories:
 - Assassin Equipment

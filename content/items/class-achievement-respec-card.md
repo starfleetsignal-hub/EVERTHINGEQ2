@@ -10,7 +10,7 @@ stats:
   charges: 5/5
   casting: '3.70'
   recast: 1 minute
-effects: Respec Class Achievements
+effects: "- Applies Respec Class Achievements when Activated.\n  - Resets the Class achievement tree.\n  - This effect cannot be cast during combat\n  - Only affects targets level 10 and above"
 obtained_from: One per character can be obtained by requesting it from an [[Advancement Counsel|Advancement Counsel NPC]] in Kelethin, Qeynos, Freeport, Neriak, Gorowyn, or Teren's Grasp
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   abmod: '+36'
   dtype: Symbols
-effects: '**Rune of the Eye**'
+effect_name: Rune of the Eye
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Rune of the Eye on caster.  Lasts for 10 minutes.  Triggers about 2.0 times per minute.\n    - Wards caster against 800 points of all damage\n    - Increases Disruption of caster by 5.0.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 obtained_from: Crafted by [[Artisan]] (level 65) from [[Recipes for the Counselor's Head]]
 item_link: \aITEM -693943093 -1555230608:Enspelled Vultak Eye\/a
 categories:

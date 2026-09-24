@@ -15,7 +15,8 @@ stats:
   dps: '5'
   multi: '5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1631174457 1851962919:Quarrelsome Gloves\/a
 categories:
 - Ability Modifier (Equipment)

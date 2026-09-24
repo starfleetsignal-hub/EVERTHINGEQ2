@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   multi: '12'
   vselemental: '+511'
-effects: '**Immaculate Perception**'
+effect_name: Immaculate Perception
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Immaculate Perception on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Immaculate Perception on target.  This effect normalizes based off of a three second triggering event.\n      - Heals caster for 2,322.\n      - Cannot be modified except by direct means\n      - Grants a total of 2 triggers of the spell.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1717422538 -74735834:Frozen Dragonbone Ring of Disdain\/a
 categories:
 - Ability Modifier (Equipment)

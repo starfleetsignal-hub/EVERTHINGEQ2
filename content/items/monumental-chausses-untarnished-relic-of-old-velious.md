@@ -18,7 +18,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Plate Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 53.0.\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1081676618 -2030516778:Monumental Chausses, Untarnished Relic of Old Velious\/a
 categories:
 - Berserker Equipment

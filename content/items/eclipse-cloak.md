@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Enlightened souls gaze upon the wonders of the night sky with appreciation, not fear, and see the beauty of the planets and stars.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 1212373417 -14075485:Eclipse Cloak\/a
 categories:

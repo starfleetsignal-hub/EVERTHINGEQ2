@@ -17,7 +17,8 @@ stats:
   resolve: '485'
   cbovercap: '+1537.3'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 130) from [[Advanced Coldwork Armorer''s Volume III (no-trade no-value)]] *Crafted by [[Armorer]] (level 130) from [[Advanced Coldwork Armorer''s Volume III (no-value)]]'
 item_link: \aITEM -1104019397 -605488500:Mastercrafted Velious Tower Shield of Fortitude\/a
 categories:

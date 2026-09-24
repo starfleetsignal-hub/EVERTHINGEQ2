@@ -12,7 +12,8 @@ stats:
   sta: '+12'
   mit: '196'
   dtype: Plate Armor
-effects: '**Orc Bane**'
+effect_name: Orc Bane
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Orc Bane on target's attacker.\n    - Inflicts 187 - 312 magic damage on target.\n    - If target is orc\n    - Cannot be modified except by direct means"
 item_link: \aITEM -289533720 -1080594918:Cuirass of Crush\/a
 categories:
 - Berserker Equipment

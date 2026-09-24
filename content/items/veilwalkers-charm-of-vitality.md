@@ -18,7 +18,8 @@ stats:
   resolve: '145'
   abmod: +34,799
   mitinc: '18.7'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 323.7.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 119) from [[Jeweler's Primer Volume 19]]
 item_link: \aITEM 747972930 -925476410:Veilwalker's Charm of Vitality\/a
 categories:

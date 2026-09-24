@@ -19,7 +19,8 @@ stats:
   drating: '58.03'
   dtype: One-Handed Slashing
   wtype: Dagger
-effects: '**Fetidthorn Infused**'
+effect_name: Fetidthorn Infused
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Fetidthorn Infusion on target of attack.\n    - Inflicts 19 - 23 magic damage on target.\n      - If target is ravasect\n    - Cannot be modified except by direct means"
 obtained_from: '[[Insectsurrection]]'
 item_link: \aITEM -763089977 1123005374:Dabner's Chitin Shredder\/a
 categories:

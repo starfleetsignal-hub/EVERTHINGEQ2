@@ -18,7 +18,8 @@ stats:
   resolve: '23'
   flurry: '27'
   mitinc: '10.4'
-effects: '**Facet of Eternity**'
+effect_name: Facet of Eternity
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Rejuvenating One."
 item_link: \aITEM -1603154513 -1262821346:Trakanon's Belt of Diseased Scales\/a
 categories:
 - Assassin Equipment

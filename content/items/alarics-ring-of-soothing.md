@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   vselemental: '+511'
-effects: '**Flash of Intuition**'
+effect_name: Flash of Intuition
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Flash of Intuition on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 10%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1781782209 35328007:Alaric's Ring of Soothing\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -13,7 +13,8 @@ stats:
   crit: '2.2'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 63.2.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Heirloom)]] *Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Normal)]]'
 item_link: \aITEM 1978881514 1965734840 0 0 0:pristine discord imbued swiftcloth hex doll\/a
 image: images/Discord_imbued_swiftcloth_hex_doll.jpg

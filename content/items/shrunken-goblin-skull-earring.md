@@ -18,7 +18,8 @@ stats:
   abmod: +6,166
   aspeed: '40.4'
   vselemental: +40,714
-effects: '**Grim Aura**'
+effect_name: Grim Aura
+effects: "- Applies Grim Aura when Activated.  Lasts for 1 hour.\n  - On a hostile ability cast this spell has a 10% chance to cast Grim Strike on target of spell.  Lasts for 12.0 seconds.\n    - Inflicts 2,093 poison damage on target.\n    - Decreases Combat Mitigation of target by 5.1.\n    - Cannot be modified except by direct means\n  - On a spell cast this spell has a 15% chance to cast Grim Aura on caster.  Lasts for 7.5 seconds.\n    - Increases Melee Multiplier of caster by 1.55.\n    - Cannot be modified except by direct means\n  - The casting time of Grim Aura is 4.0 seconds and the reuse time of the spell is 20.0 seconds"
 obtained_from: 'Heritage quest reward: [[Light of the Destroyer]]'
 item_link: \aITEM 1432104644 -1234794142:Shrunken Goblin Skull Earring\/a
 categories:

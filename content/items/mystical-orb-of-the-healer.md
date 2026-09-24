@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   dps: '5.6'
   vsarcane: '+403'
-effects: '**Mystical Healing**'
+effect_name: Mystical Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Healing Wave on target of spell cast.  Triggers about 1.8 times per minute.\n    - Heals group members for 154 - 231.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Mystical Orbs]]'
 item_link: \aITEM 2003023003 1382023982:Mystical Orb of the Healer\/a
 categories:

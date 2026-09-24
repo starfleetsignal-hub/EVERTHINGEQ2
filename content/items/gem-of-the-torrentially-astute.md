@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,032
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent IV on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 334,400 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 309513130 -297572786:Gem of the Torrentially Astute\/a
 categories:
 - Arcane Resistance (Equipment)

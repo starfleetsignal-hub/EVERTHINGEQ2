@@ -16,7 +16,8 @@ stats:
   aspeed: '4.6'
   dps: '8.9'
   vsarcane: '+665'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -378115698 202785184:Ring of the Faithful\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -19,7 +19,8 @@ stats:
   cbovercap: '+122.6'
   mitinc: '44.2'
   dtype: Tower Shield
-effects: '**Wartorn**'
+effect_name: Wartorn
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Wartorn Counter on caster.  Lasts for 15.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Caster will Riposte 100.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n    - Makes caster immune to strikethrough attacks.\n    - 15% chance to cancel when target successfully ripostes an attack\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 120.0 - 240.0 seconds."
 item_link: \aITEM -1872869659 -1338665009:Fabled Shield of Rallos Zek\/a
 categories:
 - Berserker Equipment

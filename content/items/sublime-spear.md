@@ -21,7 +21,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Runic Deflection**'
+effect_name: Runic Deflection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Deflection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 2,400 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Sehesh]] in [[The Sundered Frontier]] for 100 [[Seal of Arad|Seals of Arad]]
 item_link: \aITEM -1689856140 -969904774:Sublime Spear\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '218.97'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Silver Boon**'
+effect_name: Silver Boon
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Silver Boon II on target of spell cast.  Triggers about 2.0 times per minute.\n    - Heals target for 6,383 - 7,054.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1697752506 -1740011749 0 0 0:Phasing Harpoon of the Abyss\/a
 categories:
 - Casting Speed (Equipment)

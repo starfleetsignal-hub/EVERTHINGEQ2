@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   dps: '2.2'
   dtype: Leather Armor
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 31.5.\n  - This effect suspends during combat"
 item_link: \aITEM -1213197824 -859658734:Woven Flesh Vest\/a
 categories:
 - Assassin Equipment

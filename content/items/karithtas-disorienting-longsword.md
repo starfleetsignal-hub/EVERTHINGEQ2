@@ -22,7 +22,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Discombobulation**'
+effect_name: Discombobulation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulation on target of attack.  Triggers about 3.0 times per minute.\n    - Decreases Threat to target by 3,300,000\n    - Inflicts 9,650 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -534611965 -1010259382:Karith'Ta's Disorienting Longsword\/a
 categories:
 - Ability Modifier (Equipment)

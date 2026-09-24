@@ -15,7 +15,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   mitinc: '10.5'
-effects: '**Cyclical Battering**'
+effect_name: Cyclical Battering
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1776316727 1576513932:Barter's Belt of the Awakened Invaders\/a
 categories:
 - Assassin Equipment

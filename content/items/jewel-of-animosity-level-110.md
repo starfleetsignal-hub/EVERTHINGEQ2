@@ -19,7 +19,8 @@ stats:
   aspeed: '70.1'
   dps: '53.3'
   vselemental: +76,560
-effects: '**Hate''s Fate**'
+effect_name: Hate's Fate
+effects: "- When Equipped:\n  - Increases STA of caster by 1,000.0.\n  - This effect improves for each tier of bosses that has been defeated in Shard of Hate [Raid].\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1954602408 -1115312724:Jewel of Animosity\/a
 categories:
 - Ability Modifier (Equipment)

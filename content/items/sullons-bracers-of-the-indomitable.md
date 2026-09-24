@@ -15,7 +15,8 @@ stats:
   potency: '11.6'
   aspeed: '42.8'
   dtype: Plate Armor
-effects: '**Death''s Dance**'
+effect_name: Death's Dance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 3.0%.\n  - Increases Health Regen of caster by 15.0.\n  - Increases Max Health of caster by 1,440.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -318647914 886454791 0 0 0:Sullon's Bracers of the Indomitable\/a
 categories:
 - Attack Speed (Equipment)

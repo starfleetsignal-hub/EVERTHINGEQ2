@@ -19,7 +19,8 @@ stats:
   drating: '70.92'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mark of Pestilence**'
+effect_name: Mark of Pestilence
+effects: '- Applies Mark of Pestilence when Equipped.'
 item_link: \aITEM -1488033155 -1854241933:Rancid Fist of Pestilence\/a
 categories:
 - Ability Modifier (Equipment)

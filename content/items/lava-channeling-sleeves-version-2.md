@@ -15,7 +15,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   dtype: Cloth Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM -815311637 2145266445:Lava Channeling Sleeves\/a
 categories:
 - Casting Speed (Equipment)

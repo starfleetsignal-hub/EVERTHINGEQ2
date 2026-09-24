@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '161'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Ancient Knowledge: Devout Breastplate of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1541258013 542125277:Devout Breastplate of Communion\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Shackles**'
+effect_name: Shackles
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Shackles on target of spell.  Lasts for 4.8 seconds.  Triggers about 1.8 times per minute.\n    - Slows target by 32.5%.\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 80 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM 412662641 -234721562:Incandescent Slippers\/a
 categories:
 - Ability Modifier (Equipment)

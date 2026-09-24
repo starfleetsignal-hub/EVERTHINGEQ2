@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   multi: '7.8'
   dtype: Cloth Armor
-effects: '**Massive Concussive Shock**'
+effect_name: Massive Concussive Shock
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Massive Concussive Shock on target of spell.  Lasts for 7.2 seconds.  Triggers about 2.4 times per minute.\n    - Stuns target encounter\n    - Must not be engaged in pvp combat\n    - Epic targets gain an immunity to Stun effects of 21.6 seconds and duration is reduced to 2.4 seconds.\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Vanquisher''s Boot Mold]] *Made from [[Elemental Vanquisher''s Boot Pattern]]'
 item_link: \aITEM 249919796 1551148592 0 0 0:Fireborn Boots of Mindmelting\/a
 categories:

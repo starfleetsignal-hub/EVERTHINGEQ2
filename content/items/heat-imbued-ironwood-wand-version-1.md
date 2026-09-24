@@ -18,7 +18,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Fire Ball**'
+effect_name: Fire Ball
+effects: "- Applies Fire Ball when Activated.\n  - Inflicts 254 - 423 heat damage on target.\n  - The casting time of Fire Ball is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -2144524113 1252171602:Heat Imbued Ironwood Wand\/a
 categories:
 - Casting Speed (Equipment)

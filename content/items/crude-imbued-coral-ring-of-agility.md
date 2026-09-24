@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   sta: '+4'
   agi: '+4'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 4.7.\n    - Increases Haste of caster by 14.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 177996730 2048650172:crude imbued coral ring of agility\/a
 categories:
 - Assassin Equipment

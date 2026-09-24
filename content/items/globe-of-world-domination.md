@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   dps: '16.6'
   dtype: Symbols
-effects: '**Amazing Presence**'
+effect_name: Amazing Presence
+effects: "- Applies Amazing Presence II when Activated.  Lasts for 15.0 seconds.\n  - On a healing spell cast this spell will cast Amazing Presence on target of spell cast.\n    - Dispels 103 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - The reuse time of Amazing Presence II is 5 minutes"
 item_link: \aITEM 1081505664 727093380:Globe of World Domination\/a
 categories:
 - Amazing Presence (Equipment)

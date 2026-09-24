@@ -17,7 +17,8 @@ stats:
   dps: '28.8'
   multi: '22.2'
   vselemental: +33,491
-effects: '**Amplifying Criticals**'
+effect_name: Amplifying Criticals
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 2133231062 1533077149:Energy Amplifier Stud\/a
 categories:
 - Amplifying Criticals (Equipment)

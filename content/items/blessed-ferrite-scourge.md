@@ -19,7 +19,8 @@ stats:
   drating: '63.61'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Smoldering Blessing**'
+effect_name: Smoldering Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Smoldering Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 100\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 73) from [[Weaponsmith Essentials Volume 73 (Normal)]] *Crafted by [[Weaponsmith]] (level 73) from [[Weaponsmith Essentials Volume 73 (no-trade)]]'
 item_link: \aITEM 1613914067 -772132636:Blessed Ferrite Scourge\/a
 categories:

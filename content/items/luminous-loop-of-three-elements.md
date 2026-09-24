@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   vsarcane: '+400'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Tri-element Loop]], [[Rejuvenating Band]] and 1p 50g
 item_link: \aITEM 1133549797 1709127283 0 0 0:Luminous Loop of Three Elements\/a
 categories:

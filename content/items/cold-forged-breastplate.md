@@ -17,7 +17,8 @@ stats:
   abmod: '+29'
   aspeed: '1.7'
   dtype: Plate Armor
-effects: '**Warrior''s Wish**'
+effect_name: Warrior's Wish
+effects: "- Applies Warrior's Wish when Activated.  Lasts for 7.5 seconds.\n  - Caster will Riposte 100.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n  - Must have Cold-Forged Breastplate equipped.\n  - The casting time of Warrior's Wish is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM -829261316 -1768488750:Cold-Forged Breastplate\/a
 categories:
 - Ability Modifier (Equipment)

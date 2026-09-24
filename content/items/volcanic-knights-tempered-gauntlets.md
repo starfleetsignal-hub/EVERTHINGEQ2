@@ -17,7 +17,8 @@ stats:
   flurry: '3.4'
   mitinc: '4.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Champion''s Gauntlet Mold]] *Made from [[Elemental Champion''s Gauntlet Pattern]]'
 item_link: \aITEM 1151712398 -1364335654 0 0 0:Volcanic Knight's Tempered Gauntlets\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   mitinc: '3.1'
-effects: '**Anaphylactic Inhibitor**'
+effect_name: Anaphylactic Inhibitor
+effects: "- Applies Anaphylactic Inhibitor when Activated.  Lasts for 15.0 seconds.\n  - Makes caster immune to Fear effects\n  - The reuse time of Anaphylactic Inhibitor is 3 minutes"
 item_link: \aITEM -159480571 -252550017:Arachibutyrophobia\/a
 categories:
 - Anaphylactic Inhibitor (Equipment)

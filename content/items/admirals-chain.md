@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   critbonus: '4'
   multi: '5'
-effects: '**Combat Expertise**<br>**Barrier**'
+effect_name: Combat Expertise, Barrier
+effects: "- When Equipped:\n  - On a hit this spell may cast Combat Expertise on target of attack.  Lasts for 25.0 seconds.  Triggers about 2.0 times per minute.\n    - Interrupts target\n    - Increases Crit Chance of caster by 25.0.\n    - Increases your Combat Art Damage by 100.\n    - This effect will not stack with Greater Combat Expertise.\n    - Must be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 60.0 seconds.\n  - Must be engaged in pvp combat\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of Belamorte]] (Battlegrounds Merchant) in [[Cities]] for 30 [[Battlefield of Ganak Trophy|Battlefield of Ganak Trophies]], 25 [[Smuggler's Den Special Reserve Rum|Bottles of Smuggler's Den Special Reserve Rum]] and 96g
 item_link: \aITEM -1056055482 -1891949866:Admiral's Chain\/a
 categories:

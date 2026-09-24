@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   aspeed: '10.2'
   vselemental: '+511'
-effects: '**Furious Blows**'
+effect_name: Furious Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1859195456 -709537050:Ring of Rancid Blood\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '9.8'
   dps: '24.1'
   multi: '15.6'
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -188122932 -823875084:Wyvern Hide Strap of the Underdepths\/a
 categories:
 - Assassin Equipment

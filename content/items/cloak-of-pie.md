@@ -10,7 +10,8 @@ description: People with pie cannot help but make friends!
 stats:
   sta: '+5'
   wis: '+5'
-effects: '**Summon Pie**'
+effect_name: Summon Pie
+effects: "- Applies Summon Pie when Activated.\n  - Temporarily summons a fresh apple pie!\n  - The casting time of Summon Pie is 1.0 second and the reuse time of the spell is 1 minute"
 obtained_from: '*From [[EverQuest II Europe Amazon Bundle]] *Marketplace (500 Daybreak Cash) *'
 item_link: \aITEM 238319801 443083985:Cloak of Pie\/a
 image: images/CloakofPie_ExamineWindow.jpg

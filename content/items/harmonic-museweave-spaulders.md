@@ -17,7 +17,8 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Chain Armor
-effects: '**Empowered Essence**'
+effect_name: Empowered Essence
+effects: "- When Equipped:\n  - Increases base Spell and Combat Art damage by 8%."
 item_link: \aITEM -1873557390 -19635907:Harmonic Museweave Spaulders\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -7,7 +7,8 @@ slot: Head
 flags: lore no-trade no-value
 stats:
   dtype: Cloth Armor
-effects: '**Designer Vision**'
+effect_name: Designer Vision
+effects: "- Applies Designer Vision when Equipped.\n  - Increases speed of caster by 200.0%.\n  - Lets you see control objects which allow you to manipulate the world."
 item_link: \aITEM -2122465251 1779889551:Highly Awesome Goggles of the Designer\/a
 categories:
 - Assassin Equipment

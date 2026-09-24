@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   dps: '11'
   vselemental: '+360'
-effects: '**Tormenting Strike**'
+effect_name: Tormenting Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tormenting Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 1,166 - 1,426 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1678739890 -1134799553:Ring of Tormenting\/a
 categories:
 - AE Autoattack Chance (Equipment)

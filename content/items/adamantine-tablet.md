@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   dtype: Symbols
-effects: '**Rune of Warding**'
+effect_name: Rune of Warding
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Rune of Warding on caster.  Lasts for 10 minutes.  Triggers about 1.8 times per minute.\n    - Wards caster against 300 points of all damage\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 obtained_from: '*Crafted by [[Jeweler]] (level 66) from [[Jeweler Essentials Volume 66 (Normal)]] *Crafted by [[Jeweler]] (level 66) from [[Jeweler Essentials Volume 66 (no-trade)]]'
 item_link: \aITEM -656681083 -550023960:Adamantine Tablet\/a
 categories:

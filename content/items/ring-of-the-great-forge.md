@@ -17,7 +17,8 @@ stats:
   dps: '28.8'
   multi: '22.2'
   vselemental: +33,491
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 108 maximum"
 item_link: \aITEM 2043963589 -689169933:Ring of the Great Forge\/a
 categories:
 - Arcane Resistance (Equipment)

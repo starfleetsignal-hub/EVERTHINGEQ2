@@ -14,7 +14,8 @@ stats:
   potency: '10'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Magical Alacrity**'
+effect_name: Magical Alacrity
+effects: "- When Equipped:\n  - Increases Casting Speed of target by 5.0%."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM -644695566 -1548063490:Shoulder Pads of the Spiritual Protector\/a
 categories:

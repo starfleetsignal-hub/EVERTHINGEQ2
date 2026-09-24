@@ -13,7 +13,8 @@ stats:
   crit: '2.3'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 28.0."
 obtained_from: 'Collection reward: [[Chokidai Collars]]'
 item_link: \aITEM 2126593866 -1375555784:Baldric of the Di'Zok Warlord\/a
 categories:

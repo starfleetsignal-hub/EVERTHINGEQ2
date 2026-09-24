@@ -17,7 +17,8 @@ stats:
   abmod: +2,332
   aspeed: '29'
   dtype: Buckler
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 662056702 -1794819606:Converted Bar Stool\/a
 image: images/Converted_Bar_Stool.png
 categories:

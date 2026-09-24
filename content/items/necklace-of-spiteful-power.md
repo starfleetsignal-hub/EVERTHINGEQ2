@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   multi: '31.2'
-effects: '**Powersiphon**'
+effect_name: Powersiphon
+effects: "- When Equipped:\n  - Increases the wearer's Ability Modifier by 1,500 and Ability Casting Speed by 10% for every enemy who is engaged with the wearer, up to 6,000 Ability Modifier and 40% Ability Casting Speed  maximum"
 item_link: \aITEM -1011850609 -2003261142:Necklace of Spiteful Power\/a
 categories:
 - AE Autoattack Chance (Equipment)

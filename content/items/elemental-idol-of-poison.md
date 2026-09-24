@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Atheneal Poison**'
+effect_name: Atheneal Poison
+effects: "- Applies Atheneal Poison when Activated.  Lasts for 30.0 seconds.\n  - All offensive spells deal poison damage.\n  - Must be in Ward of Elements.\n  - The casting time of Atheneal Poison is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 514721301 -134717459:Elemental Idol of Poison\/a
 categories:
 - Ability Modifier (Equipment)

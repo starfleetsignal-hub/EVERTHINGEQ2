@@ -18,7 +18,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1575192160 690142704:Obliterator's Stave\/a
 categories:
 - Casting Speed (Equipment)

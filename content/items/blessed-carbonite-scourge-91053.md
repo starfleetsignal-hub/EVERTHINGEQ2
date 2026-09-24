@@ -17,7 +17,7 @@ stats:
   drating: '15.0'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: Sparkling Blessing
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to cast Sparkling Blessing on target of spell cast. Lasts for 12.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases the damage and healing amount of caster's spell by 15"
 obtained_from: Crafted by [[Weaponsmith]] (level 23) from [[Weaponsmith Essentials Volume 23]]
 categories:
 - Berserker Equipment

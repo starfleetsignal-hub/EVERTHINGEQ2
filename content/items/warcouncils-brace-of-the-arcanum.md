@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   vselemental: +1,782
-effects: '**Astral Aegis**'
+effect_name: Astral Aegis
+effects: "- When Equipped:\n  - Applies Astral Aegis: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Astral Aegis is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,310 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 231 points of shielding every 2 seconds\n  - If above level 90\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1252777388 -2104427051:Warcouncil's Brace of the Arcanum\/a
 categories:
 - Ability Modifier (Equipment)

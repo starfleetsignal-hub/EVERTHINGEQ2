@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Chain Armor
-effects: '**Insanity of War**'
+effect_name: Insanity of War
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Insanity of War on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 25.0.\n    - Increases damage done by combat arts by up to 150.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2129208186 1639153367:Chainmail of Ykeshan Fury\/a
 categories:
 - Ability Modifier (Equipment)

@@ -23,7 +23,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Block Chance**<br>**Eternal Damnation**<br>**Vitriolic Animus**'
+effect_name: Block Chance, Eternal Damnation, Vitriolic Animus
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%.\n- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Vitriolic Animus III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 3,544 - 3,917 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 495.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 689792621 865774453:Fist of the Unrivaled\/a
 categories:
 - Beastlord Equipment

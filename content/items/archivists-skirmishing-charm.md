@@ -19,7 +19,8 @@ stats:
   aspeed: '56.7'
   dps: '43.2'
   multi: '62.5'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 12.0.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Sold by [[Tishan's Lockbox (Myrist)]] in [[Myrist, the Great Library]] for 0c
 item_link: \aITEM 964115073 1802185246 0 0 0:Archivist's Skirmishing Charm\/a
 image: images/Archivist's_Skirmishing_Charm.png

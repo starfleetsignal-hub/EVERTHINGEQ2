@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: '+880'
-effects: '**Strength From Anger**'
+effect_name: Strength From Anger
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Strength From Anger on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' spells and combat arts by 10%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1284588697 -794986050:Ykulka's Gemmed Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

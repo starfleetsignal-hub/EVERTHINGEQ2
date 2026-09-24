@@ -16,7 +16,8 @@ stats:
   potency: '0.6'
   abmod: '+17'
   dtype: Leather Armor
-effects: '**Glyph of Stamina**'
+effect_name: Glyph of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Stamina on caster.  Lasts for 30.0 seconds.\n    - Increases STA of target by 24.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 860680323 1015647796:Gi of Insanity\/a
 categories:
 - Ability Modifier (Equipment)

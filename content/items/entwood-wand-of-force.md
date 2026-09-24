@@ -24,7 +24,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 2.6%.\n    - Inflicts 3,613 heat damage on target.\n    - Inflicts 3,613 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 110) from [[Woodworker Essentials Volume 110]]
 item_link: \aITEM 922362578 -1508593654:Entwood Wand of Force\/a
 categories:

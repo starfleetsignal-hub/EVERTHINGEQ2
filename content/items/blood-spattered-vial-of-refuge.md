@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   mitinc: '11.2'
-effects: '**Greater Vitality Shift**'
+effect_name: Greater Vitality Shift
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Greater Vitality Shift on target of attack.  Lasts for 1.0 second.  Triggers about 2.2 times per minute.\n    - Inflicts 4,049 - 4,476 piercing damage on target encounter.\n    - Heals group members (AE) for 4,432 - 4,899.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -978423456 1242970650:Blood-Spattered Vial of Refuge\/a
 categories:
 - Assassin Equipment

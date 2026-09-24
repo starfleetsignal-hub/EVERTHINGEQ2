@@ -17,7 +17,8 @@ stats:
   abmod: '+568'
   aspeed: '20.9'
   dps: '33.2'
-effects: '**Weapon Chains**'
+effect_name: Weapon Chains
+effects: "- When Equipped:\n  - Increases Melee Weapon Range of caster by 20.0%.\n  - Improves the range of combat arts by 20%.\n  - When a combat art is used this spell has a 50% chance to cast Weapon Chains on target of combat art.\n    - Inflicts 337 - 412 piercing damage on target.\n    - Inflicts 337 - 412 heat damage on target.\n    - Cannot be modified except by direct means\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -880385767 1469292092:Ranger's Drape of War\/a
 categories:

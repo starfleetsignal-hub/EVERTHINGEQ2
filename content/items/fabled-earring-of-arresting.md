@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Plundered Mistmoore Secrets**'
+effect_name: Plundered Mistmoore Secrets
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Plundered Mistmoore Secrets II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 249,018 poison damage on target.\n    - Heals group members (AE) for 32,846.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -960130286 332141506:Fabled Earring of Arresting\/a
 categories:
 - AE Autoattack Chance (Equipment)

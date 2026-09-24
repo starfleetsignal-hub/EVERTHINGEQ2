@@ -13,7 +13,8 @@ stats:
   sta: '+2'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Arcane aura of the Guide**'
+effect_name: Arcane aura of the Guide
+effects: '- Applies Arcane aura of the Guide when Equipped.'
 item_link: \aITEM 11974639 -1745809946:Guide's Robe of Festive Tidings\/a
 categories:
 - Arcane aura of the Guide (Equipment)

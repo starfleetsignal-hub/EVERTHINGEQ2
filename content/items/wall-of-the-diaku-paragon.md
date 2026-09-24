@@ -15,7 +15,8 @@ stats:
   critbonus: '5.5'
   potency: '9.6'
   dtype: Tower Shield
-effects: '**Insurmountable**'
+effect_name: Insurmountable
+effects: "- When Equipped:\n  - On a block this spell has a 10% chance to cast Insurmountable on target's victim.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,398 - 1,545 crushing damage on target.\n    - Increases Hate Gain of caster by 12.0.\n    - Increases Block Chance of caster by 20.0%.\n    - Enlarges caster by 20.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 967705600 -1708599163:Wall of the Diaku Paragon\/a
 categories:
 - Berserker Equipment

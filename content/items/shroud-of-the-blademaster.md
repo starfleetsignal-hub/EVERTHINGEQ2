@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+147'
-effects: '**Void Frenzy**'
+effect_name: Void Frenzy
+effects: "- When Equipped:\n  - Reduces the reuse timers of all combat arts by 5%."
 item_link: \aITEM -1934574146 -1460416677 0 0 0:Shroud of the Blademaster\/a
 categories:
 - AE Autoattack Chance (Equipment)

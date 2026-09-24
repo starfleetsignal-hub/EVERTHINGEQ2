@@ -21,7 +21,8 @@ stats:
   drating: '78.74'
   dtype: Two-Handed Slashing
   wtype: Great Spear
-effects: '**Anuk''s Undying Wrath**<br>**Flow of Fyr''Un**'
+effect_name: Anuk's Undying Wrath, Flow of Fyr'Un
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anuk's Undying Wrath on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 179 - 268 disease damage on target encounter.\n    - Inflicts 104 - 156 disease damage on target encounter every 1.5 seconds.\n    - Cannot be modified except by direct means\n- Applies Flow of Fyr'Un when Equipped.\n  - Increases Combat Power Regen of caster by 14.0."
 obtained_from: '[[Wrapping It All Up]]'
 item_link: \aITEM 817160008 2087012276:Dark Fury Halberd of Anuk\/a
 categories:

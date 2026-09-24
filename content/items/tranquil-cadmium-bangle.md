@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +15,750
-effects: '**Psychotic Bloodbath**'
+effect_name: Psychotic Bloodbath
+effects: "- When Equipped:\n  - On a death blow this spell will cast Pyschotic Bloodbath on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases attack speed and damage per second by 15 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 99) from [[Jeweler Essentials Volume 99]]
 item_link: \aITEM 2095657584 -301316324:Tranquil Cadmium Bangle\/a
 image: images/Tranquil_Cadmium_Bangle.png

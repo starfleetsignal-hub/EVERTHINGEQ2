@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Riftblade**'
+effect_name: Riftblade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Riftblade on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 171,500 crushing damage on targets in Area of Effect.\n    - Does not apply to the target it triggered on\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Chest of Glory]] *'
 item_link: \aITEM 587436733 -2113223539:Badge of the Stonehive\/a
 categories:

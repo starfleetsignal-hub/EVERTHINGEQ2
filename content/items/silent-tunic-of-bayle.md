@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   mitinc: '3.6'
   dtype: Leather Armor
-effects: '**Serpent''s Bite**'
+effect_name: Serpent's Bite
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Serpent's Sting on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 242 - 296 poison damage on target.\n    - Inflicts 211 - 258 poison damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 694727245 -1212112529:Silent Tunic of Bayle\/a
 categories:
 - Brawler Equipment

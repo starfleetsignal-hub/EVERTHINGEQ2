@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   abmod: '+32'
-effects: '**Blessings of Tranquility**'
+effect_name: Blessings of Tranquility
+effects: "- Applies Blessings of Tranquility when Equipped.\n  - Increases Power Regen of caster by 120.0.\n  - Increases Health Regen of caster by 150.0.\n  - This effect suspends during combat"
 obtained_from: '[[Avatar of Tranquility]]'
 item_link: \aITEM 627853494 -86932074:Stone of Tranquility\/a
 categories:

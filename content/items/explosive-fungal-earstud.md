@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '22.1'
   vselemental: +35,154
-effects: '**Cannibalized Health**'
+effect_name: Cannibalized Health
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cannibalized Health on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of caster by 50.0.\n    - Increase ability modifier by .6% of the caster's maximum hitpoints.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 497336907 200538188:Explosive Fungal Earstud\/a
 categories:
 - Arcane Resistance (Equipment)

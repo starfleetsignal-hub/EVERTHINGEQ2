@@ -16,7 +16,8 @@ stats:
   potency: '2.4'
   abmod: '+52'
   dtype: Plate Armor
-effects: '**Lesser Smash**'
+effect_name: Lesser Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Round Up]]'
 item_link: \aITEM -1377395180 -1065053340:Dracurion Militiaman's Gauntlets\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '9'
   abmod: +7,690
   dps: '29.2'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 33.3.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 668357120 -1332663859:Lachina's Lament\/a
 categories:
 - AE Autoattack Chance (Equipment)

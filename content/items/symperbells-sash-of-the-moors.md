@@ -16,7 +16,9 @@ stats:
   potency: '12.6'
   aspeed: '20.3'
   dps: '32.4'
-effects: '**Cogent**<br>**Etherflare**'
+effect_name: Cogent, Etherflare
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 60.0.\n  - Increases Potency of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Etherflare III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 10,167 - 11,237 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 2,301.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Etherflare III on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 10,167 - 11,237 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 2,301.\n    - Must not be engaged in pvp combat\n\
+  \    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1483586229 1677368751:Symperbell's Sash of the Moors\/a
 categories:
 - Attack Speed (Equipment)

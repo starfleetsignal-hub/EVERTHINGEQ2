@@ -18,7 +18,8 @@ stats:
   abmod: '+288'
   dps: '22.6'
   dtype: Chain Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 2,304.\n    - Heals group members (AE) for 773 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: 'Dropped by [[Statue of Rallos Zek (Epic)|Statue of Rallos Zek]] in [[Temple of Rallos Zek: Foundations of Stone]]'
 item_link: \aITEM -15623442 2068223462:Spritweaver's Resplendent Hauberk\/a
 categories:

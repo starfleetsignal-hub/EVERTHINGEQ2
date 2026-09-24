@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   vsarcane: '+564'
-effects: '**Flowing Consciousness**'
+effect_name: Flowing Consciousness
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 5 percent."
 item_link: \aITEM -985717041 -1649622363:Crystallized Blood Earstud\/a
 categories:
 - Arcane Resistance (Equipment)

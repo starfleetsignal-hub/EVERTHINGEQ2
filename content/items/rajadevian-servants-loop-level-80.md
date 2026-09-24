@@ -16,7 +16,8 @@ stats:
   dps: '12.4'
   multi: '7.7'
   vselemental: '+704'
-effects: '**Lesser Swift Recovery**'
+effect_name: Lesser Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 0.8 times per minute.\n    - Increases power of caster by 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 490857162 468788593:Rajadevian Servant's Loop\/a
 categories:
 - Arcane Resistance (Equipment)

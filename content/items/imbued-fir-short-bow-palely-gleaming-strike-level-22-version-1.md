@@ -17,7 +17,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Bow
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 101 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1653774779 -1798492312:Imbued Fir Short Bow\/a
 aliases:
 - Imbued Fir Short Bow (Palely Gleaming Strike) (Level 22)

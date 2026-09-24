@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Protector''s Spirit**<br>**Featherfall**'
+effect_name: Protector's Spirit, Featherfall
+effects: "- Applies Protector's Spirit when Activated.  Lasts for 12.0 seconds.\n  - Caster will Riposte 5.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n  - The casting time of Protector's Spirit is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Bayle's Cloak (crate)|Bayle's Cloak]]
 item_link: \aITEM -868129400 1692160351:Bayle's Cloak\/a
 categories:

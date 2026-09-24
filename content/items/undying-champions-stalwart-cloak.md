@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   flurry: '38.2'
   mitinc: '8.2'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 72614268 1515214173:Undying Champion's Stalwart Cloak\/a
 categories:
 - All for One (Equipment)

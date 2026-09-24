@@ -22,7 +22,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Dawnbreak**'
+effect_name: Dawnbreak
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dawnbreak on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs arcane damage by 2,301.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Dawnbreak on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 5,351 - 16,052 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2051627215 -877603449 0 0 0:Fabled Dawnbreaker\/a
 categories:
 - AE Autoattack Chance (Equipment)

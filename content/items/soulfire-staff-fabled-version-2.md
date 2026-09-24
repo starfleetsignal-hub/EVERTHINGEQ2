@@ -20,7 +20,8 @@ stats:
   drating: '75.95'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Absolve Vitae**'
+effect_name: Absolve Vitae
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Absolve Vitae on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 504 - 839 heat damage on target.\n    - Heals caster for 356.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1965560051 -479654444:Soulfire Staff\/a
 aliases:
 - Soulfire Staff (Version 2)

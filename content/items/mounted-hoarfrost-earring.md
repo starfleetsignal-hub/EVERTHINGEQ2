@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   vsarcane: '+511'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -589950381 -116209494:Mounted Hoarfrost Earring\/a
 categories:
 - Ability Modifier (Equipment)

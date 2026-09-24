@@ -16,7 +16,8 @@ stats:
   dps: '20.3'
   multi: '13'
   vsarcane: +1,457
-effects: '**Chilling Ire**'
+effect_name: Chilling Ire
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Guise of Scowls on target of attack.  Triggers about 2.8 times per minute.\n    - Decreases Threat to target by 4,750\n      - Must be flanking or behind\n    - Increases Threat to target by 5,415\n      - Must be in front of\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1231094747 -2005514640:Stud of the Stern\/a
 categories:
 - Arcane Resistance (Equipment)

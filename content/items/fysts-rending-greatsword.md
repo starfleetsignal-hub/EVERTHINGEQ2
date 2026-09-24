@@ -22,7 +22,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Reduces arcane damage done to target by 4%.\n    - Inflicts 2,555 magic damage on target instantly and every second.\n    - Inflicts an additional 45 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Emperor Fyst''s Regalia]]'
 item_link: \aITEM -1589604282 1560629117:Fyst's Rending Greatsword\/a
 image: images/Fyst's_Rending_Greatsword.png

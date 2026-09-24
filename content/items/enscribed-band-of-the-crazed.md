@@ -15,7 +15,8 @@ stats:
   abmod: '+238'
   multi: '20.5'
   vselemental: +8,415
-effects: '**Crazed Soul**'
+effect_name: Crazed Soul
+effects: "- When Equipped:\n  - Increases Max Power of caster by 1,584.4.\n  - This effect will not stack with any other similar effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2077075004 1090544513:Enscribed Band of the Crazed\/a
 categories:
 - Ability Modifier (Equipment)

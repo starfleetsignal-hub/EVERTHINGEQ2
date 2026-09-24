@@ -12,7 +12,8 @@ stats:
   sta: '+2'
   mit: '21'
   dtype: Cloth Armor
-effects: '**Gnomish Diving Goggles**'
+effect_name: Gnomish Diving Goggles
+effects: "- Applies Gnomish Diving Goggles when Equipped.\n  - Grants Fish Vision to caster"
 obtained_from: Made with Tinkering (skill 90) from [[Apprentice Blueprints 0.009]].
 item_link: \aITEM 1958723641 -141863536:Gnomish Diving Goggles\/a
 categories:

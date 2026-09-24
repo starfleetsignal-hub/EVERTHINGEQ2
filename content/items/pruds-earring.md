@@ -14,7 +14,8 @@ stats:
   potency: '10.7'
   abmod: '+373'
   vselemental: +8,019
-effects: '**Uncontrollable Emotions**'
+effect_name: Uncontrollable Emotions
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Vigorous Wail on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 735.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Vigorous Wail on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of caster by 735.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 656267954 1630887243:Prud's Earring\/a
 categories:
 - Ability Modifier (Equipment)

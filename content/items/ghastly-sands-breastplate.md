@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   dps: '21.1'
   dtype: Plate Armor
-effects: '**Misguided Crown**'
+effect_name: Misguided Crown
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Misguided Crown on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs all damage by 2,139.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -985774443 1034955029:Ghastly Sands Breastplate\/a
 categories:
 - Berserker Equipment

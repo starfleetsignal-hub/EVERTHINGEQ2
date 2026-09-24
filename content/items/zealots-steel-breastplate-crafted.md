@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dtype: Plate Armor
-effects: '**Steel Nerves**'
+effect_name: Steel Nerves
+effects: "- When Equipped:\n  - Reduces physical damage done to target by 2%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -1405632238 -940117267 0 0 0:Zealot's Steel Breastplate\/a
 categories:

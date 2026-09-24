@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   dps: '15.9'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -248128648 -348202458:Electrified Sash\/a
 categories:
 - Arcane Recovery (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   abmod: +4706,806
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor of caster by 40.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 883233855 1268656642:Wrathful Relic Cloak\/a
 categories:
 - Ability Modifier (Equipment)

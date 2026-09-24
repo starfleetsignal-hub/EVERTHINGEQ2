@@ -12,7 +12,8 @@ stats:
   crit: '0.3'
   potency: '0.6'
   abmod: '11'
-effects: '**Magical Alacrity**<br>**Haste**'
+effect_name: Magical Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 5 percent.\n- When Equipped:\n  - Increases Haste of caster by 15.0"
 obtained_from: 'Heritage quest reward: [[The Teachings of Yoru]]'
 item_link: \aITEM -151623419 -1949498844:Flowing Black Silk Sash\/a
 image: images/Flowing_Black_Silk_Sash.jpg

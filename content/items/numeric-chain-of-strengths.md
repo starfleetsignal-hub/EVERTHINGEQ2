@@ -15,7 +15,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Strength in Numbers**'
+effect_name: Strength in Numbers
+effects: "- When Equipped:\n  - Increases the wearer's Attack Speed and Damage Per Second by 75 if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM 993352667 84193438:Numeric Chain of Strengths\/a
 categories:
 - Assassin Equipment

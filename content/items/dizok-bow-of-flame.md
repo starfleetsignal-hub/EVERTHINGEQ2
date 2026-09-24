@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Flame Strike**'
+effect_name: Flame Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 238 - 397 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Bathezid Woodworking Volume II]]
 item_link: \aITEM 1528739461 -1486545148:Di'Zok Bow of Flame\/a
 categories:

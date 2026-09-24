@@ -15,7 +15,8 @@ stats:
   crit: '2'
   vselemental: '+984'
   vsarcane: '+984'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards or Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: -1032425286 -1942130334:Rejuvenating Sash
 categories:

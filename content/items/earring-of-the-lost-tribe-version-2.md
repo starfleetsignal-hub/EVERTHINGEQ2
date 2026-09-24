@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   vsarcane: '+280'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 45."
 item_link: \aITEM -1707696105 -903549117:Earring of the Lost Tribe\/a
 categories:
 - Ability Modifier (Equipment)

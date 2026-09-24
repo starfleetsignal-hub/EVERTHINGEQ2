@@ -19,7 +19,8 @@ stats:
   drating: '76.16'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Fetidthorn Infused**'
+effect_name: Fetidthorn Infused
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Fetidthorn Infusion on target of attack.\n    - Inflicts 19 - 23 magic damage on target.\n      - If target is ravasect\n    - Cannot be modified except by direct means"
 obtained_from: '[[Insectsurrection]]'
 item_link: \aITEM -559575860 1322128565:Dabner's Chitin Breacher\/a
 categories:

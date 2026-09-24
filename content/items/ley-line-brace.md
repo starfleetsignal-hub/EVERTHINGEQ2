@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   vsarcane: '+512'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Sold by [[Bad''Ushra]] in [[Moonfield Hamlet]]  for 40 [[Mark of Manaar]]s'
 item_link: \aITEM -1273579266 -541665619:Ley Line Brace\/a
 categories:

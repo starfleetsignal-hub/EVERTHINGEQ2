@@ -15,7 +15,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Devout Follower**'
+effect_name: Devout Follower
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 8.0.\n  - Increases Potency of caster by 8.0.\n  - Improves the base attribute bonuses of deity pets by 800%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1500172326 358298596:Marred Chain of the Devout\/a
 categories:
 - Assassin Equipment

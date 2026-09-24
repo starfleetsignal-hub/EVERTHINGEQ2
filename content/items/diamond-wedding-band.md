@@ -17,7 +17,8 @@ stats:
   abmod: '+262'
   aspeed: '12.2'
   vsarcane: '+564'
-effects: '**Deathly Lifetap**'
+effect_name: Deathly Lifetap
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Deathly Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,918 - 2,877 magic damage on target\n    - Heals caster for 1,277 - 1,916\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -865869687 -796070463:Diamond Wedding Band\/a
 categories:
 - Ability Modifier (Equipment)

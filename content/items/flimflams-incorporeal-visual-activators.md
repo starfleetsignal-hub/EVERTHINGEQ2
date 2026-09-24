@@ -8,7 +8,8 @@ flags: lore no-trade no-value
 description: Allows the wearer to see the tortured spirits of slain paladins in the Graveyard.
 stats:
   dtype: Cloth Armor
-effects: '**Incorporeal-Vison**'
+effect_name: Incorporeal-Vison
+effects: "- Applies Incorporeal-Vison when Equipped.\n  - Grants Incorporeal-Vision to caster\n  - Grants Ultravision to caster\n  - If any of the following are true:\n    - Must be in The City of Freeport.\n    - Must be in The Graveyard."
 used_in_quest: '[[Ghosts in the Machine]]'
 item_link: \aITEM 202706682 -1662445735:Flimflam's Incorporeal-Visual Activators\/a
 categories:

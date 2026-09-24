@@ -13,7 +13,8 @@ stats:
   crit: '4'
   critbonus: '1.4'
   potency: '6.4'
-effects: '**Elemental Retribution**'
+effect_name: Elemental Retribution
+effects: "- Applies Elemental Retribution when Activated.  Lasts for 3.0 seconds.\n  - Temporarily increases the damage of your hostile spells by 10%.\n  - Makes caster immune to Stifle effects\n  - Must have Discord's Empowered Fetish equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Elemental Retribution is 3 minutes"
 item_link: \aITEM 333478375 -1422248420:Discord's Empowered Fetish\/a
 categories:
 - Casting Speed (Equipment)

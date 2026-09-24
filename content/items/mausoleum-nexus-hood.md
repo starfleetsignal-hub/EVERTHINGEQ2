@@ -18,7 +18,8 @@ stats:
   resolve: '505'
   flurry: '72.1'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2094604247 1416727153:Mausoleum Nexus Hood\/a
 categories:
 - Census Credits

@@ -15,7 +15,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Dazzling Bolt Glyph**'
+effect_name: Dazzling Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1224427374 -2120039854:Executioners Axe of Fury\/a
 categories:
 - Berserker Equipment

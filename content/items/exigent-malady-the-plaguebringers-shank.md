@@ -19,7 +19,8 @@ stats:
   drating: '115.2'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Bertoxxulous'' Gift**'
+effect_name: Bertoxxulous' Gift
+effects: "- When Equipped:\n  - Increases crafted poison trigger chance by 5%.\n  - On a combat hit this spell may cast Bertoxxulous' Gift on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 391 - 478 poison damage on target.\n    - Inflicts 391 - 478 disease damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1938600262 -647782545:Exigent Malady, the Plaguebringer's Shank\/a
 categories:
 - Assassin Equipment

@@ -20,7 +20,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Soothing of the Ancients**'
+effect_name: Soothing of the Ancients
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Soothing on target of attack.  Triggers about 1.8 times per minute.\n    - Heals caster for 413.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 80970345 -685855559:Ancient Combine Great Flail\/a
 categories:
 - Ability Modifier (Equipment)

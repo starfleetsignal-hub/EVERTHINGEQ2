@@ -8,7 +8,7 @@ stats:
   charges: 1/1
   casting: 1.0 seconds
   recast: 2.0 seconds
-effects: Research Time Reduction
+effects: "- Applies Research Time Reduction when Activated <br>\n  - Reduces the time remaining on the spell being actively research by <b>X</b> hour.<br>\n  - Special: See Description <br>\n  - Cannot be modiefied except by direct means"
 obtained_from: '*From [[Ornate Crate of Endless Goodies]] *From [[Crate of Ethereal Goodies]]'
 categories:
 - Assassin Equipment

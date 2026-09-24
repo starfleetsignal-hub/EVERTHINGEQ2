@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality II on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 200 points of all damage\n    - Wards caster against 100 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 20) from [[Ancient Knowledge: Radiant Bangle of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 268984638 -1524430709:Radiant Bangle of Communion\/a
 categories:

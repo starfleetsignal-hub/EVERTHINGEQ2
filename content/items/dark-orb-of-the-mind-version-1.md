@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Symbols
-effects: '**Plasma Amplification**'
+effect_name: Plasma Amplification
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Plasma Amplification on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -879661432 -1038638506:Dark Orb of the Mind\/a
 categories:
 - Ability Modifier (Equipment)

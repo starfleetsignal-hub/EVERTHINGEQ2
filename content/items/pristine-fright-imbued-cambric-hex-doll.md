@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dps: '4.2'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 15.8.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 56) from [[Advanced Tailor Volume 56 (Heirloom)]] *Crafted by [[Tailor]] (level 56) from [[Advanced Tailor Volume 56 (Normal)]]'
 item_link: \aITEM 881338757 382389091 0 0 0:pristine fright imbued cambric hex doll\/a
 categories:

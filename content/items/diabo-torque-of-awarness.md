@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Awareness**'
+effect_name: Awareness
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 3.8 for every enemy who is engaged with the wearer, up to 15.2 maximum"
 item_link: \aITEM -455302507 -919169931:Diabo Torque of Awarness\/a
 categories:
 - Assassin Equipment

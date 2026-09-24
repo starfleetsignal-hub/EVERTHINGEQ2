@@ -12,7 +12,8 @@ stats:
   sta: '+13'
   potency: '0.2'
   vsarcane: '+84'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 14.3.\n    - Increases Disruption, Subjugation and Focus of caster by 8.2.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 46) from [[Advanced Jeweler Volume 46 (Normal)]] *Crafted by [[Jeweler]] (level 46) from [[Advanced Jeweler Volume 46 (no-trade)]] *From [[Caster Jewelry Pack (Level 42 Mastercrafted)]]'
 item_link: \aITEM 530461601 -2055086874:Imbued Ruby Ring of Intelligence\/a
 image: images/Imbued_Ruby_Ring_of_Intelligence.jpg

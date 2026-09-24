@@ -16,7 +16,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   vselemental: '+400'
-effects: '**Tormenting Strike**'
+effect_name: Tormenting Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tormenting Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 1,166 - 1,426 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -176394993 -1134799553:Ring of Tormenting\/a
 categories:
 - Ability Modifier (Equipment)

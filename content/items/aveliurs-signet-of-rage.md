@@ -16,7 +16,8 @@ stats:
   potency: 53,929.3
   resolve: '670'
   vselemental: +450,563
-effects: '**Wave of the Divine**'
+effect_name: Wave of the Divine
+effects: "- Applies Wave of the Divine III when Activated.\n  - You must be within a Rage of Cthurath Raid or Untold Dungeon zone and be in combat to benefit from these effects.\n  - Applies Warming Wave III instantly and every 30 seconds.  Lasts for 30.0 seconds.\n    - Increases Crit Bonus of group members (AE) by 641.7.\n    - Increases Crit Bonus Overcap of group members (AE) by 513.4.\n    - Heals group members (AE) for 7.6% of max health every 6 seconds.\n      - This effect cannot be critically applied.\n    - Increases power of group members (AE) by 15.0% every 6 seconds.\n      - This effect cannot be critically applied.\n    - The \"Warming Wave\" effect does not stack with any version of the \"Field Medic\" effect.\n    - The healing of this spell cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The casting time of Wave of the Divine III is 0.2 seconds and the reuse time of the spell is 30.0 seconds"
 item_link: \aITEM -1674128595 -767288915:Aveliur's Signet of Rage\/a
 categories:
 - Arcane Resistance (Equipment)

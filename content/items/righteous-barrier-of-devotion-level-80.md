@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.6'
   dtype: Tower Shield
-effects: '**Divine Aegis**'
+effect_name: Divine Aegis
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Stun effects\n  - On any combat or spell hit this spell may cast Divine Aegis on the group.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of group members (AE) vs elemental and noxious damage by 800.\n    - Increases Mitigation of group members (AE) vs arcane damage by 1,200.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 100301442 -1543400773:Righteous Barrier of Devotion\/a
 categories:
 - Berserker Equipment

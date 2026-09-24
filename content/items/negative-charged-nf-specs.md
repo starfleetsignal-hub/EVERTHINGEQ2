@@ -6,7 +6,7 @@ slot: Head
 flags: Lore No-Trade No-Value No-Zone
 stats:
   dtype: Cloth Armor
-effects: NC-Vision
+effects: "- Applies NC-Vision when Equipped.\n  - Grants Infravision to caster"
 obtained_from: Given at the start of the quest [[Fulgation's Tracks]]
 used_in_quest: '[[Fulgation''s Tracks]]'
 item_link: \aITEM 809760 -767249294:Negative-Charged NF-Specs\/a

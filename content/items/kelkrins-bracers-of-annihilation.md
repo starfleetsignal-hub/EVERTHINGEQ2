@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1052322059 -137090433:Kelkrin's Bracers of Annihilation\/a
 categories:
 - Ability Modifier (Equipment)

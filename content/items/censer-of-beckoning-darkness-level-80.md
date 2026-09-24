@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dtype: Symbols
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM -19638341 1530000450:Censer of Beckoning Darkness\/a
 categories:
 - Ability Modifier (Equipment)

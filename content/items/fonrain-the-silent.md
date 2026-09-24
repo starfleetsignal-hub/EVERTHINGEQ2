@@ -21,7 +21,8 @@ stats:
   drating: '235.61'
   dtype: Off Hand Piercing
   wtype: Sword
-effects: '**Ethereal Mastery**'
+effect_name: Ethereal Mastery
+effects: "- When Equipped:\n  - On any combat or spell hit may trigger Ethereal Mastery, causing the next combat art or hostile spell to trigger twice."
 item_link: \aITEM 115786080 -68776521:Fonrain, the Silent\/a
 categories:
 - Accuracy (Equipment)

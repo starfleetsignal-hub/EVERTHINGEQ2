@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   dtype: Chain Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 85 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -861193205 194859254:imbued ebon chainmail leggings\/a
 aliases:
 - Imbued ebon chainmail leggings (Pale Sanguine Imbued) (Level 40)

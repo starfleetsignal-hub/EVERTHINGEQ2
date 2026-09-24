@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Fire Breath**'
+effect_name: Fire Breath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fire Breath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 138 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1145433189 1900248094:Spear of the Fire Breath\/a
 categories:
 - Ability Modifier (Equipment)

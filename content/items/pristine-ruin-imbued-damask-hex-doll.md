@@ -13,7 +13,8 @@ stats:
   crit: '0.7'
   critbonus: '0.2'
   potency: '1.2'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 540.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 76) from [[Tailor Essentials Volume 76 (Normal)]] *Crafted by [[Tailor]] (level 76) from [[Tailor Essentials Volume 76 (no-trade)]]'
 item_link: \aITEM 79227922 -650532514:pristine ruin imbued damask hex doll\/a
 image: images/Pristine_ruin_imbued_damask_hex_doll.jpg

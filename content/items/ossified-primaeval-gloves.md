@@ -16,7 +16,8 @@ stats:
   multi: '38.3'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 2103440893 916070141 0 0 0:Ossified Primaeval Gloves\/a
 categories:
 - Block Chance (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Nexus Core**'
+effect_name: Nexus Core
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Nexus Core III on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 196,820.\n    - Increases Potency of target by 23.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM 288445307 -751762080:Hoop of Deadly Wrath\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   aspeed: '14.3'
   dps: '23.4'
   vselemental: +1,598
-effects: '**Major Serrated Subterfuge**'
+effect_name: Major Serrated Subterfuge
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Major Serrated Subterfuge on caster.  Lasts for 8.0 seconds.  Triggers about 2.2 times per minute.\n    - When damaged this spell will cast Major Serrated Subterfuge on target's attacker.\n      - Inflicts 3,478 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2017573315 -836401939 0 0 0:Shackle of Diakan Fortitude\/a
 categories:
 - Arcane Resistance (Equipment)

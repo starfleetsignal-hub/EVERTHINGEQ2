@@ -14,7 +14,8 @@ stats:
   crit: '7.4'
   critbonus: '6.5'
   potency: '10.8'
-effects: '**Aura of the Archmagus**'
+effect_name: Aura of the Archmagus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aura of the Archmagus on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Spell Reuse Speed of group members (AE) by 5.0%.\n    - Increases Casting Speed of group members (AE) by 10.0%.\n    - Increases Reuse Speed of group members (AE) by 10.0%.\n    - Increases Potency of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Channeling Totem Of The Archmagus]] *Made from [[Prime Skyshrine Golem Core]] *Made from [[Prime Wurm Tongue]] *Made from [[Prime Wyvern Stinger]]'
 item_link: \aITEM 207737968 1586909443:Channeling Totem of the Archmagus\/a
 categories:

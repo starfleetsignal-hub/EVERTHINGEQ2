@@ -17,7 +17,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Cloth Armor
-effects: '**Icy Gale**'
+effect_name: Icy Gale
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Icy Gale on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 432 cold damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Unadorned Steel Circlet]]'
 item_link: \aITEM 915220568 -998029661 0 0 0:Ethermage's Icy Circlet\/a
 categories:

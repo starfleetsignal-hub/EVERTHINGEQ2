@@ -14,7 +14,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   abmod: +1,250
-effects: '**Tranquil Traverse**'
+effect_name: Tranquil Traverse
+effects: "- When Equipped:\n  - Increases Air Speed of caster by 50.0%.\n    - If any of the following are true:\n      - Must be in Phantom Sea.\n      - Must be in Tranquil Sea.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Crumbling Isle]]'
 item_link: \aITEM -814746727 1551239674:Malvonicus' Haste\/a
 image: images/Malvonicus'_Haste.png

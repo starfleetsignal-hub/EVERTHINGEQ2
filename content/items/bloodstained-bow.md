@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Bloodquench**'
+effect_name: Bloodquench
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Bloodquench on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 1,037 - 1,555 mental damage on target\n    - Heals caster for 691 - 1,036\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1856653641 1765526059:Bloodstained Bow\/a
 categories:
 - Assassin Equipment

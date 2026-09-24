@@ -17,7 +17,9 @@ stats:
   potency: 53,929.3
   resolve: '670'
   vselemental: +450,563
-effects: '**Unshakable Dissension**<br>**Ocular Defiance**'
+effect_name: Unshakable Dissension, Ocular Defiance
+effects: "- Applies Unshakable Dissension III when Activated.  Lasts for 30.0 seconds.\n  - When activated, \"Unshakable Dissension\" applies an effect on the caster that reduces incoming physical and mana damage by 25%.\n  - When activated, \"Unshakable Dissension\" creates an area on the ground that makes any raid member within it gain the effect \"Unshakable Dissension\" which can trigger \"Dissension in the Ranks\" on any heal cast granting a short duration buff to incoming healing and potency.\n  - The \"Dissension in the Ranks\" effect's duration is 10 seconds and will be removed if the target player leaves the area or the area goes away.\n  - This effect can only be used in Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means\n  - The casting time of Unshakable Dissension III is 1.0 second and the reuse time of the spell is 2 minutes\n- When Equipped:\n  - Increases Potency of caster by 29,032.6.\n  - Increases Fervor of caster by 29.0.\n \
+  \ - Increases Fervor Overcap of caster by 29.0.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply and the effect does not stack with other \"Ocular Defiance\" or \"Void-bound Remnant\" effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 568361364 -34643071:Swarmer's Earring of Defiance\/a
 categories:
 - Arcane Resistance (Equipment)

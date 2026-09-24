@@ -18,7 +18,8 @@ stats:
   resolve: '24'
   aspeed: '61.2'
   dps: '46.6'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,759.8.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 105) from [[Advanced Jeweler Volume 105]]
 item_link: \aITEM -1325780262 31663210:Darkstone Charm of Celerity\/a
 categories:

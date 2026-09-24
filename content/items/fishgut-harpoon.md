@@ -21,7 +21,8 @@ stats:
   drating: '195.92'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Soul-Woven**'
+effect_name: Soul-Woven
+effects: "- When Equipped:\n  - Reduces physical damage done to caster by up to 198.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -149374547 -1577756846 0 0 0:Fishgut Harpoon\/a
 categories:
 - Beastlord Equipment

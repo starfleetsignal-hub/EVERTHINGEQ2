@@ -18,7 +18,8 @@ stats:
   resolve: '17'
   abmod: +26,917
   dps: '45.6'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 23.3.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 23.3.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1185176933 189412073:Incinerated Effigy of an Elemental\/a
 categories:
 - Ability Modifier (Equipment)

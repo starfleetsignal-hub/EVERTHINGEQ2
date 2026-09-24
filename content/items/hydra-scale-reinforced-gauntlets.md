@@ -16,7 +16,8 @@ stats:
   multi: '47.4'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Pentamerous Destruction**'
+effect_name: Pentamerous Destruction
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 1274468669 -621854367 0 0 0:Hydra Scale Reinforced Gauntlets\/a
 categories:
 - Berserker Equipment

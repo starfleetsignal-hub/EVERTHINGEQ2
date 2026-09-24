@@ -14,7 +14,8 @@ stats:
   critbonus: '30'
   potency: '30'
   abmod: +1,250
-effects: '**Psychic Link**'
+effect_name: Psychic Link
+effects: "- Applies Psychic Link when Activated.  Lasts for 18.0 seconds.\n  - Decreases Casting Speed of target by 10.0%.\n  - 25% of the damage the enchanter inflicts to any enemy will be applied as damage to the target\n  - Monitors the enchanter's power usage. When this effect wears off, 30% of the power used will be restored to the group\n  - Cannot be modified except by direct means\n  - The casting time of Psychic Link is 0.25 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM 511690004 721429419:Gem of the Mind\/a
 categories:

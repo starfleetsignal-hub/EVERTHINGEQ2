@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: A radiant golden rose embroidered upon a rich red cloth, surrounded by gold filigree and rubies. This elegant wrap shall be admired by all who behold it!
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 2030330279 -98520868:Radiant Rose Wrap\/a
 categories:

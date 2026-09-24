@@ -19,7 +19,8 @@ stats:
   resolve: '640'
   abmod: +4706,806
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 646.9.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1586094068 1617890875:Exo Mantle, Star Birthed Relic\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   crit: '2.3'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM -1019715293 245959882:Translucent Wart of the Valiant\/a
 image: images/Translucent_wart_of_the_valiant.jpg
 categories:

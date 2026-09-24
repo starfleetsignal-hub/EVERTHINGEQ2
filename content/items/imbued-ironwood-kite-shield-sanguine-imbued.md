@@ -15,7 +15,8 @@ stats:
   potency: '1'
   abmod: '+24'
   dtype: Kite Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 140 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1515638016 -1445503558:Imbued Ironwood Kite Shield\/a
 categories:
 - Ability Modifier (Equipment)

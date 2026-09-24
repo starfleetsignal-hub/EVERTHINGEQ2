@@ -18,7 +18,8 @@ stats:
   dps: '192.2'
   cbovercap: '+1455.3'
   dtype: Chain Armor
-effects: '**Bloodmetal Infusion**'
+effect_name: Bloodmetal Infusion
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 8.7.\n  - Increases Potency of caster by 2,228.9.\n  - Must be in a Visions of Vetrovia, Player Home, or Guildhall zone."
 item_link: \aITEM -600237999 -288733596:Vacrul Bloodmetal Chainmail Chestguard\/a
 categories:
 - Assassin Equipment

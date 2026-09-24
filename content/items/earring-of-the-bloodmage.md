@@ -18,7 +18,8 @@ stats:
   aspeed: '42'
   dps: '32'
   vselemental: +47,952
-effects: '**Ascended Thaumaturgist**'
+effect_name: Ascended Thaumaturgist
+effects: "- When Equipped:\n  - Reduces the cast time of all Thaumaturgist abilities up to level 10 by 10%.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Master Thaumaturgist]]'
 item_link: \aITEM -1487544444 802749857:Earring of the Bloodmage\/a
 image: images/Earring_of_the_Bloodmage.png

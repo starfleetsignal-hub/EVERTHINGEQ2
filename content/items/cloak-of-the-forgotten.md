@@ -7,7 +7,8 @@ tier: Legendary
 level: '60'
 slot: Cloak
 flags: lore no-trade
-effects: '**Envoy of Death**'
+effect_name: Envoy of Death
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Envoy of Death on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 358 poison damage on target.\n    - Increases Crit Chance of caster by 5.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Return of the Forgotten Goddess]]'
 item_link: \aITEM -1122285965 -548638010:Cloak of the Forgotten\/a
 categories:

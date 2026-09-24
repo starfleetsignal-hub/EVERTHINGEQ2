@@ -17,7 +17,8 @@ stats:
   abmod: '+568'
   aspeed: '20.9'
   dps: '33.2'
-effects: '**Venom Blades**'
+effect_name: Venom Blades
+effects: "- Applies Venom Blades when Activated.  Lasts for 30.0 seconds.\n  - When a combat art is used this spell has a 50% chance to cast Venom Blades on target of combat art.\n    - Inflicts 1,806 - 2,207 poison damage on target.\n    - Inflicts 1,806 - 2,207 piercing damage on target.\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The casting time of Venom Blades is 0.5 seconds and the reuse time of the spell is 2 minutes 30 seconds"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -112356769 -172107400:Assassin's Drape of War\/a
 categories:

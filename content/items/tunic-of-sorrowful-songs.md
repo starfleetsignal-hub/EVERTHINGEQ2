@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   dps: '8.1'
   dtype: Chain Armor
-effects: '**Ward of Security**'
+effect_name: Ward of Security
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Ward of Security on caster.  Lasts for 12.0 seconds.  Triggers about 1.0 times per minute.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: '[[Malkonis D''Morte (Freethinker Hideout)|Malkonis D''Morte]] in [[Freethinker Hideout]].'
 item_link: \aITEM 950584702 1750947774:Tunic of Sorrowful Songs\/a
 categories:

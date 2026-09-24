@@ -11,7 +11,8 @@ stats:
   str: '+13'
   sta: '+13'
   vsarcane: '+45'
-effects: '**Dark Deeds**'
+effect_name: Dark Deeds
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dark Deeds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 79 magic damage on target.\n    - Heals caster for 150.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[A Strange Black Rock]]'
 item_link: \aITEM -1675274121 -1762789712:Glowing Black Stone\/a
 image: images/Glowing_Black_Stone.jpg

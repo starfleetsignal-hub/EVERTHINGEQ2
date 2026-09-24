@@ -18,7 +18,8 @@ stats:
   resolve: '535'
   aspeed: '36.3'
   dtype: Cloth Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 53.0.\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1878585722 219058745:Monumental Gloves, Untarnished Relic of Old Velious\/a
 categories:
 - Attack Speed (Equipment)

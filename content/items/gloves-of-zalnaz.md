@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   dtype: Cloth Armor
-effects: '**Arcane Languid Pace**'
+effect_name: Arcane Languid Pace
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Languid Pace IV on target of spell.  Lasts for 24.0 seconds.  Triggers about 2.2 times per minute.\n    - Decreases Haste of target by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1769750579 1926447847:Gloves of Zal'Naz\/a
 categories:
 - AE Autoattack Chance (Equipment)

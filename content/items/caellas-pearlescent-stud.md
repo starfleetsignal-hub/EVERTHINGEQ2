@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**Noumenal Ascendancy**'
+effect_name: Noumenal Ascendancy
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Noumenal Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Noumenal Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 211186582 61633274:Caella's Pearlescent Stud\/a
 categories:
 - Ability Modifier (Equipment)

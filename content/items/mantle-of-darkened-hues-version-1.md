@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Chain Armor
-effects: '**Presence of Mind**'
+effect_name: Presence of Mind
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Presence of Mind on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of the casters next spell by 100%"
 item_link: \aITEM -26764117 264635454:Mantle of Darkened Hues\/a
 categories:
 - Ability Modifier (Equipment)

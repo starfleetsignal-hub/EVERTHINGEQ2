@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: '*Crafted by [[Sage]] (level 79) from [[Scribes'' Secrets of Miragul, Volume II]] *Made from [[Frosted rune]]'
 item_link: \aITEM -726625585 1785229341:Rune Frosted Blasting Wand\/a
 image: images/Rune_Frosted_Blasting_Wand.png

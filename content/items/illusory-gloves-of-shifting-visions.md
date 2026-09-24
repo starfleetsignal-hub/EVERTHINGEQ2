@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -269611035 1359789001 0 0 0:Illusory Gloves of Shifting Visions\/a
 categories:
 - Arcane Recovery (Equipment)

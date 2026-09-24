@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 479135948 1691689374:Hammer of the Eradicator\/a
 categories:
 - Census Credits

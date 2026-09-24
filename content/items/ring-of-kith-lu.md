@@ -17,7 +17,8 @@ stats:
   dps: '28.1'
   multi: '20.5'
   vselemental: +30,687
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 108 maximum"
 item_link: \aITEM -1933651220 588871186:Ring of Kith-Lu\/a
 categories:
 - Arcane Resistance (Equipment)

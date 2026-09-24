@@ -19,7 +19,8 @@ stats:
   drating: '81.93'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Vortex**'
+effect_name: Arcane Vortex
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Vortex VI on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 147 - 163 cold damage on targets in Area of Effect instantly and every 2 seconds.\n    - Increases power of group members (AE) by 37 - 40 instantly and every 2 seconds.\n    - Increases Potency of group members (AE) by 3.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 60) from [[Ancient Knowledge: Ominous Staff of Agony]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 506018443 -1652525858:Ominous Staff of Agony\/a
 categories:

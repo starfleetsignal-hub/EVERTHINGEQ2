@@ -16,7 +16,8 @@ stats:
   potency: '23.2'
   strike: '3.1'
   multi: '70.6'
-effects: '**Silver Conflagration**<br>**Harrowing Mien**'
+effect_name: Silver Conflagration, Harrowing Mien
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Silver Conflagration III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 10,950 - 12,102 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 2,224.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Haste of caster by 5.5.\n  - Increases DPS of caster by 15.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1400729360 1529898358:Torque of Accomplished Force\/a
 categories:
 - Berserker Equipment

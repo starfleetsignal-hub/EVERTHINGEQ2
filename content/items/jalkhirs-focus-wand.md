@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Improved Restoration**'
+effect_name: Improved Restoration
+effects: "- Applies Improved Restoration when Activated.  Lasts for 10.0 seconds.\n  - Increases healing received of the target group member by 60%\n  - Cannot be modified except by direct means\n  - The reuse time of Improved Restoration is 2 minutes"
 item_link: \aITEM -495340422 1566178706:Jalkhir's Focus Wand\/a
 categories:
 - Assassin Equipment

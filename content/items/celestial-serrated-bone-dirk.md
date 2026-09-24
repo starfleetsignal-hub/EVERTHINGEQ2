@@ -25,7 +25,8 @@ stats:
   drating: '448.95'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Engulfing Darkness**'
+effect_name: Engulfing Darkness
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Engulfing Darkness on target of spell.  Lasts for 16.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Applies Engulfing Shadows on termination.  Lasts for 16.0 seconds.\n      - Slows target by 30.0%.\n      - 5% chance to dispel when target receives hostile action\n      - 5% chance to dispel when target takes damage\n    - Inflicts 1,315 - 1,454 magic damage on target instantly and every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1470479619 128570516:Celestial Serrated Bone Dirk\/a
 image: images/Celestial_Serrated_Bone_Dirk.png
 events:

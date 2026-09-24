@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +26,832
-effects: '**Amplifying Weaponry**'
+effect_name: Amplifying Weaponry
+effects: "- When Equipped:\n  - Increases the wearer's Weapon Damage Bonus by 30%-76%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 600171527 -1994133967:Band of Shadowed Weaponry\/a
 categories:
 - AE Autoattack Chance (Equipment)

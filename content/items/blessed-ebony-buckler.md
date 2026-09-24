@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Buckler
-effects: '**Scintillating Blessing**'
+effect_name: Scintillating Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Scintillating Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 90\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 60) from [[Advanced Woodworker Volume 60 (no-value)]] *Crafted by [[Woodworker]] (level 60) from [[Advanced Woodworker Volume 60 (Uncommon)]]'
 item_link: \aITEM -1653827435 -987115171:Blessed Ebony Buckler\/a
 categories:

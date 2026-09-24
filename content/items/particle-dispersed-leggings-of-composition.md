@@ -15,7 +15,8 @@ stats:
   potency: '9'
   aspeed: '19.1'
   dtype: Chain Armor
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1322562022 -1244926618:Particle-Dispersed Leggings of Composition\/a
 categories:
 - Assassin Equipment

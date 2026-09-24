@@ -17,7 +17,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Leather Armor
-effects: '**Parsimonious Casting**'
+effect_name: Parsimonious Casting
+effects: "- When Equipped:\n  - Reduces power cost of damage and healing spells by 3%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 1379563559 9270082 0 0 0:Blasted Conduit Jerkin\/a
 categories:

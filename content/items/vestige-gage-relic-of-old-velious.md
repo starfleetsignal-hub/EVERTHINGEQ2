@@ -19,7 +19,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dtype: Plate Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 353.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 162603598 1298470322:Vestige Gage, Relic of Old Velious\/a
 categories:
 - Berserker Equipment

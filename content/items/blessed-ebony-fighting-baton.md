@@ -19,7 +19,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Scintillating Blessing**'
+effect_name: Scintillating Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Scintillating Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 90\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 67) from [[Advanced Woodworker Volume 67 (no-value)]] *Crafted by [[Woodworker]] (level 67) from [[Advanced Woodworker Volume 67 (Uncommon)]]'
 item_link: \aITEM 1241058625 -1324492739:Blessed Ebony Fighting Baton\/a
 categories:

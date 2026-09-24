@@ -15,7 +15,8 @@ stats:
   drating: '91.96'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Stun**<br>**Ykesha''s Strike**'
+effect_name: Stun, Ykesha's Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stun IV on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 93.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a hit this spell may cast Ykesha's Strike on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 439 magic damage on target.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 6.0 seconds and duration is reduced to 0.7 seconds.\n    - Resistibility increases against targets higher than level 93.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 352431195 727125433:Throneblade of the Ykesha\/a
 categories:
 - Berserker Equipment

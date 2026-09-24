@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Ancient Glyph of Flame**'
+effect_name: Ancient Glyph of Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Flame on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 91 - 151 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 968581212 1739234664:Rock-Forged Cestii\/a
 categories:
 - Ancient Glyph of Flame (Equipment)

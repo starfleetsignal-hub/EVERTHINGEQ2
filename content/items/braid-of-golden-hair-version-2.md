@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Lacerating Whip**'
+effect_name: Lacerating Whip
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Lacerating Whip on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 33 magic damage on target instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -449289341 372121152:Braid of Golden Hair\/a
 categories:
 - Assassin Equipment

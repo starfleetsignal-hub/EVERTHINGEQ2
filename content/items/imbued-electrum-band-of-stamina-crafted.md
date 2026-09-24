@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 2.7.\n    - Increases Combat Health Regen of caster by 12.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Scholar]] (level 18) from [[Scholar essentials volume 18 (Normal)]] *Crafted by [[Scholar]] (level 18) from [[Scholar Essentials Volume 18 (no-trade)]]'
 item_link: \aITEM -712106641 -1239521714:Imbued Electrum Band of Stamina\/a
 categories:

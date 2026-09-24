@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '150'
   dtype: Chain Armor
-effects: '**Glyph of Preservation**'
+effect_name: Glyph of Preservation
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Renewing Breeze on caster.\n    - Heals caster for 35.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1815940772 908628363:Stoneshapen Leggings\/a
 categories:
 - Assassin Equipment

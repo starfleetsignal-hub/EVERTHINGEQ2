@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Essencelich**'
+effect_name: Essencelich
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Essencelich III on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 686,400 disease damage on target.\n    - Increases Potency of caster by 21.0.\n    - Increases DPS of caster by 28.0.\n    - Increases Mitigation of caster vs noxious damage by 2,885.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -308675913 1347875696:Fingers of Sacred Essence\/a
 categories:
 - Arcane Resistance (Equipment)

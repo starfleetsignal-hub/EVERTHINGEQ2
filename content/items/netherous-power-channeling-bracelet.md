@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vselemental: '+324'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM 907051067 -586454329:Netherous Power Channeling Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

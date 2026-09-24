@@ -13,7 +13,8 @@ stats:
   crit: '1'
   critbonus: '0.3'
   potency: '1.3'
-effects: '**Arcane Feedback**'
+effect_name: Arcane Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Arcane Feedback on target's attacker.\n    - Inflicts 103 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 527383637 1107720503:Slayer's Torque of the Ice Dragon\/a
 categories:
 - Arcane Feedback (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Chain Armor
-effects: '**Hooluk in a Hat**'
+effect_name: Hooluk in a Hat
+effects: "- Applies Hooluk in a Hat when Activated.\n  - Summons a pet Hooluk\n  - The casting time of Hooluk in a Hat is 4.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '[[Blood of the Brood]]'
 item_link: \aITEM -1799310826 685929972:Customized Hoo'Loh's Inhumer Cowl\/a
 categories:

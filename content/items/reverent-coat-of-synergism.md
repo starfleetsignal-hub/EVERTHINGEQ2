@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 80) from [[Ancient Knowledge: Reverent Coat of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 1027362681 -1515632449:Reverent Coat of Synergism\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 1821311344 753234352:Reinforced Frontal Assault Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

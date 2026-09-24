@@ -15,7 +15,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Tower Shield
-effects: '**Barrier**'
+effect_name: Barrier
+effects: "- When Equipped:\n  - On a block this spell has a 20% chance to cast Barrier on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 750 points of all damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: <br>Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -975961101 -1258335292:Living Wall\/a
 categories:

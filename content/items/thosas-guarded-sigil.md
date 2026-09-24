@@ -18,7 +18,8 @@ stats:
   resolve: '180'
   abmod: +50,749
   mitinc: '27.4'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.8.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1206316151 352032442:Thosa's Guarded Sigil\/a
 categories:
 - Ability Modifier (Equipment)

@@ -19,7 +19,8 @@ stats:
   resolve: '505'
   aspeed: '34.4'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1920346565 -2067911613:Mausoleum Nexus Mantle\/a
 categories:
 - Attack Speed (Equipment)

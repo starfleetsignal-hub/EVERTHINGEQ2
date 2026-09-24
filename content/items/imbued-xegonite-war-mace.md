@@ -18,7 +18,8 @@ stats:
   drating: '73.3'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 3,009\n      - Must be flanking or behind\n    - Increases Threat to target by 3,674\n      - Must be in front of\n    - Inflicts 205 - 381 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 67) from [[Advanced Weaponsmith Volume 67 (no-value)]] *Crafted by [[Weaponsmith]] (level 67) from [[Advanced Weaponsmith Volume 67 (Uncommon)]]'
 item_link: \aITEM -1412441068 1461308807:Imbued Xegonite War Mace\/a
 categories:

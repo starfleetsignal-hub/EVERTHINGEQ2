@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   mitinc: '6.7'
-effects: '**Defiant Stand**'
+effect_name: Defiant Stand
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Defiant Stand on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Defiant Stand on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1562109606 1159399556:Treskar's Cloak of Disorder\/a
 categories:
 - Assassin Equipment

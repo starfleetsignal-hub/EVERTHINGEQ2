@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Symbols
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 205.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1327932457 -1501280960:Emblem of the Netherflame\/a
 categories:
 - Ability Modifier (Equipment)

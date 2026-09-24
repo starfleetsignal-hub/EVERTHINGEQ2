@@ -19,7 +19,8 @@ stats:
   abmod: +9,478
   aspeed: '236.8'
   dtype: Cloth Armor
-effects: '**Grasp of Nightmares**'
+effect_name: Grasp of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Warden of Nightmares."
 obtained_from: From [[Hoard of the Nightmare Warden]]
 item_link: \aITEM -1373062521 -43912961:Exemplar Nightweave Gloves\/a
 categories:

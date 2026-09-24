@@ -15,7 +15,8 @@ stats:
   critbonus: '30'
   potency: '30'
   abmod: +1,250
-effects: '**Warbarrier**'
+effect_name: Warbarrier
+effects: "- Applies Warbarrier when Activated.  Lasts for 8.0 seconds.\n  - Reduces all damage done to target by 100%.\n  - Applies to the caster's primary pet\n  - Cannot be modified except by direct means\n  - The reuse time of Warbarrier is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM 1769534850 402535052:Soul of Defiance\/a
 categories:

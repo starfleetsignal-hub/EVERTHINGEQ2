@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Tormenting Darkness**'
+effect_name: Tormenting Darkness
+effects: "- Applies Tormenting Darkness when Activated.  Lasts for 24.0 seconds.\n  - Applies Snare on termination.  Lasts for 24.0 seconds.\n    - Slows target by 54.4%.\n    - 5% chance to dispel when target receives hostile action\n    - 5% chance to dispel when target takes damage\n  - Inflicts 29 - 36 disease damage on target instantly and every 4 seconds.\n  - Slows target by 54.4%.\n  - The casting time of Tormenting Darkness is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 1584815841 605015680:Dark Crystalline Wand\/a
 categories:
 - Census Credits

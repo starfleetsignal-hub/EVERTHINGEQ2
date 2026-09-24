@@ -15,7 +15,8 @@ stats:
   drating: '18.76'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 719\n      - Must be flanking or behind\n    - Increases Threat to target by 1,259\n      - Must be in front of\n    - Inflicts 42 - 77 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 26) from [[Weaponsmith Essentials Volume 26 (Normal)]] *Crafted by [[Weaponsmith]] (level 26) from [[Weaponsmith Essentials Volume 26 (no-trade)]]'
 item_link: \aITEM -1294075459 85666491:Imbued Carbonite Tulwar\/a
 categories:

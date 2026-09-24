@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vsarcane: '+324'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 24.8.\n    - Increases DPS of caster by 29.2.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 78) from [[Advanced Jeweler Volume 78 (Heirloom)]] *Crafted by [[Jeweler]] (level 78) from [[Advanced Jeweler Volume 78 (Normal)]] *From [[Melee Jewelry Pack (Level 72 Mastercrafted)]]'
 item_link: \aITEM -1793979714 1506903132:Imbued Tynnonium Band of Strength\/a
 categories:

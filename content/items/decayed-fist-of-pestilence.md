@@ -17,7 +17,8 @@ stats:
   drating: '14.4'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mark of Pestilence**'
+effect_name: Mark of Pestilence
+effects: '- Applies Mark of Pestilence when Equipped.'
 obtained_from: Quest reward from [[Bring on the Blight]]
 item_link: \aITEM 827332156 -1179981662:Decayed Fist of Pestilence\/a
 image: images/Decayed_Fist_of_Pestilence.jpg

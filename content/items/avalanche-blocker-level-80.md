@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Tower Shield
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 131.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1242032730 -1221006087:Avalanche Blocker\/a
 categories:
 - Ability Modifier (Equipment)

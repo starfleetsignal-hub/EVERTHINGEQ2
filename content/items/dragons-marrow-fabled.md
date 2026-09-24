@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Fire of Intellect**'
+effect_name: Fire of Intellect
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 9% chance to cast Fire of Intellect on target of spell.  Lasts for 15.0 seconds.\n    - Inflicts 346 - 518 heat damage on target.\n    - Adds normalized spell damage based on 15% of the wizard's intelligence.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 80) from [[Knowledge of Assembling the Dragon's Marrow]] part of the [[Wizard Epic Weapon Timeline]]
 item_link: \aITEM -1311819234 1176896923:Dragon's Marrow\/a
 image: images/Dragon's_Marrow_(Fabled).jpg

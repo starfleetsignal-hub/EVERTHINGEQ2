@@ -15,7 +15,8 @@ stats:
   abmod: '+60'
   dps: '7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -390042705 -467256898:Hunter's Gloves\/a
 categories:
 - Ability Modifier (Equipment)

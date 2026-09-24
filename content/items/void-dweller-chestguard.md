@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   flurry: '1.6'
   dtype: Chain Armor
-effects: '**Distracting Aura**'
+effect_name: Distracting Aura
+effects: "- Applies Distracting Aura when Activated.  Lasts for 30.0 seconds.\n  - When damaged this spell will cast Distract on target's attacker.\n    - Decreases Threat to target encounter by 1,409 - 2,349\n    - Cannot be modified except by direct means\n  - The reuse time of Distracting Aura is 30 minutes"
 item_link: \aITEM 1943353065 936812058:Void-Dweller Chestguard\/a
 categories:
 - Census Credits

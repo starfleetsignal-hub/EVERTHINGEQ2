@@ -13,7 +13,8 @@ stats:
   crit: '1.9'
   critbonus: '0.6'
   potency: '2.7'
-effects: '**Might of the Discordian Lords**'
+effect_name: Might of the Discordian Lords
+effects: "- Applies Might of the Discordian Lords when Activated.  Lasts for 8.0 seconds.\n  - Applies Discordian Baffle.\n    - Forces target to clear their selected target.\n    - Cannot be modified except by direct means\n  - Prevents AOE (except when direct)\n  - Cannot be modified except by direct means\n  - The casting time of Might of the Discordian Lords is 0.2 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM -1769685058 1080605040:Sky Slayer's Bracelet\/a
 categories:
 - Assassin Equipment

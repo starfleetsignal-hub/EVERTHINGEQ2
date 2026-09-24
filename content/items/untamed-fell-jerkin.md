@@ -18,7 +18,7 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Leather Armor
-effects: Uncontrolled Healing
+effects: "- When Equipped:\n  - When target casts a healing spell this spell has a chance to cast Uncontrolled Healing on the group. This effect will trigger an average of 2.0 times per minute.\n    - Heals group members for 200\n    - This effect may trigger off each target of an AE heal.\n    - This spell can not be modified except by direct means\n  - On a successful spell attack this spell has a chance to cast Uncontrolled Healing on the group. This effect will trigger an average of 2.0 times per minute.\n    - Heals group members for 200\n    - This effect may trigger off each target of an AE heal.\n    - This spell can not be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -1105000541 -998498832:Untamed Fell Jerkin\/a
 aliases:

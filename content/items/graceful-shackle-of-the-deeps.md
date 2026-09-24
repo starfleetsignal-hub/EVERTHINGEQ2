@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**Grace**'
+effect_name: Grace
+effects: "- When Equipped:\n  - Applies Grace.  Lasts for 30.0 seconds.\n    - Increases Crit Bonus of raid and group members (AE) by 1.0, multiplied by increment stacks.\n    - Applies when the wearer avoids an attack and increments up to 5 times\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1612502929 1370335128:Graceful Shackle of the Deeps\/a
 categories:
 - Ability Modifier (Equipment)

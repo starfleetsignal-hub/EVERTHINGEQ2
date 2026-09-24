@@ -16,7 +16,8 @@ stats:
   potency: '10'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 10%."
 item_link: \aITEM -1050659354 365629200:Illusory Cowl\/a
 categories:
 - Ability Modifier (Equipment)

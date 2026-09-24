@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Starving Souleater**'
+effect_name: Starving Souleater
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus based on the number of increments of Starving Souleater. 0: -15 Crit Bonus. 1: -10 Crit Bonus. 2: -5 Crit Bonus. 3: 0 Crit Bonus. 4: 20 Crit Bonus. 5: 40 Crit Bonus\n  - On a death blow this spell will cast Starving Souleater on caster.  Lasts for 2 minutes.  This effect normalizes based off of a three second triggering event.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1817159940 411372085:Hoops of the Mad Priestess\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Lambent Blessing**'
+effect_name: Lambent Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Lambent Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 70\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 54) from [[Advanced Weaponsmith Volume 54 (Heirloom)]] *Crafted by [[Weaponsmith]] (level 54) from [[Advanced Weaponsmith Volume 54 (Normal)]]'
 item_link: \aITEM -1196329902 -218160872:Blessed Cobalt Sceptre\/a
 categories:

@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '140'
   dtype: Chain Armor
-effects: '**Stifling Feedback Glyph**'
+effect_name: Stifling Feedback Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Stifling Feedback on target's attacker.  Lasts for 2.5 seconds.\n    - Stifles target\n    - Epic targets gain an immunity to Stifle effects of 7.5 seconds and duration is reduced to 0.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1978805714 2111818199:Spellbound Black Iron Chain Helm\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Overloaded Augmentation**'
+effect_name: Overloaded Augmentation
+effects: "- When Equipped:\n  - When a combat art is used this spell will cast Overloaded Augmentation on the raid.  Lasts for 3.0 seconds.\n    - Increases Potency of raid and group members (AE) by 5.0, multiplied by increment stacks.\n    - This effect can stack from multiple casters. Increments up to 6 times. If this effect hits max increments, the raid will be stunned for a short duration.\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell will cast Overloaded Augmentation on the raid.  Lasts for 3.0 seconds.\n    - Increases Potency of raid and group members (AE) by 5.0, multiplied by increment stacks.\n    - This effect can stack from multiple casters. Increments up to 6 times. If this effect hits max increments, the raid will be stunned for a short duration.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -40076301 -2084835294:Keplin's Earstud\/a
 categories:
 - Arcane Resistance (Equipment)

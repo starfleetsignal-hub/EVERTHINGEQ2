@@ -17,7 +17,8 @@ stats:
   abmod: '+217'
   vselemental: '+511'
   mitinc: '7.6'
-effects: '**Endurance of Yael**'
+effect_name: Endurance of Yael
+effects: "- When Equipped:\n  - Increases Unconscious Health of caster by 2,300.0."
 item_link: \aITEM 642544783 1153168669:Brilliantly Adorned Kaborite Bangle\/a
 categories:
 - Ability Modifier (Equipment)

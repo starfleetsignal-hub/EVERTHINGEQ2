@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +15,652
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 281,600 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1818014242 -346234201:Bracelet of the Deep Torrent\/a
 categories:
 - Arcane Resistance (Equipment)

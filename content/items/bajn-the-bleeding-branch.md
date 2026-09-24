@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Pestilence**'
+effect_name: Pestilence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Pestilence on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Inflicts 16 - 20 disease damage on target.\n    - Inflicts 5 - 6 disease damage on target every 4.8 seconds.\n    - Decreases Mitigation of target vs noxious damage by 338 - 413.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1460383333 1780289161:Bajn, the Bleeding Branch\/a
 categories:
 - Ability Modifier (Equipment)

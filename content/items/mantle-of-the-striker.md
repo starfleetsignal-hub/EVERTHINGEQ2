@@ -17,7 +17,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Leather Armor
-effects: '**Auxiliary Protection**'
+effect_name: Auxiliary Protection
+effects: "- When Equipped:\n  - When healed this spell has a 5% chance to cast Auxiliary Protection on caster.  Lasts for 8.0 seconds.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1103220659 305108541:Mantle of the Striker\/a
 image: images/Mantleofthestriker.jpg
 categories:

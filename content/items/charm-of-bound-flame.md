@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +1,670
   aspeed: '18.8'
-effects: '**Primordial Cloak of Flames**'
+effect_name: Primordial Cloak of Flames
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 80.0.\n  - Periodically burns all nearby hostile enemies for 313,023 heat damage\n  - Suspends if the caster disables AE Auto Attack or turns off Auto Attack\n- Applies Primordial Cloak of Flames when Activated.  Lasts for 20.0 seconds.\n  - Inflicts 3,600,000 heat damage on targets in Area of Effect.\n  - Decreases Mitigation of targets in Area of Effect vs elemental damage by 3,210.\n  - Suspends the passive effect for 30 seconds\n  - This can be cast while using other abilities\n  - This item may not be used in a PvP zone.\n  - The reuse time of Primordial Cloak of Flames is 20.0 seconds"
 item_link: \aITEM -392703066 -806201202:Charm of Bound Flame\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '11.42'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 35 - 65 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1206753989 1138789834:imbued blackened iron war hammer\/a
 categories:
 - Berserker Equipment

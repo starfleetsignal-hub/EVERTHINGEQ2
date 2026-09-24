@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '233'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Vanguard Breastplate of Virtue]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 85063598 -1772036685:Vanguard Breastplate of Virtue\/a
 categories:

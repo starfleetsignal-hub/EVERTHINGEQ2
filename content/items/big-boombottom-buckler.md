@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   dps: '10.1'
   dtype: Buckler
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM -49777376 -2061797329:Big Boombottom Buckler\/a
 categories:
 - Berserker Equipment

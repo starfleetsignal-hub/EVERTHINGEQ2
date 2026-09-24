@@ -17,7 +17,8 @@ stats:
   abmod: '+568'
   multi: '21.6'
   vselemental: +2,079
-effects: '**Beguile**'
+effect_name: Beguile
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical spell hit this spell may cast Beguile I on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,749 - 5,250\n    - Inflicts 3,258 - 3,602 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Beguile I on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,749 - 5,250\n    - Inflicts 3,258 - 3,602 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1032834379 -890336987:Ancient Fingerbone Earstud\/a
 categories:
 - Ability Modifier (Equipment)

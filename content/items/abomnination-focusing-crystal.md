@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: '+835'
   dps: '28.8'
-effects: '**Practiced Aim**'
+effect_name: Practiced Aim
+effects: "- When Equipped:\n  - Applies Practiced Aim instantly and every 1.5 seconds.\n    - Increases Crit Bonus of group members (AE) by 42.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM 92038728 -1762090609:Abomnination Focusing Crystal\/a
 categories:
 - Ability Modifier (Equipment)

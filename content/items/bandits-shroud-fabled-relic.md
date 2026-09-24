@@ -17,7 +17,8 @@ stats:
   resolve: '7'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**Dispatch Mastery**<br>**All for One**'
+effect_name: Dispatch Mastery, All for One
+effects: "- When Equipped:\n  - Dispatch will deal increased damage and siphon all mitigations to the casters group.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 473841610 -495345979:Bandit's Shroud\/a
 categories:
 - All for One (Equipment)

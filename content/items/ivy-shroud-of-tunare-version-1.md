@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Healing Pulse**'
+effect_name: Healing Pulse
+effects: "- When Equipped:\n  - Increases healing spells by up to 30."
 obtained_from: '[[Faith (Quest)|Faith]]'
 item_link: \aITEM -1949253029 -774165387:Ivy-shroud of Tunare\/a
 image: images/Ivy-shroud_of_Tunare.jpg

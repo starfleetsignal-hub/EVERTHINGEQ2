@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   dps: '24.2'
   dtype: Plate Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 2,624.\n    - Heals group members (AE) for 875 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Cruor-Forged Hauberk]]
 item_link: \aITEM 1040704532 498500635:Archon's Sanctified Breastplate\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   aspeed: '6.8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 162316508 -1829910675:Swamp Stomper Chain Legs\/a
 categories:
 - Assassin Equipment

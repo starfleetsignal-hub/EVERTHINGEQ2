@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   abmod: '+152'
   dtype: Symbols
-effects: '**Coalescing Matter**'
+effect_name: Coalescing Matter
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Coalescing Matter on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Coalescing Matter increases the base damage of hostile spells cast by 12% while reducing casting times by 5%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1058355225 -1238617045:Orb of Coalescing Matter\/a
 categories:
 - Ability Modifier (Equipment)

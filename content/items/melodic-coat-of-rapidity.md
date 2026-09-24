@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 8.0.\n  - Increases Haste of caster by 8.0.\n  - Increases in-combat movement speed of caster by 8.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 80) from [[Ancient Knowledge: Melodic Coat of Rapidity]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 578877226 1753953026:Melodic Coat of Rapidity\/a
 categories:

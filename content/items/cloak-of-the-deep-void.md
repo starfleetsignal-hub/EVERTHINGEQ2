@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   aspeed: '36'
   flurry: '18.6'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 48 and 148 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 2129140607 1348179013:Cloak of the Deep Void\/a
 categories:
 - All for One (Equipment)

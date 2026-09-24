@@ -19,7 +19,8 @@ stats:
   resolve: '650'
   flurry: '31.5'
   dtype: Leather Armor
-effects: '**Invader''s Energy**'
+effect_name: Invader's Energy
+effects: "- When Equipped:\n  - Increases Fervor of caster by 17.4.\n  - Increases Fervor Overcap of caster by 23.2.\n  - Grants an additional 25 in-combat runspeed.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1555588050 1365635911:Tha'Bael's Leather Bracers of the Invader\/a
 categories:
 - Brawler Equipment

@@ -16,7 +16,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   dtype: Symbols
-effects: '**Precise Strikes**'
+effect_name: Precise Strikes
+effects: "- Applies Precise Strikes when Activated.  Lasts for 16.0 seconds.\n  - Increases DPS of caster by 20.0.\n  - The casting time of Precise Strikes is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1776061143 604904304:Lubesh Clan Symbol\/a
 categories:
 - Assassin Equipment

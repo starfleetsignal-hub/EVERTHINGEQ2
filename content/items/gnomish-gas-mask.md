@@ -8,7 +8,8 @@ level: '40'
 slot: Charm
 classes: '[[Alchemist]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 190) from [[Dabbler's Blueprints 0.008]].
 item_link: \aITEM 1100031675 1570989069:Gnomish Gas Mask\/a
 categories:

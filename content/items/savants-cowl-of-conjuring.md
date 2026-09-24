@@ -16,7 +16,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 2064556655 -1200885110:Savant's Cowl of Conjuring\/a
 categories:
 - Ability Modifier (Equipment)

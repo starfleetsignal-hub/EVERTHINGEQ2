@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 622650809 -1272074162 0 0 0:Tainted Shadowsteel Gloves\/a
 categories:
 - Assassin Equipment

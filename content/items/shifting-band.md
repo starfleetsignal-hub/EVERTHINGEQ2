@@ -14,7 +14,8 @@ stats:
   abmod: '+75'
   multi: '3'
   vsnoxious: '+600'
-effects: '**Averted Eyes**'
+effect_name: Averted Eyes
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM 488805452 957282400:Shifting Band\/a
 categories:
 - Ability Modifier (Equipment)

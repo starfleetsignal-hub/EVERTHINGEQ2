@@ -16,7 +16,8 @@ stats:
   aspeed: '26.7'
   multi: '58.3'
   dtype: Chain Armor
-effects: '**Hunter''s Desire**'
+effect_name: Hunter's Desire
+effects: "- Applies Hunter's Desire when Activated.  Lasts for 54.0 seconds.\n  - Summons a limited pet to aid the caster\n  - Must have Fabled Truesilver Tunic equipped.\n  - Cannot be modified except by direct means\n  - The casting time of Hunter's Desire is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 889614649 -915739365 0 0 0:Fabled Truesilver Tunic\/a
 categories:
 - Assassin Equipment

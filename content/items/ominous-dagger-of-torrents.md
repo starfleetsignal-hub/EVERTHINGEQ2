@@ -16,7 +16,8 @@ stats:
   drating: '9.73'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mindsieve**'
+effect_name: Mindsieve
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Mindsieve on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 23 - 25 mental damage on target.\n    - Increases power of caster by 6.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Mindsieve on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 23 - 25 mental damage on target.\n    - Increases power of caster by 6.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Ominous Dagger of Torrents]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 1314040348 -695246352:Ominous Dagger of Torrents\/a
 categories:

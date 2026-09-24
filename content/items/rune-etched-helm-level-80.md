@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   dps: '10.6'
   dtype: Chain Armor
-effects: '**Hateshield**<br>**Runic Recovery**'
+effect_name: Hateshield, Runic Recovery
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Hateshield on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Wards target against 1,500 points of all damage\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -559966266 2051900139:Rune Etched Helm\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   aspeed: '6'
   dps: '11'
   dtype: Chain Armor
-effects: '**Lycanthropy**'
+effect_name: Lycanthropy
+effects: "- Applies Lycanthropy when Activated.  Lasts for 15.0 seconds.\n  - Shapechanges caster into a werewolf\n  - Enlarges caster by 50.0%.\n  - When a combat art is used this spell will cast Lycanthropic Rage on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,080 disease damage on target\n    - Heals caster for 540\n    - Increases Threat to target by 875\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - The casting time of Lycanthropy is 0.5 seconds and the reuse time of the spell is 6 minutes"
 item_link: \aITEM 1013922953 1725328454:Cursed Coif\/a
 categories:
 - Assassin Equipment

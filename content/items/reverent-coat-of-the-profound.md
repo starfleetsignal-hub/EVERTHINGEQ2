@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 70) from [[Ancient Knowledge: Reverent Coat of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 1581779654 -1880989697:Reverent Coat of the Profound\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   aspeed: '10.2'
   dps: '17.3'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM -108228792 -1270611387:Bauble of Healing Deeps\/a
 categories:
 - Assassin Equipment

@@ -11,7 +11,8 @@ stats:
   str: '+13'
   sta: '+13'
   potency: '0.2'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 14.8.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 46) from [[Advanced Tailor Volume 46 (Normal)]] *Crafted by [[Tailor]] (level 46) from [[Advanced Tailor Volume 46 (no-trade)]]'
 item_link: \aITEM 821500157 1302710873 0 0 0:pristine fright imbued linen hex doll\/a
 categories:

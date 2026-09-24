@@ -14,7 +14,8 @@ stats:
   potency: '12.1'
   abmod: '+424'
   vselemental: +9,108
-effects: '**Shivering Enragement**'
+effect_name: Shivering Enragement
+effects: "- When Equipped:\n  - Increases Combat Mana Regen of caster by 10.0%.\n  - Increases Max Power of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 8.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1671020810 1109530325:Shiverback King Earring\/a
 categories:
 - Ability Modifier (Equipment)

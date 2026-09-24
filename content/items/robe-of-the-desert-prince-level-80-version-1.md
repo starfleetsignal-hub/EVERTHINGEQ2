@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 4 percent."
 item_link: \aITEM -655675538 1865289224:Robe of the Desert Prince\/a
 categories:
 - Ability Modifier (Equipment)

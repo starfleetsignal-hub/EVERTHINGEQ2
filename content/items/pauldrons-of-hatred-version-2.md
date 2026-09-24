@@ -16,7 +16,8 @@ stats:
   potency: '2.7'
   aspeed: '4.3'
   dtype: Plate Armor
-effects: '**Infuriating Shout**'
+effect_name: Infuriating Shout
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Infuriating Shout II on target of attack.  Triggers about 1.0 times per minute.\n    - Increases Threat to target by 831\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2033098738 -2103145733:Pauldrons of Hatred\/a
 categories:
 - Attack Speed (Equipment)

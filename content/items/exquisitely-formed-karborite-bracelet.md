@@ -19,7 +19,8 @@ stats:
   vsarcane: +4,650
   vsnoxious: +4,650
   mitinc: '4.2'
-effects: '**Deep Cogency**'
+effect_name: Deep Cogency
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Deep Cogency on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes caster immune to Root, Stun, Stifle, Fear, Daze and Mesmerize effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1478399271 -523609187:Exquisitely Formed Karborite Bracelet\/a
 categories:
 - Arcane Resistance (Equipment)

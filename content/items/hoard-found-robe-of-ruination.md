@@ -17,7 +17,8 @@ stats:
   potency: 50,991.6
   resolve: '525'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1138235334 -1065184762:Hoard Found Robe of Ruination\/a
 categories:
 - Census Credits

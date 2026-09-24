@@ -16,7 +16,8 @@ stats:
   potency: '5.8'
   abmod: '+173'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Speak to Imba]]'
 item_link: \aITEM 450392558 1888851524:Master's Phantasmic Silk Epaulets\/a
 categories:

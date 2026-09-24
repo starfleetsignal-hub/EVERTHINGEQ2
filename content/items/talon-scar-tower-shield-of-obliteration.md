@@ -17,7 +17,8 @@ stats:
   resolve: '535'
   cbovercap: '+1575.3'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1786602201 1077375662:Talon Scar Tower Shield of Obliteration\/a
 categories:
 - Berserker Equipment

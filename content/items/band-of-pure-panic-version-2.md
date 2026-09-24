@@ -16,7 +16,8 @@ stats:
   aspeed: '4'
   dps: '8.1'
   vsarcane: '+595'
-effects: '**Panic!**'
+effect_name: Panic!
+effects: "- When Equipped:\n  - 10% chance to apply Panic! on termination.  Lasts for 20.0 seconds.\n    - Makes caster weave when they run.\n    - Increases speed of caster by 40.0%.\n    - Increases in-combat movement speed of caster by 40.0%.\n    - Breaks stealth.\n  - Increases speed of caster by 10.0%.\n  - Even the bravest of souls may find themselves in a state of panic while under the influence of the ring."
 item_link: \aITEM -1452664348 223900924:Band of Pure Panic\/a
 categories:
 - Arcane Resistance (Equipment)

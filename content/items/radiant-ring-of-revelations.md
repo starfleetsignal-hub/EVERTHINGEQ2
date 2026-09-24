@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vsarcane: '+517'
-effects: '**Shared Vigor**'
+effect_name: Shared Vigor
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shared Vigor IX on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of target by 10.0.\n    - Increases Potency of caster by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 90) from [[Ancient Knowledge: Radiant Ring of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -1136327983 -1186830917:Radiant Ring of Revelations\/a
 categories:

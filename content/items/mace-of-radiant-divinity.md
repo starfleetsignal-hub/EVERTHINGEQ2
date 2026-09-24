@@ -18,7 +18,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Prophetic Shield**'
+effect_name: Prophetic Shield
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Prophetic Shield on the group.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,200 points of all damage\n    - Heals group members (AE) for 1,678 - 1,855 instantly and every 3 seconds.\n    - Increases Potency of group members (AE) by 8.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Mace Of Radiant Divinity]] *Made from [[A Bloody Prime Drakota Eye]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Great Dragon Scales]]'
 item_link: \aITEM -419054621 -600785686:Mace of Radiant Divinity\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Plate Armor
-effects: '**Insanity of War**'
+effect_name: Insanity of War
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Insanity of War on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 25.0.\n    - Increases damage done by combat arts by up to 150.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1266406433 1547036057:General's Iron Cuirass\/a
 categories:
 - Berserker Equipment

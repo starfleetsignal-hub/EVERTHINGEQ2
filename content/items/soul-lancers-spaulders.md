@@ -18,7 +18,8 @@ stats:
   vselemental: '+664'
   vsnoxious: +1,162
   dtype: Chain Armor
-effects: '**Empowered Essence**'
+effect_name: Empowered Essence
+effects: "- When Equipped:\n  - Increases base Spell and Combat Art damage by 8%."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]]
 item_link: \aITEM -1410348674 1937408466:Soul Lancer's Spaulders\/a
 categories:

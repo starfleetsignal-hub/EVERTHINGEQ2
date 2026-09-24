@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   aspeed: '7.2'
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 230.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -1894074195 128866357 0 0 0:Battlepriest's Band\/a
 categories:

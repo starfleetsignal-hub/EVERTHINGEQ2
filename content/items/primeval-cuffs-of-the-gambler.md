@@ -18,7 +18,8 @@ stats:
   abmod: '+270'
   dps: '21.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Ancient Armor of War]]
 item_link: \aITEM 1304539557 234465296:Primeval Cuffs of the Gambler\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Divine Whispers**'
+effect_name: Divine Whispers
+effects: "- Applies Divine Whispers when Activated.  Lasts for 10.0 seconds.\n  - Increases healing received of group members (AE) by 20%\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Whispers is 2 minutes"
 item_link: \aITEM -313275539 1537390379:Orb of Shadows\/a
 categories:
 - Ability Modifier (Equipment)

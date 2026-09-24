@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +26,832
-effects: '**Opitulation**'
+effect_name: Opitulation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Opitulation II on caster.  Lasts for 4.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Hate Gain of caster by 30.0.\n    - Increases Potency of caster by 18.0.\n    - Prevents AOE on the caster and their pet (except when direct)\n    - Cannot be modified except by direct means"
 item_link: \aITEM -682685780 -387113502:Akhevan Hoop of Opitulation\/a
 categories:
 - Arcane Resistance (Equipment)

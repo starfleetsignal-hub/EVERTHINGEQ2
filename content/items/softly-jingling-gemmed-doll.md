@@ -16,7 +16,8 @@ stats:
   flurry: '1.9'
   vsnoxious: '+560'
   dtype: Symbols
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM -2067122416 -1805891060:Softly Jingling Gemmed Doll\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '235.61'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Ethereal Protection**'
+effect_name: Ethereal Protection
+effects: "- When Equipped:\n  - On any combat or spell hit, Ethereal Protection may grant 35% damage reduction and 100 fervor to the caster."
 item_link: \aITEM -897951750 -524777392:Ma'ael, Heart of Stone\/a
 categories:
 - Berserker Equipment

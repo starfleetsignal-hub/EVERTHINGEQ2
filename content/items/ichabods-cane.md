@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Smashing Pumpkin**'
+effect_name: Smashing Pumpkin
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Smashing Pumpkin on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 324 crushing damage on target.\n    - Inflicts 756 heat damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1828006455 -1887400659:Ichabod's Cane\/a
 categories:
 - Ability Modifier (Equipment)

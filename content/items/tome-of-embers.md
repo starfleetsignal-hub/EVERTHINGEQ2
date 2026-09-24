@@ -17,7 +17,8 @@ stats:
   potency: 3,104.9
   resolve: '35'
   dps: '53.8'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 748912570 -1902026018:Tome of Embers\/a
 categories:
 - AE Autoattack Chance (Equipment)

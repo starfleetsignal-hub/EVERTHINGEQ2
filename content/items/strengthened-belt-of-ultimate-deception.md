@@ -16,7 +16,8 @@ stats:
   resolve: '7'
   flurry: '20.1'
   mitinc: '8.2'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception when Equipped.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 375.\n  - Increases Fervor of caster by 8.0."
 item_link: \aITEM -2119074805 2085606161:Strengthened Belt of Ultimate Deception\/a
 categories:
 - Assassin Equipment

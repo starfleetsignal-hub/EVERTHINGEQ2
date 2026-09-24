@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Wrath of the Broodwatcher**'
+effect_name: Wrath of the Broodwatcher
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 441 - 538 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -294619508 1545482074:Punishment of the Watcher\/a
 categories:
 - Berserker Equipment

@@ -16,7 +16,8 @@ stats:
   drating: '18.16'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple II on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 150 points of all damage\n    - Heals target for 64 - 71 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 20) from [[Ancient Knowledge: Dire Mace of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1232222089 -580782735:Dire Mace of Communion\/a
 categories:

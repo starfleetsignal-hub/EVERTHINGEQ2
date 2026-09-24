@@ -19,7 +19,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Vampiric Aura**'
+effect_name: Vampiric Aura
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Vampiric Touch on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 42 - 78 magic damage on target.\n    - Heals caster for 26 - 32.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1575589957 -999791855:Vampiric Axe of Balance\/a
 categories:
 - Assassin Equipment

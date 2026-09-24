@@ -13,7 +13,8 @@ stats:
   mit: '646'
   critbonus: '2.2'
   dtype: Plate Armor
-effects: '**Potency**<br>**Ancient Invigoration of War**'
+effect_name: Potency, Ancient Invigoration of War
+effects: "- When Equipped:\n  - Increases Potency of caster by 8.0.\n  - Must be engaged in pvp combat\n- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM 1574383184 1713090116:Discord's Warpriest Shoulderplates\/a
 categories:
 - Ancient Invigoration of War (Equipment)

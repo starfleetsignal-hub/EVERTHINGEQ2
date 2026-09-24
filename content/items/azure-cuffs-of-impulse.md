@@ -16,7 +16,8 @@ stats:
   abmod: '+353'
   multi: '30.6'
   dtype: Cloth Armor
-effects: '**Arcane Cunning**'
+effect_name: Arcane Cunning
+effects: "- When Equipped:\n  - Increases STA of caster by 50.0.\n  - Increases Subjugation and Disruption of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Cuffs of Impulse]] *Made from [[Azure Reactant]]'
 item_link: \aITEM -2049909158 -594420680:Azure Cuffs of Impulse\/a
 image: images/Azure_Cuffs_of_Impulse.png

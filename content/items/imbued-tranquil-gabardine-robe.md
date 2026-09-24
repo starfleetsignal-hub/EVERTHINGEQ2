@@ -16,7 +16,8 @@ stats:
   potency: '6'
   abmod: '+179'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 109 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 87) from [[Advanced Tailor Volume 87 (Heirloom)]] *Crafted by [[Tailor]] (level 87) from [[Advanced Tailor Volume 87 (Normal)]] *From [[Tranquil Cloth Armor Pack (Level 82 Mastercrafted) (Version 1)|Tranquil Cloth Armor Pack (Level 82 Mastercrafted)]] *From [[Tranquil Cloth Armor Pack (Level 82 Mastercrafted) (Version 2)|Tranquil Cloth Armor Pack (Level 82 Mastercrafted)]]'
 item_link: \aITEM 1971272082 1609603365:Imbued Tranquil Gabardine Robe\/a
 categories:

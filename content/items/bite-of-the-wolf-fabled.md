@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Sword
-effects: '**Nature''s Restoration**'
+effect_name: Nature's Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell has a 50% chance to cast Nature's Restoration on caster.\n    - Increases power of caster by 346 - 518.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Broken Barrier: Lessons of the Fallen]]'
 item_link: \aITEM 1992857838 -1699784453:Bite of the Wolf\/a
 image: images/Bite_of_the_Wolf.jpg

@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+11'
   vsarcane: '+48'
-effects: '**Indomitable**'
+effect_name: Indomitable
+effects: "- Applies Indomitable III when Activated.  Lasts for 12.0 seconds.\n  - Applies Peerless Defense on termination.  Lasts for 30.0 seconds.\n    - Wards caster against 300 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the caster's physical mitigation over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Indomitable III is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 30) from [[Ancient Knowledge: Fortified Hoop of Virtue]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 1641720361 -1040264244:Fortified Hoop of Virtue\/a
 categories:

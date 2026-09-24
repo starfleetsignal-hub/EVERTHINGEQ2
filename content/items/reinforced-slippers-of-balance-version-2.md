@@ -17,7 +17,8 @@ stats:
   dps: '8.9'
   multi: '5.4'
   dtype: Leather Armor
-effects: '**Stone Stance**'
+effect_name: Stone Stance
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Stone Stance on caster.  Lasts for 12.0 seconds.\n    - Will absorb physical damage. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities.\n    - This effect can only trigger once every 20.0 seconds."
 item_link: \aITEM -615555176 2115375301:Reinforced Slippers of Balance\/a
 categories:
 - Assassin Equipment

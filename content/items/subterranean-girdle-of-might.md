@@ -13,7 +13,8 @@ stats:
   crit: '0.5'
   potency: '0.8'
   abmod: '+19'
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Impact on target of attack.  Lasts for 0.3 seconds.  Triggers about 1.8 times per minute.\n    - Interrupts target\n    - Throws target back\n    - Inflicts 156 - 260 crushing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 384124035 -999240932:Subterranean Girdle of Might\/a
 categories:
 - Ability Modifier (Equipment)

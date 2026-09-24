@@ -16,7 +16,8 @@ stats:
   potency: '22'
   strike: '3.5'
   multi: '65.5'
-effects: '**Ethereal Temporality**'
+effect_name: Ethereal Temporality
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 5.7%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 173616086 -1480806209:Torque of Bountiful Achievement\/a
 categories:
 - Berserker Equipment

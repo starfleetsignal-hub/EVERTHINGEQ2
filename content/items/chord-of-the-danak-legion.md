@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   multi: '6.4'
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 349.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Eviss Ryiss]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 42769174 2072012139:Chord of the Danak Legion\/a
 categories:

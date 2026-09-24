@@ -12,7 +12,8 @@ stats:
   sta: '+742'
   agi: '+327'
   crit: '107.6'
-effects: '**Shared Dragonsbane**<br>**Dragonsbane**'
+effect_name: Shared Dragonsbane, Dragonsbane
+effects: "- Applies Shared Dragonsbane when Activated.\n  - Protects the group from powerful Draconic abilities within Temple of Veeshan!\n- When Equipped:\n  - Protects the wearer from powerful Draconic abilities within Temple of Veeshan! This protection does not take effect for a few seconds after a resurrection."
 item_link: \aITEM -758452738 -929536734:Buckled Dreadscale Wrap\/a
 aliases:
 - Buckled Dreadscale Wrap (1 Gem)

@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '70'
   dtype: Cloth Armor
-effects: '**Tranquil Breeze Glyph**'
+effect_name: Tranquil Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 10.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 697198808 -959990737:Cap of the Deep\/a
 categories:
 - Assassin Equipment

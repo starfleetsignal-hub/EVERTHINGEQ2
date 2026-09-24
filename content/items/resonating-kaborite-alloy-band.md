@@ -17,7 +17,8 @@ stats:
   multi: '12'
   flurry: '5.1'
   vselemental: +1,395
-effects: '**Terrestrial Strike**'
+effect_name: Terrestrial Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Terrestrial Strike on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 794 poison damage on target.\n    - Inflicts 794 heat damage on target.\n    - Increases Crit Bonus of caster by 4.0.\n    - Increases Potency of caster by 4.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 880451105 1499842619:Resonating Kaborite Alloy Band\/a
 categories:
 - Arcane Resistance (Equipment)

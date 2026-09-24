@@ -15,7 +15,8 @@ stats:
   drating: '18.76'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 42 - 77 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -846450089 -374686006:Imbued Carbonite Double Headed Axe\/a
 categories:
 - Berserker Equipment

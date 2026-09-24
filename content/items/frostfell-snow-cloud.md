@@ -6,7 +6,7 @@ tier: Fabled
 level: '1'
 slot: Charm
 flags: Heirloom
-effects: Summon Frostfell Snow Cloud
+effects: "- Applies Frostfell Snow Cloud when Activated.\n  - Summons a mount to ride\n  - Increases Focus, Disruption, Ministration, Subjugation, Ordination, Slashing, Piercing, Crushing, Aggression and Ranged of caster by 5.0\n  - Increases your ground speed by 130%"
 obtained_from: Purchased from [[Gerbi Frostfoot (Frostfell)]] for 150 [[Frozen Token of E'ci]]
 categories:
 - Charm (Inventory Slot)

@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Firesong**'
+effect_name: Firesong
+effects: "- When Equipped:\n  - Increases Crit Chance of caster by 2.0.\n  - When a combat art is used this spell will cast Firesong on target of combat art.\n    - Inflicts 46 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1852132462 -2117382782:The Maestro's Flame\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '13'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Fury Fist**'
+effect_name: Fury Fist
+effects: "- Applies Fury Fist when Activated.  Lasts for 1 minute 15 seconds.\n  - Shapechanges caster into a spirit guardian\n  - Increases Max Health of caster by 3.0%.\n  - Increases Block Chance of caster by 25.0%.\n  - Increases Crit Bonus of caster by 30.0.\n  - When a combat art is used this spell will cast Fury Fist on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 11,662 crushing damage on target\n    - Heals caster for 2,916\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Fury Fist is 5 minutes"
 item_link: \aITEM -947603352 1890874831 0 0 0:Master Wu's Divine Helm of Spirit\/a
 categories:
 - Block Chance (Equipment)

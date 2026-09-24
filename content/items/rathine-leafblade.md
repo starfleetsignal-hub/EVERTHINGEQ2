@@ -17,7 +17,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -2122796953 -1628305937:Rathine Leafblade\/a
 categories:
 - Assassin Equipment

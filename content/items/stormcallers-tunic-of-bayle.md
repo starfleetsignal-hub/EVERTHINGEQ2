@@ -18,7 +18,8 @@ stats:
   potency: '3.6'
   multi: '5.8'
   dtype: Leather Armor
-effects: '**Ancestral Barrier**'
+effect_name: Ancestral Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancestral Barrier on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 500 points of all damage\n    - Replenishes 100 points of absorption every 5 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Final Qeynos Assistance]]'
 item_link: \aITEM -399518529 -1950258517:Stormcaller's Tunic of Bayle\/a
 categories:

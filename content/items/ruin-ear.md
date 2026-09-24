@@ -14,7 +14,8 @@ stats:
   potency: '11.1'
   abmod: '+390'
   vselemental: +8,415
-effects: '**Ruin**'
+effect_name: Ruin
+effects: "- When Equipped:\n  - Increases DPS of caster by 6.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -765873591 1251159581 0 0 0:Ruin\/a
 categories:
 - Ability Modifier (Equipment)

@@ -8,7 +8,8 @@ slot: Head
 flags: lore-equip attunable heirloom no-value
 stats:
   dtype: Cloth Armor
-effects: '**Thermal Thought Bubble**'
+effect_name: Thermal Thought Bubble
+effects: "- Applies Thermal Thought Bubble when Activated.  Lasts for 1 hour.\n  - Grants Fish Vision to caster\n  - Allows caster to breathe under water\n  - The casting time of Thermal Thought Bubble is 1.0 second"
 obtained_from: From [[Tinkered Thought Cap (crate)|Tinkered Thought Cap]]
 item_link: \aITEM -621977401 -525558175:Tinkered Thought Cap\/a
 categories:

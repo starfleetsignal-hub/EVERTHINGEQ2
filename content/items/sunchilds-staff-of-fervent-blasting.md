@@ -17,7 +17,9 @@ stats:
   drating: '37.63'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Ethereal Needles**'
+effect_name: Ethereal Needles
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ethereal Needles on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 72 - 120 magic damage on target.\n    - Inflicts 72 - 120 piercing damage on target.\n    - Inflicts 72 - 120 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a ranged hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 72 - 120 magic damage on target.\n    - Inflicts 72 - 120 piercing damage on target.\n    - Inflicts 72 - 120 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 72 - 120 magic damage on target.\n    - Inflicts 72 - 120 piercing damage on target.\n    - Inflicts 72 - 120 divine damage on\
+  \ target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1666052641 -938593640:Sunchild's Staff of Fervent Blasting\/a
 categories:
 - Beastlord Equipment

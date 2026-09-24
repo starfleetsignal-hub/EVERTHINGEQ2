@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   vselemental: '+473'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: Sold by [[Supply Master Essa'Mae]] (Faction Merchant) in [[The Hole]]<br>Requires 30,000 faction with Defenders of the Seal
 item_link: \aITEM 1897878062 -63019992:Bangle of Priestly Mending\/a
 categories:

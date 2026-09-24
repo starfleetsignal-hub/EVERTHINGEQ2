@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   aspeed: '62.1'
   dtype: Tower Shield
-effects: '**Ethereal Strike**'
+effect_name: Ethereal Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ethereal Strike IV on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 9,650 poison damage on target.\n    - Increases Crit Bonus of caster by 22.0.\n    - Increases Potency of caster by 22.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1460577162 2014235251:The Wall's Edge\/a
 categories:
 - AE Autoattack Chance (Equipment)

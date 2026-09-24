@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Cloth Armor
-effects: '**Velocity of the Masters**'
+effect_name: Velocity of the Masters
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Velocity of the Masters on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -865899880 1541166074:Robe of the Masters\/a
 categories:
 - Ability Modifier (Equipment)

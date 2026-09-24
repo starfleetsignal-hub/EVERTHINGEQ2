@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Rat
+effects: "- Applies Spirit of the Rat when Activated. Lasts for 30 minutes.\n  - Shapechanges caster into a rat\n  - Increases Out-of-Combat Power Regeneration Per Tick of caster by 24\n  - This effect suspends during combat\n  - Only affects targets level 10 and above"
 obtained_from: Crafted by [[Craftsman]] (level 18) from [[Craftsman essentials volume 18]]
 item_link: \aITEM 1834576233 -200248140:Spirit Totem of the Rat\/a
 categories:

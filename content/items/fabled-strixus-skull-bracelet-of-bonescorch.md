@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Bonescorch**'
+effect_name: Bonescorch
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Bonescorch II on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 32,105 heat damage on targets in Area of Effect instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -46734410 -1993148010:Fabled Strixus' Skull Bracelet of Bonescorch\/a
 categories:
 - Arcane Resistance (Equipment)

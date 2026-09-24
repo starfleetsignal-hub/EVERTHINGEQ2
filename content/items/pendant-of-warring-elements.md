@@ -16,7 +16,8 @@ stats:
   dps: '56'
   multi: '19.6'
   flurry: '0.6'
-effects: '**Blade Tempest**'
+effect_name: Blade Tempest
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 7.5.\n  - Increases Haste of caster by 50.0.\n  - Increases Ranged, Crushing, Slashing and Piercing of caster by 80.0.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Pendant of Warring Elements]] *Made from [[Ethereal Globe of the Dead]] *Made from [[Globe of the Blazing Sun]] *Made from [[Links of Bloodshed]]'
 item_link: \aITEM -1220456412 1412965168:Pendant of Warring Elements\/a
 categories:

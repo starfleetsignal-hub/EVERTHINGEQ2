@@ -24,7 +24,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Illuminated Bonds**'
+effect_name: Illuminated Bonds
+effects: "- When Equipped:\n  - Converts the damage component of Scorched Earth into an encounter effect and adds a debuff that will increase all magic damage done to the target.\n  - Increases the duration of implosion by 2 seconds and number of damage ticks by 2.\n  - Telluric Rending will decrease Combat Mitigation.\n  - Adds a damage over time component to Virulent Outbreak.\n  - On any combat or spell hit this spell may cast Illuminated Bonds on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 1,806 magic damage on target instantly and every second.\n    - Inflicts an additional 45 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Warriors Call: Volume III]]'
 item_link: \aITEM -216119109 1537829125:Protector's Satchel of Time and Space\/a
 categories:

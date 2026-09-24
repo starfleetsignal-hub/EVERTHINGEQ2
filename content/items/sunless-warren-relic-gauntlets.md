@@ -19,7 +19,8 @@ stats:
   resolve: '660'
   dps: '81.6'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 1,078.1.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1614768072 -178784026:Sunless Warren Relic Gauntlets\/a
 categories:
 - Assassin Equipment

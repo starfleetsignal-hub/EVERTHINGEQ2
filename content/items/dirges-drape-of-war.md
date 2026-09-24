@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   dps: '33.2'
   multi: '21.6'
-effects: '**Death Cheater''s Song**'
+effect_name: Death Cheater's Song
+effects: "- Applies Death Cheater's Song when Activated.\n  - Resurrects all deceased group members within a 25 meter radius of the caster with 100% health and power. Can only be used if the character's effective level is under 96.\n  - The casting time of Death Cheater's Song is 0.5 seconds and the reuse time of the spell is 7 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -654670565 1014038230:Dirge's Drape of War\/a
 categories:

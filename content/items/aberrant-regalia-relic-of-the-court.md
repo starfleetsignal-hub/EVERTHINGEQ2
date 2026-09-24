@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 32.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 780927494 -1930762216:Aberrant Regalia, Relic of the Court\/a
 categories:
 - Arcane Resistance (Equipment)

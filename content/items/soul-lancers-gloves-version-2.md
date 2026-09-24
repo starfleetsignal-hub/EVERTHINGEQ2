@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 item_link: \aITEM 1659629070 1058441269 0 0 0:Soul Lancer's Gloves\/a
 categories:
 - Assassin Equipment

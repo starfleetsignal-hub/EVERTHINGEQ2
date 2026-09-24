@@ -17,7 +17,8 @@ stats:
   drating: '42.17'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 111 - 166 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -162074036 1071137171:shaped imbued indium scepter\/a
 categories:
 - Berserker Equipment

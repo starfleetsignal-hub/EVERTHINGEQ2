@@ -16,7 +16,8 @@ stats:
   critbonus: '1'
   potency: '4.9'
   dtype: Leather Armor
-effects: '**Darkened Velocity**'
+effect_name: Darkened Velocity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Darkened Velocity on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 3.0.\n    - Increases DPS of caster by 3.0.\n    - Increases Multi Attack of caster by 3.0.\n    - Adds 75 combat art damage.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 507407282 -865436038:Dark Mail Gauntlets\/a
 categories:
 - Assassin Equipment

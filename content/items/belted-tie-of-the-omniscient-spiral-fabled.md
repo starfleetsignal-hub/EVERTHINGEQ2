@@ -17,7 +17,8 @@ stats:
   potency: 46,364
   resolve: '555'
   abmod: +4062,422
-effects: '**Macabre Leap**<br>**Dream of the Spiral**'
+effect_name: Macabre Leap, Dream of the Spiral
+effects: "- When Equipped:\n  - Contributes 110 points towards Macabre Motive.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Fervor of caster by 66.8.\n  - Increases Melee Multiplier of caster by 14.31.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Spiral of Vul]]'
 item_link: \aITEM -1437704721 -1787303385:Belted Tie of the Omniscient Spiral\/a
 categories:

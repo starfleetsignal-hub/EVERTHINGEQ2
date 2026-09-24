@@ -15,7 +15,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Stunning Strike Glyph**'
+effect_name: Stunning Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1337730845 1802638548:Sabre of the Blackguard\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 195521548 394074338:Hammer of the Devastator\/a
 categories:
 - Ability Modifier (Equipment)

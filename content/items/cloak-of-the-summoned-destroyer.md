@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Reap the Whirlwind**<br>**Arcane Recovery**'
+effect_name: Reap the Whirlwind, Arcane Recovery
+effects: "- When Equipped:\n  - Applies Reap the Whirlwind to qualifying pets.\n    - Increases Potency of caster by 10.0.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -516954952 -1239057809:Cloak of the Summoned Destroyer\/a
 categories:
 - Arcane Recovery (Equipment)

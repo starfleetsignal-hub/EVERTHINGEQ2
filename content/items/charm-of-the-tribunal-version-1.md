@@ -13,7 +13,8 @@ stats:
   crit: '3.3'
   critbonus: '1.2'
   potency: '5.2'
-effects: '**Final Verdict**'
+effect_name: Final Verdict
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Final Verdict on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 5,978 - 7,159\n      - If Fighter\n    - Inflicts 950 - 1,426 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1804384167 1812379618 0 0 0:Charm of the Tribunal\/a
 image: images/Charm_of_the_Tribunal.png
 categories:

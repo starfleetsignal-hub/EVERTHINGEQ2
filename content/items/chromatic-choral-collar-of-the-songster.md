@@ -16,7 +16,8 @@ stats:
   critbonus: 1,306.3
   potency: 39,074.8
   resolve: '500'
-effects: '**Money Check**'
+effect_name: Money Check
+effects: "- Applies Money Check when Equipped.\n  - When obtained, this item will grant a character flag that contributes to the Ballads of Zimara: Money Sink and Ready Check effects.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Darkpaw Remains]]'
 item_link: \aITEM 563181015 -899237880:Chromatic Choral Collar of the Songster\/a
 categories:

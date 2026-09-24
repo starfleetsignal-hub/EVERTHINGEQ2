@@ -16,7 +16,8 @@ stats:
   dps: '27'
   vselemental: +28,613
   mitinc: '7'
-effects: '**The Finisher**'
+effect_name: The Finisher
+effects: "- When Equipped:\n  - Increases Potency of caster by 80.0.\n  - Improves the potency of all abilities by 135% when the target is below 50% health.  This effect will not stack with any other finisher effect.\n    - This effect will not stack with any other Finisher effect."
 item_link: \aITEM 633682426 1723213697:Malduran Crystal Shards\/a
 categories:
 - Arcane Resistance (Equipment)

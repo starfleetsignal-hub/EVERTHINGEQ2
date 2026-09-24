@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Ancient Glyph of Striking**'
+effect_name: Ancient Glyph of Striking
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 166 - 277 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2047082743 889170658:Quarterstaff of Flowers\/a
 categories:
 - Ancient Glyph of Striking (Equipment)

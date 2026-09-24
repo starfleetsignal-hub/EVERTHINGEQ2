@@ -15,7 +15,8 @@ stats:
   potency: '12.6'
   aspeed: '6.9'
   multi: '78'
-effects: '**Righteous Path**'
+effect_name: Righteous Path
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical healing spell cast this spell may cast Righteous Path on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards target against 5,200 points of all damage\n    - Heals target for 567 - 627 instantly and every 2 seconds.\n    - Replenishes 700 points of absorption every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1213713950 736051089 0 0 0:Gallant Tome of Marr\/a
 categories:
 - Attack Speed (Equipment)

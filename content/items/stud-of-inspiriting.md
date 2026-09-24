@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +24,232
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Soul II on target.  Lasts for 20.1 seconds.  Triggers about 0.4 times per minute.\n    - Increases Potency of caster by 2.4, multiplied by increment stacks.\n    - Increases Crit Bonus of caster by 2.4, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - The trigger chance is multiplied by the number of players in the wearer's raid. Increments up to 20 times."
 item_link: \aITEM -1450181999 -186259839:Stud of Inspiriting\/a
 categories:
 - Arcane Resistance (Equipment)

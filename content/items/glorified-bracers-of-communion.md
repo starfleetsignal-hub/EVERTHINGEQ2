@@ -13,7 +13,8 @@ stats:
   sta: '+8'
   mit: '84'
   dtype: Leather Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 20) from [[Ancient Knowledge: Glorified Bracers of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 256624073 677229736:Glorified Bracers of Communion\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   dps: '18.8'
   multi: '12'
   dtype: Plate Armor
-effects: '**Runic Deflection**'
+effect_name: Runic Deflection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Deflection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 2,800 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1509136841 -1999364472:Revered Pauldrons of Mutation\/a
 categories:
 - Attack Speed (Equipment)

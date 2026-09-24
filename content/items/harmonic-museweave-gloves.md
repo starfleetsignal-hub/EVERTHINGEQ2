@@ -18,7 +18,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Attack Speed of caster by 38"
 item_link: \aITEM -89635920 -1402071292:Harmonic Museweave Gloves\/a
 categories:
 - Arcane Resistance (Equipment)

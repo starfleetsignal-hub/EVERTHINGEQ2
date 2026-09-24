@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   dtype: Buckler
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -869538164 -882481694:Round Shield of the Protector\/a
 categories:
 - Berserker Equipment

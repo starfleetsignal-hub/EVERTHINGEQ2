@@ -16,7 +16,8 @@ stats:
   potency: '5.2'
   dps: '13.4'
   dtype: Leather Armor
-effects: '**Rampage**'
+effect_name: Rampage
+effects: "- Applies Rampage when Activated.  Lasts for 1 minute.\n  - Shapechanges caster into a Void Ripper\n  - Enlarges caster by 30.0%.\n  - Increases DPS of caster by 50.0.\n  - When a combat art is used this spell will cast Rampage on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,080 disease damage on target\n    - Heals caster for 864\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Rampage is 5 minutes"
 item_link: \aITEM 833578887 231724430:Skullcap of Creeping Death\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   dps: '16.6'
   multi: '10.5'
   vselemental: +1,302
-effects: '**Compressed Anima**'
+effect_name: Compressed Anima
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Compressed Anima on target of spell cast.  Triggers about 1.0 times per minute.\n    - Summon 1 Compressed Anima\n    - Cannot be modified except by direct means"
 item_link: \aITEM -147103240 1785228777:Stud of the Insanity of War\/a
 categories:
 - Arcane Resistance (Equipment)

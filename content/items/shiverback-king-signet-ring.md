@@ -16,7 +16,8 @@ stats:
   aspeed: '94'
   vselemental: +9,108
   mitinc: '4'
-effects: '**No Quarter**'
+effect_name: No Quarter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast No Quarter III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 12.0.\n    - Increases AE Autoattack of Caster by 40.0%.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 7.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -566142840 -2007921438:Shiverback King Signet Ring\/a
 categories:
 - Ability Modifier (Equipment)

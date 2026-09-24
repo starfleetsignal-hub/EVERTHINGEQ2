@@ -15,7 +15,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   abmod: +1,250
-effects: '**Unity**'
+effect_name: Unity
+effects: "- When Equipped:\n  - Inflicts 70,000 heat damage to up to eight targets who are fighting the wearer every 3 seconds. Increases the wearer's potency by 23%-44% and heals the wearer's allies for 2% to 9% of the caster's maximum health based on how many targets are hit. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Age''s End: Shattered Fate]]'
 item_link: \aITEM 1550677203 -1103480323:Lifeguard's Harmony\/a
 categories:

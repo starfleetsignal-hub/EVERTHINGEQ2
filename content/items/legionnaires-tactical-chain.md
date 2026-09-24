@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Practiced Tactics**'
+effect_name: Practiced Tactics
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Tactics on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the group's Crit Bonus and Potency by 0.3 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 18 Crit Bonus and Potency.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2135629256 -1806340318:Legionnaires' Tactical Chain\/a
 categories:
 - AE Autoattack Chance (Equipment)

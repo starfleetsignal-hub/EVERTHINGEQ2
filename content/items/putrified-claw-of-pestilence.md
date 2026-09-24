@@ -17,7 +17,8 @@ stats:
   drating: '70.92'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mark of Pestilence**'
+effect_name: Mark of Pestilence
+effects: '- Applies Mark of Pestilence when Equipped.'
 item_link: \aITEM -104221642 -1460437063:Putrified Claw of Pestilence\/a
 categories:
 - Ability Modifier (Equipment)

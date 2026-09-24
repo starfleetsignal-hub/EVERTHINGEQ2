@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   vselemental: '+594'
-effects: '**Radiant Aura**'
+effect_name: Radiant Aura
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.0.\n  - Increases Ability Mod of caster by 350.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of Revelations]] *Made from [[Azure Reactant]] *Made from [[Mound of Electrified Coral]]'
 item_link: \aITEM -734171685 -1757252208:Azure Ring of Revelations\/a
 image: images/Azure_Ring_of_Revelations.png

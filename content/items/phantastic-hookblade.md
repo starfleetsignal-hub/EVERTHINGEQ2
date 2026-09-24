@@ -24,7 +24,8 @@ stats:
   drating: '1605.12'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Devastation Strike**<br>**Phanatic**<br>**Phantastic Power**'
+effect_name: Devastation Strike, Phanatic, Phantastic Power
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 6,088 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled\n- Applies Phanatic when Equipped.\n  - Grants protection from powerful shadow magic and allows the target to bypass certain akhessar protection magic.\n- When Equipped:\n  - Gains power as you complete the \"Colossal Conundrum\", \"Dabbling in the Darkside\", and \"Triumph: Pall of All of Vex Thal\" achievements."
 obtained_from: 'Crafted by [[Artisan]] (level 120) from [[Recipe: Phantastic Hookblade]]'
 item_link: \aITEM -1427140446 -969778224:Phantastic Hookblade\/a
 categories:

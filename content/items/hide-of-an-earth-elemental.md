@@ -18,7 +18,8 @@ stats:
   resolve: '29'
   multi: '73'
   mitinc: '17.5'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,071.9.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 2090697941 1184641747:Hide of an Earth Elemental\/a
 categories:
 - Assassin Equipment

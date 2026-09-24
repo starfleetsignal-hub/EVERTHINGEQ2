@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Undead Destruction**'
+effect_name: Undead Destruction
+effects: "- Applies Undead Destruction when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 25,725 disease damage on targets in Area of Effect instantly and every second.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Undead Destruction is 30.0 seconds"
 item_link: \aITEM -1021762950 1320133704:A Contained Viral Infection\/a
 categories:
 - Ability Modifier (Equipment)

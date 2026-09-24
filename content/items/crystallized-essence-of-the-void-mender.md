@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Infusion of the Void Mender**'
+effect_name: Infusion of the Void Mender
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Infusion of the Void Mender on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 3.0.\n    - Increases the base amount of heals and wards by 3%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1962501109 525938077:Crystallized Essence of the Void Mender\/a
 categories:
 - Ability Modifier (Equipment)

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Flapping Wing**'
+effect_name: Flapping Wing
+effects: "- Applies Flapping Wing when Equipped.\n  - On a combat hit this spell may cast Flapping Wing on target of attack.  Triggers about 1.8 times per minute.\n    - Throws target back\n    - Inflicts 207 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -479409582 -1936296547:Bow of the Flapping Wing\/a
 categories:
 - Assassin Equipment

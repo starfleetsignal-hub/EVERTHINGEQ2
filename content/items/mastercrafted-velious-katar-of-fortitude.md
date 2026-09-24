@@ -23,7 +23,8 @@ stats:
   drating: '3334.72'
   dtype: One-Handed Crushing
   wtype: Thrown Weapon
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 130) from [[Advanced Coldwork Weaponsmith''s Volume III (no-trade no-value)]] *Crafted by [[Weaponsmith]] (level 130) from [[Advanced Coldwork Weaponsmith''s Volume III (no-value)]]'
 item_link: \aITEM 1321147942 -1357948251:Mastercrafted Velious Katar of Fortitude\/a
 categories:

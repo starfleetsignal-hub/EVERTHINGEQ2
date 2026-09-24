@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**One Man Army**'
+effect_name: One Man Army
+effects: "- When Equipped:\n  - Whenever the wearer completes a solo heroic opportunity, they will gain 10% to all attributes and grow by 25% for 16 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 505435916 2008304371:Lone Survivor's Ascot\/a
 image: images/Lone_Survivor's_Ascot.png
 categories:

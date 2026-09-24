@@ -16,7 +16,8 @@ stats:
   dps: '67.7'
   multi: '23.7'
   flurry: '0.6'
-effects: '**Siren''s Dirge**'
+effect_name: Siren's Dirge
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 7.0.\n  - Increases Max Health of caster by 1,751.0.\n  - Increases Piercing, Slashing, Crushing and Ranged of caster by 60.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 388863517 -1951465301:Devoured Tavalan Skull Pendant\/a
 categories:
 - Assassin Equipment

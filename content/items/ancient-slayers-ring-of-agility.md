@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+11'
   agi: '+11'
-effects: '**Haste of the Ancient Slayer**'
+effect_name: Haste of the Ancient Slayer
+effects: "- When Equipped:\n  - Increases Haste of caster by 3.0."
 obtained_from: '[[The Ancient Watcher]]'
 item_link: \aITEM 2050795500 306372254:Ancient Slayer's Ring of Agility\/a
 categories:

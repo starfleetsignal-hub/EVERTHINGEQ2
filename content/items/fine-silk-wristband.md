@@ -12,7 +12,8 @@ stats:
   sta: '+4'
   mit: '23'
   dtype: Cloth Armor
-effects: '**Glyph of Agility**'
+effect_name: Glyph of Agility
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Agility on caster.  Lasts for 30.0 seconds.\n    - Increases AGI of target by 4.8.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 999068017 -568575321:Fine Silk Wristband\/a
 categories:
 - Assassin Equipment

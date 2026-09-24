@@ -17,7 +17,9 @@ stats:
   potency: '12.6'
   dps: '32.4'
   multi: '21.1'
-effects: '**Mercurial Flux**<br>**Touch of the Deathless**'
+effect_name: Mercurial Flux, Touch of the Deathless
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 5.0.\n  - Increases Haste of caster by 13.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Touch of the Deathless on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases STR and AGI of caster by 65.0.\n    - Increases Accuracy of caster by 2.0%.\n    - Increases Crit Bonus of caster by 12.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Touch of the Deathless on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases STR and AGI of caster by 65.0.\n    - Increases Accuracy of caster by 2.0%.\n    - Increases Crit Bonus of caster\
+  \ by 12.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2121522226 -883514169:Webbed Belt of Raltaas\/a
 categories:
 - Assassin Equipment

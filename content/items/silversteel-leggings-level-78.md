@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   dps: '10.1'
   dtype: Cloth Armor
-effects: '**Impact Conversion**'
+effect_name: Impact Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 4% chance to cast Impact Conversion on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 33 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2025092238 -1601064370:Silversteel Leggings\/a
 categories:
 - Assassin Equipment

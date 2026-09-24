@@ -18,7 +18,8 @@ stats:
   drating: '63.61'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 3,527\n      - Must be flanking or behind\n    - Increases Threat to target by 4,192\n      - Must be in front of\n    - Inflicts 182 - 339 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 74) from [[Weaponsmith Essentials Volume 74 (Normal)]] *Crafted by [[Weaponsmith]] (level 74) from [[Weaponsmith Essentials Volume 74 (no-trade)]]'
 item_link: \aITEM 661279122 -1257490762:Imbued Ferrite Flail\/a
 categories:

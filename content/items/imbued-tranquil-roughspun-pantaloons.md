@@ -12,7 +12,8 @@ stats:
   sta: '+4'
   mit: '27'
   dtype: Cloth Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 23 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Outfitter]] (level 16) from [[Advanced Outfitter Volume 16 (Normal)]] *Crafted by [[Outfitter]] (level 16) from [[Advanced Outfitter Volume 16 (No-Trade)]] *From [[Tranquil Cloth Armor Pack (Level 12 Mastercrafted) (Version 1)|Tranquil Cloth Armor Pack (Level 12 Mastercrafted)]] *From [[Tranquil Cloth Armor Pack (Level 12 Mastercrafted) (Version 2)|Tranquil Cloth Armor Pack (Level 12 Mastercrafted)]]'
 item_link: \aITEM -1244898012 -1378776476:Imbued Tranquil Roughspun Pantaloons\/a
 aliases:

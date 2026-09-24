@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   multi: '6.8'
   vselemental: '+360'
-effects: '**Silence''s Echo**'
+effect_name: Silence's Echo
+effects: "- When Equipped:\n  - Grants a temporary casting speed and combat art range increase after using Misfortune's Kiss VII or Night Strike VII."
 item_link: \aITEM -1462860340 2111040210:Twelve Tone Earstone\/a
 aliases:
 - Twelve Tone Earstone

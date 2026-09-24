@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   vsarcane: '+130'
-effects: '**Champion''s Impedence**'
+effect_name: Champion's Impedence
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Champion's Impedence V on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 13.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a block this spell has a 10% chance to cast Champion's Impedence V on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Block Chance of caster by 13.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 50) from [[Ancient Knowledge: Fortified Shackle of Dynamism]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 916861277 -1117724892:Fortified Shackle of Dynamism\/a
 categories:

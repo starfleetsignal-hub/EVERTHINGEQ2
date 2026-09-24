@@ -19,7 +19,8 @@ stats:
   drating: '127.27'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Rend Armor**'
+effect_name: Rend Armor
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Rend Armor on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases Mitigation of target vs physical damage by 1,033.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1288192419 -1005465867:Claymore of Dissection\/a
 categories:
 - Ability Modifier (Equipment)

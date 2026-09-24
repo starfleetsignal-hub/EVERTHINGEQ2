@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7'
   dtype: Buckler
-effects: '**Flash of Intuition**'
+effect_name: Flash of Intuition
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Flash of Intuition on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 20%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM -666354090 -716520521:Brilliant Bladestopper Buckler\/a
 categories:
 - Berserker Equipment

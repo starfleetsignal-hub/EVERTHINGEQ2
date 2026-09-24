@@ -16,7 +16,8 @@ stats:
   critbonus: 1,097.5
   potency: 21,577.6
   resolve: '340'
-effects: '**Lovely Lady''s Lute**'
+effect_name: Lovely Lady's Lute
+effects: "- Applies Lovely Lady's Lute when Activated.  Lasts for 25.0 seconds.\n  - \"Lovely Lady's Lute\" increases the raid's in combat runspeed for 25 seconds.\n  - The casting time of Lovely Lady's Lute is 0.5 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 523313020 -2101087885:The Lovely Lady's Lute\/a
 categories:
 - Ability Doublecast (Equipment)

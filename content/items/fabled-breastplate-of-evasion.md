@@ -18,7 +18,8 @@ stats:
   resolve: '210'
   cbovercap: '+198.2'
   dtype: Plate Armor
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1663128018 -1764581252:Fabled Breastplate of Evasion\/a
 categories:
 - Berserker Equipment

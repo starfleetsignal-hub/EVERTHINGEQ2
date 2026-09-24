@@ -16,7 +16,8 @@ stats:
   aspeed: '5.6'
   dps: '10.5'
   dtype: Symbols
-effects: '**Sorcerous Alacrity**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 1859791328 260278873 0 0 0:Gassy Scepter\/a
 categories:
 - Arcane Recovery (Equipment)

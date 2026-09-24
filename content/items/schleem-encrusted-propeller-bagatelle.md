@@ -15,7 +15,8 @@ stats:
   potency: '64.6'
   resolve: '2'
   dps: '27.6'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.9.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: '[[Wight Time to Go (Heroic)|Wight Time to Go [Heroic]]]'
 item_link: \aITEM -165710359 656522490:Schleem Encrusted Propeller Bagatelle\/a
 categories:

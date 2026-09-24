@@ -17,7 +17,8 @@ stats:
   drating: '152.42'
   dtype: Two-Handed Crushing
   wtype: Crushing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -329285147 -353798280:Bo of the Obliterator\/a
 categories:
 - Beastlord Equipment

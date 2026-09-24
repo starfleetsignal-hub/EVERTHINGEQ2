@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   mitinc: '6'
-effects: '**Focused Sight**'
+effect_name: Focused Sight
+effects: "- Applies Focused Sight III when Activated.  Lasts for 30.0 seconds.\n  - Increases Accuracy of caster by 60.0%.\n  - Increases Strikethrough of caster by 60.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Focused Sight III is 3 minutes"
 item_link: \aITEM 1114510862 -1510180800:Orcish Eye of Sight\/a
 categories:
 - AE Autoattack Chance (Equipment)

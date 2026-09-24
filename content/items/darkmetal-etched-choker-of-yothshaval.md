@@ -17,7 +17,8 @@ stats:
   aspeed: '38'
   dps: '23.1'
   multi: '22.1'
-effects: '**Practiced Aim**'
+effect_name: Practiced Aim
+effects: "- When Equipped:\n  - Applies Practiced Aim instantly and every 1.5 seconds.\n    - Increases Crit Bonus of group members (AE) by 42.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM 31821715 1608499480:Darkmetal Etched Choker of Yothshaval\/a
 image: images/Darkmetal_Etched_Choker_of_Yothshaval.png
 categories:

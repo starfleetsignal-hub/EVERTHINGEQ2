@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   dps: '6.5'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -762378959 1374672209:Cartilagenous Cord\/a
 categories:
 - AE Autoattack Chance (Equipment)

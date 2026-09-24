@@ -21,7 +21,8 @@ stats:
   drating: '341.96'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -188006269 -2076010859:Spear of Tepid Depths\/a
 categories:
 - Ability Modifier (Equipment)

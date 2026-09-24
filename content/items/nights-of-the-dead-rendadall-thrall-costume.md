@@ -9,7 +9,8 @@ stats:
   charges: 1/1
   casting: 1.5 seconds
   recast: 0.0 seconds
-effects: '**Illusion**'
+effect_name: Illusion
+effects: "- Applies Cast Nights of the Dead Illusion Potion when Activated.\n  - This potion will grant you the illusion of being a Renda'Dall Thrall!"
 obtained_from: Sold by [[A Nights of the Dead merchant]] for 1s 20c
 categories:
 - Assassin Equipment

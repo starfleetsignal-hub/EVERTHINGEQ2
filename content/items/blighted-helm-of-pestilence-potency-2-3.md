@@ -16,7 +16,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Cloth Armor
-effects: '**Spirit Drain**'
+effect_name: Spirit Drain
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Spirit Drain on caster.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 142.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1907019498 -1474064188:Blighted Helm of Pestilence\/a
 categories:
 - Casting Speed (Equipment)

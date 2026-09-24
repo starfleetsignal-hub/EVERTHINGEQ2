@@ -15,7 +15,8 @@ stats:
   potency: '1.2'
   abmod: '+29'
   multi: '2.5'
-effects: '**Spirit of the Wind**'
+effect_name: Spirit of the Wind
+effects: "- Applies Spirit of the Wind when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM -598590497 -44096409:Slayer's Belt of Disease\/a
 categories:
 - Ability Modifier (Equipment)

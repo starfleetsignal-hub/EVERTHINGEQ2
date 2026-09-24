@@ -17,7 +17,8 @@ stats:
   multi: '21.6'
   flurry: '9.2'
   vselemental: +2,079
-effects: '**Beguile**'
+effect_name: Beguile
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Beguile III on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 5,699 - 6,300\n    - Inflicts 9,775 - 10,805 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Beguile III on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 5,699 - 6,300\n    - Inflicts 9,775 - 10,805 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 276633704 988312:Ancient Bangle of the Sentinel\/a
 categories:
 - Arcane Resistance (Equipment)

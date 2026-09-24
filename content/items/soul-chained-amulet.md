@@ -16,7 +16,8 @@ stats:
   potency: '8.2'
   abmod: '+262'
   aspeed: '12.2'
-effects: '**Unrelenting Gaze**'
+effect_name: Unrelenting Gaze
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 1438301447 -150655697:Soul-Chained Amulet\/a
 categories:
 - Ability Modifier (Equipment)

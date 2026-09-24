@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Taste of Flame**'
+effect_name: Taste of Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Taste of Flame on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 98 - 163 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -897374618 1774415984:Staff of Making\/a
 categories:
 - Ability Modifier (Equipment)

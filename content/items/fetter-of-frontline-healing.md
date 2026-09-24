@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,656
-effects: '**Frontline Healing**'
+effect_name: Frontline Healing
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Frontline Healing III on target.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the value of heals and wards by 12.5% per increment. Increments up to 5 times, if at 1 increment.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1384600532 -1664787829:Fetter of Frontline Healing\/a
 categories:
 - Arcane Resistance (Equipment)

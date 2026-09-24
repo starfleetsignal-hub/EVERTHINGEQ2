@@ -17,7 +17,8 @@ stats:
   potency: 2,780.5
   resolve: '34'
   dps: '59.4'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 34.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1769451749 -843245585:Uncanny Rune of Desperation\/a
 categories:
 - AE Autoattack Chance (Equipment)

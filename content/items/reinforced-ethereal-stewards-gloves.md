@@ -16,7 +16,8 @@ stats:
   multi: '37.3'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[Drinal's Steward (Faction Merchant)]] (Faction Merchant) in [[Obol Plains]]
 item_link: \aITEM -463014763 -1429133550 0 0 0:Reinforced Ethereal Steward's Gloves\/a
 categories:

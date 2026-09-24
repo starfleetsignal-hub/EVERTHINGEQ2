@@ -19,7 +19,8 @@ stats:
   drating: '58.03'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Shadow Sap**'
+effect_name: Shadow Sap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Shadow Sap on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 335 - 409 disease damage on target.\n    - Heals caster for 333 - 407.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1223346839 -1929566114:Dark Linger\/a
 image: images/Dark_Linger.jpg
 categories:

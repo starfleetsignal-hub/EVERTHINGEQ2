@@ -10,7 +10,8 @@ flags: attunable heirloom no-value
 stats:
   sta: '+2'
   wis: '+2'
-effects: '**Featherfall**<br>**Piercing Vision**'
+effect_name: Featherfall, Piercing Vision
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- When Equipped:\n  - Grants See Invisibility to caster.\n  - Grants See Stealth to caster."
 obtained_from: '[[Back in Fashion]]'
 item_link: \aITEM 1194989014 -796342442:Assassin Master's Cloak\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   abmod: '+306'
   dps: '24.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Forceful Thudomatonian Cuffs]]
 item_link: \aITEM 913760056 235830307:Forceful Sacrosanct Gauntlets\/a
 categories:

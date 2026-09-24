@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   aspeed: '31.2'
-effects: '**Shared Energy**'
+effect_name: Shared Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 65 if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM 1830913636 1337694039:Mirenilla's Beastly Eye\/a
 categories:
 - Ability Modifier (Equipment)

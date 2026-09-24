@@ -16,7 +16,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Stunning Strike Glyph**'
+effect_name: Stunning Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 52 - 64 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1322239145 -1983879965:Nynorc's Axe of Devastation\/a
 aliases:
 - Nynorc's Axe of Devestation

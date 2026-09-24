@@ -17,7 +17,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Searing Spiral Glyph**'
+effect_name: Searing Spiral Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 43689152 455529607:Cordovan Leather Satchel\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   dps: '12.4'
   multi: '7.7'
   vselemental: '+830'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 1419529491 843520898:Mummified Ydal Eye\/a
 categories:
 - Arcane Recovery (Equipment)

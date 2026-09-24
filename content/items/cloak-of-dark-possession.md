@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: This stylish cloak is a prefect fit.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (750 Daybreak Cash)
 item_link: \aITEM 774281775 -1346464987:Cloak of Dark Possession\/a
 categories:
