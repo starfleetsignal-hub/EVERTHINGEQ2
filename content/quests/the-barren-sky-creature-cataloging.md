@@ -43,7 +43,7 @@ source:
      - [[A vicious dryland scavenger|a vicious dryland scavenger]]   Isle of Desolation {{waypoint 512, 296, -762}}
      - [[A Strifewing ransacker|a Strifewing ransacker]]  Isle of Desolation
      - [[A Blacktalon defender|a Blacktalon defender]]    Isle of the Guardians (can be scattered throughout the isle)
-     - [[A Blacktalon observer|a Blacktalon observer]]    Isle of the Guardians (712.10, 385.28, -157.98)
+     - [[A Blacktalon observer|a Blacktalon observer]]    Isle of the Guardians {{waypoint 712.10, 385.28, -157.98}}
      - [[Stonescale rumbler|a stonescale rumbler]]      Isle of Awakening, well south of the cloud station
      - [[A drifting cloudmist|a drifting cloudmist]]      Isle of Awakening, south of the cloud station
      - [[A Blacktalon grunt|a Blacktalon grunt]]          Blackwind Isle {{waypoint -426, 115, 302}}

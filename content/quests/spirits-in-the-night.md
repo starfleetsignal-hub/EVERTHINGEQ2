@@ -32,11 +32,11 @@ source:
 ## Steps
 
 1. Hunt sacred beasts for their focus shards in [[Whisperling Forest around]] {{waypoint -458, 133, -203}}.
-   - Hunt [[A sacred hawk|sacred hawks]] in [[Whisperling Forest]]  for a [[Accipitridae focus shard]] -412.95 128.75 -181.89 260.70 0.00 0.00.
-   - Hunt [[A sacred stag|sacred stags]] in [[Whisperling Forest]] for a [[Cervidae focus shard]] -453.94 132.03 -202.86 70.78 0.00 0.00.
-   - Hunt [[A sacred tiger|sacred tigers]] in [[Whisperling Forest]] for a [[Felidae focus shard]]-434.53 90.60 54.98 61.77 0.00 0.00.
-   - Hunt [[A sacred wolf|sacred wolves]] in [[Whisperling Forest]] for a [[Canidae focus shard]] -272.96 105.42 118.65 271.51 0.00 0.00.
-   - Hunt [[A sacred manta|sacred mantas]] in [[Twilight Sea]] for a [[Mobulidae focus shard]] 835.54 11.12 -354.47 209.31 0.00 0.00.
+   - Hunt [[A sacred hawk|sacred hawks]] in [[Whisperling Forest]]  for a [[Accipitridae focus shard]] {{waypoint -412.95, 128.75, -181.89}}.
+   - Hunt [[A sacred stag|sacred stags]] in [[Whisperling Forest]] for a [[Cervidae focus shard]] {{waypoint -453.94, 132.03, -202.86}}.
+   - Hunt [[A sacred tiger|sacred tigers]] in [[Whisperling Forest]] for a [[Felidae focus shard]]{{waypoint -434.53, 90.60, 54.98}}.
+   - Hunt [[A sacred wolf|sacred wolves]] in [[Whisperling Forest]] for a [[Canidae focus shard]] {{waypoint -272.96, 105.42, 118.65}}.
+   - Hunt [[A sacred manta|sacred mantas]] in [[Twilight Sea]] for a [[Mobulidae focus shard]] {{waypoint 835.54, 11.12, -354.47}}.
      - *Note: across the stone bridge and in the waters of the sea to the far west {{waypoint 614, 11, -141}}.*
      - We found ours at *{{waypoint 1008.67, 10.47, -400.54}}*
 1. Return to [[Haadirr Darjin]].

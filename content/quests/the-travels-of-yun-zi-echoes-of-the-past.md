@@ -5,7 +5,7 @@ level: '100'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[The "Travels" of Yun Zi - In a Kingdom Far Away]]'
 next_quest: '[[The "Travels" of Yun Zi - Kunark or Bust]]'
 added_in: Days of Summer
@@ -48,7 +48,7 @@ expansion_source: timeline
    1. [[The Fae Drake Breeding Grounds]] {{waypoint 630, 30, -35}} in [[Lesser Faydark]]. Take the horse from the Somborn station to the Lesser Faydark, then take the horse in Lesser Faydark to the Butcherblock station.
    1. [[Old Kelethin]] in [[Greater Faydark]] at {{waypoint 70, 93, 38}}. Go to the Butcherblock zone, enter Greater Faydark and take the horse to the Kelethin station. Take the Old Kelethin Acorn Lift at {{waypoint 63.36, 8.70, -1.67}}.
    1. [[Hall of Truth]] in [[New Tunaria]] at {{waypoint -285, 53, -863}}. Take the horse from Kelethin to the New Tunaria station and enter at {{waypoint -1085, 91, 645}}.
-1. Return to [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] of [[The Sundered Frontier]] at 2,297 -199 2,506
+1. Return to [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] of [[The Sundered Frontier]] at {{waypoint 2297, -199, 2506}}
 
 ## Rewards
 

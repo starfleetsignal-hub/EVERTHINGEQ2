@@ -33,7 +33,7 @@ source:
 ## Steps
 
 1. Kill the following mobs in [[The Halls of Fate]]:
-   - [[Doom Guard Tammuz]] wanders around in [[The Viewing Room]] -.055 1.28 -114.68
+   - [[Doom Guard Tammuz]] wanders around in [[The Viewing Room]] {{waypoint -0.055, 1.28, -114.68}}
    - [[Doom Guard Vimock]] wanders around in the following room {{waypoint 88.90, 1.21, -141.99}}
    - [[Jin'tiz the Cataloguer]] in the [[Skarize Dracoratory]] {{waypoint 119.48, -27.54, 19.41}}
    - [[Ishtaran the Skarize]] in the Skarize Dracuratory after killing Jin'Tiz and clicking on the Bio-Transmutator {{waypoint 119.38, -26.43, 14.37}}

@@ -35,7 +35,7 @@ repeatable
 
 ## Steps
 
-1. Kill 8 [[A Kromzek pervasor|a Kromzek pervasors]] found around ( 572,-435, 4007 )  and the Walk of Glory ( -152, -321, 4076 )
+1. Kill 8 [[A Kromzek pervasor|a Kromzek pervasors]] found around {{waypoint 572, -435, 4007}}  and the Walk of Glory {{waypoint -152, -321, 4076}}
 1. Return to [[Igneous]]
 
 ## Rewards

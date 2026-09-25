@@ -39,7 +39,7 @@ source:
 1. Click on the recipe book next to Broosha and scribe *Makin Stuf Da Grobb Way* which gets placed in your inventory. This only needs to be done the first time you do one of the Goodies for Grobb quests, as you will get all of the recipes needed.
 1. Collect the material you will need in Grobb, specifically:
    - 5 [[Malodorous clay]], which can be collected from [[Clay deposit|clay deposits]] in the central river of Grobb.
-   - 15 [[Swamp-smooth pebble|swamp-smooth pebbles]], which can be collected from  [[Stones]] found on the platform of [[Zubzub]] around {{waypoint -445, -76, -909}} or along the wall near ( -400, -60, -1083 ).
+   - 15 [[Swamp-smooth pebble|swamp-smooth pebbles]], which can be collected from  [[Stones]] found on the platform of [[Zubzub]] around {{waypoint -445, -76, -909}} or along the wall near {{waypoint -400, -60, -1083}}.
    - 10 [[Congealed goo]], which can be collected from [[Slimy slug|slimy slugs]] found in a conduit around {{waypoint -444, -72, -964}}.
    - 5[[Smoldering coal]], purchased from fuel vendors.
 1. Make 5 *mud bowls* using the recipe you scribed earlier.

@@ -5,7 +5,7 @@ release: '[[LU106]]'
 levels: 117-118
 access: Group
 entered_from: '[[Plane of Magic]]'
-entrance: On [[Valor's Roost]] near the transporter pad (-762, 347, 1045)
+entrance: On [[Valor's Roost]] near the transporter pad {{waypoint -762, 347, 1045}}
 players: 3 hours-3 days
 categories:
 - Group Zones
@@ -32,7 +32,7 @@ source:
 
 ## Quest
 
-Pick up daily quest from Bella, Concordium Experiment.  Located next to Daily Heroic quest giver in Valor (-129.24, 0.00, -108.82).  As soon as you complete the Planes of Prophecy Triumph achievement, "[Heroic SoH] Triumph: Decimate Hate" then, you will be able to see this lovely bovine!
+Pick up daily quest from Bella, Concordium Experiment.  Located next to Daily Heroic quest giver in Valor {{waypoint -129.24, 0.00, -108.82}}.  As soon as you complete the Planes of Prophecy Triumph achievement, "[Heroic SoH] Triumph: Decimate Hate" then, you will be able to see this lovely bovine!
 ![](images/Shard_of_Hate_%28Herd_Mode%29_Questgiver.png)
 
 ## Named

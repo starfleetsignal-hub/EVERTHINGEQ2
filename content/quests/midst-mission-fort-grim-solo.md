@@ -29,9 +29,9 @@ source:
 
 ## Steps
 
-1. Dissect the sisters - Kill Ulosi and Ulcine Nacisroc ( -28, 43, -273 )
+1. Dissect the sisters - Kill Ulosi and Ulcine Nacisroc {{waypoint -28, 43, -273}}
 1. Defeat the chief - Kill Chief Gadzuuks ( 111, 51, -212
-1. Hunt the prowler - Kill [[Felnir the Shadow Prowler]] and The Dire Pyre ( 70, 31, -285 )
+1. Hunt the prowler - Kill [[Felnir the Shadow Prowler]] and The Dire Pyre {{waypoint 70, 31, -285}}
 
 Walk through [[Savage Weald: Fort Grim (Solo)]]
 

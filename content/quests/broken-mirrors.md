@@ -33,7 +33,7 @@ source:
    - [[Frostfang Sea]]/[[New Halas]] {{waypoint -347, 175, -145}}. ![Key to the mansion](images/Broken_Mirrors_quest_-_rusty_key.jpg)
    - [[Qeynos Capitol District]] {{waypoint 442, -20, -276}}.
    - [[Kelethin]] {{waypoint 428, 94, 213}}.
-   - [[Gorowyn]] 2,615 12 1317.
+   - [[Gorowyn]] {{waypoint 2615, 12, 1317}}.
    - [[Freeport]] {{waypoint -72, -34, -292}}.
    - You can ask the guards to point to *"a forlorn apparition"*, or just *"forlorn"*.
 1. Talk to the [[A forlorn apparition]] again (she'll be located directly next to the key). ![The steed will take you to the mansion](images/Broken_Mirrors_quest_-_steed.jpg)

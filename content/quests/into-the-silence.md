@@ -33,7 +33,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Enter the [[Eerie Encampment]] at 3659, 967, 1111
+1. Enter the [[Eerie Encampment]] at {{waypoint 3659, 967, 1111}}
 1. Inspect the camp
    - Inspect a camp tent
    - Inspect a camp cooking pit

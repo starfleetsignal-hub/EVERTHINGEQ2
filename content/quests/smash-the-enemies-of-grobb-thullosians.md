@@ -40,7 +40,7 @@ source:
 
 ## Notes
 
-Goto around 365, -80, -217 (Thollosians, Ykesian trolls and frogloks).
+Goto around {{waypoint 365, -80, -217}} (Thollosians, Ykesian trolls and frogloks).
 
 - This quest is repeatable.
 

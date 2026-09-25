@@ -48,7 +48,7 @@ source:
    1. Speak to Captain Delshirrs again. You do NOT need to return to [[Xuurk]] to move to the next step, even though Delshirrs tells you to.
 1. Place the notices of [[Xuurk]]'s announcement (look for a small clipboard):
    - [[Jarsath Wastes]] - Ganak's Battlement on the front gate (look for small clipboard) {{waypoint -219, -42, -56}}
-   - [[Fens of Nathsar]] - [[Sathir's Span]] on the wall near Revliss Dru'shyv (look for small clipboard) -149 -7 1,004
+   - [[Fens of Nathsar]] - [[Sathir's Span]] on the wall near Revliss Dru'shyv (look for small clipboard) {{waypoint -149, -7, 1004}}
    - [[Kunzar Jungle]] - [[City of Jinisk]] on the back of the pillar in front of the broker {{waypoint 634, 36, -125}}
      - *Note: The order above is the ingame order of the 3 locations. They can be completed in any order.*
 1. Return to [[Xuurk]] ([[Fens of Nathsar]])

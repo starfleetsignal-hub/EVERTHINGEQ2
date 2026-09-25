@@ -37,7 +37,7 @@ expansion_source: patch
    - Use the [[Dispelling Ward]] on all four trapped Kejeks {{waypoint -160, 524, -481}}
 1. Return to Pantheera with news of your success!
 
-1. If you lost the ward you can get another by hailing Yaqub at ( -128, 366, 624 )
+1. If you lost the ward you can get another by hailing Yaqub at {{waypoint -128, 366, 624}}
 
 ## Rewards
 

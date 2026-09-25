@@ -31,7 +31,7 @@ source:
 
 ## Steps
 
-1. Talk to [[Osh]] the Speaker of Lodizal at {{waypoint -1634.92, -535.33, -2428.07}} Take Griffin on docks to Icy Fingers at ( 1333.73, -540.25, 409 ) in [[Great Divide]]
+1. Talk to [[Osh]] the Speaker of Lodizal at {{waypoint -1634.92, -535.33, -2428.07}} Take Griffin on docks to Icy Fingers at {{waypoint 1333.73, -540.25, 409}} in [[Great Divide]]
 1. Talk to [[Effigy of Prexus]] at {{waypoint -1627.18, -533.20, -2360.51}} in [[Great Divide]]
 1. Talk to [[The Duality]] at {{waypoint 475, -212, 246}} in [[Thurgadin, City of the Coldain]]
 1. Talk to [[Yelinak The Ancient]] at {{waypoint 17, -242, 471}} in [[Thurgadin, City of the Coldain]]

@@ -40,7 +40,7 @@ source:
    - The gazer is [[The Spiteful Glee]] (82^) {{waypoint 1261, -17, 3826}}. Clear the normal gazers ([[A stonegraft scoundrel|stonegraft scoundrels]]) around that point to spawn it.
    - The pile of bones is [[Joki the Bonepile]] (85^^^ **undercon**) at {{waypoint 374, -60, 3624}} in the [[Lair of Bone]]. The entrance to the Lair of Bone is located at {{waypoint 814, -10, 3591}}.
    - The bug is [[Acklok the Crystal Duster]] (86^) at {{waypoint 1097, -295, 3381}}. This is in the same cave as [[Ritsy]]. Clear the [[A grimestone burrower|grimestone burrowers]] after which four [[A grimestone devourer|grimestone devourers]] will spawn. After clearing these, Acklok spawns.
-1. Return to [[Ritsy]].  ((with a flying mount just fly down to the ledge ( 900, -281, 3138 )))
+1. Return to [[Ritsy]].  ((with a flying mount just fly down to the ledge {{waypoint 900, -281, 3138}}))
 1. Quell the rebellion in [[The Hole: Demitrik's Bastion]].(Kill the final named)
 1. Return to [[Ritsy]] who will become attackable after some dialogue.
    - She has 4 *Ritsy Guard*s who are 86^ and [[Ritsy (Named)|Ritsy herself]] was 86^^^; a group of at least 2 is recommended.

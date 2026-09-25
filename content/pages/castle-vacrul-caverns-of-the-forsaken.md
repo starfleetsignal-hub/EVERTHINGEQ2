@@ -20,7 +20,7 @@ source:
 
 - [[Mazza Zanzeer]] {{waypoint 20, -15, 172}} Has a zombie pet Porzo Kel'Kanna. Summons several Sullian fayefolk adds that cast damage AoE DOT + Potency trauma detriment on the player.
 
-- Go back down the stairs all the way to the bottom. Watch reanimated Vishra run off and kill the two vampires standing there. Go through the "Leave the craw"(5,-58,156) door to "The Royal Blood Halls". Proceed through the halls to "Cruor Keep" Kill all the royal guard vampires to spawn the named.
+- Go back down the stairs all the way to the bottom. Watch reanimated Vishra run off and kill the two vampires standing there. Go through the "Leave the craw"{{waypoint 5, -58, 156}} door to "The Royal Blood Halls". Proceed through the halls to "Cruor Keep" Kill all the royal guard vampires to spawn the named.
 
 - [[Lysander Mistmoore]] {{waypoint -109.90, -45.56, 0.25}} Casts a damage AoE DOT+ daze arcane on player. Animates the gargoyles around the room to call in as adds. Allowing multiple gargoyles to become active will cause a party wipe.
 

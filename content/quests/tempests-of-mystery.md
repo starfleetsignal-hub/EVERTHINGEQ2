@@ -33,7 +33,7 @@ expansion_source: patch
 ## Notes
 
 - This is the evil-aligned version of the world event quest. The good-aligned version of this quest is [[Storms of Mystery]].
-- If you've already started the quest, evil-aligned people can visit [[An Arcane Science Teleportation Scholar]] in [[Gorowyn]] (2605,5,1181) to get teleported to [[The Commonlands]]. You can also get ported back to [[Gorowyn]] from [[The Commonlands]].
+- If you've already started the quest, evil-aligned people can visit [[An Arcane Science Teleportation Scholar]] in [[Gorowyn]] {{waypoint 2605, 5, 1181}} to get teleported to [[The Commonlands]]. You can also get ported back to [[Gorowyn]] from [[The Commonlands]].
 
 ## Starting the Quest
 
@@ -44,7 +44,7 @@ Speak to [[An Arcane Science apprentice]]. You'll find the Arcane Science appren
 *While traveling, I happened upon an Arcane Science apprentice that was investigating the bizarre and certainly unnatural storms that have appeared across Norrath. They are very concerned about their nature and origin.*
 
 1. You'll get [[An Arcane Science apprentice's report]]. Bring it to [[Librarian Motius Feldarn]] in the [[Academy of Arcane Science]] in [[North Freeport]].
-1. Find [[The Inimicus Codex]] within the [[Academy of Arcane Science]]. You'll find it on the last table next to [[Qalantir]] ( 5,-7,-137 ).
+1. Find [[The Inimicus Codex]] within the [[Academy of Arcane Science]]. You'll find it on the last table next to [[Qalantir]] {{waypoint 5, -7, -137}}.
 1. Deliver [[The Inimicus Codex]] to [[Librarian Motius Feldarn]].
 1. You need to speak with a member of the Order of Flame inside the [[Shrine of Thunder]]. Head to [[Lavastorm]] and talk to [[Pallasa Rargon]], a Disciple of Flame. {{waypoint -149, -117, 634}}
 1. You'll receive the [[Acumen Occultation Instrument]]. Return to [[Librarian Motius Feldarn]] at the [[Academy of Arcane Science]] in [[North Freeport]].

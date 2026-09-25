@@ -37,4 +37,4 @@ source:
 
 ## Reward
 
-Unlocked the 1. week of the 2021 Travelers's Holiday event rewards you can purchase at [[Pas Yu]] at 2292.99 -199.41 2505.71 198.75 0.00 0.00
+Unlocked the 1. week of the 2021 Travelers's Holiday event rewards you can purchase at [[Pas Yu]] at {{waypoint 2292.99, -199.41, 2505.71}}

@@ -30,7 +30,7 @@ source:
 ## Steps
 
 1. Find the crates of stolen minnows. Some known spawn locations:
-   - 8.54 -.99 -50.74 (had to go into first person to see under the leaves)
+   - {{waypoint 8.54, -0.99, -50.74}} (had to go into first person to see under the leaves)
    - {{waypoint -13.88, -17.07, -115.65}}
    - {{waypoint -32.10, -10.83, -172.86}}
    - {{waypoint -110.10, 9.86, -236.20}}

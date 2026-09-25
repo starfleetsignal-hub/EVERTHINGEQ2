@@ -25,4 +25,4 @@ expansion_source: source
 
 This item is needed for the collection: [[To Worship the Flame (Collection)|To Worship the Flame]]
 
-Found one in the Sandstone Delta at ( 97, 4, -245 )
+Found one in the Sandstone Delta at {{waypoint 97, 4, -245}}

@@ -51,7 +51,7 @@ When you zone in, you will be in the cargo hold of The Vigilant. After grabbing 
 
 Once he's dead, step onto the one-way teleporter. Grab 2 scrolls each from the two alcoves for the quest Swiping Scrolls, then take either doorway to a trampoline-like one-way portal, that springs you up to the next floor.
 
-A ring event here will spawn around 4 waves of pairs of Tallonite lozonns, followed by Zonn Kogir  (L93 ^^^) who has an AOE knockback. Once he's killed, grab the chest at 40, 80, 60 then go up the ramp to the flight controls. All group members must each Use your Crew Commander's Control Crystal for the quest Crash Course.
+A ring event here will spawn around 4 waves of pairs of Tallonite lozonns, followed by Zonn Kogir  (L93 ^^^) who has an AOE knockback. Once he's killed, grab the chest at {{waypoint 40, 80, 60}} then go up the ramp to the flight controls. All group members must each Use your Crew Commander's Control Crystal for the quest Crash Course.
 
 Go back down the ramp to Navigation and take the glowing portal to Engine Core room aka Airship Disco. Be careful of pet pathing in this room. Kill mobs until Zonn Gamaz spawns (L93 ^^^). Take the portal to the next room immediately after killing Gamaz, as he zaps the room about a minute after death.
 

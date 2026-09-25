@@ -56,7 +56,7 @@ source:
      - *Note: There is only one item that drops off the body of the final boss.  If there is more than one channeler in the group that is on this part of the quest, only one will be able to loot the item for a quest update.*
 1. Return to [[Lord Nagafen (Nagafen's Lair)|Lord Nagafen]]
    - *Note: There are 2 "Nagafen's Lair" choices on the menu, pick the first one called [[Nagafen's Lair]]*
-1. Consult the necromancers of Paineel.  Letter on table at 1,652 -265 3,176
+1. Consult the necromancers of Paineel.  Letter on table at {{waypoint 1652, -265, 3176}}
 1. Kill the dragon construct on the top level of the rat cave of Sundered Frontier {{waypoint 965, -191, 3369}}, he can also spawn in one of the other passageways in the same area.
    - *Note: Has tons of HP, it is recommended to bring at least some DPS with you to help burn it down*
 1. Go back to secret lab in Paineel, it's on fire and you will be attacked by a construct

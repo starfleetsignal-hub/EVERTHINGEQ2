@@ -30,11 +30,11 @@ To access Savage Weald travel to the City Fordel Midst, then zone into Echo Cave
 
 ### Merchant
 
-Kelaci Vol'Luissa ( 4, 112, -712 )
+Kelaci Vol'Luissa {{waypoint 4, 112, -712}}
 
 ### Mercenary
 
-Doomhilda Painface ( 53, 121, -758 )
+Doomhilda Painface {{waypoint 53, 121, -758}}
 
 ### Dungeons
 

@@ -41,18 +41,18 @@ source:
 
 ## [[Miragul's Phylactery: Scion of Ice]]
 
-- [[Disrupt the Wizardry]] (80) - *automatically given within the zone (-65, 2, 46) if you have Repairing the Eternal Prism*
-- [[End the Enchanting]] (80) - *automatically given within the zone (-93, 2, -24) if you have Repairing the Eternal Prism*
+- [[Disrupt the Wizardry]] (80) - *automatically given within the zone {{waypoint -65, 2, 46}} if you have Repairing the Eternal Prism*
+- [[End the Enchanting]] (80) - *automatically given within the zone {{waypoint -93, 2, -24}} if you have Repairing the Eternal Prism*
 - [[Love Caught in Time]] (80) - *from [[Mundug Stonefist]]*
 - [[Repairing the Eternal Prism]] (80) - *from [[Connor Farquharson]]*
 
 ## [[Miragul's Phylactery: The Anathema]]
 
-- [[A Sorcerous Tune]] (80) - *automatically given within the zone (-217, -5, 183) if you have Repairing the Eternal Prism*
-- [[Necromantic Neverwhere]] (80) - *automatically given within the zone (51, 2, -49) if you have Repairing the Eternal Prism*
-- [[Reminders of Miragul]] (80) - *automatically given within the zone (-121, -32, 142) if you have Repairing the Eternal Prism*
+- [[A Sorcerous Tune]] (80) - *automatically given within the zone {{waypoint -217, -5, 183}} if you have Repairing the Eternal Prism*
+- [[Necromantic Neverwhere]] (80) - *automatically given within the zone {{waypoint 51, 2, -49}} if you have Repairing the Eternal Prism*
+- [[Reminders of Miragul]] (80) - *automatically given within the zone {{waypoint -121, -32, 142}} if you have Repairing the Eternal Prism*
 
 ## [[Miragul's Phylactery: The Crucible]]
 
 - [[Stifle the Sentience]] (80) - *automatically given at the entrance if you have Repairing the Eternal Prism*
-- [[A Ghostly Runed Tome]] (80) - *examine a tome at (-119, 0, 32)*
+- [[A Ghostly Runed Tome]] (80) - *examine a tome at {{waypoint -119, 0, 32}}*

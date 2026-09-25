@@ -33,7 +33,7 @@ source:
 
 ## Steps
 
-1. Ferink says that orcs are soon to attack the Kerra village and he needs help protecting Amoora.  Head to Amoora {{waypoint -196, -48, 164}} across the river.  A group of four [[A Bloodskull warrior|Bloodskull warriors]] (level 17vv) will attack ( run around -208, 193, 284 to spawn ) and defeat them for the update.
+1. Ferink says that orcs are soon to attack the Kerra village and he needs help protecting Amoora.  Head to Amoora {{waypoint -196, -48, 164}} across the river.  A group of four [[A Bloodskull warrior|Bloodskull warriors]] (level 17vv) will attack ( run around {{waypoint -208, 193, 284}} to spawn ) and defeat them for the update.
 1. Now visit Amoora's father, Jaharin {{waypoint -190, -47, 139}}, and tell him how Ferink defended her.
 1. With Jaharin's blessing, cross the river to let Ferink know the good news.
 

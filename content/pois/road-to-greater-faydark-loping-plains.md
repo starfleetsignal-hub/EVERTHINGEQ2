@@ -3,6 +3,7 @@ title: Road to Greater Faydark (Loping Plains)
 type: poi
 expansion: Echoes of Faydwer
 zone: '[[Loping Plains]]'
+location: '{{waypoint -556, 0, -413}}'
 discovery_xp: y
 added_in: Echoes of Faydwer
 categories:

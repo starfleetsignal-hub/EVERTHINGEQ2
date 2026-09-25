@@ -35,14 +35,14 @@ Flying Snakes, Hellhounds, Khoalrats
 | [[A snapjaw blightrat\|Snapjaw Blightrat]] |  |  |  |  |
 | **45** | [[A horror hound\|Horror Hound]]<br><br>x1 only | [[The Feerrott]] | [[Cave of Fear (POI)\|Cave of Fear]] | {{waypoint -1908.01, -23.77, 436.53}} |
 |  | <s>[[A horror hound\|Horror Hound]]</s><br><br>x1 not an enemy | {{waypoint -1908.70, -25.57, 418.74}} |  |  |
-| 46 | <s>[[A quetzsol\|Quetzol]] | [[Lavastorm]] | [[Solusek's Eye\|Solusek's Eye, Level1]] | -9.52 8.25 -16.68 162.18 0.00 0.00 |
+| 46 | <s>[[A quetzsol\|Quetzol]] | [[Lavastorm]] | [[Solusek's Eye\|Solusek's Eye, Level1]] | {{waypoint -9.52, 8.25, -16.68}} |
 | **55-56** | <s>[[A hellhound (Tombs of Night)\|Hellhound]]</s><br><br>Heroic | [[Nektulos Forest]] | [[Soul Eater Falls]], [[The Tombs of Night]] | {{waypoint 91.47, -21.70, -104.55}} |
 | 56-57 | [[A swoop serpent\|Swoop Serpent]] | [[Tenebrous Tangle]] | [[Temple Grounds]] | {{waypoint 16.77, 19.98, 194.37}} |
 | 87 | [[A juvenile krait\|Juenile Krait]] | [[Great Divide]] | [[Icy Fingers]] | {{waypoint -1331.71, -538.57, -2322.70}} |
 | [[A krait patriarch\|Krait Patriarch]] |  |  |  |  |
 | <s>[[Venomwing]]</s><br><br>Named Heroic | {{waypoint -1235.18, -540.49, -2303.61}} |  |  |  |
 | [[A winged krait\|Winged Krait]] | {{waypoint -1331.71, -538.57, -2322.70}} |  |  |  |
-| **96** | [[A coastal entrapper\|Coastal Entrapper]]<br><br>Heroic | [[Cobalt Scar]] | [[Scattered Bone Beach]] | 4093.79 -1074.26 956.32 353.19 0.00 0.00 |
+| **96** | [[A coastal entrapper\|Coastal Entrapper]]<br><br>Heroic | [[Cobalt Scar]] | [[Scattered Bone Beach]] | {{waypoint 4093.79, -1074.26, 956.32}} |
 | **98** | [[A treetop entangler\|Treetop Entangler]]<br><br>Heroic | [[Scar Pines]] | {{waypoint 4070.43, -902.56, 744.80}} |  |
 | **127** | <s>[[A maniac botanical\|Maniac Botanical]]</s><br><br>(Heroic) | [[Svarni Expanse]] | [[Karuupa Jungle]], [[Heart of Darkness]] | {{waypoint 584.10, 76.81, -293.54}} |
 | **127** | [[A marshtrap vanquisher\|Marshtrap Vanquisher]]<br><br>(Heroic) | [[Karuupa Jungle]], [[Karuupa Basin]] | {{waypoint 326.66, 54.33, -20.85}} |  |

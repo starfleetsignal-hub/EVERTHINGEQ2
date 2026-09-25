@@ -37,7 +37,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Interact with the first bush that you found in an earlier quest. 1,159.48 -21.75 -741.24
+1. Interact with the first bush that you found in an earlier quest. {{waypoint 1159.48, -21.75, -741.24}}
 1. The gnoll camp appears.
 1. Right-click the tent in the camp to burn it.
 1. Slay [[Reconnoiterer Malox]] and [[A Rockpaw thug]] that spawn. (level 11)

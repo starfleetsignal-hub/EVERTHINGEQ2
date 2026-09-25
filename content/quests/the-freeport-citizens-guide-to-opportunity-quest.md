@@ -21,11 +21,11 @@ source:
 
 ## Steps
 
-Renny Parvat (-281.48,-56.07,101.90) in East Freeport will tell me about collecting objects in Norrath.
-The Overlord wants me to see the Execution Plaza update at (109.93,-22.95,37.18) in West Freeport.
-I must see Sage Navarius Orvalis (10.60,-7.00,-133.93) in North Freeport.
-I should speak with Taskmaster's Assistant Koz'ma (-492.05,-43.89,-260.19) at the Crossroads in the Commonlands.
-I must speak with Cannix Silverflame (-312.85,-47.25,-360.55) in the Commonlands.
-I will speak with Lieutenant Darrius (135.85,-15.97,113.96) in West Freeport.
+Renny Parvat {{waypoint -281.48, -56.07, 101.90}} in East Freeport will tell me about collecting objects in Norrath.
+The Overlord wants me to see the Execution Plaza update at {{waypoint 109.93, -22.95, 37.18}} in West Freeport.
+I must see Sage Navarius Orvalis {{waypoint 10.60, -7.00, -133.93}} in North Freeport.
+I should speak with Taskmaster's Assistant Koz'ma {{waypoint -492.05, -43.89, -260.19}} at the Crossroads in the Commonlands.
+I must speak with Cannix Silverflame {{waypoint -312.85, -47.25, -360.55}} in the Commonlands.
+I will speak with Lieutenant Darrius {{waypoint 135.85, -15.97, 113.96}} in West Freeport.
 
 The Overlord does not grant audiences, so the statue {{waypoint -154, -24, -59}} in North Freeport will suffice.

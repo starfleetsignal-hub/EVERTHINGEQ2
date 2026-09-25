@@ -6,7 +6,7 @@ release: '[[Kunark Ascending]]'
 levels: 100+
 access: Solo
 entered_from: '[[Obulus Frontier]]'
-entrance: at 792, -129, -581
+entrance: at {{waypoint 792, -129, -581}}
 players: 1h30min-3days
 related_quest: '[[The Final Blow]]'
 categories:

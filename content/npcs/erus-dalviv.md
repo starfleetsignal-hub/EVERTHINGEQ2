@@ -32,4 +32,4 @@ The first stage is you will receive an mail message asking you to meeting him wh
 
 - **Freeport:** in front of **[[The Academy of Arcane Science]]**
 - **Qeynos:**  in front of **[[The Concordium Tower]]** at {{waypoint 681, -21, 155}}
-- On a Boat Jarsath Wastes - /way -756.000,-50.00,1901.00
+- On a Boat Jarsath Wastes - {{waypoint -756.000, -50.00, 1901.00}}

@@ -39,11 +39,11 @@ There are 4 possible quests given for this.
 
 or
 
-2. "I need to gather some of the decaying cobra fangs. The Qeynosians are no doubt looking to gather the poisons for their own foul use."  You need to gather 20 decaying cobra fangs.  These are found as ground glowies called "a decaying cobra fang" that you can pick up.  They are not dropped from the skeletal cobra's but are found on the ground around them at -818, -113, -968 and also at the other camp around -391, -76, -480.
+2. "I need to gather some of the decaying cobra fangs. The Qeynosians are no doubt looking to gather the poisons for their own foul use."  You need to gather 20 decaying cobra fangs.  These are found as ground glowies called "a decaying cobra fang" that you can pick up.  They are not dropped from the skeletal cobra's but are found on the ground around them at {{waypoint -818, -113, -968}} and also at the other camp around {{waypoint -391, -76, -480}}
 
 or
 
-3. "The Alliance would like to study some of the skulls from the Sul'Dal infiltrators, I'll need to make sure I get those skulls first."  You need to get 20 skulls.  The skulls auto-update each time you kill a Sul'Dal infiltrator, this is not a drop.  They are located down in the Eye of Anuk cove all around loc -1019, -233, -1224.
+3. "The Alliance would like to study some of the skulls from the Sul'Dal infiltrators, I'll need to make sure I get those skulls first."  You need to get 20 skulls.  The skulls auto-update each time you kill a Sul'Dal infiltrator, this is not a drop.  They are located down in the Eye of Anuk cove all around {{waypoint -1019, -233, -1224}}
 
 or
 

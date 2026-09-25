@@ -6,8 +6,8 @@ abbrev: WWI
 patch: Kingdom of Sky
 zone: The Barren Sky
 levelrange: 55-70
-aclouds: See notes ( -461,-71,-440 )
-dclouds: See notes ( -461,-71,-440 )
+aclouds: See notes {{waypoint -461, -71, -440}}
+dclouds: See notes {{waypoint -461, -71, -440}}
 aliases:
 - Whisperwind Island
 - Whisperwind Isle
@@ -26,7 +26,7 @@ source:
 
 ## Notes
 
-There is a climbable wall at (-585, -48, -449)
+There is a climbable wall at {{waypoint -585, -48, -449}}
 
 ## Travel
 
@@ -47,7 +47,7 @@ The Ulteran Spires in *any* zone can be used to travel to the Overealms: Tenebro
 
 ## Instances
 
-- (-674, -20, -501): [[The Nest of the Great Egg]]
+- {{waypoint -674, -20, -501}}: [[The Nest of the Great Egg]]
 
 ## Monsters
 

@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[Great Divide]]'
 timeline: '[[Destiny of Velious Crafting Timeline]]'
 journal_category: Tradeskill
-starts: Talk to [[Oomba]] (1268, -540, 427) on the dock at [[Thurgadin Harbor]]
+starts: Talk to [[Oomba]] {{waypoint 1268, -540, 427}} on the dock at [[Thurgadin Harbor]]
 next_quest: '[[Oomba''s Zoomba]]'
 added_in: Destiny of Velious
 achievement_xp: true

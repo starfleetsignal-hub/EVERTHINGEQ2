@@ -36,7 +36,7 @@ source:
 ## Steps
 
 1. You are asked to complete ONE of the following tasks:
-   - Collect 10 **Rin'Dal Tablets** from [[The Living Tombs]]. You can use a Gnomish Divining Rod to find these. One known location is in Statue Court at -180, -6, -380.  They spawn in random locations in the area and refresh within a couple minutes.
+   - Collect 10 **Rin'Dal Tablets** from [[The Living Tombs]]. You can use a Gnomish Divining Rod to find these. One known location is in Statue Court at {{waypoint -180, -6, -380}}  They spawn in random locations in the area and refresh within a couple minutes.
    - Kill 20 [[A Rin' Dal alchemist|Rin' Dal alchemists]] in [[The Living Tombs]], usually found in the priestess court.
    - Collect 10 **Rujarian Relics** from [[The Clefts of Rujark]]. {{waypoint -1.59, 60.63, -160.19}}
    - Kill 20 [[A Steelslave vanquisher|Steelslave vanquishers]] in [[The Clefts of Rujark]]. {{waypoint -98.97, 14.95, -154.44}}

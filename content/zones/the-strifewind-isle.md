@@ -30,7 +30,7 @@ I spotted a door which looks a lot like a zone-in. If it is, an access quest is 
 
 ## Island Access
 
-- (-113, -21, -451): [[Isle of Desolation]], [[Isle of Discord]], [[Whisperwind Isle]]
+- {{waypoint -113, -21, -451}}: [[Isle of Desolation]], [[Isle of Discord]], [[Whisperwind Isle]]
 
 ## Monsters
 

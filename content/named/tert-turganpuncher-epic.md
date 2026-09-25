@@ -42,4 +42,4 @@ Periodically teleports from one end of the dock to the other (every ~15%, can do
 
 ## Alternate Strategy
 
-Have group jump in water, approximately in center between two piers(-400, -35, 297) just across from Tert, send (in my case) Mystic pet to attack Tert. As pet will be at/within 20m so will be in range to receive mystic group-wide heals and wards. Will be out of AoE of blue fire, just need to wait for Tert to take enough damage to run away.
+Have group jump in water, approximately in center between two piers{{waypoint -400, -35, 297}} just across from Tert, send (in my case) Mystic pet to attack Tert. As pet will be at/within 20m so will be in range to receive mystic group-wide heals and wards. Will be out of AoE of blue fire, just need to wait for Tert to take enough damage to run away.

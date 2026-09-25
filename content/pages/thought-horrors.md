@@ -10,4 +10,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-These are located in the area out front of the Blinding entrance.  Near /way 352, 306, -567.  Also all over the area.
+These are located in the area out front of the Blinding entrance.  Near {{waypoint 352, 306, -567}}  Also all over the area.

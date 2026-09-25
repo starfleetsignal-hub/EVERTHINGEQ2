@@ -32,7 +32,7 @@ There are a few levels inside the city, you can teleport up or down via multicol
 
 Echelon of Sanctus Seru teleporter looks exactly like the "Leave Sanctus Seru" teleporter, so be sure to wait for the tooltip before clicking it:  ![Teleporter to Echelon or out of Sanctus Seru](images/SanctusSeruTeleporterEchelon.jpg)
 
-Sanctus Seru: The Fading Arches [Raid]  teleporter is at -244, 80, 63
+Sanctus Seru: The Fading Arches [Raid]  teleporter is at {{waypoint -244, 80, 63}}
 
 ### Instances
 

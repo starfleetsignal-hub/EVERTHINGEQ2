@@ -30,4 +30,4 @@ If your doing Fighter Epic 2.0 and need to get this guy to spawn start doing the
 
 1. Starting with [[Orolr Throatgrinder]]
 1. Keep doing quests and advance the timeline.
-1. Talk with [[Tragg Sharptongue]] and do his quests until [[Rise of Thrael'Gorr]].  The Grand Oracle Hoop'Ak will show up now in the mountain camp in Eastern Wastes at ( 344, -63, 2658 ) .
+1. Talk with [[Tragg Sharptongue]] and do his quests until [[Rise of Thrael'Gorr]].  The Grand Oracle Hoop'Ak will show up now in the mountain camp in Eastern Wastes at {{waypoint 344, -63, 2658}} .

@@ -44,7 +44,7 @@ This quest is part 4 of an 11-quest series in the Bloodline Chronicles Timeline.
 1. Right-click on the torch near Dirin Thilae and move it closer to him while he reads. The torch will despawn then respawn in the same spot in about two minutes, in case you are doing this in a group.
 1. Enter [[The Tombs of Night: Retribution]].
 1. Spawn and kill [[Dryxl T'Rath]] by running over the red pentagram {{waypoint -89, -37, 90}}. Once killed, his spirit will appear and float towards the crypt entrance above the pit in which the pentagram appeared.
-1. Exit the instance at (117, -1, 126 )
+1. Exit the instance at {{waypoint 117, -1, 126}}
 1. Return to Dirin Thilae.
 
 ## Rewards

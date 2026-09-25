@@ -34,7 +34,7 @@ source:
 
 ## Notes
 
-From the Great Library go to the North Stacks and ( 710, 412, -368 ) to access the portal.
+From the Great Library go to the North Stacks and {{waypoint 710, 412, -368}} to access the portal.
 
 Crosswinds Isle at {{waypoint 352, 181, -261}} has portals to the four main islands and is useful for saving some travel time
 

@@ -23,7 +23,7 @@ source:
 
 ## Island Access
 
-- (144, 230, 788): [[Gazer Isle]], [[Vultak Scavenging Site]]
+- {{waypoint 144, 230, 788}}: [[Gazer Isle]], [[Vultak Scavenging Site]]
 
 ## Monsters
 

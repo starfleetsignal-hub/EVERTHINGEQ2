@@ -6,7 +6,7 @@ difficulty: Epic
 zone: '[[Kunzar Jungle]]'
 timeline: '[[Shadowknight Epic Weapon Timeline]]'
 journal_category: Signature
-starts: Speak to[[Atria X'aphon]] in [[Kunzar Jungle]] at [[City of Jinisk]] (647, 36, -146)
+starts: Speak to[[Atria X'aphon]] in [[Kunzar Jungle]] at [[City of Jinisk]] {{waypoint 647, 36, -146}}
 prerequisite: '[[They Have Searched an Age for a Dark Champion...]]'
 next_quest: '[[Epic Conversion Timeline]]'
 added_in: LU42

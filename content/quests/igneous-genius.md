@@ -34,7 +34,7 @@ source:
 ## Steps
 
 1. Search for igneous rocks. These are black piles of rock. You only need one.
-1. Known locations are:  {{waypoint 812, -351, 927}} or {{waypoint 774, -358, 903}} or {{waypoint 653.73, -376.41, 982.91}} or ( 748, -352, 916 )
+1. Known locations are:  {{waypoint 812, -351, 927}} or {{waypoint 774, -358, 903}} or {{waypoint 653.73, -376.41, 982.91}} or {{waypoint 748, -352, 916}}
 1. Return to [[Elnia Felmerai]]
 
 ## Rewards

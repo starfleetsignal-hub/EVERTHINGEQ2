@@ -7,7 +7,7 @@ item_level: '0'
 flags: no-value no-destroy
 description: Warning! Once unpacked, this item may no longer be traded.
 contains: '- [[Mercenary: Tarsil, the Pure]]'
-obtained_from: '# mercenary can be found at loc 5,180,256'
+obtained_from: '# mercenary can be found at {{waypoint 5, 180, 256}}'
 item_link: '\aITEM 230877815 -10348533:Tradeable Mercenary: Tarsil the Pure\/a'
 aliases:
 - 'Tradable Mercenary: Tarsil the Pure'

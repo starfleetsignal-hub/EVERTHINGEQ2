@@ -36,7 +36,7 @@ This quest is repeatable.
 ## Steps
 
 1. Search the [[Riven Plateau]] and [[Waning Forest]] for the items needed by Solnais
-   - Harvest 4 berries in the forest.  The berry bushes grow around the roots of the trees, but their blue-purple leaves can make them hard to spot. Some locations are-3302.91, -759.57, -232.91or -3409.63, -757.14, -284.45or -3401, -765, -108
+   - Harvest 4 berries in the forest.  The berry bushes grow around the roots of the trees, but their blue-purple leaves can make them hard to spot. Some locations are{{waypoint -3302.91, -759.57, -232.91}}or {{waypoint -3409.63, -757.14, -284.45}}or {{waypoint -3401, -765, -108}}
    - Kill 8 wolves for their meat.  Any of the corrupted wolves in the area update.
    - Harvest 4 mourn beetles.  The beetles are bright silver and marked with silver sparkles.  They're also found around the roots of trees.
 

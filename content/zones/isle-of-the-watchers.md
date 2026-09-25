@@ -25,7 +25,7 @@ This island floats above all the others, hence its name. Habited by the Blacktal
 
 ## Island Access
 
-- (122, 472, -410): [[Isle of Aversion]], [[Isle of Desolation]]
+- {{waypoint 122, 472, -410}}: [[Isle of Aversion]], [[Isle of Desolation]]
 
 ## Monsters
 

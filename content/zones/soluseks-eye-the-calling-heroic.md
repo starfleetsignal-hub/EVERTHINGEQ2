@@ -79,7 +79,7 @@ This zone has following sections:
    - There are adds like [[A swooping pterodon]], [[An invading pterodon]], [[An invading remnant]], [[An invading Sathrian]], [[An invading echo]] etc. join the fight with e.g. Narrative "Hungry pterodon begin to swoop down from above".
    - Strategies
      - Tank'n spank in front of a wall.
-1. <hr/>Defeat [[Dread Lady Vezarra (Heroic)]] (3rd encounter) at -283.11 -40.10 -135.02 356.96 0.00 0.00
+1. <hr/>Defeat [[Dread Lady Vezarra (Heroic)]] (3rd encounter) at {{waypoint -283.11, -40.10, -135.02}}
    - Speaks Sathirian language
    - Effects:
      - **Obsidian Guard I** (Resolve 3520 etc.)
@@ -137,7 +137,7 @@ This zone has following sections:
      - GUI-Massage (Narrative) "Korvisaur is about to loose an earsplitting roar!": **Earsplitting Roar**: Based on the range to [[Korvisaur (Heroic)]] everybody will get damage (closer: more far away less damage, max range 25m). Additionally it reduces 50% of your base avoidance. So you can joust it an go at 26m+ distance...
    - Strategies
      - Defeat first [[Korvisaur (Heroic)]] (placing it into the white target-circles to decrease its defense), then [[Lord Commander Izeroth (Heroic)]] (to get rid of the booms) and last [[Beastmaster Xerin (Heroic)]].
-1. <hr/>Defeat [[Pyreduke Surtaug (Heroic)]] at -29.49 -336.82 5.06 40.80 0.00 0.00 (7th encounter)![Pryreduke Surtaug](images/Pyreduke_Surtaug_%28Heroic%29.jpg)<br>the first more "challenging" named...
+1. <hr/>Defeat [[Pyreduke Surtaug (Heroic)]] at {{waypoint -29.49, -336.82, 5.06}} (7th encounter)![Pryreduke Surtaug](images/Pyreduke_Surtaug_%28Heroic%29.jpg)<br>the first more "challenging" named...
    - Effects:
      - [[Obsidian Guard II]] (Resolve 3630 etc)
      - [[Obsidian Defense]] (first 20 attacks ignored etc.)
@@ -214,7 +214,7 @@ This zone has following sections:
    - Strategies
      - Everybody beside the MT stands at leat at 16m to avoid the incomming damage of [[Fist of Ro]]. MT stands in one red cricle, the rest of the group in the other. Burn named, burn adds, get blue adds (if not enough dps). done.
 1. <hr>Use the next half-disk-elevator at {{waypoint -315, -594, 193}} **up(!)** to go further deeper into the instance.<br>**Warning**: Behind the next door, there a a lot of mob-groups. Because of the expert-buff this can become very critical.
-1. <hr>Defeat [[Ayquini the Firemind (Heroic)]] -281.94 -516.39 99.12 49.41 0.00 0.00 and it's sidekick [[Scorion (Heroic)]] (11th encounter)
+1. <hr>Defeat [[Ayquini the Firemind (Heroic)]] {{waypoint -281.94, -516.39, 99.12}} and it's sidekick [[Scorion (Heroic)]] (11th encounter)
    - **WARNING**: Clear the next trashmobs on your way deeper into the zone to prevent them to join the fight (AE spells can hit them trough the wall)
    - **Note**:First clear the room of all adds to bypass the expert-effect...
    - Effects:

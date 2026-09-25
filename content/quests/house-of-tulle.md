@@ -40,7 +40,7 @@ This quest is repeatable.
      - [[A blood stinger|blood stingers]] around {{waypoint -327.19, 14.32, -204.39}} at [[Nightmare Rise]].
    - Gather 6 of the following *random from questgiver*![Discordant Diamond, Nihilectrum](images/Updatednihilectrum.png)
      - **Discordant Diamonds** around {{waypoint -193.99, 14.37, 267.71}} in the [[District of Night]] section of [[Forlorn Gist]]
-       - -127.10, 17.49 278.48
+       - {{waypoint -127.10, 17.49, 278.48}}
        - {{waypoint -205.62, 15.66, 283.41}}
        - {{waypoint -182.40, 16.81, 259.20}}
        - {{waypoint -126.60, 18.65, 370.17}}

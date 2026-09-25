@@ -47,7 +47,7 @@ The herald of Terris-Thule has informed me that summoning an Avatar requires the
    - {{waypoint 538.55, -33.00, 197.44}} east of [[The Tower of Bone]]
    - {{waypoint -447, -49, -26}} next to [[Innoruuk's Scar]] bridge
    - {{waypoint 66, -36, -196}} near sullian fairy ring
-   - (533, -40, -167)
+   - {{waypoint 533, -40, -167}}
 1. Return to the [[Herald of the Dream Scorcher]] {{waypoint -33, -37, 265}} in [[Darklight Wood]]
 
 ## Rewards

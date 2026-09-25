@@ -6,7 +6,7 @@ race: Evil Eye
 level: 39-41
 difficulty: Heroic ^^^
 zone: '[[Runnyeye]]'
-location: Throughout the southwest part of the zone including ( 181.02, -15.95, -36.19 ) and at ( 204.10, -15.96, 131.75 )
+location: Throughout the southwest part of the zone including {{waypoint 181.02, -15.95, -36.19}} and at {{waypoint 204.10, -15.96, 131.75}}
 aggressive: true
 social: true
 added_in: Shattered Lands

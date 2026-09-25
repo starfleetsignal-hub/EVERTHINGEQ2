@@ -26,6 +26,6 @@ source:
 
 ## Lost Fragment
 
-First Fragment ( -190,-745,-225 )
-Second Fragment ( -147,-745,-101 )
-Third Fragment ( -5,-745,-346 )
+First Fragment {{waypoint -190, -745, -225}}
+Second Fragment {{waypoint -147, -745, -101}}
+Third Fragment {{waypoint -5, -745, -346}}

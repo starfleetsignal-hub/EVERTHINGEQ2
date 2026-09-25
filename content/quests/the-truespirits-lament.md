@@ -62,7 +62,7 @@ This quest is pre-cursor event to the introduction of the Channeler class at the
    1. Leave the spiritual wound then talk to Daleen again
 1. Find the [[A broken arrow|broken arrow]] in the underwater Sirens' Cave in [[Butcherblock Mountains]]. For travel, go to the docks. The cave entrance is on the triple-mass island, just north of [[Sigan's Peril]] in the <nowiki/>harbor - it's down a hole in the ground at {{waypoint 736.17, 12.39, -257.84}}.
    - *Note: Although the mobs that you fight will scale with your level, please note that the mobs in Butcherblock will not, like the level 25 sirens in the underwater cave.  Look out for a big concrete-like block in the middle of the small cave, which is click-able {{waypoint 731, -7, -313}}.*
-1. Return to [[Yeomal Fallenecho]] or [[Izius J'lok]], to have the arrow repaired. The exit from the underwater cave is ( 732, 12, -255 )
+1. Return to [[Yeomal Fallenecho]] or [[Izius J'lok]], to have the arrow repaired. The exit from the underwater cave is {{waypoint 732, 12, -255}}
 1. Return to Daleen in [[Sellok's Broken Hideout|Sellok's Hideout]] {{waypoint 1052, -0, -338}}. in the Nektulos Forest, at [[Port Naythex]], just north along the coast from the docks.  ![Pick up the arrow ...](images/The_Truespirits'_Lament_quest_-_Arrow.jpg)
 1. Enter the spirit realm wound
    1. Approach [[Ral-Gatha]] and he will turn agro.

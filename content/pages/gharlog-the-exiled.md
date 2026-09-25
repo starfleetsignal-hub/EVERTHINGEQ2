@@ -14,4 +14,4 @@ source:
 
 Available for hire for accounts who own Collector's, Premium or Friends & Family editions of Scars of Destructions.
 
-Sodden Archipelago at /way 160, 133, 103
+Sodden Archipelago at {{waypoint 160, 133, 103}}

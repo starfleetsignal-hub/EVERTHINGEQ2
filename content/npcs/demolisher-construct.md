@@ -35,8 +35,8 @@ source:
 
 ## Notes
 
-The Ancient Mercenaries have bonuses when used within Skyshrine. To hire an Ancient Mercenary, you must be able to go to Skyshrine: The Forbidden City of Dracur via the portal in Skyshrine at ( -33, 0, -9 )
-/waypoint -33, 0, -9 (10,000 Claws of Veeshan faction required).
+The Ancient Mercenaries have bonuses when used within Skyshrine. To hire an Ancient Mercenary, you must be able to go to Skyshrine: The Forbidden City of Dracur via the portal in Skyshrine at {{waypoint -33, 0, -9}}
+{{waypoint -33, 0, -9}} (10,000 Claws of Veeshan faction required).
 
 *Note: In order to speak/hire them it requires you to have completed To Speak as a Dragon quest.*
 

@@ -37,7 +37,7 @@ source:
 
 ![a faecia herb](images/A_faeicia_herb.jpg)
 
-1. Harvest 4 herbs (a faeicia leaf herb) for the Matron. These are found to the west of [[The Nursery]] . Around (-75.61, -34.65, -826.22)
+1. Harvest 4 herbs (a faeicia leaf herb) for the Matron. These are found to the west of [[The Nursery]] . Around {{waypoint -75.61, -34.65, -826.22}}
 1. Return to the [[Matron of the Nursery]] for your reward.
 
 ## Rewards

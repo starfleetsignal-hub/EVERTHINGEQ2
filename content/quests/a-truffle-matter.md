@@ -39,7 +39,7 @@ source:
    - Mouth of Destruction - path to named {{waypoint -80, -61, -363}}
    - Near [[Froppit the Everliving]] {{waypoint -61, -53, -240}}
    - Hall of Usurpation - bottom level {{waypoint 158, -64, -262}}
-   - By Lord Kurpep {{waypoint 131, -67, -405}}or (112, -68, -371)
+   - By Lord Kurpep {{waypoint 131, -67, -405}}or {{waypoint 112, -68, -371}}
 1. Return to [[Hopson Goodsoup]]
 
 ## Rewards

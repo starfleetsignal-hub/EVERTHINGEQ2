@@ -54,7 +54,7 @@ Jarsath Wastes is the remnant of the [[EverQuest|EQ1]] zones of [The Overthere](
 
 - [[Mariner's Bell]] is at [[Danak Shipyards]]: {{waypoint -311, -46, 1405}}
 - [[Sokokar]] flight paths exist for all major locations.
-- Access to [[Obulus Frontier]] is through a [[Tunnel to Obulus Frontier|tunnel]]: -1,277 -16 -716.
+- Access to [[Obulus Frontier]] is through a [[Tunnel to Obulus Frontier|tunnel]]: {{waypoint -1277, -16, -716}}.
   - You will zone into the [[Crusader's Cave]], where you will be attacked on sight unless you have sufficient faction with the [[Crusaders of Greenmist (Faction)|Crusaders of Greenmist]] or an active [[Crusaders of Greenmist Disguise]].
 - For [[Chains of Eternity]] zones. See [[Clessi Hergravis]] and [[Brind]]. Those 2 NPC shares the same teleport ability and location. Hail them to teleport
 

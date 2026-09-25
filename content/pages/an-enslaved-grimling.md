@@ -10,4 +10,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Found in the Umbral Plains ( 20.89, 148.63, 463.53 ) scattered all over the area, and its a rondom update.
+Found in the Umbral Plains {{waypoint 20.89, 148.63, 463.53}} scattered all over the area, and its a rondom update.

@@ -49,7 +49,7 @@ Do not choose this quest lightly, especially if the guards' level is not gray to
 ## Steps
 
 1. Head to [[The Graveyard]] entrance from the [[The Commonlands]] {{waypoint -1390, -86, -331}}. From there take the newly excavated entrance to [[Longshadow Alley]] {{waypoint -125, -17, 73}}. Immediately enter the [[The Thieves' Way]]. Once in the Thieves' Way head East to the room with the menders union Local 858. Take the door on the southeast. This room gives access to the four main freeport zones.
-   - **NOTE:** When I zoned into The Graveyard, the entrance to Longshadow Alley was closed to me. I had to zone back to the Commonlands and enter The Thieves' Way at (  -1252, -84, 120 ). In The Thieves' Way I went to the West Freeport Grate ( -101, 0, 61 ).
+   - **NOTE:** When I zoned into The Graveyard, the entrance to Longshadow Alley was closed to me. I had to zone back to the Commonlands and enter The Thieves' Way at {{waypoint -1252, -84, 120}}. In The Thieves' Way I went to the West Freeport Grate {{waypoint -101, 0, 61}}.
 1. Go to [[West Freeport]], The Coalition Crafter's Association is to the south east, and zone into a special tradeskill instance, called [[The Coalition Factory]], behind the [[The Coalition of Tradesfolke]]. {{waypoint 24.48, -19.24, 107.19}} (There are two instances behind [[The Coalition of Tradesfolke]], the southern trapdoor is the correct one.)
 1. Manipulate the clipboards on the wall for updates.
 1. Return to [[Gil McMartin]].

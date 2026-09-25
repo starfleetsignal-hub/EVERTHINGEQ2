@@ -44,16 +44,16 @@ Buy [[Announcement: Pops' Raidventure Tours]] - 250 Bazaar Crowns ( Note- She Se
 
 1. Fly To Opposite Side Of Zone In To Raid Zone In (21.82, 116.78, -197.25.) ( One Person Can Pull Whole Raid In!)
 1. This Will Not Update Until You Kill Final Boss!!!!
-1. Zone In click on Pops To The right of Zone in (23.28, 115.82, -209.80)
+1. Zone In click on Pops To The right of Zone in {{waypoint 23.28, 115.82, -209.80}}
 1. Run Up The ramp And Talk To Pops again : (-44.60, 142.30, -260.22.)
 1. Take Dirgeible to First Mob, Talk To Pops Before & After Defeating 1st Named - The Ancient Burrower Beast
-1. take Dirgeible at (-311.14, -129.04, -282.02) When You Land Head North To 2nd Named- Lhurzz (514.43, 86.87, -239.92.)
+1. take Dirgeible at {{waypoint -311.14, -129.04, -282.02}} When You Land Head North To 2nd Named- Lhurzz (514.43, 86.87, -239.92.)
 1. Quest Should Say " It Appears Pops Is Now Stuck And Worse, He Lost His Charts"
    - (Look For His Charts Basically)
 1. Kill and Defeat Lhurzz Then retrieve Pops' Navagation Charts Found Near The Rocks (529.91, 87.33, -231.78.)
 1. Take Dirgeible At (415.30, 64.19, -220.44.) To Limestone Forest Run Up The Ramp To Pops' Speak To Him
 1. Take Zipline To 3rd Named, Defeat The 3rd Named Mob Then Talk To Pops' Around The Corner Near Dirgeible
-1. Take Dirgeible At (691.65, 169.73, 477.28) To Next Area To Find Pops' (-425.10, 250.47, 78.91.)
+1. Take Dirgeible At {{waypoint 691.65, 169.73, 477.28}} To Next Area To Find Pops' (-425.10, 250.47, 78.91.)
 1. Talk To Pops' He Will be in Chicken Form!!! Attack and Defeat 4th Named -
    - T2 Grieg Veneficus (-309.78, 256.59, 161.97.)
 

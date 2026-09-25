@@ -32,7 +32,7 @@ source:
 
 ## Steps
 
-1. Slay [[A Crushbone centurion (Greater Faydark)|Crushbone centurions]] in the Crushbone orc area around {{waypoint -941, 94, 87}} to {{waypoint -864, 100, -51}} and inside the tents until you find 10 belts. (They can also be found outside the castle as a rarer spawn). The belts are random drops. They're a lot easier to find around -942.99 93.78 -65.05 259.56 0.00 0.00.
+1. Slay [[A Crushbone centurion (Greater Faydark)|Crushbone centurions]] in the Crushbone orc area around {{waypoint -941, 94, 87}} to {{waypoint -864, 100, -51}} and inside the tents until you find 10 belts. (They can also be found outside the castle as a rarer spawn). The belts are random drops. They're a lot easier to find around {{waypoint -942.99, 93.78, -65.05}}.
 1. Return to [[Elonca Nusback]]
 
 ## Rewards

@@ -29,7 +29,7 @@ Befallen is in the southwest corner of the Commonlands, near the [[Hidden Canyon
 
 1. [[Putting a Curse to Rest]] (81)
 
-- [[Uncovering the Truth]] (82) - *examine an ancient sheet-iron shield at 129, -68, -181*
+- [[Uncovering the Truth]] (82) - *examine an ancient sheet-iron shield at {{waypoint 129, -68, -181}}*
 
 ## [[Befallen: Halls of the Forsaken]]
 
@@ -37,7 +37,7 @@ Befallen is in the southwest corner of the Commonlands, near the [[Hidden Canyon
 
 1. [[A Knight's Word]] (83)
 
-- [[The Warning Remains]] (82) - *examine skeletal remains at 5, 0, 26*
+- [[The Warning Remains]] (82) - *examine skeletal remains at {{waypoint 5, 0, 26}}*
 
 ## [[Befallen: Necrotic Asylum]]
 

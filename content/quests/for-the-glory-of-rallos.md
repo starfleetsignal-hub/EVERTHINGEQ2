@@ -36,7 +36,7 @@ source:
 
 ## Steps
 
-- Tychus is at -555.8, 153.05, -513.14 on Origins
+- Tychus is at {{waypoint -555.8, 153.05, -513.14}} on Origins
 1. Speak with [[Gargnarg]] in [[Clan Crushbone]] within [[Greater Faydark]]. {{waypoint -1170, 115, 124}}
 1. Retrieve the totem from the left-most cave behind [[Crushbone Keep]]. Entrance to the cave is at {{waypoint -1450, -120, 150}} and the totem is at {{waypoint -1490, 110, 34}}.
 1. Return to Tychus Zeksworn.

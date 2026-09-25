@@ -37,7 +37,7 @@ Defile statue at -3,439, 66, -144 .  (way up the ramps) This disables the lava f
 
 Go back down to the larger ramp and now you can go beyond the lava flow. Now generally stay left.
 
-Next named is the High Priest (quest mob) at -3397, 12, -81 , he's actually a tank but summons lava creatures that must be killed first, or you will do a lot of dodging of their breath weapons.  They are immobile while casting breath weapon (frontal), so just move and aoe a lot if you can to damage the high priest.
+Next named is the High Priest (quest mob) at {{waypoint -3397, 12, -81}} , he's actually a tank but summons lava creatures that must be killed first, or you will do a lot of dodging of their breath weapons.  They are immobile while casting breath weapon (frontal), so just move and aoe a lot if you can to damage the high priest.
 
 At "Throne of Clotl'Thoa" notice the path to a platform on your right, -3,251, 2, 7  it is farthest from the spawn point for the adds and the adds walk slowly.  That's where you will pull the named (quest mob), possibly all the way to the platform.  Clear the worshippers and then pull the named with ranged and keep pulling away until he is far far away from his lava pit which buffs him.  However pulling him away from the lava pit will give him 75% damage reduction as his skin cools and hardens.
 

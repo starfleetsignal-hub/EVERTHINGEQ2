@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[Moors of Ykesha]]'
 timeline: '[[Moors of Ykesha Timeline]]'
 journal_category: The Moors of Ykesha
-starts: Hail [[Humphsh]]( -784, -917, -386 ) in [[Tillage Patch]]
+starts: Hail [[Humphsh]]{{waypoint -784, -917, -386}} in [[Tillage Patch]]
 prerequisite: '[[The Case of the Missing Fungus]]'
 added_in: The Shadow Odyssey
 categories:

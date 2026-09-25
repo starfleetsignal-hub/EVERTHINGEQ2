@@ -7,7 +7,7 @@ zone: Tenebrous Tangle
 levelrange: 55-70
 aclouds: '[[Bixie Isle]], [[Gazer Isle]], [[Temple Grounds]]'
 dclouds: '[[Bixie Isle]], [[Gazer Isle]], [[Temple Grounds]]'
-spires: '[[The Bonemire]] at (420, 253, -746)'
+spires: '[[The Bonemire]] at {{waypoint 420, 253, -746}}'
 aliases:
 - Ravasect Incursion
 categories:
@@ -26,8 +26,8 @@ source:
 
 ## Destinations
 
-- [[Bixie Isle]], [[Gazer Isle]], [[Temple Grounds]] at (358, 248, -761)
-- [[The Bonemire]] at (420, 253, -746)
+- [[Bixie Isle]], [[Gazer Isle]], [[Temple Grounds]] at {{waypoint 358, 248, -761}}
+- [[The Bonemire]] at {{waypoint 420, 253, -746}}
 
 ## Monsters
 

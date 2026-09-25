@@ -26,7 +26,7 @@ source:
 
 ## Locations
 
-- Found around: 74 -2 1,245, {{waypoint 184, 1, 1330}} and {{waypoint 406, 12, -509}} or  {{waypoint 741.26, 1.69, -380.59}}. They share spawn with a mature hawk, so clear any of these to allow more respawns.
+- Found around: {{waypoint 74, -2, 1245}}, {{waypoint 184, 1, 1330}} and {{waypoint 406, 12, -509}} or  {{waypoint 741.26, 1.69, -380.59}}. They share spawn with a mature hawk, so clear any of these to allow more respawns.
   - Also recommend when you see a group of 3-4 mature antelopes and young antelopes, you kill the mature ones and run from the others. This will cause the mature ones to respawn quicker.
 - Wanders in the Griffon areas, at the north end near [[The Mirror]], and at the south end, just near the entrance to [[Deadview Pass]].
 - Some found by [[Qeynos Tower 2]].

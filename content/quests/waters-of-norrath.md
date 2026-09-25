@@ -50,13 +50,13 @@ expansion_source: patch
    - Stop the Bloodgill ritual. Kill Carnigee (98^^^) at {{waypoint 90, 6, -95}}.
 1. Return to [[Daleen Blackwood]]
 1. Return to the [[A Spirit of Mists|Spirit of Mists]].
-1. Find the second spirit, [[A Spirit of Ice]] -1,028 -235 2,588. - "I feel cold. I shiver when she speaks about the strange playful creatures she sees on the shore, under the shadow of an oppressive castle of giants. The creatures do not speak to her, but they feel her frozen embrace. ([[Eastern Wastes]] - long respawn timer).
+1. Find the second spirit, [[A Spirit of Ice]] {{waypoint -1028, -235, 2588}}. - "I feel cold. I shiver when she speaks about the strange playful creatures she sees on the shore, under the shadow of an oppressive castle of giants. The creatures do not speak to her, but they feel her frozen embrace. ([[Eastern Wastes]] - long respawn timer).
   - Note: One MUST have a flying mount, as there is NO way to reach the cliff top else-wise.
-1. Find an othmir named [[Fintin]] -1,166 -537 2,802.
-1. Find the distressed elementals -1,035 -539 3,950. This is a ring event with 3 [[Agitated water sylph|agitated water sylphs]], 3 [[Agitated ice sylph|agitated ice sylphs]], and a [[Furious water sylph]].
+1. Find an othmir named [[Fintin]] {{waypoint -1166, -537, 2802}}.
+1. Find the distressed elementals {{waypoint -1035, -539, 3950}}. This is a ring event with 3 [[Agitated water sylph|agitated water sylphs]], 3 [[Agitated ice sylph|agitated ice sylphs]], and a [[Furious water sylph]].
 1. Return to [[Fintin]].
-1. Find and speak to a powerful ice elemental, [[Water's Rage]] near -1,035 -539 3,950.
-1. Eliminate the threat to the elementals by destroying the Tavalans and [[Portal of Fear]] -242 -555 4,029.
+1. Find and speak to a powerful ice elemental, [[Water's Rage]] near {{waypoint -1035, -539, 3950}}.
+1. Eliminate the threat to the elementals by destroying the Tavalans and [[Portal of Fear]] {{waypoint -242, -555, 4029}}.
    - *Note: You may have to kill the guards and the portal three or four times before the quest updates. A bug is that if the quest updates for you, the enemies and the portal vanish and you cannot help any group members who have not received an update.*
 1. Return to [[Water's Rage]].
 1. Return to the [[A Spirit of Ice|Spirit of Ice]].
@@ -66,12 +66,12 @@ expansion_source: patch
    - *Note: Tracking ability or a scroll of tracking is invaluable.*
    - *Note: The artifact at {{waypoint 880, 2, 168}} respawned nearly instantly over and over. This is probably a bug.
    - *Note: Another bug is that if you take the 8th artifact before the 8th mob is dead combat will continue against an invisible enemy until you can outrun the aggro or die.*
-   - *other loc for artifacts: ( 618, -7, -4 ) ( 660, 13, -157) (534, 9, -156 ) ( 582, 15, -165 )*
+   - *other loc for artifacts: {{waypoint 618, -7, -4}} {{waypoint 660, 13, -157}} {{waypoint 534, 9, -156}} {{waypoint 582, 15, -165}}*
 1. Return to the [[A Spirit of the Deep|Spirit of the Deep]].
 1. Find and stop the Tavalan's machinations by killing 4 [[Tavalan ritualists]] in the Tidesylph cave {{waypoint 736, 21, -257}}. (Ungrouped and not really social.)(They are in a side chamber inside the cave. You may have to wait a few minutes for them to respawn if they are not up.)
 1. Speak to the 4 [[Chained echoes]] to free them.
 1. Return to the [[A Spirit of the Deep|Spirit of the Deep]].
-1. Return to [[Santii]] in [[Cobalt Scar]] 5,560 -1,092 235.
+1. Return to [[Santii]] in [[Cobalt Scar]] {{waypoint 5560, -1092, 235}}.
    - Santii will attack after you speak to her.
    - This is designed as a group encounter. Beware of knockbacks and mezzes!
    - I'd say the mana drain is by far the worse part of this encounter.  Prepare for it.  It's called clinging mist.

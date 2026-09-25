@@ -24,7 +24,7 @@ Merchant
 
 |  |  |  |
 |---|---|---|
-| Status Merchant | Charifa | ( 119, -60, 523 ) |
+| Status Merchant | Charifa | {{waypoint 119, -60, 523}} |
 
 Item Costs: by tier
 

@@ -3,7 +3,7 @@ title: Camp Cobalt
 type: poi
 expansion: Echoes of Faydwer
 zone: '[[Steamfont Mountains]]'
-location: (-388, 102, 1040)
+location: '{{waypoint -388, 102, 1040}}'
 discovery_xp: 'Yes'
 added_in: Echoes of Faydwer
 image: images/Camp_Cobalt.png

@@ -37,7 +37,7 @@ source:
 1. [[Elon Gallwin]] will randomly offer you one of the following tasks:
    - Gather Rujarkian relics in [[The Clefts of Rujark]].
    - Slay [[A Steelslave vanquisher|Steelslave vanquishers]] in [[The Clefts of Rujark]].
-   - Gather Rin'Dal tablets in [[The Living Tombs]]- Find 10 Rin'Dal tablets in [[Priestess' Court]] ( around location : -308.32, 28.82, 65.68  ).
+   - Gather Rin'Dal tablets in [[The Living Tombs]]- Find 10 Rin'Dal tablets in [[Priestess' Court]] ( around location : {{waypoint -308.32, 28.82, 65.68}}  ).
    - Slay Rin'Dal alchemists in [[The Living Tombs]].
 1. Return to [[Elon Gallwin]] in the [[Academy of Arcane Science]]}
 

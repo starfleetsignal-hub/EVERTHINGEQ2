@@ -7,7 +7,7 @@ level: Scales
 difficulty: Solo
 zone: '[[East Freeport]]'
 journal_category: Betrayal
-starts: Talk with Ambassador Brutus (loc -79, -36, -5 )
+starts: Talk with Ambassador Brutus {{waypoint -79, -36, -5}}
 categories:
 - Betrayal Quests
 - East Freeport Quests

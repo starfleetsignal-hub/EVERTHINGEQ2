@@ -5,7 +5,7 @@ expansion: Shattered Lands
 purpose: Quest
 race: Erudite
 zone: '[[Stonestair Byway]]'
-location: Next to the mailbox, outside the inn (2, 0, -36)
+location: Next to the mailbox, outside the inn {{waypoint 2, 0, -36}}
 categories:
 - Erudite
 - NPC pages that need EQ2MAP uid

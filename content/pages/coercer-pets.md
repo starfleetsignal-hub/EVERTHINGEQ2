@@ -66,7 +66,7 @@ See Also: [[Coercer Pet Strategies]] and strategies listed in [the SOE Forums](h
 
 | Name | Class | Level | Notes | Found At |
 |---|---|---|---|---|
-| [[A fleshless guard]] | Warlock | 14 | Nukes for ~70, melees for ~22 | Ruins of Verelisk (1860, 51, 264) |
+| [[A fleshless guard]] | Warlock | 14 | Nukes for ~70, melees for ~22 | Ruins of Verelisk {{waypoint 1860, 51, 264}} |
 | [[A shorecaller guardian]] | Guardian | 16 | melee for ~40, rarely takes hits | 1723, 5, 649 |
 | [[A Chrykori guard]] | Berserker | 10 | melee for ~10, best pet until Pyrinn's Roost | -314.88, 4.62, 3181, at Chrykori Village |
 
@@ -336,7 +336,7 @@ See Also: [[Coercer Pet Strategies]] and strategies listed in [the SOE Forums](h
 
 | Name | Class | Level | Notes | Found At |
 |---|---|---|---|---|
-| [[A cabalist apprentice]] | Warlock? | 69 | Nukes for 4kish, DoTs | SE of entrance, good starter pet.  near 192, 15, 1417 in the hills |
+| [[A cabalist apprentice]] | Warlock? | 69 | Nukes for 4kish, DoTs | SE of entrance, good starter pet.  near {{waypoint 192, 15, 1417}} in the hills |
 | [[A Sarnshak arcanaught]] | Warlock | 73-74 | Nukes for 4000-7000 poison | North of [[Riliss (POI)\|Riliss]] near -987 -203 -971 |
 | [[A Bellywhumper Dirtsniffer]] | Warlock? | 74-75 | Nukes for up to 6000 | Bellywhumper Burrows |
 | [[A drolvarg mercenary]] | Berserker? | 74-76 | Huge damage and takes alot of hits | [[Riliss (POI)\|Riliss]]<br> |

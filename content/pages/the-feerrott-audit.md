@@ -86,7 +86,7 @@ This section is an aid to contributors seeking to add all pages for this zone, a
 
 #### [[The Sentinel Stones]]
 
-- [[Forest creep]] (38vv-40vv)(40 Heroic) solo near -682,6,693
+- [[Forest creep]] (38vv-40vv)(40 Heroic) solo near {{waypoint -682, 6, 693}}
 
 #### [[The Tower of Vul]]
 

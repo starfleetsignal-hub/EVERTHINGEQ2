@@ -10,5 +10,5 @@ source:
   license: CC BY-SA 3.0
 ---
 
-![Zleerty is a Bartender in Karuupa Jungle. Loc (722, 138, -656)](images/Zleerty.png)
-Zleerty is a Bartender in [[Karuupa Jungle]]. She will set your [[Dhalgar's Last Call]] to her location. A Benefit which allows you to skip zoning into [[Svarni Expanse]] first. Loc: (722, 138, -656)
+![Zleerty is a Bartender in Karuupa Jungle. Loc {{waypoint 722, 138, -656}}](images/Zleerty.png)
+Zleerty is a Bartender in [[Karuupa Jungle]]. She will set your [[Dhalgar's Last Call]] to her location. A Benefit which allows you to skip zoning into [[Svarni Expanse]] first. Loc: {{waypoint 722, 138, -656}}

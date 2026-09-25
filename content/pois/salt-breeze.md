@@ -29,7 +29,7 @@ source:
 
 Osh had had a vision that Field Marshal Vishra is in need of my help. I should return to Salt Breeze camp to contact him.
 
-- Travel to this location is now possible by hailing a [[Griffin Tower|a griffin tamer NPC]], simply named New Combine Flight Master, on the docks outside of [[Thurgadin, City of the Coldain]] at 1,277 -540 304, by using a [[Globe of Swift Travel]], or [[Ulteran Spires]] **without** the previously required quest unlocks.
+- Travel to this location is now possible by hailing a [[Griffin Tower|a griffin tamer NPC]], simply named New Combine Flight Master, on the docks outside of [[Thurgadin, City of the Coldain]] at {{waypoint 1277, -540, 304}}, by using a [[Globe of Swift Travel]], or [[Ulteran Spires]] **without** the previously required quest unlocks.
 
 ## Related Quests
 

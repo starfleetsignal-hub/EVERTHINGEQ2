@@ -33,6 +33,6 @@ expansion: Blood of Luclin
 expansion_source: source
 ---
 
-Sold by Brindian Fordel in Aurelian Coast at 123, 88, -441 for 50 Spectral Marks of the Haven and 1g20s
+Sold by Brindian Fordel in Aurelian Coast at {{waypoint 123, 88, -441}} for 50 Spectral Marks of the Haven and 1g20s
 
 It is freely tradeable.

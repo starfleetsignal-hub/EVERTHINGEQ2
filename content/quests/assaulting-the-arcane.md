@@ -31,7 +31,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Kill [[Arch-Necranaut Yolth]] (350.95, -1.41, -26.47) in [[Lyceum of the Recondite (Solo)]]
+1. Kill [[Arch-Necranaut Yolth]] {{waypoint 350.95, -1.41, -26.47}} in [[Lyceum of the Recondite (Solo)]]
    - *Note: To spawn him you need to kill all other nameds first, [[Temagore]], [[Lektus]], [[Ovilas]], [[Necranaut Dolk]]*
 1. return to [[Cek'Arctor]]
 

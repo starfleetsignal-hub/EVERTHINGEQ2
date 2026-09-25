@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The City of Freeport]]'
 timeline: '[[Armor Quest Timeline]]'
 journal_category: The City of Freeport
-starts: Talk to [[Kirsteh the Witch]] inside [[The Freeport Registrar]] (-135.75, -37.77, 50.22)
+starts: Talk to [[Kirsteh the Witch]] inside [[The Freeport Registrar]] {{waypoint -135.75, -37.77, 50.22}}
 next_quest: '[[Kirsteh''s Components - Part II]]'
 added_in: LU62
 achievement_xp: true

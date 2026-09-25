@@ -7,7 +7,7 @@ race: Reishi
 level: '122'
 difficulty: Heroic ^^^
 zone: '[[Aurelian Coast: Reishi Rumble (Solo)]]'
-location: Behind Spore Wall far back on ledge. (352, 43, 559)
+location: Behind Spore Wall far back on ledge. {{waypoint 352, 43, 559}}
 drops:
 - '[[Eye of Ghest]]'
 - '[[Reishi Flesh Collar]]'

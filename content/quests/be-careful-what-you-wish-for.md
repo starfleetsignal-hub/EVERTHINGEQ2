@@ -45,9 +45,9 @@ source:
 ## Steps
 
 1. Go to [[Maj'Dul]] and search for a red pillow that can spawn under *any* merchant tent.
-   - Possible locations: ( 61, 140, -70 ) or ( -67, 149, -137 ) or (53, 139, 46) or (-176, 177, -93)
+   - Possible locations: {{waypoint 61, 140, -70}} or {{waypoint -67, 149, -137}} or {{waypoint 53, 139, 46}} or {{waypoint -176, 177, -93}}
    - Trackable as "a red pillow"
-1. Go to [[The Great Bonsai]] in [[The Pillars of Flame]] and search for a harvestable mat. {{waypoint 149, -189, -1623}} or ( 308, -167, -1663 )
+1. Go to [[The Great Bonsai]] in [[The Pillars of Flame]] and search for a harvestable mat. {{waypoint 149, -189, -1623}} or {{waypoint 308, -167, -1663}}
 1. Go to [[The Seer Stone]] or [[The Table of Eyes]] in the Pillars of Flame and search for harvestable eggs. *({{waypoint 23.83, -45.14, -399.69}} and {{waypoint -122, -58, -452}} respectively)*
    - If using a land mount, take the ramp at {{waypoint -43, -75, -622}} or {{waypoint -20, -93, -253}} in order to climb up to the cyclops area and then cross the path at {{waypoint -80, -46, -396}}.
    - The eggs can even spawn on the ramps outside the immediate Seer Stone area.
@@ -68,7 +68,7 @@ source:
 1. Go to[Maj'Dul and enter [[Tower of the Moon:Infiltration]]. {{waypoint -152, 176, -146}}
    - NOTE:  It is recommended to enter solo since only one person can collect the quest items.
    - Gather first djinn vessel on the second floor; spawns on any of the tables around the perimeter of the room. {{waypoint 1, 15, 18}}
-   - Gather second djinn vessel on the third floor. {{waypoint 3, 28, -2}} or ( -8, 27, 4 ).
+   - Gather second djinn vessel on the third floor. {{waypoint 3, 28, -2}} or {{waypoint -8, 27, 4}}.
 1. Return to The Caretaker. When you finish her dialogue she will attack. Kill her to end the quest.
 
 ## Rewards

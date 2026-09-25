@@ -25,7 +25,7 @@ The eggchangers can be found in the following locations:
 - [[Frostfang Sea]]: {{waypoint 86, 145, -63}} (Behind the Carin of the Huntress shrine)
 - [[Greater Faydark]]: {{waypoint 197, 111, 143}} (Near the bank in Old Kelethin)
 - [[Qeynos Province District]]: {{waypoint 624, -15, -350}} (In the grove area, rather than the city)
-- [[Timorous Deep]]: 2,215 55 1094 (near the Gorowyn Beach Station)
+- [[Timorous Deep]]: {{waypoint 2215, 55, 1094}} (near the Gorowyn Beach Station)
 
 ## Eggs
 

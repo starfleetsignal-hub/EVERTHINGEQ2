@@ -35,7 +35,7 @@ You receive [[Stonesledge's Battle Horn]] when accepting quest.
 
 ## Steps
 
-- Enter [[Western Wastes: Darkened Passages (Solo)|Western Wastes: Darkened Passages [Solo]]] - portal up at the beginning of Chetari Passages at {{waypoint -607.13, 131.90, 386.84}}  *(Note:  to get to the zone in, land on the ledge at  {{waypoint -519.27, 131.64, 464.65}} then walk inside the cave. Portal is on the left.  OR -- you can use the geomanced transport at ( -502.65, -4.25, 435.95 )*
+- Enter [[Western Wastes: Darkened Passages (Solo)|Western Wastes: Darkened Passages [Solo]]] - portal up at the beginning of Chetari Passages at {{waypoint -607.13, 131.90, 386.84}}  *(Note:  to get to the zone in, land on the ledge at  {{waypoint -519.27, 131.64, 464.65}} then walk inside the cave. Portal is on the left.  OR -- you can use the geomanced transport at {{waypoint -502.65, -4.25, 435.95}}*
   - **NOTE**:  *There are two caves. If you land and don't see the yellow glowing portal, you are at the lower cave. Fly up to the next ledge and enter the cave on top of that cave.*
 
 - *For the Walkthrough see [[Western Wastes: Darkened Passages (Solo)|Western Wastes: Darkened Passages [Solo]]]*

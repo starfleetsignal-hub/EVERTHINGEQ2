@@ -5,7 +5,7 @@ expansion: Rise of Kunark
 race: Apopheli
 level: '74'
 zone: '[[Kunzar Jungle]]'
-location: Near the northern zone in from [[Fens of Nathsar]] near the [[City of Jinisk]]  ( 975, 59, -104 )
+location: Near the northern zone in from [[Fens of Nathsar]] near the [[City of Jinisk]]  {{waypoint 975, 59, -104}}
 aggressive: true
 social: true
 added_in: Rise of Kunark

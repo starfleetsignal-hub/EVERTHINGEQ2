@@ -47,7 +47,7 @@ You need to be able to speak Cae'Dal by completing [[Examples of Cae'Dal Script]
      - a hematic snaptail (can be tracked) *for example at {{waypoint -256, 27, 423}} {{waypoint -79, -111, 99}} {{waypoint -311, 33, 391}}*![a hematic snaptail](images/Hematic_snaptail.jpg)
 1. Return to [[Keenora Fadan]] {{waypoint -152, 91, -161}}. Find more examples of Growth.
    - Gather 6 giant's agate from [[Chalp]] around {{waypoint 136, -135, 63}}![Giant's Agate](images/Giants_Agate.jpg)
-   - Gather 6 forest soil from east [[Warslik's Wood]] around {{waypoint 154, -231, -288}} (look for *dust* billowing off mound.). Also (197, -227, -94). See Talk page for more. ![forest soil](images/Forest_soil.jpg)
+   - Gather 6 forest soil from east [[Warslik's Wood]] around {{waypoint 154, -231, -288}} (look for *dust* billowing off mound.). Also {{waypoint 197, -227, -94}}. See Talk page for more. ![forest soil](images/Forest_soil.jpg)
    - Gather 6 river rocks from [[Warslik's River]] around {{waypoint 303, -244, -134}} in the water. (Untrackable, follow the wisps of steam, rock bubbles underwater.  Zoom in to 1st person mode, look for rocks under water near Qlark - NPC)![river rock](images/River_rocks.jpg)
      - *Note:See the talk page for possible locations
 1. Return to [[Keenora Fadan]] {{waypoint -152, 91, -161}}.

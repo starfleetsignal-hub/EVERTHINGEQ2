@@ -6,7 +6,7 @@ difficulty: solo
 zone: '[[The Withered Lands]]'
 timeline: '[[The Withered Lands Timeline]]'
 journal_category: Withered Lands
-starts: in the swamp from Captain Val'kirr (-404, -745, -258)
+starts: in the swamp from Captain Val'kirr {{waypoint -404, -745, -258}}
 prerequisite: '[[Captain, My Captain?]]'
 next_quest: '[[The Call Home]]'
 added_in: LU63

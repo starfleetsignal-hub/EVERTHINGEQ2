@@ -36,7 +36,7 @@ There are dangerous creatures across Shadeweaver's Thicket that I've been tasked
    - [[Chebura]] above [[Whisperling Falls]] {{waypoint -350.62, 115.23, -153.03}}
    - [[Grukblug Fireflinger]] in [[Firefall Rim]] {{waypoint 373.69, 96.24, 521.75}}
    - [[Karadine]] near the zone entrance {{waypoint -333.95, 161.98, -830.09}}
-   - [[Lungfire Fiend]] near the [[Forbidden Bridge]] ( 240.57, -55.77 -133.30 )  or  {{waypoint 240.57, -55.77, -133.30}}
+   - [[Lungfire Fiend]] near the [[Forbidden Bridge]] {{waypoint 240.57, -55.77, -133.30}}  or  {{waypoint 240.57, -55.77, -133.30}}
    - [[Shelsishaazzz]] in [[Hunter's Mote]] {{waypoint 349.01, 134.15, 548.57}}
    - [[Sludgebile]] in the [[Desolate Grounds]] {{waypoint 604.46, 17.91, -763.98}}
 

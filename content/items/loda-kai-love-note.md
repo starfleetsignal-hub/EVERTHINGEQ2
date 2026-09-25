@@ -17,4 +17,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-found on the bridge at /waypoint 622.00, 46.86, 325.39 in Shadeweaver's Thicket
+found on the bridge at {{waypoint 622.00, 46.86, 325.39}} in Shadeweaver's Thicket

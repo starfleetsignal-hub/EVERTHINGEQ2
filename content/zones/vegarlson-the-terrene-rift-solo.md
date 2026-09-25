@@ -32,7 +32,7 @@ source:
 ## Bosses
 
 1. [[Krogrock the Earthcrasher]] is located at {{waypoint 40.86, 164.01, -33.61}} and is spawned by slaying all the [[A needlescale basilisk|needlescale basilisks]] in the area on either side of him.
-   - Krogrock is immune to fear, stun and slow effects. He casts stifles. Krogrock has a knockback. Pull him off the platform to 34.49 159.71 24.27 282.81 0.00 0.00 to prevent being thrown across the zone. Krogrock also casts an arcane detriment called **Rubble Rock** that causes a large amount of damage if it is cured.
+   - Krogrock is immune to fear, stun and slow effects. He casts stifles. Krogrock has a knockback. Pull him off the platform to {{waypoint 34.49, 159.71, 24.27}} to prevent being thrown across the zone. Krogrock also casts an arcane detriment called **Rubble Rock** that causes a large amount of damage if it is cured.
 1. [[Izanahm the Rooted]] is located at {{waypoint 193.38, 195.51, -98.33}} and is spawned by killing any of the [[A terrene enforcer|terrene enforcers]].
    - Izanahm is rooted and cannot be damaged as long as his [[A terrene enforcer|terrene enforcers]] are up. He also regrows [[A terrene enforcer|terrene enforcers]], so you may have to keep killing any new ones.
    - Should you kill one of the [[Stone of Thudos|Stones of Thudos]], every 30 sec or so the earth will rumble underneath you, and a few seconds later a stone pops up, knocking you into the air.  Just keep moving to avoid the knock up.

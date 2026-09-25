@@ -8,7 +8,7 @@ zone: '[[The Elddar Grove]]'
 timeline: '[[Qeynos City Tasks Timeline]]'
 journal_category: City Tasks
 city_faction: The Tunarian Alliance
-starts: Speak with [[The Tunarian Alliance (Faction)|Tunarian Alliance]] representative [[Raegen Truthshadow|Wanderer Raegen Truthshadow]] at 673.76, -10.32, -383.83 in [[The Elddar Grove]] near the tree Arbos.
+starts: Speak with [[The Tunarian Alliance (Faction)|Tunarian Alliance]] representative [[Raegen Truthshadow|Wanderer Raegen Truthshadow]] at {{waypoint 673.76, -10.32, -383.83}} in [[The Elddar Grove]] near the tree Arbos.
 categories:
 - City Tasks Quests
 - Faction Quests

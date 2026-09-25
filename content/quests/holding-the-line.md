@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-They are all around Shadowed Grove, at ( 340.42, -36.42, 312.26)
+They are all around Shadowed Grove, at {{waypoint 340.42, -36.42, 312.26}}
 
 1. Kill 3 void beasts.
 1. Kill 3 shadowed men.

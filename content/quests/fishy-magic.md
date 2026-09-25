@@ -37,7 +37,7 @@ source:
 
 *Researcher Teksi asks to search for any kind of magical components that the hydromancers might be carrying so she might begin study of their techniques.*
 
-1. Obtain 4 *solid water bubbles* from [[A Yha-lei hydromancer|Yha-lei hydromancers]]. 430, 144 656
+1. Obtain 4 *solid water bubbles* from [[A Yha-lei hydromancer|Yha-lei hydromancers]]. {{waypoint 430, 144, 656}}
 1. Return to [[Researcher Teksi]] on [[Sathir's Span]]
 
 ## Rewards

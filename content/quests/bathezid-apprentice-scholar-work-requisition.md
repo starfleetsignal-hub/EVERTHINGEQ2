@@ -6,7 +6,7 @@ expansion_source: patch
 level: '72'
 zone: '[[Fens of Nathsar]]'
 journal_category: Tradeskill
-starts: Speak with [[Supply Sergeant Anuhadux]] in the Bathezid's Watch fortress at 1174.53, 203.42, 1430.17
+starts: Speak with [[Supply Sergeant Anuhadux]] in the Bathezid's Watch fortress at {{waypoint 1174.53, 203.42, 1430.17}}
 added_in: Rise of Kunark
 categories:
 - Bathezid's Watch (Faction)

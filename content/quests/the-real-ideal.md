@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[Vesspyr Isles]]'
 timeline: '[[Vesspyr Isles Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Veasna]] after he sends you an in-game email. He is on the open air platform in Falinpol ( 33, 197, 23 ) Copy
+starts: Speak to [[Veasna]] after he sends you an in-game email. He is on the open air platform in Falinpol {{waypoint 33, 197, 23}} Copy
 added_in: Tears of Veeshan
 achievement_xp: true
 categories:

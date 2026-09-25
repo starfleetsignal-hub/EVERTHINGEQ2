@@ -50,7 +50,7 @@ source:
 
 ## Spawning the Mob
 
-There are 2 wells at {{waypoint 258, 58, -27}} and {{waypoint -297, 21, 189}}). You have to kill all the lizardmen around them. Then place the 3 corpses that spawn in the centre and kill the wraiths that appear. In the centre of each well a heart will spawn. All group members can obtain a heart from it. The 2 hearts from the 2 wells are used at the 2 braziers in front of the tower (131, 0, -328) to open the passage for the pyramid.<br>
+There are 2 wells at {{waypoint 258, 58, -27}} and {{waypoint -297, 21, 189}}). You have to kill all the lizardmen around them. Then place the 3 corpses that spawn in the centre and kill the wraiths that appear. In the centre of each well a heart will spawn. All group members can obtain a heart from it. The 2 hearts from the 2 wells are used at the 2 braziers in front of the tower {{waypoint 131, 0, -328}} to open the passage for the pyramid.<br>
 Then there are 3 towers at {{waypoint -218, 31, 418}} / {{waypoint 288, 0, 316}} / {{waypoint 203, 0, -293}}. You have to kill all zombies and undead around them, some groups are a bit farther from the towers. Then a named will spawn in each tower, which will drop a skull with a sword. All group members can obtain a heart and a mind from it. The 3 hearts and 3 minds from the 3 skeletons are used at the 6 braziers on the pyramid itself, on the corners of each level, to spawn Terror.
 
 Be sure to clear the entire pyramid and surrounding area first of all mobs (including wanderers) or these mobs will add to the fight with Terror.

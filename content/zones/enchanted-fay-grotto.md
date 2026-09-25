@@ -30,4 +30,4 @@ source:
 ## Notes
 
 - The zone in is [[The Nursery]] in Greater Faydark in the form of "An Enchanted Mushroom Ring" at {{waypoint -129.70, -44.30, -768.77}}.
-- Quest giver can be found at 814,107,-597
+- Quest giver can be found at {{waypoint 814, 107, -597}}

@@ -5,7 +5,7 @@ item_kind: Quest Item
 icon: images/Item_795.png
 item_level: '0'
 flags: no-trade
-obtained_from: Purchase from [[Fu Laiang]] at the [[Camp of the Legendary Wu]] ( 818,109,-311 )
+obtained_from: Purchase from [[Fu Laiang]] at the [[Camp of the Legendary Wu]] {{waypoint 818, 109, -311}}
 used_in_quest: '[[Purge]]'
 item_link: \aITEM -646208491 1918827312:Quickening Seed\/a
 categories:

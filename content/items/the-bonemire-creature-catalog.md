@@ -6,7 +6,7 @@ item_subtype: Book
 flags: LORE NO-TRADE
 description: As I catalog various flora and fauna, I can refer to this book.
 effects: Reading this book starts the quest, [[The Bonemire Creature Cataloging]].
-obtained_from: Buy The Bonemire Creature Catalog from [[Penny Dreadful]] in [[The Barren Sky]] ( -510.00,-68.00,-459.00 ), or from [[Duvawocket]] (General Goods vendor) at the  in [[The Bonemire]].
+obtained_from: Buy The Bonemire Creature Catalog from [[Penny Dreadful]] in [[The Barren Sky]] {{waypoint -510.00, -68.00, -459.00}}, or from [[Duvawocket]] (General Goods vendor) at the  in [[The Bonemire]].
 image: images/The_Bonemire_Creature_Catalog.jpg
 aliases:
 - The Bonemire Creature Catalog (House Item)

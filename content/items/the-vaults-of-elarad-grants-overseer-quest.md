@@ -24,7 +24,7 @@ source:
 Entrance is on the [[Isle of Awakening]] {{waypoint 308, 193, 376}}
 Update for [[By Land? By Air? By Sea?]] is in here.  The update is a book on the third floor in the same room as the final named.  Click on this book and the quest should update and your next step is to kill the named.
 Another quest for this zone is [[Stranded!]] given by [[Arcanist Nazoor]] on the Isle of Aversion in [[The Barren Sky]].  This quest requires you to collect 15 book pages from various tables and one book in the Vaults of El'Arad.
-Directions: Fly to the Isle of Awakening.  Head northwest from the platform, keeping an eye out for a narrow opening in the rock wall.  Enter it, following the path upward and around until reaching the Vaults( 311,194,379 ).
+Directions: Fly to the Isle of Awakening.  Head northwest from the platform, keeping an eye out for a narrow opening in the rock wall.  Enter it, following the path upward and around until reaching the Vaults{{waypoint 311, 194, 379}}.
 
 ## Walkthrough
 

@@ -50,7 +50,7 @@ Brytthel is concerned that the stone in the Queen's crown - her responsibility t
 1. Use the ancient notes to plan out a recipe for a method of containing magical gemstones.
    - Use an engraved Desk to craft [[Recipe for a Censer of Containment]].
    - There is an Engraved Desk next to [[Brytthel|Brumley]].
-1. Return to [[Brytthel]] at 370.65,82.35,28.72 82 29.
+1. Return to [[Brytthel]] at {{waypoint 370.65, 82.35, 28.72}}.
 
 ## Needed Materials
 

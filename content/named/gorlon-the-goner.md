@@ -27,4 +27,4 @@ source:
 
 ### To Spawn
 
-Clear Both Culling Grounds (-38,-44,-64) (24,-32,-180)
+Clear Both Culling Grounds {{waypoint -38, -44, -64}} {{waypoint 24, -32, -180}}

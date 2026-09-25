@@ -133,12 +133,12 @@ Where it is required to buy a house, GL stands for [[Guild Level]] and is shown 
 | Medium (3 rm), v1 | small enclosed garden | [[The City of Freeport]] | 96g 60s | 3g 86s 40c | 3, 5, 7 Freedom Rd. (7 on uppermost level) | (South Freeport) Tall, multi-level building | Multiple doors, generic loc {{waypoint -160, -26, 271}} |
 | Large, 7.5 rm, v2 | large balcony | [[The City of Freeport]] | 4p 83g 84s 300,000 status | 19g 35s 36c 60,000 status | [[1 Justice Road]] | (South Freeport) Tall, two-tone house. Half room is a large platform | {{waypoint -87, -17, 284}} |
 | Medium (3 rm), v2 | none | [[The City of Freeport]] | 28g 98s 64,000 status | 1g 15s 92c 6,500 status | [[Seafarer's Roost]] | Upper level | {{waypoint -227, -49, 7}} |
-| Small (2 rm) | none | [[Gorowyn]] | Free | 5s | [[Lower Tenements]] | Top level of the inner caves, near the broker, etc. | 2,273 127 1,135 |
-| Small (2 rm) | none | [[Gorowyn]] | 21g 21s | 82s 33c | [[Upper Tenements]] | Inside the cave, near the broker, etc | 2,724 130 1,195 |
-| Medium (4 rm) | none | [[Gorowyn]] | 50g 80,000 status | 2g 8,000 status | [[Gorowyn Standards]] | Top level of the inner caves, near the broker, etc. | 2,807 136 1,124 |
-| Large (6 rm) | large balcony | [[Gorowyn]] | 1p 50g 200,000 status | 3g 50,000 status | [[Gorowyn Heights]] | Top level of the inner caves, near the broker, etc. | 2,832 136 1,138 |
-| Large (6 rm) | large balcony | [[Gorowyn]] | 1p 70g | 7g | [[Timorous Heights]] | Top level of the inner caves, near the T1 [[Guild Hall]] | 2,829 129 1,193 |
-| Medium (4 rm) | none | [[Gorowyn]] | 96g 60s | 3g 86s 40c | [[Terrace Standards]] | Inside the cave, near the broker, etc | 2,755 134 1,243 |
+| Small (2 rm) | none | [[Gorowyn]] | Free | 5s | [[Lower Tenements]] | Top level of the inner caves, near the broker, etc. | {{waypoint 2273, 127, 1135}} |
+| Small (2 rm) | none | [[Gorowyn]] | 21g 21s | 82s 33c | [[Upper Tenements]] | Inside the cave, near the broker, etc | {{waypoint 2724, 130, 1195}} |
+| Medium (4 rm) | none | [[Gorowyn]] | 50g 80,000 status | 2g 8,000 status | [[Gorowyn Standards]] | Top level of the inner caves, near the broker, etc. | {{waypoint 2807, 136, 1124}} |
+| Large (6 rm) | large balcony | [[Gorowyn]] | 1p 50g 200,000 status | 3g 50,000 status | [[Gorowyn Heights]] | Top level of the inner caves, near the broker, etc. | {{waypoint 2832, 136, 1138}} |
+| Large (6 rm) | large balcony | [[Gorowyn]] | 1p 70g | 7g | [[Timorous Heights]] | Top level of the inner caves, near the T1 [[Guild Hall]] | {{waypoint 2829, 129, 1193}} |
+| Medium (4 rm) | none | [[Gorowyn]] | 96g 60s | 3g 86s 40c | [[Terrace Standards]] | Inside the cave, near the broker, etc | {{waypoint 2755, 134, 1243}} |
 | Small (2 rm) | none | [[Neriak]] | Free | 5s | [[8 Indigo Road]] (in The Foreign Quarter) | West of the zone-in point for Darklight Wood | {{waypoint 101, 24, 156}} |
 | Large (7 rm) | large balcony | [[Neriak]] | 1p 50g 200,000 status | 3g 50,000 status | [[2 Walk of the Dead]] (in Death Grotto) | Left of the city teleportation pad to Death Grotto | {{waypoint -513, 28, -64}} |
 | Medium (4 rm) | none | [[Neriak]] | 50g 80,000 status | 2g 8,000 status | [[4 Walk of the Dead]] (in Death Grotto) | Right of the city teleportation pad to Death Grotto | {{waypoint -692, 27, -56}} |

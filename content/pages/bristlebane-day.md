@@ -87,7 +87,7 @@ Three quests are available. These are offered consecutively and begin with:
 
 - A one-day-only bush, [[Jester's Superior Garden]], appear throughout Enchanted Lands.
   - You can get materials from the following events from this temporary bush: [[Frostfell]], [[Erollisi Day]], [[Tinkerfest]], [[Brew Day]] and [[Nights of the Dead]]. What you will gather is random, but it is still a good way to replenish.
-- [[Frostfell Crafting Stations]] will also appear in [[The Sinking Sands]]. Climb the wall by the [[Croc Hunter Camp]] to reach the stations at the airship docks. Stop and hail the goblin at -1,398 -163 -764 to stock up on Frostfell Fuels too.
+- [[Frostfell Crafting Stations]] will also appear in [[The Sinking Sands]]. Climb the wall by the [[Croc Hunter Camp]] to reach the stations at the airship docks. Stop and hail the goblin at {{waypoint -1398, -163, -764}} to stock up on Frostfell Fuels too.
   - Frostfell Crafting Stations and a Gigglegibber fuel vendor also appear in Enchanted Lands near the entrance to Rivervale {{waypoint -201, 0, -363}}
 - [[Heartgar MacInnes]] appears to exchange your new love notes and hard candies into [[Barbarian love note|Barbarian love notes]].
 - [[Grabby Gigglegibber]], the Nights of the Dead Treat Trader, is available on this day in Qeynos and Freeport to help organize loot obtained from Jester's superior gardens

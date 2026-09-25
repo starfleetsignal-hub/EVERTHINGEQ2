@@ -5,7 +5,7 @@ item_kind: Quest Starter
 icon: images/Item_72.png
 item_level: '0'
 flags: lore no-trade no-value
-obtained_from: Clickable chest at loc (-404, -48, 456). Starts [[An Orcish Trinket]]
+obtained_from: Clickable chest at loc {{waypoint -404, -48, 456}}. Starts [[An Orcish Trinket]]
 used_in_quest: '[[An Orcish Trinket]]'
 starts_quest: '[[An Orcish Trinket]]'
 item_link: \aITEM -1686659099 -673144998:Argorym's blade\/a

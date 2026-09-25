@@ -42,7 +42,7 @@ This quest initiates the series that leads to the Heritage Quest, [[Restoring Gh
 ## Notes
 
 - The stone that you are rewarded with is tradeable and may be found on the broker.
-- On Origins Server Vida is in [[Nettleville]] at (674.15, -20.42, 312.52), and Tawli Whiskwind is in The Baubbleshire (827, -14, -486)
+- On Origins Server Vida is in [[Nettleville]] at {{waypoint 674.15, -20.42, 312.52}}, and Tawli Whiskwind is in The Baubbleshire {{waypoint 827, -14, -486}}
 - The quest can be acquired by evil based characters, although navigating around Qeynos can be hazardous depending on your level.
   - 8/9/2020 - confirmed that an evil character can go to Antonica docks, then use the **World Bell** to travel to Qeynos, This will put the character in Qeynos province District at the docks. You can then **swim** across the harbor to Vida without guard encounters. *Do not try to walk around the dock unless you can deal with the 35^^^ canine watcher!*
   - Note that this trick only works from the Antonica bell -- from any other location Qeynos Province would not be an option.

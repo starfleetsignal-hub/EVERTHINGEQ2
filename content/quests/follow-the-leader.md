@@ -61,7 +61,7 @@ Last one I found was in the Freeport Militia House.
 
 1. Return to Velt.
 1. He will tell you to head back to Big Bend. Go there and speak with Velt at {{waypoint -27.40, -4.67, 74.20}} Have your troll illusion still on.
-1. Take the offering to Skalmos in Big Bend ( -26.89, -4.66, 89.39 )  Copy and click on the table. This will spawn Skalmos.
+1. Take the offering to Skalmos in Big Bend {{waypoint -26.89, -4.66, 89.39}}  Copy and click on the table. This will spawn Skalmos.
 1. He will talk a little, then you will be attacked by a couple non heroics.
 1. Return to Nethal L'tylex in Freeport.
 

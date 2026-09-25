@@ -39,7 +39,7 @@ This quest updates by killing mobs and picking up the mirror quests. You must pi
 1. [[Tower of Frozen Shadow: Shadowed Corridors]] [[First Floor: Submergence]]
    - Obtain a key from [[Xalgoti (Heroic)|Xalgoti]].
 1. [[Tower of Frozen Shadow: Shadowed Corridors]] [[Third Floor: The Shadow Barracks]]
-   - Speak with Vethilot the Young at (/way -55.74, 206.63, 26.68). Give him a minute to spawn there after you approach. Accept his quest, [[The Alliance]].
+   - Speak with Vethilot the Young at {{waypoint -55.74, 206.63, 26.68}}. Give him a minute to spawn there after you approach. Accept his quest, [[The Alliance]].
    - Gather the potion bottle at {{waypoint 58.01, 210.29, -34.11}} to receive the quest [[A Ruinous Bath]].
 1. [[Tower of Frozen Shadow: Shadowed Corridors]] [[Second Floor: The Frozen Library]]
    - Kill [[Spectral Librarian Emiida]] and obtain the key

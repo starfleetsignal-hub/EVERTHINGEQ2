@@ -46,7 +46,7 @@ This quest is repeatable.
    - Collect 10 void essences, a common drop from void creatures in [[Najena's Cove]].
    - Collect 2 void lattices, an uncommon drop from the same void creatures.
 1. Return to [[Saedie Kalterra]]
-1. Kill a corrupted [[Elemental Lord]]. In any of the three caves at (48.96, -104.91, 244.12), right click and turn three of the orbs to the same attunement (the alcoves will all match), then activate orbs by clicking orb to the left of each cave door.
+1. Kill a corrupted [[Elemental Lord]]. In any of the three caves at {{waypoint 48.96, -104.91, 244.12}}, right click and turn three of the orbs to the same attunement (the alcoves will all match), then activate orbs by clicking orb to the left of each cave door.
 
 ## Notes
 

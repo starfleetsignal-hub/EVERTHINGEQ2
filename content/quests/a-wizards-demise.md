@@ -37,7 +37,7 @@ A Thexian wizard has compromised Kanos Xaphon's reputation in Freeport.
 1. Speak to [[Marlia Safefoot]] {{waypoint -21.5, 13, 124.5}} in an alcove on the right just inside from the entrance.
 1. Find signs of a recent battle near {{waypoint 85, 4, -84}}.
 1. Kill [[Fallen explorer|fallen explorers]] looking for 3 seals.
-1. Find the Wizard. (In a corridor headed to the pools around 30, 7,-93, a text message reads, "You see footsteps leading to the edge of the water.")
+1. Find the Wizard. (In a corridor headed to the pools around {{waypoint 30, 7, -93}}, a text message reads, "You see footsteps leading to the edge of the water.")
 1. As you approach the island with the blue torch he will spawn and attack you as soon as you are within range.  He's a 22^^^ with a 22^ familiar that you must kill as well.
    - This encounter will break any invisibility/stealth you may have going, so be prepared.
    - Approx. 1 hour respawn if you die.

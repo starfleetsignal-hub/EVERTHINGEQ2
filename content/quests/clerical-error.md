@@ -33,7 +33,7 @@ source:
 
 ![](images/Undead_wards.png)==Steps==
 
-1. Examine 3 undead wards. These are sparkly shards on the ground right outside of castle walls at {{waypoint 617, 353, -138}},  {{waypoint 532, 351, -191}}, ( 500, 351, -101 ). [ Waypoints are incorrect. There seems to be no exact location for these shards. You just have to run or fly around the outer wall to one is spotted]
+1. Examine 3 undead wards. These are sparkly shards on the ground right outside of castle walls at {{waypoint 617, 353, -138}},  {{waypoint 532, 351, -191}}, {{waypoint 500, 351, -101}}. [ Waypoints are incorrect. There seems to be no exact location for these shards. You just have to run or fly around the outer wall to one is spotted]
 1. Kill 7 [[A Highhold cleric|Highhold clerics]]. They're found outside the castle walls with the risen Mucktails and Shraloks.
 1. Return to Waulon.
 

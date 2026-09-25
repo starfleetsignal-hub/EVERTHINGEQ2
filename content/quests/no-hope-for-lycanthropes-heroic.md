@@ -5,7 +5,7 @@ level: '106'
 difficulty: Heroic
 zone: '[[The Fabled Crypt of Valdoon (Heroic)]]'
 journal_category: Mission
-starts: Clicking on "a silver sword" sticking out of the ground at 40,-1,-111 starts the mission.
+starts: Clicking on "a silver sword" sticking out of the ground at {{waypoint 40, -1, -111}} starts the mission.
 in_game_name: Stakes Are High
 added_in: Update 2015.06.23
 achievement_xp: true

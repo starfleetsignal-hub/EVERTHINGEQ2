@@ -83,7 +83,7 @@ expansion_source: patch
      - [[A churning obol|Churning obols]] in [[Obol Plains]]
    - **Tier 10 (Level 101-110)**
      - [[Brackish wakingdew]] in [[Plane of Magic]]
-     - [[Deep aethersalmon]] in [[Plane of Magic]]  (Waypoint -199.49, 2.73, -995.07)
+     - [[Deep aethersalmon]] in [[Plane of Magic]]  {{waypoint -199.49, 2.73, -995.07}}
    - **Tier 14 (Level 120)**
      - [[A toxic sunbloom|Toxic sunblooms]] in [[The Blinding]].
      - [[A greater sandgrabber|Greater sandgrabbers]] in [[The Blinding]].

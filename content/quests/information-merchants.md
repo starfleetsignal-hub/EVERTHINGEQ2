@@ -30,8 +30,8 @@ source:
 
 ## Steps
 
-1. Speak with [[Cayan Sable]] to start the quest (click the upset bench at 767.94, -24.87, 319.73 to reach him).
-1. Purchase a worthless bronze statuette from [[Zinun Loospakina]] (at 784.1, -25.1, 335.8) and examine it.
+1. Speak with [[Cayan Sable]] to start the quest (click the upset bench at {{waypoint 767.94, -24.87, 319.73}} to reach him).
+1. Purchase a worthless bronze statuette from [[Zinun Loospakina]] (at {{waypoint 784.1, -25.1, 335.8}}) and examine it.
 1. Speak with [[Maareona Ludimintium]] at 721.1, -20.3, 316.3.
 
 ## Rewards

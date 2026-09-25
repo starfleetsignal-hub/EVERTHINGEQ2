@@ -61,13 +61,13 @@ If you have the quest [[Frozen Out of Time]], you can use the item you were give
 
 ### [[Vauth the Suffragan]]
 
-Fun mob. located at the end of a hall (-230, -30, -11).
+Fun mob. located at the end of a hall {{waypoint -230, -30, -11}}.
 On each side of the hall, and moving up and down are 2 Necromalignaant Bile-Infused Acolyte.  These periodically nuke anything between them with a lethal fast acting DoT.  It is curable, but better is to ensure you aren't caught between them, by moving the fight to avoid them.  They only nuke when stationary, and are fairly slow to change position.  A good plan is to run all the way to the far side of the room where Vauth initially stands and fight him on the stairs there.
 Vauth himself is not very hard - mainly slash damage, with a frontal to keep it interesting ;)
 
 ### [[Coagulation of Flesh and Evil]]
 
-In Coag's chamber there is a green flame surrounded circlular area at -322, -31, 3.  You take some major damage when entering (cure noxious), but fighting Coag in this area is the only way to pull this encounter off once he summons "Chum". If you bring Coag into the area prior to his summoning you can prepare to die a quick death. (Not fighting in the circular area will cause Coag to "eat" your party members one by one.)  Mainly physical (crush) damage.  Coag has 2 mobs near him - "a necrotic neophyte" and "a necrotic theurgist", they can be body pulled individually.  There is a spawned mob called "Chum" that keeps reappearing. The named itself appears to have a frontal AE, so have everyone but the tank stand behind.
+In Coag's chamber there is a green flame surrounded circlular area at {{waypoint -322, -31, 3}}  You take some major damage when entering (cure noxious), but fighting Coag in this area is the only way to pull this encounter off once he summons "Chum". If you bring Coag into the area prior to his summoning you can prepare to die a quick death. (Not fighting in the circular area will cause Coag to "eat" your party members one by one.)  Mainly physical (crush) damage.  Coag has 2 mobs near him - "a necrotic neophyte" and "a necrotic theurgist", they can be body pulled individually.  There is a spawned mob called "Chum" that keeps reappearing. The named itself appears to have a frontal AE, so have everyone but the tank stand behind.
 
 The key mob, [[A tiny bit of leftover goo]] spawns in "goo" room, after killing this named.  Be careful to fight the key mob at its spawn location - you can lose the key chest if you drag it away.
 

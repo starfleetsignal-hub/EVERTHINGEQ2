@@ -39,7 +39,7 @@ expansion_source: patch
 
 1. Perform the following tasks:
    - Kill 5 [[A parched cactulent|parched cactulents]] next to [[Dragon's Rest Shallows]], around {{waypoint -2221, -413, -2338}} or  {{waypoint -1453, -334, -2253}}.
-   - Kill 5 [[A boneclaw destroyer|boneclaw destroyers]] in the [[Field of Bone]], around {{waypoint -1333, -363, -1769}} or -1,397 -377 -2,354.
+   - Kill 5 [[A boneclaw destroyer|boneclaw destroyers]] in the [[Field of Bone]], around {{waypoint -1333, -363, -1769}} or {{waypoint -1397, -377, -2354}}.
 1. Return to Pudge the Brave.
 
 ## Rewards

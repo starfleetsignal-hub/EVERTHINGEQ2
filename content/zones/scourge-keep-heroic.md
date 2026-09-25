@@ -29,7 +29,7 @@ source:
 
 ## Notes
 
-- Enter the zone by clicking the sewer entrance beneath the [[Bridge of Zek]] underwater at ( -193, -36, -579)
+- Enter the zone by clicking the sewer entrance beneath the [[Bridge of Zek]] underwater at {{waypoint -193, -36, -579}}
 
 ## Overview
 

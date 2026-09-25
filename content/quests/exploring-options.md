@@ -37,7 +37,7 @@ source:
    - [[Lepethida]] on [[Daarspire]] at {{waypoint 112, 210, -11}}.
    - [[Jortreva]] on [[Karak Peak]]
    - [[Leizoth]] on [[Blightscale]]
-   - the mysterious figure on [[Veiled Thessk]], at -793, -46, 46.
+   - the mysterious figure on [[Veiled Thessk]], at {{waypoint -793, -46, 46}}.
 
 ## Rewards
 

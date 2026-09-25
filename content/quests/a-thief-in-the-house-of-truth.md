@@ -50,7 +50,7 @@ source:
    1. Examine the glass casing in the large room on the bottom floor. {{waypoint -62, -18, 38}}
    1. Slay [[The Guardian of Ank'Nief]] to exit, unless you chose to 'speak the name of the guardian' while inspecting the glass casing. This option is only made available if the directions in the 'Notes' section above were followed.
       - If you have trouble with this step, please see the Talk page for more ideas.
-1. Exit through the door you came in (/way 7,1,33) to complete the quest. Do NOT exit through the main door. The knocker of the right door says "Servant's Entrance" when you mouse over it. The WRONG door says "Maj'Dul"
+1. Exit through the door you came in {{waypoint 7, 1, 33}} to complete the quest. Do NOT exit through the main door. The knocker of the right door says "Servant's Entrance" when you mouse over it. The WRONG door says "Maj'Dul"
 
 ## Rewards
 

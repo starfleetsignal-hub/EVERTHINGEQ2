@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[Neriak, City of Hate]]'
 timeline: '[[Frostfell Timeline]]'
 journal_category: World Event
-starts: Talk to [[Gevil Gigglegibber]]. at (-144, 12, 259 )
+starts: Talk to [[Gevil Gigglegibber]]. at {{waypoint -144, 12, 259}}
 added_in: LU41
 events:
 - Frostfell

@@ -41,9 +41,9 @@ source:
    - {{waypoint -969, -355, 2793}}
    - {{waypoint -974, -354, 2768}}
    - {{waypoint -660, -339, 3009}}
-   - Inside Ry'Gorr Keep near entrance of Keep. -671.81 -340.96 2,670.39
-   - Inside Ry'Gorr Keep near entrance of building. -670.92 -340.39 2,754.97
-   - Inside Ry'Gorr Keep near entrance of building on other side of entrance. -702 -341.33 2,732.83
+   - Inside Ry'Gorr Keep near entrance of Keep. {{waypoint -671.81, -340.96, 2670.39}}
+   - Inside Ry'Gorr Keep near entrance of building. {{waypoint -670.92, -340.39, 2754.97}}
+   - Inside Ry'Gorr Keep near entrance of building on other side of entrance. {{waypoint -702, -341.33, 2732.83}}
 1. Speak with [[Swog Bloodytusk]]
 
 ## Rewards

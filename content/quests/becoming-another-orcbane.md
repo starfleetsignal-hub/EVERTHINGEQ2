@@ -35,7 +35,7 @@ expansion_source: patch
 
 You must have completed [[Below The Frozen Waves]] from [[Thirin Veliumdelver]] to begin this quest.
 
-1. Travel down to [[Demon's Delve]] ( 50, -114, 379 ); don't forget under water breathing totem. Reduce the health of 6 [[A Ry'Gorr tunneler|Ry'Gorr tunneler]]s to 20% and then use the [[Cadaver's dram]] on them
+1. Travel down to [[Demon's Delve]] {{waypoint 50, -114, 379}}; don't forget under water breathing totem. Reduce the health of 6 [[A Ry'Gorr tunneler|Ry'Gorr tunneler]]s to 20% and then use the [[Cadaver's dram]] on them
 1. Return to [[Knut Orcbane]]
 
 ## Rewards

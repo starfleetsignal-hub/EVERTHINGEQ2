@@ -155,7 +155,7 @@ Antonica has a massive web of quests and as such the timeline is broken into POI
 
 - [25] **[[Tree within a Tree]]** - *takes you to [[The Thundering Steppes]]*
 
-[[Oracle Liandrin]] at (-1034, 15, -632)
+[[Oracle Liandrin]] at {{waypoint -1034, 15, -632}}
 
 - [34] **[[Ruins of Varsoon: Golem Creation Process]]** - becomes available after **[[Ruins of Varsoon: Revealing the Entrance]]**
 
@@ -163,10 +163,10 @@ Antonica has a massive web of quests and as such the timeline is broken into POI
 
 Starts in the camp north of the Oracle tower past the baskalisks.
 
-- [25] [[The Condemned Catacomb Key]] *(access quest) - purchase [[An old catacomb key]] from [[Dillan Bolefreg]] in [[Antonica]]* ( -1180, 26, -955 ) COPY
-- [28] [[The Lost Artifacts]] - *from [[Eenekie Blazdine]] in [[Antonica]]* ( -1180, 28, -964 ) COPY
-- [30] [[History of the Condemned Catacomb]] *(book quest) - purchase [[A goblin's notebook - History of the Condemned Catacomb (Book)|a goblin's notebook - History of the Condemned Catacomb]] from [[Abram Calvern]] in [[Antonica]]* ( -1180, 28, -964 ) COPY
-- [33] [[The Ancient Watcher]] - *from [[Sir Dinzzie]] in [[Antonica]]* ( -1177, 27, -958 ) COPY
+- [25] [[The Condemned Catacomb Key]] *(access quest) - purchase [[An old catacomb key]] from [[Dillan Bolefreg]] in [[Antonica]]* {{waypoint -1180, 26, -955}} COPY
+- [28] [[The Lost Artifacts]] - *from [[Eenekie Blazdine]] in [[Antonica]]* {{waypoint -1180, 28, -964}} COPY
+- [30] [[History of the Condemned Catacomb]] *(book quest) - purchase [[A goblin's notebook - History of the Condemned Catacomb (Book)|a goblin's notebook - History of the Condemned Catacomb]] from [[Abram Calvern]] in [[Antonica]]* {{waypoint -1180, 28, -964}} COPY
+- [33] [[The Ancient Watcher]] - *from [[Sir Dinzzie]] in [[Antonica]]* {{waypoint -1177, 27, -958}} COPY
 
 ## [[Windstalker Village]]
 

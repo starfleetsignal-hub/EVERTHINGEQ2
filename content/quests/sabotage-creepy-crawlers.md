@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. Find a crate of cockroaches by checking Enlightenment Cemetary {{waypoint 165, 0, -240}} and [[Turmoil Cemetary]] {{waypoint -1344, 0, 349}}.I found a crate of cockroaches at 243.90,-47.60,257.13 at a fenced in graves,and tombstones.
+1. Find a crate of cockroaches by checking Enlightenment Cemetary {{waypoint 165, 0, -240}} and [[Turmoil Cemetary]] {{waypoint -1344, 0, 349}}.I found a crate of cockroaches at {{waypoint 243.90, -47.60, 257.13}} at a fenced in graves,and tombstones.
 1. Infest 5 boxes of cabbage with the cockroaches at the [[Crossroads]], the Dregs camp {{waypoint -289, 0, 55}}, or the Kerran camp {{waypoint -195, 0, 165}}.Also found crates of cabbage in the nomad camp SW from wailing caves at {{waypoint -160, -50, -815}}
 1. Return to [[Gil McMartin]] for your reward.
 

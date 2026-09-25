@@ -37,8 +37,8 @@ source:
 
 ## Steps
 
-1. The first True Spirit is Hulgren, Spirit of Wisdom. His altar can be found in Everfrost at ( -225, 5, -353 ) , near the stags and numbfoots.
-1. Hulgren sends you to find an ancient tome located somewhere in Kunark. After killing the final name in Charasis: Vault of Eternal Sleep you will find the update (a large book) in the trap to the right (if leaving the room) of the chamber door. ( 5, -17, -191 )
+1. The first True Spirit is Hulgren, Spirit of Wisdom. His altar can be found in Everfrost at {{waypoint -225, 5, -353}} , near the stags and numbfoots.
+1. Hulgren sends you to find an ancient tome located somewhere in Kunark. After killing the final name in Charasis: Vault of Eternal Sleep you will find the update (a large book) in the trap to the right (if leaving the room) of the chamber door. {{waypoint 5, -17, -191}}
    - *Note:You must be able to speak Death's Whisper to pick up the tome.*
    - *Note: You can harvest the tome without clearing the zone.*
 1. After this you have to go back to the altar in Everfrost and report your success.

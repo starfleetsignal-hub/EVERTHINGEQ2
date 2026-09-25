@@ -6,7 +6,7 @@ race: Nightblood
 level: '30'
 difficulty: Solo ^
 zone: '[[Nektulos Forest]]'
-location: Becomes killable after he slays Fisherman Aurvill and Fisherman Djaani at the docks (south end on the beach).
+location: Becomes killable after he slays Fisherman Aurvill and Fisherman Djaani at the docks (south end on the beach). {{waypoint 758, -0.90, -128.64}}
 related_quests:
 - '[[Maid for the Mist - Part II]]'
 achievement_xp: true

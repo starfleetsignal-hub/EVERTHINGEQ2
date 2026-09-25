@@ -42,7 +42,7 @@ Go through [[The Down Below]] to speed up travel time as all the zones needed fo
 1. Receive [[Gnomish Key Replicator]] from Towser.
 1. Head to the [[Concordium Tower]] in [[South Qeynos]] at night. Go through the red teleporter and click on the locked box on the table on the lower level at {{waypoint 703, 42, 106}}.
    - This step can be done during the day, but an even con hostile mob will spawn and attack you. If you don't want to fight, run it outside and a guard will kill it.
-1. Speak to [[Arbuthnot Jumroller]] (785, -22, -527) in [[The Elddar Grove]] near [[The Baubbleshire]] gate to get a [[Replicated Key]].
+1. Speak to [[Arbuthnot Jumroller]] {{waypoint 785, -22, -527}} in [[The Elddar Grove]] near [[The Baubbleshire]] gate to get a [[Replicated Key]].
 1. Return to the [[Concordium Tower]] in [[South Qeynos]] at night. Click on the box again to receive the [[The Secret Plans]].
    - Again, this step can be done during the day, but you will be attacked.
 1. Return to [[Towser Flizgibbert]].

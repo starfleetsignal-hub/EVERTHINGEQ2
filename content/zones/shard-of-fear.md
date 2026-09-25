@@ -5,7 +5,7 @@ release: '[[LU39]]'
 levels: '70'
 access: Group
 entered_from: '[[The Feerrott]]'
-entrance: '[[Cave of Fear (POI)|Cave of Fear]] -1,827 -24 461'
+entrance: '[[Cave of Fear (POI)|Cave of Fear]] {{waypoint -1827, -24, 461}}'
 players: 90 minutes-3 days
 image: images/Shardoffear.jpg
 aliases:

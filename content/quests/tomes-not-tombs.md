@@ -67,7 +67,7 @@ source:
        - {{waypoint -248, -137, 112}} -- *S edge*
        - {{waypoint -206, -137, 120}} -- *SW edge*
        - {{waypoint -180, -137, 40}} -- *NW edge*
-       - (-276.17, -137.62, 44.81)
+       - {{waypoint -276.17, -137.62, 44.81}}
      - [[Sra'Veraz, the Shadowgate]] (Spiral Totem room, 4 tomes):
        - {{waypoint -48, -60, -17}} -- *to the right of entrance to room*
        - {{waypoint -17, -61, -77}} -- *top of ramp*

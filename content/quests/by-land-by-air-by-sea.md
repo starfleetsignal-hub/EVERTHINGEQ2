@@ -47,13 +47,13 @@ source:
 1. Travel to [[The Vaults of El'Arad]] in [[The Barren Sky]]. {{waypoint 309, 193, 378}}
 1. Kill [[Korgo the Vault Keeper]]. {{waypoint 200, 57, -1}}
    - Click [[The Vaults of El'Arad|here]] for a guide on how to spawn/reach Korgo.
-     - Clear out the entire first floor, up to and including [[The Arcane Librarian]]. ( 101, 0, 111 ) Copy
-     - Return to [[The Ulteran Spire Room]] ( -6, -2, 6 ) Copy, and kill the [[A Quellithulian portal mage|Quellithulian portal mages]] around the spire.
+     - Clear out the entire first floor, up to and including [[The Arcane Librarian]]. {{waypoint 101, 0, 111}} Copy
+     - Return to [[The Ulteran Spire Room]] {{waypoint -6, -2, 6}} Copy, and kill the [[A Quellithulian portal mage|Quellithulian portal mages]] around the spire.
      - After defeating [[The Messenger of El'Arad]], step into the spire to be teleported to the second floor.
-     - Clear out the second floor and then click on the teleporter at ( 1, 26, -20 ) Copy.
-     - Clear out the third floor and defeat [[Korgo the Vault Keeper]]. ( 200, 57, -1 ) Copy
+     - Clear out the second floor and then click on the teleporter at {{waypoint 1, 26, -20}} Copy.
+     - Clear out the third floor and defeat [[Korgo the Vault Keeper]]. {{waypoint 200, 57, -1}} Copy
 1. Examine a book in same room as Korgo. {{waypoint 170, 57, -33}}
-1. Teleport back to entrance: ( 186, 56, -1 )
+1. Teleport back to entrance: {{waypoint 186, 56, -1}}
 1. Return to [[Arbiter Selek]] in [[The Bonemire]]. {{waypoint 230, -845, 329}}
 
 ## Rewards

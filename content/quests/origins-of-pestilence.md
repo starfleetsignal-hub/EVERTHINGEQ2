@@ -37,14 +37,14 @@ source:
 
 1. Catalogue a number of inhabitants of [[Detroxxulous, the Plaguelands]]:
    - Catalogue a [[Clot water leech]] in the waters on either side of the [[Last House Crypts]]
-   - Catalogue [[A vilehorn festrus]] around 488, 62, -166
+   - Catalogue [[A vilehorn festrus]] around {{waypoint 488, 62, -166}}
    - Catalogue [[A plague hunter]]
-   - Catalogue [[A bubonian infector]] near 186,83,-323
-   - Catalogue [[A bubonian wretch]] near 186,83,-323
-   - Catalogue [[A putrid pile]] near 56,78,-271
-   - Catalogue [[A vile contagion]] near 262,117,-221
+   - Catalogue [[A bubonian infector]] near {{waypoint 186, 83, -323}}
+   - Catalogue [[A bubonian wretch]] near {{waypoint 186, 83, -323}}
+   - Catalogue [[A putrid pile]] near {{waypoint 56, 78, -271}}
+   - Catalogue [[A vile contagion]] near {{waypoint 262, 117, -221}}
    - Catalogue [[A vile-wing festrus]]
-   - Catalogue [[A pusling memnoc]] near 30,94,-203
+   - Catalogue [[A pusling memnoc]] near {{waypoint 30, 94, -203}}
    - Catalogue [[A pusling leaker]] -21,98,-139
    - Catalogue [[A rot crawler (Detroxxulous)|a rot crawler]] -117,46,206
    - Catalogue [[A pox swarm]] -77,20,436

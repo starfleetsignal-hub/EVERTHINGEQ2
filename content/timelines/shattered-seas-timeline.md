@@ -86,7 +86,7 @@ There are also some other solo quests avalible that don't count for the "Shatter
 
 ### Other quests
 
-- Quests from [[Urra]] *(opens after escorting [[Kitkalla]] to colony)* at 909, 41, -962
+- Quests from [[Urra]] *(opens after escorting [[Kitkalla]] to colony)* at {{waypoint 909, 41, -962}}
 1. [[The Lost Son]]
 1. [[Sonset]]
 

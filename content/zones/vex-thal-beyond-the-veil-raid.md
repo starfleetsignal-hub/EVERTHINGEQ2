@@ -104,7 +104,7 @@ source:
    - Every 45 seconds, there will be an arcane detriment that will land on the raid force called "Disconcerting Leech" which will need to be cured three times as it has three stacks.
    - The important thing here is performing at least one cure within 4-5 seconds of the last group cure - if this doesn't happen, there will be a message indicating that each player who didn't receive a cure is triggering a heal on Akhessa Va Liako Vess, due to having this detriment "applied to them for too long without being dispeled".
 1. At every x9% starting at 89%, the boss will disappear and a dark shade of the boss will appear. These do not have many hitpoints and can be burned easily.
-1. At 85, 65, 45, and 25, the boss will emote that they focus their "mental attacks into the mind of" a single person (tank) on the raid. During that time, the tank will be locked down. The raid needs to burn the boss down to the next x3% (83, 63, 43, 23) rapidly to get the tank loose.
+1. At {{waypoint 85, 65, 45}}, and 25, the boss will emote that they focus their "mental attacks into the mind of" a single person (tank) on the raid. During that time, the tank will be locked down. The raid needs to burn the boss down to the next x3% (83, 63, 43, 23) rapidly to get the tank loose.
 1. Scepters
    - Starting at around 80%, the boss will have a buff that looks like three shields with a black background that starts gaining stacks.
    - This can be removed by using a scepter on the boss.

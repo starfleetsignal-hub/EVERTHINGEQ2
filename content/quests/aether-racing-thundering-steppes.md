@@ -35,7 +35,7 @@ source:
 
 ## Steps
 
-1. Speak to the [[Aether Racing Referee]] located on the docks at ( -381, -23, -421 ).
+1. Speak to the [[Aether Racing Referee]] located on the docks at {{waypoint -381, -23, -421}}.
 1. Step on the the teleport pad to start
 1. Complete the course in the designated time period
 1. Return to [[Aether Racing Referee]]

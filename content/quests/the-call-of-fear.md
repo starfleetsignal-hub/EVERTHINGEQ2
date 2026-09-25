@@ -51,7 +51,7 @@ source:
 1. In [[Charasis: Vault of Eternal Sleep]] (enter through the [[Jarsath Wastes]], {{waypoint 607, -126, 198}}) loot a jewelry box on the left just after you enter the room of the [[Praetor of the Phylactery]] {{waypoint 23, -4, -165}}
    - You will have to do the walkthrough for [[Charasis: Vault of Eternal Sleep]] before you can open the door to retrieve the music box.![Praetor of the Phylactery's jewelry box](images/Praetor_of_the_Phylactery's_jewelry_box.jpg)
 1. Return to the [[Proctor Talnisk]] in [[Riliss (POI)|Riliss]] ([[Fens of Nathsar]]) with the necklace to complete the agreement.
-1. Return to [[Xuurk]] (Lost Temple of Cabilis / Fens of Nathsar) (-80, 23, -1053 )
+1. Return to [[Xuurk]] (Lost Temple of Cabilis / Fens of Nathsar) {{waypoint -80, 23, -1053}}
 
 ## Rewards
 

@@ -49,9 +49,9 @@ source:
      - {{waypoint -412, 8, 144}}
      - {{waypoint -631, -3, 162}}
    - 3 diseased dragonfly corpses - found around Allize Tae Outpost, just before the Gulch of Thule.
-     - -1,163 -6 724
-     - -1,148 -7 739
-     - -1,249 ,8 763
+     - {{waypoint -1163, -6, 724}}
+     - {{waypoint -1148, -7, 739}}
+     - {{waypoint -1249, 8, 763}}
 1. Return to [[Vashazdar Manoisti]] to receive your reward.
 
 ## Rewards

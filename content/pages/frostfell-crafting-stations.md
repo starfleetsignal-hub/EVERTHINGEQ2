@@ -57,7 +57,7 @@ Before you can get the recipes for the keys you need to get the daily Frostfell 
    - [[A festive key]] - key to unlock a chest which holds a special, festive workbench
    - [[A merry key]] -key to unlock a chest which holds a special, stove and keg
 1. After completing the [[Frostfell Decoration Committee: Permafrost!]] quest, exit and craft the keys *in* the Wonderland Village.
-   - This must be done in the village, rather than the Icy Keep zone, as the key recipes require a *Frostfell Workbench* and the Icy Keep has normal crafting stations. The Frostfell Workbenches can be found near 334 -23 -1,511.
+   - This must be done in the village, rather than the Icy Keep zone, as the key recipes require a *Frostfell Workbench* and the Icy Keep has normal crafting stations. The Frostfell Workbenches can be found near {{waypoint 334, -23, -1511}}.
    - If you already have a set of the looted Frostfell stations in one of your character's homes or in a guild hall, you can also craft the keys at those stations.
    - The fuel required to craft these is sold within the Wonderland, but the other materials are normal, [[Harvesting Timeline|non-seasonal, gathered materials]].
 1. Travel around the world and locate the chests that hold the special stations.
@@ -92,7 +92,7 @@ This chest contains the [[A Cheery Loom]].
 [[Antonica]]:
 
 - {{waypoint -1892, -33, -495}} - in [[Windstalker Village]], near the cows
-- -2,121 -45 424 - just outside [[The Keep of the Gnollslayers]]
+- {{waypoint -2121, -45, 424}} - just outside [[The Keep of the Gnollslayers]]
 - {{waypoint -719, -16, 250}} - against the outer wall of [[Frontier Farm]], on the side with the chimney
 - {{waypoint -547, -13, -334}} - by the wall, outside [[The Keep of the Ardent Needle]]
 

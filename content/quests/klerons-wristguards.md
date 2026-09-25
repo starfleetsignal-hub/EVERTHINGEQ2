@@ -32,7 +32,7 @@ This quest is part of a 6-quest series; the first five can be done in any order.
 
 ## Steps
 
-1. Kill [[A dusk dart|dusk darts]] off the [[Port Naythex]] dock until you obtain 12 dusk dart glands. (904.29, -1.89, -136.66)
+1. Kill [[A dusk dart|dusk darts]] off the [[Port Naythex]] dock until you obtain 12 dusk dart glands. {{waypoint 904.29, -1.89, -136.66}}
 1. Visit [[Behemoth Pond]]. {{waypoint -208.98, 0.78, -257.73}}
 1. Kill 18 skeletons. You can find level 20 skeletons west/south west of the [[Commonlands]] gate {{waypoint -82.91, 0.06, 233.29}}, 25 skeletons around [[The Funeral Pyre]], or higher level skeletons at [[Citadel of Gul'thex]]. You can find a closer set of skeletons at {{waypoint -90.55, -0.24, 201.67}}, just east of [[J'Rais Bridge]] in [[Nektulos Forest]].
 1. Kill rumbleroots saplings until you obtain 5 pieces of rotting wood.  rumbleroots saplings can be found around {{waypoint -788, 66, -9}} and {{waypoint -853, 44, -127}}.

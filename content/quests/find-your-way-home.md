@@ -79,7 +79,7 @@ source:
 1. I need to return to Dolas and tell him of the victory against Drusella Sathir.
    - Speak to Dolas at {{waypoint -721, -62, -195}} in [[The Sinking Sands]].
 1. I am to meet Dolas back at his home city, [[Nye'Caelona]].
-   1. Speak to Chancellor Thanial Vylardin at -219.50 57.34 -224.35 138.88 0.00 0.00 in inner [[Nye'Caelona]].
+   1. Speak to Chancellor Thanial Vylardin at {{waypoint -219.50, 57.34, -224.35}} in inner [[Nye'Caelona]].
    1. Speak to Dolas Vylardin at {{waypoint -218, 57, -222}} in inner [[Nye'Caelona]].
 
 ## Rewards

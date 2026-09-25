@@ -62,7 +62,7 @@ The starter for this quest exists in five separate locations:
      - [[The Feerrott]] {{waypoint -1094, 0, 913}}, In a cave next to the [[Gulch of Thule]].  Head East from the Druid Ring till you get to {{waypoint -1144, -2.49, 874}}. in front of the cave.
    - Vul'Uzu Druzaic Shrine (Tier 5)
      - [[Everfrost]] {{waypoint 503, -108, -1605}}, **underwater,** west of where [[Master Webclaw]] spawns. (Due north of the Spire)
-     - [[Lavastorm]] {{waypoint 86, -32, 139}}, Southwest of the lower [[Dragon's Breath Tunnel]]  entrance. It's dark, so you can miss it. (I found it at ( 84.76, -32.32, 137.19 ).  A bit further west.
+     - [[Lavastorm]] {{waypoint 86, -32, 139}}, Southwest of the lower [[Dragon's Breath Tunnel]]  entrance. It's dark, so you can miss it. (I found it at {{waypoint 84.76, -32.32, 137.19}}.  A bit further west.
 
 ## Reward
 

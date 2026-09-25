@@ -37,7 +37,7 @@ expansion_source: patch
 - Slay 6 [[A repelled Quel'ule warmage|repelled Quel'ule warmages]]
 - Kill 6 [[A repelled Quel'ule eradicator|repelled Quel'ule eradicators]]
 
-Note: these are all located up the hill from the quest giver and at the top around loc -1057, 538, 484.
+Note: these are all located up the hill from the quest giver and at the top around {{waypoint -1057, 538, 484}}
 
 ## Rewards
 

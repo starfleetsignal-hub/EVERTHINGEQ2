@@ -6,7 +6,7 @@ race: Golem
 level: '65'
 difficulty: Solo ^
 zone: '[[The Barren Sky]]'
-location: '[[Whisperwind Island]] at (-788, -71, -408)'
+location: '[[Whisperwind Island]] at {{waypoint -788, -71, -408}}'
 drops:
 - '[[Beguiler''s Shoes]]'
 - '[[Marauder''s Sabatons]]'

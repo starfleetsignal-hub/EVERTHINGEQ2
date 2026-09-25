@@ -43,7 +43,7 @@ Scales with player level, requires level 60+
 1. Speak with [[Lachlyn Cauldthorn (Antonica)|Lachlyn Cauldthorn]], another adventurer who has come to help the farmers, to coordinate your defense of the farms. {{waypoint -1550, -13, 232}}
    - Patrol the burrows around the edges of the fields.
    - Kill the [[A Blackburrow invader|Blackburrow invaders]] that pop from the burrows in threes.
-1. Return to [[Lachlyn Cauldthorn (Antonica)|Lachlyn Cauldthorn]]. -1,556 -13 233 He will guard the farm while you enter the gnoll tunnels.
+1. Return to [[Lachlyn Cauldthorn (Antonica)|Lachlyn Cauldthorn]]. {{waypoint -1556, -13, 233}} He will guard the farm while you enter the gnoll tunnels.
    - Click on any of the gnoll burrows to enter the [[The Blackburrow Tunnels|Blackburrow Tunnels]]
    - Recover 6 crates of stolen Farm Supplies.
    - You will likely have to kill various [[A Blackburrow tunneler|Blackburrow tunnelers]] along the way.

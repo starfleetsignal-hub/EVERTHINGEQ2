@@ -4,7 +4,7 @@ type: monster
 race: Spider
 level: '95'
 zone: '[[Obol Plains]]'
-location: '[[Lujien Fields]] around (433, 74, -159) also {{waypoint -31, 51, 279}}'
+location: '[[Lujien Fields]] around {{waypoint 433, 74, -159}} also {{waypoint -31, 51, 279}}'
 aggressive: true
 categories:
 - Monster pages that need EQ2MAP uid

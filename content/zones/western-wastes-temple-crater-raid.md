@@ -7,7 +7,7 @@ levels: '130'
 access: Raid
 difficulty: x4
 entered_from: '[[Western Wastes]]'
-entrance: -441.85, 124.05, -257.37 80272
+entrance: '{{waypoint -441.85, 124.05, -257.37}}'
 players: 6 days 18 hours-14 days 12 hours
 related_quest: '[[Scars of Destruction: Bonds of Mischief - Part 3]]'
 categories:

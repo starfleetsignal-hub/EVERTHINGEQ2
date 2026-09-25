@@ -2,7 +2,7 @@
 title: Shroomba proto-capling
 type: poi
 zone: '[[Greater Faydark]]'
-location: Found with grobin diggers in Dyer Mycoria caves (76, -46, -195)
+location: Found with grobin diggers in Dyer Mycoria caves {{waypoint 76, -46, -195}}
 added_in: Echoes of Faydwer
 image: images/Shroomba_proto-capling.jpg
 categories:

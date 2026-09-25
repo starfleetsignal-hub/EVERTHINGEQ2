@@ -39,7 +39,7 @@ source:
 1. Hunt the following
    - Hunt either
      - 8 Frenzied sandcrawler (Blister ant Flats) **or**
-     - 8 outland sandstalker (near the entrance) for carapace.  ( 155, 173, -203 )
+     - 8 outland sandstalker (near the entrance) for carapace.  {{waypoint 155, 173, -203}}
    - and Hunt either
      - 6 parasitic enchroacher (flying ants on Blast ant Flats) **or**
      - 6 aridwing hunters (above path from entrance to fort) for stingers.

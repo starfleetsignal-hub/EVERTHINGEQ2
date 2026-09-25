@@ -58,7 +58,7 @@ source:
 - To remove the invulnerability, you need to jump high up with the help of the fiery pillars that will beat from the grates on the floor. There, under the ceiling, you will see fiery stripes in the shape of a star, you need to jump on them, and destroy five crystals in which swords are walled up. The swords will fall down.
 - When all five crystals are destroyed, jump down and destroy the swords.
 - During the fight, the name will summon hells.
-- Use the brazier /waypoint 0, 102, 9 to go further.
+- Use the brazier {{waypoint 0, 102, 9}} to go further.
 - You will get into a looped corridor. You need to beat 8 hells that wander along the corridor and activate the petal-steps on the round platforms in the alcoves of the corridor. The number of steps you activate is the number of steps on the platform with the name. By and large, you do not need to activate all 8 steps, one is enough to jump onto the platform to the final name))
 - When all 8 hells are destroyed, use the western or eastern brazier to get to the name.
 

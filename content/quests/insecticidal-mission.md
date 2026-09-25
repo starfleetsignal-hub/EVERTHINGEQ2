@@ -37,7 +37,7 @@ source:
 1. Use the [[Cae'Dal Growth Spike]] to lure out and kill 3 [[Lobber weevils]] from underground in the waterfall overlook section {{waypoint -698.10, 5.12, -189.09}}.
    - Note: You'll need to plant the spike three times in each garden section, once for each weevil (3 per location).
 1. Kill 3 lobber weevils in the west plot section {{waypoint -417.05, -76.05, -357.79}}.
-1. Kill 3 lobber weevils in the main plot section -485.08 -98.89 -403.47 301.87 0.00 0.00.
+1. Kill 3 lobber weevils in the main plot section {{waypoint -485.08, -98.89, -403.47}}.
 1. Kill 3 lobber weevils in the coastal view section {{waypoint -557, -84.91, -666.82}}.
 1. Return to Sarafain Eillynn.
 

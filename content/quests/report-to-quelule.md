@@ -44,7 +44,7 @@ source:
 1. Talk to [[Researcher Tahar]] in [[Quel'ule]] {{waypoint -200, 367, 590}}, which means travelling deep into [[The Stonebrunt Highlands]].
 - *There are two ways to get to the Highlands.*
   - *You can either head to [[Spire Island]] and use the [[Ulteran Spires|Spire]]...*
-  - *Or travel to the [[Toxxulia Forest]] Station and hail the [[A Temporal pathfinder (The Sundered Frontier)|Temporal pathfinder]] 380 137 2,518 and select [[The Stonebrunt Highlands]]. After zoning, hail the [[A Temporal pathfinder]] standing next to you and select [[Quel'ule]]. Or hail [[A Temporal guide]] and select [[Moonfield Hamlet (POI)|Moonfield Hamlet]] where you will finally hail [[A Temporal guide]] and select [[Quel'ule]].*
+  - *Or travel to the [[Toxxulia Forest]] Station and hail the [[A Temporal pathfinder (The Sundered Frontier)|Temporal pathfinder]] {{waypoint 380, 137, 2518}} and select [[The Stonebrunt Highlands]]. After zoning, hail the [[A Temporal pathfinder]] standing next to you and select [[Quel'ule]]. Or hail [[A Temporal guide]] and select [[Moonfield Hamlet (POI)|Moonfield Hamlet]] where you will finally hail [[A Temporal guide]] and select [[Quel'ule]].*
 
 ## Rewards
 

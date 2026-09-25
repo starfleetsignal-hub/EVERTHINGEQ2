@@ -47,7 +47,7 @@ The Gehein are a quest-spawn around the spires, also look near the 3 gates leadi
    1. find animated Gehein feet
    1. find an animated Gehein head
       1. a. Dialog from a Gehein head: "*Put me down!*" **[Gah! a talking head!]** "*Of course! I am Gehein. Now put me down! Or else!*" **[Or else what?]****  ***"Or else!... Bah! I hate Wayward...*" **[I am putting you away.]**
-   1. Return to Alzar ( -88, 44, -210 )
+   1. Return to Alzar {{waypoint -88, 44, -210}}
    1. He has the reformed Gehein laying on the table. Examine it for the update.
 
 ![the reformed Gehein](images/A_reformed_Gehein.jpg)

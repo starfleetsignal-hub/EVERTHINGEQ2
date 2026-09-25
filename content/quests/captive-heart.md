@@ -56,7 +56,7 @@ This quest is part of the World Event: [[A Goddess Risen]].
    1. Make sure you have 1 [[Rough malachite]], 1 [[Lead cluster]], and 2 [[Basic Coal|basic coal]].  The first two can be harvested from T1 zones, or bought on the broker, and the coal can be bought from a wholesaler.
    1. Craft the [[Empyrean Hammer]] at a [[Work bench]].
 1. Return to Annalisa Swornlove
-1. Crack the [[Cairn of the Huntress|Cairn of the Huntress's]] magical encasement ( 28, 148, -48 )
+1. Crack the [[Cairn of the Huntress|Cairn of the Huntress's]] magical encasement {{waypoint 28, 148, -48}}
    1. Head into the cairn and click on the statue of [[Erollisi Marr]]
 1. Speak to "[[Ullkorruuk|Annalisa Swornlove]]"
 1. Speak to [[Aaronolis Swornlove]]

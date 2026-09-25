@@ -42,7 +42,7 @@ source:
 1. Kill the Runnyeye Hoard Watchers, Defenders and Wizards as you explore
 1. Destroy "a wooden spearbucket" {{waypoint 100.00, -16.00, -108.31}} and "a goblin totem" {{waypoint 123.44, -16.76, -136.91}} items to spawn "a stinky Runnyeye snack" (a rat), or a lootable bag of coins, similar to Deep Within Hammerhall
 1. Defeat the two Runnyeye Hoard Guards and the Runnyeye Boommaker in the final room
-1. Pick up the *Boom Keg* ( 132.55, -16.00, -134.60 ) place it in front of the Unopenable door ( 123.44, -16.76, -136,91 ). **Red** text will flash on your screen as you get near the door ***The door looks damaged, and my be forced open by a explosion*** just place it and it will do the rest.
+1. Pick up the *Boom Keg* {{waypoint 132.55, -16.00, -134.60}} place it in front of the Unopenable door ( 123.44, -16.76, -136,91 ). **Red** text will flash on your screen as you get near the door ***The door looks damaged, and my be forced open by a explosion*** just place it and it will do the rest.
 1. Follow the passage to the next door, open it and defeat [[Ntemk Darktongue]] the "Runnyeye Shinykeeper"
 1. Collect the four green-glowing Goblish Stones
 1. If you have Escape use it to return to the entrance, zone out, and a *halfing pony* will be waiting to take you back to the docks' ![Goblish Stone](images/Goblish_Stone.jpg)

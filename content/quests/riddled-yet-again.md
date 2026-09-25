@@ -49,9 +49,9 @@ source:
 
 ![fire](images/Fire.jpg)
 
-1. Travel to [[Moors of Ykesha]] and click on the candle on the counter at 1,680 453 806.
+1. Travel to [[Moors of Ykesha]] and click on the candle on the counter at {{waypoint 1680, 453, 806}}.
 1. Return to Imenand for the next riddle.
-1. Travel to the [[The Sundered Frontier]], then travel to [[Paineel]]. Hail the Temporal Guide in Paineel and travel to [[Kerra Isle]]. Click the fire at 1,310 14 2,330 (in the hunter camp, not far from the landing pad).
+1. Travel to the [[The Sundered Frontier]], then travel to [[Paineel]]. Hail the Temporal Guide in Paineel and travel to [[Kerra Isle]]. Click the fire at {{waypoint 1310, 14, 2330}} (in the hunter camp, not far from the landing pad).
 1. Return to Imenand in the Enchanted Lands to complete the quest.
 
 ## Rewards

@@ -37,7 +37,7 @@ source:
 ## Steps
 
 1. Examine the [[Stone of Sorrow]] in your inventory.
-1. Investigate the soil around the roots of the [[Tree of Blight]] in [[Eastern Wastes]]. This is located under a group of roots at 642 -453 4,203.
+1. Investigate the soil around the roots of the [[Tree of Blight]] in [[Eastern Wastes]]. This is located under a group of roots at {{waypoint 642, -453, 4203}}.
    - [[Gloomvine]] 93^^^ will attack you. He's fairly easy to solo/duo, but you do not have to kill him, the update comes from clicking the soil.
 1. Investigate the fate of Wuoshi and the Bloom of Growth: Examine the [[Stone of Sorrow]] again and head to [[Lesser Faydark]] to the Fugutr Tribe Camp at {{waypoint 105, 15, -375}} and jump in the river above the waterfall.  Head North to {{waypoint 162, 1, -643}} and enter the [[The Emerald Halls: Wuoshi’s Fate]].
 1. Towards the middle of the zone (up the ramp near Wuoshi and to the left) you will find [[Sabstin V'Despth]] {{waypoint 838, 133, -584}} a non-aggro NPC. Talk to her and she will aggro, 93^^^. Every 25% health she will summon a 93^^^ add that is best killed before you continue with her, or you will end up with all three adds on you.
@@ -72,7 +72,7 @@ source:
 1. Return to [[Firiona Vie]].  As before,
    1. For good-aligned players, she can be found inside the [[Fae Royal Hall]] in [[Greater Faydark]] {{waypoint 423, 136, 261}}
    1. For evil-aligned players, she can be found inside the [[Shadow Oak]] in [[Darklight Wood]] {{waypoint 445, -23, -266}}
-1. You receive [[Druid's Divining Rod]], which you need to use at the [[Tree of Blight]] 642 -453 4,203 in Eastern Wastes. When used, a 92^^^ [[Wetrot]] will spawn, easily solo'd. It will drop a non-trade item, but it seems to update the group.
+1. You receive [[Druid's Divining Rod]], which you need to use at the [[Tree of Blight]] {{waypoint 642, -453, 4203}} in Eastern Wastes. When used, a 92^^^ [[Wetrot]] will spawn, easily solo'd. It will drop a non-trade item, but it seems to update the group.
 1. Speak to the [[Stone of Sorrow]]
 1. Return to [[Firiona Vie]] for your reward.
 

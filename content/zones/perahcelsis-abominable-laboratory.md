@@ -69,7 +69,7 @@ Like in the Twins Hard Mode fight in Palace of Roehn Theer, Arkatanthis and Xila
 
 The Secret Laboratorium of Perah'Celsis's room has four statues in it.  At intervals during the fight he will teleport the raid to one end of the room.  The raid must get back to these statues and have raid members standing in front of them.  Any statue without enough players in front of it will activate and attack.  It seems that three players in front of each statue is sufficient.Perah'Celsis will periodically charm members of the raid.  He also has an elemental AoE.
 
-If left agro'd but undamaged, or if not killed quickly enough, Perah'Celsis will emote (via red-text) that he is teleporting away "Escaping," right click and prevent him from teleporting or the encounter will end and [[Waansu]] appear in The Grand Laboratorium at loc (-37.65 -50.00 -181.47).
+If left agro'd but undamaged, or if not killed quickly enough, Perah'Celsis will emote (via red-text) that he is teleporting away "Escaping," right click and prevent him from teleporting or the encounter will end and [[Waansu]] appear in The Grand Laboratorium at loc {{waypoint -37.65, -50.00, -181.47}}.
 
 Perah'Celsis will also charm random members of the raid throughout the fight.  The charm is non-curable for a short duration (15 secs) roughly.  Perah'Celsis has a knock-back plus elemental damage AOE that also gives you a yellow screen, during which he is immune to attacks (lasts about 5-10 seconds)and finally to add, Perah'Celsis has an EMOTE that he is specifically targeting someone in the raid and rushes towards them. Your MT/OT should save snaps for these emotes.
 

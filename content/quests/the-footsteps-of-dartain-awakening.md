@@ -48,7 +48,7 @@ Note that while listed as Heroic, this quest is entirely soloable.
    1. One possible location is {{waypoint 1051.60, 17.83, 2079.26}},
    1. Another possible location is {{waypoint 1295, 16, 1913}},
    1. Another location is {{waypoint 1446, 24, 1981}}
-   1. Another location is (1205, 35, 2070)
+   1. Another location is {{waypoint 1205, 35, 2070}}
 1. Return to Kulrah.
 1. Speak with [[Jakna]] {{waypoint 1357, 12, 2372}}.
 1. Kill 12 [[A root glimmer|root glimmers]] in [[Toxxulia Forest]].

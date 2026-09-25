@@ -35,7 +35,7 @@ source:
 
 ## Steps
 
-1. Kill [[An idle handler|idle handler]]s and their pets in the rat area. (around -274, -38, 24)
+1. Kill [[An idle handler|idle handler]]s and their pets in the rat area. (around {{waypoint -274, -38, 24}})
 1. Return to Borris for your reward
 
 ## Rewards

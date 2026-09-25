@@ -80,7 +80,7 @@ This is a master list of the the statuettes needed for the quest [[Knights in th
 
 - **Sir Dydius**: [[Enchanted Lands]], inside [[The Misty Mine]] {{waypoint 401, -5, -932}}
 - **Sir Hukkle**: [[Rivervale]], [[The Laughing Trout]], on band stage  {{waypoint -438, -4, -154}}
-- **Sir Fiddin**: [[The Tower of the Drafling]] {{waypoint 381, 22, 116}} (Note: The statue is at the large Jum-Jum barrel, loc 377.21, 21.23, 113.28)  `- Wuoshi TLE Update: Statue is a statue again, and there is only one per instance. If numerous people need, disband before going in!
+- **Sir Fiddin**: [[The Tower of the Drafling]] {{waypoint 381, 22, 116}} (Note: The statue is at the large Jum-Jum barrel, {{waypoint 377.21, 21.23, 113.28}})  `- Wuoshi TLE Update: Statue is a statue again, and there is only one per instance. If numerous people need, disband before going in!
 
 ## [[Lavastorm (Continent)|Lavastorm]]
 

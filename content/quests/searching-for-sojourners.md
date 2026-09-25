@@ -38,7 +38,7 @@ expansion_source: patch
 1. [[Pantheera]] is worried that several Kejek sojourners are missing and has asked you to search for them.
    1. Search for missing sojourners in the Gragnar kobold caves. {{waypoint -577, 478, 894}}.
       - If you can not fly, the path leading to the first cave is:  {{waypoint -330.37, 388.94, 927.50}}.
-      - Enter the first cave at: -332.68 421.80 1,013.57. go through this cave to the end.
+      - Enter the first cave at: {{waypoint -332.68, 421.80, 1013.57}}. go through this cave to the end.
       - Once you exit the first cave, follow the path to the right to the second cave.
       - The entrance to the second cave is:  {{waypoint -517.82, 485.40, 844.61}}.
       - The update is at:  {{waypoint -577, 478, 894}}.

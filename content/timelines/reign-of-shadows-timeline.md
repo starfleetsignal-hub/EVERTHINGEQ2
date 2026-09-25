@@ -391,7 +391,7 @@ You can purchase the bounties in Shadeweaver's Thicket from [[Real Fernande]] on
   - Turn in location:Altar in Savage Weald {{waypoint -696.83, 292.52, -892.36}}
 - [[Bounty - Trillicor]]
   - Purchased with two of each [[Rotting Hand]], [[Bogling Arrow]], 100,000 Status Points and 500p
-  - Turn in location: 246, 16, -370 in Êcho Caverns.
+  - Turn in location: {{waypoint 246, 16, -370}} in Êcho Caverns.
 - [[Bounty - Xilniov]]
   - Purchaed with two of each [[Bloodied Fur]], [[Balanzite Golem Chain]], 100,000 Status Points and 500p
   - Turn in location: Altar in Echo Caverns {{waypoint -242.82, 311.56, -320.85}}

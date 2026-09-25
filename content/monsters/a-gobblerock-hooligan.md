@@ -7,7 +7,7 @@ level: 29-30
 difficulty: Heroic ^
 group: Gobblerock Clan
 zone: '[[Gobblerock''s Hideout]]'
-location: In the last room with [[The Gobbler]]
+location: In the last room with [[The Gobbler]] {{waypoint -12, 0.5, -80}}
 aggressive: true
 social: true
 added_in: Shattered Lands

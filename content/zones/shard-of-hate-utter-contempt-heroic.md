@@ -5,7 +5,7 @@ release: '[[LU106]]'
 levels: '110'
 access: Group
 entered_from: '[[Plane of Magic]]'
-entrance: On [[Valor's Roost]] near the transporter pad (-762, 347, 1045)
+entrance: On [[Valor's Roost]] near the transporter pad {{waypoint -762, 347, 1045}}
 players: 3 hours-3 days
 categories:
 - Group Zones

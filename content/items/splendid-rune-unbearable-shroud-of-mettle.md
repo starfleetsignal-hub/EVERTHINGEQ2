@@ -8,7 +8,7 @@ level: '135'
 slot: blue
 flags: no-trade no-value
 effect_name: Shroud of Mettle
-effects: "- When Equipped:\n  - Reduces all damage done to caster by up to 4,811,943.\n  - Cannot be modified except by direct means"
+effects: "- When Equipped:\n  - Reduces all damage done to caster by up to {{waypoint 4, 811, 943}}\n  - Cannot be modified except by direct means"
 item_link: '\aITEM 323667792 298530595:Splendid Rune: Unbearable Shroud of Mettle\/a'
 categories:
 - Adornments

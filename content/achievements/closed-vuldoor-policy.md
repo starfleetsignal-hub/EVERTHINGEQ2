@@ -61,16 +61,16 @@ source:
 
 - Cage Door 1 {{waypoint 70, 240, 465}}
 - Cage Door 2 {{waypoint 249, 239, 321}}
-- Cage Door 3 337.42 238.34 147.77 43.45 0.00 0.00
+- Cage Door 3 {{waypoint 337.42, 238.34, 147.77}}
 - Cage Door 4 {{waypoint 579, 246, 167}}
 - Cage Door 5 {{waypoint 619, 248, 160}}
 - Cage Door 6 {{waypoint 625, 248, 155}}
 - Cage Door 7 {{waypoint 633, 250, 134}}
 - Cage Door 8 {{waypoint 634, 250, 124}}
 - Cage Door 9 {{waypoint 631, 250, 121}}
-- Cage Door 10 581.91 257.36 51.29 19.10 0.00 0.00
-- Cage Door 11 574.43 257.31 38.71 17.83 0.00 0.00
-- Cage Door 12 389.51 211.62 59.31 60.04 0.00 0.00
-- Cage Door 13 382.70 211.50 45.59 30.24 0.00 0.00
+- Cage Door 10 {{waypoint 581.91, 257.36, 51.29}}
+- Cage Door 11 {{waypoint 574.43, 257.31, 38.71}}
+- Cage Door 12 {{waypoint 389.51, 211.62, 59.31}}
+- Cage Door 13 {{waypoint 382.70, 211.50, 45.59}}
 - Cage Door 14
 - Cage Door 15<br>

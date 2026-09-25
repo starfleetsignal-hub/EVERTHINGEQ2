@@ -79,7 +79,7 @@ expansion_source: patch
      - [[A Toxxulia guardian|Toxxulia Guardians]] in [[The Sundered Frontier]]
      - [[A slitherstrike mamba|Slitherstrike Mamba]] in [[The Stonebrunt Highlands]]
    - **Tier 10 (Level 91-100)**
-     - [[An insidious fearling|Insidious fearlings]]  ( /waypoint -1736.32, 221.31, 1017.40 ) in [[Eidolon Jungle]]
+     - [[An insidious fearling|Insidious fearlings]]  {{waypoint -1736.32, 221.31, 1017.40}} in [[Eidolon Jungle]]
      - [[A churning obol|Churning obol]] in [[Obol Plains]]
    - **Tier 11 (Level 101-110)**
      - [[Auroric slug|Auroric slugs]] in [[Plane of Magic]]

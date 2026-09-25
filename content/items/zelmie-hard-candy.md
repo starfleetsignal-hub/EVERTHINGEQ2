@@ -17,4 +17,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Found it in the caves in Echo Caverns /waypoint 729.10, 1426, -488.14
+Found it in the caves in Echo Caverns {{waypoint 729.10, 1426, -488.14}}

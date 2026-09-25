@@ -25,21 +25,21 @@ source:
   license: CC BY-SA 3.0
 ---
 
-**The Sambata Champion**: (-556.00 34.03 765.09)
+**The Sambata Champion**: {{waypoint -556.00, 34.03, 765.09}}
 
-- Take the costal Shik'Nar drone at ( -90.65 91.27 -787.04)
+- Take the costal Shik'Nar drone at {{waypoint -90.65, 91.27, -787.04}}
 - Burn
 
-**Stonegrabber Colossus: (-302.35 4.50 -222.53)**
+**Stonegrabber Colossus: {{waypoint -302.35, 4.50, -222.53}}**
 
 - Return to the costal Shik'Nar drone and go to the bog.
 - Burn. Bubbles will spawn around the battlefield, must run into them to pop them. Each one gives a damage reduction stack. If all are left up he will stop taking damage. Difficult to flawless.
 
-**Xi Xia Xius: (-663.31 79.49 143.12)**
+**Xi Xia Xius: {{waypoint -663.31, 79.49, 143.12}}**
 
 - Burn. Sit in one of the braziers, will prevent you from being sucked into him. Use pets and DoTs to do most of your damage
 
-**Pli Va Liako Vess: (-871.27 -62.65 -803.43)**
+**Pli Va Liako Vess: {{waypoint -871.27, -62.65, -803.43}}**
 
 - Take the costal Shik'Nar drone
 - Burn.

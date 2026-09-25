@@ -7,7 +7,7 @@ icon: images/Item_5467.png
 item_level: '0'
 flags: no-value
 description: This item can be placed on the floor in any house type.
-obtained_from: Purchased from a Flamebearer Supply Master (473, 82, -551) in Yon Gorroth
+obtained_from: Purchased from a Flamebearer Supply Master {{waypoint 473, 82, -551}} in Yon Gorroth
 item_link: \aITEM -989264433 -1615950131:Ichor Fiend Plushie\/a
 categories:
 - Census Credits

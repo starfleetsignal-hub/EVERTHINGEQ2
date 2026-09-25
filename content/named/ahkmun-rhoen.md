@@ -40,7 +40,7 @@ source:
 
 - There may be certain conditions you have to meet to spawn Akh'Mun Rhoen. See the talk page for more information.
 - Before spawning a vampire (Malkonis D'Morte) will spawn and go into a long story. (My logging stopped working because of a client crash so I don't have his name).
-- There is a climbable wall at loc (-63, 1.5, 340) which will take you to the top of the tower.
+- There is a climbable wall at loc {{waypoint -63, 1.5, 340}} which will take you to the top of the tower.
 - Defeating Ahk'Mun Rhoen will reward you with the achievement [[Rhoen Rampager]] and your guild the same title if they meet the [[Guild Achievements]] requirements.
 
 ## Strategy

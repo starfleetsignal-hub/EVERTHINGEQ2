@@ -33,7 +33,7 @@ source:
 
 ## Steps
 
-Note:  To get to the Erudin Palace, In Stonebrunt Highlands fly to the Marred Plateau platform. There is an adjoining platform ( -559, 530, -143 ) that contains the three pillars that lead to the Erudin instances.
+Note:  To get to the Erudin Palace, In Stonebrunt Highlands fly to the Marred Plateau platform. There is an adjoining platform {{waypoint -559, 530, -143}} that contains the three pillars that lead to the Erudin instances.
 
 1. Find the first clue located on the second level in front of one of the purple doors, a harvestable piece of paper on the ground. {{waypoint -59, 140, 10}}
 1. Find the second clue - a broken vase on the third level on the west end of the grated platform. {{waypoint 112.95, 221.25, 6.34}}

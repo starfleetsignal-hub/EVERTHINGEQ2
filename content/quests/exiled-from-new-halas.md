@@ -27,7 +27,7 @@ source:
 
 ## Steps
 
-1. Talk to [[A disreputable boatman]] by the docks at loc (-409, 28, 208)
+1. Talk to [[A disreputable boatman]] by the docks at loc {{waypoint -409, 28, 208}}
    - Upon talking to the boatman the quest will complete and you will be transported to [[Haven]]
    - You will now be exiled.
 

@@ -25,7 +25,7 @@ source:
 
 Use the [[Arcane Tome Paper]] to spawn it while on the quests
 
-( 287, -5, 61 )
+{{waypoint 287, -5, 61}}
 
 ## Related Quests
 

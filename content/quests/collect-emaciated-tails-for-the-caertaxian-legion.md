@@ -36,7 +36,7 @@ source:
 ## Steps
 
 1. I must collect 10 [[Emaciated tail|emaciated tails]] for the [[Caertaxian Legion (Faction)|Caertaxian Legion]]
-   - These can be found in the [[Old Paineel]] ([[Caertaxian Legion (Faction)|Caertaxian Legion]]) section of [[The Hole]].  You have to drop down or climb down the wall (-0.37, 102.25, -68.68) to get to them.  A good place to start is 77.94, 37.22, -84.40.
+   - These can be found in the [[Old Paineel]] ([[Caertaxian Legion (Faction)|Caertaxian Legion]]) section of [[The Hole]].  You have to drop down or climb down the wall {{waypoint -0.37, 102.25, -68.68}} to get to them.  A good place to start is 77.94, 37.22, -84.40.
 1. Return to [[Undertaker Ilulu]]
 
 ## Rewards

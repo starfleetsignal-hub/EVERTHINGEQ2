@@ -29,7 +29,7 @@ You need to be level 30 up before you will be offered this quest!
 
 ## Steps
 
-1. Find [[Arbos]]. The quest update is located at 669 -10, -380 in the Elddar Grove. This is the tree with the lift/elevator.
+1. Find [[Arbos]]. The quest update is located at {{waypoint 669, -10, -380}} in the Elddar Grove. This is the tree with the lift/elevator.
 1. Head to [[Enchanted Lands]] to investigate Arddin (a tree in Misty Thicket).  It's located at {{waypoint -592, 8, -737}} (near [[Foomby Slopdigger|Foomby]]). You will be attacked by three or four [[A corrupted spirit|corrupted spirits]] (level 38, 2 down arrowed mobs - if you stay near the tree these mobs will keep spawning).
 1. After this you need to kill appr. 15 evil nymphs in The Enchanted Lands, which are the nymphs in the area surrounding the tree.
 1. Return to Warble for your reward.

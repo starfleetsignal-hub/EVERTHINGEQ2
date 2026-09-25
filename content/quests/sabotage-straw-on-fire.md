@@ -39,7 +39,7 @@ source:
 ## Steps
 
 1. Burn 5 bales of hay in Antonica. Hay bales spawn randomly around [[Antonica]] but always near tilled farmland plots.
-   - Multiple hay bales can be found next to [[Gol M'Tun]] at Loc (-91, -18, 52)
+   - Multiple hay bales can be found next to [[Gol M'Tun]] at Loc {{waypoint -91, -18, 52}}
    - Hay bales can also be found at [[The McQuibble Farm]] at Loc (-1,851, -22, -181).
 1. Return to [[Gol M'Tun]].
 

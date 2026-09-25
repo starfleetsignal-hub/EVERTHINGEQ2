@@ -6,7 +6,7 @@ race: Human
 level: '35'
 difficulty: Heroic ^^^
 zone: '[[Qeynos Harbor]]'
-location: Patrols the area between [[Graystone Yard]] ( 852,-25,-63 ) and [[South Qeynos]] {{waypoint 805, -20, 137}}
+location: Patrols the area between [[Graystone Yard]] {{waypoint 852, -25, -63}} and [[South Qeynos]] {{waypoint 805, -20, 137}}
 categories:
 - Faction Monsters
 - Heroic Named Monsters

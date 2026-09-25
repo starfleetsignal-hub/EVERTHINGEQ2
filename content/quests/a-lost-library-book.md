@@ -35,7 +35,7 @@ expansion_source: patch
 1. Swim underneath the harbor. Best way to get there is to jump into the water behind the city merchants, turn around to face the arch and swim under it. You'll see a hole to your right, which is where you need to go.
 1. Have a chat with [[Mariner Whistlethorn]] {{waypoint 877, -32, 35}} who suggests you speak to "Pumpy" the bartender.
 1. Travel to [[North Qeynos]] and have a chat with none other than P.T. Irontoe {{waypoint 340, -20, 152}} and apologize for troubling him. He will give you a special coin to grant you entry to the [[Crow's Resting Place, Thieves Guild]].
-1. Go to Crow's Resting Place, Thieves Guild, which is in the Down Below (click on the statue at -144, 0, -74). Talk to [[Velia Truesight]] who will assert that the book was lent to her and not stolen.  She will eventually return "The House of the Claymore" to you.
+1. Go to Crow's Resting Place, Thieves Guild, which is in the Down Below (click on the statue at {{waypoint -144, 0, -74}}). Talk to [[Velia Truesight]] who will assert that the book was lent to her and not stolen.  She will eventually return "The House of the Claymore" to you.
 1. Return the book to Royal Librarian Brinn.
 
 ## Rewards

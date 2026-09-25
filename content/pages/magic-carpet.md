@@ -29,10 +29,10 @@ In order to fly on the carpet near the Sinking Sands dock (Port of Tears), you m
 
 You can travel to and from any of these locations with no restrictions (like quest unlocks or minimum level requirements) near the Sinking Sands dock.
 
-- [[Port of Tears]] (the Sinking Sands dock) under a tent, at -1,442 -226 -380
+- [[Port of Tears]] (the Sinking Sands dock) under a tent, at {{waypoint -1442, -226, -380}}
 - [[Maj'Dul]] this transports you to the zone. The carpet to return to Maj'Dul (only) is at {{waypoint 1282, 161, -149}}
 - [[Twin Tears]] on a sandy dune ridge, not far from the zone in point for [[Living Tombs]] at {{waypoint -450, -75, -991}}
-- One Rock Isle (a large island, off the coast of the beach) -2,018 -231 -608
+- One Rock Isle (a large island, off the coast of the beach) {{waypoint -2018, -231, -608}}
 - Camp De'Sas, near the zone in point for the [[Pillars of Flame]] at {{waypoint -5.36, -94, -926}}
 - [[Undercity Arena]] in the flat sandy region at {{waypoint -198, -111, -288}}
 
@@ -41,7 +41,7 @@ You can travel to and from any of these locations with no restrictions (like que
 In order to reach this zone, you must take a carpet ride to Camp De'Sas by hailing any carpet keeper within Sinking Sands and cross the zone line (a rocky roadway) into Pillars of Flame. Once you are within Pillars of Flame, all of these locations can be reached by hailing any carpet keeper in the zone.
 
 - [[Swiftrider's Caravan]] under a tent at {{waypoint 31, -86, -740}}.
-- [[Giant's Field]], the closest location to [[Cazel's Mesa]], is on a rocky outcrop, overlooking the sea at 1,445 -119 -225
-- [[Prophet's Peak]] up on a hillside, at 706 -88 -1,023
-- The Stinging Isle (The Needle) near the edge of a cliff at 848 -149 -1,439
-- T'Narev, near the road leading to the entrance to The Halls of Discipline 214 -127 -1,483
+- [[Giant's Field]], the closest location to [[Cazel's Mesa]], is on a rocky outcrop, overlooking the sea at {{waypoint 1445, -119, -225}}
+- [[Prophet's Peak]] up on a hillside, at {{waypoint 706, -88, -1023}}
+- The Stinging Isle (The Needle) near the edge of a cliff at {{waypoint 848, -149, -1439}}
+- T'Narev, near the road leading to the entrance to The Halls of Discipline {{waypoint 214, -127, -1483}}

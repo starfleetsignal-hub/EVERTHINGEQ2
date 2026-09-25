@@ -5,7 +5,7 @@ expansion: Shattered Lands
 purpose: Ecology
 race: Half Elf
 zone: '[[West Freeport]]'
-location: Upstairs in the Backalley Brewhouse at 217, 3, 156
+location: Upstairs in the Backalley Brewhouse at {{waypoint 217, 3, 156}}
 categories:
 - Ecology (NPC Type)
 - Half Elf

@@ -115,7 +115,7 @@ Hireable in Butcherblock Mountains after completing [[Combusting at the Seams]] 
 
 | Zone | Name | Class | Race |
 |---|---|---|---|
-| Butcherblock Mountains:<br>(318, 188, 488) | [[Jacinder]] | Shaman | Moppet |
+| Butcherblock Mountains:<br>{{waypoint 318, 188, 488}} | [[Jacinder]] | Shaman | Moppet |
 
 ### Tinkerfest
 
@@ -206,9 +206,9 @@ These mercenaries were available from Extra Life after reaching certain donation
 | Rarity | Name | Class | Race | Zone | Note |
 |---|---|---|---|---|---|
 | Fabled | [[Mercenary: Alva Hz Ruy\|Alva Hz Ruy]] | Templar/Coercer | Allyrian | The Enchanted Lands | Extra Life 2022 |
-| Fabled | [[Mercenary: Icur Yew\|Icur Yew]] | Templar/Coercer | Fungusman | Nektulos Forest:<br>( 463, 1, -515 ) | Extra Life 2023 |
+| Fabled | [[Mercenary: Icur Yew\|Icur Yew]] | Templar/Coercer | Fungusman | Nektulos Forest:<br>{{waypoint 463, 1, -515}} | Extra Life 2023 |
 | Fabled | [[Mercenary: Mama Curie\|Mama Curie]] | Fury | Hag | Butcherblock Mountains | Extra Life 2024 |
-| Fabled | [[Mercenary: Evangeline\|Evangeline]] | Mystic | Human | Thundering Steppes<br>( /waypoint -609.05, -16.28, -435.66) | Extra Life 2025 |
+| Fabled | [[Mercenary: Evangeline\|Evangeline]] | Mystic | Human | Thundering Steppes<br>{{waypoint -609.05, -16.28, -435.66}} | Extra Life 2025 |
 | Fabled | [[Mercenary: Elgra Frop\|Elgra Frop]] |  | Pygmy | Thundering Steppes | Extra Life 2026 |
 
 ### Marketplace Bundles
@@ -263,7 +263,7 @@ Hireable after you loot their respective (coins/contracts) from a heroic [[Chain
 | [[Eidolon Jungle]] | [[Mercenary: Kilphin\|Kilphin]] | [[Assassin]] | Lizardman | Outside of Temple of the Faceless |
 | [[Obol Plains]] | [[Mercenary: Dolsie Songspinner\|Dolsie Songspinner]] | [[Troubador]] | [[Wood Elf]] | {{waypoint 284, 6, 852}} |
 | [[Jarsath Wastes]] | [[Mercenary: Raghnagt the Gnawer\|Raghnagt the Gnawer]] | [[Brigand]] | Ashlok | {{waypoint -1132, 123, 1989}} in Wurmbone Cleft |
-| [[Jarsath Wastes]] | [[Mercenary: Yadeht Fohctac\|Yadeht Fohctac]] | [[Warden]] | Yha-lei |  |
+| [[Jarsath Wastes]] | [[Mercenary: Yadeht Fohctac\|Yadeht Fohctac]] | [[Warden]] | Yha-lei | {{waypoint -719.84, -50.41, 1418.83}} |
 
 ### [[Tears of Veeshan]] Mercenaries
 
@@ -483,7 +483,7 @@ Available as a **/claim** item only for those who have purchased the [[Planes of
 
 | Rarity<br> | Name | Class | Race | Zone | Note |
 |---|---|---|---|---|---|
-| Legendary | [[Bhoohghar\|Bhoohghar (Phlegmpriest Mercenary)]] | Inquisitor | Pusling | Plane of Magic, Drukyna Marsh (-578, -45, 178) | Planes of Prophecy Collector's Edition |
+| Legendary | [[Bhoohghar\|Bhoohghar (Phlegmpriest Mercenary)]] | Inquisitor | Pusling | Plane of Magic, Drukyna Marsh {{waypoint -578, -45, 178}} | Planes of Prophecy Collector's Edition |
 
 ### Chaos Descending Expansion
 
@@ -499,8 +499,8 @@ Available as a **/claim** item only for those who have purchased the [[Blood of 
 
 | Rarity | Name | Class | Race | Zone<br> | Note |
 |---|---|---|---|---|---|
-| Fabled | [[Mercenary: Tarsil, the Pure\|Tarsil, the Pure]] | Inquisitor | Human | Sanctus  Seru<br>Waypoint (5, 180, 256) | From Blood of Luclin Collector's Edition |
-| Fabled | [[Mercenary: Horthis, the Vengeful\|Horthis, the Vengeful]] | Shadowknight | Galorian | Aurelian Coast<br>Waypoint (229, 89, -386) | From Blood of Luclin Premium Edition |
+| Fabled | [[Mercenary: Tarsil, the Pure\|Tarsil, the Pure]] | Inquisitor | Human | Sanctus  Seru<br>Waypoint {{waypoint 5, 180, 256}} | From Blood of Luclin Collector's Edition |
+| Fabled | [[Mercenary: Horthis, the Vengeful\|Horthis, the Vengeful]] | Shadowknight | Galorian | Aurelian Coast<br>Waypoint {{waypoint 229, 89, -386}} | From Blood of Luclin Premium Edition |
 
 ### Reign of Shadows Expansion
 

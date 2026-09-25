@@ -12,6 +12,6 @@ source:
 
 1. A Scary Little Frostfell Just keep harvesting the presents until update
 1. Speak With:
-   - Aglod in Frostfang Sea (/way 98.87, 58.11, 163.64)  or
-   - Zokk Gorebite in the Feerrott at the Wiz spire (/way -144.64, 13.72, 180.97)  or
-   - Lephore Rhysling in Loping Plains graveyard (/way -402.46, 16.40, 40.41)
+   - Aglod in Frostfang Sea {{waypoint 98.87, 58.11, 163.64}}  or
+   - Zokk Gorebite in the Feerrott at the Wiz spire {{waypoint -144.64, 13.72, 180.97}}  or
+   - Lephore Rhysling in Loping Plains graveyard {{waypoint -402.46, 16.40, 40.41}}
