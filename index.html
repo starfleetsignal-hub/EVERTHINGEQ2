@@ -1,0 +1,462 @@
+<meta charset="utf-8">
+<title>Norrath Ledger</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  color-scheme: dark;
+  --ground:#1d1510; --surface:#281d16; --surface-2:#33251c; --line:#4a3527;
+  --text:#ecdfcb; --muted:#b39c83; --faint:#8a7361;
+  --red:#c2412f; --red-soft:#e0735f; --red-ink:#fff4ee;
+  --green:#6f9a55; --green-soft:#9cc47f; --green-ink:#0f1a0a;
+  --brown:#8a5a36; --gold:#d2a85a;
+  --shadow:0 10px 30px rgba(0,0,0,.35);
+  --display:"Alegreya SC", "Palatino Linotype", Palatino, Georgia, serif;
+  --body:"Alegreya Sans", "Gill Sans", "Segoe UI", system-ui, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    color-scheme: light;
+    --ground:#f1e8dc; --surface:#fbf6ef; --surface-2:#eadccb; --line:#d4c0a8;
+    --text:#2a1c13; --muted:#6d5543; --faint:#8d7662;
+    --red:#a3301f; --red-soft:#a3301f; --red-ink:#fff6f0;
+    --green:#3f6e2c; --green-soft:#3f6e2c; --green-ink:#f4fbef;
+    --brown:#7a4b2a; --gold:#8e6a22;
+    --shadow:0 8px 24px rgba(74,45,20,.14);
+  }
+}
+:root[data-theme="light"]{
+  color-scheme: light;
+  --ground:#f1e8dc; --surface:#fbf6ef; --surface-2:#eadccb; --line:#d4c0a8;
+  --text:#2a1c13; --muted:#6d5543; --faint:#8d7662;
+  --red:#a3301f; --red-soft:#a3301f; --red-ink:#fff6f0;
+  --green:#3f6e2c; --green-soft:#3f6e2c; --green-ink:#f4fbef;
+  --brown:#7a4b2a; --gold:#8e6a22;
+  --shadow:0 8px 24px rgba(74,45,20,.14);
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--ground);color:var(--text);font:17px/1.55 var(--body);}
+a{color:var(--red-soft);text-decoration:underline;text-decoration-color:color-mix(in srgb, var(--red-soft) 40%, transparent);text-underline-offset:3px}
+a:hover{text-decoration-color:currentColor}
+a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:3px}
+.pending{text-decoration:underline dotted color-mix(in srgb, var(--muted) 60%, transparent);text-underline-offset:3px;cursor:help}
+
+.topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:var(--red);color:var(--red-ink);border-bottom:3px solid var(--brown)}
+.topbar-in{max-width:1180px;margin:0 auto;padding:10px 16px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.brand{font-family:var(--display);font-weight:700;font-size:1.45rem;letter-spacing:.02em;color:inherit;text-decoration:none;display:flex;align-items:baseline;gap:8px}
+.brand small{font-family:var(--body);font-size:.78rem;font-weight:500;opacity:.85;letter-spacing:.08em;text-transform:uppercase}
+.search{flex:1 1 220px;position:relative;max-width:420px;margin-left:auto}
+.search input{width:100%;border:1px solid rgba(255,255,255,.35);background:rgba(0,0,0,.18);color:inherit;border-radius:6px;padding:7px 10px;font:inherit;font-size:.95rem}
+.search input::placeholder{color:rgba(255,244,238,.75)}
+.results{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow);overflow:hidden;max-height:60vh;overflow-y:auto}
+.results a{display:flex;justify-content:space-between;gap:10px;padding:8px 12px;text-decoration:none;color:var(--text)}
+.results a:hover,.results a.hl{background:var(--surface-2)}
+.results span{color:var(--faint);font-size:.85rem;white-space:nowrap}
+.donate{display:inline-flex;align-items:center;gap:6px;background:var(--green);color:var(--green-ink);border:1px solid color-mix(in srgb, var(--green) 70%, #000);border-radius:6px;padding:6px 12px;font-size:.85rem;font-weight:700;text-decoration:none;white-space:nowrap}
+.donate:hover{background:var(--green-soft);color:var(--green-ink)}
+.donate[hidden]{display:none}
+.donate svg{width:14px;height:14px;fill:currentColor;flex:none}
+.themebtn{background:none;border:1px solid rgba(255,255,255,.35);color:inherit;border-radius:6px;padding:6px 10px;font:inherit;font-size:.85rem;cursor:pointer}
+
+.shell{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:24px 48px;display:grid;grid-template-columns:220px minmax(0,1fr);gap:32px}
+@media (max-width:820px){.shell{grid-template-columns:1fr}.sidenav{order:2}}
+.sidenav h2{font-family:var(--display);font-size:.95rem;letter-spacing:.06em;color:var(--muted);margin:0 0 8px;border:0;padding:0}
+.sidenav ol{list-style:none;margin:0 0 20px;padding:0;border-left:2px solid var(--line)}
+.sidenav li a{display:flex;justify-content:space-between;gap:8px;padding:4px 10px;color:var(--text);text-decoration:none;font-size:.95rem;margin-left:-2px;border-left:2px solid transparent}
+.sidenav li a:hover{border-left-color:var(--brown);background:var(--surface)}
+.sidenav li a.on{border-left-color:var(--red);color:var(--red-soft);font-weight:700}
+.sidenav li a span{font-family:var(--mono);font-size:.72rem;color:var(--faint);align-self:center}
+.sidenote{font-size:.85rem;color:var(--muted)}
+
+.crumbs{font-size:.85rem;color:var(--muted);margin-bottom:6px}
+.crumbs a{color:var(--muted)}
+.art-head{display:flex;gap:16px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;border-bottom:2px solid var(--line);padding-bottom:10px;margin-bottom:18px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(1.9rem,4vw,2.6rem);line-height:1.1;margin:0;text-wrap:balance}
+h2{font-family:var(--display);font-weight:700;font-size:1.45rem;margin:28px 0 10px;color:var(--text);border-bottom:1px solid var(--line);padding-bottom:4px;text-wrap:balance}
+h3,h4{font-size:1.05rem;margin:18px 0 6px}
+p{margin:0 0 12px;max-width:68ch}
+.article ul,.article ol:not(.steps){padding-left:1.4em;margin:0 0 14px;max-width:72ch}
+.article li{margin:3px 0}
+.editbtn{display:inline-flex;gap:6px;align-items:center;background:var(--surface);border:1px solid var(--line);color:var(--text);border-radius:6px;padding:6px 12px;font:inherit;font-size:.9rem;cursor:pointer;text-decoration:none}
+.editbtn:hover{border-color:var(--brown)}
+.banner{background:color-mix(in srgb, var(--gold) 14%, var(--surface));border:1px dashed var(--gold);border-radius:6px;padding:8px 12px;font-size:.9rem;margin-bottom:18px;max-width:none}
+.callout{border-radius:6px;padding:8px 12px;font-size:.95rem;max-width:none}
+.callout.red{background:color-mix(in srgb, var(--red) 16%, var(--surface));border:1px solid color-mix(in srgb, var(--red) 50%, var(--line))}
+.starts{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;max-width:none}
+blockquote{margin:0 0 16px;padding:10px 16px;border-left:3px solid var(--brown);background:var(--surface);border-radius:0 8px 8px 0;color:var(--muted)}
+blockquote p{max-width:66ch}
+details{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 14px;margin:0 0 14px}
+summary{cursor:pointer;font-weight:700}
+hr{border:0;border-top:1px solid var(--line);margin:18px 0}
+
+.with-box{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:28px;align-items:start}
+@media (max-width:1000px){.with-box{grid-template-columns:1fr}.infobox{order:-1}}
+.infobox{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden;font-size:.92rem}
+.infobox header{background:var(--brown);color:#fbefe2;font-family:var(--display);font-weight:700;padding:8px 12px;font-size:1.05rem}
+.infobox header img{width:32px;height:32px;vertical-align:middle;margin-right:8px;border-radius:4px;background:#00000033}
+.infobox table.stats{width:100%;border-collapse:collapse;margin:0;font-size:.9rem}
+.infobox table.stats th{text-align:left;font-weight:600;padding:1px 10px 1px 0;color:var(--muted);background:none;text-transform:none;letter-spacing:0;font-size:.9rem;border:0}
+.infobox table.stats td{border:0}
+.infobox table.stats td{padding:1px 0}
+.infobox dd ul{margin:0;padding-left:1.1em}
+code.itemlink{font-size:.72rem;word-break:break-all;white-space:normal}
+.infobox dl{margin:0;display:grid;grid-template-columns:auto minmax(0,1fr)}
+.infobox dt,.infobox dd{padding:6px 12px;border-top:1px solid var(--line);margin:0}
+.infobox dt{color:var(--muted);font-weight:500}
+.infobox dd{font-variant-numeric:tabular-nums;overflow-wrap:anywhere}
+.infobox .loc{white-space:normal;text-align:left}
+.box-only .infobox{max-width:460px}
+
+.loc{display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-size:.82rem;font-weight:500;background:color-mix(in srgb, var(--green) 18%, var(--surface));color:var(--text);border:1px solid color-mix(in srgb, var(--green) 55%, var(--line));border-radius:999px;padding:2px 10px 2px 8px;cursor:pointer;white-space:nowrap;vertical-align:baseline;font-variant-numeric:tabular-nums;transition:background .15s}
+.loc:hover{background:color-mix(in srgb, var(--green) 32%, var(--surface))}
+.loc svg{width:13px;height:13px;flex:none;fill:none;stroke:var(--green-soft);stroke-width:2}
+.loc.done{background:var(--green);color:var(--green-ink);border-color:var(--green)}
+.loc.done svg{stroke:var(--green-ink)}
+
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;margin:8px 0 16px}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--surface-2);font-weight:700;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+tr:last-child td{border-bottom:0}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+
+.steps{list-style:none;counter-reset:s;margin:0 0 16px;padding:0;display:grid;gap:10px}
+.steps>li{counter-increment:s;display:grid;grid-template-columns:34px minmax(0,1fr);gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin:0}
+.steps>li::before{content:counter(s);font-family:var(--display);font-weight:700;font-size:1.1rem;color:var(--red-ink);background:var(--red);border-radius:50%;width:30px;height:30px;display:grid;place-items:center}
+.steps>li>div{align-self:center}
+.steps ul,.steps ol{margin:6px 0 0;padding-left:1.2em}
+
+.chain{display:flex;flex-wrap:wrap;align-items:stretch;margin:0 0 14px;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.chain>*{flex:1 1 160px;padding:10px 12px;border-right:1px solid var(--line);font-size:.92rem;display:block;background:var(--surface)}
+.chain>*:last-child{border-right:0}
+.chain small{display:block;color:var(--faint);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700}
+.chain strong{background:var(--surface-2)}
+
+.tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:1px 7px;border-radius:4px;background:var(--surface-2);color:var(--muted);border:1px solid var(--line);vertical-align:middle}
+.tag.red{background:color-mix(in srgb, var(--red) 20%, var(--surface));color:var(--red-soft);border-color:color-mix(in srgb, var(--red) 45%, var(--line))}
+.tag.green{background:color-mix(in srgb, var(--green) 20%, var(--surface));color:var(--green-soft);border-color:color-mix(in srgb, var(--green) 45%, var(--line))}
+.credit{margin-top:28px;padding-top:10px;border-top:1px solid var(--line);font-size:.82rem;color:var(--faint);max-width:none}
+.credit a{color:var(--muted)}
+
+.lede{font-size:1.12rem;color:var(--muted);max-width:62ch}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 6px}
+.stats a{display:grid;padding:10px 16px;background:var(--surface);border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--text);min-width:130px}
+.stats a:hover{border-color:var(--brown)}
+.stats b{font-family:var(--display);font-size:1.6rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.stats span{font-size:.85rem;color:var(--muted)}
+.filter{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:6px 0 4px}
+.filter input{flex:1 1 220px;max-width:360px;background:var(--surface);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:6px 10px;font:inherit;font-size:.95rem}
+.filter span{font-size:.85rem;color:var(--faint)}
+.npcgrid{columns:3 200px;column-gap:24px;padding:0;list-style:none;font-size:.95rem}
+.npcgrid li{break-inside:avoid;padding:2px 0}
+.filter select{background:var(--surface);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:6px 8px;font:inherit;font-size:.95rem}
+.xgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:14px}
+.xcard{display:grid;gap:2px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--text)}
+.xcard:hover{border-color:var(--brown)}
+.xcard b{font-family:var(--display);font-size:1.08rem}
+.xcard>span{font-size:.82rem;color:var(--faint);display:flex;justify-content:space-between;gap:6px}
+.tabs{display:flex;flex-wrap:wrap;gap:4px;border-bottom:2px solid var(--line);margin:0 0 18px}
+.tabs a{padding:8px 14px;text-decoration:none;color:var(--muted);border:1px solid transparent;border-bottom:0;border-radius:6px 6px 0 0;margin-bottom:-2px;font-weight:500}
+.tabs a:hover{color:var(--text);background:var(--surface)}
+.tabs a[aria-current="page"]{color:var(--red-soft);background:var(--surface);border-color:var(--line);border-bottom:2px solid var(--surface);font-weight:700}
+.qgroup summary{font-family:var(--display);font-size:1.1rem}
+.qline{margin:8px 0 4px;padding-left:1.6em;columns:2 260px;column-gap:28px}
+.qline li{break-inside:avoid;padding:2px 0}
+.count{font-family:var(--mono);font-size:.78rem;color:var(--faint);font-weight:500;margin-left:6px}
+.derived{font-size:.88rem;color:var(--faint)}
+.loading{color:var(--muted);padding:24px 0}
+
+.peek{position:fixed;z-index:30;max-width:300px;background:var(--surface);border:1px solid var(--brown);border-radius:8px;box-shadow:var(--shadow);padding:10px 12px;font-size:.88rem;pointer-events:none}
+.peek b{display:block;font-family:var(--display);font-size:1rem}
+.peek em{color:var(--faint);font-style:normal;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--green);color:var(--green-ink);font-weight:700;padding:8px 16px;border-radius:999px;box-shadow:var(--shadow);font-size:.92rem;z-index:40}
+.modal-back{position:fixed;inset:0;background:rgba(15,8,4,.55);display:grid;place-items:center;z-index:50;padding:16px}
+.modal{background:var(--surface);border:1px solid var(--line);border-radius:10px;max-width:760px;width:100%;max-height:88vh;display:flex;flex-direction:column;padding:18px 20px;box-shadow:var(--shadow)}
+.modal h2{margin-top:0}
+.modal pre{background:var(--ground);border:1px solid var(--line);border-radius:6px;padding:10px 12px;font:12.5px/1.5 var(--mono);overflow:auto;white-space:pre-wrap;flex:1;min-height:0;margin:0}
+.modal .row{display:flex;justify-content:flex-end;margin-top:12px}
+footer.site{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:18px 32px;border-top:1px solid var(--line);font-size:.82rem;color:var(--faint)}
+footer.site p{max-width:none}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="#home">Norrath Ledger <small>EverQuest II reference</small></a>
+    <div class="search">
+      <input id="q" type="search" placeholder="Search quests, items, zones, NPCs" autocomplete="off" aria-label="Search the wiki">
+      <div class="results" id="results" hidden></div>
+    </div>
+    <a class="donate" id="donatebtn" href="#" target="_blank" rel="noopener" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.3C.9 8.3 3 4.5 6.7 4.5c2.1 0 3.6 1.1 4.3 2.4.7-1.3 2.2-2.4 4.3-2.4 3.7 0 5.8 3.8 4.3 7.2C19.5 16.4 12 21 12 21z"/></svg>Support the site</a>
+    <button class="themebtn" id="themebtn" type="button">Light / dark</button>
+  </div>
+</header>
+
+<div class="shell">
+  <nav class="sidenav" aria-label="Browse">
+    <h2>Browse</h2>
+    <ol id="snav"></ol>
+    <h2>Releases</h2>
+    <ol id="xnav"></ol>
+    <p class="sidenote">Converted from the EverQuest II Wiki. Names with a dotted grey underline point to wiki pages (mostly items, spells and recipes) that arrive with the next conversion.</p>
+  </nav>
+  <main id="main"></main>
+</div>
+
+<footer class="site">
+  <p>Page text is adapted from the EverQuest II Wiki on Fandom under CC BY-SA 3.0; each page credits its source article and links to its edit history. EverQuest II is a trademark of Daybreak Game Company; this site is a fan reference.</p>
+  <p id="donatenote" hidden>This site is free and ad-free. If it helps you, you can <a id="donatelink" href="#" target="_blank" rel="noopener">chip in toward hosting</a>.</p>
+</footer>
+
+<div id="peek" class="peek" hidden></div>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<div id="modal" class="modal-back" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="mtitle">
+    <h2 id="mtitle">Edit this page</h2>
+    <p id="mpath"></p>
+    <pre id="msrc"></pre>
+    <div class="row"><button class="editbtn" id="mclose" type="button">Close</button></div>
+  </div>
+</div>
+
+<script>
+const EXT = ".json.gz";
+// Donation page (Ko-fi, PayPal.me, Buy Me a Coffee, Patreon...). Leave empty to hide the button.
+const DONATE_URL = "https://ko-fi.com/updown26";
+if (DONATE_URL) {
+  for (const id of ["donatebtn", "donatelink"]) document.getElementById(id).href = DONATE_URL;
+  document.getElementById("donatebtn").hidden = document.getElementById("donatenote").hidden = false;
+}
+let META = {counts:{}, lines:{}, zones:{}, chunks:100, width:2}, SEARCH = null, SMAP = null;
+const IDX = {}, cacheP = {}, cacheS = {}, cacheI = {};
+const hid = id => id.replace("/", ".");
+const pid = h => h.replace(".", "/");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function fnv(s){ let h = 0x811c9dc5; for (const b of new TextEncoder().encode(s)){ h ^= b; h = Math.imul(h, 0x01000193) >>> 0; } return h >>> 0; }
+async function data(path){
+  const r = await fetch(`data/${path}${EXT}`); if (!r.ok) throw new Error(r.status);
+  let blob;
+  if (EXT === ".txt"){      // gzip wrapped in base64 (the preview host serves text only)
+    const bin = atob((await r.text()).trim()), bytes = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+    blob = new Blob([bytes]);
+  } else blob = await r.blob();
+  return new Response(blob.stream().pipeThrough(new DecompressionStream("gzip"))).json();
+}
+async function chunk(kind, id){
+  const c = String(fnv(id) % META.chunks).padStart(META.width, "0"), cache = kind === "p" ? cacheP : cacheS;
+  if (!cache[c]) cache[c] = data(`${kind}/${c}`).catch(e=>{ delete cache[c]; throw e; });
+  return (await cache[c])[id];
+}
+const row = a => ({t:a[0], k:a[1], m:a[2], s:a[3], lvl:a[4], d:a[5], z:a[6], x:a[7], xe:a[8]});
+function typeIndex(t){
+  if (!cacheI[t]) cacheI[t] = data(`i/${t}`).then(d=>{ for (const id in d) IDX[id] = row(d[id]); return Object.keys(d); })
+                                        .catch(e=>{ delete cacheI[t]; throw e; });
+  return cacheI[t];
+}
+function loadSearch(){
+  if (!SEARCH) SEARCH = data("search").then(list=>{ SMAP = {}; for (const r of list) SMAP[r[0]] = r; return list; }).catch(e=>{ SEARCH = null; throw e; });
+  return SEARCH;
+}
+const XP = ["Shattered Lands","Desert of Flames","Kingdom of Sky","Echoes of Faydwer","Rise of Kunark","The Shadow Odyssey","Sentinel's Fate","Destiny of Velious","Age of Discovery","Chains of Eternity","Tears of Veeshan","Altar of Malice","Terrors of Thalumbra","Kunark Ascending","Planes of Prophecy","Chaos Descending","Blood of Luclin","Reign of Shadows","Visions of Vetrovia","Renewal of Ro","Ballads of Zimara","Scars of Destruction","Rage of Cthurath"];
+const YEARS = [2004,2005,2006,2006,2007,2008,2010,2011,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025];
+const xslug = x => x.toLowerCase().replace(/'/g,"").replace(/[^a-z0-9]+/g,"-");
+const xOf = s => XP.find(x => xslug(x) === s);
+const titleOf = id => (IDX[id] && IDX[id].t) || (SMAP && SMAP[id] && SMAP[id][1]) || id.split("/")[1];
+const link = (id, t) => `<a href="#${hid(id)}" data-peek="${id}">${esc(t || titleOf(id))}</a>`;
+const num = v => { const n = parseFloat(v); return isNaN(n) ? 999 : n; };
+const TYPES = [["zones","Zones & instances"],["quests","Quests"],["items","Items"],["spells","Spells"],["achievements","Achievements"],["pages","Other pages"],["npcs","NPCs"],["named","Named monsters"],["monsters","Monsters"],["pois","Places"],["housing","Housing"],["lore","Lore"],["timelines","Timelines"],["guides","Player guides"]];
+const count = (t, x) => { const c = META.counts[t] || {}; return x !== undefined ? (c[x] || 0) : Object.values(c).reduce((a,b)=>a+b, 0); };
+const total = () => TYPES.reduce((a,[t])=>a+count(t), 0);
+const xTotal = x => TYPES.reduce((a,[t])=>a+count(t, x), 0);
+
+function zonesTable(list){
+  list = list.sort((a,b)=>num(IDX[a].lvl)-num(IDX[b].lvl) || IDX[a].t.localeCompare(IDX[b].t));
+  return `<div class="tablewrap"><table><thead><tr><th>Zone</th><th>Levels</th><th>Type</th></tr></thead><tbody>
+  ${list.map(id=>`<tr><td>${link(id)}</td><td class="num">${esc(IDX[id].lvl)}</td><td>${esc(IDX[id].d)}</td></tr>`).join("")}</tbody></table></div>`;
+}
+function home(){
+  return `
+  <div class="art-head"><h1>A clean EverQuest II reference</h1></div>
+  <p class="lede">Zones, quests, items, spells, achievements, NPCs, monsters and landmarks from The Shattered Lands through Rage of Cthurath, converted from the EverQuest II Wiki into ${total().toLocaleString()} editable pages. Waypoint chips copy a <code>/waypoint</code> command; zone pages list everything found in them.</p>
+  <div class="stats">${TYPES.filter(([t])=>count(t)).map(([t,l])=>`<a href="#browse.${t}"><b>${count(t).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
+  <h2>Releases</h2>
+  <div class="xgrid">${XP.map((x,i)=>`<a class="xcard" href="#x.${xslug(x)}"><b>${esc(x)}</b><span>${YEARS[i]} <span>${xTotal(x).toLocaleString()} pages</span></span></a>`).join("")}</div>`;
+}
+const TABS = [["overview","Overview"],["sig","Signature questlines"],["epic","Epic weapons"],["her","Heritage quests"],["tl","Timelines"]];
+function questList(list, numbered){
+  const tag = numbered ? "ol" : "ul";
+  return `<${tag} class="qline">${list.map(([id,t,lvl])=>`<li>${link(id,t)}${lvl?` <span class="count">${esc(lvl)}</span>`:""}</li>`).join("")}</${tag}>`;
+}
+function expansionView(s, tab){
+  const x = xOf(s); if (!x) return home();
+  const L = META.lines[x] || {};
+  const n = k => (L[k]||[]).reduce((a,g)=>a+g[1].length,0);
+  tab = TABS.some(([k])=>k===tab) && (tab === "overview" || n(tab)) ? tab : "overview";
+  const bar = `<nav class="tabs" aria-label="${esc(x)} sections">${TABS.filter(([k])=>k==="overview"||n(k)).map(([k,l])=>`<a href="#x.${s}${k==="overview"?"":"."+k}"${k===tab?' aria-current="page"':""}>${l}${k==="overview"?"":` <span class="count">${n(k)}</span>`}</a>`).join("")}</nav>`;
+  let body;
+  if (tab === "overview"){
+    const mine = Object.keys(META.zones).filter(i => IDX[i].x === x);
+    const zones = mine.filter(i => IDX[i].k !== "Instance"), inst = mine.filter(i => IDX[i].k === "Instance");
+    body = `<div class="stats">${TYPES.map(([t,l])=>[t,l,count(t,x)]).filter(r=>r[2]).map(([t,l,c])=>`<a href="#browse.${t}.${s}"><b>${c.toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
+    ${zones.length?`<h2>Zones</h2>${zonesTable(zones)}`:""}${inst.length?`<h2>Instances</h2>${zonesTable(inst)}`:""}`;
+  } else {
+    const note = {sig:"Grouped by storyline and listed in play order, following each quest's prerequisite and next quest.",
+      epic:"Grouped by class and listed in play order.", her:"Heritage quests revisit classic EverQuest items and stories.", tl:"Zone and story timelines for this release."}[tab];
+    body = `<p class="derived">${note}</p>` + L[tab].map(([name, list])=>
+      tab === "tl" ? questList(list, false) : `<details class="qgroup" open><summary>${esc(name)} <span class="count">${list.length}</span></summary>${questList(list, tab !== "her")}</details>`).join("");
+  }
+  return `<div class="crumbs"><a href="#home">Home</a> › Releases</div><div class="art-head"><h1>${esc(x)}</h1></div>${bar}${body}`;
+}
+
+const ROWCAP = 500;
+let BL = [], BZ = false, BLVL = false, BT = "";
+function browse(t, s, all){
+  const x = s ? xOf(s) : "";
+  const label = (TYPES.find(y=>y[0]===t)||[t,t])[1];
+  BT = t;
+  BL = all.filter(id => !x || IDX[id].x === x).sort((a,b)=>IDX[a].t.localeCompare(IDX[b].t));
+  BLVL = BL.some(id=>IDX[id].lvl); BZ = BL.some(id=>IDX[id].z);
+  return `
+  <div class="crumbs"><a href="#home">Home</a> › ${x?`<a href="#x.${s}">${esc(x)}</a> › `:""}Browse</div>
+  <div class="art-head"><h1>${esc(label)}${x?` <small class="count">${esc(x)}</small>`:""}</h1></div>
+  <div class="filter"><input id="qf" type="search" placeholder="Filter by name${BZ?" or zone":""}" aria-label="Filter">
+    <select id="xf" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${y===x?" selected":""}>${esc(y)}</option>`).join("")}</select>
+    <span id="qcount"></span></div>
+  <div class="tablewrap"><table><thead><tr><th>Name</th>${BLVL?"<th>Level</th>":""}<th>${BZ?"Zone":"Details"}</th><th>Release</th></tr></thead><tbody id="qrows"></tbody></table></div>
+  <p class="derived" id="qmore" hidden></p>`;
+}
+function browseRows(v){
+  const hits = v ? BL.filter(id => (IDX[id].t + " " + (IDX[id].z||"")).toLowerCase().includes(v)) : BL;
+  const rel = id => IDX[id].x ? IDX[id].x + (IDX[id].xe ? " (est.)" : "") : (BT === "items" ? "Release unknown" : "");
+  document.getElementById("qrows").innerHTML = hits.slice(0, ROWCAP).map(id=>`<tr><td>${link(id)}</td>${BLVL?`<td class="num">${esc(IDX[id].lvl)}</td>`:""}<td>${esc(BZ?(IDX[id].z||""):(IDX[id].m||""))}</td><td>${esc(rel(id))}</td></tr>`).join("");
+  document.getElementById("qcount").textContent = `${hits.length.toLocaleString()} of ${BL.length.toLocaleString()}`;
+  const more = document.getElementById("qmore");
+  more.hidden = hits.length <= ROWCAP;
+  more.textContent = `Showing the first ${ROWCAP} matches. Type more of a name to narrow the list.`;
+}
+
+const main = document.getElementById("main"), peek = document.getElementById("peek");
+let seq = 0;
+async function render(){
+  const my = ++seq;
+  const h = decodeURIComponent((location.hash || "#home").slice(1)) || "home";
+  const id = pid(h);
+  document.querySelectorAll("#snav a, #xnav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#" + h || (h.startsWith("x.") && a.getAttribute("href") === "#x." + h.split(".")[1])));
+  peek.hidden = true;
+  if (h.startsWith("browse.")) {
+    const [, ty, xs] = h.split(".");
+    main.innerHTML = `<p class="loading">Loading the list…</p>`;
+    let all;
+    try { all = await typeIndex(ty); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">This list could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = browse(ty, xs, all);
+  }
+  else if (h.startsWith("x.")) { const [, xs, tab] = h.split("."); main.innerHTML = expansionView(xs, tab); }
+  else if (id.includes("/")) {
+    main.innerHTML = `<p class="loading">Opening ${esc(titleOf(id))}…</p>`;
+    let html;
+    try { html = await chunk("p", id); if (html === undefined) html = `<p class="callout red">There is no page here yet. <a href="#home">Go to the start page</a>.</p>`; }
+    catch(e){ html = `<p class="callout red">This page could not be loaded. Reload to try again.</p>`; }
+    if (my !== seq) return;
+    main.innerHTML = html;
+  } else main.innerHTML = home();
+  window.scrollTo(0,0);
+  const qf = document.getElementById("qf");
+  if (qf){
+    let tmr; const upd = ()=>{ clearTimeout(tmr); tmr = setTimeout(()=>browseRows(qf.value.trim().toLowerCase()), 120); };
+    browseRows("");
+    qf.addEventListener("input", upd);
+    const xf = document.getElementById("xf");
+    xf?.addEventListener("change", ()=>{ const ty = h.split(".")[1]; location.hash = "browse." + ty + (xf.value ? "." + xf.value : ""); });
+  }
+}
+
+data("meta").then(d=>{
+  META = d;
+  for (const id in META.zones) IDX[id] = row(META.zones[id]);
+  document.getElementById("snav").innerHTML = `<li><a href="#home">Overview<span></span></a></li>` +
+    TYPES.filter(([t])=>count(t)).map(([t,l])=>`<li><a href="#browse.${t}">${l}<span>${count(t).toLocaleString()}</span></a></li>`).join("");
+  document.getElementById("xnav").innerHTML = XP.map(x=>`<li><a href="#x.${xslug(x)}">${esc(x)}</a></li>`).join("");
+  window.addEventListener("hashchange", render);
+  render().then(()=>setTimeout(()=>loadSearch().catch(()=>{}), 1500));
+}).catch(()=>{ main.innerHTML = `<p class="callout red">The page index could not be loaded. Reload to try again.</p>`; });
+main.innerHTML = `<p class="loading">Loading the ledger…</p>`;
+
+const toast = document.getElementById("toast"); let tt;
+function say(msg){ toast.textContent = msg; toast.hidden = false; clearTimeout(tt); tt = setTimeout(()=>toast.hidden = true, 1800); }
+document.addEventListener("click", async e=>{
+  const b = e.target.closest(".loc");
+  if (b){
+    const txt = b.dataset.loc;
+    const ok = ()=>{ b.classList.add("done"); setTimeout(()=>b.classList.remove("done"), 1200); say("Copied " + txt + ". Paste it into chat"); };
+    const fallback = ()=>{ const r = document.createRange(); r.selectNodeContents(b); const s = getSelection(); s.removeAllRanges(); s.addRange(r); say("Selected. Press Ctrl+C to copy"); };
+    try { navigator.clipboard.writeText(txt).then(ok, fallback); } catch(_) { fallback(); }
+    return;
+  }
+  const ed = e.target.closest("[data-edit]");
+  if (ed){
+    if (META.repo){
+      const [owner, name, branch] = META.repo.split("/");
+      const path = ("content/" + ed.dataset.edit + ".md").split("/").map(encodeURIComponent).join("/");
+      window.open(`https://github.com/${owner}/${name}/edit/${branch || "main"}/${path}`, "_blank", "noopener");
+      return;
+    }
+    document.getElementById("mpath").textContent = "Loading the source file…";
+    document.getElementById("msrc").textContent = "";
+    document.getElementById("modal").hidden = false;
+    document.getElementById("mclose").focus();
+    try {
+      const pg = await chunk("s", ed.dataset.edit);
+      document.getElementById("mpath").innerHTML = `This is the page's real source file, <code>${esc(pg.path)}</code>. Once the site's repository exists, this button opens it in GitHub's editor; saving rebuilds the page.`;
+      document.getElementById("msrc").textContent = pg.src;
+    } catch(_) { document.getElementById("mpath").textContent = "The source file could not be loaded. Close this and try again."; }
+  }
+});
+document.getElementById("mclose").onclick = ()=>document.getElementById("modal").hidden = true;
+document.getElementById("modal").addEventListener("click", e=>{ if (e.target.id==="modal") e.currentTarget.hidden = true; });
+document.addEventListener("keydown", e=>{ if (e.key==="Escape") document.getElementById("modal").hidden = true; });
+
+document.addEventListener("mouseover", e=>{
+  const a = e.target.closest("[data-peek]"); if (!a) return;
+  const id = a.dataset.peek, d = IDX[id] || (SMAP && SMAP[id] && {t:SMAP[id][1], k:SMAP[id][2], m:SMAP[id][3]}); if (!d) return;
+  peek.innerHTML = `<em>${esc(d.k)}${d.m ? " · " + esc(d.m) : ""}</em><b>${esc(d.t)}</b>${esc(d.s || "")}`;
+  const r = a.getBoundingClientRect(); peek.hidden = false;
+  const w = peek.offsetWidth, h = peek.offsetHeight;
+  peek.style.left = Math.min(Math.max(8, r.left), innerWidth - w - 8) + "px";
+  let top = r.bottom + 8; if (top + h > innerHeight - 8) top = r.top - h - 8;
+  peek.style.top = top + "px";
+});
+document.addEventListener("mouseout", e=>{ if (e.target.closest("[data-peek]")) peek.hidden = true; });
+
+const q = document.getElementById("q"), res = document.getElementById("results");
+q.addEventListener("focus", ()=>loadSearch().catch(()=>{}));
+q.addEventListener("input", async ()=>{
+  const v = q.value.trim().toLowerCase();
+  if (!v){ res.hidden = true; return; }
+  let list;
+  try { list = await loadSearch(); } catch(_) { res.innerHTML = `<a href="#home">Search could not load<span>Reload to try again</span></a>`; res.hidden = false; return; }
+  if (q.value.trim().toLowerCase() !== v) return;
+  const hits = [];
+  for (const r of list){
+    const t = r[1].toLowerCase(); let pos = t.indexOf(v);
+    if (pos < 0 && r.length > 4 && r.slice(4).some(a=>a.toLowerCase().includes(v))) pos = 50;
+    if (pos >= 0) hits.push([pos + (t === v ? -10 : 0) + t.length / 100, r]);
+  }
+  hits.sort((a,b)=>a[0]-b[0]);
+  res.innerHTML = hits.length ? hits.slice(0,12).map(([,r])=>`<a href="#${hid(r[0])}">${esc(r[1])}<span>${esc(r[2])}${r[3]?" · "+esc(r[3]):""}</span></a>`).join("") : `<a href="#home">No matches<span>Try "gnoll"</span></a>`;
+  res.hidden = false;
+});
+q.addEventListener("keydown", e=>{ if (e.key==="Enter"){ const f = res.querySelector("a"); if (f){ location.hash = f.getAttribute("href"); res.hidden = true; q.value = ""; } }});
+document.addEventListener("click", e=>{ if (!e.target.closest(".search")) res.hidden = true; else if (e.target.closest(".results a")){ res.hidden = true; q.value = ""; } });
+
+const root = document.documentElement;
+try { const t = localStorage.getItem("nl-theme"); if (t) root.dataset.theme = t; } catch(_){}
+document.getElementById("themebtn").onclick = ()=>{
+  const dark = root.dataset.theme ? root.dataset.theme === "dark" : !matchMedia("(prefers-color-scheme: light)").matches;
+  root.dataset.theme = dark ? "light" : "dark";
+  try { localStorage.setItem("nl-theme", root.dataset.theme); } catch(_){}
+};
+</script>
