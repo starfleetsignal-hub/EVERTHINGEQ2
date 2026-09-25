@@ -380,8 +380,15 @@ document.addEventListener("click", async e=>{
   if (b){
     const txt = b.dataset.loc;
     const ok = ()=>{ b.classList.add("done"); setTimeout(()=>b.classList.remove("done"), 1200); say("Copied " + txt + ". Paste it into chat"); };
-    const fallback = ()=>{ const r = document.createRange(); r.selectNodeContents(b); const s = getSelection(); s.removeAllRanges(); s.addRange(r); say("Selected. Press Ctrl+C to copy"); };
-    try { navigator.clipboard.writeText(txt).then(ok, fallback); } catch(_) { fallback(); }
+    // Edge (and any browser where the async clipboard is blocked) gets the older copy command, then a box to copy from by hand
+    const legacy = ()=>{ const t = document.createElement("textarea"); t.value = txt; t.setAttribute("readonly", "");
+      t.style.cssText = "position:fixed;top:0;left:0;width:1px;height:1px;opacity:0"; document.body.appendChild(t);
+      t.focus({preventScroll:true}); t.select(); let done = false; try { done = document.execCommand("copy"); } catch(_) {}
+      t.remove(); b.focus({preventScroll:true}); return done; };
+    const fallback = ()=>{ if (legacy()) ok(); else window.prompt("Press Ctrl+C to copy the waypoint", txt); };
+    if (navigator.clipboard && window.isSecureContext) {
+      try { navigator.clipboard.writeText(txt).then(ok, fallback); } catch(_) { fallback(); }
+    } else fallback();
     return;
   }
   const ed = e.target.closest("[data-edit]");
