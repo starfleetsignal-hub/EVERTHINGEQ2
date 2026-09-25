@@ -115,7 +115,7 @@ source:
   - [[Loping Plains]] in [[Village of Somborn]] there are 4 [[A sick pig|sick pigs]] on 1 minute respawn timers {{waypoint -351, 14, 19}}
   - [[Nektropos Castle]]: linked [[A swine|swine]] -- *In Nektropos, note that the single triple-up swine cannot be caged, and the [[Swine Lord]] will not update the quest; the encounter must be the version with 2 or 3 linked swine.*
   - Pigs in [[Thundering Steppes]] and near the Freeport gates in [[The Commonlands]] cannot be provoked into combat and so will **not** update the quest.
-  - [[Zek, the Scourge Wastes]]: several bloodtusk warbeasts at around 412.00 -16.16 -4.14 317.26 0.00 0.00
+  - [[Zek, the Scourge Wastes]]: several bloodtusk warbeasts at around {{waypoint 412.00, -16.16, -4.14}}
   - [[Wracklands]]: a Diaku gatebiter (boar) {{waypoint 393.86, 48.54, -59.70}}
 
 ### **Bovids**:
@@ -181,7 +181,7 @@ source:
   - [[Kunzar Jungle]]: [[A Quatcha|quatchas]] *near the Druid Ring, but [[A trakanasaur|trakanasaurs]] do not update the quest*
   - [[The Sundered Frontier]]: [[A Toxxulia savage|Toxxulia savages]]
   - [[Jarsath Wastes]]: [[A gnashing devourer]]
-  - [[Cobalt Scar]]: a cobalt brownhide3,727 -1022 1,390,  Cobalt Blackpaws
+  - [[Cobalt Scar]]: a cobalt brownhide{{waypoint 3727, -1022, 1390}},  Cobalt Blackpaws
   - [[Eastern Wastes]]: [[A wakening prowler|wakening prowlers]], assorted [[A frostpaw direbear|direbears]]
   - [[Obulus Frontier]]: [a] Toothed Gnasher in Grunt's Pass
   - [[Karuupa Jungle]]: [[A fiendish scaleclaw]] {{waypoint 550, 63, 108}}
@@ -275,7 +275,7 @@ source:
   - [[Echo Caverns]]: [[A rock gnawer]] in the mining area around {{waypoint 114, 108, 44}}
   - [[Savage Weald]]: any owlbear
   - [[Shadeweaver's Thicket]]: any owlbear
-  - [[Karuupa Jungle]]: A jungle clopper in Ruddy Muck Mire (-233, 2, -161)
+  - [[Karuupa Jungle]]: A jungle clopper in Ruddy Muck Mire {{waypoint -233, 2, -161}}
   - [[Mahngavi Wastes]]: [[A ghastly windtrotter]] near [[Ghastly Fate Point]] {{waypoint -359, 117, -85}}, [[Ghastly Fate Spires]] {{waypoint -500, 40, -37}} and [[Wailing Waterfalls]] {{waypoint 253, 214, 757}}
   - [[Sandstone Delta]]: [[A gully ensnarer]] {{waypoint -48.98, 1.87, -357.71}}
   - [[Splendor Sky Aerie]] : [[A crimson direbeak]] {{waypoint 495.64, 182.50, 78.60}}
@@ -309,7 +309,7 @@ source:
 - *Examples include:*
   - [[The Peat Bog]]: [[A puny scavenger|puny scavengers]]
   - [[The Thieves' Way]]: [[A sewage rat]] (around {{waypoint -122.20, 1.31, 73.83}})
-  - [[Antonica]]: [[A lowland badger|lowland badgers]] around ( -250, -13, 154 )
+  - [[Antonica]]: [[A lowland badger|lowland badgers]] around {{waypoint -250, -13, 154}}
   - [[The Commonlands]]: assorted [[A banded armadillo|armadillos]] around {{waypoint -942.91, -66.81, -464.68}} [[A scrub rat|scrub rats]] around {{waypoint -1308, -60, 508}}
   - [[Nektulos Forest]]: [[A torrent beaver|torrent beavers]]
   - [[The Thundering Steppes]]: assorted [[A young timber badger|timber badgers]]

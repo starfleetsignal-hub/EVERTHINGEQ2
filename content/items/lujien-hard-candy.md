@@ -17,5 +17,5 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Dropped by Tirun Soulsplitters around /waypoint 212.16, 25.68, -223.16 in Obol Plains.
-Update (02/27/2021): Dropped by A Feral Raker around /waypoint 28.66, 63.65, 204.41 in the Lujien Fields in Obol Plains.
+Dropped by Tirun Soulsplitters around {{waypoint 212.16, 25.68, -223.16}} in Obol Plains.
+Update (02/27/2021): Dropped by A Feral Raker around {{waypoint 28.66, 63.65, 204.41}} in the Lujien Fields in Obol Plains.

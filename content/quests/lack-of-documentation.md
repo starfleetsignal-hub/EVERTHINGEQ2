@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'
 journal_category: The Sundered Frontier
-starts: Speak to [[Saihah Al'Lad]] ( 1871, -293, 3517 )  in [[The City of Paineel]] Council Chamber
+starts: Speak to [[Saihah Al'Lad]] {{waypoint 1871, -293, 3517}}  in [[The City of Paineel]] Council Chamber
 prerequisite: '[[The Hole Truth]]'
 next_quest: A Letter of Summons (Quest)|A Letter of Summons
 added_in: Sentinel's Fate

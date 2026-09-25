@@ -6,7 +6,7 @@ expansion_source: patch
 level: '25'
 zone: '[[Steamfont Mountains]]'
 journal_category: Steamfont Mountains
-starts: Gather a sacred leaf from the sacred bush inside the ring in Steamfont Mountains ( 20.82, 92.54, 1277.13 )
+starts: Gather a sacred leaf from the sacred bush inside the ring in Steamfont Mountains {{waypoint 20.82, 92.54, 1277.13}}
 added_in: Echoes of Faydwer
 categories:
 - Echoes of Faydwer Quests

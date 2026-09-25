@@ -31,4 +31,4 @@ expansion_source: source
 
 ## Notes
 
-This map is required by the quest [[Burglars Afoot]], and upon completing this quest you will be able to receive the quest [[Whole Lotta Holes]] by examining this map again.  If you have destroyed this item, you can get another one by examining the chest on the [[Breeding Grounds]] that was involved in the [[Burglars Afoot]] quest, located at (563, -147, 641).
+This map is required by the quest [[Burglars Afoot]], and upon completing this quest you will be able to receive the quest [[Whole Lotta Holes]] by examining this map again.  If you have destroyed this item, you can get another one by examining the chest on the [[Breeding Grounds]] that was involved in the [[Burglars Afoot]] quest, located at {{waypoint 563, -147, 641}}.

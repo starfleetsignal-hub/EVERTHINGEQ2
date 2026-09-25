@@ -86,7 +86,7 @@ More detailed info can be found in the individual quest pages, and the [[The Eid
    1. [[Erus Dal'viv]] (Jarsath Wastes)
       - [[Wurmbone's End (Advanced Solo)|Wurmbone's End [Advanced Solo]]] Find 2 pieces (1st stone is on map, 2nd stone is drop from zone boss.  You must kill All-Blocker and Necromunger to spawn boss.)
    1. [[Erus Dal'viv]] (Jarsath Wastes)
-      - [[Chelsith: The Ancient Vault (Advanced Solo)|Chelsith: The Ancient Vault [Advanced Solo]]] Kill [[Murmaz the Believer]] then do location update at (746, -136, -523)
+      - [[Chelsith: The Ancient Vault (Advanced Solo)|Chelsith: The Ancient Vault [Advanced Solo]]] Kill [[Murmaz the Believer]] then do location update at {{waypoint 746, -136, -523}}
    1. [[Erus Dal'viv]] (Jarsath Wastes), [[The Duality]] (Greater Faydark), [[Drinal's Steward]] {{waypoint -722, -4, 21}} (Obol Plains)
 1. [[Shades of Drinal: Cardin Protection]] (96)
    1. [[Firiona Vie]] (Obol Plains)
@@ -114,7 +114,7 @@ More detailed info can be found in the individual quest pages, and the [[The Eid
       1. [[Desired Siphon Components]] (94)
       1. [[Well Worth the Troubles]] (94)
    1. Return to [[Firiona Vie]]:
-      - enter [[A Nether Space]] (at inner base of Wizard Spires near 65, 36, -337 ); kill [[Quozz]]; return.
+      - enter [[A Nether Space]] (at inner base of Wizard Spires near {{waypoint 65, 36, -337}} ); kill [[Quozz]]; return.
    1. Return to [[Drinal's Steward]].
 1. [[Shades of Drinal: Devoted Knowledge]] (96)
    1. [[Drinal's Steward]]
@@ -131,14 +131,14 @@ More detailed info can be found in the individual quest pages, and the [[The Eid
    1. [[Venox Tarkog]]:
       1. [[Search of Scales]] (95)
    1. [[Drinal's Steward]]:
-      - Enter the [[Rock of Eternity]] at (-261.62, 2.19, 381.60).  [Information from ZAM] Kill all the Gehein. There will be a message when all are dead. Click on the living mud at -183, -35, -3.
-      - Exit the instance at ( -4, -1, -4 ).
-      - Go to the Blessed Kiln at Cardin Ward ( -374, 13, 16 ) and craft the Relic of Fate. It looks like a forge and the Mender is using it.
-        - Buy the Spark of Ether from Keiya Oakwood at ( -394, 16, 55 ).
-        - Find the recipe on the floor by the Mender at ( -374, 13, 16 ). Scribe it.
+      - Enter the [[Rock of Eternity]] at {{waypoint -261.62, 2.19, 381.60}}.  [Information from ZAM] Kill all the Gehein. There will be a message when all are dead. Click on the living mud at {{waypoint -183, -35, -3}}
+      - Exit the instance at {{waypoint -4, -1, -4}}.
+      - Go to the Blessed Kiln at Cardin Ward {{waypoint -374, 13, 16}} and craft the Relic of Fate. It looks like a forge and the Mender is using it.
+        - Buy the Spark of Ether from Keiya Oakwood at {{waypoint -394, 16, 55}}.
+        - Find the recipe on the floor by the Mender at {{waypoint -374, 13, 16}}. Scribe it.
         - You will also need one Raw Turquoise. The recipe says Raw Turquoise but it is actually Rough Turquoise. You can buy from broker or harvest it.
-        - Use the mud at the Blessed Kiln in Cardin Ward -374.07, 13.82, 16 (the recipe is on the floor near the kiln). It looks like a forge, and the mender is using it.  Buy  the "Spark of Ether" from Keiya Oakwood at -394, 16, 55.  Craft the "Relic of Fate".
-        - Return to a Drinal's Steward ( -722, -3, 20 ).
+        - Use the mud at the Blessed Kiln in Cardin Ward -374.07, 13.82, 16 (the recipe is on the floor near the kiln). It looks like a forge, and the mender is using it.  Buy  the "Spark of Ether" from Keiya Oakwood at {{waypoint -394, 16, 55}}  Craft the "Relic of Fate".
+        - Return to a Drinal's Steward {{waypoint -722, -3, 20}}.
 1. [[Shades of Drinal: Dashed Upon the Shore]] (96)
    1. [[Wegadas's Woven Knowledge]] for quests from Wegadas and Madyl
    1. Further Help for Wegadas:
@@ -155,8 +155,8 @@ More detailed info can be found in the individual quest pages, and the [[The Eid
 1. [[Shades of Drinal: Dreadcutter at World's End]] (96)
    1. [[Drinal's Steward]] or Whisper Column
    1. enter [[The Dreadcutter]]  Make your way to the boss, Captain Goldjaw, and kill him.
-      - Use the looted key to open the chest in the boss's room at -13, 34, -102.
-      - Go down one flight and head all the way west and turn immediately right. Click on the tablet in the corner at 10, 26, -93.  Then if you have the moxie, kill Tempest, click on the column, kill Zordakalicus.
+      - Use the looted key to open the chest in the boss's room at {{waypoint -13, 34, -102}}
+      - Go down one flight and head all the way west and turn immediately right. Click on the tablet in the corner at {{waypoint 10, 26, -93}}  Then if you have the moxie, kill Tempest, click on the column, kill Zordakalicus.
    1. hail [[Firiona Vie]] at the docks, then return to [[Drinal's Steward]]
 1. [[Shades of Drinal: Fate's Crusade]] (96)
    1. [[Drinal's Steward]] or Whisper Column, use portal, click god's maw

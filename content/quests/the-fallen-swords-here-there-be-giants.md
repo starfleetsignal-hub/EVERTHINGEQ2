@@ -45,7 +45,7 @@ source:
    - Search within the [[Throne of Storms]] in [[Kael Drakkel]], find a book on a bookshelf at {{waypoint 158, 23, 1616}}
    - Search within [[The Temple of Rallos Zek]] in [[Kael Drakkel]] (NOTE: this last piece requires you to have completed the full [[Kael Drakkel Timeline]] to open the locked door at {{waypoint -442, 160, -2155}}
 1. Return to [[The Duality]] at {{waypoint 475, -212, 246}} in [[Thurgadin, City of the Coldain]]
-1. Destroy the [[Idol of Rallos Zek]] in [[The Temple of Rallos Zek]] (accessable from the teleporter pad OUTSIDE the castle at loc (-1407.19 , 21.44 , -762.01 )  NOTE: This is the Heroic instance, not the area from the prior step.
+1. Destroy the [[Idol of Rallos Zek]] in [[The Temple of Rallos Zek]] (accessable from the teleporter pad OUTSIDE the castle at loc {{waypoint -1407.19, 21.44, -762.01}}  NOTE: This is the Heroic instance, not the area from the prior step.
 1. Return to [[The Duality]] at {{waypoint 475, -212, 246}} in [[Thurgadin, City of the Coldain]]
 
 ## Rewards

@@ -29,8 +29,8 @@ source:
 
 Zone into [[Brokenskull Bay: Hoist the Yellow Jack (Heroic)]]
 
-1. Kill the torturer - Kill [[Torturer Cruikshank the Mad]] at (-164, 7, -159) a 107 troll.
-1. Kill the leader of the Brokenskull Pirates - Kill [[Captain Krasnok the Immortal]] at (-298, 15, -92), a 107 fat troll.
+1. Kill the torturer - Kill [[Torturer Cruikshank the Mad]] at {{waypoint -164, 7, -159}} a 107 troll.
+1. Kill the leader of the Brokenskull Pirates - Kill [[Captain Krasnok the Immortal]] at {{waypoint -298, 15, -92}}, a 107 fat troll.
 
 ## Rewards
 

@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[Yet more "Travels" of Yun Zi - More Moors]]'
 next_quest: '[[Yet more "Travels" of Yun Zi - Eternally Eternity]]'
 added_in: LU111
@@ -36,7 +36,7 @@ expansion_source: timeline
      - {{waypoint -1577, -536, -2390}}
      - {{waypoint -1634, -533, -2396}}
      - {{waypoint -1621, -536, -2429}}
-     - {{waypoint -1555.84, -534.33, -2427.36}} (-1591, -536, -2398 )
+     - {{waypoint -1555.84, -534.33, -2427.36}} {{waypoint -1591, -536, -2398}}
    - Travel to the [[Eastern Wastes]] and collect a Crystal souvenir. Possible locations are:
      - {{waypoint -903, -336, 2386}}
      - {{waypoint -948, -332, 2425}}

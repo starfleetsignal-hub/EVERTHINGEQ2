@@ -33,12 +33,12 @@ expansion_source: timeline
 
 - Destroy 8 Wards of Dawn beehives![Ward of Dawn beehive](images/Ward_of_Dawn_beehive.png)
   - These spawn all around the Den of Dawn on the walls. SOME locations include:
-  - /way -396.36 -62.39 352.21
-  - /way -379.36 -63.78 316.35
-  - /way -379.70 -62.91 308.39
-  - /way -392.06 -62.92 257.29
-  - /way -605.79 -62.34 315.03
-  - /way -373.32 -63.78 232.97
+  - {{waypoint -396.36, -62.39, 352.21}}
+  - {{waypoint -379.36, -63.78, 316.35}}
+  - {{waypoint -379.70, -62.91, 308.39}}
+  - {{waypoint -392.06, -62.92, 257.29}}
+  - {{waypoint -605.79, -62.34, 315.03}}
+  - {{waypoint -373.32, -63.78, 232.97}}
 - Kill 16 members of the Wards of Dawn
 
 ## Rewards

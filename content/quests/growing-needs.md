@@ -44,8 +44,8 @@ Each quest has different content.
      - {{waypoint -639.98, 3.95, 624.15}} {{waypoint -666.01, 4.46, 596.84}} {{waypoint -693.78, 4.14, 600.84}} {{waypoint -655.52, 4.20, 570.80}}
      - {{waypoint -709.07, 4.26, 585.41}} {{waypoint -545.01, 3.63, 642.90}}
    - Kill 8 [[A toxin eel]] or thresh fins, e.g. [[An ancient thresh fin]], near {{waypoint -254.00, -0.85, 699.57}}
-   - Gather 8 bone meal all over the sandy beach area in [[The Blinding]], e.g. -147.88 5.63 568.44 279.83 0.00 0.00![Bone Meal](images/Bleached_Bone_Meal.jpg)
-   - hunt 10 toxic sunblooms for pheronmones in [[The Blinding]] near e.g. 5.09 5.17 529.17 280.02 0.00 0.00 or -662.42 5.97 616.78 119.93 0.00 0.00
+   - Gather 8 bone meal all over the sandy beach area in [[The Blinding]], e.g. {{waypoint -147.88, 5.63, 568.44}}![Bone Meal](images/Bleached_Bone_Meal.jpg)
+   - hunt 10 toxic sunblooms for pheronmones in [[The Blinding]] near e.g. {{waypoint 5.09, 5.17, 529.17}} or {{waypoint -662.42, 5.97, 616.78}}
 1. Return to [[Ashter Ryswell]] at {{waypoint -698.02, 12.62, 459.01}}.
 
 ## Rewards

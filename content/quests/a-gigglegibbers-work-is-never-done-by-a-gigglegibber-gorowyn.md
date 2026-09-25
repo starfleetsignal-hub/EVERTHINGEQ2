@@ -5,7 +5,7 @@ level: Scales
 zone: '[[Timorous Deep]]'
 timeline: '[[Frostfell Timeline]]'
 journal_category: World Event
-starts: Speak with [[Gh'lad Tydingz Gigglegibber (Gorowyn)|Gh'lad Tydingz Gigglegibber]], on the platform by the pool at the bottom city level 2,605 6 192
+starts: Speak with [[Gh'lad Tydingz Gigglegibber (Gorowyn)|Gh'lad Tydingz Gigglegibber]], on the platform by the pool at the bottom city level {{waypoint 2605, 6, 192}}
 next_quest: '[[Feelin'' Gifty in Gorowyn!]]'
 in_game_name: A Gigglegibber's work is never done (by a Gigglegibber).
 added_in: LU30

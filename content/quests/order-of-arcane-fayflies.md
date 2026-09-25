@@ -35,7 +35,7 @@ source:
 
 ## Steps
 
-1. Slay 6 [[Fayfly|Fayflies]] around -243, 36, 375 in [[Greater Faydark]]
+1. Slay 6 [[Fayfly|Fayflies]] around {{waypoint -243, 36, 375}} in [[Greater Faydark]]
 
 ## Rewards
 

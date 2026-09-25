@@ -6,8 +6,8 @@ abbrev: HoF
 patch: Kingdom of Sky
 zone: The Bonemire
 levelrange: 65+
-aclouds: '[[Drednever Crash Site]], [[Shattered Weir]] at ( -317, 342, -50 )'
-dclouds: '[[Drednever Crash Site]], [[Shattered Weir]] at ( -317, 342, -50 )'
+aclouds: '[[Drednever Crash Site]], [[Shattered Weir]] at {{waypoint -317, 342, -50}}'
+dclouds: '[[Drednever Crash Site]], [[Shattered Weir]] at {{waypoint -317, 342, -50}}'
 categories:
 - Islands
 - Kingdom of Sky

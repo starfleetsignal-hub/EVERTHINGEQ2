@@ -58,9 +58,9 @@ source:
      - {{waypoint -694, -6, 291}}
    - Spiny Fern - east Anaconda River
      - {{waypoint -996, -6, 405}}
-     - -1,235.97 -5.62 450.44
-     - -1,295 -6 495
-     - -1,136 -6 707
+     - {{waypoint -1235.97, -5.62, 450.44}}
+     - {{waypoint -1295, -6, 495}}
+     - {{waypoint -1136, -6, 707}}
      - {{waypoint -1206, -4, 558}}
 1. Return to Cvaka
 

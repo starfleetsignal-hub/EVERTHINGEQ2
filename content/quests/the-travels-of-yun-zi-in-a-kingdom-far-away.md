@@ -5,7 +5,7 @@ level: '100'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[The "Travels" of Yun Zi - An Oasis For Your Thoughts]]'
 next_quest: '[[The "Travels" of Yun Zi - Echoes of the Past]]'
 added_in: Days of Summer
@@ -41,7 +41,7 @@ expansion_source: timeline
    1. [[Breeding Grounds]] in [[Tenebrous Tangle]]: Use the cloud in [[Hidden Refuge]] at {{waypoint 221, -226, 166}} to fly to [[Breeding Grounds]] to get your quest update.
    1. [[Drednever Crash Site]] in [[The Bonemire]]: Fly back with the cloud to [[Hidden Refuge]]. Use the other cloud in  [[Hidden Refuge]] at {{waypoint 62, -186, 179}} to fly to [[Temple Grounds]] and use the spire at {{waypoint -43, 21, 241}} to travel to [[The Bonemire]]. In [[The Bonemire]] travel to {{waypoint -19, -43, 512}} to get your quest update.
    1. [[Halls of Fate]] in [[The Bonemire]]: Use the cloud at {{waypoint 31, 40, 486}} to fly to [[Halls of Fate]]-Station. There travel to [[Halls of Fate]] (on top of the building) in [[The Bonemire]] to get your questupdate at {{waypoint -27, -374, 3}}.
-1. Return to [[Yun Zi (Merchant)|Yun Zi]] on [[The Sundered Frontier]], near Spire at 2,297 -199 2,506
+1. Return to [[Yun Zi (Merchant)|Yun Zi]] on [[The Sundered Frontier]], near Spire at {{waypoint 2297, -199, 2506}}
 
 ## Rewards
 

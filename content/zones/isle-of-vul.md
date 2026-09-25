@@ -6,7 +6,7 @@ release: '[[Kunark Ascending]]'
 levels: '100'
 access: Solo
 entered_from: '[[Enchanted Lands]]'
-entrance: while wearing [[Tobrin's Mystical Eyepatch]], click on "a half-buried statue" at -1013 -.95 -383
+entrance: while wearing [[Tobrin's Mystical Eyepatch]], click on "a half-buried statue" at {{waypoint -1013, -0.95, -383}}
 players: 1h30min-3days
 related_quest: '[[Into the Maw]]'
 categories:

@@ -41,14 +41,14 @@ source:
 1. Kill 5 [[An overland miner|overland miners]] in Antonica. Miners spawn randomly around [[Antonica]] but always near rock formations. Miners have been found at the following locations:
    - Loc {{waypoint -363, -19, 456}}
    - Loc {{waypoint -600, -12, 121}}
-   - Loc -510 -15, 134
+   - Loc {{waypoint -510, -15, 134}}
    - Loc {{waypoint -141, -24, 639}}
    - Loc {{waypoint -109, -21, 665}}
    - Loc {{waypoint -397, -18, 450}}
    - Loc {{waypoint 56, -8, 219}}
    - Loc {{waypoint -1, -12, 269}}
    - Loc {{waypoint -74, -14, 263}}
-   - Loc -.06 -11 269
+   - Loc {{waypoint -0.06, -11, 269}}
 1. Return to [[Gol M'Tun]].
 
 ## Rewards

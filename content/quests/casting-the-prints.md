@@ -6,7 +6,7 @@ difficulty: Heroic
 zone: '[[The Withered Lands]]'
 timeline: '[[The Withered Lands Timeline]]'
 journal_category: Withered Lands
-starts: Speak to [[Tracker Morin]] at -1718, -599, -1225
+starts: Speak to [[Tracker Morin]] at {{waypoint -1718, -599, -1225}}
 prerequisite: '[[Frightening Effigies]]'
 next_quest: '[[Abduction!]]'
 added_in: LU63

@@ -32,7 +32,7 @@ source:
 
 ## Steps
 
-1. Harvest 200 resources from any of the Elemental Planes. These are the planes within the Elemental Portal Gallery 750.63 412.33 -336.03 334.21 0.00 0.00 in Myrist; [[Vegarlson, the Earthen Badlands|Velgarson]], [[Awuidor, the Unresting Waters|Awuidor]], [[Eryslai, the Kingdom of Wind|Eryslai]] and [[Doomfire, the Burning Lands|Doomfire]].
+1. Harvest 200 resources from any of the Elemental Planes. These are the planes within the Elemental Portal Gallery {{waypoint 750.63, 412.33, -336.03}} in Myrist; [[Vegarlson, the Earthen Badlands|Velgarson]], [[Awuidor, the Unresting Waters|Awuidor]], [[Eryslai, the Kingdom of Wind|Eryslai]] and [[Doomfire, the Burning Lands|Doomfire]].
 1. Return to Rakira.
 
 ## Rewards

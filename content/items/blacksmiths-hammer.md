@@ -6,7 +6,7 @@ icon: images/Item_33.png
 tier: Treasured
 item_level: '0'
 flags: no-trade no-value
-obtained_from: By harvesting the hammer at -256 -84.5 -1,002.5 while on the quest [[Ramble On]]
+obtained_from: By harvesting the hammer at {{waypoint -256, -84.5, -1002.5}} while on the quest [[Ramble On]]
 used_in_quest: '[[Ramble On]]'
 item_link: \aITEM 670856547 -879436143:blacksmith's hammer\/a
 image: images/Blacksmith%27s_hammer.jpg

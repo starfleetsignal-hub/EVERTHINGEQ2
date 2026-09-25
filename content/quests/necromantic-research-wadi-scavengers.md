@@ -42,7 +42,7 @@ This quest is repeatable up to 4 times.
 
 ## Steps
 
-- Kill 7 [[A wadi scavenger|wadi scavengers]] -147 234 3,445 in [[Kejaan's Rill]].
+- Kill 7 [[A wadi scavenger|wadi scavengers]] {{waypoint -147, 234, 3445}} in [[Kejaan's Rill]].
 
 ## Rewards
 

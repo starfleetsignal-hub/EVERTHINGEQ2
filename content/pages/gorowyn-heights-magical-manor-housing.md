@@ -17,7 +17,7 @@ source:
 **Obtained:** See Notes section below
 **Available Location:**
 
-- [[Gorowyn]], in the hallway at 2,700 123 1,125 near broker/banker
+- [[Gorowyn]], in the hallway at {{waypoint 2700, 123, 1125}} near broker/banker
 - **Quantity Limit:** one per character
 - **House Style/Theme:** see About section below
 - **[[Mount]] Use Within:** none allowed
@@ -37,7 +37,7 @@ Gorowyn Heights Magical Manor (Housing) is identical to the large Gorowyn house 
 
 This house is in a odd location. Unlike the other homes which have doors inside the smaller, upper residential area with the banker, broker, the tradeskill area and other NPCs, the entrance for this home is just outside the upper residential area.
 
-After you use the portal in the lower massive cave (2,507 13 1,217) to travel to the top platform, the door is in the wall, right where the hallway turns to take you into the upper residential area. An image at the top of this page shows the door, with the banker area in the distance.
+After you use the portal in the lower massive cave ({{waypoint 2507, 13, 1217}}) to travel to the top platform, the door is in the wall, right where the hallway turns to take you into the upper residential area. An image at the top of this page shows the door, with the banker area in the distance.
 
 - This house style is popular because with a [[Bag of Teleportation Pads]], you can [[Housing Breakout Guide|break out]] and build anything using [[Housing Item Limit and Building Blocks|building blocks]].
 

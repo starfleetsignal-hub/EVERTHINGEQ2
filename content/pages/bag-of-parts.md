@@ -15,4 +15,4 @@ source:
 - [[Bag of Parts (Quest)|Bag of Parts]] - Quest received by examining the item *Bag of Parts*
 - [[Bag of Parts (Item)|Bag of Parts]] - examine this item to receive the quest
 
-Algan Tinmizer can be found at  862, -12.35, 412.43
+Algan Tinmizer can be found at  {{waypoint 862, -12.35, 412.43}}

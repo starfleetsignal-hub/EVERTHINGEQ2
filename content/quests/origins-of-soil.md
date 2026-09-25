@@ -49,7 +49,7 @@ source:
    - Catalogue [[A sepulcher attendant]] {{waypoint 1095, 274, 41}}
    - Catalogue [[A sepulcher warden]] {{waypoint 1095, 274, 41}}
 
-1. Catalogue then defeat a [[Soiled Sludge]] {{waypoint 594.02, 10.83, -329.93}} also found at 1370, 465, 9
+1. Catalogue then defeat a [[Soiled Sludge]] {{waypoint 594.02, 10.83, -329.93}} also found at {{waypoint 1370, 465, 9}}
    - He becomes aggro immediately upon being catalogued.
 
 ## Rewards

@@ -35,7 +35,7 @@ source:
 
 ## Steps
 
-1. Kill [[Grumblerutt]] inside the [[The Loom]] in [[Rivervale]]. -190 ,-19 -11
+1. Kill [[Grumblerutt]] inside the [[The Loom]] in [[Rivervale]]. {{waypoint -190, -19, -11}}
 1. Hunt for a tailor moppet:
    - Inside Merchant Rosewood's store {{waypoint -114, -26, 11}}
    - Inside [[Cask's General Store]] {{waypoint -74, -18, 108}}
@@ -61,7 +61,7 @@ source:
 1. Hunt for the [[A marshal moppet|marshal moppet]].  He's a 35^^-39^^ heroic with a direwolf friend of the same level.  He can be found running around the roads in Rivervale and frequently passes [[The Fools Gold]] {{waypoint -70, -17, 2}} and [[The Loom|Digg's Tall n'Stout]] (aka [[The Loom]]) on a very rough 10 minute cycle. {{waypoint -192, -19, -12}}
    - Starts his run at {{waypoint -403.65, 0.02, -116.33}}
    - Also spotted at {{waypoint -427, -1, 143}} and {{waypoint -419, 0, 213}}
-   - Wait at /waypoint -182, 6, -180 and spotted crossing the bridge by the waterfall. Killed 30Nov2025
+   - Wait at {{waypoint -182, 6, -180}} and spotted crossing the bridge by the waterfall. Killed 30Nov2025
 1. Return to [[Sir Tatters]] for your reward.
 
 ## Rewards

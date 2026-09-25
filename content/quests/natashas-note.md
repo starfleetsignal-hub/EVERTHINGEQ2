@@ -38,7 +38,7 @@ source:
 ## Steps
 
 1. Examine [[A dirty graverobber note]].
-1. Speak with [[Tarakh]] in [[The City of Freeport|Freeport]]. {{waypoint -258, -55, 11}}  for Anashti Sul server update is in Temple Street (93, -4, 99)
+1. Speak with [[Tarakh]] in [[The City of Freeport|Freeport]]. {{waypoint -258, -55, 11}}  for Anashti Sul server update is in Temple Street {{waypoint 93, -4, 99}}
 
 ## Rewards
 

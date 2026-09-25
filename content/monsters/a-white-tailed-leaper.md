@@ -5,7 +5,7 @@ expansion: Echoes of Faydwer
 race: Deer
 level: 3-4
 zone: '[[Greater Faydark]]'
-location: Northern part of [[The Shroomba Fields]]
+location: Northern part of [[The Shroomba Fields]] {{waypoint 59, -28, -794}}
 added_in: Echoes of Faydwer
 categories:
 - Deer

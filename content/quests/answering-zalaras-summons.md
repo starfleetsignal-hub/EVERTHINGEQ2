@@ -33,7 +33,7 @@ source:
 
 ## Steps
 
-1. Visit [[Aquim]] -135 150, -14 and select the 'Anankar and Zalara' tale, when offered.
+1. Visit [[Aquim]] {{waypoint -135, 150, -14}} and select the 'Anankar and Zalara' tale, when offered.
 1. After listening to his tale, Alquim will offer you the quest 'Answering Zalara's Summons'.
 1. Accept the quest offer and travel to [[The Sinking Sands]].
 1. Kill the following mobs:

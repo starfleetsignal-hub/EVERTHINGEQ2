@@ -45,7 +45,7 @@ source:
 1. Speak to [[Sumit]] in the Hall of Necromancy {{waypoint 1647, -267, 3216}}.
 1. Test the [[Essence entanglement device]] on the ghosts in [[The Ruins of Old Paineel]] {{waypoint 1573, -104, 3169}} (This step can be done from a safe distance if your adventure level is low. If targeting a ghost in a group encounter, only the ghost you are targeting will count towards the quest.)
 1. Return to [[Sumit]] for your reward.
-1. Go to Adeela ( 1727, -282, 3471 ) for the next quest.
+1. Go to Adeela {{waypoint 1727, -282, 3471}} for the next quest.
 
 ## Rewards
 

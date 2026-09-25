@@ -20,11 +20,11 @@ source:
 The quests from [[Eirik]] {{waypoint 868, -274, 136}}, in tradeskill area of Thurgadin, [[Alfrig]] {{waypoint 516, -214, 266}}, and [[Aggi Stonefist]] {{waypoint 698, -312, 361}} in Thurgadin, and [[Tora]] at [[Blisterrock Ridge]] in [[Great Divide]] all offer this faction as a reward. Once you have finished Eirik's quests you can get a quest every 5 minutes from [[Mikk Eishammer]] (in same room as Eirik {{waypoint 893, -274, 146}}).
 
 1. City of Thurgadin:
-   - Eirik ( 868, -274, 136 )  4 Non-repeatable quests.
-   - Aggi Stonefist ( 698, -312, 361 )  5 non-repeatable quests.
-   - Mikk Eishammer ( 893, -274, 146 )  Repeatable quests offered every 5 minutes.
-   - Alfrig ( 516, -214, 266) in the Temple of Brell
+   - Eirik {{waypoint 868, -274, 136}}  4 Non-repeatable quests.
+   - Aggi Stonefist {{waypoint 698, -312, 361}}  5 non-repeatable quests.
+   - Mikk Eishammer {{waypoint 893, -274, 146}}  Repeatable quests offered every 5 minutes.
+   - Alfrig {{waypoint 516, -214, 266}} in the Temple of Brell
 1. Great Divide:
-   - Tora at Blisterrock Ridge at the Ring War Station,  ( 110, -346, -609 )   5 non-repeatable quests.
+   - Tora at Blisterrock Ridge at the Ring War Station,  {{waypoint 110, -346, -609}}   5 non-repeatable quests.
 1. Goahmari Village
-   - Capru ( 377, -15, 528 )  6 non-repeatable quests.
+   - Capru {{waypoint 377, -15, 528}}  6 non-repeatable quests.

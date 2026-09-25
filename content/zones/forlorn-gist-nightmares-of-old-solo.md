@@ -44,4 +44,4 @@ source:
   - She can trap you in a [[Mind Prism]].
   - Mind Prism prevents healing and lasts until the adds are dead
   - Summons lots of [[A summoned forlorn resident|summoned forlorn resident]] adds.
-- Exit at 471.22 109.22 198.45 311.19 0.00 0.00
+- Exit at {{waypoint 471.22, 109.22, 198.45}}

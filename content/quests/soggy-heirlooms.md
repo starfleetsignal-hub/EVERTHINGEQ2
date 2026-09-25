@@ -44,7 +44,7 @@ It is assumed that many of the treasured heirlooms of the iksar noble families h
    - An iksar bard's instrument
    - A noble iksar chalice
    - A Sasil family artifact
-     - Destroy each sarcophagus near -11, -3, -60 to spawn Lord Sasil's Arms, Head, Ribcage, and Legs
+     - Destroy each sarcophagus near {{waypoint -11, -3, -60}} to spawn Lord Sasil's Arms, Head, Ribcage, and Legs
      - Defeat Lord Sasil's Arms, Head, Ribcage, or Legs for artifact
 1. return to Lieutenant Kresic near Omen's Call
 

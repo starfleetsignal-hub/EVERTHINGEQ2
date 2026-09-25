@@ -8,7 +8,7 @@ difficulty: Heroic
 zone: '[[Edgewater Drains]]'
 timeline: '[[Berserker Epic Weapon Timeline]]'
 journal_category: Signature
-starts: Speak with Vasiliy in Edgewater Drains (85, 33, 76)
+starts: Speak with Vasiliy in Edgewater Drains {{waypoint 85, 33, 76}}
 categories:
 - Edgewater Drains Heroic Quests
 - Edgewater Drains Quests

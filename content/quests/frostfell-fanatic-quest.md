@@ -39,7 +39,7 @@ source:
    - Find another curious Frostfell object. This is a Purple Gift Box in [[Gnip Gnopp's Gizmo Shop]] on a bench at {{waypoint 195, -12, -64}} during [[The Giftgiver's Dilemma]] and [[Gnopp's One Stop Shop]].
      - Note: After completion of the quests, the Gift Box can be found by [[Gardy Ex-Giftgiver]] in the [[Frostfell Wonderland Village]] at {{waypoint 264, -34, -1345}}.
    - Find a curious Frostfell object. This is a Bowl of Apples and a Skull in the [[Gigglegibber Gifty Storehouse]] at {{waypoint -98.84, 0.96, -83.41}} during the quest [[Raiding the Gifty Storehouse]].
-   - Find a peculiar Frostfell object. This is a Sack of Coal and is found in [[Mr. McScroogle's Boudoir]] at 6 .15 -5 during the quest [[A Frostfell Favor]].
+   - Find a peculiar Frostfell object. This is a Sack of Coal and is found in [[Mr. McScroogle's Boudoir]] at {{waypoint 6, 0.15, -5}} during the quest [[A Frostfell Favor]].
      - Note: After completion of the quest, the Coal can be found near Mr. McScroogle at {{waypoint 480, -35, -1564}}.
    - Find another peculiar Frostfell object. This is a Rack of Ice Weapons and is found in [[The Icy Keep]], outside the western tower at {{waypoint 58, 0, -80}}.
      - Note: If you don't pick-up the weapon rack the first time you will need to re-enter the Icy Keep, to get the easy instance you'll need to pick-up the quest [[It's Time to Sleigh the Dragon!]] from [[Snarf Frostfoot]] in [[Zone|Frostfell]].

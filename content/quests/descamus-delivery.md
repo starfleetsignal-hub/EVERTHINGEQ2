@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. Deliver the order to [[Trader Descamus]] in [[Teren's Grasp]]. 1,838.59, 487.62 -793.71
+1. Deliver the order to [[Trader Descamus]] in [[Teren's Grasp]]. {{waypoint 1838.59, 487.62, -793.71}}
 
 ## Rewards
 

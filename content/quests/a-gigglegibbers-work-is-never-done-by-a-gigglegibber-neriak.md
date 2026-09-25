@@ -50,8 +50,8 @@ expansion_source: patch
      - [[A rock lioness|rock lionesses]] in [[The Commonlands]]
      - [[A moon wisp|moon wisps]] in [[The Commonlands]]
    - **Tier 3 (Level 21-30)**
-     - [[A mischievous mist grinnin|mischievous mist grinnins]] in [[Nektulos Forest]] ( -175, 3, -696 )
-     - [[A dusk leaper|dusk leapers]] in [[Nektulos Forest]] ( -616, 31, 15 )
+     - [[A mischievous mist grinnin|mischievous mist grinnins]] in [[Nektulos Forest]] {{waypoint -175, 3, -696}}
+     - [[A dusk leaper|dusk leapers]] in [[Nektulos Forest]] {{waypoint -616, 31, 15}}
    - **Tier 4 (Level 31-40)**
      - [[A Vallon miner|Vallon miners]] in [[Zek, the Orcish Wastes|Zek]]
      - Kill 5 [[A Blackhook raider|Blackhook Raiders]] in [[Zek, the Orcish Wastes]] {{waypoint 115, -42, 299}}

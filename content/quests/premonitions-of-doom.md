@@ -32,7 +32,7 @@ source:
 ## Notes
 
 - Do not kill the following named monsters as you move through the instance: [[Doom Guard Vimock]], [[Jin'tiz the Cataloguer]], or [[Katalkana]]. In order to complete this quest they all need to be alive when you defeat [[Doom Lord Septimus]].
-- In order to open the locked door at {{waypoint 119, 1, -125}}, you will need the [[Doomwing Key]], which can be found at {{waypoint 137, 10, -133}}. (I found the key at ( 134, 11, -132 ).
+- In order to open the locked door at {{waypoint 119, 1, -125}}, you will need the [[Doomwing Key]], which can be found at {{waypoint 137, 10, -133}}. (I found the key at {{waypoint 134, 11, -132}}.
 
 ## Steps
 

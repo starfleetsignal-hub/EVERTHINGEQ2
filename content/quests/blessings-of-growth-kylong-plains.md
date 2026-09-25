@@ -6,7 +6,7 @@ expansion_source: category
 level: '25'
 zone: '[[Kylong Plains]]'
 journal_category: Kylong Plains
-starts: Gather a Blessing of Tunare from the blessed shrubbery inside the druid ring in Kylong Plains (loc 1622, 458, -803).
+starts: Gather a Blessing of Tunare from the blessed shrubbery inside the druid ring in Kylong Plains {{waypoint 1622, 458, -803}}.
 categories:
 - Kylong Plains Quests
 - Kylong Plains Solo Quests

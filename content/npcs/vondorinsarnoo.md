@@ -26,7 +26,7 @@ source:
 ## Notes
 
 - Moved from Starcrest Commune to Qeynos Capitol District during LU64.
-- In Origins, can be found just inside the Starcrest Commune gate to South Qeynos, kneeling beside the Qeynos Exchange at 721.21, -20.24, 274.58
+- In Origins, can be found just inside the Starcrest Commune gate to South Qeynos, kneeling beside the Qeynos Exchange at {{waypoint 721.21, -20.24, 274.58}}
 
 ## Related Quests
 

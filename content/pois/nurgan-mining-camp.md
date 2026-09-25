@@ -26,7 +26,7 @@ source:
 
 ## Notes
 
-To get there go to the Cabilis sokokar Post -235.90 30.33 -1,111.01. On the left are the [[Ruins of Cabilis]], and to the right is a mountain valley that leads up to the [[Nurgan Mining Camp]]. Keep following the path to go to the [[Mines of Nurga]] and the entrance to [[Nu`roga]] just inside the cave entrance.
+To get there go to the Cabilis sokokar Post {{waypoint -235.90, 30.33, -1111.01}}. On the left are the [[Ruins of Cabilis]], and to the right is a mountain valley that leads up to the [[Nurgan Mining Camp]]. Keep following the path to go to the [[Mines of Nurga]] and the entrance to [[Nu`roga]] just inside the cave entrance.
 
 ## Related Quests
 

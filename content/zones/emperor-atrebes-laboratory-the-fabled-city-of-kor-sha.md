@@ -57,7 +57,7 @@ Note- If you get mobs running at you from the door to the south it means that yo
 
 As he randomly teleports members to one of 3 sides of his room you have to cure NOXIOUS before you move from the little cove where you were teleported.  If you fail to cure yourself and try to move you will AoE the entire group.  If you run out of potions you can just range fight from the cove until the detrimental has expired.
 
-A good tank spot is wedged in at -108, -52, -306, with the group opposite, so his knockback won't kick all over the room.
+A good tank spot is wedged in at {{waypoint -108, -52, -306}}, with the group opposite, so his knockback won't kick all over the room.
 
 If you can chain stun him the entire fight then this would be another method to defeat his teleporting and kick backs...
 

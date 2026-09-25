@@ -42,7 +42,7 @@ Hulda's father told her a poem which may help you find the items you need to con
    - Gather 6 Dawnshroud Lake Guppies near {{waypoint 627.67, 45.05, -280.44}}  *Note: A school of 3 clownfish - water spouts above them*![Dawnshroud Lake Guppies](images/Dawnshroud_Lake_Guppy_visible.jpg)
    - Gather 6 Prismatic Crystal Shards *Note: Purple crystal formations, mostly found around cabins and rocks*
      - Possible locations include: {{waypoint 273.36, 101.13, -96.46}} {{waypoint 242.69, 67.07, 9.49}} {{waypoint 218.13, 56.57, 33.65}} {{waypoint 102.41, 57.07, 107.88}} {{waypoint 86.02, 84.10, -441.31}} {{waypoint 57.91, 74.14, -441.90}} {{waypoint 142.42, 66, 26}}*![Prismatic Crystal Shard](images/Prismatic_Crystal_Shard_visible.jpg)
-   - Defeat 6 [[A reishi spore|reishi spores]] near {{waypoint 527.06, 27.70, 427.68}}.  *Note: Floating bubbles above tall mushrooms **NOTE: these are inside a cave ( 568, 36, 357 )***
+   - Defeat 6 [[A reishi spore|reishi spores]] near {{waypoint 527.06, 27.70, 427.68}}.  *Note: Floating bubbles above tall mushrooms **NOTE: these are inside a cave {{waypoint 568, 36, 357}}***
    - Defeat 6 [[A shadowed stone|shadowed stone elementals]] near {{waypoint -365.61, 15.14, -223.61}}
 1. Use the [[Maiden's Torch]] at {{waypoint -678.03, 79.49, 131.13}}
 1. Use the [[Maiden's Torch]] again to attempt to light it.

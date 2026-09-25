@@ -7,7 +7,7 @@ level: '67'
 difficulty: Solo
 zone: '[[The Bonemire]]'
 journal_category: Bonemire
-starts: Speak to [[Vegnit Snogwit]] at the [[Drednever Crash Site]] near ( -21, 44, 527 ).
+starts: Speak to [[Vegnit Snogwit]] at the [[Drednever Crash Site]] near {{waypoint -21, 44, 527}}.
 prerequisite: '[[Deliver to Nepther''tum]]'
 next_quest: '[[Stop the Enclave]]'
 achievement_xp: true
@@ -38,7 +38,7 @@ Duplicate page!!
 
 ## Steps
 
-1. I need to report to [[Deegli Bubbowus]] found at [[Halls of Fate]] near ( -304, -342, -57 ).
+1. I need to report to [[Deegli Bubbowus]] found at [[Halls of Fate]] near {{waypoint -304, -342, -57}}.
 
 ## Rewards
 

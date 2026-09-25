@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[The Eidolon Jungle]]'
 timeline: '[[The Eidolon Jungle Timeline]]'
 journal_category: Signature
-starts: Speak to [[Drinal's Steward]] at -84, 14, 174 in [[The Eidolon Jungle]]
+starts: Speak to [[Drinal's Steward]] at {{waypoint -84, 14, 174}} in [[The Eidolon Jungle]]
 prerequisite: '[[Shades of Drinal: The Shores of Everafter]]'
 added_in: Chains of Eternity
 achievement_xp: true

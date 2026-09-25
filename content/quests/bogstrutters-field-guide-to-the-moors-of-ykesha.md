@@ -60,7 +60,7 @@ source:
      - *The central home of the Brokenskull clan*: [[Gunthak's Shanty]] {{waypoint -1270, -953, 635}}
      - *The harbor*: [[Brokenskull Harbor]] {{waypoint -1736, -1101, 1203}}
      - *The island shaped like a skull*: [[Brokenskull Rock]] {{waypoint -1884, -1094, 2700}}
-     - The Brokenskull Captain's sanctuary: Graw's Crown, the large spire found near the Shadowed Cleft balloon station. ( -1334, -653, 353 ) Copy *(lower Moors)*
+     - The Brokenskull Captain's sanctuary: Graw's Crown, the large spire found near the Shadowed Cleft balloon station. {{waypoint -1334, -653, 353}} Copy *(lower Moors)*
 1. Return to Amelia Bogstrutter.
 
 ## Rewards

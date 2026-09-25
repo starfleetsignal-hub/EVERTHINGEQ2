@@ -20,4 +20,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Drops off [[Attendant Mealix]] and other [[An oculus illusionist|oculus illusionist]] mobs in [[Runnyeye]]. They may also drop off of [[A void watcher|void watchers]] around /waypoint 356.19, 37.85, -726.48 and near Runnyeye in the [[Enchanted Lands]].
+Drops off [[Attendant Mealix]] and other [[An oculus illusionist|oculus illusionist]] mobs in [[Runnyeye]]. They may also drop off of [[A void watcher|void watchers]] around {{waypoint 356.19, 37.85, -726.48}} and near Runnyeye in the [[Enchanted Lands]].

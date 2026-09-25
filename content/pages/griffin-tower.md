@@ -90,17 +90,17 @@ Optional quest: [[Griffin Stations: Butcherblock]]
 
 This is one of the zones in which the connections remain complex, even after the 2010 travel update. The connecting stations are listed below each station name. The main station has its waypoint (location) listed and is in bold for easier reading.
 
-- **Gorowyn Dock Station** - at 2,352 7 1409
+- **Gorowyn Dock Station** - at {{waypoint 2352, 7, 1409}}
 - Connections:
   - Gorowyn Beach
   - Chrykori Village
   - Butcherblock Docks (now part of the [[Globe of Swift Travel]] too.)
-- **Gorowyn Beach Station** - at 2,229 45 975
+- **Gorowyn Beach Station** - at {{waypoint 2229, 45, 975}}
 - Connections:
   - Gorowyn Dock
   - Mok Rent
   - Chrykori Island
-- **Mok Rent** - at 1,843 68 -316
+- **Mok Rent** - at {{waypoint 1843, 68, -316}}
 - Connections:
   - Chrykori Island
   - Gorowyn Beach
@@ -119,8 +119,8 @@ This is one of the zones in which the connections remain complex, even after the
 **Info in this section is currently being verified and updated. See the InUse note at the top of the page. Ignore odd formatting until complete**<br>
 The NPCs below are on the docks near [[Thurgadin, City of the Coldain]]. The dock is accessed by travel using a [[Globe of Swift Travel]].
 
-- A NPC with a name variation "a coldain griffin rider" can be found at 1,335 -540 404 and allows travel to the following locations:
-- Icy Fingers, the landing area for [[Fina's Retreat]]. The landing area location: -1,386 -508 -2,250
+- A NPC with a name variation "a coldain griffin rider" can be found at {{waypoint 1335, -540, 404}} and allows travel to the following locations:
+- Icy Fingers, the landing area for [[Fina's Retreat]]. The landing area location: {{waypoint -1386, -508, -2250}}
   - (near quests offered in this zone by various Othmir/near same zone in point from the Sinking Sands)
 - Eastern Wastes  **Accessible after other travel to these locations by other means. Being verified**
   - In order to reach the following locations for this griffin tamer, you must first travel to the locations on a mount and no quest unlocks are required to use them again.
@@ -129,7 +129,7 @@ The NPCs below are on the docks near [[Thurgadin, City of the Coldain]]. The doc
 - Scar Bridge
 - Ring of War Remnants
   - His return-to location is called [[Thurgadin Harbor]] for return flights.
-- A NPC with the name variation, New Combine Flight Master can be found on the dock at 1,277 -540 304 and offers travel to the following locations:<br>
+- A NPC with the name variation, New Combine Flight Master can be found on the dock at {{waypoint 1277, -540, 304}} and offers travel to the following locations:<br>
 
 **No limits on the below at all, verified.**
 Withered Lands

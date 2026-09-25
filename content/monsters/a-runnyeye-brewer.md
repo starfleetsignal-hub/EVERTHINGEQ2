@@ -4,7 +4,7 @@ type: monster
 race: Goblin
 level: 38-39
 zone: '[[Runnyeye]]'
-location: Can be found at waypoint 43.56 -15.74 -178.81
+location: Can be found at {{waypoint 43.56, -15.74, -178.81}}
 aliases:
 - Runnyeye brewer
 categories:

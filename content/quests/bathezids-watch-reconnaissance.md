@@ -41,7 +41,7 @@ source:
 
 ## Steps
 
-1. Use [[Location recorder]] on [[A Rilissian advancer|Rilissian advancer]]s, found near -12.90 -34.33 1,427.91 and {{waypoint 19.50, -33.80, 1384.20}}. You can tag the same advancer repeatedly if you wait a couple minutes.
+1. Use [[Location recorder]] on [[A Rilissian advancer|Rilissian advancer]]s, found near {{waypoint -12.90, -34.33, 1427.91}} and {{waypoint 19.50, -33.80, 1384.20}}. You can tag the same advancer repeatedly if you wait a couple minutes.
 1. Return to Assistant Volwon Zhi'dok in Bathezid's Watch.
 
 ## Rewards

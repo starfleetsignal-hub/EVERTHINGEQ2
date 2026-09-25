@@ -28,7 +28,7 @@ source:
 
 ## Steps
 
-1. Slay 15 residual sparklet ( -569.40 107.38 -488.11 )
+1. Slay 15 residual sparklet {{waypoint -569.40, 107.38, -488.11}}
 
 ## Rewards
 

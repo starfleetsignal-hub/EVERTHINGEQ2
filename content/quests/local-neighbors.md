@@ -39,7 +39,7 @@ source:
    - [[A brush constrictor (Feerrott)|a brush constrictor]] {{waypoint 17, 27, 879}}
    - [[A brush nightstalker]] {{waypoint -43, -3, 412}}
    - [[A carrion dreg]] {{waypoint 85, -1, 79}}
-   - [[A jungle leaper]] {{waypoint -13, 19, 835}} or  (-133, 9 859 )
+   - [[A jungle leaper]] {{waypoint -13, 19, 835}} or  {{waypoint -133, 9, 859}}
    - [[A marsh damselfly]] {{waypoint -46, -7, 473}}
    - [[An underbrush fiend]] {{waypoint -189, -16, 545}}
 1. Return to [[Tarin Varinblade]] to receive your reward.

@@ -5,7 +5,7 @@ item_kind: Quest Starter
 flags: LORE NO-TRADE
 description: This book appears incomplete. Reading it may give clues to finding the missing text.
 effects: Examining this item starts the quest, [[Karath Smoothmane - Winter Comes (Quest)|Karath Smoothmane - Winter Comes]].
-obtained_from: Purchased from Sage [[Indis Surion]] at the [[Concordium Tower]] in [[South Qeynos]] ( 702,82,130 )
+obtained_from: Purchased from Sage [[Indis Surion]] at the [[Concordium Tower]] in [[South Qeynos]] {{waypoint 702, 82, 130}}
 item_link: -1537263584 -1481260681:Karath Smoothmane - Winter Comes
 categories:
 - Item pages with existing default images

@@ -184,7 +184,7 @@ This has to refer to the Orc area in [[The Sinking Sands]].
 
 - I thought so too - but it's not even close! Rommie 04:24, 28 March 2007 (CEST)
 
-**Deathfist Citadel, Deathfist Savings and Loan, 7, -25 22**
+**Deathfist Citadel, Deathfist Savings and Loan, {{waypoint 7, -25, 22}}**
 
 a vision of Vhalen says to you,"Sir Dumple. Knight with tick tocking. In the land of purged clouds. Valor stood against evil mocking."
 

@@ -36,7 +36,7 @@ source:
 
 1. Collect several ingredients native to Kunark:
    - 4 *perfectly marbled Yha-lei steaks* from Yha-lei in [[Jarsath Wastes]].
-     - [[A Yha-lei harpooner|Yha-lei harpooners]], [[A Yha-lei netman|netmen]] and [[A Yha-lei patroller|patrollers]] update 352.89 -41.52 1,230.43
+     - [[A Yha-lei harpooner|Yha-lei harpooners]], [[A Yha-lei netman|netmen]] and [[A Yha-lei patroller|patrollers]] update {{waypoint 352.89, -41.52, 1230.43}}
    - 4 [[King prawn|king prawns]], harvestable from any [[Fishing]] node in Kunark.
    - 4 [[Raw succulent petal]], harvestable from any [[Gathering]] node in Kunark.
 1. Return the ingredients to Goddin Ratsachak.

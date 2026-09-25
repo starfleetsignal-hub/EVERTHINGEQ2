@@ -39,13 +39,13 @@ source:
 - Transport Pad {{waypoint -525, 2000, 1521}}
 - [[Moonfield Hamlet]] {{waypoint 208, 479, 1272}}
 - [[Mausoleum of Scholars]] {{waypoint 507, 232, -173}}
-- [[Erudin Gardens]] (-82, 524, -304) , {{waypoint -293, 524, -177}}, {{waypoint -272, 188, -505}}
+- [[Erudin Gardens]] {{waypoint -82, 524, -304}} , {{waypoint -293, 524, -177}}, {{waypoint -272, 188, -505}}
 - [[Quel'ule]], Battlefield south of town {{waypoint -227, 416, 813}}
 - [[The Abysmal Edge]], west of [[Erudin Gardens]] {{waypoint 409, 192, -381}}
 - [[Ghanlin's Descent]] {{waypoint -67, 262, 35}}
 - [[The Vasty Deep]], just outside the zone line {{waypoint -160, 175, -362}}
 - Between Aglthin Pond and Ning Yun Retreat {{waypoint 340, 445, 581}}
-- Quel'ule Spire zone in (-251.97, 326.29, 605.79)
+- Quel'ule Spire zone in {{waypoint -251.97, 326.29, 605.79}}
 
 ![](images/Matri_Dut_Locations.png)
 

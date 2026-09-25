@@ -8,7 +8,7 @@ level: '130'
 slot: purple
 flags: heirloom no-value
 effect_name: Pack Mentality
-effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 29.2 seconds\n  - Reduces all damage done to group members (AE) by up to 3,969,595.25.\n  - Increases All Attributes of group members (AE) by 19.8%.\n  - Increases Crit Bonus Overcap of group members (AE) by 380.3.\n  - Increases all damage done to caster by up to 5,954,393.\n  - Decreases All Attributes of caster by 33.0%.\n  - Increases Crit Bonus Overcap of caster by 760.6.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
+effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 29.2 seconds\n  - Reduces all damage done to group members (AE) by up to 3,969,595.25.\n  - Increases All Attributes of group members (AE) by 19.8%.\n  - Increases Crit Bonus Overcap of group members (AE) by 380.3.\n  - Increases all damage done to caster by up to {{waypoint 5, 954, 393}}\n  - Decreases All Attributes of caster by 33.0%.\n  - Increases Crit Bonus Overcap of caster by 760.6.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
 item_link: '\aITEM 192966502 865058637:Coldforged Rune: Crevasse Pack Mentality\/a'
 categories:
 - Adornments

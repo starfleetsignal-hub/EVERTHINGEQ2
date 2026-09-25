@@ -38,7 +38,7 @@ source:
 
 ## Steps
 
-1. Pick up two [[Old Weapon|Old Weapons]] by [[Misa]] ( -1380, -534, -2141 ) to be repaired. Look for clubs on the ground near [[Misa]].
+1. Pick up two [[Old Weapon|Old Weapons]] by [[Misa]] {{waypoint -1380, -534, -2141}} to be repaired. Look for clubs on the ground near [[Misa]].
 1. Purchase [[Far Seas Trading Company Recipe: Weapon Repair Manual]] from [[Matthew]] for 4g 60s 80c.
 1. Scribe recipe and make a [[Sturdy Club]].
    - You will need 1 [[Ethereal sandpaper]] (no need for other materials) and can use the [[Woodworking Table]] located behind [[Matthew]] {{waypoint -1642, -533, -2380}}

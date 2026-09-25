@@ -7,7 +7,7 @@ level: '122'
 difficulty: Heroic
 zone: '[[The Blinding]]'
 journal_category: Mission
-starts: Talk to Sage Ayzuku in Recuso Tor (-544.43 61.29 284.16)
+starts: Talk to Sage Ayzuku in Recuso Tor {{waypoint -544.43, 61.29, 284.16}}
 added_in: Blood of Luclin
 categories:
 - Blood of Luclin Quests

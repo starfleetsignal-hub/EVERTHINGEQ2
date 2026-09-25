@@ -30,7 +30,7 @@ Bountiful Brewday gardens are shrubs that only appear during the annual [[Brew D
 
 Bountiful Brewday garden shrubs can be found in the following zones:
 
-- [[Antonica]] - ( 3/11/2024 ) Found scattered from the Oracle Tower Griffin Station ( -906.70,-21.00, -593.70 ) back to North Qeynos Gates and from the Archers Woods ( -760.70. -2.00, 587.40 ) back to Noth Qetynos Gates. Don't know the respawn on them so be patient and keep moving and you will find them.
+- [[Antonica]] - ( 3/11/2024 ) Found scattered from the Oracle Tower Griffin Station {{waypoint -906.70, -21.00, -593.70}} back to North Qeynos Gates and from the Archers Woods {{waypoint -760.70, -2.00, 587.40}} back to Noth Qetynos Gates. Don't know the respawn on them so be patient and keep moving and you will find them.
 - [[The Commonlands]]  - ( 3/11/2024 ) Found at Freeport gates, {{waypoint -1219, -82, 52}} located around rivers and other bodies of water.
 - [[Timorous Deep]] - on the Docks just past the Griffin at {{waypoint 2362, 7, 1384}}
 - [[Greater Faydark]] - at the stable near [[Green Knoll]] at {{waypoint 5569, 44, 41}}

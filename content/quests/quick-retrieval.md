@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Bonemire]]'
 timeline: '[[Bonemire Timeline]]'
 journal_category: Bonemire
-starts: Speak to [[Vegnit Snogwit]] at the [[Drednever Crash Site]] near ( -21, 44, 527 ).
+starts: Speak to [[Vegnit Snogwit]] at the [[Drednever Crash Site]] near {{waypoint -21, 44, 527}}.
 prerequisite: '[[The Hunt for Friendship]]'
 next_quest: '[[Deliver to Nepther''tum]]'
 added_in: LU55

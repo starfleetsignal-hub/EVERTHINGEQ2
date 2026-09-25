@@ -7,7 +7,7 @@ class: Bruiser
 level: 52-53
 difficulty: Heroic ^^^
 zone: '[[Klak''Anon]]'
-location: Throughout [[The Ore Extraction Site]]
+location: Throughout [[The Ore Extraction Site]] {{waypoint 99, -14, -107}}
 aggressive: true
 added_in: Echoes of Faydwer
 aliases:

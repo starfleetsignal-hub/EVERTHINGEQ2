@@ -63,8 +63,7 @@ Ulteran Spires are typically located deeper within zones (often away from water 
 | [[Tenebrous Tangle]] | {{waypoint -44, 21, 241}} | Yes | *[[Temple Grounds\|Spire (Temple Grounds)]] |
 | [[The Barren Sky]] | {{waypoint -590, -46, -400}} | Yes | *[[Whisperwind Isle\|Spire (Whisperwind Isle)]] |
 | [[The Bonemire]] | {{waypoint -303, 51, 586}} | Yes | *[[Drednever Crash Site\|Spire (Near Drednever Crash Site)]] |
-| [[Eastern Wastes]] |  |  |  |
-| Yes - click on small spires cast by NPCs | [[Ulteran Spires (EW)\|Spire (EW)]] |  |  |
+| [[Eastern Wastes]] | {{waypoint -961, -336, 2361}} | Yes - click on small spires cast by NPCs | [[Ulteran Spires (EW)\|Spire (EW)]] |
 | [[Cobalt Scar]] | N/A | No. Zone-in to [[Scarstone]]. [[Globe of Swift Travel]] to exit. | N/A |
 | [[Vesspyr Isles]] | {{waypoint -136, 214, 371}} | Yes, click wall to open the map | [[Ulteran Spires (VI)\|Spire (VI)]] |
 | [[Obol Plains]] | {{waypoint 82, 38, -336}} | Enter-only location | N/A |

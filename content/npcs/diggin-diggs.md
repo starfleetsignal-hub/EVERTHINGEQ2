@@ -27,7 +27,7 @@ source:
 ## Notes
 
 - Diggin moved from The Baubbleshire to Qeynos Province District during the LU64 Qeynos revamp.
-- In Origins' pre-LU64 launch, he is found inside the Baubelshire's "The RInging Hammer" armory at 855.64, -18.22, -517.55
+- In Origins' pre-LU64 launch, he is found inside the Baubelshire's "The RInging Hammer" armory at {{waypoint 855.64, -18.22, -517.55}}
 
 ## Related Quests
 

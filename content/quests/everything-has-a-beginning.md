@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'
 journal_category: The Sundered  Frontier
-starts: Speak to [[Captain Ghalib Elbaz]] in [[The City of Paineel]] near (1944, -299, 3386)
+starts: Speak to [[Captain Ghalib Elbaz]] in [[The City of Paineel]] near {{waypoint 1944, -299, 3386}}
 prerequisite: '[[A Rat''s Chance]]'
 next_quest: '[[Knowledge Through Experimentation]]'
 added_in: Sentinel's Fate

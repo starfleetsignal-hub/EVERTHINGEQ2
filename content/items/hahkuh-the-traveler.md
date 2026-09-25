@@ -47,4 +47,4 @@ expansion: Ballads of Zimara
 expansion_source: level
 ---
 
-Note: Mount upgrades must be researched. See Researcher Rusqik in the Sanctuary near ( 378, 287, 941 ) Copy
+Note: Mount upgrades must be researched. See Researcher Rusqik in the Sanctuary near {{waypoint 378, 287, 941}} Copy

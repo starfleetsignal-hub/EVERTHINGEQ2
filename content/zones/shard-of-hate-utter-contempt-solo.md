@@ -5,7 +5,7 @@ release: '[[LU106]]'
 levels: 117-118
 access: Solo
 entered_from: '[[Plane of Magic]]'
-entrance: On [[Valor's Roost]] near the transporter pad (-762, 347, 1045)
+entrance: On [[Valor's Roost]] near the transporter pad {{waypoint -762, 347, 1045}}
 players: 3 hours-3 days
 image: images/Shard_of_Hate_Utter_Contempt.jpg
 categories:

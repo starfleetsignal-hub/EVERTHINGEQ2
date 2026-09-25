@@ -31,9 +31,9 @@ source:
 ## Steps
 
 1. Travel to [[The Sinking Sands]]
-   - Gather 4 **Croc Camp Souvenirs** at the [[Croc Hunter Camp]] around -1338.76 -226.83 -560.81 282.28 0.00 0.00![Croc Camp Souvenir](images/Croc_Camp_Souvenir.webp)
+   - Gather 4 **Croc Camp Souvenirs** at the [[Croc Hunter Camp]] around {{waypoint -1338.76, -226.83, -560.81}}![Croc Camp Souvenir](images/Croc_Camp_Souvenir.webp)
    - Gather 4 **Skystrider heroes' feasts** at [[Skystrider Launch-Dock]] around {{waypoint -1382.41, -162.67, -760.00}}![Skystrider heroe's feast](images/Skystrider_Heroe's_Feast.webp)
-   - Gather 4 **Twin Tears armor** next to the [[Twin Tears]] Magic Carpet travel point around -459.35 -74.42 -996.72 267.51 0.00 0.00![Twin Tears Armor](images/Twin_Tears_Armor.webp)
+   - Gather 4 **Twin Tears armor** next to the [[Twin Tears]] Magic Carpet travel point around {{waypoint -459.35, -74.42, -996.72}}![Twin Tears Armor](images/Twin_Tears_Armor.webp)
 1. Return to [[Mei Lan]] in Sundered Frontier
 
 ## Rewards

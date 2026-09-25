@@ -40,7 +40,7 @@ source:
 1. Kill [[Momo (Mob)|Momo]] the monkey at {{waypoint -1263, -936, 448}}right behind the building. He is on a 5 minute respawn timer.
    - Some AoE CAs, especially pounce, tend to pull aggro from surrounding mobs, so be careful.  After you kill Momo nearby monkeys may attack, clearing nearby monkey mobs may prevent this from happening.  If you do die after killing Momo you return to your own body - double click on another rat, assume its form and continue to the next step.
 1. While in rat form slip through the wooden boards and kill the [[Ornate chest]] in the store room directly behind [[Momo (Mob)|Momo]]
-1. Drop the rat illusion and click on the ship's wheel -1,318 -932 501
+1. Drop the rat illusion and click on the ship's wheel {{waypoint -1318, -932, 501}}
 1. Kill [[Captain Skullcleave]]. He is on a 5 minute respawn timer.
 1. Return to [[Vip Gloryshield]] in [[Shadowed Cleft]] {{waypoint -1350, -1010, 49}}.
 

@@ -30,7 +30,7 @@ source:
 
 I need to slay 15 Kromzek within the Temple of Rallos Zek in order to find more Indigo Nihilite. (in Fabled Kael Drakkel)
 
-1. Enter Zone Eye of Zek at -611.77 76.85 -1,081.42
+1. Enter Zone Eye of Zek at {{waypoint -611.77, 76.85, -1081.42}}
 1. Kill [[Kromzek deprecator]], [[Kromzek sectator]], [[Kromzek unicultor]]
 
 ## Rewards

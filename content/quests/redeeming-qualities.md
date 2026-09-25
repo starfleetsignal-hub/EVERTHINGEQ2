@@ -36,7 +36,7 @@ source:
 
 1. Collect 10 shells from [[An adamantine karkata]] (auto-update)
 1. Collect 10 coral from [[An animated coral|an animated coral]] (auto-update)
-1. Collect 10 leaves from the cynaris plant - silver green sparkling plants on rocky outcroppings. They seem to like high places. Try around coordinates 917, 107, -898
+1. Collect 10 leaves from the cynaris plant - silver green sparkling plants on rocky outcroppings. They seem to like high places. Try around coordinates {{waypoint 917, 107, -898}}
 1. Return to Kitkalla
 
 ## Rewards

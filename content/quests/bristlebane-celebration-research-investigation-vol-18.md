@@ -45,7 +45,7 @@ The herald of Bristlebane has informed me that summoning an Avatar requires the 
    - {{waypoint -147, 7, 186}}
    - {{waypoint -113.16, -9.57, -14.82}} (on hill behind the huge Fool's Gold Bldg, when you zone in)
    - {{waypoint -580.90, 3.42, 106.60}}
-   - (-85, -20, 115)
+   - {{waypoint -85, -20, 115}}
 1. Return to the [[Herald to the Grand Prankster]] at {{waypoint -832, 7, -203}} in [[Rivervale]]
 
 ## Rewards

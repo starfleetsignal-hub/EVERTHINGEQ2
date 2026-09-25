@@ -8,7 +8,7 @@ level: '128'
 slot: purple
 flags: heirloom no-value
 effect_name: Pack Mentality
-effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 29.2 seconds\n  - Reduces all damage done to group members (AE) by up to 3,233,261.25.\n  - Increases All Attributes of group members (AE) by 16.1%.\n  - Increases Crit Bonus Overcap of group members (AE) by 309.7.\n  - Increases all damage done to caster by up to 4,849,892.\n  - Decreases All Attributes of caster by 26.9%.\n  - Increases Crit Bonus Overcap of caster by 619.5.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
+effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 29.2 seconds\n  - Reduces all damage done to group members (AE) by up to 3,233,261.25.\n  - Increases All Attributes of group members (AE) by 16.1%.\n  - Increases Crit Bonus Overcap of group members (AE) by 309.7.\n  - Increases all damage done to caster by up to {{waypoint 4, 849, 892}}\n  - Decreases All Attributes of caster by 26.9%.\n  - Increases Crit Bonus Overcap of caster by 619.5.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
 item_link: '\aITEM -1474934998 -1536874816:Zimaran Rune: Nilborien''s Pack Mentality\/a'
 categories:
 - Adornments

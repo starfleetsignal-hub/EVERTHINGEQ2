@@ -33,4 +33,4 @@ source:
 
 Zone in from down stairs in the crypt accessed from the cemetary adjacent to Sonnborn Village at {{waypoint -376, 17, 54}}.  This is the middle difficulty of the 3 group zones in this area (click the portal at {{waypoint -333, 3, 1}}).
 
-If you go straight through at the first intersection you come to the Servant's Antechamber.  An NPC Taechun Welby 220.67, 11.54, 45.40has a questline starting with [[Good Housekeeping]] that takes you all over the zone.
+If you go straight through at the first intersection you come to the Servant's Antechamber.  An NPC Taechun Welby {{waypoint 220.67, 11.54, 45.40}}has a questline starting with [[Good Housekeeping]] that takes you all over the zone.

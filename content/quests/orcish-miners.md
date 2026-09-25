@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. Kill 11 [[Bloodskull warrior|Bloodskull warriors]] in [[The Commonlands]].  Warriors can be found across the river south of the Crossroads.  There are some lower ones at -1,050.85 -48.04 457635.28.
+1. Kill 11 [[Bloodskull warrior|Bloodskull warriors]] in [[The Commonlands]].  Warriors can be found across the river south of the Crossroads.  There are some lower ones at {{waypoint -1050.85, -48.04, 457635.28}}.
 
 ## Rewards
 

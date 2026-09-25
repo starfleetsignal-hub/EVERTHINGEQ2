@@ -82,4 +82,4 @@ Each item grants a specific bonus and each comes in five tiers: Student's, Acade
 | [[Sacrarium Barding of Striking\|Sacrarium]] | +??? | 120 | yes | shadowed | 75 [[Uncommon Lunar Material]] | [[Beluba]] in [[Sanctus Seru (City)]] |
 | [[Empyral Barding of Striking\|Empyral]] | +32.7 | 120 | yes | shadowed | 90 [[Uncommon Lunar Material]] | ??? |
 | [[Sambata Barding of Striking\|Sambata]] | +36.7 | 120 | yes | shadowed | 100 [[Uncommon Lunar Material]] | ??? |
-| [[Shadowed Barding of Striking\|Shadowed]] | ??? | 120 | yes | shadowed | ??? [[Uncommon Lunar Material]] | [[Old Michem]] -259.68 -56.07 57.63 325.38 0.00 0.00 in Freeport or {{waypoint 979.90, -25.56, 85.57}} in Qeynos Harbor |
+| [[Shadowed Barding of Striking\|Shadowed]] | ??? | 120 | yes | shadowed | ??? [[Uncommon Lunar Material]] | [[Old Michem]] {{waypoint -259.68, -56.07, 57.63}} in Freeport or {{waypoint 979.90, -25.56, 85.57}} in Qeynos Harbor |

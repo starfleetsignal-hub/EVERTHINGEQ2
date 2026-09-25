@@ -90,7 +90,7 @@ Outside (or near) each instance is an NPC who will offer a mission to each of th
 
 ## Solo Mission
 
-With [[LU51]], a soloable void shard mission was added (though it can be done with a group) available from [[Marathan Allim]] at the Shrine of Thunder ( -151, -117, 630 ) every 18 hours.
+With [[LU51]], a soloable void shard mission was added (though it can be done with a group) available from [[Marathan Allim]] at the Shrine of Thunder {{waypoint -151, -117, 630}} every 18 hours.
 
 - [[A Cleansing This Temple Needs...]]
 

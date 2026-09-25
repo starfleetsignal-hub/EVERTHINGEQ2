@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[Phantom Sea]]'
 timeline: '[[Shattered Seas Timeline]]'
 journal_category: Phantom Sea
-starts: speak with Captain Greymast at -157, 7, -910
+starts: speak with Captain Greymast at {{waypoint -157, 7, -910}}
 prerequisite: '[[Diving for Defenses]]'
 next_quest: '[[Deep in the Lost Shadows]]'
 added_in: Altar of Malice

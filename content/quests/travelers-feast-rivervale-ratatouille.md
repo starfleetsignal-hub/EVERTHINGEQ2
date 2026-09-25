@@ -42,7 +42,7 @@ source:
 
 1. Gather the following ingredients from [[Enchanted Lands]]:
    1. Gather 3 Tagglefoot Zucchini around Tagglefoot Farms near {{waypoint -774, 0, -696}}![Tanglefoot Zucchini](images/Tagglefoot_Zucchini.jpg)
-   1. Gather 3 Stump Squash around Lookout Stump [[The Great Guard]] near 317.41 18.62 -410.38 196.18 0.00 0.00![Stump Squash](images/Stump_Squash.jpg)
+   1. Gather 3 Stump Squash around Lookout Stump [[The Great Guard]] near {{waypoint 317.41, 18.62, -410.38}}![Stump Squash](images/Stump_Squash.jpg)
    1. Gather 5 Berrybrook Jumjum around Berrybrook Field near {{waypoint 606, 3, -334}}![Berrybrook Jum jum](images/Berrybrook_Jumjum.jpg)
 1. Return to [[Mei Lan]] in [[The Sundered Frontier]].
 

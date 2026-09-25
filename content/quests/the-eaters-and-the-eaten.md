@@ -30,7 +30,7 @@ source:
 
 ## Steps
 
-1. Right click the chair  ( 0, -3. -179 ) to read the scroll and accept the quest.
+1. Right click the chair  {{waypoint 0, -3, -179}} to read the scroll and accept the quest.
 1. Kill 15 undead gnolls. NOTE:  Head back through the wall you just blew up. They are there and they will have feathers.
 
 ## Rewards

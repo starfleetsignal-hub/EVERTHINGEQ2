@@ -6,7 +6,7 @@ icon: images/Item_2470.png
 item_level: '80'
 flags: lore no-trade no-value
 description: A mask of made of flayed halfling skin.  It has been surprisingly well-preserved, which makes it all the more grotesque!
-obtained_from: Needed for the quest [[The Maiden of Masks]]. Find it in a Tightly Locked Chest in [[Chardok]] ( 1069, -50, 81 ).
+obtained_from: Needed for the quest [[The Maiden of Masks]]. Find it in a Tightly Locked Chest in [[Chardok]] {{waypoint 1069, -50, 81}}.
 item_link: \aITEM 1068261992 1689168104:Desiccated Halfling Skin Mask\/a
 categories:
 - Census Credits

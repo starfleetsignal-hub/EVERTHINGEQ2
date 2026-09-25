@@ -25,4 +25,4 @@ expansion: Echoes of Faydwer
 expansion_source: source
 ---
 
-The [[Genuine Velium Powder|powder]] used is purchased in [[Thurgadin, City of the Coldain|Thurgadin]] for 5p 83g from [[Merchant Hagus]] at ( 335, -292, 250 ) .
+The [[Genuine Velium Powder|powder]] used is purchased in [[Thurgadin, City of the Coldain|Thurgadin]] for 5p 83g from [[Merchant Hagus]] at {{waypoint 335, -292, 250}} .

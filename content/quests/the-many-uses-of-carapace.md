@@ -36,7 +36,7 @@ source:
 
 1. Kill 10 [[A granite beetle|granite beetles]] north of Argro's location.
    - *Note:* They can be found on top of the cliff {{waypoint 170, 205, 132}} over the beach.
-   - On Anashti Sul (Origins) server, they can be found at (-250, 153, -423)
+   - On Anashti Sul (Origins) server, they can be found at {{waypoint -250, 153, -423}}
 1. Return to [[Argro Durthor]]
 
 ## Rewards

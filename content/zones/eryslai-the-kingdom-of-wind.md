@@ -27,7 +27,7 @@ source:
 
 ## Geography
 
-From the Great Library go to 710, 412, -368 to access the portal.
+From the Great Library go to {{waypoint 710, 412, -368}} to access the portal.
 
 **Eryslai** consist of four main islands and a travel hub:
 

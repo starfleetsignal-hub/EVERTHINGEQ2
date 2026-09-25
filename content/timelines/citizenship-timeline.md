@@ -101,7 +101,7 @@ This option is available to citizens of [[New Halas]] and[[Qeynos]], as well as 
 
 This option is available to citizens of [[Gorowyn]] or [[Neriak, City of Hate]], and to Exiles who have earned acceptance with Freeport.
 
-- Citizens of Gorowyn must talk to Ambassador Zelzekla 2,662.50 66.15 1,171.35 in Gorowyn first. Citizens of Gorowyn have the option to change their citizenship in two easy steps by completing the quest [[Freeport Citizenship]].
+- Citizens of Gorowyn must talk to Ambassador Zelzekla {{waypoint 2662.50, 66.15, 1171.35}} in Gorowyn first. Citizens of Gorowyn have the option to change their citizenship in two easy steps by completing the quest [[Freeport Citizenship]].
 
 - Citizens or Neriak must talk to Ambassador V'Nox in Neriak located at {{waypoint -495.25, 22.97, 203.96}} first.
 1. [[Mandatory Service]] - *from [[Ambassador Brutus]] in East Freeport at {{waypoint -125.83, -37.77, 40.63}}.*
@@ -113,14 +113,14 @@ This option is available to citizens of [[Gorowyn]] or [[Neriak, City of Hate]],
 
 This option is available to citizens of [[Freeport]] or [[Neriak, City of Hate]].  Visit the Ambassador in your home city to arrange papers that can be taken directly to [[Ambassador Zelzekla]] in Gorowyn.  He's on the first platform up from the bottom of the central well.
 
-- Citizens or Neriak must talk to Ambassador V'Nox in Neriak located at (-495.25, 22.97, 203.96) first.
+- Citizens or Neriak must talk to Ambassador V'Nox in Neriak located at {{waypoint -495.25, 22.97, 203.96}} first.
 - Citizens of Freeport must talk to the Citizenship Ambassador of Freeport first.
 
 ## Becoming a Citizen of [[Neriak, City of Hate]]
 
 This option is available to citizens of [[Freeport]] or [[Gorowyn]], and to Exiles who have earned acceptance with Neriak.
 For an evil citizen to change their citizenship to Neriak, they must first speak with their home city Ambassadors to receive
-the Neriak citizenship quest. This is either Ambassador Brutus at (-79, -37, -4) in East Freeport or Ambassador Zelzekla at (2661, 66, 1172) in Gorowyn.
+the Neriak citizenship quest. This is either Ambassador Brutus at {{waypoint -79, -37, -4}} in East Freeport or Ambassador Zelzekla at {{waypoint 2661, 66, 1172}} in Gorowyn.
 
 1. [[Finding a Sponsor]] - *from [[Clerk V'Nox]] at [[Cristanos Plaza]]* in [[Neriak, City of Hate]]
 1. [[Enemies to the Crown]] - *from [[Carvox M'Laeren]] at [[Hall of the Ebon Mask]]*

@@ -28,7 +28,7 @@ source:
 
 ## Steps
 
-1. Find the Fypolydia Music Box key clue from deceased marauders or [[A fallen pirate|fallen pirates]] around ( -315, 3, 115 )  in [[Sandstone Delta]] at the [[Relic Shard]]
+1. Find the Fypolydia Music Box key clue from deceased marauders or [[A fallen pirate|fallen pirates]] around {{waypoint -315, 3, 115}}  in [[Sandstone Delta]] at the [[Relic Shard]]
 1. Examine the clue for [[The Fypolydia Music Box Key]].
 1. Finish the subquest and return to the **Fypolydia Music Box** in [[Takish Badlands]]
 

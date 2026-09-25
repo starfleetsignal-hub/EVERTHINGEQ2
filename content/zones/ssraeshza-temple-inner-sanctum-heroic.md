@@ -28,11 +28,11 @@ source:
 ## Notes
 
 Suggested Resistances: 140k+
-ZONE IN AT: /waypoint -1080, 51.6, -1061
+ZONE IN AT: {{waypoint -1080, 51.6, -1061}}
 
 ![While there, look around, so much nice detail!](images/Ssraeshza_Temple_columndetails.jpg)
 
-### **Pox Xin'Kaas** 378.55 -88.34 66.52 256.44 0.00 0.00 on the pillar in the first room
+### **Pox Xin'Kaas** {{waypoint 378.55, -88.34, 66.52}} on the pillar in the first room
 
 This isn't an overly complex fight.  Every 5 seconds, he pulses a cone frontal (Vex'Kaas Toxin).  It'll slay non-fighters, so it's pretty integral for the tank to hold aggro and for people to say "Oh hey!  I like having rad hit rates!  I'm going to stand behind this guy!"
 
@@ -40,11 +40,11 @@ At 80, 60 and 40%, he starts a slow cast [I'll write it down next time and paste
 
 At 25% he has a KB.  I don't know if this would be considered an *exploit* or not, but if you're on the ramp that leads up to the platform, it negates the KB.  The last 25%, he pulses another AE, Will of the Senshali, that hits everyone in group.  It looks like it hit between 400-600k every 5 seconds.  I don't recall if it was blockable (I'll double check, but I don't believe it was...) or not.
 
-### **Stonefang** 226.88 -100.90 54.61 96.99 0.00 0.00  through the crack in the wall after killing Pox Xin'Kaas
+### **Stonefang** {{waypoint 226.88, -100.90, 54.61}}  through the crack in the wall after killing Pox Xin'Kaas
 
 Another pretty basic encounter.  He basically does two things: poison clouds and shedding scales-- both have yellow text warnings.  For Poison, don't stand in posion... for Scales, get out of LoS.  You'll get smaller snake adds if you linger out too long (you might get them anyway?).  They're nothing to really stress about.  AE them down or focus.  EIther way, I don't believe it matters.
 
-### **Kessatras Sonssiu** 224.49 -83.37 43.73 85.12 0.00 0.00 above Stonefang through the left archway and up the ramp.
+### **Kessatras Sonssiu** {{waypoint 224.49, -83.37, 43.73}} above Stonefang through the left archway and up the ramp.
 
 Equip **Fear** resist rune.
 
@@ -56,11 +56,11 @@ This *can* be a super simple fight.  The basic idea is that he's a chanter and a
 
 There's also a fear/mana drain.  I'm 99% certain it's not interruptable, but it's infrequent enough that a healer can probably precast a group cure to cure it.  [Insert spell name here]
 
-### **Kesa'Tra Xon'Xiu** 243.40 -65.21 55.80 315.61 0.00 0.00
+### **Kesa'Tra Xon'Xiu** {{waypoint 243.40, -65.21, 55.80}}
 
 This script is pretty basic, too.  [It seems like it must be % based, but I don't recall the % off-hand] Kesa becomes immune to damage and starts zapping himself all over the room, making reflections of himself.  Each time he does this, a person (then 2, then 3, then 4, etc...) gets ported to the center of the room.  Just stand there.  Reapers creepily circle around you... I know, I know... as creeped out as you may be, just stand there.  When they go away, you can rejoin your group.  At this point, Kesa becomes attackable again.  You don't want the reflections to reach Kesa.  You can either have the tank suck up the damage from running into them, or a veiling bard, or just kite Kesa around.
 
-### **Arch Lich Rhag'Zadune** 109.94 -48.84 53.97 267.52 0.00 0.00
+### **Arch Lich Rhag'Zadune** {{waypoint 109.94, -48.84, 53.97}}
 
 Equip **Stun** resist rune.
 

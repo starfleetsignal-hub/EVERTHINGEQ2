@@ -79,7 +79,7 @@ expansion_source: chain
 1. Banish [[Molinap the Destructor]] {{waypoint -78.56, -31.14, -388.50}}.
    1. Move up to the puzzle at {{waypoint -54.88, -42.99, -258.12}}.  You must click the three blocks in order: lower (mouth symbol), upper right (an eye with a slitted pupil symbol), upper left (spiral symbol) to open the door behind you. *If you die past this point, this is where you'll revive.*
       - The puzzle order can apparently change.  When you click a block and it stays in, you did that one correctly. Confirmed that the order may instead be mouth, spiral, eye.
-      - The puzzle opens the door at ( -80, -43, -263 ). Go through the door.
+      - The puzzle opens the door at {{waypoint -80, -43, -263}}. Go through the door.
    1. Move down, use the [[Restored Chalice of Valor]] on the [[A deadly cadavodile|cadavodiles]](4)  in the water so as to avoid any unpleasant surprises if one missteps ramp back into water, use the [[Restored Chalice of Valor]] on the overhead glimmers, then head up the path (it circles the room a couple of times as it rises) and turn right at the intersection at the top {{waypoint -10.04, -32.21, -373.19}}.
    1. Use the [[Restored Chalice of Valor]] on [[Molinap the Destructor]].
 1. Banish [[A Ghoul Usurper]] {{waypoint 147.87, -64.30, -255.58}}.

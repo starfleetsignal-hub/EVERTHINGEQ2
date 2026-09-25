@@ -27,8 +27,8 @@ The Strifewing and Blacktalon are fighting it out bigtime on this island.
 
 ## Island Access
 
-- (-202, -74, -248): [[Blackwind Isle]], [[Strifewind Isle]], [[Whisperwind Isle]]
-- (-175, -166, -274): [[Ascent of the Awakened]]
+- {{waypoint -202, -74, -248}}: [[Blackwind Isle]], [[Strifewind Isle]], [[Whisperwind Isle]]
+- {{waypoint -175, -166, -274}}: [[Ascent of the Awakened]]
 
 ## Monsters
 

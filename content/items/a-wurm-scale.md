@@ -23,4 +23,4 @@ expansion_source: level
 
 This item is needed for the collection: [[Wurm Scales]]
 
-Found one at (511, 46, -218 ) Kylong Plains
+Found one at {{waypoint 511, 46, -218}} Kylong Plains

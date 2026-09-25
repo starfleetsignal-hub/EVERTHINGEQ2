@@ -35,7 +35,7 @@ The raids are designed as follows:
 Rewards for defeating the bosses within each raid will vary based on your level range.
 Up to level 50, you will receive rare harvestable items, recipe books, and spell scrolls.
 At level 50, 60, and 70 molds and patterns may drop off boss creatures.These patterns will be for very light, light, medium, or heavy armor. Examining the patterns will give you a quest, and upon turning it in to a Quartermaster, you will receive a piece of armor.
-To begin, get two groups together into a raid and speak with the City Registrar Glamis{{waypoint -84, -37, -2}} in East Freeport or Royal Accountant Fowler in South Qeynos (563, -10, 164).  This raid will scale to the lowest level that the groups are mentored down to, so make the proper adjustments to the raid level prior to clicking on the door and porting into the instance.  Have the group member with the wanted quest, whether that be the first in the series or the third, be the one to click on the door to port your raid members into the wanted zone.
+To begin, get two groups together into a raid and speak with the City Registrar Glamis{{waypoint -84, -37, -2}} in East Freeport or Royal Accountant Fowler in South Qeynos {{waypoint 563, -10, 164}}.  This raid will scale to the lowest level that the groups are mentored down to, so make the proper adjustments to the raid level prior to clicking on the door and porting into the instance.  Have the group member with the wanted quest, whether that be the first in the series or the third, be the one to click on the door to port your raid members into the wanted zone.
 
 ## Links and Sources
 

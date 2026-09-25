@@ -27,4 +27,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Only available during the CoE access quest, location (442, 31, 524) in Obol Plains.
+Only available during the CoE access quest, location {{waypoint 442, 31, 524}} in Obol Plains.

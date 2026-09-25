@@ -23,8 +23,8 @@ source:
 
 ## Island Access
 
-- (-626, 137, -73): [[Fear Tainted Isle]], [[Temple Grounds]]
-- (-715, 146, -150): [[Isle of Desolation]]
+- {{waypoint -626, 137, -73}}: [[Fear Tainted Isle]], [[Temple Grounds]]
+- {{waypoint -715, 146, -150}}: [[Isle of Desolation]]
 
 ## Monsters
 

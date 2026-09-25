@@ -51,7 +51,7 @@ source:
 
 First you need to bring down the barrier that surrounds him and the Yha-lei. There are 4 named mobs in each of the other circles that must be killed in order to bring the barrier down.
 
-Note: The named mob Leviathor'Consuma - to make him attackable there is some bluefin tuna swiming in the water at 229.50,-2.30,155.25 harvest it then get in the pool and use the bluefin you caught to make him attackable. The other 3 named mobs will become attackable when you clear out all the mobs surrounding their pools.
+Note: The named mob Leviathor'Consuma - to make him attackable there is some bluefin tuna swiming in the water at {{waypoint 229.50, -2.30, 155.25}} harvest it then get in the pool and use the bluefin you caught to make him attackable. The other 3 named mobs will become attackable when you clear out all the mobs surrounding their pools.
 
 If he spawned his heroic pets, just do a pet pull and kill them off one by one until they are all gone.  Same with the fish around the area.
 

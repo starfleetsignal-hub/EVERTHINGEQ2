@@ -4,6 +4,7 @@ type: monster
 expansion: Blood of Luclin
 level: '118'
 zone: '[[Wracklands]]'
+location: '{{waypoint 405.62, 41.58, 45.61}}'
 added_in: Blood of Luclin
 categories:
 - Blood of Luclin Monsters

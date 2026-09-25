@@ -51,7 +51,7 @@ source:
    1. Go to the [[Darklight Wood|Darklight Woods]] and speak to [[Marla K'Stane]] {{waypoint -410, -62, 208}} inside the Gilded Scroll building in Hate's Envy. After a quick conversation, she will attack and you must kill her (she is an incredibly over-conned 85^ who gives AA exp), which will update your quest.
    1. You will get the [[Mage's Divining Scroll]] in your inventory.
 1. West Freeport
-   1. Head over to [[West Freeport]] to the Freeport Militia HQ. The [[Confidential Report|misplaced file]] 156 .6 134 is next to [[Viscount Gelvonius]] on the top level, hanging on the edge of the table (5 minute respawn).
+   1. Head over to [[West Freeport]] to the Freeport Militia HQ. The [[Confidential Report|misplaced file]] {{waypoint 156, 0.6, 134}} is next to [[Viscount Gelvonius]] on the top level, hanging on the edge of the table (5 minute respawn).
    1. Speak to [[Sir Sayex Nevagon]] {{waypoint 260, -3.2, 132.4}} in the Dreadnaught's Plaza also in [[West Freeport]] and receive the [[Bone Shield of Laarthik K'Shin]].
 1. Neriak and New Tunaria
    1. Read the [[Mage's Divining Scroll]] in your inventory. It sets forth the following tasks which can be done in any order:

@@ -5,7 +5,7 @@ level: '100'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[The "Travels" of Yun Zi - I Need to See Moors Places]]'
 next_quest: '[[The "Travels" of Yun Zi - An Eternity Without You]]'
 added_in: Days of Summer

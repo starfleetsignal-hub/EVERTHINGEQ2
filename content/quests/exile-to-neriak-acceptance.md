@@ -6,7 +6,7 @@ difficulty: solo
 zone: '[[Neriak, City of Hate]]'
 timeline: '[[Betrayal Timeline]]'
 journal_category: Betrayal
-starts: Speak to [[Clerk V'Nox]] the Neriak Citizenship Registrar at the [[Cristanos Hall]] in [[Neriak, City of Hate]] at -496, 23, 206
+starts: Speak to [[Clerk V'Nox]] the Neriak Citizenship Registrar at the [[Cristanos Hall]] in [[Neriak, City of Hate]] at {{waypoint -496, 23, 206}}
 prerequisite: '[[Fees and Paperwork]]'
 added_in: LU35
 categories:

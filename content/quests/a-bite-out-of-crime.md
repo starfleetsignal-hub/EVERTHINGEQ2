@@ -40,7 +40,7 @@ source:
        - {{waypoint -20, 0, 87}}
        - {{waypoint 25, -17, 192}}
        - {{waypoint 46, -17, 211}}
-       - (70,-16, 207)
+       - {{waypoint 70, -16, 207}}
    - Gather 10 mechanical components
      - Some possible locations:
        - {{waypoint 65, -2, 181}}
@@ -51,7 +51,7 @@ source:
        - {{waypoint 60, -16, 199}}
        - {{waypoint 89, 3, 173}}
        - {{waypoint 14, 3, 206}}
-   - Found in Sabertooth Burrow, Mudpaw Burrow(-50,-64,-224), Dustpaw Burrow (-105,-9,-156), and Rockpaw Burrow (42, 3, 187)
+   - Found in Sabertooth Burrow, Mudpaw Burrow{{waypoint -50, -64, -224}}, Dustpaw Burrow {{waypoint -105, -9, -156}}, and Rockpaw Burrow {{waypoint 42, 3, 187}}
    - These items may also respawn in a locked instance after some time (1-2 hours?)
 1. Return to Darkpaw Dugout, and deposit the equipment in one of the crates near Outlander Deston {{waypoint 6, -77, -235}}
 

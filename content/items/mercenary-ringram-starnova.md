@@ -20,4 +20,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-For hire in Coliseum of Valor at 134, 0, -110
+For hire in Coliseum of Valor at {{waypoint 134, 0, -110}}

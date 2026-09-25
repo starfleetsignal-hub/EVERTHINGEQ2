@@ -6,7 +6,7 @@ icon: images/Item_3196.png
 item_level: '0'
 flags: lore no-trade no-value no-destroy
 description: The stone stein is rather heavy, much heavier than it seems like it should be. There are arcane runes etched into it.
-obtained_from: Collect item at -63, -28, -93
+obtained_from: Collect item at {{waypoint -63, -28, -93}}
 used_in_quest: '[[Into the Heart of Mistmoore]]'
 item_link: \aITEM -625107711 528616526:Stein of Cohesion\/a
 categories:

@@ -34,7 +34,7 @@ source:
 
 ## Notes
 
-![Above: the incense for the quest is located on a table not far from the portal you entered through (-523.83, 9.53, -122.64).](images/Time-short-incense.jpg)
+![Above: the incense for the quest is located on a table not far from the portal you entered through {{waypoint -523.83, 9.53, -122.64}}.](images/Time-short-incense.jpg)
 
 IF you have just zoned in from Thalumbra, the Ever Deep, take the 1st door on the Left for Portal to 2nd floor where quest begins. (you may need to redo "The Final Blow" step 16).
 
@@ -47,7 +47,7 @@ Caveats to note:
 - You can *only* get the [[Potion of Crafting Progress]] from the EQ2 Marketplace.
 - The [[Potion of Innovation]] is an occasional reward from [[Tradeskill Apprentices|Tradeskill Apprentice]] quests such as [[A Sturdy Redwood Mallet|A Sturdy Redwood Mallet.]]
 
-This takes place in the same Antechamber you are in when you receive the quest. (NOTE: if you ported out and are coming back in, go to the repaired portals at ( 49, 1, 11 ) to port back to the Queen.)
+This takes place in the same Antechamber you are in when you receive the quest. (NOTE: if you ported out and are coming back in, go to the repaired portals at {{waypoint 49, 1, 11}} to port back to the Queen.)
 
 Take [[Arcanna'se sacred incense|incense]] from one of the tables {{waypoint -422.64, 9.53, -129.48}} or {{waypoint -523.83, 9.53, -122.64}} near the entrance, it's the fuel for the crafts.
 
@@ -78,7 +78,7 @@ The following **must** be done in this exact order or the guards will aggro and 
 1. Craft the empowerment - *Pingyuan Diqu*  (i.e. [[Energised Relic of Pingyuan Diqu]])
 1. Locate a Relic of Zou Kunnen: Find the "statue of magic" in the second hallway on the right from the portal to empower the Relic of Zou Kunnen.  Directly across from the previous room,  doorway at {{waypoint -437, 1, -56}} guarded by Protectors of Magic.
 1. Craft the empowerment - *Zou Kunnen* (i.e. [[Energised Relic of Zou Kunnen]])
-1. Return to Queen Alwenielle inside the instance.  (-470, 5, 16)
+1. Return to Queen Alwenielle inside the instance.  {{waypoint -470, 5, 16}}
 
 ## Rewards
 

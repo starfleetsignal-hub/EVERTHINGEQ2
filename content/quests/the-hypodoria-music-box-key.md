@@ -28,11 +28,11 @@ source:
 
 ## Steps
 
-1.  slay15 sandscorned prowlers in Sandscoured Coast  around  ( -192.29, 10.18, -261.33 )
+1.  slay15 sandscorned prowlers in Sandscoured Coast  around  {{waypoint -192.29, 10.18, -261.33}}
 
 2. Zone to Raj Dur Plateau
 
-3. Slay  Vengeful Ekimmus  in Mordant Spires around ( 483.38, 29.32, -226.67  )
+3. Slay  Vengeful Ekimmus  in Mordant Spires around {{waypoint 483.38, 29.32, -226.67}}
 
 until a box drops
 

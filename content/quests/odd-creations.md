@@ -33,7 +33,7 @@ source:
 
 ## Steps
 
-1. Hunt down 6 [[A needlebeak bloodgorger|needlebeak bloodgorgers]].Around {{waypoint -99, 367, 596}} and ( -179, 366, 702 ) near Quel'ule.
+1. Hunt down 6 [[A needlebeak bloodgorger|needlebeak bloodgorgers]].Around {{waypoint -99, 367, 596}} and {{waypoint -179, 366, 702}} near Quel'ule.
 1. Return to [[Budiir Il'Nar]] {{waypoint -134, 366, 619}}
 
 ## Rewards

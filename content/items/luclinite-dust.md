@@ -22,4 +22,4 @@ expansion_source: level
 
 This item is needed for the collection: [[Shards of the Moon (Collection)|Shards of the Moon]]
 
-Found one in the Sandstone Delta at ( -103, 77, -506 )
+Found one in the Sandstone Delta at {{waypoint -103, 77, -506}}

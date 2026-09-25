@@ -28,7 +28,7 @@ source:
 
 ## Steps
 
-1. Kill any cats in Zek to get 10 auto-updates. found at: ( 178.06 12.00 -99.27 ) ( 483.67 -16.00 -100.92  )
+1. Kill any cats in Zek to get 10 auto-updates. found at: {{waypoint 178.06, 12.00, -99.27}} {{waypoint 483.67, -16.00, -100.92}}
 1. Give the components to [[Leelee Brewbubble]] on [[Warship Dock]] at {{waypoint 555, -42, 357}}
 
 ## Rewards

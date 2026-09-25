@@ -31,7 +31,7 @@ source:
 
 ![soft and crumbly rocks](images/Soft_and_crumbly_rocks.jpg)![velium crystals](images/Velium_crystals.jpg)
 You receive [[Yutte Rocksword's Rock Acid]].<br>
-You must go to the barren pines (-441.90 -344.92 402.67) between the Crystalline Crevasses and Ry'Gorr Ruins and collect velium crystals from soft and crumbly rocks.
+You must go to the barren pines {{waypoint -441.90, -344.92, 402.67}} between the Crystalline Crevasses and Ry'Gorr Ruins and collect velium crystals from soft and crumbly rocks.
 
 1. Melt 5 **soft and crumbly rocks** to get **velium crystals**.  Apply the acid, then loot the resulting velium crystal
 1. Return to Yutte

@@ -28,7 +28,7 @@ source:
 
 ## Steps
 
-1. Slay 15 enchanted entraper found around inside tents in Raj'Durabad (-291, 0, -152).
+1. Slay 15 enchanted entraper found around inside tents in Raj'Durabad {{waypoint -291, 0, -152}}.
 1. Slay 15 [[A grove stalker|grove stalkers]] found around {{waypoint 269, 82, -453}}
 
 ## Rewards

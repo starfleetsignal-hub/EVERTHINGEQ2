@@ -23,7 +23,7 @@ source:
 
 ## Island Access
 
-- (-587, 247, -189): [[Isle of Eaglewatch]], [[Whisperwind Isle]]
+- {{waypoint -587, 247, -189}}: [[Isle of Eaglewatch]], [[Whisperwind Isle]]
 
 ## NPCs
 

@@ -5,7 +5,7 @@ expansion: Shattered Lands
 purpose: Quest
 race: Human
 zone: '[[Nektulos Forest]]'
-location: Near [[Port Naythex]]. Loc (-761, -1, -130)
+location: Near [[Port Naythex]]. Loc {{waypoint -761, -1, -130}}
 categories:
 - Human
 - NPC pages that need EQ2MAP uid

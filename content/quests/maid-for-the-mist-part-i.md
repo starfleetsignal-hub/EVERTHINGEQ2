@@ -38,7 +38,7 @@ source:
 1. Obtain 25 crab carapaces from [[A Nerius crab|Nerius crabs]] on the beach.  ONLY Nerius crabs count.  About 75% of kills will give an update.
 1. Speak with Daisy Winterhope {{waypoint 773, -1, -177}}.
 1. Obtain 13 sinews (common quest updates) from [[An ash owlbear|ash owlbears]].  They are found in [[Death's Maw]] around {{waypoint -568, 38, 121}}, in the hills east of [[J'Rais Bridge]].
-   - *Note: Elder ash owlbears will not update this step*. Also Note: There are a handful on non heroic owlbears around (-568, 38, 121) and (-523, 15.30,42)
+   - *Note: Elder ash owlbears will not update this step*. Also Note: There are a handful on non heroic owlbears around {{waypoint -568, 38, 121}} and {{waypoint -523, 15.30, 42}}
 1. Return to Daisy Winterhope {{waypoint 773, -1, -177}}.
 
 ## Rewards

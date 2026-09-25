@@ -71,4 +71,4 @@ expansion: Altar of Malice
 expansion_source: level
 ---
 
-sold by [[Llyleia]] Ethereal Merchant in Thalumbra at -465, 192, 250
+sold by [[Llyleia]] Ethereal Merchant in Thalumbra at {{waypoint -465, 192, 250}}

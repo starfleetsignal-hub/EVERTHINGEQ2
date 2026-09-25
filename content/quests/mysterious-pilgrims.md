@@ -36,8 +36,8 @@ expansion_source: patch
 1. Use the Mariner's Bell ("Travel outside of city" bell) to journey to the Feerrott
 1. Speak to the Iksar Pilgrim
 1. I must find the encampment and help them resist the Sathirians advances.
-   - Kill a [[Sathirian Scout]] on my way to the pilgrim Encampment near 78,3,22.
-   - Kill a [[Sathirian Scout Leader]] on my way to the pilgrim Encampment, near 117,-1,102.
+   - Kill a [[Sathirian Scout]] on my way to the pilgrim Encampment near {{waypoint 78, 3, 22}}
+   - Kill a [[Sathirian Scout Leader]] on my way to the pilgrim Encampment, near {{waypoint 117, -1, 102}}
    - Speak to [[Irkksom Svetann]] to receive sub-quest [[Disrupt the Sathirian Efforts]].
 1. Return to [[Admiral Marc Grenich]] in [[Qeynos Harbor]] to finish the quest-line.
 

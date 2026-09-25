@@ -22,4 +22,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-located in Merc basement after consuming bauble at /loc  805, -252, 38
+located in Merc basement after consuming bauble at {{waypoint 805, -252, 38}}

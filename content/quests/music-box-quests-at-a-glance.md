@@ -17,7 +17,7 @@ source:
 | Raj'Dur Plateaus | Location | First Mobs | Location in Raj'Dur Plateaus | Clue Mobs | Location in Takish Badlands |
 |---|---|---|---|---|---|
 | Ardoria | {{waypoint 171.77, 111.91, -68.74}}<br>{{waypoint 494.17, 71.96, -35.34}}<br>{{waypoint -173.63, 137.10, -121.85}} | Sand Snappers | {{waypoint 557.73, -61.05, 301.54}} | Dunetooth Goblins | {{waypoint -756.36, 196.10, 97.10}} |
-| Dedoria | {{waypoint 369.70, 116.49, 305.39}}<br>{{waypoint 632.74, 89.18, -38.45}}( 140, 83, 716 ) | Dryland Corpsebeaks | {{waypoint 306.68, 105.62, 303.96}} | Residual Sparklets | {{waypoint -460, 94, -453}} |
+| Dedoria | {{waypoint 369.70, 116.49, 305.39}}<br>{{waypoint 632.74, 89.18, -38.45}}{{waypoint 140, 83, 716}} | Dryland Corpsebeaks | {{waypoint 306.68, 105.62, 303.96}} | Residual Sparklets | {{waypoint -460, 94, -453}} |
 | Doria | {{waypoint -114.92, 97.66, 641.26}}<br>{{waypoint 26.54, 114.45, 718.74}}<br>{{waypoint -18.19, 116.26, 458.88}} | Desert Coyotes | {{waypoint 136.02, 3.69, 125.09}} | Mhyt'moo Yha'lei | {{waypoint 2.94, 0.41, -182.36}} |
 | Eafrygia | {{waypoint -119.73, 57.63, 693.97}}<br>{{waypoint 72, 48, 403}}<br>{{waypoint -429, 32, 576}}<br>{{waypoint -352, 218, -276}} | Raj'Dur Bandits | {{waypoint -228.05, 98.47, -310.35}} | Shadowy Grapplers | {{waypoint 6.53, -61.56, 306.30}} |
 | Frygia | {{waypoint -321.45, 123.38, 45.40}}<br>{{waypoint -244.18, 82.15, 337.10}}<br>{{waypoint -2, 107, -309}} | Vicious Snapjaws | {{waypoint -11.61, 4.33, -151.83}} | Sand Devourers | {{waypoint -680.19, 197.20, 158.40}} |

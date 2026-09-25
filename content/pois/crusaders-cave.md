@@ -31,8 +31,8 @@ source:
 This cave connects to two locations that can be useful while working on quests related to any of the Kunark Ascending expansion content. At the back of the cave, the tunnel splits in two directions.
 The following can be accessed:
 
-- [[Jarsath Wastes]] - zone-in point at 826 262 1,244, which is useful for the [[The Gardens Are In Bloom]] quest when traveling to [[Danak Shipyards]].
-- [[Kylong Plains]] - zone-in point at 809 247 1,357
+- [[Jarsath Wastes]] - zone-in point at {{waypoint 826, 262, 1244}}, which is useful for the [[The Gardens Are In Bloom]] quest when traveling to [[Danak Shipyards]].
+- [[Kylong Plains]] - zone-in point at {{waypoint 809, 247, 1357}}
 
 ## Quests
 

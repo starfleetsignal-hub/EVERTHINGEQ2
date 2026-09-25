@@ -15,11 +15,11 @@ source:
 
 This option is available to citizens of Kelethin and Qeynos, and to Exiles who have earned acceptance with Qeynos or Kelethin.
 
-For citizens of Qeynos speak to Ambassador Duryo Valstath inside the Guild Registrar in Qeynos Capitol District at ( 559.26, -9.79, 167.15 )
+For citizens of Qeynos speak to Ambassador Duryo Valstath inside the Guild Registrar in Qeynos Capitol District at {{waypoint 559.26, -9.79, 167.15}}
 
-For Kelethin citizens see Ambassador Gibrien Marsden in Kelethin ( 456.79, 88.94, 226.84 )
+For Kelethin citizens see Ambassador Gibrien Marsden in Kelethin {{waypoint 456.79, 88.94, 226.84}}
 
-Then you need to go to New Halas and talk to [[Ambassador Brynhilde Maersdottr]] at the Guild Registrar ( 90.40, 153.50, -163.89 )
+Then you need to go to New Halas and talk to [[Ambassador Brynhilde Maersdottr]] at the Guild Registrar {{waypoint 90.40, 153.50, -163.89}}
 
 Moving to New Halas
 

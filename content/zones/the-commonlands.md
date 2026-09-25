@@ -90,7 +90,7 @@ The zone's [[Mariner's Bell]] is on the docks at {{waypoint -1052, -145, -679}}.
 | [[The City of Freeport]] | N/A | East | {{waypoint -1326, -88, 45}} |
 | [[The Graveyard]] | 5-10 | East | {{waypoint -1389, -86, -333}} |
 | [[The Sprawl]] | 5-10 | East | {{waypoint -1449, -81, 418}} |
-| [[The Thieves' Way]] | 5-10 | East | -1,251 -83 119 |
+| [[The Thieves' Way]] | 5-10 | East | {{waypoint -1251, -83, 119}} |
 | [[Darklight Wood]] | 1-20 | North | {{waypoint 192, -46, -862}} |
 | [[Nektulos Forest]] | 20-30 | Northwest | {{waypoint 1112, -42, -636}} |
 

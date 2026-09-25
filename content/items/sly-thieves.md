@@ -22,4 +22,4 @@ expansion_source: level
 
 This item is needed for the collection: [[Raj'Dur Residents (Collection)|Raj'Dur Residents]]
 
-- Found one at ( 50, 80, 726 ) in Raj'dur
+- Found one at {{waypoint 50, 80, 726}} in Raj'dur

@@ -36,7 +36,7 @@ Note: To save time, try and complete at the same time as [[When You Mess With An
 
 ## Steps
 
-1. Kill 10 [[A Slagslore ettin|slagslore ettins]] (-4, 226, -224) for their toes!
+1. Kill 10 [[A Slagslore ettin|slagslore ettins]] {{waypoint -4, 226, -224}} for their toes!
 1. Return to Eneek
 
 ## Rewards

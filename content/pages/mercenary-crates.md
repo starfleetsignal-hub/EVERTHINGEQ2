@@ -52,7 +52,7 @@ Rogues Gallery is an "underground" zone and newer mercenaries are generally foun
 
 As of the spring of 2017, unwanted or duplicate mercenaries can no longer be sold to City Merchants.
 
-In Freeport and Qeynos, unwanted mercenaries may be sold for [[Status points|status points]] to [[Sneerio Backlash]] at location (-4.65, -25.37, -19.27) in the Rogue's Gallery. The Rogue's Gallery is in the basement of Fish's Alehouse and Inn in Qeynos Harbor.
+In Freeport and Qeynos, unwanted mercenaries may be sold for [[Status points|status points]] to [[Sneerio Backlash]] at location {{waypoint -4.65, -25.37, -19.27}} in the Rogue's Gallery. The Rogue's Gallery is in the basement of Fish's Alehouse and Inn in Qeynos Harbor.
 
 ### Status
 

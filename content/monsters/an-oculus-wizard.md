@@ -35,7 +35,7 @@ Shares its spawn point with [[An oculus defiler]], [[An oculus healer]], [[An oc
 ## Locations
 
 - Wandering a central hallway at {{waypoint 39, -17, -108}} - on the shared spawn table listed above.  (37^^^-38^^^)
-- In the Thing of Shattered Iron's ( 231, -16, 36 ) room (38^-40^) linked with 4 [[A Runnyeye torturer|Runnyeye torturers]] (38-40 even)
+- In the Thing of Shattered Iron's {{waypoint 231, -16, 36}} room (38^-40^) linked with 4 [[A Runnyeye torturer|Runnyeye torturers]] (38-40 even)
 
 ## Related quests
 

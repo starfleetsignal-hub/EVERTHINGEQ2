@@ -85,7 +85,7 @@ Travel is primarily via [[A tamed Shik'nar drone|tamed Shik'nar drones]], locati
 
 | Dungeon Name | Level Range | Tier | Zone in Location<br> |
 |---|---|---|---|
-| [[The Fabled Plane of War (Raid)\|The Fabled Plane of War [Raid]]] | 128+ | Raid-Zone | North of [[Recuso Tor]], Portal at -622.20 63.66 -15.08 10.18 0.00 0.00 |
+| [[The Fabled Plane of War (Raid)\|The Fabled Plane of War [Raid]]] | 128+ | Raid-Zone | North of [[Recuso Tor]], Portal at {{waypoint -622.20, 63.66, -15.08}} |
 
 ### Adjacent Zones
 

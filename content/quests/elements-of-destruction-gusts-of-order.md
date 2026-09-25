@@ -49,7 +49,7 @@ source:
    - The drops are uncommon. One is dropped for each party member.
    - *Note: It can happen that you don't get all 19 drops from 1 run of the zone, so you have to reenter a fresh version of the instance to get the final drop and be able to complete the quest.*
 1. Use the [[Inert Eryslai Purifying Rune]] from the quest helper to recieve the [[Imbued Eryslai Purifying Rune]]
-1. After killing the final boss, [[Sterek Swiftwind]], *Do NOT take the portal back to the Library*. Take the **Portal to Oeranthia Spire** at 1200, 324 -278.
+1. After killing the final boss, [[Sterek Swiftwind]], *Do NOT take the portal back to the Library*. Take the **Portal to Oeranthia Spire** at {{waypoint 1200, 324, -278}}.
    - Note: If you have enough drops, and the portal doesn't appear, examine the [[Inert Eryslai Purifying Rune]] from your inventory.
    - Note: If you didn't get enough drops the first run through the zone, the portal might not appear on the second run. In that case, you can drop down to Oeranthia Spire using Featherfall. Use the waypoint to make sure you aim for the right island. It's in front of, and far below, where the portal should be. Once you get the update, there's no way to return to Myrist, so you have to use an alternative transportation such as Evac or call to home city.
 1. Click on **The Oeranthia Breathstone**![The Oeranthia Breathstone](images/TheOeranthiaBreathstone.jpg) at {{waypoint 831, -290, -469}}.

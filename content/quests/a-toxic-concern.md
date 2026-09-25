@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'
 journal_category: The Sundered  Frontier
-starts: Speak with [[Warriden Jupidor]] at 1,012 113 3,802
+starts: Speak with [[Warriden Jupidor]] at {{waypoint 1012, 113, 3802}}
 prerequisite: '[[Delivering Bag O'' Bones]]'
 next_quest: '[[Follow the Food Chain]]'
 added_in: Sentinel's Fate

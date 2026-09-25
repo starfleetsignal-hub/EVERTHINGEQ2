@@ -27,4 +27,4 @@ expansion_source: linked
 
 ## Notes
 
-Used to buy (mostly lvl 92 gear) from the Skyshrine faction merchant [[Quartermaster Zrek]] in the peaceful past. loc 47, 0, -291
+Used to buy (mostly lvl 92 gear) from the Skyshrine faction merchant [[Quartermaster Zrek]] in the peaceful past. {{waypoint 47, 0, -291}}

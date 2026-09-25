@@ -49,7 +49,7 @@ The herald of Solusek Ro has informed me that summoning an Avatar requires the l
    - {{waypoint -46, 8, -207}} in [[Hydra Pass]]
    - {{waypoint -129, 19, 54}} near the entrance to [[Dragon's Breath Tunnel]]
    - {{waypoint -185, -10, -560}} in a gully in [[Solusek Valley]]
-   - ( -285, 85, -215) near Solusek Eye entrance
+   - {{waypoint -285, 85, -215}} near Solusek Eye entrance
 1. Return to the [[Herald of the Burning Prince]] at {{waypoint -772, -129, -368}} in [[Lavastorm]]
 
 ## Rewards

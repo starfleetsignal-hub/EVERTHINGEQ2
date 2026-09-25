@@ -27,4 +27,4 @@ source:
 
 ## Notes
 
-Go to 691.52, -441.93, 4129.42 and kill the Meloncholy of Growth's till you get a Golem core. It will give you a quest update that tells you to go to the caves. There you talk to Rumbleslate who gives you a tablet of stone that you examine. The tablet gives you an update to find the remains of the Holgresh,
+Go to {{waypoint 691.52, -441.93, 4129.42}} and kill the Meloncholy of Growth's till you get a Golem core. It will give you a quest update that tells you to go to the caves. There you talk to Rumbleslate who gives you a tablet of stone that you examine. The tablet gives you an update to find the remains of the Holgresh,

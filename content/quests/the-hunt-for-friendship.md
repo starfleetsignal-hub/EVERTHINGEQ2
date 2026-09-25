@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Bonemire]]'
 timeline: '[[Bonemire Timeline]]'
 journal_category: Bonemire
-starts: Speak to [[Vegnit Snogwit]] at the [[Drednever Crash Site]] near ( -21, 44, 527 ).
+starts: Speak to [[Vegnit Snogwit]] at the [[Drednever Crash Site]] near {{waypoint -21, 44, 527}}.
 prerequisite: '[[A Quick Task to Help]]'
 next_quest: '[[Quick Retrieval]]'
 added_in: LU55

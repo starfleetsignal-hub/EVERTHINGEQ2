@@ -43,7 +43,7 @@ source:
 1. Gather the following ingredients from [[Butcherblock Mountains]]:
    - Gather 5 Butcherblock Orange Liqueur around Butcherblock Bay near {{waypoint 697, 24, 580}}
    - Gather 5 Kragploom Cranberries around Kragploom Mesa near {{waypoint 449, 349, -227}}
-     - Note: Flying **not** needed, as ramp to Kragploom Mesa located at ( 130, 217, -188 ) and Climbable wall at ( 495, 326, -129)
+     - Note: Flying **not** needed, as ramp to Kragploom Mesa located at {{waypoint 130, 217, -188}} and Climbable wall at {{waypoint 495, 326, -129}}
    - Gather 3 Shadesire Pumpkin around East Irontoe Outpost East near {{waypoint -511, 450, -345}}![Burtcherblock Orange Liqueur](images/Butcherblock_Orange_Liqueur.jpg)
 
 ![Kragplooom Cranberries](images/Kragploom_Cranberries.jpg)![Shadesire Pumpkin](images/Shadesire_Pumpkin.jpg)

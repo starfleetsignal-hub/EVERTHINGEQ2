@@ -30,4 +30,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Spawns when harvesting crystal at 192,-45,358
+Spawns when harvesting crystal at {{waypoint 192, -45, 358}}

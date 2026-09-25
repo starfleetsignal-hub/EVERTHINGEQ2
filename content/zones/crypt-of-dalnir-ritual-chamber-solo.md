@@ -37,11 +37,11 @@ Enter at {{waypoint 790, -129, -584}}
 
 1. Turn the middle statue {{waypoint -1, 28, -50}} and wait for it to click into place. A message will appear: "Passage has been granted."
 1. Go through to the teleport at the base of the glowing yellow pedestal.
-1. "[[The Sacrificed]] emerges from the Pit of Sacrifice." .85 -38 -237 101^ Simple tank n' spank.
+1. "[[The Sacrificed]] emerges from the Pit of Sacrifice." {{waypoint 0.85, -38, -237}} 101^ Simple tank n' spank.
    - *Note: You must be within 10m range to damage him and he is rooted*
    - Note: Don't fall in the pit. There's no bottom. However, you can use a totem of evac to escape if you do.
-1. Go through the door at 0.38 -38.55 -283.60 2.07 0.00 0.00 into the the next room [[The Church of Kly]]. It's a large altar room with two doorways on each side and one up top. For now, kill the gooblins around the edges of the room and any Kly ghosts that aggro you.
-1. Go to the altar area and see [[Rector Droz'Kzar]] The Grand Benefactor 101 -.21 -32 -461
+1. Go through the door at {{waypoint 0.38, -38.55, -283.60}} into the the next room [[The Church of Kly]]. It's a large altar room with two doorways on each side and one up top. For now, kill the gooblins around the edges of the room and any Kly ghosts that aggro you.
+1. Go to the altar area and see [[Rector Droz'Kzar]] The Grand Benefactor 101 {{waypoint -0.21, -32, -461}}
    - **Note**: He has a buff: "The Kly's Benediction". It makes him immune to damage and he is rooted while near the altar.
    - **Note**: Casts Septic Blast periodically: Inflicts 591063- 633938 disease damage on targets in Area of Effect instantly and every 2 seconds.
    - You must make him move away from the altar:

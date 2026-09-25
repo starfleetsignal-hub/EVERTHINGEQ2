@@ -47,7 +47,7 @@ The Fish Drying Rack recipe auto-scribes. You do *not* need to locate it in inve
 1. Construct a [[Fish Drying Rack]].
    - Use the [[Goblin Workbench]] {{waypoint 18, -241, -875}}. ![Goblin Workbench](images/Goblin_Workbench.jpg)
    - Requires 100 Artisan, 1 [[Rusty nail]], 2 [[Driftwood]], and 1 [[Thaumic Coal]].
-1. Place the drying rack for Kreeg (17, -242, -868).
+1. Place the drying rack for Kreeg {{waypoint 17, -242, -868}}.
 1. Speak to [[Kreeg (Goblin)|Kreeg]].
 
 ## Rewards

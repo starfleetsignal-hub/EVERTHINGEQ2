@@ -34,7 +34,7 @@ Dragons are attacking the spires in [[The Thundering Steppes]], [[Everfrost]], [
 
 ## Notes
 
-- For this event there are two merchants that sell the same items, [[Ziyuh Farijinyi]] ((South of The Commonlands dock ( -1062, -66, -487 )) and [[Fiami Ken'thia]] ((East of the Tomb of Varsoon ( -138, -21, -662 )).
+- For this event there are two merchants that sell the same items, [[Ziyuh Farijinyi]] ((South of The Commonlands dock {{waypoint -1062, -66, -487}}) and [[Fiami Ken'thia]] ((East of the Tomb of Varsoon {{waypoint -138, -21, -662}}).
 - There is no special currency for this event, however, all of the merchandise requires a certain amount of faction with the Quellithian Portal Scholars.
 
 ## Public Quests

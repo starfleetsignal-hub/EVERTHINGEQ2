@@ -47,7 +47,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Head to North Qeynos. The Guards are level 55 at the gates, Lower level characters can avoid the guards by go in through the Peat bog to the Vermin's Snye to Down Below, then North Qeynos. ( -99, -0, -98 )  Click on the basement door behind the little building directly east of the [[Clothspinners]] tailor shop at loc {{waypoint 329, -22, -190}} and zone into the instance [[Spreading the Truth]].
+1. Head to North Qeynos. The Guards are level 55 at the gates, Lower level characters can avoid the guards by go in through the Peat bog to the Vermin's Snye to Down Below, then North Qeynos. {{waypoint -99, -0, -98}}  Click on the basement door behind the little building directly east of the [[Clothspinners]] tailor shop at loc {{waypoint 329, -22, -190}} and zone into the instance [[Spreading the Truth]].
    - When you first zone in there will be several [[A wandering attendee|wandering attendees]] who wander around and see through invisible. (They seem to be maximum level 70)
    - You can not kill more than 2 to 3 attendees or the quest will not update.
 1. First make it into the door to the right and steal the key from the [[A Celestial Watch ecclesiastic|Celestial Watch ecclesiastic]] in the room. You can right click on him and do this without killing him. He is not aggressive.

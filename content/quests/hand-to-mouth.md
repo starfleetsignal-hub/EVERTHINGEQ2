@@ -39,7 +39,7 @@ source:
 1. Replenish Gorir's food stores:
    - Collect 15 sapphire outblooms (turquoise plants near roots of trees, or among other plants):
      - {{waypoint 652, 89, -651}}
-     - 1109, 24, -835
+     - {{waypoint 1109, 24, -835}}
      - {{waypoint 973, 30, -791}} <br>
    - Kill 15 [[A ruby emperor|ruby emperors]]
 1. Return to Ruowwrya

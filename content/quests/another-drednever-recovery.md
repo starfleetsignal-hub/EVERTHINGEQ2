@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Bonemire]]'
 timeline: '[[Bonemire Timeline]]'
 journal_category: Bonemire
-starts: Speak to [[Alkfoz Puddlezap]] at the [[Halls of Fate]] landing area ( -304, 342, -63 ).
+starts: Speak to [[Alkfoz Puddlezap]] at the [[Halls of Fate]] landing area {{waypoint -304, 342, -63}}.
 added_in: LU55
 achievement_xp: true
 categories:

@@ -41,11 +41,11 @@ source:
    1. Loot chest in his room at {{waypoint -13, 34, -102}} to obtain the [[Soul Skiver]]
    1. Click [[Monolith of Theer|monolith]] (which is about the same size as a gravestone) at {{waypoint 10, 26, -94}}. This is in a room on the deck immediately below the captain's quarters, where the cannonballs are located. Look in the corner by the door.
    1. Find a safe spot for the monolith
-      1. Zone out using the disc-like portal at the start of the zone ( -6, 24, 77 )
+      1. Zone out using the disc-like portal at the start of the zone {{waypoint -6, 24, 77}}
       1. Talk to [[Firiona Vie (Obol Plains)]] at {{waypoint 87, 13, 924}} on the dock
 
 ![Small monolith. Nearby is a cannonball](images/Dreadcutter_monolith.jpg)
-2. Speak to [[Drinal's Steward]] or a Drinalian Whisper Column --  Note: The nearest Whisper Column is ( -27, -3, 539 )
+2. Speak to [[Drinal's Steward]] or a Drinalian Whisper Column --  Note: The nearest Whisper Column is {{waypoint -27, -3, 539}}
 
 ## Rewards
 

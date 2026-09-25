@@ -36,7 +36,7 @@ source:
 
 [[Brother Dhar]] asks you to travel to [[The Mystic Lake]] and help defend the [[The Mystic Guardians (Faction)|dryads and their kin]] from [[Pirates of Gunthak (Faction)|Pirates of Gunthak]].
 
-1. To get to the Mystic Lake zone, enter the cave located at -251 .44 -129
+1. To get to the Mystic Lake zone, enter the cave located at {{waypoint -251, 0.44, -129}}
 1. Speak to [[Brother Fritzen]] near the zone in to Mystic Lake. {{waypoint 229, -47, 319}}  Brother Fritzen asks you to kill the following, located in the woods nearby:
    - 4 [[A Gunthak ransacker|Gunthak ransackers]]
    - 4 [[A Gunthak poacher|Gunthak poachers]]

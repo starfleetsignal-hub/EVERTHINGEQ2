@@ -101,6 +101,60 @@ ITEM_KIND = {"equipinformation": "Equipment", "adorninformation2": "Adornment", 
              "ammoinformation": "Ammo", "recipebook": "Recipe book",
              "harvestinformation": "Harvestable", "bookinformation": "Book"}
 
+
+# ---------------------------------------------------------------- waypoints
+
+NUM = r"-?(?:\d+(?:\.\d*)?|\.\d+)"
+
+def coord(n):
+    """One coordinate as editors type it ("1,544.17", "509.", ".51", "-76,") -> "1544.17", "509", "0.51", "-76"; None if it isn't one."""
+    n = n.strip().strip(",").strip()
+    if re.match(r"^-?\d{1,3}(,\d{3})+(\.\d+)?$", n): n = n.replace(",", "")
+    if not re.match(r"^%s$" % NUM, n): return None
+    n = re.sub(r"^(-?)\.", r"\g<1>0.", n.rstrip("."))
+    return n if n not in ("", "-") else None
+
+def coords(parts):
+    """[x, y, z] from separate values or one "x, y, z" / "x y z" string (also the six numbers /loc prints); None if not a location."""
+    parts = [x for x in parts if x.strip()]
+    if len(parts) == 1: parts = [x for x in re.split(r"[\s,]+", parts[0]) if x]
+    if len(parts) == 6 and all(coord(x) for x in parts): parts = parts[:3]    # "/loc" output: x y z heading pitch roll
+    nums = [coord(x) for x in parts]
+    return nums if len(nums) == 3 and all(nums) else None
+
+def waypoint(nums):
+    return "{{waypoint %s}}" % ", ".join(nums)
+
+# coordinates typed as plain text: "( 12, 5, -40 )", "(loc 12 5 -40)", "/way 12, 5, -40", "at 12, 5, -40"
+_S = r"(?:\s*,\s*|\s+|\.\s+)"
+_END = r"(?![\w.]|\s*,?\s*-?\.?\d)"          # a fourth number means these aren't x, y, z
+PROSE_LOC = re.compile(
+    rf"\(\s*(?:(?:/?waypoint|/way|/wp|/?loc)\b\s*[:=]?\s*)?(?P<a>{NUM}){_S}(?P<b>{NUM}){_S}(?P<c>{NUM})\s*\)"
+    rf"|(?<![\w{{])(?:/waypoint|/way|/wp|/loc|waypoint|loc)\b\s*[:=]?\s*(?P<d>{NUM}){_S}(?P<e>{NUM}){_S}(?P<f>{NUM}){_END}"
+    rf"|(?P<pre>\b(?:at|near|around|to|location|locations?\s*:|coord(?:inate)?s?\s*:?)\s*)(?P<g>{NUM})\s*,\s*(?P<h>{NUM})\s*,\s*(?P<i>{NUM}){_END}",
+    re.I)
+_KEEP = re.compile(r"\{\{waypoint [^}]*\}\}|\[\[[^\]]*\]\]|\]\([^)]*\)|https?://\S+|`[^`]*`|\x02[IB]\d+\x03")
+
+def _prose_chip(m):
+    nums = [coord(m.group(k)) for k in "abcdefghi" if m.group(k) is not None]
+    if not all(nums) or any(re.match(r"^-?0\d", x) or abs(float(x)) >= 20000 for x in nums): return m.group(0)
+    if re.search(r"(damage|levels?|tiers?|%)\s*$", m.string[:m.start()], re.I): return m.group(0)   # "every 25% (75, 50, 25)"
+    return (m.group("pre") or "") + waypoint(nums)
+
+def prose_waypoints(s):
+    """Turn coordinates written as plain text into {{waypoint}} chips; links, chips and URLs are left alone."""
+    out, last = [], 0
+    for m in _KEEP.finditer(s):
+        out.append(PROSE_LOC.sub(_prose_chip, s[last:m.start()])); out.append(m.group(0)); last = m.end()
+    out.append(PROSE_LOC.sub(_prose_chip, s[last:]))
+    return "".join(out)
+
+def fm_waypoints(v):
+    if isinstance(v, str): return prose_waypoints(v)
+    if isinstance(v, list): return [fm_waypoints(x) for x in v]
+    if isinstance(v, dict): return {k: fm_waypoints(x) for k, x in v.items()}
+    return v
+
 class Page:
     def __init__(self, rec):
         self.rec = rec
@@ -197,11 +251,9 @@ class Page:
         P = lambda n: pos.get(n, "")
 
         if key in ("loc", "loc2", "masterloc"):
-            nums = [P(1), P(2), P(3)] if P(2) or P(3) else re.split(r"[\s,]+", P(1))
-            nums = [n.strip() for n in nums if n.strip()]
-            if len(nums) == 3 and all(re.match(r"^-?\d+(\.\d+)?$", n) for n in nums):
-                return self.ph("{{waypoint %s}}" % ", ".join(nums))
-            return " ".join(nums)
+            nums = coords([P(1)]) or coords([P(1), P(2), P(3)])     # {{loc2|x, y, z|uid}} or {{loc|x|y|z}}
+            if nums: return self.ph(waypoint(nums))
+            return " ".join(n.strip() for n in (P(1), P(2), P(3)) if n.strip())
         if key in LINKERS:
             if not P(1): return ""
             return self.wlink(self.inline(P(1)), self.inline(P(2)) if P(2) else None)
@@ -367,9 +419,8 @@ class Page:
 
     def located(self, a):
         loc = self.val(a.get("location"))
-        mr = [x for x in re.split(r"[\s,]+", (a.get("mapref") or "").strip()) if x]
-        if len(mr) == 3 and all(re.match(r"^-?\d+(\.\d+)?$", x) for x in mr):
-            loc = (loc + " " if loc else "") + "{{waypoint %s}}" % ", ".join(mr)
+        mr = coords([a.get("mapref") or ""])
+        if mr: loc = (loc + " " if loc else "") + waypoint(mr)
         return loc.strip()
 
     def image(self, a, key="iname"):
@@ -413,9 +464,8 @@ class Page:
             put("zone", self.pagelink(a.get("zone")))
             put("faction", self.val(a.get("faction")))
             loc = self.val(a.get("location"))
-            mr = [x for x in re.split(r"[\s,]+", (a.get("mapref") or "").strip()) if x]
-            if len(mr) == 3 and all(re.match(r"^-?\d+(\.\d+)?$", x) for x in mr):
-                loc = (loc + " " if loc else "") + "{{waypoint %s}}" % ", ".join(mr)
+            mr = coords([a.get("mapref") or ""])
+            if mr: loc = (loc + " " if loc else "") + waypoint(mr)
             put("location", loc.strip())
             put("added_in", self.val(a.get("patch")))
             if (a.get("iname") or "").strip():
@@ -762,11 +812,11 @@ def convert(rec):
     w = p.extract_infobox(w)
     body = p.body(w)
     kind = classify(p)
-    body = drop_empty_sections(body)
+    body = prose_waypoints(drop_empty_sections(body))
     fm = {"title": p.title, "type": kind}
     x = expansion(list(rec.get("categories", [])) + p.categories)
     if x: fm["expansion"] = x
-    fm.update(p.fm)
+    fm.update({k: v if k in ("title", "image", "icon") else fm_waypoints(v) for k, v in p.fm.items()})
     if rec.get("redirects"): fm["aliases"] = rec["redirects"]
     cats = [c for c in dict.fromkeys(p.categories) if not re.search(r"redlinks|Articles|Stubs?$|Pages with|Hidden", c)]
     if cats: fm["categories"] = cats

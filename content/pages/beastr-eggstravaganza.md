@@ -95,7 +95,7 @@ You will have to go to at least 2 merchants to buy all available items. Frostfan
 - [[Frostfang Sea]]: {{waypoint 86, 145, -63}} (Behind the Carin of the Huntress shrine)
 - [[Greater Faydark]]: {{waypoint 197, 111, 143}} (Near the bank in Old Kelethin)
 - [[Qeynos Province District]]: {{waypoint 625.8, -14.49, -348}} (In the Eldar Grove area, rather than the city)
-- [[Timorous Deep]]: 2,215 55 1094 (near the Gorowyn Beach Station)
+- [[Timorous Deep]]: {{waypoint 2215, 55, 1094}} (near the Gorowyn Beach Station)
 
 ### Egg Gallery
 

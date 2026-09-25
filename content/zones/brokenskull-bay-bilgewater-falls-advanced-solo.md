@@ -29,7 +29,7 @@ source:
 
 Mostly the only difference between the Solo and Advanced Solo versions of Bilgewater Falls is the monster level and corresponding increase in health.  The exceptions to that are the Brokenskull wench trash mobs, and Captain Berlon Bilgewater.
 
-If you fall in the water, there are stairs ascending at /way 0.10 -0.19 99.31
+If you fall in the water, there are stairs ascending at {{waypoint 0.10, -0.19, 99.31}}
 
 ### Trash mob strats
 

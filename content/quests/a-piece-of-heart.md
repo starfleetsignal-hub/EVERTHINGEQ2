@@ -8,7 +8,7 @@ difficulty: Heroic
 zone: '[[Enchanted Lands]]'
 timeline: '[[Swashbuckler Epic Weapon Timeline]]'
 journal_category: Signature
-starts: Talk to Captain Screewoggins (39, 4, 117) on the docks in the Enchanted Lands
+starts: Talk to Captain Screewoggins {{waypoint 39, 4, 117}} on the docks in the Enchanted Lands
 prerequisite: '[[Screewoggins Stranded]]'
 next_quest: '[[Loose Lips Find Ships]]'
 categories:

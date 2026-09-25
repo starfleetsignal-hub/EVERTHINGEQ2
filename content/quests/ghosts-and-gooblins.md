@@ -40,22 +40,22 @@ source:
 ## Steps
 
 1. Enter [[Crypt of Dalnir: Wizard's Den (Advanced Solo)]].
-1. Help the Goblin soothsayer [[Shanks]] (4.62 28.40 -44.35 349.23 0.00 0.00) by turning the western statue "The Haggle Baron's Warden" and follow him...
-1. ...through to the green portal at 144.95 26.68 -50.00 146.88 0.00 0.00 down into the caves-like-area.
+1. Help the Goblin soothsayer [[Shanks]] ({{waypoint 4.62, 28.40, -44.35}}) by turning the western statue "The Haggle Baron's Warden" and follow him...
+1. ...through to the green portal at {{waypoint 144.95, 26.68, -50.00}} down into the caves-like-area.
 1. *"Kill the brutes!*: There are 4 groups of brutes and a single wanderer. Kill three of them and the wanderer.
    - **Note**: You should leave one group up while you click on the blue-sparkles to "investigate" the area on the left as you come in. Killing all the brutes and the [[The Rock Collector|Rock Collector]] right-off bugs the quest. You lose the blue-shinies and the cage-doors do not become clickable, even though the quest updates to "*Continue searching for Ghawg"*. That leaves you stuck because without the clickable cage-doors you can never get the update for "*I didn't find [[Ghawg]] in the cages, but I heard a goblin scream*".
-1. Investigate (by right-clicking) the blue shiney spots at 265.40 -45.32 -35.44 232.92 0.00 0.00 for a quest update.
+1. Investigate (by right-clicking) the blue shiney spots at {{waypoint 265.40, -45.32, -35.44}} for a quest update.
 1. Clear the cavern area to spawn [[The Rock Collector]] and kill him.
    - **Note**: You can only defeat him if he is near the waterfall area. Keep your back against the waterfall so you won't have to deal with the knockback attacks as much.
 1. Go to the  [[Chasm of awaiting]] where the cages with the goblins are hanging from the ceiling. Search the cages for [[Ghawg]] by clicking some cages:
-   - 436.28 -44.88 -147.08 1.60 0.00 0.00
-   - 403.14 -44.92 -60.20 236.44 0.00 0.00
-   - 403.12 -51.40 -16.38 273.11 0.00 0.00
-1. *I didn't find [[Ghawg]] in the cages, but I heard a goblin scream.*: Open door at 347.65 -38.58 -175.75 1.18 0.00 0.00 and save [[Wreek]] {{waypoint 342, -38, -214}} by defeating [[An Obulus remnant]].
+   - {{waypoint 436.28, -44.88, -147.08}}
+   - {{waypoint 403.14, -44.92, -60.20}}
+   - {{waypoint 403.12, -51.40, -16.38}}
+1. *I didn't find [[Ghawg]] in the cages, but I heard a goblin scream.*: Open door at {{waypoint 347.65, -38.58, -175.75}} and save [[Wreek]] {{waypoint 342, -38, -214}} by defeating [[An Obulus remnant]].
 1. Speak with [[Wreek]]
 1. Go back to the green portal and destroy the targetable wall at {{waypoint 77, 31, -72}} by attacking it. Make sure you enter the crypt and get a quest update. The quest journal should say "Tell Wreek of the secret Crypt".
 1. Tell [[Wreek]] at {{waypoint 342, -38, -214}} of the secret Crypt.
-1. Defeat [[Nazkra]] rooming in the area around 275.30 -38.73 -262.73 88.12 0.00 0.00
+1. Defeat [[Nazkra]] rooming in the area around {{waypoint 275.30, -38.73, -262.73}}
    - *Quest update: there is no key to be found in these crypts. Return to Shanks.*
 1. At {{waypoint 499.01, -36.37, -125.43}} defeat [[A Kly assistant]] battling [[Shanks]].
 1. Speak to [[Shanks]] to get the key for the door behind it. [[Shanks]] gives you also [[Soothsayer's Bomb Dispenser (Solo)|Soothsayer's Bomb Dispenser]].

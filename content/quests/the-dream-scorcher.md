@@ -86,7 +86,7 @@ source:
       - Tiger - [[Kunzar Jungle]] around {{waypoint -202, 115, -336}}
       - Gorilla - [[Kunzar Jungle]] around {{waypoint -471, 12, 124}}
       - Chokidai - [[Kunzar Jungle]] around {{waypoint 652, 98, -646}}
-      - Shark - [[Fens of Nathsar]] around -1,157.74 -445.15 -2,992.21, {{waypoint -2060, -550, -3069}}  {{waypoint -1402, -425, -3065}} {{waypoint -1777, -448, -2992}}
+      - Shark - [[Fens of Nathsar]] around {{waypoint -1157.74, -445.15, -2992.21}}, {{waypoint -2060, -550, -3069}}  {{waypoint -1402, -425, -3065}} {{waypoint -1777, -448, -2992}}
       - Cockatrice - [[Fens of Nathsar]] around {{waypoint -259, -83, 1372}}
       - Crocodile - [[Fens of Nathsar]] around {{waypoint -135, -408, 949}}
       - Rhino - [[Jarsath Wastes]] around {{waypoint 632, -45, 681}}

@@ -5,7 +5,7 @@ level: Scales
 difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 journal_category: Miscellaneous
-starts: Speak to [[The Duality|Al'Kabor / Dartain]] at 1,878.75 -294.85 3,479.41 in the [[Paineel Council Chamber]].
+starts: Speak to [[The Duality|Al'Kabor / Dartain]] at {{waypoint 1878.75, -294.85, 3479.41}} in the [[Paineel Council Chamber]].
 prerequisite: '[[The Beginning of the End?]]'
 next_quest: '[[Of Things to Come]]'
 added_in: LU58

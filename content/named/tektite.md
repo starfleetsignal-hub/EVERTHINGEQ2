@@ -6,7 +6,7 @@ race: Gargoyle
 level: '23'
 difficulty: Heroic ^^^
 zone: '[[Fallen Gate]]'
-location: East of [[The Pool of Percelia]]
+location: East of [[The Pool of Percelia]] {{waypoint -58.5, -0.5, -107}}
 drops:
 - '[[Bloodstone Encrusted Gauntlets]]'
 - '[[Pearl Stud Earring]]'

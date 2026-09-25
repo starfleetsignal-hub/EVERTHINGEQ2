@@ -29,8 +29,8 @@ source:
 
 Zone into [[Brokenskull Bay: Bilgewater Falls (Heroic)]]
 
-1. Kill a high-ranking Brokenskull -  Kill [[Smooth-Talkin Duncan Togglecog]] at (-25, 120, -255)
-1. Kill an ever [sic] higher-ranking Brokenskull - Kill [[Captain Berlon Bilgewater]] at (111, 145, -359)
+1. Kill a high-ranking Brokenskull -  Kill [[Smooth-Talkin Duncan Togglecog]] at {{waypoint -25, 120, -255}}
+1. Kill an ever [sic] higher-ranking Brokenskull - Kill [[Captain Berlon Bilgewater]] at {{waypoint 111, 145, -359}}
 
 ## Rewards
 

@@ -10,4 +10,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Mindscorcher Shelik: after you kill the mob of four at (297.06, 0.52, -543.8) he will spawn. and at about 95% he will summon a soulscorcher pet. while you fight both you will see in red "Mindscorcher Shelik begins to focus hisdestruction in the direction of <name>" its a one hit kill so it is suggested that instead of trying to interupt the spell just simply run around and not be at that spot.
+Mindscorcher Shelik: after you kill the mob of four at {{waypoint 297.06, 0.52, -543.8}} he will spawn. and at about 95% he will summon a soulscorcher pet. while you fight both you will see in red "Mindscorcher Shelik begins to focus hisdestruction in the direction of <name>" its a one hit kill so it is suggested that instead of trying to interupt the spell just simply run around and not be at that spot.

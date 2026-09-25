@@ -23,7 +23,7 @@ source:
 
 ## Island Access
 
-- (963, -108, 469): [[Drednever Crash Site]]
+- {{waypoint 963, -108, 469}}: [[Drednever Crash Site]]
 
 ## Monsters
 

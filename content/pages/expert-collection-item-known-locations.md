@@ -26,8 +26,8 @@ required: worn [[A Gigglegibber Courting Hat]] or [[Gnomish Collection Goggles]]
 
 | Zone | Collection | Landmark | Loc | Comments |
 |---|---|---|---|---|
-| [[Runnyeye: The Gathering]] | [[Standards of the Goblin Tribes]] | The Oratory of Kanar | (216, -40, -144) | May be anywhere in room. |
-| The Receiving Chamber | (224, -16, 26) | Near center of room. |  |  |
+| [[Runnyeye: The Gathering]] | [[Standards of the Goblin Tribes]] | The Oratory of Kanar | {{waypoint 216, -40, -144}} | May be anywhere in room. |
+| The Receiving Chamber | {{waypoint 224, -16, 26}} | Near center of room. |  |  |
 |  |  |  |  |  |
 
 ## Echoes of Faydwer Blue Shinies
@@ -121,8 +121,8 @@ required: worn [[Kunark Expert Adventurer Goggles]]
 | {{waypoint 479, -9, 1135}} |  |  |  |  |
 | [[Venril's Crown]] | {{waypoint 92, -106.5, -268}} | On the south west wall inside the crater |  |  |
 | Charasis pit | {{waypoint 761, -132, 125}} | Near the center |  |  |
-| [[The Temple of the Red Lord]] | -2,326.90 254.69 534.73 |  |  |  |
-| Drachnid Cave | -2,413.12 226.87 1,091.76 | Cave entrance is along the Sokokar route from [[The Temple of the Red Lord]] to [[The Temple of the White Lady]] |  |  |
+| [[The Temple of the Red Lord]] | {{waypoint -2326.90, 254.69, 534.73}} |  |  |  |
+| Drachnid Cave | {{waypoint -2413.12, 226.87, 1091.76}} | Cave entrance is along the Sokokar route from [[The Temple of the Red Lord]] to [[The Temple of the White Lady]] |  |  |
 | [[Karnor's Castle]] | [[Jailer Keys]] | [[Xalgoz's Study]] | {{waypoint -123.30, -89.19, 47.74}} | Two shinies could possibly spawn here. |
 | [[Karnor's Jailroom]] | {{waypoint -117.45, -71.21, 91.17}} |  |  |  |
 | [[The Foyer]] | {{waypoint -87.97, -56.62, 99.26}} |  |  |  |
@@ -166,12 +166,12 @@ Most TSO blue shiny collections have 3 spawns per zone. The rooms of these spawn
 | [[Possessions of Gynok Moltar]] | [[Befallen: Cavern of the Afflicted\|Cavern of the Afflicted]] | Cavern of Immolating Souls | {{waypoint 50, -36, -98}} |  |
 | Final Hall in front of the Armory | {{waypoint 37, -64, -165}} |  |  |  |
 | Lair of the Bonegrinder | {{waypoint 139, -71, -164}} |  |  |  |
-| [[Befallen: Halls of the Forsaken\|Halls of the Forsaken]] | [[The Broken Stair]] | (0.55, -14, 206) |  |  |
-| [[The Broken Stair]] | (-15, -24, 252) |  |  |  |
+| [[Befallen: Halls of the Forsaken\|Halls of the Forsaken]] | [[The Broken Stair]] | {{waypoint 0.55, -14, 206}} |  |  |
+| [[The Broken Stair]] | {{waypoint -15, -24, 252}} |  |  |  |
 |  |  |  |  |  |
 | [[Befallen: Necrotic Asylum\|Necrotic Asylum]] | Bridge Room | {{waypoint -231, -30, -16}} |  |  |
 | [[Den of the Necrophagist]] | {{waypoint -335, -19, 334}} | Entrance to the room |  |  |
-| [[Den of the Necrophagist]] | (-343, -4, 388) | Up on the altar where [[Dread Exarch Mordek]] stands. |  |  |
+| [[Den of the Necrophagist]] | {{waypoint -343, -4, 388}} | Up on the altar where [[Dread Exarch Mordek]] stands. |  |  |
 | [[Mistmoore's Artifacts]] | [[Evernight Abbey]] | Royal Annex | {{waypoint 33, -5, -150}} | Small room opposite of the named / house item sarcophagus. |
 | (Unnamed Room) | {{waypoint -1, -17, -418}} | Unnamed sideroom where one of the 5 vampires is killed. |  |  |
 | (Unnamed Room) | {{waypoint -1, -16, -360}} | In the center, by [[Lord Marcus Thex]]. |  |  |

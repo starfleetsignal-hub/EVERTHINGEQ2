@@ -39,7 +39,7 @@ source:
 
 ## Geography
 
-To travel to this zone, use a Wizard Spire or go to [[Great Divide]] (Thurgadin Docks) using a [[Travel in Norrath|world-travel Globe]]. After you land, locate and hail the flight master with a griffon at 1,333 -540 405. You initially land in Scar Bridge but can add deeper locations later.
+To travel to this zone, use a Wizard Spire or go to [[Great Divide]] (Thurgadin Docks) using a [[Travel in Norrath|world-travel Globe]]. After you land, locate and hail the flight master with a griffon at {{waypoint 1333, -540, 405}}. You initially land in Scar Bridge but can add deeper locations later.
 
 ### Travel
 
@@ -66,8 +66,8 @@ In addition, a portal in Nipik's Haven leads to Fina's Retreat in Great Divide, 
 | Zone Name | Level Range | Direction | Access |
 |---|---|---|---|
 | [[Great Divide]] | 85-90 | North | Any snow griffin station |
-| [[Outer Kael]] | 90 | Southeast | via the door at -246 -278 4,484 |
-| [[The Fortress of Drunder]] | 90 | West | via the portal at 819 425 3,647<br>(requires flying mount)<br> |
+| [[Outer Kael]] | 90 | Southeast | via the door at {{waypoint -246, -278, 4484}} |
+| [[The Fortress of Drunder]] | 90 | West | via the portal at {{waypoint 819, 425, 3647}}<br>(requires flying mount)<br> |
 
 ### Revive Locations
 

@@ -42,7 +42,7 @@ source:
    - Place third crystal in the Ready Room - southwest corner of the room, left side of pillar {{waypoint 198, 158, -87}}
    - Place fourth crystal in the Ready Room - next to the second water bowl in from the east side {{waypoint 188, 157, -54}}
    - Find written orders on one of the Scaleborn warriors in the Ready Room. KIll a [[A Scaleborn Warrior]] for auto-update.
-1. Return to Kvikz at (2, 135, -231) inside the sanctum at the exit to the Tangle.
+1. Return to Kvikz at {{waypoint 2, 135, -231}} inside the sanctum at the exit to the Tangle.
 1. Complete the following tasks, in no particular order:
    - Kill [[A Scaleborn animator]] or [[Sslan'yiz the Animator]] {{waypoint -140, 135, 29}}
    - Kill [[A sentinel builder]] {{waypoint -140, 135, 29}}

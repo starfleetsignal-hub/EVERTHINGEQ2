@@ -48,7 +48,7 @@ source:
 - Scribe the recipe received from him after turning in the 12 [[Corilac iron heddle]].
 1. After clearing enough firesilk weavers, [[Elemy Elmonnier]] will spawn around {{waypoint 275, 68, 155}}.  Kill it. (See Bosses section below for more info.)
 1. Once Elemy dies, the message "A gaggle of searing scavengers descend upon an arm ablaze upon the cliffs of Cinder Heights!" will appear, signifying the spawning of the first doll part. {{waypoint 223, 80, 35}}
-1. If you can't see the doll part, continue collecting crates.  *(If you don't have enough crates, check that you got the weaver at ( 319, 113, 357 ) and ( 402, 113, 337 ).*
+1. If you can't see the doll part, continue collecting crates.  *(If you don't have enough crates, check that you got the weaver at {{waypoint 319, 113, 357}} and {{waypoint 402, 113, 337}}.*
 1. Clear goblins, imps, and slugs to spawn [[Burnard Backbreaker]].  Kill him.
 1. Once Burnard dies, the message "Another gaggle of searing scavengers descend upon a leg alighted near one of the burning looms!" appears for the second doll part. {{waypoint 318, 77, 125}}
 1. Return to Girunai for the pattern/recipe to reconstruct the doll.

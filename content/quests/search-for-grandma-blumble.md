@@ -37,7 +37,7 @@ This quest is part 3 of a 11-part quest series in the [[Thundering Steppes Timel
 ## Steps
 
 - Speak to [[Grandma Blumble]], a ghost on the east end of the beach in [[Nektulos Forest]] {{waypoint 571, 0, -4}}
-- Return to the Thundering Steppes and speak to Jacques who is standing next to a tent in the Antonica Station area 235 32 -1,030.
+- Return to the Thundering Steppes and speak to Jacques who is standing next to a tent in the Antonica Station area {{waypoint 235, 32, -1030}}.
 - This end **[[Watch your step in The Thundering Steppes, Part I]].**
 - Jacques gives you the next quest **[[Watch your step in The Thundering Steppes, Part II]].**
 

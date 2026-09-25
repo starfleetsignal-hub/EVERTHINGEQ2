@@ -57,7 +57,7 @@ source:
 1. Travel to [[The Bells of Vhalen]] in [[Antonica]] at {{waypoint -1300, 39, 47}} to release Hwal's grandfather from the family curse. Click the manhole cover on the floor of the tower to enter a one-room instance called [[Garanel's Resting Place]] whose sole occupant is [[The ghost of Garanel Rucksif]].
 1. Return to Hwal Rucksif.
 1. Obtain two items from the [[The Thundering Steppes]]:
-   - Leather from [[A mature antelope]], found by the Antonica Station Griffen Tower around {{waypoint 191, 2, -831}} or around 74 -2 1,245, {{waypoint 184, 1, 1330}} or {{waypoint 406, 12, -509}}.
+   - Leather from [[A mature antelope]], found by the Antonica Station Griffen Tower around {{waypoint 191, 2, -831}} or around {{waypoint 74, -2, 1245}}, {{waypoint 184, 1, 1330}} or {{waypoint 406, 12, -509}}.
      - Most of the monsters at these locations place-hold for each other, so if a mature antelope isn't up, then keep clearing creatures in these areas and one will eventually spawn.  Good place is where all the griffons are and the giant scouts.
      - If you find a group of 3-4 mature antelope with young antelope, you'd be best killing the mature and running off the rest. This ensures the mature antelope respawn, and quicker than the standard respawn timer.
    - A steel bar from [[A Firerock scout]], found around {{waypoint 895, -1, 531}}, {{waypoint 300, -1, 679}} or {{waypoint 913, -0.99, 541}}.

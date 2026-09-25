@@ -6,7 +6,7 @@ icon: images/Item_775.png
 item_level: '0'
 flags: lore no-trade no-value
 description: This is an extremely old piece of steel that appears to have been abandoned in this keep a very, very long time ago.
-obtained_from: Examine a weaponrack at in [[Crushbone Keep]] @ (2,25,-60) in the Hall of Tactics
+obtained_from: Examine a weaponrack at in [[Crushbone Keep]] @ {{waypoint 2, 25, -60}} in the Hall of Tactics
 starts_quest: '[[Gruedheim Steel]]'
 item_link: \aITEM 1601863447 -946381113:a piece of very old steel\/a
 categories:

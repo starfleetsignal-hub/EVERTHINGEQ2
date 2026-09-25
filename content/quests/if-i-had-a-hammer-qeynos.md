@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[Oakmyst Forest]]'
 timeline: '[[Crafting Tutorial Timeline]]'
 journal_category: Tradeskill
-starts: Talk to [[Henk Newfield]] in [[Oakmyst Forest]] at 991, 2, -349
+starts: Talk to [[Henk Newfield]] in [[Oakmyst Forest]] at {{waypoint 991, 2, -349}}
 prerequisite: '[[Tutorial: Learning to Harvest]]'
 next_quest: '[[Tutorial: Forging Ahead]]'
 in_game_name: If I Had A Hammer
@@ -42,7 +42,7 @@ expansion_source: patch
 1. Obtain [[Recipe: Lucky Wolf Paw Charm]] from the table.
 1. Obtain coal from the sack next to the table.
 1. Read the recipe to scribe it and craft a [[Lucky Wolf Paw]] charm. It requires 1 [[Tin cluster]] and 1 [[Lead cluster]].
-1. Visit [[Jason Merrytoe]], the tradeskill tutor in [[The City of Qeynos|North Qeynos]] 341.81, -20.63, -95.17 to learn more about crafting.
+1. Visit [[Jason Merrytoe]], the tradeskill tutor in [[The City of Qeynos|North Qeynos]] {{waypoint 341.81, -20.63, -95.17}} to learn more about crafting.
 
 ## Rewards
 

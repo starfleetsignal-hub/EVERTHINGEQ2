@@ -57,7 +57,7 @@ The first step is to inspect the bracelet placed in your inventory. Upon inspect
 1. This step of the quest is to purchase three items from various faction merchants in [[Rise of Kunark]] to turn in to [[Deacon Danerous]]. You will need to be able to purchase from [[Residents of Teren's Grasp (Faction)|Teren's Grasp]], [[Riliss (Faction)|Riliss]], and the [[Synod Reet (Faction)|Synod Reet]].
    - The item from [[Teren's Grasp]] is the [[Straightedge]] and it sells for 15g 42s 24c. {{waypoint 1735, 483, -1006}}
    - In [[Riliss (POI)|Riliss]], you will be buying the [[Grim Blade of Rile]] and it sells for 3p 8g 44s 80c. {{waypoint -764, 50, -212}}.
-   - From the [[Synod Reet (Faction)|Synod Reet]] you need to purchase the [[Krup Belt of Evasion]] and it sells for 15g 55s 20c 475, -97, 906.
+   - From the [[Synod Reet (Faction)|Synod Reet]] you need to purchase the [[Krup Belt of Evasion]] and it sells for 15g 55s 20c {{waypoint 475, -97, 906}}.
      - *Note:DO NOT PURCHASE THESE ITEMS UNTIL ON THIS PART OF THE QUEST or your quest will not update. This is true as of April 15, 2008. As of 2/8/09, if you did purchase these items before this you reached this step, you can sell the item to any vendor and buy it back. It will give you the update.*
 1. Return to [[Deacon Danerous]] in [[East Freeport]].
 1. [[Deacon Danerous]] will send you to [[North Qeynos]] area of [[Qeynos Capitol District]] to kill a Freeport Traitor, just to the South East of the Claymore, there is a General store marked on the map. Inside, right behind the baker, is a door to the instance [[Baker Voleen's Storeroom]] {{waypoint 287.16, -16.45, 35.12}}.

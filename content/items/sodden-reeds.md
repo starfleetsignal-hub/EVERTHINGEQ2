@@ -29,4 +29,4 @@ expansion: Scars of Destruction
 expansion_source: source
 ---
 
-There are lots of them around ( 69, 4, 626 )
+There are lots of them around {{waypoint 69, 4, 626}}

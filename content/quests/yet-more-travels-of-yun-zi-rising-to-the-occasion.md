@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[Yet more "Travels" of Yun Zi - ECHO ECHo ECho Echo echo]]'
 next_quest: '[[Yet more "Travels" of Yun Zi - More Moors]]'
 added_in: LU111

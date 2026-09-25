@@ -34,7 +34,7 @@ if one is out-leveled of zone, one will **NOT** receive chest drops. Mentor to 1
 
 Additionally, one is, conveniently *PREVENTED,* from using a Mercenary within this zone. So if you are a caster, plan accordingly, you will be here a VERY long time.
 
-- Zone into the event at ( 203.67, 66.33, -2.26 ).
+- Zone into the event at {{waypoint 203.67, 66.33, -2.26}}.
 - get close the groups that are fighting the non aggro mobs to get an increment of the buff, before you start killing the agro mobs on the lower floor first
   - *Note:ignore the non-agro mobs*
 - When you kill the last mob at the far end of the hall to the right or left, you will receive a crystal from a small chest. Place the crystal in the machine on the wall next to where the mob was.

@@ -39,7 +39,7 @@ These sword wielding spirits were unmatched in combat until I came along! Time t
 
 1. Kill 13 edge geists before time runs out (you have 4 minutes 20 seconds).
 
-There are some edge geists in the corridor to the north and south around -77,6,-12.
+There are some edge geists in the corridor to the north and south around {{waypoint -77, 6, -12}}
 There are more of them in the room centred on -114,6,-10. Note that time starts ticking away immediately.
 
 ## Rewards

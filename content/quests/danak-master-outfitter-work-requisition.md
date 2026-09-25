@@ -7,7 +7,7 @@ level: '80'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'
 journal_category: Tradeskill
-starts: Talk to [[Work Requisition Sergeant Zildrax]] at -187.50, -33.50, 1079.00
+starts: Talk to [[Work Requisition Sergeant Zildrax]] at {{waypoint -187.50, -33.50, 1079.00}}
 categories:
 - Faction Quests
 - Jarsath Wastes Quests

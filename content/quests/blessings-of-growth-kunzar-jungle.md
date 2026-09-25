@@ -6,7 +6,7 @@ expansion_source: category
 level: '25'
 zone: '[[Kunzar Jungle]]'
 journal_category: Kunzar Jungle
-starts: Gather a Blessing of Tunare from the blessed shrubbery inside the druid ring in Kunzar Jungle (loc -152, 2, -84).
+starts: Gather a Blessing of Tunare from the blessed shrubbery inside the druid ring in Kunzar Jungle {{waypoint -152, 2, -84}}.
 categories:
 - Kunzar Jungle Quests
 - Kunzar Jungle Solo Quests

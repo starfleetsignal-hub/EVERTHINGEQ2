@@ -8,7 +8,7 @@ level: '135'
 slot: blue
 flags: heirloom no-value
 effect_name: Shroud of Mettle
-effects: "- When Equipped:\n  - Reduces all damage done to caster by up to 4,811,943.\n  - Cannot be modified except by direct means"
+effects: "- When Equipped:\n  - Reduces all damage done to caster by up to {{waypoint 4, 811, 943}}\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 135) from [[Unbearable Shroud of Mettle (Unbearable)]]
 item_link: '\aITEM -1176742861 234576368:Formless Rune: Unbearable Shroud of Mettle\/a'
 categories:

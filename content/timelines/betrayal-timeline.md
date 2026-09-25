@@ -223,7 +223,7 @@ In each of the aligned cities of [[Norrath]], disaffected individuals can be fou
 - In [[Freeport]], speak with [[Ambassador Brutus]] in The Freeport Register building in [[East Freeport]]
 - In [[Kelethin]], speak with [[Saelir Varryn]] at {{waypoint 220, 112, 404}}
 - In [[Neriak, City of Hate]], speak with [[Matteus Gaines]] in [[New Foreign Quarter]]
-- In [[Gorowyn]], speak with Ambassador Zelzekla (/waypoint 2664, 66, 1171) and tell him you were thinking about moving elsewhere. Turn in the quest given to an NPC on the docks of TD and you will be placed in Exile and sent to Haven.
+- In [[Gorowyn]], speak with Ambassador Zelzekla {{waypoint 2664, 66, 1171}} and tell him you were thinking about moving elsewhere. Turn in the quest given to an NPC on the docks of TD and you will be placed in Exile and sent to Haven.
 - In [[New Halas]], speak with [[Ambassador Brynhilde Maersdottr]] at {{waypoint 90.06, 154.47, -163.68}} in the main part of New Halas town.
 
 ## Betraying Qeynos
@@ -312,7 +312,7 @@ You must raise your faction with the City of Qeynos to the point (10,000:Amiable
 
 - See: [[Qeynos Faction Timeline]]
 
-Once your faction with the [[Qeynos]] is at +10,000 (amiable) or higher, [[Gil McMartin]] will offer you a new quest to go talk to [[Field Marshall Vishra (Qeynos Capitol District)|Field Marshall Vishra]] inside [[The Soverign House of Qeynos]] ( 573, -14, 197 ) in South Qeynos, [[Qeynos Capitol District]]. At this point, the Qeynos guards are no longer hostile to you though you are not a citizen yet. (As of 4/27/15 I was not asked to go to Vishra, I was asked to go to Darion inside the Soverign House of Qeynos. He presented me with several options for response, all of which told me to go to the Temple of Life. However, once I finished the conversation line, the Becoming a Citizen of Qeynos quest completed and it sent me along to The Fulfillment of Dreams quest.)
+Once your faction with the [[Qeynos]] is at +10,000 (amiable) or higher, [[Gil McMartin]] will offer you a new quest to go talk to [[Field Marshall Vishra (Qeynos Capitol District)|Field Marshall Vishra]] inside [[The Soverign House of Qeynos]] {{waypoint 573, -14, 197}} in South Qeynos, [[Qeynos Capitol District]]. At this point, the Qeynos guards are no longer hostile to you though you are not a citizen yet. (As of 4/27/15 I was not asked to go to Vishra, I was asked to go to Darion inside the Soverign House of Qeynos. He presented me with several options for response, all of which told me to go to the Temple of Life. However, once I finished the conversation line, the Becoming a Citizen of Qeynos quest completed and it sent me along to The Fulfillment of Dreams quest.)
 
 **[[Field Marshall Vishra (Qeynos Capitol District)|Field Marshall Vishra]]** outside the [[Concordium Tower]] in [[South Qeynos]]
 
@@ -327,7 +327,7 @@ You must raise your faction with the City of Freeport to the point (10,000:Amiab
 
 - See: [[Freeport Faction Timeline]]
 
-Once your faction reaches 10,000 or higher, [[Gol M'Tun]] will offer you a new quest to go talk to [[Matthias Siegemaker]] ( -82,-7,-183 ) in the [[Temple of War]] in [[North Freeport]]. At this point, the Freeport guards are no longer hostile to you though you are not a citizen yet.
+Once your faction reaches 10,000 or higher, [[Gol M'Tun]] will offer you a new quest to go talk to [[Matthias Siegemaker]] {{waypoint -82, -7, -183}} in the [[Temple of War]] in [[North Freeport]]. At this point, the Freeport guards are no longer hostile to you though you are not a citizen yet.
 
 **[[Matthias Siegemaker]]** in the [[Temple of War]] in [[North Freeport]]
 
@@ -357,7 +357,7 @@ Once you raise your faction with [[Kelethin]] to the point (10,000:Amiable), you
 
 ## Earning Acceptance with [[Neriak, City of Hate]]
 
-Once you have completed the Betrayal quests and have been sent to [[Haven]], go to [[Darklight Wood]] and talk to [[Phaerdriira Z'Zea'Val]] at {{waypoint -402, -50, -8}} or [[Drizas N'Ryt]] at {{waypoint -397, -50, 6}} to start the [[Neriak, City of Hate]] citizenship quests. Phaerdriira gives you several quests one after another, and Drizas will give you a choice between six repeatable faction quests that can only be taken one at a time. The requirements for these repeatable quests are random for each repetition.  These quests all scale to match your current level.  The mobs for the quests that Phaerdriira offers also scale to your level, but the mobs for the repeatable quests that Drizas offers do not scale. NOTE: After getting 10,000 faction I had to switch to the quests for acceptance into Freeport by talking to the Freeport representative in Antonica (-30, 0, -55) because the citizenship ambassador in Neriak would not talk to me.
+Once you have completed the Betrayal quests and have been sent to [[Haven]], go to [[Darklight Wood]] and talk to [[Phaerdriira Z'Zea'Val]] at {{waypoint -402, -50, -8}} or [[Drizas N'Ryt]] at {{waypoint -397, -50, 6}} to start the [[Neriak, City of Hate]] citizenship quests. Phaerdriira gives you several quests one after another, and Drizas will give you a choice between six repeatable faction quests that can only be taken one at a time. The requirements for these repeatable quests are random for each repetition.  These quests all scale to match your current level.  The mobs for the quests that Phaerdriira offers also scale to your level, but the mobs for the repeatable quests that Drizas offers do not scale. NOTE: After getting 10,000 faction I had to switch to the quests for acceptance into Freeport by talking to the Freeport representative in Antonica {{waypoint -30, 0, -55}} because the citizenship ambassador in Neriak would not talk to me.
 
 **[[Phaerdriira Z'Zea'Val]]** <Neriak Contact> - Quest Chain
 

@@ -55,7 +55,7 @@ I finally cornered the scrawny, albino goblin who I kept seeing running around M
    - Click 5 times to get the updates*<nowiki/>*
 1. Return to [[Toadwart]].
 
-( 527, 130, 438 )
+{{waypoint 527, 130, 438}}
 
 ## Rewards
 

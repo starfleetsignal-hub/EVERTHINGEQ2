@@ -49,17 +49,17 @@ The zone where this quest begins, High Keep: The Bloodless Incursion [Contested]
 known locations:
 
 - {{waypoint -163, -148, -210}}
-- ( -133, -145, -208 ) COPY
-- ( -94, -145, -183 ) COPY
-- ( -86, -128, -87 ) COPY
-- ( -117, -128, -97 ) COPY
-- ( -119, -128, -78 ) COPY
-- ( -143, -128, -88 ) COPY
-- ( -145, -128, -150 ) COPY
-- ( -125, -128, -142 ) COPY
-- ( -75, -132, -36 ) COPY
-- ( -69, -128, -62 ) COPY
-- ( -31, -119, -89 ) COPY
+- {{waypoint -133, -145, -208}} COPY
+- {{waypoint -94, -145, -183}} COPY
+- {{waypoint -86, -128, -87}} COPY
+- {{waypoint -117, -128, -97}} COPY
+- {{waypoint -119, -128, -78}} COPY
+- {{waypoint -143, -128, -88}} COPY
+- {{waypoint -145, -128, -150}} COPY
+- {{waypoint -125, -128, -142}} COPY
+- {{waypoint -75, -132, -36}} COPY
+- {{waypoint -69, -128, -62}} COPY
+- {{waypoint -31, -119, -89}} COPY
 1. Return to the Captain in the Iron Maiden in the jail room at {{waypoint -181, -149, -201}}. He tells you to find something to spawn Higginsbot. That is a shiny book next to Thrott upstairs explained in the next quest.
 
 ## Reward

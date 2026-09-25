@@ -6,7 +6,7 @@ race: Devourer
 level: '80'
 difficulty: Solo
 zone: '[[Jarsath Wastes]]'
-location: '[[Skyfire Mountains]] (-1389, 218, 151)'
+location: '[[Skyfire Mountains]] {{waypoint -1389, 218, 151}}'
 aggressive: true
 social: true
 added_in: Rise of Kunark

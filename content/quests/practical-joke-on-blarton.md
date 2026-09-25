@@ -32,7 +32,7 @@ source:
 
 ## Steps
 
-1. Speak to [[Blarton Blumble]] in [[Windstalker Village]]. -1,829 -38 -541
+1. Speak to [[Blarton Blumble]] in [[Windstalker Village]]. {{waypoint -1829, -38, -541}}
    - While you are in Windstalker Village, speak again to [[Blarton Blumble]] to start his own set of quests, which begins with [[Lucky Lure]].
 1. Return to [[Haddek Vimki]] for your reward.
 

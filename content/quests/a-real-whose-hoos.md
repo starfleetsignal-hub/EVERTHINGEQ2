@@ -38,7 +38,7 @@ source:
 1. Gather and Hunt the following
    - ![Melon Radish](images/Melon_Radish.jpg)Gather 8 Melon Radishes. (group-wide update) These can be difficult to spawn, some possible locations include: **NOTE:** I had to zoom in to see them. Toggle Night Vision on. You'll see them readily but Ultravision will not assist.
      - {{waypoint -171, 153, 208}};  {{waypoint -256, 120, 242}}
-     - {{waypoint -306, 98, 206}}; -343. 114. 135
+     - {{waypoint -306, 98, 206}}; {{waypoint -343, 114, 135}}
      - {{waypoint -407.54, 66.49, 152.20}}; {{waypoint -430.88, 72.62, 120.51}}
      - {{waypoint -476.38, 78.92, 93.98}}; {{waypoint -478.42, 82.92, 74.71}}
      - {{waypoint -498.15, 96.82, 23.02}}; {{waypoint -568.46, 97.89, 168.51}}

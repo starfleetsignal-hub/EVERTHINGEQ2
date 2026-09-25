@@ -36,7 +36,7 @@ source:
 ## Steps
 
 1. Catalogue a number of inhabitants of [[Doomfire, the Burning Lands]]:
-   - Catalogue [[A fiery spirit]] in the [[Charred Cemetery]] around 25.59 10.13 69.75 28.09 0.00 0.00
+   - Catalogue [[A fiery spirit]] in the [[Charred Cemetery]] around {{waypoint 25.59, 10.13, 69.75}}
    - Catalogue [[A fire wasp]] in the [[Scorch Steppes]] around {{waypoint 57.01, 62.54, 290.55}}
    - Catalogue [[An elemental shambler]] on the [[Elemental Mesa]] around {{waypoint 243.44, 84.46, 333.60}}
    - Catalogue [[An inferno fiend]] on the [[Elemental Mesa]] around {{waypoint 243.44, 84.46, 333.60}}

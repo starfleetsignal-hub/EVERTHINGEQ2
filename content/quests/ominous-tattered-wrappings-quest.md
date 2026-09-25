@@ -33,7 +33,7 @@ source:
 ## Steps
 
 1. Kill 15 [[Ironshell snappers]] {{waypoint 425.44, -8.83, -419.03}} in the [[Minstrel's Cradle]] area of [[Aether Wroughtlands]].
-1. Real location is (686.90, 2.54, -293.19)
+1. Real location is {{waypoint 686.90, 2.54, -293.19}}
 
 ## Rewards
 

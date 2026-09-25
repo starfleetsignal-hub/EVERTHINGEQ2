@@ -24,7 +24,7 @@ Note: This timeline is for the zone also known as Outer Kael Drakkel, or Contest
 ### [[Caerwyn Thomlin]]
 
 1. [93] [[A Big Entrance]]
-1. [95] Josiah Lindon (-969, 76, -972) within the Ragebourne Base Camp,
+1. [95] Josiah Lindon {{waypoint -969, 76, -972}} within the Ragebourne Base Camp,
    - [[A Base of Operations]] Is part of [[Caerwyn Thomlin]]'s series.
 1. Teleporter Access Quests
    - [95] [[The Ragebourne Network: Old Kael]]

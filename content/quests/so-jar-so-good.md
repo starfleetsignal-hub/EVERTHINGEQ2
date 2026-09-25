@@ -41,7 +41,7 @@ source:
      - {{waypoint 50.84, -0.79, 26.18}} (Full Jar)
      - {{waypoint -2.37, -0.79, 31.23}} (Full Jar)
      - {{waypoint 75.53, -15.41, 76.06}} (Empty Jar)
-     - (120, -15, 124)         (Empty Jar)
+     - {{waypoint 120, -15, 124}}         (Empty Jar)
      - {{waypoint 187.87, -15.47, 97.10}} (Empty Jar)
      - {{waypoint 228.69, -15.49, 74.87}} (Empty Jar)
      - {{waypoint 226.73, -15.49, 56.16}} (Empty Jar)

@@ -36,9 +36,9 @@ source:
 ![Interesting rock from Zek](images/Interesting_rock_Zek.png)
 
 1. Travel to [[Zek, the Orcish Wastes]]
-1. Collect  3 samples from Blood Ore Valley 293.66 12.34 -152.01 288.92 0.00 0.00
-1. Collect 3 samples from Mythical Forest -325.64 -32.74 14.10 67.12 0.00 0.00
-1. Collect 3 samples from Deathfist Lookout -23.15 75.23 -367.42 147.13 0.00 0.00
+1. Collect  3 samples from Blood Ore Valley {{waypoint 293.66, 12.34, -152.01}}
+1. Collect 3 samples from Mythical Forest {{waypoint -325.64, -32.74, 14.10}}
+1. Collect 3 samples from Deathfist Lookout {{waypoint -23.15, 75.23, -367.42}}
 1. Return to [[Bao Bao]] in Sundered Frontier.
 
 ## Rewards:

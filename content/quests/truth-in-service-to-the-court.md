@@ -46,7 +46,7 @@ source:
    - Kill [[Dustwhip scorpion|dustwhip scorpions]] to get three venom sacs.
    - Kill [[A skeletal cobra|skeletal cobras]] to get three venon sacs. {{waypoint -383, -77, -412}}
 1. The next part will ask you to kill two mobs. They may include the following:
-   - Kill two [[An Anaz Mal diviner|Anaz Mal diviners]] -362 -131 -1,035
+   - Kill two [[An Anaz Mal diviner|Anaz Mal diviners]] {{waypoint -362, -131, -1035}}
    - Kill two creatures called, simply, [[A mummy]]. Ensure you kill 'a mummy', and not any other kind of mummy.
    - Kill two [[A Sandscrawler thief|Sandscrawler thieves]].
    - Kill three [[A dry bones skeleton|dry bones skeletons]].

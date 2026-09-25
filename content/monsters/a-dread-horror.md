@@ -4,6 +4,7 @@ type: monster
 expansion: Blood of Luclin
 level: '114'
 zone: '[[The Blinding]]'
+location: '{{waypoint -468.74, 56.48, 665.88}}'
 aggressive: true
 added_in: Blood of Luclin
 categories:

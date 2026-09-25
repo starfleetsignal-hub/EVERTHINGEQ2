@@ -5,7 +5,7 @@ level: '88'
 zone: '[[The Stonebrunt Highlands]]'
 timeline: '[[The Stonebrunt Highlands Timeline]]'
 journal_category: The Stonebrunt Highlands
-starts: Speak with [[Lionnaeus]]. -904, 482 382
+starts: Speak with [[Lionnaeus]]. {{waypoint -904, 482, 382}}
 prerequisite: '[[Bone Dust is a Must]]'
 next_quest: '[[Abandoned But Not Useless]]'
 added_in: LU56
@@ -33,7 +33,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Search the barrels found throughout the [[Abandoned Kejek Village]] for supplies (eight updates).  Look for two around -958, 528, 600 and two more around -942, 519, 547, one at -1073, 535, 513 one at -1061, 532, 588, one at -1041, 534, 569.  By the time you finish killing the local aggro on the 2nd set, the first two may have respawned already.  The barrels with the supplies *may* be marked with an orange color, and are re-searchable after a few minutes (i.e. if you only find a few barrels to update the quest, you can revisit them later).
+1. Search the barrels found throughout the [[Abandoned Kejek Village]] for supplies (eight updates).  Look for two around {{waypoint -958, 528, 600}} and two more around {{waypoint -942, 519, 547}} one at {{waypoint -1073, 535, 513}} one at {{waypoint -1061, 532, 588}} one at {{waypoint -1041, 534, 569}}.  By the time you finish killing the local aggro on the 2nd set, the first two may have respawned already.  The barrels with the supplies *may* be marked with an orange color, and are re-searchable after a few minutes (i.e. if you only find a few barrels to update the quest, you can revisit them later).
 1. Return to Lionnaeus.
 
 ## Rewards

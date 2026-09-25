@@ -41,7 +41,7 @@ source:
 
 ### Dungeons
 
-The Unknown Dungeons are unlocked by doing the quest from Derlak: ( -286.49, 25.17, -28.16 ).{|
+The Unknown Dungeons are unlocked by doing the quest from Derlak: {{waypoint -286.49, 25.17, -28.16}}.{|
 ! Dungeon Name
 ! Level Range
 ! Target Audience

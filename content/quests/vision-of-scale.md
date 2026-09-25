@@ -55,7 +55,7 @@ source:
      - *Note: Depending on how tough you are, there are two ways to clear this instance:*
        1. *Kill all the mobs after you climbed up. Go up to Harla'Dar and stay on the edge to get to the devotees on the outer ring, and then kill the named.*
        1. *Climb up, go up to the named, and just pull the named, every trash mob will come to the named.*
-1. Wake up from the vision. Use the exit on the north wall on the top floor at 10, 122, 266.
+1. Wake up from the vision. Use the exit on the north wall on the top floor at {{waypoint 10, 122, 266}}.
 1. Return to Harla Dar.
 
 ## Rewards

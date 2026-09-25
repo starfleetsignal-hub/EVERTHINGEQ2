@@ -6,7 +6,7 @@ race: Golem
 level: '53'
 difficulty: Heroic ^^^
 zone: '[[Klak''Anon]]'
-location: Northwest corner of [[The Ore Extraction Site]]
+location: Northwest corner of [[The Ore Extraction Site]] {{waypoint 156, -14, -139}}
 aggressive: true
 added_in: Echoes of Faydwer
 categories:

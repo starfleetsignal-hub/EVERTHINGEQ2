@@ -48,7 +48,7 @@ source:
    - 3 [[Succulent root|succulent roots]], found throughout the Pillars of Flame.
      - This step will update off any succulent roots you have in the bank, however you will need three in your direct inventory for the next step to update properly.
    - 5 [[Steelslave war totem|Steelslave war totems]], uncommon body drops from Steelslave Orcs, or other Rujarkian affiliated orc clans throughout the continent ([[The Clefts of Rujark]], [[The Sinking Sands]] and [[The Pillars of Flame]]). "Steelcrown Orcs" can be found relatively near to Old Master Kakaru at {{waypoint 600, -110, -410}}.
-   - 1 [[Indium infused stone]], body drops from [[Category:The Sandscrawlers (Faction)|Sandscrawler goblins]]. 158.24 -97.51 -1,069.89
+   - 1 [[Indium infused stone]], body drops from [[Category:The Sandscrawlers (Faction)|Sandscrawler goblins]]. {{waypoint 158.24, -97.51, -1069.89}}
 1. Return to Old Master Kakaru. As mentioned above, you MUST have all the required items in your inventory for this step to update.
 1. Wait for Old Master Kakaru to craft the spirit vessel (this takes a minute or two), then hail him to receive it.
 1. Head to [[Pirate's Perch]] in the Sinking Sands to find the burial mound of Nukhatam, where you must bind his spirit to the spirit vessel. The stairs to climb the cliff are located at {{waypoint -2014, -230, 8}} and the burial mound is found at {{waypoint -2077, -152, 5}}. [[Spirit of Nukhatam]] will spawn, slay it to receive [[Bound Spirit Vessel]].

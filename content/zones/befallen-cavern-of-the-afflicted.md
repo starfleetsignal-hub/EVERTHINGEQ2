@@ -41,4 +41,4 @@ The zombies at the bottom of the well stop respawning after a statue in the near
 
 [[The Everburning Soul]] Can be pulled cleanly when the skeletons in his room depop. If you kill them they repop instantly. The Name has fear, knockback and mana drain.
 
-The key for the shard chest will drop from [[A theiving jesterling]], which is a very small, invisible mob found in the back-left corner of the room containing the second Maledictive terror. Spawn point is at 29, -64, -137 in the Armory.  He is easily missed in the mayhem of the fight!
+The key for the shard chest will drop from [[A theiving jesterling]], which is a very small, invisible mob found in the back-left corner of the room containing the second Maledictive terror. Spawn point is at {{waypoint 29, -64, -137}} in the Armory.  He is easily missed in the mayhem of the fight!

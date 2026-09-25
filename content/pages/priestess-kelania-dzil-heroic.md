@@ -10,4 +10,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-/waypoint -412.86, -11.45, -24.66
+{{waypoint -412.86, -11.45, -24.66}}

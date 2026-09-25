@@ -10,6 +10,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Located all around the Blinding area where you first enter the zone.  Down the ramp to /way 514, 289, -589.  They're floating all over the area.
+Located all around the Blinding area where you first enter the zone.  Down the ramp to {{waypoint 514, 289, -589}}  They're floating all over the area.
 
 Yes, travel down the spiral to the lowest level and just start hunting!

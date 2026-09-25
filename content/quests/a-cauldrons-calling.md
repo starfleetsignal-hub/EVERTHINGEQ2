@@ -39,7 +39,7 @@ source:
    - [[Crysta's Bedroom]] {{waypoint 45, 14, -73}}
    - Bedroom {{waypoint -27, 14, -28}}
    - Basement storage rooms {{waypoint -50, -13, -46}} and {{waypoint -21, -13, -38}}
-1. Examine cauldron again.( /waypoint -24, 14, 33 )
+1. Examine cauldron again.{{waypoint -24, 14, 33}}
 - At least 55s
 - One of the following:
   - [[Flail of threshing]]

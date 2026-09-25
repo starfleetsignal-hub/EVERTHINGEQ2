@@ -30,4 +30,4 @@ source:
 - [[Can I Keep It?]]
 - [[I Want All of Them!]]
 
-Next to the griffin tamer at the new combine foothold in The Withered Lands (-3676, -782, -201)
+Next to the griffin tamer at the new combine foothold in The Withered Lands {{waypoint -3676, -782, -201}}

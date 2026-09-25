@@ -39,7 +39,7 @@ All the following monsters can be found in [[The Thundering Steppes]].
 
 1. Kill 5 [[An animated scarecrow|animated scarecrow]]s or [[An enraged strawwalker|enraged strawwalker]]s at the [[Fallow Farmlands]]  around {{waypoint 413, 2, -732}}.
 1. Read the book.
-1. Kill 6 sirens (any type; [[An alluring siren|alluring]], [[An entrancing siren|entrancing]], or [[An irresistible siren|irresistible]]).  Some are swimming around (-102 -25, -988).
+1. Kill 6 sirens (any type; [[An alluring siren|alluring]], [[An entrancing siren|entrancing]], or [[An irresistible siren|irresistible]]).  Some are swimming around {{waypoint -102, -25, -988}}.
 1. Read the book.
 1. Kill revenants in the [[Dead River Basin]] around {{waypoint 356, -22, 259}}.
    - 6 [[A revenant soldier|revenant soldier]]s.

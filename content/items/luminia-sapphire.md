@@ -28,4 +28,4 @@ expansion: Planes of Prophecy
 expansion_source: source
 ---
 
-Located in the crevices (blue) at around ( 525, 29, -822 ) or ( 238, 110, -128 )
+Located in the crevices (blue) at around {{waypoint 525, 29, -822}} or {{waypoint 238, 110, -128}}
