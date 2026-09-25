@@ -16,7 +16,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Chain Armor
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 76.\n    - Increases power of caster by 119.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1735899960 1505931161:Sapping Storm Gloves\/a
 categories:
 - Assassin Equipment

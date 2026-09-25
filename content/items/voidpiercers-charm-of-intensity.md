@@ -18,7 +18,8 @@ stats:
   resolve: '150'
   abmod: +38,666
   vselemental: +133,690
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 33.3.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 119) from [[Advanced Jeweler Studies 19]]
 item_link: \aITEM -2142176925 415458148:Voidpiercer's Charm of Intensity\/a
 categories:

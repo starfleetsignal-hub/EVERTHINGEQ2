@@ -16,7 +16,8 @@ stats:
   multi: '33.6'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1391341334 1324964338 0 0 0:Platemail Gauntlets of the Warmaster\/a
 categories:
 - Berserker Equipment

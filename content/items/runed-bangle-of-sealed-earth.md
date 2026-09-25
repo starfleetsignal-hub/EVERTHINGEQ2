@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   vselemental: '+473'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: Sold by [[Supply Master Essa'Mae]] (Faction Merchant) in [[The Hole]]<br>Requires 30,000 faction with Defenders of the Seal
 item_link: \aITEM 790302295 1974300103:Runed Bangle of Sealed Earth\/a
 categories:

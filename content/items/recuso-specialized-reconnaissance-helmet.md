@@ -10,7 +10,8 @@ flags: attunable heirloom
 stats:
   mit: '939'
   dtype: Cloth Armor
-effects: '**Perceptive Scan**'
+effect_name: Perceptive Scan
+effects: "- Applies Perceptive Scan when Equipped.\n  - Increases rare harvest chance by 20.8%.\n  - Increases Shadow Prospecting of caster by 8.0.\n  - Increases Fishing, Foresting, Gathering, Mining and Trapping of caster by 35.0.\n  - Increases STA of caster by 4,000.0.\n  - Increases AGI of caster by 1,200.0.\n  - Increases INT of caster by 1,200.0.\n  - Increases STR of caster by 1,200.0.\n  - Increases WIS of caster by 1,200.0.\n  - Increases Potency of caster by 2,500.0.\n  - Increases Resolve of caster by 175.0.\n  - Increases Max Health of caster by 25.0%.\n  - Increases Max Health of caster by 250,000.0.\n  - Increases Max Power of caster by 40,000.0."
 obtained_from: Sold by [[Gwennie]] in [[The Bazaar]]
 item_link: \aITEM 2044845579 758471522:Recuso Specialized Reconnaissance Helmet\/a
 categories:

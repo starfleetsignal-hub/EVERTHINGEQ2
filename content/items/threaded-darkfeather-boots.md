@@ -16,7 +16,8 @@ stats:
   critbonus: '1.6'
   potency: '7'
   dtype: Leather Armor
-effects: '**Furious Blows**'
+effect_name: Furious Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 12.0.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Sehesh]] in [[Paineel]] for [[Sandals of Might and Mind]] and 30 [[Seal of Arad|Seals of Arad]]
 item_link: \aITEM -1994759852 156677221:Threaded Darkfeather Boots\/a
 categories:

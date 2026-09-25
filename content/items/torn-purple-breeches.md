@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   multi: '7.3'
   dtype: Cloth Armor
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1267669580 -56916774:Torn Purple Breeches\/a
 categories:
 - Assassin Equipment

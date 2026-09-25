@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Anarchy**'
+effect_name: Anarchy
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Anarchy on target of attack.  Lasts for 1.5 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 269 magic damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 978734033 894647606:Scepter of Destruction\/a
 categories:
 - Anarchy (Equipment)

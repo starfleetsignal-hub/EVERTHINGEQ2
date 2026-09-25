@@ -16,7 +16,8 @@ stats:
   dps: '55.4'
   multi: '19.4'
   dtype: Leather Armor
-effects: '**The Hound''s Blade**'
+effect_name: The Hound's Blade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast The Hound's Blade on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,276 - 7,643 slashing damage on target\n    - Heals caster for 1,638 - 3,822\n    - Decreases STR, AGI and INT of target by 500.0.\n    - Increases AGI, STR and INT of caster by 100.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -41344593 -1435565739:Razor Horned Skull-Cap of Dawn\/a
 categories:
 - Assassin Equipment

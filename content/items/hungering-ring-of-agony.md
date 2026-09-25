@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +21,632
-effects: '**Hunger for Agony**'
+effect_name: Hunger for Agony
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus and Potency based on the number of increments of Hunger for Agony. 0: -8 Crit Bonus/Potency. 1: -5 Crit Bonus/Potency. 2: -3 Crit Bonus/Potency. 3: 0 Crit Bonus/Potency. 4: 20 Crit Bonus/Potency. 5: 31 Crit Bonus/Potency\n  - On any combat or spell hit this spell may cast Hunger for Agony III on caster.  Lasts for 2 minutes.  Triggers about 1.0 times per minute.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -706193073 974936669:Hungering Ring of Agony\/a
 categories:
 - Arcane Resistance (Equipment)

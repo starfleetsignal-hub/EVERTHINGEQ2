@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Mirage**'
+effect_name: Mirage
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Mirage on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 obtained_from: '[[Hold on to the Phylactery]]'
 item_link: \aITEM -1289136960 1509580062:Slythe's Bow of Flimflam\/a
 categories:

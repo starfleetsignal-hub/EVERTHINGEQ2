@@ -18,7 +18,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 120 - 199 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 624198836 332771629:Slime-Coated Spikes\/a
 aliases:
 - Slime-Coated Spikes (Level 50)

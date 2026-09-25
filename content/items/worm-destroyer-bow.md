@@ -18,7 +18,7 @@ stats:
   drating: '91.7'
   range: 2-25
   wtype: Bow
-effects: Draconic Wrath
+effects: "- When Equipped:\n  - On a successful attack this spell will cast **Darconic Wrath** on target of attack.\n    - Inflicts 27-33 divine damage on target\n      - If target is draconic"
 categories:
 - Assassin Equipment
 - Bard Equipment

@@ -17,7 +17,8 @@ stats:
   resolve: '485'
   cbovercap: '+1537.3'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Monumental Task]]'
 item_link: \aITEM -45791830 1228491106:Ice Encrusted Kite Shield of Force\/a
 categories:

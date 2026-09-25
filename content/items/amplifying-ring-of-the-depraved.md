@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 77%-152.8%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 obtained_from: From the Exquisite Chest of [[The Crumbling Icon]]
 item_link: \aITEM -2032868107 -1186602730:Amplifying Ring of the Depraved\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Chain Armor
-effects: '**Lesser Overflow**'
+effect_name: Lesser Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 14% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members (AE) for 164.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1185563200 -1206331248:Frostbitten Chain Boots\/a
 categories:
 - Assassin Equipment

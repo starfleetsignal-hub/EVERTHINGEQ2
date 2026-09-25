@@ -16,7 +16,8 @@ stats:
   potency: '1'
   abmod: '+25'
   dtype: Plate Armor
-effects: '**Structural Anguish**'
+effect_name: Structural Anguish
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Structural Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals caster for 340.\n    - Increases Defense of caster by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Structural Anguish on caster.  Lasts for 15.0 seconds.  Triggers about 10.0 times per minute.\n    - Heals caster for 340.\n    - Increases Defense of caster by 25.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1521959885 -468260363:Weakened Gauntlets of Tireless Delving\/a
 categories:
 - Ability Modifier (Equipment)

@@ -25,7 +25,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Arcane Rending**<br>**Attunement to Earth**'
+effect_name: Arcane Rending, Attunement to Earth
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,819 magic damage on target instantly and every second.\n    - Inflicts an additional 47 magic damage on target every tick.\n    - Cannot be modified except by direct means\n- Applies Attunement to Earth when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Earth is 10.0 seconds"
 item_link: \aITEM -1479347851 -1538960569:Fabled Fanatical Bow of Bloodsplattering\/a
 categories:
 - Arcane Rending (Equipment)

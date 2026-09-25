@@ -18,7 +18,8 @@ stats:
   resolve: '16'
   dps: '59.3'
   dtype: Tower Shield
-effects: '**Trained to Battle**'
+effect_name: Trained to Battle
+effects: "- When Equipped:\n  - Thermal Depletion will siphon Fervor to the caster.\n  - Etherflash will grant Potency to the caster and the caster's friendly target.\n  - Terrene Destruction will increase the casters Crit Bonus and Crit Bonus Overcap.\n  - Adds a combat mitigation reduction to Toxic Life.\n  - On any combat or spell hit this spell may cast Trained to Battle on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 6,602 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Warriors Call: Volume I]]'
 item_link: \aITEM 1588286301 1257597508:Towershield of the Protectors\/a
 categories:

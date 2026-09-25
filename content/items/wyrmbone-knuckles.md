@@ -21,7 +21,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Courageous Charge**'
+effect_name: Courageous Charge
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 33% chance to cast Courageous Charge on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 2,648 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - On a hostile spell hit this spell has a 33% chance to cast Courageous Charge on target of spell.\n    - Inflicts 2,648 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 528827325 518934019:Wyrmbone Knuckles\/a
 categories:
 - Attack Speed (Equipment)

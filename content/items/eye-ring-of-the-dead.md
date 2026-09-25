@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Eye of Drinal**'
+effect_name: Eye of Drinal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Eye of Drinal IV on target of attack.  Lasts for 15.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 140,800 divine damage on target.\n    - Inflicts 105,600 divine damage on target every 3 seconds.\n    - Increases Potency of caster by 28.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -497394579 -1057618766:Eye Ring of the Dead\/a
 categories:
 - Arcane Resistance (Equipment)

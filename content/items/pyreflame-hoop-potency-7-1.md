@@ -16,7 +16,8 @@ stats:
   aspeed: '9.3'
   dps: '15.9'
   vselemental: +1,256
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1969728895 2078400041:Pyreflame Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

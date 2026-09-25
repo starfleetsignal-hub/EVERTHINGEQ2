@@ -15,7 +15,8 @@ stats:
   potency: '8.6'
   dps: '21.9'
   vselemental: +1,551
-effects: '**Perfectly Executed Combination**'
+effect_name: Perfectly Executed Combination
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Perfectly Executed Combination on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 1000.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Perfectly Executed Combination on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' next spell or combat art by up to 1000.\n    - Dispelled when target casts a hostile spell\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1160909714 -1694226873:Frozen Ice Crystal Earrings\/a
 categories:
 - AE Autoattack Chance (Equipment)

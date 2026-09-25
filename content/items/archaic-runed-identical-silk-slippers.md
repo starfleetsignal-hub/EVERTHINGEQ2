@@ -16,7 +16,8 @@ stats:
   potency: '7'
   multi: '11.5'
   dtype: Cloth Armor
-effects: '**Excess Energy**'
+effect_name: Excess Energy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Excess Energy on caster.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 94 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -825797121 -1165768079:Archaic Runed Identical Silk Slippers\/a
 categories:
 - Census Credits

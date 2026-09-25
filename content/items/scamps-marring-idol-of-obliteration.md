@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Obliterate**'
+effect_name: Obliterate
+effects: "- Applies Obliterate II when Activated.\n  - Inflicts 580,800 crushing damage on targets in Area of Effect.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Obliterate II is 30.0 seconds"
 item_link: \aITEM 755277541 1803106403:Scamp's Marring Idol of Obliteration\/a
 categories:
 - Assassin Equipment

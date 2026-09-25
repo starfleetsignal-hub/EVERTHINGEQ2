@@ -15,7 +15,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   aspeed: '7.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1360668941 -584708656:Band of the Enduring Challenge\/a
 image: images/Band_of_the_Enduring_Challenge.png
 categories:

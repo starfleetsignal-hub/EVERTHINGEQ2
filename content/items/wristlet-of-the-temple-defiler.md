@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Elemental Eruption**'
+effect_name: Elemental Eruption
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Eruption on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - On death this spell will cast Elemental Eruption on caster.\n      - Inflicts 370,440 cold damage on targets in Area of Effect.\n      - Cannot be modified except by direct means\n      - Grants a total of 1 trigger of the spell.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 365895917 -390555967:Wristlet of the Temple Defiler\/a
 categories:
 - AE Autoattack Chance (Equipment)

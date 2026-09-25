@@ -13,7 +13,8 @@ stats:
   drating: '75.25'
   dtype: Dual Wield Crushing
   wtype: Crushing
-effects: '**Crush of the Hua Mein Monk**'
+effect_name: Crush of the Hua Mein Monk
+effects: "- Applies Crush of the Hua Mein Monk when Activated.\n  - Shapechanges the user into a Hua Mein Monk.\n  - The casting time of Crush of the Hua Mein Monk is 3.0 seconds and the reuse time of the spell is 10.0 seconds"
 obtained_from: Sold by [[Ra'di]] (Faction Merchant) in [[The Sundered Frontier]]
 item_link: \aITEM 48355949 -1532505388:Mace of the Hua Mein Monk\/a
 categories:

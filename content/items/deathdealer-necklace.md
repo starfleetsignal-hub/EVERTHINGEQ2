@@ -11,7 +11,8 @@ stats:
   sta: '+57'
   int: '+57'
   crit: '2'
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1421827317 712474558:Deathdealer Necklace\/a
 categories:
 - Census Credits

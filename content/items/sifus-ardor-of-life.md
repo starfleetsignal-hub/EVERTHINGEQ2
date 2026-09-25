@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   multi: '17'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -1440080019 -1008865839 0 0 0:Sifu's Ardor of Life\/a
 categories:
 - Block Chance (Equipment)

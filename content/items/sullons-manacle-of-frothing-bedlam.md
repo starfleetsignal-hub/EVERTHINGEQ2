@@ -15,7 +15,8 @@ stats:
   potency: '12.6'
   multi: '21.6'
   dtype: Leather Armor
-effects: '**Ward of War**'
+effect_name: Ward of War
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ward of War on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards group members (AE) against 5,500 points of all damage\n    - Gives target an extra 2.0% mitigation to their worn armor.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Ward of War on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards group members (AE) against 5,500 points of all damage\n    - Gives target an extra 2.0% mitigation to their worn armor.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1142305060 1637002892:Sullon's Manacle of Frothing Bedlam\/a
 categories:
 - Casting Speed (Equipment)

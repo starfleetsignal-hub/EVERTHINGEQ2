@@ -16,7 +16,8 @@ stats:
   dps: '13'
   vselemental: +1,000
   mitinc: '5.1'
-effects: '**Malicious Thoughts**'
+effect_name: Malicious Thoughts
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Malicious Thoughts on caster.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Makes caster immune to Fear effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 482888549 1636056026:Chilled Hoops of Malicious Thoughts\/a
 categories:
 - Arcane Resistance (Equipment)

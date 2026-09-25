@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Supporting Ovation**'
+effect_name: Supporting Ovation
+effects: "- Applies Supporting Ovation on target Friend when Activated.  Lasts for 10.0 seconds.\n  - Increases Weapon Damage of target by 35.0.\n  - This can be used by multiple casters on the same target. Cannot target the caster.\n  - Cannot be modified except by direct means\n  - The reuse time of Supporting Ovation is 1 minute"
 item_link: \aITEM 106507217 1425766801:Essedara's Withered Claw\/a
 categories:
 - AE Autoattack Chance (Equipment)

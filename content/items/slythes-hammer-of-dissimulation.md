@@ -21,7 +21,8 @@ stats:
   drating: '71.45'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 206.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2073315033 1598895367:Slythe's Hammer of Dissimulation\/a
 categories:
 - Beastlord Equipment

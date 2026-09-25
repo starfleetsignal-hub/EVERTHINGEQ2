@@ -20,7 +20,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 124 - 207 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1613048725 1362049672:Toxic Sia\/a
 categories:
 - Ancient Glyph of Venom (Equipment)

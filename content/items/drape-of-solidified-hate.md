@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   aspeed: '68.2'
   flurry: '37'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 250.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 922464521 -698159216:Drape of Solidified Hate\/a
 categories:
 - Assassin Equipment

@@ -10,7 +10,8 @@ flags: ornate no-trade
 description: This item can be transmuted for rare adorning components.
 stats:
   wis: '+75'
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 item_link: \aITEM 1245422728 -1117382906:Greater Transmuter's Stone\/a
 categories:
 - Assassin Equipment

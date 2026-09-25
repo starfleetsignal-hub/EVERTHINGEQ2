@@ -16,7 +16,8 @@ stats:
   potency: '11.6'
   multi: '98.9'
   flurry: '0.5'
-effects: '**Eternal Damnation**<br>**Vitriolic Animus**'
+effect_name: Eternal Damnation, Vitriolic Animus
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Vitriolic Animus III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 3,503 - 3,871 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 485.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -620354475 -460177430 0 0 0:Shroud of Accomplished Negotiations\/a
 categories:
 - Assassin Equipment

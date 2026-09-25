@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1953069565 1308530482:Commissioned Gauntlets of the Clerk\/a
 categories:
 - Berserker Equipment

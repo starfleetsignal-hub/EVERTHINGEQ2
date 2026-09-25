@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Strike of Tears**'
+effect_name: Strike of Tears
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Strike of Tears on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 510,400 slashing damage on target.\n    - Increases Weapon Damage of caster by 15.0.\n    - Increases Crit Bonus of caster by 20.0.\n    - Increases Potency of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 813550306 2111067416:Ring of Darkened Regrets\/a
 categories:
 - Arcane Resistance (Equipment)

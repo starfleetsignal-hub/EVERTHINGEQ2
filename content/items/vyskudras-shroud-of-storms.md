@@ -15,7 +15,9 @@ stats:
   potency: '11'
   aspeed: '17.9'
   multi: '18.6'
-effects: '**Steady Pulse**<br>**Discombobulate**'
+effect_name: Steady Pulse, Discombobulate
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Steady Pulse III on target of spell cast.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 2,370 - 2,620 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical spell hit this spell may cast Discombobulate III on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,662 - 5,153\n    - Inflicts 2,433 - 2,689 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Discombobulate III on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases\
+  \ Threat to target by 4,662 - 5,153\n    - Inflicts 2,433 - 2,689 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 188628317 180682747:Vyskudra's Shroud of Storms\/a
 categories:
 - Assassin Equipment

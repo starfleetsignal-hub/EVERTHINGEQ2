@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: +1,527
   aspeed: '17.2'
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless when Activated.  Lasts for 15.0 seconds.\n  - Increases the potency of heals and wards by 70%.\n  - Prevents caster from being Interrupted due to movement\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless is 1 minute 20 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1964382426 1270491162:Swift Lumicite Totem\/a
 categories:

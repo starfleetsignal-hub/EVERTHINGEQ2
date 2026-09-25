@@ -19,7 +19,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Plate Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 169319352 -1831797411:Monumental Chausses, Relic of Old Velious\/a
 categories:
 - Berserker Equipment

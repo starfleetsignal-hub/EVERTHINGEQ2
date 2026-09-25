@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Vanquisher''s Glove Mold]] *Made from [[Elemental Vanquisher''s Glove Pattern]]'
 item_link: \aITEM -1566669910 -1091118362 0 0 0:Lavalink Gloves of Eruption\/a
 categories:

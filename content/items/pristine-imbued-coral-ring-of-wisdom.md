@@ -11,7 +11,7 @@ stats:
   int: '+12'
   health: '+10'
   power: '+10'
-effects: Aura of Wisdom
+effects: "- When Equipped:\n  - When target casts a beneficial spell this spell has a chance to cast Gleam of Wisdom on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases WIS of caster by 5.1\n    - Increases Focus, Ministration and Ordination of caster by 3.3"
 obtained_from: Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16]]
 item_link: \aITEM -927028935 -1302697083:Pristine Imbued Coral Ring of Wisdom\/a
 categories:

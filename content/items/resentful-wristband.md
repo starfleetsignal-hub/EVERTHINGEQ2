@@ -19,7 +19,8 @@ stats:
   aspeed: '61.2'
   dps: '46.6'
   vselemental: +56,952
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 125.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1759640429 771484129:Resentful Wristband\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   vsarcane: '+517'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm IX when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter IX on termination.\n    - Inflicts 37,962 - 41,958 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 959 - 1,172 poison damage on target.\n  - Inflicts 1,199 - 1,465 poison damage on target every second.\n  - Inflicts an additional 479 - 586 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm IX is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 90) from [[Ancient Knowledge: Lucid Stud of Impulse]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 901275367 1904428981:Lucid Stud of Impulse\/a
 categories:

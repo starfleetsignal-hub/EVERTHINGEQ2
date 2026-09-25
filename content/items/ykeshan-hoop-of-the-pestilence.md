@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: +1,000
-effects: '**Rage of Pestilence**'
+effect_name: Rage of Pestilence
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Rage of Pestilence on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' spells and combat arts by 10%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1858013698 -1465189978:Ykeshan Hoop of the Pestilence\/a
 categories:
 - Arcane Resistance (Equipment)

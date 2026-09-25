@@ -16,7 +16,7 @@ stats:
   drating: '12.5'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.6 times per minute.\n    - Decreases Threat to target by 153\n      - Must be flanking or behind\n    - Inflicts 48 - 90 magic damage on target\n    - Increases Threat to target by 153\n      - Must be in front of"
 obtained_from: Crafted by [[Craftsman]] (level 15) from [[Advanced craftsman volume 15]]
 item_link: \aITEM -295748036 -1410056633:imbued bone wand\/a
 categories:

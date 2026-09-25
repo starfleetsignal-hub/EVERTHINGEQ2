@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   aspeed: '0.3'
   dtype: Chain Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 138 magic damage on target."
 item_link: \aITEM 1013481904 -18700705:Ringmail Bracers of the Vigilant\/a
 categories:
 - Assassin Equipment

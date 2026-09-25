@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '7'
-effects: '**Eternal Darkness**<br>**All for One**'
+effect_name: Eternal Darkness, All for One
+effects: "- When Equipped:\n  - Curse of Darkness will now affect the Warlocks raid and deal increased damage.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 505943005 -1137524546:Shroud of the Heretic\/a
 categories:
 - Ability Doublecast (Equipment)

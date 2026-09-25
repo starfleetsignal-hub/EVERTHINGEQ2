@@ -19,7 +19,8 @@ stats:
   drating: '242.02'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Catharsis**<br>**Cogent**'
+effect_name: Catharsis, Cogent
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Catharsis II on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 6,241 - 6,898.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1350318065 1824037632 0 0 0:Carved Dragonbone Bludgeoner\/a
 categories:
 - Casting Speed (Equipment)

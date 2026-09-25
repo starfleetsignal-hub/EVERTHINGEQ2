@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Plate Armor
-effects: '**Aggravate**'
+effect_name: Aggravate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aggravate IV on target of attack.  Triggers about 1.4 times per minute.\n    - Increases Threat to target by 1,565\n    - Cannot be modified except by direct means"
 item_link: \aITEM -841311115 -1868990671:Gauntlets of the Ardent Blessing\/a
 categories:
 - Ability Modifier (Equipment)

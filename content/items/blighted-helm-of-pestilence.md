@@ -16,7 +16,7 @@ stats:
   mit: '133'
   vsarcane: '+350'
   dtype: Cloth Armor
-effects: Spirit Drain
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has chance to cast ***Spirit Drain*** on caster. This effect will trigger an average of 1.8 times per minute.\n    - Increases power of caster by 150"
 item_link: -1823579703 -1474064188:Blighted Helm of Pestilence
 categories:
 - Arcane Resistance (Equipment)

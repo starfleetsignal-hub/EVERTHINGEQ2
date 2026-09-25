@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Chain Armor
-effects: '**Hollow Aria**'
+effect_name: Hollow Aria
+effects: "- When Equipped:\n  - Adds an additional trigger chance increase to Cacophony of Blades II and Perfection of the Maestro II."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 418898614 1181129653 0 0 0:Lyrical Chain Hauberk\/a
 categories:

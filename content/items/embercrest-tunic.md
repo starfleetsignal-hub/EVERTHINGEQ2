@@ -12,7 +12,8 @@ stats:
   agi: '+5'
   mit: '41'
   dtype: Leather Armor
-effects: '**Fiery Feedback**'
+effect_name: Fiery Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 1% chance to cast Fiery Feedback on target's attacker.\n    - Inflicts 24 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 513868421 -321344382:Embercrest Tunic\/a
 categories:
 - Assassin Equipment

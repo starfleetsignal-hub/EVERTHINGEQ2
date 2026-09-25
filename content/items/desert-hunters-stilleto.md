@@ -19,7 +19,8 @@ stats:
   drating: '81.07'
   dtype: Off Hand Piercing
   wtype: Dagger
-effects: '**Power Overwhelming**<br>**Flay the Beast**'
+effect_name: Power Overwhelming, Flay the Beast
+effects: "- When Equipped:\n  - Increases Fervor of target by 0.5\n- When Equipped:\n  - Increases Ability Reuse Speed of caster by 3.5%\n  - On a hostile ability cast this spell has a 10% chance to cast Flay on target of spell.  Lasts for 6.0 seconds.\n    - Inflicts 79 - 147 heat damage on target instantly and every second\n    - Increases Ability Reuse Speed of caster by 3.5%\n    - Cannot be modified except by direct means"
 item_link: \aITEM -891667941 -902053908:Desert Hunter's Stilleto\/a
 categories:
 - Ability Doublecast (Equipment)

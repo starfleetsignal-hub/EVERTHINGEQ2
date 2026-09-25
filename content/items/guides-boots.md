@@ -10,7 +10,8 @@ flags: lore no-trade no-value
 stats:
   mit: '426'
   dtype: Plate Armor
-effects: '**Feet of Furious Fastness**'
+effect_name: Feet of Furious Fastness
+effects: "- Applies Feet of Furious Fastness when Equipped.\n  - Increases speed of caster by 70.0%."
 obtained_from: for [[Guides]] Only
 item_link: \aITEM 436290425 -1061140244:Guide's Boots\/a
 categories:

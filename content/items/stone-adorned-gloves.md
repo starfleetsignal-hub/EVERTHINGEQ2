@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   abmod: '+17'
   dtype: Cloth Armor
-effects: '**Glyph of Soothing**'
+effect_name: Glyph of Soothing
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Renewing Breeze on caster.\n    - Heals caster for 64.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -631724044 -215935414:Stone Adorned Gloves\/a
 categories:
 - Ability Modifier (Equipment)

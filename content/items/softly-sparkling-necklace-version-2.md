@@ -13,7 +13,8 @@ stats:
   crit: '2.6'
   critbonus: '0.9'
   potency: '3.9'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM -1825902209 1600420637:Softly Sparkling Necklace\/a
 categories:
 - Assassin Equipment

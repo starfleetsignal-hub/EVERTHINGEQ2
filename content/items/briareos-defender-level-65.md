@@ -16,7 +16,8 @@ stats:
   dps: '8.1'
   mitinc: '3'
   dtype: Tower Shield
-effects: '**Sparkling Aura**'
+effect_name: Sparkling Aura
+effects: "- When Equipped:\n  - On a block this spell has a 50% chance to cast Sparkling Aura on target's victim.  Lasts for 2.0 seconds.\n    - Increases Threat to target encounter by 1,312\n    - Dazes target encounter\n    - Epic targets gain an immunity to Daze effects of 6.0 seconds and duration is reduced to 0.7 seconds.\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 816993556 -488862924:B'Riareos' Defender\/a
 categories:
 - Berserker Equipment

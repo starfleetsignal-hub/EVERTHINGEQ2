@@ -18,7 +18,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Crushing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1005148329 2010557227:Bo of the Devastator\/a
 categories:
 - Ability Modifier (Equipment)

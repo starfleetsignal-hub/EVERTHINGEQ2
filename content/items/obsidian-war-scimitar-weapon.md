@@ -23,7 +23,8 @@ stats:
   drating: '196.98'
   dtype: Two-Handed Slashing
   wtype: Sword
-effects: '**Uncanny Insight**<br>**Obsidian Shatterstorm**'
+effect_name: Uncanny Insight, Obsidian Shatterstorm
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Strikethrough of caster by 5.0%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - On a melee hit this spell may cast Obsidian Shatterstorm on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 8,576 - 12,864 crushing damage on target.\n    - Increases Crit Bonus of caster by 15.0.\n    - Increases Multi Attack of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1281736895 -1646385814:Obsidian War Scimitar\/a
 image: images/Obsidian_War_Scimitar.png
 categories:

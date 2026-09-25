@@ -15,7 +15,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   vsnoxious: '+242'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Mission Complete]]'
 item_link: \aITEM -551402208 -1858211121:Leather Earrings\/a
 categories:

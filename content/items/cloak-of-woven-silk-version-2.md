@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.8'
   abmod: '+71'
-effects: '**Silken Grace**'
+effect_name: Silken Grace
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Silken Grace on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Casting Speed of caster by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -576919497 1040310960:Cloak of Woven Silk\/a
 categories:
 - Ability Modifier (Equipment)

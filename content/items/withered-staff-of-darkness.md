@@ -19,7 +19,8 @@ stats:
   drating: '55.76'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Shadow''s Touch**'
+effect_name: Shadow's Touch
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Shadow's Touch on target of attack.  Triggers about 1.8 times per minute.\n    - Increases power of target by 46 - 56.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 346383662 1974598417:Withered Staff of Darkness\/a
 categories:
 - Ability Modifier (Equipment)

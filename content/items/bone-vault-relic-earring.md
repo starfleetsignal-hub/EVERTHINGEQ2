@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1,293.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1482835487 -507259819:Bone Vault Relic Earring\/a
 categories:
 - Arcane Resistance (Equipment)

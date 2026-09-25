@@ -16,7 +16,8 @@ stats:
   potency: 10,347.2
   resolve: '255'
   vselemental: +178,320
-effects: '**All-Out Brawl**'
+effect_name: All-Out Brawl
+effects: "- Applies All-Out Brawl when Activated.  Lasts for 10.0 seconds.\n  - Increases Weapon Damage of caster by 150.0.\n  - Increases Weapon Damage Overcap of caster by 150.0.\n  - Reduces all damage done to caster by 5%, if between 1 and 6 increments multiplied by increment stacks.\n  - Each group member who activates this increases its duration by 10 seconds and increments by 1. At 6 increments, each archetype receives additional effects.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of All-Out Brawl is 0.5 seconds and the reuse time of the spell is 15 minutes"
 obtained_from: 'Collection reward: [[War of the Grimlings]]'
 item_link: \aITEM -645489686 -64545084:Shining Ring of Ages\/a
 aliases:

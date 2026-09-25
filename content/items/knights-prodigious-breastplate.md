@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   dtype: Plate Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Obtained from [[Breastplate of Coagulated Primality]]
 item_link: \aITEM -1620400798 787440495:Knight's Prodigious Breastplate\/a
 categories:

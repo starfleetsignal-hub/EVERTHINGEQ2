@@ -15,7 +15,9 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   dtype: Round Shield
-effects: '**Core of the Underfoot**<br>**King''s Legacy**'
+effect_name: Core of the Underfoot, King's Legacy
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Core of the Underfoot on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR, INT, AGI and STA of target by 42.8.\n    - Increases Max Health of target by 12.0%.\n    - Increases Max Power of target by 12.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - On a combat hit this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast King's Legacy on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Group members (AE) by 1.0.\n    - Increases Potency of group members (AE) by 8.0.\n    - Cannot\
+  \ be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 116862832 -1816219786:Opal Edged Buckler of Tears\/a
 categories:
 - Assassin Equipment

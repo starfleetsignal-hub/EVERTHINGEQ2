@@ -20,7 +20,8 @@ stats:
   multi: '537.9'
   cbovercap: '+198.2'
   dtype: Leather Armor
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 407114967 414841682:Fabled Tunic of Enlightenment\/a
 categories:
 - AE Autoattack Chance (Equipment)

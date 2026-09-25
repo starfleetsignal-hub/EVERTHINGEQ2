@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +11,088
-effects: '**Essencelich**'
+effect_name: Essencelich
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Essencelich on target of attack.  Lasts for 18.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 450,000 disease damage on target.\n    - Increases Potency of caster by 15.0.\n    - Increases DPS of caster by 21.8.\n    - Increases Mitigation of caster vs noxious damage by 2,000.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2129119483 1891545231:Revenant's Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

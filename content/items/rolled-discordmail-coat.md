@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Chain Armor
-effects: '**Discordant Fervor**'
+effect_name: Discordant Fervor
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Discordant Fervor on caster.  Lasts for 8.0 seconds.  Triggers about 1.0 times per minute.\n    - Increases Crit Chance of caster by 2.0.\n    - Increases Multi Attack of caster by 2.0.\n    - Cannot be modified except by direct means"
 obtained_from: From Ornate Chainmail Parchement turn in after a guild city raid.
 item_link: \aITEM 1521713766 -95657180:Rolled Discordmail Coat\/a
 categories:

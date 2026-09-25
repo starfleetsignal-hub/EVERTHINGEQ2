@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Serpent''s Bite**'
+effect_name: Serpent's Bite
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Serpent's Sting on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 208 - 254 poison damage on target.\n    - Inflicts 181 - 221 poison damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1383980979 -978387376:Serpentine Skewer\/a
 categories:
 - Ability Modifier (Equipment)

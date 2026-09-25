@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dps: '12.8'
-effects: '**Thick Bands**'
+effect_name: Thick Bands
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Thick Bands on caster.  Lasts for 30.0 seconds.\n    - Wards caster against 700 points of physical damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1439178441 1789703001:Thick Banded Belt\/a
 categories:
 - Ability Modifier (Equipment)

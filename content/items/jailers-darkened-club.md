@@ -16,7 +16,8 @@ stats:
   drating: '41.58'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Bone Break**'
+effect_name: Bone Break
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bone Break on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 58 - 70 crushing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -694226238 152220300:Jailer's Darkened Club\/a
 categories:
 - Beastlord Equipment

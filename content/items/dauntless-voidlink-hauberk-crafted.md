@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Increased Successive Blows**'
+effect_name: Increased Successive Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Increased Successive Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 5.0.\n    - Increases Multi Attack of caster by 12.0.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 699187854 -1778312521 0 0 0:Dauntless Voidlink Hauberk\/a
 categories:

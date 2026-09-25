@@ -17,7 +17,8 @@ stats:
   potency: '9.6'
   abmod: '+336'
   dtype: Leather Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 1591079484 1489336894:Eternal Haruspex's Sovereign Gloves\/a
 categories:
 - Ability Modifier (Equipment)

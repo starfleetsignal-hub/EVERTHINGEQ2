@@ -16,7 +16,8 @@ stats:
   drating: '31.68'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Inject Poison**'
+effect_name: Inject Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Inject Poison on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 29 - 36 poison damage on target.\n    - Inflicts 6 - 7 poison damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1968839403 52249783:Soul Sapper's Razor Fang\/a
 categories:
 - Beastlord Equipment

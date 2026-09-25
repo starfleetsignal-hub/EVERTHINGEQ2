@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +9,738
-effects: '**Unphased**'
+effect_name: Unphased
+effects: "- When Equipped:\n  - On any combat or spell hit this spell will cast Unphased on target.  Lasts for 18.0 seconds.\n    - Increases Mitigation of caster vs physical damage by 523, multiplied by increment stacks.\n    - Increments up to 5 times\n    - Cannot be modified except by direct means\n  - If under 25% Health"
 item_link: \aITEM 2129107620 365972014:Hard Thresh Band\/a
 categories:
 - Arcane Resistance (Equipment)

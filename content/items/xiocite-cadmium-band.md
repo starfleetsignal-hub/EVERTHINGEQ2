@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +21,632
-effects: '**Saving Grace**'
+effect_name: Saving Grace
+effects: "- When Equipped:\n  - When damaged this spell will cast Saving Grace II on target's attacker.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Haste of target by 65.0, multiplied by increment stacks.\n    - Decreases DPS of target by 65.0, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 45.0 seconds."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Advanced Jeweler Volume 100]]
 item_link: \aITEM -1355395588 -731782779:Xiocite Cadmium Band\/a
 categories:

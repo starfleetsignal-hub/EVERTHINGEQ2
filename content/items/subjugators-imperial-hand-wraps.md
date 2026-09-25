@@ -16,7 +16,8 @@ stats:
   multi: '27.8'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -1677613866 -311468559:Subjugator's Imperial Hand Wraps\/a
 categories:
 - Block Chance (Equipment)

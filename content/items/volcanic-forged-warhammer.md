@@ -19,7 +19,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Tremble**'
+effect_name: Tremble
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Impact on target of attack.  Lasts for 1.5 seconds.  Triggers about 1.8 times per minute.\n    - Throws target back\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 424578361 -1756849141:Volcanic Forged Warhammer\/a
 categories:
 - Attack Speed (Equipment)

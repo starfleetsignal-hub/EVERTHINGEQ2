@@ -19,7 +19,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1148310637 -2052794215:Discord's Dreadnaught Battlebow\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   drating: '6.49'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Celestial Glow**'
+effect_name: Celestial Glow
+effects: '- Applies Celestial Glow when Equipped.'
 obtained_from: Marketplace
 item_link: \aITEM 1872614036 668235983:Divine Celestial Mallet\/a
 categories:

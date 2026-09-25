@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +24,232
-effects: '**Practiced Power**'
+effect_name: Practiced Power
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Power II on the group.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the group's Potency by 0.8 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 48 Potency.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -915376390 1276827559:Bangle of the Contract Killer\/a
 categories:
 - Ability Modifier (Equipment)

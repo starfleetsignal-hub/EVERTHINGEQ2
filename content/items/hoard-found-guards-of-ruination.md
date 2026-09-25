@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   multi: '35.7'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1334370913 1669279003:Hoard Found Guards of Ruination\/a
 categories:
 - Census Credits

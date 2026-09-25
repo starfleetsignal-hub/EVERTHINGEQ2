@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   vselemental: +91,863
   mitinc: '26.1'
-effects: '**Unquenched Power**'
+effect_name: Unquenched Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 550.0."
 item_link: \aITEM -1354573497 -1330428504:Prismatic Planar Band of Vigor\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+10'
   sta: '+10'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 10.2.\n    - Increases Disruption, Subjugation and Focus of caster by 6.2.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 36) from [[Advanced Jeweler Volume 36 (Normal)]] *Crafted by [[Jeweler]] (level 36) from [[Advanced Jeweler Volume 36 (No-Trade)]] *From [[Caster Jewelry Pack (Level 32 Mastercrafted)]]'
 item_link: \aITEM -1753491366 -753677042:Imbued Opal Ring of Intelligence\/a
 categories:

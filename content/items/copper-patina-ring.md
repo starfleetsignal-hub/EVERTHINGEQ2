@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: '+511'
-effects: '**Slayer''s Conviction**'
+effect_name: Slayer's Conviction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Slayer's Conviction on caster.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Increases DPS of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1344584967 -1653622375:Copper Patina Ring\/a
 categories:
 - Ability Modifier (Equipment)

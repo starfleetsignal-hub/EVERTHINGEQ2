@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '62'
   dtype: Cloth Armor
-effects: '**Rose Colored Goggles**'
+effect_name: Rose Colored Goggles
+effects: "- Applies Rose Colored Goggles when Equipped.\n  - Grants Infravision to caster\n  - This effect suspends during combat"
 obtained_from: Made with Tinkering (skill 150) from [[Dabbler's Blueprints 0.004]].
 item_link: \aITEM -1790271289 -1211322454:Rose Colored Goggles\/a
 categories:

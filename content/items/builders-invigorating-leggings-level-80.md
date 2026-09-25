@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   dps: '10.5'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM 835965709 729740394:Builder's Invigorating Leggings\/a
 categories:
 - Assassin Equipment

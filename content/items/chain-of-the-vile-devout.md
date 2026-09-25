@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   abmod: +1,250
-effects: '**Devout Follower**'
+effect_name: Devout Follower
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 11.0.\n  - Increases Potency of caster by 11.0.\n  - Improves the base attribute bonuses of deity pets by 800%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -881732035 -838498525:Chain of the Vile Devout\/a
 categories:
 - Ability Modifier (Equipment)

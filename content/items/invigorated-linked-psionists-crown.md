@@ -18,7 +18,8 @@ stats:
   resolve: '6'
   mitinc: '12.5'
   dtype: Chain Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 1062024534 19626107:Invigorated Linked Psionist's Crown\/a
 categories:
 - AE Autoattack Chance (Equipment)

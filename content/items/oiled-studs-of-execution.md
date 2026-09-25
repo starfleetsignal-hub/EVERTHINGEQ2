@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+5'
   sta: '+5'
-effects: '**Rising Brutality**'
+effect_name: Rising Brutality
+effects: "- Applies Rising Brutality when Activated.  Lasts for 12.0 seconds.\n  - Applies Invigorated Haste on termination.  Lasts for 30.0 seconds.\n    - Increases Haste of caster by 20.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Damage Per Second of the caster over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Rising Brutality is 10 minutes"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Oiled Studs of Execution]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -496951610 -503474170:Oiled Studs of Execution\/a
 categories:

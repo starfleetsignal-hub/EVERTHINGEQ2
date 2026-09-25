@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Chain Armor
-effects: '**Empowered Essence**'
+effect_name: Empowered Essence
+effects: "- When Equipped:\n  - Increases base Spell and Combat Art damage by 5%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -975017581 1263553914 0 0 0:Lyrical Chain Spaulders\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Desolate Aria**'
+effect_name: Desolate Aria
+effects: "- When Equipped:\n  - Adds an additional trigger chance increase to Cacophony of Blades II and Perfection of the Maestro II."
 obtained_from: '*Made from [[Elemental Gladiator''s Vest Mold]] *Made from [[Elemental Gladiator''s Vest Pattern]]'
 item_link: \aITEM 1632219833 574897111 0 0 0:Threaded Hauberk of Volcanic Percussion\/a
 categories:

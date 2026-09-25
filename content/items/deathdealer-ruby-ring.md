@@ -11,7 +11,8 @@ stats:
   sta: '+60'
   wis: '+60'
   crit: '8'
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 554546151 -1325560961:Deathdealer Ruby Ring\/a
 categories:
 - Casting Speed (Equipment)

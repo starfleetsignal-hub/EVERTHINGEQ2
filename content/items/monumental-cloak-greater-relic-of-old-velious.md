@@ -17,7 +17,8 @@ stats:
   critbonus: 1,338.9
   potency: 44,349.8
   resolve: '535'
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 55.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -200232008 -1561667557:Monumental Cloak, Greater Relic of Old Velious\/a
 categories:
 - Assassin Equipment

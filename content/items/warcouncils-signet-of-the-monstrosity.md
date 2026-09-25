@@ -16,7 +16,8 @@ stats:
   multi: '43'
   flurry: '0.6'
   vselemental: +10,148
-effects: '**Aquatic Monstrosity**'
+effect_name: Aquatic Monstrosity
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 5.0.\n  - Increases Block Chance of caster by 7.0%.\n  - Increases Crit Bonus of caster by 6.0.\n  - Increases Ability Mod of caster by 1,200.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2020605306 -1131296501:Warcouncil's Signet of the Monstrosity\/a
 categories:
 - Ability Modifier (Equipment)

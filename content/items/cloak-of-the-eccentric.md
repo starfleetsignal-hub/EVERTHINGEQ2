@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: no-transmute  no-salvage  no-trade no-value
 description: This cloak was recovered from the angsty thief known as Ratscallion Attamilgad!
-effects: '**Eccentric Energy**'
+effect_name: Eccentric Energy
+effects: "- Applies Eccentric Energy when Activated.\n  - Coats the wearer in an Eccentric Energy.\n  - The casting time of Eccentric Energy is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Watch EQ2 social media pages for notification of when Ratscallion is up!
 item_link: \aITEM -1425456837 -689566834:Cloak of the Eccentric\/a
 categories:

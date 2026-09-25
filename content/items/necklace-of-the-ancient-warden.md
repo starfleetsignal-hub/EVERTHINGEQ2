@@ -18,7 +18,8 @@ stats:
   resolve: '23'
   abmod: +2,209
   dps: '37.6'
-effects: '**Mastery of Nightmares**'
+effect_name: Mastery of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Baliath, Harbinger of Nightmares."
 obtained_from: From [[Satchel of the Harbinger]]
 item_link: \aITEM 1986984576 1430111564:Necklace of the Ancient Warden\/a
 categories:

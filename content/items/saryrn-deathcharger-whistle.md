@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: 0.0 seconds
-effects: Call Saryrn Deathcharger
+effects: "- Applies Call Saryrn Deathcharger when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 55%\n  - Applies Friendly Experience.\n    - Increases Combat XP Gain of target by 10.0%"
 obtained_from: '[Recruit-A-Friend](http://everquest2.station.sony.com/recruit-a-friend.vm) program'
 item_link: \aITEM -1230427643 -1500374663:Saryrn Deathcharger whistle\/a
 categories:

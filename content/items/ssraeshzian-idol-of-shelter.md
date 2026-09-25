@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Shelter**'
+effect_name: Shelter
+effects: "- Applies Shelter II when Activated.  Lasts for 12.0 seconds.\n  - Summons a sigil on the ground that makes any group member immune to stun, stifle, fear and daze. All group members receive a ward for 55,500 instantly and every second inside of the sigil.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Shelter II is 2 minutes"
 item_link: \aITEM 1220335620 1763347836:Ssraeshzian Idol of Shelter\/a
 categories:
 - Assassin Equipment

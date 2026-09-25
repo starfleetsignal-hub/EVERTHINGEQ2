@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   dtype: Buckler
-effects: '**Savagery**'
+effect_name: Savagery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Savagery II on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases DPS of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -554590876 -1877363944:Buckler of the Howler\/a
 categories:
 - Ability Modifier (Equipment)

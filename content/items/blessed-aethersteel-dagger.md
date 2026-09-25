@@ -22,7 +22,7 @@ stats:
   drating: '406.8'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack. Lasts for 8.0 seconds. Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target encounter by 3%\n    - Inflicts 3726 heat damage on target\n    - Inflicts 3726 Cold damage on target\n    - Cannot be modified except by direct means."
 obtained_from: '[[All the Flight Moves]]'
 item_link: \aITEM -985102467 -1988350350 0 0 0:[Blessed Aethersteel Cudgel]\/a
 categories:

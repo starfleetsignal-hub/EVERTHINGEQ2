@@ -17,7 +17,8 @@ stats:
   aspeed: '2.9'
   dps: '6.5'
   dtype: Chain Armor
-effects: '**Alacrity**'
+effect_name: Alacrity
+effects: "- When Equipped:\n  - Increases Haste of caster by 3.0.\n  - Increases Casting Speed of caster by 3.0%."
 item_link: \aITEM -2057002366 -1422601282:Nightchord Cap\/a
 categories:
 - Alacrity (Equipment)

@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Disengage**'
+effect_name: Disengage
+effects: "- Applies Disengage when Activated.  Lasts for 8.0 seconds.\n  - Dispels 131 levels of hostile Root effects on caster\n  - Increases in-combat movement speed of caster by 60.0%.\n  - Grants immunity to most knockback effects\n  - If any of the following are true:\n    - Must be engaged in pvp combat\n    - Must be used within a pvp zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Disengage is 2 minutes"
 item_link: \aITEM -1603336336 41907558:Dreadnaught's Charm of Agility\/a
 categories:
 - Assassin Equipment

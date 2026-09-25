@@ -15,7 +15,7 @@ stats:
   vselemental: '+188'
   vsarcane: '+188'
   vsnoxious: '+188'
-effects: Aura of Wisdom
+effects: "- When Equipped:\n  - When target casts a beneficial spell this spell has a chance to cast ***Gleam of Wisdom*** on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases WIS of caster by 19.8\n    - Increases Ministration, Focus and Ordination of caster by 11.3"
 obtained_from: Crafted by [[Jeweler]] (level 76) from [[Jeweler Essentials Volume 76]]
 item_link: 587433279 -560682467:pristine imbued kunzite ring of wisdom
 categories:

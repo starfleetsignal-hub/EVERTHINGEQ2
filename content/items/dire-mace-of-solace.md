@@ -19,7 +19,8 @@ stats:
   drating: '50.26'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple V on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 300 points of all damage\n    - Heals target for 294 - 326 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 50) from [[Ancient Knowledge: Dire Mace of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -1540747419 1900557424:Dire Mace of Solace\/a
 categories:

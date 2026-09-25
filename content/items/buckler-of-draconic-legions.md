@@ -14,7 +14,8 @@ stats:
   critbonus: '6.1'
   potency: '10.4'
   dtype: Buckler
-effects: '**Soothing Breeze**<br>**Engulfing Aegis**'
+effect_name: Soothing Breeze, Engulfing Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Soothing Breeze IV on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 5,384 - 5,951.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis IV on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,400 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 420042774 895115559:Buckler of Draconic Legions\/a
 categories:
 - Berserker Equipment

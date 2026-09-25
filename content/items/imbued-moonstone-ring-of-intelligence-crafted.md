@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+217'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 21.5.\n    - Increases Disruption, Subjugation and Focus of caster by 12.1.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 66) from [[Advanced Jeweler Volume 66 (no-value)]] *Crafted by [[Jeweler]] (level 66) from [[Advanced Jeweler Volume 66 (Uncommon)]]'
 item_link: \aITEM -1302761083 -1656350639:Imbued Moonstone Ring of Intelligence\/a
 categories:

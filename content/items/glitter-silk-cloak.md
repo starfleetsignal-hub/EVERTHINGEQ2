@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: ornate attunable heirloom no-value
 description: Be the belle of the ball (or dungeon group) in this soft, shiny cloak.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 1931778294 -1018811728:Glitter Silk Cloak\/a
 categories:

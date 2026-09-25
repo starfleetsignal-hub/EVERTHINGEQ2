@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 239.\n    - Increases power of caster by 146.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1207301324 -1372368100:Lubeshian Orator's Symbol\/a
 categories:
 - Ability Modifier (Equipment)

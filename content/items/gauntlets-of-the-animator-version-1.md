@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   strike: '7'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -509042440 184175974:Gauntlets of the Animator\/a
 image: images/Gauntlets_of_the_Animator.jpg
 categories:

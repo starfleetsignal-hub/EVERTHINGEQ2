@@ -18,7 +18,8 @@ stats:
   potency: '8.8'
   multi: '14.5'
   dtype: Chain Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[Vallon Zek (Epic)|Vallon Zek]] in [[Vallon's Tower]]
 item_link: \aITEM -1499479807 662647848:Sublime Tunic of the Thug\/a
 categories:

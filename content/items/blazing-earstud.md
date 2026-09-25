@@ -17,7 +17,8 @@ stats:
   dps: '27'
   multi: '19.4'
   vselemental: +28,613
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM -1062414480 -1328643463:Blazing Earstud\/a
 categories:
 - Arcane Resistance (Equipment)

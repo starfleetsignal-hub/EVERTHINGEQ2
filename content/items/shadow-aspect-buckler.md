@@ -18,7 +18,8 @@ stats:
   abmod: +127,792
   cbovercap: '+465.5'
   dtype: Buckler
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,830 magic damage on target instantly and every second.\n    - Inflicts an additional 47 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 10) from [[Shadow Prospecting Woodworker (Tier 10)]]
 item_link: \aITEM 1680585727 1780817802:Shadow Aspect Buckler\/a
 categories:

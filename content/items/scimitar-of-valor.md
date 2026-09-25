@@ -20,7 +20,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Light Strike**'
+effect_name: Light Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Light Strike on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 39 - 52 divine damage on target.\n    - Inflicts 97 - 131 divine damage on target every 12 seconds.\n      - If target is undead\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1035356609 -1339426616:Scimitar of Valor\/a
 categories:
 - Assassin Equipment

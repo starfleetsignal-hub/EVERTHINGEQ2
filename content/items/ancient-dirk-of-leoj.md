@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Lightning Bolt Glyph**'
+effect_name: Lightning Bolt Glyph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 292 - 357 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1187318954 -1812189870:Ancient Dirk of Leoj\/a
 categories:
 - Ability Modifier (Equipment)

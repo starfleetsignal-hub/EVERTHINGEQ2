@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Permeating Darkness**'
+effect_name: Permeating Darkness
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Permeating Darkness on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Casters next ranged attack will inflict critical damage"
 item_link: \aITEM -1184084657 -1496955492:Star Darkened Longbow\/a
 image: images/Star_Darkened_Longbow.png
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '17'
   abmod: +26,917
   dps: '45.6'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 32.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: 'Collection reward: [[The Book of Signs (Collection)]]'
 item_link: \aITEM 243589465 -1237584807:The Book of Signs\/a
 image: images/The_Book_of_Signs.png

@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Defender''s Appearance Bundle Pack]] *Marketplace (300 Daybreak Cash)'
 item_link: \aITEM 1158922583 507116410:Traveler's Cloak of Guidance\/a
 categories:

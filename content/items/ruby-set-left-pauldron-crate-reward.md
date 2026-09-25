@@ -8,7 +8,8 @@ slot: Shoulders
 flags: ornate attunable heirloom no-value
 stats:
   dtype: Leather Armor
-effects: '**Reverse Pauldron**'
+effect_name: Reverse Pauldron
+effects: "- Applies Reverse Pauldron when Activated.\n  - Summon 1 Ruby-set Right Pauldron\n  - This effect cannot be cast during combat\n  - The casting time of Reverse Pauldron is 1.0 second and the reuse time of the spell is 2.0 seconds"
 obtained_from: From [[Ruby-set Left Pauldron (crate)|Ruby-set Left Pauldron]]
 item_link: \aITEM -115767544 -513195601:Ruby-set Left Pauldron\/a
 categories:

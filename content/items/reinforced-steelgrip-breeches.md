@@ -17,7 +17,8 @@ stats:
   abmod: '+185'
   aspeed: '8.8'
   dtype: Leather Armor
-effects: '**Lesser Torrent**'
+effect_name: Lesser Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 662 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1332682368 -784763050:Reinforced Steelgrip Breeches\/a
 categories:
 - Ability Modifier (Equipment)

@@ -24,7 +24,8 @@ stats:
   drating: '3923.2'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blessing of the Oceanlord**'
+effect_name: Blessing of the Oceanlord
+effects: "- When Equipped:\n  - \"Blessing of the Oceanlord\" protects the wearer from strong deific magics used by Prexus!"
 obtained_from: '*Made from [[Ethereal Writings: Oceanlord''s Axeblade of the Darkest Depths]] *[[Ethereal: Oceanlord''s Axeblade of the Darkest Depths]]'
 item_link: \aITEM 1292505326 612757355:Oceanlord's Axeblade of the Darkest Depths [Rank V]\/a
 categories:

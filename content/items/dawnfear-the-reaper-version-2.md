@@ -20,7 +20,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Bos Bovis Carillon**'
+effect_name: Bos Bovis Carillon
+effects: "- Applies Bos Bovis Carillon when Equipped.\n  - You've gotta have more..."
 item_link: \aITEM 280373672 1219695296:Dawnfear, the Reaper\/a
 categories:
 - Ability Modifier (Equipment)

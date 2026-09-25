@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   multi: '31.2'
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 60 maximum"
 item_link: \aITEM 1010218002 1458209327:Darkened Torque of Overwhelming Advantages\/a
 categories:
 - AE Autoattack Chance (Equipment)

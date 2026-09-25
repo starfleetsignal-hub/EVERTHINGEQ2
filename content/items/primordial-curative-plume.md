@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Amplifying Plume: Contribution**<br>**Amplifying Plume: Cure**'
+effect_name: 'Amplifying Plume: Contribution, Amplifying Plume: Cure'
+effects: "- When Equipped:\n  - The reuse time of this effect is decreased by the number of characters in the group or raid wearing an Amplifying Plume effect to a maximum of half the base value.\n- Applies Amplifying Plume: Cure II when Activated.\n  - Dispels 140 levels of any hostile effects on caster\n  - The casting time of Amplifying Plume: Cure II is 1.0 second and the reuse time of the spell is 9 minutes"
 item_link: \aITEM -1853430011 2085772654:Primordial Curative Plume\/a
 categories:
 - 'Amplifying Plume: Contribution (Equipment)'

@@ -15,7 +15,8 @@ stats:
   critbonus: '13'
   potency: '13'
   flurry: '13.7'
-effects: '**Shared Dragonsbane**<br>**Dragonsbane**'
+effect_name: Shared Dragonsbane, Dragonsbane
+effects: "- Applies Shared Dragonsbane when Activated.\n  - Protects the group from powerful Draconic abilities within Temple of Veeshan!\n- When Equipped:\n  - Protects the wearer from powerful Draconic abilities within Temple of Veeshan! This protection does not take effect for a few seconds after a resurrection."
 item_link: \aITEM -1263096996 -1495248948:Prismatic Dreadscale Belt\/a
 aliases:
 - Prismatic Dreadscale Belt (1 Gem)

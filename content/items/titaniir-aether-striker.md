@@ -21,7 +21,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Aether Soldier**'
+effect_name: Aether Soldier
+effects: "- When Equipped:\n  - Titaniir must be equipped to maintain the power of the Aether Soldier.\n- Applies Aether Soldier when Activated.  Lasts for 30.0 seconds.\n  - Increases Flurry of Caster by 5.0.\n  - Increases Reuse Speed of caster by 50.0%.\n  - Increases Haste of caster by 75.0.\n  - Increases DPS of caster by 100.0.\n  - Increases Casting Speed of caster by 100.0%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Aether Soldier is 2.0 seconds and the reuse time of the spell is 4 minutes 45 seconds"
 item_link: \aITEM 973264919 416833020:Titaniir, Aether Striker\/a
 categories:
 - Ability Modifier (Equipment)

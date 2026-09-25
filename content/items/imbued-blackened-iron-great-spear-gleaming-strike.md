@@ -16,7 +16,8 @@ stats:
   drating: '11.42'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 39 - 72 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -45761421 1164339874:Imbued Blackened Iron Great Spear\/a
 categories:
 - Berserker Equipment

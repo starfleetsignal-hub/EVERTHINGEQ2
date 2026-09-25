@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Buckler
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 117 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 605714108 -1544543787:imbued ebony buckler\/a
 categories:
 - Assassin Equipment

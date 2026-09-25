@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1394401150 1717314805 0 0 0:Untamed Fell Boots\/a
 categories:
 - Census Credits

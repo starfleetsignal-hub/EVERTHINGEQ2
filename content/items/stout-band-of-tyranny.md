@@ -16,7 +16,8 @@ stats:
   aspeed: '7.3'
   dps: '13'
   vselemental: '+880'
-effects: '**Will of the Dark One**'
+effect_name: Will of the Dark One
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Will of the Dark One on caster.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Makes caster immune to Stifle effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1326698399 1234012400:Stout Band of Tyranny\/a
 categories:
 - Arcane Resistance (Equipment)

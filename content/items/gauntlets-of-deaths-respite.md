@@ -16,7 +16,8 @@ stats:
   multi: '27.2'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 2011189213 -549866773:Gauntlets of Death's Respite\/a
 categories:
 - Berserker Equipment

@@ -21,7 +21,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -1427948196 -173744074:Glass Wand of Emptiness\/a
 image: images/Glass_Wand_of_Emptiness.png
 categories:

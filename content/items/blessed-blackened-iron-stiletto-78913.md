@@ -16,7 +16,7 @@ stats:
   drating: '12.5'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: Glowing Blessing
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to cast Glowing Blessing on target of spell cast.  Lasts for 12.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 10"
 obtained_from: Crafted by [[Outfitter]] (level 10) from [[Advanced Outfitter Volume 10]]
 item_link: \aITEM -2024510021 -697905783:blessed blackened iron stiletto\/a
 categories:

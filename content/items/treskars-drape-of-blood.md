@@ -13,7 +13,8 @@ stats:
   crit: '4.4'
   critbonus: '1.5'
   potency: '6.8'
-effects: '**Fiery Destruction**'
+effect_name: Fiery Destruction
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Fiery Destruction on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 397 heat damage on target encounter.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 874666093 -459967337:Treskar's Drape of Blood\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   multi: '21.6'
   mitinc: '13.9'
-effects: '**Warring Protector**'
+effect_name: Warring Protector
+effects: "- When Equipped:\n  - Battle Tactics is modified into a raidwide spell and increases the raid's health by an additional 5%.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM 2036337743 -504427468:Guardian's Banner of War\/a
 categories:

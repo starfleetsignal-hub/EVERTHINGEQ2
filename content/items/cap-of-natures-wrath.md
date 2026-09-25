@@ -17,7 +17,7 @@ stats:
   vselemental: '+315'
   vsarcane: '+350'
   dtype: Leather Armor
-effects: Grasping Roots
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cast Grasping Roots on target of spell.  Lasts for 3.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Roots target\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 77 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 90"
 item_link: -2124838219 1058981455:Cap of Nature's Wrath
 categories:
 - Arcane Resistance (Equipment)

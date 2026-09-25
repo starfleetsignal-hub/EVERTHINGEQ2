@@ -18,7 +18,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Chain Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 55.6.\n  - Increases Crit Bonus of caster by 475.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1556882860 -782206056:Monumental Chain Bracers, Greater Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   resolve: '445'
   cbovercap: '+1485'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: Sold by [[Tishan's Lockbox (Splendor Sky Aerie)]] (Merchant) for 0c.
 item_link: \aITEM 918058880 -298218561 0 0 0:Shattered Tower Shield of Pride\/a
 image: images/Shattered_Tower_Shield_of_Pride.png

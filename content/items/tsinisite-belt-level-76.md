@@ -13,7 +13,8 @@ stats:
   crit: '2.4'
   critbonus: '0.8'
   potency: '3.7'
-effects: '**Fallout**'
+effect_name: Fallout
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Fallout on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases DPS of targets in Area of Effect by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 174865915 -352182449:Tsinisite Belt\/a
 categories:
 - Assassin Equipment

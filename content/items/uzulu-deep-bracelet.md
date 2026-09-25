@@ -17,7 +17,8 @@ stats:
   dps: '28.8'
   multi: '22.2'
   vselemental: +33,491
-effects: '**Impartial Engagement**'
+effect_name: Impartial Engagement
+effects: "- Applies Impartial Engagement when Activated.  Lasts for 8.0 seconds.\n  - Reduces all damage done to caster by 50%.\n  - Suspends the passive effect for 8 seconds.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Impartial Engagement is 0.5 seconds and the reuse time of the spell is 10 minutes\n- When Equipped:\n  - Increases Potency of caster by 130.0."
 item_link: \aITEM 648636472 -12563802:Uzulu Deep Bracelet\/a
 categories:
 - Arcane Resistance (Equipment)

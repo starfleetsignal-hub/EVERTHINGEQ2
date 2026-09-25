@@ -12,7 +12,8 @@ stats:
   agi: '+5'
   mit: '25'
   dtype: Cloth Armor
-effects: '**Arcane Feedback**'
+effect_name: Arcane Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Arcane Feedback on target's attacker.\n    - Inflicts 24 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -137836396 259534632:Blouse of Channeling\/a
 categories:
 - Arcane Feedback (Equipment)

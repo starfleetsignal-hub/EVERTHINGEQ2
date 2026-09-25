@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Rot Burst Glyph**'
+effect_name: Rot Burst Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 24 - 29 disease damage on target.\n    - Inflicts 22 - 27 disease damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1794740884 -1557929075:pockmarked short sword\/a
 categories:
 - Assassin Equipment

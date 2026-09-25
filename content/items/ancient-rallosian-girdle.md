@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Gift of Rallos**'
+effect_name: Gift of Rallos
+effects: "- Applies Gift of Rallos when Equipped.\n  - Increases STR and STA of caster by 1.2."
 obtained_from: '[[The Fume and Fire Ceremony]]'
 item_link: \aITEM 1832005842 -1891254223:Ancient Rallosian Girdle\/a
 image: images/Ancient_Rallosian_Girdle.png

@@ -17,7 +17,8 @@ stats:
   aspeed: '34.6'
   mitinc: '5'
   dtype: Tower Shield
-effects: '**Ethereal Retaliation**'
+effect_name: Ethereal Retaliation
+effects: "- When Equipped:\n  - On any combat or spell hit may grant Retaliation.  Retaliation will reflect the next attack over 10% of the casters health."
 item_link: \aITEM 18261094 1215237791:Corr, Retribution\/a
 categories:
 - Ability Modifier (Equipment)

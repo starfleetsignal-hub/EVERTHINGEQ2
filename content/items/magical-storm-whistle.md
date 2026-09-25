@@ -8,7 +8,7 @@ slot: Charm
 flags: Heirloom No-Value
 stats:
   charges: Unlimited
-effects: Whistle Up A Storm
+effects: "- Applies Whistle Up A Storm when Activated.\n  - Increases Disruption, Piercing, Ministration and Subjugation of caster by 5.0\n  - Summons a mount to ride.\n    - Increases your ground speed by 135%\n  - Increases Ranged, Focus, Slashing, Aggression and Ordination of caster by 5.0\n  - Reduces maximum falling speed of caster\n  - Increases Crushing of caster by 5.0"
 obtained_from: Random Reward from [[Goblin Games]]
 item_link: 1208090260 1442354302:Magical Storm Whistle
 categories:

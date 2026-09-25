@@ -23,7 +23,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,249 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: 'Collection reward: [[Quartermaster''s Equipment]]'
 item_link: \aITEM 131630223 -2020421950:Lethal Wand of Devastation\/a
 image: images/Lethal_Wand_of_Devestation.png

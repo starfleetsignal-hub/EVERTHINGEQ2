@@ -7,7 +7,8 @@ slot: Head
 flags: ornate lore no-trade no-value
 stats:
   dtype: Cloth Armor
-effects: '**Cowled**'
+effect_name: Cowled
+effects: '- Applies Cowled when Equipped.'
 obtained_from: 'Quest: [[White Cowls, Black Hearts]]'
 item_link: \aITEM -1601864555 -1601705627:a white cowl\/a
 categories:

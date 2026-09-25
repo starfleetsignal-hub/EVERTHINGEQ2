@@ -22,7 +22,8 @@ stats:
   drating: '1459.2'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,830 magic damage on target instantly and every second.\n    - Inflicts an additional 47 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1246300704 2009935455:Lycanic Truncheon of the Eternal Coven\/a
 categories:
 - Arcane Rending (Equipment)

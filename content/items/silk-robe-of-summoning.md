@@ -17,7 +17,7 @@ stats:
   vselemental: '+615'
   vsarcane: +1,066
   dtype: Cloth Armor
-effects: Essence Infusion
+effects: "- When Equiped:\n  - Applies Essence Infusion to qualifying pets.\n    - On a successful attack this spell has a chance to cast Essence Infusion on target of attack. This effect will trigger an average of 2.0 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n      - Increases power of caster by 300\n      - Inflicts 222 poison damage on target encounter\n      - Inflicts 222 heat damage on target encounter"
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 1931375072 1066047771:[Silk Robe of Summoning]\/a
 categories:

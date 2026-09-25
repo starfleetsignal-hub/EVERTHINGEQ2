@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Ancestral Barrier**'
+effect_name: Ancestral Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancestral Barrier on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 500 points of all damage\n    - Replenishes 100 points of absorption every 5 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -646697255 1875669720 0 0 0:Numinous Voidlink Hauberk\/a
 categories:

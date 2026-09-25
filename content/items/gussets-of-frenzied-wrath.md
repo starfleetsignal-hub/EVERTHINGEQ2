@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Plate Armor
-effects: '**Strike of Force**'
+effect_name: Strike of Force
+effects: "- When Equipped:\n  - Increases damage done by combat arts by up to 45."
 item_link: \aITEM 1681710447 440347087:Gussets of Frenzied Wrath\/a
 categories:
 - Ability Modifier (Equipment)

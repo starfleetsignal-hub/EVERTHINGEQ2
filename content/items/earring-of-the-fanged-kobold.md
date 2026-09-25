@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+117'
   vselemental: '+360'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 obtained_from: '[[Out of Her Element...]]'
 item_link: \aITEM -1056139478 -1492023593:Earring of the Fanged Kobold\/a
 categories:

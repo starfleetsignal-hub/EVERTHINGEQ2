@@ -18,7 +18,8 @@ stats:
   drating: '55.34'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 109 - 203 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -723672798 -1671720984:imbued indium great sword\/a
 categories:
 - Berserker Equipment

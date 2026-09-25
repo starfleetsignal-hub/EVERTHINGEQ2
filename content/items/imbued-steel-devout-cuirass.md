@@ -12,7 +12,8 @@ stats:
   sta: '+7'
   mit: '144'
   dtype: Plate Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 20 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 29) from [[Advanced Armorer Volume 29 (Normal)]] *Crafted by [[Armorer]] (level 29) from [[Advanced Armorer Volume 29 (No-Trade)]]'
 item_link: \aITEM 1178475806 2016247802:Imbued Steel Devout Cuirass\/a
 categories:

@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: '1.0'
   recast: 15.0 seconds
-effects: trauma remedy
+effects: "- Applies trauma remedy when Activated.\n  - Dispels 19 levels of any physical hostile effects on caster."
 obtained_from: Crafted by [[Scholar]] (level 16) from [[Scholar essentials volume 16]]
 item_link: \aITEM -130404708 -1313926288:Trauma Remedy\/a
 categories:

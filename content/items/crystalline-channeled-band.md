@@ -17,7 +17,8 @@ stats:
   aspeed: '11.2'
   multi: '12'
   vselemental: '+511'
-effects: '**Purest Depravity**'
+effect_name: Purest Depravity
+effects: "- When Equipped:\n  - On a hit this spell may cast Purest Depravity on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases AGI of caster by 100.0.\n    - Increases Haste of caster by 40.0.\n    - Increases DPS of caster by 55.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 532627687 1068143256:Crystalline Channeled Band\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '1.3'
   abmod: '+30'
   vsarcane: '+150'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -7567356 -1964572220:Slayer's Crystal Ring of Speed\/a
 categories:
 - Ability Modifier (Equipment)

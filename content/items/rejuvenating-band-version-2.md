@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   vsarcane: '+395'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: Sold by [[A mysterious Quellithulian (Infused Shard Jewelry Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -603365257 -1841143377 0 0 0:Rejuvenating Band\/a
 categories:

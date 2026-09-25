@@ -16,7 +16,8 @@ stats:
   drating: '23.21'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 87 - 145 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -345737188 332771629:Slime-Coated Spikes\/a
 categories:
 - Ancient Glyph of Venom (Equipment)

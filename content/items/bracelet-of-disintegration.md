@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   abmod: '+18'
   vsarcane: '+125'
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 138 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -622155008 -1128564187:Bracelet of Disintegration\/a
 categories:
 - Ability Modifier (Equipment)

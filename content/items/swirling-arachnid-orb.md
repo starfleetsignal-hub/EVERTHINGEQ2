@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Growing Criticals**'
+effect_name: Growing Criticals
+effects: "- Applies Growing Criticals III when Activated.  Lasts for 40.0 seconds.\n  - Increases Crit Bonus of caster by 125.0.\n  - Increases Crit Bonus of caster by an additional 2.8% every 2 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Criticals III is 2 minutes"
 item_link: \aITEM 246416668 -1130031542:Swirling Arachnid Orb\/a
 categories:
 - Assassin Equipment

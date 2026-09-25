@@ -18,7 +18,8 @@ stats:
   dps: '32.4'
   multi: '21.1'
   vselemental: +2,079
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1457175534 -1908035672:Shackle of Lexiconic Hate\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Temporal Timing**<br>**Focused Mind**<br>**Fire of Intellect**'
+effect_name: Temporal Timing, Focused Mind, Fire of Intellect
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 2.0.\n- When Equipped:\n  - Increases the damage of all hostile spells by 10%.\n- When Equipped:\n  - On a damage spell hit this spell has a 12% chance to cast Fire of Intellect on target of spell.  Lasts for 15.0 seconds.\n    - Inflicts 518 - 778 heat damage on target.\n    - Adds normalized spell damage based on 30% of the wizard's intelligence.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Of Fire and Ice: The Dragon''s Marrow]]'
 item_link: \aITEM -1556439464 1176896923:Dragon's Marrow\/a
 categories:

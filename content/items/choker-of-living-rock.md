@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   aspeed: '12.2'
-effects: '**Unleashed Fury**'
+effect_name: Unleashed Fury
+effects: "- Applies Unleashed Fury when Activated.  Lasts for 15.0 seconds.\n  - Shapechanges caster into a wickerman\n  - Increases Crit Bonus of caster by 8.0.\n  - Increases Haste of caster by 25.0.\n  - Enlarges caster by 50.0%.\n  - When a combat art is used this spell will cast Unleashed Fury on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,598 disease damage on target\n    - Heals caster for 799\n    - Increases Threat to target by 875\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - The casting time of Unleashed Fury is 0.5 seconds and the reuse time of the spell is 6 minutes"
 item_link: \aITEM 846144447 -1899373756:Choker of Living Rock\/a
 categories:
 - Attack Speed (Equipment)

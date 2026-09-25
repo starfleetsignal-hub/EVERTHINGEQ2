@@ -17,7 +17,7 @@ stats:
   vselemental: '+205'
   vsarcane: '+205'
   vsnoxious: '+205'
-effects: Empyrean Recovery II
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM 513947339 -1304420937:Crusading Cloak\/a
 categories:

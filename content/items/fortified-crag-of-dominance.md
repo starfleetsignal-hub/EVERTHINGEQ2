@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+5'
   sta: '+5'
-effects: '**Titan''s Mettle**'
+effect_name: Titan's Mettle
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Titan's Mettle on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 81 - 99.\n    - Increases Mitigation of caster vs physical damage by 132.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Fortified Crag of Dominance]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 1708773558 534389865:Fortified Crag of Dominance\/a
 categories:

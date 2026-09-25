@@ -20,7 +20,8 @@ stats:
   drating: '83.3'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Power of Hidden Rage**'
+effect_name: Power of Hidden Rage
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Power of Hidden Rage on caster.  Triggers about 1.8 times per minute.\n    - Heals caster for 438.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -678749024 -707827652:Staff of Spectral Fury\/a
 categories:
 - Ability Modifier (Equipment)

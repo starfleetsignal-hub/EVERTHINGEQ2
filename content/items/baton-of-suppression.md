@@ -20,7 +20,8 @@ stats:
   drating: '75.58'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Stun**'
+effect_name: Stun
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stun IV on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 97.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1947912008 2133690797:Baton of Suppression\/a
 categories:
 - Ability Modifier (Equipment)

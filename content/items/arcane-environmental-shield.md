@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+1'
   vsarcane: '+5'
-effects: '**Arcane Environmental Suit**'
+effect_name: Arcane Environmental Suit
+effects: "- Applies Arcane Environmental Suit when Equipped.\n  - Converts 3% of all arcane damage received into power gain."
 obtained_from: Made with Tinkering (skill 420) from [[Master's Blueprints 0.011]].
 item_link: \aITEM -1433679117 1550845165:Arcane Environmental Shield\/a
 categories:

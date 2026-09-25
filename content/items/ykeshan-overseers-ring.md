@@ -16,7 +16,8 @@ stats:
   abmod: '+133'
   dps: '12.4'
   vselemental: '+395'
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 item_link: \aITEM 867028095 -1495839046:Ykeshan Overseer's Ring\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dtype: Cloth Armor
-effects: '**Distract**'
+effect_name: Distract
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Distract on target's attacker.\n    - Decreases Threat to targets in Area of Effect by 725 - 1,209\n    - Cannot be modified except by direct means"
 item_link: \aITEM -928226666 1432703002:Elaborate Velvet Blouse\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   critbonus: '2'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 10%."
 item_link: \aITEM -2145056408 -2147135565:Arch Lich's Pantaloons\/a
 categories:
 - Ability Modifier (Equipment)

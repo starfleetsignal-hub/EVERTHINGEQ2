@@ -20,7 +20,8 @@ stats:
   multi: '455.9'
   cbovercap: '+145.8'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - This effect may only trigger in Kael Drakkel, Temple of Rallos Zek, and Throne of Storms Fabled zones.\n  - On a hostile ability cast this spell has a 10% chance to cast Torrent on target of spell.\n    - Inflicts 4,537 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 9.0 - 16.0 seconds."
 item_link: \aITEM 1486503098 -1452930946:Fabled Invoker's Depopulating Robe\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -17,7 +17,7 @@ stats:
   vsarcane: '+118'
   vsnoxious: '+118'
   dtype: Plate Armor
-effects: Sanguine Imbued
+effects: "Applies Sanguine when Equipped\n\n- When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n  - Inflicts 124 heat damage on target"
 obtained_from: Crafted by [[Armorer]] (level 47) from [[Advanced Armorer Volume 47]]
 categories:
 - Arcane Resistance (Equipment)

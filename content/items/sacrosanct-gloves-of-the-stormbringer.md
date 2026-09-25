@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: Dropped by [[General Utehk (Challenge Mode Epic)|General Utehk, General Zevitus and General Aakita]] in [[Tallon's Stronghold (Challenge)]]
 item_link: \aITEM -1243437194 -34280630:Sacrosanct Gloves of the Stormbringer\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Silence**'
+effect_name: Silence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Silence on target of spell.  Lasts for 4.8 seconds.  Triggers about 2.0 times per minute.\n    - Stifles target\n    - Must not be engaged in pvp combat\n    - Only affects targets level 121 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 92.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 917053672 -1884558086:Choking Voice Vestments\/a
 categories:
 - AE Autoattack Chance (Equipment)

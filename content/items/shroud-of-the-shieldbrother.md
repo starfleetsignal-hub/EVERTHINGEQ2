@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   flurry: '18.6'
   mitinc: '7.2'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 48 and 148 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -601871281 1828677219:Shroud of the Shieldbrother\/a
 image: images/Shroud_of_the_Shieldbrother.png
 categories:

@@ -15,7 +15,8 @@ stats:
   drating: '14.29'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 33 - 50 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 704568713 1120733501:crude imbued ash club\/a
 categories:
 - Berserker Equipment

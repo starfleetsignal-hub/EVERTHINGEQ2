@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '150'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Reverent Wristguard of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -544908056 -1530865225:Reverent Wristguard of Momentum\/a
 categories:

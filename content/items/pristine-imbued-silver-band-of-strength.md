@@ -11,7 +11,7 @@ stats:
   sta: '+6'
   health: '+5'
   power: '+5'
-effects: Aura of Strength
+effects: "- When Equipped:\n  - On a successful melee attack this spell has a chance to cast Blaze of Strength on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - Increases STR of caster by 5.1\n    - Increases Damage Per Second of caster by 15.2"
 obtained_from: Crafted by [[Scholar]] (level 18) from [[Advanced Scholar Volume 18]]
 item_link: \aITEM -1126827383 302149627:Pristine Imbued Silver Band of Strength\/a
 categories:

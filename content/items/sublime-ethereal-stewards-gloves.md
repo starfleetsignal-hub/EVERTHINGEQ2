@@ -16,7 +16,8 @@ stats:
   multi: '39.2'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[Drinal's Steward (Faction Merchant)]] (Faction Merchant) in [[Obol Plains]]
 item_link: \aITEM 663902687 -808951719 0 0 0:Sublime Ethereal Steward's Gloves\/a
 categories:

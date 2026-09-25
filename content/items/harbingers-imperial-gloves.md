@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '22.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1230846335 -907658236:Harbinger's Imperial Gloves\/a
 categories:
 - Census Credits

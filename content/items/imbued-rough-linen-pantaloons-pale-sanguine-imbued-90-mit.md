@@ -12,7 +12,8 @@ stats:
   int: '+11'
   mit: '89'
   dtype: Cloth Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 52 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1000629276 1685350060:imbued rough linen pantaloons\/a
 categories:
 - Assassin Equipment

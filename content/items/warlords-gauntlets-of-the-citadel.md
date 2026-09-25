@@ -17,7 +17,8 @@ stats:
   potency: '8.6'
   aspeed: '13.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: From [[Inexorable Gauntlets]]
 item_link: \aITEM 723744642 1709510314:Warlord's Gauntlets of the Citadel\/a
 categories:

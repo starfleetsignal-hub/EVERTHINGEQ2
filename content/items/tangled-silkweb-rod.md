@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Chill Gust Glyph**'
+effect_name: Chill Gust Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1505640057 -1153980526:Tangled Silkweb Rod\/a
 categories:
 - Beastlord Equipment

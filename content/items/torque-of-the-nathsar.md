@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dps: '9.7'
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1740166271 -1891968677:Torque of the Nathsar\/a
 categories:
 - Ability Modifier (Equipment)

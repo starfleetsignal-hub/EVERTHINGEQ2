@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   dps: '13.1'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 2031106166 1557879351:Belt of the Erudin Quisling\/a
 categories:
 - Assassin Equipment

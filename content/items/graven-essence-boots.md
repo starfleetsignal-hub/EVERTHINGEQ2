@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -1631964089 -168207792 0 0 0:Graven Essence Boots\/a
 categories:
 - Attack Speed (Equipment)

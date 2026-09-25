@@ -17,7 +17,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 134 - 249 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2109447933 -1275005009:imbued ebon dagger\/a
 aliases:
 - Imbued ebon dagger (Palely Gleaming Strike) (Level 40)

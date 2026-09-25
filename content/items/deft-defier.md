@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +16,380
-effects: '**Stunning Deftness**'
+effect_name: Stunning Deftness
+effects: "- When Equipped:\n  - When avoiding an attack, the wearer will stun their attacker for 2.5 seconds. This can only trigger once every 10 seconds. Does not apply to epic targets."
 item_link: \aITEM -880349168 925422167:Deft Defier\/a
 image: images/Deft_Defier.png
 categories:

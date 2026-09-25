@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: 0.0 seconds
-effects: Summon Green Ethernaut Carpet
+effects: "- Applies Summon Green Ethernaut Carpet when Activated.  Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 35%"
 obtained_from: Sold by [[Jimbo McDaniel]] in [[The Sinking Sands]] for 8 [[D.I.R.T.Y. Money]] tokens
 item_link: \aITEM 1734129792 -1406222619:Flying Symbol of the Ancient Champions in Green\/a
 categories:

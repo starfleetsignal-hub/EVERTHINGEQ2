@@ -17,7 +17,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume II]]
 item_link: \aITEM -522048470 1247905851:Brute's Prodigious Hand Wraps\/a
 categories:

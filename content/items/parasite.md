@@ -17,7 +17,8 @@ stats:
   abmod: +1,591
   aspeed: '36'
   dps: '13.8'
-effects: '**Boundless Plague**'
+effect_name: Boundless Plague
+effects: "- Applies Boundless Plague when Activated.  Lasts for 45.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to disease damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Boundless Plague is 0.4 seconds and the reuse time of the spell is 1 minute 30 seconds"
 item_link: \aITEM -224419203 1216721102:Parasite\/a
 categories:
 - Ability Modifier (Equipment)

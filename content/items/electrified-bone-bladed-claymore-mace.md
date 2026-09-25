@@ -18,7 +18,8 @@ stats:
   drating: '44.35'
   dtype: Two-Handed Crushing
   wtype: Mace
-effects: '**Thunder Strike**'
+effect_name: Thunder Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 218 - 266 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 14664041 848685976:Electrified Bone Bladed Claymore\/a
 aliases:
 - Electrified Bone Bladed Claymore (Level 45)

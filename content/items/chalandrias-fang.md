@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Inject Poison**'
+effect_name: Inject Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Inject Poison on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Inflicts 52 - 64 poison damage on target.\n    - Inflicts 10 - 13 poison damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -2014820333 1525316256:Chalandria's Fang\/a
 categories:
 - Beastlord Equipment

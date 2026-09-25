@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +15,652
-effects: '**Spiritual Sacrifice**'
+effect_name: Spiritual Sacrifice
+effects: "- When Equipped:\n  - Modifies the wearer's Potency based on the number of increments of Spiritual Sacrifice. 0: -15 Potency. 1: -10 Potency. 2: -5 Potency. 3: 0 Potency. 4: 30 Potency. 5: 50 Potency\n  - On a healing spell cast this spell may cast Spiritual Sacrifice on caster.  Lasts for 2 minutes.  Triggers about 1.0 times per minute.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1776877028 -1884469136:Inspired Ring of Sacrifice\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   dps: '23.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1992379598 -1083597909 0 0 0:Kindred Primaeval Gloves\/a
 categories:
 - Census Credits

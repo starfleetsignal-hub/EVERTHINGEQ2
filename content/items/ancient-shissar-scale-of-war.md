@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Hounds of War**'
+effect_name: Hounds of War
+effects: "- When Equipped:\n  - Increases Potency of caster by 20.0.\n  - Increases Crit Bonus of caster by 20.0.\n  - Cannot be modified except by direct means\n- Applies Hounds of War when Activated.  Lasts for 12.0 seconds.\n  - Suspends the passive effect for 30 seconds\n  - On any combat or spell hit this spell will cast Hounds of War on target of attack.\n    - Inflicts 840, 000 magic damage on the target\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Hounds of War is 1 minute"
 item_link: \aITEM 452081949 -2104094847:Ancient Shissar Scale of War\/a
 categories:
 - Assassin Equipment

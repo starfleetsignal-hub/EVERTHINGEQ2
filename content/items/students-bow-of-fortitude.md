@@ -26,7 +26,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,259 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 110) from [[Woodworker's Primer Volume 08]]
 item_link: \aITEM -1470299069 175593198:Student's Bow of Fortitude\/a
 categories:

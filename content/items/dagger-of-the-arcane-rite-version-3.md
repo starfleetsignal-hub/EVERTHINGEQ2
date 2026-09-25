@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Fiery Impact**'
+effect_name: Fiery Impact
+effects: "- When Equipped:\n  - On a damage spell hit this spell will cast Fiery Impact on target of spell.\n    - Inflicts 27 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1592250883 -257062294:Dagger of the Arcane Rite\/a
 categories:
 - Ability Modifier (Equipment)

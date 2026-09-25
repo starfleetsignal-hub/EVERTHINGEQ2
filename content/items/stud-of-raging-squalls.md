@@ -16,7 +16,8 @@ stats:
   multi: '40.2'
   flurry: '0.6'
   vselemental: +9,504
-effects: '**Frenzied Squall**'
+effect_name: Frenzied Squall
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 3.0.\n  - Increases AE Autoattack of Caster by 7.0%.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Ability Mod of caster by 900.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -513812450 -1784824428:Stud of Raging Squalls\/a
 categories:
 - Ability Modifier (Equipment)

@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: '0.0'
-effects: Call Prismatic Cloud
+effects: "- Applies Call Prismatic Cloud when Activated.\n  - Summons a mount to ride\n    - Increases your group speed by 75%\n    - Increases your air speed by 150%\n  - Increases Ministration, Disruption and Focus of caster by 5.0\n  - Reduces maximum falling speed of caster\n  - Increases Ordination and Subjugation of caster by 5.0"
 item_link: \aITEM -289020119 952495307:[Prismatic Cloud]\/a
 categories:
 - Charm (Inventory Slot)

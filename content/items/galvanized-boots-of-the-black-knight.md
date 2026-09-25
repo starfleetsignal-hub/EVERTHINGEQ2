@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '140'
   dtype: Chain Armor
-effects: '**Mental Feedback**'
+effect_name: Mental Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 76 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1385289666 -1341989147:Galvanized Boots of the Black Knight\/a
 categories:
 - Assassin Equipment

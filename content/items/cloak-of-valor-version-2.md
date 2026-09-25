@@ -13,7 +13,8 @@ stats:
   crit: '1.7'
   critbonus: '0.5'
   potency: '2.5'
-effects: '**Countenance of Marr**'
+effect_name: Countenance of Marr
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Countenance of Marr on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 50.0.\n    - Increases DPS of caster by 15.0.\n    - Enlarges caster by 40.0%.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Trials of the Truthbringer]]'
 item_link: \aITEM 251951550 685031901:Cloak of Valor\/a
 categories:

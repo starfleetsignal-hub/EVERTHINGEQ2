@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 70) from [[Ancient Knowledge: Reverent Wristguard of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 1108575632 -1727980138:Reverent Wristguard of the Profound\/a
 categories:

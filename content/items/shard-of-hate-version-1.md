@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   abmod: '+105'
   aspeed: '6'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM 787683361 -232369864 0 0 0:Shard of Hate\/a
 categories:
 - Ability Modifier (Equipment)

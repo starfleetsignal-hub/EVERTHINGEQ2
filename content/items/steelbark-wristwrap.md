@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vselemental: '+347'
-effects: '**Lesser Overloaded Heal**'
+effect_name: Lesser Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 2.8 times per minute.\n    - Heals group members (AE) for 221.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Planting the Evidence]]'
 item_link: \aITEM 751774940 2035213084:Steelbark Wristwrap\/a
 categories:

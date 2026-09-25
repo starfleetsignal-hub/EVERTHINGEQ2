@@ -17,7 +17,8 @@ stats:
   abmod: '+92'
   dps: '10.1'
   dtype: Chain Armor
-effects: '**Fallout**'
+effect_name: Fallout
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Fallout on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases DPS of targets in Area of Effect by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -260762869 759690457:War Torn Shoulder Pads\/a
 categories:
 - Ability Modifier (Equipment)

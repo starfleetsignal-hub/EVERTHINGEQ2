@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+101'
   multi: '6.5'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -19657709 -1014082650:Drape of the Emerald Council\/a
 categories:
 - Ability Modifier (Equipment)

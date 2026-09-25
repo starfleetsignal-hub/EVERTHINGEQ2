@@ -18,7 +18,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Bladeward**'
+effect_name: Bladeward
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bladeward on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of caster vs physical damage by 480.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1954980361 -136746816:Tonfa of Bladewarding\/a
 aliases:
 - Tonfa of Bladewarding (Level 50)

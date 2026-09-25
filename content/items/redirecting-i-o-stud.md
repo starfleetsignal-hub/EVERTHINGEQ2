@@ -16,7 +16,8 @@ stats:
   dps: '28.6'
   vselemental: +32,207
   mitinc: '7.6'
-effects: '**Building Furor**'
+effect_name: Building Furor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 30% chance to cast Building Furor on target.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases STA of caster by 95.0, multiplied by increment stacks.\n    - Increases Potency of caster by 8.0, multiplied by increment stacks.\n    - This effect increments up to 10 times.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1630423063 1137584653:Redirecting I/O Stud\/a
 categories:
 - Arcane Resistance (Equipment)

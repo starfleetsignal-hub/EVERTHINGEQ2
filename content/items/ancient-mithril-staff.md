@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Impact on target of attack.  Lasts for 2.5 seconds.  Triggers about 1.8 times per minute.\n    - Throws target back\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 406402351 934616742:Ancient Mithril Staff\/a
 categories:
 - Ability Modifier (Equipment)

@@ -12,7 +12,7 @@ stats:
   int: '+10'
   health: '+20'
   power: '+20'
-effects: Aura of Intelligence
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cast Flash of Intelligence on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases INT of caster by 12.2\n    - Increases Subjugation, Focus and Disruption of caster by 7.2"
 obtained_from: Crafted by [[Jeweler]] (level 36) from [[Advanced Jeweler Volume 36]]
 categories:
 - Assassin Equipment

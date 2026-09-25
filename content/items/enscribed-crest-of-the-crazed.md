@@ -16,7 +16,8 @@ stats:
   aspeed: '86.5'
   vselemental: +8,415
   mitinc: '4'
-effects: '**Crazed Spirit**'
+effect_name: Crazed Spirit
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,584.4.\n  - This effect will not stack with any other similar effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1588940737 -592805689:Enscribed Crest of the Crazed\/a
 categories:
 - Ability Modifier (Equipment)

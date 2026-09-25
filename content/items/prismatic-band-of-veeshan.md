@@ -13,7 +13,8 @@ stats:
   critbonus: '15'
   potency: '15'
   vselemental: +9,900
-effects: '**Rejuvenating Kills**'
+effect_name: Rejuvenating Kills
+effects: "- When Equipped:\n  - On a death blow this spell will cast Rejuvenating Kills on caster.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 5,972.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1795112715 1825758982:Prismatic Band of Veeshan\/a
 categories:
 - Arcane Resistance (Equipment)

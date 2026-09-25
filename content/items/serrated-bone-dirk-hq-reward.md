@@ -17,7 +17,8 @@ stats:
   drating: '33.79'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 10.0."
 obtained_from: 'Heritage quest reward: [[The Reaching Blade of the Assassin]]'
 item_link: \aITEM 124071189 -857570832:Serrated Bone Dirk\/a
 image: images/Serrated_Bone_Dirk.jpg

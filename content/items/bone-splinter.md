@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ice Bone Shards**'
+effect_name: Ice Bone Shards
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -721439800 844410640:Bone Splinter\/a
 image: images/Bone_Splinter.jpg
 categories:

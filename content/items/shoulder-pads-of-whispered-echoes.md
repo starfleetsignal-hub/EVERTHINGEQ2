@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Leather Armor
-effects: '**Silence**'
+effect_name: Silence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silence V on target of attack.  Lasts for 6.0 seconds.  Triggers about 1.0 times per minute.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 84.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2059257092 1325807555:Shoulder Pads of Whispered Echoes\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   aspeed: '5.7'
   dtype: Leather Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 275139389 698488677:Plainstrider's Feral-Touched Bands\/a
 categories:
 - Attack Speed (Equipment)

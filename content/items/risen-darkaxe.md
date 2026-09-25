@@ -18,7 +18,8 @@ stats:
   drating: '56.17'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Siphon Life**'
+effect_name: Siphon Life
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Siphon Life on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 72 - 88.\n    - Inflicts 128 - 192 magic damage on target.\n    - Heals caster for 143 - 175.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1682023256 -1634916482:Risen Darkaxe\/a
 categories:
 - Berserker Equipment

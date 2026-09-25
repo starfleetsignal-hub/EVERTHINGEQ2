@@ -16,7 +16,8 @@ stats:
   abmod: +1,591
   aspeed: '18'
   vselemental: +29,521
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 item_link: \aITEM -932542597 1775757257:Hollowed Metamorphic Rock\/a
 categories:
 - Ability Modifier (Equipment)

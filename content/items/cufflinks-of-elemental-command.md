@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   abmod: '+162'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 1912231446 -852918728:Cufflinks of Elemental Command\/a
 categories:
 - Ability Modifier (Equipment)

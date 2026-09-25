@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   dps: '6'
   dtype: Plate Armor
-effects: '**Aggravate**'
+effect_name: Aggravate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aggravate I on target of attack.  Triggers about 0.8 times per minute.\n    - Increases Threat to target by 1,050\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2140052215 506748498:Cuirass of the Metallica Supreme\/a
 categories:
 - Aggravate (Equipment)

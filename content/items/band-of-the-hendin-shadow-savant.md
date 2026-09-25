@@ -16,7 +16,8 @@ stats:
   abmod: '+431'
   aspeed: '18.4'
   vsarcane: +1,833
-effects: '**Blood and Ashes**'
+effect_name: Blood and Ashes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blood and Ashes on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,139 - 1,259 slashing damage on target encounter instantly and every 2 seconds.\n    - Heals group members (AE) for 1,247 - 1,378 instantly and every 2 seconds.\n    - Decreases Potency of target encounter by 10%.\n    - Increases Potency of group members (AE) by 10%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 508967306 -2137999494 0 0 0:Band of the Hendin Shadow Savant\/a
 categories:
 - Ability Modifier (Equipment)

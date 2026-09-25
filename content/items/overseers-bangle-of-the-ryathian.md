@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +10,660
-effects: '**Warstrike**'
+effect_name: Warstrike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Warstrike on caster.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2090388192 -720621855:Overseer's Bangle of the Ryathian\/a
 categories:
 - Arcane Resistance (Equipment)

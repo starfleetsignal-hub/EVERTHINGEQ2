@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 2041092046 -1912046837:Shadowsoles\/a
 categories:
 - Ability Modifier (Equipment)

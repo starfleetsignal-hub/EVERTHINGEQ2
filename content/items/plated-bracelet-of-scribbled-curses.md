@@ -15,7 +15,9 @@ stats:
   abmod: '+221'
   dps: '19.1'
   vselemental: +8,415
-effects: '**Cursed Reprisal**'
+effect_name: Cursed Reprisal
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Blurted Curse on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Blurted Curse on target's attacker.\n      - Inflicts 456 - 504 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Blurted Curse on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Blurted Curse on target's attacker.\n      - Inflicts 456 - 504 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat\n    - Cannot be modified\
+  \ except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 371890229 1480551157:Plated Bracelet of Scribbled Curses\/a
 categories:
 - Ability Modifier (Equipment)

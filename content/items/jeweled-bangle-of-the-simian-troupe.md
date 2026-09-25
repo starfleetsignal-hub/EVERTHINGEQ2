@@ -17,7 +17,8 @@ stats:
   resolve: '435'
   aspeed: '29'
   vselemental: +286,875
-effects: '**Preparation Check**'
+effect_name: Preparation Check
+effects: "- Applies Preparation Check when Activated.  Lasts for 10.0 seconds.\n  - \"Preparation Check\" will display and compare the resolve for all active member(s) of the caster's current raid against the resolve of the currently targeted enemy. Must have a target that requires the \"Resolve\" statistic and the target must be labeled as a \"Named\" or \"Boss\"  in order to use this effect.\n  - The casting time of Preparation Check is 5.0 seconds and the reuse time of the spell is 45.0 seconds"
 item_link: \aITEM 18670303 1586114664:Jeweled Bangle of the Simian Troupe\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '257'
   dtype: Plate Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 65 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 49) from [[Armorer Essentials Volume 49 (Normal)]] *Crafted by [[Armorer]] (level 49) from [[Armorer Essentials Volume 49 (no-trade)]]'
 item_link: \aITEM 1316077926 -993317990:Imbued Fulginate Devout Greaves\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   multi: '17.5'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 265572482 -1672211427 0 0 0:Scaled Tavalan Gauntlets\/a
 categories:
 - Berserker Equipment

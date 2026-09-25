@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   dps: '18.8'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM -662566092 1761258572 0 0 0:Perforated Cloak of the Terranai\/a
 categories:
 - Assassin Equipment

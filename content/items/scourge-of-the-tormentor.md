@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Tormenting Strike Glyph**'
+effect_name: Tormenting Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 37 - 46 disease damage on target.\n    - Inflicts 35 - 43 disease damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Varsoon Tormentor]]'
 item_link: \aITEM -876605439 1380405480:Scourge of the Tormentor\/a
 categories:

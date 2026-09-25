@@ -15,7 +15,8 @@ stats:
   potency: '28.9'
   abmod: '+795'
   dps: '27.6'
-effects: '**Power Through**'
+effect_name: Power Through
+effects: "- Applies Power Through III when Activated.  Lasts for 15 minutes.\n  - Applies Power Through III.  Lasts for 22.5 seconds.\n    - Increases Crit Bonus of group members (AE) by 6.0, multiplied by increment stacks.\n    - Increases Potency of group members (AE) by 6.0, multiplied by increment stacks.\n    - Increments up to 10 times, once every 4 seconds\n    - Cannot be modified except by direct means\n  - Drains 5% of the caster's power instantly. Every 4 seconds, the power drain increases by 5% up to 50%. Terminates if the caster doesn't have enough power to maintain the spell\n  - If over 5% power\n  - Cannot be modified except by direct means\n  - The reuse time of Power Through III is 1 minute 30 seconds"
 item_link: \aITEM 1583935692 1123406604:Grim Sentence\/a
 categories:
 - Ability Modifier (Equipment)

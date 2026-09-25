@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Plate Armor
-effects: '**Mending Touch**'
+effect_name: Mending Touch
+effects: "- When Equipped:\n  - On a healing spell cast this spell has a 8% chance to cast Mending Touch on target of spell cast.  Lasts for 30.0 seconds.\n    - Heals target for 142 instantly and every 3.3 seconds.\n    - Cannot be modified except by direct means\n  - Only affects targets level 50 and above"
 item_link: \aITEM -1591163074 1694924849:Plate Helm of the Ether\/a
 categories:
 - Berserker Equipment

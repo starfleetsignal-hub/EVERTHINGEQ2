@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Power Stream**'
+effect_name: Power Stream
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Power Stream on the group.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of group members by 65 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -939774711 -1187016757:Vuulan's Earhoop of the Herald\/a
 categories:
 - Arcane Resistance (Equipment)

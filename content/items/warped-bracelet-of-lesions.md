@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   multi: '31.2'
   vselemental: +11,088
-effects: '**Flames of Death**'
+effect_name: Flames of Death
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Flames of Death on target of attack.  Lasts for 18.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 450,000 heat damage on target.\n    - Increases Crit Bonus of caster by 15.0.\n    - Increases Haste of caster by 31.2.\n    - Increases Mitigation of caster vs elemental damage by 2,000.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1268573128 -1628400929:Warped Bracelet of Lesions\/a
 categories:
 - AE Autoattack Chance (Equipment)

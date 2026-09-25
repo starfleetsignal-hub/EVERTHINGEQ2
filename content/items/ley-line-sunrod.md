@@ -20,7 +20,8 @@ stats:
   drating: '127.1'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Sold by [[Bad''Ushra]] in [[Moonfield Hamlet]]  for 40 [[Mark of Manaar]]s'
 item_link: \aITEM 1647812440 665186423:Ley Line Sunrod\/a
 categories:

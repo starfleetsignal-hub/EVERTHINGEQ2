@@ -17,7 +17,8 @@ stats:
   abmod: '+101'
   dps: '10.6'
   dtype: Plate Armor
-effects: '**Rejuvenation of Marr**'
+effect_name: Rejuvenation of Marr
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rejuvenation of Marr on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 756 divine damage on target.\n    - Increases power of caster by 360.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2092413663 1690432480:Gussets of Marr's Chosen\/a
 categories:
 - Ability Modifier (Equipment)

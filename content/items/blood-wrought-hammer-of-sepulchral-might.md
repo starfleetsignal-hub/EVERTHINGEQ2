@@ -24,7 +24,8 @@ stats:
   drating: '3447.36'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 125) from [[Recipe Scroll: Blood-Wrought Hammer of Sepulchral Might]] *Made from [[Blood-Wrought Weapon Mold]]'
 item_link: \aITEM -3514792 516449367:Blood-Wrought Hammer of Sepulchral Might\/a
 image: images/Blood-Wrought_Hammer_of_Sepulchral_Might.png

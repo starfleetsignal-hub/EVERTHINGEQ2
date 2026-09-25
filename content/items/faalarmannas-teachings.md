@@ -17,7 +17,8 @@ stats:
   potency: 4,829.3
   resolve: '90'
   aspeed: '76.5'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 2144385274 689956151:Faal'Armanna's Teachings\/a
 categories:
 - Assassin Equipment

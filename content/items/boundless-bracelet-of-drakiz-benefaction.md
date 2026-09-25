@@ -16,7 +16,8 @@ stats:
   aspeed: '16.2'
   multi: '17'
   vselemental: +1,728
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1664556150 773645242:Boundless Bracelet of Drakiz Benefaction\/a
 categories:
 - Arcane Resistance (Equipment)

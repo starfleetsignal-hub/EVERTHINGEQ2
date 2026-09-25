@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '193'
   dtype: Plate Armor
-effects: '**Dim Lambent Imbued**'
+effect_name: Dim Lambent Imbued
+effects: "- Applies Dim Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 17 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 158287772 974029458:shaped imbued feyiron vanguard cuirass\/a
 categories:
 - Berserker Equipment

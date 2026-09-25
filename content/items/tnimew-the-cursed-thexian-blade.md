@@ -18,7 +18,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Thexian Curse**'
+effect_name: Thexian Curse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Thexian Curse on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases DPS of target by 25.8 - 31.5.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1557953921 -1066703632:T'Nimew, the Cursed Thexian Blade\/a
 categories:
 - Assassin Equipment

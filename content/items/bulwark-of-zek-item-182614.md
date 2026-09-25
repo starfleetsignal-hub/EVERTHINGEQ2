@@ -11,7 +11,7 @@ stats:
   charges: 1/1
   casting: Instant
   recast: 3 minutes
-effects: Bulwark of Zek
+effects: "- Applies Bulwark of Zek when Activated. Lasts for 12.0 seconds.\n  - Wards the caster against all damage for 30% of their maximum health.\n  - This effect cannot be cast during combat\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 40) from [[Bulwark of Zek (recipe book)]]
 item_link: \aITEM 910856615 -1654259346:Bulwark of Zek\/a
 categories:

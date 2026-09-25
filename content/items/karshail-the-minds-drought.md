@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Mind''s Drought**'
+effect_name: Mind's Drought
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mind's Drought on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 31 - 38.\n    - Increases power of caster by 31 - 37.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1504426821 1739027984:Karshail, the Mind's Drought\/a
 categories:
 - Ability Modifier (Equipment)

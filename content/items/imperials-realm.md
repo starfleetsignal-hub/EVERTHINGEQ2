@@ -15,7 +15,8 @@ stats:
   abmod: '+750'
   dps: '26.1'
   vselemental: +26,832
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 48 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 64."
 item_link: \aITEM 2147384521 1950290820:Imperial's Realm\/a
 categories:
 - Ability Modifier (Equipment)

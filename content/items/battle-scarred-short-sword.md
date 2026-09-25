@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Flare Column Glyph**'
+effect_name: Flare Column Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1815130453 -490986440:Battle-Scarred Short Sword\/a
 categories:
 - Assassin Equipment

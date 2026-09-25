@@ -16,7 +16,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Tailor]] (level 90) from [[Ancient Knowledge: Reinforced Gi of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 1972139408 -1718925715:Reinforced Gi of the Mountain\/a
 image: images/Reinforced_Gi_of_the_Mountain.jpg

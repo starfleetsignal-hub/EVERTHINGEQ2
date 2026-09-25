@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Leather Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM -110773575 -1185080324 0 0 0:Furious Voidchanneled Wristlets of Restoration\/a
 categories:
 - Ability Modifier (Equipment)

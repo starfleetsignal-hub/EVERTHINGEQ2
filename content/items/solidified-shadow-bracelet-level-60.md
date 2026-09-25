@@ -14,7 +14,8 @@ stats:
   potency: '2.5'
   aspeed: '3.8'
   vsarcane: '+561'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 5.0."
 item_link: \aITEM -446127932 -1783511103:Solidified Shadow Bracelet\/a
 categories:
 - Arcane Resistance (Equipment)

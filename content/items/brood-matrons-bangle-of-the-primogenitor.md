@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   int: '+2'
-effects: '**Memory of Scale**'
+effect_name: Memory of Scale
+effects: "- Applies Memory of Scale when Activated.\n  - Dispels 19 levels of hostile Fear effects on caster\n  - Dispels 19 levels of hostile Root, hostile Stifle, hostile Stun and hostile Daze effects on group members (AE)\n  - The casting time of Memory of Scale is 1.0 second and the reuse time of the spell is 2 minutes"
 obtained_from: '[[Kill or be Killed]]'
 item_link: \aITEM -1656843262 528438679:Brood Matron's Bangle of the Primogenitor\/a
 categories:

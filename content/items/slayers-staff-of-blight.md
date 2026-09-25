@@ -20,7 +20,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Ancient Glyph of Flame**'
+effect_name: Ancient Glyph of Flame
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Flame on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 124 - 207 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1516251082 865528133:Slayer's Staff of Blight\/a
 categories:
 - AE Autoattack Chance (Equipment)

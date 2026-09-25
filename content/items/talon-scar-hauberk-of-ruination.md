@@ -17,7 +17,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1218987540 -2137923978:Talon Scar Hauberk of Ruination\/a
 categories:
 - Assassin Equipment

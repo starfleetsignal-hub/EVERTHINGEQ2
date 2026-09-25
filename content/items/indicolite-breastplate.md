@@ -17,7 +17,8 @@ stats:
   aspeed: '6'
   dps: '11'
   dtype: Plate Armor
-effects: '**Wall of Terror**'
+effect_name: Wall of Terror
+effects: "- When Equipped:\n  - Increases the caster's effectiveness of worn armor vs physical damage by 10%.\n  - When any damage is received this spell has a 4% chance to cast Wall of Terror on caster.  Lasts for 5.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Prevents AOE (except when direct)\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1814746018 834310279:Indicolite Breastplate\/a
 categories:
 - Attack Speed (Equipment)

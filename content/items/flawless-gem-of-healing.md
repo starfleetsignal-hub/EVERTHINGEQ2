@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   abmod: '+152'
-effects: '**Flawless Aura of Protection**'
+effect_name: Flawless Aura of Protection
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Flawless Aura of Protection on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces all damage done to target by 10%. This spell will absorb a total of 5 attacks.\n    - Increases the base healing of the caster by 5%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Complete the achievement [[Flawless Victory: The Shadow Odyssey]]'
 item_link: \aITEM 1132459187 -1244409981:Flawless Gem of Healing\/a
 categories:

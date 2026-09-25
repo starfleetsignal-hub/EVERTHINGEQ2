@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +19,032
-effects: '**Theer''s Triumph**'
+effect_name: Theer's Triumph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Theer's Triumph II on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 220,000 mental damage to the target. If the caster is in a group with 3 or more members, the damage is increased to 473,000\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1055106590 -1745722542:Wristlet of Subterrestrial Triumphs\/a
 image: images/Wristlet_of_Subterrestrial_Triumphs.png
 categories:

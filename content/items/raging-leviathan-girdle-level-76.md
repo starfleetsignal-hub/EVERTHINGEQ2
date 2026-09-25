@@ -13,7 +13,8 @@ stats:
   crit: '2.3'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Leviathan''s Revenge**'
+effect_name: Leviathan's Revenge
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Leviathan's Revenge on caster.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Applies Leviathan's Burnout on termination.\n      - Inflicts 25.0% of max health in mental damage on caster.\n    - Increases Hate Gain of caster by 20.0.\n    - Enlarges caster by 30.0%.\n    - Increases damage done by Combat Arts by up to 300.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2006837031 -627509994:Raging Leviathan Girdle\/a
 categories:
 - Assassin Equipment

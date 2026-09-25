@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Mutagenic Downpour**'
+effect_name: Mutagenic Downpour
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mutagenic Downpour on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 174,930 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1399167068 1745598092:Fabled Euktrkai's Mutagenic Band\/a
 categories:
 - Arcane Resistance (Equipment)

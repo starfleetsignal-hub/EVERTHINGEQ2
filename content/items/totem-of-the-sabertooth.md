@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Sabertooth
+effects: "- Applies **Spirit Totem of the Sabertooth** when activated. Lasts for 30 minutes.\n  - Increases speed of caster by 55%\n  - Shape changed caster into a Sabertooth\n  - This effect suspends during combat\n  - Only effects targets level 80 and above"
 obtained_from: Crafted by [[Woodworker]] (level 81) from [[Woodworker Essentials Volume 81]]
 item_link: \aITEM -867072739 -558888986:[Totem of the Sabertooth]\/a
 categories:

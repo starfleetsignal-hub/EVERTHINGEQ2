@@ -16,7 +16,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: '+511'
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1225500338 1585700363:Ring of Fungal Horror\/a
 categories:
 - Arcane Resistance (Equipment)

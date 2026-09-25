@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   dtype: Plate Armor
-effects: '**Invader''s Effort**'
+effect_name: Invader's Effort
+effects: "- When Equipped:\n  - Increases Potency of caster by 13,935.6.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -945546505 -720064298:Tha'Bael's Pauldrons of the Invader\/a
 categories:
 - Berserker Equipment

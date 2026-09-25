@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+8'
   vselemental: '+84'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 14.3.\n    - Increases Haste of caster by 18.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1732021904 -1150726757:Imbued Ruby Ring of Agility\/a
 categories:
 - Ability Modifier (Equipment)

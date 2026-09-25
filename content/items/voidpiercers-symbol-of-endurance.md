@@ -20,7 +20,8 @@ stats:
   cbovercap: '+80.5'
   mitinc: '30.2'
   dtype: Symbols
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,799 heat damage on target.\n    - Inflicts 3,799 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 114) from [[Advanced Weaponsmith Studies 14]]
 item_link: \aITEM -1525331245 2062759118:Voidpiercer's Symbol of Endurance\/a
 categories:

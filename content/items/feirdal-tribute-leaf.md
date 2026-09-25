@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Blessing of Tribute**'
+effect_name: Blessing of Tribute
+effects: "- Applies Blessing of Tribute when Equipped.\n  - Increases STR, STA, AGI, INT and WIS of caster by 0.8."
 obtained_from: '[[Tribute Flowers]] ()'
 item_link: \aITEM -283984137 1071985504:Feir'Dal Tribute Leaf\/a
 image: images/Feir'Dal_Tribute_Leaf.png

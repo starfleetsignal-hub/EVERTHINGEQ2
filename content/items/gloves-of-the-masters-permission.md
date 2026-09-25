@@ -17,7 +17,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1771423498 114086118:Gloves of the Master's Permission\/a
 categories:
 - Assassin Equipment

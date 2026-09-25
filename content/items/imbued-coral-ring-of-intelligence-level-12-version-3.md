@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   sta: '+4'
   int: '+4'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 4.7.\n    - Increases Disruption, Subjugation and Focus of caster by 2.8.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -333613383 -1678832219:imbued coral ring of intelligence\/a
 aliases:
 - Imbued coral ring of intelligence (Level 10) (7 int)

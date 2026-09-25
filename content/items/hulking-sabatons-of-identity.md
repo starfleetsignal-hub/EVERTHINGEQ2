@@ -16,7 +16,8 @@ stats:
   potency: '7'
   dps: '18.1'
   dtype: Plate Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1114332447 1504544054:Hulking Sabatons of Identity\/a
 categories:
 - Berserker Equipment

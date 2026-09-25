@@ -17,7 +17,8 @@ stats:
   dps: '12.4'
   multi: '7.7'
   dtype: Chain Armor
-effects: '**Greater Vampire Bane**'
+effect_name: Greater Vampire Bane
+effects: "- When Equipped:\n  - Additional equipment with Vampire Bane improves this effect.\n  - On any combat or spell hit this spell may cast Greater Vampire Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 972 divine damage on target.\n      - Must be classified as a vampire\n    - Inflicts 486 divine damage on target.\n      - Must not be classified as a vampire\n    - Decreases Mitigation of target vs arcane damage by 720.\n      - Must be classified as a vampire\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Vampire Hunter''s Lockbox]] * *Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}'
 item_link: \aITEM -1409622756 -181052347:Boots of the Vampire Slayer\/a
 categories:

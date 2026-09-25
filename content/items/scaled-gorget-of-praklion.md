@@ -17,7 +17,8 @@ stats:
   potency: '12.6'
   dps: '32.4'
   multi: '21.1'
-effects: '**Bloodthirst**<br>**Shivering Enragement**'
+effect_name: Bloodthirst, Shivering Enragement
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Combat Mana Regen of caster by 10.0%.\n  - Increases Max Power of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 8.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -965909412 937590443:Scaled Gorget of Praklion\/a
 categories:
 - Bloodthirst (Equipment)

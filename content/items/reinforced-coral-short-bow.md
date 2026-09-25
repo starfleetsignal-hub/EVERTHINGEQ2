@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Breach**'
+effect_name: Breach
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 5.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2030869928 604991085 0 0 0:Reinforced Coral Short Bow\/a
 categories:
 - Assassin Equipment

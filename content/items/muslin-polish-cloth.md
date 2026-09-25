@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -242157393 1728806611:Muslin Polish Cloth\/a
 categories:
 - Ability Modifier (Equipment)

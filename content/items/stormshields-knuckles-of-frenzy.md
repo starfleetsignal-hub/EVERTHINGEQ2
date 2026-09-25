@@ -24,7 +24,8 @@ stats:
   drating: '1313.28'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,300 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -891791419 1598474604:Stormshield's Knuckles of Frenzy\/a
 categories:
 - Anguish (Equipment)

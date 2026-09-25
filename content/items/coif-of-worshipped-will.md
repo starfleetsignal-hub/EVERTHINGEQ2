@@ -17,7 +17,8 @@ stats:
   abmod: '+203'
   aspeed: '10.2'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM 853178414 750965620:Coif of Worshipped Will\/a
 categories:
 - Ability Modifier (Equipment)

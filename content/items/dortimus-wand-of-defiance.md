@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Impassive Being**'
+effect_name: Impassive Being
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Impassive Being on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 15.0.\n    - Makes caster immune to Mesmerize effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -913599040 379700094:Dortimus, Wand of Defiance\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dps: '4.2'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 21.6.\n    - Increases DPS of caster by 28.3.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 344600206 -1689841162:shaped imbued vanadium band of strength\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   abmod: '+16'
   dtype: Leather Armor
-effects: '**Slip**'
+effect_name: Slip
+effects: "- When Equipped:\n  - When any damage is received this spell has a 4% chance to cast Slip on target's attacker.\n    - Decreases threat priority of target by 1 position\n    - Cannot be modified except by direct means"
 item_link: \aITEM 500092241 476149084:Permafrost Tunic\/a
 categories:
 - Ability Modifier (Equipment)

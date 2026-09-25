@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Stunning Blast**'
+effect_name: Stunning Blast
+effects: "- Applies Stunning Blast when Activated.  Lasts for 5.0 seconds.\n  - Stuns targets in Area of Effect\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Stunning Blast is 3 minutes"
 item_link: \aITEM -1478877357 -702043015:Fabled Exarch's Clasp\/a
 categories:
 - Assassin Equipment

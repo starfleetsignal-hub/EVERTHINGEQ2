@@ -18,7 +18,8 @@ stats:
   resolve: '500'
   cbovercap: '+1536.9'
   dtype: Tower Shield
-effects: '**Wary Protection**<br>**Blessing of the Truthbringer**'
+effect_name: Wary Protection, Blessing of the Truthbringer
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - \"Blessing of the Truthbringer\" protects the wearer from strong deific magics used by Mithaniel Marr!"
 item_link: \aITEM -1759886435 -324536496:Valorous Shield of the Truthbringer [Rank IV]\/a
 categories:
 - Berserker Equipment

@@ -8,7 +8,8 @@ level: '60'
 slot: Charm
 classes: '[[Jeweler]]'
 flags: attunable
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 320) from [[Master's Blueprints 0.001]].
 item_link: \aITEM 940180554 303900639:Enigma of Tunare\/a
 categories:

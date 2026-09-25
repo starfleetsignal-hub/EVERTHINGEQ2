@@ -12,7 +12,8 @@ stats:
   int: '+45'
   crit: '3.2'
   vsnoxious: '+588'
-effects: '**Chaos Rift**'
+effect_name: Chaos Rift
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM 720048920 -947483744:Chaos Rift Clasp\/a
 categories:
 - Arcane Resistance (Equipment)

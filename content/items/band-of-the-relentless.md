@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   multi: '3.4'
   vselemental: '+420'
-effects: '**Fragile as Glass**'
+effect_name: Fragile as Glass
+effects: "- Applies Fragile as Glass when Activated.  Lasts for 1 minute.\n  - Decreases Mitigation of target vs physical damage by 588.\n  - Must be engaged in pvp combat\n  - The casting time of Fragile as Glass is 2.0 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM 1723536814 1506337585:Band of the Relentless\/a
 categories:
 - Arcane Resistance (Equipment)

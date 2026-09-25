@@ -15,7 +15,8 @@ stats:
   potency: '8.4'
   abmod: '+270'
   vsarcane: '+564'
-effects: '**Soul Barrier**'
+effect_name: Soul Barrier
+effects: "- When Equipped:\n  - On a block this spell has a 10% chance to cast Soul Barrier on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 1,000 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1841281536 2036675983:Ring of the Avazek Bishop\/a
 categories:
 - Ability Modifier (Equipment)

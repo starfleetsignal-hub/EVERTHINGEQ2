@@ -18,7 +18,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Leather Armor
-effects: '**Presence of Mind**'
+effect_name: Presence of Mind
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Presence of Mind on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of the casters next spell by 100%"
 item_link: \aITEM 698533382 -223646585:Warlord's Helm of the Ancient One\/a
 categories:
 - Ability Modifier (Equipment)

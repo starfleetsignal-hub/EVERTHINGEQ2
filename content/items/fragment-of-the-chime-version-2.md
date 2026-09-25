@@ -16,7 +16,8 @@ stats:
   multi: '5.4'
   flurry: '2.4'
   vselemental: '+665'
-effects: '**Battle Presence**'
+effect_name: Battle Presence
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Battle Presence on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes caster immune to Stun effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1541961820 1489397633:Fragment of the Chime\/a
 categories:
 - Arcane Resistance (Equipment)

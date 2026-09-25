@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '14.4'
   vselemental: +33,491
-effects: '**Uplifting Soul**'
+effect_name: Uplifting Soul
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 37.5.\n  - Increases Potency of caster by 37.5."
 item_link: \aITEM -71093849 412706741:Band of the Righteous\/a
 categories:
 - Ability Modifier (Equipment)

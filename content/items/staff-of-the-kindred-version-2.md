@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Arcane Fear**'
+effect_name: Arcane Fear
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Fear VI on target of spell.  Lasts for 3.0 seconds.  Triggers about 2.2 times per minute.\n    - Makes target afraid\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1073271655 -722420723:Staff of the Kindred\/a
 categories:
 - Ability Modifier (Equipment)

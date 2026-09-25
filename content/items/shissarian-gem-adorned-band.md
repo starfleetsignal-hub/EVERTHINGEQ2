@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Sacred Rites**'
+effect_name: Sacred Rites
+effects: "- When Equipped:\n  - Once per 30 seconds, if one of the caster's allies falls below 5% power and the caster is over 25% power, the caster will transfer 20% of their power to the target."
 item_link: \aITEM -486113809 -2093998323:Shissarian Gem Adorned Band\/a
 categories:
 - Ability Modifier (Equipment)

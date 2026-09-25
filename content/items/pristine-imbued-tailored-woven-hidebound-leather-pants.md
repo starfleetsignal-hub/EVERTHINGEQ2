@@ -18,7 +18,7 @@ stats:
   vsarcane: '+412'
   vsnoxious: '+412'
   dtype: Leather Armor
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when equipped\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 227 heat damage on target"
 obtained_from: Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76]]
 item_link: \aITEM -791651161 -1535680812:Pristine Imbued Tailored Woven Hidebound Leather Pants\/a
 categories:

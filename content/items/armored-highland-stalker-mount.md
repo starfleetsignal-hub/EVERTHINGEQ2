@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Armored Highland Stalker
+effects: "- Applies Call Armored Highland Stalker when Activated.\n  - Summons a mount to ride that increases your speed by 65%"
 obtained_from: From Sentinel's Fate Collector's Edition
 categories:
 - Assassin Equipment

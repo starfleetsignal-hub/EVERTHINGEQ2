@@ -13,7 +13,8 @@ stats:
   mit: '153'
   abmod: '+8'
   dtype: Leather Armor
-effects: '**Mental Feedback**'
+effect_name: Mental Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 103 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -53165172 871816615:Gloves of Madness\/a
 categories:
 - Ability Modifier (Equipment)

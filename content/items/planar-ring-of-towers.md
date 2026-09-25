@@ -19,7 +19,8 @@ stats:
   aspeed: '72.2'
   vselemental: +87,497
   mitinc: '22.7'
-effects: '**Celestial Juggernaut**'
+effect_name: Celestial Juggernaut
+effects: "- When Equipped:\n  - Increases Max Health of caster by 5.0%.\n  - Increases Max Health of caster by 250,000.0."
 item_link: \aITEM 1781574751 -1715903804:Planar Ring of Towers\/a
 categories:
 - Arcane Resistance (Equipment)

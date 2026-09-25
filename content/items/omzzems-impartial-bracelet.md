@@ -16,7 +16,8 @@ stats:
   abmod: '+843'
   dps: '29'
   vselemental: +35,154
-effects: '**Impartial Engagement**'
+effect_name: Impartial Engagement
+effects: "- Applies Impartial Engagement when Activated.  Lasts for 8.0 seconds.\n  - Reduces all damage done to caster by 60%.\n  - Suspends the passive effect for 8 seconds.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Impartial Engagement is 0.5 seconds and the reuse time of the spell is 10 minutes\n- When Equipped:\n  - Increases Potency of caster by 150.0."
 item_link: \aITEM -136832720 1194856090:Omzzem's Impartial Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

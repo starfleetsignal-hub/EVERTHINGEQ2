@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   dps: '5.7'
   dtype: Leather Armor
-effects: '**Enlightened Aura**'
+effect_name: Enlightened Aura
+effects: "- When Equipped:\n  - When damaged in combat this spell has a 7% chance to cast Enlightened Stun on target's attacker.  Lasts for 7.0 seconds.\n    - Stuns target\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1496588402 -1553502886:Crown of Enlightenment\/a
 categories:
 - Census Credits

@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: '+827'
   dps: '28.6'
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless when Activated.  Lasts for 15.0 seconds.\n  - Increases the potency of heals and wards by 70%.\n  - Prevents caster from being Interrupted due to movement\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless is 1 minute 20 seconds"
 item_link: \aITEM -1251731814 869024306:Grave-caller's Clasp\/a
 categories:
 - Ability Modifier (Equipment)

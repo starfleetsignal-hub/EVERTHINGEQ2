@@ -21,7 +21,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Darkness of the Void**'
+effect_name: Darkness of the Void
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Darkness of the Void on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 684 - 836 cold damage on target.\n    - Inflicts 684 - 836 poison damage on target.\n    - Inflicts 684 - 836 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1896601010 -1044123810:Iniquity, Vortex Hammer\/a
 categories:
 - Beastlord Equipment

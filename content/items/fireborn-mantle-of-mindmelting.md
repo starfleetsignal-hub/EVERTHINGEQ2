@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 8%."
 obtained_from: '* *Made from [[Elemental Vanquisher''s Mantle Mold]] *Made from [[Elemental Vanquisher''s Mantle Pattern]]'
 item_link: \aITEM 1425997216 91129455 0 0 0:Fireborn Mantle of Mindmelting\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '6.3'
   potency: '10.6'
   aspeed: '16.8'
-effects: '**Greater Bolstering Roar**'
+effect_name: Greater Bolstering Roar
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Greater Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Greater Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -278720719 -1135491835:Ornamented Sash of the Utterly Murderous\/a
 categories:
 - Assassin Equipment

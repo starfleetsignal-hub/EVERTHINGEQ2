@@ -19,7 +19,8 @@ stats:
   resolve: '29'
   aspeed: '66.3'
   mitinc: '17.5'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,071.9.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1394524912 451554151:Fyreflyte's Fiery Flight\/a
 categories:
 - Assassin Equipment

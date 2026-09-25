@@ -15,7 +15,7 @@ stats:
   vselemental: '+308'
   vsarcane: '+308'
   vsnoxious: '+308'
-effects: Aura of Agility
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast **Flare of Agility** on caster. Lasts for 45.0 seconds.\n    - Increases AGI of caster by 27\n    - Increases Attack Speed of caster by 26"
 obtained_from: Crafted by [[Jeweler]] (level )
 item_link: \aITEM -1469447231 -2096221504:pristine imbued tynnonium band of agility\/a
 categories:

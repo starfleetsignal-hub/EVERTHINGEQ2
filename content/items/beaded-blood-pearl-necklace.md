@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   abmod: '+369'
   multi: '16.5'
-effects: '**Zealot''s Force**'
+effect_name: Zealot's Force
+effects: "- When Equipped:\n  - Increases DPS of caster by 5.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 728653131 86194630:Beaded Blood Pearl Necklace\/a
 categories:
 - Ability Modifier (Equipment)

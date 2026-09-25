@@ -16,7 +16,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   vselemental: +1,175
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -2045363977 500681789:Underfoot Ring of Earthen Healing\/a
 categories:
 - Arcane Resistance (Equipment)

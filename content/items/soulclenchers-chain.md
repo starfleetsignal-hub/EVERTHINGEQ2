@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: '**Armor of the Ulthork**'
+effect_name: Armor of the Ulthork
+effects: "- When Equipped:\n  - When the wearer dies, they will take only half armor damage.\n  - Cannot be modified except by direct means"
 obtained_from: '*Marketplace *[[Agent of Growth]]'
 item_link: \aITEM 1963380248 1104580527:Soulclencher's Chain\/a
 image: images/Soulclencher's_Chain.png

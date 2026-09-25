@@ -24,7 +24,8 @@ stats:
   drating: '262.54'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.3%.\n    - Inflicts 1,430 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1415737150 -455122718:Planar Prototype Epee\/a
 categories:
 - AE Autoattack Chance (Equipment)

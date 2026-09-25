@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Power of Darkness**'
+effect_name: Power of Darkness
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Power of Darkness on target of spell.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 216.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -160059843 -2102366618:Cruel Trinket of Treachery\/a
 categories:
 - Ability Modifier (Equipment)

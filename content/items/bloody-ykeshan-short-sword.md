@@ -22,7 +22,8 @@ stats:
   drating: '254.7'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Ykesha''s Vengeance**'
+effect_name: Ykesha's Vengeance
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ykesha's Vengeance on target of attack.  Triggers about 2.6 times per minute.\n    - Inflicts 23,751,000 - 29,029,000 magic damage on target.\n      - This effect cannot be critically applied.\n    - Only affects targets level 100 and above\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Fabled Weapons of the Orcish Wastes]]'
 item_link: \aITEM -1491192520 -695186360:Bloody Ykeshan Short Sword\/a
 image: images/Bloody_Ykeshan_Short_Sword.png

@@ -17,7 +17,8 @@ stats:
   dps: '25.8'
   multi: '33.9'
   dtype: Chain Armor
-effects: '**Pentamerous Destruction**'
+effect_name: Pentamerous Destruction
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM -1199145006 -715175109 0 0 0:Hydra Scale Chain Gauntlets\/a
 categories:
 - Accuracy (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +22,204
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon V on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 177,760 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM -487017365 -2020100844:Infernal Focus\/a
 categories:
 - Ability Modifier (Equipment)

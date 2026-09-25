@@ -17,7 +17,8 @@ stats:
   dps: '5'
   multi: '1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1694425539 2134438944:Forest Hunter's Gloves\/a
 categories:
 - Ability Modifier (Equipment)

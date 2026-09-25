@@ -16,7 +16,8 @@ stats:
   aspeed: '25.9'
   dps: '43.1'
   dtype: Round Shield
-effects: '**Marr''s Fist**'
+effect_name: Marr's Fist
+effects: "- When Equipped:\n  - On a block this spell has a 11% chance to cast Marr's Fist on target's victim.  Lasts for 9.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 5,759 - 6,365 crushing damage on target.\n    - Increases Hate Gain of caster by 15.0.\n    - Increases Block Chance of caster by 22.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -924947093 502568959:Round Shield of Great Sacrifice\/a
 categories:
 - AE Autoattack Chance (Equipment)

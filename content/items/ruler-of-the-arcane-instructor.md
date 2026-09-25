@@ -21,7 +21,8 @@ stats:
   drating: '62.38'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 194.\n    - Increases power of caster by 108.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Faru N`Mar]] (Faction Merchant) in [[Teren's Grasp]] for 10g 28s 16c
 item_link: \aITEM 1456688867 -1093977151:Ruler of the Arcane Instructor\/a
 categories:

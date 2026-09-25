@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Symbols
-effects: '**Flameshield**'
+effect_name: Flameshield
+effects: "- Applies Flameshield when Activated.  Lasts for 30.0 seconds.\n  - Wards caster against 2,500 points of elemental damage\n  - The casting time of Flameshield is 7.0 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[Storming the Necropolis]]'
 item_link: \aITEM -593697805 776559451:Marked Flameshield of Scale\/a
 image: images/Marked_Flameshield_of_Scale.jpg

@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,884
   dps: '51.8'
-effects: '**Malevolent Mantra**'
+effect_name: Malevolent Mantra
+effects: "- Applies Malevolent Mantra when Activated.  Lasts for 15.0 seconds.\n  - Increases Potency of group members (AE) by 500.0.\n  - Requires 50 stacks of Mounting Malevolence to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Malevolent Mantra is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 1773387860 914101726:Darkened Fang\/a
 categories:
 - Ability Modifier (Equipment)

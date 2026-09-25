@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   vsarcane: '+280'
-effects: '**Amplify Healing**'
+effect_name: Amplify Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Amplify Healing on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell by 25%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM -45803218 963185350 0 0 0:Bangle of Polished Marble\/a
 categories:
 - Ability Modifier (Equipment)

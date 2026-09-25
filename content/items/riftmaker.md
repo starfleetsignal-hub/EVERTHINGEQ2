@@ -17,7 +17,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Alacritous Incantation**<br>**Entangling Thorns**'
+effect_name: Alacritous Incantation, Entangling Thorns
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 5 percent.\n- When Equipped:\n  - On a hostile spell cast this spell may cast Entangling Thorns on target of spell.  Lasts for 1.9 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 175 - 214 mental damage on target.\n    - Slows target by 33.0%.\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 399838596 -233273456:Riftmaker\/a
 categories:
 - Ability Modifier (Equipment)

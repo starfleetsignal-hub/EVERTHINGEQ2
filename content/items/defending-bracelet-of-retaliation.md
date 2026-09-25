@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +15,652
-effects: '**Retaliation**'
+effect_name: Retaliation
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Retaliation II on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 38,456 - 42,504 slashing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1032578741 -4721208:Defending Bracelet of Retaliation\/a
 categories:
 - Arcane Resistance (Equipment)

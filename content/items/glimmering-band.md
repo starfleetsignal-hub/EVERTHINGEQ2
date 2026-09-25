@@ -13,7 +13,8 @@ stats:
   wis: '+19'
   crit: '0.2'
   potency: '0.5'
-effects: '**Blessing of Aniksis**'
+effect_name: Blessing of Aniksis
+effects: "- Applies Blessing of Aniksis when Activated.  Lasts for 2.4 seconds.\n  - Makes caster immune to Root effects\n  - Makes caster immune to Stifle effects\n  - Makes caster immune to Stun effects\n  - Makes caster immune to Fear effects\n  - Makes caster immune to Daze effects\n  - Prevents caster from changing targets\n  - Must be engaged in pvp combat\n  - Only affects targets level 79 and below\n  - The reuse time of Blessing of Aniksis is 30 minutes"
 item_link: \aITEM -1999500542 -1693803916:Glimmering Band\/a
 categories:
 - Blessing of Aniksis (Equipment)

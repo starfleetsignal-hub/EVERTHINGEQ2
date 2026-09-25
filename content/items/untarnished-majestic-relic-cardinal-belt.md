@@ -17,7 +17,8 @@ stats:
   potency: 45,356.9
   resolve: '545'
   abmod: +3922,339
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2026885988 -1834630741:Untarnished Majestic Relic Cardinal Belt\/a
 categories:
 - Ability Modifier (Equipment)

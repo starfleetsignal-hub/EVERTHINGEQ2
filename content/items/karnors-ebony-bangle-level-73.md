@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   dps: '9.7'
   vselemental: '+329'
-effects: '**Concussive Blast**'
+effect_name: Concussive Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Concussive Blast on target of spell.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Stuns target\n    - Must not be engaged in pvp combat\n    - Only affects targets level 125 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 92.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1920074262 -1682434915:Karnor's Ebony Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

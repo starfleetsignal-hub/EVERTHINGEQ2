@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +15,750
-effects: '**Crush Armor**'
+effect_name: Crush Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Crush Armor III on target of attack.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 1,300.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 obtained_from: '[[Down to the Bone]]'
 item_link: \aITEM -525264933 1036471726:Ghorkaal Bone Wristlet\/a
 image: images/Ghorkaal_Bone_Wristlet.png

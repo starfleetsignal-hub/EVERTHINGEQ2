@@ -14,7 +14,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   abmod: '+105'
-effects: '**Grim Image**'
+effect_name: Grim Image
+effects: "- When Equipped:\n  - This effect can only be triggered by physical damage.\n  - On death this spell has a 15% chance to cast Grim Image on caster.  Lasts for 1 hour.\n    - Decreases power of caster by 4,860.\n    - Heals caster for 5,400.\n    - This effect can only activate once every 60 minutes.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, slash or pierce abilities."
 obtained_from: '[[The Black Heart of Hatred]]'
 item_link: \aITEM -1666052717 -100105342:Hand of Death\/a
 categories:

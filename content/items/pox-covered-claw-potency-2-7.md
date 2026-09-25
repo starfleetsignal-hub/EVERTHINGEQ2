@@ -13,7 +13,8 @@ stats:
   crit: '7'
   critbonus: '2.9'
   potency: '2.7'
-effects: '**Pestilential Rain**<br>**Molten Carnage**'
+effect_name: Pestilential Rain, Molten Carnage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Applies Molten Carnage IV to qualifying pets.\n    - Increases Potency of caster by 4.0.\n    - Increases Casting Speed of caster by 10.0%."
 item_link: \aITEM 258627846 -861688721:Pox Covered Claw\/a
 categories:
 - Casting Speed (Equipment)

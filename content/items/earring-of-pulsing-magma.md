@@ -16,7 +16,8 @@ stats:
   dps: '13'
   multi: '8.1'
   vselemental: +1,000
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -40758951 397311023:Earring of Pulsing Magma\/a
 categories:
 - Arcane Recovery (Equipment)

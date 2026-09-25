@@ -13,7 +13,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Terrorbird
+effects: "- Applies Call Terrorbird when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 60%\n    - Increases your air speed by 200%\n    - Increases Focus, Ministration, Crushing, Ranged, Disruption, Piercing, Aggression, Subjugation, Ordination and Slashing of caster by 5.0"
 item_link: 1991103530 -726442611:Terrorbird
 categories:
 - Assassin Equipment

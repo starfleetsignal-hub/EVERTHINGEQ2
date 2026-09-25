@@ -11,7 +11,8 @@ stats:
   str: '+8'
   sta: '+8'
   vsarcane: '+40'
-effects: '**Fiery Feedback**'
+effect_name: Fiery Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 1% chance to cast Fiery Feedback on target's attacker.\n    - Inflicts 48 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2134432972 611625725:Ring of Solar Warmth\/a
 categories:
 - Arcane Resistance (Equipment)

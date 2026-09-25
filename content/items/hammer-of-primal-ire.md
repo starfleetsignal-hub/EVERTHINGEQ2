@@ -22,7 +22,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Arbiter''s Justice**'
+effect_name: Arbiter's Justice
+effects: "- When Equipped:\n  - On a hit this spell may cast Arbiter's Justice on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,718 heat damage on target instantly and every 2.5 seconds.\n    - Inflicts an additional 2,022 heat damage on target every tick.\n    - Increases Max Health of group members by 4.0%.\n    - Increases Crit Bonus of group members by 5.0.\n    - Increases Potency of group members by 5.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 836152265 -70460422:Hammer of Primal Ire\/a
 categories:
 - Arbiter's Justice (Equipment)

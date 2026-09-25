@@ -16,7 +16,8 @@ stats:
   drating: '18.16'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Endless Wounds**'
+effect_name: Endless Wounds
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Endless Wounds II on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1 cold damage on target instantly and every 2 seconds.\n    - Inflicts an additional 1 cold damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Endless Wounds II on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1 cold damage on target instantly and every 2 seconds.\n    - Inflicts an additional 1 cold damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 20) from [[Ancient Knowledge: Destructive Longsword of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -686273796 212098717:Destructive Longsword of Authority\/a
 categories:

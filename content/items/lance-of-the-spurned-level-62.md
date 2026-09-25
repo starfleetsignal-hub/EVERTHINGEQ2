@@ -20,7 +20,8 @@ stats:
   drating: '73.3'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Scorn of the Spurned**'
+effect_name: Scorn of the Spurned
+effects: "- Applies Scorn of the Spurned when Equipped.\n  - On a combat hit this spell may cast Scorn of the Spurned on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 1,795\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1521776847 1240357009:Lance of the Spurned\/a
 categories:
 - Beastlord Equipment

@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Briny Deep**'
+effect_name: Briny Deep
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 7.5.\n  - Increases Potency of caster by 7.5.\n  - Grants a 5.0% chance to resist Stun effects\n  - Cannot be modified except by direct means"
 obtained_from: From [[Ethernere Weapon]]
 item_link: \aITEM -72552444 338692287:Hullpiercer, Ship Destroyer\/a
 categories:

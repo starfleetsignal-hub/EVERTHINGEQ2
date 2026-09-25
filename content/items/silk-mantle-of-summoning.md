@@ -17,7 +17,8 @@ stats:
   vselemental: '+615'
   vsnoxious: +1,066
   dtype: Cloth Armor
-effects: '**Empowered Summoner**'
+effect_name: Empowered Summoner
+effects: "- When Equipped:\n  - Increases base Spell and Combat Art damage of pet by 5%.\n  - Increases base Spell damage of caster by 5%."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -2046019415 1161059173:[Silk Mantle of Summoning]\/a
 categories:

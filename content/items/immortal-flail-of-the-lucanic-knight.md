@@ -18,7 +18,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 2116989546 -912997593:Immortal Flail of the Lucanic Knight\/a
 categories:
 - Casting Speed (Equipment)

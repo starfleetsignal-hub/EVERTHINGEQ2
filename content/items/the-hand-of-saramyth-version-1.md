@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Fettering Strike**'
+effect_name: Fettering Strike
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Fettering Strike on target of spell.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases DPS of target by 7.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 385660833 7414395:The Hand of Saramyth\/a
 image: images/The_Hand_of_Saramyth.png
 categories:

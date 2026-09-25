@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.3'
   dtype: Plate Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Ancient Knowledge: Devout Bracers of Alleviation]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 580793044 1753369224:Devout Bracers of Alleviation\/a
 categories:

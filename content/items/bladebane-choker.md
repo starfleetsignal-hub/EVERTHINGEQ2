@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   dps: '18.8'
   flurry: '5.1'
-effects: '**Bladeshield**'
+effect_name: Bladeshield
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Bladeshield on caster.  Lasts for 12.0 seconds.  Triggers about 1.2 times per minute.\n    - Wards caster against 1,200 points of physical damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -440271346 -2038772911:Bladebane Choker\/a
 categories:
 - Ability Modifier (Equipment)

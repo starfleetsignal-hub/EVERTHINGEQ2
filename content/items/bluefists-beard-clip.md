@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   abmod: '+763'
   dps: '26.4'
-effects: '**Riddle**'
+effect_name: Riddle
+effects: "- Applies Riddle when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to piercing damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Riddle is 1 minute 30 seconds"
 obtained_from: '[[Gilzin''s Lingering Legacy]]'
 item_link: \aITEM -399791966 -1988607377:Bluefist's Beard Clip\/a
 categories:

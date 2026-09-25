@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+338'
-effects: '**Concussive Blast**'
+effect_name: Concussive Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Concussive Blast on target of spell.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Stuns target\n    - Must not be engaged in pvp combat\n    - Only affects targets level 125 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 94.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 472944460 -746448193:Concussive Hoop of the Sentinel\/a
 categories:
 - Ability Modifier (Equipment)

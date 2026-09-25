@@ -18,7 +18,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Element''s Call**'
+effect_name: Element's Call
+effects: "- When Equipped:\n  - Increases damage done by elemental spells by up to 50 and lowers their fuel cost by 25."
 item_link: \aITEM -1872705492 -733561301:Element's Call\/a
 categories:
 - Assassin Equipment

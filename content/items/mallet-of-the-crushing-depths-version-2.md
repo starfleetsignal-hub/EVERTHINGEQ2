@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frost Blast on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 303 - 505 cold damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1600770425 1226198744:Mallet of the Crushing Depths\/a
 categories:
 - Beastlord Equipment

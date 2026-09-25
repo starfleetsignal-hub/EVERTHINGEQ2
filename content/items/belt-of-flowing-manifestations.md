@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dps: '9.7'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1745332121 1574827528:Belt of Flowing Manifestations\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '20.6'
   resolve: '1'
   dps: '25.8'
-effects: '**Building Furor**'
+effect_name: Building Furor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 30% chance to cast Building Furor on target.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases STA of caster by 95.0, multiplied by increment stacks.\n    - Increases Potency of caster by 8.0, multiplied by increment stacks.\n    - This effect increments up to 10 times.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -1656802225 -1452370797:Faceted Bornite Torque\/a
 categories:

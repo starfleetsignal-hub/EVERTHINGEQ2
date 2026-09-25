@@ -16,7 +16,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 655278306 1503498392:Savant's Phantasmic Silk Robe of Conjuring\/a
 categories:
 - Ability Modifier (Equipment)

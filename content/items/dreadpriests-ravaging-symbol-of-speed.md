@@ -16,7 +16,8 @@ stats:
   abmod: '+137'
   dps: '12.8'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 79467794 425894018:Dreadpriest's Ravaging Symbol of Speed\/a
 categories:
 - Ability Modifier (Equipment)

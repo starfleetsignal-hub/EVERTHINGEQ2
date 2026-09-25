@@ -17,7 +17,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 76949516 -1826531856:Greathammer of the Devastator\/a
 categories:
 - Ability Modifier (Equipment)

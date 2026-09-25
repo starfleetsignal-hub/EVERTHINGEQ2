@@ -16,7 +16,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   dtype: Cloth Armor
-effects: '**Lesser Bitter Miasma**'
+effect_name: Lesser Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 345.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -989311662 1889856915:Emissary's Sleeves\/a
 categories:
 - Ability Modifier (Equipment)

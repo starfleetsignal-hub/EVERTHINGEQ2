@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   aspeed: '2.6'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 21.5.\n    - Increases DPS of caster by 26.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -86148852 294926908:shaped imbued acrylia band of strength\/a
 categories:
 - Assassin Equipment

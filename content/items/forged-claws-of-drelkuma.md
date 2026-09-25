@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: '**Resolute Defense**'
+effect_name: Resolute Defense
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Resolute Defense III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Health Regen of caster by 55.0.\n    - Increases Max Health of caster by 3,174.8.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Resolute Defense III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Health Regen of caster by 55.0.\n    - Increases Max Health of caster by 3,174.8.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1360846979 1337437958:Forged Claws of Drelkuma\/a
 categories:
 - Brawler Equipment

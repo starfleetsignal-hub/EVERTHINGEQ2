@@ -18,7 +18,8 @@ stats:
   drating: '59.02'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 196 - 364 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1032035704 -2013663020:Imbued Cobalt Executioner Axe\/a
 categories:
 - Berserker Equipment

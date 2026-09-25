@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Tower Shield
-effects: '**Firesong**'
+effect_name: Firesong
+effects: "- When Equipped:\n  - Increases Crit Chance of caster by 2.0.\n  - When a combat art is used this spell will cast Firesong on target of combat art.\n    - Inflicts 48 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Riliss Woodworking Volume II]]
 item_link: \aITEM -551644658 -1757040516:Rilissian Elite Targ Shield\/a
 categories:

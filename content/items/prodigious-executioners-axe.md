@@ -20,7 +20,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Slashing
   wtype: Slashing
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM 375174582 786330193:Prodigious Executioner's Axe\/a
 categories:
 - Berserker Equipment

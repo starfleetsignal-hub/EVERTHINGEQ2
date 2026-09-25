@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   vselemental: '+473'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: Sold by [[Rockshaper Jorgun]] (Faction Merchant) in [[The Hole]]<br>Requires 30,000 faction with Guardians of the Underfoot
 item_link: \aITEM -1891588287 1759494692:Band of Elemental Prowess\/a
 categories:

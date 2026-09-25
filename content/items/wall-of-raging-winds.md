@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Buckler
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Wall of Healing]], [[Wispy Wall of Air]] and 1p 50g
 item_link: \aITEM -1556361028 -336753458:Wall of Raging Winds\/a
 categories:

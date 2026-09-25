@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+235'
-effects: '**Gift of Silence**'
+effect_name: Gift of Silence
+effects: "- When Equipped:\n  - When any magical damage is received this spell has a 25% chance to cast Gift of Silence on caster.  Lasts for 6.0 seconds.\n    - Increases Mitigation of caster vs arcane damage by 2,580.\n    - Increases Mitigation of caster vs elemental damage by 2,580.\n    - Increases Mitigation of caster vs noxious damage by 2,580.\n    - Cannot be modified except by direct means\n    - Will trigger off of mental, magic, heat, divine, disease, cold or poison abilities."
 item_link: \aITEM 1807050560 -1158784496:Auditor of Silence\/a
 image: images/Auditorofsilence.jpg
 categories:

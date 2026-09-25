@@ -14,7 +14,7 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: Armor of Harla Dar
+effects: "- When Equipped:\n  - When the wearer dies, they will take only half armor damage.\n  - Potentially provides protection from Nagafen's flames.\n  - Cannot be modified except by direct means."
 obtained_from: '[[Barking at the Moon]]'
 item_link: \aITEM -1970292061 -655120400:Token of Veeshan\/a
 categories:

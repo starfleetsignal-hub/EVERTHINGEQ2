@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Flowing Invigoration**'
+effect_name: Flowing Invigoration
+effects: "- When Equipped:\n  - Whenever the wearer receives a Mana Flow, they will gain 60% Crit Bonus and 15% Max Health for 10 seconds"
 item_link: \aITEM -1644003220 1052831331:Superior Metallic Hoop of the Void\/a
 categories:
 - Arcane Resistance (Equipment)

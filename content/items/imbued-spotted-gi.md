@@ -17,7 +17,8 @@ stats:
   aspeed: '8.1'
   multi: '8.9'
   dtype: Leather Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 109 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 89) from [[Advanced Tailor Volume 89 (Heirloom)]] *Crafted by [[Tailor]] (level 89) from [[Advanced Tailor Volume 89 (Normal)]]'
 item_link: \aITEM 501891972 1977192915:Imbued Spotted Gi\/a
 categories:

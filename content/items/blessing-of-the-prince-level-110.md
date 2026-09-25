@@ -17,7 +17,8 @@ stats:
   resolve: '32'
   dps: '52.8'
   vselemental: +73,025
-effects: '**Hate''s Fate**'
+effect_name: Hate's Fate
+effects: "- When Equipped:\n  - Increases STA of caster by 1,000.0.\n  - This effect improves for each tier of bosses that has been defeated in Shard of Hate [Raid].\n  - Cannot be modified except by direct means"
 item_link: \aITEM 415882078 -604666412:Blessing of the Prince\/a
 categories:
 - Arcane Resistance (Equipment)

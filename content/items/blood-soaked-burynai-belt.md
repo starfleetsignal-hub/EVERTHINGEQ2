@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+147'
-effects: '**Transfixion**'
+effect_name: Transfixion
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Transfixion on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base damage of hostile spells cast by 8%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1713388864 2081033629:Blood-soaked Burynai Belt\/a
 categories:
 - Ability Modifier (Equipment)

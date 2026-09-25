@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Chain Armor
-effects: '**Magical Alacrity**<br>**Haste**'
+effect_name: Magical Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 2 percent.\n- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM 1498696942 1433351777 0 0 0:Lyrical Chain Gloves\/a
 categories:

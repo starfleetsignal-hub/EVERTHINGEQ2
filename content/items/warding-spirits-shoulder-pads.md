@@ -14,7 +14,8 @@ stats:
   potency: '10'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Magical Alacrity**'
+effect_name: Magical Alacrity
+effects: "- When Equipped:\n  - Increases Casting Speed of target by 5.0%."
 item_link: \aITEM -1978517361 -1577103757:Warding Spirit's Shoulder Pads\/a
 categories:
 - Ability Modifier (Equipment)

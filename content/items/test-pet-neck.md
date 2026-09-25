@@ -8,7 +8,8 @@ level: '95'
 slot: Neck
 flags: attunable heirloom
 description: 1/1 prismatic gem slots filled
-effects: '**Test Pet**'
+effect_name: Test Pet
+effects: "- Applies Test Pet when Equipped.\n  - Converts the caster's spells to heat damage.\n  - Converts the pets spells to crushing damage.c."
 item_link: \aITEM -1121429254 -693628131:Test Pet Neck\/a
 aliases:
 - Test Pet Neck (1 Gem)

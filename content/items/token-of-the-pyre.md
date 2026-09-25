@@ -17,7 +17,8 @@ stats:
   potency: 7,235.1
   resolve: '190'
   aspeed: '91.3'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 3,807.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 672289382 -464037305:Token of the Pyre\/a
 categories:
 - Assassin Equipment

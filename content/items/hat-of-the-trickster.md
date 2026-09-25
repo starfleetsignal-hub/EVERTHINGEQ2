@@ -16,7 +16,7 @@ stats:
   mit: '293'
   vsarcane: '+525'
   dtype: Chain Armor
-effects: Distraction
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 5% chance to cast Distraction on target's attacker\n    - Decreases Threat to target by 700"
 item_link: -2130880691 458668857:Hat of the Trickster
 categories:
 - Arcane Resistance (Equipment)

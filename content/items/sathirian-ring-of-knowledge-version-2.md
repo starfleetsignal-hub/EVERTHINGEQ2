@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+98'
   vselemental: '+360'
-effects: '**Magical Aptitude**'
+effect_name: Magical Aptitude
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 2 percent."
 item_link: \aITEM -1130573836 336276171:Sathirian Ring of Knowledge\/a
 categories:
 - Ability Modifier (Equipment)

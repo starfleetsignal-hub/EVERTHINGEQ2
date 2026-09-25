@@ -12,7 +12,7 @@ stats:
   vsarcane: '5400'
   vsnoxious: '5400'
   charges: Unlimited
-effects: Summon Cavedrifter
+effects: "- Applies Summon Cavedrifter when Activated.\n  - Summons a mount to ride.\n    - Increases your Ground Speed by 100%\n    - Increases your Air Speed by 150%\n  - Increases: Chance to Block by 4.0%, Potency by 75.0%, Crit Chance by 280.0, Max power by 6,000.0, Max Health by 17,000.0, Ability Modifier by 11,000.0\n  - Your Adventure Level must be 100 to receive Statistic Bonuses"
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   dps: '9.7'
   vselemental: '+347'
-effects: '**Lesser Concussive Blast**'
+effect_name: Lesser Concussive Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Concussive Blast on target of spell.  Lasts for 2.5 seconds.  Triggers about 1.6 times per minute.\n    - Stuns target\n    - Only affects targets level 125 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 96.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1168810982 -1726612723:Bracelet of Seething Hydration\/a
 categories:
 - Arcane Resistance (Equipment)

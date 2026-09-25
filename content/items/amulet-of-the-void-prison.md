@@ -15,7 +15,8 @@ stats:
   potency: '5'
   dps: '12.6'
   multi: '7.8'
-effects: '**Nether Banishment**'
+effect_name: Nether Banishment
+effects: "- Applies Nether Banishment when Activated.\n  - The target is banished to the nether realm.\n  - The amulet would have no effect on this target.\n  - The casting time of Nether Banishment is 1.0 second and the reuse time of the spell is 40.0 seconds"
 item_link: \aITEM 956701748 2131796257:Amulet of the Void Prison\/a
 categories:
 - Alchemist Equipment

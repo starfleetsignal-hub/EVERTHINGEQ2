@@ -19,7 +19,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Crushing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1637693273 75403863:Bo of the Eradicator\/a
 categories:
 - Beastlord Equipment

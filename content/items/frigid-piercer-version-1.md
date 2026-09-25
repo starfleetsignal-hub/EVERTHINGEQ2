@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Frigid Burst**'
+effect_name: Frigid Burst
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Frigid Burst on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 486 - 903 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1718006248 609379922:Frigid Piercer\/a
 categories:
 - Assassin Equipment

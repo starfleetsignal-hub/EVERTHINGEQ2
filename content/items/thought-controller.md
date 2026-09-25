@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Hypnotic Tranquility**'
+effect_name: Hypnotic Tranquility
+effects: "- Applies Hypnotic Tranquility III when Activated.  Lasts for 50.0 seconds.\n  - Mesmerizes targets in Area of Effect\n  - Dispelled when target takes damage\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Hypnotic Tranquility III is 3 minutes"
 item_link: \aITEM -1773350856 -319665796:Thought Controller\/a
 categories:
 - Assassin Equipment

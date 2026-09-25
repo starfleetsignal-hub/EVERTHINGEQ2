@@ -21,7 +21,8 @@ stats:
   drating: '71.45'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Taunting Blow**'
+effect_name: Taunting Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Taunting Blow on target of attack.  Triggers about 1.6 times per minute.\n    - Increases Threat to target by 1,050\n    - Cannot be modified except by direct means"
 obtained_from: '[[Nectar of the Villisis]]'
 item_link: \aITEM 24431963 1433823264:Tsinisite Sabre\/a
 categories:

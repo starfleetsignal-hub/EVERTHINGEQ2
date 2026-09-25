@@ -19,7 +19,8 @@ stats:
   aspeed: '14.8'
   multi: '15.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Thudomatonian Gloves]]
 item_link: \aITEM 1734283347 1556539706:Elysian Cuffs of the Virtuoso\/a
 categories:

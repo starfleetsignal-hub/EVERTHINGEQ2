@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   abmod: '+431'
   dps: '29.6'
-effects: '**Reverberations of Steel**'
+effect_name: Reverberations of Steel
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Reverberations of Steel on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Threat to target encounter by 12,064 - 13,265\n    - Decreases Accuracy of target encounter by 5.0%.\n    - Decreases Strikethrough of target encounter by 5.0%.\n    - 4% of all physical damage received by the caster is prevented.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1613287493 1509299803:Petrified Skull of a Bygone Emperor\/a
 categories:
 - Ability Modifier (Equipment)

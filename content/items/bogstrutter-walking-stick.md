@@ -14,7 +14,8 @@ stats:
   critbonus: '1'
   potency: '4.8'
   abmod: '+113'
-effects: '**Bogstrutting**'
+effect_name: Bogstrutting
+effects: "- Applies Bogstrutting when Activated.\n  - Increases speed of caster by 35.0%.\n  - This effect suspends during combat\n  - The casting time of Bogstrutting is 2.0 seconds and the reuse time of the spell is 1.5 seconds"
 obtained_from: '[[Bogstrutter''s Field Guide to the Moors of Ykesha]]'
 item_link: \aITEM 1165117653 -1450580793:Bogstrutter Walking Stick\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '8.8'
   abmod: '+288'
   dtype: Chain Armor
-effects: '**Gallant Intervention**<br>**Celestial Restoration**'
+effect_name: Gallant Intervention, Celestial Restoration
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical healing spell cast this spell may cast Gallant Intervention on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards target against 4,000 points of all damage\n    - Heals target for 277 - 306 instantly and every 2 seconds.\n    - Replenishes 300 points of absorption every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 2,624.\n    - Heals group members (AE) for 875 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Inexorable Hauberk]]
 item_link: \aITEM -1130922535 1676488524:Wraith's Hauberk of the Citadel\/a
 categories:

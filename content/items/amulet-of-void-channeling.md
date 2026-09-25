@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   vsarcane: +1,000
   mitinc: '5.1'
-effects: '**Positive Channeling of the Void**'
+effect_name: Positive Channeling of the Void
+effects: "- When Equipped:\n  - Increases Effective Level of caster to 83.\n  - Must be in Munzok's Material Bastion.\n  - Requires not having an apprentice"
 obtained_from: '[[Hook, Line, and... Anchor?]]'
 item_link: \aITEM -1616202189 822127689:Amulet of Void Channeling\/a
 categories:

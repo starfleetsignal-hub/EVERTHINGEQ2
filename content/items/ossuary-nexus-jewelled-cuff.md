@@ -17,7 +17,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   vselemental: +360,945
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 434634557 -1236673257:Ossuary Nexus Jewelled Cuff\/a
 categories:
 - Arcane Resistance (Equipment)

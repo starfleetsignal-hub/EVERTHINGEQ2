@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate attunable no-value
-effects: '**Amplifying Plume: Max Health**'
+effect_name: 'Amplifying Plume: Max Health'
+effects: "- When Equipped:\n  - Increases Max Health of caster by 90.0%.\n  - The value of this effect is increased by the number of characters in the group or raid wearing an Amplifying Plume effect to a maximum of double the base value."
 obtained_from: '*Crafted by [[Artisan]] (level 0) from [[Basic Plumes for All (Critial, Robust)]] *Crafted by [[Artisan]] (level 0) from [[Basic Plumes for All (Robust, Striking)]] *Crafted by [[Artisan]] (level 0) from [[Plumes of Inspired Jubilation]]'
 item_link: \aITEM -645389794 -1346739560:Robust Plume of Inspired Jubilation\/a
 categories:

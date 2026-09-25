@@ -17,7 +17,8 @@ stats:
   potency: 9,584.7
   resolve: '200'
   dps: '71.8'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 18.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 154124089 -378059948:Ascendant Shard of the Defender\/a
 categories:
 - Assassin Equipment

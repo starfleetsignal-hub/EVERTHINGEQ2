@@ -18,7 +18,8 @@ stats:
   abmod: '+210'
   dps: '18.1'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**<br>**Vicious Focus**'
+effect_name: Arcane Recovery, Vicious Focus
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 5 percent.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Subordination Insubordination]]'
 item_link: \aITEM 930230407 431917236:Gleaming Sleeves of Ulteran Conquerors\/a
 categories:

@@ -8,7 +8,8 @@ level: '60'
 slot: Charm
 classes: '[[Woodworker]]'
 flags: attunable
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 340) from [[Master's Blueprints 0.003]].
 item_link: \aITEM 332647427 -517978644:Measure Twicer\/a
 categories:

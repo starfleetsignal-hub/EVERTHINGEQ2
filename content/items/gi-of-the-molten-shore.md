@@ -17,7 +17,8 @@ stats:
   potency: '3.9'
   mitinc: '4.2'
   dtype: Leather Armor
-effects: '**Inner Flame**'
+effect_name: Inner Flame
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Inner Flame on caster.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Crit Chance of caster by 35.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 840198506 1148854555:Gi of the Molten Shore\/a
 categories:
 - Brawler Equipment

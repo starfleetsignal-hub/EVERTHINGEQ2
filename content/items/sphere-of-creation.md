@@ -15,7 +15,8 @@ stats:
   potency: '27'
   dps: '21.8'
   multi: '31.2'
-effects: '**Earthen Consort**'
+effect_name: Earthen Consort
+effects: "- Applies Earthen Consort II when Activated.  Lasts for 20.0 seconds.\n  - Suspends the passive effect for 120 seconds\n  - Summons an earthen pet that will voraciously taunt foes off the caster for a limited duration.\n  - This item may not be used in a PvP zone.\n  - The casting time of Earthen Consort II is 0.5 seconds and the reuse time of the spell is 2 minutes\n- When Equipped:\n  - When damaged, this spell has a 5% chance to cast Earthen Consort II on target's attacker. Lasts for 10.0 seconds."
 item_link: \aITEM -1328641951 371915066:Sphere of Creation\/a
 categories:
 - Assassin Equipment

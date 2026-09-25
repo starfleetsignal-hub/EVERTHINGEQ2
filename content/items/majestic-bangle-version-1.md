@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+324'
-effects: '**Lesser Overloaded Heal**'
+effect_name: Lesser Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 2.8 times per minute.\n    - Heals group members (AE) for 190.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Swatting the Pests]]'
 item_link: \aITEM 13135568 -165765874:Majestic Bangle\/a
 categories:

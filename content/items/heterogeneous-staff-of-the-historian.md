@@ -20,7 +20,8 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Velium Tempest**<br>**Corrosive Fog**'
+effect_name: Velium Tempest, Corrosive Fog
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,162 - 4,600 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 1,850.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog II on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,082 - 1,196 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1799842769 -766074705:Heterogeneous Staff of the Historian\/a
 categories:
 - Attack Speed (Equipment)

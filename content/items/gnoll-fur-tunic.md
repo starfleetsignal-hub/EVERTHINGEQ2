@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '41'
   dtype: Leather Armor
-effects: '**Glyph of Strength**'
+effect_name: Glyph of Strength
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Strengthen on caster.  Lasts for 30.0 seconds.\n    - Increases STR of caster by 7.2.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -686016512 -1459329579:Gnoll Fur Tunic\/a
 categories:
 - Assassin Equipment

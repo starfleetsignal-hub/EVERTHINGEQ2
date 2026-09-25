@@ -16,7 +16,8 @@ stats:
   potency: '6.8'
   dps: '17.3'
   dtype: Chain Armor
-effects: '**Ancient Invigoration**'
+effect_name: Ancient Invigoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancient Invigoration on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 1,000 points of all damage\n    - Replenishes 250 points of absorption every 2 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '* Sold by [[Sehesh]] in [[Paineel]] for [[Breeches of Planar Divination]] and 45 [[Seal of Arad]] *'
 item_link: \aITEM -1137861885 575431567:Leggings of Ritual Sacrifice\/a
 categories:

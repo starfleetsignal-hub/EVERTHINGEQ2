@@ -16,7 +16,8 @@ stats:
   dps: '35.4'
   multi: '38'
   flurry: '0.6'
-effects: '**Nocturnal Aggression**'
+effect_name: Nocturnal Aggression
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Nocturnal Aggression on the group.  Lasts for 9.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Crit Bonus of group members (AE) by 8.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1015353601 1714371436:Rancor\/a
 categories:
 - Assassin Equipment

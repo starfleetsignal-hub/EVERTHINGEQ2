@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 90) from [[Ancient Knowledge: Devout Breastplate of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 938226226 249548933:Devout Breastplate of Revelations\/a
 categories:

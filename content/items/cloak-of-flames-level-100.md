@@ -18,7 +18,8 @@ stats:
   resolve: '14'
   abmod: +6,721
   flurry: '12.9'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM -537432918 1047335969:Cloak of Flames\/a
 categories:
 - Ability Doublecast (Equipment)

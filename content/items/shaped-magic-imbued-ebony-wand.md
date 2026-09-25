@@ -18,7 +18,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Lightning Shock**'
+effect_name: Lightning Shock
+effects: "- Applies Lightning Shock when Activated.\n  - Inflicts 330 - 551 magic damage on target.\n  - The casting time of Lightning Shock is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -935068434 1136404783:shaped magic imbued ebony wand\/a
 categories:
 - Berserker Equipment

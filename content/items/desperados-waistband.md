@@ -13,7 +13,8 @@ stats:
   agi: '+19'
   crit: '0.2'
   potency: '0.5'
-effects: '**Second Chance**'
+effect_name: Second Chance
+effects: "- Applies Second Chance when Activated.  Lasts for 10.0 seconds.\n  - Caster will Parry 100.0% of incoming attacks.\n  - Must be engaged in pvp combat\n  - Only affects targets level 79 and below\n  - The casting time of Second Chance is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM -1269110515 1848678447:Desperado's Waistband\/a
 categories:
 - Assassin Equipment

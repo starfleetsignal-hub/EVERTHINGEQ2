@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   dps: '6'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 2117153428 392082716:Armband of Absolution\/a
 categories:
 - Assassin Equipment

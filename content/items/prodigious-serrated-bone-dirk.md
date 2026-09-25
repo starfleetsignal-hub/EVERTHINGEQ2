@@ -21,7 +21,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Prodigial Engulfing Darkness**'
+effect_name: Prodigial Engulfing Darkness
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Prodigious Engulfing Darkness on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Applies Engulfing Shadows on termination.  Lasts for 16.0 seconds.\n      - Slows target by 30.0%.\n      - 5% chance to dispel when target receives hostile action\n      - 5% chance to dispel when target takes damage\n    - Inflicts 629 - 695 magic damage on target instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -25316195 -157763968:Prodigious Serrated Bone Dirk\/a
 categories:
 - Assassin Equipment

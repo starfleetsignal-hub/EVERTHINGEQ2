@@ -19,7 +19,8 @@ stats:
   drating: '80.44'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Divine Sacrament**'
+effect_name: Divine Sacrament
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Sacrament on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 439 - 485 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1868032414 1057935516:Blade of the Vault Keeper\/a
 categories:
 - Berserker Equipment

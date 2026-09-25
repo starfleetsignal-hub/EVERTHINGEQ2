@@ -24,7 +24,8 @@ stats:
   drating: '356.26'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Mark of the Imprisoned**'
+effect_name: Mark of the Imprisoned
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mark of the Imprisoned on target of attack.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 1,699 divine damage on target.\n    - Heals caster for 1,402.\n    - Increases Defense of caster by 8.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1278594521 1352188948:Thex Mallet\/a
 categories:
 - Ability Modifier (Equipment)

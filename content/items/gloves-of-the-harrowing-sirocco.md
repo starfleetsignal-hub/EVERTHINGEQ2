@@ -16,7 +16,8 @@ stats:
   multi: '27.8'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[A Jagged Branch]]'
 item_link: \aITEM -511166519 -10681342:Gloves of the Harrowing Sirocco\/a
 image: images/Gloves_of_the_Harrowing_Sirocco.jpg

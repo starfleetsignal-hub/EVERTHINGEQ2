@@ -22,7 +22,8 @@ stats:
   drating: '1649.81'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2122718227 535948589 0 0 0:Hopewell Fistwrap of Stratagem\/a
 categories:
 - Beastlord Equipment

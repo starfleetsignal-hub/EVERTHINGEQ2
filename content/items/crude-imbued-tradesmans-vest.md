@@ -12,7 +12,8 @@ stats:
   int: '+9'
   mit: '67'
   dtype: Cloth Armor
-effects: '**Faint Lambent Imbued**'
+effect_name: Faint Lambent Imbued
+effects: "- Applies Faint Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 15 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 332007101 -1643963922:Crude Imbued Tradesman's Vest\/a
 categories:
 - Assassin Equipment

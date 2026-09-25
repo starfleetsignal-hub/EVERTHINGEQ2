@@ -13,7 +13,8 @@ stats:
   crit: '2.3'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate VIII on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate VIII on termination.  Lasts for 15.0 seconds.\n      - Wards target against 1,250 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 814 - 900.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 80) from [[Ancient Knowledge: Radiant Cincture of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -1067743130 174597118:Radiant Cincture of Synergism\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   abmod: +1,686
   aspeed: '19'
   vselemental: +35,154
-effects: '**Aura Share**'
+effect_name: Aura Share
+effects: "- When Equipped:\n  - Increases Potency by 14% per mage in the wearer's raid, up to 140%\n  - Increases Crit Bonus by 14% per scout in the wearer's raid, up to 140%\n  - Increases Heal Received by 2% per priest in the wearer's raid, up to 12%\n  - Increases maximum health by 25,000 per fighter in the wearer's raid, up to 150,000"
 item_link: \aITEM 1567021696 1497358977:Kyrus' Wonderous Aura\/a
 categories:
 - Ability Modifier (Equipment)

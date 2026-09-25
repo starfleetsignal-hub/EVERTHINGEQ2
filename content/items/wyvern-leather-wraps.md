@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -2006998551 110837996:Wyvern Leather Wraps\/a
 categories:
 - Ability Modifier (Equipment)

@@ -21,7 +21,8 @@ stats:
   range: 2 - 50
   dtype: ranged
   wtype: Bow
-effects: '**Rain of Stone**'
+effect_name: Rain of Stone
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Rain of Stone on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 921 - 1,125 crushing damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 960196781 -1145756122:The Bow of Underfoot\/a
 categories:
 - Ability Modifier (Equipment)

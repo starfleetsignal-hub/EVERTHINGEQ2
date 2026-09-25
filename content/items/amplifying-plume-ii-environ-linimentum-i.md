@@ -7,7 +7,8 @@ tier: Fabled
 level: '10'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Environ Linimentum**'
+effect_name: Environ Linimentum
+effects: "- Applies Environ Linimentum I when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Environ Linimentum I on target.  Lasts for 2.0 seconds.\n    - When triggered this effect will heal any group members equipped with an Amplifying Plume II effect double the base amount.\n    - Heals group members for 58 instantly and every second.\n      - This effect cannot be critically applied.\n    - Heals group members for 58 instantly and every second.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 60.0 seconds."
 obtained_from: 'Crafted by [[Artisan]] (level 2) from [[Amplifying Plumes II: Volume II]]'
 item_link: '\aITEM 214879948 -1231428675:Amplifying Plume II: Environ Linimentum I\/a'
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '157.56'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Sacred Territory**<br>**Savage Healing**'
+effect_name: Sacred Territory, Savage Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Sacred Territory on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 800 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 842.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1875868216 -1115328085:Hammer of Skulls\/a
 categories:
 - Beastlord Equipment

@@ -13,7 +13,8 @@ stats:
   crit: '3.1'
   critbonus: '1.1'
   potency: '5'
-effects: '**Protector of Tranquility**'
+effect_name: Protector of Tranquility
+effects: "- Applies Protector of Tranquility when Activated.  Lasts for 10.0 seconds.\n  - Allows caster to block all melee attacks.\n  - Allows caster to deflect all melee attacks.\n  - Dispelled when target successfully blocks an attack\n  - Dispelled when target successfully deflects an attack\n  - The reuse time of Protector of Tranquility is 10 minutes"
 item_link: \aITEM 95419185 -1538748655 0 0 0:Charm of Quellious\/a
 categories:
 - Assassin Equipment

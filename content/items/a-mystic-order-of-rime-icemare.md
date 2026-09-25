@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 1.0 second
   recast: 0.0 seconds
-effects: Summon a mystic Icemare of Rime
+effects: "- Applies Summon a mystic Icemare of Rime when Activated.\n  - Increases Ability Casting Speed of caster by 3.0%\n  - Increases Max Power of Caster by 150\n  - Increases Max Health of caster by 150\n  - Summons a mount to ride that increases your speed by 68%"
 obtained_from: Sold by [[Melimy Yolta]] (Faction Merchant) in [[Fens of Nathsar]] for 40p 80g 2c
 item_link: \aITEM -1666025669 1278023971:a mystic Order of Rime Icemare\/a
 categories:

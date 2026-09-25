@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Chain Armor
-effects: '**Runic Recovery**<br>**Savage Healing**'
+effect_name: Runic Recovery, Savage Healing
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent.\n- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 615934402 1476202165 0 0 0:Spiritual Coif from Beyond the Portal\/a
 categories:
 - Casting Speed (Equipment)

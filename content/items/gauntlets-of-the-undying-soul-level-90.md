@@ -17,7 +17,8 @@ stats:
   abmod: '+185'
   mitinc: '6'
   dtype: Plate Armor
-effects: '**Enraging Presence**'
+effect_name: Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 87\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1082057255 1374769737:Gauntlets of the Undying Soul\/a
 categories:
 - Ability Modifier (Equipment)

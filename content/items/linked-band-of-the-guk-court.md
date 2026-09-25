@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   vselemental: '+400'
-effects: '**Greater Enraging Presence**'
+effect_name: Greater Enraging Presence
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Greater Enraging Presence on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 262\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1671060112 -726216591:Linked Band of the Guk Court\/a
 categories:
 - Ability Modifier (Equipment)

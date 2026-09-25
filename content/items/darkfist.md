@@ -19,7 +19,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Siphon Life**'
+effect_name: Siphon Life
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Siphon Life on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 54 - 66.\n    - Inflicts 96 - 144 magic damage on target.\n    - Heals caster for 107 - 130.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[Hound Master T''kry]] in [[The Crypt of T''Haen: Vengeance]]'
 item_link: \aITEM 1486189356 -1192065498:Darkfist\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   dtype: Cloth Armor
-effects: '**Fires of the Underfoot**'
+effect_name: Fires of the Underfoot
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Fires of the Underfoot on target of spell.  Lasts for 2.9 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 1,137 - 1,389 heat damage on target.\n    - Roots target\n    - 15% chance to dispel when target takes damage\n    - Epic targets gain an immunity to Root effects of 8.6 seconds and duration is reduced to 1.0 seconds.\n    - Resistibility increases against targets higher than level 112.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[My Dear, Deloris...]]'
 item_link: \aITEM -1439765812 853185760:Shiny Robe of the Underfoot\/a
 categories:

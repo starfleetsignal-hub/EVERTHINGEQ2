@@ -22,7 +22,8 @@ stats:
   drating: '322.96'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 100) from [[Deepforge Advanced Woodworking]]
 item_link: \aITEM -368703125 -897663409:Petrified War Mace\/a
 categories:

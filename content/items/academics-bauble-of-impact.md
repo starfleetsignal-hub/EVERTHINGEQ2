@@ -17,7 +17,8 @@ stats:
   potency: 2,699.6
   resolve: '60'
   dps: '51.1'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.5.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Advanced Jeweler Studies 10]]
 item_link: \aITEM -1323613211 -1572060496:Academic's Bauble of Impact\/a
 categories:

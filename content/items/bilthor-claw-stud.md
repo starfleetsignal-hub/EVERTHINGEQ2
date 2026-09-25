@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   vselemental: '+395'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 361.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: in the [[Chanting and Ritual Chamber]]
 item_link: \aITEM -188479012 1087778289:Bilthor Claw Stud\/a
 image: images/Bilthor_Claw_Stud.png

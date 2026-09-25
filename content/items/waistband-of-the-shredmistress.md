@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   abmod: '+162'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: '[[Shredmistress Ikaika (Quest)|Shredmistress Ikaika]]'
 item_link: \aITEM 1461225143 -1442123166:Waistband of the Shredmistress\/a
 image: images/Waistband_of_the_Shredmistress.jpg

@@ -16,7 +16,8 @@ stats:
   critbonus: '5'
   abmod: '+50'
   dtype: Chain Armor
-effects: '**Runes of Power**'
+effect_name: Runes of Power
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runes of Power on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of target by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM -1322455829 -1784888527:Chestguard of the Spiritual Protector\/a
 categories:

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 4.0.\n    - Increases Ordination, Ministration and Focus of caster by 2.3.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (Normal)]] *Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (No-Trade)]]'
 item_link: \aITEM -927028935 -441852909:Imbued Coral Ring of Wisdom\/a
 categories:

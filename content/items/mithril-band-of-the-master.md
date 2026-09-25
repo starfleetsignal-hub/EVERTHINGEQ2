@@ -17,7 +17,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Courageous Charge**'
+effect_name: Courageous Charge
+effects: "- When Equipped:\n  - On a hostile spell hit this spell has a 33% chance to cast Courageous Charge on target of spell.\n    - Inflicts 5,296 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell has a 33% chance to cast Courageous Charge on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 5,296 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 528351968 1788694162:Mithril Band of the Master\/a
 categories:
 - Ability Modifier (Equipment)

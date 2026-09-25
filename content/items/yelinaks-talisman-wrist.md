@@ -15,7 +15,8 @@ stats:
   potency: '2'
   aspeed: '3.2'
   vsarcane: '+560'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 22.0."
 item_link: \aITEM 773095541 -592009802:Yelinak's Talisman\/a
 image: images/Yelinak's_Talisman.jpg
 categories:

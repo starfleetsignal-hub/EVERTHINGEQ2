@@ -15,7 +15,8 @@ stats:
   critbonus: '0.5'
   potency: '2.4'
   dtype: Cloth Armor
-effects: '**Lesser Impact Conversion**'
+effect_name: Lesser Impact Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 4% chance to cast Impact Conversion on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 13 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Thrice the ''Trice]]'
 item_link: \aITEM -629487906 997222710:Emissary's Pantaloons\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   aspeed: '36.7'
   mitinc: '7.4'
-effects: '**Dragon Grit**'
+effect_name: Dragon Grit
+effects: "- Applies Dragon Grit when Activated.  Lasts for 20.0 seconds.\n  - Reduces all damage done to caster by 15%. This spell will absorb a total of 20 attacks.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Dragon Grit is 2 minutes"
 item_link: \aITEM 838859683 -1161617995:Children of the Spore\/a
 categories:
 - Assassin Equipment

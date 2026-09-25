@@ -17,7 +17,8 @@ stats:
   multi: '3.7'
   flurry: '1.7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 5.0."
 item_link: \aITEM -811458332 104375761:Nemesis Bracers\/a
 categories:
 - Assassin Equipment

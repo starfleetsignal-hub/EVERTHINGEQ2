@@ -15,7 +15,8 @@ stats:
   dps: '26.1'
   vselemental: +26,832
   mitinc: '6.8'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 5.  This effect increases to 11 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM -724308866 1927180510:Bonecluster\/a
 categories:
 - Arcane Resistance (Equipment)

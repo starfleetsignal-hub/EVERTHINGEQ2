@@ -18,7 +18,8 @@ stats:
   resolve: '25'
   cbovercap: '+21.7'
   dtype: Cloth Armor
-effects: '**Mindburst**'
+effect_name: Mindburst
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Mindburst on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 368 mental damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 914037215 -652361734:Robe of the Oracle\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Plate Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 2.3%.\n  - Increases Riposte Chance of caster by 21.0.\n  - Increases Riposte Damage of caster by 21.0."
 obtained_from: '*Crafted by [[Armorer]] (level 70) from [[Ancient Knowledge: Vanguard Bracers of the Boundless]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -382663132 61768005:Vanguard Bracers of the Boundless\/a
 categories:

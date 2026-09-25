@@ -17,7 +17,8 @@ stats:
   vselemental: +3,395
   vsarcane: +3,395
   vsnoxious: +3,395
-effects: '**Undeniable Malice**<br>**Stonewill**'
+effect_name: Undeniable Malice, Stonewill
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Undeniable Malice on target of attack.  Triggers about 1.4 times per minute.\n    - Increases Threat to target by 3,540\n    - Inflicts 1192 mental damage on target\n    - Cannot be modified except by direct means\n  - When damaged in combat this spell has a 7% chance to cast Undeniable Malice on target's attacker.\n    - Increases Threat to target by 3,540\n    - Inflicts 1192 mental damage on target\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Stonewill on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Wards caster against 1250 points of all damage\n    - Cannot be modified except by direct means\n  - When damaged in combat this spell has a 7% chance to cast Stonewill on caster.  Lasts for 12.0 seconds.\n    - Wards caster against 1250 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 202012781 -784953008:Crystal Studded Band of Gall\/a
 categories:
 - Ability Modifier (Equipment)

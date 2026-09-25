@@ -16,7 +16,8 @@ stats:
   potency: '6.8'
   mitinc: '7'
   dtype: Leather Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1039264712 805319671:Pants of Recollected Balance\/a
 categories:
 - Assassin Equipment

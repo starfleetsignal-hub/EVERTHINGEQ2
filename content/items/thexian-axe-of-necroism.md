@@ -16,7 +16,8 @@ stats:
   drating: '31.68'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Necroism**'
+effect_name: Necroism
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Necroism on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Mitigation of target vs arcane damage by 200.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 2039136750 -1848325194:Thexian Axe of Necroism\/a
 categories:
 - Assassin Equipment

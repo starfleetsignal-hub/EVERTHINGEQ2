@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Muddle Blast Glyph**'
+effect_name: Muddle Blast Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1587934192 -1860978442:Silver-Razored Whip\/a
 categories:
 - Assassin Equipment

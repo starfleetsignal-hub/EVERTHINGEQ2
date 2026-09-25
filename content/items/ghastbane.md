@@ -17,7 +17,8 @@ stats:
   drating: '30.11'
   dtype: One-Handed Crushing
   wtype: Crushing
-effects: '**Power of Ghoulbane**'
+effect_name: Power of Ghoulbane
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Power of Ghoulbane on target of attack.\n    - Inflicts 19 - 24 divine damage on target.\n      - If target is undead\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Restoring Ghoulbane]]'
 item_link: \aITEM 579659681 313658817:Ghastbane\/a
 aliases:

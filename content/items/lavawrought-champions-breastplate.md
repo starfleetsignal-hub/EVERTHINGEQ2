@@ -16,7 +16,8 @@ stats:
   potency: '5'
   mitinc: '4.9'
   dtype: Plate Armor
-effects: '**Rockiron Nerves**'
+effect_name: Rockiron Nerves
+effects: "- When Equipped:\n  - Reduces physical damage done to target by 5%."
 obtained_from: '*Made from [[Elemental Vanquisher''s Chestguard Mold]] *Made from [[Elemental Vanquisher''s Chestguard Pattern]]'
 item_link: \aITEM 1113998565 892817862 0 0 0:Lavawrought Champion's Breastplate\/a
 categories:

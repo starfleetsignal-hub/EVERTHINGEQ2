@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '14.4'
   vselemental: +33,491
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM -2026232243 1202199273:Stalwart Barkgut Stud\/a
 categories:
 - Ability Modifier (Equipment)

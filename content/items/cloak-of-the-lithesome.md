@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: no-transmute  no-salvage  no-trade no-value
 description: This cloak was recovered from the angsty thief known as Ratscallion Attamilgad!
-effects: '**Lithesome Presence**'
+effect_name: Lithesome Presence
+effects: "- Applies Lithesome Presence when Activated.\n  - Coats the wearer in a Lithesome Aura.\n  - The casting time of Lithesome Presence is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Watch EQ2 social media pages for notification of when Ratscallion is up!
 item_link: \aITEM 896390296 -2037102279:Cloak of the Lithesome\/a
 categories:

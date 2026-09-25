@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Fragile Shell**'
+effect_name: Fragile Shell
+effects: "- When Equipped:\n  - Increases caster's physical mitigation by 3,000. This effect is lost if the caster is directly attacked by an aggressive target."
 item_link: \aITEM 1361659908 -1294590566:Subterranean Shell Necklace\/a
 categories:
 - AE Autoattack Chance (Equipment)

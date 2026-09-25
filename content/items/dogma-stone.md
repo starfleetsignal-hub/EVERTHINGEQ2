@@ -18,7 +18,8 @@ stats:
   resolve: '16'
   abmod: +1,805
   dps: '30.8'
-effects: '**Trained to Battle**'
+effect_name: Trained to Battle
+effects: "- When Equipped:\n  - Thermal Depletion will siphon Fervor to the caster.\n  - Etherflash will grant Potency to the caster and the caster's friendly target.\n  - Terrene Destruction will increase the casters Crit Bonus and Crit Bonus Overcap.\n  - Adds a combat mitigation reduction to Toxic Life."
 obtained_from: '[[Awakening Bonds: The First Steps]]'
 item_link: \aITEM -1914968541 -1790460464:Dogma Stone\/a
 image: images/DogmaStone.png

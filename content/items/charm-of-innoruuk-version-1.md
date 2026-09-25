@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dps: '13.4'
-effects: '**Magical Alacrity**<br>**Frenzy of Innoruuk**'
+effect_name: Magical Alacrity, Frenzy of Innoruuk
+effects: "- When Equipped:\n  - Increases Casting Speed of target by 5.0%.\n- When Equipped:\n  - On a hostile spell cast this spell may cast Frenzy of Innoruuk on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of caster by 5.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast Frenzy of Innoruuk on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of caster by 5.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1909680275 -1854690900 0 0 0:Charm of Innoruuk\/a
 image: images/Charm_of_Innoruuk.png
 categories:

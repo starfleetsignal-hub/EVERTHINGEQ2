@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate attunable no-value
-effects: '**Amplifying Plume: Max Health**'
+effect_name: 'Amplifying Plume: Max Health'
+effects: "- When Equipped:\n  - Increases Max Health of caster by 292.2%.\n  - The value of this effect is increased by the number of characters in the group or raid wearing an Amplifying Plume effect to a maximum of double the base value."
 obtained_from: '*Crafted by [[Artisan]] (level 0) from [[Darkpaw Plumes for All]] *Crafted by [[Artisan]] (level 0) from [[Inspired Darkpaw Plumes]]'
 item_link: \aITEM -1758164317 -2132687696:Inspired Robust Plume of Darkpaw\/a
 categories:

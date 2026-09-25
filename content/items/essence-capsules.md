@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +16,380
-effects: '**Curse Armor**'
+effect_name: Curse Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Curse Armor IV on target of attack.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 1,506.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2032837488 -1680663817:Essence Capsules\/a
 categories:
 - Arcane Resistance (Equipment)

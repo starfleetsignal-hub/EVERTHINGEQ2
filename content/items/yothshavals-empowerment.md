@@ -17,7 +17,8 @@ stats:
   abmod: +1,686
   aspeed: '38'
   dps: '14.5'
-effects: '**Turbulent Tempest**'
+effect_name: Turbulent Tempest
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 80.0.\n- Applies Turbulent Tempest when Activated.\n  - Summons a great storm that heals and buffs all allies in its radius, while damaging all foes. Only one Turbulent Tempest will heal the raid at a time. Lasts for 20.0 seconds.\n  - The reuse time of Turbulent Tempest is 1 minute"
 item_link: \aITEM -1720541438 -1694167909:Yothshaval's Empowerment\/a
 categories:
 - Ability Modifier (Equipment)

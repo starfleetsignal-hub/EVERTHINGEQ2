@@ -20,7 +20,8 @@ stats:
   drating: '68.5'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Vim of Fate**'
+effect_name: Vim of Fate
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Vim of Fate on caster.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 85.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1520212417 -526261023:Fated Cipherblade\/a
 categories:
 - Assassin Equipment

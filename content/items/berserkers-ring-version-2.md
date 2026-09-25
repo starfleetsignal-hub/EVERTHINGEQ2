@@ -16,7 +16,8 @@ stats:
   abmod: '+62'
   aspeed: '4'
   vsarcane: '+280'
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM -1317021069 1222800511:Berserker's Ring\/a
 categories:
 - Ability Modifier (Equipment)

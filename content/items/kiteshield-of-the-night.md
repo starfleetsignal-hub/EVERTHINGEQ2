@@ -16,7 +16,7 @@ stats:
   vselemental: '+533'
   vsnoxious: '+533'
   dtype: Kite Shield
-effects: Shield Block III
+effects: "- When Equipped:\n  - Increases Shield Feffectiveness of caster by 15.0%"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM 1136679719 -1125890922:[Kiteshield of the Night]\/a
 categories:

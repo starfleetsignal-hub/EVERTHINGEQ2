@@ -15,7 +15,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**The Subtle**'
+effect_name: The Subtle
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 50.0.\n  - Increases Potency of caster by 15.0."
 item_link: \aITEM 630931412 2026805378:Bold Gorget of the Subtle\/a
 categories:
 - Assassin Equipment

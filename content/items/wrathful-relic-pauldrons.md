@@ -17,7 +17,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 29,322.9.\n  - Increases Crit Bonus of caster by 1,814.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -927325364 -755459458:Wrathful Relic Pauldrons\/a
 categories:
 - Assassin Equipment

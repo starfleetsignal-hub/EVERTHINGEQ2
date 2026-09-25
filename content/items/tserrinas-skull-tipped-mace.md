@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Empowered Healing on caster.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 1,750.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 183160873 1474067435:Tserrina's Skull Tipped Mace\/a
 categories:
 - Ability Modifier (Equipment)

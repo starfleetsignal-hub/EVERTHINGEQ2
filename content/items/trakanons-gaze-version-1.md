@@ -16,7 +16,8 @@ stats:
   strike: '7.6'
   abmod: '+105'
   dtype: Symbols
-effects: '**Gaze Distraction**'
+effect_name: Gaze Distraction
+effects: "- Applies Gaze Distraction when Activated.\n  - Decreases threat priority of target by 24 positions\n  - The reuse time of Gaze Distraction is 3 minutes"
 item_link: \aITEM -1602232641 1410454266:Trakanon's Gaze\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '545'
   mitinc: '84.1'
   dtype: Plate Armor
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Fervor Overcap of caster by 97.9.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1607237244 -126134434:Majestic Relic Vital Great Mantle\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 406541023 -1745879363:Ossuary Nexus Gage\/a
 categories:
 - Attack Speed (Equipment)

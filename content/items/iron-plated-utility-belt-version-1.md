@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   mitinc: '3.9'
-effects: '**Iron Will**'
+effect_name: Iron Will
+effects: "- Applies Iron Will when Activated.  Lasts for 1 minute.\n  - Wards caster against 1,799 - 2,200 points of damage from physical damage\n  - The casting time of Iron Will is 0.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -230804775 -845681756:Iron-plated Utility Belt\/a
 categories:
 - Berserker Equipment

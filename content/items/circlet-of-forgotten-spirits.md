@@ -16,7 +16,8 @@ stats:
   potency: '7'
   dps: '18.1'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM 1260748973 -700663102:Circlet of Forgotten Spirits\/a
 categories:
 - Bard Equipment

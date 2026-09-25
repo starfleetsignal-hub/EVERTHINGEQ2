@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Run for Your Life**'
+effect_name: Run for Your Life
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 10.0%.\n  - Adds a Spell and Combat Art reuse speed bonus to Aria of Magic V and Riana's Relentless Tune VI.\n  - Adds 10% in-combat movement speed to Selo's Accelerando VI."
 item_link: \aITEM -742519407 1016514910:Marrow's Song\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: 6,482.6
   resolve: '155'
   dps: '59.8'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 33.3.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '[[Shattered Dawn: Cast a Long Shadow]]'
 item_link: \aITEM 974160462 -911854220:Zethon Kaas Gem\/a
 image: images/Zethon_Kaas_Gem.png

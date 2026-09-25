@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   dps: '12'
   dtype: Cloth Armor
-effects: '**Lesser Bitter Miasma**'
+effect_name: Lesser Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 335.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2057300505 -1692733810:Wrappings of Terrible Cold\/a
 categories:
 - Assassin Equipment

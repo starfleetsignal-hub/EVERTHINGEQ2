@@ -15,7 +15,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Immaterial Vitality**'
+effect_name: Immaterial Vitality
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Immaterial Vitality on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 137,200 divine damage on target.\n    - Increases Max Health of caster by 6.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 68222494 1087590220:Wristband of Shadows\/a
 categories:
 - Assassin Equipment

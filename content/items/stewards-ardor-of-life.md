@@ -17,7 +17,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 251212335 2100563175 0 0 0:Steward's Ardor of Life\/a
 categories:
 - Census Credits

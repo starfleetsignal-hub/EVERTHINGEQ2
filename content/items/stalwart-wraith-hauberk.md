@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Chain Armor
-effects: '**Brace of Stone**'
+effect_name: Brace of Stone
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Brace of Stone on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards group members (AE) against 4,000 points of all damage\n    - Heals group members (AE) for 1,385 - 1,531.\n    - Heals group members (AE) for 416 - 459 every 2 seconds.\n    - Increases Casting Speed of caster by 10.0%.\n    - This ward regenerates slowly over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Stalwart Thudomatonian Hauberk]]
 item_link: \aITEM -1636644598 1031577983:Stalwart Wraith Hauberk\/a
 categories:

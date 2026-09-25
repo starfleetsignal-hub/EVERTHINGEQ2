@@ -17,7 +17,8 @@ stats:
   multi: '36.3'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -567321030 2079137607:Ruiner's Gauntlets\/a
 categories:
 - Berserker Equipment

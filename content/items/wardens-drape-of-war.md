@@ -15,7 +15,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   dps: '33.2'
-effects: '**Call of the Wild**'
+effect_name: Call of the Wild
+effects: "- Applies Call of the Wild when Activated.  Lasts for 24.0 seconds.\n  - When a combat art is used this spell has a 50% chance to cast Call of the Wild on target of combat art.\n    - Inflicts 2,107 - 2,575 crushing damage on target.\n    - Inflicts 2,107 - 2,575 slashing damage on target.\n    - Inflicts 2,107 - 2,575 piercing damage on target.\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - If effective level under 96\n  - Cannot be modified except by direct means\n  - The casting time of Call of the Wild is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -1834621410 -2101870016:Warden's Drape of War\/a
 categories:

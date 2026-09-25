@@ -18,7 +18,8 @@ stats:
   abmod: +257,912
   cbovercap: '+1414.3'
   dtype: Round Shield
-effects: '**Divine Intervention**'
+effect_name: Divine Intervention
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 9% chance to cast Divine Intervention on caster.\n    - Heals caster for 773.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 15.0 - 20.0 seconds."
 item_link: \aITEM -742620502 97399682:Fabled Wheel of Nightmares\/a
 categories:
 - Ability Modifier (Equipment)

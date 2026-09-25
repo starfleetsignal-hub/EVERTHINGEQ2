@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   aspeed: '7.3'
   dtype: Symbols
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Sold by [[Al'Diun Stirhinis]] (Faction Merchant) in [[Paineel]] with 40,000 [[City of Paineel]] faction.
 item_link: \aITEM -1005983777 1152857968:Orb of Reprimanding\/a
 categories:

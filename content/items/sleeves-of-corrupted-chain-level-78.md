@@ -17,7 +17,8 @@ stats:
   abmod: '+98'
   multi: '6.3'
   dtype: Chain Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -1758752909 -823987600:Sleeves of Corrupted Chain\/a
 image: images/Sleeves_of_Corrupted_Chain.png
 categories:

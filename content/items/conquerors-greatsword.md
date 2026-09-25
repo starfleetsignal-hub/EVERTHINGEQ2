@@ -15,7 +15,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 36980465 1030513909:Conqueror's Greatsword\/a
 categories:
 - Berserker Equipment

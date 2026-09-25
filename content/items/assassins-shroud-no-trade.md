@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**Assassinate Mastery**<br>**All for One**'
+effect_name: Assassinate Mastery, All for One
+effects: "- When Equipped:\n  - Greatly enhances the damage of Assassinate.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -455242565 510684172:Assassin's Shroud\/a
 categories:
 - All for One (Equipment)

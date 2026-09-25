@@ -20,7 +20,8 @@ stats:
   resolve: '535'
   aspeed: '36.3'
   dtype: Leather Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -777667233 733593127:Monumental Gauntlets, Relic of Old Velious\/a
 categories:
 - Attack Speed (Equipment)

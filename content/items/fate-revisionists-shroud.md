@@ -16,7 +16,8 @@ stats:
   potency: '11.2'
   abmod: '+431'
   dps: '29.6'
-effects: '**Planar Mender''s Aura**'
+effect_name: Planar Mender's Aura
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Planar Mender's Aura on the group.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 3,500 points of all damage\n    - Increases healing received by 3.00%.\n    - Increases the caster's heals and wards by 10%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -998788797 -345074948:Fate Revisionist's Shroud\/a
 categories:
 - Ability Modifier (Equipment)

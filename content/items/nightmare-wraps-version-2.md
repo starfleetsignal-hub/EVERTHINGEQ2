@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Cold Swelter**'
+effect_name: Cold Swelter
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cold Swelter on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 464 - 567 heat damage on target.\n    - Inflicts 464 - 567 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1135907238 -2055249427:Nightmare Wraps\/a
 categories:
 - Beastlord Equipment

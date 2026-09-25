@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   multi: '9.6'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -2060169098 1788440275:Mark of Zulfiqar\/a
 categories:
 - Assassin Equipment

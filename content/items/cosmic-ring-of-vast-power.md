@@ -16,7 +16,8 @@ stats:
   potency: 13,639.5
   resolve: '290'
   vselemental: +198,420
-effects: '**Vasty Cosmic Power**'
+effect_name: Vasty Cosmic Power
+effects: "- Applies Vasty Cosmic Power when Activated.  Lasts for 40.0 seconds.\n  - Increases Crit Bonus of caster by 114.9.\n  - Increases Crit Bonus of caster by an additional amount every 2 seconds\n  - On a hostile ability cast this spell has a 50% chance to cast Vast Hurting on target of spell.  Lasts for 15.0 seconds.\n    - Inflicts 859 disease damage on target encounter instantly and every 5 seconds.\n    - Decreases Combat Mitigation of target by 460.4.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 2.0 - 5.0 seconds.\n  - The casting time of Vasty Cosmic Power is 0.2 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: 'Collection reward: [[Vasty Deep Lost and Found]]'
 item_link: \aITEM 1941950679 -1811252834:Cosmic Ring of Vast Power\/a
 categories:

@@ -21,7 +21,9 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Demolishing Charge**'
+effect_name: Demolishing Charge
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Demolishing Charge VIII on target of attack.  Triggers about 2.0 times per minute.\n    - Applies Knockdown on termination.  Lasts for 2.3 seconds.\n      - Throws target back\n      - Blurs vision of target.\n      - Stuns target\n      - Does not affect Epic targets\n    - Increases Threat to target by 3,039 - 3,290\n    - Inflicts 1,763 - 1,949 crushing damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Demolishing Charge VIII on target of spell.  Triggers about 2.0 times per minute.\n    - Applies Knockdown on termination.  Lasts for 2.3 seconds.\n      - Throws target back\n      - Blurs vision of target.\n      - Stuns target\n      - Does not affect Epic targets\n    - Increases Threat to target by 3,039 - 3,290\n    - Inflicts 1,763 - 1,949 crushing damage on target.\n    - Must not be engaged in pvp\
+  \ combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 80) from [[Ancient Knowledge: Destructive Longbow of Energy]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 1308193216 -1888406041:Destructive Longbow of Energy\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   dps: '41.5'
   multi: '29'
   flurry: '0.6'
-effects: '**Impish Assault**'
+effect_name: Impish Assault
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 5.7%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1027452826 -1020168265:Choker of Bountiful Achievement\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Symbols
-effects: '**Fury of the Void Walkers**'
+effect_name: Fury of the Void Walkers
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Fury of the Void Walkers on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 999 mental damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Made from [[Relics of the Shadow Odyssey]] from [[The Shadow Odyssey Timeline]]
 item_link: \aITEM -1135567544 1027704655:Censer of the Ethernaut Priest\/a
 image: images/Symbols_Icon_01_(Treasured).png

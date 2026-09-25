@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   multi: '6'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 725.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Heirloom)]] *Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Normal)]]'
 item_link: \aITEM 397970016 -996448617 0 0 0:pristine ruin imbued swiftcloth hex doll\/a
 image: images/Ruin_imbued_swiftcloth_hex_doll.jpg

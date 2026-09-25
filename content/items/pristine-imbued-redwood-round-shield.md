@@ -14,7 +14,7 @@ stats:
   power: '+60'
   vsarcane: '+150'
   dtype: Round Shield
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 155 heat damage on target"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Woodworker Essentials Volume 70]]
 categories:
 - Arcane Resistance (Equipment)

@@ -20,7 +20,8 @@ stats:
   abmod: +2,858
   dps: '99.9'
   dtype: Symbols
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 8.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -885424053 807368045:Cowhide Tome\/a
 categories:
 - Ability Modifier (Equipment)

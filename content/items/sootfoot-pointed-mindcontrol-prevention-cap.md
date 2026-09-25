@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   mit: '84'
   dtype: Cloth Armor
-effects: '**Mind Control Immunity**'
+effect_name: Mind Control Immunity
+effects: "- When Equipped:\n  - Completely prevents the wearer from being dominated by evil void beings. 73% of the time, it works every time."
 obtained_from: Sold by [[Kabcar Trapitsa]] (Faction Merchant) in [[Lavastorm]] for 60g
 item_link: \aITEM 335188261 783563772:Sootfoot Pointed Mindcontrol Prevention Cap\/a
 categories:

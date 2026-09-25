@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+360'
-effects: '**Spirit Drain**'
+effect_name: Spirit Drain
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Spirit Drain on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 1,188 heat damage on target\n    - Heals caster for 594\n    - Increases power of caster by 300.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 748875194 -2040922407:Spirit Draining Wristguard\/a
 categories:
 - Ability Modifier (Equipment)

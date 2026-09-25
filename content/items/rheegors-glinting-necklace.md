@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   abmod: '+203'
-effects: '**Empyrean Recovery**<br>**Toxic Tempest**'
+effect_name: Empyrean Recovery, Toxic Tempest
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 599814312 -1263290566:Rhee'Gor's Glinting Necklace\/a
 categories:
 - Ability Modifier (Equipment)

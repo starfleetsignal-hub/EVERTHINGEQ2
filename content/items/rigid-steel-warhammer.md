@@ -17,7 +17,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Ice Zephyr Glyph**'
+effect_name: Ice Zephyr Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 727857087 -553577751:Rigid Steel Warhammer\/a
 categories:
 - Ability Modifier (Equipment)

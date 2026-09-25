@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '110'
   dtype: Leather Armor
-effects: '**Skin of Clay**'
+effect_name: Skin of Clay
+effects: "- Applies Skin of Clay when Activated.  Lasts for 15.0 seconds.\n  - Wards caster against 468 points of physical damage\n  - The casting time of Skin of Clay is 0.5 seconds and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 337488174 -1885482746:Pliable Clay Leggings\/a
 categories:
 - Assassin Equipment

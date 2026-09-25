@@ -19,7 +19,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Gladiator''s Judgment**'
+effect_name: Gladiator's Judgment
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Gladiator's Judgment on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell has a 4% chance to cast Judgement's Gavel on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 599 crushing damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Gladiator's Judgment on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell has a 4% chance to cast Judgement's Gavel on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 599 crushing damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM -705145100 -801885845:Exalted Crystallized Shadow Glaive\/a
 categories:
 - AE Autoattack Chance (Equipment)

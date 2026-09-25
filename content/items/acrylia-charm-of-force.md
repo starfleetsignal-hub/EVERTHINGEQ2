@@ -16,7 +16,8 @@ stats:
   critbonus: '658.6'
   potency: 5,173.6
   resolve: '200'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 21.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 120) from [[Acrylia Jeweler's Primer Volume II]]
 item_link: \aITEM -166584804 1803041388:Acrylia Charm of Force\/a
 categories:

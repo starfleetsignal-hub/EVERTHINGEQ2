@@ -16,7 +16,8 @@ stats:
   dps: '12.4'
   multi: '7.7'
   vsarcane: '+840'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Barred No More]]'
 item_link: \aITEM 1310710743 65945589:Coil of the Flame Disciple\/a
 categories:

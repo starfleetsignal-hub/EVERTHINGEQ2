@@ -15,7 +15,8 @@ stats:
   potency: '64.6'
   resolve: '2'
   dps: '27.6'
-effects: '**Blaze**'
+effect_name: Blaze
+effects: "- Applies Blaze when Activated.  Lasts for 40.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to heat damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Blaze is 1 minute 30 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 134895757 1204488520:Righteous Blaze\/a
 categories:

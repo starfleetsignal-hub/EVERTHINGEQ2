@@ -17,7 +17,8 @@ stats:
   abmod: '+133'
   dps: '12.4'
   dtype: Chain Armor
-effects: '**Toxic Backlash**'
+effect_name: Toxic Backlash
+effects: "- When Equipped:\n  - Wards caster against 478 points of noxious damage\n  - When any noxious damage is received this spell will cast Toxic Backlash on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 239 poison damage on target.\n    - Inflicts 239 disease damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of disease or poison abilities."
 item_link: \aITEM -2096564732 1071587250:Cuirass of the Ghoul Knight\/a
 categories:
 - Ability Modifier (Equipment)

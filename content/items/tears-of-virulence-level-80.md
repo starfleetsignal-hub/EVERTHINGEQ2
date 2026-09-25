@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dps: '12.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -625825778 -1092649436:Tears of Virulence\/a
 categories:
 - Ability Modifier (Equipment)

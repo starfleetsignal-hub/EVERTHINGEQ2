@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: A magical cloak made of frost-enchanted silk that allows you to fall like a snowflake.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (800 Daybreak Cash)
 item_link: \aITEM 387757903 -219570984:Mistshire Cloak\/a
 categories:

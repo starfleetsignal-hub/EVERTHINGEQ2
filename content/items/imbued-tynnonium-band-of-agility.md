@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vsarcane: '+324'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 24.8.\n    - Increases Haste of caster by 25.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 78) from [[Advanced Jeweler Volume 78 (Heirloom)]] *Crafted by [[Jeweler]] (level 78) from [[Advanced Jeweler Volume 78 (Normal)]] *From [[Melee Jewelry Pack (Level 72 Mastercrafted)]]'
 item_link: \aITEM -1469447231 1737716853:Imbued Tynnonium Band of Agility\/a
 categories:

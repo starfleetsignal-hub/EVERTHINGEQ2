@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Cerebral Destruction**'
+effect_name: Cerebral Destruction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cerebral Destruction on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 93,296 mental damage on target.\n    - Decreases INT, AGI, WIS and STR of target by 237.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 815822466 29777820:Highroller Hoops\/a
 categories:
 - Arcane Resistance (Equipment)

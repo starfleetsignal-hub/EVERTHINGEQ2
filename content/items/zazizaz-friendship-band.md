@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   wis: '+35'
   vsarcane: '+402'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: No longer obtainable
 item_link: \aITEM -63732392 949296817:Zaz'I'zaz Friendship Band\/a
 categories:

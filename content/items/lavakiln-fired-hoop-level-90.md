@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vselemental: '+440'
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 236.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1073360532 276905079:Lavakiln Fired Hoop\/a
 categories:
 - Ability Modifier (Equipment)

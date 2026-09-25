@@ -21,7 +21,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Briny Deep**'
+effect_name: Briny Deep
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Briny Deep on caster.  Lasts for 8.0 seconds.  Triggers about 2.2 times per minute.\n    - Makes caster immune to Root, Stun, and Stifle.  Increases crit bonus and potency by 15%.\n  - On any combat or spell hit this spell may cast Briny Deep on caster.  Lasts for 8.0 seconds.  Triggers about 2.2 times per minute.\n    - Makes caster immune to Root, Stun, and Stifle.  Increases crit bonus and potency by 15%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1811630233 -939463162 0 0 0:Crippler\/a
 categories:
 - Assassin Equipment

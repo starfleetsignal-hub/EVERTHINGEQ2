@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Buckler
-effects: '**Lesser Infuriation**'
+effect_name: Lesser Infuriation
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 5% chance to cast Lesser Infuriation on target of combat art.\n    - Increases Threat to target by 481\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Bathezid Woodworking Volume I]]
 item_link: \aITEM -1931460782 -1810609311:Di'Zok Emblazoned Buckler\/a
 categories:

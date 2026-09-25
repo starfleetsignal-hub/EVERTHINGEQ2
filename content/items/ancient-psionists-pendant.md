@@ -17,7 +17,8 @@ stats:
   abmod: +1,686
   aspeed: '38'
   dps: '14.5'
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: '- When Equipped:'
 item_link: \aITEM 889165995 772838088:Ancient Psionist's Pendant\/a
 categories:
 - Ability Modifier (Equipment)

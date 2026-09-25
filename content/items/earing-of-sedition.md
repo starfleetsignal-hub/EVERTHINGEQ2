@@ -14,7 +14,7 @@ stats:
   power: '+120'
   vselemental: '+984'
   vsarcane: '+984'
-effects: Healing Wave
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast ***Healing Wave*** on caster. This effect will trigger an average of 1.6 times per minute. If a melee attack is used only the primary weapon can trigger this effect.\n    - Heals group members for 219"
 item_link: 1351181671 31261687:Earing of Sedition
 categories:
 - Arcane Resistance (Equipment)

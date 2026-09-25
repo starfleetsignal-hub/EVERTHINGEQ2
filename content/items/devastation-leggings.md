@@ -15,7 +15,8 @@ stats:
   critbonus: '13.1'
   potency: '5'
   dtype: Cloth Armor
-effects: '**Sparkling Shield**'
+effect_name: Sparkling Shield
+effects: "- When Equipped:\n  - When damaged this spell has a 6% chance to cast Sparkling Shield on caster.  Lasts for 20.0 seconds.\n    - Wards target against 1,000 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1794070555 -1174442673:Devastation Leggings\/a
 categories:
 - Census Credits

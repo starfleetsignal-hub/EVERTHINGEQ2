@@ -14,7 +14,8 @@ stats:
   critbonus: '13.1'
   potency: '5'
   dtype: Cloth Armor
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -531372529 -791303469:Deathdealer Robe\/a
 categories:
 - Casting Speed (Equipment)

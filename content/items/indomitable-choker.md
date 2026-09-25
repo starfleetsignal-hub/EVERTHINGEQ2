@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   sta: '+60'
   wis: '+60'
-effects: '**Elemental Barrier**<br>**Mystical Defiance**<br>**Battlefield Fortitude**'
+effect_name: Elemental Barrier, Mystical Defiance, Battlefield Fortitude
+effects: "- When Equipped:\n  - When damaged with a spell this spell has a 10% chance to cast Elemental Barrier on caster.  Lasts for 8.0 seconds.\n    - Reduces elemental, noxious and arcane damage done to target by 2.5%.\n    - Elemental Barrier cannot proc more than once per second.\n    - This effect cannot occur more than once a second\n    - Must be engaged in pvp combat\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Mitigation of caster vs elemental, noxious and arcane damage by 1,228.\n  - Must be engaged in pvp combat\n- When Equipped:\n  - Increases Mitigation of caster vs physical damage by 163.\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1795174583 -1912515080:Indomitable Choker\/a
 categories:
 - Assassin Equipment

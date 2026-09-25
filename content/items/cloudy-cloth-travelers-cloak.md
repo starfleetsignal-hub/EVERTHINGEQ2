@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+10'
   agi: '+10'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 5.0."
 obtained_from: Crafted by [[Tailor]] (level 33) from [[Traveler's Guide of the Tailor Volume 4]]
 item_link: \aITEM 1693356907 -259662448:Cloudy Cloth Traveler's Cloak\/a
 categories:

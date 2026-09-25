@@ -12,7 +12,8 @@ stats:
   int: '+4'
   mit: '27'
   dtype: Cloth Armor
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 19 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1996738245 1569249649:Imbued Merchantine's Bloomers\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   vselemental: '+4232'
   vsarcane: '+4232'
   vsnoxious: '+4232'
-effects: '**Tortuous Paths**'
+effect_name: Tortuous Paths
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Tortuous Paths on target of spell.  Triggers about 2.4 times per minute.\n    - Inflicts between 800 and 8,000 points of damage based on the target's current health."
 item_link: \aITEM -1916504034 -2023038073:Twisted Alloy Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

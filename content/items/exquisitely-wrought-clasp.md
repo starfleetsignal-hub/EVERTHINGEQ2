@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+360'
-effects: '**Melodic Misgivings**'
+effect_name: Melodic Misgivings
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Melodic Misgivings on the group.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases Multi Attack of group members (AE) by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 634226245 -383559938:Exquisitely Wrought Clasp\/a
 categories:
 - Ability Modifier (Equipment)

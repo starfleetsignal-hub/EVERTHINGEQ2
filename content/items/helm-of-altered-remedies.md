@@ -17,7 +17,8 @@ stats:
   abmod: '+203'
   aspeed: '10.2'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM 379226760 1893979275:Helm of Altered Remedies\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Magicblade**'
+effect_name: Magicblade
+effects: "- Applies Magicblade when Activated.  Lasts for 1 minute.\n  - Increases Flurry of Caster by 5.0.\n  - Converts damage spells to slashing damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Magicblade is 1 minute"
 item_link: \aITEM -1273097492 567760188:Map of the War Committee\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   abmod: '+191'
-effects: '**Elemental Dominion**'
+effect_name: Elemental Dominion
+effects: "- Applies Elemental Dominion when Activated.  Lasts for 3.0 seconds.\n  - Temporarily increases the casting speed of your pet-summoning spells by 50%.\n  - Makes caster immune to Stifle effects\n  - Must have Discord's Tome of Elemental Dominion equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Elemental Dominion is 3 minutes"
 item_link: \aITEM -1976888602 827344344:Discord's Tome of Elemental Dominion\/a
 categories:
 - Ability Modifier (Equipment)

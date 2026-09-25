@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '*Made from [[Elemental Champion''s Gauntlet Mold]] *Made from [[Elemental Champion''s Gauntlet Pattern]]'
 item_link: \aITEM -1221781746 -1041707874 0 0 0:Lavaworn Gauntlets of Chaotic Energy\/a
 categories:

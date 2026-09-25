@@ -17,7 +17,8 @@ stats:
   aspeed: '33.7'
   dps: '12.9'
   vselemental: +28,613
-effects: '**Staggered Combination**'
+effect_name: Staggered Combination
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 10.0.\n  - Increases Crit Bonus of caster by 22.0.\n  - Increases Potency of caster by 48.0.\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -550824927 -778175882:Hammered Bornite Band\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Hollow Bludgeon**'
+effect_name: Hollow Bludgeon
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Hollow Bludgeon on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 160 - 241 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -685535698 -1026128493:Spinesnapper\/a
 categories:
 - Ability Modifier (Equipment)

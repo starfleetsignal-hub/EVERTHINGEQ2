@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Dragonscale Protection**'
+effect_name: Dragonscale Protection
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dragonscale Protection III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 105,600 heat damage on target instantly and every second.\n    - Increases Mitigation of caster vs physical damage by 1,925.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1339155830 -1766146795:The Captain's Hoop Earring\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -17,7 +17,8 @@ stats:
   dps: '28.1'
   multi: '20.5'
   vselemental: +30,687
-effects: '**Soulthirst**'
+effect_name: Soulthirst
+effects: "- Applies Soulthirst when Activated.\n  - This spell has a 5% chance to consume 15% of the caster's life when a hostile spell is cast\n  - Increases all damage done to caster by 20%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Soulthirst is 1.0 second and the reuse time of the spell is 2.0 seconds"
 obtained_from: 'Collection reward: [[Serilian Essentials (Collection)]]'
 item_link: \aITEM -1112285694 -1711373251:Intrusive Etched Bracelet\/a
 categories:

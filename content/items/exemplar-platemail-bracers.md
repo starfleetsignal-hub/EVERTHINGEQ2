@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   dps: '82.5'
   dtype: Plate Armor
-effects: '**Grasp of Nightmares**'
+effect_name: Grasp of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Warden of Nightmares."
 obtained_from: From [[Hoard of the Nightmare Warden]]
 item_link: \aITEM 2029344571 1822493242:Exemplar  Platemail Bracers\/a
 categories:

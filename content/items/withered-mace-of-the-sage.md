@@ -18,7 +18,8 @@ stats:
   drating: '141.22'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Engulfing Aegis**'
+effect_name: Engulfing Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis IV on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,400 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -788300223 98390676:Withered Mace of the Sage\/a
 categories:
 - Assassin Equipment

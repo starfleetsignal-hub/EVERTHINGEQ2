@@ -21,7 +21,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Void Bane**'
+effect_name: Void Bane
+effects: "- When Equipped:\n  - Additional equipment with Void Bane improves this effect.\n  - On any combat or spell hit this spell may cast Void Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 756 mental damage on target.\n      - If any of the following are true:\n        - Must be classified as a void beast\n        - Must be classified as a shadowed folk\n    - Inflicts 378 mental damage on target.\n      - Must not be classified as a void beast\n      - Must not be classified as a shadowed folk\n    - Decreases Mitigation of target vs arcane damage by 560.\n      - If any of the following are true:\n        - Must be classified as a void beast\n        - Must be classified as a shadowed folk\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1830454645 -1165911826:Coupled Hammer of Distrust\/a
 categories:
 - Ability Modifier (Equipment)

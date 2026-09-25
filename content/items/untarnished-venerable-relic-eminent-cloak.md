@@ -17,7 +17,8 @@ stats:
   potency: 46,364
   resolve: '555'
   dps: '247'
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -428265790 1740053546:Untarnished Venerable Relic Eminent Cloak\/a
 categories:
 - Assassin Equipment

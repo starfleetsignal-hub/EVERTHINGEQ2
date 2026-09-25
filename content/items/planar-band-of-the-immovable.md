@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   vselemental: +87,497
   mitinc: '22.7'
-effects: '**Exploit Advantage**'
+effect_name: Exploit Advantage
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 25.0."
 item_link: \aITEM 1331426179 1241128365:Planar Band of the Immovable\/a
 categories:
 - Arcane Resistance (Equipment)

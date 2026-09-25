@@ -12,7 +12,8 @@ stats:
   agi: '+8'
   mit: '94'
   dtype: Chain Armor
-effects: '**Arcane Feedback**'
+effect_name: Arcane Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Arcane Feedback on target's attacker.\n    - Inflicts 48 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1848490360 -967181075:Boots of the Wind\/a
 categories:
 - Arcane Feedback (Equipment)

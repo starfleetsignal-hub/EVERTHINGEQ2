@@ -28,7 +28,8 @@ stats:
   drating: '398.36'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Planar Protection**<br>**Touch of Hatred**'
+effect_name: Planar Protection, Touch of Hatred
+effects: "- Applies Planar Protection when Activated.\n  - Grants protection against destructive planar energies.\n  - The casting time of Planar Protection is 3.0 seconds and the reuse time of the spell is 30.0 seconds\n- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Touch of Hatred on target of spell.  Lasts for 24.0 seconds.\n    - Inflicts 4,750 slashing damage on targets in Area of Effect.\n    - Decreases Combat Mitigation of target by 10.5.\n    - Cannot be modified except by direct means\n  - Increases Ability Doublecast of caster by 3.0.\n  - Protects the wearer against destructive planar energies."
 obtained_from: '[[A Weapon Worthy of Tales Told]]'
 item_link: \aITEM 226570053 -1953675407:The Awakened Dragon's Temper\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Ravenous Bolt**'
+effect_name: Ravenous Bolt
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ravenous Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 161 - 269 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1530641834 1200557888:Sinew Wrapped Longbow\/a
 categories:
 - Ability Modifier (Equipment)

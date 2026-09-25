@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Treeglider
+effects: "- Applies Call Treeglider when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 60%\n    - Increases your air speed by 200%\n  - Increases Focus, Ministration, Crushing, Ranged, Disruption, Piercing, Aggression, Subjugation, Ordination and Slashing of caster by 5.0"
 item_link: 469784143 -1243548782:Dark Treeglider
 categories:
 - Charm (Inventory Slot)

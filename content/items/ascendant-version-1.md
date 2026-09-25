@@ -19,7 +19,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Provoking Assault**'
+effect_name: Provoking Assault
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Provoking Assault on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 875\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1019696101 1742887316:Ascendant\/a
 image: images/Ascendant.jpg
 categories:

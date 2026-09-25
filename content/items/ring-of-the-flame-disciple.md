@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   vsarcane: '+400'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 32.0."
 obtained_from: '[[Barred No More]]'
 item_link: \aITEM 802097138 1648288720:Ring of the Flame Disciple\/a
 categories:

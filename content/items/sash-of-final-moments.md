@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+147'
-effects: '**Will of Gynok**<br>**Runic Recovery**'
+effect_name: Will of Gynok, Runic Recovery
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Will of Gynok on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the target's effectiveness of worn armor vs physical damage by 15%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM -817266927 -1993416384:Sash of Final Moments\/a
 categories:
 - Ability Modifier (Equipment)

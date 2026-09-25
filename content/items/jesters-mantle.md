@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Strike of Force**'
+effect_name: Strike of Force
+effects: "- When Equipped:\n  - Increases damage done by combat arts by up to 45."
 item_link: \aITEM 1702789980 505161763:Jester's Mantle\/a
 categories:
 - Ability Modifier (Equipment)

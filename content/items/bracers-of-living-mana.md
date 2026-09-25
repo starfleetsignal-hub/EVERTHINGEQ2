@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   multi: '6.4'
   vselemental: '+360'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM 97566957 257988591:Bracers of Living Mana\/a
 categories:
 - Arcane Resistance (Equipment)

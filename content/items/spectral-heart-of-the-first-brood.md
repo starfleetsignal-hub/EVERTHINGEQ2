@@ -19,7 +19,8 @@ stats:
   aspeed: '40.8'
   dps: '31.1'
   vselemental: +42,714
-effects: '**Conduit of the First Brood**'
+effect_name: Conduit of the First Brood
+effects: "- When Equipped:\n  - Adds an Ability Modifier component to Ethereal Conduit\n  - Cannot be modified except by direct means"
 obtained_from: '*Possible reward from the [[Shade of the First Brood Reward Crate]].'
 item_link: \aITEM 128330643 -2035177206:Spectral Heart of the First Brood\/a
 categories:

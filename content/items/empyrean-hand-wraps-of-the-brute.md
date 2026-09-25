@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Thudomatonian Gauntlets]]
 item_link: \aITEM -1270024920 -1151260719:Empyrean Hand Wraps of the Brute\/a
 categories:

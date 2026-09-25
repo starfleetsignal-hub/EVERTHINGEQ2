@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   abmod: +1,591
   aspeed: '18'
-effects: '**Kiss of Life**'
+effect_name: Kiss of Life
+effects: "- Applies Kiss of Life when Activated.\n  - This effect can be cast while casting other abilities\n  - Instantly heals the group for 125,000. If the wearer is a priest, the group will be healed for 750,000.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kiss of Life is 1 minute 30 seconds"
 item_link: \aITEM 814755279 -518880646:Blood of Life\/a
 categories:
 - Ability Modifier (Equipment)

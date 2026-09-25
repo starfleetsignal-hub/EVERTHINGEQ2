@@ -16,7 +16,8 @@ stats:
   abmod: '+431'
   multi: '19.2'
   mitinc: '12.3'
-effects: '**Major Rain of Blades**'
+effect_name: Major Rain of Blades
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Major Rain of Blades on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 4,429 - 4,895 slashing damage on target encounter.\n    - Inflicts 633 - 699 slashing damage on target encounter every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1004232729 1016458829:Torque of Diakan Fortitude\/a
 categories:
 - Ability Modifier (Equipment)

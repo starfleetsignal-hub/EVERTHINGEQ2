@@ -19,7 +19,8 @@ stats:
   aspeed: '72.2'
   dps: '54.8'
   vselemental: +87,497
-effects: '**Celestial Juggernaut**'
+effect_name: Celestial Juggernaut
+effects: "- When Equipped:\n  - Increases Max Health of caster by 5.0%.\n  - Increases Max Health of caster by 250,000.0."
 item_link: \aITEM -1588227409 1078288894:Planar Signet of Retaliation\/a
 categories:
 - Ability Modifier (Equipment)

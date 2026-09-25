@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   dtype: Plate Armor
-effects: '**Sap Strength**'
+effect_name: Sap Strength
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Sap Strength on target's attacker.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases DPS of target by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -658797851 781752027:Fish Inlaid Pauldrons\/a
 categories:
 - Berserker Equipment

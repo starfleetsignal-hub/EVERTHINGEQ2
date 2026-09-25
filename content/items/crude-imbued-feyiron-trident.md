@@ -16,7 +16,8 @@ stats:
   drating: '30.02'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 53 - 79 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -706355800 1389022481:crude imbued feyiron trident\/a
 categories:
 - Berserker Equipment

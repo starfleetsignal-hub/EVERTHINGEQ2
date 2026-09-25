@@ -15,7 +15,8 @@ stats:
   potency: '6'
   dps: '14.1'
   vselemental: '+451'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 29.0.\n    - Increases DPS of caster by 32.8.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 88) from [[Advanced Jeweler Volume 88 (Heirloom)]] *Crafted by [[Jeweler]] (level 88) from [[Advanced Jeweler Volume 88 (Normal)]] *From [[Melee Jewelry Pack (Level 82 Mastercrafted)]]'
 item_link: \aITEM 985056458 360479571:Brellium Band Of Strength\/a
 categories:

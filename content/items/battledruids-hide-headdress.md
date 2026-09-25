@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   dps: '9.2'
   dtype: Leather Armor
-effects: '**Reflexive Regeneration**'
+effect_name: Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 138 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Aliyah Vensdord]] (Faction Merchant) in [[Kylong Plains]]
 item_link: \aITEM -1505931649 831839404:Battledruid's Hide Headdress\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   resolve: '650'
   mitinc: '123.8'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor of caster by 48.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 924770092 -28159743:Funerary Rite Relic Breastplate\/a
 categories:
 - Assassin Equipment

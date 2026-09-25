@@ -19,7 +19,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Icy Breath**'
+effect_name: Icy Breath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Icy Breath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 152 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1081374470 1971433508:Wand of the Icy Breath\/a
 categories:
 - Beastlord Equipment

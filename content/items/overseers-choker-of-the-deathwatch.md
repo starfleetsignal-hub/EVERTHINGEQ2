@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   abmod: +1,250
-effects: '**United We Stand**'
+effect_name: United We Stand
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 35 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 83953658 -1557955454:Overseer's Choker of the Deathwatch\/a
 categories:
 - Ability Modifier (Equipment)

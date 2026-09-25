@@ -21,7 +21,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Pay For Their Crime]]'
 item_link: \aITEM 810938434 855164355:Blade of Withering Hopes\/a
 categories:

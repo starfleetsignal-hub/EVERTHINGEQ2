@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +26,832
-effects: '**Practiced Tactics**'
+effect_name: Practiced Tactics
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Tactics IV on the group.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the group's Crit Bonus and Potency by 0.6 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 36 Crit Bonus and Potency.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -449008939 1579302484:Scaled Chain of Tactics\/a
 categories:
 - Ability Modifier (Equipment)

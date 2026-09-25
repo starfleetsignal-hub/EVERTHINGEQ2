@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   vselemental: '+360'
-effects: '**Larval Infection**'
+effect_name: Larval Infection
+effects: "- When Equipped:\n  - On a hostile spell hit this spell has a 15% chance to cast Dormant Larvae on target of spell.  Lasts for 6.0 seconds.\n    - On death this spell will cast Larval Outbreak on caster.\n      - Inflicts 1,080 disease damage on targets in Area of Effect.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1459643299 -1322474953:Coil of Vile Spawn\/a
 categories:
 - Ability Modifier (Equipment)

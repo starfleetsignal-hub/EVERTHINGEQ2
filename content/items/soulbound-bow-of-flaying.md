@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Total Advantage**'
+effect_name: Total Advantage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Early Advantage on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 820 disease damage on target instantly and every 0.0 seconds.\n    - Increases Weapon Damage of caster by 18.0.\n    - Increases Crit Bonus of caster by 60.0.\n    - Increases Potency of caster by 60.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 330589995 1138094878:Soulbound Bow of Flaying\/a
 categories:
 - AE Autoattack Chance (Equipment)

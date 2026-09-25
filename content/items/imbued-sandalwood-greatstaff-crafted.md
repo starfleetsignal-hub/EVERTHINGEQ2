@@ -17,7 +17,8 @@ stats:
   drating: '55.34'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 2,249\n      - Must be flanking or behind\n    - Increases Threat to target by 2,914\n      - Must be in front of\n    - Inflicts 121 - 225 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 53) from [[Woodworker Essentials Volume 53 (Normal)]] *Crafted by [[Woodworker]] (level 53) from [[Woodworker Essentials Volume 53 (no-trade)]]'
 item_link: \aITEM 1889102884 383698747:Imbued Sandalwood Greatstaff\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   dps: '8.1'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 18.0."
 item_link: \aITEM 446591003 737507083:Helm of the Nightwalker\/a
 categories:
 - Berserker Equipment

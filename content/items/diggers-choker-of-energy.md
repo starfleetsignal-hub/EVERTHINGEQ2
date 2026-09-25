@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   abmod: +1,591
   aspeed: '18'
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 1261855559 -1696506316:Digger's Choker of Energy\/a
 categories:
 - Ability Modifier (Equipment)

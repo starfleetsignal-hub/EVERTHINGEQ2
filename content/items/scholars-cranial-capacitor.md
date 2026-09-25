@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '137'
   dtype: Leather Armor
-effects: '**Titanium Tools**'
+effect_name: Titanium Tools
+effects: "- Applies Titanium Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 410) from [[Master's Blueprints 0.010]].
 item_link: \aITEM -938525696 1794791906:Scholar's Cranial Capacitor\/a
 image: images/Scholar's_Cranial_Capacitor.png

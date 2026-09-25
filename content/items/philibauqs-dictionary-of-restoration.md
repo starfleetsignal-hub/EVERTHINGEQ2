@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   multi: '7.7'
-effects: '**Lesson of Protection**'
+effect_name: Lesson of Protection
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Lesson of Protection on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the target's effectiveness of worn armor vs physical damage by 13%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1389210615 121173358:Philibauq's Dictionary of Restoration\/a
 categories:
 - Census Credits

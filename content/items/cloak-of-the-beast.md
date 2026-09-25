@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Who may have worn this cloak in times gone by is a mystery.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (1000 Daybreak Cash)
 item_link: \aITEM 155850642 -69535738:Cloak of the Beast\/a
 categories:

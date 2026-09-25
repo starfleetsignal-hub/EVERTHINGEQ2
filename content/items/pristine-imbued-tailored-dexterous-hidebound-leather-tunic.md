@@ -16,7 +16,7 @@ stats:
   vsarcane: '+412'
   vsnoxious: '+412'
   dtype: Leather Armor
-effects: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster. Lasts for 20.0 seconds.\n    - Heals target for 86 instantly and every 4 seconds"
 obtained_from: Crafted by [[Tailor]] (level 78) from [[Advanced Tailor Volume 78]]
 item_link: \aITEM 39375488 -586280913:Pristine Imbued Tailored Dexterous Hidebound Leather Tunic\/a
 categories:

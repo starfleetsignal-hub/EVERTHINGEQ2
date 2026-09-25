@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +21,632
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent V on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 387,200 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1885377078 69826007:Torrential Gemstone\/a
 categories:
 - Arcane Resistance (Equipment)

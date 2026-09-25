@@ -19,7 +19,8 @@ stats:
   resolve: '535'
   aspeed: '36.3'
   dtype: Chain Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2028923107 1730955538:Monumental Chain Gauntlets, Relic of Old Velious\/a
 categories:
 - Assassin Equipment

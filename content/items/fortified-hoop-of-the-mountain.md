@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   vsarcane: '+517'
-effects: '**Indomitable**'
+effect_name: Indomitable
+effects: "- Applies Indomitable IX when Activated.  Lasts for 12.0 seconds.\n  - Applies Peerless Defense on termination.  Lasts for 30.0 seconds.\n    - Wards caster against 5,000 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the caster's physical mitigation over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Indomitable IX is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 90) from [[Ancient Knowledge: Fortified Hoop of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -2023991218 -1121247652:Fortified Hoop of the Mountain\/a
 categories:

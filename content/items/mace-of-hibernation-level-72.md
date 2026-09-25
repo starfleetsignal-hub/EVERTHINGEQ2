@@ -20,7 +20,8 @@ stats:
   drating: '128.52'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 obtained_from: '[[The Mystery of the Cursed Tower]]'
 item_link: \aITEM -2113100751 2097770108:Mace of Hibernation\/a
 categories:

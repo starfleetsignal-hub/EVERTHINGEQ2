@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   vsarcane: '+280'
-effects: '**Graceful Egress**'
+effect_name: Graceful Egress
+effects: "- When Equipped:\n  - On a hostile spell cast this spell has a 5% chance to cast Graceful Egress on target of spell.\n    - Decreases Threat to target by 300\n    - Cannot be modified except by direct means"
 item_link: \aITEM -660206293 -991834841 0 0 0:Ring of Tunarian Grace\/a
 categories:
 - Ability Modifier (Equipment)

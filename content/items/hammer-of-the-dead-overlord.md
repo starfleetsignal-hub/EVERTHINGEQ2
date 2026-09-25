@@ -23,7 +23,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 360778526 -1571976356:Hammer of the Dead Overlord\/a
 categories:
 - Attack Speed (Equipment)

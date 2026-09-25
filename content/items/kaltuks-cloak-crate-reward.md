@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Kaltuk''s Spirit**<br>**Featherfall**'
+effect_name: Kaltuk's Spirit, Featherfall
+effects: "- Applies Kaltuk's Spirit when Activated.  Lasts for 12.0 seconds.\n  - The caster's spells heal 5% more damage.\n  - Cannot be modified except by direct means\n  - The casting time of Kaltuk's Spirit is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Kaltuk''s Cloak (crate)|Kaltuk''s Cloak]] *Legends of Norrath loot card'
 item_link: \aITEM 569435227 -60508060:Kaltuk's Cloak\/a
 categories:

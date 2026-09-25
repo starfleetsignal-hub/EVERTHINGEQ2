@@ -17,7 +17,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   flurry: '30.2'
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,458.3.\n  - Increases Crit Bonus Overcap of caster by 1,296.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 225862297 -935053315:Voided Thread, Star Forged Relic\/a
 categories:
 - Assassin Equipment

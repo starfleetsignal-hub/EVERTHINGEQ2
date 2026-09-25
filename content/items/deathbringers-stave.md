@@ -19,7 +19,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1979644408 224344631:Deathbringer's Stave\/a
 categories:
 - Ability Modifier (Equipment)

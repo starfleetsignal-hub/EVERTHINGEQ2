@@ -17,7 +17,8 @@ stats:
   potency: 45,356.9
   resolve: '545'
   dps: '242.9'
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -59110037 1394115473:Majestic Relic Eminent Wrap\/a
 categories:
 - Assassin Equipment

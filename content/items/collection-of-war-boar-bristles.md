@@ -14,7 +14,8 @@ stats:
   critbonus: '6.3'
   potency: '10.6'
   abmod: '+393'
-effects: '**Greater Vitality Shift**'
+effect_name: Greater Vitality Shift
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Greater Vitality Shift on target of attack.  Lasts for 1.0 second.  Triggers about 2.2 times per minute.\n    - Inflicts 4,049 - 4,476 piercing damage on target encounter.\n    - Heals group members (AE) for 4,432 - 4,899.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1249497273 -430999597:Collection of War Boar Bristles\/a
 categories:
 - Ability Modifier (Equipment)

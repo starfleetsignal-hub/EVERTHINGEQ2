@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Vital Deflection**'
+effect_name: Vital Deflection
+effects: "- When Equipped:\n  - Applies Vital Deflection III.  Lasts for 10.0 seconds.\n    - Inflicts 211,200 piercing damage on targets in Area of Effect.\n    - Increases Max Health of caster by 9.0%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -802444559 1908445052:Grimling Claw of Deflection\/a
 categories:
 - Arcane Resistance (Equipment)

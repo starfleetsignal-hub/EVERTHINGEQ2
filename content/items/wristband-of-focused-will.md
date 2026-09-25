@@ -15,7 +15,8 @@ stats:
   resolve: '3'
   aspeed: '36'
   vselemental: +29,521
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 10.  This effect increases to 22 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 61445303 -113523195:Wristband of Focused Will\/a
 categories:
 - Arcane Resistance (Equipment)

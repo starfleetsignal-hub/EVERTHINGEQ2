@@ -17,7 +17,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -412374165 1525945013 0 0 0:Woven Shadow Gloves of Crushing\/a
 categories:
 - Block Chance (Equipment)

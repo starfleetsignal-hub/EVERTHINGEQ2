@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Plate Armor
-effects: '**Templar''s Dispersion**'
+effect_name: Templar's Dispersion
+effects: "- When Equipped:\n  - When damaged this spell has a 3% chance to cast Dispersion on caster.  Lasts for 5 minutes.  This effect normalizes based off of a three second triggering event.\n    - Applies Dispersion on termination.\n      - Increases power of group members by 199.\n    - Will absorb all damage. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1529693601 1187578533:Breastplate of Deflection\/a
 image: images/Breastplate_of_Deflection_(Level_77).png
 categories:

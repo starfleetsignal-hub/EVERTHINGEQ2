@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+360'
-effects: '**Fearful Respect**<br>**Subtle Grace**'
+effect_name: Fearful Respect, Subtle Grace
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 7.0.\n- When Equipped:\n  - Increases poison trigger chance by 2.0%."
 item_link: \aITEM 1059749789 -1996042428:Bauble of the Tintinnabulum\/a
 categories:
 - Ability Modifier (Equipment)

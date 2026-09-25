@@ -25,7 +25,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,644 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 110) from [[Advanced Tailor Studies 03]] *Crafted by [[Weaponsmith]] (level 110) from [[Advanced Weaponsmith Studies 03]]'
 item_link: \aITEM 2107869882 -1505791066:Academic's Satchel of Endurance\/a
 categories:

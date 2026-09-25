@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: This cloak is an ode to Halas.  The blue silk of this cloak is enhanced by the beautiful gold trim.  It's the perfect cloak for the citizenry of New Halas.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (600 Daybreak Cash)
 item_link: \aITEM -799198099 2117977253:Halasian Loyalist's Cloak\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dps: '12.4'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 361.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1391211925 -750305552:Shawl of Tunarian Praise\/a
 categories:
 - Ability Modifier (Equipment)

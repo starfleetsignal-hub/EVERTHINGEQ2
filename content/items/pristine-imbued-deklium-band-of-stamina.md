@@ -15,7 +15,7 @@ stats:
   vselemental: '+188'
   vsarcane: '+188'
   vsnoxious: '+188'
-effects: Aura of Stamina
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast ***Spark of Stamina*** on caster. Lasts for 45.0 seconds.\n    - Increases STA of caster by 19.8\n    - Increases In-Combat Health Regeneration Per Tick of caster by 12.0"
 obtained_from: Crafted by [[Jeweler]] (level 78) from [[Jeweler Essentials Volume 78]]
 item_link: -1331075885 1697952280:pristine deklium band of stamina
 categories:

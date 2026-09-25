@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +24,232
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 44%-110%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 1101784131 929045071:Chain of Sacred Treasures\/a
 categories:
 - Arcane Resistance (Equipment)

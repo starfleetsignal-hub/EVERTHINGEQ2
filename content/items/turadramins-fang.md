@@ -19,7 +19,8 @@ stats:
   drating: '60.2'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Turadramin''s Venom**'
+effect_name: Turadramin's Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Turadramin's Venom on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 71 - 86 poison damage on target.\n    - Inflicts 47 - 57 poison damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1946005031 172888537:Turadramin's Fang\/a
 categories:
 - AE Autoattack Chance (Equipment)

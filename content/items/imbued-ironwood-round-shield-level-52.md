@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dtype: Round Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 140 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1476144555 -620423677:Imbued Ironwood Round Shield\/a
 aliases:
 - Imbued Ironwood Round Shield (Sanguine Imbued) (Level 50)

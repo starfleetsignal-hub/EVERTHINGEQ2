@@ -20,7 +20,8 @@ stats:
   drating: '132'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 4,162 - 4,600 heat damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -728680800 -1892635119:Bonebreaker of the Prime\/a
 categories:
 - Assassin Equipment

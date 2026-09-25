@@ -17,7 +17,8 @@ stats:
   potency: 5,209.2
   resolve: '145'
   aspeed: '59.7'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 323.7.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 115) from [[Jeweler's Primer Volume 15]]
 item_link: \aITEM 2004552047 829162017:Veilwalker's Charm of Dexterity\/a
 categories:

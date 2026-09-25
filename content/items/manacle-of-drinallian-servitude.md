@@ -15,7 +15,8 @@ stats:
   abmod: '+264'
   dps: '22.8'
   vselemental: +10,049
-effects: '**Perpetual Lamentation**'
+effect_name: Perpetual Lamentation
+effects: "- When Equipped:\n  - Increases Reuse Speed of caster by 7.0%.\n  - Increases Crit Bonus of caster by 5.0.\n  - Increases Potency of caster by 5.0.\n  - Increases Crushing, Slashing, Piercing and Ranged of caster by 65.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1340935731 -1381864114:Manacle of Drinallian Servitude\/a
 categories:
 - Ability Modifier (Equipment)

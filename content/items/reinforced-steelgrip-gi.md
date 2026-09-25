@@ -17,7 +17,8 @@ stats:
   aspeed: '8.8'
   multi: '9.6'
   dtype: Leather Armor
-effects: '**Lesser Critical Vigor**'
+effect_name: Lesser Critical Vigor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Lesser Critical Vigor on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 2.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1742272956 1964677201:Reinforced Steelgrip Gi\/a
 categories:
 - Attack Speed (Equipment)

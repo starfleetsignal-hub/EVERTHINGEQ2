@@ -12,7 +12,8 @@ stats:
   wis: '+62'
   maxhealth: '5'
   critbonus: '2'
-effects: '**Battlefield Fortitude**'
+effect_name: Battlefield Fortitude
+effects: "- When Equipped:\n  - Increases Mitigation of caster vs physical damage by 326.\n  - Must be engaged in pvp combat"
 item_link: \aITEM -968840225 75503627:Discord's Mending Cloak\/a
 categories:
 - Battlefield Fortitude (Equipment)

@@ -17,7 +17,8 @@ stats:
   dps: '22.4'
   multi: '29.4'
   dtype: Chain Armor
-effects: '**Lucid Haste**'
+effect_name: Lucid Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 2055075673 -299037241:Transcendent Eliminator's Despotic Cuffs\/a
 categories:
 - Accuracy (Equipment)

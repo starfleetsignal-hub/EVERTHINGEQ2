@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   abmod: '+25'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 22.0."
 item_link: \aITEM -727085246 -10973014:B'Dynns Sash of Speed\/a
 categories:
 - Ability Modifier (Equipment)

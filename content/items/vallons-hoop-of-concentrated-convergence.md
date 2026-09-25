@@ -14,7 +14,8 @@ stats:
   potency: '12.4'
   abmod: '+436'
   vselemental: +9,356
-effects: '**Concentrated Convergence**'
+effect_name: Concentrated Convergence
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Concentrated Convergence on caster.  Lasts for 18.0 seconds.  Triggers about 1.4 times per minute.\n    - Prevents caster and pet from taking damage from AoE spells. Spell will cancel if damage taken is more than 25% of your max health.\n  - Increases Potency of caster by 10.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -575845000 4339168:Vallon's Hoop of Concentrated Convergence\/a
 categories:
 - Ability Modifier (Equipment)

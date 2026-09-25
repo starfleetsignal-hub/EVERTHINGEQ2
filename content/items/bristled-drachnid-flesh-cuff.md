@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+356'
-effects: '**Assassin''s Thirst**'
+effect_name: Assassin's Thirst
+effects: "- When Equipped:\n  - Increases Ability Mod of caster by 30.0.\n  - On a kill this spell will cast Assassin's Thirst on caster.  Lasts for 20.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases DPS of caster by 15.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Path for Medicus]]'
 item_link: \aITEM -207037097 -551791741:Bristled Drachnid Flesh Cuff\/a
 categories:

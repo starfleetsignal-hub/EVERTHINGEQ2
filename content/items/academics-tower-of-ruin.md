@@ -19,7 +19,8 @@ stats:
   aspeed: '113.5'
   cbovercap: '+25.8'
   dtype: Tower Shield
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3%.\n    - Inflicts 1,064 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 46 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 110) from [[Advanced Weaponsmith Studies 08]]
 item_link: \aITEM -762145031 -492756210:Academic's Tower of Ruin\/a
 categories:

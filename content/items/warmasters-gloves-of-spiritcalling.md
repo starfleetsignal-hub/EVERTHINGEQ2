@@ -16,7 +16,8 @@ stats:
   potency: '9.3'
   dps: '20.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 355096841 -1284678632 0 0 0:Warmaster's Gloves of Spiritcalling\/a
 categories:
 - Census Credits

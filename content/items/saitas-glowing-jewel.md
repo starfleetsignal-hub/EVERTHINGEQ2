@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+147'
-effects: '**Amazing Presence**'
+effect_name: Amazing Presence
+effects: "- Applies Amazing Presence when Activated.  Lasts for 15.0 seconds.\n  - On a healing spell cast this spell will cast Amazing Presence on target of spell cast.\n    - Dispels 93 levels of any hostile effects on target\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - The reuse time of Amazing Presence is 5 minutes"
 item_link: \aITEM -1286527158 -691761947:Saita's Glowing Jewel\/a
 image: images/Saita's_Glowing_Jewel.jpg
 categories:

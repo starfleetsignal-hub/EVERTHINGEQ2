@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   vsarcane: '+210'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 16.0.\n    - Increases Haste of caster by 17.3.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 68) from [[Jeweler Essentials Volume 68 (Normal)]] *Crafted by [[Jeweler]] (level 68) from [[Jeweler Essentials Volume 68 (no-trade)]]'
 item_link: \aITEM -1799707976 136932794:Imbued Azurite Band of Agility\/a
 categories:

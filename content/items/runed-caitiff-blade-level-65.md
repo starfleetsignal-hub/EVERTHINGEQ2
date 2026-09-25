@@ -21,7 +21,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 28.0."
 item_link: \aITEM 763046748 520019515:Runed Caitiff Blade\/a
 categories:
 - Assassin Equipment

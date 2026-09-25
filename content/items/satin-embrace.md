@@ -13,7 +13,8 @@ stats:
   crit: '4.4'
   critbonus: '1.5'
   potency: '6.8'
-effects: '**Wildfire**'
+effect_name: Wildfire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Wildfire on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1532206692 1130558154:Satin Embrace\/a
 categories:
 - Assassin Equipment

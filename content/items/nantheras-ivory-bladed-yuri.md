@@ -21,7 +21,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Sharpened Velocity**'
+effect_name: Sharpened Velocity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Sharpened Velocity on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 10.0.\n    - Increases Multi Attack of caster by 10.0.\n    - Increases DPS of caster by 25.0.\n    - Adds 450 combat art damage.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 849102555 -1522223285:Nanthera's Ivory Bladed Yuri\/a
 categories:
 - Ability Modifier (Equipment)

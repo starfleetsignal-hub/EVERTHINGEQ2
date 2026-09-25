@@ -17,7 +17,7 @@ stats:
   vsarcane: '+74'
   vsnoxious: '+74'
   dtype: Plate Armor
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equiped.\n  - When target takes any damage this spell has a 5% change to case Sanguine Feedback on target's attacker.\n    - Inflicts 111 heat damage on target\n    - This spell can not be modified except by direct means"
 categories:
 - Arcane Resistance (Equipment)
 - Berserker Equipment

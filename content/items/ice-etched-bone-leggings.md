@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '150'
   dtype: Chain Armor
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 76 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -959968030 1896942261:Ice-Etched Bone Leggings\/a
 categories:
 - Assassin Equipment

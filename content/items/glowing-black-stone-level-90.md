@@ -14,7 +14,8 @@ stats:
   critbonus: '4.5'
   potency: '7.8'
   flurry: '5.2'
-effects: '**Dark Deeds**'
+effect_name: Dark Deeds
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dark Deeds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 338 magic damage on target.\n    - Heals caster for 698.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -999706651 -1762789712:Glowing Black Stone\/a
 categories:
 - Assassin Equipment

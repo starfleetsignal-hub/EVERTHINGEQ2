@@ -14,7 +14,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   aspeed: '31.2'
-effects: '**Dominant Stand**'
+effect_name: Dominant Stand
+effects: "- Applies Dominant Stand when Activated.  Lasts for 30.0 seconds.\n  - Wards the caster for up to 150,000 damage. The value decreases for each group or raid member within 10 meters of the caster.\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Dominant Stand is 1 minute"
 item_link: \aITEM 2040369336 -213851632:Diamond Cut Fulcrum Stone\/a
 categories:
 - Assassin Equipment

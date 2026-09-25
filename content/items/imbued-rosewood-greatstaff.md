@@ -19,7 +19,8 @@ stats:
   drating: '69.41'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 2,879\n      - Must be flanking or behind\n    - Increases Threat to target by 3,544\n      - Must be in front of\n    - Inflicts 152 - 282 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 63) from [[Woodworker Essentials Volume 63 (Normal)]] *Crafted by [[Woodworker]] (level 63) from [[Woodworker Essentials Volume 63 (no-trade)]]'
 item_link: \aITEM 82044559 785469423:Imbued Rosewood Greatstaff\/a
 categories:

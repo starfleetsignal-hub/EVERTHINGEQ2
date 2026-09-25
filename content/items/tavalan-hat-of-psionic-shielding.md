@@ -16,7 +16,8 @@ stats:
   potency: '12.3'
   dps: '30.2'
   dtype: Leather Armor
-effects: '**Psionic Protection**<br>**Psionic Conversion**'
+effect_name: Psionic Protection, Psionic Conversion
+effects: "- When Equipped:\n  - Protects the wearer from psionic damage!\n- Applies Psionic Conversion on target Friend when Activated.\n  - Converts combat statistics of your target into protection from psionic damage!\n  - The casting time of Psionic Conversion is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 obtained_from: '*Crafted by [[Armorer]] (level 95) from [[Helms of Psionic Shielding]] *Made from [[Mote of Gleaming Aqua Metal]] *Made from [[Purified Cave Water]] *Made from [[Soaked Coal]] *Made from [[Vial of Ancient Tavalan Blood]]'
 item_link: \aITEM 1586275394 -322537536:Tavalan Hat of Psionic Shielding\/a
 categories:

@@ -10,7 +10,7 @@ stats:
   duration: Until Cancelled
   charges: Unlimited
   casting: 2.0 seconds
-effects: Glacia, Dark Gryphon
+effects: "- Applies Glacia, Dark Gryphon when activated.\n  - Increases Potency 6.5%.\n  - Increases Crit Bonus of caster by 6.5%\n  - Increases Crit Chance of caster by 18.0\n  - Increases Max Health of caster by 1000.0\n  - Increases Max Power of caster by 1000.0\n  - Summons a mount to ride\n    - Increases your ground speed by 75%\n    - Increases your air speed by 150%"
 item_link: \aITEM -460236390 -302601080:Glacia, Dark Gryphon\/a
 categories:
 - Assassin Equipment

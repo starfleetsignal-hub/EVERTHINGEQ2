@@ -18,7 +18,8 @@ stats:
   potency: '450.2'
   resolve: '23'
   dtype: Plate Armor
-effects: '**Mark of Terris**'
+effect_name: Mark of Terris
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Setri Lureth."
 obtained_from: From [[Pauldrons of Nightmare]]
 item_link: \aITEM 452561324 1248053956:Ancient Pauldrons of Nightmare\/a
 categories:

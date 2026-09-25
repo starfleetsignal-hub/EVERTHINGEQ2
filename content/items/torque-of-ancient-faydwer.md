@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '23.1'
   multi: '19.8'
-effects: '**The Finisher**'
+effect_name: The Finisher
+effects: "- When Equipped:\n  - Increases Potency of caster by 80.0.\n  - Improves the potency of all abilities by 120% when the target is below 50% health.  This effect will not stack with any other finisher effect.\n    - This effect will not stack with any other Finisher effect."
 obtained_from: 'Collection reward: [[Echoes of Faydwer Maps]]'
 item_link: \aITEM 1108147178 393434676:Torque of Ancient Faydwer\/a
 categories:

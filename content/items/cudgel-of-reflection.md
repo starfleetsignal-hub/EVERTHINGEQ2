@@ -16,7 +16,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Soothing of the Ancients**'
+effect_name: Soothing of the Ancients
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Soothing on target of attack.  Triggers about 1.8 times per minute.\n    - Heals caster for 308.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1899707196 -285970881:Cudgel of Reflection\/a
 categories:
 - Beastlord Equipment

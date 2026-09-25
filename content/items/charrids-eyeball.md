@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +1,670
   aspeed: '18.8'
-effects: '**Divine Breath**'
+effect_name: Divine Breath
+effects: "- Applies Divine Breath when Activated.  Lasts for 10.0 seconds.\n  - Dispels 117 levels of any hostile effects on group members (AE)\n  - This effect can be used while stifled, stunned or feared.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Breath is 1 minute"
 item_link: \aITEM 807036854 -1368957513:Charrid's Eyeball\/a
 categories:
 - Ability Modifier (Equipment)

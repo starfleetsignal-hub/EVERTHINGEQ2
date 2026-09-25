@@ -17,7 +17,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Stunning Strike Glyph**'
+effect_name: Stunning Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1403478059 903864124:Longbow of the Warmaster\/a
 categories:
 - Assassin Equipment

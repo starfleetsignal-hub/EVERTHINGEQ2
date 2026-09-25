@@ -15,7 +15,8 @@ stats:
   potency: '27.8'
   abmod: '+750'
   dps: '26.1'
-effects: '**Holy**'
+effect_name: Holy
+effects: "- Applies Holy III when Activated.  Lasts for 1 minute.\n  - Increases Crit Bonus of caster by 12.0.\n  - Converts damage spells to divine damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Holy III is 1 minute"
 item_link: \aITEM 1462205173 833185028:Arcane Converter\/a
 categories:
 - Ability Modifier (Equipment)

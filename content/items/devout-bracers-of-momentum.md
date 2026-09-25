@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '218'
   dtype: Plate Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Devout Bracers of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1737662990 665962115:Devout Bracers of Momentum\/a
 categories:

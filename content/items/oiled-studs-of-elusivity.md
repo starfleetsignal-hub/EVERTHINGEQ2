@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   vsarcane: '+84'
-effects: '**Rising Brutality**'
+effect_name: Rising Brutality
+effects: "- Applies Rising Brutality IV when Activated.  Lasts for 12.0 seconds.\n  - Applies Invigorated Haste IV on termination.  Lasts for 30.0 seconds.\n    - Increases Haste of caster by 50.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Damage Per Second of the caster over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Rising Brutality IV is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 40) from [[Ancient Knowledge: Oiled Studs of Elusivity]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 842382464 1492698583:Oiled Studs of Elusivity\/a
 categories:

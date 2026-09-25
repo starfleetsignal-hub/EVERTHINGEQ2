@@ -16,7 +16,8 @@ stats:
   abmod: '+811'
   dps: '28.1'
   vselemental: +30,687
-effects: '**Channeled Redirection**'
+effect_name: Channeled Redirection
+effects: "- When Equipped:\n  - Reduces elemental, noxious and arcane damage done to caster by 6.5%.\n  - Damage reduction from this effect will not stack with itself.\n  - When any magical damage is received this spell will cast Channeled Redirection II on target.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency of caster by 134.0.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities.\n    - This effect can only trigger once every 30.0 seconds."
 item_link: \aITEM -1338136733 -1590875392:Power Capacitor\/a
 categories:
 - Ability Modifier (Equipment)

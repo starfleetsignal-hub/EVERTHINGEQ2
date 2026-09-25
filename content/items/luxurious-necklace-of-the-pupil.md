@@ -14,7 +14,8 @@ stats:
   critbonus: '5.7'
   potency: '9.8'
   abmod: '+347'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -934840748 294695532:Luxurious Necklace of the Pupil\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   abmod: +1,250
-effects: '**Armor of the Ulthork**'
+effect_name: Armor of the Ulthork
+effects: "- When Equipped:\n  - When the wearer dies, they will take only 30% of the base armor damage.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2116258198 -1541949622:Fabled Animator's Cinch\/a
 categories:
 - Ability Modifier (Equipment)

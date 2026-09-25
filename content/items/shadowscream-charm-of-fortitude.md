@@ -17,7 +17,8 @@ stats:
   potency: 7,054.9
   resolve: '220'
   multi: '15.8'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: '*Crafted by [[Jeweler]] (level 120) from [[Shadowscream Jeweler Studies II]] *Made from [[Pattern: Shadowscream Charm of Fortitude]]'
 item_link: \aITEM -118711800 -1007905457:Shadowscream Charm of Fortitude\/a
 categories:

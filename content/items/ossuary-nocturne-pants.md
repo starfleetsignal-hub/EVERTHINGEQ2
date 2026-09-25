@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   abmod: +4120,106
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2086230866 440955534:Ossuary Nocturne Pants\/a
 categories:
 - Ability Modifier (Equipment)

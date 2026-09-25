@@ -12,7 +12,7 @@ stats:
   health: '+5'
   power: '+5'
   dtype: Kite Shield
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 60 heat damage on target"
 obtained_from: Crafted by [[Armorer]] (level 30)
 item_link: 72771070 436465809:Pristine Imbued Feyiron Kite Shield
 categories:

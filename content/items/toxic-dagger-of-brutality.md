@@ -19,7 +19,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Infected Strike**'
+effect_name: Infected Strike
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Infected Strike VII on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 457 - 505 disease damage on target.\n    - Inflicts 128 - 141 disease damage on target every 2 seconds.\n    - Decreases AGI, INT, STR and WIS of target by 70.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Infected Strike VII on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 457 - 505 disease damage on target.\n    - Inflicts 128 - 141 disease damage on target every 2 seconds.\n    - Decreases AGI, INT, STR and WIS of target by 70.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 70) from [[Ancient Knowledge: Toxic Dagger of Brutality]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 56690155 1122739458:Toxic Dagger of Brutality\/a
 categories:

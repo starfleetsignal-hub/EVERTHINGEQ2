@@ -17,7 +17,7 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Chain Armor
-effects: Ancestral Barrier
+effects: "- When Equipped:\n  - When target casts a healing spell this spell has a chance to cast Ancestral Barrier on target of spell cast. Lasts for 30 seconds. This effect will trigger an average of 2.0 times per minute\n    - Wards target against 500 points of all damage\n    - Replenishes 100 points of absorption every 5 seconds\n  - This spell cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -1639237320 1875669720:Numinous Voidlink Hauberk\/a
 categories:

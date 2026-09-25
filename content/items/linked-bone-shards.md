@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   dps: '12.4'
-effects: '**Memory Lapse**'
+effect_name: Memory Lapse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Memory Lapse on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1738560178 624569920:Linked Bone Shards\/a
 categories:
 - Ability Modifier (Equipment)

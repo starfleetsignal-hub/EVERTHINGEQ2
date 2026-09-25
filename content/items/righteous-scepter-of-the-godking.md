@@ -20,7 +20,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Blessing of Anashti Sul**<br>**Flow of Fyr''Un**'
+effect_name: Blessing of Anashti Sul, Flow of Fyr'Un
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Blessing of Anashti Sul on target of spell cast.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals target for 107 - 130 instantly and every second.\n    - Cannot be modified except by direct means\n- Applies Flow of Fyr'Un when Equipped.\n  - Increases Combat Power Regen of caster by 14.0."
 obtained_from: '[[Wrapping It All Up]]'
 item_link: \aITEM -311922922 -683094074:Righteous Scepter of the Godking\/a
 categories:

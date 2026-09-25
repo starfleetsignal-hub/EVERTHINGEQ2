@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   aspeed: '9.3'
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,218 - 1,827 poison damage on target\n    - Heals caster for 811 - 1,217\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1382592464 230472684:Bracelet of Visionary Insanity\/a
 categories:
 - Assassin Equipment

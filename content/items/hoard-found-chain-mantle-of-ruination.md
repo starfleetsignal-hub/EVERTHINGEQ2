@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   aspeed: '35.7'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 553483559 1020629737:Hoard Found Chain Mantle of Ruination\/a
 categories:
 - Assassin Equipment

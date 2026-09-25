@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,884
   aspeed: '68.2'
-effects: '**Entwined Enmity**'
+effect_name: Entwined Enmity
+effects: "- Applies Entwined Enmity when Activated.  Lasts for 15.0 seconds.\n  - Heals group members for 20.0% of caster's max health.\n  - Heals group members for 10.0% of caster's max health every 7.5 seconds.\n    - This effect cannot be critically applied.\n  - Increases Max Health of group members by 10.0%.\n  - Requires 25 stacks of Enmitic Escalation to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Entwined Enmity is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM -1449295382 1971874943:Splintered Shard of Hate\/a
 categories:
 - Ability Modifier (Equipment)

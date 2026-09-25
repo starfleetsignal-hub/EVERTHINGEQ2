@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Reckless Assault**'
+effect_name: Reckless Assault
+effects: "- When Equipped:\n  - When a combat art is used this spell may cast Reckless Assault II on caster.  Lasts for 30.0 seconds.  Triggers about 4.0 times per minute.\n    - Increases all damage to the caster by 25% per increment\n    - Increases the potency of offensive abilities by 22% per increment, if at 1 increment.\n    - Increments up to 4 times\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell may cast Reckless Assault II on caster.  Lasts for 30.0 seconds.  Triggers about 4.0 times per minute.\n    - Increases all damage to the caster by 25% per increment\n    - Increases the potency of offensive abilities by 22% per increment, if at 1 increment.\n    - Increments up to 4 times\n    - Cannot be modified except by direct means"
 item_link: \aITEM 852998794 1738424327:Fabled Ring of Might\/a
 categories:
 - Ability Modifier (Equipment)

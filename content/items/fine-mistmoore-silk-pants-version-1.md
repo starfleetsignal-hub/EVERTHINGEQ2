@@ -15,7 +15,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   dtype: Cloth Armor
-effects: '**Frost Strike**'
+effect_name: Frost Strike
+effects: "- When Equipped:\n  - Increases cold damage done by spells by up to 45."
 obtained_from: Dropped from [[Princess Cherista]] in [[Castle Mistmoore]]
 item_link: \aITEM 212175541 -83315272:Fine Mistmoore Silk Pants\/a
 categories:

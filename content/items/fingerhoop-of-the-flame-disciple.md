@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vsarcane: '+400'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 32.0."
 obtained_from: '[[Barred No More]]'
 item_link: \aITEM 931843592 -1158559509:Fingerhoop of the Flame Disciple\/a
 categories:

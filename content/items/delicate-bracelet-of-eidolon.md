@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: +1,824
-effects: '**Velium Tempest**'
+effect_name: Velium Tempest
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,162 - 4,600 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 1,850.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 922858518 1367440921:Delicate Bracelet of Eidolon\/a
 categories:
 - Ability Modifier (Equipment)

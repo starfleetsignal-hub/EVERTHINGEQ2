@@ -16,7 +16,10 @@ stats:
   vselemental: '+1599'
   vsarcane: '+1599'
   vsnoxious: '+1599'
-effects: Benevolent Alacrity I
+effects: 'When equipped:
+
+
+  - Reduces cast time of beneficial spells by 1 percent'
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards or Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: \aITEM 1033387847 37183980:Unholy Earring\/a
 categories:

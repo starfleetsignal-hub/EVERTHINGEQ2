@@ -16,7 +16,8 @@ stats:
   drating: '10.64'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Searing Spiral Glyph**'
+effect_name: Searing Spiral Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1865338908 -38323613:Bo Staff of the Advisor\/a
 categories:
 - Beastlord Equipment

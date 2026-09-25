@@ -13,7 +13,8 @@ stats:
   mit: '187'
   potency: '0.2'
   dtype: Chain Armor
-effects: '**Mental Feedback**'
+effect_name: Mental Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 103 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1245069771 712935028:Archons Bracers of Light\/a
 categories:
 - Assassin Equipment

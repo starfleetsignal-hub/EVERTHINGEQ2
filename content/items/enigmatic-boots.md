@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   dps: '0.8'
   dtype: Chain Armor
-effects: '**Baffle**'
+effect_name: Baffle
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Baffle on target's attacker.\n    - Decreases Threat to target by 1,319 - 2,198\n    - Cannot be modified except by direct means"
 item_link: \aITEM -806616493 -1184594923:Enigmatic Boots\/a
 categories:
 - Assassin Equipment

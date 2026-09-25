@@ -16,7 +16,8 @@ stats:
   potency: '6'
   abmod: '+179'
   vselemental: '+451'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 29.0.\n    - Increases Combat Health Regen of caster by 15.6.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 88) from [[Advanced Jeweler Volume 88 (Heirloom)]] *Crafted by [[Jeweler]] (level 88) from [[Advanced Jeweler Volume 88 (Normal)]]'
 item_link: \aITEM 1479641235 -34433361:Brellium Band Of Stamina\/a
 image: images/Brellium_Band_Of_Stamina.png

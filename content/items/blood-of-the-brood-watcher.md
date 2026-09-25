@@ -15,7 +15,8 @@ stats:
   potency: '1.8'
   abmod: '+44'
   dtype: Symbols
-effects: '**Wrath of the Broodwatcher**'
+effect_name: Wrath of the Broodwatcher
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Wrath of the Brood Watcher on target of spell.  Triggers about 0.2 times per minute.\n    - Inflicts 271 - 331 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 199299490 1774699213:Blood of the Brood Watcher\/a
 categories:
 - Ability Modifier (Equipment)

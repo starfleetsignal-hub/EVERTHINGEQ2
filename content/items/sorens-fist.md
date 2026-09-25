@@ -21,7 +21,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Vindication**'
+effect_name: Vindication
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vindication on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Threat to target by 18,045  instantly and every 4 seconds thereafter\n    - Inflicts 5,328 heat damage on target instantly and every 4 seconds.\n    - Inflicts an additional 2,664 heat damage on target every tick.\n    - Increases Hate Gain of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -932169837 -1046163598:Soren's Fist\/a
 categories:
 - Attack Speed (Equipment)

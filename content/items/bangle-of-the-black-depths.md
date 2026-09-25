@@ -16,7 +16,8 @@ stats:
   dps: '32.1'
   vselemental: +37,985
   mitinc: '9.3'
-effects: '**Prismatic Reaction**'
+effect_name: Prismatic Reaction
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Thalumbra Indicia]]'
 item_link: \aITEM 2122221010 1662028200:Bangle of the Black Depths\/a
 categories:

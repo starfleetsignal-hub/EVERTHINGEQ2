@@ -18,7 +18,8 @@ stats:
   abmod: '+46'
   aspeed: '2.9'
   dtype: Leather Armor
-effects: '**Force of Will**'
+effect_name: Force of Will
+effects: "- Applies Force of Will when Activated.\n  - Dispels 124 levels of hostile Fear, hostile Root, hostile Stifle, hostile Stun and hostile Daze effects on caster\n  - The casting time of Force of Will is 1.0 second and the reuse time of the spell is 25 minutes"
 item_link: \aITEM 423151232 -1931088476:Excarnate Cap\/a
 categories:
 - Ability Modifier (Equipment)

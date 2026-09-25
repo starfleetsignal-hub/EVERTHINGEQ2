@@ -18,7 +18,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Cloth Armor
-effects: '**Fiery Destruction**'
+effect_name: Fiery Destruction
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Fiery Destruction on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 324 heat damage on target encounter.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Unadorned Steel Circlet]]'
 item_link: \aITEM -1176766665 -1900716436 0 0 0:Nethersummoned Crown of Fiery Destruction\/a
 categories:

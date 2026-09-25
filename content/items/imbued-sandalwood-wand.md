@@ -19,7 +19,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 2,249\n      - Must be flanking or behind\n    - Increases Threat to target by 2,914\n      - Must be in front of\n    - Inflicts 121 - 225 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 55) from [[Woodworker Essentials Volume 55 (Normal)]] *Crafted by [[Woodworker]] (level 55) from [[Woodworker Essentials Volume 55 (no-trade)]]'
 item_link: \aITEM -582714062 1487747796:Imbued Sandalwood Wand\/a
 categories:

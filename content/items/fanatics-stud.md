@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Reckless Assault**'
+effect_name: Reckless Assault
+effects: "- When Equipped:\n  - When a combat art is used this spell may cast Reckless Assault on caster.  Lasts for 30.0 seconds.  Triggers about 4.0 times per minute.\n    - Increases all damage to the caster by 25% per increment\n    - Increases the potency of offensive abilities by 20% per increment, if at 1 increment.\n    - Increments up to 4 times\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell may cast Reckless Assault on caster.  Lasts for 30.0 seconds.  Triggers about 4.0 times per minute.\n    - Increases all damage to the caster by 25% per increment\n    - Increases the potency of offensive abilities by 20% per increment, if at 1 increment.\n    - Increments up to 4 times\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1784854586 1558885805:Fanatic's Stud\/a
 categories:
 - Arcane Resistance (Equipment)

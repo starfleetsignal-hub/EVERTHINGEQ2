@@ -12,7 +12,8 @@ stats:
   wis: '+60'
   abmod: '+151'
   dtype: Symbols
-effects: '**PvP Potency**'
+effect_name: PvP Potency
+effects: "- When Equipped:\n  - Increases Potency of caster by 2.0.\n  - Must be engaged in pvp combat"
 item_link: \aITEM 541473064 905392104:Discord's Battle Medic Idol\/a
 categories:
 - Ability Modifier (Equipment)

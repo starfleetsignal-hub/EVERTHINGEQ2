@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Essence Absorption**'
+effect_name: Essence Absorption
+effects: "- When Equipped:\n  - On a kill this spell has a 10% chance to cast Essence Absorption on caster.\n    - Increases power of caster by 546.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 129369451 419703772:Mantle of Suffering\/a
 categories:
 - Ability Modifier (Equipment)

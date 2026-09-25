@@ -15,7 +15,7 @@ stats:
   vselemental: '+205'
   vsarcane: '+205'
   vsnoxious: '+205'
-effects: Power Flux II
+effects: "- When Equipped:\n  - Increases pet Spell and Combat Art damage by 75, and melee/spell criticals by 2%"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM 2100887056 -747194376:Netherplane Drape\/a
 categories:

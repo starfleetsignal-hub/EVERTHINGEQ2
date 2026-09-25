@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Magicblade**'
+effect_name: Magicblade
+effects: "- Applies Magicblade II when Activated.  Lasts for 1 minute.\n  - Increases Flurry of Caster by 5.5.\n  - Converts damage spells to slashing damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Magicblade II is 1 minute"
 item_link: \aITEM 1115194607 2131666959:Spirited Magic Blade Stone\/a
 image: images/Spirited_Magic_Blade_Stone.png
 categories:

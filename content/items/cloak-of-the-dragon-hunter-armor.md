@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of the Dragon Hunter (crate)|Cloak of the Dragon Hunter]]
 item_link: \aITEM -121597159 862955081:Cloak of the Dragon Hunter\/a
 categories:

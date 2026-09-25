@@ -9,7 +9,8 @@ slot: Cloak
 flags: no-trade
 stats:
   wis: '+46'
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 item_link: \aITEM 1805504605 -293429883:Valorous Wings\/a
 categories:
 - Assassin Equipment

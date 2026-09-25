@@ -16,7 +16,8 @@ stats:
   dps: '23.9'
   multi: '41.8'
   dtype: Chain Armor
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1163559009 -934856865:Attenuated Leggings of Absorption\/a
 categories:
 - Assassin Equipment

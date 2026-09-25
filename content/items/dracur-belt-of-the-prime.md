@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   mitinc: '11.2'
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1328485886 61911255:Dracur Belt of the Prime\/a
 categories:
 - Assassin Equipment

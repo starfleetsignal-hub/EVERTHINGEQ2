@@ -20,7 +20,8 @@ stats:
   cbovercap: '+63.3'
   mitinc: '37.8'
   dtype: Symbols
-effects: '**Decisive Strike**<br>**Attunement to Earth**'
+effect_name: Decisive Strike, Attunement to Earth
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,725 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means\n- Applies Attunement to Earth when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Earth is 10.0 seconds"
 item_link: \aITEM -502157257 1997690530:Fabled Symbol of the Horn Blower\/a
 categories:
 - Attunement to Earth (Equipment)

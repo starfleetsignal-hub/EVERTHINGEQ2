@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   aspeed: '8.8'
   dps: '15.2'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1828955167 -1772872455:Clasped Belt of Stone Links\/a
 categories:
 - Assassin Equipment

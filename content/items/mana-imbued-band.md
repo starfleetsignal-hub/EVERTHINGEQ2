@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   vselemental: '+511'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Manawell on target of spell.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 272.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2001478767 505270583:Mana Imbued Band\/a
 categories:
 - Ability Modifier (Equipment)

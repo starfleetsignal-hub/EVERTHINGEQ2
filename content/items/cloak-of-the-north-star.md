@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: The North Star, beloved of wanderers everywhere, is beautifully embroidered on this deep blue cloak. Your fashion sense will shine like the night's brightest star when you wear it!
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 498060221 -29497604:Cloak of the North Star\/a
 categories:

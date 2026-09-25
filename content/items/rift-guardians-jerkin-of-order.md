@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Leather Armor
-effects: '**Reflexive Skin**'
+effect_name: Reflexive Skin
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Reflexive Skin on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Reduces elemental, noxious and arcane damage done to target by 15%.\n    - Grants a 15.0% chance to resist Stifle effects\n    - Cannot be modified except by direct means\n  - If under level 90"
 item_link: \aITEM -1432884415 1173066336 0 0 0:Rift Guardian's Jerkin of Order\/a
 categories:
 - Ability Modifier (Equipment)

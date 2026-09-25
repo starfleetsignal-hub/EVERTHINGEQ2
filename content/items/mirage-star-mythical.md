@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Rapid Strikes**<br>**Soothing Mind**<br>**Personae Mastery**'
+effect_name: Rapid Strikes, Soothing Mind, Personae Mastery
+effects: "- When Equipped:\n  - Changes Rapidity IV to a group buff and adds 10% double attack.\n- When Equipped:\n  - On a hostile spell cast this spell has a 12% chance to cast Soothing Mind on the group.  Lasts for 15.0 seconds.\n    - On any combat or spell hit this spell will cast Soothing Mind on the group.  Lasts for 15.0 seconds.\n      - Increases power of target by 360.\n      - Grants a total of 1 trigger of the spell.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the max health of the illusionist's Personae Reflection VII by 25%"
 obtained_from: '[[The Mirage Star]]'
 item_link: \aITEM 529211491 -117008505:Mirage Star\/a
 categories:

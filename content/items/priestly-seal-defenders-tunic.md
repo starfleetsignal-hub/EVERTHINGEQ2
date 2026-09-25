@@ -17,7 +17,8 @@ stats:
   aspeed: '7.9'
   dps: '13.9'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Sold by [[Supply Master Essa'Mae]] (Faction Merchant) in [[The Hole]]<br>Requires 50,000 faction with Defenders of the Seal
 item_link: \aITEM -856286583 -348270497:Priestly Seal Defender's Tunic\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '2.1'
   critbonus: '0.7'
   potency: '3.5'
-effects: '**Power Surge**'
+effect_name: Power Surge
+effects: "- Applies Power Surge when Activated.  Lasts for 16.0 seconds.\n  - Increases amount healed by up to 300.\n  - The casting time of Power Surge is 0.5 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: Sold by [[Dealer Zaynx]] (Faction Merchant) in [[Kunzar Jungle]]
 item_link: \aITEM 590302355 -1277666450:Divine Jiniskian Cloak\/a
 categories:

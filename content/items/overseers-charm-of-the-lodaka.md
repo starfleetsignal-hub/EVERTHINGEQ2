@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Energy of War**'
+effect_name: Energy of War
+effects: "- Applies Energy of War when Activated.  Lasts for 1 minute.\n  - Increases AE Autoattack of Caster by 13.0%.\n  - Converts damage spells to magic damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Energy of War is 1 minute"
 item_link: \aITEM -1459486194 -512147725:Overseer's Charm of the Lodaka\/a
 categories:
 - Assassin Equipment

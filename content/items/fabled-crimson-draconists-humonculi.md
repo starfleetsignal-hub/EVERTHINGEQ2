@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Focused Sight**'
+effect_name: Focused Sight
+effects: "- Applies Focused Sight when Activated.  Lasts for 30.0 seconds.\n  - Increases Accuracy of caster by 50.0%.\n  - Increases Strikethrough of caster by 50.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Focused Sight is 3 minutes"
 item_link: \aITEM -289985183 1180617144:Fabled Crimson Draconist's Humonculi\/a
 categories:
 - Assassin Equipment

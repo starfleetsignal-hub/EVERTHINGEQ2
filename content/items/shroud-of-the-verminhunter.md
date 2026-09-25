@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '33'
   resolve: '3'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 48 and 148 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 1683253657 -1078436219:Shroud of the Verminhunter\/a
 categories:
 - Ability Doublecast (Equipment)

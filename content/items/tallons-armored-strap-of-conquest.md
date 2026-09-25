@@ -18,7 +18,8 @@ stats:
   aspeed: '38'
   flurry: '20'
   mitinc: '8'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception V when Equipped.\n  - Increases Fervor of caster by 10.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 375."
 item_link: \aITEM -192723001 -1508332169:Tallon's Armored Strap of Conquest\/a
 categories:
 - Ability Doublecast (Equipment)

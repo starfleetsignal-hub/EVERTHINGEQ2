@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '123'
   dtype: Leather Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Riposte Chance of caster by 9.0.\n  - Increases Riposte Damage of caster by 9.0."
 obtained_from: '*Crafted by [[Tailor]] (level 30) from [[Ancient Knowledge: Reinforced Bracers of Virtue]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM 836660772 1902368414:Reinforced Bracers of Virtue\/a
 categories:

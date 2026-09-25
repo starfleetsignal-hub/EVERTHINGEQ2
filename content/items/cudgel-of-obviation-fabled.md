@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Tribal Rage**'
+effect_name: Tribal Rage
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell has a 9% chance to cast Tribal Rage on the group.  Lasts for 12.0 seconds.\n    - Group members (AE) will Double Attack on 7% of attacks\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[A Sleeping Stone: The Cudgel of Obviation]] part of the [[Mystic Epic Weapon Timeline]]'
 item_link: \aITEM 864736810 -1749295877:Cudgel of Obviation\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   aspeed: '179.1'
   dtype: Plate Armor
-effects: '**Psionic Aura**'
+effect_name: Psionic Aura
+effects: "- Applies Psionic Aura when Equipped.\n  - The Intact Psionist Helm emits an aura which allows the wearer to present themselves as a psionist."
 obtained_from: Crafted by [[Artisan]] (level 100) from [[Crowning Achievements of the Deepforge Founders]]
 item_link: \aITEM -1411024028 -1375197780:Intact Militant Psionist's Crown\/a
 categories:

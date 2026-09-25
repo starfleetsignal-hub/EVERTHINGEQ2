@@ -17,7 +17,8 @@ stats:
   abmod: '+217'
   vselemental: '+511'
   mitinc: '7.6'
-effects: '**Utter Destruction**'
+effect_name: Utter Destruction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Utter Destruction on caster.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.0.\n    - Increases Strikethrough of caster by 5.0%.\n    - Increases DPS of caster by 45.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1494688398 -2049974152:Exquisite Ulteran Diamond Band\/a
 categories:
 - Ability Modifier (Equipment)

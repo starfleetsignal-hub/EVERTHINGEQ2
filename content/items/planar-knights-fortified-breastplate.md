@@ -18,7 +18,8 @@ stats:
   abmod: '+393'
   mitinc: '11.2'
   dtype: Plate Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1125337890 1192152080:Planar Knight's Fortified Breastplate\/a
 categories:
 - Ability Modifier (Equipment)

@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '88'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Devout Breastplate of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 233394863 476787402:Devout Breastplate of Smiting\/a
 categories:

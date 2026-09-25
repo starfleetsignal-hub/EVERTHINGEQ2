@@ -19,7 +19,8 @@ stats:
   abmod: '+115'
   mitinc: '2.4'
   dtype: Kite Shield
-effects: '**Crested Thirst**'
+effect_name: Crested Thirst
+effects: "- When Equipped:\n  - On a block this spell has a 9% chance to cast Crested Thirst on target's victim.\n    - Inflicts 167 magic damage on target\n    - Heals caster for 166\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Symbol in the Flesh]]'
 item_link: \aITEM 24540678 -1732036029:Crested Mistmoore Shield\/a
 categories:

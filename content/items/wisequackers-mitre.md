@@ -19,7 +19,8 @@ stats:
   abmod: +7,156
   dps: '63.1'
   dtype: Plate Armor
-effects: '**Quacker Power**'
+effect_name: Quacker Power
+effects: "- Applies Quacker Power when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -714165845 556459495:Wisequacker's Mitre\/a
 categories:
 - Ability Modifier (Equipment)

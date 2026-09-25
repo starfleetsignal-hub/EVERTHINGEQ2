@@ -22,7 +22,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Gale Force Winds**'
+effect_name: Gale Force Winds
+effects: "- When Equipped:\n  - When damaged this spell has a 50% chance to cast Gale Force Winds on caster.  Lasts for 30.0 seconds.\n    - Wards caster against 600,000 points of elemental, noxious and arcane damage\n    - Increases Flurry of Caster by 5.0.\n    - Replenishes 100,000 points of absorption every 2 seconds.\n    - Physical damage will not trigger this effect.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities.\n    - This effect can only trigger once every 20.0 seconds."
 item_link: \aITEM -418544424 -1283647259:Dagger of Yothshaval\/a
 categories:
 - Ability Modifier (Equipment)

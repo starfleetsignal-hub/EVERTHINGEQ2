@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+1'
   vsarcane: '+5'
-effects: '**Elemental Environmental Suit**'
+effect_name: Elemental Environmental Suit
+effects: "- Applies Elemental Environmental Suit when Equipped.\n  - Converts 3% of all elemental damage received into power gain."
 obtained_from: Made with Tinkering (skill 410) from [[Master's Blueprints 0.010]].
 item_link: \aITEM 212145402 -959969640:Elemental Environmental Shield\/a
 categories:

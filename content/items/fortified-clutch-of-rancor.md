@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+217'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution VI on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 620.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 60) from [[Ancient Knowledge: Fortified Clutch of Rancor]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -488161999 -1622185598:Fortified Clutch of Rancor\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '149.27'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Silver Conflagration**'
+effect_name: Silver Conflagration
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Silver Conflagration I on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 7,169 - 7,923 heat damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -489624680 573145376 0 0 0:Moss Covered Crustacean\/a
 categories:
 - Beastlord Equipment

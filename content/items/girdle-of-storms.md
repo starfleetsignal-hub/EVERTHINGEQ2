@@ -13,7 +13,8 @@ stats:
   crit: '1.2'
   critbonus: '0.4'
   potency: '1.8'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 23.0."
 item_link: \aITEM 544275498 -2088322258:Girdle of Storms\/a
 categories:
 - Assassin Equipment

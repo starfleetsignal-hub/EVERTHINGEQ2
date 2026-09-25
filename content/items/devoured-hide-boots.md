@@ -16,7 +16,8 @@ stats:
   potency: '2.4'
   abmod: '+52'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Sokokarn''t]]'
 item_link: \aITEM 836542520 -2063186603:Devoured-hide Boots\/a
 image: images/Devoured-hideBoots.jpg

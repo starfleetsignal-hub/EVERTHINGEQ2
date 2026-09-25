@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +24,232
-effects: '**Zeroing In**'
+effect_name: Zeroing In
+effects: "- When Equipped:\n  - On any combat or spell hit this spell will cast Zeroing In on caster.  Lasts for 30.0 seconds.\n    - Increases Potency of caster by 2.0, multiplied by increment stacks.\n    - Increments up to 50 times, as long as the wearer focuses their attacks and abilities on a single target. Switching targets will reset the increment count.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -369012630 281030351:First Mate's Insignia\/a
 image: images/First_Mate's_Insignia.png
 categories:

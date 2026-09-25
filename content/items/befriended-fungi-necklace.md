@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   abmod: +1,622
   aspeed: '18.3'
-effects: '**Fungus Regeneration**'
+effect_name: Fungus Regeneration
+effects: "- When Equipped:\n  - When any damage is received this spell has a 30% chance to cast Fungus Regeneration on target.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases healing received by 1.00%.\n    - Increases Potency of caster by 8.0, multiplied by increment stacks.\n    - This effect increments up to 10 times.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 obtained_from: '[[Let My People Go]]'
 item_link: \aITEM 1438653823 -906240743:Befriended Fungi Necklace\/a
 categories:

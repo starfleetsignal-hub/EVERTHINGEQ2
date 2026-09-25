@@ -14,7 +14,8 @@ stats:
   critbonus: '5.1'
   potency: '8.6'
   vselemental: '+564'
-effects: '**Mystical Cyclone**'
+effect_name: Mystical Cyclone
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 5.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -635241838 1101067747:Dominant Wristlet of Gindan Grasp\/a
 categories:
 - Arcane Resistance (Equipment)

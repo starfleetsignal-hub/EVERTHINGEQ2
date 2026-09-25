@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   multi: '5.9'
   vsarcane: '+347'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 342.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Sealed With a Scorpikis]]'
 item_link: \aITEM 623972385 -1461350767:Yha-lei Bone Hoops\/a
 categories:

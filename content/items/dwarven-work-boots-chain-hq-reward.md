@@ -12,7 +12,8 @@ stats:
   sta: '+13'
   mit: '111'
   dtype: Chain Armor
-effects: '**Ward of Resistance**'
+effect_name: Ward of Resistance
+effects: "- When Equipped:\n  - When damaged this spell has a 6% chance to cast Ward of Resistance on caster.  Lasts for 8.0 seconds.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[These Boots Were Made For...]]'
 item_link: \aITEM -1733017271 708990765:Dwarven Work Boots\/a
 aliases:

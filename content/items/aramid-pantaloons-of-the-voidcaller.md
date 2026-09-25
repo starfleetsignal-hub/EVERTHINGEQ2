@@ -17,7 +17,8 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Cloth Armor
-effects: '**Power Flux**'
+effect_name: Power Flux
+effects: "- When Equipped:\n  - Increases pet Spell and Combat Art damage by 115, and melee/spell criticals by 3%."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM 1884530798 1297202484:[Aramid Pantaloons of the Voidcaller]\/a
 categories:

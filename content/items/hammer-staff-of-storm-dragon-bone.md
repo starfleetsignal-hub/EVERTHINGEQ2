@@ -20,7 +20,9 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Restorative Counter**<br>**Engulfing Aegis**'
+effect_name: Restorative Counter, Engulfing Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Restorative Counter IV on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Restorative Counter IV on target.\n      - Heals target for 1,840.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Engulfing Aegis IV on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,400\
+  \ points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1303842522 309297759:Hammer Staff of Storm Dragon Bone\/a
 categories:
 - Attack Speed (Equipment)

@@ -18,7 +18,8 @@ stats:
   drating: '56.34'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Light Strike**<br>**Haste**'
+effect_name: Light Strike, Haste
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Light Strike on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 61 - 82 divine damage on target.\n    - Inflicts 152 - 206 divine damage on target every 12 seconds.\n      - If target is undead\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 64939887 -1642161807:Solarias, the Daywalker's Morningstar\/a
 categories:
 - Casting Speed (Equipment)

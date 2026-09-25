@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: '**The Swift**'
+effect_name: The Swift
+effects: "- When Equipped:\n  - Increases Casting Speed of caster by 7.8%.\n  - Increases Haste of caster by 21.8."
 item_link: \aITEM -1531785518 226697885:Fabled Zatrakh's Torque of Swiftness\/a
 categories:
 - AE Autoattack Chance (Equipment)

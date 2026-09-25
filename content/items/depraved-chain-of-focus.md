@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Singular Focus**'
+effect_name: Singular Focus
+effects: "- When Equipped:\n  - Increases Potency of caster by 12.0.\n  - Increases Crit Bonus of caster by 12.0.\n  - Increases range and radius of all spells by 7%."
 item_link: \aITEM -1027575204 2021914315:Depraved Chain of Focus\/a
 categories:
 - Assassin Equipment

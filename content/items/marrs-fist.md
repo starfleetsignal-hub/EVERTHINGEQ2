@@ -20,7 +20,8 @@ stats:
   drating: '70.93'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Glory of Marr**'
+effect_name: Glory of Marr
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Glory of Marr on caster.  Lasts for 3 minutes.\n    - Increases the damage of the next combat art used by caster by 20%.\n    - Dispelled when target casts a combat art\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 3.0 - 6.0 seconds.\n  - On a block this spell will cast Marr's Counterstrike on target's victim.\n    - Applies Knockdown on termination.  Lasts for 2.3 seconds.\n      - Throws target back\n      - Blurs vision of target.\n      - Stuns target\n      - Does not affect Epic targets\n    - Inflicts 317 - 528 crushing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 3.0 - 6.0 seconds."
 obtained_from: '[[A Final Froglok Word]]'
 item_link: \aITEM 1660082498 1808742188:Marr's Fist\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: '+105'
   aspeed: '6'
   dtype: Cloth Armor
-effects: '**Insidious Visions**<br>**Sorcerous Alacrity**'
+effect_name: Insidious Visions, Sorcerous Alacrity
+effects: "- When Equipped:\n  - Applies Insidious Visions to qualifying pets.\n    - Increases Casting Speed of target by 10.0%.\n    - Increases Reuse Speed of target by 10.0%.\n    - Increases Subjugation of target by 10.0.\n    - Increases Ability Mod of target by 90.0.\n    - If illusionist\n  - Enhances Enraging Demeanor III with up to 100 Combat Art damage and a hate proc.\n- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent."
 item_link: \aITEM 633806790 -699401699:Insidious Robe\/a
 categories:
 - Ability Modifier (Equipment)

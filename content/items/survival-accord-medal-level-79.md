@@ -13,7 +13,8 @@ stats:
   crit: '2.2'
   critbonus: '0.7'
   potency: '3.6'
-effects: '**Act of Survival**'
+effect_name: Act of Survival
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Act of Survival on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 239 magic damage on target.\n    - Heals caster for 146.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 757982485 -1282625698:Survival Accord Medal\/a
 categories:
 - Act of Survival (Equipment)

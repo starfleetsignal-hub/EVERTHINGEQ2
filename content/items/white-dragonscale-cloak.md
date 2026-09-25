@@ -11,7 +11,7 @@ stats:
   critbonus: '1.1'
   potency: '6.8'
   abmod: '203'
-effects: Draconic Storm
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Draconic Storm on caster. Lasts for 15.0 seconds. Triggers about 2.3 times per minute.\n    - Increases the base damage of all hostile spells by 5%\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The White Dragonscale Cloak]]'
 item_link: -343801993 484417610:White Dragonscale Cloak
 image: images/White_Dragonscale_Cloak.png

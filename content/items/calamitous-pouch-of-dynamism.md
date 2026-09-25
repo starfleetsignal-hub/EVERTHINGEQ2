@@ -18,7 +18,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Flying Fist**'
+effect_name: Flying Fist
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Flying Fist V on target of attack.  Lasts for 2.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 831 - 918\n    - Inflicts 353 - 391 heat damage on target.\n    - Stifles target\n      - If Target is not Epic\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 50) from [[Ancient Knowledge: Calamitous Pouch of Dynamism]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -1139834240 1825635348:Calamitous Pouch of Dynamism\/a
 categories:

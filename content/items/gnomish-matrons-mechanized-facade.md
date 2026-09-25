@@ -10,7 +10,7 @@ stats:
   charges: 5 / 5
   casting: 10.0 seconds
   recast: 30 minutes
-effects: Gnomish Matron's Mechanized Facade
+effects: "- Applies Gnomish Matron's Mechanized Facade when activated. lasts for 30 minutes\n  - When you absolutely, positively have to be a clockwork gnome. In 10 seconds or less."
 obtained_from: Made with Tinkering (skill 380) from [[Master's Blueprints 0.006]].
 item_link: \aITEM 1888986096 -1469250604:[Gnomish Matron's Mechanicized Facade]\/a
 categories:

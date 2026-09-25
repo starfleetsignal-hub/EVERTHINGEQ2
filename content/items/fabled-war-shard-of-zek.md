@@ -17,7 +17,8 @@ stats:
   potency: 5,284.9
   resolve: '110'
   dps: '58'
-effects: '**Enlightened Ascension**'
+effect_name: Enlightened Ascension
+effects: "- When Equipped:\n  - Reduces the recast time of all Ascension abilities by 20%.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -285335911 -1676109325:Fabled War Shard of Zek\/a
 categories:
 - Assassin Equipment

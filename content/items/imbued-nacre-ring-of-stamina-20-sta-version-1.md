@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   vselemental: '+150'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 13.5.\n    - Increases Combat Health Regen of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -954000204 1836798786:Imbued Nacre Ring of Stamina\/a
 categories:
 - Arcane Resistance (Equipment)

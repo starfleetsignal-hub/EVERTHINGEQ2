@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   vselemental: '+395'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: \aITEM 2094902129 -1462539807 0 0 0:Crusading Bangle\/a
 categories:

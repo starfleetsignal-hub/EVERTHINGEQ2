@@ -20,7 +20,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Ten Thousand Pinholes**'
+effect_name: Ten Thousand Pinholes
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ten Thousand Pinholes on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 124 - 186 piercing damage on target.\n    - Inflicts 124 - 186 piercing damage on target.\n    - Inflicts 124 - 186 piercing damage on target.\n    - Inflicts 124 - 186 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 380527687 -1889086410:628 Rapier\/a
 categories:
 - Assassin Equipment

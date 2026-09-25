@@ -16,7 +16,8 @@ stats:
   critbonus: 1,351.9
   potency: 46,364
   resolve: '555'
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 587197642 2115521186:Untarnished Venerable Relic Cardinal Cloak\/a
 categories:
 - Assassin Equipment

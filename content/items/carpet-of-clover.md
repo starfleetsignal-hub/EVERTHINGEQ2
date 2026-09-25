@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 1.0 second
   recast: 0.0 seconds
-effects: Summon Carpet of Clover
+effects: "- Applies Summon Carpet of Clover when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 130%"
 obtained_from: '[[Valla Brewhammer''s Special Brew]]'
 item_link: \aITEM 310138058 -171959710:[Carpet of Clover]\/a
 events:

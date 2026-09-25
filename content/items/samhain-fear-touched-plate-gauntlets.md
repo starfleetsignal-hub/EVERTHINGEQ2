@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   dps: '23'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '* *From [[Crate of Ethereal Goodies]]'
 item_link: \aITEM -1361334643 5387317 0 0 0:Samhain Fear-Touched Plate Gauntlets\/a
 categories:

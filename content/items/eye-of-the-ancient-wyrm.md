@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Physical Vulnerability**'
+effect_name: Physical Vulnerability
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Physical Vulnerability II on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases physical damage done to target encounter by 1.25%.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM -547317730 580013076:Eye of the Ancient Wyrm\/a
 categories:
 - Ability Modifier (Equipment)

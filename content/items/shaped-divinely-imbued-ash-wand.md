@@ -15,7 +15,8 @@ stats:
   drating: '14.29'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Holy Strike**'
+effect_name: Holy Strike
+effects: "- Applies Holy Strike when Activated.\n  - Inflicts 67 - 112 divine damage on target.\n  - The casting time of Holy Strike is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 583282444 1254255869:shaped divinely imbued ash wand\/a
 categories:
 - Berserker Equipment

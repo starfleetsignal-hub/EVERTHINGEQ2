@@ -18,7 +18,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Raring to Go]]'
 item_link: \aITEM -1658108308 -1142795679:Null Magnus Boots\/a
 categories:

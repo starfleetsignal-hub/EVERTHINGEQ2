@@ -22,7 +22,9 @@ stats:
   drating: '134.98'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Velium Flames**<br>**Cogent**'
+effect_name: Velium Flames, Cogent
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Velium Flames IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,809 - 5,315 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 1,787.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Velium Flames IV on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,809 - 5,315 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 1,787.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect\
+  \ will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 625264638 -809285407:Vallon's Katana of Barbaric Rites\/a
 categories:
 - Berserker Equipment

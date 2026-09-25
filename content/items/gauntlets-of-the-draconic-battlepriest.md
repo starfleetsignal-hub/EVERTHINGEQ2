@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Plate Armor
-effects: '**Touch of the Divine**<br>**Haste**'
+effect_name: Touch of the Divine, Haste
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Touch of the Divine on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases healing received by 5.00%.\n    - Increases Max Health of target by 5.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Gauntlets Of The Draconic Battlepriest]] *Made from [[Dragon Hide]] *Made from [[Drake Fang]] *Made from [[Great Dragon Scales]] *Made from [[Skyshrine Golem Core]]'
 item_link: \aITEM 1523683988 2032119108:Gauntlets of the Draconic Battlepriest\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 89.\n    - Increases power of caster by 151.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1040771394 -1968144966:Bow of Rapid Trepidation\/a
 categories:
 - Ability Modifier (Equipment)

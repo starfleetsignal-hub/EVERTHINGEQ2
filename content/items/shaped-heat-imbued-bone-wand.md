@@ -15,7 +15,8 @@ stats:
   drating: '8.7'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Fire Ball**'
+effect_name: Fire Ball
+effects: "- Applies Fire Ball when Activated.\n  - Inflicts 53 - 88 heat damage on target.\n  - The casting time of Fire Ball is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -100466924 -1616462899:Shaped Heat Imbued Bone Wand\/a
 categories:
 - Berserker Equipment

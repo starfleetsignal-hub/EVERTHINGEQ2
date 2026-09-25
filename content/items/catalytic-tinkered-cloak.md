@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 level: '1'
 slot: Cloak
 flags: ornate heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Catalytic Attire Bundle]] *Marketplace (300 Daybreak Cash)'
 item_link: \aITEM 2049833951 1619568012:Catalytic Tinkered Cloak\/a
 categories:

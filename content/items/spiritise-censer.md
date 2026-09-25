@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   multi: '3.2'
   dtype: Symbols
-effects: '**Soul Channel**'
+effect_name: Soul Channel
+effects: "- Applies Soul Channel when Activated.\n  - Decreases power of target by 191.\n  - Increases power of caster by 190.\n  - The casting time of Soul Channel is 1.0 second and the reuse time of the spell is 3 minutes"
 obtained_from: '[[Infiltrating the Sanctum: Shadow Ordinance]]'
 item_link: \aITEM -323604427 -1223572989:Spiritise Censer\/a
 categories:

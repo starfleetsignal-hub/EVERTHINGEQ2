@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   aspeed: '11.2'
   flurry: '5.1'
-effects: '**Sacred Territory**'
+effect_name: Sacred Territory
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Sacred Territory on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 3,500 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 112573492 471293622:Terrestrial Gorget\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   mitinc: '3.7'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Tailor]] (level 80) from [[Ancient Knowledge: Reinforced Gi of Energy]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 1391051726 -920365845:Reinforced Gi of Energy\/a
 categories:

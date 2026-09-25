@@ -17,7 +17,8 @@ stats:
   potency: '8.6'
   dps: '21.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[High Shinu-Zonn Cerulea|High Shinu-Zonn Cerulea and High Shinu-Zonn Magentia]] in [[Citadel of V'uul]]
 item_link: \aITEM 1766288458 207818630:Knight's Gauntlets of the Citadel\/a
 categories:

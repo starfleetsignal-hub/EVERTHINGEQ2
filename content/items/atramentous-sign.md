@@ -20,7 +20,8 @@ stats:
   aspeed: '55.8'
   mitinc: '29.1'
   dtype: Tower Shield
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 4.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -609705483 -672328297:Atramentous Sign\/a
 categories:
 - Attack Speed (Equipment)

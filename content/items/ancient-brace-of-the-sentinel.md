@@ -16,7 +16,8 @@ stats:
   abmod: '+568'
   dps: '33.2'
   vselemental: +2,079
-effects: '**Temporal Exception**'
+effect_name: Temporal Exception
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Temporal Exception III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 9.0.\n    - Increases DPS of caster by 12.0.\n    - Increases Multi Attack of caster by 35.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2087577480 2115363448:Ancient Brace of the Sentinel\/a
 categories:
 - Ability Modifier (Equipment)

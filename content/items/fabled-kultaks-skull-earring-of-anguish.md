@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish II on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases all damage done to target encounter by 0.4%.\n    - Inflicts 19,208 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2094551011 -2059375496:Fabled Kultak's Skull Earring of Anguish\/a
 categories:
 - Anguish (Equipment)

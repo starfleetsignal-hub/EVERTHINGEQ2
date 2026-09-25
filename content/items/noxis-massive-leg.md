@@ -22,7 +22,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Virulent Wrath**'
+effect_name: Virulent Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Virulent Wrath V on target of attack.  Triggers about 3.0 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 9,650 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 664857472 508146944:Noxis' Massive Leg\/a
 categories:
 - Beastlord Equipment

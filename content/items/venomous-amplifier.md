@@ -16,7 +16,8 @@ stats:
   dps: '28.1'
   vselemental: +30,687
   mitinc: '7.4'
-effects: '**Amplifying Stamina**'
+effect_name: Amplifying Stamina
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 25%-96.3% and Stamina by 270-983. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 1803749697 1995024602:Venomous Amplifier\/a
 categories:
 - Amplifying Stamina (Equipment)

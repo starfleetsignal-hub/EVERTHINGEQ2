@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   aspeed: '10.2'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -1070810427 -2093400637:Invoker's Pendant\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.5'
   dtype: Plate Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 58 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 661157674 1699464018:forged cobalt vanguard cuirass\/a
 categories:
 - Attack Speed (Equipment)

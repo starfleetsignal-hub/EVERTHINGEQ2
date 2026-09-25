@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 0.91 seconds
   recast: 0.0 seconds
-effects: Disk of Chaotic Energy
+effects: "- Applies Disk of Chaotic Energy when Activated.\n  - Increases Max Health of caster by 200.0\n  - Summons a mount to ride that increases your speed by 60%\n  - Increases Max Power of caster by 200.0"
 obtained_from: By collecting 40 - [[Smuggler's Den Special Reserve Rum]] in the [[Battlegrounds]] and buying from a NPC
 item_link: \aITEM 728725432 355190192:[Disk of Chaotic Energy]\/a
 categories:

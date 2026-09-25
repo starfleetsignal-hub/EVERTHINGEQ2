@@ -12,7 +12,7 @@ stats:
   health: '+10'
   power: '+10'
   dtype: Kite Shield
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 44 heat damage on target"
 obtained_from: Crafted by [[Outfitter]] (level 10) from [[Advanced Outfitter Volume 10]]
 item_link: \aITEM -1711891706 -611478847:Pristine Imbued Blackened Iron Kite Shield\/a
 categories:

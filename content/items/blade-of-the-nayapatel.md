@@ -24,7 +24,8 @@ stats:
   drating: '251.9'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Awakened Enlightenment**'
+effect_name: Awakened Enlightenment
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Awakened Enlightenment on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 12,495 crushing damage on target.\n    - Cannot be modified except by direct means\n  - Adds a damage shield component to Bulwark of Rime.\n  - Mudslide will inflict damage a second time.\n  - Increases physical damage done to targets effected by Withering.\n  - Reduces the trigger limit on Siphoned Fervor to .5 seconds."
 obtained_from: '[[The Map is a Key. The Key is a Map?]]'
 item_link: \aITEM -2065957307 1789207175:Blade of the Naya'Patel\/a
 categories:

@@ -7,7 +7,8 @@ tier: Fabled
 level: '90'
 classes: ', [[Beastlord]]'
 flags: lore-equip attunable heirloom no-value
-effects: '**Unbreakable**'
+effect_name: Unbreakable
+effects: "- Applies Unbreakable when Activated.  Lasts for 1.2 seconds.\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Makes caster immune to Stun effects\n  - Must have Fallen Foe Token of Perseverance equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Unbreakable is 3 minutes"
 item_link: \aITEM -123076433 1763612159:Fallen Foe Token of Perseverance\/a
 categories:
 - Beastlord Equipment

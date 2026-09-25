@@ -21,7 +21,8 @@ stats:
   drating: '133.76'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Ethereal Blessing**'
+effect_name: Ethereal Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Ethereal Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 150\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 86) from [[Advanced Weaponsmith Volume 86 (Heirloom)]] *Crafted by [[Weaponsmith]] (level 86) from [[Advanced Weaponsmith Volume 86 (Normal)]]'
 item_link: \aITEM 1140621795 1947345970:Blessed Brellium Lance\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   dps: '15.9'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Sold by [[Bad''Ushra]] (Merchant) in [[The Stonebrunt Highlands]]'
 item_link: \aITEM -848928132 1896832609:Shadowfire Sleeves\/a
 categories:

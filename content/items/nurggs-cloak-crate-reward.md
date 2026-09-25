@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Nurgg''s Spirit**<br>**Featherfall**'
+effect_name: Nurgg's Spirit, Featherfall
+effects: "- Applies Nurgg's Spirit when Activated.  Lasts for 12.0 seconds.\n  - The caster's combat arts require 5% less power.\n  - Cannot be modified except by direct means\n  - The casting time of Nurgg's Spirit is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Nurgg's Cloak (crate)|Nurgg's Cloak]]
 item_link: \aITEM -681238713 72313362:Nurgg's Cloak\/a
 categories:

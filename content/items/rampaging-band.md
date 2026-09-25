@@ -17,7 +17,8 @@ stats:
   multi: '13'
   vselemental: +1,457
   mitinc: '8.3'
-effects: '**Spreading Shadows**'
+effect_name: Spreading Shadows
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Spreading Shadows on target.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases AE Autoattack of Caster by 5.0%.\n    - Increases Multi Attack of caster by 20.0.\n    - Increases Crit Chance of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -955883431 2080930018:Rampaging Band\/a
 categories:
 - Arcane Resistance (Equipment)

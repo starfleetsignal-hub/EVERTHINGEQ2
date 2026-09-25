@@ -15,7 +15,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   abmod: '+270'
-effects: '**Unrelenting Gaze**'
+effect_name: Unrelenting Gaze
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 1134302141 -72925498:Cord of Golden Twine\/a
 categories:
 - Ability Modifier (Equipment)

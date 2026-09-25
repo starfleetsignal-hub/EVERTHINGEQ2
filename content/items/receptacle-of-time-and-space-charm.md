@@ -17,7 +17,8 @@ stats:
   potency: 1,216.4
   resolve: '17'
   flurry: '10.7'
-effects: '**Awakened Enlightenment**'
+effect_name: Awakened Enlightenment
+effects: "- When Equipped:\n  - Adds a damage shield component to Bulwark of Rime.\n  - Mudslide will inflict damage a second time.\n  - Increases physical damage done to targets effected by Withering.\n  - Reduces the trigger limit on Siphoned Fervor to .5 seconds."
 obtained_from: '[[The Warriors Call: Volume II]]'
 item_link: \aITEM -1518318438 266298785:Receptacle of Time and Space\/a
 categories:

@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '209'
   dtype: Plate Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 32 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 383254700 1303859549:forged feysteel vanguard cuirass\/a
 aliases:
 - Forged feysteel vanguard cuirass (Level 30) (9 str)

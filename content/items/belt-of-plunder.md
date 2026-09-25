@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+83'
-effects: '**Lesser Runic Barrier**'
+effect_name: Lesser Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 150 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: '[[Scorpikis Your Tail Goodbye]]'
 item_link: \aITEM -496030876 -568172069:Belt of Plunder\/a
 categories:

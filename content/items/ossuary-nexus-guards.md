@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   multi: '35'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1486915233 1787940175:Ossuary Nexus Guards\/a
 categories:
 - Census Credits

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+356'
-effects: '**Runic Recovery**<br>**Impact Conversion**'
+effect_name: Runic Recovery, Impact Conversion
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent.\n- When Equipped:\n  - When damaged this spell has a 4% chance to cast Impact Conversion on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 32 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Honoring the Master Chef]]'
 item_link: \aITEM -989025409 929204914:Bracelet of the Master Chef\/a
 categories:

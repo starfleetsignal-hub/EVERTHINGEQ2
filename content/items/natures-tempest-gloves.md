@@ -15,7 +15,8 @@ stats:
   crit: '3'
   abmod: '+50'
   dtype: Leather Armor
-effects: '**Life Flow**<br>**Haste**'
+effect_name: Life Flow, Haste
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Life Flow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 951506730 1102168761:Nature's Tempest Gloves\/a
 categories:

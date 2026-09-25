@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: '**The Inconspicuous**'
+effect_name: The Inconspicuous
+effects: "- When Equipped:\n  - Prevents AOE (except when direct)\n  - Only active while the user is in Steatlh"
 obtained_from: From [[Glowing Ethertouched Necklace]]
 item_link: \aITEM 1131499492 1867936740:Chain of the Crusade\/a
 categories:

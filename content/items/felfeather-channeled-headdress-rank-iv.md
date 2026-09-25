@@ -19,7 +19,8 @@ stats:
   potency: 38,187.5
   resolve: '490'
   dtype: Leather Armor
-effects: '**Felfeather Mental Aptitude**'
+effect_name: Felfeather Mental Aptitude
+effects: "- When Equipped:\n  - Protects the wearer from specific types of chromatic magic.\n  - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Of Duty and Fate: Prepared for the Worst (Quest)|Of Duty and Fate: Prepared for the Worst]]'
 item_link: \aITEM -1031078525 -1242998940:Felfeather Channeled Headdress [Rank IV]\/a
 categories:

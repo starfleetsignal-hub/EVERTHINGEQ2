@@ -13,7 +13,8 @@ stats:
   drating: '45.38'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Fire Ball**'
+effect_name: Fire Ball
+effects: "- Applies Fire Ball when Activated.\n  - Inflicts 210 - 350 heat damage on target.\n  - The casting time of Fire Ball is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1636554783 -2021633107:Shaped Heat Imbued Sandalwood Wand\/a
 categories:
 - Berserker Equipment

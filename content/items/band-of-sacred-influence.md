@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +26,832
   mitinc: '6'
-effects: '**Spectral Domination**'
+effect_name: Spectral Domination
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Spectral Domination III on target of attack.  Lasts for 18.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 686,400 mental damage on target.\n    - Increases Potency of caster by 11.0.\n    - Increases Crit Bonus of caster by 11.0.\n    - Increases Mitigation of caster vs arcane damage by 2,885.\n    - Increases Ability Mod of caster by 2,000.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 821798136 833071415:Band of Sacred Influence\/a
 categories:
 - AE Autoattack Chance (Equipment)

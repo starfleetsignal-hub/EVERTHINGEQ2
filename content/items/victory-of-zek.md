@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   dps: '16.6'
-effects: '**Intensity**'
+effect_name: Intensity
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Intensity on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases ward and heal amount by 5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1749515332 132403885:Victory of Zek\/a
 categories:
 - Assassin Equipment

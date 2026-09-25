@@ -16,7 +16,8 @@ stats:
   critbonus: '0.2'
   potency: '1.1'
   dtype: Chain Armor
-effects: '**Mana Sieve**'
+effect_name: Mana Sieve
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Mana Sieve on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 84.\n    - Increases power of caster by 83.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1807770608 -1013061231:Blighted Harbingers Hauberk\/a
 categories:
 - Assassin Equipment

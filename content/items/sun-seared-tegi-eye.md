@@ -17,7 +17,8 @@ stats:
   potency: 6,225.8
   resolve: '150'
   dps: '57.4'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 33.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 202850326 -1303746375:Sun-Seared Tegi Eye\/a
 categories:
 - AE Autoattack Chance (Equipment)

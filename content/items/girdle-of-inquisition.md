@@ -11,7 +11,8 @@ stats:
   sta: '+50'
   wis: '+50'
   crit: '3.2'
-effects: '**Vitae of the Elder**'
+effect_name: Vitae of the Elder
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Vitae of the Elder on the group.  Triggers about 2.0 times per minute.\n    - Increases power of group members (AE) by 432.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 2031928199 -656464724:Girdle of Inquisition\/a
 categories:

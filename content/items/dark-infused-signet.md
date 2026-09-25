@@ -16,7 +16,8 @@ stats:
   dps: '16.6'
   multi: '10.5'
   vsarcane: +1,302
-effects: '**Critical Vigor**'
+effect_name: Critical Vigor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Critical Vigor on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 4.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 344232909 -1530034334:Dark Infused Signet\/a
 categories:
 - Arcane Resistance (Equipment)

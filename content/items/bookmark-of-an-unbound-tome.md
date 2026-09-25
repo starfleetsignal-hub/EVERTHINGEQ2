@@ -18,7 +18,8 @@ stats:
   resolve: '235'
   aspeed: '16.7'
   flurry: '15.4'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 33.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1887890312 1942395051:Bookmark of an Unbound Tome\/a
 categories:
 - Assassin Equipment

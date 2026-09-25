@@ -20,7 +20,8 @@ stats:
   cbovercap: '+117.1'
   mitinc: '43'
   dtype: Tower Shield
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,806 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1060579304 576392493:Shield of Broken Dreams\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -1477707039 -1842751225 0 0 0:Umbral Ash Bracers\/a
 categories:
 - Casting Speed (Equipment)

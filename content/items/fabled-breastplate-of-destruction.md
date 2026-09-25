@@ -20,7 +20,8 @@ stats:
   multi: '537.9'
   cbovercap: '+198.2'
   dtype: Plate Armor
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1559117629 52921414:Fabled Breastplate of Destruction\/a
 categories:
 - Attack Speed (Equipment)

@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: no-transmute  no-salvage  no-trade no-value
 description: This cloak was recovered from the angsty thief known as Ratscallion Attamilgad!
-effects: '**Meandering Aura**'
+effect_name: Meandering Aura
+effects: "- Applies Meandering Aura when Activated.\n  - Coats the wearer in a Meandering Aura.\n  - The casting time of Meandering Aura is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Watch EQ2 social media pages for notification of when Ratscallion is up!
 item_link: \aITEM -614222412 840500830:Cloak of the Meanderer\/a
 categories:

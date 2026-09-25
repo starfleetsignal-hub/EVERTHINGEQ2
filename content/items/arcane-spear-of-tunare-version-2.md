@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Nature''s Retort**'
+effect_name: Nature's Retort
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Nature's Retort on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 148 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -711716737 1722288124:Arcane Spear of Tunare\/a
 categories:
 - Ability Modifier (Equipment)

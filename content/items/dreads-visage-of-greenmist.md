@@ -24,7 +24,8 @@ stats:
   drating: '225.45'
   dtype: One-Handed Crushing
   wtype: Dagger
-effects: '**Greenmist**'
+effect_name: Greenmist
+effects: "- When Equipped:\n  - The caster must have completed the quest: The Triumph of Fear to benefit from this effect.\n  - On any combat or spell hit this spell may cast Greenmist on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,797 disease damage on target.\n    - Decreases Combat Mitigation of target by 6.7.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Kunark Ascending: A Chosen Weapon]]'
 item_link: \aITEM 2145027470 -521195258:Dread's Visage of Greenmist\/a
 image: images/Dread's_Visage_of_Greenmist.jpg

@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Mighty Shockwave**'
+effect_name: Mighty Shockwave
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mighty Shockwave on target of attack.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,157 - 1,279 crushing damage on targets in Area of Effect instantly and every second.\n    - Increases Hate Gain of caster by 10.0.\n    - 1% of all damage received by the caster is prevented.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Cleaver Of The Draconic Defender]] *Made from [[Dragon Hide]] *Made from [[Great Dragon Scales]] *Made from [[Skyshrine Golem Core]]'
 item_link: \aITEM -2141688904 -278011218:Cleaver of the Draconic Defender\/a
 categories:

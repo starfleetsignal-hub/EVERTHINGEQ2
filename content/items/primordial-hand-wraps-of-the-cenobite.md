@@ -17,7 +17,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Ancient Armor of War]]
 item_link: \aITEM 1820662625 916488403:Primordial Hand Wraps of the Cenobite\/a
 categories:

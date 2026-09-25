@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +15,750
-effects: '**&quot;If you want something done right...&quot;**'
+effect_name: '&quot;If you want something done right...&quot;'
+effects: "- When Equipped:\n  - If the wearer's mercenary takes fatal damage, the caster will gain 15% to all attributes and grow by 20%. Lasts for 18 seconds."
 item_link: \aITEM 2105149747 -400301978:Loop of the Fallen Sellsword\/a
 categories:
 - '"If you want something done right..." (Equipment)'

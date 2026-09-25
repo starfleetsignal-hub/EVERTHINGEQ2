@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   abmod: '+369'
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -760898749 1126971620:Fallen Torque of Awakening\/a
 categories:
 - Ability Modifier (Equipment)

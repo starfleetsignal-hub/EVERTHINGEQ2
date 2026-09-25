@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   multi: '10.5'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 580.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 737835279 1889695056:Hoop of the Zonn Healers\/a
 categories:
 - Assassin Equipment

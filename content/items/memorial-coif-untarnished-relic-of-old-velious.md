@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   flurry: '78.1'
   dtype: Chain Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 50.0.\n  - Increases Crit Bonus Overcap of caster by 434.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -138982488 -1818752507:Memorial Coif, Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

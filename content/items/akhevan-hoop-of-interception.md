@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Retaliation**'
+effect_name: Retaliation
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Retaliation IV on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 48,488 - 53,592 slashing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1194160006 -2086298152:Akhevan Hoop of Interception\/a
 categories:
 - Arcane Resistance (Equipment)

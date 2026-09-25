@@ -19,7 +19,8 @@ stats:
   resolve: '525'
   mitinc: '78.1'
   dtype: Cloth Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 434.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1877803294 1492807423:Memorial Shawl, Relic of Old Velious\/a
 categories:
 - Census Credits

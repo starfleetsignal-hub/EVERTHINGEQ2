@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   abmod: '+75'
   vselemental: '+440'
-effects: '**Blood Frenzy**<br>**Barrier**'
+effect_name: Blood Frenzy, Barrier
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Blood Frenzy on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 15.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1898739120 -1831667777:Shackles of the Protector\/a
 categories:
 - Ability Modifier (Equipment)

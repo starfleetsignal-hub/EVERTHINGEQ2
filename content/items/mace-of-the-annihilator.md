@@ -20,7 +20,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 26950763 1381313104:Mace of the Annihilator\/a
 categories:
 - Beastlord Equipment

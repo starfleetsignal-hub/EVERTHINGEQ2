@@ -16,7 +16,8 @@ stats:
   critbonus: 1,365.5
   potency: 49,030.8
   resolve: '630'
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,458.3.\n  - Increases Fervor of caster by 58.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 347258371 -568183392:Exo Curio, Star Forged Relic\/a
 categories:
 - Assassin Equipment

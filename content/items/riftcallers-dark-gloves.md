@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM 395803046 1507252482 0 0 0:Riftcaller's Dark Gloves\/a
 categories:
 - Casting Speed (Equipment)

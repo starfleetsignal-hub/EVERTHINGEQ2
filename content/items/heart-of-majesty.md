@@ -18,7 +18,8 @@ stats:
   resolve: '19'
   dps: '46.6'
   mitinc: '15.5'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.9.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1210409092 -1360366906:Heart of Majesty\/a
 categories:
 - AE Autoattack Chance (Equipment)

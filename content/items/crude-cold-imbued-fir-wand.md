@@ -15,7 +15,8 @@ stats:
   drating: '16.25'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Frost Blast**'
+effect_name: Frost Blast
+effects: "- Applies Frost Blast when Activated.\n  - Inflicts 97 - 162 cold damage on target.\n  - The casting time of Frost Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 337194402 -606064175:Crude Cold Imbued Fir Wand\/a
 categories:
 - Berserker Equipment

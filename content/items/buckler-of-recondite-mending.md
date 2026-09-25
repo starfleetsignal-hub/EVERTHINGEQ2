@@ -14,7 +14,8 @@ stats:
   critbonus: '6.8'
   potency: '11.2'
   dtype: Buckler
-effects: '**Monstrous Warding**'
+effect_name: Monstrous Warding
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Monstrous Warding on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 5,000 points of all damage\n    - Increases Max Health of target by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 279746624 -1876198302:Buckler of Recondite Mending\/a
 categories:
 - Berserker Equipment

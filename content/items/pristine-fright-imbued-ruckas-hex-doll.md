@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+7'
   sta: '+7'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 12.7.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 26) from [[Advanced Tailor Volume 26 (Normal)]] *Crafted by [[Tailor]] (level 26) from [[Advanced Tailor Volume 26 (No-Trade)]]'
 item_link: \aITEM 945392512 -1128188428 0 0 0:pristine fright imbued ruckas hex doll\/a
 aliases:

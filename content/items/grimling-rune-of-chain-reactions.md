@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Chain Reaction Chill**'
+effect_name: Chain Reaction Chill
+effects: "- Applies Chain Reaction Chill II when Activated.\n  - Triggers a burst of intense cold from yourself and any allies within 10m, dealing 70,000 cold damage per ally.\n  - Cannot be modified except by direct means\n  - The casting time of Chain Reaction Chill II is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 987610540 250494932:Grimling Rune of Chain Reactions\/a
 categories:
 - Assassin Equipment

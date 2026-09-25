@@ -16,7 +16,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Awareness**'
+effect_name: Awareness
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 3.2 for every enemy who is engaged with the wearer, up to 12.8 maximum"
 item_link: \aITEM 863644688 -1743164514:Gnawbone-Toothed Choker\/a
 categories:
 - Assassin Equipment

@@ -18,7 +18,8 @@ stats:
   abmod: '+306'
   dps: '24.2'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Forceful Thudomatonian Cuffs]]
 item_link: \aITEM -1373008169 -1586063571:Forceful Wraith Gauntlets\/a
 categories:

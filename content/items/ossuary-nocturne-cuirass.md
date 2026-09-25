@@ -17,7 +17,8 @@ stats:
   potency: 49,806.8
   resolve: '515'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1881090034 -1869773022:Ossuary Nocturne Cuirass\/a
 categories:
 - Berserker Equipment

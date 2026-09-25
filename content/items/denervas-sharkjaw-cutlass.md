@@ -22,7 +22,8 @@ stats:
   drating: '184.4'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Crack of Doom**<br>**Bloodthirst**'
+effect_name: Crack of Doom, Bloodthirst
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Crack of Doom II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.5.\n    - Increases Ability Mod of caster by 700.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Crack of Doom II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 5.5.\n    - Increases Ability Mod of caster by 700.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Crit Bonus of caster by 5.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1885732958 898837094 0 0 0:Denerva's Sharkjaw Cutlass\/a
 categories:
 - Assassin Equipment

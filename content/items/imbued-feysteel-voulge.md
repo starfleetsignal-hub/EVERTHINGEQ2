@@ -16,7 +16,8 @@ stats:
   drating: '32.75'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,268\n      - Must be flanking or behind\n    - Increases Threat to target by 1,933\n      - Must be in front of\n    - Inflicts 92 - 171 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 36) from [[Advanced Weaponsmith Volume 36 (Normal)]] *Crafted by [[Weaponsmith]] (level 36) from [[Advanced Weaponsmith Volume 36 (No-Trade)]]'
 item_link: \aITEM 370224342 761859386:Imbued Feysteel Voulge\/a
 categories:

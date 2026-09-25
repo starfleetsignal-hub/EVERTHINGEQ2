@@ -16,7 +16,8 @@ stats:
   multi: '35.6'
   flurry: '0.6'
   vselemental: +8,415
-effects: '**Feast**'
+effect_name: Feast
+effects: "- When Equipped:\n  - Increases DPS of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1805086795 1496611493 0 0 0:Feast\/a
 categories:
 - Ability Modifier (Equipment)

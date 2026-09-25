@@ -14,7 +14,8 @@ stats:
   potency: '21.1'
   aspeed: '33.4'
   vselemental: +26,832
-effects: '**Awareness**'
+effect_name: Awareness
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 3.8 for every enemy who is engaged with the wearer, up to 15.2 maximum"
 item_link: \aITEM 109478490 1977914706:Electromagnetic Shielding\/a
 categories:
 - Arcane Resistance (Equipment)

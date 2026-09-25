@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '19.8'
   vselemental: +29,521
-effects: '**Skirting the Edge**'
+effect_name: Skirting the Edge
+effects: "- When Equipped:\n  - Increases the priest's Potency by 84%-167%. The value increases based on the group member with the lowest current health.\n    - If priest"
 item_link: \aITEM -23764717 -488949328:The Shadow Bolt\/a
 categories:
 - Arcane Resistance (Equipment)

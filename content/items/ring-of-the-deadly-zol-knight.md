@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vsnoxious: '+400'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: 'Collection reward: [[Idols of the Tribes of Guk]]'
 item_link: \aITEM 1958982336 1880907393:Ring of the Deadly Zol Knight\/a
 categories:

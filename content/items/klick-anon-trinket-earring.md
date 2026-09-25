@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '18.7'
   vselemental: +28,885
-effects: '**Shroud of the Sea**'
+effect_name: Shroud of the Sea
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Shroud of the Sea on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 292,793.\n    - Increases STA of target by 425.0.\n    - Increases Potency of group members (AE) by 14.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Escape from Klick''Anon (Collection)]]'
 item_link: '\aITEM -368908716 1067035333: Klick`Anon Trinket Earring\/a'
 categories:

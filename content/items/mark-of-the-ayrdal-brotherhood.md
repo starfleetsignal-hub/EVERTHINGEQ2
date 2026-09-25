@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   agi: '+2'
-effects: '**Wrath of the Brotherhood**'
+effect_name: Wrath of the Brotherhood
+effects: "- Applies Wrath of the Brotherhood when Activated.  Lasts for 3 minutes.\n  - When any damage is received this spell has a 20% chance to cast Wrath of the Brotherhood on target's attacker.\n    - Inflicts 2 magic damage on target.\n    - Cannot be modified except by direct means\n  - The casting time of Wrath of the Brotherhood is 2.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1920951221 -889460487:Mark of the Ayr'Dal Brotherhood\/a
 categories:
 - Assassin Equipment

@@ -20,7 +20,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Leather Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -521508379 1500103762:Monumental Greaves, Relic of Old Velious\/a
 categories:
 - Brawler Equipment

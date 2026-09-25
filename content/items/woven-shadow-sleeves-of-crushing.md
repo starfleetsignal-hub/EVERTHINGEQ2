@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   mitinc: '5.1'
   dtype: Leather Armor
-effects: '**Serpentine Technique**'
+effect_name: Serpentine Technique
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 8.0%."
 item_link: \aITEM 125445654 -30817364 0 0 0:Woven Shadow Sleeves of Crushing\/a
 categories:
 - Bruiser Equipment

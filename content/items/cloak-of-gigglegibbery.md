@@ -11,7 +11,8 @@ stats:
   agi: '+100'
   crit: '110'
   multi: '110'
-effects: '**Feet of Furious Fastness**<br>**Haste**'
+effect_name: Feet of Furious Fastness, Haste
+effects: "- Applies Feet of Furious Fastness when Equipped.\n  - Increases speed of caster by 70.0%.\n- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '[[Ratical]]'
 item_link: \aITEM -1243872862 -1466843227:Cloak of Gigglegibbery\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Plate Armor
-effects: '**Divine Relief**'
+effect_name: Divine Relief
+effects: "- When Equipped:\n  - When any physical damage is received this spell has a 8% chance to cast Divine Relief on caster.\n    - Heals caster for 187.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1253733979 1978048788:Blessed Pauldrons of Wisdom\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   resolve: '7'
   abmod: '+843'
   dps: '29'
-effects: '**Reprogram Attempt**'
+effect_name: Reprogram Attempt
+effects: "- Applies Reprogram Attempt when Activated.  Lasts for 40.0 seconds.\n  - On a hostile ability cast this spell will cast Tinkerer's Frustration on target of spell.\n    - Inflicts 3,640,000 heat damage on target.\n    - Cannot be modified except by direct means\n    - Grants a total of 15 triggers of the spell.\n  - Converts damage spells and combat arts to heat damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Reprogram Attempt is 1 minute 30 seconds\n- When Equipped:\n  - Increases Mitigation of caster vs elemental damage by 10,800."
 obtained_from: '[[G.W.A. Gnemlin With Attitude]]'
 item_link: \aITEM -1169471802 -109477677:Bhoughbh's Tinkerering Manual for Dummies\/a
 categories:

@@ -14,7 +14,7 @@ stats:
   power: '+20'
   mit: '114'
   dtype: Plate Armor
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 61 heat damage on target"
 obtained_from: Crafted by [[Armorer]] (level 24) from [[Advanced Armorer Volume 24]]
 categories:
 - Berserker Equipment

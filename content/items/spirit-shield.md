@@ -14,7 +14,8 @@ stats:
   critbonus: '30'
   potency: '30'
   aspeed: '31.2'
-effects: '**Spiritshield**'
+effect_name: Spiritshield
+effects: "- Applies Spiritshield when Activated.  Lasts for 16.0 seconds.\n  - Reduces all damage done to group members (AE) by 15%.\n  - Shares a reuse timer with Soulbarrier\n  - Cannot be modified except by direct means\n  - The casting time of Spiritshield is 0.5 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM -1703577599 -2078717616:Spirit Shield\/a
 categories:

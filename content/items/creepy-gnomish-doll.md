@@ -17,7 +17,8 @@ stats:
   abmod: +1,670
   aspeed: '37.7'
   dps: '14.4'
-effects: '**Fear Barrage**'
+effect_name: Fear Barrage
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 80.0.\n- Applies Fear Barrage when Activated.\n  - Fires a powerful beam of fear straight ahead of the caster, dealing 2,990,840 damage to any targets in its path. The damage ticks 3 additional times.\n  - Targets hit by the beam are also afflicted with a crippling fear that saps STR, WIS, INT, and AGI and take 3% more damage for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of Fear Barrage is 1 minute"
 item_link: \aITEM 1585078101 339203680:Creepy Gnomish Doll\/a
 categories:
 - Ability Modifier (Equipment)

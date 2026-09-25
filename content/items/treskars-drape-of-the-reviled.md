@@ -13,7 +13,8 @@ stats:
   crit: '4.4'
   critbonus: '1.5'
   potency: '6.8'
-effects: '**Savage Healing**'
+effect_name: Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 987.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1257744518 877517156:Treskar's Drape of the Reviled\/a
 categories:
 - Assassin Equipment

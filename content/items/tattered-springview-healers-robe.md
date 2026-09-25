@@ -12,7 +12,8 @@ stats:
   agi: '+2'
   mit: '1'
   dtype: Cloth Armor
-effects: '**Springview Healer Disguise**'
+effect_name: Springview Healer Disguise
+effects: '- Applies Springview Healer Disguise when Equipped.'
 used_in_quest: '[[The Adventure of the Undercover Disciple]]'
 item_link: \aITEM 850137451 1805246855:Tattered Springview Healer's Robe\/a
 categories:

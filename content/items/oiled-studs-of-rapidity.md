@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vselemental: '+324'
-effects: '**Rising Brutality**'
+effect_name: Rising Brutality
+effects: "- Applies Rising Brutality VIII when Activated.  Lasts for 12.0 seconds.\n  - Applies Invigorated Haste VIII on termination.  Lasts for 30.0 seconds.\n    - Increases Haste of caster by 90.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Damage Per Second of the caster over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Rising Brutality VIII is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 80) from [[Ancient Knowledge: Oiled Studs of Rapidity]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -696959543 -1720668905:Oiled Studs of Rapidity\/a
 categories:

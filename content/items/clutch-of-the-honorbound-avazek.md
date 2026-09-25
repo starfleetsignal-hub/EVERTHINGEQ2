@@ -17,7 +17,8 @@ stats:
   dps: '29.6'
   vsarcane: +1,833
   mitinc: '12.3'
-effects: '**Desolating Rampage**'
+effect_name: Desolating Rampage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Desolating Rampage on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Flurry of Caster by 6.0.\n    - Increases DPS of caster by 30.0.\n    - Increases Haste of caster by 30.0.\n    - Increases Multi Attack of caster by 30.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 650139295 633542719 0 0 0:Clutch of the Honorbound Avazek\/a
 categories:
 - Arcane Resistance (Equipment)

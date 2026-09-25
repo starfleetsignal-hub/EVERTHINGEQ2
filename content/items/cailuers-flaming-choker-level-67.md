@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   aspeed: '2.4'
-effects: '**Lesser Runic Barrier**'
+effect_name: Lesser Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 150 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1143474351 138306218:Ca'iluer's Flaming Choker\/a
 categories:
 - Assassin Equipment

@@ -9,7 +9,8 @@ slot: Charm
 flags: no-transmute  no-salvage  no-trade
 stats:
   str: '+1'
-effects: '**Lucky Wolf Paw**'
+effect_name: Lucky Wolf Paw
+effects: "- Applies Lucky Wolf Paw when Activated.  Lasts for 30 minutes 18 seconds.\n  - Increases speed of caster by 17.0%.\n  - This effect suspends during combat\n  - The casting time of Lucky Wolf Paw is 0.5 seconds and the reuse time of the spell is 1.5 seconds"
 obtained_from: 'Crafted by [[Artisan]] (level 0) from [[Recipe: Lucky Wolf Paw Charm]]'
 item_link: \aITEM 1145164489 1930893550:Lucky Wolf Paw\/a
 image: images/Lucky_Wolf_Paw.png

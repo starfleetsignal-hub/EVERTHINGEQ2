@@ -16,7 +16,8 @@ stats:
   potency: 46,364
   resolve: '555'
   vselemental: +387,205
-effects: '**Mischievous Might**'
+effect_name: Mischievous Might
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2,608.3.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Scars of Destruction: Thawing Rivalry - Part 4]]'
 item_link: \aITEM 1255157066 -20395162:Precious Hoop of the Thawed Rivalry\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +16,380
-effects: '**Voidtap**'
+effect_name: Voidtap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Voidtap II on target.  Lasts for 1 minute.  Triggers about 3.0 times per minute.\n    - Increases power of caster by 2,120.\n    - Increases Crit Bonus and Potency by 5% per incement\n    - When reaching 10 increments, this spell will trigger Anashti's Wrath, which inflicts 200,000 damage to the caster and any allies or enemies within 10 meters of them. All targets hit will be stunned for 3 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1763969264 -924507218:Awaiting Emptiness\/a
 categories:
 - Ability Modifier (Equipment)

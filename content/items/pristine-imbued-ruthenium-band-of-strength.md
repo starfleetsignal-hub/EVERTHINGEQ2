@@ -12,7 +12,7 @@ stats:
   agi: '+10'
   health: '+20'
   power: '+20'
-effects: Aura of Strength
+effects: "- When Equipped:\n  - On a successful melee attack this spell has a chance to cast **Blaze of Strength** on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - Increases STR of caster by 12.2\n    - Increases Damage Per Second of caster by 20.0"
 obtained_from: Crafted by [[Jeweler]] (level 38) from [[Advanced Jeweler Volume 38]]
 categories:
 - Assassin Equipment

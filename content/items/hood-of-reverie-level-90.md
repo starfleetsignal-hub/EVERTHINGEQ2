@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Chain Armor
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 359 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -355636824 -852168867:Hood of Reverie\/a
 categories:
 - Assassin Equipment

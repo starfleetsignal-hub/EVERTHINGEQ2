@@ -24,7 +24,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Blessing of the Plaguebringer**'
+effect_name: Blessing of the Plaguebringer
+effects: "- When Equipped:\n  - \"Blessing of the Plaguebringer\" protects the wearer from strong deific magics used by Bertoxxulous!"
 item_link: \aITEM -1139842000 181710438:Plaguebringer's Disease-Ridden Shank [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

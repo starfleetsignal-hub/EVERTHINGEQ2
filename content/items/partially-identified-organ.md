@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   aspeed: '70.1'
   flurry: '38.8'
-effects: '**Enmitic Escalation**<br>**Entwined Enmity**'
+effect_name: Enmitic Escalation, Entwined Enmity
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Enmitic Escalation on caster.  Lasts for 30.0 seconds.\n    - Builds charges of Enmitic Escalation.\n    - Cannot be modified except by direct means\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n- Applies Entwined Enmity when Activated.  Lasts for 15.0 seconds.\n  - Heals group members for 20.0% of caster's max health.\n  - Heals group members for 5.0% of caster's max health every 7.5 seconds.\n    - This effect cannot be critically applied.\n  - Increases Max Health of group members by 12.0%.\n  - Requires 25 stacks of Enmitic Escalation to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Entwined Enmity is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM -1944739235 398544330:Partially Identified Organ\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   multi: '17.5'
-effects: '**Astral Aegis**'
+effect_name: Astral Aegis
+effects: "- When Equipped:\n  - Applies Astral Aegis: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Astral Aegis is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,310 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 231 points of shielding every 2 seconds\n  - If above level 90\n  - Cannot be modified except by direct means"
 item_link: \aITEM -948151719 1367615056:Tavalan Scaled Gorget\/a
 categories:
 - Astral Aegis (Equipment)

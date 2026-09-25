@@ -15,7 +15,8 @@ stats:
   potency: '2'
   aspeed: '3.2'
   vsarcane: '+245'
-effects: '**Augur''s Soothsaying**'
+effect_name: Augur's Soothsaying
+effects: "- Applies Augur's Soothsaying when Activated.  Lasts for 5 minutes.\n  - Wards caster against 200 points of arcane damage\n  - The casting time of Augur's Soothsaying is 3.0 seconds and the reuse time of the spell is 20 minutes"
 item_link: \aITEM 893211820 -600347906:Augurspike\/a
 categories:
 - Arcane Resistance (Equipment)

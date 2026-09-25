@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Splintered Arrow**'
+effect_name: Splintered Arrow
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Splintered Arrow on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 70 piercing damage on target instantly and every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -851270880 97283492:Infiltrator Mantle\/a
 categories:
 - Ability Modifier (Equipment)

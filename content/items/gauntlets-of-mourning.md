@@ -15,7 +15,8 @@ stats:
   potency: '7.7'
   dps: '17'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[A Jagged Branch]]'
 item_link: \aITEM 1876286826 250314833:Gauntlets of Mourning\/a
 categories:

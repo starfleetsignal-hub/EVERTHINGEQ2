@@ -11,7 +11,8 @@ stats:
   str: '+15'
   sta: '+15'
   dtype: Buckler
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 103 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 951457528 -1138975345:Sparkling Buckler\/a
 categories:
 - Berserker Equipment

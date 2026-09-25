@@ -18,7 +18,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 575650079 1957260855:Immortal Hammer of the Antonican Knight\/a
 categories:
 - Casting Speed (Equipment)

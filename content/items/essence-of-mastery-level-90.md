@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dps: '15.2'
-effects: '**Strike of the Four Masters**'
+effect_name: Strike of the Four Masters
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Strike of the Four Masters on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 216 disease damage on target.\n    - Inflicts 216 heat damage on target.\n    - Inflicts 216 magic damage on target.\n    - Inflicts 216 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2029984523 -2066953337:Essence of Mastery\/a
 categories:
 - Ability Modifier (Equipment)

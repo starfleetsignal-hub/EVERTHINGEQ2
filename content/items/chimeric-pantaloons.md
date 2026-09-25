@@ -16,7 +16,8 @@ stats:
   potency: '6.8'
   dps: '17.3'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '* *Sold by [[Sehesh]] in [[The Sundered Frontier]] for [[Rune Writ Pants of Invocation]] and 45 [[Seal of Arad]]'
 item_link: \aITEM -1315431612 -1854319341:Chimeric Pantaloons\/a
 categories:

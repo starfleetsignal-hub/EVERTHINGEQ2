@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   abmod: +1,591
   aspeed: '18'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- Applies Prayer to Tunare when Activated.\n  - Heals the caster for 526,350 health\n  - Suspends the passive effect for 60 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare is 1 minute"
 item_link: \aITEM 1234083503 -28329759:Harbinger's Totem\/a
 image: images/Harbinger's_Totem.png
 categories:

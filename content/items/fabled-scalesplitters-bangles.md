@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Crush Armor**'
+effect_name: Crush Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Crush Armor II on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 1,087.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1604561598 1635172454:Fabled Scalesplitter's Bangles\/a
 categories:
 - Arcane Resistance (Equipment)

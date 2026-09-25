@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +26,832
-effects: '**Practiced Power**'
+effect_name: Practiced Power
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Power III on the group.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the group's Potency by 0.9 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 54 Potency.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1069059723 -2127945800:Wrist of Primal Practices\/a
 categories:
 - Ability Modifier (Equipment)

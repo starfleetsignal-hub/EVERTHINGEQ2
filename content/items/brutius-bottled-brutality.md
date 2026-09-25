@@ -18,7 +18,8 @@ stats:
   resolve: '14'
   abmod: +32,644
   dps: '30.8'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 37.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 407584346 427281071:Brutius' Bottled Brutality\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +26,832
-effects: '**Unexpected Insult**'
+effect_name: Unexpected Insult
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Unexpected Insult II on target of attack.  Lasts for 15.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Threat to target by 1,500,665\n    - Increases Crit Bonus of raid and group members (AE) by 8.0.\n    - Cannot be modified except by direct means\n  - If not fighter\n  - Cannot be modified except by direct means"
 item_link: \aITEM -330089518 1464050723:Bracelet of Whispered Insults\/a
 categories:
 - Arcane Resistance (Equipment)

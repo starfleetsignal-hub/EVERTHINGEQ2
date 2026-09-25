@@ -9,7 +9,7 @@ flags: attuneable
 stats:
   str: '+2'
   sta: '+2'
-effects: Aura of Agility
+effects: "- When Equipped:\n  - When target uses a combat art this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increase AGI of caster by 3.6\n    - Increase Attack Speed of caster by 9.8"
 obtained_from: Crafted by [[Scholar]] (level 18) from [[Scholar essentials volume 18]]
 item_link: \aITEM -1962889580 298603338:Pristine Imubed Electrum Band of Agility\/a
 categories:

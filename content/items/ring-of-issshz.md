@@ -16,7 +16,8 @@ stats:
   abmod: '+803'
   dps: '27.8'
   vselemental: +30,369
-effects: '**Staggered Combination**'
+effect_name: Staggered Combination
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 10.0.\n  - Increases Crit Bonus of caster by 22.0.\n  - Increases Potency of caster by 48.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -807673271 1754913115:Ring of Issshz\/a
 categories:
 - Ability Modifier (Equipment)

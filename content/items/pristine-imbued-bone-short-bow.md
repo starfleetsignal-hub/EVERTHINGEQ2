@@ -16,7 +16,7 @@ stats:
   drating: '12.3'
   range: 2-25
   wtype: Bow
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts 48 - 90 magic damage on target"
 obtained_from: Crafted by [[Craftsman]] (level 16) from [[Advanced craftsman volume 16]]
 item_link: \aITEM -400264936 -1790892794:Pristine Imbued Bone Short Bow\/a
 categories:

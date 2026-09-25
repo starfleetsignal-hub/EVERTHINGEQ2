@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 5.0%."
 item_link: \aITEM 1534172351 1374785267:Brainless Belt\/a
 categories:
 - Ability Modifier (Equipment)

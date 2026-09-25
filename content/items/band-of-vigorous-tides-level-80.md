@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   aspeed: '6.7'
   vselemental: '+670'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 1059556722 1648464903:Band of Vigorous Tides\/a
 categories:
 - AE Autoattack Chance (Equipment)

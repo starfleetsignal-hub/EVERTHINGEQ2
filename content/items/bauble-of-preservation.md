@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   dps: '16.6'
-effects: '**Purifying Presence**'
+effect_name: Purifying Presence
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Purifying Presence on target of spell cast.  Triggers about 1.8 times per minute.\n    - Dispels 103 levels of any hostile effects on target\n    - Cannot be modified except by direct means"
 item_link: \aITEM -891559686 468615681:Bauble of Preservation\/a
 categories:
 - Assassin Equipment

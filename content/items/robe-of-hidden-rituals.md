@@ -12,7 +12,8 @@ stats:
   sta: '+9'
   mit: '45'
   dtype: Cloth Armor
-effects: '**Hidden Ritual**'
+effect_name: Hidden Ritual
+effects: "- When Equipped:\n  - When damaged this spell has a 15% chance to cast Hidden Ritual on target's attacker.  Lasts for 30.0 seconds.\n    - Decreases Threat to target by 200\n    - Cannot be modified except by direct means"
 item_link: \aITEM -45667432 1735325536:Robe of Hidden Rituals\/a
 categories:
 - Assassin Equipment

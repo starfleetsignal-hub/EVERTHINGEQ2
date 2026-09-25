@@ -17,7 +17,8 @@ stats:
   potency: 4,703.3
   resolve: '195'
   multi: '14.4'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 12.3.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: From [[A Packet of Equipment (Paladin, 120)|A Packet of Equipment]]
 item_link: \aITEM -2098422579 -1336738806:Justicar's Bolstered Charm\/a
 categories:

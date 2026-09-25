@@ -17,7 +17,8 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Cloth Armor
-effects: '**Summoned Vengeance**'
+effect_name: Summoned Vengeance
+effects: "- When Equipped:\n  - Increases pet spell and combat art damage by 75, and weapon/casting skills by 15."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -1917967206 951783109:[Aramid Slippers of the Voidcaller]\/a
 categories:

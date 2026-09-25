@@ -17,7 +17,8 @@ stats:
   aspeed: '36'
   dps: '23.1'
   multi: '19.8'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 27.9.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 23.3.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1144327837 1178096445:The Hill King's Eye\/a
 categories:
 - Assassin Equipment

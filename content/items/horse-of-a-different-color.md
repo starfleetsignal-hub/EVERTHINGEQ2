@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 1.0 second
   recast: 0.0 seconds
-effects: Summon a Horse of a Different Color
+effects: "- Applies Summon a Horse of a Different Color when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 40%"
 obtained_from: '[[Gnary a Joke to Tell]]'
 item_link: \aITEM -1437173346 -690332900:[Horse of a Different Color]\/a
 events:

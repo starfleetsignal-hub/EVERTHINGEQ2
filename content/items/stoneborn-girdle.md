@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '36.3'
   resolve: '5'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception II when Equipped.\n  - Increases Fervor of caster by 4.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 250."
 item_link: \aITEM -1488636181 -528349977:Stoneborn Girdle\/a
 categories:
 - Ability Doublecast (Equipment)

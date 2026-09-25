@@ -16,7 +16,8 @@ stats:
   dps: '31.3'
   multi: '54.7'
   dtype: Chain Armor
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1471863256 -1775207914 0 0 0:Erollisi's Leggings of Remembrance\/a
 categories:
 - Assassin Equipment

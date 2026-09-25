@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   str: '+9'
   sta: '+8'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 7.2.\n    - Increases DPS of caster by 14.2.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 170465827 -1255164468:crude imbued opaline ring of strength\/a
 categories:
 - Assassin Equipment

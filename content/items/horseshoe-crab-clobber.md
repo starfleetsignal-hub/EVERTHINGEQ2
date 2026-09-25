@@ -21,7 +21,7 @@ stats:
   drating: '133.8'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: Block Chance
+effects: "- When Equipped:\n  - Increases caster's chance to block by 18.0%"
 obtained_from: '[[Eyes of the Forest]]'
 item_link: \aITEM 1821935375 1263960850:Horseshoe Crab Clobberer\/a
 categories:

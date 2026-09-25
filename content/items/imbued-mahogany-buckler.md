@@ -12,7 +12,8 @@ stats:
   int: '+45'
   vsarcane: '+396'
   dtype: Buckler
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 177 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1043554153 -1054230550:Imbued Mahogany Buckler\/a
 categories:
 - Arcane Resistance (Equipment)

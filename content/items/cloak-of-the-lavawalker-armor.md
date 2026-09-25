@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of the Lavawalker (crate)|Cloak of the Lavawalker]]
 item_link: \aITEM 1157160685 -806659895:Cloak of the Lavawalker\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Chain Armor
-effects: '**Divine Relief**'
+effect_name: Divine Relief
+effects: "- When Equipped:\n  - When any physical damage is received this spell has a 8% chance to cast Divine Relief on caster.\n    - Heals caster for 200.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: Crafted by [[Armorer]] (level 77) from [[Riliss Heavy Armoring Volume II]]
 item_link: \aITEM 158899493 476101253:Rilissian Trooper Chainmail Coat\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '63.47'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Ankle wrap**'
+effect_name: Ankle wrap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ankle Wrap on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Roots target\n    - 10% chance to dispel when target takes damage\n    - Epic targets gain an immunity to Root effects of 30.0 seconds and duration is reduced to 3.3 seconds.\n    - Resistibility increases against targets higher than level 88.\n    - Cannot be modified except by direct means\n  - Does not affect Epic targets"
 item_link: \aITEM 124636226 61931312:Whip of Domination\/a
 categories:
 - Ankle wrap (Equipment)

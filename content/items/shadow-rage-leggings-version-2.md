@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   dtype: Chain Armor
-effects: '**Fearless Frenzy**'
+effect_name: Fearless Frenzy
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fearless on caster.  Lasts for 15.0 seconds.  Triggers about 1.6 times per minute.\n    - Makes caster immune to Fear effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1502554896 1863263226:Shadow Rage Leggings\/a
 categories:
 - AE Autoattack Chance (Equipment)

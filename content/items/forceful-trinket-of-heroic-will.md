@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   multi: '31.2'
-effects: '**Blaze**'
+effect_name: Blaze
+effects: "- Applies Blaze III when Activated.  Lasts for 1 minute.\n  - Increases Haste of caster by 60.0.\n  - Converts damage spells to heat damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Blaze III is 1 minute"
 item_link: \aITEM -390451125 636029386:Forceful Trinket of Heroic Will\/a
 image: images/Forceful_Trinket_of_Heroic_Will.png
 categories:

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Putrid Decay**'
+effect_name: Putrid Decay
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Putrid Decay on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 303 - 505 poison damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -2106030322 -1419690064:Vol'drath\/a
 categories:
 - Assassin Equipment

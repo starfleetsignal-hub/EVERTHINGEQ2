@@ -16,7 +16,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   multi: '21.6'
-effects: '**Warring Provocation**'
+effect_name: Warring Provocation
+effects: "- When Equipped:\n  - Improves the duration of Provoking Stance by 25%.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -720634895 602937484:Monk's Banner of War\/a
 categories:

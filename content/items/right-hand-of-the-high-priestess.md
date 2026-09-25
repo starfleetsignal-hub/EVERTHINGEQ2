@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Wrath of the Priestess**'
+effect_name: Wrath of the Priestess
+effects: "- Applies Wrath of the Priestess when Equipped.\n  - On a combat hit this spell may cast Wrath of the Priestess on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 193 - 236 magic damage on target.\n    - Inflicts 193 - 236 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1651640605 1251345281:Right Hand of the High Priestess\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   critbonus: '2.9'
   abmod: '+30'
   dtype: Plate Armor
-effects: '**Furious Blows**'
+effect_name: Furious Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1563960297 754475009:Discord's Dreadnaught Sabatons\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   dps: '11'
   multi: '6.8'
   vselemental: '+360'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1589052767 1935702734:Dreamer's Scale\/a
 categories:
 - Arcane Resistance (Equipment)

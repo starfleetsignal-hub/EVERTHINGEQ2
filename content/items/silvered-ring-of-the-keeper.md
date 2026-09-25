@@ -17,7 +17,8 @@ stats:
   aspeed: '35.2'
   dps: '13.5'
   vselemental: +27,090
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 108 maximum"
 item_link: \aITEM -2052365367 187625638:Silvered Ring of the Keeper\/a
 categories:
 - Ability Modifier (Equipment)

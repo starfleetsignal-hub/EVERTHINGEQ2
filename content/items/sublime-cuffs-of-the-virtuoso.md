@@ -19,7 +19,8 @@ stats:
   abmod: '+288'
   multi: '14.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Obtained from [[Warborne Gloves]]
 item_link: \aITEM -2098275290 -1717045881:Sublime Cuffs of the Virtuoso\/a
 categories:

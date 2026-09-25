@@ -16,7 +16,8 @@ stats:
   multi: '47.4'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Pentamerous Destruction**'
+effect_name: Pentamerous Destruction
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM 1519581859 805938876 0 0 0:Hydra Hide Wrapped Gloves\/a
 categories:
 - Block Chance (Equipment)

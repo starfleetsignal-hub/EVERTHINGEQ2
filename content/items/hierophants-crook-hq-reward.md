@@ -19,7 +19,8 @@ stats:
   drating: '51.91'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Earthquake**'
+effect_name: Earthquake
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Earthquake on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 88 - 108 crushing damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[By Hook or by...]]'
 item_link: \aITEM 2133673948 -83551990:Hierophant's Crook\/a
 image: images/Hierophant's_Crook.jpg

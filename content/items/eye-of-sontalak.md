@@ -16,7 +16,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**The Bell Tolls**'
+effect_name: The Bell Tolls
+effects: "- Applies The Bell Tolls II when Activated.  Lasts for 12.0 seconds.\n  - On any combat or spell hit this spell will cast The Bell Tolls II on target of attack.\n    - Inflicts 300, 000 magic damage on the target. Deals an extra 300, 000 magic damage for every 25% health the target is damaged.\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - Cannot be modified except by direct means\n  - The reuse time of The Bell Tolls II is 1 minute"
 item_link: \aITEM -294669134 100762975:Eye of Sontalak\/a
 categories:
 - Assassin Equipment

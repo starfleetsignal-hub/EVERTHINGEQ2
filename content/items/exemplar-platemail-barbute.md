@@ -18,7 +18,8 @@ stats:
   potency: '409.3'
   resolve: '23'
   dtype: Plate Armor
-effects: '**Deathbringer''s Sight**'
+effect_name: Deathbringer's Sight
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Territus, the Deathbringer."
 obtained_from: From [[Satchel of the Deathbringer]]
 item_link: \aITEM 1768364533 -927514209:Exemplar  Platemail Barbute\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: '+393'
   dps: '27.1'
   mitinc: '11.2'
-effects: '**Temporal Impedance**'
+effect_name: Temporal Impedance
+effects: "- When Equipped:\n  - When damaged with a spell this spell has a 15% chance to cast Temporal Impedance on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 4,000 points of elemental, noxious and arcane damage\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 item_link: \aITEM 844534822 566386303 0 0 0:Ancient Orange Soulstone\/a
 categories:
 - Ability Modifier (Equipment)

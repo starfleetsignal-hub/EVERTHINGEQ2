@@ -19,7 +19,8 @@ stats:
   aspeed: '56.3'
   dps: '42.8'
   multi: '61.9'
-effects: '**Fates Entwined**'
+effect_name: Fates Entwined
+effects: "- Applies Fates Entwined when Activated.  Lasts for 10.0 seconds.\n  - Applies Fates Entwined.  Lasts for 20.0 seconds.\n    - Increases all damage done to caster by 20%.\n    - Cannot be modified except by direct means\n  - Increases all damage done to target by 3.2%.\n  - Increases Threat to target by 1,038,665  instantly and every 2 seconds thereafter\n  - Cannot be modified except by direct means\n  - The casting time of Fates Entwined is 4.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 102) from [[Jeweler Essentials Volume 102]]
 item_link: \aITEM -2067664348 1507809042:Ember Charm of Alacrity\/a
 categories:

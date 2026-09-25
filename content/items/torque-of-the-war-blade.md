@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   aspeed: '9.7'
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -605087359 1794787186:Torque of the War Blade\/a
 categories:
 - Ability Modifier (Equipment)

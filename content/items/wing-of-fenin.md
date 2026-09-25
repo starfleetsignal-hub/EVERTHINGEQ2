@@ -22,7 +22,8 @@ stats:
   resolve: '35'
   abmod: +32,535
   mitinc: '22.7'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 18.2\n  - Dazes caster\n  - Increases Potency by 15% of the caster's base Potency\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1215329384 -472391452:Wing of Fenin\/a
 categories:
 - Ability Modifier (Equipment)

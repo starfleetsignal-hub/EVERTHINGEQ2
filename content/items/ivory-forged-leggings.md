@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '146'
   dtype: Plate Armor
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 48 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1481860814 -170402590:Ivory-Forged Leggings\/a
 categories:
 - Berserker Equipment

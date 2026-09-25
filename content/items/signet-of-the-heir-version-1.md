@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   aspeed: '5.5'
   mitinc: '3.9'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 33.0."
 item_link: \aITEM 1652625840 2080315193:Signet of the Heir\/a
 categories:
 - Attack Speed (Equipment)

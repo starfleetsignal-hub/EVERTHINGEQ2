@@ -24,7 +24,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blessing of the Dreamlord**'
+effect_name: Blessing of the Dreamlord
+effects: "- When Equipped:\n  - \"Blessing of the Dreamlord\" protects the wearer from strong deific magics used by Morell-Thule!"
 item_link: \aITEM -111832226 -494514439:Blade of Vivid Dreams [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

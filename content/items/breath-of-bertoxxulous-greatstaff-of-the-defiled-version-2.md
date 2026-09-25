@@ -20,7 +20,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Unbending Will**'
+effect_name: Unbending Will
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Unbending Will on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 1,200.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 310446866 -11078627:Breath of Bertoxxulous, Greatstaff of the Defiled\/a
 categories:
 - Beastlord Equipment

@@ -18,7 +18,8 @@ stats:
   abmod: +54,768
   cbovercap: '+355.9'
   dtype: Symbols
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,300 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 120) from [[Acrylia Jeweler's Primer Volume III]]
 item_link: \aITEM -1324035931 1311661868:Acrylia Symbol of Force\/a
 categories:

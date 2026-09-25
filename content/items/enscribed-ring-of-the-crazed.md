@@ -18,7 +18,8 @@ stats:
   multi: '26.7'
   flurry: '0.8'
   vselemental: +8,415
-effects: '**Crazed Spirit**'
+effect_name: Crazed Spirit
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,584.4.\n  - This effect will not stack with any other similar effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1137280487 -2117985194:Enscribed Ring of the Crazed\/a
 categories:
 - Ability Modifier (Equipment)

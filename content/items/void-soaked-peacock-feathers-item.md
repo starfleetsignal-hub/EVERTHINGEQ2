@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   aspeed: '6.9'
-effects: '**Alacritous Incantation**'
+effect_name: Alacritous Incantation
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 5 percent."
 item_link: \aITEM -6330411 -349800201:Void-Soaked Peacock Feathers\/a
 categories:
 - Alacritous Incantation (Equipment)

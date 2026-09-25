@@ -19,7 +19,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Terror Feast**'
+effect_name: Terror Feast
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Terror Feast on caster.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 187.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -527168818 -2060419829:Cold-Blooded Blade\/a
 image: images/Cold-Blooded_Blade.jpg
 categories:

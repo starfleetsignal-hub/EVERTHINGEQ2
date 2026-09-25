@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Symbols
-effects: '**Gaze Distraction**'
+effect_name: Gaze Distraction
+effects: "- Applies Gaze Distraction when Activated.\n  - Decreases threat priority of target by 24 positions\n  - The reuse time of Gaze Distraction is 3 minutes"
 item_link: \aITEM 1327610974 1410454266:Trakanon's Gaze\/a
 categories:
 - Casting Speed (Equipment)

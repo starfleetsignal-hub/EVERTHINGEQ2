@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   multi: '10.5'
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,218 - 1,827 poison damage on target\n    - Heals caster for 811 - 1,217\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 182407230 -1931289799:Bangle of Shadowed Blades\/a
 categories:
 - Assassin Equipment

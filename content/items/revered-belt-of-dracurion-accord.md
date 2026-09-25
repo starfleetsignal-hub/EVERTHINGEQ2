@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   dps: '27.1'
-effects: '**Soothing Sigil**'
+effect_name: Soothing Sigil
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil IV on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 221 levels of any hostile effects on target\n    - Heals target for 5,664 - 6,260.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1180975813 -121144864:Revered Belt of Dracurion Accord\/a
 categories:
 - Assassin Equipment

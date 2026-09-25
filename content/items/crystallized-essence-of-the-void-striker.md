@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Tenacity of the Void Striker**'
+effect_name: Tenacity of the Void Striker
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tenacity of the Void Striker on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 3.0.\n    - Increases Hate Gain of caster by 5.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -727395697 -1750688853:Crystallized Essence of the Void Striker\/a
 categories:
 - AE Autoattack Chance (Equipment)

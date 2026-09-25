@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   multi: '16.5'
-effects: '**Overbearing Onslaught**'
+effect_name: Overbearing Onslaught
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Overbearing Onslaught II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Overbearing Onslaught II on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1069359735 1136406391:Zennkron's Lifted Necklace of Perception\/a
 categories:
 - Assassin Equipment

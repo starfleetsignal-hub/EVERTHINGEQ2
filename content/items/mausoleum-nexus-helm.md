@@ -19,7 +19,8 @@ stats:
   resolve: '505'
   flurry: '72.1'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1674052324 186115264:Mausoleum Nexus Helm\/a
 categories:
 - Brawler Equipment

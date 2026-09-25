@@ -15,7 +15,9 @@ stats:
   drating: '13.44'
   dtype: Dual Wield Crushing
   wtype: Staff
-effects: '**Ethereal Needles**'
+effect_name: Ethereal Needles
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ethereal Needles on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 45 - 75 magic damage on target.\n    - Inflicts 45 - 75 piercing damage on target.\n    - Inflicts 45 - 75 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a ranged hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 45 - 75 magic damage on target.\n    - Inflicts 45 - 75 piercing damage on target.\n    - Inflicts 45 - 75 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 45 - 75 magic damage on target.\n    - Inflicts 45 - 75 piercing damage on target.\n    - Inflicts 45 - 75 divine damage on target.\n\
+  \    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2091979133 -806888241:Advisor Kre'lak's Wand of Deathly Days\/a
 categories:
 - Census Credits

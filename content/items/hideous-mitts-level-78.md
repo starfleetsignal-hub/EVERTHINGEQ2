@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Cloth Armor
-effects: '**Reflexive Regeneration**'
+effect_name: Reflexive Regeneration
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Reflexive Regeneration on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 170 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1321829883 -7216860:Hideous Mitts\/a
 categories:
 - Ability Modifier (Equipment)

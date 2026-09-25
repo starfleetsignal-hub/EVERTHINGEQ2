@@ -18,7 +18,8 @@ stats:
   resolve: '190'
   aspeed: '91.3'
   mitinc: '28.7'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 36.1.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1017562008 -451737954:Effigy of the Wartorn\/a
 categories:
 - AE Autoattack Chance (Equipment)

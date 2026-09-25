@@ -21,7 +21,8 @@ stats:
   drating: '99.68'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Shimmering Aura of Growth**'
+effect_name: Shimmering Aura of Growth
+effects: "- When Equipped:\n  - Increases Max Power of caster by 5.0%.\n  - Increases Crit Chance of caster by 5.0.\n  - On a healing spell cast this spell may cast Furious Spirit on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR and AGI of target by 220.0.\n    - Increases Max Health of target by 10.0%.\n    - Increases Max Power of target by 10.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 855222093 187067548:Staff of Unending Growth\/a
 categories:
 - Ability Modifier (Equipment)

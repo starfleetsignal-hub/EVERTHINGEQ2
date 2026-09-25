@@ -19,7 +19,8 @@ stats:
   aspeed: '70.8'
   dps: '53.8'
   multi: '77.9'
-effects: '**Mounting Malevolence**<br>**Malevolent Mantra**'
+effect_name: Mounting Malevolence, Malevolent Mantra
+effects: "- When Equipped:\n  - On a hostile ability cast this spell will cast Mounting Malevolence on caster.  Lasts for 30.0 seconds.\n    - Builds charges of Mounting Malevolence.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Malevolent Mantra when Activated.  Lasts for 15.0 seconds.\n  - Increases Potency of group members (AE) by 750.0.\n  - Requires 50 stacks of Mounting Malevolence to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Malevolent Mantra is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM 1078907474 -377965092:Lightless Fang\/a
 categories:
 - Assassin Equipment

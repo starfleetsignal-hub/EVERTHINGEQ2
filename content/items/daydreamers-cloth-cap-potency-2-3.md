@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Cloth Armor
-effects: '**Betraying Thoughts**'
+effect_name: Betraying Thoughts
+effects: "- When Equipped:\n  - When damaged this spell has a 8% chance to cast Betraying Thoughts on target's attacker.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1822164991 -1509620721:Daydreamer's Cloth Cap\/a
 categories:
 - Ability Modifier (Equipment)

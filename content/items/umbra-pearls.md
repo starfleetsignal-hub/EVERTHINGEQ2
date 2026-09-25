@@ -16,7 +16,8 @@ stats:
   abmod: +1,622
   aspeed: '18.3'
   vselemental: +30,687
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -359427471 -352407125:Umbra Pearls\/a
 categories:
 - Ability Modifier (Equipment)

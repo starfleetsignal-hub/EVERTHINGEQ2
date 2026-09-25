@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   dtype: Symbols
-effects: '**Spirit Feast**'
+effect_name: Spirit Feast
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Spirit Feast on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 302 magic damage on target.\n    - Increases power of caster by 300.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -788741081 1739152861:Necromantic Orb of the Death Reveler\/a
 categories:
 - Assassin Equipment

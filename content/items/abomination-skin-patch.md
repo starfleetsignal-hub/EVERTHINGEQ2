@@ -17,7 +17,8 @@ stats:
   potency: 10,817.5
   resolve: '260'
   multi: '18.1'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 30.2.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 25.2.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1208706624 46832719:Abomination Skin Patch\/a
 categories:
 - Assassin Equipment

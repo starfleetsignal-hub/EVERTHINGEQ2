@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   multi: '1.3'
   dtype: Tower Shield
-effects: '**Impact**'
+effect_name: Impact
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Impact on target's attacker.  Lasts for 2.5 seconds.\n    - Throws target back\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 922488017 -1933361275:Zalak's Tower Shield of Dominion\/a
 categories:
 - Berserker Equipment

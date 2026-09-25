@@ -17,7 +17,8 @@ stats:
   vselemental: '+615'
   vsnoxious: +1,066
   dtype: Cloth Armor
-effects: '**Subjugative Resilience**'
+effect_name: Subjugative Resilience
+effects: "- When Equipped:\n  - Increases the duration of subjugation based spells by 10%."
 obtained_from: Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Greater Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM 917657777 691338997:Enthralling Silk Mantle\/a
 categories:

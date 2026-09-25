@@ -16,7 +16,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dtype: Chain Armor
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 370.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -466321528 1154423483 0 0 0:Numinous Voidlink Leggings\/a
 categories:
 - Casting Speed (Equipment)

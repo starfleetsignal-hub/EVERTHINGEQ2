@@ -18,7 +18,7 @@ stats:
   vselemental: +1,066
   vsnoxious: '+615'
   dtype: Chain Armor
-effects: Overloaded Heal
+effects: "- When Equipped:\n  - When target casts a healing spell this spell has a chacne to cast Overloaded Heal on caster. This effect will trigger an average of 3.6 times per minute.\n    - Heals group memebers (AE) for 342\n  - This spell can not be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 categories:
 - Ability Modifier (Equipment)

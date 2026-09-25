@@ -7,7 +7,7 @@ slot: Charm
 flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   charges: '1'
-effects: Memories of Peace
+effects: "- Applies **'Memories of Peace**' when Activated. Lasts for 30.0 seconds.\n  - Wipes target's memory of any aggression\n  - Must be in Deathfist Citadel: Prison Break."
 obtained_from: 'Quest: [[Peaceful Prison Break]]'
 image: images/Memories_of_peace.gif
 categories:

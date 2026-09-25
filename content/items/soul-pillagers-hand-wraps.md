@@ -16,7 +16,8 @@ stats:
   multi: '18.5'
   mitinc: '4.2'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1893808881 858639589:Soul Pillager's Hand Wraps\/a
 categories:
 - Block Chance (Equipment)

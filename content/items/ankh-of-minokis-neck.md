@@ -11,7 +11,8 @@ stats:
   str: '+15'
   sta: '+15'
   abmod: '+8'
-effects: '**Water Breathing**'
+effect_name: Water Breathing
+effects: "- Applies Water Breathing when Activated.  Lasts for 12 hours.\n  - Allows caster to breathe under water"
 obtained_from: Drop from [[Knubed]] in [[Permafrost]]
 item_link: \aITEM 2007848680 -576715898:Ankh of Minokis\/a
 categories:

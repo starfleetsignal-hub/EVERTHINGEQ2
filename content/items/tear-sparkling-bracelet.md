@@ -13,7 +13,8 @@ stats:
   critbonus: '15'
   potency: '15'
   vselemental: +9,900
-effects: '**Angelic Interest**'
+effect_name: Angelic Interest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Angelic Interest on caster.  Lasts for 1 minute.  Triggers about 0.2 times per minute.\n    - Heals caster for 13,437.\n    - Summons an Angelic Assistant that inflicts damage to up to 8 enemies who are engaged with the player. The angel is immune to physical damage but takes double magic damage. It is not immune to area effect abilities.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 60.0 seconds."
 item_link: \aITEM -318428341 888418450:Tear Sparkling Bracelet\/a
 categories:
 - Angelic Interest (Equipment)

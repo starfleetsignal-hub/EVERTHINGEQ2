@@ -16,7 +16,8 @@ stats:
   critbonus: 1,379
   potency: 51,480
   resolve: '650'
-effects: '**Occulted Knowledge of the Quintet**'
+effect_name: Occulted Knowledge of the Quintet
+effects: "- When Equipped:\n  - Increases Potency of caster by 18,029.2.\n  - Increases Ability Doublecast of caster by 23.5.\n  - Increases effectiveness of power regen by 20%.\n  - Cannot be modified except by direct means"
 obtained_from: '*Collection reward: [[Cloak of the Quintet (Collection)]] *From [[Contained Cloak of the Quintet]]'
 item_link: \aITEM 20108432 -206270409:\#f08c0aCloak of the Quintet\/a
 categories:

@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '131'
   dtype: Plate Armor
-effects: '**Brutality**'
+effect_name: Brutality
+effects: "- When Equipped:\n  - When any physical damage is received this spell has a 1% chance to cast Wicked Sting on caster.  Lasts for 30.0 seconds.\n    - When damaged with a melee weapon this spell will cast Nettleshield Thorns on target's attacker.\n      - Inflicts 9 piercing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -909899599 1899922025:Barbed Legplates of Brutality\/a
 categories:
 - Berserker Equipment

@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   aspeed: '12.2'
-effects: '**Spectral Infusion**'
+effect_name: Spectral Infusion
+effects: "- Applies Spectral Infusion when Activated.  Lasts for 20.0 seconds.\n  - Shapechanges caster into a Spectre\n  - On a critical combat hit this spell will cast Spectral Infusion on target of attack.\n    - Inflicts 1,338 magic damage on target.\n    - Heals caster for 583.\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell will cast Spectral Infusion on target of spell.\n    - Inflicts 1,338 magic damage on target.\n    - Heals caster for 583.\n    - Cannot be modified except by direct means\n  - The reuse time of Spectral Infusion is 20 minutes"
 item_link: \aITEM -193456829 2137235879:Spiked Girdle of the Idol\/a
 categories:
 - Attack Speed (Equipment)

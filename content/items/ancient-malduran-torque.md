@@ -15,7 +15,8 @@ stats:
   potency: '28.2'
   resolve: '6'
   dps: '29'
-effects: '**Uplifting Stamina**'
+effect_name: Uplifting Stamina
+effects: "- When Equipped:\n  - Increases Max Health of caster by 24.0%."
 item_link: \aITEM -147951673 766931733:Ancient Malduran Torque\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   abmod: '+203'
   vselemental: '+511'
-effects: '**Prophetic Awareness**'
+effect_name: Prophetic Awareness
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Prophetic Awareness on the group.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of spells by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1802761682 -384638152:Rhee'Gor's Mossy Band\/a
 categories:
 - Ability Modifier (Equipment)

@@ -9,7 +9,7 @@ stats:
   charges: Unlimited
   casting: 0.5 seconds
   recast: 1.0 seconds
-effects: Gear Throw
+effects: "- Applies ***Gear Throw*** when Activated.\n  - If target is Master Clockwork Protocol"
 item_link: 1622477229 587729483:Energized Clockwork Gear
 image: images/Bauble_energized_clockwork_gear.gif
 categories:

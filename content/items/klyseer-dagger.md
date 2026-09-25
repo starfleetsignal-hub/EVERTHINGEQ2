@@ -20,7 +20,8 @@ stats:
   drating: '74.2'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Benevolent Alacrity**<br>**Befuddle**'
+effect_name: Benevolent Alacrity, Befuddle
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent.\n- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 800\n    - Cannot be modified except by direct means"
 obtained_from: '[[Keeping the Stone Man Down]]'
 item_link: \aITEM 1904203473 388925906:Klyseer Dagger\/a
 categories:

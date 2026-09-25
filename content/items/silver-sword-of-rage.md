@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Silver Skin**'
+effect_name: Silver Skin
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silver Skin on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster against 222 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1265457815 1467672984:Silver Sword of Rage\/a
 categories:
 - Assassin Equipment

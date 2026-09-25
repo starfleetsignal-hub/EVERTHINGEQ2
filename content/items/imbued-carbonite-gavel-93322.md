@@ -17,7 +17,7 @@ stats:
   drating: '15.0'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack. This effect will trigger an average of 1.6 times per minute.\n    - Decreases Threat to target by 236\n      - Must be flanking or behind\n    - Increases Threat to target by 236\n      - Must be in front of\n    - Inflicts 78-137 magic damage on target"
 obtained_from: Crafted by [[Weaponsmith]] (level 29) from [[Weaponsmith Essentials Volume 29]]
 categories:
 - Berserker Equipment

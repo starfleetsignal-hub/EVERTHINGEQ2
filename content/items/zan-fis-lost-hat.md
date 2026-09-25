@@ -16,7 +16,7 @@ stats:
   mit: '240'
   vsarcane: '+385'
   dtype: Leather Armor
-effects: Blessing of Zan Fi
+effects: "- When Equipped:\n  - When target is healed this spell has a 5% chance to cast Blessing of Zan Fi on caster.  Lasts for 5 minutes.\n    - Wards target against 200 points of all damage"
 item_link: 312999878 1418552322:Zan Fi's Lost Hat
 categories:
 - Arcane Resistance (Equipment)

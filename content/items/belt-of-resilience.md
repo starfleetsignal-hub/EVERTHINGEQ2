@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   dps: '16.6'
-effects: '**Undeniable Malice**'
+effect_name: Undeniable Malice
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Undeniable Malice on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Increases Threat to target by 2,665\n    - Inflicts 993 mental damage on target.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Undeniable Malice on target of attack.  Triggers about 1.4 times per minute.\n    - Increases Threat to target by 2,665\n    - Inflicts 993 mental damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM 2094031788 1458101169:Belt of Resilience\/a
 categories:

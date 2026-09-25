@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: '[[The Gift of Korucust]]'
 item_link: \aITEM -1138740172 80444034:Gwalnax Brigade Belt\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   dps: '27.1'
   multi: '17.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -766228985 116186182:Chainlink Gloves of Greater Skyshrine\/a
 categories:
 - Assassin Equipment

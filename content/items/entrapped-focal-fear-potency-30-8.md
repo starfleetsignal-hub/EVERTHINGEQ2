@@ -15,7 +15,8 @@ stats:
   potency: '30.8'
   abmod: +1,591
   aspeed: '18'
-effects: '**Fear Barrage**'
+effect_name: Fear Barrage
+effects: "- Applies Fear Barrage when Activated.\n  - Fires a powerful beam of fear straight ahead of the caster, dealing 3,400,000 damage to any targets in its path. The damage ticks 3 additional times.\n  - Targets hit by the beam are also afflicted with a crippling fear that saps STR, WIS, INT, and AGI and take 3% more damage from all sources for 15 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Fear Barrage is 1 minute\n- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 70.0."
 item_link: \aITEM 1154743132 1229798491:Entrapped Focal Fear\/a
 categories:
 - Ability Modifier (Equipment)

@@ -22,7 +22,9 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Hurried Strikes**<br>**Repugnant Cloud**'
+effect_name: Hurried Strikes, Repugnant Cloud
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical spell hit this spell may cast Repugnant Cloud IV on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 949 - 1,049 disease damage on target instantly and every 2 seconds.\n    - Decreases Parry of target by 15.0.\n    - Decreases Defense of target by 5.0.\n    - Decreases Mitigation of target vs physical damage by 470.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Repugnant Cloud IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 949 - 1,049\
+  \ disease damage on target instantly and every 2 seconds.\n    - Decreases Parry of target by 15.0.\n    - Decreases Defense of target by 5.0.\n    - Decreases Mitigation of target vs physical damage by 470.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1811805569 1898429089:Vallon's Dagger of Malicious Shanking\/a
 categories:
 - Ability Modifier (Equipment)

@@ -18,7 +18,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**United We Stand**'
+effect_name: United We Stand
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 35 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM -1794391339 -143315398:Overseer's Choker of the Bluejacket\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   aspeed: '13.8'
   dps: '22.6'
   dtype: Chain Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,998 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: 'Dropped by [[Statue of Rallos Zek (Epic)|Statue of Rallos Zek]] in [[Temple of Rallos Zek: Foundations of Stone]]'
 item_link: \aITEM 1457296727 -1235042704:Darkblade's Slaughtering Hauberk\/a
 categories:

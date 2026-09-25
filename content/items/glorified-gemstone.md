@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +21,632
-effects: '**Shared Glory**'
+effect_name: Shared Glory
+effects: "- When Equipped:\n  - When inflicting more than 2% of the target's maximum health in damage with a single hit, the wearer's group will gain 23% Crit Bonus for 20 seconds"
 item_link: \aITEM -876181623 -1227270209:Glorified Gemstone\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Frenzied Pace**'
+effect_name: Frenzied Pace
+effects: "- When Equipped:\n  - Whenever the group strikes a deathblow, the wearer will gain 312.5 STR, AGI, WIS and INT for 24 seconds. Increments up to 10 times.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1830264759 -414793808:Frenzied Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

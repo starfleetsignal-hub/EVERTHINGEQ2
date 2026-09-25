@@ -14,7 +14,8 @@ stats:
   critbonus: '2.2'
   potency: '8'
   dtype: Chain Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancient Invigoration of War on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 1000 points of all damage\n    - Cannot be modified except by direct means\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -1422626076 794499295:Dark Voodoo Shoulderguards\/a
 categories:
 - Ancient Invigoration of War (Equipment)

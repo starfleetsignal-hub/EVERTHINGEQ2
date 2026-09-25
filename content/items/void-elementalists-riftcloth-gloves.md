@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 item_link: \aITEM 1508997244 -1448794397 0 0 0:Void Elementalist's Riftcloth Gloves\/a
 categories:
 - Casting Speed (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '120.77'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '*[[Invasive Species]] *'
 item_link: \aITEM -633158827 73083279:Dagger of Withering Hopes\/a
 image: images/Dagger_of_Withering_Hopes.png

@@ -16,7 +16,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   vselemental: '+564'
-effects: '**Shadowed Retribution**'
+effect_name: Shadowed Retribution
+effects: "- When Equipped:\n  - Increases damage effect damage by 40%.\n  - When any damage is received this spell has a 10% chance to cast Bloogly's Retribution on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 639 disease damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1330212537 637727783:Corrupted Soul Essence Stud\/a
 categories:
 - Arcane Resistance (Equipment)

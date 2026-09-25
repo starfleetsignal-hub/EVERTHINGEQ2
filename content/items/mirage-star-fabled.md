@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Staff
-effects: '**Soothing Mind**'
+effect_name: Soothing Mind
+effects: "- When Equipped:\n  - On a hostile spell cast this spell has a 9% chance to cast Soothing Mind on the group.  Lasts for 15.0 seconds.\n    - On any combat or spell hit this spell will cast Soothing Mind on the group.  Lasts for 15.0 seconds.\n      - Increases power of target by 180.\n      - Grants a total of 1 trigger of the spell.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Maiden of Masks (Quest)|The Maiden of Masks]] part of the [[Illusionist Epic Weapon Timeline]]'
 item_link: \aITEM -1630242374 -117008505:Mirage Star\/a
 categories:

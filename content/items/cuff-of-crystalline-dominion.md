@@ -17,7 +17,8 @@ stats:
   aspeed: '11.2'
   multi: '12'
   vselemental: '+511'
-effects: '**Crystalline Dominion**'
+effect_name: Crystalline Dominion
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Crystalline Dominion on caster.  Lasts for 11.0 seconds.  Triggers about 1.6 times per minute.\n    - Makes caster immune to Root effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1827891699 399505535:Cuff of Crystalline Dominion\/a
 categories:
 - Arcane Resistance (Equipment)

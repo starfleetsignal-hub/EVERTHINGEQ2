@@ -18,7 +18,8 @@ stats:
   drating: '81.87'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Slash of Doom**'
+effect_name: Slash of Doom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Slash of Doom on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 216 - 649 divine damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -715517982 1474844323:Awakened Skycrest Doomblade\/a
 categories:
 - AE Autoattack Chance (Equipment)

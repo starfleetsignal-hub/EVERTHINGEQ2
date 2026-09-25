@@ -15,7 +15,8 @@ stats:
   potency: '5'
   dps: '12.4'
   vselemental: '+400'
-effects: '**String of Insults**'
+effect_name: String of Insults
+effects: "- Applies String of Insults when Activated.  Lasts for 24.0 seconds.\n  - Increases Hate Gain of caster by 5.0.\n  - The casting time of String of Insults is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -1241001244 -1559625152:Focused Energy Crystal\/a
 categories:
 - Arcane Resistance (Equipment)

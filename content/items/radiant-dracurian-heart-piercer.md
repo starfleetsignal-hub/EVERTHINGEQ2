@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Slaying of Sevalak]]'
 item_link: \aITEM -2079241766 -907157045:Radiant Dracurian Heart Piercer\/a
 categories:

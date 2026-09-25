@@ -15,7 +15,8 @@ stats:
   potency: '2'
   abmod: '+48'
   dtype: Symbols
-effects: '**Living Breath**'
+effect_name: Living Breath
+effects: "- Applies Living Breath when Activated.  Lasts for 3 minutes.\n  - Wards caster against 890 points of all damage\n  - The reuse time of Living Breath is 2 hours"
 item_link: \aITEM 989450326 1413829056:Living Breath\/a
 categories:
 - Ability Modifier (Equipment)

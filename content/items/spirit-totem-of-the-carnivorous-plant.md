@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Carnivorous Plant
+effects: "- Applies **Spirit Totem of the Carnivorous Plant** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a bloodbloom\n  - Increases Out-of-Combat health Regeneration of caster by 127\n  - Only affects targets level 60 and above"
 obtained_from: Crafted by [[Woodworker]] (level 69) from [[Woodworker Essentials Volume 69]]
 categories:
 - Assassin Equipment

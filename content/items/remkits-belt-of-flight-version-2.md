@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   dps: '10.5'
-effects: '**Flight**'
+effect_name: Flight
+effects: "- When Equipped:\n  - Increases Ranged Weapon Range of caster by 5.0%."
 item_link: \aITEM -1814315320 232631017:Remkit's Belt of Flight\/a
 categories:
 - Assassin Equipment

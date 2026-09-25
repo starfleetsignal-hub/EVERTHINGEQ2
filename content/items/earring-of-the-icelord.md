@@ -18,7 +18,8 @@ stats:
   aspeed: '42'
   dps: '32'
   vselemental: +47,952
-effects: '**Ascended Elementalist**'
+effect_name: Ascended Elementalist
+effects: "- When Equipped:\n  - Reduces the cast time of all Elementalist abilities up to level 10 by 10%.\n  - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[Master Elementalist]]'
 item_link: \aITEM -1682572394 642459273:Earring of the Icelord\/a
 categories:

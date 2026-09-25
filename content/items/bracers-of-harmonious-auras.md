@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Strike of Force**'
+effect_name: Strike of Force
+effects: "- When Equipped:\n  - Increases damage done by combat arts by up to 45."
 obtained_from: Sold by [[Scion of War]] in [[Neriak, City of Hate]]
 item_link: \aITEM -586158700 1218458571:Bracers of Harmonious Auras\/a
 categories:

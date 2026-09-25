@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Static Criticals**'
+effect_name: Static Criticals
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 48.3.\n  - This effect will not stack with \"Uplifting\" effects of the same type."
 item_link: \aITEM -100584715 -824148157:Corked Studs\/a
 categories:
 - AE Autoattack Chance (Equipment)

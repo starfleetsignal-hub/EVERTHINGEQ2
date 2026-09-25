@@ -18,7 +18,8 @@ stats:
   resolve: '150'
   abmod: +44,125
   aspeed: '75.6'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 498.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Sold by [[Magdalen Gemdawn]] in [[Sanctus Seru (City)]]
 item_link: \aITEM -579086513 -1834744015:Bloodtribe Charm of Force\/a
 categories:

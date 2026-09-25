@@ -7,7 +7,8 @@ tier: Handcrafted
 level: '40'
 classes: '[[Sage]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 180) from [[Dabbler's Blueprints 0.007]].
 item_link: \aITEM 944271834 -874566317:Gnomish Quick Erasealler\/a
 image: images/Gnomish_Quick_Erasealler.png

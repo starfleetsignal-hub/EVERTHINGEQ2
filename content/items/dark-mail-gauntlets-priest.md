@@ -17,7 +17,8 @@ stats:
   abmod: '+152'
   multi: '8.4'
   dtype: Leather Armor
-effects: '**Darkened Vitality**'
+effect_name: Darkened Vitality
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Darkened Vitality on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your base heals and base damage by 5%.\n    - Reduces reuse time of beneficial spells by 3 percent.\n    - Reduces cast time of beneficial spells by 3 percent.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Means to an End...]]'
 item_link: \aITEM -75085902 -865436038:Dark Mail Gauntlets\/a
 categories:

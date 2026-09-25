@@ -17,7 +17,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Bow
-effects: '**Poison Gale Glyph**'
+effect_name: Poison Gale Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1417782436 -1411024854:Silkspun Short Bow\/a
 categories:
 - Assassin Equipment

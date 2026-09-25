@@ -21,7 +21,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Violence and Ruination**'
+effect_name: Violence and Ruination
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical spell hit this spell may cast Violence and Ruination on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,265 - 1,399 slashing damage on target.\n    - Inflicts 696 - 769 slashing damage on target every 2 seconds.\n    - Inflicts an additional 63 - 69 slashing damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Violence and Ruination on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,265 - 1,399 slashing damage on target.\n    - Inflicts 696 - 769 slashing damage on target every 2 seconds.\n    - Inflicts an additional 63 - 69 slashing damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2084440267 -1737457225:Imbued Focus of Expurgation\/a
 categories:
 - Ability Modifier (Equipment)

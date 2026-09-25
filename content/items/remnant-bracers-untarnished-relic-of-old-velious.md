@@ -18,7 +18,8 @@ stats:
   potency: 42,335.6
   resolve: '515'
   dtype: Leather Armor
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Increases Crit Bonus Overcap of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1034770075 -1093003387:Remnant Bracers, Untarnished Relic of Old Velious\/a
 categories:
 - Brawler Equipment

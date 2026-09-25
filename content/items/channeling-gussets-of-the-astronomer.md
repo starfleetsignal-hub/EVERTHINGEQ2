@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   dps: '12.8'
   dtype: Plate Armor
-effects: '**Burst of Healing**'
+effect_name: Burst of Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Burst of Healing on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1970664101 2062755323:Channeling Gussets of the Astronomer\/a
 categories:
 - Ability Modifier (Equipment)

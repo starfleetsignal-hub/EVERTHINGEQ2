@@ -18,7 +18,8 @@ stats:
   resolve: '260'
   aspeed: '18.1'
   flurry: '18.1'
-effects: '**Expert Witness**'
+effect_name: Expert Witness
+effects: "- Applies Expert Witness on target Friend when Activated.\n  - Lasts at least 60 seconds.\n  - Wearer becomes more powerful whenever they witness their target's deathblow, and even more so if their archetypes match.\n  - Increases wearer's Fervor and Fervor Overcap.\n  - You must be grouped with someone, even a mercenary.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Expert Witness is 0.4 seconds and the reuse time of the spell is 15 minutes"
 obtained_from: 'Achievement reward: [[Triumph: When It Reigns It Pours]]'
 item_link: \aITEM 1000486292 -36208606:Bear Witness\/a
 categories:

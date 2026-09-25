@@ -19,7 +19,8 @@ stats:
   resolve: '6'
   mitinc: '12.5'
   dtype: Leather Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 903533047 1214026829:Invigorated Valiant Psionist's Crown\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -16,7 +16,8 @@ stats:
   aspeed: '93'
   vselemental: +9,009
   mitinc: '4'
-effects: '**Mortal Champion**'
+effect_name: Mortal Champion
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 35.0.\n  - Increases Crit Bonus of caster by 6.0.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Scrolls of the Mortal Champion]]'
 item_link: \aITEM -613829960 805023629:Signet of the Mortal Fighter\/a
 categories:

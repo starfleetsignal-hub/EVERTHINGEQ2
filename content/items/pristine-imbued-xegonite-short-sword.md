@@ -17,7 +17,7 @@ stats:
   drating: '62.3'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: Gleaming Strike
+effects: "On Any Successful Attack This Spell Has A Chance to Cast Gleaming Strike On The Target. This Effect Will Trigger An Average Of 1.6 Times Per Minute.\n\n- Decreases Threat TO Target By 180\n  - Must Be Flanking Or Behind\n\n- Increase Threat To Target By 180\n  - Must Be In Front Of"
 obtained_from: Crafted by [[Weaponsmith]] (level ) from [[Advanced Weaponsmith Volume 60]]
 categories:
 - Assassin Equipment

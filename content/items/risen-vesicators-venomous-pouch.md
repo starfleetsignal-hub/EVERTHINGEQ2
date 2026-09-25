@@ -19,7 +19,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Ancient Glyph of Poison**'
+effect_name: Ancient Glyph of Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Poison on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 59 - 72 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1416259996 -1065325330:Risen Vesicator'S Venomous Pouch\/a
 categories:
 - Ancient Glyph of Poison (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '60'
   aspeed: '67.2'
   multi: '74.1'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 33.3.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 110) from [[Advanced Jeweler Studies 03]]
 item_link: \aITEM 1833139495 -211446995:Academic's Bauble of Quickness\/a
 categories:

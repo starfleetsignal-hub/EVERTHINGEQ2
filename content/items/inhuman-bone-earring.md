@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   vselemental: '+511'
-effects: '**Unchained**'
+effect_name: Unchained
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Unchained on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of group members by 300.0.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast Unchained on the group.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of group members by 300.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -84292023 1512105755:Inhuman Bone Earring\/a
 categories:
 - Arcane Resistance (Equipment)

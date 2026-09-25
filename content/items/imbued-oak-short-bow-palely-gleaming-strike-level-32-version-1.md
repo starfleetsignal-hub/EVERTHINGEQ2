@@ -17,7 +17,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Bow
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 83 - 154 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1765912689 -1058035408:Imbued Oak Short Bow\/a
 aliases:
 - Imbued Oak Short Bow (Palely Gleaming Strike) (Level 32)

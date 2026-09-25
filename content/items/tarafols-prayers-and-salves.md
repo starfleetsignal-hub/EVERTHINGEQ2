@@ -18,7 +18,8 @@ stats:
   abmod: +73,024
   cbovercap: '+383.3'
   dtype: Symbols
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,806 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Lichen that Venom]]'
 item_link: \aITEM -499339381 137356034:Tarafol's Prayers and Salves\/a
 image: images/Tarafol's_Prayers_and_Salves.png

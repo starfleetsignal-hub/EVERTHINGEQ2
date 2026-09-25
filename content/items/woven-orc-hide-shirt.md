@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '41'
   dtype: Leather Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 24 magic damage on target."
 item_link: \aITEM 346545769 -1724683862:Woven Orc-Hide Shirt\/a
 categories:
 - Assassin Equipment

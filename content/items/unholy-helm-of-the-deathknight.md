@@ -17,7 +17,7 @@ stats:
   mit: '426'
   vsarcane: '+525'
   dtype: Plate Armor
-effects: Curse of the Living Dead
+effects: "- Applies Curse of the Living Dead when Activated. Lasts for 1 minute.\n  - Inflicts 244 - 299 disease damage on target\n  - Inflicts 136 - 166 disease damage on the target every 6 seconds"
 item_link: \aITEM -69402041 -1084266052:Unholy Helm of the Deathknight\/a
 categories:
 - Arcane Resistance (Equipment)

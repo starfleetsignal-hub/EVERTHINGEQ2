@@ -18,7 +18,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Poison**'
+effect_name: Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poisoning on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 68 - 114 poison damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1605369394 -1815485141:Vacra Av Svim\/a
 categories:
 - Ability Modifier (Equipment)

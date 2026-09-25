@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Plate Armor
-effects: '**Fear of the Void**'
+effect_name: Fear of the Void
+effects: "- When Equipped:\n  - Reduces casting time by 10% percent but increases power cost by 5%."
 item_link: \aITEM -833043655 -1036152944:Void-touched Kunarkian Cuirass\/a
 categories:
 - Ability Modifier (Equipment)

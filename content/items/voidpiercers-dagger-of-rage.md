@@ -25,7 +25,8 @@ stats:
   drating: '432.23'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Rending Torrent**'
+effect_name: Rending Torrent
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 50% chance to cast Rending Torrent on target of spell.  Lasts for 14.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases physical and elemental damage done to target by 2%.\n    - Inflicts 4,103 crushing damage on target.\n    - Inflicts 410 crushing damage on target every 2 seconds.\n    - Inflicts 4,103 cold damage on target.\n    - Inflicts 410 cold damage on target every 2 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 14.0 seconds."
 obtained_from: Crafted by [[Weaponsmith]] (level 113) from [[Advanced Weaponsmith Studies 13]]
 item_link: \aITEM 974851199 2135731308:Voidpiercer's Dagger of Rage\/a
 categories:

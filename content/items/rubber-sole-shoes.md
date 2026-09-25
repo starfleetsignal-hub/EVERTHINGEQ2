@@ -16,7 +16,8 @@ stats:
   aspeed: '0.5'
   dps: '2.9'
   dtype: Leather Armor
-effects: '**Spirit of the Wind**'
+effect_name: Spirit of the Wind
+effects: "- Applies Spirit of the Wind when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM 1511311188 1284354868:Rubber Sole Shoes\/a
 categories:
 - Assassin Equipment

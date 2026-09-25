@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   dps: '10.1'
   vselemental: '+356'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 169.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -160304321 -959070438:Horrific Signet\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -18,7 +18,8 @@ stats:
   multi: '25.6'
   cbovercap: '+1270.8'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 125) from [[Recipe Scroll: Blood-Wrought Tower Shield of the Charnel Legacy]] *Made from [[Blood-Wrought Weapon Mold]]'
 item_link: \aITEM 21859791 391618372:Blood-Wrought Tower Shield of the Charnel Legacy\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Power of Time**'
+effect_name: Power of Time
+effects: "- Applies Power of Time when Equipped.\n  - On a combat hit this spell may cast Power of Time on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 15.4.\n    - Cannot be modified except by direct means\n    - Will trigger off of pierce abilities."
 item_link: \aITEM 322579472 1724214075:Glowing Dagger of the Arcanist\/a
 categories:
 - Ability Modifier (Equipment)

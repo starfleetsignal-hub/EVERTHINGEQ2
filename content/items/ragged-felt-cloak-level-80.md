@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   aspeed: '7'
-effects: '**Sorcerous Alacrity**<br>**Secret Destroyer**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Secret Destroyer, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent.\n- Applies Secret Destroyer when Activated.  Lasts for 30.0 seconds.\n  - Increases Crit Chance of caster by 10.0.\n  - Increases casting and reuse speed by 10%. Increases cost of all spells by 50%.\n  - This effect can be toggled off.\n  - Cannot be modified except by direct means\n  - The casting time of Secret Destroyer is 0.5 seconds and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM -1706933151 655905560:Ragged Felt Cloak\/a
 categories:
 - Arcane Recovery (Equipment)

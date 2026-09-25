@@ -15,7 +15,8 @@ stats:
   potency: '9.6'
   aspeed: '14.1'
   dps: '23.1'
-effects: '**Major Bolstering Roar**'
+effect_name: Major Bolstering Roar
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Major Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Major Bolstering Roar on the group.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -285155935 -1025641812:Badge of the Rallosian Lieutenant\/a
 categories:
 - Assassin Equipment

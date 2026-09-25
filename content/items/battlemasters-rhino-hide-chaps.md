@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Leather Armor
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 169.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Mirg Nel'Ron]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM -1199959883 1366557743:Battlemaster's Rhino Hide Chaps\/a
 categories:

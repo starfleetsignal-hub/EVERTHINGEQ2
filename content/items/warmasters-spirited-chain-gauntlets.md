@@ -15,7 +15,8 @@ stats:
   potency: '9.3'
   dps: '20.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 469943318 -245798799 0 0 0:Warmaster's Spirited Chain Gauntlets\/a
 categories:
 - Census Credits

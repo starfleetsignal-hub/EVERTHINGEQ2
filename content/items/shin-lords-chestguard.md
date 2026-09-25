@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dtype: Plate Armor
-effects: '**Toxic Backlash**'
+effect_name: Toxic Backlash
+effects: "- When Equipped:\n  - Wards caster against 485 points of noxious damage\n  - When any noxious damage is received this spell will cast Toxic Backlash on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 243 poison damage on target.\n    - Inflicts 243 disease damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of disease or poison abilities."
 item_link: \aITEM -2001047919 1340510188:Shin Lord's Chestguard\/a
 categories:
 - Ability Modifier (Equipment)

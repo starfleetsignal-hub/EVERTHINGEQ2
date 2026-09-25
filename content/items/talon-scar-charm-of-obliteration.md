@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   abmod: +3782,255
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1040410645 558539493:Talon Scar Charm of Obliteration\/a
 categories:
 - Ability Modifier (Equipment)

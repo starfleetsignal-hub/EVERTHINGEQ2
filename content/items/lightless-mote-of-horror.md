@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,895
   mitinc: '21.1'
-effects: '**Enmitic Escalation**<br>**Entwined Enmity**'
+effect_name: Enmitic Escalation, Entwined Enmity
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Enmitic Escalation on caster.  Lasts for 30.0 seconds.\n    - Builds charges of Enmitic Escalation.\n    - Cannot be modified except by direct means\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n- Applies Entwined Enmity when Activated.  Lasts for 15.0 seconds.\n  - Heals group members for 30.0% of caster's max health.\n  - Heals group members for 7.5% of caster's max health every 7.5 seconds.\n    - This effect cannot be critically applied.\n  - Increases Max Health of group members by 15.0%.\n  - Requires 25 stacks of Enmitic Escalation to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Entwined Enmity is 2.0 seconds and the reuse time of the spell is 2 minutes"
 item_link: \aITEM -31040323 -2110517700:Lightless Mote of Horror\/a
 categories:
 - Ability Modifier (Equipment)

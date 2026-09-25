@@ -21,7 +21,8 @@ stats:
   drating: '153.9'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM -1010566637 587103833 0 0 0:Ulthork's Thorny Claws\/a
 categories:
 - Ability Modifier (Equipment)

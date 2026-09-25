@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   mitinc: '5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 38.0."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -2085377107 -1608807064 0 0 0:Void Knight's Darksteel Gauntlets\/a
 categories:

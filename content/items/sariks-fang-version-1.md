@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Lethargy on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases DPS of target by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -58996664 1221027198:Sarik's Fang\/a
 image: images/Sarik's_Fang.jpg
 categories:

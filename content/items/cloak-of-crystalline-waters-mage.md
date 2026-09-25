@@ -14,7 +14,8 @@ stats:
   critbonus: '2.8'
   potency: '12.6'
   aspeed: '20.3'
-effects: '**Summon Crystalline Waters**<br>**Water Breathing**'
+effect_name: Summon Crystalline Waters, Water Breathing
+effects: "- Applies Summon Crystalline Waters when Activated.\n  - Summon 1 Globe of Crystalline Waters\n  - The casting time of Summon Crystalline Waters is 3.0 seconds and the reuse time of the spell is 1 hour\n- Applies Water Breathing when Equipped.\n  - Allows caster to breathe under water"
 obtained_from: 'Heritage quest reward: [[Waters of Norrath]]'
 item_link: \aITEM 1906147045 -1393297205:Cloak of Crystalline Waters\/a
 categories:

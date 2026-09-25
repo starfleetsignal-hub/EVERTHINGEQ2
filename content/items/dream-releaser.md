@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Obliterate**'
+effect_name: Obliterate
+effects: "- Applies Obliterate when Activated.\n  - Inflicts 411,600 crushing damage on targets in Area of Effect.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Obliterate is 30.0 seconds"
 item_link: \aITEM -954386551 1795147662:Dream Releaser\/a
 categories:
 - AE Autoattack Chance (Equipment)

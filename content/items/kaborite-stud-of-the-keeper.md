@@ -18,7 +18,8 @@ stats:
   vselemental: +3,906
   vsarcane: +3,906
   vsnoxious: +3,906
-effects: '**Solid Reflexes**'
+effect_name: Solid Reflexes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Solid Reflexes on caster. Lasts for 10.0 seconds. Triggers about 2.0 times pers minute.\n  - Increases Ability Reuse Speed of caster by 5.0%\n  - Cannot be modified except by direct means"
 image: images/Kaborite_Stud_of_the_Keeper.jpg
 categories:
 - Arcane Resistance (Equipment)

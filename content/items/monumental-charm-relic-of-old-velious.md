@@ -17,7 +17,8 @@ stats:
   critbonus: 1,338.9
   potency: 44,349.8
   resolve: '535'
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 255924186 854283439:Monumental Charm, Relic of Old Velious\/a
 categories:
 - Assassin Equipment

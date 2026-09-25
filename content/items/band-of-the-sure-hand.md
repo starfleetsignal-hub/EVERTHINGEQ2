@@ -16,7 +16,8 @@ stats:
   abmod: +1,591
   aspeed: '18'
   vselemental: +29,521
-effects: '**Staggered Combination**'
+effect_name: Staggered Combination
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 10.0.\n  - Increases Crit Bonus of caster by 22.0.\n  - Increases Potency of caster by 48.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1731333665 306088602:Band of the Sure Hand\/a
 categories:
 - Ability Modifier (Equipment)

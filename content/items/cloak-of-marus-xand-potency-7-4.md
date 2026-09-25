@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   strike: '10.8'
   dps: '16.6'
-effects: '**Solid Reflexes**'
+effect_name: Solid Reflexes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Solid Reflexes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of caster by 3.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1349191604 -519568680:Cloak of Marus Xand\/a
 categories:
 - Assassin Equipment

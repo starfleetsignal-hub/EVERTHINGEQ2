@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Frontline Healing**'
+effect_name: Frontline Healing
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Frontline Healing IV on target.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the value of heals and wards by 14% per increment. Increments up to 5 times, if at 1 increment.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 783825130 -628211797:Bronze Stud of the Obscene\/a
 categories:
 - Arcane Resistance (Equipment)

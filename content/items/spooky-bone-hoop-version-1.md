@@ -15,7 +15,8 @@ stats:
   potency: '2.4'
   abmod: '+52'
   vsarcane: '+280'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 30."
 item_link: \aITEM -1866221713 -2145098532:Spooky Bone Hoop\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '14.4'
   vselemental: +33,491
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 item_link: \aITEM 1752617304 -1529773624:Nova-Prime Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

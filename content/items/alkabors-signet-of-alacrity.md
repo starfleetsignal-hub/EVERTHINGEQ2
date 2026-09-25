@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 obtained_from: '[[The Footsteps of Dartain: Ascension]]'
 item_link: \aITEM 45465743 -1080800690:Al'Kabor's Signet of Alacrity\/a
 categories:

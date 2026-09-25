@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Plate Armor
-effects: '**Parsimonious Healing**'
+effect_name: Parsimonious Healing
+effects: "- When Equipped:\n  - Reduces power cost of healing spells by 5%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -590845115 1127254540 0 0 0:Pious Steel Breastplate\/a
 categories:

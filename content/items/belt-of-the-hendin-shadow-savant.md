@@ -15,7 +15,8 @@ stats:
   critbonus: '6.8'
   potency: '11.2'
   abmod: '+431'
-effects: '**Major Rain of Blades**'
+effect_name: Major Rain of Blades
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Major Rain of Blades on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 4,429 - 4,895 slashing damage on target encounter.\n    - Inflicts 633 - 699 slashing damage on target encounter every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1376541000 1158045483:Belt of the Hendin Shadow Savant\/a
 categories:
 - Ability Modifier (Equipment)

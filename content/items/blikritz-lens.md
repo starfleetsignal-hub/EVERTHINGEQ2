@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   potency: '0.2'
   dps: '0.8'
-effects: '**Cold Stare**'
+effect_name: Cold Stare
+effects: "- Applies Cold Stare when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 20 - 24 cold damage on target every 4 seconds.\n  - The casting time of Cold Stare is 3.0 seconds and the reuse time of the spell is 6.0 seconds"
 item_link: \aITEM -2089075247 -932286182:Blikritz' Lens\/a
 categories:
 - Assassin Equipment

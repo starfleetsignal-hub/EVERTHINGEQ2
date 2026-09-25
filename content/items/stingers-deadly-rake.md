@@ -22,7 +22,8 @@ stats:
   drating: '216.5'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1525767911 -987166346:Stinger's Deadly Rake\/a
 image: images/Stinger's_Deadly_Rake.png
 categories:

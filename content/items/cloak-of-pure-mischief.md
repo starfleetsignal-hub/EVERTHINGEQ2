@@ -15,7 +15,8 @@ stats:
   potency: '13.3'
   aspeed: '16.2'
   multi: '22.7'
-effects: '**Bristlebanes Resourcefulness**'
+effect_name: Bristlebanes Resourcefulness
+effects: "- When Equipped:\n  - Increases WIS of caster by 55.0.\n  - Increases Crit Bonus of caster by 4.0.\n  - Increases Potency of caster by 4.0.\n  - Increases Max Health of caster by 2,250.0.\n  - Increases Ministration and Ordination of caster by 45.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1673026896 1842088592 0 0 0:Cloak of Pure Mischief\/a
 categories:
 - Attack Speed (Equipment)

@@ -16,7 +16,8 @@ stats:
   abmod: '+208'
   dps: '79'
   dtype: Cloth Armor
-effects: '**Pentamerous Decimation**'
+effect_name: Pentamerous Decimation
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM -378390661 -63706766 0 0 0:Hydra Hide Gloves\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '8.7'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 33 - 61 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2059000074 -1185522123:Imbued Blackened Iron Mace\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   abmod: '+167'
   dps: '12.9'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 126543298 230184253:Brain of Bahvrain\/a
 categories:
 - Ability Modifier (Equipment)

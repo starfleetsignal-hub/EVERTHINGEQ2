@@ -8,7 +8,7 @@ flags: lore no-trade
 stats:
   charges: 1/1
   casting: (varies, see notes)
-effects: Power roots
+effects: '- Increases power of caster by (varies)'
 obtained_from: A [[Carnivorous Plant]].
 categories:
 - Assassin Equipment

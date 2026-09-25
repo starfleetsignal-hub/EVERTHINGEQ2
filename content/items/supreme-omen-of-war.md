@@ -15,7 +15,8 @@ stats:
   potency: '12.6'
   multi: '44.2'
   dtype: Symbols
-effects: '**Omens of War**'
+effect_name: Omens of War
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Omens of War on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Applies Omens of War.  Lasts for 12.0 seconds.\n      - Heals group members (AE) for 1,792 instantly and every 4 seconds.\n      - Increases power of group members (AE) by 149 instantly and every 4 seconds.\n      - Cannot be modified except by direct means\n    - Inflicts 8,918 heat damage on target instantly and every 4 seconds.\n    - Inflicts an additional 2,744 heat damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1165461417 -338221603:Supreme Omen of War\/a
 categories:
 - Casting Speed (Equipment)

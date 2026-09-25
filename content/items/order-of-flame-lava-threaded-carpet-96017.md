@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Unroll the Lava-threaded Flying Carpet
+effects: "- Applies Unroll the Lava-threaded Flying Carpet when Activated.\n  - Reduces the maximum falling speed of caster\n  - Summons a mount to ride.\n    - Increases your ground speed by 130%\n  - Increases Out-of-Combat Power Regeneration Per tick of caster by 90\n  - Increases Out-of-Combat Health Regeneration Per Tick of caster by 90\n  - Increases spell damage, heal amount and melee damage by 15.0"
 obtained_from: Sold by [[Spark]] (Faction Merchant) in [[Lavastorm]] for 6p
 item_link: \aITEM -99646933 2011819571:an Order of Flame lava-threaded flying carpet\/a
 aliases:

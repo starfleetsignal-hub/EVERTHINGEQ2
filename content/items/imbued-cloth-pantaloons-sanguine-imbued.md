@@ -12,7 +12,8 @@ stats:
   int: '+10'
   mit: '72'
   dtype: Cloth Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 78 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2020348980 -50275507:Imbued Cloth Pantaloons\/a
 categories:
 - Assassin Equipment

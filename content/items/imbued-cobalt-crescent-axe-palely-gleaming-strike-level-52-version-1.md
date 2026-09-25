@@ -18,7 +18,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 149 - 277 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1477676739 234109474:imbued cobalt crescent axe\/a
 aliases:
 - Imbued cobalt crescent axe (Palely Gleaming Strike) (Level 52)

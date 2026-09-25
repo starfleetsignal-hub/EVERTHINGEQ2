@@ -17,7 +17,8 @@ stats:
   resolve: '6'
   aspeed: '179.1'
   dtype: Chain Armor
-effects: '**Psionic Aura**'
+effect_name: Psionic Aura
+effects: "- Applies Psionic Aura when Equipped.\n  - The Intact Psionist Helm emits an aura which allows the wearer to present themselves as a psionist."
 obtained_from: Crafted by [[Artisan]] (level 100) from [[Crowning Achievements of the Deepforge Founders]]
 item_link: \aITEM 228460174 -379259177:Intact Chainlink Psionist's Crown\/a
 categories:

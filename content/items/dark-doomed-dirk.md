@@ -21,7 +21,8 @@ stats:
   drating: '70.92'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Lesser Energy Drain**'
+effect_name: Lesser Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 82.\n    - Increases power of caster by 75.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -551005534 2042497749:Dark Doomed Dirk\/a
 categories:
 - Assassin Equipment

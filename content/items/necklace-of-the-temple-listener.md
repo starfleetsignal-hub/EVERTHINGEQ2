@@ -17,7 +17,8 @@ stats:
   aspeed: '35.2'
   dps: '27'
   multi: '19.4'
-effects: '**Pact of Constitution**'
+effect_name: Pact of Constitution
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 4.2 and health by 1,800 for each member of their group or raid."
 item_link: \aITEM -1889233627 -671721450:Necklace of the Temple Listener\/a
 image: images/Necklace_of_the_Temple_Listener.png
 categories:

@@ -16,7 +16,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Leather Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 80) from [[Ancient Knowledge: Glorified Bracers of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 854413301 1403308536:Glorified Bracers of Synergism\/a
 categories:

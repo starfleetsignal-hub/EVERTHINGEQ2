@@ -15,7 +15,8 @@ stats:
   resolve: '2'
   aspeed: '35.2'
   vselemental: +28,613
-effects: '**Staggered Combination**'
+effect_name: Staggered Combination
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 10.0.\n  - Increases Crit Bonus of caster by 22.0.\n  - Increases Potency of caster by 48.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1018638379 -1490006751:Bingling Thrice Ring\/a
 categories:
 - Arcane Resistance (Equipment)

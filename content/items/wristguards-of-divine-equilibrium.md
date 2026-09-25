@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   vselemental: +1,395
-effects: '**Slayer''s Conviction**'
+effect_name: Slayer's Conviction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Slayer's Conviction on caster.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 30.0.\n    - Increases DPS of caster by 30.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1445788471 -988311750:Wristguards of Divine Equilibrium\/a
 categories:
 - AE Autoattack Chance (Equipment)

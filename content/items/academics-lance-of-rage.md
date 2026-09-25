@@ -24,7 +24,8 @@ stats:
   drating: '567.3'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 1.1%.\n    - Inflicts 2,054 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 110) from [[Advanced Weaponsmith Studies 08]]
 item_link: \aITEM 402055534 -403775556:Academic's Lance of Rage\/a
 categories:

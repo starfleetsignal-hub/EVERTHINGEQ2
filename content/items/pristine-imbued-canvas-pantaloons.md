@@ -14,7 +14,7 @@ stats:
   power: '+20'
   mit: '38'
   dtype: Cloth Armor
-effects: Sanguine Imbued
+effects: "- Applied Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 62 heat damage on target"
 obtained_from: Crafted by [[Tailor]] (level 22) from [[Tailor Essentials Volume 22]]
 categories:
 - Cloth Armor (Equipment Type)

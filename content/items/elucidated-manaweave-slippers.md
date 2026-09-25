@@ -17,7 +17,7 @@ stats:
   vselemental: +1,162
   vsnoxious: '+664'
   dtype: Cloth Armor
-effects: Greater Omission
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cast Greater Omission on target of spell.  This effect will trigger an average of 2.0 times per minute.\n    - Decreases Threat to target encounter by 1,300"
 obtained_from: Crafted by [[Armorer]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] or Sold by [[A mysterious Quellthulian]] (Merchant) in [[Moors of Ykesha]]
 image: images/Elucidated_Manaweave_Slippers.jpg
 categories:

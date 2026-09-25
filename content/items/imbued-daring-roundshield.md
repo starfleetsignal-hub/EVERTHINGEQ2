@@ -16,7 +16,7 @@ stats:
   critbonus: '2.5'
   vselemental: '+930'
   dtype: Round Shield
-effects: Stigmatic Frenzy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Stigmatic Frenzy on the group. Lasts for 10.0 seconds. Triggers about 2.0 times per minute.\n    - Increases potency of all abilities by 5.0%.\n    - Cannot be modified except by direct means"
 obtained_from: Drops from any rare named mob in Sentinel's Fate heroic instances
 item_link: \aITEM -2088392898 -1894722403:[Imbued Daring Roundshield]\/a
 image: images/[[File:Imbued_Daring_Roundshield.jpeg]]

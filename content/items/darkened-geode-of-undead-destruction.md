@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Undead Destruction**'
+effect_name: Undead Destruction
+effects: "- Applies Undead Destruction II when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 36,300 disease damage on targets in Area of Effect instantly and every second.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Undead Destruction II is 30.0 seconds"
 item_link: \aITEM 741084003 -1782815390:Darkened Geode of Undead Destruction\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM 2056978518 1143665669 0 0 0:Darkthread Gloves of Rift Evocation\/a
 categories:
 - Arcane Recovery (Equipment)

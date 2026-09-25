@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 4.0.\n    - Increases Disruption, Subjugation and Focus of caster by 2.3.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (Normal)]] *Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (No-Trade)]]'
 item_link: \aITEM 340706488 2114992066:Imbued Coral Ring of Intelligence\/a
 categories:

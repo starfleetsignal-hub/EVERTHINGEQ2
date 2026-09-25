@@ -14,7 +14,8 @@ stats:
   critbonus: '30'
   potency: '30'
   mitinc: '6'
-effects: '**Circle of Intimidation**'
+effect_name: Circle of Intimidation
+effects: "- Applies Circle of Intimidation when Activated.  Lasts for 8.0 seconds.\n  - Applies Circle of Intimidation.\n    - Increases threat priority of targets in Area of Effect by 3 positions\n    - Increases Threat to targets in Area of Effect by 31,954 - 38,908\n  - Reduces all damage done to caster by 40%.\n  - Shares a reuse with Warforce and Sacred Knight\n  - Cannot be modified except by direct means\n  - The casting time of Circle of Intimidation is 0.25 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM -928593996 -215720994:Malice of Lanys\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   vselemental: '+360'
-effects: '**Thought Retrieval**'
+effect_name: Thought Retrieval
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Thought Retrieval on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 53 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Standards of the Goblin Tribes]]'
 item_link: \aITEM -710755316 -1421803246:Idol of the Ankexfen\/a
 image: images/Idol_of_the_Ankexfen.jpg

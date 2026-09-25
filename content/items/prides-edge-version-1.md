@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Call of the Pride**'
+effect_name: Call of the Pride
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Summon the Pride on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Summons 2 limited pets to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1911435692 410266974:Pride's Edge\/a
 categories:
 - Ability Modifier (Equipment)

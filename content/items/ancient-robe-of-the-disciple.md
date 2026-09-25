@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   multi: '7.8'
   dtype: Cloth Armor
-effects: '**Bolt of the Disciple**'
+effect_name: Bolt of the Disciple
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Bolt of the Disciple on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,166 - 1,426 magic damage on target.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases Crit Bonus of caster by 5.0.\n    - Increases Potency of caster by 5.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1687672842 1486648307:Ancient Robe of the Disciple\/a
 categories:
 - Ability Modifier (Equipment)

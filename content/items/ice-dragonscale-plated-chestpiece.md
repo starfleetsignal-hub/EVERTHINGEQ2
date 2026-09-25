@@ -17,7 +17,8 @@ stats:
   strike: '12.2'
   abmod: '+217'
   dtype: Plate Armor
-effects: '**Ambition**'
+effect_name: Ambition
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ambition on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Ability Mod of target by 480.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -107357300 586506303:Ice Dragonscale Plated Chestpiece\/a
 categories:
 - Ability Modifier (Equipment)

@@ -12,7 +12,8 @@ stats:
   sta: '+7'
   mit: '121'
   dtype: Plate Armor
-effects: '**Intuition**'
+effect_name: Intuition
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 5.2.\n  - This effect suspends during combat"
 item_link: \aITEM 850079441 -1022237623:Black Tainted Gloves\/a
 categories:
 - Berserker Equipment

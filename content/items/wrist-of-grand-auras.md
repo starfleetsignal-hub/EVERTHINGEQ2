@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Aura Share**'
+effect_name: Aura Share
+effects: "- When Equipped:\n  - Increases Potency by 14% per mage in the wearer's raid, up to 84%\n  - Increases Crit Bonus by 14% per scout in the wearer's raid, up to 84%\n  - Increases Heal Received by 2% per priest in the wearer's raid, up to 12%\n  - Increases maximum health by 25,000 per fighter in the wearer's raid, up to 150,000"
 item_link: \aITEM 2125795534 1655312343:Wrist of Grand Auras\/a
 categories:
 - Arcane Resistance (Equipment)

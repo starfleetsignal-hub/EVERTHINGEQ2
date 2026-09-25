@@ -15,7 +15,8 @@ stats:
   drating: '21.32'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 101 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -835321312 -1782154925:imbued steel halberd\/a
 categories:
 - Berserker Equipment

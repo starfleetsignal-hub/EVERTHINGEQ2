@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Stinging Swarm**'
+effect_name: Stinging Swarm
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Stinging Swarm on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 67 magic damage on target instantly and every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1661709365 385280992:Blade of the Swarm\/a
 categories:
 - Ability Modifier (Equipment)

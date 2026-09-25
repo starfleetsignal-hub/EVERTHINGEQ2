@@ -20,7 +20,8 @@ stats:
   cbovercap: '+72.4'
   mitinc: '27.2'
   dtype: Symbols
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,726 heat damage on target.\n    - Inflicts 3,726 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 112) from [[Weaponsmith's Primer Volume 12]]
 item_link: \aITEM 2134387740 -539558407:Veilwalker's Symbol of Fortitude\/a
 categories:

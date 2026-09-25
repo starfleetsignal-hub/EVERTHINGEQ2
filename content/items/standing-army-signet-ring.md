@@ -16,7 +16,8 @@ stats:
   abmod: '+835'
   dps: '28.8'
   vselemental: +33,491
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 70%-150%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 191704853 -314559504:Standing Army Signet Ring\/a
 categories:
 - Ability Modifier (Equipment)

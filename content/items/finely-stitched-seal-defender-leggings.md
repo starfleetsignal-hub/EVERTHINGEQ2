@@ -16,7 +16,8 @@ stats:
   potency: '5.8'
   aspeed: '7.9'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Sold by [[Supply Master Essa'Mae]] (Faction Merchant) in [[The Hole]]<br>Requires 40,000 faction with Defenders of the Seal
 item_link: \aITEM 926735809 -1170481867:Finely Stitched Seal Defender Leggings\/a
 categories:

@@ -18,7 +18,9 @@ stats:
   multi: '14.5'
   flurry: '6.2'
   dtype: Chain Armor
-effects: '**Pestilential Rain**<br>**Epitaph of Velocity**'
+effect_name: Pestilential Rain, Epitaph of Velocity
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,664 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Epitaph of Velocity on caster.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Reuse Speed of caster by 10.0%.\n    - Increases Casting Speed of caster by 10.0%.\n    - Increases in-combat movement speed of caster by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Epitaph of Velocity on caster.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Reuse Speed of caster by 10.0%.\n    - Increases Casting Speed of caster by 10.0%.\n\
+  \    - Increases in-combat movement speed of caster by 10.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Inexorable Tunic]]
 item_link: \aITEM -718419234 -1077442787:Thug's Hauberk of the Citadel\/a
 categories:

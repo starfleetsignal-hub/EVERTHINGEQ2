@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Improved Restoration**'
+effect_name: Improved Restoration
+effects: "- Applies Improved Restoration II when Activated.  Lasts for 10.0 seconds.\n  - Increases healing received of the target group member by 68%\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Improved Restoration II is 2 minutes"
 item_link: \aITEM 428571512 -1690045560:Restorative Archaic Idol\/a
 categories:
 - Attack Speed (Equipment)

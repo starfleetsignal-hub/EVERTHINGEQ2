@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +21,632
-effects: '**Radiating Flames**'
+effect_name: Radiating Flames
+effects: "- When Equipped:\n  - Inflicts 360,000 heat damage to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -294201788 858453365:Vehement Band of Interception\/a
 categories:
 - Ability Modifier (Equipment)

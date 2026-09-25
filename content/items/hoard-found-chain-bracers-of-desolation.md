@@ -18,7 +18,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1699589220 -776462219:Hoard Found Chain Bracers of Desolation\/a
 categories:
 - Assassin Equipment

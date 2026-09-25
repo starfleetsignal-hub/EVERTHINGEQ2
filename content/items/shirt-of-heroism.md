@@ -12,7 +12,8 @@ stats:
   agi: '+5'
   mit: '25'
   dtype: Cloth Armor
-effects: '**Stifling Feedback Glyph**'
+effect_name: Stifling Feedback Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Stifling Feedback on target's attacker.  Lasts for 2.5 seconds.\n    - Stifles target\n    - Epic targets gain an immunity to Stifle effects of 7.5 seconds and duration is reduced to 0.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1899240663 1877950037:Shirt of Heroism\/a
 categories:
 - Assassin Equipment

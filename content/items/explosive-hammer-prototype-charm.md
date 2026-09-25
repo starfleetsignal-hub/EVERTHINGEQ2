@@ -10,7 +10,10 @@ stats:
   charges: 5/5
   casting: '2.0'
   recast: '1.0'
-effects: Explosive Hammer
+effects: 'Applies Explosive Hammer when Activated.
+
+
+  - Cannot be modified except by direct means.'
 obtained_from: Given by [[Charles Q Tinkersmith]] in [[Maldura]].
 used_in_quest: '[[You Only Test Twice]]'
 item_link: \aITEM 1863841547 467823028 0 0 0:[Explosive Hammer Prototype]\/a

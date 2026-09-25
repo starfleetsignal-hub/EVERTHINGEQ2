@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '30'
   potency: '30'
-effects: '**Warring Protector**'
+effect_name: Warring Protector
+effects: "- Applies Warring Protector when Activated.\n  - Increases Max Health of raid and group members (AE) by 5.0%.\n  - Cannot be modified except by direct means\n  - The casting time of Warring Protector is 0.5 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM -1042522935 369936110:Sigil of the War Prince\/a
 categories:

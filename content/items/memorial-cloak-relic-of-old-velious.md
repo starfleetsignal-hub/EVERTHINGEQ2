@@ -17,7 +17,8 @@ stats:
   critbonus: 1,332.5
   potency: 43,342.7
   resolve: '525'
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 434.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -792411575 -769320538:Memorial Cloak, Relic of Old Velious\/a
 categories:
 - Assassin Equipment

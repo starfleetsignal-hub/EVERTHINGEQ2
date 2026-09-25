@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   flurry: '39.5'
   mitinc: '21.1'
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 9.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1690899310 1454533426:Prince's Drape\/a
 categories:
 - Aegis of Animosity (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '0.5'
   dps: '2.2'
   vsarcane: '+130'
-effects: '**Call of the Prime**'
+effect_name: Call of the Prime
+effects: "- Applies Call of the Prime V when Activated.  Lasts for 12.0 seconds.\n  - Applies Prime Focus V on termination.  Lasts for 15.0 seconds.\n    - Increases Potency of group members (AE) by 4.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Effectiveness of heals and wards by 15%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Call of the Prime V is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 50) from [[Ancient Knowledge: Radiant Earring of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 735992475 -1262587909:Radiant Earring of Solace\/a
 categories:

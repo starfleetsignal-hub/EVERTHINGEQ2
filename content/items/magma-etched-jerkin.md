@@ -17,7 +17,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Leather Armor
-effects: '**Wildly Uncontrolled Healing**'
+effect_name: Wildly Uncontrolled Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Wildly Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 299.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell may cast Wildly Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 299.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Gladiator''s Vest Mold]] *Made from [[Elemental Gladiator''s Vest Pattern]]'
 item_link: \aITEM 1686982585 -788907827 0 0 0:Magma-Etched Jerkin\/a
 categories:

@@ -12,7 +12,8 @@ stats:
   agi: '+11'
   mit: '123'
   dtype: Leather Armor
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 16.5.\n  - This effect suspends during combat"
 item_link: \aITEM 2139307355 -249832310:Tunic of the Fallen Soldier\/a
 categories:
 - Assassin Equipment

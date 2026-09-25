@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   strike: '8.5'
-effects: '**Miner''s Strike**'
+effect_name: Miner's Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Miner's Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 778 - 950 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1914472713 -1946834354 0 0 0:Charm of Brell Serilis\/a
 categories:
 - Assassin Equipment

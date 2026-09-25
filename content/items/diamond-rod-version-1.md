@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   aspeed: '5.5'
   dps: '10.3'
-effects: '**Diamond Dust**'
+effect_name: Diamond Dust
+effects: "- Applies Diamond Dust when Activated.\n  - Emits sparkling motes of pure diamond dust from the caster's skin. Known to invoke disgust in nearby adventurers.\n  - The casting time of Diamond Dust is 0.5 seconds and the reuse time of the spell is 1.0 second"
 item_link: \aITEM 1194488106 -1678823637:Diamond Rod\/a
 categories:
 - Assassin Equipment

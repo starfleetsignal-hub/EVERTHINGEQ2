@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.8'
   abmod: '+71'
-effects: '**Manaweave**'
+effect_name: Manaweave
+effects: "- When Equipped:\n  - On a hit this spell may cast Manaweave on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 107 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1051991351 -1432151752:Cloak of Woven Leaves\/a
 categories:
 - Ability Modifier (Equipment)

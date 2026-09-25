@@ -18,7 +18,8 @@ stats:
   drating: '44.35'
   dtype: Two-Handed Crushing
   wtype: Mace
-effects: '**Earthquake**'
+effect_name: Earthquake
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Earthquake on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 92 crushing damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1225743406 -83551990:Hierophant's Crook\/a
 categories:
 - Assassin Equipment

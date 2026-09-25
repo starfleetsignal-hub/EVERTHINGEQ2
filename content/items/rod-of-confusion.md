@@ -18,7 +18,8 @@ stats:
   drating: '41.89'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Confusing Impact**'
+effect_name: Confusing Impact
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Confusing Impact on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.8 times per minute.\n    - Throws target back\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 549313778 1843381689:Rod of Confusion\/a
 categories:
 - Ability Modifier (Equipment)

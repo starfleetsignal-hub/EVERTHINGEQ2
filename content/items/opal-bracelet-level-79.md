@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   dps: '9.7'
   vsnoxious: '+356'
-effects: '**Arcane Recovery**<br>**Sorcerous Alacrity**'
+effect_name: Arcane Recovery, Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent.\n- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM -1653723550 -1712416272:Opal Bracelet\/a
 image: images/Opal_Bracelet.jpg
 categories:

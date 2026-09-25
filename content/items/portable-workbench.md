@@ -8,7 +8,7 @@ slot: Charm
 flags: Ornate
 stats:
   charges: 5/5
-effects: Portable Workbench
+effects: "- Applies **Portable Workbench** when activated, lasts for 5 minutes\n  - Summons a [[Work Bench]]\n  - This effect cancels during combat"
 obtained_from: Made with Tinkering (skill 235) from [[Experimenter's Blueprints 0.002]].
 categories:
 - Alchemist Equipment

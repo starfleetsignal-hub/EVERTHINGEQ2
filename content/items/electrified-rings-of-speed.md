@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   dps: '5.7'
   dtype: Chain Armor
-effects: '**Lightning Limbs**'
+effect_name: Lightning Limbs
+effects: "- When Equipped:\n  - Increases Haste of caster by 21.0."
 item_link: \aITEM 113605730 -444435084:Electrified Rings of Speed\/a
 categories:
 - Assassin Equipment

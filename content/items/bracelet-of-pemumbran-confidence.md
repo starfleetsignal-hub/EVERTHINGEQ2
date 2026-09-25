@@ -16,7 +16,8 @@ stats:
   dps: '28.8'
   vselemental: +33,491
   mitinc: '7.9'
-effects: '**Confidence**'
+effect_name: Confidence
+effects: "- When Equipped:\n  - Increases the wearer's worn armor mitigation and block chance by 10.  This effect increases to 22 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM -353534442 -1819283381:Bracelet of Pemumbran Confidence\/a
 categories:
 - Arcane Resistance (Equipment)

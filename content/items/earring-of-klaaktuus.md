@@ -16,7 +16,8 @@ stats:
   abmod: '+203'
   dps: '17.3'
   vsarcane: '+511'
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,192 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1385406602 1690990328:Earring of Klaaktuus\/a
 categories:
 - Ability Modifier (Equipment)

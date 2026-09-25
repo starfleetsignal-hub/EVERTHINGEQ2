@@ -25,7 +25,8 @@ stats:
   drating: '478.72'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,787 heat damage on target.\n    - Inflicts 3,787 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1221138869 -498487686:Shadowbolt Axe of Force\/a
 categories:
 - Ability Modifier (Equipment)

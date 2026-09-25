@@ -12,7 +12,8 @@ stats:
   agi: '+60'
   crit: '8'
   multi: '8'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1201108248 -1628178779:Discord's Brutallic Eye-trophy Stud\/a
 categories:
 - Assassin Equipment

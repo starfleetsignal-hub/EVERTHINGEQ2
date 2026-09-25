@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+217'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 21.5.\n    - Increases Ordination, Ministration and Focus of caster by 12.1.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 66) from [[Advanced Jeweler Volume 66 (no-value)]] *Crafted by [[Jeweler]] (level 66) from [[Advanced Jeweler Volume 66 (Uncommon)]]'
 item_link: \aITEM -1047549123 -678156209:Imbued Moonstone Ring of Wisdom\/a
 categories:

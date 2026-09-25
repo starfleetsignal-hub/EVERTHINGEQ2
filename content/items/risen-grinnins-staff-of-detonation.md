@@ -18,7 +18,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Glyph of Detonation**'
+effect_name: Glyph of Detonation
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Detonation on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 135 - 225 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 837310267 1127319507:Risen Grinnin's Staff of Detonation\/a
 categories:
 - Beastlord Equipment

@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   abmod: +4120,106
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -406122449 -1576114859:Ossuary Nocturne Chausses\/a
 categories:
 - Ability Modifier (Equipment)

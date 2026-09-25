@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   dps: '165.2'
   dtype: Chain Armor
-effects: '**Mastery of Nightmares**'
+effect_name: Mastery of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated Baliath, Harbinger of Nightmares."
 obtained_from: From [[Satchel of the Harbinger]]
 item_link: \aITEM -318487970 -469234481:Exemplar Tormented Bracers\/a
 categories:

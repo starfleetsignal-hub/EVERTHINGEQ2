@@ -18,7 +18,8 @@ stats:
   resolve: '29'
   aspeed: '65.6'
   mitinc: '17'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 6.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 596401464 234420179:Bangle of Vile Chops\/a
 categories:
 - Assassin Equipment

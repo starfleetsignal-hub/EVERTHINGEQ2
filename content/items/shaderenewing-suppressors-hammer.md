@@ -23,7 +23,8 @@ stats:
   drating: '400.38'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Equalize**'
+effect_name: Equalize
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,605 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 obtained_from: Sold by [[Magdalen Gemdawn]] in [[Sanctus Seru (City)]]
 item_link: \aITEM -1101511727 -1642344432:Shaderenewing Suppressor's Hammer\/a
 categories:

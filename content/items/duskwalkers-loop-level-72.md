@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+80'
   vselemental: '+338'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 obtained_from: '[[Charm Unlike Any Other]]'
 item_link: \aITEM -465671471 -254152937:Duskwalker's Loop\/a
 categories:

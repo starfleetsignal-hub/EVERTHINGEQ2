@@ -15,7 +15,8 @@ stats:
   potency: '12'
   multi: '4'
   dtype: Chain Armor
-effects: '**Sparkling Shield**'
+effect_name: Sparkling Shield
+effects: "- When Equipped:\n  - When damaged this spell has a 6% chance to cast Sparkling Shield on caster.  Lasts for 20.0 seconds.\n    - Wards target against 1,000 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of Baast]] (Sisters of war) in [[Multiple Zones]]
 item_link: \aITEM 695431258 -1184661152:Challenger's Brutallic Chain Shoulderguards\/a
 image: images/Challenger's_Brutallic_Chain_Shoulderguards.jpg

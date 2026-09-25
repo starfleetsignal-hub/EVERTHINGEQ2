@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Aura of Pain**'
+effect_name: Aura of Pain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Bolt of Pain on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 139 - 257 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -217780807 -606248557:Combine War Satchel\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   dps: '12'
   vselemental: '+395'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 1867521398 -736739992:Silver-Tinged Bangle\/a
 categories:
 - Arcane Recovery (Equipment)

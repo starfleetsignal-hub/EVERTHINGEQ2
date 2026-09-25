@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Ancient Glyph of Poison**'
+effect_name: Ancient Glyph of Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Poison on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 61 - 75 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1983189300 -302089757:Scourge of the Jungle\/a
 categories:
 - Ancient Glyph of Poison (Equipment)

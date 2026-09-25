@@ -19,7 +19,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 188 - 281 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1537146005 1771537405:shaped imbued ebony knotted club\/a
 categories:
 - Attack Speed (Equipment)

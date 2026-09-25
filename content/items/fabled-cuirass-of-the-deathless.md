@@ -19,7 +19,8 @@ stats:
   cbovercap: '+198.2'
   mitinc: '39.6'
   dtype: Chain Armor
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1137679805 249020380:Fabled Cuirass of the Deathless\/a
 categories:
 - Assassin Equipment

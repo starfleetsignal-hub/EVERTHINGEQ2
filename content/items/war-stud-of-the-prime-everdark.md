@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   vsarcane: '+400'
-effects: '**Ward of the Everdark**'
+effect_name: Ward of the Everdark
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Ward of the Everdark on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 900 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Najena''s Lab Equipment]]'
 item_link: \aITEM 918640589 -1109302768:War Stud of the Prime Everdark\/a
 categories:

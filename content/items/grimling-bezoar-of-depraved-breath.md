@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Divine Breath**'
+effect_name: Divine Breath
+effects: "- Applies Divine Breath V when Activated.  Lasts for 10.0 seconds.\n  - Dispels 114 levels of any hostile effects on group members (AE)\n  - Increases Potency of caster by 12.0.\n  - This effect can be used while stifled, stunned or feared\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Breath V is 55.0 seconds"
 item_link: \aITEM 1479036791 -1814261017:Grimling Bezoar of Depraved Breath\/a
 categories:
 - Attack Speed (Equipment)

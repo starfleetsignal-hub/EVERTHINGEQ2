@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +10,660
   mitinc: '6'
-effects: '**Dreadnaught''s Redirection**'
+effect_name: Dreadnaught's Redirection
+effects: "- When Equipped:\n  - When damaged this spell will cast Dreadnaught's Redirection on caster.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency of caster by 15.0.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1304012104 -1479246895:Overseer's Ring of the Grimstone\/a
 categories:
 - AE Autoattack Chance (Equipment)

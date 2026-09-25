@@ -15,7 +15,8 @@ stats:
   potency: '2.7'
   abmod: '+64'
   dps: '8.4'
-effects: '**D''Raethe''s Seething Hatred**'
+effect_name: D'Raethe's Seething Hatred
+effects: "- When Equipped:\n  - On a hit this spell may cast D'Raethe's Seething Hatred on target of attack.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 1,268\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1689236626 514476827:Cape of the Vikomt\/a
 categories:
 - Ability Modifier (Equipment)

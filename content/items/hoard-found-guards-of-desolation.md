@@ -18,7 +18,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1986649075 1175168650:Hoard Found Guards of Desolation\/a
 categories:
 - Census Credits

@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   multi: '8.1'
   vsarcane: '+400'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Earring of Pulsing Magma]], [[Ensnaring Earring]] and 1p 50g
 item_link: \aITEM 574110859 1407268343 0 0 0:Imbued Earring of Flowing Magma\/a
 categories:

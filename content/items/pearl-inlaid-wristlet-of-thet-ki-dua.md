@@ -17,7 +17,8 @@ stats:
   resolve: '670'
   abmod: +5295,157
   vselemental: +450,563
-effects: '**Grasp of Thet**'
+effect_name: Grasp of Thet
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 35.0.\n    - If NOT Fighter.\n  - Increases Hate Gain of caster by 35.0.\n    - If Fighter.\n  - Increases in-combat movement speed of caster by 35.0%.\n  - Increases Potency of caster by 29,032.6.\n  - You must be within a Rage of Cthurath Raid or Untold Dungeon zone for this effect to apply."
 item_link: \aITEM 182986700 1453693546:Pearl-Inlaid Wristlet of Thet-ki-dua\/a
 categories:
 - Ability Modifier (Equipment)

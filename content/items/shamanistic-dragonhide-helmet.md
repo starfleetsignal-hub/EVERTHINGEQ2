@@ -15,7 +15,8 @@ stats:
   critbonus: '6.5'
   potency: '10.8'
   dtype: Chain Armor
-effects: '**Seraph''s Recovery**<br>**Visionary Mending**'
+effect_name: Seraph's Recovery, Visionary Mending
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Seraph's Recovery on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Spell Reuse Speed of caster by 5.0%.\n    - Increases Casting Speed of caster by 15.0%.\n    - Increases Reuse Speed of caster by 15.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the caster's heals and wards by 8%."
 obtained_from: '*Crafted by [[Artisan]] (level 92) from [[Draconic Knowledge: Shamanistic Dragonhide Helmet]] *Made from [[A Bloody Prime Drakota Eye]] *Made from [[Prime Dragon Hide]] *Made from [[Prime Skyshrine Golem Core]]'
 item_link: \aITEM 1687325795 -1486861744:Shamanistic Dragonhide Helmet\/a
 categories:

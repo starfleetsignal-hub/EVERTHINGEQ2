@@ -20,7 +20,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Cold Swelter**'
+effect_name: Cold Swelter
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cold Swelter on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 464 - 567 heat damage on target.\n    - Inflicts 464 - 567 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -697348581 -1092999436:Supple Dogwood Staff\/a
 categories:
 - Beastlord Equipment

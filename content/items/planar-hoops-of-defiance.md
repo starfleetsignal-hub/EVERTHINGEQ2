@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   abmod: +32,535
   vselemental: +87,497
-effects: '**Celestial Juggernaut**'
+effect_name: Celestial Juggernaut
+effects: "- When Equipped:\n  - Increases Max Health of caster by 5.0%.\n  - Increases Max Health of caster by 250,000.0."
 item_link: \aITEM 260191015 33621342:Planar Hoops of Defiance\/a
 categories:
 - Ability Modifier (Equipment)

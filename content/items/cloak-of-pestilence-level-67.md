@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**The Plaguebringer''s Aura**'
+effect_name: The Plaguebringer's Aura
+effects: "- When Equipped:\n  - Can sometimes prevent the untimely death of the wearer."
 obtained_from: '[[The Plaguebringer Cometh]] from [[Bertoxxulous]] deity quest line'
 item_link: \aITEM 1759644812 -258740343:Cloak of Pestilence\/a
 image: images/Cloak_of_Pestilence.jpg

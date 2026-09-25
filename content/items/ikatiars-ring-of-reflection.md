@@ -18,7 +18,8 @@ stats:
   aspeed: '16.8'
   vselemental: +1,776
   mitinc: '11.2'
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1488676800 1704763404:Ikatiar's Ring of Reflection\/a
 categories:
 - Ability Modifier (Equipment)

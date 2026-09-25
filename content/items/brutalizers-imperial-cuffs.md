@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   dps: '57.9'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -581163923 1023968958:Brutalizer's Imperial Cuffs\/a
 categories:
 - Casting Speed (Equipment)

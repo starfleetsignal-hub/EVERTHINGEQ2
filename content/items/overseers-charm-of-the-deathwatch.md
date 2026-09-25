@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Chaotic Pain**'
+effect_name: Chaotic Pain
+effects: "- Applies Chaotic Pain when Activated.  Lasts for 20.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 1.8 - 34.2.\n  - Cannot be modified except by direct means\n  - The reuse time of Chaotic Pain is 1 minute 30 seconds"
 item_link: \aITEM -66033926 -590968947:Overseer's Charm of the Deathwatch\/a
 categories:
 - Ability Modifier (Equipment)

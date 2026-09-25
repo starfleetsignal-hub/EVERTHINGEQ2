@@ -16,7 +16,8 @@ stats:
   drating: '31.68'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Eidolon''s Wrath**'
+effect_name: Eidolon's Wrath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Eidolon's Wrath on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 29 - 36 divine damage on target.\n    - Inflicts 6 - 7 divine damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[An eidolon watch dog]] in [[Nektropos Castle: The Return]]'
 item_link: \aITEM -721018460 -620345510:Watch Dog's Femur\/a
 categories:

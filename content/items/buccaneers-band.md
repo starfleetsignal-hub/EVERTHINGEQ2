@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +26,832
-effects: '**Focused Energy**'
+effect_name: Focused Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM -401585784 1025153709:Buccaneer's Band\/a
 categories:
 - Arcane Resistance (Equipment)

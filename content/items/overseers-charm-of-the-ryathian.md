@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Energy of War**'
+effect_name: Energy of War
+effects: "- Applies Energy of War when Activated.  Lasts for 1 minute.\n  - Increases AE Autoattack of Caster by 13.0%.\n  - Converts damage spells to magic damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Energy of War is 1 minute"
 item_link: \aITEM 1830267364 -1589074449:Overseer's Charm of the Ryathian\/a
 categories:
 - Assassin Equipment

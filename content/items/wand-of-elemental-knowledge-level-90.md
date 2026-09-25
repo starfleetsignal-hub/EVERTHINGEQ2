@@ -16,7 +16,8 @@ stats:
   abmod: '+185'
   multi: '9.6'
   dtype: Symbols
-effects: '**Codexiconic Blast**'
+effect_name: Codexiconic Blast
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Codexiconic Blast on target of spell.  Triggers about 1.6 times per minute.\n    - Inflicts 334 - 621 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -897994692 -1495941620:Wand of Elemental Knowledge\/a
 categories:
 - Ability Modifier (Equipment)

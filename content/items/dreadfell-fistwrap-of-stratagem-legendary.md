@@ -23,7 +23,8 @@ stats:
   drating: '1906.88'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1112130863 -1040005840:Dreadfell Fistwrap of Stratagem\/a
 categories:
 - Beastlord Equipment

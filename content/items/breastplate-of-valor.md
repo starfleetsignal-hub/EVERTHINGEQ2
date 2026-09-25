@@ -17,7 +17,8 @@ stats:
   abmod: '+101'
   multi: '6.5'
   dtype: Plate Armor
-effects: '**Faithful Protection**'
+effect_name: Faithful Protection
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Faithful Protection on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 8,537\n    - Increases the base mitigation of worn armor.\n    - Increases Block Chance of caster by 10.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1776801693 2011444575:Breastplate of Valor\/a
 categories:
 - Ability Modifier (Equipment)

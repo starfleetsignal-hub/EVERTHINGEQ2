@@ -15,7 +15,8 @@ stats:
   potency: '1.1'
   abmod: '+26'
   vsarcane: '+240'
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM -238891905 -954987704:Slayer's Frozen Band\/a
 categories:
 - Ability Modifier (Equipment)

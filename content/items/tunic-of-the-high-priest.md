@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   dtype: Leather Armor
-effects: '**Harla Dar''s Prayer**'
+effect_name: Harla Dar's Prayer
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Harla Dar's Prayer on caster.\n    - Heals caster for 214.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -34716650 -1934010898:Tunic of the High Priest\/a
 categories:
 - Ability Modifier (Equipment)

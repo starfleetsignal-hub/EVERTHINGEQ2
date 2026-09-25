@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '52'
   dtype: Cloth Armor
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- When Equipped:\n  - Increases Disruption, Focus and Subjugation of caster by 8.0.\n  - Reduces resistibility of all spells by 0.6%."
 obtained_from: '*Crafted by [[Tailor]] (level 20) from [[Ancient Knowledge: Tranquil Bands of Havoc]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1204001235 -1503647500:Tranquil Bands of Havoc\/a
 categories:

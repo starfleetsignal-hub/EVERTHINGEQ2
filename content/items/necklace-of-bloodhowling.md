@@ -16,7 +16,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   dps: '21.8'
-effects: '**Lightning Strikes**'
+effect_name: Lightning Strikes
+effects: "- When Equipped:\n  - Increases Damage Per Second and Attack Speed by 24 for each target who hates the wearer, up to 96 maximum."
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM 664927104 1432426984:Necklace of Bloodhowling\/a
 categories:

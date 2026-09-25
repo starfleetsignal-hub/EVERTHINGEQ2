@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   dps: '6'
   vselemental: '+420'
-effects: '**Blazing Inferno**'
+effect_name: Blazing Inferno
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Blazing Inferno on target of spell.  Lasts for 12.0 seconds.  Triggers about 1.0 times per minute.\n    - Inflicts 179 - 298 heat damage on target encounter every 4 seconds.\n    - Decreases Mitigation of target encounter vs elemental damage by 960.\n    - Cannot be modified except by direct means\n    - Will trigger off of heat abilities."
 item_link: \aITEM 2123586003 -165998956:Blistering Signet\/a
 categories:
 - Arcane Resistance (Equipment)

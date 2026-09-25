@@ -8,7 +8,8 @@ slot: Head
 flags: lore-equip attunable heirloom no-value
 stats:
   dtype: Cloth Armor
-effects: '**Bristlebane''s Party Cap**'
+effect_name: Bristlebane's Party Cap
+effects: "- Applies Bristlebane's Party Cap when Activated.  Lasts for 1 minute 2 seconds.\n  - Start a party anywhere, any time!\n  - The casting time of Bristlebane's Party Cap is 1.0 second and the reuse time of the spell is 1 minute"
 obtained_from: From [[Bristlebane's Party Cap (crate)|Bristlebane's Party Cap]]
 item_link: \aITEM -1082744428 785558403:Bristlebane's Party Cap\/a
 categories:

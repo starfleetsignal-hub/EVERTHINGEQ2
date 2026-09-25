@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   abmod: '+20'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 16.6.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -165633832 -1396034400:fright imbued dragon's breath hex doll\/a
 categories:
 - Ability Modifier (Equipment)

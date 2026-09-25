@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Bleed**'
+effect_name: Bleed
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Bleed on target of attack.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 21 piercing damage on target instantly and every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 398611976 1751410654:Nightshade Mantle\/a
 categories:
 - Ability Modifier (Equipment)

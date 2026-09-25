@@ -11,7 +11,8 @@ stats:
   str: '+13'
   sta: '+13'
   vsarcane: '+80'
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 103 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 250987866 1410058921:Earring of Disintegration\/a
 categories:
 - Arcane Resistance (Equipment)

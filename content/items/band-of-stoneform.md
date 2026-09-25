@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   vselemental: '+511'
   mitinc: '7.6'
-effects: '**Stonewill**'
+effect_name: Stonewill
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Stonewill on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Stonewill on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2066741061 35665781:Band of Stoneform\/a
 categories:
 - Ability Modifier (Equipment)

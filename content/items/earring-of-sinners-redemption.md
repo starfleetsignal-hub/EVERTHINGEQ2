@@ -16,7 +16,8 @@ stats:
   abmod: '+203'
   aspeed: '10.2'
   vsarcane: '+511'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 871.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1007657077 1350354437:Earring of Sinner's Redemption\/a
 categories:
 - Ability Modifier (Equipment)

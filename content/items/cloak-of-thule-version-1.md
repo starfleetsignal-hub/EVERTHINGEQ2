@@ -7,7 +7,8 @@ tier: Legendary
 level: '67'
 slot: Cloak
 flags: lore no-trade
-effects: '**Fear**'
+effect_name: Fear
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fear VI on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.2 times per minute.\n    - Slows target by 31.4%.\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 obtained_from: '[[Strife]] #5 in [[Cazic-Thule]] line.'
 item_link: \aITEM -1524430543 -1810525236:Cloak of Thule\/a
 image: images/Cloak_of_Thule.jpg

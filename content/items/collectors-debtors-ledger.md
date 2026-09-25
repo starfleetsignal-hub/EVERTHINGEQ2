@@ -15,7 +15,8 @@ stats:
   potency: '9.8'
   aspeed: '14.8'
   multi: '15.6'
-effects: '**Soothing Breeze**'
+effect_name: Soothing Breeze
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Soothing Breeze IV on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 5,384 - 5,951.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 654719592 1261265316:Collector's Debtors Ledger\/a
 categories:
 - Assassin Equipment

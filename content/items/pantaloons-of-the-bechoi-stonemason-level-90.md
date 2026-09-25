@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 737177275 -747950141:Pantaloons of the Bechoi Stonemason\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +21,736
-effects: '**Inconspicuous Strike**'
+effect_name: Inconspicuous Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Inconspicuous Strike VI on target of attack.  Triggers about 3.0 times per minute.\n    - Decreases threat priority of target by 1 position\n    - Inflicts 492,800 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1477059794 -1596850273:Inconspicuos Bracelet of Striking\/a
 image: images/Inconspicuos_Bracelet_of_Striking.png
 categories:

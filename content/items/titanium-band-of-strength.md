@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   dps: '12'
   vselemental: '+805'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 18.5.\n    - Increases DPS of caster by 22.0.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 88) from [[Jeweler Essentials Volume 88]]
 item_link: \aITEM 2143332744 1606903317:Titanium Band Of Strength\/a
 categories:

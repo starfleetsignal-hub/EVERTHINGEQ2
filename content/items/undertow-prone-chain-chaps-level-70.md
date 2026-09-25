@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.5'
   dtype: Chain Armor
-effects: '**Mana Leak**'
+effect_name: Mana Leak
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Mana Leak on target of spell cast.  Triggers about 2.0 times per minute.\n    - Increases power of target by 337.\n    - Decreases power of caster by 306.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1704105496 -2104861874:Undertow Prone Chain Chaps\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '21.3'
   vselemental: +32,207
-effects: '**Enraging Flames**'
+effect_name: Enraging Flames
+effects: "- When Equipped:\n  - Inflicts 610,000 heat damage and 940,000 threat increase to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1532777140 2040491208:Yothshaval Signet Ring\/a
 categories:
 - Arcane Resistance (Equipment)

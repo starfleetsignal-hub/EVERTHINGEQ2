@@ -15,7 +15,8 @@ stats:
   resolve: '3'
   aspeed: '36'
   vselemental: +29,521
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM 1561734849 664302918:Lifeblood\/a
 categories:
 - Arcane Resistance (Equipment)

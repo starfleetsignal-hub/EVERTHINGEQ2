@@ -19,7 +19,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Soul Leech**'
+effect_name: Soul Leech
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Soul Leech on target of attack.  Triggers about 2.0 times per minute.\n    - Drains 150 health from the target.\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1334678178 -1827826750:Soul Leech, Dark Sword of Blood\/a
 image: images/Soul_Leech,_Dark_Sword_of_Blood.png
 categories:

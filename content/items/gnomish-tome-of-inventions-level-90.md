@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Symbols
-effects: '**Bitter Miasma**'
+effect_name: Bitter Miasma
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Bitter Miasma on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 600.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1268055963 248402914:Gnomish Tome of Inventions\/a
 categories:
 - Ability Modifier (Equipment)

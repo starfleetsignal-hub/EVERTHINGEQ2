@@ -22,7 +22,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1724273352 952673683:Penumbra Tentacle Greatstaff\/a
 categories:
 - Ability Modifier (Equipment)

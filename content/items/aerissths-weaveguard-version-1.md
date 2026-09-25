@@ -16,7 +16,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   dtype: Cloth Armor
-effects: '**Weave''s Protection**'
+effect_name: Weave's Protection
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Weave Barrier on caster.  Lasts for 1 minute.  Triggers about 1.6 times per minute.\n    - Increases Mitigation of caster vs physical damage by 700.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1966478296 1857828209:Aeri'ssth's Weaveguard\/a
 categories:
 - Ability Modifier (Equipment)

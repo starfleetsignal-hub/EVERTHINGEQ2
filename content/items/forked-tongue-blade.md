@@ -19,7 +19,8 @@ stats:
   drating: '63.47'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Memory Lapse**'
+effect_name: Memory Lapse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Memory Lapse on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1416789086 2000883424:Forked Tongue Blade\/a
 categories:
 - Ability Modifier (Equipment)

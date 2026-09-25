@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Marr''s Favor**<br>**Holy Avenger**<br>**Touch of Life**'
+effect_name: Marr's Favor, Holy Avenger, Touch of Life
+effects: "- When Equipped:\n  - On a spell cast this spell has a 15% chance to cast Marr's Favor on caster.  Lasts for 15.0 seconds.\n    - Increases the damage of spells by up to 25% of your total strength.\n    - Cannot be modified except by direct means\n  - On a combat hit this spell may cast Marr's Fury on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 656 - 802 divine damage on caster.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Holy Avenger when Activated.  Lasts for 10.0 seconds.\n  - Summons a Holy Avenger that transfers life from surrounding enemies to your allies.\n  - The casting time of Holy Avenger is 2.0 seconds and the reuse time of the spell is 6 minutes\n- When Equipped:\n  - Reduces physical, slash, crush and pierce damage done to caster by 10%.\n  - When the paladin takes damage, they will heal themselves for 10% of the damage amount."
 obtained_from: '[[Acts of Contrition]]'
 item_link: \aITEM 1771025486 1998801301:The Truth of Marr\/a
 image: images/TheTruthofMarrMythical.jpg

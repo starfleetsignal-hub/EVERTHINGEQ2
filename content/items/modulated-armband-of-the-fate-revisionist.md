@@ -16,7 +16,8 @@ stats:
   potency: '11.2'
   abmod: '+431'
   vsarcane: +1,833
-effects: '**Spellweaver''s Magnitude**'
+effect_name: Spellweaver's Magnitude
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Spellweaver's Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases INT and WIS of caster by 44.0.\n    - Increases Casting Speed of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Spellweaver's Magnitude IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases INT and WIS of caster by 44.0.\n    - Increases Casting Speed of caster by 1.5%.\n    - Increases Crit Bonus of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1944253210 -962064008 0 0 0:Modulated Armband of the Fate Revisionist\/a
 categories:
 - Ability Modifier (Equipment)

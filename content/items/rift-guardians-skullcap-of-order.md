@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM 1961611704 303391294 0 0 0:Rift Guardian's Skullcap of Order\/a
 categories:
 - Ability Modifier (Equipment)

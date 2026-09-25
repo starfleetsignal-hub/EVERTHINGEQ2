@@ -16,7 +16,7 @@ stats:
   drating: '65.7'
   range: 2 - 25
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast Gleaming Strike on target of attack. This effect will trigger an average of 1.8 times per minute.\n    - Inflicts 414 - 769 magic damage on target"
 obtained_from: Crafted by [[Tailor]] (level 74) from [[Tailor Essentials Volume 74]]
 item_link: \aITEM 471414333 -1050437651:pristine imbued bristled leather satchel\/a
 image: images/Pristine_imbued_bristled_leather_satchel.jpg

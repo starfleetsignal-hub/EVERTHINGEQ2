@@ -15,7 +15,8 @@ stats:
   potency: '22.9'
   resolve: '2'
   dps: '27'
-effects: '**Aspect of Granite**'
+effect_name: Aspect of Granite
+effects: "- When Equipped:\n  - On avoiding an attack this spell has a 8% chance to cast Aspect of Granite II on caster.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Will absorb all damage when the amount is greater than 35% of the target's maximum health. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 20.0 seconds."
 item_link: \aITEM -166229851 -1682754251:Necklace of Altered Paradigm\/a
 image: images/Necklace_of_Altered_Paradigm.png
 categories:

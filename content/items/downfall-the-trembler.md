@@ -15,7 +15,8 @@ stats:
   potency: '33.4'
   abmod: +3,750
   dtype: Symbols
-effects: '**Ethereal Siphoning**'
+effect_name: Ethereal Siphoning
+effects: "- When Equipped:\n  - On any combat or spell hit, Ethereal Siphoning may siphon potency from the target, and grant it to the casters group."
 item_link: \aITEM -1210161389 -1650217335:Downfall, the Trembler\/a
 categories:
 - Ability Modifier (Equipment)

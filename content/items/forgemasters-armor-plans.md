@@ -18,7 +18,8 @@ stats:
   resolve: '11'
   abmod: +1,719
   dps: '29.4'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 34.9.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1813205827 -1688238918:Forgemaster's Armor Plans\/a
 categories:
 - Ability Modifier (Equipment)

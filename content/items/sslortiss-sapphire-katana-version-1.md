@@ -20,7 +20,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Ice Wave**'
+effect_name: Ice Wave
+effects: "- Applies Ice Wave when Activated.\n  - Inflicts 3,240 cold damage on targets in Area of Effect.\n  - The casting time of Ice Wave is 3.0 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -1409508129 616598193:Sslortis's Sapphire Katana\/a
 aliases:
 - Sslortis's Sapphire Katana (Level 74)

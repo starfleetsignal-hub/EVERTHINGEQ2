@@ -17,7 +17,8 @@ stats:
   abmod: +3,940
   aspeed: '31'
   dtype: Buckler
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3.8%.\n    - Inflicts 964 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 45 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Seals of the Vindicae]]'
 item_link: \aITEM 268713384 2082871442:Jeweled Nizari Buckler\/a
 categories:

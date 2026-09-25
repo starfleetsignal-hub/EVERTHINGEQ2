@@ -17,7 +17,8 @@ stats:
   abmod: '+66'
   aspeed: '4.1'
   dtype: Plate Armor
-effects: '**Rejuvenating Aggression**'
+effect_name: Rejuvenating Aggression
+effects: "- When Equipped:\n  - On a hit this spell may cast Rejuvenating Aggression on caster.  Triggers about 1.8 times per minute.\n    - Heals caster for 48.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1917644745 2055315860:Bracers of Subjugation\/a
 categories:
 - Ability Modifier (Equipment)

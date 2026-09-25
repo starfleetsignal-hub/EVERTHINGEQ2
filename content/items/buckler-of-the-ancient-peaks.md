@@ -18,7 +18,8 @@ stats:
   multi: '28.5'
   cbovercap: '+1414.3'
   dtype: Buckler
-effects: '**Butcher of Vacrul**'
+effect_name: Butcher of Vacrul
+effects: "- When Equipped:\n  - Increases physical damage done to target by 15%.\n  - Reduces noxious and arcane damage done to target by 15%.\n  - Decreases Max Health of caster by 15.0%.\n  - Increases Fervor Overcap of caster by 25.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -242382793 -91376702:Buckler of the Ancient Peaks\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '9.9'
   dps: '21.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1289216740 1960261175:Legendary Bloodstained Gauntlets\/a
 categories:
 - Census Credits

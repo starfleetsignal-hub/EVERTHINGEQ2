@@ -18,7 +18,8 @@ stats:
   potency: 2,957.1
   resolve: '35'
   flurry: '38.8'
-effects: '**Fates Entwined**'
+effect_name: Fates Entwined
+effects: "- Applies Fates Entwined when Activated.  Lasts for 10.0 seconds.\n  - Applies Fates Entwined.  Lasts for 20.0 seconds.\n    - Increases all damage done to caster by 20%.\n    - Cannot be modified except by direct means\n  - Increases all damage done to target by 4.7%.\n  - Increases Threat to target by 1,038,665  instantly and every 2 seconds thereafter\n  - Cannot be modified except by direct means\n  - The casting time of Fates Entwined is 4.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 629243222 -2118829250:Jamiss' Footlocker Key\/a
 categories:
 - AE Autoattack Chance (Equipment)

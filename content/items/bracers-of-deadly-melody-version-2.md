@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Chain Armor
-effects: '**Unremitting Harmony**'
+effect_name: Unremitting Harmony
+effects: "- When Equipped:\n  - Increases duration of all songs by 10 percent."
 item_link: \aITEM 1521662647 -1607529131:Bracers of Deadly Melody\/a
 categories:
 - Ability Modifier (Equipment)

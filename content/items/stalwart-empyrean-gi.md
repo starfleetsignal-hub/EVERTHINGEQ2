@@ -17,7 +17,8 @@ stats:
   critbonus: '5.3'
   potency: '8.8'
   dtype: Leather Armor
-effects: '**Incorruptible Determination**'
+effect_name: Incorruptible Determination
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Incorruptible Determination on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards caster against 1,800 points of all damage\n    - Inflicts 5,694 - 6,294 piercing damage on target encounter.\n    - Inflicts 633 - 699 piercing damage on target encounter every 3 seconds.\n    - Increases Casting Speed of caster by 10.0%.\n    - This ward regenerates slowly over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Stalwart Thudomatonian Breastplate]]
 item_link: \aITEM 1192586315 1788613679:Stalwart Empyrean Gi\/a
 categories:

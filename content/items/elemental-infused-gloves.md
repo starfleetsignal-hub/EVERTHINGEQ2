@@ -18,7 +18,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Conqueror''s Glove Mold]] *Made from [[Elemental Conqueror''s Glove Pattern]]'
 item_link: \aITEM -953008617 -475588565 0 0 0:Elemental Infused Gloves\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   vselemental: '+324'
-effects: '**Concealed Swiftness**'
+effect_name: Concealed Swiftness
+effects: "- When Equipped:\n  - Increases stealth or invisible movement speed of caster by 15.0%.\n  - This effect suspends during combat"
 obtained_from: Crafted by [[Jeweler]] (level 70) from [[Danak Runecraft Volume II]]
 item_link: \aITEM 2030441308 -1792328053:Danak Hoop of Subversion\/a
 categories:

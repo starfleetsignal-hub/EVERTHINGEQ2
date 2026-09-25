@@ -21,7 +21,8 @@ stats:
   drating: '218.97'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 obtained_from: 'Collection reward: [[Trophies of Past Glory]]'
 item_link: \aITEM -1633052691 170125759:Staff of the Undying\/a
 categories:

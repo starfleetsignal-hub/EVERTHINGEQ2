@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   mitinc: '10.5'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -589851448 -1641413046:Despoiler's Gloves of Incursion\/a
 categories:
 - Assassin Equipment

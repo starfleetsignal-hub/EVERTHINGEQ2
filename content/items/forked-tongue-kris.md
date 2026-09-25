@@ -16,7 +16,7 @@ stats:
   drating: '68.7'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: Memory Lapse
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast Memory Lapse on target of attack. This effect will trigger an average fo 1.8 times per minute.\n    - Decreases threat to target by 500"
 obtained_from: '[[Conciliatory Delivery]]'
 categories:
 - Assassin Equipment

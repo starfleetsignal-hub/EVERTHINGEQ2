@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   abmod: '+29'
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 item_link: \aITEM 1254315408 239424438:Slayer's Chain of Disease\/a
 categories:
 - Ability Modifier (Equipment)

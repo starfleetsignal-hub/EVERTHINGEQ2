@@ -6,7 +6,7 @@ level: '30'
 slot: Charm
 stats:
   charges: '3'
-effects: Draw upon Essence
+effects: "- Applies Draw upon Essence when Activated.\n  - Increases power of caster by 291\n  - Requires 424 Health to cast."
 obtained_from: Summoned by the [[Conjuror]] spell [[Scintilla of Essence]]
 categories:
 - Assassin Equipment

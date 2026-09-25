@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   vselemental: +24,232
   mitinc: '6'
-effects: '**Ancient Stamina**'
+effect_name: Ancient Stamina
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ancient Stamina V on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 83,600 disease damage on target instantly and every second.\n    - Increases Max Health of caster by 9.5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -193988552 -900717040:Ring of Dastardly Privateers\/a
 categories:
 - AE Autoattack Chance (Equipment)

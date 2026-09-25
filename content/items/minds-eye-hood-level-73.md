@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   multi: '5.9'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Truffle Hunting]]'
 item_link: \aITEM -883857266 -404757361:Mind's Eye Hood\/a
 image: images/Mind's_Eye_Hood.jpg

@@ -16,7 +16,8 @@ stats:
   potency: '3.9'
   aspeed: '6'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 6 percent."
 item_link: \aITEM -847737939 -55488132:Shade of Khalen's Vest\/a
 categories:
 - Attack Speed (Equipment)

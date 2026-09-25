@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Blue Traveler's Clothing]]
 item_link: \aITEM -1718522346 377799303:Blue Traveler's Cloak\/a
 categories:

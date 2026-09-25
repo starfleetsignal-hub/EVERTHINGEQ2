@@ -16,7 +16,8 @@ stats:
   drating: '10.0'
   range: 2-35
   wtype: Bow
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When equipped\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack. Triggers about 1.5 times per minute.\n    - Decreases Threat to target by 135\n      - Must be flanking or behind\n    - Increases Threat to target by 136\n      - Must be in front of\n    - Inflicts 49-91 magic damage on target\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Craftsman]] (level 16) from [[Craftsman essentials volume 16]]
 item_link: \aITEM -606736669 1028481467:imbued maple longbow\/a
 categories:

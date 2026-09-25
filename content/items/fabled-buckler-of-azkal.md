@@ -16,7 +16,8 @@ stats:
   abmod: '+62'
   vselemental: '+280'
   dtype: Buckler
-effects: '**Rune of A''zkal**'
+effect_name: Rune of A'zkal
+effects: "- When Equipped:\n  - When any damage is received this spell has a 12% chance to cast Rune of A'zkal on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 100 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1544017293 1369442131:Fabled Buckler of A'zkal\/a
 categories:
 - Ability Modifier (Equipment)

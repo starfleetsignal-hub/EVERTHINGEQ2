@@ -15,7 +15,8 @@ stats:
   critbonus: '2.9'
   multi: '2'
   dtype: Plate Armor
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 piercing damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of Bhaast]] (Battlegrounds Merchant) in [[Frostfang Sea]] on Erollis Dock at {{waypoint -349.92, 30.30, 239.44}} for 1p 20g 45 Smuggler's Den Special Reserve Rum and 45 Battlefield of Ganak Trophy
 item_link: \aITEM 268277197 -1290012936:Challenger's Dreadnaught Crown\/a
 categories:

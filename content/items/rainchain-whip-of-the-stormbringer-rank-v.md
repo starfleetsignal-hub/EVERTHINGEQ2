@@ -23,7 +23,8 @@ stats:
   drating: '3923.2'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Blessing of the Stormlord**'
+effect_name: Blessing of the Stormlord
+effects: "- When Equipped:\n  - \"Blessing of the Stormlord\" protects the wearer from strong deific magics used by Karana!"
 obtained_from: '*Made from [[Ethereal Writings: Rainchain Whip of the Stormbringer]] *[[Ethereal: Rainchain Whip of the Stormbringer]]'
 item_link: \aITEM 1517901795 30516332:Rainchain Whip of the Stormbringer [Rank V]\/a
 categories:

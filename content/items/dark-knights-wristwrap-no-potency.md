@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vsnoxious: '+356'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM 862772686 156938942:Dark Knight's Wristwrap\/a
 categories:
 - Ability Modifier (Equipment)

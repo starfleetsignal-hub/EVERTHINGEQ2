@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   aspeed: '36'
   flurry: '18.6'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception I when Equipped.\n  - Increases Fervor of caster by 2.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 125."
 item_link: \aITEM -392957068 -849847526:Malduran Sentinel Girdle\/a
 categories:
 - Assassin Equipment

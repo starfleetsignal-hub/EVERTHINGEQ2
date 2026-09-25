@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Symbols
-effects: '**Rune of Warding**'
+effect_name: Rune of Warding
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Rune of Warding on caster.  Lasts for 10 minutes.  Triggers about 1.8 times per minute.\n    - Wards caster against 600 points of all damage\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 obtained_from: '*Crafted by [[Jeweler]] (level 66) from [[Advanced Jeweler Volume 66 (no-value)]] *Crafted by [[Jeweler]] (level 66) from [[Advanced Jeweler Volume 66 (Uncommon)]]'
 item_link: \aITEM -502209005 836812447:Xegonite Tablet\/a
 categories:

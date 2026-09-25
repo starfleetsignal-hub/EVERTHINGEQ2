@@ -16,7 +16,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 1903516106 1510884024:Devastator's Broadsword\/a
 categories:
 - Berserker Equipment

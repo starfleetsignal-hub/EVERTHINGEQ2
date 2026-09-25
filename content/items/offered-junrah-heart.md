@@ -15,7 +15,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Blood for Blood**'
+effect_name: Blood for Blood
+effects: "- Applies Blood for Blood when Activated.  Lasts for 15.0 seconds.\n  - Inflicts 50.0% of max health in piercing damage on caster.\n  - Increases Crit Bonus of caster by 200.0.\n  - Reduces healing received by 200.00%.\n  - Cannot be modified except by direct means\n  - The reuse time of Blood for Blood is 3 minutes"
 item_link: \aITEM 659549531 -1316777175:Offered Jun'Rah Heart\/a
 categories:
 - Assassin Equipment

@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Spirit of Oggok**'
+effect_name: Featherfall, Spirit of Oggok
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Spirit of Oggok when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into an ogre\n  - The casting time of Spirit of Oggok is 1.0 second and the reuse time of the spell is 5.0 seconds"
 obtained_from: From [[Ogre Heritage Armor Crate]]
 item_link: \aITEM -1462693720 -317306355:Cloak of the Hero of Oggok\/a
 categories:

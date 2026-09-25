@@ -16,7 +16,8 @@ stats:
   resolve: '7'
   abmod: +1,686
   aspeed: '19'
-effects: '**All In**'
+effect_name: All In
+effects: "- Applies All In when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 510.0.\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of All In is 1 minute 30 seconds"
 obtained_from: 'Achievement reward: [[Dedicant of the Deepforge.]]'
 item_link: \aITEM 848642955 1424422090:Forge Fire Flask\/a
 image: images/Forge_Fire_Flask.png

@@ -14,7 +14,8 @@ stats:
   potency: '17.7'
   abmod: +1,000
   vselemental: +5,273
-effects: '**Aspect of the Dragon**'
+effect_name: Aspect of the Dragon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Aspect of the Dragon III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 112,560 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: '*From [[A Packet of Heroic Goods (Coercer, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Conjuror, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Illusionist, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Necromancer, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warlock, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Wizard, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -301839570 -581767025:Intrepid Bracelet\/a
 categories:

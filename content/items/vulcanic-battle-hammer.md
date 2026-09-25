@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Flame Pillar**'
+effect_name: Flame Pillar
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Pillar on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 46 - 76 heat damage on target every 4.8 seconds.\n    - Inflicts 112 - 186 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -895237500 -841441300:Vulcanic Battle Hammer\/a
 categories:
 - Ability Modifier (Equipment)

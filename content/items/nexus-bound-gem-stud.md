@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   vselemental: '+400'
-effects: '**Befuddle**'
+effect_name: Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 800\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1146759659 -129617441:Nexus-bound Gem Stud\/a
 categories:
 - Arcane Resistance (Equipment)

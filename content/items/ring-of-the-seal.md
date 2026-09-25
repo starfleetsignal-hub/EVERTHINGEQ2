@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   vselemental: '+473'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: Sold by [[Supply Master Essa'Mae]] (Faction Merchant) in [[The Hole]]<br>Requires 30,000 faction with Defenders of the Seal
 item_link: \aITEM -344039059 2145366027:Ring of the Seal\/a
 categories:

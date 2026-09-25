@@ -18,7 +18,8 @@ stats:
   potency: '10.6'
   dps: '27.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1504713433 881986757:Riveted Drakizite Gloves of the Underdepths\/a
 categories:
 - Assassin Equipment

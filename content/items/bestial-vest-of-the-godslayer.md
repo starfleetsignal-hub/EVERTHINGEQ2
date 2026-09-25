@@ -17,7 +17,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dtype: Leather Armor
-effects: '**Stigmatic Frenzy**<br>**Celestial Restoration**'
+effect_name: Stigmatic Frenzy, Celestial Restoration
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Stigmatic Frenzy on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of group members (AE) by 6.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 2,612.\n    - Heals group members (AE) for 871 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -943044231 1294528503:Bestial Vest of the Godslayer\/a
 categories:
 - Ability Modifier (Equipment)

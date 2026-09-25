@@ -15,7 +15,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   aspeed: '4'
-effects: '**Pure Blood**'
+effect_name: Pure Blood
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Pure Blood on caster.\n    - Dispels 80 levels of noxious and arcane hostile effects on caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1936272708 2115293288 0 0 0:Necklace of the Pureblood\/a
 categories:
 - Attack Speed (Equipment)

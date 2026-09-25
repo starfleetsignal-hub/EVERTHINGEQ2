@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Mutagenic Shred**'
+effect_name: Mutagenic Shred
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mutagenic Shred on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 437,325 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -901948695 -542107647:Fabled Euktrkai's Mutagenic Ring\/a
 categories:
 - Arcane Resistance (Equipment)

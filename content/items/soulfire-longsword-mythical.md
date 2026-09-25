@@ -20,7 +20,8 @@ stats:
   drating: '104.66'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Absolve Vitae**'
+effect_name: Absolve Vitae
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Absolve Vitae on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 504 - 839 heat damage on target.\n    - Heals caster for 356.\n    - Cannot be modified except by direct means"
 obtained_from: Reward from [[Sir Trodonis]] after completing [[A Freeport Overlord in Queen Lenya's Court]] and then killing [[Mayong Mistmoore]]
 item_link: \aITEM -1517247805 165375967:Soulfire Longsword\/a
 categories:

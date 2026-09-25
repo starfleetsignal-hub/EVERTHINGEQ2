@@ -15,7 +15,8 @@ stats:
   potency: '7.7'
   dps: '43.7'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -7489561 -1641713053:Subjugator's Imperial Cuffs\/a
 categories:
 - Casting Speed (Equipment)

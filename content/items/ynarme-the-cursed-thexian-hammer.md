@@ -17,7 +17,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Thexian Curse**'
+effect_name: Thexian Curse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Thexian Curse on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Decreases DPS of target by 25.8 - 31.5.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1839021359 1794986860:Y'Narme, the Cursed Thexian Hammer\/a
 categories:
 - Berserker Equipment

@@ -20,7 +20,8 @@ stats:
   drating: '82.93'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Healing Wave**'
+effect_name: Healing Wave
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Healing Wave on the group.  Triggers about 1.6 times per minute.\n    - Heals group members for 218.\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[The Reservoir Defender]] in [[Chardok]]
 item_link: \aITEM -1657828055 1698557772:Blackflood Maul\/a
 categories:

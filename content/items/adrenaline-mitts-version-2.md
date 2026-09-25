@@ -18,7 +18,8 @@ stats:
   abmod: '+64'
   aspeed: '4.3'
   dtype: Leather Armor
-effects: '**Adrenaline Rush**'
+effect_name: Adrenaline Rush
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Adrenaline Rush on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 25.0.\n    - Increases Haste of caster by 25.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1562984594 71722111:Adrenaline Mitts\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Plate Armor
-effects: '**Aggravate**'
+effect_name: Aggravate
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Aggravate II on target of attack.  Triggers about 1.0 times per minute.\n    - Increases Threat to target by 1,225\n    - Cannot be modified except by direct means"
 item_link: \aITEM -860815272 -1296894728:Barbute of Frenzied Wrath\/a
 categories:
 - Ability Modifier (Equipment)

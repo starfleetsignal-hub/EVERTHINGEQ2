@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   aspeed: '9.7'
   dps: '16.6'
-effects: '**Mystic Havoc**'
+effect_name: Mystic Havoc
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mystic Havoc on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 361184840 -1289675140:Cedon's Charm of Skirmish\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   abmod: +1,591
   aspeed: '18'
   vselemental: +29,521
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 18.8."
 item_link: \aITEM -713691229 -279905628:Fire Gazer Fangs\/a
 categories:
 - Ability Modifier (Equipment)

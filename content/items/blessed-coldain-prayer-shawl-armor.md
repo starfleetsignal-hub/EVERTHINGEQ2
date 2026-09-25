@@ -10,7 +10,8 @@ flags: lore no-trade no-value
 description: This traditional coldain-style prayer shawl bears the personal blessing of Brell himself. Although once a finely woven silk fabric, it has been transformed by the deity's blessing into something ethereal, almost insubstantial in appearance.
 stats:
   sta: '+15'
-effects: '**Blessing of Brell**'
+effect_name: Blessing of Brell
+effects: "- Applies Blessing of Brell when Equipped.\n  - Increases Bountiful Harvest of caster by 27.0.\n  - Increases critical success chance by 5.0%.\n  - When completing a pristine crafted item. this spell has a 1% chance to cast Blessing of Brell on target.  Lasts for 4.1 seconds.\n    - No components are consumed to create this item.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[What Dreams May Come]]'
 item_link: \aITEM -1324208021 1214540530:Blessed Coldain Prayer Shawl\/a
 image: images/Blessed_Coldain_Prayer_Shawl_(Armor).png

@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   dps: '18.8'
-effects: '**Prophetic Awareness**'
+effect_name: Prophetic Awareness
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Prophetic Awareness on the group.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of spells by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1780279672 -1540080810:Maakat's Sash of Mending\/a
 categories:
 - Ability Modifier (Equipment)

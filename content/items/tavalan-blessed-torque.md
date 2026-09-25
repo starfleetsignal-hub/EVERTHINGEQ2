@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   strike: '17'
   multi: '17.5'
-effects: '**Mercurial Flux**'
+effect_name: Mercurial Flux
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 6.0.\n  - Increases Haste of caster by 16.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1104242261 -116121131:Tavalan Blessed Torque\/a
 categories:
 - Berserker Equipment

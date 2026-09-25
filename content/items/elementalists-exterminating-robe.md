@@ -17,7 +17,8 @@ stats:
   potency: '8.8'
   abmod: '+288'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,998 cold damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: 'Dropped by [[Statue of Rallos Zek (Epic)|Statue of Rallos Zek]] in [[Temple of Rallos Zek: Foundations of Stone]]'
 item_link: \aITEM 93085416 2145603441:Elementalist's Exterminating Robe\/a
 categories:

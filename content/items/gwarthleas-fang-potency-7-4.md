@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   strike: '10.8'
   multi: '10.5'
-effects: '**Furious Blows**'
+effect_name: Furious Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 7.0.\n    - Increases Multi Attack of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1026348150 58640024:Gwarthlea's Fang\/a
 categories:
 - Assassin Equipment

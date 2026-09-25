@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   abmod: '+162'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: '[[Shredmistress Ikaika (Quest)|Shredmistress Ikaika]]'
 item_link: \aITEM -1193747911 1143152222:Cord of the Shredmistress\/a
 categories:

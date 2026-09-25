@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Prophetic Shield**'
+effect_name: Prophetic Shield
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Prophetic Shield on the group.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,200 points of all damage\n    - Heals group members (AE) for 1,662 - 1,837 instantly and every 3 seconds.\n    - Increases Potency of group members (AE) by 8.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -768623893 -1592506563:Mace of Recondite Mending\/a
 categories:
 - Beastlord Equipment

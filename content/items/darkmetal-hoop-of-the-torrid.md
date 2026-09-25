@@ -16,7 +16,8 @@ stats:
   abmod: '+803'
   dps: '27.8'
   vselemental: +30,369
-effects: '**The Finisher**'
+effect_name: The Finisher
+effects: "- When Equipped:\n  - Increases Potency of caster by 80.0.\n  - Improves the potency of all abilities by 135% when the target is below 50% health.  This effect will not stack with any other finisher effect.\n    - This effect will not stack with any other Finisher effect."
 item_link: \aITEM 1803860692 -891523422:Darkmetal Hoop of the Torrid\/a
 categories:
 - Ability Modifier (Equipment)

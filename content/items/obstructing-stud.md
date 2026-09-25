@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +16,380
-effects: '**Stunning Sturdiness**'
+effect_name: Stunning Sturdiness
+effects: "- When Equipped:\n  - When taking damage, the wearer will stun their attacker for 2.5 seconds. This can only trigger once every 10 seconds. Does not apply to epic targets."
 item_link: \aITEM -423486125 930760984:Obstructing Stud\/a
 categories:
 - Arcane Resistance (Equipment)

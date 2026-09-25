@@ -20,7 +20,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Globe of Flame**'
+effect_name: Globe of Flame
+effects: "- Applies Globe of Flame when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 5.0.\n  - Increases Ability Mod of caster by 500.0.\n  - All offensive spells deal heat damage!.\n  - The casting time of Globe of Flame is 0.5 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: '[[The Flames That Cannot Die]]'
 item_link: \aITEM -688711580 -1119552113:Globe of Everburning Flame\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+98'
   multi: '6.3'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM -1503427315 -43604506:Belt of Manifestations\/a
 categories:
 - Ability Modifier (Equipment)

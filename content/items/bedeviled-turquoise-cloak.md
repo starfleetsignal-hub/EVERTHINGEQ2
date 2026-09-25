@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Bedeviled Turquoise Robe Set]] *From [[Bedeviled Turquoise Vanguard Set]]'
 item_link: \aITEM 1108866455 -1717303641:Bedeviled Turquoise Cloak\/a
 categories:

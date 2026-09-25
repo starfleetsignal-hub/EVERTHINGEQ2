@@ -16,7 +16,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -110248500 1614589289:Hammer of the Deathbringer\/a
 categories:
 - Casting Speed (Equipment)

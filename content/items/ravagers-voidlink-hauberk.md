@@ -17,7 +17,7 @@ stats:
   vselemental: '+332'
   vsarcane: '+415'
   dtype: Chain Armor
-effects: Increased Successive Blows
+effects: "- When Equipped\n  - On a successful attack this spell has a chance to cast Increased Successive Blows on caster. Lasts for 10.0 seconds. This effect will trigger an average of 2.0 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - Caster will Double Attack on 8.0% of ranged attacks.\n    - Caster will Double Attack on 12.0% of melee attacks."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 categories:
 - Arcane Resistance (Equipment)

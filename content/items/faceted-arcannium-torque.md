@@ -15,7 +15,8 @@ stats:
   potency: '21.7'
   resolve: '1'
   dps: '26.4'
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 55 if they have 1 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 80."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -358488385 2137014701:Faceted Arcannium Torque\/a
 categories:

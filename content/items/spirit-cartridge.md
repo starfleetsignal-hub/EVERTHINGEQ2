@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Soul Destroyer**'
+effect_name: Soul Destroyer
+effects: "- Applies Soul Destroyer when Activated.  Lasts for 0.1 seconds.\n  - Releases the entire pool of Soul Charges to deal up to 5, 000, 000 magic damage to target.\n  - This item may not be used in a PvP zone.\n  - The casting time of Soul Destroyer is 0.5 seconds and the reuse time of the spell is 20.0 seconds\n- When Equipped:\n  - On a kill this spell will cast Soul Charge on caster.  Lasts for 5 minutes.  This effect normalizes based off of a three second triggering event.\n    - Each stack of Soul Charge will increase the damage of Soul Destroyer. 10 stacks maximum."
 item_link: \aITEM -76726176 896257617:Spirit Cartridge\/a
 categories:
 - Ability Modifier (Equipment)

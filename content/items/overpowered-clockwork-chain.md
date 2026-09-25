@@ -15,7 +15,8 @@ stats:
   resolve: '5'
   aspeed: '37.4'
   vselemental: +32,207
-effects: '**Uplifting Power**'
+effect_name: Uplifting Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 90.0."
 item_link: \aITEM -490254310 1583655100:Overpowered Clockwork Chain\/a
 categories:
 - Arcane Resistance (Equipment)

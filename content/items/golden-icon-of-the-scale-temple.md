@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- When Equipped:\n  - Heals caster for 5,600 health every 3 seconds\n  - Cannot be modified except by direct means\n- Applies Prayer to Tunare when Activated.\n  - Heals the caster for 84,000 health\n  - Suspends the passive effect for 60 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare is 1 minute"
 obtained_from: '*Marketplace *[[The Purity of Growth]]'
 item_link: \aITEM -138846347 1573817314:Golden Icon of the Scale Temple\/a
 image: images/Golden_Icon_of_the_Scale_Temple.png

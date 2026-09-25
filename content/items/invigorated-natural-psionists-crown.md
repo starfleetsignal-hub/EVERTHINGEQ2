@@ -19,7 +19,8 @@ stats:
   abmod: +7,668
   multi: '95.8'
   dtype: Leather Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -633983333 -1134352741:Invigorated Natural Psionist's Crown\/a
 categories:
 - Ability Modifier (Equipment)

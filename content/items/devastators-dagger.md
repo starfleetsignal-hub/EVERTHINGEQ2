@@ -16,7 +16,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 396 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 45085397 -2116693265:Devastator's Dagger\/a
 categories:
 - Assassin Equipment

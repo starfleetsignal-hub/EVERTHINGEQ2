@@ -17,7 +17,8 @@ stats:
   potency: '3.6'
   dps: '9.5'
   dtype: Plate Armor
-effects: '**Replenish Power**'
+effect_name: Replenish Power
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Replenish Power on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 108.\n    - Cannot be modified except by direct means"
 obtained_from: '[[How the Mighty Fall]]'
 item_link: \aITEM -1574486386 2075529117:Vicar's Breastplate of D'Lere\/a
 categories:

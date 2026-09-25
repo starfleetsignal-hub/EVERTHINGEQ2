@@ -16,7 +16,8 @@ stats:
   critbonus: 1,338.9
   potency: 44,349.8
   resolve: '535'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -863188719 -1731499688:Talon Scar Cloak of Obliteration\/a
 categories:
 - Assassin Equipment

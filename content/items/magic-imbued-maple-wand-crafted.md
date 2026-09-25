@@ -16,7 +16,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Lightning Shock**'
+effect_name: Lightning Shock
+effects: "- Applies Lightning Shock when Activated.\n  - Inflicts 34 - 57 magic damage on target.\n  - The casting time of Lightning Shock is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '*Crafted by [[Craftsman]] (level 15) from [[Craftsman essentials volume 15 (Normal)]] *Crafted by [[Craftsman]] (level 15) from [[Craftsman Essentials Volume 15 (no-trade)]]'
 item_link: \aITEM -1299775966 -821586900:Magic Imbued Maple Wand\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '2.5'
   abmod: '+60'
   dtype: Chain Armor
-effects: '**Ballad of Dual Thought**'
+effect_name: Ballad of Dual Thought
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Ballad of Dual Thought on target's attacker.\n    - Inflicts 406 mental damage on target\n    - Inflicts 406 mental damage on target\n    - Cannot be modified except by direct means"
 item_link: \aITEM -512493781 968618998:Tunic of Shadowed Songs\/a
 categories:
 - Ability Modifier (Equipment)

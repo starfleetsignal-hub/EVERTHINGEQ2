@@ -17,7 +17,8 @@ stats:
   aspeed: '35.2'
   dps: '13.5'
   vselemental: +27,090
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 57.0."
 item_link: \aITEM 764454003 -893747812:Corroded Dhalgar Rune Ring\/a
 image: images/Corroded_Dhalgar_Rune_Ring.png
 categories:

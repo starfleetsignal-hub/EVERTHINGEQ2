@@ -15,7 +15,8 @@ stats:
   potency: '5'
   multi: '7.8'
   dtype: Symbols
-effects: '**Essence of Growth**'
+effect_name: Essence of Growth
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Essence of the Faydark on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR, INT, AGI and STA of target by 35.2.\n    - Increases Max Health of target by 12.0%.\n    - Increases Max Power of target by 12.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -446890100 1967761045:Symbol of the Faydark\/a
 categories:
 - Assassin Equipment

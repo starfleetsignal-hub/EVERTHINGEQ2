@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   abmod: '+16'
   dtype: Cloth Armor
-effects: '**Glyph of Enlightenment**'
+effect_name: Glyph of Enlightenment
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 13.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -558428132 -1708003767:Elaborate Velvet Cowl\/a
 categories:
 - Ability Modifier (Equipment)

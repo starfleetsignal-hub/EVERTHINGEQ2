@@ -18,7 +18,8 @@ stats:
   dps: '18.8'
   multi: '12'
   dtype: Chain Armor
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1589167643 -1737773604:Venomous Shadowfyre Coif\/a
 image: images/Venemous_Shadowfyre_Coif.jpg
 aliases:

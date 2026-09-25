@@ -17,7 +17,8 @@ stats:
   dps: '42'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Necromunger''s Fortitude**'
+effect_name: Necromunger's Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 4539788 -1134904274:Breastplate of the All-Blocker\/a
 categories:
 - Attack Speed (Equipment)

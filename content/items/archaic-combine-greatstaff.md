@@ -20,7 +20,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Pulsating Chain**'
+effect_name: Pulsating Chain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Pulsating Chain on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 56 magic damage on target encounter.\n    - Inflicts 45 - 74 magic damage on target encounter every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2116361250 -1042299231:Archaic Combine Greatstaff\/a
 categories:
 - Ability Modifier (Equipment)

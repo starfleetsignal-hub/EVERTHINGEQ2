@@ -18,7 +18,8 @@ stats:
   resolve: '15'
   abmod: +23,782
   mitinc: '14.1'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 8.7.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 106) from [[Jeweler Essentials Volume 106]]
 item_link: \aITEM -1702262337 -461070237:Ember Charm of Vitality\/a
 categories:

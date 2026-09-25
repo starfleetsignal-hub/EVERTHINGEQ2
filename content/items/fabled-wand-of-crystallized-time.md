@@ -26,7 +26,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Attunement to Fire**<br>**Devastation Strike**'
+effect_name: Attunement to Fire, Devastation Strike
+effects: "- Applies Attunement to Fire when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Fire is 10.0 seconds\n- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 6,050 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM 697591274 130683390:Fabled Wand of Crystallized Time\/a
 categories:
 - Attack Speed (Equipment)

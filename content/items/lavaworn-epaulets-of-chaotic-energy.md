@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   multi: '7.8'
   dtype: Plate Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 10%."
 obtained_from: '*Made from [[Elemental Champion''s Spaulder Mold]] *Made from [[Elemental Champion''s Spaulder Pattern]]'
 item_link: \aITEM 1730834498 1436394959 0 0 0:Lavaworn Epaulets of Chaotic Energy\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   dps: '16.6'
   multi: '10.5'
-effects: '**Instinctual Precision**'
+effect_name: Instinctual Precision
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Instinctual Precision on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Accuracy of target by 6.0%.\n    - Reduces the resistibility of the target's spells by 6%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2123736423 -906036969:Fointwoiner Cog Spring\/a
 categories:
 - Assassin Equipment

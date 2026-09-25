@@ -14,7 +14,8 @@ stats:
   drating: '195.78'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Artisanal Mending Shadows**'
+effect_name: Artisanal Mending Shadows
+effects: "- Applies Artisanal Mending Shadows when Activated.  Lasts for 5.0 seconds.\n  - Artisanal Mending Shadows will cure the caster of shadow-based wounds. However beware, It may not work on all types of shadow magic!\n  - The casting time of Artisanal Mending Shadows is 4.0 seconds and the reuse time of the spell is 30.0 seconds"
 used_in_quest: '[[Piercing the Darkness: Message in a Shadowed Bottle Part III]]'
 item_link: \aITEM 358215361 -1038264592:Staff of Luclin\/a
 categories:

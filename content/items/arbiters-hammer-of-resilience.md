@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Resilient**'
+effect_name: Resilient
+effects: "- When Equipped:\n  - On a hit this spell may cast Resilient on caster.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Potency of caster by 12.0.\n    - Makes caster immune to Stun effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 669217556 1755753647:Arbiter's Hammer of Resilience\/a
 categories:
 - Berserker Equipment

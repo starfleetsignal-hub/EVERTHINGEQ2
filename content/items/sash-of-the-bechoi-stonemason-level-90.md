@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   aspeed: '8.8'
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 131.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1279307543 -898265533:Sash of the Bechoi Stonemason\/a
 categories:
 - Assassin Equipment

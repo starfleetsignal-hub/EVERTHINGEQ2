@@ -15,7 +15,8 @@ stats:
   potency: '7.7'
   dps: '17'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 1222209170 -791919309:Vicar's Imperial Gauntlets\/a
 categories:
 - Census Credits

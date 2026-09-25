@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Evasive Posture**'
+effect_name: Evasive Posture
+effects: "- When Equipped:\n  - Applies Evasive Posture.  Lasts for 10.0 seconds.\n    - Inflicts 411,600 crushing damage on target.\n    - Increases Block Chance of caster by 7.2%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1627769475 827683421:Fabled Uustalastus' Postured Earring\/a
 categories:
 - Arcane Resistance (Equipment)

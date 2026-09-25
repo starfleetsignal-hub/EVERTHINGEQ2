@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   abmod: '+18'
   dtype: Tower Shield
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM 939723902 -2032775810:Aegis of Alacrity\/a
 categories:
 - Ability Modifier (Equipment)

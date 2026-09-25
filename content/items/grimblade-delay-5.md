@@ -20,7 +20,8 @@ stats:
   drating: '107.89'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Grim Outlook**'
+effect_name: Grim Outlook
+effects: "- When Equipped:\n  - On a hit this spell may cast Grim Outlook on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Accuracy of target by 3.0%.\n    - Slows target by 50.0%.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Digging in the Dirt]]'
 item_link: \aITEM -535645004 7008309:Grimblade\/a
 image: images/Grimblade_(Delay_5).png

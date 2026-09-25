@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   aspeed: '0.1'
   vselemental: '+150'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 13.5.\n    - Increases Haste of caster by 15.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1777154972 -329906442:Imbued Beryllium Band of Agility\/a
 categories:
 - Arcane Resistance (Equipment)

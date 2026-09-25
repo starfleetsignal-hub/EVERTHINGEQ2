@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Necessary Healing**'
+effect_name: Necessary Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Necessary Healing IV on target of spell cast.  Lasts for 12.0 seconds.\n    - Increases Potency of caster by 76.0.\n    - Applies to the caster if the target they heal is below 25% when the heal lands\n    - Cannot be modified except by direct means"
 item_link: \aITEM 623205595 192334908:Bangle of Harmful Healing\/a
 categories:
 - Arcane Resistance (Equipment)

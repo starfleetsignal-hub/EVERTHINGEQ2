@@ -17,7 +17,8 @@ stats:
   aspeed: '97.8'
   vselemental: +9,504
   mitinc: '4'
-effects: '**Tempered Will of Zek**'
+effect_name: Tempered Will of Zek
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Tempered Will of Zek on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 2,346 - 2,593 piercing damage on target instantly and every 3 seconds.\n    - Inflicts an additional 130 - 144 piercing damage on target every tick.\n    - Heals caster for 1,702 - 1,881 instantly and every 3 seconds.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1126947462 -583506701:Ancient Ring of Zek's Persistance\/a
 categories:
 - Ability Modifier (Equipment)

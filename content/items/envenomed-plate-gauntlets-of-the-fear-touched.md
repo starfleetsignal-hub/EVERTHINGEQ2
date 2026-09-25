@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   dps: '23.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 568631905 -1494493647 0 0 0:Envenomed Plate Gauntlets of the Fear-Touched\/a
 categories:
 - Census Credits

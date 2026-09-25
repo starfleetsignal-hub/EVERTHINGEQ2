@@ -18,7 +18,8 @@ stats:
   critbonus: 1,326
   potency: 42,335.6
   resolve: '515'
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 381.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -732959664 933588113:Remnant Medallion, Relic of Old Velious\/a
 categories:
 - Assassin Equipment

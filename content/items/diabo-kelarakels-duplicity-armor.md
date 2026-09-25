@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +11,088
-effects: '**Destructive Duplicity**'
+effect_name: Destructive Duplicity
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Destructive Duplicity on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 301,840 disease damage on target.\n    - Increases Crit Bonus of caster by 18.0.\n    - Increases Potency of caster by 18.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1390094726 1045805812:Diabo Kelara'Kel's Duplicity\/a
 categories:
 - Ability Modifier (Equipment)

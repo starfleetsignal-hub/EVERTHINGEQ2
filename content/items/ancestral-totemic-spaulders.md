@@ -17,7 +17,8 @@ stats:
   abmod: '+217'
   multi: '12'
   dtype: Chain Armor
-effects: '**Runic Deflection**'
+effect_name: Runic Deflection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Deflection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 3,200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1294052962 39348563:Ancestral Totemic Spaulders\/a
 categories:
 - Ability Modifier (Equipment)

@@ -11,7 +11,8 @@ stats:
   str: '+6'
   sta: '+5'
   dtype: Round Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 30 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 20) from [[Woodworker Essentials Volume 20 (Normal)]] *Crafted by [[Woodworker]] (level 20) from [[Woodworker Essentials Volume 20 (no-trade)]]'
 item_link: \aITEM 2122690147 1755745687:Imbued Ash Round Shield\/a
 categories:

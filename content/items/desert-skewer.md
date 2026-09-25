@@ -19,7 +19,8 @@ stats:
   drating: '56.34'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Terrorantula''s Bite**'
+effect_name: Terrorantula's Bite
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Terrorantula's Bite on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 115 - 172 poison damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Exquisite Chest]] of [[Terrorantula]]'
 item_link: \aITEM -1393002211 -879942360:Desert Skewer\/a
 image: images/Desert_Skewer.jpg

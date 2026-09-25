@@ -17,7 +17,8 @@ stats:
   multi: '43'
   flurry: '0.6'
   vselemental: +10,148
-effects: '**Waters of Talan**'
+effect_name: Waters of Talan
+effects: "- When Equipped:\n  - Increases AGI, STR and STA of caster by 100.0.\n  - Increases Crit Bonus of caster by 7.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -271656103 -1588980334:Talan's Shackle of Defiance\/a
 categories:
 - Arcane Resistance (Equipment)

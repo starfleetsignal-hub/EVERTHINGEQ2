@@ -24,7 +24,8 @@ stats:
   drating: '394.5'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,402 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 119) from [[Woodworker's Primer Volume 19]]
 item_link: \aITEM -926977046 -817592670:Veilwalker's Club of Endurance\/a
 categories:

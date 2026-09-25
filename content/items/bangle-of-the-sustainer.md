@@ -16,7 +16,8 @@ stats:
   abmod: +1,686
   aspeed: '19'
   vselemental: +35,154
-effects: '**Practiced Power**'
+effect_name: Practiced Power
+effects: "- When Equipped:\n  - Applies Practiced Power instantly and every 1.4 seconds.\n    - Increases Potency of group members (AE) by 42.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2058687659 749025559:Bangle of the Sustainer\/a
 categories:
 - Ability Modifier (Equipment)

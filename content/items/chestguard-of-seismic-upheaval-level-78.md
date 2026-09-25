@@ -16,7 +16,8 @@ stats:
   potency: '3.7'
   aspeed: '5.4'
   dtype: Chain Armor
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 18% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 230.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 392144016 -1581195377:Chestguard of Seismic Upheaval\/a
 categories:
 - Assassin Equipment

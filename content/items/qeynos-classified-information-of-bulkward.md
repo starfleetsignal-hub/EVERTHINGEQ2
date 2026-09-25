@@ -8,7 +8,8 @@ level: '60'
 slot: Charm
 classes: '[[Armorer]]'
 flags: attunable
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 290) from [[Experimenter's Blueprints 0.008]].
 item_link: \aITEM -1847975933 934252491:Qeynos' Classified Information of Bulkward\/a
 image: images/Qeynos'_Classified_Information_of_Bulkward.png

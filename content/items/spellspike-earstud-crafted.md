@@ -16,7 +16,8 @@ stats:
   aspeed: '7.2'
   dps: '12.8'
   vsarcane: '+830'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: \aITEM -1567803768 -905502734 0 0 0:Spellspike Earstud\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Cloth Armor
-effects: '**Stupor**'
+effect_name: Stupor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Stupor on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases DPS of target by 7.6 - 12.7.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -189913896 -1601731747:Iceloom Slippers\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vselemental: '+329'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM -1235158413 840088712:Ring of Motivation\/a
 categories:
 - Ability Modifier (Equipment)

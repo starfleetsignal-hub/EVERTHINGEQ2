@@ -12,7 +12,8 @@ stats:
   int: '+60'
   crit: '3'
   dtype: Symbols
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 972 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 731088751 -1156077469:Obliterator's Idol\/a
 categories:
 - Casting Speed (Equipment)

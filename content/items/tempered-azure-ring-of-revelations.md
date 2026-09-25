@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: '+644'
-effects: '**Holy Blaze**'
+effect_name: Holy Blaze
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.0.\n  - Increases Casting Speed of caster by 5.0%.\n  - Increases Reuse Speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 525.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of Revelations]] *Made from [[Protective Siren Shell]] *Made from [[Tavalan Finger Webbing]]'
 item_link: \aITEM -1793485491 -119328779:Tempered Azure Ring of Revelations\/a
 categories:

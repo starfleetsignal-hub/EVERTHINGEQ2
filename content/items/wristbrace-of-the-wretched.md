@@ -16,7 +16,8 @@ stats:
   aspeed: '2.3'
   dps: '9.2'
   vselemental: +8,415
-effects: '**Wretched Heart**'
+effect_name: Wretched Heart
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,371.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 710569592 -584238638:Wristbrace of the Wretched\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   vselemental: '+511'
-effects: '**Cipher**'
+effect_name: Cipher
+effects: "- When Equipped:\n  - This effect can only occur once every 10 seconds.\n  - When damaged this spell has a 10% chance to cast Cipher on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Applies Velium Cipher on termination.  Lasts for 10.0 seconds.\n      - Increases power of group members by 559.\n      - Increases power of group members by 145 every 5 seconds.\n    - Will absorb all damage. This spell will absorb a total of 2 attacks.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 881492680 -1726979971:Enforcer's Ring of Survival\/a
 categories:
 - Arcane Resistance (Equipment)

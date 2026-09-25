@@ -25,7 +25,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 13,173 crushing damage on target.\n    - Increases Crit Bonus of caster by 42.7.\n    - Increases Potency of caster by 66.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2137166465 -1949137759:Planar Prototype Shortbow\/a
 categories:
 - AE Autoattack Chance (Equipment)

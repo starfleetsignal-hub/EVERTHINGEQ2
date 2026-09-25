@@ -15,7 +15,8 @@ stats:
   potency: '7.8'
   abmod: '+246'
   mitinc: '7.7'
-effects: '**Drunken Rage**'
+effect_name: Drunken Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Drunken Rage on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of caster by 5.0.\n    - Decreases Casting Speed of caster by 5.0%.\n    - Increases DPS of caster by 15.0.\n    - Increases Ability Mod of caster by 75.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 938145265 -1896336021:Stein of Moggok\/a
 categories:
 - Ability Modifier (Equipment)

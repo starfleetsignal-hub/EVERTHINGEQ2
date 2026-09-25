@@ -16,7 +16,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   dtype: Buckler
-effects: '**Pureblood Protection**'
+effect_name: Pureblood Protection
+effects: "- When Equipped:\n  - When damaged with a spell this spell has a 25% chance to cast Pureblood Protection on the group.  Lasts for 1 minute.\n    - Increases Mitigation of group members (AE) vs elemental, noxious and arcane damage by 560.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1960668607 46239760:Pureblood Protectorate\/a
 categories:
 - Ability Modifier (Equipment)

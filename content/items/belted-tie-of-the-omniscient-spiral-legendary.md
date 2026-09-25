@@ -17,7 +17,8 @@ stats:
   potency: 45,356.9
   resolve: '545'
   abmod: +3922,339
-effects: '**Macabre Leap**'
+effect_name: Macabre Leap
+effects: "- When Equipped:\n  - Contributes 110 points towards Macabre Motive.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Spiral of Vul]]'
 item_link: \aITEM -1164645700 -1787303385:Belted Tie of the Omniscient Spiral\/a
 categories:

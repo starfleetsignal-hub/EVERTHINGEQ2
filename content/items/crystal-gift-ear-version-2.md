@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+66'
   vsarcane: '+280'
-effects: '**Crystal Gift**'
+effect_name: Crystal Gift
+effects: "- When Equipped:\n  - On a hostile spell cast this spell has a 4% chance to cast Crystal Gift on caster.\n    - Summon 1 Crystal Gift\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1989978518 952973265 0 0 0:Crystal Gift\/a
 categories:
 - Ability Modifier (Equipment)

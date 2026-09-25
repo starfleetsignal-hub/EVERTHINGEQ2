@@ -19,7 +19,8 @@ stats:
   drating: '59.02'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 196 - 364 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -109785384 546335069:Imbued Cobalt Tulwar\/a
 categories:
 - Ability Modifier (Equipment)

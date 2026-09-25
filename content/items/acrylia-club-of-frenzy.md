@@ -23,7 +23,8 @@ stats:
   drating: '1222.08'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 6,088 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: Crafted by [[Woodworker]] (level 120) from [[Acrylia Woodworker's Primer Volume II]]
 item_link: \aITEM -1121656880 660530234:Acrylia Club of Frenzy\/a
 categories:

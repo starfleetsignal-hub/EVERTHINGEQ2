@@ -18,7 +18,8 @@ stats:
   potency: '2.7'
   abmod: '+25'
   dps: '8.4'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Attack Speed of caster by 25.0"
 obtained_from: 'Heritage quest reward: [[The Fourth Warrior - Unification]] * This item is a quest reward for completing the [[Heritage Quests Timeline|heritage quest]] series, [[Cloak of Flames Timeline|Cloak of Flames]]'
 item_link: \aITEM 264598753 1047335969:Cloak of Flames\/a
 categories:

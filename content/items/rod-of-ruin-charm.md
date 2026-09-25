@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '22.8'
   potency: '22.8'
-effects: '**Noxious Focus**'
+effect_name: Noxious Focus
+effects: "- Applies Noxious Focus when Activated.  Lasts for 8.0 seconds.\n  - Grants 400 potency to all noxious abilities.\n  - Removes 200 potency from arcane and elemental damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Noxious Focus is 2 minutes"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Spectral Mastery]] *Made from [[Shard of Spectral Light]]'
 item_link: \aITEM 316299475 589744537:Rod of Ruin\/a
 categories:

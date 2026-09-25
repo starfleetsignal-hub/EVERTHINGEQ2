@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dps: '9.7'
-effects: '**Warrior''s Grace**'
+effect_name: Warrior's Grace
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 2.0%.\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -2100346808 2125700213:Belt of the Noble Warrior\/a
 categories:
 - Ability Modifier (Equipment)

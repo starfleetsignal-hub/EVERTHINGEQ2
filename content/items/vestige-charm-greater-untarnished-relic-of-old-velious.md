@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   mitinc: '72.1'
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor of caster by 42.7.\n  - Increases Crit Bonus of caster by 364.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1519994887 -2044693958:Vestige Charm, Greater Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

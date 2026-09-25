@@ -24,7 +24,8 @@ stats:
   drating: '337.77'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 19,303 crushing damage on target.\n    - Increases Crit Bonus of caster by 43.1.\n    - Increases Potency of caster by 67.0.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Invocation of Lord Rak''Ashiir]]'
 item_link: \aITEM -859385713 -1251610993:Great Sword of Accursed Binding\/a
 categories:

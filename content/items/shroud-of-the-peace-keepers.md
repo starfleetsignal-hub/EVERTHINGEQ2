@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Spirit of Al''Kabor**'
+effect_name: Featherfall, Spirit of Al'Kabor
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Spirit of Al'Kabor when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into an erudite\n  - The casting time of Spirit of Al'Kabor is 1.0 second and the reuse time of the spell is 5.0 seconds"
 obtained_from: From [[Erudite Heritage Armor Crate]]
 item_link: \aITEM -1127368462 38471364:Shroud of the Peace Keepers\/a
 categories:

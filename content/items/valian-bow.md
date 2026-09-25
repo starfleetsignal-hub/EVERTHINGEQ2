@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Ancient Glyph of Venom**'
+effect_name: Ancient Glyph of Venom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Venom on target of attack.  Triggers about 2.4 times per minute.\n    - Inflicts 166 - 277 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1504480706 1489141495:Valian bow\/a
 categories:
 - Ancient Glyph of Venom (Equipment)

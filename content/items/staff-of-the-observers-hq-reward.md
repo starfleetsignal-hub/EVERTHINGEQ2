@@ -20,7 +20,8 @@ stats:
   drating: '59.47'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Sentinel**'
+effect_name: Sentinel
+effects: "- Applies Sentinel when Activated.  Lasts for 10 minutes.\n  - Summons a pet Sentinel\n  - This effect cannot be cast during combat\n  - The casting time of Sentinel is 5.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: 'Heritage quest reward: [[The Staff of the Observers]]'
 item_link: \aITEM -2023932470 767663967:Staff of the Observers\/a
 image: images/Staff_of_the_Observers_(House).png

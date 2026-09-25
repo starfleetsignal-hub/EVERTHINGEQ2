@@ -17,7 +17,8 @@ stats:
   multi: '18.6'
   mitinc: '11.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -564261681 -74219786:Storm Dragonscale Gauntlets\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   flurry: '1.6'
-effects: '**Awakened Instinct**'
+effect_name: Awakened Instinct
+effects: "- Applies Awakened Instinct when Equipped.\n  - Increases Crit Chance of caster by 2.0.\n  - Increases Combat Power Regen of caster by 5.0."
 obtained_from: '[[A Mark of Awakening]]'
 item_link: \aITEM -916073847 1116952278:Mark of the Awakened Instinct\/a
 categories:

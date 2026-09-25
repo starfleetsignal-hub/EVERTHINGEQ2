@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   dps: '9.7'
   vsnoxious: '+338'
-effects: '**Lesser Counterattack**'
+effect_name: Lesser Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 198 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 421559624 -921213890:Rolled Clay Ring\/a
 categories:
 - Arcane Resistance (Equipment)

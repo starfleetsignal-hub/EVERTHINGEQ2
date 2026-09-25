@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Ancient Glyph of Poison**'
+effect_name: Ancient Glyph of Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Poison on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 61 - 75 poison damage on target instantly and every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 465613530 -570632432:Wary Cutlass\/a
 categories:
 - Ancient Glyph of Poison (Equipment)

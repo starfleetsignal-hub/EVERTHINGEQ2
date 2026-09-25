@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Plague**'
+effect_name: Plague
+effects: "- Applies Plague III when Activated.  Lasts for 1 minute.\n  - Increases Multi Attack of caster by 80.0.\n  - Converts damage spells to disease damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Plague III is 1 minute"
 item_link: \aITEM -1523610813 -573897336:Ardent Medal of the Plagues\/a
 image: images/Ardent_Medal_of_the_Plagues.png
 categories:

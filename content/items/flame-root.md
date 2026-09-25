@@ -8,7 +8,7 @@ flags: lore no-trade
 stats:
   charges: 1/1
   casting: (varies)
-effects: Flame Root
+effects: '- Inflicts heat damage on target (varies)'
 obtained_from: A [[Carnivorous Plant]].
 categories:
 - Assassin Equipment

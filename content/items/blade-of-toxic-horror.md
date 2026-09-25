@@ -21,7 +21,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Vicious Focus**<br>**Slayer''s Conviction**'
+effect_name: Vicious Focus, Slayer's Conviction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On any combat or spell hit this spell may cast Slayer's Conviction on caster.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Increases DPS of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1600945563 164676545:Blade of Toxic Horror\/a
 categories:
 - Attack Speed (Equipment)

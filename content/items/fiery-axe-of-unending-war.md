@@ -20,7 +20,8 @@ stats:
   drating: '151.2'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Fever of War**'
+effect_name: Fever of War
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 20.0%.\n  - On a combat hit this spell may cast Fever of War on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Caster will Double Attack on 10% of melee attacks. Increases Melee Crit Chance of caster by 25%. Caster has a 55% chance of having their primary weapon's AutoAttack affect multiple targets."
 item_link: \aITEM 1015701991 -996035977:Fiery Axe of Unending War\/a
 categories:
 - Attack Speed (Equipment)

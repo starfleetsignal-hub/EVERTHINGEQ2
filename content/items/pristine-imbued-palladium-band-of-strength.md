@@ -12,7 +12,7 @@ stats:
   agi: '+12'
   health: '+25'
   power: '+25'
-effects: Aura of Strength
+effects: "- When Equipped:\n  - On a successful melee attack this spell has a chance to cast **Blaze of Strength** on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - Increases STR of caster by 8.3\n    - Increases Damage Per Second of caster by 17.7"
 obtained_from: Crafted by [[Jeweler]] (level 28) from [[Advanced Jeweler Volume 28]]
 item_link: \aITEM -803926075 -1383568112:Pristine Imbued Palladium Band of Strength\/a
 categories:

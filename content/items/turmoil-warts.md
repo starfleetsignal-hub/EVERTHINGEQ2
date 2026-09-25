@@ -6,7 +6,8 @@ icon: images/Item_2307.png
 tier: Legendary
 level: '70'
 flags: lore-equip attunable heirloom
-effects: '**Turmoil Warts**'
+effect_name: Turmoil Warts
+effects: '- Applies Turmoil Warts when Equipped.'
 item_link: \aITEM 1931908492 -599719111:Turmoil Warts\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '1.7'
   flurry: '1.5'
   vselemental: '+469'
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent."
 item_link: \aITEM 386016417 -229181537:Loop of Deadly Dreams\/a
 categories:
 - Arcane Resistance (Equipment)

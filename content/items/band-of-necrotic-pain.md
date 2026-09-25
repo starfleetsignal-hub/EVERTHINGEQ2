@@ -16,7 +16,8 @@ stats:
   dps: '13.4'
   multi: '8.4'
   vselemental: +1,040
-effects: '**Pain of Necrosis**'
+effect_name: Pain of Necrosis
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pain of Necrosis on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Accuracy of target by 3.0%.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1603919036 1777697939:Band of Necrotic Pain\/a
 image: images/Band_of_Necrotic_Pain.jpg
 categories:

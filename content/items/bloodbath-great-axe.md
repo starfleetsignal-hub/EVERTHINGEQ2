@@ -19,7 +19,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Savagery**'
+effect_name: Savagery
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Savagery I on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases DPS of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1887128290 1446571565:Bloodbath\/a
 categories:
 - Attack Speed (Equipment)

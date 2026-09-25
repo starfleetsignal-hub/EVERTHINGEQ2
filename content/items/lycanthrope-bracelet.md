@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   aspeed: '6.7'
-effects: '**Lycanthropy**'
+effect_name: Lycanthropy
+effects: "- Applies Lycanthropy when Activated.  Lasts for 15.0 seconds.\n  - Shapechanges caster into a werewolf\n  - Enlarges caster by 50.0%.\n  - When a combat art is used this spell will cast Lycanthropic Rage on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,061 disease damage on target\n    - Heals caster for 531\n    - Increases Threat to target by 875\n    - Cannot be modified except by direct means\n  - This item may not be used in a PvP zone.\n  - The casting time of Lycanthropy is 0.5 seconds and the reuse time of the spell is 6 minutes"
 item_link: \aITEM 1678333498 -1479412105:Lycanthrope Bracelet\/a
 categories:
 - AE Autoattack Chance (Equipment)

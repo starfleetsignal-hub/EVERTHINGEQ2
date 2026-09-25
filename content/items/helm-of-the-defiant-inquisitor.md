@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   aspeed: '2.4'
   dtype: Plate Armor
-effects: '**Divine Affirmation**'
+effect_name: Divine Affirmation
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Divine Affirmation on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 239 divine damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of divine abilities."
 item_link: \aITEM -670335376 1851335045:Helm of the Defiant\/a
 categories:
 - Attack Speed (Equipment)

@@ -16,7 +16,8 @@ stats:
   aspeed: '22.4'
   multi: '49'
   dtype: Chain Armor
-effects: '**Necromunger''s Fortitude**'
+effect_name: Necromunger's Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 1354828102 -350869384:Chainlink Guard of the All-Killer\/a
 categories:
 - Assassin Equipment

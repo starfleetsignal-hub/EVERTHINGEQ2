@@ -18,7 +18,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,769\n      - Must be flanking or behind\n    - Increases Threat to target by 2,434\n      - Must be in front of\n    - Inflicts 126 - 233 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 47) from [[Advanced Woodworker Volume 47 (Normal)]] *Crafted by [[Woodworker]] (level 47) from [[Advanced Woodworker Volume 47 (no-trade)]]'
 item_link: \aITEM 573843842 1093456807:Imbued Cedar Fighting Baton\/a
 categories:

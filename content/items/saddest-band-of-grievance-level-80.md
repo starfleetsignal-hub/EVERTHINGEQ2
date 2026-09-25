@@ -16,7 +16,8 @@ stats:
   abmod: '+133'
   multi: '7.7'
   vselemental: '+400'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 32.0."
 item_link: \aITEM 1541538788 779686835:Saddest Band of Grievance\/a
 categories:
 - Ability Modifier (Equipment)

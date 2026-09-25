@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Poison Bolt**'
+effect_name: Poison Bolt
+effects: "- Applies Poison Bolt when Activated.\n  - Inflicts 330 - 551 poison damage on target.\n  - The casting time of Poison Bolt is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1817832684 -1749118605:Poison Imbued Ebony Wand\/a
 categories:
 - Attack Speed (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dps: '15.2'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -63827270 2076652443:Girdle of Bitter Friction\/a
 categories:
 - Ability Modifier (Equipment)

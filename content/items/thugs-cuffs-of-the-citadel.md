@@ -18,7 +18,8 @@ stats:
   abmod: '+279'
   multi: '14'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: From [[Inexorable Gloves]]
 item_link: \aITEM 763314160 -445596446:Thug's Cuffs of the Citadel\/a
 categories:

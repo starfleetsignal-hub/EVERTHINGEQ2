@@ -22,7 +22,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Soullich**'
+effect_name: Soullich
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Essencelich II on target of attack.  Lasts for 20.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 6,369 disease damage on target.\n    - Increases Potency of caster by 40.0.\n    - Increases DPS of caster by 55.0.\n    - Increases Mitigation of caster vs noxious damage by 5,391.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -748931193 983037177:Forge Titan's Massive Greatstaff\/a
 categories:
 - Ability Modifier (Equipment)

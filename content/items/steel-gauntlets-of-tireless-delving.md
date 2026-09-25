@@ -17,7 +17,8 @@ stats:
   aspeed: '12.7'
   mitinc: '8.6'
   dtype: Plate Armor
-effects: '**Siphoned Souls**'
+effect_name: Siphoned Souls
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Siphoned Souls on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,365 - 2,047 magic damage on target.\n    - Heals group members (AE) for 1,673 - 2,045.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 816982984 -265772865:Steel Gauntlets of Tireless Delving\/a
 categories:
 - Attack Speed (Equipment)

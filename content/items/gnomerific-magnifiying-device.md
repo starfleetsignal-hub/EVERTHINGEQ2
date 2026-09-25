@@ -8,7 +8,8 @@ level: '40'
 slot: Charm
 classes: '[[Jeweler]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 180) from [[Dabbler's Blueprints 0.007]].
 item_link: \aITEM -1506503714 -1532341283:Gnomerific Magnifiying Device\/a
 categories:

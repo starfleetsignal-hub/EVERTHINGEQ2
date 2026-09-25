@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Illusion: Koada''Dal**'
+effect_name: 'Illusion: Koada''Dal'
+effects: "- Applies Illusion: Koada'Dal when Activated.  Lasts for 6 hours.\n  - Shapechanges caster into a high elf\n  - The casting time of Illusion: Koada'Dal is 2.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: From [[Roadyle Terethe's Cloak (crate)|Roadyle Terethe's Cloak]]
 item_link: \aITEM -404837969 -198758195:Roadyle Terethe's Cloak\/a
 categories:

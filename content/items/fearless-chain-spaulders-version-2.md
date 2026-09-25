@@ -16,7 +16,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Chain Armor
-effects: '**Empowered Arts**'
+effect_name: Empowered Arts
+effects: "- When Equipped:\n  - Increases base Combat Art damage by 5%."
 obtained_from: Sold by [[A mysterious Quellithulian (Shard Armor Merchant)]] in [[Moors of Ykesha]]
 item_link: \aITEM -610928350 -910588689 0 0 0:Fearless Chain Spaulders\/a
 categories:

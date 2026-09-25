@@ -16,7 +16,8 @@ stats:
   abmod: '+40'
   multi: '4'
   dtype: Plate Armor
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,225 - 1,838 poison damage on target\n    - Heals caster for 816 - 1,224\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: Sold by [[Scion of Bhaast]] (Battlegrounds Merchant) in [[Frostfang Sea]] on Erollis Dock at {{waypoint -349.92, 30.30, 239.44}} for 1p 20g 55 Klak'Anon Cog and 55 Battlefield of Ganak Trophy
 item_link: \aITEM 897725243 -1312337613:Challenger's Dreadnaught Breastplate\/a
 categories:

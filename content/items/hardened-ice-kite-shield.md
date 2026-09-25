@@ -14,7 +14,8 @@ stats:
   potency: '0.8'
   flurry: '0.8'
   dtype: Kite Shield
-effects: '**Plague**'
+effect_name: Plague
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Plague on target's attacker.  Lasts for 48.0 seconds.\n    - Inflicts 37 - 62 disease damage on targets in Area of Effect every 6.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -692842873 -1563497729:Hardened Ice Kite Shield\/a
 categories:
 - Berserker Equipment

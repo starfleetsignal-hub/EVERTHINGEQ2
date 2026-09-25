@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   multi: '17'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1360754011 643994830:Bargained Gauntlets of the Retailer\/a
 categories:
 - Berserker Equipment

@@ -16,7 +16,8 @@ stats:
   multi: '8.1'
   flurry: '3.5'
   vsarcane: '+880'
-effects: '**Positive Channeling of the Void**'
+effect_name: Positive Channeling of the Void
+effects: "- When Equipped:\n  - Increases Effective Level of caster to 83.\n  - Must be in Munzok's Material Bastion.\n  - Requires not having an apprentice"
 obtained_from: '[[Hook, Line, and... Anchor?]]'
 item_link: \aITEM 1661532198 424876542:Mark of Void Channeling\/a
 categories:

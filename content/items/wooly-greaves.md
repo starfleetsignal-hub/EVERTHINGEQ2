@@ -18,7 +18,8 @@ stats:
   aspeed: '9.3'
   dps: '15.9'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]]
 item_link: \aITEM -1058652662 -406729195:Wooly Greaves\/a
 categories:

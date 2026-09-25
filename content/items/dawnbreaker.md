@@ -21,7 +21,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Dawnbreak**'
+effect_name: Dawnbreak
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Dawnbreak on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 162 - 270 divine damage on target.\n    - Inflicts 28 - 47 divine damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1227631940 -135830069:Dawnbreaker\/a
 categories:
 - Assassin Equipment

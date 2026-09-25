@@ -19,7 +19,8 @@ stats:
   drating: '81.87'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Wind of Healing**'
+effect_name: Wind of Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Wind of Healing on target of attack.  Triggers about 1.8 times per minute.\n    - Heals caster for 430.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1783199250 1666799363:Awakened Stormwind Battlemace\/a
 categories:
 - Beastlord Equipment

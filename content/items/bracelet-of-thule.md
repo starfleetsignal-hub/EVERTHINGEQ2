@@ -16,7 +16,8 @@ stats:
   aspeed: '2.9'
   dps: '6.5'
   vsarcane: '+525'
-effects: '**Thule''s Temper**'
+effect_name: Thule's Temper
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Thule's Temper on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 300\n    - Inflicts 251 mental damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of magic, cold, divine, disease, heat, mental or poison abilities."
 item_link: \aITEM -695381990 -47452205:Bracelet of Thule\/a
 categories:
 - Arcane Resistance (Equipment)

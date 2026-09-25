@@ -16,7 +16,8 @@ stats:
   potency: '1'
   abmod: '+24'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 54 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 54) from [[Advanced Armorer Volume 54 (Heirloom)]] *Crafted by [[Armorer]] (level 54) from [[Advanced Armorer Volume 54 (Normal)]] *From [[Reverent Armor Pack (Level 52 Mastercrafted) (Version 1)|Reverent Armor Pack (Level 52 Mastercrafted)]] *From [[Reverent Armor Pack (Level 52 Mastercrafted) (Version 2)|Reverent Armor Pack (Level 52 Mastercrafted)]]'
 item_link: \aITEM -1931574075 1465787536:Imbued Cobalt Reverent Coat\/a
 categories:

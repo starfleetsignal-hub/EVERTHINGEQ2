@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   abmod: '+369'
-effects: '**Phantasmal Siphon**'
+effect_name: Phantasmal Siphon
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,355 - 2,603 poison damage on target\n    - Heals caster for 1,178 - 1,301\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1477633079 554143809:Dracurian Enchanter's Tongue\/a
 categories:
 - Ability Modifier (Equipment)

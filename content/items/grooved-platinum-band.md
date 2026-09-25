@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   dps: '12.9'
   vsarcane: '+420'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[Ra'di]] (Faction Merchant) in [[The Sundered Frontier]]
 item_link: \aITEM -1620961414 -416207808:Grooved Platinum Band\/a
 categories:

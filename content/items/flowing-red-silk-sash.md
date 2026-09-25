@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   abmod: '+203'
   multi: '11'
-effects: '**Rancorous Ire**'
+effect_name: Rancorous Ire
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rancorous Ire on target of attack.  Triggers about 2.0 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 532 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1350981726 -1783285034:Flowing Red Silk Sash\/a
 categories:
 - Ability Modifier (Equipment)

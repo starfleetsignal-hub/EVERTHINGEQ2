@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   vselemental: +11,880
-effects: '**Positional Advantage**'
+effect_name: Positional Advantage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Positional Advantage III on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 78, 500 piercing damage to the target. This damage increases if the wearer is flanking or behind their target and the closer they are to the target, up to 600, 525 piercing damage.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -40103169 -747294642:Hooked Stud of Hidden Attacks\/a
 aliases:
 - Hooked Stud of Hidden Attacks (1 Gem)

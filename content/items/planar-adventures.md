@@ -7,7 +7,8 @@ tier: Mythical
 level: '110'
 slot: Charm
 flags: no-trade no-value
-effects: '**Mastercrafter''s Expertise**<br>**Elemental Material Manager**'
+effect_name: Mastercrafter's Expertise, Elemental Material Manager
+effects: "- Applies Mastercrafter's Expertise when Equipped.\n  - Increases critical success chance by 1.0%.\n  - Increases the amount of progress gained by 5.0%.\n- Applies Elemental Material Manager when Activated.  Lasts for 5 minutes.\n  - Summon a fuel merchant from distant planes.\n  - The casting time of Elemental Material Manager is 5.0 seconds and the reuse time of the spell is 2 hours"
 obtained_from: '[[The Scrivener''s Tale]]'
 item_link: \aITEM 1793565938 -459847693:Planar Adventures\/a
 image: images/Planar_Adventures.png

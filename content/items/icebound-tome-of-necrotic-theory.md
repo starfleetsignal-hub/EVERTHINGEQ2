@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 5 percent."
 item_link: \aITEM 65139338 395569502:Icebound Tome of Necrotic Theory\/a
 categories:
 - Arcane Recovery (Equipment)

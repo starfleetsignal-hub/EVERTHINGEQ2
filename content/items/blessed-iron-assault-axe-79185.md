@@ -16,7 +16,7 @@ stats:
   drating: '8.6'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: Glowing Blessing
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to cast Glowing Blessing on target of spell cast.  Lasts for 12.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 8"
 obtained_from: Crafted by [[Outfitter]] (level 11) from [[Outfitters essentials volume 11]]
 item_link: \aITEM -1772867198 738750561:blessed iron assault axe\/a
 categories:

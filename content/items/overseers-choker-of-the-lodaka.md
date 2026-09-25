@@ -17,7 +17,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**United We Stand**'
+effect_name: United We Stand
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 35 if they have 2 or more grouped allies within 10 meters of them."
 item_link: \aITEM 306437197 1082322296:Overseer's Choker of the Lodaka\/a
 categories:
 - Assassin Equipment

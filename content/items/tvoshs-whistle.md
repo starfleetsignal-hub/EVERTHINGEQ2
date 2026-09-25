@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 0.71 seconds
   recast: Instant
-effects: Summon T'Vosh
+effects: "- Applies Summon T'Vosh when Activated.\n  - Summons a mount to ride that increases your speed by 70%\n  - Increases Spell Crit Bonus of caster by 2.0%\n  - Increases the base amount of taunts by 2.0%\n  - Increases Melee Crit Bonus of caster by 2.0%\n  - Increases Max Power of caster by 200\n  - If above level 80"
 item_link: \aITEM 378080595 -2035474773:[T'Vosh's Whistle]\/a
 categories:
 - Assassin Equipment

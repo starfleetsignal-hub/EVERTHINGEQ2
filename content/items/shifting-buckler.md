@@ -14,7 +14,8 @@ stats:
   critbonus: '3'
   abmod: '+75'
   dtype: Buckler
-effects: '**Purge Pain**'
+effect_name: Purge Pain
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Purge Pain on caster.\n    - Heals caster for 600.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM -1449077573 -1393384329:Shifting Buckler\/a
 categories:

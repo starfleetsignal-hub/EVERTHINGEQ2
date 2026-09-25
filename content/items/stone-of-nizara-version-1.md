@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   vsarcane: '+560'
-effects: '**Id Dominance**'
+effect_name: Id Dominance
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ego Whip on target of spell.  Lasts for 6.0 seconds.  Triggers about 0.2 times per minute.\n    - Slows target by 77.0%.\n    - Makes target afraid\n    - 15% chance to dispel when target takes damage\n    - Must not be engaged in pvp combat\n    - If Target is not Epic\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means\n  - If Target is not Epic"
 item_link: \aITEM -664039097 1401801850:Stone of Nizara\/a
 categories:
 - AE Autoattack Chance (Equipment)

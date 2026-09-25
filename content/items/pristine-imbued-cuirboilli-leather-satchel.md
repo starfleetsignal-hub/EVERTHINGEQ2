@@ -16,7 +16,7 @@ stats:
   drating: '20.6'
   range: 2 - 25
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts 123 - 229 magic damage on target"
 obtained_from: Crafted by [[Tailor]] (level 24) from [[Advanced Tailor Volume 24]]
 item_link: \aITEM 1377239843 1331675299:Pristine Imbued Cuirboilli Leather Satchel\/a
 categories:

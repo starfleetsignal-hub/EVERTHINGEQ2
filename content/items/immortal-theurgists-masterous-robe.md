@@ -16,7 +16,8 @@ stats:
   potency: '11.2'
   aspeed: '18.4'
   dtype: Cloth Armor
-effects: '**Unavoidable Annihilation**'
+effect_name: Unavoidable Annihilation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Unavoidable Annihilation on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 3,227 - 3,566 piercing damage on a target in Area of Effect instantly and every 3 seconds.\n    - Heals group members (AE) for 1,039 - 1,148 instantly and every 3 seconds.\n    - Increases Casting Speed of caster by 10.0%.\n    - Increases Crit Bonus of group members (AE) by 4.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Generals
 item_link: \aITEM 717165953 -566114931:Immortal Theurgist's Masterous Robe\/a
 categories:

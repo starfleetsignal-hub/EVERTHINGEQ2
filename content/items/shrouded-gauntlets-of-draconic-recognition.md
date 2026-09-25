@@ -17,7 +17,8 @@ stats:
   dps: '25.5'
   multi: '16.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: From [[Ornate Crate of Endless Goodies]]
 item_link: \aITEM 1779417259 699438405:Shrouded Gauntlets of Draconic Recognition\/a
 categories:

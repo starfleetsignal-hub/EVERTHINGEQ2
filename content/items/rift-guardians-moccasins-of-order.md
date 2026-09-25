@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM -1815013330 -1727191171 0 0 0:Rift Guardian's Moccasins of Order\/a
 categories:
 - Casting Speed (Equipment)

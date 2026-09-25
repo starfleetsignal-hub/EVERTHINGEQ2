@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Scale Slice**'
+effect_name: Scale Slice
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Scale Slice on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 428 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1813890293 -709986146:Tendon Strung Longbow\/a
 categories:
 - Ability Modifier (Equipment)

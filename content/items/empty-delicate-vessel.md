@@ -9,7 +9,7 @@ stats:
   charges: 1/1
   casting: '3.0'
   recast: '2.0'
-effects: Collect Water
+effects: "- Applies Collect Water when Activated.\n  - Updates a specifi part of the Quest \"Grobin Trouble at the Pond\"\n  - This effect cannot be cast during combat\n  - You must use this to collect water from the Amethyst Pond in Greater Faydark"
 obtained_from: 'Quest: [[Grobin Trouble at the Pond]]'
 used_in_quest: '[[Grobin Trouble at the Pond]]'
 categories:

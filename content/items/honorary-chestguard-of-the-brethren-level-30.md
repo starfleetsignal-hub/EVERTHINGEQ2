@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '196'
   dtype: Plate Armor
-effects: '**Power of the Brethren**'
+effect_name: Power of the Brethren
+effects: "- When Equipped:\n  - Increases Power Regen of caster by 5.0.\n  - This effect suspends during combat"
 obtained_from: '[[Crushing Betrayal]]'
 item_link: \aITEM 234365401 -982240623:Honorary Chestguard of the Brethren\/a
 categories:

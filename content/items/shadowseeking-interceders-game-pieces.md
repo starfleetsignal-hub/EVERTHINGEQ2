@@ -18,7 +18,8 @@ stats:
   resolve: '170'
   abmod: +50,749
   mitinc: '26.8'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 2,071.9.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1909455538 1438654433:Shadowseeking Interceder's Game Pieces\/a
 categories:
 - Ability Modifier (Equipment)

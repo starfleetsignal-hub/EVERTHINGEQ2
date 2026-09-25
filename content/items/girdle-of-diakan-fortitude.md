@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   dps: '29.6'
   multi: '19.2'
-effects: '**Major Serrated Subterfuge**'
+effect_name: Major Serrated Subterfuge
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Major Serrated Subterfuge on caster.  Lasts for 8.0 seconds.  Triggers about 2.2 times per minute.\n    - When damaged this spell will cast Major Serrated Subterfuge on target's attacker.\n      - Inflicts 3,478 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 81566026 -1836387871:Girdle of Diakan Fortitude\/a
 categories:
 - Assassin Equipment

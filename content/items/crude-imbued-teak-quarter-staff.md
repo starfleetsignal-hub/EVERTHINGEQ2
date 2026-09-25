@@ -15,7 +15,8 @@ stats:
   drating: '31.45'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 72 - 109 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -391359622 1081351257:Crude Imbued Teak Quarter Staff\/a
 categories:
 - Berserker Equipment

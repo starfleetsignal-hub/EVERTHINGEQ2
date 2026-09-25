@@ -21,7 +21,8 @@ stats:
   drating: '132'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases Haste of caster by 4.5.\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1564249428 1887574145:Dagger of Draconic Eradication\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   mitinc: '5'
   dtype: Leather Armor
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 134.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1609993022 -186213658:Executor's Wraps\/a
 categories:
 - Assassin Equipment

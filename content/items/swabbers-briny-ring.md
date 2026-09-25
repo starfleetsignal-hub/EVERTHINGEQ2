@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +24,232
-effects: '**Amplifying Power**'
+effect_name: Amplifying Power
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 42%-83.4%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 1437714958 2069905963:Swabber's Briny Ring\/a
 categories:
 - Ability Modifier (Equipment)

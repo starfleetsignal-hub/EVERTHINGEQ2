@@ -15,7 +15,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   multi: '13.5'
-effects: '**Shadowed Retribution**'
+effect_name: Shadowed Retribution
+effects: "- When Equipped:\n  - Increases damage effect damage by 40%.\n  - When any damage is received this spell has a 10% chance to cast Bloogly's Retribution on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 639 disease damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2078488324 -1374125097:Mantle of the House of Syl'Tor\/a
 categories:
 - Census Credits

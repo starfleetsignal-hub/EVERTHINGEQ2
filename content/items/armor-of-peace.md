@@ -7,7 +7,7 @@ flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   duration: 30.0 seconds
   charges: 1/1
-effects: Armor of Peace
+effects: "- Applies ***Armor of Peace*** when Activated. Lasts for 30.0 seconds.\n  - Wards target against 1000000 points of all damage\n  - Must be in Deathfist Citadel: Prison Break"
 obtained_from: No longer obtainable, was part of the Return of the Gods world event series.
 image: images/Armor_of_peace.gif
 categories:

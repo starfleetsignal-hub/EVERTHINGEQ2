@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   dtype: Leather Armor
-effects: '**Enraging Heal**'
+effect_name: Enraging Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell has a 10% chance to cast Passive Aggressive on target of spell cast.  Lasts for 10.0 seconds.\n    - Decreases Hate Gain of target by 5.0.\n      - If not fighter\n    - Increases Hate Gain of target by 5.0.\n      - If fighter\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Tailor]] (level 77) from [[Riliss Light Armoring Volume II]]
 item_link: \aITEM -1644749714 -1644691110:Rilissian Manslayer Leather Tunic\/a
 categories:

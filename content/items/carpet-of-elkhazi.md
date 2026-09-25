@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Unroll Carpet of El'khazi
+effects: "- Applies Unroll Carpet of El'khazi when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 40%"
 obtained_from: Reward for the quest [[The Spirit of Ab'zheri]] from the [[Sinking Sands Timeline#Carpet Quest (Heroic)|Carpet Quest series]]
 item_link: 1874214149 436820574:Carpet of El'khazi
 image: images/Carpet_of_El'khazi_summoner.jpg

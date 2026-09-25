@@ -17,7 +17,8 @@ stats:
   abmod: +1,606
   aspeed: '36.3'
   dps: '13.9'
-effects: '**The Wild Divine**'
+effect_name: The Wild Divine
+effects: "- When Equipped:\n  - Increases Potency of caster by 28.0.\n  - Improves the heal potency granted by the heal stance by 66% and whenever the priest casts a heal while in that stance, they will gain 50% Flurry for 3 seconds.\n  - Removes the penalties from the priest's heal stance"
 item_link: \aITEM 837797121 -728169973:Spiked Gorget of the Dark Lurker\/a
 categories:
 - Ability Modifier (Equipment)

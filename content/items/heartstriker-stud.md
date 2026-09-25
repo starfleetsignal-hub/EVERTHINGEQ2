@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: +1,824
-effects: '**Uncanny Insight**'
+effect_name: Uncanny Insight
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 4.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 189386791 444043060 0 0 0:Heartstriker Stud\/a
 categories:
 - Ability Modifier (Equipment)

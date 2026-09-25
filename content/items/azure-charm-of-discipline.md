@@ -16,7 +16,8 @@ stats:
   aspeed: '9'
   multi: '44.1'
   flurry: '0.6'
-effects: '**Weaponmaster''s Singularity**'
+effect_name: Weaponmaster's Singularity
+effects: "- When Equipped:\n  - Increases STA and AGI of caster by 25.0.\n  - Increases Crit Bonus of caster by 2.0.\n  - Increases Crushing, Slashing, Piercing and Ranged of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of Discipline]] *Made from [[Azure Reactant]]'
 item_link: \aITEM 796365754 1965875492:Azure Charm of Discipline\/a
 categories:

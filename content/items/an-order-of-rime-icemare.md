@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: 0.0 seconds
-effects: Summon an Icemare of Rime
+effects: "- Applies Summon an Icemare of Rime when Activated.\n  - Increases Damage Per Second of caster by 5.0\n  - Increases Max Health of caster by 150\n  - Increases Max Power of Caster by 150\n  - Summons a mount to ride that increases your speed by 68%"
 obtained_from: Sold by [[Melimy Yolta]] (Faction Merchant) in [[Fens of Nathsar]] for 40p 80g 2c
 item_link: 423936103 -1284182139:[an Order of Rime Icemare]
 categories:

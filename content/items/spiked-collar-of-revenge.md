@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   multi: '76.5'
   mitinc: '19.6'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -69918351 -514711657:Spiked Collar of Revenge\/a
 categories:
 - Assassin Equipment

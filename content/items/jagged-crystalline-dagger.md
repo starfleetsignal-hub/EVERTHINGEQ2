@@ -15,7 +15,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ancient Glyph of Striking**'
+effect_name: Ancient Glyph of Striking
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ancient Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 57 - 95 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1707614434 -2034257049:Jagged Crystalline Dagger\/a
 image: images/Jagged_Crystalline_Dagger.png
 categories:

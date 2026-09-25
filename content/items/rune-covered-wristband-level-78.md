@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   dps: '10.1'
   vselemental: '+360'
-effects: '**Smash**'
+effect_name: Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.4 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2118696974 -539164756:Rune Covered Wristband\/a
 categories:
 - Arcane Resistance (Equipment)

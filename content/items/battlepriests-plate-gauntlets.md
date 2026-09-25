@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   multi: '6.4'
   dtype: Plate Armor
-effects: '**Swift Recovery**'
+effect_name: Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 107.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2083875169 1342761509:Battlepriest's Plate Gauntlets\/a
 categories:
 - Attack Speed (Equipment)

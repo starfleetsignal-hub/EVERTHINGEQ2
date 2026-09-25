@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   multi: '2.9'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 1 percent."
 item_link: \aITEM -2056979285 480255449:Bellywhumper Necklace of Assurity\/a
 image: images/Bellywhumper_Necklace_of_Assurity.jpg
 categories:

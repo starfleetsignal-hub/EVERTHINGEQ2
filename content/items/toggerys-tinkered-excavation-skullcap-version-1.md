@@ -17,7 +17,8 @@ stats:
   potency: '1'
   aspeed: '1.5'
   dtype: Leather Armor
-effects: '**Excavator''s Dedication**'
+effect_name: Excavator's Dedication
+effects: '- Applies Excavator''s Dedication when Equipped.'
 obtained_from: '[[Tinkering with Toggery]]'
 item_link: \aITEM -456773155 890594318:Toggery's Tinkered Excavation Skullcap\/a
 image: images/Toggery's_Tinkered_Excavation_Skullcap.jpg

@@ -16,7 +16,8 @@ stats:
   abmod: '+68'
   multi: '5.1'
   vsarcane: '+280'
-effects: '**Holy Smite**'
+effect_name: Holy Smite
+effects: "- When Equipped:\n  - Increases divine damage done by spells by up to 50."
 item_link: \aITEM 1299631739 -1220774862 0 0 0:White Unicorn Horn Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

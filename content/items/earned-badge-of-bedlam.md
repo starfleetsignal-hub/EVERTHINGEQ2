@@ -18,7 +18,8 @@ stats:
   resolve: '255'
   aspeed: '17.8'
   flurry: '17.6'
-effects: '**Fates Entwined**'
+effect_name: Fates Entwined
+effects: "- Applies Fates Entwined when Activated.  Lasts for 10.0 seconds.\n  - Applies Fates Entwined.  Lasts for 20.0 seconds.\n    - Increases all damage done to caster by 20%.\n    - Cannot be modified except by direct means\n  - Increases all damage done to target by 3.6%.\n  - Increases Threat to target by 1,063,664  instantly and every 2 seconds thereafter\n  - Cannot be modified except by direct means\n  - The casting time of Fates Entwined is 4.0 seconds and the reuse time of the spell is 10 minutes"
 obtained_from: Sold by [[Blidgero]] in [[The Bazaar]]
 item_link: \aITEM 1348365267 -1195359632:Earned Badge of Bedlam\/a
 categories:

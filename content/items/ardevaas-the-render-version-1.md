@@ -19,7 +19,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Flesh Rend**'
+effect_name: Flesh Rend
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flesh Rend on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 188 - 313 slashing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -242164575 1342403486:Ardevaas, the Render\/a
 categories:
 - Berserker Equipment

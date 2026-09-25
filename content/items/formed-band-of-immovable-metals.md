@@ -16,7 +16,8 @@ stats:
   aspeed: '94'
   vselemental: +9,108
   mitinc: '4'
-effects: '**Immovable Soul**'
+effect_name: Immovable Soul
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 34.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -341051047 -966028017:Formed Band of Immovable Metals\/a
 categories:
 - Ability Modifier (Equipment)

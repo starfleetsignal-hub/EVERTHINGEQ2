@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**Physical Vulnerability**'
+effect_name: Physical Vulnerability
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Physical Vulnerability on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases physical damage done to target by 1.25%.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1868813859 934192551:Warcouncil Earrings of Trauma\/a
 categories:
 - Ability Modifier (Equipment)

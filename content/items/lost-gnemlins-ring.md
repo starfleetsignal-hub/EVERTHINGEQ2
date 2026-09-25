@@ -16,7 +16,8 @@ stats:
   abmod: +1,527
   aspeed: '17.2'
   vselemental: +28,885
-effects: '**Staggered Combination**'
+effect_name: Staggered Combination
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 10.0.\n  - Increases Crit Bonus of caster by 22.0.\n  - Increases Potency of caster by 48.0.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Lost Gnemlin Remains (Collection)]]'
 item_link: \aITEM -1670608467 1616054861:Lost Gnemlin's Ring\/a
 categories:

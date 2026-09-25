@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   dps: '33.2'
   multi: '21.6'
-effects: '**Inexorable Momentum**'
+effect_name: Inexorable Momentum
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 7.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2140766740 -1184438872:Locket of the Ancient Warder\/a
 categories:
 - Assassin Equipment

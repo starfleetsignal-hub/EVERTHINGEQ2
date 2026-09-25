@@ -14,7 +14,8 @@ stats:
   critbonus: '22.8'
   potency: '22.8'
   abmod: +1,250
-effects: '**Elemental Focus**'
+effect_name: Elemental Focus
+effects: "- Applies Elemental Focus when Activated.  Lasts for 8.0 seconds.\n  - Grants 400 potency to all elemental abilities.\n  - Removes 200 potency from arcane and noxious damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Elemental Focus is 2 minutes"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Spectral Mastery]] *Made from [[Shard of Spectral Light]]'
 item_link: \aITEM 820039000 1798795290:Totem of the Hierophant\/a
 categories:

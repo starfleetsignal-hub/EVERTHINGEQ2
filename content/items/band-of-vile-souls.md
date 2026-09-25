@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +21,632
-effects: '**Grasp of Souls**'
+effect_name: Grasp of Souls
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus and Potency based on the number of increments of Grasp of Souls. 0: -8 Crit Bonus/Potency. 1: -5 Crit Bonus/Potency. 2: -3 Crit Bonus/Potency. 3: 0 Crit Bonus/Potency. 4: 20 Crit Bonus/Potency. 5: 31 Crit Bonus/Potency\n  - On a healing spell cast this spell may cast Grasp of Souls III on caster.  Lasts for 2 minutes.  Triggers about 1.0 times per minute.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1331588585 -196136044:Band of Vile Souls\/a
 image: images/Band_of_Vile_Souls.png
 categories:

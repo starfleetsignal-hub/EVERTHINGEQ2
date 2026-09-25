@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +24,232
-effects: '**Practiced Swings**'
+effect_name: Practiced Swings
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Swings II on the group.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the group's Weapon Damage Bonus  by 0.6 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 36 Weapon Damage Bonus .\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -954952616 -1634962445:Chain of the Shrewdly Underhanded\/a
 categories:
 - Arcane Resistance (Equipment)

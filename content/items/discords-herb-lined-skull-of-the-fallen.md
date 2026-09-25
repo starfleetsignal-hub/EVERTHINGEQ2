@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   abmod: '+191'
-effects: '**Savior''s Vitae**'
+effect_name: Savior's Vitae
+effects: "- Applies Savior's Vitae when Activated.  Lasts for 3.0 seconds.\n  - Temporarily increases the effectiveness of your heals and wards by 10%.\n  - Makes caster immune to Stifle effects\n  - Must have Discord's Herb-lined Skull of the Fallen equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Savior's Vitae is 3 minutes"
 item_link: \aITEM 529434985 700961007:Discord's Herb-lined Skull of the Fallen\/a
 categories:
 - Ability Modifier (Equipment)

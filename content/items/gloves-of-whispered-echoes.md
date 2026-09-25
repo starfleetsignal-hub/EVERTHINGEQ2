@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Leather Armor
-effects: '**Wu''s Intercession**'
+effect_name: Wu's Intercession
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Wu's Intercession on caster.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -687549174 -438303343:Gloves of Whispered Echoes\/a
 categories:
 - Ability Modifier (Equipment)

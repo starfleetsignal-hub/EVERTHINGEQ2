@@ -17,7 +17,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Chain Armor
-effects: '**Furious Blows**'
+effect_name: Furious Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Flurry of Caster by 10.0.\n    - Increases in-combat movement speed of caster by 20.0%.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Champion''s Breastplate Mold]] *Made from [[Elemental Champion''s Breastplate Pattern]]'
 item_link: \aITEM -1050658371 2043092247 0 0 0:Firewalker's Magmatic Hauberk\/a
 categories:

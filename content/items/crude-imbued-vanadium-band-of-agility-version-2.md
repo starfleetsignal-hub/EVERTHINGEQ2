@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dps: '4.2'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 21.6.\n    - Increases Haste of caster by 24.6.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1169428809 1070942187:crude imbued vanadium band of agility\/a
 categories:
 - Assassin Equipment

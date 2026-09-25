@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '136'
   dtype: Plate Armor
-effects: '**Arcane Feedback**'
+effect_name: Arcane Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Arcane Feedback on target's attacker.\n    - Inflicts 48 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1909108108 -1737809565:Runed Crested Spaulders\/a
 categories:
 - Arcane Feedback (Equipment)

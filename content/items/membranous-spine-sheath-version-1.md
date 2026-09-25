@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Hollow Bludgeon**<br>**Summon Bone Spine**'
+effect_name: Hollow Bludgeon, Summon Bone Spine
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Hollow Bludgeon on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 160 - 241 divine damage on target.\n    - Cannot be modified except by direct means\n- Applies Summon Bone Spine when Activated.\n  - Summons 99 bone spines\n  - The casting time of Summon Bone Spine is 4.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 765867551 -1863957391:Membranous Spine Sheath\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   multi: '1.1'
   dtype: Chain Armor
-effects: '**Power of Marr**'
+effect_name: Power of Marr
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 5.0.\n  - This effect suspends during combat"
 obtained_from: '[[A Vicious Twist]]'
 item_link: \aITEM 2097615989 2062208310:Honorary Hauberk of Marr\/a
 categories:

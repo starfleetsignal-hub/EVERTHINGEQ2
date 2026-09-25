@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Buckler
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: Sold by [[Vlad the Bargainer]] (Faction Merchant) in [[The Hole]]
 item_link: \aITEM 934716624 -50435425:Sigiled Caertaxian Priest's Buckler\/a
 categories:

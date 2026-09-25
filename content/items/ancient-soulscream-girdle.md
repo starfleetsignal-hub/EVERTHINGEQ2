@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.8'
   abmod: '+101'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -1335203279 -64930260:Ancient Soulscream Girdle\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   vselemental: +1,824
-effects: '**Phantasmal Fury**'
+effect_name: Phantasmal Fury
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On a critical spell hit this spell may cast Phantasmal Fury on caster.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes caster immune to Stun effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Phantasmal Fury on caster.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes caster immune to Stun effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -489784976 -583954860 0 0 0:Nonconciliating Hoop of Spectral Fury\/a
 categories:
 - Ability Modifier (Equipment)

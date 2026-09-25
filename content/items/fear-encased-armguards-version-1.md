@@ -16,7 +16,8 @@ stats:
   potency: '2.4'
   abmod: '+52'
   dtype: Chain Armor
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM 587901049 -664931860:Fear-encased Armguards\/a
 categories:
 - Ability Modifier (Equipment)

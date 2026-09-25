@@ -16,7 +16,8 @@ stats:
   multi: '8.1'
   vsarcane: '+880'
   mitinc: '5.1'
-effects: '**Power from Flesh**'
+effect_name: Power from Flesh
+effects: "- When Equipped:\n  - On a hit this spell may cast Power from Flesh on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases power of caster by 180 instantly and every 4 seconds.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 215672246 -1953808223:Spiked Ravager Band\/a
 categories:
 - Arcane Resistance (Equipment)

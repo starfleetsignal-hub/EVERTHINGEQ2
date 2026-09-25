@@ -16,7 +16,8 @@ stats:
   multi: '36'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -2100696727 -2039240599:Praetor's Immortal Hand Wraps\/a
 categories:
 - Block Chance (Equipment)

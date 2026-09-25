@@ -16,7 +16,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Holy Strike Glyph**'
+effect_name: Holy Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -561790590 2028569756:Marran Lance\/a
 categories:
 - Berserker Equipment

@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1073774633 -152319580 0 0 0:Voidlink Gloves of Roguish Charm\/a
 categories:
 - Ability Modifier (Equipment)

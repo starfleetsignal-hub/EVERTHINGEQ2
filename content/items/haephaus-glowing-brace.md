@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   vselemental: +1,395
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Overflow on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 1,132.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1758748475 -1314479415:Haephaus' Glowing Brace\/a
 categories:
 - Ability Modifier (Equipment)

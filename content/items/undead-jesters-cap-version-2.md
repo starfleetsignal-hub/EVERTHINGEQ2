@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM -1788595448 -685572651:Undead Jester's Cap\/a
 categories:
 - Ability Modifier (Equipment)

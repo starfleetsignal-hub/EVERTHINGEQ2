@@ -19,7 +19,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Mana Deluge**'
+effect_name: Mana Deluge
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Mana Deluge VII on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 914 - 1,011 crushing damage on target.\n    - Increases power of caster by 77.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 620.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Mana Deluge VII on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 914 - 1,011 crushing damage on target.\n    - Increases power of caster by 77.\n    - Decreases Mitigation of target vs elemental, noxious and arcane damage by 620.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 70) from [[Ancient Knowledge: Ominous Wand of Destruction]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -1094227200 -1494584096:Ominous Wand of Destruction\/a
 categories:

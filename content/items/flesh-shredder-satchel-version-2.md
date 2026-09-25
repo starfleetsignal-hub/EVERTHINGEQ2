@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Consumption**'
+effect_name: Consumption
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Consumption on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 515 - 859 heat damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 214596866 -21700739:Flesh-shredder Satchel\/a
 categories:
 - Assassin Equipment

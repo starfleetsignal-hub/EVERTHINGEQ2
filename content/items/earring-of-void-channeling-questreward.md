@@ -7,7 +7,8 @@ tier: Treasured
 level: '80'
 slot: Ear
 flags: ornate lore no-trade no-value
-effects: '**Tempest Call**<br>**Positive Channeling of the Void**'
+effect_name: Tempest Call, Positive Channeling of the Void
+effects: "- Applies Tempest Call when Activated.\n  - Shapechanges the user into an elemental warrior!\n  - The casting time of Tempest Call is 3.0 seconds and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Increases Effective Level of caster to 83.\n  - Must be in Munzok's Material Bastion.\n  - Requires not having an apprentice"
 obtained_from: '[[Out of Her Element...]]'
 starts_quest: '[[Hook, Line, and... Anchor?]]'
 item_link: \aITEM -1455160523 2123592610:Earring of Void Channeling\/a

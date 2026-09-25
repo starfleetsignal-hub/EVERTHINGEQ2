@@ -16,7 +16,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 349776959 -187084684:Hammer of Restitution\/a
 categories:
 - Census Credits

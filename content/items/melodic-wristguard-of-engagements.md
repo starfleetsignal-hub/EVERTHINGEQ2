@@ -16,7 +16,8 @@ stats:
   potency: '1'
   abmod: '+25'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 2.0%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 24.0."
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Ancient Knowledge: Melodic Wristguard of Engagements]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -1612379312 1105660239:Melodic Wristguard of Engagements\/a
 categories:

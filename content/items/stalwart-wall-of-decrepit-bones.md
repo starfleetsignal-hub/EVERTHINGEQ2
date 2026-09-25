@@ -17,7 +17,8 @@ stats:
   potency: '9.2'
   abmod: '+306'
   dtype: Tower Shield
-effects: '**Stout**'
+effect_name: Stout
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 156155016 1313469669:Stalwart Wall of Decrepit Bones\/a
 categories:
 - Ability Modifier (Equipment)

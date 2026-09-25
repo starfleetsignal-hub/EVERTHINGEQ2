@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+36'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 50 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -25561859 2056373776:imbued savant's vest\/a
 categories:
 - Ability Modifier (Equipment)

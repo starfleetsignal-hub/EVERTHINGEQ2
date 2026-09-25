@@ -19,7 +19,8 @@ stats:
   resolve: '195'
   aspeed: '92.1'
   mitinc: '28.9'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -578466578 -873091583:Feline Figurine\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dps: '15.9'
-effects: '**Defiant Effort**'
+effect_name: Defiant Effort
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Effort on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 308543055 1068915621:Dark Shard\/a
 categories:
 - Ability Modifier (Equipment)

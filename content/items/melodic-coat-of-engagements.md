@@ -16,7 +16,8 @@ stats:
   potency: '1'
   aspeed: '1.3'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 6.0.\n  - Increases Haste of caster by 6.0.\n  - Increases in-combat movement speed of caster by 6.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Ancient Knowledge: Melodic Coat of Engagements]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -1032652298 285534266:Melodic Coat of Engagements\/a
 categories:

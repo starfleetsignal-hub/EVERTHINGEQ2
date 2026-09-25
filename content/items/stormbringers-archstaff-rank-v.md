@@ -24,7 +24,8 @@ stats:
   drating: '5149.2'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Stormlord**'
+effect_name: Blessing of the Stormlord
+effects: "- When Equipped:\n  - \"Blessing of the Stormlord\" protects the wearer from strong deific magics used by Karana!"
 obtained_from: '*Made from [[Ethereal Writings: Stormbringer''s Archstaff]] *[[Ethereal: Stormbringer''s Archstaff]]'
 item_link: \aITEM -407684307 -1529748755:Stormbringer's Archstaff [Rank V]\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1173234985 754221113:Immortal Hammer of the Qeynos Guard\/a
 categories:
 - Attack Speed (Equipment)

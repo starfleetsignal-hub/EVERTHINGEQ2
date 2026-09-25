@@ -17,7 +17,8 @@ stats:
   potency: 6,225.8
   resolve: '150'
   dps: '57.4'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 16.0.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 111) from [[Empyral Jeweler Studies 11]]
 item_link: \aITEM 773554131 -1392833287:Empyral Charm of Ruin\/a
 categories:

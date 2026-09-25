@@ -17,7 +17,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   dtype: Leather Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 2,624.\n    - Heals group members (AE) for 875 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1469242582 -1666460333:Eternal Haruspex's Tempered Tunic\/a
 categories:
 - Ability Modifier (Equipment)

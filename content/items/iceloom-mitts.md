@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Cloth Armor
-effects: '**Fright**'
+effect_name: Fright
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Fright on target's attacker.  Lasts for 7.0 seconds.\n    - Makes target afraid\n    - 25% chance to dispel when target takes damage\n    - 25% chance to dispel when target receives hostile action\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 102031734 791801530:Iceloom Mitts\/a
 categories:
 - Assassin Equipment

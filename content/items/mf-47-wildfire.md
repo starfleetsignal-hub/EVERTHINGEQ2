@@ -9,7 +9,7 @@ stats:
   charges: Unlimited
   casting: '1.5'
   recast: '5.0'
-effects: Burn
+effects: '- Applies Burn when Activated'
 obtained_from: Given to you by [[Parser Scrum McFeely]] to use in the quest [[What Would McFeely Do?]]
 used_in_quest: '[[What Would McFeely Do?]]'
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   abmod: '+217'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -450930043 112165529:Plundered Cloak of the Unwanted\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+83'
-effects: '**Lesser Swift Recovery**'
+effect_name: Lesser Swift Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Swift Recovery on caster.  Triggers about 0.8 times per minute.\n    - Increases power of caster by 77.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Dangerous Game! Test of Might!]]'
 item_link: \aITEM 1146386019 1445462669:Yha-lei Trophy-laden Necklace\/a
 categories:

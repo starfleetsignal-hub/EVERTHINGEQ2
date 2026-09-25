@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Goblin
+effects: "- Applies **Spirit of the Goblin** when activated. Lasts for 30 minutes.\n  - Shapechanges caster into a goblin\n  - Increases Out-of-Combat power Regeneration of caster by 96\n  - This effect suspends during combat\n  - Only affects targets level 70 and above"
 obtained_from: Crafted by [[Woodworker]] (level 79) from [[Woodworker Essentials Volume 79]]
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   multi: '6.4'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**<br>**Soulsiphon**'
+effect_name: Sorcerous Alacrity, Soulsiphon
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent.\n- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 213.\n    - Increases power of caster by 123.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Ascend the Mountain of Paperwork]]'
 item_link: \aITEM -1994131510 -1267433791:Swamp Glow Wristcuffs\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 68 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 66) from [[Advanced Armorer Volume 66 (no-value)]] *Crafted by [[Armorer]] (level 66) from [[Advanced Armorer Volume 66 (Uncommon)]] *From [[Chainmail Armor Pack (Level 62 Mastercrafted)]]'
 item_link: \aITEM 44537572 -531440843:Imbued Xegonite Chainmail Coat\/a
 categories:

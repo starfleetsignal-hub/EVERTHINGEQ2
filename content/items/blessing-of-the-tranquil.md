@@ -7,7 +7,7 @@ slot: Charm
 flags: Lore No-Trade No-Value No-Zone No-Destroy
 stats:
   charges: '1'
-effects: Blessing of the Tranquil
+effects: "- Applies **Blessing of the Tranquil** when Activated. Lasts for 30.0 seconds.\n  - When target is damaged this spell will cast Armor of Safety on target.\n    - Heals target for 88% of max health\n  - Must be in Deathfist Citadel: Prison Break."
 obtained_from: 'Quest: [[Peaceful Prison Break]]'
 image: images/Blessing_of_the_tranquil.gif
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '9.6'
   multi: '14.9'
   vsarcane: +1,598
-effects: '**Greater Serrated Subterfuge**'
+effect_name: Greater Serrated Subterfuge
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Greater Serrated Subterfuge on caster.  Lasts for 8.0 seconds.  Triggers about 2.2 times per minute.\n    - When damaged this spell will cast Greater Serrated Subterfuge on target's attacker.\n      - Inflicts 3,077 piercing damage on target.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 732136502 -103295177:Bulwark's Twist of the Endless Crusade\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '49'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Reinforced Gi of Dominance]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1781481183 1873853811:Reinforced Gi of Dominance\/a
 categories:

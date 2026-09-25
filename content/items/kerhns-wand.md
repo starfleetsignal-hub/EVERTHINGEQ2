@@ -17,7 +17,8 @@ stats:
   drating: '31.68'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Living Whispers**'
+effect_name: Living Whispers
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Dark Secrets on caster.  Lasts for 30.0 seconds.  Triggers about 0.2 times per minute.\n    - Increases INT of target by 41.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1437154537 -599918951:Kerhn's Wand\/a
 categories:
 - Beastlord Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   dtype: Leather Armor
-effects: '**Adrenaline Rush**'
+effect_name: Adrenaline Rush
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Adrenaline Rush on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 25.0.\n    - Increases Haste of caster by 25.0.\n    - Cannot be modified except by direct means"
 obtained_from: Drops off of [[Kyr'Tok]] in The [[Shard of Fear]]
 item_link: \aITEM 1644525040 71722111:Adrenaline Mitts\/a
 categories:

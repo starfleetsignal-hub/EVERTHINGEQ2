@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   dtype: Chain Armor
-effects: '**Lesser Hypnotic Defense**'
+effect_name: Lesser Hypnotic Defense
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 4% chance to cast Hypnotic Defense on target's attacker.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Mesmerizes target\n    - Dispelled when target takes damage\n    - Only affects targets level 98 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 88.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Last Minute Reprieve]]'
 item_link: \aITEM 490862858 -1086441448:Cowl of Thievery\/a
 categories:

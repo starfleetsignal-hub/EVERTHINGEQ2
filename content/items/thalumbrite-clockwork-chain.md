@@ -17,7 +17,8 @@ stats:
   aspeed: '37.4'
   dps: '14.3'
   vselemental: +32,207
-effects: '**Cannibalized Health**'
+effect_name: Cannibalized Health
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cannibalized Health on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Increase ability modifier by .5% of the caster's maximum hitpoints.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -653264585 -627207207:Thalumbrite Clockwork Chain\/a
 categories:
 - Ability Modifier (Equipment)

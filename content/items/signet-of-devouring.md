@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   critbonus: '3'
   vselemental: '+600'
-effects: '**Sorcerous Alacrity**<br>**Transposition**'
+effect_name: Sorcerous Alacrity, Transposition
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 5 percent.\n- When Equipped:\n  - When damaged this spell has a 10% chance to cast Transposition on caster.  Lasts for 6 minutes 40 seconds.  This effect normalizes based off of a three second triggering event.\n    - Applies Transposition on termination.\n      - Increases power of group members by 480.\n    - Will absorb all damage. This spell will absorb a total of 2 attacks.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1928316624 -475257279:Signet of Devouring\/a
 categories:
 - Arcane Resistance (Equipment)

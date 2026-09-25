@@ -16,7 +16,8 @@ stats:
   aspeed: '6.9'
   dps: '12.4'
   vselemental: '+840'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 1708160282 -996361547:Earring of the Void Transfer\/a
 categories:
 - Arcane Recovery (Equipment)

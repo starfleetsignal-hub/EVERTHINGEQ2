@@ -12,7 +12,8 @@ stats:
   sta: '+19'
   crit: '0.2'
   potency: '0.5'
-effects: '**Philter of the Undying**'
+effect_name: Philter of the Undying
+effects: "- Applies Philter of the Undying when Activated.  Lasts for 1 minute 5 seconds.\n  - Increases power of caster by 356.\n  - Inflicts 177 - 531 heat damage on caster.\n  - Inflicts 18 - 53 heat damage on caster every 6.4 seconds.\n  - This effect will terminate if the caster engages in PVP combat.\n  - The casting time of Philter of the Undying is 3.0 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[The Vessel of Fyr''Un]]'
 item_link: \aITEM -1999993480 733289607:Vessel of Fyr'Un\/a
 categories:

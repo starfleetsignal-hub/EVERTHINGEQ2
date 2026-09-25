@@ -16,7 +16,8 @@ stats:
   abmod: '+18'
   multi: '1.3'
   dtype: Plate Armor
-effects: '**Arcane Feedback**'
+effect_name: Arcane Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Arcane Feedback on target's attacker.\n    - Inflicts 138 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1603911290 1048437840:Vanguard Sabatons of Fortification\/a
 categories:
 - Ability Modifier (Equipment)

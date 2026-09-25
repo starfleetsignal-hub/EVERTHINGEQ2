@@ -14,7 +14,8 @@ stats:
   crit: '0.4'
   potency: '0.7'
   dps: '2.9'
-effects: '**Boon of Battle**'
+effect_name: Boon of Battle
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 345 - 422.\n    - Increases power of caster by 177.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 345 - 422.\n    - Increases power of caster by 177.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1442311643 -1589236241:Rallosian Warforged Besague\/a
 categories:
 - Assassin Equipment

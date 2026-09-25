@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Piercing Vision**'
+effect_name: Featherfall, Piercing Vision
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- When Equipped:\n  - Grants See Invisibility to caster.\n  - Grants See Stealth to caster."
 obtained_from: '*From [[Assassin Master''s Cloak (crate)|Assassin Master''s Cloak]] *Legends of Norrath loot card'
 used_in_quest: '[[Back in Fashion]]'
 starts_quest: '[[Back in Fashion]]'

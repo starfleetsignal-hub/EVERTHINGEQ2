@@ -13,7 +13,8 @@ stats:
   mit: '197'
   potency: '0.2'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.3%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 16.0."
 obtained_from: '*Crafted by [[Armorer]] (level 40) from [[Ancient Knowledge: Melodic Wristguard of Elusivity]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -2018281922 -960386067:Melodic Wristguard of Elusivity\/a
 categories:

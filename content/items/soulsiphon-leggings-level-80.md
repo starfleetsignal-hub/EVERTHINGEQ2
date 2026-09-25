@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   multi: '6.4'
   dtype: Cloth Armor
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 213.\n    - Increases power of caster by 123.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 666650286 -1772247335:Soulsiphon Leggings\/a
 categories:
 - Assassin Equipment

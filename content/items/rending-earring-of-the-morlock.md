@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   dps: '29.6'
   vsarcane: +1,833
-effects: '**Incandescent Blast**'
+effect_name: Incandescent Blast
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Incandescent Blast on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,598 magic damage on target.\n    - Inflicts 233 magic damage on target every 4 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 87738967 -362909564 0 0 0:Rending Earring of the Morlock\/a
 categories:
 - Arcane Resistance (Equipment)

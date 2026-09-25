@@ -13,7 +13,8 @@ stats:
   crit: '0.3'
   potency: '0.5'
   abmod: '+12'
-effects: '**Magical Alacrity**<br>**Haste**'
+effect_name: Magical Alacrity, Haste
+effects: "- When Equipped:\n  - Increases Casting Speed of target by 5.0%.\n- When Equipped:\n  - Increases Haste of caster by 15.0."
 item_link: \aITEM 612545477 78293525:Flowing Black Silk Sash\/a
 categories:
 - Ability Modifier (Equipment)

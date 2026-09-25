@@ -16,7 +16,8 @@ stats:
   potency: '5'
   multi: '7.8'
   dtype: Cloth Armor
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 4 percent."
 obtained_from: '*Made from [[Elemental Vanquisher''s Glove Mold]] *Made from [[Elemental Vanquisher''s Glove Pattern]]'
 item_link: \aITEM 632277882 1950331061 0 0 0:Fireborn Gloves of Mindmelting\/a
 categories:

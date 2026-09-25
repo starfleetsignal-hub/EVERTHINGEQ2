@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   abmod: +1,250
-effects: '**Whispers from Beyond**'
+effect_name: Whispers from Beyond
+effects: "- Applies Whispers from Beyond when Activated.  Lasts for 12.0 seconds.\n  - Increases the potency and crit bonus of the group's heals and wards by 60%.\n  - Cannot be modified except by direct means\n  - The reuse time of Whispers from Beyond is 1 minute"
 item_link: \aITEM 689042330 1046761722:Earthen Rune\/a
 categories:
 - Ability Modifier (Equipment)

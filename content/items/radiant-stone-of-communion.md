@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Flockmaster''s Protection**'
+effect_name: Flockmaster's Protection
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Flockmaster's Protection II on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - This effect applies to both the caster and the target.\n    - When any damage is received this spell will cast Flockmaster's Protection II on target.\n      - Heals target for 74 - 82.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Sage]] (level 20) from [[Ancient Knowledge: Radiant Stone of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 196881001 -663678019:Radiant Stone of Communion\/a
 categories:

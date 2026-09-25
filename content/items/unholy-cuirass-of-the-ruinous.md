@@ -17,7 +17,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Plate Armor
-effects: '**Unholy Aura**'
+effect_name: Unholy Aura
+effects: "- When Equipped:\n  - When damaged this spell has a 3% chance to cast Unholy Aura on target's attacker.  Lasts for 12.0 seconds.\n    - Inflicts 82 disease damage on target.\n    - Inflicts 41 disease damage on target every 6 seconds.\n    - Heals caster for 81.\n    - Heals caster for 41 every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 605377321 -401844927:Unholy Cuirass of the Ruinous\/a
 categories:
 - Attack Speed (Equipment)

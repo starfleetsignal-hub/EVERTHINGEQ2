@@ -17,7 +17,8 @@ stats:
   aspeed: '3.2'
   multi: '4'
   dtype: Chain Armor
-effects: '**Instill Foreboding**'
+effect_name: Instill Foreboding
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 10% chance to cast Instill Foreboding on target of combat art.\n    - Decreases Threat to target by 250\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1069147385 799198308:Draconic Boneweave Breastplate\/a
 categories:
 - Assassin Equipment

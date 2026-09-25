@@ -15,7 +15,8 @@ stats:
   resolve: '5'
   aspeed: '37.7'
   vselemental: +33,491
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Increases Block Chance of caster by 10.0%."
 item_link: \aITEM 269298092 -599408619:Standing Army Earring\/a
 categories:
 - Arcane Resistance (Equipment)

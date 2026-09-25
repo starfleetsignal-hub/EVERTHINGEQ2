@@ -16,7 +16,8 @@ stats:
   aspeed: '25.9'
   dps: '43.1'
   dtype: Round Shield
-effects: '**Undaunted**'
+effect_name: Undaunted
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,800.0.\n  - This effect will not stack with any other similar effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 671077792 -1001999693:Sullon's Undaunted Roundshield\/a
 categories:
 - AE Autoattack Chance (Equipment)

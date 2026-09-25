@@ -21,7 +21,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Corrosive Fog**'
+effect_name: Corrosive Fog
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog II on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,069 - 1,182 disease damage on target instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1423830898 -235412556:Dominant Club of the Acriment\/a
 categories:
 - Attack Speed (Equipment)

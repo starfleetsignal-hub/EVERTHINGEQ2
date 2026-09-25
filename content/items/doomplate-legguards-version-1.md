@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   mitinc: '4.1'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1973292196 -104756558:Doomplate Legguards\/a
 categories:
 - Berserker Equipment

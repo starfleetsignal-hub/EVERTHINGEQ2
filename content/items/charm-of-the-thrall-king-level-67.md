@@ -13,7 +13,8 @@ stats:
   crit: '1.2'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -1060219664 -264138861:Charm of the Thrall King\/a
 categories:
 - AE Autoattack Chance (Equipment)

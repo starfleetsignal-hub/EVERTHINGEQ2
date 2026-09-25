@@ -17,7 +17,7 @@ stats:
   vselemental: +1,121
   vsarcane: +1,121
   dtype: Chain Armor
-effects: Fangs of Byzola
+effects: "- When Equipped:\n  - On a successful attack this spell has a chance to cast Fangs of Byzola on target of attack. Lasts for 10.0 seconds. This effect will trigger an average of 1.5 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - When target takes any damage this spell has a 3% chance to cast Mindbite on target.\n      - Inflicts 440 mental damage on caster\n    - This spell can not be modified except by direct means"
 item_link: \aITEM 1659083216 734546282:Woven Shadow Chestplate\/a
 categories:
 - Arcane Resistance (Equipment)

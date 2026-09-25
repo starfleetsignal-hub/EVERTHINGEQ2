@@ -12,7 +12,8 @@ stats:
   sta: '+7'
   mit: '136'
   dtype: Plate Armor
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 48 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: <br>
 item_link: \aITEM -171743063 1755874432:Mantle of Midnight\/a
 categories:

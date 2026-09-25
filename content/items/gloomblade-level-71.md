@@ -21,7 +21,8 @@ stats:
   drating: '65.93'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Hamstring Counter**'
+effect_name: Hamstring Counter
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 5% chance to cast Hamstring Counter on target's attacker.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Roots target\n    - 15% chance to dispel when target takes damage\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 90.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1764945568 -45769334:Gloomblade\/a
 categories:
 - Assassin Equipment

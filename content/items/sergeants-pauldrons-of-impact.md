@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Plate Armor
-effects: '**Impact Conversion**'
+effect_name: Impact Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 4% chance to cast Impact Conversion on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 32 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Eviss Ryiss]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 526366210 -1956085224:Sergeant's Pauldrons of Impact\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   abmod: '+46'
-effects: '**Sorrow of Nizara**'
+effect_name: Sorrow of Nizara
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Rage of the Anguished on caster.  Lasts for 6.0 seconds.\n    - Increases DPS of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1576770658 -1877636954:Nizari Sash of Sorrow\/a
 categories:
 - Ability Modifier (Equipment)

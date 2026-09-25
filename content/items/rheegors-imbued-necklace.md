@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   abmod: '+197'
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 871.\n    - Heals group members (AE) for 290 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1045223715 -213379244:Rhee'Gor's Imbued Necklace\/a
 categories:
 - Ability Modifier (Equipment)

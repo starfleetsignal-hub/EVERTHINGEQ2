@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+142'
   multi: '7.8'
-effects: '**Plagued Strike**'
+effect_name: Plagued Strike
+effects: "- When Equipped:\n  - Increases the range of spells and ranged weapons."
 item_link: \aITEM -1609625936 -1932342764:Necklace of the Plague\/a
 categories:
 - Ability Modifier (Equipment)

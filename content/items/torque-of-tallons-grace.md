@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   dps: '16.6'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -779609786 -1027239228:Torque of Tallon's Grace\/a
 categories:
 - Assassin Equipment

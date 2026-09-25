@@ -17,7 +17,7 @@ stats:
   drating: '12.5'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.6 times per minute.\n    - Decreases Threat to target by 153\n      - Must be flanking or behind\n    - Increases Threat to target by 153\n      - Must be in front of\n    - Inflicts 48 - 90 magic damage on target"
 obtained_from: Crafted by [[Craftsman]] (level 10) from [[Advanced craftsman volume 10]]
 item_link: \aITEM 2041119496 1006764915:imbued bone club\/a
 categories:

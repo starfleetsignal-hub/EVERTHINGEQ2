@@ -16,7 +16,8 @@ stats:
   abmod: '+835'
   dps: '28.8'
   vselemental: +33,491
-effects: '**Practiced Power**'
+effect_name: Practiced Power
+effects: "- When Equipped:\n  - Applies Practiced Power instantly and every 1.4 seconds.\n    - Increases Potency of group members (AE) by 42.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1782607355 -396267164:Powered Hingebot Chain\/a
 categories:
 - Ability Modifier (Equipment)

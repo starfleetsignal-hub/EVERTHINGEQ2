@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+338'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 151.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 980570939 -1573326845:Soulsapper's Wristguards\/a
 categories:
 - Ability Modifier (Equipment)

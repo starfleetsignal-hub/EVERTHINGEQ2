@@ -18,7 +18,7 @@ stats:
   vselemental: '+332'
   vsarcane: '+415'
   dtype: Plate Armor
-effects: Steelier Nerves
+effects: "- When Equipped:\n  - 3% of all physical damage received by the caster is prevented."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -77580233 -2002387044:Void Knight's Darksteel Breastplate\/a
 categories:

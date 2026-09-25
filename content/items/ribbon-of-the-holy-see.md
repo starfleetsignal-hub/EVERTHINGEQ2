@@ -14,7 +14,8 @@ stats:
   critbonus: '30'
   potency: '30'
   mitinc: '6'
-effects: '**Sacred Knight**'
+effect_name: Sacred Knight
+effects: "- Applies Sacred Knight when Activated.  Lasts for 16.0 seconds.\n  - When the caster takes damage, they will heal themselves for 110% of the damage amount.\n  - Shares a reuse with Warforce and Circle of Intimidation\n  - Cannot be modified except by direct means\n  - The casting time of Sacred Knight is 0.5 seconds and the reuse time of the spell is 6 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[A tattered scrap from the book of war]]
 item_link: \aITEM 665946395 1257316629:Ribbon of the Holy See\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '10.2'
   mitinc: '10.5'
   dtype: Plate Armor
-effects: '**Headstrong**'
+effect_name: Headstrong
+effects: "- When Equipped:\n  - Gives caster an extra 3.0% mitigation to their worn armor."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Barbute Of The Draconic Defender]] *Made from [[Bone Golem Shards]] *Made from [[Dragon Hide]] *Made from [[Drake Fang]]'
 item_link: \aITEM -1681280799 2088862498:Barbute of the Draconic Defender\/a
 categories:

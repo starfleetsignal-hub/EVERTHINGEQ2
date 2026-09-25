@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   abmod: +1,250
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- Applies Bloodthirst when Activated.\n  - Grants a 5% chance to instantly recast any offensive Combat Art used. When this triggers, the caster will take 15% of their life as damage.\n  - Increases all damage done to caster by 20%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Bloodthirst is 1.0 second and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1248724229 -1507845838:Ardent Torque of Bloodthirst\/a
 categories:
 - Ability Modifier (Equipment)

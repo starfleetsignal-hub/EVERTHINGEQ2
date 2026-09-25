@@ -14,7 +14,8 @@ stats:
   critbonus: '11.2'
   potency: '11.2'
   dtype: Cloth Armor
-effects: '**Rapidity in the Dark**'
+effect_name: Rapidity in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM 573812349 1198209285:Moccasins of Baleful Pestilence\/a
 categories:
 - Casting Speed (Equipment)

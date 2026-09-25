@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Karana''s Might**'
+effect_name: Karana's Might
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Karana's Blade on target of spell.  Triggers about 0.2 times per minute.\n    - Inflicts 179 - 269 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 688010954 -1489357896:Karana's Thundercloud\/a
 categories:
 - Assassin Equipment

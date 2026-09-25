@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   flurry: '1.6'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -1105558196 953346825:Void-Dweller Leggings\/a
 categories:
 - Assassin Equipment

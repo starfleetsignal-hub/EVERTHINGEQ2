@@ -10,7 +10,7 @@ flags: NO-TRADE
 description: A charm that was crafted from gemstones tainted by Void Tempests
 stats:
   wtype: Magic Affinity
-effects: Touch of the Void Tempest
+effects: '- Applys Touch of the Void Tempest when Equipped'
 obtained_from: Sold by a merchant (LU46 Merchants) with 2 [[Concordium Note of Appreciation]] or 2 [[Academy of Arcane Science's Note of Service]]
 item_link: \aITEM 1174001589 1331315010:Tempest Touched Orb\/a
 categories:

@@ -21,7 +21,8 @@ stats:
   drating: '173.24'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Astral Blessing**'
+effect_name: Astral Blessing
+effects: "- Applies Astral Blessing when Equipped.\n  - On a healing spell cast this spell may cast Astral Blessing on target of spell.  Lasts for 5.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals target for 442 instantly and every second.\n    - Cannot be modified except by direct means\n  - When any damage is received this spell has a 10% chance to cast Astral Blessing on caster.  Lasts for 5.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 442 instantly and every second.\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Astral Blessing on caster.  Lasts for 5.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals caster for 442 instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 90) from [[Advanced Weaponsmith Volume 92 (with desc)]] *Crafted by [[Weaponsmith]] (level 90) from [[Advanced Weaponsmith Volume 92 (without desc)]]'
 item_link: \aITEM -426397151 1880543735:Blessed Tungsten Maul\/a
 categories:

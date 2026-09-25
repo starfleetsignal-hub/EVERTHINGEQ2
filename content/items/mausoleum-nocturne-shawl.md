@@ -18,7 +18,8 @@ stats:
   resolve: '505'
   abmod: +3362,005
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2039999083 1467562335:Mausoleum Nocturne Shawl\/a
 categories:
 - Ability Modifier (Equipment)

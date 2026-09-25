@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   multi: '3.4'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -1233499103 -1577938611:Leggings of Reverberation\/a
 categories:
 - Assassin Equipment

@@ -24,7 +24,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulate VI on target of attack.  Triggers about 3.0 times per minute.\n    - Decreases Threat to target by 3,300,000\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Stygian Threshold Keepsakes]]'
 item_link: \aITEM -190390976 -767117714:Tempered Darkmetal Etched Longbow\/a
 categories:

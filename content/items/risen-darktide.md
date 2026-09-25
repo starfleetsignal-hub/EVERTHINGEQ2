@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Siphon Life**'
+effect_name: Siphon Life
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Siphon Life on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 75 - 91.\n    - Inflicts 133 - 200 magic damage on target.\n    - Heals caster for 149 - 182.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 554218135 -373089440:Risen Darktide\/a
 categories:
 - Berserker Equipment

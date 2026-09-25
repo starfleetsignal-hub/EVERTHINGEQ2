@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Bind Wounds**'
+effect_name: Bind Wounds
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Bind Wounds on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals caster for 1,021 instantly and every 3 seconds.\n    - Must not be engaged in pvp combat\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[Beauty''s Only Skin Deep]]'
 item_link: \aITEM -656960620 -2126476568:Embalmer's Skinning Knife\/a
 categories:

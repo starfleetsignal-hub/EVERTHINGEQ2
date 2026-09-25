@@ -16,7 +16,9 @@ stats:
   drating: '28.67'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ethereal Needles**'
+effect_name: Ethereal Needles
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ethereal Needles on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 72 - 120 magic damage on target.\n    - Inflicts 72 - 120 piercing damage on target.\n    - Inflicts 72 - 120 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a ranged hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 72 - 120 magic damage on target.\n    - Inflicts 72 - 120 piercing damage on target.\n    - Inflicts 72 - 120 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 72 - 120 magic damage on target.\n    - Inflicts 72 - 120 piercing damage on target.\n    - Inflicts 72 - 120 divine damage on\
+  \ target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1664219945 -1377389385:Maestra's Gleaming Dagger of Dissonance\/a
 categories:
 - Assassin Equipment

@@ -12,7 +12,8 @@ stats:
   int: '+21'
   crit: '0.2'
   potency: '0.7'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 450.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Tailor]] (level 55) from [[Tailors Essentials Volume 55]]
 item_link: \aITEM -829036927 -1842707869:chaos imbued sandcloth hex doll\/a
 categories:

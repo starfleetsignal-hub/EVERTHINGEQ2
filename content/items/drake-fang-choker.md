@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   abmod: '+369'
-effects: '**Cry of the Battlepriest**'
+effect_name: Cry of the Battlepriest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cry of the Battlepriest on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of group members (AE) by 30.0.\n    - Increases Ability Mod of caster by 300.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Drake Fang Choker]] *Made from [[A Bloody Drakota Eye]] *Made from [[Dragon Hide]] *Made from [[Drake Fang]]'
 item_link: \aITEM 1425666317 1400323259:Drake Fang Choker\/a
 categories:

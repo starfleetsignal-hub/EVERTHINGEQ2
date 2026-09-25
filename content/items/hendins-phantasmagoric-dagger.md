@@ -21,7 +21,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Desolating Rampage**'
+effect_name: Desolating Rampage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Desolating Rampage on caster.  Lasts for 10.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Flurry of Caster by 6.0.\n    - Increases DPS of caster by 30.0.\n    - Increases Haste of caster by 30.0.\n    - Increases Multi Attack of caster by 30.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -115326201 -1539755239:Hendin's Phantasmagoric Dagger\/a
 categories:
 - Ability Modifier (Equipment)

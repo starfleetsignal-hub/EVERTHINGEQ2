@@ -16,7 +16,8 @@ stats:
   potency: '5'
   mitinc: '4.9'
   dtype: Plate Armor
-effects: '**Precision Striking**'
+effect_name: Precision Striking
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Precision Striking on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Threat to target by 7,306 - 8,783\n    - Decreases Accuracy of target by 5.0%.\n    - Decreases Strikethrough of target by 5.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 346304636 820850491:Barbute of the Tactician\/a
 categories:
 - Berserker Equipment

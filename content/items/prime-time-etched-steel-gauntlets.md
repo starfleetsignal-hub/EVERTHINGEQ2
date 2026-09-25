@@ -17,7 +17,8 @@ stats:
   multi: '18.1'
   mitinc: '11.6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 68467505 455206806:Prime Time Etched Steel Gauntlets\/a
 categories:
 - Berserker Equipment

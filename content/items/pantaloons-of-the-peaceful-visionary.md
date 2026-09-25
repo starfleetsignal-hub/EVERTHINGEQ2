@@ -17,7 +17,8 @@ stats:
   aspeed: '5.7'
   multi: '6.5'
   dtype: Cloth Armor
-effects: '**Mind Blast**'
+effect_name: Mind Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Mind Blast on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 891 - 1,485 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1748845593 -439030809:Pantaloons of the Peaceful Visionary\/a
 categories:
 - Assassin Equipment

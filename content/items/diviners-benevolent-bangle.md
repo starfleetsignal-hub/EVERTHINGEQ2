@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   vselemental: '+347'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Sold by [[Mirg Nel'Ron]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 673026451 -1989548663:Diviner's Benevolent Bangle\/a
 categories:

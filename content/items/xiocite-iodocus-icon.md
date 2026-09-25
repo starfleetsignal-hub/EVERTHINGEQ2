@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Kiss of Life**'
+effect_name: Kiss of Life
+effects: "- Applies Kiss of Life VI when Activated.\n  - This effect can be cast while casting other abilities\n  - Instantly heals the group for 80,000. If the wearer is a priest, the group will be healed for 480,000.\n  - Cannot be modified except by direct means\n  - The reuse time of Kiss of Life VI is 1 minute 30 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 97) from [[Advanced Jeweler Volume 97]]
 item_link: \aITEM 1290760178 -2143858026:Xiocite Iodocus Icon\/a
 categories:

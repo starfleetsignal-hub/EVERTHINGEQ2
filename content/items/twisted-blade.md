@@ -17,7 +17,8 @@ stats:
   drating: '46.82'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Ruinous Glyph**'
+effect_name: Ruinous Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ruinous Glyph on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1922233325 872649456:Twisted Blade\/a
 categories:
 - Ability Modifier (Equipment)

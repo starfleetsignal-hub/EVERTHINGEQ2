@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   vselemental: '+511'
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Manawell on target of spell.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 272.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1997958668 -301818402:Wrist Wraps of Divine Equilibrium\/a
 categories:
 - Arcane Resistance (Equipment)

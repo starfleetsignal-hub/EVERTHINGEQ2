@@ -17,7 +17,8 @@ stats:
   potency: 7,097.3
   resolve: '180'
   dps: '66.7'
-effects: '**Starborn**'
+effect_name: Starborn
+effects: "- Applies Starborn when Activated.  Lasts for 14.0 seconds.\n  - On death this spell will cast Starborn Phoenix on caster.  Lasts for 24.0 seconds.\n    - Heals target for 27.7% of caster's max health.\n    - Heals target for 2.8% of caster's max health every 2 seconds.\n      - This effect cannot be critically applied.\n    - Increases Fervor of target by 4.6.\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - Wards caster against all damage for 4.6% of the caster's maximum health\n  - Cannot be modified except by direct means\n  - The casting time of Starborn is 1.0 second and the reuse time of the spell is 8 minutes"
 obtained_from: Drop of Daily Moonmission "Empyral Mission Reward Crate"
 item_link: \aITEM 1306957553 1115975752:Necklace of Stars\/a
 categories:

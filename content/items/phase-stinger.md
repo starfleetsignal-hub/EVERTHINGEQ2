@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +22,204
-effects: '**Sting Like a Bixie**'
+effect_name: Sting Like a Bixie
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sting Like a Bixie II on caster.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - This effect can extend for up to 20 seconds provided the wearer is moving. Can only trigger once every 20 seconds.\n    - Shapechanges caster into a bixie\n    - Caster will Dodge 5.5% of incoming attacks.\n    - Increases Flurry of Caster by 28.0.\n    - Can only trigger if the group size is less than 3\n    - Cannot be modified except by direct means"
 item_link: \aITEM -950909010 28288947:Phase Stinger\/a
 categories:
 - AE Autoattack Chance (Equipment)

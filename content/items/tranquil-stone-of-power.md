@@ -20,7 +20,8 @@ stats:
   drating: '75.95'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Tranquil Blessing**'
+effect_name: Tranquil Blessing
+effects: "- When Equipped:\n  - Caster will Dodge 5.0% of incoming attacks.\n  - On a melee hit this spell may cast Tranquil Strike on target of attack.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 224 - 416 magic damage on target.\n    - Heals caster for 118 - 219.\n    - Increases the caster's effectiveness of worn armor vs physical damage by 10%.\n    - Cannot be modified except by direct means"
 obtained_from: Kill [[Wu the Enlightened]]
 item_link: \aITEM -433971495 -2036528036:Tranquil Stone of Power\/a
 image: images/Tranquilstoneofpower.jpg

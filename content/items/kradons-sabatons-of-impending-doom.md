@@ -16,7 +16,8 @@ stats:
   aspeed: '41.2'
   dps: '41.2'
   dtype: Plate Armor
-effects: '**Rapidity in the Dark**'
+effect_name: Rapidity in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM 1305311189 1748264914:Kradon's Sabatons of Impending Doom\/a
 categories:
 - Attack Speed (Equipment)

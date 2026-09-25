@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.4'
   aspeed: '9.3'
-effects: '**Defiant Effort**'
+effect_name: Defiant Effort
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Effort on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Inflicts 875 - 1,069 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 999200661 -919921042:Deathly Sigil\/a
 categories:
 - Assassin Equipment

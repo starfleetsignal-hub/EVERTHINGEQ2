@@ -16,7 +16,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   vselemental: +374,075
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1203684257 539506237:Untarnished Grand Relic Cardinal Hoop\/a
 categories:
 - Arcane Resistance (Equipment)

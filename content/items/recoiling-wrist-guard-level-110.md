@@ -18,7 +18,8 @@ stats:
   aspeed: '69.5'
   dps: '52.8'
   vselemental: +73,025
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 50061918 1779249321:Recoiling Wrist Guard\/a
 categories:
 - Arcane Resistance (Equipment)

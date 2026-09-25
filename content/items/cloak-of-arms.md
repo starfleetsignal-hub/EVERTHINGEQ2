@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Wearing this signifies you represent the truth and justice over evil.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (400 Daybreak Cash)
 item_link: \aITEM -387674360 147676235:Cloak of Arms\/a
 categories:

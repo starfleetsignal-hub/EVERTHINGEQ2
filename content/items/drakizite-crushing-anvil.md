@@ -19,7 +19,8 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Soothing Sigil**<br>**Soothing Breeze**'
+effect_name: Soothing Sigil, Soothing Breeze
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil III on target of spell cast.  Triggers about 2.0 times per minute.\n    - Heals target for 5,594 - 6,182.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Soothing Breeze IV on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 5,384 - 5,951.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1251771798 495034383:Drakizite Crushing Anvil\/a
 categories:
 - Beastlord Equipment

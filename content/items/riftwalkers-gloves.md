@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Leather Armor
-effects: '**Life Flow**'
+effect_name: Life Flow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Life Flow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 169067669 -89326787 0 0 0:Riftwalker's Gloves\/a
 categories:
 - Casting Speed (Equipment)

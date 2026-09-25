@@ -17,7 +17,8 @@ stats:
   abmod: +1,559
   aspeed: '35.2'
   dps: '13.5'
-effects: '**Grace of Quellious**'
+effect_name: Grace of Quellious
+effects: "- Applies Grace of Quellious when Activated.\n  - Only 1 Grace of Quellious may be active at a time\n  - Heals targets within 35m for 75,000 health every 4s\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Grace of Quellious is 1.0 second and the reuse time of the spell is 2 minutes"
 item_link: \aITEM -280649895 -703077753:Vial of Ironblood\/a
 categories:
 - Ability Modifier (Equipment)

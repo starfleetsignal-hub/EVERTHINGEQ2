@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   dps: '9.7'
   vselemental: '+320'
-effects: '**Counterattack**'
+effect_name: Counterattack
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 10% chance to cast Counterattack on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 303 piercing damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Dear for my Dear]]'
 item_link: \aITEM -175155993 861023360:Terrik's Moonrise Wristlet\/a
 categories:

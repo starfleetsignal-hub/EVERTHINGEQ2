@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '94'
   dtype: Chain Armor
-effects: '**Mental Feedback**'
+effect_name: Mental Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 48 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1898296952 -1131943001:Peepers Head Screws\/a
 categories:
 - Assassin Equipment

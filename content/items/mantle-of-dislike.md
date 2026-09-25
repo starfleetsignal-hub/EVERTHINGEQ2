@@ -17,7 +17,8 @@ stats:
   potency: 1,839.1
   resolve: '21'
   multi: '67.3'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 125.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 528543896 1247972829:Mantle of Dislike\/a
 categories:
 - Ability Doublecast (Equipment)

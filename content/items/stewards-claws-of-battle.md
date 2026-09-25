@@ -20,7 +20,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM -1851473170 -762464762 0 0 0:Steward's Claws of Battle\/a
 categories:
 - Beastlord Equipment

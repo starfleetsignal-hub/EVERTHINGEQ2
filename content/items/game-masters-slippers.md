@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   mit: '133'
   dtype: Cloth Armor
-effects: '**Feet of Furious Fastness**'
+effect_name: Feet of Furious Fastness
+effects: "- Applies Feet of Furious Fastness when Equipped.\n  - Increases speed of caster by 70.0%."
 item_link: \aITEM -676399055 -224323244:Game Master's Slippers\/a
 categories:
 - Assassin Equipment

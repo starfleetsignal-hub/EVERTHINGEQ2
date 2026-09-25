@@ -15,7 +15,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**Blaze**'
+effect_name: Blaze
+effects: "- Applies Blaze when Activated.  Lasts for 1 minute.\n  - Increases Haste of caster by 50.0.\n  - Converts damage spells to heat damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Blaze is 1 minute"
 item_link: \aITEM 451845825 -1687424430:Pouch of Spirit Dust\/a
 categories:
 - Attack Speed (Equipment)

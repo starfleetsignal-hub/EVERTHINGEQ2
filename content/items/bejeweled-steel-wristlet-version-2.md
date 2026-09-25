@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.6'
   vsarcane: '+280'
-effects: '**Frost Strike**'
+effect_name: Frost Strike
+effects: "- When Equipped:\n  - Increases cold damage done by spells by up to 30."
 item_link: \aITEM -638364487 -1060266982:Bejeweled Steel Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

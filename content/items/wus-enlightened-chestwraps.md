@@ -18,7 +18,8 @@ stats:
   aspeed: '5.7'
   dps: '10.6'
   dtype: Leather Armor
-effects: '**Tranquil Peacekeeping**'
+effect_name: Tranquil Peacekeeping
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Tranquil Peacekeeping on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the mitigation of the caster's armor to rival that of chain armor.\n    - Increases Block Chance of caster by 15.0%.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1318509152 1848372366:Wu's Enlightened Chestwraps\/a
 categories:
 - Attack Speed (Equipment)

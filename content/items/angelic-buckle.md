@@ -13,7 +13,8 @@ stats:
   crit: '4.4'
   critbonus: '1.5'
   potency: '6.8'
-effects: '**Immaterial Barrier**'
+effect_name: Immaterial Barrier
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Immaterial Barrier on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of target vs all damage by 1,116.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1182818288 995081697:Angelic Buckle\/a
 categories:
 - Assassin Equipment

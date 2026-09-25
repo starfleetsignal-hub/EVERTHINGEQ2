@@ -17,7 +17,8 @@ stats:
   potency: 1,839.1
   resolve: '19'
   dps: '46.6'
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 3.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 562289033 -1459111239:Irritating Flesh Necklace\/a
 categories:
 - Assassin Equipment

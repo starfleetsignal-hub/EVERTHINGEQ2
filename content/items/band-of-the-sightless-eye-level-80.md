@@ -16,7 +16,8 @@ stats:
   aspeed: '6.7'
   dps: '12'
   vselemental: '+670'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM -1690718944 1902969736:Band of the Sightless Eye\/a
 categories:
 - Arcane Resistance (Equipment)

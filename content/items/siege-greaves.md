@@ -17,7 +17,8 @@ stats:
   potency: '6.8'
   dps: '17.3'
   dtype: Plate Armor
-effects: '**Scornful Presence**'
+effect_name: Scornful Presence
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Scornful Presence on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Increases Hate Gain of caster by 10.0.\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Scornful Presence on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Hate Gain of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1719683098 -1728179339:Siege Greaves\/a
 categories:
 - Berserker Equipment

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   abmod: '+54'
-effects: '**Tranquility**'
+effect_name: Tranquility
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Tranquility on target of spell.  Lasts for 8.0 seconds.  Triggers about 1.0 times per minute.\n    - Decreases Hate Gain of caster by 50.0.\n    - Dazes target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell has a 5% chance to cast Tranquility on target of combat art.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases Hate Gain of caster by 50.0.\n    - Dazes target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 89.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Gathering]]'
 item_link: \aITEM 681067217 -420164286:Cloak of Tranquility\/a
 categories:

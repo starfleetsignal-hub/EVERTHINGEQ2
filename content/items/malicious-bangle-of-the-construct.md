@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +27,352
-effects: '**Practiced Combination**'
+effect_name: Practiced Combination
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Combination on the group.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - The counter resets when the wearer leaves combat.\n    - Increases the group's Crit Bonus and Potency by 0.5 times the number of times this effect has triggered. Cannot surpass 30 Crit Bonus and Potency.\n    - Increases the group's Weapon Damage Bonus  by 0.3 times the number of times this effect has triggered. Cannot surpass 18 Weapon Damage Bonus .\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -250841597 -1654079933:Malicious Bangle of the Construct\/a
 categories:
 - Arcane Resistance (Equipment)

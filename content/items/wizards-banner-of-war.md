@@ -16,7 +16,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   abmod: '+568'
-effects: '**War Wizard**'
+effect_name: War Wizard
+effects: "- When Equipped:\n  - Improves the damage modifier of Fiery Blast by 12%\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -1754216635 548854282:Wizard's Banner of War\/a
 categories:

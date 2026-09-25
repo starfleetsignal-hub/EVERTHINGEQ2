@@ -15,7 +15,8 @@ stats:
   aspeed: '31.8'
   multi: '22.2'
   vselemental: +9,108
-effects: '**Soul Sliver**'
+effect_name: Soul Sliver
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Soul Sliver on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 120.0.\n    - Increases Potency of caster by 4.0.\n    - Increases Crit Bonus of caster by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Soul Sliver on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 120.0.\n    - Increases Potency of caster by 4.0.\n    - Increases Crit Bonus of caster by 5.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1316369446 1735866485:Flatmetal Earring of the Bastion\/a
 categories:
 - Arcane Resistance (Equipment)

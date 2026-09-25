@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 6 percent."
 item_link: \aITEM -1505022711 312742120:Volcanic Wand\/a
 categories:
 - Arcane Recovery (Equipment)

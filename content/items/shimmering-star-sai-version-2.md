@@ -20,7 +20,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Choke**'
+effect_name: Choke
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Choke on target of attack.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 48666242 1697163171:Shimmering Star Sai\/a
 categories:
 - Assassin Equipment

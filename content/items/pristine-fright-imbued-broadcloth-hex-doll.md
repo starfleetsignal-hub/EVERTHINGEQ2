@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+9'
   sta: '+8'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 10.4.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 36) from [[Tailor Essentials Volume 36 (Normal)]] *Crafted by [[Tailor]] (level 36) from [[Tailor Essentials Volume 36 (no-trade)]]'
 item_link: \aITEM 1640411071 1778507710:pristine fright imbued broadcloth hex doll\/a
 categories:

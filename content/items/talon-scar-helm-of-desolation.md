@@ -19,7 +19,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 70 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -661729908 1462465536:Talon Scar Helm of Desolation\/a
 categories:
 - Brawler Equipment

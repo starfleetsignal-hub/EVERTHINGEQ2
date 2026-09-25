@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+10'
   int: '+10'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 270.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1666852394 1475732728:crude chaos imbued broadcloth hex doll\/a
 categories:
 - Assassin Equipment

@@ -15,7 +15,8 @@ stats:
   drating: '69.93'
   dtype: Two-Handed Crushing
   wtype: Magic Affinity
-effects: '**Doom**'
+effect_name: Doom
+effects: "- When Equipped:\n  - Increases success chance by 10.0%."
 item_link: \aITEM 1559814375 1462325475:Weighty Rolling Pin\/a
 categories:
 - Alchemist Equipment

@@ -19,7 +19,8 @@ stats:
   abmod: +5,114
   aspeed: '40.2'
   dtype: Buckler
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.6%.\n    - Inflicts 3,811 heat damage on target.\n    - Inflicts 3,811 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 758345636 -958806451:Expert's Powermonger's Spectral Buckler\/a
 categories:
 - Ability Modifier (Equipment)

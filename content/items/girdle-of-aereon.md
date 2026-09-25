@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   aspeed: '11.2'
   dps: '18.8'
-effects: '**Unflinching Defiance**'
+effect_name: Unflinching Defiance
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Unflinching Defiance on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Makes caster immune to Stun effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1137564156 2050134624:Girdle of Aereon\/a
 categories:
 - Attack Speed (Equipment)

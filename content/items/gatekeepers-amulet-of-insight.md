@@ -14,7 +14,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   dps: '21.8'
-effects: '**Shared Insight**'
+effect_name: Shared Insight
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 65 if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM 1476078101 1620344453:Gatekeeper's Amulet of Insight\/a
 categories:
 - Assassin Equipment

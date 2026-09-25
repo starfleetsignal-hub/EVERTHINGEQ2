@@ -13,7 +13,7 @@ stats:
   int: '+25'
   health: '+125'
   crit: '2'
-effects: Act of Survival
+effects: "- When Equipped\n  - On a successful attack this spell a a chance to cast Act of Survival on target of attack. This effect will trigger an average of 1.6 times per minute. If a melee attack is used, only the primary weapon can trigger this attack.\n    - Inflicts 253 magic damage on target\n    - Heals caster for 141"
 obtained_from: '[[A Higher Purpose]]'
 item_link: \aITEM 757982485 -1282625698:[Survival Accord Medal]\/a
 image: images/Survival_Accord_Medal.jpg

@@ -15,7 +15,8 @@ stats:
   potency: '24.2'
   dps: '27.7'
   multi: '35.4'
-effects: '**Silver Conflagration**<br>**Impish Offensive**'
+effect_name: Silver Conflagration, Impish Offensive
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Silver Conflagration III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 10,950 - 12,102 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 2,224.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AE Autoattack of Caster by 10.0%.\n  - Increases Multi Attack of caster by 25.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Tides of War]]'
 item_link: \aITEM -1794627630 1596817180:Tavalan Clutch of Destruction\/a
 categories:

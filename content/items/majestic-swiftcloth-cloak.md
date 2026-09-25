@@ -13,7 +13,8 @@ stats:
   crit: '2.2'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Sorcerer''s Zeal**'
+effect_name: Sorcerer's Zeal
+effects: "- When Equipped:\n  - Increases the base damage of hostile spells by 2%."
 obtained_from: '*Crafted by [[Tailor]] (level 73) from [[Advanced Tailor Volume 73 (Heirloom)]] *Crafted by [[Tailor]] (level 73) from [[Advanced Tailor Volume 73 (Normal)]]'
 item_link: \aITEM 203051263 1809926602:Majestic Swiftcloth Cloak\/a
 categories:

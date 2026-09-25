@@ -14,7 +14,8 @@ stats:
   critbonus: '7.7'
   potency: '7.7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '*Crafted by [[Armorer]] (level 93) from [[Armorer Essentials Volume 93 (with desc)]] *Crafted by [[Armorer]] (level 93) from [[Armorer Essentials Volume 93 (without desc)]]'
 item_link: \aITEM 1566116639 -701364899:Rhenium Reverent Gauntlets\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   abmod: '+83'
   vsarcane: '+351'
   dtype: Symbols
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM -2137031725 274297055:Orb of Oblivion\/a
 categories:
 - Ability Modifier (Equipment)

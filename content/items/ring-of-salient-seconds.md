@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Not Without a Fight!**'
+effect_name: Not Without a Fight!
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Not Without a Fight on target of attack.  Triggers about 10.0 times per minute.\n    - Inflicts 246,960 crushing damage on target.\n    - Cannot be modified except by direct means\n  - If under 25% Health"
 obtained_from: '* *Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]'
 item_link: \aITEM 605997800 666601460:Ring of Salient Seconds\/a
 image: images/Ring_of_Salient_Seconds.png

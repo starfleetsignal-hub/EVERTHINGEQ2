@@ -25,7 +25,8 @@ stats:
   drating: '483.33'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Attunement to Fire**<br>**Anguish**'
+effect_name: Attunement to Fire, Anguish
+effects: "- Applies Attunement to Fire when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Fire is 10.0 seconds\n- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,292 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1945852251 581699112:Fabled Edge of Pure Elemental Fury\/a
 categories:
 - AE Autoattack Chance (Equipment)

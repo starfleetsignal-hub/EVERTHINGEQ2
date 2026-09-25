@@ -18,7 +18,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Eidolon''s Wrath**'
+effect_name: Eidolon's Wrath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Eidolon's Wrath on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Inflicts 39 - 48 divine damage on target.\n    - Inflicts 8 - 9 divine damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -730998052 -537517996:Eidolon Watch Dog's Pristine Leg Bone\/a
 categories:
 - Beastlord Equipment

@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   aspeed: '55.6'
   dtype: Tower Shield
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 100) from [[Deepforge Weaponsmithing Essentials]]
 item_link: \aITEM 1722095941 991851580:Studded Splitiron Tower Shield\/a
 categories:

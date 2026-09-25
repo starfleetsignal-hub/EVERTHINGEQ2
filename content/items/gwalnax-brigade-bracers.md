@@ -17,7 +17,8 @@ stats:
   abmod: '+95'
   dps: '10.5'
   dtype: Chain Armor
-effects: '**Sap Strength**'
+effect_name: Sap Strength
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 8% chance to cast Sap Strength on target's attacker.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases DPS of target by 15.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Gift of Korucust]]'
 item_link: \aITEM 1302428663 -1975259613:Gwalnax Brigade Bracers\/a
 categories:

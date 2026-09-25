@@ -17,7 +17,8 @@ stats:
   potency: '8.8'
   abmod: '+288'
   dtype: Plate Armor
-effects: '**Gallant Intervention**<br>**Celestial Restoration**'
+effect_name: Gallant Intervention, Celestial Restoration
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical healing spell cast this spell may cast Gallant Intervention on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards target against 4,000 points of all damage\n    - Heals target for 277 - 306 instantly and every 2 seconds.\n    - Replenishes 300 points of absorption every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 2,624.\n    - Heals group members (AE) for 875 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*From [[Inexorable Hauberk]] *Dropped by [[Queen Vorticia V''uul]] in [[Citadel of V''uul]]'
 item_link: \aITEM -1155372128 -390062834:Archon's Breastplate of the Citadel\/a
 categories:

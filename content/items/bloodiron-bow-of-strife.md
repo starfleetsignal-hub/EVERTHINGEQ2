@@ -23,7 +23,7 @@ stats:
   drating: '217.7'
   range: 2-35
   wtype: Bow
-effects: Anguish
+effects: "When equipped:\n\n- On any combat or spell hit this spell may cast Anguish on target of attack. Lasts for 8.0 seconds. Triggers about 3.0 times per minute.\n  - Increases all damage done to target encounter by 0.7%\n  - Inflicts 986,424 mental damage on target.\n  - Cannot be modified except by direct means\n- This item may not be used in a PvP zone."
 obtained_from: 'Collection reward: [[Figures of War]]'
 item_link: \aITEM -1927663546 218502285 0 0 0:[Bloodiron Bow of Strife]\/a
 image: images/Bloodiron_Bow_of_Strife.png

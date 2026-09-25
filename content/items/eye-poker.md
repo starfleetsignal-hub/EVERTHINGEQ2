@@ -21,7 +21,8 @@ stats:
   drating: '74.2'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 item_link: \aITEM 1855825454 1503380091:Eye Poker\/a
 categories:
 - Assassin Equipment

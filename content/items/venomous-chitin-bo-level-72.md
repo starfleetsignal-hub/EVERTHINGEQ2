@@ -20,7 +20,8 @@ stats:
   drating: '128.52'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Necrotic Scorpikis Poison**'
+effect_name: Necrotic Scorpikis Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Scorpic Necrotoxin on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 498 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1574397852 234919887:Venomous Chitin Bo\/a
 categories:
 - Ability Modifier (Equipment)

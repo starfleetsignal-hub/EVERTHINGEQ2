@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +19,032
-effects: '**Unity**'
+effect_name: Unity
+effects: "- When Equipped:\n  - Inflicts 77,000 heat damage to up to eight targets who are fighting the wearer every 3 seconds. Increases the wearer's potency by 25.3%-48.4% and heals the wearer's allies for 2% to 10.75% of the caster's maximum health based on how many targets are hit. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1600911282 292213445:Stud of Deranged Unity\/a
 categories:
 - AE Autoattack Chance (Equipment)

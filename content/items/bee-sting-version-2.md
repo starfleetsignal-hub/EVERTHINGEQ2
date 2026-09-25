@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Mind Shatter**'
+effect_name: Mind Shatter
+effects: "- When Equipped:\n  - Increases mental damage done by spells by up to 35."
 item_link: \aITEM 1090286054 1543227606:Bee Sting\/a
 categories:
 - Ability Modifier (Equipment)

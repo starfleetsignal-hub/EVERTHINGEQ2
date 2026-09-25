@@ -16,7 +16,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   vselemental: '+400'
-effects: '**Long Road to Ruin**'
+effect_name: Long Road to Ruin
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Long Road to Ruin on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts between 228 and 4560 heat damage on target. Damage caused is based on the remaining health of the target."
 item_link: \aITEM 1712335914 -1323664809:Blackened Band of Devastation\/a
 aliases:
 - Blackened Band of Devastation

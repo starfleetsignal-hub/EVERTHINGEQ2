@@ -17,7 +17,8 @@ stats:
   dps: '33.2'
   multi: '21.6'
   vselemental: +2,079
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1555868541 -1560388603:Sentinel's Bangle of the Wrecker\/a
 categories:
 - Arcane Resistance (Equipment)

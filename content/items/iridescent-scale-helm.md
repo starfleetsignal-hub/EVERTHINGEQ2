@@ -15,7 +15,8 @@ stats:
   potency: '0.8'
   dps: '3.2'
   dtype: Plate Armor
-effects: '**Lightning Bolt**'
+effect_name: Lightning Bolt
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Lightning Bolt on target's attacker.\n    - Inflicts 112 - 137 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1801405541 -954552753:Iridescent Scale Helm\/a
 categories:
 - AE Autoattack Chance (Equipment)

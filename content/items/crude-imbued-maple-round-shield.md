@@ -11,7 +11,8 @@ stats:
   sta: '+2'
   agi: '+3'
   dtype: Round Shield
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 6 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -368263310 -482637364:Crude Imbued Maple Round Shield\/a
 categories:
 - Assassin Equipment

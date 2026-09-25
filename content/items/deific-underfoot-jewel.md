@@ -15,7 +15,8 @@ stats:
   abmod: +1,591
   aspeed: '18'
   vselemental: +29,521
-effects: '**Legionnaire''s Resolve**'
+effect_name: Legionnaire's Resolve
+effects: "- When Equipped:\n  - Increases Potency by 4% per member or mercenary in the wearer's raid.\n  - Increases Crit Bonus by 4% per member or mercenary in the wearer's raid."
 item_link: \aITEM -2114735881 1578502252:Deific Underfoot Jewel\/a
 categories:
 - Ability Modifier (Equipment)

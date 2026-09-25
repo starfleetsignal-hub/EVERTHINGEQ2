@@ -13,7 +13,8 @@ stats:
   crit: '1.2'
   critbonus: '0.3'
   potency: '1.7'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate VII on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate VII on termination.  Lasts for 15.0 seconds.\n      - Wards target against 700 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 585 - 647.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 70) from [[Ancient Knowledge: Radiant Cincture of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -2049719077 -1798244115:Radiant Cincture of the Profound\/a
 categories:

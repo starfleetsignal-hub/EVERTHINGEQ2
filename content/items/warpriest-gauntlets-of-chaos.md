@@ -15,7 +15,8 @@ stats:
   potency: '9.3'
   dps: '20.6'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -951798106 2090429204 0 0 0:Warpriest Gauntlets of Chaos\/a
 categories:
 - Census Credits

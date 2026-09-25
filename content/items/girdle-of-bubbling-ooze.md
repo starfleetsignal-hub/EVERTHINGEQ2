@@ -16,7 +16,8 @@ stats:
   potency: '12.6'
   multi: '21.1'
   mitinc: '13.5'
-effects: '**King''s Enragement**<br>**Harrowing Mien**'
+effect_name: King's Enragement, Harrowing Mien
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 3.0%.\n  - Increases Health Regen of caster by 15.0.\n  - Increases Max Health of caster by 1,440.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Haste of caster by 5.5.\n  - Increases DPS of caster by 15.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -963443840 -1383670676:Girdle of Bubbling Ooze\/a
 categories:
 - Assassin Equipment

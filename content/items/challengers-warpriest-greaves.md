@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+55'
   dtype: Plate Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -1223207061 1921808272:Challenger's Warpriest Greaves\/a
 categories:
 - Ability Modifier (Equipment)

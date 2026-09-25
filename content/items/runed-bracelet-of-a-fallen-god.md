@@ -17,7 +17,8 @@ stats:
   dps: '18.8'
   multi: '12'
   vselemental: +1,395
-effects: '**Agility of Aniquilacion**'
+effect_name: Agility of Aniquilacion
+effects: "- When Equipped:\n  - On a hit this spell may cast Agility of Aniquilacion on caster.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases AGI of caster by 75.0.\n    - Increases Haste of caster by 40.0.\n    - Increases DPS of caster by 55.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 406160074 1336534992:Runed Bracelet of a Fallen God\/a
 categories:
 - Agility of Aniquilacion (Equipment)

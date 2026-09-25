@@ -12,7 +12,8 @@ stats:
   agi: '+65'
   maxhealth: '5'
   multi: '8'
-effects: '**Battlefield Fortitude**'
+effect_name: Battlefield Fortitude
+effects: "- When Equipped:\n  - Increases Mitigation of caster vs physical damage by 326.\n  - Must be engaged in pvp combat"
 item_link: \aITEM 951520681 -1756587938:Discord's Destructive Cloak\/a
 categories:
 - Assassin Equipment

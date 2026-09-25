@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '33'
   resolve: '3'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception I when Equipped.\n  - Increases Fervor of caster by 2.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 125."
 item_link: \aITEM -231767662 193647957:Shadebound Belt\/a
 categories:
 - Ability Doublecast (Equipment)

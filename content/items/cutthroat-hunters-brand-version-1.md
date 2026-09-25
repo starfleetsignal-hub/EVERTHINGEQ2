@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   dps: '4.7'
-effects: '**Undying**'
+effect_name: Undying
+effects: "- Applies Undying when Activated.  Lasts for 8.0 seconds.\n  - On death this spell will cast Rune of Undying on target.\n    - Heals caster for 100.0% of max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Undying is 1.0 second and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 504739361 1810563353:Cutthroat Hunter's Brand\/a
 categories:
 - Ability Doublecast (Equipment)

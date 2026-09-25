@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.3'
   dps: '13'
-effects: '**Atheneal Disease**'
+effect_name: Atheneal Disease
+effects: "- Applies Atheneal Disease when Activated.  Lasts for 30.0 seconds.\n  - All offensive spells deal disease damage.\n  - Must be in Ward of Elements.\n  - The casting time of Atheneal Disease is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -1090305396 210530043:Elemental Idol of Disease\/a
 categories:
 - Assassin Equipment

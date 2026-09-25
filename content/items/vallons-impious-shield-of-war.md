@@ -17,7 +17,8 @@ stats:
   dps: '46'
   multi: '32.2'
   dtype: Tower Shield
-effects: '**Undaunted**'
+effect_name: Undaunted
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,800.0.\n  - This effect will not stack with any other similar effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1705592827 -1082823904:Vallon's Impious Shield of War\/a
 categories:
 - Attack Speed (Equipment)

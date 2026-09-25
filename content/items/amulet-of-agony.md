@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   dps: '11'
   multi: '6.8'
-effects: '**Agonizing Grip**'
+effect_name: Agonizing Grip
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Agonizing Grip on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,080 mental damage on target.\n    - Inflicts 864 mental damage on caster.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Aria of Malediction]]'
 item_link: \aITEM -1769123671 35103691:Amulet of Agony\/a
 categories:

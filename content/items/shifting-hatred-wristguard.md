@@ -15,7 +15,8 @@ stats:
   potency: '5'
   abmod: '+142'
   vselemental: '+400'
-effects: '**Shifting Hatred**'
+effect_name: Shifting Hatred
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Shifting Hatred on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 6,641 - 8,118\n      - If profession other than Fighter\n    - Increases Threat to target by 9,520 - 11,489\n      - If Fighter\n    - Cannot be modified except by direct means"
 item_link: \aITEM -76817535 -704800971:Shifting Hatred Wristguard\/a
 categories:
 - AE Autoattack Chance (Equipment)

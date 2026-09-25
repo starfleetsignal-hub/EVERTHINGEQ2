@@ -15,7 +15,8 @@ stats:
   potency: '13.1'
   dps: '29.1'
   dtype: Plate Armor
-effects: '**Pentamerous Decimation**'
+effect_name: Pentamerous Decimation
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 10.0.\n  - Increases Haste of caster by 50.0."
 item_link: \aITEM -1283134416 -850782815 0 0 0:Hydra Scale Plate Gauntlets\/a
 categories:
 - Census Credits

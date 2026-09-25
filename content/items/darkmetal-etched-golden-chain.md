@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +1,670
   aspeed: '18.8'
-effects: '**Legionnaire''s Resolve**'
+effect_name: Legionnaire's Resolve
+effects: "- When Equipped:\n  - Increases Potency by 4% per member or mercenary in the wearer's raid.\n  - Increases Crit Bonus by 4% per member or mercenary in the wearer's raid."
 item_link: \aITEM -79662659 -1712168588:Darkmetal Etched Golden Chain\/a
 categories:
 - Ability Modifier (Equipment)

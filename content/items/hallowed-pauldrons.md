@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   dps: '15.9'
   dtype: Plate Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]] *Purchased from [[Bad''Ushra]] in [[The Stonebrunt Highlands]] for 75 [[Mark of Manaar|Mark of Manaars]]'
 item_link: \aITEM -1432148873 699727484:Hallowed Pauldrons\/a
 categories:

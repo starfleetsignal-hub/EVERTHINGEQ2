@@ -21,7 +21,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Draconic Siphon**'
+effect_name: Draconic Siphon
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Draconic Siphon on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 142 divine damage on target.\n    - Heals caster for 141.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -119674084 -766825320:Draconic Fighting Baton\/a
 categories:
 - Ability Modifier (Equipment)

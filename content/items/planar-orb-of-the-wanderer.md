@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vsarcane: '+403'
-effects: '**Planar Fury**'
+effect_name: Planar Fury
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Furious Onslaught on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 62 - 93 melee damage on target\n    - Inflicts 62 - 93 melee damage on target\n    - Inflicts 62 - 93 melee damage on target\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Planar Orbs]]'
 item_link: \aITEM -1343573124 -666022740:Planar Orb of the Wanderer\/a
 categories:

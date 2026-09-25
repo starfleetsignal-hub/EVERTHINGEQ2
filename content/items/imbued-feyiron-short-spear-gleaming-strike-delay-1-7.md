@@ -16,7 +16,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 66 - 123 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2006494446 -1028980322:Imbued Feyiron Short Spear\/a
 categories:
 - Assassin Equipment

@@ -12,7 +12,8 @@ stats:
   wis: '+60'
   crit: '3.2'
   vselemental: '+680'
-effects: '**Blood Feast**<br>**Benevolent Alacrity**'
+effect_name: Blood Feast, Benevolent Alacrity
+effects: "- When Equipped:\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent."
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM -1573270652 1578049878:Sanguine Hoop\/a
 categories:

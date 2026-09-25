@@ -19,7 +19,8 @@ stats:
   flurry: '39.5'
   vsarcane: +80,262
   mitinc: '21.1'
-effects: '**Ill Will**'
+effect_name: Ill Will
+effects: "- When Equipped:\n  - Increases Potency of caster by 400.0.\n  - Increases Crit Bonus Overcap of caster by 15.0.\n  - This effect may be improved by sacrificing additional Scorned Scions of Ill Will.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 251293284 1371700874:Scorned Scion of Ill Will\/a
 categories:
 - Ability Modifier (Equipment)

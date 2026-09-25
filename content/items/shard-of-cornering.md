@@ -15,7 +15,8 @@ stats:
   critbonus: '24'
   potency: '24'
   multi: '31.2'
-effects: '**Cornered Bovine**'
+effect_name: Cornered Bovine
+effects: "- Applies Cornered Bovine when Activated.  Lasts for 30.0 seconds.\n  - Summons a bovine that inflicts damage to up to 3 epic enemies who are engaged with the caster. It can be hit by AOE attacks.\n  - Cannot be modified except by direct means\n  - The reuse time of Cornered Bovine is 1 minute"
 item_link: \aITEM 960094847 -1416530206:Shard of Cornering\/a
 categories:
 - AE Autoattack Chance (Equipment)

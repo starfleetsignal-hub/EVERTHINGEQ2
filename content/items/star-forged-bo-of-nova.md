@@ -21,7 +21,8 @@ stats:
   drating: '151.2'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Shimmering Star**'
+effect_name: Shimmering Star
+effects: "- When Equipped:\n  - Caster will Parry 10.0% of incoming attacks.\n  - On a melee hit this spell may cast Shimmering Strike on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 287 - 669 magic damage on target.\n    - Caster will Riposte 10.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n    - Increases DPS of caster by 25.0.\n    - Increases damage done by combat arts by up to 150.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 773948737 1637535535:Star Forged Bo of Nova\/a
 categories:
 - Ability Modifier (Equipment)

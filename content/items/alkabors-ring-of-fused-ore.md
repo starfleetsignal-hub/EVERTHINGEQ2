@@ -10,7 +10,8 @@ flags: no-trade no-value
 stats:
   str: '+2'
   sta: '+2'
-effects: '**Ore Perceptos**'
+effect_name: Ore Perceptos
+effects: '- Applies Ore Perceptos when Equipped.'
 item_link: \aITEM -1783390175 -1099046825:Al'Kabor's Ring of Fused Ore\/a
 categories:
 - Assassin Equipment

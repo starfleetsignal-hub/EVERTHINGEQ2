@@ -16,7 +16,8 @@ stats:
   multi: '34.3'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM 1593925820 1174089073 0 0 0:Ossified Antediluvian Gloves\/a
 categories:
 - Block Chance (Equipment)

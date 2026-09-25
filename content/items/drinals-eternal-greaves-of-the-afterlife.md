@@ -15,7 +15,8 @@ stats:
   potency: '11.7'
   mitinc: '12'
   dtype: Plate Armor
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 884413789 -1233049828 0 0 0:Drinal's Eternal Greaves of the Afterlife\/a
 categories:
 - Berserker Equipment

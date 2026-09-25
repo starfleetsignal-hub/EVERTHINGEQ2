@@ -14,7 +14,8 @@ stats:
   critbonus: '17.1'
   potency: '17.7'
   mitinc: '5'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- Applies Prayer to Tunare III when Activated.\n  - Heals the caster for 159,500 health\n  - Suspends the passive effect for 60 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare III is 1 minute\n- When Equipped:\n  - Heals caster for 10,690 health every 3 seconds\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Berserker, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Bruiser, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Guardian, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Monk, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Paladin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Shadowknight, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -1470899862 -1078939238:Invincible Focus\/a
 categories:

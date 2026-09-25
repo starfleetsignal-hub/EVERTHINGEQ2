@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Spirit of Bayle**'
+effect_name: Featherfall, Spirit of Bayle
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Spirit of Bayle when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into a human\n  - The casting time of Spirit of Bayle is 1.0 second and the reuse time of the spell is 5.0 seconds"
 obtained_from: From [[Human Heritage Armor Crate]]
 item_link: \aITEM -491908711 2008679098:Cloak of Bayle's Aegis\/a
 categories:

@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: In deep snow with enemies about, one may wish to blend into the shadows. However, even that can be done in style!
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 1739567161 1730638265:Halasian Winter Wrap\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +16,380
-effects: '**Crush Armor**'
+effect_name: Crush Armor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Crush Armor IV on target of attack.  Lasts for 30.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 1,506.\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1635154268 -1905168053:Metallic Onslaught\/a
 categories:
 - Arcane Resistance (Equipment)

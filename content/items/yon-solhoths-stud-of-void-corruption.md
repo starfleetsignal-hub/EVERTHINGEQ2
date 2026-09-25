@@ -17,7 +17,8 @@ stats:
   potency: 52,704.7
   resolve: '660'
   vselemental: +442,665
-effects: '**Heartsworn Contract**'
+effect_name: Heartsworn Contract
+effects: "- When Equipped:\n  - Increases Potency of caster by 29,032.6.\n  - Increases Fervor of caster by 38.7.\n  - Increases Fervor Overcap of caster by 33.9.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply and the effect does not stack with other \"Heartsworn Contract\" effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 658720811 699167037:Yon-Solhoth's Stud of Void Corruption\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -18,7 +18,8 @@ stats:
   resolve: '265'
   aspeed: '18.4'
   vselemental: +184,080
-effects: '**Incarnate**'
+effect_name: Incarnate
+effects: "- Applies Incarnate when Activated.  Lasts for 2 hours.\n  - Increases Ability Doublecast of target by 2.9.\n  - Increases Melee Multiplier of target by 2.92.\n  - Increases Fervor Overcap of target by 7.5.\n  - Increases Crit Bonus Overcap of target by 27.4.\n  - Increases Weapon Damage Overcap of target by 38.1.\n  - The casting time of Incarnate is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1790772352 969468539:Mounted Ssraeshza Scale Earring\/a
 categories:
 - AE Autoattack Chance (Equipment)

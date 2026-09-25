@@ -16,7 +16,8 @@ stats:
   abmod: +1,670
   aspeed: '18.8'
   vselemental: +33,491
-effects: '**Amplifying Energy**'
+effect_name: Amplifying Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 324370557 -2006292116:MCP Eye Earring\/a
 categories:
 - Ability Modifier (Equipment)

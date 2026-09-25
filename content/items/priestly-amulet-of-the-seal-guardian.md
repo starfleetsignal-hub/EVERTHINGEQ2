@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dps: '15.2'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 78362450 1040876002:Priestly Amulet of the Seal Guardian\/a
 categories:
 - Assassin Equipment

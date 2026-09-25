@@ -17,7 +17,8 @@ stats:
   critbonus: 1,365.5
   potency: 49,030.8
   resolve: '630'
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor of caster by 32.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2013047988 -1194827850:Exo Curio, Star Birthed Relic\/a
 categories:
 - Assassin Equipment

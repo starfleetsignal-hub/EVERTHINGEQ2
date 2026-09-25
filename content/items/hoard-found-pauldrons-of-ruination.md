@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   aspeed: '35.7'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 912818584 1260657797:Hoard Found Pauldrons of Ruination\/a
 categories:
 - Attack Speed (Equipment)

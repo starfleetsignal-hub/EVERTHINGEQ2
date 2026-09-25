@@ -21,7 +21,8 @@ stats:
   drating: '149.27'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Circling Souls**'
+effect_name: Circling Souls
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Circling Souls on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,926 - 3,234 disease damage on target encounter instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1617297765 1258134403 0 0 0:Spiked Sword of the Marine\/a
 categories:
 - Assassin Equipment

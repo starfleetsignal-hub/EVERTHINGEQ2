@@ -18,7 +18,8 @@ stats:
   abmod: +7,156
   multi: '89.5'
   dtype: Plate Armor
-effects: '**Psionic Aura**'
+effect_name: Psionic Aura
+effects: "- Applies Psionic Aura when Equipped.\n  - The Intact Psionist Helm emits an aura which allows the wearer to present themselves as a psionist."
 obtained_from: '*Crafted by [[Artisan]] (level 100) from [[Crowning Achievements of the Deepforge Founders]] *Crafted by [[Artisan]] (level 100) from [[Crowning Achievements of the Deepforge Founders]]'
 item_link: \aITEM -1968196088 755357806:Invigorated Intact Stalwart Psionist's Crown\/a
 categories:

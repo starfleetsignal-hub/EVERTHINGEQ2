@@ -18,7 +18,7 @@ stats:
   drating: '114.1'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: Greater Undead Bane
+effects: "- When Equipped:\n  - Additional equipment with Undead Bane improves this effect.\n  - On any successful attack this spell has a chance to cast Greater Undead Bane on target of attack. Lasts for 10.0 seconds. This effect will trigger an average of 2.0 times per minute.\n    - Inflicts 389 mental damage on target\n      - Must not be classified as an undead\n    - Decreases Mitigation of target vs mental damage by 656\n      - Must not be classified as undead\n    - Inflicts 777 mental damage on target\n      - Must be classified as an undead"
 item_link: \aITEM -789800684 1791093095:Destructive Axe of Vengence\/a
 image: images/Destructive_Axe_of_Vengence.jpg
 categories:

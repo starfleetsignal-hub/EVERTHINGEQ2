@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   abmod: '+14'
   dtype: Plate Armor
-effects: '**Glyph of Preservation**'
+effect_name: Glyph of Preservation
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Renewing Breeze on caster.\n    - Heals caster for 64.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -543431191 -993397452:Bloodstained Rubicite Sabatons\/a
 categories:
 - Ability Modifier (Equipment)

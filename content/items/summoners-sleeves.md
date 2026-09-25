@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: '*Crafted by [[Artisan]] (level 89) from [[Far Seas Strategic Pricing (2nd Edition), Volume I]] for ?? [[Mark of Manaar|Marks of Manaar]] *Sold by [[Falakhar]] (Token Trader) in [[The Sundered Frontier]] for 15 [[Mark of Manaar|Marks of Manaar]]'
 item_link: \aITEM 1586015123 -326309101:Summoner's Sleeves\/a
 categories:

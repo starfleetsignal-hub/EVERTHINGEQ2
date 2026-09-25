@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   dtype: Buckler
-effects: '**Shielding Presence**'
+effect_name: Shielding Presence
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Shielding Presence on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Block Chance of target by 7.0%.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -843718914 -1062609986:Prime Aegis Buckler\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: +15,381
   aspeed: '38'
   mitinc: '8.2'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.6.\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1259740610 536047412:Xux'laio's Coin of Passage\/a
 categories:
 - Ability Modifier (Equipment)

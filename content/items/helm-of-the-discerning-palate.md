@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '126'
   dtype: Chain Armor
-effects: '**Pritchett''s Awareness**'
+effect_name: Pritchett's Awareness
+effects: "- When Equipped:\n  - When any damage is received this spell has a 2.5% chance to cast Pritchett's Aura on caster.  Lasts for 30.0 seconds.\n    - Increases AGI and WIS of target by 37.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 468908797 -919173390:Helm of the Discerning Palate\/a
 image: images/Helm_of_the_Discerning_Palate.jpg
 categories:

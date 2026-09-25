@@ -16,7 +16,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   dtype: Cloth Armor
-effects: '**Stigmatic Frenzy**'
+effect_name: Stigmatic Frenzy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Stigmatic Frenzy on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of group members (AE) by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 860974683 968801897:Baleful Caller's Vestment of the Godslayer\/a
 categories:
 - Casting Speed (Equipment)

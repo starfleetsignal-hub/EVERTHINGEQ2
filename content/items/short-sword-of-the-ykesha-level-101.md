@@ -23,7 +23,8 @@ stats:
   drating: '231.75'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Ykesha''s Wrath**'
+effect_name: Ykesha's Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ykesha's Wrath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 828 - 1,012 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -959814735 1288622712:Short Sword of the Ykesha\/a
 categories:
 - Ability Modifier (Equipment)

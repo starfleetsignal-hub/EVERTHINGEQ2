@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   mitinc: '0.4'
   dtype: Plate Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Armorer]] (level 50) from [[Ancient Knowledge: Vanguard Breastplate of Dynamism]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -90801420 427295804:Vanguard Breastplate of Dynamism\/a
 categories:

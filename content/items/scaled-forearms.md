@@ -12,7 +12,8 @@ stats:
   sta: '+4'
   mit: '47'
   dtype: Chain Armor
-effects: '**Tranquil Breeze Glyph**'
+effect_name: Tranquil Breeze Glyph
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 3.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1665031260 -1967956859:Scaled Forearms\/a
 categories:
 - Assassin Equipment

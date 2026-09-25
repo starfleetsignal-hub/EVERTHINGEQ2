@@ -17,7 +17,8 @@ stats:
   aspeed: '16.8'
   dps: '27.1'
   vselemental: +1,832
-effects: '**Sapping Strength**'
+effect_name: Sapping Strength
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Sapping Strength on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases AGI, INT, STR and WIS of target by 125.0, multiplied by increment stacks.\n    - Increases STR, AGI, WIS and INT of the raid by 125 per increment\n    - This effect can stack from multiple casters\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1142092691 -1637914905:Sapping Tavalan Bangle\/a
 categories:
 - Arcane Resistance (Equipment)

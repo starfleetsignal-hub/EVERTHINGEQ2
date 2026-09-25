@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   dps: '52.5'
   dtype: Tower Shield
-effects: '**Molten Detonation**'
+effect_name: Molten Detonation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Molten Detonation on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM -1962288629 -645578225:Tower Shield of Korlaadrec\/a
 categories:
 - Berserker Equipment

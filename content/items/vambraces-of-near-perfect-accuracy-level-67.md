@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   dps: '5.7'
   dtype: Chain Armor
-effects: '**Lesser Mirage**'
+effect_name: Lesser Mirage
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Mirage on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 350\n    - Cannot be modified except by direct means"
 item_link: \aITEM -313532357 -1964568418:Vambraces of Near Perfect Accuracy\/a
 categories:
 - Assassin Equipment

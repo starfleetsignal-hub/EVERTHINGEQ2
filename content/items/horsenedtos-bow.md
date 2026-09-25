@@ -26,7 +26,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 2.6%.\n    - Inflicts 3,574 heat damage on target.\n    - Inflicts 3,574 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -218362043 -559551255:Horsenedto's Bow\/a
 image: images/Horsenedto's_Bow.png
 categories:

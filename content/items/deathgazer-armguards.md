@@ -16,7 +16,8 @@ stats:
   aspeed: '9.3'
   dps: '15.9'
   vselemental: +1,256
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 150941407 1873161772:Deathgazer Armguards\/a
 categories:
 - Arcane Resistance (Equipment)

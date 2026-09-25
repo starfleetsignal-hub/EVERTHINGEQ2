@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dps: '2.2'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate V on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate V on termination.  Lasts for 15.0 seconds.\n      - Wards target against 500 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 353 - 391.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 50) from [[Ancient Knowledge: Radiant Cincture of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -1652180555 -1877090992:Radiant Cincture of Solace\/a
 categories:

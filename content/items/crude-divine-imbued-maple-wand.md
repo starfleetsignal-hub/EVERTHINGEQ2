@@ -15,7 +15,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Holy Strike**'
+effect_name: Holy Strike
+effects: "- Applies Holy Strike when Activated.\n  - Inflicts 34 - 57 divine damage on target.\n  - The casting time of Holy Strike is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -900201170 554786601:Crude Divine Imbued Maple Wand\/a
 categories:
 - Berserker Equipment

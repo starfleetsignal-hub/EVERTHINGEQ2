@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Magicblade**'
+effect_name: Magicblade
+effects: "- Applies Magicblade III when Activated.  Lasts for 1 minute.\n  - Increases Flurry of Caster by 6.0.\n  - Converts damage spells to slashing damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Magicblade III is 1 minute"
 item_link: \aITEM 596509366 -818098290:Grimling Rune of Wrathful Blades\/a
 categories:
 - AE Autoattack Chance (Equipment)

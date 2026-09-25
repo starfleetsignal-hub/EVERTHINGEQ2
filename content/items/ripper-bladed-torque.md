@@ -15,7 +15,8 @@ stats:
   potency: '18.7'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**The Battlemage**'
+effect_name: The Battlemage
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 45.0.\n  - If mage"
 item_link: \aITEM -2113423598 1051362205:Ripper Bladed Torque\/a
 categories:
 - Assassin Equipment

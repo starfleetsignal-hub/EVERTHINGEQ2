@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Back Breaker**'
+effect_name: Back Breaker
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Back Breaker on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 404 piercing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of pierce, slash or crush abilities."
 item_link: \aITEM 496274068 1875353243:Throatripper\/a
 categories:
 - Ability Modifier (Equipment)

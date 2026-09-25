@@ -5,7 +5,7 @@ item_kind: Equipment
 level: '1'
 slot: Charm
 flags: Lore No-Trade Ornate
-effects: Black Warg with Blue Saddle
+effects: "- Applies **Black Warg with Blue Saddle** when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 130%"
 obtained_from: Can be purchased from [[Wolfmaster Heinrich]] after completing the .
 categories:
 - Assassin Equipment

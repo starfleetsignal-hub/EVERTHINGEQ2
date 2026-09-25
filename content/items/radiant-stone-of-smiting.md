@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+5'
   sta: '+5'
-effects: '**Flockmaster''s Protection**'
+effect_name: Flockmaster's Protection
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Flockmaster's Protection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - This effect applies to both the caster and the target.\n    - When any damage is received this spell will cast Flockmaster's Protection on target.\n      - Heals target for 40 - 44.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Radiant Stone of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -926580313 -460618334:Radiant Stone of Smiting\/a
 categories:

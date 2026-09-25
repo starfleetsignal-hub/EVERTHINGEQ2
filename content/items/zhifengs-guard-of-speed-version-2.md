@@ -17,7 +17,8 @@ stats:
   aspeed: '2.7'
   multi: '3.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 23.0."
 item_link: \aITEM 508749258 137900889:Zhi'feng's Guard of Speed\/a
 categories:
 - Assassin Equipment

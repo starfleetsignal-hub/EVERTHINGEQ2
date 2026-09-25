@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   vselemental: '+324'
-effects: '**Call of the Prime**'
+effect_name: Call of the Prime
+effects: "- Applies Call of the Prime VIII when Activated.  Lasts for 12.0 seconds.\n  - Applies Prime Focus VIII on termination.  Lasts for 15.0 seconds.\n    - Increases Potency of group members (AE) by 8.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the Effectiveness of heals and wards by 15%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Call of the Prime VIII is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 80) from [[Ancient Knowledge: Radiant Earring of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -1106691142 1181331251:Radiant Earring of Synergism\/a
 categories:

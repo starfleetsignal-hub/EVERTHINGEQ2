@@ -22,7 +22,8 @@ stats:
   drating: '218.97'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Great Waters**'
+effect_name: Great Waters
+effects: "- When Equipped:\n  - This effect does not stack with itself\n  - On any combat or spell hit this spell may cast Great Waters on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 8,232 heat damage on target instantly and every 3 seconds.\n    - Inflicts an additional 4,116 heat damage on target every tick.\n    - Increases healing received by 3.00%.\n    - Increases Flurry of Group members (AE) by 5.0.\n    - Increases Crit Bonus of group members (AE) by 10.0.\n    - Increases Potency of group members (AE) by 10.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -445362310 -972949486 0 0 0:Limb-Lopper\/a
 categories:
 - Ability Modifier (Equipment)

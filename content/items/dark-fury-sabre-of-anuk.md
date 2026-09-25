@@ -20,7 +20,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Strike of the Eternal**<br>**Flow of Fyr''Un**'
+effect_name: Strike of the Eternal, Flow of Fyr'Un
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Strike of the Eternal on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 387 - 581 magic damage on target.\n    - Cannot be modified except by direct means\n- Applies Flow of Fyr'Un when Equipped.\n  - Increases Combat Power Regen of caster by 14.0."
 obtained_from: '[[Wrapping It All Up]]'
 item_link: \aITEM -648255239 1925622025:Dark Fury Sabre of Anuk\/a
 categories:

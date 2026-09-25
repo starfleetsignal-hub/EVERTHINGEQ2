@@ -25,7 +25,8 @@ stats:
   drating: '262.54'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Hostility of Battle**'
+effect_name: Hostility of Battle
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 10% chance to cast Hostility of Battle on target of spell.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 12,644 piercing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 8.0 - 12.0 seconds."
 item_link: \aITEM -2106902880 -1688881979:Fabled Strategist's Field Dagger\/a
 categories:
 - Ability Modifier (Equipment)

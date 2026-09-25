@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '*Crafted by [[Tailor]] (level 93) from [[Tailor Essentials Volume 93 (with desc)]] *Crafted by [[Tailor]] (level 93) from [[Tailor Essentials Volume 93 (without desc)]]'
 item_link: \aITEM -818709446 94681362:Woven Bear Pelt Gloves\/a
 categories:

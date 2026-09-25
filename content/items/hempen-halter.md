@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27.4'
   dps: '22.2'
-effects: '**Dead Men Tell No Tales**'
+effect_name: Dead Men Tell No Tales
+effects: "- Applies Dead Men Tell No Tales when Activated.  Lasts for 15.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 50.0.\n  - Increases Potency of group members (AE) by 50.0.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Dead Men Tell No Tales is 1 minute\n- When Equipped:\n  - Increases Crit Bonus of caster by 60.0.\n  - Increases Potency of caster by 60.0.\n  - This effect will not stack with \"Core\" item effects of the same type.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Rare Ocean Maps]]'
 item_link: \aITEM 877350207 707295807:Hempen Halter\/a
 categories:

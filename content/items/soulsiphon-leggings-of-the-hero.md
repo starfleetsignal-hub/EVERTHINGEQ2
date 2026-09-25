@@ -17,7 +17,8 @@ stats:
   aspeed: '5.4'
   multi: '6.2'
   dtype: Cloth Armor
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 213.\n    - Increases power of caster by 123.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 638172083 1907241993:Soulsiphon Leggings of the Hero\/a
 categories:
 - Assassin Equipment

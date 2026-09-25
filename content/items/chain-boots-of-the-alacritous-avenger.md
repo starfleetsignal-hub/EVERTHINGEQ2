@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   multi: '19.7'
   dtype: Chain Armor
-effects: '**Swiftness in the Dark**'
+effect_name: Swiftness in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -1185416536 1632869305:Chain Boots of the Alacritous Avenger\/a
 categories:
 - Casting Speed (Equipment)

@@ -18,7 +18,8 @@ stats:
   potency: 49,030.8
   resolve: '630'
   dtype: Plate Armor
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor of caster by 32.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1877892346 -502503632:Constellation Treads, Star Birthed Relic\/a
 categories:
 - Assassin Equipment

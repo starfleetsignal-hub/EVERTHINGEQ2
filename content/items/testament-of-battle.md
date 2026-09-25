@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Unchecked Aggression**'
+effect_name: Unchecked Aggression
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Unchecked Aggression on caster.  Lasts for 15 minutes.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 6.0, multiplied by increment stacks.\n    - Increments up to 15 times. Dispels when hit.\n    - Cannot be modified except by direct means"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM -76359400 1098045305:Testament of Battle\/a
 categories:

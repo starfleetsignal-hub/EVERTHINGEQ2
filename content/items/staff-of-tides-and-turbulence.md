@@ -19,7 +19,9 @@ stats:
   drating: '242.02'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Noumenal Ascendancy**<br>**Astral Aegis**'
+effect_name: Noumenal Ascendancy, Astral Aegis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Noumenal Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Noumenal Ascendancy II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Ministration, Disruption, Ordination and Subjugation of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Applies Astral Aegis: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Astral\
+  \ Aegis is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,310 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 231 points of shielding every 2 seconds\n  - If above level 90\n  - Cannot be modified except by direct means"
 item_link: \aITEM -297805823 438285151 0 0 0:Staff of Tides and Turbulence\/a
 categories:
 - Astral Aegis (Equipment)

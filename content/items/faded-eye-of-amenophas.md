@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   aspeed: '9.3'
-effects: '**Enticing Melody**'
+effect_name: Enticing Melody
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Enticing Melody on caster.  Lasts for 15.0 seconds.  Triggers about 1.0 times per minute.\n    - Increases Reuse Speed of caster by 12.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1191881799 1027740275:Faded Eye of Amenophas\/a
 categories:
 - Ability Modifier (Equipment)

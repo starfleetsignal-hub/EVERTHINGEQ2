@@ -16,7 +16,7 @@ stats:
   drating: '102.1'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: Slay the Living
+effects: "- When Equipped:\n  - Soulleach will increase its wielder's melee crit chance by an additional 5% while attacking living humanoid creatures."
 item_link: \aITEM -1026839664 -1911359172:[Soulleach]\/a
 categories:
 - Ability Modifier (Equipment)

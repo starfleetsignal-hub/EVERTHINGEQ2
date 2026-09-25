@@ -16,7 +16,8 @@ stats:
   aspeed: '17.3'
   dps: '27.9'
   multi: '18.1'
-effects: '**Fury of the Hounds**'
+effect_name: Fury of the Hounds
+effects: "- Applies Fury of the Hounds when Activated.  Lasts for 20.0 seconds.\n  - Increases Potency of caster by 50.0.\n  - Decreases Hate Gain of caster by 18.0 - 22.0.\n  - Prevents AOE (except when direct)\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Fury of the Hounds is 5 minutes"
 obtained_from: '[[The Fallen Swords: Endgame]]'
 item_link: \aITEM -677274171 1643278045:Coalesced Planar Essence\/a
 categories:

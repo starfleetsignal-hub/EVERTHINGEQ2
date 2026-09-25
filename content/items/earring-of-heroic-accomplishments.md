@@ -15,7 +15,8 @@ stats:
   potency: '11'
   abmod: '+184'
   vselemental: +8,148
-effects: '**Dragonsoul**'
+effect_name: Dragonsoul
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,584.4.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1696284851 -1643914800:Earring of Heroic Accomplishments\/a
 categories:
 - Ability Modifier (Equipment)

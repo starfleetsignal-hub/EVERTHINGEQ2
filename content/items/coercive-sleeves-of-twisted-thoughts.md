@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Cloth Armor
-effects: '**Ensorcelled Vulnerability**'
+effect_name: Ensorcelled Vulnerability
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 10%."
 item_link: \aITEM 1665079652 584392881 0 0 0:Coercive Sleeves of Twisted Thoughts\/a
 categories:
 - Ability Modifier (Equipment)

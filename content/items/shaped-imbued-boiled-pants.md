@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '72'
   dtype: Leather Armor
-effects: '**Dim Sanguine Imbued**'
+effect_name: Dim Sanguine Imbued
+effects: "- Applies Dim Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Sanguine Feedback on target's attacker.\n    - Inflicts 18 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1398379211 1728639908:shaped imbued boiled pants\/a
 categories:
 - Assassin Equipment

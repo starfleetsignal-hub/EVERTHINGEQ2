@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   vselemental: '+511'
-effects: '**Enlightened Efficiency**'
+effect_name: Enlightened Efficiency
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Enlightened Efficiency on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces the power cost of spells by 15%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1737877492 1667904161:Bangle of the Mysterious Sea Dragon\/a
 categories:
 - Ability Modifier (Equipment)

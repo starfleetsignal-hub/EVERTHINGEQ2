@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   mitinc: '6'
-effects: '**I need heals!**'
+effect_name: I need heals!
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 27.5.\n  - Cannot be modified except by direct means\n- Applies I need heals! when Activated.  Lasts for 12.0 seconds.\n  - Increases the group's potency of heals and wards by 100%.\n  - Suspends the passive effect for 30 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of I need heals! is 30.0 seconds"
 item_link: \aITEM 2019749686 -1625507203:Vial of Bolgin's Brew\/a
 categories:
 - AE Autoattack Chance (Equipment)

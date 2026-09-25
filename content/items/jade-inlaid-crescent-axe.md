@@ -19,7 +19,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 item_link: \aITEM -840449608 -1535791037:Jade Inlaid Crescent Axe\/a
 categories:
 - AE Autoattack Chance (Equipment)

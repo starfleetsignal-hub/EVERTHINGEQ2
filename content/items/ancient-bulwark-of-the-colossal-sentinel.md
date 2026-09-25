@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   dps: '25.5'
   dtype: Tower Shield
-effects: '**Cyclical Battering**'
+effect_name: Cyclical Battering
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2640 -775884624:Ancient Bulwark of the Colossal Sentinel\/a
 categories:
 - Berserker Equipment

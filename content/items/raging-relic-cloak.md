@@ -17,7 +17,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   abmod: +4706,806
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 29,322.9.\n  - Increases Fervor of caster by 78.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1031227479 1978475675:Raging Relic Cloak\/a
 categories:
 - Ability Modifier (Equipment)

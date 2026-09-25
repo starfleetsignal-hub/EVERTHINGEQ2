@@ -18,7 +18,8 @@ stats:
   potency: '8.8'
   multi: '14.5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: 'Dropped by [[Primus Pilus Gunnr (Epic)|Primus Pilus Gunnr]] in [[Throne of Storms: Hall of Legends]]'
 item_link: \aITEM 279443374 -1485686354:Knight's Irebound Gauntlets\/a
 categories:

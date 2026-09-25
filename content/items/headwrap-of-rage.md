@@ -16,7 +16,7 @@ stats:
   mit: '240'
   vsarcane: '+315'
   dtype: Leather Armor
-effects: Blind Rage
+effects: '- NEED EFFECTS LIST HERE'
 item_link: -1540715742 2088977570:Headwrap of Rage
 categories:
 - Arcane Resistance (Equipment)

@@ -19,7 +19,8 @@ stats:
   aspeed: '72.2'
   dps: '54.8'
   vselemental: +87,497
-effects: '**Unquenched Power**'
+effect_name: Unquenched Power
+effects: "- When Equipped:\n  - Increases Potency of caster by 550.0."
 item_link: \aITEM 2145961896 1640344816:Planar Signet of Affirmation\/a
 categories:
 - Ability Modifier (Equipment)

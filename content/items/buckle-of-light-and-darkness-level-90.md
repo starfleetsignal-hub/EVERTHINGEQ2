@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Divine Light**'
+effect_name: Divine Light
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Divine Light on target's attacker.\n    - Inflicts 739 - 903 divine damage on target.\n    - Heals caster for 810 - 990.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1118576375 101467932:Buckle of Light and Darkness\/a
 categories:
 - Ability Modifier (Equipment)

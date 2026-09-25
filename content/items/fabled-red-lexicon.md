@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Better Part of Valor**'
+effect_name: Better Part of Valor
+effects: "- Applies Better Part of Valor II when Activated.  Lasts for 10.0 seconds.\n  - Applies Mire of Valor.  Lasts for 24.0 seconds.\n    - Slows targets in Area of Effect by 70.0%.\n    - Cannot be modified except by direct means\n  - Dispels 131 levels of hostile Root effects on group members (AE)\n  - Reduces slow effects on group members (AE) by 55.0%.\n  - Increases in-combat movement speed of group members (AE) by 20.0%.\n  - Cannot be modified except by direct means\n  - The reuse time of Better Part of Valor II is 1 minute 30 seconds"
 item_link: \aITEM 1280292013 108817295:Fabled Red Lexicon\/a
 categories:
 - Assassin Equipment

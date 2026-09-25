@@ -19,7 +19,8 @@ stats:
   drating: '98'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Planar Warding**'
+effect_name: Planar Warding
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Planar Wrath on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 200 - 416 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1165290484 -2047597553:Greatspear of the Outer Rim\/a
 categories:
 - Berserker Equipment

@@ -13,7 +13,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +15,750
-effects: '**Building Retribution**'
+effect_name: Building Retribution
+effects: "- When Equipped:\n  - When damaged this spell will cast Building Retribution on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 15,525-62,100 magic damage on target\n    - Damage increases as the caster is attacked\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 obtained_from: Crafted by [[Jeweler]] (level 99) from [[Jeweler Essentials Volume 99]]
 item_link: \aITEM 1461448915 -1313185600:Tranquil Tourmaline Earring\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 80) from [[Ancient Knowledge: Devout Breastplate of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -428196407 1537823117:Devout Breastplate of Synergism\/a
 categories:

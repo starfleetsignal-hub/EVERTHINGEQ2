@@ -20,7 +20,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Zealous Annihilation**'
+effect_name: Zealous Annihilation
+effects: "- When Equipped:\n  - Aeteok is a weapon born of the purest destruction...\n  - On a combat hit this spell may cast Zealous Annihilation on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 3,388 heat damage on target.\n    - Heals caster for 2,599.\n    - Increases Flurry of Caster by 3.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1148213193 -385189988:Aeteok, Spirit Render\/a
 categories:
 - Ability Modifier (Equipment)

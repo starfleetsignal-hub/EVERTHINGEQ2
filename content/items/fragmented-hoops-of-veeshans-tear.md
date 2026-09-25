@@ -13,7 +13,8 @@ stats:
   critbonus: '15'
   potency: '15'
   vselemental: +9,900
-effects: '**Blooded Blade**'
+effect_name: Blooded Blade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blooded Blade on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 400,075 piercing damage on target.\n    - Inflicts 25.0% of max health in piercing damage on caster.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1273157339 987992371:Fragmented Hoops of Veeshan's Tear\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   multi: '6.4'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**<br>**Lesser Soulsiphon**'
+effect_name: Sorcerous Alacrity, Lesser Soulsiphon
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 1 percent.\n- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 189.\n    - Increases power of caster by 98.\n    - Cannot be modified except by direct means"
 obtained_from: '[[We Will Be Free Again!]]'
 item_link: \aITEM -1474897607 56797283:Reet Guardian's Cuffs\/a
 categories:

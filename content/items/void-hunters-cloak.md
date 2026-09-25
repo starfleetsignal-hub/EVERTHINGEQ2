@@ -15,7 +15,8 @@ stats:
   potency: '7'
   abmod: '+210'
   dps: '18.1'
-effects: '**Hunter''s Stalking**'
+effect_name: Hunter's Stalking
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - On a hostile ability cast this spell has a 10% chance to cast Stalk on target of spell.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 123 - 185 piercing damage on target instantly and every second.\n    - Increases in-combat movement speed of caster by 15.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1790226801 -1858431422:Void Hunter's Cloak\/a
 categories:
 - Ability Modifier (Equipment)

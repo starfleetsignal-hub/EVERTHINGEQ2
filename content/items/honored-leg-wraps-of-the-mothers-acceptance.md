@@ -18,7 +18,8 @@ stats:
   dps: '27.1'
   mitinc: '11.2'
   dtype: Leather Armor
-effects: '**Renewing Bulwark**<br>**Stout**'
+effect_name: Renewing Bulwark, Stout
+effects: "- When Equipped:\n  - Applies Renewing Bulwark: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Renewing Bulwark is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,420 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 242 points of shielding every 2 seconds\n  - If above level 90\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Block Chance of caster by 3.0%.\n  - Increases Health Regen of caster by 15.0.\n  - Increases Max Health of caster by 1,220.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 151381184 217107781:Honored Leg Wraps of the Mother's Acceptance\/a
 categories:
 - Assassin Equipment

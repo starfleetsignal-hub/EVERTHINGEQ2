@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Greater Hollow Aria**'
+effect_name: Greater Hollow Aria
+effects: "- When Equipped:\n  - Adds an additional trigger chance increase to Cacophony of Blades II and Perfection of the Maestro II."
 item_link: \aITEM -1222787454 2068254531 0 0 0:Harmonic Museweave Hauberk\/a
 categories:
 - Ability Modifier (Equipment)

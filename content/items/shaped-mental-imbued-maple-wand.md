@@ -15,7 +15,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mental Blast**'
+effect_name: Mental Blast
+effects: "- Applies Mental Blast when Activated.\n  - Inflicts 34 - 57 mental damage on target.\n  - The casting time of Mental Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -535679866 -1996556696:Shaped Mental Imbued Maple Wand\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.6'
   mitinc: '4.1'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 33.0."
 item_link: \aITEM 1020271580 -475944371:Locket of the Heir\/a
 categories:
 - Berserker Equipment

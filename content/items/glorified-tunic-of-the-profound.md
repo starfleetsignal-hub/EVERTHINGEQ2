@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   strike: '4.4'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 70) from [[Ancient Knowledge: Glorified Tunic of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -268567516 -1277679377:Glorified Tunic of the Profound\/a
 categories:

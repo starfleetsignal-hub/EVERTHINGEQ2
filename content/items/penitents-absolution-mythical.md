@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Aftershock**<br>**Penitent Smite**<br>**Cleansing of the Soul**'
+effect_name: Aftershock, Penitent Smite, Cleansing of the Soul
+effects: "- When Equipped:\n  - Has a 50% chance to cast an additional heal 0.5 seconds after Alleviation VI, Fanatical Healing VII or Ministration VIII is cast.\n  - Improves the casting and reuse speed of heals by 15%.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Penitent Smite on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 583 - 875 divine damage on target.\n    - Makes group members (AE) immune to Daze and Stifle effects\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Cleansing of the Soul when Activated.\n  - Dispels 199 levels of any hostile effects on group members (AE)\n  - Casts Penitent Cleansing for each successful Dispel.\n      - Heals target for 608 - 912.\n  - The casting time of Cleansing of the Soul is 1.0 second and the reuse time of the spell is 15.0 seconds"
 obtained_from: '[[The Legacy of Yasva V''Alear]]'
 item_link: \aITEM 1220657930 265970665:Penitent's Absolution\/a
 image: images/Inquismythical.jpeg

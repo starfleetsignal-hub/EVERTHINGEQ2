@@ -18,7 +18,8 @@ stats:
   resolve: '505'
   mitinc: '84.9'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1578708566 -1476519334:Mausoleum Liminal Hauberk\/a
 categories:
 - Assassin Equipment

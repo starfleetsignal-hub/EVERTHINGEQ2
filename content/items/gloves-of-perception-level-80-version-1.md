@@ -17,7 +17,8 @@ stats:
   dps: '12.4'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 item_link: \aITEM 1628934344 1037970532:Gloves of Perception\/a
 aliases:
 - Gloves of Perception (Level 79)

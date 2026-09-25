@@ -16,7 +16,8 @@ stats:
   abmod: '+203'
   dps: '17.3'
   vsarcane: '+511'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 1714857464 739850069:Ring of Repentance\/a
 categories:
 - Ability Modifier (Equipment)

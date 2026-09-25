@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   mitinc: '16.3'
   dtype: Plate Armor
-effects: '**Essence of the Summoned**'
+effect_name: Essence of the Summoned
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Summoned Ones."
 obtained_from: From [[Satchel of Saryrn]]
 item_link: \aITEM -246722806 1829038487:Exemplar  Plate Greaves\/a
 categories:

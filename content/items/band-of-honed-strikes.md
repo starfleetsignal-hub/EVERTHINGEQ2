@@ -16,7 +16,8 @@ stats:
   aspeed: '10.2'
   dps: '17.3'
   vselemental: +1,349
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 113\n    - Increases power of caster by 75\n    - Cannot be modified except by direct means"
 item_link: \aITEM 350503922 1642873572:Band of Honed Strikes\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -939008444 269950575 0 0 0:Darkened Gauntlets of Shadowrage\/a
 categories:
 - Berserker Equipment

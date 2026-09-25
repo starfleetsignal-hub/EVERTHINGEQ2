@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   abmod: '+197'
-effects: '**Quickening**'
+effect_name: Quickening
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Quickening on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Increases Casting Speed of caster by 8.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2026380632 -1748710635:Mass of Dark Energy\/a
 categories:
 - Ability Modifier (Equipment)

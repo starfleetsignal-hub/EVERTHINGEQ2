@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   multi: '1.3'
   vsarcane: '+180'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 20.0."
 obtained_from: '[[Alangria]] in [[Permafrost]].'
 item_link: \aITEM -371325291 -1060347366:Bangle of Manipulation\/a
 categories:

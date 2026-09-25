@@ -18,7 +18,8 @@ stats:
   abmod: +4845,244
   cbovercap: '+1590.8'
   dtype: Tower Shield
-effects: '**Wary Protection**'
+effect_name: Wary Protection
+effects: "- When Equipped:\n  - Prevents a percentage of the damage you take based on the tier and type of shield or brawler weapon you have equipped.\n    - If fighter\n  - Brawlers may benefit from Wary Protection granted via a fist or a two handed weapon, Crusaders and Warriors will only benefit from Wary protection granted by tower shields.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Truth or Darou]]'
 item_link: \aITEM -1744522311 469058975:Brokenskull Tower Shield of Succession\/a
 image: images/Brokenskull_Tower_Shield_of_Succession.png

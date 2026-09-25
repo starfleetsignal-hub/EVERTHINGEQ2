@@ -17,7 +17,8 @@ stats:
   multi: '21.6'
   flurry: '9.2'
   vselemental: +2,079
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 60.0.\n  - Increases Potency of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1709571666 1794521386:Ornament of the Ancient Sentinel\/a
 categories:
 - Arcane Resistance (Equipment)

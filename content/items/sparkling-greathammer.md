@@ -19,7 +19,8 @@ stats:
   drating: '62.78'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Dazzling Bolt Glyph**'
+effect_name: Dazzling Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 100 - 122 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1913246920 -181589705:Sparkling Greathammer\/a
 categories:
 - Beastlord Equipment

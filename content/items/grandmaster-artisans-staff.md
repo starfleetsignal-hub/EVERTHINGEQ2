@@ -13,7 +13,8 @@ stats:
   drating: '291.79'
   dtype: Two-Handed Crushing
   wtype: Magic Affinity
-effects: '**Gnollish Supplymaster**'
+effect_name: Gnollish Supplymaster
+effects: "- Applies Gnollish Supplymaster when Activated.  Lasts for 5 minutes.\n  - Summon a fuel merchant from from the gnollish warrens.\n  - The casting time of Gnollish Supplymaster is 5.0 seconds and the reuse time of the spell is 2 hours"
 obtained_from: 'Achievement reward: [[The Year of Darkpaw Crafter]]'
 item_link: \aITEM -1749849954 2103949432:Grandmaster Artisan's Staff\/a
 events:

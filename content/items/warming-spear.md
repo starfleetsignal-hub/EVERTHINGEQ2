@@ -12,7 +12,8 @@ stats:
   drating: '41.28'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Scorching Winds**'
+effect_name: Scorching Winds
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Scorching Winds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 86 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1162281849 1370712144:Warming Spear\/a
 categories:
 - Assassin Equipment

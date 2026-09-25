@@ -17,7 +17,8 @@ stats:
   dps: '25.8'
   multi: '18.6'
   vselemental: +28,612
-effects: '**Enraging Flames**'
+effect_name: Enraging Flames
+effects: "- When Equipped:\n  - Inflicts 610,000 heat damage and 940,000 threat increase to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -1192709630 1130751010:Martial Bornite Bangle\/a
 categories:

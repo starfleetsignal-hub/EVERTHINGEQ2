@@ -15,7 +15,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Cloth Armor
-effects: '**Enthralling Recovery**'
+effect_name: Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 1 percent."
 item_link: \aITEM 294750986 -632162293:Cossock of the Inquisition\/a
 categories:
 - Assassin Equipment

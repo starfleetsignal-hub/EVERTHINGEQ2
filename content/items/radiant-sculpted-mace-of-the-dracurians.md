@@ -21,7 +21,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Renewing Bulwark**'
+effect_name: Renewing Bulwark
+effects: "- When Equipped:\n  - Applies Renewing Bulwark: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Renewing Bulwark is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,420 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 242 points of shielding every 2 seconds\n  - If above level 90\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Slaying of Sevalak]]'
 item_link: \aITEM 1314422839 -2082035971:Radiant Sculpted Mace of the Dracurians\/a
 categories:

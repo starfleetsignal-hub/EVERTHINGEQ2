@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**The Enrager**'
+effect_name: The Enrager
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 8.0.\n  - Increases Hate Gain of caster by 40.0."
 item_link: \aITEM -2121857920 1622231083:Fabled Chitin Plated Necklace\/a
 categories:
 - Assassin Equipment

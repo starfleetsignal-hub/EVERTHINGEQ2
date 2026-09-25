@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 632840731 -47214563:Grand Time Etched Woven Gloves\/a
 categories:
 - Ability Modifier (Equipment)

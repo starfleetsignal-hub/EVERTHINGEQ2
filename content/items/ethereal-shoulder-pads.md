@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   aspeed: '0.3'
   dtype: Leather Armor
-effects: '**Light Strike**'
+effect_name: Light Strike
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Light Strike on target's attacker.  Lasts for 24.0 seconds.\n    - Inflicts 156 - 260 divine damage on target.\n    - Cannot be modified except by direct means\n  - When any damage is received this spell has a 15% chance to cast Light Strike on target's attacker.  Lasts for 24.0 seconds.\n    - Inflicts 52 - 70 divine damage on target.\n    - Inflicts 129 - 175 divine damage on target every 12 seconds.\n      - If target is undead\n    - If target is undead\n    - Cannot be modified except by direct means"
 item_link: \aITEM -545702413 -1375115191:Ethereal Shoulder Pads\/a
 categories:
 - Assassin Equipment

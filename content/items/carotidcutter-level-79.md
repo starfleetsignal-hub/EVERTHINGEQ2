@@ -19,7 +19,8 @@ stats:
   drating: '86.01'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Gaping Wound**'
+effect_name: Gaping Wound
+effects: "- When Equipped:\n  - On a melee hit this spell has a 9% chance to cast Gaping Wound on target of attack.  Lasts for 12.0 seconds.\n    - Inflicts 25 magic damage on target instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1136430526 1996356593:Carotidcutter\/a
 categories:
 - AE Autoattack Chance (Equipment)

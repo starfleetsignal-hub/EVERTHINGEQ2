@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   multi: '17'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1863385891 -228963986:Rugged Gloves of Drakiz Recognition\/a
 categories:
 - Assassin Equipment

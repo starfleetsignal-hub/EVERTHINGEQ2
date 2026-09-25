@@ -15,7 +15,8 @@ stats:
   potency: '30.8'
   aspeed: '36'
   mitinc: '7.2'
-effects: '**Deathtouch**'
+effect_name: Deathtouch
+effects: "- Applies Deathtouch when Activated.  Lasts for 20.0 seconds.\n  - Instantly kills weaker targets and inflicts damage to stronger targets\n  - Deals reduced damage to named enemies\n  - Increases Crit Bonus and Potency by 100 for 60 seconds after use\n  - This item may not be used in a PvP zone.\n  - The reuse time of Deathtouch is 2 minutes\n- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 70.0."
 item_link: \aITEM 204023081 1985047672:Hand of Thule's Avatar\/a
 categories:
 - Assassin Equipment

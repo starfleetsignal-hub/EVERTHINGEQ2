@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '161'
   dtype: Chain Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 30) from [[Ancient Knowledge: Reverent Coat of Momentum]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1359857240 1350678841:Reverent Coat of Momentum\/a
 categories:

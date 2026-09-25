@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +27,352
-effects: '**Gale Force Winds**'
+effect_name: Gale Force Winds
+effects: "- When Equipped:\n  - When damaged this spell has a 50% chance to cast Gale Force Winds on caster.  Lasts for 30.0 seconds.\n    - Wards caster against 400,000 points of elemental, noxious and arcane damage\n    - Increases Flurry of Caster by 5.0.\n    - Replenishes 50,000 points of absorption every 2 seconds.\n    - Physical damage will not trigger this effect.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities.\n    - This effect can only trigger once every 60.0 seconds."
 item_link: \aITEM 1895398151 154586498:Crystal Clasp of the Wind\/a
 categories:
 - Arcane Resistance (Equipment)

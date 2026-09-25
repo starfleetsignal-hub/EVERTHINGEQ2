@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '14.4'
   vselemental: +33,491
-effects: '**Staggered Combination**'
+effect_name: Staggered Combination
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 12.0.\n  - Increases Crit Bonus of caster by 25.0.\n  - Increases Potency of caster by 52.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1403024633 -352732326:Ojuti's Vile Signet Ring\/a
 categories:
 - Ability Modifier (Equipment)

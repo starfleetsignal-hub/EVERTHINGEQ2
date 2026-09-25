@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   abmod: '+20'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 450.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1305372089 1729456181:shaped ruin imbued sandcloth hex doll\/a
 categories:
 - Ability Modifier (Equipment)

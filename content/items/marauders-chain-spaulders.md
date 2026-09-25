@@ -18,7 +18,8 @@ stats:
   vselemental: '+328'
   vsnoxious: '+533'
   dtype: Chain Armor
-effects: '**Empowered Arts**'
+effect_name: Empowered Arts
+effects: "- When Equipped:\n  - Increases base Combart Art Damage by 5%"
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)

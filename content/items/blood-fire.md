@@ -16,7 +16,8 @@ stats:
   drating: '31.91'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Boil Blood**'
+effect_name: Boil Blood
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Boil Blood on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 32 - 39 heat damage on target.\n    - Inflicts 11 - 13 heat damage on target every 4 seconds.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[The Heart of Fear]]'
 item_link: \aITEM 1480762292 -1017862374:Blood Fire\/a
 categories:

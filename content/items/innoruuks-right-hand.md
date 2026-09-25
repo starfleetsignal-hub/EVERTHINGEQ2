@@ -25,7 +25,8 @@ stats:
   drating: '371.27'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 16.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Spiteful Remains]]'
 item_link: \aITEM 187113010 142036855:Innoruuk's Right Hand\/a
 image: images/Innoruuk's_Right_Hand.png

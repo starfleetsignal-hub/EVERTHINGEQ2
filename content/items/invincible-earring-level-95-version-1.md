@@ -14,7 +14,8 @@ stats:
   potency: '17.7'
   abmod: +1,000
   vselemental: +13,728
-effects: '**Killing Spree**'
+effect_name: Killing Spree
+effects: "- When Equipped:\n  - On a death blow this spell will cast Killing Spree III on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus by 6 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Berserker, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Bruiser, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Guardian, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Monk, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Paladin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Shadowknight, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM 273665348 -983288024:Invincible Earring\/a
 categories:

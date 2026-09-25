@@ -16,7 +16,8 @@ stats:
   abmod: '+500'
   dps: '70'
   dtype: Cloth Armor
-effects: '**Ferocity of the Hydra**<br>**Psionic Conversion**'
+effect_name: Ferocity of the Hydra, Psionic Conversion
+effects: "- When Equipped:\n  - Protects the wearer from psionic damage!\n- Applies Psionic Conversion on target Friend when Activated.\n  - Converts combat statistics of your target into protection from psionic damage!\n  - The casting time of Psionic Conversion is 3.0 seconds and the reuse time of the spell is 30.0 seconds"
 item_link: \aITEM 1856343342 1032797322:Indestructible Hydra-Scale Helm of Rending\/a
 categories:
 - AE Autoattack Chance (Equipment)

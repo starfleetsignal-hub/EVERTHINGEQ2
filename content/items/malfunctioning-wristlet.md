@@ -16,7 +16,8 @@ stats:
   dps: '28.8'
   vselemental: +33,491
   mitinc: '7.9'
-effects: '**Practiced Swings**'
+effect_name: Practiced Swings
+effects: "- When Equipped:\n  - Applies Practiced Swings III instantly and every 1.3 seconds.\n    - Increases Weapon Damage of group members (AE) by 31.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1840964787 1763249131:Malfunctioning Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

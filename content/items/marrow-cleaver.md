@@ -22,7 +22,8 @@ stats:
   drating: '216.5'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 2.6%.\n    - Inflicts 911 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 45 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Missing Tools of the Trade]]'
 item_link: \aITEM -289577740 107296297:Marrow Cleaver\/a
 image: images/Marrow_Cleaver.png

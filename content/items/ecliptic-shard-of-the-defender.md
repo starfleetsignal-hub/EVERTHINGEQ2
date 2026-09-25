@@ -17,7 +17,8 @@ stats:
   potency: 9,629.4
   resolve: '205'
   aspeed: '95.4'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 4,577.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 379498456 -2029501009:Ecliptic Shard of the Defender\/a
 categories:
 - Assassin Equipment

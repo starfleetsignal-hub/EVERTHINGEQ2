@@ -16,7 +16,8 @@ stats:
   aspeed: '28.2'
   vselemental: +13,728
   mitinc: '4'
-effects: '**Spines**'
+effect_name: Spines
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Spines III on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 30,150 piercing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 obtained_from: '*From [[A Packet of Heroic Goods (Berserker, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Bruiser, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Guardian, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Monk, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Paladin, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Shadowknight, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -298614975 -47104193:Invincible Ring\/a
 categories:

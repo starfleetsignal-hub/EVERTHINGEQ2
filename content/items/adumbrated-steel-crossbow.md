@@ -24,7 +24,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Aim
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,259 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Potential reward from [[Empyral Mission Reward Crate]]
 item_link: \aITEM -1662744799 -153772390:Adumbrated Steel Crossbow\/a
 image: images/Adumbrated_Steel_Crossbow.png

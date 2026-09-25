@@ -18,7 +18,8 @@ stats:
   resolve: '545'
   dps: '285.9'
   dtype: Plate Armor
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -60637134 -400935636:Untarnished Majestic Relic Eminent Greaves\/a
 categories:
 - Assassin Equipment

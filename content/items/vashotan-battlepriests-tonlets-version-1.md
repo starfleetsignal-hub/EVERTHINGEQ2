@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   dps: '12.8'
   dtype: Plate Armor
-effects: '**Power Surge**'
+effect_name: Power Surge
+effects: "- Applies Power Surge when Activated.  Lasts for 16.0 seconds.\n  - Increases amount healed by up to 300.\n  - The casting time of Power Surge is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1268919934 -1823661870:Vashotan Battlepriest's Tonlets\/a
 categories:
 - Ability Modifier (Equipment)

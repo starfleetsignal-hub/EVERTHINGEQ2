@@ -15,7 +15,8 @@ stats:
   potency: '0.7'
   abmod: '+16'
   dtype: Cloth Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 103 magic damage on target."
 item_link: \aITEM -1681588620 1789963018:Platinum Dusted Tunic\/a
 categories:
 - Ability Modifier (Equipment)

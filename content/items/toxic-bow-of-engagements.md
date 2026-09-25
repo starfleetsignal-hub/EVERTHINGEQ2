@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Vital Exposure**'
+effect_name: Vital Exposure
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Vital Exposure VI on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 73 - 81 disease damage on target instantly and every 2 seconds.\n    - Inflicts an additional 7 - 8 disease damage on target every tick.\n    - Decreases the target's physical mitigation over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Vital Exposure VI on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 73 - 81 disease damage on target instantly and every 2 seconds.\n    - Inflicts an additional 7 - 8 disease damage on target every tick.\n    - Decreases the target's physical mitigation over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 60) from [[Ancient Knowledge: Toxic Bow of Engagements]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -717690860 200348726:Toxic Bow of Engagements\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Leather Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 8%."
 item_link: \aITEM 1538048420 945774421 0 0 0:Graven Essence Shoulderpads\/a
 categories:
 - Attack Speed (Equipment)

@@ -15,7 +15,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Leather Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 50) from [[Ancient Knowledge: Glorified Bracers of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 502006491 824741280:Glorified Bracers of Solace\/a
 categories:

@@ -12,7 +12,8 @@ stats:
   sta: '+4'
   mit: '78'
   dtype: Plate Armor
-effects: '**Faint Lambent Imbued**'
+effect_name: Faint Lambent Imbued
+effects: "- Applies Faint Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 7 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1843447147 -1443675752:Crude Imbued Blackened Iron Vanguard Cuirass\/a
 categories:
 - Berserker Equipment

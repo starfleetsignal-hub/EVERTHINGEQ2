@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,736
-effects: '**Indiscriminate Counter**'
+effect_name: Indiscriminate Counter
+effects: "- When Equipped:\n  - Applies Indiscriminate Counter II.  Lasts for 10.0 seconds.\n    - Inflicts 193,600 slashing damage on targets in Area of Effect.\n    - Gives caster an extra 4.0% mitigation to their worn armor.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1436578363 -1911025478:Strong Chain of Ire\/a
 image: images/Strong_Chain_of_Ire.png
 categories:

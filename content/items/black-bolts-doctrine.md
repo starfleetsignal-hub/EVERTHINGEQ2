@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   aspeed: '37.4'
   mitinc: '7.6'
-effects: '**Last Stand**'
+effect_name: Last Stand
+effects: "- Applies Last Stand when Activated.  Lasts for 5.0 seconds.\n  - Reduces all damage done to caster by 85%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Last Stand is 3 minutes"
 item_link: \aITEM -261020573 453706470:Black Bolt's Doctrine\/a
 categories:
 - Assassin Equipment

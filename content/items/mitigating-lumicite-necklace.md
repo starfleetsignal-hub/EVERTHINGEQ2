@@ -16,7 +16,8 @@ stats:
   resolve: '1'
   aspeed: '34.5'
   mitinc: '7'
-effects: '**Aspect of Granite**'
+effect_name: Aspect of Granite
+effects: "- When Equipped:\n  - On avoiding an attack this spell has a 8% chance to cast Aspect of Granite II on caster.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Will absorb all damage when the amount is greater than 35% of the target's maximum health. This spell will absorb a total of 1 attack.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 20.0 seconds."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -625464310 1893327519:Mitigating Lumicite Necklace\/a
 categories:

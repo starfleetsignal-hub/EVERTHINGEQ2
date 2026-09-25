@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Shut Down**'
+effect_name: Shut Down
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Shut Down on target of spell.  Lasts for 1.4 seconds.  Triggers about 1.4 times per minute.\n    - Slows target by 32.5%.\n    - Only affects targets level 80 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1017547669 1998556699:Alluring Slippers\/a
 categories:
 - Ability Modifier (Equipment)

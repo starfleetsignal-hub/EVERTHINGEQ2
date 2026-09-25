@@ -23,7 +23,9 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Ethereal Quills**'
+effect_name: Ethereal Quills
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Ethereal Quills on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 380 - 634 magic damage on target.\n    - Inflicts 380 - 634 piercing damage on target.\n    - Inflicts 380 - 634 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile spell cast this spell may cast Ethereal Quills on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 380 - 634 magic damage on target.\n    - Inflicts 380 - 634 piercing damage on target.\n    - Inflicts 380 - 634 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Ethereal Quills on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 380 - 634 magic damage on target.\n    - Inflicts 380 - 634 piercing damage on target.\n    - Inflicts 380\
+  \ - 634 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 653312174 -217057576:Exalted Long Bow of the Gardener\/a
 categories:
 - Assassin Equipment

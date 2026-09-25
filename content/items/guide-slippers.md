@@ -9,7 +9,8 @@ flags: lore no-trade
 stats:
   mit: '6'
   dtype: Cloth Armor
-effects: '**Speedy Boots**'
+effect_name: Speedy Boots
+effects: "- Applies Speedy Boots when Equipped.\n  - Increases speed of caster by 50.0%.\n  - This effect suspends during combat"
 item_link: \aITEM 531890373 -736865065:Guide Slippers\/a
 categories:
 - Assassin Equipment

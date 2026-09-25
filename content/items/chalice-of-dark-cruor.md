@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Holy**'
+effect_name: Holy
+effects: "- Applies Holy III when Activated.  Lasts for 1 minute.\n  - Increases Crit Bonus of caster by 12.0.\n  - Converts damage spells to divine damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Holy III is 1 minute"
 item_link: \aITEM 230481963 271409348:Chalice of Dark Cruor\/a
 categories:
 - AE Autoattack Chance (Equipment)

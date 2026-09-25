@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '110'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 2.0.\n  - Increases Haste of caster by 2.0.\n  - Increases in-combat movement speed of caster by 2.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 20) from [[Ancient Knowledge: Melodic Coat of the Umbral]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -953249435 -38976567:Melodic Coat of the Umbral\/a
 categories:

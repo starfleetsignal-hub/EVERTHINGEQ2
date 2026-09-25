@@ -17,7 +17,8 @@ stats:
   aspeed: '5.6'
   multi: '6.4'
   dtype: Cloth Armor
-effects: '**Potent Prevalence**'
+effect_name: Potent Prevalence
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Potent Prevalence on target of spell.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Threat to caster by 1,000\n    - On a hostile spell cast this spell will cast Potent Potables on caster.\n      - Increases power of caster by 216 - 264.\n      - Grants a total of 4 triggers of the spell.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -276916169 -27255571:Perceptor's Pants of Power\/a
 categories:
 - Assassin Equipment

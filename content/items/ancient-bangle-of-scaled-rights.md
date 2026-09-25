@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Sacred Rites**'
+effect_name: Sacred Rites
+effects: "- When Equipped:\n  - Once per 30 seconds, if one of the caster's allies falls below 5% power and the caster is over 25% power, the caster will transfer 20% of their power to the target. For 30 seconds, the target will gain 35 potency and crit bonus."
 item_link: \aITEM -225650752 -626003462:Ancient Bangle of Scaled Rights\/a
 image: images/Ancient_Bangle_of_Scaled_Rights.png
 categories:

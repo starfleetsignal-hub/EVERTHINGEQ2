@@ -17,7 +17,8 @@ stats:
   potency: '5'
   dps: '12.4'
   dtype: Leather Armor
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -376403580 124407200 0 0 0:Feral Hide Gloves\/a
 categories:

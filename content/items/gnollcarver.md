@@ -16,7 +16,8 @@ stats:
   drating: '7.2'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Gnollbane**'
+effect_name: Gnollbane
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Gnollbane on target of attack.\n    - Inflicts 5 - 9 magic damage on target.\n    - If target is gnoll\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Gnoll Cave (Antonica)]]'
 item_link: \aITEM 1261131354 -246121566:Gnollcarver\/a
 categories:

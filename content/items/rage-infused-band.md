@@ -16,7 +16,8 @@ stats:
   aspeed: '9.7'
   dps: '16.6'
   vsnoxious: +1,302
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1896405267 -187426544:Rage Infused Band\/a
 categories:
 - Arcane Resistance (Equipment)

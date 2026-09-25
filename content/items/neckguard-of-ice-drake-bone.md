@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   abmod: '+217'
   aspeed: '11.2'
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Overflow on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 842.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -486979135 -400691635:Neckguard of Ice Drake Bone\/a
 categories:
 - Ability Modifier (Equipment)

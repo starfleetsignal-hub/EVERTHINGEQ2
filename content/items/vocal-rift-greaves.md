@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Chain Armor
-effects: '**Severe Mistarget**'
+effect_name: Severe Mistarget
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Severe Mistarget on target of attack.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Accuracy of target by 5.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2026749889 -1373177235 0 0 0:Vocal Rift Greaves\/a
 categories:
 - Ability Modifier (Equipment)

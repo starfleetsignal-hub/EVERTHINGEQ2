@@ -11,7 +11,8 @@ stats:
   str: '+1'
   sta: '+1'
   vsarcane: '+22'
-effects: '**Rift Portals**<br>**Empyrean Recovery**'
+effect_name: Rift Portals, Empyrean Recovery
+effects: "- Applies Rift Portals when Activated.\n  - Shifts the caster partially into the void, producing small rifts around them.\n- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Made from [[A Void Cube]]
 item_link: \aITEM 935669575 190604106:Portal Binding of the Voidcaller\/a
 categories:

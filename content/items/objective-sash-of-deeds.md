@@ -16,7 +16,8 @@ stats:
   potency: '11'
   aspeed: '100'
   mitinc: '1.7'
-effects: '**Breach**'
+effect_name: Breach
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 6.5%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1439491268 -44315321 0 0 0:Objective Sash of Deeds\/a
 categories:
 - Assassin Equipment

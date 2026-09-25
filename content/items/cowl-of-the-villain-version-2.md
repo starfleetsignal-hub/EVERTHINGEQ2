@@ -16,7 +16,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Chain Armor
-effects: '**Distraction**'
+effect_name: Distraction
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Distraction on target's attacker.\n    - Decreases Threat to target by 700\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1326903089 -1839814302:Cowl of the Villain\/a
 categories:
 - AE Autoattack Chance (Equipment)

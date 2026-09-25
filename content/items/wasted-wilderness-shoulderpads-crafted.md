@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Leather Armor
-effects: '**Empowered Essence**'
+effect_name: Empowered Essence
+effects: "- When Equipped:\n  - Increases base Spell and Combat Art damage by 5%."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -226653719 -1992591098 0 0 0:Wasted Wilderness Shoulderpads\/a
 categories:

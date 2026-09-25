@@ -16,7 +16,8 @@ stats:
   resolve: '7'
   abmod: '+893'
   dps: '32.1'
-effects: '**Apostate''s Wrath**'
+effect_name: Apostate's Wrath
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 6% chance to cast Apostate's Wrath on the group.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Fervor of group members (AE) by 15.0.\n    - This effect will not stack with itself.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 680486256 -12863071:Apostate's Amulet\/a
 categories:
 - Ability Modifier (Equipment)

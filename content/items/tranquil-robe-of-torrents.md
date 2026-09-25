@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '30'
   dtype: Cloth Armor
-effects: '**Cabalistic Nexus**'
+effect_name: Cabalistic Nexus
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 1.0%.\n  - Increases Potency of caster by 1.0."
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Tranquil Robe of Torrents]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 1103116863 1365430588:Tranquil Robe of Torrents\/a
 categories:

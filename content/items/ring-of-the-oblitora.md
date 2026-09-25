@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Lesser Ancient Invigoration**'
+effect_name: Lesser Ancient Invigoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Lesser Ancient Invigoration on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 750 points of all damage\n    - Replenishes 150 points of absorption every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1891831146 -824001724:Ring of the Oblitora\/a
 categories:
 - Ability Modifier (Equipment)

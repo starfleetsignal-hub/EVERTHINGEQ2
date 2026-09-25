@@ -18,7 +18,8 @@ stats:
   potency: '7.2'
   aspeed: '11.2'
   dtype: Leather Armor
-effects: '**Furious Blows**'
+effect_name: Furious Blows
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Blows on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -154183192 1153572118:Ice Dragonskin Chestwrap\/a
 categories:
 - Attack Speed (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '41.58'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Frigid Winds**'
+effect_name: Frigid Winds
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frigid Winds on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 49 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1866066001 -798434889:Keg's Cleaver\/a
 categories:
 - Berserker Equipment

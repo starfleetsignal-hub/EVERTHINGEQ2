@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom no-value
 stats:
   sta: '+60'
   wis: '+60'
-effects: '**Battlefield Fortitude**'
+effect_name: Battlefield Fortitude
+effects: "- When Equipped:\n  - Increases Mitigation of caster vs physical damage by 326.\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1040660286 -970522915:Discord's Barrier Cloak\/a
 categories:
 - Assassin Equipment

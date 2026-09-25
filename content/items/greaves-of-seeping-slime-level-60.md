@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   multi: '2.3'
   dtype: Plate Armor
-effects: '**Slime Slip**'
+effect_name: Slime Slip
+effects: "- Applies Slime Slip when Activated.\n  - Dispels 80 levels of hostile Root effects on caster\n  - The reuse time of Slime Slip is 5 minutes"
 item_link: \aITEM -474540206 1469201648:Greaves of Seeping Slime\/a
 categories:
 - Berserker Equipment

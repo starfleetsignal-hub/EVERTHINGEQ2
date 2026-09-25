@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   vselemental: '+280'
-effects: '**Ward of Security**<br>**Onslaught**'
+effect_name: Ward of Security, Onslaught
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Ward of Security on caster.  Lasts for 12.0 seconds.  Triggers about 1.0 times per minute.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Hate Gain of caster by 5.0."
 item_link: \aITEM 1490662311 -1542958206:Bracelet of the Chime\/a
 categories:
 - Ability Modifier (Equipment)

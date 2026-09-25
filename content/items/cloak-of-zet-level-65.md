@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Eye of Zet**'
+effect_name: Eye of Zet
+effects: "- When Equipped:\n  - On a hostile spell cast this spell has a 3% chance to cast Eye of Zet on caster.  Lasts for 30.0 seconds.\n    - Increases the speed of casting timers by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -615815980 -772143367:Cloak of Zet\/a
 categories:
 - Ability Modifier (Equipment)

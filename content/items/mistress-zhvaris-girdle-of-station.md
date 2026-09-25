@@ -17,7 +17,8 @@ stats:
   abmod: +29,421
   dps: '23.1'
   flurry: '18.6'
-effects: '**Aspect of Eternity**'
+effect_name: Aspect of Eternity
+effects: "- Applies Aspect of Eternity when Equipped.\n  - Increases Fervor of caster by 10.0."
 obtained_from: 'Collection reward: [[Ancient Nizari Spells]]'
 item_link: \aITEM 1018203131 -352000732:Mistress Zhvari's Girdle of Station\/a
 categories:

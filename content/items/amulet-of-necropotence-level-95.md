@@ -16,7 +16,8 @@ stats:
   strike: '3.5'
   dps: '30.6'
   multi: '81.5'
-effects: '**Necropotence**'
+effect_name: Necropotence
+effects: "- Applies Necropotence when Activated.  Lasts for 15.0 seconds.\n  - Shapechanges caster into an avatar of fear\n  - Inflicts 20.0% of max health in heat damage on caster instantly and every 1.5 seconds.\n    - This effect cannot be critically applied.\n  - Increases power of caster by 10.0% instantly and every 1.5 seconds.\n    - This effect cannot be critically applied.\n  - Increases Crit Bonus of caster by 25.0.\n  - Cannot be modified except by direct means\n  - The reuse time of Necropotence is 7 minutes"
 item_link: \aITEM -1386745166 -845282340:Amulet of Necropotence\/a
 categories:
 - Assassin Equipment

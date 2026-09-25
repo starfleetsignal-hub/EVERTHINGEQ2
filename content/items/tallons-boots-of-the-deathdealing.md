@@ -16,7 +16,8 @@ stats:
   dps: '22.8'
   multi: '29.9'
   dtype: Chain Armor
-effects: '**Touch of the Silver Reaper**'
+effect_name: Touch of the Silver Reaper
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 2.0.\n  - Increases Accuracy of caster by 10.0%.\n  - Increases Crushing, Piercing and Slashing of caster by 8.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1806315885 1401365354 0 0 0:Tallon's Boots of the Deathdealing\/a
 categories:
 - Assassin Equipment

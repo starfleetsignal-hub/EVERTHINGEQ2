@@ -18,7 +18,8 @@ stats:
   drating: '42.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Faintly Gleaming Strike**'
+effect_name: Faintly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 97 - 145 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 875001895 223852000:Crude Imbued Sandalwood Fighting Baton\/a
 categories:
 - Berserker Equipment

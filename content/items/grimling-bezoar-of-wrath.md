@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Detonation**'
+effect_name: Detonation
+effects: "- Applies Detonation IV when Activated.\n  - Inflicts 686,400 heat damage on targets in Area of Effect.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Detonation IV is 30.0 seconds"
 item_link: \aITEM -1108699371 -1311579389:Grimling Bezoar of Wrath\/a
 categories:
 - AE Autoattack Chance (Equipment)

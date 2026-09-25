@@ -20,7 +20,8 @@ stats:
   abmod: +6,404
   aspeed: '131.5'
   dtype: Symbols
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,954 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM -1874326060 1652939449:Uncanny Jeweled Stein of the Destructor\/a
 categories:
 - AE Autoattack Chance (Equipment)

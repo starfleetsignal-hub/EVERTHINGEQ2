@@ -17,7 +17,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 115 - 172 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 292174024 743558219:shaped imbued ebon long sword\/a
 categories:
 - Assassin Equipment

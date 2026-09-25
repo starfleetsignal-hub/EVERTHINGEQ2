@@ -18,7 +18,8 @@ stats:
   drating: '93.1'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Lightning Bolt**'
+effect_name: Lightning Bolt
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lightning Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 166 - 203 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2116197201 -303993290:Ancient Tulwar of Striking\/a
 categories:
 - Berserker Equipment

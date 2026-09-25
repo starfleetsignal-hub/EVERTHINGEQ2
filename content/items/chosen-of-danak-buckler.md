@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.4'
   dtype: Buckler
-effects: '**Absorb Essence**'
+effect_name: Absorb Essence
+effects: "- When Equipped:\n  - When damaged this spell has a 6% chance to cast Absorb Essence on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 45.\n    - Increases power of caster by 26 every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Danak Woodworking Volume II]]
 item_link: \aITEM -214537679 1568353688:Chosen of Danak Buckler\/a
 categories:

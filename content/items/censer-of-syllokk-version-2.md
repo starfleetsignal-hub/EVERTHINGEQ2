@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   dtype: Symbols
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM 198515235 -444240726:Censer of Syllokk\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -17,7 +17,7 @@ stats:
   vselemental: +1,218
   vsarcane: +1,512
   dtype: Tower Shield
-effects: +7 Melee Crit Chance<br>+5 Shield Effectiveness<br>Rush To Battle
+effects: '- When Equipped:<br>On a successful melee attack this spell has a chance to cast Rush To Battle on caster.  Lasts for 15.0 seconds.  This effect will trigger an average of 1.8 times per minute.  If a melee attack is used, only the primary weapon can trigger this effect.<br>Increases the base amount of taunts by 10.0%.<br>Reduces all physical damage done to caster by 5%'
 item_link: \aITEM 449178898 -2061036650:Shield of the Dwarven King\/a
 categories:
 - Arcane Resistance (Equipment)

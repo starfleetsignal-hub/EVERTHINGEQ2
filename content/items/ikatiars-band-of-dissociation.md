@@ -18,7 +18,8 @@ stats:
   abmod: '+393'
   multi: '17.5'
   vselemental: +1,776
-effects: '**Velium Flames**'
+effect_name: Velium Flames
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Velium Flames IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,866 - 5,379 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 1,850.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Velium Flames IV on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,866 - 5,379 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 1,850.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 325636807 1335870187:Ikatiar's Band of Dissociation\/a
 categories:
 - Ability Modifier (Equipment)

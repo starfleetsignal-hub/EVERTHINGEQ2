@@ -18,7 +18,8 @@ stats:
   resolve: '390'
   cbovercap: '+1496.3'
   dtype: Buckler
-effects: '**Butcher of Vacrul**'
+effect_name: Butcher of Vacrul
+effects: "- When Equipped:\n  - Increases physical damage done to target by 15%.\n  - Reduces noxious and arcane damage done to target by 15%.\n  - Decreases Max Health of caster by 15.0%.\n  - Increases Fervor Overcap of caster by 25.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2126587953 1736958226:Buckler of the Persistent Gaze\/a
 categories:
 - Assassin Equipment

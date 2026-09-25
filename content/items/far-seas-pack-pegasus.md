@@ -9,7 +9,7 @@ flags: HEIRLOOM NO-VALUE
 description: Only an 93rd and higher seasoned adventurer or tradeskiller will be able to summon this powerful steed.
 stats:
   charges: Unlimited
-effects: Far Seas Pack Pegasus
+effects: "- Applies Far Seas Pack Pegasus when Activated.\n  - Summons a mount to ride.\n    - Increases your Ground Speed by 75%\n    - Increases your Air Speed by 150%\n  - Increases Trapping, Foresting, Mining, Fishing, Transmuting, and Gathering by 80.0"
 obtained_from: Sold by [[Koros Splinterlimb]] (Faction Merchant) in [[Mara]]
 item_link: \aITEM -649448245 -552950327:Far Seas Pack Pegasus\/a
 image: images/Far_Seas_Pack_Pegasus.jpg

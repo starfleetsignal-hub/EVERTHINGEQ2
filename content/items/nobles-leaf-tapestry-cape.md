@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Enjoy the beauty of spring and summer leaves all year long by wearing his elaborately embroidered cloak. 'Tis also adorned with enough gold and gems to make even the wealthiest noble proud to own it.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM 2089473333 -1377363642:Noble's Leaf Tapestry Cape\/a
 categories:

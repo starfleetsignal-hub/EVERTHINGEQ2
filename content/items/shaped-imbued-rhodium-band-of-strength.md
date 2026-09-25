@@ -12,7 +12,8 @@ stats:
   agi: '+13'
   potency: '0.2'
   dps: '1.1'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 14.3.\n    - Increases DPS of caster by 21.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 516424952 -1689646881:Shaped Imbued Rhodium Band of Strength\/a
 categories:
 - Assassin Equipment

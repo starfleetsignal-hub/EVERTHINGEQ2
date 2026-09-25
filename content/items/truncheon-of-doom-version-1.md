@@ -21,7 +21,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Tepid Deeds**'
+effect_name: Tepid Deeds
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Tepid Deeds on target of attack.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Haste of target by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -522787484 813882052:Truncheon of Doom\/a
 categories:
 - Beastlord Equipment

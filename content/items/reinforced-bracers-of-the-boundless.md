@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Leather Armor
-effects: '**Honed Reprisal**'
+effect_name: Honed Reprisal
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 2.3%.\n  - Increases Riposte Chance of caster by 21.0.\n  - Increases Riposte Damage of caster by 21.0."
 obtained_from: '*Crafted by [[Tailor]] (level 70) from [[Ancient Knowledge: Reinforced Bracers of the Boundless]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 581574518 -1068841049:Reinforced Bracers of the Boundless\/a
 categories:

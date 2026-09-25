@@ -16,7 +16,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 obtained_from: '*Made from [[Elemental Master''s Pantaloon Mold]] *Made from [[Elemental Master''s Pantaloon Pattern]]'
 item_link: \aITEM -1291143490 1024383297 0 0 0:Ethermage's Flamespun Breeches\/a
 categories:

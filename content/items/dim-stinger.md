@@ -18,7 +18,8 @@ stats:
   resolve: '29'
   abmod: +30,647
   dps: '49.8'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.4.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -1854829598 -1391627065:Dim Stinger\/a
 categories:
 - Ability Modifier (Equipment)

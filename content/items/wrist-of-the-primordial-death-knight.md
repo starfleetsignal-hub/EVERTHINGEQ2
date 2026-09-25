@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +26,832
-effects: '**Accursed Power**'
+effect_name: Accursed Power
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Accursed Power on target.  Lasts for 10.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Potency of caster by 60.0, multiplied by increment stacks.\n    - Cannot be modified except by direct means\n  - Can only trigger once every 30 seconds and only triggers on damage greater than 10% of the wearer's maximum health"
 item_link: \aITEM -45821903 973465574:Wrist of the Primordial Death Knight\/a
 categories:
 - AE Autoattack Chance (Equipment)

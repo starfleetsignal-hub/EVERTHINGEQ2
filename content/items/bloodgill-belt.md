@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+101'
   dps: '10.6'
-effects: '**Will of the Warlord**'
+effect_name: Will of the Warlord
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Will of the Warlord on caster.  Lasts for 8.0 seconds.\n    - Wards caster against 500 points of physical damage\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1060172301 -1084589322:Bloodgill Belt\/a
 categories:
 - Ability Modifier (Equipment)

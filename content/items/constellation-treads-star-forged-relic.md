@@ -17,7 +17,8 @@ stats:
   potency: 49,030.8
   resolve: '630'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 23,458.3.\n  - Increases Fervor of caster by 58.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1941782964 533047390:Constellation Treads, Star Forged Relic\/a
 categories:
 - Assassin Equipment

@@ -17,7 +17,8 @@ stats:
   strike: '4.4'
   multi: '65'
   mitinc: '3.1'
-effects: '**Temporal Exception**<br>**Eternal Damnation**'
+effect_name: Temporal Exception, Eternal Damnation
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Temporal Exception III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 9.0.\n    - Increases DPS of caster by 12.0.\n    - Increases Multi Attack of caster by 35.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 287068809 -995768577 0 0 0:Shroud of Accomplished Force\/a
 categories:
 - Berserker Equipment

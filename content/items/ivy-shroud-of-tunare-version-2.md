@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   abmod: '+54'
-effects: '**Healing Pulse**'
+effect_name: Healing Pulse
+effects: "- When Equipped:\n  - Increases healing spells by up to 30."
 obtained_from: '[[Faith (Quest)|Faith]]'
 item_link: \aITEM -1284133992 -774165387:Ivy-shroud of Tunare\/a
 categories:

@@ -6,7 +6,8 @@ icon: images/Item_2712.png
 tier: Fabled
 level: '90'
 flags: lore-equip attunable heirloom no-value
-effects: '**Elemental Retribution**'
+effect_name: Elemental Retribution
+effects: "- Applies Elemental Retribution when Activated.  Lasts for 3.0 seconds.\n  - Temporarily increases the damage of your hostile spells by 10%.\n  - Makes caster immune to Stifle effects\n  - Must have Empowered Fetish equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Elemental Retribution is 3 minutes"
 item_link: \aITEM -1179749140 1481200994:Empowered Fetish\/a
 categories:
 - Census Credits

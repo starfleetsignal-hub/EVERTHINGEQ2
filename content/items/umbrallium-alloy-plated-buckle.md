@@ -17,7 +17,8 @@ stats:
   potency: 6,352.9
   resolve: '155'
   aspeed: '77.2'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 27.9.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 23.3.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1188645288 -74381773:Umbrallium Alloy Plated Buckle\/a
 categories:
 - Assassin Equipment

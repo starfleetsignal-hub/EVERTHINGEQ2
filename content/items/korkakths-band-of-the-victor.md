@@ -17,7 +17,8 @@ stats:
   multi: '40.5'
   flurry: '0.6'
   vselemental: +9,554
-effects: '**Fabled Vigor**'
+effect_name: Fabled Vigor
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - Increases Crushing, Piercing, Slashing and Ranged of caster by 25.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '*Made from [[A fabled platinum key]] *[[Platinum Key of Fabled Rujark]]'
 item_link: \aITEM -1540951364 200142110:Korkakth's Band of the Victor\/a
 categories:

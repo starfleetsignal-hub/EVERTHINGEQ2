@@ -24,7 +24,8 @@ stats:
   drating: '263.38'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 4%.\n    - Inflicts 1,118 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 47 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1238715074 1157551545:Prophetic Dagger of Serilis\/a
 categories:
 - AE Autoattack Chance (Equipment)

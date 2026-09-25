@@ -19,7 +19,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Vitality Consumption**'
+effect_name: Vitality Consumption
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Vitality Consumption VII on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 549 - 606 disease damage on target.\n    - Heals caster for 260 - 288.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Vitality Consumption VII on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 549 - 606 disease damage on target.\n    - Heals caster for 260 - 288.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 70) from [[Ancient Knowledge: Toxic Blade of Brutality]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 882661821 -536570734:Toxic Blade of Brutality\/a
 categories:

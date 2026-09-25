@@ -21,7 +21,8 @@ stats:
   drating: '132'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Ornate Crate of Endless Goodies]]
 item_link: \aITEM 1691156547 1263335606:Almsgiven Hatchet of Draconic Speed\/a
 categories:

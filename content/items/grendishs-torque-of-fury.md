@@ -15,7 +15,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: '**The Fury of Chel''Drak**'
+effect_name: The Fury of Chel'Drak
+effects: "- When Equipped:\n  - Casting Tortoise Shell will apply The Fury of Chel'Drak to the group, increasing their Potency by 50%. The Fury of Chel'Drak dispels on the group if anyone takes damage."
 obtained_from: From [[Elaborate Ethertouched Necklace]]
 item_link: \aITEM 1830940520 797155703:Grendish's Torque of Fury\/a
 categories:

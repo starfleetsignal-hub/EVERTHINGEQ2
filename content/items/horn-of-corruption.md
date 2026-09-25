@@ -19,7 +19,8 @@ stats:
   drating: '56.34'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Corrupted Grasp**<br>**Fear**'
+effect_name: Corrupted Grasp, Fear
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Corrupted Grasp on target of attack.  Lasts for 2.0 seconds.  Triggers about 0.8 times per minute.\n    - Slows target by 20.0%.\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a combat hit this spell may cast Fear III on target of attack.  Lasts for 2.0 seconds.  Triggers about 0.8 times per minute.\n    - Slows target by 32.2%.\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM -978048725 -132360782:Horn of Corruption\/a
 categories:

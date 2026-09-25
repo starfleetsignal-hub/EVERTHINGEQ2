@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   dps: '18.8'
   flurry: '5.1'
-effects: '**Chaos**'
+effect_name: Chaos
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Chaos on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 18,660\n    - Inflicts 2,913 poison damage on target.\n    - Increases Reuse Speed of caster by 5.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 445962141 -141166472:Rune of Chaos\/a
 categories:
 - Ability Modifier (Equipment)

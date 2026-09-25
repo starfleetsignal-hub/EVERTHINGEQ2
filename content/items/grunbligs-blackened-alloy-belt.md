@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   aspeed: '5.5'
   dps: '10.3'
-effects: '**Mutagenic Burst**'
+effect_name: Mutagenic Burst
+effects: "- When Equipped:\n  - Increases Burst effect damage by 33%.\n  - When any damage is received this spell has a 10% chance to cast Mutagenic Burst on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 389 disease damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1247284535 642368009:Grunblig's Blackened Alloy Belt\/a
 categories:
 - Assassin Equipment

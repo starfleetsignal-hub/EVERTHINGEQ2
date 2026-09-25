@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   dps: '23.1'
   flurry: '18.6'
-effects: '**Deception**'
+effect_name: Deception
+effects: "- Applies Deception I when Equipped.\n  - Increases Fervor of caster by 2.0.\n  - Increases chance for beneficial spells to receive a Legendary, Fabled, or Mythical Crit by 125."
 item_link: \aITEM -646190615 829378945:Belt of the Abyssal\/a
 categories:
 - Assassin Equipment

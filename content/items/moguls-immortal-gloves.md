@@ -16,7 +16,8 @@ stats:
   potency: '10'
   dps: '22'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -273176553 375927120:Mogul's Immortal Gloves\/a
 categories:
 - Census Credits

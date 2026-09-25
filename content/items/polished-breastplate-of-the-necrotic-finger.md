@@ -16,7 +16,8 @@ stats:
   aspeed: '21.1'
   multi: '21'
   dtype: Plate Armor
-effects: '**Necromunger''s Greater Fortitude**'
+effect_name: Necromunger's Greater Fortitude
+effects: "- When Equipped:\n  - Increases STA, STR, AGI, WIS and INT of target by 50.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM -2000980036 -1421147793:Polished Breastplate of the Necrotic Finger\/a
 categories:
 - Attack Speed (Equipment)

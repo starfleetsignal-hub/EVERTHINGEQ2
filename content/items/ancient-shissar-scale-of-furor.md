@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Kerafyrm''s Furor**'
+effect_name: Kerafyrm's Furor
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 82.0.\n  - Cannot be modified except by direct means\n- Applies Kerafyrm's Furor II when Activated.  Lasts for 15.0 seconds.\n  - Increases Crit Bonus of group members (AE) by 70.0.\n  - Suspends the passive effect for 15 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Furor II is 1 minute"
 item_link: \aITEM -1678597726 -1732225083:Ancient Shissar Scale of Furor\/a
 categories:
 - Assassin Equipment

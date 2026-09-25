@@ -17,7 +17,8 @@ stats:
   dps: '10.6'
   multi: '6.5'
   dtype: Cloth Armor
-effects: '**Soulsiphon**'
+effect_name: Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 243.\n    - Increases power of caster by 150.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1136356941 1222629895:Pantaloons of Volatile Power\/a
 categories:
 - Census Credits

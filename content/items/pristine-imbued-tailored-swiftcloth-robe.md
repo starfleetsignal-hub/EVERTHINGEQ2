@@ -17,7 +17,7 @@ stats:
   vsarcane: '+412'
   vsnoxious: '+412'
   dtype: Cloth Armor
-effects: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 86 instantly and every 4 seconds"
 obtained_from: Crafted by [[Tailor]] (level 77) from [[Advanced Tailor Volume 77]]
 item_link: \aITEM 713310201 752718417:Pristine Imbued Tailored Swiftcloth Robe\/a
 image: images/Imbued_Tailored_Swiftcloth_Robe.jpg

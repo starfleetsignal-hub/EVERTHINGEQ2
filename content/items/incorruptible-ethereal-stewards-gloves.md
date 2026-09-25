@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   dps: '24'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[Drinal's Steward (Faction Merchant)]] (Faction Merchant) in [[Obol Plains]]
 item_link: \aITEM -1095600848 -800647361 0 0 0:Incorruptible Ethereal Steward's Gloves\/a
 categories:

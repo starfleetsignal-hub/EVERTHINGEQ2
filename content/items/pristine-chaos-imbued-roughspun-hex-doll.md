@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 163.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Outfitter]] (level 14) from [[Advanced Outfitter Volume 14 (Normal)]] *Crafted by [[Outfitter]] (level 14) from [[Advanced Outfitter Volume 14 (No-Trade)]]'
 item_link: \aITEM 1117335674 1603602239 0 0 0:pristine chaos imbued roughspun hex doll\/a
 categories:

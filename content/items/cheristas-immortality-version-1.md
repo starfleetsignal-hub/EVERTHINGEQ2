@@ -19,7 +19,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Cherista''s Domination**'
+effect_name: Cherista's Domination
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Cherista's Domination on target of spell.  Lasts for 4.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases power of target by 146 instantly and every 2 seconds.\n    - Increases power of caster by 145 instantly and every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 188749693 -1282639249:Cherista's Immortality\/a
 categories:
 - Beastlord Equipment

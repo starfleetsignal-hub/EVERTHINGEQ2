@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+6'
   sta: '+5'
-effects: '**Aura of Intelligence**'
+effect_name: Aura of Intelligence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Flash of Intelligence on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases INT of caster by 4.5.\n    - Increases Disruption, Subjugation and Focus of caster by 3.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 26) from [[Jeweler Essentials Volume 26 (Normal)]] *Crafted by [[Jeweler]] (level 26) from [[Jeweler Essentials Volume 26 (no-trade)]]'
 item_link: \aITEM -1604757413 1410512580:Imbued Agate Ring of Intelligence\/a
 categories:

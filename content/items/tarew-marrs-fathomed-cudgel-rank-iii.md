@@ -24,7 +24,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blessing of the Fathom Lord**'
+effect_name: Blessing of the Fathom Lord
+effects: "- When Equipped:\n  - \"Blessing of the Fathom Lord\" protects the wearer from strong deific magics used by Tarew Marr!"
 item_link: \aITEM -470817092 -82516295:Tarew Marr's Fathomed Cudgel [Rank III]\/a
 categories:
 - Ability Modifier (Equipment)

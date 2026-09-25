@@ -17,7 +17,8 @@ stats:
   resolve: '32'
   abmod: +31,268
   vselemental: +73,025
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 5.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2038066415 1214932332:Haunting Wristband\/a
 categories:
 - Ability Modifier (Equipment)

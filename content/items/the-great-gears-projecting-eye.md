@@ -18,7 +18,8 @@ stats:
   resolve: '17'
   aspeed: '59.9'
   dps: '45.6'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.5.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -2008742836 -844964974:The Great Gear's Projecting Eye\/a
 image: images/The_Great_Gear's_Projecting_Eye.png
 categories:

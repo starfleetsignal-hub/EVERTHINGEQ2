@@ -22,7 +22,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Phantastic Power**<br>**Phanatic**<br>**Arcane Rending**'
+effect_name: Phantastic Power, Phanatic, Arcane Rending
+effects: "- When Equipped:\n  - Gains power as you complete the \"Colossal Conundrum\", \"Dabbling in the Darkside\", and \"Triumph: Pall of All of Vex Thal\" achievements.\n- Applies Phanatic when Equipped.\n  - Grants protection from powerful shadow magic and allows the target to bypass certain akhessar protection magic.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,830 magic damage on target instantly and every second.\n    - Inflicts an additional 47 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 obtained_from: 'Crafted by [[Artisan]] (level 120) from [[Recipe: Phantastic Focus]]'
 item_link: \aITEM -309084071 -1572902908:Phantastic Focus\/a
 categories:

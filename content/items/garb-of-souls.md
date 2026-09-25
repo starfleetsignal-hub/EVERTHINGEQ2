@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+38'
   dtype: Cloth Armor
-effects: '**Essence Absorption**'
+effect_name: Essence Absorption
+effects: "- When Equipped:\n  - On a kill this spell has a 10% chance to cast Essence Absorption on caster.\n    - Increases power of caster by 473.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1103026508 -626622189:Garb of Souls\/a
 categories:
 - Ability Modifier (Equipment)

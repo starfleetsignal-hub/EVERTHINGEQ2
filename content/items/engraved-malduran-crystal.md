@@ -17,7 +17,8 @@ stats:
   aspeed: '36.7'
   dps: '14'
   vselemental: +30,687
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 18.8."
 item_link: \aITEM 1403290721 -172472951:Engraved Malduran Crystal\/a
 categories:
 - Ability Modifier (Equipment)

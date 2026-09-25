@@ -18,7 +18,8 @@ stats:
   abmod: '+62'
   dps: '8.1'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 959526495 453870119:Wildhorn's Hide Wraps\/a
 categories:
 - Ability Modifier (Equipment)

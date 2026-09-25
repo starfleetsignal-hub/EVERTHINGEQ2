@@ -18,7 +18,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Lethargy**'
+effect_name: Lethargy
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Lethargy on target of attack.  Lasts for 1 minute 12 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 10.5 - 17.5.\n    - Only affects targets level 60 and below\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1625570150 860553217:Deathly Dirk\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +24,232
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Applies Fortitude Stand IV.  Lasts for 10.0 seconds.\n    - Inflicts 668,800 slashing damage on target.\n    - Gives caster an extra 9.0% mitigation to their worn armor.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 759693402 -768048376:Silvered Bangle of Fortitude\/a
 categories:
 - Arcane Resistance (Equipment)

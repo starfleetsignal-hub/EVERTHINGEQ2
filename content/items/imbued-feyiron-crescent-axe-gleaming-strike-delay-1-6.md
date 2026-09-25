@@ -15,7 +15,8 @@ stats:
   drating: '22.87'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 66 - 123 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1788488596 703898518:Imbued Feyiron Crescent Axe\/a
 categories:
 - Assassin Equipment

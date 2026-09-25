@@ -16,7 +16,8 @@ stats:
   abmod: '+835'
   dps: '28.8'
   vselemental: +33,491
-effects: '**Soulthirst**'
+effect_name: Soulthirst
+effects: "- Applies Soulthirst when Activated.\n  - This spell has a 5% chance to consume 15% of the caster's life when a hostile spell is cast\n  - Increases all damage done to caster by 20%.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Soulthirst is 1.0 second and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1015881993 1833442721:Thirsting Wristlet\/a
 categories:
 - Ability Modifier (Equipment)

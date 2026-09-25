@@ -18,7 +18,8 @@ stats:
   resolve: '210'
   dps: '74.3'
   mitinc: '30.7'
-effects: '**Power Overwhelming**'
+effect_name: Power Overwhelming
+effects: "- Applies Power Overwhelming when Activated.  Lasts for 1 minute.\n  - Increases the damage and healing of spells by 25.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Power Overwhelming is 3.5 seconds and the reuse time of the spell is 8 minutes 20 seconds"
 item_link: \aITEM 1926680687 -1641172227:Lord Vleecan's Tome of Souls\/a
 categories:
 - Assassin Equipment

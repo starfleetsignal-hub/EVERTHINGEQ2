@@ -19,7 +19,7 @@ stats:
   vsarcane: '+350'
   vsnoxious: '+525'
   dtype: Cloth Armor
-effects: Curse of the Living Dead
+effects: "- Applies Curse of the Living Dead when Activated.  Lasts for 1 minute.\n  - Inflicts # - # disease damage on target\n  - Inflicts # - # disease damage on target every 6 seconds"
 item_link: \aITEM -1413449180 -965830309:Cap of the Plague Bringer\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   multi: '5.9'
-effects: '**Lesser Befuddle**'
+effect_name: Lesser Befuddle
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Befuddle on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 400\n    - Cannot be modified except by direct means"
 obtained_from: '[[Making It Vulnerable]]'
 item_link: \aITEM 1484806076 556849836:Sash of the Ry'zilk Renegades\/a
 image: images/Sash_of_the_Ry'zilk_Renegades.png

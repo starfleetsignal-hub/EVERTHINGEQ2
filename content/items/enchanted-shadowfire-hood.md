@@ -17,7 +17,8 @@ stats:
   abmod: '+185'
   aspeed: '8.8'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 1381215152 883463566:Enchanted Shadowfire Hood\/a
 categories:
 - Ability Modifier (Equipment)

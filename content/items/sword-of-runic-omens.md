@@ -20,7 +20,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Striking Blow**'
+effect_name: Striking Blow
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Striking Blow on target of attack.  Triggers about 1.8 times per minute.\n    - Interrupts target\n      - If Target is not Epic\n    - Inflicts 265 - 442 magic damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -266889023 -1452394573:Sword of Runic Omens\/a
 categories:
 - Assassin Equipment

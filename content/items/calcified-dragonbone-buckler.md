@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   dtype: Buckler
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '[[Creating Chaos]]'
 item_link: \aITEM 1038819255 1428296197:Calcified Dragonbone Buckler\/a
 categories:

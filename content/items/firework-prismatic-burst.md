@@ -11,7 +11,7 @@ stats:
   charges: 10/10
   casting: 1.0 seconds
   recast: 2.0 seconds
-effects: Rainbow Burst
+effects: "- Applies Rainbow Burst when Activated. Lasts for 3.0 seconds.\n  - Launches a firework when used."
 obtained_from: '*[[The Queen''s Impending Speech]] *[[The Overlord''s Impending Speech]]'
 item_link: '\aITEM -224105859 -389376772:Firework: Prismatic Burst\/a'
 categories:

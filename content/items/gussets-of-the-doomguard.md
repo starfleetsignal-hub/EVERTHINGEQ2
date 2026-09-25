@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Plate Armor
-effects: '**Strike of Force**'
+effect_name: Strike of Force
+effects: "- When Equipped:\n  - Increases damage done by combat arts by up to 45."
 item_link: \aITEM -1706903158 -977835036:Gussets of the Doomguard\/a
 categories:
 - Ability Modifier (Equipment)

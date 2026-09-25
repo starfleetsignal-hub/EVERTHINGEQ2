@@ -17,7 +17,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Plate Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -781072232 -203332414:Qeynosian Knight's Breastplate\/a
 categories:
 - Casting Speed (Equipment)

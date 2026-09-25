@@ -16,7 +16,8 @@ stats:
   drating: '8.11'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Rot Burst Glyph**'
+effect_name: Rot Burst Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 12 - 15 disease damage on target.\n    - Inflicts 11 - 14 disease damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 740196242 -334383455:Braided Orc Whip\/a
 categories:
 - Assassin Equipment

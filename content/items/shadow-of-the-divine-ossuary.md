@@ -17,7 +17,8 @@ stats:
   potency: 52,704.7
   resolve: '660'
   abmod: +5099,040
-effects: '**Axial Extremity**'
+effect_name: Axial Extremity
+effects: "- When Equipped:\n  - The effects of Axial Extremity will improve as you complete stages of the achievement Osseus Fang: Axial Extremity.\n  - Increases Potency of caster by 580.7.\n  - Increases Fervor of caster by 5.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 612108816 -946538764:Shadow of the Divine Ossuary\/a
 categories:
 - Ability Modifier (Equipment)

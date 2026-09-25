@@ -16,7 +16,8 @@ stats:
   dps: '11'
   multi: '6.8'
   vselemental: '+360'
-effects: '**Insomniatic Rage**'
+effect_name: Insomniatic Rage
+effects: "- When Equipped:\n  - Increases Hate Gain of caster by 10.0.\n  - On any combat or spell hit this spell may cast Insomniatic Rage on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 150.0.\n    - Increases DPS of caster by 25.0.\n    - Increases Multi Attack of caster by 25.0.\n    - This has a recurring health cost of 500 per second. If the wearer does not have enough health to fuel the rage, the effect will expire.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1092157314 -1115312724:Jewel of Animosity\/a
 categories:
 - Arcane Resistance (Equipment)

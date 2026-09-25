@@ -17,7 +17,8 @@ stats:
   potency: 46,364
   resolve: '555'
   dtype: Plate Armor
-effects: '**Chetari''s Scurry**'
+effect_name: Chetari's Scurry
+effects: "- When Equipped:\n  - Grants an additional 30 in-combat runspeed.\n  - Increases Potency of caster by 5,005.6.\n  - Must be in a Scars of Destruction raid zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 922701493 -1345299230:Necropolis Sabatons of the Chetari Clan\/a
 categories:
 - Berserker Equipment

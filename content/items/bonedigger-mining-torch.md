@@ -16,7 +16,8 @@ stats:
   abmod: '+32'
   vsarcane: '+231'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[The Curious Badge]]'
 item_link: \aITEM 2045716460 1316493625:Bonedigger Mining Torch\/a
 image: images/Bonedigger_Mining_Torch.jpg

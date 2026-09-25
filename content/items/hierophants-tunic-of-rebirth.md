@@ -16,7 +16,8 @@ stats:
   potency: '5.8'
   abmod: '+173'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 1 percent."
 obtained_from: '[[Bountiful Berries]]'
 item_link: \aITEM 504967135 203712374:Hierophant's Tunic of Rebirth\/a
 categories:

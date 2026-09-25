@@ -18,7 +18,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 151 - 227 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -132537337 -607867292:shaped imbued cobalt karabela\/a
 categories:
 - Ability Modifier (Equipment)

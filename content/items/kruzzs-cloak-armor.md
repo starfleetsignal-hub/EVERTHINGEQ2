@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Illusion: Troll**'
+effect_name: 'Featherfall, Illusion: Troll'
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Illusion: Troll when Activated.  Lasts for 6 hours.\n  - Shapechanges caster into a troll\n  - The casting time of Illusion: Troll is 2.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: From [[Kruzz's Cloak (crate)|Kruzz's Cloak]]
 item_link: \aITEM 460832462 -887321997:Kruzz's Cloak\/a
 categories:

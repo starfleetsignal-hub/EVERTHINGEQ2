@@ -17,7 +17,8 @@ stats:
   strike: '7.3'
   abmod: '+101'
   dtype: Cloth Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM -446254142 2145266445:Lava Channeling Sleeves\/a
 categories:
 - Ability Modifier (Equipment)

@@ -17,7 +17,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   dtype: Leather Armor
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM 1237690282 -1129607190:Fear-shrouded Wristbands\/a
 categories:
 - AE Autoattack Chance (Equipment)

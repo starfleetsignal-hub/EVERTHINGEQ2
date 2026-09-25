@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.2'
   dps: '13.4'
-effects: '**Benevolent Alacrity**<br>**Saving Grace**'
+effect_name: Benevolent Alacrity, Saving Grace
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 5 percent.\n- When Equipped:\n  - On a healing spell cast this spell may cast Saving Grace on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 1,800.\n      - If under 33% Health\n    - Heals group members (AE) for 840.\n      - If over 33% Health\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1909247058 -2122517544 0 0 0:Charm of Rodcet Nife\/a
 image: images/Charm_of_Rodcet_Nife.png
 categories:

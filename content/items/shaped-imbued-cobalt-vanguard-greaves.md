@@ -16,7 +16,8 @@ stats:
   potency: '1'
   dps: '4.2'
   dtype: Plate Armor
-effects: '**Dim Sanguine Imbued**'
+effect_name: Dim Sanguine Imbued
+effects: "- Applies Dim Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Sanguine Feedback on target's attacker.\n    - Inflicts 84 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2068717476 758179340:shaped imbued cobalt vanguard greaves\/a
 categories:
 - Berserker Equipment

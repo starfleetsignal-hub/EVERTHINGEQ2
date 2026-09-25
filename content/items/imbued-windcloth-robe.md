@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   dtype: Cloth Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 50 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 63) from [[Tailor Essentials Volume 63 (Normal)]] *Crafted by [[Tailor]] (level 63) from [[Tailor Essentials Volume 63 (no-trade)]]'
 item_link: \aITEM 1935959703 -1351863299:Imbued Windcloth Robe\/a
 categories:

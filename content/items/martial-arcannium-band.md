@@ -17,7 +17,8 @@ stats:
   dps: '26.4'
   multi: '19'
   vselemental: +29,243
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 15 for every enemy who is engaged with the wearer, up to 108 maximum"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -814834666 -1529407226:Martial Arcannium Band\/a
 categories:

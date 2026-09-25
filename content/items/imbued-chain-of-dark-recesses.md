@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   aspeed: '31.2'
-effects: '**Imbue Energy**'
+effect_name: Imbue Energy
+effects: "- When Equipped:\n  - Increases the wearer's Ability Modifier by 3,500 and Ability Casting Speed by 18% if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM -1718903067 603828848:Imbued Chain of Dark Recesses\/a
 categories:
 - Assassin Equipment

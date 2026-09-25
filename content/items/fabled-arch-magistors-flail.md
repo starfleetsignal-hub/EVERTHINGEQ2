@@ -24,7 +24,8 @@ stats:
   drating: '483.33'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Attunement to Fire**<br>**Equalize**'
+effect_name: Attunement to Fire, Equalize
+effects: "- Applies Attunement to Fire when Activated.\n  - Grants protection from powerful celestial energy and allows the target to bypass certain planar protection magic.\n  - The reuse time of Attunement to Fire is 10.0 seconds\n- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,855 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 item_link: \aITEM -1665711999 1496736508:Fabled Arch-Magistor's Flail\/a
 categories:
 - Ability Modifier (Equipment)

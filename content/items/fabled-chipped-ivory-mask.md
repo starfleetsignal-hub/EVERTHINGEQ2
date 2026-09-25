@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   mitinc: '6'
-effects: '**Prayer to Tunare**'
+effect_name: Prayer to Tunare
+effects: "- Applies Prayer to Tunare II when Activated.\n  - Heals the caster for 100,000 health\n  - Suspends the passive effect for 60 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Prayer to Tunare II is 1 minute\n- When Equipped:\n  - Heals caster for 6,700 health every 3 seconds\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1389707898 1505627886:Fabled Chipped Ivory Mask\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -17,7 +17,8 @@ stats:
   aspeed: '5'
   dps: '5'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -611552144 -823190458:Enraged Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

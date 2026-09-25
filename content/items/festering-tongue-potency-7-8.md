@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   abmod: '+203'
-effects: '**Molten Carnage**<br>**Pestilential Rain**'
+effect_name: Molten Carnage, Pestilential Rain
+effects: "- When Equipped:\n  - Applies Molten Carnage V to qualifying pets.\n    - Increases Potency of caster by 5.0.\n    - Increases Casting Speed of caster by 10.0%.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -616080980 1017293380:Festering Tongue\/a
 categories:
 - Ability Modifier (Equipment)

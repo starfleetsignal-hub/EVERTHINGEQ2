@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Chain Armor
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 31.5.\n  - This effect suspends during combat"
 item_link: \aITEM -788909511 243891441:Indestructible Brigandine Helm\/a
 categories:
 - Assassin Equipment

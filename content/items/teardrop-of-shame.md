@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   multi: '10'
-effects: '**Pinpoint Strikes**'
+effect_name: Pinpoint Strikes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pinpoint Strikes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Chance of caster by 7.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -834844748 -826137805:Teardrop of Shame\/a
 categories:
 - Assassin Equipment

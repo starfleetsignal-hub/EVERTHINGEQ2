@@ -16,7 +16,8 @@ stats:
   aspeed: '8.8'
   dps: '15.2'
   dtype: Symbols
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 item_link: \aITEM 1243572593 -1789328312:Symbol of Harnessed Light\/a
 categories:
 - Arcane Recovery (Equipment)

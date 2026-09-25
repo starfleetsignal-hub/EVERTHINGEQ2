@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   abmod: +1,250
-effects: '**Undead Destruction**'
+effect_name: Undead Destruction
+effects: "- Applies Undead Destruction III when Activated.  Lasts for 24.0 seconds.\n  - Inflicts 42,900 disease damage on targets in Area of Effect instantly and every second.\n  - This effect can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Undead Destruction III is 30.0 seconds"
 item_link: \aITEM 181633293 494512678:Tome of Vehement Destruction\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,648\n      - Must be flanking or behind\n    - Increases Threat to target by 2,313\n      - Must be in front of\n    - Inflicts 91 - 168 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 41) from [[Tailor Essentials Volume 41 (Normal)]] *Crafted by [[Tailor]] (level 41) from [[Tailor Essentials Volume 41 (no-trade)]]'
 item_link: \aITEM -856837691 -565528576:Imbued Strengthened Leather Bandolier\/a
 categories:

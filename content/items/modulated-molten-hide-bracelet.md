@@ -15,7 +15,8 @@ stats:
   potency: '12.8'
   abmod: '+568'
   vselemental: +2,079
-effects: '**Silver Rampart**'
+effect_name: Silver Rampart
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Silver Rampart I on target of spell.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,500 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 31023768 -744097066:Modulated Molten Hide Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

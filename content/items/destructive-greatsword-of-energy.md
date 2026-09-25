@@ -19,7 +19,8 @@ stats:
   drating: '123.42'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Ruinous Slash**'
+effect_name: Ruinous Slash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ruinous Slash VIII on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,058 - 1,169 heat damage on targets in Area of Effect.\n    - Inflicts 353 - 390 heat damage on targets in Area of Effect every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 80) from [[Ancient Knowledge: Destructive Greatsword of Energy]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 1992660754 165199314:Destructive Greatsword of Energy\/a
 categories:

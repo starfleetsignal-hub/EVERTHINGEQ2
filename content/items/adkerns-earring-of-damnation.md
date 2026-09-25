@@ -18,7 +18,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Heartsworn Contract**'
+effect_name: Heartsworn Contract
+effects: "- When Equipped:\n  - Increases Potency of caster by 1,283.5.\n  - Increases Fervor of caster by 29.0.\n  - Increases Fervor Overcap of caster by 29.0.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply and the effect does not stack with other \"Heartsworn Contract\" effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -997299600 2002760147:Adkern's Earring of Damnation\/a
 categories:
 - Arcane Resistance (Equipment)

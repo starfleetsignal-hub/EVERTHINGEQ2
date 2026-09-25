@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.3'
   vsarcane: '+390'
-effects: '**Icy Feedback**'
+effect_name: Icy Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Icy Feedback on target's attacker.\n    - Inflicts 35 cold damage on target\n    - Cannot be modified except by direct means"
 item_link: \aITEM -475068806 -43730489:Hunter's Signet\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '1.2'
   potency: '5.6'
   aspeed: '7.3'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 obtained_from: Sold by [[Al'Diun Stirhinis]] (Faction Merchant) in [[Paineel]] with 40,000 [[Seekers of the Dark Truth]] faction.
 item_link: \aITEM -1248817584 -341215169:Seekers Sash of Mending\/a
 categories:

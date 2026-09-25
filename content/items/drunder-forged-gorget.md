@@ -16,7 +16,8 @@ stats:
   potency: '8.2'
   strike: '13'
   multi: '13'
-effects: '**Soul Barrier**'
+effect_name: Soul Barrier
+effects: "- When Equipped:\n  - On a block this spell has a 10% chance to cast Soul Barrier on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 1,000 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1669552532 1346815061:Drunder Forged Gorget\/a
 categories:
 - Berserker Equipment

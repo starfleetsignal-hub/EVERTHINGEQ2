@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Growing Criticals**'
+effect_name: Growing Criticals
+effects: "- Applies Growing Criticals IV when Activated.  Lasts for 40.0 seconds.\n  - Increases Crit Bonus of caster by 135.0.\n  - Increases Crit Bonus of caster by an additional 3.1% every 2 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Growing Criticals IV is 2 minutes"
 item_link: \aITEM -938162436 -647046922:Reliquary of Primal Growth\/a
 categories:
 - Assassin Equipment

@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '90'
   dtype: Leather Armor
-effects: '**Stonebound Resilience**'
+effect_name: Stonebound Resilience
+effects: "- When Equipped:\n  - 1% of all damage received by the caster is prevented."
 obtained_from: '*Crafted by [[Tailor]] (level 20) from [[Ancient Knowledge: Reinforced Gi of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -58844221 -1706573574:Reinforced Gi of Authority\/a
 categories:

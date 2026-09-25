@@ -12,7 +12,8 @@ stats:
   sta: '+14'
   mit: '244'
   dtype: Plate Armor
-effects: '**Penetrating Stare**'
+effect_name: Penetrating Stare
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Intimidated on target's attacker.  Lasts for 10.0 seconds.\n    - Dazes target\n    - Epic targets gain an immunity to Daze effects of 30.0 seconds and duration is reduced to 3.3 seconds.\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1886410900 418380608:Jailor's Helm of Intimidation\/a
 categories:
 - Berserker Equipment

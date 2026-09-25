@@ -18,7 +18,8 @@ stats:
   multi: '20.7'
   cbovercap: '+492.9'
   dtype: Buckler
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,300 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 10) from [[Shadow Prospecting Woodworker (Tier 12)]]
 item_link: \aITEM 1119685612 -2089076577:Shadowguard's Buckler\/a
 categories:

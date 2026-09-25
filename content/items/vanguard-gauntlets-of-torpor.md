@@ -14,7 +14,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   dtype: Plate Armor
-effects: '**Ice Blast**'
+effect_name: Ice Blast
+effects: "- When Equipped:\n  - When any damage is received this spell has a 2.5% chance to cast Ice Blast on target's attacker.  Lasts for 36.0 seconds.\n    - Inflicts 117 - 194 cold damage on target.\n    - Cannot be modified except by direct means\n  - When any damage is received this spell has a 2.5% chance to cast Lethargy on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases Haste of target by 10.5 - 17.5.\n    - Only affects targets level 60 and below\n    - Cannot be modified except by direct means"
 item_link: \aITEM 127505248 1249812279:Vanguard Gauntlets of Torpor\/a
 categories:
 - Ability Modifier (Equipment)

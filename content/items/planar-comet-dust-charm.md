@@ -19,7 +19,8 @@ stats:
   abmod: +28,600
   aspeed: '63.8'
   dps: '48.6'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 28.8.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 24.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: 'Collection reward: [[Planar Comet Dust (Collection)]]'
 item_link: \aITEM 1003268750 -484653651:Planar Comet Dust\/a
 categories:

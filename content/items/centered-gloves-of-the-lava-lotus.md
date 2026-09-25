@@ -17,7 +17,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: '*Made from [[Elemental Gladiator''s Glove Mold]] *Made from [[Elemental Gladiator''s Glove Pattern]]'
 item_link: \aITEM 691044837 1532047005 0 0 0:Centered Gloves of the Lava Lotus\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   aspeed: '9.3'
-effects: '**Solid Reflexes**'
+effect_name: Solid Reflexes
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Solid Reflexes on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Reuse Speed of caster by 7.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -730735639 -519568680:Cloak of Marus Xand\/a
 categories:
 - Ability Modifier (Equipment)

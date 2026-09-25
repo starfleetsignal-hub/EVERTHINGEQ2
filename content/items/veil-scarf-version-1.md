@@ -17,7 +17,8 @@ stats:
   abmod: '+62'
   aspeed: '4'
   dtype: Cloth Armor
-effects: '**Veiled Subtlety**'
+effect_name: Veiled Subtlety
+effects: "- When Equipped:\n  - On a damage spell hit this spell has a 8% chance to cast Veiled Subtlety on target of spell.\n    - Decreases Threat to target by 3,096\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1561569965 -1669812574:Veil Scarf\/a
 image: images/Veil_Scarf.png
 categories:

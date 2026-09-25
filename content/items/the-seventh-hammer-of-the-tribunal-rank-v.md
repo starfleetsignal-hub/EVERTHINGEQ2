@@ -24,7 +24,8 @@ stats:
   drating: '5149.2'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Blessing of the Seventh Hammer**'
+effect_name: Blessing of the Seventh Hammer
+effects: "- When Equipped:\n  - \"Blessing of the Seventh Hammer\" protects the wearer from strong deific magics used by the Tribunal!"
 obtained_from: '*Made from [[Ethereal Writings: The Seventh Hammer of the Tribunal]] *[[Ethereal: The Seventh Hammer of the Tribunal]]'
 item_link: \aITEM -1424536905 1613016838:The Seventh Hammer of the Tribunal [Rank V]\/a
 categories:

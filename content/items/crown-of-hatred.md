@@ -18,7 +18,8 @@ stats:
   resolve: '75'
   cbovercap: '+32.5'
   dtype: Plate Armor
-effects: '**Enmity**'
+effect_name: Enmity
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 5.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1136429754 818084469:Crown of Hatred\/a
 categories:
 - Ability Doublecast (Equipment)

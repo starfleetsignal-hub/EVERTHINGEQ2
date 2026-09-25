@@ -25,7 +25,8 @@ stats:
   drating: '519.79'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.7%.\n    - Inflicts 5,897 heat damage on target.\n    - Inflicts 5,897 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Search for Thistle]]'
 item_link: \aITEM -656547337 -231197633:Knight of the Echelon Guisarme\/a
 categories:

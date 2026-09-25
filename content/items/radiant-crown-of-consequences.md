@@ -9,7 +9,8 @@ slot: Head
 flags: no-trade no-value
 stats:
   dtype: Cloth Armor
-effects: '**Aura of Radiance**'
+effect_name: Aura of Radiance
+effects: "- Applies Aura of Radiance when Activated.\n  - Coats the wearer in an Aura of Radiance.\n  - The casting time of Aura of Radiance is 1.0 second and the reuse time of the spell is 10.0 seconds"
 item_link: \aITEM 778466845 -533897787:Radiant Crown of Consequences\/a
 categories:
 - Assassin Equipment

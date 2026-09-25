@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Firanvious Bite**'
+effect_name: Firanvious Bite
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 142 - 174 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1924527163 -1655729701:Bow of Firanvious' Fury\/a
 categories:
 - Assassin Equipment

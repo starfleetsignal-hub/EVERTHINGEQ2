@@ -20,7 +20,8 @@ stats:
   drating: '235.61'
   dtype: Main Hand Crushing
   wtype: Dagger
-effects: '**Ethereal Divinity**'
+effect_name: Ethereal Divinity
+effects: "- When Equipped:\n  - On a beneficial spell cast, Ethereal Divinity has a chance to reset the caster's reuse of most heal abilities."
 item_link: \aITEM 1515323299 448930675:Vashti, the Ancient\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   multi: '7'
   mitinc: '1.6'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM -2077496603 -1489941542:Subjugator's Eternal Hand Wraps\/a
 categories:
 - Block Chance (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +15,652
-effects: '**Grasp of Souls**'
+effect_name: Grasp of Souls
+effects: "- When Equipped:\n  - Modifies the wearer's Crit Bonus and Potency based on the number of increments of Grasp of Souls. 0: -8 Crit Bonus/Potency. 1: -5 Crit Bonus/Potency. 2: -3 Crit Bonus/Potency. 3: 0 Crit Bonus/Potency. 4: 16 Crit Bonus/Potency. 5: 26 Crit Bonus/Potency\n  - On a healing spell cast this spell may cast Grasp of Souls on caster.  Lasts for 2 minutes.  Triggers about 1.0 times per minute.\n    - Increments up to 5 times. Loses an increment every 30 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1665603333 297543031:Dauntless Ring of Soul Grasping\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless III when Activated.  Lasts for 22.0 seconds.\n  - Lasts for a maximum of five spells\n  - Increases the potency of heals and wards by 70%.\n  - Prevents caster from being Interrupted due to movement\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless III is 1 minute"
 item_link: \aITEM 925560164 777334372:Depraved Golden Locust\/a
 categories:
 - Assassin Equipment

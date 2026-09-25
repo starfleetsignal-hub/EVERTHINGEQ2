@@ -17,7 +17,8 @@ stats:
   dps: '12.8'
   mitinc: '5'
   dtype: Plate Armor
-effects: '**Empowered Heal**'
+effect_name: Empowered Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Empowered Heal on caster.  Triggers about 4.0 times per minute.\n    - Heals group members (AE) for 610.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 662743373 524605706:Hood of the Rising Sun\/a
 categories:
 - Berserker Equipment

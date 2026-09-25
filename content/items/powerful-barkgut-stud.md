@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '14.4'
   vselemental: +33,491
-effects: '**Power of Malice**'
+effect_name: Power of Malice
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 72. If the wearer is the top of an enemy's hatelist, the value is increased to 96.\n  - Increases the wearer's health by 20,000. If the wearer is the top of an enemy's hatelist, the value is increased to 42,000."
 item_link: \aITEM 232868476 1596111130:Powerful Barkgut Stud\/a
 categories:
 - Ability Modifier (Equipment)

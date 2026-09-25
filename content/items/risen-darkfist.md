@@ -19,7 +19,8 @@ stats:
   drating: '42.79'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Siphon Life**'
+effect_name: Siphon Life
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Siphon Life on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 128 - 192 magic damage on target.\n    - Decreases power of target by 72 - 88.\n    - Heals caster for 143 - 175.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1374197399 2095063056:Risen Darkfist\/a
 categories:
 - Ability Modifier (Equipment)

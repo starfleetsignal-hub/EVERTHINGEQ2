@@ -25,7 +25,8 @@ stats:
   drating: '394.5'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.9%.\n    - Inflicts 1,259 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 115) from [[Weaponsmith's Primer Volume 15]]
 item_link: \aITEM -209127529 -46590960:Veilwalker's Fist of Endurance\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   abmod: +1,559
   aspeed: '17.6'
   vselemental: +28,613
-effects: '**Allied Energy**'
+effect_name: Allied Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 item_link: \aITEM 1464268364 390699913:Ring of Aberrant Magic\/a
 categories:
 - Ability Modifier (Equipment)

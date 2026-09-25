@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   aspeed: '9.3'
   vselemental: '+512'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM 110326475 1841566749:Band of the Aloof\/a
 categories:
 - Arcane Resistance (Equipment)

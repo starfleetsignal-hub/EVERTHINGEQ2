@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +15,750
-effects: '**Divine Spikes**'
+effect_name: Divine Spikes
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Divine Spikes on target's attacker.  Lasts for 6.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 24,840 cold damage on target.\n    - Decreases Potency of target by 8.0.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 obtained_from: Crafted by [[Jeweler]] (level 98) from [[Jeweler Essentials Volume 98]]
 item_link: \aITEM -97143697 1308300055:Tranquil Tourmaline Ring\/a
 categories:

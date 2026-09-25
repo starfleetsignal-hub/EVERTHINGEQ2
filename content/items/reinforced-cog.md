@@ -15,7 +15,8 @@ stats:
   resolve: '5'
   aspeed: '37.4'
   vselemental: +32,207
-effects: '**Fortitude Stand**'
+effect_name: Fortitude Stand
+effects: "- When Equipped:\n  - Gives caster an extra 10.0% mitigation to their worn armor.\n  - Increases Block Chance of caster by 10.0%."
 item_link: \aITEM 222644383 -1871011483:Reinforced Cog\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   aspeed: '28.2'
   dps: '20.3'
   vselemental: +5,273
-effects: '**Blessing of the Prime Healer**'
+effect_name: Blessing of the Prime Healer
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Blessing of the Prime Healer III on caster.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 1.0% of caster's max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 seconds."
 obtained_from: '*From [[A Packet of Heroic Goods (Channeler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Defiler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Fury, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Inquisitor, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Mystic, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Templar, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warden, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM 1387586463 -1155376829:Valorous Ring\/a
 categories:

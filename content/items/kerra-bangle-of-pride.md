@@ -13,7 +13,8 @@ stats:
   crit: '3.2'
   critbonus: '1.2'
   potency: '5.6'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[Purrak]] (Faction Merchant) in [[Kerra Isle]]
 item_link: \aITEM 44607120 1663598437:Kerra Bangle of Pride\/a
 categories:

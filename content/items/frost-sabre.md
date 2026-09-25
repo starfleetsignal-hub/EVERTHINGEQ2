@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Mindlash**'
+effect_name: Mindlash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mindlash on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Applies Mindlash Bite on termination.\n      - Inflicts 104 - 173 mental damage on target.\n    - Inflicts 69 - 114 mental damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1214091080 1897682306:Frost Sabre\/a
 categories:
 - Assassin Equipment

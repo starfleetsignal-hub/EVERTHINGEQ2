@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   dtype: Chain Armor
-effects: '**Hunter''s Desire**'
+effect_name: Hunter's Desire
+effects: "- Applies Hunter's Desire when Activated.  Lasts for 54.0 seconds.\n  - Summons a limited pet to aid the caster\n  - Must have Truesilver Tunic equipped.\n  - The casting time of Hunter's Desire is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM 368976486 -1155129503:Truesilver Tunic\/a
 categories:
 - AE Autoattack Chance (Equipment)

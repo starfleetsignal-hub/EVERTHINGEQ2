@@ -15,7 +15,8 @@ stats:
   potency: '7.9'
   dps: '79.9'
   flurry: '0.5'
-effects: '**Tempered Soul**'
+effect_name: Tempered Soul
+effects: "- When Equipped:\n  - Increases STA and STR of caster by 25.0.\n  - Gives caster an extra 2.0% mitigation to their worn armor.\n  - Increases Strikethrough of caster by 2.0%."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of the Mountain]] *Made from [[Azure Reactant]]'
 item_link: \aITEM -233879110 321400759:Azure Charm of the Mountain\/a
 categories:

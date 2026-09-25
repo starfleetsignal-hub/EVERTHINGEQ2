@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +26,832
-effects: '**Practiced Aim**'
+effect_name: Practiced Aim
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Practiced Aim III on the group.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases the group's Crit Bonus by 0.9 times the number of times this effect has triggered. The counter resets when the wearer leaves combat. Cannot surpass 54 Crit Bonus.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1517100678 417731068:Ssraeshzian Chain of Accuracy\/a
 categories:
 - Arcane Resistance (Equipment)

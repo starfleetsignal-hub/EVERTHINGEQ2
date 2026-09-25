@@ -15,7 +15,8 @@ stats:
   critbonus: '22.2'
   potency: '32.5'
   resolve: '7'
-effects: '**Divine Mark**<br>**All for One**'
+effect_name: Divine Mark, All for One
+effects: "- When Equipped:\n  - Mark of Nobility will now heal over time and increase the target's ability modifier.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 697759650 -1415407558:Prelate's Raiments\/a
 categories:
 - Ability Doublecast (Equipment)

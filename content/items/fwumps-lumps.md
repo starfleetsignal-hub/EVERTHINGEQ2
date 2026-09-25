@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +19,032
-effects: '**Shared Aim**'
+effect_name: Shared Aim
+effects: "- When Equipped:\n  - Increases the group's crit bonus by 10%\n  - Cannot be modified except by direct means"
 item_link: \aITEM -837742075 664766343:Fwump's Lumps\/a
 image: images/Fwump's_Lumps.png
 categories:

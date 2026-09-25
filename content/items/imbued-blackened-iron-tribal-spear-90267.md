@@ -17,7 +17,7 @@ stats:
   drating: '12.5'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack. This effect will trigger an average of 1.6 times per minutes.\n    - Inflicts 54-100 magic damage on target\n    - Decreases Threat to target by 153\n      - Must be flanking or behind\n    - Increases Threat to target by 153\n      - Must be in front of"
 obtained_from: Crafted by [[Outfitter]] (level 14) from [[Advanced Outfitter Volume 14]]
 categories:
 - Assassin Equipment

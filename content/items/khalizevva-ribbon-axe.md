@@ -24,7 +24,8 @@ stats:
   drating: '212.93'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.7%.\n    - Inflicts 1,199 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sure as Shell]]'
 item_link: \aITEM -720077904 -2085657130:Khalizevva Ribbon Axe\/a
 image: images/Khalizevva_Ribbon_Axe.png

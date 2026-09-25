@@ -13,7 +13,8 @@ stats:
   crit: '2.2'
   critbonus: '0.8'
   potency: '3.6'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 26.0."
 obtained_from: '*Crafted by [[Tailor]] (level 73) from [[Advanced Tailor Volume 73 (Heirloom)]] *Crafted by [[Tailor]] (level 73) from [[Advanced Tailor Volume 73 (Normal)]]'
 item_link: \aITEM -1720314598 -944728802:Clandestine Swiftcloth Cloak\/a
 categories:

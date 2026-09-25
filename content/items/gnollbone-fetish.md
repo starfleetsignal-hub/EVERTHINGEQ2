@@ -11,7 +11,8 @@ stats:
   sta: '+4'
   agi: '+4'
   dtype: Symbols
-effects: '**Arcanic Gnollbane**'
+effect_name: Arcanic Gnollbane
+effects: "- When Equipped:\n  - On a hostile spell cast this spell will cast Gnollbane on target of spell.\n    - Inflicts 10 - 18 magic damage on target.\n    - If target is gnoll\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Gnoll Cave (Antonica)]]'
 item_link: \aITEM -1636806915 -1956235706:Gnollbone Fetish\/a
 categories:

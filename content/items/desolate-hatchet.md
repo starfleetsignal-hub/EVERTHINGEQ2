@@ -25,7 +25,8 @@ stats:
   drating: '396.03'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,832 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM 1149707323 330747448:Desolate Hatchet\/a
 image: images/Desolate_Hatchet.png
 categories:

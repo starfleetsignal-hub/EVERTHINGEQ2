@@ -8,7 +8,8 @@ level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
 description: Said to have been forged from the fires of Nagafen's Lair deep within Solusek's Eye.
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (1000 Daybreak Cash)
 item_link: \aITEM 514111185 -1631874735:Nagafen's Eye\/a
 categories:

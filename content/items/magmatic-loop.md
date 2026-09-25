@@ -18,7 +18,8 @@ stats:
   abmod: +96,423
   aspeed: '97.1'
   vselemental: +167,206
-effects: '**Magmatic Loop**'
+effect_name: Magmatic Loop
+effects: "- When Equipped:\n  - Increases the target's Fervor by 0.5 per member of the caster's raid."
 item_link: \aITEM -906764213 -158377933:Magmatic Loop\/a
 categories:
 - Ability Modifier (Equipment)

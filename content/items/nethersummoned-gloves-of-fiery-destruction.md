@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+142'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 4 percent."
 obtained_from: '*Made from [[Elemental Master''s Glove Mold]] *Made from [[Elemental Master''s Glove Pattern]]'
 item_link: \aITEM -553947869 1397093137 0 0 0:Nethersummoned Gloves of Fiery Destruction\/a
 categories:

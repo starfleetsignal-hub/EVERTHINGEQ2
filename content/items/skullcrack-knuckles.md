@@ -20,7 +20,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Stonewill**'
+effect_name: Stonewill
+effects: "- When Equipped:\n  - When damaged this spell has a 7% chance to cast Stonewill on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 720 points of all damage\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Stonewill on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Wards caster against 720 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1228797634 1711867675:Skullcrack Knuckles\/a
 categories:
 - Ability Modifier (Equipment)

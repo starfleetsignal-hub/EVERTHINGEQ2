@@ -18,7 +18,8 @@ stats:
   potency: '9.2'
   aspeed: '14.8'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: From [[Thudomatonian Mitts]]
 item_link: \aITEM -178155895 -2001171382:Seraphic Mitts of the Augur\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   aspeed: '31.2'
-effects: '**The Bell Tolls**'
+effect_name: The Bell Tolls
+effects: "- Applies The Bell Tolls III when Activated.  Lasts for 12.0 seconds.\n  - On any combat or spell hit this spell will cast The Bell Tolls III on target of attack.\n    - Inflicts 330, 000 magic damage on the target. Deals an extra 330, 000 magic damage for every 25% health the target is damaged.\n    - Cannot be modified except by direct means\n    - Grants a total of 1 trigger of the spell.\n  - Cannot be modified except by direct means\n  - The reuse time of The Bell Tolls III is 1 minute"
 item_link: \aITEM -894480731 680421915:Vibrant Core\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '1.7'
   abmod: '+33'
   dtype: Leather Armor
-effects: '**Stun**'
+effect_name: Stun
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Stun II on target of attack.  Lasts for 1.3 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 87.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1929737740 -1996972522:Boots of the Malefic Creator\/a
 image: images/Boots_of_the_Malefic_Creator.jpg
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '13'
   mitinc: '4.8'
   dtype: Plate Armor
-effects: '**Glory of Marr**'
+effect_name: Glory of Marr
+effects: "- Applies Glory of Marr when Activated.  Lasts for 1 minute 15 seconds.\n  - Shapechanges caster into an a clawed sentinel\n  - Increases Max Health of caster by 3.0%.\n  - Increases Block Chance of caster by 25.0%.\n  - Increases Crit Bonus of caster by 30.0.\n  - On any combat or spell hit this spell will cast Glory of Marr on target of attack.\n    - Inflicts 11,662 slashing damage on target\n    - Heals caster for 2,916\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n  - The reuse time of Glory of Marr is 5 minutes"
 item_link: \aITEM -705947851 -1417658778 0 0 0:Mithaniel Marr's Helm of Ardor\/a
 categories:
 - Berserker Equipment

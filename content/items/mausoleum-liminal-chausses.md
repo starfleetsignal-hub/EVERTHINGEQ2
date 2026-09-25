@@ -18,7 +18,8 @@ stats:
   potency: 48,622
   resolve: '505'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 10 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 304559176 710114070:Mausoleum Liminal Chausses\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+121'
   vsarcane: '+400'
-effects: '**Draconic Storm**'
+effect_name: Draconic Storm
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Draconic Storm on caster.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the base damage of all hostile spells by 5%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1745805832 484417610:White Dragonscale Cloak\/a
 categories:
 - Ability Modifier (Equipment)

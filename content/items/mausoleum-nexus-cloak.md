@@ -17,7 +17,8 @@ stats:
   potency: 41,328.5
   resolve: '505'
   dps: '226.1'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1895465865 -450567606:Mausoleum Nexus Cloak\/a
 categories:
 - Assassin Equipment

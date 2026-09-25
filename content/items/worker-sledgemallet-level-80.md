@@ -18,7 +18,8 @@ stats:
   drating: '102.82'
   dtype: Two-Handed Magic Affinity
   wtype: Magic Affinity
-effects: '**Overthere**'
+effect_name: Overthere
+effects: "- When Equipped:\n  - On a combat hit this spell has a 50% chance to cast Overthere on caster.  Lasts for 10.0 seconds.\n    - Applies Overthere Gate on termination.\n      - Teleports caster to Danak Shipyard in Jarsath Wastes.\n    - Cannot be modified except by direct means\n    - Must not be engaged in pvp combat"
 obtained_from: '[[I''d Hammer in the Morning]]'
 item_link: \aITEM -2133510524 1909355012:Worker Sledgemallet\/a
 categories:

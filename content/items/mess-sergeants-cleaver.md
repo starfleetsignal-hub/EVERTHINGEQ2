@@ -15,7 +15,8 @@ stats:
   drating: '34.05'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Dazzling Bolt Glyph**'
+effect_name: Dazzling Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 54 - 66 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 713970810 -1874384788:Mess Sergeant's Cleaver\/a
 categories:
 - Berserker Equipment

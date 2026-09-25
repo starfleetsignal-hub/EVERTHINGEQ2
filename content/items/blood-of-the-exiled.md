@@ -17,7 +17,8 @@ stats:
   dps: '28.1'
   multi: '20.5'
   vselemental: +30,687
-effects: '**Amplifying Criticals**'
+effect_name: Amplifying Criticals
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 38%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 1986596847 80602075:Blood of the Exiled\/a
 categories:
 - Amplifying Criticals (Equipment)

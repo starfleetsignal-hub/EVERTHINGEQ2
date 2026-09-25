@@ -21,7 +21,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Greater Gallant Intervention**'
+effect_name: Greater Gallant Intervention
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On a critical healing spell cast this spell may cast Greater Gallant Intervention on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.2 times per minute.\n    - Wards target against 4,500 points of all damage\n    - Heals target for 416 - 459 instantly and every 2 seconds.\n    - Replenishes 600 points of absorption every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -105728387 1177277064:Imbued Spear of Unorthodox Expurgation\/a
 categories:
 - Ability Modifier (Equipment)

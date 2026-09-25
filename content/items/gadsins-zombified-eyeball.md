@@ -16,7 +16,8 @@ stats:
   critbonus: 1,045.3
   potency: 18,763.2
   resolve: '325'
-effects: '**Rapid Eye Twitch**'
+effect_name: Rapid Eye Twitch
+effects: "- Applies Rapid Eye Twitch when Activated.  Lasts for 2 hours.\n  - Increases Crit Bonus Overcap of caster by 138.4.\n  - Reduces power cost of all spells and abilities by 5%.\n  - Increases Flurry of Caster by 7.8.\n  - Increases Flurry Multiplier of caster by 0.7.\n  - Cannot be modified except by direct means\n  - The casting time of Rapid Eye Twitch is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1756351884 -1979529662:Gadsin's Zombified Eyeball\/a
 categories:
 - Ability Doublecast (Equipment)

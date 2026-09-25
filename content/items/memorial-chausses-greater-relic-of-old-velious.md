@@ -19,7 +19,8 @@ stats:
   resolve: '525'
   abmod: +4284,910
   dtype: Plate Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 456.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2088153488 1108559191:Memorial Chausses, Greater Relic of Old Velious\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   drating: '24.95'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 149 - 248 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1384813093 11281430:Shaped Disease Imbued Oak Wand\/a
 categories:
 - Berserker Equipment

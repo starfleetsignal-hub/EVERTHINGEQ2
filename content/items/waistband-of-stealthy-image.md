@@ -15,7 +15,8 @@ stats:
   critbonus: '4.8'
   potency: '8.2'
   dps: '20.3'
-effects: '**Son of Blades**'
+effect_name: Son of Blades
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Son of Blades on target of spell.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Summons a limited pet to aid the caster\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell will cast Son of Blades on target of attack.  Lasts for 10.0 seconds.\n    - Summons a limited pet to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM -37206057 -341688790:Waistband of Stealthy Image\/a
 categories:
 - Assassin Equipment

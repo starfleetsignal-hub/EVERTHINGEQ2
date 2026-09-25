@@ -13,7 +13,7 @@ stats:
   drating: '2.8'
   dtype: One-Handed Magic Affinity
   wtype: Magic Affinity
-effects: Sticky Residue
+effects: "- When Equipped:\n  - On a successful melee attack this spell has a chance to cast Sticky Residue on target of attack.  Lasts for 30.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Slows target by 20%"
 obtained_from: Crafted by [[Weaponsmith]] (level 20) from [[Frostfell Outfits You Can Make]]
 item_link: \aITEM 1351425836 13201819:Pristine Tasty Candy-Striped Staff\/a
 categories:

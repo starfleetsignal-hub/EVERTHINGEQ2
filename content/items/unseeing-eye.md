@@ -18,7 +18,8 @@ stats:
   abmod: +9,856
   aspeed: '37.4'
   mitinc: '7.6'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 14.6.\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM 1234223027 -1554676191:Unseeing Eye\/a
 categories:
 - Ability Modifier (Equipment)

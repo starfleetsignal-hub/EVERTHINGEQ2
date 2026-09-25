@@ -16,7 +16,8 @@ stats:
   potency: '2'
   abmod: '+48'
   vsarcane: '+245'
-effects: '**Dire Alacrity**'
+effect_name: Dire Alacrity
+effects: "- Applies Dire Alacrity when Activated.  Lasts for 36.0 seconds.\n  - Increases Reuse Speed of caster by 100.0%.\n  - The casting time of Dire Alacrity is 0.5 seconds and the reuse time of the spell is 1 hour"
 item_link: \aITEM -2079145385 -1246597311:The Ancient Matron's Heart\/a
 categories:
 - Ability Modifier (Equipment)

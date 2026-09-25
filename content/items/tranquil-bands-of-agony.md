@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dtype: Cloth Armor
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- When Equipped:\n  - Increases Disruption, Focus and Subjugation of caster by 24.0.\n  - Reduces resistibility of all spells by 2.0%."
 obtained_from: '*Crafted by [[Tailor]] (level 60) from [[Ancient Knowledge: Tranquil Bands of Agony]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -1590078526 2039825821:Tranquil Bands of Agony\/a
 categories:

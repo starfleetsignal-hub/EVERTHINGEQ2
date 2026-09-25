@@ -20,7 +20,8 @@ stats:
   drating: '101.01'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Memory Lapse**'
+effect_name: Memory Lapse
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Memory Lapse on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 500\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2089718753 -969254115:Silver Etched Warhammer\/a
 categories:
 - Beastlord Equipment

@@ -17,7 +17,8 @@ stats:
   potency: '5.2'
   mitinc: '5.3'
   dtype: Plate Armor
-effects: '**Bludgeon**'
+effect_name: Bludgeon
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Bludgeon on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell has a 5% chance to cast Bludgeon on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 492 mental damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1479211250 1112416702:Helm of Fire Fight\/a
 categories:
 - Berserker Equipment

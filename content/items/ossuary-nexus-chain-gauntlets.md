@@ -18,7 +18,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1103089867 228003499:Ossuary Nexus Chain Gauntlets\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   resolve: '4'
   aspeed: '36.3'
   mitinc: '7.3'
-effects: '**Enraging Flames**'
+effect_name: Enraging Flames
+effects: "- When Equipped:\n  - Inflicts 610,000 heat damage and 940,000 threat increase to up to three targets who are fighting the wearer every 6 seconds. The wearer's Auto-Attack must be active for this effect to trigger. Suspends if the wearer's AE Auto Attack is disabled.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1377180403 -155040807:Tempered Gorget of the Dark Lurker\/a
 categories:
 - Assassin Equipment

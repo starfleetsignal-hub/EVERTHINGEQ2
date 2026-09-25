@@ -16,7 +16,8 @@ stats:
   aspeed: '61.2'
   vselemental: +5,940
   mitinc: '4'
-effects: '**Blazing Glory**'
+effect_name: Blazing Glory
+effects: "- When Equipped:\n  - Increases STR and STA of caster by 25.0.\n  - Increases Ability Mod of caster by 350.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of the Mountain]] *Made from [[Azure Reactant]]'
 item_link: \aITEM -1211110595 -237446808:Azure Ring of the Mountain\/a
 categories:

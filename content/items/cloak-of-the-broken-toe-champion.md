@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+98'
   aspeed: '5.5'
-effects: '**Aura of the Ankexfen**'
+effect_name: Aura of the Ankexfen
+effects: "- When Equipped:\n  - Reduces the reuse timers of all combat arts by 5%."
 item_link: \aITEM -1019430867 645114812:Cloak of the Broken Toe Champion\/a
 categories:
 - Ability Modifier (Equipment)

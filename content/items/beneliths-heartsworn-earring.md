@@ -17,7 +17,8 @@ stats:
   potency: 50,255.4
   resolve: '640'
   vselemental: +426,870
-effects: '**Heartsworn Contract**'
+effect_name: Heartsworn Contract
+effects: "- When Equipped:\n  - Increases Potency of caster by 1,257.8.\n  - Increases Fervor of caster by 24.2.\n  - Increases Fervor Overcap of caster by 24.2.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply and the effect does not stack with other \"Heartsworn Contract\" effects.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1595708088 -8799303:Benelith's Heartsworn Earring\/a
 categories:
 - Arcane Resistance (Equipment)

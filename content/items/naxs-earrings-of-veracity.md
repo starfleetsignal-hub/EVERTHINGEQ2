@@ -15,7 +15,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   vsarcane: '+280'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 1 percent."
 obtained_from: '[[Eliminating the Competition]]'
 item_link: \aITEM 2134882568 1309993631:Nax's Earrings of Veracity\/a
 categories:

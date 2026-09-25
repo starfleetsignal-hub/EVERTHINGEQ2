@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Tormenting Strike Glyph**'
+effect_name: Tormenting Strike Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 37 - 46 disease damage on target.\n    - Inflicts 35 - 43 disease damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1361204123 180639629:Spear of Desecration\/a
 categories:
 - Assassin Equipment

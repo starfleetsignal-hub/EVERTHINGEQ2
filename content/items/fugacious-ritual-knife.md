@@ -17,7 +17,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Ruinous Glyph**'
+effect_name: Ruinous Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ruinous Glyph on caster.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Haste of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 610274797 -727703641:Fugacious Ritual Knife\/a
 categories:
 - Ability Modifier (Equipment)

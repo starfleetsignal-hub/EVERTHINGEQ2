@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +10,660
-effects: '**Nightmare Shroud**'
+effect_name: Nightmare Shroud
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Nightmare Shroud on caster.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.0.\n    - Increases Crit Bonus of caster by 8.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 872277639 164061593:Overseer's Ring of the Ryathian\/a
 categories:
 - Arcane Resistance (Equipment)

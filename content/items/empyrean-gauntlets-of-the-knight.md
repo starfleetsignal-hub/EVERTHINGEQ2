@@ -19,7 +19,8 @@ stats:
   abmod: '+306'
   mitinc: '9.9'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 obtained_from: Dropped by [[General Zevitus (Challenge Mode Epic)|General Utehk, General Zevitus and General Aakita]] in [[Tallon's Stronghold (Challenge)]]
 item_link: \aITEM 61177610 1798150225:Empyrean Gauntlets of the Knight\/a
 categories:

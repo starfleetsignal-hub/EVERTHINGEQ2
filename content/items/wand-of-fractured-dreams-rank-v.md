@@ -23,7 +23,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Blessing of the Dreamlord**'
+effect_name: Blessing of the Dreamlord
+effects: "- When Equipped:\n  - \"Blessing of the Dreamlord\" protects the wearer from strong deific magics used by Morell-Thule!"
 obtained_from: '*Made from [[Ethereal Writings: Wand of Fractured Dreams]] *[[Ethereal: Wand of Fractured Dreams]]'
 item_link: \aITEM -1237817433 1599357830:Wand of Fractured Dreams [Rank V]\/a
 categories:

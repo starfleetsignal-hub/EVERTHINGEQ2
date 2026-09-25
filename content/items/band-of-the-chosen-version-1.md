@@ -15,7 +15,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   vsarcane: '+280'
-effects: '**Dark Purpose**'
+effect_name: Dark Purpose
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Dark Resolve on target of spell cast.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Makes target immune to Charm effects\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1241736997 1329130126:Band of the Chosen\/a
 categories:
 - Ability Modifier (Equipment)

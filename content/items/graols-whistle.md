@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: 0.0 seconds
-effects: Graol's Whistle
+effects: "- Applies **Summon Graol** when Activated.\n  - Summons a mount to ride that increases your speed by 70%\n    - If Level 80 or Higher\n  - Increases Melee Crit Bonus of caster by 1.0%\n  - Increases Melee Crit Bonus of caster by 3.0%\n  - Increases Max Health of caster by 200"
 item_link: \aITEM -1427706465 1953939349:Graol's Whistle\/a
 categories:
 - Assassin Equipment

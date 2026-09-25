@@ -16,7 +16,8 @@ stats:
   abmod: '+191'
   multi: '10'
   vselemental: '+511'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -2082350015 1229782775:Channeled Band of the War Blade\/a
 categories:
 - Ability Modifier (Equipment)

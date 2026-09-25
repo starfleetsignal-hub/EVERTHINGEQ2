@@ -17,7 +17,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Impact Conversion**'
+effect_name: Impact Conversion
+effects: "- When Equipped:\n  - When damaged this spell has a 4% chance to cast Impact Conversion on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 26 instantly and every 5 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Culling the Force]]'
 item_link: \aITEM -475170028 -1101577012:Nax's Boots of Immunity\/a
 categories:

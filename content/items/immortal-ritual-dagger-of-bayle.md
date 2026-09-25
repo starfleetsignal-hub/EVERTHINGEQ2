@@ -19,7 +19,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 80897972 1890229238:Immortal Ritual Dagger of Bayle\/a
 categories:
 - Ability Modifier (Equipment)

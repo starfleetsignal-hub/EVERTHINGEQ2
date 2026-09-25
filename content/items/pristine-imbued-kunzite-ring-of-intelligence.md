@@ -15,7 +15,7 @@ stats:
   vselemental: '+188'
   vsarcane: '+188'
   vsnoxious: '+188'
-effects: Aura of Intelligence
+effects: "- When Equipped:\n  - On a successful hostile spell this spell has a chance to cast ***Flash of Intelligence*** on caster. Lasts for 45.0 seconds. This effect will trigger an average of 1.8 times per minute.\n    - Increases INT of caster by 19.8\n    - Increases Disruption, Focus and Subjugation of caster by 11.3"
 obtained_from: Crafted by [[Jeweler]] (level 76) from [[Jeweler Essentials Volume 76]]
 item_link: -1937159002 418867664:pristine imbued kunzite ring of intelligence
 categories:

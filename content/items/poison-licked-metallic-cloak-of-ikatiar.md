@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   aspeed: '16.8'
   dps: '27.1'
-effects: '**Zealous Aura**'
+effect_name: Zealous Aura
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 1.0%.\n  - Increases Haste of caster by 4.5.\n  - Increases DPS of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -333040213 2331819:Poison-Licked Metallic Cloak of Ikatiar\/a
 categories:
 - Assassin Equipment

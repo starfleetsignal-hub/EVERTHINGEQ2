@@ -17,7 +17,8 @@ stats:
   drating: '35.67'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Venomous Zephyr Glyph**'
+effect_name: Venomous Zephyr Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Poison Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 75 - 91 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1080516809 740873295:Fang of Stench\/a
 categories:
 - Ability Modifier (Equipment)

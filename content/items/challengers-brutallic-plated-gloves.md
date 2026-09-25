@@ -14,7 +14,8 @@ stats:
   crit: '6'
   critbonus: '2.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Sold by [[Scion of Baast]] (Battlegrounds Merchant)
 item_link: \aITEM 583861224 -908045743:Challenger's Brutallic Plated Gloves\/a
 categories:

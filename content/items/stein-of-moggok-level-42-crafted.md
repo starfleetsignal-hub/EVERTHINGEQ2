@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+9'
   dtype: Symbols
-effects: '**Drunken Rage**'
+effect_name: Drunken Rage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Drunken Rage on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of caster by 5.0.\n    - Decreases Casting Speed of caster by 5.0%.\n    - Increases DPS of caster by 15.0.\n    - Increases Ability Mod of caster by 75.0.\n    - Cannot be modified except by direct means"
 obtained_from: 'Crafted by [[Artisan]] (level 9) from [[Clurg’s Family Stein Recipe]] *Heritage quest reward: [[The Stein of Moggok: It Can Be Rebuilt...]]'
 item_link: \aITEM 1854590002 -1896336021:Stein of Moggok\/a
 image: images/Stein_of_Moggok.png

@@ -17,7 +17,8 @@ stats:
   dps: '12.6'
   mitinc: '4.9'
   dtype: Plate Armor
-effects: '**Horrific Epiphany**'
+effect_name: Horrific Epiphany
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Horrific Epiphany on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - When any damage is received this spell has a 3% chance to cast Cerebral Mindlash on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 492 mental damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM -470511617 346536060:Crimson Helm of Horror\/a
 categories:
 - Berserker Equipment

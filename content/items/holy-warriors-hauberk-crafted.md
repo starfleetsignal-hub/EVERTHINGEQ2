@@ -17,7 +17,8 @@ stats:
   dps: '12.8'
   multi: '8'
   dtype: Plate Armor
-effects: '**Savage Healing**'
+effect_name: Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -1872427772 561657176 0 0 0:Holy Warrior's Hauberk\/a
 categories:

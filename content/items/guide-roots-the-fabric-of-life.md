@@ -8,7 +8,8 @@ level: '60'
 slot: Charm
 classes: '[[Tailor]]'
 flags: attunable
-effects: '**Overclocked Tools**'
+effect_name: Overclocked Tools
+effects: "- Applies Overclocked Tools when Equipped.\n  - Increases success chance by 5.0%."
 obtained_from: Made with Tinkering (skill 300) from [[Experimenter's Blueprints 0.009]].
 item_link: '\aITEM 1950657165 359056901:Guide: Roots.  The Fabric of Life.\/a'
 aliases:

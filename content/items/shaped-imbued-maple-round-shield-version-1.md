@@ -11,7 +11,8 @@ stats:
   sta: '+2'
   agi: '+3'
   dtype: Round Shield
-effects: '**Dim Sanguine Imbued**'
+effect_name: Dim Sanguine Imbued
+effects: "- Applies Dim Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Dim Sanguine Feedback on target's attacker.\n    - Inflicts 9 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1624511318 -153452550:shaped imbued maple round shield\/a
 categories:
 - Assassin Equipment

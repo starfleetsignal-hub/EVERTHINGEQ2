@@ -15,7 +15,8 @@ stats:
   potency: '11'
   dps: '28.8'
   multi: '18.6'
-effects: '**Severity**<br>**Discombobulate**'
+effect_name: Severity, Discombobulate
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Discombobulate III on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,662 - 5,153\n    - Inflicts 2,433 - 2,689 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Discombobulate III on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 4,662 - 5,153\n    - Inflicts 2,433 - 2,689 mental damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1763390508 777786198:Vyskudra's Collar of Storms\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   dps: '63.5'
   multi: '43.4'
   dtype: Cloth Armor
-effects: '**Oracle**'
+effect_name: Oracle
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 6%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 812895295 -1220718590:Polarized Shroud of Disturbance\/a
 categories:
 - Assassin Equipment

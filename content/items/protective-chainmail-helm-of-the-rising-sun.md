@@ -17,7 +17,8 @@ stats:
   abmod: '+137'
   dps: '12.8'
   dtype: Chain Armor
-effects: '**Empowered Heal**'
+effect_name: Empowered Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Empowered Heal on caster.  Triggers about 4.0 times per minute.\n    - Heals group members (AE) for 610.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2145766466 -1783687655:Protective Chainmail Helm of the Rising Sun\/a
 categories:
 - Ability Modifier (Equipment)

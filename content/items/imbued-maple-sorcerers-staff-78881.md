@@ -16,7 +16,7 @@ stats:
   drating: '11.3'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.5 times per minute.\n    - Inflicts 33 - 61 magic damage on target\n    - Decreases Threat to target by 135\n      - Must be flanking or behind\n    - Increases Threat to target by 135\n      - Must be in front of"
 obtained_from: Crafted by [[Craftsman]] (level 18) from [[Craftsman essentials volume 18]]
 item_link: \aITEM 2035636692 -295953831:imbued maple sorcerer's staff\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: +1,527
   aspeed: '34.5'
   dps: '13.2'
-effects: '**Killing Chamber**'
+effect_name: Killing Chamber
+effects: "- Applies Killing Chamber when Activated.  Lasts for 30.0 seconds.\n  - Summons a sigil on the ground that makes any raid member gain a high chance to inflict poison damage on any target they attack.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Killing Chamber is 2 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -1053197182 1825044355:Hammered Arcannium Idol\/a
 categories:

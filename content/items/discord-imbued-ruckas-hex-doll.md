@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+7'
   int: '+7'
-effects: '**Hex of Discord**'
+effect_name: Hex of Discord
+effects: "- Applies Hex of Discord when Activated.  Lasts for 1 minute 48 seconds.\n  - Increases all damage done to target by 1%.\n  - Decreases AGI, INT, STR and WIS of target by 9.1.\n  - The casting time of Hex of Discord is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1839581169 -240360994:discord imbued ruckas hex doll\/a
 categories:
 - Assassin Equipment

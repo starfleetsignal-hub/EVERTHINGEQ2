@@ -13,7 +13,8 @@ stats:
   sta: '+8'
   mit: '90'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 20) from [[Ancient Knowledge: Glorified Tunic of Communion]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -861610032 329992160:Glorified Tunic of Communion\/a
 categories:

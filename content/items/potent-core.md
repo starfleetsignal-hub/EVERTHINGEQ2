@@ -15,7 +15,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   abmod: +1,250
-effects: '**Kerafyrm''s Rage**'
+effect_name: Kerafyrm's Rage
+effects: "- When Equipped:\n  - Increases Potency of caster by 70.0.\n  - Cannot be modified except by direct means\n- Applies Kerafyrm's Rage when Activated.  Lasts for 15.0 seconds.\n  - Increases Potency of group members (AE) by 60.0.\n  - Suspends the passive effect for 15 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of Kerafyrm's Rage is 1 minute"
 item_link: \aITEM 1462768871 -1720823094:Potent Core\/a
 categories:
 - Ability Modifier (Equipment)

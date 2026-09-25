@@ -18,7 +18,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Attack Speed of caster by 38"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] or Sold by [[A mysterious Quellthulian]] (Merchant) in [[Moors of Ykesha]]
 image: images/Champion%27s_Mirror_Gauntlets.jpg
 categories:

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   vselemental: +10,148
   mitinc: '6'
-effects: '**Burst**'
+effect_name: Burst
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Burst on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 8,928 - 9,868 magic damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 1269805297 -152599181:Fabled Webbed Earring\/a
 categories:
 - AE Autoattack Chance (Equipment)

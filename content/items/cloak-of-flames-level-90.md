@@ -15,7 +15,8 @@ stats:
   potency: '7.8'
   abmod: '+246'
   dps: '19'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 922538047 1047335969:Cloak of Flames\/a
 categories:
 - Ability Modifier (Equipment)

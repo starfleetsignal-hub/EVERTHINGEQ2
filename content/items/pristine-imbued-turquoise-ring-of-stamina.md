@@ -9,7 +9,7 @@ flags: ATTUNEABLE
 stats:
   wis: '+2'
   int: '+2'
-effects: Aura of Stamina
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 3% chance to cast Spark of Stamina on caster. Lasts for 45.0 seconds.\n    - Increases STA of caster by 3.6\n    - Increases In-Combat Health Regeneration Per Tick of caster by 12.0"
 obtained_from: Crafted by [[Scholar]] (level 16) from [[Scholar essentials volume 16]]
 item_link: \aITEM -2038476123 1829466157:Pristine Imbued Turquoise Ring of Stamina\/a
 categories:

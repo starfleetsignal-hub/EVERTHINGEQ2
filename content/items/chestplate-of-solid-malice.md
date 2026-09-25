@@ -14,7 +14,8 @@ stats:
   power: '+195'
   mit: '730'
   dtype: Plate Armor
-effects: '**Vision of Hatred**'
+effect_name: Vision of Hatred
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 15.0%.\n  - On a combat hit this spell may cast Crippling Hate on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Mitigation of target vs physical and noxious damage by 914.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 64067343 1175460339:Chestplate of Solid Malice\/a
 categories:
 - Berserker Equipment

@@ -19,7 +19,8 @@ stats:
   drating: '120.96'
   dtype: Main Hand Slashing
   wtype: Sword
-effects: '**Seething Hatred**<br>**Touch of Death**<br>**Splurt**'
+effect_name: Seething Hatred, Touch of Death, Splurt
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Seething Hatred on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.4 times per minute.\n    - Inflicts 656 - 802 disease damage on target.\n    - 300% of health regained from lifetaps will be applied as hate to engaged targets.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- Applies Touch of Death when Activated.  Lasts for 8.0 seconds.\n  - Forces target to change their selected target to caster instantly.  Hate gain is increased by 10% for the duration.\n  - Will absorb physical, slash, crush and pierce damage when the amount is greater than 60% of the target's maximum health.\n  - The reuse time of Touch of Death is 6 minutes\n- When Equipped:\n  - Damage over time spells increase damage with each tick.  Damage ceases to increase after 5 ticks."
 obtained_from: '[[A Bloodmoon Rising!]]'
 item_link: \aITEM -1231201810 -582845353:Sedition, Sword of the Bloodmoon\/a
 image: images/Sedition,_Sword_of_the_Bloodmoon.jpg

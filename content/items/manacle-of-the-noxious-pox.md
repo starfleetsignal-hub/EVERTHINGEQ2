@@ -14,7 +14,8 @@ stats:
   potency: '18.7'
   abmod: +1,250
   vselemental: +15,750
-effects: '**Infectious Aura**'
+effect_name: Infectious Aura
+effects: "- When Equipped:\n  - When damaged this spell will cast Infectious Aura on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 15,525-62,100 disease damage on target\n    - Damage increases as the caster is attacked\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM -1452892870 -1420939971:Manacle of the Noxious Pox\/a
 categories:
 - Ability Modifier (Equipment)

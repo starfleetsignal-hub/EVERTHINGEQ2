@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   abmod: '+152'
   vsnoxious: '+400'
-effects: '**Runic Recovery**<br>**Enthralling Recovery**'
+effect_name: Runic Recovery, Enthralling Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent.\n- When Equipped:\n  - Reduces reuse time of Subjugation-based spells by 5 percent."
 item_link: \aITEM 1345880391 1820564595:Loops of the Undying\/a
 categories:
 - Ability Modifier (Equipment)

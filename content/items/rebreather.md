@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '165'
   dtype: Chain Armor
-effects: '**Rebreather**'
+effect_name: Rebreather
+effects: "- Applies Rebreather when Equipped.\n  - Allows caster to breathe underwater"
 obtained_from: Made with Tinkering (skill 240) from [[Experimenter's Blueprints 0.003]].
 item_link: \aITEM -364534425 -1507163802:Rebreather\/a
 categories:

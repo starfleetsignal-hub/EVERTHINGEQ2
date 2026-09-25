@@ -16,7 +16,8 @@ stats:
   potency: '1'
   abmod: '+24'
   dtype: Cloth Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 118 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 52) from [[Advanced Tailor Volume 52 (Heirloom)]] *Crafted by [[Tailor]] (level 52) from [[Advanced Tailor Volume 52 (Normal)]]'
 item_link: \aITEM -1646805727 -1567072135:Imbued Cambric Pantaloons\/a
 image: images/Imbued_Cambric_Pantaloons.jpg

@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Deadly Scorpikis Poison**'
+effect_name: Deadly Scorpikis Poison
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Scorpic Hemotoxin on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 100 poison damage on target.\n    - Inflicts 151 poison damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Anaphylaxis (Quest)|Anaphylaxis]]'
 item_link: \aITEM -94892060 -953866839:Anaphylaxis\/a
 categories:

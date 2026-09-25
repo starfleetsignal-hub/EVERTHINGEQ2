@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +26,832
-effects: '**Uplifting Voice**'
+effect_name: Uplifting Voice
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Uplifting Voice II on target.  Lasts for 20.1 seconds.  Triggers about 0.2 times per minute.\n    - Cannot be modified except by direct means\n  - The trigger chance increases with more players in the wearer's raid. Increments up to 5 times."
 item_link: \aITEM 1792720758 -414750571:Akhevan Hoop of Desparate Voices\/a
 categories:
 - Arcane Resistance (Equipment)

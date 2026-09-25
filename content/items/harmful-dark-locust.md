@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Increasing Velocity**'
+effect_name: Increasing Velocity
+effects: "- Applies Increasing Velocity II when Activated.  Lasts for 18.0 seconds.\n  - Increases Weapon Damage Bonus of the caster by 12. This value grows by 2.5 for each meter the caster is from their currently targeted enemy. The maximum increase is 137.\n  - Cannot be modified except by direct means\n  - The reuse time of Increasing Velocity II is 1 minute"
 item_link: \aITEM -672183448 -456986546:Harmful Dark Locust\/a
 categories:
 - Casting Speed (Equipment)

@@ -17,7 +17,8 @@ stats:
   abmod: '+42'
   multi: '3.7'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 22.0."
 item_link: \aITEM -383473532 1166412377:Gauntlets of Glorious Speed\/a
 categories:
 - Ability Modifier (Equipment)

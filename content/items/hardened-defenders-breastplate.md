@@ -17,7 +17,8 @@ stats:
   potency: '1.1'
   dps: '4.3'
   dtype: Plate Armor
-effects: '**Surging Adrenaline**'
+effect_name: Surging Adrenaline
+effects: "- When Equipped:\n  - On a hit this spell may cast Surging Adrenaline on caster.  Triggers about 1.8 times per minute.\n    - Heals caster for 163.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 457186162 -293345536:Hardened Defender's Breastplate\/a
 categories:
 - Berserker Equipment

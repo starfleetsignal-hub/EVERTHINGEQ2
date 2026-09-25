@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Discombobulate**'
+effect_name: Discombobulate
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulate II on target of attack.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target by 1,650,000\n    - Inflicts 384,846 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1470001618 -1079880412:Fabled Ring of Farseeing\/a
 categories:
 - Arcane Resistance (Equipment)

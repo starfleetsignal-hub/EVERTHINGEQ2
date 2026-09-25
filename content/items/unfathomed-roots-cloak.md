@@ -17,7 +17,8 @@ stats:
   critbonus: 1,385.7
   potency: 52,704.7
   resolve: '660'
-effects: '**Sick Star**'
+effect_name: Sick Star
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 40.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1154895204 -1566642662:Unfathomed Roots Cloak\/a
 categories:
 - Assassin Equipment

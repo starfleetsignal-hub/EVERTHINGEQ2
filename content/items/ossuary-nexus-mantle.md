@@ -19,7 +19,8 @@ stats:
   resolve: '515'
   aspeed: '35'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1201381270 1049201878:Ossuary Nexus Mantle\/a
 categories:
 - Attack Speed (Equipment)

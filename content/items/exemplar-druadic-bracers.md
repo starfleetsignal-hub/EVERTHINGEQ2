@@ -20,7 +20,8 @@ stats:
   resolve: '23'
   dps: '165.2'
   dtype: Leather Armor
-effects: '**Grasp of Nightmares**'
+effect_name: Grasp of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Warden of Nightmares."
 obtained_from: From [[Satchel of the Nightmare Warden]]
 item_link: \aITEM 1559605692 -1148797566:Exemplar  Druadic Bracers\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   multi: '3.7'
   flurry: '1.7'
   dtype: Plate Armor
-effects: '**Visage of Terror**'
+effect_name: Visage of Terror
+effects: "- Applies Visage of Terror when Activated.  Lasts for 16.0 seconds.\n  - Makes target afraid\n  - 15% chance to dispel when target takes damage\n  - 15% chance to dispel when target receives hostile action\n  - Does not affect Epic targets\n  - Resistibility increases against targets higher than level 89.\n  - The casting time of Visage of Terror is 3.0 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -1816765555 -1015974431:Scourge Knight's Mask\/a
 image: images/Scourge_knights_mask.jpg
 categories:

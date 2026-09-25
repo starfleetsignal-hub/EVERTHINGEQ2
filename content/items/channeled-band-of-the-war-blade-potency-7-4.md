@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   abmod: '+197'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1687052952 1229782775:Channeled Band of the War Blade\/a
 categories:
 - Ability Modifier (Equipment)

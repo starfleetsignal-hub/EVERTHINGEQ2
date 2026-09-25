@@ -17,7 +17,7 @@ stats:
   vselemental: '+328'
   vsarcane: '+368'
   dtype: Chain Armor
-effects: Successive Blows
+effects: "- When Equipped\n  - On any combat or spell hit this spell may cast Successive Blows on caster. Lasts for 10.0 seconds. Trigger about 2.0 times per minute. If a melee attack is used, only the primary weapon can trigger this effect.\n    - Caster will Double Attack on 9.0% of attacks"
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment

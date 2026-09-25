@@ -12,7 +12,8 @@ stats:
   sta: '+2'
   mit: '21'
   dtype: Cloth Armor
-effects: '**Full Spectral Goggles**'
+effect_name: Full Spectral Goggles
+effects: "- Applies Full Spectral Goggles when Equipped.\n  - Grants See Invisibility to caster."
 obtained_from: Made with Tinkering (skill 60) from [[Apprentice Blueprints 0.006]].
 item_link: \aITEM 2106156060 -89193202:Full Spectrum Goggles\/a
 categories:

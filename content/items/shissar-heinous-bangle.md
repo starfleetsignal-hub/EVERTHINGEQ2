@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Feedback**'
+effect_name: Feedback
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Feedback III on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 20,900 - 23,100 slashing damage on target encounter.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 53947030 697536199:Shissar Heinous Bangle\/a
 image: images/Shissar_Heinous_Bangle.png
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Siphon Power**'
+effect_name: Siphon Power
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Siphon Power on target of spell.  Triggers about 1.0 times per minute.\n    - Decreases power of target by 88.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 586071771 -700760971:Bile Drenched Cuffs\/a
 categories:
 - Ability Modifier (Equipment)

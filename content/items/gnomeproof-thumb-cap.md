@@ -7,7 +7,8 @@ tier: Handcrafted
 level: '40'
 classes: '[[Tailor]]'
 flags: attunable
-effects: '**Calibrated Tools**'
+effect_name: Calibrated Tools
+effects: "- Applies Calibrated Tools when Equipped.\n  - Increases success chance by 2.0%."
 obtained_from: Made with Tinkering (skill 200) from [[Dabbler's Blueprints 0.009]].
 item_link: \aITEM 251821386 2139492013:Gnomeproof Thumb Cap\/a
 image: images/Gnomeproof_Thumb_Cap.png

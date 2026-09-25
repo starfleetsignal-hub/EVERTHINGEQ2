@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Spirit Siphoning**'
+effect_name: Spirit Siphoning
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Spirit Siphoning on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 243 - 365 magic damage on target.\n    - Decreases power of target by 121 - 182.\n    - Heals caster for 302 - 370.\n    - Increases power of caster by 151 - 184.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -1014175774 350928900:Ekron's Blade\/a
 categories:
 - AE Autoattack Chance (Equipment)

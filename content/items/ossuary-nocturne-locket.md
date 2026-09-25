@@ -16,7 +16,8 @@ stats:
   critbonus: 1,326
   potency: 42,335.6
   resolve: '515'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1662249625 1876862646:Ossuary Nocturne Locket\/a
 categories:
 - Ability Doublecast (Equipment)

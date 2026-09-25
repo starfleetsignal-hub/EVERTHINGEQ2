@@ -9,7 +9,7 @@ stats:
   charges: Unlimited
   casting: 30.0 seconds
   recast: 1 hour
-effects: Return to Splitpaw
+effects: "- Applies **Return to Splitpaw** when Activated.\n  - Teleports caster to a random zone location\n  - This effect cannot be cast during combat"
 obtained_from: '[[A Darkened Shard, Part 2]]'
 item_link: \aITEM -1476267979 -1454968334:a glowing azure shard\/a
 image: images/Glowingazureshard.jpg

@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   aspeed: '0.1'
   dtype: Chain Armor
-effects: '**Martial Focus**'
+effect_name: Martial Focus
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.6%.\n  - Increases Slashing, Crushing, Piercing and Ranged of caster by 20.0."
 obtained_from: '*Crafted by [[Armorer]] (level 50) from [[Ancient Knowledge: Melodic Wristguard of Distortion]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -1952954231 1529234722:Melodic Wristguard of Distortion\/a
 categories:

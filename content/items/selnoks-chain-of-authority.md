@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   abmod: '+89'
-effects: '**Silence**'
+effect_name: Silence
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Silence on target of spell.  Lasts for 4.8 seconds.  Triggers about 2.0 times per minute.\n    - Stifles target\n    - Must not be engaged in pvp combat\n    - Only affects targets level 121 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 94.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Mystery at the Battlement]]'
 item_link: \aITEM 24535889 244044720:Sel'Nok's Chain of Authority\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   potency: '7'
   multi: '11.5'
   dtype: Leather Armor
-effects: '**Runic Deflection**'
+effect_name: Runic Deflection
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Deflection on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 2,400 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: '[[Subordination Insubordination]]'
 item_link: \aITEM -576976400 -1981637524:Resplendent Shawl of Ulteran Conquerors\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   aspeed: '31.2'
-effects: '**Shared Energy**'
+effect_name: Shared Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 65 if they have 2 or more grouped allies within 5 meters of them."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume II]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM 1366899329 313833835:Decrepit Symbol of Ages Past\/a
 categories:

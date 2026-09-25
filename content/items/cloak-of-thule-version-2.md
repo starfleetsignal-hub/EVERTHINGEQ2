@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.5'
   abmod: '+54'
-effects: '**Fear**'
+effect_name: Fear
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fear VI on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.2 times per minute.\n    - Slows target by 31.4%.\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means"
 obtained_from: '[[Strife]]'
 item_link: \aITEM 427882873 -1810525236:Cloak of Thule\/a
 categories:

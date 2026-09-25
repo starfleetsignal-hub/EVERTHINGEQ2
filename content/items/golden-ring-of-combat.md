@@ -17,7 +17,8 @@ stats:
   aspeed: '38'
   dps: '14.5'
   vselemental: +35,154
-effects: '**Amplifying Power**'
+effect_name: Amplifying Power
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 25%-96.3%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -959353038 -670866433:Golden Ring of Combat\/a
 categories:
 - Ability Modifier (Equipment)

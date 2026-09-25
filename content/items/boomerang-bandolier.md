@@ -18,7 +18,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Boomerang**'
+effect_name: Boomerang
+effects: "- Applies Boomerang when Activated.  Lasts for 20.0 seconds.\n  - Increases Melee Weapon Range of caster by 100.0%.\n  - The reuse time of Boomerang is 6 minutes"
 item_link: \aITEM 301310427 -113013384:Boomerang Bandolier\/a
 categories:
 - Assassin Equipment

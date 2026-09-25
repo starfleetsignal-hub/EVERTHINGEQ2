@@ -20,7 +20,8 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Ruinous Slash**'
+effect_name: Ruinous Slash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ruinous Slash IX on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 3,037 - 3,357 heat damage on targets in Area of Effect.\n    - Inflicts 1,012 - 1,119 heat damage on targets in Area of Effect every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 90) from [[Ancient Knowledge: Destructive Greatsword of the Mountain]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM -1616902042 -1037726983:Destructive Greatsword of the Mountain\/a
 categories:

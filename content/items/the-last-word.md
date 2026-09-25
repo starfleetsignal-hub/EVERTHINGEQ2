@@ -22,7 +22,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Virulent Wrath**'
+effect_name: Virulent Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Virulent Wrath V on target of attack.  Triggers about 3.0 times per minute.\n    - Increases threat priority of target by 1 position\n    - Inflicts 9,650 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 585178979 -1817560922:The Last Word\/a
 categories:
 - AE Autoattack Chance (Equipment)

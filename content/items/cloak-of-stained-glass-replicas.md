@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (300 Daybreak Cash)
 item_link: \aITEM 595886459 659236492:Cloak of Stained Glass Replicas\/a
 categories:

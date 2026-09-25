@@ -18,7 +18,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   dtype: Leather Armor
-effects: '**Battle Prowess**'
+effect_name: Battle Prowess
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Battle Prowess on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 864 heat damage on target.\n    - Increases Crit Chance of caster by 20.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2106968534 1170682374:Enchanted Gi of War\/a
 image: images/Enchanted_Gi_of_War.jpg
 categories:

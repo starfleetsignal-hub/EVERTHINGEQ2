@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   abmod: '+152'
   dps: '13.4'
-effects: '**Shadow Mastery**'
+effect_name: Shadow Mastery
+effects: "- When Equipped:\n  - Increases Ranged Weapon Range of caster by 25.0%.\n  - Increases trigger chance of poisons by 10%.\n  - Reduces the reuse of bard songs by 5%."
 item_link: \aITEM 1904386364 -1819859110:Collected Memories of a Betrayer\/a
 categories:
 - Ability Modifier (Equipment)

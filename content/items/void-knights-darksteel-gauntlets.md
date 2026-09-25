@@ -19,7 +19,8 @@ stats:
   vsarcane: '+664'
   vsnoxious: +1,162
   dtype: Plate Armor
-effects: '**Haste**<br>**Magical Alacrity**'
+effect_name: Haste, Magical Alacrity
+effects: "- When Equipped:\n  - Increases Attack Speed of caster by 38\n- When Equipped:\n  - Reduces cast time of all spells by 3 percent."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 486898686 -1608807064:Void Knight's Darksteel Gauntlets\/a
 categories:

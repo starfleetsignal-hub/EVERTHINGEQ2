@@ -22,7 +22,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Dagger
-effects: '**Corrosive Fog**'
+effect_name: Corrosive Fog
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 748 - 827 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 470.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1115289538 -1823175693:Forceful Talon of Klaatuus\/a
 categories:
 - Ability Modifier (Equipment)

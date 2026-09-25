@@ -14,7 +14,8 @@ stats:
   critbonus: '0.6'
   potency: '2.7'
   abmod: '+68'
-effects: '**Fright and Dread**'
+effect_name: Fright and Dread
+effects: "- Applies Fright and Dread when Activated.  Lasts for 30.0 seconds.\n  - Summons 2 limited pets to aid the caster\n  - The casting time of Fright and Dread is 3.0 seconds and the reuse time of the spell is 30 minutes"
 item_link: \aITEM -1685802819 -1583944444 0 0 0:Shard of Fear\/a
 categories:
 - Ability Modifier (Equipment)

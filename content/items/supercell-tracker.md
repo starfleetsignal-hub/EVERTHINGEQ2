@@ -18,7 +18,8 @@ stats:
   resolve: '45'
   aspeed: '66.5'
   mitinc: '19.3'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.8.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -632157630 1445956016:Supercell Tracker\/a
 categories:
 - AE Autoattack Chance (Equipment)

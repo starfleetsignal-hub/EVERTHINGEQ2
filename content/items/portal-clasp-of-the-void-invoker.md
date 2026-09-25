@@ -11,7 +11,8 @@ stats:
   str: '+1'
   sta: '+1'
   vsarcane: '+22'
-effects: '**Rift Portals**'
+effect_name: Rift Portals
+effects: "- Applies Rift Portals when Activated.\n  - Shifts the caster partially into the void, producing small rifts around them."
 obtained_from: Made from [[A Void Cube]]
 item_link: \aITEM -29585155 -1544401326:Portal Clasp of the Void Invoker\/a
 categories:

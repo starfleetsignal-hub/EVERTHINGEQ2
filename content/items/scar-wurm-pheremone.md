@@ -9,7 +9,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 2.0 seconds
-effects: Spray
+effects: '- Applies Spray when Activated.'
 obtained_from: Given at the start of the quest [[The Mother Lode]]
 used_in_quest: '[[The Mother Lode]]'
 item_link: \aITEM 111886117 -658700560:scar wurm pheromone\/a

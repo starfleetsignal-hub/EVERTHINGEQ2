@@ -17,7 +17,8 @@ stats:
   aspeed: '20.9'
   multi: '21.6'
   vselemental: +2,079
-effects: '**Harrowing Mien**'
+effect_name: Harrowing Mien
+effects: "- When Equipped:\n  - Increases DPS of caster by 14.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 210770511 1276835980:Ring of Discernment\/a
 categories:
 - Ability Modifier (Equipment)

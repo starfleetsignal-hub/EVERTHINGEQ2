@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Overwhelming Power**'
+effect_name: Overwhelming Power
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Overwhelming Power II on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 2.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Overwhelming Power II on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Potency of target by 2.0.\n    - Increases Potency of caster by 2.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 20) from [[Ancient Knowledge: Lucid Bracelet of Havoc]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1905749869 -338073535:Lucid Bracelet of Havoc\/a
 categories:

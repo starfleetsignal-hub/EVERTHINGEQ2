@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   abmod: '+431'
   vsarcane: +1,833
-effects: '**Major Siphoning Eulogy**'
+effect_name: Major Siphoning Eulogy
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Major Siphoning Eulogy on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 1,139 - 1,259 piercing damage on target instantly and every 3 seconds.\n    - Heals caster for 1,247 - 1,378 instantly and every 3 seconds.\n    - Increases Crit Bonus of caster by 7.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 650006213 1760580996 0 0 0:Ring of Elemental Enslavement\/a
 categories:
 - Ability Modifier (Equipment)

@@ -24,7 +24,8 @@ stats:
   drating: '237.8'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Greenmist**'
+effect_name: Greenmist
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Greenmist on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 1,274 divine damage on target.\n    - Decreases Mitigation of target vs physical damage by 1,255.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 899102590 938829716:Greenmist\/a
 categories:
 - Ability Modifier (Equipment)

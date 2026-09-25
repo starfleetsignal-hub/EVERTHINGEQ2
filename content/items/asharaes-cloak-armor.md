@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Fighting Spirit**<br>**Featherfall**'
+effect_name: Fighting Spirit, Featherfall
+effects: "- Applies Fighting Spirit when Activated.  Lasts for 12.0 seconds.\n  - The caster's spells deal 5% more damage.\n  - The casting time of Fighting Spirit is 1.0 second and the reuse time of the spell is 3 minutes\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: '*From [[Asharae''s Cloak (crate)|Asharae''s Cloak]] *Legends of Norrath loot card'
 item_link: \aITEM 1187639027 109773590:Asharae's Cloak\/a
 image: images/Asharaes_Cloak_Examine_Window.jpg

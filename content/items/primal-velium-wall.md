@@ -16,7 +16,8 @@ stats:
   dps: '33.2'
   multi: '21.6'
   dtype: Tower Shield
-effects: '**No Quarter**'
+effect_name: No Quarter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast No Quarter II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 15.6.\n    - Increases AE Autoattack of Caster by 40.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 736948613 -257138079 0 0 0:Primal Velium Wall\/a
 categories:
 - Berserker Equipment

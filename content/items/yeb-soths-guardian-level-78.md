@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Precognitive Deception**'
+effect_name: Precognitive Deception
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Precognitive Deception on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Group members (AE) will Dodge 10.0% of incoming attacks.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1927453155 -957781693:Yeb-Soth's Guardian\/a
 categories:
 - Beastlord Equipment

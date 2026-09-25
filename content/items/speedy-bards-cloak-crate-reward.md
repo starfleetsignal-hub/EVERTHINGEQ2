@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**League of Antonica Bard''s Speedy Cloak**'
+effect_name: Featherfall, League of Antonica Bard's Speedy Cloak
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies League of Antonica Bard's Speedy Cloak when Equipped.\n  - Increases speed of caster by 15.0%.\n  - This effect suspends during combat"
 obtained_from: From [[Speedy Bard's Cloak (crate)|Speedy Bard's Cloak]]
 item_link: \aITEM -1024396618 -153781652:Speedy Bard's Cloak\/a
 categories:

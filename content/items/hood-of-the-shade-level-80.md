@@ -17,7 +17,8 @@ stats:
   abmod: '+133'
   multi: '7.7'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM -139974257 598741193:Hood of the Shade\/a
 categories:
 - Ability Modifier (Equipment)

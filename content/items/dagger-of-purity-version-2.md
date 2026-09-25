@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Shadow of Purity**'
+effect_name: Shadow of Purity
+effects: "- Applies Shadow of Purity when Equipped.\n  - On a combat hit this spell may cast Shadow of Purity on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 900\n      - Must be flanking or behind\n    - Increases Threat to target by 1,565\n      - Must be in front of\n    - Cannot be modified except by direct means"
 item_link: \aITEM -405396236 1381617286:Dagger of Purity\/a
 categories:
 - Ability Modifier (Equipment)

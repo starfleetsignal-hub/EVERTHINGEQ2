@@ -17,7 +17,8 @@ stats:
   aspeed: '36.7'
   dps: '28.1'
   multi: '20.5'
-effects: '**Legionnaire''s Resolve**'
+effect_name: Legionnaire's Resolve
+effects: "- When Equipped:\n  - Increases Potency by 4% per member or mercenary in the wearer's raid.\n  - Increases Crit Bonus by 4% per member or mercenary in the wearer's raid."
 item_link: \aITEM 999452426 1711307520:Cindered Gear\/a
 categories:
 - Assassin Equipment

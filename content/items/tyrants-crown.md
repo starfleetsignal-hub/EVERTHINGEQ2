@@ -14,7 +14,8 @@ stats:
   crit: '0.3'
   potency: '0.6'
   dtype: Plate Armor
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 138 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1620846 1758299497:Tyrant's Crown\/a
 categories:
 - Berserker Equipment

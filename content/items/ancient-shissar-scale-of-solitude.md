@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**You''re On Your Own**'
+effect_name: You're On Your Own
+effects: "- When Equipped:\n  - Increases the raid's health by 10,000\n  - Cannot be modified except by direct means\n- Applies You're On Your Own III when Activated.  Lasts for 12.0 seconds.\n  - Increases the caster's health by 10,000 per ally within 35 meters.\n  - Suspends the passive effect for 12 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of You're On Your Own III is 1 minute"
 item_link: \aITEM 951445641 2092236536:Ancient Shissar Scale of Solitude\/a
 categories:
 - Assassin Equipment

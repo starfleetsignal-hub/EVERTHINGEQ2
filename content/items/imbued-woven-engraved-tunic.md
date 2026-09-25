@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '118'
   dtype: Leather Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 30 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 39) from [[Advanced Tailor Volume 39 (Normal)]] *Crafted by [[Tailor]] (level 39) from [[Advanced Tailor Volume 39 (No-Trade)]] *From [[Woven Leather Armor Pack (Level 32 Mastercrafted)]]'
 item_link: \aITEM 2055085804 299783377:Imbued Woven Engraved Tunic\/a
 categories:

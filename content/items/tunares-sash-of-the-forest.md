@@ -17,7 +17,8 @@ stats:
   dps: '38.8'
   multi: '41.7'
   flurry: '0.6'
-effects: '**Woodland Cover**'
+effect_name: Woodland Cover
+effects: "- When Equipped:\n  - This effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Woodland Cover on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI of caster by 250.0.\n    - Increases Reuse Speed of caster by 15.0%.\n    - Increases Casting Speed of caster by 15.0%.\n    - Increases in-combat movement speed of caster by 15.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1664455642 504512753 0 0 0:Tunare's Sash of the Forest\/a
 categories:
 - Assassin Equipment

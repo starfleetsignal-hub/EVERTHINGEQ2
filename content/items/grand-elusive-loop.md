@@ -14,7 +14,8 @@ stats:
   abmod: '+120'
   multi: '8'
   vselemental: '+837'
-effects: '**Free Movement**'
+effect_name: Free Movement
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 item_link: \aITEM 729184562 -1087772362:Grand Elusive Loop\/a
 categories:
 - Ability Modifier (Equipment)

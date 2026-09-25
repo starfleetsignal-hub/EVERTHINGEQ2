@@ -19,7 +19,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Gladiator''s Judgment**'
+effect_name: Gladiator's Judgment
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Gladiator's Judgment on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell has a 4% chance to cast Judgement's Gavel on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 599 crushing damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Gladiator's Judgment on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell has a 4% chance to cast Judgement's Gavel on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 599 crushing damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2041891512 -1587329630:Exalted Crystallized Shadow Persuader\/a
 categories:
 - Beastlord Equipment

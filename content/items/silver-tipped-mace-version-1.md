@@ -20,7 +20,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Silver Forged**'
+effect_name: Silver Forged
+effects: "- When Equipped:\n  - On a combat hit this spell will cast Silver Vulnerability on target of attack.\n    - Inflicts 18 - 23 magic damage on target.\n      - If target is werewolf\n    - Cannot be modified except by direct means"
 obtained_from: '[[Silver Wares]]'
 item_link: \aITEM 676545525 -451743986:Silver Tipped Mace\/a
 categories:

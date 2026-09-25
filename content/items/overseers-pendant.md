@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   abmod: +1,250
-effects: '**Powersiphon**'
+effect_name: Powersiphon
+effects: "- When Equipped:\n  - Increases the wearer's Ability Modifier by 1,200 and Ability Casting Speed by 6% for every enemy who is engaged with the wearer, up to 4,800 Ability Modifier and 24% Ability Casting Speed  maximum"
 item_link: \aITEM -2044128287 -129392570:Overseer's Pendant\/a
 categories:
 - Ability Modifier (Equipment)

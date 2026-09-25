@@ -18,7 +18,8 @@ stats:
   resolve: '32'
   aspeed: '69.5'
   mitinc: '19.6'
-effects: '**Hostile Hymn**<br>**Heightened Hostility**'
+effect_name: Hostile Hymn, Heightened Hostility
+effects: "- Applies Hostile Hymn when Activated.  Lasts for 15.0 seconds.\n  - Increases Max Health of group members (AE) by 5.0%.\n  - Increases Block Chance of group members (AE) by 10.0%.\n  - Requires 50 stacks of Heightened Hostility to cast.\n  - Cannot be modified except by direct means\n  - The casting time of Hostile Hymn is 2.0 seconds and the reuse time of the spell is 2 minutes\n- When Equipped:\n  - When any damage is received this spell will cast Heightened Hostility on caster.  Lasts for 30.0 seconds.\n    - Builds charges of Heightened Hostility.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1217596695 1078949619:Umbral Mote of Loathing\/a
 categories:
 - Assassin Equipment

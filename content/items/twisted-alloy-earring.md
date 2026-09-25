@@ -15,7 +15,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   mitinc: '7.6'
-effects: '**Tortuous Paths**'
+effect_name: Tortuous Paths
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Tortuous Paths on target of spell.  Triggers about 2.4 times per minute.\n    - Inflicts between 800 and 8,000 points of damage based on the target's current health."
 item_link: \aITEM -1916504034 -1876686498:Twisted Alloy Earring\/a
 categories:
 - Census Credits

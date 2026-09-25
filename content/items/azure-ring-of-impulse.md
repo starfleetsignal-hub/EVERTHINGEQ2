@@ -15,7 +15,8 @@ stats:
   abmod: '+252'
   multi: '21.8'
   vselemental: +5,940
-effects: '**Sublime Power**'
+effect_name: Sublime Power
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - Increases Multi Attack of caster by 40.0.\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 525.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Ring of Impulse]] *Made from [[Azure Reactant]]'
 item_link: \aITEM -1499388719 605362804:Azure Ring of Impulse\/a
 image: images/Azure_Ring_of_Impulse.png

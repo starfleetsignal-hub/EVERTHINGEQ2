@@ -17,7 +17,8 @@ stats:
   potency: '2.6'
   abmod: '+62'
   dtype: Leather Armor
-effects: '**Fetter**'
+effect_name: Fetter
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Fetter on target of spell.  Lasts for 8.0 seconds.  Triggers about 4.0 times per minute.\n    - Decreases DPS of target by 6.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Othysis Muravian]] in [[Freethinker Hideout]].'
 item_link: \aITEM -750149889 1641117273:Armguards of Ancient Rituals\/a
 categories:

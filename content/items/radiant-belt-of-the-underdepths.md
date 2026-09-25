@@ -14,7 +14,8 @@ stats:
   critbonus: '5.7'
   potency: '9.8'
   dps: '24.1'
-effects: '**Restorative Counter**'
+effect_name: Restorative Counter
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Restorative Counter IV on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Restorative Counter IV on target.\n      - Heals target for 1,840.\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - Grants a total of 5 triggers of the spell.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 605163651 1257293499:Radiant Belt of the Underdepths\/a
 categories:
 - Assassin Equipment

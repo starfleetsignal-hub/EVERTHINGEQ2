@@ -15,7 +15,8 @@ stats:
   potency: '12.8'
   abmod: '+568'
   vselemental: +2,079
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 4.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1118971854 -1100170094:Modulated Sentinel's Brace of the Wrecker\/a
 categories:
 - Ability Modifier (Equipment)

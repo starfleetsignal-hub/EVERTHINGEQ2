@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.6'
   aspeed: '9.7'
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.0 times per minute.\n    - Heals group members (AE) for 580.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1722514504 2044939047:Festering Band\/a
 categories:
 - Assassin Equipment

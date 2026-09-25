@@ -20,7 +20,8 @@ stats:
   dps: '117.8'
   cbovercap: '+56.3'
   dtype: Buckler
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,813 magic damage on target instantly and every second.\n    - Inflicts an additional 47 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 127117815 -1986797212:Honeybuckler\/a
 categories:
 - Ability Modifier (Equipment)

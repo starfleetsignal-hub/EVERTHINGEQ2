@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   aspeed: '1.5'
   dtype: Plate Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 138 magic damage on target."
 item_link: \aITEM 1684329343 -1074223841:Shimmering Star Breastplate\/a
 categories:
 - Attack Speed (Equipment)

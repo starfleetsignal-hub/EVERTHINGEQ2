@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   vselemental: '+356'
-effects: '**Benevolent Alacrity**'
+effect_name: Benevolent Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 2 percent."
 obtained_from: Sold by [[Tragen Gorschk]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 1445514940 -1475446199:Tragen's Heavy Ring\/a
 categories:

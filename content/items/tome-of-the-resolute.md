@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   mitinc: '6'
-effects: '**Soul of the Serpent**'
+effect_name: Soul of the Serpent
+effects: "- Applies Soul of the Serpent II when Activated.  Lasts for 10.0 seconds.\n  - On a hostile spell cast this spell will cast Soul of the Serpent on target of spell.\n  - Cannot be modified except by direct means\n  - The casting time of Soul of the Serpent II is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1483723889 -174914329:Tome of the Resolute\/a
 categories:
 - AE Autoattack Chance (Equipment)

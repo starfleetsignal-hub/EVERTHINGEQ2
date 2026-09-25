@@ -10,7 +10,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Hillrunner
+effects: "- Applies Call Hillrunner when Activated.\n  - Summons a mount to ride.\n    - Increases your speed by 130%\n  - Increases Fishing, Trapping, Mining, Foresting, Gathering and Transmuting of caster by 23.8"
 obtained_from: Sold by [[Koros Splinterlimb]] (Faction Merchant) in [[Mara]]
 item_link: \aITEM -18847576 799426737:[Hillrunner Pack Horse]\/a
 categories:

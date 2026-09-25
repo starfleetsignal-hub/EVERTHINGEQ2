@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM 515234152 984366404:Reinforced Steelgrip Gloves\/a
 categories:
 - AE Autoattack Chance (Equipment)

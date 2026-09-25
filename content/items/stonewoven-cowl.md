@@ -14,7 +14,8 @@ stats:
   crit: '0.3'
   potency: '0.5'
   dtype: Cloth Armor
-effects: '**Bewilder**'
+effect_name: Bewilder
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Bewilder on target's attacker.  Lasts for 9.0 seconds.\n    - Stuns target\n    - Dispelled when target takes damage\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 578083103 -1258743959:Stonewoven Cowl\/a
 categories:
 - Assassin Equipment

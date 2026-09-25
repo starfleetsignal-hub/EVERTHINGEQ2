@@ -19,7 +19,8 @@ stats:
   drating: '110.32'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Decay**'
+effect_name: Decay
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Cold Swelter on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 464 - 567 cold damage on target.\n    - Inflicts 464 - 567 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 467955848 1153089159:Woven Gloves\/a
 categories:
 - Beastlord Equipment

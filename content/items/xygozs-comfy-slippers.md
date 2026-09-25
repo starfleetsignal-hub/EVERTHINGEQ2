@@ -17,7 +17,8 @@ stats:
   resolve: '375'
   cbovercap: '+1219.5'
   dtype: Cloth Armor
-effects: '**Frictionless**'
+effect_name: Frictionless
+effects: "- Applies Frictionless when Activated.  Lasts for 30.0 seconds.\n  - Terminates after casting three beneficial spells on friendly targets.\n  - Increases effectiveness of heals and wards by 50%.\n  - Prevents caster from being Interrupted due to movement\n  - Cannot be modified except by direct means\n  - The reuse time of Frictionless is 3 minutes"
 item_link: \aITEM 457948956 1895281578:Xygoz's Comfy Slippers\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -18,7 +18,8 @@ stats:
   dps: '23.1'
   multi: '22.1'
   mitinc: '9.1'
-effects: '**Rechanneled Fire**'
+effect_name: Rechanneled Fire
+effects: "- Applies Rechanneled Fire when Activated.  Lasts for 12.0 seconds.\n  - Increases Potency of caster by 457.4.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Rechanneled Fire is 2.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1846850202 1832929746:Fluttering Wing Trinket\/a
 categories:
 - Assassin Equipment

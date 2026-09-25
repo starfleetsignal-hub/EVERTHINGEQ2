@@ -16,7 +16,8 @@ stats:
   potency: '2.7'
   abmod: '+68'
   dtype: Cloth Armor
-effects: '**Panicked Sorcery**'
+effect_name: Panicked Sorcery
+effects: "- When Equipped:\n  - Increases Casting Speed of caster by 10.0%.\n  - Decreases Ministration, Ordination, Subjugation and Disruption of caster by 20.0."
 item_link: \aITEM 1380594474 914569170:Crimson Robe of Alendine\/a
 categories:
 - Ability Modifier (Equipment)

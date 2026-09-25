@@ -19,7 +19,8 @@ stats:
   multi: '14.5'
   flurry: '6.2'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[Category:The Three Generals|The Three Generals]] in [[Tallon's Stronghold]]
 item_link: \aITEM 1508699265 -1971101560:Sublime Cuffs of the Gambler\/a
 categories:

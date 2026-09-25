@@ -20,7 +20,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Phantasmal Siphon**'
+effect_name: Phantasmal Siphon
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon III on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 2,369 - 2,618 poison damage on target\n    - Heals caster for 1,185 - 1,309\n    - Decreases Mitigation of target vs physical damage by 1,339.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1497662592 1894195292:Primeval Satchel of the Analyzer\/a
 categories:
 - AE Autoattack Chance (Equipment)

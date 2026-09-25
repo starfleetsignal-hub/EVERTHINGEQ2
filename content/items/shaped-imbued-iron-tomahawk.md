@@ -15,7 +15,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 19 - 29 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1038736790 752682728:shaped imbued iron tomahawk\/a
 categories:
 - Assassin Equipment

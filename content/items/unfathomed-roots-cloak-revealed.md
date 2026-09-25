@@ -17,7 +17,8 @@ stats:
   critbonus: 1,385.7
   potency: 52,704.7
   resolve: '660'
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 35,187.5.\n  - Increases Fervor Overcap of caster by 68.4.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1355795 770725816:Unfathomed Roots Cloak, Revealed\/a
 categories:
 - Assassin Equipment

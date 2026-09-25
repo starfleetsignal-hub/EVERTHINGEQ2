@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Free Movements**'
+effect_name: Free Movements
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Free Movements on target.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Prevents AOE (except when direct)\n    - Can only trigger if no allies are within 7 meters of the caster\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -708853887 1107033299:Swiftclaw's Bracelet of Action\/a
 categories:
 - AE Autoattack Chance (Equipment)

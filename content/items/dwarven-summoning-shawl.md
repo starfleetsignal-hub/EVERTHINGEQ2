@@ -12,7 +12,8 @@ stats:
   sta: '+12'
   mit: '63'
   dtype: Cloth Armor
-effects: '**Summon Stormguard**'
+effect_name: Summon Stormguard
+effects: "- Applies Summon Stormguard when Activated.  Lasts for 30.0 seconds.\n  - Summons a limited pet to aid the caster\n  - The casting time of Summon Stormguard is 2.0 seconds and the reuse time of the spell is 15 minutes\n  - Requires 117 Power to cast."
 item_link: \aITEM -771974380 -1370579336:Dwarven Summoning Shawl\/a
 categories:
 - Assassin Equipment

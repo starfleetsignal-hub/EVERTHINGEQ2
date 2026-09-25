@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**Act of Survival**'
+effect_name: Act of Survival
+effects: "- When Equipped:\n  - When any damage is received this spell has a 8% chance to cast Act of Survival on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 239 magic damage on target.\n    - Heals caster for 146.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 261749425 -1858555654:Survival Accord Badge\/a
 categories:
 - Ability Modifier (Equipment)

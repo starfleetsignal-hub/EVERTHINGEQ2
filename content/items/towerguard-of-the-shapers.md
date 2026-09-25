@@ -19,7 +19,8 @@ stats:
   aspeed: '51.6'
   mitinc: '26.1'
   dtype: Tower Shield
-effects: '**Arcane Rending**'
+effect_name: Arcane Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 3%.\n    - Inflicts 1,801 magic damage on target instantly and every second.\n    - Inflicts an additional 46 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Majestrix''s Trust]]'
 item_link: \aITEM 711077432 2037649180:Towerguard of the Shapers\/a
 image: images/Towerguard_of_the_Shapers.png

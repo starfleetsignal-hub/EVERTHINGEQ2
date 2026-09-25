@@ -9,7 +9,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: 10.0 seconds
-effects: Antidote Inoculation
+effects: "- Applies Antidote Inoculations when Activated.\n  - Inoculates test subject"
 obtained_from: From [[Hrath Everstill]] for [[Some Testing Required]]
 used_in_quest: '[[Some Testing Required]]'
 categories:

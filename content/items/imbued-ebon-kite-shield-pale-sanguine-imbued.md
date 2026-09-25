@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   vselemental: '+147'
   dtype: Kite Shield
-effects: '**Pale Sanguine Imbued**'
+effect_name: Pale Sanguine Imbued
+effects: "- Applies Pale Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Sanguine Feedback on target's attacker.\n    - Inflicts 72 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -592691630 1430976581:Imbued Ebon Kite Shield\/a
 categories:
 - Arcane Resistance (Equipment)

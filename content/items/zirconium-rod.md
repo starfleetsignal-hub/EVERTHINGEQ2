@@ -17,7 +17,8 @@ stats:
   potency: 2,812.5
   resolve: '35'
   flurry: '37'
-effects: '**Lycanthropy**'
+effect_name: Lycanthropy
+effects: "- Applies Lycanthropy when Activated.  Lasts for 30.0 seconds.\n  - Shapechanges caster into a werewolf\n  - Shrinks caster by 25.0%.\n  - Increases Ability Doublecast of caster by 1.2.\n  - Grants a 100.0% chance to resist Stun effects\n  - Cannot be modified except by direct means\n  - The casting time of Lycanthropy is 2.0 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -305286885 -279726209:Zirconium Rod\/a
 categories:
 - AE Autoattack Chance (Equipment)

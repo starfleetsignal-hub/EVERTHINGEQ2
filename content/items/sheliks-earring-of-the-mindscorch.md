@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   vselemental: +1,782
-effects: '**Mercurial Flux**'
+effect_name: Mercurial Flux
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 6.0.\n  - Increases Haste of caster by 16.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1827035891 -1438161503:Shelik's Earring of the Mindscorch\/a
 categories:
 - Ability Modifier (Equipment)

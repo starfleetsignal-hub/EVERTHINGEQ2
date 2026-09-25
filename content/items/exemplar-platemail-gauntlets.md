@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   aspeed: '118.4'
   dtype: Plate Armor
-effects: '**Grasp of Nightmares**'
+effect_name: Grasp of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Warden of Nightmares."
 obtained_from: From [[Satchel of the Nightmare Warden]]
 item_link: \aITEM -2138271386 627203690:Exemplar  Platemail Gauntlets\/a
 categories:

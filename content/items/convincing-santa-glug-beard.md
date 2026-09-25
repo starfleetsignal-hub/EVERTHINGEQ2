@@ -11,7 +11,8 @@ stats:
   agi: '+1'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 obtained_from: Sold by [[Gerbi Frostfoot]] (Merchant) in [[Frostfell Wonderland Village]]
 item_link: \aITEM -1626404779 761677809:Convincing Santa Glug Beard\/a
 categories:

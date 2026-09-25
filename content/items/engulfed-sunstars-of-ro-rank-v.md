@@ -23,7 +23,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Blessing of the Burning Prince**'
+effect_name: Blessing of the Burning Prince
+effects: "- When Equipped:\n  - \"Blessing of the Burning Prince\" protects the wearer from strong deific magics used by Solusek Ro!"
 obtained_from: '*Made from [[Ethereal Writings: Engulfed Sunstars of Ro]] *[[Ethereal: Engulfed Sunstars of Ro]]'
 item_link: \aITEM 1929282398 -1588977303:Engulfed Sunstars of Ro [Rank V]\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   multi: '6.4'
   vselemental: '+356'
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM -417657718 156938942:Dark Knight's Wristwrap\/a
 categories:
 - Arcane Resistance (Equipment)

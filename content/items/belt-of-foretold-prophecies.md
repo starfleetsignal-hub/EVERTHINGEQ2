@@ -16,7 +16,8 @@ stats:
   potency: '12.8'
   aspeed: '20.9'
   dps: '33.2'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 60.0.\n  - Increases Potency of caster by 4.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1898720428 -927960636 0 0 0:Belt of Foretold Prophecies\/a
 categories:
 - Assassin Equipment

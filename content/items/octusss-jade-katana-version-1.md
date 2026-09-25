@@ -20,7 +20,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Wave of Wrath**'
+effect_name: Wave of Wrath
+effects: "- Applies Wave of Wrath when Activated.\n  - Inflicts 3,240 disease damage on targets in Area of Effect.\n  - The casting time of Wave of Wrath is 3.0 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 1253181793 -2066666670:Octuss's Jade Katana\/a
 aliases:
 - Octuss's Jade Katana (Level 80)

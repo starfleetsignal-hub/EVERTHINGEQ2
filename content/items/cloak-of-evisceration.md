@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   multi: '10.5'
-effects: '**Followthrough**'
+effect_name: Followthrough
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sentinel''s Fate Rare Named]]'
 item_link: \aITEM -1110461477 970340650:Cloak of Evisceration\/a
 categories:

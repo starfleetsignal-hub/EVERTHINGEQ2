@@ -17,7 +17,8 @@ stats:
   abmod: +1,142
   dps: '43.4'
   dtype: Symbols
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: '*Collection reward: [[Lost Dwarven Caravan (Collection) (Version 2)]] *Collection reward: [[Lost Dwarven Caravan (Collection)]]'
 item_link: \aITEM -918221881 1377709446:Aphotic Etched Symbol\/a
 image: images/Aphotic_Etched_Symbol.png

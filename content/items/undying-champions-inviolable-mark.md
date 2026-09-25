@@ -18,7 +18,8 @@ stats:
   resolve: '6'
   dps: '29'
   flurry: '18.4'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 38.1.\n  - Dazes caster\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1473232268 -1712620523:Undying Champion's Inviolable Mark\/a
 categories:
 - Assassin Equipment

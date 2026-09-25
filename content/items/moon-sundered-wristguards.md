@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Leather Armor
-effects: '**Arcane Languid Pace**'
+effect_name: Arcane Languid Pace
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Arcane Languid Pace V on target of spell.  Lasts for 24.0 seconds.  Triggers about 2.2 times per minute.\n    - Decreases Haste of target by 14.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1617117273 722747794:Moon Sundered Wristguards\/a
 categories:
 - Ability Modifier (Equipment)

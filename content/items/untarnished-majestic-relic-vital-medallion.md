@@ -17,7 +17,8 @@ stats:
   critbonus: 1,345.4
   potency: 45,356.9
   resolve: '545'
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Crit Bonus of caster by 836.6.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 502378680 926493892:Untarnished Majestic Relic Vital Medallion\/a
 categories:
 - Assassin Equipment

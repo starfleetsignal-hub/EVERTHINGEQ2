@@ -20,7 +20,8 @@ stats:
   drating: '176.09'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Sacred Territory**<br>**Ancient Invigoration**'
+effect_name: Sacred Territory, Ancient Invigoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Sacred Territory on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 1,200 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell may cast Ancient Invigoration on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 1,000 points of all damage\n    - Replenishes 250 points of absorption every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1169296708 -168913929:Mace of Spirits\/a
 categories:
 - Ancient Invigoration (Equipment)

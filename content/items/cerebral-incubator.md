@@ -16,7 +16,8 @@ stats:
   critbonus: 1,038.6
   potency: 12,228.5
   resolve: '275'
-effects: '**Mind Bugs**'
+effect_name: Mind Bugs
+effects: "- Applies Mind Bugs when Activated.  Lasts for 2 hours.\n  - Increases Max Health of caster by 9.9%.\n  - Increases Max Power of caster by 9.9%.\n  - Increases Crit Bonus Overcap of caster by 27.4.\n  - Reduces power cost of all spells and abilities by 5%.\n  - If used while Brawl for One is maintained, gain a portion of those effects.\n  - Cannot be modified except by direct means\n  - The casting time of Mind Bugs is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -96609843 1320890435:Cerebral Incubator\/a
 categories:
 - Ability Doublecast (Equipment)

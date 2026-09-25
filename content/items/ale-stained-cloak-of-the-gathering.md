@@ -7,7 +7,8 @@ level: '1'
 slot: Cloak
 flags: lore no-trade no-value
 description: A cloak woven from memories of a fond time with friends gathered together from beyond the realm of Norrath.
-effects: '**Hanging Cloak**'
+effect_name: Hanging Cloak
+effects: "- Applies Hanging Cloak when Activated.\n  - Summon 1 [[Ale-stained Tapestry of the Gathering]]\n  - This effect cannot be cast during combat\n  - The casting time of Hanging Cloak is 2.0 seconds and the reuse time of the spell is 5.0 seconds"
 obtained_from: Originally was only for registered attendies of FanFaire2008, (reports of people that did not go claiming one are also true)
 item_link: \aITEM 612683004 -1425517298:Ale-stained Cloak of the Gathering\/a
 image: images/Ale-stained_Cloak_of_the_Gathering.jpg

@@ -17,7 +17,9 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Cloth Armor
-effects: '**Toxic Avenger**<br>**Greater Void Bane**<br>**Empyrean Recovery**'
+effect_name: Toxic Avenger, Greater Void Bane, Empyrean Recovery
+effects: "- When Equipped:\n  - Applies Toxic Avenger to qualifying pets.\n    - Wards caster against 485 points of noxious damage\n    - On any combat or spell hit this spell may cast Toxic Revenge on target of attack.  Triggers about 2.0 times per minute.\n      - Inflicts 216 poison damage on target.\n      - Inflicts 216 disease damage on target.\n- When Equipped:\n  - Additional equipment with Void Bane improves this effect.\n  - On any combat or spell hit this spell may cast Greater Void Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 486 mental damage on target.\n      - Must not be classified as a void beast\n      - Must not be classified as a shadowed folk\n    - Inflicts 972 mental damage on target.\n      - If any of the following are true:\n        - Must be classified as a void beast\n        - Must be classified as a shadowed folk\n    - Decreases Mitigation of target vs arcane damage by 720.\n      - If any of the following\
+  \ are true:\n        - Must be classified as a void beast\n        - Must be classified as a shadowed folk\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Spell Reuse Speed of caster by 5.0%."
 item_link: \aITEM 1804891598 1755237285:Threaded Void Robe of Distraction\/a
 categories:
 - Ability Modifier (Equipment)

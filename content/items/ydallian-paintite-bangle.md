@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   vsnoxious: '+400'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 obtained_from: 'Collection reward: [[Mistmoore''s Artifacts]]'
 item_link: \aITEM -838029237 -31556999:Ydallian Paintite Bangle\/a
 image: images/Ydallian_Paintite_Bangle.png

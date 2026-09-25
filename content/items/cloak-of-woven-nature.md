@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Nature''s Weave**'
+effect_name: Featherfall, Nature's Weave
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Nature's Weave when Activated.\n  - Symbols of nature surround you.\n  - The casting time of Nature's Weave is 1.0 second and the reuse time of the spell is 10.0 seconds"
 obtained_from: Marketplace (500 Daybreak Cash)
 item_link: \aITEM -1120236964 -2042808640:Cloak of Woven Nature\/a
 categories:

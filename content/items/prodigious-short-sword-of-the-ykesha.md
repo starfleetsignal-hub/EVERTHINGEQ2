@@ -20,7 +20,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Ykeshan Obliteration Smite**'
+effect_name: Ykeshan Obliteration Smite
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Ykeshan Obliteration Smite on target of attack.  Lasts for 2.5 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,898 - 2,098 magic damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Resistibility increases against targets higher than level 113.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1591225345 -1792158227:Prodigious Short Sword of the Ykesha\/a
 events:
 - Chronoportal Phenomenon

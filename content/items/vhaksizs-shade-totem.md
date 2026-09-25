@@ -18,7 +18,8 @@ stats:
   resolve: '20'
   aspeed: '41.6'
   flurry: '11'
-effects: '**Perfect Being**'
+effect_name: Perfect Being
+effects: "- Applies Perfect Being when Activated.  Lasts for 10.0 seconds.\n  - Increases Fervor of caster by 38.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Being is 3.0 seconds and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1970975587 -757128894:Vhaksiz's Shade Totem\/a
 categories:
 - Assassin Equipment

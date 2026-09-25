@@ -14,7 +14,8 @@ stats:
   crit: '107.6'
   critbonus: '13'
   potency: '13'
-effects: '**Shared Dragonsbane**<br>**Dragonsbane**'
+effect_name: Shared Dragonsbane, Dragonsbane
+effects: "- Applies Shared Dragonsbane when Activated.\n  - Protects the group from powerful Draconic abilities within Temple of Veeshan!\n- When Equipped:\n  - Protects the wearer from powerful Draconic abilities within Temple of Veeshan! This protection does not take effect for a few seconds after a resurrection."
 item_link: \aITEM -1144713896 1004855847:Bounding Dreadscale Wrap\/a
 aliases:
 - Bounding Dreadscale Wrap (1 Gem)

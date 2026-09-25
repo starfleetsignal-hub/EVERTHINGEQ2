@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +15,652
-effects: '**Riftblade**'
+effect_name: Riftblade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Riftblade III on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 281,600 crushing damage on targets in Area of Effect.\n    - Does not apply to the target it triggered on\n    - Cannot be modified except by direct means"
 item_link: \aITEM -352097518 232591604:Forceful Chain of the Riftblade\/a
 image: images/Forceful_Chain_of_the_Riftblade.png
 categories:

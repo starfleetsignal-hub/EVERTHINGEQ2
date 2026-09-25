@@ -24,7 +24,8 @@ stats:
   drating: '343.43'
   dtype: Two-Handed Crushing
   wtype: Mace
-effects: '**Thunder Strike**'
+effect_name: Thunder Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 901 - 1,101 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -400165099 2030020629:Bone Bladed Claymore\/a
 categories:
 - Beastlord Equipment

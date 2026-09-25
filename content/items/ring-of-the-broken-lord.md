@@ -16,7 +16,8 @@ stats:
   aspeed: '98.4'
   vselemental: +9,554
   mitinc: '4'
-effects: '**Fabled Vengeance**'
+effect_name: Fabled Vengeance
+effects: "- When Equipped:\n  - Increases STA of caster by 25.0.\n  - Increases Hate Gain of caster by 3.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 obtained_from: '*Made from [[A fabled platinum key]] *[[Platinum Key of Fabled Rujark]]'
 item_link: \aITEM 967297485 -1491616995:Ring of the Broken Lord\/a
 categories:

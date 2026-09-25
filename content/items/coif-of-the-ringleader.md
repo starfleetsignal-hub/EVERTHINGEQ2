@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Chain Armor
-effects: '**Quick Reprieve**'
+effect_name: Quick Reprieve
+effects: "- When Equipped:\n  - When damaged this spell has a 5% chance to cast Quick Reprieve on caster.  Lasts for 24.0 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 391686785 -1288771855:Coif of the Ringleader\/a
 categories:
 - Ability Modifier (Equipment)

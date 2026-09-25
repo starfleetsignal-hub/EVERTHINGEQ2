@@ -6,7 +6,8 @@ icon: images/Item_3847.png
 tier: Fabled
 slot: Cloak
 flags: lore-equip attunable heirloom
-effects: '**Featherfall**<br>**Sky Glide**'
+effect_name: Featherfall, Sky Glide
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Sky Glide when Activated.  Lasts for 30.0 seconds.\n  - Allows caster to jump farther\n  - Cannot be modified except by direct means\n  - The casting time of Sky Glide is 1.0 second and the reuse time of the spell is 3 minutes"
 obtained_from: Marketplace (750 Daybreak Cash)
 item_link: \aITEM -1002054709 -632918364:Wings of the Fallen\/a
 categories:

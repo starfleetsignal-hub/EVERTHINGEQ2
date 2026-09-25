@@ -16,7 +16,8 @@ stats:
   potency: '5'
   aspeed: '6.9'
   dtype: Cloth Armor
-effects: '**Omission**'
+effect_name: Omission
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Omission on target of spell.  Triggers about 2.0 times per minute.\n    - Decreases Threat to target encounter by 1,000\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -937854628 -938176757 0 0 0:Scintillating Silk Robe\/a
 categories:

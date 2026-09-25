@@ -14,7 +14,9 @@ stats:
   critbonus: '6.6'
   potency: '11'
   dps: '28.8'
-effects: '**Velium Tempest**<br>**Overbearing Onslaught**'
+effect_name: Velium Tempest, Overbearing Onslaught
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Velium Tempest III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 4,113 - 4,545 heat damage on target encounter.\n    - Decreases Mitigation of target encounter vs elemental damage by 1,787.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Overbearing Onslaught III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell\
+  \ cast this spell may cast Overbearing Onslaught III on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 11.0.\n    - Increases Slashing, Crushing, Piercing and Ranged of caster by 11.5.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1413036516 573420980:Vyskudra's Amulet of Storms\/a
 categories:
 - AE Autoattack Chance (Equipment)

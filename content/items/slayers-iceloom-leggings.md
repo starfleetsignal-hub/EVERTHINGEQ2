@@ -16,7 +16,8 @@ stats:
   potency: '1.1'
   abmod: '+26'
   dtype: Cloth Armor
-effects: '**Panic**'
+effect_name: Panic
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Panic on target's attacker.  Lasts for 3.5 seconds.\n    - Makes target afraid\n    - 25% chance to dispel when target takes damage\n    - 25% chance to dispel when target receives hostile action\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 69.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 555982252 -1912785419:Slayer's Iceloom Leggings\/a
 categories:
 - Ability Modifier (Equipment)

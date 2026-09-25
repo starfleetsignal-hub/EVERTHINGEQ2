@@ -16,7 +16,8 @@ stats:
   abmod: '+217'
   dps: '18.8'
   dtype: Symbols
-effects: '**Immaculate Perception**'
+effect_name: Immaculate Perception
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Immaculate Perception on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Immaculate Perception on target.  This effect normalizes based off of a three second triggering event.\n      - Heals caster for 1,712.\n      - Cannot be modified except by direct means\n      - Grants a total of 2 triggers of the spell.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -918351006 -2044767112:Barrier of Elemental Lore and Understanding\/a
 categories:
 - AE Autoattack Chance (Equipment)

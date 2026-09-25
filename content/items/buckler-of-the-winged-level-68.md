@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.8'
   dtype: Buckler
-effects: '**Winged Deterrent**'
+effect_name: Winged Deterrent
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Winged Deterrent on target of spell.  Triggers about 1.8 times per minute.\n    - Decreases Threat to target by 650\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1489527879 944354387:Buckler of the Winged\/a
 categories:
 - Berserker Equipment

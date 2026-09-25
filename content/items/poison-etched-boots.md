@@ -15,7 +15,8 @@ stats:
   potency: '0.6'
   abmod: '+17'
   dtype: Chain Armor
-effects: '**Stupor**'
+effect_name: Stupor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Stupor on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases DPS of target by 6.7 - 11.2.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 496899250 936774852:Poison Etched Boots\/a
 categories:
 - Ability Modifier (Equipment)

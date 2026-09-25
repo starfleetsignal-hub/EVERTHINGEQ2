@@ -12,7 +12,8 @@ stats:
   agi: '+13'
   potency: '0.2'
   dps: '1.1'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 491.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM -1895191598 -737862573:ruin imbued linen hex doll\/a
 categories:
 - Assassin Equipment

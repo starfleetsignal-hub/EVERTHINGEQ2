@@ -20,7 +20,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Acute Scorpikis Poison**'
+effect_name: Acute Scorpikis Poison
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Acute Necrosis on target of spell.  Triggers about 1.6 times per minute.\n    - Inflicts 996 poison damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Anaphylaxis (Quest)|Anaphylaxis]]'
 item_link: \aITEM 510365578 -761524792:Staff of the Impaler\/a
 categories:

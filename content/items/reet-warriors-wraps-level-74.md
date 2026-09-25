@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Leather Armor
-effects: '**Lesser Smash**'
+effect_name: Lesser Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.0 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 91.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Steel To Be Stole]]'
 item_link: \aITEM -562205571 -1218355815:Reet Warrior's Wraps\/a
 categories:

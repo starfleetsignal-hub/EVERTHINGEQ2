@@ -17,7 +17,8 @@ stats:
   potency: 2,010.7
   resolve: '25'
   abmod: +10,881
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: Sold by [[Fracture (Freeport)]] and [[Fracture (Qeynos)]]
 item_link: \aITEM 2068153464 1047335969:Cloak of Flames\/a
 categories:

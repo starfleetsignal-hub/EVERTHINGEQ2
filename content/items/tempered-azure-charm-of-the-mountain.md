@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   abmod: '+405'
   dps: '27.9'
-effects: '**Tempered Soul**'
+effect_name: Tempered Soul
+effects: "- When Equipped:\n  - Increases STA and STR of caster by 25.0.\n  - Gives caster an extra 2.0% mitigation to their worn armor.\n  - Increases Strikethrough of caster by 2.0%."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of the Mountain]] *Made from [[Mound of Electrified Coral]] *Made from [[Stiff Siren Fin]] *Made from [[Tavalan Tentacle]]'
 item_link: \aITEM -762462447 -275492126:Tempered Azure Charm of the Mountain\/a
 categories:

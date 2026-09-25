@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 4 percent."
 item_link: \aITEM -1740941264 1431469692 0 0 0:Spiritual Gloves from Beyond the Portal\/a
 categories:
 - Casting Speed (Equipment)

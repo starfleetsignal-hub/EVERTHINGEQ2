@@ -18,7 +18,8 @@ stats:
   resolve: '505'
   abmod: +3362,005
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 30 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 542333301 -629700881:Mausoleum Nocturne Chain Mantle\/a
 categories:
 - Ability Modifier (Equipment)

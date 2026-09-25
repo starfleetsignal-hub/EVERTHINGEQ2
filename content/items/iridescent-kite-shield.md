@@ -15,7 +15,8 @@ stats:
   aspeed: '0.8'
   flurry: '0.8'
   dtype: Tower Shield
-effects: '**Languor**'
+effect_name: Languor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Languor on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases DPS of target encounter by 5.7 - 9.5.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1665535484 1345123711:Iridescent Kite Shield\/a
 categories:
 - Attack Speed (Equipment)

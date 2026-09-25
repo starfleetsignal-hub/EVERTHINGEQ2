@@ -18,7 +18,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Fire Ball**'
+effect_name: Fire Ball
+effects: "- Applies Fire Ball when Activated.\n  - Inflicts 330 - 551 heat damage on target.\n  - The casting time of Fire Ball is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 1469198627 -1449629685:shaped heat imbued ebony wand\/a
 categories:
 - Berserker Equipment

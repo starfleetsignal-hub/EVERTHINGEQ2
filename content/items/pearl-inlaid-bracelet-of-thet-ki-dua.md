@@ -16,7 +16,8 @@ stats:
   potency: 53,929.3
   resolve: '670'
   vselemental: +450,563
-effects: '**Grasp of Thet**'
+effect_name: Grasp of Thet
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 35.0.\n    - If NOT Fighter.\n  - Increases Hate Gain of caster by 35.0.\n    - If Fighter.\n  - Increases in-combat movement speed of caster by 35.0%.\n  - Increases Potency of caster by 29,032.6.\n  - You must be within a Rage of Cthurath Raid or Untold Dungeon zone for this effect to apply."
 item_link: \aITEM -1653509366 -848540064:Pearl-Inlaid Bracelet of Thet-ki-dua\/a
 categories:
 - Arcane Resistance (Equipment)

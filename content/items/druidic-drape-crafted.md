@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+137'
   dps: '12.8'
-effects: '**Mana Leak**'
+effect_name: Mana Leak
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Mana Leak on target of spell cast.  Triggers about 2.0 times per minute.\n    - Increases power of target by 337.\n    - Decreases power of caster by 306.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume III]]
 item_link: \aITEM 751242610 -1557696514 0 0 0:Druidic Drape\/a
 categories:

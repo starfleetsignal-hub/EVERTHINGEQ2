@@ -18,7 +18,8 @@ stats:
   drating: '44.74'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,769\n      - Must be flanking or behind\n    - Increases Threat to target by 2,434\n      - Must be in front of\n    - Inflicts 126 - 233 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 46) from [[Advanced Weaponsmith Volume 46 (Normal)]] *Crafted by [[Weaponsmith]] (level 46) from [[Advanced Weaponsmith Volume 46 (no-trade)]]'
 item_link: \aITEM -1900954403 -256166934:Imbued Ebon Lance\/a
 categories:

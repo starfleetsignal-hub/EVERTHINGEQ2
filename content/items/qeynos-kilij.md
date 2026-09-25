@@ -20,7 +20,8 @@ stats:
   drating: '70.93'
   dtype: Main Hand Piercing
   wtype: Rapier
-effects: '**Power of Marr**'
+effect_name: Power of Marr
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Power of Marr on target of spell.\n    - Inflicts 370 - 616 divine damage on target.\n    - Cannot be modified except by direct means\n  - On a hostile ability cast this spell has a 15% chance to cast Punishment of Marr on target of spell.  Lasts for 36.0 seconds.\n    - Reduces target's spell damage by 10%.\n    - Only affects targets level 83 and below\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Final Froglok Word]]'
 item_link: \aITEM -1224957114 2129995591:Qeynos Kilij\/a
 categories:

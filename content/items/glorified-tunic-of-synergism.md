@@ -16,7 +16,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Leather Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Tailor]] (level 80) from [[Ancient Knowledge: Glorified Tunic of Synergism]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -1978230728 1750219440:Glorified Tunic of Synergism\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   resolve: '7'
   aspeed: '42.1'
   flurry: '22.1'
-effects: '**Brutal Assault**<br>**All for One**'
+effect_name: Brutal Assault, All for One
+effects: "- When Equipped:\n  - The bruisers Savage Assault ability will now strike opponents twice as often and deal increased damage.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM 2101970464 1553356587:Battlerager's Cloak\/a
 categories:
 - All for One (Equipment)

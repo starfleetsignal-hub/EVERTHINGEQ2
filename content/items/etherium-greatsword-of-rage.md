@@ -24,7 +24,8 @@ stats:
   drating: '323.09'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.2%.\n    - Inflicts 5,781 heat damage on target.\n    - Inflicts 5,781 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Weaponsmith]] (level 106) from [[Weaponsmith Essentials Volume 106]]
 item_link: \aITEM -1848434394 -367345177:Etherium Greatsword of Rage\/a
 categories:

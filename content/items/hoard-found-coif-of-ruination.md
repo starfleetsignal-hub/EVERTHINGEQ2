@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   flurry: '78.1'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 620505075 -220183779:Hoard Found Coif of Ruination\/a
 categories:
 - Assassin Equipment

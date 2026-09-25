@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +26,832
-effects: '**Amplifying Criticals**'
+effect_name: Amplifying Criticals
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 84%-176%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM -270948594 1888482041:Band of Deepend Malice\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -19,7 +19,8 @@ stats:
   vsarcane: '+615'
   vsnoxious: +1,066
   dtype: Plate Armor
-effects: '**Magical Alacrity**<br>**Haste**'
+effect_name: Magical Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of all spells by 2 percent.\n- When Equipped:\n  - Increases Attack Speed of caster by 35"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume I]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (the Shard Armor Merchant) at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 1749365371 -1941643978:Zealot's Steel Gauntlets\/a
 categories:

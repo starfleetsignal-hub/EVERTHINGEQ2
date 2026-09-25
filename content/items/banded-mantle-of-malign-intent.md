@@ -17,7 +17,8 @@ stats:
   potency: 2,957.1
   resolve: '35'
   abmod: +31,580
-effects: '**Aegis of Animosity**'
+effect_name: Aegis of Animosity
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 7.0%.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -467738894 -1164060564:Banded Mantle of Malign Intent\/a
 categories:
 - Ability Modifier (Equipment)

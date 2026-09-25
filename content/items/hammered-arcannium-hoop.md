@@ -17,7 +17,8 @@ stats:
   aspeed: '34.5'
   dps: '13.2'
   vselemental: +29,243
-effects: '**Uplifting Blows**'
+effect_name: Uplifting Blows
+effects: "- When Equipped:\n  - Increases Flurry of Caster by 18.8."
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM 1681079300 -869326008:Hammered Arcannium Hoop\/a
 categories:

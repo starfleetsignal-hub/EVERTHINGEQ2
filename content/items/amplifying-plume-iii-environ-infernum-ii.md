@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Textures
 flags: ornate no-trade no-value
-effects: '**Environ Infernum**'
+effect_name: Environ Infernum
+effects: "- Applies Environ Infernum when Equipped.\n  - When damaged this spell has a 15% chance to cast Environ Infernum II on target.\n    - When triggered an area attack will be made both on the caster and on any group members equipped with an Amplifying Plume II effect.\n    - Inflicts 4,258 - 5,205 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means"
 obtained_from: 'Achievement reward: [[The Hunt Continues I]]'
 item_link: '\aITEM -570814932 829226515:Amplifying Plume III: Environ Infernum II\/a'
 categories:

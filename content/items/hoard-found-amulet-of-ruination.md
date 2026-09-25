@@ -17,7 +17,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   flurry: '78.1'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -845685327 -1180970061:Hoard Found Amulet of Ruination\/a
 categories:
 - Assassin Equipment

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Aura of Stamina**'
+effect_name: Aura of Stamina
+effects: "- When Equipped:\n  - When any damage is received this spell has a 3% chance to cast Spark of Stamina on caster.  Lasts for 45.0 seconds.\n    - Increases STA of caster by 2.7.\n    - Increases Combat Health Regen of caster by 12.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Scholar]] (level 16) from [[Scholar essentials volume 16 (Normal)]] *Crafted by [[Scholar]] (level 16) from [[Scholar Essentials Volume 16 (no-trade)]]'
 item_link: \aITEM -2038476123 -242167132:Imbued Turquoise Ring of Stamina\/a
 image: images/Imbued_Turquoise_Ring_of_Stamina.png

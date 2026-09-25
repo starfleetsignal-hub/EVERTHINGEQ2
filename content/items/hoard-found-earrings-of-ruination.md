@@ -17,7 +17,8 @@ stats:
   resolve: '525'
   multi: '35.7'
   vselemental: +367,510
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 40 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1112680585 -2009942111:Hoard Found Earrings of Ruination\/a
 categories:
 - Arcane Resistance (Equipment)

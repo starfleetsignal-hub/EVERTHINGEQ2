@@ -16,7 +16,8 @@ stats:
   potency: '3.9'
   vselemental: '+360'
   mitinc: '4.2'
-effects: '**Banshee''s Wail**'
+effect_name: Banshee's Wail
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Banshee's Wail on target of attack.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases STR and INT of target by 50.0.\n    - Decreases DPS of target by 5.0.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -896629042 -1325592476:Howling Hoop\/a
 aliases:
 - Howling Hoop (Fabled)

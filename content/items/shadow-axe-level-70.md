@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Flickering Doom**'
+effect_name: Flickering Doom
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flickering Death on target of attack.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 135 - 250 divine damage on target.\n    - Inflicts 63 - 116 divine damage on target every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 98786419 1934749213:Shadow Axe\/a
 image: images/Shadow_Axe.jpg
 aliases:

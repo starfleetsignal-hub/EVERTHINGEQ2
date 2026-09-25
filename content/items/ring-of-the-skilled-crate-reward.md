@@ -7,7 +7,8 @@ tier: Fabled
 level: '1'
 slot: Finger
 flags: ornate lore-equip attunable heirloom no-value
-effects: '**a blessed experience**'
+effect_name: a blessed experience
+effects: "- Applies a blessed experience when Activated.  Lasts for 30 minutes.\n  - Increases Tradeskill XP of caster by 15.0%.\n  - You can only have one experience effect active at a time.\n  - The casting time of a blessed experience is 1.0 second and the reuse time of the spell is 1 day"
 obtained_from: From [[Ring of the Skilled (crate)|Ring of the Skilled]]
 item_link: \aITEM -1569902439 -417420235:Ring of the Skilled\/a
 categories:

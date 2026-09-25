@@ -13,7 +13,8 @@ stats:
   crit: '0.7'
   critbonus: '0.2'
   potency: '1'
-effects: '**Call of Solusek**'
+effect_name: Call of Solusek
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Call of Solusek VI on target of attack.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 512 - 566 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 694.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Call of Solusek VI on target of spell.  Lasts for 14.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 512 - 566 heat damage on target instantly and every 2 seconds.\n    - Decreases Mitigation of target vs elemental damage by 694.\n    - Summons a limited pet to aid the caster\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Provisioner]] (level 60) from [[Ancient Knowledge: Lucid Sash of Agony]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 489798504 -264367385:Lucid Sash of Agony\/a
 categories:

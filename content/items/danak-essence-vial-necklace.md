@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   aspeed: '5.4'
-effects: '**Dextrous Defense**'
+effect_name: Dextrous Defense
+effects: "- When Equipped:\n  - Caster will Riposte 2.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried."
 obtained_from: Crafted by [[Alchemist]] (level 70) from [[Danak Alchemy Volume II]]
 item_link: \aITEM -1433729429 870494300:Danak Essence Vial Necklace\/a
 categories:

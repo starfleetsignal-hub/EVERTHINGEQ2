@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   abmod: '+98'
-effects: '**Fearful Respect**'
+effect_name: Fearful Respect
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 5.0."
 item_link: \aITEM 1772355253 844401486:Belt of Purity\/a
 categories:
 - Ability Modifier (Equipment)

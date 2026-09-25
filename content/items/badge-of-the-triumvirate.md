@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: +1,591
   aspeed: '18'
-effects: '**Boundless Holy**'
+effect_name: Boundless Holy
+effects: "- Applies Boundless Holy when Activated.  Lasts for 45.0 seconds.\n  - Increases Potency of caster by 18.0.\n  - Converts damage spells to divine damage.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Boundless Holy is 0.4 seconds and the reuse time of the spell is 1 minute 30 seconds"
 item_link: \aITEM -1622263163 -1877382988:Badge of the Triumvirate\/a
 categories:
 - Ability Modifier (Equipment)

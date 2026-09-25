@@ -16,7 +16,8 @@ stats:
   potency: '3.8'
   abmod: '+95'
   dtype: Cloth Armor
-effects: '**Lesser Soulsiphon**'
+effect_name: Lesser Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 197.\n    - Increases power of caster by 105.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Stop the Progeny]]'
 item_link: \aITEM 1935214002 -1950270663:Reet Vestments of Retribution\/a
 categories:

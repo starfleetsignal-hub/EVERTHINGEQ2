@@ -14,7 +14,7 @@ stats:
   power: '+90'
   vsarcane: '+423'
   dtype: Buckler
-effects: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When target takes any damage this spell has a 5% chance to cast ***Sanguine Feedback*** on target's attacker.\n    - Inflicts heat damage on target"
 obtained_from: Crafted by [[Woodworker]] (level 70) from [[Advanced Woodworker Volume 70]]
 item_link: 1043554153 530709590:Pristine Imbued Mahogany Buckler
 categories:

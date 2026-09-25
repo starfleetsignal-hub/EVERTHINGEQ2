@@ -16,7 +16,8 @@ stats:
   potency: '5.1'
   aspeed: '7.2'
   dtype: Plate Armor
-effects: '**Empowered Healing**'
+effect_name: Empowered Healing
+effects: "- When Equipped:\n  - Increases base Healing amount by 8%."
 item_link: \aITEM -566606745 -629365419 0 0 0:Righteous Mithril Epaulets\/a
 categories:
 - Attack Speed (Equipment)

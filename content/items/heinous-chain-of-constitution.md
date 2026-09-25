@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**Pact of Constitution**'
+effect_name: Pact of Constitution
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 2.5 and health by 1,000 for each player character member of their group or raid"
 item_link: \aITEM 929979687 -1406103792:Heinous Chain of Constitution\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -24,7 +24,8 @@ stats:
   drating: '1723.68'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 20,490 crushing damage on target.\n    - Increases Crit Bonus of caster by 43.1.\n    - Increases Potency of caster by 67.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1536214025 -1077664825:Edge of Metamorphosis\/a
 categories:
 - Attack Speed (Equipment)

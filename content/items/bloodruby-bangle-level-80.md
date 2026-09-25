@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   vselemental: '+395'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM -847348726 1508200047:Bloodruby Bangle\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   aspeed: '0.1'
   dtype: Plate Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 50) from [[Ancient Knowledge: Devout Bracers of Solace]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 1261496374 -1205551008:Devout Bracers of Solace\/a
 categories:

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.2'
   potency: '1.1'
   dtype: Cloth Armor
-effects: '**Stupor**'
+effect_name: Stupor
+effects: "- When Equipped:\n  - When any damage is received this spell has a 7.5% chance to cast Stupor on target's attacker.  Lasts for 1 minute 12 seconds.\n    - Decreases DPS of target by 7.6 - 12.7.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1341914088 -845295029:Slayer's Iceloom Shoes\/a
 categories:
 - Assassin Equipment

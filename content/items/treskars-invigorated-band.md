@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   abmod: '+203'
   vselemental: '+511'
-effects: '**Runic Absorption**'
+effect_name: Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Absorption on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 1,000 points of all damage\n    - This effect stacks with the Runic Deflection line.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1770354869 1180104349:Treskar's Invigorated Band\/a
 categories:
 - Ability Modifier (Equipment)

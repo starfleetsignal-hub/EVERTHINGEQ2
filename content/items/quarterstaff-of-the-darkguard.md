@@ -16,7 +16,8 @@ stats:
   drating: '25.94'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Scourge Bolt Glyph**'
+effect_name: Scourge Bolt Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 37 - 46 disease damage on target.\n    - Inflicts 35 - 43 disease damage on target every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2058477488 -1947049863:Quarterstaff of the Darkguard\/a
 categories:
 - Beastlord Equipment

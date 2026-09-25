@@ -18,7 +18,8 @@ stats:
   drating: '44.97'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 151 - 227 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1974338458 -379471707:shaped imbued cobalt flail\/a
 categories:
 - Attack Speed (Equipment)

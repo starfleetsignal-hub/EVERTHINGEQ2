@@ -20,7 +20,8 @@ stats:
   drating: '99.68'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Kohr''athian Harvest**'
+effect_name: Kohr'athian Harvest
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Kohr'athian Harvest on target of spell.  Triggers about 1.0 times per minute.\n    - Inflicts 172 - 211 magic damage on target.\n    - Heals caster for 171 - 209.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1570176737 898508266:Kohr'athian Reaper\/a
 categories:
 - Ability Modifier (Equipment)

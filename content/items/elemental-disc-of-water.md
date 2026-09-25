@@ -9,7 +9,7 @@ flags: Heirloom No-Value
 description: Only an 85th and higher seasoned adventurer or tradeskiller will be able to summon this powerful creature.
 stats:
   charges: Unlimited
-effects: Summon Elemental Disc of Air
+effects: "- Applies Summon Elemental Disc of Air when Activated.\n  - Increases Aggression, Crushing, Disruption, Focus, Ministration, Ordination, Piercing, Ranged, Slashing, Subjugation of caster by 5.0\n  - Summons a mount to ride.\n    - Increases your ground speed by 75%\n    - Increases your air speed by 150%"
 obtained_from: One of 4 choices for the 8-year veteran's reward
 categories:
 - Charm (Inventory Slot)

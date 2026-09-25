@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 0.13 seconds
   recast: 0.0 seconds
-effects: Exceptional Mining Technique
+effects: "- Applies *Exceptional Mining Technique* when Activated. Lasts for 10 days\n  - Reduces the harvest time for mining by 2.5 seconds"
 obtained_from: Crafted by [[Woodworker]] (level 77) from [[Woodworker Essentials Volume 77]]
 categories:
 - Assassin Equipment

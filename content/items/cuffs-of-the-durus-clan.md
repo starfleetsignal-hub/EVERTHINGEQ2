@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   vselemental: '+347'
-effects: '**Lesser Soulsiphon**'
+effect_name: Lesser Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 205.\n    - Increases power of caster by 111.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Red, White and Dead]]'
 item_link: \aITEM 1107269571 262782043:Cuffs of the Durus Clan\/a
 categories:

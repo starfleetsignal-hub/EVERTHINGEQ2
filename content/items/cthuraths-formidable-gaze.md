@@ -17,7 +17,8 @@ stats:
   critbonus: 1,392.4
   potency: 53,929.3
   resolve: '670'
-effects: '**Consuming Drive**<br>**Oblivion''s Grip**'
+effect_name: Consuming Drive, Oblivion's Grip
+effects: "- Applies Consuming Drive III when Activated.\n  - On a hostile ability cast this spell will cast Consuming Drive III on caster.  Lasts for 8.0 seconds.\n    - Inflicts 8.0% of max health in mental damage on caster instantly and every second.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n  - Increases effectiveness of profession abilities by 20%.\n  - Cannot be modified except by direct means\n  - The casting time of Consuming Drive III is 2.0 seconds and the reuse time of the spell is 1 minute\n- When Equipped:\n  - Increases Potency of caster by 23,226.1.\n  - Increases Fervor of caster by 38.7.\n  - Increases Fervor Overcap of caster by 38.7.\n  - Increases Crit Bonus of caster by 1,540.2.\n  - Increases Flurry of Caster by 20.0.\n  - Increases Flurry Multiplier of caster by 0.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1468177990 433225131:Cthurath's Formidable Gaze\/a
 categories:
 - Assassin Equipment

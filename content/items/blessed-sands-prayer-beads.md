@@ -14,7 +14,8 @@ stats:
   critbonus: '4.9'
   potency: '8.4'
   vselemental: '+558'
-effects: '**Prolific Ward**'
+effect_name: Prolific Ward
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Prolific Ward on target of spell cast.  Lasts for 24.0 seconds.  Triggers about 1.6 times per minute.\n    - Wards target against 2,870 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 343140272 -1417156240:Blessed Sands Prayer Beads\/a
 categories:
 - Arcane Resistance (Equipment)

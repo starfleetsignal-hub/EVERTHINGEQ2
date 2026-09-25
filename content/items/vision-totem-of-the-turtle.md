@@ -7,7 +7,7 @@ level: '1'
 slot: Charm
 stats:
   charges: '5'
-effects: Vision Totem of the Turtle
+effects: "- Applies **Vision Totem of the Turtle** when activated. Lasts for 15 minutes.\n  - Grants Fish Vision to the caster"
 obtained_from: Crafted by [[Woodworker]] (level 29) from [[Woodworker Essentials Volume 29]]
 item_link: -1628006967 -1295572481:Vision Totem of the Turtle
 categories:

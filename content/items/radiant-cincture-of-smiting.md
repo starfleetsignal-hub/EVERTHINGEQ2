@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+5'
   sta: '+5'
-effects: '**Rehabilitate**'
+effect_name: Rehabilitate
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Rehabilitate on target of spell cast.  Triggers about 2.0 times per minute.\n    - Applies Rehabilitate on termination.  Lasts for 15.0 seconds.\n      - Wards target against 100 points of all damage\n      - Must not be engaged in pvp combat\n      - Cannot be modified except by direct means\n      - If under 50% Health\n    - Heals target for 23 - 25.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Radiant Cincture of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM -1389804695 -1264489191:Radiant Cincture of Smiting\/a
 categories:

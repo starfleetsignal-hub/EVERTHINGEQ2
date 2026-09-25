@@ -19,7 +19,8 @@ stats:
   potency: 38,187.5
   resolve: '490'
   dtype: Chain Armor
-effects: '**Felfeather Mental Aptitude**'
+effect_name: Felfeather Mental Aptitude
+effects: "- When Equipped:\n  - Protects the wearer from specific types of chromatic magic.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1770325452 1520915305:Felfeather Plumed Cavalier's Hat [Rank IV]\/a
 categories:
 - Ability Doublecast (Equipment)

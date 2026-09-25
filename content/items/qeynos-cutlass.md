@@ -21,7 +21,8 @@ stats:
   drating: '70.93'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Vengeance of Marr**'
+effect_name: Vengeance of Marr
+effects: "- When Equipped:\n  - On a combat hit this spell has a 5% chance to cast Awareness of Marr on caster.  Lasts for 6.0 seconds.\n    - Prevents AOE (except when direct)\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hostile ability cast this spell has a 25% chance to cast Vengeance of Marr on target of spell.  Lasts for 36.0 seconds.\n    - Reduces target's combat art damage by 10%.\n    - Only affects targets level 83 and below\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Final Froglok Word]]'
 item_link: \aITEM -744021992 -70494216:Qeynos Cutlass\/a
 categories:

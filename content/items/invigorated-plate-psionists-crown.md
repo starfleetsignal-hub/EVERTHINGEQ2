@@ -18,7 +18,8 @@ stats:
   resolve: '6'
   mitinc: '12.5'
   dtype: Plate Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -964767863 1700573310:Invigorated Plate Psionist's Crown\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -20,7 +20,8 @@ stats:
   drating: '74.2'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Yha-Lei Bane**'
+effect_name: Yha-Lei Bane
+effects: "- When Equipped:\n  - Additional equipment with Yhalei Bane improves this effect by 20% per piece.\n  - On any combat or spell hit this spell may cast Yha-Lei Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.6 times per minute.\n    - Inflicts 512 mental damage on target.\n      - Must be classified as a yha-lei\n    - Inflicts 256 mental damage on target.\n      - Must not be classified as a yha-lei\n    - Decreases Mitigation of target vs arcane damage by 385.\n      - Must be classified as a yha-lei\n    - Cannot be modified except by direct means"
 obtained_from: '[[Sunny Side Up]]'
 item_link: \aITEM -2026347422 1607898520:Fishsticker\/a
 categories:

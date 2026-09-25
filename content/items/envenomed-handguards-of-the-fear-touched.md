@@ -17,7 +17,8 @@ stats:
   dps: '20.9'
   multi: '27.4'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 2046011657 1468194655 0 0 0:Envenomed Handguards of the Fear-Touched\/a
 categories:
 - Accuracy (Equipment)

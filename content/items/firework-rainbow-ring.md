@@ -10,7 +10,7 @@ stats:
   charges: 10/10
   casting: 1.0 seconds
   recast: 2.0 seconds
-effects: Rainbow Rings
+effects: "- Applies Rainbow Rings when Activated. Lasts for 3.0 seconds.\n  - Launches a firework when used."
 obtained_from: '*[[The Queen''s Impending Speech]] *[[The Overlord''s Impending Speech]] *Given by a [[Guides of the Shattered Lands|Guide]] during a GM event'
 item_link: '\aITEM -360651687 1004880357:Firework: Rainbow Ring\/a'
 image: images/Firework_Rainbow_Ring.jpg

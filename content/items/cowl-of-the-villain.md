@@ -17,7 +17,7 @@ stats:
   vsarcane: '+525'
   vsnoxious: '+525'
   dtype: Chain Armor
-effects: Distraction
+effects: "- When equipped:\n  - When target takes any damage this spell has a 5% chance to cast **Distraction** on target's attacker.\n  - Decreases Threat to target by 700"
 item_link: \aITEM -103038090 -1839814302:Cowl of the Villain\/a
 categories:
 - Arcane Resistance (Equipment)

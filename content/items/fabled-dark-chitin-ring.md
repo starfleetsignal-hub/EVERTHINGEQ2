@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +10,148
-effects: '**Inspiration Martyrdom**'
+effect_name: Inspiration Martyrdom
+effects: "- When Equipped:\n  - On death this spell will cast Inspirational Martyrdom II on target.  Lasts for 30.0 seconds.\n    - Reduces all damage done to group members (AE) by 15%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1174273935 -1251726680:Fabled Dark Chitin Ring\/a
 categories:
 - Arcane Resistance (Equipment)

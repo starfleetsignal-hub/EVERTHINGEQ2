@@ -23,7 +23,8 @@ stats:
   drating: '196.98'
   dtype: Two-Handed Slashing
   wtype: Axe
-effects: '**Wrath**<br>**Vengeance**'
+effect_name: Wrath, Vengeance
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Ferocity on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of caster by 15.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a melee hit this spell may cast Rage on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Potency of caster by 15.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1575688236 -1742952125 0 0 0:Sullon's Vengeful Wrath\/a
 image: images/Sullon's_Vengeful_Wrath_Beastlord_Brawler.png
 aliases:

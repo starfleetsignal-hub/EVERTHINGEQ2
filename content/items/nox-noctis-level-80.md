@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: Off Hand Slashing
   wtype: Sword
-effects: '**Blackest Night**'
+effect_name: Blackest Night
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackest Night on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Accuracy of target by 2.0%.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1667730261 -2034450721:Nox Noctis\/a
 categories:
 - Assassin Equipment

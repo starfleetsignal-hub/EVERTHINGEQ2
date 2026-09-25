@@ -16,7 +16,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**Etherburst**'
+effect_name: Etherburst
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Etherburst II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases DPS of caster by 12.0.\n    - Increases AE Autoattack of Caster by 12.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 467866007 1107194998:Entrancing Earring of Timelessness\/a
 categories:
 - Ability Modifier (Equipment)

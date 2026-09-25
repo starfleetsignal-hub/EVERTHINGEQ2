@@ -17,7 +17,8 @@ stats:
   potency: '2'
   abmod: '+48'
   dtype: Leather Armor
-effects: '**Pathfinding**'
+effect_name: Pathfinding
+effects: "- Applies Pathfinding when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM 624627723 -396520865:Animist's Treads\/a
 categories:
 - Ability Modifier (Equipment)

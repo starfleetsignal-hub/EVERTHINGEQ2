@@ -20,7 +20,8 @@ stats:
   drating: '86.01'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1759990654 1724416200:Gavel of the Court\/a
 categories:
 - Beastlord Equipment

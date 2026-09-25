@@ -21,7 +21,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending IV on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target by 1%.\n    - Inflicts 820 disease damage on target instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1516551782 730582733:Penumbra Affronting Gnasher\/a
 categories:
 - AE Autoattack Chance (Equipment)

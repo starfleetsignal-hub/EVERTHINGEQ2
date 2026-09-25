@@ -17,7 +17,8 @@ stats:
   dps: '20.3'
   flurry: '5.6'
   dtype: Chain Armor
-effects: '**Pestilential Rain**'
+effect_name: Pestilential Rain
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Pestilential Rain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 disease damage on target encounter.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Tunic of Coagulated Primality]]
 item_link: \aITEM -383923891 -2143247386:Virtuoso's Lacerating Hauberk\/a
 categories:

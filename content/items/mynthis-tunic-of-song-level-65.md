@@ -17,7 +17,8 @@ stats:
   abmod: '+62'
   dps: '8.1'
   dtype: Chain Armor
-effects: '**Disease Cloud**'
+effect_name: Disease Cloud
+effects: "- When Equipped:\n  - Increases disease damage done by spells by up to 50."
 item_link: \aITEM -85647108 -1631837587:Mynthi's Tunic of Song\/a
 categories:
 - Ability Modifier (Equipment)

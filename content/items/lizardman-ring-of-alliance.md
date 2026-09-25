@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   str: '+35'
   vsarcane: '+402'
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 310.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM -1988499664 581727801:Lizardman Ring of Alliance\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '505'
   aspeed: '34.4'
   dtype: Cloth Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1442410116 1134261895:Mausoleum Nexus Gloves\/a
 categories:
 - Attack Speed (Equipment)

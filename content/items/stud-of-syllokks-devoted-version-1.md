@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   dps: '10.3'
   vselemental: '+360'
-effects: '**Silence**'
+effect_name: Silence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Silence IV on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.0 times per minute.\n    - Stifles target\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -960222810 987501796:Stud of Syllokk's Devoted\/a
 categories:
 - AE Autoattack Chance (Equipment)

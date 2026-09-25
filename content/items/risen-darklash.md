@@ -19,7 +19,8 @@ stats:
   drating: '42.79'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Siphon Essence**'
+effect_name: Siphon Essence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Siphon Essence on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 72 - 88.\n    - Inflicts 128 - 192 magic damage on target.\n    - Increases power of caster by 67 - 91.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM -608664326 156224899:Risen Darklash\/a
 categories:
 - Assassin Equipment

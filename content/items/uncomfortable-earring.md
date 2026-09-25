@@ -17,7 +17,8 @@ stats:
   resolve: '21'
   dps: '47.6'
   vselemental: +57,798
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 150.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1822338153 1748601945:Uncomfortable Earring\/a
 categories:
 - Arcane Resistance (Equipment)

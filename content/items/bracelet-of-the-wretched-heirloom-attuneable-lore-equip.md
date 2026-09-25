@@ -14,7 +14,8 @@ stats:
   potency: '11.1'
   abmod: '+373'
   vselemental: +8,415
-effects: '**Wretched Heart**'
+effect_name: Wretched Heart
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,371.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1758328477 -858958129:Bracelet of the Wretched\/a
 categories:
 - Ability Modifier (Equipment)

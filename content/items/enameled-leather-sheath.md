@@ -17,7 +17,8 @@ stats:
   range: 2 - 25
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Spark Blast Glyph**'
+effect_name: Spark Blast Glyph
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Magic Bolt on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 99 - 121 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -656117113 -1381355651:Enameled Leather Sheath\/a
 categories:
 - Assassin Equipment

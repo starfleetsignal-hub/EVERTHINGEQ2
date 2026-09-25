@@ -16,7 +16,8 @@ stats:
   abmod: '+702'
   dps: '25.8'
   vselemental: +28,613
-effects: '**Veeshan''s Restoration**'
+effect_name: Veeshan's Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Veeshan's Restoration on the group.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Reduces physical damage done to group members (AE) by 10%. This spell will absorb a total of 10 attacks.\n    - Instantly restores 4.65% of incoming damage to the group\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -1310461018 -873593260:Tranquil Umbrite Earrings\/a
 categories:

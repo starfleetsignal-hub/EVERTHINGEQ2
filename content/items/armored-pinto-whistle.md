@@ -10,7 +10,7 @@ stats:
   charges: Unlimited
   casting: 1.07 seconds
   recast: 0.0 seconds
-effects: Call Armored Pinto
+effects: "- Applies Call Armored Pinto when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 55%\n  - Applies Friendly Experience.\n    - Increases Combat XP Gain of target by 10.0%"
 obtained_from: Received from the [[Http://eq2players.station.sony.com/community/recruit-a-friend Recruit-a-Friend]] program.
 item_link: \aITEM 210855886 -686017326:Armored Pinto whistle\/a
 categories:

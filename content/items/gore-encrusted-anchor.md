@@ -21,7 +21,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: '**Block Chance**'
+effect_name: Block Chance
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM 1301787030 -122922746 0 0 0:Gore Encrusted Anchor\/a
 categories:
 - Beastlord Equipment

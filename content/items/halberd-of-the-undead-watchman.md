@@ -15,7 +15,8 @@ stats:
   drating: '2.13'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Rot Burst Glyph**'
+effect_name: Rot Burst Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Disease Bolt on target of attack.  Lasts for 24.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 3 - 4 disease damage on target instantly and every 6 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1312304733 -2110721894:Halberd of the Undead Watchman\/a
 categories:
 - Berserker Equipment

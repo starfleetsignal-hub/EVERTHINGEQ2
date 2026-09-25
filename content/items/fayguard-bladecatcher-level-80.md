@@ -21,7 +21,8 @@ stats:
   drating: '82.93'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Word of Pain**'
+effect_name: Word of Pain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Word of Pain on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 295 magic damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1233002281 1150280818:Fayguard Bladecatcher\/a
 categories:
 - Assassin Equipment

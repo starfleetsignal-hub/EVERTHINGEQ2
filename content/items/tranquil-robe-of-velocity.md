@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dtype: Cloth Armor
-effects: '**Cabalistic Nexus**'
+effect_name: Cabalistic Nexus
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 4.0%.\n  - Increases Potency of caster by 4.0."
 obtained_from: '*Crafted by [[Tailor]] (level 80) from [[Ancient Knowledge: Tranquil Robes of Velocity]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM 1976834352 -697689712:Tranquil Robe of Velocity\/a
 categories:

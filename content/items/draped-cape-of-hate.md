@@ -15,7 +15,8 @@ stats:
   potency: '5'
   aspeed: '7'
   mitinc: '4.9'
-effects: '**Malicious Presence**'
+effect_name: Malicious Presence
+effects: "- Applies Malicious Presence when Activated.  Lasts for 30.0 seconds.\n  - Decreases caster's maximum health by 4% every 2 seconds. All health is restored when the effect ends.\n  - Caster will Riposte 15.0% of incoming frontal attacks.  Attacks from other quadrants have the same chance of being Parried.\n  - This effect can be toggled off.\n  - Cannot be modified except by direct means\n  - The casting time of Malicious Presence is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -1805933434 -42418408:Draped Cape of Hate\/a
 categories:
 - Assassin Equipment

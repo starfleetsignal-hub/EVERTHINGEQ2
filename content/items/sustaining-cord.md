@@ -12,7 +12,8 @@ stats:
   crit: '3.2'
   abmod: '+75'
   vselemental: '+280'
-effects: '**Vampiric Energy**<br>**Barrier**'
+effect_name: Vampiric Energy, Barrier
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Vampiric Energy on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 249 divine damage on target\n    - Heals caster for 249\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Lady Arlen Sunbeam]] (Qeynos aligned) or  (Freeport aligned) at [[Teren's Grasp]] in [[Kylong Plains]]
 item_link: \aITEM 932675550 -1935777541:Sustaining Cord\/a
 categories:

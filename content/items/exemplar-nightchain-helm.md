@@ -19,7 +19,8 @@ stats:
   resolve: '23'
   mitinc: '15.6'
   dtype: Chain Armor
-effects: '**Grasp of Nightmares**'
+effect_name: Grasp of Nightmares
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Warden of Nightmares."
 obtained_from: From [[Satchel of the Nightmare Warden]]
 item_link: \aITEM -330761466 1841696304:Exemplar Nightchain Helm\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   abmod: '+246'
   aspeed: '11.4'
   dtype: Leather Armor
-effects: '**Ward of Resistance**'
+effect_name: Ward of Resistance
+effects: "- When Equipped:\n  - When damaged this spell has a 6% chance to cast Ward of Resistance on caster.  Lasts for 8.0 seconds.\n    - Wards caster against 200 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2002197585 708990765:Dwarven Work Boots\/a
 categories:
 - Ability Modifier (Equipment)

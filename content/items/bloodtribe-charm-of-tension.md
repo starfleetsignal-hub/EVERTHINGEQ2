@@ -17,7 +17,8 @@ stats:
   potency: 6,225.8
   resolve: '150'
   dps: '57.4'
-effects: '**Warrior''s Way**'
+effect_name: Warrior's Way
+effects: "- Applies Warrior's Way when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 15.4.\n  - Cannot be modified except by direct means\n  - The casting time of Warrior's Way is 5.0 seconds and the reuse time of the spell is 8 minutes"
 obtained_from: Sold by [[Magdalen Gemdawn]] in [[Sanctus Seru (City)]]
 item_link: \aITEM -1085660103 -1113636485:Bloodtribe Charm of Tension\/a
 categories:

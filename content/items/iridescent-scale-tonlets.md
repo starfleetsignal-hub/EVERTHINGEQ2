@@ -16,7 +16,8 @@ stats:
   aspeed: '0.8'
   dps: '3.2'
   dtype: Plate Armor
-effects: '**Noxiousness**'
+effect_name: Noxiousness
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Noxiousness on target's attacker.  Lasts for 48.0 seconds.\n    - Inflicts 76 - 127 disease damage on target every 6.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 796653432 -1174743487:Iridescent Scale Tonlets\/a
 categories:
 - Attack Speed (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '0.7'
   dps: '2.2'
   vsarcane: '+150'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 13.5.\n    - Increases DPS of caster by 18.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 58) from [[Jeweler Essentials Volume 58 (Normal)]] *Crafted by [[Jeweler]] (level 58) from [[Jeweler Essentials Volume 58 (no-trade)]]'
 item_link: \aITEM -1033453943 770413492:Imbued Beryllium Band of Strength\/a
 categories:

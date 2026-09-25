@@ -8,7 +8,8 @@ level: '20'
 slot: Ear
 flags: ornate attunable
 description: This item can be transmuted for adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 item_link: \aITEM -32198367 365094336:Minor Jasper Transmuter's Stone\/a
 categories:
 - Assassin Equipment

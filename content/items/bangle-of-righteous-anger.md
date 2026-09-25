@@ -12,7 +12,8 @@ stats:
   wis: '+48'
   crit: '3.2'
   vselemental: '+480'
-effects: '**Righteous Anger**'
+effect_name: Righteous Anger
+effects: "- When Equipped:\n  - Cannot be modified except by direct means"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 item_link: \aITEM 1679137572 -986123555:Bangle of Righteous Anger\/a
 categories:

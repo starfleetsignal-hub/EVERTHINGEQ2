@@ -14,7 +14,8 @@ stats:
   critbonus: '5.9'
   potency: '10.2'
   multi: '16.5'
-effects: '**Cyclonic Form**'
+effect_name: Cyclonic Form
+effects: "- When Equipped:\n  - Increases Multi Attack of caster by 7.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2070233265 672782548:Encompassed Traveler's Cloak\/a
 image: images/Encompassed_Traveller's_Cloak.png
 aliases:

@@ -16,7 +16,8 @@ stats:
   potency: '1.8'
   dps: '6'
   dtype: Leather Armor
-effects: '**Mutagenic Aura**'
+effect_name: Mutagenic Aura
+effects: "- Applies Mutagenic Aura when Equipped.\n  - On a hostile spell hit this spell may cast Mutagenic Haze on target of spell.  Triggers about 1.8 times per minute.\n    - Inflicts 106 - 220 poison damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of cold, disease, divine, heat, magic, mental or poison abilities."
 item_link: \aITEM 784328755 640028441:Chitinous Leather Skullcap\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '6.2'
   dps: '15.2'
   dtype: Chain Armor
-effects: '**Toxic Backlash**<br>**Undead Bane**'
+effect_name: Toxic Backlash, Undead Bane
+effects: "- When Equipped:\n  - Wards caster against 478 points of noxious damage\n  - When any noxious damage is received this spell will cast Toxic Backlash on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 239 poison damage on target.\n    - Inflicts 239 disease damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of disease or poison abilities.\n- When Equipped:\n  - Additional equipment with Undead Bane improves this effect.\n  - On any combat or spell hit this spell may cast Undead Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 531 mental damage on target.\n      - Must be classified as an undead\n    - Inflicts 265 mental damage on target.\n      - Must not be classified as an undead\n    - Decreases Mitigation of target vs arcane damage by 395.\n      - Must be classified as an undead\n    - Cannot be modified except by direct means"
 item_link: \aITEM -464763183 428545536:Darkness Soaked Links\/a
 categories:
 - Assassin Equipment

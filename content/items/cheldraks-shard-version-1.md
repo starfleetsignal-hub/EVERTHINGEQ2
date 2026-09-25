@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Venomous Retribution**'
+effect_name: Venomous Retribution
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Venomous Retribution on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 67 - 112 poison damage on target every 3 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1363713846 -1471722325:Chel'Drak's Shard\/a
 image: images/Chel'Drak's_Shard.jpg
 categories:

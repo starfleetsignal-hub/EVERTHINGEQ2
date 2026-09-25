@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   dtype: Leather Armor
-effects: '**Lambent Imbued**'
+effect_name: Lambent Imbued
+effects: "- Applies Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 40 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 58) from [[Tailor Essentials Volume 58 (Normal)]] *Crafted by [[Tailor]] (level 58) from [[Tailor Essentials Volume 58 (no-trade)]]'
 item_link: \aITEM 1000231820 -916332977:Imbued Woven Stonehide Tunic\/a
 categories:

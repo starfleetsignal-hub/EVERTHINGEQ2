@@ -18,7 +18,8 @@ stats:
   abmod: '+147'
   dps: '13'
   dtype: Chain Armor
-effects: '**Savage Healing**'
+effect_name: Savage Healing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Savage Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 540.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1436729697 503938508 0 0 0:Spiritual Wristlets from Beyond the Portal\/a
 categories:
 - Ability Modifier (Equipment)

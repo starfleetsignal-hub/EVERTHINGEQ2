@@ -17,7 +17,8 @@ stats:
   potency: '5.8'
   dps: '13.9'
   dtype: Cloth Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[Rockshaper Jorgun]] (Faction Merchant) in [[The Hole]]<br>Requires 50,000 faction with Guardians of the Underfoot
 item_link: \aITEM 333718394 -102174518:Underfoot Summoner Garments\/a
 categories:

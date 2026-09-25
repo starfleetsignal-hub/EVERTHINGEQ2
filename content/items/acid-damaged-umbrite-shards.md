@@ -17,7 +17,8 @@ stats:
   abmod: +1,166
   dps: '44.3'
   dtype: Symbols
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1777920030 -247228682:Acid-Damaged Umbrite Shards\/a
 image: images/Acid-Damaged_Umbrite_Shards.png
 categories:

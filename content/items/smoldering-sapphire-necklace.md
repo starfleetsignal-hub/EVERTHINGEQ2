@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   aspeed: '7.3'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Sapphire Gemmed Necklace]], [[Unholy Choker]] and 1p 50g
 item_link: \aITEM 1275708829 -414437792 0 0 0:Smoldering Sapphire Necklace\/a
 categories:

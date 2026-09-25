@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   vselemental: +1,824
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 627107160 -474555070:Watchful Bangle of the Watchers\/a
 categories:
 - Arcane Resistance (Equipment)

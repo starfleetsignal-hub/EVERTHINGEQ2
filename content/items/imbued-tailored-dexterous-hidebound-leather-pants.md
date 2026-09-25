@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Leather Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 177 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Heirloom)]] *Crafted by [[Tailor]] (level 76) from [[Advanced Tailor Volume 76 (Normal)]] *From [[Dexterous Leather Armor Pack (Level 72 Mastercrafted) (Version 1)|Dexterous Leather Armor Pack (Level 72 Mastercrafted)]] *From [[Dexterous Leather Armor Pack (Level 72 Mastercrafted) (Version 2)|Dexterous Leather Armor Pack (Level 72 Mastercrafted)]]'
 item_link: \aITEM -898053904 424901929:Imbued Tailored Dexterous Hidebound Leather Pants\/a
 categories:

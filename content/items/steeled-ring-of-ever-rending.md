@@ -17,7 +17,8 @@ stats:
   aspeed: '36.7'
   dps: '14'
   vselemental: +30,687
-effects: '**Amplifying Power**'
+effect_name: Amplifying Power
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 25%-96.3%. The value increases based on how many other players are wearing Amplifying effects. Only one effect per player can increase the value."
 item_link: \aITEM 353140383 -245147232:Steeled Ring of Ever Rending\/a
 categories:
 - Ability Modifier (Equipment)

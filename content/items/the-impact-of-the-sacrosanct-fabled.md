@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Impenetrable Faith**'
+effect_name: Impenetrable Faith
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell has a 9% chance to cast Impenetrable Faith on caster.  Lasts for 10.0 seconds.\n    - Makes caster immune to Stun effects and increases casting speed by 10%\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Wounds of the Heart]]'
 item_link: \aITEM 2107725232 854745611:The Impact of the Sacrosanct\/a
 image: images/The_Impact_of_the_Sacrosanct.jpg

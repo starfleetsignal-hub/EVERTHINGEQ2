@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vselemental: '+440'
-effects: '**Aura of Resentment**'
+effect_name: Aura of Resentment
+effects: "- When Equipped:\n  - On a hit this spell may cast Overwhelming Resentment on caster.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 76.8.\n    - Increases DPS of caster by 47.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1038844048 413550738:Links of Overwhelming Resentment\/a
 categories:
 - Ability Modifier (Equipment)

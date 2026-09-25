@@ -10,7 +10,8 @@ flags: lore attunable
 stats:
   sta: '+11'
   int: '+11'
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 16.5.\n  - This effect suspends during combat"
 item_link: \aITEM -1775473060 1560730580:Bauble-Eyeball Earring\/a
 categories:
 - Assassin Equipment

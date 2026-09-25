@@ -16,7 +16,8 @@ stats:
   multi: '34.1'
   flurry: '0.6'
   vselemental: +8,019
-effects: '**Deathcall**'
+effect_name: Deathcall
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Deathcall I on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Deathcall I on caster.  Lasts for 8.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1091379127 1983518067:Hurd's Earring\/a
 categories:
 - Ability Modifier (Equipment)

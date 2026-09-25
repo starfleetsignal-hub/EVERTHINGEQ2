@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Speedy Recovery**'
+effect_name: Speedy Recovery
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 8.0.\n  - Increases Potency of caster by 8.0.\n  - Cures Revived Sickness received from most resurrection spells."
 item_link: \aITEM 1367239099 1839840652:Renewing Riviere of Recovery\/a
 categories:
 - Assassin Equipment

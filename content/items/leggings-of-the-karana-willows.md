@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Leather Armor
-effects: '**Lesser Overflow**'
+effect_name: Lesser Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 14% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members (AE) for 142.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: No longer obtainable - former [[A Game of Grab Sap]]
 item_link: \aITEM 1094836651 1153852980:Leggings of the Karana Willows\/a
 categories:

@@ -11,7 +11,8 @@ stats:
   str: '+1'
   sta: '+1'
   dtype: Magic Affinity
-effects: '**Erollisi''s Glowing Aura**'
+effect_name: Erollisi's Glowing Aura
+effects: '- Applies Erollisi''s Glowing Aura when Equipped.'
 obtained_from: '*[[Seeking Love''s Fate in the City of Hate]] *[[Seeking Love''s Fate Through Valor]]'
 item_link: \aITEM 1214856702 -477638035:Erollisi's Charm\/a
 image: images/Erollisi's_Charm.png

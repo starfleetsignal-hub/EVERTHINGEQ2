@@ -17,7 +17,8 @@ stats:
   abmod: +1,654
   aspeed: '37.4'
   dps: '14.3'
-effects: '**Primordial Burnout**'
+effect_name: Primordial Burnout
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 80.0.\n- Applies Primordial Burnout when Activated.  Lasts for 45.0 seconds.\n  - On a spell cast this spell will cast Primordial Burnout on target of spell cast.\n    - Inflicts 2,700,000 heat damage on target.\n    - Cannot be modified except by direct means\n    - Grants a total of 15 triggers of the spell.\n  - This item may not be used in a PvP zone.\n  - The reuse time of Primordial Burnout is 2 minutes"
 item_link: \aITEM 1511319210 146658979:Eye of Mrwar\/a
 categories:
 - Ability Modifier (Equipment)

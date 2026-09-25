@@ -19,7 +19,8 @@ stats:
   resolve: '525'
   multi: '35.7'
   dtype: Leather Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -750864835 -1204604197:Hoard Found Bracers of Ruination\/a
 categories:
 - Brawler Equipment

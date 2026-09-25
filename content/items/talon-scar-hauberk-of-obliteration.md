@@ -17,7 +17,8 @@ stats:
   potency: 52,176.5
   resolve: '535'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 80 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1374111522 1289968793:Talon Scar Hauberk of Obliteration\/a
 categories:
 - Assassin Equipment

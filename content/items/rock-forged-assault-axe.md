@@ -15,7 +15,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Slashing
   wtype: Great Axe
-effects: '**Force Burst Glyph**'
+effect_name: Force Burst Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mental Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 34 - 42 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1897714400 -1641887525:Rock Forged Assault Axe\/a
 categories:
 - Berserker Equipment

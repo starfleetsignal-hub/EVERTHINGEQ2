@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1435068460 -57942332 0 0 0:Atramentous Shadowplate Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

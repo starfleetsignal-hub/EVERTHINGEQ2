@@ -17,7 +17,8 @@ stats:
   aspeed: '7'
   dps: '12.6'
   dtype: Symbols
-effects: '**Eye of the Storm**<br>**Empyrean Recovery**'
+effect_name: Eye of the Storm, Empyrean Recovery
+effects: "- When Equipped:\n  - Applies Eye of the Storm to qualifying pets.\n    - Increases Casting Speed of target by 10.0%.\n    - Increases Reuse Speed of target by 10.0%.\n    - Increases Max Health of target by 25.0%.\n    - Increases Max Power of target by 25.0%.\n    - Increases Crushing, Slashing, Piercing and Disruption of target by 10.0.\n    - Increases Ability Mod of target by 125.0.\n- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -781824061 -771183487:Staff of Elemental Mastery\/a
 categories:
 - Attack Speed (Equipment)

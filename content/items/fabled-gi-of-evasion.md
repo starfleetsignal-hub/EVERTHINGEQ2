@@ -18,7 +18,8 @@ stats:
   resolve: '210'
   cbovercap: '+198.2'
   dtype: Leather Armor
-effects: '**Shadows Bound**'
+effect_name: Shadows Bound
+effects: "- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1158050497 -1547668803:Fabled Gi of Evasion\/a
 categories:
 - Block Chance (Equipment)

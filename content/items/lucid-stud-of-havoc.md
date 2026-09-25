@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm II when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter II on termination.\n    - Inflicts 809 - 894 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 20 - 25 poison damage on target.\n  - Inflicts 25 - 31 poison damage on target every second.\n  - Inflicts an additional 10 - 12 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm II is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 20) from [[Ancient Knowledge: Lucid Stud of Havoc]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -460370061 1241108399:Lucid Stud of Havoc\/a
 categories:

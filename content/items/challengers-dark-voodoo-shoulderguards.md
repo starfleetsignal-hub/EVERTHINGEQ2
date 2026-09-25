@@ -14,7 +14,8 @@ stats:
   critbonus: '2.4'
   potency: '12'
   dtype: Chain Armor
-effects: '**Ancient Invigoration of War**'
+effect_name: Ancient Invigoration of War
+effects: "- When Equipped:\n  - Must not be in an Expansion: Destiny of Velious zone"
 item_link: \aITEM -1563026638 -1300479373:Challenger's Dark Voodoo Shoulderguards\/a
 categories:
 - Ancient Invigoration of War (Equipment)

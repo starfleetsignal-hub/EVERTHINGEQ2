@@ -9,7 +9,7 @@ flags: attuneable
 stats:
   mit: '32'
   dtype: Cloth Armor
-effects: Spring-Loaded Gnomish Stilts
+effects: "- When equipped:\n  - Allows caster to jump further\n  - This effect suspends during combat\n  - If not on a mount"
 obtained_from: Made with Tinkering (skill 60) from [[Apprentice Blueprints 0.006]].
 item_link: -1922591776 -1797480426:Spring-Loaded Gnomish Stilts
 categories:

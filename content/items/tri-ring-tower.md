@@ -16,7 +16,8 @@ stats:
   resolve: '3'
   aspeed: '59.2'
   dtype: Tower Shield
-effects: '**Blackanvil Strike**'
+effect_name: Blackanvil Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blackanvil Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 9,650 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 92724712 -1431550945:Tri-Ring Tower\/a
 categories:
 - AE Autoattack Chance (Equipment)

@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 2.0 seconds
   recast: 0.0 seconds
-effects: Call Kelethin Courser
+effects: "- Applies Call Kelethin Courser when Activated. Lasts for 1 day.\n  - Summons a mount to ride that increases your speed by 130%"
 obtained_from: '[[The Emerald Lake (Quest)|The Emerald Lake]]'
 item_link: \aITEM -524934845 1646025811:Kelethin Courser whistle\/a
 image: images/KelethinCourserWhistle_Examine.jpg

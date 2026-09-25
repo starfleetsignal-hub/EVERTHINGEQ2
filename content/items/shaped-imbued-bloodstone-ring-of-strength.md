@@ -10,7 +10,8 @@ flags: ornate attunable
 stats:
   str: '+11'
   sta: '+10'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 10.3.\n    - Increases DPS of caster by 16.1.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 698271289 -405063514:shaped imbued bloodstone ring of strength\/a
 categories:
 - Assassin Equipment

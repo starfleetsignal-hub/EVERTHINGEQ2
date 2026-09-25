@@ -17,7 +17,8 @@ stats:
   dps: '15.1'
   multi: '19.8'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[A Jagged Branch]]'
 item_link: \aITEM -134109112 -1649191532:Emerald Flame Gloves\/a
 image: images/Emerald_Flame_Gloves.png

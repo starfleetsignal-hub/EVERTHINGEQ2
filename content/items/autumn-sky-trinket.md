@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Disengage**'
+effect_name: Disengage
+effects: "- Applies Disengage when Activated.  Lasts for 30.0 seconds.\n  - Grants invisibility to caster\n  - Suspends caster's movement speed enhancements\n  - Grants stealth to caster\n  - Suspends caster's movement speed enhancements\n  - Removes all of your hate from surrounding encounters.\n  - Cannot be modified except by direct means\n  - The reuse time of Disengage is 5 minutes"
 item_link: \aITEM 1346040273 206050319:Autumn Sky Trinket\/a
 categories:
 - Assassin Equipment

@@ -13,7 +13,8 @@ stats:
   crit: '8'
   abmod: '+136'
   multi: '8'
-effects: '**Soulsteal**'
+effect_name: Soulsteal
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Soulsteal on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 133\n    - Increases power of caster by 89\n    - Cannot be modified except by direct means"
 item_link: \aITEM 106233852 721477517:Discord's Emerald-studded Brutallic Bracelet\/a
 categories:
 - Ability Modifier (Equipment)

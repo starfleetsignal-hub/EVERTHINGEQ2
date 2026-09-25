@@ -12,7 +12,7 @@ stats:
   charges: 1/1
   casting: 4.28 seconds
   recast: 1.9 seconds
-effects: Repair
+effects: "- Applies Repair when Activated. Lasts for 1.0 seconds.\n  - Repairs armor that is currently equipped, in your inventory or in the overflow slot."
 item_link: \aITEM 1382491462 -757128497:[Field Repair Kit]\/a
 categories:
 - Charm (Inventory Slot)

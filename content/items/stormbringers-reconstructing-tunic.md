@@ -17,7 +17,8 @@ stats:
   potency: '8.2'
   aspeed: '12.2'
   dtype: Leather Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 875.\n    - Heals group members (AE) for 292 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: Obtained from [[Hauberk of Coagulated Primality]]
 item_link: \aITEM 1024927393 -2032960725:Stormbringer's Reconstructing Tunic\/a
 categories:

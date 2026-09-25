@@ -15,7 +15,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   dtype: Symbols
-effects: '**Ethereal Strands**'
+effect_name: Ethereal Strands
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Ethereal Strands on caster.  Triggers about 1.8 times per minute.\n    - Increases power of target by 96.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2095575132 -1318861075:Stein of Flowing Ichor\/a
 categories:
 - Ability Modifier (Equipment)

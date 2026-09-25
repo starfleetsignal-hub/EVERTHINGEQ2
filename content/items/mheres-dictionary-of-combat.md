@@ -15,7 +15,8 @@ stats:
   crit: '3'
   critbonus: '1.1'
   potency: '5'
-effects: '**Lesson of Aggression**'
+effect_name: Lesson of Aggression
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Lesson of Aggression on target of attack.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 1,665\n    - Inflicts 434 mental damage on target.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1908259085 1375316755:Mhere's Dictionary of Combat\/a
 categories:
 - Beastlord Equipment

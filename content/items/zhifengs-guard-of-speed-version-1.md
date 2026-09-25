@@ -16,7 +16,8 @@ stats:
   potency: '2.5'
   aspeed: '3.7'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 23.0."
 item_link: \aITEM -1235625027 137900889:Zhi'feng's Guard of Speed\/a
 image: images/Zhi'feng's_Guard_of_Speed.png
 categories:

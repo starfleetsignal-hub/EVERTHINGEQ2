@@ -15,7 +15,8 @@ stats:
   potency: '12.8'
   abmod: '+568'
   vselemental: +2,079
-effects: '**Dragonheart**'
+effect_name: Dragonheart
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,371.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1802319212 1305508753:Wristlet of the Wyvern Lord\/a
 categories:
 - Ability Modifier (Equipment)

@@ -15,7 +15,7 @@ stats:
   power: '+115'
   vselemental: '+960'
   vsarcane: '+600'
-effects: Assassin's Thirst
+effects: "- When Equipped:\n  - When target strikes a death blow this spell will cast Assissin's Thirst on caster.  Lasts for 20.0 seconds.\n    - Increases Damage Per Second of caster by 15.0\n  - Increases combat art damage by 35."
 obtained_from: Sold by [[Eviss Ryiss]] (Faction Merchant) in [[Jarsath Wastes]]
 categories:
 - Arcane Resistance (Equipment)

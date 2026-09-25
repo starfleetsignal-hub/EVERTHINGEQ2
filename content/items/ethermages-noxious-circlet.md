@@ -17,7 +17,8 @@ stats:
   potency: '5'
   dps: '12.6'
   dtype: Cloth Armor
-effects: '**Noxious Mist**'
+effect_name: Noxious Mist
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Noxious Mist on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 324 poison damage on target encounter.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[Unadorned Steel Circlet]]'
 item_link: \aITEM 903951184 -2123312752 0 0 0:Ethermage's Noxious Circlet\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '8.2'
   potency: '16.4'
   multi: '20.3'
-effects: '**Silver Thread**'
+effect_name: Silver Thread
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Silver Thread on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Reuse Speed of caster by 7.0%.\n    - Increases Casting Speed of caster by 7.0%.\n    - Increases Ability Mod of caster by 500.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Silver Thread on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Reuse Speed of caster by 7.0%.\n    - Increases Casting Speed of caster by 7.0%.\n    - Increases Ability Mod of caster by 500.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '[[Unexpected Consequences]]'
 item_link: \aITEM -1753441928 -1286246129:Ghostpaw's Fated Talisman\/a
 image: images/Ghostpaw's_Fated_Talisman.png

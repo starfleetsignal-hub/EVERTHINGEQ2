@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Leather Armor
-effects: '**Fiery Feedback**'
+effect_name: Fiery Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 1% chance to cast Fiery Feedback on target's attacker.\n    - Inflicts 138 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1454539192 1129926990:Drake hide tunic\/a
 categories:
 - Assassin Equipment

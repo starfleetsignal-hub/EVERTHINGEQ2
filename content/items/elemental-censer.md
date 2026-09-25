@@ -12,7 +12,8 @@ stats:
   sta: '+15'
   abmod: '+8'
   dtype: Symbols
-effects: '**Glyph of Enlightenment**'
+effect_name: Glyph of Enlightenment
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Tranquil Breeze on caster.\n    - Increases power of target by 13.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1476246967 -1127683238:Elemental Censer\/a
 categories:
 - Ability Modifier (Equipment)

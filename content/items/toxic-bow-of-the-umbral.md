@@ -17,7 +17,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Vital Exposure**'
+effect_name: Vital Exposure
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Vital Exposure II on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 21 - 24 disease damage on target instantly and every 2 seconds.\n    - Inflicts an additional 2 - 2 disease damage on target every tick.\n    - Decreases the target's physical mitigation over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Vital Exposure II on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 21 - 24 disease damage on target instantly and every 2 seconds.\n    - Inflicts an additional 2 - 2 disease damage on target every tick.\n    - Decreases the target's physical mitigation over time.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 20) from [[Ancient Knowledge: Toxic Bow of the Umbral]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1136953726 -763022627:Toxic Bow of the Umbral\/a
 categories:

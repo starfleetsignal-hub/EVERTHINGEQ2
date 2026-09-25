@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.6'
   abmod: '+32'
-effects: '**Antivenom Hypo Cure**'
+effect_name: Antivenom Hypo Cure
+effects: "- Applies Antivenom Hypo Cure when Activated.\n  - Dispels 78 levels of noxious hostile effects on caster\n  - The casting time of Antivenom Hypo Cure is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[A Cured Gingus]]'
 item_link: \aITEM 1581308957 1914853000:Antivenin Hypo Bracer\/a
 categories:

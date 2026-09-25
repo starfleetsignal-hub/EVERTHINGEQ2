@@ -10,7 +10,7 @@ stats:
   charges: Unlimited
   casting: 1.0 seconds
   recast: 0.0 seconds
-effects: Ykeshan Bear
+effects: "- Applies Ykeshan Bear when Activated.\n  - Summons a dire bear that will grow with you as you level up!"
 obtained_from: '[[Claim|Claimable]] item for players who purchased the retail version of the Shadow Odyssey.'
 item_link: \aITEM 144439889 685964670:Bear Whistle\/a
 categories:

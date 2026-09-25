@@ -19,7 +19,8 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Cyclical Battering**<br>**Phantasmal Siphon**'
+effect_name: Cyclical Battering, Phantasmal Siphon
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On any combat or spell hit this spell may cast Phantasmal Siphon II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,369 - 2,618 poison damage on target\n    - Heals caster for 1,185 - 1,309\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 697001327 -593250339:Invader's Great Sword of Expropriation\/a
 categories:
 - AE Autoattack Chance (Equipment)

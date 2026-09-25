@@ -11,7 +11,8 @@ stats:
   agi: '+1'
   mit: '2'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 item_link: \aITEM 673481405 1810584320:Shaped Blue Frostfell Elf Cap\/a
 categories:
 - Assassin Equipment

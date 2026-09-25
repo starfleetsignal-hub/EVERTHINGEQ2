@@ -19,7 +19,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM -1007461627 614353516:Discord's Devastation Stave\/a
 categories:
 - Ability Modifier (Equipment)

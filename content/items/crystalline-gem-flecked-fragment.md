@@ -16,7 +16,8 @@ stats:
   aspeed: '11.2'
   dps: '18.8'
   multi: '12'
-effects: '**Fragmentation**'
+effect_name: Fragmentation
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fragmentation of Power on caster.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the base trigger chance of spells and items by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -726851433 -2115843073:Crystalline Gem Flecked Fragment\/a
 categories:
 - Assassin Equipment

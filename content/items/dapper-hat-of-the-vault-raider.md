@@ -17,7 +17,7 @@ stats:
   vsarcane: '+525'
   vsnoxious: '+525'
   dtype: Chain Armor
-effects: Distraction
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 5% chance to cast Distraction on target's attacker.\n    - Decreases Threat to target by 700"
 obtained_from: '[[Korgo the Vault Keeper]] in [[The Vaults of El''Arad]]'
 item_link: -26259777 -1994369329:Dapper Hat of the Vault Raider
 image: images/{{PAGENAME}}.jpg

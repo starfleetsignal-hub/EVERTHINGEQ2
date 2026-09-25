@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '42'
   resolve: '7'
-effects: '**All for One**'
+effect_name: All for One
+effects: "- When Equipped:\n  - Increases the wearer's Potency between 68 and 188 based on the potency of the wearer's group and raid members, including mercenaries.\n  - Increases the wearer's chance to trigger a legendary, fabled, or mythical crit based on the crit chance of the wearer's group and raid members, including mercenaries."
 item_link: \aITEM -404238182 -779004379:Masterful Cloak of Cooperation\/a
 categories:
 - Ability Doublecast (Equipment)

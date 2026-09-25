@@ -17,7 +17,8 @@ stats:
   potency: '12.8'
   dps: '33.2'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -1949221869 234704096 0 0 0:Primal Velium Handguards\/a
 categories:
 - Census Credits

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Thrown Weapon
-effects: '**Resolute Defense**'
+effect_name: Resolute Defense
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Resolute Defense II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Max Health of caster by 2,988.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Resolute Defense II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Max Health of caster by 2,988.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 401060872 1207839145:Bandolier of the Lyceum Architect\/a
 categories:
 - Assassin Equipment

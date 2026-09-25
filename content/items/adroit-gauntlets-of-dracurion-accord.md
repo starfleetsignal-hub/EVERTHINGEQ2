@@ -18,7 +18,8 @@ stats:
   dps: '27.1'
   multi: '17.5'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0."
 item_link: \aITEM -469628176 -598684107:Adroit Gauntlets of Dracurion Accord\/a
 categories:
 - Assassin Equipment

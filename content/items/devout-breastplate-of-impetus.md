@@ -13,7 +13,8 @@ stats:
   mit: '306'
   potency: '0.2'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 40) from [[Ancient Knowledge: Devout Breastplate of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM 751136314 -41804921:Devout Breastplate of Impetus\/a
 categories:

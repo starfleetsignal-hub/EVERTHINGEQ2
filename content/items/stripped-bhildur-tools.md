@@ -16,7 +16,8 @@ stats:
   resolve: '5'
   abmod: '+827'
   dps: '28.6'
-effects: '**Spectral Annihilation**'
+effect_name: Spectral Annihilation
+effects: "- Applies Spectral Annihilation when Activated.\n  - Inflicts 2,664,000 mental damage on target.\n  - This effect can be cast while casting other abilities\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Spectral Annihilation is 15.0 seconds"
 item_link: \aITEM -1033689588 196244307:Stripped Bhildur Tools\/a
 categories:
 - Ability Modifier (Equipment)

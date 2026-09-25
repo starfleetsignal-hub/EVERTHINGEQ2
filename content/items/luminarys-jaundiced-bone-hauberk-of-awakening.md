@@ -16,7 +16,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   dtype: Chain Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -1255778173 1546513459:Luminary's Jaundiced Bone Hauberk of Awakening\/a
 categories:
 - Ability Modifier (Equipment)

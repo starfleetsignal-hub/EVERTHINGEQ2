@@ -21,7 +21,9 @@ stats:
   drating: '177.16'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Deception of War**<br>**Prophetic Shield**'
+effect_name: Deception of War, Prophetic Shield
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Deception of War on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 6,660 magic damage on target instantly and every 4 seconds.\n    - Inflicts an additional 3,996 magic damage on target every tick.\n    - Increases power of caster by 729 instantly and every 4 seconds.\n    - Increases Max Power of caster by 8.0%.\n    - Increases Potency of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - On a beneficial spell cast this spell may cast Prophetic Shield on the group.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 4,200 points of all damage\n    - Heals group members (AE) for 1,662 - 1,837 instantly and every 3 seconds.\n    - Increases Potency of group members (AE) by 8.0.\n\
+  \    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1539439846 -691556995:Caragoth, Hammer of the Blight-Priests\/a
 categories:
 - Ability Modifier (Equipment)

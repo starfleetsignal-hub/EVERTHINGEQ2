@@ -24,7 +24,8 @@ stats:
   drating: '385.78'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 5%\n    - Inflicts 1748 disease damage on target encounter instantly and every second\n    - Inflicts an additional 46 disease damage on target encounter every tick\n    - Cannot be modified except by direct means"
 item_link: \aITEM -447013826 -1564518281:Prophetic Greatsword of Verig Ro\/a
 categories:
 - Ability Modifier (Equipment)

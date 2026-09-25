@@ -17,7 +17,8 @@ stats:
   drating: '1.44'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Mark of Pestilence**'
+effect_name: Mark of Pestilence
+effects: '- Applies Mark of Pestilence when Equipped.'
 item_link: \aITEM -1571434343 308945682:Ghastly Fist of Pestilence\/a
 categories:
 - Beastlord Equipment

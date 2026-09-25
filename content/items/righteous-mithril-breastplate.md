@@ -17,7 +17,7 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Plate Armor
-effects: Salubrious Aura
+effects: "- When Equipped:\n  - When the target casts a healing spell this spell has a chance to cast Salubrious Aura on target of spell cast. Lasts for 30.0 seconds. This effect will trigger an average of 2.0 times per minute.\n    - When target takes any damage this spell will cast Reflexive Restoration on target.\n      - Heals caster for 200\n      - Grants a total of 5 triggers of the spell."
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM 204108169 -216045957:Righteous Mithril Breastplate\/a
 categories:

@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.7'
   abmod: '+20'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 16.0.\n    - Increases Haste of caster by 17.3.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 668644773 -1402200540:imbued azurite band of agility\/a
 categories:
 - Ability Modifier (Equipment)

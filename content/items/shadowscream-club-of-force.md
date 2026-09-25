@@ -22,7 +22,8 @@ stats:
   drating: '1313.28'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Noxious Rending**'
+effect_name: Noxious Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Noxious Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases noxious damage done to target by 3%.\n    - Inflicts 1,077 disease damage on target encounter instantly and every second.\n    - Inflicts an additional 47 disease damage on target encounter every tick.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Woodworker]] (level 120) from [[Shadowscream Woodworker Studies II]] *Made from [[Pattern: Shadowscream Club of Force]]'
 item_link: \aITEM 441419948 -289297787:Shadowscream Club of Force\/a
 categories:

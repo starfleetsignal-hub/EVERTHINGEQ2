@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+137'
-effects: '**Deathly Lifetap**'
+effect_name: Deathly Lifetap
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Deathly Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 474 - 985 magic damage on target\n    - Heals caster for 316 - 656\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume II]] *Sold by [[A mysterious Quellithulian]] in [[Dropship Landing Zone]]
 item_link: '\aITEM -1058218151 1078060515:Voidbrawler''s Spiked Knuckles: Exchangeable\/a'
 categories:

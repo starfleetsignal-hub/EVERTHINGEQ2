@@ -26,7 +26,8 @@ stats:
   drating: '448.95'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Ykeshan Obliteration Smite**'
+effect_name: Ykeshan Obliteration Smite
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Ykeshan Obliteration Smite on target of spell.  Lasts for 2.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 12,442 magic damage on target.\n    - Stuns target\n      - If Target is not Epic\n    - Resistibility increases against targets higher than level 130.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 15.0 - 22.0 seconds."
 item_link: \aITEM -591507623 -518315115:Celestial Short Sword of the Ykesha\/a
 image: images/Celestial_Short_Sword_of_the_Ykesha.png
 events:

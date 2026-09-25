@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Cloth Armor
-effects: '**Absorption Shield**'
+effect_name: Absorption Shield
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Absorption Shield on caster.  Lasts for 24.0 seconds.  Triggers about 1.4 times per minute.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1869188935 -1309621513:Cowl of Incantations\/a
 categories:
 - Ability Modifier (Equipment)

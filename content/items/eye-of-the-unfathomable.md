@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Consume Power**<br>**Empower**'
+effect_name: Consume Power, Empower
+effects: "- Applies Consume Power when Activated.  Lasts for 40.0 seconds.\n  - Increases the wearer's Crit Bonus by 9 for every increment of Empower consumed.\n  - This can be cast while casting other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of Consume Power is 1 minute\n- When Equipped:\n  - Raid members have a 1% chance on attacks to build an increment of Empower on the wearer. Lasts for 62 seconds and increments up to 20 times."
 obtained_from: Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume V]]
 item_link: \aITEM -210383141 912106678:Eye of the Unfathomable\/a
 categories:

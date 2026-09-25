@@ -20,7 +20,8 @@ stats:
   drating: '55.85'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 188 - 281 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 342440229 -190623007:shaped imbued xegonite spear\/a
 categories:
 - Assassin Equipment

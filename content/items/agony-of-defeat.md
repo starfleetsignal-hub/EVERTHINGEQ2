@@ -17,7 +17,8 @@ stats:
   abmod: +2,332
   aspeed: '29'
   dtype: Symbols
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.5%.\n    - Inflicts 988 mental damage on target encounter.\n    - Inflicts 253 mental damage on target encounter every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 112538911 1959364346:Agony of Defeat\/a
 categories:
 - Ability Modifier (Equipment)

@@ -16,7 +16,8 @@ stats:
   abmod: '+137'
   aspeed: '7.2'
   vselemental: '+400'
-effects: '**Spirit of the Wind**'
+effect_name: Spirit of the Wind
+effects: "- Applies Spirit of the Wind when Equipped.\n  - Increases speed of caster by 10.0%.\n  - This effect suspends during combat"
 item_link: \aITEM 460177422 859194990:Atrebite Shackle\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   abmod: +1,250
-effects: '**Bottled Aggression**'
+effect_name: Bottled Aggression
+effects: "- When Equipped:\n  - While out of combat, the caster will quickly gain up to 250 potency. While in combat this potency will decrease to 0 at the same rate."
 item_link: \aITEM -1871418297 -473517028:Gold Chain of Vehement Aggression\/a
 categories:
 - Ability Modifier (Equipment)

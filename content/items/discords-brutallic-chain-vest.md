@@ -15,7 +15,8 @@ stats:
   potency: '5'
   multi: '4'
   dtype: Chain Armor
-effects: '**Fatal Lifetap**'
+effect_name: Fatal Lifetap
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Fatal Lifetap on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,589 - 2,383 poison damage on target\n    - Heals caster for 1,058 - 1,587\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 737642184 772119666:Discord's Brutallic Chain Vest\/a
 categories:
 - Assassin Equipment

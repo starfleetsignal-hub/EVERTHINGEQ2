@@ -17,7 +17,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   dtype: Chain Armor
-effects: '**Uncanny Insight**<br>**Cyclical Battering**'
+effect_name: Uncanny Insight, Cyclical Battering
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Strikethrough of caster by 5.0%.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Haste of caster by 6.0.\n    - Increases DPS of caster by 9.0.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1488996449 2135298892:Agent's Mantle of Veeshan's Will\/a
 categories:
 - Assassin Equipment

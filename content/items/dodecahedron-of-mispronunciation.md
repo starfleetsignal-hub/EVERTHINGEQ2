@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   dps: '13'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -1690781327 -1801892191:Dodecahedron of Mispronunciation\/a
 image: images/Dodecahedron_of_Misponunciation.jpg
 categories:

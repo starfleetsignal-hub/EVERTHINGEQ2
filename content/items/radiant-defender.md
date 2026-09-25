@@ -15,7 +15,8 @@ stats:
   potency: '1.8'
   vselemental: '+242'
   dtype: Tower Shield
-effects: '**Divine Feedback**'
+effect_name: Divine Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Divine Feedback on target's attacker.\n    - Inflicts 205 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 835303181 -1091962325:Radiant Defender\/a
 categories:
 - Arcane Resistance (Equipment)

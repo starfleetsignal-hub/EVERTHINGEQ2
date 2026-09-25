@@ -19,7 +19,8 @@ stats:
   resolve: '1'
   aspeed: '33.7'
   mitinc: '6.6'
-effects: '**Earthen Consort**'
+effect_name: Earthen Consort
+effects: "- When Equipped:\n  - When damaged, this spell has a 5% chance to cast Earthen Consort on target's attacker. Lasts for 10.0 seconds.\n- Applies Earthen Consort when Activated.  Lasts for 20.0 seconds.\n  - Suspends the passive effect for 120 seconds\n  - Summons an earthen pet that will voraciously taunt foes off the caster for a limited duration.\n  - This item may not be used in a PvP zone.\n  - The casting time of Earthen Consort is 0.5 seconds and the reuse time of the spell is 2 minutes"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Jewelry Essentials]]
 item_link: \aITEM -661632052 -218139320:Mitigating Umbrite censer\/a
 categories:

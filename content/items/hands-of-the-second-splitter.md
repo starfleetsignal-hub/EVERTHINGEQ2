@@ -17,7 +17,8 @@ stats:
   aspeed: '10.7'
   dps: '18.1'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -688349657 1214582339:Hands of the Second Splitter\/a
 image: images/Hands_of_the_Second_Splitter.png
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '545'
   abmod: +4614,519
   dtype: Plate Armor
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 820090820 1446853166:Majestic Relic Cardinal Chausses\/a
 categories:
 - Ability Modifier (Equipment)

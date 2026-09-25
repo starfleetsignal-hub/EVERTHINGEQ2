@@ -19,7 +19,8 @@ stats:
   drating: '48.23'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Big Boom**'
+effect_name: Big Boom
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Big Boom on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 150 - 249 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Talk to [[Blisterzonk]] after completing ALL of the Sootfoot quests and reaching -10,000 Sootfoot faction
 item_link: \aITEM 451018902 448165693:Axe of the Sootfoot Chopper\/a
 categories:

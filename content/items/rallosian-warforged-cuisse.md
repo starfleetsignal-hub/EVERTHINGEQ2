@@ -12,7 +12,8 @@ stats:
   sta: '+16'
   agi: '+16'
   potency: '0.2'
-effects: '**Boon of Battle**'
+effect_name: Boon of Battle
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 218 - 266.\n    - Increases power of caster by 132.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a beneficial spell cast this spell may cast Boon of Battle on caster.  Triggers about 2.0 times per minute.\n    - Heals caster for 218 - 266.\n    - Increases power of caster by 132.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -766433640 790483511:Rallosian Warforged Cuisse\/a
 categories:
 - Assassin Equipment

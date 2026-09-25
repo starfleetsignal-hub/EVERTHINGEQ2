@@ -16,7 +16,8 @@ stats:
   drating: '31.45'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Palely Gleaming Strike**'
+effect_name: Palely Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 82 - 151 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 737757692 -2029782640:imbued fulginate kukri\/a
 categories:
 - Assassin Equipment

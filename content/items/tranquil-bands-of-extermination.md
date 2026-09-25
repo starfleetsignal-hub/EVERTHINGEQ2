@@ -14,7 +14,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   dtype: Cloth Armor
-effects: '**Arcane Focus**'
+effect_name: Arcane Focus
+effects: "- When Equipped:\n  - Increases Disruption, Focus and Subjugation of caster by 20.0.\n  - Reduces resistibility of all spells by 1.6%."
 obtained_from: '*Crafted by [[Tailor]] (level 50) from [[Ancient Knowledge: Tranquil Bands of Extermination]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -584661538 2060497110:Tranquil Bands of Extermination\/a
 categories:

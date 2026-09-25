@@ -17,7 +17,8 @@ stats:
   potency: '12.6'
   abmod: '+551'
   vselemental: +2,079
-effects: '**Etherflare**'
+effect_name: Etherflare
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical combat hit this spell may cast Etherflare II on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 9,775 - 10,805 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 2,655.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Etherflare II on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 9,775 - 10,805 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 2,655.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1573892143 -898737746:Necroscorcher's Grasp\/a
 categories:
 - Ability Modifier (Equipment)

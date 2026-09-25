@@ -17,7 +17,8 @@ stats:
   potency: '8.4'
   dps: '21.1'
   dtype: Leather Armor
-effects: '**Gilded Crown**'
+effect_name: Gilded Crown
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gilded Crown on caster.  Lasts for 15.0 seconds.  Triggers about 0.8 times per minute.\n    - Increases Haste of caster by 6.0.\n    - Increases Multi Attack of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1540293008 -872244562:Ghastly Sands Gi\/a
 categories:
 - Assassin Equipment

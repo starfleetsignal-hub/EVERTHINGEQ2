@@ -17,7 +17,8 @@ stats:
   abmod: '+393'
   dps: '27.1'
   vselemental: +1,776
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases AGI, INT, STR and WIS of caster by 50.0.\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1558385904 -2076491569:Equivocal Ring of the Poison Lord\/a
 categories:
 - Ability Modifier (Equipment)

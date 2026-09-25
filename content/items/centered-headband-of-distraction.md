@@ -16,7 +16,8 @@ stats:
   potency: '3.5'
   abmod: '+77'
   dtype: Leather Armor
-effects: '**Runic Barrier**'
+effect_name: Runic Barrier
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 6% chance to cast Runic Barrier on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 280 points of all damage\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Aliyah Vensdord]] (Faction Merchant) in [[Kylong Plains]]
 item_link: \aITEM 944029224 -1913186124:Centered Headband of Distraction\/a
 categories:

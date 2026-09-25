@@ -14,7 +14,8 @@ stats:
   critbonus: '1.6'
   potency: '7.2'
   aspeed: '11.2'
-effects: '**Runic Absorption**'
+effect_name: Runic Absorption
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Runic Absorption on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 1,300 points of all damage\n    - This effect stacks with the Runic Deflection line.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1943087277 -627896748:Refined Terrazite Ingot\/a
 categories:
 - Attack Speed (Equipment)

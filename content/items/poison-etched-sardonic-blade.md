@@ -20,7 +20,8 @@ stats:
   drating: '66.07'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Curse of the Vile**'
+effect_name: Curse of the Vile
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Curse of the Vile on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 229 - 382 poison damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 197140407 1371694253:Poison-Etched Sardonic Blade\/a
 categories:
 - Ability Modifier (Equipment)

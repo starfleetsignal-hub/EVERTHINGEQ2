@@ -25,7 +25,8 @@ stats:
   drating: '593.07'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3.7%.\n    - Inflicts 6,020 heat damage on target.\n    - Inflicts 6,020 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1652547655 -1294858430:Manacrush's Crusher\/a
 aliases:
 - Manacruh's Crusher

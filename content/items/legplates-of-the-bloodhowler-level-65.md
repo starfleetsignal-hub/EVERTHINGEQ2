@@ -17,7 +17,8 @@ stats:
   dps: '8.1'
   multi: '4.8'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 2.0."
 item_link: \aITEM -1825958892 -1668461271:Legplates of the Bloodhowler\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   dps: '10.5'
   dtype: Buckler
-effects: '**Lesser Soulsiphon**'
+effect_name: Lesser Soulsiphon
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Soulsiphon on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases power of target by 189.\n    - Increases power of caster by 98.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Cookie''s Monster]]'
 item_link: \aITEM -470733411 872656691:Cookie's Frying Pan Shield\/a
 categories:

@@ -23,7 +23,8 @@ stats:
   drating: '4891.74'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Blessing of the Wintry Guardian**'
+effect_name: Blessing of the Wintry Guardian
+effects: "- When Equipped:\n  - \"Blessing of the Wintry Guardian\" protects the wearer from strong deific magics used by E'Ci!"
 item_link: \aITEM 108351361 -754619820:Trident of the Wintry Guardian [Rank III]\/a
 categories:
 - Ability Modifier (Equipment)

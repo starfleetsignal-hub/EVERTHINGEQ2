@@ -18,7 +18,8 @@ stats:
   abmod: +31,268
   aspeed: '69.5'
   vselemental: +73,025
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 200.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 94937725 -360935849:Hanging Horrors\/a
 categories:
 - Ability Modifier (Equipment)

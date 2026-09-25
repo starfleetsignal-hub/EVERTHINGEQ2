@@ -17,7 +17,8 @@ stats:
   potency: '2.7'
   abmod: '+68'
   dtype: Leather Armor
-effects: '**Fetter**'
+effect_name: Fetter
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Fetter on target of spell.  Lasts for 8.0 seconds.  Triggers about 4.0 times per minute.\n    - Decreases DPS of target by 6.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -4482489 1641117273:Armguards of Ancient Rituals\/a
 categories:
 - Ability Modifier (Equipment)

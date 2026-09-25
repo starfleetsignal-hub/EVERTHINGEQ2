@@ -16,7 +16,8 @@ stats:
   critbonus: 1,372.3
   potency: 50,255.4
   resolve: '640'
-effects: '**Blessing of Fates**'
+effect_name: Blessing of Fates
+effects: "- When Equipped:\n  - Reduces noxious damage done to caster by 10%.\n  - Increases Potency of caster by 1,500.0.\n  - This effect can only take effect within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 495609566 301632651:Fated Cloak of the Ogles, Three\/a
 categories:
 - Assassin Equipment

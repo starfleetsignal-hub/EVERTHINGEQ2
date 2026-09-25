@@ -17,7 +17,8 @@ stats:
   potency: '1.7'
   mitinc: '1.9'
   dtype: Plate Armor
-effects: '**Hooluk in a Hat**'
+effect_name: Hooluk in a Hat
+effects: "- Applies Hooluk in a Hat when Activated.\n  - Summons a pet Hooluk\n  - The casting time of Hooluk in a Hat is 4.0 seconds and the reuse time of the spell is 2.0 seconds"
 obtained_from: '[[Blood of the Brood]]'
 item_link: \aITEM -2132751224 731911862:Hoo'Loh's Frenzied Helm\/a
 categories:

@@ -17,7 +17,8 @@ stats:
   drating: '38.1'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple IV on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 250 points of all damage\n    - Heals target for 223 - 247 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 40) from [[Ancient Knowledge: Dire Mace of Impetus]] *Made from [[Powerful Reactant]]'
 item_link: \aITEM -1575989661 1858548085:Dire Mace of Impetus\/a
 categories:

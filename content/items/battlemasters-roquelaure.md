@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.7'
   abmod: '+92'
-effects: '**String of Insults**'
+effect_name: String of Insults
+effects: "- Applies String of Insults when Activated.  Lasts for 24.0 seconds.\n  - Increases Hate Gain of caster by 5.0.\n  - The casting time of String of Insults is 0.5 seconds and the reuse time of the spell is 3 minutes"
 obtained_from: Sold by [[Mirg Nel'Ron]] (Faction Merchant) in [[Jarsath Wastes]]
 item_link: \aITEM 1838483661 -1713375340:Battlemaster's Roquelaure\/a
 categories:

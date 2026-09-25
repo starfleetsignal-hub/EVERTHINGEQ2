@@ -20,7 +20,8 @@ stats:
   drating: '64.55'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Healing Song**'
+effect_name: Healing Song
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Chorus of Rejuvenation on caster.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals group members for 110 - 164.\n    - Heals group members for 55 - 82 every 3 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 377721955 -97526947:Ballad Blade\/a
 categories:
 - AE Autoattack Chance (Equipment)

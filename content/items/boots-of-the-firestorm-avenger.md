@@ -16,7 +16,8 @@ stats:
   aspeed: '38.3'
   dps: '38.3'
   dtype: Leather Armor
-effects: '**Swiftness in the Dark**'
+effect_name: Swiftness in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -731666230 -877493092:Boots of the Firestorm Avenger\/a
 categories:
 - Attack Speed (Equipment)

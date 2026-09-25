@@ -14,7 +14,8 @@ stats:
   critbonus: '25.5'
   potency: '25.5'
   abmod: +1,250
-effects: '**Spikes**'
+effect_name: Spikes
+effects: "- Applies Spikes II when Activated.  Lasts for 24.0 seconds.\n  - Slows target by 55.0%.\n  - Inflicts 125, 000 piercing damage to the target. Provided the target moves between ticks, they will take an additional 125, 000 piercing damage every 2 seconds.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Spikes II is 1 minute 30 seconds"
 obtained_from: Crafted by [[Jeweler]] (level 97) from [[Jeweler Essentials Volume 97]]
 item_link: \aITEM 2117296669 -279545891:Tranquil Iodocus Tablet\/a
 categories:

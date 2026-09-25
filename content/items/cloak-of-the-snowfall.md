@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 item_link: \aITEM -616170408 1471455985:Cloak of the Snowfall\/a
 categories:
 - Assassin Equipment

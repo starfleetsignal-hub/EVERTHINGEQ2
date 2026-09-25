@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   abmod: '+137'
-effects: '**Greater Burning Affliction**'
+effect_name: Greater Burning Affliction
+effects: "- When Equipped:\n  - On a hostile spell hit this spell may cast Greater Burning Affliction on target of spell.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 407 - 678 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 961.\n    - Cannot be modified except by direct means\n    - Will trigger off of poison, mental, magic, heat, divine, disease or cold abilities."
 item_link: \aITEM -1819345476 1876194028:Girdle of Mutagenica\/a
 categories:
 - Ability Modifier (Equipment)

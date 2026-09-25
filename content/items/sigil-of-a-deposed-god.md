@@ -16,7 +16,8 @@ stats:
   abmod: '+129'
   dps: '12'
   dtype: Symbols
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 296458213 -1758013797:Sigil of a Deposed God\/a
 categories:
 - Ability Modifier (Equipment)

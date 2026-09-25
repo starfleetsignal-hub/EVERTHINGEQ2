@@ -17,7 +17,8 @@ stats:
   aspeed: '37.7'
   dps: '14.4'
   vselemental: +33,491
-effects: '**Practiced Tactics**'
+effect_name: Practiced Tactics
+effects: "- When Equipped:\n  - Applies Practiced Tactics instantly and every 2.6 seconds.\n    - Increases Potency of group members (AE) by 30.0.\n    - Increases Crit Bonus of group members (AE) by 30.0.\n    - Cannot be modified except by direct means\n  - This effect does not stack with itself when worn on multiple items\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1473876005 143747547:Yothshaval Wristlet Chains\/a
 categories:
 - Ability Modifier (Equipment)

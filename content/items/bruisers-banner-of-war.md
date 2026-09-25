@@ -15,7 +15,8 @@ stats:
   critbonus: '7.7'
   potency: '12.8'
   multi: '21.6'
-effects: '**Brutal Beating**'
+effect_name: Brutal Beating
+effects: "- When Equipped:\n  - Improves the radius by 5 and adds an additional threat position to Wild Beating.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -795627901 -85238712:Bruiser's Banner of War\/a
 categories:

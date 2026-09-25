@@ -14,7 +14,8 @@ stats:
   crit: '3'
   abmod: '+50'
   dtype: Plate Armor
-effects: '**Benevolent Alacrity**<br>**Haste**'
+effect_name: Benevolent Alacrity, Haste
+effects: "- When Equipped:\n  - Reduces cast time of beneficial spells by 6 percent.\n- When Equipped:\n  - Increases Haste of caster by 30.0."
 item_link: \aITEM 1303314284 349280745:Tormenting Gauntlets\/a
 categories:
 - Ability Modifier (Equipment)

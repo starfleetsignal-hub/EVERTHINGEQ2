@@ -17,7 +17,7 @@ stats:
   vselemental: '+420'
   vsnoxious: '+490'
   dtype: Plate Armor
-effects: Mending Touch
+effects: "- When Equipped:\n  - When target casts a healing spell this spell has a 8% chance to cast Mending Touch on target of spell cast.  Lasts for 30.0 seconds.\n    - Heals caster for 150 instantly and every 3.3 seconds\n  - Only affects targets level 50 and above"
 item_link: -1591163074 1694924849:Plate Helm of the Ether
 categories:
 - Arcane Resistance (Equipment)

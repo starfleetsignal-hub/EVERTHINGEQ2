@@ -17,7 +17,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   dtype: Cloth Armor
-effects: '**Torrent**'
+effect_name: Torrent
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Torrent on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,199 cold damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 189895678 -306339263:Lucanic Robe of Combustion\/a
 categories:
 - Ability Modifier (Equipment)

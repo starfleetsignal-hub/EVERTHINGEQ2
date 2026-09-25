@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+11'
   sta: '+10'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 360.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 46) from [[Tailor Essentials Volume 46 (Normal)]] *Crafted by [[Tailor]] (level 46) from [[Tailor Essentials Volume 46 (no-trade)]]'
 item_link: \aITEM -1393393701 -1960728992:pristine chaos imbued rough linen hex doll\/a
 categories:

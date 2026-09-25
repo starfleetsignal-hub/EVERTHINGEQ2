@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dtype: Chain Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (2nd Edition), Volume II]]
 item_link: \aITEM 820141498 -534071979:Ancestral Sabatons\/a
 categories:

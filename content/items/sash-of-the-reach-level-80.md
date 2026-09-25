@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.4'
   aspeed: '7.4'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 obtained_from: '[[Village People]]'
 item_link: \aITEM 1201139058 1953617812:Sash of the Reach\/a
 image: images/Sash_of_the_Reach_(Level_80).png

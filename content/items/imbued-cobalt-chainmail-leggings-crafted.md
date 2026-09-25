@@ -16,7 +16,8 @@ stats:
   potency: '1'
   dps: '4.2'
   dtype: Chain Armor
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 118 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Armorer]] (level 54) from [[Advanced Armorer Volume 54 (Heirloom)]] *Crafted by [[Armorer]] (level 54) from [[Advanced Armorer Volume 54 (Normal)]] *From [[Chainmail Armor Pack (Level 52 Mastercrafted) (Version 1)|Chainmail Armor Pack (Level 52 Mastercrafted)]] *From [[Chainmail Armor Pack (Level 52 Mastercrafted) (Version 2)|Chainmail Armor Pack (Level 52 Mastercrafted)]]'
 item_link: \aITEM -1480608017 -905848095:Imbued Cobalt Chainmail Leggings\/a
 categories:

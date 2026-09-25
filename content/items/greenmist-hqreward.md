@@ -20,7 +20,8 @@ stats:
   drating: '97.92'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Greenmist**'
+effect_name: Greenmist
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Greenmist on target of attack.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 730 divine damage on target.\n    - Decreases Mitigation of target vs physical damage by 702.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Triumph of Fear]]'
 item_link: \aITEM 489040346 938829716:Greenmist\/a
 image: images/Greenmist_HQ_rwrd.png

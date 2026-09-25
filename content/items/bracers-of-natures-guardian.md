@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   aspeed: '4'
   dtype: Leather Armor
-effects: '**Nature''s Hindrance**'
+effect_name: Nature's Hindrance
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Nature's Hindrance on target of spell.  Lasts for 1 minute 12 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Haste of target by 6.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 254244181 -1284315023:Bracers of Nature's Guardian\/a
 categories:
 - AE Autoattack Chance (Equipment)

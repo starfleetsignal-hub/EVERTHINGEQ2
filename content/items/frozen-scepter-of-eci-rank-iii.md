@@ -23,7 +23,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Blessing of the Wintry Guardian**'
+effect_name: Blessing of the Wintry Guardian
+effects: "- When Equipped:\n  - \"Blessing of the Wintry Guardian\" protects the wearer from strong deific magics used by E'Ci!"
 item_link: \aITEM 2143481782 -406449660:Frozen Scepter of E'Ci [Rank III]\/a
 categories:
 - Ability Modifier (Equipment)

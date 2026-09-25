@@ -17,7 +17,8 @@ stats:
   dps: '13'
   mitinc: '5.1'
   dtype: Leather Armor
-effects: '**Frenzy of the Dead**'
+effect_name: Frenzy of the Dead
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frenzy of the Dead on caster.  Lasts for 15.0 seconds.  Triggers about 1.6 times per minute.\n    - Increases Multi Attack of caster by 10.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1848538166 15217366:Flesh-Peeled Leggings\/a
 image: images/Flesh-Peeled_Leggings.jpg
 categories:

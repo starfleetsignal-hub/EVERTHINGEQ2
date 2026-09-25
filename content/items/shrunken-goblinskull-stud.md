@@ -16,7 +16,8 @@ stats:
   potency: '5'
   abmod: '+133'
   vselemental: '+400'
-effects: '**Goblin Aura**'
+effect_name: Goblin Aura
+effects: "- Applies Goblin Aura when Activated.  Lasts for 20.0 seconds.\n  - Increases DPS of caster by 15.0.\n  - The casting time of Goblin Aura is 1.0 second and the reuse time of the spell is 30.0 seconds"
 obtained_from: <br> Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 item_link: \aITEM -827789288 1695220979:Shrunken Goblinskull Stud\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   vselemental: '+324'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm VIII when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter VIII on termination.\n    - Inflicts 13,224 - 14,616 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 334 - 408 poison damage on target.\n  - Inflicts 418 - 510 poison damage on target every second.\n  - Inflicts an additional 167 - 204 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm VIII is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 80) from [[Ancient Knowledge: Lucid Stud of Velocity]] *Made from [[Momentous Reactant]]'
 item_link: \aITEM -1914295111 1083717663:Lucid Stud of Velocity\/a
 categories:

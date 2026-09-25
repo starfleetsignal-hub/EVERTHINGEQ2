@@ -17,7 +17,8 @@ stats:
   abmod: '+568'
   multi: '21.6'
   mitinc: '13.9'
-effects: '**Warforce**'
+effect_name: Warforce
+effects: "- When Equipped:\n  - When Wall of Force expires, the berserker will take no physical damage for a short duration.\n  - If effective level under 96\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Artifact Cloak of War]] *From [[Guilded Cloak of War]]'
 item_link: \aITEM -1488148292 -303374662:Berserker's Banner of War\/a
 categories:

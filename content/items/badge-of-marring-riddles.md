@@ -15,7 +15,8 @@ stats:
   potency: '27'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Riddle**'
+effect_name: Riddle
+effects: "- Applies Riddle III when Activated.  Lasts for 1 minute.\n  - Increases Accuracy of caster by 40.0%.\n  - Converts damage spells to slashing damage.\n  - Cannot be modified except by direct means\n  - The reuse time of Riddle III is 1 minute"
 item_link: \aITEM 1386182308 1971344716:Badge of Marring Riddles\/a
 categories:
 - Assassin Equipment

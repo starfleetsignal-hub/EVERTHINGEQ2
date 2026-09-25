@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '20.2'
   potency: '20.2'
-effects: '**Power of Malice**'
+effect_name: Power of Malice
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 50. If the wearer is the top of an enemy's hatelist, the value is increased to 80.\n  - Increases the wearer's health by 20,000. If the wearer is the top of an enemy's hatelist, the value is increased to 32,000."
 item_link: \aITEM -1044001789 -1166643566:Malignant Torque\/a
 categories:
 - Assassin Equipment

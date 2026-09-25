@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**Speedy Recovery**'
+effect_name: Speedy Recovery
+effects: "- When Equipped:\n  - Cures Revived Sickness received from most resurrection spells."
 item_link: \aITEM -1548702298 135288037:Waxformed Amulet\/a
 categories:
 - Assassin Equipment

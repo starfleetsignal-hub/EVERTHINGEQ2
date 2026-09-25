@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dps: '12.6'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 item_link: \aITEM 1548403099 -349800201:Void-Soaked Peacock Feathers\/a
 aliases:
 - Void-Soaked Peacock Feathers (Armor)

@@ -19,7 +19,8 @@ stats:
   drating: '42.17'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Lambent Blessing**'
+effect_name: Lambent Blessing
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Lambent Blessing on target of spell cast.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 60\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 58) from [[Weaponsmith Essentials Volume 58 (Normal)]] *Crafted by [[Weaponsmith]] (level 58) from [[Weaponsmith Essentials Volume 58 (no-trade)]]'
 item_link: \aITEM 1313551332 -1923350698:Blessed Stonehide Whip\/a
 categories:

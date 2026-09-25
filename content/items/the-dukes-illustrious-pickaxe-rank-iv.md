@@ -24,7 +24,8 @@ stats:
   drating: '3727.04'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blessing of the Duke of Below**'
+effect_name: Blessing of the Duke of Below
+effects: "- When Equipped:\n  - \"Blessing of the Duke of Below\" protects the wearer from strong deific magics used by Brell!"
 item_link: \aITEM 1362210129 34886397:The Duke's Illustrious Pickaxe [Rank IV]\/a
 categories:
 - Ability Modifier (Equipment)

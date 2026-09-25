@@ -19,7 +19,8 @@ stats:
   resolve: '555'
   mitinc: '87.1'
   dtype: Leather Armor
-effects: '**Necrotic Portent**'
+effect_name: Necrotic Portent
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 12.2.\n  - Grants an additional 20 in-combat runspeed.\n  - Increases Potency of caster by 5,005.6.\n  - Must be in a Scars of Destruction raid zone for all effects to apply.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1354107812 -517444422:Necropolis Mantle of the Rotting\/a
 categories:
 - Brawler Equipment

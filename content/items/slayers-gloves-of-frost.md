@@ -16,7 +16,8 @@ stats:
   potency: '1.3'
   abmod: '+30'
   dtype: Leather Armor
-effects: '**Mental Feedback**'
+effect_name: Mental Feedback
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mental Feedback on target's attacker.\n    - Inflicts 103 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1744087836 1116983235:Slayer's Gloves of Frost\/a
 categories:
 - Ability Modifier (Equipment)

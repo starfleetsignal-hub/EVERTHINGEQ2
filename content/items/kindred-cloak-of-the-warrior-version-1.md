@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   dps: '8.1'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 25.0."
 item_link: \aITEM -1722700717 2037131377:Kindred Cloak of the Warrior\/a
 image: images/Kindred_Cloak_of_the_Warrior.jpg
 categories:

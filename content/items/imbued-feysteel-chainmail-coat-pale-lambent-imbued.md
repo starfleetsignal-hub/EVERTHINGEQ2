@@ -12,7 +12,8 @@ stats:
   agi: '+10'
   mit: '144'
   dtype: Chain Armor
-effects: '**Pale Lambent Imbued**'
+effect_name: Pale Lambent Imbued
+effects: "- Applies Pale Lambent Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Pale Lambent Rejuvenation on caster.  Lasts for 20.0 seconds.\n    - Heals target for 27 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1697371405 -1733631709:Imbued Feysteel Chainmail Coat\/a
 categories:
 - Assassin Equipment

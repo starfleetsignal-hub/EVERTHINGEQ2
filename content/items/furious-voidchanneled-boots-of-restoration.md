@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent."
 item_link: \aITEM 1911020604 1189877948 0 0 0:Furious Voidchanneled Boots of Restoration\/a
 categories:
 - Casting Speed (Equipment)

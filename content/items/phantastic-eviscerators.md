@@ -24,7 +24,8 @@ stats:
   drating: '1605.12'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Rending Torrent**<br>**Phanatic**<br>**Phantastic Power**'
+effect_name: Rending Torrent, Phanatic, Phantastic Power
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 50% chance to cast Rending Torrent on target of spell.  Lasts for 14.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases physical and elemental damage done to target by 2%.\n    - Inflicts 4,155 crushing damage on target.\n    - Inflicts 416 crushing damage on target every 2 seconds.\n    - Inflicts 4,155 cold damage on target.\n    - Inflicts 416 cold damage on target every 2 seconds.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 14.0 seconds.\n- Applies Phanatic when Equipped.\n  - Grants protection from powerful shadow magic and allows the target to bypass certain akhessar protection magic.\n- When Equipped:\n  - Gains power as you complete the \"Colossal Conundrum\", \"Dabbling in the Darkside\", and \"Triumph: Pall of All of Vex Thal\" achievements."
 obtained_from: 'Crafted by [[Artisan]] (level 120) from [[Recipe: Phantastic Eviscerators]]'
 item_link: \aITEM -1206085350 649639546:Phantastic Eviscerators\/a
 categories:

@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Spirit of Innoruuk''s Chosen**'
+effect_name: Featherfall, Spirit of Innoruuk's Chosen
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Spirit of Innoruuk's Chosen when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into a dark elf\n  - The casting time of Spirit of Innoruuk's Chosen is 1.0 second and the reuse time of the spell is 5.0 seconds"
 obtained_from: From [[Dark Elf Heritage Armor Crate]]
 item_link: \aITEM 352564733 -1932679743:Cloak of Innoruuk's Chosen\/a
 categories:

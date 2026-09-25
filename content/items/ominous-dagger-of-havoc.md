@@ -16,7 +16,8 @@ stats:
   drating: '18.16'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Mindsieve**'
+effect_name: Mindsieve
+effects: "- When Equipped:\n  - On a critical spell hit this spell may cast Mindsieve II on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 64 - 71 mental damage on target.\n    - Increases power of caster by 11.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Mindsieve II on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 64 - 71 mental damage on target.\n    - Increases power of caster by 11.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 20) from [[Ancient Knowledge: Ominous Dagger of Havoc]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM 4163474 -1064768145:Ominous Dagger of Havoc\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   abmod: +2,721
   dps: '99'
   dtype: Symbols
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 4.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1001433710 -881659817:Staff of Elemental Study\/a
 categories:
 - Ability Modifier (Equipment)

@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit of the Bear
+effects: "- Applies Spirit of the Bear when activated. Lasts for 30 minutes.\n  - Increases Out-of-Combat Health Regeneration Per Tick of caster by 22\n  - Shapechanges caster into a bear\n  - This effect suspends during combat\n  - Only affects targets level 10 and above"
 obtained_from: Crafted by [[Craftsman]] (level 18) from [[Craftsman essentials volume 18]]
 item_link: \aITEM -357725742 307654310:Spirit Totem of the Bear\/a
 categories:

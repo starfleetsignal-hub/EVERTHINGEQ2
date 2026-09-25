@@ -17,7 +17,8 @@ stats:
   abmod: +3,750
   aspeed: '29.6'
   dtype: Symbols
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 3%.\n    - Inflicts 3,317 heat damage on target.\n    - Inflicts 3,317 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Scourge Sandals]]'
 item_link: \aITEM 3005451 2105738453:Heavy Blood Iron Talisman\/a
 image: images/Heavy_Bloodiron_Talisman.png

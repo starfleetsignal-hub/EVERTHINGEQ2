@@ -15,7 +15,8 @@ stats:
   critbonus: '0.8'
   potency: '3.6'
   dtype: Cloth Armor
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 90.\n    - Increases power of caster by 161.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -29939286 114664208:T'Lonian Cloth Hood\/a
 categories:
 - Casting Speed (Equipment)

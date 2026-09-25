@@ -16,7 +16,8 @@ stats:
   potency: '3.9'
   dps: '11'
   dtype: Leather Armor
-effects: '**Inner Flame**'
+effect_name: Inner Flame
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Inner Flame on caster.  Lasts for 8.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Crit Chance of caster by 35.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 105890048 -1789175474:Gi of Swirling Lava\/a
 categories:
 - Brawler Equipment

@@ -15,7 +15,8 @@ stats:
   potency: '2.8'
   abmod: '+71'
   vsarcane: '+280'
-effects: '**Enraging Heal**'
+effect_name: Enraging Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell has a 10% chance to cast Passive Aggressive on target of spell cast.  Lasts for 10.0 seconds.\n    - Decreases Hate Gain of target by 5.0.\n      - If not fighter\n    - Increases Hate Gain of target by 5.0.\n      - If fighter\n    - Cannot be modified except by direct means"
 item_link: \aITEM -132682575 1356460940 0 0 0:Queen's Whisper\/a
 categories:
 - Ability Modifier (Equipment)

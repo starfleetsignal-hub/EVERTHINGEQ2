@@ -19,7 +19,8 @@ stats:
   resolve: '250'
   aspeed: '17.5'
   flurry: '17'
-effects: '**Intervention**'
+effect_name: Intervention
+effects: "- Applies Intervention when Activated.  Lasts for 1 minute 30 seconds.\n  - Increases the damage and healing of raid members' abilities that naturally deal divine, magic or mental damage by 15.\n  - If caster is a Priest: Resurrects raid members with 50% health and power.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Intervention is 2.0 seconds and the reuse time of the spell is 15 minutes"
 item_link: \aITEM 216831741 1255655634:Furious Xakra Essence\/a
 aliases:
 - Furious Essence of Xakra (Version 1)

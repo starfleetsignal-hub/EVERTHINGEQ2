@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1'
   dps: '4.2'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 608.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 56) from [[Advanced Tailor Volume 56 (Heirloom)]] *Crafted by [[Tailor]] (level 56) from [[Advanced Tailor Volume 56 (Normal)]]'
 item_link: \aITEM -406986014 1591128340 0 0 0:pristine ruin imbued cambric hex doll\/a
 categories:

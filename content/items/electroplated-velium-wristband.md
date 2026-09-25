@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Sadist**'
+effect_name: Sadist
+effects: "- When Equipped:\n  - Whenever a group member takes damage, the wearer will gain 5% potency for 24 seconds. Increments up to 12 times. Only triggers if the wearer is a fighter.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -905317893 1109110188:Electroplated Velium Wristband\/a
 categories:
 - Arcane Resistance (Equipment)

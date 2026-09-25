@@ -12,7 +12,8 @@ stats:
   sta: '+15'
   abmod: '+8'
   vsarcane: '+120'
-effects: '**See Invisible**'
+effect_name: See Invisible
+effects: "- When Equipped:\n  - Grants See Invisibility to caster."
 obtained_from: Dropped by *[[Acrimoniad]] in [[The Feerrott]] *[[King Zatan]] in [[Everfrost]] *[[Knubed]] in [[Permafrost]] *[[Solusek's Fist]] in [[Lavastorm]] *[[Clay insurgent]] in [[Runnyeye]] *[[The Runnyeye Brewmeister]] in [[Runnyeye]] *[[The Vision of Vox]] in [[Permafrost]] *
 item_link: \aITEM -2109115536 1647721007:Band of Detection\/a
 categories:

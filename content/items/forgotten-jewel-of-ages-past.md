@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   abmod: +1,250
-effects: '**Shared Insight**'
+effect_name: Shared Insight
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 65 if they have 2 or more grouped allies within 5 meters of them."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Secrets of the Doomwing, Volume I]] *Made from [[Shard of the Doomwing]]'
 item_link: \aITEM 1443799442 -815018283:Forgotten Jewel of Ages Past\/a
 categories:

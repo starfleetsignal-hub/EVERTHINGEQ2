@@ -15,7 +15,8 @@ stats:
   potency: '0.5'
   dps: '2.2'
   dtype: Chain Armor
-effects: '**Flowing Night**'
+effect_name: Flowing Night
+effects: "- When Equipped:\n  - Increases DPS of caster by 5.0.\n  - Increases Haste of caster by 5.0.\n  - Increases in-combat movement speed of caster by 5.0%."
 obtained_from: '*Crafted by [[Armorer]] (level 50) from [[Ancient Knowledge: Melodic Coat of Distortion]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM -1218996725 -1112142766:Melodic Coat of Distortion\/a
 categories:

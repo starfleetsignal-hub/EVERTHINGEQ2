@@ -16,7 +16,8 @@ stats:
   abmod: '+381'
   multi: '17'
   vselemental: +1,782
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 5.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -12619740 800598826:Shelik's Earstud of the Mindscorch\/a
 categories:
 - Ability Modifier (Equipment)

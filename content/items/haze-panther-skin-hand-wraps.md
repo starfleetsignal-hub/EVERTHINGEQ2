@@ -16,7 +16,8 @@ stats:
   potency: '9.6'
   multi: '14.9'
   dtype: Leather Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0."
 obtained_from: '[[In Search of Satyr]]'
 item_link: \aITEM -1362807091 -828564483:Haze Panther Skin Hand Wraps\/a
 categories:

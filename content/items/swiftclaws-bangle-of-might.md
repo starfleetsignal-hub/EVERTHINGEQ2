@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Unexpected Insult**'
+effect_name: Unexpected Insult
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Unexpected Insult on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Threat to target by 750,664\n    - Increases Crit Bonus of raid and group members (AE) by 5.5.\n    - Cannot be modified except by direct means\n  - If not fighter\n  - Cannot be modified except by direct means"
 item_link: \aITEM 847428088 932568125:Swiftclaw's Bangle of Might\/a
 categories:
 - Ability Modifier (Equipment)

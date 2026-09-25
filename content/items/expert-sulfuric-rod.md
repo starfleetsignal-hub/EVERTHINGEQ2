@@ -24,7 +24,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Devastation Strike**'
+effect_name: Devastation Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,954 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 item_link: \aITEM 51817173 1747652511:Expert Sulfuric Rod\/a
 categories:
 - Ability Modifier (Equipment)

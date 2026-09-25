@@ -15,7 +15,8 @@ stats:
   potency: '12.8'
   abmod: '+568'
   vselemental: +2,079
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 3.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1687625671 -1910817749:Sentinel's Bracelet of the Wrecker\/a
 categories:
 - Ability Modifier (Equipment)

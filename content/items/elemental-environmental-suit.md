@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '83'
   dtype: Chain Armor
-effects: '**Elemental Environmental Suit**'
+effect_name: Elemental Environmental Suit
+effects: "- Applies Elemental Environmental Suit when Equipped.\n  - Converts 3% of all elemental damage received into power gain."
 obtained_from: Made with Tinkering (skill 120) from [[Dabbler's Blueprints 0.001]].
 item_link: \aITEM 1149839552 -1070664124:Elemental Environmental Suit\/a
 categories:

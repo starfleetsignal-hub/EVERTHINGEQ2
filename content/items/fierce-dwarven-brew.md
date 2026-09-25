@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   dtype: Symbols
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 3 percent."
 item_link: \aITEM 1897114572 690228137:Fierce Dwarven Brew\/a
 categories:
 - Ability Modifier (Equipment)

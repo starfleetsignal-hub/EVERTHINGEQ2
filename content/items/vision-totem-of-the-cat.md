@@ -7,7 +7,7 @@ level: '70'
 slot: Charm
 stats:
   charges: '5'
-effects: Totem of the Cat
+effects: "- Applies **Totem of the Cat** when activated. Lasts for 15 minutes.\n  - Grants 'See Invisibility' to the caster\n  - Grants 'See Stealth' to the caster\n  - Shapechanges caster into a cat"
 obtained_from: Crafted by [[Woodworker]] (level 72) from [[Woodworker Essentials Volume 72]]
 item_link: \aITEM -1831800405 -1931786741:[Vision Totem of the Cat]\/a
 categories:

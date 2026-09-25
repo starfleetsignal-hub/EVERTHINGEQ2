@@ -15,7 +15,8 @@ stats:
   potency: '3.7'
   abmod: '+92'
   dtype: Symbols
-effects: '**Magical Aptitude**'
+effect_name: Magical Aptitude
+effects: "- When Equipped:\n  - Reduces power cost of all spells by 2 percent."
 obtained_from: Crafted by [[Sage]] (level 70) from [[Bathezid Arcana Volume II]]
 item_link: \aITEM 852662841 562986629:Di'Zok Hatchery Rhymes\/a
 categories:

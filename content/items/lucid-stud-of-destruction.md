@@ -14,7 +14,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   vselemental: '+217'
-effects: '**Burrowing Swarm**'
+effect_name: Burrowing Swarm
+effects: "- Applies Burrowing Swarm VII when Activated.  Lasts for 12.0 seconds.\n  - Applies Boneshatter VII on termination.\n    - Inflicts 5,486 - 6,064 crushing damage on targets in Area of Effect.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Inflicts 139 - 169 poison damage on target.\n  - Inflicts 173 - 212 poison damage on target every second.\n  - Inflicts an additional 69 - 84 poison damage on target every tick.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Burrowing Swarm VII is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 70) from [[Ancient Knowledge: Lucid Stud of Destruction]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM -801374570 -1065512166:Lucid Stud of Destruction\/a
 categories:

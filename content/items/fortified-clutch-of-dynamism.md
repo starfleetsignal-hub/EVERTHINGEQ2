@@ -13,7 +13,8 @@ stats:
   crit: '0.2'
   potency: '0.5'
   vsarcane: '+130'
-effects: '**Arcane Resolution**'
+effect_name: Arcane Resolution
+effects: "- When Equipped:\n  - When damaged this spell has a 10% chance to cast Arcane Resolution V on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Mitigation of caster vs elemental, noxious and arcane damage by 520.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 50) from [[Ancient Knowledge: Fortified Clutch of Dynamism]] *Made from [[Aberrant Reactant]]'
 item_link: \aITEM 503065090 613791445:Fortified Clutch of Dynamism\/a
 categories:

@@ -19,7 +19,8 @@ stats:
   drating: '42.48'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Flaring Fist**'
+effect_name: Flaring Fist
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flaring Fist on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 7 - 8 (based on equipped weapon) melee damage on target\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 630473301 1084238893:The Right Hand of Master McGillin\/a
 categories:
 - Attack Speed (Equipment)

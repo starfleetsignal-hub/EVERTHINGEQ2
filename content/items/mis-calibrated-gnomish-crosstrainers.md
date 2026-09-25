@@ -11,7 +11,8 @@ stats:
   str: '+1'
   mit: '4'
   dtype: Chain Armor
-effects: '**Mis-Calibrated Gnomish Crosstrainers**'
+effect_name: Mis-Calibrated Gnomish Crosstrainers
+effects: "- Applies Mis-Calibrated Gnomish Crosstrainers when Activated.  Lasts for 30.0 seconds.\n  - Heals caster for 17.0% of max health.\n    - This effect cannot be critically applied.\n  - Increases speed of caster by 10.0%.\n  - The reuse time of Mis-Calibrated Gnomish Crosstrainers is 10 minutes"
 obtained_from: Made with Tinkering (skill 5) from [[Apprentice Blueprints 0.001]].
 item_link: \aITEM -1541932165 1238448546:Mis-Calibrated Gnomish Crosstrainers\/a
 aliases:

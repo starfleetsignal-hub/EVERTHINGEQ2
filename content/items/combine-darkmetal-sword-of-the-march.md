@@ -21,7 +21,8 @@ stats:
   drating: '242.02'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Bloodthirst**<br>**Astral Illumination**'
+effect_name: Bloodthirst, Astral Illumination
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 5.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Astral Illumination II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 125.0.\n    - Increases Strikethrough of caster by 4.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On any combat or spell hit this spell may cast Astral Illumination II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases AGI, INT, STR and WIS of caster by 125.0.\n    - Increases Strikethrough of caster by 4.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1054705364 1700821910 0 0 0:Combine Darkmetal Sword of the March\/a
 categories:
 - Ability Modifier (Equipment)

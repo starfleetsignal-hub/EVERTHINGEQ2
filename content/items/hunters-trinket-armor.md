@@ -17,7 +17,8 @@ stats:
   aspeed: '37.4'
   dps: '14.3'
   vselemental: +32,207
-effects: '**Firm Stance**'
+effect_name: Firm Stance
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 48%-120%. The value increases based on how long the wearer has stood still."
 item_link: \aITEM -1151013106 408222242:Hunter's Trinket\/a
 categories:
 - Ability Modifier (Equipment)

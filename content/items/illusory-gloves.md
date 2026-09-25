@@ -14,7 +14,8 @@ stats:
   crit: '4'
   abmod: '+50'
   dtype: Cloth Armor
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 item_link: \aITEM -683896995 1406583935:Illusory Gloves\/a
 categories:
 - Ability Modifier (Equipment)

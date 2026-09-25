@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Plate Armor
-effects: '**Lesser Majesty**'
+effect_name: Lesser Majesty
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 4% chance to cast Majesty on target's attacker.  Lasts for 3.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Stuns target\n    - Only affects targets level 88 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 91.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Restock the Wheel]]'
 item_link: \aITEM -1125091267 619737944:Tireless Barbute\/a
 categories:

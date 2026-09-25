@@ -13,7 +13,8 @@ stats:
   crit: '5.5'
   critbonus: '4.9'
   potency: '8.4'
-effects: '**Incandescent Blast**'
+effect_name: Incandescent Blast
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Incandescent Blast on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 1,998 magic damage on target.\n    - Inflicts 333 magic damage on target every 4 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -379437610 1042436883:Jeweled Eye of Amenophas\/a
 categories:
 - AE Autoattack Chance (Equipment)

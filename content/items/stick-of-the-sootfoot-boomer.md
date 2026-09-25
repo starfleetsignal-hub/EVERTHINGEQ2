@@ -20,7 +20,8 @@ stats:
   drating: '48.23'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Big Boom**'
+effect_name: Big Boom
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Big Boom on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 150 - 249 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: Talk to [[Blisterzonk]] after reaching -10,000 Sootfoot faction
 item_link: \aITEM 831363195 912754825:Stick of the Sootfoot Boomer\/a
 categories:

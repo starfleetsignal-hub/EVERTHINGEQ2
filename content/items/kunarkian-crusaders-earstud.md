@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   aspeed: '7.3'
   vselemental: '+400'
-effects: '**Rancor**'
+effect_name: Rancor
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rancor on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the base damage of melee damage and hostile spells cast by 10%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1508659567 -1340785364:Kunarkian Crusader's Earstud\/a
 categories:
 - Arcane Resistance (Equipment)

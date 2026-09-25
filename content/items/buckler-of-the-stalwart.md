@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '4.9'
   dtype: Buckler
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM -612683566 -270155051:Buckler of the Stalwart\/a
 categories:
 - Berserker Equipment

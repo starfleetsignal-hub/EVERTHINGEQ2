@@ -19,7 +19,8 @@ stats:
   resolve: '535'
   aspeed: '36.3'
   dtype: Cloth Armor
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1019990474 1645214802:Monumental Gloves, Relic of Old Velious\/a
 categories:
 - Attack Speed (Equipment)

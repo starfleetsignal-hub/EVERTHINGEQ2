@@ -16,7 +16,8 @@ stats:
   abmod: '+393'
   aspeed: '16.8'
   multi: '17.5'
-effects: '**Hurried Strikes**'
+effect_name: Hurried Strikes
+effects: "- When Equipped:\n  - Increases Accuracy of caster by 1.0%.\n  - Increases Multi Attack of caster by 3.0.\n  - Increases Haste of caster by 11.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2087575734 -1133848558:Usurper's Bargaining Tools\/a
 categories:
 - Ability Modifier (Equipment)

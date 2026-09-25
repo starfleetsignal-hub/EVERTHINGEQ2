@@ -18,7 +18,8 @@ stats:
   abmod: +7,668
   multi: '95.8'
   dtype: Plate Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM -2120010980 1339838283:Invigorated Stalwart Psionist's Crown\/a
 categories:
 - Ability Modifier (Equipment)

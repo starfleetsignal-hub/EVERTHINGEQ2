@@ -20,7 +20,8 @@ stats:
   drating: '62.42'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Shielding Ripple**'
+effect_name: Shielding Ripple
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Shielding Ripple VI on target of spell cast.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards target against 350 points of all damage\n    - Heals target for 366 - 404 instantly and every 2 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 60) from [[Ancient Knowledge: Dire Mace of Alleviation]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM -1369125777 1519583929:Dire Mace of Alleviation\/a
 categories:

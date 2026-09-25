@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   aspeed: '7.3'
   vsarcane: '+440'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 1 percent."
 obtained_from: Sold by [[Niala]] (Faction Merchant) in [[The Stonebrunt Highlands]]
 item_link: \aITEM -923684999 -1114547695:Bangle of the Deepwater Descendants\/a
 categories:

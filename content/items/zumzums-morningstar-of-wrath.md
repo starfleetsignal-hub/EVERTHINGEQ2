@@ -16,7 +16,8 @@ stats:
   drating: '16.21'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Prismatic Shard**'
+effect_name: Prismatic Shard
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Prismatic Shard on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 128 - 239 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 74611213 1575291730:Zumzum's Morningstar of Wrath\/a
 categories:
 - Beastlord Equipment

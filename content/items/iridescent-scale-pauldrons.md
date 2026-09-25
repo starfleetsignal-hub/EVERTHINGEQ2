@@ -15,7 +15,8 @@ stats:
   potency: '0.8'
   abmod: '+19'
   dtype: Plate Armor
-effects: '**Mindlash**'
+effect_name: Mindlash
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Mindlash on target's attacker.  Lasts for 24.0 seconds.\n    - Applies Mindlash Bite on termination.\n      - Inflicts 104 - 173 mental damage on target.\n    - Inflicts 69 - 114 mental damage on target every 4.8 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -691701017 -1809288830:Iridescent Scale Pauldrons\/a
 categories:
 - Ability Modifier (Equipment)

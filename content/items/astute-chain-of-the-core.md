@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +19,032
-effects: '**Nexus Core**'
+effect_name: Nexus Core
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Nexus Core II on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 166,540.\n    - Increases Potency of target by 20.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 item_link: \aITEM 877092609 -350262071:Astute Chain of the Core\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -21,7 +21,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Prismatic Glow**<br>**Prismatic Shard**'
+effect_name: Prismatic Glow, Prismatic Shard
+effects: "- Applies Prismatic Glow when Equipped.\n  - Increases Combat Power Regen of caster by 12.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Prismatic Shard on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 374 - 695 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Deception (Quest)|Deception]]'
 item_link: \aITEM 1110504160 -357617313:Prismatic Swiftblade of the Scale\/a
 categories:

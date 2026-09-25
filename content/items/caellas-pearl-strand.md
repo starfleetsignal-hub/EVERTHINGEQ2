@@ -15,7 +15,8 @@ stats:
   potency: '10.6'
   abmod: '+393'
   vselemental: +1,832
-effects: '**Catharsis**'
+effect_name: Catharsis
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a healing spell cast this spell may cast Catharsis II on target of spell.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 6,241 - 6,898.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -385282158 -1735906950:Caella's Pearl Strand\/a
 categories:
 - Ability Modifier (Equipment)

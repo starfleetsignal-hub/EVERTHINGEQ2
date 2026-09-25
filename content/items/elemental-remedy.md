@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 1.0 seconds
   recast: 15.0 seconds
-effects: elemental remedy
+effects: "- Applies elemental remedy when Activated.\n  - Dispels 19 levels of any elemental hostile effects on caster"
 obtained_from: Crafted by [[Scholar]] (level 14) from [[Scholar essentials volume 14]]
 item_link: \aITEM 585063739 -258628991:Elemental Remedy\/a
 categories:

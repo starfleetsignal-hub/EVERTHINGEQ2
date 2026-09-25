@@ -20,7 +20,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Exuding Dominance**'
+effect_name: Exuding Dominance
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Exuding Dominance on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 97.\n    - Inflicts 97 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 597498831 -1040160215:Dominance\/a
 categories:
 - Ability Modifier (Equipment)

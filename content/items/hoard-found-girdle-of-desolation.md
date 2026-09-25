@@ -17,7 +17,8 @@ stats:
   critbonus: 1,332.5
   potency: 43,342.7
   resolve: '525'
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1987357782 -733219302:Hoard Found Girdle of Desolation\/a
 categories:
 - Assassin Equipment

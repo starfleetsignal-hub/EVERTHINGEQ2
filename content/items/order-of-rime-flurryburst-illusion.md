@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 0.87 seconds
   recast: 0.0 seconds
-effects: Order of Rime Flurryburst Illusion
+effects: "- Applies Order of Rime Flurryburst Illusion when Activated.\n  - Shapechanges caster into an Order of Rime\n  - Adjusts the faction for The Order of Rime by 40,000 until your natural faction is -8800.\n  - If any of the following are true:\n    - Must be in zone [[Emperor's Athenaeum]]\n    - Must be in zone [[Kurn's Tower]]\n    - Must be in zone [[Kurn's Tower: Breaching the Void]]\n    - Must be in zone [[Kylong Plains]]\n    - Must be in zone [[Kunzar Jungle]]\n    - Must be in zone [[Jarsath Wastes]]\n    - Must be in zone [[Fens of Nathsar]]\n    - Must be in zone [[Great Divide]]\n    - Must be in zone [[Thurgadin, City of the Coldain]]\n    - Must be in zone [[Hold of Rime: The Fortress Spire]]"
 obtained_from: Given at the start of [[Infiltration System]]
 item_link: \aITEM 88743324 1374295398:[Order of Rime Flurryburst Illusion]\/a
 categories:

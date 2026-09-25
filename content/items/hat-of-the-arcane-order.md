@@ -18,7 +18,7 @@ stats:
   vsarcane: '+525'
   vsnoxious: '+525'
   dtype: Cloth Armor
-effects: Aggregate Mana
+effects: "- Applies Aggregate Mana when Activated.\n  - Increases power of caster by 445"
 item_link: 1639046984 -1171043889:Hat of the Arcane Order
 categories:
 - Arcane Resistance (Equipment)

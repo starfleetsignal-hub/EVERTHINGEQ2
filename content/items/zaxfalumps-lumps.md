@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Shared Aim**'
+effect_name: Shared Aim
+effects: "- When Equipped:\n  - Increases the group's crit bonus by 20%\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1726266711 -1167232442:Zaxfalump's Lumps\/a
 image: images/Zaxfalump's_Lumps.png
 categories:

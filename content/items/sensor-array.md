@@ -16,7 +16,8 @@ stats:
   aspeed: '33.4'
   dps: '13.1'
   vselemental: +26,832
-effects: '**Allied Energy**'
+effect_name: Allied Energy
+effects: "- When Equipped:\n  - Increases the wearer's Potency by 82.5 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 115."
 item_link: \aITEM -1355286155 -1370754113:Sensor Array\/a
 categories:
 - Ability Modifier (Equipment)

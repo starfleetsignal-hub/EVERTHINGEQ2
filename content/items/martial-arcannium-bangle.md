@@ -17,7 +17,8 @@ stats:
   dps: '26.4'
   multi: '19'
   vselemental: +29,243
-effects: '**Pirate''s Aim**'
+effect_name: Pirate's Aim
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Pirate's Aim on target of spell cast.  Lasts for 20.0 seconds.  Triggers about 5.0 times per minute.\n    - Heals target for 265,563.\n    - Increases Potency of target by 31.0.\n    - Increases Potency of caster by 72.0.\n    - Once healed by this effect, the wearer cannot trigger it again on the same target for 20 seconds\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Deepforge Advanced Jewelry]]
 item_link: \aITEM -1449797509 -991451980:Martial Arcannium Bangle\/a
 categories:

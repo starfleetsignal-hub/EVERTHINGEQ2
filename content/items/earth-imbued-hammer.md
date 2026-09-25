@@ -20,7 +20,8 @@ stats:
   drating: '120.04'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Sacred Territory**'
+effect_name: Sacred Territory
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Sacred Territory on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 800 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1506877798 -726756560:Earth Imbued Hammer\/a
 categories:
 - Attack Speed (Equipment)

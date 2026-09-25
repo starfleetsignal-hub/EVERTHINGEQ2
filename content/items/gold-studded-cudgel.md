@@ -16,7 +16,8 @@ stats:
   drating: '8.11'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Burst of Wrath Glyph**'
+effect_name: Burst of Wrath Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1869961068 2042137389:Gold-Studded Cudgel\/a
 categories:
 - Beastlord Equipment

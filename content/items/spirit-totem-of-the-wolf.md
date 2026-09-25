@@ -10,7 +10,7 @@ stats:
   charges: 1/1
   casting: 2.0 seconds
   recast: 60.0 seconds
-effects: Spirit Totem of the Wolf
+effects: "- Applies **Spirit Totem of the Wolf** when activated. Lasts for 30 minutes.\n  - Shape changed caster into a wolf\n  - Increases speed of caster by 24%\n  - This effect suspends during combat\n  - Only effects targets level 15 and above"
 obtained_from: Crafted by [[Woodworker]] (level 39) from [[Woodworker Essentials Volume 39]]
 item_link: -264650094 -680335635:Spirit Totem of the Wolf
 categories:

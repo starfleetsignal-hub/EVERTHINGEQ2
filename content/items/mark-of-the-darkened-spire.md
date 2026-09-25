@@ -16,7 +16,8 @@ stats:
   abmod: '+893'
   dps: '16'
   vselemental: +37,985
-effects: '**Furious Barrage**'
+effect_name: Furious Barrage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Furious Barrage on caster.  Lasts for 6.0 seconds.  Triggers about 1.8 times per minute.\n    - On a hostile ability cast this spell will cast Furious Barrage on the group.  Lasts for 12.0 seconds.\n      - Increases Potency of group members (AE) by 38.0, multiplied by increment stacks.\n      - Increments up to 5 times\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Thalumbra Indicia]]'
 item_link: \aITEM 1959876264 465483015:Mark of the Darkened Spire\/a
 categories:

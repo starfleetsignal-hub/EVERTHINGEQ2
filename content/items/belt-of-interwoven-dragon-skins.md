@@ -15,7 +15,8 @@ stats:
   potency: '11'
   aspeed: '17.9'
   dps: '28.8'
-effects: '**Sacred Tempest**'
+effect_name: Sacred Tempest
+effects: "- When Equipped:\n  - This effect will not stack with itself or similar effects.\n  - On a spell cast this spell may cast Sacred Surge on the group.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Heals group members (AE) for 2,377 - 2,628.\n    - Heals group members (AE) for 1,259 - 1,391 every 5 seconds.\n    - Increases Crit Bonus of group members (AE) by 15.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 880771372 1518630503:Belt of Interwoven Dragon Skins\/a
 categories:
 - Attack Speed (Equipment)

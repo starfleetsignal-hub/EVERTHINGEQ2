@@ -18,7 +18,7 @@ stats:
   vselemental: '+664'
   vsarcane: +1,162
   dtype: Chain Armor
-effects: Greater Hollow Aria
+effects: "- When Equipped:\n  - Adds an additional trigger chance increase to Chimes of Blades and Perfection of the Maestro."
 item_link: -1222787454 2068254531:Harmonic Museweave Hauberk
 categories:
 - Arcane Resistance (Equipment)

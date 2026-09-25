@@ -20,7 +20,8 @@ stats:
   drating: '59.99'
   dtype: One-Handed Piercing
   wtype: Spear
-effects: '**Malisement**'
+effect_name: Malisement
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Malisement on target of spell.  Lasts for 36.0 seconds.  Triggers about 1.0 times per minute.\n    - Decreases Mitigation of target vs elemental and noxious damage by 864 - 1,056.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -966795601 -1325913295:Spear of the Chaos Dragoons\/a
 categories:
 - Assassin Equipment

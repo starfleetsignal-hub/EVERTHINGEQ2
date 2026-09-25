@@ -9,7 +9,7 @@ stats:
   charges: (1/1)
   casting: (varies, see notes)
   recast: (varies)
-effects: Escape Root
+effects: "- Applies Escape Root when Activated.\n  - Teleports caster and caster's group within the zone (% chance varies, see notes)"
 obtained_from: A [[Carnivorous Plant]]
 image: images/Escrootexamine.jpg
 aliases:

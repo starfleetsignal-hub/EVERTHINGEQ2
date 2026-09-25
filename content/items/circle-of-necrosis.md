@@ -15,7 +15,8 @@ stats:
   potency: '3.9'
   aspeed: '6'
   vselemental: '+360'
-effects: '**Tireless Sinew**'
+effect_name: Tireless Sinew
+effects: "- When Equipped:\n  - On a melee hit this spell may cast Tireless Sinew on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces all physical damage done to caster by 200.\n    - Increases Multi Attack of caster by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[The Black Heart of Hatred]]'
 item_link: \aITEM 636134484 1106408362:Circle of Necrosis\/a
 categories:

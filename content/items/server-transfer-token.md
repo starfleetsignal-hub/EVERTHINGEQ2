@@ -10,7 +10,8 @@ description: This grants the purchaser a one-time opportunity to move one charac
 stats:
   casting: '1.98'
   recast: '1.9'
-effects: Server Transfer
+effects: "- Applies Server Transfer when Activated.\n  - Allows moving a character to another server on the same account.\n  - Character transfer service requires that character remains on its existing active Station Account (which must be more than sixty (60) days old).\n  - Shared bank items and housing items belonging to other characters will not be transferred with the character and will be deleted. Deleted contents will not be replaced or reimbursed.\n  - Transfers can not be completed for characters who currently have items for sale on or coin available for collection from an in-game broker or who have in-game mail; please remove or collect any such items prior to initiating character transfer.\n  - Character names are not guaranteed upon transfer; if character's name already exists on destination server, a new name will need to be entered in the provided name change field.\n  - Characters guild affiliation will be removed.\n  - Token and related transfer are not refundable.\n  - For\
+  \ complete terms and conditions please see the EQII Character Server Transfer Service rules at http://everquest2.com/shop/charactertransfer"
 obtained_from: Purchased via the [[Marketplace]].
 item_link: \aITEM 273289945 965844616:Server Transfer Token\/a
 categories:

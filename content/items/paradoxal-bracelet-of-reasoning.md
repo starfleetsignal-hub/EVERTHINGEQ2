@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   abmod: '+381'
   vselemental: +1,728
-effects: '**Resolute Meditation**'
+effect_name: Resolute Meditation
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Resolute Meditation IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Power Regen of caster by 15.0.\n    - Increases Max Health of caster by 2,988.0.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Resolute Meditation IV on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Power Regen of caster by 15.0.\n    - Increases Max Health of caster by 2,988.0.\n    - Reduces resistibility of all spells by 1%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -43486672 -223310914:Paradoxal Bracelet of Reasoning\/a
 categories:
 - Ability Modifier (Equipment)

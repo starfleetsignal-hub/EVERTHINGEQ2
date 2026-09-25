@@ -15,7 +15,8 @@ stats:
   potency: '20.2'
   dps: '21.8'
   multi: '31.2'
-effects: '**Lightning Strikes**'
+effect_name: Lightning Strikes
+effects: "- When Equipped:\n  - Increases Damage Per Second and Attack Speed by 28 for each target who hates the wearer, up to 112 maximum."
 item_link: \aITEM 1615877075 -624400955:Silvered Gorget of Diverse Strikes\/a
 categories:
 - Assassin Equipment

@@ -16,7 +16,8 @@ stats:
   potency: '7.2'
   multi: '12'
   dtype: Chain Armor
-effects: '**Ancient Invigoration**'
+effect_name: Ancient Invigoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Ancient Invigoration on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards target against 2,400 points of all damage\n    - Replenishes 500 points of absorption every 2 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 838854831 -1517852888:Enduring Spirit Chain Legs of the Plague\/a
 categories:
 - Ancient Invigoration (Equipment)

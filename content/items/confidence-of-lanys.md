@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Building Confidence**'
+effect_name: Building Confidence
+effects: "- When Equipped:\n  - Applies Building Confidence.  Lasts for 24.0 seconds.\n    - Increases STA of caster by 75.0, multiplied by increment stacks.\n    - Increases Potency of caster by 5.0, multiplied by increment stacks.\n    - This has a 30% chance to trigger when the wearer avoids an attack. This effect increments up to 10 times.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1098520775 1035463507:Confidence of Lanys\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -16,7 +16,8 @@ stats:
   strike: '11.7'
   dps: '18.1'
   vselemental: +1,349
-effects: '**Stonewill**'
+effect_name: Stonewill
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Stonewill on caster.  Lasts for 12.0 seconds.  Triggers about 1.4 times per minute.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means\n  - When damaged this spell has a 7% chance to cast Stonewill on caster.  Lasts for 12.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Wards caster against 2,000 points of all damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1770040481 925665150:Brace of Regulus\/a
 categories:
 - Arcane Resistance (Equipment)

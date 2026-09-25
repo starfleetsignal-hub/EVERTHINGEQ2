@@ -19,7 +19,8 @@ stats:
   vsarcane: '+205'
   vsnoxious: '+553'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Attack Speed of caster by 35.0"
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)

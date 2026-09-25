@@ -18,7 +18,8 @@ stats:
   resolve: '505'
   flurry: '72.1'
   dtype: Chain Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 20 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 556289136 992267226:Mausoleum Nexus Coif\/a
 categories:
 - Assassin Equipment

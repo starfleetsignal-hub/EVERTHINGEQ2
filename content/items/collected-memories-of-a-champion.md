@@ -16,7 +16,8 @@ stats:
   potency: '5.2'
   aspeed: '7.6'
   dps: '13.4'
-effects: '**Blade Mastery**'
+effect_name: Blade Mastery
+effects: "- When Equipped:\n  - Increases Ranged Weapon Range of caster by 25.0%.\n  - 5% of all physical damage received by the caster is prevented."
 item_link: \aITEM 2000254038 -1791167952:Collected Memories of a Champion\/a
 categories:
 - Attack Speed (Equipment)

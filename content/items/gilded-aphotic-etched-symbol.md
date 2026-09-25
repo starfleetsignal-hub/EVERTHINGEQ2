@@ -17,7 +17,8 @@ stats:
   abmod: +1,912
   dps: '53.5'
   dtype: Symbols
-effects: '**Neural Lash**'
+effect_name: Neural Lash
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Neural Lash on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 4,649 divine damage on target encounter.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Alcove of Reason Collection (Collection)]]'
 item_link: \aITEM 705021684 1041467573:Gilded Aphotic Etched Symbol\/a
 categories:

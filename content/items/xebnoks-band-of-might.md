@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   dps: '13'
   vselemental: '+880'
-effects: '**Rotting Shield**'
+effect_name: Rotting Shield
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Rotting Shield on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards caster against 1,000 points of physical damage\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 484013507 530873399:Xebnok's Band of Might\/a
 image: images/Xebnok's_Band_of_Might.jpg
 categories:

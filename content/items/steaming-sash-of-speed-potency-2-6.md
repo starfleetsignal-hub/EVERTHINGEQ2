@@ -15,7 +15,8 @@ stats:
   potency: '5'
   aspeed: '7'
   multi: '7.8'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 item_link: \aITEM -465933270 1243230904:Steaming Sash of Speed\/a
 categories:
 - Assassin Equipment

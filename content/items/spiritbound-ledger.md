@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '27'
   potency: '27'
-effects: '**Crimson Contract**'
+effect_name: Crimson Contract
+effects: "- Applies Crimson Contract when Activated.\n  - Each group member who donates lifeforce to this heal will receive 50% less healing for 30s\n  - Heals caster for 5% of their maximum health, plus 1% for each group member within 35m\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of Crimson Contract is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM 884230644 -28077389:Spiritbound Ledger\/a
 categories:
 - Assassin Equipment

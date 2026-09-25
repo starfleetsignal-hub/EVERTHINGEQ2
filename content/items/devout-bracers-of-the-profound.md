@@ -15,7 +15,8 @@ stats:
   critbonus: '0.3'
   potency: '1.7'
   dtype: Plate Armor
-effects: '**Divine Conservation**'
+effect_name: Divine Conservation
+effects: "- When Equipped:\n  - Reduces the power cost of beneficial spells by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 70) from [[Ancient Knowledge: Devout Bracers of the Profound]] *Made from [[Phenomenal Reactant]]'
 item_link: \aITEM 100369546 -1280898048:Devout Bracers of the Profound\/a
 categories:

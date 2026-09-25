@@ -18,7 +18,8 @@ stats:
   abmod: '+279'
   multi: '14'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 obtained_from: Dropped by [[High Shinu-Zonn Cerulea]] in [[Citadel of V'uul]]
 item_link: \aITEM 646338186 -155635961:Animist's Cuffs of the Citadel\/a
 categories:

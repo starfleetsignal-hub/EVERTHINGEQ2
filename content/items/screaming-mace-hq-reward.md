@@ -17,7 +17,8 @@ stats:
   drating: '33.79'
   dtype: One-Handed Crushing
   wtype: Great Hammer
-effects: '**Terror Yaulp**'
+effect_name: Terror Yaulp
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Terror Yaulp on target of attack.  Lasts for 36.0 seconds.  Triggers about 1.8 times per minute.\n    - Decreases Threat to caster by 824\n      - Must be flanking or behind\n    - Increases Threat to caster by 1,442\n      - Must be in front of\n    - Increases power of caster by 110.\n    - Increases STR, AGI, INT and WIS of caster by 10.3.\n    - Increases Max Power of caster by 292.5.\n    - Cannot be modified except by direct means"
 obtained_from: 'Heritage quest reward: [[The Screaming Mace]]'
 item_link: \aITEM -751526944 798155464:Screaming Mace\/a
 categories:

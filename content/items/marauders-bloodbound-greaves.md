@@ -18,7 +18,8 @@ stats:
   flurry: '5.1'
   mitinc: '7.6'
   dtype: Plate Armor
-effects: '**Courageous Charge**'
+effect_name: Courageous Charge
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 33% chance to cast Courageous Charge on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 5,296 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - On a hostile spell hit this spell has a 33% chance to cast Courageous Charge on target of spell.\n    - Inflicts 5,296 mental damage on target.\n    - If over 85% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1170722137 1535240166:Marauder's Bloodbound Greaves\/a
 categories:
 - Attack Speed (Equipment)

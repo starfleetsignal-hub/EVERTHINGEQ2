@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   abmod: '+80'
-effects: '**Act of Survival**'
+effect_name: Act of Survival
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Act of Survival on target of spell.  Triggers about 1.6 times per minute.\n    - Inflicts 239 magic damage on target.\n    - Heals caster for 146.\n    - Cannot be modified except by direct means"
 obtained_from: '[[A Higher Purpose]]'
 item_link: \aITEM 702234651 -934577847:Survival Accord Beacon\/a
 image: images/Survival_Accord_Beacon.jpg

@@ -14,7 +14,7 @@ stats:
   crit: '2'
   vsarcane: '+533'
   vsnoxious: '+533'
-effects: Soulsiphon
+effects: "- When Equipped\n  - On a successful hostile spell this spell has a chance to cast Soulsiphon on target of spell. This effect will trigger an average of 2.0 times per minute.\n    - Decreases power of target by 250\n    - Increases power of caster by 139\n    - This spell cannot be modified except by direct means."
 obtained_from: '*Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] (Infused Shard Jewelry Merchant) for 15 shards *Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]'
 categories:
 - Arcane Resistance (Equipment)

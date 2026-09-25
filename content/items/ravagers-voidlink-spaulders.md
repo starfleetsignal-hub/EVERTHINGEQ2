@@ -18,7 +18,8 @@ stats:
   vselemental: '+332'
   vsnoxious: '+581'
   dtype: Chain Armor
-effects: '**Empowered Arts**'
+effect_name: Empowered Arts
+effects: "- When equipped\n  - Increases base Combat Art damage by 8%"
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume IV]] Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}}
 categories:
 - Ability Modifier (Equipment)

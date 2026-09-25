@@ -22,7 +22,8 @@ stats:
   drating: '134.17'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Immaterial Barrier**<br>**Sacred Territory**'
+effect_name: Immaterial Barrier, Sacred Territory
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Immaterial Barrier on target of spell cast.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases Mitigation of target vs all damage by 1,116.\n    - This effect can be stacked by multiple casters.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a healing spell cast this spell may cast Sacred Territory on the group.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Wards group members (AE) against 3,500 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 45103168 166499723:Phaestus, Tempered Yaellite Hammer\/a
 categories:
 - Attack Speed (Equipment)

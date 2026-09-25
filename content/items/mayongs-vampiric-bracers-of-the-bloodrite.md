@@ -18,7 +18,8 @@ stats:
   abmod: +224,846
   cbovercap: '+1219.5'
   dtype: Plate Armor
-effects: '**Bloodcrazed**'
+effect_name: Bloodcrazed
+effects: "- When Equipped:\n  - Increases Ability Doublecast of caster by 5.0.\n  - Increases Fervor of caster by 18.0.\n  - Increases in-combat movement speed of caster by 20.0%.\n  - Increases Fervor Overcap of caster by 5.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 138127345 2140525256:Mayong's Vampiric Bracers of the Bloodrite\/a
 categories:
 - Ability Modifier (Equipment)

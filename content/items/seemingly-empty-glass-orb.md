@@ -16,7 +16,8 @@ stats:
   abmod: '+133'
   dps: '12.4'
   dtype: Symbols
-effects: '**Overflow**'
+effect_name: Overflow
+effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 18% chance to cast Overflow on the group.  This effect normalizes based off of a three second triggering event.\n    - Heals group members for 236.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2103832766 683107992:Seemingly Empty Glass Orb\/a
 categories:
 - Ability Modifier (Equipment)

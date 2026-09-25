@@ -15,7 +15,8 @@ stats:
   potency: '22.3'
   dps: '25.6'
   multi: '32.5'
-effects: '**Impish Trick**'
+effect_name: Impish Trick
+effects: "- When Equipped:\n  - If adorned on the same item, this effect will not stack with itself.\n  - On a critical spell hit this spell may cast Impish Trick on target of spell.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 10,688 - 11,813 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 2,655.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical combat hit this spell may cast Impish Trick on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 10,688 - 11,813 heat damage on target.\n    - Decreases Mitigation of target vs elemental damage by 2,655.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1122248402 262448918:Impish Choker of Abhorrence\/a
 categories:
 - Assassin Equipment

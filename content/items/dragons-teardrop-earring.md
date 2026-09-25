@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Killing Spree**'
+effect_name: Killing Spree
+effects: "- When Equipped:\n  - On a death blow this spell will cast Killing Spree on caster.  Lasts for 30.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Increases Crit Bonus by 5.0 per increment\n    - Increments up to 5 times\n    - Cannot be modified except by direct means"
 obtained_from: '*Marketplace *[[Meditation and Annihilation]]'
 item_link: \aITEM -1990758055 285259905:Dragon's Teardrop Earring\/a
 image: images/Dragon's_Teardrop_Earring.png

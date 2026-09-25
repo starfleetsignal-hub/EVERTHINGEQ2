@@ -8,7 +8,7 @@ slot: Charm
 flags: Lore No-trade
 stats:
   charges: Unlimited
-effects: Call Reinforced Armored Warg
+effects: "- Applies Call Reinforced Armored Warg when applied. Lasts for 1 day.\n  - Increased Aggression, Crushing, Slashing and Ranged of Caster by 5.0\n  - Summons a mount to ride that increases your speed by 50%\n  - Increases Piercing of caster by 5.0"
 obtained_from: <br>
 item_link: \aITEM -729975418 -780102161:a reinforced warg summoning drum\/a
 categories:

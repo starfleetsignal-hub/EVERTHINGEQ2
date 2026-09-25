@@ -16,7 +16,7 @@ stats:
   charges: Unlimited
   casting: 0.5 seconds
   recast: 1.0 second
-effects: Diamond Dust
+effects: '- Applies Diamond Dust when Activated.'
 item_link: \aITEM 1208853702 -1678823637:Diamond Rod\/a
 categories:
 - Arcane Resistance (Equipment)

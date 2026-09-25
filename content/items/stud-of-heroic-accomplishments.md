@@ -15,7 +15,8 @@ stats:
   potency: '11'
   abmod: '+386'
   vselemental: +8,148
-effects: '**Dragonheart**'
+effect_name: Dragonheart
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 10.0.\n  - Increases Max Health of caster by 1,644.4.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -909424013 1645551324:Stud of Heroic Accomplishments\/a
 categories:
 - Ability Modifier (Equipment)

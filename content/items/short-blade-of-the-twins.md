@@ -16,7 +16,8 @@ stats:
   drating: '8.11'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Chill Gust Glyph**'
+effect_name: Chill Gust Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ice Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 17 - 21 cold damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1022174618 -2119078468:Short Blade of the Twins\/a
 categories:
 - Assassin Equipment

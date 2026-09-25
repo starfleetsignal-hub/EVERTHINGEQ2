@@ -18,7 +18,8 @@ stats:
   potency: 47,371.1
   resolve: '535'
   vselemental: +393,770
-effects: '**Bringer of Scourge**'
+effect_name: Bringer of Scourge
+effects: "- When Equipped:\n  - Increases Potency of caster by 10,011.2.\n  - Increases Fervor of caster by 55.6.\n  - Increases Fervor Overcap of caster by 55.6.\n  - Increases Crit Bonus of caster by 380.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 538603807 -1725475198:Gentok's Phantasmal Conduit\/a
 categories:
 - Arcane Resistance (Equipment)

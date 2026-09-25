@@ -19,7 +19,8 @@ stats:
   aspeed: '89.3'
   mitinc: '22.4'
   dtype: Tower Shield
-effects: '**Decisive Strike**'
+effect_name: Decisive Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 11,717 crushing damage on target.\n    - Increases Crit Bonus of caster by 31.0.\n    - Increases Potency of caster by 48.7.\n    - Cannot be modified except by direct means"
 obtained_from: 'From [[Plane Traveler''s Weapon Kit: Fighter]]'
 item_link: \aITEM 1250292883 1133295357:Tishan's Tower Shield\/a
 image: images/Tishan's_Tower_Shield.png

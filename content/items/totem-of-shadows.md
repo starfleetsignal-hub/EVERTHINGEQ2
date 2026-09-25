@@ -16,7 +16,8 @@ stats:
   critbonus: '886.6'
   potency: 9,406.6
   resolve: '245'
-effects: '**Rising Tide**'
+effect_name: Rising Tide
+effects: "- Applies Rising Tide when Activated.  Lasts for 10.0 seconds.\n  - Applies Rising Tide on termination.  Lasts for 10.0 seconds.\n    - Increases Fervor of caster by 28.8.\n    - Cannot be modified except by direct means\n  - Decreases Fervor of caster by 24.0.\n  - Cannot be modified except by direct means\n  - The casting time of Rising Tide is 3.0 seconds and the reuse time of the spell is 5 minutes"
 obtained_from: 'Collection reward: [[Dangers of the Darkside]]'
 item_link: \aITEM -565074618 863160206:Totem of Shadows\/a
 aliases:

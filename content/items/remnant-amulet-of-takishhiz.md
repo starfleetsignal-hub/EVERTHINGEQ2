@@ -16,7 +16,8 @@ stats:
   critbonus: 1,292.2
   potency: 34,754
   resolve: '460'
-effects: '**Remanant of Power**'
+effect_name: Remanant of Power
+effects: "- When Equipped:\n  - Grants an additional 7 ability double attack chance when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 895076006 -1320729990:Remnant Amulet of Takish'Hiz\/a
 categories:
 - Ability Doublecast (Equipment)

@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Shared Glory**'
+effect_name: Shared Glory
+effects: "- When Equipped:\n  - When inflicting more than 2% of the target's maximum health in damage with a single hit, the wearer's group will gain 15% Crit Bonus for 20 seconds"
 item_link: \aITEM -829265173 987539088:Getiar's Ring of Dragons\/a
 categories:
 - Ability Modifier (Equipment)

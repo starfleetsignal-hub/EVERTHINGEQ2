@@ -17,7 +17,8 @@ stats:
   potency: 45,356.9
   resolve: '545'
   dps: '242.9'
-effects: '**Reliquae Historia**'
+effect_name: Reliquae Historia
+effects: "- When Equipped:\n  - Increases Potency of caster by 12,013.5.\n  - Increases Ability Doublecast of caster by 9.8.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 609310544 -481222449:Untarnished Majestic Relic Eminent Wrap\/a
 categories:
 - Assassin Equipment

@@ -20,7 +20,8 @@ stats:
   drating: '147.53'
   dtype: One-Handed Piercing
   wtype: Dagger
-effects: '**Arbiter''s Exacting**'
+effect_name: Arbiter's Exacting
+effects: "- Applies Arbiter's Exacting when Activated.  Lasts for 15.0 seconds.\n  - Decreases Hate Gain of caster by 11.3 - 13.8.\n  - Increases Potency of caster by 15.0.\n  - Prevents AOE (except when direct)\n  - This item may not be used in a PvP zone.\n  - The reuse time of Arbiter's Exacting is 5 minutes"
 item_link: \aITEM -1399124394 1678334811:Arbiter's Silvery Dagger of Exacting\/a
 categories:
 - Arbiter's Exacting (Equipment)

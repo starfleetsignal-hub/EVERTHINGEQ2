@@ -16,7 +16,8 @@ stats:
   potency: '5'
   mitinc: '4.8'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 item_link: \aITEM 1861531448 757105263:Feasting Flesh Legwraps\/a
 categories:
 - Assassin Equipment

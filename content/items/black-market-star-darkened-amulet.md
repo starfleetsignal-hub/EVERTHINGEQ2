@@ -16,7 +16,8 @@ stats:
   critbonus: 1,184.6
   potency: 26,268.4
   resolve: '365'
-effects: '**Market Correction**<br>**Back Room Dealings**'
+effect_name: Market Correction, Back Room Dealings
+effects: "- Applies Market Correction when Activated.\n  - Fires a powerful beam straight ahead of the caster, dealing damage to any targets in its path. The damage ticks 3 additional times.\n  - Targets hit by the beam are also afflicted with a crippling fear that saps attributes and causes the target to take 3% more damage for 15 seconds\n  - In Renewal of Ro or previous expansion zones\n  - Cannot be modified except by direct means\n  - The casting time of Market Correction is 0.85 seconds and the reuse time of the spell is 1 minute\n- When Equipped:\n  - Increases Fervor of caster by 30.9.\n  - Increases Fervor Overcap of caster by 61.7.\n  - Increases Potency of caster by 3,962.5.\n  - In Renewal of Ro or previous expansion zones"
 item_link: \aITEM -1540178251 784692202:Black Market Star Darkened Amulet\/a
 categories:
 - Ability Doublecast (Equipment)

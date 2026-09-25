@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   multi: '19.7'
   dtype: Plate Armor
-effects: '**Swiftness in the Dark**'
+effect_name: Swiftness in the Dark
+effects: "- When Equipped:\n  - Increases in-combat movement speed of caster by 5.0%.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM 1156357250 -261771421:Polished Plate Boots of the Volatile Avenger\/a
 categories:
 - Casting Speed (Equipment)

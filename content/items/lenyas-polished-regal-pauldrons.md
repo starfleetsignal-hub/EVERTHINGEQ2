@@ -18,7 +18,8 @@ stats:
   aspeed: '23.1'
   cbovercap: '+1149.8'
   dtype: Plate Armor
-effects: '**Blessings of the Queen**'
+effect_name: Blessings of the Queen
+effects: "- When Equipped:\n  - Increases Strikethrough of caster by 5.0%.\n  - Increases in-combat movement speed of caster by 15.0%.\n  - Increases Fervor of caster by 35.0.\n  - Increases Fervor Overcap of caster by 15.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1179319014 -1067299696:Lenya's Polished Regal Pauldrons\/a
 categories:
 - Assassin Equipment

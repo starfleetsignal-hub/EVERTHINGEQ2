@@ -16,7 +16,8 @@ stats:
   dps: '28.8'
   multi: '18.6'
   flurry: '7.9'
-effects: '**Velium Pulse**'
+effect_name: Velium Pulse
+effects: "- When Equipped:\n  - This effect will not stack with itself or similar effects.\n  - On a critical combat hit this spell may cast Velium Pulse on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases AGI, STR, INT and WIS of group members by 200.0.\n    - Increases Haste of group members by 50.0.\n    - Increases DPS of group members by 65.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Velium Pulse on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases AGI, STR, INT and WIS of group members by 200.0.\n    - Increases Haste of group members by 50.0.\n    - Increases DPS of group members by 65.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1126337878 680882365:Pearl and Dragon Bone Chord\/a
 categories:
 - Assassin Equipment

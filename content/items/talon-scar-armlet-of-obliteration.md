@@ -16,7 +16,8 @@ stats:
   potency: 44,349.8
   resolve: '525'
   vselemental: +374,075
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 90 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 408672619 219231522:Talon Scar Armlet of Obliteration\/a
 categories:
 - Arcane Resistance (Equipment)

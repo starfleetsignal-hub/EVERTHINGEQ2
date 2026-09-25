@@ -18,7 +18,8 @@ stats:
   resolve: '16'
   abmod: +1,805
   dps: '30.8'
-effects: '**Trained to Battle**'
+effect_name: Trained to Battle
+effects: "- When Equipped:\n  - Thermal Depletion will siphon Fervor to the caster.\n  - Etherflash will grant Potency to the caster and the caster's friendly target.\n  - Terrene Destruction will increase the casters Crit Bonus and Crit Bonus Overcap.\n  - Adds a combat mitigation reduction to Toxic Life."
 obtained_from: '[[Finding Dolas]]'
 item_link: \aITEM -1512935560 1986494233:Golden Necklace of Rime\/a
 categories:

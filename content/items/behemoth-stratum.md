@@ -16,7 +16,8 @@ stats:
   resolve: '2'
   abmod: '+779'
   dps: '27'
-effects: '**Allied Strength**'
+effect_name: Allied Strength
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 55 if they have 1 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 80."
 item_link: \aITEM 589161948 1131462903:Behemoth Stratum\/a
 image: images/Behemoth_Stratum.png
 categories:

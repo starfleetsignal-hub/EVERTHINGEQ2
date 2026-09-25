@@ -17,7 +17,8 @@ stats:
   drating: '1.44'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Celestial Glow**'
+effect_name: Celestial Glow
+effects: '- Applies Celestial Glow when Equipped.'
 item_link: \aITEM 860880570 668235983:Divine Celestial Mallet\/a
 categories:
 - Beastlord Equipment

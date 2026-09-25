@@ -14,7 +14,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   multi: '5.8'
-effects: '**Act of Survival**'
+effect_name: Act of Survival
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Act of Survival on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 239 magic damage on target.\n    - Heals caster for 146.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1570128621 -1231530315:Survival Accord Brooch\/a
 categories:
 - Act of Survival (Equipment)

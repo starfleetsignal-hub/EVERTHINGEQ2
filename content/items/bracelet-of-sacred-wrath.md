@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +26,832
-effects: '**Mob''s Wrath**'
+effect_name: Mob's Wrath
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Mob's Wrath III on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases Crit Bonus of caster by 18.0.\n    - Increases Potency of caster by 18.0.\n    - Inflicts 512,000-776,000 slashing damage to the target based on how many raid members are within 15 meters of the caster\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1343699901 -1942209243:Bracelet of Sacred Wrath\/a
 categories:
 - AE Autoattack Chance (Equipment)

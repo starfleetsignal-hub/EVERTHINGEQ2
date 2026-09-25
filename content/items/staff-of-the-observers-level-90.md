@@ -19,7 +19,8 @@ stats:
   drating: '171.86'
   dtype: Two-Handed Crushing
   wtype: Mace
-effects: '**Sentinel**'
+effect_name: Sentinel
+effects: "- Applies Sentinel when Activated.  Lasts for 10 minutes.\n  - Summons a pet Sentinel\n  - This effect cannot be cast during combat\n  - The casting time of Sentinel is 5.0 seconds and the reuse time of the spell is 1 hour"
 item_link: \aITEM -443059199 767663967:Staff of the Observers\/a
 categories:
 - Ability Modifier (Equipment)

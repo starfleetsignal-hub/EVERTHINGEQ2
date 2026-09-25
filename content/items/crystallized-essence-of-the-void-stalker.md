@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   vselemental: '+400'
-effects: '**Strike of the Void Stalker**'
+effect_name: Strike of the Void Stalker
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Strike of the Void Stalker on caster.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 3.0.\n    - Increases Potency of caster by 3.0.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1002778641 -2026338613:Crystallized Essence of the Void Stalker\/a
 categories:
 - AE Autoattack Chance (Equipment)

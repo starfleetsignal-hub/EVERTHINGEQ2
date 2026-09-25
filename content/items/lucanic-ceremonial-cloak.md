@@ -7,7 +7,8 @@ tier: Treasured
 level: '1'
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**'
+effect_name: Featherfall
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Lucanic Armor Crate]]
 item_link: \aITEM 327780980 -1560165889:Lucanic Ceremonial Cloak\/a
 categories:

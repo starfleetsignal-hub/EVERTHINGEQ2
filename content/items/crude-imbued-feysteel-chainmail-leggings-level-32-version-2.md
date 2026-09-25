@@ -12,7 +12,8 @@ stats:
   sta: '+10'
   mit: '144'
   dtype: Chain Armor
-effects: '**Faint Sanguine Imbued**'
+effect_name: Faint Sanguine Imbued
+effects: "- Applies Faint Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Faint Sanguine Feedback on target's attacker.\n    - Inflicts 31 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2070566864 -739361005:crude imbued feysteel chainmail leggings\/a
 aliases:
 - Crude imbued feysteel chainmail leggings (Level 30)

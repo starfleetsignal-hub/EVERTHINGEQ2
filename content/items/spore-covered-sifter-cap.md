@@ -16,7 +16,8 @@ stats:
   potency: '4.9'
   abmod: '+121'
   dtype: Cloth Armor
-effects: '**Sorcerous Alacrity**'
+effect_name: Sorcerous Alacrity
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent."
 obtained_from: Obtained by killing named NPC's in Moors of Ykesha
 item_link: \aITEM 1212769231 955809164:Spore-Covered Sifter Cap\/a
 categories:

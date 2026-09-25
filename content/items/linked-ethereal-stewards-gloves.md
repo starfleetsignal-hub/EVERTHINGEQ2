@@ -15,7 +15,8 @@ stats:
   potency: '10.3'
   dps: '22.9'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Sold by [[Drinal's Steward (Faction Merchant)]] in [[Obol Plains]]
 item_link: \aITEM -218858967 1936967003 0 0 0:Linked Ethereal Steward's Gloves\/a
 categories:

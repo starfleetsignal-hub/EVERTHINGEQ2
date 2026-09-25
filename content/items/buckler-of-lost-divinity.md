@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dtype: Buckler
-effects: '**Overloaded Heal**'
+effect_name: Overloaded Heal
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Overloaded Heal on caster.  Triggers about 3.6 times per minute.\n    - Heals group members (AE) for 351.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1391417059 1246774181:Buckler of Lost Divinity\/a
 categories:
 - Ability Modifier (Equipment)

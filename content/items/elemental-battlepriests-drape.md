@@ -15,7 +15,8 @@ stats:
   potency: '5.2'
   dps: '13.4'
   multi: '8.4'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Wardpriest's Drape]], [[Druidic Drape]] and 1p 50g
 item_link: \aITEM 413375970 659594233 0 0 0:Elemental Battlepriest's Drape\/a
 categories:

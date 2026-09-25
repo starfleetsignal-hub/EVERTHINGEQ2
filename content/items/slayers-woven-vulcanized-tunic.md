@@ -17,7 +17,8 @@ stats:
   abmod: '+28'
   dps: '4.4'
   dtype: Leather Armor
-effects: '**Lightning Bolt**'
+effect_name: Lightning Bolt
+effects: "- When Equipped:\n  - When any damage is received this spell has a 5% chance to cast Lightning Bolt on target's attacker.\n    - Inflicts 112 - 137 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1431147696 1271192953:Slayer's Woven Vulcanized Tunic\/a
 categories:
 - Ability Modifier (Equipment)

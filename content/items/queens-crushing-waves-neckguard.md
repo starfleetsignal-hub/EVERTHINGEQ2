@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   multi: '17'
-effects: '**Ethereal Temporality**'
+effect_name: Ethereal Temporality
+effects: "- When Equipped:\n  - Increases AE Autoattack of Caster by 5.7%.\n  - Increases Multi Attack of caster by 10.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1870849215 -260923191:Queen's Crushing Waves Neckguard\/a
 categories:
 - Assassin Equipment

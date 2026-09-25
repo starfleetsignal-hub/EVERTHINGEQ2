@@ -11,7 +11,7 @@ stats:
   charges: Unlimited
   casting: 1.07 seconds
   recast: 1.9 seconds
-effects: Fancy Firework
+effects: "- Applies Fancy  Firework when Activated. Lasts for 3.0 seconds.\n  - Launches a firework when used."
 item_link: \aITEM 711201596 1186099673:[a fancy firework]\/a
 categories:
 - Assassin Equipment

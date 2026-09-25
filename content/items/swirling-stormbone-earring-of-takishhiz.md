@@ -16,7 +16,8 @@ stats:
   potency: 34,754
   resolve: '460'
   vselemental: +310,750
-effects: '**Storm of Bones**'
+effect_name: Storm of Bones
+effects: "- When Equipped:\n  - Grants an additional 50 attack speed when in Renewal of Ro raid zones.\n  - Grants an additional 50 dps when in Renewal of Ro raid zones.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -681686482 -1916829265:Swirling Stormbone Earring of Takish'Hiz\/a
 categories:
 - Arcane Resistance (Equipment)

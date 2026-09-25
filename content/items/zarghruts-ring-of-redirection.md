@@ -15,7 +15,8 @@ stats:
   abmod: '+258'
   multi: '22.4'
   vselemental: +9,108
-effects: '**Silvered Reaping**'
+effect_name: Silvered Reaping
+effects: "- When Equipped:\n  - Increases Combat Mana Regen of caster by 10.0%.\n  - Increases Max Power of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 8.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -12085118 -2026771829:Zarghrut's Ring of Redirection\/a
 categories:
 - Ability Modifier (Equipment)

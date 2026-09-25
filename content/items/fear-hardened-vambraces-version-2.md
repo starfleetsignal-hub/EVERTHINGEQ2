@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   dtype: Plate Armor
-effects: '**Greater Resist Fear**'
+effect_name: Greater Resist Fear
+effects: "- When Equipped:\n  - Grants a 5.0% chance to resist Fear effects"
 item_link: \aITEM -1142442752 -636771753:Fear-hardened Vambraces\/a
 categories:
 - Berserker Equipment

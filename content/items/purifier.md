@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: '**Cleansing Blows**<br>**Discord''s Quickening**'
+effect_name: Cleansing Blows, Discord's Quickening
+effects: "- When Equipped:\n  - On a hit this spell may cast Cleansing Blows on target of attack.  Triggers about 3.0 times per minute.\n    - Dispels 100 levels of any beneficial effects on target\n    - Inflicts 346 - 423 divine damage on target.\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Reuse Speed of caster by 5.0%."
 obtained_from: From the Kunark PVP Equipment Merchant as of LU53.
 item_link: \aITEM 1151163237 1554596520:Purifier\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   potency: 59,124.3
   resolve: '640'
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 29,322.9.\n  - Increases Fervor of caster by 78.2.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -266132388 -320007437:Raging Relic Greaves\/a
 categories:
 - Assassin Equipment

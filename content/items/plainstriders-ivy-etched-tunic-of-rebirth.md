@@ -16,7 +16,8 @@ stats:
   potency: '5.4'
   abmod: '+162'
   dtype: Leather Armor
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -1689606937 -131463092:Plainstrider's Ivy Etched Tunic of Rebirth\/a
 categories:
 - Ability Modifier (Equipment)

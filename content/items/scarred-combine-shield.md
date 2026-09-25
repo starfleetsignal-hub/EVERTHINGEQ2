@@ -15,7 +15,8 @@ stats:
   potency: '10.2'
   multi: '16.5'
   dtype: Tower Shield
-effects: '**Guardian Souls**'
+effect_name: Guardian Souls
+effects: "- When Equipped:\n  - Applies Guardian Souls: Immunity on termination.  Lasts for 30.0 seconds.\n    - While active Guardian Souls is disabled.\n    - Cannot be modified except by direct means\n  - Wards caster against 2,200 points of all damage\n  - This effect will not stack with any rank or tier of itself.\n  - Regenerates 220 points of shielding every 2 seconds\n  - If above level 90"
 item_link: \aITEM 1054242946 -1854030668 0 0 0:Scarred Combine Shield\/a
 categories:
 - Berserker Equipment

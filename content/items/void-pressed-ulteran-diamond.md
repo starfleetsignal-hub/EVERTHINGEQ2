@@ -15,7 +15,8 @@ stats:
   potency: '5.6'
   aspeed: '7.3'
   dps: '12.9'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 2 percent."
 obtained_from: '[[Setting the Bait]]'
 item_link: \aITEM -898306097 1362392496:Void Pressed Ulteran Diamond\/a
 categories:

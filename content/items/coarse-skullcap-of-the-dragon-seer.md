@@ -16,7 +16,8 @@ stats:
   potency: '10.8'
   dps: '27.9'
   dtype: Leather Armor
-effects: '**Seraph''s Recovery**<br>**Visionary Mending**'
+effect_name: Seraph's Recovery, Visionary Mending
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Seraph's Recovery on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Spell Reuse Speed of caster by 5.0%.\n    - Increases Casting Speed of caster by 15.0%.\n    - Increases Reuse Speed of caster by 15.0%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n- When Equipped:\n  - Increases the caster's heals and wards by 8%."
 obtained_from: '*Crafted by [[Artisan]] (level 90) from [[Draconic Knowledge: Coarse Skullcap Of The Dragon Seer]] *Made from [[Prime Drake Fang]] *Made from [[Prime Maligonian Horns]] *Made from [[Prime Wyvern Stinger]]'
 item_link: \aITEM -2029892362 -837719356:Coarse Skullcap of the Dragon Seer\/a
 categories:

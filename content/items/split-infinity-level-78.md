@@ -20,7 +20,8 @@ stats:
   drating: '128.52'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Sorcerous Alacrity**<br>**Arcane Recovery**'
+effect_name: Sorcerous Alacrity, Arcane Recovery
+effects: "- When Equipped:\n  - Reduces cast time of hostile spells by 2 percent.\n- When Equipped:\n  - Reduces reuse time of hostile spells by 2 percent."
 item_link: \aITEM 1493287344 -303486849:Split Infinity\/a
 categories:
 - Arcane Recovery (Equipment)

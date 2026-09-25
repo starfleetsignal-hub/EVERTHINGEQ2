@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   abmod: +1,250
   vselemental: +10,148
-effects: '**Supremacy Through Sacrifice**'
+effect_name: Supremacy Through Sacrifice
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Supremacy Through Sacrifice II on target of attack.  Lasts for 18.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Accuracy of target by 8.0%.\n    - Increases Flurry of Caster by 8.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1497127757 1927866891:Fabled Ear of Souls\/a
 categories:
 - Ability Modifier (Equipment)

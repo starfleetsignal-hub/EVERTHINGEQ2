@@ -13,7 +13,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   vselemental: +10,148
-effects: '**Focused Healing**'
+effect_name: Focused Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Focused Healing II on target.  Lasts for 8.0 seconds.\n    - When this effect reaches 5 increments, it will daze the wearer and grant 82.5% potency to heals and wards for 15 seconds. This cannot trigger while the second effect is active.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 452388379 -1002862771:Fabled Wastestalker Earring\/a
 categories:
 - Arcane Resistance (Equipment)

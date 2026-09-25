@@ -7,7 +7,7 @@ slot: Head
 flags: LORE NO-TRADE NO-VALUE ORNATE
 stats:
   dtype: Cloth Armor
-effects: Anti-Obfuscation
+effects: "- Applies Anti-Obfuscation when Equipped.\n  - When equipped, these spectacles will reveal that which is hidden from prying eyes!"
 obtained_from: Click on a box at {{waypoint 1661.83, -265.73, 3174.68}} in the Hall of Necromancy in Paineel
 categories:
 - Cloth Armor (Equipment Type)

@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '24'
   potency: '24'
-effects: '**Divine Breath**'
+effect_name: Divine Breath
+effects: "- Applies Divine Breath when Activated.\n  - Dispels 109 levels of any hostile effects on group members (AE)\n  - Cannot be modified except by direct means\n  - The reuse time of Divine Breath is 1 minute"
 item_link: \aITEM -997784683 153717496:Tryst's Journal\/a
 categories:
 - Casting Speed (Equipment)

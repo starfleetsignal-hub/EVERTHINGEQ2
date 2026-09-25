@@ -14,7 +14,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   abmod: '+105'
-effects: '**Deathmarch**'
+effect_name: Deathmarch
+effects: "- When Equipped:\n  - On a hostile spell hit this spell has a 33% chance to cast Deathmarch on target of spell.\n    - Inflicts 1,944 cold damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - When a combat art is used this spell has a 33% chance to cast Deathmarch on target of combat art.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 1,944 cold damage on target.\n    - If under 15% Health\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 obtained_from: '[[The Aria of Malediction]]'
 item_link: \aITEM 835047042 1044179888:Death Chimes\/a
 categories:

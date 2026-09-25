@@ -14,7 +14,8 @@ stats:
   potency: '12.1'
   abmod: '+406'
   vselemental: +9,108
-effects: '**Silvered Reaping**'
+effect_name: Silvered Reaping
+effects: "- When Equipped:\n  - Increases Combat Mana Regen of caster by 10.0%.\n  - Increases Max Power of caster by 1,440.0.\n  - Increases Disruption, Ministration, Subjugation and Ordination of caster by 8.0.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1682310848 -2093033772:Silvered Reapings\/a
 categories:
 - Ability Modifier (Equipment)

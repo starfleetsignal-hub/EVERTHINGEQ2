@@ -16,7 +16,8 @@ stats:
   drating: '21.32'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Dimly Gleaming Strike**'
+effect_name: Dimly Gleaming Strike
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 55 - 83 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 834748270 1120095642:shaped imbued steel trident\/a
 categories:
 - Berserker Equipment

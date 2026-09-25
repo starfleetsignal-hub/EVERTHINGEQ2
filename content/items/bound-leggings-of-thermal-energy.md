@@ -15,7 +15,8 @@ stats:
   potency: '9'
   aspeed: '19.1'
   dtype: Leather Armor
-effects: '**Severity**'
+effect_name: Severity
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 2.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -236067515 -488327720:Bound Leggings of Thermal Energy\/a
 categories:
 - Assassin Equipment

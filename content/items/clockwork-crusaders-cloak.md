@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Spirit of Ak''Anon**'
+effect_name: Featherfall, Spirit of Ak'Anon
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Spirit of Ak'Anon when Activated.  Lasts for 1 hour.\n  - Shapechanges caster into a gnome\n  - The casting time of Spirit of Ak'Anon is 1.0 second and the reuse time of the spell is 5.0 seconds"
 obtained_from: From [[Gnome Heritage Armor Crate]]
 item_link: \aITEM -716769677 -1062328031:Clockwork Crusader's Cloak\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '132'
   dtype: One-Handed Slashing
   wtype: Fists
-effects: '**Block Chance**<br>**Cyclical Battering**'
+effect_name: Block Chance, Cyclical Battering
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%.\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Cyclical Battering II on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Multi Attack of caster by 22.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -2113412381 -766350162:Knuckles of Hemorrhage Induction\/a
 categories:
 - Block Chance (Equipment)

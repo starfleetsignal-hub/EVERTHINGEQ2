@@ -20,7 +20,8 @@ stats:
   drating: '94.7'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Harla Dar''s Curse**'
+effect_name: Harla Dar's Curse
+effects: "- Applies Harla Dar's Curse when Equipped.\n  - On a melee hit this spell may cast Harla Dar's Curse on target of attack.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 244 magic damage on target.\n    - Inflicts 43 magic damage on target every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 958384990 482903623:Dragon Bone Axe\/a
 categories:
 - Attack Speed (Equipment)

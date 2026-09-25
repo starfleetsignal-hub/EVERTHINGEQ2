@@ -12,7 +12,8 @@ stats:
   agi: '+13'
   potency: '0.2'
   dps: '1.1'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 14.8.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 item_link: \aITEM 1194551432 -1863928091:fright imbued linen hex doll\/a
 categories:
 - Assassin Equipment

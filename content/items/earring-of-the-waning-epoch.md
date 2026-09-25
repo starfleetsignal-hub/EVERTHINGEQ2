@@ -15,7 +15,8 @@ stats:
   aspeed: '31.2'
   dps: '21.8'
   vselemental: +10,148
-effects: '**Empowering Kills**'
+effect_name: Empowering Kills
+effects: "- When Equipped:\n  - On a death blow this spell will cast Empowering Kills on caster.  This effect normalizes based off of a three second triggering event.\n    - Increases power of caster by 5,972.\n    - Cannot be modified except by direct means"
 obtained_from: Dropped by [[General Graknus (Advanced Solo)|General Graknus]] in [[High Keep (Advanced Solo)]]
 item_link: \aITEM 1165444244 -1855409612:Earring of the Waning Epoch\/a
 image: images/Earring_of_the_Waning_Epoch.png

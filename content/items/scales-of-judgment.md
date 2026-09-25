@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '22.8'
   potency: '22.8'
-effects: '**All In!**'
+effect_name: All In!
+effects: "- Applies All In! when Activated.  Lasts for 8.0 seconds.\n  - Increases Potency of caster by 400.0.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The reuse time of All In! is 2 minutes"
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Spectral Mastery]] *Made from [[Shard of Spectral Light]]'
 item_link: \aITEM -1339899617 -1597038268:Scales of Judgment\/a
 categories:

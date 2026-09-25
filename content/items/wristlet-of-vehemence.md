@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +21,632
-effects: '**Ethereal Strike**'
+effect_name: Ethereal Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Ethereal Strike IV on target of attack.  Lasts for 20.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 457,600 poison damage on target.\n    - Increases Crit Bonus of caster by 22.0.\n    - Increases Potency of caster by 22.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -967852851 -886185296:Wristlet of Vehemence\/a
 categories:
 - Ability Modifier (Equipment)

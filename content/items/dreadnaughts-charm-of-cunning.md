@@ -18,7 +18,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Ferocious Assault**'
+effect_name: Ferocious Assault
+effects: "- Applies Ferocious Assault IV when Activated.  Lasts for 8.0 seconds.\n  - This effect does not stack from multiple casters.\n  - Cannot be modified except by direct means\n  - The reuse time of Ferocious Assault IV is 1 minute"
 item_link: \aITEM -1575522679 -2119742774:Dreadnaught's Charm of Cunning\/a
 categories:
 - Assassin Equipment

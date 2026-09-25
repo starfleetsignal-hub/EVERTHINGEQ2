@@ -16,7 +16,8 @@ stats:
   critbonus: 1,338.9
   potency: 44,349.8
   resolve: '535'
-effects: '**Hero of Velious**'
+effect_name: Hero of Velious
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 55.6.\n  - Increases Crit Bonus of caster by 475.3.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2092947265 -7526800:Monumental Cloak, Greater Untarnished Relic of Old Velious\/a
 categories:
 - Assassin Equipment

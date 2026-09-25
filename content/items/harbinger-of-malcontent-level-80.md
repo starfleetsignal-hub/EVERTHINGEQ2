@@ -15,7 +15,8 @@ stats:
   potency: '3.8'
   multi: '6.5'
   dtype: Kite Shield
-effects: '**Terrorize**'
+effect_name: Terrorize
+effects: "- When Equipped:\n  - Increases base damage of Abandoned Fury by 30%."
 item_link: \aITEM 1443343805 1613698761:Harbinger of Malcontent\/a
 categories:
 - Berserker Equipment

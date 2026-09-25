@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   abmod: +1,250
   vselemental: +27,352
-effects: '**Megawatt Reaction**'
+effect_name: Megawatt Reaction
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 35.0.\n  - Increases Potency of caster by 35.0.\n  - On any combat or spell hit this spell may cast Megawatt Reaction on target of attack.  Lasts for 3.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 200,000-1,800,000 magic damage on target\n    - After 3 seconds, the Megawatt Reaction will jump to up to two nearby enemies, increasing its damage with each jump\n    - Cannot be modified except by direct means"
 item_link: \aITEM 20753844 765614050:Raincaller's Stud of Living Lightning\/a
 categories:
 - Ability Modifier (Equipment)

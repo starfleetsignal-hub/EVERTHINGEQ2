@@ -24,7 +24,8 @@ stats:
   drating: '400.67'
   dtype: Two-Handed Slashing
   wtype: Great Axe
-effects: '**Untapped Potential**<br>**Arcane Rending**'
+effect_name: Untapped Potential, Arcane Rending
+effects: "- When Equipped:\n  - Increases the effectiveness of Cascading Force\n- When Equipped:\n  - On any combat or spell hit this spell may cast Arcane Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases arcane damage done to target by 4%.\n    - Inflicts 1,819 magic damage on target instantly and every second.\n    - Inflicts an additional 45 magic damage on target every tick.\n    - Cannot be modified except by direct means"
 obtained_from: Sold by [[Sarya Val'Sara]] in [[Obulus Frontier]]
 item_link: \aITEM -858017092 1452496810:Mana Sever\/a
 categories:

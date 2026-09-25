@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5.1'
   aspeed: '7.3'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 4 percent."
 obtained_from: Sold by [[Awnya N'Kval]] (Najena's Elemental Jeweler) in [[Lavastorm]] for [[Swiftash Shadow Sash]], [[Inner Power Sash]] and 1p 50g
 item_link: \aITEM -810243348 -687881973 0 0 0:Blazing Swiftash Shadow Sash\/a
 categories:

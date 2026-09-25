@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Piercing
   wtype: Rapier
-effects: '**Siphon Essence**'
+effect_name: Siphon Essence
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Siphon Essence on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 75 - 91.\n    - Inflicts 133 - 200 magic damage on target.\n    - Increases power of caster by 70 - 95.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 obtained_from: '[[Smolder]] in [[The Crypt of T''Haen: Vengeance]]'
 item_link: \aITEM 1520934516 -1333231016:Darkswarm\/a
 categories:

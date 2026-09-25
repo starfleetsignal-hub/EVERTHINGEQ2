@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   dps: '24'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -695176383 -1135198744:Mogul's Imperial Gauntlets\/a
 categories:
 - Census Credits

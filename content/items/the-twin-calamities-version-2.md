@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Piercing
   wtype: Fists
-effects: '**Unleash Calamity**'
+effect_name: Unleash Calamity
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Ruinous Strike on target of attack.  Lasts for 5.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 201 - 336 magic damage on target.\n    - Decreases Mitigation of target vs physical damage by 1,120.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1249956243 1902155785:The Twin Calamities\/a
 categories:
 - Beastlord Equipment

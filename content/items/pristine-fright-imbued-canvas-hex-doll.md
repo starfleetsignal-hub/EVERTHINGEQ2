@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+6'
   sta: '+5'
-effects: '**Hex of Fright**'
+effect_name: Hex of Fright
+effects: "- Applies Hex of Fright when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Haste of target by 9.6.\n  - The casting time of Hex of Fright is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 26) from [[Tailor Essentials Volume 26 (Normal)]] *Crafted by [[Tailor]] (level 26) from [[Tailor Essentials Volume 26 (no-trade)]]'
 item_link: \aITEM -1077627933 -337818040:pristine fright imbued canvas hex doll\/a
 categories:

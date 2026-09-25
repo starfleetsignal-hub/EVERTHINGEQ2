@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   abmod: +4902,923
-effects: '**Unseen Advantage**'
+effect_name: Unseen Advantage
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 15.0.\n  - Increases Crit Bonus of caster by 500.0.\n  - Increases Potency of caster by 3,000.0.\n  - This effect can only take effect within Rage of Cthurath Raid or Untold Dungeon zones.\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 1)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 2)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 3)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 4)|Gerion''s Reckoning Raid Rares Beta Reward]]'
 item_link: \aITEM -1030162736 -549482605:Gerion's Reckoning Dominator Charm\/a
 categories:

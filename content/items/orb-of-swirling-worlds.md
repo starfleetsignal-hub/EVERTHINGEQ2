@@ -15,7 +15,8 @@ stats:
   potency: '6.8'
   abmod: '+203'
   dtype: Symbols
-effects: '**Excess Energy**'
+effect_name: Excess Energy
+effects: "- When Equipped:\n  - On a spell cast this spell may cast Excess Energy on caster.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 65 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 470176301 2043657245:Orb of Swirling Worlds\/a
 categories:
 - Ability Modifier (Equipment)

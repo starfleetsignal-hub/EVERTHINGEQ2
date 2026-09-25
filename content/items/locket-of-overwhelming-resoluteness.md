@@ -14,7 +14,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   mitinc: '6'
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 14 for every enemy who is engaged with the wearer, up to 56 maximum"
 item_link: \aITEM -1534632528 1346777076:Locket of Overwhelming Resoluteness\/a
 categories:
 - AE Autoattack Chance (Equipment)

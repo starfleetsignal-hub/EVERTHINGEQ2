@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   vselemental: '+512'
-effects: '**Empyrean Recovery**'
+effect_name: Empyrean Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of all spells by 2 percent."
 item_link: \aITEM -1936359072 1222273530:Band of the Master Summoner\/a
 categories:
 - Ability Modifier (Equipment)

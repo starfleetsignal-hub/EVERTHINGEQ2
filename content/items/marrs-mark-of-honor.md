@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   wis: '+2'
-effects: '**Blessing of Marr**'
+effect_name: Blessing of Marr
+effects: "- Applies Blessing of Marr when Activated.\n  - Dispels 19 levels of hostile Fear effects on caster\n  - Dispels 19 levels of hostile Root, hostile Stifle, hostile Stun and hostile Daze effects on group members (AE)\n  - The casting time of Blessing of Marr is 1.0 second and the reuse time of the spell is 2 minutes"
 obtained_from: '[[Just a Tad Bit of Help]]'
 item_link: \aITEM -526819342 877972994:Marr's Mark of Honor\/a
 categories:

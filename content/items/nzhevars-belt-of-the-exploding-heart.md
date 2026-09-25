@@ -14,7 +14,8 @@ stats:
   critbonus: '1.1'
   potency: '5'
   dps: '12.4'
-effects: '**Energy Drain**'
+effect_name: Energy Drain
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Energy Drain on target of attack.  Triggers about 1.8 times per minute.\n    - Decreases power of target by 90.\n    - Increases power of caster by 161.\n    - Cannot be modified except by direct means"
 obtained_from: '* *Sold by [[A mysterious Quellthulian]] in [[Moors of Ykesha]] at [[Dropship Landing Zone]] {{waypoint 1680, 452, 894}} *Made from [[Primogen''s Jewelry Case]]'
 item_link: \aITEM 1433693312 -1128483228:Nzhevar's Belt of the Exploding Heart\/a
 categories:

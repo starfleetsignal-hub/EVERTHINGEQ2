@@ -15,7 +15,8 @@ stats:
   abmod: '+494'
   multi: '14.3'
   vselemental: +9,009
-effects: '**Mortal Champion**'
+effect_name: Mortal Champion
+effects: "- When Equipped:\n  - Increases INT and WIS of caster by 35.0.\n  - Increases Crit Bonus of caster by 6.0.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Scrolls of the Mortal Champion]]'
 item_link: \aITEM 542406379 -1929936320:Signet of the Mortal Mage\/a
 categories:

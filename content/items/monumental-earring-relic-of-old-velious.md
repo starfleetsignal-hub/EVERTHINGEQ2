@@ -17,7 +17,8 @@ stats:
   potency: 44,349.8
   resolve: '535'
   vselemental: +374,075
-effects: '**Old Velious**'
+effect_name: Old Velious
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 452.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 656296660 1664221574:Monumental Earring, Relic of Old Velious\/a
 categories:
 - Arcane Resistance (Equipment)

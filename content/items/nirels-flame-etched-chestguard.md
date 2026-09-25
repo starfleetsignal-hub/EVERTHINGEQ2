@@ -16,7 +16,8 @@ stats:
   potency: '6.4'
   multi: '10'
   dtype: Plate Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 1295297938 126687611:Nirel's Flame Etched Chestguard\/a
 categories:
 - Berserker Equipment

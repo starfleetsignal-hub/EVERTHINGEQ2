@@ -21,7 +21,8 @@ stats:
   drating: '75.95'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Absolve Vitae**'
+effect_name: Absolve Vitae
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Absolve Vitae on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 504 - 839 heat damage on target.\n    - Heals caster for 356.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 425690941 -1214840150:Soulfire Kama\/a
 aliases:
 - Soulfire Kama (Version 2)

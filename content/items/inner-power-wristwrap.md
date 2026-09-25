@@ -15,7 +15,7 @@ stats:
   vselemental: '+1599'
   vsarcane: '+1599'
   vsnoxious: '+1599'
-effects: Sorcerous Alacrity II
+effects: 'When eqpipped: Reduces cast time of hostile spells by 2%'
 obtained_from: Crafted by [[Artisan]] (level 79) from [[Far Seas Strategic Pricing Manual, Volume III]]  Sold by [[A mysterious Quellthulian]] in [[Dropship Landing Zone]]
 item_link: \aITEM 1470319756 -1107388979:Inner Power Wristwrap\/a
 categories:

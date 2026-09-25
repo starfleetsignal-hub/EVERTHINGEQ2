@@ -18,7 +18,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Piercing
   wtype: Great Spear
-effects: '**Nature''s Fury**'
+effect_name: Nature's Fury
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Nature's Fury on target of spell.  Lasts for 4.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 83 poison damage on target instantly and every second.\n    - Slows target by 33.0%.\n    - Increases your Spell Damage by 143.\n    - Only affects targets level 90 and below\n    - Does not affect Epic targets\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 383681522 -1786758875:Typhoon\/a
 categories:
 - Ability Modifier (Equipment)

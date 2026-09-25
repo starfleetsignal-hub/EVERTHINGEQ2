@@ -12,7 +12,7 @@ stats:
   agi: '+12'
   health: '+25'
   power: '+25'
-effects: Aura of Stamina
+effects: "- When Equipped:\n  - When target takes any damage this spell has a 3% chance to cast **Spark of Stamina** on caster. Lasts for 45.0 seconds.\n    - Increases STA of caster by 8.3\n    - Increases In-Combat Health Regeneration Per Tick of caster by 15.6"
 obtained_from: Crafted by [[Jeweler]] (level 28) from [[Advanced Jeweler Volume 28]]
 item_link: \aITEM 784186903 -1270752616:Pristine Imbued Palladium Band of Stamina\/a
 categories:

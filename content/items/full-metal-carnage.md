@@ -25,7 +25,8 @@ stats:
   drating: '371.27'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Overly Critical**'
+effect_name: Overly Critical
+effects: "- When Equipped:\n  - Increases Crit Bonus Overcap of caster by 16.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Loathsome Leftovers]]'
 item_link: \aITEM 565510048 566094088:Full Metal Carnage\/a
 categories:

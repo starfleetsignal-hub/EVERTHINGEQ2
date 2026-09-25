@@ -14,7 +14,8 @@ stats:
   critbonus: '1.5'
   potency: '6.8'
   abmod: '+203'
-effects: '**Haste**<br>**Followthrough**'
+effect_name: Haste, Followthrough
+effects: "- When Equipped:\n  - Increases Haste of caster by 30.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Followthrough on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,986 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2016307669 -270451219:Rot Worn Girdle\/a
 categories:
 - Ability Modifier (Equipment)

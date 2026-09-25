@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   abmod: '+129'
   dps: '12'
-effects: '**Divine Restoration**'
+effect_name: Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.2 times per minute.\n    - Heals caster for 368.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2083915028 137304522:Nurgan Aggressor Choker\/a
 categories:
 - Ability Modifier (Equipment)

@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Grizzfazzle''s Blast**'
+effect_name: Grizzfazzle's Blast
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Grizzfazzle's Rage on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 195 - 363 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: No longer obtainable
 item_link: \aITEM 1208069382 1213685821:Grizzfazzle's Bow\/a
 categories:

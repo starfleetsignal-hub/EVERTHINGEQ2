@@ -16,7 +16,8 @@ stats:
   abmod: '+270'
   dps: '21.1'
   vsarcane: '+564'
-effects: '**Gladiator''s Judgment**'
+effect_name: Gladiator's Judgment
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Gladiator's Judgment on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell has a 4% chance to cast Judgement's Gavel on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 599 crushing damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Gladiator's Judgment on target of spell.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell has a 4% chance to cast Judgement's Gavel on target.  This effect normalizes based off of a three second triggering event.\n      - Inflicts 599 crushing damage on caster.\n      - Cannot be modified except by direct means\n    - Cannot be modified except by direct means"
 item_link: \aITEM 736023842 1841412077:Silvered Band of the Challenger\/a
 categories:
 - Ability Modifier (Equipment)

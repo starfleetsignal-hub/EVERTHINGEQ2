@@ -15,7 +15,8 @@ stats:
   critbonus: '6.3'
   potency: '10.6'
   aspeed: '16.8'
-effects: '**&quot;You''re On Your Own!&quot;**'
+effect_name: '&quot;You''re On Your Own!&quot;'
+effects: "- Applies \"You're On Your Own!\" when Activated.  Lasts for 12.0 seconds.\n  - Increases the caster's maximum and current health by 5,000 per ally within 35 meters.\n  - Suspends the passive effect for 12 seconds\n  - Cannot be modified except by direct means\n  - The reuse time of \"You're On Your Own!\" is 1 minute\n- When Equipped:\n  - Increases the raid's maximum health by 5,000\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1190737901 -822464875:Quickened Coral Stone\/a
 categories:
 - '"You''re On Your Own!" (Equipment)'

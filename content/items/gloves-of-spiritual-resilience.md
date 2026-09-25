@@ -18,7 +18,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 1547265139 -5042956:Gloves of Spiritual Resilience\/a
 categories:
 - Beastlord Equipment

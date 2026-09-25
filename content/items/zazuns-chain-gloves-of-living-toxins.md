@@ -15,7 +15,8 @@ stats:
   potency: '11.2'
   dps: '24.8'
   dtype: Chain Armor
-effects: '**Greater Nocturnal Celerity**'
+effect_name: Greater Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 45.0.\n  - Increases Ability Mod of caster by 250.0."
 item_link: \aITEM -828930749 1494975362:Zazun's Chain Gloves of Living Toxins\/a
 categories:
 - Census Credits

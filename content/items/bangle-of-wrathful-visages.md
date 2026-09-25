@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +21,632
-effects: '**Unassuming Visage**'
+effect_name: Unassuming Visage
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Unassuming Visage II on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Decreases threat priority of target by 1 position\n    - Decreases Threat to target by 15,000\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 25.0 seconds."
 item_link: \aITEM -1998831288 -1105826393:Bangle of Wrathful Visages\/a
 categories:
 - AE Autoattack Chance (Equipment)

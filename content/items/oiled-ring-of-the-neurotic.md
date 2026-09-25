@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+11'
   vsarcane: '+48'
-effects: '**Martial Vulnerability**'
+effect_name: Martial Vulnerability
+effects: "- When Equipped:\n  - On a critical combat hit this spell may cast Martial Vulnerability III on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 320.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a critical spell hit this spell may cast Martial Vulnerability III on target of spell.  Lasts for 12.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Mitigation of target vs physical damage by 320.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Alchemist]] (level 30) from [[Ancient Knowledge: Oiled Ring of the Neurotic]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -1490711212 963017642:Oiled Ring of the Neurotic\/a
 categories:

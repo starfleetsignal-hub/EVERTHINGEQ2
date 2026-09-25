@@ -12,7 +12,7 @@ stats:
   charges: Unlimited
   casting: 1.74 seconds
   recast: 0.0 seconds
-effects: Call Carpet
+effects: "- Applies Call Carpet when Activated.\n  - Increases Potency of caster by 12.0%\n  - Increases Crit Bonus of caster by 12.0%\n  - Increases Crit Chance of caster by 105.0\n  - Increases Max Power of caster by 2,000.0\n  - Increases Max Health of caster by 8,000.0\n  - Decreases experimental critical failure chance by 5.0%\n  - Increases the amount of durability gained by 5.0.\n  - Your adventure level must be 95 or above to receive adventure statistic bonuses.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%"
 obtained_from: Reward for Beta testing [[Altar of Malice Crafting Timeline]]
 item_link: \aITEM -2033173056 -668537249:Carpet of Assured Quality\/a
 categories:

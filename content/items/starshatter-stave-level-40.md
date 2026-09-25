@@ -18,7 +18,8 @@ stats:
   drating: '41.89'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Starshatter**'
+effect_name: Starshatter
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Starshatter on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 72 - 88 divine damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -314363672 1288653254:Starshatter Stave\/a
 aliases:
 - Starshatter Stave (Level 50)

@@ -15,7 +15,8 @@ stats:
   critbonus: '0.7'
   potency: '3.6'
   dtype: Leather Armor
-effects: '**Smash**'
+effect_name: Smash
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Smash on target of attack.  Lasts for 3.0 seconds.  Triggers about 1.4 times per minute.\n    - Stuns target\n    - Only affects targets level 95 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 99.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1777829659 -1290162063:Ironhide Gloves of Brute Force\/a
 categories:
 - Assassin Equipment

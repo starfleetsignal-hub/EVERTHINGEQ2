@@ -16,7 +16,7 @@ stats:
   drating: '12.3'
   range: 2 - 25
   wtype: Thrown Weapon
-effects: Gleaming Strike
+effects: "- Applies Gleaming Strike when Equipped.\n  - On any successful attack this spell has a chance to cast Gleaming Strike on target of attack.  This effect will trigger an average of 1.8 times per minute.\n    - Inflicts 61 - 113 magic damage on target"
 obtained_from: Crafted by [[Outfitter]] (level 11) from [[Advanced Outfitter Volume 11]]
 item_link: \aITEM -1332308877 753257054:Pristine Imbued Cured Leather Satchel\/a
 categories:

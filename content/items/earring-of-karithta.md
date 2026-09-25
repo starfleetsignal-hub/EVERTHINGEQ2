@@ -17,7 +17,8 @@ stats:
   dps: '28.8'
   multi: '22.2'
   vselemental: +33,491
-effects: '**The Finisher**'
+effect_name: The Finisher
+effects: "- When Equipped:\n  - Increases Potency of caster by 80.0.\n  - Improves the potency of all abilities by 135% when the target is below 50% health.  This effect will not stack with any other finisher effect.\n    - This effect will not stack with any other Finisher effect."
 item_link: \aITEM 28202211 -1379200746:Earring of Karith'Ta\/a
 categories:
 - Arcane Resistance (Equipment)

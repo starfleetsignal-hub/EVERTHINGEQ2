@@ -10,7 +10,8 @@ flags: lore-equip attunable
 stats:
   str: '+8'
   sta: '+8'
-effects: '**Indomitable**'
+effect_name: Indomitable
+effects: "- Applies Indomitable II when Activated.  Lasts for 12.0 seconds.\n  - Applies Peerless Defense on termination.  Lasts for 30.0 seconds.\n    - Wards caster against 200 points of all damage\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Increases the caster's physical mitigation over time.\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Indomitable II is 10 minutes"
 obtained_from: '*Crafted by [[Carpenter]] (level 20) from [[Ancient Knowledge: Fortified Hoop of Authority]] *Made from [[Murmuring Reactant]]'
 item_link: \aITEM -1776103764 1590083556:Fortified Hoop of Authority\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '650'
   abmod: +5768,148
   dtype: Plate Armor
-effects: '**Constellation Contagium**'
+effect_name: Constellation Contagium
+effects: "- When Equipped:\n  - Increases Potency of caster by 29,322.9.\n  - Increases Fervor Overcap of caster by 58.7.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2015231953 -1757439336:Aberrant Breastplate, Relic of the Throne\/a
 categories:
 - Ability Modifier (Equipment)

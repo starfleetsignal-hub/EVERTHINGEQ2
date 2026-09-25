@@ -15,7 +15,8 @@ stats:
   potency: '5'
   aspeed: '7'
   dps: '12.6'
-effects: '**Pernicious Precision**'
+effect_name: Pernicious Precision
+effects: "- Applies Pernicious Precision when Activated.  Lasts for 30.0 seconds.\n  - Increases Crit Chance of caster by 25.0.\n  - This effect can be toggled off.\n  - Cannot be modified except by direct means\n  - The casting time of Pernicious Precision is 0.5 seconds and the reuse time of the spell is 3 minutes\n  - Requires 115 Power to cast and 92 Power every 2.0 seconds."
 item_link: \aITEM 1514035810 219138402:Cloak of Solidified Hate\/a
 categories:
 - Assassin Equipment

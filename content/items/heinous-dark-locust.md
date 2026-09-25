@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   mitinc: '6'
-effects: '**United Front**'
+effect_name: United Front
+effects: "- Applies United Front II when Activated.  Lasts for 30.0 seconds.\n  - Wards the caster for up to 207,000 damage. The value increases for each group or raid member within 10 meters of the caster.\n  - Does not affect Epic targets\n  - Cannot be modified except by direct means\n  - The reuse time of United Front II is 1 minute"
 item_link: \aITEM 433603052 -2122548643:Heinous Dark Locust\/a
 categories:
 - AE Autoattack Chance (Equipment)

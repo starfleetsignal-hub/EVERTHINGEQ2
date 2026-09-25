@@ -16,7 +16,8 @@ stats:
   abmod: +1,591
   aspeed: '18'
   vselemental: +29,521
-effects: '**Uplifting Swings**'
+effect_name: Uplifting Swings
+effects: "- When Equipped:\n  - Increases Weapon Damage of caster by 57.0."
 item_link: \aITEM 517345946 -1062189386:Pierced Skimmer Shell\/a
 categories:
 - Ability Modifier (Equipment)

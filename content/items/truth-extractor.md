@@ -9,7 +9,8 @@ flags: ornate lore no-trade no-value
 description: A device constructed by Rusty Cogsprocket to extract the truth from unwilling vicitms. The gem at the center of this item is large and differently shaped than the one you captured in Longshadow Alley, however. Something seems amiss...
 stats:
   dtype: Cloth Armor
-effects: '**Extract Soul**'
+effect_name: Extract Soul
+effects: "- Applies Extract Soul when Activated.\n  - This tiara supposedly focuses the effects of a Questioner's gem.\n  - The casting time of Extract Soul is 1.0 second"
 obtained_from: Given to you for the quest [[A Dismal Discovery]].
 used_in_quest: '[[A Dismal Discovery]]'
 item_link: \aITEM 72426333 893337195:Truth Extractor\/a

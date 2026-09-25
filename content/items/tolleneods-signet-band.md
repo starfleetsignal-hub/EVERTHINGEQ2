@@ -17,7 +17,8 @@ stats:
   dps: '23.1'
   multi: '22.1'
   vselemental: +35,154
-effects: '**Overwhelming Advantage**'
+effect_name: Overwhelming Advantage
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 25 for every enemy who is engaged with the wearer, up to 250 maximum"
 item_link: \aITEM 1423954881 -1197875464:Tollen'Eod's Signet Band\/a
 categories:
 - Arcane Resistance (Equipment)

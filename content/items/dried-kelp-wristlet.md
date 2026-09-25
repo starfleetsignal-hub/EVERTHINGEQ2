@@ -17,7 +17,8 @@ stats:
   dps: '27.9'
   multi: '18.1'
   vselemental: +1,881
-effects: '**Bloodthirst**'
+effect_name: Bloodthirst
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 5.0.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -96470814 -2106976953:Dried Kelp Wristlet\/a
 categories:
 - Arcane Resistance (Equipment)

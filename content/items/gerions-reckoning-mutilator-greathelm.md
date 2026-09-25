@@ -17,7 +17,8 @@ stats:
   potency: 51,480
   resolve: '650'
   dtype: Plate Armor
-effects: '**Augment Void Collapse**'
+effect_name: Augment Void Collapse
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 21.3.\n  - Increases Fervor of caster by 21.3.\n  - Grants an additional 25 in-combat runspeed.\n  - Increases Crit Bonus of caster by 410.7.\n  - Increases Crit Bonus Overcap of caster by 616.1.\n  - Must be in a Rage of Cthurath Raid or Untold Dungeon zone for all effects to apply and the effect does not stack with other \"Augment Void Collapse\" effects.\n  - Each rank of \"Augment Void Collapse\" increases the rate at which the target of \"Augment Void Collapse\" dissipates Void magic when attempting to close emerging Void Rifts.\n  - Cannot be modified except by direct means"
 obtained_from: From [[Gerion's Reckoning Raid Rares Beta Reward (crate) (Version 2)|Gerion's Reckoning Raid Rares Beta Reward]]
 item_link: \aITEM 936074553 -779784794:Gerion's Reckoning Mutilator Greathelm\/a
 categories:

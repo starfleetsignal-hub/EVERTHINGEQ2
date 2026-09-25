@@ -17,7 +17,8 @@ stats:
   dps: '26.3'
   multi: '17'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM 481910406 532378484:Fluid Gauntlets of Drakiz Benefaction\/a
 categories:
 - Assassin Equipment

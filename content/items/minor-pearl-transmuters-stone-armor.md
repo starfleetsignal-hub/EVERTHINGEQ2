@@ -8,7 +8,8 @@ level: '50'
 slot: Ear
 flags: ornate attunable
 description: This item can be transmuted for adorning components.
-effects: '**Unstable Magics**'
+effect_name: Unstable Magics
+effects: "- Applies Unstable Magics when Equipped.\n  - This item contains powerful, unstable magics. It would be best to break it down via transmutation."
 item_link: \aITEM -821262762 72159903:Minor Pearl Transmuter's Stone\/a
 categories:
 - Assassin Equipment

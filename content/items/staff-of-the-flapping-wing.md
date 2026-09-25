@@ -20,7 +20,8 @@ stats:
   drating: '84.73'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Flapping Wing**'
+effect_name: Flapping Wing
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flapping Wing on target of attack.  Triggers about 1.8 times per minute.\n    - Throws target back\n    - Inflicts 207 magic damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1590307599 923842749:Staff of the Flapping Wing\/a
 categories:
 - Ability Modifier (Equipment)

@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   dps: '1.1'
   vsarcane: '+147'
-effects: '**Aura of Agility**'
+effect_name: Aura of Agility
+effects: "- When Equipped:\n  - When a combat art is used this spell has a 3% chance to cast Flare of Agility on caster.  Lasts for 45.0 seconds.\n    - Increases AGI of caster by 14.3.\n    - Increases Haste of caster by 18.6.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 48) from [[Advanced Jeweler Volume 48 (Normal)]] *Crafted by [[Jeweler]] (level 48) from [[Advanced Jeweler Volume 48 (no-trade)]] *From [[Melee Jewelry Pack (Level 42 Mastercrafted)]]'
 item_link: \aITEM -1085626828 527205474:Imbued Rhodium Band of Agility\/a
 categories:

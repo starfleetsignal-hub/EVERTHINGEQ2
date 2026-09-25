@@ -15,7 +15,8 @@ stats:
   potency: '5.1'
   abmod: '+147'
   dps: '13'
-effects: '**Atheneal Test of Faith**'
+effect_name: Atheneal Test of Faith
+effects: "- Applies Atheneal Test of Faith when Activated.  Lasts for 30.0 seconds.\n  - All offensive spells deal divine damage.\n  - Must be in Ward of Elements.\n  - The casting time of Atheneal Test of Faith is 0.5 seconds and the reuse time of the spell is 3 minutes"
 item_link: \aITEM -2001016446 -1042344534:Elemental Idol of Marr\/a
 categories:
 - Ability Modifier (Equipment)

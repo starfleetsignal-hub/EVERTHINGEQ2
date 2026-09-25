@@ -15,7 +15,8 @@ stats:
   potency: '3.6'
   abmod: '+89'
   dps: '9.7'
-effects: '**Impossible Weaponry**<br>**Haste**'
+effect_name: Impossible Weaponry, Haste
+effects: "- When Equipped:\n  - Increases the reach of both melee and ranged weapons.\n- When Equipped:\n  - Increases Haste of caster by 40.0."
 item_link: \aITEM -1313435789 178581336:Crimson Ascot of the Pirate\/a
 categories:
 - Ability Modifier (Equipment)

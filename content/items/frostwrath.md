@@ -21,7 +21,8 @@ stats:
   drating: '72.15'
   dtype: One-Handed Slashing
   wtype: Axe
-effects: '**Frostwrath**'
+effect_name: Frostwrath
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Frostwrath on target of attack.  Lasts for 10.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 141 - 235 cold damage on target.\n    - Slows target by 50.0%.\n      - If Target is not Epic\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1556817848 -560489460:Frostwrath\/a
 categories:
 - Assassin Equipment

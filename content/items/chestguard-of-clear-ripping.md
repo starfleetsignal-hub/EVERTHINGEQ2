@@ -17,7 +17,8 @@ stats:
   potency: '6.4'
   multi: '10'
   dtype: Leather Armor
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 item_link: \aITEM 1799071865 696494806:Chestguard of Clear Ripping\/a
 categories:
 - Brawler Equipment

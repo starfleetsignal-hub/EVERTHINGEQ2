@@ -12,7 +12,8 @@ stats:
   sta: '+8'
   mit: '136'
   dtype: Plate Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 48 magic damage on target."
 item_link: \aITEM 1465770851 1540031158:Vanguard Barbute of Splendor\/a
 categories:
 - Berserker Equipment

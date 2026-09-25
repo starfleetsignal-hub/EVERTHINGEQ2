@@ -18,7 +18,8 @@ stats:
   resolve: '280'
   aspeed: '19.2'
   flurry: '20.3'
-effects: '**Deadly Insight**'
+effect_name: Deadly Insight
+effects: "- Applies Deadly Insight when Activated.  Lasts for 1 minute 30 seconds.\n  - Increases Weapon Damage of caster by 72.0.\n  - Increases Weapon Damage Overcap of caster by 72.0.\n  - Increases the damage and healing of spells and combat arts by 10.\n  - Must be engaged in combat\n  - Cannot be modified except by direct means\n  - The casting time of Deadly Insight is 2.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM -807392117 1227363672:Shadow Striker's Contained Insight\/a
 categories:
 - Assassin Equipment

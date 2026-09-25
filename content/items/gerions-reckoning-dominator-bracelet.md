@@ -16,7 +16,8 @@ stats:
   potency: 51,480
   resolve: '650'
   vselemental: +434,768
-effects: '**Remain Unseen**'
+effect_name: Remain Unseen
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 20.0.\n  - Increases in-combat movement speed of caster by 15.0%.\n  - Increases Potency of caster by 1,000.0.\n  - You must be within a Rage of Cthurath Raid or Untold Dungeon zone for this effect to apply."
 obtained_from: '*From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 1)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 2)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 3)|Gerion''s Reckoning Raid Rares Beta Reward]] *From [[Gerion''s Reckoning Raid Rares Beta Reward (crate) (Version 4)|Gerion''s Reckoning Raid Rares Beta Reward]]'
 item_link: \aITEM -2072486657 1815601807:Gerion's Reckoning Dominator Bracelet\/a
 categories:

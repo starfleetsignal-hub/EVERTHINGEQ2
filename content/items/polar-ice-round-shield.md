@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   abmod: '+7'
   dtype: Round Shield
-effects: '**Vitality**'
+effect_name: Vitality
+effects: "- When Equipped:\n  - Increases Health Regen of caster by 24.0.\n  - This effect suspends during combat"
 item_link: \aITEM 1412783910 102429717:Polar Ice Round Shield\/a
 categories:
 - Ability Modifier (Equipment)

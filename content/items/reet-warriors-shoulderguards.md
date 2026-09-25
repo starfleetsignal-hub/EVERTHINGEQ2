@@ -16,7 +16,8 @@ stats:
   potency: '3.6'
   abmod: '+83'
   dtype: Leather Armor
-effects: '**Lesser Divine Restoration**'
+effect_name: Lesser Divine Restoration
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Restoration on caster.  Triggers about 1.0 times per minute.\n    - Heals caster for 161.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Hard Knock Life]]'
 item_link: \aITEM 713703231 -2115055259:Reet Warrior's Shoulderguards\/a
 categories:

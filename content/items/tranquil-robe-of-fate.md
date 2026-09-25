@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '81'
   dtype: Cloth Armor
-effects: '**Cabalistic Nexus**'
+effect_name: Cabalistic Nexus
+effects: "- When Equipped:\n  - Increases Spell Reuse Speed of caster by 1.5%.\n  - Increases Potency of caster by 1.5."
 obtained_from: '*Crafted by [[Tailor]] (level 30) from [[Ancient Knowledge: Tranquil Robe of Fate]] *Made from [[Simmering Reactant]]'
 item_link: \aITEM -2107147908 -113556328:Tranquil Robe of Fate\/a
 categories:

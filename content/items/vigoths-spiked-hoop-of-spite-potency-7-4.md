@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   multi: '10.5'
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 4.0%."
 item_link: \aITEM 930707167 258695098:Vigoth's Spiked Hoop of Spite\/a
 categories:
 - Ability Modifier (Equipment)

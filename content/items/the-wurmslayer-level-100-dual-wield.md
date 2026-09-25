@@ -24,7 +24,8 @@ stats:
   drating: '229.23'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Scale Rend**'
+effect_name: Scale Rend
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Scale Rend on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 203 - 305 melee damage on target\n    - Inflicts 203 - 305 melee damage on target\n    - Inflicts 203 - 305 melee damage on target\n    - Inflicts 292 heat damage on target.\n    - Inflicts 183 heat damage on target every 6 seconds.\n    - If target is draconic\n    - Cannot be modified except by direct means"
 item_link: \aITEM 163060678 953767497:The Wurmslayer\/a
 categories:
 - Ability Modifier (Equipment)

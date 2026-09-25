@@ -11,7 +11,8 @@ stats:
   sta: '+2'
   wis: '+3'
   dtype: Buckler
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 15 heat damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1510627741 -1688382593:Imbued Maple Buckler\/a
 categories:
 - Buckler (Equipment Type)

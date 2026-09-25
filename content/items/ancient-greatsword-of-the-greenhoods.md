@@ -22,7 +22,8 @@ stats:
   drating: '360.96'
   dtype: Two-Handed Slashing
   wtype: Great Sword
-effects: '**Elemental Rending**'
+effect_name: Elemental Rending
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Elemental Rending on target of attack.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases elemental damage done to target by 4%.\n    - Inflicts 5,386 heat damage on target.\n    - Inflicts 5,386 cold damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[Greenhood Pendants]]'
 item_link: \aITEM 1737110136 1784622325:Ancient Greatsword of the Greenhoods\/a
 image: images/Ancient_Greatsword_of_the_Greenhoods.png

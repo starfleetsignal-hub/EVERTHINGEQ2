@@ -15,7 +15,8 @@ stats:
   potency: '2.5'
   abmod: '+54'
   dtype: Symbols
-effects: '**Necromantic Fluids**'
+effect_name: Necromantic Fluids
+effects: "- Applies Necromantic Fluids when Activated.\n  - Heals caster for 450.\n  - Increases power of caster by 225.\n  - The casting time of Necromantic Fluids is 1.0 second and the reuse time of the spell is 30 minutes"
 item_link: \aITEM -898806566 -930938840:Stein of the Everling Lord\/a
 categories:
 - Ability Modifier (Equipment)

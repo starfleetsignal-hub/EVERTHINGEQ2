@@ -18,7 +18,8 @@ stats:
   resolve: '35'
   abmod: +31,268
   mitinc: '19.6'
-effects: '**Ascendants Grace**'
+effect_name: Ascendants Grace
+effects: "- When Equipped:\n  - Increases the damage and healing of Wildfire, Levinbolt, Stone Hammer, and Septic Strike by 5."
 obtained_from: 'Collection reward: [[Vestiges of Prophecy]]'
 item_link: \aITEM -1415703754 456103514:Eye of the Prophet\/a
 categories:

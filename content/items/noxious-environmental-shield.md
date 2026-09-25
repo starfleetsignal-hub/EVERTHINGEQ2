@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+1'
   vsarcane: '+5'
-effects: '**Noxious Environmental Suit**'
+effect_name: Noxious Environmental Suit
+effects: "- Applies Noxious Environmental Suit when Equipped.\n  - Converts 3% of all noxious damage received into power gain."
 obtained_from: Made with Tinkering (skill 410) from [[Master's Blueprints 0.010]].
 item_link: \aITEM 1727386649 1395789047:Noxious Environmental Shield\/a
 categories:

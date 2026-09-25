@@ -15,7 +15,8 @@ stats:
   drating: '7.15'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 34 - 57 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1237918534 1306194390:Crude Disease Imbued Maple Wand\/a
 categories:
 - Berserker Equipment

@@ -18,7 +18,8 @@ stats:
   drating: '134.98'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Cyclonic Form**<br>**Corrosive Fog**<br>**Block Chance**'
+effect_name: Cyclonic Form, Corrosive Fog, Block Chance
+effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 1.0.\n  - Increases AE Autoattack of Caster by 3.0%.\n  - Increases Multi Attack of caster by 7.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog IV on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 783 - 866 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 470.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Increases Block Chance of caster by 18.0%."
 item_link: \aITEM -186001938 1306229737:Decorin's Diabolical Mallet\/a
 categories:
 - Assassin Equipment

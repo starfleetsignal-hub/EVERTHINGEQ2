@@ -16,7 +16,8 @@ stats:
   strike: '10'
   aspeed: '8.8'
   vselemental: +1,256
-effects: '**Enduring Breath**'
+effect_name: Enduring Breath
+effects: "- When Equipped:\n  - Allows caster to breathe under water"
 item_link: \aITEM -1860713995 -838608805:Breathless Bauble of the Waterlord\/a
 categories:
 - Arcane Resistance (Equipment)

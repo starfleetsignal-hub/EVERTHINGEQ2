@@ -15,7 +15,8 @@ stats:
   potency: '10.4'
   dps: '26.3'
   multi: '17'
-effects: '**Assay**'
+effect_name: Assay
+effects: "- When Equipped:\n  - Reduces resistibility of all spells by 7%.\n  - This effect will not stack with any other Oracle effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1897935525 1667704138:Queen's Crushing Waves Pendant\/a
 categories:
 - Assay (Equipment)

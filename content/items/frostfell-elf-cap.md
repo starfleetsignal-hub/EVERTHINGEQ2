@@ -11,7 +11,8 @@ stats:
   sta: '+1'
   mit: '9'
   dtype: Cloth Armor
-effects: '**Frosty Breath**'
+effect_name: Frosty Breath
+effects: "- When Equipped:\n  - Applies Frosty Breath"
 item_link: \aITEM -197356473 -210460572:Frostfell Elf Cap \/a
 categories:
 - Assassin Equipment

@@ -13,7 +13,7 @@ stats:
   critbonus: '11.1'
   potency: '11.1'
   aspeed: '64.4'
-effects: Dauntless Devotion
+effects: "- Applies Dauntless Devotion when Activated.\n  - The caster is granted a beneficial effect from Drinal's Steward.\n  - The casting time of Dauntless Devotion is 0.5 seconds and the reuse time of the spell is 30 minutes."
 obtained_from: '[[Shades of Drinal: Fate''s Crusade]]'
 item_link: \aITEM -1473609576 1637332495:Steward's Cape of Eternity\/a
 image: images/Steward's_Cape_of_Eternity.png

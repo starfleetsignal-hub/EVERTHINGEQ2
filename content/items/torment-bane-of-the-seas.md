@@ -22,7 +22,8 @@ stats:
   drating: '166.84'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Block Chance**<br>**Briny Deep**'
+effect_name: Block Chance, Briny Deep
+effects: "- When Equipped:\n  - Increases Block Chance of caster by 18.0%.\n- When Equipped:\n  - Increases Crit Bonus of caster by 7.5.\n  - Increases Potency of caster by 7.5.\n  - Grants a 5.0% chance to resist Stun effects\n  - Cannot be modified except by direct means"
 obtained_from: From [[Ethernere Weapon]]
 item_link: \aITEM -2096175583 -531272265:Torment, Bane of the Seas\/a
 categories:

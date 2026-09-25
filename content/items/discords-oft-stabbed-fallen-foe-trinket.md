@@ -15,7 +15,8 @@ stats:
   potency: '6.4'
   abmod: '+191'
   multi: '10'
-effects: '**Bladed Retribution**'
+effect_name: Bladed Retribution
+effects: "- Applies Bladed Retribution when Activated.  Lasts for 5.0 seconds.\n  - Temporarily increases the damage of your combat arts by 10%.\n  - Makes caster immune to Daze effects\n  - Must have Discord's Oft-stabbed Fallen Foe Trinket equipped.\n  - Must be engaged in pvp combat\n  - This item may not be used in a PvP zone.\n  - The reuse time of Bladed Retribution is 3 minutes"
 item_link: \aITEM 1435033880 1766005642:Discord's Oft-stabbed Fallen Foe Trinket\/a
 categories:
 - Ability Modifier (Equipment)

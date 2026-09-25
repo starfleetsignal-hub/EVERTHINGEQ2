@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   mitinc: '6'
-effects: '**Last Stand**'
+effect_name: Last Stand
+effects: "- Applies Last Stand III when Activated.  Lasts for 5.0 seconds.\n  - Reduces all damage done to caster by 85%.\n  - Consumes 70% of the caster's current health\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of Last Stand III is 3 minutes"
 item_link: \aITEM -1862139017 415923776:Reliquary of Final Days\/a
 categories:
 - AE Autoattack Chance (Equipment)

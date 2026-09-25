@@ -18,7 +18,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Fang Bite**'
+effect_name: Fang Bite
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Fang Bite on target of attack.  Triggers about 1.6 times per minute.\n    - Inflicts 103 - 126 piercing damage on target.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1400823703 -183436634:Cursfan, the Biter's Fang\/a
 categories:
 - Beastlord Equipment

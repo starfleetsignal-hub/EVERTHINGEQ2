@@ -16,7 +16,8 @@ stats:
   potency: '8.4'
   dps: '21.1'
   dtype: Plate Armor
-effects: '**Celestial Restoration**'
+effect_name: Celestial Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Celestial Restoration on target of spell.  Lasts for 20.0 seconds.  Triggers about 2.4 times per minute.\n    - Heals group members (AE) for 875.\n    - Heals group members (AE) for 292 every 5 seconds.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: From [[Corrupted Primal Velium Hauberk]]
 item_link: \aITEM 1863088424 -1763186683:Shadowtouched Breastplate\/a
 categories:

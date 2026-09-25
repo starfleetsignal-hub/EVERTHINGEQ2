@@ -17,7 +17,8 @@ stats:
   resolve: '35'
   vselemental: +87,497
   mitinc: '22.7'
-effects: '**Zealot''s Zeal**'
+effect_name: Zealot's Zeal
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 5.0."
 item_link: \aITEM -1847155068 1621506179:Planar Ring of Steel\/a
 categories:
 - Arcane Resistance (Equipment)

@@ -6,7 +6,8 @@ icon: images/Item_1099.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Featherfall**<br>**Sky Glide**'
+effect_name: Featherfall, Sky Glide
+effects: "- When Equipped:\n  - Reduces maximum falling speed of caster\n- Applies Sky Glide when Activated.  Lasts for 30.0 seconds.\n  - Allows caster to jump farther\n  - Cannot be modified except by direct means\n  - The casting time of Sky Glide is 1.0 second and the reuse time of the spell is 3 minutes"
 obtained_from: From [[Cloak of the Clearing (crate)|Cloak of the Clearing]]
 item_link: \aITEM -932678400 749269550:Cloak of the Clearing\/a
 categories:

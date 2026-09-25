@@ -12,7 +12,8 @@ stats:
   sta: '+11'
   mit: '196'
   dtype: Plate Armor
-effects: '**Silence of the Grave**'
+effect_name: Silence of the Grave
+effects: "- Applies Silence of the Grave when Activated.  Lasts for 30.0 seconds.\n  - On any combat or spell hit this spell may cast Grave Silence on target of attack.  Lasts for 6.0 seconds.  Triggers about 6.0 times per minute.\n    - Stifles target\n      - If Target is not Epic\n      - If between levels 1 - 44\n    - Cannot be modified except by direct means\n  - The reuse time of Silence of the Grave is 20 minutes"
 item_link: \aITEM -775389684 -294616361:Sumyd's Raiment of Undeath\/a
 categories:
 - Berserker Equipment

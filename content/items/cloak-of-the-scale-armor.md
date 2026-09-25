@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Dragon Breath**<br>**Featherfall**'
+effect_name: Dragon Breath, Featherfall
+effects: "- Applies Dragon Breath when Activated.  Lasts for 5.0 seconds.\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of the Scale (crate)|Cloak of the Scale]]
 item_link: \aITEM -852458624 618346372:Cloak of the Scale\/a
 categories:

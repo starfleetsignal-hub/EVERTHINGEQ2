@@ -18,7 +18,8 @@ stats:
   resolve: '6'
   aspeed: '191.6'
   dtype: Leather Armor
-effects: '**Psionic Empowerment**'
+effect_name: Psionic Empowerment
+effects: "- Applies Psionic Empowerment when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 592247209 1905606000:Invigorated Leather Psionist's Crown\/a
 categories:
 - Attack Speed (Equipment)

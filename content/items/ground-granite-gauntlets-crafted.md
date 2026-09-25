@@ -17,7 +17,8 @@ stats:
   aspeed: '6.9'
   dps: '12.4'
   dtype: Plate Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume I]]
 item_link: \aITEM -932673874 -1336793962 0 0 0:Ground Granite Gauntlets\/a
 categories:

@@ -14,7 +14,8 @@ stats:
   critbonus: '17.2'
   potency: '17.2'
   abmod: +1,250
-effects: '**Imbue Energy**'
+effect_name: Imbue Energy
+effects: "- When Equipped:\n  - Increases the wearer's Ability Modifier by 3,000 and Ability Casting Speed by 15% if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM 1558792597 -1516093938:Fabled Gorget of Oblivion\/a
 categories:
 - Ability Modifier (Equipment)

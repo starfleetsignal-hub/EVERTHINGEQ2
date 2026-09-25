@@ -19,7 +19,9 @@ stats:
   drating: '193.63'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Corrosive Fog**<br>**Soothing Sigil**'
+effect_name: Corrosive Fog, Soothing Sigil
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Corrosive Fog III on target of attack.  Lasts for 16.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 757 - 837 disease damage on target encounter instantly and every 2 seconds.\n    - Decreases Defense and Parry of target encounter by 10.0.\n    - Decreases Mitigation of target encounter vs physical damage by 480.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means\n- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On a critical healing spell cast this spell may cast Soothing Sigil IV on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 221 levels of any hostile effects on target\n    - Heals target for 5,664 - 6,260.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except\
+  \ by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1034447433 -66493201:Preistly Staff of the Draconic Slayer\/a
 categories:
 - Beastlord Equipment

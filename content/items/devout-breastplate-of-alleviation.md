@@ -16,7 +16,8 @@ stats:
   potency: '1'
   abmod: '+25'
   dtype: Plate Armor
-effects: '**Divine Purpose**'
+effect_name: Divine Purpose
+effects: "- When Equipped:\n  - Increases the caster's heals and wards by 5%."
 obtained_from: '*Crafted by [[Armorer]] (level 60) from [[Ancient Knowledge: Devout Breastplate of Alleviation]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 1419278221 -1490131427:Devout Breastplate of Alleviation\/a
 categories:

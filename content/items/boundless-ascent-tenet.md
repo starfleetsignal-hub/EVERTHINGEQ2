@@ -17,7 +17,9 @@ stats:
   resolve: '470'
   cbovercap: '+1534.5'
   dtype: Buckler
-effects: '**End of the Beginning**<br>**Miracula Drive**'
+effect_name: End of the Beginning, Miracula Drive
+effects: "- Applies End of the Beginning when Equipped.\n  - Increases Max Health of caster by 599.9%.\n  - Increases Combat XP of caster by 10.0%.\n    - If under level 127\n  - On death, this spell will repair the condition lost on worn equipment. This effect can only trigger once every 30 minutes. Does not affect items that benefit from lost condition.\n  - Requires having completed one of the following achievements:  \"Laid to Unrest [Heroic I]\", \"No Unrest for the Weary [Heroic II]\", \"Unrest in Pieces [Heroic III]\".\n- Applies Miracula Drive when Equipped.\n  - Increases Potency of caster by 2,451.8.\n  - Increases Weapon Damage of caster by 320.8.\n  - On a hostile ability cast this spell has a 20% chance to cast Miracula Crush on target of spell.  Lasts for 9.0 seconds.\n    - Inflicts 20,520 crushing damage on target.\n    - Inflicts 5,130 crushing damage on target every 4.5 seconds.\n    - Decreases Combat Mitigation of target by 1,426.6.\n    - Cannot be modified except by\
+  \ direct means\n    - This effect can only trigger once every 8.0 - 16.0 seconds."
 item_link: \aITEM 228780909 147962158:Boundless Ascent, Tenet\/a
 categories:
 - Assassin Equipment

@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   aspeed: '31.2'
   vselemental: +26,832
-effects: '**Anguish**'
+effect_name: Anguish
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Anguish III on target of attack.  Lasts for 6.0 seconds.  Triggers about 3.0 times per minute.\n    - Increases all damage done to target encounter by 0.5%.\n    - Inflicts 42,240 mental damage on target encounter instantly and every second.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 339234178 -164587180:Ring of Grand Anguish\/a
 categories:
 - Anguish (Equipment)

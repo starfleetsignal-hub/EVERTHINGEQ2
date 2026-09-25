@@ -13,7 +13,8 @@ stats:
   crit: '38'
   critbonus: '17.2'
   potency: '17.2'
-effects: '**The Subtle**'
+effect_name: The Subtle
+effects: "- When Equipped:\n  - Decreases Hate Gain of caster by 50.0.\n  - Increases Potency of caster by 8.0."
 item_link: \aITEM 634215757 -1757896722:Fabled Ravasect Eye Necklace\/a
 categories:
 - Assassin Equipment

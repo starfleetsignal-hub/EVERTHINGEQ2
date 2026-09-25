@@ -14,7 +14,8 @@ stats:
   critbonus: '24'
   potency: '24'
   aspeed: '31.2'
-effects: '**The Decider**'
+effect_name: The Decider
+effects: "- Applies The Decider when Activated.  Lasts for 8.0 seconds.\n  - Increases the caster's ability damage by 100%.\n  - If the target doesn't die before this expires, the caster may die, receive massive damage or have their outgoing damage reduced\n  - This can be cast while using other abilities\n  - Cannot be modified except by direct means\n  - The reuse time of The Decider is 1 minute 30 seconds"
 item_link: \aITEM -1645942305 -2114703969:Engraved Aerakyn Horn\/a
 categories:
 - Assassin Equipment

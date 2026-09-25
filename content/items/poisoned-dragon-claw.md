@@ -15,7 +15,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   multi: '12'
-effects: '**Toxic Tempest**'
+effect_name: Toxic Tempest
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Toxic Tempest on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 2,648 poison damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1852923428 305340135:Poisoned Dragon Claw\/a
 categories:
 - Assassin Equipment

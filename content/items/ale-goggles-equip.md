@@ -7,7 +7,7 @@ flags: no-trade
 description: With these on, beauty is truly in the eye of the beholder!
 stats:
   dtype: Cloth Armor
-effects: Ale Goggles
+effects: "- Applies Ale Goggles when Equipped\n  - Grants See Spirit form to caster"
 obtained_from: 'Quest: [[Ale Goggles]]'
 used_in_quest: '[[Ale Goggles]]'
 item_link: \aITEM 1525470065 -1035872832:Ale Goggles\/a

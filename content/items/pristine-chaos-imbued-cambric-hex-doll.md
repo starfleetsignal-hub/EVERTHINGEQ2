@@ -13,7 +13,8 @@ stats:
   crit: '0.7'
   critbonus: '0.2'
   potency: '1'
-effects: '**Hex of Chaos**'
+effect_name: Hex of Chaos
+effects: "- Applies Hex of Chaos when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs elemental, noxious and arcane damage by 608.\n  - The casting time of Hex of Chaos is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Tailor]] (level 56) from [[Advanced Tailor Volume 56 (Heirloom)]] *Crafted by [[Tailor]] (level 56) from [[Advanced Tailor Volume 56 (Normal)]]'
 item_link: \aITEM 1701526603 -256361789 0 0 0:pristine chaos imbued cambric hex doll\/a
 categories:

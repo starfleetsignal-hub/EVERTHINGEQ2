@@ -14,7 +14,8 @@ stats:
   critbonus: '27'
   potency: '27'
   aspeed: '31.2'
-effects: '**Elemental Focus**'
+effect_name: Elemental Focus
+effects: "- Applies Elemental Focus II when Activated.  Lasts for 8.0 seconds.\n  - Grants 440 potency to all elemental abilities.\n  - Removes 200 potency from arcane and noxious damage abilities.\n  - Cannot be modified except by direct means\n  - The reuse time of Elemental Focus II is 2 minutes"
 item_link: \aITEM 1452446813 658609536:Focused Foci of the Astute\/a
 categories:
 - Attack Speed (Equipment)

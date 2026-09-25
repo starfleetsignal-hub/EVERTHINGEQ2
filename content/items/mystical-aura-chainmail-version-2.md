@@ -15,7 +15,8 @@ stats:
   critbonus: '0.9'
   potency: '3.9'
   dtype: Chain Armor
-effects: '**Manawell**'
+effect_name: Manawell
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Manawell on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 173.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1977944466 59080259:Mystical Aura Chainmail\/a
 categories:
 - AE Autoattack Chance (Equipment)

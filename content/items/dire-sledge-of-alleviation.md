@@ -19,7 +19,8 @@ stats:
   drating: '81.93'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**Exalted Wave**'
+effect_name: Exalted Wave
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Exalted Wave VI on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 515 - 570 cold damage on targets in Area of Effect instantly and every 2 seconds.\n    - Heals group members (AE) for 512 - 566 instantly and every 2 seconds.\n    - Increases the amount of wards and heals cast by the caster's group by 5%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 60) from [[Ancient Knowledge: Dire Sledge of Alleviation]] *Made from [[Anomalous Reactant]]'
 item_link: \aITEM 552323980 855065304:Dire Sledge of Alleviation\/a
 categories:

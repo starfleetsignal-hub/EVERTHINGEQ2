@@ -15,7 +15,8 @@ stats:
   dps: '21.8'
   multi: '31.2'
   vselemental: +21,632
-effects: '**Defiant Resolve**'
+effect_name: Defiant Resolve
+effects: "- When Equipped:\n  - When the wearer takes more than 35% of their life in a single attack, they will heal for 15% of their maximum health. This can only trigger once every 6 seconds.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1579749073 181340923:Wrist of Defiant Malice\/a
 image: images/Wrist_of_Defiant_Malice.png
 categories:

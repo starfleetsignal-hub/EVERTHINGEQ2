@@ -16,7 +16,8 @@ stats:
   potency: '2.6'
   multi: '4.8'
   vselemental: '+595'
-effects: '**Regenerating Gift**'
+effect_name: Regenerating Gift
+effects: "- When Equipped:\n  - On a healing spell cast this spell will cast Regenerating Gift on caster.\n    - Heals caster for 19.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -2078046426 -602581175:Blessed Band of Wisdom\/a
 categories:
 - AE Autoattack Chance (Equipment)

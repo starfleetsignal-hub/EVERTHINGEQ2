@@ -10,7 +10,8 @@ flags: lore-equip attunable heirloom
 stats:
   str: '+9'
   sta: '+9'
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 6.0."
 item_link: \aITEM -1341370948 1740836220:Crushbone Legionnaire Cloak\/a
 categories:
 - Assassin Equipment

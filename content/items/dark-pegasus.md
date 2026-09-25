@@ -9,7 +9,7 @@ flags: HEIRLOOM NO-VALUE
 description: Only an 85th and higher seasoned adventurer or tradeskiller will be able to summon this powerful steed.
 stats:
   charges: Unlimited
-effects: Dark Pegasus
+effects: "- Applies Dark Pegasus when Activated.\n  - Summons a mount to ride.\n    - Increases your Ground Speed by 75%\n    - Increases your Air Speed by 150%\n  - Increases Subjugation, Ministration, Ranged, Disruption, Ordination, Slashing, Piercing, Crushing, Aggression, and Focus of caster by 5.0."
 obtained_from: Station Cash Marketplace
 image: images/Dark_Pegasus_Stats.jpg
 categories:

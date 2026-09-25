@@ -14,7 +14,8 @@ stats:
   drating: '195.78'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Vigilant Researching**<br>**Applied Shadows**'
+effect_name: Vigilant Researching, Applied Shadows
+effects: "- Applies Vigilant Researching when Equipped.\n  - Grants a bonus to public research mission contributions!\n- Applies Applied Shadows when Activated.  Lasts for 30 minutes.\n  - Applied shadows will allow the caster to see seeping shadows from the ground more clearly and allows it to be handled to provide shadowed resources. Upon collecting any shadows the duration of the Applied Shadows buff will be reduced to 30 seconds.\n  - The casting time of Applied Shadows is 3.0 seconds and the reuse time of the spell is 2 hours"
 obtained_from: '[[Piercing the Darkness: Message in a Shadowed Bottle Part III]]'
 item_link: \aITEM -631408123 -510569467:Shadowed Staff of Luclin\/a
 image: images/Shadowed_Staff_of_Luclin.png

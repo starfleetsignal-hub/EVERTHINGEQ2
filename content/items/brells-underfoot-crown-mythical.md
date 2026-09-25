@@ -16,7 +16,8 @@ stats:
   abmod: +7,155
   multi: '89.6'
   dtype: Chain Armor
-effects: '**Pure Malice**'
+effect_name: Pure Malice
+effects: "- Applies Pure Malice when Equipped.\n  - Increases Fervor of caster by 3.0."
 item_link: \aITEM 1447851811 -1725625460:Brell's Underfoot Crown\/a
 categories:
 - Ability Modifier (Equipment)

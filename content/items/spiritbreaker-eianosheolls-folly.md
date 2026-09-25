@@ -19,7 +19,7 @@ stats:
   delay: '9.0'
   drating: '274.5'
   wtype: Bow
-effects: Unbound Anger
+effects: "- When Equipped:\n  - Grants a 50.0% chance to resist Stun effects\n  - Grants a 50.0% chance to resist Root effects\n  - Grants a 50.0% chance to resist Stifle effects\n  - Must not be engaged in pvp combat\n  - Cannot be modified except by direct means"
 obtained_from: '[[Nine Hundred Ninety Nine]]'
 item_link: \aITEM 1085753956 494225142:Spiritbreaker, Eianosheoll's Folly\/a
 categories:

@@ -18,7 +18,8 @@ stats:
   resolve: '525'
   mitinc: '92'
   dtype: Plate Armor
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1996533738 -1239790582:Hoard Found Cuirass of Desolation\/a
 categories:
 - Berserker Equipment

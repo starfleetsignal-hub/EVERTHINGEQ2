@@ -10,7 +10,8 @@ flags: lore no-trade
 stats:
   sta: '+2'
   int: '+2'
-effects: '**Ward of the Abbatoirs**'
+effect_name: Ward of the Abbatoirs
+effects: "- Applies Ward of the Abbatoirs when Activated.  Lasts for 36.0 seconds.\n  - Wards caster against 20 points of all damage\n  - The casting time of Ward of the Abbatoirs is 1.0 second and the reuse time of the spell is 10 minutes"
 obtained_from: '[[Abolishing Curiousity]]'
 item_link: \aITEM -1114218613 316413682:Abbatoir Warding Amulet\/a
 categories:

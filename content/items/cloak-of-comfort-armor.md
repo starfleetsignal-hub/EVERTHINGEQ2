@@ -6,7 +6,8 @@ icon: images/Item_1098.png
 tier: Fabled
 slot: Cloak
 flags: attunable heirloom no-value
-effects: '**Comfort**<br>**Featherfall**'
+effect_name: Comfort, Featherfall
+effects: "- Applies Comfort when Activated.  Lasts for 12 hours.\n  - Shapechanges caster into a Gigglegibber Comfort Crate\n  - This effect cancels during combat\n  - The casting time of Comfort is 2.0 seconds and the reuse time of the spell is 2.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: From [[Cloak of Comfort (crate)|Cloak of Comfort]]
 item_link: \aITEM 338257055 -907129871:Cloak of Comfort\/a
 categories:

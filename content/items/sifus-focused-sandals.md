@@ -17,7 +17,8 @@ stats:
   potency: '7.2'
   dps: '18.8'
   dtype: Leather Armor
-effects: '**Vicious Focus**'
+effect_name: Vicious Focus
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 12.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1520078215 987876105:Sifu's Focused Sandals\/a
 categories:
 - Assassin Equipment

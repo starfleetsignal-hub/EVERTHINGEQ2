@@ -14,7 +14,8 @@ stats:
   critbonus: '17.1'
   potency: '17.7'
   multi: '28.2'
-effects: '**One Man Army**'
+effect_name: One Man Army
+effects: "- When Equipped:\n  - Whenever the wearer completes a solo heroic opportunity, they will gain 10% to all attributes and grow by 25% for 16 seconds.\n  - Cannot be modified except by direct means"
 obtained_from: '*From [[A Packet of Heroic Goods (Channeler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Defiler, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Fury, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Inquisitor, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Mystic, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Templar, 95)|A Packet of Heroic Goods]] *From [[A Packet of Heroic Goods (Warden, 95)|A Packet of Heroic Goods]]'
 item_link: \aITEM -647278231 2106494457:Valorous Amulet\/a
 categories:

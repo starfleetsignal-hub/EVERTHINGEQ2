@@ -17,7 +17,8 @@ stats:
   drating: '143.64'
   dtype: Two-Handed Slashing
   wtype: Slashing
-effects: '**Mutilation**'
+effect_name: Mutilation
+effects: "- When Equipped:\n  - Must be engaged in pvp combat"
 item_link: \aITEM 466772757 931323633:Obliterator's Greatsword\/a
 categories:
 - Berserker Equipment

@@ -15,7 +15,8 @@ stats:
   critbonus: '2.7'
   potency: '3.1'
   dps: '11.1'
-effects: '**Mischievous Mockery**'
+effect_name: Mischievous Mockery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Mischievous Mockery on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Summons 2 limited pets to aid the caster\n    - Cannot be modified except by direct means"
 item_link: \aITEM -918616290 26950175:Charm of Bristlebane\/a
 categories:
 - Assassin Equipment

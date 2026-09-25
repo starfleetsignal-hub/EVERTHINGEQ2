@@ -21,7 +21,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Wind Scar**'
+effect_name: Wind Scar
+effects: "- When Equipped:\n  - On a ranged hit this spell may cast Wind Scar on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 335 piercing damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 56827298 56910058:Wind-Shaped Bow\/a
 categories:
 - AE Autoattack Chance (Equipment)

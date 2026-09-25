@@ -12,7 +12,8 @@ stats:
   sta: '+5'
   mit: '38'
   dtype: Leather Armor
-effects: '**Glyph of Reflection**'
+effect_name: Glyph of Reflection
+effects: "- Applies Glyph of Reflection when Equipped.\n  - Inflicts 24 magic damage on target."
 item_link: \aITEM -1902356637 515054568:Silver-Studded Sleeves\/a
 categories:
 - Assassin Equipment

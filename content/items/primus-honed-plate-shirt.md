@@ -20,7 +20,8 @@ stats:
   aspeed: '343.2'
   multi: '171.4'
   dtype: Plate Armor
-effects: '**Facet of Eternity**'
+effect_name: Facet of Eternity
+effects: "- When Equipped:\n  - Increases Potency of caster by 100.0.\n  - Increases Fervor Overcap of caster by 3.0.\n  - Must have defeated the Rejuvenating One."
 obtained_from: From [[Satchel of the Primus]]
 item_link: \aITEM -1455848603 -1402863898:Primus' Honed Plate Shirt\/a
 categories:

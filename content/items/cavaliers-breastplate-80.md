@@ -21,7 +21,8 @@ stats:
   vsarcane: +1,020
   vsnoxious: +1,232
   dtype: Plate Armor
-effects: '+50 taunt and combat art amount<br>Focus: [[Lay on Hands V]]<br>**Heroic Resistance**<br>Rockiron Nerves'
+effect_name: Heroic Resistance
+effects: "- When Equipped:\n  - Improves base healing of [[Lay on Hands V]] by 15%\n- Applies Heroic Resistance when Equipped.\n  - Reduces the critical damage inflicted on caster by 10.0%\n  - Must be engaged in pvp combat\n- When Equipped:\n  - Reduces all physical damage done to target by 5%\n  - 5% of all physical damage received by the caster is prevented"
 obtained_from: This item can be purchased from [[Brundun Cogspinner]] (Qeynos aligned) or [[Ellnie Shrewdsprock]] (Freeport aligned) at [[Dropship Landing Zone]] in [[Moors of Ykesha]].
 categories:
 - Ability Modifier (Equipment)

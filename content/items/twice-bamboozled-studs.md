@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Positional Advantage**'
+effect_name: Positional Advantage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Positional Advantage on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 51, 000 piercing damage to the target. This damage increases if the wearer is flanking or behind their target and the closer they are to the target, up to 390, 150 piercing damage.\n    - Cannot be modified except by direct means"
 obtained_from: Made from [[Chest of Glory]]
 item_link: \aITEM -154326975 771244005:Twice-Bamboozled Studs\/a
 categories:

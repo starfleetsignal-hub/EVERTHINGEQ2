@@ -17,7 +17,8 @@ stats:
   potency: '7.2'
   multi: '9.6'
   dtype: Chain Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: Crafted by [[Artisan]] (level 90) from [[Far Seas Strategic Pricing (3rd Edition), Volume I]]
 item_link: \aITEM -1109408071 155175299:Gambler's Mauling Cuffs\/a
 categories:

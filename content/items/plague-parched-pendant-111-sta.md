@@ -16,7 +16,8 @@ stats:
   abmod: '+142'
   dps: '12.6'
   vselemental: '+400'
-effects: '**Arcane Recovery**'
+effect_name: Arcane Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of hostile spells by 3 percent."
 item_link: \aITEM 300192735 -2049124655:Plague Parched Pendant\/a
 categories:
 - Ability Modifier (Equipment)

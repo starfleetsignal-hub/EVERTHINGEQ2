@@ -16,7 +16,8 @@ stats:
   potency: '24'
   aspeed: '31.2'
   dps: '21.8'
-effects: '**Conservative Rate of Fire**'
+effect_name: Conservative Rate of Fire
+effects: "- Applies Conservative Rate of Fire when Activated.\n  - Decreases Haste of caster by 200.0.\n  - Gives caster a 90.0% chance to not use ammunition on an attack.\n  - Cannot be modified except by direct means\n  - The casting time of Conservative Rate of Fire is 1.0 second and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM 630319740 -2120599011:Urn of Offering\/a
 categories:
 - Assassin Equipment

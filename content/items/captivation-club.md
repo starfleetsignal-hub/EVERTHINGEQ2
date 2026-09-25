@@ -21,7 +21,8 @@ stats:
   drating: '241.97'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Early Advantage**'
+effect_name: Early Advantage
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Early Advantage on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 8,970,000 crushing damage on target\n    - Increases Weapon Damage of caster by 18.0.\n    - Increases Crit Bonus of caster by 20.0.\n    - Increases Potency of caster by 20.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1625078971 938373282:Captivation Club\/a
 categories:
 - Ability Modifier (Equipment)

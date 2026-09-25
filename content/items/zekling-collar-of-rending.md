@@ -15,7 +15,8 @@ stats:
   potency: '6.6'
   abmod: '+197'
   aspeed: '9.7'
-effects: '**Armor Breaker**'
+effect_name: Armor Breaker
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Armor Break on target of attack.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 249 - 416 slashing damage on target.\n    - Decreases Mitigation of target vs physical damage by 1,023.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -513176490 1583571375:Zekling Collar of Rending\/a
 categories:
 - Ability Modifier (Equipment)

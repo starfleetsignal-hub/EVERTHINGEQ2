@@ -16,7 +16,8 @@ stats:
   potency: '10.4'
   dps: '23'
   dtype: Leather Armor
-effects: '**Nocturnal Celerity**'
+effect_name: Nocturnal Celerity
+effects: "- When Equipped:\n  - Increases Haste of caster by 40.0.\n  - Increases Ability Mod of caster by 100.0."
 item_link: \aITEM -480461128 -659335922:Gloves of Venomous Waves\/a
 categories:
 - Census Credits

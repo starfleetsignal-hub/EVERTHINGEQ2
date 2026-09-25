@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Bay and Howl**'
+effect_name: Bay and Howl
+effects: "- Applies Bay and Howl when Activated.  Lasts for 20.0 seconds.\n  - Increases DPS of caster by 10.0.\n  - Increases Ability Mod of caster by 100.0.\n  - The reuse time of Bay and Howl is 5 minutes"
 obtained_from: '[[The Head of Malkonis D''Morte]]'
 item_link: \aITEM 17408431 -778416482:Severed Werewolf Paw\/a
 categories:

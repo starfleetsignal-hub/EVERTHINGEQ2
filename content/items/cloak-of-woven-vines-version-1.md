@@ -14,7 +14,8 @@ stats:
   critbonus: '0.5'
   potency: '2.6'
   abmod: '+62'
-effects: '**Healing Blanket**'
+effect_name: Healing Blanket
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Healing Blanket on the group.  Lasts for 24.0 seconds.  Triggers about 2.0 times per minute.\n    - Heals group members (AE) for 107 instantly and every 4 seconds.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1925927922 1471472760:Cloak of Woven Vines\/a
 categories:
 - Ability Modifier (Equipment)

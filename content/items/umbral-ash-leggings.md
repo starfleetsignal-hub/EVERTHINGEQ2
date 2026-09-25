@@ -17,7 +17,8 @@ stats:
   potency: '5'
   multi: '7.8'
   dtype: Chain Armor
-effects: '**Uncontrolled Healing**'
+effect_name: Uncontrolled Healing
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 214.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means\n  - On a damage spell hit this spell may cast Uncontrolled Healing on the group.  Triggers about 2.0 times per minute.\n    - Heals group members for 214.\n    - This effect may trigger off each target of an AE heal.\n    - Cannot be modified except by direct means"
 obtained_from: '*Made from [[Elemental Master''s Pantaloon Mold]] *Made from [[Elemental Master''s Pantaloon Pattern]]'
 item_link: \aITEM -70721852 -1298900054 0 0 0:Umbral Ash Leggings\/a
 categories:

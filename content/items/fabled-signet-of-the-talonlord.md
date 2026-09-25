@@ -14,7 +14,8 @@ stats:
   potency: '17.2'
   aspeed: '31.2'
   vselemental: +10,148
-effects: '**Blessing of the Prime Healer**'
+effect_name: Blessing of the Prime Healer
+effects: "- When Equipped:\n  - When any damage is received this spell will cast Blessing of the Prime Healer II on caster.  This effect normalizes based off of a three second triggering event.\n    - Heals caster for 0.9% of caster's max health.\n      - This effect cannot be critically applied.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 6.0 seconds."
 item_link: \aITEM -531080132 1133177488:Fabled Signet of the Talonlord\/a
 categories:
 - Arcane Resistance (Equipment)

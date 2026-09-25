@@ -15,7 +15,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Winds of the Tundra**'
+effect_name: Winds of the Tundra
+effects: "- When Equipped:\n  - This effect will not stack with itself if adorned on multiple items.\n  - On any combat or spell hit this spell may cast Winds of the Tundra on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' spells and combat arts by 15%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Winds of the Tundra on the group.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases the damage of group members' spells and combat arts by 15%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - You may only benefit from one effect of this type.\n  - Cannot be modified except by direct means"
 obtained_from: '[[A Chance For Redemption]]'
 item_link: \aITEM -737157803 1781456418:Inspirited Sash of Vah Kerrath\/a
 categories:

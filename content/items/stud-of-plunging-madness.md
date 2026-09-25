@@ -18,7 +18,8 @@ stats:
   abmod: '+551'
   multi: '21.1'
   vselemental: +2,079
-effects: '**Immovable Soul**'
+effect_name: Immovable Soul
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 34.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 2063431279 -2123533523:Stud of Plunging Madness\/a
 categories:
 - Ability Modifier (Equipment)

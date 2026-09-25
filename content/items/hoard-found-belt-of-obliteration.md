@@ -17,7 +17,8 @@ stats:
   potency: 43,342.7
   resolve: '525'
   abmod: +3642,172
-effects: '**Macabre Steps**'
+effect_name: Macabre Steps
+effects: "- When Equipped:\n  - Contributes 60 points towards the Macabre Motive effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 677625451 -731281992:Hoard Found Belt of Obliteration\/a
 categories:
 - Ability Modifier (Equipment)

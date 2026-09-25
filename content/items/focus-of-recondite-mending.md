@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Thunderstorm**'
+effect_name: Thunderstorm
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Thunderstorm on target of attack.  Lasts for 12.0 seconds.  Triggers about 2.2 times per minute.\n    - Applies Energize.  Lasts for 12.0 seconds.\n      - Heals group members (AE) for 1,458 instantly and every 4 seconds.\n      - Increases power of group members (AE) by 109 instantly and every 4 seconds.\n      - Cannot be modified except by direct means\n    - Inflicts 5,328 heat damage on target instantly and every 4 seconds.\n    - Inflicts an additional 2,664 heat damage on target every tick.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1720615414 -755102357:Focus of Recondite Mending\/a
 categories:
 - Ability Modifier (Equipment)

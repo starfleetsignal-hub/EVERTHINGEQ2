@@ -15,7 +15,8 @@ stats:
   potency: '4.9'
   aspeed: '6.7'
   flurry: '3.2'
-effects: '**Lesser Concussive Blast**'
+effect_name: Lesser Concussive Blast
+effects: "- When Equipped:\n  - On a damage spell hit this spell may cast Concussive Blast on target of spell.  Lasts for 2.5 seconds.  Triggers about 1.6 times per minute.\n    - Stuns target\n    - Only affects targets level 125 and below\n    - Does not affect Epic targets\n    - Resistibility increases against targets higher than level 86.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1576977322 -1592720716:Girdle of Mental Attenuation\/a
 categories:
 - Assassin Equipment

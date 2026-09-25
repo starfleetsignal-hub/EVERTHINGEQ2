@@ -25,7 +25,8 @@ stats:
   range: 2 - 35
   dtype: ranged
   wtype: Bow
-effects: '**Warforged**<br>**Shadows Bound**'
+effect_name: Warforged, Shadows Bound
+effects: "- Applies Warforged when Equipped.\n  - Applies Warforged to qualifying pets.\n    - Increases the Fervor of all profession abilities by 15.\n  - Increases the damage and healing of all profession abilities by 15.\n  - Cannot be modified except by direct means\n- When Equipped:\n  - Shadows Bound gains power once the owner has completed the Reign of Shadows achievement.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 543712941 -1602061675:Stratigos Longbow\/a
 categories:
 - Ability Modifier (Equipment)

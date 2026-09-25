@@ -16,7 +16,8 @@ stats:
   abmod: '+763'
   dps: '26.4'
   vselemental: +28,885
-effects: '**Prismatic Reaction**'
+effect_name: Prismatic Reaction
+effects: "- When Equipped:\n  - When a combat art is used this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means\n  - On a spell cast this spell may cast Prismatic Reaction on caster.  Lasts for 16.0 seconds.  Triggers about 1.8 times per minute.\n    - Wards caster based off of caster's total spell resists.\n    - Cannot be modified except by direct means"
 obtained_from: 'Collection reward: [[The Spills of Battle (Collection)]]'
 item_link: \aITEM 250147355 -12641927:Bloodsoaked Stud\/a
 image: images/Bloodsoaked_Stud.png

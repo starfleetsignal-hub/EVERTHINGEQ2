@@ -18,7 +18,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Disease Blast**'
+effect_name: Disease Blast
+effects: "- Applies Disease Blast when Activated.\n  - Inflicts 240 - 400 disease damage on target.\n  - The casting time of Disease Blast is 8.0 seconds and the reuse time of the spell is 2.0 seconds"
 item_link: \aITEM -1824196146 897389176:Disease Imbued Cedar Wand\/a
 aliases:
 - Disease Imbued Cedar Wand (Level 40) (Version 2)

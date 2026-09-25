@@ -21,7 +21,8 @@ stats:
   drating: '195.92'
   dtype: Two-Handed Crushing
   wtype: Staff
-effects: '**Soulful Stand**'
+effect_name: Soulful Stand
+effects: "- When Equipped:\n  - Increases Max Health of caster by 1,371.0.\n  - This effect will not stack with any other Stout effect.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1584160345 1101973750 0 0 0:Hardened Tavalan Smasher\/a
 categories:
 - Beastlord Equipment

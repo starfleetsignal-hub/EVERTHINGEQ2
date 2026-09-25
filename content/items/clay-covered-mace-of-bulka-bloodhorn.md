@@ -18,7 +18,9 @@ stats:
   drating: '39.42'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Ethereal Needles**'
+effect_name: Ethereal Needles
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Ethereal Needles on target of spell.  Triggers about 2.0 times per minute.\n    - Inflicts 99 - 165 magic damage on target.\n    - Inflicts 99 - 165 piercing damage on target.\n    - Inflicts 99 - 165 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a ranged hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 99 - 165 magic damage on target.\n    - Inflicts 99 - 165 piercing damage on target.\n    - Inflicts 99 - 165 divine damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a hit this spell may cast Ethereal Needles on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 99 - 165 magic damage on target.\n    - Inflicts 99 - 165 piercing damage on target.\n    - Inflicts 99 - 165 divine damage on\
+  \ target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 979925526 1028319516:Clay Covered Mace of Bulka Bloodhorn\/a
 categories:
 - Brawler Equipment

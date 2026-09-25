@@ -19,7 +19,8 @@ stats:
   drating: '109.44'
   dtype: Main Hand Crushing
   wtype: Hammer
-effects: '**Cleansing Heals**'
+effect_name: Cleansing Heals
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Cleansing Heals on target of spell cast.  Triggers about 2.0 times per minute.\n    - Dispels 145 levels of any hostile effects on target\n    - Heals target for 227 - 277.\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -1842922250 -1426563564:Mercy, Gavel of Forgiveness\/a
 categories:
 - Ability Modifier (Equipment)

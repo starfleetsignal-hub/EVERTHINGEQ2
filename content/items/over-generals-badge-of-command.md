@@ -18,7 +18,8 @@ stats:
   resolve: '7'
   aspeed: '36.7'
   dps: '28'
-effects: '**Perfect Warrior**'
+effect_name: Perfect Warrior
+effects: "- Applies Perfect Warrior when Activated.  Lasts for 15.0 seconds.\n  - Increases Fervor of caster by 13.6.\n  - Dazes caster\n  - Cannot be modified except by direct means\n  - The casting time of Perfect Warrior is 5.0 seconds and the reuse time of the spell is 8 minutes"
 item_link: \aITEM -782644495 59936960:Over-General's Badge of Command\/a
 categories:
 - Ability Doublecast (Equipment)

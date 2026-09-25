@@ -16,7 +16,8 @@ stats:
   dps: '13'
   vsnoxious: '+400'
   dtype: Symbols
-effects: '**Aggregation**'
+effect_name: Aggregation
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Aggregation on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases the amount of your next healing spell or rune by 20%.\n    - Dispelled when target casts a heal spell\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1489509410 -968925084:Void-melted Ancient Kunark Tablet\/a
 categories:
 - Aggregation (Equipment)

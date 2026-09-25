@@ -17,7 +17,8 @@ stats:
   potency: '5.1'
   dps: '13'
   dtype: Plate Armor
-effects: '**Greater Void Bane**'
+effect_name: Greater Void Bane
+effects: "- When Equipped:\n  - Additional equipment with Void Bane improves this effect.\n  - On any combat or spell hit this spell may cast Greater Void Bane on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 486 mental damage on target.\n      - Must not be classified as a void beast\n      - Must not be classified as a shadowed folk\n    - Inflicts 972 mental damage on target.\n      - If any of the following are true:\n        - Must be classified as a void beast\n        - Must be classified as a shadowed folk\n    - Decreases Mitigation of target vs arcane damage by 720.\n      - If any of the following are true:\n        - Must be classified as a void beast\n        - Must be classified as a shadowed folk\n    - Cannot be modified except by direct means"
 item_link: \aITEM 752574276 -1031260175:Breastplate of the Void-Touched\/a
 categories:
 - Berserker Equipment

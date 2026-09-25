@@ -20,7 +20,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Deliverance**'
+effect_name: Deliverance
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Elusive Celerity on caster.  Lasts for 15.0 seconds.  Triggers about 1.8 times per minute.\n    - Reduces reuse time of healing spells by 10 percent.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Anaphylaxis (Quest)|Anaphylaxis]]'
 item_link: \aITEM 828064824 664059664:Mace of the Imprisoned\/a
 categories:

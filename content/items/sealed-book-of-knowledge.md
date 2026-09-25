@@ -14,7 +14,8 @@ stats:
   critbonus: '0.4'
   potency: '1.9'
   abmod: '+46'
-effects: '**Power Osmosis**'
+effect_name: Power Osmosis
+effects: "- Applies Power Osmosis when Activated.\n  - Increases power of caster by 7,570.\n  - This effect cannot be cast during combat\n  - The casting time of Power Osmosis is 5.0 seconds and the reuse time of the spell is 1 hour"
 obtained_from: '[[Obscuring Knowledge]]'
 item_link: \aITEM 774642054 345606751:Sealed Book of Knowledge\/a
 categories:

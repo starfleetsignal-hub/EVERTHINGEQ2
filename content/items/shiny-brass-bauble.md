@@ -13,7 +13,8 @@ stats:
   potency: '0.2'
   dps: '1.4'
   dtype: Symbols
-effects: '**Brass Flash**'
+effect_name: Brass Flash
+effects: "- When Equipped:\n  - When any damage is received this spell has a 10% chance to cast Brass Flash on target's attacker.  Lasts for 1.5 seconds.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 4.5 seconds and duration is reduced to 0.5 seconds.\n    - Resistibility increases against targets higher than level 59.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 5.0 seconds."
 obtained_from: 'Heritage quest reward: [[Training is a Shield]]'
 item_link: \aITEM -2028891022 -1441335571:Shiny Brass Bauble\/a
 categories:

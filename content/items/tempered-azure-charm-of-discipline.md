@@ -15,7 +15,8 @@ stats:
   potency: '10.8'
   aspeed: '17.3'
   multi: '18.1'
-effects: '**Weaponmaster''s Singularity**'
+effect_name: Weaponmaster's Singularity
+effects: "- When Equipped:\n  - Increases STA and AGI of caster by 25.0.\n  - Increases Crit Bonus of caster by 2.0.\n  - Increases Crushing, Slashing, Piercing and Ranged of caster by 40.0."
 obtained_from: '*Crafted by [[Artisan]] (level 95) from [[Ancient Knowledge: Azure Charm of Discipline]] *Made from [[Colossal Frog Tongue]] *Made from [[Mound of Electrified Coral]] *Made from [[Protective Siren Shell]]'
 item_link: \aITEM -454244806 396295120:Tempered Azure Charm of Discipline\/a
 categories:

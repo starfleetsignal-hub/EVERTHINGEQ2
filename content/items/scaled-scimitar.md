@@ -19,7 +19,8 @@ stats:
   drating: '47.83'
   dtype: One-Handed Slashing
   wtype: Sword
-effects: '**Blazing Pylon Glyph**'
+effect_name: Blazing Pylon Glyph
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Flame Bolt on target of attack.  Triggers about 1.8 times per minute.\n    - Inflicts 100 - 122 heat damage on target encounter.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1704239202 983735264:Scaled Scimitar\/a
 categories:
 - Ability Modifier (Equipment)

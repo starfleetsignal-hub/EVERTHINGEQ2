@@ -17,7 +17,8 @@ stats:
   resolve: '7'
   abmod: '+843'
   dps: '29'
-effects: '**March of Axes**'
+effect_name: March of Axes
+effects: "- Applies March of Axes when Activated.\n  - Activates an army of axes straight ahead of the caster, dealing 6,990,840 damage to any targets in their path. The damage ticks 4 additional times.\n  - Targets hit by the axes are also afflicted with a cleaving headache that saps STR, WIS, INT, and AGI and take 3% more damage from all sources for 20 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The casting time of March of Axes is 1.0 second and the reuse time of the spell is 1 minute\n- When Equipped:\n  - Increases Crit Bonus of caster by 25.0.\n  - Increases Potency of caster by 100.0."
 item_link: \aITEM -1061644229 724912179:Ashenfell Stone of Power\/a
 categories:
 - Ability Modifier (Equipment)

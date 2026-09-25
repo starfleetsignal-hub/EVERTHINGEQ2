@@ -20,7 +20,8 @@ stats:
   drating: '70.93'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: '**Divine Retribution**'
+effect_name: Divine Retribution
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Divine Retribution on target of attack.  Lasts for 20.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 185 divine damage on target instantly and every 6.6 seconds.\n      - If target is undead\n    - Cannot be modified except by direct means"
 item_link: \aITEM 811916109 -1229043372:Hammer of Divine Retribution\/a
 categories:
 - Attack Speed (Equipment)

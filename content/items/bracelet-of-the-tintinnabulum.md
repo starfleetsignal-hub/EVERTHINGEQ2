@@ -16,7 +16,8 @@ stats:
   aspeed: '5.1'
   multi: '5.9'
   vsnoxious: '+360'
-effects: '**Onslaught**<br>**Bladeshield**'
+effect_name: Onslaught, Bladeshield
+effects: "- When Equipped:\n  - Increases Hate Gain of caster by 7.0.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Bladeshield on caster.  Lasts for 12.0 seconds.  Triggers about 1.2 times per minute.\n    - Wards caster against 1,200 points of physical damage\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1140875774 1852302769:Bracelet of the Tintinnabulum\/a
 categories:
 - Arcane Resistance (Equipment)

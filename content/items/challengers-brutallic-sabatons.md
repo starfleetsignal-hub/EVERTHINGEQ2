@@ -16,7 +16,8 @@ stats:
   abmod: '+60'
   dps: '2'
   dtype: Chain Armor
-effects: '**Poison Proficiency**'
+effect_name: Poison Proficiency
+effects: "- When Equipped:\n  - Increases poison trigger chance by 4.0%."
 obtained_from: Sold by [[Scion of Baast]] (Battlegrounds Merchant) in [[Cities]]
 item_link: \aITEM -696236155 942170933:Challenger's Brutallic Sabatons\/a
 categories:

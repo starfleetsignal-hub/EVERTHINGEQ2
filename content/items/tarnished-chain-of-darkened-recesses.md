@@ -14,7 +14,8 @@ stats:
   potency: '20.2'
   multi: '31.2'
   vselemental: +19,032
-effects: '**Riftblade**'
+effect_name: Riftblade
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Riftblade IV on target of attack.  Triggers about 3.0 times per minute.\n    - Inflicts 334,400 crushing damage on targets in Area of Effect.\n    - Does not apply to the target it triggered on\n    - Cannot be modified except by direct means"
 item_link: \aITEM -259776060 -584700573:Tarnished Chain of Darkened Recesses\/a
 image: images/Tarnished_Chain_of_Darkened_Recesses.png
 categories:

@@ -16,7 +16,8 @@ stats:
   critbonus: '5.6'
   potency: '9.2'
   multi: '15.6'
-effects: '**Cogent**'
+effect_name: Cogent
+effects: "- When Equipped:\n  - Increases Potency of caster by 3.5.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 830766254 -1573610925:Dominant Necklace of the Ragebourne\/a
 categories:
 - Census Credits

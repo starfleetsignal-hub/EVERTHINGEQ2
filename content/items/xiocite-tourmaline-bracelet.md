@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +21,632
-effects: '**Cerebral Destruction**'
+effect_name: Cerebral Destruction
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Cerebral Destruction IV on target of attack.  Lasts for 15.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 149,600 mental damage on target.\n    - Decreases INT, AGI, WIS and STR of target by 343.2.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Jeweler]] (level 100) from [[Advanced Jeweler Volume 100]]
 item_link: \aITEM 174460745 1647526469:Xiocite Tourmaline Bracelet\/a
 categories:

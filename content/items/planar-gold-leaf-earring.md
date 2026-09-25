@@ -18,7 +18,8 @@ stats:
   abmod: +32,535
   aspeed: '72.2'
   vselemental: +87,497
-effects: '**Zealot''s Zeal**'
+effect_name: Zealot's Zeal
+effects: "- When Equipped:\n  - Increases Fervor Overcap of caster by 5.0."
 item_link: \aITEM 490183881 325672096:Planar Gold Leaf Earring\/a
 categories:
 - Ability Modifier (Equipment)

@@ -14,7 +14,8 @@ stats:
   crit: '107.6'
   critbonus: '21.7'
   mitinc: '8.8'
-effects: '**Shared Dragonsbane**<br>**Dragonsbane**'
+effect_name: Shared Dragonsbane, Dragonsbane
+effects: "- Applies Shared Dragonsbane when Activated.\n  - Protects the group from powerful Draconic abilities within Temple of Veeshan!\n- When Equipped:\n  - Protects the wearer from powerful Draconic abilities within Temple of Veeshan! This protection does not take effect for a few seconds after a resurrection."
 item_link: \aITEM 560372054 -285854219:Dreadscale's Belt of Dragonhide\/a
 aliases:
 - Dreadscale's Belt of Dragonhide (1 Gem)

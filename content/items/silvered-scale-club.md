@@ -24,7 +24,8 @@ stats:
   drating: '2495.23'
   dtype: One-Handed Crushing
   wtype: Staff
-effects: '**Twisted Thoughts**'
+effect_name: Twisted Thoughts
+effects: "- When Equipped:\n  - On a hostile spell cast this spell may cast Twisted Thoughts on target of spell.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,250\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1461113647 -1367371702:Silvered Scale Club\/a
 categories:
 - Attack Speed (Equipment)

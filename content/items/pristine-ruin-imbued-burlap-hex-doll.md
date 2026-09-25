@@ -10,7 +10,8 @@ flags: attunable
 stats:
   str: '+3'
   sta: '+2'
-effects: '**Hex of Ruin**'
+effect_name: Hex of Ruin
+effects: "- Applies Hex of Ruin when Activated.  Lasts for 1 minute 48 seconds.\n  - Decreases Mitigation of target vs physical damage by 108.\n  - The casting time of Hex of Ruin is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: '*Crafted by [[Outfitter]] (level 17) from [[Outfitters essentials volume 17 (Normal)]] *Crafted by [[Outfitter]] (level 17) from [[Outfitters Essentials Volume 17 (no-trade)]]'
 item_link: \aITEM 220719205 -1596867633:pristine ruin imbued burlap hex doll\/a
 image: images/Pristine_ruin_imbued_burlap_hex_doll.png

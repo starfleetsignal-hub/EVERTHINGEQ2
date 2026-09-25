@@ -17,7 +17,8 @@ stats:
   resolve: '19'
   vselemental: +56,952
   mitinc: '15.5'
-effects: '**Portents of Pain**'
+effect_name: Portents of Pain
+effects: "- When Equipped:\n  - Increases Potency of caster by 125.0.\n  - This effect is greatly weakened outside of the Shard of Hate.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -325088734 446174137:Wicked Wristband\/a
 categories:
 - Arcane Resistance (Equipment)

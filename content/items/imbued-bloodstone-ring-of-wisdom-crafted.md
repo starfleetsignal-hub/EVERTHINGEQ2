@@ -11,7 +11,8 @@ stats:
   str: '+11'
   sta: '+10'
   vsarcane: '+100'
-effects: '**Aura of Wisdom**'
+effect_name: Aura of Wisdom
+effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 10.3.\n    - Increases Ordination, Ministration and Focus of caster by 6.0.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 46) from [[Jeweler Essentials Volume 46 (Normal)]] *Crafted by [[Jeweler]] (level 46) from [[Jeweler Essentials Volume 46 (no-trade)]]'
 item_link: \aITEM -1900457603 -1142387474:Imbued Bloodstone Ring of Wisdom\/a
 categories:

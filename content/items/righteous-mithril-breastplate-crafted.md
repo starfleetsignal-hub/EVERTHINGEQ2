@@ -17,7 +17,8 @@ stats:
   dps: '12.8'
   mitinc: '5'
   dtype: Plate Armor
-effects: '**Salubrious Aura**'
+effect_name: Salubrious Aura
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Salubrious Aura on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - When any damage is received this spell will cast Reflexive Restoration on target.  This effect normalizes based off of a three second triggering event.\n      - Heals caster for 358.\n      - Grants a total of 3 triggers of the spell.\n    - Cannot be modified except by direct means"
 obtained_from: Crafted by [[Artisan]] (level 70) from [[Far Seas Strategic Pricing Manual, Volume IV]]
 item_link: \aITEM -874111954 -216045957 0 0 0:Righteous Mithril Breastplate\/a
 categories:

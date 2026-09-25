@@ -16,7 +16,8 @@ stats:
   abmod: +1,670
   aspeed: '18.8'
   vselemental: +33,491
-effects: '**Veeshan''s Restoration**'
+effect_name: Veeshan's Restoration
+effects: "- When Equipped:\n  - On a healing spell cast this spell may cast Veeshan's Restoration on the group.  Lasts for 8.0 seconds.  Triggers about 3.0 times per minute.\n    - Reduces physical damage done to group members (AE) by 12%. This spell will absorb a total of 10 attacks.\n    - Instantly restores 5% of incoming damage to the group\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1812041814 -1296361472:Dellmun's Restorative Hoops\/a
 categories:
 - Ability Modifier (Equipment)

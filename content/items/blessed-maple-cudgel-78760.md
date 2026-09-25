@@ -17,7 +17,7 @@ stats:
   drating: '8.6'
   dtype: One-Handed Crushing
   wtype: Hammer
-effects: Glowing Blessing
+effects: "- When Equipped:\n  - When target casts a spell this spell has a chance to Glowing Blessing on target of spell cast.  Lasts for 12.0 seconds.  This effect will trigger an average of 1.8 times per minute.\n    - Increases the damage and healing amount of the caster's spells by 8"
 obtained_from: Crafted by [[Craftsman]] (level 12) from [[Craftsman essentials volume 12]]
 item_link: \aITEM -2061846458 766360290:blessed maple cudgel\/a
 categories:

@@ -16,7 +16,8 @@ stats:
   potency: '1.6'
   abmod: '+32'
   dtype: Chain Armor
-effects: '**Lesser Sap Strength**'
+effect_name: Lesser Sap Strength
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell has a 7% chance to cast Sap Strength on target's attacker.  Lasts for 24.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Decreases DPS of target by 10.0.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Tokens for Snouts]]'
 item_link: \aITEM 771038048 398026448:Armguards of Thievery\/a
 categories:

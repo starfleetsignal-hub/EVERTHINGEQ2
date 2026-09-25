@@ -8,7 +8,7 @@ slot: Charm
 flags: NO-TRADE NO-VALUE ORNATE
 stats:
   charges: Unlimited
-effects: Call Pale Armor Albino Warg
+effects: "- Applies Call Pale Armor Albino Warg when Activated. Lasts for 1 day.\n  - Increases Slashing, Piercing, Crushing, Aggression and Ranged of caster by 5.0\n  - Summons a mount to ride that increases your speed by 50%"
 obtained_from: Legends of Norrath loot card
 categories:
 - Assassin Equipment

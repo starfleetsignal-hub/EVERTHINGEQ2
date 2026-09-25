@@ -7,7 +7,8 @@ tier: Treasured
 slot: Cloak
 flags: attunable heirloom no-value
 description: This cloak has an activatable effect that will cause poppies to grow around the feet of the wearer!
-effects: '**Flowers of the Field**<br>**Featherfall**'
+effect_name: Flowers of the Field, Featherfall
+effects: "- Applies Flowers of the Field when Activated.\n  - Poppies grow around your feet.\n  - The casting time of Flowers of the Field is 1.0 second and the reuse time of the spell is 10.0 seconds\n- When Equipped:\n  - Reduces maximum falling speed of caster"
 obtained_from: Marketplace (475 Daybreak Cash)
 item_link: \aITEM -1713442728 -1406168809:Cloak of the Fields\/a
 categories:

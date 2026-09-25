@@ -14,7 +14,8 @@ stats:
   critbonus: '0.2'
   potency: '1.2'
   abmod: '+27'
-effects: '**Draught of the Undying**'
+effect_name: Draught of the Undying
+effects: "- Applies Draught of the Undying when Activated.  Lasts for 1 minute 5 seconds.\n  - Shapechanges caster into a spectre\n  - Increases power of caster by 527.\n  - Inflicts 239 - 716 heat damage on caster.\n  - Inflicts 24 - 72 heat damage on caster every 6.4 seconds.\n  - This effect will terminate if the caster engages in PVP combat.\n  - The casting time of Draught of the Undying is 3.0 seconds and the reuse time of the spell is 30 minutes"
 obtained_from: '[[Restoring the Vessel]]'
 item_link: \aITEM -1027986898 715641334:Overflowing Vessel of Fyr'Un\/a
 categories:

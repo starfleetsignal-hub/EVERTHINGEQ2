@@ -15,7 +15,8 @@ stats:
   potency: '6.2'
   abmod: '+185'
   vsarcane: '+517'
-effects: '**Ward of Duality**'
+effect_name: Ward of Duality
+effects: "- When Equipped:\n  - On a critical healing spell cast this spell may cast Ward of Duality IX on target of spell cast.  Lasts for 30.0 seconds.  Triggers about 2.0 times per minute.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Jeweler]] (level 90) from [[Ancient Knowledge: Radiant Bangle of Revelations]] *Made from [[Colossal Reactant]]'
 item_link: \aITEM 1578999036 -566408203:Radiant Bangle of Revelations\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   drating: '112.89'
   dtype: Two-Handed Crushing
   wtype: Great Hammer
-effects: '**System Shock**'
+effect_name: System Shock
+effects: "- When Equipped:\n  - On a combat hit this spell may cast System Shock on target of attack.  Lasts for 12.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 506 - 844 magic damage on target.\n    - Inflicts 142 magic damage on target encounter instantly and every 4 seconds.\n    - Enlarges caster by 30.0%.\n    - Cannot be modified except by direct means\n    - Will trigger off of crush, pierce or slash abilities."
 item_link: \aITEM 1895637043 1649658428:Bonecrusher\/a
 categories:
 - Ability Modifier (Equipment)

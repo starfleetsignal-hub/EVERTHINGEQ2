@@ -14,7 +14,8 @@ stats:
   critbonus: '1.4'
   potency: '6.2'
   abmod: '+185'
-effects: '**Runic Recovery**'
+effect_name: Runic Recovery
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 3 percent."
 obtained_from: '[[The Footsteps of Dartain: Ascension]]'
 item_link: \aITEM -1110366847 689136634:Dartain's Signet of Resolve\/a
 image: images/Dartain's_Signet_of_Resolve.jpg

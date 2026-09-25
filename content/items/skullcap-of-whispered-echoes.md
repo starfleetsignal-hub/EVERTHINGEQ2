@@ -17,7 +17,8 @@ stats:
   potency: '1.8'
   abmod: '+40'
   dtype: Leather Armor
-effects: '**Infuriating Shout**'
+effect_name: Infuriating Shout
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Infuriating Shout IV on target of attack.  Triggers about 1.4 times per minute.\n    - Increases Threat to target by 1,050\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1936312539 82808429:Skullcap of Whispered Echoes\/a
 categories:
 - Ability Modifier (Equipment)

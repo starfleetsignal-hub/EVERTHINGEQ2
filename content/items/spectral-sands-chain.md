@@ -15,7 +15,8 @@ stats:
   potency: '8.4'
   dps: '21.1'
   vselemental: +1,488
-effects: '**Defiant Slam**'
+effect_name: Defiant Slam
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Defiant Slam on target of attack.  Triggers about 2.0 times per minute.\n    - Inflicts 1,311 - 1,602 heat damage on target.\n    - Inflicts 1,311 - 1,602 heat damage on target.\n    - Inflicts 1,311 - 1,602 heat damage on target.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1840820430 -1699853458:Spectral Sands Chain\/a
 categories:
 - AE Autoattack Chance (Equipment)

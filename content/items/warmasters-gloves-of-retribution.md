@@ -14,7 +14,8 @@ stats:
   critbonus: '9.3'
   potency: '9.3'
   dtype: Cloth Armor
-effects: '**Haste**'
+effect_name: Haste
+effects: "- When Equipped:\n  - Increases Haste of caster by 35.0."
 obtained_from: CoE Heroic Dungeons chests
 item_link: \aITEM 2091513347 -2114055082 0 0 0:Warmaster's Gloves of Retribution\/a
 categories:

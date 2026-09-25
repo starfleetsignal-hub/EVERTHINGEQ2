@@ -13,7 +13,7 @@ stats:
   wis: '+17'
   multi: '8'
   vsnoxious: '+883'
-effects: Blood Ritual
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Blood Ritural on target of attack. Lasts for 15.0 seconds. Triggers about 2.0 times per minute.\n    - When any dameage is received this spell has a 10% chance to cast Blood Ritural on target's attacker.\n      - Heals target for 1741\n        - This effect cannot be critically applied.\n      - Cannot be modified except by direct means.\n    - (more to come)"
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment

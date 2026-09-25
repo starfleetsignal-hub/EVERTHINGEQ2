@@ -11,7 +11,8 @@ stats:
   str: '+3'
   sta: '+2'
   dtype: Round Shield
-effects: '**Sanguine Imbued**'
+effect_name: Sanguine Imbued
+effects: "- Applies Sanguine Imbued when Equipped.\n  - When any damage is received this spell has a 5% chance to cast Sanguine Feedback on target's attacker.\n    - Inflicts 15 heat damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Craftsman]] (level 12) from [[Craftsman essentials volume 12 (Normal)]] *Crafted by [[Craftsman]] (level 12) from [[Craftsman Essentials Volume 12 (no-trade)]]'
 item_link: \aITEM 258631390 1598842863:Imbued Maple Round Shield\/a
 categories:

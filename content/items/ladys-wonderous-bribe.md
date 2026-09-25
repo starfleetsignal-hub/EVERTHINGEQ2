@@ -15,7 +15,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   abmod: +1,250
-effects: '**Camaraderie**'
+effect_name: Camaraderie
+effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus and Potency by 35 if they have 2 or more grouped allies within 5 meters of them."
 item_link: \aITEM -913072728 1869440973:Lady's Wonderous Bribe\/a
 aliases:
 - Lady's Wonderous Bribe (1 Gem)

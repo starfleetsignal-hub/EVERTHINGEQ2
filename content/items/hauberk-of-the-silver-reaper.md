@@ -16,7 +16,8 @@ stats:
   aspeed: '25.4'
   multi: '55.6'
   dtype: Chain Armor
-effects: '**Reaper''s Scythe**'
+effect_name: Reaper's Scythe
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Reaper's Scythe on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Inflicts 7,820 - 8,644 piercing damage on target encounter instantly and every 5 seconds.\n    - Increases Flurry of Caster by 3.0.\n    - Increases Accuracy of caster by 10.0%.\n    - Increases Crit Bonus of caster by 12.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1156057453 -765175436 0 0 0:Hauberk of the Silver Reaper\/a
 categories:
 - Assassin Equipment

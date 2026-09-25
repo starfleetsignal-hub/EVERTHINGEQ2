@@ -12,7 +12,8 @@ stats:
   agi: '+21'
   crit: '0.2'
   potency: '0.7'
-effects: '**Hex of Shadows**'
+effect_name: Hex of Shadows
+effects: "- Applies Hex of Shadows when Activated.  Lasts for 1 minute 48 seconds.\n  - Applies Hex of Fright.  Lasts for 1 minute 48 seconds.\n    - Decreases Haste of target by 15.8.\n    - Cannot be modified except by direct means\n  - Slows target by 39.1%.\n  - 5% chance to dispel when target takes damage\n  - 5% chance to dispel when target receives hostile action\n  - The casting time of Hex of Shadows is 1.0 second and the reuse time of the spell is 5 minutes"
 obtained_from: Crafted by [[Tailor]] (level 56) from [[Advanced Tailor Volume 56]]
 item_link: \aITEM 2293644 117992216:shadow imbued cambric hex doll\/a
 categories:

@@ -20,7 +20,8 @@ stats:
   range: Up to 35
   dtype: ranged
   wtype: Focus
-effects: '**Evanescent Defenses**'
+effect_name: Evanescent Defenses
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Evanescent Defenses on target of attack.  Lasts for 15.0 seconds.  Triggers about 2.0 times per minute.\n    - Decreases Defense and Parry of target by 60.0.\n    - Increases Defense and Parry of caster by 60.0.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1661468936 -910989168:Golden Wand of Sohbahk\/a
 categories:
 - Attack Speed (Equipment)

@@ -13,7 +13,8 @@ stats:
   critbonus: '20.2'
   potency: '20.2'
   vselemental: +16,380
-effects: '**Spines**'
+effect_name: Spines
+effects: "- When Equipped:\n  - When damaged with a melee weapon this spell will cast Spines IV on target's attacker.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 44,000 piercing damage on target.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 1.0 second."
 item_link: \aITEM 933846615 299142502:Ring of Barbs\/a
 categories:
 - Arcane Resistance (Equipment)

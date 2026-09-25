@@ -17,7 +17,8 @@ stats:
   multi: '34.1'
   flurry: '0.6'
   vselemental: +8,019
-effects: '**Eternal Damnation**'
+effect_name: Eternal Damnation
+effects: "- When Equipped:\n  - Increases AGI and STR of caster by 45.0.\n  - Increases Crit Bonus of caster by 6.1.\n  - This effect will not stack with any rank or tier of itself.\n  - Cannot be modified except by direct means"
 item_link: \aITEM -892503716 121477110:Stud of Gruesome Wounds\/a
 categories:
 - Ability Modifier (Equipment)

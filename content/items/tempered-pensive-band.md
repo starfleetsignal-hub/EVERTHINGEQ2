@@ -16,7 +16,8 @@ stats:
   abmod: '+405'
   aspeed: '17.3'
   vselemental: +1,824
-effects: '**Mana Sprinkles**'
+effect_name: Mana Sprinkles
+effects: "- When Equipped:\n  - This effect will not stack with any rank or tier of itself.\n  - On any combat or spell hit this spell may cast Mana Sprinkles IV on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 574.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - On a healing spell cast this spell may cast Mana Sprinkles IV on caster.  Triggers about 2.0 times per minute.\n    - Increases power of caster by 574.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means\n  - Cannot be modified except by direct means"
 item_link: \aITEM -110435710 29938892 0 0 0:Tempered Pensive Band\/a
 categories:
 - Ability Modifier (Equipment)

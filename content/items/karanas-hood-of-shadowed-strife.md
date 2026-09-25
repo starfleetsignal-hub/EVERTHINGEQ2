@@ -17,7 +17,8 @@ stats:
   dps: '107.3'
   multi: '41.1'
   dtype: Cloth Armor
-effects: '**Timeless Tempest**'
+effect_name: Timeless Tempest
+effects: "- When Equipped:\n  - Increases Potency of caster by 7.0.\n  - On a hostile spell cast this spell will cast Timeless Tempest on target of spell.\n    - Inflicts 30 to 2,000 magic damage. May randomly spike for much greater damage."
 item_link: \aITEM 332091958 310132445 0 0 0:Karana's Hood of Shadowed Strife\/a
 categories:
 - Census Credits

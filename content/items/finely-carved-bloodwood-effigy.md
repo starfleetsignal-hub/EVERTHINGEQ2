@@ -21,7 +21,8 @@ stats:
   drating: '84.14'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Ykesha''s Strike**'
+effect_name: Ykesha's Strike
+effects: "- When Equipped:\n  - On a hit this spell may cast Ykesha's Strike on target of attack.  Lasts for 2.0 seconds.  Triggers about 1.8 times per minute.\n    - Inflicts 422 magic damage on target.\n    - Stuns target\n    - Epic targets gain an immunity to Stun effects of 6.0 seconds and duration is reduced to 0.7 seconds.\n    - Resistibility increases against targets higher than level 91.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Carpenter]] (level 79) from [[Sculptors'' Secrets of Mistmoore, Volume II]] *Made from [[Bloodwood plank]]'
 item_link: \aITEM -1811401018 -304138792:Finely Carved Bloodwood Effigy\/a
 categories:

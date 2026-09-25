@@ -16,7 +16,8 @@ stats:
   potency: '7'
   abmod: '+210'
   dtype: Leather Armor
-effects: '**Runic Recovery**<br>**Vicious Focus**'
+effect_name: Runic Recovery, Vicious Focus
+effects: "- When Equipped:\n  - Reduces reuse time of beneficial spells by 5 percent.\n- When Equipped:\n  - On any combat or spell hit this spell may cast Vicious Focus on caster.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Increases Potency of caster by 8.5.\n    - Cannot be modified except by direct means"
 obtained_from: '[[Subordination Insubordination]]'
 item_link: \aITEM -1734895230 1703905146:Gleaming Spaulders of Ulteran Conquerors\/a
 categories:

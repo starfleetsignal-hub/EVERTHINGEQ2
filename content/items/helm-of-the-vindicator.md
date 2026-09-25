@@ -16,7 +16,8 @@ stats:
   potency: '1.9'
   abmod: '+46'
   dtype: Plate Armor
-effects: '**Righteous Vindication**'
+effect_name: Righteous Vindication
+effects: "- Applies Righteous Vindication when Activated.  Lasts for 8.0 seconds.\n  - Dispels 124 levels of hostile Fear, hostile Stun and hostile Root effects on caster\n  - Increases DPS of caster by 40.0.\n  - Makes caster immune to Fear effects\n  - The casting time of Righteous Vindication is 1.5 seconds and the reuse time of the spell is 10 minutes"
 item_link: \aITEM 119382558 1914289031:Helm of the Vindicator\/a
 categories:
 - Ability Modifier (Equipment)

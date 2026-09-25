@@ -14,7 +14,8 @@ stats:
   critbonus: '18.7'
   potency: '18.7'
   vselemental: +11,880
-effects: '**Dragon Wings**'
+effect_name: Dragon Wings
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Dragon Wings III on target of attack.  Lasts for 6.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 55,463 cold damage on target instantly and every second.\n    - Increases Block Chance of caster by 8.0%.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -1332685490 -427558834:Polished Ring of Winged Blight\/a
 aliases:
 - Polished Ring of Winged Blight (1 Gem, Potency)

@@ -21,7 +21,8 @@ stats:
   drating: '109.44'
   dtype: One-Handed Crushing
   wtype: Fists
-effects: '**Hasty Recovery**'
+effect_name: Hasty Recovery
+effects: "- When Equipped:\n  - On a combat hit this spell may cast Hasty Recovery on caster.  Triggers about 1.0 times per minute.\n    - Increases power of caster by 374.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -802471597 796668724:Knuckles of Blistering Blows\/a
 categories:
 - Beastlord Equipment

@@ -10,7 +10,8 @@ flags: attunable
 stats:
   sta: '+7'
   int: '+7'
-effects: '**Aura of Strength**'
+effect_name: Aura of Strength
+effects: "- When Equipped:\n  - On a hit this spell may cast Blaze of Strength on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases STR of caster by 6.6.\n    - Increases DPS of caster by 16.4.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 48270746 1356965705:Imbued Jasper Ring of Strength\/a
 categories:
 - Assassin Equipment

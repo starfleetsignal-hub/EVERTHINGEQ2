@@ -16,7 +16,8 @@ stats:
   drating: '34.09'
   dtype: One-Handed Crushing
   wtype: Mace
-effects: '**Gleaming Strike**'
+effect_name: Gleaming Strike
+effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Gleaming Strike on target of attack.  Triggers about 1.6 times per minute.\n    - Decreases Threat to target by 1,769\n      - Must be flanking or behind\n    - Increases Threat to target by 2,434\n      - Must be in front of\n    - Inflicts 126 - 233 magic damage on target.\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Weaponsmith]] (level 49) from [[Advanced Weaponsmith Volume 49 (Normal)]] *Crafted by [[Weaponsmith]] (level 49) from [[Advanced Weaponsmith Volume 49 (no-trade)]]'
 item_link: \aITEM -992845786 -1160188143:Imbued Ebon Gavel\/a
 categories:

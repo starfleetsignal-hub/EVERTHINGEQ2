@@ -13,7 +13,8 @@ stats:
   drating: '75.25'
   dtype: Dual Wield Crushing
   wtype: Crushing
-effects: '**Crush of the Hua Mein Wanderer**'
+effect_name: Crush of the Hua Mein Wanderer
+effects: "- Applies Crush of the Hua Mein Wanderer when Activated.\n  - Shapechanges the user into a Hua Mein Wanderer.\n  - The casting time of Crush of the Hua Mein Wanderer is 3.0 seconds and the reuse time of the spell is 10.0 seconds"
 obtained_from: Sold by [[Ra'di]] (Faction Merchant) in [[The Sundered Frontier]]
 item_link: \aITEM -343769256 -1838451927:Staff of the Hua Mein Wanderer\/a
 categories:
