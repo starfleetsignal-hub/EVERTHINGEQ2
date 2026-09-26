@@ -492,21 +492,23 @@ def gear_index():
              ix(tiers, str(fm.get("tier") or "")), mask, fm.get("expansion") or "", ix(types, ty), nums,
              1 if fm.get("expansion_source") == "level" else 0])
     return shards, tiers, types, stat_count
-# Live (holiday) events in calendar order: name, main page, the real-world holiday it matches, usual dates
-# (month, day, month, day; from the wiki's Live Events page and each event's latest announcement; 0 = every month),
-# and the category names that mark its content. Pages also join an event through their `events:` front matter.
+
+# Live (holiday) events in calendar order: name, main page, the real-world holiday it matches, dates
+# (month, day, month, day, year: the latest dates announced on each event's wiki page, and the year they are for;
+# 0 = every month), and the category names that mark its content. Pages also join an event through their `events:`
+# front matter. Update the dates (and year) each time the wiki announces the next run.
 EVENTS = [
-    ("Erollisi Day", "Erollisi Day", "Valentine's Day", (2, 10, 2, 17), ["Erollisi Day"]),
-    ("Brew Day", "Brew Day", "St. Patrick's Day", (3, 12, 3, 24), ["Brew Day"]),
-    ("Chronoportal Phenomenon", "Chronoportal Phenomenon", "EverQuest anniversary", (3, 20, 3, 30), ["Chronoportal Phenomenon"]),
-    ("Bristlebane Day", "Bristlebane Day", "April Fools' Day", (3, 27, 4, 10), ["Bristlebane Day"]),
-    ("Beast'r Eggstravaganza", "Beast'r Eggstravaganza", "Spring and Easter", (4, 10, 4, 24), ["Beast'r Eggstravaganza"]),
-    ("Oceansfull Festival", "Oceansfull Festival", "", (6, 1, 6, 15), ["Oceansfull Festival"]),
-    ("Tinkerfest", "Tinkerfest", "", (6, 11, 6, 25), ["Tinkerfest"]),
-    ("Scorched Sky Celebration", "Scorched Sky", "Summer fireworks", (6, 28, 7, 9), ["Scorched Sky"]),
-    ("Nights of the Dead", "Nights of the Dead", "Halloween", (10, 15, 11, 5), ["Nights of the Dead"]),
-    ("Heroes' Festival", "Heroes' Festival Timeline", "EverQuest II's birthday", (11, 7, 11, 17), ["Heroes' Festival", "Heroes Festival"]),
-    ("Frostfell", "Frostfell", "Winter holidays", (12, 2, 1, 5), ["Frostfell"]),
+    ("Erollisi Day", "Erollisi Day", "Valentine's Day", (2, 5, 2, 18, 2026), ["Erollisi Day"]),
+    ("Chronoportal Phenomenon", "Chronoportal Phenomenon", "EverQuest anniversary", (3, 5, 3, 18, 2026), ["Chronoportal Phenomenon"]),
+    ("Brew Day", "Brew Day", "St. Patrick's Day", (3, 12, 3, 25, 2026), ["Brew Day"]),
+    ("Bristlebane Day", "Bristlebane Day", "April Fools' Day", (3, 27, 4, 10, 2026), ["Bristlebane Day"]),
+    ("Beast'r Eggstravaganza", "Beast'r Eggstravaganza", "Spring and Easter", (4, 3, 4, 9, 2026), ["Beast'r Eggstravaganza"]),
+    ("Tinkerfest", "Tinkerfest", "", (6, 11, 6, 25, 2026), ["Tinkerfest"]),
+    ("Scorched Sky Celebration", "Scorched Sky", "Summer fireworks", (7, 2, 7, 15, 2026), ["Scorched Sky"]),
+    ("Oceansfull Festival", "Oceansfull Festival", "", (8, 6, 8, 20, 2026), ["Oceansfull Festival"]),
+    ("Nights of the Dead", "Nights of the Dead", "Halloween", (10, 9, 11, 2, 2026), ["Nights of the Dead"]),
+    ("Heroes' Festival", "Heroes' Festival Timeline", "EverQuest II's birthday", (11, 7, 11, 17, 2025), ["Heroes' Festival", "Heroes Festival"]),
+    ("Frostfell", "Frostfell", "Winter holidays", (12, 2, 1, 5, 2025), ["Frostfell"]),
     ("City Festival", "City Festival", "Monthly", (0, 1, 0, 7), ["City Festival"]),
     ("Moonlight Enchantments", "Moonlight Enchantments", "Monthly", (0, 20, 0, 21), ["Moonlight Enchantments"]),
     ("Year of Darkpaw", "Year of Darkpaw Timeline", "2024 only", None, ["Year of Darkpaw"]),
