@@ -213,6 +213,20 @@ td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
 .gstats span b{color:var(--text);font-variant-numeric:tabular-nums}
 .gstats span.on{color:var(--green-soft)}
 .gstats span.on b{color:var(--green-soft)}
+.evnow{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;margin:14px 0 6px}
+.evcard{display:grid;gap:4px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--brown);border-radius:8px;text-decoration:none;color:var(--text)}
+.evcard:hover{border-color:var(--brown)}
+.evcard.on{border-left-color:var(--green)}
+.evcard b{font-family:var(--display);font-size:1.1rem}
+.evcard small{color:var(--faint);font-size:.85rem}
+.months{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;margin:10px 0 16px}
+.month{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 12px;min-height:92px}
+.month.cur{border-color:var(--red);box-shadow:inset 0 3px 0 var(--red)}
+.month h3{font-family:var(--display);margin:0 0 6px;font-size:1rem;color:var(--muted)}
+.month ul{list-style:none;margin:0;padding:0;font-size:.92rem}
+.month li{padding:1px 0}
+a.tag{text-decoration:none}
+.evfacts{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px}
 
 .article ul.pieces,ul.pieces{list-style:none;padding:0;margin:0 0 16px;display:grid;gap:4px;max-width:72ch}
 .pieces li{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:5px 10px;margin:0}
@@ -266,6 +280,8 @@ footer.site p{max-width:none}
   <nav class="sidenav" aria-label="Browse">
     <h2>Browse</h2>
     <ol id="snav"></ol>
+    <h2>Events</h2>
+    <ol id="enav"><li><a href="#events">Holiday calendar<span></span></a></li></ol>
     <h2>Releases</h2>
     <ol id="xnav"></ol>
     <p class="sidenote">Converted from the EverQuest II Wiki. Names with a dotted grey underline point to wiki pages (mostly items, spells and recipes) that arrive with the next conversion.</p>
@@ -351,6 +367,7 @@ function home(){
   <p class="lede">Zones, quests, items, spells, achievements, NPCs, monsters and landmarks from The Shattered Lands through Rage of Cthurath, converted from the EverQuest II Wiki into ${total().toLocaleString()} editable pages. Waypoint chips copy a <code>/waypoint</code> command; zone pages list everything found in them.</p>
   <div class="stats">${TYPES.filter(([t])=>count(t)).map(([t,l])=>`<a href="#browse.${t}"><b>${count(t).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
   ${META.collections?`<p>Hunting shinies? The <a href="#collections">collections tracker</a> lists all ${META.collections.toLocaleString()} collections and remembers which pieces you have found.</p>`:""}
+  <div id="homeev"></div>
   <h2>Releases</h2>
   <div class="xgrid">${XP.map((x,i)=>`<a class="xcard" href="#x.${xslug(x)}"><b>${esc(x)}</b><span>${YEARS[i]} <span>${xTotal(x).toLocaleString()} pages</span></span></a>`).join("")}</div>`;
 }
@@ -378,6 +395,89 @@ function expansionView(s, tab){
       tab === "tl" ? questList(list, false) : `<details class="qgroup" open><summary>${esc(name)} <span class="count">${list.length}</span></summary>${questList(list, tab !== "her")}</details>`).join("");
   }
   return `<div class="crumbs"><a href="#home">Home</a> › Releases</div><div class="art-head"><h1>${esc(x)}</h1></div>${bar}${body}`;
+}
+
+// ---------------------------------------------------------------- live (holiday) events
+let EVENTS = null;
+const loadEvents = () => EVENTS || (EVENTS = data("events").catch(e=>{ EVENTS = null; throw e; }));
+const MON = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const ord = n => n + (n % 10 === 1 && n !== 11 ? "st" : n % 10 === 2 && n !== 12 ? "nd" : n % 10 === 3 && n !== 13 ? "rd" : "th");
+function evDates(w){
+  if (!w) return "2024 only, now retired";
+  if (!w[0]) return `The ${ord(w[1])} to the ${ord(w[3])} of every month`;
+  return `${MON[w[0]-1]} ${w[1]} to ${MON[w[2]-1]} ${w[3]}`;
+}
+// Is the event on now (by its usual dates), and how many days until it next starts?
+function evState(w, now = new Date()){
+  if (!w) return {on:false, days:Infinity};
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate()), day = 864e5;
+  const spans = [];
+  for (const y of [today.getFullYear() - 1, today.getFullYear(), today.getFullYear() + 1])
+    for (const m of w[0] ? [w[0] - 1] : [...Array(12).keys()]){
+      const start = new Date(y, m, w[1]);
+      const em = w[0] ? w[2] - 1 : m, end = new Date(y + (w[0] && w[2] < w[0] ? 1 : 0), em, w[3]);
+      spans.push([start, end]);
+    }
+  const on = spans.some(([a,b]) => a <= today && today <= b);
+  const next = spans.map(([a]) => a).filter(a => a > today).sort((a,b)=>a-b)[0];
+  return {on, days: next ? Math.round((next - today) / day) : Infinity};
+}
+const evMonths = w => !w || !w[0] ? [] : w[2] >= w[0] ? Array.from({length:w[2]-w[0]+1}, (_,i)=>w[0]+i) : [...Array.from({length:13-w[0]}, (_,i)=>w[0]+i), ...Array.from({length:w[2]}, (_,i)=>i+1)];
+const evWhen = st => st.on ? "On now" : st.days === Infinity ? "Retired" : st.days === 1 ? "Starts tomorrow" : `Starts in ${st.days} days`;
+function evCard(e){
+  const st = evState(e.when);
+  return `<a class="evcard${st.on?" on":""}" href="#ev.${e.s}"><b>${esc(e.n)}</b><small>${esc(evDates(e.when))}</small>
+    <span><span class="tag ${st.on?"green":""}">${esc(evWhen(st))}</span></span></a>`;
+}
+function evSoon(list, n){
+  return list.filter(e=>e.when).map(e=>[e, evState(e.when)]).sort((a,b)=>(b[1].on-a[1].on) || a[1].days-b[1].days).slice(0, n).map(([e])=>e);
+}
+function calendar(list){
+  const cur = new Date().getMonth() + 1;
+  const monthly = list.filter(e=>e.when && !e.when[0]), past = list.filter(e=>!e.when);
+  return `<div class="crumbs"><a href="#home">Home</a> › Events</div>
+  <div class="art-head"><h1>Holiday calendar</h1></div>
+  <p class="lede">EverQuest II's live events: seasonal quests, vendors, rewards and achievements, each gathered onto one page. Dates are the usual window; the exact dates change a little each year, so check the Calendar in the game's EQ2 menu.</p>
+  <h2>On now and coming up</h2><div class="evnow">${evSoon(list, 4).map(evCard).join("")}</div>
+  <h2>Through the year</h2>
+  <div class="months">${MON.map((m,i)=>`<div class="month${i+1===cur?" cur":""}"><h3>${m}</h3><ul>${
+    list.filter(e=>evMonths(e.when).includes(i+1)).map(e=>`<li><a href="#ev.${e.s}">${esc(e.n)}</a></li>`).join("")}</ul></div>`).join("")}</div>
+  <h2>Every month</h2><div class="evnow">${monthly.map(evCard).join("")}</div>
+  ${past.length?`<h2>Past events</h2><div class="evnow">${past.map(evCard).join("")}</div>`:""}`;
+}
+const EVTABS = [["overview","Overview"],["quests","Quests"],["npcs","Vendors and NPCs"],["items","Rewards and items"],
+  ["achievements","Achievements"],["zones","Zones and instances"],["monsters","Monsters"],["more","More pages"]];
+const EVCOLS = {quests:["Quest","Level","Where to start"], npcs:["Name","Zone","Location"], monsters:["Name","Zone","Location"],
+  items:["Item","Type","Obtained from"], achievements:["Achievement","Description","Points"], zones:["Name","Type","Zone"], more:["Page","Type","Zone"]};
+function evRow(g, r){
+  const l = link(r[0], r[1]);
+  if (g === "quests") return `<td>${l}${r[4]?` <span class="tag">${esc(r[4])}</span>`:""}</td><td class="num">${esc(r[2])}</td><td>${r[3]}</td>`;
+  if (g === "npcs" || g === "monsters") return `<td>${l}${r[4]?`<br><small class="derived">${esc(r[4])}</small>`:""}</td><td>${esc(r[2])}</td><td>${r[3]}</td>`;
+  if (g === "achievements") return `<td>${l}</td><td>${esc(r[2])}</td><td class="num">${esc(r[3])}</td>`;
+  return `<td>${l}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td>`;
+}
+function eventView(list, s, tab){
+  const e = list.find(x=>x.s === s); if (!e) return calendar(list);
+  const n = k => (e.g[k]||[]).length;
+  tab = EVTABS.some(([k])=>k===tab) && n(tab) ? tab : "overview";
+  const st = evState(e.when);
+  const bar = `<nav class="tabs" aria-label="${esc(e.n)} sections">${EVTABS.filter(([k])=>k==="overview"||n(k)).map(([k,l])=>`<a href="#ev.${s}${k==="overview"?"":"."+k}"${k===tab?' aria-current="page"':""}>${l}${k==="overview"?"":` <span class="count">${n(k)}</span>`}</a>`).join("")}</nav>`;
+  let body;
+  if (tab === "overview"){
+    body = `${e.sum?`<p>${e.sum}</p>`:""}
+    ${e.main?`<p>${link(e.main, "Read the full " + e.n + " guide")}, with this year's changes, currency and tips.</p>`:""}
+    <div class="stats">${EVTABS.slice(1).filter(([k])=>n(k)).map(([k,l])=>`<a href="#ev.${s}.${k}"><b>${n(k).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
+    ${n("quests")?`<h2>Quests</h2><div class="tablewrap"><table><thead><tr>${EVCOLS.quests.map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody>${e.g.quests.slice(0, 12).map(r=>`<tr>${evRow("quests", r)}</tr>`).join("")}</tbody></table></div>${n("quests")>12?`<p><a href="#ev.${s}.quests">See all ${n("quests")} quests</a></p>`:""}`:""}`;
+  } else {
+    const rows = e.g[tab];
+    body = `${rows.length > 15 ? `<div class="filter"><input id="evf" type="search" placeholder="Filter by name" aria-label="Filter"><span id="evcount">${rows.length.toLocaleString()}</span></div>` : ""}
+    <div class="tablewrap"><table><thead><tr>${EVCOLS[tab].map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody id="evrows">${rows.map(r=>`<tr data-f="${esc(r[1].toLowerCase())}">${evRow(tab, r)}</tr>`).join("")}</tbody></table></div>`;
+  }
+  const credit = e.src ? `<p class="credit">The summary is adapted from <a href="${esc(e.src.url)}" rel="nofollow noopener" target="_blank">${esc(e.src.title)}</a> on the EverQuest II Wiki (Fandom), by <a href="${esc(e.src.history)}" rel="nofollow noopener" target="_blank">its contributors</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>. The lists gather every page tagged with this event.</p>` : "";
+  return `<div class="crumbs"><a href="#home">Home</a> › <a href="#events">Holiday calendar</a></div>
+  <div class="art-head"><h1>${esc(e.n)}</h1></div>
+  <p class="evfacts"><span class="tag ${st.on?"green":"red"}">${esc(evWhen(st))}</span> <span class="tag">${esc(evDates(e.when))}</span>${e.real?` <span class="tag">${esc(e.real)}</span>`:""}</p>
+  ${bar}${body}${credit}`;
 }
 
 const ROWCAP = 500;
@@ -635,7 +735,7 @@ async function render(){
   const my = ++seq;
   const h = decodeURIComponent((location.hash || "#home").slice(1)) || "home";
   const id = pid(h);
-  document.querySelectorAll("#snav a, #xnav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#" + h || (h.startsWith("collections.") && a.getAttribute("href") === "#collections") || (h.startsWith("x.") && a.getAttribute("href") === "#x." + h.split(".")[1])));
+  document.querySelectorAll("#snav a, #enav a, #xnav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#" + h || (h.startsWith("collections.") && a.getAttribute("href") === "#collections") || (h.startsWith("ev.") && a.getAttribute("href") === "#events") || (h.startsWith("x.") && a.getAttribute("href") === "#x." + h.split(".")[1])));
   peek.hidden = true;
   if (h === "gear" || h.startsWith("gear?")) {
     document.querySelectorAll("#snav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#gear"));
@@ -660,6 +760,14 @@ async function render(){
     if (my !== seq) return;
     main.innerHTML = tracker(h.split(".")[1], list); trackerWire();
   }
+  else if (h === "events" || h.startsWith("ev.")) {
+    const [, es, tab] = h.split(".");
+    main.innerHTML = `<p class="loading">Loading the events…</p>`;
+    let list;
+    try { list = await loadEvents(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The events could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = es ? eventView(list, es, tab) : calendar(list);
+  }
   else if (h.startsWith("x.")) { const [, xs, tab] = h.split("."); main.innerHTML = expansionView(xs, tab); }
   else if (id.includes("/")) {
     main.innerHTML = `<p class="loading">Opening ${esc(titleOf(id))}…</p>`;
@@ -669,8 +777,18 @@ async function render(){
     if (my !== seq) return;
     main.innerHTML = html;
     main.querySelectorAll("[data-coll]").forEach(syncColl);
-  } else main.innerHTML = home();
+  } else {
+    main.innerHTML = home();
+    loadEvents().then(list=>{ const el = document.getElementById("homeev"); if (el && my === seq)
+      el.innerHTML = `<h2>Holiday events</h2><div class="evnow">${evSoon(list, 3).map(evCard).join("")}</div><p><a href="#events">See the full holiday calendar</a></p>`; }).catch(()=>{});
+  }
   window.scrollTo(0,0);
+  const evf = document.getElementById("evf");
+  if (evf) evf.addEventListener("input", ()=>{
+    const v = evf.value.trim().toLowerCase(); let c = 0;
+    for (const tr of document.querySelectorAll("#evrows tr")){ const hit = !v || tr.dataset.f.includes(v); tr.hidden = !hit; c += hit; }
+    document.getElementById("evcount").textContent = v ? `${c.toLocaleString()} of ${document.querySelectorAll("#evrows tr").length.toLocaleString()}` : `${c.toLocaleString()}`;
+  });
   const qf = document.getElementById("qf");
   if (qf){
     let tmr; const upd = ()=>{ clearTimeout(tmr); tmr = setTimeout(()=>browseRows(qf.value.trim().toLowerCase()), 120); };

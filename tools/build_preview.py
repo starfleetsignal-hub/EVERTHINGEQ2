@@ -345,7 +345,8 @@ def build_page(pid, p):
         note = fm["removed_from_game"]
         top.append('<p class="callout red"><strong>Removed from the game.</strong> %s</p>' % ("" if note is True else inline(note)))
     if fm.get("events"):
-        top.append('<p class="tags">%s</p>' % " ".join('<span class="tag green">%s</span>' % html.escape(e) for e in fm["events"]))
+        top.append('<p class="tags">%s</p>' % " ".join(('<a class="tag green" href="#ev.%s">%s</a>' % (slug(e), html.escape(e)))
+                                                       if e in EV_NAMES else '<span class="tag green">%s</span>' % html.escape(e) for e in fm["events"]))
     if kind == "quest":
         chain = []
         if fm.get("prerequisite"): chain.append('<div><small>Comes after</small>%s</div>' % inline(fm["prerequisite"]))
@@ -491,6 +492,77 @@ def gear_index():
              ix(tiers, str(fm.get("tier") or "")), mask, fm.get("expansion") or "", ix(types, ty), nums,
              1 if fm.get("expansion_source") == "level" else 0])
     return shards, tiers, types, stat_count
+# Live (holiday) events in calendar order: name, main page, the real-world holiday it matches, usual dates
+# (month, day, month, day; from the wiki's Live Events page and each event's latest announcement; 0 = every month),
+# and the category names that mark its content. Pages also join an event through their `events:` front matter.
+EVENTS = [
+    ("Erollisi Day", "Erollisi Day", "Valentine's Day", (2, 10, 2, 17), ["Erollisi Day"]),
+    ("Brew Day", "Brew Day", "St. Patrick's Day", (3, 12, 3, 24), ["Brew Day"]),
+    ("Chronoportal Phenomenon", "Chronoportal Phenomenon", "EverQuest anniversary", (3, 20, 3, 30), ["Chronoportal Phenomenon"]),
+    ("Bristlebane Day", "Bristlebane Day", "April Fools' Day", (3, 27, 4, 10), ["Bristlebane Day"]),
+    ("Beast'r Eggstravaganza", "Beast'r Eggstravaganza", "Spring and Easter", (4, 10, 4, 24), ["Beast'r Eggstravaganza"]),
+    ("Oceansfull Festival", "Oceansfull Festival", "", (6, 1, 6, 15), ["Oceansfull Festival"]),
+    ("Tinkerfest", "Tinkerfest", "", (6, 11, 6, 25), ["Tinkerfest"]),
+    ("Scorched Sky Celebration", "Scorched Sky", "Summer fireworks", (6, 28, 7, 9), ["Scorched Sky"]),
+    ("Nights of the Dead", "Nights of the Dead", "Halloween", (10, 15, 11, 5), ["Nights of the Dead"]),
+    ("Heroes' Festival", "Heroes' Festival Timeline", "EverQuest II's birthday", (11, 7, 11, 17), ["Heroes' Festival", "Heroes Festival"]),
+    ("Frostfell", "Frostfell", "Winter holidays", (12, 2, 1, 5), ["Frostfell"]),
+    ("City Festival", "City Festival", "Monthly", (0, 1, 0, 7), ["City Festival"]),
+    ("Moonlight Enchantments", "Moonlight Enchantments", "Monthly", (0, 20, 0, 21), ["Moonlight Enchantments"]),
+    ("Year of Darkpaw", "Year of Darkpaw Timeline", "2024 only", None, ["Year of Darkpaw"]),
+]
+EV_NAMES = {e[0] for e in EVENTS}
+EV_GROUPS = [("quests", "Quests", ("quest", "timeline")), ("npcs", "Vendors and NPCs", ("npc",)),
+             ("items", "Rewards and items", ("item",)), ("achievements", "Achievements", ("achievement",)),
+             ("zones", "Zones and instances", ("zone", "instance", "poi")), ("monsters", "Monsters", ("named", "monster")),
+             ("more", "More pages", ("page", "spell", "lore", "guide", "house", "disambiguation"))]
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.lower().replace("'", "")).strip("-")
+
+def events():
+    """Per live event: its dates, a summary from its main page, and every page tagged with it, grouped for the event page."""
+    out = []
+    for name, main_title, real, when, cats in EVENTS:
+        mine = []
+        for pid, p in pages.items():
+            fm = p["fm"]
+            if name in (fm.get("events") or []) or any(c == k or c.startswith(k + " ") for c in fm.get("categories", []) for k in cats):
+                mine.append(pid)
+        main_pid = resolve(main_title)[0]
+        summary, credit = "", None
+        if main_pid:
+            mp = pages[main_pid]
+            m = re.search(r"^[^#|>\-!<\n*][^\n]{60,}", mp["body"], re.M)
+            summary = inline(m.group(0).strip()) if m else ""
+            credit = mp["fm"].get("source")
+        groups = {}
+        for pid in mine:
+            if pid == main_pid: continue
+            fm = pages[pid]["fm"]; kind = fm["type"]
+            g = next((k for k, _, kinds in EV_GROUPS if kind in kinds), "more")
+            if g == "quests":
+                row = [pid, fm["title"], str(fm.get("level", fm.get("levels", ""))), inline(fm["starts"]) if fm.get("starts") else "",
+                       "Timeline" if kind == "timeline" else ""]
+            elif g in ("npcs", "monsters"):
+                row = [pid, fm["title"], plain(fm.get("zone", "")), inline(str(fm["location"])) if fm.get("location") else "",
+                       str(fm.get("subtitle", fm.get("level", "")))]
+            elif g == "items":
+                row = [pid, fm["title"], " ".join(str(fm.get(k, "")) for k in ("item_kind", "item_subtype") if fm.get(k)).strip(),
+                       plain(fm.get("obtained_from", ""))[:120]]
+            elif g == "achievements":
+                row = [pid, fm["title"], plain(fm.get("description", ""))[:160], str(fm.get("points", ""))]
+            else:
+                row = [pid, fm["title"], TYPE_LABEL.get(kind, "Page"), plain(fm.get("zone", "")) if kind != "zone" else ""]
+            groups.setdefault(g, []).append(row)
+        def lvl(r):
+            m = re.search(r"\d+", r[2]); return (0, int(m.group())) if m else (1, 0)
+        for g, rows in groups.items():
+            rows.sort(key=lambda r: lvl(r) + (r[1].lower(),) if g == "quests" else (r[1].lower(),))
+        out.append({"n": name, "s": slug(name), "real": real, "when": list(when) if when else None, "main": main_pid,
+                    "sum": summary, "src": credit and {"url": credit["url"], "title": credit["title"], "history": credit["history"]},
+                    "g": groups})
+    return out
 
 # "artifact": base64 text chunks + source chunks (claude.ai preview); "github": .gz chunks (GitHub Pages, the default in CI)
 TARGET = os.environ.get("EQ2_TARGET", "github" if os.environ.get("GITHUB_ACTIONS") else "artifact")
@@ -547,7 +619,8 @@ def main():
     zones = {pid: v for pid, v in by_type.get("zones", {}).items()}
     msz = put(os.path.join(data_dir, "meta"), {"chunks": nch, "width": width, "ext": ext, "counts": counts, "lines": lines,
                                                "zones": zones, "collections": len(colls), "repo": REPO, "src": bool(any(chunks_s))})
-    total += isz + ssz + msz + csz
+    esz = put(os.path.join(data_dir, "events"), events())
+    total += isz + ssz + msz + csz + esz
     tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html")).read()
     tpl = tpl.replace("/*EXT*/", json.dumps(ext))
     open(os.path.join(site, "index.html"), "w").write(tpl)
