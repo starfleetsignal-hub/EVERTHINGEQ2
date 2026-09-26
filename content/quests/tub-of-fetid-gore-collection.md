@@ -4,6 +4,35 @@ type: quest
 level: '135'
 in_game_name: Tub of Fetid Gore
 added_in: Rage of Cthurath
+collection_type: Collection items
+pieces:
+- name: Whipgauth Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Lamia Glyphs]])
+- name: Umbrith Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Husks of the Unknown]])
+- name: Voityugh Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Ebonlithe Scrolls]])
+- name: Gloomstrider Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Tributes of the Unknown]])
+- name: Gorehusk Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Unknown Schemes]])
+- name: Fungloid Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Unknown Scribbles]])
+- name: Ravager Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Ebonlithe Gems]])
+- name: Shadowbane Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Torturous Instruction]])
+- name: Bloomstalker Gore
+  icon: images/Item_323.png
+  note: no-trade - (Reward from the collection [[Infernal Shards]])
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +53,9 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fetid Gore Ear Cuff]]
+- [[Obliviwrought Shadowlord]]
+- [[Fragment of Collected Void]]
+- [[Tub of Fetid Gore (Item)|Tub of Fetid Gore]] this item is needed for the collection: [[Entropy and Madness (Collection)|Entropy and Madness]]

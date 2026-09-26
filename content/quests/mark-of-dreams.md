@@ -2,6 +2,24 @@
 title: Mark of Dreams
 type: quest
 level: '120'
+pieces:
+- name: Boots of Silent Dreams
+  icon: images/Item_1524.png
+- name: Cloak of Darkened Dreams
+  icon: images/Item_235.png
+- name: Girdle of Horrid Dreams
+  icon: images/Item_2766.png
+- name: Gloves of Silent Dreams
+  icon: images/Item_267.png
+- name: Earring of Falling Dreams
+  icon: images/Item_377.png
+- name: Crown of Darkened Dreams
+  icon: images/Item_213.png
+- name: Mask of Hallowed Dreams
+  icon: images/Item_879.png
+  note: no-trade
+- name: Mace of Ruined Dreams
+  icon: images/Item_634.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Earring of Shadowed Dreams]]
+- Mark of Dreams this item is needed for the collection: [[Mark of Judgment]]

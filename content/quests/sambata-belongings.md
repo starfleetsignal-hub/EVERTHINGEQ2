@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast]]'
+pieces:
+- name: Sambata Horn
+  icon: images/Item_167.png
+- name: Sambata Spear
+  icon: images/Item_3567.png
+- name: Sambata Hammer
+  icon: images/Item_3588.png
+- name: Sambata Headdress
+  icon: images/Item_3627.png
+- name: Sambata Greatsword
+  icon: images/Item_3574.png
 categories:
 - Aurelian Coast Collection Quests
 - Blood of Luclin (CQ Category)
@@ -24,4 +36,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fungus Grove Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]

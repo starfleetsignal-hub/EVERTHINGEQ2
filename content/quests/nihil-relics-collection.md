@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Nihil Relics
 added_in: Visions of Vetrovia
+pieces:
+- name: Sandstone Pottery Fragments
+  icon: images/Item_569.png
+- name: Nihil Ritual Dagger
+  icon: images/Item_608.png
+- name: Timeworn Tablet
+  icon: images/Item_371.png
+- name: Ascetic's Symbol
+  icon: images/Item_368.png
+- name: Paint-Flecked Pot
+  icon: images/Item_650.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Saddle of Doublestrike]]
+- [[Nihil Relics (Item)|Nihil Relics]] this item is needed for the collection: [[More Sights and Sounds]]

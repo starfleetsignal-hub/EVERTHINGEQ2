@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Wildlife Signs
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus]]'
+pieces:
+- name: Armapine Scale
+  icon: images/Item_136.png
+- name: Cacti Spines
+  icon: images/Item_97.png
+- name: Cobra Moulting
+  icon: images/Item_98.png
+- name: Coyote Fur
+  icon: images/Item_138.png
+- name: Vulture Feathers
+  icon: images/Item_155.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Expedient Custodian Helm]]
+- [[Wildlife Signs (Collection Item)|Wildlife Signs]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

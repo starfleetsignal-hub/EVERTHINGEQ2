@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Solo)]]'
+pieces:
+- name: Glintswift Arrangement
+  icon: images/Item_75.png
+- name: Glintswift Bargain
+  icon: images/Item_75.png
+- name: Glintswift Obligation
+  icon: images/Item_75.png
+- name: Glintswift Pledge
+  icon: images/Item_75.png
+- name: Glintswift Pact
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Merchant's Breeching of Striking]]
+- [[Phony Truth Insignia]] this item is needed for the collection: [[Counterfeit Coins]]

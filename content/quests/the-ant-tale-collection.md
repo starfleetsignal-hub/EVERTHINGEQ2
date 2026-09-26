@@ -4,6 +4,27 @@ type: quest
 level: '70'
 in_game_name: The Ant Tale
 added_in: Rise of Kunark
+zone: '[[Fens of Nathsar]]'
+collection_type: Pages
+pieces:
+- name: The Ant Tale - Page 2
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 3
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 6
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 7
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 8
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 10
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 11
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 13
+  icon: images/Item_2180.png
+- name: The Ant Tale - Page 14
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +45,6 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Ant Tale (Item)|The Ant Tale]]

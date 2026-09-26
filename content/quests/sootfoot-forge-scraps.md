@@ -5,6 +5,21 @@ level: '80'
 added_in: LU51
 aliases:
 - 'Tradeskill: Forge Scraps'
+zone: '[[Lavastorm]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: discarded Sootfoot bellows
+  icon: images/Item_2282.png
+- name: discarded Sootfoot pipes
+  icon: images/Item_2159.png
+- name: discarded Sootfoot smithing hammer
+  icon: images/Item_2150.png
+- name: discarded Sootfoot anvil
+  icon: images/Item_2286.png
+- name: discarded Sootfoot plating
+  icon: images/Item_733.png
+- name: discarded Sootfoot smithing tongs
+  icon: images/Item_32.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +44,7 @@ expansion_source: patch
 ---
 
 Spawns most around [[Dagger Spires Pass]] and Najena's Valley.
+
+## Rewards
+
+- [[Sootfoot Forge]]

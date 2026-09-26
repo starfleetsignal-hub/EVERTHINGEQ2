@@ -2,6 +2,19 @@
 title: Culminations
 type: quest
 level: '130'
+pieces:
+- name: Culmination of Power
+  icon: images/Item_5942.png
+- name: Culmination of Potential
+  icon: images/Item_5942.png
+- name: Culmination of Influence
+  icon: images/Item_5942.png
+- name: Culmination of Excess
+  icon: images/Item_5942.png
+- name: Culmination of Amity
+  icon: images/Item_5942.png
+- name: Culmination of Thirst
+  icon: images/Item_5942.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Doleful Recollection]] this item is needed for the collection: [[Recollections Meta]]

@@ -5,6 +5,21 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Raj'Dur Residents
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus]]'
+collection_type: Purple
+pieces:
+- name: Brash Bandits
+  icon: images/Item_2687.png
+- name: Sly Thieves
+  icon: images/Item_2687.png
+- name: Menacing Marauders
+  icon: images/Item_2687.png
+- name: Ruthless Raiders
+  icon: images/Item_2687.png
+- name: Roving Brigands
+  icon: images/Item_2687.png
+- name: Brutish Thugs
+  icon: images/Item_2687.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +41,10 @@ expansion_source: patch
 ---
 
 Available after completing the [[Renewal of Ro Timeline#Renewal of Ro Signature Quest|Renewal of Ro Adventure Signature Line]]
+
+## Rewards
+
+- [[Raj'Dur Residents (Collection Item)|Raj'Dur Residents]] this item is needed for the collection: [[Flying Through Ro (Collection)|Flying Through Ro]]
+- one of the following:
+  - [[Extended Ensorcelled Badlands Magnification]]
+  - [[Extended Ensorcelled Badlands Magnification (2H)|Extended Ensorcelled Badlands Magnification [2H]]]

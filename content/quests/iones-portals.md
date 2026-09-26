@@ -3,6 +3,20 @@ title: Ione's Portals
 type: quest
 level: '125'
 added_in: Update 2022.08.09
+collection_type: Collection items
+pieces:
+- name: Portal of the Shocktrooper
+  icon: images/Item_4420.png
+  note: (Reward from the collection [[Betrayal and Despair]])
+- name: Portal of the Doombringer
+  icon: images/Item_4420.png
+  note: (Reward from the collection [[Haggle Baron's Bags]])
+- name: Portal of the Rejuvenator
+  icon: images/Item_4420.png
+  note: (Reward from the collection [[Haggle Baron's Coins]])
+- name: Portal of the Lifebringer
+  icon: images/Item_4420.png
+  note: (Reward from the collection [[Sir Rouland's Elemental Weapons]])
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Shroud of Shifting Portals]]

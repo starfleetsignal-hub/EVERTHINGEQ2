@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Phantom Sea]]'
+collection_type: Shiny
+pieces:
+- name: Greyeagle's Pouch
+  icon: images/Item_398.png
+- name: Blackguard's Ring
+  icon: images/Item_3309.png
+- name: Tarburner's Comb
+  icon: images/Item_1229.png
+- name: Rossook's Pipe
+  icon: images/Item_841.png
+- name: Whistlewood's Cameo
+  icon: images/Item_970.png
+- name: Greenbane's Bracelet
+  icon: images/Item_2986.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +41,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Purple Parasol Mushroom]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Castle Highhold]] this item is needed for the collection: [[Shields of Phantom Sea]]

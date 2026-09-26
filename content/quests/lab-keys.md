@@ -4,6 +4,19 @@ type: quest
 level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 added_in: Reign of Shadows
+pieces:
+- name: Broken Key Ring
+  icon: images/Item_4818.png
+- name: Brass Number Three Cell Key
+  icon: images/Item_2175.png
+- name: Titanium Skeleton Key
+  icon: images/Item_4848.png
+- name: Magical Bronze Key
+  icon: images/Item_4824.png
+- name: Apprentice's Locker Key
+  icon: images/Item_4854.png
+- name: Key That Works Nowhere
+  icon: images/Item_4830.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Thulian Fleshbinder Plushie (House Item)|Thulian Fleshbinder Plushie]]
+- [[Thulian Fleshbinder Plushie (Collection Item)|Thulian Fleshbinder Plushie]] this item is needed for the collection: [[Vasty Deep Lost and Found]]

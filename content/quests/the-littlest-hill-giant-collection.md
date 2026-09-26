@@ -4,6 +4,30 @@ type: quest
 level: '70'
 in_game_name: The Littlest Hill Giant
 added_in: Rise of Kunark
+zone: '[[Kylong Plains]]'
+pieces:
+- name: The Littlest Hill Giant - Page 2
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 3
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 6
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 8
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 9
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 11
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 12
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 14
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 17
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 18
+  icon: images/Item_2180.png
+- name: The Littlest Hill Giant - Page 20
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +48,6 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Littlest Hill Giant (Item)|The Littlest Hill Giant]]

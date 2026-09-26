@@ -4,6 +4,22 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Gerion: Realm of Conquest (Untold Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Stygian Helm
+  icon: images/Item_5608.png
+- name: Stygian Blade
+  icon: images/Item_5613.png
+  note: no-trade
+- name: Stygian Mace
+  icon: images/Item_5611.png
+- name: Stygian Dagger
+  icon: images/Item_5614.png
+- name: Stygian Gauntlets
+  icon: images/Item_5601.png
+- name: Stygian Buckler
+  icon: images/Item_5634.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +45,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Riftcloth Boots]]
+- [[Fragment of Collected Void]]
+- [[Strongbox of Untold Riches]] this item is needed for the collection: [[Untold Riches (Collection)|Untold Riches]]

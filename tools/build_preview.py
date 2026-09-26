@@ -162,7 +162,7 @@ def render(md, quest=False):
 
 # ---------------------------------------------------------------- page chrome
 FIELDS = {
-    "quest": [("level", "Level"), ("difficulty", "Difficulty"), ("zone", "Zone"), ("timeline", "Timeline"),
+    "quest": [("level", "Level"), ("difficulty", "Difficulty"), ("zone", "Zone"), ("collection_type", "Collection type"), ("timeline", "Timeline"),
               ("journal_category", "Journal"), ("city_faction", "City faction"), ("repeatable", "Repeatable"),
               ("achievement_xp", "Achievement XP"), ("expansion", "Release"), ("added_in", "Added in"), ("in_game_name", "In-game name")],
     "npc": [("subtitle", "Title"), ("race", "Race"), ("class", "Class"), ("purpose", "Role"), ("zone", "Zone"),
@@ -306,6 +306,28 @@ def zone_section(pid):
             "".join('<li><a href="#%s" data-peek="%s">%s</a></li>' % (hid(k), k, html.escape(pages[k]["fm"]["title"])) for k in ps)))
     return "".join(out)
 
+def piece_rows(pieces):
+    """Collection pieces as [name, icon, page id, note]; the name is the key progress is saved under."""
+    out = []
+    for pc in pieces:
+        if not isinstance(pc, dict) or not pc.get("name"): continue
+        ppid = resolve(pc.get("page") or pc["name"])[0]
+        icon = pc.get("icon", "")
+        out.append([str(pc["name"]), icon if icon and img(icon, "") else "", ppid or "", pc.get("note", "")])
+    return out
+
+def collection_section(pid, pieces):
+    """Checklist of a collection's pieces; the template restores and saves the ticks (localStorage)."""
+    rows = piece_rows(pieces)
+    if not rows: return ""
+    items = "".join('<li><label><input type="checkbox" data-piece="%s">%s<span>%s</span></label>%s</li>' % (
+        html.escape(n), '<img src="%s" alt="" loading="lazy">' % html.escape(ic) if ic else "",
+        '<a href="#%s" data-peek="%s">%s</a>' % (hid(pp), pp, html.escape(n)) if pp else html.escape(n),
+        ' <small>%s</small>' % inline(note) if note else "") for n, ic, pp, note in rows)
+    return ('<section class="coll" data-coll="%s"><h2>Pieces <span class="count" data-coll-count>0 / %d</span></h2>'
+            '<p class="derived">Tick the pieces you have found. Your progress is saved in this browser and shows in the '
+            '<a href="#collections">collections tracker</a>.</p><ul class="pieces">%s</ul></section>') % (html.escape(pid), len(rows), items)
+
 def build_page(pid, p):
     fm, kind = p["fm"], p["fm"]["type"]
     rows = []
@@ -332,6 +354,7 @@ def build_page(pid, p):
         if len(chain) > 1: top.append('<div class="chain">%s</div>' % "".join(chain))
         if fm.get("starts"): top.append('<p class="starts"><span class="tag red">Start</span> %s</p>' % inline(fm["starts"]))
     body = render(p["body"], quest=(kind == "quest"))
+    if kind == "quest" and fm.get("pieces"): top.append(collection_section(pid, fm["pieces"]))
     s = fm.get("source")     # forum guides carry their own credit line in the body
     credit = "" if not s else ('<p class="credit">Adapted from <a href="%s" rel="nofollow noopener" target="_blank">%s</a> on the EverQuest II Wiki (Fandom), '
               'revision %s of %s, by <a href="%s" rel="nofollow noopener" target="_blank">its contributors</a>. '
@@ -513,12 +536,18 @@ def main():
         isz += put(os.path.join(data_dir, "g", str(n)), rows); gear.append([GEAR_KINDS[kind], slot, len(rows)])
     isz += put(os.path.join(data_dir, "g", "index"), {"shards": gear, "classes": CLASSES, "tiers": tiers, "types": types,
                                                      "stats": sorted(stat_count, key=lambda k: -stat_count[k])})
+    colls = [[pid, p["fm"]["title"], str(p["fm"].get("level", "")), plain(p["fm"].get("zone", "")), p["fm"].get("expansion", ""),
+              str(p["fm"].get("collection_type", "")), [r[:3] for r in piece_rows(p["fm"]["pieces"])]]
+             for pid, p in sorted(pages.items(), key=lambda kv: kv[1]["fm"]["title"].lower())
+             if p["fm"]["type"] == "quest" and isinstance(p["fm"].get("pieces"), list)]
+    colls = [c for c in colls if c[6]]
+    csz = put(os.path.join(data_dir, "collections"), colls)
     lines = {x: {k: [[n, [[q, pages[q]["fm"]["title"], str(pages[q]["fm"].get("level", ""))] for q in l]] for n, l in groups]
                  for k, groups in L.items()} for x, L in questlines().items()}
     zones = {pid: v for pid, v in by_type.get("zones", {}).items()}
     msz = put(os.path.join(data_dir, "meta"), {"chunks": nch, "width": width, "ext": ext, "counts": counts, "lines": lines,
-                                               "zones": zones, "repo": REPO, "src": bool(any(chunks_s))})
-    total += isz + ssz + msz
+                                               "zones": zones, "collections": len(colls), "repo": REPO, "src": bool(any(chunks_s))})
+    total += isz + ssz + msz + csz
     tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html")).read()
     tpl = tpl.replace("/*EXT*/", json.dumps(ext))
     open(os.path.join(site, "index.html"), "w").write(tpl)

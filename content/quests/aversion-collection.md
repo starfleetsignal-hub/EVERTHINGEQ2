@@ -4,6 +4,24 @@ type: quest
 level: '70'
 in_game_name: Aversion
 added_in: Kingdom of Sky
+zone: '[[The Barren Sky]]'
+collection_type: Clickable
+pieces:
+- name: Aversion - Page 5
+  icon: images/Item_2181.png
+  note: Clickable rock on the [[Isle of Awakening]] at {{waypoint 219, 222, 356}}
+- name: Aversion - Page 6
+  icon: images/Item_2181.png
+  note: Ground spawn on the [[Isle of Desolation]] at {{waypoint 562, 264, -397}}
+- name: Aversion - Page 7
+  icon: images/Item_2181.png
+  note: Clickable nest on [[Whisperwind Isle]] at {{waypoint -666, 8, -508}}
+- name: Aversion - Page 8
+  icon: images/Item_2181.png
+  note: Ground spawn on the [[Isle of Desolation]]
+- name: Aversion - Page 9
+  icon: images/Item_2181.png
+  note: Ground spawn page on [[Strifewind Isle]] and [[Isle of the Guardians]])
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Aversion (House Item)|Aversion]]

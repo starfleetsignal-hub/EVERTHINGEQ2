@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Hd
+pieces:
+- name: Knight's Honor
+  icon: images/Item_3602.png
+- name: Mask of the Destructor
+  icon: images/Item_3372.png
+- name: Doomwing Hex
+  icon: images/Item_2509.png
+- name: Core of the Legion
+  icon: images/Item_2592.png
+- name: Heart of the Doomwing
+  icon: images/Item_2790.png
+- name: Writ of Guardianship
+  icon: images/Item_3807.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,8 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Telkorenar]]
+- [[Small Stack of Draconic Etyma]]
+- [[Eternal Hunger]] this item is needed for the collection: [[Consumer's Hoard]]

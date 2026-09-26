@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Calamity's End
 added_in: Reign of Shadows
+pieces:
+- name: Heavy Woven Cloth
+  icon: images/Item_1094.png
+- name: Polished Gold Clips
+  icon: images/Item_1044.png
+- name: Whisperling Song
+  icon: images/Item_75.png
+- name: Root of Daring
+  icon: images/Item_175.png
+- name: Marrow of Divination
+  icon: images/Item_771.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Calamity's End (Chest)|Calamity's End]]
+- [[Calamity's End (Collection Item)|Calamity's End]] this item is needed for the collection: [[Dangers of the Darkside]]

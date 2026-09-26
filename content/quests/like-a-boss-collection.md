@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Like a Boss
 added_in: Renewal of Ro
+zone: '[[Takish Badlands: Kigathor''s Glade (Heroic I)]], [[Takish Badlands: Overgrowth (Heroic I)]]'
+pieces:
+- name: Cleavespine's Spine
+  icon: images/Item_4375.png
+- name: Gobbler's Tail
+  icon: images/Item_99.png
+- name: Leafjaw's Jaw
+  icon: images/Item_101.png
+- name: Florafang's Fangs
+  icon: images/Item_102.png
+- name: Tawerk's Toes
+  icon: images/Item_106.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,9 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Like a Boss (Collection Item)|Like a Boss]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]
+- one of the following:
+  - [[Antiquated Earring of the Wind]]
+  - [[Antiquated Earring of the Fury]]

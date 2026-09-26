@@ -5,6 +5,17 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Tinkered: Rusted Tinkered Items'
+zone: '[[The Shimmering Citadel]], [[The Sinking Sands]], [[The Pillars of Flame]]'
+collection_type: Shiny
+pieces:
+- name: rusting bolt
+  icon: images/Item_1031.png
+- name: rusting cog
+  icon: images/Item_1042.png
+- name: rusting gear
+  icon: images/Item_1041.png
+- name: rusting spinner
+  icon: images/Item_1021.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Feather Lined Mantle]]
+  - [[Mithril Streaked Stone Gussets]]

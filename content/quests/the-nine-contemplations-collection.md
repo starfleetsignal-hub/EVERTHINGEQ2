@@ -6,6 +6,24 @@ in_game_name: The Nine Contemplations
 added_in: Shattered Lands
 aliases:
 - 'Tome: The Nine Contemplations'
+zone: '[[Zek, the Orcish Wastes]]'
+collection_type: Pages
+pieces:
+- name: The Nine Contemplations - Page 5
+  icon: images/Item_2180.png
+  note: Clickable stool at {{waypoint 522, -39, 250}}
+- name: The Nine Contemplations - Page 6
+  icon: images/Item_2180.png
+- name: The Nine Contemplations - Page 8
+  icon: images/Item_2180.png
+  note: Clickable skeleton at {{waypoint 671, -25, 85}}
+- name: The Nine Contemplations - Page 10
+  icon: images/Item_2180.png
+- name: The Nine Contemplations - Page 11
+  icon: images/Item_2180.png
+  note: Harvestable pages only
+- name: The Nine Contemplations - Page 12
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Nine Contemplations (CollectionReward)|The Nine Contemplations]]

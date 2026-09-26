@@ -5,6 +5,30 @@ level: '85'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Chokidai Collars'
+zone: '[[Chardok]]'
+collection_type: Hidden
+pieces:
+- name: slimy chokidai collar
+  page: Slimy chokidai collar (Chokidai Collars)
+  icon: images/Item_2194.png
+- name: chewed chokidai collar
+  page: Chewed chokidai collar (Chokidai Collars)
+  icon: images/Item_2193.png
+- name: gilded chokidai collar
+  page: Gilded chokidai collar (Chokidai Collars)
+  icon: images/Item_2189.png
+- name: rope chokidai collar
+  page: Rope chokidai collar (Chokidai Collars)
+  icon: images/Item_2329.png
+- name: steel linked chokidai collar
+  page: Steel linked chokidai collar (Chokidai Collars)
+  icon: images/Item_983.png
+- name: woven chokidai collar
+  page: Woven chokidai collar (Chokidai Collars)
+  icon: images/Item_2135.png
+- name: mesh chokidai collar
+  page: Mesh chokidai collar (Chokidai Collars)
+  icon: images/Item_985.png
 categories:
 - Census Credits
 - Chardok Collection Quests
@@ -28,4 +52,9 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Engraved Scroll Stand]]
+- one of the following:
+  - [[Baldric of the Di'Zok Warlord]]
+  - [[Girdle of the Di'Zok Spirit (with Pond Wash)|Girdle of the Di'Zok Spirit]]

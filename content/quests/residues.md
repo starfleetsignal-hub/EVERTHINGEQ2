@@ -2,6 +2,19 @@
 title: Residues
 type: quest
 level: '130'
+pieces:
+- name: Residue of Scale
+  icon: images/Item_5735.png
+- name: Residue of Claw
+  icon: images/Item_5735.png
+- name: Residue of Bone
+  icon: images/Item_5735.png
+- name: Residue of Flesh
+  icon: images/Item_5735.png
+- name: Residue of Sinew
+  icon: images/Item_5735.png
+- name: Residue of Marrow
+  icon: images/Item_5735.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Emanation of Tawny Gas]] this item is needed for the collection: [[Emanations]]

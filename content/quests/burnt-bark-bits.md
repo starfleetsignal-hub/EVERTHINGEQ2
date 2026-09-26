@@ -3,6 +3,19 @@ title: Burnt Bark Bits
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Burnt Pine Bits
+  icon: images/Item_196.png
+- name: Burnt Burch Bits
+  icon: images/Item_196.png
+- name: Burnt Maple Bits
+  icon: images/Item_196.png
+- name: Burnt Oak Bits
+  icon: images/Item_196.png
+- name: Burnt Cork Bits
+  icon: images/Item_196.png
+- name: Burnt Ash Bits
+  icon: images/Item_196.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Hooluk Basin]]
+- [[Fragment of Collected Ballads (Treasured) (Version 1)|Fragment of Collected Ballads]]
+- [[Sang'Huuu Triangle]] this item is needed for the collection: [[Overrealm Percussion]]

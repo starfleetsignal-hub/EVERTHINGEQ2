@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Horned Beetle Mask
 added_in: Reign of Shadows
+zone: '[[Shadeweaver''s Thicket]]'
+pieces:
+- name: Cht'thk Carapace
+  icon: images/Item_162.png
+- name: Shadeweaver Flesh Cord
+  icon: images/Item_763.png
+- name: Liquefied Carrion Crud
+  icon: images/Item_170.png
+- name: Tanned Rhino Hide
+  icon: images/Item_141.png
+- name: Properties of Granularity
+  icon: images/Item_187.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Horned Beetle Mask (Charm)|Horned Beetle Mask]]
+- [[Horned Beetle Mask (Collection Item)|Horned Beetle Mask]] this item is needed for the collection: [[Relics of the Darkside]]

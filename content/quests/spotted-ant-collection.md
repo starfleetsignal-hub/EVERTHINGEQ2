@@ -6,6 +6,18 @@ in_game_name: spotted ant collection
 added_in: Shattered Lands
 aliases:
 - 'Ant: spotted ant collection'
+zone: '[[The Commonlands]], [[The Thundering Steppes]]'
+pieces:
+- name: spotted blue ant
+  icon: images/Item_1888.png
+- name: spotted green ant
+  icon: images/Item_1887.png
+- name: spotted grey ant
+  icon: images/Item_1886.png
+- name: spotted yellow ant
+  icon: images/Item_1889.png
+- name: spotted red ant
+  icon: images/Item_1890.png
 categories:
 - Ant (CQ Category)
 - Census Credits
@@ -27,4 +39,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- Coin: 55s

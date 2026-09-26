@@ -3,6 +3,22 @@ title: Kromzek Warrior Badges
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Kael Drakkel]]'
+pieces:
+- name: Kromzek Badge of Battle
+  icon: images/Item_1263.png
+- name: Kromzek Badge of Strength
+  icon: images/Item_1264.png
+- name: Kromzek Badge of Victory
+  icon: images/Item_1265.png
+- name: Kromzek Badge of War
+  icon: images/Item_1266.png
+- name: Kromzek Badge of Tactics
+  icon: images/Item_1267.png
+- name: Kromzek Badge of Strategy
+  icon: images/Item_1268.png
+- name: Kromzek Badge of Defense
+  icon: images/Item_1269.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +40,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Provocation of Zek]]
+- [[Tales of Kael Drakkel Page 4 (Tales of Kael Drakkel)|Tales of Kael Drakkel Page 4]] this item is needed for the collection: [[Tales of Kael Drakkel (Collection)|Tales of Kael Drakkel]]

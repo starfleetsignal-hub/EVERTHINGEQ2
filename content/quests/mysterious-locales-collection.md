@@ -5,6 +5,19 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Mysterious Locales
 added_in: Renewal of Ro
+zone: '[[Sandstone Delta]]'
+collection_type: Purple
+pieces:
+- name: Ancient Signal Fires
+  icon: images/Item_2353.png
+- name: Many Abandoned Ruins
+  icon: images/Item_2365.png
+- name: Massive Whirlpool
+  icon: images/Item_4843.png
+- name: Chunks of Luclinite
+  icon: images/Item_3024.png
+- name: Yet More Signal Fires
+  icon: images/Item_2353.png
 categories:
 - Census Credits
 - Collection Quests
@@ -40,3 +53,10 @@ Possible locations:
 - {{waypoint -373.19, 92.50, 1.81}}
 
 Available after completing the [[Renewal of Ro Timeline#Renewal of Ro Signature Quest|Renewal of Ro Adventure Signature Line]]
+
+## Rewards
+
+- [[Mysterious Locales (Collection Item)|Mysterious Locales]] this item is needed for the collection: [[Flying Through Ro (Collection)|Flying Through Ro]]
+- one of the following:
+  - [[Extended Ensorcelled Badlands Injector]]
+  - [[Extended Ensorcelled Badlands Magnification (2H)|Extended Ensorcelled Badlands Magnification [2H]]]

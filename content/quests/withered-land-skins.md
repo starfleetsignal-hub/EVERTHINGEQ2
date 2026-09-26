@@ -3,6 +3,24 @@ title: Withered Land Skins
 type: quest
 level: '90'
 added_in: LU63
+zone: '[[The Withered Lands]]'
+pieces:
+- name: Spore-Covered Wolf Fur Tuft
+  icon: images/Item_96.png
+- name: Mist Panther Fur Tuft
+  icon: images/Item_94.png
+- name: Alpha Tigeraptor Crest
+  icon: images/Item_86.png
+- name: Faun Fur Tuft
+  icon: images/Item_416.png
+- name: Corrupted Unicorn Mane Tuft
+  icon: images/Item_126.png
+- name: Corrupted Treant Bark
+  icon: images/Item_414.png
+- name: Insect Chitin
+  icon: images/Item_81.png
+- name: Giant Hair Tuft
+  icon: images/Item_748.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,7 @@ expansion: Age of Discovery
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Storm Dragon Skin Cloak]]
+- [[Withered Skin Rune]] this item is needed for the collection: [[Fragments of Growth]]

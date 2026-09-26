@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Nihilite Samples
 added_in: Visions of Vetrovia
+pieces:
+- name: Amber Nihilite
+  icon: images/Item_4792.png
+- name: Crimson Nihilite
+  icon: images/Item_4791.png
+- name: Indigo Nihilite
+  icon: images/Item_4790.png
+- name: Pale Nihilite
+  icon: images/Item_4788.png
+- name: Shimmering Nihilite
+  icon: images/Item_4789.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Accumulated Mystical Coat]]
+- [[Nihilite Samples (Item)|Nihilite Samples]] this item is needed for the collection: [[More Sights and Sounds]]

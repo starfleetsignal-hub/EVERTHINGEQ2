@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Malduran Forge Ruins
 added_in: Terrors of Thalumbra
+zone: '[[Maldura: District of Ash (Heroic)]], [[Maldura: Palace Foray (Event Heroic)]]'
+pieces:
+- name: Bent Smithing Tongs
+  icon: images/Item_33.png
+- name: Neglected Toilings
+  icon: images/Item_3426.png
+- name: Abandoned Anvil
+  icon: images/Item_2286.png
+- name: Damaged Smith's Apron
+  icon: images/Item_1093.png
+- name: Broken Mining Cart
+  icon: images/Item_2357.png
+- name: Discarded Forge Bellows
+  icon: images/Item_2282.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +41,8 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Intrusive Etched Chain]]
+- [[Malduran Forge Ruins (Achievement)]]
+  - [[Forged Token]] for the [[Tokens of the Dhalgar]] collection

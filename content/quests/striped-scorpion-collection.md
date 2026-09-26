@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Striped Scorpion Collection'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: striped black scorpion
+  icon: images/Item_2633.png
+- name: striped blue scorpion
+  icon: images/Item_2654.png
+- name: striped brown scorpion
+  icon: images/Item_2638.png
+- name: striped green scorpion
+  icon: images/Item_2650.png
+- name: striped red scorpion
+  icon: images/Item_2646.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Poison Guard Vambraces]]
+  - [[Venomspinner]]

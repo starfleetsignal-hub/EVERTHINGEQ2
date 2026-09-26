@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Tin Star Earring
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Plane of Innovation: Gears in the Machine (Solo)]], [[Plane of Innovation: Masks of the Marvelous (Solo)]], [[Plane of Innovation: Parts not Included (Duo)]]'
+collection_type: Shiny
+pieces:
+- name: Invention Relics
+  icon: images/Item_3107.png
+- name: Compound Steelshaft Bow
+  icon: images/Item_628.png
+- name: Pulsing Phase Emitter
+  icon: images/Item_3208.png
+- name: Cog Encrusted Epaulets
+  icon: images/Item_4118.png
+- name: Half-Spiked Sprocket
+  icon: images/Item_3103.png
+- name: Metal-Flecked Wirespun Sleeves
+  icon: images/Item_4106.png
+- name: Bellows Crafted Cap
+  icon: images/Item_4116.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -29,4 +46,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Tin Star Earring (Item)|Tin Star Earring]] this item is needed for the collection: [[Planar Astrolabe (Collection)|Planar Astrolabe]]
+- [[Tin Star Earring (Ear)|Tin Star Earring]]

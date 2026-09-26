@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Enchanted Music Box
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Prophetic Symphony
+  icon: images/Item_2182.png
+- name: Divine Violin String
+  icon: images/Item_1031.png
+  note: no-trade - (Reward from the quest [[A Subtle Ploy]])
+- name: Augured Flute Plate
+  icon: images/Item_947.png
+- name: Bewitched Castanets
+  icon: images/Item_1074.png
+- name: Allured Harp Crown
+  icon: images/Item_957.png
+- name: Arcane Drum Skin
+  icon: images/Item_141.png
+- name: Mystic Tenor Drone
+  icon: images/Item_710.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Enchanted Music Box (Collection Item)|Enchanted Music Box]] this item is needed for the collection: [[Elements of Augury]]
+- [[Enchanted Musical Ring]]

@@ -3,6 +3,21 @@ title: Gardener's Supplies
 type: quest
 level: '100'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Battered Sun Dial
+  icon: images/Item_3095.png
+- name: Gardener's Supply Pack
+  icon: images/Item_399.png
+- name: Empty Canteen
+  icon: images/Item_406.png
+- name: Gardener's Samples
+  icon: images/Item_295.png
+- name: Lucky Garden Decoration
+  icon: images/Item_2499.png
+- name: Discarded Seedling List
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +43,8 @@ expansion_source: patch
 ---
 
 All parts of this collection can be found in Twark (near [[Growf]]) or in the [[Gardens of Nye'Caelona]].
+
+## Rewards
+
+- [[Watering Can]]
+- [[Gardener's Watering Can]] this item is needed for the collection: [[Gardener's Tools]]

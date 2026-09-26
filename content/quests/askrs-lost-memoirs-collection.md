@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Askr's Lost Memoirs
 added_in: Planes of Prophecy
+zone: '[[Torden, Bastion of Thunder: Storm Chase (Event Heroic)]], [[Torden, Bastion of Thunder: Storm Chase (Expert Event)]], [[Torden, Bastion of Thunder: Tower Beach (Expert)]], [[Torden, Bastion of Thunder: Tower Breach (Heroic)]], [[Torden, Bastion of Thunder: Winds of Change (Expert)]], [[Torden, Bastion of Thunder: Winds of Change (Heroic)]]'
+pieces:
+- name: Askr's Lost Vessels
+  icon: images/Item_406.png
+- name: Askr's Ale Tankard
+  icon: images/Item_308.png
+- name: Askr's Wine Chalice
+  icon: images/Item_309.png
+- name: Askr's Mead Mug
+  icon: images/Item_314.png
+- name: Askr's Rum Bottle
+  icon: images/Item_405.png
+- name: Askr's Spirit Flask
+  icon: images/Item_1082.png
+- name: Askr's Whiskey Jar
+  icon: images/Item_312.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Askr's Lost Memoirs (Item)|Askr's Lost Memoirs]] this item is needed for the collection: [[Astral Storm Flux (Collection)|Astral Storm Flux]]
+- [[Askr's Bracing Stud]]

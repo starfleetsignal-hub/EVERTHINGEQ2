@@ -8,6 +8,18 @@ added_in: Chaos Descending
 aliases:
 - Algea Covered Staff
 - Algea Covered Staff (Collection)
+zone: '[[Awuidor: Marr''s Ascent (Heroic)]], [[Awuidor: Marr''s Ascent (Expert)]], [[Awuidor: The Nebulous Deep (Heroic)]], [[Awuidor: The Nebulous Deep (Expert)]], [[Awuidor: The Veiled Precipice (Event Heroic)]], [[Awuidor: The Veiled Precipice (Expert Event)]]'
+pieces:
+- name: Coral Crusher
+  icon: images/Item_621.png
+- name: Mark of Ofossaa
+  icon: images/Item_3816.png
+- name: Charm of Blue
+  icon: images/Item_2518.png
+- name: Elements of Foam
+  icon: images/Item_3774.png
+- name: Insignia of Crushing Waves
+  icon: images/Item_601.png
 categories:
 - 'Awuidor: Marr''s Ascent (Expert) Collection Quests'
 - 'Awuidor: Marr''s Ascent (Heroic) Collection Quests'
@@ -33,4 +45,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Algae Covered Staff (Earthen Bile)|Algae Covered Staff]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]
+- [[Algae Covered Staff (Weapon)|Algae Covered Staff]]

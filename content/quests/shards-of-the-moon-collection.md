@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Shards of the Moon
 added_in: Renewal of Ro
+zone: '[[Sandstone Delta]]'
+pieces:
+- name: Ginormous Chunk of Luclinite
+  icon: images/Item_1133.png
+- name: Growth-Infused Luclinite
+  icon: images/Item_1133.png
+- name: Itty-Bitty Luclinite Pebble
+  icon: images/Item_1133.png
+- name: Luclinite Dust
+  icon: images/Item_1133.png
+- name: Pet Rock of Luclinite
+  icon: images/Item_1133.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Expedient Seeker Plated Boots]]
+- [[Shards of the Moon (Collection Item)|Shards of the Moon]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

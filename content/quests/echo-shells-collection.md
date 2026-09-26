@@ -5,6 +5,21 @@ level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 in_game_name: Echo Shells
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+pieces:
+- name: Echo Shells
+  page: Echo Shells (Item)
+  icon: images/Item_85.png
+- name: Conch
+  icon: images/Item_2007.png
+- name: Spotted Conch
+  icon: images/Item_2014.png
+- name: Spotted Star
+  icon: images/Item_2077.png
+- name: Sand Dollar Star
+  icon: images/Item_2070.png
+- name: Crushed Star
+  icon: images/Item_2704.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Dried Sand Dollar]] this item is needed for the collection: [[To Fool the Senses]]
+- one of the following:
+  - [[Vesspyr Scholar's Elaborate Green Robe]]
+  - [[Shadowblight Cleave]]
+  - [[Tainted Knight's Shield]]

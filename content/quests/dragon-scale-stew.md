@@ -4,6 +4,16 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Sugar
+  page: Sugar (Collection Item)
+  icon: images/Item_290.png
+- name: Steak
+  icon: images/Item_288.png
+- name: Aged Ale
+  icon: images/Item_309.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +36,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Blue Dragon Scale]] this item is needed for the collection: [[Tunaria's Adventure]]
+- One of the following:
+  - [[Wand of the Regent]]
+  - [[Crescent Etherblade]]

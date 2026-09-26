@@ -3,6 +3,21 @@ title: Denizens of the Grotto
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Siren''s Grotto: Tavalan Abyss (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Seal of the War Council
+  icon: images/Item_1310.png
+- name: Kira's Lock of Hair
+  icon: images/Item_86.png
+- name: Robe of the Mindscorcher
+  icon: images/Item_3689.png
+- name: Corrupted Siren Scale
+  icon: images/Item_2020.png
+- name: Pearl of Regalia
+  icon: images/Item_770.png
+- name: Talan's Blade
+  icon: images/Item_2155.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +41,12 @@ expansion_source: patch
 ---
 
 - The Collected Leadership Tokens item is part of the [[Collected Tavalan Novelties]] collection quest.
+
+## Rewards
+
+- [[Collected Leadership Tokens]] this item is needed for the collection: [[Collected Tavalan Novelties]]
+- one of the following:
+  - [[Manacle of the Grotto]]
+  - [[Bangle of the Grotto]]
+  - [[Bracelet of the Grotto]]
+  - [[Armlet of the Grotto]]

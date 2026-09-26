@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Polished Stone Fishing Dagger
 added_in: Reign of Shadows
+pieces:
+- name: Buffed Acrylia Sphere
+  icon: images/Item_1176.png
+- name: Weald Cork
+  icon: images/Item_853.png
+- name: Darkened Leather
+  icon: images/Item_136.png
+- name: Core of the Hunt
+  icon: images/Item_188.png
+- name: Enchanted Marrowwood Fiber
+  icon: images/Item_175.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Polished Stone Fishing Dagger (Collection Item)|Polished Stone Fishing Dagger]] this item is needed for the collection: [[Relics of the Darkside]]
+- [[Polished Stone Fishing Dagger (Weapon)|Polished Stone Fishing Dagger]]

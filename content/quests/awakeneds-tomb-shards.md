@@ -3,6 +3,19 @@ title: Awakened's Tomb Shards
 type: quest
 level: '92'
 added_in: Chains of Eternity
+zone: '[[Sleeper''s Tomb (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Blade of Scale Shard
+  icon: images/Item_2778.png
+- name: Lens of Scale Shard
+  icon: images/Item_2777.png
+- name: Mace of Scale Shard
+  icon: images/Item_2775.png
+- name: Pearl of Scale Shard
+  icon: images/Item_2773.png
+- name: Ring of Scale Shard
+  icon: images/Item_2774.png
 categories:
 - Census Credits
 - Chains of Eternity Collection Quests
@@ -24,4 +37,7 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Prismatic Guard's Flame]]
+- [[Primal Storm Dragon Amulet]] this item is needed for the collection: [[Awakened's Tomb Legacy]]

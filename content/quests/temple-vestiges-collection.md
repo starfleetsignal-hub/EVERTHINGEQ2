@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Temple Vestiges
 added_in: Terrors of Thalumbra
+zone: '[[Kralet Penumbra: Rise to Power (Heroic)]], [[Kralet Penumbra: Temple of the Ill-Seen (Heroic)]], [[Kralet Penumbra: Tepid Depths (Heroic)]], [[Kralet Penumbra: The Master''s Chosen (Heroic)]], [[Kralet Penumbra: Submerged Lair (Event Heroic)]], [[Kralet Penumbra: Uzulu Deep (Event Heroic)]]'
+pieces:
+- name: Discarded Octoyogg Moulting
+  icon: images/Item_168.png
+- name: Cast Off Deep Lurker Claw
+  icon: images/Item_167.png
+- name: Shed Fathomlurker Scale
+  icon: images/Item_2813.png
+- name: Chipped Warbringer Mandible
+  icon: images/Item_100.png
+- name: Broken Umbrine Terror Spine
+  icon: images/Item_112.png
+- name: Severed Fathomlurker Tendril
+  icon: images/Item_2791.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +45,8 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Idol of Maturity]] needed for collection [[Aberrant Idols]]
+- [[Temple Vestiges (Achievement)]]
+- [[Intrusive Etched Ivory Trinket]]

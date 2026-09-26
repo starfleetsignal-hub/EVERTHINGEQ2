@@ -5,6 +5,20 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: In the Royal Chambers
 added_in: Visions of Vetrovia
+zone: '[[Forlorn Gist: Nightmares of Old (Solo)]]'
+pieces:
+- name: Royal Thexian Crest
+  icon: images/Item_1301.png
+- name: Embroidered Mirror Cover
+  icon: images/Item_780.png
+- name: An Intricate Clock
+  icon: images/Item_2252.png
+- name: Deino Feather Quill
+  icon: images/Item_27.png
+- name: Thex Family Tree
+  icon: images/Item_3165.png
+- name: Bottle of Sanguine Ink
+  icon: images/Item_3056.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Resurgence (Adornment)|Resurgence]]
+- [[In the Royal Chambers (Item)|In the Royal Chambers]] this item is needed for the collection: [[Vetrovian Perceptions]]

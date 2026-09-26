@@ -4,6 +4,25 @@ type: quest
 level: '38'
 in_game_name: The Wall
 added_in: Shattered Lands
+zone: '[[Enchanted Lands]]'
+collection_type: Pages
+pieces:
+- name: The Wall  - Page 4
+  icon: images/Item_2180.png
+  note: Clickable overturned cart at {{waypoint -769, -5, -958}}
+- name: The Wall - Page 5
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
+- name: The Wall - Page 6
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
+- name: The Wall  - Page 10
+  icon: images/Item_2180.png
+  note: Clickable lantern on a tree at {{waypoint -951, 0, -661}}
+- name: The Wall - Page 11
+  icon: images/Item_2180.png
+- name: The Wall - Page 12
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Wall (CollectionReward)|The Wall]]

@@ -3,6 +3,18 @@ title: Shadowy Gems
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Tower of Frozen Shadow: Shadowed Corridors]]'
+pieces:
+- name: Intact Shadow Gem
+  icon: images/Item_2935.png
+- name: Shattered Shadow Gem
+  icon: images/Item_2918.png
+- name: Chipped Shadow Gem
+  icon: images/Item_2936.png
+- name: Frosted Shadow Gem
+  icon: images/Item_1176.png
+- name: Cloudy Shadow Gem
+  icon: images/Item_2943.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,8 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Gaze of the Shadowbeast]]
+- [[Music of the Cursed]]
+- [[Tales of the Tower Page 1]] this item is needed for the collection: [[Tales of the Tower (Collection)|Tales of the Tower]]

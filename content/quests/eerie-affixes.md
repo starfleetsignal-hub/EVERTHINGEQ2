@@ -3,6 +3,20 @@ title: Eerie Affixes
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Soul Lock Affix
+  icon: images/Item_3777.png
+- name: Bubbling Guilt Affix
+  icon: images/Item_3777.png
+- name: Haunting Charge Affix
+  icon: images/Item_3777.png
+- name: Rein of Terror Affix
+  icon: images/Item_3777.png
+- name: Wilting Wounds Affix
+  icon: images/Item_3777.png
+  note: no-trade
+- name: Grave Shackles Affix
+  icon: images/Item_3777.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Void-touched Boots]]
+- [[Fragment of Collected Void]]
+- [[Hand Crusher]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

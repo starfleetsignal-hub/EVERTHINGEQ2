@@ -3,6 +3,21 @@ title: Kelethin Postage Collection
 type: quest
 level: '50'
 added_in: LU54
+zone: '[[Greater Faydark]]'
+collection_type: Purple
+pieces:
+- name: Kelethin letterhead
+  icon: images/Item_2179.png
+- name: Kelethin stamp
+  icon: images/Item_854.png
+- name: Kelethin envelope
+  icon: images/Item_3146.png
+- name: Kelethin notepaper
+  icon: images/Item_75.png
+- name: Kelethin postmark
+  icon: images/Item_2616.png
+- name: Kelethin sealing wax
+  icon: images/Item_1330.png
 categories:
 - Census Credits
 - City Festival
@@ -24,4 +39,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Norrathian Express Box, Kelethin Branch]]

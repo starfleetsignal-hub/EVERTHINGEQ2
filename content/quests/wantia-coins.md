@@ -5,6 +5,17 @@ level: '65'
 added_in: Fallen Dynasty
 aliases:
 - 'Coin: Wantia coins collection'
+zone: '[[The Forsaken City]]'
+collection_type: Corpse
+pieces:
+- name: copper wantia coin
+  icon: images/Item_1332.png
+- name: golden wantia coin
+  icon: images/Item_1334.png
+- name: platinum wantia coin
+  icon: images/Item_1335.png
+- name: silver wantia coin
+  icon: images/Item_1333.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,3 +35,7 @@ source:
 ---
 
 - This collection was formerly only available via the [[A Burynai Digger|Burynai house pet]]. [[LU51|GU51]] corrected this by adding the collection to [[The Forsaken City]]
+
+## Rewards
+
+- At least 1g 12s 8c

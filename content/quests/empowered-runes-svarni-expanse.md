@@ -4,6 +4,24 @@ type: quest
 level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[Svarni Expanse]]'
+collection_type: Collection items
+pieces:
+- name: Empowered Daef Rune, Sigyl
+  icon: images/Item_3830.png
+  note: heirloom - (Reward from the quest [[Unpowered Daef Rune, Sigyl (Quest)|Unpowered Daef Rune, Sigyl]])
+- name: Empowered Daef Rune, Tih
+  icon: images/Item_3830.png
+  note: heirloom - (Reward from the quest [[Unpowered Daef Rune, Tih (Quest)|Unpowered Daef Rune, Tih]])
+- name: Empowered Daef Rune, Berc
+  icon: images/Item_3830.png
+  note: heirloom - (Reward from the quest [[Unpowered Daef Rune, Berc (Quest)|Unpowered Daef Rune, Berc]])
+- name: Empowered Daef Rune, Mohn
+  icon: images/Item_3830.png
+  note: heirloom - (Reward from the quest [[Unpowered Daef Rune, Mohn (Quest)|Unpowered Daef Rune, Mohn]])
+- name: Empowered Daef Rune, Lahguh
+  icon: images/Item_3830.png
+  note: heirloom - (Reward from the quest [[Unpowered Daef Rune, Lahguh (Quest)|Unpowered Daef Rune, Lahguh]])
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +43,8 @@ expansion_source: patch
 ---
 
 The related quests can be started after [[Heck of a Ghoul Time]], see Heck of a Ghoul Time for all related quests
+
+## Rewards
+
+- [[Pattern: Karuupa Saddle of Parry]]
+- [[Prime Rune, Me'De]] this item is needed for the collection: [[Lexicon of Spaek]]

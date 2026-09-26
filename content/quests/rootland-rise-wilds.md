@@ -4,6 +4,20 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Splendor Sky Aerie]]'
+pieces:
+- name: Auduborian Branch
+  icon: images/Item_2823.png
+- name: Aeraquis Feather
+  icon: images/Item_2820.png
+- name: Aeraquis Scale
+  icon: images/Item_2518.png
+- name: Auduborian Bark
+  icon: images/Item_2803.png
+- name: Direbeak Beak
+  icon: images/Item_2806.png
+- name: Bristlehide Hide
+  icon: images/Item_2578.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Ballads of Zimara Collection Quests
@@ -26,4 +40,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Azul Door Mat]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[Ruffled Hooluk Feather]] this item is needed for the collection: [[Feathers From the Aerie]]

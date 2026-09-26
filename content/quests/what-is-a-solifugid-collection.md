@@ -7,6 +7,18 @@ in_game_name: What Is a Solifugid
 added_in: Renewal of Ro
 aliases:
 - What is a Solufugid (Collection)
+zone: '[[Takish Badlands]]'
+pieces:
+- name: Desert Arachnid
+  icon: images/Item_1845.png
+- name: Large Chelicerae
+  icon: images/Item_1845.png
+- name: Not-quite Scorpion
+  icon: images/Item_1845.png
+- name: Not-quite Spider
+  icon: images/Item_1845.png
+- name: Strong Pedipalps
+  icon: images/Item_1845.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +39,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Expedient Custodian Armplates]]
+- [[What Is a Solifugid (Collection Item)|What Is a Solifugid]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Bone Sliver Ornament
 added_in: Chaos Descending
+zone: '[[Vegarlson: Council''s Stronghold (Heroic)]], [[Vegarlson: Council''s Stronghold (Expert)]], [[Vegarlson: Ruins of Rathe (Heroic)]], [[Vegarlson: Ruins of Rathe (Expert)]], [[Vegarlson: The Terrene Rift (Event Heroic)]], [[Vegarlson: The Terrene Rift (Expert Event)]]'
+pieces:
+- name: Bone Ornament
+  icon: images/Item_322.png
+- name: Monstrous Mark
+  icon: images/Item_3819.png
+- name: Charm of Speed
+  icon: images/Item_2521.png
+- name: Elements of Vegarlson
+  icon: images/Item_3775.png
+- name: Celestial Insignia
+  icon: images/Item_601.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -30,4 +42,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bone Sliver Ornament (Charm)|Bone Sliver Ornament]]
+- [[Bone Sliver Ornament (Collection Item)|Bone Sliver Ornament]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]

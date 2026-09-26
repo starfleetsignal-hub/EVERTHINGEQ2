@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Ambassador's Sandals
+  icon: images/Item_229.png
+- name: Converser's Cloth Cap
+  icon: images/Item_258.png
+- name: Corruptor's Leather Shirt
+  icon: images/Item_228.png
+- name: Patron's Leather Purse
+  icon: images/Item_397.png
+- name: Pummeler's Stitched Collar
+  icon: images/Item_740.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Patron's Leather Cloak]]
+- [[Burrtoe's Poked Out Eye]] this item is needed for the collection: [[Poked Out Boss Peepers]]

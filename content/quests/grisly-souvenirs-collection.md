@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Grisly Souvenirs
 added_in: Renewal of Ro
+zone: '[[Buried Takish''Hiz: Foundation of Knowledge (Solo)]], [[Buried Takish''Hiz: Terrene Threshold (Signature)]], [[Buried Takish''Hiz: The Sacred Gift (Signature)]]'
+pieces:
+- name: Anirath's Hand
+  icon: images/Item_87.png
+- name: Displacer Beast Eye
+  icon: images/Item_83.png
+- name: Exorax's Antenna
+  icon: images/Item_161.png
+- name: Ganadan's Tentacle
+  icon: images/Item_172.png
+- name: Shroud of a Revenant
+  icon: images/Item_5321.png
 categories:
 - 'Buried Takish''Hiz: Foundation of Knowledge (Solo) Collection Quests'
 - 'Buried Takish''Hiz: Terrene Threshold (Signature) Collection Quests'
@@ -27,4 +39,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Preferred Seeker Heavy Boots]]
+- [[Grisly Souvenirs (Collection Item)|Grisly Souvenirs]] this item is needed for the collection: [[Amok in the Desert (Collection)|Amok in the Desert]]

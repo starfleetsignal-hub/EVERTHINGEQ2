@@ -4,6 +4,29 @@ type: quest
 level: '20'
 in_game_name: My True Beloved
 added_in: LU26
+zone: '[[Nektropos Castle: Tribulation]]'
+collection_type: Pages
+pieces:
+- name: My True Beloved, Page 2
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 3
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 5
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 6
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 7
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 9
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 10
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 12
+  icon: images/Item_2181.png
+- name: My True Beloved, Page 13
+  icon: images/Item_2181.png
+- name: my true beloved, an incomplete manuscript
+  icon: images/Item_2692.png
 categories:
 - Census Credits
 - Collection Quests
@@ -43,3 +66,7 @@ Random spawns at the following locations
 - {{waypoint 21.04, 13.50, -37.41}} - [[My true beloved, an incomplete manuscript]] (Quest starter)
 
 |
+
+## Rewards
+
+- [[My True Beloved (Item)|My True Beloved]]

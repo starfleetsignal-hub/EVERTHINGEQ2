@@ -6,6 +6,21 @@ in_game_name: grinnin bone fragment collection
 added_in: Bloodline Chronicles
 aliases:
 - 'Bone Fragment: grinnin bone fragment collection'
+zone: '[[Tombs of Night]]'
+collection_type: Shiny
+pieces:
+- name: shattered grinnin bone fragment
+  icon: images/Item_322.png
+- name: cracked grinnin bone fragment
+  icon: images/Item_322.png
+- name: weathered grinnin bone fragment
+  icon: images/Item_322.png
+- name: unscathed grinnin bone fragment
+  icon: images/Item_322.png
+- name: enchanted grinnin bone fragment
+  icon: images/Item_322.png
+- name: gleaming grinnin bone fragment
+  icon: images/Item_322.png
 categories:
 - Bloodline Chronicles Collection Quests
 - Bone Fragment (CQ Category)
@@ -24,4 +39,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Grinnin bones]]

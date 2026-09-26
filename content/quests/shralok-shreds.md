@@ -7,6 +7,20 @@ added_in: Altar of Malice
 aliases:
 - Shralock Shred
 - Shralock Shreds
+zone: '[[Castle Highhold (Heroic)]]'
+pieces:
+- name: Shralok Finger Bone
+  icon: images/Item_322.png
+- name: Shralok Heel Bone
+  icon: images/Item_100.png
+- name: Shralok Ankle Bone
+  icon: images/Item_100.png
+- name: Shralok Arm Bone
+  icon: images/Item_322.png
+- name: Shralok Toe Bone
+  icon: images/Item_322.png
+- name: Shralok Leg Bone
+  icon: images/Item_322.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -28,4 +42,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Highhold Drapery]]
+- 5 [[Far Seas Ferrin]]
+- [[Tales of Castle Highhold]] this item is needed for the collection: [[Tales of Malice]]

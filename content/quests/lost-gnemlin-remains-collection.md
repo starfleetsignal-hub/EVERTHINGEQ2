@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: Lost Gnemlin Remains
 added_in: Terrors of Thalumbra
+collection_type: Blue
+pieces:
+- name: Lost Gnemlin's Spanner
+  icon: images/Item_2160.png
+- name: Lost Gnemlin's Map
+  icon: images/Item_3165.png
+- name: Lost Gnemlin's Shoe
+  icon: images/Item_250.png
+- name: Lost Gnemlin's Provisions
+  icon: images/Item_799.png
+- name: Lost Gnemlin's Journal
+  icon: images/Item_720.png
+- name: Lost Gnemlin's Compass
+  icon: images/Item_3095.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +40,8 @@ expansion_source: patch
 ---
 
 Collection members can be found around [[Abyssal Overlook]].
+
+## Rewards
+
+- [[Lost Gnemlin's Ring]]
+- [[Dirty Gnemlin Backpack]]

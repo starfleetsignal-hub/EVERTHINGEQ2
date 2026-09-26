@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast]]'
+pieces:
+- name: Dawnshroud Ash Leaf
+  icon: images/Item_2105.png
+- name: Dawnshroud Beech Leaf
+  icon: images/Item_2091.png
+- name: Dawnshroud Willow Leaf
+  icon: images/Item_2101.png
+- name: Dawnshroud Cottonwood Leaf
+  icon: images/Item_2109.png
+- name: Dawnshroud Sycamore Leaf
+  icon: images/Item_2116.png
 categories:
 - Aurelian Coast Collection Quests
 - Blood of Luclin (CQ Category)
@@ -25,4 +37,7 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sambatan Battle Pauldrons]]
+- [[Akevha Ruins Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]

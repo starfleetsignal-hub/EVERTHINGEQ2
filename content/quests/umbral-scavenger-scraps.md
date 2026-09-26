@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+collection_type: Fishing
+pieces:
+- name: Umbral Scavenger Sinus
+  icon: images/Item_413.png
+- name: Umbral Scavenger Joint
+  icon: images/Item_547.png
+- name: Umbral Scavenger Tusk
+  icon: images/Item_102.png
+- name: Umbral Scavenger Foot
+  icon: images/Item_79.png
+- name: Umbral Scavenger Spike
+  icon: images/Item_2121.png
+- name: Umbral Scavenger Scale
+  icon: images/Item_3386.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,7 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Umbral Scavenger Plushie]]
+- [[Umbral Scavenger Samples]] this item is needed for the collection: [[Samples of the Silent Deep]]

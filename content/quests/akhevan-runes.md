@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Ssraeshza Temple (Heroic)]], [[Ssraeshza Temple: Inner Sanctum (Heroic)]]'
+pieces:
+- name: Zov Centien
+  icon: images/Item_3831.png
+- name: Zov Va Dyn
+  icon: images/Item_3829.png
+- name: Zov Liako
+  icon: images/Item_3826.png
+- name: Zov Thall
+  icon: images/Item_3828.png
+- name: Zov Senshali
+  icon: images/Item_3827.png
+- name: Zov Va Liako
+  icon: images/Item_3830.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ssraeshza Tall Brazier]]
+- 5 [[Far Seas Ferrin]]
+- [[Tales of the Ssraeshza Temple]] this item is needed for the collection: [[Tales of Malice]]

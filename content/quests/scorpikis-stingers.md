@@ -6,6 +6,25 @@ added_in: Rise of Kunark
 aliases:
 - 'Kunark: Scorpikis Stingers'
 - 'Kunark: Skorpikis Stingers'
+zone: '[[Jarsath Wastes]]'
+collection_type: Shiny
+pieces:
+- name: A Crusted Scorpikis Stinger
+  page: A Crusted Scorpikis Stinger (Scorpikis Stingers)
+  icon: images/Item_202.png
+- name: A Dark Scorpikis Stinger
+  page: A Dark Scorpikis Stinger (Scorpikis Stingers)
+  icon: images/Item_202.png
+- name: A Deathly Scorpikis Stinger
+  page: A Deathly Scorpikis Stinger (Scorpikis Stingers)
+  icon: images/Item_202.png
+  note: ''
+- name: An Envenomed Scorpikis Stinger
+  page: An Envenomed Scorpikis Stinger (Scorpikis Stingers)
+  icon: images/Item_202.png
+- name: A Light Scorpikis Stinger
+  page: A Light Scorpikis Stinger (Scorpikis Stingers)
+  icon: images/Item_202.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Ring of the Durus]]
+  - [[Ring of the Skleross]]

@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Possessions of the Madmen
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus]]'
+pieces:
+- name: Beggar's Rags
+  icon: images/Item_116.png
+- name: Cursed Pendant
+  icon: images/Item_582.png
+- name: Fake Treasure Map
+  icon: images/Item_3163.png
+- name: Takish Token
+  icon: images/Item_1245.png
+- name: Vivid Hallucinations
+  icon: images/Item_4386.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Expedient Trickster Third Accolade]]
+- [[Possessions of the Madmen (Collection Item)|Possessions of the Madmen]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: What the Other Eye Sees
 added_in: Renewal of Ro
+zone: '[[Sandstone Delta: Eye of Night (Solo)]], [[Sandstone Delta: Eye of the Storm (Solo)]], [[Sandstone Delta: Grave Grange (Solo)]]'
+pieces:
+- name: Ahuttam's Bat Bridle
+  icon: images/Item_4853.png
+- name: Granite from Granight
+  icon: images/Item_4879.png
+- name: Nenmioseh's Scrying Bowl
+  icon: images/Item_873.png
+- name: Palaendor's Saddle
+  icon: images/Item_4850.png
+- name: Shadowscum's Scum
+  icon: images/Item_5087.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +39,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Hizite Stirrups of Ability]]
+- [[What the Other Eye Sees (Collection Item)|What the Other Eye Sees]] this item is needed for the collection: [[Amok in the Desert (Collection)|Amok in the Desert]]

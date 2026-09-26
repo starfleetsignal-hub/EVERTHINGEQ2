@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Spoor of Clan Barkgut
 added_in: Terrors of Thalumbra
+zone: '[[Stygian Threshold (Heroic)]]'
+pieces:
+- name: Barkgut Burrow Padding
+  icon: images/Item_134.png
+- name: Barkgut Saliva
+  icon: images/Item_176.png
+- name: Barkgut Scruff Fur
+  icon: images/Item_96.png
+- name: Barkgut Claw Trimming
+  icon: images/Item_173.png
+- name: Barkgut Broken Fang
+  icon: images/Item_102.png
+- name: Barkgut Scent Marking
+  icon: images/Item_2511.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Gnawed Keepsake]] this item is needed for the collection: [[Stygian Threshold Keepsakes]]
+- [[Intrusive Stitched Heavy Cloak]]

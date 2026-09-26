@@ -5,6 +5,25 @@ level: '95'
 added_in: Nights of the Dead
 events:
 - Nights of the Dead
+zone: '[[The City of Freeport]], [[Qeynos Capitol District]], [[Qeynos Province District]], [[Neriak, City of Hate]], [[Greater Faydark]], [[Frostfang Sea]], [[Timorous Deep]], [[Maj''Dul]]'
+collection_type: Pumpkin
+pieces:
+- name: Lemon Leech Cupcake
+  icon: images/Item_2580.png
+- name: Candy Corn Cupcake
+  icon: images/Item_2580.png
+- name: Devil's Food Cupcake
+  icon: images/Item_2580.png
+- name: Wide-Eyed Owl Cupcake
+  icon: images/Item_2580.png
+- name: Pumpkin Spice Cupcake
+  icon: images/Item_2580.png
+- name: Sugar Ghost Cupcake
+  icon: images/Item_2580.png
+- name: Caramel Apple Cupcake
+  icon: images/Item_2580.png
+- name: Chocolate Bat Cupcake
+  icon: images/Item_2580.png
 categories:
 - Census Credits
 - Collection Quests
@@ -35,3 +54,10 @@ To complete this collection quest you must buy [[Pumpkin Bomb|Pumpkin Bombs]] (2
 
 - [[Ancient Desert Urn]]
 - A title
+
+## Rewards
+
+- one of the following:
+  - [[Etched Cenotaph]]
+  - [[Engraved Cenotaph]]
+  - [[Inscribed Cenotaph]]

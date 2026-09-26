@@ -5,6 +5,27 @@ level: '20'
 added_in: LU55
 events:
 - Brew Day
+zone: '[[-]]'
+collection_type: Purple
+pieces:
+- name: Claymore Ale
+  icon: images/Item_306.png
+- name: Ashfall Crag Lager
+  icon: images/Item_306.png
+- name: Sapling's Raspberry Lambic
+  icon: images/Item_306.png
+- name: Miner's Milk
+  icon: images/Item_307.png
+- name: Somborn Sanguine Ale
+  icon: images/Item_307.png
+- name: Bog Water Brew
+  icon: images/Item_307.png
+- name: Bixie Honey Lager
+  icon: images/Item_308.png
+- name: Windstalker's Hard Cider
+  icon: images/Item_308.png
+- name: Crossroads Ale
+  icon: images/Item_308.png
 categories:
 - Brew Day
 - Brewday (CQ Category)
@@ -60,3 +81,7 @@ The members of the collection can be found in the following bars across Norrath:
   - Inside the [[Outsiders' Landing]] bar in The Village of Shin
   - Around the merchant stalls at [[The Crossroads]] in [[The Commonlands]]
   - In the [[Thurgadin Harbor]] bar {{waypoint 1217, -475, 660}}
+
+## Rewards
+
+- [[Kaladim Stone Stout cloak]]

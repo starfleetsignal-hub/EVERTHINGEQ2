@@ -3,6 +3,19 @@ title: Canopic Jars
 type: quest
 level: '90'
 added_in: LU61
+zone: '[[Silent City: The Delving Dead]]'
+collection_type: Shiny
+pieces:
+- name: Canopic Jar of Sohbahk
+  icon: images/Item_982.png
+- name: Canopic Jar of Kehtan Akh Sul
+  icon: images/Item_986.png
+- name: Canopic Jar of Sahkmeht
+  icon: images/Item_980.png
+- name: Canopic Jar of A'Sul
+  icon: images/Item_981.png
+- name: Canopic Jar of F'uusia
+  icon: images/Item_979.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Form of the Enforcer]]
+- [[Golden Claw of Amenophas]] this item is needed for the collection: [[Shards of Amenophas]]

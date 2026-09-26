@@ -5,6 +5,21 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Cepholex Scraps
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+collection_type: Shiny
+pieces:
+- name: Scrap of Cepholex Membrane
+  icon: images/Item_86.png
+- name: Scrap of Cepholex Tentacle Sucker
+  icon: images/Item_172.png
+- name: Scrap of Cepholex Eyelid
+  icon: images/Item_2798.png
+- name: Scrap of Cepholex Tail Fin
+  icon: images/Item_2807.png
+- name: Scrap of Cepholex Dorsal Tentacle
+  icon: images/Item_2791.png
+- name: Scrap of Cepholex Tendril
+  icon: images/Item_2796.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +43,10 @@ expansion_source: patch
 ---
 
 The collectibles for this quest can be found in the outdoor zone "Thalumbra, the Ever Deep", usually around the area marked on the map called [[Corpse Cauldron]] {{waypoint -567.05, 231.02, 341.82}}.
+
+## Rewards
+
+- one of the following:
+  - [[Intrusive Etched Hammer]]
+  - [[Intrusive Etched Dagger]]
+  - [[Intrusive Etched Axe]]

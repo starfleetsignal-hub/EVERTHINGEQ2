@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Backbiter's Cloak
+  icon: images/Item_249.png
+- name: Diplomat's Gloves
+  icon: images/Item_206.png
+- name: Raider's Gauntlets
+  icon: images/Item_214.png
+- name: Scrapper's Sandals
+  icon: images/Item_119.png
+- name: Stabber's Stiched Pants
+  icon: images/Item_120.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Brokentoe Clothespin]]
+- [[Malleg's Poked Out Eye]] this item is needed for the collection: [[Poked Out Boss Peepers]]

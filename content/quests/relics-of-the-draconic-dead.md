@@ -3,6 +3,24 @@ title: Relics of the Draconic Dead
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Ethereal Dragon Fang
+  icon: images/Item_5741.png
+- name: Phantasmal Dragon Scale
+  icon: images/Item_5953.png
+- name: Spectral Dragon Claw
+  icon: images/Item_5903.png
+- name: Wraith-Like Dragon Bone
+  icon: images/Item_5737.png
+  note: no-trade
+- name: Ebon Dragon Bone Fragment
+  icon: images/Item_5736.png
+- name: Blighted Dragon Talon
+  icon: images/Item_5726.png
+- name: Cursed Dragon Skull Fragment
+  icon: images/Item_5727.png
+- name: Necrotic Dragon Bone Spine
+  icon: images/Item_5739.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +41,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Embelished Splendid Cloth Trousers]]
+- [[Fragment of Collected Scars (Treasured) (Version 1)|Fragment of Collected Scars]]
+- [[Token of Vortex]] this item is needed for the collection: [[Adventure and Anguish (Collection)|Adventure and Anguish]]

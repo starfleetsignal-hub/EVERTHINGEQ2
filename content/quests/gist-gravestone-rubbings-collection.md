@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Gist Gravestone Rubbings
 added_in: Visions of Vetrovia
+zone: '[[Forlorn Gist]]'
+pieces:
+- name: Partial Rubbing of a Family Crest
+  icon: images/Item_2185.png
+- name: Illegible Rubbing
+  icon: images/Item_2180.png
+- name: Rubbing in a Forgotten Language
+  icon: images/Item_2181.png
+- name: Rubbing from a Child's Gravestone
+  icon: images/Item_2182.png
+- name: Crumpled Up Rubbing
+  icon: images/Item_2179.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +39,8 @@ expansion_source: patch
 ---
 
 ﻿
+
+## Rewards
+
+- [[Pattern: Mahngavi Breeching of Striking]]
+- [[Gist Gravestone Rubbings (Item)|Gist Gravestone Rubbings]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

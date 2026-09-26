@@ -3,6 +3,22 @@ title: Masks of the Tallonites
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[The Vigilant: Incursion]], [[The Vigilant: Infiltration]], [[The Vigilant: Rescue]]'
+pieces:
+- name: Tallonite mask of the Amahn
+  icon: images/Item_880.png
+- name: Tallonite mask of the Zonn
+  icon: images/Item_880.png
+- name: Tallonite mask of the Lozonn
+  icon: images/Item_880.png
+- name: Tallonite mask of the Kage-Zonn
+  icon: images/Item_880.png
+- name: Tallonite mask of the Vigoth
+  icon: images/Item_880.png
+- name: Tallonite mask of the Marus
+  icon: images/Item_880.png
+- name: Tallonite mask of the Trajin
+  icon: images/Item_880.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +42,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Form of the Zeklord]]
+- [[Erudite Glyph Stones: Masks]] this item is needed for the collection: [[Erudite Glyph Stones]]

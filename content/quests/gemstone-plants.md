@@ -3,6 +3,19 @@ title: Gemstone Plants
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Emerald Fern Frond
+  icon: images/Item_4893.png
+- name: Rubied Agave Leaf
+  icon: images/Item_4892.png
+- name: Copper Pine Branch
+  icon: images/Item_4893.png
+- name: Amythest Grasses
+  icon: images/Item_4894.png
+- name: Diamond Flecked Orchid
+  icon: images/Item_5853.png
+- name: Citrine Iris Petal
+  icon: images/Item_4890.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Hooluk Bar Table]]
+- [[Fragment of Collected Ballads (Treasured) (Version 1)|Fragment of Collected Ballads]]
+- [[Yazdani Maracas]] this item is needed for the collection: [[Overrealm Percussion]]

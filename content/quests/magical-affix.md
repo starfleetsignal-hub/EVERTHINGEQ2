@@ -3,6 +3,20 @@ title: Magical Affix
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Shadowed Affix
+  icon: images/Item_3771.png
+- name: Unfettered Affix
+  icon: images/Item_3771.png
+  note: no-trade
+- name: Beaming Affix
+  icon: images/Item_3771.png
+- name: Burning Affix
+  icon: images/Item_3771.png
+- name: Clasping Affix
+  icon: images/Item_3771.png
+- name: Poisoned Affix
+  icon: images/Item_3771.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +38,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Riftcloth Shoulders]]
+- [[Fragment of Collected Void]]
+- [[Brutal Hammer]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

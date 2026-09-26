@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: The Well-Dressed Libant
 added_in: Visions of Vetrovia
+zone: '[[Forlorn Gist]]'
+pieces:
+- name: Elegant Cravat
+  icon: images/Item_379.png
+- name: Libant Clan Signet Ring
+  icon: images/Item_606.png
+- name: Engraved Sword Cane
+  icon: images/Item_36.png
+- name: A Dangling Bloodstone Earring
+  icon: images/Item_4862.png
+- name: Lady's Begemmed Hairpiece
+  icon: images/Item_970.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Shoes of Ability]]
+- [[The Well-Dressed Libant (Item)|The Well-Dressed Libant]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Waters of Courage
+  icon: images/Item_2514.png
+- name: Waters of Heart
+  icon: images/Item_2513.png
+- name: Waters of Warmth
+  icon: images/Item_2509.png
+- name: Waters of Will
+  icon: images/Item_2512.png
+- name: Waters of Resolve
+  icon: images/Item_2511.png
+- name: Waters of Life
+  icon: images/Item_2510.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,10 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Flax Tallonite Sash of Blood]] this item is needed for the collection: [[Tallonite Sashes]]
+- one of the following:
+  - [[Sword of Courageous Waters]]
+  - [[Hammer of Courageous Waters]]
+  - [[Barrier of Courageous Waters]]

@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Worn Steel Hammer
+  icon: images/Item_698.png
+- name: Velium Welder Hammer
+  icon: images/Item_3126.png
+- name: Blacksmith's Maul Hammer
+  icon: images/Item_285.png
+- name: Blacksmith's Sledge Hammer
+  icon: images/Item_2771.png
+- name: Silvered Chasing Hammer
+  icon: images/Item_696.png
+- name: Blackened Curve Claw Hammer
+  icon: images/Item_3121.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,11 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Tattered Tallonite Sash of Defeat]] this item is needed for the collection: [[Tallonite Sashes]]
+- one of the following:
+  - [[Blacksmith's Blood Iron Dagger]]
+  - [[Blacksmith's Blood Iron Sword of Rending]]
+  - [[Blacksmith's Blood Iron Greathammer]]
+  - [[Blacksmith's Blood Iron Greatspear]]

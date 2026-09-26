@@ -5,6 +5,16 @@ level: '80'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Sokokar Scales'
+zone: '[[Chardok]]'
+collection_type: Shiny
+pieces:
+- name: A Dull Sokokar Scale
+  icon: images/Item_2519.png
+- name: A Sokokar Scale
+  icon: images/Item_2519.png
+- name: A Shining Sokokar Scale
+  icon: images/Item_2517.png
+  note: ''
 categories:
 - Census Credits
 - Chardok Collection Quests
@@ -25,4 +35,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Jagged Sokokar Scale Band]]
+  - [[Woven Sokokar Scale Band]]

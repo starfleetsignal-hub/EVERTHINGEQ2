@@ -2,6 +2,23 @@
 title: Celestial Realm Notions
 type: quest
 level: '20'
+zone: '[[Triad of Elements (Solo)]]'
+collection_type: Purple
+pieces:
+- name: Burning Desire
+  icon: images/Item_2522.png
+- name: Drowned Sorrows
+  icon: images/Item_2524.png
+- name: Undefined Variables
+  icon: images/Item_3112.png
+- name: Hot as Blazes
+  icon: images/Item_5695.png
+- name: Against the Tide
+  icon: images/Item_4354.png
+- name: Friendly Fire
+  icon: images/Item_2509.png
+- name: Broken Concentration
+  icon: images/Item_4374.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,3 +37,7 @@ source:
 ---
 
 There's only 2 purple shinies per instance. Reset instance to refresh.
+
+## Rewards
+
+- [[Coins of Celestial Blessing]]

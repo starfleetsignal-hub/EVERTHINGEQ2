@@ -5,6 +5,19 @@ level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 in_game_name: Bolgorak the Scourge
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Advanced Solo)]], [[The Fabled Court of Innovation (Advanced Solo)]], [[The Fabled Crypt of Valdoon (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Bolgorak the Scourge's Axe
+  icon: images/Item_2731.png
+- name: Bolgorak the Scourge's Helm
+  icon: images/Item_219.png
+- name: Bolgorak the Scourge's Gauntlets
+  icon: images/Item_214.png
+- name: Bolgorak the Scourge's Serrated Blade
+  icon: images/Item_2718.png
+- name: Bolgorak the Scourge's War Hammer
+  icon: images/Item_2723.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Klakdrone Ward]] this item is needed for the collection: [[King Klak'Anon Scepters]]

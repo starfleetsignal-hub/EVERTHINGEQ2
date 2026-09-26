@@ -21,4 +21,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+Collectible [[Spectral Tattered Wrappings]]

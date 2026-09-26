@@ -3,6 +3,20 @@ title: Fathomlurker Fierce Bits
 type: quest
 level: '100'
 added_in: Terrors of Thalumbra
+collection_type: Fishing
+pieces:
+- name: Fathomlurker Claw
+  icon: images/Item_102.png
+- name: Fathomlurker Beak
+  icon: images/Item_160.png
+- name: Fathomlurker Flesh
+  icon: images/Item_138.png
+- name: Fathomlurker Ink Sack
+  icon: images/Item_130.png
+- name: Fathomlurker Sinew
+  icon: images/Item_111.png
+- name: Fathomlurker Deposits
+  icon: images/Item_181.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,3 +38,11 @@ expansion_source: patch
 ---
 
 The pieces of this collection are obtained by fishing in [[Thalumbra, the Ever Deep|Thalumbra]].
+
+## Rewards
+
+- [[Fathomlurker Samples]] this item is needed for the collection: [[Samples of the Silent Deep]]
+- one of the following:
+  - [[Luminous Fathomlurker Plushie]]
+  - [[Puce Fathomlurker Plushie]]
+  - [[Violet Fathomlurker Plushie]]

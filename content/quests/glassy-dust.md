@@ -3,6 +3,18 @@ title: Glassy Dust
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Solo)]]'
+pieces:
+- name: Glassy Verdant Dust
+  icon: images/Item_4945.png
+- name: Glassy Pink Dust
+  icon: images/Item_4949.png
+- name: Glassy Cobalt Dust
+  icon: images/Item_4944.png
+- name: Glassy Amber Dust
+  icon: images/Item_4946.png
+- name: Glassy Amaranthine Dust
+  icon: images/Item_4948.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A strange cardinal crystal]]
+- [[Gooey Hag Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

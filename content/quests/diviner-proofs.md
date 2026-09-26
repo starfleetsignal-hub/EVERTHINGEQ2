@@ -3,6 +3,20 @@ title: Diviner Proofs
 type: quest
 level: '100'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]]'
+pieces:
+- name: Proof of Life
+  icon: images/Item_1322.png
+- name: Proof of Energy
+  icon: images/Item_1325.png
+- name: Proof of Growth
+  icon: images/Item_1320.png
+- name: Proof of Soul
+  icon: images/Item_1321.png
+- name: Proof of Breath
+  icon: images/Item_1323.png
+- name: Proof of Vitality
+  icon: images/Item_1324.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +36,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Cotton Tallonite Sash of Ire]] this item is needed for the collection: [[Tallonite Sashes]]
+- one of the following:
+  - [[Prood of the Warriors Life]]
+  - [[Bracelet of the Diviner's Energy]]

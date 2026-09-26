@@ -5,6 +5,20 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Club of Slime
 added_in: Chaos Descending
+zone: '[[Vegarlson, the Earthen Badlands]]'
+collection_type: Cde
+pieces:
+- name: Sigil of Slime
+  icon: images/Item_1265.png
+- name: Essence of Sludge
+  icon: images/Item_4089.png
+- name: Rune of Fungus
+  icon: images/Item_1297.png
+  note: (Reward from the quest [[Judging By the Cover]])
+- name: Seal of Mire
+  icon: images/Item_1255.png
+- name: Earthen Club
+  icon: images/Item_285.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -26,4 +40,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Club of Slime (Collection Item)|Club of Slime]] this item is needed for the collection: [[Ensorcelled Metalcloth Cape (Collection)|Ensorcelled Metalcloth Cape]]
+- [[Club of Slime (Weapon)|Club of Slime]]

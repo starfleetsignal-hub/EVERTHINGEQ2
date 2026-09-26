@@ -3,6 +3,19 @@ title: Efreeti Ciphers
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Cipher of the Emir
+  icon: images/Item_5940.png
+- name: Cipher of the Emira
+  icon: images/Item_5940.png
+- name: Cipher of the Sheikh
+  icon: images/Item_5940.png
+- name: Cipher of the Sheikha
+  icon: images/Item_5940.png
+- name: Runed Cipher of the Efreeti
+  icon: images/Item_5940.png
+- name: Flaming Cipher of the Efreeti
+  icon: images/Item_5940.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Arcaneframe Hammerhoof]]
+- [[Fragment of Collected Ballads (Legendary)|Fragment of Collected Ballads]]
+- [[Platinum Etched Sheet Music]] this item is needed for the collection: [[Maedjinn's Requiem]]

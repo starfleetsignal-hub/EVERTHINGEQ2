@@ -5,6 +5,20 @@ level: '78'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Cockatrice Feathers'
+zone: '[[Kunzar Jungle]]'
+collection_type: Shiny
+pieces:
+- name: Blue Cockatrice Feather
+  icon: images/Item_2099.png
+- name: Gold Cockatrice Feather
+  icon: images/Item_2103.png
+  note: ''
+- name: Orange Cockatrice Feather
+  icon: images/Item_2101.png
+- name: Red Cockatrice Feather
+  icon: images/Item_2104.png
+- name: Purple Cockatrice Feather
+  icon: images/Item_2100.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Cloak of the Emerald Stonegazer]]
+  - [[Wrap of the Emerald Stonegazer]]

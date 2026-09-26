@@ -3,6 +3,19 @@ title: Torturous Instruction
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Ebonlithe Tome of Capture
+  icon: images/Item_5661.png
+- name: Ebonlithe Tome of Corruption
+  icon: images/Item_5661.png
+- name: Ebonlithe Tome of Torture
+  icon: images/Item_5661.png
+- name: Ebonlithe Tome of Binding
+  icon: images/Item_5661.png
+- name: Ebonlithe Tome of Anguish
+  icon: images/Item_5661.png
+- name: Ebonlithe Tome of Blood
+  icon: images/Item_5661.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Null-Summoned Horrorguard Plushie]]
+- [[Fragment of Collected Void]]
+- [[Shadowbane Gore]] this item is needed for the collection: [[Tub of Fetid Gore (Collection)|Tub of Fetid Gore]]

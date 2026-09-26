@@ -5,6 +5,19 @@ level: '50'
 added_in: Rise of Kunark
 aliases:
 - 'Insect: Spotted Scarab Collection'
+zone: '[[The Sinking Sands]]'
+collection_type: Shiny
+pieces:
+- name: spotted black scarab
+  icon: images/Item_1810.png
+- name: spotted blue scarab
+  icon: images/Item_1812.png
+- name: spotted brown scarab
+  icon: images/Item_1813.png
+- name: spotted green scarab
+  icon: images/Item_1811.png
+- name: spotted red scarab
+  icon: images/Item_1814.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +41,10 @@ expansion_source: patch
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
 - Added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Chitin Plate Sabatons]]
+  - [[Gold djinn vase]]
+  - [[Dagger of the Falling Sun]]

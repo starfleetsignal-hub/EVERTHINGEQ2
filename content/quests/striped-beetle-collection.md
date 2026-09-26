@@ -6,6 +6,18 @@ in_game_name: striped beetle collection
 added_in: Shattered Lands
 aliases:
 - 'Beetle: striped beetle collection'
+zone: '[[The Wailing Caves]]'
+pieces:
+- name: striped blue beetle
+  icon: images/Item_1817.png
+- name: striped green beetle
+  icon: images/Item_1816.png
+- name: striped black beetle
+  icon: images/Item_1815.png
+- name: striped yellow beetle
+  icon: images/Item_1818.png
+- name: striped purple beetle
+  icon: images/Item_1819.png
 categories:
 - Beetle (CQ Category)
 - Census Credits
@@ -26,4 +38,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- 60s

@@ -3,6 +3,21 @@ title: Garb of the Grotto
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Siren''s Grotto: Alluring Embrace (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Behemoth Hide Cloak
+  icon: images/Item_93.png
+- name: Netted Kelp Cap
+  icon: images/Item_115.png
+- name: Seahorse Hide Tunic
+  icon: images/Item_6.png
+- name: Siren Skin Sleeves
+  icon: images/Item_259.png
+- name: Ulthork Hide Gloves
+  icon: images/Item_255.png
+- name: Woven Kelp Pantaloons
+  icon: images/Item_120.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +41,15 @@ expansion_source: patch
 ---
 
 - The Collected Grotto Garb item is part of the [[Collected Alluring Novelties]] collection quest.
+
+## Rewards
+
+- [[Collected Grotto Garb]] this item is needed for the collection: [[Collected Alluring Novelties]]
+- one of the following:
+  - [[Transcendent Combine Ascetic Boots]]
+  - [[Transcendent Combine Protector Sabatons]]
+  - [[Transcendent Combine Spellweaver Boots]]
+  - [[Transcendent Combine Wraithcaller Boots]]
+  - [[Transcendent Combine Leafblighter Boots]]
+  - [[Transcendent Combine Disciple Sabatons]]
+  - [[Transcendent Combine Stalker Boots]]

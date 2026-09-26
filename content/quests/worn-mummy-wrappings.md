@@ -5,6 +5,21 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Wrappings: Worn Mummy Wrappings'
+zone: '[[The Sinking Sands]], [[The Pillars of Flame]], [[The Living Tombs]]'
+collection_type: Shiny
+pieces:
+- name: worn arm wrapping
+  icon: images/Item_1088.png
+- name: worn foot wrapping
+  icon: images/Item_1088.png
+- name: worn hand wrapping
+  icon: images/Item_1088.png
+- name: worn head wrapping
+  icon: images/Item_1088.png
+- name: worn leg wrapping
+  icon: images/Item_1088.png
+- name: worn torso wrapping
+  icon: images/Item_1088.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Cowl of Gentle Repose]]
+  - [[Stone Sunder Gloves]]

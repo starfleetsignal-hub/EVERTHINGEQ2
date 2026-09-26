@@ -4,6 +4,25 @@ type: quest
 level: '80'
 in_game_name: Tablets of Chottal Sathir Dynasty
 added_in: The Shadow Odyssey
+zone: '[[Nu''roga]], [[Veksar: The Sunken Theater]], [[Emperor Atrebe''s Laboratory: The Fabled City of Kor-sha]]'
+collection_type: Shiny
+pieces:
+- name: 'Chottal Dynasty Tablet: Successor'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Overseer'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Empire'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Expansion'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Verile'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Strength'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Battle'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Assassination'
+  icon: images/Item_371.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Icon of the Herald (CollectionReward)|Icon of the Herald]]
+  - [[Syllokk's Law]]

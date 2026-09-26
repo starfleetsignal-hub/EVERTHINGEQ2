@@ -3,6 +3,21 @@ title: Sabaron's Palace Collection
 type: quest
 level: '90'
 added_in: LU61
+zone: '[[The Palace of Sabaron]]'
+collection_type: Shiny
+pieces:
+- name: Sul'Dal Relic
+  icon: images/Item_1805.png
+- name: Planar Invasion Orders
+  icon: images/Item_2180.png
+- name: Broken Lamp
+  icon: images/Item_2571.png
+- name: Djinn Scimitar
+  icon: images/Item_1678.png
+- name: Planar Air Fragment
+  icon: images/Item_2516.png
+- name: Djinn Scarf
+  icon: images/Item_1102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,6 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Djinn Master's Courtesan]]

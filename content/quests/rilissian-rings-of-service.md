@@ -5,6 +5,21 @@ level: '75'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Rilissian Rings of Service'
+zone: '[[Fens of Nathsar]]'
+collection_type: Hidden
+pieces:
+- name: ring of the guard
+  icon: images/Item_3434.png
+- name: ring of the magister
+  icon: images/Item_3435.png
+- name: ring of the sentry
+  icon: images/Item_3437.png
+- name: ring of the watch
+  icon: images/Item_3445.png
+- name: ring of the elite
+  icon: images/Item_3446.png
+- name: ring of the lord
+  icon: images/Item_3436.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +43,9 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ornate Sathirian Carpet]]
+- one of the following:
+  - [[Rilissian Band of Station]]
+  - [[Rilissian Ring of Station]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Talisman of the Rager
+  icon: images/Item_31.png
+- name: Talisman of the Smithy
+  icon: images/Item_31.png
+- name: Talisman of the Spotter
+  icon: images/Item_31.png
+  note: no-trade
+- name: Talisman of the Ambassador
+  icon: images/Item_31.png
+- name: Talisman of the Corruptor
+  icon: images/Item_31.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Boombottom Pummelers Patch]]
+- [[Kanar's Poked Out Eye]] this item is needed for the collection: [[Poked Out Boss Peepers]]

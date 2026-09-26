@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Forlorn Clothing
 added_in: Visions of Vetrovia
+pieces:
+- name: Morlock Mantle
+  icon: images/Item_277.png
+- name: Werewolf Leggings
+  icon: images/Item_120.png
+- name: Torn Halfling Apron
+  icon: images/Item_282.png
+- name: Zombie's Grave Shroud
+  icon: images/Item_166.png
+- name: Warlock's Robes
+  icon: images/Item_4119.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Assembled Robust Locus]]
+- [[Forlorn Clothing (Item)|Forlorn Clothing]] this item is needed for the collection: [[Vetrovian Perceptions]]

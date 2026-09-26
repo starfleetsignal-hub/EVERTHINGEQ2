@@ -4,6 +4,23 @@ type: quest
 level: '60'
 in_game_name: Nurwin Family Secrets
 added_in: The Shadow Odyssey
+zone: '[[The Village of Shin]]'
+collection_type: Pages
+pieces:
+- name: Nurwin Family Secrets, page 1
+  icon: images/Item_185.png
+- name: Nurwin Family Secrets, page 2
+  icon: images/Item_185.png
+- name: Nurwin Family Secrets, page 3
+  icon: images/Item_185.png
+- name: Nurwin Family Secrets, page 4
+  icon: images/Item_185.png
+- name: Nurwin Family Secrets, page 5
+  icon: images/Item_185.png
+- name: Nurwin Family Secrets, page 6
+  icon: images/Item_185.png
+- name: Nurwin Family Secrets, page 7
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +42,7 @@ expansion_source: patch
 ---
 
 - All pages are located in or around the Nurwin House. There is only one page up at any given moment. Respawn time is short (~2 minutes). See the talk page for the many random locations at which other players have found these pages.  You get a random page for each spawn so you will most likely get a few of the same pages before you get a complete set.  These pages are now tradeable.
+
+## Rewards
+
+- [[Nurwin Family Secrets (Item)|Nurwin Family Secrets]]

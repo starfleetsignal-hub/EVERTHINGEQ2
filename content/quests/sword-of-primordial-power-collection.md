@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Sword of Primordial Power
 added_in: Chaos Descending
+collection_type: Collection items
+pieces:
+- name: Fire Crested Runed Belt
+  page: Fire Crested Runed Belt (Collection Item)
+  icon: images/Item_2133.png
+  note: no-trade - (Reward from the collection [[Fire Crested Runed Belt (Collection)|Fire Crested Runed Belt]])
+- name: Simple Ring of Purity
+  page: Simple Ring of Purity (Collection Item)
+  icon: images/Item_2980.png
+  note: no-trade - (Reward from the collection [[Simple Ring of Purity (Collection)|Simple Ring of Purity]])
+- name: Clay Bracers of the Golem
+  page: Clay Bracers of the Golem (Collection Item)
+  icon: images/Item_470.png
+  note: no-trade - (Reward from the collection [[Clay Bracers of the Golem (Collection)|Clay Bracers of the Golem]])
+- name: Hammer of Crushing Waves
+  page: Hammer of Crushing Waves (Collection Item)
+  icon: images/Item_2964.png
+  note: no-trade - (Reward from the collection [[Hammer of Crushing Waves (Collection)|Hammer of Crushing Waves]])
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +43,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sword of Primordial Power (Collection Item)|Sword of Primordial Power]] this item is needed for the collection: [[Clawed Earthcrafter's Pendant (Collection)|Clawed Earthcrafter's Pendant]]
+- [[Sword of Primordial Power (Weapon)|Sword of Primordial Power]]

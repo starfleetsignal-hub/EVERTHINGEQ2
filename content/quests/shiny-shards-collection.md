@@ -6,6 +6,21 @@ in_game_name: shiny shards collection
 added_in: Shattered Lands
 aliases:
 - 'Shard: shiny shards collection'
+zone: '[[The Thundering Steppes]], [[Blackburrow]], [[Stormhold]]'
+collection_type: Shiny
+pieces:
+- name: shiny shard of abjuration
+  icon: images/Item_183.png
+- name: shiny shard of alteration
+  icon: images/Item_183.png
+- name: shiny shard of channeling
+  icon: images/Item_183.png
+- name: shiny shard of conjuration
+  icon: images/Item_183.png
+- name: shiny shard of divination
+  icon: images/Item_183.png
+- name: shiny shard of evocation
+  icon: images/Item_183.png
 categories:
 - Blackburrow Collection Quests
 - Census Credits
@@ -31,3 +46,7 @@ expansion_source: patch
 ## Locations
 
 Apart from the zones listed above. Other areas of similar level have also been known to hold these shards.
+
+## Rewards
+
+- [[Bracelet of Shiny Shards]]

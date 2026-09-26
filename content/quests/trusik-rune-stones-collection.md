@@ -5,6 +5,19 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Trusik Rune Stones
 added_in: Visions of Vetrovia
+pieces:
+- name: Goshenite Rune Stone
+  icon: images/Item_2937.png
+- name: Demantoid Rune Stone
+  icon: images/Item_2927.png
+- name: Discordian Rock Rune Stone
+  icon: images/Item_2934.png
+- name: Sunshard Rune Stone
+  icon: images/Item_2925.png
+- name: Meldstone Rune Stone
+  icon: images/Item_2943.png
+- name: Sandstone Rune Stone
+  icon: images/Item_2946.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Frenzied Pace]]
+- [[Trusik Rune Stones (Item)|Trusik Rune Stones]] this item is needed for the collection: [[More Sights and Sounds]]

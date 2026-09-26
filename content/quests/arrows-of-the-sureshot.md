@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
+pieces:
+- name: Obsidian Headed Arrow
+  icon: images/Item_363.png
+- name: Bodkin Arrow
+  icon: images/Item_363.png
+- name: Leaf-Shaped Arrow
+  icon: images/Item_363.png
+- name: Round Headed Arrow
+  icon: images/Item_363.png
+- name: Fiery Headed Arrow
+  icon: images/Item_363.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Petyr Cromwood's Quilled Pen]] this item is needed for the collection: [[Belongings of the Vanguard]]

@@ -4,6 +4,27 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[High Keep: The Bloodless Incursion (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Darkrune Armguards
+  icon: images/Item_2899.png
+- name: Darkrune Boots
+  icon: images/Item_2898.png
+- name: Darkrune Cowl
+  icon: images/Item_2901.png
+- name: Darkrune Leggings
+  icon: images/Item_2895.png
+- name: Darkrune Tunic
+  icon: images/Item_2894.png
+- name: Patina Covered Breastplate
+  icon: images/Item_1614.png
+- name: Patina Covered Gusset
+  icon: images/Item_1618.png
+- name: Patina Covered Pauldrons
+  icon: images/Item_1620.png
+- name: Patina Covered Sabatons
+  icon: images/Item_1615.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +47,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Shard of Wisdom]] this item is needed for the collection: [[The Coercer's Guise]]

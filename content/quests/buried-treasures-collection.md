@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Buried Treasures
 added_in: Renewal of Ro
+zone: '[[Buried Takish''Hiz: Foundation of Knowledge (Heroic I)]], [[Buried Takish''Hiz: Foundation of Knowledge (Heroic II)]], [[Buried Takish''Hiz: The Sacred Gift (Event Heroic II)]], [[Buried Takish''Hiz: The Sacred Gift (Event Heroic III)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic I)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic II)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic III)]]'
+pieces:
+- name: Ancient Trapped Chest
+  icon: images/Item_566.png
+- name: Bespelled Dusty Volume
+  icon: images/Item_718.png
+- name: Forgotten Gems
+  icon: images/Item_3825.png
+- name: Rusted Elddar Armor
+  icon: images/Item_217.png
+- name: Tarnished Coins
+  icon: images/Item_976.png
 categories:
 - 'Buried Takish''Hiz: Foundation of Knowledge (Heroic I) Collection Quests'
 - 'Buried Takish''Hiz: Foundation of Knowledge (Heroic II) Collection Quests'
@@ -31,4 +43,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Ensorcelled Badlands Shoes of Fervor]]
+- [[Buried Treasures (Collection Item)|Buried Treasures]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]

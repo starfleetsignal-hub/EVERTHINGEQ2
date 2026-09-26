@@ -5,6 +5,19 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Dryad Grotto]]'
+collection_type: Purple
+pieces:
+- name: auburn dryad leaf
+  icon: images/Item_2825.png
+- name: brown dryad leaf
+  icon: images/Item_2823.png
+- name: gold dryad leaf
+  icon: images/Item_2827.png
+- name: green dryad leaf
+  icon: images/Item_2824.png
+- name: russet dryad leaf
+  icon: images/Item_2826.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Corrupted Dryad Plushie]]
+  - [[Dryad Plushie]]

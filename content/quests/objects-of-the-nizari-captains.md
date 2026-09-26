@@ -3,6 +3,19 @@ title: Objects of the Nizari Captains
 type: quest
 level: '100'
 added_in: LU101
+zone: '[[The Fabled Nizara, City of the Nayad (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Nizari Captain's Sash
+  icon: images/Item_379.png
+- name: Nizari Captain's Band
+  icon: images/Item_2224.png
+- name: Nizari Captain's Armor
+  icon: images/Item_217.png
+- name: Nizari Captain's Sword
+  icon: images/Item_203.png
+- name: Nizari Captain's Medal
+  icon: images/Item_1244.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +35,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Zhi'feng's Scepter of Darkness]] this item is needed for the collection: [[Nizari Scepters of Power]]
+- one of the following:
+  - [[Simple Nizari Cloth Forearms]]
+  - [[Simple Nizari Plate Forearms]]

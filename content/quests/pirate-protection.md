@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Brokenskull Bay: Spoils of Maraud (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Captain's Hat
+  icon: images/Item_2855.png
+- name: First Mate's Hat
+  icon: images/Item_2861.png
+- name: Boatswain's Hat
+  icon: images/Item_2855.png
+- name: Lieutenant's Hat
+  icon: images/Item_2855.png
+- name: Gunner's Hat
+  icon: images/Item_2861.png
+- name: Quartermaster's Hat
+  icon: images/Item_2861.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +41,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Open Shissar Vessel]]
+- 5 [[Far Seas Ferrin]]
+- [[Royal Opulence]] this item is needed for the collection: [[Ship Wheels]]

@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Sand Beetles
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus: The Sultan''s Dagger (Signature)]], [[Raj''Dur Plateaus: Blood and Sand (Signature)]]'
+pieces:
+- name: Black Sand Beetle
+  icon: images/Item_1805.png
+- name: Bronze Sand Beetle
+  icon: images/Item_1824.png
+- name: Emerald Sand Beetle
+  icon: images/Item_1821.png
+- name: Ruby Sand Beetle
+  icon: images/Item_1809.png
+- name: Sapphire Sand Beetle
+  icon: images/Item_1823.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Hizite Stirrups of Striking]]
+- [[Sand Beetles (Collection Item)|Sand Beetles]] this item is needed for the collection: [[Amok in the Desert (Collection)|Amok in the Desert]]

@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Jungle Bugs
 added_in: Visions of Vetrovia
+pieces:
+- name: Brightly Colored Butterfly
+  icon: images/Item_1840.png
+- name: Giant Green and Yellow Beetle
+  icon: images/Item_1821.png
+- name: Karuupa Spider
+  icon: images/Item_1868.png
+- name: Pink Firefly
+  icon: images/Item_1926.png
+- name: Oversized Mosquito
+  icon: images/Item_1917.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Breeching of Striking]]
+- [[Jungle Bugs (Item)|Jungle Bugs]] this item is needed for the collection: [[More Sights and Sounds]]

@@ -5,6 +5,24 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Plating: Large Pieces of Airship Plating'
+zone: '[[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: large dusky piece of airship plating
+  page: Large dusky piece of airship plating (Large Pieces of Airship Plating)
+  icon: images/Item_734.png
+- name: large pristine piece of airship plating
+  page: Large pristine piece of airship plating (Large Pieces of Airship Plating)
+  icon: images/Item_735.png
+- name: large shining piece of airship plating
+  page: Large shining piece of airship plating (Large Pieces of Airship Plating)
+  icon: images/Item_731.png
+- name: large weathered piece of airship plating
+  page: Large weathered piece of airship plating (Large Pieces of Airship Plating)
+  icon: images/Item_733.png
+- name: large worn piece of airship plating
+  page: Large worn piece of airship plating (Large Pieces of Airship Plating)
+  icon: images/Item_732.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +43,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Gnomish Spring Boots]]

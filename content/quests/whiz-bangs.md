@@ -6,6 +6,20 @@ timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
 aliases:
 - Whizbangs
+zone: '[[Castle Highhold (Heroic)]]'
+pieces:
+- name: Grevog's Flail
+  icon: images/Item_638.png
+- name: Zebrun's Cuirass
+  icon: images/Item_1698.png
+- name: Grethah's Scepter
+  icon: images/Item_3724.png
+- name: Zebrun's Helm
+  icon: images/Item_1702.png
+- name: Grevog's Fire
+  icon: images/Item_3720.png
+- name: Grethah's Wand
+  icon: images/Item_3716.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,4 +41,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dshinn Palm Trio]]
+- 5 [[Far Seas Ferrin]]
+- [[Tales of the Far Seas Trading Company]] this item is needed for the collection: [[Tales of Malice]]

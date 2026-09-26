@@ -3,6 +3,36 @@ title: Stained Glass Egg Shells
 type: quest
 level: '20'
 added_in: Beast'r Eggstravaganza
+zone: '[[The City of Freeport]], [[Frostfang Sea]], [[Greater Faydark]], [[Darklight Wood]]'
+collection_type: Purple
+pieces:
+- name: Black Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Halas
+- name: Blue Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Freeport
+- name: Green Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Kelethin, Darklight Wood
+- name: Orange Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Kelethin, Darklight Wood
+- name: Pink Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Freeport
+- name: Purple Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Halas
+- name: Red Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Kelethin, Darklight Wood
+- name: White Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Halas
+- name: Yellow Stained Glass Shell
+  icon: images/Item_4796.png
+  note: Freeport
 categories:
 - Beast'r Eggstravaganza (CQ Category)
 - Beast'r Eggstravaganza Collection Quests
@@ -24,4 +54,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Large Stained Glass Beast'r Egg Basket]]

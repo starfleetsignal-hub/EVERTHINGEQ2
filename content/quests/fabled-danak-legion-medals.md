@@ -3,6 +3,21 @@ title: Fabled Danak Legion Medals
 type: quest
 level: '20'
 added_in: Ballads of Zimara
+collection_type: Year of Discovery
+pieces:
+- name: medal of honor
+  icon: images/Item_3452.png
+- name: medal of valor
+  page: Medal of valor (Collection Item)
+  icon: images/Item_3448.png
+- name: medal of ferocity
+  icon: images/Item_3456.png
+- name: medal of courage
+  icon: images/Item_3459.png
+- name: medal of allegiance
+  icon: images/Item_3453.png
+- name: medal of strength
+  icon: images/Item_3454.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -23,4 +38,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

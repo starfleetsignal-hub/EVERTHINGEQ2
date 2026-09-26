@@ -5,6 +5,17 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Lamps: Tarnished Lamp'
+zone: '[[The Sinking Sands]], [[The Pillars of Flame]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: tarnished lamp handle
+  icon: images/Item_2702.png
+- name: tarnished left side of a lamp
+  icon: images/Item_2702.png
+- name: tarnished right side of a lamp
+  icon: images/Item_2702.png
+- name: tarnished spout of a lamp
+  icon: images/Item_2702.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,6 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A tarnished djinn lamp (no-value)|a tarnished djinn lamp]]

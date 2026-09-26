@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Tranquil Sea]]'
+collection_type: Year of Discovery
+pieces:
+- name: Golden Silversmith Button
+  page: Golden Silversmith Button (Fabled Pirate Coat Buttons)
+  icon: images/Item_1026.png
+- name: Silver Swirl Button
+  page: Silver Swirl Button (Fabled Pirate Coat Buttons)
+  icon: images/Item_1026.png
+- name: Golden Shank Button
+  page: Golden Shank Button (Fabled Pirate Coat Buttons)
+  icon: images/Item_1026.png
+- name: Bone-Carved Pants Button
+  page: Bone-Carved Pants Button (Fabled Pirate Coat Buttons)
+  icon: images/Item_1025.png
+- name: Silver Shank Button
+  page: Silver Shank Button (Fabled Pirate Coat Buttons)
+  icon: images/Item_1027.png
+- name: Bone-Carved Vest Button
+  page: Bone-Carved Vest Button (Fabled Pirate Coat Buttons)
+  icon: images/Item_1025.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

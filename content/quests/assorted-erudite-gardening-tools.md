@@ -3,6 +3,21 @@ title: Assorted Erudite Gardening Tools
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[Vasty Deep: The Conservatory]], [[Vasty Deep: The Abandoned Labs]], [[Vasty Deep: The Vestigial Cella]]'
+collection_type: Shiny
+pieces:
+- name: erudite garden rake
+  icon: images/Item_2723.png
+- name: crystaline water barrel
+  icon: images/Item_2285.png
+- name: gilded wheel barrow
+  icon: images/Item_2357.png
+- name: intricately carved broom
+  icon: images/Item_1218.png
+- name: ebony handled shovel
+  icon: images/Item_2327.png
+- name: gilded watering bucket
+  icon: images/Item_916.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Vasty Deep wheelbarrow]]
+- [[Kaborite Geodes: Gardening]] this item is needed for the collection: [[The Deep and Dark Places: Geodes]]

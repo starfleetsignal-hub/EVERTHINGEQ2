@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Arcanna''se Spire (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Clear Crystal Shard
+  icon: images/Item_1198.png
+- name: Shocked Crystal Shard
+  icon: images/Item_1172.png
+- name: Flashy Crystal Shard
+  icon: images/Item_1157.png
+- name: Chiseled Crystal Shard
+  icon: images/Item_1140.png
+- name: Vitreous Crystal Shard
+  icon: images/Item_1180.png
+- name: Volatile Crystal Shard
+  icon: images/Item_1177.png
 categories:
 - Arcanna'se Spire (Heroic) Collection Quests
 - Census Credits
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Elevation of Chaos Stone]] this item is needed for the collection: [[Departed Deific Efforts]]
+- one of the following:
+  - [[Spiritual Crystalline Grand Sword]]
+  - [[Spiritual Crystalline Throwing Spikes]]

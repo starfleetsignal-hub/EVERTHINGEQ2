@@ -5,6 +5,16 @@ level: '80'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Golem Shards'
+zone: '[[Chardok]]'
+collection_type: Shiny
+pieces:
+- name: Clay Golem Shard
+  icon: images/Item_1122.png
+- name: Iron Golem Shard
+  icon: images/Item_1166.png
+- name: Jade Golem Shard
+  icon: images/Item_1181.png
+  note: ''
 categories:
 - Census Credits
 - Chardok Collection Quests
@@ -25,4 +35,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Bangle of Golem Shards]]
+  - [[Bracelet of Golem Shards]]

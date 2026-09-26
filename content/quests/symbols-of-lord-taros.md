@@ -5,6 +5,23 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Symbols of Lord Taros'
+zone: '[[Befallen: Cavern of the Afflicted]], [[Befallen: Halls of the Forsaken]], [[Befallen: Necrotic Asylum]]'
+collection_type: Shiny
+pieces:
+- name: Lord Taros' Symbol of Dauntless Will
+  icon: images/Item_389.png
+- name: Lord Taros' Symbol of Truth
+  icon: images/Item_388.png
+- name: Lord Taros' Symbol of the Intrepid
+  icon: images/Item_387.png
+- name: Lord Taros' Symbol of the Lionhearted
+  icon: images/Item_386.png
+- name: Lord Taros' Symbol of Valiant
+  icon: images/Item_390.png
+- name: Lord Taros' Symbol of the Heroic
+  icon: images/Item_391.png
+- name: Lord Taros' Symbol of the Gallant
+  icon: images/Item_390.png
 categories:
 - 'Befallen: Cavern of the Afflicted Collection Quests'
 - 'Befallen: Halls of the Forsaken Collection Quests'
@@ -27,4 +44,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Lord Taros' Battle Charm (CollectionReward)|Lord Taros' Battle Charm]]
+  - [[Lord Taros' Drafting Compass (CollectionReward)|Lord Taros' Drafting Compass]]

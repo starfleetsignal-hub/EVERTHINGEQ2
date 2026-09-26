@@ -2,6 +2,24 @@
 title: Blaze of Glory
 type: quest
 level: '130'
+pieces:
+- name: Ring of Fire
+  page: Ring of Fire (Collection Item)
+  icon: images/Item_5686.png
+- name: Great Ball of Fire
+  icon: images/Item_5695.png
+- name: Wheel of Fire
+  icon: images/Item_5189.png
+- name: Firework
+  icon: images/Item_5866.png
+- name: Burning Female Figurine
+  icon: images/Item_4831.png
+- name: Flaming Ethereal Effigy
+  icon: images/Item_5531.png
+- name: Unclaimed Fire Starter
+  icon: images/Item_5865.png
+- name: Dwelling Ashes
+  icon: images/Item_5773.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +38,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-
+## Rewards

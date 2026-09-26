@@ -5,6 +5,23 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Leaves: Feather Leaves'
+zone: '[[Tenebrous Tangle]]'
+collection_type: Shiny
+pieces:
+- name: blue feather leaf
+  icon: images/Item_2106.png
+- name: brown feather leaf
+  icon: images/Item_2109.png
+- name: green feather leaf
+  icon: images/Item_2105.png
+- name: purple feather leaf
+  icon: images/Item_2107.png
+- name: red feather leaf
+  icon: images/Item_2111.png
+- name: tan feather leaf
+  icon: images/Item_2108.png
+- name: yellow feather leaf
+  icon: images/Item_2110.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +42,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An aviak bath]]

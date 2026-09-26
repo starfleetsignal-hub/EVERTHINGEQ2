@@ -5,6 +5,36 @@ level: '20'
 added_in: Bristlebane Day
 events:
 - Bristlebane Day
+zone: '[[Antonica]], [[The Commonlands]], [[Enchanted Lands]], [[The City of Freeport]], [[Qeynos Province District]], [[Qeynos Capitol District]]'
+collection_type: Purple
+pieces:
+- name: Moldering Cabbage
+  icon: images/Item_819.png
+  note: (Antonica, Commonlands)
+- name: Rusty Jagged Crown
+  icon: images/Item_958.png
+  note: (Antonica, Commonlands)
+- name: Purple and Gold Pinwheel
+  icon: images/Item_4892.png
+  note: (Antonica, Commonlands)
+- name: Bent Golden Coin
+  icon: images/Item_1779.png
+  note: (Freeport, Qeynos)
+- name: Stinky Dead Fish
+  icon: images/Item_5956.png
+  note: (Freeport, Qeynos)
+- name: Red Minstrel Slipper
+  icon: images/Item_455.png
+  note: (Freeport, Qeynos)
+- name: Chewed Playing Card
+  icon: images/Item_5908.png
+  note: (Enchanted Lands)
+- name: Fresh-picked Jum Jum
+  icon: images/Item_816.png
+  note: (Enchanted Lands)
+- name: Dull Jester Bells
+  icon: images/Item_5924.png
+  note: (Enchanted Lands)
 categories:
 - Antonica Collection Quests
 - Bristlebane Day
@@ -31,3 +61,7 @@ source:
 
 These items can only be FOUND and COLLECTED on April 1<br>
 Completing this collection unlocks being able to purchase more of the reward item from Bristlebane merchant.
+
+## Rewards
+
+- [[Jocular Clownfish Cordon]]

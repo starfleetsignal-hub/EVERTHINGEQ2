@@ -4,6 +4,20 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Zimara Breadth]]'
+pieces:
+- name: Symbol of the Yazdani
+  icon: images/Item_1804.png
+- name: Emblem of the Yazdani
+  icon: images/Item_1803.png
+- name: Icon of the Yazdani
+  icon: images/Item_1804.png
+- name: Badge of the Yazdani
+  icon: images/Item_1801.png
+- name: Banner of the Yazdani
+  icon: images/Item_1802.png
+- name: Signet of the Yazdani
+  icon: images/Item_1801.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Ballads of Zimara Collection Quests
@@ -26,4 +40,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fractured Dragon Ruin Pedestal]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[Muddy Aviak Feather]] this item is needed for the collection: [[Feathers From the Aerie]]

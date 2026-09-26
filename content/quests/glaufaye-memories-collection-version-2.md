@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Glaufaye Memories
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+pieces:
+- name: Memory of Silfae
+  icon: images/Item_1962.png
+- name: Memory of Growth
+  icon: images/Item_1948.png
+- name: Memory of Arcanna'se
+  icon: images/Item_1985.png
+- name: Memory of Zou Kunnen
+  icon: images/Item_1943.png
+- name: Memory of Eternity
+  icon: images/Item_1953.png
+- name: Memory of Death
+  icon: images/Item_1956.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,6 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ring of Remembering]]

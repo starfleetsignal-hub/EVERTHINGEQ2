@@ -2,6 +2,29 @@
 title: Aniron's Journey
 type: quest
 level: '20'
+pieces:
+- name: Aniron's Journey - Page 5
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 7
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 10
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 13
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 15
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 16
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 18
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 21
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 22
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 23
+  icon: images/Item_185.png
+- name: Aniron's Journey - Page 24
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +44,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-
+## Rewards

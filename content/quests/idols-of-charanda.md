@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
+pieces:
+- name: Charanda's Idol of Blight
+  icon: images/Item_862.png
+- name: Charanda's Idol of Deception
+  icon: images/Item_860.png
+- name: Charanda's Idol of Power
+  icon: images/Item_861.png
+- name: Charanda's Idol of Poisoning
+  icon: images/Item_861.png
+- name: Charanda's Idol of Magic
+  icon: images/Item_860.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Lieutenant Hylel's Waistcoat]] this item is needed for the collection: [[Belongings of the Vanguard]]

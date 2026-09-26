@@ -3,6 +3,16 @@ title: Guide Doodads Series Five
 type: quest
 level: '50'
 added_in: LU56
+collection_type: Other
+pieces:
+- name: Yarlawion's Engineered Snapping Tulip
+  icon: images/Item_1952.png
+- name: Kaukumu's Ode to Cheese
+  icon: images/Item_2182.png
+- name: Mairliana's Chaos Rose
+  icon: images/Item_1946.png
+- name: Nimves' Wild Hydrangea
+  icon: images/Item_1978.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +32,8 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Cuirass of the Hold]] (blue)
+  - [[Chestguard of the Hold]] (pink)

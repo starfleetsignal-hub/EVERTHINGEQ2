@@ -3,6 +3,22 @@ title: Primis' Premire
 type: quest
 level: '110'
 added_in: LU111
+pieces:
+- name: Arkend's Bolt
+  icon: images/Item_1034.png
+  note: no-trade
+- name: Primis' Sigil
+  icon: images/Item_20.png
+- name: Primis' Wand
+  icon: images/Item_202.png
+- name: Primis' Boots
+  icon: images/Item_229.png
+- name: Primis' Pen
+  icon: images/Item_148.png
+- name: Primis' Symbol
+  icon: images/Item_1254.png
+- name: Primis' Cloak
+  icon: images/Item_237.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,3 +38,8 @@ source:
 ---
 
 Items spawn in Old Kael
+
+## Rewards
+
+- [[Custos' Oathstone]] this item is needed for the collection: [[The Might of Kael Drakkel]]
+- [[Premire Primer]]

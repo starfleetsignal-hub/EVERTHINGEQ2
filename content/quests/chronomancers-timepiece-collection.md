@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Chronomancer's Timepiece
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Chronomantic Abstracts
+  icon: images/Item_2690.png
+- name: Worn Annual Coin
+  icon: images/Item_1384.png
+- name: Toothed Hour Chain
+  icon: images/Item_3179.png
+- name: Moon-scarred Trinket
+  icon: images/Item_3166.png
+- name: Slow Finger Drum
+  icon: images/Item_367.png
+- name: Ash of Equinox
+  icon: images/Item_131.png
+  note: no-trade - (Reward from the quest [[Oh Ye, Of Riddle Faith]])
+- name: Symmetrical Mesh
+  icon: images/Item_3123.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Chronomancer's Timepiece (Collection Item)|Chronomancer's Timepiece]] this item is needed for the collection: [[Elements of Augury]]
+- [[Chronomancer's Time Ring]]

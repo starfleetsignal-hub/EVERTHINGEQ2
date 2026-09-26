@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Talisman of the Pather
+  icon: images/Item_1767.png
+- name: Talisman of the Patroller
+  icon: images/Item_1768.png
+- name: Talisman of the Ruffian
+  icon: images/Item_1769.png
+- name: Talisman of the Shiv
+  icon: images/Item_1770.png
+  note: no-trade
+- name: Talisman of the Gritwitch
+  icon: images/Item_1771.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,10 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Xorxx's Poked Out Eye]] this item is needed for the collection: [[Poked Out Boss Peepers]]
+- one of the following:
+  - [[Sandscrawler Patroller Shield]]
+  - [[Sandscrawler Pather Shield]]
+  - [[Gritwitches Symbol of Ruin]]

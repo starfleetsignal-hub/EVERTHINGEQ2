@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Horn of Spirits
 added_in: Reign of Shadows
+zone: '[[Shadeweaver''s Thicket: Loda Kai Isle (Solo)]]'
+pieces:
+- name: Cleaved Shadefiend Horn
+  icon: images/Item_97.png
+- name: Chalky Grave Dirt
+  icon: images/Item_342.png
+- name: Medallion of Spirits
+  icon: images/Item_1312.png
+- name: Filed Headstone Powder
+  icon: images/Item_181.png
+- name: Blood of Discourtesy
+  icon: images/Item_4881.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Horn of Spirits (Collection Item)|Horn of Spirits]] this item is needed for the collection: [[Depths of the Darkside]]
+- [[Horn of Spirits (Weapon)|Horn of Spirits]]

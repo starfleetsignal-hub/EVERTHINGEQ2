@@ -2,6 +2,19 @@
 title: Mudpaw Weapons
 type: quest
 level: '10'
+pieces:
+- name: Mudpaw Victory Club
+  icon: images/Item_5715.png
+- name: Mudpaw Battle-Worn Club
+  icon: images/Item_5715.png
+- name: Mudpaw Mud-Forged Club
+  icon: images/Item_5715.png
+- name: Mudpaw Adorned Club
+  icon: images/Item_5715.png
+- name: Mudpaw Chief's Club
+  icon: images/Item_5715.png
+- name: Mudpaw Shaman's Club
+  icon: images/Item_5715.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Ironclad Earthstrider (House Item)|Ironclad Earthstrider]]
+- [[Eerrie Talisman]] this item is needed for the collection: [[Underpaw Talisman]]

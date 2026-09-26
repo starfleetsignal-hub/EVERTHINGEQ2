@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Ipsumodon Spirit Totem
+  icon: images/Item_372.png
+- name: Apatodon Spirit Totem
+  icon: images/Item_372.png
+- name: Aragodon Spirit Totem
+  icon: images/Item_372.png
+- name: Pterodon Spirit Totem
+  icon: images/Item_372.png
+- name: Cerodon Spirit Totem
+  icon: images/Item_372.png
+- name: Stegodon Spirit Totem
+  icon: images/Item_372.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Draft Eel Plushie]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Merinep]] this item is needed for the collection: [[Shields of Tranquil Sea]]

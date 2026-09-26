@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Shar Vahl Garrison Blade
 added_in: Reign of Shadows
+zone: '[[Savage Weald]]'
+pieces:
+- name: Acrylia Steel Blade
+  icon: images/Item_205.png
+- name: Grimling Leather
+  icon: images/Item_138.png
+- name: Heavy Brass Hilt
+  icon: images/Item_1015.png
+- name: Owlbear Leather Straps
+  icon: images/Item_739.png
+- name: Essence of Valor
+  icon: images/Item_181.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shar Vahl Garrison Blade (Collection Item)|Shar Vahl Garrison Blade]] this item is needed for the collection: [[Relics of the Darkside]]
+- [[Shar Vahl Garrison Blade (Weapon)|Shar Vahl Garrison Blade]]

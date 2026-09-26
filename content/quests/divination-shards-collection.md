@@ -6,6 +6,19 @@ in_game_name: divination shards collection
 added_in: Shattered Lands
 aliases:
 - 'Shard: divination shards collection'
+zone: '[[-]]'
+pieces:
+- name: chipped shard of divination
+  icon: images/Item_183.png
+- name: scuffed shard of divination
+  icon: images/Item_183.png
+- name: pristine shard of divination
+  icon: images/Item_183.png
+- name: shiny shard of divination
+  icon: images/Item_183.png
+- name: glowing shard of divination
+  page: Glowing shard of divination (glowing shards collection)
+  icon: images/Item_183.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Pristine shards collection]]
   - [[Shiny shards collection]]
   - [[Glowing shards collection]]
+
+## Rewards
+
+- [[Gathered Orb of Divination]] this item is needed for the collection: [[Arcane Orbs collection]]

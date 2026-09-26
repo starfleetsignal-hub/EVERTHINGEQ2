@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Master Assassin Armor
 added_in: Reign of Shadows
+pieces:
+- name: Deadly Links
+  icon: images/Item_2400.png
+- name: Bile Soaked Wire
+  icon: images/Item_1111.png
+- name: Necrotic Backing
+  icon: images/Item_745.png
+- name: Shadowed Woven Mesh
+  icon: images/Item_1096.png
+- name: Base of Assassination
+  icon: images/Item_1289.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Master Assassin Armor (Chest)|Master Assassin Armor]]
+- [[Master Assassin Armor (Collection Item)|Master Assassin Armor]] this item is needed for the collection: [[Dangers of the Darkside]]

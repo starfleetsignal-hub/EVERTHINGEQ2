@@ -5,6 +5,33 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Moors of Ykesha]]'
+collection_type: Year of Discovery
+pieces:
+- name: Najena's Magical Beaker
+  page: Najena's Magical Beaker (Fabled Najena's Lab Equipment)
+  icon: images/Item_313.png
+- name: Najena's Fireproof Flask
+  page: Najena's Fireproof Flask (Fabled Najena's Lab Equipment)
+  icon: images/Item_180.png
+- name: Najena's Adamantine Calipers
+  page: Najena's Adamantine Calipers (Fabled Najena's Lab Equipment)
+  icon: images/Item_1013.png
+- name: Najena's Never-Extinguishing Burner
+  page: Najena's Never-Extinguishing Burner (Fabled Najena's Lab Equipment)
+  icon: images/Item_1082.png
+- name: Najena's Titanium Tongs
+  page: Najena's Titanium Tongs (Fabled Najena's Lab Equipment)
+  icon: images/Item_32.png
+- name: Najena's Clamp of Doom
+  page: Najena's Clamp of Doom (Fabled Najena's Lab Equipment)
+  icon: images/Item_705.png
+- name: Najena's Testy Test-Tube
+  page: Najena's Testy Test-Tube (Fabled Najena's Lab Equipment)
+  icon: images/Item_2800.png
+- name: Najena's Un-melt-able Crucible
+  page: Najena's Un-melt-able Crucible (Fabled Najena's Lab Equipment)
+  icon: images/Item_982.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +53,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

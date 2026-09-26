@@ -3,6 +3,23 @@ title: Jonenry's Junk
 type: quest
 level: '110'
 added_in: LU111
+zone: '[[Fabled Kael Drakkel]]'
+pieces:
+- name: Jonenry's Strike
+  icon: images/Item_195.png
+  note: no-trade
+- name: Faber's Hammer
+  icon: images/Item_33.png
+- name: Faber's Tongs
+  icon: images/Item_32.png
+- name: Faber's Anvil
+  icon: images/Item_2286.png
+- name: Faber's Forge
+  icon: images/Item_2355.png
+- name: Faber's Bucket
+  icon: images/Item_2285.png
+- name: Faber's Gloves
+  icon: images/Item_226.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,3 +39,8 @@ source:
 ---
 
 Items spawn in New Kael.
+
+## Rewards
+
+- [[Jonenry's Junk Leggings]]
+- [[Duplicar's Oathstone]] this item is needed for the collection: [[The Might of Kael Drakkel]]

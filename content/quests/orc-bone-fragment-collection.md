@@ -6,6 +6,19 @@ in_game_name: orc bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: orc bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered orc bone fragment
+  icon: images/Item_322.png
+- name: cracked orc bone fragment
+  page: Cracked orc bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered orc bone fragment
+  icon: images/Item_322.png
+- name: unscathed orc bone fragment
+  icon: images/Item_322.png
+- name: enchanted orc bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -32,3 +45,7 @@ expansion_source: patch
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
 - 7/23/16 Best place to find the shattered, cracked, and weathered orc bone is in the Wailing Caves in the Commonlands. Found multiples of each while doing the Beetle Collections found there.
+
+## Rewards
+
+- [[Petrified Orc Eye]]

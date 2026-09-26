@@ -6,6 +6,17 @@ in_game_name: spotted moth collection
 added_in: Shattered Lands
 aliases:
 - 'Moth: spotted moth collection'
+zone: '[[The Graveyard]], [[The Ruins]], [[Sunken City]], [[The Sprawl]]'
+collection_type: Shiny
+pieces:
+- name: spotted brown moth
+  icon: images/Item_1903.png
+- name: spotted white moth
+  icon: images/Item_1901.png
+- name: spotted black moth
+  icon: images/Item_1900.png
+- name: spotted tan moth
+  icon: images/Item_1902.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +40,7 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- At least 34c
+- [[Box of spotted moths]] this item is needed for the collection: [[Moth collection]]

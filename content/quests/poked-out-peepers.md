@@ -5,6 +5,31 @@ level: '82'
 added_in: LU46
 aliases:
 - 'Runnyeye: The Gathering: Poked Out Peepers'
+zone: '[[Runnyeye: The Gathering]]'
+collection_type: Shiny
+pieces:
+- name: Poked Out Halfling Peeper
+  icon: images/Item_83.png
+- name: Poked Out Human Peeper
+  icon: images/Item_83.png
+- name: Poked Out Orc Peeper
+  icon: images/Item_83.png
+- name: Poked Out Minotaur Peeper
+  icon: images/Item_83.png
+- name: Poked Out Gnome Peeper
+  icon: images/Item_83.png
+- name: Poked Out Wood Elf Peeper
+  icon: images/Item_83.png
+- name: Poked Out Half Elf Peeper
+  icon: images/Item_83.png
+- name: Poked Out Blue Peeper
+  icon: images/Item_83.png
+- name: Poked Out Green Peeper
+  icon: images/Item_83.png
+- name: Poked Out Brown Peeper
+  icon: images/Item_83.png
+- name: Poked Out Barbarian Peeper
+  icon: images/Item_83.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +50,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Boombottom Belt (Level 77)|Boombottom Belt]]
+  - [[Snok's Shiny]]

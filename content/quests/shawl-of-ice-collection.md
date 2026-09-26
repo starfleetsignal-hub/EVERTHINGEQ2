@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Shawl of Ice
 added_in: Reign of Shadows
+pieces:
+- name: Finely Woven Cloth
+  icon: images/Item_741.png
+- name: Acrylia Etched Needle
+  icon: images/Item_202.png
+- name: Waters of Honor
+  icon: images/Item_4883.png
+- name: Song of Woven Time
+  icon: images/Item_75.png
+- name: Principle of Frost
+  icon: images/Item_2518.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shawl of Ice (Cloak)|Shawl of Ice]]
+- [[Shawl of Ice (Collection Item)|Shawl of Ice]] this item is needed for the collection: [[Depths of the Darkside]]

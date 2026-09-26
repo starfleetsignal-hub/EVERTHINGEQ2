@@ -3,6 +3,19 @@ title: Residuals
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Residual Energy
+  icon: images/Item_5686.png
+- name: Residual Spirit
+  icon: images/Item_5686.png
+- name: Residual Potential
+  icon: images/Item_5686.png
+- name: Residual Potency
+  icon: images/Item_5686.png
+- name: Residual Force
+  icon: images/Item_5686.png
+- name: Residual Magic
+  icon: images/Item_5686.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Emanation of Beryl Gas]] this item is needed for the collection: [[Emanations]]

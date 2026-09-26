@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Necklace of Wishes
 added_in: Reign of Shadows
+zone: '[[Shadeweaver''s Thicket: Untamed Lands (Solo)]]'
+pieces:
+- name: Worked Silver Chain
+  icon: images/Item_983.png
+- name: Fractured Opaline
+  icon: images/Item_1135.png
+- name: Scrawled Children's Notes
+  icon: images/Item_185.png
+- name: Salt Encrusted Bottle
+  icon: images/Item_1217.png
+- name: Constitution of Yearning
+  icon: images/Item_1182.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Necklace of Wishes (Neck)|Necklace of Wishes]]
+- [[Necklace of Wishes (Collection Item)|Necklace of Wishes]] this item is needed for the collection: [[Depths of the Darkside]]

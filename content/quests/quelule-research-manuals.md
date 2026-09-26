@@ -5,6 +5,16 @@ level: '90'
 added_in: Sentinel's Fate
 aliases:
 - Quel'Ule Research Manuals
+zone: '[[The Stonebrunt Highlands]]'
+pieces:
+- name: partially blank Quel'ule research manual
+  icon: images/Item_717.png
+- name: partially illegible Quel'ule research manual
+  icon: images/Item_718.png
+- name: partially incomprehensible Quel'ule research manual
+  icon: images/Item_718.png
+- name: partially undecipherable Quel'ule research manual
+  icon: images/Item_718.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +36,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sabatons of the Elemental Warrior]]
+- [[Kaborite Crystal: Quel'ule]] this item is needed for the collection: [[Stonebrunt Highlands: Kaborite Crystals]]

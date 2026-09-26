@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Deino Signs
 added_in: Visions of Vetrovia
+zone: '[[Karuupa Jungle]]'
+pieces:
+- name: Empty Deino Nest
+  icon: images/Item_2684.png
+- name: Huge Deino Feathers
+  icon: images/Item_2819.png
+- name: Deino Tooth
+  icon: images/Item_1767.png
+- name: Broken Tail-Spike
+  icon: images/Item_1219.png
+- name: Giant Broken Eggshell
+  icon: images/Item_2784.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Deino Signs (Item)|Deino Signs]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]
+- one of the following:
+  - [[Found Furious Gauntlets]]
+  - [[Found Furious Mitts]]
+  - [[Found Furious Gloves]]
+  - [[Found Furious Plate Gloves]]

@@ -5,6 +5,21 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Naiad Grotto]]'
+collection_type: Purple
+pieces:
+- name: pink naiad scale
+  icon: images/Item_2816.png
+- name: orange naiad scale
+  icon: images/Item_2814.png
+- name: yellow naiad scale
+  icon: images/Item_2815.png
+- name: green naiad scale
+  icon: images/Item_2809.png
+- name: blue naiad scale
+  icon: images/Item_2808.png
+- name: purple naiad scale
+  icon: images/Item_2810.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,9 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Naiad Guardian Plushie]]
+  - [[Naiad Elder Plushie]]
+  - [[Naiad Waterworker Plushie]]

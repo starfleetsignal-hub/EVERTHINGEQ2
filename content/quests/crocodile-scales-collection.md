@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Scales: Crocodile Scales'
+zone: '[[The Sinking Sands]]'
+collection_type: Shiny
+pieces:
+- name: broken crocodile scale
+  icon: images/Item_2007.png
+- name: decaying crocodile scale
+  icon: images/Item_2007.png
+- name: pristine crocodile scale
+  icon: images/Item_2007.png
+- name: shining crocodile scale
+  icon: images/Item_2007.png
+- name: tarnished crocodile scale
+  icon: images/Item_2007.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Caiman Scale Boots]]
+  - [[Scale Crested Tonlets]]

@@ -3,6 +3,20 @@ title: Rawmaw Leftovers
 type: quest
 level: '130'
 added_in: LU128
+pieces:
+- name: Leftover Hand
+  icon: images/Item_5754.png
+- name: Leftover Leg
+  icon: images/Item_5754.png
+- name: Leftover Foot
+  icon: images/Item_5754.png
+- name: Leftover Finger
+  icon: images/Item_5754.png
+- name: Leftover Toe
+  icon: images/Item_5754.png
+- name: Leftover Arm
+  icon: images/Item_5754.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 10x  [[Velium Drachma]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Vegurd's Captains Bars]] this item is needed for the collection: [[Spiral of Vul]]

@@ -4,6 +4,23 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+collection_type: Collection items
+pieces:
+- name: Faded Freethinker Document
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Bloodcovet Daggers]])
+- name: Folded Freethinker Document
+  icon: images/Item_185.png
+  note: (Reward from the collection [[D'Morte Sigils]])
+- name: Torn Freethinker Document
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Drained Power Cells]])
+- name: Singed Freethinker Document
+  icon: images/Item_185.png
+  note: (Reward from the collection [[D'Vinnian Clasps]])
+- name: Pristine Freethinker Document
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Trueborn Shields]])
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +40,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 2x [[Far Seas Ferrin]]
+- [[Ancient Loping Plains Map]] this item is needed for the collection: [[Echoes of Faydwer Maps]]

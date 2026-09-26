@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: War Drums of the Rathe
 added_in: Chaos Descending
+zone: '[[Vegarlson: Ruins of Rathe (Solo)]]'
+pieces:
+- name: Earth Drums
+  icon: images/Item_367.png
+- name: Hymn of Resonance
+  icon: images/Item_75.png
+- name: Stamp of Chants
+  icon: images/Item_1750.png
+- name: Ink of Composition
+  icon: images/Item_3057.png
+- name: Signet of Bards
+  icon: images/Item_1369.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +37,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[War Drums of the Rathe (Charm)|War Drums of the Rathe]]
+- [[War Drums of the Rathe (Collection Item)|War Drums of the Rathe]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]

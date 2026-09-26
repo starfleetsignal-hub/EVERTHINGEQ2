@@ -3,6 +3,17 @@ title: Petrified Badlands Creature Remnants
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[The Sundered Frontier]]'
+collection_type: Shiny
+pieces:
+- name: petrified stonevine bark
+  icon: images/Item_828.png
+- name: petrified fossilfang fang
+  icon: images/Item_167.png
+- name: petrified cackler jawbone
+  icon: images/Item_2529.png
+- name: boulder dasher boulder
+  icon: images/Item_1164.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +36,8 @@ expansion_source: patch
 ---
 
 - Spawn areas: [[The Petrified Badlands]]
+
+## Rewards
+
+- [[A Toxxulian guardian]]
+- [[Kaborite Crystal: Remnants]] this item is needed for the collection: [[Sundered Frontier: Kaborite Crystals]]

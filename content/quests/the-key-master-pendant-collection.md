@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: The Key Master Pendant
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Torden, Bastion of Thunder: Storm Chase (Duo)]], [[Torden, Bastion of Thunder: Tower Breach (Solo)]], [[Torden, Bastion of Thunder: Winds of Change (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Stormchaser's Pendants
+  icon: images/Item_963.png
+- name: Electric Thunderstorm Pendant
+  icon: images/Item_962.png
+- name: Frozen Blizzard Pendant
+  icon: images/Item_964.png
+- name: Ephemeral Cloud Pendant
+  icon: images/Item_962.png
+- name: Arenaceous Sandstorm Pendant
+  icon: images/Item_964.png
+- name: Obsidian Stormrider Pendant
+  icon: images/Item_962.png
+- name: Expansive Sky Pendant
+  icon: images/Item_963.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -30,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Key Master Pendant (Item)|The Key Master Pendant]] this item is needed for the collection: [[Planar Storm Flux (Collection)|Planar Storm Flux]]
+- [[The Key Master's Dagger]]

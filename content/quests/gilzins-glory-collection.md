@@ -4,6 +4,21 @@ type: quest
 level: '100'
 in_game_name: Gilzin's Glory
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+collection_type: Blue
+pieces:
+- name: Gilzin's Glory Page 1
+  icon: images/Item_185.png
+- name: Gilzin's Glory Page 2
+  icon: images/Item_185.png
+- name: Gilzin's Glory Page 6
+  icon: images/Item_185.png
+- name: Gilzin's Glory Page 3
+  icon: images/Item_185.png
+- name: Gilzin's Glory Page 5
+  icon: images/Item_185.png
+- name: Gilzin's Glory Page 4
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +43,12 @@ expansion_source: patch
 Collection members can be found around [[Bluefist Battlefield]].
 
 This collection unlocks the [[Gilzin's Glory (Achievement)]] achievement
+
+## Rewards
+
+- [[Gilzin's Glory (Item)|Gilzin's Glory]]
+- one of the following:
+  - [[Aphotic Linked Coif]] -- *(chain)*
+  - [[Aphotic Stitched Hood]] -- *(cloth)*
+  - [[Aphotic Tanned Cap]] -- *(leather)*
+  - [[Aphotic Polished Helm]] -- *(plate)*

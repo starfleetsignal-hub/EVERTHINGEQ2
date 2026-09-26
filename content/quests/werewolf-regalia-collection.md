@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Werewolf Regalia
 added_in: Visions of Vetrovia
+pieces:
+- name: Crude Iron Wolf Mask
+  icon: images/Item_1220.png
+- name: Silver Wolf Mask
+  icon: images/Item_1221.png
+- name: Intricate Platinum Wolf Mask
+  icon: images/Item_1222.png
+- name: Gemmed Werewolf Breastplate
+  icon: images/Item_2435.png
+- name: Embroidered Werewolf Robe
+  icon: images/Item_2444.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Werewolf Regalia (Item)|Werewolf Regalia]] this item is needed for the collection: [[More Sights and Sounds]]
+- one of the following:
+  - [[Accumulated Mystical Chain Pants]]
+  - [[Accumulated Mystical Woven Leggings]]
+  - [[Accumulated Mystical Leather Pants]]
+  - [[Accumulated Mystical Legplates]]

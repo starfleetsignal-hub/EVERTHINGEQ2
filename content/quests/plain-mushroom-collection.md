@@ -6,6 +6,21 @@ in_game_name: plain mushroom collection
 added_in: Bloodline Chronicles
 aliases:
 - 'Mushroom: plain mushroom collection'
+zone: '[[The Crypt of T''haen]], [[Tombs of Night]]'
+collection_type: Shiny
+pieces:
+- name: rotten plain mushroom
+  icon: images/Item_821.png
+- name: dried plain mushroom
+  icon: images/Item_821.png
+- name: small plain mushroom
+  icon: images/Item_821.png
+- name: broken plain mushroom
+  icon: images/Item_821.png
+- name: large plain mushroom
+  icon: images/Item_821.png
+- name: delectable plain mushroom
+  icon: images/Item_821.png
 categories:
 - Bloodline Chronicles Collection Quests
 - Census Credits
@@ -25,4 +40,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A mushroom circlet]]

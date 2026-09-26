@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: The Spills of Battle
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+pieces:
+- name: Spilled Aberrant Blood
+  icon: images/Item_326.png
+- name: Spilled Dhalgar Blood
+  icon: images/Item_323.png
+- name: Spilled Gnemlin Blood
+  icon: images/Item_356.png
+- name: Spilled Dhalgar Ale
+  icon: images/Item_308.png
+- name: Spilled Soul Bleeder Blood
+  icon: images/Item_180.png
+- name: Spilled Aberrant Mucus
+  icon: images/Item_355.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +41,8 @@ expansion_source: patch
 ---
 
 The collectibles for this quest can be found in the outdoor zone "Thalumbra, the Ever Deep", commonly around the area identified on the map as [[Stoneheart Yards]]
+
+## Rewards
+
+- [[Stained Banner of Thalumbra]] for the [[Banners of Thalumbra]] collection
+- [[Bloodsoaked Stud]]

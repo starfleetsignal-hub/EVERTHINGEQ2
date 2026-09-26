@@ -5,6 +5,19 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Brownie Grotto]]'
+collection_type: Purple
+pieces:
+- name: coarse tree bark
+  icon: images/Item_835.png
+- name: rough tree bark
+  icon: images/Item_833.png
+- name: smooth tree bark
+  icon: images/Item_834.png
+- name: splintered tree bark
+  icon: images/Item_829.png
+- name: striated tree bark
+  icon: images/Item_827.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fresh Water Tree Stump]]

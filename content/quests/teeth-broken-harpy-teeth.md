@@ -3,6 +3,15 @@ title: 'Teeth: Broken Harpy Teeth'
 type: quest
 added_in: Rise of Kunark
 removed_from_game: This collection has been removed from the game
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: large broken harpy incisor
+- name: large broken harpy molar
+- name: medium broken harpy incisor
+- name: medium broken harpy molar
+- name: small broken harpy incisor
+- name: small broken harpy molar
 categories:
 - Collection Quests
 - Collections needing rewardtype
@@ -22,3 +31,7 @@ expansion_source: patch
 ---
 
 - Believed to have been a Burynai collection then removed in [[LU51|GU51]].
+
+## Rewards
+
+- Unknown, impossible to confirm

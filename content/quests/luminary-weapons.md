@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Sanctus Seru: Arx Aeturnus (Solo)]], [[Sanctus Seru: Echelon of Divinity (Solo)]], [[Sanctus Seru: Echelon of Order (Solo)]]'
+pieces:
+- name: Luminary Ranger's Bow
+  icon: images/Item_2972.png
+- name: Luminary Sorcerer's Staff
+  icon: images/Item_2960.png
+- name: Luminary Paladin's Mace
+  icon: images/Item_2958.png
+- name: Luminary Cleric's Club
+  icon: images/Item_2959.png
+- name: Luminary Paladin's Shield
+  icon: images/Item_2272.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -27,4 +39,11 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Steadfast]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]
+- one of the following:
+  - [[Gilded Luminary's Greatstaff]]
+  - [[Gilded Luminary's Greatglaive]]
+  - [[Gilded Luminary's Crossbow]]
+  - [[Gilded Luminary's Knife Belt]]

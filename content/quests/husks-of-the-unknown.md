@@ -3,6 +3,19 @@ title: Husks of the Unknown
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Voidspawn Husk
+  icon: images/Item_5734.png
+- name: Blodcoil Husk
+  icon: images/Item_5734.png
+- name: Voidspine Husk
+  icon: images/Item_5734.png
+- name: Umbrith Husk
+  icon: images/Item_5734.png
+- name: Gorehusk Husk
+  icon: images/Item_5734.png
+- name: Siphonfright Husk
+  icon: images/Item_5734.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Petamorph Wand: Sacrificial Oozer]]
+- [[Fragment of Collected Void]]
+- [[Umbrith Gore]] this item is needed for the collection: [[Tub of Fetid Gore (Collection)|Tub of Fetid Gore]]

@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Bobble by Water
+  icon: images/Item_1203.png
+- name: Hodstock Rock
+  icon: images/Item_1201.png
+- name: Temby's Sand
+  icon: images/Item_345.png
+- name: Fayspires's Flower
+  icon: images/Item_1956.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,9 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Stable Boy's Belt]] this item is needed for the collection: [[Tunaria's Adventure]]
+- [[Vesspyr Scout's Green Boots]]
+- [[Thexian War Blade]]

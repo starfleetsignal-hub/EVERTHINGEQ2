@@ -4,6 +4,22 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Gerion: Realm of Conquest (Untold Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Ritual of Seduction
+  icon: images/Item_4609.png
+- name: Ritual of Rupture
+  icon: images/Item_4609.png
+- name: Ritual of Lust
+  icon: images/Item_4609.png
+- name: Ritual of Attraction
+  icon: images/Item_4609.png
+- name: Ritual of Cruor
+  icon: images/Item_4609.png
+- name: Ritual of Hubris
+  icon: images/Item_4609.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +45,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Voidmetal Plates]]
+- [[Fragment of Collected Void]]
+- [[Case of Untold Riches]] this item is needed for the collection: [[Untold Riches (Collection)|Untold Riches]]

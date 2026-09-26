@@ -5,6 +5,19 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Dryad Grotto]]'
+collection_type: Purple
+pieces:
+- name: bluebell bulb
+  icon: images/Item_750.png
+- name: buttercup bulb
+  icon: images/Item_747.png
+- name: calla lily bulb
+  icon: images/Item_746.png
+- name: crocus bulb
+  icon: images/Item_748.png
+- name: hyacinth bulb
+  icon: images/Item_749.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Airspirit Plushie]]

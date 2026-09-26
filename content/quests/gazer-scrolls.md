@@ -4,6 +4,20 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Oogothl Sprawl]]'
+pieces:
+- name: Preserver Scroll
+  icon: images/Item_2708.png
+- name: Treasurer Scroll
+  icon: images/Item_2708.png
+- name: Warden Scroll
+  icon: images/Item_2708.png
+- name: Vanguard Scroll
+  icon: images/Item_2708.png
+- name: Watcher Scroll
+  icon: images/Item_2708.png
+- name: Watcheye Scroll
+  icon: images/Item_2708.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Nullblink Watcheye Plushie]]
+- [[Fragment of Collected Void]]
+- [[Runt Ichor]] this item is needed for the collection: [[Jar of Darkened Ichor (Collection)|Jar of Darkened Ichor]]

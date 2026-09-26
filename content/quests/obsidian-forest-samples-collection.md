@@ -5,6 +5,21 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Obsidian Forest Samples
 added_in: Terrors of Thalumbra
+zone: '[[Stygian Threshold (Heroic)]]'
+pieces:
+- name: Petrified Splinter
+  icon: images/Item_2123.png
+- name: Petrified Leaf
+  page: Petrified Leaf (Obsidian Forest Samples)
+  icon: images/Item_2095.png
+- name: Petrified Twig
+  icon: images/Item_864.png
+- name: Petrified Root
+  icon: images/Item_200.png
+- name: Petrified Bark Fragment
+  icon: images/Item_834.png
+- name: Petrified Stem
+  icon: images/Item_875.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +42,11 @@ expansion_source: patch
 ---
 
 This collection unlocks the [[Obsidian Forest Samples (Achievement)]] achievement
+
+## Rewards
+
+- [[Petrified Keepsake]]
+- one of the following:
+  - [[Gilded Intrusive Etched Hammer]]
+  - [[Gilded Intrusive Etched Dagger]]
+  - [[Gilded Intrusive Etched Sword]]

@@ -6,6 +6,33 @@ in_game_name: The Nights of the Dead
 added_in: Desert of Flames
 events:
 - Nights of the Dead
+zone: '[[Maj''Dul]], [[The Sinking Sands]]'
+collection_type: Pages
+pieces:
+- name: 'All collection members are from both harvestable pages and corpse drops except as noted below:'
+- name: The Nights of the Dead - Page 6
+  icon: images/Item_185.png
+  note: Harvestable page only
+- name: The Nights of the Dead - Page 8
+  icon: images/Item_185.png
+  note: Clickable vase at {{waypoint -204, 148, 64}}
+- name: The Nights of the Dead - Page 10
+  icon: images/Item_185.png
+  note: Clickable basket at {{waypoint -69, 150, -128}}
+- name: The Nights of the Dead - Page 11
+  icon: images/Item_185.png
+- name: The Nights of the Dead - Page 13
+  icon: images/Item_185.png
+  note: Clickable basket at {{waypoint -157, 138, 152}}
+- name: The Nights of the Dead - Page 15
+  icon: images/Item_185.png
+  note: Clickable basket at {{waypoint -189, 139, 156}}
+- name: The Nights of the Dead - Page 16
+  icon: images/Item_185.png
+- name: The Nights of the Dead - Page 17
+  icon: images/Item_185.png
+- name: The Nights of the Dead - Page 18
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +55,6 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Nights of the Dead (Item)|The Nights of the Dead]]

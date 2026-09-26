@@ -3,6 +3,26 @@ title: Conjurations of Being (Collection)
 type: quest
 level: '50'
 in_game_name: Conjurations of Being
+zone: '[[The Feerrott]]'
+pieces:
+- name: Conjuration of Vexation
+  icon: images/Item_4678.png
+  note: no-trade
+- name: Conjuration of Vehemence
+  icon: images/Item_4678.png
+  note: no-trade
+- name: Conjuration of Sacrifice
+  icon: images/Item_4678.png
+  note: no-trade
+- name: Conjuration of Reconstruction
+  icon: images/Item_4678.png
+  note: no-trade
+- name: Conjuration of Essence
+  icon: images/Item_4678.png
+  note: no-trade
+- name: Conjuration of Defense
+  icon: images/Item_4678.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +40,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+Located just through the tunnel from the dock on both sides of the main road.
+
+- [[Conjurations of Being (Item)|Conjurations of Being]] this item is needed for the collection: [[Assemblage of Magics]]

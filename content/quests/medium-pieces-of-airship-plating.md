@@ -5,6 +5,19 @@ level: '65'
 added_in: Kingdom of Sky
 aliases:
 - 'Plating: Medium Pieces of Airship Plating'
+zone: '[[The Barren Sky]]'
+collection_type: Shiny
+pieces:
+- name: medium dusky piece of airship plating
+  icon: images/Item_734.png
+- name: medium pristine piece of airship plating
+  icon: images/Item_735.png
+- name: medium shining piece of airship plating
+  icon: images/Item_731.png
+- name: medium weathered piece of airship plating
+  icon: images/Item_733.png
+- name: medium worn piece of airship plating
+  icon: images/Item_732.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,9 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Eye-piece of Gaz]]
+  - [[Pethiszi's Smithy Gloves]]
+  - [[Findingle's Destructive Needle]]

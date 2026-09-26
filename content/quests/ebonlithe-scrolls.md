@@ -3,6 +3,19 @@ title: Ebonlithe Scrolls
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Ebonlithe Scroll of Hunger
+  icon: images/Item_2708.png
+- name: Ebonlithe Scroll of Fervor
+  icon: images/Item_2708.png
+- name: Ebonlithe Scroll of Salacity
+  icon: images/Item_2708.png
+- name: Ebonlithe Scroll of Yearning
+  icon: images/Item_2708.png
+- name: Ebonlithe Scroll of Rapture
+  icon: images/Item_2708.png
+- name: Ebonlithe Scroll of Daring
+  icon: images/Item_2708.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ebonlithe Temptress Plushie]]
+- [[Fragment of Collected Void]]
+- [[Voityugh Gore]] this item is needed for the collection: [[Tub of Fetid Gore (Collection)|Tub of Fetid Gore]]

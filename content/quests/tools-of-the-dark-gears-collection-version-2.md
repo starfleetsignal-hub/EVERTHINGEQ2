@@ -3,6 +3,27 @@ title: Tools of the Dark Gears (Collection) (Version 2)
 type: quest
 level: '100'
 in_game_name: Tools of the Dark Gears
+pieces:
+- name: Gnemlin Gravemaster's Symbol
+  icon: images/Item_2243.png
+- name: Gnemlin Nightcaller's Wand
+  icon: images/Item_620.png
+- name: Gnemlin Lichbringer's Dagger
+  icon: images/Item_2367.png
+- name: Gnemlin Bonecaster's Tome
+  icon: images/Item_3147.png
+- name: Gnemlin Deathknight's Blade
+  icon: images/Item_2973.png
+- name: Gnemlin Lichbringer's Signet
+  icon: images/Item_606.png
+- name: Gnemlin Deathknight's Fetish
+  icon: images/Item_142.png
+- name: Gnemlin Bonecaster's Robe
+  icon: images/Item_280.png
+- name: Gnemlin Gravemaster's Shovel
+  icon: images/Item_1218.png
+- name: Gnemlin Nightcaller's Idol
+  icon: images/Item_372.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +41,10 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Aphotic Linked Shoulders]]
+  - [[Aphotic Stitched Shroud]]
+  - [[Aphotic Tanned Shoulders]]
+  - [[Aphotic Polished Spaulders]]

@@ -3,6 +3,19 @@ title: Infernal Shards
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Shards of Marrow
+  icon: images/Item_5727.png
+- name: Shards of Bone
+  icon: images/Item_5727.png
+- name: Shards of Fang
+  icon: images/Item_5727.png
+- name: Shards of Horn
+  icon: images/Item_5727.png
+- name: Shards of Claw
+  icon: images/Item_5727.png
+- name: Shards of Spine
+  icon: images/Item_5727.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Riftcloth Hood]]
+- [[Fragment of Collected Void]]
+- [[Bloomstalker Gore]] this item is needed for the collection: [[Tub of Fetid Gore (Collection)|Tub of Fetid Gore]]
