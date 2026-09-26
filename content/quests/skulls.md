@@ -11,6 +11,22 @@ aliases:
 - 'Mistmoore Catacombs: Skulls'
 - Pristine Skull
 - Worn Skull
+zone: '[[Mistmoore Catacombs]]'
+collection_type: Hidden
+pieces:
+- name: bloody skull
+  icon: images/Item_91.png
+- name: chipped skull
+  icon: images/Item_91.png
+- name: cracked skull
+  page: Cracked skull (Level 55)
+  icon: images/Item_91.png
+- name: decayed skull
+  icon: images/Item_91.png
+- name: pristine skull
+  icon: images/Item_91.png
+- name: worn skull
+  icon: images/Item_91.png
 categories:
 - Census Credits
 - Collection Quests
@@ -34,4 +50,9 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Mistmoore Piano Bench]]
+- one of the following:
+  - [[Eye Socket Bangle (Version 2)|Eye Socket Bangle]]
+  - [[Eye Socket Circlet (Version 2)|Eye Socket Circlet]]

@@ -6,6 +6,29 @@ added_in: The Shadow Odyssey
 aliases:
 - Possessions of Gynok Moltar
 - 'Shadow Odyssey: Possessions of Gynok Moltar'
+zone: '[[Befallen: Cavern of the Afflicted]], [[Befallen: Halls of the Forsaken]], [[Befallen: Necrotic Asylum]]'
+collection_type: Hidden
+pieces:
+- name: Gynok Moltor's Gambesons
+  icon: images/Item_166.png
+- name: Gynok Moltor's Quintain
+  icon: images/Item_652.png
+- name: Gynok Moltor's Palliass
+  icon: images/Item_1096.png
+- name: Gynok Moltor's Spurs
+  icon: images/Item_1040.png
+- name: Gynok Moltor's Visor
+  icon: images/Item_1709.png
+- name: Gynok Moltor's Dagger
+  icon: images/Item_1664.png
+- name: Gynok Moltor's Riding Belt
+  icon: images/Item_737.png
+- name: Gynok Moltor's Crested Ring
+  icon: images/Item_592.png
+- name: Gynok Moltor's Broken Shield
+  icon: images/Item_853.png
+- name: Gynok Moltor's Gilded Cup
+  icon: images/Item_942.png
 categories:
 - 'Befallen: Cavern of the Afflicted Collection Quests'
 - 'Befallen: Halls of the Forsaken Collection Quests'
@@ -30,4 +53,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Cloak of the Bonegrinder]]
+  - [[Cloak of the Dread Exarch]]

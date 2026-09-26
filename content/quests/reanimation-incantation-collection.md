@@ -4,6 +4,21 @@ type: quest
 level: '100'
 in_game_name: Reanimation Incantation
 added_in: Kunark Ascending
+zone: '[[Crypt of Dalnir: Baron''s Workshop (Heroic)]], [[Crypt of Dalnir: Ritual Chamber (Heroic)]], [[Kaesora: Xalgozian Stronghold (Heroic)]]'
+collection_type: Purple
+pieces:
+- name: 'Spell Scroll: Spectral Monument'
+  icon: images/Item_185.png
+  note: no-trade - (Reward from the collection [[Debilitated Headstone Shards]])
+- name: 'Spell Scroll: Rattling Earth'
+  icon: images/Item_185.png
+  note: no-trade - (Reward from the collection [[Graveyard Soil Samples]])
+- name: 'Spell Scroll: Restore Flesh'
+  icon: images/Item_185.png
+  note: 'no-trade - in [[Crypt of Dalnir: Ritual Chamber (Heroic)]] around {{waypoint 0, -38, -390}}'
+- name: 'Spell Scroll: Breath Life'
+  icon: images/Item_185.png
+  note: 'no-trade - [[Kaesora: Xalgozian Stronghold (Heroic)]] where the 2nd named is (only spawns after 1st named is killed)'
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +42,7 @@ expansion_source: patch
 ---
 
 Only one collection item will spawn per locked instance.
+
+## Rewards
+
+- [[Reanimation Incantation (Item)|Reanimation Incantation]]

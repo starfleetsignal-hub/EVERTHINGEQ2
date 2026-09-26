@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Kylong Plains]]'
+collection_type: Year of Discovery
+pieces:
+- name: a symbol of the Jarsath
+  page: A symbol of the Jarsath (Fabled Sebilisian Symbols)
+  icon: images/Item_2614.png
+- name: a symbol of the Kunzar
+  page: A symbol of the Kunzar (Fabled Sebilisian Symbols)
+  icon: images/Item_2615.png
+- name: a symbol of the Kylong
+  page: A symbol of the Kylong (Fabled Sebilisian Symbols)
+  icon: images/Item_2616.png
+- name: a symbol of the Nathsar
+  page: A symbol of the Nathsar (Fabled Sebilisian Symbols)
+  icon: images/Item_2617.png
+- name: a symbol of the obulus
+  page: A symbol of the obulus (Fabled Sebilisian Symbols)
+  icon: images/Item_2613.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +44,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

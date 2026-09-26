@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Lost Salvage Device
 added_in: Planes of Prophecy
+zone: '[[Plane of Innovation: Gears in the Machine (Expert)]], [[Plane of Innovation: Gears in the Machine (Heroic)]], [[Plane of Innovation: Masks of the Marvelous (Expert)]], [[Plane of Innovation: Masks of the Marvelous (Heroic)]], [[Plane of Innovation: Parts not Included (Event Heroic)]], [[Plane of Innovation: Parts not Included (Expert Event)]]'
+pieces:
+- name: Derelict Factory Fragments
+  icon: images/Item_1087.png
+- name: Broken Belt Clip
+  icon: images/Item_1006.png
+- name: Torn Silt Strainer
+  icon: images/Item_1014.png
+- name: Cracked Cauldron Shard
+  icon: images/Item_1085.png
+- name: Dulled Gear Tooth
+  icon: images/Item_1042.png
+- name: Rusted Steam Whistle
+  icon: images/Item_989.png
+- name: Incomplete Still Knob
+  icon: images/Item_972.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Lost Salvage Device (Item)|Lost Salvage Device]] this item is needed for the collection: [[Astral Mapping Device (Collection)|Astral Mapping Device]]
+- [[Shroud of Lost Salvaging]]

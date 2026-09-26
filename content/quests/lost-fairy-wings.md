@@ -4,6 +4,16 @@ type: quest
 level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 added_in: Terrors of Thalumbra
+pieces:
+- name: Wing of Dawn
+  icon: images/Item_110.png
+- name: Wing of Dusk
+  icon: images/Item_140.png
+- name: Wing of Light
+  icon: images/Item_182.png
+- name: Wing of Night
+  icon: images/Item_3847.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +33,6 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Twilight Wings]]

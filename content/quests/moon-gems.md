@@ -5,6 +5,18 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Gems: Moon Gems'
+zone: '[[The Sinking Sands]]'
+pieces:
+- name: large moon bead
+  icon: images/Item_387.png
+- name: long moon cord
+  icon: images/Item_387.png
+- name: large moon pendant
+  icon: images/Item_387.png
+- name: medium moon bead
+  icon: images/Item_387.png
+- name: small moon bead
+  icon: images/Item_387.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +39,10 @@ expansion_source: patch
 ---
 
 This is believed to have been an incomplete Burynai collection, which was removed in [[LU51|GU51]], and added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Moonshard Ring]]
+  - [[Ring of Lunar Light]]
+  - [[Cobra skeleton]]

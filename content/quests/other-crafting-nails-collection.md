@@ -5,6 +5,25 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Other Crafting Nails
 added_in: LU122
+zone: '[[Buried Takish''Hiz: Empire of Antiquity (Contested)]]'
+collection_type: Red
+pieces:
+- name: Framing Nails
+  icon: images/Item_707.png
+- name: Box Nails
+  icon: images/Item_707.png
+- name: Roofing Nails
+  icon: images/Item_707.png
+- name: Duplex Nails
+  icon: images/Item_707.png
+- name: Connector Nails
+  icon: images/Item_707.png
+- name: Cap Nails
+  icon: images/Item_707.png
+- name: Masonry Nails
+  icon: images/Item_707.png
+- name: Sinker Nails
+  icon: images/Item_707.png
 categories:
 - 'Buried Takish''Hiz: Empire of Antiquity (Contested) Collection Quests'
 - Census Credits
@@ -26,4 +45,7 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Nail-Filled Table]]
+- [[Other Crafting Nails (Collection Item)|Other Crafting Nails]] this item is needed for the collection: [[A Plethora of Nails]]

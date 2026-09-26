@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Mnemonic Fidget
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Lucubrative Particles
+  icon: images/Item_144.png
+- name: Cognitive Fragment
+  icon: images/Item_194.png
+- name: Retrospected Gravel
+  icon: images/Item_146.png
+- name: Mite of Memoir
+  icon: images/Item_185.png
+  note: no-trade - (Reward from the quest [[Arcana Control]])
+- name: Stitch of Remembrance
+  icon: images/Item_175.png
+- name: Mindful Fibers
+  icon: images/Item_827.png
+- name: Amnesial Scraps
+  icon: images/Item_196.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Mnemonic Fidget (Item)|Mnemonic Fidget]] this item is needed for the collection: [[Elements of Augury]]
+- [[Bracelet of Mnemonic Fidgets]]

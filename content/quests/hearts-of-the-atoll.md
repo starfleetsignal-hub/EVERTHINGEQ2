@@ -3,6 +3,20 @@ title: Hearts of the Atoll
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Heart of the Herald
+  icon: images/Item_5763.png
+- name: Heart of the Chamberlain
+  icon: images/Item_5763.png
+- name: Heart of the Chancellor
+  icon: images/Item_5763.png
+- name: Heart of the Marshal
+  icon: images/Item_5763.png
+- name: Heart of the High Lord
+  icon: images/Item_5763.png
+  note: no-trade
+- name: Heart of the Baron
+  icon: images/Item_2991.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Riftcloth Pantaloons]]
+- [[Fragment of Collected Void]]
+- [[Deformed Hand]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

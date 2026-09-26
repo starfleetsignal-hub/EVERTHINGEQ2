@@ -3,6 +3,23 @@ title: Tablets of Chottal Sathir Dynasty (Shadow Odyssey Collections)
 type: quest
 level: '80'
 in_game_name: Tablets of Chottal Sathir Dynasty
+pieces:
+- name: 'Chottal Dynasty Tablet: Successor'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Overseer'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Empire'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Expansion'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Verile'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Strength'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Battle'
+  icon: images/Item_371.png
+- name: 'Chottal Dynasty Tablet: Assassination'
+  icon: images/Item_371.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +37,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Icon of the Herald (CollectionReward)|Icon of the Herald]]
+  - [[Syllokk's Law]]

@@ -4,6 +4,15 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Stem of a Flower
+  icon: images/Item_1948.png
+- name: Flower Bud
+  icon: images/Item_1941.png
+- name: Leaves of a Flower
+  icon: images/Item_2824.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +35,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Dried Flower]] this item is needed for the collection: [[Petrified Pieces]]
+- one of the following:
+  - [[Vesspyr Citizen's Green Boots]]
+  - [[Vesspyr Warrior's Bronze Barbute]]
+  - [[Vesspyr Warrior's Elaborate Steel Pauldrons]]

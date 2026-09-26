@@ -4,6 +4,29 @@ type: quest
 level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: LU119
+zone: '[[Svarni Expanse]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Alghoza's Flute
+  icon: images/Item_2246.png
+- name: Colorful Dye Pools
+  icon: images/Item_571.png
+- name: Rithsar's Tail-Spike
+  icon: images/Item_921.png
+- name: Far Seas Encampment
+  icon: images/Item_3770.png
+- name: Arpita's Batik
+  icon: images/Item_571.png
+- name: Vikuski's Inventory List
+  icon: images/Item_2182.png
+- name: Island Campfire
+  icon: images/Item_410.png
+- name: Pink Cattail Fuzz
+  icon: images/Item_423.png
+- name: Wading Storks
+  icon: images/Item_5369.png
+- name: Nesting Vulriches
+  icon: images/Item_2149.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +50,6 @@ expansion: Visions of Vetrovia
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Woven Kinnahma Bowl]]

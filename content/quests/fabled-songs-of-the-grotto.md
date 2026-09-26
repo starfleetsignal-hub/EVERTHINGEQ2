@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Withered Lands]]'
+collection_type: Year of Discovery
+pieces:
+- name: Siren Beguiler Song
+  page: Siren Beguiler Song (Fabled Songs of the Grotto)
+  icon: images/Item_75.png
+- name: Siren Enticer Song
+  page: Siren Enticer Song (Fabled Songs of the Grotto)
+  icon: images/Item_75.png
+- name: Siren Mistress Song
+  page: Siren Mistress Song (Fabled Songs of the Grotto)
+  icon: images/Item_75.png
+- name: Siren Priestess Song
+  page: Siren Priestess Song (Fabled Songs of the Grotto)
+  icon: images/Item_75.png
+- name: Siren Seductress Song
+  page: Siren Seductress Song (Fabled Songs of the Grotto)
+  icon: images/Item_75.png
+- name: Siren Temptress Song
+  page: Siren Temptress Song (Fabled Songs of the Grotto)
+  icon: images/Item_75.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

@@ -5,6 +5,21 @@ level: '80'
 added_in: LU52
 aliases:
 - Skorpikis Parts
+zone: '[[Emperor''s Athenaeum]]'
+collection_type: Shiny
+pieces:
+- name: A Scorpikis Claw
+  icon: images/Item_76.png
+- name: A Scorpikis Head
+  icon: images/Item_2476.png
+- name: A Scorpikis Leg
+  icon: images/Item_78.png
+- name: A Scorpikis Eye
+  icon: images/Item_145.png
+- name: A Scorpikis Tail
+  icon: images/Item_172.png
+- name: A Scorpikis Carapace
+  icon: images/Item_85.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +41,8 @@ expansion_source: patch
 ---
 
 The reward of this collection is needed for [[Abyssal Carpet Fragments]]
+
+## Rewards
+
+- [[Large Middle Section (Abyssal Carpet Fragments)|Large Middle Section]] this item is needed for the collection: [[Abyssal Carpet Fragments]]
+- 2p

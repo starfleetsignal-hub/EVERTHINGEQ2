@@ -7,6 +7,18 @@ in_game_name: Riches of the Hizites
 added_in: Renewal of Ro
 aliases:
 - Riches of the Hizzites
+zone: '[[Raj''Dur Plateaus]]'
+pieces:
+- name: Artesian Well
+  icon: images/Item_851.png
+- name: Desert Grasses
+  icon: images/Item_2119.png
+- name: Healthy Herds
+  icon: images/Item_5004.png
+- name: Protected Shelter
+  icon: images/Item_4201.png
+- name: Skilled Herd Dogs
+  icon: images/Item_5048.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +40,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Expedient Custodian First Accolade]]
+- [[Riches of the Hizites (Collection Item)|Riches of the Hizites]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

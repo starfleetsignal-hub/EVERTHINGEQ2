@@ -6,6 +6,20 @@ timeline: '[[Terrors of Thalumbra Timeline]]'
 added_in: Terrors of Thalumbra
 aliases:
 - Aberrant Vestements
+zone: '[[Kralet Penumbra (Contested)]]'
+pieces:
+- name: Robe of an Aberrant Chosen
+  icon: images/Item_2752.png
+- name: Robe of an Aberrant Skullflayer
+  icon: images/Item_2377.png
+- name: Robe of an Aberrant Deceiver
+  icon: images/Item_2378.png
+- name: Robe of an Aberrant Enthraller
+  icon: images/Item_3630.png
+- name: Robe of an Aberrant Mindbreaker
+  icon: images/Item_2871.png
+- name: Robe of an Aberrant Gravecaller
+  icon: images/Item_3689.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +41,11 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Memory of the Aberrant]] this item is needed for the collection: [[Memories of Kralet]]
+- one of the following:
+  - [[Gilded Intrusive Etched Hammer]]
+  - [[Gilded Aphotic Etched Battlehammer]]
+  - [[Gilded Aphotic Etched Spear]]
+  - [[Gilded Aphotic Etched Greatsword]]

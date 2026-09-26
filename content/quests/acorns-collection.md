@@ -4,6 +4,21 @@ type: quest
 level: '20'
 in_game_name: Acorns
 added_in: Echoes of Faydwer
+zone: '[[Greater Faydark]]'
+collection_type: Hidden
+pieces:
+- name: black oak acorn
+  icon: images/Item_795.png
+- name: golden oak acorn
+  icon: images/Item_795.png
+- name: live oak acorn
+  icon: images/Item_795.png
+- name: red oak acorn
+  icon: images/Item_795.png
+- name: scrub oak acorn
+  icon: images/Item_795.png
+- name: white oak acorn
+  icon: images/Item_795.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,9 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fae Distillery]]
+- one of the following:
+  - [[Acorn Cupule Ear Stud (Version 2)|Acorn Cupule Ear Stud]]
+  - [[Acorn Cupule Hoop (Version 2)|Acorn Cupule Hoop]]

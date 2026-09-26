@@ -5,6 +5,20 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Kamapor Banners
 added_in: Visions of Vetrovia
+zone: '[[Svarni Expanse]]'
+pieces:
+- name: Woodcarver's Shop Banner
+  icon: images/Item_4094.png
+- name: Quellious Banner
+  icon: images/Item_4095.png
+- name: Batik Painter's Banner
+  icon: images/Item_4096.png
+- name: Tea Shop Banner
+  icon: images/Item_4097.png
+- name: Jewelcrafter's Ornamented Banner
+  icon: images/Item_4098.png
+- name: Blacksmith's Banner
+  icon: images/Item_4099.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dash of the Hounds]]
+- [[Kamapor Banners (Item)|Kamapor Banners]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

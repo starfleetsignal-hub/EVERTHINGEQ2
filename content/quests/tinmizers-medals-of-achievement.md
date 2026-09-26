@@ -7,6 +7,21 @@ events:
 - Tinkerfest
 aliases:
 - Tinmizer's Medals
+zone: '[[Steamfont Mountains]]'
+collection_type: Purple
+pieces:
+- name: Rhodium Bolt
+  icon: images/Item_1256.png
+- name: Copper Cog
+  icon: images/Item_1255.png
+- name: Carbonite Screw
+  icon: images/Item_1258.png
+- name: Platinum Wrench
+  icon: images/Item_1257.png
+- name: Velium Gear
+  icon: images/Item_1256.png
+- name: Silver Fuse
+  icon: images/Item_1255.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Tinkered Inspiration]]

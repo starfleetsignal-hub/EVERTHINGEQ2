@@ -3,6 +3,21 @@ title: Gorowyn Postage Collection
 type: quest
 level: '50'
 added_in: LU54
+zone: '[[Timorous Deep]]'
+collection_type: Purple
+pieces:
+- name: Gorowyn letterhead
+  icon: images/Item_2179.png
+- name: Gorowyn stamp
+  icon: images/Item_854.png
+- name: Gorowyn envelope
+  icon: images/Item_3146.png
+- name: Gorowyn notepaper
+  icon: images/Item_75.png
+- name: Gorowyn postmark
+  icon: images/Item_2616.png
+- name: Gorowyn sealing wax
+  icon: images/Item_1330.png
 categories:
 - Census Credits
 - City Festival
@@ -24,4 +39,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Norrathian Express Box, Gorowyn Branch]]

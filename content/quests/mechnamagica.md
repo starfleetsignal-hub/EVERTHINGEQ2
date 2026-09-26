@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Advanced Solo)]], [[The Fabled Court of Innovation (Advanced Solo)]], [[The Fabled Crypt of Valdoon (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Steel Mechnamagica
+  icon: images/Item_3110.png
+- name: Iron Mechnamagica
+  icon: images/Item_3112.png
+- name: Polished Mechnamagica
+  icon: images/Item_3112.png
+- name: Corroded Mechnamagica
+  icon: images/Item_3109.png
+- name: Rusted Mechnamagica
+  icon: images/Item_3111.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Mechnamagica Drone]] this item is needed for the collection: [[King Klak'Anon Scepters]]

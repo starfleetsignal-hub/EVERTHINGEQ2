@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Witchclaw's Spell of Drowning
+  icon: images/Item_713.png
+- name: Angler's Spell of Floating
+  icon: images/Item_713.png
+- name: Cultivator's Spell of Breathing
+  icon: images/Item_713.png
+- name: Herbalist's Spell of Water Walk
+  icon: images/Item_713.png
+- name: Fisher's Spell of Swimming
+  icon: images/Item_713.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Grinnin Spell Scroll]] this item is needed for the collection: [[Goblin Magic]]

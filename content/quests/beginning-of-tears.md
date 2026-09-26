@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Bloom Fall Drop
+  icon: images/Item_2523.png
+- name: Drifting Rain Drop
+  icon: images/Item_2527.png
+- name: Morning Dew Drop
+  icon: images/Item_2525.png
+- name: Night Mist Drop
+  icon: images/Item_2524.png
+- name: Passing Storm Drop
+  icon: images/Item_2526.png
+- name: Scoria Steam Drop
+  icon: images/Item_2523.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bloom Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Marbled Mosaic Tear Sleeves]] - Plate Armor, Merc-Only
+  - [[Glistening Tear Stream Longbow]]

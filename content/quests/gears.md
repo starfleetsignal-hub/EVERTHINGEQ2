@@ -5,6 +5,21 @@ level: '55'
 added_in: Echoes of Faydwer
 aliases:
 - 'Klak''Anon: Gears'
+zone: '[[Klak''Anon]]'
+collection_type: Hidden
+pieces:
+- name: bevel gear
+  icon: images/Item_3109.png
+- name: crown gear
+  icon: images/Item_3110.png
+- name: idler gear
+  icon: images/Item_3111.png
+- name: rack gear
+  icon: images/Item_3112.png
+- name: spur gear
+  icon: images/Item_1040.png
+- name: worm gear
+  icon: images/Item_1042.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Star Chart]]

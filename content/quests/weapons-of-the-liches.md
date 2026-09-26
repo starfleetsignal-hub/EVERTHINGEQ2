@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Fordel Midst: Bizarre Bazaar (Solo)]], [[Fordel Midst: The Listless Spires (Solo)]], [[Fordel Midst: Wayward Manor (Solo)]]'
+pieces:
+- name: Gloomlich's Shadowed Blade
+  icon: images/Item_616.png
+- name: Soulbinder's Dagger
+  icon: images/Item_609.png
+- name: Direwraith's Scythe
+  icon: images/Item_625.png
+- name: Fetch's Slick Club
+  icon: images/Item_619.png
+- name: Umbral Glowing Staff
+  icon: images/Item_622.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,10 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Faith]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]
+- one of the following:
+  - [[Voidpiercer's Adornment of Health (Collection Reward)|Voidpiercer's Adornment of Health]]
+  - [[Voidpiercer's Adornment of Modified Power (Collection Reward)|Voidpiercer's Adornment of Modified Power]]
+  - [[Voidpiercer's Adornment of Modified Power (2H) (Collection Reward)|Voidpiercer's Adornment of Modified Power (2H)]]

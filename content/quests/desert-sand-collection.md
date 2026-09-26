@@ -5,6 +5,21 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Sand: Desert Sand Collection'
+zone: '[[The Sinking Sands]], [[The Pillars of Flame]], [[The Clefts of Rujark]], [[The Living Tombs]]'
+collection_type: Shiny
+pieces:
+- name: blue sand
+  icon: images/Item_347.png
+- name: green sand
+  icon: images/Item_343.png
+- name: orange sand
+  icon: images/Item_345.png
+- name: purple sand
+  icon: images/Item_346.png
+- name: red sand
+  icon: images/Item_344.png
+- name: yellow sand
+  icon: images/Item_345.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +43,6 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An ornate vase (House Item) (no-value)|an ornate vase]]

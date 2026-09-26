@@ -4,6 +4,21 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: White Gold Necklace
+  page: White Gold Necklace (Collection Item)
+  icon: images/Item_385.png
+  note: no-trade
+- name: Adamantite Epaulets
+  page: Adamantite Epaulets (Collection Item)
+  icon: images/Item_547.png
+- name: Darkened Mithril Boots
+  page: Darkened Mithril Boots (Collection Item)
+  icon: images/Item_491.png
+- name: Black Enameled Bracers
+  icon: images/Item_260.png
+- name: Darkmail Forearms
+  icon: images/Item_494.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +37,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Froglok King]] this item is needed for the collection: [[Inhabitants of Guk]]

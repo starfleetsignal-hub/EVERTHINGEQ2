@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast]]'
+pieces:
+- name: Essence of Dark
+  icon: images/Item_4086.png
+- name: Essence of Assassin
+  icon: images/Item_4084.png
+- name: Essence of Shadow
+  icon: images/Item_4085.png
+- name: Essence of Corruption
+  icon: images/Item_4085.png
+- name: Essence of Master
+  icon: images/Item_4087.png
 categories:
 - Aurelian Coast Collection Quests
 - Blood of Luclin (CQ Category)
@@ -25,4 +37,16 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dawnshroud Peaks Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]
+- one of the following:
+  - [[Bogling's Barding of Striking]]
+  - [[Bogling's Barding of Criticals]]
+  - [[Bogling's Barding of the Expert]]
+  - [[Bogling's Barding of Health]]
+  - [[Bogling's Barding of Power]]
+  - [[Bogling's Barding of Bolstering]]
+  - [[Bogling's Barding of the Potent]]
+  - [[Bogling's Barding of Industry]]
+  - [[Bogling's Barding of Practice]]

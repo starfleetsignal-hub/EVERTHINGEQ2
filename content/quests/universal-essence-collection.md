@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Universal Essence
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Magical Essences
+  icon: images/Item_4087.png
+- name: Essence of Abjuration
+  icon: images/Item_4088.png
+- name: Essence of Conjuration
+  icon: images/Item_4089.png
+  note: no-trade - (Reward from the quest [[The Supreme Art of Teaching]])
+- name: Essence of Evocation
+  icon: images/Item_4086.png
+- name: Essence of Alteration
+  icon: images/Item_4088.png
+- name: Essence of Enchantment
+  icon: images/Item_4085.png
+- name: Essence of Divination
+  icon: images/Item_4084.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Universal Essence (Item)|Universal Essence]] this item is needed for the collection: [[Elements of Augury]]
+- [[Sash of Universal Essence]]

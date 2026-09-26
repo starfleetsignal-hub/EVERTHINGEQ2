@@ -5,6 +5,20 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Library Discards
 added_in: Visions of Vetrovia
+zone: '[[Forlorn Gist: Nightmares of Old (Solo)]]'
+pieces:
+- name: Used Parchment
+  icon: images/Item_374.png
+- name: Smudged Runic Parchment
+  icon: images/Item_2185.png
+- name: Grimy Papyrus
+  icon: images/Item_2180.png
+- name: Dirty Vellum
+  icon: images/Item_2184.png
+- name: Bottle of Dried-Up Ink
+  icon: images/Item_981.png
+- name: Insect-Eaten Scroll
+  icon: images/Item_2179.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Barding of Criticals]]
+- [[Library Discards (Item)|Library Discards]] this item is needed for the collection: [[Vetrovian Perceptions]]

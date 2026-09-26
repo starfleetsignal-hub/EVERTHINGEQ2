@@ -5,6 +5,30 @@ level: '85'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Reet Knight Armor'
+zone: '[[Sebilis]]'
+collection_type: Hidden
+pieces:
+- name: reet knight cuirass
+  page: Reet knight cuirass (Reet Knight Armor)
+  icon: images/Item_3233.png
+- name: reet knight boots
+  page: Reet knight boots (Reet Knight Armor)
+  icon: images/Item_3230.png
+- name: reet knight bracer
+  page: Reet knight bracer (Reet Knight Armor)
+  icon: images/Item_3232.png
+- name: reet knight gauntlets
+  page: Reet knight gauntlets (Reet Knight Armor)
+  icon: images/Item_3229.png
+- name: reet knight greaves
+  page: Reet knight greaves (Reet Knight Armor)
+  icon: images/Item_3231.png
+- name: reet knight helm
+  page: Reet knight helm (Reet Knight Armor)
+  icon: images/Item_3234.png
+- name: reet knight pauldrons
+  page: Reet knight pauldrons (Reet Knight Armor)
+  icon: images/Item_3235.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +52,11 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sathir's Uplift]]
+- one of the following:
+  - [[Coif of the Reet Knight]]
+  - [[Sallet of the Reet Knight]]
+  - [[Silken Cap of the Reet Knight]]
+  - [[Skullcap of the Reet Knight]]

@@ -5,6 +5,14 @@ level: '30'
 added_in: Shattered Lands
 aliases:
 - 'Coin: Neriak coins collection'
+zone: '[[Everfrost]], [[Fallen Gate]], [[Lavastorm]]'
+pieces:
+- name: silver coin of neriak
+  icon: images/Item_1756.png
+- name: platinum coin of neriak
+  icon: images/Item_1765.png
+- name: gold coin of neriak
+  icon: images/Item_1762.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -27,4 +35,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Neriak Scroll]]

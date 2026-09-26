@@ -3,6 +3,19 @@ title: Articles of the Golden Rule
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Bracelet of Ashnu
+  icon: images/Item_2766.png
+- name: Ring of Ashnu
+  icon: images/Item_2984.png
+- name: Scale of Hezodhan
+  icon: images/Item_5951.png
+- name: Horn of Hezodhan
+  icon: images/Item_2817.png
+- name: Veil of the Storm Mistress
+  icon: images/Item_2766.png
+- name: Crown of the Storm Mistress
+  icon: images/Item_2983.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Lusterbound Soldier]]
+- [[Fragment of Collected Ballads (Treasured) (Version 2)|Fragment of Collected Ballads]]
+- [[Vaashkaani Saxhorn]] this item is needed for the collection: [[Overrealm Instruments]]

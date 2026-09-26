@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast: Maiden''s Eye (Solo)]], [[Aurelian Coast: Reishi Rumble (Solo)]], [[Aurelian Coast: Sambata Village (Solo)]]'
+pieces:
+- name: Firekeeper's Blackened Sandals
+  icon: images/Item_227.png
+- name: Naturalist's Reed Sandals
+  icon: images/Item_227.png
+- name: Grrrunk's Heavy Sandals
+  icon: images/Item_227.png
+- name: Ryryrd's Cursed Sandals
+  icon: images/Item_227.png
+- name: Grugnop's Guarding Sandals
+  icon: images/Item_227.png
 categories:
 - 'Aurelian Coast: Maiden''s Eye (Solo) Collection Quests'
 - 'Aurelian Coast: Reishi Rumble (Solo) Collection Quests'
@@ -26,4 +38,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Allegiance]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]

@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Souls: Desert Soul Dust Collection'
+zone: '[[The Clefts of Rujark]], [[The Living Tombs]]'
+collection_type: Shiny
+pieces:
+- name: bright soul dust
+  icon: images/Item_342.png
+- name: dark soul dust
+  icon: images/Item_343.png
+- name: dull soul dust
+  icon: images/Item_342.png
+- name: glowing soul dust
+  icon: images/Item_342.png
+- name: shimmering soul dust
+  icon: images/Item_342.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Tunic of the Fiery Sea]]
+  - [[Sandscorch]]

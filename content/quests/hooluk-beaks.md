@@ -5,6 +5,17 @@ level: '65'
 added_in: Kingdom of Sky
 aliases:
 - 'Beaks: Hooluk Beaks'
+zone: '[[The Barren Sky]]'
+collection_type: Shiny
+pieces:
+- name: blemished hooluk beak
+  icon: images/Item_82.png
+- name: polished hooluk beak
+  icon: images/Item_82.png
+- name: weathered hooluk beak
+  icon: images/Item_82.png
+- name: worn hooluk beak
+  icon: images/Item_82.png
 categories:
 - Beaks (CQ Category)
 - Census Credits
@@ -25,4 +36,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A magical mini beaver plushie]]

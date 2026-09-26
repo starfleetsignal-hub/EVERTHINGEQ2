@@ -4,6 +4,24 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]], [[Zek, the Scourge Wastes (Heroic)]]'
+collection_type: Collection items
+pieces:
+- name: Fabled Blade of Deep Tides
+  icon: images/Item_2532.png
+  note: (Reward from the collection [[Grozmag's Regalia]])
+- name: Fabled Buckler of the Deathfist Destroyer
+  icon: images/Item_2273.png
+  note: (Reward from the collection [[Emperor Fyst's Regalia]])
+- name: Fabled Djinn Forged Staff
+  icon: images/Item_619.png
+  note: (Reward from the collection [[Greenhood Pendants]])
+- name: Fabled Knuckledusters of the Graceful tempest
+  icon: images/Item_3595.png
+  note: (Reward from the collection [[Totems of Greenhood Targets]])
+- name: Fabled Stalker's Longsword of Silence
+  icon: images/Item_690.png
+  note: (Reward from the collection [[Relics of Zek]])
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +41,12 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[War Circlet of Time]] this item is needed for the collection: [[Tallon's Diadems]]
+- one of the following:
+  - [[Bloody Ykeshan Scourge]]
+  - [[Bloody Ykeshan Short Sword]]
+  - [[Bloody Brass Knuckles]]
+  - [[Bloody Brass Shield (Tower Shield)|Bloody Brass Shield]] (Tower Shield)
+  - [[Bloody Brass Shield (Buckler)|Bloody Brass Shield]] (Buckler)

@@ -3,6 +3,15 @@ title: 'Teeth: Chipped Naga Teeth'
 type: quest
 added_in: Rise of Kunark
 removed_from_game: This collection has been removed from the game
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: large chipped naga incisor
+- name: large chipped naga molar
+- name: medium chipped naga incisor
+- name: medium chipped naga molar
+- name: small chipped naga incisor
+- name: small chipped naga molar
 categories:
 - Collection Quests
 - Collections needing rewardtype
@@ -22,3 +31,7 @@ expansion_source: patch
 ---
 
 - Believed to have been a Burynai collection then removed in [[LU51|GU51]].
+
+## Rewards
+
+- Unknown, impossible to confirm

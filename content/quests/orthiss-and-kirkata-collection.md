@@ -4,6 +4,29 @@ type: quest
 level: '70'
 in_game_name: Orthiss and Kirkata
 added_in: Rise of Kunark
+zone: '[[Fens of Nathsar]]'
+collection_type: Pages
+pieces:
+- name: Orthiss and Kirkata - Page 2
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 3
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 5
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 7
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 9
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 10
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 11
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 13
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 14
+  icon: images/Item_2180.png
+- name: Orthiss and Kirkata - Page 15
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +48,7 @@ expansion_source: patch
 ---
 
 All pages may be found in and around [[Rilis]]
+
+## Rewards
+
+- [[Orthiss and Kirkata (Item)|Orthiss and Kirkata]]

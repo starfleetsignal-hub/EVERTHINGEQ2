@@ -3,6 +3,17 @@ title: Sir Rouland's Elemental Weapons
 type: quest
 level: '125'
 added_in: Update 2022.08.09
+pieces:
+- name: Rouland's Fiery Lance
+  icon: images/Item_4912.png
+- name: Rouland's Icy Longsword
+  icon: images/Item_4920.png
+- name: Rouland's Earthen Dagger
+  icon: images/Item_4903.png
+- name: Rouland's Water-Logged Club
+  icon: images/Item_4917.png
+- name: Rouland's Wind-Lance
+  icon: images/Item_4928.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +32,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Portal of the Lifebringer]] this item is needed for the collection: [[Ione's Portals]]

@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Kinnahma Farming
 added_in: Visions of Vetrovia
+pieces:
+- name: Bountiful Grains
+  icon: images/Item_315.png
+- name: Dried Tea Leaves
+  icon: images/Item_336.png
+- name: Long-Handled Garden Spade
+  icon: images/Item_3208.png
+- name: Batiked Seed Bags
+  icon: images/Item_10.png
+- name: Fertile Growing Soil
+  icon: images/Item_3410.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Kinnahma Farming (Item)|Kinnahma Farming]] this item is needed for the collection: [[More Sights and Sounds]]
+- one of the following:
+  - [[Accumulated Robust Mantle]]
+  - [[Accumulated Robust Sleeves]]
+  - [[Accumulated Robust Shroud]]
+  - [[Accumulated Robust Pauldrons]]

@@ -3,6 +3,22 @@ title: Skarl's Scraps
 type: quest
 level: '110'
 added_in: LU111
+pieces:
+- name: Skarl's Circle of Storms
+  icon: images/Item_714.png
+  note: no-trade
+- name: Legatus' Badge
+  icon: images/Item_1301.png
+- name: Legatus' Iron
+  icon: images/Item_2261.png
+- name: Legatus' Shackle
+  icon: images/Item_953.png
+- name: Legatus' Leather Boots
+  icon: images/Item_250.png
+- name: Legatus' Command
+  icon: images/Item_374.png
+- name: Legatus' Medal
+  icon: images/Item_976.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,3 +38,8 @@ source:
 ---
 
 Items spawn in Ice Shard Keep.
+
+## Rewards
+
+- [[Skarl's Scarf Scrap]]
+- [[Legatus' Oathstone]] this item is needed for the collection: [[The Might of Kael Drakkel]]

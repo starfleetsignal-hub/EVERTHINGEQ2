@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Ancient Grave Objects
 added_in: Visions of Vetrovia
+zone: '[[Mahngavi Wastes]]'
+pieces:
+- name: Shards of Painted Pottery
+  icon: images/Item_2365.png
+- name: Engraved Neck Torque
+  icon: images/Item_3457.png
+- name: Carved Effigy of Trushar
+  icon: images/Item_4189.png
+- name: Elaborate Burial Mask
+  icon: images/Item_4183.png
+- name: A Broken Coffin Handle
+  icon: images/Item_2564.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vampiric Requiem]]
+- [[Ancient Grave Objects (Item)|Ancient Grave Objects]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

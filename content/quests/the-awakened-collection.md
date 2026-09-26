@@ -4,6 +4,18 @@ type: quest
 level: '65'
 in_game_name: The Awakened
 added_in: Kingdom of Sky
+zone: '[[Tenebrous Tangle]]'
+collection_type: Pages
+pieces:
+- name: The Awakened - Page 2
+  icon: images/Item_2181.png
+- name: The Awakened - Page 3
+  icon: images/Item_2181.png
+- name: The Awakened - Page 7
+  icon: images/Item_2181.png
+- name: The Awakened - Page 8
+  icon: images/Item_2181.png
+  note: Clickable rubble in the [[Temple Grounds]] at {{waypoint -127, 58, -84}}
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Awakened (Item)|The Awakened]]

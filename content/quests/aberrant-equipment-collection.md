@@ -5,6 +5,29 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Aberrant Equipment
 added_in: Terrors of Thalumbra
+zone: '[[Kralet Penumbra: Rise to Power (Advanced Solo)]], [[Kralet Penumbra: Temple of the Ill-Seen (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Aberrant Ripper's Dagger
+  icon: images/Item_3569.png
+- name: Aberrant Stalker's Hood
+  icon: images/Item_2857.png
+- name: Aberrant Siegecrafter's Plans
+  icon: images/Item_3163.png
+- name: Aberrant Weaver's Spellbook
+  icon: images/Item_2828.png
+- name: Aberrant Spell Eater's Shield
+  icon: images/Item_17.png
+- name: Aberrant Gravecaller's Idol
+  icon: images/Item_372.png
+- name: Aberrant Infiltrator's Slippers
+  icon: images/Item_119.png
+- name: Aberrant Orator's Gauntlet
+  icon: images/Item_206.png
+- name: Aberrant Enthraller's Ritual Dagger
+  icon: images/Item_3132.png
+- name: Aberrant Mindwarper's Wand
+  icon: images/Item_619.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +50,10 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Aphotic Linked Greaves]] -- chain
+  - [[Aphotic Stitched Pantaloons]] -- cloth
+  - [[Aphotic Tanned Leggings]] -- leather
+  - [[Aphotic Polished Greaves]] -- plate

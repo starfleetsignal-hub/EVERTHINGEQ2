@@ -5,6 +5,17 @@ level: '135'
 timeline: '[[Revelations of Malice Timeline]]'
 in_game_name: Revelations of Malice
 added_in: Revelations of Malice
+collection_type: Collection items
+pieces:
+- name: Malicious Deeds
+  icon: images/Item_5874.png
+  note: no-trade - (Reward from the collection [[Betrayal of Malice]])
+- name: Malicious Exploits
+  icon: images/Item_5874.png
+  note: no-trade - (Reward from the collection [[Prophecy of Malice]])
+- name: Malicious Thoughts
+  icon: images/Item_5874.png
+  note: no-trade - (Reward from the collection [[Visions of Malice]])
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Pattern: Revealed Malice Saddle]]
+- [[Fragment of Collected Void]]

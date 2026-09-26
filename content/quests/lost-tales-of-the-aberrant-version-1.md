@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Lost Tales of the Aberrant
 added_in: Terrors of Thalumbra
+pieces:
+- name: Sinking the Empire
+  icon: images/Item_2179.png
+- name: Summons of the Ill-Seen One
+  icon: images/Item_2179.png
+- name: Slumber of the Servants
+  icon: images/Item_2179.png
+- name: Retribution
+  page: Retribution (Item)
+  icon: images/Item_2179.png
+- name: Memories of Tides
+  icon: images/Item_2179.png
+- name: Defense of the Kedge
+  icon: images/Item_2179.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Aphotic Etched Earring]]
+- [[Memory of Protection]] this item is needed for the collection: [[Memories of Kralet]]

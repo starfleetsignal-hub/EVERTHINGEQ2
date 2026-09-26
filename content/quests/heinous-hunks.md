@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: LU106
+zone: '[[Shard of Hate: Udder Contempt (Herd Mode)]], [[Shard of Hate: Utter Contempt (Heroic)]]'
+pieces:
+- name: Heinously Torn Illusion
+  icon: images/Item_406.png
+- name: Heinously Evil Darkness
+  icon: images/Item_186.png
+- name: Heinously Painted Deity
+  icon: images/Item_1023.png
+- name: Heinously Charred Eye
+  icon: images/Item_83.png
+- name: Heinously Uttered Craving
+  icon: images/Item_713.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Planes of Prophecy
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Helestia's Chains]] this item is needed for the collection: [[Fragments of Hate]]
+- [[Pouch of Inertial Eyeballs]]

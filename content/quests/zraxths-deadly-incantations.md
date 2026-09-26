@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Zraxth's Spell of Darkness
+  icon: images/Item_713.png
+  note: no-trade
+- name: Zraxth's Conjuring of Pain
+  icon: images/Item_715.png
+- name: Zraxth's Abjuration of Vileness
+  icon: images/Item_714.png
+- name: Zraxth's Convocation of Ire
+  icon: images/Item_712.png
+- name: Zraxth's Invocation of Blood
+  icon: images/Item_711.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of Ykesha]] this item is needed for the collection: [[Inhabitants of Guk]]

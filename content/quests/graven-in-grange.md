@@ -4,6 +4,13 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: Renewal of Ro
+pieces:
+- name: Decomposed Sarnak
+- name: Does Tickster Tick?
+- name: Mungo's Brains
+  note: NO-TRADE
+- name: Scarecrow Hat for Mungo
+- name: Skittering Skitterers
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +31,11 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- . This item is needed for the collection:
+- one of the following:
+  - xxx
+  - xxx
+  - xxx
+  - xxx

@@ -7,6 +7,18 @@ in_game_name: Instruments of Subjugation
 added_in: LU107
 aliases:
 - Instruments of Subjagation
+pieces:
+- name: Branding Iron
+  icon: images/Item_368.png
+- name: Worn Whip
+  icon: images/Item_2329.png
+  note: no-trade
+- name: Sharpened Tongs
+  icon: images/Item_32.png
+- name: Poisoned Food
+  icon: images/Item_295.png
+- name: Flayed Skin
+  icon: images/Item_88.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Polished Wrist Bone]] this item is needed for the collection: [[Malevolor Trophies]]

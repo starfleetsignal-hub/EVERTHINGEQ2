@@ -6,6 +6,17 @@ in_game_name: plain moth collection
 added_in: Shattered Lands
 aliases:
 - 'Moth: plain moth collection'
+zone: '[[The Graveyard]], [[The Ruins]], [[Sunken City]], [[The Sprawl]]'
+collection_type: Shiny
+pieces:
+- name: plain brown moth
+  icon: images/Item_1899.png
+- name: plain white moth
+  icon: images/Item_1897.png
+- name: plain black moth
+  icon: images/Item_1896.png
+- name: plain tan moth
+  icon: images/Item_1898.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +40,7 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- At least 45c
+- [[Box of plain moths]] this item is needed for the collection: [[Moth collection]]

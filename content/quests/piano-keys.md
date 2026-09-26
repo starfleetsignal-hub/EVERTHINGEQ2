@@ -5,6 +5,19 @@ level: '80'
 added_in: LU46
 aliases:
 - 'Tradeskill: Piano Keys'
+zone: '[[The Barren Sky]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: blemished piano key
+  icon: images/Item_775.png
+- name: chipped piano key
+  icon: images/Item_778.png
+- name: cracked piano key
+  icon: images/Item_778.png
+- name: flawed piano key
+  icon: images/Item_777.png
+- name: scuffed piano key
+  icon: images/Item_776.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +42,7 @@ expansion_source: patch
 ---
 
 - Nodes for this collection appear on [[Isle of Awakening]], [[Whisperwind Island]], and [[Blackwind Isle]].
+
+## Rewards
+
+- [[A repaired piano]]

@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Idea Abstraction Piece
+  icon: images/Item_3103.png
+- name: Intangible Concept Piece
+  icon: images/Item_3107.png
+- name: Logical Deduction Piece
+  icon: images/Item_3108.png
+- name: Mental Focus Piece
+  icon: images/Item_3105.png
+- name: Problem Division Piece
+  icon: images/Item_3106.png
+- name: Sensitive Time Piece
+  icon: images/Item_3104.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Perplexing Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Intricate Melee Accolade]]
+  - [[Labyrinthine Twisted Longbow]]

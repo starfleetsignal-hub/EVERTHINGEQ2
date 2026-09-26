@@ -3,6 +3,18 @@ title: Billy Doll Bits
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Heroic I)]], [[Shattered Unrest (Heroic II)]], [[Shattered Unrest (Heroic III)]]'
+pieces:
+- name: Torn Billy Doll Bit
+  icon: images/Item_4066.png
+- name: Ripped Billy Doll Bit
+  icon: images/Item_4065.png
+- name: Mangled Billy Doll Bit
+  icon: images/Item_4064.png
+- name: Burnt Billy Doll Bit
+  icon: images/Item_4067.png
+- name: Severed Burlap String
+  icon: images/Item_781.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Gildilisk]]
+- [[Gooey Bloody Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

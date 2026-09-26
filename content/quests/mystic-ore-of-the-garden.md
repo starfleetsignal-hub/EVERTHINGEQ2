@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Casting Crag Ore
+  icon: images/Item_1138.png
+- name: Gathered Grain Ore
+  icon: images/Item_1125.png
+- name: Glistening Gravel Ore
+  icon: images/Item_1133.png
+- name: Mineral Metal Ore
+  icon: images/Item_1201.png
+- name: Promontory Pebble Ore
+  icon: images/Item_1176.png
+- name: Resistant Rock Ore
+  icon: images/Item_1164.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Quarry Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Mystic Ore Shoulder Guard]]
+  - [[Mystic Ore Throwing Spikes]]

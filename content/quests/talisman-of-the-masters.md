@@ -5,6 +5,17 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Talisman of the Masters'
+zone: '[[Miragul''s Phylactery: Scion of Ice]], [[Miragul''s Phylactery: The Anathema]], [[Miragul''s Phylactery: The Crucible]]'
+collection_type: Shiny
+pieces:
+- name: Symbol of Enchantment Mastery
+  icon: images/Item_1292.png
+- name: Symbol of Wizard Mastery
+  icon: images/Item_1249.png
+- name: Symbol of Sorcery Mastery
+  icon: images/Item_1246.png
+- name: Symbol of Necromancy Mastery
+  icon: images/Item_1263.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Dark Core Bangle]]
+  - [[The Master's Talisman]]

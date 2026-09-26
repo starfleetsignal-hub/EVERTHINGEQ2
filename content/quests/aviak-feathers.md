@@ -5,6 +5,27 @@ level: '65'
 added_in: Kingdom of Sky
 aliases:
 - 'Feathers: Aviak Feathers'
+zone: '[[The Barren Sky]]'
+collection_type: Shiny
+pieces:
+- name: brownish aviak feather
+  icon: images/Item_156.png
+- name: crimson aviak feather
+  icon: images/Item_154.png
+- name: dark aviak feather
+  icon: images/Item_155.png
+- name: brownish hooluk feather
+  icon: images/Item_156.png
+- name: crimson hooluk feather
+  icon: images/Item_154.png
+- name: dark hooluk feather
+  icon: images/Item_155.png
+- name: brownish vultak feather
+  icon: images/Item_149.png
+- name: crimson vultak feather
+  icon: images/Item_150.png
+- name: dark vultak feather
+  icon: images/Item_151.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +46,8 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Aviak-Feather Charm]]
+  - [[Hooluk-Feather Charm]]

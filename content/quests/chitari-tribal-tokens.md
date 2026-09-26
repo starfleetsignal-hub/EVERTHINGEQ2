@@ -3,6 +3,22 @@ title: Chitari Tribal Tokens
 type: quest
 level: '130'
 added_in: LU129
+pieces:
+- name: Bone Token
+  icon: images/Item_5832.png
+  note: no-trade
+- name: Claw Token
+  icon: images/Item_5832.png
+- name: Feather Token
+  icon: images/Item_5832.png
+- name: Fang Token
+  icon: images/Item_5832.png
+- name: Scale Token
+  icon: images/Item_5832.png
+- name: Tooth Token
+  icon: images/Item_5832.png
+- name: Hide Token
+  icon: images/Item_5832.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +37,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Blade of Merglok]] this item is needed for the collection: [[Wurmbone's Elite]]

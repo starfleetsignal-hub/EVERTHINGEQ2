@@ -4,6 +4,26 @@ type: quest
 level: '20'
 events:
 - Scorched Sky Celebration
+collection_type: Purple
+pieces:
+- name: Black Scorch Stone
+  icon: images/Item_1166.png
+- name: Cut Cinder Agate
+  icon: images/Item_2919.png
+- name: Molten-Heart Diamond
+  icon: images/Item_3865.png
+- name: Pyre Pearl
+  icon: images/Item_2916.png
+- name: Chipped Flame Ruby
+  icon: images/Item_2917.png
+- name: Cut Lavaflow Marble
+  icon: images/Item_1170.png
+- name: Cracked Blazestone
+  icon: images/Item_1127.png
+- name: Cut Magmatic Crystal
+  icon: images/Item_1191.png
+- name: Polished Lapis Lava
+  icon: images/Item_1187.png
 categories:
 - Census Credits
 - Collection Quests
@@ -43,3 +63,7 @@ Visit at least 3 locations to collect all 3 sets of gems:
 - [[Molten-Heart Diamond]] - [[Antonica]], [[Butcherblock Mountains]], [[Lavastorm]]
 - [[Cut Cinder Agate]] - [[Antonica]], [[Butcherblock Mountains]], [[Lavastorm]]
 - [[Black Scorch Stone]] - [[Antonica]], [[Butcherblock Mountains]], [[Lavastorm]]
+
+## Rewards
+
+- [[Tapestry of the Magma Heart]]

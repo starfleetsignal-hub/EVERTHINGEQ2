@@ -5,6 +5,25 @@ level: '95'
 added_in: Nights of the Dead
 events:
 - Nights of the Dead
+zone: '[[The City of Freeport]], [[Qeynos Capitol District]], [[Qeynos Province District]], [[Neriak, City of Hate]], [[Greater Faydark]], [[Frostfang Sea]], [[Timorous Deep]], [[Maj''Dul]]'
+collection_type: Pumpkin
+pieces:
+- name: Dried Wolfsbane
+  icon: images/Item_1983.png
+- name: Instant Sunlight Cantrip
+  icon: images/Item_2708.png
+- name: Silver Crossbow Bolts
+  icon: images/Item_1031.png
+- name: Silver Shackles
+  icon: images/Item_1010.png
+- name: Circle of Protection Amulet
+  icon: images/Item_962.png
+- name: Olfactory Obscuritive Lotion
+  icon: images/Item_3047.png
+- name: Lycan Collar
+  icon: images/Item_953.png
+- name: Night Reapers Talisman
+  icon: images/Item_3448.png
 categories:
 - Census Credits
 - Collection Quests
@@ -35,3 +54,7 @@ To complete this collection quest you must buy [[Pumpkin Bomb|Pumpkin Bombs]] (2
 
 - [[Ancient Desert Urn]]
 - A title
+
+## Rewards
+
+- Prefix title: [[Title: Howl Hunter|Howl Hunter]]

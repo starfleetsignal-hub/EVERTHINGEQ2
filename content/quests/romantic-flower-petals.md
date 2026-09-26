@@ -5,6 +5,36 @@ level: '20'
 added_in: LU58
 events:
 - Erollisi Day
+zone: '[[Qeynos Capitol District]], [[The City of Freeport]], [[The Commonlands]], [[Antonica]], [[Enchanted Lands]], [[Qeynos Province District]], [[Frostfang Sea]]'
+collection_type: Ed
+pieces:
+- name: Royal Rose Petal
+  icon: images/Item_1945.png
+  note: Antonica / Commonlands
+- name: Crimson Rose Petal
+  icon: images/Item_1944.png
+  note: Qeynos / Freeport
+- name: Golden Rose Petal
+  icon: images/Item_1943.png
+  note: New Halas / Enchanted Lands
+- name: Ivory Rose Petal
+  icon: images/Item_1942.png
+  note: Antonica / Commonlands
+- name: Onyx Rose Petal
+  icon: images/Item_1946.png
+  note: Qeynos / Freeport
+- name: Emerald Chrysanthemum Petal
+  icon: images/Item_1970.png
+  note: New Halas / Enchanted Lands
+- name: Sunset Chrysanthemum Petal
+  icon: images/Item_1969.png
+  note: Antonica / Commonlands
+- name: Cobalt Chrysanthemum Petal
+  icon: images/Item_1968.png
+  note: Qeynos / Freeport
+- name: Velious Chrysanthemum Petal
+  icon: images/Item_1967.png
+  note: New Halas / Enchanted Lands
 categories:
 - Antonica Collection Quests
 - Census Credits
@@ -34,3 +64,7 @@ expansion_source: patch
 ---
 
 This Collection must be turned in to see the shinies for [[Lovely Flower Petals]] Collection.
+
+## Rewards
+
+- [[Passion Veiled Screen]]

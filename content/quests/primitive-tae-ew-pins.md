@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Temple of Cazic-Thule]]'
+collection_type: Shiny
+pieces:
+- name: Pin of Kaxor
+  icon: images/Item_1360.png
+- name: Pin of Tzugaax
+  icon: images/Item_1363.png
+- name: Pin of Ix Acon
+  icon: images/Item_1357.png
+- name: Pin of Hukulan
+  icon: images/Item_1357.png
+- name: Pin of Cit Dakon
+  icon: images/Item_1364.png
 categories:
 - Cazic-Thule (Fabled) (CQ Category)
 - Census Credits
@@ -23,4 +36,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Primitive Cenobite Pin]] this item is needed for the collection: [[Primitive Thulian Pins]]
+- one of the following:
+  - [[Primitive Tae Ew Ring]]
+  - [[Primitive Tae Ew Band]]

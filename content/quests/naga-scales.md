@@ -5,6 +5,18 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Scales: Naga Scales'
+zone: '[[The Shimmering Citadel]]'
+pieces:
+- name: broken naga scale
+  icon: images/Item_2007.png
+- name: decaying naga scale
+  icon: images/Item_2007.png
+- name: pristine naga scale
+  icon: images/Item_2007.png
+- name: shining naga scale
+  icon: images/Item_2007.png
+- name: tarnished naga scale
+  icon: images/Item_2007.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Naga Scale Spaulders]]
+  - [[Serpent Embroidered Magus Cuffs]]

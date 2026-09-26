@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Fire Crested Runed Belt
 added_in: Chaos Descending
+collection_type: Blue
+pieces:
+- name: Melted Rune
+  icon: images/Item_85.png
+- name: Hymn of Embers
+  icon: images/Item_75.png
+- name: Pyre Stamp
+  icon: images/Item_1751.png
+- name: Ink of Searing
+  icon: images/Item_3051.png
+- name: Signet of Oxidation
+  icon: images/Item_1375.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +37,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fire Crested Runed Belt (Waist)|Fire Crested Runed Belt]]
+- [[Fire Crested Runed Belt (Collection Item)|Fire Crested Runed Belt]] this item is needed for the collection: [[Sword of Primordial Power (Collection)|Sword of Primordial Power]]

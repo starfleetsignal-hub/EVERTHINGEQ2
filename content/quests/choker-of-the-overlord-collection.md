@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Choker of the Overlord
 added_in: Reign of Shadows
+zone: '[[Echo Caverns]]'
+pieces:
+- name: Demanding Orders
+  icon: images/Item_185.png
+- name: Overlords Whip
+  icon: images/Item_2329.png
+- name: Heavy Brass Chain
+  icon: images/Item_985.png
+- name: Etched Chain Hook
+  icon: images/Item_1006.png
+- name: Unbridled Suppression
+  icon: images/Item_1182.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Choker of the Overlord (Neck)|Choker of the Overlord]]
+- [[Choker of the Overlord (Collection Item)|Choker of the Overlord]] this item is needed for the collection: [[Relics of the Darkside]]

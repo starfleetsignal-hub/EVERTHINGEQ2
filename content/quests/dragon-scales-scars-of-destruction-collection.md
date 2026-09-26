@@ -6,6 +6,24 @@ in_game_name: Dragon Scales
 added_in: Scars of Destruction
 aliases:
 - Dragon Scales (SoD Collection)
+pieces:
+- name: Glittering Azure Scale
+  icon: images/Item_5953.png
+- name: Ebonhide Scale
+  icon: images/Item_5954.png
+- name: Gleaming Gold Scale
+  icon: images/Item_5952.png
+  note: no-trade
+- name: Mystic Emerald Scale
+  icon: images/Item_5951.png
+- name: Obsidian Night Scale
+  icon: images/Item_5954.png
+- name: Frost Silver Scale
+  icon: images/Item_5953.png
+- name: Ancient Bronze Scale
+  icon: images/Item_5952.png
+- name: Iridescent Prismatic Scale
+  icon: images/Item_5953.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Chetari Bloodfang]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Chetari Totem of Scale]] this item is needed for the collection: [[Blood and Abandonment (Collection)|Blood and Abandonment]]

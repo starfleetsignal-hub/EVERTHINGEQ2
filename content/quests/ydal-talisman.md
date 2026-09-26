@@ -5,6 +5,25 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Ydal Talisman'
+zone: '[[Evernight Abbey]], [[Mistmyr Manor]], [[Ravenscale Repository]]'
+collection_type: Shiny
+pieces:
+- name: Ydal Talisman of Hate
+  icon: images/Item_3452.png
+- name: Ydal Talisman of Innoruuk's Blood
+  icon: images/Item_3448.png
+- name: Ydal Talisman of Ancient Rituals
+  icon: images/Item_3454.png
+- name: Ydal Talisman of Mystmyr
+  icon: images/Item_3454.png
+- name: Ydal Talisman of Sul'Dae
+  icon: images/Item_3453.png
+- name: Ydal Talisman of the Five Clans
+  icon: images/Item_3447.png
+- name: Ydal Talisman of the Pure Blood
+  icon: images/Item_3459.png
+- name: Ydal Talisman of Ravenous Hunger
+  icon: images/Item_3456.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +46,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Blood Coated Earring]]
+  - [[Ydal Choker]]

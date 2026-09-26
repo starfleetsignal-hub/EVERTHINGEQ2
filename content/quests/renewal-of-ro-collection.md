@@ -5,6 +5,26 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Renewal of Ro
 added_in: Renewal of Ro
+collection_type: Collection items
+pieces:
+- name: Thorns of Growth
+  icon: images/Item_337.png
+  note: no-trade - (Reward from the collection [[Renewal of the Desert (Collection)|Renewal of the Desert]])
+- name: Wings of Growth
+  icon: images/Item_2776.png
+  note: no-trade - (Reward from the collection [[Flying Through Ro (Collection)|Flying Through Ro]])
+- name: Leaves of Growth
+  icon: images/Item_2091.png
+  note: no-trade - (Reward from the collection [[Amok in the Desert (Collection)|Amok in the Desert]])
+- name: Takish'Hiz Stone
+  icon: images/Item_4878.png
+  note: no-trade - (Reward from the collection [[Heroics in the Desert (Collection)|Heroics in the Desert]])
+- name: Consonant Interval
+  icon: images/Item_4367.png
+  note: no-trade - (Reward from the collection [[Music Boxes]])
+- name: Dissonant Interval
+  icon: images/Item_4367.png
+  note: no-trade - (Reward from the collection [[Music Box Keys]])
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +45,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- Unlocks the achievement [[Triumph: Complete all Renewal of Ro Collections]]
+- [[Unbound Cloak of the Fervent Regrowth]]

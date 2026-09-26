@@ -5,6 +5,21 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Insignias: Dragon Insignias'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: blemished dragon insignia
+  icon: images/Item_2166.png
+- name: polished dragon insignia
+  icon: images/Item_2166.png
+- name: pristine dragon insignia
+  icon: images/Item_2166.png
+- name: shining dragon insignia
+  icon: images/Item_2166.png
+- name: weathered dragon insignia
+  icon: images/Item_2166.png
+- name: worn dragon insignia
+  icon: images/Item_2166.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A majestic dragon bust]]

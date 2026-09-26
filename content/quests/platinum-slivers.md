@@ -3,6 +3,18 @@ title: Platinum Slivers
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Solo)]]'
+pieces:
+- name: Heated Platinum Sliver
+  icon: images/Item_3774.png
+- name: Chilled Platinum Sliver
+  icon: images/Item_3774.png
+- name: Vibrating Platinum Sliver
+  icon: images/Item_3774.png
+- name: Stable Platinum Sliver
+  icon: images/Item_3774.png
+- name: Glassy Platinum Sliver
+  icon: images/Item_3774.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A strange saffron crystal]]
+- [[Gooey Shriller Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

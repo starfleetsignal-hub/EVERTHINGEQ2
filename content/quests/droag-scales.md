@@ -5,6 +5,21 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Scales: Droag Scales'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: blemished Droag scale
+  page: Blemished Droag scale (Droag Scales)
+  icon: images/Item_2007.png
+- name: decaying Droag scale
+  page: Decaying Droag scale (Droag Scales)
+  icon: images/Item_2007.png
+- name: pristine Droag scale
+  page: Pristine Droag scale (Droag Scales)
+  icon: images/Item_2007.png
+- name: tarnished Droag scale
+  page: Tarnished Droag scale (Droag Scales)
+  icon: images/Item_2007.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- 10x  [[Droag scale swill]]

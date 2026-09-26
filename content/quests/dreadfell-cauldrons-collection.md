@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Dreadfell Cauldrons
 added_in: Visions of Vetrovia
+zone: '[[Mahngavi Wastes]]'
+pieces:
+- name: Large Iron Cauldron
+  icon: images/Item_4984.png
+- name: Brass Apprentice's Cauldron
+  icon: images/Item_4984.png
+- name: Elaborate Ritual Cauldron
+  icon: images/Item_4984.png
+- name: Leaky Old Cauldron
+  icon: images/Item_650.png
+- name: Cauldron Used as a Cooking Pot
+  icon: images/Item_650.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dreadfell Cauldrons (Item)|Dreadfell Cauldrons]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]
+- one of the following:
+  - [[Found Robust Armguards]]
+  - [[Found Robust Wrist Wraps]]
+  - [[Found Robust Bracers]]
+  - [[Found Robust Armplates]]

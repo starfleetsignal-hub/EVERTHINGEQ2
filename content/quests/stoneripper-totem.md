@@ -4,6 +4,24 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: The Ornithologist's Bag
+  icon: images/Item_402.png
+- name: Volaserpent Feather
+  icon: images/Item_148.png
+- name: Volaserpent Horn
+  icon: images/Item_2120.png
+- name: Volaserpent Eggshell Fragment
+  icon: images/Item_184.png
+- name: Plumewit Feather
+  icon: images/Item_149.png
+- name: Plumewit Tail Feather
+  icon: images/Item_155.png
+- name: Plumewit Eggshell Fragment
+  icon: images/Item_188.png
+  note: no-trade - (Reward from the quest [[Water Canvas]])
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +43,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Stoneripper Totem]] this item is needed for the collection: [[Elements of Augury]]
+- [[Spineripper Totem]]

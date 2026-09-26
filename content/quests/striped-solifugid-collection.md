@@ -5,6 +5,19 @@ level: '50'
 added_in: Rise of Kunark
 aliases:
 - 'Insect: Striped Solifugid Collection'
+zone: '[[The Sinking Sands]]'
+collection_type: Shiny
+pieces:
+- name: striped black solifugid
+  icon: images/Item_1851.png
+- name: striped blue solifugid
+  icon: images/Item_1853.png
+- name: striped brown solifugid
+  icon: images/Item_1854.png
+- name: striped green solifugid
+  icon: images/Item_1852.png
+- name: striped red solifugid
+  icon: images/Item_1855.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +40,11 @@ expansion_source: patch
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
 - Added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Belt of Lunar Light]]
+  - [[Moonshard Ring]]
+  - [[Skullcap of the Preserver]]
+  - [[Chitin Crested Knuckles]]

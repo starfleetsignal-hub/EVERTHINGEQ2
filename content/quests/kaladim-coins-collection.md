@@ -5,6 +5,14 @@ level: '30'
 added_in: Echoes of Faydwer
 aliases:
 - 'Coin: Kaladim coins collection'
+zone: '[[Kaladim]]'
+pieces:
+- name: silver block coin of kaladim
+  icon: images/Item_1744.png
+- name: platinum block coin of kaladim
+  icon: images/Item_1753.png
+- name: gold block coin of kaladim
+  icon: images/Item_1750.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -26,3 +34,7 @@ expansion_source: patch
 ---
 
 - This collection was formerly only available through the [[Collection Quests Timeline#"Burynai" Collections|Burynai house pet]] and was introduced to Kaladim in [[LU51|GU51]].
+
+## Rewards
+
+- [[An Ancient Kaladim Scroll]]

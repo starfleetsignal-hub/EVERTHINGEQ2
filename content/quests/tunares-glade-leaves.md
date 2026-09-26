@@ -5,6 +5,23 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Tradeskill: Tunare''s Glade Leaves'
+zone: '[[Greater Faydark]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: entwined leaf
+  icon: images/Item_2091.png
+- name: curled leaf
+  icon: images/Item_2105.png
+- name: fresh-fallen leaf
+  icon: images/Item_2112.png
+- name: elegant leaf
+  icon: images/Item_2098.png
+- name: elaborate stem
+  icon: images/Item_197.png
+- name: resilient leaf stalk
+  icon: images/Item_2123.png
+- name: enchanted glade soil
+  icon: images/Item_3410.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +46,7 @@ expansion_source: patch
 ---
 
 - All members of this collection are found in the [[Tunare's Glade]] area of the [[Greater Faydark]].
+
+## Rewards
+
+- [[Fae arbor]]

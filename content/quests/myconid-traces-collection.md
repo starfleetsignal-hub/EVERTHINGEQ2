@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: Myconid Traces
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+pieces:
+- name: Myconid Spores
+  icon: images/Item_2314.png
+- name: Myconid Cap
+  icon: images/Item_821.png
+- name: Myconid Universal Veil
+  icon: images/Item_138.png
+- name: Myconid Gills
+  icon: images/Item_2063.png
+- name: Myconid Annulus
+  icon: images/Item_2049.png
+- name: Myconid Stipe
+  icon: images/Item_94.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +41,12 @@ expansion_source: patch
 ---
 
 Collection members are most likely to be found around the [[Abandoned Fungus Farm]] and the [[Ironblood Fungus Farm]].
+
+## Rewards
+
+- [[Tattered Banner of Thalumbra]]
+- [[Myconid Traces (Achievement)]]
+- one of the following:
+  - [[Aphotic Etched Bow]]
+  - [[Aphotic Stitched Satchel]]
+  - [[Aphotic Etched Wand]]

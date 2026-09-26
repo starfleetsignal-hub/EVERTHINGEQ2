@@ -3,6 +3,23 @@ title: Memories of a Cursed Bride
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Tower of Frozen Shadow: Umbral Halls]]'
+pieces:
+- name: Ceremonial Wedding Sword
+  page: Ceremonial Wedding Sword (Memories of a Cursed Bride)
+  icon: images/Item_1665.png
+- name: A Scorned Bride's Bouquet
+  page: A Scorned Bride's Bouquet (Memories of a Cursed Bride)
+  icon: images/Item_1955.png
+- name: A Discarded Invitation
+  page: A Discarded Invitation (Memories of a Cursed Bride)
+  icon: images/Item_1223.png
+- name: A Shattered Mirror
+  page: A Shattered Mirror (Memories of a Cursed Bride)
+  icon: images/Item_1000.png
+- name: A Scorned Bride's Ripped Veil
+  page: A Scorned Bride's Ripped Veil (Memories of a Cursed Bride)
+  icon: images/Item_965.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +42,8 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Form of the Lich Bride]]
+- [[Visage of the Scorned]]
+- [[Tales of the Tower Page 2]] this item is needed for the collection: [[Tales of the Tower (Collection)|Tales of the Tower]]

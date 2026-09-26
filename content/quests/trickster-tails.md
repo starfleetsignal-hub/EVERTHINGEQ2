@@ -2,6 +2,20 @@
 title: Trickster Tails
 type: quest
 level: '130'
+pieces:
+- name: Bloody Trickster Tail
+  icon: images/Item_95.png
+- name: Singed Trickster Tail
+  icon: images/Item_95.png
+- name: Matted Trickster Tail
+  icon: images/Item_95.png
+- name: Gnarled Trickster Tail
+  icon: images/Item_95.png
+- name: Muddy Trickster Tail
+  icon: images/Item_95.png
+- name: Skinned Trickster Tail
+  icon: images/Item_5796.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +33,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Terramite Shard]]

@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Goblin Games
 added_in: Renewal of Ro
+zone: '[[Takish Badlands: Overgrowth (Solo)]], [[Takish Badlands: Kigathor''s Glade (Solo)]]'
+pieces:
+- name: Armapine Bowling
+  icon: images/Item_2497.png
+- name: Bluff Diving
+  icon: images/Item_2497.png
+- name: Go Fish for Yha-Lei
+  icon: images/Item_2497.png
+- name: Grub Racing
+  icon: images/Item_2497.png
+- name: Spider Catching
+  icon: images/Item_2497.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Renewal Rune: Expedience (blue, Legendary)|Renewal Rune: Expedience]]
+- [[Goblin Games (Collection Item)|Goblin Games]] this item is needed for the collection: [[Amok in the Desert (Collection)|Amok in the Desert]]

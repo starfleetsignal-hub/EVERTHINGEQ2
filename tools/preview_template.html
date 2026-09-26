@@ -168,6 +168,28 @@ td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
 .derived{font-size:.88rem;color:var(--faint)}
 .loading{color:var(--muted);padding:24px 0}
 
+.article ul.pieces,ul.pieces{list-style:none;padding:0;margin:0 0 16px;display:grid;gap:4px;max-width:72ch}
+.pieces li{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:5px 10px;margin:0}
+.pieces li.got{background:color-mix(in srgb, var(--green) 12%, var(--surface));border-color:color-mix(in srgb, var(--green) 45%, var(--line))}
+.pieces label{display:flex;align-items:center;gap:10px;cursor:pointer;flex:1 1 200px;min-width:0;min-height:30px}
+.pieces input{width:18px;height:18px;margin:0;flex:none;accent-color:var(--green);cursor:pointer}
+.pieces img{width:28px;height:28px;border-radius:4px;background:#00000033;flex:none}
+.pieces small{color:var(--faint);font-size:.82rem}
+.coll.complete h2 .count,.collcard.complete .count{color:var(--green-soft);font-weight:700}
+.bar{display:block;height:6px;width:100%;background:var(--surface-2);border-radius:999px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--green);border-radius:inherit}
+.collcard{padding:0;margin:0 0 8px}
+.collcard>summary{display:flex;gap:14px;align-items:center;justify-content:space-between;padding:10px 14px;font-weight:500;list-style-position:outside}
+.collcard>summary b{font-family:var(--display);font-size:1.05rem;display:block}
+.collcard>summary small{color:var(--faint);font-size:.84rem;display:block}
+.collcard .cp{display:grid;gap:4px;justify-items:end;flex:0 0 110px}
+.collcard[open]>summary{border-bottom:1px solid var(--line)}
+.collcard .pieces{margin:10px 14px 8px}
+.collcard .crow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 14px 12px;max-width:none;font-size:.9rem}
+.collcard .crow a{margin-right:auto}
+.minibtn{background:var(--surface-2);border:1px solid var(--line);color:var(--text);border-radius:6px;padding:4px 10px;font:inherit;font-size:.85rem;cursor:pointer}
+.minibtn:hover{border-color:var(--brown)}
+.tools{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}
 .peek{position:fixed;z-index:30;max-width:300px;background:var(--surface);border:1px solid var(--brown);border-radius:8px;box-shadow:var(--shadow);padding:10px 12px;font-size:.88rem;pointer-events:none}
 .peek b{display:block;font-family:var(--display);font-size:1rem}
 .peek em{color:var(--faint);font-style:normal;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
@@ -282,6 +304,7 @@ function home(){
   <div class="art-head"><h1>A clean EverQuest II reference</h1></div>
   <p class="lede">Zones, quests, items, spells, achievements, NPCs, monsters and landmarks from The Shattered Lands through Rage of Cthurath, converted from the EverQuest II Wiki into ${total().toLocaleString()} editable pages. Waypoint chips copy a <code>/waypoint</code> command; zone pages list everything found in them.</p>
   <div class="stats">${TYPES.filter(([t])=>count(t)).map(([t,l])=>`<a href="#browse.${t}"><b>${count(t).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
+  ${META.collections?`<p>Hunting shinies? The <a href="#collections">collections tracker</a> lists all ${META.collections.toLocaleString()} collections and remembers which pieces you have found.</p>`:""}
   <h2>Releases</h2>
   <div class="xgrid">${XP.map((x,i)=>`<a class="xcard" href="#x.${xslug(x)}"><b>${esc(x)}</b><span>${YEARS[i]} <span>${xTotal(x).toLocaleString()} pages</span></span></a>`).join("")}</div>`;
 }
@@ -338,13 +361,129 @@ function browseRows(v){
   more.textContent = `Showing the first ${ROWCAP} matches. Type more of a name to narrow the list.`;
 }
 
+// ---------------------------------------------------------------- collections tracker
+// Progress lives only in this browser: {collection page id: [piece names found]}.
+const CKEY = "nl-collections";
+let CPROG = {}, COLLS = null, CL = [];
+try { CPROG = JSON.parse(localStorage.getItem(CKEY) || "{}") || {}; } catch(_) { CPROG = {}; }
+function saveProg(){ try { localStorage.setItem(CKEY, JSON.stringify(CPROG)); } catch(_) { say("This browser is not saving progress (private window?)"); } }
+const got = (c, n) => (CPROG[c] || []).includes(n);
+function setGot(c, n, on){
+  const s = new Set(CPROG[c] || []); on ? s.add(n) : s.delete(n);
+  if (s.size) CPROG[c] = [...s]; else delete CPROG[c];
+}
+function syncColl(sec){
+  const c = sec.dataset.coll, boxes = [...sec.querySelectorAll("input[data-piece]")];
+  let n = 0;
+  for (const b of boxes){ b.checked = got(c, b.dataset.piece); b.closest("li").classList.toggle("got", b.checked); n += b.checked; }
+  const cnt = sec.querySelector("[data-coll-count]"); if (cnt) cnt.textContent = `${n} / ${boxes.length}`;
+  const bar = sec.querySelector(".bar i"); if (bar) bar.style.width = (boxes.length ? 100 * n / boxes.length : 0) + "%";
+  sec.classList.toggle("complete", n > 0 && n === boxes.length);
+}
+function loadColls(){
+  if (!COLLS) COLLS = data("collections").catch(e=>{ COLLS = null; throw e; });
+  return COLLS;
+}
+const cfound = c => c[6].filter(p => got(c[0], p[0])).length;
+const cstate = c => { const n = cfound(c); return n === 0 ? "new" : n === c[6].length ? "done" : "part"; };
+function collSummary(){
+  const el = document.getElementById("csum"); if (!el || !CL.length) return;
+  let done = 0, part = 0, pieces = 0, all = 0;
+  for (const c of CL){ const n = cfound(c); pieces += n; all += c[6].length; if (n === c[6].length) done++; else if (n) part++; }
+  el.innerHTML = [[done, "complete", "done"], [part, "in progress", "part"], [CL.length - done - part, "not started", "new"], [pieces, `of ${all.toLocaleString()} pieces found`, ""]]
+    .map(([n, l, st])=>`<a href="#collections" role="button" data-cstat="${st}"><b>${n.toLocaleString()}</b><span>${l}</span></a>`).join("");
+}
+function tracker(s, list){
+  CL = list; const x = s ? xOf(s) : "";
+  return `
+  <div class="crumbs"><a href="#home">Home</a> › Collections</div>
+  <div class="art-head"><h1>Collections tracker</h1></div>
+  <p class="lede">Tick off collection pieces as you find them. Your progress is saved in this browser only, so use Export to keep a copy or move it to another computer.</p>
+  <div class="stats" id="csum"></div>
+  <div class="filter"><input id="cf" type="search" placeholder="Filter by collection, zone or piece" aria-label="Filter collections">
+    <select id="cx" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${y===x?" selected":""}>${esc(y)}</option>`).join("")}</select>
+    <select id="cs" aria-label="Progress"><option value="">Any progress</option><option value="part">In progress</option><option value="new">Not started</option><option value="done">Complete</option><option value="open">Not complete</option></select>
+    <select id="co" aria-label="Sort"><option value="name">Sort by name</option><option value="lvl">Sort by level</option><option value="prog">Most complete first</option></select>
+    <span id="ccount"></span></div>
+  <div class="tools"><button type="button" class="minibtn" id="cexport">Export progress</button><button type="button" class="minibtn" id="cimport">Import progress</button><input type="file" id="cfile" accept=".json,application/json" hidden><button type="button" class="minibtn" id="creset">Clear all progress</button></div>
+  <div id="clist"></div>
+  <p class="derived" id="cmore" hidden></p>`;
+}
+const CROWS = 150;
+function trackerRows(){
+  const v = document.getElementById("cf").value.trim().toLowerCase(), xs = document.getElementById("cx").value,
+        st = document.getElementById("cs").value, order = document.getElementById("co").value, x = xs ? xOf(xs) : "";
+  let hits = CL.filter(c => (!x || c[4] === x) && (!st || (st === "open" ? cstate(c) !== "done" : cstate(c) === st)) &&
+    (!v || (c[1] + " " + c[3] + " " + c[6].map(p=>p[0]).join(" ")).toLowerCase().includes(v)));
+  if (order === "lvl") hits = hits.slice().sort((a,b)=>num(a[2]) - num(b[2]) || a[1].localeCompare(b[1]));
+  if (order === "prog") hits = hits.slice().sort((a,b)=>cfound(b)/b[6].length - cfound(a)/a[6].length || a[1].localeCompare(b[1]));
+  document.getElementById("clist").innerHTML = hits.slice(0, CROWS).map(c=>{
+    const meta = [c[3], c[2] ? "Level " + c[2] : "", c[4], c[5]].filter(Boolean).map(esc).join(" · ");
+    return `<details class="collcard" data-coll="${esc(c[0])}"><summary><span><b>${esc(c[1].replace(/ \(Collection\)$/, ""))}</b><small>${meta}</small></span>
+      <span class="cp"><span class="count" data-coll-count></span><span class="bar"><i></i></span></span></summary>
+      <ul class="pieces">${c[6].map(([n, ic, pp])=>`<li><label><input type="checkbox" data-piece="${esc(n)}">${ic?`<img src="${esc(ic)}" alt="" loading="lazy">`:""}<span>${pp?link(pp, n):esc(n)}</span></label></li>`).join("")}</ul>
+      <p class="crow">${link(c[0], "Open the collection page")}<button type="button" class="minibtn" data-coll-set="1">Tick all</button><button type="button" class="minibtn" data-coll-set="0">Clear</button></p></details>`;
+  }).join("") || `<p class="derived">No collections match.</p>`;
+  document.querySelectorAll("#clist [data-coll]").forEach(syncColl);
+  document.getElementById("ccount").textContent = `${hits.length.toLocaleString()} of ${CL.length.toLocaleString()}`;
+  const more = document.getElementById("cmore");
+  more.hidden = hits.length <= CROWS;
+  more.textContent = `Showing the first ${CROWS} collections. Filter by release, zone or name to see the rest.`;
+  collSummary();
+}
+function trackerWire(){
+  let tmr; const upd = ()=>{ clearTimeout(tmr); tmr = setTimeout(trackerRows, 120); };
+  document.getElementById("cf").addEventListener("input", upd);
+  for (const id of ["cs", "co"]) document.getElementById(id).addEventListener("change", trackerRows);
+  document.getElementById("cx").addEventListener("change", e=>{ location.hash = "collections" + (e.target.value ? "." + e.target.value : ""); });
+  document.getElementById("cexport").onclick = ()=>{
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([JSON.stringify({site: "Norrath Ledger", collections: CPROG}, null, 1)], {type: "application/json"}));
+    a.download = "norrath-ledger-collections.json"; document.body.append(a); a.click(); a.remove();
+    setTimeout(()=>URL.revokeObjectURL(a.href), 1000);
+  };
+  const file = document.getElementById("cfile");
+  document.getElementById("cimport").onclick = ()=>file.click();
+  file.onchange = async ()=>{
+    try {
+      const d = JSON.parse(await file.files[0].text()), inc = d.collections || d; let n = 0;
+      for (const c in inc) if (Array.isArray(inc[c])) for (const p of inc[c]) if (typeof p === "string" && !got(c, p)){ setGot(c, p, true); n++; }
+      saveProg(); trackerRows(); say(`Imported ${n.toLocaleString()} pieces`);
+    } catch(_) { say("That file is not a progress export"); }
+    file.value = "";
+  };
+  document.getElementById("creset").onclick = ()=>{
+    if (!confirm("Clear every ticked piece in this browser? Export first if you want a copy.")) return;
+    CPROG = {}; saveProg(); trackerRows();
+  };
+  trackerRows();
+}
+document.addEventListener("change", e=>{
+  const b = e.target.closest("input[data-piece]"); if (!b) return;
+  const sec = b.closest("[data-coll]");
+  setGot(sec.dataset.coll, b.dataset.piece, b.checked); saveProg(); syncColl(sec); collSummary();
+});
+document.addEventListener("click", e=>{
+  const f = e.target.closest("[data-cstat]");
+  if (f){ e.preventDefault(); document.getElementById("cs").value = f.dataset.cstat; trackerRows(); return; }
+  const b = e.target.closest("[data-coll-set]"); if (!b) return;
+  const sec = b.closest("[data-coll]");
+  sec.querySelectorAll("input[data-piece]").forEach(i=>setGot(sec.dataset.coll, i.dataset.piece, b.dataset.collSet === "1"));
+  saveProg(); syncColl(sec); collSummary();
+});
+window.addEventListener("storage", e=>{       // another tab ticked something
+  if (e.key !== CKEY) return;
+  try { CPROG = JSON.parse(e.newValue || "{}") || {}; } catch(_) { return; }
+  document.querySelectorAll("#main [data-coll]").forEach(syncColl); collSummary();
+});
+
 const main = document.getElementById("main"), peek = document.getElementById("peek");
 let seq = 0;
 async function render(){
   const my = ++seq;
   const h = decodeURIComponent((location.hash || "#home").slice(1)) || "home";
   const id = pid(h);
-  document.querySelectorAll("#snav a, #xnav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#" + h || (h.startsWith("x.") && a.getAttribute("href") === "#x." + h.split(".")[1])));
+  document.querySelectorAll("#snav a, #xnav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#" + h || (h.startsWith("collections.") && a.getAttribute("href") === "#collections") || (h.startsWith("x.") && a.getAttribute("href") === "#x." + h.split(".")[1])));
   peek.hidden = true;
   if (h.startsWith("browse.")) {
     const [, ty, xs] = h.split(".");
@@ -354,6 +493,13 @@ async function render(){
     if (my !== seq) return;
     main.innerHTML = browse(ty, xs, all);
   }
+  else if (h === "collections" || h.startsWith("collections.")) {
+    main.innerHTML = `<p class="loading">Loading the collections…</p>`;
+    let list;
+    try { list = await loadColls(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The collections could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = tracker(h.split(".")[1], list); trackerWire();
+  }
   else if (h.startsWith("x.")) { const [, xs, tab] = h.split("."); main.innerHTML = expansionView(xs, tab); }
   else if (id.includes("/")) {
     main.innerHTML = `<p class="loading">Opening ${esc(titleOf(id))}…</p>`;
@@ -362,6 +508,7 @@ async function render(){
     catch(e){ html = `<p class="callout red">This page could not be loaded. Reload to try again.</p>`; }
     if (my !== seq) return;
     main.innerHTML = html;
+    main.querySelectorAll("[data-coll]").forEach(syncColl);
   } else main.innerHTML = home();
   window.scrollTo(0,0);
   const qf = document.getElementById("qf");
@@ -378,6 +525,7 @@ data("meta").then(d=>{
   META = d;
   for (const id in META.zones) IDX[id] = row(META.zones[id]);
   document.getElementById("snav").innerHTML = `<li><a href="#home">Overview<span></span></a></li>` +
+    (META.collections ? `<li><a href="#collections">Collections tracker<span>${META.collections.toLocaleString()}</span></a></li>` : "") +
     TYPES.filter(([t])=>count(t)).map(([t,l])=>`<li><a href="#browse.${t}">${l}<span>${count(t).toLocaleString()}</span></a></li>`).join("");
   document.getElementById("xnav").innerHTML = XP.map(x=>`<li><a href="#x.${xslug(x)}">${esc(x)}</a></li>`).join("");
   window.addEventListener("hashchange", render);

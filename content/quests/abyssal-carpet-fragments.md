@@ -3,6 +3,33 @@ title: Abyssal Carpet Fragments
 type: quest
 level: '80'
 added_in: LU52
+zone: '[[Kurn''s Tower (Zone)]], [[Kurn''s Tower: Breaching the Void]], [[Emperor''s Athenaeum]]'
+collection_type: Collection items
+pieces:
+- name: Front Left Corner
+  page: Front Left Corner (Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+  note: (Reward from the collection [[Ancient Bone Chips]])
+- name: Front Right Corner
+  page: Front Right Corner (Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+  note: (Reward from the collection [[Burynai Eyes]])
+- name: Rear Right Corner
+  page: Rear Right Corner (Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+  note: (Reward from the collection [[Crushed Skulls]])
+- name: Rear Left Corner
+  page: Rear Left Corner (Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+  note: (Reward from the collection [[Ancient Sathirian Volumes]])
+- name: Large Middle Section
+  page: Large Middle Section (Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+  note: (Reward from the collection [[Scorpikis Parts]])
+- name: Corner Carpet Tassel
+  page: Corner Carpet Tassel (Abyssal Carpet Fragments)
+  icon: images/Item_1218.png
+  note: (Reward from the collection [[Trinkets of the Digmasters]])
 categories:
 - Census Credits
 - Collection Quests
@@ -32,3 +59,7 @@ expansion_source: patch
     - [[Crushed Skulls]]
     - [[Ancient Sathirian Volumes]]
     - [[Skorpikis Parts]]
+
+## Rewards
+
+- [[Abyssal Carpet]]

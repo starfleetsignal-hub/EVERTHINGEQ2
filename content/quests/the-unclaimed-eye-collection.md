@@ -4,6 +4,25 @@ type: quest
 level: '70'
 in_game_name: The Unclaimed Eye
 added_in: Rise of Kunark
+zone: '[[Jarsath Wastes]]'
+collection_type: Pages
+pieces:
+- name: The Unclaimed Eye - Page 1
+  icon: images/Item_2180.png
+- name: The Unclaimed Eye - Page 3
+  icon: images/Item_2180.png
+- name: The Unclaimed Eye - Page 4
+  icon: images/Item_2180.png
+- name: The Unclaimed Eye - Page 6
+  icon: images/Item_2180.png
+- name: The Unclaimed Eye - Page 7
+  icon: images/Item_2180.png
+- name: The Unclaimed Eye - Page 8
+  icon: images/Item_2180.png
+- name: The Unclaimed Eye - Page 10
+  icon: images/Item_2180.png
+- name: The Unclaimed Eye - Page 11
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Unclaimed Eye (Item)|The Unclaimed Eye]]

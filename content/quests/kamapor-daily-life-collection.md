@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Kamapor Daily Life
 added_in: Visions of Vetrovia
+zone: '[[Svarni Expanse]]'
+pieces:
+- name: Stray Kinnahma Tail Ribbon
+  icon: images/Item_1102.png
+- name: Ahbat Lintel Carving
+  icon: images/Item_730.png
+- name: Quellious Figurine
+  icon: images/Item_2241.png
+- name: Kamapor Rice Basket
+  icon: images/Item_915.png
+- name: Lacquered Tea Tray
+  icon: images/Item_917.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +39,8 @@ expansion_source: patch
 ---
 
 ﻿
+
+## Rewards
+
+- [[Found Furious Chain]]
+- [[Kamapor Daily Life (Item)|Kamapor Daily Life]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

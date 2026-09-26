@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Primal Plague Keepsake
 added_in: Planes of Prophecy
+zone: '[[Plane of Disease: Infested Mesa (Event Heroic)]], [[Plane of Disease: Infested Mesa (Expert Event)]], [[Plane of Disease: Outbreak (Expert)]], [[Plane of Disease: Outbreak (Heroic)]], [[Plane of Disease: The Source (Expert)]], [[Plane of Disease: The Source (Heroic)]]'
+pieces:
+- name: Primal Plague Remnants
+  icon: images/Item_111.png
+- name: Malarian Postulary
+  icon: images/Item_415.png
+- name: Necrotic Scalpel
+  icon: images/Item_204.png
+- name: Pox-ridden Blanket
+  icon: images/Item_741.png
+- name: Fossilized Flesh Scraps
+  icon: images/Item_414.png
+- name: Preserved Toxin Dish
+  icon: images/Item_1063.png
+- name: Contaminated Bindings
+  icon: images/Item_382.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,9 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Primal Plague Keepsake (Item)|Primal Plague Keepsake]] this item is needed for the collection: [[Astral Plague Wards]]
+- one of the following:
+  - [[Primal Plague Sash]]
+  - [[Primal Plague Keepsake (Waist)|Primal Plague Keepsake]]

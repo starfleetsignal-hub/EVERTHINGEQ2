@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Pygmy Weapons
 added_in: Visions of Vetrovia
+zone: '[[Karuupa Jungle]]'
+pieces:
+- name: Pygmy Blowgun
+  icon: images/Item_877.png
+- name: Poison Darts
+  icon: images/Item_112.png
+- name: Pygmy Bone Club
+  icon: images/Item_322.png
+- name: Flint Knife
+  icon: images/Item_694.png
+- name: Sharpened Spear
+  icon: images/Item_287.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Hackamore of Conservation]]
+- [[Pygmy Weapons (Item)|Pygmy Weapons]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

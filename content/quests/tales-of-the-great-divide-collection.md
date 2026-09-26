@@ -4,6 +4,30 @@ type: quest
 level: '90'
 in_game_name: Tales of the Great Divide
 added_in: Destiny of Velious
+zone: '[[Great Divide]]'
+collection_type: Collection items
+pieces:
+- name: Tales of the Great Divide Page 1
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Coldain Relics]])
+- name: Tales of the Great Divide Page 2
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Order of Rime Battle Relics]])
+- name: Tales of the Great Divide Page 3
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Tokens of the Great Divide]])
+- name: Tales of the Great Divide Page 4
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Tizmak Trophies]])
+- name: Tales of the Great Divide Page 5
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Othmir Curios]])
+- name: Tales of the Great Divide Page 6
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Rime Badges of Rank]])
+- name: Tales of the Great Divide Page 7
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Relics of the Battle of Thurgadin]])
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +53,11 @@ This is not a normal collection quest. The collection members are not obtained b
 
 - The members of this collection are rewards from several other collections from the [[Great Divide]]
 - The reward of this collection is needed for the collection [[The Chronicles of Velious]]
+
+## Rewards
+
+- [[Great Divide Explorer's Badge: Resilience]]
+- [[Great Divide Explorer's Badge: Power]]
+- [[Great Divide Explorer's Badge: Renewal]]
+- [[Great Divide Explorer's Badge: Subtlety]]
+- [[Tales of the Great Divide (Item)|Tales of the Great Divide]] this item is needed for the collection: [[The Chronicles of Velious]]

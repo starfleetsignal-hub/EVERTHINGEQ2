@@ -6,6 +6,18 @@ in_game_name: striped spider collection
 added_in: Shattered Lands
 aliases:
 - 'Spider: striped spider collection'
+zone: '[[Stormhold]]'
+pieces:
+- name: striped blue spider
+  icon: images/Item_1873.png
+- name: striped green spider
+  icon: images/Item_1872.png
+- name: striped grey spider
+  icon: images/Item_1871.png
+- name: striped yellow spider
+  icon: images/Item_1874.png
+- name: striped red spider
+  icon: images/Item_1875.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- At least 54s 00c

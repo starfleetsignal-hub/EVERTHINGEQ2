@@ -4,6 +4,26 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Cantrie's Fishing Hook
+  page: Cantrie's Fishing Hook (Remnants of Refuge)
+  icon: images/Item_2338.png
+- name: Deebo's Fishing Pole
+  page: Deebo's Fishing Pole (Remnants of Refuge)
+  icon: images/Item_3131.png
+- name: Dovin's Merchant Sack
+  page: Dovin's Merchant Sack (Remnants of Refuge)
+  icon: images/Item_402.png
+- name: Gerrin's Pocket Watch
+  page: Gerrin's Pocket Watch (Remnants of Refuge)
+  icon: images/Item_2252.png
+- name: Valik's Map Book
+  page: Valik's Map Book (Remnants of Refuge)
+  icon: images/Item_719.png
+- name: Anikra's Doll
+  page: Anikra's Doll (Remnants of Refuge)
+  icon: images/Item_4073.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,3 +47,9 @@ expansion_source: patch
 ---
 
 Collection members are only found on the Isle of Refuge
+
+## Rewards
+
+- [[Dshinn Palms]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Refuge]] this item is needed for the collection: [[Shields of Tranquil Sea]]

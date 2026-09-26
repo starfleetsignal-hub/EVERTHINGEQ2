@@ -3,6 +3,19 @@ title: Magics of Kusala'Din
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Fiery Figment
+  icon: images/Item_4082.png
+- name: Boiling Bubble
+  icon: images/Item_5694.png
+- name: Fervid Fiction
+  icon: images/Item_4080.png
+- name: Igneous Illusion
+  icon: images/Item_4076.png
+- name: Flaring Fantasy
+  icon: images/Item_4081.png
+- name: Fevered Fabrication
+  icon: images/Item_4083.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Malicious Blight]]
+- [[Fragment of Collected Ballads (Treasured) (Version 2)|Fragment of Collected Ballads]]
+- [[Vaashkaani Cornet]] this item is needed for the collection: [[Overrealm Instruments]]

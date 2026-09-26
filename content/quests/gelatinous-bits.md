@@ -3,6 +3,18 @@ title: Gelatinous Bits
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Heroic I)]], [[Shattered Unrest (Heroic II)]], [[Shattered Unrest (Heroic III)]]'
+pieces:
+- name: Clumped Jellied Bit
+  icon: images/Item_334.png
+- name: Dried Jellied Bit
+  icon: images/Item_333.png
+- name: Sizzled Jellied Bit
+  icon: images/Item_330.png
+- name: Resinous Jellied Bit
+  icon: images/Item_331.png
+- name: Darkend Jellied Bit
+  icon: images/Item_335.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A strange canary crystal]]
+- [[Gooey Goo Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

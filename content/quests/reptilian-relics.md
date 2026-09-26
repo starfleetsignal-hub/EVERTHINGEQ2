@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Spinemaster's Crusher
+  icon: images/Item_285.png
+- name: Ambusher's Net
+  icon: images/Item_321.png
+- name: Bowmaster's Line
+  icon: images/Item_286.png
+- name: Woundbreaker's Talisman
+  icon: images/Item_165.png
+- name: Boneshadow's Knife
+  icon: images/Item_24.png
+- name: Lavalescent's Shield
+  icon: images/Item_21.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,3 +41,9 @@ expansion_source: patch
 ---
 
 Note that all these collection items are found on the [[South Dshinn]] Isle within [[Tranquil Sea]].
+
+## Rewards
+
+- [[Small Stack of Far Seas Ferrin]]
+- [[Allu'thoan Fire Pit]]
+- [[Shield of Gura-Gura]] this item is needed for the collection: [[Shields of Tranquil Sea]]

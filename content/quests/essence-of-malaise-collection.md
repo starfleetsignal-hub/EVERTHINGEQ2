@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Essence of Malaise
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Plane of Disease: Infested Mesa (Duo)]], [[Plane of Disease: Outbreak (Solo)]], [[Plane of Disease: The Source (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Essences of Disease
+  icon: images/Item_611.png
+- name: Essence of Contagion
+  icon: images/Item_611.png
+- name: Essence of Pestilence
+  icon: images/Item_611.png
+- name: Essence of Plague
+  icon: images/Item_611.png
+- name: Viral Essence
+  icon: images/Item_611.png
+- name: Essence of Infection
+  icon: images/Item_611.png
+- name: Essence of Illness
+  icon: images/Item_611.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -29,4 +46,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Essence of Malaise (Item)|Essence of Malaise]] this item is needed for the collection: [[Planar Disease Ward (Collection)|Planar Disease Ward]]
+- [[Bracelet of Malaise]]

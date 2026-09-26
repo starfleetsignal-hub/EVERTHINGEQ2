@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Deino Dancing
 added_in: Visions of Vetrovia
+pieces:
+- name: Dimetradon Disco
+  icon: images/Item_4293.png
+- name: Pteradon Pavane
+  icon: images/Item_4294.png
+- name: Cerodon Cavorting
+  icon: images/Item_4289.png
+- name: Stegodon Salsa
+  icon: images/Item_4293.png
+- name: Apatadon Adiago
+  icon: images/Item_4294.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Gaze Distraction]]
+- [[Deino Dancing (Item)|Deino Dancing]] this item is needed for the collection: [[More Sights and Sounds]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Fungoid Drone Cap
+  icon: images/Item_2010.png
+- name: Fungoid Drone Stalk
+  icon: images/Item_194.png
+- name: Fungoid Soldier Cap
+  icon: images/Item_2009.png
+- name: Fungoid Soldier Stalk
+  icon: images/Item_197.png
+- name: Fungoid Soldier Eye
+  icon: images/Item_145.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Stormwarder]] this item is needed for the collection: [[Inhabitants of Guk]]

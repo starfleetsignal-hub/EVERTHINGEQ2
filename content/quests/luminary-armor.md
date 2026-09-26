@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Sanctus Seru: Arx Aeturnus (Solo)]], [[Sanctus Seru: Echelon of Divinity (Solo)]], [[Sanctus Seru: Echelon of Order (Solo)]]'
+pieces:
+- name: Ranger's Tooled Forearms
+  icon: images/Item_506.png
+- name: Paladin's Etched Boots
+  icon: images/Item_503.png
+- name: Cleric's Gilded Helm
+  icon: images/Item_474.png
+- name: Sorcerer's Blackened Hood
+  icon: images/Item_540.png
+- name: Ranger's Decorated Spaulders
+  icon: images/Item_505.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,10 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Gilded Luminary Chestplate]]
+- [[Gilded Luminary Robes]]
+- [[Gilded Luminary Chestguard]]
+- [[Gilded Luminary Hauberk]]
+- [[Seru Badge of Honor]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]

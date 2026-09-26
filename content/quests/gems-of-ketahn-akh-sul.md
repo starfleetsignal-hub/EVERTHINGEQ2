@@ -3,6 +3,19 @@ title: Gems of Ketahn Akh Sul
 type: quest
 level: '90'
 added_in: LU61
+zone: '[[Silent City: The Delving Dead]]'
+collection_type: Shiny
+pieces:
+- name: Ketahn's Lapis Lazuli Ring
+  icon: images/Item_3442.png
+- name: Ketahn's Golden Bracelet
+  icon: images/Item_3436.png
+- name: Ketahn's Golden Chain
+  icon: images/Item_3449.png
+- name: Ketahn's Emerald Pectoral
+  icon: images/Item_3450.png
+- name: Ketahn's Feldspar Earring
+  icon: images/Item_3463.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Form of Ketahn Akh Sul]]
+- [[Ruby Shard of Amenophas]] this item is needed for the collection: [[Shards of Amenophas]]

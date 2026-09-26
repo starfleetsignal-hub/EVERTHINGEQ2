@@ -4,6 +4,26 @@ type: quest
 level: '35'
 in_game_name: Rise of the Orcs - The Rousing
 added_in: Shattered Lands
+zone: '[[Zek, the Orcish Wastes]]'
+collection_type: Pages
+pieces:
+- name: Rise of the Orcs - The Rousing  - Page 4
+  icon: images/Item_2180.png
+  note: Clickable lamp  at side of lift in orc mine at {{waypoint 324, -111, -109}}
+- name: Rise of the Orcs - The Rousing - Page 5
+  icon: images/Item_2180.png
+  note: Clickable bucket in tunnel lift of orc mine at {{waypoint 256, -118, -106}}
+- name: Rise of the Orcs - The Rousing - Page 6
+  icon: images/Item_2180.png
+  note: Harvestable page only
+- name: Rise of the Orcs - The Rousing  - Page 10
+  icon: images/Item_2180.png
+  note: Harvestable {{waypoint -482, -28, -132}}
+- name: Rise of the Orcs - The Rousing - Page 11
+  icon: images/Item_2180.png
+- name: Rise of the Orcs - The Rousing - Page 12
+  icon: images/Item_2180.png
+  note: Harvestable {{waypoint -507, -28, -166}}
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +44,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Rise of the Orcs - The Rousing (CollectionReward)|Rise of the Orcs - The Rousing]]

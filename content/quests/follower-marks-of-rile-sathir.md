@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Crypt of Dalnir: Baron''s Workshop (Heroic)]], [[Crypt of Dalnir: Ritual Chamber (Heroic)]], [[Crypt of Dalnir: Wizard''s Den (Event Heroic)]], [[Crypt of Dalnir: Wizard''s Den (Expert Event)]], [[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Eidolic Signature of Rile
+  icon: images/Item_2164.png
+- name: Ghostly Insignia of Rile
+  icon: images/Item_2240.png
+- name: Phantom Symbol of Rile
+  icon: images/Item_2242.png
+- name: Shadowy Stamp of Rile
+  icon: images/Item_2166.png
+- name: Spiritual Impression of Rile
+  icon: images/Item_1214.png
+- name: Wraith Brand of Rile
+  icon: images/Item_372.png
 categories:
 - Census Credits
 - Collection Quests
@@ -30,4 +45,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ancient Offering for Rile]] this item is needed for the collection: [[Alms of the Crypt of Dalnir]]
+- one of the following:
+  - [[Sathirian Symbolic Sword]]
+  - [[Sathirian Revered Staff]]

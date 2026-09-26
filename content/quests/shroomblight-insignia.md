@@ -2,6 +2,20 @@
 title: Shroomblight Insignia
 type: quest
 level: '130'
+pieces:
+- name: Blight-Marked Stone
+  icon: images/Item_5802.png
+- name: Woe-Marked Scrap
+  icon: images/Item_5943.png
+- name: Rot-Marked Stone
+  icon: images/Item_5802.png
+- name: Bane-Marked Scrap
+  icon: images/Item_5943.png
+- name: Blood-Blotted Scrap
+  icon: images/Item_5943.png
+- name: Gore-Marked Stone
+  icon: images/Item_5802.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +33,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Blackened Gnoll Skull]]

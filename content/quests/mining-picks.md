@@ -5,6 +5,21 @@ level: '35'
 added_in: Echoes of Faydwer
 aliases:
 - 'Kaladim: Mining Picks'
+zone: '[[Kaladim]]'
+collection_type: Hidden
+pieces:
+- name: chipped mining pick
+  icon: images/Item_1668.png
+- name: cracked mining pick
+  icon: images/Item_1668.png
+- name: pristine mining pick
+  icon: images/Item_1668.png
+- name: sharpened mining pick
+  icon: images/Item_1668.png
+- name: shattered mining pick
+  icon: images/Item_1668.png
+- name: worn mining pick
+  icon: images/Item_1668.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Kaladim Altar]]

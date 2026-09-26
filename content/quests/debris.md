@@ -3,6 +3,14 @@ title: Debris
 type: quest
 level: '55'
 added_in: LU53
+zone: '[[Shard of Love: A Moment of Valor]]'
+pieces:
+- name: a chunk of wall
+  icon: images/Item_1124.png
+- name: a chunk of railing
+  icon: images/Item_1135.png
+- name: a chunk of stairway
+  icon: images/Item_1131.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +31,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A stone statue footing]] this item is needed for the collection: [[Dismantled Statue Pieces]]

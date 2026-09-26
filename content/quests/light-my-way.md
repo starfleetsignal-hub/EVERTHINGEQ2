@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Temple of Veeshan: Vulak''Aerr''s Dominion (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Silver Skull Lantern
+  icon: images/Item_2243.png
+- name: Gold Skull Lantern
+  icon: images/Item_2244.png
+- name: Bronze Skull Lantern
+  icon: images/Item_2245.png
+- name: Burning Torch
+  icon: images/Item_2229.png
+- name: Visionary Light
+  icon: images/Item_2226.png
+- name: Glowing Beans
+  icon: images/Item_2353.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Vishra's Beacon]] this item is needed for the collection: [[Visionary Relief]]
+- one of the following:
+  - [[Vesspyr Scout's Blue Bracers]]
+  - [[Vesspyr Workman's Green Pants]]

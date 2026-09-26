@@ -3,6 +3,20 @@ title: Affixes of Anguish
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Suffering Affix
+  icon: images/Item_3778.png
+- name: Attrition Affix
+  icon: images/Item_3778.png
+- name: Revelation Affix
+  icon: images/Item_3778.png
+- name: Utterance Affix
+  icon: images/Item_3778.png
+- name: Infernal Affix
+  icon: images/Item_3778.png
+  note: no-trade
+- name: Unknown Affix
+  icon: images/Item_3778.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +38,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Voidmetal Sabatons]]
+- [[Fragment of Collected Void]]
+- [[Bloody Shackle]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

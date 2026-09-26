@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sinking Sands]]'
+collection_type: Year of Discovery
+pieces:
+- name: shining black solifugid
+  page: Shining black solifugid (Fabled Shining Solifugid Collection)
+  icon: images/Item_1841.png
+- name: shining blue solifugid
+  page: Shining blue solifugid (Fabled Shining Solifugid Collection)
+  icon: images/Item_1843.png
+- name: shining brown solifugid
+  page: Shining brown solifugid (Fabled Shining Solifugid Collection)
+  icon: images/Item_1844.png
+- name: shining green solifugid
+  page: Shining green solifugid (Fabled Shining Solifugid Collection)
+  icon: images/Item_1842.png
+- name: shining red solifugid
+  page: Shining red solifugid (Fabled Shining Solifugid Collection)
+  icon: images/Item_1845.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +44,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

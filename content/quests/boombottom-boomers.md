@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Boombottom Spotter Swatter
+  icon: images/Item_634.png
+  note: no-trade
+- name: Boombottom Rager Wrecker
+  icon: images/Item_284.png
+- name: Boombottom Smithy Smacker
+  icon: images/Item_285.png
+- name: Boombottom Pummeler Pounder
+  icon: images/Item_636.png
+- name: Boombottom Corrupter Crasher
+  icon: images/Item_638.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Boombottom Cloak of Boom]]
+- [[Xorxx's Totem]] this item is needed for the collection: [[Runnyeye Bits]]

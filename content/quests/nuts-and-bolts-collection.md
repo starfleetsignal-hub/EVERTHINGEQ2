@@ -5,6 +5,19 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Nuts and Bolts
 added_in: Reign of Shadows
+pieces:
+- name: Size 6 Gizmo
+  icon: images/Item_973.png
+- name: Containment Unit Bolt
+  icon: images/Item_706.png
+- name: Display Case Screw
+  icon: images/Item_682.png
+- name: Broken Sprocket
+  icon: images/Item_1044.png
+- name: Titanium Gear
+  icon: images/Item_1042.png
+- name: Rusty Bent Nail
+  icon: images/Item_708.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Ritual Bowl (House Item)|A Ritual Bowl]]
+- [[A Ritual Bowl (Collection Item)|A Ritual Bowl]] this item is needed for the collection: [[Vasty Deep Lost and Found]]

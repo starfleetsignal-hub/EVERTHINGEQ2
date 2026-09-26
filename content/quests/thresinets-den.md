@@ -4,6 +4,32 @@ type: quest
 level: '135'
 timeline: '[[Revelations of Malice Timeline]]'
 added_in: Revelations of Malice
+pieces:
+- name: Shralok Bone Clasp
+  icon: images/Item_1043.png
+  note: no-trade
+- name: Shralok Ritual Ring
+  icon: images/Item_2204.png
+- name: Shralok Command Band
+  icon: images/Item_2196.png
+- name: Shralok War Token
+  icon: images/Item_1764.png
+- name: Shralok Bone Spike
+  icon: images/Item_1031.png
+- name: Shralok Stitched Wrap
+  icon: images/Item_2194.png
+- name: Mucktail Crude Hook
+  icon: images/Item_1037.png
+- name: Mucktail Work Strap
+  icon: images/Item_762.png
+- name: Mucktail Blood Seal
+  icon: images/Item_371.png
+- name: Mucktail Furball
+  icon: images/Item_5746.png
+- name: Bleederach Kill Strap
+  icon: images/Item_286.png
+- name: Protectarach Food Pouch
+  icon: images/Item_248.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +49,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fragment of Collected Void]]
+- [[Wrek's Shadowblade]] this item is needed for the collection: [[Visions of Malice]]

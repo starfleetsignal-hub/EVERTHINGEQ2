@@ -4,6 +4,19 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: Renewal of Ro
+pieces:
+- name: Robes of the Blackspawn
+  icon: images/Item_5292.png
+- name: Slippers of the Blackspawn
+  icon: images/Item_5322.png
+- name: Wand of the Blackspawn
+  icon: images/Item_5340.png
+- name: Tome of the Blackspawn
+  icon: images/Item_4814.png
+- name: Symbol of the Blackspawn
+  icon: images/Item_5343.png
+- name: Orb of the Blackspawn
+  icon: images/Item_4730.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,6 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Blackspawn Trident]] this item is needed for the collection: [[Duende Ancient Armaments]]

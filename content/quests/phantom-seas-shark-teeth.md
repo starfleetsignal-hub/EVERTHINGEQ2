@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Event Heroic)]]'
+pieces:
+- name: Phantom Dusky Shark Tooth
+  icon: images/Item_3939.png
+- name: Phantom Great White Shark Tooth
+  icon: images/Item_3939.png
+- name: Phantom Sand Shark Tooth
+  icon: images/Item_3939.png
+- name: Phantom Frilled Shark Tooth
+  icon: images/Item_3939.png
+- name: Phantom Blue Shark Tooth
+  icon: images/Item_3939.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Grogmaga's Grog]] this item is needed for the collection: [[Pirate Belongings]]

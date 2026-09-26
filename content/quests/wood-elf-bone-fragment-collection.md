@@ -6,6 +6,19 @@ in_game_name: wood elf bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: wood elf bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered wood elf bone fragment
+  icon: images/Item_322.png
+- name: cracked wood elf bone fragment
+  page: Cracked wood elf bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered wood elf bone fragment
+  icon: images/Item_322.png
+- name: unscathed wood elf bone fragment
+  icon: images/Item_322.png
+- name: enchanted wood elf bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Weathered bone fragments collection|Weathered bone fragments]]
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
+
+## Rewards
+
+- [[Petrified Wood Elf Eye]]

@@ -4,6 +4,15 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[High Keep: The Pickclaw Depths (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Golden Roach
+  icon: images/Item_2665.png
+- name: Lava Roach
+  icon: images/Item_2668.png
+- name: Shadowed Roach
+  icon: images/Item_2677.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +35,8 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Aeterna Life Strand]] this item is needed for the collection: [[Visionary Relief]]
+- [[Vesspyr Scholar's Blue Robe]]

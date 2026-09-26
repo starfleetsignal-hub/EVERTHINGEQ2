@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Temple of Cazic-Thule]]'
+collection_type: Shiny
+pieces:
+- name: Dark Viscous Silt
+  icon: images/Item_1157.png
+- name: Grey Viscous Slime
+  icon: images/Item_1148.png
+- name: Black Viscous Muck
+  icon: images/Item_1124.png
+- name: Yellow Viscous Goo
+  icon: images/Item_1165.png
+- name: Red Viscous Sludge
+  icon: images/Item_1129.png
 categories:
 - Cazic-Thule (Fabled) (CQ Category)
 - Census Credits
@@ -23,4 +36,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Primitive Torturer Pin]] this item is needed for the collection: [[Primitive Thulian Pins]]
+- one of the following:
+  - [[Thulian Ooze Covered Necklace]]
+  - [[Thulian Ooze Covered Chain]]

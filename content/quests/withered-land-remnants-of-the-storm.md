@@ -3,6 +3,24 @@ title: Withered Land Remnants of the Storm
 type: quest
 level: '90'
 added_in: LU63
+zone: '[[The Withered Lands]]'
+pieces:
+- name: Unmelting Hail Stone
+  icon: images/Item_1197.png
+- name: Solidified Lightning Spark
+  icon: images/Item_2516.png
+- name: Storm Cloud Essence
+  icon: images/Item_2938.png
+- name: Glowing Raindrop
+  icon: images/Item_2011.png
+- name: Encapsulated Thunder
+  icon: images/Item_1217.png
+- name: Storm Drake Scale
+  icon: images/Item_85.png
+- name: Storm Drake Fang
+  icon: images/Item_102.png
+- name: Storm Elemental Core
+  icon: images/Item_2798.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,7 @@ expansion: Age of Discovery
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Effigy of the Storm Queen Plushie]]
+- [[Withered Storm Rune]] this item is needed for the collection: [[Fragments of Growth]]

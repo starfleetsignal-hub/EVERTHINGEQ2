@@ -4,6 +4,29 @@ type: quest
 level: '72'
 in_game_name: A Sojourn of Faith
 added_in: Echoes of Faydwer
+zone: '[[The Estate of Unrest]]'
+collection_type: Pages
+pieces:
+- name: A Sojourn of Faith - Page 1
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 2
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 3
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 4
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 5
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 6
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 7
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 8
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 9
+  icon: images/Item_2181.png
+- name: A Sojourn of Faith - Page 10
+  icon: images/Item_2181.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +47,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Sojourn of Faith (Item)|A Sojourn of Faith]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: LU106
+zone: '[[Shard of Hate: Udder Contempt (Herd Mode)]], [[Shard of Hate: Utter Contempt (Heroic)]]'
+pieces:
+- name: Detestably Woven Enchantment
+  icon: images/Item_2694.png
+- name: Detestably Scrawled Unknown
+  icon: images/Item_2184.png
+- name: Detestably Scarred Eidolon
+  icon: images/Item_938.png
+- name: Detestably Mutilated Sinew
+  icon: images/Item_135.png
+- name: Detestably Chewed Devotion
+  icon: images/Item_109.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Planes of Prophecy
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Gob of Obscenity]] this item is needed for the collection: [[Fragments of Hate]]
+- [[Vexing Bow of Thorns]]

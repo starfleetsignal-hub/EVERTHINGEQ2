@@ -4,6 +4,19 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Golden Scarab Leg
+  icon: images/Item_409.png
+  note: no-trade
+- name: Golden Scarab Thorax
+  icon: images/Item_95.png
+  note: no-trade
+- name: Golden Scarab Eye
+  icon: images/Item_83.png
+  note: no-trade
+- name: Golden Scarab Head
+  icon: images/Item_320.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Golden Scarab (Familiar)|Golden Scarab]]

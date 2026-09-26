@@ -4,6 +4,29 @@ type: quest
 level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 added_in: LU109
+collection_type: Collection items
+pieces:
+- name: Bristlebane's Flask
+  icon: images/Item_405.png
+  note: 'no-trade - (Reward from the collection [[Castle Mischief: Energy Capsules]])'
+- name: Bristlebane's Prized Coin
+  icon: images/Item_1330.png
+  note: 'no-trade - (Reward from the collection [[Castle Mischief: Makeshift Coins]])'
+- name: Bristlebane's Crown
+  icon: images/Item_1769.png
+  note: 'no-trade - (Reward from the collection [[Castle Mischief: Strange Liquids]])'
+- name: Bristlebane's Stuffed Tabby
+  icon: images/Item_2255.png
+  note: 'no-trade - (Reward from the collection [[Castle Mischief: Stuffed Monkeys]])'
+- name: Bristlebane's Gambling Chips
+  icon: images/Item_2303.png
+  note: 'no-trade - (Reward from the collection [[Castle Mischief: Colored Glasses]])'
+- name: Bristlebane's Vibrating Purple Crystal
+  icon: images/Item_3772.png
+  note: 'no-trade - (Reward from the collection [[Castle Mischief: Curtain Fabrics]])'
+- name: Bristlebane's Dangling Locket
+  icon: images/Item_3447.png
+  note: 'no-trade - (Reward from the collection [[Castle Mischief: Mischievous Dolls]])'
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -24,4 +47,9 @@ expansion: Chaos Descending
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Bristlebane's Bountiful Baubles Belt]]
+- [[A mischievous box]]
+- [[A Strange Knight Card]]
+- one of the following:

@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Great Divide]]'
+collection_type: Year of Discovery
+pieces:
+- name: Ceremonial Wedding Sword
+  page: Ceremonial Wedding Sword (Fabled Memories of a Cursed Bride)
+  icon: images/Item_1665.png
+- name: A Scorned Bride's Bouquet
+  page: A Scorned Bride's Bouquet (Fabled Memories of a Cursed Bride)
+  icon: images/Item_1955.png
+- name: A Discarded Invitation
+  page: A Discarded Invitation (Fabled Memories of a Cursed Bride)
+  icon: images/Item_1223.png
+- name: A Shattered Mirror
+  page: A Shattered Mirror (Fabled Memories of a Cursed Bride)
+  icon: images/Item_1000.png
+- name: A Scorned Bride's Ripped Veil
+  page: A Scorned Bride's Ripped Veil (Fabled Memories of a Cursed Bride)
+  icon: images/Item_965.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +44,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

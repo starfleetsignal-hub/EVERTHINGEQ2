@@ -6,6 +6,21 @@ timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
 aliases:
 - Firey Destruction Eulogies
+zone: '[[Arcanna''se Spire (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Parchment of Ablaze Funerals
+  icon: images/Item_2564.png
+- name: Incandescent Pyre Pendant
+  icon: images/Item_2523.png
+- name: Rolled Vellum of Incremation
+  icon: images/Item_2184.png
+- name: Cleansing Inferno Impression
+  icon: images/Item_2572.png
+- name: Seared Kindling Hearth
+  icon: images/Item_2267.png
+- name: Warm Welcome of Oblivion
+  icon: images/Item_2934.png
 categories:
 - Arcanna'se Spire (Heroic) Collection Quests
 - Census Credits
@@ -27,4 +42,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Absolution of Aniquilacion]] this item is needed for the collection: [[Departed Deific Efforts]]
+- one of the following:
+  - [[Earrings of Incremation]]
+  - [[Necklace of Kindling Hearth]]

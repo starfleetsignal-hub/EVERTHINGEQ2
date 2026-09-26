@@ -4,6 +4,24 @@ type: quest
 level: '62'
 in_game_name: The First Vision
 added_in: Fallen Dynasty
+zone: '[[The Forsaken City]]'
+collection_type: Pages
+pieces:
+- name: The First Vision, page 1
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: The First Vision, page 2
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: The First Vision, page 3
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: The First Vision, page 4
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: The First Vision, page 5
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +40,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[The First Vision (Item)|The First Vision]]

@@ -4,6 +4,19 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Collection items
+pieces:
+- name: Goblin Rock
+  icon: images/Item_2321.png
+  note: (Reward from the collection [[Goblin Circlet]])
+- name: Miner's Diamond
+  icon: images/Item_1178.png
+  note: (Reward from the collection [[Miner's Dream]])
+- name: Ancient Fossil
+  page: Ancient Fossil (Ground Treasures)
+  icon: images/Item_1186.png
+  note: (Reward from the collection [[Fossil Fossil]])
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +40,8 @@ expansion_source: patch
 
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 Instead, the collection members are themselves all obtained from the completion of other collection quests. This is called a "meta-collection".<br>
+
+## Rewards
+
+- [[Small Stack of Draconic Etyma]]
+- [[Flocked Together Feather]] this item is needed for the collection: [[Ethereal Memories]]

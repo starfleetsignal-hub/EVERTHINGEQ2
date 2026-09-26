@@ -5,6 +5,25 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Teeth: Abomination Teeth'
+zone: '[[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: broken abomination incisor
+  icon: images/Item_102.png
+- name: chipped abomination incisor
+  icon: images/Item_102.png
+- name: polished abomination incisor
+  icon: images/Item_102.png
+- name: worn abomination incisor
+  icon: images/Item_102.png
+- name: broken abomination molar
+  icon: images/Item_102.png
+- name: chipped abomination molar
+  icon: images/Item_102.png
+- name: polished abomination molar
+  icon: images/Item_102.png
+- name: worn abomination molar
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +44,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Friendly Gazer Runt]]

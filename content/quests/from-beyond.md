@@ -3,6 +3,20 @@ title: From Beyond
 type: quest
 level: '20'
 added_in: LU129
+collection_type: Other
+pieces:
+- name: Swirling Black Scintilla
+  icon: images/Item_2512.png
+- name: Netherforged Metal Shard
+  icon: images/Item_5778.png
+- name: Sticky Glowing Slime
+  icon: images/Item_3427.png
+- name: Undulating Horror Fiber
+  icon: images/Item_4083.png
+- name: Blob of Ineffable Color
+  icon: images/Item_3477.png
+- name: Shiny Oblivionite Piece
+  icon: images/Item_5935.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,3 +36,8 @@ source:
 ---
 
 This collection is only active during [[Heralds of Oblivion prelude (World event)]], a prelude event to the upcoming 2025 expansion [[Rage of Cthurath Timeline|Rage of Cthurath]].
+
+## Rewards
+
+- 10x  [[Brass Lambent]]
+  - [[Title: Hunter of the Beyond]]

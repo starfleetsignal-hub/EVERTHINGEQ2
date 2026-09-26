@@ -4,6 +4,23 @@ type: quest
 level: '62'
 in_game_name: A History of the Vah Shir, Vol. II
 added_in: Fallen Dynasty
+zone: '[[The Forsaken City]]'
+collection_type: Pages
+pieces:
+- name: A History of the Vah Shir, Vol. II, page 1
+  icon: images/Item_2181.png
+- name: A History of the Vah Shir, Vol. II, page 2
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: A History of the Vah Shir, Vol. II, page 3
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: A History of the Vah Shir, Vol. II, page 4
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: A History of the Vah Shir, Vol. II, page 5
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +39,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A History of the Vah Shir, Vol. II (Item)|A History of the Vah Shir, Vol. II]]

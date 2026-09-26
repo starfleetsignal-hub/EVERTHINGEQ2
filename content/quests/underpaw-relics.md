@@ -2,6 +2,19 @@
 title: Underpaw Relics
 type: quest
 level: '130'
+pieces:
+- name: Braided Leather Relic
+  icon: images/Item_4865.png
+- name: Painted Feather Relic
+  icon: images/Item_4866.png
+- name: Polished Stone Relic
+  icon: images/Item_4863.png
+- name: Painted Bone Relic
+  icon: images/Item_4864.png
+- name: Tanned Flesh Relic
+  icon: images/Item_4867.png
+- name: Tooth Adorned Relic
+  icon: images/Item_4868.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Talismanic Mania Mark]]
+- [[Rockpaw Furblaster Plushie]]

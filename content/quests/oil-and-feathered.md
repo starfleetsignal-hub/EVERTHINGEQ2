@@ -4,6 +4,18 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Collection items
+pieces:
+- name: Baby Dragon Egg
+  icon: images/Item_2947.png
+  note: (Reward from the collection [[Dragons to Be]])
+- name: Light the Sky
+  icon: images/Item_409.png
+  note: (Reward from the collection [[Light the Way (Collection)|Light the Way]])
+- name: Bird Beak
+  icon: images/Item_82.png
+  note: (Reward from the collection [[Drake Scales]])
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Trapped Soul Doll]] this item is needed for the collection: [[Ethereal Memories]]
+- one of the following:
+  - [[Vesspyr Scholar's Blue Cowl]]
+  - [[Vesspyr Warrior's Elaborate Red Pauldrons]]

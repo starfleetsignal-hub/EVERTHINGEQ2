@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Deadly Curses
 added_in: Visions of Vetrovia
+pieces:
+- name: Turn Flesh to Stone
+  icon: images/Item_4737.png
+- name: Viktor's Terrible Suffocation
+  icon: images/Item_4374.png
+- name: Nogrovska's Bone Shatter
+  icon: images/Item_4351.png
+- name: Francine's Liquefy Organs
+  icon: images/Item_4888.png
+- name: Rastar's Rotting Flesh
+  icon: images/Item_3404.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Accumulated Mystical Band]]
+- [[Deadly Curses (Item)|Deadly Curses]] this item is needed for the collection: [[More Sights and Sounds]]

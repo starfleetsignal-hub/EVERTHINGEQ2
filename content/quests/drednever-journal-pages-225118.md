@@ -3,6 +3,29 @@ title: Drednever journal pages
 type: quest
 level: '65'
 added_in: Kingdom of Sky
+zone: '[[The Barren Sky]]'
+pieces:
+- name: Book Binding
+  icon: images/Item_739.png
+  note: no-trade
+- name: Drednever journal page 1
+  icon: images/Item_780.png
+- name: Drednever journal page 2
+  icon: images/Item_780.png
+- name: Drednever journal page 4
+  icon: images/Item_780.png
+- name: Drednever journal page 6
+  icon: images/Item_780.png
+- name: Drednever journal page 7
+  icon: images/Item_780.png
+- name: Drednever journal page 10
+  icon: images/Item_780.png
+- name: Drednever journal page 11
+  icon: images/Item_780.png
+- name: Drednever journal page 13
+  icon: images/Item_780.png
+- name: Drednever journal page 14
+  icon: images/Item_780.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +46,7 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Tapestry of the Blacktalon]]
+- [[Drednever Torn Journal]]

@@ -7,6 +7,33 @@ aliases:
 - Purple Shinies
 - 'Trinkets: Excavation Trinkets Collection'
 - Trinkets:Excavation Trinkets
+zone: '[[The Sinking Sands]]'
+collection_type: Hidden purple
+pieces:
+- name: small worn trinket
+  icon: images/Item_1036.png
+- name: small broken trinket
+  icon: images/Item_1042.png
+- name: small stained trinket
+  icon: images/Item_1021.png
+- name: small silvered trinket
+  icon: images/Item_982.png
+- name: medium worn trinket
+  icon: images/Item_1053.png
+- name: medium broken trinket
+  icon: images/Item_1002.png
+- name: medium stained trinket
+  icon: images/Item_1026.png
+- name: medium silvered trinket
+  icon: images/Item_1005.png
+- name: large worn trinket
+  icon: images/Item_986.png
+- name: large broken trinket
+  icon: images/Item_1010.png
+- name: large stained trinket
+  icon: images/Item_1013.png
+- name: large silvered trinket
+  icon: images/Item_1043.png
 categories:
 - Census Credits
 - Collection Quests
@@ -36,3 +63,8 @@ Originally only the worn and broken trinkets were available during Phase 1 of th
 ## Known Locations
 
 *See the talk page for a list of known shinie spawn points.*
+
+## Rewards
+
+- [[Archaeologist's Token of the Excavation]]
+  - *(An orb house item that, when rubbed, ports you to the Airship dock in [[The Sinking Sands]]. This item can only be placed in your house, it cannot be placed in a Guild Hall.)*

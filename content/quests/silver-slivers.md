@@ -3,6 +3,18 @@ title: Silver Slivers
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Solo)]]'
+pieces:
+- name: Heated Silver Sliver
+  icon: images/Item_3773.png
+- name: Chilled Silver Sliver
+  icon: images/Item_3773.png
+- name: Vibrating Silver Sliver
+  icon: images/Item_3773.png
+- name: Stable Silver Sliver
+  icon: images/Item_3773.png
+- name: Glassy Silver Sliver
+  icon: images/Item_3773.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A strange scarlet crystal]]
+- [[Gooey Spectral Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

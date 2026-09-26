@@ -3,6 +3,19 @@ title: Articles of Shanrazad
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Blade of the Spared
+  icon: images/Item_5719.png
+- name: Helm of the Spared
+  icon: images/Item_2858.png
+- name: Gauntlets of the Spared
+  icon: images/Item_2910.png
+- name: Shield of the Spared
+  icon: images/Item_2999.png
+- name: Staff of the Spared
+  icon: images/Item_2955.png
+- name: Ring of the Spared
+  icon: images/Item_2981.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Zakir Rish Copperdyne (Version 2)|Zakir Rish Copperdyne]]
+- [[Fragment of Collected Ballads (Treasured) (Version 2)|Fragment of Collected Ballads]]
+- [[Yazdani Erhu]] this item is needed for the collection: [[Overrealm Instruments]]

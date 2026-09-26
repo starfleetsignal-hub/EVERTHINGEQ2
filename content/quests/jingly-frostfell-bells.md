@@ -2,6 +2,23 @@
 title: Jingly Frostfell Bells
 type: quest
 level: '95'
+pieces:
+- name: Chain of Silver Sleigh Bells
+  icon: images/Item_2297.png
+- name: Clutch of Red and Green Bells
+  icon: images/Item_2297.png
+- name: Single Green and White Dotted Bell
+  icon: images/Item_2297.png
+- name: Large Gold Hand Bell
+  icon: images/Item_2297.png
+- name: Braid of White and Red Sleigh Bells
+  icon: images/Item_2297.png
+- name: Large Silver Hand Bell
+  icon: images/Item_2297.png
+- name: Tiny Mistletoe Jingle Bells
+  icon: images/Item_2297.png
+- name: Ribbon of Silver and Gold Sleigh Bells
+  icon: images/Item_2297.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,3 +40,5 @@ source:
 ![Crate with possible reward for opening Gifty Bag bought from Marketplace](images/The_Spirit_of_Giving.png)
 The pieces for this collection have a chance to be awarded to the character who opened [[Gifty Bag]] purchased from [[Marketplace]] (confirmed in 2025).
 These collectibles are part of [[The Spirit of Giving]] reward pool.
+
+## Rewards

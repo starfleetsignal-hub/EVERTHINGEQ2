@@ -4,6 +4,21 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Runnyeye Goblin Trophy
+  icon: images/Item_4878.png
+  note: (Reward from the collection [[Runnyeye Bits]])
+- name: Grungetalon Trophy
+  icon: images/Item_4878.png
+  note: (Reward from the collection [[Goblin Magic]])
+- name: Sandscrawler Trophy
+  icon: images/Item_4878.png
+- name: Brokentoe Trophy
+  icon: images/Item_4878.png
+  note: (Reward from the collection [[Goblin Loots]])
+- name: Boombottom Trophy
+  icon: images/Item_4878.png
+  note: (Reward from the collection [[Poked Out Boss Peepers]])
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +37,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Runnyeye Trophy of Trophies]]

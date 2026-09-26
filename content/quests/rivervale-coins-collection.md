@@ -5,6 +5,17 @@ level: '40'
 added_in: Shattered Lands
 aliases:
 - 'Coin: Rivervale coins collection'
+zone: '[[Enchanted Lands]]'
+pieces:
+- name: silver coin of rivervale
+  page: Silver coin of rivervale (Rivervale coins collection)
+  icon: images/Item_1345.png
+- name: platinum coin of rivervale
+  page: Platinum coin of rivervale (Rivervale coins collection)
+  icon: images/Item_1355.png
+- name: gold coin of rivervale
+  page: Gold coin of rivervale (Rivervale coins collection)
+  icon: images/Item_1350.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -25,4 +36,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Rivervale Scroll]]

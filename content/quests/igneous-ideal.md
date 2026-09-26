@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Phantom Sea]]'
+pieces:
+- name: Orange Scapolite
+  icon: images/Item_2934.png
+- name: Violet Sodalite
+  icon: images/Item_2933.png
+- name: Yellow Peridot
+  icon: images/Item_2921.png
+- name: Rainbow Labradorite
+  icon: images/Item_2940.png
+- name: Azure Hauyne
+  icon: images/Item_2927.png
+- name: Golden Datolite
+  icon: images/Item_2926.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pygmy Roasting Spit]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Blessed Knoll]] this item is needed for the collection: [[Shields of Phantom Sea]]

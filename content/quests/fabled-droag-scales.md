@@ -5,6 +5,21 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Barren Sky]]'
+collection_type: Year of Discovery
+pieces:
+- name: blemished Droag scale
+  page: Blemished Droag scale (Fabled Droag Scales)
+  icon: images/Item_2007.png
+- name: decaying Droag scale
+  page: Decaying Droag scale (Fabled Droag Scales)
+  icon: images/Item_2007.png
+- name: pristine Droag scale
+  page: Pristine Droag scale (Fabled Droag Scales)
+  icon: images/Item_2007.png
+- name: tarnished Droag scale
+  page: Tarnished Droag scale (Fabled Droag Scales)
+  icon: images/Item_2007.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +41,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

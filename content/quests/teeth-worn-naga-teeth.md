@@ -3,6 +3,15 @@ title: 'Teeth: Worn Naga Teeth'
 type: quest
 added_in: Rise of Kunark
 removed_from_game: This collection has been removed from the game
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: large worn naga incisor
+- name: medium worn naga incisor
+- name: small worn naga incisor
+- name: large worn naga molar
+- name: medium worn naga molar
+- name: small worn naga molar
 categories:
 - Collection Quests
 - Collections needing rewardtype
@@ -22,3 +31,7 @@ expansion_source: patch
 ---
 
 - Believed to have been a Burynai collection then removed in [[LU51|GU51]].
+
+## Rewards
+
+- Unknown, impossible to confirm

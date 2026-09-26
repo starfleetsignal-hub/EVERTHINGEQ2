@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Heroic)]], [[The Fabled Crypt of Valdoon (Heroic)]], [[The Fabled Court of Innovation (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: Copper Drained Power Cell
+  icon: images/Item_3098.png
+- name: Corroded Drained Power Cell
+  icon: images/Item_3099.png
+- name: Velium Drained Power Cell
+  icon: images/Item_3102.png
+- name: Alloy Drained Power Cell
+  icon: images/Item_3097.png
+- name: Preserved Drained Power Cell
+  icon: images/Item_3096.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Torn Freethinker Document]] this item is needed for the collection: [[Freethinker Documents]]

@@ -3,6 +3,20 @@ title: Tembrusk's Void-Infected Timber
 type: quest
 level: '130'
 added_in: LU128
+pieces:
+- name: Void-Infected Bark
+  icon: images/Item_5164.png
+- name: Void-Infected Birch
+  icon: images/Item_5164.png
+- name: Void-Infected Branch
+  icon: images/Item_5164.png
+- name: Void-Infected Banyan
+  icon: images/Item_5164.png
+- name: Void-Infected Balsam
+  icon: images/Item_5164.png
+- name: Void-Infected Baobab
+  icon: images/Item_5164.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 10x  [[Velium Drachma]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Oggorn Leg-Shorn's Missing Leg]] this item is needed for the collection: [[Spiral of Vul]]

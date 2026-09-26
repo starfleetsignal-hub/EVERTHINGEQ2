@@ -5,6 +5,21 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Teeth: Chipped Droag Teeth'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: large chipped Droag incisor
+  icon: images/Item_102.png
+- name: medium chipped Droag incisor
+  icon: images/Item_102.png
+- name: small chipped Droag incisor
+  icon: images/Item_102.png
+- name: large chipped Droag molar
+  icon: images/Item_102.png
+- name: medium chipped Droag molar
+  icon: images/Item_102.png
+- name: small chipped Droag molar
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,8 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Droag-tooth Belt]]
+  - [[Droag-tooth Necklace]]

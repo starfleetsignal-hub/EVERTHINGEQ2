@@ -4,6 +4,14 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+pieces:
+- name: Spider Web
+  icon: images/Item_2251.png
+- name: Spider Fang
+  icon: images/Item_137.png
+- name: Spider Eye
+  icon: images/Item_83.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +34,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Spider Poison]] this item is needed for the collection: [[Harmony in Stone]]
+- one of the following:
+  - [[Vesspyr Citizen's Red Boots]]
+  - [[Vesspyr Workman's Blue Pants]]
+  - [[Greensteel Dagger]]

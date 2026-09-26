@@ -5,6 +5,20 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Cursed Armplates
 added_in: Chaos Descending
+zone: '[[Detroxxulous, the Plaguelands]]'
+collection_type: Cdd
+pieces:
+- name: Essence of Malady
+  icon: images/Item_4081.png
+- name: Rune of Defect
+  icon: images/Item_1249.png
+- name: Seal of Canker
+  icon: images/Item_1267.png
+- name: Sigil of Infirmity
+  icon: images/Item_1264.png
+- name: Detroxxulous Steel
+  icon: images/Item_732.png
+  note: (Reward from the quest [[The Filth Element]])
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -26,4 +40,13 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Cursed Armplates (Collection Item for Ensorcelled Metalcloth Cape)|Cursed Armplates]] this item is needed for the collection: [[Ensorcelled Metalcloth Cape (Collection)|Ensorcelled Metalcloth Cape]]
+- one of the following:
+  - [[Cursed Linked Armplates]] -- *chain*
+  - [[Cursed Cloth Armplates]] -- *cloth*
+  - [[Leather Cursed Armplates]] -- *leather*
+  - [[Hardened Leather Cursed Armplates]] -- *leather*
+  - [[Hardened Cursed Armplates]] -- *plate*
+  - [[Cursed Armplates (Armor)|Cursed Armplates]] -- *plate*

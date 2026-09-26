@@ -5,6 +5,21 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Eyes: Beholder Eyes'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: arid beholder eye
+  icon: images/Item_2226.png
+- name: blemished beholder eye
+  icon: images/Item_2226.png
+- name: decrepit beholder eye
+  icon: images/Item_2226.png
+- name: petrified beholder eye
+  icon: images/Item_2226.png
+- name: shriveled beholder eye
+  icon: images/Item_2226.png
+- name: weathered beholder eye
+  icon: images/Item_2226.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Eyestalker]]

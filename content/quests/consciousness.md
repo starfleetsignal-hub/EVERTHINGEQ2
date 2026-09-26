@@ -2,6 +2,19 @@
 title: Consciousness
 type: quest
 level: '130'
+pieces:
+- name: Consciousness of Hopes
+  icon: images/Item_5695.png
+- name: Consciousness of Discern
+  icon: images/Item_5695.png
+- name: Consciousness of Scrutiny
+  icon: images/Item_5695.png
+- name: Consciousness of Being
+  icon: images/Item_5695.png
+- name: Consciousness of Bearing
+  icon: images/Item_5695.png
+- name: Consciousness of Self
+  icon: images/Item_5695.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Prestidigitation of Feeling]] this item is needed for the collection: [[Prestidigitation]]

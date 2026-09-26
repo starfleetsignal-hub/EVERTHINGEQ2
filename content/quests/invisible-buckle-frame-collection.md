@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Invisible Buckle Frame
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Entropic Lenses
+  icon: images/Item_3031.png
+- name: Unfocused Eyepiece
+  icon: images/Item_3034.png
+- name: Centerless Reticle
+  icon: images/Item_3032.png
+- name: Reflected Scope
+  icon: images/Item_3032.png
+- name: Convexing Monocle
+  icon: images/Item_3031.png
+- name: Stigmatic Erfle
+  icon: images/Item_3031.png
+- name: Obscuration Loupe
+  icon: images/Item_3033.png
+  note: no-trade - (Reward from the quest [[Assumed Identity]])
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Invisible Buckle Frame (Collection Item)|Invisible Buckle Frame]] this item is needed for the collection: [[Elements of Augury]]
+- [[Invisible Buckle Ring]]

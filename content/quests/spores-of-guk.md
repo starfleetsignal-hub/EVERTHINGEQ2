@@ -5,6 +5,23 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Spores of Guk'
+zone: '[[The Ruins of Guk: Halls of the Fallen]], [[The Ruins of Guk: The Lower Corridors]], [[The Ruins of Guk: Ykesha''s Outer Stronghold]]'
+collection_type: Shiny
+pieces:
+- name: Boletus Spore
+  icon: images/Item_3427.png
+- name: Amanita Spore
+  icon: images/Item_3427.png
+- name: Agaricus Spore
+  icon: images/Item_3427.png
+- name: Clarvia Spore
+  icon: images/Item_3427.png
+- name: Schizophylum Spore
+  icon: images/Item_3427.png
+- name: Cantharellus Spore
+  icon: images/Item_3427.png
+- name: Lycoperdon Spore
+  icon: images/Item_3427.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +44,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Spore Covered Sash]]
+  - [[Glowing Spores Pouch]]

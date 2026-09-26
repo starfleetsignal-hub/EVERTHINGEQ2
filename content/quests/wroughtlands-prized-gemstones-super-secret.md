@@ -3,6 +3,27 @@ title: Wroughtlands Prized Gemstones Super Secret
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Polished Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Tapered Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Glossy Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Clear Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Trillion Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Round Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Opaque Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Murky Diamond Gemstone
+  icon: images/Item_4788.png
+- name: Powdered Diamond Gemstone
+  icon: images/Item_4943.png
+- name: Oval Diamond Gemstone
+  icon: images/Item_4788.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +43,6 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Fragment of Collected Ballads (Mythical)|Fragment of Collected Ballads]]

@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Venril Mantle of Necromancy
+  icon: images/Item_1232.png
+- name: Venril Mantle of Infamy
+  icon: images/Item_381.png
+- name: Venril Mantle of Death
+  icon: images/Item_235.png
+- name: Venril Mantle of Charasis
+  icon: images/Item_247.png
+- name: Venril Mantle of Impurity
+  icon: images/Item_244.png
+- name: Venril Mantle of Betrayal
+  icon: images/Item_277.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Revived Heritage Calling]] this item is needed for the collection: [[Vampiric Calling of Sathir]]
+- one of the following:
+  - [[Absolute Fist of Venril]]
+  - [[Impure Staff of Venril]]

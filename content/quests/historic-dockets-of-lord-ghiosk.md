@@ -4,6 +4,28 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Lost City of Torsis: Reaver''s Remnants (Solo)]], [[Lost City of Torsis: The Shrouded Temple (Advanced Solo)]]'
+pieces:
+- name: Ghiosk's City Calendar
+  icon: images/Item_13.png
+- name: Ghiosk's Library Card
+  icon: images/Item_730.png
+- name: Ghiosk's Trading Annal
+  icon: images/Item_718.png
+- name: Ghiosk's Torsis Day Log
+  icon: images/Item_716.png
+- name: Ghiosk's Torsis Night Log
+  icon: images/Item_717.png
+- name: Ghiosk's Event Record
+  icon: images/Item_714.png
+- name: Ghiosk's History Archive
+  icon: images/Item_566.png
+- name: Ghiosk's Building Charts
+  icon: images/Item_713.png
+- name: Ghiosk's Post Directory
+  icon: images/Item_719.png
+- name: Ghiosk's Transaction Index
+  icon: images/Item_711.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +48,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Captivity Curse of Rak'Ashiir]] this item is needed for the collection: [[Sarnak Arcane Defenses]]
+- one of the following:
+  - [[Torsis Historic Found Fist]]
+  - [[Torsis Historic Great Sword]]

@@ -3,6 +3,17 @@ title: Crustacean Collection
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Cobalt Scar]]'
+collection_type: Fishingcs
+pieces:
+- name: Crayfish
+  icon: images/Item_2545.png
+- name: Shrimp
+  icon: images/Item_2545.png
+- name: Lobster
+  icon: images/Item_2545.png
+- name: Crab
+  icon: images/Item_2545.png
 categories:
 - Census Credits
 - Cobalt Scar (CQ Category)
@@ -25,3 +36,8 @@ expansion_source: patch
 ---
 
 The members of this collection are obtained by fishing in [[Cobalt Scar]]
+
+## Rewards
+
+- [[Rainbow Koi Catch]]
+- [[Collected Crustaceans]] this item is needed for the collection: [[Ocean Creatures Collection]]

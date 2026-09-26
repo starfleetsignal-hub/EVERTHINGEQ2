@@ -3,6 +3,20 @@ title: Ancient Sathirian Volumes
 type: quest
 level: '80'
 added_in: LU52
+zone: '[[Emperor''s Athenaeum]]'
+pieces:
+- name: Sathirian Battle Tactics, Volume I
+  icon: images/Item_717.png
+- name: Sathirian Battle Tactics, Volume Il
+  icon: images/Item_717.png
+- name: Sathirian Customs, Volume I
+  icon: images/Item_720.png
+- name: Sathirian Customs, Volume Il
+  icon: images/Item_720.png
+- name: Sathirian Sovereignty Volume I
+  icon: images/Item_719.png
+- name: Sathirian Sovereignty Volume Il
+  icon: images/Item_719.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Rear Left Corner (Abyssal Carpet Fragments)|Rear Left Corner]] this item is needed for the collection: [[Abyssal Carpet Fragments]]

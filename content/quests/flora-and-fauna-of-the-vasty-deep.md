@@ -3,6 +3,20 @@ title: Flora and Fauna of The Vasty Deep
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[Vasty Deep: The Conservatory]], [[Vasty Deep: The Abandoned Labs]], [[Vasty Deep: The Vestigial Cella]]'
+pieces:
+- name: leeching vine
+  icon: images/Item_2125.png
+- name: deadly nettle fern
+  icon: images/Item_822.png
+- name: razor leafed orchid
+  icon: images/Item_1954.png
+- name: deadly hemotoxic beetle
+  icon: images/Item_1816.png
+- name: green tree snake
+  icon: images/Item_1909.png
+- name: doomflesh tree frog
+  icon: images/Item_3705.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An earthen Ca'Na pot]]
+- [[Kaborite Geodes: Flora]] this item is needed for the collection: [[The Deep and Dark Places: Geodes]]

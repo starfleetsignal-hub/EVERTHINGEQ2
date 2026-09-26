@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Fordel Midst: Bizarre Bazaar (Solo)]], [[Fordel Midst: The Listless Spires (Solo)]], [[Fordel Midst: Wayward Manor (Solo)]]'
+pieces:
+- name: Financier Fendilix's Money Bags
+  icon: images/Item_248.png
+- name: Short Shift's Ankle Bone
+  icon: images/Item_100.png
+- name: Elsindir's Log Books
+  icon: images/Item_195.png
+- name: Brixwald's Abacus
+  icon: images/Item_901.png
+- name: Brixwald's Safe Combination
+  icon: images/Item_185.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,10 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Reishi Spores]] this item is needed for the collection: [[Artifacts of the Aurelian Coast]]
+- one of the following:
+  - [[Molded Steel Hammer]]
+  - [[Molded Steel Hatchet]]
+  - [[Molded Steel Dagger]]

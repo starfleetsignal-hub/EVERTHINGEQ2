@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Wracklands]]'
+pieces:
+- name: Tegi Spoon
+  icon: images/Item_1077.png
+- name: Tegi Spear
+  icon: images/Item_202.png
+- name: Tegi Pot
+  icon: images/Item_569.png
+- name: Tegi Fork
+  icon: images/Item_1077.png
+- name: Tegi Scroll
+  icon: images/Item_374.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,12 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Twlight Sea Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]
+- one of the following:
+  - [[Veilwalker's Adornment of Raw Power (Collection Reward)|Veilwalker's Adornment of Raw Power]]
+  - [[Veilwalker's Adornment of Raw Power (2H) (Collection Reward)|Veilwalker's Adornment of Raw Power (2H)]]
+  - [[Veilwalker's Adornment of Health (Collection Reward)|Veilwalker's Adornment of Health]]
+  - [[Veilwalker's Adornment of Fading (Collection Reward)|Veilwalker's Adornment of Fading]]
+  - [[Veilwalker's Adornment of Aggressiveness (Collection Reward)|Veilwalker's Adornment of Aggressiveness]]

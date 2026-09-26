@@ -3,6 +3,15 @@ title: 'Teeth: Worn Harpy Teeth'
 type: quest
 added_in: Rise of Kunark
 removed_from_game: This collection has been removed from the game
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: large worn harpy incisor
+- name: large worn harpy molar
+- name: medium worn harpy incisor
+- name: medium worn harpy molar
+- name: small worn harpy incisor
+- name: small worn harpy molar
 categories:
 - Collection Quests
 - Collections needing rewardtype
@@ -22,3 +31,7 @@ expansion_source: patch
 ---
 
 - Believed to have been a Burynai collection then removed in [[LU51|GU51]].
+
+## Rewards
+
+- Unknown, impossible to confirm

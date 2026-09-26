@@ -5,6 +5,14 @@ level: '25'
 added_in: Rise of Kunark
 aliases:
 - 'Coin: Kelethin coins collection'
+zone: '[[Greater Faydark]]'
+pieces:
+- name: elddar wood coin of kelethin
+  icon: images/Item_1329.png
+- name: pine wood coin of kelethin
+  icon: images/Item_1327.png
+- name: oak wood coin of kelethin
+  icon: images/Item_1320.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -25,4 +33,6 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Kelethin Scroll]]

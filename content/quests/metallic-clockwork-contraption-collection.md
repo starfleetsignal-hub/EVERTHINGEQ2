@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Metallic Clockwork Contraption
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Plane of Innovation: Gears in the Machine (Solo)]], [[Plane of Innovation: Masks of the Marvelous (Solo)]], [[Plane of Innovation: Parts not Included (Duo)]]'
+collection_type: Shiny
+pieces:
+- name: Ornate Gears
+  icon: images/Item_1040.png
+- name: Golden Gear
+  icon: images/Item_1042.png
+- name: Silver Gear
+  icon: images/Item_1042.png
+- name: Copper Gear
+  icon: images/Item_1041.png
+- name: Nickel Gear
+  icon: images/Item_1040.png
+- name: Chromium Gear
+  icon: images/Item_1040.png
+- name: Brass Gear
+  icon: images/Item_1041.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -29,4 +46,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Metallic Clockwork Contraption (Item)|Metallic Clockwork Contraption]] this item is needed for the collection: [[Planar Astrolabe (Collection)|Planar Astrolabe]]
+- [[Metallic Clockwork Contraption (Symbol)|Metallic Clockwork Contraption]]

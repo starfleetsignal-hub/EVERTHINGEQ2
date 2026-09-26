@@ -5,6 +5,18 @@ level: '78'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Mantrap Petals'
+zone: '[[Kunzar Jungle]]'
+collection_type: Shiny
+pieces:
+- name: Narrow Mantrap Petal
+  icon: images/Item_3201.png
+- name: Pointed Mantrap Petal
+  icon: images/Item_3202.png
+  note: ''
+- name: Veined Mantrap Petal
+  icon: images/Item_3203.png
+- name: Wide Mantrap Petal
+  icon: images/Item_3200.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Bloodthorn Bangle]]
+  - [[Bloodthorn Shackle]]

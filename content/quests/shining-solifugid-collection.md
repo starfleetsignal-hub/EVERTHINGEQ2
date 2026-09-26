@@ -5,6 +5,24 @@ level: '50'
 added_in: Rise of Kunark
 aliases:
 - 'Insect: Shining Solifugid Collection'
+zone: '[[The Sinking Sands]]'
+collection_type: Shiny
+pieces:
+- name: shining black solifugid
+  page: Shining black solifugid (Shining Solifugid Collection)
+  icon: images/Item_1841.png
+- name: shining blue solifugid
+  page: Shining blue solifugid (Shining Solifugid Collection)
+  icon: images/Item_1843.png
+- name: shining brown solifugid
+  page: Shining brown solifugid (Shining Solifugid Collection)
+  icon: images/Item_1844.png
+- name: shining green solifugid
+  page: Shining green solifugid (Shining Solifugid Collection)
+  icon: images/Item_1842.png
+- name: shining red solifugid
+  page: Shining red solifugid (Shining Solifugid Collection)
+  icon: images/Item_1845.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +45,11 @@ expansion_source: patch
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
 - Added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Ring of the Faith Healer]]
+  - [[Silvered Lunar Band]]
+  - [[Mantle of the Shade Seeker]]
+  - [[Stingfury Mitts]]

@@ -5,6 +5,21 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Barren Sky]]'
+collection_type: Year of Discovery
+pieces:
+- name: bronze emblem of awakened
+  page: Bronze emblem of awakened (Fabled Awakened Emblems)
+  icon: images/Item_1759.png
+- name: gold emblem of awakened
+  page: Gold emblem of awakened (Fabled Awakened Emblems)
+  icon: images/Item_1762.png
+- name: silver emblem of awakened
+  page: Silver emblem of awakened (Fabled Awakened Emblems)
+  icon: images/Item_1760.png
+- name: platinum emblem of awakened
+  page: Platinum emblem of awakened (Fabled Awakened Emblems)
+  icon: images/Item_1761.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +41,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: Tarnished Battle Remains
 added_in: Terrors of Thalumbra
+collection_type: Blue
+pieces:
+- name: Tarnished Aberrant Symbol
+  icon: images/Item_3274.png
+- name: Tarnished Gnemlin Hammer
+  icon: images/Item_2150.png
+- name: Tarnished Aberrant Dagger
+  icon: images/Item_3132.png
+- name: Tarnished Dhalgar Breastplate
+  icon: images/Item_3354.png
+- name: Tarnished Gnemlin Helm
+  icon: images/Item_1632.png
+- name: Tarnished Dhalgar Axe
+  icon: images/Item_1646.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +39,7 @@ expansion_source: patch
 ---
 
 Collection members can be found around [[Stoneheart Yards]].
+
+## Rewards
+
+- [[Polished Dhalgar Medallion]]

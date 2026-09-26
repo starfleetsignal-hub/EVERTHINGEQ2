@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Bawck Gib Gua
+  icon: images/Item_373.png
+- name: Jaf Mung Tah
+  icon: images/Item_373.png
+- name: Txua Vov Zaunk
+  icon: images/Item_373.png
+- name: Arf Ghav Keff
+  icon: images/Item_373.png
+- name: Kian Mraaww
+  icon: images/Item_373.png
+- name: Baj Wooah
+  icon: images/Item_373.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,3 +41,9 @@ expansion_source: patch
 ---
 
 Note that all these collection items are found on the *[[South Dshinn]]* Isle within [[Tranquil Sea]].
+
+## Rewards
+
+- [[Pygmy Bed]]
+- 5 [[Far Seas Ferrin]]
+- [[Shield of South Dshinn]] this item is needed for the collection: [[Shields of Tranquil Sea]]

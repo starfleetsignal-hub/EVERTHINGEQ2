@@ -4,6 +4,26 @@ type: quest
 level: '35'
 in_game_name: Jerb Northstar's Journal
 added_in: Shattered Lands
+zone: '[[Zek, the Orcish Wastes]]'
+collection_type: Pages
+pieces:
+- name: Jerb Northstar's Journal - Page 3
+  icon: images/Item_2180.png
+  note: Harvestable pages only
+- name: Jerb Northstar's Journal - Page 5
+  icon: images/Item_2180.png
+  note: Clickable crate at {{waypoint 461, -40, 245}}
+- name: Jerb Northstar's Journal - Page 7
+  icon: images/Item_2180.png
+  note: Harvestable confirmed {{waypoint 607, -22, -297}}
+- name: Jerb Northstar's Journal - Page 8
+  icon: images/Item_2180.png
+- name: Jerb Northstar's Journal - Page 10
+  icon: images/Item_2180.png
+  note: Harvestable pages only
+- name: Jerb Northstar's Journal - Page 12
+  icon: images/Item_2180.png
+  note: Harvestable confirmed {{waypoint 504, -24, -407}}
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +44,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Jerb Northstar's Journal (CollectionReward)|Jerb Northstar's Journal]]

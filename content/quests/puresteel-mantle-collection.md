@@ -5,6 +5,17 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Puresteel Mantle
 added_in: Chaos Descending
+pieces:
+- name: Puresteel Ingot
+  icon: images/Item_729.png
+- name: Hymn of Armor
+  icon: images/Item_75.png
+- name: Stamp of Pain
+  icon: images/Item_1759.png
+- name: Ink of Endurance
+  icon: images/Item_3059.png
+- name: Signet of Magic
+  icon: images/Item_1373.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -27,4 +38,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Puresteel Mantle (Plate)|Puresteel Mantle]]
+- [[Puresteel Mantle (Collection Item)|Puresteel Mantle]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]
