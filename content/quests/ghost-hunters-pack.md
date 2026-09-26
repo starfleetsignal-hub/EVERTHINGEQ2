@@ -5,6 +5,21 @@ level: '95'
 added_in: Nights of the Dead
 events:
 - Nights of the Dead
+zone: '[[The City of Freeport]], [[Qeynos Capitol District]], [[Qeynos Province District]], [[Neriak, City of Hate]], [[Greater Faydark]], [[Frostfang Sea]], [[Timorous Deep]], [[Maj''Dul]]'
+collection_type: Pumpkin
+pieces:
+- name: Wrought Iron Coffin Nails
+  icon: images/Item_1033.png
+- name: Somborn Rock Salt
+  icon: images/Item_3476.png
+- name: Graveyard Dirt
+  icon: images/Item_3426.png
+- name: Bundled Sage
+  icon: images/Item_801.png
+- name: Purified Candle
+  icon: images/Item_190.png
+- name: Spirit Banishment Sigil
+  icon: images/Item_2988.png
 categories:
 - Census Credits
 - Collection Quests
@@ -35,3 +50,7 @@ To complete this collection quest you must buy [[Pumpkin Bomb|Pumpkin Bombs]] (2
 
 - [[Ancient Desert Urn]]
 - A title
+
+## Rewards
+
+- Prefix title: [[Title: Haunt Hunter|Haunt Hunter]]

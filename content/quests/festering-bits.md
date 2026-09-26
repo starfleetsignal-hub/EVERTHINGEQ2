@@ -3,6 +3,18 @@ title: Festering Bits
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Heroic I)]], [[Shattered Unrest (Heroic II)]], [[Shattered Unrest (Heroic III)]]'
+pieces:
+- name: Torn Festering Bit
+  icon: images/Item_134.png
+- name: Ripped Festering Bit
+  icon: images/Item_135.png
+- name: Mangled Festering Bit
+  icon: images/Item_135.png
+- name: Burnt Festering Bit
+  icon: images/Item_136.png
+- name: Severed Hag Hand
+  icon: images/Item_87.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[The Bone Cleaver]]
+- [[Gooey Goblin Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

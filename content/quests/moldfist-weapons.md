@@ -2,6 +2,19 @@
 title: Moldfist Weapons
 type: quest
 level: '10'
+pieces:
+- name: Moldfist Toothed Fist
+  icon: images/Item_5709.png
+- name: Moldfist Wrapped Fist
+  icon: images/Item_5711.png
+- name: Moldfist Tined Fist
+  icon: images/Item_5709.png
+- name: Moldfist Razored Fist
+  icon: images/Item_5709.png
+- name: Moldfist Blazing Fist
+  icon: images/Item_5711.png
+- name: Moldfist Darkened Fist
+  icon: images/Item_5711.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Gnoll Keepsake Box]]
+- [[Gored Hatchet]] this item is needed for the collection: [[Hatcheteer Hatchets]]

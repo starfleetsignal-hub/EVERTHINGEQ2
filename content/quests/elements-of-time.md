@@ -5,6 +5,36 @@ level: '80'
 added_in: Chronoportal Phenomenon
 events:
 - Chronoportal Phenomenon
+zone: '[[Antonica]], [[Enchanted Lands]], [[The Feerrott]], [[Lavastorm]], [[Moors of Ykesha]], [[The Sinking Sands]], [[Steamfont Mountains]], [[The Thundering Steppes]]'
+collection_type: Purple
+pieces:
+- name: Chronomagical Spark
+  icon: images/Item_2516.png
+  note: Antonica, Enchanted Lands and Thundering Steppes
+- name: Exotic Matter
+  icon: images/Item_2916.png
+  note: Antonica, Enchanted Lands and Thundering Steppes
+- name: Dimensional Fissure
+  icon: images/Item_4087.png
+  note: Antonica, Enchanted Lands and Thundering Steppes
+- name: Chronological Ripple
+  icon: images/Item_4074.png
+  note: Steamfont Mountains, Lavastorm and Sinking Sands
+- name: Condensed Energy
+  icon: images/Item_1191.png
+  note: Steamfont Mountains, Lavastorm and Sinking Sands
+- name: Temporal Shard
+  icon: images/Item_3879.png
+  note: Steamfont Mountains, Lavastorm and Sinking Sands
+- name: Cosmic String
+  icon: images/Item_4077.png
+  note: The Chronoweave, The Feerrott, or Moors of Ykesha
+- name: Nebulous Vortex
+  icon: images/Item_168.png
+  note: The Chronoweave, The Feerrott, or Moors of Ykesha
+- name: Crackling Residue
+  icon: images/Item_347.png
+  note: The Chronoweave, The Feerrott, or Moors of Ykesha
 categories:
 - Antonica Collection Quests
 - Census Credits
@@ -32,3 +62,7 @@ source:
 ---
 
 This collection first appeared in EQ2 during the 2013 Chronoportals event.
+
+## Rewards
+
+- 8x  [[Ancient Platinum Coin]]

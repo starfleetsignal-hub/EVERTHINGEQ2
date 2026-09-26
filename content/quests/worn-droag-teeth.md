@@ -5,6 +5,20 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Teeth: Worn Droag Teeth'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+pieces:
+- name: large worn Droag incisor
+  icon: images/Item_102.png
+- name: medium worn Droag incisor
+  icon: images/Item_102.png
+- name: small worn Droag incisor
+  icon: images/Item_102.png
+- name: large worn Droag molar
+  icon: images/Item_102.png
+- name: medium worn Droag molar
+  icon: images/Item_102.png
+- name: small worn Droag molar
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +41,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A mystical droag scribing table]]

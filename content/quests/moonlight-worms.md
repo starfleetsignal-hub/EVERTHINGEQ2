@@ -5,6 +5,19 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Zygomyd Grotto]]'
+collection_type: Purple
+pieces:
+- name: black dirtcrawler
+  icon: images/Item_1908.png
+- name: blue soilsquirmer
+  icon: images/Item_1910.png
+- name: green wriggler
+  icon: images/Item_1909.png
+- name: red wriggler
+  icon: images/Item_1912.png
+- name: yellow dirtcrawler
+  icon: images/Item_1911.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Nature Spirit Plushie]]

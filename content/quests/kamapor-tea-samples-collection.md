@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Kamapor Tea Samples
 added_in: Visions of Vetrovia
+pieces:
+- name: Jungle Fruit Tea
+  icon: images/Item_340.png
+- name: Kamapor Rose Tea
+  icon: images/Item_338.png
+- name: Settler's Blend Tea
+  icon: images/Item_339.png
+- name: Quellious' Tranquil Tea
+  icon: images/Item_341.png
+- name: Kelp Tea
+  icon: images/Item_331.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Breeching of Extended Fervor]]
+- [[Kamapor Tea Samples (Item)|Kamapor Tea Samples]] this item is needed for the collection: [[More Sights and Sounds]]

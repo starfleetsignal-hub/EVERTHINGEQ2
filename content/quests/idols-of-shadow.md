@@ -5,6 +5,25 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Idols of Shadow'
+zone: '[[Anchor of Bazzul]], [[Obelisk of Ahkzul]], [[The Palace of Ferzhul]]'
+collection_type: Shiny
+pieces:
+- name: Void Idol Vott
+  icon: images/Item_989.png
+- name: Void Idol Nokk
+  icon: images/Item_989.png
+- name: Void Idol Vokk
+  icon: images/Item_989.png
+- name: Void Idol Khun
+  icon: images/Item_989.png
+- name: Void Idol Xxun
+  icon: images/Item_989.png
+- name: Void Idol Moxx
+  icon: images/Item_990.png
+- name: Void Idol Tevv
+  icon: images/Item_991.png
+- name: Void Idol Zzul
+  icon: images/Item_989.png
 categories:
 - Anchor of Bazzul Collection Quests
 - Census Credits
@@ -27,4 +46,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Lost Shadow Emblem (CollectionReward)|Lost Shadow Emblem]]
+  - [[Shadowed Earring of the Void]]

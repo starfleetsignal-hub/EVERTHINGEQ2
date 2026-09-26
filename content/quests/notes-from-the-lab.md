@@ -4,6 +4,19 @@ type: quest
 level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 added_in: Reign of Shadows
+pieces:
+- name: Experiment 3764 Notes
+  icon: images/Item_75.png
+- name: Toxicity Test Results
+  icon: images/Item_374.png
+- name: Lab Safety Guidelines
+  icon: images/Item_720.png
+- name: Cleaning Schedule
+  icon: images/Item_2180.png
+- name: Acid-stained Notebook
+  icon: images/Item_719.png
+- name: Head Researcher's Shopping List
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Pile of Research Books (House Item)|A Pile of Research Books]]
+- [[A Pile of Research Books (Collection Item)|A Pile of Research Books]] this item is needed for the collection: [[Vasty Deep Lost and Found]]

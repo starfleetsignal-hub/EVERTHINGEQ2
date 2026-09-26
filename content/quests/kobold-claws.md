@@ -6,6 +6,24 @@ added_in: Echoes of Faydwer
 aliases:
 - Pristine Kobold Claw
 - 'Steamfont Mountains: Kobold Claws'
+zone: '[[Steamfont Mountains]]'
+collection_type: Shiny
+pieces:
+- name: bloody kobold claw
+  icon: images/Item_2778.png
+- name: cracked kobold claw
+  icon: images/Item_2778.png
+- name: decayed kobold claw
+  icon: images/Item_2778.png
+- name: dirty kobold claw
+  icon: images/Item_2778.png
+- name: pristine kobold claw
+  icon: images/Item_2778.png
+  note: ''
+- name: smashed kobold claw
+  icon: images/Item_2778.png
+- name: worn kobold claw
+  icon: images/Item_2778.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +45,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Kobold Claw Choker (Version 2)|Kobold Claw Choker]]
+  - [[Kobold Claw Necklace (Version 2)|Kobold Claw Necklace]]

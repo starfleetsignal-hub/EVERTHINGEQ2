@@ -5,6 +5,25 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Shards: Dragon Bone Shards'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: blemished dragon bone shard
+  icon: images/Item_102.png
+- name: charred dragon bone shard
+  icon: images/Item_102.png
+- name: chipped dragon bone shard
+  icon: images/Item_102.png
+- name: decrepit dragon bone shard
+  icon: images/Item_102.png
+- name: scuffed dragon bone shard
+  icon: images/Item_102.png
+- name: tarnished dragon bone shard
+  icon: images/Item_102.png
+- name: weathered dragon bone shard
+  icon: images/Item_102.png
+- name: worn dragon bone shard
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +46,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A draconic tapestry]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Scimitar of the Krup Knight
+  icon: images/Item_616.png
+- name: Tongue of the Krup Knight
+  icon: images/Item_89.png
+  note: no-trade
+- name: Rucksack of the Krup Knight
+  icon: images/Item_246.png
+- name: Cleaver of the Krup Knight
+  icon: images/Item_22.png
+- name: Boots of the Krup Knight
+  icon: images/Item_211.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Krup Knight]] this item is needed for the collection: [[Inhabitants of Guk]]

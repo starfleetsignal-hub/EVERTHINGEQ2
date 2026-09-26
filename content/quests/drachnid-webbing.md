@@ -5,6 +5,18 @@ level: '75'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Drachnid Webbing'
+zone: '[[Karnor''s Castle]]'
+collection_type: Shiny
+pieces:
+- name: A Clump of Sturdy Drachnid Webbing
+  icon: images/Item_2251.png
+- name: A Clump of Thick Drachnid Webbing
+  icon: images/Item_2251.png
+  note: ''
+- name: A Clump of Thin Drachnid Webbing
+  icon: images/Item_2251.png
+- name: A Clump of Torn Drachnid Webbing
+  icon: images/Item_2251.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Thick Drachnid Webbed Belt]]
+  - [[Thin Drachnid Silk Sash]]

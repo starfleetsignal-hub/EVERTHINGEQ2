@@ -3,6 +3,18 @@ title: Zombie Bits
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Heroic I)]], [[Shattered Unrest (Heroic II)]], [[Shattered Unrest (Heroic III)]]'
+pieces:
+- name: Torn Zombie Bit
+  icon: images/Item_3404.png
+- name: Ripped Zombie Bit
+  icon: images/Item_3406.png
+- name: Mangled Zombie Bit
+  icon: images/Item_3407.png
+- name: Burnt Zombie Bit
+  icon: images/Item_3409.png
+- name: Severed Zombie Foot
+  icon: images/Item_2817.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Killclaw]]
+- [[Gooey Tome Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

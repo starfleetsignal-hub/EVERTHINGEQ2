@@ -3,6 +3,22 @@ title: Collected Relics
 type: quest
 level: '95'
 added_in: LU67
+zone: '[[The Fabled Clefts of Rujark]]'
+pieces:
+- name: Relic of Collected Mummy Wrappings
+  icon: images/Item_1088.png
+- name: Relic of Collected Locusts
+  icon: images/Item_2662.png
+- name: Relic of Collected Scarabs
+  icon: images/Item_1809.png
+- name: Relic of Collected Scorpions
+  icon: images/Item_2634.png
+- name: Relic of Collected Lamps
+  icon: images/Item_2700.png
+- name: Relic of Collected Giant Toes
+  icon: images/Item_2680.png
+- name: Relic of Collected Tinkered
+  icon: images/Item_1041.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +39,10 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Tibia of Hunger]]
+  - [[Scarab Hilted Blade]]
+  - [[Tinkered Clocker]]
+  - [[Aculeus]]

@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: LU122
+zone: '[[Buried Takish''Hiz: Empire of Antiquity (Contested)]]'
+pieces:
+- name: Grizzly Direfist Fang
+  icon: images/Item_102.png
+- name: Grizzly Werebear Fang
+  icon: images/Item_102.png
+- name: Grizzly Razorclaw Fang
+  icon: images/Item_102.png
+- name: Grizzly Wildfang Fang
+  icon: images/Item_102.png
+- name: Broken Werebear Fang
+  icon: images/Item_137.png
 categories:
 - 'Buried Takish''Hiz: Empire of Antiquity (Contested) Collection Quests'
 - Census Credits
@@ -24,4 +36,6 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Golgon's Gorer]] this item is needed for the collection: [[Buried Takish'Hiz Treasures (Collection)|Buried Takish'Hiz Treasures]]

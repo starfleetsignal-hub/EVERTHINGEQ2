@@ -4,6 +4,19 @@ type: quest
 level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 added_in: LU109
+pieces:
+- name: Rose Colored Glasses
+  page: Rose Colored Glasses (Collection Item)
+  icon: images/Item_3031.png
+  note: no-trade
+- name: Violet Colored Glasses
+  icon: images/Item_3032.png
+- name: Emerald Colored Glasses
+  icon: images/Item_3033.png
+- name: Golden Colored Glasses
+  icon: images/Item_3034.png
+- name: Azure Colored Glasses
+  icon: images/Item_3035.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +38,7 @@ expansion: Chaos Descending
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Multi-Colored Jester Cloak]]
+- [[Bristlebane's Gambling Chips]] this item is needed for the collection: [[Bristlebane's Personal Effects]]

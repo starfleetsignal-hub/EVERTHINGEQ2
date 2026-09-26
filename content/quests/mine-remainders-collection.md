@@ -4,6 +4,21 @@ type: quest
 level: '100'
 in_game_name: Mine Remainders
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+collection_type: Blue
+pieces:
+- name: Waste Gangue
+  icon: images/Item_3409.png
+- name: Fossicking pick
+  icon: images/Item_1668.png
+- name: Mine Shaft Map
+  icon: images/Item_3165.png
+- name: Surplus Tailings
+  icon: images/Item_2573.png
+- name: Discarded Overburden
+  icon: images/Item_3426.png
+- name: Spoil tip
+  icon: images/Item_3410.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +40,7 @@ expansion_source: patch
 ---
 
 These spawn one at a time in Splitiron Mine and Glittervein Depths.
+
+## Rewards
+
+- [[Miner's ID Bracelet]]

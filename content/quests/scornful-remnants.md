@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: LU106
+zone: '[[Shard of Hate: Udder Contempt (Herd Mode)]], [[Shard of Hate: Utter Contempt (Heroic)]]'
+pieces:
+- name: Scornfully Spoken Spell
+  icon: images/Item_75.png
+- name: Scornfully Kept Secret
+  icon: images/Item_185.png
+- name: Scornfully Powerful Talisman
+  icon: images/Item_165.png
+- name: Scornfully Gory Scrap
+  icon: images/Item_160.png
+- name: Scornfully Thought Desire
+  icon: images/Item_146.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Planes of Prophecy
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Sample of Spite]] this item is needed for the collection: [[Fragments of Hate]]
+- [[Abhorrent Shed Snakeskin]]

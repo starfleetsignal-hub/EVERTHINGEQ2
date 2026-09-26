@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Brokenskull Bay: Spoils of Maraud (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Rusted Backstay
+  icon: images/Item_169.png
+- name: Jib Sheet
+  icon: images/Item_1112.png
+- name: Skull Adorned Anchor
+  icon: images/Item_657.png
+- name: Bronze Cringle
+  icon: images/Item_1011.png
+- name: Tattered Bolt Rope
+  icon: images/Item_2329.png
+- name: Wooden Block
+  icon: images/Item_2291.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +41,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Round Shissar Vessel]]
+- 5 [[Far Seas Ferrin]]
+- [[Golden Trinity]] this item is needed for the collection: [[Ship Wheels]]

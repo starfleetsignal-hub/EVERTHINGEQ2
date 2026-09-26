@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Ruby Emperor Eye
+  icon: images/Item_146.png
+- name: Ruby Emperor Leg
+  icon: images/Item_164.png
+- name: Ruby Emperor Antenna
+  icon: images/Item_161.png
+- name: Ruby Emperor Wing
+  icon: images/Item_110.png
+- name: Ruby Emperor Carapace
+  icon: images/Item_162.png
+- name: Ruby Emperor Mandible
+  icon: images/Item_163.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,3 +41,9 @@ expansion_source: patch
 ---
 
 Note that all these collection items are found on the *[[Death Weave Isle]]*.
+
+## Rewards
+
+- [[Urzarach Web Wrapping]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Forbidden Cove]] this item is needed for the collection: [[Shields of Tranquil Sea]]

@@ -3,6 +3,16 @@ title: Shadow-Marked Items
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[The Stonebrunt Highlands]]'
+pieces:
+- name: shadow-marked curio
+  icon: images/Item_970.png
+- name: shadow-marked shiny trinket
+  icon: images/Item_576.png
+- name: shadow-marked stone tablet
+  icon: images/Item_371.png
+- name: shadow-marked gemstone
+  icon: images/Item_1197.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +34,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Greaves of the Elemental Warrior]]
+- [[Kaborite Crystal: Shadow]] this item is needed for the collection: [[Stonebrunt Highlands: Kaborite Crystals]]

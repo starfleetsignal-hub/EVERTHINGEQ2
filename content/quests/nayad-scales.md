@@ -3,6 +3,20 @@ title: Nayad Scales
 type: quest
 level: '65'
 added_in: Fallen Dynasty
+zone: '[[The Forsaken City]]'
+pieces:
+- name: blue nayad scale
+  icon: images/Item_2106.png
+- name: brown nayad scale
+  icon: images/Item_2109.png
+- name: green nayad scale
+  icon: images/Item_2105.png
+- name: orange nayad scale
+  icon: images/Item_2108.png
+- name: red nayad scale
+  icon: images/Item_2111.png
+- name: yellow nayad scale
+  icon: images/Item_2110.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,3 +36,7 @@ source:
 ---
 
 - This collection was formerly only available via the [[A Burynai Digger|Burynai house pet]]. [[LU51|GU51]] corrected this by adding the collection to [[The Forsaken City]]
+
+## Rewards
+
+- At least 1g 12s 9c

@@ -4,6 +4,35 @@ type: quest
 level: '72'
 in_game_name: The Estate of Rest
 added_in: Echoes of Faydwer
+zone: '[[The Estate of Unrest]]'
+collection_type: Pages
+pieces:
+- name: The Estate of Rest - Page 1
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 2
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 3
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 4
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 5
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 6
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 7
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 8
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 9
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 10
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 11
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 12
+  icon: images/Item_2181.png
+- name: The Estate of Rest - Page 13
+  icon: images/Item_2181.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +53,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Estate of Rest (Item)|The Estate of Rest]]

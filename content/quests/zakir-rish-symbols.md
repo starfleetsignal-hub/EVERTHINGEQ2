@@ -3,6 +3,19 @@ title: Zakir Rish Symbols
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Symbol of the Zakir Rish
+  icon: images/Item_2618.png
+- name: Emblem of the Zakir Rish
+  icon: images/Item_2615.png
+- name: Icon of the Zakir Rish
+  icon: images/Item_2616.png
+- name: Badge of the Zakir Rish
+  icon: images/Item_2613.png
+- name: Banner of the Zakir Rish
+  icon: images/Item_5929.png
+- name: Signet of the Zakir Rish
+  icon: images/Item_2617.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Tainted Blight]]
+- [[Fragment of Collected Ballads (Legendary)|Fragment of Collected Ballads]]
+- [[Delicate Sheet Music]] this item is needed for the collection: [[Maedjinn's Requiem]]

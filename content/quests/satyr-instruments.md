@@ -3,6 +3,16 @@ title: Satyr Instruments
 type: quest
 level: '55'
 added_in: LU53
+zone: '[[Shard of Love: A Moment of Valor]]'
+pieces:
+- name: a satyr horn
+  icon: images/Item_3184.png
+- name: a satyr bell
+  icon: images/Item_2297.png
+- name: a satyr drum
+  icon: images/Item_2247.png
+- name: a satyr chime
+  icon: images/Item_2343.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +34,7 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A giant wooden arrow]] this item is needed for the collection: [[Dismantled Statue Pieces]]
+- At least 1p

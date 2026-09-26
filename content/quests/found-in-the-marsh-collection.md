@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Found in the Marsh
 added_in: Visions of Vetrovia
+pieces:
+- name: Toad Eggs
+  icon: images/Item_2305.png
+- name: Odd Footprint
+  icon: images/Item_4298.png
+- name: Soggy Deino Feathers
+  icon: images/Item_2819.png
+- name: Marsh Toadstool
+  icon: images/Item_4644.png
+- name: Water Snake Skin
+  icon: images/Item_1909.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Barding of Power]]
+- [[Found in the Marsh (Item)|Found in the Marsh]] this item is needed for the collection: [[More Sights and Sounds]]

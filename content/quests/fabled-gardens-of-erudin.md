@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sundered Frontier]]'
+collection_type: Year of Discovery
+pieces:
+- name: Erudin lily pad
+  page: Erudin lily pad (Fabled Gardens of Erudin)
+  icon: images/Item_2091.png
+- name: Erudin lilac
+  page: Erudin lilac (Fabled Gardens of Erudin)
+  icon: images/Item_1956.png
+- name: Erudin blossom
+  page: Erudin blossom (Fabled Gardens of Erudin)
+  icon: images/Item_1960.png
+- name: Erudin grass blade
+  page: Erudin grass blade (Fabled Gardens of Erudin)
+  icon: images/Item_2119.png
+- name: Erudin sun flower
+  page: Erudin sun flower (Fabled Gardens of Erudin)
+  icon: images/Item_1965.png
+- name: Erudin elm leaf
+  page: Erudin elm leaf (Fabled Gardens of Erudin)
+  icon: images/Item_2098.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

@@ -2,6 +2,19 @@
 title: Corollary
 type: quest
 level: '130'
+pieces:
+- name: Fateful Corollary
+  icon: images/Item_5943.png
+- name: Uncomfortable Corollary
+  icon: images/Item_5943.png
+- name: Deathly Corollary
+  icon: images/Item_5943.png
+- name: Fetid Corollary
+  icon: images/Item_5943.png
+- name: Magical Corollary
+  icon: images/Item_5943.png
+- name: Innate Corollary
+  icon: images/Item_5943.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Confused Recollection]] this item is needed for the collection: [[Recollections Meta]]

@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Adventuring Goals
 added_in: Renewal of Ro
+zone: '[[Buried Takish''Hiz: Foundation of Knowledge (Heroic I)]], [[Buried Takish''Hiz: Foundation of Knowledge (Heroic II)]], [[Buried Takish''Hiz: The Sacred Gift (Event Heroic II)]], [[Buried Takish''Hiz: The Sacred Gift (Event Heroic III)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic I)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic II)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic III)]]'
+pieces:
+- name: Delve and Depart
+  icon: images/Item_4199.png
+- name: Disempower Edrigan
+  icon: images/Item_2242.png
+- name: Slice Sanum
+  icon: images/Item_46.png
+- name: Steal the Key
+  icon: images/Item_1008.png
+- name: The Baron's Threads
+  icon: images/Item_747.png
 categories:
 - 'Buried Takish''Hiz: Foundation of Knowledge (Heroic I) Collection Quests'
 - 'Buried Takish''Hiz: Foundation of Knowledge (Heroic II) Collection Quests'
@@ -31,4 +43,6 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Adventuring Goals (Collection Item)|Adventuring Goals]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]

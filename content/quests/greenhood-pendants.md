@@ -4,6 +4,23 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]], [[Zek, the Scourge Wastes (Heroic)]]'
+collection_type: Hidden
+pieces:
+- name: Pendant of Greenhood Nature
+  icon: images/Item_3447.png
+- name: Pendant of Greenhood Courage
+  icon: images/Item_3458.png
+- name: Pendant of Greenhood Valor
+  icon: images/Item_3460.png
+- name: Pendant of Shelmay Wavecrest
+  icon: images/Item_3460.png
+- name: Pendant of Wensa Neldora
+  icon: images/Item_3459.png
+- name: Pendant of Rinis Nightsong
+  icon: images/Item_3459.png
+- name: Pendant of Sashra Thaltalis
+  icon: images/Item_3458.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +43,10 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fabled Djinn Forged Staff]] this item is needed for the collection: [[Fabled Weapons of the Orcish Wastes]]
+- one of the following:
+  - [[Ancient Mace of the Greenhoods]]
+  - [[Ancient Spear of the Greenhoods]]
+  - [[Ancient Greatsword of the Greenhoods]]

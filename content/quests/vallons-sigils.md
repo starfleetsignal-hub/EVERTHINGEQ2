@@ -3,6 +3,24 @@ title: Vallon's Sigils
 type: quest
 level: '90'
 added_in: LU60
+zone: '[[Tower of Tactics]]'
+pieces:
+- name: Sigil of Tactics
+  icon: images/Item_1356.png
+- name: Sigil of Finesse
+  icon: images/Item_1357.png
+- name: Sigil of the Scimitar
+  icon: images/Item_1358.png
+- name: Sigil of War
+  icon: images/Item_1359.png
+- name: Sigil of Governing
+  icon: images/Item_1360.png
+- name: Sigil of Wisdom
+  icon: images/Item_1361.png
+- name: Sigil of the General
+  icon: images/Item_1362.png
+- name: Sigil of Aristocracy
+  icon: images/Item_1363.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +41,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Greaves of the Sullonite Vehement]]
+- [[Tales of Drunder Page 6]] this item is needed for the collection: [[Tales of Drunder (Collection)|Tales of Drunder]]

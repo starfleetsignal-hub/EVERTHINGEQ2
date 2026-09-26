@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: Unforgotten
 added_in: Terrors of Thalumbra
+collection_type: Blue
+pieces:
+- name: Unforgotten Page 2
+  icon: images/Item_75.png
+- name: Unforgotten Page 3
+  icon: images/Item_75.png
+- name: Unforgotten Page 4
+  icon: images/Item_75.png
+- name: Unforgotten Page 1
+  icon: images/Item_75.png
+- name: Unforgotten Page 5
+  icon: images/Item_75.png
+- name: Unforgotten Page 6
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,3 +38,8 @@ expansion_source: patch
 ---
 
 Collection members can be found around [[Zou'Lidelas]].
+
+## Rewards
+
+- [[The Unforgotten]]
+- [[Aphotic Etched Hammer]]

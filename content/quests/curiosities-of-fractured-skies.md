@@ -2,6 +2,21 @@
 title: Curiosities of Fractured Skies
 type: quest
 level: '25'
+zone: '[[Nektulos Forest]], [[The Thundering Steppes]]'
+collection_type: Blue
+pieces:
+- name: Ferroalloy Metal Shard
+  icon: images/Item_679.png
+- name: Burnished Metal Chunk
+  icon: images/Item_2536.png
+- name: Diaphanous Globe
+  icon: images/Item_4616.png
+- name: Swirling Mist
+  icon: images/Item_2514.png
+- name: Crimson Tessera
+  icon: images/Item_1151.png
+- name: Shimmering Topaz
+  icon: images/Item_3025.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,3 +37,8 @@ source:
 ---
 
 This live event was introduced as the expansion prelude to the upcoming 2023 expansion: [[Ballads of Zimara]]
+
+## Rewards
+
+- [[Burnished Underbulk Plushie]]
+- [[Title: Curiosity Curator]]

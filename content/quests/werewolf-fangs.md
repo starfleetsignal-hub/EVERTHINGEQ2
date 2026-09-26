@@ -5,6 +5,21 @@ level: '75'
 added_in: Echoes of Faydwer
 aliases:
 - 'Loping Plains: Werewolf Fangs'
+zone: '[[Loping Plains]]'
+collection_type: Hidden
+pieces:
+- name: bloody werewolf fang
+  icon: images/Item_102.png
+- name: chipped werewolf fang
+  icon: images/Item_102.png
+- name: cracked werewolf fang
+  icon: images/Item_102.png
+- name: decayed werewolf fang
+  icon: images/Item_102.png
+- name: pristine werewolf fang
+  icon: images/Item_102.png
+- name: worn werewolf fang
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +43,9 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Incense Holder]]
+- one of the following:
+  - [[Werewolf Fang Hoop (Version 2)|Werewolf Fang Hoop]]
+  - [[Werewolf Fang Stud (Version 2)|Werewolf Fang Stud]]

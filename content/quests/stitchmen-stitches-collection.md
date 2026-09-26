@@ -5,6 +5,19 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Stitchmen Stitches
 added_in: Visions of Vetrovia
+pieces:
+- name: Running Stitch
+  icon: images/Item_746.png
+- name: Blanket Stitch
+  icon: images/Item_747.png
+- name: Lockstitch
+  icon: images/Item_748.png
+- name: Chain Stitch
+  icon: images/Item_746.png
+- name: Back Stitch
+  icon: images/Item_747.png
+- name: Zigzag Stitch
+  icon: images/Item_748.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Shoes of Striking]]
+- [[Stitchmen Stitches (Item)|Stitchmen Stitches]] this item is needed for the collection: [[More Sights and Sounds]]

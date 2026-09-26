@@ -3,6 +3,19 @@ title: Auduborian Colossus Collectables
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Colossus Root
+  icon: images/Item_198.png
+- name: Colossus Leaf
+  icon: images/Item_199.png
+- name: Colossus Bark
+  icon: images/Item_196.png
+- name: Colossus Branch
+  icon: images/Item_194.png
+- name: Colossus Heartwood
+  icon: images/Item_187.png
+- name: Colossus Sapwood
+  icon: images/Item_165.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Sang'Huuu Notary]]
+- [[Fragment of Collected Ballads (Treasured) (Version 2)|Fragment of Collected Ballads]]
+- [[Sang'Huuu Piccolo]] this item is needed for the collection: [[Overrealm Instruments]]

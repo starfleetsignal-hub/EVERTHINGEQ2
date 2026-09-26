@@ -6,6 +6,21 @@ in_game_name: vampire fang collection
 added_in: Bloodline Chronicles
 aliases:
 - 'Vampire Fang: vampire fang collection'
+zone: '[[The Crypt of T''haen]], [[Tombs of Night]]'
+collection_type: Shiny
+pieces:
+- name: shattered vampire fang
+  icon: images/Item_2569.png
+- name: cracked vampire fang
+  icon: images/Item_2569.png
+- name: dull vampire fang
+  icon: images/Item_2569.png
+- name: sharp vampire fang
+  icon: images/Item_2569.png
+- name: gleaming vampire fang
+  icon: images/Item_2569.png
+- name: pristine vampire fang
+  icon: images/Item_2569.png
 categories:
 - Bloodline Chronicles Collection Quests
 - Census Credits
@@ -25,4 +40,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A hellhound puppy (Version 1)|a hellhound puppy]]

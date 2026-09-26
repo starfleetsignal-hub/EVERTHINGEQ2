@@ -3,6 +3,24 @@ title: Shards of Amenophas
 type: quest
 level: '90'
 added_in: LU61
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Burial Mask of Amenophas
+  icon: images/Item_1723.png
+  note: (Reward from the collection [[Glowing Runes]])
+- name: Emerald Shard of Amenophas
+  icon: images/Item_3775.png
+  note: (Reward from the collection [[Golden Scarabs]])
+- name: Lapis Lazuli Shard of Amenophas
+  icon: images/Item_3778.png
+  note: (Reward from the collection [[Mummified Food]])
+- name: Ruby Shard of Amenophas
+  icon: images/Item_3776.png
+  note: (Reward from the collection [[Gems of Ketahn Akh Sul]])
+- name: Golden Claw of Amenophas
+  icon: images/Item_79.png
+  note: (Reward from the collection [[Canopic Jars]])
 categories:
 - Census Credits
 - Collection Quests
@@ -33,3 +51,7 @@ Note: Once this collection is turned in, return to [[Silent City: The Delving De
   - [[Glowing Runes]]
   - [[Golden Scarabs]]
   - [[Mummified Food]]
+
+## Rewards
+
+- 2p

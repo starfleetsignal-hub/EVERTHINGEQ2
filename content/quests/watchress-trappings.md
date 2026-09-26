@@ -4,6 +4,19 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: Renewal of Ro
+pieces:
+- name: Robes of the Watchress
+  icon: images/Item_5321.png
+- name: Slippers of the Watchress
+  icon: images/Item_5300.png
+- name: Wand of the Watchress
+  icon: images/Item_5358.png
+- name: Tome of the Watchress
+  icon: images/Item_4813.png
+- name: Symbol of the Watchress
+  icon: images/Item_5359.png
+- name: Orb of the Watchress
+  icon: images/Item_5087.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,6 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Blackmetal Scimitar]] this item is needed for the collection: [[Duende Ancient Armaments]]

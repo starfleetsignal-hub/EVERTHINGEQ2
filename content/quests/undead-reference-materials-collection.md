@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Undead Reference Materials
 added_in: Visions of Vetrovia
+pieces:
+- name: Undead Animation Basics
+  icon: images/Item_716.png
+- name: How to Prolong the Life of Your Ghouls
+  icon: images/Item_717.png
+- name: Mummy Wrapping Techniques
+  icon: images/Item_718.png
+- name: Choosing the Proper Corpse
+  icon: images/Item_718.png
+- name: Skeleton Selection Recommendations
+  icon: images/Item_720.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Undercover Assault]]
+- [[Undead Reference Materials (Item)|Undead Reference Materials]] this item is needed for the collection: [[Vetrovian Perceptions]]

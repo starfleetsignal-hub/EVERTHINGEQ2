@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Cuirass of the Ghoul Lord
+  icon: images/Item_6.png
+- name: Protector of the Ghoul Lord
+  icon: images/Item_17.png
+  note: no-trade
+- name: Ghoul Lord's Flies
+  icon: images/Item_110.png
+- name: Ghoul Lord's Locusts
+  icon: images/Item_164.png
+- name: Ghoul Lord's Barbute
+  icon: images/Item_101.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Ghoul Lord]] this item is needed for the collection: [[Inhabitants of Guk]]

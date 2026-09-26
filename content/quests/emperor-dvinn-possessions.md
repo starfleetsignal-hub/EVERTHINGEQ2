@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Advanced Solo)]], [[The Fabled Court of Innovation (Advanced Solo)]], [[The Fabled Crypt of Valdoon (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Emperor D'Vinn's Jeweled Dagger
+  icon: images/Item_3127.png
+- name: Emperor D'Vinn's Golden Mirror
+  icon: images/Item_999.png
+- name: Emperor D'Vinn's Etched Flask
+  icon: images/Item_1082.png
+- name: Emperor D'Vinn's Ruby Ring
+  icon: images/Item_3432.png
+- name: Emperor D'Vinn's Emerald Pendant
+  icon: images/Item_3447.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Klakdyne Zookeeper]] this item is needed for the collection: [[King Klak'Anon Scepters]]

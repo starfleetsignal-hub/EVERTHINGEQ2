@@ -2,6 +2,19 @@
 title: Viper Fangs
 type: quest
 level: '10'
+pieces:
+- name: Pointed Viper Fang
+  icon: images/Item_5736.png
+- name: Tapering Viper Fang
+  icon: images/Item_5736.png
+- name: Keen Viper Fang
+  icon: images/Item_5736.png
+- name: Jagged Viper Fang
+  icon: images/Item_5736.png
+- name: Splintered Viper Fang
+  icon: images/Item_5736.png
+- name: Tined Viper Fang
+  icon: images/Item_5736.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Ironclad Cloud of Chaos]]
+- [[Stone Hatchet]] this item is needed for the collection: [[Hatcheteer Hatchets]]

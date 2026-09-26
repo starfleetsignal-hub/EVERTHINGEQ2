@@ -6,6 +6,20 @@ in_game_name: scuffed shards collection
 added_in: Shattered Lands
 aliases:
 - 'Shard: scuffed shards collection'
+zone: '[[Antonica]], [[Blackburrow]], [[The Commonlands]], [[The Peat Bog]], [[Frostfang Sea]]'
+pieces:
+- name: scuffed shard of abjuration
+  icon: images/Item_183.png
+- name: scuffed shard of alteration
+  icon: images/Item_183.png
+- name: scuffed shard of channeling
+  icon: images/Item_183.png
+- name: scuffed shard of conjuration
+  icon: images/Item_183.png
+- name: scuffed shard of divination
+  icon: images/Item_183.png
+- name: scuffed shard of evocation
+  icon: images/Item_183.png
 categories:
 - Antonica Collection Quests
 - Blackburrow Collection Quests
@@ -30,4 +44,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bracelet of Scuffed Shards]]

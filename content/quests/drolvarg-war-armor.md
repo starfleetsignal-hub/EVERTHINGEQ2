@@ -5,6 +5,23 @@ level: '72'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Drolvarg War Armor'
+zone: '[[Kylong Plains]]'
+collection_type: Hidden
+pieces:
+- name: drolvarg war helm
+  icon: images/Item_3297.png
+- name: drolvarg war greaves
+  icon: images/Item_3291.png
+- name: drolvarg war cuirass
+  icon: images/Item_3293.png
+- name: drolvarg war boots
+  icon: images/Item_3294.png
+- name: drolvarg war gauntlets
+  icon: images/Item_3296.png
+- name: drolvarg war pauldrons
+  icon: images/Item_3249.png
+- name: drolvarg war bracers
+  icon: images/Item_3295.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +45,9 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fallen Iksar Skull]]
+- one of the following:
+  - [[Drolvarg Armor Fastening]]
+  - [[Drolvarg Armor Manacle]]

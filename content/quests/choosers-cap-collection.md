@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Chooser's Cap
 added_in: Reign of Shadows
+pieces:
+- name: Bogling Loin Cloth
+  icon: images/Item_744.png
+- name: White Sand Powder
+  icon: images/Item_3492.png
+- name: Iron Rimmed Buttons
+  icon: images/Item_1017.png
+- name: Signet of Parting
+  icon: images/Item_1249.png
+- name: Substance of Umbra
+  icon: images/Item_1124.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Chooser's Cap (Armor)|Chooser's Cap]]
+- [[Chooser's Cap (Collection Item)|Chooser's Cap]] this item is needed for the collection: [[Dangers of the Darkside]]

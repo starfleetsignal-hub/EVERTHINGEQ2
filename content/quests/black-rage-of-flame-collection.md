@@ -5,6 +5,19 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Black Rage of Flame
 added_in: Chaos Descending
+zone: '[[Doomfire, the Burning Lands]]'
+collection_type: Blue
+pieces:
+- name: Doomfire Obsidian
+  icon: images/Item_1166.png
+- name: Sigil of the Fire Tyrant
+  icon: images/Item_1294.png
+- name: Essence of Quickening
+  icon: images/Item_4085.png
+- name: Seal of Flame
+  icon: images/Item_1313.png
+- name: Rune of Rage
+  icon: images/Item_1267.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +38,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Black Rage of Flame (Charm)|Black Rage of Flame]]
+- [[Black Rage of Flame (Collection Item)|Black Rage of Flame]] this item is needed for the collection: [[Exquisite Puresteel Wraps (Collection)|Exquisite Puresteel Wraps]]

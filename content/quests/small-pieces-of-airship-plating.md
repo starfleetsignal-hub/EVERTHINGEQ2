@@ -5,6 +5,19 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Plating: Small Pieces of Airship Plating'
+zone: '[[Tenebrous Tangle]]'
+collection_type: Shiny
+pieces:
+- name: small dusky piece of airship plating
+  icon: images/Item_734.png
+- name: small pristine piece of airship plating
+  icon: images/Item_735.png
+- name: small shining piece of airship plating
+  icon: images/Item_731.png
+- name: small weathered piece of airship plating
+  icon: images/Item_733.png
+- name: small worn piece of airship plating
+  icon: images/Item_732.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Drednever Work Bench]]

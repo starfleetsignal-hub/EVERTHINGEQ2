@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Fordel Midst: Bizarre Bazaar (Solo)]], [[Fordel Midst: The Listless Spires (Solo)]], [[Fordel Midst: Wayward Manor (Solo)]]'
+pieces:
+- name: Dark Wisp Stone
+  icon: images/Item_145.png
+- name: Light Wisp Stone
+  icon: images/Item_144.png
+- name: Glowing Wisp Stone
+  icon: images/Item_144.png
+- name: Shadowed Wisp Stone
+  icon: images/Item_145.png
+- name: Bright Wisp Stone
+  icon: images/Item_144.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,13 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Confidence]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]
+- one of the following:
+  - [[Voidpiercer's Adornment of Magical Skill (Collection Reward)|Voidpiercer's Adornment of Magical Skill]]
+  - [[Voidpiercer's Adornment of Increased Criticals (Collection Reward)|Voidpiercer's Adornment of Increased Criticals]]
+  - [[Voidpiercer's Adornment of Increased Criticals (2H) (Collection Reward)|Voidpiercer's Adornment of Increased Criticals (2H)]]
+  - [[Voidpiercer's Adornment of Defense (Collection Reward)|Voidpiercer's Adornment of Defense]]
+  - [[Voidpiercer's Adornment of Parrying (Collection Reward)|Voidpiercer's Adornment of Parrying]]
+  - [[Voidpiercer's Adornment of Weaponry (Collection Reward)|Voidpiercer's Adornment of Weaponry]]

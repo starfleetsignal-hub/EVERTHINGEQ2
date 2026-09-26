@@ -5,6 +5,19 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Simple Ring of Purity
 added_in: Chaos Descending
+zone: '[[Eryslai: The Bixel Hive (Solo)]], [[Eryslai: The Midnight Aerie (Solo)]], [[Eryslai: Trials of Air (Solo)]]'
+collection_type: Blue
+pieces:
+- name: Simple Ring
+  icon: images/Item_395.png
+- name: Hymn of Purity
+  icon: images/Item_75.png
+- name: Stamp of Xegony
+  icon: images/Item_1804.png
+- name: Ink of Kingdoms
+  icon: images/Item_3049.png
+- name: Signet of Eryslai
+  icon: images/Item_1374.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -27,4 +40,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Simple Ring of Purity (Armor)|Simple Ring of Purity]]
+- [[Simple Ring of Purity (Collection Item)|Simple Ring of Purity]] this item is needed for the collection: [[Sword of Primordial Power (Collection)|Sword of Primordial Power]]

@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Graverobber's Tools
 added_in: Visions of Vetrovia
+zone: '[[Mahngavi Wastes]]'
+pieces:
+- name: Shuttered Lantern
+  icon: images/Item_2577.png
+- name: Wooden Spade
+  icon: images/Item_2327.png
+- name: Strong Rope
+  icon: images/Item_2329.png
+- name: Dirty Canvas Tarp
+  icon: images/Item_1096.png
+- name: Adamantine Crowbar
+  icon: images/Item_2351.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +39,8 @@ expansion_source: patch
 ---
 
 ﻿
+
+## Rewards
+
+- [[Pattern: Mahngavi Saddle of Brawn]]
+- [[Graverobber's Tools (Item)|Graverobber's Tools]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

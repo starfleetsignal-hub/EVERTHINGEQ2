@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
+pieces:
+- name: Barrel Room Key
+  icon: images/Item_2174.png
+- name: Distilling Room Key
+  icon: images/Item_2171.png
+- name: Sugar Room Key
+  icon: images/Item_2175.png
+- name: Harbor Key
+  icon: images/Item_2172.png
+- name: Bottle Room Key
+  icon: images/Item_2173.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Lieutenant Scothens' Breeches]] this item is needed for the collection: [[Belongings of the Vanguard]]

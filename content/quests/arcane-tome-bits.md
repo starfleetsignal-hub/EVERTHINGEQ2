@@ -3,6 +3,18 @@ title: Arcane Tome Bits
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Heroic I)]], [[Shattered Unrest (Heroic II)]], [[Shattered Unrest (Heroic III)]]'
+pieces:
+- name: Torn Pages
+  icon: images/Item_185.png
+- name: Ripped Pages
+  icon: images/Item_185.png
+- name: Mangled Cover
+  icon: images/Item_195.png
+- name: Burnt Endband
+  icon: images/Item_195.png
+- name: Severed Book Spine
+  icon: images/Item_195.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Crogyn]]
+- [[Gooey Arcana Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

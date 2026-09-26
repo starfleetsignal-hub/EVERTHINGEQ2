@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: Marks of Heracyne
 added_in: Terrors of Thalumbra
+zone: '[[Stygian Threshold (Heroic)]]'
+pieces:
+- name: Strand of Heracyne's Web
+  icon: images/Item_2251.png
+- name: Heracyne's Silk Strand
+  icon: images/Item_1113.png
+- name: Droplet of Heracyne's Poison
+  icon: images/Item_178.png
+- name: Heracyne's Cocoon Fragment
+  icon: images/Item_2360.png
+- name: Husk of Heracyne's Dinner
+  icon: images/Item_95.png
+- name: Heracyne's Leg Hair
+  icon: images/Item_161.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,10 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Silken Keepsake]] for the [[Stygian Threshold Keepsakes]] collection
+- one of the following:
+  - [[Gilded Intrusive Etched Mace]]
+  - [[Gilded Intrusive Etched Dirk]]
+  - [[Gilded Intrusive Etched Blade]]

@@ -4,6 +4,28 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Oogothl Sprawl]]'
+pieces:
+- name: Sludgegloom Crawler Husk
+  icon: images/Item_5744.png
+- name: Sacrificial Oozer Husk
+  icon: images/Item_5744.png
+- name: Rootgnaw Spawn Husk
+  icon: images/Item_5744.png
+- name: Hollowstare Ward Husk
+  icon: images/Item_5744.png
+- name: Bloodshot Warden Husk
+  icon: images/Item_5744.png
+- name: Nullblink Scribe Husk
+  icon: images/Item_5744.png
+- name: Blink Runt Husk
+  icon: images/Item_5744.png
+- name: Grave Creeper Husk
+  icon: images/Item_5744.png
+- name: Wrought Eyeblight Husk
+  icon: images/Item_5744.png
+- name: Oogothl Lasher Husk
+  icon: images/Item_5744.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +48,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Oculus Sentinel Plushie]]
+- [[Fragment of Collected Void]]
+- [[Rootgnaw Ichor]] this item is needed for the collection: [[Jar of Darkened Ichor (Collection)|Jar of Darkened Ichor]]

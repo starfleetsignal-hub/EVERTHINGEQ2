@@ -3,6 +3,36 @@ title: Colorful Egg Shells
 type: quest
 level: '20'
 added_in: Beast'r Eggstravaganza
+zone: '[[The City of Freeport]], [[Qeynos Capitol District]], [[Qeynos Province District]], [[Greater Faydark]], [[Timorous Deep]], [[Darklight Wood]], [[Frostfang Sea]]'
+collection_type: Purple
+pieces:
+- name: Periwinkle Striped Shell
+  icon: images/Item_4796.png
+  note: Freeport & Qeynos
+- name: Cerulean Spotted Shell
+  icon: images/Item_4796.png
+  note: Freeport & Qeynos
+- name: Lemon Zig-Zagged Shell
+  icon: images/Item_4796.png
+  note: Freeport & Qeynos
+- name: Lavender Zig-Zagged Shell
+  icon: images/Item_4796.png
+  note: Kelethin & Darklight Wood
+- name: Fuchsia Striped Shell
+  icon: images/Item_4796.png
+  note: Kelethin & Darklight Wood
+- name: Plum Spotted Shell
+  icon: images/Item_4796.png
+  note: Kelethin & Darklight Wood
+- name: Peach Spotted Shell
+  icon: images/Item_4796.png
+  note: Halas & Timorous Deep
+- name: Blush Striped Shell
+  icon: images/Item_4796.png
+  note: Halas & Timorous Deep
+- name: Lime Zig-Zagged Shell
+  icon: images/Item_4796.png
+  note: Halas & Timorous Deep
 categories:
 - Beast'r Eggstravaganza (CQ Category)
 - Beast'r Eggstravaganza Collection Quests
@@ -27,4 +57,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Large Beast'r Egg Basket]]

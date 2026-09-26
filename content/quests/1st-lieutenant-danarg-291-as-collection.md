@@ -6,6 +6,25 @@ in_game_name: 1st Lieutenant Danarg, 291 AS
 added_in: Shattered Lands
 aliases:
 - 'Tome: 1st Lieutenant Danarg, 291 AS'
+zone: '[[The Feerrott]]'
+collection_type: Pages
+pieces:
+- name: 1st Lieutenant Danarg, 291 AS - Page 3
+  icon: images/Item_2180.png
+  note: Clickable plant at {{waypoint 24, -5, 321}}
+- name: 1st Lieutenant Danarg, 291 AS - Page 5
+  icon: images/Item_2180.png
+- name: 1st Lieutenant Danarg, 291 AS - Page 7
+  icon: images/Item_2180.png
+- name: 1st Lieutenant Danarg, 291 AS - Page 8
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
+- name: 1st Lieutenant Danarg, 291 AS - Page 10
+  icon: images/Item_2180.png
+  note: Clickable plant at {{waypoint -270, 4, 309}}
+- name: 1st Lieutenant Danarg, 291 AS - Page 12
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +46,7 @@ expansion_source: patch
 ---
 
 *For a list of known ! spawn locations and mob drops, see the Talk Page.*
+
+## Rewards
+
+- [[1st Lieutenant Danarg, 291 AS (CollectionReward)|1st Lieutenant Danarg, 291 AS]]

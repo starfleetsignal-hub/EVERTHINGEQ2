@@ -6,6 +6,19 @@ in_game_name: ratonga bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: ratonga bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered ratonga bone fragment
+  icon: images/Item_322.png
+- name: cracked ratonga bone fragment
+  page: Cracked ratonga bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered ratonga bone fragment
+  icon: images/Item_322.png
+- name: unscathed ratonga bone fragment
+  icon: images/Item_322.png
+- name: enchanted ratonga bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Weathered bone fragments collection|Weathered bone fragments]]
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
+
+## Rewards
+
+- [[Petrified Ratonga Eye]]

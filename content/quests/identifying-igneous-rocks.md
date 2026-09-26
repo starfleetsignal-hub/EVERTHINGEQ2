@@ -3,6 +3,23 @@ title: Identifying Igneous Rocks
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Super-Heated Granite
+  icon: images/Item_1122.png
+- name: Super-Heated Obsidian
+  icon: images/Item_1166.png
+- name: Super-Heated Diorite
+  icon: images/Item_1123.png
+- name: Super-Heated Basalt
+  icon: images/Item_1124.png
+- name: Super-Heated Rhyolite
+  icon: images/Item_1151.png
+- name: Super-Heated Pumice
+  icon: images/Item_1136.png
+- name: Super-Heated Scoria
+  icon: images/Item_5695.png
+- name: Super-Heated Peridotite
+  icon: images/Item_1131.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +39,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Sealed Hooluk Basin]]
+- [[Fragment of Collected Ballads (Treasured) (Version 1)|Fragment of Collected Ballads]]
+- [[Sang'Huuu Tambourine]] this item is needed for the collection: [[Overrealm Percussion]]

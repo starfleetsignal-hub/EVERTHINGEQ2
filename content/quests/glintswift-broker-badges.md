@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic II)]]'
+pieces:
+- name: Glintswift Negotiator's Mark
+  icon: images/Item_1269.png
+- name: Glintswift Intermediary's Insignia
+  icon: images/Item_1267.png
+- name: Glintswift Go-Between's Insignia
+  icon: images/Item_1264.png
+- name: Glintswift Interceder's Mark
+  icon: images/Item_1266.png
+- name: Glintswift Middleperson's Mark
+  icon: images/Item_1263.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Warewolf Hackamore of Doublestrike]]
+- [[Brummagem Vetrovian Mint]] this item is needed for the collection: [[Counterfeit Coins]]

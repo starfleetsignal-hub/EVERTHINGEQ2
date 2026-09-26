@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+collection_type: Shiny
+pieces:
+- name: Blade Geist Symbol of Blood
+  icon: images/Item_1022.png
+- name: Blade Geist Symbol of Strength
+  icon: images/Item_1022.png
+- name: Blade Geist Symbol of Doom
+  icon: images/Item_1024.png
+- name: Blade Geist Symbol of Destruction
+  icon: images/Item_1023.png
+- name: Blade Geist Symbol of Chaos
+  icon: images/Item_1023.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Mechnamagica Seeker]] this item is needed for the collection: [[King Klak'Anon Scepters]]

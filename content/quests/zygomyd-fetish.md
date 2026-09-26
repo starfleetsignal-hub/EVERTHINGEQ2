@@ -2,6 +2,19 @@
 title: Zygomyd Fetish
 type: quest
 level: '10'
+pieces:
+- name: Zygomyd Fetish of Sod
+  icon: images/Item_5690.png
+- name: Zygomyd Fetish of Loam
+  icon: images/Item_5690.png
+- name: Zygomyd Fetish of Muck
+  icon: images/Item_5690.png
+- name: Zygomyd Fetish of Marl
+  icon: images/Item_5690.png
+- name: Zygomyd Fetish of Loess
+  icon: images/Item_5690.png
+- name: Zygomyd Fetish of Bole
+  icon: images/Item_5690.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Zimaran Ewer]]
+- [[Unearthly Talisman]] this item is needed for the collection: [[Underpaw Talisman]]

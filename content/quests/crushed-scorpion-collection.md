@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Crushed Scorpion Collection'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: crushed black scorpion
+  icon: images/Item_2632.png
+- name: crushed blue scorpion
+  icon: images/Item_2651.png
+- name: crushed brown scorpion
+  icon: images/Item_2635.png
+- name: crushed green scorpion
+  icon: images/Item_2647.png
+- name: crushed red scorpion
+  icon: images/Item_2643.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Poison Guard Gauntlets]]
+  - [[Dagger of Venom]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Shield of the Guk Knight
+  icon: images/Item_18.png
+- name: Bracer of the Guk Knight
+  icon: images/Item_210.png
+- name: Eye of the Guk Knight
+  icon: images/Item_83.png
+- name: Pouch of the Guk Knight
+  icon: images/Item_248.png
+- name: Shoulders of the Guk Knight
+  icon: images/Item_216.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Guk Knight]] this item is needed for the collection: [[Inhabitants of Guk]]

@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Kylong Plains]]'
+collection_type: Year of Discovery
+pieces:
+- name: a crusted scorpikis stinger
+  page: A crusted scorpikis stinger (Fabled Scorpikis Stingers)
+  icon: images/Item_202.png
+- name: a dark scorpikis stinger
+  page: A dark scorpikis stinger (Fabled Scorpikis Stingers)
+  icon: images/Item_202.png
+- name: a deathly scorpikis stinger
+  page: A deathly scorpikis stinger (Fabled Scorpikis Stingers)
+  icon: images/Item_202.png
+- name: an envenomed scorpikis stinger
+  page: An envenomed scorpikis stinger (Fabled Scorpikis Stingers)
+  icon: images/Item_202.png
+- name: a light scorpikis stinger
+  page: A light scorpikis stinger (Fabled Scorpikis Stingers)
+  icon: images/Item_202.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +44,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

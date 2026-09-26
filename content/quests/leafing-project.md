@@ -4,6 +4,19 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Fantail Leaf
+  icon: images/Item_2013.png
+- name: Pothos Leaf
+  icon: images/Item_2094.png
+- name: Grass Blade
+  icon: images/Item_2124.png
+- name: Fern Frond
+  icon: images/Item_2110.png
+- name: Pine Tree Needle
+  icon: images/Item_2119.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Leaf Etched Rock]] this item is needed for the collection: [[Golden Opal Egg]]
+- one of the following:
+  - [[Vesspyr Citizen's Red Gloves]]
+  - [[Vesspyr Warrior's Red Barbute]]
+  - [[High Keep Outrider's Longbow]]

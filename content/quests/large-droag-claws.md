@@ -5,6 +5,17 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Claws: Large Droag Claws'
+zone: '[[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: large broken Droag claw
+  icon: images/Item_167.png
+- name: large chipped Droag claw
+  icon: images/Item_167.png
+- name: large polished Droag claw
+  icon: images/Item_167.png
+- name: large worn Droag claw
+  icon: images/Item_167.png
 categories:
 - Census Credits
 - Claws (CQ Category)
@@ -25,4 +36,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A droag gazing orb]]

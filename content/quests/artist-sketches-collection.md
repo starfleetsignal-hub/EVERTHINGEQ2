@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Artist Sketches
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus: The Sultan''s Dagger (Heroic I)]], [[Raj''Dur Plateaus: Blood and Sand (Heroic I)]]'
+pieces:
+- name: Ancient Aqueducts
+  icon: images/Item_185.png
+- name: Colorful Desert Flowers
+  icon: images/Item_185.png
+- name: Plateau Vista
+  icon: images/Item_185.png
+- name: Reservoir Shelter
+  icon: images/Item_185.png
+- name: Rocky Pinnacles
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Ensorcelled Badlands Barding of Bolstering]]
+- [[Artist Sketches (Collection Item)|Artist Sketches]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]

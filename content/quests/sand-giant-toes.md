@@ -3,6 +3,14 @@ title: Sand Giant Toes
 type: quest
 level: '50'
 added_in: Desert of Flames
+zone: '[[The Sinking Sands]], [[The Pillars of Flame]]'
+pieces:
+- name: decaying sand giant toe
+  icon: images/Item_2682.png
+- name: fresh sand giant toe
+  icon: images/Item_2680.png
+- name: shriveled sand giant toe
+  icon: images/Item_2681.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +32,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Sun Kissed Earring]]
+  - [[Pain Fused Gauntlets]]

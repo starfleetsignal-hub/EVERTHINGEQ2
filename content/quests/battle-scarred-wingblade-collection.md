@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Battle Scarred Wingblade
 added_in: Reign of Shadows
+zone: '[[Echo Caverns: Zelmie Sortie (Solo)]], [[Echo Caverns: Fungal Foray (Solo)]], [[Echo Caverns: Quarry Quandary (Solo)]], [[Vex Thal: Shadow Citadel (Solo)]]'
+pieces:
+- name: Finely Crafted Luclizite Blade
+  icon: images/Item_4920.png
+- name: Acrid Polish
+  icon: images/Item_4886.png
+- name: Strong Sea Slug Hide
+  icon: images/Item_4652.png
+- name: Bauble of Battle
+  icon: images/Item_4868.png
+- name: Blood of the Fallen
+  icon: images/Item_4880.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +41,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Battle Scarred Wingblade (Collection Item)|Battle Scarred Wingblade]] this item is needed for the collection: [[Depths of the Darkside]]
+- [[Battle Scarred Wingblade (Weapon)|Battle Scarred Wingblade]]

@@ -4,6 +4,14 @@ type: quest
 level: '135'
 timeline: '[[Revelations of Malice Timeline]]'
 added_in: Revelations of Malice
+pieces:
+- name: Stegoplatodon Hide Plate
+  note: no-trade
+- name: Stegoplatodon Horned Crest
+- name: Stegoplatodon Bone Segment
+- name: Stegoplatodon Tail Spike
+- name: Stegoplatodon Rib Bone
+- name: Stegoplatodon Jaw Fragment
 categories:
 - Collection Quests
 - Collections needing rewards

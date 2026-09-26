@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Bracers of Earthen Energy
 added_in: Chaos Descending
+zone: '[[Vegarlson: Council''s Stronghold (Heroic)]], [[Vegarlson: Council''s Stronghold (Expert)]], [[Vegarlson: Ruins of Rathe (Heroic)]], [[Vegarlson: Ruins of Rathe (Expert)]], [[Vegarlson: The Terrene Rift (Event Heroic)]], [[Vegarlson: The Terrene Rift (Expert Event)]]'
+pieces:
+- name: Earthen Bracers
+  icon: images/Item_210.png
+- name: Mark of Energy
+  icon: images/Item_3827.png
+- name: Charm of Distance
+  icon: images/Item_2523.png
+- name: Elements of Mud
+  icon: images/Item_3776.png
+- name: Insignia of the Mudwalker
+  icon: images/Item_603.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -30,4 +42,11 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bracers of Earthen Energy (Collection Item)|Bracers of Earthen Energy]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]
+- one of the following:
+  - [[Linked Bracers of Earthen Energy]]
+  - [[Cloth Bracers of Earthen Energy]]
+  - [[Leather Bracers of Earthen Energy]]
+  - [[Bracers of Earthen Energy (Plate)|Bracers of Earthen Energy]]

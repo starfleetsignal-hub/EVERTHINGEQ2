@@ -3,6 +3,19 @@ title: Nizari Weapons
 type: quest
 level: '100'
 added_in: LU101
+zone: '[[The Fabled Nizara, City of the Nayad (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Poleaxe of the Praetor
+  icon: images/Item_35.png
+- name: Bloodletting Blade of the Denizens
+  icon: images/Item_2734.png
+- name: Greatsword of the Vindicae
+  icon: images/Item_60.png
+- name: Student's Practice Sword
+  icon: images/Item_2730.png
+- name: Nizari Training Katana
+  icon: images/Item_1682.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +34,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Seal of Insanity]] this item is needed for the collection: [[Seals of the Vindicae]]
+- one of the following:
+  - [[Glorious Nizari Boots]]
+  - [[Leather Forearms of the Vindicae]]

@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Temple of Cazic-Thule]]'
+collection_type: Shiny
+pieces:
+- name: Black Thulian Clay
+  icon: images/Item_3778.png
+- name: Grey Thulian Clay
+  icon: images/Item_3773.png
+- name: Yellow Thulian Clay
+  icon: images/Item_3777.png
+- name: Red Thulian Clay
+  icon: images/Item_3776.png
+- name: Monstrous Clay
+  icon: images/Item_3772.png
 categories:
 - Cazic-Thule (Fabled) (CQ Category)
 - Census Credits
@@ -23,4 +36,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Primitive Warlord Pin]] this item is needed for the collection: [[Primitive Thulian Pins]]
+- one of the following:
+  - [[Stud of Thulian Clay]]
+  - [[Hoop of Thulian Clay]]

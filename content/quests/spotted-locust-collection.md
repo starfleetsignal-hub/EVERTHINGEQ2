@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Spotted Locust Collection'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: spotted black locust
+  icon: images/Item_2657.png
+- name: spotted blue locust
+  icon: images/Item_2679.png
+- name: spotted brown locust
+  icon: images/Item_2661.png
+- name: spotted green locust
+  icon: images/Item_2675.png
+- name: spotted red locust
+  icon: images/Item_2671.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Mitts of the Dark Caster]]
+  - [[Swarm Caller's Leggings]]

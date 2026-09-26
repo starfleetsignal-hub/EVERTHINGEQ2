@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Rotting Flesh Armor
 added_in: Reign of Shadows
+pieces:
+- name: Salted Dried Rotted Flesh
+  icon: images/Item_780.png
+- name: Supple Fawn Skin Backing
+  icon: images/Item_1089.png
+- name: Ichor Coated Cord
+  icon: images/Item_4081.png
+- name: Rough Iron Hooks
+  icon: images/Item_1043.png
+- name: Fundamental Adumbration
+  icon: images/Item_365.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Rotting Flesh Armor (Chest)|Rotting Flesh Armor]]
+- [[Rotting Flesh Armor (Collection Item)|Rotting Flesh Armor]] this item is needed for the collection: [[Dangers of the Darkside]]

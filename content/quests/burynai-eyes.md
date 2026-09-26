@@ -3,6 +3,20 @@ title: Burynai Eyes
 type: quest
 level: '80'
 added_in: LU52
+zone: '[[Kurn''s Tower (Zone)]], [[Kurn''s Tower: Breaching the Void]]'
+pieces:
+- name: A Crushed Burynai Eye
+  icon: images/Item_83.png
+- name: A Squished Burynai Eye
+  icon: images/Item_83.png
+- name: A Flattened Burynai Eye
+  icon: images/Item_83.png
+- name: A Pulverized Burynai Eye
+  icon: images/Item_83.png
+- name: A Poked Out Burynai Eye
+  icon: images/Item_83.png
+- name: A Rotten Burynai Eye
+  icon: images/Item_83.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- At least 2p
+- [[Front Right Corner (Abyssal Carpet Fragments)|Front Right Corner]] this item is needed for the collection: [[Abyssal Carpet Fragments]]

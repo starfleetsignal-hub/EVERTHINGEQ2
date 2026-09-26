@@ -6,6 +6,23 @@ in_game_name: gnoll bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: gnoll bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered gnoll bone fragment
+  page: Shattered gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: cracked gnoll bone fragment
+  page: Cracked gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered gnoll bone fragment
+  page: Weathered gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: unscathed gnoll bone fragment
+  page: Unscathed gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: enchanted gnoll bone fragment
+  page: Enchanted gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -31,3 +48,7 @@ expansion_source: patch
   - [[Weathered bone fragments collection|Weathered bone fragments]]
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
+
+## Rewards
+
+- [[Petrified Gnoll Eye]]

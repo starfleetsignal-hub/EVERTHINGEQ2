@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Broken Jagged Tusk
+  icon: images/Item_157.png
+- name: Clean White Tusk
+  icon: images/Item_157.png
+- name: Shattered Yellow Tusk
+  icon: images/Item_157.png
+- name: Perfectly Intact Tusk
+  icon: images/Item_157.png
+- name: Broken Bloodied Tusk
+  icon: images/Item_157.png
+- name: Charred Broken Tusk
+  icon: images/Item_157.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,10 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Pennon of Victory]] this item is needed for the collection: [[Pennon of the Scourge]]
+- one of the following:
+  - [[Deadly Blood Iron Bow of Rending]]
+  - [[Deadly Blood Iron Pouch of Devastation]]
+  - [[Deadly Blood Iron Wand of Elemental Rending]]

@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast: Maiden''s Eye (Solo)]], [[Aurelian Coast: Reishi Rumble (Solo)]], [[Aurelian Coast: Sambata Village (Solo)]]'
+pieces:
+- name: Grey Wolf Hide
+  icon: images/Item_126.png
+- name: Brown Wolf Hide
+  icon: images/Item_123.png
+- name: Black Wolf Hide
+  icon: images/Item_136.png
+- name: Sable Wolf Hide
+  icon: images/Item_93.png
+- name: Bloody Wolf Hide
+  icon: images/Item_122.png
 categories:
 - 'Aurelian Coast: Maiden''s Eye (Solo) Collection Quests'
 - 'Aurelian Coast: Reishi Rumble (Solo) Collection Quests'
@@ -27,4 +39,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Celebration]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]

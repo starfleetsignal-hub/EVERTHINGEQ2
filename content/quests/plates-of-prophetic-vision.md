@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+pieces:
+- name: Grand Frontier Plate
+  icon: images/Item_1016.png
+- name: Embraced Dessert Plate
+  icon: images/Item_1017.png
+- name: Hallowed Water Plate
+  icon: images/Item_947.png
+- name: Land and Sea Plate
+  icon: images/Item_1063.png
+- name: Sanctified Sun Plate
+  icon: images/Item_1071.png
+- name: Wailing Oracle Plate
+  icon: images/Item_1064.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Inspired Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Helm of Prophecy Foretold]] (mercenary only)
+  - [[Sword of Prophetic Glimmer]]

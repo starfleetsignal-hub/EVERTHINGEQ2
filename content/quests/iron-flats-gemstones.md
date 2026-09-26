@@ -4,6 +4,28 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Aether Wroughtlands]]'
+pieces:
+- name: Polished Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Tapered Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Glossy Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Clear Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Trillion Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Round Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Opaque Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Murky Citrine Gemstone
+  icon: images/Item_4792.png
+- name: Powdered Citrine Gemstone
+  icon: images/Item_4946.png
+- name: Oval Citrine Gemstone
+  icon: images/Item_4792.png
 categories:
 - Aether Wroughtlands Collection Quests
 - Ballads of Zimara (CQ Category)
@@ -26,4 +48,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Zenith Ruin Pedestal]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[Iron Ingot]] this item is needed for the collection: [[Wroughtlands Ingots]]

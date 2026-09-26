@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Mad Scientist
 added_in: Visions of Vetrovia
+zone: '[[Mahngavi Wastes]]'
+pieces:
+- name: Undead Research Notes
+  icon: images/Item_715.png
+- name: Embalming Fluid
+  icon: images/Item_406.png
+- name: Roll of Mummy Wrappings
+  icon: images/Item_384.png
+- name: Pygmy Skeleton
+  icon: images/Item_611.png
+- name: 'Treatise: How to Fight Fire With Fire'
+  icon: images/Item_3806.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Holy Water Sprinkler]]
+- [[Mad Scientist (Item)|Mad Scientist]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

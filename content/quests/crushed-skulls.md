@@ -3,6 +3,20 @@ title: Crushed Skulls
 type: quest
 level: '80'
 added_in: LU52
+zone: '[[Emperor''s Athenaeum]]'
+pieces:
+- name: A Battle-Crushed Warrior’s Skull
+  icon: images/Item_91.png
+- name: A Battle-Crushed Rogue’s Skull
+  icon: images/Item_91.png
+- name: A Battle-Crushed Brawler’s Skull
+  icon: images/Item_91.png
+- name: A Battle-Crushed Predator’s Skull
+  icon: images/Item_91.png
+- name: A Battle-Crushed Crusader’s Skull
+  icon: images/Item_91.png
+- name: A Battle-Crushed Bard’s Skull
+  icon: images/Item_91.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,3 +38,8 @@ expansion_source: patch
 ---
 
 The reward of this collection is needed for [[Abyssal Carpet Fragments]]
+
+## Rewards
+
+- [[Rear Right Corner (Abyssal Carpet Fragments)|Rear Right Corner]] this item is needed for the collection: [[Abyssal Carpet Fragments]]
+- 3p

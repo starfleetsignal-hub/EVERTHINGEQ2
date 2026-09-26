@@ -6,6 +6,24 @@ added_in: Echoes of Faydwer
 aliases:
 - 'Butcherblock Mountains: Bugbear Ears'
 - Fresh Bugbear Ear
+zone: '[[Butcherblock Mountains]]'
+collection_type: Shiny
+pieces:
+- name: bloody bugbear ear
+  icon: images/Item_3190.png
+- name: decayed bugbear ear
+  icon: images/Item_3190.png
+- name: dried bugbear ear
+  icon: images/Item_3190.png
+- name: fresh bugbear ear
+  icon: images/Item_3190.png
+  note: ''
+- name: moldy bugbear ear
+  icon: images/Item_3190.png
+- name: shriveled bugbear ear
+  icon: images/Item_3190.png
+- name: wrinkled bugbear ear
+  icon: images/Item_3190.png
 categories:
 - Butcherblock Mountains (CQ Category)
 - Butcherblock Mountains Collection Quests
@@ -27,4 +45,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Bugbear Ear Badge (Version 2)|Bugbear Ear Badge]]
+  - [[Bugbear Ear Necklace (Version 2)|Bugbear Ear Necklace]]

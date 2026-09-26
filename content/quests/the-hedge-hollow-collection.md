@@ -7,6 +7,24 @@ events:
 - Nights of the Dead
 aliases:
 - The Hollow Hedge Collection
+zone: '[[The Hedge Hollow]]'
+pieces:
+- name: a lost eye
+  icon: images/Item_2226.png
+- name: a lost finger
+  icon: images/Item_3784.png
+- name: a lost action figure
+  icon: images/Item_2253.png
+- name: a lost hairbrush
+  icon: images/Item_1228.png
+- name: a lost pair of dice
+  icon: images/Item_1225.png
+- name: a lost mackerel
+  icon: images/Item_2541.png
+- name: a lost playing card
+  icon: images/Item_3379.png
+- name: a lost pair of goggles
+  icon: images/Item_3032.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +47,7 @@ expansion_source: patch
 ---
 
 Members of this collection are looted from [[Treasure Chest|Treasure Chests]] of ?'s that turn into mobs once collected.
+
+## Rewards
+
+- [[Petrified Bone Divider]]

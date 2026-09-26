@@ -4,6 +4,19 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast]]'
+collection_type: Shiny
+pieces:
+- name: Ka Vethan Icon
+  icon: images/Item_372.png
+- name: Ka Vethan Badge
+  icon: images/Item_373.png
+- name: Ka Vethan Talisman
+  icon: images/Item_370.png
+- name: Ka Vethan Slate
+  icon: images/Item_371.png
+- name: Ka Vethan Tablet
+  icon: images/Item_371.png
 categories:
 - Aurelian Coast Collection Quests
 - Blood of Luclin (CQ Category)
@@ -25,4 +38,10 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Echo Caverns Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]
+- one of the following:
+  - [[Ancient Ka Vethan Mace]]
+  - [[Ancient Ka Vethan Towershield]]
+  - [[Ancient Ka Vethan Talisman]]

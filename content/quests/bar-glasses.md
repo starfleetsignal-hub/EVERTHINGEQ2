@@ -5,6 +5,23 @@ level: '80'
 added_in: LU46
 aliases:
 - 'Tradeskill: Bar Glasses'
+zone: '[[Loping Plains]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: fluted glass
+  icon: images/Item_935.png
+- name: brandy glass
+  icon: images/Item_939.png
+- name: wine glass
+  icon: images/Item_309.png
+- name: beer glass
+  icon: images/Item_306.png
+- name: tall glass
+  icon: images/Item_313.png
+- name: shot glass
+  icon: images/Item_2563.png
+- name: cocktail glass
+  icon: images/Item_3193.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +46,7 @@ expansion_source: patch
 ---
 
 - All collection members are found along the roads near Somborn.
+
+## Rewards
+
+- [[Fae tavern shelves]]

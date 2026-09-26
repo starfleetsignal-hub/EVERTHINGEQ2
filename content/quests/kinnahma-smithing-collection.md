@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Kinnahma Smithing
 added_in: Visions of Vetrovia
+zone: '[[Svarni Expanse: Carrion Crag (Solo)]]'
+pieces:
+- name: Wrought Iron Gate
+  icon: images/Item_842.png
+- name: Whimsical Deino Sconce
+  icon: images/Item_565.png
+- name: Bronze Table Lamp
+  icon: images/Item_1053.png
+- name: Kamapor Farm Tools
+  icon: images/Item_114.png
+- name: Fine Silverware
+  icon: images/Item_1076.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Assembled Mystical Coat]]
+- [[Kinnahma Smithing (Item)|Kinnahma Smithing]] this item is needed for the collection: [[Vetrovian Perceptions]]

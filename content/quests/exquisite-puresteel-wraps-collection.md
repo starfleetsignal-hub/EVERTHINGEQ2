@@ -7,6 +7,23 @@ in_game_name: Exquisite Puresteel Wraps
 added_in: Chaos Descending
 aliases:
 - Exquisite Painsteel Wraps (Collection)
+collection_type: Collection items
+pieces:
+- name: Black Rage of Flame
+  page: Black Rage of Flame (Collection Item)
+  icon: images/Item_365.png
+  note: no-trade - (Reward from the collection [[Black Rage of Flame (Collection)|Black Rage of Flame]])
+- name: Exquisite Phoenix Feather Boots
+  page: Exquisite Phoenix Feather Boots (Collection Item)
+  icon: images/Item_1440.png
+  note: no-trade - (Reward from the collection [[Exquisite Phoenix Feather Boots (Collection)|Exquisite Phoenix Feather Boots]])
+- name: Girdle of Earthen Stability
+  page: Girdle of Earthen Stability (Collection Item)
+  icon: images/Item_2985.png
+  note: no-trade - (Reward from the collection [[Girdle of Earthen Stability (Collection)|Girdle of Earthen Stability]])
+- name: Disease Runed Greatstaff
+  icon: images/Item_1675.png
+  note: no-trade - (Reward from the collection [[Disease-Runed Greatstaff (Collection)|Disease-Runed Greatstaff]])
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -27,4 +44,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Exquisite Puresteel Wraps (Wrist)|Exquisite Puresteel Wraps]]
+- [[Exquisite Puresteel Wraps (Collection Item)|Exquisite Puresteel Wraps]] this item is needed for the collection: [[Clawed Earthcrafter's Pendant (Collection)|Clawed Earthcrafter's Pendant]]

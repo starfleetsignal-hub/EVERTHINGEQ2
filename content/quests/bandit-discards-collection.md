@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Bandit Discards
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus: The Sultan''s Dagger (Heroic I)]], [[Raj''Dur Plateaus: Blood and Sand (Heroic I)]]'
+pieces:
+- name: Broken Scimitar
+  icon: images/Item_54.png
+- name: Chipped Bandit Ring
+  icon: images/Item_604.png
+- name: Dead Caravan Guard
+  icon: images/Item_91.png
+- name: Discarded Headcovering
+  icon: images/Item_2685.png
+- name: Raj'Dur Insignia
+  icon: images/Item_1270.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Ensorcelled Badlands Saddle of Brawn]]
+- [[Bandit Discards (Collection Item)|Bandit Discards]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]

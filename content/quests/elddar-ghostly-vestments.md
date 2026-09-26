@@ -4,6 +4,17 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: LU122
+pieces:
+- name: Shroud of the Chronicler
+  icon: images/Item_5329.png
+- name: Shroud of the Scroll Keeper
+  icon: images/Item_5329.png
+- name: Shroud of the Archivist
+  icon: images/Item_5329.png
+- name: Cloak of the Archivist
+  icon: images/Item_5329.png
+- name: Cloak of the Scroll Keeper
+  icon: images/Item_5332.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,6 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Flitter's Flittering Daggers]] this item is needed for the collection: [[Buried Takish'Hiz Treasures (Collection)|Buried Takish'Hiz Treasures]]

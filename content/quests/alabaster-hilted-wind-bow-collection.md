@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Alabaster Hilted Wind Bow
 added_in: Chaos Descending
+zone: '[[Eryslai: The Bixel Hive (Heroic)]], [[Eryslai: The Bixel Hive (Expert)]], [[Eryslai: The Midnight Aerie (Heroic)]], [[Eryslai: The Midnight Aerie (Expert)]], [[Eryslai: Trials of Air (Event Heroic)]], [[Eryslai: Trials of Air (Expert Event)]]'
+pieces:
+- name: Alabaster Bow
+  icon: images/Item_630.png
+- name: Mark of Smoke
+  icon: images/Item_3818.png
+- name: Charm of Health
+  icon: images/Item_2519.png
+- name: Elements of Sun
+  icon: images/Item_3777.png
+- name: Insignia of Avatars
+  icon: images/Item_604.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -30,4 +42,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Alabaster Hilted Wind Bow (Collection Item)|Alabaster Hilted Wind Bow]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]
+- [[Alabaster Hilted Wind Bow (Weapon)|Alabaster Hilted Wind Bow]]

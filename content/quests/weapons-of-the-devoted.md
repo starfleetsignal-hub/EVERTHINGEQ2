@@ -3,6 +3,22 @@ title: Weapons of the Devoted
 type: quest
 level: '95'
 added_in: Chains of Eternity
+zone: '[[Throne of Fear (Heroic)]]'
+pieces:
+- name: A Diar Ew Axe
+  icon: images/Item_3.png
+- name: A Diar Ew Dagger
+  icon: images/Item_5.png
+- name: A Diar Ew Mace
+  icon: images/Item_284.png
+- name: A Diar Ew Maul
+  icon: images/Item_285.png
+- name: A Diar Ew Spear
+  icon: images/Item_287.png
+- name: A Diar Ew Staff
+  icon: images/Item_875.png
+- name: A Diar Ew Sword
+  icon: images/Item_205.png
 categories:
 - Census Credits
 - Chains of Eternity (CQ Category)
@@ -23,4 +39,10 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Bracer of the Fearmonger]]
+  - [[Cuff of the Fearmonger]]
+  - [[Bracelet of the Fearmonger]]
+  - [[Wristguard of the Fearmonger]]

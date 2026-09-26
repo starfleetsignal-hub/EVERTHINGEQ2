@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Ykeshan Wraithguard's Helm
+  icon: images/Item_3695.png
+- name: Ykeshan Wraithguard's Bastard Sword
+  icon: images/Item_3205.png
+  note: no-trade
+- name: Ykeshan Wraithguard's Idol
+  icon: images/Item_1214.png
+- name: Ykeshan Wraithguard's Ring
+  icon: images/Item_604.png
+- name: Ykeshan Wraithguard's Shield
+  icon: images/Item_3603.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Wraithguard]] this item is needed for the collection: [[Inhabitants of Guk]]

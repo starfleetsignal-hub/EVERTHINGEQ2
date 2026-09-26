@@ -3,6 +3,18 @@ title: High Lord's Invocation
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Invocation of Time
+  icon: images/Item_75.png
+- name: Invocation of Glare
+  icon: images/Item_75.png
+  note: no-trade
+- name: Invocation of Earth
+  icon: images/Item_75.png
+- name: Invocation of Fire
+  icon: images/Item_75.png
+- name: Invocation of Water
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Brood Minder Plushie]]
+- [[Fragment of Collected Void]]
+- [[Knee Splitter (Version 2)|Knee Splitter]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

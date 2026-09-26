@@ -3,6 +3,18 @@ title: Undead Bard Songs, Volume I
 type: quest
 level: '125'
 added_in: Update 2022.08.09
+zone: '[[Fabled Kurn''s Tower (Solo)]]'
+pieces:
+- name: A Cannibalistic Tune
+  icon: images/Item_75.png
+- name: Songs From The Void
+  icon: images/Item_75.png
+- name: Cannibalistic Bones Are Good
+  icon: images/Item_75.png
+- name: Reanimation and Undeath For All
+  icon: images/Item_75.png
+- name: Sadness And Despair
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +33,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Scornridden Cuirass]] this item is needed for the collection: [[Scornridden Armor]]

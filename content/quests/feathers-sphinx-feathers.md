@@ -3,6 +3,12 @@ title: 'Feathers: Sphinx Feathers'
 type: quest
 added_in: Rise of Kunark
 removed_from_game: This collection was removed from the game in [[LU51|GU51]].
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: blue sphinx feather
+- name: golden sphinx feather
+- name: red sphinx feather
 categories:
 - Collection Quests
 - Collections that reward no items
@@ -22,3 +28,7 @@ expansion_source: patch
 ---
 
 - Believed to have been an Burynai collection then removed in [[LU51|GU51]].
+
+## Rewards
+
+-

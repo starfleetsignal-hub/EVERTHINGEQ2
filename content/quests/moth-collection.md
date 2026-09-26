@@ -6,6 +6,18 @@ in_game_name: moth collection
 added_in: Shattered Lands
 aliases:
 - 'Moth: moth collection'
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: box of striped moths
+  icon: images/Item_648.png
+  note: (Reward from the collection [[Striped moth collection]])
+- name: box of spotted moths
+  icon: images/Item_648.png
+  note: (Reward from the collection [[Spotted moth collection]])
+- name: box of plain moths
+  icon: images/Item_648.png
+  note: (Reward from the collection [[Plain moth collection]])
 categories:
 - Census Credits
 - Collection Quests
@@ -30,3 +42,7 @@ expansion_source: patch
   - [[Plain moth collection]]
   - [[Striped moth collection]]
   - [[Spotted moth collection]]
+
+## Rewards
+
+- [[Moth Wing Ring]]

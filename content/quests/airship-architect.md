@@ -4,6 +4,26 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[F.S. Distillery: Distill or Be Killed (Heroic)]]'
+pieces:
+- name: Airship Cannon
+  icon: images/Item_3139.png
+  note: heirloom
+- name: Airship Engine
+  icon: images/Item_3085.png
+  note: heirloom
+- name: Airship Gas Bag
+  icon: images/Item_3082.png
+  note: heirloom
+- name: Airship Gondola
+  icon: images/Item_909.png
+  note: heirloom
+- name: Airship Rigging
+  icon: images/Item_2329.png
+  note: heirloom
+- name: Airship Stabilizers
+  icon: images/Item_3154.png
+  note: heirloom
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -25,4 +45,6 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Scarlet Albatross (Mount)|The Scarlet Albatross]]

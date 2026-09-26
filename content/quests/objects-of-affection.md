@@ -5,6 +5,20 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Objects of Affection'
+zone: '[[Evernight Abbey]], [[Mistmyr Manor]], [[Ravenscale Repository]]'
+pieces:
+- name: A White Crystal Rose
+  icon: images/Item_1942.png
+- name: Necklace of the Azure Empress
+  icon: images/Item_2141.png
+- name: Paintite Earrings
+  icon: images/Item_3465.png
+- name: Cloak of Inner Light
+  icon: images/Item_1101.png
+- name: Dress of Mystmyrian Silk
+  icon: images/Item_3067.png
+- name: Heart of the Gods
+  icon: images/Item_3167.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +41,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Drape of Infatuation]]
+  - [[Token of Attraction (CollectionReward)|Token of Attraction]]

@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Izshrash''Khar: Stratum of the Protectors (Heroic)]], [[Izshrash''Khar: Stratum of the Protectors (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Silver Ornate Coin
+  icon: images/Item_971.png
+- name: Copper Ornate Coin
+  icon: images/Item_972.png
+- name: Nickel Ornate Coin
+  icon: images/Item_973.png
+- name: Elder Coin
+  icon: images/Item_1025.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Iksar Symbol Coin]] this item is needed for the collection: [[Iksar Junk]]
+- one of the following:
+  - [[Vesspyr Warrior's Steel Gauntlets]]
+  - [[Vesspyr Warrior's Elaborate Red Barbute]]

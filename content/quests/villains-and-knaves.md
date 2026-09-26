@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Distill or Be Killed (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: Valgan's Coin
+  icon: images/Item_1354.png
+- name: Charanda's Spear
+  icon: images/Item_287.png
+- name: Grogmogo's Knife
+  icon: images/Item_22.png
+- name: Yipnik's Vest
+  icon: images/Item_6.png
+- name: Sea Dog Doogan's Dungarees
+  icon: images/Item_2552.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +36,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Rotten Egg]] this item is needed for the collection: [[Really Bad Eggs]]

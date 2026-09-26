@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[The Nexus Core (Advanced Solo)]], [[High Keep (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Yellow Glory Stone
+  icon: images/Item_3826.png
+- name: Green Glory Stone
+  icon: images/Item_3827.png
+- name: Blue Glory Stone
+  icon: images/Item_3823.png
+- name: Pink Glory Stone
+  icon: images/Item_3829.png
+- name: Orange Glory Stone
+  icon: images/Item_3830.png
+- name: Purple Glory Stone
+  icon: images/Item_3831.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Beryl Stone]] this item is needed for the collection: [[Dragon Jewels]]
+- One of the following:
+  - [[Vesspyr Scholar's Red Cowl]]
+  - [[Golden Shissar Longsword]]

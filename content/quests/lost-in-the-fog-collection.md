@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Lost in the Fog
 added_in: Visions of Vetrovia
+pieces:
+- name: Symbol of Anashti
+  icon: images/Item_585.png
+- name: Lycanthrope's Lost Boot
+  icon: images/Item_461.png
+- name: Chewed-Up "Dog" Toy
+  icon: images/Item_4073.png
+- name: Wind-Blown Hat
+  icon: images/Item_115.png
+- name: A Clawed-Up Shield
+  icon: images/Item_18.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[March of Axes]]
+- [[Lost in the Fog (Collection Item)|Lost in the Fog]] this item is needed for the collection: [[More Sights and Sounds]]

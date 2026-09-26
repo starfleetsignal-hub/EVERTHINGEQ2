@@ -111,6 +111,7 @@ class Page:
         self.store = {}         # placeholder -> markdown
         self.kind = None
         self.box = None
+        self.extra_md = ""      # sections built from infobox fields, appended to the body
 
     # placeholders keep converted links/templates away from the block parser
     def ph(self, md, block=False):
@@ -379,6 +380,44 @@ class Page:
             return "images/" + norm_title(v).replace(" ", "_")
         return ""
 
+    COLLECTION_TYPES = {"n": "Shiny", "normal": "Shiny", "p": "Pages", "page": "Pages", "c": "Corpse", "h": "Hidden",
+                        "a": "Aerial", "ht": "Hidden tradeskill", "hp": "Hidden purple", "meta": "Collection items",
+                        "click": "Clickable", "yod": "Year of Discovery"}
+
+    def collection(self, a, put):
+        """CQuestInformation: collection zone, type, pieces (front matter, for the tracker) and rewards (body)."""
+        zones = re.findall(r"\{\{\s*czone\s*\|\s*([^}|]+)", a.get("czones") or "", re.I)
+        zones = [z.strip() for z in zones if z.strip()] or [(a.get("czone") or "").strip()]
+        put("zone", ", ".join(self.pagelink(z) for z in zones if z))
+        t = re.sub(r"\s+", " ", (a.get("type") or "").strip())
+        if t and re.match(r"^[\w ,]+$", t):
+            put("collection_type", self.COLLECTION_TYPES.get(t.lower(), t[:1].upper() + t[1:].lower()))
+        pieces = []
+        for line in (a.get("members") or "").split("\n"):
+            line = line.strip().lstrip("*#").strip()
+            if not line or line.lower().startswith("{{allmembers"): continue
+            piece, icon = {}, re.search(r"\{\{\s*censusicon\s*\|\s*(\d+)\s*\}\}", line, re.I)
+            line = re.sub(r"\{\{\s*censusicon\s*\|[^}]*\}\}", "", line, flags=re.I).strip()
+            m = re.match(r"\[\[([^\]|]+)(?:\|([^\]]*))?\]\]", line) or re.match(r"'''(.+?)'''", line)
+            if m and m.re.pattern.startswith(r"\[\["):
+                target, name = norm_title(m.group(1)), plain(self.inline(m.group(2) or m.group(1)))
+            elif m:
+                target, name = "", plain(self.inline(m.group(1)))
+            else:
+                target, name, m = "", plain(self.inline(re.split(r"\s+-\s+|:\s", line)[0])), None
+            if not name: continue
+            piece["name"] = name
+            if target and target != norm_title(name): piece["page"] = target
+            if icon: piece["icon"] = "images/Item_%s.png" % icon.group(1)
+            rest = line[m.end():] if m else line[len(re.split(r"\s+-\s+|:\s", line)[0]):]
+            rest = re.sub(r"^[\s\-–:,.]+", "", rest.replace("'''", "").replace("''", "")).strip()
+            if rest: piece["note"] = self.inline(rest)
+            pieces.append(piece)
+        if pieces: self.fm["pieces"] = pieces
+        rewards = (a.get("rewards") or "").strip()
+        if rewards:
+            self.extra_md = "## Rewards\n\n" + self.body(rewards).strip()
+
     def infobox(self, kind, a):
         fm = self.fm
         def put(k, v):
@@ -405,6 +444,7 @@ class Page:
             put("in_game_name", self.val(a.get("altname")))
             put("added_in", self.val(a.get("patch")))
             if (a.get("aaexp") or "").strip(): fm["achievement_xp"] = True
+            if self.box == "cquestinformation": self.collection(a, put)
         elif kind == "npc":
             put("subtitle", self.val(a.get("idesc")))
             put("purpose", self.val(a.get("purpose")))
@@ -761,6 +801,7 @@ def convert(rec):
     w = preprocess(rec["wikitext"])
     w = p.extract_infobox(w)
     body = p.body(w)
+    if p.extra_md: body = (body.rstrip() + "\n\n" + p.extra_md).strip()
     kind = classify(p)
     body = drop_empty_sections(body)
     fm = {"title": p.title, "type": kind}

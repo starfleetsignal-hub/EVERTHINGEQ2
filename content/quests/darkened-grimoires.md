@@ -3,6 +3,20 @@ title: Darkened Grimoires
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[Royal Palace of Erudin]], [[Erudin Research Halls]]'
+pieces:
+- name: Darkened Grimoire of Al'Kabor
+  icon: images/Item_3183.png
+- name: Darkened Grimoire of E'Arad
+  icon: images/Item_3183.png
+- name: Darkened Grimoire of Dartain
+  icon: images/Item_3183.png
+- name: Darkened Grimoire of Uzun
+  icon: images/Item_3183.png
+- name: Darkened Grimoire of Pera'Celsis
+  icon: images/Item_3183.png
+- name: Darkened Grimoire of Mash'al
+  icon: images/Item_3183.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Servant of El'Arad]]
+- [[Erudite Glyph Stones: Grimoires]] this item is needed for the collection: [[Erudite Glyph Stones]]

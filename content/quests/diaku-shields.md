@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Wracklands]]'
+pieces:
+- name: Shield of the Warlord
+  icon: images/Item_21.png
+- name: Shield of the Scorcher
+  icon: images/Item_21.png
+- name: Shield of the Behemoth
+  icon: images/Item_21.png
+- name: Shield of the Enforcer
+  icon: images/Item_21.png
+- name: Shield of the Juggernaut
+  icon: images/Item_21.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -25,4 +37,7 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Diaku Accolade of Battle]]
+- [[Shadow Haven Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]

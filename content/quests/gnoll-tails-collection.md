@@ -6,6 +6,17 @@ added_in: Sundered Splitpaw
 aliases:
 - Gnoll Tails
 - 'Tails: Gnoll Tails'
+zone: '[[The Drowned Caverns: Outer Grotto]], [[Sundered Splitpaw: Lower Tunnels]], [[Sundered Splitpaw: Upper Tunnels]]'
+collection_type: Shiny
+pieces:
+- name: torn gnoll tail
+  icon: images/Item_96.png
+- name: mangled gnoll tail
+  icon: images/Item_96.png
+- name: broken gnoll tail
+  icon: images/Item_96.png
+- name: tattered gnoll tail
+  icon: images/Item_96.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- At least 5g 10s

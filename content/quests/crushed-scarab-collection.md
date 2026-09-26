@@ -5,6 +5,18 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Crushed Scarab Collection'
+zone: '[[The Sinking Sands]]'
+pieces:
+- name: crushed black scarab
+  icon: images/Item_1805.png
+- name: crushed blue scarab
+  icon: images/Item_1807.png
+- name: crushed brown scarab
+  icon: images/Item_1808.png
+- name: crushed green scarab
+  icon: images/Item_1806.png
+- name: crushed red scarab
+  icon: images/Item_1809.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +40,10 @@ expansion_source: patch
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
 - Added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Rune Scrawled Scarab Amulet]]
+  - [[Scarab Crested Chestguard]]
+  - [[Dervish glass chest]]

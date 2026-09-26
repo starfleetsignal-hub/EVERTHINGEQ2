@@ -4,6 +4,21 @@ type: quest
 level: '95'
 in_game_name: Declaration of War
 added_in: Tears of Veeshan
+collection_type: Collection items
+pieces:
+- name: Doomwing Weapon Rack
+  icon: images/Item_2284.png
+  note: (Reward from the collection [[Doomwing Armaments]])
+- name: Ravasect Weaponry
+  icon: images/Item_175.png
+  note: (Reward from the collection [[Vornerus Weaponry]])
+- name: Scaleborn Battle Harness
+  page: Scaleborn Battle Harness (Item)
+  icon: images/Item_934.png
+  note: (Reward from the collection [[Scaleborn Battle Harness (Collection)|Scaleborn Battle Harness]])
+- name: Scaleborn Weapon Rack
+  icon: images/Item_651.png
+  note: (Reward from the collection [[Scaleborn Weapons]])
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Declaration of War (Item)|Declaration of War]] this item is needed for the collection: [[The Realm of Sky]]

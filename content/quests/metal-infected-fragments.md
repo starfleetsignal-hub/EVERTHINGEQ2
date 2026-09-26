@@ -4,6 +4,20 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Zimara Breadth]]'
+pieces:
+- name: Metal-Infected Claw
+  icon: images/Item_1676.png
+- name: Metal-Infected Horn
+  icon: images/Item_157.png
+- name: Metal-Infected Tail
+  icon: images/Item_172.png
+- name: Metal-Infected Eyeball
+  icon: images/Item_591.png
+- name: Metal-Infected Feather
+  icon: images/Item_152.png
+- name: Metal-Infected Scale
+  icon: images/Item_184.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Ballads of Zimara Collection Quests
@@ -26,4 +40,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dragon Finger Debris]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[Burnt Aviak Feather]] this item is needed for the collection: [[Feathers From the Aerie]]

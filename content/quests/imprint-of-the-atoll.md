@@ -3,6 +3,20 @@ title: Imprint of the Atoll
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Cerebral Imprint
+  icon: images/Item_4083.png
+  note: no-trade
+- name: Phrenic Imprint
+  icon: images/Item_4083.png
+- name: Subliminal Imprint
+  icon: images/Item_4083.png
+- name: Immaterial Imprint
+  icon: images/Item_4083.png
+- name: Subjective Imprint
+  icon: images/Item_4083.png
+- name: Recondite Imprint
+  icon: images/Item_4083.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +38,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shrewdeye Ritekeeper Plushie]]
+- [[Fragment of Collected Void]]
+- [[Brutal Pliers]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

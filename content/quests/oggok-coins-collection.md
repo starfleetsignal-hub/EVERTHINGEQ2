@@ -6,6 +6,14 @@ added_in: Shattered Lands
 aliases:
 - 'Coin: Oggok Coins'
 - 'Coin: Oggok coins collection'
+zone: '[[The Feerrott]]'
+pieces:
+- name: silver coin of oggok
+  icon: images/Item_1365.png
+- name: platinum coin of oggok
+  icon: images/Item_1367.png
+- name: gold coin of oggok
+  icon: images/Item_1366.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -26,4 +34,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Oggok Scroll]]

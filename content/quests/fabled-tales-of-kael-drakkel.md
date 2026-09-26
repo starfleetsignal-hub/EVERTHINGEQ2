@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Great Divide]]'
+collection_type: Year of Discovery
+pieces:
+- name: Tales of Kael Drakkel Page 1
+  page: Tales of Kael Drakkel Page 1 (Fabled Tales of Kael Drakkel)
+  icon: images/Item_185.png
+- name: Tales of Kael Drakkel Page 2
+  page: Tales of Kael Drakkel Page 2 (Fabled Tales of Kael Drakkel)
+  icon: images/Item_185.png
+- name: Tales of Kael Drakkel Page 3
+  page: Tales of Kael Drakkel Page 3 (Fabled Tales of Kael Drakkel)
+  icon: images/Item_185.png
+- name: Tales of Kael Drakkel Page 4
+  page: Tales of Kael Drakkel Page 4 (Fabled Tales of Kael Drakkel)
+  icon: images/Item_185.png
+- name: Tales of Kael Drakkel Page 5
+  page: Tales of Kael Drakkel Page 5 (Fabled Tales of Kael Drakkel)
+  icon: images/Item_185.png
+- name: Tales of Kael Drakkel Page 6
+  page: Tales of Kael Drakkel Page 6 (Fabled Tales of Kael Drakkel)
+  icon: images/Item_185.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

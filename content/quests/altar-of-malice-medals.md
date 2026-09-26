@@ -4,6 +4,24 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Zavith'loa Medal
+  icon: images/Item_1746.png
+  note: (Reward from the collection [[Mushrooms and Deinodons and Lizards, Oh My!]])
+- name: Ossuary of Malevolence Medal
+  icon: images/Item_1751.png
+  note: (Reward from the collection [[Death, Blood, Death]])
+- name: Ssraeszha Medal
+  icon: images/Item_1745.png
+  note: (Reward from the collection [[Lurking in the Grass]])
+- name: Castle Highhold Medal
+  icon: images/Item_1744.png
+  note: (Reward from the collection [[A Persons House is Their Castle]])
+- name: Brokenskull Bay Medal
+  icon: images/Item_1743.png
+  note: (Reward from the collection [[Shiver Me Timbers (Collection)|Shiver Me Timbers]])
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -28,3 +46,9 @@ expansion_source: patch
 
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 Instead, the five collection members are themselves all obtained from the completion of other collection quests. This is called a "meta-collection".
+
+## Rewards
+
+- [[Ghorkaal Brazier]]
+- 5 [[Far Seas Ferrin]]
+- [[Shattered Seas Medal]] this item is needed for the collection: [[Triumphs of Shattered Seas]]

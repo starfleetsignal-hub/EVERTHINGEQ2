@@ -4,6 +4,24 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Bust of Virtuoso Edgar V'Zann
+  icon: images/Item_2244.png
+  note: (Reward from the collection [[Ossuary Chasuble]])
+- name: Bust of Villandre V'Zher
+  icon: images/Item_2245.png
+  note: (Reward from the collection [[Ossuary Medallions]])
+- name: Bust of Prime Ritualist Darkthrall
+  icon: images/Item_2243.png
+  note: (Reward from the collection [[Ossuary Skulls]])
+- name: Bust of Tserrina Syl'tor
+  icon: images/Item_2245.png
+  note: (Reward from the collection [[Ossuary Statuettes]])
+- name: Bust of Ritual Keeper V'derin
+  icon: images/Item_2244.png
+  note: (Reward from the collection [[Pyxes of the Ossuary]])
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -28,3 +46,9 @@ expansion_source: patch
 
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 Instead, the five collection members are themselves all obtained from the completion of other collection quests. This is called a "meta-collection".
+
+## Rewards
+
+- [[The Master Race]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Bone Carved Bust of Lanys T'Vyl]] this item is needed for the collection: [[Triumphs of Shattered Seas]]

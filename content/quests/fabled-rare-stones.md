@@ -5,6 +5,30 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Barren Sky]]'
+collection_type: Year of Discovery
+pieces:
+- name: brume stone
+  page: Brume stone (Fabled Rare Stones)
+  icon: images/Item_1141.png
+- name: cloud stone
+  page: Cloud stone (Fabled Rare Stones)
+  icon: images/Item_769.png
+- name: dust stone
+  page: Dust stone (Fabled Rare Stones)
+  icon: images/Item_1164.png
+- name: fey stone
+  page: Fey stone (Fabled Rare Stones)
+  icon: images/Item_1170.png
+- name: murk stone
+  page: Murk stone (Fabled Rare Stones)
+  icon: images/Item_1166.png
+- name: sky stone
+  page: Sky stone (Fabled Rare Stones)
+  icon: images/Item_1184.png
+- name: wind stone
+  page: Wind stone (Fabled Rare Stones)
+  icon: images/Item_1186.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +50,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

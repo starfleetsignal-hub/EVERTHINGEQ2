@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Grimling Tribal Headdress
 added_in: Reign of Shadows
+pieces:
+- name: Saliva Treated Owlbear Feathers
+  icon: images/Item_149.png
+- name: Vah Shir Tongue
+  icon: images/Item_139.png
+- name: Heavy Iron Circlet
+  icon: images/Item_3306.png
+- name: Uncut Oval Ruby
+  icon: images/Item_2930.png
+- name: Essentiality of Enmity
+  icon: images/Item_182.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Grimling Tribal Headdress (Armor)|Grimling Tribal Headdress]]
+- [[Grimling Tribal Headdress (Collection Item)|Grimling Tribal Headdress]] this item is needed for the collection: [[Dangers of the Darkside]]

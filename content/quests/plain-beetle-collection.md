@@ -6,6 +6,18 @@ in_game_name: plain beetle collection
 added_in: Shattered Lands
 aliases:
 - 'Beetle: plain beetle collection'
+zone: '[[The Wailing Caves]]'
+pieces:
+- name: plain blue beetle
+  icon: images/Item_1807.png
+- name: plain green beetle
+  icon: images/Item_1806.png
+- name: plain black beetle
+  icon: images/Item_1805.png
+- name: plain yellow beetle
+  icon: images/Item_1808.png
+- name: plain purple beetle
+  icon: images/Item_1809.png
 categories:
 - Beetle (CQ Category)
 - Census Credits
@@ -26,4 +38,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- 58s

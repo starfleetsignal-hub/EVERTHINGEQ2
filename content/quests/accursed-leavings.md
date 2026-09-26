@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: LU106
+zone: '[[Shard of Hate: Udder Contempt (Herd Mode)]], [[Shard of Hate: Utter Contempt (Heroic)]]'
+pieces:
+- name: Accursedly Mouthed Conjuration
+  icon: images/Item_1196.png
+- name: Accursedly Villainous Obscurity
+  icon: images/Item_720.png
+- name: Accursedly Defiled Image
+  icon: images/Item_571.png
+- name: Accursedly Torn Muscle
+  icon: images/Item_111.png
+- name: Accursedly Alleged Apatite
+  icon: images/Item_1197.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Planes of Prophecy
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Eye of Horg]] this item is needed for the collection: [[Fragments of Hate]]
+- [[Eye of Innoruuk (Weapon)|Eye of Innoruuk]]

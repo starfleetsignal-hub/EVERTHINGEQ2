@@ -4,6 +4,27 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Shield of the Tranquil Sea
+  icon: images/Item_1291.png
+  note: (Reward from the collection [[Shields of Tranquil Sea]])
+- name: Bone Carved Bust of Lanys T'Vyl
+  icon: images/Item_2242.png
+  note: (Reward from the collection [[Ossuary Busts]])
+- name: Shattered Seas Medal
+  icon: images/Item_1754.png
+  note: (Reward from the collection [[Altar of Malice Medals]])
+- name: Shield of the Phantom Sea
+  icon: images/Item_1267.png
+  note: (Reward from the collection [[Shields of Phantom Sea]])
+- name: Tales of the Shattered Seas
+  icon: images/Item_715.png
+  note: (Reward from the collection [[Tales of Malice]])
+- name: Silk Stitched Hate's Fury Flag
+  icon: images/Item_611.png
+  note: (Reward from the collection [[Ship Wheels]])
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -29,3 +50,9 @@ expansion_source: patch
 This is the final collection quest at the top of a hierarchy of collection quests covering the whole Altar of Malice expansion.<br>
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 All six of the collection members are obtained from the completion of other collection quests, making this collection a "meta-collection". However, in this case, all of those earlier collection quests are themselves "meta-collections", making this more of a "meta-meta-collection"!
+
+## Rewards
+
+- [[Mithril Ring of Amplified Power]]
+- [[Escaping the Greenmist]]
+- 5 [[Far Seas Ferrin]]

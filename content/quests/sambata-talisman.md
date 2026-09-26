@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast: Maiden''s Eye (Solo)]], [[Aurelian Coast: Reishi Rumble (Solo)]], [[Aurelian Coast: Sambata Village (Solo)]]'
+pieces:
+- name: Talisman of the Firekeeper
+  icon: images/Item_386.png
+- name: Talisman of the Hunter
+  icon: images/Item_388.png
+- name: Talisman of the Shaman
+  icon: images/Item_387.png
+- name: Talisman of the Naturalist
+  icon: images/Item_386.png
+- name: Talisman of the Gargantuan
+  icon: images/Item_387.png
 categories:
 - 'Aurelian Coast: Maiden''s Eye (Solo) Collection Quests'
 - 'Aurelian Coast: Reishi Rumble (Solo) Collection Quests'
@@ -26,4 +38,7 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sambata Talisman of Brute]]
+- [[Seru Badge of Ardent]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]

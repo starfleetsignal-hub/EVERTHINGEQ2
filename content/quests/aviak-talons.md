@@ -5,6 +5,17 @@ level: '65'
 added_in: Kingdom of Sky
 aliases:
 - 'Talons: Aviak Talons'
+zone: '[[The Barren Sky]]'
+collection_type: Shiny
+pieces:
+- name: broken aviak talon
+  icon: images/Item_167.png
+- name: chipped aviak talon
+  icon: images/Item_167.png
+- name: polished aviak talon
+  icon: images/Item_167.png
+- name: worn aviak talon
+  icon: images/Item_167.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A tiny magical stuffed aviak plushie]]

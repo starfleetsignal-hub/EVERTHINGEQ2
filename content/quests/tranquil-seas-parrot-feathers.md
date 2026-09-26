@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Event Heroic)]]'
+pieces:
+- name: Tranquil Green Macaw Feather
+  icon: images/Item_2819.png
+- name: Tranquil Red Macaw Feather
+  icon: images/Item_2819.png
+- name: Tranquil Blue Throated Macaw Feather
+  icon: images/Item_2819.png
+- name: Tranquil Orange Conure Feather
+  icon: images/Item_2819.png
+- name: Tranquil Yellow Cacatoo Feather
+  icon: images/Item_2819.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Nibble's Cracker]] this item is needed for the collection: [[Pirate Belongings]]

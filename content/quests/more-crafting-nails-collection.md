@@ -5,6 +5,25 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: More Crafting Nails
 added_in: LU122
+zone: '[[Takish Badlands]]'
+collection_type: Red
+pieces:
+- name: Trim Nails
+  icon: images/Item_707.png
+- name: Finishing Nails
+  icon: images/Item_707.png
+- name: Brad Nails
+  icon: images/Item_707.png
+- name: Flooring Nails
+  icon: images/Item_707.png
+- name: Tack Nails
+  icon: images/Item_707.png
+- name: Hardboard Nails
+  icon: images/Item_707.png
+- name: Horseshoe Nails
+  icon: images/Item_707.png
+- name: Coffin Nails
+  icon: images/Item_707.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,7 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Nail-Filled Fence]]
+- [[More Crafting Nails (Collection Item)|More Crafting Nails]] this item is needed for the collection: [[A Plethora of Nails]]

@@ -4,6 +4,21 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Yon Gorroth]]'
+collection_type: Shiny
+pieces:
+- name: Darou Power Glyph
+  icon: images/Item_5797.png
+- name: Darou Wisdom Glyph
+  icon: images/Item_5797.png
+- name: Darou Barrier Glyph
+  icon: images/Item_5797.png
+- name: Darou Warrior Glyph
+  icon: images/Item_5797.png
+- name: Darou Insurgence Glyph
+  icon: images/Item_5797.png
+- name: Darou Repelling Glyph
+  icon: images/Item_5797.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Darou Mystic Plushie]]
+- [[Fragment of Collected Void]]
+- [[Mauler Ichor]] this item is needed for the collection: [[Jar of Darkened Ichor (Collection)|Jar of Darkened Ichor]]

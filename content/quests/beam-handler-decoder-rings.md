@@ -3,6 +3,20 @@ title: Beam Handler Decoder Rings
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[Erudin Research Halls]], [[Royal Palace of Erudin]]'
+pieces:
+- name: Handler Ran's Beam Ring
+  icon: images/Item_3445.png
+- name: Handler Polla's Beam Ring
+  icon: images/Item_3446.png
+- name: Handler Val'Kinad's Beam Ring
+  icon: images/Item_3446.png
+- name: Handler Pin'Tannil's Beam Ring
+  icon: images/Item_3446.png
+- name: Handler Alikan's Beam Ring
+  icon: images/Item_3444.png
+- name: Master Handler's Beam Ring
+  icon: images/Item_3443.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A research laboratory stool]]
+- [[Erudite Glyph Stones: Beam]] this item is needed for the collection: [[Erudite Glyph Stones]]

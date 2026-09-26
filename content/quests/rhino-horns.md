@@ -5,6 +5,20 @@ level: '75'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Rhino Horns'
+zone: '[[Fens of Nathsar]]'
+collection_type: Shiny
+pieces:
+- name: An Ancient Rhino Horn
+  icon: images/Item_3184.png
+  note: ''
+- name: A Carved Rhino Horn
+  icon: images/Item_3184.png
+- name: A Cracked Rhino Horn
+  icon: images/Item_3184.png
+- name: A Huge Rhino Horn
+  icon: images/Item_3184.png
+- name: A Small Rhino Horn
+  icon: images/Item_3184.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Band of Horn Dust]]
+  - [[Strength of the Charge]]

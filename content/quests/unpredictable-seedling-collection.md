@@ -5,6 +5,25 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Unpredictable Seedling
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Seeds of Change
+  page: Seeds of Change (Collection Item)
+  icon: images/Item_332.png
+- name: Seed of Overgrowth
+  icon: images/Item_331.png
+- name: Mutated Seed
+  icon: images/Item_335.png
+- name: Seeds of Deviation
+  icon: images/Item_333.png
+  note: no-trade - (Reward from the quest [[Consoling the Souls]])
+- name: Divergent Grain
+  icon: images/Item_335.png
+- name: Seed of Disparity
+  icon: images/Item_330.png
+- name: Altered Seed
+  icon: images/Item_334.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Unpredictable Seedling (Item)|Unpredictable Seedling]] this item is needed for the collection: [[Elements of Augury]]
+- [[Cloak of the Unpredictable Seedling]]

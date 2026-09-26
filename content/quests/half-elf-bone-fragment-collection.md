@@ -6,6 +6,19 @@ in_game_name: half elf bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: half elf bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered half elf bone fragment
+  icon: images/Item_322.png
+- name: cracked half elf bone fragment
+  page: Cracked half elf bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered half elf bone fragment
+  icon: images/Item_322.png
+- name: unscathed half elf bone fragment
+  icon: images/Item_322.png
+- name: enchanted half elf bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Weathered bone fragments collection|Weathered bone fragments]]
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
+
+## Rewards
+
+- [[Petrified Half Elf Eye]]

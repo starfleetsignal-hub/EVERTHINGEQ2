@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Collection items
+pieces:
+- name: Beryl Stone
+  icon: images/Item_2916.png
+  note: (Reward from the collection [[Glory Stones]])
+- name: Molten Dragon Stone
+  icon: images/Item_2934.png
+  note: (Reward from the collection [[Dragon Eyes]])
+- name: Silver Marquise Ring
+  icon: images/Item_2203.png
+  note: (Reward from the collection [[Marquise Madness]])
+- name: Dragon Scale Bracelet
+  icon: images/Item_584.png
+  note: (Reward from the collection [[Dragon Ring]])
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +43,12 @@ expansion_source: patch
 
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 Instead, the six collection members are themselves all obtained from the completion of other collection quests. This is called a "meta-collection".
+
+## Rewards
+
+- [[Small Stack of Draconic Etyma]]
+- [[Stand Alone Bracelet]] this item is needed for the collection: [[Ethereal Explorer]]
+- one of the following:
+  - [[Vesspyr Scout's Red Helm]]
+  - [[Vesspyr Workman's Blue Leggings]]
+  - [[Flametouched Droag Halberd]]

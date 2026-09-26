@@ -3,6 +3,33 @@ title: Absent-minded Adventurers
 type: quest
 level: '100'
 added_in: Terrors of Thalumbra
+zone: '[[Kralet Penumbra: Rise to Power (Advanced Solo)]], [[Kralet Penumbra: Temple of the Ill-Seen (Advanced Solo)]], [[Maldura: Algorithm For Destruction (Advanced Solo)]], [[Maldura: Bar Brawl (Advanced Solo)]], [[Maldura: District of Ash (Advanced Solo)]], [[Stygian Threshold: The Howling Gateway (Advanced Solo)]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: adventurer's lost leggings
+  icon: images/Item_2162.png
+  note: no-trade
+- name: adventurer's dropped trousers
+  icon: images/Item_256.png
+  note: no-trade
+- name: adventurer's neglected knickerbockers
+  icon: images/Item_2741.png
+  note: no-trade
+- name: adventurer's misplaced drawers
+  icon: images/Item_3269.png
+  note: no-trade
+- name: adventurer's abandoned greaves
+  icon: images/Item_2900.png
+  note: no-trade
+- name: adventurer's mislaid pants
+  icon: images/Item_1451.png
+  note: no-trade
+- name: adventurer's discarded breeches
+  icon: images/Item_1737.png
+  note: no-trade
+- name: adventurer's forsaken trews
+  icon: images/Item_1465.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -32,3 +59,15 @@ expansion_source: patch
 ---
 
 Confirmed drops pages 1–3 District of Ash, 4-8 Stygian Solo
+
+## Rewards
+
+- one of the following:
+  - [[Thalumbra Adventurer's Lost Leggings]]
+  - [[Thalumbra Adventurer's Discarded Breeches]]
+  - [[Thalumbra Adventurer's Neglected Knickerbockers]]
+  - [[Thalumbra Adventurer's Mislaid Pants (Cloth)|Thalumbra Adventurer's Mislaid Pants]]
+  - [[Thalumbra Adventurer's Dropped Trousers]]
+  - [[Thalumbra Adventurer's Mislaid Pants (Leather)|Thalumbra Adventurer's Mislaid Pants]]
+  - [[Thalumbra Adventurer's Forsaken Trews]]
+  - [[Thalumbra Adventurer's Abandoned Greaves]]

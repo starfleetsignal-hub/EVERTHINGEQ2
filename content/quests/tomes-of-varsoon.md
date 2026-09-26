@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Ruins of Varsoon]]'
+collection_type: Shiny
+pieces:
+- name: Darkly Pulsing Tome
+  icon: images/Item_2692.png
+- name: Tome of Death
+  page: Tome of Death (Collection Item)
+  icon: images/Item_2694.png
+- name: Enchanted Tome
+  icon: images/Item_2693.png
+- name: Tome of Life
+  page: Tome of Life (Collection Item)
+  icon: images/Item_2691.png
+- name: Curiously Animated Tome
+  icon: images/Item_2690.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Marker of Thimzem]] this item is needed for the collection: [[Markers of Varsoon]]
+- one of the following:
+  - [[Rune Etched Stud of Varsoon]]
+  - [[Bracelet of Lethal Slicing]]

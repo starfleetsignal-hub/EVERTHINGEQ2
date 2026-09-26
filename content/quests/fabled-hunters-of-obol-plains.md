@@ -5,6 +5,33 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Obol Plains]]'
+collection_type: Year of Discovery
+pieces:
+- name: Anura's Herbalist Pouch
+  page: Anura's Herbalist Pouch (Fabled Hunters of Obol Plains)
+  icon: images/Item_10.png
+- name: Dredgeleaf's Petrified Bark
+  page: Dredgeleaf's Petrified Bark (Fabled Hunters of Obol Plains)
+  icon: images/Item_833.png
+- name: Glomer's Poisoned Fang
+  page: Glomer's Poisoned Fang (Fabled Hunters of Obol Plains)
+  icon: images/Item_97.png
+- name: Leukos' Claw Print
+  page: Leukos' Claw Print (Fabled Hunters of Obol Plains)
+  icon: images/Item_3188.png
+- name: Ogrom's Muddied Handwraps
+  page: Ogrom's Muddied Handwraps (Fabled Hunters of Obol Plains)
+  icon: images/Item_207.png
+- name: Razakhem's Broken Staff
+  page: Razakhem's Broken Staff (Fabled Hunters of Obol Plains)
+  icon: images/Item_161.png
+- name: Slizzera's Enchanted Horn
+  page: Slizzera's Enchanted Horn (Fabled Hunters of Obol Plains)
+  icon: images/Item_157.png
+- name: Tiruno's Soul Shard
+  page: Tiruno's Soul Shard (Fabled Hunters of Obol Plains)
+  icon: images/Item_184.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +53,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

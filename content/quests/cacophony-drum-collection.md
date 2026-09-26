@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Cacophony Drum
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Torden, Bastion of Thunder: Storm Chase (Duo)]], [[Torden, Bastion of Thunder: Tower Breach (Solo)]], [[Torden, Bastion of Thunder: Winds of Change (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Thunderclap Drums
+  icon: images/Item_367.png
+- name: Ruckus Drum
+  icon: images/Item_367.png
+- name: Discord Drum
+  icon: images/Item_367.png
+- name: Uproar Drum
+  icon: images/Item_367.png
+- name: Bellowing Drum
+  icon: images/Item_367.png
+- name: Howling Drum
+  icon: images/Item_367.png
+- name: Booming Drum
+  icon: images/Item_367.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -29,4 +46,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Cacophony Drum (Item)|Cacophony Drum]] this item is needed for the collection: [[Planar Storm Flux (Collection)|Planar Storm Flux]]
+- [[Cacophony Drummer's Earring]]

@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+collection_type: Fishing
+pieces:
+- name: Octopus Brain
+  icon: images/Item_134.png
+- name: Octopus Tentacles
+  icon: images/Item_382.png
+- name: Octopus Beak
+  icon: images/Item_82.png
+- name: Octopus Eyeball
+  icon: images/Item_2226.png
+- name: Octopus Intestine
+  icon: images/Item_1912.png
+- name: Octopus Steak
+  icon: images/Item_3405.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +41,8 @@ expansion_source: patch
 ---
 
 The pieces of this collection are obtained by fishing in [[Thalumbra, the Ever Deep|Thalumbra]].
+
+## Rewards
+
+- [[Luminous Octopus Plushie]]
+- [[Octopus Samples]] this item is needed for the collection: [[Samples of the Silent Deep]]

@@ -6,6 +6,18 @@ added_in: Desert of Flames
 aliases:
 - Cobra Scales
 - 'Scales: Cobra Scales'
+zone: '[[The Sinking Sands]]'
+pieces:
+- name: broken cobra scale
+  icon: images/Item_2007.png
+- name: decaying cobra scale
+  icon: images/Item_2007.png
+- name: pristine cobra scale
+  icon: images/Item_2007.png
+- name: shining cobra scale
+  icon: images/Item_2007.png
+- name: tarnished cobra scale
+  icon: images/Item_2007.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Band of the Hooded King]]
+  - [[Serpentine Rod]]

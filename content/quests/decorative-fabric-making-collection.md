@@ -5,6 +5,20 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Decorative Fabric Making
 added_in: Visions of Vetrovia
+zone: '[[Svarni Expanse]]'
+pieces:
+- name: Hot Wax
+  icon: images/Item_2842.png
+- name: Wax-Filled Pen
+  icon: images/Item_2819.png
+- name: Copper Printing Blocks
+  icon: images/Item_1747.png
+- name: Dyeing Pools
+  icon: images/Item_2356.png
+- name: Finely Woven Fabric
+  icon: images/Item_1096.png
+- name: Wax-Resistant Dyes
+  icon: images/Item_3483.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Decorative Fabric Making (Item)|Decorative Fabric Making]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]
+- one of the following:
+  - [[Found Mystical Mantle]]
+  - [[Found Mystical Sleeves]]
+  - [[Found Mystical Shroud]]
+  - [[Found Mystical Pauldrons]]

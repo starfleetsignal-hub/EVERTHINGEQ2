@@ -4,6 +4,24 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Pebbles
+  page: Pebbles (Collection Item)
+  icon: images/Item_1138.png
+- name: Lime Rock
+  icon: images/Item_1125.png
+- name: Quartz Rock
+  icon: images/Item_1128.png
+- name: Komatiite
+  icon: images/Item_1130.png
+- name: Obsidian Rock
+  icon: images/Item_1160.png
+- name: Monzonite
+  icon: images/Item_1133.png
+- name: Rhyolite
+  icon: images/Item_1171.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Petrified Rock]] this item is needed for the collection: [[Petrified Pieces]]
+- one of the following:
+  - [[Vesspyr Warrior's Iron Sabatons]]
+  - [[Vesspyr Warrior's Bronze Pauldrons]]

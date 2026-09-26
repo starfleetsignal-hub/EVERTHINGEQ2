@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Phantom Sea]]'
+collection_type: Shiny
+pieces:
+- name: Painted Fern
+  icon: images/Item_2827.png
+- name: Maiden's Hair Fern
+  icon: images/Item_2826.png
+- name: Nest Fern
+  icon: images/Item_2825.png
+- name: Cinnamon Fern
+  icon: images/Item_2823.png
+- name: Shale Tree Fern
+  icon: images/Item_2823.png
+- name: Holly Fern
+  icon: images/Item_2824.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,3 +42,9 @@ expansion_source: patch
 ---
 
 Note that all these collection items are found on the *[[Grim Shales]]* island.
+
+## Rewards
+
+- [[Leafy Vernal Shrub]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Gazanti]] this item is needed for the collection: [[Shields of Phantom Sea]]

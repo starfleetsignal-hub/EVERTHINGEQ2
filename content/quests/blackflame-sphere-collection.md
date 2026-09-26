@@ -5,6 +5,19 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Blackflame Sphere
 added_in: Chaos Descending
+zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
+collection_type: Cdf
+pieces:
+- name: Doomfire Curse
+  icon: images/Item_185.png
+- name: Hymn of Mana
+  icon: images/Item_75.png
+- name: Stamp of Fire
+  icon: images/Item_1743.png
+- name: Ink of Burning
+  icon: images/Item_3049.png
+- name: Signet of Wisdom
+  icon: images/Item_1372.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +38,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Blackflame Sphere (Collection Item)|Blackflame Sphere]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]
+- [[Blackflame Sphere (Symbol)|Blackflame Sphere]]

@@ -3,6 +3,21 @@ title: Collected Tavalan Novelties
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Siren''s Grotto: Tavalan Abyss (Heroic)]]'
+collection_type: Collection items
+pieces:
+- name: Collected Ulthork Tusks
+  icon: images/Item_654.png
+  note: (Reward from the collection [[Ulthork Tusks (Collection)|Ulthork Tusks]])
+- name: Collected Leadership Tokens
+  icon: images/Item_654.png
+  note: (Reward from the collection [[Denizens of the Grotto]])
+- name: Collected Grotto Songs
+  icon: images/Item_654.png
+  note: (Reward from the collection [[Songs of the Grotto]])
+- name: Collected Neriad Items
+  icon: images/Item_654.png
+  note: (Reward from the collection [[Neriad Novelties]])
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +42,12 @@ expansion_source: patch
 
 - The members of this collection are rewards from several other collections from the [[Siren's Grotto: Tavalan Abyss (Heroic)]].
 - The Tavalan Gem item is part of the [[Tides of War]] collection quest.
+
+## Rewards
+
+- [[Tavalan Gem]] this item is needed for the collection: [[Tides of War]]
+- one of the following:
+  - [[Manacle of Tavalan Mysteries]]
+  - [[Bangle of Tavalan Mysteries]]
+  - [[Bracelet of Tavalan Mysteries]]
+  - [[Armlet of Tavalan Mysteries]]

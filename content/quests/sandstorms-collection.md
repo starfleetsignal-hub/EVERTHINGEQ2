@@ -5,6 +5,20 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Sandstorms
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus]]'
+pieces:
+- name: Duststorm
+  icon: images/Item_5205.png
+- name: Habub
+  icon: images/Item_5205.png
+- name: Harmattan
+  icon: images/Item_5205.png
+- name: Samiel
+  icon: images/Item_5205.png
+- name: Simoom
+  icon: images/Item_5205.png
+- name: Sirocco
+  icon: images/Item_5205.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Expedient Custodian Third Accolade]]
+- [[Sandstorms (Collection Item)|Sandstorms]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

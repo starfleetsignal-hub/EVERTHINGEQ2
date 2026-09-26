@@ -3,6 +3,17 @@ title: Drednever Relics
 type: quest
 level: '95'
 added_in: Tears of Veeshan
+zone: '[[Fabled Den of the Devourer]]'
+collection_type: Shiny
+pieces:
+- name: Digested Drednever Badge
+  icon: images/Item_16.png
+- name: Drednever Expedition Map
+  icon: images/Item_3165.png
+- name: Drednever Uniform Fragment
+  icon: images/Item_244.png
+- name: Scorched Left Boot
+  icon: images/Item_269.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Drednever Medallion]] this item is needed for the collection: [[Fallen Foes]]

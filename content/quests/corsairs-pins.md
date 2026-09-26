@@ -4,6 +4,23 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
+pieces:
+- name: Corsair Pin of Blood Spilling
+  icon: images/Item_968.png
+  note: Harvestable & chest drop
+- name: Corsair Pin of Brawling
+  icon: images/Item_968.png
+  note: Harvestable & chest drop
+- name: Corsair Pin of Trickery
+  icon: images/Item_969.png
+  note: Harvestable & chest drop
+- name: Corsair Pin of Stealing
+  icon: images/Item_970.png
+  note: Harvestable & chest drop
+- name: Corsair Pin of Backstabbing
+  icon: images/Item_969.png
+  note: Harvestable & chest drop
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +40,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[The Red Corsair's Hat]] this item is needed for the collection: [[Pirate Belongings]]

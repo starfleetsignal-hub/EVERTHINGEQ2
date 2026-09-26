@@ -2,6 +2,20 @@
 title: Mudpaw Relics
 type: quest
 level: '130'
+pieces:
+- name: Mudpaw Cruddy Relic
+  icon: images/Item_4696.png
+- name: Mudpaw Slimy Remnant
+  icon: images/Item_5737.png
+- name: Mudpaw Stained Keepsake
+  icon: images/Item_5748.png
+- name: Mudpaw Greasy Memento
+  icon: images/Item_5796.png
+- name: Mudpaw Begrimed Fragment
+  icon: images/Item_4430.png
+- name: Mudpaw Defiled Curio
+  icon: images/Item_5750.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +33,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Copper Rose Zimaran Pillow]]

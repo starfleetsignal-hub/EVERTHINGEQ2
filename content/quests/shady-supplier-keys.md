@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic II)]]'
+pieces:
+- name: Crooked Countersign
+  icon: images/Item_75.png
+- name: Padded Pass Phrase
+  icon: images/Item_75.png
+- name: Shady Signal
+  icon: images/Item_75.png
+- name: Knavish Key-Word
+  icon: images/Item_75.png
+- name: Two-Faced Ticket
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Warewolf Saddle of Ability]]
+- [[Bogus Bazaar Crown]] this item is needed for the collection: [[Counterfeit Coins]]

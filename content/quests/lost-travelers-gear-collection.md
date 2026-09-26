@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Lost Travelers' Gear
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+pieces:
+- name: Torn Scrap of Mage's Robe
+  icon: images/Item_237.png
+- name: Single Discarded Sock
+  icon: images/Item_105.png
+- name: Cepholex-Chewed Shield
+  icon: images/Item_18.png
+- name: Dropped Leather Gauntlet
+  icon: images/Item_87.png
+- name: Lost Traveler's Compass
+  icon: images/Item_3137.png
+- name: Misplaced Leather Boot
+  icon: images/Item_227.png
 categories:
 - Census Credits
 - Collection Quests
@@ -34,3 +48,8 @@ Possible locations:
 - {{waypoint -78.20, 83.39, -229.92}}
 - {{waypoint 2.81, 64.68, -157.62}}
 - {{waypoint -71.63, 74.00, -199.45}}
+
+## Rewards
+
+- [[Sullied Banner of Thalumbra]] for the [[Banners of Thalumbra]] collection
+- [[Discarded Sock]]

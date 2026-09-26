@@ -3,6 +3,25 @@ title: Sleeper's Tomb Legacy
 type: quest
 level: '92'
 added_in: LU64
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Primal Black Dragon Talisman
+  page: Primal Black Dragon Talisman (Item)
+  icon: images/Item_3455.png
+  note: (Reward from the collection [[Sleeper's Tomb Weapons]])
+- name: Primal Gold Dragon Talisman
+  page: Primal Gold Dragon Talisman (Item)
+  icon: images/Item_3454.png
+  note: (Reward from the collection [[Sleeper's Tomb Trinkets]])
+- name: Primal Silver Dragon Talisman
+  page: Primal Silver Dragon Talisman (Item)
+  icon: images/Item_3447.png
+  note: (Reward from the collection [[Sleeper's Tomb Hoard (Collection)|Sleeper's Tomb Hoard]])
+- name: Primal Storm Dragon Talisman
+  page: Primal Storm Dragon Talisman (Item)
+  icon: images/Item_3453.png
+  note: (Reward from the collection [[Sleeper's Tomb Essence]])
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +42,10 @@ expansion: Age of Discovery
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Primal Gold Dragon Talisman (Armor)|Primal Gold Dragon Talisman]]
+  - [[Primal Silver Dragon Talisman (Armor)|Primal Silver Dragon Talisman]]
+  - [[Primal Storm Dragon Talisman (Armor)|Primal Storm Dragon Talisman]]
+  - [[Primal Black Dragon Talisman (Armor)|Primal Black Dragon Talisman]]

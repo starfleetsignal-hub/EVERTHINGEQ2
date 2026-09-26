@@ -4,6 +4,29 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+collection_type: Corpse
+pieces:
+- name: Ancient Steamfont Mountains Map
+  icon: images/Item_3165.png
+  note: (Reward from the collection [[Eidolons of Steamfont Mountains]])
+- name: Ancient Butcherblock Mountains Map
+  icon: images/Item_3165.png
+  note: (Reward from the collection [[Eidolons of Butcherblock Mountains]])
+- name: Ancient Lesser Faydark Map
+  icon: images/Item_3165.png
+  note: (Reward from the collection [[King Klak'Anon Scepters]])
+- name: Ancient Greater Faydark Map
+  icon: images/Item_3165.png
+  note: (Reward from the collection [[Echoes of Faydwer (Collection)|Echoes of Faydwer]])
+- name: Ancient Loping Plains Map
+  icon: images/Item_3165.png
+  note: (Reward from the collection [[Freethinker Documents]])
+- name: Ancient Faydwer Continent Map
+  icon: images/Item_3165.png
+  note: no-trade - (Chest drop from Fabled EoF zone final nameds)
+- name: Ancient Mistmoore Catacombs Map
+  icon: images/Item_3165.png
+  note: (Reward from the collection [[Marrow]])
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +50,8 @@ This is the final collection quest at the top of a hierarchy of collection quest
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 Six of the collection members are obtained from the completion of other collection quests, making this collection a "meta-collection". However, in this case, three of those earlier collection quests are themselves "meta-collections", making this more of a "meta-meta-collection"!<br>
 Note that the sixth collection member listed above (Ancient Faydwer Continent Map) is obtained via a chest drop from the Master Clockwork Protocol in the Fabled Court of Innovation heroic zone. It has been reported that this is also a very rare chest drop in the AS zones. Note that this item is NO TRADE.
+
+## Rewards
+
+- [[Torque of Ancient Faydwer]]
+- 3x [[Far Seas Ferrin]]

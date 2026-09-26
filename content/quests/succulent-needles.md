@@ -5,6 +5,18 @@ level: '80'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Succulent Needles'
+zone: '[[Jarsath Wastes]]'
+collection_type: Shiny
+pieces:
+- name: Broken Succulent Needles
+  icon: images/Item_3173.png
+- name: Dull Succulent Needles
+  icon: images/Item_3173.png
+- name: Poisoned Succulent Needles
+  icon: images/Item_3173.png
+  note: ''
+- name: Sharp Succulent Needles
+  icon: images/Item_3173.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Spiny Needle Band]]
+  - [[Spiny Nettle Band]]

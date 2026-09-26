@@ -5,6 +5,19 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Earring of Living Earth
 added_in: Chaos Descending
+zone: '[[Vegarlson: Council''s Stronghold (Solo)]], [[Vegarlson: Ruins of Rathe (Solo)]], [[Vegarlson: The Terrene Rift (Solo)]]'
+collection_type: Cde
+pieces:
+- name: Vegarlson Stud
+  icon: images/Item_372.png
+- name: Hymn of Life
+  icon: images/Item_75.png
+- name: Stamp of Soil
+  icon: images/Item_1791.png
+- name: Ink of Regeneration
+  icon: images/Item_3056.png
+- name: Signet of Endurance
+  icon: images/Item_1365.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -27,4 +40,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Earring of Living Earth (Ear)|Earring of Living Earth]]
+- [[Earring of Living Earth (Collection Item)|Earring of Living Earth]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]

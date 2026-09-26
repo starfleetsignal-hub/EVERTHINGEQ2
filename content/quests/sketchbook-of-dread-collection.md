@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Sketchbook of Dread
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Thaumaturge Sketches
+  icon: images/Item_75.png
+- name: Combustion Sketch
+  icon: images/Item_75.png
+- name: Rejuvenation Sketch
+  icon: images/Item_75.png
+- name: Aetherial Sketch
+  icon: images/Item_75.png
+  note: no-trade - (Reward from the quest [[Unusual Suspect]])
+- name: Cold Haze Sketch
+  icon: images/Item_75.png
+- name: Thundrous Well Sketch
+  icon: images/Item_75.png
+- name: Noxious Cloud Sketch
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sketchbook of Dread (Item)|Sketchbook of Dread]] this item is needed for the collection: [[Elements of Augury]]
+- [[Wristlet of the Dreadful Sketchbook]]

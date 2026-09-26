@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Event Heroic)]]'
+pieces:
+- name: Phantom Scarlet Macaw Feather
+  icon: images/Item_2111.png
+- name: Phantom Grey Macaw Feather
+  icon: images/Item_2106.png
+- name: Phantom Black Cocatoo Feather
+  icon: images/Item_2109.png
+- name: Phantom Blue Macaw Feather
+  icon: images/Item_2106.png
+- name: Phantom Sun Conure Feather
+  icon: images/Item_2110.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Mr. Bilge's Cheese]] this item is needed for the collection: [[Pirate Belongings]]

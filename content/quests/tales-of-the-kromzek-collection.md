@@ -4,6 +4,18 @@ type: quest
 level: '90'
 in_game_name: Tales of the Kromzek
 added_in: Destiny of Velious
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Tales of the Kromzek Page 1
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Iceshard Keep Soldier Symbols]])
+- name: Tales of the Kromzek Page 2
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Throne of Storms Oathstones]])
+- name: Tales of the Kromzek Page 3
+  icon: images/Item_185.png
+  note: (Reward from the collection [[Temple of Rallos Zek Holy Symbols]])
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +38,11 @@ expansion_source: patch
 
 - The members of this collection are rewards from several other collections from the Kael Drakkel instances:
 - The reward of this collection is needed for the collection [[The Chronicles of Velious]]
+
+## Rewards
+
+- [[Kael Investigator's Badge: Resilience]]
+- [[Kael Investigator's Badge: Power]]
+- [[Kael Investigator's Badge: Renewal]]
+- [[Kael Investigator's Badge: Subtlety]]
+- [[Tales of the Kromzek (Item)|Tales of the Kromzek]] this item is needed for the collection: [[The Chronicles of Velious]]

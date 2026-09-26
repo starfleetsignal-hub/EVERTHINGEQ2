@@ -4,6 +4,23 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[High Keep: The Pickclaw Depths (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Citrine Geode
+  icon: images/Item_3821.png
+- name: Garnet Geode
+  icon: images/Item_3822.png
+- name: Quartz Geode
+  icon: images/Item_3823.png
+- name: Topaz Geode
+  icon: images/Item_3824.png
+- name: Amethyst Geode
+  icon: images/Item_3825.png
+- name: Lapis Shard
+  icon: images/Item_3771.png
+- name: Tourmaline Shard
+  icon: images/Item_3775.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +43,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Miner's Diamond]] this item is needed for the collection: [[Ground Treasures]]
+- one of the following:
+  - [[Vesspyr Scout's Steel Boots]]
+  - [[Vesspyr Scout's Steel Gauntlets]]

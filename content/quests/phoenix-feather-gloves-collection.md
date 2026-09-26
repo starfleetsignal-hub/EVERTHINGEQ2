@@ -5,6 +5,19 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Phoenix Feather Gloves
 added_in: Chaos Descending
+zone: '[[Eryslai: The Bixel Hive (Heroic)]], [[Eryslai: The Bixel Hive (Expert)]], [[Eryslai: The Midnight Aerie (Heroic)]], [[Eryslai: The Midnight Aerie (Expert)]], [[Eryslai: Trials of Air (Event Heroic)]], [[Eryslai: Trials of Air (Expert Event)]]'
+collection_type: Blue
+pieces:
+- name: Eryslai Gloves
+  icon: images/Item_207.png
+- name: Mark of Xegony
+  icon: images/Item_3817.png
+- name: Charm of Preservation
+  icon: images/Item_2515.png
+- name: Element of Health
+  icon: images/Item_3776.png
+- name: Insignia of Kingdoms
+  icon: images/Item_607.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -30,4 +43,11 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Phoenix Feather Gloves (Collection Item)|Phoenix Feather Gloves]] this item is needed for the collection: [[Chestguard of Enchanted Marble (Collection)|Chestguard of Enchanted Marble]]
+- one of the following:
+  - [[Linked Phoenix Feather Gloves]]
+  - [[Phoenix Feather Gloves (Item)|Phoenix Feather Gloves]]
+  - [[Leather Phoenix Feather Gloves]]
+  - [[Plated Phoenix Feather Gloves]]

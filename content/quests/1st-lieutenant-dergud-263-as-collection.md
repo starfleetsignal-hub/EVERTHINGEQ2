@@ -4,6 +4,25 @@ type: quest
 level: '40'
 in_game_name: 1st Lieutenant Dergud, 263 AS
 added_in: Shattered Lands
+zone: '[[The Feerrott]]'
+collection_type: Pages
+pieces:
+- name: 1st Lieutenant Dergud, 263 AS - Page 1
+  icon: images/Item_2180.png
+- name: 1st Lieutenant Dergud, 263 AS - Page 2
+  icon: images/Item_2180.png
+- name: 1st Lieutenant Dergud, 263 AS - Page 3
+  icon: images/Item_2180.png
+  note: Clickable orchid at {{waypoint -1315, 23, 789}}
+- name: 1st Lieutenant Dergud, 263 AS - Page 9
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
+- name: 1st Lieutenant Dergud, 263 AS - Page 11
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop, [[An Evol conscript]]
+- name: 1st Lieutenant Dergud, 263 AS - Page 12
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop, [[An Evol Ew warder]]
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[1st Lieutenant Dergud, 263 AS (CollectionReward)|1st Lieutenant Dergud, 263 AS]]

@@ -4,6 +4,21 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+collection_type: Shiny
+pieces:
+- name: Aspect of Terror
+  icon: images/Item_4085.png
+- name: Aspect of Lust
+  icon: images/Item_4085.png
+- name: Aspect of Fright
+  icon: images/Item_4085.png
+- name: Aspect of Claws
+  icon: images/Item_4085.png
+- name: Aspect of Enticement
+  icon: images/Item_4085.png
+  note: no-trade
+- name: Aspect of Claret
+  icon: images/Item_4085.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +44,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Void-touched Shoulderguards]]
+- [[Fragment of Collected Void]]
+- [[Backpack of Untold Riches]] this item is needed for the collection: [[Untold Riches (Collection)|Untold Riches]]

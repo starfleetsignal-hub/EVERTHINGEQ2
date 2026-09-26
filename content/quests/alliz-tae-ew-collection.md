@@ -4,6 +4,25 @@ type: quest
 level: '40'
 in_game_name: Alliz Tae Ew
 added_in: Shattered Lands
+zone: '[[The Feerrott]]'
+collection_type: Pages
+pieces:
+- name: Alliz Tae Ew - Page 4
+  icon: images/Item_2180.png
+- name: Alliz Tae Ew - Page 5
+  icon: images/Item_2180.png
+  note: Corpse drop from Fetid Rallosian Allegiants/Evol Ew Underhand
+- name: Alliz Tae Ew - Page 6
+  icon: images/Item_2180.png
+  note: Harvestable and corpse drop from Fetid Rallosian Allegiants
+- name: Alliz Tae Ew - Page 8
+  icon: images/Item_2180.png
+- name: Alliz Tae Ew - Page 9
+  icon: images/Item_2180.png
+  note: Clickable pole at the entrance to the spires at {{waypoint -147, 8, 105}}
+- name: Alliz Tae Ew - Page 12
+  icon: images/Item_2180.png
+  note: Corpse drop from Fetid Rallosian Allegiants
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Alliz Tae Ew (CollectionReward)|Alliz Tae Ew]]

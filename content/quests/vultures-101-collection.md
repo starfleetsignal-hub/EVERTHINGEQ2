@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Vultures 101
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus: The Sultan''s Dagger (Heroic I)]], [[Raj''Dur Plateaus: Blood and Sand (Heroic I)]]'
+pieces:
+- name: Bare Head
+  icon: images/Item_2694.png
+- name: Capacious Crop
+  icon: images/Item_2694.png
+- name: Carrion Feeder
+  icon: images/Item_2694.png
+- name: Large Wingspan
+  icon: images/Item_2694.png
+- name: Strong Beak
+  icon: images/Item_2694.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,9 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vultures 101 (Collection Item)|Vultures 101]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]
+- one of the following:
+  - [[Antiquated Band of the Fury]]
+  - [[Antiquated Band of the Resolute]]

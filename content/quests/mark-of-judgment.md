@@ -4,6 +4,28 @@ type: quest
 level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 added_in: Reign of Shadows
+collection_type: Collection items
+pieces:
+- name: Mark of Shadows
+  page: Mark of Shadows (Item)
+  icon: images/Item_2713.png
+  note: (Reward from the collection [[Mark of Shadows (Collection)|Mark of Shadows]])
+- name: Mark of Dreams
+  page: Mark of Dreams (Item)
+  icon: images/Item_2710.png
+  note: (Reward from the collection [[Mark of Dreams (Collection)|Mark of Dreams]])
+- name: Mark of Secrets
+  page: Mark of Secrets (Item)
+  icon: images/Item_2710.png
+  note: (Reward from the collection [[Mark of Secrets (Collection)|Mark of Secrets]])
+- name: Mark of Eradication
+  page: Mark of Eradication (Item)
+  icon: images/Item_2711.png
+  note: (Reward from the collection [[Mark of Eradication (Collection)|Mark of Eradication]])
+- name: Mark of Retaliation
+  page: Mark of Retaliation (Item)
+  icon: images/Item_2712.png
+  note: (Reward from the collection [[Mark of Retaliation (Collection)|Mark of Retaliation]])
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +47,6 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Torque of Aten Ha Ra's Judgment]]

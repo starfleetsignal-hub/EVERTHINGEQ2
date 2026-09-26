@@ -5,6 +5,29 @@ level: '20'
 added_in: LU53
 events:
 - Heroes' Festival
+zone: '[[Qeynos Capitol District]], [[The City of Freeport]]'
+collection_type: Purple
+pieces:
+- name: Sigil of The Fell Blade
+  icon: images/Item_2994.png
+- name: Carved Queen Martah Figurine
+  icon: images/Item_2240.png
+- name: Frozen Mirror Shard
+  icon: images/Item_5935.png
+- name: Scarred Wurm Scale
+  icon: images/Item_2814.png
+- name: Ichor-Veined Tusk
+  icon: images/Item_5729.png
+- name: Alivan Promissory Note
+  icon: images/Item_5939.png
+- name: Polished Fearcreep Agate
+  icon: images/Item_2937.png
+- name: Silver Lujien Coin
+  icon: images/Item_4939.png
+- name: Falinpol Icon
+  icon: images/Item_2782.png
+- name: Broken Aerakyn Horn
+  icon: images/Item_5728.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +50,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Totem of the Faceless]]

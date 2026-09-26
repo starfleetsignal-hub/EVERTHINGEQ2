@@ -4,6 +4,25 @@ type: quest
 level: '35'
 in_game_name: Rise of the Orcs - The Ascension
 added_in: Shattered Lands
+zone: '[[Zek, the Orcish Wastes]]'
+collection_type: Pages
+pieces:
+- name: Rise of the Orcs - The Ascension - Page 1
+  icon: images/Item_2180.png
+  note: Harvestable pages only
+- name: Rise of the Orcs - The Ascension - Page 3
+  icon: images/Item_2180.png
+- name: Rise of the Orcs - The Ascension - Page 4
+  icon: images/Item_2180.png
+  note: Clickable bellows next to lamp on the bottom level of the mine at {{waypoint 387, -119, -153}}
+- name: Rise of the Orcs - The Ascension - Page 8
+  icon: images/Item_2180.png
+  note: Harvestable pages only
+- name: Rise of the Orcs - The Ascension - Page 9
+  icon: images/Item_2180.png
+  note: Clickable bed in dormitory on the upper level of the mine at {{waypoint 251, -24, -147}}
+- name: Rise of the Orcs - The Ascension - Page 12
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Rise of the Orcs - The Ascension (CollectionReward)|Rise of the Orcs - The Ascension]]

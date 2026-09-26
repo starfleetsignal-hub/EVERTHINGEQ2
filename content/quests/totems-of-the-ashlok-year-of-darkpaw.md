@@ -6,6 +6,30 @@ in_game_name: Totems of the Ashlok
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Obol Plains]]'
+collection_type: Year of Discovery
+pieces:
+- name: Ashlok Totem of Disease
+  page: Ashlok Totem of Disease (Totems of the Ashlok YoD)
+  icon: images/Item_372.png
+- name: Ashlok Totem of Earthbending
+  page: Ashlok Totem of Earthbending (Totems of the Ashlok YoD)
+  icon: images/Item_860.png
+- name: Ashlok Totem of Healing
+  page: Ashlok Totem of Healing (Totems of the Ashlok YoD)
+  icon: images/Item_862.png
+- name: Ashlok Totem of Protection
+  page: Ashlok Totem of Protection (Totems of the Ashlok YoD)
+  icon: images/Item_1209.png
+- name: Ashlok Totem of Rage
+  page: Ashlok Totem of Rage (Totems of the Ashlok YoD)
+  icon: images/Item_2499.png
+- name: Ashlok Totem of Savagery
+  page: Ashlok Totem of Savagery (Totems of the Ashlok YoD)
+  icon: images/Item_2686.png
+- name: Ashlok Totem of Warning
+  page: Ashlok Totem of Warning (Totems of the Ashlok YoD)
+  icon: images/Item_142.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -27,4 +51,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

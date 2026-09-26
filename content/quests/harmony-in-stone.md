@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Collection items
+pieces:
+- name: Snake Tail
+  icon: images/Item_99.png
+  note: (Reward from the collection [[Chittins Chillin']])
+- name: Red Ruby
+  icon: images/Item_3835.png
+  note: (Reward from the collection [[Crystallized Imbalance]])
+- name: Shard of the Elements
+  icon: images/Item_3833.png
+  note: (Reward from the collection [[Elemental Shards]])
+- name: Spider Poison
+  icon: images/Item_327.png
+  note: (Reward from the collection [[Webs We Weave]])
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +43,9 @@ expansion_source: patch
 
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 Instead, the collection members are themselves all obtained from the completion of other collection quests. This is called a "meta-collection".<br>
+
+## Rewards
+
+- [[Small Stack of Draconic Etyma]]
+- [[Amber Necklace]] this item is needed for the collection: [[Ring Around the Neck]]
+- [[Vesspyr Workman's Green Sleeves]]

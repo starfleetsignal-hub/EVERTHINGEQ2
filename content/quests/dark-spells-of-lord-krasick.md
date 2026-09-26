@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Krasick's Deadly Reflection
+  icon: images/Item_717.png
+- name: Krasick's Terrible Gaze
+  icon: images/Item_718.png
+  note: no-trade
+- name: Krasick's Shard of Putrescence
+  icon: images/Item_718.png
+- name: Krasick's Guktan Cloud
+  icon: images/Item_717.png
+- name: Krasick's Diseased Barbs
+  icon: images/Item_716.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Deathbone]] this item is needed for the collection: [[Inhabitants of Guk]]

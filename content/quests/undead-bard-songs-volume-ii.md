@@ -3,6 +3,17 @@ title: Undead Bard Songs, Volume II
 type: quest
 level: '125'
 added_in: Update 2022.08.09
+pieces:
+- name: Rend Your Bones
+  icon: images/Item_75.png
+- name: Such Tales to Tell
+  icon: images/Item_75.png
+- name: Call in the Band
+  icon: images/Item_75.png
+- name: Lovely Melodies of Death
+  icon: images/Item_75.png
+- name: Deter Your Intrusion
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +32,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Scornridden Long Bow]] this item is needed for the collection: [[Scornridden Weapons]]

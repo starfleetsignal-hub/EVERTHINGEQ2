@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: Lost Dwarven Caravan
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+pieces:
+- name: Dwarven Travel Provisions
+  icon: images/Item_300.png
+- name: Dwarven Trade Journal
+  icon: images/Item_718.png
+- name: Dwarven Caravan Wheel
+  icon: images/Item_2279.png
+- name: Dwarven Route Map
+  icon: images/Item_3163.png
+- name: Dwarven Trade Goods
+  icon: images/Item_2695.png
+- name: Dwarven Guard Helm
+  icon: images/Item_1569.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,12 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Scuffed Dhalgar Backpack]]
+- one of the following:
+  - [[Dwarven Knuckleduster]]
+  - [[Aphotic Etched Sword]]
+  - [[Intrusive Etched Blocker]]
+  - [[Aphotic Etched Blocker]]
+  - [[Aphotic Etched Symbol]]

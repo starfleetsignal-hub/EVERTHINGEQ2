@@ -6,6 +6,18 @@ in_game_name: feather collection
 added_in: Shattered Lands
 aliases:
 - 'Feather: feather collection'
+zone: '[[Oakmyst Forest]], [[Outpost of the Overlord]], [[Queen''s Colony]], [[The Sprawl]]'
+pieces:
+- name: duck feather
+  icon: images/Item_147.png
+- name: eagle feather
+  icon: images/Item_154.png
+- name: falcon feather
+  icon: images/Item_156.png
+- name: sparrow feather
+  icon: images/Item_148.png
+- name: hawk feather
+  icon: images/Item_150.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +41,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Collected Feather Necklace]]

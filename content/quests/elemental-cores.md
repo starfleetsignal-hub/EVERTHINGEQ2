@@ -3,6 +3,20 @@ title: Elemental Cores
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[Demitrik''s Bastion]], [[The Outer Vault]], [[Spirit''s Resonance]]'
+pieces:
+- name: earth elemental core
+  icon: images/Item_1140.png
+- name: air elemental core
+  icon: images/Item_1148.png
+- name: water elemental core
+  icon: images/Item_1190.png
+- name: fire elemental core
+  icon: images/Item_1191.png
+- name: wind elemental core
+  icon: images/Item_1174.png
+- name: lightning elemental core
+  icon: images/Item_1197.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Chestguard of the Elemental Pummeler]]
+- [[Kaborite Geodes: Elemental]] this item is needed for the collection: [[The Deep and Dark Places: Geodes]]

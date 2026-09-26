@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic I)]]'
+pieces:
+- name: Glintswift Tender
+  icon: images/Item_1348.png
+- name: Glintswift Silver
+  icon: images/Item_1350.png
+- name: Glintswift Currency
+  icon: images/Item_1349.png
+- name: Glintswift Cash
+  icon: images/Item_1351.png
+- name: Glintswift Gold
+  icon: images/Item_1349.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Glintswift Reins of Striding]]
+- [[Imitation Draconic Etyma]] this item is needed for the collection: [[Counterfeit Coins]]

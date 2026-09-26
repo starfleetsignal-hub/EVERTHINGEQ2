@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Tranquil Sea]]'
+collection_type: Year of Discovery
+pieces:
+- name: Helm of the Torgarath
+  page: Helm of the Torgarath (Fabled Akhevan Antiquity)
+  icon: images/Item_2425.png
+- name: Symbol of Diabo Xin Thall
+  page: Symbol of Diabo Xin Thall (Fabled Akhevan Antiquity)
+  icon: images/Item_1214.png
+- name: Ring of Diabo Rentha
+  page: Ring of Diabo Rentha (Fabled Akhevan Antiquity)
+  icon: images/Item_2236.png
+- name: Effigy of Aten Ha Ra
+  page: Effigy of Aten Ha Ra (Fabled Akhevan Antiquity)
+  icon: images/Item_2240.png
+- name: Blade of the Liako
+  page: Blade of the Liako (Fabled Akhevan Antiquity)
+  icon: images/Item_3584.png
+- name: Mask of the Senshali
+  page: Mask of the Senshali (Fabled Akhevan Antiquity)
+  icon: images/Item_879.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

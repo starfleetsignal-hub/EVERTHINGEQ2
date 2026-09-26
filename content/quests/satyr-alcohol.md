@@ -4,6 +4,17 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: LU122
+pieces:
+- name: Sylvan Mead
+  icon: images/Item_310.png
+- name: Herbacious Wine
+  icon: images/Item_309.png
+- name: Aged Spirits
+  icon: images/Item_312.png
+- name: Sylvan Stout
+  icon: images/Item_308.png
+- name: Delectable Port
+  icon: images/Item_323.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,6 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Dendrae's Nymph Blade]] this item is needed for the collection: [[Buried Takish'Hiz Treasures (Collection)|Buried Takish'Hiz Treasures]]

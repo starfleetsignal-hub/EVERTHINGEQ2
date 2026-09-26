@@ -5,6 +5,21 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Kylong Plains]]'
+collection_type: Year of Discovery
+pieces:
+- name: tuft of bloody yeti fur
+  page: Tuft of bloody yeti fur (Fabled Yeti Fur)
+  icon: images/Item_127.png
+- name: tuft of blue yeti fur
+  page: Tuft of blue yeti fur (Fabled Yeti Fur)
+  icon: images/Item_168.png
+- name: tuft of frozen yeti fur
+  page: Tuft of frozen yeti fur (Fabled Yeti Fur)
+  icon: images/Item_125.png
+- name: tuft of white yeti fur
+  page: Tuft of white yeti fur (Fabled Yeti Fur)
+  icon: images/Item_126.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +41,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

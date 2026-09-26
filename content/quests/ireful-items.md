@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: LU106
+zone: '[[Shard of Hate: Udder Contempt (Herd Mode)]], [[Shard of Hate: Utter Contempt (Heroic)]]'
+pieces:
+- name: Irefully Uttered Whim
+  icon: images/Item_184.png
+- name: Irefully Withheld Word
+  icon: images/Item_2182.png
+- name: Irefully Strong Totem
+  icon: images/Item_1222.png
+- name: Irefully Welted Flesh
+  icon: images/Item_131.png
+- name: Irefully Screamed Obscenity
+  icon: images/Item_2179.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Planes of Prophecy
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Librarian's Card]] this item is needed for the collection: [[Fragments of Hate]]
+- [[Hanging Diamond]]

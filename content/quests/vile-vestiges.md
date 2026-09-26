@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: LU106
+zone: '[[Shard of Hate: Udder Contempt (Herd Mode)]], [[Shard of Hate: Utter Contempt (Heroic)]]'
+pieces:
+- name: Vilely Raged Thaumaturgy
+  icon: images/Item_2515.png
+- name: Vilely Vicious Seclusion
+  icon: images/Item_2707.png
+- name: Vilely Marred Figure
+  icon: images/Item_1209.png
+- name: Vilely Shattered Plasma
+  icon: images/Item_2510.png
+- name: Vilely Told Mysticism
+  icon: images/Item_2526.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Planes of Prophecy
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Skull of the Damned]] this item is needed for the collection: [[Fragments of Hate]]
+- [[Simple Leather Strap of Suffering]]

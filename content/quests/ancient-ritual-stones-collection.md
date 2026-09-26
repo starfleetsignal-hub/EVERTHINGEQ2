@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Ancient Ritual Stones
 added_in: Visions of Vetrovia
+pieces:
+- name: Tall Standing Stone
+  icon: images/Item_4878.png
+- name: Toppled Standing Stone
+  icon: images/Item_4879.png
+- name: Fractured Standing Stone
+  icon: images/Item_4878.png
+- name: Stone with Illegible Carvings
+  icon: images/Item_4878.png
+- name: Moss-Covered Stone
+  icon: images/Item_4879.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Barding of Criticals]]
+- [[Ancient Ritual Stones (Item)|Ancient Ritual Stones]] this item is needed for the collection: [[More Sights and Sounds]]

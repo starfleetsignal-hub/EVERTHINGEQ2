@@ -5,6 +5,25 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Lost Symbols of Marr'
+zone: '[[The Ruins of Guk: Halls of the Fallen]], [[The Ruins of Guk: The Lower Corridors]], [[The Ruins of Guk: Ykesha''s Outer Stronghold]]'
+collection_type: Shiny
+pieces:
+- name: Symbol of Hope
+  icon: images/Item_1776.png
+- name: Symbol of Honor
+  icon: images/Item_1777.png
+- name: Symbol of Morality
+  icon: images/Item_1778.png
+- name: Symbol of Virtue
+  icon: images/Item_1779.png
+- name: Symbol of Life
+  icon: images/Item_1780.png
+- name: Symbol of Protection
+  icon: images/Item_1781.png
+- name: Symbol of Justice
+  icon: images/Item_1782.png
+- name: Symbol of Praise
+  icon: images/Item_1783.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +46,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Froglok Blood-Stained Mark (CollectionReward)|Froglok Blood-Stained Mark]]
+  - [[Marred Shield of Valor]]

@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Hd
+pieces:
+- name: Heliotrope
+  icon: images/Item_1187.png
+- name: Ethereal Energy
+  icon: images/Item_1178.png
+- name: Mark of Draazak's Rage
+  icon: images/Item_1370.png
+- name: Essence of Suppression
+  icon: images/Item_184.png
+- name: Harrowed Spark
+  icon: images/Item_2724.png
+- name: Ethereal Scale
+  icon: images/Item_2027.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,8 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Draazak]] ![](images/Draazak.png) ![](images/Draazak2.png)
+- [[Small Stack of Draconic Etyma]]
+- [[Necrotic Flesh]] this item is needed for the collection: [[Consumer's Hoard]]

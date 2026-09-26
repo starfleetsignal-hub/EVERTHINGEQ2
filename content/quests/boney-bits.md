@@ -3,6 +3,18 @@ title: Boney Bits
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Heroic I)]], [[Shattered Unrest (Heroic II)]], [[Shattered Unrest (Heroic III)]]'
+pieces:
+- name: Busted Boney Bit
+  icon: images/Item_91.png
+- name: Cracked Boney Bit
+  icon: images/Item_91.png
+- name: Fractured Boney Bit
+  icon: images/Item_91.png
+- name: Split Boney Bit
+  icon: images/Item_91.png
+- name: Shattered Boney Bit
+  icon: images/Item_91.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Gooey Gobdrop]]
+- [[Gooey Carrion Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

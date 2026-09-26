@@ -5,6 +5,36 @@ level: '20'
 added_in: Scars of Destruction
 events:
 - Erollisi Day
+zone: '[[Antonica]], [[The Commonlands]], [[Qeynos Capitol District]], [[Qeynos Province District]], [[The City of Freeport]], [[Frostfang Sea]], [[Enchanted Lands]]'
+collection_type: Ed
+pieces:
+- name: Shining Yellow Feather
+  icon: images/Item_5826.png
+  note: '"Antonica/Commonlands"'
+- name: Outrageous Orange Feather
+  icon: images/Item_149.png
+  note: '"Antonica/Commonlands"'
+- name: Vivid Violet Feather
+  icon: images/Item_147.png
+  note: '"Antonica/Commonlands"'
+- name: Mighty Magenta Feather
+  icon: images/Item_5825.png
+  note: '"Qeynos/Freeport"'
+- name: Sheen Green Feather
+  icon: images/Item_5822.png
+  note: '"Qeynos/Freeport"'
+- name: Blazing Blue Feather
+  icon: images/Item_5824.png
+  note: '"Qeynos/Freeport"'
+- name: Plucky Pink Feather
+  icon: images/Item_5825.png
+  note: '"New Halas/Enchanted Lands"'
+- name: Intense Indigo Feather
+  icon: images/Item_147.png
+  note: '"New Halas/Enchanted Lands"'
+- name: Raging Red Feather
+  icon: images/Item_5825.png
+  note: '"New Halas/Enchanted Lands"'
 categories:
 - Antonica Collection Quests
 - Census Credits
@@ -32,4 +62,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- One of the following:
+  - [[Petamorph Wand: Wild Aeraquis]]
+  - 10 [[Erollisi coin]]

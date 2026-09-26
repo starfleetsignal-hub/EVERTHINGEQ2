@@ -3,6 +3,21 @@ title: Qeynos Postage Collection
 type: quest
 level: '50'
 added_in: LU54
+zone: '[[North Qeynos]], [[South Qeynos]], [[Qeynos Harbor]], [[The Elddar Grove]]'
+collection_type: Purple
+pieces:
+- name: Qeynos letterhead
+  icon: images/Item_2179.png
+- name: Qeynos stamp
+  icon: images/Item_854.png
+- name: Qeynos envelope
+  icon: images/Item_3146.png
+- name: Qeynos notepaper
+  icon: images/Item_75.png
+- name: Qeynos postmark
+  icon: images/Item_2616.png
+- name: Qeynos sealing wax
+  icon: images/Item_1330.png
 categories:
 - Census Credits
 - City Festival
@@ -27,4 +42,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Norrathian Express Box, Qeynos Branch]]

@@ -3,6 +3,20 @@ title: Clothing of the Kejek
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[The Stonebrunt Highlands]]'
+pieces:
+- name: Kejekan trousers
+  icon: images/Item_120.png
+- name: Kejekan blouse
+  icon: images/Item_116.png
+- name: Kejekan walking sandals
+  icon: images/Item_119.png
+- name: Kejekan headband
+  icon: images/Item_739.png
+- name: Kejekan overcoat
+  icon: images/Item_278.png
+- name: Kejekan belt
+  icon: images/Item_380.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +38,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A gilded potion bottle]]
+- [[Kaborite Crystal: Kejek]] this item is needed for the collection: [[Stonebrunt Highlands: Kaborite Crystals]]

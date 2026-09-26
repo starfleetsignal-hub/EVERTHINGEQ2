@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Antonica]], [[The Commonlands]]'
+collection_type: Year of Discovery
+pieces:
+- name: shattered gnoll bone fragment
+  page: Shattered gnoll bone fragment (Fabled Gnoll Bone Fragment Collection)
+  icon: images/Item_322.png
+- name: cracked gnoll bone fragment
+  page: Cracked gnoll bone fragment (Fabled Cracked Bone Fragments Collection)
+  icon: images/Item_322.png
+- name: weathered gnoll bone fragment
+  page: Weathered gnoll bone fragment (Fabled Gnoll Bone Fragment Collection)
+  icon: images/Item_322.png
+- name: unscathed gnoll bone fragment
+  page: Unscathed gnoll bone fragment (Fabled Gnoll Bone Fragment Collection)
+  icon: images/Item_322.png
+- name: enchanted gnoll bone fragment
+  page: Enchanted gnoll bone fragment (Fabled Gnoll Bone Fragment Collection)
+  icon: images/Item_322.png
 categories:
 - Antonica Collection Quests
 - Ballads of Zimara Collection Quests
@@ -27,4 +45,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

@@ -3,6 +3,19 @@ title: Traces
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Traces of Mist
+  icon: images/Item_5893.png
+- name: Traces of Fire
+  icon: images/Item_5893.png
+- name: Traces of Magic
+  icon: images/Item_5893.png
+- name: Traces of Blood
+  icon: images/Item_5893.png
+- name: Traces of Death
+  icon: images/Item_5893.png
+- name: Traces of Darkness
+  icon: images/Item_5893.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Emanation of Coral Gas]] this item is needed for the collection: [[Emanations]]

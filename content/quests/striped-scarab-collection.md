@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Striped Scarab Collection'
+zone: '[[The Sinking Sands]]'
+collection_type: Shiny
+pieces:
+- name: striped black scarab
+  icon: images/Item_1815.png
+- name: striped blue scarab
+  icon: images/Item_1817.png
+- name: striped brown scarab
+  icon: images/Item_1818.png
+- name: striped green scarab
+  icon: images/Item_1816.png
+- name: striped red scarab
+  icon: images/Item_1819.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +41,10 @@ expansion_source: patch
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
 - Added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Chitin Crested Wristguards]]
+  - [[Scarab Embroidered Slippers]]
+  - [[Dervish double bed]]

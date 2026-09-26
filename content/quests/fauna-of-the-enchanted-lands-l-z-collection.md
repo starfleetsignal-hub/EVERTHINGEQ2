@@ -4,6 +4,25 @@ type: quest
 level: '35'
 in_game_name: Fauna of the Enchanted Lands L - Z
 added_in: Shattered Lands
+zone: '[[Enchanted Lands]]'
+collection_type: Pages
+pieces:
+- name: Fauna of the Enchanted Lands L - Z  - Page 4
+  icon: images/Item_2180.png
+- name: Fauna of the Enchanted Lands L - Z - Page 5
+  icon: images/Item_2180.png
+- name: Fauna of the Enchanted Lands L - Z - Page 6
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop.
+- name: Fauna of the Enchanted Lands L - Z  - Page 10
+  icon: images/Item_2180.png
+  note: Clickable rubbish pile at {{waypoint 44, 31, -928}}
+- name: Fauna of the Enchanted Lands L - Z - Page 11
+  icon: images/Item_2180.png
+  note: Clickable rubbish pile at {{waypoint 85, 35, -903}}. Also available from harvestable pages or as a corpse drop.
+- name: Fauna of the Enchanted Lands L - Z - Page 12
+  icon: images/Item_2180.png
+  note: Corpse drop only
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fauna of the Enchanted Lands L - Z (CollectionReward)|Fauna of the Enchanted Lands L - Z]]

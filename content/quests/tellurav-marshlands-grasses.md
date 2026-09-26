@@ -4,6 +4,20 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Splendor Sky Aerie]]'
+pieces:
+- name: Salty Saltgrass
+  icon: images/Item_2119.png
+- name: Crankly Canary Grass
+  icon: images/Item_2124.png
+- name: Cross Cordgrass
+  icon: images/Item_2125.png
+- name: Irritable Reeds
+  icon: images/Item_2120.png
+- name: Heated Glyceria
+  icon: images/Item_2121.png
+- name: Hateful Hordeum
+  icon: images/Item_2123.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Ballads of Zimara Collection Quests
@@ -26,4 +40,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Azul Stool]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[White Hooluk Feather]] this item is needed for the collection: [[Feathers From the Aerie]]

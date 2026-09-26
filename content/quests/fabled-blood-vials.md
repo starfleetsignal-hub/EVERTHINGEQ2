@@ -5,6 +5,30 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Butcherblock Mountains]]'
+collection_type: Year of Discovery
+pieces:
+- name: barbarian blood vial
+  page: Barbarian blood vial (Fabled Blood Vials)
+  icon: images/Item_326.png
+- name: dwarf blood vial
+  page: Dwarf blood vial (Fabled Blood Vials)
+  icon: images/Item_323.png
+- name: elf blood vial
+  page: Elf blood vial (Fabled Blood Vials)
+  icon: images/Item_356.png
+- name: gnome blood vial
+  page: Gnome blood vial (Fabled Blood Vials)
+  icon: images/Item_2207.png
+- name: halfling blood vial
+  page: Halfling blood vial (Fabled Blood Vials)
+  icon: images/Item_3051.png
+- name: human blood vial
+  page: Human blood vial (Fabled Blood Vials)
+  icon: images/Item_8.png
+- name: ogre blood vial
+  page: Ogre blood vial (Fabled Blood Vials)
+  icon: images/Item_180.png
 categories:
 - Ballads of Zimara Collection Quests
 - Butcherblock Mountains Collection Quests
@@ -26,4 +50,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

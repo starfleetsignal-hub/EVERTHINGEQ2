@@ -4,6 +4,24 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Moldy Egg
+  icon: images/Item_2149.png
+  note: (Reward from the collection [[Rascals and Scoundrels]])
+- name: Rotten Egg
+  icon: images/Item_2149.png
+  note: (Reward from the collection [[Villains and Knaves]])
+- name: Sour Egg
+  icon: images/Item_2149.png
+  note: (Reward from the collection [[Kindle and Char]])
+- name: Putrid Egg
+  icon: images/Item_2149.png
+  note: (Reward from the collection [[Rifle and Loot]])
+- name: Spoiled Egg
+  icon: images/Item_2149.png
+  note: (Reward from the collection [[Pillage and Plunder]])
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -25,3 +43,8 @@ source:
 
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies.<br>
 Instead, the five collection members are themselves all obtained from the completion of other collection quests. This is called a "meta-collection".<br>
+
+## Rewards
+
+- 5 [[Far Seas Ferrin]]
+- [[Ocean of Tears Map]] this item is needed for the collection: [[Rare Ocean Maps]]

@@ -3,6 +3,20 @@ title: Codices of the Atramentous
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Codex of Greater Misery
+  icon: images/Item_5661.png
+- name: Codex of Greater Tribulation
+  icon: images/Item_5661.png
+  note: no-trade
+- name: Codex of Greater Martyrdom
+  icon: images/Item_5661.png
+- name: Codex of Greater Crucifixion
+  icon: images/Item_5661.png
+- name: Codex of Greater Dolor
+  icon: images/Item_5661.png
+- name: Codex of Greater Excruciation
+  icon: images/Item_5661.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Voidmetal Pauldrons]]
+- [[Fragment of Collected Void]]
+- [[Bear Trap (Version 2)|Bear Trap]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

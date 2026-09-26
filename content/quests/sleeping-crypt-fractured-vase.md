@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Crypt of Dalnir: Baron''s Workshop (Expert)]], [[Crypt of Dalnir: Baron''s Workshop (Heroic)]], [[Crypt of Dalnir: Ritual Chamber (Expert)]], [[Crypt of Dalnir: Ritual Chamber (Heroic)]], [[Crypt of Dalnir: Wizard''s Den (Event Heroic)]], [[Crypt of Dalnir: Wizard''s Den (Expert Event)]], [[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Tomb Broken Fragment
+  icon: images/Item_1085.png
+- name: Tomb Ceramic Fragment
+  icon: images/Item_1086.png
+- name: Tomb Decorative Fragment
+  icon: images/Item_1108.png
+- name: Tomb Glazed Fragment
+  icon: images/Item_1027.png
+- name: Tomb Pottery Fragment
+  icon: images/Item_1087.png
+- name: Tomb Ware Fragment
+  icon: images/Item_1110.png
 categories:
 - Census Credits
 - Collection Quests
@@ -32,4 +47,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Broken Offering for Rile]] this item is needed for the collection: [[Alms of the Crypt of Dalnir]]
+- one of the following:
+  - [[Sacred Cloak of Sepulture]]
+  - [[Sacred Ring of the Shrine]]

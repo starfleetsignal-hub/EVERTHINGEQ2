@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Collection items
+pieces:
+- name: Honey Perfume
+  icon: images/Item_1204.png
+  note: (Reward from the collection [[Spells Flying]])
+- name: Freedom Key
+  icon: images/Item_2178.png
+  note: (Reward from the collection [[Iksar Junk]])
+- name: Trapped Soul Doll
+  icon: images/Item_652.png
+  note: (Reward from the collection [[Oil and Feathered]])
+- name: Flocked Together Feather
+  icon: images/Item_411.png
+  note: (Reward from the collection [[Ground Treasures]])
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +39,9 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- one of the following:
+  - [[Vesspyr Scout's Steel Chainmail]]
+  - [[Thexian War Hammer]]

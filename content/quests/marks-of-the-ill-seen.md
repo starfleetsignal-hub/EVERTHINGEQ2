@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 added_in: Terrors of Thalumbra
+pieces:
+- name: Mark of Vel'da'kar
+  icon: images/Item_4283.png
+- name: Mark of Cxax-Yai
+  icon: images/Item_4277.png
+- name: Mark of Uvheg
+  icon: images/Item_4282.png
+- name: Mark of Khroth
+  icon: images/Item_4264.png
+- name: Mark of Vel'da'kree
+  icon: images/Item_4271.png
+- name: Mark of the Ill-Seen One
+  icon: images/Item_4265.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Aphotic Etched Locket]]
+- [[Memory of the Ill-Seen One]] this item is needed for the collection: [[Memories of Kralet]]

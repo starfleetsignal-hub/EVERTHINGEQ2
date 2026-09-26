@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Runnyeye Goldy Glitter
+  icon: images/Item_1346.png
+- name: Runnyeye Smelly Copper
+  icon: images/Item_1344.png
+- name: Runnyeye Sooty Silver
+  icon: images/Item_1345.png
+- name: Runnyeye Polluted Platinums
+  icon: images/Item_1347.png
+  note: no-trade
+- name: Runnyeye Shorty Shimmer
+  icon: images/Item_1349.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mucky Mithril]] this item is needed for the collection: [[Goblin Loots]]
+- [[Fist of Earthen Barshing]]

@@ -3,6 +3,22 @@ title: Neriad Weapon Cache
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Siren''s Grotto: Alluring Embrace (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Algae Covered Greatblade
+  icon: images/Item_45.png
+- name: Algae Covered Longsword
+  icon: images/Item_51.png
+- name: Algae Covered Mace
+  icon: images/Item_284.png
+- name: Algae Covered Shortsword
+  icon: images/Item_50.png
+- name: Algae Covered Spear
+  icon: images/Item_287.png
+- name: Algae Covered Staff
+  page: Algae Covered Staff (Neriad Weapon Cache)
+  icon: images/Item_622.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +40,11 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Collected Neriad Weapons]] this item is needed for the collection: [[Collected Alluring Novelties]]
+- one of the following:
+  - [[Choker of Neriad Weaponry]]
+  - [[Necklace of Neriad Weaponry]]
+  - [[Pendant of Neriad Weaponry]]
+  - [[Chain of Neriad Weaponry]]

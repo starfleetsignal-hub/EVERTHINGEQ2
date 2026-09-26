@@ -4,6 +4,20 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Splendor Sky Aerie]]'
+pieces:
+- name: Rootland Strawberry
+  icon: images/Item_786.png
+- name: Burrow Mulberry
+  icon: images/Item_784.png
+- name: Tellurav Cranberry
+  icon: images/Item_5867.png
+- name: Elder Elderberry
+  icon: images/Item_5868.png
+- name: Petalcrown Salmon Berry
+  icon: images/Item_788.png
+- name: Riparian Raspberry
+  icon: images/Item_788.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Ballads of Zimara Collection Quests
@@ -26,4 +40,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Azul Long Rug]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[Singed Hooluk Feather]] this item is needed for the collection: [[Feathers From the Aerie]]

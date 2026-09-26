@@ -3,6 +3,20 @@ title: Stormforged Relics
 type: quest
 level: '130'
 added_in: Scars of Destruction
+zone: '[[Sodden Archipelago]]'
+pieces:
+- name: Stormshard Fragment
+  icon: images/Item_5697.png
+- name: Tempest Core
+  icon: images/Item_5694.png
+- name: Ultera Rune Tablet
+  icon: images/Item_5943.png
+- name: Skybreaker Amulet
+  icon: images/Item_4868.png
+- name: Thunderspliced Idol
+  icon: images/Item_5693.png
+- name: Ethereal Windstaff
+  icon: images/Item_5648.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +38,7 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Square Blackhook Crate]]
+- [[Fragment of Collected Scars (Treasured) (Version 1)|Fragment of Collected Scars]]

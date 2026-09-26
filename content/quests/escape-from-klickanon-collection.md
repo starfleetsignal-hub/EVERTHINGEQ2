@@ -4,6 +4,21 @@ type: quest
 level: '100'
 in_game_name: Escape from Klick'Anon
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+collection_type: Blue
+pieces:
+- name: Escape from Klick'Anon Page 2
+  icon: images/Item_2179.png
+- name: Escape from Klick'Anon Page 1
+  icon: images/Item_2179.png
+- name: Escape from Klick'Anon Page 6
+  icon: images/Item_2179.png
+- name: Escape from Klick'Anon Page 5
+  icon: images/Item_2179.png
+- name: Escape from Klick'Anon Page 4
+  icon: images/Item_2179.png
+- name: Escape from Klick'Anon Page 3
+  icon: images/Item_2179.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +41,8 @@ expansion_source: patch
 ---
 
 Collection members can be found around [[Abyssal Chasm]].
+
+## Rewards
+
+- [[Klick`Anon Trinket Earring]]
+- [[Escape from Klik'Anon]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Gauntlets of the Dar Knight
+  icon: images/Item_214.png
+  note: no-trade
+- name: Flesh of the Dar Knight
+  icon: images/Item_158.png
+- name: Cutlass of the Dar Knight
+  icon: images/Item_41.png
+- name: Club of the Dar Knight
+  icon: images/Item_633.png
+- name: Pouch of the Dar Knight
+  icon: images/Item_401.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Dar Knight]] this item is needed for the collection: [[Inhabitants of Guk]]
