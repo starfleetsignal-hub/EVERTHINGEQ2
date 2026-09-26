@@ -375,6 +375,7 @@ def main():
     ext = ".json.gz" if TARGET == "github" else ".txt"
     chunks_h, chunks_s = [{} for _ in range(nch)], [{} for _ in range(nch)]
     by_type, search, counts = {}, [], {}
+    sx = {}                                                # release name -> index (search rows store the index)
     for pid, p in pages.items():
         h, m = build_page(pid, p)
         c = fnv(pid) % nch
@@ -382,7 +383,9 @@ def main():
         if TARGET != "github" or not REPO: chunks_s[c][pid] = {"src": p["src"], "path": p["path"]}
         ty = pid.split("/")[0]
         by_type.setdefault(ty, {})[pid] = [m["t"], m["k"], m["m"], m["s"], m["lvl"], m["d"], m["z"], m["x"]] + ([1] if m["xe"] else [])
-        search.append([pid, m["t"], m["k"], m["z"]] + list(m["a"] or []))
+        # search row: id, title, kind, zone, release index (-1 = none), level, then aliases
+        xi = sx.setdefault(m["x"], len(sx)) if m["x"] else -1
+        search.append([pid, m["t"], m["k"], m["z"], xi, m["lvl"][:16]] + list(m["a"] or []))
         counts.setdefault(ty, {}); counts[ty][m["x"]] = counts[ty].get(m["x"], 0) + 1
     total = 0
     def put(path, obj):
@@ -400,7 +403,7 @@ def main():
                  for k, groups in L.items()} for x, L in questlines().items()}
     zones = {pid: v for pid, v in by_type.get("zones", {}).items()}
     msz = put(os.path.join(data_dir, "meta"), {"chunks": nch, "width": width, "ext": ext, "counts": counts, "lines": lines,
-                                               "zones": zones, "repo": REPO, "src": bool(any(chunks_s))})
+                                               "zones": zones, "sx": list(sx), "repo": REPO, "src": bool(any(chunks_s))})
     total += isz + ssz + msz
     tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html")).read()
     tpl = tpl.replace("/*EXT*/", json.dumps(ext))
