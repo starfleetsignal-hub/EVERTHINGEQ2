@@ -365,13 +365,13 @@ def questlines():
 # front matter. Update the dates (and year) each time the wiki announces the next run.
 EVENTS = [
     ("Erollisi Day", "Erollisi Day", "Valentine's Day", (2, 5, 2, 18, 2026), ["Erollisi Day"]),
-    ("Chronoportal Phenomenon", "Chronoportal Phenomenon", "EverQuest anniversary", (3, 5, 3, 18, 2026), ["Chronoportal Phenomenon"]),
+    ("Chronoportal Phenomenon", "Chronoportal Phenomenon", "EverQuest anniversary", (3, 5, 3, 18, 2026), ["Chronoportal Phenomenon", "Chronoportals"]),
     ("Brew Day", "Brew Day", "St. Patrick's Day", (3, 12, 3, 25, 2026), ["Brew Day"]),
     ("Bristlebane Day", "Bristlebane Day", "April Fools' Day", (3, 27, 4, 10, 2026), ["Bristlebane Day"]),
-    ("Beast'r Eggstravaganza", "Beast'r Eggstravaganza", "Spring and Easter", (4, 3, 4, 9, 2026), ["Beast'r Eggstravaganza"]),
+    ("Beast'r Eggstravaganza", "Beast'r Eggstravaganza", "Spring and Easter", (4, 3, 4, 9, 2026), ["Beast'r Eggstravaganza", "Beast'r"]),
     ("Tinkerfest", "Tinkerfest", "", (6, 11, 6, 25, 2026), ["Tinkerfest"]),
     ("Scorched Sky Celebration", "Scorched Sky", "Summer fireworks", (7, 2, 7, 15, 2026), ["Scorched Sky"]),
-    ("Oceansfull Festival", "Oceansfull Festival", "", (8, 6, 8, 20, 2026), ["Oceansfull Festival"]),
+    ("Oceansfull Festival", "Oceansfull Festival", "", (8, 6, 8, 20, 2026), ["Oceansfull Festival", "Oceansfull"]),
     ("Nights of the Dead", "Nights of the Dead", "Halloween", (10, 9, 11, 2, 2026), ["Nights of the Dead"]),
     ("Heroes' Festival", "Heroes' Festival Timeline", "EverQuest II's birthday", (11, 7, 11, 17, 2025), ["Heroes' Festival", "Heroes Festival"]),
     ("Frostfell", "Frostfell", "Winter holidays", (12, 2, 1, 5, 2025), ["Frostfell"]),
@@ -398,6 +398,11 @@ def events():
             if name in (fm.get("events") or []) or any(c == k or c.startswith(k + " ") for c in fm.get("categories", []) for k in cats):
                 mine.append(pid)
         main_pid = resolve(main_title)[0]
+        # Quests the event's guide or timeline links to belong to it too; not every one carries the event category.
+        for guide in {main_pid, resolve(name + " Timeline")[0]} - {None}:
+            for t in re.findall(r"\[\[([^\]|#]+)", pages[guide]["body"]):
+                q = resolve(t.strip())[0]
+                if q and q not in mine and pages[q]["fm"]["type"] == "quest": mine.append(q)
         summary, credit = "", None
         if main_pid:
             mp = pages[main_pid]
