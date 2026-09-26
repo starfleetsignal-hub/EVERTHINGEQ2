@@ -425,6 +425,50 @@ def questlines():
                                                           sorted(pids, key=lambda p: pages[p]["fm"]["title"])])
     return out
 
+# ---------------------------------------------------------------- gear finder
+# Equipment and adornments with slot, level, tier, classes, type and numeric stats, one file per slot (data/g/<n>),
+# so the gear finder loads only the slots it filters on. Classes come from the "<Class> Equipment/Adornments" categories.
+CLASSES = ["Guardian", "Berserker", "Monk", "Bruiser", "Shadowknight", "Paladin", "Templar", "Inquisitor", "Warden", "Fury",
+           "Mystic", "Defiler", "Channeler", "Wizard", "Warlock", "Illusionist", "Coercer", "Conjuror", "Necromancer",
+           "Troubador", "Dirge", "Swashbuckler", "Brigand", "Ranger", "Assassin", "Beastlord"]
+GEAR_KINDS = {"Equipment": "Equipment", "Adornment": "Adornments"}
+def gear_num(v):
+    m = re.match(r"^\s*\+?(-?[\d,]*\.?\d+)\s*%?\s*$", str(v))
+    if not m: return None
+    n = float(m.group(1).replace(",", ""))
+    return int(n) if n == int(n) else round(n, 2)
+
+def gear_index():
+    """{slot: [[slug, title, icon, level, tier, classmask, release, type, {stat: number}, kind]]} plus string tables."""
+    bit = {c: 1 << i for i, c in enumerate(CLASSES)}
+    shards, tiers, types, stat_count = {}, [], [], {}
+    def ix(table, v):
+        if v not in table: table.append(v)
+        return table.index(v)
+    for pid, p in pages.items():
+        fm = p["fm"]
+        if fm.get("type") != "item" or fm.get("item_kind") not in GEAR_KINDS: continue
+        kind = fm["item_kind"]
+        slot = re.sub(r"\s+", " ", plain(fm.get("slot") or "")).strip()
+        slot = (slot.capitalize() + " slot") if kind == "Adornment" and slot else slot.title() or "Unknown slot"
+        m = re.search(r"\d+", str(fm.get("level") or ""))
+        mask = 0
+        for c in fm.get("categories") or []:
+            n = re.match(r"(.+?) (?:Equipment|Adornments)$", c)
+            if n and n.group(1) in bit: mask |= bit[n.group(1)]
+        st = fm.get("stats") if isinstance(fm.get("stats"), dict) else {}
+        nums = {}
+        for k, v in st.items():
+            n = gear_num(v)
+            if n is not None and k not in ("delay", "charges", "recast", "duration", "damage"): nums[k] = n; stat_count[k] = stat_count.get(k, 0) + 1
+        ty = plain(st.get("dtype") or st.get("wtype") or fm.get("item_subtype") or "")
+        icon = re.search(r"Item_(\d+)\.png", str(fm.get("icon") or ""))
+        shards.setdefault((kind, slot), []).append(
+            [pid.split("/", 1)[1], fm["title"], int(icon.group(1)) if icon else 0, int(m.group()) if m else 0,
+             ix(tiers, str(fm.get("tier") or "")), mask, fm.get("expansion") or "", ix(types, ty), nums,
+             1 if fm.get("expansion_source") == "level" else 0])
+    return shards, tiers, types, stat_count
+
 # "artifact": base64 text chunks + source chunks (claude.ai preview); "github": .gz chunks (GitHub Pages, the default in CI)
 TARGET = os.environ.get("EQ2_TARGET", "github" if os.environ.get("GITHUB_ACTIONS") else "artifact")
 # "owner/name[/branch]": Edit this page opens GitHub's editor (in CI, the repository being built)
@@ -436,7 +480,7 @@ def main():
     site = os.path.join(OUT, "site"); data_dir = os.path.join(site, "data")
     import shutil
     shutil.rmtree(data_dir, ignore_errors=True)
-    for sub in ("p", "s", "i"): os.makedirs(os.path.join(data_dir, sub), exist_ok=True)
+    for sub in ("p", "s", "i", "g"): os.makedirs(os.path.join(data_dir, sub), exist_ok=True)
     nch = max(100, -(-len(pages) // PER_CHUNK)) if TARGET == "github" else 100
     width = len(str(nch - 1))
     ext = ".json.gz" if TARGET == "github" else ".txt"
@@ -463,6 +507,12 @@ def main():
     isz = 0
     for ty, d in by_type.items(): isz += put(os.path.join(data_dir, "i", ty), d)
     ssz = put(os.path.join(data_dir, "search"), search)
+    shards, tiers, types, stat_count = gear_index()
+    gear = []
+    for n, ((kind, slot), rows) in enumerate(sorted(shards.items(), key=lambda kv: (kv[0][0], -len(kv[1])))):
+        isz += put(os.path.join(data_dir, "g", str(n)), rows); gear.append([GEAR_KINDS[kind], slot, len(rows)])
+    isz += put(os.path.join(data_dir, "g", "index"), {"shards": gear, "classes": CLASSES, "tiers": tiers, "types": types,
+                                                     "stats": sorted(stat_count, key=lambda k: -stat_count[k])})
     lines = {x: {k: [[n, [[q, pages[q]["fm"]["title"], str(pages[q]["fm"].get("level", ""))] for q in l]] for n, l in groups]
                  for k, groups in L.items()} for x, L in questlines().items()}
     zones = {pid: v for pid, v in by_type.get("zones", {}).items()}

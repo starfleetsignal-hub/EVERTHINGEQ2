@@ -196,6 +196,23 @@ td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
 .count{font-family:var(--mono);font-size:.78rem;color:var(--faint);font-weight:500;margin-left:6px}
 .derived{font-size:.88rem;color:var(--faint)}
 .loading{color:var(--muted);padding:24px 0}
+#main{min-width:0}
+.sidenav li a.sub{padding-left:22px;font-size:.9rem}
+.gearcall{background:color-mix(in srgb, var(--green) 14%, var(--surface));border:1px solid color-mix(in srgb, var(--green) 45%, var(--line));margin-bottom:12px}
+.gearform{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px 14px;margin:10px 0 6px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.gearform label{display:grid;gap:3px;font-size:.8rem;font-weight:700;letter-spacing:.04em;color:var(--muted)}
+.gearform label.wide{grid-column:span 2}
+@media (max-width:420px){.gearform label.wide{grid-column:auto}}
+.gearform select,.gearform input{width:100%;min-width:0;background:var(--ground);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:6px 8px;font:inherit;font-size:.95rem;font-weight:400;letter-spacing:0}
+.gearform .range{display:flex;gap:6px;align-items:center}
+.gearform .range span{font-weight:400;color:var(--faint)}
+.geartable td.gname{min-width:200px}
+.geartable td.gname img{vertical-align:middle;margin-right:6px;border-radius:3px;background:#00000033}
+.gstats{font-size:.85rem;min-width:180px}
+.gstats span{display:inline-block;margin:0 8px 2px 0;color:var(--muted);white-space:nowrap}
+.gstats span b{color:var(--text);font-variant-numeric:tabular-nums}
+.gstats span.on{color:var(--green-soft)}
+.gstats span.on b{color:var(--green-soft)}
 
 .peek{position:fixed;z-index:30;max-width:300px;background:var(--surface);border:1px solid var(--brown);border-radius:8px;box-shadow:var(--shadow);padding:10px 12px;font-size:.88rem;pointer-events:none}
 .peek b{display:block;font-family:var(--display);font-size:1rem}
@@ -351,6 +368,7 @@ function browse(t, s, all){
   return `
   <div class="crumbs"><a href="#home">Home</a> › ${x?`<a href="#x.${s}">${esc(x)}</a> › `:""}Browse</div>
   <div class="art-head"><h1>${esc(label)}${x?` <small class="count">${esc(x)}</small>`:""}</h1></div>
+  ${t === "items" ? `<p class="callout gearcall">Looking for gear? The <a href="#gear">gear finder</a> filters equipment and adornments by slot, class, level and stats.</p>` : ""}
   <div class="filter"><input id="qf" type="search" placeholder="Filter by name${BZ?" or zone":""}" aria-label="Filter">
     <select id="xf" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${y===x?" selected":""}>${esc(y)}</option>`).join("")}</select>
     <span id="qcount"></span></div>
@@ -367,6 +385,112 @@ function browseRows(v){
   more.textContent = `Showing the first ${ROWCAP} matches. Type more of a name to narrow the list.`;
 }
 
+// ---------------------------------------------------------------- gear finder (#gear?slot=…&cls=…)
+// data/g/index lists one shard per kind + slot; rows are [slug, title, icon, level, tier, classes bitmask, release, type, {stat: n}, estimated]
+const STATN = {sta:"Stamina",str:"Strength",agi:"Agility",wis:"Wisdom",int:"Intelligence",prim:"Primary attributes",health:"Health",power:"Power",
+  mit:"Mitigation",crit:"Crit chance",critbonus:"Crit bonus",potency:"Potency",resolve:"Resolve",multi:"Multi attack",dps:"DPS mod",
+  haste:"Haste",aspeed:"Attack speed",fervor:"Fervor",ability:"Ability mod",abmod:"Ability mod",reuse:"Reuse speed",casting:"Casting speed",
+  recovery:"Recovery speed",block:"Block",drating:"Damage rating",rating:"Rating",range:"Range",dblatt:"Double attack",flurry:"Flurry",
+  strikethrough:"Strikethrough",accuracy:"Accuracy",aeauto:"AE autoattack",spelldoublecast:"Spell doublecast",abilitydoublecast:"Ability doublecast",
+  weaponskills:"Weapon skills",vselemental:"Elemental resist",vsnoxious:"Noxious resist",vsarcane:"Arcane resist",vsphysical:"Physical resist",
+  mainstat:"Main stat",maxhealth:"Max health",cbovercap:"Crit bonus overcap",mitinc:"Mitigation increase",strike:"Strikethrough",wdmg:"Weapon damage",armormit:"Armor mitigation",hpregen:"Health regen",powregen:"Power regen",lethality:"Lethality",toughness:"Toughness"};
+const statName = k => STATN[k] || k.replace(/_/g," ").replace(/^./, c=>c.toUpperCase());
+let GEAR = null; const gearCache = {};
+function gearIndex(){
+  if (!GEAR) GEAR = data("g/index").catch(e=>{ GEAR = null; throw e; });
+  return GEAR;
+}
+function gearShard(n){
+  if (!gearCache[n]) gearCache[n] = data(`g/${n}`).catch(e=>{ delete gearCache[n]; throw e; });
+  return gearCache[n];
+}
+const gearState = () => new URLSearchParams((location.hash.split("?")[1]) || "");
+function gearPage(G){
+  const st = gearState(), kind = st.get("kind") || "Equipment";
+  const sel = (id, label, opts, v) => `<label>${label}<select id="${id}">${opts.map(([val,l])=>`<option value="${esc(val)}"${String(val)===String(v??"")?" selected":""}>${esc(l)}</option>`).join("")}</select></label>`;
+  const kinds = [...new Set(G.shards.map(s=>s[0]))];
+  const slots = G.shards.filter(s=>s[0]===kind);
+  return `
+  <div class="crumbs"><a href="#home">Home</a> › <a href="#browse.items">Items</a> › Gear finder</div>
+  <div class="art-head"><h1>Gear finder</h1></div>
+  <p class="derived">Pick a slot, class and level range, then sort by the stat you care about. Stats, slots and classes come from each item's wiki page; items the wiki lists without classes show under every class.</p>
+  <form class="gearform" id="gf" onsubmit="return false">
+    ${sel("g-kind","Kind",kinds.map(k=>[k,k]),kind)}
+    ${sel("g-slot","Slot",[["","Any slot"]].concat(slots.map(s=>[s[1],`${s[1]} (${s[2].toLocaleString()})`])),st.get("slot"))}
+    ${sel("g-cls","Class",[["","Any class"]].concat(G.classes.map(c=>[c,c])),st.get("cls"))}
+    <label>Level<span class="range"><input id="g-min" type="number" inputmode="numeric" min="0" max="200" placeholder="min" value="${esc(st.get("min")||"")}"><span>to</span><input id="g-max" type="number" inputmode="numeric" min="0" max="200" placeholder="max" value="${esc(st.get("max")||"")}"></span></label>
+    ${sel("g-tier","Tier",[["","Any tier"]].concat(G.tiers.map((t,i)=>[i,t]).filter(r=>r[1])),st.get("tier"))}
+    ${sel("g-x","Release",[["","All releases"]].concat(XP.map(y=>[xslug(y),y])),st.get("x"))}
+    ${sel("g-stat","Has stat",[["","Any stats"]].concat(G.stats.map(k=>[k,statName(k)])),st.get("stat"))}
+    <label>Stat at least<input id="g-smin" type="number" inputmode="decimal" placeholder="any" value="${esc(st.get("smin")||"")}"></label>
+    ${sel("g-sort","Sort by",[["name","Name"],["lvl","Level, highest first"],["stat","Stat, highest first"]],st.get("sort")||"name")}
+    <label class="wide">Name or type<input id="g-q" type="search" placeholder="e.g. cloak, plate, staff" value="${esc(st.get("q")||"")}"></label>
+  </form>
+  <div class="filter"><span id="gcount"></span> <a href="#gear" id="greset">Clear filters</a></div>
+  <div class="tablewrap"><table class="geartable"><thead><tr><th>Item</th><th>Slot</th><th>Level</th><th>Tier</th><th>Type</th><th>Stats</th><th>Release</th></tr></thead><tbody id="grows"></tbody></table></div>
+  <p class="derived" id="gmore" hidden></p>`;
+}
+let gearSeq = 0;
+async function gearRows(G){
+  const my = ++gearSeq, st = gearState(), kind = st.get("kind") || "Equipment", slot = st.get("slot") || "";
+  const tb = document.getElementById("grows"); if (!tb) return;
+  const want = G.shards.map((s,i)=>[s,i]).filter(([s])=>s[0]===kind && (!slot || s[1]===slot));
+  document.getElementById("gcount").textContent = "Loading items…";
+  let parts;
+  try { parts = await Promise.all(want.map(([s,i])=>gearShard(i).then(rows=>rows.map(r=>[r,s[1]])))); }
+  catch(e){ if (my === gearSeq) document.getElementById("gcount").textContent = "The gear list could not be loaded. Reload to try again."; return; }
+  if (my !== gearSeq) return;
+  const ci = G.classes.indexOf(st.get("cls") || ""), cbit = ci >= 0 ? 1 << ci : 0;
+  const lo = parseFloat(st.get("min")), hi = parseFloat(st.get("max"));
+  const tier = st.get("tier") ?? "", x = xOf(st.get("x") || ""), stat = st.get("stat") || "", smin = parseFloat(st.get("smin"));
+  const q = (st.get("q") || "").toLowerCase(), sort = st.get("sort") || "name";
+  const hits = [];
+  for (const rows of parts) for (const [r, sl] of rows){
+    if (cbit && r[5] && !(r[5] & cbit)) continue;
+    if (!isNaN(lo) && r[3] < lo) continue;
+    if (!isNaN(hi) && r[3] > hi) continue;
+    if (tier !== "" && r[4] !== +tier) continue;
+    if (x && r[6] !== x) continue;
+    if (stat && !(stat in r[8])) continue;
+    if (stat && !isNaN(smin) && r[8][stat] < smin) continue;
+    if (q && !(r[1] + " " + G.types[r[7]] + " " + sl).toLowerCase().includes(q)) continue;
+    hits.push([r, sl]);
+  }
+  const byName = (a,b)=>a[0][1].localeCompare(b[0][1]);
+  if (sort === "lvl") hits.sort((a,b)=>b[0][3]-a[0][3] || byName(a,b));
+  else if (sort === "stat" && stat) hits.sort((a,b)=>(b[0][8][stat]??-Infinity)-(a[0][8][stat]??-Infinity) || byName(a,b));
+  else hits.sort(byName);
+  const fmt = n => typeof n === "number" ? n.toLocaleString() : esc(n);
+  const stats = s => { const ks = Object.keys(s); if (stat && ks.includes(stat)) ks.splice(ks.indexOf(stat),1), ks.unshift(stat);
+    return ks.slice(0,5).map(k=>`<span${k===stat?' class="on"':""}>${esc(statName(k))} <b>${fmt(s[k])}</b></span>`).join("") + (ks.length > 5 ? `<span>+${ks.length-5} more</span>` : ""); };
+  tb.innerHTML = hits.slice(0, ROWCAP).map(([r, sl])=>{ const id = "items/" + r[0];
+    return `<tr><td class="gname">${r[2]?`<img src="images/Item_${r[2]}.png" alt="" width="24" height="24" loading="lazy" onerror="this.remove()">`:""}${link(id, r[1])}</td><td>${esc(sl)}</td><td class="num">${r[3]||""}</td><td>${esc(G.tiers[r[4]])}</td><td>${esc(G.types[r[7]])}</td><td class="gstats">${stats(r[8])}</td><td>${esc(r[6] ? r[6] + (r[9] ? " (est.)" : "") : "")}</td></tr>`; }).join("")
+    || `<tr><td colspan="7">No gear matches these filters. Try a wider level range or clear a filter.</td></tr>`;
+  const total = parts.reduce((a,r)=>a+r.length,0);
+  document.getElementById("gcount").textContent = `${hits.length.toLocaleString()} of ${total.toLocaleString()} items`;
+  const more = document.getElementById("gmore");
+  more.hidden = hits.length <= ROWCAP;
+  more.textContent = `Showing the first ${ROWCAP}. Add a filter to narrow the list.`;
+}
+function gearWire(G){
+  const f = document.getElementById("gf"); if (!f) return;
+  const keys = {"g-kind":"kind","g-slot":"slot","g-cls":"cls","g-min":"min","g-max":"max","g-tier":"tier","g-x":"x","g-stat":"stat","g-smin":"smin","g-sort":"sort","g-q":"q"};
+  let tmr;
+  const upd = e => {
+    const st = new URLSearchParams();
+    for (const [id, k] of Object.entries(keys)){ const v = document.getElementById(id).value.trim(); if (v && !(k === "kind" && v === "Equipment") && !(k === "sort" && v === "name")) st.set(k, v); }
+    if (e && e.target.id === "g-kind") st.delete("slot");
+    if (e && e.target.id === "g-stat" && st.get("stat") && !st.get("sort")) st.set("sort", "stat");
+    const h = "#gear" + (st.toString() ? "?" + st : "");
+    if (e && (e.target.id === "g-kind" || e.target.id === "g-stat")) { location.hash = h; return; }   // redraw the slot list / sort choice
+    history.replaceState(null, "", h);
+    clearTimeout(tmr); tmr = setTimeout(()=>gearRows(G), 150);
+  };
+  f.addEventListener("input", e=>{ if (e.target.tagName !== "SELECT") upd(e); });
+  f.addEventListener("change", e=>{ if (e.target.tagName === "SELECT") upd(e); });
+  gearRows(G);
+}
+
 const main = document.getElementById("main"), peek = document.getElementById("peek");
 let seq = 0;
 async function render(){
@@ -375,6 +499,14 @@ async function render(){
   const id = pid(h);
   document.querySelectorAll("#snav a, #xnav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#" + h || (h.startsWith("x.") && a.getAttribute("href") === "#x." + h.split(".")[1])));
   peek.hidden = true;
+  if (h === "gear" || h.startsWith("gear?")) {
+    document.querySelectorAll("#snav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#gear"));
+    main.innerHTML = `<p class="loading">Loading the gear finder…</p>`;
+    let G;
+    try { G = await gearIndex(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The gear finder could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = gearPage(G); window.scrollTo(0,0); gearWire(G); return;
+  }
   if (h.startsWith("browse.")) {
     const [, ty, xs] = h.split(".");
     main.innerHTML = `<p class="loading">Loading the list…</p>`;
@@ -408,6 +540,7 @@ data("meta").then(d=>{
   for (const id in META.zones) IDX[id] = row(META.zones[id]);
   document.getElementById("snav").innerHTML = `<li><a href="#home">Overview<span></span></a></li>` +
     TYPES.filter(([t])=>count(t)).map(([t,l])=>`<li><a href="#browse.${t}">${l}<span>${count(t).toLocaleString()}</span></a></li>`).join("");
+  document.querySelector('#snav a[href="#browse.items"]')?.parentElement.insertAdjacentHTML("afterend", `<li><a href="#gear" class="sub">Gear finder<span></span></a></li>`);
   document.getElementById("xnav").innerHTML = XP.map(x=>`<li><a href="#x.${xslug(x)}">${esc(x)}</a></li>`).join("");
   window.addEventListener("hashchange", render);
   render().then(()=>setTimeout(()=>loadSearch().catch(()=>{}), 1500));
