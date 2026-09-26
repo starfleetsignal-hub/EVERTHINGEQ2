@@ -217,13 +217,80 @@ def plain(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", inline(str(s))))).strip()
 
 IN_ZONE = {}
+PINS = {}                  # zone pid -> [(x, y, z, kind, pid)] from pages that name exactly one zone
+WAYPOINT = re.compile(r"\{\{waypoint ([-\d.]+), ([-\d.]+), ([-\d.]+)\}\}")
+PIN_FIELD = {"npc": "location", "monster": "location", "named": "location", "poi": "location", "house": "location", "quest": "starts"}
 def index_zones():
     for pid, p in pages.items():
         z = p["fm"].get("zone")
         if not isinstance(z, str): continue
+        zps = []
         for m in re.finditer(r"\[\[([^\]|]+)", z):
             zp, _ = resolve(m.group(1))
-            if zp and zp != pid: IN_ZONE.setdefault(zp, []).append(pid)
+            if zp and zp != pid: IN_ZONE.setdefault(zp, []).append(pid); zps.append(zp)
+        kind = p["fm"]["type"]
+        if len(set(zps)) != 1 or kind not in PIN_FIELD or not isinstance(p["fm"].get(PIN_FIELD[kind]), str): continue
+        seen = set()
+        for m in WAYPOINT.finditer(p["fm"][PIN_FIELD[kind]]):
+            x, y, zz = (float(v) for v in m.groups())
+            if (x, zz) in seen: continue
+            seen.add((x, zz)); PINS.setdefault(zps[0], []).append((x, y, zz, kind, pid))
+
+# Waypoint map: in EQ2 north is -z and east is -x, so the map draws -x to the right and z downwards.
+PIN_KINDS = [("quest", "Quest starts"), ("npc", "NPCs"), ("named", "Named"), ("monster", "Monsters"), ("poi", "Places"), ("house", "Housing")]
+def nice_step(span):
+    for s in (10, 25, 50, 100, 250, 500, 1000, 2500, 5000):
+        if span / s <= 8: return s
+    return 10000
+
+def fmt(v):
+    return ("%d" % v) if v == int(v) else ("%g" % v)
+
+def zone_map(pid):
+    pins = PINS.get(pid, [])
+    if len(pins) < 2: return ""
+    xs, zs = sorted(-p[0] for p in pins), sorted(p[2] for p in pins)
+    def bounds(v):                       # a few mistyped waypoints would squash the rest into a corner
+        q = lambda f: v[min(len(v) - 1, int(f * (len(v) - 1) + .5))]
+        lo, hi = (q(.02), q(.98)) if len(v) >= 20 else (v[0], v[-1])
+        pad = max((hi - lo) * .35, 40)
+        return max(v[0], lo - pad), min(v[-1], hi + pad)
+    x0, x1 = bounds(xs); z0, z1 = bounds(zs)
+    edge = max(x1 - x0, z1 - z0, 100) * .04                            # room for the pins and axis labels at the edges
+    x0, x1, z0, z1 = x0 - edge, x1 + edge, z0 - edge, z1 + edge
+    w, h = x1 - x0, z1 - z0
+    if w < h * .6: c = (x0 + x1) / 2; w = h * .6; x0, x1 = c - w / 2, c + w / 2
+    if h < w * .6: c = (z0 + z1) / 2; h = w * .6; z0, z1 = c - h / 2, c + h / 2
+    step = nice_step(max(w, h)); r = max(w, h) / 110
+    grid = []
+    for v in range(int(x0 // step + 1) * step, int(x1) + 1, step):
+        grid.append('<line x1="%s" y1="%s" x2="%s" y2="%s"/><text x="%s" y="%s">%s</text>' % (v, z0, v, z1, v + r * .6, z1 - r * .8, fmt(-v)))
+    for v in range(int(z0 // step + 1) * step, int(z1) + 1, step):
+        grid.append('<line x1="%s" y1="%s" x2="%s" y2="%s"/><text x="%s" y="%s">%s</text>' % (x0, v, x1, v, x0 + r * .6, v - r * .6, fmt(v)))
+    order = {k: i for i, (k, _) in enumerate(PIN_KINDS)}
+    shown, off = [], 0
+    for x, y, z, kind, q in sorted(pins, key=lambda p: -order[p[3]]):      # quest starts drawn last, on top
+        if not (x0 <= -x <= x1 and z0 <= z <= z1): off += 1; continue
+        loc = "/waypoint %s, %s, %s" % (fmt(x), fmt(y), fmt(z))
+        shown.append('<circle class="wpin" data-k="%s" data-peek="%s" data-loc="%s" cx="%.1f" cy="%.1f" r="%.1f" tabindex="0" role="button" aria-label="%s, %s"/>'
+                     % (kind, q, loc, -x, z, r, html.escape(pages[q]["fm"]["title"]), loc))
+    kinds = [(k, l, sum(1 for p in pins if p[3] == k)) for k, l in PIN_KINDS]
+    legend = "".join('<button type="button" class="wpkey" data-k="%s" aria-pressed="true"><i></i>%s <span class="count">%d</span></button>' % (k, l, n)
+                     for k, l, n in kinds if n)
+    rows = "".join('<tr data-k="%s"><td><a href="#%s" data-peek="%s">%s</a></td><td>%s</td><td>%s</td></tr>' % (
+        kind, hid(q), q, html.escape(pages[q]["fm"]["title"]), TYPE_LABEL.get(kind, ""), inline("{{waypoint %s, %s, %s}}" % (fmt(x), fmt(y), fmt(z))))
+        for x, y, z, kind, q in sorted(pins, key=lambda p: pages[p[4]]["fm"]["title"].lower()))
+    note = "Click a pin to copy its /waypoint, or hover it to see what is there. Scroll or use the buttons to zoom, and drag to move."
+    if off: note += " %d waypoint%s far from the rest %s left off the map but %s in the list below." % (off, "s" if off > 1 else "", "are" if off > 1 else "is", "are" if off > 1 else "is")
+    return ('<h2>Waypoint map</h2><div class="wpmap"><div class="wpbar">%s<span class="wpzoom"><button type="button" data-z="1.5" aria-label="Zoom in">+</button>'
+            '<button type="button" data-z="0.667" aria-label="Zoom out">−</button><button type="button" data-z="0" aria-label="Reset zoom">Reset</button></span></div>'
+            '<svg viewBox="%.1f %.1f %.1f %.1f" data-vb="%.1f %.1f %.1f %.1f" data-r="%.2f" role="img" aria-label="Waypoints in %s. North is up.">'
+            '<g class="wpgrid" style="stroke-width:%.2f;font-size:%.1fpx">%s</g><g>%s</g><text class="wpnorth" x="%.1f" y="%.1f" style="font-size:%.1fpx">N ↑</text></svg>'
+            '<p class="derived">%s Pins come from the location of each NPC, monster, place and quest start that names this zone.</p>'
+            '<details><summary>Every waypoint <span class="count">%d</span></summary><div class="tablewrap"><table class="wplist"><thead><tr><th>Name</th><th>Type</th><th>Waypoint</th></tr></thead>'
+            '<tbody>%s</tbody></table></div></details></div>') % (
+        legend, x0, z0, w, h, x0, z0, w, h, r, html.escape(pages[pid]["fm"]["title"]), r * .15, r * 2.2, "".join(grid), "".join(shown),
+        x1 - r * 6, z0 + r * 3.2, r * 2.6, note, len(pins), rows)
 
 GROUPS = [("quest", "Quests that start here"), ("npc", "NPCs"), ("named", "Named monsters"), ("monster", "Monsters"),
           ("poi", "Places"), ("house", "Housing"), ("instance", "Instances")]
@@ -271,7 +338,7 @@ def build_page(pid, p):
               'Licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>.</p>'
               % (s["url"], html.escape(s["title"]), s["revision"], s["revised"][:10], s["history"]))
     crumb = '<a href="#home">Home</a> › %s' % (inline(fm["zone"]) + " › " if fm.get("zone") and kind != "zone" else "") + ('<a href="#browse.%s">%s</a>' % (BROWSE[kind], PLURAL[kind]) if kind in BROWSE else PLURAL.get(kind, "Pages"))
-    main = "\n".join(top) + "\n" + body + (zone_section(pid) if kind in ("zone", "instance", "island") else "")
+    main = "\n".join(top) + "\n" + body + ((zone_map(pid) + zone_section(pid)) if kind in ("zone", "instance", "island") else "")
     html_ = ('<div class="crumbs">%s</div><div class="art-head"><h1>%s</h1><button type="button" class="editbtn" data-edit="%s">Edit this page</button></div>'
              '<div class="%s"><div class="article">%s</div>%s</div>%s') % (
         crumb, html.escape(fm["title"]), pid, ("with-box" if main.strip() else "box-only") if box else "", main, box, credit)

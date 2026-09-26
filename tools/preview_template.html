@@ -151,6 +151,35 @@ td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
 .filter span{font-size:.85rem;color:var(--faint)}
 .npcgrid{columns:3 200px;column-gap:24px;padding:0;list-style:none;font-size:.95rem}
 .npcgrid li{break-inside:avoid;padding:2px 0}
+.wpmap{--quest:var(--red-soft);--npc:var(--gold);--named:#d9822b;--monster:#a8836a;--poi:var(--green-soft);--house:#7fa7c9;margin:0 0 18px}
+.wpmap svg{display:block;width:100%;max-height:75vh;background:var(--surface);border:1px solid var(--line);border-radius:8px;cursor:grab;touch-action:none;user-select:none}
+.wpmap svg.drag{cursor:grabbing}
+.wpgrid line{stroke:var(--line)}
+.wpgrid text{fill:var(--faint);font-family:var(--mono)}
+.wpnorth{fill:var(--muted);font-family:var(--display);font-weight:700}
+.wpin{stroke:var(--ground);cursor:pointer;opacity:.9}
+.wpin:hover,.wpin:focus{opacity:1;stroke:var(--text);outline:none}
+.wpin.done{fill:var(--text)!important}
+.wpbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 8px}
+.wpbar button{font:inherit;font-size:.85rem;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:999px;padding:2px 10px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.wpbar button:hover{border-color:var(--brown)}
+.wpkey i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.wpkey[aria-pressed="false"]{opacity:.45;text-decoration:line-through}
+.wpzoom{margin-left:auto;display:inline-flex;gap:4px}
+.wpzoom button{min-width:32px;justify-content:center}
+.wplist td:nth-child(2){color:var(--muted);font-size:.9rem}
+.wpin[data-k="quest"],.wpkey[data-k="quest"] i{fill:var(--quest);background:var(--quest)}
+.wpin[data-k="npc"],.wpkey[data-k="npc"] i{fill:var(--npc);background:var(--npc)}
+.wpin[data-k="named"],.wpkey[data-k="named"] i{fill:var(--named);background:var(--named)}
+.wpin[data-k="monster"],.wpkey[data-k="monster"] i{fill:var(--monster);background:var(--monster)}
+.wpin[data-k="poi"],.wpkey[data-k="poi"] i{fill:var(--poi);background:var(--poi)}
+.wpin[data-k="house"],.wpkey[data-k="house"] i{fill:var(--house);background:var(--house)}
+.wpmap.no-quest [data-k="quest"]:not(.wpkey){display:none}
+.wpmap.no-npc [data-k="npc"]:not(.wpkey){display:none}
+.wpmap.no-named [data-k="named"]:not(.wpkey){display:none}
+.wpmap.no-monster [data-k="monster"]:not(.wpkey){display:none}
+.wpmap.no-poi [data-k="poi"]:not(.wpkey){display:none}
+.wpmap.no-house [data-k="house"]:not(.wpkey){display:none}
 .filter select{background:var(--surface);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:6px 8px;font:inherit;font-size:.95rem}
 .xgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:14px}
 .xcard{display:grid;gap:2px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--text)}
@@ -388,11 +417,16 @@ main.innerHTML = `<p class="loading">Loading the ledger…</p>`;
 const toast = document.getElementById("toast"); let tt;
 function say(msg){ toast.textContent = msg; toast.hidden = false; clearTimeout(tt); tt = setTimeout(()=>toast.hidden = true, 1800); }
 document.addEventListener("click", async e=>{
-  const b = e.target.closest(".loc");
+  const key = e.target.closest(".wpkey");
+  if (key){ const on = key.getAttribute("aria-pressed") !== "true"; key.setAttribute("aria-pressed", on); key.closest(".wpmap").classList.toggle("no-" + key.dataset.k, !on); return; }
+  const zb = e.target.closest(".wpzoom button");
+  if (zb){ wpZoom(zb.closest(".wpmap").querySelector("svg"), +zb.dataset.z); return; }
+  const b = e.target.closest(".loc, .wpin");
   if (b){
+    if (b.classList.contains("wpin") && wpMoved) return;
     const txt = b.dataset.loc;
     const ok = ()=>{ b.classList.add("done"); setTimeout(()=>b.classList.remove("done"), 1200); say("Copied " + txt + ". Paste it into chat"); };
-    const fallback = ()=>{ const r = document.createRange(); r.selectNodeContents(b); const s = getSelection(); s.removeAllRanges(); s.addRange(r); say("Selected. Press Ctrl+C to copy"); };
+    const fallback = ()=>{ if (b.classList.contains("wpin")) return say(txt); const r = document.createRange(); r.selectNodeContents(b); const s = getSelection(); s.removeAllRanges(); s.addRange(r); say("Selected. Press Ctrl+C to copy"); };
     try { navigator.clipboard.writeText(txt).then(ok, fallback); } catch(_) { fallback(); }
     return;
   }
@@ -415,6 +449,42 @@ document.addEventListener("click", async e=>{
     } catch(_) { document.getElementById("mpath").textContent = "The source file could not be loaded. Close this and try again."; }
   }
 });
+// Waypoint maps: zoom with the wheel or buttons, drag to pan. Pins keep their size on screen.
+let wpMoved = false;
+function wpBox(svg){ return svg.getAttribute("viewBox").split(" ").map(Number); }
+function wpSet(svg, b){
+  const [ox, oy, ow, oh] = svg.dataset.vb.split(" ").map(Number);
+  b[2] = Math.min(ow, Math.max(ow / 40, b[2])); b[3] = b[2] * oh / ow;
+  b[0] = Math.min(ox + ow - b[2], Math.max(ox, b[0])); b[1] = Math.min(oy + oh - b[3], Math.max(oy, b[1]));
+  svg.setAttribute("viewBox", b.join(" "));
+  const r = +svg.dataset.r * Math.pow(b[2] / ow, .8);
+  svg.querySelectorAll(".wpin").forEach(c=>c.setAttribute("r", r.toFixed(2)));
+}
+function wpZoom(svg, f, cx, cy){
+  const b = wpBox(svg);
+  if (!f){ wpSet(svg, svg.dataset.vb.split(" ").map(Number)); return; }
+  if (cx === undefined){ cx = b[0] + b[2] / 2; cy = b[1] + b[3] / 2; }
+  wpSet(svg, [cx - (cx - b[0]) / f, cy - (cy - b[1]) / f, b[2] / f, b[3] / f]);
+}
+function wpPoint(svg, e){ const p = svg.createSVGPoint(); p.x = e.clientX; p.y = e.clientY; return p.matrixTransform(svg.getScreenCTM().inverse()); }
+document.addEventListener("wheel", e=>{
+  const svg = e.target.closest(".wpmap svg"); if (!svg) return;
+  e.preventDefault(); const p = wpPoint(svg, e); wpZoom(svg, e.deltaY < 0 ? 1.25 : 0.8, p.x, p.y);
+}, {passive:false});
+document.addEventListener("pointerdown", e=>{
+  const svg = e.target.closest(".wpmap svg"); if (!svg || e.button) return;
+  wpMoved = false;
+  const start = wpPoint(svg, e), b0 = wpBox(svg), sx = e.clientX, sy = e.clientY;
+  const move = ev=>{
+    if (!wpMoved && Math.hypot(ev.clientX - sx, ev.clientY - sy) < 4) return;
+    wpMoved = true; svg.classList.add("drag"); peek.hidden = true;
+    const k = 1 / svg.getScreenCTM().a;
+    wpSet(svg, [b0[0] - (ev.clientX - sx) * k, b0[1] - (ev.clientY - sy) * k, b0[2], b0[3]]);
+  };
+  const up = ()=>{ svg.classList.remove("drag"); removeEventListener("pointermove", move); removeEventListener("pointerup", up); };
+  addEventListener("pointermove", move); addEventListener("pointerup", up);
+});
+document.addEventListener("keydown", e=>{ if ((e.key === "Enter" || e.key === " ") && e.target.classList?.contains("wpin")){ e.preventDefault(); e.target.dispatchEvent(new MouseEvent("click", {bubbles:true})); } });
 document.getElementById("mclose").onclick = ()=>document.getElementById("modal").hidden = true;
 document.getElementById("modal").addEventListener("click", e=>{ if (e.target.id==="modal") e.currentTarget.hidden = true; });
 document.addEventListener("keydown", e=>{ if (e.key==="Escape") document.getElementById("modal").hidden = true; });
