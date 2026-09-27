@@ -5,7 +5,7 @@ The preview is a single file so it can be shared as one link; the real site will
 Markdown subset: headings, paragraphs, nested lists, pipe tables, blockquotes, <details>, emphasis,
 [[wiki links]], {{waypoint x, y, z}}, [text](url), ![alt](images/...).
 """
-import base64, glob, gzip, html, json, os, re
+import base64, glob, gzip, html, json, os, re, urllib.parse
 import yaml
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
@@ -88,10 +88,19 @@ def inline(s):
     s = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", r'<a href="\2" rel="nofollow noopener" target="_blank">\1</a>', s)
     return emph(s)
 
+# Pictures shrunk for the site by tools/web_pictures.py live in images/w/<File_name>.webp (unpacked by the Pages build);
+# the icons are images/Item_N.png and images/Spell_N.png. Pages without a matching file show no picture.
+PICS = {}
+for _d in (os.path.join(ROOT, "images", "w"), os.path.join(OUT, "site", "images", "w")):
+    if os.path.isdir(_d): PICS.update({f[:-5].lower(): f for f in os.listdir(_d) if f.endswith(".webp")})
+CUR_TITLE = ""          # the page being built, for {{PAGENAME}} left in picture names
+
 def img(src, alt):
-    # Images are not imported yet; show nothing until they are.
     if any(os.path.exists(os.path.join(d, src)) for d in (ROOT, os.path.join(OUT, "site"))):
         return '<img src="%s" alt="%s" loading="lazy">' % (src, alt)
+    name = re.sub(r"^(?:File|Image):", "", urllib.parse.unquote(src[len("images/"):]).replace(" ", "_"), flags=re.I)
+    f = PICS.get(name.replace("{{PAGENAME}}", CUR_TITLE.replace(" ", "_")).lower())
+    if f: return '<img src="images/w/%s" alt="%s" loading="lazy">' % (urllib.parse.quote(f), alt)
     return ""
 
 # ---------------------------------------------------------------- blocks
@@ -329,7 +338,9 @@ def collection_section(pid, pieces):
             '<a href="#collections">collections tracker</a>.</p><ul class="pieces">%s</ul></section>') % (html.escape(pid), len(rows), items)
 
 def build_page(pid, p):
+    global CUR_TITLE
     fm, kind = p["fm"], p["fm"]["type"]
+    CUR_TITLE = fm["title"]
     rows = []
     for k, label in FIELDS.get(kind, [(k, k.replace("_", " ").capitalize()) for k in fm if k not in
                                       ("title", "type", "aliases", "categories", "source", "image", "image_caption")]):
@@ -339,7 +350,10 @@ def build_page(pid, p):
         rows = [r.replace("<dt>Release</dt><dd>%s</dd>" % fval(fm["expansion"]),
                           "<dt>Release</dt><dd>%s <small>(estimated from its level)</small></dd>" % fval(fm["expansion"])) for r in rows]
     icon = img(fm["icon"], "") if fm.get("icon") else ""
-    box = '<aside class="infobox"><header>%s%s</header><dl>%s</dl></aside>' % (icon, TYPE_LABEL.get(kind, "Page"), "".join(rows)) if rows else ""
+    pic = img(fm["image"], html.escape(fm["title"])) if isinstance(fm.get("image"), str) else ""
+    if pic and fm.get("image_caption"): pic += "<figcaption>%s</figcaption>" % inline(str(fm["image_caption"]))
+    pic = '<figure class="boxpic">%s</figure>' % pic if pic else ""
+    box = '<aside class="infobox"><header>%s%s</header>%s<dl>%s</dl></aside>' % (icon, TYPE_LABEL.get(kind, "Page"), pic, "".join(rows)) if rows or pic else ""
     top = []
     if fm.get("removed_from_game"):
         note = fm["removed_from_game"]
