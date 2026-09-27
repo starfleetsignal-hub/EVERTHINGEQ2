@@ -11,6 +11,7 @@
   --green:#6f9a55; --green-soft:#9cc47f; --green-ink:#0f1a0a;
   --brown:#8a5a36; --gold:#d2a85a;
   --shadow:0 10px 30px rgba(0,0,0,.35);
+  --veil:rgba(20,13,9,.45);
   --display:"Alegreya SC", "Palatino Linotype", Palatino, Georgia, serif;
   --body:"Alegreya Sans", "Gill Sans", "Segoe UI", system-ui, sans-serif;
   --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
@@ -24,6 +25,7 @@
     --green:#3f6e2c; --green-soft:#3f6e2c; --green-ink:#f4fbef;
     --brown:#7a4b2a; --gold:#8e6a22;
     --shadow:0 8px 24px rgba(74,45,20,.14);
+    --veil:rgba(241,232,220,.35);
   }
 }
 :root[data-theme="light"]{
@@ -34,10 +36,18 @@
   --green:#3f6e2c; --green-soft:#3f6e2c; --green-ink:#f4fbef;
   --brown:#7a4b2a; --gold:#8e6a22;
   --shadow:0 8px 24px rgba(74,45,20,.14);
+  --veil:rgba(241,232,220,.35);
 }
 *{box-sizing:border-box}
 [hidden]{display:none!important}
 body{background:var(--ground);color:var(--text);font:17px/1.55 var(--body);}
+/* Scene from the latest expansion behind the pages (Gerion, Hold of D'Lere, Rage of Cthurath), veiled so text stays readable */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(var(--veil),var(--veil)),url(images/bg/roc-gerion.webp) center/cover no-repeat}
+@media (max-width:900px){body::before{background-image:linear-gradient(var(--veil),var(--veil)),url(images/bg/roc-gerion-small.webp)}}
+.shell,footer.site{background:color-mix(in srgb, var(--ground) 93%, transparent);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);box-shadow:var(--shadow)}
+.shell{border-radius:0 0 12px 12px;margin-bottom:18px}
+footer.site{border-radius:12px;margin-bottom:24px;border-top:0}
+footer.site .bgcredit{font-size:.78rem}
 a{color:var(--red-soft);text-decoration:underline;text-decoration-color:color-mix(in srgb, var(--red-soft) 40%, transparent);text-underline-offset:3px}
 a:hover{text-decoration-color:currentColor}
 a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:3px}
@@ -310,6 +320,7 @@ footer.site p{max-width:none}
 
 <footer class="site">
   <p>Page text is adapted from the EverQuest II Wiki on Fandom under CC BY-SA 3.0; each page credits its source article and links to its edit history. EverQuest II is a trademark of Daybreak Game Company; this site is a fan reference.</p>
+  <p class="bgcredit">Background: <a href="https://eq2.fandom.com/wiki/File:Gerion,_Hold_of_D%27Lere.png" rel="nofollow noopener" target="_blank">Gerion, Hold of D'Lere</a> (Rage of Cthurath), a screenshot by Kyrros on the EverQuest II Wiki, CC BY-SA 3.0.</p>
   <p id="donatenote" hidden>This site is free and ad-free. If it helps you, you can <a id="donatelink" href="#" target="_blank" rel="noopener">chip in toward hosting</a>.</p>
 </footer>
 
