@@ -11,6 +11,21 @@ aliases:
 - Pawn Chess Piece
 - Queen Chess Piece
 - Rook Chess Piece
+zone: '[[Butcherblock Mountains]]'
+collection_type: Hidden
+pieces:
+- name: bishop chess piece
+  icon: images/Item_3182.png
+- name: king chess piece
+  icon: images/Item_3182.png
+- name: knight chess piece
+  icon: images/Item_3182.png
+- name: pawn chess piece
+  icon: images/Item_3182.png
+- name: queen chess piece
+  icon: images/Item_3182.png
+- name: rook chess piece
+  icon: images/Item_3182.png
 categories:
 - Butcherblock Mountains (CQ Category)
 - Butcherblock Mountains Collection Quests
@@ -33,4 +48,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Butcherblock Chess Table]]

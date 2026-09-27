@@ -5,6 +5,38 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Thullosian Tribal Idols'
+zone: '[[Moors of Ykesha]]'
+pieces:
+- name: Idol of Wrok
+  icon: images/Item_1214.png
+- name: Idol of Brokk
+  icon: images/Item_1214.png
+- name: Idol of Cralk
+  icon: images/Item_1214.png
+- name: Idol of Druk
+  icon: images/Item_1214.png
+- name: Idol of Crilt
+  icon: images/Item_1214.png
+- name: Idol of Gronk
+  icon: images/Item_1214.png
+- name: Idol of Scaar
+  icon: images/Item_1214.png
+- name: Idol of Skong
+  icon: images/Item_1214.png
+- name: Idol of Barsk
+  icon: images/Item_1214.png
+- name: Idol of Bordag
+  icon: images/Item_1214.png
+- name: Idol of Trusk
+  icon: images/Item_1214.png
+- name: Idol of Ungral
+  icon: images/Item_1214.png
+- name: Idol of Varrok
+  icon: images/Item_1214.png
+- name: Idol of Zarg
+  icon: images/Item_1214.png
+- name: Idol of Lork
+  icon: images/Item_1214.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +57,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Greenmist Residue Belt]]
+  - [[Thullosian Ritual Idol]]

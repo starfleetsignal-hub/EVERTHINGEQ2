@@ -3,6 +3,18 @@ title: Brilliant Dust
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Solo)]]'
+pieces:
+- name: Brilliant Beryl Dust
+  icon: images/Item_4945.png
+- name: Brilliant Crimson Dust
+  icon: images/Item_4947.png
+- name: Brilliant Azure Dust
+  icon: images/Item_4944.png
+- name: Brilliant Flaxen Dust
+  icon: images/Item_4946.png
+- name: Brilliant Violet Dust
+  icon: images/Item_4948.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A strange aquamarine crystal]]
+- [[Gooey Corpse Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

@@ -6,6 +6,14 @@ added_in: Shattered Lands
 aliases:
 - 'Coin: Grobb Coins'
 - 'Coin: Grobb coins collection'
+zone: '[[Fallen Gate]]'
+pieces:
+- name: platinum molar coin of grobb
+  icon: images/Item_1775.png
+- name: gold molar coin of grobb
+  icon: images/Item_1771.png
+- name: silver molar coin of grobb
+  icon: images/Item_1769.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -26,4 +34,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Grobb Scroll]]

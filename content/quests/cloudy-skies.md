@@ -4,6 +4,19 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Aerial
+pieces:
+- name: Sigil of Storms
+  icon: images/Item_1295.png
+- name: Sigil of Lightning
+  icon: images/Item_1299.png
+- name: Cloudburst Sigil
+  icon: images/Item_1300.png
+- name: Whirlwind Sigil
+  icon: images/Item_1294.png
+- name: Sigil of Thunder
+  icon: images/Item_1298.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,9 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- one of the following:
+  - [[Highpass Plate Bracers]]
+  - [[Vesspyr Workman's Red Sleeves]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Silver Blade
+  icon: images/Item_2264.png
+- name: Heated Knife
+  icon: images/Item_2259.png
+- name: Fiery Sword
+  icon: images/Item_2260.png
+- name: Gleaming Mace
+  icon: images/Item_2261.png
+- name: Mithril Bladed Shield
+  icon: images/Item_2272.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Peeled Off Flesh]] this item is needed for the collection: [[Malevolor Trophies]]

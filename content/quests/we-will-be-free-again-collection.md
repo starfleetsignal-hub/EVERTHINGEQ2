@@ -4,6 +4,31 @@ type: quest
 level: '70'
 in_game_name: We Will Be Free Again
 added_in: Rise of Kunark
+zone: '[[Kunzar Jungle]]'
+collection_type: Pages
+pieces:
+- name: We Will Be Free Again - Page 2
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 3
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 4
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 5
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 6
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 7
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 8
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 9
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 10
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 11
+  icon: images/Item_2180.png
+- name: We Will Be Free Again - Page 12
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +49,6 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[We Will Be Free Again (Item)|We Will Be Free Again]]

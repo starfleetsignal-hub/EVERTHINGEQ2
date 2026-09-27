@@ -4,6 +4,24 @@ type: quest
 level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 added_in: LU109
+pieces:
+- name: Red Stuffed Monkey
+  icon: images/Item_2753.png
+- name: Sandy Stuffed Monkey
+  icon: images/Item_2754.png
+- name: Brown Stuffed Monkey
+  icon: images/Item_2755.png
+- name: Yellowed Stuffed Monkey
+  icon: images/Item_2756.png
+- name: White Stuffed Monkey
+  icon: images/Item_2757.png
+  note: no-trade
+- name: Black Stuffed Monkey
+  icon: images/Item_2758.png
+- name: Maroon Stuffed Monkey
+  icon: images/Item_2759.png
+- name: Gray Stuffed Monkey
+  icon: images/Item_2760.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +43,7 @@ expansion: Chaos Descending
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Bristlebane's Stuffed Tabby]] this item is needed for the collection: [[Bristlebane's Personal Effects]]
+- [[The Grand Jester's Crossbow]]

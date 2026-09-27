@@ -5,6 +5,22 @@ level: '95'
 added_in: LU67
 aliases:
 - Creature Catalog Tags
+zone: '[[The Fabled Clefts of Rujark]]'
+pieces:
+- name: 'Catalogued Creature Tag: Deathfist Orc'
+  icon: images/Item_1234.png
+- name: 'Catalogued Creature Tag: Mummy'
+  icon: images/Item_1235.png
+- name: 'Catalogued Creature Tag: Djinn'
+  icon: images/Item_1236.png
+- name: 'Catalogued Creature Tag: Naga'
+  icon: images/Item_1237.png
+- name: 'Catalogued Creature Tag: Harpy'
+  icon: images/Item_1238.png
+- name: 'Catalogued Creature Tag: Cyclops'
+  icon: images/Item_1239.png
+- name: 'Catalogued Creature Tag: Efreeti'
+  icon: images/Item_1240.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +41,9 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Harpy's Talon]]
+  - [[Efreet's Wand]]
+  - [[Naga's Sting]]

@@ -3,6 +3,20 @@ title: Scourge Dice
 type: quest
 level: '100'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]]'
+pieces:
+- name: Yellowed Bone Dice
+  icon: images/Item_1225.png
+- name: Bloody Bone Dice
+  icon: images/Item_1225.png
+- name: Warboar Bone Dice
+  icon: images/Item_1225.png
+- name: Treant Bark Dice
+  icon: images/Item_1225.png
+- name: Carved Stone Dice
+  icon: images/Item_1225.png
+- name: Bear Bone Dice
+  icon: images/Item_1225.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +36,11 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Leather Tallonite Sash of War]] this item is needed for the collection: [[Tallonite Sashes]]
+- one of the following:
+  - [[Yellowed Bone Dagger]]
+  - [[Bone-Handled Greathammer]]
+  - [[Bone-Handled Greataxe]]
+  - [[Bone-Handeled Greatclub]]

@@ -5,6 +5,25 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Cannot Build with These Nails
 added_in: LU122
+zone: '[[Raj''Dur Plateaus]]'
+collection_type: Red
+pieces:
+- name: Hangnail
+  icon: images/Item_707.png
+- name: Cracked Fingernail
+  icon: images/Item_707.png
+- name: Ingrown Toenail
+  icon: images/Item_707.png
+- name: Nailed the Landing
+  icon: images/Item_707.png
+- name: Hit the Nail on the Head
+  icon: images/Item_707.png
+- name: Fight Tooth and Nail
+  icon: images/Item_707.png
+- name: Nail Biter
+  icon: images/Item_707.png
+- name: Hard as Nails
+  icon: images/Item_707.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,7 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Nail-Filled Chair]] - House Item
+- [[Cannot Build with These Nails (Collection Item)|Cannot Build with These Nails]] this item is needed for the collection: [[A Plethora of Nails]]

@@ -5,6 +5,19 @@ level: '65'
 added_in: Kingdom of Sky
 aliases:
 - 'Scales: Basilisk Scales'
+zone: '[[The Barren Sky]]'
+collection_type: Shiny
+pieces:
+- name: broken basilisk scale
+  icon: images/Item_2007.png
+- name: decaying basilisk scale
+  icon: images/Item_2007.png
+- name: pristine basilisk scale
+  icon: images/Item_2007.png
+- name: shining basilisk scale
+  icon: images/Item_2007.png
+- name: tarnished basilisk scale
+  icon: images/Item_2007.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A tiny magical stuffed hawk plushie]]

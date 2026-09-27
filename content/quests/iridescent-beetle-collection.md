@@ -7,6 +7,19 @@ added_in: Shattered Lands
 aliases:
 - 'Beetle: Iridescent Beetle Collection'
 - 'Beetle: iridescent beetle collection'
+zone: '[[The Ruins of Varsoon]], [[Nektropos Castle]], [[The Wailing Caves]]'
+collection_type: Shiny
+pieces:
+- name: iridescent blue beetle
+  icon: images/Item_1820.png
+- name: iridescent green beetle
+  icon: images/Item_1821.png
+- name: iridescent indigo beetle
+  icon: images/Item_1823.png
+- name: iridescent orange beetle
+  icon: images/Item_1824.png
+- name: iridescent violet beetle
+  icon: images/Item_1822.png
 categories:
 - Beetle (CQ Category)
 - Census Credits
@@ -29,4 +42,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- At least 57s

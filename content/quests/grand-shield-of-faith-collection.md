@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Grand Shield of Faith
 added_in: Reign of Shadows
+pieces:
+- name: Royal Forged Acrylia Steel
+  icon: images/Item_731.png
+- name: Polished Silver Grommets
+  icon: images/Item_1010.png
+- name: Song of Faith
+  icon: images/Item_75.png
+- name: Shadeweaver Hide Straps
+  icon: images/Item_98.png
+- name: Form of Truth
+  icon: images/Item_969.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Grand Shield of Faith (Collection Item)|Grand Shield of Faith]] this item is needed for the collection: [[Dangers of the Darkside]]
+- [[Grand Shield of Faith (Shield)|Grand Shield of Faith]]

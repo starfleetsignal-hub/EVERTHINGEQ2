@@ -3,6 +3,20 @@ title: Codices of the Unknown
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Molderbeard's Codex of Growth
+  icon: images/Item_5633.png
+- name: Derlak's Codex of Treachery
+  icon: images/Item_5633.png
+- name: Dennigrah's Codex of Fire
+  icon: images/Item_5633.png
+  note: no-trade
+- name: Sinferzall's Codex of Rumination
+  icon: images/Item_5633.png
+- name: Scaladia's Codex of Enticement
+  icon: images/Item_5633.png
+- name: Carnagor's Codex of Carnage
+  icon: images/Item_5633.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Riftcloth Gloves]]
+- [[Fragment of Collected Void]]
+- [[Head Crusher]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

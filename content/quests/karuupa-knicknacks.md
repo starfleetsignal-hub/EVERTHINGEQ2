@@ -4,6 +4,29 @@ type: quest
 level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: LU119
+zone: '[[Karuupa Jungle]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Yellow Toque
+  icon: images/Item_2685.png
+- name: Deino Saddle
+  icon: images/Item_4826.png
+- name: Sandcast Deino Print
+  icon: images/Item_4298.png
+- name: Mibb's Blanket
+  icon: images/Item_1096.png
+- name: Fivalt's Secret Ingredients
+  icon: images/Item_185.png
+- name: Mysterious Milk
+  icon: images/Item_1216.png
+- name: Colorful Plumedrake Feather
+  icon: images/Item_148.png
+- name: Broken Deino Reins
+  icon: images/Item_4828.png
+- name: Leaves from a Floramyst
+  icon: images/Item_2091.png
+- name: Discarded Deino Quill
+  icon: images/Item_155.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +50,6 @@ expansion: Visions of Vetrovia
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Stack of Karuupa Cages]]

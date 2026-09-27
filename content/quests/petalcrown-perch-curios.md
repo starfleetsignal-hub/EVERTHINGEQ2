@@ -4,6 +4,20 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Splendor Sky Aerie]]'
+pieces:
+- name: Sang'Huuu Halberd
+  icon: images/Item_665.png
+- name: Sang'Huuu Hammer
+  icon: images/Item_637.png
+- name: Sang'Huuu Hammock
+  icon: images/Item_736.png
+- name: Sang'Huuu Hoe
+  icon: images/Item_2326.png
+- name: Sang'Huuu Hacksaw
+  icon: images/Item_630.png
+- name: Sang'Huuu Horn
+  icon: images/Item_1219.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Ballads of Zimara Collection Quests
@@ -26,4 +40,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Violet Crested Pillow]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[Brown Hooluk Feather]] this item is needed for the collection: [[Feathers From the Aerie]]

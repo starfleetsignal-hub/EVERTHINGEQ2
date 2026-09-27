@@ -3,6 +3,19 @@ title: Basalt Artifacts
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Jagged Basalt Shard
+  icon: images/Item_3838.png
+- name: Vesicular Basalt Fragment
+  icon: images/Item_2527.png
+- name: Columnar Basalt Plate
+  icon: images/Item_2519.png
+- name: Tholeiitic Basalt Nugget
+  icon: images/Item_3836.png
+- name: Akali Basalt Round
+  icon: images/Item_2918.png
+- name: Perfect Basalt Stele
+  icon: images/Item_4696.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Blightmetal Stalker]]
+- [[Fragment of Collected Ballads (Treasured) (Version 1)|Fragment of Collected Ballads]]
+- [[Yazdani Claves]] this item is needed for the collection: [[Overrealm Percussion]]

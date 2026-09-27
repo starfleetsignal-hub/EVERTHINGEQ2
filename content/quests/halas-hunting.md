@@ -3,6 +3,20 @@ title: Halas Hunting
 type: quest
 level: '80'
 added_in: LU56
+zone: '[[Frostfang Sea]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: bear trap
+  page: Bear trap (Halas Hunting)
+  icon: images/Item_1051.png
+- name: bear-hunting spear
+  icon: images/Item_1683.png
+- name: bear-skinning knife
+  icon: images/Item_609.png
+- name: bear pelt cleaner
+  icon: images/Item_1084.png
+- name: bear-hunting cap
+  icon: images/Item_220.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,6 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Halas Blizzard Grizzly Trophy]]

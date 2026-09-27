@@ -3,6 +3,20 @@ title: Gems of the Crystal Caverns
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Crystal Caverns: Collapse]]'
+pieces:
+- name: Crystal Ball of Velium
+  icon: images/Item_146.png
+- name: Blue Flecked Crystal
+  icon: images/Item_1143.png
+- name: Purple Flecked Crystal
+  icon: images/Item_1187.png
+- name: Green Flecked Crystal
+  icon: images/Item_1163.png
+- name: Stained Velium Ruby
+  icon: images/Item_1151.png
+- name: Prismatic Crystal Shard
+  icon: images/Item_2940.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +39,8 @@ expansion_source: patch
 ---
 
 Collection members only drop off [[The Gem Collector]]
+
+## Rewards
+
+- [[Form of the Life Leech]]
+- [[Primal Velium Shard (Currency)|Primal Velium Shard]]

@@ -5,6 +5,30 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Butcherblock Mountains]]'
+collection_type: Year of Discovery
+pieces:
+- name: black ghostly essence
+  page: Black ghostly essence (Fabled Ghostly Essences)
+  icon: images/Item_2512.png
+- name: blue ghostly essence
+  page: Blue ghostly essence (Fabled Ghostly Essences)
+  icon: images/Item_2514.png
+- name: bright ghostly essence
+  page: Bright ghostly essence (Fabled Ghostly Essences)
+  icon: images/Item_2515.png
+- name: brilliant ghostly essence
+  page: Brilliant ghostly essence (Fabled Ghostly Essences)
+  icon: images/Item_2510.png
+- name: dim ghostly essence
+  page: Dim ghostly essence (Fabled Ghostly Essences)
+  icon: images/Item_2516.png
+- name: red ghostly essence
+  page: Red ghostly essence (Fabled Ghostly Essences)
+  icon: images/Item_2509.png
+- name: white ghostly essence
+  page: White ghostly essence (Fabled Ghostly Essences)
+  icon: images/Item_2511.png
 categories:
 - Ballads of Zimara Collection Quests
 - Butcherblock Mountains Collection Quests
@@ -26,4 +50,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

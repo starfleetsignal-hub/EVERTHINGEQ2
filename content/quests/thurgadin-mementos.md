@@ -3,6 +3,19 @@ title: Thurgadin Mementos
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Thurgadin, City of the Coldain]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Corroded Plate Pattern
+  icon: images/Item_751.png
+- name: Weary Wrasse
+  icon: images/Item_2546.png
+- name: Holgresh Fur Cloak
+  icon: images/Item_1233.png
+- name: Doogle's Spiced Rum
+  icon: images/Item_311.png
+- name: Drakkel Wolf Whisker
+  icon: images/Item_97.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,6 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Thurgadin Mystic Magefire]]

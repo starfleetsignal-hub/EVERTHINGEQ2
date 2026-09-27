@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Yellow Goblin Circlet
+  icon: images/Item_604.png
+- name: Blue Goblin Circlet
+  icon: images/Item_605.png
+- name: Red Goblin Circlet
+  icon: images/Item_606.png
+- name: Purple Goblin Circlet
+  icon: images/Item_607.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,8 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Goblin Rock]] this item is needed for the collection: [[Ground Treasures]]
+- [[Vesspyr Workman's Red Elaborate Mantle]]

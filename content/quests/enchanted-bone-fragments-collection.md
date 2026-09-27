@@ -7,6 +7,46 @@ added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: enchanted bone fragments collection'
 - Enchanted Bone Fragments
+zone: '[[Everfrost]]'
+collection_type: Shiny
+pieces:
+- name: enchanted barbarian bone fragment
+  icon: images/Item_322.png
+- name: enchanted high elf bone fragment
+  icon: images/Item_322.png
+- name: enchanted human bone fragment
+  icon: images/Item_322.png
+- name: enchanted iksar bone fragment
+  icon: images/Item_322.png
+- name: enchanted kerra bone fragment
+  icon: images/Item_322.png
+- name: enchanted ogre bone fragment
+  icon: images/Item_322.png
+- name: enchanted orc bone fragment
+  icon: images/Item_322.png
+- name: enchanted ratonga bone fragment
+  icon: images/Item_322.png
+- name: enchanted troll bone fragment
+  icon: images/Item_322.png
+- name: enchanted wood elf bone fragment
+  icon: images/Item_322.png
+- name: enchanted dark elf bone fragment
+  icon: images/Item_322.png
+- name: enchanted dwarf bone fragment
+  icon: images/Item_322.png
+- name: enchanted erudite bone fragment
+  icon: images/Item_322.png
+- name: enchanted froglok bone fragment
+  icon: images/Item_322.png
+- name: enchanted gnoll bone fragment
+  page: Enchanted gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: enchanted gnome bone fragment
+  icon: images/Item_322.png
+- name: enchanted half elf bone fragment
+  icon: images/Item_322.png
+- name: enchanted halfling bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -27,4 +67,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Enchanted Bone Necklace]]

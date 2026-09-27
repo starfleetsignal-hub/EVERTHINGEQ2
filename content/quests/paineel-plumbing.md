@@ -3,6 +3,22 @@ title: Paineel Plumbing
 type: quest
 level: '80'
 added_in: LU56
+zone: '[[The Sundered Frontier]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: a broken faucet
+  icon: images/Item_989.png
+- name: a broken tap
+  icon: images/Item_1025.png
+- name: a broken pipe
+  page: A broken pipe (antique plumbing component)
+  icon: images/Item_1031.png
+- name: a broken drain
+  icon: images/Item_950.png
+- name: a broken piece of enamel
+  icon: images/Item_731.png
+- name: a broken metal foot
+  icon: images/Item_666.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +43,7 @@ expansion_source: patch
 ---
 
 All collection members can be found within [[The City of Paineel]].
+
+## Rewards
+
+- [[An empty Paineel bath]]

@@ -7,6 +7,19 @@ in_game_name: Ivory-Hilted Cleaver
 added_in: Chaos Descending
 aliases:
 - Ivory Hilted Cleaver (Collection)
+zone: '[[Eryslai: The Bixel Hive (Solo)]], [[Eryslai: The Midnight Aerie (Solo)]], [[Eryslai: Trials of Air (Solo)]]'
+collection_type: Cda
+pieces:
+- name: Eryslai Cleaver
+  icon: images/Item_22.png
+- name: Hymn of Wrath
+  icon: images/Item_75.png
+- name: Stamp of Poison
+  icon: images/Item_1761.png
+- name: Ink of Wind
+  icon: images/Item_3054.png
+- name: Signet of Ivory
+  icon: images/Item_1775.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -29,4 +42,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ivory-Hilted Cleaver (Collection Item)|Ivory-Hilted Cleaver]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]
+- [[Ivory-Hilted Cleaver (Weapon)|Ivory-Hilted Cleaver]]

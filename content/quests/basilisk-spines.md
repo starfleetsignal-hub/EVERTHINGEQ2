@@ -5,6 +5,17 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Spines: Basilisk Spines'
+zone: '[[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: broken basilisk spine
+  icon: images/Item_137.png
+- name: chipped basilisk spine
+  icon: images/Item_137.png
+- name: sharp basilisk spine
+  icon: images/Item_137.png
+- name: worn basilisk spine
+  icon: images/Item_137.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,8 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Gorg-bone Ring]]
+  - [[Gorg-spine Band]]

@@ -5,6 +5,15 @@ level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 in_game_name: Birds of a Feather
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Seagull Feather
+  icon: images/Item_155.png
+- name: Dove Feather
+  icon: images/Item_154.png
+- name: Blue Banded Eagle Feather
+  icon: images/Item_156.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +36,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Flying Feathers (Item)|Flying Feathers]] this item is needed for the collection: [[Entertaining Dinner]]
+- one of the following:
+  - [[Vesspyr Scholar's Green Boots]]
+  - [[Vesspyr Warrior's Elaborate Iron Barbute]]
+  - [[Ethernere Armorbreak]]

@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 added_in: Terrors of Thalumbra
+zone: '[[Kralet Penumbra (Contested)]]'
+pieces:
+- name: Charm of Flensing
+  icon: images/Item_1037.png
+- name: Charm of Stalking
+  icon: images/Item_2788.png
+- name: Charm of Weaving
+  icon: images/Item_741.png
+- name: Charm of Deception
+  icon: images/Item_2249.png
+- name: Charm of Mindcalling
+  icon: images/Item_2228.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,11 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Memory of Wrath]] this item is needed for the collection: [[Memories of Kralet]]
+- one of the following:
+  - [[Gilded Aphotic Linked Coif]]
+  - [[Gilded Intrusive Stitched Hood]]
+  - [[Gilded Intrusive Tanned Cap]]
+  - [[Gilded Intrusive Polished Helm]]

@@ -3,6 +3,18 @@ title: Voidstones
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Fragment of Voidstone
+  icon: images/Item_3773.png
+- name: Cracked Voidstone Slab
+  icon: images/Item_3771.png
+- name: Glowing Voidstone Core
+  icon: images/Item_3778.png
+- name: Warped Voidstone Orb
+  icon: images/Item_5696.png
+- name: Veiled Voidstone Shard
+  icon: images/Item_3773.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Embelished Splendid Chain Boots]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Kromzek Signet of War]] this item is needed for the collection: [[Blood and Abandonment (Collection)|Blood and Abandonment]]

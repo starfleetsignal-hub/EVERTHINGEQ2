@@ -5,6 +5,20 @@ level: '50'
 added_in: LU53
 events:
 - Heroes' Festival
+zone: '[[Kylong Plains]]'
+collection_type: Purple
+pieces:
+- name: Blackshield Rune
+  icon: images/Item_1799.png
+- name: Bellywhumper Rune
+  icon: images/Item_1375.png
+- name: Ring of Scale Rune
+  icon: images/Item_1374.png
+  note: Received as a reward for defeating the puppet version of [[Trakanon (Heroes' Festival)|Trakanon]]
+- name: Swifttail Rune
+  icon: images/Item_1332.png
+- name: Sel'Nok Rune
+  icon: images/Item_1377.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Stonewood Sokokar (Mount)|Stonewood Sokokar]]

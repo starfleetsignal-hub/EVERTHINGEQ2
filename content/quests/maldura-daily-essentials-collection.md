@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Maldura Daily Essentials
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]], [[Maldura]]'
+pieces:
+- name: Maldura Spelunking Kit
+  icon: images/Item_396.png
+- name: Maldura Merchant's Logbook
+  icon: images/Item_719.png
+- name: Maldura Guard Insignia
+  icon: images/Item_1278.png
+- name: Maldura Ale Stein
+  icon: images/Item_3196.png
+- name: Maldura Travel Lamp
+  icon: images/Item_2577.png
+- name: Maldura Mushroom Stew
+  icon: images/Item_294.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +41,7 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Maldura Daily Essentials (Achievement)]] with [[Blemished Banner of Thalumbra]] needed for the [[Banners of Thalumbra]] collection.
+- [[Recharged Travel Lamp]]

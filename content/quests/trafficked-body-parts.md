@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Solo)]]'
+pieces:
+- name: Severed Dwarf Foot
+  icon: images/Item_2680.png
+- name: Severed Fae Limb
+  icon: images/Item_87.png
+- name: Severed Froglock Torso
+  icon: images/Item_158.png
+- name: Severed Halfling Hand
+  icon: images/Item_87.png
+- name: Severed High Elf Head
+  icon: images/Item_2472.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Merchant's Shoes of Ability]]
+- [[Pretend Primal Velium Shard]] this item is needed for the collection: [[Counterfeit Coins]]

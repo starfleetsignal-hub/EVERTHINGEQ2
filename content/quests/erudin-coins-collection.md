@@ -5,6 +5,14 @@ level: '15'
 added_in: Shattered Lands
 aliases:
 - 'Coin: Erudin coins collection'
+zone: '[[The Forest Ruins]], [[Antonica]]'
+pieces:
+- name: red glass coin of erudin
+  icon: images/Item_1374.png
+- name: clear glass coin of erudin
+  icon: images/Item_1369.png
+- name: black glass coin of erudin
+  icon: images/Item_1376.png
 categories:
 - Antonica Collection Quests
 - Census Credits
@@ -26,4 +34,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Erudin Scroll]]

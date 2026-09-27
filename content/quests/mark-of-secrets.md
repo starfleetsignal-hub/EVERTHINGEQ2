@@ -2,6 +2,24 @@
 title: Mark of Secrets
 type: quest
 level: '120'
+pieces:
+- name: Mask of Murmered Secrets
+  icon: images/Item_468.png
+- name: Cloak of Whispered Secrets
+  icon: images/Item_237.png
+- name: Orb of Hinted Secrets
+  icon: images/Item_352.png
+- name: Silver Band of Secrets
+  icon: images/Item_596.png
+- name: Tome of Idle Secrets
+  icon: images/Item_717.png
+- name: Wristband of Empty Secrets
+  icon: images/Item_1455.png
+  note: no-trade
+- name: Cuirass of Hollow Secrets
+  icon: images/Item_1712.png
+- name: Robe of Muttered Secrets
+  icon: images/Item_2444.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Torque of Shadowed Secrets]]
+- Mark of Secrets this item is needed for the collection: [[Mark of Judgment]]

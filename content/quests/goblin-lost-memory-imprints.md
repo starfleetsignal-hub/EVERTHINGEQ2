@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+pieces:
+- name: Goblin Lost Envoy Package
+  icon: images/Item_3155.png
+- name: Goblin Lost Mark of Merging
+  icon: images/Item_2236.png
+- name: Goblin Lost Mountain Stone
+  icon: images/Item_2935.png
+- name: Goblin Lost Negotiation Note
+  icon: images/Item_2181.png
+- name: Goblin Lost Peace Offering
+  icon: images/Item_2184.png
+- name: Goblin Lost Traded Toe
+  icon: images/Item_3783.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Forgotten Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Reflection Quashing Staff]]
+  - [[Palliative Remembrance Focus]]

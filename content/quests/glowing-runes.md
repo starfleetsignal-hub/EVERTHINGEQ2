@@ -3,6 +3,19 @@ title: Glowing Runes
 type: quest
 level: '90'
 added_in: LU61
+zone: '[[Silent City: The Delving Dead]]'
+collection_type: Shiny
+pieces:
+- name: Glowing Rune of Ka'Nder
+  icon: images/Item_3817.png
+- name: Glowing Rune of Yuex
+  icon: images/Item_3816.png
+- name: Glowing Rune of Uzu
+  icon: images/Item_3819.png
+- name: Glowing Rune of Seht
+  icon: images/Item_3819.png
+- name: Glowing Rune of Myr
+  icon: images/Item_3819.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A ghostly visitant]]
+- [[Burial Mask of Amenophas]] this item is needed for the collection: [[Shards of Amenophas]]

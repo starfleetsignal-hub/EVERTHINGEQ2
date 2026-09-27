@@ -2,6 +2,19 @@
 title: Sporist Relics
 type: quest
 level: '10'
+pieces:
+- name: Icon of Utricle
+  icon: images/Item_5798.png
+- name: Icon of Vacuole
+  icon: images/Item_5799.png
+- name: Icon of Cellule
+  icon: images/Item_5800.png
+- name: Icon of Haematid
+  icon: images/Item_5797.png
+- name: Icon of Follicle
+  icon: images/Item_5799.png
+- name: Icon of Seed
+  icon: images/Item_5799.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Sang'Huuu Mage]]
+- [[Phantom Talisman]] this item is needed for the collection: [[Underpaw Talisman]]

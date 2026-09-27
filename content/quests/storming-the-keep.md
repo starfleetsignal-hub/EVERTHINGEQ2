@@ -4,6 +4,23 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[High Keep: The Bloodless Incursion (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Charred Wooden Club
+  icon: images/Item_200.png
+- name: Enchanted Goblin Belt
+  icon: images/Item_757.png
+- name: Goblin Makeshift Bow
+  icon: images/Item_9.png
+- name: Goblin Trinket
+  icon: images/Item_2256.png
+- name: Iron Jail Key
+  icon: images/Item_2178.png
+- name: Stingers
+  icon: images/Item_112.png
+- name: Wicked Goblin Blade
+  icon: images/Item_5.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +43,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Book of Goblin Ramblings]] this item is needed for the collection: [[The Coercer's Guise]]

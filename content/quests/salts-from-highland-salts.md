@@ -3,6 +3,18 @@ title: Salts from Highland Salts
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[The Sundered Frontier]]'
+pieces:
+- name: chunk of grey salt
+  icon: images/Item_3488.png
+- name: chunk of pink salt
+  icon: images/Item_3487.png
+- name: chunk of red salt
+  icon: images/Item_3026.png
+- name: chunk of black salt
+  icon: images/Item_3490.png
+- name: chunk of coarse salt
+  icon: images/Item_3489.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +37,8 @@ expansion_source: patch
 ---
 
 - Spawn areas: [[The Highland Salts]]
+
+## Rewards
+
+- [[Gloves of the Elemental Soldier]]
+- [[Kaborite Crystal: Salts]] this item is needed for the collection: [[Sundered Frontier: Kaborite Crystals]]

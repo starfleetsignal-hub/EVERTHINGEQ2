@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Avoiding Heat Stroke
 added_in: Renewal of Ro
+zone: '[[Takish Badlands]]'
+pieces:
+- name: Carry Water
+  icon: images/Item_406.png
+- name: Find an Oasis
+  icon: images/Item_4354.png
+- name: Shelter During Midday
+  icon: images/Item_4373.png
+- name: Travel by Night
+  icon: images/Item_4365.png
+- name: Wear a Headcovering
+  icon: images/Item_2685.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,6 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Avoiding Heat Stroke (Collection Item)|Avoiding Heat Stroke]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

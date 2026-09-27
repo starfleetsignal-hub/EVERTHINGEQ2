@@ -3,6 +3,27 @@ title: Fusible Ore Samples
 type: quest
 level: '100'
 added_in: LU111
+zone: '[[Kylong Plains]]'
+collection_type: Aerial
+pieces:
+- name: Fusible Coral Ore
+  icon: images/Item_1164.png
+- name: Fusible Earthen Ore
+  icon: images/Item_1165.png
+- name: Fusible Igneous Ore
+  icon: images/Item_1167.png
+- name: Fusible Velium Ore
+  icon: images/Item_1177.png
+- name: Fusible Empyrean Ore
+  icon: images/Item_3833.png
+- name: Fusible Decrepit Ore
+  icon: images/Item_1188.png
+- name: Fusible Shadowstone Ore
+  icon: images/Item_187.png
+- name: Fusible Blyzurite Ore
+  icon: images/Item_188.png
+- name: Fusible Quicksilver Ore
+  icon: images/Item_2538.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +43,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Luclinite Propylon (House Item)|Luclinite Propylon]]

@@ -3,6 +3,18 @@ title: Jack-O-Lantern Bits
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Heroic I)]], [[Shattered Unrest (Heroic II)]], [[Shattered Unrest (Heroic III)]]'
+pieces:
+- name: Torn Canvas Bit
+  icon: images/Item_384.png
+- name: Ripped Burlap Bit
+  icon: images/Item_321.png
+- name: Mangled Pumpkin Bit
+  icon: images/Item_414.png
+- name: Burnt Pumpkin Bit
+  icon: images/Item_415.png
+- name: Severed Broomstick Handle
+  icon: images/Item_773.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A strange crimson crystal]]
+- [[Gooey Jack-O-Lantern Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

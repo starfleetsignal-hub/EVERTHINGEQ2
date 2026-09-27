@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Serilian Essentials
 added_in: Terrors of Thalumbra
+zone: '[[Stygian Threshold (Heroic)]]'
+pieces:
+- name: Nocturna's Twinkling Orb
+  icon: images/Item_3185.png
+- name: Zaraxia's Web Strand
+  icon: images/Item_2251.png
+- name: Mawz Harak's Serilian Idol
+  icon: images/Item_1058.png
+- name: Diurna's Shimmering Orb
+  icon: images/Item_2978.png
+- name: Grozgar's Serilian Totem
+  icon: images/Item_1214.png
+- name: Timbergrod's Stave
+  icon: images/Item_622.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Intrusive Etched Bracelet]]
+- [[Valiant Keepsake]] -- needed for tht [[Stygian Threshold Keepsakes]] collection

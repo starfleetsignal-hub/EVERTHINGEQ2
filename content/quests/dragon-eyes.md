@@ -4,6 +4,15 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[The Nexus Core (Advanced Solo)]], [[High Keep (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Yellowed Dragon Eye
+  icon: images/Item_2798.png
+- name: Crimson Dragon Eye
+  icon: images/Item_2799.png
+- name: Bloodshot Dragon Eye
+  icon: images/Item_2226.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +36,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Molten Dragon Stone]] this item is needed for the collection: [[Dragon Jewels]]
+- One of the following:
+  - [[Vesspyr Citizen's Blue Gloves]]
+  - [[Steel Bixie Scepter]]

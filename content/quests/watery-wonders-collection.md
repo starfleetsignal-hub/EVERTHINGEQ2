@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Watery Wonders
 added_in: Renewal of Ro
+zone: '[[Sandstone Delta: Eye of Night (Heroic I)]], [[Sandstone Delta: Eye of Night (Heroic II)]], [[Sandstone Delta: Eye of Night (Heroic III)]], [[Sandstone Delta: Eye of the Storm (Heroic I)]], [[Sandstone Delta: Eye of the Storm (Heroic II)]], [[Sandstone Delta: Eye of the Storm (Heroic III)]], [[Sandstone Delta: Grave Grange (Event Heroic II)]], [[Sandstone Delta: Grave Grange (Event Heroic III)]]'
+pieces:
+- name: Dangerous Whirlpool
+  icon: images/Item_2929.png
+- name: Freshwater Sinkhole
+  icon: images/Item_2929.png
+- name: Giant Waterfall
+  icon: images/Item_2929.png
+- name: Magic-Infused Rindle
+  icon: images/Item_2929.png
+- name: Rapids of Lifire
+  icon: images/Item_2929.png
 categories:
 - Census Credits
 - Collection Quests
@@ -32,4 +44,9 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Watery Wonders (Collection Item)|Watery Wonders]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]
+- one of the following:
+  - [[Ensorcelled Badlands Intensity]]
+  - [[Ensorcelled Badlands Intensity (2H)|Ensorcelled Badlands Intensity [2H]]]

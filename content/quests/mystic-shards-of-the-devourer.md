@@ -3,6 +3,20 @@ title: Mystic Shards of the Devourer
 type: quest
 level: '130'
 added_in: LU129
+pieces:
+- name: Charred Wyrmscale Shard
+  icon: images/Item_4434.png
+  note: no-trade
+- name: Stagnant Rune Shard
+  icon: images/Item_4435.png
+- name: Glowing Bone Shard
+  icon: images/Item_4433.png
+- name: Runed Bone Shard
+  icon: images/Item_4430.png
+- name: Warm Ash Shard
+  icon: images/Item_4428.png
+- name: Dull Ritual Shard
+  icon: images/Item_4432.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Necromunger's Staff]] this item is needed for the collection: [[Wurmbone's Elite]]

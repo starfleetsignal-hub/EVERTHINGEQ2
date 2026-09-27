@@ -5,6 +5,29 @@ level: '35'
 added_in: Echoes of Faydwer
 aliases:
 - 'Faydwer Bones: Bugbear Bones'
+zone: '[[Butcherblock Mountains]], [[Greater Faydark]], [[Loping Plains]], [[Steamfont Mountains]], [[The Lesser Faydark]]'
+collection_type: Shiny
+pieces:
+- name: ancient bugbear bone
+  icon: images/Item_322.png
+- name: bloody bugbear bone
+  icon: images/Item_322.png
+- name: cracked bugbear bone
+  icon: images/Item_322.png
+- name: decayed bugbear bone
+  icon: images/Item_322.png
+- name: dirty bugbear bone
+  icon: images/Item_322.png
+- name: diseased bugbear bone
+  icon: images/Item_322.png
+- name: fossilized bugbear bone
+  icon: images/Item_322.png
+- name: pristine bugbear bone
+  icon: images/Item_322.png
+- name: scratched bugbear bone
+  icon: images/Item_322.png
+- name: shattered bugbear bone
+  icon: images/Item_322.png
 categories:
 - Butcherblock Mountains Collection Quests
 - Census Credits
@@ -29,4 +52,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Bugbear Bone Bangle (Version 2)|Bugbear Bone Bangle]]
+  - [[Bugbear Bone Bracelet (Version 2)|Bugbear Bone Bracelet]]

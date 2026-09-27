@@ -3,6 +3,25 @@ title: Gnemlin Gearwork
 type: quest
 level: '100'
 added_in: Terrors of Thalumbra
+zone: '[[Maldura]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: gnemlin worm gear
+  icon: images/Item_3112.png
+- name: gnemlin ring gear
+  icon: images/Item_3085.png
+- name: gnemlin winding key
+  icon: images/Item_3092.png
+- name: gnemlin bevel gear
+  icon: images/Item_3103.png
+- name: gnemlin winding mechanism
+  icon: images/Item_3095.png
+- name: gnemlin control switch
+  icon: images/Item_3143.png
+- name: gnemlin differential gear
+  icon: images/Item_1041.png
+- name: gnemlin power source
+  icon: images/Item_3150.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,6 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Maldura Anvil]]

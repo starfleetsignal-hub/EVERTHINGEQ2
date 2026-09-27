@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Hunting Trophies
 added_in: Visions of Vetrovia
+pieces:
+- name: Zarrakon Fang
+  icon: images/Item_102.png
+- name: Tanned Saliraptor Wings
+  icon: images/Item_4284.png
+- name: Oversized Anaconda Bones
+  icon: images/Item_5042.png
+- name: A Mounted Seamonster Jaw
+  icon: images/Item_2707.png
+- name: A Bloody Pygmy Shield
+  icon: images/Item_3605.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Hunting Trophies (Item)|Hunting Trophies]] this item is needed for the collection: [[More Sights and Sounds]]
+- one of the following:
+  - [[Accumulated Mystical Chain Shirt]]
+  - [[Accumulated Mystical Woolen Shirt]]
+  - [[Accumulated Mystical Jerkin]]
+  - [[Accumulated Mystical Greatplate]]

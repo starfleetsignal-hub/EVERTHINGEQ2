@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Bulwark of Shimmering Steel
 added_in: Chaos Descending
+zone: '[[Eryslai: The Bixel Hive (Solo)]], [[Eryslai: The Midnight Aerie (Solo)]], [[Eryslai: Trials of Air (Solo)]]'
+pieces:
+- name: Shimmering Steel
+  icon: images/Item_735.png
+- name: Hymn of Quickness
+  icon: images/Item_75.png
+- name: Stamp of Magic
+  icon: images/Item_1784.png
+- name: Ink of Dust
+  icon: images/Item_3056.png
+- name: Signet of Avatars
+  icon: images/Item_1368.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -27,4 +39,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bulwark of Shimmering Steel (Collection Item)|Bulwark of Shimmering Steel]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]
+- [[Bulwark of Shimmering Steel (Shield)|Bulwark of Shimmering Steel]]

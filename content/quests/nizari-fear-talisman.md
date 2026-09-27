@@ -3,6 +3,19 @@ title: Nizari Fear Talisman
 type: quest
 level: '100'
 added_in: LU101
+zone: '[[The Fabled Nizara, City of the Nayad (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: Talisman of Arcane Mastery
+  icon: images/Item_2139.png
+- name: Talisman of Ancient Shades
+  icon: images/Item_2138.png
+- name: Talisman of Venomous Coercion
+  icon: images/Item_2142.png
+- name: Talisman of Puncture
+  icon: images/Item_2141.png
+- name: Talisman of Bloodied Broods
+  icon: images/Item_2140.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +42,7 @@ Five set spawn locations in zone:
 - {{waypoint 50, -33, -28}}
 - {{waypoint -3, 2, 10}}
 - {{waypoint 0, -45, 20}}
+
+## Rewards
+
+- [[Jewel Encrusted Sword of the Nizari'zhi]] this item is needed for the collection: [[Relics of the Nizari Queen]]

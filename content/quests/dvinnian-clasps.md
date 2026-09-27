@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Heroic)]], [[The Fabled Crypt of Valdoon (Heroic)]], [[The Fabled Court of Innovation (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: D'Vinnian Bone Clasp
+  icon: images/Item_1006.png
+- name: D'Vinnian Silver Clasp
+  icon: images/Item_1006.png
+- name: D'Vinnian Etched Clasp
+  icon: images/Item_1004.png
+- name: D'Vinnian Golden Clasp
+  icon: images/Item_1005.png
+- name: D'Vinnian Ivory Clasp
+  icon: images/Item_1005.png
 categories:
 - Collection Quests
 - Collections that reward Collection Items
@@ -24,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Singed Freethinker Document]] (part of the [[Freethinker Documents]] meta-collection)

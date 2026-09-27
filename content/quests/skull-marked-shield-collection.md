@@ -5,6 +5,29 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Skull Marked Shield
 added_in: Reign of Shadows
+zone: '[[Echo Caverns]], [[Shadeweaver''s Thicket]], [[Savage Weald]]'
+collection_type: Blue
+pieces:
+- name: Firefall Skull
+  icon: images/Item_142.png
+- name: Shadefiend Hide
+  icon: images/Item_113.png
+- name: Powdered Acrylia Dust
+  icon: images/Item_347.png
+- name: Brass Tabs
+  icon: images/Item_1012.png
+- name: Tortoise Hide Glue
+  icon: images/Item_4882.png
+- name: Sundried Hopper Blood
+  icon: images/Item_135.png
+- name: Flakes of Bone
+  icon: images/Item_2311.png
+- name: Hammered Dark Steel
+  icon: images/Item_2270.png
+- name: Thin Bronze Edging
+  icon: images/Item_1032.png
+- name: Quiddity of Censure
+  icon: images/Item_1293.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +51,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Skull Marked Shield (Collection Item)|Skull Marked Shield]] this item is needed for the collection: [[Relics of the Darkside]]
+- [[Skull Marked Shield (Shield)|Skull Marked Shield]]

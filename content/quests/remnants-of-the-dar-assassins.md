@@ -4,6 +4,19 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+zone: '[[The Fabled Ruins of Guk: The Lower Corridors Frenzied]]'
+pieces:
+- name: Blade of the Dar Assassins
+  icon: images/Item_623.png
+- name: Dagger of the Dar Assassins
+  icon: images/Item_205.png
+- name: Hood of the Dar Assassins
+  icon: images/Item_2857.png
+  note: no-trade
+- name: Boots of the Dar Assassins
+  icon: images/Item_551.png
+- name: Blood of the Dar Assassins
+  icon: images/Item_355.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Guktan Zygospore]] this item is needed for the collection: [[Guktan Spores]]

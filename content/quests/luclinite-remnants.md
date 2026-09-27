@@ -3,6 +3,16 @@ title: Luclinite Remnants
 type: quest
 level: '95'
 added_in: Tears of Veeshan
+zone: '[[Fabled Halls of Fate]]'
+pieces:
+- name: Chipped Sliver of Luclinite
+  icon: images/Item_1135.png
+- name: Cracked Shard of Luclinite
+  icon: images/Item_1136.png
+- name: Flawed Sample of Luclinite
+  icon: images/Item_1132.png
+- name: Fragment of Luclinite
+  icon: images/Item_1131.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +33,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Pristine Luclinite Sample]] this item is needed for the collection: [[Sigil of the Skyborn (Collection)|Sigil of the Skyborn]]

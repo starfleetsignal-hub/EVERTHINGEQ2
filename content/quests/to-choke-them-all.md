@@ -6,6 +6,17 @@ timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
 aliases:
 - To Choke them all
+zone: '[[Izshrash''Khar: Stratum of the Protectors (Heroic)]], [[Izshrash''Khar: Stratum of the Protectors (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Blue Stone Necklace
+  icon: images/Item_2138.png
+- name: Red Stone Necklace
+  icon: images/Item_2139.png
+- name: Ornate Necklace
+  icon: images/Item_2141.png
+- name: Choker Collar
+  icon: images/Item_2136.png
 categories:
 - Census Credits
 - Collection Quests
@@ -30,4 +41,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Yelinak's Chain]] this item is needed for the collection: [[Visionary Relief]]
+- one of the following:
+  - [[Vesspyr Workman's Red Leggings]]
+  - [[Vesspyr Scout's Elaborate Steel Mantle]]

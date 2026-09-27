@@ -3,6 +3,14 @@ title: Ver'Bohten Codex
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Harold's Codex of War
+- name: Chancellor's Codex of Battle
+- name: Chamberlain's Codex of Law
+- name: Marshal's Codex of Pain
+- name: Baron's Codex of Fear
+- name: High Lord's Codex of Storms
+  note: '"no-trade"'
 categories:
 - Collection Quests
 - Collections needing rewardtype
@@ -23,4 +31,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Forlorn Void-touched Shoulderguards]]
+- [[Fragment of Collected Void]]
+- [[Neck Trap]] - needed for collection [[Sadistic Implements (Collection)|Sadistic Implements]]

@@ -4,6 +4,19 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast: Maiden''s Eye (Solo)]], [[Aurelian Coast: Reishi Rumble (Solo)]], [[Aurelian Coast: Sambata Village (Solo)]]'
+collection_type: Blue
+pieces:
+- name: Ryryrd's Staff of the Winds
+  icon: images/Item_2161.png
+- name: Purpyron's Heavy Bone Shoulders
+  icon: images/Item_2455.png
+- name: Grrrunk's Belt of Pummeling
+  icon: images/Item_2133.png
+- name: Grupnop's Wolf Harness
+  icon: images/Item_2134.png
+- name: Purpyron's Polished Heavy Blade
+  icon: images/Item_2151.png
 categories:
 - 'Aurelian Coast: Maiden''s Eye (Solo) Collection Quests'
 - 'Aurelian Coast: Reishi Rumble (Solo) Collection Quests'
@@ -26,4 +39,11 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Drudge's Skeleton's Hand]] this item is needed for the collection: [[Artifacts of the Aurelian Coast]]
+- one of the following:
+  - [[Voidpiercer's Adornment of Raw Power (Collection Reward)|Voidpiercer's Adornment of Raw Power]]
+  - [[Voidpiercer's Adornment of Raw Power (2H) (Collection Reward)|Voidpiercer's Adornment of Raw Power (2H)]]
+  - [[Voidpiercer's Adornment of Modified Power (Collection Reward)|Voidpiercer's Adornment of Modified Power]]
+  - [[Voidpiercer's Adornment of Modified Power (2H) (Collection Reward)|Voidpiercer's Adornment of Modified Power (2H)]]

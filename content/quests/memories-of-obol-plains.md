@@ -3,6 +3,24 @@ title: Memories of Obol Plains
 type: quest
 level: '95'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]], [[Eidolon Jungle]], [[Obol Plains]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: All collection pieces are Lore
+- name: Bright Ghostly Spirit
+  icon: images/Item_2515.png
+- name: Brilliant Ghostly Spirit
+  icon: images/Item_2510.png
+- name: Dim Ghostly Spirit
+  icon: images/Item_2516.png
+- name: Red Ghostly Spirit
+  icon: images/Item_2509.png
+- name: White Ghostly Spirit
+  icon: images/Item_2511.png
+- name: Black Ghostly Spirit
+  icon: images/Item_2512.png
+- name: Blue Ghostly Spirit
+  icon: images/Item_2514.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +47,6 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Obol Plains Spirit Anchor]]

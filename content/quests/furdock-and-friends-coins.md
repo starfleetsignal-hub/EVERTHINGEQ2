@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic I)]]'
+pieces:
+- name: Furdock and Friends Scratch
+  icon: images/Item_1338.png
+- name: Furdock and Friends Jack
+  icon: images/Item_1337.png
+- name: Furdock and Friends Coinage
+  icon: images/Item_1336.png
+- name: Furdock and Friends Dough
+  icon: images/Item_1335.png
+- name: Furdock and Friends Chips
+  icon: images/Item_1339.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Glintswift Hackamore of Doublestrike]]
+- [[Fraudulent Void Shard]] this item is needed for the collection: [[Counterfeit Coins]]

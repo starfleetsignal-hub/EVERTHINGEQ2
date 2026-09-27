@@ -6,6 +6,18 @@ timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
 aliases:
 - 'Complete Potions: Transendence of Life and Death Volume II'
+zone: '[[Obulus Frontier]], [[Crypt of Dalnir: Baron''s Workshop (Heroic)]], [[Crypt of Dalnir: Ritual Chamber (Heroic)]]'
+collection_type: Collection items
+pieces:
+- name: A partial volume of Potions, Transcendence of Life and Death  Volume II
+  icon: images/Item_2709.png
+  note: 'no-trade - (Reward from the collection [[Potions: Transcendence of Life and Death Volume II Part I]])'
+- name: A partial section of Potions, Transcendence of Life and Death  Volume II
+  icon: images/Item_2709.png
+  note: 'no-trade - (Reward from the collection [[Potions: Transcendence of Life and Death Volume II Part III]])'
+- name: A partial chapter of Potions, Transcendence of Life and Death  Volume II
+  icon: images/Item_2709.png
+  note: 'no-trade - (Reward from the collection [[Potions: Transcendence of Life and Death Volume II Part II]])'
 categories:
 - Census Credits
 - Collection Quests

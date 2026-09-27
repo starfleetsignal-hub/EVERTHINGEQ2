@@ -3,6 +3,16 @@ title: Guide Doodads Series Two
 type: quest
 level: '50'
 added_in: LU56
+collection_type: Other
+pieces:
+- name: Bellandu's Warping Daisys
+  icon: images/Item_1941.png
+- name: Skultulla's Bowl of Picked Collections
+  icon: images/Item_1064.png
+- name: Einadon's Missing Reports
+  icon: images/Item_711.png
+- name: Twizel's Candied Fly Sticks
+  icon: images/Item_2119.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +32,8 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Leggings of the Hold]] (blue)
+  - [[Legguards of the Hold]] (pink)

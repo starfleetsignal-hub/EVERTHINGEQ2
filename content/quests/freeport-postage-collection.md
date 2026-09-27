@@ -3,6 +3,20 @@ title: Freeport Postage Collection
 type: quest
 level: '50'
 added_in: LU54
+collection_type: Purple
+pieces:
+- name: Freeport letterhead
+  icon: images/Item_2179.png
+- name: Freeport stamp
+  icon: images/Item_854.png
+- name: Freeport envelope
+  icon: images/Item_3146.png
+- name: Freeport notepaper
+  icon: images/Item_75.png
+- name: Freeport postmark
+  icon: images/Item_2616.png
+- name: Freeport sealing wax
+  icon: images/Item_1330.png
 categories:
 - Census Credits
 - City Festival
@@ -23,4 +37,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Norrathian Express Box, Freeport Branch]]

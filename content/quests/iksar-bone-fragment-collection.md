@@ -6,6 +6,19 @@ in_game_name: iksar bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: iksar bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered iksar bone fragment
+  icon: images/Item_322.png
+- name: cracked iksar bone fragment
+  page: Cracked iksar bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered iksar bone fragment
+  icon: images/Item_322.png
+- name: unscathed iksar bone fragment
+  icon: images/Item_322.png
+- name: enchanted iksar bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Weathered bone fragments collection|Weathered bone fragments]]
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
+
+## Rewards
+
+- [[Petrified Iksar Eye]]

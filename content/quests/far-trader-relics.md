@@ -4,6 +4,33 @@ type: quest
 level: '80'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Broken Rudder
+  icon: images/Item_917.png
+- name: Captain's Sextant
+  icon: images/Item_2292.png
+- name: Far Trader Log Book
+  icon: images/Item_719.png
+- name: Far Trader Pennant
+  icon: images/Item_1102.png
+- name: Scorched Goblin Cage
+  icon: images/Item_1049.png
+- name: Sturdy Capstan
+  icon: images/Item_986.png
+- name: Waterlogged Boom
+  icon: images/Item_875.png
+- name: Waulon's Lucky Hat
+  icon: images/Item_115.png
+- name: Weathered Tiller
+  icon: images/Item_922.png
+- name: Well Greased Pulley
+  icon: images/Item_2291.png
+- name: Wooden Spar
+  icon: images/Item_1033.png
+- name: Worn Halyard
+  icon: images/Item_1113.png
 categories:
 - Altar of Malice Collection Quests
 - Altar of Malice Expert Collections
@@ -28,3 +55,7 @@ expansion_source: patch
 ---
 
 This collection is from the cursed version of [[Isle of Refuge]] region, within the [[Tranquil Sea]] zone.
+
+## Rewards
+
+- [[Far Seas Fountain]]

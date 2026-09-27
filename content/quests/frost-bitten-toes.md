@@ -7,6 +7,23 @@ events:
 - Frostfell
 aliases:
 - 'Toes: Frost-bitten Toes'
+zone: '[[Frostfell Wonderland Village]], [[The Icy Keep]]'
+collection_type: Purple
+pieces:
+- name: Tiny frost-bitten Gnome toe
+  icon: images/Item_3784.png
+- name: Tiny frost-bitten Halfling toe
+  icon: images/Item_3784.png
+- name: Frost-bitten Iksar toe
+  icon: images/Item_3782.png
+- name: Furry frost-bitten Ratonga toe
+  icon: images/Item_3781.png
+- name: Frost-bitten Human toe
+  icon: images/Item_3780.png
+- name: Green frost-bitten Goblin toe
+  icon: images/Item_3783.png
+- name: Frost-bitten Barbarian toe
+  icon: images/Item_3780.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +46,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Glacial Brazier]]

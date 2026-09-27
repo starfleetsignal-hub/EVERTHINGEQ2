@@ -3,6 +3,20 @@ title: Runes of Sacrifice
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Rune of the Shadow-Venom Umbrith
+  icon: images/Item_4932.png
+- name: Rune of the Persuader
+  icon: images/Item_4932.png
+- name: Rune of Deathly Temptation
+  icon: images/Item_4932.png
+  note: no-trade
+- name: Rune of the Gloomstride
+  icon: images/Item_4932.png
+- name: Rune of the Breaker
+  icon: images/Item_4932.png
+- name: Rune of the Lurker
+  icon: images/Item_4932.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Darou Defender Plushie]]
+- [[Fragment of Collected Void]]
+- [[Twisted Talon]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

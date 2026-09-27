@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Ossuary of Malevolence (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Etched Golden Pyx
+  icon: images/Item_1050.png
+- name: Wooden Carved Pyx
+  icon: images/Item_928.png
+- name: Etched Silver Pyx
+  icon: images/Item_1049.png
+- name: Etched Mithri Pyx
+  icon: images/Item_1049.png
+- name: Skull Shaped Pyx
+  icon: images/Item_1765.png
+- name: Etched Bronze Pyx
+  icon: images/Item_1047.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +41,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Simple Shissar Brazier]]
+- 5 [[Far Seas Ferrin]]
+- [[Bust of Ritual Keeper V'derin]] this item is needed for the collection: [[Ossuary Busts]]

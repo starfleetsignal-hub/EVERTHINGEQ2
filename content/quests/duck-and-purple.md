@@ -2,6 +2,11 @@
 title: Duck and purple
 type: quest
 level: '15'
+pieces:
+- name: duck feather
+  icon: images/Item_147.png
+- name: plain purple butterfly
+  icon: images/Item_1827.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +24,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Box of plain butterflies]] this item is needed for the collection: [[Butterfly collection.]]

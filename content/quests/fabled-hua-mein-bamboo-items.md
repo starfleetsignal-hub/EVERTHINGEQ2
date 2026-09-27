@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sundered Frontier]]'
+collection_type: Year of Discovery
+pieces:
+- name: Hua Mein bamboo matting
+  page: Hua Mein bamboo matting (Fabled Hua Mein Bamboo Items)
+  icon: images/Item_744.png
+- name: Hua Mein bamboo bed
+  page: Hua Mein bamboo bed (Fabled Hua Mein Bamboo Items)
+  icon: images/Item_919.png
+- name: Hua Mein bamboo candle
+  page: Hua Mein bamboo candle (Fabled Hua Mein Bamboo Items)
+  icon: images/Item_193.png
+- name: Hua Mein bamboo chair
+  page: Hua Mein bamboo chair (Fabled Hua Mein Bamboo Items)
+  icon: images/Item_560.png
+- name: Hua Mein bamboo fishing pole
+  page: Hua Mein bamboo fishing pole (Fabled Hua Mein Bamboo Items)
+  icon: images/Item_621.png
+- name: Hua Mein bamboo basket
+  page: Hua Mein bamboo basket (Fabled Hua Mein Bamboo Items)
+  icon: images/Item_914.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

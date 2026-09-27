@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: LU122
+zone: '[[Buried Takish''Hiz: Empire of Antiquity (Contested)]]'
+pieces:
+- name: Ancient Oak Bark
+  icon: images/Item_196.png
+- name: Ancient Ash Bark
+  icon: images/Item_196.png
+- name: Ancient Cedar Bark
+  icon: images/Item_196.png
+- name: Ancient Ironwood Bark
+  icon: images/Item_196.png
+- name: Ancient Mahogany Bark
+  icon: images/Item_415.png
 categories:
 - 'Buried Takish''Hiz: Empire of Antiquity (Contested) Collection Quests'
 - Census Credits
@@ -24,4 +36,6 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Bulbrusk the Bulbous' Basher]] this item is needed for the collection: [[Buried Takish'Hiz Treasures (Collection)|Buried Takish'Hiz Treasures]]

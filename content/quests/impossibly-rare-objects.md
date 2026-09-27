@@ -5,6 +5,25 @@ level: '20'
 added_in: Bristlebane Day
 events:
 - Bristlebane Day
+zone: '[[Antonica]], [[The Commonlands]], [[Darklight Wood]], [[Frostfang Sea]], [[Greater Faydark]], [[Timorous Deep]]'
+collection_type: Purple
+pieces:
+- name: Yha-lei fur
+  icon: images/Item_125.png
+- name: Froglok fin
+  icon: images/Item_86.png
+- name: Ratonga hoof
+  icon: images/Item_108.png
+- name: Iksar wing
+  icon: images/Item_140.png
+- name: Dwarf egg
+  icon: images/Item_146.png
+- name: Kerra scales
+  icon: images/Item_84.png
+- name: skeleton pocket
+  icon: images/Item_400.png
+- name: Orc tail
+  icon: images/Item_99.png
 categories:
 - Antonica Collection Quests
 - Bristlebane Day
@@ -34,3 +53,7 @@ source:
 
 Seasonal Collection Quest for [[Bristlebane Day]], first appearing in 2009.
 Talking to [[The Grand Prankster]] after completing this collection will turn your reward into a [[Blessed Gigglegibber Mini-Comfort Crate]].
+
+## Rewards
+
+- [[Gigglegibber Mini-Comfort Crate]]

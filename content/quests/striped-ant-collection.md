@@ -6,6 +6,19 @@ in_game_name: striped ant collection
 added_in: Shattered Lands
 aliases:
 - 'Ant: striped ant collection'
+zone: '[[The Thundering Steppes]], [[Commonlands]]'
+pieces:
+- name: striped blue ant
+  icon: images/Item_1893.png
+- name: striped green ant
+  icon: images/Item_1892.png
+- name: striped grey ant
+  icon: images/Item_1891.png
+- name: striped yellow ant
+  icon: images/Item_1894.png
+- name: striped red ant
+  icon: images/Item_1895.png
+  note: 'This member also required by the quest: [[Desperately Seeking Ants!]]'
 categories:
 - Ant (CQ Category)
 - Census Credits
@@ -27,4 +40,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- Coin: 57s

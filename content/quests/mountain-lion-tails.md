@@ -6,6 +6,24 @@ added_in: Echoes of Faydwer
 aliases:
 - Fresh Mountain Lion Tail
 - 'Steamfont Mountains: Mountain Lion Tails'
+zone: '[[Steamfont Mountains]]'
+collection_type: Shiny
+pieces:
+- name: bloody mountain lion tail
+  icon: images/Item_2797.png
+- name: decayed mountain lion tail
+  icon: images/Item_2797.png
+- name: dried mountain lion tail
+  icon: images/Item_2797.png
+- name: fresh mountain lion tail
+  icon: images/Item_2797.png
+  note: ''
+- name: moldy mountain lion tail
+  icon: images/Item_2797.png
+- name: shriveled mountain lion tail
+  icon: images/Item_2797.png
+- name: wrinkled mountain lion tail
+  icon: images/Item_2797.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Lion Fur Hoop (Version 2)|Lion Fur Hoop]]
+  - [[Lion Fur Ring (Version 2)|Lion Fur Ring]]

@@ -5,6 +5,25 @@ level: '95'
 added_in: LU67
 aliases:
 - Trophies of Past Glories
+zone: '[[The Fabled Clefts of Rujark]]'
+collection_type: Shiny
+pieces:
+- name: Fang of the Ancient Crocodile
+  icon: images/Item_157.png
+- name: Golden Scale of Day
+  icon: images/Item_2525.png
+- name: Silver Scale of Night
+  icon: images/Item_2526.png
+- name: Scimitar of the Ancient
+  icon: images/Item_1678.png
+- name: Carapace of Terrorantula
+  icon: images/Item_136.png
+- name: Seed of the Undying
+  icon: images/Item_2511.png
+- name: Tassel of the Djinn Master's Carpet
+  icon: images/Item_379.png
+- name: Meathooks Talon
+  icon: images/Item_167.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +44,10 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Staff of the Undying]]
+  - [[Staff of Night]]
+  - [[Weight of Day]]
+  - [[Talon of the Past]]

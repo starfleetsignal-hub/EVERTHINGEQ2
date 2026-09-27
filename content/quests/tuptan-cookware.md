@@ -5,6 +5,24 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Tuptan Cookware'
+zone: '[[Moors of Ykesha]]'
+pieces:
+- name: Iron Grubbing Spoon
+  icon: images/Item_2160.png
+- name: Wooden Worm Digging Fork
+  icon: images/Item_114.png
+- name: Iron Slime Cubing Knife
+  icon: images/Item_2260.png
+- name: Black Iron Wurm Boiling Pot
+  icon: images/Item_650.png
+- name: Iron Slug Pan
+  icon: images/Item_1069.png
+- name: Ceramic Slime Separating Bowl
+  icon: images/Item_1066.png
+- name: Ceramic Grubbing Plate
+  icon: images/Item_1063.png
+- name: Ceramic Flipper Cup
+  icon: images/Item_979.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +43,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Cast-Iron Band]]
+  - [[Crockery Shard Necklace]]

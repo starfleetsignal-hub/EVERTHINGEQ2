@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[The Ruins of Ssraeshza (Heroic)]], [[The Vault of Ssraeshza (Heroic)]], [[The Venom of Ssraeshza (Event Heroic)]]'
+pieces:
+- name: Shade's Umbrageous Aura
+  icon: images/Item_4378.png
+- name: Shade's Infinite Dark
+  icon: images/Item_4365.png
+- name: Shade's Bleak Thoughts
+  icon: images/Item_4387.png
+- name: Shade's Shadowbeam
+  icon: images/Item_4363.png
+- name: Shade's Curse
+  icon: images/Item_4356.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Icon of the Timeless]] this item is needed for the collection: [[Artifacts of the Wracklands]]

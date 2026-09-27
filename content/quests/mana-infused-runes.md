@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Advanced Solo)]], [[The Fabled Court of Innovation (Advanced Solo)]], [[The Fabled Crypt of Valdoon (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Mana Infused Rune of Arts
+  icon: images/Item_3831.png
+- name: Mana Infused Rune of Double Cast
+  icon: images/Item_3828.png
+- name: Mana Infused Rune of War
+  icon: images/Item_3826.png
+- name: Mana Infused Rune of Battle
+  icon: images/Item_3829.png
+- name: Mana Infused Rune of Spells
+  icon: images/Item_3827.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Ravager Marrow]] this item is needed for the collection: [[Marrow]]

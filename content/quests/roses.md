@@ -3,6 +3,15 @@ title: Roses
 type: quest
 level: '55'
 added_in: LU53
+zone: '[[Shard of Love: A Moment of Valor]]'
+pieces:
+- name: a white rose
+  icon: images/Item_1942.png
+- name: a red rose
+  page: A red rose (Collection Item)
+  icon: images/Item_1944.png
+- name: a black rose
+  icon: images/Item_1946.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +32,7 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A metal tension collar]] this item is needed for the collection: [[Dismantled Statue Pieces]]
+- 1p

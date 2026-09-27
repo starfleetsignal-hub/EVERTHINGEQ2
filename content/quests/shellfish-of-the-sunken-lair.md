@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 added_in: Terrors of Thalumbra
+zone: '[[Kralet Penumbra (Contested)]]'
+pieces:
+- name: Cuttlefish
+  icon: images/Item_2056.png
+- name: Death Barnacle
+  icon: images/Item_2573.png
+- name: Armored Sea Snail
+  icon: images/Item_2035.png
+- name: Razor Mussel
+  icon: images/Item_2014.png
+- name: Dark Clam
+  icon: images/Item_2021.png
+- name: Poisonous Coneshell
+  icon: images/Item_2042.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Band of Shells]]
+- [[Memory of the Seas]] this item is needed for the collection: [[Memories of Kralet]]

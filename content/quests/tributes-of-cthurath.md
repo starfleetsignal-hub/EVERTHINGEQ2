@@ -4,6 +4,25 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Yon Gorroth]]'
+collection_type: Shiny
+pieces:
+- name: Empyrean Tribute
+  icon: images/Item_5777.png
+- name: Measureless Tribute
+  icon: images/Item_5777.png
+- name: Infinite Tribute
+  icon: images/Item_5777.png
+- name: Amaranthine Tribute
+  icon: images/Item_5777.png
+- name: Boundless Tribute
+  icon: images/Item_5777.png
+- name: Perpetual Tribute
+  icon: images/Item_5777.png
+- name: Everlasting Tribute
+  icon: images/Item_5777.png
+- name: Incessant Tribute
+  icon: images/Item_5777.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Digestive Siphonfright Plushie]]
+- [[Fragment of Collected Void]]
+- [[Siphonfright Ichor]] this item is needed for the collection: [[Jar of Darkened Ichor (Collection)|Jar of Darkened Ichor]]

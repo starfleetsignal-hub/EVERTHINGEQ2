@@ -5,6 +5,25 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Items of the Lost Brotherhood'
+zone: '[[The Deep Forge]], [[Najena''s Hollow Tower]]'
+collection_type: Shiny
+pieces:
+- name: Fire Scarred Indigo Brotherhood Breastplate
+  icon: images/Item_2414.png
+- name: Fire Scarred Indigo Brotherhood Boots
+  icon: images/Item_2415.png
+- name: Fire Scarred Indigo Brotherhood Gauntlets
+  icon: images/Item_2417.png
+- name: Fire Scarred Indigo Brotherhood Leggings
+  icon: images/Item_2419.png
+- name: Fire Scarred Indigo Brotherhood Pauldrons
+  icon: images/Item_2420.png
+- name: Fire Scarred Indigo Brotherhood Helm
+  icon: images/Item_2418.png
+- name: Fire Scarred Indigo Brotherhood Sword
+  icon: images/Item_1678.png
+- name: Fire Scarred Indigo Brotherhood Shield
+  icon: images/Item_12.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Ear Jewel of the Lost]]
+  - [[Lost Brotherhood Bauble (CollectionReward)|Lost Brotherhood Bauble]]

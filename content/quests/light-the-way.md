@@ -5,6 +5,15 @@ level: '95'
 added_in: Tears of Veeshan
 aliases:
 - Lighting the Way
+pieces:
+- name: Red Oil Can
+  icon: images/Item_2216.png
+- name: Blue Oil Can
+  icon: images/Item_2217.png
+- name: Yellow Oil Can
+  icon: images/Item_2218.png
+- name: Green Oil Can
+  icon: images/Item_2219.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +35,6 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Light the Sky]] this item is needed for the collection: [[Oil and Feathered]]

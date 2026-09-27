@@ -5,6 +5,18 @@ level: '130'
 added_in: Scars of Destruction
 aliases:
 - Fallen Knight's Relics
+pieces:
+- name: Broken Knight's Shield
+  icon: images/Item_18.png
+- name: Rusty Knight's Gauntlet
+  icon: images/Item_267.png
+- name: Corroded Guardian Statue
+  icon: images/Item_1059.png
+- name: Faded Deepwater Banner
+  icon: images/Item_5929.png
+  note: no-trade
+- name: Rusted Sword Hilt
+  icon: images/Item_665.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Embelished Splendid Chain Legplates]]
+- [[Fragment of Collected Scars (Legendary)|Fragment of Collected Scars]]
+- [[Blackhook Banner of the Forge]] this item is needed for the collection: [[Hope and Hopelessness (Collection)|Hope and Hopelessness]]

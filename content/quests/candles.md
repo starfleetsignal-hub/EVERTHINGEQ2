@@ -5,6 +5,24 @@ level: '75'
 added_in: Echoes of Faydwer
 aliases:
 - 'Castle Mistmoore: Candles'
+zone: '[[Castle Mistmoore]]'
+collection_type: Hidden
+pieces:
+- name: black candle
+  icon: images/Item_190.png
+- name: blue candle
+  page: Blue candle (Collection Item)
+  icon: images/Item_192.png
+- name: gold candle
+  icon: images/Item_191.png
+- name: orange candle
+  page: Orange candle (Item)
+  icon: images/Item_189.png
+- name: red candle
+  page: Red candle (Candles)
+  icon: images/Item_2216.png
+- name: white candle
+  icon: images/Item_2348.png
 categories:
 - Castle Mistmoore (CQ Category)
 - Castle Mistmoore Collection Quests
@@ -27,4 +45,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Mistmoore Piano]]

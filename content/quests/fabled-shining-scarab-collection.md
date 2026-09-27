@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sinking Sands]]'
+collection_type: Year of Discovery
+pieces:
+- name: shining black scarab
+  page: Shining black scarab (Fabled Shining Scarab Collection)
+  icon: images/Item_1805.png
+- name: shining blue scarab
+  page: Shining blue scarab (Fabled Shining Scarab Collection)
+  icon: images/Item_1807.png
+- name: shining brown scarab
+  page: Shining brown scarab (Fabled Shining Scarab Collection)
+  icon: images/Item_1808.png
+- name: shining green scarab
+  page: Shining green scarab (Fabled Shining Scarab Collection)
+  icon: images/Item_1806.png
+- name: shining red scarab
+  page: Shining red scarab (Fabled Shining Scarab Collection)
+  icon: images/Item_1809.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +44,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

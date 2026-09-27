@@ -3,6 +3,17 @@ title: Haggle Baron's Bags
 type: quest
 level: '125'
 added_in: Update 2022.08.09
+pieces:
+- name: Haggle Baron's Haggle Bag
+  icon: images/Item_397.png
+- name: Haggle Baron's Barter Bag
+  icon: images/Item_399.png
+- name: Haggle Baron's Palter Bag
+  icon: images/Item_398.png
+- name: Haggle Baron's Deal Bag
+  icon: images/Item_396.png
+- name: Haggle Baron's Quibble Bag
+  icon: images/Item_2579.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +32,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Portal of the Doombringer]] this item is needed for the collection: [[Ione's Portals]]

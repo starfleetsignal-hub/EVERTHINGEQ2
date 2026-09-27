@@ -3,6 +3,22 @@ title: Vestiges of Growth
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Eastern Wastes]]'
+pieces:
+- name: Timeworn Sifaye Dart
+  icon: images/Item_287.png
+- name: Petrified Holgresh Eye
+  icon: images/Item_577.png
+- name: Soiled Unicorn Horn
+  icon: images/Item_112.png
+- name: Serrated Tooth of a Wakening Ravager
+  icon: images/Item_102.png
+- name: Chopped Root of Growth
+  icon: images/Item_198.png
+- name: Cracked Faun Bone
+  icon: images/Item_418.png
+- name: Tattered Panther Pelt
+  icon: images/Item_127.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +40,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vestige of Growth]]
+- [[Tales of Eastern Wastes Page 3]] this item is needed for the collection: [[Tales of Eastern Wastes (Collection)|Tales of Eastern Wastes]]

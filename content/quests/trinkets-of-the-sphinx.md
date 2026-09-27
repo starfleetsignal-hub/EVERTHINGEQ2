@@ -2,6 +2,21 @@
 title: Trinkets of the Sphinx
 type: quest
 level: '100'
+zone: '[[The Village of Shin]]'
+collection_type: Purple
+pieces:
+- name: Amulet of Torture
+  icon: images/Item_3447.png
+- name: Diadem of Faith
+  icon: images/Item_993.png
+- name: Staff of Mystic Minerals
+  icon: images/Item_620.png
+- name: Wand of Secrets
+  icon: images/Item_618.png
+- name: Unspeakable Crown of Deceit
+  icon: images/Item_2983.png
+- name: Mystical Day Blade
+  icon: images/Item_1659.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Title: the Trinket Tiller]]

@@ -6,6 +6,18 @@ in_game_name: thexian artifacts
 added_in: LU26
 aliases:
 - 'Artifacts: thexian artifacts'
+zone: '[[Nektropos Castle: Tribulation]]'
+pieces:
+- name: statue of Innoruuk
+  icon: images/Item_175.png
+- name: statue of Cristanos Thex
+  icon: images/Item_2242.png
+- name: Thexian sacrificial dagger
+  icon: images/Item_2372.png
+- name: J'Narus insignia patch
+  icon: images/Item_2179.png
+- name: Thexian crest
+  icon: images/Item_13.png
 categories:
 - Artifacts (CQ Category)
 - Census Credits
@@ -27,3 +39,7 @@ expansion_source: patch
 ---
 
 - When attempting to harvest a "?" in Nekropos Castle: Tribulation, there is a chance that instead of giving one of the collection items it will instead say "The Crystal breaks open." (formerly, it used to show you as harvesting a nil crystal) at which point several (4) ^^^ a nihilistic entity will spawn and attack. These mobs will *not* despawn.
+
+## Rewards
+
+- [[A gangrenous hand]]

@@ -3,6 +3,19 @@ title: Resonance (Collection)
 type: quest
 level: '130'
 in_game_name: Resonance
+pieces:
+- name: Fluttering Resonance
+  icon: images/Item_4966.png
+- name: Reverberating Resonance
+  icon: images/Item_4966.png
+- name: Disorienting Resonance
+  icon: images/Item_4960.png
+- name: Perplexing Resonance
+  icon: images/Item_4960.png
+- name: Unfamiliar Resonance
+  icon: images/Item_4967.png
+- name: Recognizable Resonance
+  icon: images/Item_4961.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +33,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Prestidigitation of Glee]] this item is needed for the collection: [[Prestidigitation]]

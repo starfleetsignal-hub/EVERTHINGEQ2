@@ -5,6 +5,21 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Lost Necromancy Spells'
+zone: '[[Miragul''s Phylactery: Scion of Ice]], [[Miragul''s Phylactery: The Anathema]], [[Miragul''s Phylactery: The Crucible]]'
+collection_type: Shiny
+pieces:
+- name: Bruex's Demlich of Destruction
+  icon: images/Item_2184.png
+- name: The Hermit's Miasmic Maelstrom
+  icon: images/Item_2185.png
+- name: Pyidar's Catastrophic Consumption
+  icon: images/Item_2185.png
+- name: Xon's Pulverizing Pandemic
+  icon: images/Item_2183.png
+- name: Zimor's Rot of Retribution
+  icon: images/Item_2183.png
+- name: Xalgoz's Powerful Paralyzing Pachydermic Pestilence
+  icon: images/Item_2183.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Deathdealer Hoop]]
+  - [[Deathcaller Orb]]

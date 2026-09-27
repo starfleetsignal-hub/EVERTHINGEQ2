@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sundered Frontier]]'
+collection_type: Year of Discovery
+pieces:
+- name: Torqued Spanner
+  page: Torqued Spanner (Fabled Library of Erudin Murder Weapons)
+  icon: images/Item_2716.png
+- name: Overloaded Wand
+  page: Overloaded Wand (Fabled Library of Erudin Murder Weapons)
+  icon: images/Item_2975.png
+- name: Cracked Staff
+  page: Cracked Staff (Fabled Library of Erudin Murder Weapons)
+  icon: images/Item_3134.png
+- name: Bloodied Chain of Office
+  page: Bloodied Chain of Office (Fabled Library of Erudin Murder Weapons)
+  icon: images/Item_2138.png
+- name: Bloody Dagger
+  page: Bloody Dagger (Fabled Library of Erudin Murder Weapons)
+  icon: images/Item_2528.png
+- name: Tarnished Candlestick
+  page: Tarnished Candlestick (Fabled Library of Erudin Murder Weapons)
+  icon: images/Item_1055.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

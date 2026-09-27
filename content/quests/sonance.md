@@ -2,6 +2,19 @@
 title: Sonance
 type: quest
 level: '130'
+pieces:
+- name: Piercing Sonance
+  icon: images/Item_5924.png
+- name: Serene Sonance
+  icon: images/Item_5924.png
+- name: Luring Sonance
+  icon: images/Item_5924.png
+- name: Familiar Sonance
+  icon: images/Item_5924.png
+- name: Unsteady Sonance
+  icon: images/Item_5924.png
+- name: Magnetic Sonance
+  icon: images/Item_5924.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Prestidigitation of Locus]] this item is needed for the collection: [[Prestidigitation]]

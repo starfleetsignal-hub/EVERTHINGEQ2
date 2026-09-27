@@ -3,6 +3,19 @@ title: Lamia Glyphs
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Glyph of the Temptress
+  icon: images/Item_5799.png
+- name: Glyph of the Enchantress
+  icon: images/Item_5799.png
+- name: Glyph of the Tormentress
+  icon: images/Item_5799.png
+- name: Glyph of the Overseer
+  icon: images/Item_5799.png
+- name: Glyph of the Bloodweaver
+  icon: images/Item_5799.png
+- name: Glyph of the Seductress
+  icon: images/Item_5799.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ebonlithe Tormentress Plushie]]
+- [[Fragment of Collected Void]]
+- [[Whipgauth Gore]] this item is needed for the collection: [[Tub of Fetid Gore (Collection)|Tub of Fetid Gore]]

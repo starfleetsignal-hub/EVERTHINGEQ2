@@ -5,6 +5,18 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Crushed Locust Collection'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+pieces:
+- name: crushed black locust
+  icon: images/Item_2656.png
+- name: crushed blue locust
+  icon: images/Item_2676.png
+- name: crushed brown locust
+  icon: images/Item_2660.png
+- name: crushed green locust
+  icon: images/Item_2672.png
+- name: crushed red locust
+  icon: images/Item_2668.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Apothecary's Skullcap]]
+  - [[Crown of Lost Harvests]]

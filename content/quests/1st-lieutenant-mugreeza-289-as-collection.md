@@ -4,6 +4,25 @@ type: quest
 level: '40'
 in_game_name: 1st Lieutenant Mugreeza, 289 AS
 added_in: Shattered Lands
+zone: '[[The Feerrott]]'
+collection_type: Pages
+pieces:
+- name: 1st Lieutenant Mugreeza, 289 AS - Page 5
+  icon: images/Item_2180.png
+- name: 1st Lieutenant Mugreeza, 289 AS - Page 6
+  icon: images/Item_2180.png
+  note: Clickable small plant at {{waypoint -85, -2, 379}}
+- name: 1st Lieutenant Mugreeza, 289 AS - Page 8
+  icon: images/Item_2180.png
+  note: Corpse drop from [[A fetid Rallosian allegiant|Fetid Rallosian Allegiants]]
+- name: 1st Lieutenant Mugreeza, 289 AS - Page 10
+  icon: images/Item_2180.png
+  note: Corpse Drop From an [[An Evol conscript|Evol conscript]]
+- name: 1st Lieutenant Mugreeza, 289 AS - Page 11
+  icon: images/Item_2180.png
+- name: 1st Lieutenant Mugreeza, 289 AS - Page 12
+  icon: images/Item_2180.png
+  note: Corpse Drop from Ewol at
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[1st Lieutenant Mugreeza, 289 AS (CollectionReward)|1st Lieutenant Mugreeza, 289 AS]]

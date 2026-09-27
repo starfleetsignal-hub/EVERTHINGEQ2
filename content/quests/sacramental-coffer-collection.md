@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Sacramental Coffer
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Hallowed Ornaments
+  icon: images/Item_3466.png
+- name: Blessed Cameo
+  icon: images/Item_3453.png
+- name: Smooth Planar Bauble
+  icon: images/Item_3456.png
+  note: no-trade - (Reward from the quest [[Riddle Me This]])
+- name: Divine Sparkly Bangle
+  icon: images/Item_3446.png
+- name: Reverberating Trifle
+  icon: images/Item_3452.png
+- name: Consecrated Trinket
+  icon: images/Item_3455.png
+- name: Numinous Beads
+  icon: images/Item_3449.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sacramental Coffer (Item)|Sacramental Coffer]] this item is needed for the collection: [[Elements of Augury]]
+- [[Bangle of the Sacramental Coffer]]

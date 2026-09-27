@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Solar Smudge Stick
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Solusek Ro''s Tower: Monolith of Fire (Solo)]], [[Solusek Ro''s Tower: The Obsidian Core (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Cosmic Remnants
+  icon: images/Item_2516.png
+- name: Stellar Dust Relic
+  icon: images/Item_2516.png
+- name: Empyreal Vestiges
+  icon: images/Item_2516.png
+- name: Meteoric Dross
+  icon: images/Item_2516.png
+- name: Residual Light Fragment
+  icon: images/Item_2516.png
+- name: Sunbeam Particle
+  icon: images/Item_2516.png
+- name: Nebula Spore
+  icon: images/Item_2516.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -28,4 +45,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Solar Smudge Stick (Item)|Solar Smudge Stick]] this item is needed for the collection: [[Planar Comet Dust (Collection)|Planar Comet Dust]]
+- [[Solar Smudge Stick (Ear)|Solar Smudge Stick]]

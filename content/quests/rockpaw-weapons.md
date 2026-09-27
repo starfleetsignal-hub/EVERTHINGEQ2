@@ -2,6 +2,19 @@
 title: Rockpaw Weapons
 type: quest
 level: '10'
+pieces:
+- name: Rockpaw Flint Spear
+  icon: images/Item_5707.png
+- name: Rockpaw Toothed Spear
+  icon: images/Item_5707.png
+- name: Rockpaw Fur-Handled Spear
+  icon: images/Item_5707.png
+- name: Rockpaw Gut-Wrapped Spear
+  icon: images/Item_5707.png
+- name: Rockpaw Rusted Spear
+  icon: images/Item_5707.png
+- name: Rockpaw Polished Spear
+  icon: images/Item_5707.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Ironclad Angerspray]]
+- [[Eidolic Talisman]] this item is needed for the collection: [[Underpaw Talisman]]

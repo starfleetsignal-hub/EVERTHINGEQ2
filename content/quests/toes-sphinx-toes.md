@@ -4,6 +4,12 @@ type: quest
 level: '50'
 added_in: Rise of Kunark
 removed_from_game: This collection has been removed from the game
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: decayed sphinx toe
+- name: fresh sphinx toe
+- name: shriveled sphinx toe
 categories:
 - Collection Quests
 - Collections that reward Treasured Items
@@ -24,3 +30,9 @@ expansion_source: patch
 ---
 
 - Believed to have been a Burynai collection then removed in [[LU51|GU51]].
+
+## Rewards
+
+- One of the following:
+  - [[Talon Clenched Orb]]
+  - [[Swifthiss]]

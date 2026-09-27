@@ -5,6 +5,21 @@ level: '47'
 added_in: LU48
 aliases:
 - 'Everfrost: Turtle Odds ''n Ends'
+zone: '[[Everfrost]]'
+collection_type: Shiny
+pieces:
+- name: a fractured turtle beak
+  icon: images/Item_171.png
+- name: a shiny turtle shell
+  icon: images/Item_201.png
+- name: a crooked turtle tail
+  icon: images/Item_97.png
+- name: a decayed turtle tooth
+  icon: images/Item_157.png
+- name: a patch of rough turtle skin
+  icon: images/Item_170.png
+- name: a watery turtle eye
+  icon: images/Item_2799.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,6 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A tiny sea turtle plushie]]

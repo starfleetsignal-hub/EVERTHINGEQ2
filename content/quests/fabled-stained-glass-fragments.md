@@ -5,6 +5,30 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Butcherblock Mountains]]'
+collection_type: Year of Discovery
+pieces:
+- name: blue stained glass fragment
+  page: Blue stained glass fragment (Fabled Stained Glass Fragments)
+  icon: images/Item_1177.png
+- name: green stained glass fragment
+  page: Green stained glass fragment (Fabled Stained Glass Fragments)
+  icon: images/Item_1163.png
+- name: orange stained glass fragment
+  page: Orange stained glass fragment (Fabled Stained Glass Fragments)
+  icon: images/Item_1145.png
+- name: purple stained glass fragment
+  page: Purple stained glass fragment (Fabled Stained Glass Fragments)
+  icon: images/Item_1187.png
+- name: red stained glass fragment
+  page: Red stained glass fragment (Fabled Stained Glass Fragments)
+  icon: images/Item_1171.png
+- name: white stained glass fragment
+  page: White stained glass fragment (Fabled Stained Glass Fragments)
+  icon: images/Item_1178.png
+- name: yellow stained glass fragment
+  page: Yellow stained glass fragment (Fabled Stained Glass Fragments)
+  icon: images/Item_1165.png
 categories:
 - Ballads of Zimara Collection Quests
 - Butcherblock Mountains Collection Quests
@@ -26,4 +50,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

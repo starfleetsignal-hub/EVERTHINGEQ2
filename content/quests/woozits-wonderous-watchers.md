@@ -3,6 +3,20 @@ title: Woozit's Wonderous Watchers
 type: quest
 level: '130'
 added_in: LU128
+pieces:
+- name: Single-Lensed Watcher
+  icon: images/Item_5898.png
+- name: Telescoping Watcher
+  icon: images/Item_5898.png
+- name: Red-Lensed Watcher
+  icon: images/Item_5898.png
+- name: Dual-Lensed Watcher
+  icon: images/Item_5898.png
+- name: Monocled Watcher
+  icon: images/Item_5898.png
+- name: Pince-Nezed Watcher
+  icon: images/Item_5898.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 10x  [[Velium Drachma]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Balremos' Fiery Chunks]] this item is needed for the collection: [[Spiral of Vul]]

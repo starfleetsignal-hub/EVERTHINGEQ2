@@ -5,6 +5,17 @@ level: '65'
 added_in: Kingdom of Sky
 aliases:
 - 'Claws: Medium Droag Claws'
+zone: '[[The Barren Sky]]'
+collection_type: Shiny
+pieces:
+- name: medium broken Droag claw
+  icon: images/Item_167.png
+- name: medium chipped Droag claw
+  icon: images/Item_167.png
+- name: medium polished Droag claw
+  icon: images/Item_167.png
+- name: medium worn Droag claw
+  icon: images/Item_167.png
 categories:
 - Census Credits
 - Claws (CQ Category)
@@ -25,4 +36,9 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Droag Kukri]]
+  - [[Droag Fang]]
+  - [[Droag Horn]]

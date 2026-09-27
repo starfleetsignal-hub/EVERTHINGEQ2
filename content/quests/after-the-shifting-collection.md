@@ -4,6 +4,22 @@ type: quest
 level: '120'
 in_game_name: After The Shifting
 added_in: Reign of Shadows
+zone: '[[City of Shar Vahl]]'
+pieces:
+- name: After The Shifting - Title Shard
+  icon: images/Item_3772.png
+- name: After The Shifting - Shard 1
+  icon: images/Item_3772.png
+- name: After The Shifting - Shard 2
+  icon: images/Item_3772.png
+- name: After The Shifting - Shard 3
+  icon: images/Item_3772.png
+- name: After The Shifting - Shard 4
+  icon: images/Item_3772.png
+- name: After The Shifting - Shard 5
+  icon: images/Item_3772.png
+- name: After The Shifting - Shard 6
+  icon: images/Item_3772.png
 categories:
 - Census Credits
 - City of Shar Vahl Collection Quests
@@ -24,4 +40,6 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[After The Shifting (Item)|After The Shifting]]

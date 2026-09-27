@@ -6,6 +6,20 @@ timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
 aliases:
 - Sathirs Shadow Devices
+zone: '[[Obulus Frontier]]'
+pieces:
+- name: Sathir's Alter-Vision Scopes
+  icon: images/Item_2249.png
+- name: Sathir's Crying Whistle
+  icon: images/Item_839.png
+- name: Sathir's Destiny Goblet
+  icon: images/Item_2574.png
+- name: Sathir's Fated Card
+  icon: images/Item_2301.png
+- name: Sathir's Miraculous Cord
+  icon: images/Item_2329.png
+- name: Sathir's Spiritual Compass
+  icon: images/Item_3770.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +41,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shadowy Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Sathir's Shadow Chain Boots]]
+  - [[Sathir's Shadowrunner Shoes]]

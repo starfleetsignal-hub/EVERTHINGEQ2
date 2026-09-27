@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Storm Lord's Shroud
 added_in: Planes of Prophecy
+zone: '[[Torden, Bastion of Thunder: Storm Chase (Event Heroic)]], [[Torden, Bastion of Thunder: Storm Chase (Expert Event)]], [[Torden, Bastion of Thunder: Tower Breach (Expert)]], [[Torden, Bastion of Thunder: Tower Breach (Heroic)]], [[Torden, Bastion of Thunder: Winds of Change (Expert)]], [[Torden, Bastion of Thunder: Winds of Change (Heroic)]]'
+pieces:
+- name: Storm Lord's Keepsakes
+  icon: images/Item_566.png
+- name: Sad Sky Locket
+  icon: images/Item_3456.png
+- name: Clouded Serum Flask
+  icon: images/Item_31.png
+- name: Touched Lightning Glass
+  icon: images/Item_1135.png
+- name: Thundrous Bracer Buckle
+  icon: images/Item_488.png
+- name: Reins of the Cyclone
+  icon: images/Item_983.png
+- name: Belt of Crystallized Rain
+  icon: images/Item_953.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Storm Lord's Shroud (Item)|Storm Lord's Shroud]] this item is needed for the collection: [[Astral Storm Flux (Collection)|Astral Storm Flux]]
+- [[Storm Lord's Shoulded Bangle]]

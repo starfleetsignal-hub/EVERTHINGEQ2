@@ -5,6 +5,24 @@ level: '85'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Sebilisian Symbols'
+zone: '[[Sebilis]]'
+pieces:
+- name: A Symbol of the Jarsath
+  page: A Symbol of the Jarsath (Sebilisian Symbols)
+  icon: images/Item_2614.png
+  note: ''
+- name: A Symbol of the Kunzar
+  page: A Symbol of the Kunzar (Sebilisian Symbols)
+  icon: images/Item_2615.png
+- name: A Symbol of the Kylong
+  page: A Symbol of the Kylong (Sebilisian Symbols)
+  icon: images/Item_2616.png
+- name: A Symbol of the Nathsar
+  page: A Symbol of the Nathsar (Sebilisian Symbols)
+  icon: images/Item_2617.png
+- name: A Symbol of the Obulus
+  page: A Symbol of the Obulus (Sebilisian Symbols)
+  icon: images/Item_2613.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +43,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Ear Clasp of the Empire]]
+  - [[Ear Stud of the Empire]]

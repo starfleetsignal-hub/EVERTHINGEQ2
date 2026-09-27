@@ -4,6 +4,22 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Collection items
+pieces:
+- name: Necrotic Flesh
+  icon: images/Item_135.png
+  note: (Reward from the collection [[Harrowing Hoard]])
+- name: Shards of the Consumer
+  icon: images/Item_2778.png
+  note: (Reward from the collection [[Essence of the Dreadscale]])
+- name: Eternal Hunger
+  icon: images/Item_2787.png
+  note: (Reward from the collection [[Essence of a Dragon Knight]])
+- name: Feral Rage
+  page: Feral Rage (Item)
+  icon: images/Item_2243.png
+  note: (Reward from the collection [[Klandicar's Hoard]])
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +42,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Zlandicar]]
+- 3x [[Small Stack of Draconic Etyma]]

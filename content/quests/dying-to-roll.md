@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Ornate Silver Die
+  icon: images/Item_1211.png
+- name: Ornate Brown Die
+  icon: images/Item_1212.png
+- name: Splintered Bone Dice
+  icon: images/Item_1225.png
+- name: Skeletal Die
+  icon: images/Item_2941.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Harla Dar Charm]] this item is needed for the collection: [[Visionary Relief]]
+- one of the following:
+  - [[Vesspyr Scout's Elaborate Red Mantle]]
+  - [[Shadowblade Dagger]]

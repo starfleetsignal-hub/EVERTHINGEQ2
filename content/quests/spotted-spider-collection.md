@@ -6,6 +6,18 @@ in_game_name: spotted spider collection
 added_in: Shattered Lands
 aliases:
 - 'Spider: spotted spider collection'
+zone: '[[Stormhold]]'
+pieces:
+- name: spotted blue spider
+  icon: images/Item_1868.png
+- name: spotted green spider
+  icon: images/Item_1867.png
+- name: spotted grey spider
+  icon: images/Item_1866.png
+- name: spotted yellow spider
+  icon: images/Item_1869.png
+- name: spotted red spider
+  icon: images/Item_1870.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- At least 54s

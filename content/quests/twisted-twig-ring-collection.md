@@ -8,6 +8,21 @@ added_in: Chaos Descending
 aliases:
 - Twisted Twig Charm
 - Twisted Twig Charm (Collection)
+zone: '[[Vegarlson, the Earthen Badlands]]'
+collection_type: Cde
+pieces:
+- name: Earthen Twig
+  icon: images/Item_200.png
+  note: (Reward from the quest [[A Vekerchiki's Magic Bag]])
+- name: Essence of Regeneration
+  icon: images/Item_4091.png
+- name: Seal of Korascian
+  icon: images/Item_1261.png
+- name: Rune of Poison
+  page: Rune of Poison (Twisted Twig Ring)
+  icon: images/Item_1265.png
+- name: Sigil of Charisma
+  icon: images/Item_1312.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -28,4 +43,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Twisted Twig Ring (Equipment)|Twisted Twig Ring]]
+- [[Twisted Twig Ring (Collection Item)|Twisted Twig Ring]] this item is needed for the collection: [[Ensorcelled Metalcloth Cape (Collection)|Ensorcelled Metalcloth Cape]]

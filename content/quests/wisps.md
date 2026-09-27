@@ -3,6 +3,16 @@ title: Wisps
 type: quest
 level: '55'
 added_in: LU53
+zone: '[[Shard of Love: A Moment of Valor]]'
+pieces:
+- name: an immortal azure wisp
+  icon: images/Item_2514.png
+- name: a misfortunate green wisp
+  icon: images/Item_2510.png
+- name: an angry crimson wisp
+  icon: images/Item_2509.png
+- name: a powerful darkened wisp
+  icon: images/Item_2512.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +34,7 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A wooden statue pole]] this item is needed for the collection: [[Dismantled Statue Pieces]]
+- 1p

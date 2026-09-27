@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Advanced Solo)]], [[The Fabled Court of Innovation (Advanced Solo)]], [[The Fabled Crypt of Valdoon (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Rune of Animated Motion
+  icon: images/Item_1292.png
+- name: Rune of Animated Power
+  icon: images/Item_1293.png
+- name: Rune of Animated Will
+  icon: images/Item_1292.png
+- name: Rune of Animated Obedience
+  icon: images/Item_1291.png
+- name: Rune of Animated Intelligence
+  icon: images/Item_1291.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Heavy Metal Decimator]] this item is needed for the collection: [[King Klak'Anon Scepters]]

@@ -5,6 +5,36 @@ level: '20'
 added_in: The Shadow Odyssey
 events:
 - Frostfell
+zone: '[[The City of Freeport]], [[Qeynos Capitol District]], [[Qeynos Province District]], [[Frostfang Sea]], [[Frostfell Wonderland Village]]'
+collection_type: Purple
+pieces:
+- name: Gingersnaps
+  icon: images/Item_2556.png
+  note: (Found in Qeynos, Freeport and Neriak)
+- name: Frosted Shortbread
+  icon: images/Item_302.png
+  note: (Found in Qeynos, Freeport and Neriak)
+- name: Buttery Spritz Cookies
+  icon: images/Item_2557.png
+  note: (Found in Qeynos, Freeport and Neriak)
+- name: Chocolate Peppermint Drops
+  icon: images/Item_4165.png
+  note: (Found in Kelethin, New Halas and Gorowyn)
+- name: Pecan Roll-Ups
+  icon: images/Item_2580.png
+  note: (Found in Kelethin, New Halas and Gorowyn)
+- name: Almond Snowdrops
+  icon: images/Item_408.png
+  note: (Found in Kelethin, New Halas and Gorowyn)
+- name: Redcurrant Linzer Cookie
+  icon: images/Item_304.png
+  note: (Found in Frostfell Wonderland)
+- name: Thumbprint Cookies
+  icon: images/Item_2556.png
+  note: (Found in Frostfell Wonderland)
+- name: Poppyseed Rugelach
+  icon: images/Item_301.png
+  note: (Found in Frostfell Wonderland)
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +61,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bleachbone Faun Cloak]]

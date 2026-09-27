@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Cursed Halo of Thought
 added_in: Reign of Shadows
+pieces:
+- name: Heavy Gold-Plated Circlet
+  icon: images/Item_3306.png
+- name: Song of Cognition
+  icon: images/Item_75.png
+- name: Golden Griffon Feather
+  icon: images/Item_149.png
+- name: Silvery Light Stone
+  icon: images/Item_144.png
+- name: Aspect of the Profane
+  icon: images/Item_1367.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Cursed Halo of Thought (Armor)|Cursed Halo of Thought]]
+- [[Cursed Halo of Thought (Collection Item)|Cursed Halo of Thought]] this item is needed for the collection: [[Dangers of the Darkside]]

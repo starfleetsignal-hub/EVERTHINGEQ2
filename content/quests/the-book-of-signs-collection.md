@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: The Book of Signs
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Augur's Implements
+  icon: images/Item_32.png
+- name: Wooden Lituus
+  icon: images/Item_2330.png
+- name: Taboo Occult Coin
+  icon: images/Item_976.png
+  note: no-trade - (Reward from the quest [[Professional Opinion]])
+- name: Scroll of Omens
+  icon: images/Item_27.png
+- name: Plumewit Flight Talon
+  icon: images/Item_102.png
+- name: Cnidcara Tendril
+  icon: images/Item_98.png
+- name: Migration Map
+  icon: images/Item_3165.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Book of Signs (Collection Item)|The Book of Signs]] this item is needed for the collection: [[Elements of Augury]]
+- [[The Book of Signs (Charm)|The Book of Signs]]

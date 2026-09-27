@@ -5,6 +5,21 @@ level: '80'
 added_in: LU53
 aliases:
 - 'Tradeskill: Peacock Club Relics'
+zone: '[[Maj''Dul]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Peacock Club letterhead
+  icon: images/Item_2182.png
+- name: Peacock Club feather strands
+  icon: images/Item_153.png
+- name: Peacock Club envelope
+  icon: images/Item_3146.png
+- name: Peacock Club seal
+  icon: images/Item_991.png
+- name: Peacock Club portrait
+  icon: images/Item_855.png
+- name: Peacock Club lamp
+  icon: images/Item_2699.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +43,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A peacock feather]]

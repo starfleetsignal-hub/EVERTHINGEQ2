@@ -3,6 +3,25 @@ title: 'Chips: Terracotta Chips'
 type: quest
 level: '65'
 added_in: Rise of Kunark
+zone: '[[The Forsaken City]]'
+collection_type: Shiny
+pieces:
+- name: crushed terracotta chip
+  icon: images/Item_1086.png
+- name: immaculate terracotta chip
+  icon: images/Item_1086.png
+- name: polished terracotta chip
+  icon: images/Item_1086.png
+- name: pristine terracotta chip
+  icon: images/Item_1086.png
+- name: rough terracotta chip
+  icon: images/Item_1086.png
+- name: ruined terracotta chip
+  icon: images/Item_1086.png
+- name: shattered terracotta chip
+  icon: images/Item_1086.png
+- name: worn terracotta chip
+  icon: images/Item_1086.png
 categories:
 - Bugs
 - Census Credits
@@ -25,3 +44,7 @@ expansion_source: patch
 ---
 
 - This collection was formerly only available via the [[A Burynai Digger|Burynai house pet]]. [[LU51|GU51]] added this collection to [[The Forsaken City]].
+
+## Rewards
+
+- At least 3g 11s 10c

@@ -3,6 +3,18 @@ title: Echoes of Frozen Waves
 type: quest
 level: '130'
 added_in: Scars of Destruction
+zone: '[[Western Wastes]]'
+pieces:
+- name: Frozen Tide Shell
+  icon: images/Item_5732.png
+- name: Glacial Wave Crystal
+  icon: images/Item_5694.png
+- name: Ethereal Ice Shard
+  icon: images/Item_5697.png
+- name: Frozen Echo Conch
+  icon: images/Item_5731.png
+- name: Permafrost Coral Fragment
+  icon: images/Item_5778.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Tundra Rock Slab]]
+- [[Fragment of Collected Scars (Treasured) (Version 1)|Fragment of Collected Scars]]

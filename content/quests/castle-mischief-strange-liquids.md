@@ -4,6 +4,20 @@ type: quest
 level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 added_in: LU109
+pieces:
+- name: Strange Gray Liquid
+  icon: images/Item_354.png
+- name: Strange Green Liquid
+  icon: images/Item_355.png
+- name: Strange Red Liquid
+  icon: images/Item_356.png
+- name: Strange Yellow Liquid
+  icon: images/Item_357.png
+- name: Strange Purple Liquid
+  icon: images/Item_358.png
+  note: no-trade
+- name: Strange Blue Liquid
+  icon: images/Item_359.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +39,7 @@ expansion: Chaos Descending
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Bristlebane's Crown]] this item is needed for the collection: [[Bristlebane's Personal Effects]]
+- [[The Blind's Eye]]

@@ -6,6 +6,17 @@ added_in: Tears of Veeshan
 aliases:
 - Basket's Galore
 - Basket`s Galore
+zone: '[[The Fabled Sanctum of the Scaleborn]]'
+collection_type: Shiny
+pieces:
+- name: Basket of Desiccated Serpents
+  icon: images/Item_915.png
+- name: Basket of Dried Tangleflies
+  icon: images/Item_914.png
+- name: Dried Yellow Jacket Basket
+  icon: images/Item_916.png
+- name: Withered Bloodbloom Basket
+  icon: images/Item_915.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Lost Supplies]] this item is needed for the collection: [[Sigil of the Skyborn (Collection)|Sigil of the Skyborn]]

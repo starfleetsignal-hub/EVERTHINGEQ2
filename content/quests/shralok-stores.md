@@ -4,6 +4,20 @@ type: quest
 level: '135'
 timeline: '[[Revelations of Malice Timeline]]'
 added_in: Revelations of Malice
+pieces:
+- name: Shralok Sigil Guard
+  icon: images/Item_1303.png
+  note: no-trade
+- name: Shralok War Harness
+  icon: images/Item_1104.png
+- name: Shralok Crest Band
+  icon: images/Item_607.png
+- name: Shralok Battle Sash
+  icon: images/Item_736.png
+- name: Shralok Bindings Wraps
+  icon: images/Item_740.png
+- name: Shralok Command Pendant
+  icon: images/Item_1305.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +36,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fragment of Collected Void]]
+- [[Kladnog's Twin Blades]] this item is needed for the collection: [[Betrayal of Malice]]

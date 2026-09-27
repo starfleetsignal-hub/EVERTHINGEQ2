@@ -4,6 +4,19 @@ type: quest
 level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 added_in: Reign of Shadows
+pieces:
+- name: Delicate Crystal Wand
+  icon: images/Item_2990.png
+- name: Menacing Bone Wand
+  icon: images/Item_322.png
+- name: Gnarled Sumac Wand
+  icon: images/Item_618.png
+- name: Twisted Titanium Wand
+  icon: images/Item_2351.png
+- name: Forked Kaborite Wand
+  icon: images/Item_3209.png
+- name: Apprentice's Trick Wand
+  icon: images/Item_79.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vasty Deep Researcher's Robes (Chest)|Vasty Deep Researcher's Robes]]
+- [[Vasty Deep Researcher's Robes (Collection Item)|Vasty Deep Researcher's Robes]] this item is needed for the collection: [[Vasty Deep Lost and Found]]

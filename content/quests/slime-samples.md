@@ -5,6 +5,21 @@ level: '80'
 added_in: LU46
 aliases:
 - 'Tradeskill: Slime Samples'
+zone: '[[The Down Below]], [[The Thieves'' Way]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: smelly slime
+  icon: images/Item_2942.png
+- name: oozy slime
+  icon: images/Item_2928.png
+- name: gooey slime
+  icon: images/Item_2949.png
+- name: gelatinous slime
+  icon: images/Item_2943.png
+- name: putrid slime
+  icon: images/Item_2946.png
+- name: sticky slime
+  icon: images/Item_2916.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +44,9 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[A clear gelatinous cube]]
+  - [[A gelatinous crate]]
+  - [[A slimy gelatinous cube]]

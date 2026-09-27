@@ -5,6 +5,20 @@ level: '20'
 added_in: Sundered Splitpaw
 aliases:
 - 'Coins: Splitpaw Coins'
+zone: '[[The Drowned Caverns: Outer Grotto]], [[Sundered Splitpaw: Lower Tunnels]], [[Sundered Splitpaw: Upper Tunnels]]'
+pieces:
+- name: dull splitpaw coin
+  icon: images/Item_1799.png
+- name: glittering splitpaw coin
+  icon: images/Item_1802.png
+- name: glowing splitpaw coin
+  icon: images/Item_1800.png
+- name: rusty splitpaw coin
+  icon: images/Item_1797.png
+- name: scuffed splitpaw coin
+  icon: images/Item_1798.png
+- name: shiny splitpaw coin
+  icon: images/Item_1801.png
 categories:
 - Census Credits
 - Coins (CQ Category)
@@ -25,4 +39,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- At least 3g 9s

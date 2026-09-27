@@ -4,6 +4,22 @@ type: quest
 level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 added_in: LU109
+pieces:
+- name: Azure Energy Delivery Capsule
+  icon: images/Item_3096.png
+- name: Emerald Energy Delivery Capsule
+  icon: images/Item_3097.png
+- name: Violet Energy Delivery Capsule
+  icon: images/Item_3098.png
+- name: Flaming Energy Delivery Capsule
+  icon: images/Item_3099.png
+  note: no-trade
+- name: Crimson Energy Delivery Capsule
+  icon: images/Item_3100.png
+- name: Aqua Energy Delivery Capsule
+  icon: images/Item_3101.png
+- name: Golden Energy Delivery Capsule
+  icon: images/Item_3102.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +41,7 @@ expansion: Chaos Descending
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Wrist Sundial]]
+- [[Bristlebane's Flask]] this item is needed for the collection: [[Bristlebane's Personal Effects]]

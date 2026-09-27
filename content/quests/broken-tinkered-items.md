@@ -5,6 +5,17 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Tinkered: Broken Tinkered Items'
+zone: '[[The Shimmering Citadel]], [[The Sinking Sands]], [[The Pillars of Flame]]'
+pieces:
+- name: broken bolt
+  icon: images/Item_1031.png
+- name: broken cog
+  page: Broken cog (Item)
+  icon: images/Item_1042.png
+- name: broken gear
+  icon: images/Item_1041.png
+- name: broken spinner
+  icon: images/Item_1021.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Braided Mithril Cinch]]
+  - [[Ashbound Shoulder Pads]]

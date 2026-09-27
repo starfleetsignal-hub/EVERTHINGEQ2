@@ -4,6 +4,20 @@ type: quest
 level: '135'
 timeline: '[[Revelations of Malice Timeline]]'
 added_in: Revelations of Malice
+pieces:
+- name: Stonescale Serpent Fang
+  icon: images/Item_137.png
+  note: no-trade
+- name: Stonescale Serpent Scale
+  icon: images/Item_158.png
+- name: Malformed Geode Core
+  icon: images/Item_187.png
+- name: Malformed Geode Shard
+  icon: images/Item_184.png
+- name: Obelisk Fragment
+  icon: images/Item_183.png
+- name: Ritual Stone Idol
+  icon: images/Item_861.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +36,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fragment of Collected Void]]
+- [[Sonssiu Watcher's Focus]] this item is needed for the collection: [[Betrayal of Malice]]

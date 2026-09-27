@@ -4,6 +4,17 @@ type: quest
 level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 added_in: Reign of Shadows
+pieces:
+- name: Shadeweaver Webbing
+  icon: images/Item_2251.png
+- name: Sacred Blood
+  icon: images/Item_4883.png
+- name: Whisperling Shell
+  icon: images/Item_1196.png
+- name: Darkwood Ribbing
+  icon: images/Item_773.png
+- name: Caliber of Reverie
+  icon: images/Item_1165.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dreamweaver Webshield (Collection Item)|Dreamweaver Webshield]] this item is needed for the collection: [[Dangers of the Darkside]]
+- [[Dreamweaver Webshield (Shield)|Dreamweaver Webshield]]

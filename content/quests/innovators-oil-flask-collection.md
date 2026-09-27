@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Innovator's Oil Flask
 added_in: Planes of Prophecy
+zone: '[[Plane of Innovation: Gears in the Machine (Expert)]], [[Plane of Innovation: Gears in the Machine (Heroic)]], [[Plane of Innovation: Masks of the Marvelous (Expert)]], [[Plane of Innovation: Masks of the Marvelous (Heroic)]], [[Plane of Innovation: Parts not Included (Event Heroic)]], [[Plane of Innovation: Parts not Included (Expert Event)]]'
+pieces:
+- name: Clockwork Essential Oils
+  icon: images/Item_357.png
+- name: Peppergrease Oil
+  icon: images/Item_356.png
+- name: Monnaclef Coating
+  icon: images/Item_356.png
+- name: Enclypticus Toner
+  icon: images/Item_354.png
+- name: Venderdance Wax
+  icon: images/Item_359.png
+- name: Deepfill Glaze
+  icon: images/Item_358.png
+- name: Hingetight Quickener
+  icon: images/Item_355.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Innovator's Oil Flask (Item)|Innovator's Oil Flask]] this item is needed for the collection: [[Astral Mapping Device (Collection)|Astral Mapping Device]]
+- [[Innovator's Oil Flask (Ear)|Innovator's Oil Flask]]

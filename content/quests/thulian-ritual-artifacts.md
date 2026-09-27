@@ -3,6 +3,20 @@ title: Thulian Ritual Artifacts
 type: quest
 level: '130'
 added_in: LU129
+pieces:
+- name: Bronze Ritual Knife
+  icon: images/Item_205.png
+  note: no-trade
+- name: Tarnished Offering Bowl
+  icon: images/Item_650.png
+- name: Worn Mask of the Faceless
+  icon: images/Item_880.png
+- name: Stone Idol Fragment
+  icon: images/Item_829.png
+- name: Etched Thulian Chalice
+  icon: images/Item_944.png
+- name: Old Thulian Urn
+  icon: images/Item_569.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Venekor's Fear Touched Fang]] this item is needed for the collection: [[Implements of Fear]]

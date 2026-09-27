@@ -5,6 +5,17 @@ level: '125'
 added_in: Update 2022.08.09
 aliases:
 - Void-Touched Crytals
+pieces:
+- name: Purple Void-Touched Crystal
+  icon: images/Item_3772.png
+- name: Green Void-Touched Crystal
+  icon: images/Item_3775.png
+- name: Gold Void-Touched Crystal
+  icon: images/Item_3777.png
+- name: Blue Void-Touched Crystal
+  icon: images/Item_3771.png
+- name: Orange Void-Touched Crystal
+  icon: images/Item_3776.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Scornridden Greatsword]] this item is needed for the collection: [[Scornridden Weapons]]

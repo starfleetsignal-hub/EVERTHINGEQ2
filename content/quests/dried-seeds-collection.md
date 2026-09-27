@@ -5,6 +5,17 @@ level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 in_game_name: Dried Seeds
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Watermelon Seeds
+  icon: images/Item_787.png
+- name: Peach Pit
+  icon: images/Item_792.png
+- name: Cherry Seeds
+  icon: images/Item_784.png
+- name: Grape Seeds
+  icon: images/Item_789.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Fruit Seed Medley]] this item is needed for the collection: [[Entertaining Dinner]]
+- one of the following:
+  - [[Vesspyr Citizen's Blue Tunic]]
+  - [[Vesspyr Warrior's Bronze Greaves]]
+  - [[Shissar Longsword]]

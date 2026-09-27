@@ -4,6 +4,16 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Gerion: Realm of Conquest (Untold Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Chancellor's Key
+- name: Harold's Key
+- name: Marshal's Key
+- name: Cup Bearer's Key
+- name: Chamberlain's Key
+- name: High Lord's Key
+  note: no-trade from weekly mission
 categories:
 - Collection Quests
 - Collections that reward Collection Items
@@ -28,4 +38,7 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fragment of Collected Void]]
+- for the collection [[Untold Riches (Collection)|Untold Riches]]

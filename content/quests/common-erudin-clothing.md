@@ -3,6 +3,20 @@ title: Common Erudin Clothing
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[Erudin Research Halls]], [[Royal Palace of Erudin]]'
+pieces:
+- name: ornately stitched dress shirt
+  icon: images/Item_1.png
+- name: ornately stitched robe
+  icon: images/Item_3236.png
+- name: finely crafted shoes
+  icon: images/Item_119.png
+- name: finely crafted gloves
+  icon: images/Item_226.png
+- name: lace trimmed hood
+  icon: images/Item_1101.png
+- name: lace trimmed cloak
+  icon: images/Item_1098.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Garb of the Elemental Mage]]
+- [[Erudite Glyph Stones: Clothing]] this item is needed for the collection: [[Erudite Glyph Stones]]

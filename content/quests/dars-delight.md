@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Bells of Serenity
+  icon: images/Item_2343.png
+- name: Song of Peace
+  icon: images/Item_374.png
+- name: Flute of Joy
+  icon: images/Item_2246.png
+- name: Harp of Harmony
+  icon: images/Item_904.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Music to the Ear]] this item is needed for the collection: [[To Fool the Senses]]
+- one of the following:
+  - [[Vesspyr Scout's Red Chainmail]]
+  - [[Forestwraith's Cleave]]

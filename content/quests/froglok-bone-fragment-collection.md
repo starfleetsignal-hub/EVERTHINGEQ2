@@ -6,6 +6,19 @@ in_game_name: froglok bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: froglok bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered froglok bone fragment
+  icon: images/Item_322.png
+- name: cracked froglok bone fragment
+  page: Cracked froglok bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered froglok bone fragment
+  icon: images/Item_322.png
+- name: unscathed froglok bone fragment
+  icon: images/Item_322.png
+- name: enchanted froglok bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Weathered bone fragments collection|Weathered bone fragments]]
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
+
+## Rewards
+
+- [[Petrified Froglok Eye]]

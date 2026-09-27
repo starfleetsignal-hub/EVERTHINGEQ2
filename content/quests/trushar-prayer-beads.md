@@ -4,6 +4,19 @@ type: quest
 level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+pieces:
+- name: White Pearl Prayer Bead
+  icon: images/Item_4678.png
+- name: Carved Bone Prayer Bead
+  icon: images/Item_4671.png
+- name: Wave-Shaped Prayer Bead
+  icon: images/Item_4663.png
+- name: Aquamarine Prayer Bead
+  icon: images/Item_4670.png
+- name: Runed Prayer Bead
+  icon: images/Item_4674.png
+- name: Irridescent Pearl Prayer Bead
+  icon: images/Item_4679.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,4 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
-
+## Rewards

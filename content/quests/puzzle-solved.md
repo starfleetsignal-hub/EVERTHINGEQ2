@@ -4,6 +4,19 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Izshrash''Khar: Stratum of the Protectors (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Round Puzzle Piece
+  icon: images/Item_1336.png
+- name: Double Sided Puzzle Piece
+  icon: images/Item_1364.png
+- name: Blurry Puzzle Piece
+  icon: images/Item_1369.png
+- name: Textured Puzzle Piece
+  icon: images/Item_1373.png
+- name: Jagged Puzzle Piece
+  icon: images/Item_1383.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Iksar Puzzle Piece]] this item is needed for the collection: [[Iksar Junk]]
+- one of the following:
+  - [[Vesspyr Scout's Blue Boots]]
+  - [[Vesspyr Workman's Elaborate Green Mantle]]
+  - [[High Keep Skirmisher's Longbow]]

@@ -3,6 +3,22 @@ title: Ant Carapace
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Pristine Ant Carapace
+  icon: images/Item_5739.png
+  note: no-trade
+- name: Glistening Ant Carapace
+  icon: images/Item_5739.png
+- name: Scarred Ant Carapace
+  icon: images/Item_5739.png
+- name: Faded Ant Carapace
+  icon: images/Item_5739.png
+- name: Gnarled Ant Carapace
+  icon: images/Item_5739.png
+- name: Polished Ant Carapace
+  icon: images/Item_5739.png
+- name: Tattered Ant Carapace
+  icon: images/Item_5739.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +39,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Frenzied Sandskitterer Plushie]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Kerra Totem of Hunger]] this item is needed for the collection: [[Blood and Abandonment (Collection)|Blood and Abandonment]]

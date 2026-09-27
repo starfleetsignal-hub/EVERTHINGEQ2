@@ -5,6 +5,15 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Feathers: Harpy Feathers Collection'
+zone: '[[The Pillars of Flame]]'
+collection_type: Shiny
+pieces:
+- name: blue harpy feather
+  icon: images/Item_2106.png
+- name: green harpy feather
+  icon: images/Item_2105.png
+- name: red harpy feather
+  icon: images/Item_2111.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +34,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Feather Etched Gauntlets]]
+  - [[Feather Etched Gussets]]

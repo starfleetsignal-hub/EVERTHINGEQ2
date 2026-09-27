@@ -6,6 +6,18 @@ in_game_name: butterfly collection.
 added_in: Shattered Lands
 aliases:
 - 'Butterfly: butterfly collection'
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: box of striped butterflies
+  icon: images/Item_648.png
+  note: (Reward from the collection [[Striped butterfly collection]])
+- name: box of spotted butterflies
+  icon: images/Item_648.png
+  note: (Reward from the collection [[Spotted butterfly collection]])
+- name: box of plain butterflies
+  icon: images/Item_648.png
+  note: (Reward from the collections [[Duck and purple]], [[Features]] and [[Plain butterfly collection]])
 categories:
 - Butterfly (CQ Category)
 - Census Credits
@@ -26,4 +38,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Butterfly Wing Ring]]

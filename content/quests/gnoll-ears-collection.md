@@ -6,6 +6,16 @@ added_in: Sundered Splitpaw
 aliases:
 - 'Ears: Gnoll Ears'
 - Gnoll Ears
+zone: '[[The Drowned Caverns: Outer Grotto]], [[Sundered Splitpaw: Lower Tunnels]], [[Sundered Splitpaw: Upper Tunnels]]'
+pieces:
+- name: torn gnoll ear
+  icon: images/Item_113.png
+- name: pierced gnoll ear
+  icon: images/Item_113.png
+- name: tattered gnoll ear
+  icon: images/Item_113.png
+- name: mangled gnoll ear
+  icon: images/Item_113.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +36,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- At least 2g 8s

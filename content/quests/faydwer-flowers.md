@@ -5,6 +5,21 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Tradeskill: Faydwer Flowers'
+zone: '[[Greater Faydark]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: a delicate Faydwer flower
+  icon: images/Item_1940.png
+- name: a charming Faydwer flower
+  icon: images/Item_1948.png
+- name: an elegant Faydwer flower
+  icon: images/Item_1954.png
+- name: a sweet-smelling Faydwer flower
+  icon: images/Item_1942.png
+- name: an enchanting Faydwer flower
+  icon: images/Item_1942.png
+- name: a beautiful Faydwer flower
+  icon: images/Item_3201.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +44,7 @@ expansion_source: patch
 ---
 
 - All members of this collection are found in [[The Nursery]] area of the [[Greater Faydark]].
+
+## Rewards
+
+- [[Fae lamp post]]

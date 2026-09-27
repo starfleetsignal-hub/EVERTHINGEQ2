@@ -3,6 +3,20 @@ title: Elixirs of Sacrifice
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Elixir of Blood Draw
+  icon: images/Item_5890.png
+- name: Elixir of Deadly Hubris
+  icon: images/Item_5890.png
+  note: no-trade
+- name: Elixir of Crushing Terror
+  icon: images/Item_5890.png
+- name: Elixir of Infectious Pull
+  icon: images/Item_5890.png
+- name: Elixir of Enthralling Breach
+  icon: images/Item_5890.png
+- name: Elixir of Fatal Enticement
+  icon: images/Item_5890.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Forlorn Void-touched Legguards]]
+- [[Fragment of Collected Void]]
+- [[Twisted Limb]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

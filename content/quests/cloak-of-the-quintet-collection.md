@@ -5,6 +5,26 @@ level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 in_game_name: Cloak of the Quintet
 added_in: Rage of Cthurath
+collection_type: Corpse
+pieces:
+- name: Celestial Woven Cloth
+  icon: images/Item_6194.png
+  note: from chest of [[Protoslag]] or [[Lazirah Darkmoore (Untold Heroic)]] - no-trade
+- name: Gold Lined Braiding
+  icon: images/Item_6197.png
+  note: from chest of [[Raynax S'vere (Solo)]] or [[Lazirah Darkmoore (Solo)]] - no-trade
+- name: Globe of Cosmic Energy
+  icon: images/Item_6196.png
+  note: from chest of [[Mozal (Heroic)]] or [[Mrawl the Mutilator (Heroic)]] - no-trade
+- name: Blood of the Quintet
+  icon: images/Item_6198.png
+  note: from chest of [[High Lord Glazereyez (Heroic)]] - no-trade
+- name: Cameo of the Monstrous
+  icon: images/Item_6199.png
+  note: from chest of [[Xigothid (Untold Heroic)]] or [[Lu'Gul of Zob (Untold Heroic)]] - no-trade
+- name: Cosmic Silvered Thread
+  icon: images/Item_6195.png
+  note: from chest of [[Paragon of the Overlord (Untold Heroic)]] or [[Raynax S'Vere (Untold Heroic)]] - no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +45,7 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Cloak of the Quintet (Item)|Cloak of the Quintet]]
+- [[Fragment of Collected Void]]

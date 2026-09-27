@@ -3,6 +3,20 @@ title: Shards of the Ward-Golems
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Eastern Wastes]]'
+pieces:
+- name: A Prismatic Shard
+  icon: images/Item_1174.png
+- name: An Opalescent Shard
+  icon: images/Item_1189.png
+- name: A Gleaming Shard
+  icon: images/Item_1177.png
+- name: A Nacreous Shard
+  icon: images/Item_1184.png
+- name: An Empyreal Shard
+  icon: images/Item_1129.png
+- name: An Iridescent Shard
+  icon: images/Item_1188.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Natural Dragonkin Robe]]
+- [[Tales of Eastern Wastes Page 6]] this item is needed for the collection: [[Tales of Eastern Wastes (Collection)|Tales of Eastern Wastes]]

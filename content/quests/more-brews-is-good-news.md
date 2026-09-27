@@ -7,6 +7,32 @@ events:
 - Brew Day
 aliases:
 - More Brews is Good Brews
+collection_type: Purple
+pieces:
+- name: Alivan Pale Ale
+  icon: images/Item_306.png
+  note: '[[Scarstone]] in [[Cobalt Scar]] and [[Withered Lands]]'
+- name: New Combine Lager
+  icon: images/Item_307.png
+  note: '[[Scarstone]] in [[Cobalt Scar]] and [[Withered Lands]]'
+- name: Spirit's Saison
+  icon: images/Item_306.png
+  note: '[[Daarspire]] at {{waypoint 25, 195, -6}} in [[Vesspyr Isles]] and [[Cardin Ward]], [[Obol Plains]]'
+- name: Beyond the Veil Ale
+  icon: images/Item_307.png
+  note: '[[Daarspire]] at {{waypoint 25, 195, -6}} in [[Vesspyr Isles]] and [[Cardin Ward]], [[Obol Plains]]'
+- name: Black Pit Porter
+  icon: images/Item_306.png
+  note: Outside [[Far Seas Distillery]] in [[Phantom Sea]] and [[Sapswill's Rest]], [[Tranquil Sea]]
+- name: Far Seas Silver Rum
+  icon: images/Item_311.png
+  note: Outside [[Far Seas Distillery]] in [[Phantom Sea]] and [[Sapswill's Rest]], [[Tranquil Sea]]
+- name: Grey Stone Levitation Ale
+  icon: images/Item_308.png
+  note: '[[Mushroom Bar and Grill]] in [[Maldura]]'
+- name: Gnemlin Cog Grog
+  icon: images/Item_308.png
+  note: '[[Mushroom Bar and Grill]] in [[Maldura]]'
 categories:
 - Brew Day
 - Brewday (CQ Category)
@@ -37,3 +63,7 @@ expansion_source: patch
 
 There is also an assortment of consumable alcoholic drinks that spawn when harvesting the purple shinies.
 **For descriptions of where the other shinies can be located see the end notes  of the [article about Brew Day 2016 on EQ2 Traders](http://eq2.eqtraders.com/articles/article_page.php?article=q187&menustr=080000000000)**.
+
+## Rewards
+
+- [[Malduran Relief of the Holy Duke]]

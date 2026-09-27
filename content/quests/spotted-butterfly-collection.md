@@ -6,6 +6,17 @@ in_game_name: spotted butterfly collection
 added_in: Shattered Lands
 aliases:
 - 'Butterfly: spotted butterfly collection'
+zone: '[[The Caves]], [[The Forest Ruins]], [[The Peat Bog]], [[Oakmyst Forest]]'
+pieces:
+- name: spotted blue butterfly
+  icon: images/Item_1829.png
+- name: spotted purple butterfly
+  icon: images/Item_1831.png
+- name: spotted violet butterfly
+  icon: images/Item_1832.png
+- name: spotted yellow butterfly
+  icon: images/Item_1830.png
+  note: 'Also required by the quest: [[Desperately Seeking Butterflies!]]'
 categories:
 - Butterfly (CQ Category)
 - Census Credits
@@ -31,3 +42,8 @@ expansion_source: patch
 ---
 
 The reward from this collection is a member of the [[Butterfly collection.]]
+
+## Rewards
+
+- [[Box of spotted butterflies]] this item is needed for the collection: [[Butterfly collection.]]
+- At least 37c

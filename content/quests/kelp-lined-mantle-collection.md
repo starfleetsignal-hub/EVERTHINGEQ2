@@ -5,6 +5,19 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Kelp-Lined Mantle
 added_in: Chaos Descending
+zone: '[[Awuidor: Marr''s Ascent (Solo)]], [[Awuidor: The Nebulous Deep (Solo)]], [[Awuidor: The Veiled Precipice (Solo)]]'
+collection_type: Cdw
+pieces:
+- name: Waterlogged Mantle
+  icon: images/Item_481.png
+- name: Aria of the Deep
+  icon: images/Item_75.png
+- name: Stamp of Kelp
+  icon: images/Item_1795.png
+- name: Ink of the Octopod
+  icon: images/Item_3054.png
+- name: Signet of Foam
+  icon: images/Item_1356.png
 categories:
 - 'Awuidor: Marr''s Ascent (Solo) Collection Quests'
 - 'Awuidor: The Nebulous Deep (Solo) Collection Quests'
@@ -27,4 +40,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Kelp-Lined Mantle (Leather)|Kelp-Lined Mantle]]
+- [[Kelp-Lined Mantle (Collection Item)|Kelp-Lined Mantle]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]

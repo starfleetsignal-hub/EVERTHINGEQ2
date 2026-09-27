@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Temple of Cazic-Thule]]'
+collection_type: Shiny
+pieces:
+- name: Tae Ew Stone Club
+  icon: images/Item_1654.png
+- name: Tae Ew Jagged Dagger
+  icon: images/Item_1664.png
+- name: Tae Ew Bamboo Spear
+  icon: images/Item_1675.png
+- name: Tae Ew Jagged Blade
+  icon: images/Item_1659.png
+- name: Tae Ew Stone Axe
+  icon: images/Item_1649.png
 categories:
 - Cazic-Thule (Fabled) (CQ Category)
 - Census Credits
@@ -23,4 +36,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Primitive Tae Ew Pin]] this item is needed for the collection: [[Primitive Thulian Pins]]
+- one of the following:
+  - [[Jagged Tae Ew Stone Ring]]
+  - [[Woven Bamboo Tae Ew Ring]]

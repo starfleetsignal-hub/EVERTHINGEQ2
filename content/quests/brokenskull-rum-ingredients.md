@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
+pieces:
+- name: Kunarkian Molasses
+  icon: images/Item_405.png
+- name: Zekian Spices
+  icon: images/Item_420.png
+- name: Antonican White Sugar
+  icon: images/Item_408.png
+- name: Ykeshan Yeast
+  icon: images/Item_325.png
+- name: Tranquil Distilled Water
+  icon: images/Item_354.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Valgan's Rum-Stained Boots]] this item is needed for the collection: [[Pirate Belongings]]

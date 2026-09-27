@@ -3,6 +3,26 @@ title: Lowland Basin Goos and Gobs
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[The Sundered Frontier]]'
+pieces:
+- name: gob agglomeration
+  icon: images/Item_170.png
+- name: goo agglomeration
+  icon: images/Item_170.png
+- name: goo gob agglomeration
+  icon: images/Item_170.png
+- name: muddy gob
+  icon: images/Item_170.png
+- name: muddy gob agglomeration
+  icon: images/Item_170.png
+- name: muddy goo
+  icon: images/Item_170.png
+- name: muddy goo agglomeration
+  icon: images/Item_170.png
+- name: muddy goo gob
+  icon: images/Item_170.png
+- name: muddy goo gob agglomeration
+  icon: images/Item_170.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +45,8 @@ expansion_source: patch
 ---
 
 - Spawn areas: [[The Lowland Basin]], [[The Ruins of Old Paineel]], [[Timeworn Peaks]]
+
+## Rewards
+
+- [[Boots of the Elemental Soldier]]
+- [[Kaborite Crystal: Goos]] this item is needed for the collection: [[Sundered Frontier: Kaborite Crystals]]

@@ -3,6 +3,20 @@ title: Invocations of Raynax S'Vere
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Invocation of Crime
+  icon: images/Item_75.png
+- name: Invocation of Punishment
+  icon: images/Item_75.png
+- name: Invocation of Confinement
+  icon: images/Item_75.png
+- name: Invocation of Eternal Sentence
+  icon: images/Item_75.png
+  note: no-trade
+- name: Invocation of Undying Authority
+  icon: images/Item_75.png
+- name: Invocation of the Guillotine
+  icon: images/Item_75.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Soulbleeder]]
+- [[Fragment of Collected Void]]
+- [[Leather Gag]] this item is needed for the collection: [[Sadistic Implements (Collection)|Sadistic Implements]]

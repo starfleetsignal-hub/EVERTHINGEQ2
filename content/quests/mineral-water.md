@@ -5,6 +5,21 @@ level: '50'
 added_in: Echoes of Faydwer
 aliases:
 - 'Steamfont Mountains: Mineral Water'
+zone: '[[Steamfont Mountains]]'
+collection_type: Hidden
+pieces:
+- name: blue mineral water
+  icon: images/Item_329.png
+- name: boiling mineral water
+  icon: images/Item_1203.png
+- name: clear mineral water
+  icon: images/Item_324.png
+- name: fizzy mineral water
+  icon: images/Item_360.png
+- name: green mineral water
+  icon: images/Item_325.png
+- name: yellow mineral water
+  icon: images/Item_327.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +43,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Mineral-soaked Cinch (Version 2)|Mineral-soaked Cinch]]
+  - [[Mineral-soaked Sash (Version 2)|Mineral-soaked Sash]]

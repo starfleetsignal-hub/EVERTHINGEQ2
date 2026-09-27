@@ -3,6 +3,21 @@ title: Machinations of Chaos (Collection)
 type: quest
 level: '110'
 in_game_name: Machinations of Chaos
+pieces:
+- name: Machinations of Chaos - Page 1
+  icon: images/Item_185.png
+- name: Machinations of Chaos - Page 2
+  icon: images/Item_185.png
+- name: Machinations of Chaos - Page 3
+  icon: images/Item_185.png
+- name: Machinations of Chaos - Page 4
+  icon: images/Item_185.png
+- name: Machinations of Chaos - Page 5
+  icon: images/Item_185.png
+- name: Machinations of Chaos - Page 6
+  icon: images/Item_185.png
+- name: Machinations of Chaos - Page 7
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +36,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Machinations of Chaos (Book)|Machinations of Chaos]]

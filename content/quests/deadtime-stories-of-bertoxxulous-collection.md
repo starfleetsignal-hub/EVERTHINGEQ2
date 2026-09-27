@@ -4,6 +4,25 @@ type: quest
 level: '110'
 in_game_name: Deadtime Stories of Bertoxxulous
 added_in: Chaos Descending
+zone: '[[Myrist, the Great Library]]'
+collection_type: Pages
+pieces:
+- name: thumb|Deadtime Stories book on desk
+  page: File:Deadtime Stories on desk.jpg
+- name: Deadtime Stories of Bertoxxulous - Page 5
+  icon: images/Item_185.png
+- name: Deadtime Stories of Bertoxxulous - Page 8
+  icon: images/Item_185.png
+- name: Deadtime Stories of Bertoxxulous - Page 12
+  icon: images/Item_185.png
+- name: Deadtime Stories of Bertoxxulous - Page 15
+  icon: images/Item_185.png
+- name: Deadtime Stories of Bertoxxulous - Page 18
+  icon: images/Item_185.png
+- name: Deadtime Stories of Bertoxxulous - Page 20
+  icon: images/Item_185.png
+- name: Deadtime Stories of Bertoxxulous - Page 23
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Chaos Descending Collection Quests
@@ -28,3 +47,8 @@ In order to be able to see the pages for this tome, you must first pick up the b
 
 - On a desk near [[Librarian Szeth]] {{waypoint 326.99, 16.70, -204.09}}
 - On a desk on the west side of the room {{waypoint 369.63, 16.70, -209.68}}
+
+## Rewards
+
+- [[Deadtime Stories of Bertoxxulous (Book)|Deadtime Stories of Bertoxxulous]] *(yes, a copy of the book you pick up in the first place, not a house item)*
+- At least 2p 10g 49s 87c

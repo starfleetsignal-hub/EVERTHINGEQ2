@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Treskar's Mace of the Fist
+  icon: images/Item_2720.png
+  note: no-trade
+- name: Treskar's Strong Arm Bracers
+  icon: images/Item_512.png
+- name: Treskar's Jolting Strike
+  icon: images/Item_75.png
+- name: Treskar's Temperance of Wraith
+  icon: images/Item_185.png
+- name: Treskar's Boots of Shoving
+  icon: images/Item_527.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of Throatpuncher]] this item is needed for the collection: [[Inhabitants of Guk]]

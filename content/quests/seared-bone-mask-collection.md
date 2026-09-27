@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Seared Bone Mask
 added_in: Reign of Shadows
+pieces:
+- name: Seared Leech Bone
+  icon: images/Item_111.png
+- name: Bogling Whittling Knife
+  icon: images/Item_691.png
+- name: Grove Drake Wing
+  icon: images/Item_140.png
+- name: Chloro-Fly Ichor
+  icon: images/Item_4884.png
+- name: Kernel of Meaning
+  icon: images/Item_429.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seared Bone Mask (Charm)|Seared Bone Mask]]
+- [[Seared Bone Mask (Collection Item)|Seared Bone Mask]] this item is needed for the collection: [[Depths of the Darkside]]

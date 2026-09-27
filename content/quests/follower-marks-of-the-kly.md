@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Crypt of Dalnir: Baron''s Workshop (Heroic)]], [[Crypt of Dalnir: Ritual Chamber (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Accursed Signature of The Kly
+  icon: images/Item_373.png
+- name: Bloody Insignia of The Kly
+  icon: images/Item_2245.png
+- name: Doomed Stamp of The Kly
+  icon: images/Item_2244.png
+- name: Grim Symbol of The Kly
+  icon: images/Item_142.png
+- name: Grisly Impression of The Kly
+  icon: images/Item_2226.png
+- name: Mortal Brand of The Kly
+  icon: images/Item_2243.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Baneful Offering for Rile]] this item is needed for the collection: [[Alms of the Crypt of Dalnir]]
+- one of the following:
+  - [[Ring of Deathly Ghouls]]
+  - [[Great Sword of Blood Oaths]]

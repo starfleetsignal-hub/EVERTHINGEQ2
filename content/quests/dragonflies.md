@@ -3,6 +3,16 @@ title: Dragonflies
 type: quest
 level: '55'
 added_in: LU53
+zone: '[[Shard of Love: A Moment of Valor]]'
+pieces:
+- name: a red dragonfly
+  icon: images/Item_1926.png
+- name: a blue dragonfly
+  icon: images/Item_1924.png
+- name: a green dragonfly
+  icon: images/Item_1923.png
+- name: a golden dragonfly
+  icon: images/Item_1925.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +34,7 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A giant wooden bow]] this item is needed for the collection: [[Dismantled Statue Pieces]]
+- 1p

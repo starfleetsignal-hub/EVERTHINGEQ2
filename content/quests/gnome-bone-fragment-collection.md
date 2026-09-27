@@ -6,6 +6,19 @@ in_game_name: gnome bone fragment collection
 added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: gnome bone fragment collection'
+zone: '[[-]]'
+pieces:
+- name: shattered gnome bone fragment
+  icon: images/Item_322.png
+- name: cracked gnome bone fragment
+  page: Cracked gnome bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered gnome bone fragment
+  icon: images/Item_322.png
+- name: unscathed gnome bone fragment
+  icon: images/Item_322.png
+- name: enchanted gnome bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Weathered bone fragments collection|Weathered bone fragments]]
   - [[Unscathed bone fragments collection|Unscathed bone fragments]]
   - [[Enchanted bone fragments collection|Enchanted bone fragments]]
+
+## Rewards
+
+- [[Petrified Gnome Eye]]

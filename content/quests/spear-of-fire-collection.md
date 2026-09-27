@@ -5,6 +5,20 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Spear of Fire
 added_in: Chaos Descending
+zone: '[[Doomfire, the Burning Lands]]'
+pieces:
+- name: Sigil of Faith
+  icon: images/Item_1294.png
+- name: Rune of Mitigation
+  icon: images/Item_1276.png
+- name: Essence of the Swarm
+  page: Essence of the Swarm (Spear of Fire)
+  icon: images/Item_4080.png
+- name: Polished Spear Head
+  icon: images/Item_675.png
+- name: Seal of the Fire Vicar
+  icon: images/Item_1287.png
+  note: '(Reward from the quest [[Elements of Destruction: Flames of Order]])'
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +39,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Spear of Fire (Collection Item)|Spear of Fire]] this item is needed for the collection: [[Ensorcelled Metalcloth Cape (Collection)|Ensorcelled Metalcloth Cape]]
+- [[Spear of Fire (Weapon)|Spear of Fire]]

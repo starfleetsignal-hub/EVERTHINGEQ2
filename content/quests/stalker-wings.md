@@ -2,6 +2,19 @@
 title: Stalker Wings
 type: quest
 level: '10'
+pieces:
+- name: Torn Stalker Wing
+  icon: images/Item_4625.png
+- name: Burnt Stalker Wing
+  icon: images/Item_4625.png
+- name: Severed Stalker Wing
+  icon: images/Item_4625.png
+- name: Chewed Stalker Wing
+  icon: images/Item_4625.png
+- name: Tanned Stalker Wing
+  icon: images/Item_4625.png
+- name: Painted Stalker Wing
+  icon: images/Item_4625.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Zimaran Grand Dining Table]]
+- [[Shadowed Talisman]] this item is needed for the collection: [[Underpaw Talisman]]

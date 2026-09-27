@@ -5,6 +5,23 @@ level: '95'
 added_in: Nights of the Dead
 events:
 - Nights of the Dead
+zone: '[[-]]'
+collection_type: Pumpkin
+pieces:
+- name: Jack's Lantern
+  icon: images/Item_2577.png
+- name: Huntsmans Lost Prize
+  icon: images/Item_2687.png
+  note: (Reward from the collection [[Frightful Fabric]])
+- name: Treasures of the Tooth Fairy
+  icon: images/Item_2569.png
+  note: (Reward from the collection [[Ghoulish Masks]])
+- name: Raven Remains
+  icon: images/Item_101.png
+  note: (Reward from the collection [[Deadly Remnants]])
+- name: Elmo's Saintly Fire
+  icon: images/Item_2571.png
+  note: (Reward from the collection [[Crunchy Candied Crickets]])
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +42,11 @@ source:
 ---
 
 This is not a normal collection quest. The collection members are not obtained by harvesting shinies. Instead, four of the five collection members are themselves obtained from the completion of other collection quests. This is called a "meta-collection".
+
+## Rewards
+
+- Prefix title: [[Gravedigger]]
+- Suffix title: [[The Gravedigger]]
+- one of the following:
+  - [[Etched Cenotaph]]
+  - [[Engraved Cenotaph]]

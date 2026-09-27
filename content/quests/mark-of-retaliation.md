@@ -2,6 +2,24 @@
 title: Mark of Retaliation
 type: quest
 level: '120'
+pieces:
+- name: Mask of Retaliation
+  icon: images/Item_516.png
+- name: Orb of Retaliation
+  icon: images/Item_349.png
+- name: Robes of Retaliation
+  icon: images/Item_2752.png
+  note: no-trade
+- name: Ring of Retaliation
+  icon: images/Item_376.png
+- name: Tome of Retaliation
+  icon: images/Item_2694.png
+- name: Earring of Retaliation
+  icon: images/Item_394.png
+- name: Mail of Retaliation
+  icon: images/Item_1453.png
+- name: Armplates of Retaliation
+  icon: images/Item_271.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +37,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Ring of Shadowed Retaliation]]
+- Mark of Retaliation this item is needed for the collection: [[Mark of Judgment]]

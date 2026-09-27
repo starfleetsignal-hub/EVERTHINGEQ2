@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Collection items
+pieces:
+- name: Drinalian Stone
+  icon: images/Item_1160.png
+  note: (Reward from the collection [[Drinalian Trinkets]])
+- name: Lily Perfume
+  icon: images/Item_1207.png
+  note: (Reward from the collection [[Lillies Dandy]])
+- name: Dried Sand Dollar
+  icon: images/Item_2084.png
+  note: (Reward from the collection [[Echo Shells (Collection)|Echo Shells]])
+- name: Music to the Ear
+  icon: images/Item_715.png
+  note: (Reward from the collection [[Dar's Delight]])
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,9 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Drinalian Necklace]] this item is needed for the collection: [[Ring Around the Neck]]
+- [[Vesspyr Scout's Steel Helm]]
+- [[Golden Knuckles]]

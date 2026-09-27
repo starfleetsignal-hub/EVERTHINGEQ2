@@ -4,6 +4,24 @@ type: quest
 level: '37'
 in_game_name: The Storm Shepherds - Darnalithenis of Felwithe
 added_in: Shattered Lands
+zone: '[[Enchanted Lands]]'
+collection_type: Pages
+pieces:
+- name: The Storm Shepherds - Darnalithenis of Felwithe - Page 1
+  icon: images/Item_2180.png
+  note: Ground spawn at {{waypoint -112, -3, -1210}}
+- name: The Storm Shepherds - Darnalithenis of Felwithe - Page 2
+  icon: images/Item_2180.png
+  note: Clickable rocking chair in Berrybrook Field at {{waypoint 529, 5, -344}}
+- name: The Storm Shepherds - Darnalithenis of Felwithe - Page 3
+  icon: images/Item_2180.png
+- name: The Storm Shepherds - Darnalithenis of Felwithe - Page 9
+  icon: images/Item_2180.png
+- name: The Storm Shepherds - Darnalithenis of Felwithe - Page 11
+  icon: images/Item_2180.png
+  note: Clickable barrel at {{waypoint 329, 0, -205}}
+- name: The Storm Shepherds - Darnalithenis of Felwithe - Page 12
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Storm Shepherds - Darnalithenis of Felwithe (CollectionReward)|The Storm Shepherds - Darnalithenis of Felwithe]]

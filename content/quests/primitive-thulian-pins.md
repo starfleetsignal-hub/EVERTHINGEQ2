@@ -4,6 +4,24 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Temple of Cazic-Thule]]'
+collection_type: Collection items
+pieces:
+- name: Primitive Cenobite Pin
+  icon: images/Item_2689.png
+  note: (Reward from the collection [[Primitive Tae Ew Pins]])
+- name: Primitive Tae Ew Pin
+  icon: images/Item_2689.png
+  note: (Reward from the collection [[Tae Ew Weapons]])
+- name: Primitive Torturer Pin
+  icon: images/Item_2689.png
+  note: (Reward from the collection [[Thulian Ooze]])
+- name: Primitive Warlord Pin
+  icon: images/Item_2689.png
+  note: (Reward from the collection [[Thulian Clay]])
+- name: Primitive High Priest Pin
+  icon: images/Item_2689.png
+  note: (Reward from the collection [[Thulian Torture Implements]])
 categories:
 - Cazic-Thule (Fabled) (CQ Category)
 - Census Credits
@@ -23,4 +41,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[War Circlet of Disdain]] this item is needed for the collection: [[Tallon's Diadems]]
+- one of the following:
+  - [[Guarded Bracelet of the Tae Ew Ancients]]
+  - [[Bracelet of the Tae Ew Ancients]]

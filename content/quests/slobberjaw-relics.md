@@ -3,6 +3,18 @@ title: Slobberjaw Relics
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[The Stonebrunt Highlands]]'
+pieces:
+- name: crudely carved club
+  icon: images/Item_200.png
+- name: crudely carved effigy
+  icon: images/Item_3195.png
+- name: crudely carved spear
+  icon: images/Item_626.png
+- name: crudely carved bowl
+  icon: images/Item_1065.png
+- name: crudely carved shield
+  icon: images/Item_21.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Sallet of the Elemental Warrior]]
+- [[Kaborite Crystal: Slobberjaw]] this item is needed for the collection: [[Stonebrunt Highlands: Kaborite Crystals]]

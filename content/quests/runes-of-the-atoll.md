@@ -3,6 +3,20 @@ title: Runes of the Atoll
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Rune of the Shadowed Creep
+  icon: images/Item_4935.png
+- name: Rune of the Shackled Grave Keeper
+  icon: images/Item_4935.png
+- name: Rune of the Ogler of Doom
+  icon: images/Item_4935.png
+- name: Rune of the Poisoned Horror
+  icon: images/Item_4935.png
+- name: Rune of the Cup Bearer
+  icon: images/Item_4935.png
+- name: Rune of the Ver'Bohten Baron
+  icon: images/Item_4935.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Hatchery Manager Plushie]]
+- [[Fragment of Collected Void]]
+- [[Deformed Claw]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

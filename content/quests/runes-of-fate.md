@@ -3,6 +3,21 @@ title: Runes of Fate
 type: quest
 level: '95'
 added_in: Sentinel's Fate
+zone: '[[-]]'
+collection_type: Collection items
+pieces:
+- name: Rune of Theer
+  icon: images/Item_3819.png
+  note: (Reward from the collection [[Erudite Glyph Stones]])
+- name: Rune of Al'Kabor
+  icon: images/Item_3818.png
+  note: '(Reward from the collection [[Sundered Frontier: Kaborite Crystals]])'
+- name: Rune of El'Arad
+  icon: images/Item_3817.png
+  note: '(Reward from the collection [[Stonebrunt Highlands: Kaborite Crystals]])'
+- name: Rune of Fyr'remd
+  icon: images/Item_3816.png
+  note: '(Reward from the collection [[The Deep and Dark Places: Geodes]])'
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,10 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Combined Runes of El'Arad]]
+  - [[Fused Runes of El'Arad]]
+  - [[Joined Runes of El'Arad]]
+  - [[Melded Runes of El'Arad]]

@@ -3,6 +3,16 @@ title: Crageye Parts
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[The Sundered Frontier]]'
+pieces:
+- name: gnawed chunk of crageye stalker
+  icon: images/Item_135.png
+- name: chewed chunk of crageye stalker
+  icon: images/Item_135.png
+- name: chewed crageye stalker eye
+  icon: images/Item_83.png
+- name: gnawed crageye stalker tail
+  icon: images/Item_98.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +35,8 @@ expansion_source: patch
 ---
 
 - Spawn areas: [[The Highland Salts]]
+
+## Rewards
+
+- [[Coif of the Elemental Soldier]]
+- [[Kaborite Crystal: Crageye]] this item is needed for the collection: [[Sundered Frontier: Kaborite Crystals]]

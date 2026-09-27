@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Dark Assassin Armor
 added_in: Reign of Shadows
+zone: '[[Echo Caverns]]'
+pieces:
+- name: Vial of Darkness
+  icon: images/Item_3486.png
+- name: Reinforced Chainmail
+  icon: images/Item_1607.png
+- name: Soft Leather Lining
+  icon: images/Item_134.png
+- name: Special Iron Hooks
+  icon: images/Item_1044.png
+- name: Distilled Violence
+  icon: images/Item_4886.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dark Assassin Armor (Chest)|Dark Assassin Armor]]
+- [[Dark Assassin Armor (Collection Item)|Dark Assassin Armor]] this item is needed for the collection: [[Relics of the Darkside]]

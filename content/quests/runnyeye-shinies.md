@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Runnyeye Shiny of Ruckus
+  icon: images/Item_1288.png
+- name: Runnyeye Shiny of Eye Gouging
+  icon: images/Item_1291.png
+- name: Runnyeye Shiny of Halfies
+  icon: images/Item_1260.png
+- name: Runnyeye Shiny of Boom
+  icon: images/Item_1269.png
+- name: Runnyeye Shiny of Sparkly
+  icon: images/Item_1285.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Best Shiny]] this item is needed for the collection: [[Goblin Loots]]

@@ -2,6 +2,15 @@
 title: The Brady Bunch
 type: quest
 level: '40'
+pieces:
+- name: The Brady Bunch - Page 2
+  icon: images/Item_185.png
+- name: The Brady Bunch - Page 4
+  icon: images/Item_185.png
+- name: The Brady Bunch - Page 4
+  icon: images/Item_185.png
+- name: The Brady Bunch - Page 4
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests

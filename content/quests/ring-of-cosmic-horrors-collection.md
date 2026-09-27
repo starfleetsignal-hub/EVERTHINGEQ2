@@ -5,6 +5,26 @@ level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 in_game_name: Ring of Cosmic Horrors
 added_in: Rage of Cthurath
+collection_type: Corpse
+pieces:
+- name: Oogothl Platinum Prong
+  icon: images/Item_6190.png
+  note: from chest of [[Vitreous Prime]] or [[Lazirah Darkmoore (Untold Heroic)]] - no-trade
+- name: Celestial Made Shank
+  icon: images/Item_6192.png
+  note: from chest of [[Mozal (Solo)]] or [[Mrawl the Mutilator (Solo)]] - no-trade
+- name: Cosmic Iron Band
+  icon: images/Item_6193.png
+  note: from chest of [[Senzu (Heroic)]] - no-trade
+- name: Platinum Etched Hoop
+  icon: images/Item_6191.png
+  note: from chest of [[Infernal Tyrant Dennigrah (Heroic)]] or [[Gozaggrul (Heroic)]] - no-trade
+- name: Infernal Ruby Stone
+  icon: images/Item_6185.png
+  note: from chest of [[The Soulbleeder (Untold Heroic)]] or [[Nazkun (Untold Heroic)]] - no-trade
+- name: Elegant Golden Bridge
+  icon: images/Item_6184.png
+  note: from chest of [[Kur'Granox (Untold Heroic)]] or [[The Orozorgon (Untold Heroic)]] - no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +45,7 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ring of Cosmic Horrors (Item)|Ring of Cosmic Horrors]]
+- [[Fragment of Collected Void]]

@@ -4,6 +4,19 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[High Keep: The Bloodless Incursion (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Ancient Ashwood Tome
+  icon: images/Item_3145.png
+- name: Cloudy Azure Sphere
+  icon: images/Item_2929.png
+- name: Essence of the Storm
+  icon: images/Item_2916.png
+- name: Gleaming Crystal Scepter
+  icon: images/Item_2975.png
+- name: Scroll of the Tempest Eye
+  icon: images/Item_3165.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Scepter of Storms]] this item is needed for the collection: [[The Coercer's Guise]]

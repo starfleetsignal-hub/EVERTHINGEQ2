@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Precious Gem Bracelet
+  icon: images/Item_2189.png
+- name: Opulent Gem Locket
+  icon: images/Item_587.png
+- name: Beautiful Gem Bangle
+  icon: images/Item_2202.png
+- name: Glossy Glass Beads
+  icon: images/Item_385.png
+- name: Lavish Gem Pendant
+  icon: images/Item_583.png
+- name: Sparkling Gem Brooch
+  icon: images/Item_973.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Runaway Bride Affair]] this item is needed for the collection: [[Proceeding of Rak'Ashiir's Lost Faith]]
+- one of the following:
+  - [[Neh'Ashiir Necklace of Clout]]
+  - [[Neh'Ashiir Clinched Long Bow]]

@@ -6,6 +6,22 @@ in_game_name: commonlands shrub leaves collection
 added_in: Shattered Lands
 aliases:
 - 'Leaf: commonlands shrub leaves collection'
+zone: '[[The Commonlands]]'
+pieces:
+- name: commonlands shrub dark brown leaf
+  icon: images/Item_2109.png
+- name: commonlands shrub blue leaf
+  icon: images/Item_2106.png
+- name: commonlands shrub purple leaf
+  icon: images/Item_2107.png
+- name: commonlands shrub green leaf
+  icon: images/Item_2105.png
+- name: commonlands shrub yellow leaf
+  icon: images/Item_2110.png
+- name: commonlands shrub red leaf
+  icon: images/Item_2111.png
+- name: commonlands shrub light brown leaf
+  icon: images/Item_2108.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +42,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Collector's Pouch (12 Slots) (CollectionReward)|Small Collector's Pouch]]

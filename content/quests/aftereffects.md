@@ -2,6 +2,19 @@
 title: Aftereffects
 type: quest
 level: '130'
+pieces:
+- name: Sickly Aftereffect
+  icon: images/Item_4430.png
+- name: Dizzying Aftereffect
+  icon: images/Item_4433.png
+- name: Glowing Aftereffect
+  icon: images/Item_4431.png
+- name: Painful Aftereffect
+  icon: images/Item_4434.png
+- name: Warming Aftereffect
+  icon: images/Item_4432.png
+- name: Shivering Aftereffect
+  icon: images/Item_4429.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[Fearful Recollection]] this item is needed for the collection: [[Recollections Meta]]

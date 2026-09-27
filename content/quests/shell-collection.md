@@ -6,6 +6,22 @@ in_game_name: shell collection
 added_in: Shattered Lands
 aliases:
 - 'Shell: shell collection'
+zone: '[[The Forest Ruins]], [[Queen''s Colony]], [[Outpost of the Overlord]]'
+pieces:
+- name: abalone shell
+  page: Abalone shell (Item)
+  icon: images/Item_85.png
+- name: clam shell
+  icon: images/Item_85.png
+- name: conch shell
+  page: Conch shell (Item)
+  icon: images/Item_84.png
+- name: mussel shell
+  page: Mussel shell (Item)
+  icon: images/Item_85.png
+- name: turtle shell
+  page: Turtle shell (Level 25)
+  icon: images/Item_201.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +44,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Collected Shell Trinket]]

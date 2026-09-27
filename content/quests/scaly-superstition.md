@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Phantom Sea]]'
+pieces:
+- name: Scale of Korazhk
+  icon: images/Item_86.png
+- name: Scale of Ssraeshza
+  icon: images/Item_86.png
+- name: Scale of Ssravizh
+  icon: images/Item_86.png
+- name: Scale of Zherozsh
+  icon: images/Item_86.png
+- name: Scale of Zhesz
+  icon: images/Item_86.png
+- name: Scale of Rhag'Zadune
+  icon: images/Item_86.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Skeletal Iksar Plushie]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Sshraeshza]] this item is needed for the collection: [[Shields of Phantom Sea]]

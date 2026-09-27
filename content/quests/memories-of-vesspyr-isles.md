@@ -3,6 +3,26 @@ title: Memories of Vesspyr Isles
 type: quest
 level: '95'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]], [[Eidolon Jungle]], [[Obol Plains]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: All collection pieces are Lore
+- name: Essence of Yelinak
+  icon: images/Item_2007.png
+- name: Essence of Harla Dar
+  icon: images/Item_2027.png
+- name: Essence of Fraka Dar
+  icon: images/Item_2013.png
+- name: Essence of Vyemm
+  icon: images/Item_2021.png
+- name: Essence of Charayan
+  icon: images/Item_2007.png
+- name: Essence of Jortreva
+  icon: images/Item_2011.png
+- name: Essence of Darathar
+  icon: images/Item_2023.png
+- name: Essence of Wuoshi
+  icon: images/Item_2012.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +49,6 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vesspyr Isles Spirit Anchor]]

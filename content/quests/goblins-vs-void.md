@@ -3,6 +3,24 @@ title: Goblins vs Void
 type: quest
 level: '130'
 added_in: LU128
+zone: '[[Spiral of Vul (Contested)]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Scream Into It
+  icon: images/Item_2497.png
+- name: Run in Circles
+  icon: images/Item_2497.png
+- name: Hide in Plain Sight
+  icon: images/Item_2497.png
+- name: Flail Wildly
+  icon: images/Item_2497.png
+- name: Beg for Mercy
+  page: Beg for Mercy (Collection Item)
+  icon: images/Item_2497.png
+- name: Deny Existence
+  icon: images/Item_2497.png
+- name: Threaten Ineffectually
+  icon: images/Item_2497.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Blackhook Drudge Plushie]]

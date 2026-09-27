@@ -4,6 +4,20 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast]]'
+collection_type: Blue
+pieces:
+- name: Stone Belt
+  icon: images/Item_380.png
+  note: no-trade
+- name: Sambata Tribal Club
+  icon: images/Item_3566.png
+- name: Ornate Defiant Spiked Staff
+  icon: images/Item_1656.png
+- name: Polished Stone Spear
+  icon: images/Item_1659.png
+- name: Moonbeam Pearl
+  icon: images/Item_146.png
 categories:
 - Aurelian Coast Collection Quests
 - Blood of Luclin (CQ Category)
@@ -25,3 +39,7 @@ expansion_source: patch
 ---
 
 Ground spawns, blue shinies, found in Aurelian Coast on the coast where the horrors are.
+
+## Rewards
+
+- [[Gilded Recuso Helmet]] this item is needed for the collection: [[Artifacts of the Blinding]]

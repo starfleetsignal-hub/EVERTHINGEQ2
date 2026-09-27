@@ -4,6 +4,20 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: Planes of Prophecy
+zone: '[[Plane of Disease: Crypt of Decay (Tradeskill)]], [[Plane of Innovation: Security Measures (Tradeskill)]], [[Shard of Hate: Eye Spy (Tradeskill)]], [[Shard of Hate: Eye Spy (Tradeskill)]], [[Solusek Ro''s Tower: From the Ashes (Tradeskill)]], [[The Molten Throne: Hate''s Essences (Tradeskill)]], [[The Molten Throne: Portals to Nowhere (Tradeskill)]], [[Bastion of Thunder: Lightning Strikes (Tradeskill)]]'
+pieces:
+- name: Detrioxxian Corpse Fly
+  icon: images/Item_1919.png
+- name: Solusek Sun Fly
+  icon: images/Item_1925.png
+- name: Torden Sleet Fly
+  icon: images/Item_1913.png
+- name: Royal Fire Fly
+  icon: images/Item_1923.png
+- name: Valorous Common Fly
+  icon: images/Item_1916.png
+- name: Clockwork Housefly
+  icon: images/Item_1935.png
 categories:
 - 'Bastion of Thunder: Lightning Strikes (Tradeskill) Collection Quests'
 - Census Credits
@@ -30,4 +44,6 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Prince of Hate Shrine]]

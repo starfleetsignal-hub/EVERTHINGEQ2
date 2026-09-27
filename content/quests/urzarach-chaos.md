@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Eye of the Lost
+  icon: images/Item_1175.png
+- name: Soul of the Lost
+  icon: images/Item_1172.png
+- name: Intellect of the Lost
+  icon: images/Item_1154.png
+- name: Mind of the Lost
+  icon: images/Item_1127.png
+- name: Concept of the Lost
+  icon: images/Item_1198.png
+- name: Silence of the Lost
+  icon: images/Item_1191.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -28,3 +42,9 @@ expansion_source: patch
 ---
 
 Note that all these collection items are found on the *[[Death Weave Isle]]*.
+
+## Rewards
+
+- [[Urzarach Glow Sac]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Lost Khorr]] this item is needed for the collection: [[Shields of Tranquil Sea]]

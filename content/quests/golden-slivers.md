@@ -3,6 +3,18 @@ title: Golden Slivers
 type: quest
 level: '125'
 added_in: Update 2023.09.12
+zone: '[[Shattered Unrest (Solo)]]'
+pieces:
+- name: Heated Golden Sliver
+  icon: images/Item_3777.png
+- name: Chilled Golden Sliver
+  icon: images/Item_3777.png
+- name: Vibrating Golden Sliver
+  icon: images/Item_3777.png
+- name: Stable Golden Sliver
+  icon: images/Item_3777.png
+- name: Glassy Golden Sliver
+  icon: images/Item_3777.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A strange cerulean crystal]]
+- [[Gooey Imp Bits]] this item is needed for the collection: [[Gooey Bits Meta]]

@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Cloudburst Hailstone
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Torden, Bastion of Thunder: Storm Chase (Duo)]], [[Torden, Bastion of Thunder: Tower Breach (Solo)]], [[Torden, Bastion of Thunder: Winds of Change (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Furious Hailstones
+  icon: images/Item_1177.png
+- name: Turmoil Hailstone
+  icon: images/Item_1178.png
+- name: Commotion Hailstone
+  icon: images/Item_1178.png
+- name: Tempest Hailstone
+  icon: images/Item_1178.png
+- name: Barrage Hailstone
+  icon: images/Item_1177.png
+- name: Clamorous Hailstone
+  icon: images/Item_1178.png
+- name: Tumultuous Hailstone
+  icon: images/Item_1177.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -29,4 +46,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Cloudburst Hailstone (Item)|Cloudburst Hailstone]] this item is needed for the collection: [[Planar Storm Flux (Collection)|Planar Storm Flux]]
+- [[Cloudburst Hailstone Ring]]

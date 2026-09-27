@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Blesser's Tunic
+  icon: images/Item_225.png
+- name: Cook's Hat
+  icon: images/Item_2342.png
+- name: Scratcher's Fingerless Gloves
+  icon: images/Item_209.png
+- name: Windtamer's Leggings
+  icon: images/Item_268.png
+  note: no-trade
+- name: Clincher's Sandals
+  icon: images/Item_118.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Grungetalon Cooks Bandana]]
+- [[Mayka's Poked Out Eye]] this item is needed for the collection: [[Poked Out Boss Peepers]]

@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Phantom Sea]]'
+pieces:
+- name: Flag of Ferrin
+  icon: images/Item_3162.png
+- name: Flag of the Far Shore
+  icon: images/Item_3162.png
+- name: Flag of the Far Talon
+  icon: images/Item_3162.png
+- name: Flag of the Far Journey
+  icon: images/Item_3162.png
+- name: Flag of the Far Dawn
+  icon: images/Item_3162.png
+- name: Flag of Greymast
+  icon: images/Item_3162.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Crucible Apparatus]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Stillwater Bridge]] this item is needed for the collection: [[Shields of Phantom Sea]]

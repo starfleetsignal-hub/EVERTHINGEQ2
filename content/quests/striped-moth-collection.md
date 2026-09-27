@@ -6,6 +6,17 @@ in_game_name: striped moth collection
 added_in: Shattered Lands
 aliases:
 - 'Moth: striped moth collection'
+zone: '[[The Graveyard]], [[The Ruins]], [[Sunken City]], [[The Sprawl]]'
+collection_type: Shiny
+pieces:
+- name: striped brown moth
+  icon: images/Item_1907.png
+- name: striped white moth
+  icon: images/Item_1905.png
+- name: striped black moth
+  icon: images/Item_1904.png
+- name: striped tan moth
+  icon: images/Item_1906.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +40,7 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- At least 38c
+- [[Box of striped moths]] this item is needed for the collection: [[Moth collection]]

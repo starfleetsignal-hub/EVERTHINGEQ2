@@ -3,6 +3,30 @@ title: Requests of the Crusaders
 type: quest
 level: '95'
 added_in: LU63
+zone: '[[Skyshrine: The City of Dracur]]'
+pieces:
+- name: A Corrupted Gargoyle Stone
+  icon: images/Item_1188.png
+  note: '*Past*'
+- name: A Primal Storm Dragon Claw
+  icon: images/Item_2817.png
+  note: '*Past*'
+- name: A Corrupted Forbidding Stone
+  icon: images/Item_2935.png
+  note: '*Past*'
+- name: A Scorn Spectre Essence
+  icon: images/Item_2948.png
+- name: A Crystallized Wyvern Heart
+  icon: images/Item_3790.png
+- name: An Opalescent Gargoyle Stone
+  icon: images/Item_1189.png
+- name: A Shimmering Phantasm Stone
+  icon: images/Item_2922.png
+  note: (Found in Contested Skyshrine)
+- name: A Tainted Wyvern Heart
+  icon: images/Item_3789.png
+- name: An Ancient Drakeen Heart
+  icon: images/Item_2790.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +48,7 @@ expansion: Age of Discovery
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Majestic Crusader Adherent Motif]]
+- [[A Polished Leather Saddle]] this item is needed for the collection: [[Airs Above the Ground]]

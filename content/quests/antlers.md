@@ -3,6 +3,14 @@ title: Antlers
 type: quest
 level: '55'
 added_in: LU53
+zone: '[[Shard of Love: A Moment of Valor]]'
+pieces:
+- name: a mossy antler
+  icon: images/Item_863.png
+- name: a glass antler
+  icon: images/Item_863.png
+- name: an enormous antler
+  icon: images/Item_863.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +31,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A stone statue base]] this item is needed for the collection: [[Dismantled Statue Pieces]]

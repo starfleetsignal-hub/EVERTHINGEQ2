@@ -5,6 +5,27 @@ level: '20'
 added_in: Bristlebane Day
 events:
 - Bristlebane Day
+zone: '[[Enchanted Lands]], [[The Sinking Sands]]'
+collection_type: Purple
+pieces:
+- name: Bright Blue Ribbon
+  icon: images/Item_3096.png
+- name: Orange Confetti
+  icon: images/Item_5833.png
+- name: String of Fuchsia Beads
+  icon: images/Item_575.png
+- name: Plum Confetti
+  icon: images/Item_5833.png
+- name: String of Yellow Beads
+  icon: images/Item_575.png
+- name: Bright Pink Ribbon
+  icon: images/Item_3098.png
+- name: String of Chartreuse Beads
+  icon: images/Item_575.png
+- name: Teal Confetti
+  icon: images/Item_5833.png
+- name: Bright Yellow Ribbon
+  icon: images/Item_3102.png
 categories:
 - Bristlebane Day
 - Bristlebane Day (CQ Category)
@@ -25,4 +46,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Whirling Jumble of Revelry (Spell Scroll)|Whirling Jumble of Revelry]]

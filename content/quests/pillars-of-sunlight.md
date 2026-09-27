@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Shattered Daylight Beam
+  icon: images/Item_2916.png
+- name: Fractured Daytime Beam
+  icon: images/Item_2525.png
+- name: Split Sunshine Beam
+  icon: images/Item_2921.png
+- name: Divided Sunrise Beam
+  icon: images/Item_2523.png
+- name: Scattered Dawn Beam
+  icon: images/Item_2526.png
+- name: Peppered Sunlight Beam
+  icon: images/Item_2527.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Skewed Citizen Memories]] this item is needed for the collection: [[Proceeding of Rak'Ashiir's Lost Faith]]
+- one of the following:
+  - [[Unveiled Morn Light Sword]]
+  - [[Hidden Sun Ray Spear]]

@@ -4,6 +4,35 @@ type: quest
 level: '20'
 events:
 - Oceansfull Festival
+collection_type: Purple
+pieces:
+- name: Mesmerizing Jig
+  icon: images/Item_1037.png
+  note: '[[The Commonlands]]/[[Moors of Ykesha]]'
+- name: Spiroc Feather Spinnerbait
+  icon: images/Item_588.png
+  note: '[[The Commonlands]]/[[Moors of Ykesha]]'
+- name: Carved Shell Spoon Lure
+  icon: images/Item_5732.png
+  note: '[[The Commonlands]]/[[Moors of Ykesha]]'
+- name: Carved Bone Stickbait
+  icon: images/Item_5691.png
+  note: '[[Antonica]]/[[Kylong Plains]]'
+- name: Tinkered Copper Swimbait
+  icon: images/Item_1020.png
+  note: '[[Antonica]]/[[Kylong Plains]]'
+- name: Red Glass Lure
+  icon: images/Item_1191.png
+  note: '[[Antonica]]/[[Kylong Plains]]'
+- name: Vulrich Feather Top Water Lure
+  icon: images/Item_150.png
+  note: '[[Greater Faydark]]/[[Timorous Deep]]'
+- name: Drakota Scale Spinnerbait
+  icon: images/Item_85.png
+  note: '[[Greater Faydark]]/[[Timorous Deep]]'
+- name: Carved Wood Decoy Lure
+  icon: images/Item_5691.png
+  note: '[[Greater Faydark]]/[[Timorous Deep]]'
 categories:
 - Census Credits
 - Collection Quests
@@ -38,3 +67,7 @@ Where there's water, there's fun to be had! You can partake in Oceansfull in the
   - Phantom Sea
   - Obulus Frontier
   - Western Wastes
+
+## Rewards
+
+- [[Petamorph Wand: Mhyt-moo Zealot]]

@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Repairing Mass
+  icon: images/Item_91.png
+  note: no-trade
+- name: Coagulating Mass
+  icon: images/Item_91.png
+- name: Regenerating Mass
+  icon: images/Item_91.png
+- name: Reconstructing Mass
+  icon: images/Item_91.png
+- name: Mending Mass
+  icon: images/Item_91.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Prowler]] this item is needed for the collection: [[Inhabitants of Guk]]

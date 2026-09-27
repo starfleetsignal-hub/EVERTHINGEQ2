@@ -3,6 +3,17 @@ title: Bonemire Denizens
 type: quest
 level: '95'
 added_in: Tears of Veeshan
+zone: '[[The Fabled Halls of Fate]]'
+collection_type: Shiny
+pieces:
+- name: Ashengaze Scale
+  icon: images/Item_141.png
+- name: Cacotoxic Chitin
+  icon: images/Item_136.png
+- name: Fetidthorn Branch
+  icon: images/Item_197.png
+- name: Humator Thorax
+  icon: images/Item_162.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Bonemire Bones]] this item is needed for the collection: [[Fallen Foes]]

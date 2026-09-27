@@ -4,6 +4,23 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Crypt of Dalnir: Ritual Chamber (Heroic)]]'
+pieces:
+- name: Potions, Transcendence of Life and Death  Volume II Page 15
+  icon: images/Item_75.png
+  note: no-trade
+- name: Potions, Transcendence of Life and Death  Volume II Page 11
+  icon: images/Item_75.png
+  note: no-trade
+- name: Potions, Transcendence of Life and Death  Volume II Page 12
+  icon: images/Item_75.png
+  note: no-trade
+- name: Potions, Transcendence of Life and Death  Volume II Page 13
+  icon: images/Item_75.png
+  note: no-trade
+- name: Potions, Transcendence of Life and Death  Volume II Page 14
+  icon: images/Item_75.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +41,6 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A partial section of Potions, Transcendence of Life and Death Volume II|A partial section of Potions, Transcendence of Life and Death  Volume II]] this item is needed for the collection: [[Complete Potions: Transcendence of Life and Death Volume II]]

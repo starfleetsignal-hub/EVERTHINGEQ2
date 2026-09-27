@@ -7,6 +7,45 @@ added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: weathered bone fragments collection'
 - Weathered Bone Fragments
+zone: '[[The Thundering Steppes]], [[Stormhold]]'
+pieces:
+- name: weathered barbarian bone fragment
+  icon: images/Item_322.png
+- name: weathered high elf bone fragment
+  icon: images/Item_322.png
+- name: weathered human bone fragment
+  icon: images/Item_322.png
+- name: weathered iksar bone fragment
+  icon: images/Item_322.png
+- name: weathered kerra bone fragment
+  icon: images/Item_322.png
+- name: weathered ogre bone fragment
+  icon: images/Item_322.png
+- name: weathered orc bone fragment
+  icon: images/Item_322.png
+- name: weathered ratonga bone fragment
+  icon: images/Item_322.png
+- name: weathered troll bone fragment
+  icon: images/Item_322.png
+- name: weathered wood elf bone fragment
+  icon: images/Item_322.png
+- name: weathered dark elf bone fragment
+  icon: images/Item_322.png
+- name: weathered dwarf bone fragment
+  icon: images/Item_322.png
+- name: weathered erudite bone fragment
+  icon: images/Item_322.png
+- name: weathered froglok bone fragment
+  icon: images/Item_322.png
+- name: weathered gnoll bone fragment
+  page: Weathered gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: weathered gnome bone fragment
+  icon: images/Item_322.png
+- name: weathered half elf bone fragment
+  icon: images/Item_322.png
+- name: weathered halfling bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -28,4 +67,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Weathered Bone Necklace]]

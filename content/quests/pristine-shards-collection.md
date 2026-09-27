@@ -6,6 +6,20 @@ in_game_name: pristine shards collection
 added_in: Shattered Lands
 aliases:
 - 'Shard: pristine shards collection'
+zone: '[[The Commonlands]], [[Antonica]]'
+pieces:
+- name: pristine shard of abjuration
+  icon: images/Item_183.png
+- name: pristine shard of alteration
+  icon: images/Item_183.png
+- name: pristine shard of channeling
+  icon: images/Item_183.png
+- name: pristine shard of conjuration
+  icon: images/Item_183.png
+- name: pristine shard of divination
+  icon: images/Item_183.png
+- name: pristine shard of evocation
+  icon: images/Item_183.png
 categories:
 - Antonica Collection Quests
 - Census Credits
@@ -27,4 +41,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bracelet of Pristine Shards]]

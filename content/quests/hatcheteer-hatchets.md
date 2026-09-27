@@ -2,6 +2,29 @@
 title: Hatcheteer Hatchets
 type: quest
 level: '10'
+collection_type: Collection items
+pieces:
+- name: Bloody Hatchet
+  icon: images/Item_5704.png
+  note: no-trade - (Reward from the collection [[Fungal Spores]])
+- name: Dull Hatchet
+  icon: images/Item_5704.png
+  note: no-trade - (Reward from the collection [[Fungalfiend Talisman]])
+- name: Rusted Hatchet
+  icon: images/Item_5704.png
+  note: no-trade - (Reward from the collection [[Sabertooth Weapons]])
+- name: Fur-Handled Hatchet
+  icon: images/Item_5704.png
+  note: no-trade - (Reward from the collection [[Glowing Slugs]])
+- name: Gored Hatchet
+  icon: images/Item_5704.png
+  note: no-trade - (Reward from the collection [[Moldfist Weapons]])
+- name: Blackened Hatchet
+  icon: images/Item_5704.png
+  note: no-trade - (Reward from the collection [[Dustpaw Weapons]])
+- name: Stone Hatchet
+  icon: images/Item_5704.png
+  note: no-trade - (Reward from the collection [[Viper Fangs]])
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +42,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Purple Darkpaw Gem of Fervent Guile]]

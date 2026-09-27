@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[The Ruins of Ssraeshza (Heroic)]], [[The Vault of Ssraeshza (Heroic)]], [[The Venom of Ssraeshza (Event Heroic)]]'
+pieces:
+- name: Rhag'Nazza's Venom Gauge
+  icon: images/Item_4355.png
+- name: Rhag'Nazza's Authentic Affliction
+  icon: images/Item_4377.png
+- name: Rhag'Nazza's Spurious Affliction
+  icon: images/Item_4381.png
+- name: Rhag'Nazza's Shockwave
+  icon: images/Item_4369.png
+- name: Rhag'Nazza's Bubble
+  icon: images/Item_4359.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,7 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Rhag'Nazza's Cloak of Shadow]]
+- [[Insignia of the Resident Scribe]] this item is needed for the collection: [[Sanctus Seru Station Insignias]]

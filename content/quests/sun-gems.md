@@ -5,6 +5,18 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Gems: Sun Gems'
+zone: '[[The Sinking Sands]]'
+pieces:
+- name: large sun bead
+  icon: images/Item_389.png
+- name: long sun cord
+  icon: images/Item_389.png
+- name: large sun pendant
+  icon: images/Item_389.png
+- name: medium sun bead
+  icon: images/Item_389.png
+- name: small sun bead
+  icon: images/Item_389.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +39,10 @@ expansion_source: patch
 ---
 
 This is believed to have been an incomplete Burynai collection, which was removed in [[LU51|GU51]], and added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Sunshard Bracelet]]
+  - [[Sunshard Earring]]
+  - [[Dervish glass chest]]

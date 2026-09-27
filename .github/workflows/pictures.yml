@@ -1,0 +1,45 @@
+name: Web pictures
+
+# Downloads every picture the pages show (data/pictures.json) from Fandom's image host, shrinks it to at most 640 px
+# wide as WebP (tools/web_pictures.py) and attaches the results to the "images" release as web-pictures-NN.tar.
+# The Pages build unpacks those tars into the site. Re-run it after data/pictures.json changes.
+on:
+  push:
+    paths: ["data/pictures.json", "tools/web_pictures.py", ".github/workflows/pictures.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: web-pictures
+  cancel-in-progress: true
+
+env:
+  TAG: images
+  GH_TOKEN: ${{ github.token }}
+  GH_REPO: ${{ github.repository }}
+
+jobs:
+  shard:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tools
+            data/pictures.json
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python3 tools/web_pictures.py --shard ${{ matrix.shard }}
+      - name: Upload to the release
+        run: |
+          n=$(printf %02d ${{ matrix.shard }})
+          gh release upload "$TAG" "web-pictures-$n.tar" "web-pictures-$n-failed.json" --clobber

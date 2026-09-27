@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+pieces:
+- name: Bead of Cae'Dal Prayer
+  icon: images/Item_2928.png
+- name: Bead of Fortification
+  icon: images/Item_2943.png
+- name: Bead of Khalee'Sri Dream
+  icon: images/Item_2929.png
+- name: Bead of New Discovery
+  icon: images/Item_2922.png
+- name: Bead of Rendering Sand
+  icon: images/Item_2949.png
+- name: Bead of Valinor Hope
+  icon: images/Item_2916.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Persevering Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Enlightened Journey Spaulders]]
+  - [[Enlightened Journey Sword]]

@@ -4,6 +4,23 @@ type: quest
 level: '45'
 in_game_name: The Last Battle
 added_in: Shattered Lands
+zone: '[[Everfrost]]'
+collection_type: Pages
+pieces:
+- name: The Last Battle - Page 1
+  icon: images/Item_2180.png
+- name: The Last Battle - Page 3
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop ([[Primal frostfin]]; [[A frozen gale]]; [[Numbfoot hunter]])
+- name: The Last Battle - Page 4
+  icon: images/Item_2180.png
+- name: The Last Battle - Page 8
+  icon: images/Item_2180.png
+- name: The Last Battle - Page 9
+  icon: images/Item_2180.png
+- name: The Last Battle - Page 12
+  icon: images/Item_2180.png
+  note: Corpse drop only ([[Icegill whelp]], [[Icegill fisher]])
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +41,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Last Battle (CollectionReward)|The Last Battle]]

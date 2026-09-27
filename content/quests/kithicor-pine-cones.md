@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Phantom Sea]]'
+pieces:
+- name: Ivy Etched Pinyon
+  icon: images/Item_802.png
+- name: Wonderer's Knot Pinyon
+  icon: images/Item_802.png
+- name: Highpass Pine Cone
+  icon: images/Item_802.png
+- name: Kithicor Pinyon
+  icon: images/Item_802.png
+- name: Blessed Knoll Pine Cone
+  icon: images/Item_802.png
+- name: Ghorkaal Pine Cone
+  icon: images/Item_802.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Small Zavith'loa Glowflower]]
+- [[Shield of Peril Point]] this item is needed for the collection: [[Shields of Phantom Sea]]

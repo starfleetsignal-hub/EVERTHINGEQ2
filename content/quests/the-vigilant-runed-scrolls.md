@@ -3,6 +3,21 @@ title: 'The Vigilant: Runed Scrolls'
 type: quest
 level: '92'
 added_in: Sentinel's Fate
+zone: '[[The Vigilant: Infiltration]], [[The Vigilant: Incursion]], [[The Vigilant: Rescue]]'
+collection_type: Shiny
+pieces:
+- name: 'runed scroll: red scrawled'
+  icon: images/Item_2708.png
+- name: 'runed scroll: glowing runes'
+  icon: images/Item_2708.png
+- name: 'runed scroll: blue scrawled'
+  icon: images/Item_2708.png
+- name: 'runed scroll: fading runes'
+  icon: images/Item_2708.png
+- name: 'runed scroll: burnt'
+  icon: images/Item_2708.png
+- name: 'runed scroll: torn'
+  icon: images/Item_2708.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An ornamental potion bottle]]
+- [[Erudite Glyph Stones: Scrolls]] this item is needed for the collection: [[Erudite Glyph Stones]]

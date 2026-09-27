@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: LU106
+zone: '[[Shard of Hate: Udder Contempt (Herd Mode)]], [[Shard of Hate: Utter Contempt (Heroic)]]'
+pieces:
+- name: Despicably Voiced Divination
+  icon: images/Item_2183.png
+- name: Despicably Needed Motive
+  icon: images/Item_2693.png
+- name: Despicably Dismantled Doll
+  icon: images/Item_652.png
+- name: Despicably Broken Skull
+  icon: images/Item_91.png
+- name: Despicably Asserted Murmur
+  icon: images/Item_145.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Planes of Prophecy
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Fang of Ulvaug]] this item is needed for the collection: [[Fragments of Hate]]
+- [[Banal Band]]

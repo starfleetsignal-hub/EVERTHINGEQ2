@@ -3,6 +3,21 @@ title: Runes of Zon Zobboz
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Rune of Poison
+  page: Rune of Poison (Runes of Zon Zobboz)
+  icon: images/Item_4933.png
+- name: Rune of Experimentation
+  icon: images/Item_4933.png
+- name: Rune of Horror
+  icon: images/Item_4933.png
+- name: Rune of the Maw
+  icon: images/Item_4933.png
+- name: Rune of the Abominable
+  icon: images/Item_4933.png
+- name: Rune of the Watcher
+  icon: images/Item_4933.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Xaephian Fugitive]]
+- [[Fragment of Collected Void]]
+- [[Misshapen Finger]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

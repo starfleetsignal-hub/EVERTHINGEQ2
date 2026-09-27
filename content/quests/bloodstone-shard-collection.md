@@ -6,6 +6,21 @@ in_game_name: bloodstone shard collection
 added_in: Bloodline Chronicles
 aliases:
 - 'Shard: bloodstone shard collection'
+zone: '[[The Crypt of T''haen]], [[Tombs of Night]]'
+collection_type: Shiny
+pieces:
+- name: shattered bloodstone shard
+  icon: images/Item_1121.png
+- name: cracked bloodstone shard
+  icon: images/Item_1145.png
+- name: scuffed bloodstone shard
+  icon: images/Item_1171.png
+- name: cloudy bloodstone shard
+  icon: images/Item_1169.png
+- name: clear bloodstone shard
+  icon: images/Item_771.png
+- name: pristine bloodstone shard
+  icon: images/Item_771.png
 categories:
 - Bloodline Chronicles Collection Quests
 - Census Credits
@@ -25,4 +40,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Bloodstone shards]]

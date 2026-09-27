@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Ensorcelled Salve
 added_in: Planes of Prophecy
+zone: '[[Plane of Disease: Infested Mesa (Event Heroic)]], [[Plane of Disease: Infested Mesa (Expert Event)]], [[Plane of Disease: Outbreak (Expert)]], [[Plane of Disease: Outbreak (Heroic)]], [[Plane of Disease: The Source (Expert)]], [[Plane of Disease: The Source (Heroic)]]'
+pieces:
+- name: Wounded Flesh
+  icon: images/Item_138.png
+- name: Infected Lacerated Skin
+  icon: images/Item_133.png
+- name: Sickly Punctured Skin
+  icon: images/Item_158.png
+- name: Afflicted Skin Abrasion
+  icon: images/Item_131.png
+- name: Infected Burned Skin
+  icon: images/Item_168.png
+- name: Polluted Skin Ulcer
+  icon: images/Item_135.png
+- name: Corrupted Rotting Skin
+  icon: images/Item_141.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ensorcelled Salve (Item)|Ensorcelled Salve]] this item is needed for the collection: [[Astral Plague Wards]]
+- [[Torque of the Ensorcelled]]

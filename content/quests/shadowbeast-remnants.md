@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast]]'
+pieces:
+- name: Dried Shadowbeast Eye
+  icon: images/Item_83.png
+- name: Rotten Shadowbeast Flesh
+  icon: images/Item_130.png
+- name: Severed Shadowbeast Hand
+  icon: images/Item_174.png
+- name: Jagged Shadowbeast Tooth
+  icon: images/Item_137.png
+- name: Bleached Shadowbeast Skull
+  icon: images/Item_142.png
 categories:
 - Aurelian Coast Collection Quests
 - Blood of Luclin (CQ Category)
@@ -25,4 +37,7 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shadowbeast Hide Chestguard]]
+- [[Grimling Forest Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]

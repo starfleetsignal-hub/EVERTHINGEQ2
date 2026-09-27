@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Temple of Veeshan: Halls of the Betrayer (Advanced Solo)]], [[Temple of Veeshan: Vulak''Aerr''s Dominion (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Brown Dragon Egg
+  page: Brown Dragon Egg (Dragons to Be)
+  icon: images/Item_2523.png
+- name: Blue Dragon Egg
+  page: Blue Dragon Egg (Dragons to Be)
+  icon: images/Item_2524.png
+- name: Yellow Dragon Egg
+  page: Yellow Dragon Egg (Dragons to Be)
+  icon: images/Item_2525.png
+- name: Gray Dragon Egg
+  page: Gray Dragon Egg (Dragons to Be)
+  icon: images/Item_2526.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Baby Dragon Egg]] this item is needed for the collection: [[Oil and Feathered]]
+  - [[Master's Bladestaff]] (*possible no longer a reward*)
+- one of the following:
+  - [[Vesspyr Scholar's Elaborate Blue Robe]]
+  - [[Highpass Plate Greaves]]

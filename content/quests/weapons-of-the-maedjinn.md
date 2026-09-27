@@ -3,6 +3,19 @@ title: Weapons of the Maedjinn
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Sword of the Maedjinn
+  icon: images/Item_5720.png
+- name: Hammer of the Maedjinn
+  icon: images/Item_5714.png
+- name: Dagger of the Maedjinn
+  icon: images/Item_5706.png
+- name: Katana of the Maedjinn
+  icon: images/Item_5723.png
+- name: Scimitar of the Maedjinn
+  icon: images/Item_5722.png
+- name: Great-Hammer of the Maedjinn
+  icon: images/Item_5712.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Crimson Stool]]
+- [[Fragment of Collected Ballads (Treasured) (Version 1)|Fragment of Collected Ballads]]
+- [[Vaashkaani Timpani]] this item is needed for the collection: [[Overrealm Percussion]]

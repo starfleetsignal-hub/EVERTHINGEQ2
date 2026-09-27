@@ -5,6 +5,25 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Blood Runes'
+zone: '[[Befallen: Cavern of the Afflicted]], [[Befallen: Halls of the Forsaken]], [[Befallen: Necrotic Asylum]]'
+collection_type: Shiny
+pieces:
+- name: 'Rune of Blood: Annihilation'
+  icon: images/Item_375.png
+- name: 'Rune of Blood: Destruction'
+  icon: images/Item_375.png
+- name: 'Rune of Blood: Extermination'
+  icon: images/Item_375.png
+- name: 'Rune of Blood: Martyrdom'
+  icon: images/Item_375.png
+- name: 'Rune of Blood: Fatality'
+  icon: images/Item_375.png
+- name: 'Rune of Blood: Casualty'
+  icon: images/Item_375.png
+- name: 'Rune of Blood: Ruin'
+  icon: images/Item_375.png
+- name: 'Rune of Blood: Doom'
+  icon: images/Item_375.png
 categories:
 - 'Befallen: Cavern of the Afflicted Collection Quests'
 - 'Befallen: Halls of the Forsaken Collection Quests'
@@ -27,4 +46,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Blood Rune Belt]]
+  - [[Etched Stone Blood Ring]]

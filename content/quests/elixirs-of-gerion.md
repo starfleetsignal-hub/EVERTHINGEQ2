@@ -3,6 +3,20 @@ title: Elixirs of Gerion
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Elixir of Rage
+  icon: images/Item_5888.png
+- name: Elixir of Pain
+  icon: images/Item_5888.png
+- name: Elixir of Infestation
+  icon: images/Item_5888.png
+- name: Elixir of Ferocious Feasts
+  icon: images/Item_5888.png
+  note: no-trade
+- name: Elixir of Tenets of Terror
+  icon: images/Item_5888.png
+- name: Elixir of Tenets of Torment
+  icon: images/Item_5888.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Petamorph Wand: Wrought Eyeblight]]
+- [[Fragment of Collected Void]]
+- [[Malformed Paw]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

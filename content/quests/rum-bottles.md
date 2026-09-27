@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
+pieces:
+- name: Brown Rum Bottle
+  icon: images/Item_2583.png
+- name: Green Rum Bottle
+  icon: images/Item_2582.png
+- name: Murkey Rum Bottle
+  icon: images/Item_2588.png
+- name: Blue Rum Bottle
+  icon: images/Item_2586.png
+- name: Clear Rum Bottle
+  icon: images/Item_2589.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Valgan's Club]] this item is needed for the collection: [[Pirate Belongings]]

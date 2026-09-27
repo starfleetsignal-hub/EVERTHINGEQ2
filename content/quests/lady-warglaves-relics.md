@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Sanctus Seru: Arx Aeturnus (Event Heroic)]], [[Sanctus Seru: Echelon of Divinity (Heroic)]], [[Sanctus Seru: Echelon of Order (Heroic)]]'
+pieces:
+- name: Warglave's Holy Reckoning
+  icon: images/Item_4379.png
+- name: Warglave's Righteous Fury
+  icon: images/Item_4393.png
+- name: Warglave's Flying Steed
+  icon: images/Item_4392.png
+- name: Warglave's Divine Vengeance
+  icon: images/Item_4380.png
+- name: Warglave's Commands
+  icon: images/Item_4357.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,7 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Lady Warglaves' Earring of Station]]
+- [[Insignia of the Resident Bowyer]] this item is needed for the collection: [[Sanctus Seru Station Insignias]]

@@ -5,6 +5,14 @@ level: '45'
 added_in: Shattered Lands
 aliases:
 - 'Coin: Ak''Anon coins collection'
+zone: '[[Everfrost]]'
+pieces:
+- name: platinum sprocket coin of ak'anon
+  icon: images/Item_1389.png
+- name: gold sprocket coin of ak'anon
+  icon: images/Item_1384.png
+- name: silver sprocket coin of ak'anon
+  icon: images/Item_1379.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -25,4 +33,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Ak'Anon Scroll]]

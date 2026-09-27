@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Many Uses for Bones
 added_in: Visions of Vetrovia
+pieces:
+- name: Bone Drumsticks
+  icon: images/Item_418.png
+- name: Skull Drums
+  icon: images/Item_2712.png
+- name: Bone Warding Signs
+  icon: images/Item_373.png
+- name: Ritualistic Bone Totems
+  icon: images/Item_372.png
+- name: Deino Chew Toys
+  icon: images/Item_2707.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Many Uses for Bones (Item)|Many Uses for Bones]] this item is needed for the collection: [[Vetrovian Perceptions]]
+- one of the following:
+  - [[Assembled Robust Chain Shirt]]
+  - [[Assembled Robust Woolen Shirt]]
+  - [[Assembled Robust Jerkin]]
+  - [[Assembled Robust Greatplate]]

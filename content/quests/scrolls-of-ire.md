@@ -4,6 +4,21 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Yon Gorroth]]'
+collection_type: Shiny
+pieces:
+- name: Scroll of Horror
+  icon: images/Item_2708.png
+- name: Scroll of Apprehension
+  icon: images/Item_2708.png
+- name: Scroll of Dismay
+  icon: images/Item_2708.png
+- name: Scroll of Abhorrence
+  icon: images/Item_2708.png
+- name: Scroll of Repugnant
+  icon: images/Item_2708.png
+- name: Scroll of Detestation
+  icon: images/Item_2708.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Void-touched Legguards]]
+- [[Fragment of Collected Void]]
+- [[Voidspawn Ichor]] this item is needed for the collection: [[Jar of Darkened Ichor (Collection)|Jar of Darkened Ichor]]

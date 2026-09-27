@@ -3,6 +3,20 @@ title: Essence of the Scorched
 type: quest
 level: '100'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]]'
+pieces:
+- name: Singed Elemental Essence
+  icon: images/Item_748.png
+- name: Scalded Elemental Essence
+  icon: images/Item_748.png
+- name: Charred Elemental Essence
+  icon: images/Item_747.png
+- name: Blackened Elemental Essence
+  icon: images/Item_750.png
+- name: Blistered Elemental Essence
+  icon: images/Item_746.png
+- name: Ashen Elemental Essence
+  icon: images/Item_749.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +36,11 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Flannel Tallonite Sash of Station]] this item is needed for the collection: [[Tallonite Sashes]]
+- one of the following:
+  - [[Blackened Hammer of Elemental Essence]]
+  - [[Ashen Spear of Elemental Essence]]
+  - [[Charred Greataxe of Elemental Essence]]
+  - [[Blistered Staff of Elemental Essence]]

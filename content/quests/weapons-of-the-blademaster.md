@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Advanced Solo)]]'
+pieces:
+- name: Blademaster's Dagger
+  icon: images/Item_59.png
+- name: Blademaster's Blackjack
+  icon: images/Item_64.png
+- name: Blademaster's Foil
+  icon: images/Item_40.png
+- name: Blademaster's Throwing Knife
+  icon: images/Item_71.png
+- name: Blademaster's Parry Blade
+  icon: images/Item_39.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Kildiun's Tankard]] this item is needed for the collection: [[Belongings of the Vanguard]]

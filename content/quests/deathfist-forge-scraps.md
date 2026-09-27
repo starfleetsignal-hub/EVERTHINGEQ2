@@ -5,6 +5,21 @@ level: '80'
 added_in: LU51
 aliases:
 - 'Tradeskill: Deathfist Forge Scraps'
+zone: '[[Zek, the Orcish Wastes]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: discarded Deathfist bellows
+  icon: images/Item_2282.png
+- name: discarded Deathfist pipes
+  icon: images/Item_2159.png
+- name: discarded Deathfist smithing hammer
+  icon: images/Item_2150.png
+- name: discarded Deathfist anvil
+  icon: images/Item_2286.png
+- name: discarded Deathfist plating
+  icon: images/Item_734.png
+- name: discarded Deathfist smithing tongs
+  icon: images/Item_32.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +44,7 @@ expansion_source: patch
 ---
 
 - Members of this collection can often be found along the paths in the part of the zone closest to the Docks.
+
+## Rewards
+
+- [[Blood Iron Forge (Item)|Blood Iron Forge]]

@@ -4,6 +4,20 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+collection_type: Collection items
+pieces:
+- name: Ykesha's Diseased Crown
+  icon: images/Item_4377.png
+  note: no-trade - (Reward from the collection [[Secrets of Guk]])
+- name: Zraxth's Diary
+  icon: images/Item_4496.png
+  note: no-trade - (Reward from the collection [[Inhabitants of Guk]])
+- name: Krasick's Spell of Summoning
+  icon: images/Item_4378.png
+  note: no-trade - (Reward from the collection [[Guktan Spores]])
+- name: Anathraxxis' Double Blade
+  icon: images/Item_4348.png
+  note: no-trade - (Reward from the collection [[Malevolor Trophies]])
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +36,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Rune: Warlord's Insight]]
+- *Unlocks [[Celestial Rune: Warlord's Puissance (Heirloom)|Celestial Rune: Warlord's Puissance]] at the merchant  in*

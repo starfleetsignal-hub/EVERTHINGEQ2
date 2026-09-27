@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Sanctus Seru: Arx Aeturnus (Solo)]], [[Sanctus Seru: Echelon of Divinity (Solo)]], [[Sanctus Seru: Echelon of Order (Solo)]]'
+pieces:
+- name: Luminary Symbol of Honor
+  icon: images/Item_2240.png
+- name: Luminary Symbol of Attention
+  icon: images/Item_2241.png
+- name: Luminary Symbol of Accuracy
+  icon: images/Item_2240.png
+- name: Luminary Symbol of Worship
+  icon: images/Item_2241.png
+- name: Luminary Symbol of Fealty
+  icon: images/Item_2242.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,11 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Reverence]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]
+- one of the following:
+  - [[Voidpiercer's Adornment of Raw Power (Collection Reward)|Voidpiercer's Adornment of Raw Power]]
+  - [[Voidpiercer's Adornment of Raw Power (2H) (Collection Reward)|Voidpiercer's Adornment of Raw Power (2H)]]
+  - [[Voidpiercer's Adornment of Blocking (Collection Reward)|Voidpiercer's Adornment of Blocking]]
+  - [[Voidpiercer's Adornment of Blocking (2H) (Collection Reward)|Voidpiercer's Adornment of Blocking (2H)]]

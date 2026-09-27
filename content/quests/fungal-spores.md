@@ -2,6 +2,19 @@
 title: Fungal Spores
 type: quest
 level: '10'
+pieces:
+- name: Darkened Fungal Spore
+  icon: images/Item_5745.png
+- name: Glowing Fungal Spore
+  icon: images/Item_5745.png
+- name: Florid Fungal Spore
+  icon: images/Item_5745.png
+- name: Luminous Fungal Spore
+  icon: images/Item_5745.png
+- name: Lambent Fungal Spore
+  icon: images/Item_5745.png
+- name: Sticky Fungal Spore
+  icon: images/Item_5745.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Yazdani Viceroy]]
+- [[Bloody Hatchet]] this item is needed for the collection: [[Hatcheteer Hatchets]]

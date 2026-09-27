@@ -3,6 +3,19 @@ title: Ancient Erudite Crests
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[Demitrik''s Bastion]], [[The Outer Vault]], [[Spirit''s Resonance]]'
+collection_type: Shiny
+pieces:
+- name: ancient crest of Al'tuur
+  icon: images/Item_1316.png
+- name: ancient crest of Jal'Dea
+  icon: images/Item_1315.png
+- name: ancient crest of Tyrid
+  icon: images/Item_1313.png
+- name: ancient crest of Nortlav
+  icon: images/Item_1314.png
+- name: ancient crest of Dartain
+  icon: images/Item_1304.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A fancy Erudite scroll]]
+- [[Kaborite Geodes: Crests]] this item is needed for the collection: [[The Deep and Dark Places: Geodes]]

@@ -6,6 +6,24 @@ added_in: Fallen Dynasty
 aliases:
 - 'Tome: Ardathium, Vol. I'
 - 'Tome: Ardathium, Volume I'
+zone: '[[The Forsaken City]]'
+collection_type: Pages
+pieces:
+- name: Ardathium, Vol. I, page 1
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Ardathium, Vol. I, page 2
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Ardathium, Vol. I, page 3
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Ardathium, Vol. I, page 4
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Ardathium, Vol. I, page 5
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Ardathium, Volume I]]

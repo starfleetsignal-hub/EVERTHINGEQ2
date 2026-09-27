@@ -4,6 +4,25 @@ type: quest
 level: '80'
 in_game_name: Tablets of Atrebe Sathir Dynasty
 added_in: The Shadow Odyssey
+zone: '[[Nu''roga]], [[Veksar: The Sunken Theater]], [[Emperor Atrebe''s Laboratory: The Fabled City of Kor-sha]]'
+collection_type: Shiny
+pieces:
+- name: 'Atrebe Dynasty Tablet: Experimentation'
+  icon: images/Item_371.png
+- name: 'Atrebe Dynasty Tablet: Mystery'
+  icon: images/Item_371.png
+- name: 'Atrebe Dynasty Tablet: Creation'
+  icon: images/Item_371.png
+- name: 'Atrebe Dynasty Tablet: Knowledge'
+  icon: images/Item_371.png
+- name: 'Atrebe Dynasty Tablet: Intelligence'
+  icon: images/Item_371.png
+- name: 'Atrebe Dynasty Tablet: Clarity'
+  icon: images/Item_371.png
+- name: 'Atrebe Dynasty Tablet: Awakening'
+  icon: images/Item_371.png
+- name: 'Atrebe Dynasty Tablet: Ritual'
+  icon: images/Item_371.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Icon of the Architect (CollectionReward)|Icon of the Architect]]
+  - [[Sathirian Talisman]]

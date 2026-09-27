@@ -5,6 +5,20 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Peaceful Pygmies
 added_in: Visions of Vetrovia
+zone: '[[Karuupa Jungle]]'
+pieces:
+- name: Karuupa Deino Saddle
+  icon: images/Item_4826.png
+- name: Pygmy Fishing Pole
+  icon: images/Item_29.png
+- name: Pygmy Bait Bucket
+  icon: images/Item_650.png
+- name: Figurine of the Rice God
+  icon: images/Item_1060.png
+- name: Pygmy Fish Drying Rack
+  icon: images/Item_651.png
+- name: Feather Adorned Totem
+  icon: images/Item_1214.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Shoes of Fervor]]
+- [[Peaceful Pygmies (Item)|Peaceful Pygmies]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

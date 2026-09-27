@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Tunic of Kinship
 added_in: Reign of Shadows
+zone: '[[Shadeweaver''s Thicket]]'
+pieces:
+- name: Firefall Caller Tunic
+  icon: images/Item_1446.png
+- name: Silvered Wire Thread
+  icon: images/Item_781.png
+- name: Unpolished Shissar Scales
+  icon: images/Item_158.png
+- name: Cloth of Shade
+  icon: images/Item_238.png
+- name: Principle of Kinship
+  icon: images/Item_4085.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Tunic of Kinship (Chest)|Tunic of Kinship]]
+- [[Tunic of Kinship (Collection Item)|Tunic of Kinship]] this item is needed for the collection: [[Relics of the Darkside]]

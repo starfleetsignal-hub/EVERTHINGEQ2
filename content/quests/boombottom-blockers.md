@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Boombottom Patron Protector
+  icon: images/Item_1579.png
+- name: Boombottom Ambassador Armor
+  icon: images/Item_1530.png
+- name: Boombottom Converser Cuirass
+  icon: images/Item_1586.png
+- name: Boombottom Spotter Stopper
+  icon: images/Item_1551.png
+  note: no-trade
+- name: Boombottom Pummeler Puncher
+  icon: images/Item_1565.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Boombottom Doodad]]
+- [[Burrtoe's Toes]] this item is needed for the collection: [[Runnyeye Bits]]

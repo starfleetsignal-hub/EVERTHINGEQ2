@@ -6,6 +6,22 @@ in_game_name: feerrott fern leaves collection
 added_in: Shattered Lands
 aliases:
 - 'Leaf: feerrott fern leaves collection'
+zone: '[[The Feerrott]]'
+pieces:
+- name: feerrott fern dark brown leaf
+  icon: images/Item_2116.png
+- name: feerrott fern blue leaf
+  icon: images/Item_2113.png
+- name: feerrott fern purple leaf
+  icon: images/Item_2114.png
+- name: feerrott fern green leaf
+  icon: images/Item_2112.png
+- name: feerrott fern yellow leaf
+  icon: images/Item_2117.png
+- name: feerrott fern red leaf
+  icon: images/Item_2118.png
+- name: feerrott fern light brown leaf
+  icon: images/Item_2115.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +42,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Huge Collector's Pouch]]

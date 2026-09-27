@@ -5,6 +5,21 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Teeth: Polished Droag Teeth'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: large polished Droag incisor
+  icon: images/Item_102.png
+- name: medium polished Droag incisor
+  icon: images/Item_102.png
+- name: small polished Droag incisor
+  icon: images/Item_102.png
+- name: large polished Droag molar
+  icon: images/Item_102.png
+- name: medium polished Droag molar
+  icon: images/Item_102.png
+- name: small polished Droag molar
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A mystical droag orb]]

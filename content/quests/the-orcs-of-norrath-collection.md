@@ -4,6 +4,24 @@ type: quest
 level: '35'
 in_game_name: The Orcs of Norrath
 added_in: Shattered Lands
+zone: '[[Zek, the Orcish Wastes]]'
+collection_type: Pages
+pieces:
+- name: The Orcs of Norrath - Page 3
+  icon: images/Item_2180.png
+- name: The Orcs of Norrath - Page 4
+  icon: images/Item_2180.png
+- name: The Orcs of Norrath - Page 5
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
+- name: The Orcs of Norrath - Page 6
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
+- name: The Orcs of Norrath - Page 7
+  icon: images/Item_2180.png
+  note: Clickable shelf at {{waypoint 225.17, -40.23, 200.57}}
+- name: The Orcs of Norrath - Page 8
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[The Orcs of Norrath (CollectionReward)|The Orcs of Norrath]]

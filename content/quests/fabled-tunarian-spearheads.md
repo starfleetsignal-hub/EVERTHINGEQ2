@@ -5,6 +5,30 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Butcherblock Mountains]]'
+collection_type: Year of Discovery
+pieces:
+- name: bent tunarian spearhead
+  page: Bent tunarian spearhead (Fabled Tunarian Spearheads)
+  icon: images/Item_683.png
+- name: bloody tunarian spearhead
+  page: Bloody tunarian spearhead (Fabled Tunarian Spearheads)
+  icon: images/Item_673.png
+- name: cracked tunarian spearhead
+  page: Cracked tunarian spearhead (Fabled Tunarian Spearheads)
+  icon: images/Item_685.png
+- name: dull tunarian spearhead
+  page: Dull tunarian spearhead (Fabled Tunarian Spearheads)
+  icon: images/Item_1021.png
+- name: pristine tunarian spearhead
+  page: Pristine tunarian spearhead (Fabled Tunarian Spearheads)
+  icon: images/Item_671.png
+- name: shattered tunarian spearhead
+  page: Shattered tunarian spearhead (Fabled Tunarian Spearheads)
+  icon: images/Item_684.png
+- name: shiny tunarian spearhead
+  page: Shiny tunarian spearhead (Fabled Tunarian Spearheads)
+  icon: images/Item_675.png
 categories:
 - Ballads of Zimara Collection Quests
 - Butcherblock Mountains Collection Quests
@@ -26,4 +50,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Double Woven Kelp Cord
 added_in: Chaos Descending
+zone: '[[Awuidor: Marr''s Ascent (Heroic)]], [[Awuidor: Marr''s Ascent (Expert)]], [[Awuidor: The Nebulous Deep (Heroic)]], [[Awuidor: The Nebulous Deep (Expert)]], [[Awuidor: The Veiled Precipice (Event Heroic)]], [[Awuidor: The Veiled Precipice (Expert Event)]]'
+pieces:
+- name: Awuidor Cord
+  icon: images/Item_380.png
+- name: Mark of Water
+  icon: images/Item_3828.png
+- name: Charm of the Marids
+  icon: images/Item_2514.png
+- name: Elements of Toxin
+  icon: images/Item_3775.png
+- name: Insignia of the Guardian
+  icon: images/Item_592.png
 categories:
 - 'Awuidor: Marr''s Ascent (Expert) Collection Quests'
 - 'Awuidor: Marr''s Ascent (Heroic) Collection Quests'
@@ -30,4 +42,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Double Woven Kelp Cord (Waist)|Double Woven Kelp Cord]]
+- [[Double Woven Kelp Cord (Collection Item)|Double Woven Kelp Cord]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]

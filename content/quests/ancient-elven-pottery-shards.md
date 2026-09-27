@@ -3,6 +3,21 @@ title: Ancient Elven Pottery Shards
 type: quest
 level: '100'
 added_in: Visions of Vetrovia
+zone: '[[The Fractured Cache]]'
+collection_type: Purple
+pieces:
+- name: Alabaster Elven Pottery Shard
+  icon: images/Item_1136.png
+- name: Emerald Elven Pottery Shard
+  icon: images/Item_1126.png
+- name: Lapis Lazuli Elven Pottery Shard
+  icon: images/Item_1143.png
+- name: Runic Elven Pottery Shard
+  icon: images/Item_2697.png
+- name: Arcane Elven Pottery Shard
+  icon: images/Item_2699.png
+- name: Vine Etched Elven Pottery Shard
+  icon: images/Item_2698.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,6 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Scroll of Ancient Knowledge]]

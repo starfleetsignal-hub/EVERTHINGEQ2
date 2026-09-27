@@ -4,6 +4,25 @@ type: quest
 level: '35'
 in_game_name: Fauna of the Enchanted Lands A - K
 added_in: Shattered Lands
+zone: '[[Enchanted Lands]]'
+collection_type: Pages
+pieces:
+- name: Fauna of the Enchanted Lands A - K - Page 4
+  icon: images/Item_2180.png
+- name: Fauna of the Enchanted Lands A - K - Page 5
+  icon: images/Item_2180.png
+  note: Clickable barrel in the building at Granary Hill at {{waypoint 214, 10, -263}}
+- name: Fauna of the Enchanted Lands A - K - Page 7
+  icon: images/Item_2180.png
+  note: Corpse drop only
+- name: Fauna of the Enchanted Lands A - K - Page 09
+  icon: images/Item_2180.png
+- name: Fauna of the Enchanted Lands A - K - Page 10
+  icon: images/Item_2180.png
+  note: Also available as a corpse drop
+- name: Fauna of the Enchanted Lands A - K - Page 11
+  icon: images/Item_2180.png
+  note: Corpse drop from [[A Darkflight initiate|Darkflight initiates]]
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Fauna of the Enchanted Lands A - K (CollectionReward)|Fauna of the Enchanted Lands A - K]]

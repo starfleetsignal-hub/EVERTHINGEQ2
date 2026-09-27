@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Hd
+pieces:
+- name: Soul of the Martyr
+  icon: images/Item_1141.png
+- name: Chromatic Shard
+  icon: images/Item_1172.png
+- name: Shard of Ironscale
+  icon: images/Item_3368.png
+- name: Scorched Razors
+  icon: images/Item_2773.png
+- name: Hand of Dread
+  icon: images/Item_2793.png
+- name: Dreadscales Banner
+  icon: images/Item_2725.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,8 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vulak'Aerr]]
+- 2x [[Small Stack of Draconic Etyma]]
+- [[Shards of the Consumer]] this item is needed for the collection: [[Consumer's Hoard]]

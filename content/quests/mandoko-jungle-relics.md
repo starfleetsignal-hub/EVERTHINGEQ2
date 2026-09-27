@@ -3,6 +3,20 @@ title: Mandoko Jungle Relics
 type: quest
 level: '130'
 added_in: Scars of Destruction
+zone: '[[Sodden Archipelago]]'
+pieces:
+- name: Mandoko Dark Magic Charm
+  icon: images/Item_5696.png
+- name: Mandoko Ritual Dagger
+  icon: images/Item_5706.png
+- name: Mandoko Vine Bracelet
+  icon: images/Item_5869.png
+- name: Mandoko Totem Staff
+  icon: images/Item_5717.png
+- name: Mandoko Bead Necklace
+  icon: images/Item_4863.png
+- name: Mandoko Bone Amulet
+  icon: images/Item_4868.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +38,7 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Red Prickly Flower Bush]]
+- [[Fragment of Collected Scars (Treasured) (Version 1)|Fragment of Collected Scars]]

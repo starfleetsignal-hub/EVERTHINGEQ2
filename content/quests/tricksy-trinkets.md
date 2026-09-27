@@ -4,6 +4,24 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Temple of Veeshan: The Dreadscale''s Maw (Raid)]]'
+collection_type: Shiny
+pieces:
+- name: The Ace
+  page: The Ace (Collection Item)
+  icon: images/Item_3023.png
+- name: The King
+  icon: images/Item_3021.png
+- name: The Jack
+  icon: images/Item_3020.png
+- name: The Queen
+  page: The Queen (Tricksy Trinkets)
+  icon: images/Item_3022.png
+- name: The Joker
+  icon: images/Item_3019.png
+- name: The Prankster
+  icon: images/Item_3018.png
+  note: '(Reward from the achievement [[Victory: Bristlebane]])'
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +46,8 @@ expansion_source: patch
 ## Notes
 
 The shinies for this collection pop one or two only as part of the one-shot Bristlebane fights script in ToV Wing 3. Only healers can pick them up, and only up for a limited time on that phase of the fight.
+
+## Rewards
+
+- [[Gnawed Meaty Bone]]
+- [[Small Stack of Draconic Etyma]]

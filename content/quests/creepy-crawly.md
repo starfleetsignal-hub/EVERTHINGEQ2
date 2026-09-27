@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Hopper Leg
+  icon: images/Item_164.png
+- name: Eyeball
+  icon: images/Item_83.png
+- name: It
+  icon: images/Item_2549.png
+- name: Antenna Bug
+  icon: images/Item_2665.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Creepy Kerafyrm Doll]] this item is needed for the collection: [[Visionary Relief]]
+- one of the following:
+  - [[Vesspyr Citizen's Blue Cowl]]
+  - [[Vesspyr Workman's Red Hat]]

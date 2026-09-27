@@ -5,6 +5,20 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Reinforced Mephit Talon
 added_in: Chaos Descending
+zone: '[[Vegarlson, the Earthen Badlands]]'
+collection_type: Cde
+pieces:
+- name: Mephit Talon
+  icon: images/Item_2125.png
+- name: Rune of Disease
+  icon: images/Item_1266.png
+- name: Sigil of Brass
+  icon: images/Item_1282.png
+- name: Essence of Dust
+  icon: images/Item_4090.png
+  note: (Reward from the quest [[Desk Job]])
+- name: Seal of Piercing
+  icon: images/Item_1289.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -26,4 +40,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Reinforced Mephit Talon (Collection Item)|Reinforced Mephit Talon]] this item is needed for the collection: [[Ensorcelled Metalcloth Cape (Collection)|Ensorcelled Metalcloth Cape]]
+- [[Reinforced Mephit Talon (Weapon)|Reinforced Mephit Talon]]

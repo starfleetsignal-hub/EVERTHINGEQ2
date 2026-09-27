@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Blood Weave Armor
 added_in: Reign of Shadows
+zone: '[[Echo Caverns: Zelmie Sortie (Solo)]], [[Echo Caverns: Fungal Foray (Solo)]], [[Echo Caverns: Quarry Quandary (Solo)]], [[Vex Thal: Shadow Citadel (Solo)]]'
+pieces:
+- name: Fine Electrum Rings
+  icon: images/Item_1010.png
+- name: Fire Emerald Powder
+  icon: images/Item_343.png
+- name: Thin Dark Steel Wire
+  icon: images/Item_610.png
+- name: Tuatara Hide Backing
+  icon: images/Item_133.png
+- name: Blood of the Survivor
+  icon: images/Item_180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +41,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Blood Weave Armor (Chest)|Blood Weave Armor]]
+- [[Blood Weave Armor (Collection Item)|Blood Weave Armor]] this item is needed for the collection: [[Depths of the Darkside]]

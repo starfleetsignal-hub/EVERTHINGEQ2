@@ -5,6 +5,17 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Lamps: Sand Blasted Lamp'
+zone: '[[The Sinking Sands]], [[The Pillars of Flame]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: sand blasted lamp handle
+  icon: images/Item_2703.png
+- name: sand blasted left side of a lamp
+  icon: images/Item_2703.png
+- name: sand blasted right side of a lamp
+  icon: images/Item_2703.png
+- name: sand blasted spout of a lamp
+  icon: images/Item_2703.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +38,6 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A sand blasted djinn lamp (no-value)|a sand blasted djinn lamp]]

@@ -4,6 +4,17 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: LU122
+pieces:
+- name: Wand of the Occupier
+  icon: images/Item_4525.png
+- name: Wand of the Repressor
+  icon: images/Item_4525.png
+- name: Wand of the Subjugator
+  icon: images/Item_4525.png
+- name: Wand of the Infiltrator
+  icon: images/Item_4525.png
+- name: Wand of the Besieger
+  icon: images/Item_4516.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,6 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Ceroth's Stone Club]] this item is needed for the collection: [[Buried Takish'Hiz Treasures (Collection)|Buried Takish'Hiz Treasures]]

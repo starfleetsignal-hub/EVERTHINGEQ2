@@ -4,6 +4,49 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Steel Nail
+  icon: images/Item_710.png
+- name: Copper Nail
+  icon: images/Item_707.png
+- name: Bronze Nail
+  icon: images/Item_708.png
+- name: Silver Nail
+  icon: images/Item_706.png
+- name: Golden Nail
+  icon: images/Item_707.png
+- name: Iron Nail
+  page: Iron Nail (Collection Item)
+  icon: images/Item_706.png
+- name: Ruthenium Nail
+  icon: images/Item_709.png
+- name: Ebon Nail
+  icon: images/Item_709.png
+- name: Rhodium Nail
+  icon: images/Item_708.png
+- name: Vanadium Nail
+  icon: images/Item_708.png
+- name: Indium Nail
+  icon: images/Item_710.png
+- name: Xegonite Nail
+  icon: images/Item_707.png
+- name: Tynnonium Nail
+  icon: images/Item_709.png
+- name: Kaborite Nail
+  icon: images/Item_709.png
+- name: Titanium Nail
+  icon: images/Item_707.png
+- name: Osmium Nail
+  icon: images/Item_710.png
+- name: Tungsten Nail
+  icon: images/Item_708.png
+- name: Lumium Nail
+  icon: images/Item_706.png
+- name: Bornite Nail
+  icon: images/Item_706.png
+- name: Rubicite Nail
+  icon: images/Item_707.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +65,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[The Nails]]

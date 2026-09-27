@@ -3,6 +3,20 @@ title: Ver'Bhoten Keys
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Chancellor's Key
+  icon: images/Item_4848.png
+- name: Harold's Key
+  icon: images/Item_4848.png
+- name: Marshal's Key
+  icon: images/Item_4848.png
+- name: Cup Bearer's Key
+  icon: images/Item_4848.png
+- name: Chamberlain's Key
+  icon: images/Item_4848.png
+- name: High Lord's Key
+  icon: images/Item_4848.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Forlorn Void-touched Shoulderguards]]
+- [[Fragment of Collected Void]]
+- [[Purse of Untold Riches]] this item is needed for the collection: [[Untold Riches (Collection)|Untold Riches]]

@@ -5,6 +5,21 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Teeth: Broken Droag Teeth'
+zone: '[[Tenebrous Tangle]], [[The Barren Sky]], [[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: large broken Droag incisor
+  icon: images/Item_102.png
+- name: medium broken Droag incisor
+  icon: images/Item_102.png
+- name: small broken Droag incisor
+  icon: images/Item_102.png
+- name: large broken Droag molar
+  icon: images/Item_102.png
+- name: medium broken Droag molar
+  icon: images/Item_102.png
+- name: small broken Droag molar
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A tiny magical stuffed droag plushie]]

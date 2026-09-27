@@ -5,6 +5,26 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Witches' Windriders
 added_in: Visions of Vetrovia
+zone: '[[Mahngavi Wastes]]'
+pieces:
+- name: Belladonna's Besom
+  icon: images/Item_1218.png
+- name: Ballentree's Ornamented Broom
+  icon: images/Item_4985.png
+- name: Auntie Grimm's Gnarled Broom
+  icon: images/Item_4986.png
+- name: Francine's Heather Broom
+  icon: images/Item_1218.png
+- name: Palovina's Claw-Scarred Broom
+  icon: images/Item_4985.png
+- name: Reginald's Racing Broom
+  icon: images/Item_4986.png
+- name: Lavinnia's Low-Flying Training Broom
+  icon: images/Item_1218.png
+- name: Granny Doomtree's Vine-Covered Broom
+  icon: images/Item_4985.png
+- name: Uncle Cletus' Frosty Broom
+  icon: images/Item_4986.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +47,8 @@ expansion_source: patch
 ---
 
 ﻿
+
+## Rewards
+
+- [[Rune of Bloodbound Torment (red, Fabled)|Rune of Bloodbound Torment]]
+- [[Witches' Windriders (Item)|Witches' Windriders]] this item is needed for the collection: [[Perils of Flight]]

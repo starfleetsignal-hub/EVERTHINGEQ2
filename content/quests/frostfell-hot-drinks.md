@@ -2,6 +2,19 @@
 title: Frostfell Hot Drinks
 type: quest
 level: '95'
+pieces:
+- name: Mulled Wine
+  icon: images/Item_945.png
+- name: Peppermint Cocoa
+  icon: images/Item_2554.png
+- name: Wassail
+  icon: images/Item_943.png
+- name: Hot Apple Cider
+  icon: images/Item_314.png
+- name: Cranberry Spiced Tea
+  icon: images/Item_2555.png
+- name: Hot Buttered Rum
+  icon: images/Item_2554.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,3 +33,7 @@ source:
 ---
 
 Collection pieces come as random reward from opening To: You From: Santa Glug presents
+
+## Rewards
+
+- [[Prefix: Frostfell Mixologist]]

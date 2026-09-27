@@ -4,6 +4,23 @@ type: quest
 level: '110'
 in_game_name: Grankr's Gear
 added_in: LU111
+zone: '[[Fabled Kael Drakkel]]'
+pieces:
+- name: Grankr's Song of Thunder
+  icon: images/Item_711.png
+  note: no-trade
+- name: Interrex's Denial
+  icon: images/Item_712.png
+- name: Interrex's Will
+  icon: images/Item_719.png
+- name: Interrex's Pride
+  icon: images/Item_1248.png
+- name: Interrex's Loyalty
+  icon: images/Item_1294.png
+- name: Interrex's Ribbon
+  icon: images/Item_762.png
+- name: Interrex's Fight
+  icon: images/Item_1267.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,3 +40,8 @@ source:
 ---
 
 Items spawn in Royal Kennel/Throne Room area.
+
+## Rewards
+
+- [[Grankr's Gear (Item)|Grankr's Gear]]
+- [[Vigilis' Oathstone]] this item is needed for the collection: [[The Might of Kael Drakkel]]

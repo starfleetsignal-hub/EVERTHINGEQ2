@@ -3,6 +3,17 @@ title: Sanctum Relics
 type: quest
 level: '95'
 added_in: Tears of Veeshan
+zone: '[[The Fabled Sanctum of the Scaleborn]]'
+collection_type: Shiny
+pieces:
+- name: Banner of the Scaleborn
+  icon: images/Item_571.png
+- name: Liquid Brazier
+  icon: images/Item_2352.png
+- name: Ruined Clay Bowl
+  icon: images/Item_1065.png
+- name: Scaleborn Fern
+  icon: images/Item_411.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Sanctum War Banner]] this item is needed for the collection: [[Sigil of the Skyborn (Collection)|Sigil of the Skyborn]]

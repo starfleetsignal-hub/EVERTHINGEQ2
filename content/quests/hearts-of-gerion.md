@@ -3,6 +3,20 @@ title: Hearts of Gerion
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Heart of the Dogmadog
+  icon: images/Item_5763.png
+- name: Heart of Surinon
+  icon: images/Item_5763.png
+- name: Heart of Nazkun
+  icon: images/Item_5763.png
+  note: no-trade
+- name: Heart of Sir Rendal Cauldthorn
+  icon: images/Item_5763.png
+- name: Heart of the Exhumed Executioner
+  icon: images/Item_5763.png
+- name: Heart of the Soulbleeder
+  icon: images/Item_5763.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Void-touched Shoulders]]
+- [[Fragment of Collected Void]]
+- [[Malformed Flesh]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

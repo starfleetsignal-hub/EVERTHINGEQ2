@@ -3,6 +3,18 @@ title: Jewel Encrusted Relics
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Opal Encrusted Bone Fragment
+  icon: images/Item_2983.png
+- name: Emerald Encrusted Rib Bone
+  icon: images/Item_2983.png
+- name: Ruby Studded Dragon Talon
+  icon: images/Item_2983.png
+- name: Aquamarine Encrusted Tailbone
+  icon: images/Item_2983.png
+- name: Diamond Encrusted Dragon Skull
+  icon: images/Item_2983.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Embelished Splendid Plate Spaulders]]
+- [[Fragment of Collected Scars (Legendary)|Fragment of Collected Scars]]
+- [[Veeshanic Ruined Frieze]] this item is needed for the collection: [[Hope and Hopelessness (Collection)|Hope and Hopelessness]]

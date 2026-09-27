@@ -3,6 +3,16 @@ title: Pomegranates
 type: quest
 level: '55'
 added_in: LU53
+zone: '[[Shard of Love: A Moment of Valor]]'
+pieces:
+- name: a split pomegranate
+  icon: images/Item_820.png
+- name: a fresh pomegranate
+  icon: images/Item_820.png
+- name: a rotten pomegranate
+  icon: images/Item_820.png
+- name: a juicy pomegranate
+  icon: images/Item_820.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +34,7 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A stone statue backing]] this item is needed for the collection: [[Dismantled Statue Pieces]]
+- 1p

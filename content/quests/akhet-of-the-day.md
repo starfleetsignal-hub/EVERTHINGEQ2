@@ -5,6 +5,14 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Akhet: Akhet of the Day'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+pieces:
+- name: bronze akhet of a shimmering desert
+  icon: images/Item_2618.png
+- name: golden akhet of a shimmering desert
+  icon: images/Item_2614.png
+- name: silver akhet of a shimmering desert
+  icon: images/Item_2616.png
 categories:
 - Akhet (CQ Category)
 - Census Credits
@@ -29,3 +37,10 @@ expansion_source: patch
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
 - Added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Dazzling Amber Bracelet]]
+  - [[Dazzling Amber Earring]]
+  - [[Steel display stand]]

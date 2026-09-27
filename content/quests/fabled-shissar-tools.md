@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Tranquil Sea]]'
+collection_type: Year of Discovery
+pieces:
+- name: Stonecutter's Knife
+  page: Stonecutter's Knife (Fabled Shissar Tools)
+  icon: images/Item_362.png
+- name: Leather Straps
+  page: Leather Straps (Fabled Shissar Tools)
+  icon: images/Item_739.png
+- name: Stonecutter's Hammer
+  page: Stonecutter's Hammer (Fabled Shissar Tools)
+  icon: images/Item_697.png
+- name: Quarry Axe
+  page: Quarry Axe (Fabled Shissar Tools)
+  icon: images/Item_35.png
+- name: Quarry Pick
+  page: Quarry Pick (Fabled Shissar Tools)
+  icon: images/Item_675.png
+- name: Ebon Chisel
+  page: Ebon Chisel (Fabled Shissar Tools)
+  icon: images/Item_694.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

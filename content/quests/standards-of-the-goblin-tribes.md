@@ -5,6 +5,25 @@ level: '85'
 added_in: LU46
 aliases:
 - 'Runnyeye: The Gathering: Standards of the Goblin Tribes'
+zone: '[[Runnyeye: The Gathering]]'
+collection_type: Hidden
+pieces:
+- name: Standard of the Boombottom Tribe
+  icon: images/Item_1234.png
+- name: Standard of the Runnyeye Tribe
+  icon: images/Item_1235.png
+- name: Standard of the Grungetalon Tribe
+  icon: images/Item_1236.png
+- name: Standard of the Gigglegibber Tribe
+  icon: images/Item_1237.png
+- name: Standard of the Grimmin Tribe
+  icon: images/Item_1238.png
+- name: Standard of the Broken Toe Tribe
+  icon: images/Item_1239.png
+- name: Standard of the Sandscrawler Tribe
+  icon: images/Item_1240.png
+- name: Standard of Naggresh
+  icon: images/Item_1242.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +47,11 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Runnyeye flag]]
+- one of the following:
+  - [[Idol of the Ankexfen]]
+  - [[Mark of the Ankexfen]]
+  - [[Signet of the Ankexfen]]
+  - [[Totem of the Ankexfen]]

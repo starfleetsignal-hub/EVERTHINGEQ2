@@ -2,6 +2,19 @@
 title: Sequence
 type: quest
 level: '130'
+pieces:
+- name: Sequence of Events
+  icon: images/Item_5939.png
+- name: Sequence of Stones
+  icon: images/Item_5939.png
+- name: Sequence of Song
+  icon: images/Item_5939.png
+- name: Sequence of Clues
+  icon: images/Item_5939.png
+- name: Sequence of Series
+  icon: images/Item_5939.png
+- name: Sequence of Books
+  icon: images/Item_5939.png
 categories:
 - Census Credits
 - Collection Quests
@@ -19,4 +32,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 25x  [[Menagerie Mark]]
+- 10x  [[Immeasurable Obol]]
+- [[False Recollection]] this item is needed for the collection: [[Recollections Meta]]

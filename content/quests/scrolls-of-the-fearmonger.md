@@ -3,6 +3,22 @@ title: Scrolls of the Fearmonger
 type: quest
 level: '95'
 added_in: Chains of Eternity
+zone: '[[Throne of Fear (Heroic)]]'
+pieces:
+- name: Scroll of Bloodletting
+  icon: images/Item_374.png
+- name: Scroll of Distortion
+  icon: images/Item_185.png
+- name: Scroll of Levitation
+  icon: images/Item_2708.png
+- name: Scroll of Nil Space
+  icon: images/Item_2180.png
+- name: Scroll of Snake Summons
+  icon: images/Item_2181.png
+- name: Scroll of Solitude
+  icon: images/Item_2185.png
+- name: Scroll of Spider Summons
+  icon: images/Item_2184.png
 categories:
 - Census Credits
 - Chains of Eternity (CQ Category)
@@ -24,4 +40,11 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Map of the Throne of Fear]] this item is needed for the collection: [[Scrolls of the Mortal Champion]]
+- one of the following:
+  - [[Ring of the Fearmonger]]
+  - [[Band of the Fearmonger]]
+  - [[Signet of the Fearmonger]]
+  - [[Loop of the Fearmonger]]

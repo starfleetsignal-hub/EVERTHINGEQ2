@@ -3,6 +3,16 @@ title: Guide Doodads Series Three
 type: quest
 level: '50'
 added_in: LU56
+collection_type: Other
+pieces:
+- name: Curella's Guide to Inner Peace Through Pie
+  icon: images/Item_2694.png
+- name: Sweetpetunia's Text on Being the Best
+  icon: images/Item_3183.png
+- name: Ayateria's Lucky Lily
+  icon: images/Item_1970.png
+- name: Taerran’s Broken Snow Globe
+  icon: images/Item_349.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +32,8 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Gloves of the Hold]] (blue)
+  - [[Gauntlets of the Hold]] (pink)

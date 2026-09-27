@@ -5,6 +5,17 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Zygomyd Grotto]]'
+collection_type: Purple
+pieces:
+- name: green mushroom spore
+  icon: images/Item_331.png
+- name: brown mushroom spore
+  icon: images/Item_330.png
+- name: yellow mushroom spore
+  icon: images/Item_339.png
+- name: red mushroom spore
+  icon: images/Item_338.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Huge Mushroom]]

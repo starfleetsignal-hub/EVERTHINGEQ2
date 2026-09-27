@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Spotted Solifugid Collection'
+zone: '[[The Sinking Sands]]'
+collection_type: Shiny
+pieces:
+- name: spotted black solifugid
+  icon: images/Item_1846.png
+- name: spotted blue solifugid
+  icon: images/Item_1848.png
+- name: spotted brown solifugid
+  icon: images/Item_1849.png
+- name: spotted green solifugid
+  icon: images/Item_1847.png
+- name: spotted red solifugid
+  icon: images/Item_1850.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +40,11 @@ expansion_source: patch
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
 - Added back to the game in [[Update:54|GU54]]
+
+## Rewards
+
+- one of the following:
+  - [[Sunshard Bracelet]]
+  - [[Chitin Crested Gloves]]
+  - [[Nomad Chain Mantle]]
+  - [[Swifthiss]]

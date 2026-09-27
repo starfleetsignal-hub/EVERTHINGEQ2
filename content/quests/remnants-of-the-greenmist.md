@@ -4,6 +4,19 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+zone: '[[The Fabled Ruins of Guk: Ykesha''s Outer Stronghold]]'
+pieces:
+- name: Greenmist Residue
+  icon: images/Item_1200.png
+- name: Greenmist Particle
+  icon: images/Item_2521.png
+- name: Greenmist Vestige
+  icon: images/Item_2119.png
+  note: no-trade
+- name: Greenmist Impurity
+  icon: images/Item_343.png
+- name: Greenmist Sediment
+  icon: images/Item_1137.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Guktan Teliospore]] this item is needed for the collection: [[Guktan Spores]]

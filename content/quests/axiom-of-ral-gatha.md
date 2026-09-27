@@ -3,6 +3,21 @@ title: Axiom of Ral-Gatha
 type: quest
 level: '90'
 added_in: Rise of Kunark
+zone: '[[Sellok''s Broken Hideout]]'
+collection_type: Green
+pieces:
+- name: Axiom of Power
+  icon: images/Item_344.png
+- name: Axiom of Control
+  icon: images/Item_344.png
+- name: Axiom of Narcissism
+  icon: images/Item_344.png
+- name: Axiom of Consumption
+  icon: images/Item_344.png
+- name: Axiom of Manipulation
+  icon: images/Item_344.png
+- name: Axiom of Darkness
+  icon: images/Item_344.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +40,7 @@ expansion_source: patch
 
 Sellok's Broken Hideout may be located at the Western end of the beach in Nektulos Forest @ 1052, -0.80, -338.
 Need to be on the quest: [[The Truespirit's Lament]] which is begun by examining [[A strangely marked hide]]
+
+## Rewards
+
+- Progression of the quest: [[The Truespirit's Lament]]

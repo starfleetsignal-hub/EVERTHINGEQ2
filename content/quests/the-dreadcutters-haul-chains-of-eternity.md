@@ -4,6 +4,26 @@ type: quest
 level: '95'
 in_game_name: The Dreadcutter's Haul
 added_in: Chains of Eternity
+zone: '[[The Dreadcutter]]'
+pieces:
+- name: A Captain's Log
+  page: A Captain's Log (The Dreadcutter's Haul CoE)
+  icon: images/Item_2179.png
+- name: A Captor's Chains
+  page: A Captor's Chains (The Dreadcutter's Haul CoE)
+  icon: images/Item_1015.png
+- name: A Chef's Wooden Spoon
+  page: A Chef's Wooden Spoon (The Dreadcutter's Haul CoE)
+  icon: images/Item_2326.png
+- name: A Marauder's Spyglass
+  page: A Marauder's Spyglass (The Dreadcutter's Haul CoE)
+  icon: images/Item_836.png
+- name: A Plunderer's Chest
+  page: A Plunderer's Chest (The Dreadcutter's Haul CoE)
+  icon: images/Item_566.png
+- name: A Quartermaster's Stein
+  page: A Quartermaster's Stein (The Dreadcutter's Haul CoE)
+  icon: images/Item_308.png
 categories:
 - Census Credits
 - Chains of Eternity (CQ Category)
@@ -25,4 +45,11 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Map of the Dreadcutter]] this item is needed for the collection: [[Scrolls of the Mortal Champion]]
+- one of the following:
+  - [[Girdle of the Plunderer]]
+  - [[Sash of the Plunderer]]
+  - [[Cinch of the Plunderer]]
+  - [[Belt of the Plunderer]]

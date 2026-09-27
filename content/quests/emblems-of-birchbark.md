@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Emblem of the Wise
+  icon: images/Item_3830.png
+- name: Emblem of the Kind
+  icon: images/Item_3828.png
+- name: Emblem of Oakleaf
+  icon: images/Item_3826.png
+- name: Emblem of Time
+  icon: images/Item_3831.png
+- name: Emblem of the Patient
+  icon: images/Item_3829.png
+- name: Emblem of Sorrow
+  icon: images/Item_3827.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Hemp Tallonite Sash of Lozonn]] this item is needed for the collection: [[Tallonite Sashes]]
+- one of the following:
+  - [[Treant Emblem of Rising Tides]]
+  - [[Birchbark's Bracelet of Memoriam]]

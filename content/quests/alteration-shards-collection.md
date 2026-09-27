@@ -6,6 +6,19 @@ in_game_name: alteration shards collection
 added_in: Shattered Lands
 aliases:
 - 'Shard: alteration shards collection'
+zone: '[[-]]'
+pieces:
+- name: chipped shard of alteration
+  icon: images/Item_183.png
+- name: scuffed shard of alteration
+  icon: images/Item_183.png
+- name: pristine shard of alteration
+  icon: images/Item_183.png
+- name: shiny shard of alteration
+  icon: images/Item_183.png
+- name: glowing shard of alteration
+  page: Glowing shard of alteration (glowing shards collection)
+  icon: images/Item_183.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,3 +44,7 @@ expansion_source: patch
   - [[Pristine shards collection]]
   - [[Shiny shards collection]]
   - [[Glowing shards collection]]
+
+## Rewards
+
+- [[Gathered Orb of Alteration]] this item is needed for the collection: [[Arcane Orbs collection]]

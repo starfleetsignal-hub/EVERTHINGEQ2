@@ -5,6 +5,21 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Wrappings: Preserved Mummy Wrappings'
+zone: '[[The Sinking Sands]], [[The Pillars of Flame]], [[The Living Tombs]]'
+collection_type: Shiny
+pieces:
+- name: preserved arm wrapping
+  icon: images/Item_1090.png
+- name: preserved foot wrapping
+  icon: images/Item_1090.png
+- name: preserved hand wrapping
+  icon: images/Item_1090.png
+- name: preserved head wrapping
+  icon: images/Item_1090.png
+- name: preserved leg wrapping
+  icon: images/Item_1090.png
+- name: preserved torso wrapping
+  icon: images/Item_1090.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Belt of Woven Flesh]]
+  - [[Tunic of Twilight]]

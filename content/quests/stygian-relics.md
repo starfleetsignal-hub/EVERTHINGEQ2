@@ -4,6 +4,22 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Gerion: Realm of Conquest (Untold Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Stygian Tome
+  icon: images/Item_2694.png
+- name: Stygian Clasp
+  icon: images/Item_1006.png
+- name: Stygian Hoop
+  icon: images/Item_377.png
+- name: Stygian Cup
+  icon: images/Item_943.png
+- name: Stygian Ring
+  icon: images/Item_376.png
+- name: Stygian Shackle
+  icon: images/Item_1399.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +45,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Voidmetal Great Helm]]
+- [[Fragment of Collected Void]]
+- [[Sack of Untold Riches]] this item is needed for the collection: [[Untold Riches (Collection)|Untold Riches]]

@@ -6,6 +6,18 @@ added_in: Rise of Kunark
 aliases:
 - Brute Fur Collection
 - 'Kunark: Brute Fur Collection'
+zone: '[[Kunzar Jungle]]'
+collection_type: Shiny
+pieces:
+- name: Tuft of Black Brute Fur
+  icon: images/Item_125.png
+- name: Tuft of Brown Brute Fur
+  icon: images/Item_123.png
+- name: Tuft of Dark Brown Brute Fur
+  icon: images/Item_93.png
+- name: Tuft of White Brute Fur
+  icon: images/Item_126.png
+  note: ''
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Belt of the Kunzar Brute]]
+  - [[Sash of Quatcha Fur]]

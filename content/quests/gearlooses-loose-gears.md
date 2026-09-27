@@ -3,6 +3,23 @@ title: Gearloose's Loose Gears
 type: quest
 level: '130'
 added_in: LU128
+zone: '[[Western Wastes]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Phantasmagnetic
+  icon: images/Item_1378.png
+- name: Magitronic
+  icon: images/Item_1378.png
+- name: Positronic
+  icon: images/Item_1378.png
+- name: Confusilation
+  icon: images/Item_1378.png
+- name: Mesmeric
+  icon: images/Item_1378.png
+- name: Cabalic
+  icon: images/Item_1378.png
+- name: Discombobulating
+  icon: images/Item_1378.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +41,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Gearloose's Notes]]

@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[High Keep: The Pickclaw Depths (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Brown Fossil
+  icon: images/Item_3398.png
+- name: Animal Fossil
+  icon: images/Item_3399.png
+- name: Bug Fossil
+  icon: images/Item_3400.png
+- name: Leaf Fossil
+  icon: images/Item_3402.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Ancient Fossil (Ground Treasures)|Ancient Fossil]] this item is needed for the collection: [[Ground Treasures]]
+- one of the following:
+  - [[Vesspyr Citizen's Green Gloves]]
+  - [[Vesspyr Workman's Blue Gloves]]

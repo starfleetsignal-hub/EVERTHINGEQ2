@@ -3,6 +3,17 @@ title: Take to the Air
 type: quest
 level: '95'
 added_in: Tears of Veeshan
+zone: '[[The Fabled Sanctum of the Scaleborn]]'
+collection_type: Shiny
+pieces:
+- name: Blacktalon Tail Feather
+  icon: images/Item_155.png
+- name: Bzzt Bixie Wing
+  icon: images/Item_110.png
+- name: Hooluk Plume
+  icon: images/Item_411.png
+- name: Skywatcher's Feather
+  icon: images/Item_151.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Essence of Flight]] this item is needed for the collection: [[Fallen Foes]]

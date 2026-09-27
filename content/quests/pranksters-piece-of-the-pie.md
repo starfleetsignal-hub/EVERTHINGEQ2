@@ -5,6 +5,25 @@ level: '20'
 added_in: Bristlebane Day
 events:
 - Bristlebane Day
+zone: '[[Enchanted Lands]], [[The Sinking Sands]]'
+collection_type: Purple
+pieces:
+- name: Brownie Sundae Pie
+  icon: images/Item_2558.png
+- name: Three Plum Pie
+  icon: images/Item_2558.png
+- name: Mocha Cream Cheese Pie
+  icon: images/Item_2558.png
+- name: Three Point One Four Berry Pie
+  icon: images/Item_2558.png
+- name: Pear and Gruyere Pie
+  icon: images/Item_2558.png
+- name: Triple Bristleberry Pie
+  icon: images/Item_2558.png
+- name: Jum Jum Cream Pie
+  icon: images/Item_2558.png
+- name: Honey Shoofly Pie
+  icon: images/Item_2558.png
 categories:
 - Bristlebane Day
 - Bristlebane Day (CQ Category)
@@ -25,4 +44,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Cloak of The Grand Prankster]]

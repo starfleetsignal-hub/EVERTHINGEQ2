@@ -4,6 +4,25 @@ type: quest
 level: '35'
 in_game_name: Bird Watching - The Beast of the Enchanted Lands, Part II
 added_in: Shattered Lands
+zone: '[[Enchanted Lands]]'
+collection_type: Pages
+pieces:
+- name: Bird Watching - The Beast of the Enchanted Lands, Part II - Page 5
+  icon: images/Item_2180.png
+  note: Harvestable pages only
+- name: Bird Watching - The Beast of the Enchanted Lands, Part II - Page 6
+  icon: images/Item_2180.png
+- name: Bird Watching - The Beast of the Enchanted Lands, Part II - Page 8
+  icon: images/Item_2180.png
+  note: Clickable nightstand upstairs in [[Bogbottom Mill]] at {{waypoint -5, 3, -625}}
+- name: Bird Watching - The Beast of the Enchanted Lands, Part II - Page 10
+  icon: images/Item_2180.png
+- name: Bird Watching - The Beast of the Enchanted Lands, Part II - Page 11
+  icon: images/Item_2180.png
+  note: Clickable rubbish pile at {{waypoint 98, 30, -868}}
+- name: Bird Watching - The Beast of the Enchanted Lands, Part II - Page 12
+  icon: images/Item_2180.png
+  note: Corpse drop only
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +43,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bird Watching - The Beast of the Enchanted Lands, Part II (CollectionReward)|Bird Watching - The Beast of the Enchanted Lands, Part II]]

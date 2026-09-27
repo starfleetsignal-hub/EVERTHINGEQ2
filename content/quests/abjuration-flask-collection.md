@@ -5,6 +5,24 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Abjuration Flask
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+collection_type: Shiny
+pieces:
+- name: Abjurative Repulsors
+  icon: images/Item_1176.png
+- name: Banished Ether
+  icon: images/Item_1192.png
+- name: Sequestration Flux
+  icon: images/Item_1200.png
+- name: Kernel of Antimagic
+  icon: images/Item_1188.png
+- name: Plasmic Marrow
+  icon: images/Item_1189.png
+- name: Dismissive Core
+  icon: images/Item_1190.png
+  note: 'no-trade - (Reward from the quest [[Legacy of Power: Secrets in an Arcane Land]])'
+- name: Ooze of Forbiddance
+  icon: images/Item_31.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Abjuration Flask (Collection Item)|Abjuration Flask]] this item is needed for the collection: [[Elements of Augury]]
+- [[Hoop of the Flask]]

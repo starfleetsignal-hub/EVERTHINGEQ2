@@ -5,6 +5,23 @@ level: '80'
 added_in: Tinkerfest
 events:
 - Tinkerfest
+zone: '[[Steamfont Mountains]]'
+collection_type: Purple
+pieces:
+- name: tinkered gizmo
+  icon: images/Item_3150.png
+- name: tinkered gadget
+  icon: images/Item_3139.png
+- name: tinkered doohickey
+  icon: images/Item_3088.png
+- name: tinkered discombobulator
+  icon: images/Item_3152.png
+- name: tinkered widget
+  icon: images/Item_3143.png
+- name: tinkered exothermicator
+  icon: images/Item_3171.png
+- name: tinkered rototillerator
+  icon: images/Item_3092.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +41,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[A tinkered inspiration]]

@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Moors of Ykesha]]'
+collection_type: Year of Discovery
+pieces:
+- name: Front Left Corner
+  page: Front Left Corner (Fabled Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+- name: Front Right Corner
+  page: Front Right Corner (Fabled Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+- name: Rear Right Corner
+  page: Rear Right Corner (Fabled Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+- name: Rear Left Corner
+  page: Rear Left Corner (Fabled Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+- name: Large Middle Section
+  page: Large Middle Section (Fabled Abyssal Carpet Fragments)
+  icon: images/Item_741.png
+- name: Corner Carpet Tassel
+  page: Corner Carpet Tassel (Fabled Abyssal Carpet Fragments)
+  icon: images/Item_1218.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

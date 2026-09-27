@@ -2,6 +2,29 @@
 title: Formless Critters
 type: quest
 level: '135'
+collection_type: Collection items
+pieces:
+- name: Formless Fish Critters
+  icon: images/Item_399.png
+  note: no-trade - (Reward from the collection [[Formless Fish]])
+- name: Formless Shrub Critters
+  icon: images/Item_399.png
+  note: no-trade - (Reward from the collection [[Formless Shrubs]])
+- name: Formless Den Critters
+  icon: images/Item_399.png
+  note: no-trade - (Reward from the collection [[Formless Dens]])
+- name: Formless Roots Critters
+  icon: images/Item_399.png
+  note: no-trade - (Reward from the collection [[Formless Roots]])
+- name: Formless Lumber Critters
+  icon: images/Item_399.png
+  note: no-trade - (Reward from the collection [[Formless Lumber]])
+- name: Formless Ore Critters
+  icon: images/Item_399.png
+  note: no-trade - (Reward from the collection [[Formless Ore]])
+- name: Formless Gems Critters
+  icon: images/Item_399.png
+  note: no-trade - (Reward from the collection [[Formless Gems]])
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +43,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Ghost Wasp Plushie]]

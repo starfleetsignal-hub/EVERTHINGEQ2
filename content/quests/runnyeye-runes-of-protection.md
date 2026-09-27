@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Vohan's Rune of Earth
+  icon: images/Item_2930.png
+- name: Vohan's Rune of Air
+  icon: images/Item_2932.png
+- name: Vohan's Rune of Fire
+  icon: images/Item_2917.png
+- name: Vohan's Rune of Magic
+  icon: images/Item_2919.png
+  note: no-trade
+- name: Vohan's Rune of Merger
+  icon: images/Item_2916.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Runnyeye Rune of Protection]] this item is needed for the collection: [[Goblin Magic]]

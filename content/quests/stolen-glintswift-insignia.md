@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic I)]]'
+pieces:
+- name: Pinched Glintswift Emblem
+  icon: images/Item_1253.png
+- name: Purloined Glintswift Earmark
+  icon: images/Item_1252.png
+- name: Poached Glintswift Cast
+  icon: images/Item_1252.png
+- name: Plundered Glintswift Brand
+  icon: images/Item_1254.png
+- name: Pirated Glintswift Imprint
+  icon: images/Item_1253.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Glintswift Stirrups of Ability]]
+- [[Fishy Far Seas Ferrin]] this item is needed for the collection: [[Counterfeit Coins]]

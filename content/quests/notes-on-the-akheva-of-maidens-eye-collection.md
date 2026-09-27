@@ -5,6 +5,42 @@ level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 in_game_name: Notes on the Akheva of Maiden's Eye
 added_in: Blood of Luclin
+zone: '[[Aurelian Coast]], [[The Blinding]], [[Wracklands]]'
+collection_type: Pages
+pieces:
+- name: Notes on the Akheva of Maiden's Eye - Page 2
+  icon: images/Item_2180.png
+  note: found in [[The Blinding]]
+- name: Notes on the Akheva of Maiden's Eye - Page 3
+  icon: images/Item_2180.png
+  note: found in [[Aurelian Coast]]
+- name: Notes on the Akheva of Maiden's Eye - Page 4
+  icon: images/Item_2180.png
+  note: found in [[Wracklands]]
+- name: Notes on the Akheva of Maiden's Eye - Page 5
+  icon: images/Item_2180.png
+  note: found in [[The Blinding]]
+- name: Notes on the Akheva of Maiden's Eye - Page 6
+  icon: images/Item_2180.png
+  note: found in [[Aurelian Coast]]
+- name: Notes on the Akheva of Maiden's Eye - Page 7
+  icon: images/Item_2180.png
+  note: found in [[Wracklands]]
+- name: Notes on the Akheva of Maiden's Eye - Page 8
+  icon: images/Item_2180.png
+  note: found in [[The Blinding]]
+- name: Notes on the Akheva of Maiden's Eye - Page 9
+  icon: images/Item_2180.png
+  note: found in [[Aurelian Coast]]
+- name: Notes on the Akheva of Maiden's Eye - Page 10
+  icon: images/Item_2180.png
+  note: found in [[Wracklands]]
+- name: Notes on the Akheva of Maiden's Eye - Page 11
+  icon: images/Item_2180.png
+  note: found in [[The Blinding]]
+- name: Notes on the Akheva of Maiden's Eye - Page 12
+  icon: images/Item_2180.png
+  note: found in [[Aurelian Coast]]
 categories:
 - Aurelian Coast Collection Quests
 - Blood of Luclin Collection Quests
@@ -27,4 +63,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Notes on the Akheva of Maiden's Eye (Collection Reward)|Notes on the Akheva of Maiden's Eye]]

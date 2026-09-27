@@ -3,6 +3,19 @@ title: Symbols of Argent Sanctuary
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Cipher of Ra'Zaal
+  icon: images/Item_2182.png
+- name: Sigil of Ra'Zaal
+  icon: images/Item_3271.png
+- name: Idol of Ra'Zaal
+  icon: images/Item_2243.png
+- name: Banner of Ra'Zaal
+  icon: images/Item_5930.png
+- name: Icon of Ra'Zaal
+  icon: images/Item_1779.png
+- name: Badge of Ra'Zaal
+  icon: images/Item_1758.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Ironback Sentinel]]
+- [[Fragment of Collected Ballads (Treasured) (Version 2)|Fragment of Collected Ballads]]
+- [[Vaashkaani Kitar]] this item is needed for the collection: [[Overrealm Instruments]]

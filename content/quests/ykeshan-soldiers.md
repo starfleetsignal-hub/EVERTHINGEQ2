@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Sigil of the Ykeshan Wraithguard
+  icon: images/Item_1264.png
+- name: Sigil of the Ykeshan Wraithwarden
+  icon: images/Item_1267.png
+  note: no-trade
+- name: Sigil of the Ykeshan Wraithbuster
+  icon: images/Item_1266.png
+- name: Sigil of the Ykeshan Wraithslicer
+  icon: images/Item_1268.png
+- name: Sigil of the Ykeshan Wraithpusher
+  icon: images/Item_1269.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Yarddog]] this item is needed for the collection: [[Inhabitants of Guk]]

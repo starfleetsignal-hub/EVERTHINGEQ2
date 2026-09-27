@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[High Keep: The Bloodless Incursion (Contested)]]'
+collection_type: Shiny
+pieces:
+- name: Cooked Cazic Angler
+  icon: images/Item_2544.png
+- name: Cooked Dagnor's Bonefish
+  icon: images/Item_2545.png
+- name: Cooked Everfrost Trout
+  icon: images/Item_2546.png
+- name: Cooked Golden Eye Salmon
+  icon: images/Item_2548.png
+- name: Cooked High Pass Carp
+  icon: images/Item_2540.png
+- name: Hargar's Special Bait
+  icon: images/Item_1912.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Hargar Brand Fishing Pail]] this item is needed for the collection: [[The Coercer's Guise]]

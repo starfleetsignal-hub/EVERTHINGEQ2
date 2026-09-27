@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Patcher's Worn Leggings
+  icon: images/Item_262.png
+- name: Ruffian's Sandals
+  icon: images/Item_117.png
+- name: Shiv's Leather Cap
+  icon: images/Item_115.png
+  note: no-trade
+- name: Gritwitches Leather Cloak
+  icon: images/Item_244.png
+- name: Forger's Blackened Gloves
+  icon: images/Item_226.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Vohan's poked Out Eye]] this item is needed for the collection: [[Poked Out Boss Peepers]]
+- [[Ruffian's Rough Crossbow]]

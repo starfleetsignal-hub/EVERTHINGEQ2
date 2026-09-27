@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Watchman's Torch
+  icon: images/Item_2229.png
+- name: Watchman's Sword
+  icon: images/Item_65.png
+- name: Watchman's Pole Axe
+  icon: images/Item_24.png
+- name: Watchman's Satchel
+  icon: images/Item_399.png
+- name: Watchman's Eyeglass
+  icon: images/Item_2250.png
+- name: Watchman's Club
+  icon: images/Item_839.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,11 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Pennon of Might]] this item is needed for the collection: [[Pennon of the Scourge]]
+- one of the following:
+  - [[Razor Sharp Blood Iron Sword]]
+  - [[Razor Sharp Blood Iron Axe]]
+  - [[Deadly Blood Iron Spear]]
+  - [[Runic Greatstaff of the Watchman]]

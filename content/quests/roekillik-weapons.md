@@ -3,6 +3,20 @@ title: Roekillik Weapons
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[Demitrik''s Bastion]], [[The Outer Vault]], [[Spirit''s Resonance]]'
+pieces:
+- name: rusty Roekillik dagger
+  icon: images/Item_362.png
+- name: filthy Roekillik broadsword
+  icon: images/Item_1660.png
+- name: bloodied Roekillik mace
+  icon: images/Item_1655.png
+- name: slimy Roekillik saber
+  icon: images/Item_1679.png
+- name: crusted Roekillik claw
+  icon: images/Item_1676.png
+- name: nasty Roeklillik longsword
+  icon: images/Item_1665.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Will of Caertax]]
+- [[Kaborite Geodes: Roekillik]] this item is needed for the collection: [[The Deep and Dark Places: Geodes]]

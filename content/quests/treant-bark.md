@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Yellow Birch Bark
+  icon: images/Item_196.png
+- name: Red Ash Bark
+  icon: images/Item_196.png
+- name: White Maple Bark
+  icon: images/Item_196.png
+- name: Zekian Beech Bark
+  icon: images/Item_196.png
+- name: White Ash Bark
+  icon: images/Item_196.png
+- name: White Oak Bark
+  icon: images/Item_196.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,10 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Pennon of Battle]] this item is needed for the collection: [[Pennon of the Scourge]]
+- one of the following:
+  - [[Blood Iron Fist of Deadwood Magics]]
+  - [[Ornate Dagger of Deadwood Magics]]
+  - [[Runed Blade of Deadwood Magics]]

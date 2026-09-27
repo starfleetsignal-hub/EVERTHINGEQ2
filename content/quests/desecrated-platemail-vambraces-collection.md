@@ -5,6 +5,21 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Desecrated Platemail Vambraces
 added_in: Reign of Shadows
+pieces:
+- name: Shadeweaver Hide Backing
+  icon: images/Item_168.png
+- name: Essence of Detritus
+  icon: images/Item_4449.png
+- name: Glistened Fiend Saliva
+  icon: images/Item_176.png
+- name: Legends of the Misplaced
+  icon: images/Item_195.png
+- name: Desecrated Assassin Ichor
+  icon: images/Item_356.png
+- name: Forged Dark Steel Plate
+  icon: images/Item_735.png
+- name: Essentiality of Quietus
+  icon: images/Item_2526.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Desecrated Platemail Vambraces (Armor)|Desecrated Platemail Vambraces]]
+- [[Desecrated Platemail Vambraces (Collection Item)|Desecrated Platemail Vambraces]] this item is needed for the collection: [[Luclin Treasures]]

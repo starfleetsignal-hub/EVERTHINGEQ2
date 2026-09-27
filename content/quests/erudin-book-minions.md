@@ -3,6 +3,16 @@ title: Erudin Book Minions
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[Erudin Research Halls]], [[Royal Palace of Erudin]]'
+pieces:
+- name: gilded book minion
+  icon: images/Item_715.png
+- name: embossed book minion
+  icon: images/Item_714.png
+- name: glowing runed book minion
+  icon: images/Item_713.png
+- name: skull etched book minion
+  icon: images/Item_712.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +35,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A silvered Erudite chest]]
+- [[Erudite Glyph Stones: Minion]] this item is needed for the collection: [[Erudite Glyph Stones]]

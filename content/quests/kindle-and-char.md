@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Distill or Be Killed (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: Scorched Flag
+  icon: images/Item_745.png
+- name: Singed Map
+  icon: images/Item_3163.png
+- name: Burned Note
+  icon: images/Item_185.png
+- name: Burnt Book
+  icon: images/Item_715.png
+- name: Blackened Coin
+  icon: images/Item_1351.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +36,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Sour Egg]] this item is needed for the collection: [[Really Bad Eggs]]

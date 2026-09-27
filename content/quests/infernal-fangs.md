@@ -3,6 +3,20 @@ title: Infernal Fangs
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Sinferzall's Fang
+  icon: images/Item_5736.png
+- name: Do'Guen's Fang
+  icon: images/Item_5736.png
+- name: Void-Bound Slasher Fang
+  icon: images/Item_5736.png
+- name: Scaladia Yen's Fang
+  icon: images/Item_5736.png
+- name: Carnagor's Fang
+  icon: images/Item_5736.png
+- name: Tyrant's Fang
+  icon: images/Item_5736.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Voidmetal Helm]]
+- [[Fragment of Collected Void]]
+- [[Malformed Eye]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

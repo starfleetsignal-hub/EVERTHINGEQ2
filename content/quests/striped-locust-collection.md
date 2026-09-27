@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Striped Locust Collection'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: striped black locust
+  icon: images/Item_2658.png
+- name: striped blue locust
+  icon: images/Item_2678.png
+- name: striped brown locust
+  icon: images/Item_2662.png
+- name: striped green locust
+  icon: images/Item_2674.png
+- name: striped red locust
+  icon: images/Item_2670.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Plague Swarm Coif]]
+  - [[Swarm Caller's Wristguards]]

@@ -5,6 +5,21 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Vesspyr Isles]]'
+collection_type: Year of Discovery
+pieces:
+- name: Brown Dragon Egg
+  page: Brown Dragon Egg (Fabled Dragons to Be)
+  icon: images/Item_2523.png
+- name: Blue Dragon Egg
+  page: Blue Dragon Egg (Fabled Dragons to Be)
+  icon: images/Item_2524.png
+- name: Yellow Dragon Egg
+  page: Yellow Dragon Egg (Fabled Dragons to Be)
+  icon: images/Item_2525.png
+- name: Gray Dragon Egg
+  page: Gray Dragon Egg (Fabled Dragons to Be)
+  icon: images/Item_2526.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +41,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

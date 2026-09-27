@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Advanced Solo)]], [[The Fabled Court of Innovation (Advanced Solo)]], [[The Fabled Crypt of Valdoon (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: D'Vinnian Blood Axe
+  icon: images/Item_3738.png
+- name: D'Vinnian Blood Armor
+  icon: images/Item_223.png
+- name: D'Vinnian Blood Charm
+  icon: images/Item_322.png
+- name: D'Vinnian Blood Dagger
+  icon: images/Item_203.png
+- name: D'Vinnian Blood Oath
+  icon: images/Item_185.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Klakdyne Worker]] this item is needed for the collection: [[King Klak'Anon Scepters]]

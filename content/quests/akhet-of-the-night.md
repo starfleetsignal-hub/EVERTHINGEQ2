@@ -5,6 +5,15 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Akhet: Akhet of the Night'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: bronze akhet of a moonlit desert
+  icon: images/Item_2617.png
+- name: golden akhet of a moonlit desert
+  icon: images/Item_2613.png
+- name: silver akhet of a moonlit desert
+  icon: images/Item_2615.png
 categories:
 - Akhet (CQ Category)
 - Census Credits
@@ -28,3 +37,10 @@ expansion_source: patch
 ---
 
 - This collection was formerly an incomplete or Burynai-only collection and was fully implemented in [[Update:54|GU54]].
+
+## Rewards
+
+- one of the following:
+  - [[Silvered Lunar Bracelet]]
+  - [[Silvered Lunar Earring]]
+  - [[Platinum djinn lamp]]

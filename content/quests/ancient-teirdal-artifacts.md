@@ -2,6 +2,17 @@
 title: Ancient Teir'Dal Artifacts
 type: quest
 level: '20'
+pieces:
+- name: King Thex Brooch
+- name: Gemmed Teir'Dal Pommel
+- name: Teir'Dal Dagger Sheath
+- name: Innoruuk Offering Plate
+- name: Ceremonial Thurible of Hate
+- name: Teir'Dal Oil Lamp
+- name: Jeweled Hair Blade
+- name: Cracked Rune of Hate
+- name: Defaced House J'Riala Sigil
+- name: Prince of Hate Talisman
 categories:
 - Collection Quests
 - Collections missing zone

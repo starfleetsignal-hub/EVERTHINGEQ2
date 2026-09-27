@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Ossuary of Malevolence (Contested)]], [[Ossuary: Resonance of Malice (Heroic)]], [[Ossuary: Choir of T''Vyl (Event Heroic)]]'
+pieces:
+- name: Blood Stained Dagger
+  icon: images/Item_608.png
+- name: Blood Stained Book
+  icon: images/Item_195.png
+- name: Blood Stained Mace
+  icon: images/Item_3722.png
+- name: Blood Stained Robes
+  icon: images/Item_3769.png
+- name: Blood Stained Gloves
+  icon: images/Item_447.png
+- name: Blood Stained Scalpel
+  icon: images/Item_1665.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -28,4 +42,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Far Seas Ferrin]]
+- [[Bloodworm Plushie]]
+- [[Tales of Villandre V'Zher]] this item is needed for the collection: [[Tales of Malice]]

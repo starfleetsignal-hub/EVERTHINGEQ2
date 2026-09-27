@@ -5,6 +5,20 @@ level: '130'
 added_in: LU129
 aliases:
 - Fear of Eternity (Collection)
+collection_type: Collection items
+pieces:
+- name: Banner of Baelon
+  icon: images/Item_5929.png
+  note: no-trade - (Reward from the collection [[Implements of Fear]])
+- name: Sigil of the Faceless
+  icon: images/Item_5801.png
+  note: no-trade - (Reward from the collection [[Offerings of the Faceless]])
+- name: Banner of Mrelg
+  icon: images/Item_5930.png
+  note: no-trade - (Reward from the collection [[Wurmbone's Elite]])
+- name: Sigil of World's End
+  icon: images/Item_5802.png
+  note: no-trade - (Reward from the collection [[Legacy of the Great Devourer]])
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Regalia of the Eternal Fear]]

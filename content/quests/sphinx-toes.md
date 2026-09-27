@@ -2,6 +2,13 @@
 title: Sphinx Toes
 type: quest
 level: '50'
+pieces:
+- name: decaying sphinx toe
+  icon: images/Item_79.png
+- name: fresh sphinx toe
+  icon: images/Item_79.png
+- name: shriveled sphinx toe
+  icon: images/Item_79.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +27,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Talon Clenched Orb]]
+  - [[Swifthiss]]

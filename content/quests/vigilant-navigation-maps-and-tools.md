@@ -3,6 +3,21 @@ title: Vigilant Navigation Maps and Tools
 type: quest
 level: '92'
 added_in: Sentinel's Fate
+zone: '[[The Vigilant: Incursion]], [[The Vigilant: Infiltration]], [[The Vigilant: Rescue]]'
+collection_type: Shiny
+pieces:
+- name: 'map of Sundered Frontier: north'
+  icon: images/Item_3163.png
+- name: 'map of Sundered Frontier: south'
+  icon: images/Item_3163.png
+- name: 'map of Stonebrunt Highland: north'
+  icon: images/Item_3163.png
+- name: 'map of Stonebrunt Highland: South'
+  icon: images/Item_3163.png
+- name: 'map of Odus: surrounding islands'
+  icon: images/Item_3163.png
+- name: map of an unknown region
+  icon: images/Item_3163.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Erudite officer's stool]]
+- [[Erudite Glyph Stones: Maps]] this item is needed for the collection: [[Erudite Glyph Stones]]

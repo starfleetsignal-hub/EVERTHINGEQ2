@@ -5,6 +5,16 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Tinkered: Sand Blasted Tinkered Items'
+zone: '[[The Shimmering Citadel]], [[The Sinking Sands]]'
+pieces:
+- name: sand blasted bolt
+  icon: images/Item_1031.png
+- name: sand blasted cog
+  icon: images/Item_1042.png
+- name: sand blasted gear
+  icon: images/Item_1041.png
+- name: sand blasted spinner
+  icon: images/Item_1021.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +36,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Luminescent Magus Cuffs]]
+  - [[Tactician's Plate Barbute]]

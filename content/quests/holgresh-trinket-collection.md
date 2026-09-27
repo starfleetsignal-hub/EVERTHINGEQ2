@@ -3,6 +3,24 @@ title: Holgresh Trinket Collection
 type: quest
 level: '90'
 added_in: LU63
+zone: '[[The Withered Lands]]'
+pieces:
+- name: Holgresh Grooming Tool
+  icon: images/Item_2344.png
+- name: Holgresh Mojo Stick
+  icon: images/Item_2351.png
+- name: Holgresh Skeletal Decoration
+  icon: images/Item_2343.png
+- name: Holgresh Wing
+  icon: images/Item_140.png
+- name: Holgresh Fur
+  icon: images/Item_93.png
+- name: Holgresh Cursed Bead
+  icon: images/Item_145.png
+- name: Holgresh Blessed Bead
+  icon: images/Item_144.png
+- name: Holgresh Shiny Bead
+  icon: images/Item_146.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,7 @@ expansion: Age of Discovery
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Everlasting Petamorph Wand: Holgresh]]
+- [[Withered Holgresh Rune]] this item is needed for the collection: [[Fragments of Growth]]

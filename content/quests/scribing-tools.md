@@ -4,6 +4,17 @@ type: quest
 level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 added_in: Reign of Shadows
+pieces:
+- name: Waterproof Parchment
+  icon: images/Item_3165.png
+- name: Oak Gall Ink
+  icon: images/Item_980.png
+- name: Gryphon Quill
+  icon: images/Item_149.png
+- name: Quill Trimming Knife
+  icon: images/Item_693.png
+- name: Spillproof Ink Bottle
+  icon: images/Item_4887.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Scribe's Side-Table (House Item)|Scribe's Side-Table]]
+- [[Scribe's Side-Table (Collection Item)|Scribe's Side-Table]] this item is needed for the collection: [[Vasty Deep Lost and Found]]

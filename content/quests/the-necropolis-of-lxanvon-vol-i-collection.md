@@ -4,6 +4,23 @@ type: quest
 level: '74'
 in_game_name: The Necropolis of Lxanvon Vol. I
 added_in: Fallen Dynasty
+zone: '[[Nizara, City of the Nayad]]'
+collection_type: Pages
+pieces:
+- name: Necropolis of Lxanvon, Vol. I, page 1
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Necropolis of Lxanvon, Vol. I, page 2
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Necropolis of Lxanvon, Vol. I, page 3
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Necropolis of Lxanvon, Vol. I, page 4
+  icon: images/Item_2181.png
+- name: Necropolis of Lxanvon, Vol. I, page 5
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +39,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[The Necropolis of Lxanvon Vol. I (Item)|The Necropolis of Lxanvon Vol. I]]

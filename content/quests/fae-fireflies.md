@@ -5,6 +5,19 @@ level: '80'
 added_in: LU46
 aliases:
 - 'Tradeskill: Fae Fireflies'
+zone: '[[Steamfont Mountains]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: shimmering firefly
+  icon: images/Item_1922.png
+- name: shining firefly
+  icon: images/Item_1923.png
+- name: sparkling firefly
+  icon: images/Item_1924.png
+- name: luminous firefly
+  icon: images/Item_1925.png
+- name: lambent firefly
+  icon: images/Item_1926.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +42,7 @@ expansion_source: patch
 ---
 
 - Members of this collection can commonly be found along the roads around Gnomeland Security HQ, the region around the crater near the druid rings and the region around the crater where the minotaurs are found.
+
+## Rewards
+
+- [[A fae lantern]]

@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Azure Snake
+  icon: images/Item_1910.png
+- name: Azure Moth
+  icon: images/Item_1929.png
+- name: Azure Ant
+  icon: images/Item_1883.png
+- name: Azure Wooly Spider
+  icon: images/Item_1878.png
+- name: Azure Spotted Butterfly
+  icon: images/Item_1837.png
+- name: Azure Beetle
+  icon: images/Item_1823.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +41,9 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Blue Seahorse]] this item is needed for the collection: [[Golden Opal Egg]]
+- [[Vesspyr Workman's Blue Boots]]
+- [[Ethertouched Schlager]]

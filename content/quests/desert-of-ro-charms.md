@@ -5,6 +5,20 @@ level: '20'
 added_in: Desert of Flames
 events:
 - Heroes' Festival
+zone: '[[The Sinking Sands]]'
+collection_type: Purple
+pieces:
+- name: Anaz Mal Charm
+  icon: images/Item_1788.png
+- name: Blackfang Charm
+  icon: images/Item_1790.png
+  note: <rare>
+- name: Kromtorr Charm
+  icon: images/Item_1298.png
+- name: Samiel Pirate Charm
+  icon: images/Item_1305.png
+- name: Sandcrawler Charm
+  icon: images/Item_1330.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,6 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Carpet of the Desert Sun (Mount)|Carpet of the Desert Sun]]

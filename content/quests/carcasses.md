@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Ruins of Varsoon]]'
+collection_type: Shiny
+pieces:
+- name: Bookminion Carcass
+  icon: images/Item_185.png
+- name: Troglodyte Carcass
+  icon: images/Item_170.png
+- name: Bat Carcass
+  icon: images/Item_140.png
+- name: Spinechiller Carcass
+  icon: images/Item_161.png
+- name: Goblin Carcass
+  icon: images/Item_159.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Marker of Refusal]] this item is needed for the collection: [[Markers of Varsoon]]
+- one of the following:
+  - [[Solid Iron Stud]]
+  - [[Solid Iron Earring]]

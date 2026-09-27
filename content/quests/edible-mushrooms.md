@@ -6,6 +6,24 @@ added_in: Echoes of Faydwer
 aliases:
 - Black Edible Mushroom
 - 'Lesser Faydark: Edible Mushrooms'
+zone: '[[The Lesser Faydark]]'
+collection_type: Shiny
+pieces:
+- name: black edible mushroom
+  icon: images/Item_2014.png
+  note: ''
+- name: blue edible mushroom
+  icon: images/Item_2018.png
+- name: green edible mushroom
+  icon: images/Item_2019.png
+- name: orange edible mushroom
+  icon: images/Item_2016.png
+- name: purple edible mushroom
+  icon: images/Item_2020.png
+- name: red edible mushroom
+  icon: images/Item_2015.png
+- name: yellow edible mushroom
+  icon: images/Item_2017.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Spore Shrouded Choker (Version 2)|Spore Shrouded Choker]]
+  - [[Spore Shrouded Medallion (Version 2)|Spore Shrouded Medallion]]

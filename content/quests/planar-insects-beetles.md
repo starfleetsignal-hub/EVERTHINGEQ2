@@ -4,6 +4,20 @@ type: quest
 level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 added_in: Planes of Prophecy
+zone: '[[Plane of Disease: Crypt of Decay (Tradeskill)]], [[Plane of Innovation: Security Measures (Tradeskill)]], [[Shard of Hate: Eye Spy (Tradeskill)]], [[Shard of Hate: Eye Spy (Tradeskill)]], [[Solusek Ro''s Tower: From the Ashes (Tradeskill)]], [[The Molten Throne: Hate''s Essences (Tradeskill)]], [[The Molten Throne: Portals to Nowhere (Tradeskill)]], [[Bastion of Thunder: Lightning Strikes (Tradeskill)]]'
+pieces:
+- name: Torden Lightning Beetle
+  icon: images/Item_1805.png
+- name: Solusek Pyre Beetle
+  icon: images/Item_1820.png
+- name: Detrioxxian Plague Beetle
+  icon: images/Item_1815.png
+- name: Small Clockwork Beetle
+  icon: images/Item_1808.png
+- name: Valorous Herculean Beetle
+  icon: images/Item_1824.png
+- name: Molten Monarch Beetle
+  icon: images/Item_1819.png
 categories:
 - 'Bastion of Thunder: Lightning Strikes (Tradeskill) Collection Quests'
 - Census Credits
@@ -30,4 +44,6 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shrine of Eternal Agony]]

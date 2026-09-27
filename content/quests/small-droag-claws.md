@@ -5,6 +5,17 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Claws: Small Droag Claws'
+zone: '[[Tenebrous Tangle]]'
+collection_type: Shiny
+pieces:
+- name: small broken Droag claw
+  icon: images/Item_167.png
+- name: small chipped Droag claw
+  icon: images/Item_167.png
+- name: small polished Droag claw
+  icon: images/Item_167.png
+- name: small worn Droag claw
+  icon: images/Item_167.png
 categories:
 - Census Credits
 - Claws (CQ Category)
@@ -25,4 +36,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A marvelous droag tapestry]]

@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Shipwrecked
 added_in: Visions of Vetrovia
+pieces:
+- name: Gnome-Sized Eyepatch
+  icon: images/Item_2250.png
+- name: Water-Damaged Far Seas Token
+  icon: images/Item_2837.png
+- name: Barnacle-Covered Spyglass
+  icon: images/Item_2565.png
+- name: Seafury Bandana
+  icon: images/Item_1230.png
+- name: Broken Ship's Wheel
+  icon: images/Item_3604.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Accumulated Furious Earring]]
+- [[Shipwrecked (Item)|Shipwrecked]] this item is needed for the collection: [[More Sights and Sounds]]

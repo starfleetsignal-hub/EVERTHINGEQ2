@@ -2,6 +2,23 @@
 title: Colorful Frostfell Ribbons
 type: quest
 level: '95'
+pieces:
+- name: Blue and Silver Snowflakes Ribbon
+  icon: images/Item_1237.png
+- name: Red and White Striped Ribbon
+  icon: images/Item_1239.png
+- name: Green and White Dotted Ribbon
+  icon: images/Item_1238.png
+- name: Gold and Red Trimmed Ribbon
+  icon: images/Item_1239.png
+- name: White and Red Swirled Ribbon
+  icon: images/Item_1242.png
+- name: Blue and White Stars Ribbon
+  icon: images/Item_1240.png
+- name: Green Holly Silk Ribbon
+  icon: images/Item_1235.png
+- name: Candy and Sweets Ribbon
+  icon: images/Item_1236.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,3 +40,5 @@ source:
 ![Crate with possible reward for opening Gifty Bag bought from Marketplace](images/The_Spirit_of_Giving.png)
 The pieces for this collection have a chance to be awarded to the character who opened [[Gifty Bag]] purchased from [[Marketplace]] (confirmed in 2025).
 These collectibles are part of [[The Spirit of Giving]] reward pool.
+
+## Rewards

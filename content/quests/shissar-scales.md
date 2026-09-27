@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Wracklands]]'
+pieces:
+- name: Shissar Revenant Scale
+  icon: images/Item_158.png
+- name: Shissar Stalker Scale
+  icon: images/Item_158.png
+- name: Shissar Servitor Scale
+  icon: images/Item_158.png
+- name: Shissar Disciple Scale
+  icon: images/Item_158.png
+- name: Shissar Tormentor Scale
+  icon: images/Item_158.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -25,4 +37,7 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shissar Scale Earring]]
+- [[The Grey Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]

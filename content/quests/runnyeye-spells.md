@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Siltsea's Whirling Dust Devil
+  icon: images/Item_712.png
+- name: Chieftain Kanar's Poison Gas
+  icon: images/Item_712.png
+- name: Slamhammer's Magic Hammers
+  icon: images/Item_712.png
+  note: no-trade
+- name: Marrowgut's Spell of Gutting
+  icon: images/Item_712.png
+- name: Burtoe's Spell of Resurrection
+  icon: images/Item_712.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Runnyeye Spell Scroll]] this item is needed for the collection: [[Goblin Magic]]

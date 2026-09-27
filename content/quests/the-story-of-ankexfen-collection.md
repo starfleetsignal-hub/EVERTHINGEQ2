@@ -4,6 +4,24 @@ type: quest
 level: '62'
 in_game_name: The Story of Ankexfen
 added_in: Fallen Dynasty
+zone: '[[Nizara, City of the Nayad]]'
+collection_type: Corpse
+pieces:
+- name: The Story of Ankexfen, page 1
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop.
+- name: The Story of Ankexfen, page 2
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop.
+- name: The Story of Ankexfen, page 3
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop.
+- name: The Story of Ankexfen, page 4
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop.
+- name: The Story of Ankexfen, page 5
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop.
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +40,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[The Story of Ankexfen (Item)|The Story of Ankexfen]]

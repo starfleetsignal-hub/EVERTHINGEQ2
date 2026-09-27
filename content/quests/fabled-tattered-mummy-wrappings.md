@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sinking Sands]]'
+collection_type: Year of Discovery
+pieces:
+- name: tattered arm wrapping
+  page: Tattered arm wrapping (Fabled Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered foot wrapping
+  page: Tattered foot wrapping (Fabled Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered hand wrapping
+  page: Tattered hand wrapping (Fabled Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered head wrapping
+  page: Tattered head wrapping (Fabled Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered leg wrapping
+  page: Tattered leg wrapping (Fabled Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered torso wrapping
+  page: Tattered torso wrapping (Fabled Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

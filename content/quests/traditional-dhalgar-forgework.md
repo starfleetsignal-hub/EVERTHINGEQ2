@@ -3,6 +3,25 @@ title: Traditional Dhalgar Forgework
 type: quest
 level: '100'
 added_in: Terrors of Thalumbra
+zone: '[[Maldura]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: traditional dhalgar smithing tongs
+  icon: images/Item_33.png
+- name: traditional dhalgar smithing hammer
+  icon: images/Item_2150.png
+- name: traditional dhalgar anvil
+  icon: images/Item_2286.png
+- name: traditional dhalgar bellows
+  icon: images/Item_2282.png
+- name: traditional dhalgar leather apron
+  icon: images/Item_1093.png
+- name: traditional dhalgar wrought iron
+  icon: images/Item_365.png
+- name: traditional dhalgar quenching oil
+  icon: images/Item_650.png
+- name: traditional dhalgar forging dies
+  icon: images/Item_1361.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,6 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Forge of Brell (House Item)|Forge of Brell]]

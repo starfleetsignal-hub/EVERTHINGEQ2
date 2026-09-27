@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Hopperhide Armor
 added_in: Reign of Shadows
+pieces:
+- name: Finely Tanned Hopperhide
+  icon: images/Item_122.png
+- name: Intricate Etched Hooks
+  icon: images/Item_1004.png
+- name: Song of Solidity
+  icon: images/Item_2708.png
+- name: Essence of Care
+  icon: images/Item_2513.png
+- name: Attribute of Praise
+  icon: images/Item_1184.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Hopperhide Armor (Chest)|Hopperhide Armor]]
+- [[Hopperhide Armor (Collection Item)|Hopperhide Armor]] this item is needed for the collection: [[Depths of the Darkside]]

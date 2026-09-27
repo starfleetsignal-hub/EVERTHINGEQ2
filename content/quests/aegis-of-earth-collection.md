@@ -5,6 +5,20 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Aegis of Earth
 added_in: Chaos Descending
+zone: '[[Vegarlson, the Earthen Badlands]]'
+collection_type: Cde
+pieces:
+- name: Sigil of Protection
+  icon: images/Item_1281.png
+- name: Essence of Earth
+  icon: images/Item_4089.png
+  note: (Reward from the quest [[Mind of My Stone]])
+- name: Vegarlson Iron
+  icon: images/Item_84.png
+- name: Seal of Mud
+  icon: images/Item_1272.png
+- name: Rune of Vigor
+  icon: images/Item_1254.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -26,4 +40,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Aegis of Earth (Collection Item)|Aegis of Earth]] this item is needed for the collection: [[Ensorcelled Metalcloth Cape (Collection)|Ensorcelled Metalcloth Cape]]
+- [[Aegis of Earth (Buckler)|Aegis of Earth]]

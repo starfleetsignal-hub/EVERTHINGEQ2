@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Gukish Chef's Bowl
+  icon: images/Item_1066.png
+- name: Gukish Chef's Rolling Pin
+  icon: images/Item_2328.png
+  note: no-trade
+- name: Gukish Chef's Knife
+  icon: images/Item_23.png
+- name: Gukish Chef's Apron
+  icon: images/Item_751.png
+- name: Gukish Chef's Hat
+  icon: images/Item_3072.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Mark of the Gukish Chef]] this item is needed for the collection: [[Inhabitants of Guk]]

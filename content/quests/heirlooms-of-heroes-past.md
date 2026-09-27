@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Ingrid's Looking Glass
+  icon: images/Item_2257.png
+- name: Varlos' Gold Pen
+  icon: images/Item_2532.png
+- name: Duke Ferrin's Medal
+  icon: images/Item_1249.png
+- name: Xaliea's Poultice Bag
+  icon: images/Item_397.png
+- name: Vladiminns' Bow
+  icon: images/Item_9.png
+- name: Nathinia's Talisman
+  icon: images/Item_576.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,4 +41,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Woven Basket of Coin]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Saffron Coast]] this item is needed for the collection: [[Shields of Tranquil Sea]]

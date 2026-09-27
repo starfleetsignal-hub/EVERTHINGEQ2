@@ -6,6 +6,16 @@ in_game_name: regal butterfly collection
 added_in: Shattered Lands
 aliases:
 - 'Butterfly: regal butterfly collection'
+zone: '[[The Forest Ruins]], [[The Caves]], [[Oakmyst Forest]], [[The Peat Bog]]'
+pieces:
+- name: regal blue butterfly
+  icon: images/Item_1837.png
+- name: regal purple butterfly
+  icon: images/Item_1839.png
+- name: regal violet butterfly
+  icon: images/Item_1840.png
+- name: regal yellow butterfly
+  icon: images/Item_1838.png
 categories:
 - Butterfly (CQ Category)
 - Census Credits
@@ -30,3 +40,7 @@ expansion_source: patch
 ---
 
 - This collection was formerly only available via the [[A Burynai Digger|Burynai house pet]], so it is not included in the [[Butterfly collection.]] [[LU51|GU51]] added this collection to several Qeynos T1 zones.
+
+## Rewards
+
+- At least 54s

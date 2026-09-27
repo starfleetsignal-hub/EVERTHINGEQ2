@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Distill or Be Killed (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: Ruby and Gold Ring
+  icon: images/Item_3432.png
+- name: Skull Etched Earring
+  icon: images/Item_3466.png
+- name: Glowing Blue Stone
+  icon: images/Item_2922.png
+- name: Priceless Velium Chain
+  icon: images/Item_3447.png
+- name: Black Opal Pendant
+  icon: images/Item_3456.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +36,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Putrid Egg]] this item is needed for the collection: [[Really Bad Eggs]]

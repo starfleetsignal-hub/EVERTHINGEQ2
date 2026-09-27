@@ -2,6 +2,13 @@
 title: Sphinx Featheres
 type: quest
 level: '50'
+pieces:
+- name: blue sphinx feather
+  icon: images/Item_2106.png
+- name: green sphinx feather
+  icon: images/Item_2105.png
+- name: red sphinx feather
+  icon: images/Item_2111.png
 categories:
 - Census Credits
 - Collection Quests
@@ -20,4 +27,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Ring of the Faith Healer]]
+  - [[Mantle of Prismatic Feathers]]

@@ -4,6 +4,15 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Blue Flutter Wing Butterfly
+  icon: images/Item_1825.png
+- name: Striped Angel Wing Butterfly
+  icon: images/Item_1833.png
+- name: Spotted Angel Wing Butterfly
+  icon: images/Item_1837.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +35,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Aeterna Cocoon]] this item is needed for the collection: [[Visionary Relief]]
+- one of the following:
+  - [[Vesspyr Warrior's Red Breastplate]]
+  - [[Vesspyr Scout's Blue Helm]]

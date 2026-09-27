@@ -6,6 +6,18 @@ in_game_name: plain spider collection
 added_in: Shattered Lands
 aliases:
 - 'Spider: plain spider collection'
+zone: '[[Stormhold]]'
+pieces:
+- name: plain blue spider
+  icon: images/Item_1863.png
+- name: plain green spider
+  icon: images/Item_1862.png
+- name: plain grey spider
+  icon: images/Item_1861.png
+- name: plain yellow spider
+  icon: images/Item_1864.png
+- name: plain red spider
+  icon: images/Item_1865.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- 59s

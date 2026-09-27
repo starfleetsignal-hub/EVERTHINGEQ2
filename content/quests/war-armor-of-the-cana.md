@@ -3,6 +3,20 @@ title: War Armor of the Ca'Na
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[Vasty Deep: The Conservatory]], [[Vasty Deep: The Abandoned Labs]], [[Vasty Deep: The Vestigial Cella]]'
+pieces:
+- name: elaborate Ca'Na chestplate
+  icon: images/Item_3242.png
+- name: elaborate Ca'Na clawed gauntlet
+  icon: images/Item_3616.png
+- name: elaborate Ca'Na razor-pauldron
+  icon: images/Item_3235.png
+- name: elaborate Ca'Na tailspike
+  icon: images/Item_2863.png
+- name: elaborate Ca'Na priestess helm
+  icon: images/Item_3372.png
+- name: elaborate Ca'Na armored belt
+  icon: images/Item_3213.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A Ca'Na elitia]]
+- [[Kaborite Geodes: Ca'Na]] this item is needed for the collection: [[The Deep and Dark Places: Geodes]]

@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[The Blinding]]'
+pieces:
+- name: Dried Rockhopper Horn
+  icon: images/Item_102.png
+- name: Fresh Rockhopper Horn
+  icon: images/Item_102.png
+- name: Bloodied Rockhopper Horn
+  icon: images/Item_102.png
+- name: Muddy Rockhopper Horn
+  icon: images/Item_102.png
+- name: Sharp Rockhopper Horn
+  icon: images/Item_102.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -24,4 +36,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Maiden's Eye Shard]] this item is needed for the collection: [[Prismatic Shards of Luclin]]

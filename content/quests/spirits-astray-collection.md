@@ -4,6 +4,25 @@ type: quest
 level: '95'
 in_game_name: Spirits Astray
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Pages
+pieces:
+- name: Spirits Astray - Page 3
+  icon: images/Item_2180.png
+- name: Spirits Astray - Page 5
+  icon: images/Item_2180.png
+- name: Spirits Astray - Page 7
+  icon: images/Item_2180.png
+- name: Spirits Astray - Page 10
+  icon: images/Item_2180.png
+- name: Spirits Astray - Page 12
+  icon: images/Item_2180.png
+- name: Spirits Astray - Page 13
+  icon: images/Item_2180.png
+- name: Spirits Astray - Page 16
+  icon: images/Item_2180.png
+- name: Spirits Astray - Page 17
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Spirits Astray (Item)|Spirits Astray]]
+- [[Small Stack of Draconic Etyma]]
+- one of the following:
+  - [[Vesspyr Warrior's Elaborate Bronze Barbute]]
+  - [[Vesspyr Workman's Green Leggings]]

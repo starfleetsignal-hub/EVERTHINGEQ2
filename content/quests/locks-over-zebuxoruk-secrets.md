@@ -4,6 +4,28 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+pieces:
+- name: Zebuxoruk Binding Lock
+  icon: images/Item_3104.png
+- name: Zebuxoruk Requisite Lock
+  icon: images/Item_3108.png
+- name: Zebuxoruk Magically Sealed Lock
+  icon: images/Item_3106.png
+- name: Zebuxoruk Fastened Lock
+  icon: images/Item_3112.png
+- name: Zebuxoruk Unbreakable Lock
+  icon: images/Item_3110.png
+- name: Zebuxoruk Transfixed Lock
+  icon: images/Item_3111.png
+- name: Zebuxoruk Mystically Charged Lock
+  icon: images/Item_3107.png
+- name: Zebuxoruk Spellbound Lock
+  icon: images/Item_3109.png
+- name: Zebuxoruk Impenetrable Lock
+  icon: images/Item_3103.png
+- name: Zebuxoruk Intricate Lock
+  icon: images/Item_3105.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +47,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Keeper Charge of Xalgoz]] this item is needed for the collection: [[Sarnak Arcane Defenses]]
+- one of the following:
+  - [[Zebuxoruk Warring Helm]]
+  - [[Zebuxoruk Warring Long Bow]]

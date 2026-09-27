@@ -3,6 +3,26 @@ title: Relics of the Onaya
 type: quest
 level: '85'
 added_in: Sentinel's Fate
+zone: '[[Vasty Deep: The Conservatory]], [[Vasty Deep: The Abandoned Labs]], [[Vasty Deep: The Vestigial Cella]]'
+pieces:
+- name: Onayan ceremonial urn
+  page: Onayan ceremonial urn (Relics of the Onaya)
+  icon: images/Item_982.png
+- name: Onayan dragon effigy
+  page: Onayan dragon effigy (Relics of the Onaya)
+  icon: images/Item_2592.png
+- name: Onayan ocean totem
+  page: Onayan ocean totem (Relics of the Onaya)
+  icon: images/Item_861.png
+- name: Onayan sash button
+  page: Onayan sash button (Relics of the Onaya)
+  icon: images/Item_1791.png
+- name: Onayan staff of the waves
+  page: Onayan staff of the waves (Relics of the Onaya)
+  icon: images/Item_3116.png
+- name: Onayan coral necklace
+  page: Onayan coral necklace (Relics of the Onaya)
+  icon: images/Item_385.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +46,7 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Onayan Protector]]
+- [[Kaborite Geodes: Onaya]] this item is needed for the collection: [[The Deep and Dark Places: Geodes]]

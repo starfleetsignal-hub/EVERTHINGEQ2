@@ -3,6 +3,14 @@ title: 'Scales: Alliz Raef Ew Scales'
 type: quest
 added_in: Rise of Kunark
 removed_from_game: This incomplete collection was removed from the game in [[LU51|GU51]].
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: broken Alliz Raef Ew scale
+- name: decaying Alliz Raef Ew scale
+- name: pristine Alliz Raef Ew scale
+- name: shining Alliz Raef Ew scale
+- name: tarnished Alliz Raef Ew scale
 categories:
 - Collection Quests
 - Collections needing rewardtype
@@ -22,3 +30,7 @@ expansion_source: patch
 ---
 
 - Believed to have been an incomplete Burynai collection then removed in [[LU51|GU51]].
+
+## Rewards
+
+- Unknown, impossible to confirm

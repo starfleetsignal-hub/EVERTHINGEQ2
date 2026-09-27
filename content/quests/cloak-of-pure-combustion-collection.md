@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Cloak of Pure Combustion
 added_in: Chaos Descending
+zone: '[[Doomfire: Elements of Rage (Heroic)]], [[Doomfire: Elements of Rage (Expert)]], [[Doomfire: The Enkindled Towers (Heroic)]], [[Doomfire: The Enkindled Towers (Expert)]], [[Doomfire: Vengeance of Ro (Event Heroic)]], [[Doomfire: Vengeance of Ro (Expert Event)]]'
+pieces:
+- name: Doomfire Drape
+  icon: images/Item_237.png
+- name: Mark of Combustion
+  icon: images/Item_3826.png
+- name: Charm of Flame
+  icon: images/Item_2523.png
+- name: Element of Purity
+  icon: images/Item_3771.png
+- name: Insignia of Ro
+  icon: images/Item_606.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -30,4 +42,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Cloak of Pure Combustion (Cloak)|Cloak of Pure Combustion]]
+- [[Cloak of Pure Combustion (Collection Item)|Cloak of Pure Combustion]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]

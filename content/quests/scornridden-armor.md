@@ -3,6 +3,21 @@ title: Scornridden Armor
 type: quest
 level: '125'
 added_in: Update 2022.08.09
+zone: '[[Fabled Kurn''s Tower (Solo)]]'
+collection_type: Collection items
+pieces:
+- name: Scornridden Cuirass
+  icon: images/Item_4464.png
+  note: (Reward from the collection [[Undead Bard Songs, Volume I]])
+- name: Scornridden Greaves
+  icon: images/Item_4469.png
+  note: (Reward from the collection [[Void Beast Eyes]])
+- name: Scornridden Pauldrons
+  icon: images/Item_4478.png
+  note: (Reward from the collection [[Void-Touched Medallions]])
+- name: Scornridden Gauntlets
+  icon: images/Item_4467.png
+  note: (Reward from the collection [[Wumpus Parts]])
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +36,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Scornridden Tome]]

@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Pygmy Markers
 added_in: Visions of Vetrovia
+zone: '[[Karuupa Jungle: Dedraka''s Descent (Solo)]]'
+pieces:
+- name: Weathered Territory Marker
+  icon: images/Item_3773.png
+- name: Zombie-Gnawed Marker
+  icon: images/Item_3775.png
+- name: Broken Territory Marker
+  icon: images/Item_3774.png
+- name: Feather-Festooned Marker
+  icon: images/Item_3776.png
+- name: Insect-Riddled Marker
+  icon: images/Item_3777.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Shoes of Striking]]
+- [[Pygmy Markers (Item)|Pygmy Markers]] this item is needed for the collection: [[Vetrovian Perceptions]]

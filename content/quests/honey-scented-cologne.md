@@ -4,6 +4,17 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[The Nexus Core (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Honey Extract
+  icon: images/Item_290.png
+- name: Concentrated Oil
+  icon: images/Item_327.png
+- name: Empty Flask
+  icon: images/Item_313.png
+- name: Basting Pot
+  icon: images/Item_292.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +37,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Bixie Stick]] this item is needed for the collection: [[Spells Flying]]
+- one of the following:
+  - [[Highpass Vanguard Breastplate]]
+  - [[Dragon Disciples Boots]]

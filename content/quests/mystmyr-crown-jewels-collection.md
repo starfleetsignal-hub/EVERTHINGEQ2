@@ -5,6 +5,19 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Mystmyr Crown Jewels
 added_in: Visions of Vetrovia
+pieces:
+- name: Gem-Encrusted Sword
+  icon: images/Item_2974.png
+- name: Jeweled Wedding Tiara
+  icon: images/Item_3306.png
+- name: Elaborate Cloak Pin
+  icon: images/Item_969.png
+- name: Wolf-Headed Platinum Neck Torque
+  icon: images/Item_992.png
+- name: Gemstone-Studded Coffer
+  icon: images/Item_5133.png
+- name: Ruby and Diamond Coronet
+  icon: images/Item_958.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Circle of Intimidation]]
+- [[Mystmyr Crown Jewels (Item)|Mystmyr Crown Jewels]] this item is needed for the collection: [[Vetrovian Perceptions]]

@@ -6,6 +6,24 @@ added_in: Echoes of Faydwer
 aliases:
 - Black Poisonous Mushroom
 - 'Lesser Faydark: Poisonous Mushrooms'
+zone: '[[The Lesser Faydark]]'
+collection_type: Shiny
+pieces:
+- name: black poisonous mushroom
+  icon: images/Item_2014.png
+  note: ''
+- name: blue poisonous mushroom
+  icon: images/Item_2018.png
+- name: green poisonous mushroom
+  icon: images/Item_2019.png
+- name: orange poisonous mushroom
+  icon: images/Item_2016.png
+- name: purple poisonous mushroom
+  icon: images/Item_2020.png
+- name: red poisonous mushroom
+  icon: images/Item_2015.png
+- name: yellow poisonous mushroom
+  icon: images/Item_2017.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +45,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Poison-soaked Belt (Version 2)|Poison-soaked Belt]]
+  - [[Poison-soaked Sash (Version 2)|Poison-soaked Sash]]

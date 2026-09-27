@@ -5,6 +5,19 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Naiad Grotto]]'
+collection_type: Purple
+pieces:
+- name: bog water skeeter
+  icon: images/Item_1892.png
+- name: ichor water skeeter
+  icon: images/Item_1891.png
+- name: lake water skeeter
+  icon: images/Item_1893.png
+- name: mud water skeeter
+  icon: images/Item_1895.png
+- name: sulfur water skeeter
+  icon: images/Item_1894.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Water Spirit Plushie]]

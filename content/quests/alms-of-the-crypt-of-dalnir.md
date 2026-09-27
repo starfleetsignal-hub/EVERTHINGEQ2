@@ -4,6 +4,27 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Collection items
+pieces:
+- name: Ancient Offering for Rile
+  icon: images/Item_961.png
+  note: (Reward from the collection [[Follower Marks of Rile Sathir]])
+- name: Baneful Offering for Rile
+  icon: images/Item_935.png
+  note: (Reward from the collection [[Follower Marks of The Kly]])
+- name: Broken Offering for Rile
+  icon: images/Item_951.png
+  note: (Reward from the collection [[Sleeping Crypt Fractured Vase]])
+- name: Illicit Offering for Rile
+  icon: images/Item_948.png
+  note: (Reward from the collection [[Iksar Forbidden Eggs]])
+- name: Incomplete Offering for Rile
+  icon: images/Item_936.png
+  note: (Reward from the collection [[Dalnir's Unfinished Armory]])
+- name: Uncharted Offering for Rile
+  icon: images/Item_945.png
+  note: (Reward from the collection [[Charts of Desperation]])
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +46,7 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Cryptic Vestige of Dalnir]] this item is needed for the collection: [[Obulus Frontier Acquisition]]
+- [[Alms Taker]]

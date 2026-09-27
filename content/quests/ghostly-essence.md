@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Fordel Midst: Bizarre Bazaar (Solo)]], [[Fordel Midst: The Listless Spires (Solo)]], [[Fordel Midst: Wayward Manor (Solo)]]'
+pieces:
+- name: Ghostly Essence of Time
+  icon: images/Item_4079.png
+- name: Ghostly Essence of Shadow
+  icon: images/Item_4078.png
+- name: Ghostly Essence of Bone
+  icon: images/Item_4074.png
+- name: Ghostly Essence of Rot
+  icon: images/Item_4076.png
+- name: Ghostly Essence of Flesh
+  icon: images/Item_4075.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Daring]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]

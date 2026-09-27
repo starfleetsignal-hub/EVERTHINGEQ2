@@ -3,6 +3,19 @@ title: Ancient Nizari Secrets
 type: quest
 level: '100'
 added_in: LU101
+zone: '[[The Fabled Nizara, City of the Nayad (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: Hand Written Conundrum
+  icon: images/Item_374.png
+- name: Heavily Penciled Riddle
+  icon: images/Item_374.png
+- name: Charcoal Written Mystery
+  icon: images/Item_374.png
+- name: Blood Scrawled Secret
+  icon: images/Item_374.png
+- name: Inked Composed Enigma
+  icon: images/Item_374.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,3 +41,8 @@ Five set spawn locations in zone:
 - {{waypoint 50, -33, -28}}
 - {{waypoint -3, 2, 10}}
 - {{waypoint 0, -45, 20}}
+
+## Rewards
+
+- [[Crown of the Nizari'zhi]] this item is needed for the collection: [[Relics of the Nizari Queen]]
+- [[Ancient Nizari Chain Leggings]]

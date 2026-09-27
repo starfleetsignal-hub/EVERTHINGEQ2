@@ -5,7 +5,7 @@ The preview is a single file so it can be shared as one link; the real site will
 Markdown subset: headings, paragraphs, nested lists, pipe tables, blockquotes, <details>, emphasis,
 [[wiki links]], {{waypoint x, y, z}}, [text](url), ![alt](images/...).
 """
-import base64, glob, gzip, html, json, os, re
+import base64, glob, gzip, html, json, os, re, urllib.parse
 import yaml
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
@@ -88,10 +88,19 @@ def inline(s):
     s = re.sub(r"\[([^\]]+)\]\((https?://[^)]+)\)", r'<a href="\2" rel="nofollow noopener" target="_blank">\1</a>', s)
     return emph(s)
 
+# Pictures shrunk for the site by tools/web_pictures.py live in images/w/<File_name>.webp (unpacked by the Pages build);
+# the icons are images/Item_N.png and images/Spell_N.png. Pages without a matching file show no picture.
+PICS = {}
+for _d in (os.path.join(ROOT, "images", "w"), os.path.join(OUT, "site", "images", "w")):
+    if os.path.isdir(_d): PICS.update({f[:-5].lower(): f for f in os.listdir(_d) if f.endswith(".webp")})
+CUR_TITLE = ""          # the page being built, for {{PAGENAME}} left in picture names
+
 def img(src, alt):
-    # Images are not imported yet; show nothing until they are.
     if any(os.path.exists(os.path.join(d, src)) for d in (ROOT, os.path.join(OUT, "site"))):
         return '<img src="%s" alt="%s" loading="lazy">' % (src, alt)
+    name = re.sub(r"^(?:File|Image):", "", urllib.parse.unquote(src[len("images/"):]).replace(" ", "_"), flags=re.I)
+    f = PICS.get(name.replace("{{PAGENAME}}", CUR_TITLE.replace(" ", "_")).lower())
+    if f: return '<img src="images/w/%s" alt="%s" loading="lazy">' % (urllib.parse.quote(f), alt)
     return ""
 
 # ---------------------------------------------------------------- blocks
@@ -162,7 +171,7 @@ def render(md, quest=False):
 
 # ---------------------------------------------------------------- page chrome
 FIELDS = {
-    "quest": [("level", "Level"), ("difficulty", "Difficulty"), ("zone", "Zone"), ("timeline", "Timeline"),
+    "quest": [("level", "Level"), ("difficulty", "Difficulty"), ("zone", "Zone"), ("collection_type", "Collection type"), ("timeline", "Timeline"),
               ("journal_category", "Journal"), ("city_faction", "City faction"), ("repeatable", "Repeatable"),
               ("achievement_xp", "Achievement XP"), ("expansion", "Release"), ("added_in", "Added in"), ("in_game_name", "In-game name")],
     "npc": [("subtitle", "Title"), ("race", "Race"), ("class", "Class"), ("purpose", "Role"), ("zone", "Zone"),
@@ -217,13 +226,80 @@ def plain(s):
     return re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", "", inline(str(s))))).strip()
 
 IN_ZONE = {}
+PINS = {}                  # zone pid -> [(x, y, z, kind, pid)] from pages that name exactly one zone
+WAYPOINT = re.compile(r"\{\{waypoint ([-\d.]+), ([-\d.]+), ([-\d.]+)\}\}")
+PIN_FIELD = {"npc": "location", "monster": "location", "named": "location", "poi": "location", "house": "location", "quest": "starts"}
 def index_zones():
     for pid, p in pages.items():
         z = p["fm"].get("zone")
         if not isinstance(z, str): continue
+        zps = []
         for m in re.finditer(r"\[\[([^\]|]+)", z):
             zp, _ = resolve(m.group(1))
-            if zp and zp != pid: IN_ZONE.setdefault(zp, []).append(pid)
+            if zp and zp != pid: IN_ZONE.setdefault(zp, []).append(pid); zps.append(zp)
+        kind = p["fm"]["type"]
+        if len(set(zps)) != 1 or kind not in PIN_FIELD or not isinstance(p["fm"].get(PIN_FIELD[kind]), str): continue
+        seen = set()
+        for m in WAYPOINT.finditer(p["fm"][PIN_FIELD[kind]]):
+            x, y, zz = (float(v) for v in m.groups())
+            if (x, zz) in seen: continue
+            seen.add((x, zz)); PINS.setdefault(zps[0], []).append((x, y, zz, kind, pid))
+
+# Waypoint map: in EQ2 north is -z and east is -x, so the map draws -x to the right and z downwards.
+PIN_KINDS = [("quest", "Quest starts"), ("npc", "NPCs"), ("named", "Named"), ("monster", "Monsters"), ("poi", "Places"), ("house", "Housing")]
+def nice_step(span):
+    for s in (10, 25, 50, 100, 250, 500, 1000, 2500, 5000):
+        if span / s <= 8: return s
+    return 10000
+
+def fmt(v):
+    return ("%d" % v) if v == int(v) else ("%g" % v)
+
+def zone_map(pid):
+    pins = PINS.get(pid, [])
+    if len(pins) < 2: return ""
+    xs, zs = sorted(-p[0] for p in pins), sorted(p[2] for p in pins)
+    def bounds(v):                       # a few mistyped waypoints would squash the rest into a corner
+        q = lambda f: v[min(len(v) - 1, int(f * (len(v) - 1) + .5))]
+        lo, hi = (q(.02), q(.98)) if len(v) >= 20 else (v[0], v[-1])
+        pad = max((hi - lo) * .35, 40)
+        return max(v[0], lo - pad), min(v[-1], hi + pad)
+    x0, x1 = bounds(xs); z0, z1 = bounds(zs)
+    edge = max(x1 - x0, z1 - z0, 100) * .04                            # room for the pins and axis labels at the edges
+    x0, x1, z0, z1 = x0 - edge, x1 + edge, z0 - edge, z1 + edge
+    w, h = x1 - x0, z1 - z0
+    if w < h * .6: c = (x0 + x1) / 2; w = h * .6; x0, x1 = c - w / 2, c + w / 2
+    if h < w * .6: c = (z0 + z1) / 2; h = w * .6; z0, z1 = c - h / 2, c + h / 2
+    step = nice_step(max(w, h)); r = max(w, h) / 110
+    grid = []
+    for v in range(int(x0 // step + 1) * step, int(x1) + 1, step):
+        grid.append('<line x1="%s" y1="%s" x2="%s" y2="%s"/><text x="%s" y="%s">%s</text>' % (v, z0, v, z1, v + r * .6, z1 - r * .8, fmt(-v)))
+    for v in range(int(z0 // step + 1) * step, int(z1) + 1, step):
+        grid.append('<line x1="%s" y1="%s" x2="%s" y2="%s"/><text x="%s" y="%s">%s</text>' % (x0, v, x1, v, x0 + r * .6, v - r * .6, fmt(v)))
+    order = {k: i for i, (k, _) in enumerate(PIN_KINDS)}
+    shown, off = [], 0
+    for x, y, z, kind, q in sorted(pins, key=lambda p: -order[p[3]]):      # quest starts drawn last, on top
+        if not (x0 <= -x <= x1 and z0 <= z <= z1): off += 1; continue
+        loc = "/waypoint %s, %s, %s" % (fmt(x), fmt(y), fmt(z))
+        shown.append('<circle class="wpin" data-k="%s" data-peek="%s" data-loc="%s" cx="%.1f" cy="%.1f" r="%.1f" tabindex="0" role="button" aria-label="%s, %s"/>'
+                     % (kind, q, loc, -x, z, r, html.escape(pages[q]["fm"]["title"]), loc))
+    kinds = [(k, l, sum(1 for p in pins if p[3] == k)) for k, l in PIN_KINDS]
+    legend = "".join('<button type="button" class="wpkey" data-k="%s" aria-pressed="true"><i></i>%s <span class="count">%d</span></button>' % (k, l, n)
+                     for k, l, n in kinds if n)
+    rows = "".join('<tr data-k="%s"><td><a href="#%s" data-peek="%s">%s</a></td><td>%s</td><td>%s</td></tr>' % (
+        kind, hid(q), q, html.escape(pages[q]["fm"]["title"]), TYPE_LABEL.get(kind, ""), inline("{{waypoint %s, %s, %s}}" % (fmt(x), fmt(y), fmt(z))))
+        for x, y, z, kind, q in sorted(pins, key=lambda p: pages[p[4]]["fm"]["title"].lower()))
+    note = "Click a pin to copy its /waypoint, or hover it to see what is there. Scroll or use the buttons to zoom, and drag to move."
+    if off: note += " %d waypoint%s far from the rest %s left off the map but %s in the list below." % (off, "s" if off > 1 else "", "are" if off > 1 else "is", "are" if off > 1 else "is")
+    return ('<h2>Waypoint map</h2><div class="wpmap"><div class="wpbar">%s<span class="wpzoom"><button type="button" data-z="1.5" aria-label="Zoom in">+</button>'
+            '<button type="button" data-z="0.667" aria-label="Zoom out">−</button><button type="button" data-z="0" aria-label="Reset zoom">Reset</button></span></div>'
+            '<svg viewBox="%.1f %.1f %.1f %.1f" data-vb="%.1f %.1f %.1f %.1f" data-r="%.2f" role="img" aria-label="Waypoints in %s. North is up.">'
+            '<g class="wpgrid" style="stroke-width:%.2f;font-size:%.1fpx">%s</g><g>%s</g><text class="wpnorth" x="%.1f" y="%.1f" style="font-size:%.1fpx">N ↑</text></svg>'
+            '<p class="derived">%s Pins come from the location of each NPC, monster, place and quest start that names this zone.</p>'
+            '<details><summary>Every waypoint <span class="count">%d</span></summary><div class="tablewrap"><table class="wplist"><thead><tr><th>Name</th><th>Type</th><th>Waypoint</th></tr></thead>'
+            '<tbody>%s</tbody></table></div></details></div>') % (
+        legend, x0, z0, w, h, x0, z0, w, h, r, html.escape(pages[pid]["fm"]["title"]), r * .15, r * 2.2, "".join(grid), "".join(shown),
+        x1 - r * 6, z0 + r * 3.2, r * 2.6, note, len(pins), rows)
 
 GROUPS = [("quest", "Quests that start here"), ("npc", "NPCs"), ("named", "Named monsters"), ("monster", "Monsters"),
           ("poi", "Places"), ("house", "Housing"), ("instance", "Instances")]
@@ -239,8 +315,32 @@ def zone_section(pid):
             "".join('<li><a href="#%s" data-peek="%s">%s</a></li>' % (hid(k), k, html.escape(pages[k]["fm"]["title"])) for k in ps)))
     return "".join(out)
 
+def piece_rows(pieces):
+    """Collection pieces as [name, icon, page id, note]; the name is the key progress is saved under."""
+    out = []
+    for pc in pieces:
+        if not isinstance(pc, dict) or not pc.get("name"): continue
+        ppid = resolve(pc.get("page") or pc["name"])[0]
+        icon = pc.get("icon", "")
+        out.append([str(pc["name"]), icon if icon and img(icon, "") else "", ppid or "", pc.get("note", "")])
+    return out
+
+def collection_section(pid, pieces):
+    """Checklist of a collection's pieces; the template restores and saves the ticks (localStorage)."""
+    rows = piece_rows(pieces)
+    if not rows: return ""
+    items = "".join('<li><label><input type="checkbox" data-piece="%s">%s<span>%s</span></label>%s</li>' % (
+        html.escape(n), '<img src="%s" alt="" loading="lazy">' % html.escape(ic) if ic else "",
+        '<a href="#%s" data-peek="%s">%s</a>' % (hid(pp), pp, html.escape(n)) if pp else html.escape(n),
+        ' <small>%s</small>' % inline(note) if note else "") for n, ic, pp, note in rows)
+    return ('<section class="coll" data-coll="%s"><h2>Pieces <span class="count" data-coll-count>0 / %d</span></h2>'
+            '<p class="derived">Tick the pieces you have found. Your progress is saved in this browser and shows in the '
+            '<a href="#collections">collections tracker</a>.</p><ul class="pieces">%s</ul></section>') % (html.escape(pid), len(rows), items)
+
 def build_page(pid, p):
+    global CUR_TITLE
     fm, kind = p["fm"], p["fm"]["type"]
+    CUR_TITLE = fm["title"]
     rows = []
     for k, label in FIELDS.get(kind, [(k, k.replace("_", " ").capitalize()) for k in fm if k not in
                                       ("title", "type", "aliases", "categories", "source", "image", "image_caption")]):
@@ -250,13 +350,17 @@ def build_page(pid, p):
         rows = [r.replace("<dt>Release</dt><dd>%s</dd>" % fval(fm["expansion"]),
                           "<dt>Release</dt><dd>%s <small>(estimated from its level)</small></dd>" % fval(fm["expansion"])) for r in rows]
     icon = img(fm["icon"], "") if fm.get("icon") else ""
-    box = '<aside class="infobox"><header>%s%s</header><dl>%s</dl></aside>' % (icon, TYPE_LABEL.get(kind, "Page"), "".join(rows)) if rows else ""
+    pic = img(fm["image"], html.escape(fm["title"])) if isinstance(fm.get("image"), str) else ""
+    if pic and fm.get("image_caption"): pic += "<figcaption>%s</figcaption>" % inline(str(fm["image_caption"]))
+    pic = '<figure class="boxpic">%s</figure>' % pic if pic else ""
+    box = '<aside class="infobox"><header>%s%s</header>%s<dl>%s</dl></aside>' % (icon, TYPE_LABEL.get(kind, "Page"), pic, "".join(rows)) if rows or pic else ""
     top = []
     if fm.get("removed_from_game"):
         note = fm["removed_from_game"]
         top.append('<p class="callout red"><strong>Removed from the game.</strong> %s</p>' % ("" if note is True else inline(note)))
     if fm.get("events"):
-        top.append('<p class="tags">%s</p>' % " ".join('<span class="tag green">%s</span>' % html.escape(e) for e in fm["events"]))
+        top.append('<p class="tags">%s</p>' % " ".join(('<a class="tag green" href="#ev.%s">%s</a>' % (slug(e), html.escape(e)))
+                                                       if e in EV_NAMES else '<span class="tag green">%s</span>' % html.escape(e) for e in fm["events"]))
     if kind == "quest":
         chain = []
         if fm.get("prerequisite"): chain.append('<div><small>Comes after</small>%s</div>' % inline(fm["prerequisite"]))
@@ -265,13 +369,14 @@ def build_page(pid, p):
         if len(chain) > 1: top.append('<div class="chain">%s</div>' % "".join(chain))
         if fm.get("starts"): top.append('<p class="starts"><span class="tag red">Start</span> %s</p>' % inline(fm["starts"]))
     body = render(p["body"], quest=(kind == "quest"))
+    if kind == "quest" and fm.get("pieces"): top.append(collection_section(pid, fm["pieces"]))
     s = fm.get("source")     # forum guides carry their own credit line in the body
     credit = "" if not s else ('<p class="credit">Adapted from <a href="%s" rel="nofollow noopener" target="_blank">%s</a> on the EverQuest II Wiki (Fandom), '
               'revision %s of %s, by <a href="%s" rel="nofollow noopener" target="_blank">its contributors</a>. '
               'Licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>.</p>'
               % (s["url"], html.escape(s["title"]), s["revision"], s["revised"][:10], s["history"]))
     crumb = '<a href="#home">Home</a> › %s' % (inline(fm["zone"]) + " › " if fm.get("zone") and kind != "zone" else "") + ('<a href="#browse.%s">%s</a>' % (BROWSE[kind], PLURAL[kind]) if kind in BROWSE else PLURAL.get(kind, "Pages"))
-    main = "\n".join(top) + "\n" + body + (zone_section(pid) if kind in ("zone", "instance", "island") else "")
+    main = "\n".join(top) + "\n" + body + ((zone_map(pid) + zone_section(pid)) if kind in ("zone", "instance", "island") else "")
     html_ = ('<div class="crumbs">%s</div><div class="art-head"><h1>%s</h1><button type="button" class="editbtn" data-edit="%s">Edit this page</button></div>'
              '<div class="%s"><div class="article">%s</div>%s</div>%s') % (
         crumb, html.escape(fm["title"]), pid, ("with-box" if main.strip() else "box-only") if box else "", main, box, credit)
@@ -358,6 +463,128 @@ def questlines():
                                                           sorted(pids, key=lambda p: pages[p]["fm"]["title"])])
     return out
 
+# ---------------------------------------------------------------- gear finder
+# Equipment and adornments with slot, level, tier, classes, type and numeric stats, one file per slot (data/g/<n>),
+# so the gear finder loads only the slots it filters on. Classes come from the "<Class> Equipment/Adornments" categories.
+CLASSES = ["Guardian", "Berserker", "Monk", "Bruiser", "Shadowknight", "Paladin", "Templar", "Inquisitor", "Warden", "Fury",
+           "Mystic", "Defiler", "Channeler", "Wizard", "Warlock", "Illusionist", "Coercer", "Conjuror", "Necromancer",
+           "Troubador", "Dirge", "Swashbuckler", "Brigand", "Ranger", "Assassin", "Beastlord"]
+GEAR_KINDS = {"Equipment": "Equipment", "Adornment": "Adornments"}
+def gear_num(v):
+    m = re.match(r"^\s*\+?(-?[\d,]*\.?\d+)\s*%?\s*$", str(v))
+    if not m: return None
+    n = float(m.group(1).replace(",", ""))
+    return int(n) if n == int(n) else round(n, 2)
+
+def gear_index():
+    """{slot: [[slug, title, icon, level, tier, classmask, release, type, {stat: number}, kind]]} plus string tables."""
+    bit = {c: 1 << i for i, c in enumerate(CLASSES)}
+    shards, tiers, types, stat_count = {}, [], [], {}
+    def ix(table, v):
+        if v not in table: table.append(v)
+        return table.index(v)
+    for pid, p in pages.items():
+        fm = p["fm"]
+        if fm.get("type") != "item" or fm.get("item_kind") not in GEAR_KINDS: continue
+        kind = fm["item_kind"]
+        slot = re.sub(r"\s+", " ", plain(fm.get("slot") or "")).strip()
+        slot = (slot.capitalize() + " slot") if kind == "Adornment" and slot else slot.title() or "Unknown slot"
+        m = re.search(r"\d+", str(fm.get("level") or ""))
+        mask = 0
+        for c in fm.get("categories") or []:
+            n = re.match(r"(.+?) (?:Equipment|Adornments)$", c)
+            if n and n.group(1) in bit: mask |= bit[n.group(1)]
+        st = fm.get("stats") if isinstance(fm.get("stats"), dict) else {}
+        nums = {}
+        for k, v in st.items():
+            n = gear_num(v)
+            if n is not None and k not in ("delay", "charges", "recast", "duration", "damage"): nums[k] = n; stat_count[k] = stat_count.get(k, 0) + 1
+        ty = plain(st.get("dtype") or st.get("wtype") or fm.get("item_subtype") or "")
+        icon = re.search(r"Item_(\d+)\.png", str(fm.get("icon") or ""))
+        shards.setdefault((kind, slot), []).append(
+            [pid.split("/", 1)[1], fm["title"], int(icon.group(1)) if icon else 0, int(m.group()) if m else 0,
+             ix(tiers, str(fm.get("tier") or "")), mask, fm.get("expansion") or "", ix(types, ty), nums,
+             1 if fm.get("expansion_source") == "level" else 0])
+    return shards, tiers, types, stat_count
+
+# Live (holiday) events in calendar order: name, main page, the real-world holiday it matches, dates
+# (month, day, month, day, year: the latest dates announced on each event's wiki page, and the year they are for;
+# 0 = every month), and the category names that mark its content. Pages also join an event through their `events:`
+# front matter. Update the dates (and year) each time the wiki announces the next run.
+EVENTS = [
+    ("Erollisi Day", "Erollisi Day", "Valentine's Day", (2, 5, 2, 18, 2026), ["Erollisi Day"]),
+    ("Chronoportal Phenomenon", "Chronoportal Phenomenon", "EverQuest anniversary", (3, 5, 3, 18, 2026), ["Chronoportal Phenomenon", "Chronoportals"]),
+    ("Brew Day", "Brew Day", "St. Patrick's Day", (3, 12, 3, 25, 2026), ["Brew Day"]),
+    ("Bristlebane Day", "Bristlebane Day", "April Fools' Day", (3, 27, 4, 10, 2026), ["Bristlebane Day"]),
+    ("Beast'r Eggstravaganza", "Beast'r Eggstravaganza", "Spring and Easter", (4, 3, 4, 9, 2026), ["Beast'r Eggstravaganza", "Beast'r"]),
+    ("Tinkerfest", "Tinkerfest", "", (6, 11, 6, 25, 2026), ["Tinkerfest"]),
+    ("Scorched Sky Celebration", "Scorched Sky", "Summer fireworks", (7, 2, 7, 15, 2026), ["Scorched Sky"]),
+    ("Oceansfull Festival", "Oceansfull Festival", "", (8, 6, 8, 20, 2026), ["Oceansfull Festival", "Oceansfull"]),
+    ("Nights of the Dead", "Nights of the Dead", "Halloween", (10, 9, 11, 2, 2026), ["Nights of the Dead"]),
+    ("Heroes' Festival", "Heroes' Festival Timeline", "EverQuest II's birthday", (11, 7, 11, 17, 2025), ["Heroes' Festival", "Heroes Festival"]),
+    ("Frostfell", "Frostfell", "Winter holidays", (12, 2, 1, 5, 2025), ["Frostfell"]),
+    ("City Festival", "City Festival", "Monthly", (0, 1, 0, 7), ["City Festival"]),
+    ("Moonlight Enchantments", "Moonlight Enchantments", "Monthly", (0, 20, 0, 21), ["Moonlight Enchantments"]),
+    ("Year of Darkpaw", "Year of Darkpaw Timeline", "2024 only", None, ["Year of Darkpaw"]),
+]
+EV_NAMES = {e[0] for e in EVENTS}
+EV_GROUPS = [("quests", "Quests", ("quest", "timeline")), ("npcs", "Vendors and NPCs", ("npc",)),
+             ("items", "Rewards and items", ("item",)), ("achievements", "Achievements", ("achievement",)),
+             ("zones", "Zones and instances", ("zone", "instance", "poi")), ("monsters", "Monsters", ("named", "monster")),
+             ("more", "More pages", ("page", "spell", "lore", "guide", "house", "disambiguation"))]
+
+def slug(s):
+    return re.sub(r"[^a-z0-9]+", "-", s.lower().replace("'", "")).strip("-")
+
+def events():
+    """Per live event: its dates, a summary from its main page, and every page tagged with it, grouped for the event page."""
+    out = []
+    for name, main_title, real, when, cats in EVENTS:
+        mine = []
+        for pid, p in pages.items():
+            fm = p["fm"]
+            if name in (fm.get("events") or []) or any(c == k or c.startswith(k + " ") for c in fm.get("categories", []) for k in cats):
+                mine.append(pid)
+        main_pid = resolve(main_title)[0]
+        # Quests the event's guide or timeline links to belong to it too; not every one carries the event category.
+        for guide in {main_pid, resolve(name + " Timeline")[0]} - {None}:
+            for t in re.findall(r"\[\[([^\]|#]+)", pages[guide]["body"]):
+                q = resolve(t.strip())[0]
+                if q and q not in mine and pages[q]["fm"]["type"] == "quest": mine.append(q)
+        summary, credit = "", None
+        if main_pid:
+            mp = pages[main_pid]
+            m = re.search(r"^[^#|>\-!<\n*][^\n]{60,}", mp["body"], re.M)
+            summary = inline(m.group(0).strip()) if m else ""
+            credit = mp["fm"].get("source")
+        groups = {}
+        for pid in mine:
+            if pid == main_pid: continue
+            fm = pages[pid]["fm"]; kind = fm["type"]
+            g = next((k for k, _, kinds in EV_GROUPS if kind in kinds), "more")
+            if g == "quests":
+                row = [pid, fm["title"], str(fm.get("level", fm.get("levels", ""))), inline(fm["starts"]) if fm.get("starts") else "",
+                       "Timeline" if kind == "timeline" else ""]
+            elif g in ("npcs", "monsters"):
+                row = [pid, fm["title"], plain(fm.get("zone", "")), inline(str(fm["location"])) if fm.get("location") else "",
+                       str(fm.get("subtitle", fm.get("level", "")))]
+            elif g == "items":
+                row = [pid, fm["title"], " ".join(str(fm.get(k, "")) for k in ("item_kind", "item_subtype") if fm.get(k)).strip(),
+                       plain(fm.get("obtained_from", ""))[:120]]
+            elif g == "achievements":
+                row = [pid, fm["title"], plain(fm.get("description", ""))[:160], str(fm.get("points", ""))]
+            else:
+                row = [pid, fm["title"], TYPE_LABEL.get(kind, "Page"), plain(fm.get("zone", "")) if kind != "zone" else ""]
+            groups.setdefault(g, []).append(row)
+        def lvl(r):
+            m = re.search(r"\d+", r[2]); return (0, int(m.group())) if m else (1, 0)
+        for g, rows in groups.items():
+            rows.sort(key=lambda r: lvl(r) + (r[1].lower(),) if g == "quests" else (r[1].lower(),))
+        out.append({"n": name, "s": slug(name), "real": real, "when": list(when) if when else None, "main": main_pid,
+                    "sum": summary, "src": credit and {"url": credit["url"], "title": credit["title"], "history": credit["history"]},
+                    "g": groups})
+    return out
+
 # "artifact": base64 text chunks + source chunks (claude.ai preview); "github": .gz chunks (GitHub Pages, the default in CI)
 TARGET = os.environ.get("EQ2_TARGET", "github" if os.environ.get("GITHUB_ACTIONS") else "artifact")
 # "owner/name[/branch]": Edit this page opens GitHub's editor (in CI, the repository being built)
@@ -369,12 +596,13 @@ def main():
     site = os.path.join(OUT, "site"); data_dir = os.path.join(site, "data")
     import shutil
     shutil.rmtree(data_dir, ignore_errors=True)
-    for sub in ("p", "s", "i"): os.makedirs(os.path.join(data_dir, sub), exist_ok=True)
+    for sub in ("p", "s", "i", "g"): os.makedirs(os.path.join(data_dir, sub), exist_ok=True)
     nch = max(100, -(-len(pages) // PER_CHUNK)) if TARGET == "github" else 100
     width = len(str(nch - 1))
     ext = ".json.gz" if TARGET == "github" else ".txt"
     chunks_h, chunks_s = [{} for _ in range(nch)], [{} for _ in range(nch)]
     by_type, search, counts = {}, [], {}
+    sx = {}                                                # release name -> index (search rows store the index)
     for pid, p in pages.items():
         h, m = build_page(pid, p)
         c = fnv(pid) % nch
@@ -382,7 +610,9 @@ def main():
         if TARGET != "github" or not REPO: chunks_s[c][pid] = {"src": p["src"], "path": p["path"]}
         ty = pid.split("/")[0]
         by_type.setdefault(ty, {})[pid] = [m["t"], m["k"], m["m"], m["s"], m["lvl"], m["d"], m["z"], m["x"]] + ([1] if m["xe"] else [])
-        search.append([pid, m["t"], m["k"], m["z"]] + list(m["a"] or []))
+        # search row: id, title, kind, zone, release index (-1 = none), level, then aliases
+        xi = sx.setdefault(m["x"], len(sx)) if m["x"] else -1
+        search.append([pid, m["t"], m["k"], m["z"], xi, m["lvl"][:16]] + list(m["a"] or []))
         counts.setdefault(ty, {}); counts[ty][m["x"]] = counts[ty].get(m["x"], 0) + 1
     total = 0
     def put(path, obj):
@@ -396,12 +626,25 @@ def main():
     isz = 0
     for ty, d in by_type.items(): isz += put(os.path.join(data_dir, "i", ty), d)
     ssz = put(os.path.join(data_dir, "search"), search)
+    shards, tiers, types, stat_count = gear_index()
+    gear = []
+    for n, ((kind, slot), rows) in enumerate(sorted(shards.items(), key=lambda kv: (kv[0][0], -len(kv[1])))):
+        isz += put(os.path.join(data_dir, "g", str(n)), rows); gear.append([GEAR_KINDS[kind], slot, len(rows)])
+    isz += put(os.path.join(data_dir, "g", "index"), {"shards": gear, "classes": CLASSES, "tiers": tiers, "types": types,
+                                                     "stats": sorted(stat_count, key=lambda k: -stat_count[k])})
+    colls = [[pid, p["fm"]["title"], str(p["fm"].get("level", "")), plain(p["fm"].get("zone", "")), p["fm"].get("expansion", ""),
+              str(p["fm"].get("collection_type", "")), [r[:3] for r in piece_rows(p["fm"]["pieces"])]]
+             for pid, p in sorted(pages.items(), key=lambda kv: kv[1]["fm"]["title"].lower())
+             if p["fm"]["type"] == "quest" and isinstance(p["fm"].get("pieces"), list)]
+    colls = [c for c in colls if c[6]]
+    csz = put(os.path.join(data_dir, "collections"), colls)
     lines = {x: {k: [[n, [[q, pages[q]["fm"]["title"], str(pages[q]["fm"].get("level", ""))] for q in l]] for n, l in groups]
                  for k, groups in L.items()} for x, L in questlines().items()}
     zones = {pid: v for pid, v in by_type.get("zones", {}).items()}
     msz = put(os.path.join(data_dir, "meta"), {"chunks": nch, "width": width, "ext": ext, "counts": counts, "lines": lines,
-                                               "zones": zones, "repo": REPO, "src": bool(any(chunks_s))})
-    total += isz + ssz + msz
+                                               "zones": zones, "collections": len(colls), "sx": list(sx), "repo": REPO, "src": bool(any(chunks_s))})
+    esz = put(os.path.join(data_dir, "events"), events())
+    total += isz + ssz + msz + csz + esz
     tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html")).read()
     tpl = tpl.replace("/*EXT*/", json.dumps(ext))
     open(os.path.join(site, "index.html"), "w").write(tpl)

@@ -5,6 +5,24 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Darkened Void Weapons'
+zone: '[[Obelisk of Ahkzul]], [[Anchor of Bazzul]], [[The Palace of Ferzhul]]'
+pieces:
+- name: A Void Darkened Longsword
+  icon: images/Item_1677.png
+- name: A Void Darkened Mace
+  icon: images/Item_1656.png
+- name: A Void Darkened Whip
+  icon: images/Item_610.png
+- name: A Void Darkened Battle Axe
+  icon: images/Item_643.png
+- name: A Void Darkened Scimitar
+  icon: images/Item_616.png
+- name: A Void Darkened Dagger
+  icon: images/Item_609.png
+- name: A Void Darkened Club
+  icon: images/Item_633.png
+- name: A Void Darkened Staff
+  icon: images/Item_621.png
 categories:
 - Anchor of Bazzul Collection Quests
 - Census Credits
@@ -27,4 +45,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Shard of Swirling Energy (CollectionReward)|Shard of Swirling Energy]]
+  - [[Void Crystal Belt]]

@@ -6,6 +6,21 @@ added_in: The Shadow Odyssey
 aliases:
 - Heart's of the Knights of Marr
 - 'Shadow Odyssey: Heart''s of the Knights of Marr'
+zone: '[[Befallen: Cavern of the Afflicted]], [[Befallen: Halls of the Forsaken]], [[Befallen: Necrotic Asylum]]'
+collection_type: Shiny
+pieces:
+- name: A Moldering Heart
+  icon: images/Item_2790.png
+- name: A Decomposed Heart
+  icon: images/Item_2790.png
+- name: A Disintegrated Heart
+  icon: images/Item_2790.png
+- name: A Putrefied Heart
+  icon: images/Item_2790.png
+- name: A Rotted Heart
+  icon: images/Item_2790.png
+- name: A Deteriorated Heart
+  icon: images/Item_2790.png
 categories:
 - 'Befallen: Cavern of the Afflicted Collection Quests'
 - 'Befallen: Halls of the Forsaken Collection Quests'
@@ -28,4 +43,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Broken Hearted Bangle]]
+  - [[Valiant Dead Hoop]]

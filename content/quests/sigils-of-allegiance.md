@@ -3,6 +3,22 @@ title: Sigils of Allegiance
 type: quest
 level: '95'
 added_in: LU67
+zone: '[[The Fabled Clefts of Rujark]]'
+pieces:
+- name: 'Sigil of Allegiance: Aravu Naga'
+  icon: images/Item_1259.png
+- name: 'Sigil of Allegiance: Ashen Disciples'
+  icon: images/Item_1302.png
+- name: 'Sigil of Allegiance: Ashen Order'
+  icon: images/Item_1304.png
+- name: 'Sigil of Allegiance: Char''Gin'
+  icon: images/Item_1276.png
+- name: 'Sigil of Allegiance: Court of the Master Djinn'
+  icon: images/Item_1254.png
+- name: 'Sigil of Allegiance: Sandscrawlers'
+  icon: images/Item_1246.png
+- name: 'Sigil of Allegiance: Windsisters'
+  icon: images/Item_1290.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +39,10 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Tower of Char'Gin]]
+  - [[Ashen Idol of Energy]]
+  - [[Sandscrawler Buckler]]
+  - [[Windsisters Bludgeon]]

@@ -6,6 +6,20 @@ in_game_name: abjuration shards collection
 added_in: Shattered Lands
 aliases:
 - 'Shard: abjuration shards collection'
+zone: '[[-]]'
+collection_type: Shiny
+pieces:
+- name: chipped shard of abjuration
+  icon: images/Item_183.png
+- name: scuffed shard of abjuration
+  icon: images/Item_183.png
+- name: pristine shard of abjuration
+  icon: images/Item_183.png
+- name: shiny shard of abjuration
+  icon: images/Item_183.png
+- name: glowing shard of abjuration
+  page: Glowing shard of abjuration (glowing shards collection)
+  icon: images/Item_183.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,3 +45,7 @@ expansion_source: patch
   - [[Pristine shards collection]]
   - [[Shiny shards collection]]
   - [[Glowing shards collection]]
+
+## Rewards
+
+- [[Gathered Orb of Abjuration]] this item is needed for the collection: [[Arcane Orbs collection]]

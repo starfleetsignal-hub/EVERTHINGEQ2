@@ -6,6 +6,20 @@ in_game_name: chipped shards collection
 added_in: Shattered Lands
 aliases:
 - 'Shard: chipped shards collection'
+zone: '[[Oakmyst Forest]], [[The Commonlands]], [[Antonica]], [[The Peat Bog]], [[Frostfang Sea]]'
+pieces:
+- name: chipped shard of abjuration
+  icon: images/Item_183.png
+- name: chipped shard of alteration
+  icon: images/Item_183.png
+- name: chipped shard of channeling
+  icon: images/Item_183.png
+- name: chipped shard of conjuration
+  icon: images/Item_183.png
+- name: chipped shard of divination
+  icon: images/Item_183.png
+- name: chipped shard of evocation
+  icon: images/Item_183.png
 categories:
 - Antonica Collection Quests
 - Census Credits
@@ -30,4 +44,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bracelet of Chipped Shards]]

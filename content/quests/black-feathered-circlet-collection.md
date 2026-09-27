@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Black Feathered Circlet
 added_in: Reign of Shadows
+zone: '[[Shadeweaver''s Thicket: Feral Reserve (Expert)]], [[Shadeweaver''s Thicket: Feral Reserve (Heroic)]], [[Shadeweaver''s Thicket: Loda Kai Isle (Event Heroic)]], [[Shadeweaver''s Thicket: Loda Kai Isle (Expert Event)]], [[Shadeweaver''s Thicket: Untamed Lands (Expert)]], [[Shadeweaver''s Thicket: Untamed Lands (Heroic)]]'
+pieces:
+- name: Crow Feather
+  icon: images/Item_155.png
+- name: Beetle Ichor
+  icon: images/Item_178.png
+- name: Sacred Bat Hide
+  icon: images/Item_130.png
+- name: Heavy Platinum Circlet
+  icon: images/Item_3306.png
+- name: Constitution of Pitch
+  icon: images/Item_330.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +43,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Black Feathered Circlet (Armor)|Black Feathered Circlet]]
+- [[Black Feathered Circlet (Collection Item)|Black Feathered Circlet]] this item is needed for the collection: [[Dangers of the Darkside]]

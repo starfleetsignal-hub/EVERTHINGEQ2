@@ -5,6 +5,29 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Artifacts of the Libant'
+zone: '[[Evernight Abbey]], [[Mistmyr Manor]], [[Ravenscale Repository]]'
+collection_type: Shiny
+pieces:
+- name: Soulblister the Cleaver
+  icon: images/Item_3584.png
+- name: Bloodquench, Dagger of Dust
+  icon: images/Item_3571.png
+- name: Shining Vest of Mirrors
+  icon: images/Item_3354.png
+- name: Boots of the Dawnwalker
+  icon: images/Item_3324.png
+- name: Cloak of the Invisible Foe
+  icon: images/Item_2726.png
+- name: Spike Gloves of Blood Finding
+  icon: images/Item_3252.png
+- name: The Mistmoore Brooch
+  icon: images/Item_970.png
+- name: Ring of Dawns Delay
+  icon: images/Item_3432.png
+- name: The Bloody Bangle
+  icon: images/Item_3443.png
+- name: Belt of Borrowed Time
+  icon: images/Item_2127.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +50,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Hoop of the Imbiber]]
+  - [[Lashed Thrall Collar]]

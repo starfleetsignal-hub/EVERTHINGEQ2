@@ -5,6 +5,27 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Wrappings: Tattered Mummy Wrappings'
+zone: '[[The Sinking Sands]], [[The Pillars of Flame]], [[The Living Tombs]]'
+collection_type: Shiny
+pieces:
+- name: tattered arm wrapping
+  page: Tattered arm wrapping (Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered foot wrapping
+  page: Tattered foot wrapping (Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered hand wrapping
+  page: Tattered hand wrapping (Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered head wrapping
+  page: Tattered head wrapping (Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered leg wrapping
+  page: Tattered leg wrapping (Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
+- name: tattered torso wrapping
+  page: Tattered torso wrapping (Tattered Mummy Wrappings)
+  icon: images/Item_1089.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +48,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Band of Woven Flesh]]
+  - [[Blood Opal Bracelet]]

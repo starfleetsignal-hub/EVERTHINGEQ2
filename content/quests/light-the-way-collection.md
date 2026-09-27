@@ -5,6 +5,16 @@ level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 in_game_name: Light the Way
 added_in: Tears of Veeshan
+zone: '[[Temple of Veeshan: Vulak''Aerr''s Dominion (Heroic)]]'
+pieces:
+- name: Red Oil Can
+  icon: images/Item_2216.png
+- name: Blue Oil Can
+  icon: images/Item_2217.png
+- name: Yellow Oil Can
+  icon: images/Item_2218.png
+- name: Green Oil Can
+  icon: images/Item_2219.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +35,7 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Light the Sky]] this item is needed for the collection: [[Oil and Feathered]]

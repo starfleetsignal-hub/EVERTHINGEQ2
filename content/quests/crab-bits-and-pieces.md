@@ -5,6 +5,16 @@ level: '45'
 added_in: LU48
 aliases:
 - 'Everfrost: Crab Bits and Pieces'
+zone: '[[Everfrost]]'
+pieces:
+- name: Cracked Crab Claw
+  icon: images/Item_76.png
+- name: Mottled Crab Shell
+  icon: images/Item_77.png
+- name: Broken Crab Leg
+  icon: images/Item_78.png
+- name: Squishie Crab Eye
+  icon: images/Item_83.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +35,6 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A tiny crab plushie]]

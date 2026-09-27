@@ -6,6 +6,18 @@ timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
 aliases:
 - Grinning Water Runes
+pieces:
+- name: Angler's Water Rune of Power
+  icon: images/Item_2927.png
+- name: Brute's Water Rune of Might
+  icon: images/Item_2929.png
+- name: Cultivator's Water Rune of Harvest
+  icon: images/Item_2928.png
+- name: Herbalist's Water Rune of Healing
+  icon: images/Item_2923.png
+- name: Savage's Water Rune of Blood
+  icon: images/Item_2920.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Grinnin Talisman]] this item is needed for the collection: [[Goblin Magic]]

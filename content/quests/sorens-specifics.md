@@ -3,6 +3,22 @@ title: Soren's Specifics
 type: quest
 level: '110'
 added_in: LU111
+pieces:
+- name: Soren's Vindication
+  icon: images/Item_371.png
+  note: no-trade
+- name: Soren's Boots
+  icon: images/Item_1706.png
+- name: Soren's Legacy
+  icon: images/Item_75.png
+- name: Soren's Ire
+  icon: images/Item_1765.png
+- name: Soren's Greaves
+  icon: images/Item_1710.png
+- name: Soren's Scabbard
+  icon: images/Item_205.png
+- name: Soren's Vengeance
+  icon: images/Item_1269.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,3 +38,8 @@ source:
 ---
 
 Items spawn in Rotunda of Victory.
+
+## Rewards
+
+- [[Tribunus' Oathstone]] this item is needed for the collection: [[The Might of Kael Drakkel]]
+- [[Soren's Specific Splitter]]

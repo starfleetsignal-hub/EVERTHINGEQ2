@@ -4,6 +4,16 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+pieces:
+- name: Drinalian Moonstone
+  icon: images/Item_1162.png
+- name: Marbleized Egg
+  icon: images/Item_2346.png
+- name: Milky Marble
+  icon: images/Item_144.png
+- name: Fog Reader
+  icon: images/Item_348.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +36,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Drinalian Stone]] this item is needed for the collection: [[To Fool the Senses]]
+- one of the following:
+  - [[Vesspyr Workman's Blue Tunic]]
+  - [[High Keep Guardsman's Lance]]

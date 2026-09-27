@@ -4,6 +4,20 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Oogothl Sprawl]]'
+pieces:
+- name: Ominous Tribute
+  icon: images/Item_5776.png
+- name: Threatening Tribute
+  icon: images/Item_5776.png
+- name: Cautioning Tribute
+  icon: images/Item_5776.png
+- name: Exemplary Tribute
+  icon: images/Item_5776.png
+- name: Monitorial Tribute
+  icon: images/Item_5776.png
+- name: Admonitory Tribute
+  icon: images/Item_5776.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Riftcloth Robes]]
+- [[Fragment of Collected Void]]
+- [[Sludger Ichor]] this item is needed for the collection: [[Jar of Darkened Ichor (Collection)|Jar of Darkened Ichor]]

@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Vanishing Geode
 added_in: Planes of Prophecy
+zone: '[[Plane of Magic]]'
+pieces:
+- name: Ephemeral Crystal Shards
+  icon: images/Item_1159.png
+- name: Fleeting Obsidian Fragment
+  icon: images/Item_1166.png
+- name: Transient Opal Pebble
+  icon: images/Item_1135.png
+  note: no-trade - (Reward from the quest [[The Crucible of Purpose]])
+- name: Fading Topaz Piece
+  icon: images/Item_1162.png
+- name: Volatile Quartz Shard
+  icon: images/Item_1138.png
+- name: Cursory Malachite Nugget
+  icon: images/Item_1131.png
+- name: Fugacious Purple Agate
+  icon: images/Item_1144.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +43,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vanishing Geode (Item)|Vanishing Geode]] this item is needed for the collection: [[Elements of Augury]]
+- [[Torque of the Vanishing Geode]]

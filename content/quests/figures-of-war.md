@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Carved Figure of Strife
+  icon: images/Item_1214.png
+- name: Carved Figure of Striking
+  icon: images/Item_1214.png
+- name: Carved Figure of Hostility
+  icon: images/Item_1214.png
+- name: Carved Figure of Conflict
+  icon: images/Item_1214.png
+- name: Carved Figure of Battle
+  icon: images/Item_1214.png
+- name: Carved Figure of Contest
+  icon: images/Item_1214.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,11 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fur Tallonite Sash of Strength]] this item is needed for the collection: [[Tallonite Sashes]]
+- one of the following:
+  - [[Pouch of Hostile Conflict]]
+  - [[Wand of Contest]]
+  - [[Blood Iron Bow of Strife]]
+  - [[Buckler of Contest]]

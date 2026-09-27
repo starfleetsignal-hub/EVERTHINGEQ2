@@ -4,6 +4,21 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Obulus Frontier]]'
+collection_type: Shiny
+pieces:
+- name: Kromdul Ward of Captivity
+  icon: images/Item_2277.png
+- name: Kromdul Ward of Destruction
+  icon: images/Item_2274.png
+- name: Kromdul Ward of Freedom
+  icon: images/Item_2268.png
+- name: Kromdul Ward of Seclusion
+  icon: images/Item_2270.png
+- name: Kromdul Ward of Suspicion
+  icon: images/Item_2276.png
+- name: Kromdul Ward of Warslik
+  icon: images/Item_2278.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,9 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Barrier Luclin Essence]] this item is needed for the collection: [[Luclin Essence of Obulus Frontier]]
+- one of the following:
+  - [[Kromdul Fearful Plate Handguards]]
+  - [[Kromdul Fear Warding Staff]]

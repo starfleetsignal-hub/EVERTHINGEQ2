@@ -5,6 +5,22 @@ level: '82'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Danak Legion Medals'
+zone: '[[Jarsath Wastes]]'
+collection_type: Hidden
+pieces:
+- name: medal of honor
+  icon: images/Item_3452.png
+- name: medal of valor
+  page: Medal of valor (Collection Item)
+  icon: images/Item_3448.png
+- name: medal of ferocity
+  icon: images/Item_3456.png
+- name: medal of courage
+  icon: images/Item_3459.png
+- name: medal of allegiance
+  icon: images/Item_3453.png
+- name: medal of strength
+  icon: images/Item_3454.png
 categories:
 - Census Credits
 - Collection Quests
@@ -28,4 +44,9 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pool of Reflection]]
+- one of the following:
+  - [[Danak Girdle of Allegiance]]
+  - [[Danak Sash of Valor]]

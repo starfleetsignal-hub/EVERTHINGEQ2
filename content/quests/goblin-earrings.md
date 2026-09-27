@@ -5,6 +5,19 @@ level: '75'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Goblin Earrings'
+zone: '[[Fens of Nathsar]]'
+pieces:
+- name: Commoner's Earring
+  icon: images/Item_3461.png
+- name: Great Earring
+  icon: images/Item_3467.png
+  note: ''
+- name: Mystic's Earring
+  icon: images/Item_3465.png
+- name: Warrior's Earring
+  icon: images/Item_3471.png
+- name: Witchdoctor's Earring
+  icon: images/Item_3466.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Drogan Bauble]]
+  - [[Nurgan Bauble]]

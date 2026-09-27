@@ -3,6 +3,21 @@ title: Collected Alluring Novelties
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Siren''s Grotto: Alluring Embrace (Heroic)]]'
+collection_type: Collection items
+pieces:
+- name: Collected Leader Novelties
+  icon: images/Item_397.png
+  note: (Reward from the collection [[Keepers of the Grotto]])
+- name: Collected Siren Scales
+  icon: images/Item_397.png
+  note: (Reward from the collection [[Siren Scales]])
+- name: Collected Grotto Garb
+  icon: images/Item_397.png
+  note: (Reward from the collection [[Garb of the Grotto]])
+- name: Collected Neriad Weapons
+  icon: images/Item_397.png
+  note: (Reward from the collection [[Neriad Weapon Cache]])
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +42,12 @@ expansion_source: patch
 
 - The members of this collection are rewards from several other collections from the [[Siren's Grotto: Alluring Embrace (Heroic)]].
 - The Alluring Siren's Stone item is part of the [[Tides of War]] collection quest.
+
+## Rewards
+
+- [[Alluring Siren's Stone]] this item is needed for the collection: [[Tides of War]]
+- one of the following:
+  - [[Girdle of Siren Mysteries]]
+  - [[Sash of Siren Mysteries]]
+  - [[Cinch of Siren Mysteries]]
+  - [[Belt of Siren Mysteries]]

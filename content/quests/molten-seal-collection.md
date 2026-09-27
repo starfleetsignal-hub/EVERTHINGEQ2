@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Molten Seal
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Solusek Ro''s Tower: Monolith of Fire (Solo)]], [[Solusek Ro''s Tower: The Obsidian Core (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Molten Relics
+  icon: images/Item_1329.png
+- name: Felsic Antiquary
+  icon: images/Item_1328.png
+- name: Basaltic Decanter
+  icon: images/Item_1328.png
+- name: Andesitic Memento
+  icon: images/Item_1330.png
+- name: Igneous Trinket
+  icon: images/Item_1329.png
+- name: Komatite Bauble
+  icon: images/Item_1330.png
+- name: Rhyolite Curio
+  icon: images/Item_1331.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -28,4 +45,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Molten Seal (Item)|Molten Seal]] this item is needed for the collection: [[Planar Comet Dust (Collection)|Planar Comet Dust]]
+- [[Molten Seal (Ring)|Molten Seal]]

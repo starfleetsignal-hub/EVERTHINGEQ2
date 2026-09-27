@@ -3,6 +3,22 @@ title: Preserves of the Ancients
 type: quest
 level: '92'
 added_in: Chains of Eternity
+zone: '[[Sleeper''s Tomb: The Forgotten Catacombs (Heroic)]]'
+pieces:
+- name: Ethereal Drakeen Brain
+  icon: images/Item_109.png
+- name: Serrated Gargoyle Claw
+  icon: images/Item_2793.png
+- name: Sightless Velium Eye
+  icon: images/Item_3166.png
+- name: Prismatic Guardian Shard
+  icon: images/Item_3129.png
+- name: Prismatic Dragon Scale
+  icon: images/Item_85.png
+- name: Tattered Book of Memoirs
+  icon: images/Item_195.png
+- name: Wings of the Overseer
+  icon: images/Item_86.png
 categories:
 - Census Credits
 - Chains of Eternity Collection Quests
@@ -24,4 +40,7 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Urns of the Watchers]]
+- [[Fangs of the Brood]] this item is needed for the collection: [[Ancient's Legacy (Collection)|Ancient's Legacy]]

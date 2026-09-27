@@ -5,6 +5,20 @@ level: '70'
 added_in: LU53
 events:
 - Heroes' Festival
+zone: '[[The Stonebrunt Highlands]]'
+collection_type: Purple
+pieces:
+- name: Tallonite Icon
+  icon: images/Item_1785.png
+  note: Received as a reward for defeating the puppet version of [[Roehn Theer (Heroes' Festival)|Roehn Theer]]
+- name: Deepwater Knight Icon
+  icon: images/Item_1306.png
+- name: Ca'Na Icon
+  icon: images/Item_1270.png
+- name: Fell Blade Icon
+  icon: images/Item_1248.png
+- name: Caertaxian Legion Icon
+  icon: images/Item_1757.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Active Observatory Apparatus]]

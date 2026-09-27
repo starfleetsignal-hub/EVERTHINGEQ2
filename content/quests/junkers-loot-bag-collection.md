@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Junker's Loot Bag
 added_in: Planes of Prophecy
+zone: '[[Plane of Innovation: Gears in the Machine (Expert)]], [[Plane of Innovation: Gears in the Machine (Heroic)]], [[Plane of Innovation: Masks of the Marvelous (Expert)]], [[Plane of Innovation: Masks of the Marvelous (Heroic)]], [[Plane of Innovation: Parts not Included (Event Heroic)]], [[Plane of Innovation: Parts not Included (Expert Event)]]'
+pieces:
+- name: Junker's Treasures
+  icon: images/Item_397.png
+- name: Cold Steam Harness
+  icon: images/Item_1102.png
+- name: Buckling Trap Trigger
+  icon: images/Item_573.png
+- name: Sharp Chiseling Gear
+  icon: images/Item_3110.png
+- name: Unbroken Bronze Rod
+  icon: images/Item_621.png
+- name: Hinged Crate Lever
+  icon: images/Item_705.png
+- name: Reinforced Jewel Band
+  icon: images/Item_2203.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Junker's Loot Bag (Item)|Junker's Loot Bag]] this item is needed for the collection: [[Astral Mapping Device (Collection)|Astral Mapping Device]]
+- [[Junker's Loot Scarf]]

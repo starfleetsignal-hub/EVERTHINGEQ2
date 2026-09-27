@@ -4,6 +4,23 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[Zek, the Scourge Wastes (Solo)]], [[Zek, the Scourge Wastes (Heroic)]]'
+collection_type: Hidden
+pieces:
+- name: Sullon Centurion Scalp
+  icon: images/Item_2490.png
+- name: Tallon Raider Scalp
+  icon: images/Item_2490.png
+- name: Vallon Grunt Scalp
+  icon: images/Item_2490.png
+- name: Sentry Goorlux's Scalp
+  icon: images/Item_2490.png
+- name: Totem of Zek, The Orcish Wastes
+  icon: images/Item_2499.png
+- name: Totem of Deathfist Citadel
+  icon: images/Item_2499.png
+- name: Emperor Fyst's Scalp
+  icon: images/Item_2488.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +43,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fabled Knuckledusters of the Graceful tempest]] this item is needed for the collection: [[Fabled Weapons of the Orcish Wastes]]
+- one of the following:
+  - [[Ancient Bangle of Greenhood Honor]]
+  - [[Ancient Hoop of Greenhood Honor]]

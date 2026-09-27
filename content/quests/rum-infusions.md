@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Rum Cellar Campaign Timeline]]'
 added_in: Rum Cellar Campaign
+zone: '[[F.S. Distillery: Stowaways (Event Heroic)]]'
+pieces:
+- name: Coconut Infused Rum
+  icon: images/Item_3053.png
+- name: Mango Infused Rum
+  icon: images/Item_3050.png
+- name: Cinnamon Infused Rum
+  icon: images/Item_3051.png
+- name: Rosemary Infused Rum
+  icon: images/Item_3052.png
+- name: Chili Infused Rum
+  icon: images/Item_3049.png
 categories:
 - Altar of Malice (CQ Category)
 - Census Credits
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Small Stack of Far Seas Ferrin]]
+- [[Bladetooth's Eye]] this item is needed for the collection: [[Pirate Belongings]]

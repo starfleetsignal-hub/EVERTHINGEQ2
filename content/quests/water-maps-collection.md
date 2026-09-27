@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Water Maps
 added_in: Renewal of Ro
+zone: '[[Raj''Dur Plateaus]]'
+pieces:
+- name: Goldami Reservoir Map
+  icon: images/Item_3163.png
+- name: Kalickia Falls Map
+  icon: images/Item_3163.png
+- name: Kulaidi Reservoir Map
+  icon: images/Item_3163.png
+- name: Najami Oasis Map
+  icon: images/Item_3163.png
+- name: Nerive Reservoir Map
+  icon: images/Item_3163.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Expedient Custodian Breastplate]]
+- [[Water Maps (Collection Item)|Water Maps]] this item is needed for the collection: [[Renewal of the Desert (Collection)|Renewal of the Desert]]

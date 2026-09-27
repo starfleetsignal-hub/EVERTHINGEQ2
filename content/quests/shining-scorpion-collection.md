@@ -5,6 +5,19 @@ level: '50'
 added_in: Desert of Flames
 aliases:
 - 'Insect: Shining Scorpion Collection'
+zone: '[[The Sinking Sands]], [[The Shimmering Citadel]]'
+collection_type: Shiny
+pieces:
+- name: shining black scorpion
+  icon: images/Item_2631.png
+- name: shining blue scorpion
+  icon: images/Item_2652.png
+- name: shining brown scorpion
+  icon: images/Item_2636.png
+- name: shining green scorpion
+  icon: images/Item_2648.png
+- name: shining red scorpion
+  icon: images/Item_2644.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,8 @@ expansion: Desert of Flames
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Dune Stalker's Boots]]
+  - [[Poison Weaver's Mitts]]

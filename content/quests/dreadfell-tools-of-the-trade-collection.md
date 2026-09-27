@@ -5,6 +5,19 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Dreadfell Tools of the Trade
 added_in: Visions of Vetrovia
+pieces:
+- name: Silver Athame
+  icon: images/Item_3576.png
+- name: Marble Mortar
+  icon: images/Item_1064.png
+- name: Porcelain Pestle
+  icon: images/Item_202.png
+- name: Inherited Grimoire
+  icon: images/Item_4814.png
+- name: Karuupa Herbs
+  icon: images/Item_822.png
+- name: Sanguine Candles
+  icon: images/Item_190.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,11 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dreadfell Tools of the Trade (Item)|Dreadfell Tools of the Trade]] this item is needed for the collection: [[More Sights and Sounds]]
+- one of the following:
+  - [[Accumulated Furious Armguards]]
+  - [[Accumulated Furious Wrist Wraps]]
+  - [[Accumulated Furious Bracers]]
+  - [[Accumulated Furious Armplates]]

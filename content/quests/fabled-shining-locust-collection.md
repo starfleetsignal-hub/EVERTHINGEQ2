@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sinking Sands]]'
+collection_type: Year of Discovery
+pieces:
+- name: shining black locust
+  page: Shining black locust (Fabled Shining Locust Collection)
+  icon: images/Item_2655.png
+- name: shining blue locust
+  page: Shining blue locust (Fabled Shining Locust Collection)
+  icon: images/Item_2677.png
+- name: shining brown locust
+  page: Shining brown locust (Fabled Shining Locust Collection)
+  icon: images/Item_2659.png
+- name: shining green locust
+  page: Shining green locust (Fabled Shining Locust Collection)
+  icon: images/Item_2673.png
+- name: shining red locust
+  page: Shining red locust (Fabled Shining Locust Collection)
+  icon: images/Item_2669.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +44,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

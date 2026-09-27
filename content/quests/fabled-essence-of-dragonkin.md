@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Vesspyr Isles]]'
+collection_type: Year of Discovery
+pieces:
+- name: Aerakyn Essence
+  page: Aerakyn Essence (Fabled Essence of Dragonkin)
+  icon: images/Item_3431.png
+- name: Dragon Essence
+  page: Dragon Essence (Fabled Essence of Dragonkin)
+  icon: images/Item_3426.png
+- name: Drake Essence
+  page: Drake Essence (Fabled Essence of Dragonkin)
+  icon: images/Item_3427.png
+- name: Drakota Essence
+  page: Drakota Essence (Fabled Essence of Dragonkin)
+  icon: images/Item_3428.png
+- name: Droag Essence
+  page: Droag Essence (Fabled Essence of Dragonkin)
+  icon: images/Item_3429.png
+- name: Wyvern Essence
+  page: Wyvern Essence (Fabled Essence of Dragonkin)
+  icon: images/Item_3430.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +47,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

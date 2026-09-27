@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic I)]]'
+pieces:
+- name: Severed Barbarian Hand
+  icon: images/Item_87.png
+- name: Severed Erudite Limb
+  icon: images/Item_2228.png
+- name: Severed Gnome Leg
+  icon: images/Item_4344.png
+- name: Severed Human Head
+  icon: images/Item_2474.png
+- name: Severed Kerra Tail
+  icon: images/Item_97.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Glintswift Saddle of Evasion]]
+- [[Forged Blades Insignia]] this item is needed for the collection: [[Counterfeit Coins]]

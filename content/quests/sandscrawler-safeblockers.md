@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Runnyeye: The Gathering Timeline]]'
 added_in: LU109
+pieces:
+- name: Sandscrawler Patroller Protectoring
+  icon: images/Item_3233.png
+- name: Sandscrawler Shiv Shelterer
+  icon: images/Item_3224.png
+- name: Sandswcrawler Tamer Trencher
+  icon: images/Item_3211.png
+  note: no-trade
+- name: Sandscrawler Gritwitch Guarding
+  icon: images/Item_3242.png
+- name: Sandscrawler Forger Forter
+  icon: images/Item_3212.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Chieftain Siltsea's Burnt Tea]] this item is needed for the collection: [[Runnyeye Bits]]
+- [[Shiv's Shiving Shiv]]

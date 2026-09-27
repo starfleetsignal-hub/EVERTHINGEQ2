@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Heroic)]], [[The Fabled Crypt of Valdoon (Heroic)]], [[The Fabled Court of Innovation (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: D'Morte Sigil of Blood
+  icon: images/Item_1269.png
+- name: D'Morte Sigil of Potency
+  icon: images/Item_1267.png
+- name: D'Morte Sigil of Tenacity
+  icon: images/Item_1265.png
+- name: D'Morte Sigil of Feeding
+  icon: images/Item_1268.png
+- name: D'Morte Sigil of Substance
+  icon: images/Item_1266.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Folded Freethinker Document]] this item is needed for the collection: [[Freethinker Documents]]

@@ -5,6 +5,14 @@ level: '20'
 added_in: Shattered Lands
 aliases:
 - 'Coin: Halas coins collection'
+zone: '[[Blackburrow]]'
+pieces:
+- name: wolf bone chit coin of halas
+  icon: images/Item_1357.png
+- name: bear bone chit coin of halas
+  icon: images/Item_1360.png
+- name: giant bone chit coin of halas
+  icon: images/Item_1362.png
 categories:
 - Blackburrow Collection Quests
 - Census Credits
@@ -25,4 +33,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Halas Scroll]]

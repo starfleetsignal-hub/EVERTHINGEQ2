@@ -5,6 +5,18 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Threshold Things
 added_in: Renewal of Ro
+zone: '[[Buried Takish''Hiz: Foundation of Knowledge (Heroic I)]], [[Buried Takish''Hiz: Foundation of Knowledge (Heroic II)]], [[Buried Takish''Hiz: The Sacred Gift (Event Heroic II)]], [[Buried Takish''Hiz: The Sacred Gift (Event Heroic III)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic I)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic II)]], [[Buried Takish''Hiz: Terrene Threshold (Heroic III)]]'
+pieces:
+- name: Adherent Robes
+  icon: images/Item_2442.png
+- name: Malachiel's Focus
+  icon: images/Item_2243.png
+- name: Rock from Terranus
+  icon: images/Item_4719.png
+- name: Shiroth's Wing
+  icon: images/Item_4625.png
+- name: Tualanan's Wail
+  icon: images/Item_4377.png
 categories:
 - 'Buried Takish''Hiz: Foundation of Knowledge (Heroic I) Collection Quests'
 - 'Buried Takish''Hiz: Foundation of Knowledge (Heroic II) Collection Quests'
@@ -31,4 +43,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Extended Ensorcelled Badlands Alacrity]]
+- [[Threshold Things (Collection Item)|Threshold Things]] this item is needed for the collection: [[Heroics in the Desert (Collection)|Heroics in the Desert]]

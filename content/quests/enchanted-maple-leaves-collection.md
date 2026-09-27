@@ -6,6 +6,22 @@ in_game_name: enchanted maple leaves collection
 added_in: Shattered Lands
 aliases:
 - 'Leaf: enchanted maple leaves collection'
+zone: '[[Enchanted Lands]]'
+pieces:
+- name: enchanted maple dark brown leaf
+  icon: images/Item_2102.png
+- name: enchanted maple blue leaf
+  icon: images/Item_2099.png
+- name: enchanted maple purple leaf
+  icon: images/Item_2100.png
+- name: enchanted maple green leaf
+  icon: images/Item_2098.png
+- name: enchanted maple yellow leaf
+  icon: images/Item_2103.png
+- name: enchanted maple red leaf
+  icon: images/Item_2104.png
+- name: enchanted maple light brown leaf
+  icon: images/Item_2101.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +42,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Large Collector's Pouch (24 Slots) (CollectionReward)|Large Collector's Pouch]]

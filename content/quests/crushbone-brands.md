@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+collection_type: Shiny
+pieces:
+- name: Brand of the Crushbone Centurion
+  icon: images/Item_1656.png
+- name: Brand of the Crushbone Conscript
+  icon: images/Item_1656.png
+- name: Brand of the Crushbone Legionnaire
+  icon: images/Item_1656.png
+- name: Brand of the Crushbone Emissary
+  icon: images/Item_1656.png
+- name: Brand of the Crushbone Oracle
+  icon: images/Item_1656.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Klakdyne Decimator]] this item is needed for the collection: [[King Klak'Anon Scepters]]

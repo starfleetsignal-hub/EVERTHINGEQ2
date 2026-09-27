@@ -6,6 +6,18 @@ timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
 aliases:
 - Werewolf Stock Items
+zone: '[[The Merchant''s Den (Heroic II)]]'
+pieces:
+- name: Warewolf Packing List
+  icon: images/Item_185.png
+- name: Warewolf Cargo
+  icon: images/Item_655.png
+- name: Warewolf Stock
+  icon: images/Item_566.png
+- name: Warewolf Stuff
+  icon: images/Item_399.png
+- name: Warewolf Vendibles
+  icon: images/Item_653.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Warewolf Stirrups of Ability]]
+- [[Faked Unbound Elemental Essence]] this item is needed for the collection: [[Counterfeit Coins]]

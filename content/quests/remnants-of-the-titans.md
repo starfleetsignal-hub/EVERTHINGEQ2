@@ -3,6 +3,19 @@ title: Remnants of the Titans
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Fist of the Golden Titan
+  icon: images/Item_1303.png
+- name: Fist of the Silver Titan
+  icon: images/Item_1302.png
+- name: Fist of the Copper Titan
+  icon: images/Item_1304.png
+- name: Foot of the Golden Titan
+  icon: images/Item_1559.png
+- name: Foot of the Silver Titan
+  icon: images/Item_1566.png
+- name: Foot of the Copper Titan
+  icon: images/Item_1447.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Arcaneframe Hammerhoof]]
+- [[Fragment of Collected Ballads (Legendary)|Fragment of Collected Ballads]]
+- [[Dirty Sheet Music]] this item is needed for the collection: [[Maedjinn's Requiem]]

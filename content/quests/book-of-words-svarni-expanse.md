@@ -4,6 +4,24 @@ type: quest
 level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[Svarni Expanse]]'
+collection_type: Collection items
+pieces:
+- name: Word of Wrede
+  icon: images/Item_1369.png
+  note: 'heirloom - (Reward from the quest [[Svarni Expanse: Word of Wrede]])'
+- name: Word of Ridan
+  icon: images/Item_1372.png
+  note: 'heirloom - (Reward from the quest [[Svarni Expanse: Word of Ridan]])'
+- name: Word of Wlitan
+  icon: images/Item_1375.png
+  note: 'heirloom - (Reward from the quest [[Svarni Expanse: Word of Wlitan]])'
+- name: Word of Liten
+  icon: images/Item_1370.png
+  note: 'heirloom - (Reward from the quest [[Svarni Expanse: Word of Liten]])'
+- name: Word of Sincahn
+  icon: images/Item_1374.png
+  note: 'heirloom - (Reward from the quest [[Svarni Expanse: Word of Sincahn]])'
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +43,8 @@ expansion_source: patch
 ---
 
 The related quests can be started after [[Heck of a Ghoul Time]], see Heck of a Ghoul Time for all related quests
+
+## Rewards
+
+- [[Pattern: Karuupa Saddle of Fervor]]
+- [[Prime Word, Hu]] this item is needed for the collection: [[Lexicon of Spaek]]

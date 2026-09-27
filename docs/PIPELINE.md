@@ -14,6 +14,7 @@ unpacked on local disk to work (`tar xzf raw-shattered-lands.tgz` / `content-sha
 ## Markdown conventions
 - `[[Page title]]` or `[[Page title|text]]` links to another page (inside tables the pipe is written `\|`)
 - `{{waypoint x, y, z}}` renders a chip that copies `/waypoint x, y, z`
+- Zone, instance and island pages get a **Waypoint map**: every `{{waypoint}}` in the `location` of an NPC, monster, named, place or house page (and the `starts` of a quest) that names exactly one zone, plotted with north up (in EQ2 north is -z and east is -x). Built in `build_preview.zone_map()`.
 
 ## Commands (run from this folder)
     python3 tools/fetch.py --title Antonica --category "Antonica Quests"   # polite: 1 request/s, 50 pages per request

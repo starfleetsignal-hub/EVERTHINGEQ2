@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Perils of the Abysmal Sea
 added_in: Visions of Vetrovia
+zone: '[[Svarni Expanse]]'
+pieces:
+- name: Sketch of a Seamonster
+  icon: images/Item_75.png
+- name: Drawing of a Waterspout
+  icon: images/Item_2284.png
+- name: Unreliable Current Chart
+  icon: images/Item_3163.png
+- name: Recounting of Violent Storms
+  icon: images/Item_714.png
+- name: Broken Navigation Tools
+  icon: images/Item_2292.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Stirrups of Ability]]
+- [[Perils of the Abysmal Sea (Item)|Perils of the Abysmal Sea]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

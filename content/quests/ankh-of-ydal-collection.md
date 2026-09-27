@@ -5,6 +5,21 @@ level: '105'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 in_game_name: Ankh of Ydal
 added_in: Update 2015.06.23
+zone: '[[The Fabled Freethinker Hideout (Raid)]]'
+collection_type: Shiny
+pieces:
+- name: Fragment of Ydal - Top Left
+  icon: images/Item_4416.png
+  note: no-trade
+- name: Fragment of Ydal - Top Right
+  icon: images/Item_4417.png
+  note: no-trade
+- name: Fragment of Ydal - Bottom Left
+  icon: images/Item_4419.png
+  note: no-trade
+- name: Fragment of Ydal - Bottom Right
+  icon: images/Item_4418.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +38,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Ankh of Ydal (Armor)|Ankh of Ydal]]

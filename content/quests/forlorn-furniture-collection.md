@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Forlorn Furniture
 added_in: Visions of Vetrovia
+zone: '[[Forlorn Gist]]'
+pieces:
+- name: Ancient Rotting Crate
+  icon: images/Item_2362.png
+- name: A Broken Somethingorother
+  icon: images/Item_2359.png
+- name: Termite-Riddled Barrel
+  icon: images/Item_2363.png
+- name: Broken Bookshelf
+  icon: images/Item_2361.png
+- name: Shattered Table Leg
+  icon: images/Item_2364.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Innoruuk's Child (Adornment) (blue)|Innoruuk's Child]]
+- [[Forlorn Furniture (Item)|Forlorn Furniture]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

@@ -3,6 +3,16 @@ title: Guide Doodads Series Four
 type: quest
 level: '50'
 added_in: LU56
+collection_type: Other
+pieces:
+- name: Devenn's Tiny Dance Shoes
+  icon: images/Item_509.png
+- name: Celoxx's Ivy Adorned Arm Guard
+  icon: images/Item_512.png
+- name: Squeecha's Chewed on Cheese Wheel
+  icon: images/Item_2934.png
+- name: Katalin's Pristine Gauntlets
+  icon: images/Item_2747.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +32,8 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Shoulderpads of the Hold]] (pink)
+  - [[Shoulders of the Hold]] (blue)

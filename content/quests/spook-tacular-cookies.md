@@ -5,6 +5,25 @@ level: '95'
 added_in: Nights of the Dead
 events:
 - Nights of the Dead
+zone: '[[The City of Freeport]], [[Qeynos Capitol District]], [[Qeynos Province District]], [[Neriak, City of Hate]], [[Greater Faydark]], [[Frostfang Sea]], [[Timorous Deep]], [[Maj''Dul]]'
+collection_type: Pumpkin
+pieces:
+- name: Chocolate Bat Wing Cookie
+  icon: images/Item_140.png
+- name: Boo-Scotti Cookie
+  icon: images/Item_4165.png
+- name: Gingerbread Skeleton Cookie
+  icon: images/Item_4164.png
+- name: Sugar Gravestone Cookie
+  icon: images/Item_2339.png
+- name: Chocolate Drop Witch Hat Cookie
+  icon: images/Item_2556.png
+- name: Frosted Black Cat Cookie
+  icon: images/Item_4987.png
+- name: Spiced Pumpkin Cutout Cookie
+  icon: images/Item_3812.png
+- name: Peanut Butter Broom Cookie
+  icon: images/Item_1218.png
 categories:
 - Census Credits
 - Collection Quests
@@ -32,3 +51,7 @@ source:
 ---
 
 To complete this collection quest you must buy [[Pumpkin Bomb|Pumpkin Bombs]] (2 candy corns each) from a Nights of the Dead merchant. These bombs can be launched at your merc or other players, upon which several mysterious pumpkins will erupt around that character. These pumpkins can be gathered and will spawn a random seasonal collectible in your inventory.
+
+## Rewards
+
+- [[Title: Cookie Haunter]]

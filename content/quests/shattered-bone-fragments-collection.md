@@ -7,6 +7,45 @@ added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: shattered bone fragments collection'
 - Shattered Bone Fragments
+zone: '[[Blackburrow]], [[Frostfang Sea]], [[The Commonlands]], [[Antonica]]'
+pieces:
+- name: shattered barbarian bone fragment
+  icon: images/Item_322.png
+- name: shattered high elf bone fragment
+  icon: images/Item_322.png
+- name: shattered human bone fragment
+  icon: images/Item_322.png
+- name: shattered iksar bone fragment
+  icon: images/Item_322.png
+- name: shattered kerra bone fragment
+  icon: images/Item_322.png
+- name: shattered ogre bone fragment
+  icon: images/Item_322.png
+- name: shattered orc bone fragment
+  icon: images/Item_322.png
+- name: shattered ratonga bone fragment
+  icon: images/Item_322.png
+- name: shattered troll bone fragment
+  icon: images/Item_322.png
+- name: shattered wood elf bone fragment
+  icon: images/Item_322.png
+- name: shattered dark elf bone fragment
+  icon: images/Item_322.png
+- name: shattered dwarf bone fragment
+  icon: images/Item_322.png
+- name: shattered erudite bone fragment
+  icon: images/Item_322.png
+- name: shattered froglok bone fragment
+  icon: images/Item_322.png
+- name: shattered gnoll bone fragment
+  page: Shattered gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: shattered gnome bone fragment
+  icon: images/Item_322.png
+- name: shattered half elf bone fragment
+  icon: images/Item_322.png
+- name: shattered halfling bone fragment
+  icon: images/Item_322.png
 categories:
 - Antonica Collection Quests
 - Blackburrow Collection Quests
@@ -30,4 +69,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shattered Bone Necklace]]

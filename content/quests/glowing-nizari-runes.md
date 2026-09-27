@@ -3,6 +3,19 @@ title: Glowing Nizari Runes
 type: quest
 level: '100'
 added_in: LU101
+zone: '[[The Fabled Nizara, City of the Nayad (Heroic)]]'
+collection_type: Red
+pieces:
+- name: Glowing Rune of Traditions
+  icon: images/Item_3829.png
+- name: Glowing Rune of Terror
+  icon: images/Item_3828.png
+- name: Glowing Rune of Union
+  icon: images/Item_3830.png
+- name: Glowing Rune of Sacrifice
+  icon: images/Item_3827.png
+- name: Glowing Rune of Empire
+  icon: images/Item_3826.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +39,7 @@ Three set spawn locations in zone:
 - {{waypoint 22, 15, -15}}
 - {{waypoint -22, 15, -15}}
 - {{waypoint -55, -35, -25}}
+
+## Rewards
+
+- [[Statue of Nizari'zhi Blood]] this item is needed for the collection: [[Ancient Nizari Statues]]

@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Brokenskull Bay: Spoils of Maraud (Contested)]]'
+pieces:
+- name: Morin's Silver Stud
+  icon: images/Item_2215.png
+- name: Drunkard's Earring
+  icon: images/Item_1039.png
+- name: Swabby's Iron Stud
+  icon: images/Item_2213.png
+- name: Krasnok's Earring
+  icon: images/Item_3466.png
+- name: Barin's Silver Hoop
+  icon: images/Item_1037.png
+- name: Daggerheart's Hoop
+  icon: images/Item_1038.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Large Shissar Chest]]
+- 5 [[Far Seas Ferrin]]
+- [[Queen's Revenge]] this item is needed for the collection: [[Ship Wheels]]

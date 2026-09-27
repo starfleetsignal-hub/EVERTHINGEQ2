@@ -3,6 +3,7 @@ build/
 images/*
 !images/Item_*.png
 !images/Spell_*.png
+!images/bg/
 data/allimages.json
 data/image-failures.json
 __pycache__/

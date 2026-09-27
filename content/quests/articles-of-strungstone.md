@@ -3,6 +3,19 @@ title: Articles of Strungstone
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Sigil of Fuejenyrus
+  icon: images/Item_2612.png
+- name: Horn of Fuejenyrus
+  icon: images/Item_5792.png
+- name: Signet of Fuejenyrus
+  icon: images/Item_2607.png
+- name: Sigil of Crisj'Jen
+  icon: images/Item_2609.png
+- name: Claw of Crisj'Jen
+  icon: images/Item_2792.png
+- name: Signet of Crisj'Jen
+  icon: images/Item_2605.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Hooluk Weapon Rack]]
+- [[Fragment of Collected Ballads (Treasured) (Version 2)|Fragment of Collected Ballads]]
+- [[Yazdani Harp]] this item is needed for the collection: [[Overrealm Instruments]]

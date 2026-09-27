@@ -4,6 +4,27 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Aerial
+pieces:
+- name: Aerakyn Essence
+  page: Aerakyn Essence (Essence of Dragonkin)
+  icon: images/Item_3431.png
+- name: Dragon Essence
+  page: Dragon Essence (Essence of Dragonkin)
+  icon: images/Item_3426.png
+- name: Drake Essence
+  page: Drake Essence (Essence of Dragonkin)
+  icon: images/Item_3427.png
+- name: Drakota Essence
+  page: Drakota Essence (Essence of Dragonkin)
+  icon: images/Item_3428.png
+- name: Droag Essence
+  page: Droag Essence (Essence of Dragonkin)
+  icon: images/Item_3429.png
+- name: Wyvern Essence
+  page: Wyvern Essence (Essence of Dragonkin)
+  icon: images/Item_3430.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +48,11 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Dragonkin Essence]] this item is needed for the collection: [[Relics of Vesspyr]]
+- one of the following:
+  - [[Vesspyr Workman's Red Bracers]]
+  - [[Vesspyr Warrior's Steel Greaves]]
+  - [[Vesspyr Warrior's Red Pauldrons]]

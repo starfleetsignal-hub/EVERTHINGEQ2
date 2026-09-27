@@ -4,6 +4,19 @@ type: quest
 level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 added_in: Reign of Shadows
+pieces:
+- name: Bronze Calipers
+  icon: images/Item_1669.png
+- name: Scale Fulcrum
+  icon: images/Item_2294.png
+- name: Kaborite Measuring Stick
+  icon: images/Item_1031.png
+- name: Small Metal Balance Weight
+  icon: images/Item_2290.png
+- name: Dirty Hourglass
+  icon: images/Item_1216.png
+- name: Broken Protractor
+  icon: images/Item_2292.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Vasty Deep Spellstaff (Collection Item)|Vasty Deep Spellstaff]] this item is needed for the collection: [[Vasty Deep Lost and Found]]
+- [[Vasty Deep Spellstaff (Staff)|Vasty Deep Spellstaff]]

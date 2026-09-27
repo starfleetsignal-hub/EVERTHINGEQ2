@@ -4,6 +4,24 @@ type: quest
 level: '80'
 in_game_name: Tablets of Ganak Sathir Dynasty
 added_in: The Shadow Odyssey
+zone: '[[Nu''roga]], [[Veksar: The Sunken Theater]], [[Emperor Atrebe''s Laboratory: The Fabled City of Kor-sha]]'
+pieces:
+- name: 'Ganak Dynasty Tablet: War'
+  icon: images/Item_371.png
+- name: 'Ganak Dynasty Tablet: Bravery'
+  icon: images/Item_371.png
+- name: 'Ganak Dynasty Tablet: Victory'
+  icon: images/Item_371.png
+- name: 'Ganak Dynasty Tablet: Airforce'
+  icon: images/Item_371.png
+- name: 'Ganak Dynasty Tablet: Revenge'
+  icon: images/Item_371.png
+- name: 'Ganak Dynasty Tablet: Influence'
+  icon: images/Item_371.png
+- name: 'Ganak Dynasty Tablet: Hero'
+  icon: images/Item_371.png
+- name: 'Ganak Dynasty Tablet: Dragonkind'
+  icon: images/Item_371.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Ganak's Scuffed Ring]]
+  - [[Icon of the Darslayer (CollectionReward)|Icon of the Darslayer]]

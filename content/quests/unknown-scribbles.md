@@ -3,6 +3,19 @@ title: Unknown Scribbles
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Incomprehensible Rune
+  icon: images/Item_5797.png
+- name: Incomprehensible Sigil
+  icon: images/Item_5831.png
+- name: Incomprehensible Scroll
+  icon: images/Item_5879.png
+- name: Incomprehensible Tome
+  icon: images/Item_5874.png
+- name: Incomprehensible Slate
+  icon: images/Item_5943.png
+- name: Incomprehensible Cypher
+  icon: images/Item_5801.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Forlorn Void-touched Armguards]]
+- [[Fragment of Collected Void]]
+- [[Fungloid Gore]] this item is needed for the collection: [[Tub of Fetid Gore (Collection)|Tub of Fetid Gore]]

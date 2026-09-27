@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Wraithguard's Smudged Emblem
+  icon: images/Item_13.png
+  note: no-trade
+- name: Dreadwraith's Bloody Emblem
+  icon: images/Item_13.png
+- name: Drivelord's Muddy Emblem
+  icon: images/Item_13.png
+- name: Overseer's Rusted Emblem
+  icon: images/Item_13.png
+- name: Yarddog's Worn Emblem
+  icon: images/Item_13.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Torn Off Nose]] this item is needed for the collection: [[Malevolor Trophies]]

@@ -3,6 +3,20 @@ title: Runes of Gerion
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Rune of the Spiritkeeper
+  icon: images/Item_4934.png
+- name: Rune of the Soulreaper
+  icon: images/Item_4934.png
+  note: no-trade
+- name: Rune of the Adherent
+  icon: images/Item_4934.png
+- name: Rune of the Zealot
+  icon: images/Item_4934.png
+- name: Rune of the Proselyte
+  icon: images/Item_4934.png
+- name: Rune of the Dragoon
+  icon: images/Item_4934.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +37,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Infernal Taunter Plushie]]
+- [[Fragment of Collected Void]]
+- [[Malformed Stalk]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

@@ -5,6 +5,20 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Corrupt Mechanics
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+pieces:
+- name: Corrupt Crowbar
+  icon: images/Item_1033.png
+- name: Corrupt Spanner
+  icon: images/Item_2160.png
+- name: Corrupt Tongs
+  icon: images/Item_33.png
+- name: Corrupt Hammer
+  icon: images/Item_696.png
+- name: Corrupt Wrench
+  icon: images/Item_634.png
+- name: Corrupt Key
+  icon: images/Item_1009.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,10 @@ expansion: Terrors of Thalumbra
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Gilded Aphotic Linked Boots]]
+  - [[Gilded Aphotic Stitched Boots (Cloth)|Gilded Aphotic Stitched Boots]]
+  - [[Gilded Aphotic Stitched Boots (Leather)|Gilded Aphotic Stitched Boots]]
+  - [[Gilded Aphotic Polished Sabatons]]

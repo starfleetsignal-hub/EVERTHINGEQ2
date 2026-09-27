@@ -3,6 +3,18 @@ title: Void Beast Eyes
 type: quest
 level: '125'
 added_in: Update 2022.08.09
+zone: '[[Fabled Kurn''s Tower (Solo)]]'
+pieces:
+- name: Clotted Void Beast Eye
+  icon: images/Item_2008.png
+- name: Smashed Void Beast Eye
+  icon: images/Item_2014.png
+- name: Veined Void Beast Eye
+  icon: images/Item_2025.png
+- name: Broken Void Beast Eye
+  icon: images/Item_2022.png
+- name: Milky Void Beast Eye
+  icon: images/Item_2007.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +33,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Scornridden Greaves]] this item is needed for the collection: [[Scornridden Armor]]

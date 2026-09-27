@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Preserved Owlbear Beak
 added_in: Reign of Shadows
+zone: '[[Shadeweaver''s Thicket]]'
+pieces:
+- name: Cloudy Viscous Liquid
+  icon: images/Item_359.png
+- name: Sundried Owlbear Beak
+  icon: images/Item_82.png
+- name: Roughly Cut Ruby Gem
+  icon: images/Item_1121.png
+- name: Clotted Ripper Blood
+  icon: images/Item_2520.png
+- name: Crux of Nature
+  icon: images/Item_860.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +37,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Preserved Owlbear Beak (Charm)|Preserved Owlbear Beak]]
+- [[Preserved Owlbear Beak (Collection Item)|Preserved Owlbear Beak]] this item is needed for the collection: [[Relics of the Darkside]]

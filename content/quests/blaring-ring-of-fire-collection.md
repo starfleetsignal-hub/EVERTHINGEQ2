@@ -7,6 +7,19 @@ in_game_name: Blaring Ring of Fire
 added_in: Chaos Descending
 aliases:
 - Blaring Horn of Fire (Collection)
+zone: '[[Doomfire: The Enkindled Towers (Solo)]]'
+collection_type: Cdf
+pieces:
+- name: Doomfire Horn
+  icon: images/Item_112.png
+- name: Hymn of Deafening
+  icon: images/Item_75.png
+- name: Stamp of Resonance
+  icon: images/Item_1778.png
+- name: Ink of Smoke
+  icon: images/Item_3055.png
+- name: Sonorous Signet
+  icon: images/Item_1376.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -28,4 +41,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Blaring Ring of Fire (Ring)|Blaring Ring of Fire]]
+- [[Blaring Ring of Fire (Collection Item)|Blaring Ring of Fire]] this item is needed for the collection: [[Ring of Flowing Stones (Collection)|Ring of Flowing Stones]]

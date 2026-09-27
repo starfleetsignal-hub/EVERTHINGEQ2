@@ -4,6 +4,22 @@ type: quest
 level: '35'
 in_game_name: Foreman Garz'gog Dyeree
 added_in: Shattered Lands
+zone: '[[Zek, the Orcish Wastes]]'
+collection_type: Pages
+pieces:
+- name: Foreman Garz'gog Dyeree  - Page 4
+  icon: images/Item_2180.png
+- name: Foreman Garz'gog Dyeree - Page 5
+  icon: images/Item_2180.png
+- name: Foreman Garz'gog Dyeree - Page 6
+  icon: images/Item_2180.png
+- name: Foreman Garz'gog Dyeree  - Page 10
+  icon: images/Item_2180.png
+  note: Clickable bones near a chest in a sunken shipwreck at {{waypoint 469, -66, 494}}
+- name: Foreman Garz'gog Dyeree - Page 11
+  icon: images/Item_2180.png
+- name: Foreman Garz'gog Dyeree - Page 12
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +40,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Foreman Garz'gog Dyeree (CollectionReward)|Foreman Garz'gog Dyeree]]

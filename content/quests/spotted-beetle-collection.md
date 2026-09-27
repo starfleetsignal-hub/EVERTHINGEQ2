@@ -6,6 +6,18 @@ in_game_name: spotted beetle collection
 added_in: Shattered Lands
 aliases:
 - 'Beetle: spotted beetle collection'
+zone: '[[The Wailing Caves]]'
+pieces:
+- name: spotted blue beetle
+  icon: images/Item_1812.png
+- name: spotted green beetle
+  icon: images/Item_1811.png
+- name: spotted black beetle
+  icon: images/Item_1810.png
+- name: spotted yellow beetle
+  icon: images/Item_1813.png
+- name: spotted purple beetle
+  icon: images/Item_1814.png
 categories:
 - Beetle (CQ Category)
 - Census Credits
@@ -26,4 +38,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- 60s

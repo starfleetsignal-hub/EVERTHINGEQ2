@@ -4,6 +4,24 @@ type: quest
 level: '80'
 in_game_name: Tablets of Rile Sathir Dynasty
 added_in: The Shadow Odyssey
+zone: '[[Nu''roga]], [[Veksar: The Sunken Theater]], [[Emperor Atrebe''s Laboratory: The Fabled City of Kor-sha]]'
+pieces:
+- name: 'Rile Dynasty Tablet: Chosooth'
+  icon: images/Item_371.png
+- name: 'Rile Dynasty Tablet: Fervor'
+  icon: images/Item_371.png
+- name: 'Rile Dynasty Tablet: Kurn'
+  icon: images/Item_371.png
+- name: Rile Dynasty Tablet:Torture
+  icon: images/Item_371.png
+- name: 'Rile Dynasty Tablet: Construction'
+  icon: images/Item_371.png
+- name: 'Rile Dynasty Tablet: Destruction'
+  icon: images/Item_371.png
+- name: 'Rile Dynasty Tablet: Enslavement'
+  icon: images/Item_371.png
+- name: 'Rile Dynasty Tablet: Slaughter'
+  icon: images/Item_371.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +44,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Icon of the Conspirator (CollectionReward)|Icon of the Conspirator]]
+  - [[Rile's Concealing Belt]]

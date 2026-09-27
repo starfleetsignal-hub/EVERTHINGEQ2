@@ -5,6 +5,30 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Kylong Plains]]'
+collection_type: Year of Discovery
+pieces:
+- name: reet knight cuirass
+  page: Reet knight cuirass (Fabled Reet Knight Armor)
+  icon: images/Item_3233.png
+- name: reet knight boots
+  page: Reet knight boots (Fabled Reet Knight Armor)
+  icon: images/Item_3230.png
+- name: reet knight bracer
+  page: Reet knight bracer (Fabled Reet Knight Armor)
+  icon: images/Item_3232.png
+- name: reet knight gauntlets
+  page: Reet knight gauntlets (Fabled Reet Knight Armor)
+  icon: images/Item_3229.png
+- name: reet knight greaves
+  page: Reet knight greaves (Fabled Reet Knight Armor)
+  icon: images/Item_3231.png
+- name: reet knight helm
+  page: Reet knight helm (Fabled Reet Knight Armor)
+  icon: images/Item_3234.png
+- name: reet knight pauldrons
+  page: Reet knight pauldrons (Fabled Reet Knight Armor)
+  icon: images/Item_3235.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +50,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

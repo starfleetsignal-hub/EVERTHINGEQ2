@@ -4,6 +4,17 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: LU122
+pieces:
+- name: Greatsword of the Crusader
+  icon: images/Item_2954.png
+- name: Mace of the Repressor
+  icon: images/Item_2961.png
+- name: Club of the Besieger
+  icon: images/Item_2964.png
+- name: Dagger of the Adept
+  icon: images/Item_2970.png
+- name: Staff of the Archmage
+  icon: images/Item_2975.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +35,6 @@ expansion: Renewal of Ro
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Queen Millidreex's Wand]] this item is needed for the collection: [[Buried Takish'Hiz Treasures (Collection)|Buried Takish'Hiz Treasures]]

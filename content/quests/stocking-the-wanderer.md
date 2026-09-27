@@ -3,6 +3,23 @@ title: Stocking the Wanderer
 type: quest
 level: '130'
 added_in: Scars of Destruction
+zone: '[[Sodden Archipelago]]'
+collection_type: Hidden tradeskill
+pieces:
+- name: Barrels of Salty Fish
+  icon: images/Item_2285.png
+- name: Crates of Harvests
+  icon: images/Item_566.png
+- name: Bundles of Bedding
+  icon: images/Item_780.png
+- name: Supplies for Shelters
+  icon: images/Item_2683.png
+- name: Random Crates and Barrels
+  icon: images/Item_2695.png
+- name: Raffik's Hat
+  icon: images/Item_2483.png
+- name: Shielding Device
+  icon: images/Item_2347.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +43,6 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Honorary Pirate's Hat]]

@@ -3,6 +3,22 @@ title: Stones of the Ancients
 type: quest
 level: '92'
 added_in: Chains of Eternity
+zone: '[[Sleeper''s Tomb: The Forgotten Catacombs (Heroic)]]'
+pieces:
+- name: Green Resistance Stone
+  icon: images/Item_2019.png
+- name: Red Resistance Stone
+  icon: images/Item_2015.png
+- name: White Resistance Stone
+  icon: images/Item_2014.png
+- name: Blue Resistance Stone
+  icon: images/Item_2018.png
+- name: Corrupted Gargoyle Stone
+  icon: images/Item_2016.png
+- name: Shimmering Phantasm Stone
+  icon: images/Item_2017.png
+- name: Opalescent Gargoyle Stone
+  icon: images/Item_2936.png
 categories:
 - Census Credits
 - Chains of Eternity Collection Quests
@@ -24,4 +40,7 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Urn of the Ancient]]
+- [[Claws of the Brood]] this item is needed for the collection: [[Ancient's Legacy (Collection)|Ancient's Legacy]]

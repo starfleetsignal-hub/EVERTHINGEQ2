@@ -3,6 +3,22 @@ title: Lucanic Weapons
 type: quest
 level: '135'
 added_in: Rage of Cthurath
+pieces:
+- name: Blade of the Apostle
+  icon: images/Item_5650.png
+- name: Blade of Servitude
+  icon: images/Item_5647.png
+- name: Greatsword of Pain
+  icon: images/Item_5645.png
+- name: Greatsword of Bone
+  icon: images/Item_5721.png
+- name: Spear of the Impaler
+  icon: images/Item_5657.png
+- name: Pike of the Captain
+  icon: images/Item_5643.png
+- name: Wraithwarden's Saber
+  icon: images/Item_5646.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +39,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Obliviwrought Shadowlord Plushie]]
+- [[Fragment of Collected Void]]
+- [[Misshapen Fin]] this item is needed for the collection: [[Unrelenting Horrors (Collection)|Unrelenting Horrors]]

@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Zek, the Scourge Wastes Timeline]]'
 added_in: LU100
+zone: '[[The Fabled Ruins of Varsoon]]'
+collection_type: Shiny
+pieces:
+- name: Mibble Toad Tongue
+  icon: images/Item_97.png
+- name: Tome of the Creator
+  icon: images/Item_711.png
+- name: Flask of the Master Alchemist
+  icon: images/Item_2589.png
+- name: Tongs of the Forge Overseer
+  icon: images/Item_33.png
+- name: Crawler Queen Eye
+  icon: images/Item_83.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +36,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Marker of Et'Sipe]] this item is needed for the collection: [[Markers of Varsoon]]
+- one of the following:
+  - [[Gilded Hoop of Glowing Runes]]
+  - [[Wristlet of Glowing Runes]]

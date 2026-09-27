@@ -3,6 +3,17 @@ title: Mollusks Collection
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Cobalt Scar]]'
+collection_type: Fishingcs
+pieces:
+- name: Scallop
+  icon: images/Item_81.png
+- name: Clam
+  icon: images/Item_81.png
+- name: Oyster
+  icon: images/Item_81.png
+- name: Mussel
+  icon: images/Item_81.png
 categories:
 - Census Credits
 - Cobalt Scar (CQ Category)
@@ -25,3 +36,8 @@ expansion_source: patch
 ---
 
 The members of this collection are obtained by fishing in [[Cobalt Scar]]
+
+## Rewards
+
+- [[Shallow Waters Catch]]
+- [[Collected Mollusks]] this item is needed for the collection: [[Ocean Creatures Collection]]

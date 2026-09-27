@@ -5,6 +5,20 @@ level: '130'
 added_in: Scars of Destruction
 aliases:
 - Odus Levitation artifacts
+pieces:
+- name: Graviton Shard
+  icon: images/Item_5697.png
+- name: Levitator's Talisman
+  icon: images/Item_4860.png
+- name: Skybound Boots
+  icon: images/Item_4473.png
+  note: no-trade
+- name: Aerial Lens
+  icon: images/Item_5898.png
+- name: Ethereal Driftstone
+  icon: images/Item_5787.png
+- name: Odus Gravistone Staff
+  icon: images/Item_5656.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +39,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Embelished Splendid Cloth Robes]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Kappa Idol of Water]] this item is needed for the collection: [[Blood and Abandonment (Collection)|Blood and Abandonment]]

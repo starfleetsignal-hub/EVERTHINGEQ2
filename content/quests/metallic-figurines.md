@@ -3,6 +3,19 @@ title: Metallic Figurines
 type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
+pieces:
+- name: Solid Copper Figurine
+  icon: images/Item_2238.png
+- name: Solid Iron Figurine
+  icon: images/Item_2237.png
+- name: Solid Gold Figurine
+  icon: images/Item_2241.png
+- name: Solid Platinum Figurine
+  icon: images/Item_2242.png
+- name: Solid Silver Figurine
+  icon: images/Item_2239.png
+- name: Solid Palladium Figurine
+  icon: images/Item_2240.png
 categories:
 - Ballads of Zimara (CQ Category)
 - Census Credits
@@ -22,4 +35,8 @@ expansion: Ballads of Zimara
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Lustrous Firemonger (House Item)|Lustrous Firemonger]]
+- [[Fragment of Collected Ballads (Legendary)|Fragment of Collected Ballads]]
+- [[Folded Sheet Music]] this item is needed for the collection: [[Maedjinn's Requiem]]

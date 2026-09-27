@@ -7,6 +7,19 @@ in_game_name: Pox-Ridden Carapace
 added_in: Chaos Descending
 aliases:
 - Pox Ridden Carapace (Collection)
+zone: '[[Detroxxulous, the Plaguelands]]'
+pieces:
+- name: Death Beetle Carapace
+  icon: images/Item_162.png
+- name: Rune of Illness
+  icon: images/Item_1263.png
+- name: Essence of Virus
+  icon: images/Item_4089.png
+- name: Sigil of Plagues
+  icon: images/Item_1269.png
+- name: Seal of Disgust
+  icon: images/Item_1266.png
+  note: (Reward from the quest [[Desired Knowledge]])
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -28,4 +41,11 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pox-Ridden Carapace (Collection Item)|Pox-Ridden Carapace]] this item is needed for the collection: [[Ensorcelled Metalcloth Cape (Collection)|Ensorcelled Metalcloth Cape]]
+- one of the following:
+  - [[Linked Pox-Ridden Carapace]] -- *chain*
+  - [[Satin-Lined Pox-Ridden Carapace]] -- *cloth*
+  - [[Pox-Ridden Carapace (Chest)|Pox-Ridden Carapace]] --*leather*
+  - [[Plated Pox-Ridden Carapace]] -- *plate*

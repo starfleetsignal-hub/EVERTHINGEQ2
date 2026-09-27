@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Shroud of the Stonecrafter
 added_in: Chaos Descending
+zone: '[[Vegarlson: Council''s Stronghold (Heroic)]], [[Vegarlson: Council''s Stronghold (Expert)]], [[Vegarlson: Ruins of Rathe (Heroic)]], [[Vegarlson: Ruins of Rathe (Expert)]], [[Vegarlson: The Terrene Rift (Event Heroic)]], [[Vegarlson: The Terrene Rift (Expert Event)]]'
+pieces:
+- name: Earthen Shroud
+  icon: images/Item_208.png
+- name: Mark of the Stonecrafter
+  icon: images/Item_3826.png
+- name: Charm of Jagged Teeth
+  icon: images/Item_2525.png
+- name: Elements of Stone
+  icon: images/Item_3777.png
+- name: Insignia of Dust
+  icon: images/Item_597.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -30,4 +42,11 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Shroud of the Stonecrafter (Collection Item)|Shroud of the Stonecrafter]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]
+- one of the following:
+  - [[Linked Shroud of the Stonecrafter]]
+  - [[Shroud of the Stonecrafter (Cloth)|Shroud of the Stonecrafter]]
+  - [[Leather Shroud of the Stonecrafter]]
+  - [[Plated Shroud of the Stonecrafter]]

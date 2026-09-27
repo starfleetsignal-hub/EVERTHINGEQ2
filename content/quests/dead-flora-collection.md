@@ -5,6 +5,20 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Dead Flora
 added_in: Visions of Vetrovia
+zone: '[[Forlorn Gist]]'
+pieces:
+- name: Broken Switch of Willow
+  icon: images/Item_875.png
+- name: Crumbling Dried Moss
+  icon: images/Item_2316.png
+- name: Dead Grave Blooms
+  icon: images/Item_1981.png
+- name: Decaying Twig
+  icon: images/Item_864.png
+- name: Moldering Broom Straw
+  icon: images/Item_411.png
+- name: Saprophyte-Laden Log
+  icon: images/Item_824.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +40,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Found Robust Band]]
+- [[Dead Flora (Item)|Dead Flora]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

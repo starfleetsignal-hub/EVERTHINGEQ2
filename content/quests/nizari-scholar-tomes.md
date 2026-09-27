@@ -3,6 +3,19 @@ title: Nizari Scholar Tomes
 type: quest
 level: '100'
 added_in: LU101
+zone: '[[The Fabled Nizara, City of the Nayad (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Nizari Tome of Ages
+  icon: images/Item_716.png
+- name: Nizari Tome of Blood
+  icon: images/Item_717.png
+- name: Nizari Tome of Wisdom
+  icon: images/Item_720.png
+- name: Nizari Tome of Teaching
+  icon: images/Item_719.png
+- name: Nizari Tome of Honor
+  icon: images/Item_718.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +34,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Sshi'vaez's Scepter of Knowledge]] this item is needed for the collection: [[Nizari Scepters of Power]]
+- one of the following:
+  - [[Simple Nizari Chain Shoulders]]
+  - [[Simple Nizari Leather Shoulders]]

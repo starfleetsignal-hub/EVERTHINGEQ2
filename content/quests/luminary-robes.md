@@ -4,6 +4,18 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Sanctus Seru: Arx Aeturnus (Solo)]], [[Sanctus Seru: Echelon of Divinity (Solo)]], [[Sanctus Seru: Echelon of Order (Solo)]]'
+pieces:
+- name: Ranger's Robes of Station
+  icon: images/Item_2446.png
+- name: Paladin's Robes of Might
+  icon: images/Item_2444.png
+- name: Cleric's Robes of Wisdom
+  icon: images/Item_2439.png
+- name: Sorcerer's Robes of Fire
+  icon: images/Item_237.png
+- name: Luminary Robes of Station
+  icon: images/Item_2440.png
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -26,4 +38,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Seru Badge of Resolute]] this item is needed for the collection: [[Sanctus Seru Guard Badges]]

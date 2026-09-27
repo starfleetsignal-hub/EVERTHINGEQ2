@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic II)]]'
+pieces:
+- name: Severed Dark Elf Limb
+  icon: images/Item_4347.png
+- name: Severed Troll Foot
+  icon: images/Item_107.png
+- name: Severed Ogre Head
+  icon: images/Item_2480.png
+- name: Severed Arasai Leg
+  icon: images/Item_4344.png
+- name: Severed Sarnak Tail
+  icon: images/Item_172.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Warewolf Barding of Health]]
+- [[False Shadowmark]] this item is needed for the collection: [[Counterfeit Coins]]

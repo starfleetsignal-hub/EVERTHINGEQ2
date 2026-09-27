@@ -5,6 +5,18 @@ level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 in_game_name: Gleaming Mesh Girdle
 added_in: Chaos Descending
+zone: '[[Doomfire: Elements of Rage (Heroic)]], [[Doomfire: Elements of Rage (Expert)]], [[Doomfire: The Enkindled Towers (Heroic)]], [[Doomfire: The Enkindled Towers (Expert)]], [[Doomfire: Vengeance of Ro (Event Heroic)]], [[Doomfire: Vengeance of Ro (Expert Event)]]'
+pieces:
+- name: Mesh Girdle
+  icon: images/Item_2764.png
+- name: Gleaming Mark
+  icon: images/Item_3831.png
+- name: Charm of Quickening
+  icon: images/Item_2527.png
+- name: Element of Dexterity
+  icon: images/Item_3774.png
+- name: Insignia of Doomfire
+  icon: images/Item_598.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -30,4 +42,7 @@ expansion: Chaos Descending
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Gleaming Mesh Girdle (Armor)|Gleaming Mesh Girdle]]
+- [[Gleaming Mesh Girdle (Collection Item)|Gleaming Mesh Girdle]] this item is needed for the collection: [[Earthen Bile (Collection)|Earthen Bile]]

@@ -5,6 +5,30 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Vesspyr Isles]]'
+collection_type: Year of Discovery
+pieces:
+- name: Fluffy
+  page: Fluffy (Fabled Dragon Entertainment)
+  icon: images/Item_1221.png
+- name: Ball of Yarn
+  page: Ball of Yarn (Fabled Dragon Entertainment)
+  icon: images/Item_748.png
+- name: Rubber Ducky
+  page: Rubber Ducky (Fabled Dragon Entertainment)
+  icon: images/Item_143.png
+- name: Bobbin of Thread
+  page: Bobbin of Thread (Fabled Dragon Entertainment)
+  icon: images/Item_781.png
+- name: Dragon Dice
+  page: Dragon Dice (Fabled Dragon Entertainment)
+  icon: images/Item_1225.png
+- name: Mindy
+  page: Mindy (Fabled Dragon Entertainment)
+  icon: images/Item_2254.png
+- name: Bruno
+  page: Bruno (Fabled Dragon Entertainment)
+  icon: images/Item_2256.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +50,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

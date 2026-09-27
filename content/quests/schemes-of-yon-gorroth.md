@@ -4,6 +4,29 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+zone: '[[Yon Gorroth]]'
+collection_type: Shiny
+pieces:
+- name: Loathsome Scheme
+  icon: images/Item_5942.png
+- name: Calamitous Scheme
+  icon: images/Item_5942.png
+- name: Malignant Scheme
+  icon: images/Item_5942.png
+- name: Wrathful Scheme
+  icon: images/Item_5942.png
+- name: Damnable Scheme
+  icon: images/Item_5942.png
+- name: Beastly Scheme
+  icon: images/Item_5942.png
+- name: Repulsive Scheme
+  icon: images/Item_5942.png
+- name: Spiteful Scheme
+  icon: images/Item_5942.png
+- name: Unpropitious Scheme
+  icon: images/Item_5942.png
+- name: Ominous Scheme
+  icon: images/Item_5942.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +49,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Wistful Voidmetal Greaves]]
+- [[Fragment of Collected Void]]
+- [[Skiterer Ichor]] this item is needed for the collection: [[Jar of Darkened Ichor (Collection)|Jar of Darkened Ichor]]

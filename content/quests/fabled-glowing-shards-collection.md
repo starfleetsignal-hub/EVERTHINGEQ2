@@ -5,6 +5,27 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[Antonica]], [[The Commonlands]]'
+collection_type: Year of Discovery
+pieces:
+- name: glowing shard of abjuration
+  page: Glowing shard of abjuration (Fabled Glowing Shards Collection)
+  icon: images/Item_183.png
+- name: glowing shard of alteration
+  page: Glowing shard of alteration (Fabled Glowing Shards Collection)
+  icon: images/Item_183.png
+- name: glowing shard of channeling
+  page: Glowing shard of channeling (Fabled Glowing Shards Collection)
+  icon: images/Item_183.png
+- name: glowing shard of conjuration
+  page: Glowing shard of conjuration (Fabled Glowing Shards Collection)
+  icon: images/Item_183.png
+- name: glowing shard of divination
+  page: Glowing shard of divination (Fabled Glowing Shards Collection)
+  icon: images/Item_183.png
+- name: glowing shard of evocation
+  page: Glowing shard of evocation (Fabled Glowing Shards Collection)
+  icon: images/Item_183.png
 categories:
 - Antonica Collection Quests
 - Ballads of Zimara Collection Quests
@@ -27,4 +48,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

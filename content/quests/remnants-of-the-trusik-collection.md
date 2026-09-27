@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Remnants of the Trusik
 added_in: Visions of Vetrovia
+pieces:
+- name: Jade Effigy of Trushar
+  icon: images/Item_652.png
+- name: Trusik Ritual Bowl
+  icon: images/Item_872.png
+- name: Trusik Hair Clasp
+  icon: images/Item_992.png
+- name: Trusik Pot Shard
+  icon: images/Item_1202.png
+- name: Illegible Trusik Scroll
+  icon: images/Item_374.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Hackamore of Doublestrike]]
+- [[Remnants of the Trusik (Item)|Remnants of the Trusik]] this item is needed for the collection: [[More Sights and Sounds]]

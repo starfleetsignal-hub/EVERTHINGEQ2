@@ -5,6 +5,23 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Summoned Blaze
 added_in: Planes of Prophecy
+zone: '[[Brackish Vaults (Duo)]], [[Solusek Ro''s Tower: Monolith of Fire (Solo)]], [[Solusek Ro''s Tower: The Obsidian Core (Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Phillumenist's Augments
+  icon: images/Item_2815.png
+- name: Obsidian Glint
+  icon: images/Item_2816.png
+- name: Cinder Glint
+  icon: images/Item_2814.png
+- name: Lava Glint
+  icon: images/Item_2815.png
+- name: Elemental Glint
+  icon: images/Item_2816.png
+- name: Demon Glint
+  icon: images/Item_2815.png
+- name: Phoenix Glint
+  icon: images/Item_2814.png
 categories:
 - Brackish Vaults (Duo) Collection Quests
 - Census Credits
@@ -29,4 +46,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Summoned Blaze (Item)|Summoned Blaze]] this item is needed for the collection: [[Planar Comet Dust (Collection)|Planar Comet Dust]]
+- [[Mace of Summoned Blaze]]

@@ -5,6 +5,15 @@ level: '10'
 added_in: Echoes of Faydwer
 aliases:
 - 'Coin: Felwithe coins collection'
+zone: '[[Greater Faydark]]'
+collection_type: Shiny
+pieces:
+- name: silver coin of felwithe
+  icon: images/Item_1333.png
+- name: platinum coin of felwithe
+  icon: images/Item_1343.png
+- name: gold coin of felwithe
+  icon: images/Item_1338.png
 categories:
 - Census Credits
 - Coin (CQ Category)
@@ -25,4 +34,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[An Ancient Felwithe Scroll]]

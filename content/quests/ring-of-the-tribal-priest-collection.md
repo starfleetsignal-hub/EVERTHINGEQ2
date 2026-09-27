@@ -5,6 +5,29 @@ level: '120'
 timeline: '[[Reign of Shadows Timeline]]'
 in_game_name: Ring of the Tribal Priest
 added_in: Reign of Shadows
+zone: '[[Echo Caverns]], [[Shadeweaver''s Thicket]], [[Savage Weald]]'
+collection_type: Blue
+pieces:
+- name: Rough Electrum Ring
+  icon: images/Item_597.png
+- name: Crudely Cut Sapphire
+  icon: images/Item_1183.png
+- name: Platinum Solder
+  icon: images/Item_706.png
+- name: Malachite Nuggets
+  icon: images/Item_1179.png
+- name: Feathered Tribal Wand
+  icon: images/Item_618.png
+- name: Thin Grimling Skin Sheet
+  icon: images/Item_753.png
+- name: Stone of Curses
+  icon: images/Item_4878.png
+- name: Fires of the Profane
+  icon: images/Item_770.png
+- name: Ghost Powder
+  icon: images/Item_408.png
+- name: Aspect of Spirit
+  icon: images/Item_190.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +52,7 @@ expansion: Reign of Shadows
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Ring of the Tribal Priest (Finger)|Ring of the Tribal Priest]]
+- [[Ring of the Tribal Priest (Collection Item)|Ring of the Tribal Priest]] this item is needed for the collection: [[Relics of the Darkside]]

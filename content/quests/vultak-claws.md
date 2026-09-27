@@ -6,6 +6,17 @@ added_in: Kingdom of Sky
 aliases:
 - 'Claws: Vultak Claws'
 - 'Talons: Vultak Talons'
+zone: '[[Tenebrous Tangle]]'
+collection_type: Shiny
+pieces:
+- name: dingy vultak claw
+  icon: images/Item_167.png
+- name: dusky vultak claw
+  icon: images/Item_167.png
+- name: filthy vultak claw
+  icon: images/Item_167.png
+- name: decayed vultak claw
+  icon: images/Item_167.png
 categories:
 - Census Credits
 - Claws (CQ Category)
@@ -26,4 +37,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A vultak high-chair]]

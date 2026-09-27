@@ -5,6 +5,33 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Merchants' Wishes
 added_in: Renewal of Ro
+zone: '[[Buried Takish''Hiz: Foundation of Knowledge (Solo)]]'
+collection_type: Pages
+pieces:
+- name: Merchants' Wishes - Page 1
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 2
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 3
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 4
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 5
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 6
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 7
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 8
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 9
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 10
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 11
+  icon: images/Item_2180.png
+- name: Merchants' Wishes - Page 12
+  icon: images/Item_2180.png
 categories:
 - 'Buried Takish''Hiz: Foundation of Knowledge (Solo) Collection Quests'
 - Census Credits
@@ -25,4 +52,6 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Merchants' Wishes (House Item)|Merchants' Wishes]]

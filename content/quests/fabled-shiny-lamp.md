@@ -5,6 +5,21 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Sinking Sands]]'
+collection_type: Year of Discovery
+pieces:
+- name: shining lamp handle
+  page: Shining lamp handle (Fabled Shiny Lamp)
+  icon: images/Item_2700.png
+- name: shining left side of a lamp
+  page: Shining left side of a lamp (Fabled Shiny Lamp)
+  icon: images/Item_2700.png
+- name: shining right side of a lamp
+  page: Shining right side of a lamp (Fabled Shiny Lamp)
+  icon: images/Item_2700.png
+- name: shining spout of a lamp
+  page: Shining spout of a lamp (Fabled Shiny Lamp)
+  icon: images/Item_2700.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +41,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

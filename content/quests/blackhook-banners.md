@@ -3,6 +3,22 @@ title: Blackhook Banners
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Frayed Blackhook Banner
+  icon: images/Item_5929.png
+- name: Scorched Blackhook Banner
+  icon: images/Item_5929.png
+- name: Void Touched Blackhook Banner
+  icon: images/Item_5929.png
+  note: no-trade
+- name: Ancient Blackhook Banner
+  icon: images/Item_5929.png
+- name: Battle Worn Blackhook Banner
+  icon: images/Item_5929.png
+- name: Cursed Blackhook Banner
+  icon: images/Item_5929.png
+- name: Sullied Blackhook Banner
+  icon: images/Item_5929.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +39,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Blackhook Darksiege]]
+- [[Fragment of Collected Scars (Treasured) (Version 1)|Fragment of Collected Scars]]
+- [[Token of Escape]] this item is needed for the collection: [[Adventure and Anguish (Collection)|Adventure and Anguish]]

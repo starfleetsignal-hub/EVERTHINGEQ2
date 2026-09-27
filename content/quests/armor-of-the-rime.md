@@ -3,6 +3,18 @@ title: Armor of the Rime
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Hold of Rime: The Ascent]]'
+pieces:
+- name: A Frost-Rimed Ring
+  icon: images/Item_605.png
+- name: A Frost-Rimed Axe
+  icon: images/Item_643.png
+- name: A Frost-Rimed Sword
+  icon: images/Item_686.png
+- name: A Frost-Rimed Helmet
+  icon: images/Item_1625.png
+- name: A Frost-Rimed Breastplate
+  icon: images/Item_1635.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Banner of the Rime]]
+- [[Tales of Velketor's Labyrinth Page 3 (Collection Item, Destiny of Velious)|Tales of Velketor's Labyrinth Page 3]] this item is needed for the collection: [[Tales of Velketor's Labyrinth (Collection, Destiny of Velious)|Tales of Velketor's Labyrinth]]

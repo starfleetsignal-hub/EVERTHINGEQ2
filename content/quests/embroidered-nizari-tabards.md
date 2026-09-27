@@ -3,6 +3,19 @@ title: Embroidered Nizari Tabards
 type: quest
 level: '100'
 added_in: LU101
+zone: '[[The Fabled Nizara, City of the Nayad (Heroic)]]'
+collection_type: Blue
+pieces:
+- name: Unraveled Nizari Tabard
+  icon: images/Item_278.png
+- name: Blood Stained Nizari Tabard
+  icon: images/Item_278.png
+- name: Silver Embroidered Nizari Tabard
+  icon: images/Item_278.png
+- name: Gold Embroidered Nizari Tabard
+  icon: images/Item_278.png
+- name: Decomposing Nizari Tabard
+  icon: images/Item_278.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,3 +42,8 @@ Five set spawn locations in zone:
 - {{waypoint 50, -33, -28}}
 - {{waypoint -3, 2, 10}}
 - {{waypoint 0, -45, 20}}
+
+## Rewards
+
+- [[Adorned Robes of the Nizari'zhi]] this item is needed for the collection: [[Relics of the Nizari Queen]]
+- [[Glorious Nizari Pantaloons]]

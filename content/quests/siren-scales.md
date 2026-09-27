@@ -3,6 +3,21 @@ title: Siren Scales
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Siren''s Grotto: Alluring Embrace (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: Siren Beguiler Scale
+  icon: images/Item_2008.png
+- name: Siren Enticer Scale
+  icon: images/Item_2009.png
+- name: Siren Mistress Scale
+  icon: images/Item_2010.png
+- name: Siren Priestess Scale
+  icon: images/Item_2011.png
+- name: Siren Seductress Scale
+  icon: images/Item_2012.png
+- name: Siren Temptress Scale
+  icon: images/Item_2013.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,3 +41,12 @@ expansion_source: patch
 ---
 
 - The Collected Siren Scales item is part of the [[Collected Alluring Novelties]] collection quest.
+
+## Rewards
+
+- [[Collected Siren Scales]] this item is needed for the collection: [[Collected Alluring Novelties]]
+- one of the following:
+  - [[Siren Scaled Manacle]]
+  - [[Siren Scaled Bangle]]
+  - [[Siren Scaled Bracelet]]
+  - [[Siren Scaled Armlet]]

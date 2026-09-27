@@ -5,6 +5,25 @@ level: '80'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Symbols of the Everdark Ogres'
+zone: '[[The Deep Forge]], [[Najena''s Hollow Tower]]'
+collection_type: Shiny
+pieces:
+- name: Everdark Mark of Protection
+  icon: images/Item_20.png
+- name: Everdark Mark of Service
+  icon: images/Item_20.png
+- name: Everdark Mark of Grush
+  icon: images/Item_20.png
+- name: Everdark Mark of Najena
+  icon: images/Item_20.png
+- name: Everdark Mark of Devotion
+  icon: images/Item_20.png
+- name: Everdark Mark of Death
+  icon: images/Item_20.png
+- name: Everdark Mark of Elements
+  icon: images/Item_20.png
+- name: Everdark Mark of Darkness
+  icon: images/Item_20.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +45,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Warbelt of the Everdark]]
+  - [[Everdark Maul]]

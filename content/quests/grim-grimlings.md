@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Tranquil Sea]]'
+pieces:
+- name: Agitated Spear
+  icon: images/Item_627.png
+- name: Aggravated Mace
+  icon: images/Item_634.png
+- name: Frantic Dagger
+  icon: images/Item_615.png
+- name: Covetous Sword
+  icon: images/Item_616.png
+- name: Avaricious Lance
+  icon: images/Item_626.png
+- name: Acquisitive Hammer
+  icon: images/Item_635.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -26,4 +40,8 @@ expansion: Altar of Malice
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pygmy Bench (Uncommon)|Pygmy Bench]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Karrabukk]] this item is needed for the collection: [[Shields of Tranquil Sea]]

@@ -4,6 +4,21 @@ type: quest
 level: '95'
 timeline: '[[Tears of Veeshan Timeline]]'
 added_in: Tears of Veeshan
+zone: '[[Vesspyr Isles]]'
+collection_type: Shiny
+pieces:
+- name: Silver Dragonfly
+  icon: images/Item_1922.png
+- name: Green Dragonfly
+  icon: images/Item_1923.png
+- name: Blue Dragonfly
+  icon: images/Item_1924.png
+- name: Yellow Dragonfly
+  icon: images/Item_1926.png
+- name: Black Dragonfly
+  icon: images/Item_1927.png
+- name: Olive Dragonfly
+  icon: images/Item_1928.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,4 +42,10 @@ expansion: Tears of Veeshan
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Small Stack of Draconic Etyma]]
+- [[Jortreva's Dragonfly]] this item is needed for the collection: [[Visionary Relief]]
+- One of:
+  - [[Vesspyr Citizen's Red Tunic]]
+  - [[Steel Buckler of the Highguard]]

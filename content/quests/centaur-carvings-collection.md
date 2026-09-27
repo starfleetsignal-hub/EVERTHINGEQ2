@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Centaur Carvings
 added_in: Visions of Vetrovia
+pieces:
+- name: Carven Quellious Symbol
+  icon: images/Item_878.png
+- name: Jointed Wooden Doll
+  icon: images/Item_2254.png
+- name: Engraved Mirror Frame
+  icon: images/Item_996.png
+- name: Bas-relief Chest Lid
+  icon: images/Item_566.png
+- name: Carved Gate-Post
+  icon: images/Item_840.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Karuupa Barding of Health]]
+- [[Centaur Carvings (Item)|Centaur Carvings]] this item is needed for the collection: [[More Sights and Sounds]]

@@ -5,6 +5,29 @@ level: '62'
 added_in: Fallen Dynasty
 aliases:
 - 'Tome: Chronicle of Gromok, Vol. I'
+zone: '[[The Forsaken City]]'
+collection_type: Pages
+pieces:
+- name: Chronicle of Gromok, Vol. I, page 1
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Chronicle of Gromok, Vol. I, page 2
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Chronicle of Gromok, Vol. I, page 3
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Chronicle of Gromok, Vol. I, page 4
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Chronicle of Gromok, Vol. I, page 5
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
+- name: Chronicle of Gromok, Vol. I, page 6
+  icon: images/Item_2181.png
+- name: Chronicle of Gromok, Vol. I, page 7
+  icon: images/Item_2181.png
+  note: Also available as a corpse drop
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +46,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Chronicle of Gromok, Volume I]]

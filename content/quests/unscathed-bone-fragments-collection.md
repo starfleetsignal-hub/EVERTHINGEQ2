@@ -7,6 +7,45 @@ added_in: Shattered Lands
 aliases:
 - 'Bone Fragment: unscathed bone fragments collection'
 - Unscathed Bone Fragments
+zone: '[[Stormhold]]'
+pieces:
+- name: unscathed barbarian bone fragment
+  icon: images/Item_322.png
+- name: unscathed high elf bone fragment
+  icon: images/Item_322.png
+- name: unscathed human bone fragment
+  icon: images/Item_322.png
+- name: unscathed iksar bone fragment
+  icon: images/Item_322.png
+- name: unscathed kerra bone fragment
+  icon: images/Item_322.png
+- name: unscathed ogre bone fragment
+  icon: images/Item_322.png
+- name: unscathed orc bone fragment
+  icon: images/Item_322.png
+- name: unscathed ratonga bone fragment
+  icon: images/Item_322.png
+- name: unscathed troll bone fragment
+  icon: images/Item_322.png
+- name: unscathed wood elf bone fragment
+  icon: images/Item_322.png
+- name: unscathed dark elf bone fragment
+  icon: images/Item_322.png
+- name: unscathed dwarf bone fragment
+  icon: images/Item_322.png
+- name: unscathed erudite bone fragment
+  icon: images/Item_322.png
+- name: unscathed froglok bone fragment
+  icon: images/Item_322.png
+- name: unscathed gnoll bone fragment
+  page: Unscathed gnoll bone fragment (bone fragments collection)
+  icon: images/Item_322.png
+- name: unscathed gnome bone fragment
+  icon: images/Item_322.png
+- name: unscathed half elf bone fragment
+  icon: images/Item_322.png
+- name: unscathed halfling bone fragment
+  icon: images/Item_322.png
 categories:
 - Bone Fragment (CQ Category)
 - Census Credits
@@ -27,4 +66,6 @@ expansion: Shattered Lands
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Unscathed Bone Necklace]]

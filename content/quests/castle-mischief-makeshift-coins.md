@@ -4,6 +4,20 @@ type: quest
 level: '110'
 timeline: '[[Chaos Descending Timeline]]'
 added_in: LU109
+pieces:
+- name: Makeshift Coin of the Hand
+  icon: images/Item_3156.png
+  note: no-trade
+- name: Makeshift Coin of the Ocean
+  icon: images/Item_3157.png
+- name: Makeshift Coin of the Wind
+  icon: images/Item_3158.png
+- name: Makeshift Coin of the Storm
+  icon: images/Item_3159.png
+- name: Makeshift Coin of the Earth
+  icon: images/Item_3160.png
+- name: Makeshift Coin of the Clouds
+  icon: images/Item_3161.png
 categories:
 - Census Credits
 - Chaos Descending (CQ Category)
@@ -25,4 +39,7 @@ expansion: Chaos Descending
 expansion_source: timeline
 ---
 
+## Rewards
 
+- [[Makeshift Jade Ring]]
+- [[Bristlebane's Prized Coin]] this item is needed for the collection: [[Bristlebane's Personal Effects]]

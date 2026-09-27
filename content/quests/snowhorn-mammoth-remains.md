@@ -3,6 +3,18 @@ title: Snowhorn Mammoth Remains
 type: quest
 level: '130'
 added_in: Scars of Destruction
+pieces:
+- name: Worn Mammoth Tusk
+  icon: images/Item_97.png
+- name: Fractured Mammoth Skull
+  icon: images/Item_5727.png
+- name: Frozen Mammoth Hoof
+  icon: images/Item_5745.png
+- name: Ivory Mammoth Tooth
+  icon: images/Item_5729.png
+- name: Weathered Mammoth Tailbone
+  icon: images/Item_5740.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,8 @@ expansion: Scars of Destruction
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Snowhorn Mammoth Plushie]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Kromzek Signet of Conquering]] this item is needed for the collection: [[Blood and Abandonment (Collection)|Blood and Abandonment]]

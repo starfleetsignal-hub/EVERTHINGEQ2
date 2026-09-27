@@ -4,6 +4,24 @@ type: quest
 level: '120'
 timeline: '[[Blood of Luclin Timeline]]'
 added_in: Blood of Luclin
+zone: '[[Wracklands]]'
+collection_type: Blue
+pieces:
+- name: Hardened Bone Spear
+  icon: images/Item_1683.png
+  note: potential location around {{waypoint 300, 7, -1}}
+- name: Grey Flesh Harness
+  icon: images/Item_2128.png
+  note: potential location around {{waypoint 474, 94, 687}}
+- name: Defiant Rapier
+  icon: images/Item_1680.png
+  note: potential location around {{waypoint 301, 8, 0}}
+- name: Bone Necklace
+  page: Bone Necklace (The Grey Artifacts)
+  icon: images/Item_2979.png
+- name: Polished Stone Staff
+  icon: images/Item_2157.png
+  note: no-trade - potential locations around {{waypoint 351, 3, 25}} or in the water at {{waypoint 150, -15, 533}}
 categories:
 - Blood of Luclin (CQ Category)
 - Blood of Luclin Collection Quests
@@ -24,4 +42,6 @@ expansion: Blood of Luclin
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Stonegrabber Gem Dust]] this item is needed for the collection: [[Artifacts of the Blinding]]

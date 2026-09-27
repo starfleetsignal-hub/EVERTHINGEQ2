@@ -3,6 +3,20 @@ title: Cult of Vul Orders
 type: quest
 level: '130'
 added_in: LU128
+pieces:
+- name: Damp Orders
+  icon: images/Item_5989.png
+- name: Ink-Stained Orders
+  icon: images/Item_5989.png
+- name: Blackened Orders
+  icon: images/Item_5989.png
+- name: Muddy Orders
+  icon: images/Item_5989.png
+- name: Wrinkled Orders
+  icon: images/Item_5989.png
+- name: Gold-Leafed Orders
+  icon: images/Item_5989.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,8 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 10x  [[Velium Drachma]]
+- [[Fragment of Collected Scars (Treasured) (Version 2)|Fragment of Collected Scars]]
+- [[Coalesced Coal Clumps]] this item is needed for the collection: [[Spiral of Vul]]

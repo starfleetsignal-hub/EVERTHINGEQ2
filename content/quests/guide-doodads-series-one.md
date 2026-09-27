@@ -3,6 +3,16 @@ title: Guide Doodads Series One
 type: quest
 level: '50'
 added_in: LU56
+collection_type: Other
+pieces:
+- name: Akarius' Tall Tales of Giant Slaying
+  icon: images/Item_2709.png
+- name: Platter of Grajar's Cookies
+  icon: images/Item_2556.png
+- name: Aorm's Aged Brew
+  icon: images/Item_314.png
+- name: Heirloom's Heavy Duty Toe Guard
+  icon: images/Item_527.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +32,8 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Boots of the Hold]] (blue)
+  - [[Chain Boots of the Hold]] (pink)

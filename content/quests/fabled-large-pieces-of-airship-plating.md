@@ -5,6 +5,24 @@ level: '20'
 added_in: Ballads of Zimara
 events:
 - Year of Darkpaw
+zone: '[[The Barren Sky]]'
+collection_type: Year of Discovery
+pieces:
+- name: large dusky piece of airship plating
+  page: Large dusky piece of airship plating (Fabled Large Pieces of Airship Plating)
+  icon: images/Item_734.png
+- name: large pristine piece of airship plating
+  page: Large pristine piece of airship plating (Fabled Large Pieces of Airship Plating)
+  icon: images/Item_735.png
+- name: large shining piece of airship plating
+  page: Large shining piece of airship plating (Fabled Large Pieces of Airship Plating)
+  icon: images/Item_731.png
+- name: large weathered piece of airship plating
+  page: Large weathered piece of airship plating (Fabled Large Pieces of Airship Plating)
+  icon: images/Item_733.png
+- name: large worn piece of airship plating
+  page: Large worn piece of airship plating (Fabled Large Pieces of Airship Plating)
+  icon: images/Item_732.png
 categories:
 - Ballads of Zimara Collection Quests
 - Census Credits
@@ -26,4 +44,6 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- 15x  [[Year of Darkpaw Doubloon]]

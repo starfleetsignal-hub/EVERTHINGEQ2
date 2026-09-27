@@ -4,6 +4,33 @@ type: quest
 level: '50'
 in_game_name: From Daughter to Father
 added_in: Echoes of Faydwer
+zone: '[[The Lesser Faydark]]'
+collection_type: Corpse
+pieces:
+- name: From Daughter to Father - Page 1
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 2
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 3
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 4
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 5
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 6
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 7
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 8
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 9
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 10
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 11
+  icon: images/Item_2180.png
+- name: From Daughter to Father - Page 12
+  icon: images/Item_2180.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +51,6 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[From Daughter to Father (Item)|From Daughter to Father]]

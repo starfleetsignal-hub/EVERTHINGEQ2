@@ -5,6 +5,20 @@ level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 in_game_name: Scrambled Tomes
 added_in: Renewal of Ro
+zone: '[[Buried Takish''Hiz: Foundation of Knowledge (Solo)]], [[Buried Takish''Hiz: Terrene Threshold (Signature)]], [[Buried Takish''Hiz: The Sacred Gift (Signature)]]'
+pieces:
+- name: Ascent of the Misery
+  icon: images/Item_2690.png
+- name: Bubonian Rock
+  icon: images/Item_2690.png
+- name: Flight of the Bacterium
+  icon: images/Item_2690.png
+- name: Of Sun and Storm
+  icon: images/Item_2690.png
+- name: Roots of Arcane
+  icon: images/Item_2690.png
+- name: Survivors of the Aviaks
+  icon: images/Item_2690.png
 categories:
 - 'Buried Takish''Hiz: Foundation of Knowledge (Solo) Collection Quests'
 - 'Buried Takish''Hiz: Terrene Threshold (Signature) Collection Quests'
@@ -27,4 +41,7 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Hizite Barding of Bolstering]]
+- [[Scrambled Tomes (Collection Item)|Scrambled Tomes]] this item is needed for the collection: [[Amok in the Desert (Collection)|Amok in the Desert]]

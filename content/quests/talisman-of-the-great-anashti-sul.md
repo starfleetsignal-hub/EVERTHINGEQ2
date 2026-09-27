@@ -5,6 +5,29 @@ level: '82'
 added_in: The Shadow Odyssey
 aliases:
 - 'Shadow Odyssey: Talisman of the Great Anashti Sul'
+zone: '[[Obelisk of Ahkzul]], [[Anchor of Bazzul]], [[The Palace of Ferzhul]]'
+collection_type: Hidden
+pieces:
+- name: Talisman of Ahk
+  icon: images/Item_2689.png
+- name: Talisman of Ezhak
+  icon: images/Item_2689.png
+- name: Talisman of Fyr
+  icon: images/Item_2689.png
+- name: Talisman of Orus
+  icon: images/Item_2689.png
+- name: Talisman of Sul
+  icon: images/Item_2689.png
+- name: Talisman of Xyx
+  icon: images/Item_2689.png
+- name: Talisman of Yeaz
+  icon: images/Item_2689.png
+- name: Talisman of Waz
+  icon: images/Item_2689.png
+- name: Talisman of Uzh
+  icon: images/Item_2689.png
+- name: Talisman of Phar
+  icon: images/Item_2689.png
 categories:
 - Anchor of Bazzul Collection Quests
 - Census Credits
@@ -29,4 +52,8 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Band of the Voidshadow]]
+  - [[Ring of the Voidshadow]]

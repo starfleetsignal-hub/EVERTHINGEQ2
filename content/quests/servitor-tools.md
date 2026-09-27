@@ -4,6 +4,20 @@ type: quest
 level: '135'
 timeline: '[[Revelations of Malice Timeline]]'
 added_in: Revelations of Malice
+pieces:
+- name: Servitor Stone Hammer
+  icon: images/Item_2716.png
+  note: no-trade
+- name: Laborer Cutting Chisel
+  icon: images/Item_24.png
+- name: Toiler Work Apron
+  icon: images/Item_2762.png
+- name: Drudge Stone Hook
+  icon: images/Item_2338.png
+- name: Thrall Tool Belt
+  icon: images/Item_2768.png
+- name: Underling Grip Gloves
+  icon: images/Item_2740.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +36,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fragment of Collected Void]]
+- [[Stonefang's Guard Scale]] this item is needed for the collection: [[Betrayal of Malice]]

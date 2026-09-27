@@ -4,6 +4,20 @@ type: quest
 level: '100'
 timeline: '[[Altar of Malice Timeline]]'
 added_in: Altar of Malice
+zone: '[[Phantom Sea]]'
+pieces:
+- name: Kithicor Castor Bean
+  icon: images/Item_2307.png
+- name: Tranquil Oleander
+  icon: images/Item_1988.png
+- name: Dark Snakeroot
+  icon: images/Item_198.png
+- name: Purple Bladderwort
+  icon: images/Item_1956.png
+- name: Dshinn Hemlock
+  icon: images/Item_822.png
+- name: Phantom Monks Hood
+  icon: images/Item_1983.png
 categories:
 - Altar of Malice (CQ Category)
 - Altar of Malice Collection Quests
@@ -27,3 +41,9 @@ expansion_source: patch
 ---
 
 All these collection members may be found on the *[[Grim Shales]]* island.
+
+## Rewards
+
+- [[Woven Basket of Beans]]
+- [[Small Stack of Far Seas Ferrin]]
+- [[Shield of Bloody Battlegrounds]] this item is needed for the collection: [[Shields of Phantom Sea]]

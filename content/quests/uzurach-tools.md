@@ -4,6 +4,14 @@ type: quest
 level: '135'
 timeline: '[[Revelations of Malice Timeline]]'
 added_in: Revelations of Malice
+pieces:
+- name: Protectarach Guard Buckle
+  note: no-trade
+- name: Bleederach Blood Pouch
+- name: Protectarach Kill Ledger
+- name: Bleederach Butcher Gloves
+- name: Bleederach Gutting Knife
+- name: Bleederach Meat Satchel
 categories:
 - Collection Quests
 - Collections needing rewards

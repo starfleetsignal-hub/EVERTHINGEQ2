@@ -5,6 +5,22 @@ level: '82'
 added_in: Rise of Kunark
 aliases:
 - 'Kunark: Devourer Teeth'
+zone: '[[Jarsath Wastes]]'
+collection_type: Shiny
+pieces:
+- name: Broken Devourer Tooth
+  icon: images/Item_3025.png
+- name: Jagged Devourer Tooth
+  icon: images/Item_3030.png
+- name: Polished Devourer Tooth
+  icon: images/Item_3029.png
+- name: Sharp Devourer Tooth
+  icon: images/Item_3024.png
+  note: ''
+- name: Smashed Devourer Tooth
+  icon: images/Item_3027.png
+- name: Worn Devourer Tooth
+  icon: images/Item_3028.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +41,8 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Gnasher Toothed Hoop]]
+  - [[Gnasher Toothed Torque]]

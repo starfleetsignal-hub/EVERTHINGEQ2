@@ -4,6 +4,26 @@ type: quest
 level: '100'
 timeline: '[[Kunark Ascending Timeline]]'
 added_in: Kunark Ascending
+zone: '[[Phantom Sea]]'
+pieces:
+- name: Tattered Fury's Orison
+  icon: images/Item_2179.png
+  note: no-trade
+- name: Stained Fury's Orison
+  icon: images/Item_416.png
+  note: no-trade
+- name: Ripped Fury's Orison
+  icon: images/Item_2180.png
+  note: no-trade
+- name: Soiled Fury's Orison
+  icon: images/Item_744.png
+  note: no-trade
+- name: Burnt Fury's Orison
+  icon: images/Item_141.png
+  note: no-trade
+- name: Faded Fury's Orison
+  icon: images/Item_372.png
+  note: no-trade
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +45,4 @@ expansion: Kunark Ascending
 expansion_source: patch
 ---
 
-
+## Rewards

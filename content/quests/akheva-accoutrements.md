@@ -3,6 +3,20 @@ title: Akheva Accoutrements
 type: quest
 level: '135'
 added_in: Revelations of Malice
+pieces:
+- name: Akheva Ritual Binding
+  icon: images/Item_737.png
+  note: no-trade
+- name: Akheva Arcane Focus
+  icon: images/Item_879.png
+- name: Akheva Sigil Band
+  icon: images/Item_31.png
+- name: Akheva Channeling Band
+  icon: images/Item_584.png
+- name: Akheva Ceremonial Clasp
+  icon: images/Item_587.png
+- name: Akheva Focus Pendant
+  icon: images/Item_576.png
 categories:
 - Census Credits
 - Collection Quests
@@ -21,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Fragment of Collected Void]]
+- [[Xin'Kasas' Overseer Hood]] this item is needed for the collection: [[Betrayal of Malice]]

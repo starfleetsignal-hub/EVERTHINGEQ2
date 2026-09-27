@@ -3,6 +3,24 @@ title: Kromzek Medals Collection
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Kael Drakkel]]'
+pieces:
+- name: Kromzek Medal of the Vindicator
+  icon: images/Item_1248.png
+- name: Kromzek Medal of the Dragon Hunter
+  icon: images/Item_1259.png
+- name: Kromzek Medal of the Coldain Hunter
+  icon: images/Item_1263.png
+- name: Kromzek Medal of the Adjutant
+  icon: images/Item_1279.png
+- name: Kromzek Medal of the Frost Sentinel
+  icon: images/Item_1276.png
+- name: Kromzek Medal of the Blizzardwalker
+  icon: images/Item_1292.png
+- name: Kromzek Medal of the Stormcaller
+  icon: images/Item_1302.png
+- name: Kromzek Medal of the King
+  icon: images/Item_1305.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +42,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Kromzek Soldiers' Standard]]
+- [[Tales of Kael Drakkel Page 1 (Tales of Kael Drakkel)|Tales of Kael Drakkel Page 1]] this item is needed for the collection: [[Tales of Kael Drakkel (Collection)|Tales of Kael Drakkel]]

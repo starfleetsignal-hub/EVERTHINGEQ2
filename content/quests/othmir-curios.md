@@ -3,6 +3,22 @@ title: Othmir Curios
 type: quest
 level: '90'
 added_in: Destiny of Velious
+zone: '[[Great Divide]]'
+pieces:
+- name: Othmir Papoose
+  icon: images/Item_399.png
+- name: Othmir Fishtrap
+  icon: images/Item_2251.png
+- name: Othmir Polished Shell
+  icon: images/Item_201.png
+- name: Othmir Bone Pick
+  icon: images/Item_322.png
+- name: Othmir Spirit Drum
+  icon: images/Item_987.png
+- name: Othmir Bead Adorned Obi
+  icon: images/Item_961.png
+- name: Othmir Belt Pouch
+  icon: images/Item_404.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +40,7 @@ expansion: Destiny of Velious
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Nipik's Memorial]]
+- [[Tales of the Great Divide Page 5]] this item is needed for the collection: [[Tales of the Great Divide (Collection)|Tales of the Great Divide]]

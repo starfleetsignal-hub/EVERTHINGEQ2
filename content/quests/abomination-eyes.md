@@ -5,6 +5,21 @@ level: '70'
 added_in: Kingdom of Sky
 aliases:
 - 'Eyes: Abomination Eyes'
+zone: '[[The Bonemire]]'
+collection_type: Shiny
+pieces:
+- name: arid abomination eye
+  icon: images/Item_2226.png
+- name: blemished abomination eye
+  icon: images/Item_2226.png
+- name: decrepit abomination eye
+  icon: images/Item_2226.png
+- name: petrified abomination eye
+  icon: images/Item_2226.png
+- name: shriveled abomination eye
+  icon: images/Item_2226.png
+- name: weathered abomination eye
+  icon: images/Item_2226.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +40,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[A tiny magical gazer plushie]]

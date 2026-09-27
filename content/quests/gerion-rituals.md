@@ -4,6 +4,21 @@ type: quest
 level: '135'
 timeline: '[[Rage of Cthurath Timeline]]'
 added_in: Rage of Cthurath
+collection_type: Shiny
+pieces:
+- name: Ritual of the Soulbleeder
+  icon: images/Item_4609.png
+- name: Ritual of the Exhumed
+  icon: images/Item_4609.png
+- name: Ritual of Domination
+  icon: images/Item_4609.png
+  note: no-trade
+- name: Ritual of Servitude
+  icon: images/Item_4609.png
+- name: Ritual of Fear
+  icon: images/Item_4609.png
+- name: Ritual of Eternity
+  icon: images/Item_4609.png
 categories:
 - Census Credits
 - Collection Quests
@@ -29,4 +44,8 @@ expansion: Rage of Cthurath
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Lucanic Partisan]]
+- [[Fragment of Collected Void]]
+- [[Crate of Untold Riches]] this item is needed for the collection: [[Untold Riches (Collection)|Untold Riches]]

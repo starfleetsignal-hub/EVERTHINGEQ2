@@ -5,6 +5,22 @@ level: '110'
 timeline: '[[Planes of Prophecy Timeline]]'
 in_game_name: Automatonic Figurine
 added_in: Planes of Prophecy
+zone: '[[Plane of Innovation: Gears in the Machine (Expert)]], [[Plane of Innovation: Gears in the Machine (Heroic)]], [[Plane of Innovation: Masks of the Marvelous (Expert)]], [[Plane of Innovation: Masks of the Marvelous (Heroic)]], [[Plane of Innovation: Parts not Included (Event Heroic)]], [[Plane of Innovation: Parts not Included (Expert Event)]]'
+pieces:
+- name: Automatonic Schemes
+  icon: images/Item_3164.png
+- name: Adornment Sequence
+  icon: images/Item_3164.png
+- name: Sentinel Sequence
+  icon: images/Item_3164.png
+- name: Maintenance Sequence
+  icon: images/Item_3164.png
+- name: Planar Production Sequence
+  icon: images/Item_3164.png
+- name: Overpatrol Sequence
+  icon: images/Item_3164.png
+- name: Intermodal Sequence
+  icon: images/Item_3164.png
 categories:
 - Census Credits
 - Collection Quests
@@ -31,4 +47,7 @@ expansion: Planes of Prophecy
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Automatonic Figurine (Item)|Automatonic Figurine]] this item is needed for the collection: [[Astral Mapping Device (Collection)|Astral Mapping Device]]
+- [[Automatonic Finger Ring]]

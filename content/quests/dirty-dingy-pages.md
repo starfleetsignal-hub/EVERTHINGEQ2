@@ -5,6 +5,29 @@ level: '82'
 added_in: LU46
 aliases:
 - 'Runnyeye: The Gathering: Dirty Dingy Pages'
+zone: '[[Runnyeye: The Gathering]]'
+collection_type: Pages
+pieces:
+- name: Dirty Dingy Page 1
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 2
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 3
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 4
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 5
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 6
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 7
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 8
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 9
+  icon: images/Item_2181.png
+- name: Dirty Dingy Page 10
+  icon: images/Item_2181.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +48,7 @@ expansion: Rise of Kunark
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Naggresh da Hero]]
+- 1p 12g 9s

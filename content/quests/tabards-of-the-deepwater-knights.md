@@ -3,6 +3,20 @@ title: Tabards of the Deepwater Knights
 type: quest
 level: '90'
 added_in: Sentinel's Fate
+zone: '[[The Stonebrunt Highlands]]'
+pieces:
+- name: Prexian Tabard of the Tide
+  icon: images/Item_278.png
+- name: Prexian Tabard of the Sailor
+  icon: images/Item_278.png
+- name: Prexian Tabard of the Tempest
+  icon: images/Item_278.png
+- name: Prexian Tabard of the Fisherman
+  icon: images/Item_278.png
+- name: Prexian Tabard of the Waves
+  icon: images/Item_278.png
+- name: Prexian Tabard of the Sea Captain
+  icon: images/Item_278.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,3 +39,8 @@ expansion_source: patch
 ---
 
 - Spawn areas: [[The Marred Plateau]], [[Erudin Gardens]]
+
+## Rewards
+
+- [[A Ca'Na clay pot]]
+- [[Kaborite Crystals: Deepwater]] this item is needed for the collection: [[Stonebrunt Highlands: Kaborite Crystals]]

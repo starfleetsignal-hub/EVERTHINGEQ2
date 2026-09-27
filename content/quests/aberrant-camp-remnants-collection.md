@@ -5,6 +5,21 @@ level: '100'
 timeline: '[[Terrors of Thalumbra Timeline]]'
 in_game_name: Aberrant Camp Remnants
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+collection_type: Shiny
+pieces:
+- name: Aberrant Ritual Dagger
+  icon: images/Item_1662.png
+- name: Aberrant Travel Rations
+  icon: images/Item_2576.png
+- name: Aberrant Messenger Pouch
+  icon: images/Item_398.png
+- name: Aberrant Assault Axe
+  icon: images/Item_1642.png
+- name: Aberrant Supply Pouch
+  icon: images/Item_399.png
+- name: Aberrant Drinking Flask
+  icon: images/Item_406.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +42,11 @@ expansion_source: patch
 ---
 
 The collectibles for this quest can be found in the outdoor zone "Thalumbra, the Ever Deep", usually around the areas marked on the map called [[Aberrant Isle]] {{waypoint 146.60, 31.10, -854.40}} and [[Dark Shoals]] {{waypoint -61.69, 52.65, -591.17}}.
+
+## Rewards
+
+- one of the following:
+  - [[Intrusive Linked Shoulders]]
+  - [[Intrusive Stitched Shroud]]
+  - [[Intrusive Tanned Shoulders]]
+  - [[Intrusive Polished Spaulders]]

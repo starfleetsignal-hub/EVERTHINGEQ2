@@ -5,6 +5,24 @@ level: '60'
 added_in: Kingdom of Sky
 aliases:
 - 'Teeth: Basilisk Teeth'
+zone: '[[Tenebrous Tangle]]'
+pieces:
+- name: broken basilisk incisor
+  icon: images/Item_102.png
+- name: chipped basilisk incisor
+  icon: images/Item_102.png
+- name: polished basilisk incisor
+  icon: images/Item_102.png
+- name: worn basilisk incisor
+  icon: images/Item_102.png
+- name: broken basilisk molar
+  icon: images/Item_102.png
+- name: chipped basilisk molar
+  icon: images/Item_102.png
+- name: polished basilisk molar
+  icon: images/Item_102.png
+- name: worn basilisk molar
+  icon: images/Item_102.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +43,6 @@ expansion: Kingdom of Sky
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Hatch Gorg Egg (Spell Scroll)|Hatch Gorg Egg]]

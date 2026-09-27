@@ -4,6 +4,18 @@ type: quest
 level: '125'
 timeline: '[[Visions of Vetrovia Timeline]]'
 added_in: Visions of Vetrovia
+zone: '[[The Merchant''s Den (Heroic I)]]'
+pieces:
+- name: Misappropriated Necrosplicer Hat
+  icon: images/Item_2854.png
+- name: Pinched Diabolist Hat
+  icon: images/Item_2860.png
+- name: Purloined Frightress Hat
+  icon: images/Item_2860.png
+- name: Bagged Blightress Hat
+  icon: images/Item_2854.png
+- name: Snatched Bewitcheress Hat
+  icon: images/Item_2854.png
 categories:
 - Census Credits
 - Collection Quests
@@ -24,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Glintswift Saddle of Parry]]
+- [[Feigned Obol Obscura]] this item is needed for the collection: [[Counterfeit Coins]]

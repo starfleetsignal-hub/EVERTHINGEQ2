@@ -5,6 +5,29 @@ level: '35'
 added_in: Echoes of Faydwer
 aliases:
 - 'Faydwer Bones: Fae Bones'
+zone: '[[Butcherblock Mountains]], [[Greater Faydark]], [[Loping Plains]], [[Steamfont Mountains]], [[The Lesser Faydark]]'
+collection_type: Shiny
+pieces:
+- name: ancient Fae bone
+  icon: images/Item_322.png
+- name: bloody Fae bone
+  icon: images/Item_322.png
+- name: cracked Fae bone
+  icon: images/Item_322.png
+- name: decayed Fae bone
+  icon: images/Item_322.png
+- name: dirty Fae bone
+  icon: images/Item_322.png
+- name: diseased Fae bone
+  icon: images/Item_322.png
+- name: fossilized Fae bone
+  icon: images/Item_322.png
+- name: pristine Fae bone
+  icon: images/Item_322.png
+- name: scratched Fae bone
+  icon: images/Item_322.png
+- name: shattered Fae bone
+  icon: images/Item_322.png
 categories:
 - Butcherblock Mountains Collection Quests
 - Census Credits
@@ -29,4 +52,8 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Fae Bone Bangle (Version 2)|Fae Bone Bangle]]
+  - [[Fae Bone Bracelet (Version 2)|Fae Bone Bracelet]]

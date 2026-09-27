@@ -3,6 +3,16 @@ title: Guide Dolls Series 01
 type: quest
 level: '50'
 added_in: LU56
+collection_type: Other
+pieces:
+- name: Norrathian Kellin Doll
+  icon: images/Item_2254.png
+- name: Norrathian Hrathnir Doll
+  icon: images/Item_2253.png
+- name: Norrathian Ainure Doll
+  icon: images/Item_2254.png
+- name: Norrathian Rynara Doll
+  icon: images/Item_2254.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +32,8 @@ expansion: Sentinel's Fate
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Coif of the Hold]] (blue)
+  - [[Hood of the Hold]] (pink)

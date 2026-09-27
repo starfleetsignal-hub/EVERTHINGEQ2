@@ -4,6 +4,28 @@ type: quest
 level: '130'
 timeline: '[[Ballads of Zimara Timeline]]'
 added_in: Ballads of Zimara
+zone: '[[Aether Wroughtlands]]'
+pieces:
+- name: Polished Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Tapered Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Glossy Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Clear Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Trillion Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Round Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Opaque Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Murky Emerald Gemstone
+  icon: images/Item_4789.png
+- name: Powdered Emerald Gemstone
+  icon: images/Item_4945.png
+- name: Oval Emerald Gemstone
+  icon: images/Item_4789.png
 categories:
 - Aether Wroughtlands Collection Quests
 - Ballads of Zimara (CQ Category)
@@ -24,4 +46,8 @@ expansion: Ballads of Zimara
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Bulbous Hooluk Plant]]
+- [[Fragment of Collected Ballads (normal)|Fragment of Collected Ballads]]
+- [[Palladium Ingot]] this item is needed for the collection: [[Wroughtlands Ingots]]

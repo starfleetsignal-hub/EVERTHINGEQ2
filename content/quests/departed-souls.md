@@ -4,6 +4,18 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+collection_type: Shiny
+pieces:
+- name: Bloodcovet Departed Soul
+  icon: images/Item_2509.png
+- name: Trueborn Departed Soul
+  icon: images/Item_2510.png
+- name: Drelock Departed Soul
+  icon: images/Item_2513.png
+- name: Marrow Departed Soul
+  icon: images/Item_2511.png
+- name: D'Vinnian Departed Soul
+  icon: images/Item_2512.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +35,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Scepter of the Klakdyne Eliminator]] this item is needed for the collection: [[King Klak'Anon Scepters]]

@@ -4,6 +4,20 @@ type: quest
 level: '100'
 in_game_name: Rusted Battle Relics
 added_in: Terrors of Thalumbra
+zone: '[[Thalumbra, the Ever Deep]]'
+pieces:
+- name: Rusted Roekillik Dagger
+  icon: images/Item_2372.png
+- name: Rusted Goblin Short Sword
+  icon: images/Item_1663.png
+- name: Rusted Teir'Dal Ceremonial Sai
+  icon: images/Item_2369.png
+- name: Rusted Dwarven Battle Axe
+  icon: images/Item_3736.png
+- name: Rusted Gnemlin Mace
+  icon: images/Item_1654.png
+- name: Rusted Dhalgar Shield
+  icon: images/Item_13.png
 categories:
 - Census Credits
 - Collection Quests
@@ -27,3 +41,8 @@ expansion_source: patch
 ---
 
 Collection items may be found at [[Bluefist Battlefield]]
+
+## Rewards
+
+- [[Faded Banner of Thalumbra]] for the [[Banners of Thalumbra]] collection
+- [[Umbrite Medal of Valor]]

@@ -3,6 +3,17 @@ title: Sea Star Collection
 type: quest
 level: '95'
 added_in: LU66
+zone: '[[Cobalt Scar]]'
+collection_type: Fishingcs
+pieces:
+- name: Orange Sea Star
+  icon: images/Item_2079.png
+- name: Yellow Sea Star
+  icon: images/Item_2080.png
+- name: Blue Sea Star
+  icon: images/Item_2081.png
+- name: Green Sea Star
+  icon: images/Item_2082.png
 categories:
 - Census Credits
 - Cobalt Scar (CQ Category)
@@ -25,3 +36,8 @@ expansion_source: patch
 ---
 
 The members of this collection are obtained by fishing in [[Cobalt Scar]]
+
+## Rewards
+
+- [[Deep Sea Koi Catch]]
+- [[Collected Sea Stars]] this item is needed for the collection: [[Ocean Creatures Collection]]

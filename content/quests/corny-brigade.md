@@ -4,6 +4,25 @@ type: quest
 level: '125'
 timeline: '[[Renewal of Ro Timeline]]'
 added_in: Renewal of Ro
+pieces:
+- name: Lieutenant Colonel Flint
+  icon: images/Item_5442.png
+- name: Major Dent
+  icon: images/Item_5442.png
+- name: Captain Popcorn
+  icon: images/Item_5442.png
+- name: Sergeant Major Sweet
+  icon: images/Item_5442.png
+- name: Sergeant Pod
+  icon: images/Item_5442.png
+- name: Corporal Flour
+  icon: images/Item_5442.png
+- name: Private Blue
+  icon: images/Item_5442.png
+- name: Private Red
+  icon: images/Item_5442.png
+- name: Private White
+  icon: images/Item_5442.png
 categories:
 - Census Credits
 - Collection Quests
@@ -23,4 +42,6 @@ expansion: Renewal of Ro
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Colonel Cornelius Gold]]

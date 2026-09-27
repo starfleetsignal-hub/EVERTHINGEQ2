@@ -3,6 +3,21 @@ title: Remains of the Offerings
 type: quest
 level: '95'
 added_in: Chains of Eternity
+zone: '[[Temple of the Faceless (Heroic)]]'
+collection_type: Shiny
+pieces:
+- name: A Tsol Ew Claw
+  icon: images/Item_2817.png
+- name: A Tsol Ew Fang
+  icon: images/Item_137.png
+- name: A Tsol Ew Headdress
+  icon: images/Item_2104.png
+- name: A Tsol Ew Mace
+  icon: images/Item_634.png
+- name: A Tsol Ew Scale
+  icon: images/Item_170.png
+- name: A Tsol Ew Spear
+  icon: images/Item_2376.png
 categories:
 - Census Credits
 - Chains of Eternity (CQ Category)
@@ -23,4 +38,10 @@ expansion: Chains of Eternity
 expansion_source: patch
 ---
 
+## Rewards
 
+- one of the following:
+  - [[Ring of the Judicator]]
+  - [[Ring of the Ritualist]]
+  - [[Ring of the High Priest]]
+  - [[Ring of the Cenobite]]

@@ -5,6 +5,17 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Jungle Leaves
 added_in: Visions of Vetrovia
+pieces:
+- name: Purple Fanleaf
+  icon: images/Item_2093.png
+- name: Yellow Broadleaf
+  icon: images/Item_2117.png
+- name: Bug-Eaten Blue Leaf
+  icon: images/Item_335.png
+- name: Deino-Gnawed Red Leaf
+  icon: images/Item_2104.png
+- name: Poisonous Fern Leaf
+  icon: images/Item_334.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +36,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Breeching of Ability]]
+- [[Jungle Leaves (Item)|Jungle Leaves]] this item is needed for the collection: [[Vetrovian Perceptions]]

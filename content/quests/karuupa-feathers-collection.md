@@ -5,6 +5,18 @@ level: '120'
 timeline: '[[Visions of Vetrovia Timeline]]'
 in_game_name: Karuupa Feathers
 added_in: Visions of Vetrovia
+zone: '[[Karuupa Jungle]]'
+pieces:
+- name: Large Stork Feather
+  icon: images/Item_155.png
+- name: Orange Vulrich Feather
+  icon: images/Item_149.png
+- name: Deino Wing Feather
+  icon: images/Item_148.png
+- name: Long Deino Tailfeather
+  icon: images/Item_152.png
+- name: Mysterious Purple Feather
+  icon: images/Item_147.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +38,7 @@ expansion: Visions of Vetrovia
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Pattern: Mahngavi Barding of Power]]
+- [[Karuupa Feathers (Item)|Karuupa Feathers]] this item is needed for the collection: [[Sights and Sounds of Vetrovia]]

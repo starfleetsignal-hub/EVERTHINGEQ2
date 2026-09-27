@@ -4,6 +4,19 @@ type: quest
 level: '100'
 timeline: '[[Fabled Echoes of Faydwer Timeline]]'
 added_in: Update 2015.06.23
+zone: '[[The Fabled Acadechism (Advanced Solo)]], [[The Fabled Court of Innovation (Advanced Solo)]], [[The Fabled Crypt of Valdoon (Advanced Solo)]]'
+collection_type: Shiny
+pieces:
+- name: Wooly Trueborn Cummerbund
+  icon: images/Item_1105.png
+- name: Ironed Trueborn Cummerbund
+  icon: images/Item_1106.png
+- name: Silken Trueborn Cummerbund
+  icon: images/Item_1106.png
+- name: Jeweled Trueborn Cummerbund
+  icon: images/Item_1105.png
+- name: Sanguine Trueborn Cummerbund
+  icon: images/Item_1107.png
 categories:
 - Census Credits
 - Collection Quests
@@ -25,4 +38,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 5 [[Far Seas Ferrin]]
+- [[Zylphax Marrow]] this item is needed for the collection: [[Marrow]]

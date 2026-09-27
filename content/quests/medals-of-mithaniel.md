@@ -4,6 +4,18 @@ type: quest
 level: '110'
 timeline: '[[Fabled Guk Timeline]]'
 added_in: LU107
+pieces:
+- name: Icon of Mithaniel's Lost
+  icon: images/Item_1281.png
+- name: Icon of Mithaniel's Chosen
+  icon: images/Item_1279.png
+  note: no-trade
+- name: Icon of Mithaniel's Spurned
+  icon: images/Item_1275.png
+- name: Icon of Mithaniel's Elite
+  icon: images/Item_1273.png
+- name: Icon of Mithaniel's Dead
+  icon: images/Item_1287.png
 categories:
 - Census Credits
 - Collection Quests
@@ -22,4 +34,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- [[Guktan Carpospore]] this item is needed for the collection: [[Guktan Spores]]

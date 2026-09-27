@@ -5,6 +5,19 @@ level: '80'
 added_in: LU52
 events:
 - Moonlight Enchantments
+zone: '[[Enchanted Brownie Grotto]]'
+collection_type: Purple
+pieces:
+- name: crimson fae lichen
+  icon: images/Item_332.png
+- name: diamond fae lichen
+  icon: images/Item_335.png
+- name: emerald fae lichen
+  icon: images/Item_331.png
+- name: sunbeam fae lichen
+  icon: images/Item_333.png
+- name: violet fae lichen
+  icon: images/Item_334.png
 categories:
 - Census Credits
 - Collection Quests
@@ -26,4 +39,6 @@ expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
+## Rewards
 
+- [[Dancing Faun Plushie]]
