@@ -5,8 +5,12 @@ The preview is a single file so it can be shared as one link; the real site will
 Markdown subset: headings, paragraphs, nested lists, pipe tables, blockquotes, <details>, emphasis,
 [[wiki links]], {{waypoint x, y, z}}, [text](url), ![alt](images/...).
 """
-import base64, glob, gzip, html, json, os, re, urllib.parse
+import base64, datetime, glob, gzip, html, json, os, re, shutil, urllib.parse
 import yaml
+import wikifix, sitefiles
+
+try: YAML_LOADER = yaml.CSafeLoader       # same result as safe_load, several times faster on 400k pages
+except AttributeError: YAML_LOADER = yaml.SafeLoader
 
 ROOT = os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 CONTENT = os.environ.get("EQ2_CONTENT", os.path.join(ROOT, "content"))
@@ -33,13 +37,18 @@ def fnv(s):
 # ---------------------------------------------------------------- load pages
 pages, by_title = {}, {}
 for f in sorted(glob.glob(os.path.join(CONTENT, "**", "*.md"), recursive=True)):
-    src = open(f).read()
+    src = open(f, encoding="utf-8").read()
     _, front, body = src.split("---\n", 2)
-    fm = yaml.safe_load(front)
+    fm = yaml.load(front, Loader=YAML_LOADER)
     pid = os.path.relpath(f, CONTENT)[:-3]
     pages[pid] = {"fm": fm, "body": body, "src": src, "path": "content/" + pid + ".md"}
     for t in [fm["title"]] + fm.get("aliases", []):
         by_title.setdefault(t, pid); by_title.setdefault(t.lower(), pid)
+
+def tidy_target(t):
+    """Spellings of one title that differ only in encoding: %27, curly apostrophes, underscores, runs of spaces."""
+    t = urllib.parse.unquote(t).replace("\u2019", "'").replace("_", " ")
+    return re.sub(r"\s+", " ", t).strip()
 
 def resolve(target):
     t = target.split("#")[0].strip()
@@ -47,6 +56,11 @@ def resolve(target):
     t = t[:1].upper() + t[1:]
     for cand in (t, REDIRECTS.get(t) or "", t.lower(), (REDIRECTS.get(t) or "").lower()):
         if cand and cand in by_title: return by_title[cand], True
+    t2 = tidy_target(t)                                # only tried when the plain lookup failed, so it costs nothing on a hit
+    if t2 and t2 != t:
+        t2 = t2[:1].upper() + t2[1:]
+        for cand in (t2, REDIRECTS.get(t2) or "", t2.lower(), (REDIRECTS.get(t2) or "").lower()):
+            if cand and cand in by_title: return by_title[cand], True
     return None, REDIRECTS.get(t, "") is not None     # (no page here, exists on the wiki?)
 
 # ---------------------------------------------------------------- inline
@@ -75,11 +89,12 @@ def wikilink(m):
         return '<a href="#%s" data-peek="%s">%s</a>' % (hid(pid), pid, label)
     missing_links[target] = missing_links.get(target, 0) + 1
     if on_wiki:
-        return '<span class="pending" title="Not converted yet">%s</span>' % label
+        return '<span class="pending" title="This page is not on this site yet">%s</span>' % label
     return label
 
 def inline(s):
     s = esc(s)
+    if "{{" in s: s = wikifix.fix_inline(s, CUR_TITLE)     # {{!}}, {{PAGENAME}}, {{Coin}}, {{info}} left in older pages
     s = re.sub(r"\{\{waypoint ([-\d.]+), ([-\d.]+), ([-\d.]+)\}\}",
                lambda m: '<button type="button" class="loc" data-loc="/waypoint %s, %s, %s" title="Copy /waypoint">%s%s, %s, %s</button>'
                % (m.group(1), m.group(2), m.group(3), PIN, m.group(1), m.group(2), m.group(3)), s)
@@ -95,7 +110,19 @@ for _d in (os.path.join(ROOT, "images", "w"), os.path.join(OUT, "site", "images"
     if os.path.isdir(_d): PICS.update({f[:-5].lower(): f for f in os.listdir(_d) if f.endswith(".webp")})
 CUR_TITLE = ""          # the page being built, for {{PAGENAME}} left in picture names
 
-def img(src, alt):
+def alt_text(src, alt):
+    """The caption when the page has one, else a name made from the file name (or the page title). Never empty for a content picture."""
+    alt = html.unescape(alt or "").strip()
+    if alt: return html.escape(alt)
+    name = re.sub(r"\.\w{2,5}$", "", urllib.parse.unquote(src.split("/")[-1])).replace("_", " ").strip()
+    if re.fullmatch(r"(?:Item|Spell)[ _]?\d+", name): return html.escape("Icon for " + CUR_TITLE) if CUR_TITLE else "Icon"
+    if re.search(r"[A-Za-z]{3,}", name) and not re.fullmatch(r"(?:img|dsc|image|screenshot|file)?[\s\-]*\d+", name, re.I):
+        return html.escape(name)
+    return html.escape("Picture on the page " + CUR_TITLE) if CUR_TITLE else "Picture"
+
+def img(src, alt, derive=True):
+    """<img> for a picture the site has. derive=False keeps alt="" for pure decoration (an icon next to its own name)."""
+    alt = alt_text(src, alt) if derive else html.escape(html.unescape(alt or ""))
     if any(os.path.exists(os.path.join(d, src)) for d in (ROOT, os.path.join(OUT, "site"))):
         return '<img src="%s" alt="%s" loading="lazy">' % (src, alt)
     name = re.sub(r"^(?:File|Image):", "", urllib.parse.unquote(src[len("images/"):]).replace(" ", "_"), flags=re.I)
@@ -130,7 +157,7 @@ def render_list(lines, steps=False):
     return build(0, items[0][0] if items else 0, True)[0]
 
 def render_table(lines):
-    rows = [[c.strip().replace("\\|", "|") for c in re.split(r"(?<!\\)\|", l.strip()[1:-1])] for l in lines]
+    rows = [[c.strip().replace("\\|", "|").replace("\x05", "|") for c in re.split(r"(?<!\\)\|", wikifix.protect_coin_pipes(l.strip()[1:-1]))] for l in lines]
     head, body = rows[0], rows[2:]
     h = "".join("<th>%s</th>" % inline(c) for c in head) if any(head) else ""
     b = "".join("<tr>%s</tr>" % "".join("<td>%s</td>" % inline(c) for c in r) for r in body)
@@ -322,7 +349,7 @@ def piece_rows(pieces):
         if not isinstance(pc, dict) or not pc.get("name"): continue
         ppid = resolve(pc.get("page") or pc["name"])[0]
         icon = pc.get("icon", "")
-        out.append([str(pc["name"]), icon if icon and img(icon, "") else "", ppid or "", pc.get("note", "")])
+        out.append([str(pc["name"]), icon if icon and img(icon, "", derive=False) else "", ppid or "", pc.get("note", "")])
     return out
 
 def collection_section(pid, pieces):
@@ -349,7 +376,7 @@ def build_page(pid, p):
     if fm.get("expansion_source") == "level":
         rows = [r.replace("<dt>Release</dt><dd>%s</dd>" % fval(fm["expansion"]),
                           "<dt>Release</dt><dd>%s <small>(estimated from its level)</small></dd>" % fval(fm["expansion"])) for r in rows]
-    icon = img(fm["icon"], "") if fm.get("icon") else ""
+    icon = img(fm["icon"], "") if fm.get("icon") else ""      # alt: "Icon for <title>"
     pic = img(fm["image"], html.escape(fm["title"])) if isinstance(fm.get("image"), str) else ""
     if pic and fm.get("image_caption"): pic += "<figcaption>%s</figcaption>" % inline(str(fm["image_caption"]))
     pic = '<figure class="boxpic">%s</figure>' % pic if pic else ""
@@ -368,7 +395,7 @@ def build_page(pid, p):
         if fm.get("next_quest"): chain.append('<div><small>Leads to</small>%s</div>' % inline(fm["next_quest"]))
         if len(chain) > 1: top.append('<div class="chain">%s</div>' % "".join(chain))
         if fm.get("starts"): top.append('<p class="starts"><span class="tag red">Start</span> %s</p>' % inline(fm["starts"]))
-    body = render(p["body"], quest=(kind == "quest"))
+    body = render(wikifix.fix_block(p["body"]), quest=(kind == "quest"))
     if kind == "quest" and fm.get("pieces"): top.append(collection_section(pid, fm["pieces"]))
     s = fm.get("source")     # forum guides carry their own credit line in the body
     credit = "" if not s else ('<p class="credit">Adapted from <a href="%s" rel="nofollow noopener" target="_blank">%s</a> on the EverQuest II Wiki (Fandom), '
@@ -590,6 +617,30 @@ TARGET = os.environ.get("EQ2_TARGET", "github" if os.environ.get("GITHUB_ACTIONS
 # "owner/name[/branch]": Edit this page opens GitHub's editor (in CI, the repository being built)
 REPO = os.environ.get("EQ2_REPO", os.environ.get("GITHUB_REPOSITORY", ""))
 PER_CHUNK = 300                                        # pages per data chunk
+# Page types that also get a small static landing page (<type>/<slug>/index.html) that crawlers can read and the sitemap lists;
+# the app's #hash routes are one URL to a search engine. Set EQ2_STATIC_TYPES to a comma list, or to "" to switch it off.
+STATIC_TYPES = tuple(t for t in os.environ.get("EQ2_STATIC_TYPES", "zones,timelines,lore,housing,guides").split(",") if t.strip() and t.strip() not in ("data", "images"))
+
+def landing(pid, p, m):
+    """(title, kind, description, facts, paragraphs) for the static landing page of one page; build_page() has just run for it."""
+    fm = p["fm"]; kind = fm["type"]
+    facts = []
+    for k, label in FIELDS.get(kind, []):
+        v = fm.get(k)
+        if v is None or v == "" or isinstance(v, (dict, list)): continue
+        t = plain(v) if v is not True else "Yes"
+        if t: facts.append((label, t[:300]))
+    paras = []
+    for block in re.split(r"\n\s*\n", p["body"]):
+        b = block.strip()
+        if not b or b[0] in "#|>-!<*{" or re.match(r"\d+\. ", b): continue
+        t = plain(" ".join(b.split("\n")))
+        if len(t) >= 40: paras.append(t[:600])
+        if len(paras) == 2: break
+    bits = [x for x in (m["m"], paras[0] if paras else m["s"]) if x]
+    desc = (fm["title"] + ": " + " ".join(bits)).strip()
+    desc = desc if len(desc) <= 158 else desc[:155].rsplit(" ", 1)[0] + "..."
+    return fm["title"], TYPE_LABEL.get(kind, "Page"), desc, facts, paras
 
 def main():
     index_zones()
@@ -603,8 +654,18 @@ def main():
     chunks_h, chunks_s = [{} for _ in range(nch)], [{} for _ in range(nch)]
     by_type, search, counts = {}, [], {}
     sx = {}                                                # release name -> index (search rows store the index)
+    base = sitefiles.site_url(ROOT, REPO) if TARGET == "github" else ""
+    static = TARGET == "github" and bool(STATIC_TYPES)
+    for ty in STATIC_TYPES: shutil.rmtree(os.path.join(site, ty), ignore_errors=True)
+    sitemap_urls, nstatic = [("/", datetime.date.today().isoformat())], 0
     for pid, p in pages.items():
         h, m = build_page(pid, p)
+        if static and pid.split("/")[0] in STATIC_TYPES:
+            title, kname, desc, facts, paras = landing(pid, p, m)
+            d = os.path.join(site, pid); os.makedirs(d, exist_ok=True)
+            open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(sitefiles.landing_html(
+                title, kname, desc, facts, paras, hid(pid), base + "/" + pid + "/" if base else "", p["fm"].get("source")))
+            sitemap_urls.append(("/" + pid + "/", str((p["fm"].get("source") or {}).get("revised", ""))[:10])); nstatic += 1
         c = fnv(pid) % nch
         chunks_h[c][pid] = h
         if TARGET != "github" or not REPO: chunks_s[c][pid] = {"src": p["src"], "path": p["path"]}
@@ -616,7 +677,7 @@ def main():
         counts.setdefault(ty, {}); counts[ty][m["x"]] = counts[ty].get(m["x"], 0) + 1
     total = 0
     def put(path, obj):
-        raw = gzip.compress(json.dumps(obj, ensure_ascii=False, separators=(",", ":")).encode(), 9)
+        raw = gzip.compress(json.dumps(obj, ensure_ascii=False, separators=(",", ":")).encode(), 9, mtime=0)   # mtime=0: same input, same bytes, so git can reuse unchanged files between builds
         if TARGET != "github": raw = base64.b64encode(raw)   # artifacts serve text, not binary: gzip + base64
         open(path + ext, "wb").write(raw)
         return len(raw)
@@ -645,9 +706,16 @@ def main():
                                                "zones": zones, "collections": len(colls), "sx": list(sx), "repo": REPO, "src": bool(any(chunks_s))})
     esz = put(os.path.join(data_dir, "events"), events())
     total += isz + ssz + msz + csz + esz
-    tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html")).read()
+    tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html"), encoding="utf-8").read()
     tpl = tpl.replace("/*EXT*/", json.dumps(ext))
-    open(os.path.join(site, "index.html"), "w").write(tpl)
+    # canonical / Open Graph addresses need the absolute site URL; without one those tags are left out rather than left empty
+    tpl = tpl.replace("%%SITE_URL%%", base) if base else "\n".join(l for l in tpl.split("\n") if "%%SITE_URL%%" not in l)
+    open(os.path.join(site, "index.html"), "w", encoding="utf-8").write(tpl)
+    if TARGET == "github":
+        sitefiles.write_robots(site, base)
+        sm = sitefiles.write_sitemaps(site, base, sitemap_urls)
+        open(os.path.join(site, "404.html"), "w", encoding="utf-8").write(sitefiles.not_found_html())
+        print("site files: robots.txt, 404.html, %s | static landing pages: %d (%s) | site url: %s" % (", ".join(sm) or "no sitemap (no site URL)", nstatic, ",".join(STATIC_TYPES), base or "unknown"))
     nfiles = sum(len(fs) for _, _, fs in os.walk(site))
     print("pages:", len(pages), "| target:", TARGET, "| files:", nfiles, "| data: %.1f MB (type indexes %.1f, search %.1f, meta %.1f)"
           % (total / 1e6, isz / 1e6, ssz / 1e6, msz / 1e6), "| distinct links to pages not converted yet:", len(missing_links))

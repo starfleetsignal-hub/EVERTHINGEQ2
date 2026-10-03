@@ -1,0 +1,13 @@
+# Binary files: never diffed or merged as text
+*.png binary
+*.webp binary
+*.gz   binary
+
+# Generated files. GitHub collapses their diffs and leaves them out of language statistics, which keeps pull requests
+# readable (content/items alone is 306k generated pages). Hand-edited pages elsewhere under content/ are not affected.
+content/items/**       linguist-generated=true
+images-release.json    linguist-generated=true
+images-needed.json     linguist-generated=true
+data/pictures.json     linguist-generated=true
+data/redirects.json    linguist-generated=true
+data/wiki-sync.json    linguist-generated=true

@@ -1,13 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
 <meta charset="utf-8">
-<title>Norrath Ledger</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Norrath Ledger: an EverQuest II reference</title>
+<meta name="description" content="Norrath Ledger is a free, ad-free reference for EverQuest II: zones, quests, items, spells, achievements, NPCs and monsters from The Shattered Lands to Rage of Cthurath, with waypoint chips, a gear finder and a collections tracker.">
+<meta name="theme-color" content="#c2412f">
+<link rel="canonical" href="%%SITE_URL%%/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Norrath Ledger">
+<meta property="og:title" content="Norrath Ledger: an EverQuest II reference">
+<meta property="og:description" content="A free, ad-free EverQuest II reference: zones, quests, items, spells, achievements, NPCs and monsters, with waypoint chips and a gear finder.">
+<meta property="og:url" content="%%SITE_URL%%/">
+<meta property="og:image" content="%%SITE_URL%%/images/bg/roc-gerion.webp">
+<meta name="twitter:card" content="summary_large_image">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
 <style>
 :root{
   color-scheme: dark;
   --ground:#1d1510; --surface:#281d16; --surface-2:#33251c; --line:#4a3527;
-  --text:#ecdfcb; --muted:#b39c83; --faint:#8a7361;
-  --red:#c2412f; --red-soft:#e0735f; --red-ink:#fff4ee;
+  --text:#ecdfcb; --muted:#b39c83; --faint:#a38d78;
+  --red:#c2412f; --red-soft:#e57d69; --red-ink:#fff4ee;
   --green:#6f9a55; --green-soft:#9cc47f; --green-ink:#0f1a0a;
   --brown:#8a5a36; --gold:#d2a85a;
   --shadow:0 10px 30px rgba(0,0,0,.35);
@@ -20,9 +34,9 @@
   :root:not([data-theme="dark"]){
     color-scheme: light;
     --ground:#f1e8dc; --surface:#fbf6ef; --surface-2:#eadccb; --line:#d4c0a8;
-    --text:#2a1c13; --muted:#6d5543; --faint:#8d7662;
+    --text:#2a1c13; --muted:#6d5543; --faint:#735c49;
     --red:#a3301f; --red-soft:#a3301f; --red-ink:#fff6f0;
-    --green:#3f6e2c; --green-soft:#3f6e2c; --green-ink:#f4fbef;
+    --green:#3f6e2c; --green-soft:#386226; --green-ink:#f4fbef;
     --brown:#7a4b2a; --gold:#8e6a22;
     --shadow:0 8px 24px rgba(74,45,20,.14);
     --veil:rgba(241,232,220,.35);
@@ -31,9 +45,9 @@
 :root[data-theme="light"]{
   color-scheme: light;
   --ground:#f1e8dc; --surface:#fbf6ef; --surface-2:#eadccb; --line:#d4c0a8;
-  --text:#2a1c13; --muted:#6d5543; --faint:#8d7662;
+  --text:#2a1c13; --muted:#6d5543; --faint:#735c49;
   --red:#a3301f; --red-soft:#a3301f; --red-ink:#fff6f0;
-  --green:#3f6e2c; --green-soft:#3f6e2c; --green-ink:#f4fbef;
+  --green:#3f6e2c; --green-soft:#386226; --green-ink:#f4fbef;
   --brown:#7a4b2a; --gold:#8e6a22;
   --shadow:0 8px 24px rgba(74,45,20,.14);
   --veil:rgba(241,232,220,.35);
@@ -50,7 +64,12 @@ footer.site{border-radius:12px;margin-bottom:24px;border-top:0}
 footer.site .bgcredit{font-size:.78rem}
 a{color:var(--red-soft);text-decoration:underline;text-decoration-color:color-mix(in srgb, var(--red-soft) 40%, transparent);text-underline-offset:3px}
 a:hover{text-decoration-color:currentColor}
-a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:3px}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:3px}
+#main:focus{outline:none}
+.sr-only,.pending::after{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;border:0}
+.pending::after{content:" (page not on this site yet)"}
+.skip{position:absolute;left:8px;top:-60px;z-index:60;background:var(--surface);color:var(--text);border:2px solid var(--gold);border-radius:6px;padding:8px 14px;font-weight:700}
+.skip:focus{top:8px}
 .pending{text-decoration:underline dotted color-mix(in srgb, var(--muted) 60%, transparent);text-underline-offset:3px;cursor:help}
 
 .topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:var(--red);color:var(--red-ink);border-bottom:3px solid var(--brown)}
@@ -59,7 +78,7 @@ a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible{o
 .brand small{font-family:var(--body);font-size:.78rem;font-weight:500;opacity:.85;letter-spacing:.08em;text-transform:uppercase}
 .search{flex:1 1 220px;position:relative;max-width:420px;margin-left:auto}
 .search input{width:100%;border:1px solid rgba(255,255,255,.35);background:rgba(0,0,0,.18);color:inherit;border-radius:6px;padding:7px 10px;font:inherit;font-size:.95rem}
-.search input::placeholder{color:rgba(255,244,238,.75)}
+.search input::placeholder{color:rgba(255,244,238,.9)}
 .results{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow);overflow:hidden;max-height:60vh;overflow-y:auto}
 .results a{display:flex;justify-content:space-between;gap:10px;padding:8px 12px;text-decoration:none;color:var(--text)}
 .results a:hover,.results a.hl{background:var(--surface-2)}
@@ -175,7 +194,8 @@ td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
 .wpgrid text{fill:var(--faint);font-family:var(--mono)}
 .wpnorth{fill:var(--muted);font-family:var(--display);font-weight:700}
 .wpin{stroke:var(--ground);cursor:pointer;opacity:.9}
-.wpin:hover,.wpin:focus{opacity:1;stroke:var(--text);outline:none}
+.wpin:hover,.wpin:focus{opacity:1;stroke:var(--text)}
+.wpin:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
 .wpin.done{fill:var(--text)!important}
 .wpbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 8px}
 .wpbar button{font:inherit;font-size:.85rem;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:999px;padding:2px 10px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
@@ -292,16 +312,18 @@ footer.site{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:18p
 footer.site p{max-width:none}
 @media (prefers-reduced-motion: reduce){*{transition:none!important}}
 </style>
-
+</head>
+<body>
+<a class="skip" href="#main" id="skip">Skip to content</a>
 <header class="topbar">
   <div class="topbar-in">
     <a class="brand" href="#home">Norrath Ledger <small>EverQuest II reference</small></a>
-    <div class="search">
+    <div class="search" role="search">
       <input id="q" type="search" placeholder="Search quests, items, zones, NPCs  ( / )" autocomplete="off" aria-label="Search the wiki">
       <div class="results" id="results" hidden></div>
     </div>
-    <a class="donate" id="donatebtn" href="#" target="_blank" rel="noopener" hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.3C.9 8.3 3 4.5 6.7 4.5c2.1 0 3.6 1.1 4.3 2.4.7-1.3 2.2-2.4 4.3-2.4 3.7 0 5.8 3.8 4.3 7.2C19.5 16.4 12 21 12 21z"/></svg>Support the site</a>
-    <button class="themebtn" id="themebtn" type="button">Light / dark</button>
+    <a class="donate" id="donatebtn" href="#" target="_blank" rel="noopener" hidden aria-label="Support the site (opens in a new tab)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.3C.9 8.3 3 4.5 6.7 4.5c2.1 0 3.6 1.1 4.3 2.4.7-1.3 2.2-2.4 4.3-2.4 3.7 0 5.8 3.8 4.3 7.2C19.5 16.4 12 21 12 21z"/></svg>Support the site</a>
+    <button class="themebtn" id="themebtn" type="button" aria-label="Switch between light and dark theme">Light / dark</button>
   </div>
 </header>
 
@@ -313,9 +335,9 @@ footer.site p{max-width:none}
     <ol id="enav"><li><a href="#events">Holiday calendar<span></span></a></li></ol>
     <h2>Releases</h2>
     <ol id="xnav"></ol>
-    <p class="sidenote">Converted from the EverQuest II Wiki. Names with a dotted grey underline point to wiki pages (mostly items, spells and recipes) that arrive with the next conversion.</p>
+    <p class="sidenote">Converted from the EverQuest II Wiki. Names with a dotted grey underline point to wiki pages that are not on this site yet.</p>
   </nav>
-  <main id="main"></main>
+  <main id="main" tabindex="-1"></main>
 </div>
 
 <footer class="site">
@@ -326,6 +348,7 @@ footer.site p{max-width:none}
 
 <div id="peek" class="peek" hidden></div>
 <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<div id="routeann" class="sr-only" role="status" aria-live="polite"></div>
 <div id="modal" class="modal-back" hidden>
   <div class="modal" role="dialog" aria-modal="true" aria-labelledby="mtitle">
     <h2 id="mtitle">Edit this page</h2>
@@ -426,7 +449,7 @@ function searchView(){
   <form class="filter sfilter" id="sform" role="search">
     <input id="sq" type="search" value="${esc(SP.q || "")}" placeholder="Search names, e.g. fabled sword or qeynos" aria-label="Search the wiki" autocomplete="off">
     <select id="sx" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${xslug(y)===SP.x?" selected":""}>${esc(y)}</option>`).join("")}</select>
-    <span class="lvl"><label for="smin">Level</label><input id="smin" type="number" min="0" max="200" inputmode="numeric" placeholder="min" value="${esc(SP.min || "")}">–<input id="smax" type="number" min="0" max="200" inputmode="numeric" placeholder="max" value="${esc(SP.max || "")}" aria-label="Maximum level"></span>
+    <span class="lvl"><label for="smin">Level</label><input id="smin" aria-label="Minimum level" type="number" min="0" max="200" inputmode="numeric" placeholder="min" value="${esc(SP.min || "")}">–<input id="smax" type="number" min="0" max="200" inputmode="numeric" placeholder="max" value="${esc(SP.max || "")}" aria-label="Maximum level"></span>
   </form>
   <nav class="chips" id="schips" aria-label="Type"></nav>
   <p class="derived" id="scount"></p>
@@ -609,7 +632,7 @@ function eventView(list, s, tab){
     ${n("quests")?`<h2>Quests</h2><div class="tablewrap"><table><thead><tr>${EVCOLS.quests.map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody>${e.g.quests.slice(0, 12).map(r=>`<tr>${evRow("quests", r)}</tr>`).join("")}</tbody></table></div>${n("quests")>12?`<p><a href="#ev.${s}.quests">See all ${n("quests")} quests</a></p>`:""}`:""}`;
   } else {
     const rows = e.g[tab];
-    body = `${rows.length > 15 ? `<div class="filter"><input id="evf" type="search" placeholder="Filter by name" aria-label="Filter"><span id="evcount">${rows.length.toLocaleString()}</span></div>` : ""}
+    body = `${rows.length > 15 ? `<div class="filter"><input id="evf" type="search" placeholder="Filter by name" aria-label="Filter this list by name"><span id="evcount" aria-live="polite">${rows.length.toLocaleString()}</span></div>` : ""}
     <div class="tablewrap"><table><thead><tr>${EVCOLS[tab].map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody id="evrows">${rows.map(r=>`<tr data-f="${esc(r[1].toLowerCase())}">${evRow(tab, r)}</tr>`).join("")}</tbody></table></div>`;
   }
   const credit = e.src ? `<p class="credit">The summary is adapted from <a href="${esc(e.src.url)}" rel="nofollow noopener" target="_blank">${esc(e.src.title)}</a> on the EverQuest II Wiki (Fandom), by <a href="${esc(e.src.history)}" rel="nofollow noopener" target="_blank">its contributors</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>. The lists gather every page tagged with this event.</p>` : "";
@@ -631,9 +654,9 @@ function browse(t, s, all){
   <div class="crumbs"><a href="#home">Home</a> › ${x?`<a href="#x.${s}">${esc(x)}</a> › `:""}Browse</div>
   <div class="art-head"><h1>${esc(label)}${x?` <small class="count">${esc(x)}</small>`:""}</h1></div>
   ${t === "items" ? `<p class="callout gearcall">Looking for gear? The <a href="#gear">gear finder</a> filters equipment and adornments by slot, class, level and stats.</p>` : ""}
-  <div class="filter"><input id="qf" type="search" placeholder="Filter by name${BZ?" or zone":""}" aria-label="Filter">
+  <div class="filter"><input id="qf" type="search" placeholder="Filter by name${BZ?" or zone":""}" aria-label="Filter this list by name${BZ?" or zone":""}">
     <select id="xf" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${y===x?" selected":""}>${esc(y)}</option>`).join("")}</select>
-    <span id="qcount"></span></div>
+    <span id="qcount" aria-live="polite"></span></div>
   <div class="tablewrap"><table><thead><tr><th>Name</th>${BLVL?"<th>Level</th>":""}<th>${BZ?"Zone":"Details"}</th><th>Release</th></tr></thead><tbody id="qrows"></tbody></table></div>
   <p class="derived" id="qmore" hidden></p>`;
 }
@@ -680,7 +703,7 @@ function gearPage(G){
     ${sel("g-kind","Kind",kinds.map(k=>[k,k]),kind)}
     ${sel("g-slot","Slot",[["","Any slot"]].concat(slots.map(s=>[s[1],`${s[1]} (${s[2].toLocaleString()})`])),st.get("slot"))}
     ${sel("g-cls","Class",[["","Any class"]].concat(G.classes.map(c=>[c,c])),st.get("cls"))}
-    <label>Level<span class="range"><input id="g-min" type="number" inputmode="numeric" min="0" max="200" placeholder="min" value="${esc(st.get("min")||"")}"><span>to</span><input id="g-max" type="number" inputmode="numeric" min="0" max="200" placeholder="max" value="${esc(st.get("max")||"")}"></span></label>
+    <label>Level<span class="range"><input id="g-min" aria-label="Minimum level" type="number" inputmode="numeric" min="0" max="200" placeholder="min" value="${esc(st.get("min")||"")}"><span>to</span><input id="g-max" aria-label="Maximum level" type="number" inputmode="numeric" min="0" max="200" placeholder="max" value="${esc(st.get("max")||"")}"></span></label>
     ${sel("g-tier","Tier",[["","Any tier"]].concat(G.tiers.map((t,i)=>[i,t]).filter(r=>r[1])),st.get("tier"))}
     ${sel("g-x","Release",[["","All releases"]].concat(XP.map(y=>[xslug(y),y])),st.get("x"))}
     ${sel("g-stat","Has stat",[["","Any stats"]].concat(G.stats.map(k=>[k,statName(k)])),st.get("stat"))}
@@ -870,6 +893,18 @@ window.addEventListener("storage", e=>{       // another tab ticked something
 
 const main = document.getElementById("main"), peek = document.getElementById("peek");
 let seq = 0;
+// Hash routes share one HTML file, so the tab title, the description and a screen-reader announcement follow the route.
+const SITE_TITLE = document.title, descMeta = document.querySelector('meta[name="description"]'), SITE_DESC = descMeta ? descMeta.content : "";
+function syncTitle(){
+  const h1 = main.querySelector("h1"), name = h1 ? h1.textContent.replace(/\s+/g, " ").trim() : "";
+  const home = !name || name === "A clean EverQuest II reference";
+  document.title = home ? SITE_TITLE : `${name} | Norrath Ledger`;
+  const p = home ? null : main.querySelector(".article p, .lede, p");
+  const text = p ? p.textContent.replace(/\s+/g, " ").trim() : "";
+  if (descMeta) descMeta.content = text.length > 40 ? (text.length > 160 ? text.slice(0, 157).replace(/\s+\S*$/, "") + "…" : text) : SITE_DESC;
+  const ann = document.getElementById("routeann"); if (ann) ann.textContent = home ? "" : name;
+}
+document.getElementById("skip").addEventListener("click", e=>{ e.preventDefault(); main.focus(); });
 async function render(){
   const my = ++seq;
   const h = decodeURIComponent((location.hash || "#home").slice(1)) || "home";
@@ -882,7 +917,7 @@ async function render(){
     let G;
     try { G = await gearIndex(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The gear finder could not be loaded. Reload to try again.</p>`; return; }
     if (my !== seq) return;
-    main.innerHTML = gearPage(G); window.scrollTo(0,0); gearWire(G); return;
+    main.innerHTML = gearPage(G); window.scrollTo(0,0); syncTitle(); gearWire(G); return;
   }
   if (h.startsWith("search")) main.innerHTML = searchView();
   else if (h.startsWith("browse.")) {
@@ -923,6 +958,7 @@ async function render(){
       el.innerHTML = `<h2>Holiday events</h2><div class="evnow">${evSoon(list, 3).map(evCard).join("")}</div><p><a href="#events">See the full holiday calendar</a></p>`; }).catch(()=>{});
   }
   window.scrollTo(0,0);
+  syncTitle();
   const evf = document.getElementById("evf");
   if (evf) evf.addEventListener("input", ()=>{
     const v = evf.value.trim().toLowerCase(); let c = 0;
@@ -1087,3 +1123,5 @@ document.getElementById("themebtn").onclick = ()=>{
   try { localStorage.setItem("nl-theme", root.dataset.theme); } catch(_){}
 };
 </script>
+</body>
+</html>

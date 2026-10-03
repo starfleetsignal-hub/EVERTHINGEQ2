@@ -22,6 +22,8 @@ unpacked on local disk to work (`tar xzf raw-shattered-lands.tgz` / `content-sha
     python3 tools/assign_release.py      # files quests and items under the release that added them
     python3 tools/resolve_links.py
     python3 tools/build_preview.py
+    python3 -m unittest discover -s tools -p "test_*.py"   # converter and template-leftover tests
+    python3 tools/update_counts.py       # refresh the page counts in README.md
 
 First sample (2026-09-23): Antonica, Antonica Timeline, Category:Antonica Quests (217), Category:Antonica Quest NPCs (132).
 
@@ -36,3 +38,9 @@ separate thread started after the user allowed that host.
     python3 tools/fetch_images.py --download   # into images/, 4 workers, resumable
 Work on local disk, then store images in the shared folder as tar bundles (e.g. images-000.tar per ~10,000 files),
 never as loose files: the shared folder errors out on thousands of small files. Pages link images as images/<File_name>.
+
+## Template leftovers (`tools/wikifix.py`)
+`{{!}}`, `{{PAGENAME}}`, `{{Coin}}`, `{{info}}`, `{{Loc}}`, `{{Faction}}` and the `{{NPC}}`/`{{POI}}`... link templates are handled in
+`convert.py`. Pages converted before that still hold some of them, so `build_preview.py` runs the same fixes on the text it
+renders (`wikifix.fix_inline` / `fix_block`); the Markdown files are not rewritten. Re-running `convert.py` on a fresh download
+makes the build-time fixes unnecessary.
