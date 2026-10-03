@@ -23,8 +23,8 @@ source:
   revision: 2015021
   revised: '2026-07-05T11:57:59Z'
   license: CC BY-SA 3.0
-expansion: Planes of Prophecy
-expansion_source: source
+expansion: Rage of Cthurath
+expansion_source: level
 ---
 
 

@@ -30,8 +30,8 @@ source:
   title: Runed Windstrider's Crate
   url: https://eq2.fandom.com/wiki/Runed_Windstrider's_Crate
   history: https://eq2.fandom.com/wiki/Runed_Windstrider's_Crate?action=history
-  revision: 1739689
-  revised: '2023-09-05T16:29:15Z'
+  revision: 2030800
+  revised: '2026-10-03T05:29:07Z'
   license: CC BY-SA 3.0
 ---
 

@@ -31,15 +31,15 @@ source:
   title: Find the Fury
   url: https://eq2.fandom.com/wiki/Find_the_Fury
   history: https://eq2.fandom.com/wiki/Find_the_Fury?action=history
-  revision: 566823
-  revised: '2012-08-18T05:55:46Z'
+  revision: 2030444
+  revised: '2026-09-25T04:23:48Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
 1. Go to [[Fens of Nathsar]] and speak with Olieop. {{waypoint -1207, -91, 634}}
-1. Fly to Eastern Pens and talk to [[Ubdub the Scribe]] at {{waypoint -1934, -45, 1004}}. After he talks to you, 2 Rilissian Elite Slavers (lvl 80 heroic, no arrows, soloable) will spawn and attack you.  Speak with [[Ubdub the Scribe]] again. (respawns 5-10 minutes) He gives you a house item [[The Journal of Ubdub the Reet]]
+1. Fly to Eastern Pens and talk to [[Ubdub the Scribe]] at {{waypoint -1934, -45, 1004}}. After he talks to you, 2 Rilissian Elite Slavers (lvl 80 heroic, no arrows, soloable) will spawn and attack you.  Speak with [[Ubdub the Scribe]] again. (respawns 5-10 minutes) He gives you a house item [[The Journal of Ubdub of the Reet]]
 1. Return to Olieop and speak with her.
 1. Go to [[Kunzar Jungle]] and enter [[Sebilis]] to find the scimitar located at {{waypoint 126, 8, 212}} in a weaponrack.
    - The staircase is next left in the water room after the Quartermaster's quarters.

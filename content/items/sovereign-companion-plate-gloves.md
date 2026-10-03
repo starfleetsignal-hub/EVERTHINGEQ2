@@ -43,8 +43,8 @@ source:
   title: Sovereign Companion Plate Gloves
   url: https://eq2.fandom.com/wiki/Sovereign_Companion_Plate_Gloves
   history: https://eq2.fandom.com/wiki/Sovereign_Companion_Plate_Gloves?action=history
-  revision: 1995036
-  revised: '2026-04-09T19:43:28Z'
+  revision: 2030525
+  revised: '2026-09-27T21:29:32Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

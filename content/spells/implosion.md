@@ -3,6 +3,7 @@ title: Implosion
 type: spell
 class: '[[Etherealist]]'
 spell_type: ascension
+category: DOT
 icon: images/Spell_1062.png
 levels: '8'
 target: Enemy
@@ -17,16 +18,16 @@ description: Causing an explosion is effective and will inspire awe and fear, bu
 effects: "- Applies Implosion on termination.\n  - Inflicts W magic damage on targets in Area of Effect\n- Causes an unstable vortex that draws enemies within range into it's center before destablizing and exploding.\n- Inflicts X magic damage on targets in Area of Effect\n- Inflicts Y magic damage on targets in Area of Effect every second\n- Slows targets in Area of Effect by Z%"
 categories:
 - Census Credits
+- DOT (Spell Type)
 - Etherealist Spells
-- Spell needing Category
 - Spells
 - Spells by Type Ascension
 source:
   title: Implosion
   url: https://eq2.fandom.com/wiki/Implosion
   history: https://eq2.fandom.com/wiki/Implosion?action=history
-  revision: 1853913
-  revised: '2025-01-20T05:18:34Z'
+  revision: 2030542
+  revised: '2026-09-28T08:41:54Z'
   license: CC BY-SA 3.0
 ---
 

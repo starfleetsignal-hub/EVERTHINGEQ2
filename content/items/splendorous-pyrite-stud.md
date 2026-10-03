@@ -71,6 +71,7 @@ categories:
 - Swashbuckler Equipment
 - Templar Equipment
 - Tier 13 Equipment
+- Triad of Elements (Solo) Dropped Items
 - Troubador Equipment
 - Warden Equipment
 - Warlock Equipment
@@ -80,8 +81,8 @@ source:
   title: Splendorous Pyrite Stud
   url: https://eq2.fandom.com/wiki/Splendorous_Pyrite_Stud
   history: https://eq2.fandom.com/wiki/Splendorous_Pyrite_Stud?action=history
-  revision: 1825914
-  revised: '2024-10-12T11:04:50Z'
+  revision: 2030567
+  revised: '2026-09-28T14:13:38Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

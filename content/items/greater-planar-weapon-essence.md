@@ -19,8 +19,8 @@ source:
   revision: 1954400
   revised: '2026-01-13T02:38:09Z'
   license: CC BY-SA 3.0
-expansion: Chaos Descending
-expansion_source: source
+expansion: Planes of Prophecy
+expansion_source: linked
 ---
 
 ## Notes

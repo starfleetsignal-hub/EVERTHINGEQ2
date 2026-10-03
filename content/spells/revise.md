@@ -2,6 +2,7 @@
 title: Revise
 type: spell
 spell_type: tradeskills
+category: Tradeskill
 icon: images/Spell_422.png
 levels: '1'
 target: self
@@ -16,15 +17,15 @@ effects: '- Reduces the amount of experimental progress gained by 1.0%.
   - Cannot be modified except by direct means'
 categories:
 - Census Credits
-- Spell needing Category
 - Spells
 - Spells by Type Tradeskills
+- Tradeskill (Spell Type)
 source:
   title: Revise
   url: https://eq2.fandom.com/wiki/Revise
   history: https://eq2.fandom.com/wiki/Revise?action=history
-  revision: 1954378
-  revised: '2026-01-12T23:01:18Z'
+  revision: 2030350
+  revised: '2026-09-23T10:51:48Z'
   license: CC BY-SA 3.0
 ---
 

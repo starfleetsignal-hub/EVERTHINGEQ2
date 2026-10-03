@@ -24,6 +24,7 @@ stats:
   dtype: One-Handed Piercing
   wtype: Spear
 item_link: \aITEM -1845408328 -966224025:Malignant Cursed Dagger\/a
+image: images/Malignant_Cursed_Dagger.png
 categories:
 - AE Autoattack Chance (Equipment)
 - Assassin Equipment
@@ -42,6 +43,7 @@ categories:
 - Dirge Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Guardian Equipment
 - Illusionist Equipment
 - Legendary Equipment
@@ -50,6 +52,7 @@ categories:
 - Mystic Equipment
 - Necromancer Equipment
 - One-Handed Piercing (Equipment Type)
+- Ossuary of Malevolence (Contested) Dropped Items
 - Paladin Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -73,11 +76,11 @@ source:
   title: Malignant Cursed Dagger
   url: https://eq2.fandom.com/wiki/Malignant_Cursed_Dagger
   history: https://eq2.fandom.com/wiki/Malignant_Cursed_Dagger?action=history
-  revision: 810643
-  revised: '2017-12-28T02:33:42Z'
+  revision: 2030423
+  revised: '2026-09-24T19:05:46Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

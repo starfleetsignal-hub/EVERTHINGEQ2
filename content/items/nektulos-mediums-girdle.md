@@ -11,6 +11,7 @@ stats:
   str: '+9'
   sta: '+9'
 item_link: \aITEM 341602842 990351984:Nektulos Medium's Girdle\/a
+image: images/Nektulos_Medium's_Girdle.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -31,6 +32,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -40,6 +42,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nektulos Forest Dropped Items
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -62,8 +65,8 @@ source:
   title: Nektulos Medium's Girdle
   url: https://eq2.fandom.com/wiki/Nektulos_Medium's_Girdle
   history: https://eq2.fandom.com/wiki/Nektulos_Medium's_Girdle?action=history
-  revision: 1835262
-  revised: '2024-11-24T21:24:12Z'
+  revision: 2030384
+  revised: '2026-09-24T16:10:45Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

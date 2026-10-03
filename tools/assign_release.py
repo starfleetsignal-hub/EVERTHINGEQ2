@@ -85,7 +85,7 @@ def items(write=True):
     start, or the recipe book that makes them); then the earliest release of a quest, creature or zone page that
     links to them (rewards, drops); failing that, the first release whose level cap reaches them."""
     known, alias, bodies = {}, {}, []
-    for f in glob.glob(os.path.join(CONTENT, "*", "*.md")):
+    for f in sorted(glob.glob(os.path.join(CONTENT, "*", "*.md"))):
         if os.sep + "items" + os.sep in f: continue
         txt = open(f).read()
         head = txt.split("---", 2)[1]
@@ -95,7 +95,7 @@ def items(write=True):
         if x in POS and f.split(os.sep)[-2] in REFERRERS: bodies.append((x, txt))
         if x in POS:
             known[norm_title(str(t))] = x
-            for a in re.findall(r"^- (.*)$", head.split("aliases:", 1)[1].split("\n\S", 1)[0], re.M) if "aliases:" in head else []:
+            for a in re.findall(r"^- (.*)$", re.split(r"\n(?=[^\s-])", head.split("\naliases:", 1)[1], 1)[0], re.M) if "\naliases:" in head else []:
                 alias.setdefault(norm_title(str(yaml.safe_load(a))), x)
     I = load(os.path.join("items", "*.md"))
     for t, q in I.items(): q["rel"], q["why"] = "", ""

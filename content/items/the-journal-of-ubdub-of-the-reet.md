@@ -20,8 +20,8 @@ source:
   revision: 894975
   revised: '2018-08-05T15:58:30Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: level
+expansion: Rise of Kunark
+expansion_source: linked
 ---
 
 

@@ -21,8 +21,8 @@ source:
   title: A defective lamp (House Item)
   url: https://eq2.fandom.com/wiki/A_defective_lamp_(House_Item)
   history: https://eq2.fandom.com/wiki/A_defective_lamp_(House_Item)?action=history
-  revision: 1635488
-  revised: '2023-01-05T12:25:26Z'
+  revision: 2030777
+  revised: '2026-10-02T22:03:14Z'
   license: CC BY-SA 3.0
 ---
 

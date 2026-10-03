@@ -80,7 +80,7 @@ source:
   revision: 1463849
   revised: '2022-06-08T20:27:23Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Shattered Lands
 expansion_source: source
 ---
 

@@ -27,14 +27,14 @@ source:
   title: Dark Power Desires
   url: https://eq2.fandom.com/wiki/Dark_Power_Desires
   history: https://eq2.fandom.com/wiki/Dark_Power_Desires?action=history
-  revision: 1736143
-  revised: '2023-08-30T10:09:10Z'
+  revision: 2030507
+  revised: '2026-09-27T09:48:02Z'
   license: CC BY-SA 3.0
 ---
 
 ## Notes
 
-- Go to the [[North Wing Stacks]] on the first floor of the Library, then take the teleporter at {{waypoint -259, -20, -284}} to the [[Elemental Portal Gallery]] and enter [[Doomfire, the Burning Lands]] through the portal at {{waypoint 728, 412, -336}}.
+- Go to the [[North Wing Stacks]] on the first floor of the Library, then take the teleporter at {{waypoint 258, -20, -289}} to the [[Elemental Portal Gallery]] and enter [[Doomfire, the Burning Lands]] through the portal at {{waypoint 728, 412, -336}}.
 
 ## Steps
 

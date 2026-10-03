@@ -23,8 +23,8 @@ source:
   revision: 1797155
   revised: '2024-05-03T11:29:39Z'
   license: CC BY-SA 3.0
-expansion: Destiny of Velious
-expansion_source: source
+expansion: Tears of Veeshan
+expansion_source: linked
 ---
 
 ## Notes

@@ -37,6 +37,7 @@ recipes: '- [[Blessed Feysteel Assault Axe]]
   - [[Imbued Feysteel Sai]]'
 obtained_from: This recipe book drops from creatures (level 31).
 item_link: \aITEM -312858673 152776135:Advanced Weaponsmith Volume 31\/a
+image: images/Advanced_Weaponsmith_Volume_31_(Normal).png
 categories:
 - Census Credits
 - Recipe Books
@@ -46,8 +47,8 @@ source:
   title: Advanced Weaponsmith Volume 31 (Normal)
   url: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_31_(Normal)
   history: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_31_(Normal)?action=history
-  revision: 1532447
-  revised: '2022-07-22T11:14:00Z'
+  revision: 2030712
+  revised: '2026-10-01T14:15:44Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

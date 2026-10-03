@@ -21,6 +21,7 @@ stats:
   dtype: Leather Armor
 obtained_from: '[[Ballads of Zimara: Razeland Rousing Ditty]]'
 item_link: \aITEM 1830524279 1875142113:Reflected Mantle of Spirit\/a
+image: images/Reflected_Mantle_of_Spirit.png
 categories:
 - Ability Modifier (Equipment)
 - Brawler Equipment
@@ -30,6 +31,7 @@ categories:
 - Crit Bonus (Equipment)
 - Druid Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fury Equipment
 - Leather Armor (Equipment Type)
 - Legendary Equipment
@@ -43,8 +45,8 @@ source:
   title: Reflected Mantle of Spirit
   url: https://eq2.fandom.com/wiki/Reflected_Mantle_of_Spirit
   history: https://eq2.fandom.com/wiki/Reflected_Mantle_of_Spirit?action=history
-  revision: 1794622
-  revised: '2024-05-02T18:50:39Z'
+  revision: 2030564
+  revised: '2026-09-28T13:46:05Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: source

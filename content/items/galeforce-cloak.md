@@ -14,6 +14,7 @@ stats:
   critbonus: '11.7'
   potency: '11.7'
 item_link: \aITEM 664291322 308490143:Galeforce Cloak\/a
+image: images/Galeforce_Cloak.png
 categories:
 - AE Autoattack Chance (Equipment)
 - Assassin Equipment
@@ -38,6 +39,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Fury Equipment
@@ -48,6 +50,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 - Paladin Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -69,8 +72,8 @@ source:
   title: Galeforce Cloak
   url: https://eq2.fandom.com/wiki/Galeforce_Cloak
   history: https://eq2.fandom.com/wiki/Galeforce_Cloak?action=history
-  revision: 1662116
-  revised: '2023-03-14T14:03:14Z'
+  revision: 2030426
+  revised: '2026-09-24T19:51:07Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

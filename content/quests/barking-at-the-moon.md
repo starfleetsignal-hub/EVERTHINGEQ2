@@ -30,8 +30,8 @@ source:
   title: Barking at the Moon
   url: https://eq2.fandom.com/wiki/Barking_at_the_Moon
   history: https://eq2.fandom.com/wiki/Barking_at_the_Moon?action=history
-  revision: 1960642
-  revised: '2026-01-25T07:14:39Z'
+  revision: 2030493
+  revised: '2026-09-26T19:34:35Z'
   license: CC BY-SA 3.0
 ---
 
@@ -62,7 +62,7 @@ source:
    1. Blood Pool 2 at {{waypoint 82, -1, 128}} - *(Ryizz has been here.)*
    1. Blood Pool 3 at {{waypoint 140, 0, 149}} - *(I am so close now, he cannot escape.)*
    1. Blood Pool 4 at {{waypoint 207, 0, 42}} - *(Here, more evidence of his passing.)*
-   1. Blood Pool 5 at {{waypoint 282, 0, 0}} - *(Ryizzs' power is strong here...)*
+   1. Blood Pool 5 at {{waypoint 282, 0, 0}} - *(Ryizz' power is strong here...)*
    1. Blood Pool 6 at {{waypoint 248, -1, 170}} - *(He was here just minutes ago.)*
    1. Blood Pool 7 at {{waypoint 294, -1, 170}} - *(Where is he, what are those runes over there.)*
 1. Click the runes at the base of the pillar in the center of the room {{waypoint 281, -1, 154}}

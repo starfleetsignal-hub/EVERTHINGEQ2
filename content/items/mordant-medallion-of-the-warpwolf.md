@@ -18,6 +18,7 @@ stats:
   resolve: '620'
   dps: '75.7'
 item_link: \aITEM 1459792987 841157672:Mordant Medallion of the Warpwolf\/a
+image: images/Mordant_Medallion_of_the_Warpwolf.png
 categories:
 - Ability Doublecast (Equipment)
 - Assassin Equipment
@@ -42,6 +43,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -75,8 +77,8 @@ source:
   title: Mordant Medallion of the Warpwolf
   url: https://eq2.fandom.com/wiki/Mordant_Medallion_of_the_Warpwolf
   history: https://eq2.fandom.com/wiki/Mordant_Medallion_of_the_Warpwolf?action=history
-  revision: 1919413
-  revised: '2025-12-17T21:00:32Z'
+  revision: 2030601
+  revised: '2026-09-28T19:57:25Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: level

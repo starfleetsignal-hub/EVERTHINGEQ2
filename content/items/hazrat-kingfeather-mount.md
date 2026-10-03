@@ -17,6 +17,7 @@ effect_name: Summon Hazrat Kingfeather
 effects: "- Applies Summon Hazrat Kingfeather when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%\n  - Your adventure level must be 100 or above to receive statistic bonuses.\n  - Increases Max Health of caster by 25,000.0.\n  - Increases Max Power of caster by 10,000.0.\n  - Increases Crit Bonus of caster by 40.0.\n  - Increases Potency of caster by 240.0.\n  - Increases Crit Chance of caster by 410.0.\n  - Increases Mitigation of caster vs elemental damage by 10,800.\n  - Increases Mitigation of caster vs noxious damage by 10,800.\n  - Increases Mitigation of caster vs arcane damage by 10,800.\n  - Increases Ability Mod of caster by 25,000.0.\n  - Increases Block Chance of caster by 4.0%."
 obtained_from: '[[Kunark Ascending: A Nightmare Realized]]'
 item_link: \aITEM 1132913817 -1311020351:Hazrat Kingfeather\/a
+image: images/Hazrat_Kingfeather.png
 categories:
 - Alchemist Equipment
 - Armorer Equipment
@@ -26,6 +27,7 @@ categories:
 - Craftsman Equipment
 - Fabled Items
 - Flying Mount (Item Subtype)
+- Item pages with existing iname images
 - Items
 - Jeweler Equipment
 - Mount (Item Type)
@@ -42,8 +44,8 @@ source:
   title: Hazrat Kingfeather (Mount)
   url: https://eq2.fandom.com/wiki/Hazrat_Kingfeather_(Mount)
   history: https://eq2.fandom.com/wiki/Hazrat_Kingfeather_(Mount)?action=history
-  revision: 1931085
-  revised: '2026-01-01T19:59:05Z'
+  revision: 2030465
+  revised: '2026-09-25T16:35:36Z'
   license: CC BY-SA 3.0
 expansion: Kunark Ascending
 expansion_source: source

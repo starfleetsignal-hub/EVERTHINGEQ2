@@ -80,8 +80,8 @@ source:
   revision: 1474062
   revised: '2022-06-10T20:01:51Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Sentinel's Fate
+expansion_source: level
 ---
 
 

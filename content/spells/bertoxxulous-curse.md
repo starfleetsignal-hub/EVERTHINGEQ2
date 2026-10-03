@@ -19,17 +19,18 @@ effects: '- Shapechanges caster
 
   - Must have completed the Quest ''[[A Caravan of Death]]'''
 categories:
+- Buff (Spell Type)
 - Census Credits
-- Spell needing Category
+- Illusion (Spell Type)
 - Spells
 - Spells by Type Abilities
 source:
   title: Bertoxxulous' Curse
   url: https://eq2.fandom.com/wiki/Bertoxxulous'_Curse
   history: https://eq2.fandom.com/wiki/Bertoxxulous'_Curse?action=history
-  revision: 1852882
-  revised: '2025-01-13T23:20:08Z'
+  revision: 2030459
+  revised: '2026-09-25T15:37:17Z'
   license: CC BY-SA 3.0
 ---
 
-﻿
+

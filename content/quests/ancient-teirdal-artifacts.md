@@ -2,6 +2,8 @@
 title: Ancient Teir'Dal Artifacts
 type: quest
 level: '20'
+zone: '[[Den of Seditious Daenethians]]'
+collection_type: Pages
 pieces:
 - name: King Thex Brooch
 - name: Gemmed Teir'Dal Pommel
@@ -15,9 +17,8 @@ pieces:
 - name: Prince of Hate Talisman
 categories:
 - Collection Quests
-- Collections missing zone
-- Collections needing rewards
 - Collections needing rewardtype
+- Den of Seditious Daenethians Collection Quests
 - Live Events (CQ Category)
 - Quests
 - Tier 3 Collection Quests
@@ -25,9 +26,12 @@ source:
   title: Ancient Teir'Dal Artifacts
   url: https://eq2.fandom.com/wiki/Ancient_Teir'Dal_Artifacts
   history: https://eq2.fandom.com/wiki/Ancient_Teir'Dal_Artifacts?action=history
-  revision: 2025536
-  revised: '2026-09-05T15:04:06Z'
+  revision: 2030521
+  revised: '2026-09-27T20:27:50Z'
   license: CC BY-SA 3.0
 ---
 
+## Rewards
 
+- 10 x [[Block Market Token]]
+- Title: [[Keen Eye]]

@@ -17,8 +17,8 @@ source:
   title: Prelude Paths of Sedition Timeline
   url: https://eq2.fandom.com/wiki/Prelude_Paths_of_Sedition_Timeline
   history: https://eq2.fandom.com/wiki/Prelude_Paths_of_Sedition_Timeline?action=history
-  revision: 2030246
-  revised: '2026-09-22T05:44:35Z'
+  revision: 2030701
+  revised: '2026-10-01T04:09:14Z'
   license: CC BY-SA 3.0
 ---
 
@@ -35,8 +35,8 @@ D.I.R.T.Y. Field Scout.
 
 ## Overview
 
-This event is the prelude to the next (still unnamed) Everquest II expansion. <br>
-It is currently set to activate on October 6th, 2026 on the live servers.
+This event is the prelude to the next Everquest II expansion: Descent to Val'Zyroth. <br>
+This prelude event is set to activate on October 6th, 2026 on the live servers. It will end when expansion launches.
 
 Speak to [[Salira Freecreek]] in [[The Commonlands]] at {{waypoint -526, -44, -314}} to start either adventure or tradeskill timeline. Quests scale to player level or crafting ability.<br>
 Salira stands in The Crossroads, in a safe location away from the guards, however good aligned players under level 30 should pay attention to guards' positions (at each bridge to Crossroads, by guard tower and one pathing across the area.). You can cross the moat from Northeast to speak with her.
@@ -44,31 +44,32 @@ Salira stands in The Crossroads, in a safe location away from the guards, howeve
 **Note: You will need to choose which path you will take (adventure or crafting) to help Salira during that initial conversation with her.**
 
 - If you choose adventure path you can still do crafting repeatable quests after completing quest [['Round the Block and Tackle]].
-- If you choose crafting path you will still be able to get the later adventure quests ([[Operation: Faith Shaker]] and <s>adventure daily repeatable</s>) after you complete at least one crafting repeatable quest.
+- If you choose crafting path you will still be able to get the later adventure quests ([[Operation: Faith Shaker]] and adventure daily repeatable) after you complete at least one crafting repeatable quest.
 
-## Adventure quests
+## Adventure path
 
 1. [[Artifacts or Fiction]]
 1. [[Revelations in Devotion]]
-1. [['Round the Block and Tackle]]
-1. [[Spider Off Dead]]
-1. [[Operation: Faith Shaker]]
+1. [['Round the Block and Tackle]] - unlocks two quests below for adventurers, also unlocks crafting repeatable quests if you choose to do them.
+   - [[Spider Off Dead]] - unlocks adventure repeatable quest.
+   - [[Operation: Faith Shaker]] - awards achievement with familiar as reward.
 
 ## Adventure repeatable quests
 
 Completing [[Spider Off Dead]] unlocks a daily (18 hours) repeatable adventure quest. Depending on your alignment you can get one of these quests:
 
 - [[Dispatch Conspirators for Freeport]] for evil aligned characters
-- [[Dispatch Conspirators for Neriak]] for citizens of [[Neriak, City of Hate]]
+- [[Dispatch Conspirators for Neriak]] specifically for citizens of [[Neriak, City of Hate]]
 - [[Dispatch Conspirators for Qeynos]] for good aligned characters
 
-## Tradeskill quests
+## Tradeskill path
 
 Crafting level closer to 10 is recommended due to recipes being level 10. Recipes are auto scribed even if you are lower than level 10, however you should  be at least level 2 crafter so you have your tradeskill arts to counter mishaps. Higher levels will make it very easy.
 
 1. [[Down and D.I.R.T.Y.]]
 1. [[Advancements in Devotion]]
-1. [['Round the Block and Tackle]]
+1. [['Round the Block and Tackle]] - unlocks crafting repeatable quests.
+   - Complete at least one tradeskill repeatable quest listed below to gain access to [[Operation: Faith Shaker]] (which awards achievement with familiar as reward) and adventure daily repeatable quest (listed in previous section) if you choose to do it.
 
 ## Tradeskill repeatable quests
 
@@ -92,9 +93,9 @@ After finishing main crafting series you can continue to complete repeatable que
 
 ## Collection
 
-- [[Ancient Teir'Dal Artifacts]] - rewards title [[Keen Eye (title)|Keen Eye]] and 20 x [[Block Market Token]]
+- [[Ancient Teir'Dal Artifacts]] - rewards title [[Keen Eye]] and 20 x [[Block Market Token]]
   - Obtained from:
-    - ground spawn inside [[Den of Seditious Daenethians]] (limited number per run) or
+    - ground spawn inside [[Den of Seditious Daenethians]] (2 spawns per instance) or
     - chance of getting it as part of reward from crafting repeateables [[Equipping the Red Hoods]], [[Gutstooth's Gud Food]], [[Recruit Requisitions]],[[Sewing Some Rage]]
 
 ## Event currency

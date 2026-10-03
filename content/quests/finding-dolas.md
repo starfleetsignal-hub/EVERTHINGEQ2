@@ -24,8 +24,8 @@ source:
   title: Finding Dolas
   url: https://eq2.fandom.com/wiki/Finding_Dolas
   history: https://eq2.fandom.com/wiki/Finding_Dolas?action=history
-  revision: 1755914
-  revised: '2023-11-28T23:57:04Z'
+  revision: 2030446
+  revised: '2026-09-25T04:25:47Z'
   license: CC BY-SA 3.0
 ---
 
@@ -136,7 +136,7 @@ NOTE: at NO point of the Starting Quest steps will the Scout be given a Quest Jo
      - One drop from a [[Skeletal terror]] in the east wing.
    - I need [[A runed skull]].
      - One drop from a [[Skeletal obscenity]] in the east wing.
-1. Return to Inquisitor Foust in [[Phantom Sea]] at {{waypoint 283, 51, 1063}}. He will give you a [[Visage of Malice (Recipe Boob)|Visage of Malice]] recipe that you must scribe, then head to the dark elf village [[Ghorkaal]] to the west of his location. Use a cauldron {{waypoint 806, 45, 927}} to craft the [[Visage of Malice (Item)|Visage of Malice]].  This will require a [[Shadowstone ore]] rare.
+1. Return to Inquisitor Foust in [[Phantom Sea]] at {{waypoint 283, 51, 1063}}. He will give you a [[Visage of Malice (Recipe Book)|Visage of Malice]] recipe that you must scribe, then head to the dark elf village [[Ghorkaal]] to the west of his location. Use a cauldron {{waypoint 806, 45, 927}} to craft the [[Visage of Malice (Item)|Visage of Malice]].  This will require a [[Shadowstone ore]] rare.
    - *Note: If you have lost any of the components, a chest will appear nearby the cauldron. Click it to be given replacements.*
 1. ![The Grand Inquisitor's Chapel Pillow](images/The_Grand_Inquisitor's_Chapel_Pillow.jpg)Head to the [[Cathedral of Bone: The Grand Inquisitor's Chapel]] at {{waypoint 730, 48, 786}} in order to slay the Grand Inquisitor.
    1. Use the [[Visage of Malice (Item)|Visage of Malice]] as soon as you zone in. Head down the second short flight of stairs and to the left to find a skull on a pillow at {{waypoint 12, 2, 141}} to despawn the golems.

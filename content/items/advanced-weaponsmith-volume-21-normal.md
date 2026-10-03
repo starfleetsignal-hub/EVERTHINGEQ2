@@ -37,6 +37,7 @@ recipes: '- [[Blessed Steel Assault Axe]]
   - [[Steel Sai]]'
 obtained_from: This recipe book drops from creatures (level 21).
 item_link: \aITEM -1993977158 -2130873854:Advanced Weaponsmith Volume 21\/a
+image: images/Advanced_Weaponsmith_Volume_21_(Normal).png
 categories:
 - Census Credits
 - Recipe Books
@@ -46,8 +47,8 @@ source:
   title: Advanced Weaponsmith Volume 21 (Normal)
   url: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_21_(Normal)
   history: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_21_(Normal)?action=history
-  revision: 1532427
-  revised: '2022-07-22T11:13:25Z'
+  revision: 2030659
+  revised: '2026-09-30T09:46:50Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

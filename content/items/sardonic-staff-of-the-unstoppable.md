@@ -65,8 +65,8 @@ source:
   title: Sardonic Staff of the Unstoppable
   url: https://eq2.fandom.com/wiki/Sardonic_Staff_of_the_Unstoppable
   history: https://eq2.fandom.com/wiki/Sardonic_Staff_of_the_Unstoppable?action=history
-  revision: 2029049
-  revised: '2026-09-13T19:39:31Z'
+  revision: 2030593
+  revised: '2026-09-28T18:08:35Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

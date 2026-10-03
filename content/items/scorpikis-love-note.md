@@ -16,7 +16,7 @@ source:
   revision: 1797324
   revised: '2024-05-03T11:55:44Z'
   license: CC BY-SA 3.0
-expansion: The Shadow Odyssey
+expansion: Terrors of Thalumbra
 expansion_source: source
 ---
 

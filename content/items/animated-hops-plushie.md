@@ -25,7 +25,7 @@ source:
   revision: 1862743
   revised: '2025-02-27T22:18:41Z'
   license: CC BY-SA 3.0
-expansion: Terrors of Thalumbra
+expansion: Shattered Lands
 expansion_source: source
 ---
 

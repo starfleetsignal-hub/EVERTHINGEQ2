@@ -67,8 +67,8 @@ source:
   revision: 1934465
   revised: '2026-01-02T18:55:02Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Blood of Luclin
+expansion_source: level
 ---
 
 

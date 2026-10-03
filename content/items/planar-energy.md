@@ -21,8 +21,8 @@ source:
   revision: 1390227
   revised: '2021-12-15T05:46:55Z'
   license: CC BY-SA 3.0
-expansion: Planes of Prophecy
-expansion_source: source
+expansion: Blood of Luclin
+expansion_source: linked
 ---
 
 

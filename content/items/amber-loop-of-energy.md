@@ -11,6 +11,7 @@ stats:
   str: '+9'
   sta: '+9'
 item_link: \aITEM -497375551 -1682993752:Amber Loop of Energy\/a
+image: images/Amber_Loop_of_Energy.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -31,6 +32,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Fury Equipment
@@ -41,6 +43,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nektulos Forest Dropped Items
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -62,11 +65,11 @@ source:
   title: Amber Loop of Energy
   url: https://eq2.fandom.com/wiki/Amber_Loop_of_Energy
   history: https://eq2.fandom.com/wiki/Amber_Loop_of_Energy?action=history
-  revision: 1291961
-  revised: '2021-04-05T16:59:19Z'
+  revision: 2030383
+  revised: '2026-09-24T16:10:35Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: level
+expansion_source: linked
 ---
 
 

@@ -67,8 +67,8 @@ source:
   revision: 1931792
   revised: '2026-01-01T21:02:53Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Rage of Cthurath
+expansion_source: level
 ---
 
 

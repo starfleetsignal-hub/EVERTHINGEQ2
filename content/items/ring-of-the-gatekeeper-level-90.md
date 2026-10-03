@@ -17,6 +17,7 @@ stats:
   vsarcane: +1,411
   mitinc: '8.3'
 item_link: \aITEM 1025787294 1150915392:Ring of the Gatekeeper\/a
+image: images/Ring_of_the_Gatekeeper_(Level_90).png
 aliases:
 - Ring of the Gatekeeper (Level 87)
 categories:
@@ -36,6 +37,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Guardian Equipment
@@ -61,8 +63,8 @@ source:
   title: Ring of the Gatekeeper (Level 90)
   url: https://eq2.fandom.com/wiki/Ring_of_the_Gatekeeper_(Level_90)
   history: https://eq2.fandom.com/wiki/Ring_of_the_Gatekeeper_(Level_90)?action=history
-  revision: 2024672
-  revised: '2026-08-29T14:27:28Z'
+  revision: 2030546
+  revised: '2026-09-28T10:43:18Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

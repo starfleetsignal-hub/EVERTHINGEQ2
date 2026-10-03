@@ -20,8 +20,8 @@ source:
   revision: 1387071
   revised: '2021-12-11T11:37:46Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Terrors of Thalumbra
+expansion_source: linked
 ---
 
 This item is needed for the collection: [[Banners of Thalumbra]]

@@ -16,6 +16,7 @@ stats:
 effect_name: Evasive Posture
 effects: "- When Equipped:\n  - Applies Evasive Posture IV.  Lasts for 10.0 seconds.\n    - Inflicts 668,800 crushing damage on target.\n    - Increases Block Chance of caster by 9.0%.\n    - Applies once per 10 seconds when avoiding an attack\n    - Cannot be modified except by direct means"
 item_link: \aITEM 2100593847 189630601:Hoop of Evasive Interception\/a
+image: images/Hoop_of_Evasive_Interception.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -41,6 +42,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Evasive Posture (Equipment)
 - Fabled Equipment
 - Fighter Equipment
@@ -53,6 +55,7 @@ categories:
 - Mystic Equipment
 - Necromancer Equipment
 - Noxious Resistance (Equipment)
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 - Paladin Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -76,11 +79,11 @@ source:
   title: Hoop of Evasive Interception
   url: https://eq2.fandom.com/wiki/Hoop_of_Evasive_Interception
   history: https://eq2.fandom.com/wiki/Hoop_of_Evasive_Interception?action=history
-  revision: 1815834
-  revised: '2024-08-15T17:26:07Z'
+  revision: 2030404
+  revised: '2026-09-24T18:09:35Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

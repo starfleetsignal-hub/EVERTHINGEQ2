@@ -29,14 +29,14 @@ source:
   title: The Agent's Mission Case
   url: https://eq2.fandom.com/wiki/The_Agent's_Mission_Case
   history: https://eq2.fandom.com/wiki/The_Agent's_Mission_Case?action=history
-  revision: 1849413
-  revised: '2025-01-01T22:06:58Z'
+  revision: 2030498
+  revised: '2026-09-27T00:17:53Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
-1. Go to the [[Den of the Widow Mistress]] {{waypoint 416, 64, 194}}, use the [[Drachnid Suit]] to avoid aggroing mobs, and recover the *mission case* from the body on the ground at {{waypoint 424, 33, 344}}.
+1. Go to the [[Den of the Widow Mistress]] {{waypoint 416, 64, 194}}, use the [[Drachnid Suit]] to avoid aggroing mobs, and recover the *mission case* from the body on the ground at {{waypoint 424, 33, 344}}. *The body that has the mission case is random.
 1. Return to [[Charleston Gnomegomery]] on [[Dreg's Landing]].
 
 ## Rewards

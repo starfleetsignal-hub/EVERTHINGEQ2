@@ -23,8 +23,8 @@ source:
   title: 'Shard of Hate: Reignited Hatred (Raid)'
   url: https://eq2.fandom.com/wiki/Shard_of_Hate:_Reignited_Hatred_(Raid)
   history: https://eq2.fandom.com/wiki/Shard_of_Hate:_Reignited_Hatred_(Raid)?action=history
-  revision: 1819004
-  revised: '2024-08-26T03:22:34Z'
+  revision: 2030472
+  revised: '2026-09-25T18:15:45Z'
   license: CC BY-SA 3.0
 ---
 
@@ -70,12 +70,12 @@ The raid mobs are in “rounds”, each consisting of 4 names:
 | [[Demetrius Crane (SoH: Reignited Hatred)\|Demetrius Crane]] | T2 | Click ravens in the cages |
 | [[Hand of Maestro]] | T2 | Destroy music boxes |
 | **Round 5** | **Tier** | **Spawn** |
-| [[Coercer T'vala]] | T1 | Use barrels to blow up cage where PQ fuel merchant is |
+| [[Coercer T'vala]] | T1 | Use barrels located around the wrath forges to blow up cage at the Repugnance Refectory on the west part of the zone. |
 | [[Dreadlord D'Somni (SoH: Reignited Hatred)\|Dreadlord D'Somni]] | T2 | Collect tools, place in the weapon rack by the anvil |
 | [[Grandmaster R'Tal]] | T2 | *"Undead wrapped in protection, naps are good."* Kill Kiraikueis. |
 | [[Avatar of Abhorrence]] | T3 | Click the gargoyles near the zone-in |
 | **Round 6** | **Tier** | **Spawn** |
-| [[Ashenbone Broodmaster]] | T3 | Loot bones from [[A bone dragon\|bone dragons]] and put in bone storage near the piano |
+| [[Ashenbone Broodmaster]] | T3 | Loot bones from [[A bone dragon\|bone dragons]] and put in the bone coffer next to the trees next to the moat near the the piano |
 | [[Avatar of Bone]] | T3 | *"Forming golem out of bone of previous challenges and a strong knock." :* Kill, in a row, The Culler of Bones, Mistress of Scorn, Master P'Tasa, Hand of Maestro and Grandmaster R'Tal. After that, knock on the door of the basilica. |
 | [[Byzola]] | T3 | *"Offer prior challenges skulls to the chapel of hate." :* Kill, in a row, The Deathrot Knight, The Mistress of Scorn, Master P'Tasa, Demetrius Crane and Dreadlord D'Somni. Then, click on the skulls at the basilica of hate. |
 | [[Kpul D'Vngur (SoH: Reignited Hatred)\|Maestro Kpul]] | T3 | *"Return pages of music."* It seems you need to have previously killed the Hand of Maestro. |

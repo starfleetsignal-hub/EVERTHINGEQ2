@@ -17,7 +17,9 @@ stats:
   resolve: '150'
   abmod: +44,125
   vselemental: +142,340
+obtained_from: Potential reward from [[Empyral Mission Reward Crate]]
 item_link: \aITEM 1768719078 1036602491:Adumbrated Steel Stud\/a
+image: images/Adumbrated_Steel_Stud.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -43,6 +45,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -79,8 +82,8 @@ source:
   title: Adumbrated Steel Stud
   url: https://eq2.fandom.com/wiki/Adumbrated_Steel_Stud
   history: https://eq2.fandom.com/wiki/Adumbrated_Steel_Stud?action=history
-  revision: 1642712
-  revised: '2023-03-13T21:44:28Z'
+  revision: 2030640
+  revised: '2026-09-29T21:36:06Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: level

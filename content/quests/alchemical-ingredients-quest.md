@@ -25,14 +25,14 @@ source:
   title: Alchemical Ingredients (Quest)
   url: https://eq2.fandom.com/wiki/Alchemical_Ingredients_(Quest)
   history: https://eq2.fandom.com/wiki/Alchemical_Ingredients_(Quest)?action=history
-  revision: 1592580
-  revised: '2022-12-08T12:13:51Z'
+  revision: 2030730
+  revised: '2026-10-02T15:15:46Z'
   license: CC BY-SA 3.0
 ---
 
 ## Note
 
-- Character Level 83 needed at least
+- Minimum character level 83 required.
 
 ## Steps
 

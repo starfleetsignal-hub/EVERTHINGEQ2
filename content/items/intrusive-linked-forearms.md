@@ -57,8 +57,8 @@ source:
   revision: 1796091
   revised: '2024-05-02T23:31:27Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Terrors of Thalumbra
+expansion_source: linked
 ---
 
 

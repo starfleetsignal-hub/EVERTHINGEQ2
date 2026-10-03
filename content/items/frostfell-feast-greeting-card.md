@@ -22,7 +22,7 @@ source:
   revision: 1804825
   revised: '2024-06-29T14:04:15Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Desert of Flames
 expansion_source: source
 ---
 

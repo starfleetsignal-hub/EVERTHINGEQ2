@@ -21,7 +21,7 @@ source:
   revision: 2000567
   revised: '2026-05-03T22:17:47Z'
   license: CC BY-SA 3.0
-expansion: Visions of Vetrovia
+expansion: Renewal of Ro
 expansion_source: source
 ---
 

@@ -68,7 +68,7 @@ source:
   revision: 1928044
   revised: '2026-01-01T15:34:30Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Terrors of Thalumbra
 expansion_source: source
 ---
 

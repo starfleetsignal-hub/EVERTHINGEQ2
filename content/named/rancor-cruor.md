@@ -11,6 +11,7 @@ drops:
 - '[[Green Malice Shard]]'
 - '[[Mithril Ring of Swift Sacrifice]]'
 - '[[Bold Malevolent Leather Gloves]]'
+- '[[Bold Malevolent Gloves (Normal)]]'
 added_in: Altar of Malice
 categories:
 - Altar of Malice Named Monsters
@@ -27,8 +28,8 @@ source:
   title: Rancor Cruor
   url: https://eq2.fandom.com/wiki/Rancor_Cruor
   history: https://eq2.fandom.com/wiki/Rancor_Cruor?action=history
-  revision: 1915616
-  revised: '2025-12-07T18:59:09Z'
+  revision: 2030429
+  revised: '2026-09-24T20:04:31Z'
   license: CC BY-SA 3.0
 ---
 

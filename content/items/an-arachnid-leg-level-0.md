@@ -10,13 +10,12 @@ categories:
 - Census Credits
 - Item pages with existing iname images
 - Items
-- Queen's Colony Dropped Items
 source:
   title: An arachnid leg (Level 0)
   url: https://eq2.fandom.com/wiki/An_arachnid_leg_(Level_0)
   history: https://eq2.fandom.com/wiki/An_arachnid_leg_(Level_0)?action=history
-  revision: 1639966
-  revised: '2023-02-17T14:40:08Z'
+  revision: 2030364
+  revised: '2026-09-24T14:03:29Z'
   license: CC BY-SA 3.0
 ---
 

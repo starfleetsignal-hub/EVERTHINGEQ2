@@ -16,7 +16,7 @@ source:
   revision: 1915628
   revised: '2025-12-07T22:03:06Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Blood of Luclin
 expansion_source: source
 ---
 

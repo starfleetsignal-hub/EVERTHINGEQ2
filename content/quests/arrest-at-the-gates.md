@@ -24,8 +24,8 @@ source:
   title: Arrest at the Gates
   url: https://eq2.fandom.com/wiki/Arrest_at_the_Gates
   history: https://eq2.fandom.com/wiki/Arrest_at_the_Gates?action=history
-  revision: 1845981
-  revised: '2024-12-13T21:35:57Z'
+  revision: 2030761
+  revised: '2026-10-02T18:16:39Z'
   license: CC BY-SA 3.0
 expansion: Age of Discovery
 expansion_source: patch
@@ -39,7 +39,7 @@ expansion_source: patch
 1. ![Militia brig building](images/Nettlevile_militia_brig.png)Speak to a Freeblood at the militia brig
    - Head to the southwestern-most building and speak to [[Taria]] {{waypoint 658, -25, 341}}.
    - Be aware that the roaming [[A council reservist|council reservists]] and [[A council captain|council captains]] have wide aggro radii, AND that there are two monsters hidden in the militia brig.
-   - After your conversation with Taria, she gives you [[A council medallion]] to take back to Talas.
+   - After your conversation with [[Taria]], she gives you [[A council medallion (Version 1)|a council medallion]] to take back to Talas.
 1. Escape Nettleville with the medallion. Just run back the way you came and click on the gate.  There shouldn't be any respawns to worry about.
 
 ## Rewards

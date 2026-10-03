@@ -72,7 +72,7 @@ source:
   revision: 2029142
   revised: '2026-09-14T09:58:19Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
+expansion: Altar of Malice
 expansion_source: linked
 ---
 

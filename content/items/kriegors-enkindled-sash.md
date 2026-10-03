@@ -18,6 +18,7 @@ stats:
   resolve: '45'
   multi: '73.2'
 item_link: \aITEM -1178491867 359688466:Kriegor's Enkindled Sash\/a
+image: images/Kriegor's_Enkindled_Sash.png
 categories:
 - Ability Doublecast (Equipment)
 - Assassin Equipment
@@ -41,6 +42,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -75,8 +77,8 @@ source:
   title: Kriegor's Enkindled Sash
   url: https://eq2.fandom.com/wiki/Kriegor's_Enkindled_Sash
   history: https://eq2.fandom.com/wiki/Kriegor's_Enkindled_Sash?action=history
-  revision: 1834927
-  revised: '2024-11-24T21:12:24Z'
+  revision: 2030580
+  revised: '2026-09-28T16:15:47Z'
   license: CC BY-SA 3.0
 expansion: Planes of Prophecy
 expansion_source: level

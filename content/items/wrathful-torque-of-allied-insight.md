@@ -17,6 +17,7 @@ stats:
 effect_name: Allied Insight
 effects: "- When Equipped:\n  - Increases the wearer's Crit Bonus by 75 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 105."
 item_link: \aITEM -1199341338 1961345308:Wrathful Torque of Allied Insight\/a
+image: images/Wrathful_Torque_of_Allied_Insight.png
 categories:
 - AE Autoattack Chance (Equipment)
 - Allied Insight (Equipment)
@@ -41,6 +42,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Fury Equipment
@@ -52,6 +54,7 @@ categories:
 - Mystic Equipment
 - Neck (Inventory Slot)
 - Necromancer Equipment
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 - Paladin Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -73,11 +76,11 @@ source:
   title: Wrathful Torque of Allied Insight
   url: https://eq2.fandom.com/wiki/Wrathful_Torque_of_Allied_Insight
   history: https://eq2.fandom.com/wiki/Wrathful_Torque_of_Allied_Insight?action=history
-  revision: 1690864
-  revised: '2023-03-16T17:16:51Z'
+  revision: 2030419
+  revised: '2026-09-24T18:53:45Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

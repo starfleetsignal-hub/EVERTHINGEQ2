@@ -19,6 +19,8 @@ source:
   revision: 1732576
   revised: '2023-07-11T20:28:55Z'
   license: CC BY-SA 3.0
+expansion: Echoes of Faydwer
+expansion_source: linked
 ---
 
 

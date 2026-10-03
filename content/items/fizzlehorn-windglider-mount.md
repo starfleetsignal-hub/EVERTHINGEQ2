@@ -45,8 +45,8 @@ source:
   revision: 1930422
   revised: '2026-01-01T18:27:00Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: source
+expansion: Kingdom of Sky
+expansion_source: level
 ---
 
 

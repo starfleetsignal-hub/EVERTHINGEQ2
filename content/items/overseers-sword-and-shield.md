@@ -27,8 +27,8 @@ source:
   revision: 1122085
   revised: '2020-10-01T21:34:17Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Kunark Ascending
+expansion_source: linked
 ---
 
 ## Notes

@@ -66,8 +66,8 @@ source:
   title: Virulent Obsidian Battlestaff
   url: https://eq2.fandom.com/wiki/Virulent_Obsidian_Battlestaff
   history: https://eq2.fandom.com/wiki/Virulent_Obsidian_Battlestaff?action=history
-  revision: 2029029
-  revised: '2026-09-13T19:26:52Z'
+  revision: 2030582
+  revised: '2026-09-28T16:21:07Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

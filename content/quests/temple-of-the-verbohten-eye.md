@@ -23,8 +23,8 @@ source:
   title: Temple of the Ver'Bohten Eye
   url: https://eq2.fandom.com/wiki/Temple_of_the_Ver'Bohten_Eye
   history: https://eq2.fandom.com/wiki/Temple_of_the_Ver'Bohten_Eye?action=history
-  revision: 2009643
-  revised: '2026-05-22T01:19:14Z'
+  revision: 2030650
+  revised: '2026-09-30T04:08:18Z'
   license: CC BY-SA 3.0
 ---
 
@@ -47,7 +47,8 @@ source:
    1. Use the "Teleport to [[Chancellor's Court]]" at {{waypoint -728.52, 179.84, 173.67}}.
    1. Use the "Teleport to [[Ver'Bohten Rise]]" at {{waypoint -869.07, 197.16, 110.18}}.
    1. Jump down from the platform at {{waypoint -785.95, 270.01, 193.17}}.
-   - Parachute or safe fall down to lower levels to track down missed items, then retrace steps back up.
+   1. Parachute or safe fall down to lower levels to track down missed items, then retrace steps back up.
+   1. Make sure you gather all the mechanimagica defenses before you kill Yligiyak Vok named or your quest won't update. Killing Yligiyak Vok is the actual update.
 1. Continue to investigate the situation on Ver'Bohten Atoll
    - Use the "Teleport to [[Baron's Pinnacle]]" at {{waypoint -821.30, 251.31, 265.10}}.
 1. Kill [[Ziggin]] at {{waypoint -829.92, 293.61, 259.47}}

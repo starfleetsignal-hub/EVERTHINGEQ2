@@ -60,6 +60,8 @@ source:
   revision: 1276061
   revised: '2021-01-21T15:30:29Z'
   license: CC BY-SA 3.0
+expansion: Tears of Veeshan
+expansion_source: linked
 ---
 
 ﻿|

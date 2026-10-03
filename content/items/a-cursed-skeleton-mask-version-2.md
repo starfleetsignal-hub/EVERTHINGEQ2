@@ -12,7 +12,10 @@ stats:
   agi: '+1'
   mit: '1'
   dtype: Cloth Armor
+obtained_from: '[[Ghost Hunting]]'
 item_link: \aITEM -1761237736 -1275039254:a cursed skeleton mask\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -43,6 +46,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -63,11 +67,19 @@ source:
   title: A cursed skeleton mask (Version 2)
   url: https://eq2.fandom.com/wiki/A_cursed_skeleton_mask_(Version_2)
   history: https://eq2.fandom.com/wiki/A_cursed_skeleton_mask_(Version_2)?action=history
-  revision: 945164
-  revised: '2019-03-17T23:08:06Z'
+  revision: 2030774
+  revised: '2026-10-02T21:58:23Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
 ---
 
+## Notes
 
+This is one of the masks you can choose when you catch enough ghosts for a big prize.
+
+- **Current versions of the [[Nights of the Dead]] masks do not have any stats beyond 7 Mitigation.**
+- This mask was added in 2008.
+- About older versions:
+- The old version of this mask was from the (now retired) quest, [[Trick or Treat]].
+- The old version had +5 to arcane, noxious, and elemental.

@@ -18,7 +18,7 @@ source:
   revision: 1640455
   revised: '2023-02-21T16:06:56Z'
   license: CC BY-SA 3.0
-expansion: The Shadow Odyssey
+expansion: Reign of Shadows
 expansion_source: source
 ---
 

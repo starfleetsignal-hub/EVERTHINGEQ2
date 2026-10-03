@@ -20,7 +20,7 @@ source:
   revision: 1734940
   revised: '2023-08-15T02:30:24Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
+expansion: Destiny of Velious
 expansion_source: source
 ---
 

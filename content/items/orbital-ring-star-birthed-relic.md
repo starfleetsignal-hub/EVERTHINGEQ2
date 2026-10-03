@@ -20,6 +20,7 @@ stats:
 effect_name: Sick Star
 effects: "- When Equipped:\n  - Increases Crit Bonus of caster by 862.5.\n  - Cannot be modified except by direct means"
 item_link: \aITEM 967074901 -650316890:Orbital Ring, Star Birthed Relic\/a
+image: images/Orbital_Ring,_Star_Birthed_Relic.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -44,6 +45,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Relic Equipment
 - Fighter Equipment
 - Finger (Inventory Slot)
@@ -81,8 +83,8 @@ source:
   title: Orbital Ring, Star Birthed Relic
   url: https://eq2.fandom.com/wiki/Orbital_Ring,_Star_Birthed_Relic
   history: https://eq2.fandom.com/wiki/Orbital_Ring,_Star_Birthed_Relic?action=history
-  revision: 1923605
-  revised: '2025-12-31T12:57:43Z'
+  revision: 2030621
+  revised: '2026-09-29T10:48:35Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: linked

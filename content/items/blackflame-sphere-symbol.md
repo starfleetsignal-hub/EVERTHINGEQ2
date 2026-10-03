@@ -24,6 +24,7 @@ effect_name: Devastation Strike
 effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Devastation Strike on target of attack.  Triggers about 4.0 times per minute.\n    - Inflicts 5,954 heat damage on targets in Area of Effect.\n    - Cannot be modified except by direct means\n  - Cannot trigger when the caster has their AE Auto-Attack Chance disabled"
 obtained_from: 'Collection reward: [[Blackflame Sphere (Collection)]]'
 item_link: \aITEM 1282841846 2042848705:Blackflame Sphere\/a
+image: images/Blackflame_Sphere_(Symbol).png
 categories:
 - Ability Modifier (Equipment)
 - Attack Speed (Equipment)
@@ -41,6 +42,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fury Equipment
 - Illusionist Equipment
 - Inquisitor Equipment
@@ -65,8 +67,8 @@ source:
   title: Blackflame Sphere (Symbol)
   url: https://eq2.fandom.com/wiki/Blackflame_Sphere_(Symbol)
   history: https://eq2.fandom.com/wiki/Blackflame_Sphere_(Symbol)?action=history
-  revision: 1891683
-  revised: '2025-09-17T20:07:12Z'
+  revision: 2030670
+  revised: '2026-09-30T21:40:15Z'
   license: CC BY-SA 3.0
 expansion: Chaos Descending
 expansion_source: source
