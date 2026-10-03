@@ -21,7 +21,7 @@ source:
   revision: 2026676
   revised: '2026-09-06T20:20:53Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Destiny of Velious
 expansion_source: source
 ---
 

@@ -16,6 +16,7 @@ stats:
   multi: '99.7'
   dtype: Cloth Armor
 item_link: \aITEM -581577983 -1950533914:Bold Malevolent Gloves\/a
+image: images/Bold_Malevolent_Gloves_(Normal).png
 categories:
 - Census Credits
 - Cloth Armor (Equipment Type)
@@ -25,12 +26,14 @@ categories:
 - DPS (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Hands (Inventory Slot)
 - Illusionist Equipment
 - Mage Equipment
 - Multi Attack Chance (Equipment)
 - Necromancer Equipment
+- Ossuary of Malevolence (Contested) Dropped Items
 - Sorcerer Equipment
 - Summoner Equipment
 - Tier 10 Equipment
@@ -41,11 +44,11 @@ source:
   title: Bold Malevolent Gloves (Normal)
   url: https://eq2.fandom.com/wiki/Bold_Malevolent_Gloves_(Normal)
   history: https://eq2.fandom.com/wiki/Bold_Malevolent_Gloves_(Normal)?action=history
-  revision: 1916474
-  revised: '2025-12-12T16:50:53Z'
+  revision: 2030551
+  revised: '2026-09-28T11:16:54Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

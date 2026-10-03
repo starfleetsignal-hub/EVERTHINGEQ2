@@ -18,7 +18,9 @@ stats:
   aspeed: '75.6'
   multi: '83'
   vselemental: +142,340
+obtained_from: Potential reward from [[Empyral Mission Reward Crate]]
 item_link: \aITEM -1863476222 2090857615:Adumbrated Steel Bracelet\/a
+image: images/Adumbrated_Steel_Bracelet.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -43,6 +45,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -80,8 +83,8 @@ source:
   title: Adumbrated Steel Bracelet
   url: https://eq2.fandom.com/wiki/Adumbrated_Steel_Bracelet
   history: https://eq2.fandom.com/wiki/Adumbrated_Steel_Bracelet?action=history
-  revision: 1642681
-  revised: '2023-03-13T21:43:45Z'
+  revision: 2030634
+  revised: '2026-09-29T21:25:44Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: level

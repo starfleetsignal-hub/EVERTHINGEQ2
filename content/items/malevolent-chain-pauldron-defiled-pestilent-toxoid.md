@@ -19,17 +19,20 @@ contains: '- [[Toxoid Shoulderguards of Animus (0 Gem){{!}}Toxoid Shoulderguards
 
   - [[Pestilent Shoulders of Gall (0 Gem){{!}}Pestilent Shoulders of Gall]]'
 item_link: \aITEM -195712746 845609199:Malevolent Chain Pauldron\/a
+image: images/Malevolent_Chain_Pauldron_(Defiled,_Pestilent,_Toxoid).png
 categories:
 - Census Credits
 - Crate (Item Type)
 - Fabled Items
+- Item pages with existing iname images
 - Items
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 source:
   title: Malevolent Chain Pauldron (Defiled, Pestilent, Toxoid)
   url: https://eq2.fandom.com/wiki/Malevolent_Chain_Pauldron_(Defiled,_Pestilent,_Toxoid)
   history: https://eq2.fandom.com/wiki/Malevolent_Chain_Pauldron_(Defiled,_Pestilent,_Toxoid)?action=history
-  revision: 1695715
-  revised: '2023-03-16T20:04:27Z'
+  revision: 2030412
+  revised: '2026-09-24T18:28:41Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

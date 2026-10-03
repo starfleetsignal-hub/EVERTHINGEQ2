@@ -36,8 +36,8 @@ source:
   revision: 2001738
   revised: '2026-05-10T06:17:16Z'
   license: CC BY-SA 3.0
-expansion: Chains of Eternity
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: linked
 ---
 
 ## Notes

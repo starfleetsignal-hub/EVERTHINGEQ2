@@ -24,8 +24,8 @@ source:
   revision: 2001315
   revised: '2026-05-07T11:37:10Z'
   license: CC BY-SA 3.0
-expansion: Sentinel's Fate
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: linked
 ---
 
 

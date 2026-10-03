@@ -37,6 +37,7 @@ recipes: '- [[Blessed Feysteel Hand Axe]]
   - [[Imbued Feysteel Scourge]]'
 obtained_from: This recipe book drops from creatures (level 33).
 item_link: \aITEM 55854819 1989597027:Advanced Weaponsmith Volume 33\/a
+image: images/Advanced_Weaponsmith_Volume_33_(Normal).png
 categories:
 - Census Credits
 - Recipe Books
@@ -46,8 +47,8 @@ source:
   title: Advanced Weaponsmith Volume 33 (Normal)
   url: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_33_(Normal)
   history: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_33_(Normal)?action=history
-  revision: 1532451
-  revised: '2022-07-22T11:14:07Z'
+  revision: 2030716
+  revised: '2026-10-01T15:40:17Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

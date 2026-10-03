@@ -70,8 +70,8 @@ source:
   revision: 1595954
   revised: '2022-12-08T22:57:11Z'
   license: CC BY-SA 3.0
-expansion: Kingdom of Sky
-expansion_source: source
+expansion: Echoes of Faydwer
+expansion_source: level
 ---
 
 

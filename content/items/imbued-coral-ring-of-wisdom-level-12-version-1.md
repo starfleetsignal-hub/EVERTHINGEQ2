@@ -12,7 +12,9 @@ stats:
   int: '+4'
 effect_name: Aura of Wisdom
 effects: "- When Equipped:\n  - On a beneficial spell cast this spell may cast Gleam of Wisdom on caster.  Lasts for 45.0 seconds.  Triggers about 1.8 times per minute.\n    - Increases WIS of caster by 4.0.\n    - Increases Ordination, Ministration and Focus of caster by 2.3.\n    - Cannot be modified except by direct means"
+obtained_from: Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (Normal)]]
 item_link: \aITEM 91197773 -441852909:Imbued Coral Ring of Wisdom\/a
+image: images/Imbued_Coral_Ring_of_Wisdom.png
 aliases:
 - Imbued Coral Ring of Wisdom (Level 10) (9 wis)
 categories:
@@ -36,6 +38,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Fury Equipment
@@ -67,8 +70,8 @@ source:
   title: Imbued Coral Ring of Wisdom (Level 12) (Version 1)
   url: https://eq2.fandom.com/wiki/Imbued_Coral_Ring_of_Wisdom_(Level_12)_(Version_1)
   history: https://eq2.fandom.com/wiki/Imbued_Coral_Ring_of_Wisdom_(Level_12)_(Version_1)?action=history
-  revision: 1962950
-  revised: '2026-01-25T22:12:05Z'
+  revision: 2030371
+  revised: '2026-09-24T15:47:35Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

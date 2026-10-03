@@ -20,8 +20,8 @@ source:
   revision: 1734904
   revised: '2023-08-14T22:30:53Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Terrors of Thalumbra
+expansion_source: linked
 ---
 
 This item is needed for the collection: [[Tokens of the Dhalgar]]

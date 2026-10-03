@@ -21,6 +21,7 @@ stats:
   mitinc: '22'
   dtype: Chain Armor
 item_link: \aITEM 916223968 1066982177:Boots of the Fiend\/a
+image: images/Boots_of_the_Fiend.png
 categories:
 - Ability Modifier (Equipment)
 - Assassin Equipment
@@ -32,7 +33,9 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Defiler Equipment
 - Dirge Equipment
+- 'Doomfire: The Enkindled Towers (Solo) Dropped Items'
 - Equipment
+- Equipment pages with existing iname images
 - Feet (Inventory Slot)
 - Legendary Equipment
 - Max Health (Equipment)
@@ -52,11 +55,11 @@ source:
   title: Boots of the Fiend
   url: https://eq2.fandom.com/wiki/Boots_of_the_Fiend
   history: https://eq2.fandom.com/wiki/Boots_of_the_Fiend?action=history
-  revision: 1647815
-  revised: '2023-03-13T23:19:50Z'
+  revision: 2030532
+  revised: '2026-09-27T22:01:27Z'
   license: CC BY-SA 3.0
-expansion: Planes of Prophecy
-expansion_source: level
+expansion: Chaos Descending
+expansion_source: linked
 ---
 
 

@@ -17,6 +17,7 @@ stats:
   resolve: '620'
   vselemental: +401,940
 item_link: \aITEM -226624135 762801921:Mordant Ring of the Warpwolf\/a
+image: images/Mordant_Ring_of_the_Warpwolf.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -40,6 +41,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Fury Equipment
@@ -76,8 +78,8 @@ source:
   title: Mordant Ring of the Warpwolf
   url: https://eq2.fandom.com/wiki/Mordant_Ring_of_the_Warpwolf
   history: https://eq2.fandom.com/wiki/Mordant_Ring_of_the_Warpwolf?action=history
-  revision: 1919422
-  revised: '2025-12-17T21:00:50Z'
+  revision: 2030610
+  revised: '2026-09-28T22:49:57Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: level

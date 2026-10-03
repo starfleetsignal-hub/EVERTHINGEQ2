@@ -20,6 +20,7 @@ effect_name: Exalted Wave
 effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Exalted Wave on target of attack.  Lasts for 10.0 seconds.  Triggers about 2.0 times per minute.\n    - Inflicts 24 - 26 cold damage on targets in Area of Effect instantly and every 2 seconds.\n    - Heals group members (AE) for 23 - 25 instantly and every 2 seconds.\n    - Increases the amount of wards and heals cast by the caster's group by 5%.\n    - Must not be engaged in pvp combat\n    - Cannot be modified except by direct means"
 obtained_from: '*Crafted by [[Artisan]] (level 10) from [[Ancient Knowledge: Dire Sledge of Smiting]] *Made from [[Humming Reactant]]'
 item_link: \aITEM 843844766 2094702187:Dire Sledge of Smiting\/a
+image: images/Dire_Sledge_of_Smiting.png
 categories:
 - Beastlord Equipment
 - Berserker Equipment
@@ -36,6 +37,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Exalted Wave (Equipment)
 - Fighter Equipment
 - Fury Equipment
@@ -67,8 +69,8 @@ source:
   title: Dire Sledge of Smiting
   url: https://eq2.fandom.com/wiki/Dire_Sledge_of_Smiting
   history: https://eq2.fandom.com/wiki/Dire_Sledge_of_Smiting?action=history
-  revision: 1896774
-  revised: '2025-09-18T17:58:37Z'
+  revision: 2030374
+  revised: '2026-09-24T15:52:12Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

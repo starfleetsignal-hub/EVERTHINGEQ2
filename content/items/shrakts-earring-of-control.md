@@ -60,7 +60,7 @@ source:
   revision: 1376001
   revised: '2021-12-05T19:13:06Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
+expansion: Desert of Flames
 expansion_source: source
 ---
 

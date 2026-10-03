@@ -21,8 +21,8 @@ source:
   title: D.I.R.T.Y. Crafters!
   url: https://eq2.fandom.com/wiki/D.I.R.T.Y._Crafters!
   history: https://eq2.fandom.com/wiki/D.I.R.T.Y._Crafters!?action=history
-  revision: 1394095
-  revised: '2022-01-10T18:16:41Z'
+  revision: 2030435
+  revised: '2026-09-25T04:12:13Z'
   license: CC BY-SA 3.0
 expansion: The Shadow Odyssey
 expansion_source: patch
@@ -42,7 +42,7 @@ expansion_source: patch
    - Alchemist: [[Odorous Foul Fragrance]]s
    - Armorsmith: [[Excavation Hat]]s
    - Carpenter: [[Wheelbarrow]]s or mast riggings
-   - Jeweler: [[Book Clasps]]
+   - Jeweler: [[Book Clasp]]s
    - Provisioner: [[Meaty Rice Entree (M.R.E.)|Meaty Rice Entrees (M.R.E.s)]]
    - Sage: [[Ream of Paper|Reams of paper]]
    - Tailor: [[Fresh Cloths]]

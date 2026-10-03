@@ -18,6 +18,7 @@ stats:
   resolve: '450'
   dtype: Chain Armor
 item_link: \aITEM -1978626691 -1245571225:Aviak Chain Bracers of Aether\/a
+image: images/Aviak_Chain_Bracers_of_Aether.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -30,6 +31,7 @@ categories:
 - Defiler Equipment
 - Dirge Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Forearms (Inventory Slot)
 - Mystic Equipment
 - Potency (Equipment)
@@ -48,8 +50,8 @@ source:
   title: Aviak Chain Bracers of Aether
   url: https://eq2.fandom.com/wiki/Aviak_Chain_Bracers_of_Aether
   history: https://eq2.fandom.com/wiki/Aviak_Chain_Bracers_of_Aether?action=history
-  revision: 2029726
-  revised: '2026-09-16T17:47:00Z'
+  revision: 2030578
+  revised: '2026-09-28T15:51:16Z'
   license: CC BY-SA 3.0
 expansion: Visions of Vetrovia
 expansion_source: level

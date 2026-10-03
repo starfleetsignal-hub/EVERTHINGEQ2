@@ -1,0 +1,53 @@
+name: Wiki sync
+
+# Brings content/ up to date with eq2.fandom.com: pages created, edited, moved or deleted since the last sync
+# (data/wiki-sync.json), new pictures (data/pictures.json) and icons. Runs here because GitHub's runners can reach
+# the wiki. On main (weekly, or by hand) it opens a pull request; on a claude/wiki-sync-* branch it commits there.
+on:
+  schedule:
+    - cron: "17 6 * * 1"     # Mondays 06:17 UTC
+  workflow_dispatch:
+  push:
+    branches: ["claude/wiki-sync-*"]
+    paths: ["tools/wiki_sync.py", ".github/workflows/wiki-sync.yml"]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: wiki-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - run: python3 tools/wiki_sync.py
+      - run: python3 tools/assign_release.py > /tmp/releases.log; grep -E "^(quests|items)" /tmp/releases.log
+      - run: python3 tools/resolve_links.py
+      - name: Commit
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A content data images
+          summary=$(python3 -c "import json; r=json.load(open('data/wiki-sync.json')); print(f\"{len(r['new'])} new, {len(r['updated'])} updated, {len(r['removed'])} removed pages since {r['since'][:10]}\")")
+          if git diff --cached --quiet -- content images data/pictures.json; then echo "Nothing new on the wiki"; exit 0; fi
+          git commit -q -m "Wiki sync: $summary"
+          if [ "$GITHUB_REF_NAME" = "main" ]; then
+            branch="wiki-sync/$(date -u +%Y-%m-%d)"
+            git push -f origin "HEAD:refs/heads/$branch"
+            gh pr create --head "$branch" --base main --title "Wiki sync $(date -u +%Y-%m-%d)" \
+              --body "Pages from eq2.fandom.com that changed: $summary. Details in data/wiki-sync.json." \
+              || echo "Branch $branch is pushed; open its pull request by hand (Actions may not be allowed to create PRs)"
+          else
+            git push origin "HEAD:$GITHUB_REF_NAME"
+          fi

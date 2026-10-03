@@ -22,7 +22,9 @@ stats:
   dtype: Buckler
 effect_name: Decisive Strike
 effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Decisive Strike on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Inflicts 12,402 crushing damage on target.\n    - Increases Crit Bonus of caster by 34.5.\n    - Increases Potency of caster by 54.0.\n    - Cannot be modified except by direct means"
+obtained_from: Potential reward from [[Empyral Mission Reward Crate]]
 item_link: \aITEM 2128987729 -1129679220:Adumbrated Steel Buckler\/a
+image: images/Adumbrated_Steel_Buckler.png
 categories:
 - Ability Modifier (Equipment)
 - Assassin Equipment
@@ -42,6 +44,7 @@ categories:
 - Dirge Equipment
 - Druid Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fury Equipment
 - Inquisitor Equipment
 - Legendary Equipment
@@ -64,8 +67,8 @@ source:
   title: Adumbrated Steel Buckler
   url: https://eq2.fandom.com/wiki/Adumbrated_Steel_Buckler
   history: https://eq2.fandom.com/wiki/Adumbrated_Steel_Buckler?action=history
-  revision: 1891579
-  revised: '2025-09-17T20:03:41Z'
+  revision: 2030638
+  revised: '2026-09-29T21:32:06Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: level

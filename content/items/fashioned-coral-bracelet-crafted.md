@@ -12,6 +12,7 @@ stats:
   sta: '+4'
 obtained_from: '*Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (Normal)]] *Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (No-Trade)]]'
 item_link: \aITEM -420803522 709754127:Fashioned Coral Bracelet\/a
+image: images/Fashioned_Coral_Bracelet_(Crafted).png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -32,6 +33,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -63,8 +65,8 @@ source:
   title: Fashioned Coral Bracelet (Crafted)
   url: https://eq2.fandom.com/wiki/Fashioned_Coral_Bracelet_(Crafted)
   history: https://eq2.fandom.com/wiki/Fashioned_Coral_Bracelet_(Crafted)?action=history
-  revision: 1313493
-  revised: '2021-05-16T11:54:02Z'
+  revision: 2030618
+  revised: '2026-09-29T10:43:54Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -6,7 +6,7 @@ release: '[[Chaos Descending]]'
 levels: '118'
 access: Solo
 entered_from: '[[Myrist, the Great Library]]'
-entrance: Go to the [[North Wing Stacks]] on the first floor of the Library, then take the teleporter at {{waypoint 260, -20, -285}} to the [[Elemental Portal Gallery]]. Use the portal at {{waypoint 712, 412, -380}} to enter.
+entrance: Go to the [[North Wing Stacks]] on the first floor of the Library, then take the teleporter at {{waypoint 258, -20, -289}} to the [[Elemental Portal Gallery]]. Use the portal at {{waypoint 712, 412, -380}} to enter.
 players: 1 hour 30 min-3 days
 image: images/The_Bixel_Hive.jpg
 categories:
@@ -21,8 +21,8 @@ source:
   title: 'Eryslai: The Bixel Hive (Solo)'
   url: https://eq2.fandom.com/wiki/Eryslai:_The_Bixel_Hive_(Solo)
   history: https://eq2.fandom.com/wiki/Eryslai:_The_Bixel_Hive_(Solo)?action=history
-  revision: 1864893
-  revised: '2025-03-20T04:21:37Z'
+  revision: 2030511
+  revised: '2026-09-27T10:57:46Z'
   license: CC BY-SA 3.0
 ---
 

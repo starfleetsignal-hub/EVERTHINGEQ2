@@ -25,15 +25,15 @@ source:
   title: 'Elements of Destruction: Pure Adventure'
   url: https://eq2.fandom.com/wiki/Elements_of_Destruction:_Pure_Adventure
   history: https://eq2.fandom.com/wiki/Elements_of_Destruction:_Pure_Adventure?action=history
-  revision: 1352817
-  revised: '2021-08-22T18:51:17Z'
+  revision: 2030509
+  revised: '2026-09-27T10:45:52Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
 1. Obtain a sample of Fire within the Plane of Fire.
-   1. Go to the [[North Wing Stacks]] on the ground floor of the Library, then take the teleporter at {{waypoint 260, -20, -285}} to the [[Elemental Portal Gallery]]. Use the portal at {{waypoint 728, 412, -337}} to enter [[Doomfire: The Enkindled Towers (Solo)|Doomfire: The Enkindled Towers [Solo]]].
+   1. Go to the [[North Wing Stacks]] on the ground floor of the Library, then take the teleporter at {{waypoint 258, -20, -289}} to the [[Elemental Portal Gallery]]. Use the portal at {{waypoint 728, 412, -337}} to enter [[Doomfire: The Enkindled Towers (Solo)|Doomfire: The Enkindled Towers [Solo]]].
    1. Progress through the zone. (See [[Doomfire: The Enkindled Towers (Solo)|Doomfire: The Enkindled Towers [Solo]]] for strategies).
    1. Loot a [[Thermite briquette]] from the final name, [[Ra-Sekjet]].
 1. Return to [[Myrist, the Great Library]] and speak with [[Maelin Starpyre]] in the [[Myrist Main Stacks]] at {{waypoint 246, -7, -26}}.

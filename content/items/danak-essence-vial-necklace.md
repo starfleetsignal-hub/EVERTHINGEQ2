@@ -78,7 +78,7 @@ source:
   revision: 1460194
   revised: '2022-06-07T21:23:18Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Rise of Kunark
 expansion_source: source
 ---
 

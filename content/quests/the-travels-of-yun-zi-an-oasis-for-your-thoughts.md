@@ -24,8 +24,8 @@ source:
   title: The "Travels" of Yun Zi - An Oasis For Your Thoughts
   url: https://eq2.fandom.com/wiki/The_"Travels"_of_Yun_Zi_-_An_Oasis_For_Your_Thoughts
   history: https://eq2.fandom.com/wiki/The_"Travels"_of_Yun_Zi_-_An_Oasis_For_Your_Thoughts?action=history
-  revision: 2018080
-  revised: '2026-07-17T02:17:15Z'
+  revision: 2030515
+  revised: '2026-09-27T16:59:09Z'
   license: CC BY-SA 3.0
 expansion: Reign of Shadows
 expansion_source: timeline
@@ -41,6 +41,7 @@ expansion_source: timeline
 1. Adventure around the Deserts of Ro
    1. Travel to [[The Sinking Sands]].  In [[The Sinking Sands]], travel to {{waypoint -1269, -160, -360}} on the cliff above the docks.
    1. Travel to [[The Pillars of Flame]].  Take the carpet from the Sinking Sands docks to the Undercity Arena, then use the entrance at {{waypoint -99.4, -112, -206}}. In [[The Pillars of Flame]] travel to {{waypoint 100, -90, -1305}} or {{waypoint 3, -93, -661}} (random).
+      - ***Note:** If you are not receiving an update in [[The Pillars of Flame]] after travelling to either **(100, -90, -1305)** or **(3, -93, -661)** (random), **continue directly to Step 3 below.** You may still be able to continue and complete the quest even though this step does not update.*
    1. Travel to [[The Clefts of Rujark]] - Back in  [[Sinking Sands]] use the entrance to [[The Clefts of Rujark]] at {{waypoint -724, -111, -91}}. In [[The Clefts of Rujark]] go forward a few steps to get your quest update at {{waypoint 142, -7, -92}};
    1. Travel to [[Maj'Dul]] - Use the flying carpet at the docks and travel to [[Maj'Dul]]. In [[Maj'Dul]], move up the stairs to {{waypoint -170, 176, -111}};
    1. Travel to [[The Living Tombs]] - Go back to [[Sinking Sands]], speak with the carpet guy to travel to "Twin Tears" in [[Sinking Sands]]. Enter [[The Living Tombs]] {{waypoint -372, -143, -1042}}. In [[The Living Tombs|Living Tombs]] go some steps "forward" to {{waypoint -633, 3, 331}}. Do not jump down.

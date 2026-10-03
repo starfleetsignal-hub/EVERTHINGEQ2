@@ -13,15 +13,14 @@ categories:
 - IZone pages that need EQ2MAP uid
 - Instances
 - Raid x4 Zones
-- Subpage Redlinks
 - Wracklands Instances
 - Zones
 source:
   title: Ssraeshza's Hallowed Halls (Raid)
   url: https://eq2.fandom.com/wiki/Ssraeshza's_Hallowed_Halls_(Raid)
   history: https://eq2.fandom.com/wiki/Ssraeshza's_Hallowed_Halls_(Raid)?action=history
-  revision: 2028838
-  revised: '2026-09-11T23:18:44Z'
+  revision: 2030513
+  revised: '2026-09-27T14:11:18Z'
   license: CC BY-SA 3.0
 ---
 
@@ -31,13 +30,15 @@ source:
 
 Once all raid members are afflicted with the removable Sapped Motivation debuff (the figure in pink flames on a yellow background), everyone should move 26 meters away from the name. The closer you stand to the name, the greater your chance of getting a one-shot.
 
+*MML: Tank and Spank.*
+
 **Ssyre, the Fading Fire [128]**
 
 Named is located in the center, under the pyramid.
 
 During the fight, golems will spawn in the room, heating it up. At the same time, a stacking Heat Level buff will appear near the player's name. If the buff reaches 10 stacks, it's a wipe.
 
-To remove the buff, flood the room and then drain the water.
+To remove the buff, flood the room and then drain the water. *In order to flood, you must have a minimum of four people each standing on the pressure plates in the perimeter of the room, with one person tanking the boss in the center. If the boss leaves the central room, he resets. After the room floods, the four players who stood on the pressure plates must return to the central room and pull their respective lever (i.e. if you were on pressure plate 01, you must pull lever 01) in order to drain the room.*
 
 When the buff reaches 3-4 stacks, four people should exit through the tunnels and stand on the platforms. Once all four platforms are occupied, the water will begin to rise. Players can leave their positions and return (they can also remain near the platforms for the entire fight). To drain the water, pull the levers inside the room; they're located on the walls (the platforms must be clear). Everything is done quickly—quickly flood, quickly drain.
 
@@ -49,9 +50,13 @@ During the fight, Zeltheen of the Fang places a removable Set to Rot dot on the 
 
 During the fight, R'thessil of the Fang places a curse called Silent Contagion. This curse must be removed.
 
+*MML: Tank and Spank.*
+
 **the Timeless Golem [128]**
 
 Casts a knockback attack during the fight, so it's best to stand against the statue.
+
+*MML: Tank and Spank.*
 
 **Kua, Watcher of Wanes [128]**
 
@@ -60,6 +65,8 @@ During the fight, a valve will appear in the center of the room, allowing you to
 Return to the central hall and open the stairs leading down using the pedestal.
 
 As you descend, activate the pedestals on the podiums and then, using the clues, select the correct values ​​for the statues in the rooms.
+
+*MML: Tank and Spank.*
 
 **Reactivated Blood of Ssraeshza [128]**
 
@@ -79,9 +86,11 @@ If you don't have time to remove your debuff, you'll be transported to a random 
 
 After killing the name, use the portal in the center to get to the final name.
 
+*MML: Tank and Spank.*
+
 **Vyzh'dra the Unleashed [128]**
 
-A tank is essential for killing the name.
+A Tank and Priest is essential for killing the name.
 
 During the fight, the name will gain a stacking Strength of Shadows buff. If the stacks are not removed, the raid will be one-shot when the name reaches 20% HP.
 
@@ -89,12 +98,10 @@ To remove the stacks, complete the following event:
 
 During the fight, after seeing the Yellow text *"Raid member sees something sparkle within Vyzh'dra's open satchel... They may be able to grab it!"* in chat, the specified players must pick up the Shadow-Stitch Needle from the name (right-click on the name near the waist and select the last option). Important: if you do not have the Shadow Prospecting ability, you will not be able to use the needles.
 
-The obtained needles should be placed in a triangle (so that none of the three needles are in line with any other) opposite the statues with golems (the bottom row, which appear to be holding something in their hands). If the triangle is placed correctly, a dark cloud with a symbol will appear in the center.
+The tank holding the name will be afflicted with a permanent False Target debuff (reticule icon). During this time, the tank must target themselves, making the Curse available for cure. After successfully removing the debuff, a green message about this significant event appears in the chat. After this, you must place three "stitches" using the Shadow-Stitch Needle that was taken from the boss earlier.
 
-The tank holding the name will be afflicted with a permanent False Target debuff (reticule icon). During this time, the tank identifies themselves, making this debuff available for cure. After successfully removing the debuff, a green message about this significant event appears in the chat. After this, you can place triangles.
+In order to place stitches, whoever has the Shadow-Stitch Needle item must click it from their inventory to place a stitch on the ground (you can click and drag the Needle onto your hotbar to make this process easier). You must place three "stitches" in a line along the ground. If done correctly, you will get a callout in chat saying "<name> has placed their last stitch opening a window into the Plane of Shadow!". A shadowy triangle will appear on the ground where the stitches were placed, and shortly after the central column will become active. Click on it, and beams will appear, dividing the room into sectors. Stepping into the beam = death.
 
-When the first triangle is placed, the central column will become active. Click on it, and beams will appear, dividing the room into sectors. Stepping into the beam = death.
-
-At the same time, adds will appear in the room. After killing one of them, the column will become active again; click on it to remove the beams. After this, you need to kill all the remaining adds and then kill the name.
+At the same time, adds will appear in the room. After killing one of them, the column will become active again; click on it again to remove the beams. After this, you need to kill all the remaining adds and then kill the name.
 
 During the fight, an Incendiary Spark Hoarder appears. It explodes if it gets close to the name or any raid member.

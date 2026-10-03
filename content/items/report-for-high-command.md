@@ -11,6 +11,8 @@ obtained_from: 'Crafted by [[Artisan]] (level 90) from [[Recipe: High Command Re
 used_in_quest: '[[Proving Them Wrong]]'
 item_link: \aITEM 192633157 2000380763:Report For High Command\/a
 image: images/Report_For_High_Command.png
+aliases:
+- Report for High Command
 categories:
 - Census Credits
 - Item pages with existing iname images

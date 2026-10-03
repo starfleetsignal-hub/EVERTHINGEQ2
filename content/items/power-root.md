@@ -61,7 +61,7 @@ source:
   revision: 622844
   revised: '2014-02-07T08:53:32Z'
   license: CC BY-SA 3.0
-expansion: Kingdom of Sky
+expansion: Shattered Lands
 expansion_source: source
 ---
 

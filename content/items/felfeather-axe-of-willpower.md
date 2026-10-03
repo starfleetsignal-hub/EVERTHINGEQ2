@@ -66,8 +66,8 @@ source:
   title: Felfeather Axe of Willpower
   url: https://eq2.fandom.com/wiki/Felfeather_Axe_of_Willpower
   history: https://eq2.fandom.com/wiki/Felfeather_Axe_of_Willpower?action=history
-  revision: 1993253
-  revised: '2026-04-02T15:59:49Z'
+  revision: 2030575
+  revised: '2026-09-28T15:46:52Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

@@ -24,7 +24,7 @@ source:
   revised: '2021-08-19T16:56:58Z'
   license: CC BY-SA 3.0
 expansion: Echoes of Faydwer
-expansion_source: source
+expansion_source: linked
 ---
 
 ## Notes

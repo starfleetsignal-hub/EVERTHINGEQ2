@@ -32,8 +32,8 @@ source:
   title: In Honor and Service
   url: https://eq2.fandom.com/wiki/In_Honor_and_Service
   history: https://eq2.fandom.com/wiki/In_Honor_and_Service?action=history
-  revision: 2025314
-  revised: '2026-09-02T16:55:17Z'
+  revision: 2030431
+  revised: '2026-09-25T03:20:32Z'
   license: CC BY-SA 3.0
 ---
 
@@ -72,7 +72,7 @@ Speak with [[Captain R.K. Irontoe]] in [[Kelethin]], at {{waypoint 136, 112, 98}
 ## Steps
 
 1. Interact with the monument, [[The Battle at Burning Roots]] in [[Greater Faydark]]. {{waypoint -299, 18, -54}}
-1. [[Gathering|Gather]] 10 dwarven war artifacts found around the memorial. This is ground spawn and does not actually go into your inventory. *(<s>Note : as of 09/16/24 it appears you only need 1 artifact</s>).*
+1. [[Gathering|Gather]] 10 dwarven war artifacts found around the memorial. This is ground spawn and does not actually go into your inventory.
 1. Return to [[Captain R.K. Irontoe]] {{waypoint 138.63, 111.44, 98.22}} in [[Kelethin]] and give him the artifact.
 1. Inspect a strongbox in one of the caves within [[Dyer Mycoria (POI)|Dyer Mycoria]]. {{waypoint 3, -43, -295}}
 1. Inspect another strongbox (which looks like an attackable creature strongbox) in a tent on [[Orc Hill]]. {{waypoint 284, 61, -143}}

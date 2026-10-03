@@ -18,8 +18,8 @@ source:
   title: The Nexus Core (Advanced Solo)
   url: https://eq2.fandom.com/wiki/The_Nexus_Core_(Advanced_Solo)
   history: https://eq2.fandom.com/wiki/The_Nexus_Core_(Advanced_Solo)?action=history
-  revision: 1785593
-  revised: '2024-02-24T20:24:57Z'
+  revision: 2030430
+  revised: '2026-09-24T22:44:47Z'
   license: CC BY-SA 3.0
 ---
 
@@ -58,7 +58,7 @@ source:
 
 ### [[Maligned Gyro (Solo)|Maligned Gyro]]
 
-- The Maligned Gyro periodically summons non-interactable gyros that, like the other gyros you've dealt with, do exponentially increasing damage.  They move slowly; kite the Maligned Gyro around the room.
+- The Maligned Gyro periodically summons non-interactable gyros that, like the other gyros you've dealt with, do exponentially increasing damage.  They move slowly; move the Maligned Gyro around the room.
 
 ### [[Amalgam of Energy (Solo)|Amalgam of Energy]]
 

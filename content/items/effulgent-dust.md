@@ -21,8 +21,8 @@ source:
   revision: 1056219
   revised: '2020-06-30T09:15:46Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Sentinel's Fate
+expansion_source: level
 ---
 
 [[Dust]] used by [[Alchemist|Alchemists]] to make rare poisons and potions.

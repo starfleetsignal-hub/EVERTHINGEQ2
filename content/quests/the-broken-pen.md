@@ -30,8 +30,8 @@ source:
   title: The Broken Pen
   url: https://eq2.fandom.com/wiki/The_Broken_Pen
   history: https://eq2.fandom.com/wiki/The_Broken_Pen?action=history
-  revision: 1632103
-  revised: '2022-12-28T14:38:10Z'
+  revision: 2030453
+  revised: '2026-09-25T07:24:38Z'
   license: CC BY-SA 3.0
 ---
 
@@ -41,7 +41,7 @@ source:
 1. Click on the portal to enter [[A Clockwork Apocalypse]].
 1. Kill 10 of the clockworks in the zone. Most are 80-82^^ heroics with some 78-80^ non-heroics. All the mobs are soloable but difficult - and social. Clockworks in Steamfont Mountain update this part.
 1. Talk to [[A time-locked enchantress]] in the [[A Clockwork Apocalypse]] zone at {{waypoint 820, -20, 278}}
-1. Head to [[Qeynos Harbor|Qeynos Province District]] (Qeynos Harbor near the bank) and speak to [[Sarbith Plegnog]] {{waypoint 725, -20, -75}}
+1. Leave the instance and go to [[Qeynos Harbor|Qeynos Province District]] (Qeynos Harbor near the bank) and speak to [[Sarbith Plegnog]] {{waypoint 725, -20, -75}}
 1. Head to [[Fens of Nathsar]] and talk to [[Fixademic Gughlis]] in the [[Drogan Exile Camp]] {{waypoint -593, -204, -1338}}
 1. Kill Nurgan goblins for 8 auto-updates. The goblins from the pass into the [[Nurgan Mining Camp]] all count {{waypoint -402, 30, -1826}}
    - Note: Avoid killing local "Drogan" goblins, regardless of their death updating the quest, as one will gain a NEGATIVE Faction with [[Exiles of Droga (Faction)|Exiles of Droga]]; focus on "Nurgan" goblins, which will allow one to gain faction with [[Exiles of Droga (Faction)|Exiles of Droga]].

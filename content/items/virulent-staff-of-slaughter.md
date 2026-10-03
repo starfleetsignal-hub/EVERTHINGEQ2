@@ -20,6 +20,7 @@ stats:
   dtype: Two-Handed Crushing
   wtype: Staff
 item_link: \aITEM -204238833 -1477347991:Virulent Staff of Slaughter\/a
+image: images/Virulent_Staff_of_Slaughter.png
 categories:
 - Ability Modifier (Equipment)
 - Casting Speed (Equipment)
@@ -34,6 +35,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fury Equipment
 - Illusionist Equipment
@@ -59,8 +61,8 @@ source:
   title: Virulent Staff of Slaughter
   url: https://eq2.fandom.com/wiki/Virulent_Staff_of_Slaughter
   history: https://eq2.fandom.com/wiki/Virulent_Staff_of_Slaughter?action=history
-  revision: 2029027
-  revised: '2026-09-13T19:23:28Z'
+  revision: 2030594
+  revised: '2026-09-28T18:09:11Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

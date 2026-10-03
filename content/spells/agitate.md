@@ -2,6 +2,7 @@
 title: Agitate
 type: spell
 spell_type: tradeskills
+category: Tradeskill
 icon: images/Spell_402.png
 levels: '1'
 target: self
@@ -13,15 +14,15 @@ description: Agitate allows you to counter Minor Congeal, Congeal, and Major Con
 effects: '- Increases the amount of durability gained by 9.0.'
 categories:
 - Census Credits
-- Spell needing Category
 - Spells
 - Spells by Type Tradeskills
+- Tradeskill (Spell Type)
 source:
   title: Agitate
   url: https://eq2.fandom.com/wiki/Agitate
   history: https://eq2.fandom.com/wiki/Agitate?action=history
-  revision: 1954373
-  revised: '2026-01-12T22:52:58Z'
+  revision: 2030347
+  revised: '2026-09-23T10:50:56Z'
   license: CC BY-SA 3.0
 ---
 

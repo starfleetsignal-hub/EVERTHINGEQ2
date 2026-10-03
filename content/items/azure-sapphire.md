@@ -26,8 +26,8 @@ source:
   revision: 1052349
   revised: '2020-05-30T19:15:44Z'
   license: CC BY-SA 3.0
-expansion: Chaos Descending
-expansion_source: source
+expansion: Planes of Prophecy
+expansion_source: level
 ---
 
 **Node name:** coalesced reef<br>

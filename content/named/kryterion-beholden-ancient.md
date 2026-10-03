@@ -23,8 +23,8 @@ source:
   title: Kryterion, Beholden Ancient
   url: https://eq2.fandom.com/wiki/Kryterion,_Beholden_Ancient
   history: https://eq2.fandom.com/wiki/Kryterion,_Beholden_Ancient?action=history
-  revision: 2024399
-  revised: '2026-08-26T16:40:31Z'
+  revision: 2030541
+  revised: '2026-09-28T03:28:32Z'
   license: CC BY-SA 3.0
 ---
 
@@ -41,17 +41,21 @@ Kryterion, Beholden Ancient is a Tier 3 raid boss. He gains an additive advantag
 - **Void-Cloaked III**
 - A buff that has a chance of triggering Negative Static on the attacker, which deals magic damage and reduces fervor.
 - **Elemental Essence Attuned**
-- A buff that protects Kryterion by attuning himself to the Elemental Essences contained within the area. Kryterion must be taken to the opposite area to be able to affect Kryterion.
+- A buff that protects Kryterion by attuning himself to the Elemental Essences contained within the area. Kryterion must be taken to the green dome to remove this effect.
+- **Noxious Essence Attuned**
+- A buff that protects Kryterion by attuning himself to the Noxious Essences contained within the area. Kryterion must be taken to the red dome to remove this effect.
 - **Mindwracking Influence III**
 - An incurable arcane makes all abilities cost additional power.
 - **Surging Pain**
 - An incurable trauma that deals increasing crushing, mental, heat, and poison damage to health and power over time. The more essence siphon spheres that are active in the counter area, the stronger all attacks from Kryterion will be.
+- **Beholden to Kryterion**
+- A curable curse that shape-changes the target into a Servant of Kryterion. While applied, it spreads to uncursed allies. The first five times this curse expires, it heals Kryterion for 10%, 15%, 20%, 25%, and 100% respectively. The sixth and subsequent failures have no effect. The interval at which the curse spreads decreases as Kryterion loses health.
 
 ## Strategy
 
 Kryterion summons a [[Conglomerate of Fire and Flame]] into the fight periodically. These elementals can force players to target themselves (instead of Kryterion).
 
-Shortly after the fight starts, the area around Kryterion is covered in a red dome. Simultaneously, a green-yellow dome appears at the opposite end of the bridge.
+Shortly after the fight starts, the area around Kryterion is covered in an elemental (red) dome. Simultaneously, a noxious (green) dome appears at the opposite end of the bridge. These domes apply and remove essence attunement.
 
 When the fight starts, all 10 [[An ebonlithe essence Channeler|ebonlithe essence Channelers]] in the region respawn and begin powering their essence siphon spheres. Defeating a pair of Channelers de-powers their sphere, weakening the outgoing attacks from Kryterion.
 

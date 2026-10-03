@@ -76,7 +76,7 @@ source:
   revision: 1805810
   revised: '2024-06-30T20:44:50Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: The Shadow Odyssey
 expansion_source: source
 ---
 

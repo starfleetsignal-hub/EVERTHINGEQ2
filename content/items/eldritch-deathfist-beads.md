@@ -68,8 +68,8 @@ source:
   revision: 1581988
   revised: '2022-10-04T19:29:24Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 

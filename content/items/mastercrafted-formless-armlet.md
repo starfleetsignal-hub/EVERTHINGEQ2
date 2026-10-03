@@ -18,6 +18,7 @@ stats:
   vselemental: +401,940
 obtained_from: Crafted by [[Jeweler]] (level 135) from [[Advanced Formless Jeweler's Volume III]]
 item_link: \aITEM 529350157 -1595942382:Mastercrafted Formless Armlet\/a
+image: images/Mastercrafted_Formless_Armlet.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -42,6 +43,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -77,8 +79,8 @@ source:
   title: Mastercrafted Formless Armlet
   url: https://eq2.fandom.com/wiki/Mastercrafted_Formless_Armlet
   history: https://eq2.fandom.com/wiki/Mastercrafted_Formless_Armlet?action=history
-  revision: 1923885
-  revised: '2025-12-31T13:40:48Z'
+  revision: 2030623
+  revised: '2026-09-29T11:30:43Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: level

@@ -27,8 +27,8 @@ source:
   title: A Gnomish Master Plan
   url: https://eq2.fandom.com/wiki/A_Gnomish_Master_Plan
   history: https://eq2.fandom.com/wiki/A_Gnomish_Master_Plan?action=history
-  revision: 2028634
-  revised: '2026-09-09T05:48:23Z'
+  revision: 2030455
+  revised: '2026-09-25T08:42:21Z'
   license: CC BY-SA 3.0
 ---
 

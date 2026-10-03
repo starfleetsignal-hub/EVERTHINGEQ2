@@ -12,6 +12,7 @@ drops:
 - '[[Spiked Neck of the Fiend]]'
 - '[[Eye of the Fiend]]'
 - '[[Coif of the Fiend]]'
+- '[[Boots of the Fiend]]'
 related_quests:
 - '[[Elements of Destruction: Pure Adventure]]'
 achievement_xp: true
@@ -32,8 +33,8 @@ source:
   title: Moracar, the Fiend
   url: https://eq2.fandom.com/wiki/Moracar,_the_Fiend
   history: https://eq2.fandom.com/wiki/Moracar,_the_Fiend?action=history
-  revision: 2019644
-  revised: '2026-07-27T10:22:41Z'
+  revision: 2030529
+  revised: '2026-09-27T21:52:08Z'
   license: CC BY-SA 3.0
 ---
 

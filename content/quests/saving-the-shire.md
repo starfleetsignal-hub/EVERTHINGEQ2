@@ -27,8 +27,8 @@ source:
   title: Saving the Shire
   url: https://eq2.fandom.com/wiki/Saving_the_Shire
   history: https://eq2.fandom.com/wiki/Saving_the_Shire?action=history
-  revision: 656605
-  revised: '2015-02-17T22:40:58Z'
+  revision: 2030768
+  revised: '2026-10-02T20:36:57Z'
   license: CC BY-SA 3.0
 expansion: Age of Discovery
 expansion_source: patch
@@ -40,7 +40,7 @@ expansion_source: patch
 
 ## Steps
 
-1. In [[The Elddar Grove (POI)]], travel to the gate leading to the [[The Baubbleshire: Vale's Shadow|Baubbleshire]] and zone in. {{waypoint 816, -21, -530}}
+1. In [[The Elddar Grove (POI)]], travel to the gate leading to the [[The Baubbleshire: Vale's Shadow|Baubbleshire]] and zone into The Baubbleshire: Vale's Shadow. {{waypoint 816, -21, -530}}
    - Slay 8 [[An invading nightblood|invading nightbloods]], [[An invading lamia|invading lamias]], and/or [[An invading lamia castigator|invading lamia castigators]].
    - Investigate 5 void portals (click on them at the base).
 1. Return to [[Bellengere the Three (Qeynos Capitol District)|Bellengere the Three]].

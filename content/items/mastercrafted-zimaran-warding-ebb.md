@@ -37,8 +37,8 @@ source:
   revision: 1931842
   revised: '2026-01-01T21:05:03Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Visions of Vetrovia
+expansion_source: level
 ---
 
 

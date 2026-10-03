@@ -21,18 +21,20 @@ contains: '- [[Forest Stalker''s Cuffs of the Citadel]]
 
   - [[Animist''s Cuffs of the Citadel]]'
 item_link: \aITEM -978584325 -41621161:Inexorable Gloves\/a
+image: images/Inexorable_Gloves.png
 categories:
 - Census Credits
 - Citadel of V'uul Dropped Items
 - Crate (Item Type)
 - Fabled Items
+- Item pages with existing iname images
 - Items
 source:
   title: Inexorable Gloves
   url: https://eq2.fandom.com/wiki/Inexorable_Gloves
   history: https://eq2.fandom.com/wiki/Inexorable_Gloves?action=history
-  revision: 2024671
-  revised: '2026-08-29T14:12:31Z'
+  revision: 2030573
+  revised: '2026-09-28T14:31:57Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

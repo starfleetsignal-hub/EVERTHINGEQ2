@@ -7,8 +7,8 @@ source:
   title: Familiars Wild/MoB Quicklist
   url: https://eq2.fandom.com/wiki/Familiars_Wild/MoB_Quicklist
   history: https://eq2.fandom.com/wiki/Familiars_Wild/MoB_Quicklist?action=history
-  revision: 2028489
-  revised: '2026-09-08T09:00:01Z'
+  revision: 2030392
+  revised: '2026-09-24T16:26:51Z'
   license: CC BY-SA 3.0
 ---
 
@@ -190,6 +190,7 @@ source:
   - [[Splendor Sky Aerie|Splendor Sky Aerie:]] A Woodland Bristlehide near zone entrance and river
   - [[Sodden Archipelago]]:  [[An outland sandstalker]]  by Gharlog the Exiled merc
   - [[Western Wastes]]: [[A frosthowl warden]] in [[Chillblain Field]] around {{waypoint -50, 31, 156}}
+  - Yon gorroth a bog gnasher
 
 ### **Drakes**:
 

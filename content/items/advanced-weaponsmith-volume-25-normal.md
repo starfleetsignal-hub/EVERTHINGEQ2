@@ -37,6 +37,7 @@ recipes: '- [[Blessed Steel Claymore]]
   - [[Steel Maul]]'
 obtained_from: This recipe book drops from creatures (level 25).
 item_link: \aITEM -1907648861 1972922685:Advanced Weaponsmith Volume 25\/a
+image: images/Advanced_Weaponsmith_Volume_25_(Normal).png
 categories:
 - Census Credits
 - Recipe Books
@@ -46,8 +47,8 @@ source:
   title: Advanced Weaponsmith Volume 25 (Normal)
   url: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_25_(Normal)
   history: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_25_(Normal)?action=history
-  revision: 1532435
-  revised: '2022-07-22T11:13:39Z'
+  revision: 2030665
+  revised: '2026-09-30T11:03:42Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

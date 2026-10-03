@@ -33,6 +33,7 @@ recipes: '- [[Bladeweaver VIII (Expert)]]
   - [[Xiocite Cadmium Stud]]'
 obtained_from: This recipe book drops from creatures (level 99).
 item_link: \aITEM -198556168 -194105915:Advanced Jeweler Volume 99\/a
+image: images/Advanced_Jeweler_Volume_99.png
 categories:
 - Census Credits
 - Jeweler Recipe Books
@@ -42,8 +43,8 @@ source:
   title: Advanced Jeweler Volume 99
   url: https://eq2.fandom.com/wiki/Advanced_Jeweler_Volume_99
   history: https://eq2.fandom.com/wiki/Advanced_Jeweler_Volume_99?action=history
-  revision: 1532327
-  revised: '2022-07-22T11:08:28Z'
+  revision: 2030718
+  revised: '2026-10-01T16:31:24Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

@@ -62,8 +62,8 @@ source:
   revision: 1371443
   revised: '2021-12-05T14:46:32Z'
   license: CC BY-SA 3.0
-expansion: Chains of Eternity
-expansion_source: level
+expansion: Desert of Flames
+expansion_source: source
 ---
 
 

@@ -11,6 +11,8 @@ recipes: '- [[Report For High Command]]'
 obtained_from: By examining the [[Notes on the Journeymen]] during the [[Proving Them Wrong]] quest will create this recipe book in your inventory
 item_link: '\aITEM 2140463832 1638879678:Recipe: High Command Report\/a'
 image: images/Recipe_High_Command_Report.png
+aliases:
+- High Command Report
 categories:
 - Artisan Recipe Books
 - Census Credits

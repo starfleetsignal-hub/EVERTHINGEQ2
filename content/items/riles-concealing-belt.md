@@ -78,8 +78,8 @@ source:
   revision: 1835828
   revised: '2024-11-24T21:43:19Z'
   license: CC BY-SA 3.0
-expansion: Rise of Kunark
-expansion_source: level
+expansion: The Shadow Odyssey
+expansion_source: linked
 ---
 
 

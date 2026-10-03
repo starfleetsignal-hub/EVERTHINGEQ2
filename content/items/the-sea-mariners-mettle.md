@@ -13,6 +13,8 @@ stats:
   dtype: Cloth Armor
 obtained_from: '*Crafted by [[Tailor]] (level 44) from [[Tailor Essentials Volume 44 (Normal)]] *Crafted by [[Tailor]] (level 44) from [[Tailor Essentials Volume 44 (no-trade)]]'
 item_link: \aITEM -1892655747 667577494:The Sea Mariner’s Mettle\/a
+aliases:
+- The Sea Mariner's Mettle
 categories:
 - Assassin Equipment
 - Bard Equipment

@@ -23,8 +23,8 @@ source:
   revision: 1840330
   revised: '2024-11-25T19:44:28Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Chains of Eternity
+expansion_source: linked
 ---
 
 

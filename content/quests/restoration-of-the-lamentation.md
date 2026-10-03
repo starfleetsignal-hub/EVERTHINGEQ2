@@ -26,8 +26,8 @@ source:
   title: Restoration of the Lamentation
   url: https://eq2.fandom.com/wiki/Restoration_of_the_Lamentation
   history: https://eq2.fandom.com/wiki/Restoration_of_the_Lamentation?action=history
-  revision: 470657
-  revised: '2010-04-18T07:09:08Z'
+  revision: 2030434
+  revised: '2026-09-25T03:59:39Z'
   license: CC BY-SA 3.0
 ---
 
@@ -37,7 +37,7 @@ source:
 1. Obtain [[A Diamond Grit Whetstone]]. Kill [[Pawbuster]] for this, then examine it.
 1. Obtain [[Vedel's Song of Awakening]]. Kill [[Mayong Mistmoore]] for this.
 1. Examine [[Vedel's Song of Awakening]] to update the quest.
-1. Obtain the [[Golden Refrain]]. Kill [[Xygoz]] in [[Veeshan's Peak]] for this. Examine the Golden Refrain to update the quest.
+1. Obtain [[A Golden Refrain]]. Kill [[Xygoz]] in [[Veeshan's Peak]] for this. Examine the Golden Refrain to update the quest.
 1. Head back to [[Maj'Dul]] to speak with [[Taria Truomen]] {{waypoint -161, 176, -102}}for your mythical reward!
 
 ## Rewards

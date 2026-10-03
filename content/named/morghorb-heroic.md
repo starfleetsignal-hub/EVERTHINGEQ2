@@ -21,11 +21,14 @@ source:
   title: Morghorb (Heroic)
   url: https://eq2.fandom.com/wiki/Morghorb_(Heroic)
   history: https://eq2.fandom.com/wiki/Morghorb_(Heroic)?action=history
-  revision: 876349
-  revised: '2018-06-07T17:38:34Z'
+  revision: 2030447
+  revised: '2026-09-25T04:26:33Z'
   license: CC BY-SA 3.0
 ---
 
 ## Strategy
 
 - After killing [[Horb (Heroic)|Horb]], loot a [[Hatebound heart]] from its body, then click the golem at {{waypoint 35, 30, -200}} to spawn.
+- Six players are required to kill this mob. Each player must stand in one of the circles in order to deal damage
+- It has an AOE knockback, so repositioning may be needed.
+- Gains an Increment of Hate that will heal it back to full whenever a player dies. These can be dispelled.

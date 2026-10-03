@@ -67,6 +67,7 @@ categories:
 - Swashbuckler Equipment
 - Templar Equipment
 - Tier 13 Equipment
+- Triad of Elements (Solo) Dropped Items
 - Troubador Equipment
 - Warden Equipment
 - Warlock Equipment
@@ -76,8 +77,8 @@ source:
   title: Splendorous Pyrite Cloak
   url: https://eq2.fandom.com/wiki/Splendorous_Pyrite_Cloak
   history: https://eq2.fandom.com/wiki/Splendorous_Pyrite_Cloak?action=history
-  revision: 1826311
-  revised: '2024-10-15T11:15:29Z'
+  revision: 2030427
+  revised: '2026-09-24T19:54:58Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

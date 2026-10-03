@@ -71,7 +71,7 @@ source:
   revision: 1933756
   revised: '2026-01-02T18:04:00Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Sentinel's Fate
 expansion_source: source
 ---
 

@@ -48,16 +48,14 @@ source:
   title: Trakanon (Monster)
   url: https://eq2.fandom.com/wiki/Trakanon_(Monster)
   history: https://eq2.fandom.com/wiki/Trakanon_(Monster)?action=history
-  revision: 1275165
-  revised: '2021-01-14T08:49:43Z'
+  revision: 2030720
+  revised: '2026-10-01T21:50:51Z'
   license: CC BY-SA 3.0
 ---
 
 bad faction with **Ring of Scale**
 
 ## Strategy
-
-I recently duo'd Trakanon with a guildie's Mystic and our two mercs.  We didn't have a Chelsith stone or anything, but still managed to kill him.  It was a tough fight though.  He's definitely much more doable now in COE end game gear.  Gonna' get me one of those cool looking dragon head shields sooner or later!
 
 - When you enter you are in a zone in/zone out room which leads to gigantic stairs. You must use the side area of the stairs to walk up into the main lair.
 

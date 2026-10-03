@@ -33,6 +33,7 @@ categories:
 - Legs (Inventory Slot)
 - Monk Equipment
 - Multi Attack Chance (Equipment)
+- Ossuary of Malevolence (Contested) Dropped Items
 - Tier 10 Equipment
 - Warden Equipment
 - Weapon Damage Bonus (Equipment)
@@ -40,11 +41,11 @@ source:
   title: Bold Malevolent Leather Leggings
   url: https://eq2.fandom.com/wiki/Bold_Malevolent_Leather_Leggings
   history: https://eq2.fandom.com/wiki/Bold_Malevolent_Leather_Leggings?action=history
-  revision: 740415
-  revised: '2017-09-14T18:02:30Z'
+  revision: 2030626
+  revised: '2026-09-29T11:39:23Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Shattered Lands
+expansion_source: linked
 ---
 
 

@@ -10,7 +10,9 @@ flags: attunable
 stats:
   str: '+4'
   sta: '+4'
+obtained_from: Crafted by [[Scholar]] (level 12) from [[Advanced Scholar Volume 12 (Normal)]]
 item_link: \aITEM 645868166 2112494349:Fashioned Cured Leather Belt\/a
+image: images/Fashioned_Cured_Leather_Belt.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -31,6 +33,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -62,8 +65,8 @@ source:
   title: Fashioned Cured Leather Belt (Version 2)
   url: https://eq2.fandom.com/wiki/Fashioned_Cured_Leather_Belt_(Version_2)
   history: https://eq2.fandom.com/wiki/Fashioned_Cured_Leather_Belt_(Version_2)?action=history
-  revision: 1833995
-  revised: '2024-11-24T20:40:24Z'
+  revision: 2030368
+  revised: '2026-09-24T14:26:55Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

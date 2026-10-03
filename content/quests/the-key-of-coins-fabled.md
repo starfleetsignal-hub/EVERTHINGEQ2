@@ -4,7 +4,7 @@ type: quest
 level: '97'
 zone: '[[The Fabled Clefts of Rujark]]'
 journal_category: Clefts of Rujark
-starts: Examine [[A fancy steel key]], dropped by [[A Captive Coin Trademaster|Captive Coin Trademasters]] and [[A Captive Coin laborer|Captive Coin laborers]] in the [[Negotiating room]]. {{waypoint -120, 18, 21}}
+starts: Examine [[A fancy steel key (Version 2)|a fancy steel key]], dropped by [[A Captive Coin Trademaster|Captive Coin Trademasters]] and [[A Captive Coin laborer|Captive Coin laborers]] in the [[Negotiating room]]. {{waypoint -120, 18, 21}}
 in_game_name: The Key of Coins
 added_in: LU67
 achievement_xp: true
@@ -23,8 +23,8 @@ source:
   title: The Key of Coins (Fabled)
   url: https://eq2.fandom.com/wiki/The_Key_of_Coins_(Fabled)
   history: https://eq2.fandom.com/wiki/The_Key_of_Coins_(Fabled)?action=history
-  revision: 1275582
-  revised: '2021-01-17T03:06:35Z'
+  revision: 2030793
+  revised: '2026-10-03T04:59:41Z'
   license: CC BY-SA 3.0
 expansion: Chains of Eternity
 expansion_source: patch

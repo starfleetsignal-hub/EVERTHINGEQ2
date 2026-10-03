@@ -24,8 +24,8 @@ source:
   title: Valor of the Freeblood
   url: https://eq2.fandom.com/wiki/Valor_of_the_Freeblood
   history: https://eq2.fandom.com/wiki/Valor_of_the_Freeblood?action=history
-  revision: 1864409
-  revised: '2025-03-15T04:48:57Z'
+  revision: 2030762
+  revised: '2026-10-02T18:16:51Z'
   license: CC BY-SA 3.0
 expansion: Age of Discovery
 expansion_source: patch
@@ -33,7 +33,7 @@ expansion_source: patch
 
 ## Steps
 
-- Talas gives you [[A council medallion]] so that you may reenter Nettleville when you start the quest.
+- Talas gives you [[A council medallion (Version 2)|a council medallion]] so that you may reenter Nettleville when you start the quest.
 1. Speak to [[Rendyl]] to enter [[Nettleville: Strange Tidings]] {{waypoint 680, -21, 270}}
 1. Find [[Investigator Rashlas (NPC)|Rashlas]] in a building in southeastern Nettleville  {{waypoint 588, -19, 354}}. The safest route to him is to keep the city wall to your left.
 1. Confront Rashlas
@@ -41,7 +41,7 @@ expansion_source: patch
    - When you approach Rashlas, two council reservists (one v, one vv) will attack.
    - After you defeat them, Rashlas turns aggro. Kill him. **Consider fighting the first two council reservists out of Rashlas' aggro radius so you have time to heal before fighting him**
 1. Speak to [[Taria]] on the floor where the ritual was being cast.
-1. Return to Taras in Qeynos Capitol District {{waypoint 648, -19, -250}}.
+1. Return to Talas in Qeynos Capitol District {{waypoint 648, -19, -250}}.
 
 ## Rewards
 

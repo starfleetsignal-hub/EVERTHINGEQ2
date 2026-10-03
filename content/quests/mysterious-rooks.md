@@ -20,8 +20,8 @@ source:
   title: Mysterious Rooks
   url: https://eq2.fandom.com/wiki/Mysterious_Rooks
   history: https://eq2.fandom.com/wiki/Mysterious_Rooks?action=history
-  revision: 542813
-  revised: '2011-09-21T00:11:45Z'
+  revision: 2030353
+  revised: '2026-09-23T19:18:16Z'
   license: CC BY-SA 3.0
 expansion: Destiny of Velious
 expansion_source: patch
@@ -36,4 +36,4 @@ expansion_source: patch
 ## Rewards
 
 - At least 2p 1g
-- House item [[An Avezek Challenger]]
+- [[An Avazek Challenger]] - House Item

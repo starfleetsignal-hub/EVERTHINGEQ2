@@ -38,8 +38,8 @@ source:
   title: Xalgoz (Karnor's Castle)
   url: https://eq2.fandom.com/wiki/Xalgoz_(Karnor's_Castle)
   history: https://eq2.fandom.com/wiki/Xalgoz_(Karnor's_Castle)?action=history
-  revision: 1850495
-  revised: '2025-01-04T18:12:11Z'
+  revision: 2030467
+  revised: '2026-09-25T16:36:12Z'
   license: CC BY-SA 3.0
 ---
 
@@ -49,6 +49,6 @@ Clear the area, including the burning apparation djinn and the skeletons in the 
 
 ## Notes
 
-- On the standard servers, the healing effect is minimal and this mechanic can be ignored.
+- <s>On the standard servers, the healing effect is minimal and this mechanic can be ignored.</s> The healing mechanic will bring Xalgoz back to 100% health, in 5 seconds.
 - Xalgoz has a knockback, so the tank should position against one of the pillars in the room.
 - At some time in the past, the Named in Karnor's Castle have been rebalanced with x10 more HP than originally stated.

@@ -15,8 +15,8 @@ source:
   title: Permafrost Timeline
   url: https://eq2.fandom.com/wiki/Permafrost_Timeline
   history: https://eq2.fandom.com/wiki/Permafrost_Timeline?action=history
-  revision: 1722059
-  revised: '2023-04-25T10:23:52Z'
+  revision: 2030726
+  revised: '2026-10-02T04:39:36Z'
   license: CC BY-SA 3.0
 ---
 
@@ -27,7 +27,7 @@ source:
 
 ## Access Quest
 
-*There is a former access quest for an instance within Permafrost, [[Drayek's Chamber]]. It's completion is no longer necessary to enter the instance, however it does off some back-story to the dungeon.*
+*There is a former access quest for an instance within Permafrost, [[Drayek's Chamber]]. It's completion is no longer necessary to enter the instance, however it does offer some back-story to the dungeon.*
 
 - **[48] [[Drayek's Chamber (Quest)|Drayek's Chamber]]** - obtained from [[Krindal]] in [[Everfrost]] at {{waypoint 578, -38, -1631}}
 

@@ -33,8 +33,8 @@ source:
   revision: 1930771
   revised: '2026-01-01T19:11:43Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Altar of Malice
+expansion_source: level
 ---
 
 

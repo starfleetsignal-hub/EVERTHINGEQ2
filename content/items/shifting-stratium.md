@@ -22,7 +22,7 @@ source:
   revision: 991500
   revised: '2019-08-16T11:16:21Z'
   license: CC BY-SA 3.0
-expansion: Kingdom of Sky
+expansion: Planes of Prophecy
 expansion_source: source
 ---
 

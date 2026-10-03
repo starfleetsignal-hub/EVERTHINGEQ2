@@ -18,6 +18,7 @@ stats:
   resolve: '450'
   dtype: Chain Armor
 item_link: \aITEM -1142784753 2076834695:Vultak Hauberk of Willpower\/a
+image: images/Vultak_Hauberk_of_Willpower.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -30,6 +31,7 @@ categories:
 - Defiler Equipment
 - Dirge Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Mystic Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -48,8 +50,8 @@ source:
   title: Vultak Hauberk of Willpower
   url: https://eq2.fandom.com/wiki/Vultak_Hauberk_of_Willpower
   history: https://eq2.fandom.com/wiki/Vultak_Hauberk_of_Willpower?action=history
-  revision: 1996539
-  revised: '2026-04-20T18:13:40Z'
+  revision: 2030391
+  revised: '2026-09-24T16:26:51Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

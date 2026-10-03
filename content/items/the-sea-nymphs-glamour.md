@@ -13,6 +13,9 @@ stats:
   dtype: Cloth Armor
 obtained_from: '*Crafted by [[Tailor]] (level 44) from [[Tailor Essentials Volume 44 (Normal)]] *Crafted by [[Tailor]] (level 44) from [[Tailor Essentials Volume 44 (no-trade)]]'
 item_link: \aITEM 1048194734 -844664045:The Sea Nymph’s Glamour\/a
+image: images/The_Sea_Nymph's_Glamour.jpg
+aliases:
+- The Sea Nymph's Glamour
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -34,6 +37,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -64,8 +68,8 @@ source:
   title: The Sea Nymph’s Glamour
   url: https://eq2.fandom.com/wiki/The_Sea_Nymph’s_Glamour
   history: https://eq2.fandom.com/wiki/The_Sea_Nymph’s_Glamour?action=history
-  revision: 1491685
-  revised: '2022-06-14T19:13:55Z'
+  revision: 2030473
+  revised: '2026-09-25T19:28:40Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

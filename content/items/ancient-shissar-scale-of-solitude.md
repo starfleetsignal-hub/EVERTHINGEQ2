@@ -16,6 +16,7 @@ stats:
 effect_name: You're On Your Own
 effects: "- When Equipped:\n  - Increases the raid's health by 10,000\n  - Cannot be modified except by direct means\n- Applies You're On Your Own III when Activated.  Lasts for 12.0 seconds.\n  - Increases the caster's health by 10,000 per ally within 35 meters.\n  - Suspends the passive effect for 12 seconds\n  - This item may not be used in a PvP zone.\n  - Cannot be modified except by direct means\n  - The reuse time of You're On Your Own III is 1 minute"
 item_link: \aITEM 951445641 2092236536:Ancient Shissar Scale of Solitude\/a
+image: images/Ancient_Shissar_Scale_of_Solitude.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -39,6 +40,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Fury Equipment
@@ -49,6 +51,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 - Paladin Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -72,11 +75,11 @@ source:
   title: Ancient Shissar Scale of Solitude
   url: https://eq2.fandom.com/wiki/Ancient_Shissar_Scale_of_Solitude
   history: https://eq2.fandom.com/wiki/Ancient_Shissar_Scale_of_Solitude?action=history
-  revision: 1643422
-  revised: '2023-03-13T21:58:58Z'
+  revision: 2030413
+  revised: '2026-09-24T18:28:52Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

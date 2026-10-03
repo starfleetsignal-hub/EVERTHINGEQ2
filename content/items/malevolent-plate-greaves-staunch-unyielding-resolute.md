@@ -21,17 +21,20 @@ contains: '- [[Staunch Legguards of Rancor (0 Gem){{!}}Staunch Legguards of Ranc
 
   - [[Resolute Greaves of Malice (0 Gem){{!}}Resolute Greaves of Malice]]'
 item_link: \aITEM 2130427160 -2070568154:Malevolent Plate Greaves\/a
+image: images/Malevolent_Plate_Greaves_(Staunch,_Unyielding,_Resolute).png
 categories:
 - Census Credits
 - Crate (Item Type)
 - Fabled Items
+- Item pages with existing iname images
 - Items
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 source:
   title: Malevolent Plate Greaves (Staunch, Unyielding, Resolute)
   url: https://eq2.fandom.com/wiki/Malevolent_Plate_Greaves_(Staunch,_Unyielding,_Resolute)
   history: https://eq2.fandom.com/wiki/Malevolent_Plate_Greaves_(Staunch,_Unyielding,_Resolute)?action=history
-  revision: 1695752
-  revised: '2023-03-16T20:05:42Z'
+  revision: 2030420
+  revised: '2026-09-24T18:54:00Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

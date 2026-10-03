@@ -27,7 +27,7 @@ source:
   revision: 2002706
   revised: '2026-05-15T11:38:34Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
+expansion: The Shadow Odyssey
 expansion_source: source
 ---
 

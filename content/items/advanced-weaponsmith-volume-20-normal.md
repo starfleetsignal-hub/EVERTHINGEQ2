@@ -37,6 +37,7 @@ recipes: '- [[Blessed Steel Dirk]]
   - [[Steel Stiletto]]'
 obtained_from: This recipe book drops from creatures (level 20).
 item_link: \aITEM -31366612 1023819776:Advanced Weaponsmith Volume 20\/a
+image: images/Advanced_Weaponsmith_Volume_20_(Normal).png
 categories:
 - Census Credits
 - Recipe Books
@@ -46,8 +47,8 @@ source:
   title: Advanced Weaponsmith Volume 20 (Normal)
   url: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_20_(Normal)
   history: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_20_(Normal)?action=history
-  revision: 1532425
-  revised: '2022-07-22T11:13:21Z'
+  revision: 2030632
+  revised: '2026-09-29T16:26:52Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

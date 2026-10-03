@@ -21,8 +21,8 @@ source:
   revision: 1729844
   revised: '2023-07-07T15:53:14Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: source
+expansion: Visions of Vetrovia
+expansion_source: linked
 ---
 
 

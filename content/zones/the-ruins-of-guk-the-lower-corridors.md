@@ -22,8 +22,8 @@ source:
   title: 'The Ruins of Guk: The Lower Corridors'
   url: https://eq2.fandom.com/wiki/The_Ruins_of_Guk:_The_Lower_Corridors
   history: https://eq2.fandom.com/wiki/The_Ruins_of_Guk:_The_Lower_Corridors?action=history
-  revision: 1783016
-  revised: '2024-02-11T12:40:55Z'
+  revision: 2030357
+  revised: '2026-09-24T00:24:25Z'
   license: CC BY-SA 3.0
 ---
 
@@ -42,6 +42,7 @@ source:
 
 - Before you pull, be sure to kill all trash near and uphill of him, as he will call them on the pull.
 - Tank and spank. He hits somewhat hard, but nothing particularly fancy. Burn him down.
+- This opens the first gate.
 
 ### [[A Basalt Gargoyle]]
 

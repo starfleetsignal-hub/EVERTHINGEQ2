@@ -26,8 +26,8 @@ source:
   title: Trust Must Be Earned, Part 1
   url: https://eq2.fandom.com/wiki/Trust_Must_Be_Earned,_Part_1
   history: https://eq2.fandom.com/wiki/Trust_Must_Be_Earned,_Part_1?action=history
-  revision: 1394463
-  revised: '2022-01-14T02:48:20Z'
+  revision: 2030385
+  revised: '2026-09-24T16:12:12Z'
   license: CC BY-SA 3.0
 ---
 
@@ -41,6 +41,6 @@ This quest is part 2 of a 19-quest series in the [[Nektulos Forest Timeline]].
 
 ## Rewards
 
-- At least 17s 13c
+- At least 93s 50c
 
 5% of 1 AA point if the quest is greyed out

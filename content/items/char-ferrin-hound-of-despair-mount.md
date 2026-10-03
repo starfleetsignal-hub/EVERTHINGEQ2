@@ -44,8 +44,8 @@ source:
   revision: 1928882
   revised: '2026-01-01T16:24:14Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: source
+expansion: Chains of Eternity
+expansion_source: level
 ---
 
 

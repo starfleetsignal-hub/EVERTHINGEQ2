@@ -18,6 +18,7 @@ stats:
   resolve: '620'
   abmod: +4314,572
 item_link: \aITEM 704477552 -565264917:Mordant Charm of the Umbrith\/a
+image: images/Mordant_Charm_of_the_Umbrith.png
 categories:
 - Ability Modifier (Equipment)
 - Assassin Equipment
@@ -41,6 +42,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -73,8 +75,8 @@ source:
   title: Mordant Charm of the Umbrith
   url: https://eq2.fandom.com/wiki/Mordant_Charm_of_the_Umbrith
   history: https://eq2.fandom.com/wiki/Mordant_Charm_of_the_Umbrith?action=history
-  revision: 1919378
-  revised: '2025-12-17T20:59:22Z'
+  revision: 2030605
+  revised: '2026-09-28T20:04:14Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: level

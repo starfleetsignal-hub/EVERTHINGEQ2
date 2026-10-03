@@ -24,8 +24,8 @@ source:
   revision: 1855840
   revised: '2025-02-01T20:12:23Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 This item is needed for the collection: [[Hand-Hewn Frostfell Ornaments]]

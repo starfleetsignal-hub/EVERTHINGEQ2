@@ -17,6 +17,7 @@ stats:
 effect_name: Tactical Superiority
 effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Tactical Superiority II on target of attack.  Lasts for 10.0 seconds.  Triggers about 3.0 times per minute.\n    - Decreases Potency of target by 18.0.\n    - Cannot be modified except by direct means"
 item_link: \aITEM -618718036 1903926487:Tactical Earring of Subterrestrial Ire\/a
+image: images/Tactical_Earring_of_Subterrestrial_Ire.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -43,6 +44,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Fury Equipment
@@ -54,6 +56,7 @@ categories:
 - Mystic Equipment
 - Necromancer Equipment
 - Noxious Resistance (Equipment)
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 - Paladin Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -77,11 +80,11 @@ source:
   title: Tactical Earring of Subterrestrial Ire
   url: https://eq2.fandom.com/wiki/Tactical_Earring_of_Subterrestrial_Ire
   history: https://eq2.fandom.com/wiki/Tactical_Earring_of_Subterrestrial_Ire?action=history
-  revision: 1888488
-  revised: '2025-09-16T21:44:03Z'
+  revision: 2030406
+  revised: '2026-09-24T18:10:28Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

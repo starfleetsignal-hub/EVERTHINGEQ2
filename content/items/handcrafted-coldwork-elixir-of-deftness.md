@@ -69,8 +69,8 @@ source:
   revision: 1930958
   revised: '2026-01-01T19:23:35Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Ballads of Zimara
+expansion_source: level
 ---
 
 

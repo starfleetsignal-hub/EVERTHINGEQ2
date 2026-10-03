@@ -13,6 +13,7 @@ drops:
 - '[[Malevolent Tower Shield]]'
 - '[[Sardonic Club of Bludgeoning]]'
 - '[[Sardonic Staff of the Unstoppable]]'
+- '[[Bold Malevolent Leather Leggings]]'
 categories:
 - Heroic Named Monsters
 - Monsters that award SP
@@ -28,8 +29,8 @@ source:
   title: Maago T'Lann
   url: https://eq2.fandom.com/wiki/Maago_T'Lann
   history: https://eq2.fandom.com/wiki/Maago_T'Lann?action=history
-  revision: 2029023
-  revised: '2026-09-13T19:10:18Z'
+  revision: 2030627
+  revised: '2026-09-29T13:31:47Z'
   license: CC BY-SA 3.0
 ---
 
