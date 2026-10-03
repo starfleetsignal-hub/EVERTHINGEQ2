@@ -1,0 +1,1134 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Norrath Ledger: an EverQuest II reference</title>
+<meta name="description" content="Norrath Ledger is a free, ad-free reference for EverQuest II: zones, quests, items, spells, achievements, NPCs and monsters from The Shattered Lands to Rage of Cthurath, with waypoint chips, a gear finder and a collections tracker.">
+<meta name="theme-color" content="#c2412f">
+<link rel="canonical" href="https://everythingeq2.com/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Norrath Ledger">
+<meta property="og:title" content="Norrath Ledger: an EverQuest II reference">
+<meta property="og:description" content="A free, ad-free EverQuest II reference: zones, quests, items, spells, achievements, NPCs and monsters, with waypoint chips and a gear finder.">
+<meta property="og:url" content="https://everythingeq2.com/">
+<meta property="og:image" content="https://everythingeq2.com/images/bg/roc-gerion.webp">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@500;700&family=Alegreya+Sans:ital,wght@0,400;0,500;0,700;1,400&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+:root{
+  color-scheme: dark;
+  --ground:#1d1510; --surface:#281d16; --surface-2:#33251c; --line:#4a3527;
+  --text:#ecdfcb; --muted:#b39c83; --faint:#a38d78;
+  --red:#c2412f; --red-soft:#e57d69; --red-ink:#fff4ee;
+  --green:#6f9a55; --green-soft:#9cc47f; --green-ink:#0f1a0a;
+  --brown:#8a5a36; --gold:#d2a85a;
+  --shadow:0 10px 30px rgba(0,0,0,.35);
+  --veil:rgba(20,13,9,.45);
+  --display:"Alegreya SC", "Palatino Linotype", Palatino, Georgia, serif;
+  --body:"Alegreya Sans", "Gill Sans", "Segoe UI", system-ui, sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    color-scheme: light;
+    --ground:#f1e8dc; --surface:#fbf6ef; --surface-2:#eadccb; --line:#d4c0a8;
+    --text:#2a1c13; --muted:#6d5543; --faint:#735c49;
+    --red:#a3301f; --red-soft:#a3301f; --red-ink:#fff6f0;
+    --green:#3f6e2c; --green-soft:#386226; --green-ink:#f4fbef;
+    --brown:#7a4b2a; --gold:#8e6a22;
+    --shadow:0 8px 24px rgba(74,45,20,.14);
+    --veil:rgba(241,232,220,.35);
+  }
+}
+:root[data-theme="light"]{
+  color-scheme: light;
+  --ground:#f1e8dc; --surface:#fbf6ef; --surface-2:#eadccb; --line:#d4c0a8;
+  --text:#2a1c13; --muted:#6d5543; --faint:#735c49;
+  --red:#a3301f; --red-soft:#a3301f; --red-ink:#fff6f0;
+  --green:#3f6e2c; --green-soft:#386226; --green-ink:#f4fbef;
+  --brown:#7a4b2a; --gold:#8e6a22;
+  --shadow:0 8px 24px rgba(74,45,20,.14);
+  --veil:rgba(241,232,220,.35);
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+body{background:var(--ground);color:var(--text);font:17px/1.55 var(--body);}
+/* Scene from the latest expansion behind the pages (Gerion, Hold of D'Lere, Rage of Cthurath), veiled so text stays readable */
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;background:linear-gradient(var(--veil),var(--veil)),url(images/bg/roc-gerion.webp) center/cover no-repeat}
+@media (max-width:900px){body::before{background-image:linear-gradient(var(--veil),var(--veil)),url(images/bg/roc-gerion-small.webp)}}
+.shell,footer.site{background:color-mix(in srgb, var(--ground) 93%, transparent);-webkit-backdrop-filter:blur(6px);backdrop-filter:blur(6px);box-shadow:var(--shadow)}
+.shell{border-radius:0 0 12px 12px;margin-bottom:18px}
+footer.site{border-radius:12px;margin-bottom:24px;border-top:0}
+footer.site .bgcredit{font-size:.78rem}
+a{color:var(--red-soft);text-decoration:underline;text-decoration-color:color-mix(in srgb, var(--red-soft) 40%, transparent);text-underline-offset:3px}
+a:hover{text-decoration-color:currentColor}
+a:focus-visible,button:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--gold);outline-offset:2px;border-radius:3px}
+#main:focus{outline:none}
+.sr-only,.pending::after{position:absolute;width:1px;height:1px;margin:-1px;padding:0;overflow:hidden;clip:rect(0 0 0 0);clip-path:inset(50%);white-space:nowrap;border:0}
+.pending::after{content:" (page not on this site yet)"}
+.skip{position:absolute;left:8px;top:-60px;z-index:60;background:var(--surface);color:var(--text);border:2px solid var(--gold);border-radius:6px;padding:8px 14px;font-weight:700}
+.skip:focus{top:8px}
+.pending{text-decoration:underline dotted color-mix(in srgb, var(--muted) 60%, transparent);text-underline-offset:3px;cursor:help}
+
+.topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:10;background:var(--red);color:var(--red-ink);border-bottom:3px solid var(--brown)}
+.topbar-in{max-width:1180px;margin:0 auto;padding:10px 16px;display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.brand{font-family:var(--display);font-weight:700;font-size:1.45rem;letter-spacing:.02em;color:inherit;text-decoration:none;display:flex;align-items:baseline;gap:8px}
+.brand small{font-family:var(--body);font-size:.78rem;font-weight:500;opacity:.85;letter-spacing:.08em;text-transform:uppercase}
+.search{flex:1 1 220px;position:relative;max-width:420px;margin-left:auto}
+.search input{width:100%;border:1px solid rgba(255,255,255,.35);background:rgba(0,0,0,.18);color:inherit;border-radius:6px;padding:7px 10px;font:inherit;font-size:.95rem}
+.search input::placeholder{color:rgba(255,244,238,.9)}
+.results{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:6px;box-shadow:var(--shadow);overflow:hidden;max-height:60vh;overflow-y:auto}
+.results a{display:flex;justify-content:space-between;gap:10px;padding:8px 12px;text-decoration:none;color:var(--text)}
+.results a:hover,.results a.hl{background:var(--surface-2)}
+.results span{color:var(--faint);font-size:.85rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.results b{font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;min-width:0}
+.results a{align-items:baseline}
+.results a.all{border-top:1px solid var(--line);color:var(--red-soft);font-weight:700}
+.donate{display:inline-flex;align-items:center;gap:6px;background:var(--green);color:var(--green-ink);border:1px solid color-mix(in srgb, var(--green) 70%, #000);border-radius:6px;padding:6px 12px;font-size:.85rem;font-weight:700;text-decoration:none;white-space:nowrap}
+.donate:hover{background:var(--green-soft);color:var(--green-ink)}
+.donate[hidden]{display:none}
+.donate svg{width:14px;height:14px;fill:currentColor;flex:none}
+.themebtn{background:none;border:1px solid rgba(255,255,255,.35);color:inherit;border-radius:6px;padding:6px 10px;font:inherit;font-size:.85rem;cursor:pointer}
+
+.shell{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:24px 48px;display:grid;grid-template-columns:220px minmax(0,1fr);gap:32px}
+@media (max-width:820px){.shell{grid-template-columns:1fr}.sidenav{order:2}}
+.sidenav h2{font-family:var(--display);font-size:.95rem;letter-spacing:.06em;color:var(--muted);margin:0 0 8px;border:0;padding:0}
+.sidenav ol{list-style:none;margin:0 0 20px;padding:0;border-left:2px solid var(--line)}
+.sidenav li a{display:flex;justify-content:space-between;gap:8px;padding:4px 10px;color:var(--text);text-decoration:none;font-size:.95rem;margin-left:-2px;border-left:2px solid transparent}
+.sidenav li a:hover{border-left-color:var(--brown);background:var(--surface)}
+.sidenav li a.on{border-left-color:var(--red);color:var(--red-soft);font-weight:700}
+.sidenav li a span{font-family:var(--mono);font-size:.72rem;color:var(--faint);align-self:center}
+.sidenote{font-size:.85rem;color:var(--muted)}
+
+.crumbs{font-size:.85rem;color:var(--muted);margin-bottom:6px}
+.crumbs a{color:var(--muted)}
+.art-head{display:flex;gap:16px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;border-bottom:2px solid var(--line);padding-bottom:10px;margin-bottom:18px}
+h1{font-family:var(--display);font-weight:700;font-size:clamp(1.9rem,4vw,2.6rem);line-height:1.1;margin:0;text-wrap:balance}
+h2{font-family:var(--display);font-weight:700;font-size:1.45rem;margin:28px 0 10px;color:var(--text);border-bottom:1px solid var(--line);padding-bottom:4px;text-wrap:balance}
+h3,h4{font-size:1.05rem;margin:18px 0 6px}
+p{margin:0 0 12px;max-width:68ch}
+.article ul,.article ol:not(.steps){padding-left:1.4em;margin:0 0 14px;max-width:72ch}
+.article li{margin:3px 0}
+.editbtn{display:inline-flex;gap:6px;align-items:center;background:var(--surface);border:1px solid var(--line);color:var(--text);border-radius:6px;padding:6px 12px;font:inherit;font-size:.9rem;cursor:pointer;text-decoration:none}
+.editbtn:hover{border-color:var(--brown)}
+.banner{background:color-mix(in srgb, var(--gold) 14%, var(--surface));border:1px dashed var(--gold);border-radius:6px;padding:8px 12px;font-size:.9rem;margin-bottom:18px;max-width:none}
+.callout{border-radius:6px;padding:8px 12px;font-size:.95rem;max-width:none}
+.callout.red{background:color-mix(in srgb, var(--red) 16%, var(--surface));border:1px solid color-mix(in srgb, var(--red) 50%, var(--line))}
+.starts{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;max-width:none}
+blockquote{margin:0 0 16px;padding:10px 16px;border-left:3px solid var(--brown);background:var(--surface);border-radius:0 8px 8px 0;color:var(--muted)}
+blockquote p{max-width:66ch}
+details{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 14px;margin:0 0 14px}
+summary{cursor:pointer;font-weight:700}
+hr{border:0;border-top:1px solid var(--line);margin:18px 0}
+
+.with-box{display:grid;grid-template-columns:minmax(0,1fr) 280px;gap:28px;align-items:start}
+@media (max-width:1000px){.with-box{grid-template-columns:1fr}.infobox{order:-1}}
+.infobox{background:var(--surface);border:1px solid var(--line);border-radius:8px;overflow:hidden;font-size:.92rem}
+.infobox header{background:var(--brown);color:#fbefe2;font-family:var(--display);font-weight:700;padding:8px 12px;font-size:1.05rem}
+.infobox header img{width:32px;height:32px;vertical-align:middle;margin-right:8px;border-radius:4px;background:#00000033}
+.infobox .boxpic{margin:0;padding:10px;border-bottom:1px solid var(--line);text-align:center}
+.infobox .boxpic img{max-width:100%;height:auto;border-radius:4px}
+.article img[src^="images/w/"]{max-width:min(100%,640px);height:auto;border-radius:6px;vertical-align:top}
+.infobox .boxpic figcaption{font-size:.85rem;color:var(--muted);margin-top:6px}
+.infobox table.stats{width:100%;border-collapse:collapse;margin:0;font-size:.9rem}
+.infobox table.stats th{text-align:left;font-weight:600;padding:1px 10px 1px 0;color:var(--muted);background:none;text-transform:none;letter-spacing:0;font-size:.9rem;border:0}
+.infobox table.stats td{border:0}
+.infobox table.stats td{padding:1px 0}
+.infobox dd ul{margin:0;padding-left:1.1em}
+code.itemlink{font-size:.72rem;word-break:break-all;white-space:normal}
+.infobox dl{margin:0;display:grid;grid-template-columns:auto minmax(0,1fr)}
+.infobox dt,.infobox dd{padding:6px 12px;border-top:1px solid var(--line);margin:0}
+.infobox dt{color:var(--muted);font-weight:500}
+.infobox dd{font-variant-numeric:tabular-nums;overflow-wrap:anywhere}
+.infobox .loc{white-space:normal;text-align:left}
+.box-only .infobox{max-width:460px}
+
+.loc{display:inline-flex;align-items:center;gap:6px;font-family:var(--mono);font-size:.82rem;font-weight:500;background:color-mix(in srgb, var(--green) 18%, var(--surface));color:var(--text);border:1px solid color-mix(in srgb, var(--green) 55%, var(--line));border-radius:999px;padding:2px 10px 2px 8px;cursor:pointer;white-space:nowrap;vertical-align:baseline;font-variant-numeric:tabular-nums;transition:background .15s}
+.loc:hover{background:color-mix(in srgb, var(--green) 32%, var(--surface))}
+.loc svg{width:13px;height:13px;flex:none;fill:none;stroke:var(--green-soft);stroke-width:2}
+.loc.done{background:var(--green);color:var(--green-ink);border-color:var(--green)}
+.loc.done svg{stroke:var(--green-ink)}
+
+.tablewrap{overflow-x:auto;border:1px solid var(--line);border-radius:8px;margin:8px 0 16px}
+table{border-collapse:collapse;width:100%;font-size:.93rem}
+th,td{text-align:left;padding:8px 12px;border-bottom:1px solid var(--line);vertical-align:top}
+th{background:var(--surface-2);font-weight:700;font-size:.8rem;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
+tr:last-child td{border-bottom:0}
+td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
+
+.steps{list-style:none;counter-reset:s;margin:0 0 16px;padding:0;display:grid;gap:10px}
+.steps>li{counter-increment:s;display:grid;grid-template-columns:34px minmax(0,1fr);gap:12px;background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 14px;margin:0}
+.steps>li::before{content:counter(s);font-family:var(--display);font-weight:700;font-size:1.1rem;color:var(--red-ink);background:var(--red);border-radius:50%;width:30px;height:30px;display:grid;place-items:center}
+.steps>li>div{align-self:center}
+.steps ul,.steps ol{margin:6px 0 0;padding-left:1.2em}
+
+.chain{display:flex;flex-wrap:wrap;align-items:stretch;margin:0 0 14px;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.chain>*{flex:1 1 160px;padding:10px 12px;border-right:1px solid var(--line);font-size:.92rem;display:block;background:var(--surface)}
+.chain>*:last-child{border-right:0}
+.chain small{display:block;color:var(--faint);font-size:.72rem;letter-spacing:.08em;text-transform:uppercase;font-weight:700}
+.chain strong{background:var(--surface-2)}
+
+.tag{display:inline-block;font-size:.72rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;padding:1px 7px;border-radius:4px;background:var(--surface-2);color:var(--muted);border:1px solid var(--line);vertical-align:middle}
+.tag.red{background:color-mix(in srgb, var(--red) 20%, var(--surface));color:var(--red-soft);border-color:color-mix(in srgb, var(--red) 45%, var(--line))}
+.tag.green{background:color-mix(in srgb, var(--green) 20%, var(--surface));color:var(--green-soft);border-color:color-mix(in srgb, var(--green) 45%, var(--line))}
+.credit{margin-top:28px;padding-top:10px;border-top:1px solid var(--line);font-size:.82rem;color:var(--faint);max-width:none}
+.credit a{color:var(--muted)}
+
+.lede{font-size:1.12rem;color:var(--muted);max-width:62ch}
+.stats{display:flex;flex-wrap:wrap;gap:10px;margin:14px 0 6px}
+.stats a{display:grid;padding:10px 16px;background:var(--surface);border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--text);min-width:130px}
+.stats a:hover{border-color:var(--brown)}
+.stats b{font-family:var(--display);font-size:1.6rem;line-height:1.1;font-variant-numeric:tabular-nums}
+.stats span{font-size:.85rem;color:var(--muted)}
+.filter{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:6px 0 4px}
+.filter input{flex:1 1 220px;max-width:360px;background:var(--surface);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:6px 10px;font:inherit;font-size:.95rem}
+.filter span{font-size:.85rem;color:var(--faint)}
+.npcgrid{columns:3 200px;column-gap:24px;padding:0;list-style:none;font-size:.95rem}
+.npcgrid li{break-inside:avoid;padding:2px 0}
+.wpmap{--quest:var(--red-soft);--npc:var(--gold);--named:#d9822b;--monster:#a8836a;--poi:var(--green-soft);--house:#7fa7c9;margin:0 0 18px}
+.wpmap svg{display:block;width:100%;max-height:75vh;background:var(--surface);border:1px solid var(--line);border-radius:8px;cursor:grab;touch-action:none;user-select:none}
+.wpmap svg.drag{cursor:grabbing}
+.wpgrid line{stroke:var(--line)}
+.wpgrid text{fill:var(--faint);font-family:var(--mono)}
+.wpnorth{fill:var(--muted);font-family:var(--display);font-weight:700}
+.wpin{stroke:var(--ground);cursor:pointer;opacity:.9}
+.wpin:hover,.wpin:focus{opacity:1;stroke:var(--text)}
+.wpin:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
+.wpin.done{fill:var(--text)!important}
+.wpbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 8px}
+.wpbar button{font:inherit;font-size:.85rem;background:var(--surface);color:var(--text);border:1px solid var(--line);border-radius:999px;padding:2px 10px;cursor:pointer;display:inline-flex;align-items:center;gap:6px}
+.wpbar button:hover{border-color:var(--brown)}
+.wpkey i{width:10px;height:10px;border-radius:50%;display:inline-block}
+.wpkey[aria-pressed="false"]{opacity:.45;text-decoration:line-through}
+.wpzoom{margin-left:auto;display:inline-flex;gap:4px}
+.wpzoom button{min-width:32px;justify-content:center}
+.wplist td:nth-child(2){color:var(--muted);font-size:.9rem}
+.wpin[data-k="quest"],.wpkey[data-k="quest"] i{fill:var(--quest);background:var(--quest)}
+.wpin[data-k="npc"],.wpkey[data-k="npc"] i{fill:var(--npc);background:var(--npc)}
+.wpin[data-k="named"],.wpkey[data-k="named"] i{fill:var(--named);background:var(--named)}
+.wpin[data-k="monster"],.wpkey[data-k="monster"] i{fill:var(--monster);background:var(--monster)}
+.wpin[data-k="poi"],.wpkey[data-k="poi"] i{fill:var(--poi);background:var(--poi)}
+.wpin[data-k="house"],.wpkey[data-k="house"] i{fill:var(--house);background:var(--house)}
+.wpmap.no-quest [data-k="quest"]:not(.wpkey){display:none}
+.wpmap.no-npc [data-k="npc"]:not(.wpkey){display:none}
+.wpmap.no-named [data-k="named"]:not(.wpkey){display:none}
+.wpmap.no-monster [data-k="monster"]:not(.wpkey){display:none}
+.wpmap.no-poi [data-k="poi"]:not(.wpkey){display:none}
+.wpmap.no-house [data-k="house"]:not(.wpkey){display:none}
+.filter select{background:var(--surface);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:6px 8px;font:inherit;font-size:.95rem}
+.xgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:10px;margin-top:14px}
+.xcard{display:grid;gap:2px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-radius:8px;text-decoration:none;color:var(--text)}
+.xcard:hover{border-color:var(--brown)}
+.xcard b{font-family:var(--display);font-size:1.08rem}
+.xcard>span{font-size:.82rem;color:var(--faint);display:flex;justify-content:space-between;gap:6px}
+.tabs{display:flex;flex-wrap:wrap;gap:4px;border-bottom:2px solid var(--line);margin:0 0 18px}
+.tabs a{padding:8px 14px;text-decoration:none;color:var(--muted);border:1px solid transparent;border-bottom:0;border-radius:6px 6px 0 0;margin-bottom:-2px;font-weight:500}
+.tabs a:hover{color:var(--text);background:var(--surface)}
+.tabs a[aria-current="page"]{color:var(--red-soft);background:var(--surface);border-color:var(--line);border-bottom:2px solid var(--surface);font-weight:700}
+.qgroup summary{font-family:var(--display);font-size:1.1rem}
+.qline{margin:8px 0 4px;padding-left:1.6em;columns:2 260px;column-gap:28px}
+.qline li{break-inside:avoid;padding:2px 0}
+.count{font-family:var(--mono);font-size:.78rem;color:var(--faint);font-weight:500;margin-left:6px}
+.derived{font-size:.88rem;color:var(--faint)}
+.loading{color:var(--muted);padding:24px 0}
+#main{min-width:0}
+.sidenav li a.sub{padding-left:22px;font-size:.9rem}
+.gearcall{background:color-mix(in srgb, var(--green) 14%, var(--surface));border:1px solid color-mix(in srgb, var(--green) 45%, var(--line));margin-bottom:12px}
+.gearform{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:10px 14px;margin:10px 0 6px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.gearform label{display:grid;gap:3px;font-size:.8rem;font-weight:700;letter-spacing:.04em;color:var(--muted)}
+.gearform label.wide{grid-column:span 2}
+@media (max-width:420px){.gearform label.wide{grid-column:auto}}
+.gearform select,.gearform input{width:100%;min-width:0;background:var(--ground);border:1px solid var(--line);border-radius:6px;color:var(--text);padding:6px 8px;font:inherit;font-size:.95rem;font-weight:400;letter-spacing:0}
+.gearform .range{display:flex;gap:6px;align-items:center}
+.gearform .range span{font-weight:400;color:var(--faint)}
+.geartable td.gname{min-width:200px}
+.geartable td.gname img{vertical-align:middle;margin-right:6px;border-radius:3px;background:#00000033}
+.gstats{font-size:.85rem;min-width:180px}
+.gstats span{display:inline-block;margin:0 8px 2px 0;color:var(--muted);white-space:nowrap}
+.gstats span b{color:var(--text);font-variant-numeric:tabular-nums}
+.gstats span.on{color:var(--green-soft)}
+.gstats span.on b{color:var(--green-soft)}
+.evnow{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;margin:14px 0 6px}
+.evcard{display:grid;gap:4px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--brown);border-radius:8px;text-decoration:none;color:var(--text)}
+.evcard:hover{border-color:var(--brown)}
+.evcard.on{border-left-color:var(--green)}
+.evcard b{font-family:var(--display);font-size:1.1rem}
+.evcard small{color:var(--faint);font-size:.85rem}
+.months{display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:10px;margin:10px 0 16px}
+.month{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:8px 12px;min-height:92px}
+.month.cur{border-color:var(--red);box-shadow:inset 0 3px 0 var(--red)}
+.month h3{font-family:var(--display);margin:0 0 6px;font-size:1rem;color:var(--muted)}
+.month ul{list-style:none;margin:0;padding:0;font-size:.92rem}
+.month li{padding:1px 0}
+a.tag{text-decoration:none}
+.evfacts{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px}
+.sfilter .lvl{display:inline-flex;align-items:center;gap:6px;font-size:.95rem;color:var(--muted)}
+.sfilter .lvl input{width:5.5em;flex:none}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 6px}
+.chips a{padding:4px 10px;border:1px solid var(--line);border-radius:999px;background:var(--surface);color:var(--text);text-decoration:none;font-size:.9rem}
+.chips a:hover{border-color:var(--brown)}
+.chips a[aria-current="true"]{background:var(--red);border-color:var(--red);color:var(--red-ink)}
+.chips a[aria-current="true"] .count{color:inherit}
+.sresults{list-style:none;margin:0;padding:0;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.sresults:empty{display:none}
+.sresults li{padding:8px 12px;border-bottom:1px solid var(--line);background:var(--surface)}
+.sresults li:last-child{border-bottom:0}
+.sresults small{display:block;color:var(--faint);font-size:.85rem}
+
+.article ul.pieces,ul.pieces{list-style:none;padding:0;margin:0 0 16px;display:grid;gap:4px;max-width:72ch}
+.pieces li{display:flex;flex-wrap:wrap;align-items:center;gap:2px 10px;background:var(--surface);border:1px solid var(--line);border-radius:6px;padding:5px 10px;margin:0}
+.pieces li.got{background:color-mix(in srgb, var(--green) 12%, var(--surface));border-color:color-mix(in srgb, var(--green) 45%, var(--line))}
+.pieces label{display:flex;align-items:center;gap:10px;cursor:pointer;flex:1 1 200px;min-width:0;min-height:30px}
+.pieces input{width:18px;height:18px;margin:0;flex:none;accent-color:var(--green);cursor:pointer}
+.pieces img{width:28px;height:28px;border-radius:4px;background:#00000033;flex:none}
+.pieces small{color:var(--faint);font-size:.82rem}
+.coll.complete h2 .count,.collcard.complete .count{color:var(--green-soft);font-weight:700}
+.bar{display:block;height:6px;width:100%;background:var(--surface-2);border-radius:999px;overflow:hidden}
+.bar i{display:block;height:100%;background:var(--green);border-radius:inherit}
+.collcard{padding:0;margin:0 0 8px}
+.collcard>summary{display:flex;gap:14px;align-items:center;justify-content:space-between;padding:10px 14px;font-weight:500;list-style-position:outside}
+.collcard>summary b{font-family:var(--display);font-size:1.05rem;display:block}
+.collcard>summary small{color:var(--faint);font-size:.84rem;display:block}
+.collcard .cp{display:grid;gap:4px;justify-items:end;flex:0 0 110px}
+.collcard[open]>summary{border-bottom:1px solid var(--line)}
+.collcard .pieces{margin:10px 14px 8px}
+.collcard .crow{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 14px 12px;max-width:none;font-size:.9rem}
+.collcard .crow a{margin-right:auto}
+.minibtn{background:var(--surface-2);border:1px solid var(--line);color:var(--text);border-radius:6px;padding:4px 10px;font:inherit;font-size:.85rem;cursor:pointer}
+.minibtn:hover{border-color:var(--brown)}
+.tools{display:flex;flex-wrap:wrap;gap:8px;margin:4px 0 14px}
+.peek{position:fixed;z-index:30;max-width:300px;background:var(--surface);border:1px solid var(--brown);border-radius:8px;box-shadow:var(--shadow);padding:10px 12px;font-size:.88rem;pointer-events:none}
+.peek b{display:block;font-family:var(--display);font-size:1rem}
+.peek em{color:var(--faint);font-style:normal;font-size:.78rem;text-transform:uppercase;letter-spacing:.06em}
+.toast{position:fixed;left:50%;bottom:calc(20px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--green);color:var(--green-ink);font-weight:700;padding:8px 16px;border-radius:999px;box-shadow:var(--shadow);font-size:.92rem;z-index:40}
+.modal-back{position:fixed;inset:0;background:rgba(15,8,4,.55);display:grid;place-items:center;z-index:50;padding:16px}
+.modal{background:var(--surface);border:1px solid var(--line);border-radius:10px;max-width:760px;width:100%;max-height:88vh;display:flex;flex-direction:column;padding:18px 20px;box-shadow:var(--shadow)}
+.modal h2{margin-top:0}
+.modal pre{background:var(--ground);border:1px solid var(--line);border-radius:6px;padding:10px 12px;font:12.5px/1.5 var(--mono);overflow:auto;white-space:pre-wrap;flex:1;min-height:0;margin:0}
+.modal .row{display:flex;justify-content:flex-end;margin-top:12px}
+footer.site{max-width:1180px;margin:0 auto;padding-inline:16px;padding-block:18px 32px;border-top:1px solid var(--line);font-size:.82rem;color:var(--faint)}
+footer.site p{max-width:none}
+@media (prefers-reduced-motion: reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main" id="skip">Skip to content</a>
+<header class="topbar">
+  <div class="topbar-in">
+    <a class="brand" href="#home">Norrath Ledger <small>EverQuest II reference</small></a>
+    <div class="search" role="search">
+      <input id="q" type="search" placeholder="Search quests, items, zones, NPCs  ( / )" autocomplete="off" aria-label="Search the wiki">
+      <div class="results" id="results" hidden></div>
+    </div>
+    <a class="donate" id="donatebtn" href="#" target="_blank" rel="noopener" hidden aria-label="Support the site (opens in a new tab)"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7.5-4.6-9.6-9.3C.9 8.3 3 4.5 6.7 4.5c2.1 0 3.6 1.1 4.3 2.4.7-1.3 2.2-2.4 4.3-2.4 3.7 0 5.8 3.8 4.3 7.2C19.5 16.4 12 21 12 21z"/></svg>Support the site</a>
+    <button class="themebtn" id="themebtn" type="button" aria-label="Switch between light and dark theme">Light / dark</button>
+  </div>
+</header>
+
+<div class="shell">
+  <nav class="sidenav" aria-label="Browse">
+    <h2>Browse</h2>
+    <ol id="snav"></ol>
+    <h2>Events</h2>
+    <ol id="enav"><li><a href="#events">Holiday calendar<span></span></a></li></ol>
+    <h2>Releases</h2>
+    <ol id="xnav"></ol>
+    <p class="sidenote">Converted from the EverQuest II Wiki. Names with a dotted grey underline point to wiki pages that are not on this site yet.</p>
+  </nav>
+  <main id="main" tabindex="-1"></main>
+</div>
+
+<footer class="site">
+  <p>Page text is adapted from the EverQuest II Wiki on Fandom under CC BY-SA 3.0; each page credits its source article and links to its edit history. EverQuest II is a trademark of Daybreak Game Company; this site is a fan reference.</p>
+  <p class="bgcredit">Background: <a href="https://eq2.fandom.com/wiki/File:Gerion,_Hold_of_D%27Lere.png" rel="nofollow noopener" target="_blank">Gerion, Hold of D'Lere</a> (Rage of Cthurath), a screenshot by Kyrros on the EverQuest II Wiki, CC BY-SA 3.0.</p>
+  <p id="donatenote" hidden>This site is free and ad-free. If it helps you, you can <a id="donatelink" href="#" target="_blank" rel="noopener">chip in toward hosting</a>.</p>
+</footer>
+
+<div id="peek" class="peek" hidden></div>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<div id="routeann" class="sr-only" role="status" aria-live="polite"></div>
+<div id="modal" class="modal-back" hidden>
+  <div class="modal" role="dialog" aria-modal="true" aria-labelledby="mtitle">
+    <h2 id="mtitle">Edit this page</h2>
+    <p id="mpath"></p>
+    <pre id="msrc"></pre>
+    <div class="row"><button class="editbtn" id="mclose" type="button">Close</button></div>
+  </div>
+</div>
+
+<script>
+const EXT = ".json.gz";
+// Donation page (Ko-fi, PayPal.me, Buy Me a Coffee, Patreon...). Leave empty to hide the button.
+const DONATE_URL = "https://ko-fi.com/updown26";
+if (DONATE_URL) {
+  for (const id of ["donatebtn", "donatelink"]) document.getElementById(id).href = DONATE_URL;
+  document.getElementById("donatebtn").hidden = document.getElementById("donatenote").hidden = false;
+}
+let META = {counts:{}, lines:{}, zones:{}, chunks:100, width:2}, SEARCH = null, SMAP = null;
+const IDX = {}, cacheP = {}, cacheS = {}, cacheI = {};
+const hid = id => id.replace("/", ".");
+const pid = h => h.replace(".", "/");
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+function fnv(s){ let h = 0x811c9dc5; for (const b of new TextEncoder().encode(s)){ h ^= b; h = Math.imul(h, 0x01000193) >>> 0; } return h >>> 0; }
+async function data(path){
+  const r = await fetch(`data/${path}${EXT}`); if (!r.ok) throw new Error(r.status);
+  let blob;
+  if (EXT === ".txt"){      // gzip wrapped in base64 (the preview host serves text only)
+    const bin = atob((await r.text()).trim()), bytes = new Uint8Array(bin.length);
+    for (let i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+    blob = new Blob([bytes]);
+  } else blob = await r.blob();
+  return new Response(blob.stream().pipeThrough(new DecompressionStream("gzip"))).json();
+}
+async function chunk(kind, id){
+  const c = String(fnv(id) % META.chunks).padStart(META.width, "0"), cache = kind === "p" ? cacheP : cacheS;
+  if (!cache[c]) cache[c] = data(`${kind}/${c}`).catch(e=>{ delete cache[c]; throw e; });
+  return (await cache[c])[id];
+}
+const row = a => ({t:a[0], k:a[1], m:a[2], s:a[3], lvl:a[4], d:a[5], z:a[6], x:a[7], xe:a[8]});
+function typeIndex(t){
+  if (!cacheI[t]) cacheI[t] = data(`i/${t}`).then(d=>{ for (const id in d) IDX[id] = row(d[id]); return Object.keys(d); })
+                                        .catch(e=>{ delete cacheI[t]; throw e; });
+  return cacheI[t];
+}
+// ---- search: normalised titles are built once when the index loads, then every query scans them
+let SEARCH_L = null, SEARCH_N = null, SEARCH_A = null, SEARCH_T = null, LASTQ = ["", []];
+const norm = s => { s = String(s ?? "").toLowerCase(); if (/[^\x00-\x7f]/.test(s)) s = s.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  return s.replace(/['\u2019`]/g, "").replace(/[^a-z0-9]+/g, " ").trim(); };
+const TYRANK = {zones:0, quests:1, named:2, npcs:3, items:4, spells:5, pois:6, achievements:7, timelines:8, monsters:9};
+function loadSearch(){
+  if (!SEARCH) SEARCH = data("search").then(list=>{
+    SMAP = {}; SEARCH_L = list;
+    const n = list.length; SEARCH_N = new Array(n); SEARCH_A = new Array(n); SEARCH_T = new Uint8Array(n);
+    for (let i = 0; i < n; i++){
+      const r = list[i]; SMAP[r[0]] = r;
+      SEARCH_N[i] = " " + norm(r[1]);
+      SEARCH_A[i] = r.length > 6 ? " " + r.slice(6).map(norm).join(" | ") : "";
+      const ty = r[0].slice(0, r[0].indexOf("/")); SEARCH_T[i] = ty in TYRANK ? TYRANK[ty] : 10;
+    }
+    return list;
+  }).catch(e=>{ SEARCH = null; throw e; });
+  return SEARCH;
+}
+// Every word must appear (any order). Rank: exact title, title starts with the query, words start words in the
+// title, words anywhere in the title, alias matches; then shorter titles, then zones/quests before items.
+function findAll(v){
+  const qn = norm(v);
+  if (!qn || !SEARCH_N) return [];
+  if (LASTQ[0] === qn) return LASTQ[1];
+  const toks = [...new Set(qn.split(" "))].sort((a,b)=>b.length-a.length), ws = toks.map(t=>" " + t), sq = " " + qn;
+  const short = qn.length < 2, hits = [];
+  for (let i = 0, n = SEARCH_N.length; i < n; i++){
+    const t = SEARCH_N[i]; let tier = -1;
+    if (short){ if (t.startsWith(sq)) tier = t === sq ? 0 : 1; }
+    else if (t.includes(toks[0]) && toks.every(k=>t.includes(k))){
+      if (t === sq) tier = 0;
+      else if (t.startsWith(sq)) tier = 1;
+      else if (ws.every(k=>t.includes(k))) tier = t.includes(sq) ? 2 : 3;
+      else tier = 4;
+    } else if (SEARCH_A[i] && toks.every(k=>SEARCH_A[i].includes(k))) tier = SEARCH_A[i].includes(sq + " ") || SEARCH_A[i].endsWith(sq) ? 1 : 5;
+    if (tier >= 0) hits.push([tier * 10000 + Math.min(t.length, 999) * 10 + SEARCH_T[i], i]);
+  }
+  hits.sort((a,b)=>a[0]-b[0]);
+  LASTQ = [qn, hits];
+  return hits;
+}
+const searchHash = o => "#search?" + new URLSearchParams(Object.entries(o).filter(([,v])=>v)).toString();
+const lvlNum = s => { const m = /\d+/.exec(s || ""); return m ? +m[0] : null; };
+const relName = i => (META.sx || [])[i] || "";
+
+let SP = {}, SHOW = 50;
+function searchView(){
+  SP = Object.fromEntries(new URLSearchParams(location.hash.slice(1).split("?")[1] || ""));
+  SHOW = 50;
+  return `
+  <div class="crumbs"><a href="#home">Home</a> › Search</div>
+  <div class="art-head"><h1>Search</h1></div>
+  <form class="filter sfilter" id="sform" role="search">
+    <input id="sq" type="search" value="${esc(SP.q || "")}" placeholder="Search names, e.g. fabled sword or qeynos" aria-label="Search the wiki" autocomplete="off">
+    <select id="sx" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${xslug(y)===SP.x?" selected":""}>${esc(y)}</option>`).join("")}</select>
+    <span class="lvl"><label for="smin">Level</label><input id="smin" aria-label="Minimum level" type="number" min="0" max="200" inputmode="numeric" placeholder="min" value="${esc(SP.min || "")}">–<input id="smax" type="number" min="0" max="200" inputmode="numeric" placeholder="max" value="${esc(SP.max || "")}" aria-label="Maximum level"></span>
+  </form>
+  <nav class="chips" id="schips" aria-label="Type"></nav>
+  <p class="derived" id="scount"></p>
+  <ol class="sresults" id="srows"></ol>
+  <p><button class="editbtn" id="smore" type="button" hidden>Show more</button></p>`;
+}
+async function searchRows(){
+  const rows = document.getElementById("srows"); if (!rows) return;
+  if (!norm(SP.q)){ document.getElementById("scount").textContent = "Type a name above. Every word has to match, in any order."; rows.innerHTML = ""; document.getElementById("schips").innerHTML = ""; document.getElementById("smore").hidden = true; return; }
+  let list;
+  try { list = await loadSearch(); } catch(_){ document.getElementById("scount").textContent = "Search could not load. Reload to try again."; return; }
+  if (!document.getElementById("srows")) return;
+  const x = SP.x ? XP.find(y=>xslug(y)===SP.x) : "", lo = SP.min === undefined || SP.min === "" ? null : +SP.min, hi = SP.max === undefined || SP.max === "" ? null : +SP.max;
+  const sxi = x ? (META.sx || []).indexOf(x) : -1;
+  const ok = i => { const r = list[i];
+    if (x && r[4] !== sxi) return false;
+    if (lo !== null || hi !== null){ const l = lvlNum(r[5]); if (l === null || (lo !== null && l < lo) || (hi !== null && l > hi)) return false; }
+    return true; };
+  const base = findAll(SP.q).filter(([,i])=>ok(i));
+  const byType = {};
+  for (const [,i] of base){ const ty = list[i][0].slice(0, list[i][0].indexOf("/")); byType[ty] = (byType[ty] || 0) + 1; }
+  const t = SP.t && byType[SP.t] ? SP.t : "";
+  const hits = t ? base.filter(([,i])=>list[i][0].startsWith(t + "/")) : base;
+  const chip = (k, label, n) => `<a href="${searchHash({...SP, t:k})}" data-t="${k}"${k===t?' aria-current="true"':""}>${esc(label)} <span class="count">${n.toLocaleString()}</span></a>`;
+  document.getElementById("schips").innerHTML = base.length ? chip("", "All", base.length) + TYPES.filter(([k])=>byType[k]).map(([k,l])=>chip(k, l, byType[k])).join("") : "";
+  const filt = [x, lo !== null || hi !== null ? `level ${lo ?? 0}–${hi ?? "any"}` : ""].filter(Boolean).join(", ");
+  document.getElementById("scount").textContent = hits.length
+    ? `${hits.length.toLocaleString()} ${hits.length === 1 ? "match" : "matches"} for “${SP.q}”${filt ? " (" + filt + ")" : ""}`
+    : `No matches for “${SP.q}”${filt ? " with these filters. Try clearing the release or level" : ". Check the spelling or try fewer words"}.`;
+  rows.innerHTML = hits.slice(0, SHOW).map(([,i])=>{ const r = list[i];
+    const bits = [r[5] && lvlNum(r[5]) !== null ? "Level " + r[5] : "", r[3], relName(r[4])].filter(Boolean);
+    return `<li><a href="#${hid(r[0])}" data-peek="${esc(r[0])}">${esc(r[1])}</a> <span class="tag">${esc(r[2])}</span>${bits.length?`<small>${esc(bits.join(" · "))}</small>`:""}</li>`; }).join("");
+  const more = document.getElementById("smore");
+  more.hidden = hits.length <= SHOW;
+  more.textContent = `Show more (${(hits.length - SHOW).toLocaleString()} left)`;
+}
+function searchWire(){
+  const f = document.getElementById("sform"); if (!f) return;
+  const sq = document.getElementById("sq");
+  let tmr;
+  const upd = ()=>{
+    SP = {...SP, q: sq.value.trim(), x: document.getElementById("sx").value, min: document.getElementById("smin").value, max: document.getElementById("smax").value};
+    history.replaceState(null, "", searchHash(SP)); SHOW = 50; searchRows();
+  };
+  f.addEventListener("input", ()=>{ clearTimeout(tmr); tmr = setTimeout(upd, 150); });
+  f.addEventListener("submit", e=>{ e.preventDefault(); clearTimeout(tmr); upd(); });
+  document.getElementById("schips").addEventListener("click", e=>{
+    const a = e.target.closest("a[data-t]"); if (!a) return;
+    e.preventDefault(); SP = {...SP, t: a.dataset.t}; history.replaceState(null, "", searchHash(SP)); SHOW = 50; searchRows();
+  });
+  document.getElementById("smore").addEventListener("click", ()=>{ SHOW += 100; searchRows(); });
+  if (!SP.q) sq.focus();
+  searchRows();
+}
+const XP = ["Shattered Lands","Desert of Flames","Kingdom of Sky","Echoes of Faydwer","Rise of Kunark","The Shadow Odyssey","Sentinel's Fate","Destiny of Velious","Age of Discovery","Chains of Eternity","Tears of Veeshan","Altar of Malice","Terrors of Thalumbra","Kunark Ascending","Planes of Prophecy","Chaos Descending","Blood of Luclin","Reign of Shadows","Visions of Vetrovia","Renewal of Ro","Ballads of Zimara","Scars of Destruction","Rage of Cthurath"];
+const YEARS = [2004,2005,2006,2006,2007,2008,2010,2011,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025];
+const xslug = x => x.toLowerCase().replace(/'/g,"").replace(/[^a-z0-9]+/g,"-");
+const xOf = s => XP.find(x => xslug(x) === s);
+const titleOf = id => (IDX[id] && IDX[id].t) || (SMAP && SMAP[id] && SMAP[id][1]) || id.split("/")[1];
+const link = (id, t) => `<a href="#${hid(id)}" data-peek="${id}">${esc(t || titleOf(id))}</a>`;
+const num = v => { const n = parseFloat(v); return isNaN(n) ? 999 : n; };
+const TYPES = [["zones","Zones & instances"],["quests","Quests"],["items","Items"],["spells","Spells"],["achievements","Achievements"],["pages","Other pages"],["npcs","NPCs"],["named","Named monsters"],["monsters","Monsters"],["pois","Places"],["housing","Housing"],["lore","Lore"],["timelines","Timelines"],["guides","Player guides"]];
+const count = (t, x) => { const c = META.counts[t] || {}; return x !== undefined ? (c[x] || 0) : Object.values(c).reduce((a,b)=>a+b, 0); };
+const total = () => TYPES.reduce((a,[t])=>a+count(t), 0);
+const xTotal = x => TYPES.reduce((a,[t])=>a+count(t, x), 0);
+
+function zonesTable(list){
+  list = list.sort((a,b)=>num(IDX[a].lvl)-num(IDX[b].lvl) || IDX[a].t.localeCompare(IDX[b].t));
+  return `<div class="tablewrap"><table><thead><tr><th>Zone</th><th>Levels</th><th>Type</th></tr></thead><tbody>
+  ${list.map(id=>`<tr><td>${link(id)}</td><td class="num">${esc(IDX[id].lvl)}</td><td>${esc(IDX[id].d)}</td></tr>`).join("")}</tbody></table></div>`;
+}
+function home(){
+  return `
+  <div class="art-head"><h1>A clean EverQuest II reference</h1></div>
+  <p class="lede">Zones, quests, items, spells, achievements, NPCs, monsters and landmarks from The Shattered Lands through Rage of Cthurath, converted from the EverQuest II Wiki into ${total().toLocaleString()} editable pages. Waypoint chips copy a <code>/waypoint</code> command; zone pages list everything found in them.</p>
+  <div class="stats">${TYPES.filter(([t])=>count(t)).map(([t,l])=>`<a href="#browse.${t}"><b>${count(t).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
+  ${META.collections?`<p>Hunting shinies? The <a href="#collections">collections tracker</a> lists all ${META.collections.toLocaleString()} collections and remembers which pieces you have found.</p>`:""}
+  <div id="homeev"></div>
+  <h2>Releases</h2>
+  <div class="xgrid">${XP.map((x,i)=>`<a class="xcard" href="#x.${xslug(x)}"><b>${esc(x)}</b><span>${YEARS[i]} <span>${xTotal(x).toLocaleString()} pages</span></span></a>`).join("")}</div>`;
+}
+const TABS = [["overview","Overview"],["sig","Signature questlines"],["epic","Epic weapons"],["her","Heritage quests"],["tl","Timelines"]];
+function questList(list, numbered){
+  const tag = numbered ? "ol" : "ul";
+  return `<${tag} class="qline">${list.map(([id,t,lvl])=>`<li>${link(id,t)}${lvl?` <span class="count">${esc(lvl)}</span>`:""}</li>`).join("")}</${tag}>`;
+}
+function expansionView(s, tab){
+  const x = xOf(s); if (!x) return home();
+  const L = META.lines[x] || {};
+  const n = k => (L[k]||[]).reduce((a,g)=>a+g[1].length,0);
+  tab = TABS.some(([k])=>k===tab) && (tab === "overview" || n(tab)) ? tab : "overview";
+  const bar = `<nav class="tabs" aria-label="${esc(x)} sections">${TABS.filter(([k])=>k==="overview"||n(k)).map(([k,l])=>`<a href="#x.${s}${k==="overview"?"":"."+k}"${k===tab?' aria-current="page"':""}>${l}${k==="overview"?"":` <span class="count">${n(k)}</span>`}</a>`).join("")}</nav>`;
+  let body;
+  if (tab === "overview"){
+    const mine = Object.keys(META.zones).filter(i => IDX[i].x === x);
+    const zones = mine.filter(i => IDX[i].k !== "Instance"), inst = mine.filter(i => IDX[i].k === "Instance");
+    body = `<div class="stats">${TYPES.map(([t,l])=>[t,l,count(t,x)]).filter(r=>r[2]).map(([t,l,c])=>`<a href="#browse.${t}.${s}"><b>${c.toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
+    ${zones.length?`<h2>Zones</h2>${zonesTable(zones)}`:""}${inst.length?`<h2>Instances</h2>${zonesTable(inst)}`:""}`;
+  } else {
+    const note = {sig:"Grouped by storyline and listed in play order, following each quest's prerequisite and next quest.",
+      epic:"Grouped by class and listed in play order.", her:"Heritage quests revisit classic EverQuest items and stories.", tl:"Zone and story timelines for this release."}[tab];
+    body = `<p class="derived">${note}</p>` + L[tab].map(([name, list])=>
+      tab === "tl" ? questList(list, false) : `<details class="qgroup" open><summary>${esc(name)} <span class="count">${list.length}</span></summary>${questList(list, tab !== "her")}</details>`).join("");
+  }
+  return `<div class="crumbs"><a href="#home">Home</a> › Releases</div><div class="art-head"><h1>${esc(x)}</h1></div>${bar}${body}`;
+}
+
+// ---------------------------------------------------------------- live (holiday) events
+let EVENTS = null;
+const loadEvents = () => EVENTS || (EVENTS = data("events").catch(e=>{ EVENTS = null; throw e; }));
+const MON = ["January","February","March","April","May","June","July","August","September","October","November","December"];
+const ord = n => n + (n % 10 === 1 && n !== 11 ? "st" : n % 10 === 2 && n !== 12 ? "nd" : n % 10 === 3 && n !== 13 ? "rd" : "th");
+function evDates(w){
+  if (!w) return "2024 only, now retired";
+  if (!w[0]) return `The ${ord(w[1])} to the ${ord(w[3])} of every month`;
+  return `${MON[w[0]-1]} ${w[1]} to ${MON[w[2]-1]} ${w[3]}` + (w[4] ? ` (${w[4]}${w[2] < w[0] ? "–" + String(w[4] + 1).slice(2) : ""} dates)` : "");
+}
+// Dates from an earlier year: this year's run has not been announced yet, so the countdown is only a guess.
+const evOld = w => !!(w && w[4] && w[4] < new Date().getFullYear() && evMonths(w)[0] >= new Date().getMonth() + 1);
+// Is the event on now (by its usual dates), and how many days until it next starts?
+function evState(w, now = new Date()){
+  if (!w) return {on:false, days:Infinity};
+  const today = new Date(now.getFullYear(), now.getMonth(), now.getDate()), day = 864e5;
+  const spans = [];
+  for (const y of [today.getFullYear() - 1, today.getFullYear(), today.getFullYear() + 1])
+    for (const m of w[0] ? [w[0] - 1] : [...Array(12).keys()]){
+      const start = new Date(y, m, w[1]);
+      const em = w[0] ? w[2] - 1 : m, end = new Date(y + (w[0] && w[2] < w[0] ? 1 : 0), em, w[3]);
+      spans.push([start, end]);
+    }
+  const on = spans.some(([a,b]) => a <= today && today <= b);
+  const next = spans.map(([a]) => a).filter(a => a > today).sort((a,b)=>a-b)[0];
+  return {on, days: next ? Math.round((next - today) / day) : Infinity};
+}
+const evMonths = w => !w || !w[0] ? [] : w[2] >= w[0] ? Array.from({length:w[2]-w[0]+1}, (_,i)=>w[0]+i) : [...Array.from({length:13-w[0]}, (_,i)=>w[0]+i), ...Array.from({length:w[2]}, (_,i)=>i+1)];
+const evWhen = (st, old) => st.on ? (old ? "Usually on now" : "On now") : st.days === Infinity ? "Retired" : old ? `Usually starts in about ${st.days} days` : st.days === 1 ? "Starts tomorrow" : `Starts in ${st.days} days`;
+function evCard(e){
+  const st = evState(e.when);
+  return `<a class="evcard${st.on?" on":""}" href="#ev.${e.s}"><b>${esc(e.n)}</b><small>${esc(evDates(e.when))}</small>
+    <span><span class="tag ${st.on?"green":""}">${esc(evWhen(st, evOld(e.when)))}</span></span></a>`;
+}
+function evSoon(list, n){
+  return list.filter(e=>e.when).map(e=>[e, evState(e.when)]).sort((a,b)=>(b[1].on-a[1].on) || a[1].days-b[1].days).slice(0, n).map(([e])=>e);
+}
+function calendar(list){
+  const cur = new Date().getMonth() + 1;
+  const monthly = list.filter(e=>e.when && !e.when[0]), past = list.filter(e=>!e.when);
+  return `<div class="crumbs"><a href="#home">Home</a> › Events</div>
+  <div class="art-head"><h1>Holiday calendar</h1></div>
+  <p class="lede">EverQuest II's live events: seasonal quests, vendors, rewards and achievements, each gathered onto one page. Dates are the latest ones announced on each event's wiki page and change a little each year; where this year's dates aren't out yet, last year's are shown. The Calendar in the game's EQ2 menu has the exact times.</p>
+  <h2>On now and coming up</h2><div class="evnow">${evSoon(list, 4).map(evCard).join("")}</div>
+  <h2>Through the year</h2>
+  <div class="months">${MON.map((m,i)=>`<div class="month${i+1===cur?" cur":""}"><h3>${m}</h3><ul>${
+    list.filter(e=>evMonths(e.when).includes(i+1)).map(e=>`<li><a href="#ev.${e.s}">${esc(e.n)}</a></li>`).join("")}</ul></div>`).join("")}</div>
+  <h2>Every month</h2><div class="evnow">${monthly.map(evCard).join("")}</div>
+  ${past.length?`<h2>Past events</h2><div class="evnow">${past.map(evCard).join("")}</div>`:""}`;
+}
+const EVTABS = [["overview","Overview"],["quests","Quests"],["npcs","Vendors and NPCs"],["items","Rewards and items"],
+  ["achievements","Achievements"],["zones","Zones and instances"],["monsters","Monsters"],["more","More pages"]];
+const EVCOLS = {quests:["Quest","Level","Where to start"], npcs:["Name","Zone","Location"], monsters:["Name","Zone","Location"],
+  items:["Item","Type","Obtained from"], achievements:["Achievement","Description","Points"], zones:["Name","Type","Zone"], more:["Page","Type","Zone"]};
+function evRow(g, r){
+  const l = link(r[0], r[1]);
+  if (g === "quests") return `<td>${l}${r[4]?` <span class="tag">${esc(r[4])}</span>`:""}</td><td class="num">${esc(r[2])}</td><td>${r[3]}</td>`;
+  if (g === "npcs" || g === "monsters") return `<td>${l}${r[4]?`<br><small class="derived">${esc(r[4])}</small>`:""}</td><td>${esc(r[2])}</td><td>${r[3]}</td>`;
+  if (g === "achievements") return `<td>${l}</td><td>${esc(r[2])}</td><td class="num">${esc(r[3])}</td>`;
+  return `<td>${l}</td><td>${esc(r[2])}</td><td>${esc(r[3])}</td>`;
+}
+function eventView(list, s, tab){
+  const e = list.find(x=>x.s === s); if (!e) return calendar(list);
+  const n = k => (e.g[k]||[]).length;
+  tab = EVTABS.some(([k])=>k===tab) && n(tab) ? tab : "overview";
+  const st = evState(e.when);
+  const bar = `<nav class="tabs" aria-label="${esc(e.n)} sections">${EVTABS.filter(([k])=>k==="overview"||n(k)).map(([k,l])=>`<a href="#ev.${s}${k==="overview"?"":"."+k}"${k===tab?' aria-current="page"':""}>${l}${k==="overview"?"":` <span class="count">${n(k)}</span>`}</a>`).join("")}</nav>`;
+  let body;
+  if (tab === "overview"){
+    body = `${e.sum?`<p>${e.sum}</p>`:""}
+    ${e.main?`<p>${link(e.main, "Read the full " + e.n + " guide")}, with this year's changes, currency and tips.</p>`:""}
+    <div class="stats">${EVTABS.slice(1).filter(([k])=>n(k)).map(([k,l])=>`<a href="#ev.${s}.${k}"><b>${n(k).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
+    ${n("quests")?`<h2>Quests</h2><div class="tablewrap"><table><thead><tr>${EVCOLS.quests.map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody>${e.g.quests.slice(0, 12).map(r=>`<tr>${evRow("quests", r)}</tr>`).join("")}</tbody></table></div>${n("quests")>12?`<p><a href="#ev.${s}.quests">See all ${n("quests")} quests</a></p>`:""}`:""}`;
+  } else {
+    const rows = e.g[tab];
+    body = `${rows.length > 15 ? `<div class="filter"><input id="evf" type="search" placeholder="Filter by name" aria-label="Filter this list by name"><span id="evcount" aria-live="polite">${rows.length.toLocaleString()}</span></div>` : ""}
+    <div class="tablewrap"><table><thead><tr>${EVCOLS[tab].map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody id="evrows">${rows.map(r=>`<tr data-f="${esc(r[1].toLowerCase())}">${evRow(tab, r)}</tr>`).join("")}</tbody></table></div>`;
+  }
+  const credit = e.src ? `<p class="credit">The summary is adapted from <a href="${esc(e.src.url)}" rel="nofollow noopener" target="_blank">${esc(e.src.title)}</a> on the EverQuest II Wiki (Fandom), by <a href="${esc(e.src.history)}" rel="nofollow noopener" target="_blank">its contributors</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>. The lists gather every page tagged with this event.</p>` : "";
+  return `<div class="crumbs"><a href="#home">Home</a> › <a href="#events">Holiday calendar</a></div>
+  <div class="art-head"><h1>${esc(e.n)}</h1></div>
+  <p class="evfacts"><span class="tag ${st.on?"green":"red"}">${esc(evWhen(st, evOld(e.when)))}</span> <span class="tag">${esc(evDates(e.when))}</span>${e.real?` <span class="tag">${esc(e.real)}</span>`:""}</p>
+  ${bar}${body}${credit}`;
+}
+
+const ROWCAP = 500;
+let BL = [], BZ = false, BLVL = false, BT = "";
+function browse(t, s, all){
+  const x = s ? xOf(s) : "";
+  const label = (TYPES.find(y=>y[0]===t)||[t,t])[1];
+  BT = t;
+  BL = all.filter(id => !x || IDX[id].x === x).sort((a,b)=>IDX[a].t.localeCompare(IDX[b].t));
+  BLVL = BL.some(id=>IDX[id].lvl); BZ = BL.some(id=>IDX[id].z);
+  return `
+  <div class="crumbs"><a href="#home">Home</a> › ${x?`<a href="#x.${s}">${esc(x)}</a> › `:""}Browse</div>
+  <div class="art-head"><h1>${esc(label)}${x?` <small class="count">${esc(x)}</small>`:""}</h1></div>
+  ${t === "items" ? `<p class="callout gearcall">Looking for gear? The <a href="#gear">gear finder</a> filters equipment and adornments by slot, class, level and stats.</p>` : ""}
+  <div class="filter"><input id="qf" type="search" placeholder="Filter by name${BZ?" or zone":""}" aria-label="Filter this list by name${BZ?" or zone":""}">
+    <select id="xf" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${y===x?" selected":""}>${esc(y)}</option>`).join("")}</select>
+    <span id="qcount" aria-live="polite"></span></div>
+  <div class="tablewrap"><table><thead><tr><th>Name</th>${BLVL?"<th>Level</th>":""}<th>${BZ?"Zone":"Details"}</th><th>Release</th></tr></thead><tbody id="qrows"></tbody></table></div>
+  <p class="derived" id="qmore" hidden></p>`;
+}
+function browseRows(v){
+  const hits = v ? BL.filter(id => (IDX[id].t + " " + (IDX[id].z||"")).toLowerCase().includes(v)) : BL;
+  const rel = id => IDX[id].x ? IDX[id].x + (IDX[id].xe ? " (est.)" : "") : (BT === "items" ? "Release unknown" : "");
+  document.getElementById("qrows").innerHTML = hits.slice(0, ROWCAP).map(id=>`<tr><td>${link(id)}</td>${BLVL?`<td class="num">${esc(IDX[id].lvl)}</td>`:""}<td>${esc(BZ?(IDX[id].z||""):(IDX[id].m||""))}</td><td>${esc(rel(id))}</td></tr>`).join("");
+  document.getElementById("qcount").textContent = `${hits.length.toLocaleString()} of ${BL.length.toLocaleString()}`;
+  const more = document.getElementById("qmore");
+  more.hidden = hits.length <= ROWCAP;
+  more.textContent = `Showing the first ${ROWCAP} matches. Type more of a name to narrow the list.`;
+}
+
+// ---------------------------------------------------------------- gear finder (#gear?slot=…&cls=…)
+// data/g/index lists one shard per kind + slot; rows are [slug, title, icon, level, tier, classes bitmask, release, type, {stat: n}, estimated]
+const STATN = {sta:"Stamina",str:"Strength",agi:"Agility",wis:"Wisdom",int:"Intelligence",prim:"Primary attributes",health:"Health",power:"Power",
+  mit:"Mitigation",crit:"Crit chance",critbonus:"Crit bonus",potency:"Potency",resolve:"Resolve",multi:"Multi attack",dps:"DPS mod",
+  haste:"Haste",aspeed:"Attack speed",fervor:"Fervor",ability:"Ability mod",abmod:"Ability mod",reuse:"Reuse speed",casting:"Casting speed",
+  recovery:"Recovery speed",block:"Block",drating:"Damage rating",rating:"Rating",range:"Range",dblatt:"Double attack",flurry:"Flurry",
+  strikethrough:"Strikethrough",accuracy:"Accuracy",aeauto:"AE autoattack",spelldoublecast:"Spell doublecast",abilitydoublecast:"Ability doublecast",
+  weaponskills:"Weapon skills",vselemental:"Elemental resist",vsnoxious:"Noxious resist",vsarcane:"Arcane resist",vsphysical:"Physical resist",
+  mainstat:"Main stat",maxhealth:"Max health",cbovercap:"Crit bonus overcap",mitinc:"Mitigation increase",strike:"Strikethrough",wdmg:"Weapon damage",armormit:"Armor mitigation",hpregen:"Health regen",powregen:"Power regen",lethality:"Lethality",toughness:"Toughness"};
+const statName = k => STATN[k] || k.replace(/_/g," ").replace(/^./, c=>c.toUpperCase());
+let GEAR = null; const gearCache = {};
+function gearIndex(){
+  if (!GEAR) GEAR = data("g/index").catch(e=>{ GEAR = null; throw e; });
+  return GEAR;
+}
+function gearShard(n){
+  if (!gearCache[n]) gearCache[n] = data(`g/${n}`).catch(e=>{ delete gearCache[n]; throw e; });
+  return gearCache[n];
+}
+const gearState = () => new URLSearchParams((location.hash.split("?")[1]) || "");
+function gearPage(G){
+  const st = gearState(), kind = st.get("kind") || "Equipment";
+  const sel = (id, label, opts, v) => `<label>${label}<select id="${id}">${opts.map(([val,l])=>`<option value="${esc(val)}"${String(val)===String(v??"")?" selected":""}>${esc(l)}</option>`).join("")}</select></label>`;
+  const kinds = [...new Set(G.shards.map(s=>s[0]))];
+  const slots = G.shards.filter(s=>s[0]===kind);
+  return `
+  <div class="crumbs"><a href="#home">Home</a> › <a href="#browse.items">Items</a> › Gear finder</div>
+  <div class="art-head"><h1>Gear finder</h1></div>
+  <p class="derived">Pick a slot, class and level range, then sort by the stat you care about. Stats, slots and classes come from each item's wiki page; items the wiki lists without classes show under every class.</p>
+  <form class="gearform" id="gf" onsubmit="return false">
+    ${sel("g-kind","Kind",kinds.map(k=>[k,k]),kind)}
+    ${sel("g-slot","Slot",[["","Any slot"]].concat(slots.map(s=>[s[1],`${s[1]} (${s[2].toLocaleString()})`])),st.get("slot"))}
+    ${sel("g-cls","Class",[["","Any class"]].concat(G.classes.map(c=>[c,c])),st.get("cls"))}
+    <label>Level<span class="range"><input id="g-min" aria-label="Minimum level" type="number" inputmode="numeric" min="0" max="200" placeholder="min" value="${esc(st.get("min")||"")}"><span>to</span><input id="g-max" aria-label="Maximum level" type="number" inputmode="numeric" min="0" max="200" placeholder="max" value="${esc(st.get("max")||"")}"></span></label>
+    ${sel("g-tier","Tier",[["","Any tier"]].concat(G.tiers.map((t,i)=>[i,t]).filter(r=>r[1])),st.get("tier"))}
+    ${sel("g-x","Release",[["","All releases"]].concat(XP.map(y=>[xslug(y),y])),st.get("x"))}
+    ${sel("g-stat","Has stat",[["","Any stats"]].concat(G.stats.map(k=>[k,statName(k)])),st.get("stat"))}
+    <label>Stat at least<input id="g-smin" type="number" inputmode="decimal" placeholder="any" value="${esc(st.get("smin")||"")}"></label>
+    ${sel("g-sort","Sort by",[["name","Name"],["lvl","Level, highest first"],["stat","Stat, highest first"]],st.get("sort")||"name")}
+    <label class="wide">Name or type<input id="g-q" type="search" placeholder="e.g. cloak, plate, staff" value="${esc(st.get("q")||"")}"></label>
+  </form>
+  <div class="filter"><span id="gcount"></span> <a href="#gear" id="greset">Clear filters</a></div>
+  <div class="tablewrap"><table class="geartable"><thead><tr><th>Item</th><th>Slot</th><th>Level</th><th>Tier</th><th>Type</th><th>Stats</th><th>Release</th></tr></thead><tbody id="grows"></tbody></table></div>
+  <p class="derived" id="gmore" hidden></p>`;
+}
+let gearSeq = 0;
+async function gearRows(G){
+  const my = ++gearSeq, st = gearState(), kind = st.get("kind") || "Equipment", slot = st.get("slot") || "";
+  const tb = document.getElementById("grows"); if (!tb) return;
+  const want = G.shards.map((s,i)=>[s,i]).filter(([s])=>s[0]===kind && (!slot || s[1]===slot));
+  document.getElementById("gcount").textContent = "Loading items…";
+  let parts;
+  try { parts = await Promise.all(want.map(([s,i])=>gearShard(i).then(rows=>rows.map(r=>[r,s[1]])))); }
+  catch(e){ if (my === gearSeq) document.getElementById("gcount").textContent = "The gear list could not be loaded. Reload to try again."; return; }
+  if (my !== gearSeq) return;
+  const ci = G.classes.indexOf(st.get("cls") || ""), cbit = ci >= 0 ? 1 << ci : 0;
+  const lo = parseFloat(st.get("min")), hi = parseFloat(st.get("max"));
+  const tier = st.get("tier") ?? "", x = xOf(st.get("x") || ""), stat = st.get("stat") || "", smin = parseFloat(st.get("smin"));
+  const q = (st.get("q") || "").toLowerCase(), sort = st.get("sort") || "name";
+  const hits = [];
+  for (const rows of parts) for (const [r, sl] of rows){
+    if (cbit && r[5] && !(r[5] & cbit)) continue;
+    if (!isNaN(lo) && r[3] < lo) continue;
+    if (!isNaN(hi) && r[3] > hi) continue;
+    if (tier !== "" && r[4] !== +tier) continue;
+    if (x && r[6] !== x) continue;
+    if (stat && !(stat in r[8])) continue;
+    if (stat && !isNaN(smin) && r[8][stat] < smin) continue;
+    if (q && !(r[1] + " " + G.types[r[7]] + " " + sl).toLowerCase().includes(q)) continue;
+    hits.push([r, sl]);
+  }
+  const byName = (a,b)=>a[0][1].localeCompare(b[0][1]);
+  if (sort === "lvl") hits.sort((a,b)=>b[0][3]-a[0][3] || byName(a,b));
+  else if (sort === "stat" && stat) hits.sort((a,b)=>(b[0][8][stat]??-Infinity)-(a[0][8][stat]??-Infinity) || byName(a,b));
+  else hits.sort(byName);
+  const fmt = n => typeof n === "number" ? n.toLocaleString() : esc(n);
+  const stats = s => { const ks = Object.keys(s); if (stat && ks.includes(stat)) ks.splice(ks.indexOf(stat),1), ks.unshift(stat);
+    return ks.slice(0,5).map(k=>`<span${k===stat?' class="on"':""}>${esc(statName(k))} <b>${fmt(s[k])}</b></span>`).join("") + (ks.length > 5 ? `<span>+${ks.length-5} more</span>` : ""); };
+  tb.innerHTML = hits.slice(0, ROWCAP).map(([r, sl])=>{ const id = "items/" + r[0];
+    return `<tr><td class="gname">${r[2]?`<img src="images/Item_${r[2]}.png" alt="" width="24" height="24" loading="lazy" onerror="this.remove()">`:""}${link(id, r[1])}</td><td>${esc(sl)}</td><td class="num">${r[3]||""}</td><td>${esc(G.tiers[r[4]])}</td><td>${esc(G.types[r[7]])}</td><td class="gstats">${stats(r[8])}</td><td>${esc(r[6] ? r[6] + (r[9] ? " (est.)" : "") : "")}</td></tr>`; }).join("")
+    || `<tr><td colspan="7">No gear matches these filters. Try a wider level range or clear a filter.</td></tr>`;
+  const total = parts.reduce((a,r)=>a+r.length,0);
+  document.getElementById("gcount").textContent = `${hits.length.toLocaleString()} of ${total.toLocaleString()} items`;
+  const more = document.getElementById("gmore");
+  more.hidden = hits.length <= ROWCAP;
+  more.textContent = `Showing the first ${ROWCAP}. Add a filter to narrow the list.`;
+}
+function gearWire(G){
+  const f = document.getElementById("gf"); if (!f) return;
+  const keys = {"g-kind":"kind","g-slot":"slot","g-cls":"cls","g-min":"min","g-max":"max","g-tier":"tier","g-x":"x","g-stat":"stat","g-smin":"smin","g-sort":"sort","g-q":"q"};
+  let tmr;
+  const upd = e => {
+    const st = new URLSearchParams();
+    for (const [id, k] of Object.entries(keys)){ const v = document.getElementById(id).value.trim(); if (v && !(k === "kind" && v === "Equipment") && !(k === "sort" && v === "name")) st.set(k, v); }
+    if (e && e.target.id === "g-kind") st.delete("slot");
+    if (e && e.target.id === "g-stat" && st.get("stat") && !st.get("sort")) st.set("sort", "stat");
+    const h = "#gear" + (st.toString() ? "?" + st : "");
+    if (e && (e.target.id === "g-kind" || e.target.id === "g-stat")) { location.hash = h; return; }   // redraw the slot list / sort choice
+    history.replaceState(null, "", h);
+    clearTimeout(tmr); tmr = setTimeout(()=>gearRows(G), 150);
+  };
+  f.addEventListener("input", e=>{ if (e.target.tagName !== "SELECT") upd(e); });
+  f.addEventListener("change", e=>{ if (e.target.tagName === "SELECT") upd(e); });
+  gearRows(G);
+}
+// ---------------------------------------------------------------- collections tracker
+// Progress lives only in this browser: {collection page id: [piece names found]}.
+const CKEY = "nl-collections";
+let CPROG = {}, COLLS = null, CL = [];
+try { CPROG = JSON.parse(localStorage.getItem(CKEY) || "{}") || {}; } catch(_) { CPROG = {}; }
+function saveProg(){ try { localStorage.setItem(CKEY, JSON.stringify(CPROG)); } catch(_) { say("This browser is not saving progress (private window?)"); } }
+const got = (c, n) => (CPROG[c] || []).includes(n);
+function setGot(c, n, on){
+  const s = new Set(CPROG[c] || []); on ? s.add(n) : s.delete(n);
+  if (s.size) CPROG[c] = [...s]; else delete CPROG[c];
+}
+function syncColl(sec){
+  const c = sec.dataset.coll, boxes = [...sec.querySelectorAll("input[data-piece]")];
+  let n = 0;
+  for (const b of boxes){ b.checked = got(c, b.dataset.piece); b.closest("li").classList.toggle("got", b.checked); n += b.checked; }
+  const cnt = sec.querySelector("[data-coll-count]"); if (cnt) cnt.textContent = `${n} / ${boxes.length}`;
+  const bar = sec.querySelector(".bar i"); if (bar) bar.style.width = (boxes.length ? 100 * n / boxes.length : 0) + "%";
+  sec.classList.toggle("complete", n > 0 && n === boxes.length);
+}
+function loadColls(){
+  if (!COLLS) COLLS = data("collections").catch(e=>{ COLLS = null; throw e; });
+  return COLLS;
+}
+const cfound = c => c[6].filter(p => got(c[0], p[0])).length;
+const cstate = c => { const n = cfound(c); return n === 0 ? "new" : n === c[6].length ? "done" : "part"; };
+function collSummary(){
+  const el = document.getElementById("csum"); if (!el || !CL.length) return;
+  let done = 0, part = 0, pieces = 0, all = 0;
+  for (const c of CL){ const n = cfound(c); pieces += n; all += c[6].length; if (n === c[6].length) done++; else if (n) part++; }
+  el.innerHTML = [[done, "complete", "done"], [part, "in progress", "part"], [CL.length - done - part, "not started", "new"], [pieces, `of ${all.toLocaleString()} pieces found`, ""]]
+    .map(([n, l, st])=>`<a href="#collections" role="button" data-cstat="${st}"><b>${n.toLocaleString()}</b><span>${l}</span></a>`).join("");
+}
+function tracker(s, list){
+  CL = list; const x = s ? xOf(s) : "";
+  return `
+  <div class="crumbs"><a href="#home">Home</a> › Collections</div>
+  <div class="art-head"><h1>Collections tracker</h1></div>
+  <p class="lede">Tick off collection pieces as you find them. Your progress is saved in this browser only, so use Export to keep a copy or move it to another computer.</p>
+  <div class="stats" id="csum"></div>
+  <div class="filter"><input id="cf" type="search" placeholder="Filter by collection, zone or piece" aria-label="Filter collections">
+    <select id="cx" aria-label="Release"><option value="">All releases</option>${XP.map(y=>`<option value="${xslug(y)}"${y===x?" selected":""}>${esc(y)}</option>`).join("")}</select>
+    <select id="cs" aria-label="Progress"><option value="">Any progress</option><option value="part">In progress</option><option value="new">Not started</option><option value="done">Complete</option><option value="open">Not complete</option></select>
+    <select id="co" aria-label="Sort"><option value="name">Sort by name</option><option value="lvl">Sort by level</option><option value="prog">Most complete first</option></select>
+    <span id="ccount"></span></div>
+  <div class="tools"><button type="button" class="minibtn" id="cexport">Export progress</button><button type="button" class="minibtn" id="cimport">Import progress</button><input type="file" id="cfile" accept=".json,application/json" hidden><button type="button" class="minibtn" id="creset">Clear all progress</button></div>
+  <div id="clist"></div>
+  <p class="derived" id="cmore" hidden></p>`;
+}
+const CROWS = 150;
+function trackerRows(){
+  const v = document.getElementById("cf").value.trim().toLowerCase(), xs = document.getElementById("cx").value,
+        st = document.getElementById("cs").value, order = document.getElementById("co").value, x = xs ? xOf(xs) : "";
+  let hits = CL.filter(c => (!x || c[4] === x) && (!st || (st === "open" ? cstate(c) !== "done" : cstate(c) === st)) &&
+    (!v || (c[1] + " " + c[3] + " " + c[6].map(p=>p[0]).join(" ")).toLowerCase().includes(v)));
+  if (order === "lvl") hits = hits.slice().sort((a,b)=>num(a[2]) - num(b[2]) || a[1].localeCompare(b[1]));
+  if (order === "prog") hits = hits.slice().sort((a,b)=>cfound(b)/b[6].length - cfound(a)/a[6].length || a[1].localeCompare(b[1]));
+  document.getElementById("clist").innerHTML = hits.slice(0, CROWS).map(c=>{
+    const meta = [c[3], c[2] ? "Level " + c[2] : "", c[4], c[5]].filter(Boolean).map(esc).join(" · ");
+    return `<details class="collcard" data-coll="${esc(c[0])}"><summary><span><b>${esc(c[1].replace(/ \(Collection\)$/, ""))}</b><small>${meta}</small></span>
+      <span class="cp"><span class="count" data-coll-count></span><span class="bar"><i></i></span></span></summary>
+      <ul class="pieces">${c[6].map(([n, ic, pp])=>`<li><label><input type="checkbox" data-piece="${esc(n)}">${ic?`<img src="${esc(ic)}" alt="" loading="lazy">`:""}<span>${pp?link(pp, n):esc(n)}</span></label></li>`).join("")}</ul>
+      <p class="crow">${link(c[0], "Open the collection page")}<button type="button" class="minibtn" data-coll-set="1">Tick all</button><button type="button" class="minibtn" data-coll-set="0">Clear</button></p></details>`;
+  }).join("") || `<p class="derived">No collections match.</p>`;
+  document.querySelectorAll("#clist [data-coll]").forEach(syncColl);
+  document.getElementById("ccount").textContent = `${hits.length.toLocaleString()} of ${CL.length.toLocaleString()}`;
+  const more = document.getElementById("cmore");
+  more.hidden = hits.length <= CROWS;
+  more.textContent = `Showing the first ${CROWS} collections. Filter by release, zone or name to see the rest.`;
+  collSummary();
+}
+function trackerWire(){
+  let tmr; const upd = ()=>{ clearTimeout(tmr); tmr = setTimeout(trackerRows, 120); };
+  document.getElementById("cf").addEventListener("input", upd);
+  for (const id of ["cs", "co"]) document.getElementById(id).addEventListener("change", trackerRows);
+  document.getElementById("cx").addEventListener("change", e=>{ location.hash = "collections" + (e.target.value ? "." + e.target.value : ""); });
+  document.getElementById("cexport").onclick = ()=>{
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(new Blob([JSON.stringify({site: "Norrath Ledger", collections: CPROG}, null, 1)], {type: "application/json"}));
+    a.download = "norrath-ledger-collections.json"; document.body.append(a); a.click(); a.remove();
+    setTimeout(()=>URL.revokeObjectURL(a.href), 1000);
+  };
+  const file = document.getElementById("cfile");
+  document.getElementById("cimport").onclick = ()=>file.click();
+  file.onchange = async ()=>{
+    try {
+      const d = JSON.parse(await file.files[0].text()), inc = d.collections || d; let n = 0;
+      for (const c in inc) if (Array.isArray(inc[c])) for (const p of inc[c]) if (typeof p === "string" && !got(c, p)){ setGot(c, p, true); n++; }
+      saveProg(); trackerRows(); say(`Imported ${n.toLocaleString()} pieces`);
+    } catch(_) { say("That file is not a progress export"); }
+    file.value = "";
+  };
+  document.getElementById("creset").onclick = ()=>{
+    if (!confirm("Clear every ticked piece in this browser? Export first if you want a copy.")) return;
+    CPROG = {}; saveProg(); trackerRows();
+  };
+  trackerRows();
+}
+document.addEventListener("change", e=>{
+  const b = e.target.closest("input[data-piece]"); if (!b) return;
+  const sec = b.closest("[data-coll]");
+  setGot(sec.dataset.coll, b.dataset.piece, b.checked); saveProg(); syncColl(sec); collSummary();
+});
+document.addEventListener("click", e=>{
+  const f = e.target.closest("[data-cstat]");
+  if (f){ e.preventDefault(); document.getElementById("cs").value = f.dataset.cstat; trackerRows(); return; }
+  const b = e.target.closest("[data-coll-set]"); if (!b) return;
+  const sec = b.closest("[data-coll]");
+  sec.querySelectorAll("input[data-piece]").forEach(i=>setGot(sec.dataset.coll, i.dataset.piece, b.dataset.collSet === "1"));
+  saveProg(); syncColl(sec); collSummary();
+});
+window.addEventListener("storage", e=>{       // another tab ticked something
+  if (e.key !== CKEY) return;
+  try { CPROG = JSON.parse(e.newValue || "{}") || {}; } catch(_) { return; }
+  document.querySelectorAll("#main [data-coll]").forEach(syncColl); collSummary();
+});
+
+const main = document.getElementById("main"), peek = document.getElementById("peek");
+let seq = 0;
+// Hash routes share one HTML file, so the tab title, the description and a screen-reader announcement follow the route.
+const SITE_TITLE = document.title, descMeta = document.querySelector('meta[name="description"]'), SITE_DESC = descMeta ? descMeta.content : "";
+function syncTitle(){
+  const h1 = main.querySelector("h1"), name = h1 ? h1.textContent.replace(/\s+/g, " ").trim() : "";
+  const home = !name || name === "A clean EverQuest II reference";
+  document.title = home ? SITE_TITLE : `${name} | Norrath Ledger`;
+  const p = home ? null : main.querySelector(".article p, .lede, p");
+  const text = p ? p.textContent.replace(/\s+/g, " ").trim() : "";
+  if (descMeta) descMeta.content = text.length > 40 ? (text.length > 160 ? text.slice(0, 157).replace(/\s+\S*$/, "") + "…" : text) : SITE_DESC;
+  const ann = document.getElementById("routeann"); if (ann) ann.textContent = home ? "" : name;
+}
+document.getElementById("skip").addEventListener("click", e=>{ e.preventDefault(); main.focus(); });
+async function render(){
+  const my = ++seq;
+  const h = decodeURIComponent((location.hash || "#home").slice(1)) || "home";
+  const id = pid(h);
+  document.querySelectorAll("#snav a, #enav a, #xnav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#" + h || (h.startsWith("collections.") && a.getAttribute("href") === "#collections") || (h.startsWith("ev.") && a.getAttribute("href") === "#events") || (h.startsWith("x.") && a.getAttribute("href") === "#x." + h.split(".")[1])));
+  peek.hidden = true;
+  if (h === "gear" || h.startsWith("gear?")) {
+    document.querySelectorAll("#snav a").forEach(a=>a.classList.toggle("on", a.getAttribute("href") === "#gear"));
+    main.innerHTML = `<p class="loading">Loading the gear finder…</p>`;
+    let G;
+    try { G = await gearIndex(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The gear finder could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = gearPage(G); window.scrollTo(0,0); syncTitle(); gearWire(G); return;
+  }
+  if (h.startsWith("search")) main.innerHTML = searchView();
+  else if (h.startsWith("browse.")) {
+    const [, ty, xs] = h.split(".");
+    main.innerHTML = `<p class="loading">Loading the list…</p>`;
+    let all;
+    try { all = await typeIndex(ty); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">This list could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = browse(ty, xs, all);
+  }
+  else if (h === "collections" || h.startsWith("collections.")) {
+    main.innerHTML = `<p class="loading">Loading the collections…</p>`;
+    let list;
+    try { list = await loadColls(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The collections could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = tracker(h.split(".")[1], list); trackerWire();
+  }
+  else if (h === "events" || h.startsWith("ev.")) {
+    const [, es, tab] = h.split(".");
+    main.innerHTML = `<p class="loading">Loading the events…</p>`;
+    let list;
+    try { list = await loadEvents(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The events could not be loaded. Reload to try again.</p>`; return; }
+    if (my !== seq) return;
+    main.innerHTML = es ? eventView(list, es, tab) : calendar(list);
+  }
+  else if (h.startsWith("x.")) { const [, xs, tab] = h.split("."); main.innerHTML = expansionView(xs, tab); }
+  else if (id.includes("/")) {
+    main.innerHTML = `<p class="loading">Opening ${esc(titleOf(id))}…</p>`;
+    let html;
+    try { html = await chunk("p", id); if (html === undefined) html = `<p class="callout red">There is no page here yet. <a href="#home">Go to the start page</a>.</p>`; }
+    catch(e){ html = `<p class="callout red">This page could not be loaded. Reload to try again.</p>`; }
+    if (my !== seq) return;
+    main.innerHTML = html;
+    main.querySelectorAll("[data-coll]").forEach(syncColl);
+  } else {
+    main.innerHTML = home();
+    loadEvents().then(list=>{ const el = document.getElementById("homeev"); if (el && my === seq)
+      el.innerHTML = `<h2>Holiday events</h2><div class="evnow">${evSoon(list, 3).map(evCard).join("")}</div><p><a href="#events">See the full holiday calendar</a></p>`; }).catch(()=>{});
+  }
+  window.scrollTo(0,0);
+  syncTitle();
+  const evf = document.getElementById("evf");
+  if (evf) evf.addEventListener("input", ()=>{
+    const v = evf.value.trim().toLowerCase(); let c = 0;
+    for (const tr of document.querySelectorAll("#evrows tr")){ const hit = !v || tr.dataset.f.includes(v); tr.hidden = !hit; c += hit; }
+    document.getElementById("evcount").textContent = v ? `${c.toLocaleString()} of ${document.querySelectorAll("#evrows tr").length.toLocaleString()}` : `${c.toLocaleString()}`;
+  });
+  searchWire();
+  const qf = document.getElementById("qf");
+  if (qf){
+    let tmr; const upd = ()=>{ clearTimeout(tmr); tmr = setTimeout(()=>browseRows(qf.value.trim().toLowerCase()), 120); };
+    browseRows("");
+    qf.addEventListener("input", upd);
+    const xf = document.getElementById("xf");
+    xf?.addEventListener("change", ()=>{ const ty = h.split(".")[1]; location.hash = "browse." + ty + (xf.value ? "." + xf.value : ""); });
+  }
+}
+
+data("meta").then(d=>{
+  META = d;
+  for (const id in META.zones) IDX[id] = row(META.zones[id]);
+  document.getElementById("snav").innerHTML = `<li><a href="#home">Overview<span></span></a></li>` +
+    (META.collections ? `<li><a href="#collections">Collections tracker<span>${META.collections.toLocaleString()}</span></a></li>` : "") +
+    TYPES.filter(([t])=>count(t)).map(([t,l])=>`<li><a href="#browse.${t}">${l}<span>${count(t).toLocaleString()}</span></a></li>`).join("");
+  document.querySelector('#snav a[href="#browse.items"]')?.parentElement.insertAdjacentHTML("afterend", `<li><a href="#gear" class="sub">Gear finder<span></span></a></li>`);
+  document.getElementById("xnav").innerHTML = XP.map(x=>`<li><a href="#x.${xslug(x)}">${esc(x)}</a></li>`).join("");
+  window.addEventListener("hashchange", render);
+  render().then(()=>setTimeout(()=>loadSearch().catch(()=>{}), 1500));
+}).catch(()=>{ main.innerHTML = `<p class="callout red">The page index could not be loaded. Reload to try again.</p>`; });
+main.innerHTML = `<p class="loading">Loading the ledger…</p>`;
+
+const toast = document.getElementById("toast"); let tt;
+function say(msg){ toast.textContent = msg; toast.hidden = false; clearTimeout(tt); tt = setTimeout(()=>toast.hidden = true, 1800); }
+document.addEventListener("click", async e=>{
+  const key = e.target.closest(".wpkey");
+  if (key){ const on = key.getAttribute("aria-pressed") !== "true"; key.setAttribute("aria-pressed", on); key.closest(".wpmap").classList.toggle("no-" + key.dataset.k, !on); return; }
+  const zb = e.target.closest(".wpzoom button");
+  if (zb){ wpZoom(zb.closest(".wpmap").querySelector("svg"), +zb.dataset.z); return; }
+  const b = e.target.closest(".loc, .wpin");
+  if (b){
+    if (b.classList.contains("wpin") && wpMoved) return;
+    const txt = b.dataset.loc;
+    const ok = ()=>{ b.classList.add("done"); setTimeout(()=>b.classList.remove("done"), 1200); say("Copied " + txt + ". Paste it into chat"); };
+    // Edge (and any browser where the async clipboard is blocked) gets the older copy command, then a box to copy from by hand
+    const legacy = ()=>{ const t = document.createElement("textarea"); t.value = txt; t.setAttribute("readonly", "");
+      t.style.cssText = "position:fixed;top:0;left:0;width:1px;height:1px;opacity:0"; document.body.appendChild(t);
+      t.focus({preventScroll:true}); t.select(); let done = false; try { done = document.execCommand("copy"); } catch(_) {}
+      t.remove(); b.focus({preventScroll:true}); return done; };
+    const fallback = ()=>{ if (legacy()) ok(); else if (b.classList.contains("wpin")) say(txt); else window.prompt("Press Ctrl+C to copy the waypoint", txt); };
+    if (navigator.clipboard && window.isSecureContext) {
+      try { navigator.clipboard.writeText(txt).then(ok, fallback); } catch(_) { fallback(); }
+    } else fallback();
+    return;
+  }
+  const ed = e.target.closest("[data-edit]");
+  if (ed){
+    if (META.repo){
+      const [owner, name, branch] = META.repo.split("/");
+      const path = ("content/" + ed.dataset.edit + ".md").split("/").map(encodeURIComponent).join("/");
+      window.open(`https://github.com/${owner}/${name}/edit/${branch || "main"}/${path}`, "_blank", "noopener");
+      return;
+    }
+    document.getElementById("mpath").textContent = "Loading the source file…";
+    document.getElementById("msrc").textContent = "";
+    document.getElementById("modal").hidden = false;
+    document.getElementById("mclose").focus();
+    try {
+      const pg = await chunk("s", ed.dataset.edit);
+      document.getElementById("mpath").innerHTML = `This is the page's real source file, <code>${esc(pg.path)}</code>. Once the site's repository exists, this button opens it in GitHub's editor; saving rebuilds the page.`;
+      document.getElementById("msrc").textContent = pg.src;
+    } catch(_) { document.getElementById("mpath").textContent = "The source file could not be loaded. Close this and try again."; }
+  }
+});
+// Waypoint maps: zoom with the wheel or buttons, drag to pan. Pins keep their size on screen.
+let wpMoved = false;
+function wpBox(svg){ return svg.getAttribute("viewBox").split(" ").map(Number); }
+function wpSet(svg, b){
+  const [ox, oy, ow, oh] = svg.dataset.vb.split(" ").map(Number);
+  b[2] = Math.min(ow, Math.max(ow / 40, b[2])); b[3] = b[2] * oh / ow;
+  b[0] = Math.min(ox + ow - b[2], Math.max(ox, b[0])); b[1] = Math.min(oy + oh - b[3], Math.max(oy, b[1]));
+  svg.setAttribute("viewBox", b.join(" "));
+  const r = +svg.dataset.r * Math.pow(b[2] / ow, .8);
+  svg.querySelectorAll(".wpin").forEach(c=>c.setAttribute("r", r.toFixed(2)));
+}
+function wpZoom(svg, f, cx, cy){
+  const b = wpBox(svg);
+  if (!f){ wpSet(svg, svg.dataset.vb.split(" ").map(Number)); return; }
+  if (cx === undefined){ cx = b[0] + b[2] / 2; cy = b[1] + b[3] / 2; }
+  wpSet(svg, [cx - (cx - b[0]) / f, cy - (cy - b[1]) / f, b[2] / f, b[3] / f]);
+}
+function wpPoint(svg, e){ const p = svg.createSVGPoint(); p.x = e.clientX; p.y = e.clientY; return p.matrixTransform(svg.getScreenCTM().inverse()); }
+document.addEventListener("wheel", e=>{
+  const svg = e.target.closest(".wpmap svg"); if (!svg) return;
+  e.preventDefault(); const p = wpPoint(svg, e); wpZoom(svg, e.deltaY < 0 ? 1.25 : 0.8, p.x, p.y);
+}, {passive:false});
+document.addEventListener("pointerdown", e=>{
+  const svg = e.target.closest(".wpmap svg"); if (!svg || e.button) return;
+  wpMoved = false;
+  const start = wpPoint(svg, e), b0 = wpBox(svg), sx = e.clientX, sy = e.clientY;
+  const move = ev=>{
+    if (!wpMoved && Math.hypot(ev.clientX - sx, ev.clientY - sy) < 4) return;
+    wpMoved = true; svg.classList.add("drag"); peek.hidden = true;
+    const k = 1 / svg.getScreenCTM().a;
+    wpSet(svg, [b0[0] - (ev.clientX - sx) * k, b0[1] - (ev.clientY - sy) * k, b0[2], b0[3]]);
+  };
+  const up = ()=>{ svg.classList.remove("drag"); removeEventListener("pointermove", move); removeEventListener("pointerup", up); };
+  addEventListener("pointermove", move); addEventListener("pointerup", up);
+});
+document.addEventListener("keydown", e=>{ if ((e.key === "Enter" || e.key === " ") && e.target.classList?.contains("wpin")){ e.preventDefault(); e.target.dispatchEvent(new MouseEvent("click", {bubbles:true})); } });
+document.getElementById("mclose").onclick = ()=>document.getElementById("modal").hidden = true;
+document.getElementById("modal").addEventListener("click", e=>{ if (e.target.id==="modal") e.currentTarget.hidden = true; });
+document.addEventListener("keydown", e=>{ if (e.key==="Escape") document.getElementById("modal").hidden = true; });
+
+document.addEventListener("mouseover", e=>{
+  const a = e.target.closest("[data-peek]"); if (!a) return;
+  const id = a.dataset.peek, d = IDX[id] || (SMAP && SMAP[id] && {t:SMAP[id][1], k:SMAP[id][2], m:SMAP[id][3]}); if (!d) return;
+  peek.innerHTML = `<em>${esc(d.k)}${d.m ? " · " + esc(d.m) : ""}</em><b>${esc(d.t)}</b>${esc(d.s || "")}`;
+  const r = a.getBoundingClientRect(); peek.hidden = false;
+  const w = peek.offsetWidth, h = peek.offsetHeight;
+  peek.style.left = Math.min(Math.max(8, r.left), innerWidth - w - 8) + "px";
+  let top = r.bottom + 8; if (top + h > innerHeight - 8) top = r.top - h - 8;
+  peek.style.top = top + "px";
+});
+document.addEventListener("mouseout", e=>{ if (e.target.closest("[data-peek]")) peek.hidden = true; });
+
+const q = document.getElementById("q"), res = document.getElementById("results");
+let hl = -1, dropHits = [];
+function drop(){
+  const v = q.value.trim();
+  if (!norm(v)){ res.hidden = true; return; }
+  loadSearch().then(list=>{
+    if (q.value.trim() !== v) return;
+    const hits = findAll(v); dropHits = hits.slice(0, 8); hl = -1;
+    const more = `<a class="all" href="${searchHash({q:v})}">${hits.length ? `See all ${hits.length.toLocaleString()} results` : "No matches. Check the spelling or try fewer words"}<span>Enter</span></a>`;
+    res.innerHTML = dropHits.map(([,i])=>{ const r = list[i];
+      return `<a href="#${hid(r[0])}"><b>${esc(r[1])}</b><span>${esc(r[2])}${r[3]?" · "+esc(r[3]):""}</span></a>`; }).join("") + more;
+    res.hidden = false;
+  }, ()=>{ res.innerHTML = `<a href="#home">Search could not load<span>Reload to try again</span></a>`; res.hidden = false; });
+}
+let dt;
+q.addEventListener("focus", ()=>loadSearch().catch(()=>{}));
+q.addEventListener("input", ()=>{ clearTimeout(dt); dt = setTimeout(drop, 90); });
+q.addEventListener("keydown", e=>{
+  const links = [...res.querySelectorAll("a")];
+  if ((e.key === "ArrowDown" || e.key === "ArrowUp") && !res.hidden && links.length){
+    e.preventDefault();
+    hl = e.key === "ArrowDown" ? (hl + 1) % links.length : (hl <= 0 ? links.length - 1 : hl - 1);
+    links.forEach((a,i)=>a.classList.toggle("hl", i === hl));
+    links[hl].scrollIntoView({block:"nearest"});
+  } else if (e.key === "Enter"){
+    const v = q.value.trim(); if (!v) return;
+    clearTimeout(dt);
+    // highlighted row, else an exact title match, else the full results page
+    let go = hl >= 0 && links[hl] ? links[hl].getAttribute("href") : null;
+    if (!go && SEARCH_N){ const top = findAll(v)[0]; if (top && top[0] < 10000) go = "#" + hid(SEARCH_L[top[1]][0]); }
+    location.hash = go || searchHash({q:v});
+    res.hidden = true; q.value = ""; q.blur();
+  } else if (e.key === "Escape"){ res.hidden = true; }
+});
+document.addEventListener("click", e=>{ if (!e.target.closest(".search")) res.hidden = true; else if (e.target.closest(".results a")){ res.hidden = true; q.value = ""; } });
+document.addEventListener("keydown", e=>{
+  if (e.key === "/" && !e.ctrlKey && !e.metaKey && !/^(INPUT|TEXTAREA|SELECT)$/.test(document.activeElement.tagName)){ e.preventDefault(); q.focus(); }
+});
+
+const root = document.documentElement;
+try { const t = localStorage.getItem("nl-theme"); if (t) root.dataset.theme = t; } catch(_){}
+document.getElementById("themebtn").onclick = ()=>{
+  const dark = root.dataset.theme ? root.dataset.theme === "dark" : !matchMedia("(prefers-color-scheme: light)").matches;
+  root.dataset.theme = dark ? "light" : "dark";
+  try { localStorage.setItem("nl-theme", root.dataset.theme); } catch(_){}
+};
+</script>
+</body>
+</html>
