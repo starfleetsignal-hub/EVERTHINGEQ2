@@ -22,7 +22,7 @@ source:
   revision: 2026486
   revised: '2026-09-06T19:55:10Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
+expansion: Echoes of Faydwer
 expansion_source: source
 ---
 

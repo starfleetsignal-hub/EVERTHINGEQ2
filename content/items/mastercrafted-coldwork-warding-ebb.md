@@ -37,7 +37,7 @@ source:
   revision: 1931770
   revised: '2026-01-01T21:01:00Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Scars of Destruction
 expansion_source: source
 ---
 

@@ -22,7 +22,7 @@ source:
   revision: 991507
   revised: '2019-08-16T13:11:40Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Planes of Prophecy
 expansion_source: source
 ---
 

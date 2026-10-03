@@ -81,8 +81,8 @@ source:
   revision: 1886988
   revised: '2025-09-16T20:48:54Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 

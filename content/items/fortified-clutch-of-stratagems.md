@@ -79,7 +79,7 @@ source:
   revision: 1884849
   revised: '2025-09-15T21:50:31Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Age of Discovery
 expansion_source: source
 ---
 

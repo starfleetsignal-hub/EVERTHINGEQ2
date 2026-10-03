@@ -24,8 +24,8 @@ source:
   revision: 1856092
   revised: '2025-02-03T20:14:27Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 This item is needed for the collection: [[Hand-Hewn Frostfell Ornaments]]

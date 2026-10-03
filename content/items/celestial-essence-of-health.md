@@ -68,7 +68,7 @@ source:
   revision: 1928834
   revised: '2026-01-01T16:22:32Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Chaos Descending
 expansion_source: source
 ---
 

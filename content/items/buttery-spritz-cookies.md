@@ -24,8 +24,8 @@ source:
   revision: 1627676
   revised: '2022-12-17T14:34:33Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 This item is needed for the collection: [[Frostfell Baked Treats]]

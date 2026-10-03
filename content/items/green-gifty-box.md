@@ -18,7 +18,7 @@ source:
   revision: 1845816
   revised: '2024-12-12T05:02:03Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
+expansion: The Shadow Odyssey
 expansion_source: source
 ---
 

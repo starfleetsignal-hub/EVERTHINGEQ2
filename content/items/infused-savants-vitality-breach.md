@@ -34,7 +34,7 @@ source:
   revision: 1931304
   revised: '2026-01-01T20:17:43Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Tears of Veeshan
 expansion_source: source
 ---
 

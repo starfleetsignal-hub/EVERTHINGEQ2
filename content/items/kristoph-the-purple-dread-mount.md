@@ -46,8 +46,8 @@ source:
   revision: 1931468
   revised: '2026-01-01T20:33:44Z'
   license: CC BY-SA 3.0
-expansion: Chaos Descending
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 

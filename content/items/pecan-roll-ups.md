@@ -24,7 +24,7 @@ source:
   revision: 1855285
   revised: '2025-01-29T11:26:05Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
+expansion: Rise of Kunark
 expansion_source: source
 ---
 

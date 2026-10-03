@@ -19,8 +19,8 @@ source:
   revision: 1954401
   revised: '2026-01-13T02:38:50Z'
   license: CC BY-SA 3.0
-expansion: Blood of Luclin
-expansion_source: source
+expansion: Planes of Prophecy
+expansion_source: linked
 ---
 
 ## Notes

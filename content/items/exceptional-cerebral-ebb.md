@@ -35,8 +35,8 @@ source:
   revision: 1930199
   revised: '2026-01-01T18:11:59Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Kingdom of Sky
+expansion_source: level
 ---
 
 

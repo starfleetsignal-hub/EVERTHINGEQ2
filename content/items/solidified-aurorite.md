@@ -22,7 +22,7 @@ source:
   revision: 1003342
   revised: '2019-12-05T16:51:33Z'
   license: CC BY-SA 3.0
-expansion: Rise of Kunark
+expansion: Planes of Prophecy
 expansion_source: source
 ---
 

@@ -67,7 +67,7 @@ source:
   revision: 1929805
   revised: '2026-01-01T17:39:45Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: Visions of Vetrovia
 expansion_source: source
 ---
 

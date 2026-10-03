@@ -25,8 +25,8 @@ source:
   revision: 2000874
   revised: '2026-05-05T03:56:44Z'
   license: CC BY-SA 3.0
-expansion: Age of Discovery
-expansion_source: source
+expansion: Reign of Shadows
+expansion_source: linked
 ---
 
 ## Notes

@@ -37,8 +37,8 @@ source:
   revision: 1933464
   revised: '2026-01-02T17:44:40Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Planes of Prophecy
+expansion_source: level
 ---
 
 

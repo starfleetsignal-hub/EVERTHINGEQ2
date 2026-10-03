@@ -24,8 +24,8 @@ source:
   revision: 1854728
   revised: '2025-01-25T11:32:52Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 This item is needed for the collection: [[Druidic Frostfell Icons]]

@@ -27,8 +27,8 @@ source:
   revision: 2000653
   revised: '2026-05-04T04:10:00Z'
   license: CC BY-SA 3.0
-expansion: Ballads of Zimara
-expansion_source: source
+expansion: Blood of Luclin
+expansion_source: level
 ---
 
 

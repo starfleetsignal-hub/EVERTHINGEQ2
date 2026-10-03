@@ -80,7 +80,7 @@ source:
   revision: 1883482
   revised: '2025-09-15T18:49:32Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
+expansion: The Shadow Odyssey
 expansion_source: source
 ---
 

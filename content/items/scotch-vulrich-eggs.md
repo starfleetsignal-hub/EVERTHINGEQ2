@@ -24,8 +24,8 @@ source:
   revision: 1813106
   revised: '2024-07-30T12:41:04Z'
   license: CC BY-SA 3.0
-expansion: Terrors of Thalumbra
-expansion_source: source
+expansion: Shattered Lands
+expansion_source: level
 ---
 
 This item is needed for the collection: [[Brewday Bar Bites]]

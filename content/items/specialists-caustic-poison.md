@@ -33,8 +33,8 @@ source:
   revision: 1934720
   revised: '2026-01-02T19:07:41Z'
   license: CC BY-SA 3.0
-expansion: Echoes of Faydwer
-expansion_source: source
+expansion: Sentinel's Fate
+expansion_source: level
 ---
 
 

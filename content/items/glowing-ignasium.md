@@ -22,7 +22,7 @@ source:
   revision: 991501
   revised: '2019-08-16T11:16:48Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
+expansion: Planes of Prophecy
 expansion_source: source
 ---
 
