@@ -37,7 +37,7 @@ source:
 
 1. Find seven hiding holes, or "hydeeng hols", in [[Tenebrous Tangle]]. The holes look like the end of a barrel. Some are in the ground and some are in walls. Right click each barrel to update the quest. Although you can search for the holes in any order, one of the most efficient routes is as follows:
    - Smawlskail - [[Vicious Breeding Grounds]] {{waypoint 551, -146, 644}}
-     - (Note: if you can't fly, use the teleport pad at ( 220, -226, 166 ) in the Hidden Refuge.  It is labelled Breeding Grounds, not Vicious Breeding Grounds.)
+     - (Note: if you can't fly, use the teleport pad at {{waypoint 220, -226, 166}} in the Hidden Refuge.  It is labelled Breeding Grounds, not Vicious Breeding Grounds.)
    - Steengstung - [[Bixie Isle (POI)|Bixie Isle]] {{waypoint -566, -52, -969}}
    - Antheel - [[Ravasect Incursion Point (POI)|Ravasect Incursion Point]] {{waypoint 514, 241, -666}}
    - Bludshot - [[Gazer Isle (POI)|Gazer Isle]] {{waypoint 967, 462, 172}}

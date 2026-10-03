@@ -28,7 +28,7 @@ expansion_source: linked
 
 ## Location
 
-Obol plain : /loc 285.18 6.74 852.04 {{waypoint 285.18, 6.74, 852.04}}
+Obol plain : {{waypoint 285.18, 6.74, 852.04}} {{waypoint 285.18, 6.74, 852.04}}
 
 ## Physical Attributes
 

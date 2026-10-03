@@ -42,7 +42,7 @@ This quest is repeatable.
 
 ## Steps
 
-1. Travel down to the [[Velinoid Catacombs]] (-92, -40, 35 ) and break off 5 glimmering velium crystals that grow from the cave ceiling. Simply go in range of the velium crystal, click it, and it will fall to the ground. Be sure not to knock down multiple crystals at once, otherwise when you harvest the first one they will all disappear.
+1. Travel down to the [[Velinoid Catacombs]] {{waypoint -92, -40, 35}} and break off 5 glimmering velium crystals that grow from the cave ceiling. Simply go in range of the velium crystal, click it, and it will fall to the ground. Be sure not to knock down multiple crystals at once, otherwise when you harvest the first one they will all disappear.
 1. Return to [[Odon Scourgeson]]
 
 ## Rewards

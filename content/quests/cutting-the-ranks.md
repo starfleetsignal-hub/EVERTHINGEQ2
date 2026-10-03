@@ -39,7 +39,7 @@ source:
 1. [[Fiyt]] askes you to kill one of the following for him.
    - Kill 14 [[A Duhjalm deforester|a Duhjalm deforesters]] found around [[Flamespout Fields]] {{waypoint -556.31, -484.48, 4033}}|
    - Kill 14 [[A Kromzek pervasor|a Kromzek pervasors]] found around [[Flamespout Fields]] {{waypoint -489, 20000, 3799}} and the [[Walk of Glory]] {{waypoint -152, -321, 4076}}
-   - Kill 14 [[A Thrael'Gorr despoiler|Threal'Gorr despoilers]] found around [[Flamespout Fields]] (-771, -470, 3915)
+   - Kill 14 [[A Thrael'Gorr despoiler|Threal'Gorr despoilers]] found around [[Flamespout Fields]] {{waypoint -771, -470, 3915}}
 1. Return to [[Fiyt]]
 
 ## Rewards

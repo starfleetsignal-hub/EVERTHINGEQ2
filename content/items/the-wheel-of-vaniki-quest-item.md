@@ -6,7 +6,7 @@ icon: images/Item_851.png
 item_level: '0'
 flags: lore no-trade no-value
 description: This item appears to be damaged but can be repaired with a little bit of effort.  You should hold onto this item until it is repaired.
-obtained_from: '[[Clickable rock]] (-233.18, -47.25, 11.77) just north of [[ZaZa Lenska]] in [[The Commonlands]] during the quest, [[The Wheel of Vaniki]].'
+obtained_from: '[[Clickable rock]] {{waypoint -233.18, -47.25, 11.77}} just north of [[ZaZa Lenska]] in [[The Commonlands]] during the quest, [[The Wheel of Vaniki]].'
 used_in_quest: '[[The Wheel of Vaniki (Quest)|The Wheel of Vaniki]]'
 item_link: \aITEM 2027660252 762306954:The Wheel of Vaniki\/a
 categories:

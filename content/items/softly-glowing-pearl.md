@@ -33,6 +33,6 @@ It is sold by the following merchants:<br>
 - Dindrin Y'Rhineld in K'Lorn Library in Neriak
 - a shady merchant (Ratonga) in Everfrost outside Permafrost, down the ramp to the water.
 - Tilliana Steamsieve - ground floor in mage tower in South Qeynos.
-- Merchant Marcus in the Commonlands (676, -52, 440) - just outside the zone in to Valley of the Rogue Magi.
-- Assad M'Lyshad (3.22, -92.34, -924.56) in Sinking Sands.
+- Merchant Marcus in the Commonlands {{waypoint 676, -52, 440}} - just outside the zone in to Valley of the Rogue Magi.
+- Assad M'Lyshad {{waypoint 3.22, -92.34, -924.56}} in Sinking Sands.
 - Garglari {{waypoint 1860, 483, -812}} in the Teren's Grasp area of [[Kylong Plains]]

@@ -24,6 +24,6 @@ expansion_source: source
 
 ## Reported Locations
 
-- ( -647,-18,114 )
-- ( -628,-15,150 )
-- ( -640,-15,150 )
+- {{waypoint -647, -18, 114}}
+- {{waypoint -628, -15, 150}}
+- {{waypoint -640, -15, 150}}

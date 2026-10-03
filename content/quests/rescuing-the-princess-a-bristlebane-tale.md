@@ -53,7 +53,7 @@ source:
 1. In order to continue down the large main hall beyond the first room, you must clear the [[Leastest Initiate of The Arisen|leastest]]/[[Lesser Initiate of The Arisen|lesser Initiate of The Arisen]] in the main room and surrounding rooms.
    - This will remove the ***carved guard*** that was preventing you from processing further.
 1. When you come to the room with [[Firiona Vie]], defeat [[Danak Dhorentath]] (see notes above).
-1. Proceed to the furthest room in the back ( -148, -22, 384 )and smash the vases until you get Danak's magical shackle keys.
+1. Proceed to the furthest room in the back {{waypoint -148, -22, 384}}and smash the vases until you get Danak's magical shackle keys.
 1. Return to the room with [[Firiona Vie]] and click on her to free "her".
 1. Exit and return to [[The Grand Prankster]].
 

@@ -6,7 +6,7 @@ icon: images/Item_2181.png
 item_level: '80'
 flags: lore no-trade no-value no-destroy
 description: A note found in Mistmoore's Castle.
-obtained_from: On a desk at (-248, 4, -5) in [[Castle Mistmoore]]
+obtained_from: On a desk at {{waypoint -248, 4, -5}} in [[Castle Mistmoore]]
 used_in_quest: '[[A Bloodmoon Rising!]]'
 item_link: \aITEM -182989272 1722171449:Laboratory Note\/a
 image: images/Laboratory_Note.jpg

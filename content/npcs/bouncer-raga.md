@@ -5,7 +5,7 @@ expansion: Shattered Lands
 purpose: Ecology
 race: Ogre
 zone: '[[West Freeport]]'
-location: Inside the Backalley Brewhouse at 225, -4, 165
+location: Inside the Backalley Brewhouse at {{waypoint 225, -4, 165}}
 categories:
 - Ecology (NPC Type)
 - NPC pages that need EQ2MAP uid

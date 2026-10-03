@@ -6,7 +6,7 @@ race: Human
 level: '35'
 difficulty: Heroic ^^^
 zone: '[[Qeynos Province District]]'
-location: Patrols the dock area between the [[Qeynos Shipyard]] ( 914,-25,81 ) and [[The Mermaid's Lure]] {{waypoint 931, -25, 23}}
+location: Patrols the dock area between the [[Qeynos Shipyard]] {{waypoint 914, -25, 81}} and [[The Mermaid's Lure]] {{waypoint 931, -25, 23}}
 categories:
 - Faction Monsters
 - Heroic Named Monsters

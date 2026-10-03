@@ -5,7 +5,7 @@ expansion: Rise of Kunark
 purpose: Quest
 race: Iksar
 zone: '[[Fens of Nathsar]]'
-location: In [[Riliss (POI)|Riliss]] at (-781.22, 49.50, -223.23)
+location: In [[Riliss (POI)|Riliss]] at {{waypoint -781.22, 49.50, -223.23}}
 added_in: Rise of Kunark
 image: images/Klok_Ilesia.jpg
 categories:

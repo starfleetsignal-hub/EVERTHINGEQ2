@@ -67,4 +67,4 @@ expansion_source: patch
   - [[Silver cluster]]
   - [[Sisal root]]
 
-Note: You can also pick up [[Ironforge Exchange Basic Recipes]] from the table next to Tami now at ( 61, 154, -131 ).
+Note: You can also pick up [[Ironforge Exchange Basic Recipes]] from the table next to Tami now at {{waypoint 61, 154, -131}}.

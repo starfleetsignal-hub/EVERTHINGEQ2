@@ -20,4 +20,4 @@ expansion: The Shadow Odyssey
 expansion_source: source
 ---
 
-NOTE: "a void destroyer" ( /waypoint -104,0,9 ) and "a void crusher" ( around /waypoint -452,457,352 ) in Stonebrunt Highlands update for the grathok love note and grathok slayer achievement.
+NOTE: "a void destroyer" {{waypoint -104, 0, 9}} and "a void crusher" ( around {{waypoint -452, 457, 352}} ) in Stonebrunt Highlands update for the grathok love note and grathok slayer achievement.

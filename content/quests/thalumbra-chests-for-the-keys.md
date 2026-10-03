@@ -61,7 +61,7 @@ These chests spawn randomly in various locations throughout [[Thalumbra, the Eve
 
 ![An umbrite treasure chest](images/An_umbrite_chest.png)
 
-- On the upper leaves with the Poxfiends (-364, 309, 9)
+- On the upper leaves with the Poxfiends {{waypoint -364, 309, 9}}
 - In the [[Glittervein Depths]] {{waypoint 499.45, 50.70, 875.28}}
 - South of the Abandoned Fungus Farm {{waypoint 773, 33.53, 582.13}}
 - On a ledge in the [[Abyssal Chasm]] {{waypoint -148.48, -68.69, 84.04}}.

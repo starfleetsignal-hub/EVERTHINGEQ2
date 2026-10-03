@@ -31,7 +31,7 @@ source:
 ## Steps
 
 1. Talk to Kwa about the glory of Marr.  He is talking about [[Mithaniel Marr (God)|Mithaniel Marr]], the god of Valor who created the Frogloks.  He asks you to go around town and talk to several important townsfolk about Marr.
-1. Talk to [[Dolthyryr Helyanwe]] {{waypoint 779, -15, -138}} in the Bed and Book Inn.  Tell him about the Ogre.  This is also a good opportunity to get housing from [[Innkeeper Valean]] (782, -15. -140).
+1. Talk to [[Dolthyryr Helyanwe]] {{waypoint 779, -15, -138}} in the Bed and Book Inn.  Tell him about the Ogre.  This is also a good opportunity to get housing from [[Innkeeper Valean]] {{waypoint 782, -15, -140}}.
 1. Talk to [[Carpenter Goroop]] {{waypoint 746, -12, -99}} in [[The Stalwart Shield]] armorsmith building above the tavern.  Use the stairs off of [[The Fountain of Valor]].  Talk to him about the rumors of the Ogre.  Tell him that they are true.
 1. Talk to [[Foorog Gallantblade]] {{waypoint 758, -14, -115}} outside of [[The Stalwart Shield]].  Tell him that the Orge is a citizen of [[Qeynos]].
 1. Talk to [[Gilcirith Elensar]] {{waypoint 740, -15, -144}} in the [[Qeynos Exchange Bank (Castleview)|Qeynos Exchange Bank]].

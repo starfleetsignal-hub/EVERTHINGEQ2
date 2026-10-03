@@ -23,7 +23,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
-The entrance to this zone is actually through a sewer pipe on the cliff face at 362.5,178.6,-133.3, it is easily spotted by the trail of luminous green sludge pouring out.
+The entrance to this zone is actually through a sewer pipe on the cliff face at {{waypoint 362.5, 178.6, -133.3}}, it is easily spotted by the trail of luminous green sludge pouring out.
 
 ## Strategies
 

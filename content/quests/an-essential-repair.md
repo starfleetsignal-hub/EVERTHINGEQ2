@@ -37,7 +37,7 @@ source:
 1. Kill 15 [[A fauna stalker|fauna stalkers]].
 
 (229,44, -82.72, -306.31)
-(-32.93, -79.50, -182.02)
+{{waypoint -32.93, -79.50, -182.02}}
 
 1. Return to Hop Wrenchwit.
 

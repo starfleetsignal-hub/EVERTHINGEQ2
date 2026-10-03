@@ -53,7 +53,7 @@ Faster travel:
 
 ![coffin](images/Coffin.jpg)
 
-1. Travel to [[Teren's Grasp]] in [[Kylong Plains]] and gather a snowman at 1,934 480 -817.
+1. Travel to [[Teren's Grasp]] in [[Kylong Plains]] and gather a snowman at {{waypoint 1934, 480, -817}}.
 1. Return to [[Imenand]].
 1. Travel to [[Commonlands]] and head northwest of the Ulteran spire to the [[West Nomad Camp]] camp to find a coffin behind the middle tent at {{waypoint 415, -47.69, -806.84}}.
 1. Return to [[Imenand]].

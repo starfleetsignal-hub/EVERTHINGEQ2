@@ -7,7 +7,7 @@ class: Warlock
 level: 51-52
 difficulty: Heroic ^^^
 zone: '[[Klak''Anon]]'
-location: Throughout [[The Clockwork Commons and Maintenance]] {{waypoint -205, 12, -69}} and [[The Ore Extraction Site]]
+location: Throughout [[The Clockwork Commons and Maintenance]] {{waypoint -205, 12, -69}} and [[The Ore Extraction Site]] {{waypoint 99, -14, -107}}
 aggressive: true
 added_in: Echoes of Faydwer
 categories:

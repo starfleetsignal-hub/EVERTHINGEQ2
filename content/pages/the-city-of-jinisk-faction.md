@@ -16,4 +16,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Quests for faction begin with Trader Hisk Varn (730.20, 37.11, -135.04)
+Quests for faction begin with Trader Hisk Varn {{waypoint 730.20, 37.11, -135.04}}

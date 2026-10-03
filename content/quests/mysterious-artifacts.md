@@ -40,7 +40,7 @@ source:
 1. Examine the rubble next to [[Nilth T'Feyd]] {{waypoint -99, -23, -12}} to find the second artifact.
 1. Kill [[Rhayn T'Dax]] {{waypoint 54, -23, -101}} for the third artifact (in the tunnel between the first and second levels).
 1. Examine a coffin slightly north of [[Nilth T'Feyd]] {{waypoint -102, -24, -27}} for the fourth artifact.
-1. Exit the instance at ( 117, -1, 126 )
+1. Exit the instance at {{waypoint 117, -1, 126}}
 1. Return to [[Dirin Thilae]] for your reward.
 
 ## Rewards

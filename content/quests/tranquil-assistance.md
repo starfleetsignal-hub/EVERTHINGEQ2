@@ -47,7 +47,7 @@ source:
    - 12 [[Quicksilver cluster]]
    - 8 [[Sumac lumber]]
    - 4 [[Ethereal coal]]
-   - Crafting stations are in the Paineel Commons at (1800.00,-299.00,3492.50) on both sides
+   - Crafting stations are in the Paineel Commons at {{waypoint 1800.00, -299.00, 3492.50}} on both sides
 1. Return to [[Aaliya]] for your reward.
 1. Then go to [[Adeela]] {{waypoint 1727, -283, 3473}} for next part of Quest line.
 

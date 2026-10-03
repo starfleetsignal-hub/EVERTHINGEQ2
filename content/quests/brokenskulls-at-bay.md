@@ -29,7 +29,7 @@ source:
 
 Zone into [[Brokenskull Bay: Bosun's Private Stock (Event Heroic)]]
 
-1. Vanquish Veerach - Kill [[Veerach the Vile]] at (-312.20, -123.81, -318.20) by completing the ring event.
+1. Vanquish Veerach - Kill [[Veerach the Vile]] at {{waypoint -312.20, -123.81, -318.20}} by completing the ring event.
 
 ## Rewards
 

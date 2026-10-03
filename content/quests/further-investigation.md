@@ -32,7 +32,7 @@ source:
 
 ## Steps
 
-1. Gather [[Nibbled root|nibbled roots]] by walking up to the [[Sapling fawn|sapling fawns]] or [[Saplng stags|sapling stags]] near the [[Sapling Spur Outpost]] (right click on a Sapling fawn) (around -96.04,-2.45, -24.73)
+1. Gather [[Nibbled root|nibbled roots]] by walking up to the [[Sapling fawn|sapling fawns]] or [[Saplng stags|sapling stags]] near the [[Sapling Spur Outpost]] (right click on a Sapling fawn) (around {{waypoint -96.04, -2.45, -24.73}})
 1. Return to [[Brodo Gillywump]]
 
 ## Rewards

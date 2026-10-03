@@ -6,7 +6,7 @@ level: '72'
 difficulty: Heroic ^
 group: Band of the Scarlet Witch
 zone: '[[Nektropos Castle: Tribulation]]'
-location: Central Courtyard
+location: Central Courtyard {{waypoint -5, 0, 17}}
 added_in: LU26
 image: images/Szatch.jpg
 categories:

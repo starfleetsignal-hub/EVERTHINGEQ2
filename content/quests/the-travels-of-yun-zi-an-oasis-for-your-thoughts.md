@@ -5,7 +5,7 @@ level: '100'
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at 2,300 -200 2,502
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at {{waypoint 2300, -200, 2502}}
 next_quest: '[[The "Travels" of Yun Zi - In a Kingdom Far Away]]'
 added_in: Days of Summer
 achievement_xp: true
@@ -45,7 +45,7 @@ expansion_source: timeline
    1. Travel to [[Maj'Dul]] - Use the flying carpet at the docks and travel to [[Maj'Dul]]. In [[Maj'Dul]], move up the stairs to {{waypoint -170, 176, -111}};
    1. Travel to [[The Living Tombs]] - Go back to [[Sinking Sands]], speak with the carpet guy to travel to "Twin Tears" in [[Sinking Sands]]. Enter [[The Living Tombs]] {{waypoint -372, -143, -1042}}. In [[The Living Tombs|Living Tombs]] go some steps "forward" to {{waypoint -633, 3, 331}}. Do not jump down.
    1. Travel to [[The Silent City]] - Go back to [[Sinking Sands]], travel to the cave entrance at {{waypoint -878, -239, -1276}} at the seaside, then proceed to the gate/zone entrance of [[The Silent City]] at {{waypoint -945, -229, -1044}}. Enter [[The Silent City]] and move forward to {{waypoint 144, 30, 210}}.
-1. Return to [[Yun Zi (Merchant)|Yun Zi]] on [[The Sundered Frontier]] at 2,297 -199 2,506
+1. Return to [[Yun Zi (Merchant)|Yun Zi]] on [[The Sundered Frontier]] at {{waypoint 2297, -199, 2506}}
 
 ## Rewards
 

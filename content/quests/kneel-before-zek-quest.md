@@ -7,7 +7,7 @@ level: '97'
 difficulty: Heroic
 zone: '[[Kael Drakkel]]'
 journal_category: Kael Drakkel
-starts: Inspect statue [[Bust of Rallos Zek]] -39.97 63.75 -2,553.87 in Zone [[Eye of Zek]]
+starts: Inspect statue [[Bust of Rallos Zek]] {{waypoint -39.97, 63.75, -2553.87}} in Zone [[Eye of Zek]]
 in_game_name: Kneel Before Zek
 added_in: Destiny of Velious
 categories:

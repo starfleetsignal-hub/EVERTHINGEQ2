@@ -32,7 +32,7 @@ source:
 ## Steps
 
 1. Kill [[Bloodskull warrior|Bloodskull warriors]] until you collect 20 of their special earrings {{waypoint -1084, -48, 594}}.
-1. Take the earrings to [[Captain Vrondell]] at [[The Freeport Militia House]] in [[West Freeport]]. 141 .5 124.5
+1. Take the earrings to [[Captain Vrondell]] at [[The Freeport Militia House]] in [[West Freeport]]. {{waypoint 141, 0.5, 124.5}}
 
 ## Rewards
 

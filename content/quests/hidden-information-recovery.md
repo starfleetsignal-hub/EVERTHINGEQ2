@@ -38,9 +38,9 @@ source:
 ## Steps
 
 1. You are randomly asked to complete one of these tasks:
-   - Collect 10 **Rujarkian Alliance notes** in [[The Clefts of Rujark]] (loc 92.00,20.17,-185.02 )
+   - Collect 10 **Rujarkian Alliance notes** in [[The Clefts of Rujark]] {{waypoint 92.00, 20.17, -185.02}}
    - Kill 20 [[A Steelslave mauler|Steelslave maulers]] in [[The Clefts of Rujark]]
-   - Collect 10 **Rin'Dal history scrolls** in [[The Living Tombs]] -- You can use a Gnomish Divining Rod to help find these. One known location is in Statue Court at -180, -6, -380 and Residence Court at -367, 20, 465. They spawn in random locations in the area and refresh within a couple minutes.
+   - Collect 10 **Rin'Dal history scrolls** in [[The Living Tombs]] -- You can use a Gnomish Divining Rod to help find these. One known location is in Statue Court at {{waypoint -180, -6, -380}} and Residence Court at {{waypoint -367, 20, 465}} They spawn in random locations in the area and refresh within a couple minutes.
    - Kill 20 [[A commerce sentinel|commerce sentinels]] in [[The Living Tombs]]
 1. Return to [[Outrider Bernd]] in [[The Elddar Grove (POI)|The Elddar Grove]].
 

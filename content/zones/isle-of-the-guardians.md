@@ -25,7 +25,7 @@ Level 58-65, mostly 64, both solo and heroic Blacktalon aviaks.
 
 ## Island Access
 
-- (786, 386, -180): [[Isle of Desolation]], [[Prisoner's Isle]]
+- {{waypoint 786, 386, -180}}: [[Isle of Desolation]], [[Prisoner's Isle]]
 
 ## Monsters
 

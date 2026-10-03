@@ -36,7 +36,7 @@ source:
    - [[Loppa]] is at {{waypoint -1566, -536, -2407}}
 1. Collect the missing scrolls from the abandoned gnoll camp
    - These look like small red potion bottles.  They are found up against the tents. ![Could there be a scroll inside?](images/Local_Positioning_quest_-_scroll.jpg)
-   1. -1,426 -534 -2,538
+   1. {{waypoint -1426, -534, -2538}}
    1. {{waypoint -1523, -539, -2572}}
    1. {{waypoint -1430, -524, -2588}}
    1. {{waypoint -1464, -525, -2559}}

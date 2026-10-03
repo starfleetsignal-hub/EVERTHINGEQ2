@@ -22,4 +22,4 @@ source:
 
 ## Notes
 
-The key unlocks a door at -264, -49.6, -39.3 in the Wailing Caves.
+The key unlocks a door at {{waypoint -264, -49.6, -39.3}} in the Wailing Caves.

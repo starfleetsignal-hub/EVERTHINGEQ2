@@ -47,7 +47,7 @@ source:
    - [[Coercer|Coercers]] need to finish the [[Conjuror's Cantrips]] collection found in [[Phantom Sea]] in and around the Castle Highhold area.
    - [[Conjurer|Conjurers]] are looking for [[Warlock's Cantrips]] found in [[Kylong Plains]] near the path to [[Fens of Nathsar]] {{waypoint -978.49, 18.13, -768.70}}
    - [[Illusionist|Illusionists]] are looking for [[Necromancer's Cantrips]] found in [[Phantom Sea]] around the Ghorkaal village at {{waypoint 879.27, 9.14, 826.76}}. *This village is no fly, so make sure you are on the ground or close to it so you do not fall to your death when the curse grounds you.*
-   - [[Necromancer|Necromancers]] are looking for [[Wizard's Cantrips]] found in [[Tranquil Sea]] in the Twisted area just north of the bell on the Isle of Refuge.(approximately near 918, 7.3, 1454)
+   - [[Necromancer|Necromancers]] are looking for [[Wizard's Cantrips]] found in [[Tranquil Sea]] in the Twisted area just north of the bell on the Isle of Refuge.(approximately near {{waypoint 918, 7.3, 1454}})
    - [[Warlock|Warlocks]] are looking for [[Illusionist's Cantrips]] found in [[Moonfield Hamlet (POI)|Moonfield Hamlet]] in the [[The Stonebrunt Highlands|Stonebrunt Highlands]].
    - [[Wizard|Wizards]] are looking for [[Coercer's Cantrips]] located in [[Cobalt Scar]] near Sirens Grotto.
 1. Turn in the completed collection quest.
@@ -65,7 +65,7 @@ source:
    - Must have completed [[Voices from Beyond]] for [[Words of Shade]] language.
    - Note: when you click on the case it says "investigate", but you **don't** need the [[Investigating]] ability for it.
 1. Locate the mysterious cult.
-   - While wearing [[Tobrin's Mystical Eyepatch]], click on **a half-buried statue** on the East Coast of [[Enchanted Lands]] -1013 -.95 -383 to zone into the [[Isle of Vul]].
+   - While wearing [[Tobrin's Mystical Eyepatch]], click on **a half-buried statue** on the East Coast of [[Enchanted Lands]] {{waypoint -1013, -0.95, -383}} to zone into the [[Isle of Vul]].
      - *Note:  The upgraded Eyepatch from doing the quest on the time locked server Does Not Work.  You need the lvl 45 one from the HQ.*
      - *Note: once you are in the zone you can wear your usual head piece.*
 1. Find the leader of the Dark Maw.

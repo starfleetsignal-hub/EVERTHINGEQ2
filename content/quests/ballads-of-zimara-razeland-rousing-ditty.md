@@ -50,7 +50,7 @@ source:
    1. Kill [[Eaglovok]] {{waypoint -388.05, 123.92, -648.42}} to gain access to the next area
       - *Beware of knockbacks*
    1. Teleport to [[Helionae Razelands]] using the crystals at  {{waypoint -336.40, 124.23, -648.05}}.
-      1. The crystals deposits you at ( -228, 106, -462 )![](images/Teleport_to_Helopae_Razelands_crystal.jpg)
+      1. The crystals deposits you at {{waypoint -228, 106, -462}}![](images/Teleport_to_Helopae_Razelands_crystal.jpg)
    1. Kill [[A risen warbler]] on the path to the next area, {{waypoint -184.31, 113.64, -176.95}} ( this will update the quest and gives you [[Aviak Flageolet (Ballads of Zimara: Razeland Rousing Ditty) (no effect)|Aviak Flageolet]])
       - *There is a name in the [[Helionae Razelands]] area ([[Gilded Back Demolisher]]); you don't have to kill it to progress, but might as well (knockback & stun).*
 1. Seek [[Miranna Ameema (Razing the Razelands)|Miranna Ameema]] in [[Zenith Helionae]] at {{waypoint 11.11, 156.30, 76.94}} inside the solo and near the marble gazebo structures. She will give you [[Aviak Flageolet (Ballads of Zimara: Razeland Rousing Ditty) (with effect)|Aviak Flageolet]]

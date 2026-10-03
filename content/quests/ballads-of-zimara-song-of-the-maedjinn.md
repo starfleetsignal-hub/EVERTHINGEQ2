@@ -61,7 +61,7 @@ source:
      - * This appears as sparkling mounds of dirt on the ground*
    - Obtain Arcana Spirit Jewels and Arcana Flesh Plates on [[Columnar Highgarden]]
      - *Note: Take to the Skies cloud at {{waypoint 848.61, 182.53, 310.60}} to [[Columnar Highgarden]]*
-   - Hunt for 8 Arcana Spirit Jewels from  [[An arcaneframe razorfang|arcaneframe razorfangs]], white tigers around  {{waypoint 584, 217, -814}} and {{waypoint 621, 206, -573}} and [[An arcaneframe hammerhoof|arcaneframe hammerhooves]] for 10 Arcana Flesh Plates on [[Columnar Highgarden]] (737, 227, -446).
+   - Hunt for 8 Arcana Spirit Jewels from  [[An arcaneframe razorfang|arcaneframe razorfangs]], white tigers around  {{waypoint 584, 217, -814}} and {{waypoint 621, 206, -573}} and [[An arcaneframe hammerhoof|arcaneframe hammerhooves]] for 10 Arcana Flesh Plates on [[Columnar Highgarden]] {{waypoint 737, 227, -446}}.
 1. ![](images/An_arcaneframe_hammerhoof.png)Return to [[Miranna Ameema (Isles of Wisdom)|Miranna Ameema]] on [[Isles of Wisdom]] at {{waypoint -911.19, 189.61, 331.11}}
 1. Speak with [[Vahravi]], the Allyrian at {{waypoint -906.42, 188.34, 323.33}} to receive [[Aviak Flageolet (Ballads of Zimara: Song of the Maedjinn)|Aviak Flageolet]]
 1. Charm local fauna into dancing (group-wide update)

@@ -34,16 +34,16 @@ source:
 
 1. Obtain five [[An Ancient Silver Coin|Ancient Silver Coin]]s.
    - Tish gives you 5 [[A scrying stone|scrying stone]]s to get you started. You will probably need a lot more. They are purchased at [[Dead River Docks]] in the Thundering Steppes from [[Liets Rolyat]] {{waypoint -439, -18, -437}}or at [[Port Naythex]] from [[Inaill Icoryk]] {{waypoint 775, 2, -153}} on Nektulos Docks (evil characters) for 10s each. Go there first and buy a stack - 5 will probably not be enough.
-     - Five of them can also be given to you if you talk to [[Daria]] in [[Nektulos Forest]] at -408 2 -1,262.
+     - Five of them can also be given to you if you talk to [[Daria]] in [[Nektulos Forest]] at {{waypoint -408, 2, -1262}}.
    - Examine the scrying stones while standing near a ground-based *rainbow* found randomly around certain [[POI|POIs]] strewn across the [[Shattered Lands]]. This action is called: scrying.
      - A good zone to find the spots are in Thundering Steppes. The area immediately surrounding the northern entrance to Ruins of Varsoon and the two green patches in the south central part of TS (by the shrine and near the centaurs) are both common spawn points. They are a little faint, but are visible. You can only try at one shimmer spot a few times (4-6, usually).  Another good spot is around where  [[Incaulebis the Maleficent]] spawns.  A rainbow spawned every time I cleared the PHs.![Picture of rainbow shimmer spots that you will use to process the scrying stones.](images/Scrying_Rainbow.jpg)
      - **Some other possible locations are**:
-     - /waypoint 116, 8, 1320                    /waypoint 143, -19, 73
-     - /waypoint 181, -24, -647                /waypoint 201, -26, -678
-     - /waypoint 595, 1, 996                     /waypoint 754, -9, -507
-     - /waypoint 1180, 7, 555                   /waypoint -140, 12, 95
-     - /waypoint -161, 17, 135                   /waypoint -360, 5, 778
-     - /waypoint -401, 7, 762                   /waypoint -625, -6, 685
+     - {{waypoint 116, 8, 1320}}                    {{waypoint 143, -19, 73}}
+     - {{waypoint 181, -24, -647}}                {{waypoint 201, -26, -678}}
+     - {{waypoint 595, 1, 996}}                     {{waypoint 754, -9, -507}}
+     - {{waypoint 1180, 7, 555}}                   {{waypoint -140, 12, 95}}
+     - {{waypoint -161, 17, 135}}                   {{waypoint -360, 5, 778}}
+     - {{waypoint -401, 7, 762}}                   {{waypoint -625, -6, 685}}
    - While scrying, you will occasionally win one or more Ancient Silver Coins as a reward. Other rewards include vendor items which you can sell to the scrying stone merchants, pieces of wearable armor, [[Training Tomes]], or random undead to fight. Most of the rewards also give you the option of getting more scrying stones instead.
    - **Note**: [[Ancient silver coin]] does not count for this quest. Only [[An Ancient Silver Coin]] does.
    - **Possible bug**: When the quest updates and says that you have collected five coins, you really only have four. You will need one more coin to get Tish to talk to you.

@@ -38,7 +38,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Speak to [[Hanny Puddlezap]] (-20.5, -98.4, -591.3) at the cloud station of [[Carrion Briar]]
+1. Speak to [[Hanny Puddlezap]] {{waypoint -20.5, -98.4, -591.3}} at the cloud station of [[Carrion Briar]]
 
 ## Rewards
 

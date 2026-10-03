@@ -29,7 +29,7 @@ source:
 
 Recommentded Resistances: 120k+
 
-LOC: Through sewer spewing green sludge, at 362.5,178.6,-133.3
+LOC: Through sewer spewing green sludge, at {{waypoint 362.5, 178.6, -133.3}}
 
 See quest "Revelations in Highhold" for a guide
 

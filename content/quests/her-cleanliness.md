@@ -43,7 +43,7 @@ This is the first quest in the series to change your [[Citizenship#Kelethin to Q
 1. Pick up 30 pieces of trash along the [[Qeynos Highway|Highway]] in [[Antonica]], starting from the gate.
    - These show up as piles of garbage on the road itself.
    - The highway starts from the Qeynos gates, so don't use the mariner's bell to go to Antonica docks.
-1. Go to Friar Montego in Nettleville (448, -20, -242) or (64, -2, 378 Origins) and purchase a Donation Receipt.
+1. Go to Friar Montego in Nettleville {{waypoint 448, -20, -242}} or (64, -2, 378 Origins) and purchase a Donation Receipt.
 1. Return to Darion
 
 ## Rewards

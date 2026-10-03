@@ -41,7 +41,7 @@ The [[Ideas on makieshift weapon racks]] recipe auto-scribes. You do *not* need 
 
 ## Steps
 
-1. Harvest 5 [[Wood scrap|wood scraps]] - *found in the disintegrating wooden cart near (-262, 33, -1787) (trackable harvest node)*![disintegrating wooden cart](images/Disintegrating_wooden_cart.jpg)
+1. Harvest 5 [[Wood scrap|wood scraps]] - *found in the disintegrating wooden cart near {{waypoint -262, 33, -1787}} (trackable harvest node)*![disintegrating wooden cart](images/Disintegrating_wooden_cart.jpg)
 1. Craft a weaponrack called a [[Stacky-Rack]] at the Goblin Workbench at [[Brappa]]  Requires 1 [[Thaumic Coal]].
 1. Speak with [[Brappa]]
 

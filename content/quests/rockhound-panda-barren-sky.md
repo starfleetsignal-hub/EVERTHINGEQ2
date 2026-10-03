@@ -43,7 +43,7 @@ File:Cloudmist Isle rock.png|Cloudmist Isle crystal
 </gallery>
 
 1. Collect 3 samples of "interesting rock" from Isle of Eaglewatch - go to {{waypoint -239, 306, 618}} and mine white flat rocks, multiple spawns along rock walls.
-1. Collect 3 samples of rock from Blackwind Isle - go to {{waypoint -309, 115, 242}} and mine small rocks along rock walls. Near the closest rock wall (-473.37, 129.71, 316.82).
+1. Collect 3 samples of rock from Blackwind Isle - go to {{waypoint -309, 115, 242}} and mine small rocks along rock walls. Near the closest rock wall {{waypoint -473.37, 129.71, 316.82}}.
 1. Collect 3 samples of rock from Cloudmist Isle - go to {{waypoint -587, 247, -188}} and mine crystals spawning along rock walls.
 1. Return to [[Bao Bao]] in Sundered Frontier.
 

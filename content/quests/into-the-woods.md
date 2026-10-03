@@ -56,14 +56,14 @@ Possible locations of Fiery Portal among many throughout ![Fiery Portal](images/
 1. Find the entrance
    - go to an orange portal hovering above the roof of one of the ruins in the lake where the fishmen are  and zone into [[Burned Woods]]
 1. Slay anything of consequence...
-   - Kill Toadly Blayzed (2284, 221, -1962)![Toadly Blayzed](images/Toadly_Blayzed.jpg)
+   - Kill Toadly Blayzed {{waypoint 2284, 221, -1962}}![Toadly Blayzed](images/Toadly_Blayzed.jpg)
      - *dropped: "a scorched treasure" which opened to [[Grilled Plate Boots]]*
-   - Kill Enfuego (inside tower (2082, 187, -2546)) ![Enfuego](images/Enfuego.jpg)
+   - Kill Enfuego (inside tower {{waypoint 2082, 187, -2546}}) ![Enfuego](images/Enfuego.jpg)
      - *dropped: "a scorched treasure" which opened to [Fricasseed Plate Gauntlets]]*
    - Kill the Matchstick Men trio (grouped) Lucky the Striker (Epic x3), Hot Head (Epic x3), & Roy Waller (Epic x3) wander path (1880, 134, -2479,)![Matchstick Men](images/Matchstick_Men_trio.jpg)
-   - Kill Burnt Reynolds (Epic x4) at Order of Rime camp (1079, 175, -2862) ![Burnt Reynolds](images/Burnt_Reynolds.jpg)
+   - Kill Burnt Reynolds (Epic x4) at Order of Rime camp {{waypoint 1079, 175, -2862}} ![Burnt Reynolds](images/Burnt_Reynolds.jpg)
      - *dropped: "a scorched treasure" which opened to [[Barbecued Plate Shoulders]]*
-   - Kill Ixiblat Fer wanders around (1611, 113, -2471)
+   - Kill Ixiblat Fer wanders around {{waypoint 1611, 113, -2471}}
      - He goes immune from damage every 25% or so (maybe 33%).
      - There must be a way to cool it down ...
      - I ran to the snowy area to the south of the zone. Run speed was 150% the whole time, while in-combat. He slowly followed me, and the stoneskin dropped when he was near/on the snowy tiles.![Ixiblat Fer](images/Ixiblat_Fer.jpg)

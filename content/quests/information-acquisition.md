@@ -35,10 +35,10 @@ source:
 1. Speak to [[Rujiarmo Oolamein]] to start the quest.
 1. Speak to the following NPCs in order, all within [[The Peat Bog|the Peat Bog]]:
    1. An [[Erudite]] NPC named "a dark figure" at location 703.8, -32.4, 398.7
-   1. [[Liberalist Pale]] at 650.6, -32.2, 474.5 in the end of a fallen, hollow log
-   1. [[Veh'ra the Conserving]] at 622.6, -33, 463.8 behind a log
+   1. [[Liberalist Pale]] at {{waypoint 650.6, -32.2, 474.5}} in the end of a fallen, hollow log
+   1. [[Veh'ra the Conserving]] at {{waypoint 622.6, -33, 463.8}} behind a log
 1. Return to [[Rujiarmo Oolamein|Rujiarmo]].
-1. Speak to [[Lieutenant Dawson]] at 565.2, -27.3, 416.2 (at the entrance to [[Nettleville]]) to complete the quest.
+1. Speak to [[Lieutenant Dawson]] at {{waypoint 565.2, -27.3, 416.2}} (at the entrance to [[Nettleville]]) to complete the quest.
 
 This completes the Erudite racial quest line in Qeynos and passes you on to a series of low-level solo quests in the region.
 

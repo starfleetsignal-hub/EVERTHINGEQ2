@@ -93,7 +93,7 @@ source:
       - *If running reduced graphics, the "accumulation of goo" *WILL* be invisible, look for the Hand icon to find and then Fish for key. Turning up Options.Display.Model Detail.Level of Detail Bias will make them easier to see as well.*
 1. Go to the door at {{waypoint -198, 27, -328}}
 1. Place the [[Overseer's Shield]] on the shield stand {{waypoint -199, 29, -399}} and the [[Overseer's Sword]] on the sword stand {{waypoint -258, 29, -399}}.
-1. Go through the door ( -229, 26, -421 ) and speak with [[Haggle Baron Dalnir]]. **Be sure you have your illusion on** because if you speak to him without it, he will turn into a Level 120 Epicx4 and kill you.  If you speak to him a second time (after crafting confirmed), he will kill you.
+1. Go through the door {{waypoint -229, 26, -421}} and speak with [[Haggle Baron Dalnir]]. **Be sure you have your illusion on** because if you speak to him without it, he will turn into a Level 120 Epicx4 and kill you.  If you speak to him a second time (after crafting confirmed), he will kill you.
 1. Craft [[Rune Conduit]]
    - The Rune Conduit **must** be crafted at one of the three Dalnir's Forges in Dalnir's room, and requires items from the two side-rooms:
      - imbued tynonnium - *imbued tynnonium* in room on R/west {{waypoint -152, 28, -463}}

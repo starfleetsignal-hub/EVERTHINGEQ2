@@ -7,7 +7,7 @@ tier: Treasured
 item_level: '0'
 flags: lore no-trade no-value
 description: A cyphered tome page that thirsts for blood.
-obtained_from: Aether Wroughtlands, Dropped chest from a goldshell snapper in Tincture Orb Gardens, around /way 565.30, 255.33, 661.98 and to the west.
+obtained_from: Aether Wroughtlands, Dropped chest from a goldshell snapper in Tincture Orb Gardens, around {{waypoint 565.30, 255.33, 661.98}} and to the west.
 starts_quest: '[[Voracious Cyphered Tome Page (Quest)|Voracious Cyphered Tome Page]]'
 item_link: \aITEM -50675405 857025189:Voracious Cyphered Tome Page\/a
 categories:

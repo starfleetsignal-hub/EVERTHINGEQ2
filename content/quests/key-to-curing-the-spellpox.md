@@ -8,7 +8,7 @@ difficulty: Heroic
 zone: '[[The Sundered Frontier]]'
 timeline: '[[Mage Epic Weapon 2.0 Timeline]]'
 journal_category: Signature
-starts: Talk to [[Bellengere the Three (Sundered Frontier)|Bellengere the Three]] ( 1997, -299, 3362 )  in Paineel
+starts: Talk to [[Bellengere the Three (Sundered Frontier)|Bellengere the Three]] {{waypoint 1997, -299, 3362}}  in Paineel
 prerequisite: '[[Broadening One''s Arcane Horizons]]'
 next_quest: '[[Into the Maw]]'
 added_in: Kunark Ascending

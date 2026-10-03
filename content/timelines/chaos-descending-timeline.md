@@ -263,7 +263,7 @@ Cody / Arcane Tome Paper
 - {{waypoint 1406.48, 635.44, 48.62}} -- *[[Ancient Grove]], level just below the top of the huge pyramid*
 - {{waypoint 1271.07, 641.41, 181.18}} -- *4th level, SE corner of [[Sepulcher of the Twelve]]*
 - {{waypoint 1473.06, 785.05, -8.84}} -- *Top of [[Sepulcher of the Twelve]]*
-- (359, 122, 62)
+- {{waypoint 359, 122, 62}}
 
 ## [[Detroxxulous, the Plaguelands]] Quests
 

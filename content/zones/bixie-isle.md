@@ -23,7 +23,7 @@ source:
 
 ## Island Access
 
-- (-497, -60, -854), [[Ravasect Incursion Point]], [[Temple Grounds]]
+- {{waypoint -497, -60, -854}}, [[Ravasect Incursion Point]], [[Temple Grounds]]
 
 ## Monsters
 

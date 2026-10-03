@@ -28,5 +28,5 @@ expansion: Visions of Vetrovia
 expansion_source: source
 ---
 
-Merchant to spend at is Corpseolynne in Forlorn Gist at /waypoint -339 14 127
+Merchant to spend at is Corpseolynne in Forlorn Gist at {{waypoint -339, 14, 127}}
 <br>

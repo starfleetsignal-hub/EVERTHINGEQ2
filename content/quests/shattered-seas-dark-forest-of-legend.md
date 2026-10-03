@@ -8,7 +8,7 @@ difficulty: Heroic
 zone: '[[Phantom Sea]]'
 timeline: '[[Shattered Seas Timeline]]'
 journal_category: Signature
-starts: Speak to [[Murrar Shar (Phantom Sea)]] [[Murrar Shar]] (if Good aligned) or [[Tamm Gloryday]] (if Evil aligned) on the docks of Kithicor Island 1,350 25 1,190
+starts: Speak to [[Murrar Shar (Phantom Sea)]] [[Murrar Shar]] (if Good aligned) or [[Tamm Gloryday]] (if Evil aligned) on the docks of Kithicor Island {{waypoint 1350, 25, 1190}}
 prerequisite: '[[Shattered Seas: Dark Threats on Dshinn]]'
 next_quest: '[[Shattered Seas: Seeds of Malice]]'
 added_in: Altar of Malice

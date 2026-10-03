@@ -141,7 +141,7 @@ Travel up the mountain and enter the Bathezid's Watch fortress (west of the zone
 
 #### **Unlimited, Repeatable Writs**
 
-These writs are all given by [[Supply Sergeant Anuhadux]] at 1,175 203 1,430 and all grant **+750 faction** with Bathezid's per writ.
+These writs are all given by [[Supply Sergeant Anuhadux]] at {{waypoint 1175, 203, 1430}} and all grant **+750 faction** with Bathezid's per writ.
 
 - You will be crafting items for your trade's *subclass*. This means you will use tradsekill stations for each subclass, materials for each, and fuels for each. See the Tradeskill Supplies section below for details.
 - If you plan to do only these writs, it will take 27 of them to reach the requirement to begin the Artisan Epic quests.
@@ -157,7 +157,7 @@ These writs are all given by [[Supply Sergeant Anuhadux]] at 1,175 203 1,430 and
 
 #### **Daily Missions**
 
-See [[Assistant Volwon Zhi'dok]] at 1,185 204 1,427 for the daily quest. Each grants **+2,000 faction** per mission.
+See [[Assistant Volwon Zhi'dok]] at {{waypoint 1185, 204, 1427}} for the daily quest. Each grants **+2,000 faction** per mission.
 
 Technically, these are also unlimited, but can only be completed once per day.
 

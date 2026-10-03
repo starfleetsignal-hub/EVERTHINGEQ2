@@ -4,6 +4,7 @@ type: npc
 expansion: Planes of Prophecy
 race: Sphinx
 zone: '[[Plane of Magic]]'
+location: '{{waypoint -685.82, 124.35, -455.27}}'
 added_in: Planes of Prophecy
 categories:
 - NPC needing location

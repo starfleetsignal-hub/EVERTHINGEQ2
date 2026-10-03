@@ -40,7 +40,7 @@ source:
    - When you see the emote, *"Shiroth Avinox beats her wings to knock everyone back within 20 meters!"* move away to reduce damage.
    - Fighting in the rocks at {{waypoint -786.96, -13.19, 48.10}} is helpful in avoiding being knocked back and getting adds.
    - NOTE: If on the Signature quest, read **A Troubling Account** from your bags. This appears as a green sparkly once you have targeted a stonefallen dakota and killed it.
-1. Go through tunnel (-779,-15,-6) to portal at {{waypoint -684.54, -64.60, 97.34}}
+1. Go through tunnel {{waypoint -779, -15, -6}} to portal at {{waypoint -684.54, -64.60, 97.34}}
 1. Follow the first pattern on the floor (whatever colour that may be) until the named spawns. Beware, wrong pattern and you fall into the pit below. ![Flower pattern for The Haunting of Tualanan](images/Flower_pattern.png)
 1. [[The Haunting of Tualanan]] {{waypoint -217.14, 44.94, 343.70}}
    - Summons adds throughout the fight

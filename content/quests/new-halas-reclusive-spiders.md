@@ -35,7 +35,7 @@ source:
 
 ## Steps
 
-1. Kill 10 [[A carrion recluse|carrion recluse spiders]] in the [[Fens of Nathsar]] (-684, -109, 1471)
+1. Kill 10 [[A carrion recluse|carrion recluse spiders]] in the [[Fens of Nathsar]] {{waypoint -684, -109, 1471}}
 
 ## Rewards
 

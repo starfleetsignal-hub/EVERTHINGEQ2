@@ -62,7 +62,7 @@ source:
    - Complete the [[Skortch and Sniff]] questline from Skortch
 1. Speak to [[Adris Spiritshine]] and with [[Skortch]] to obtain the [[Kaborite Key]].
 1. Enter [[Blackhook Spiral: Fort Sunder (Solo)|Blackhook Spiral: Fort Sunder [Solo]]]
-1. Clear trash mobs until a purple message appears and gate switches can be clicked at ( 310, 178, -448 ).
+1. Clear trash mobs until a purple message appears and gate switches can be clicked at {{waypoint 310, 178, -448}}.
 1. Continue to clear mobs until the next gate can be opened.
 1. Click the gate switch at  {{waypoint 312, 177, -390}}
 1. Kill [[Argh the Anvil]] at {{waypoint 303, 179, -345}} Don't forget to collect your shiney.

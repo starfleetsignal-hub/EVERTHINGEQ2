@@ -30,7 +30,7 @@ source:
 
 ## Steps
 
-1. Kill 15 [[A necrofazed wilding|necrofazed wildlings]] or ![Necrofazed Wildling & Brute](images/Necrofazedmobs.png)[[A necrofazed brute|necrofazed brutes]]  around 333.83 108.86 83.67 68.25 0.00 0.00.
+1. Kill 15 [[A necrofazed wilding|necrofazed wildlings]] or ![Necrofazed Wildling & Brute](images/Necrofazedmobs.png)[[A necrofazed brute|necrofazed brutes]]  around {{waypoint 333.83, 108.86, 83.67}}.
 
 ## Rewards
 

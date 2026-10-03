@@ -39,7 +39,7 @@ source:
 
 ## Steps
 
-1. "Procure" supplies from the erudite caravan. The exit from the village is ramp running up the side of the surrounding valley (/waypoint -241, 0, 3211). Upon locating the caravan click the crate. {{waypoint 260, 225, 3683}}
+1. "Procure" supplies from the erudite caravan. The exit from the village is ramp running up the side of the surrounding valley {{waypoint -241, 0, 3211}}. Upon locating the caravan click the crate. {{waypoint 260, 225, 3683}}
 1. Return to [[Svyi Tu'usto]].
 
 ## Rewards

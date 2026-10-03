@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[The Commonlands]]'
 timeline: '[[Freeport Sabotage Quest Timeline]]'
 journal_category: Betrayal
-starts: The quest starts by speaking with Gil McMartin ( -923, -47, 13 )
+starts: The quest starts by speaking with Gil McMartin {{waypoint -923, -47, 13}}
 categories:
 - Betrayal Quests
 - Faction Quests
@@ -40,9 +40,9 @@ source:
 1. Take the South Freeport sewer grate to zone into Freeport {{waypoint -111, 1, 104}}
 1. Avoid guards as you make your way to The Militia Recruiting Center, a clickable trapdoor next to 2 Freedom Road {{waypoint -157, -35, 154}}.
 1. Once inside, do NOT move (unless the mobs are greyed out, if so ignore this step)! Hail the Freeport trooper at the counter from where you stand. Tell him 'Here you go' when he asks for a pass. The militia troopers will not aggro now so okay to enter the room.
-1. Take the door to the the north (or the left door way), ( 4, 0, -15 ) which leads to a bunk room.
-1. Behind the bookcases there is an even-level, single up arrow Militia Captain. He has a red flag over him. Right click and **HAIL** the Militia Captain. He will attack no matter which answer you give. Now run out of the room, make a left (U-turn) and run up the steps, to a clickable palm tree ( -6, 5, -24 )  training all the guards behind you (You don't need to kill the Militia Captain). Click on the palm tree and zone out to the front of the basement.
-1. Exit Freeport using either the marine bell by the docks, or the Thieves' Way, and return to [[Gil McMartin]] inside the tower at ( -923, -47, 13 ). If you die, you will automatically revive at the front gate in the Commonlands.
+1. Take the door to the the north (or the left door way), {{waypoint 4, 0, -15}} which leads to a bunk room.
+1. Behind the bookcases there is an even-level, single up arrow Militia Captain. He has a red flag over him. Right click and **HAIL** the Militia Captain. He will attack no matter which answer you give. Now run out of the room, make a left (U-turn) and run up the steps, to a clickable palm tree {{waypoint -6, 5, -24}}  training all the guards behind you (You don't need to kill the Militia Captain). Click on the palm tree and zone out to the front of the basement.
+1. Exit Freeport using either the marine bell by the docks, or the Thieves' Way, and return to [[Gil McMartin]] inside the tower at {{waypoint -923, -47, 13}}. If you die, you will automatically revive at the front gate in the Commonlands.
 
 If you do inadvertently aggro the mobs in the zone and they kill you, you will respawn outside the door. You can zone in, run up to the roof where the tree is, and click on it to complete the quest (providing you have already talked to the Militia captain.)
 

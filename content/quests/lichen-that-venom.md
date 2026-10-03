@@ -35,7 +35,7 @@ source:
 
 ## Steps
 
-1. Kill 10 [[Limestone arachnid|limestone arachnids]] in [[Limestone Forest]] for venom near 456.81 137.97 46.08 245.32 0.00 0.00(previously an uncommon update).
+1. Kill 10 [[Limestone arachnid|limestone arachnids]] in [[Limestone Forest]] for venom near {{waypoint 456.81, 137.97, 46.08}}(previously an uncommon update).
 1. Speak to [[Avelley Perryn]].
 
 ## Rewards

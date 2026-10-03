@@ -56,7 +56,7 @@ Because these must be crafted in [[Twark]], and the required [[Abyssal pelt|Abys
 1. I can gather chokidai droppings near the small iksar bandit encampment across the river to the southwest
    - Gather [[Chokidai droppings]] (4)
      - These can be found in the area around Warslik Wood near {{waypoint 408, -203, -176}}
-1. I should be able to use a goblin workbench to bag the fertilizer ( 72, -164, -722 )
+1. I should be able to use a goblin workbench to bag the fertilizer {{waypoint 72, -164, -722}}
    - Mix and bag the fertilizer (4)
 1. Lyraquel can be found in [[Nye'Caelona]]
    - Deliver the [[Twark special fertilizer|bags of fertilizer]] to [[Elder Lyraquel|Lyraquel]] {{waypoint -204, 91, -209}}

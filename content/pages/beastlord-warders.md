@@ -86,7 +86,7 @@ You can see the warder bar in your Char window under Warders
   - Need "Tame Insect Warder" ability (Quest in Feerot by Wizard Spires -108, 14, 168)
   - Locations
 - Reptile: chokidai, lizards
-  - Locations: Antonica (around -40, -20, -633)
+  - Locations: Antonica (around {{waypoint -40, -20, -633}})
 - Rodent: rats, armadillos, beavers, badgers
   - Locations: Antonica
 

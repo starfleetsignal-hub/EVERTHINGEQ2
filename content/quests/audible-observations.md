@@ -37,10 +37,10 @@ expansion_source: patch
 ![One of the benches where you place a monitor.](images/Audible_Observations.png)
 
 1. Place all of the [[Runic Monitor (Eye of El'Arad)|runic monitors]] at [[The Eye of El'Arad]].
-   - First location is -1,047 737 -381 left side as you enter is a Bench
-   - Second location is -1,115 737 -416 right side as you enter is a Bench
-   - Third location is -1,072 740 -450 left side of small horse-shoe shaped ramp
-   - Fourth location is -1,096 740 -453 right side of small horse-shoe shaped ramp
+   - First location is {{waypoint -1047, 737, -381}} left side as you enter is a Bench
+   - Second location is {{waypoint -1115, 737, -416}} right side as you enter is a Bench
+   - Third location is {{waypoint -1072, 740, -450}} left side of small horse-shoe shaped ramp
+   - Fourth location is {{waypoint -1096, 740, -453}} right side of small horse-shoe shaped ramp
 1. Return to [[Lochanya]].
 
 *(As of December 2012, the blue map markers given for this quest are incorrect and refer to a previous quest [[Intelligence Monitoring]] at the Erudin Gardens)*

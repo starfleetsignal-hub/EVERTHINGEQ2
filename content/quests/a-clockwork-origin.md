@@ -36,11 +36,11 @@ expansion_source: patch
    - necrotik bots are grouped with a necromechanist (non-aggro, even level) and are found all around zone.
 1. Gather 6 canisters of necro conducting protein strands
    - these appear as small battery cells with glowing green sparkle effects, found at:
-   - /waypoint 30.53, 3.47, 33.68
-   - /waypoint 34.96,2.92,19.63
-   - /waypoint 4.42,2.92,34.35
-   - /waypoint 13.19,3.00,67.91
-   - /waypoint 62.19,3.00,60.19
+   - {{waypoint 30.53, 3.47, 33.68}}
+   - {{waypoint 34.96, 2.92, 19.63}}
+   - {{waypoint 4.42, 2.92, 34.35}}
+   - {{waypoint 13.19, 3.00, 67.91}}
+   - {{waypoint 62.19, 3.00, 60.19}}
    - /waypoint 39.16,3.04,56.98
 1. Return to Professor Flimflam
 

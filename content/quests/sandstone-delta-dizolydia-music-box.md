@@ -47,7 +47,7 @@ source:
 1. I need to find the Dizolydia Music Box key elsewhere.
 1. Go to [[Raj'Dur Plateaus]].
 1. Find the Dizolydia Music Box key clue from [[A bluefin manta|bluefin manta]] around {{waypoint 632, -54, 197}} in [[Raj'Dur Plateaus]] in the [[Sea of Sand (Raj'Dur Plateaus)|Sea of Sand]].
-   - (I found a lot of Bluefin Manta around ( 750, -62, 583 ).
+   - (I found a lot of Bluefin Manta around {{waypoint 750, -62, 583}}.
 1. Examine the clue to receive the quest [[The Dizolydia Music Box Key]].
 1. Finish the subquest and return to the **Dizolydia Music Box** in [[Sandstone Delta]].
 

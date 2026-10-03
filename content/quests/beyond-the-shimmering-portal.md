@@ -37,11 +37,11 @@ source:
 1. Go West to Planar Perspective. Kill trash to spawn Eldrig. You must attack her to make the idols clickable.
    - Move each idol to a pedestal. The idol must emote that it is satisfied with this position. Keep moving the idol until its sits on the pedestal it is happy with.
    - Once all idols are placed, you can now finish killing the named.
-   - Take the shard (The blue glowing triangle) and place it on a pedestal back in the main room. ( -47, 15, 141 ) or  ( 8, 15, 140 )
+   - Take the shard (The blue glowing triangle) and place it on a pedestal back in the main room. {{waypoint -47, 15, 141}} or  {{waypoint 8, 15, 140}}
 1. Go to the East room. Kill the trash and take the **Feather** from the hawk sitting on the crate.
    - Go through one of the doors in this room to the arena. Kill the trash to spawn The Master's Reflection. Talk to him. Then kill him, paying attention to the mobs that spawn on the different colored disk in the room.
-   - Once he is dead, talk to Camylle in the same room ( -108, 15, 136 ) and she will give you **a lock of hair**.
-   - Go through one of the doors and move the shard (Blue triangle thingy) to a pedestal in the main room. ( -47, 15, 141 ) or  ( 8, 15, 140 )
+   - Once he is dead, talk to Camylle in the same room {{waypoint -108, 15, 136}} and she will give you **a lock of hair**.
+   - Go through one of the doors and move the shard (Blue triangle thingy) to a pedestal in the main room. {{waypoint -47, 15, 141}} or  {{waypoint 8, 15, 140}}
    - (A giant block of ice begins to crack).
    - Kill Spikeberg.  After he is dead, a spiral staircase made of ice will rise from the room.
 1. Go up the stars and at the top, kill Brubunk for the last item, the Ice Spike. (Seems to be a **chip of ivory** on the body, not an Ice Spike)
@@ -79,7 +79,7 @@ source:
       1. He will emote that he is receiving power from two of the summoned remnants.  Three remnants will spawn on the summoning pads.  Kill the two he's gaining power from to make the Master's Reflection damageable again.  If you kill the third one (the one he's not gaining power from), it will tell you the remnant is not the correct remnant enhancing the Master's Reflection's powers.
       1. Pay attention to the color of the emotes and the aura that appears around the Master's Reflection. Kill the remnants on the two color pads that create that color: red and yellow pads when orange, yellow and blue pads when green, and red and blue pads when purple/violet.
 
-7. Speak with Camylle (near the entrance of the Ampitheater).  ( -107, 15, 137 )  She gives you a [[Lock of hair]].
+7. Speak with Camylle (near the entrance of the Ampitheater).  {{waypoint -107, 15, 137}}  She gives you a [[Lock of hair]].
 
 8. In hopes of saving Solvag, I must assemble [[Ehayae's Song]].
 

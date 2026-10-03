@@ -38,15 +38,15 @@ source:
 <li>Harvest 9 tupta treasures in the swamp<br>
 Jump down the waterfall at the end of the watercourse (or take the balloon to Tupta Beach) and all the treasures are down on the beach and several are in the water, zoom in to see.
 
-- -8 -1,123 766 (in the water)
-- 80 -1,103 604
-- 154 -1,103 596
-- 185 -1,103 598
-- 103 -1,092 786
-- 73 -1,091 754
-- 75 -1,091 741
-- 59 -1,091 741
-- 98 -1,092 687
+- {{waypoint -8, -1123, 766}} (in the water)
+- {{waypoint 80, -1103, 604}}
+- {{waypoint 154, -1103, 596}}
+- {{waypoint 185, -1103, 598}}
+- {{waypoint 103, -1092, 786}}
+- {{waypoint 73, -1091, 754}}
+- {{waypoint 75, -1091, 741}}
+- {{waypoint 59, -1091, 741}}
+- {{waypoint 98, -1092, 687}}
 - Note: 9/19/25 = found the items on the beach
 
 <li> Return to [[Sipbip]]<br>

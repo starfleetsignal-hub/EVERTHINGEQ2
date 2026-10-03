@@ -33,7 +33,7 @@ expansion_source: patch
 ## Steps
 
 1. Travel to [[The Commonlands]] and zone into [[The City of Freeport]].
-1. Talk to [[Matthias Siegemaker]] ( -82, -7, -183 ) in the back room of the [[Temple of War]].
+1. Talk to [[Matthias Siegemaker]] {{waypoint -82, -7, -183}} in the back room of the [[Temple of War]].
 
 ## Reward
 

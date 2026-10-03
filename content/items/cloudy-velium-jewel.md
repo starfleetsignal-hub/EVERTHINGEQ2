@@ -36,4 +36,4 @@ As per March 8, 2012 update Cloudy Velium Jewels are heirloom.
 
 - The City of Thurgadin Relic Seeker: [[Gargan]]
 - Snowfang Relic Seeker [[Herrga]] in the Snowfang Gnoll camp  {{waypoint -902.24, -522.44, -2084.66}}
-- Othmir Relic Seeker: [[Topi]] -1347, -534, -2140
+- Othmir Relic Seeker: [[Topi]] {{waypoint -1347, -534, -2140}}

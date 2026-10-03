@@ -3,7 +3,7 @@ title: Bizarre Bank & Loan
 type: poi
 expansion: Blood of Luclin
 zone: '[[Fordel Midst: Bizarre Bazaar (Solo)]], [[Fordel Midst: Bizarre Bazaar (Heroic)]]'
-location: Enclave across from the zone entrance is, where [[Financier Fendilix]] is located
+location: Enclave across from the zone entrance is, where [[Financier Fendilix]] is located {{waypoint -287, 0.47, 49}}
 discovery_xp: y
 added_in: Blood of Luclin
 categories:

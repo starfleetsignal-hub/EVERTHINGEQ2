@@ -45,7 +45,7 @@ source:
 
 1. Harvest five dragon bone parts in [[The Bonemire]], which only spawn if the player is on this step of the quest. They are trackable, spawn in the general area of these locations, and have a short (1-3 minute) respawn timer. **NOTE:** Bones do not necessarily respawn in the same location as collected by a group mate.  Tracking is important here. ![](images/A_pile_of_dragon_bones.jpg)
    - **Dragon Bone Wings** - [[Shattered Weir (POI)|Shattered Weir]]: {{waypoint -747, -439, 392}}, {{waypoint -624, -450, 415}}, {{waypoint -738, -450, 349}}, {{waypoint -757, -439, 388}}
-   - **Dragon Limbs** - [[Drednever Crash Site (POI)|Southern Island]] (Drednever Crash Site): {{waypoint 192, 62, 799}}, {{waypoint 333, 59, 764}}, {{waypoint 180, 63, 785}}, {{waypoint 334, 54, 706}}.  Also found at 214.57, 67.39, 769.61
+   - **Dragon Limbs** - [[Drednever Crash Site (POI)|Southern Island]] (Drednever Crash Site): {{waypoint 192, 62, 799}}, {{waypoint 333, 59, 764}}, {{waypoint 180, 63, 785}}, {{waypoint 334, 54, 706}}.  Also found at {{waypoint 214.57, 67.39, 769.61}}
    - **Dragon Skull** - [[Isle of the Ravasect (POI)|Isle of the Ravasect]]: {{waypoint 947, -106, 171}}, {{waypoint 855, -110, 187}}, {{waypoint 883, -103, 156}}, {{waypoint 918, -118, 284}}, {{waypoint 847, -113, 289}}, {{waypoint 959, -111, 332}}
    - **Dragon Bone Tail** - [[Cacotoxic Stain]]: {{waypoint 411, 198, -618}}, {{waypoint 424, 198, -637}}, {{waypoint 418, 199, -491}}, {{waypoint 359, 200, -552}}
    - **Dragon Ribs** - [[Remnants of Xoch]], part of the central island (Halls of Fate): {{waypoint 239, -355, 11}} , {{waypoint 239, -355, -27}}

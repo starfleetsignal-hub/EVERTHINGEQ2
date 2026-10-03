@@ -407,7 +407,7 @@ To hire an Ancient Mercenary, you must complete the following requirement:
 - Have completed [[To Speak as a Dragon]] quest.
 - In order to get the key that will unlock the mercenaries, you need to defeat Dozekar in the quest [[Revelations in the Temple]], which is the final quest in a series that begins in [[Skyshrine: The City of Dracur]].
 
-Speak to [[Hazhem]] {{waypoint 10.33, 1.36, -12.49}} to begin the Revelations in the Temple. After you kill Dozekar, turn in your quest to receive the key. Return to the starting zone in Skyshrine and use the portal to [[Skyshrine: The Forbidden City of Dracur]] (-29.59, -0.41, -7.17). In one of three zones there you will find and be able to unlock your mercenary.
+Speak to [[Hazhem]] {{waypoint 10.33, 1.36, -12.49}} to begin the Revelations in the Temple. After you kill Dozekar, turn in your quest to receive the key. Return to the starting zone in Skyshrine and use the portal to [[Skyshrine: The Forbidden City of Dracur]] {{waypoint -29.59, -0.41, -7.17}}. In one of three zones there you will find and be able to unlock your mercenary.
 
 *See the [[Mercenaries]] page for specific names and for links to each merc's specific location, abilities, and appearance.*
 

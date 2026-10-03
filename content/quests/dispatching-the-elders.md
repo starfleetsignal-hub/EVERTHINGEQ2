@@ -34,7 +34,7 @@ expansion_source: patch
 
 ## Steps
 
-1. kill 12 [[An elder holgresh|elder holgreshes]] in the cave at {{waypoint -1181, -604, -787}} [edit - cave entrance found at -1233.97, -557.74, -1090.6]
+1. kill 12 [[An elder holgresh|elder holgreshes]] in the cave at {{waypoint -1181, -604, -787}} [edit - cave entrance found at {{waypoint -1233.97, -557.74, -1090.6}}]
 1. Return to Lieutenant Washburn
 
 ## Rewards

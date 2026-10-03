@@ -18,6 +18,6 @@ Found in the Obulus Frontier.
 
 Locs:
 
-On the beach there are two at /way -335.89 -240.27 -874.86
+On the beach there are two at {{waypoint -335.89, -240.27, -874.86}}
 
-Several on the ruins and on the beach at /way 13.25 -242.30 -873.59
+Several on the ruins and on the beach at {{waypoint 13.25, -242.30, -873.59}}

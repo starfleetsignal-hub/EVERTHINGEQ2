@@ -84,7 +84,7 @@ Outside (or near) each instance is an NPC who will offer a mission to each of th
 
 ## Solo Mission
 
-When 90, a soloable Mark of Manaar mission is available from Elder Shahib Zaim, (Retired General of the Fell Blade) 1,825.3 -298.99 3444.61, in the [[Hall of the Fell Blade]]
+When 90, a soloable Mark of Manaar mission is available from Elder Shahib Zaim, (Retired General of the Fell Blade) {{waypoint 1825.3, -298.99, 3444.61}}, in the [[Hall of the Fell Blade]]
 
 - [[Mending a Broken Land]]
   - [[The Never Ending Mending of a Broken Land]]

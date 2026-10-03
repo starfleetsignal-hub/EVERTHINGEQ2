@@ -38,4 +38,4 @@ There are two versions in adjoining rooms:
 1. Gnawbone at loc above
 1. Gnawbone's Shade at about {{waypoint -71, -132, -21}}
 
-Drops loot, Mob will spawn in 2 places, one will drop loot the other location will only update quest. **(waypoint -71.01, -132.19, -21.18) Quest update only**
+Drops loot, Mob will spawn in 2 places, one will drop loot the other location will only update quest. **{{waypoint -71.01, -132.19, -21.18}} Quest update only**

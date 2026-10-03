@@ -31,7 +31,7 @@ I ask you to bathe in the blood of your enemies. I want you to crush them and se
 
 Speak with [[Tychus Zeksworn]] in [[Butcherblock Mountains]]. {{waypoint 338, 189, 399}}
 
-- Tychus is at -555.8, 153.05, -513.14 on Origins
+- Tychus is at {{waypoint -555.8, 153.05, -513.14}} on Origins
 1. **[20]** [[For the Glory of Rallos!]]
 1. **[30]** [[Proof in Strength]]
 1. **[50]** [[Flesh and Steel]]

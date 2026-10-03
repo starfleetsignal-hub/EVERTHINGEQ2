@@ -6,7 +6,7 @@ purpose: Mercenary
 race: Urzarach
 class: Berserker
 zone: '[[Tranquil Sea]]'
-location: Can be unlocked with a rare token that drops from the last boss in the Heroic instances. Hire at Death Weave Isle ( 909, 43, -972 ) in Tranquil Sea.
+location: Can be unlocked with a rare token that drops from the last boss in the Heroic instances. Hire at Death Weave Isle {{waypoint 909, 43, -972}} in Tranquil Sea.
 added_in: Altar of Malice
 categories:
 - Altar of Malice NPCs

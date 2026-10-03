@@ -35,7 +35,7 @@ source:
 ## Steps
 
 1. [[Fethar Lothki]] will randomly offer you one of the following tasks:
-   - Destroy Rujarkian Braziers in [[The Clefts of Rujark]] - Destroy 10 Rujarkian braziers in [[Negotiating room]] ( around location : -141.28, 17.22, 7.43  ).
+   - Destroy Rujarkian Braziers in [[The Clefts of Rujark]] - Destroy 10 Rujarkian braziers in [[Negotiating room]] ( around location : {{waypoint -141.28, 17.22, 7.43}}  ).
    - Slay spiritbound mystics in [[The Clefts of Rujark]] - third floor by [[Far Seer Vokkal]].
    - Destroy the Spiritbound apothecaries - 2nd floor by entrance to Vault of Dust
    - Destroy Rin'Dal basins in [[The Living Tombs]].

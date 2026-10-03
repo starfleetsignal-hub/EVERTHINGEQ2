@@ -8,7 +8,7 @@ difficulty: Heroic
 zone: '[[The Hole]]'
 timeline: '[[The Hole Timeline]]'
 journal_category: The Hole
-starts: Speak to [[Belessunu]] (-100, 29, -58) in the Caertaxian Legion area of The Hole.
+starts: Speak to [[Belessunu]] {{waypoint -100, 29, -58}} in the Caertaxian Legion area of The Hole.
 prerequisite: '[[Haute Cuisine, Roekillik Style]]'
 added_in: Sentinel's Fate
 achievement_xp: true

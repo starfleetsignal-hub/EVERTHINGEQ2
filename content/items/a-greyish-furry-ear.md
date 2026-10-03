@@ -24,6 +24,6 @@ expansion: Reign of Shadows
 expansion_source: source
 ---
 
-/waypoint 240.50, 157.79, 442.12
+{{waypoint 240.50, 157.79, 442.12}}
 
 From Chloro-Fly in EC

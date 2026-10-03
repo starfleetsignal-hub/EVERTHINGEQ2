@@ -60,8 +60,8 @@ The [[Crusader's Cave]] connects to two zones that can be used while working on 
 
 At the far end of the cave, a tunnel splits in two directions to access the following:
 
-- [[Jarsath Wastes]] - zone-in point at 826 262 1,244, which is useful for the [[The Gardens Are In Bloom]] quest when traveling to [[Danak Shipyards]].
-- [[Kylong Plains]] - zone-in point at 809 247 1,357
+- [[Jarsath Wastes]] - zone-in point at {{waypoint 826, 262, 1244}}, which is useful for the [[The Gardens Are In Bloom]] quest when traveling to [[Danak Shipyards]].
+- [[Kylong Plains]] - zone-in point at {{waypoint 809, 247, 1357}}
 
 ### Dungeons
 
@@ -76,8 +76,8 @@ At the far end of the cave, a tunnel splits in two directions to access the foll
 
 | Zone Name | Level Range | Direction | Access |
 |---|---|---|---|
-| [[Jarsath Wastes]] | 70-80 | Via the [[Crusader's Cave]] | zone-in point at 826 262 1,244 |
-| [[Kylong Plains]] | 70-80 | Via the [[Crusader's Cave]] | zone-in point at 809 247 1,357<br> |
+| [[Jarsath Wastes]] | 70-80 | Via the [[Crusader's Cave]] | zone-in point at {{waypoint 826, 262, 1244}} |
+| [[Kylong Plains]] | 70-80 | Via the [[Crusader's Cave]] | zone-in point at {{waypoint 809, 247, 1357}}<br> |
 
 ### Revive Locations
 

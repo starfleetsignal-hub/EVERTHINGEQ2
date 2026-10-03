@@ -46,7 +46,7 @@ source:
    - dried river mud {{waypoint 337, -20, 148}}
    - torn page {{waypoint 239, -21, -52}}
 1. Speak with [[Tuilla Laarivera]] at [[The Fae Court]]. {{waypoint -267, -56, 405}}
-1. Enter the [[The Hidden Grotto]] {{waypoint -4, -57, 224}} and speak with [[Esthella Evenheart]]. 69, -94 327.
+1. Enter the [[The Hidden Grotto]] {{waypoint -4, -57, 224}} and speak with [[Esthella Evenheart]]. {{waypoint 69, -94, 327}}.
 1. Return to [[Kurista (Greater Faydark)|Kurista, High Priestess of Growth]].
 
 ## Rewards

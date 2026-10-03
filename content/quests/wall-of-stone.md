@@ -31,7 +31,7 @@ source:
 
 ## Steps
 
-Kill [[Demented fiend|demented fiends]] in [[Nektulos Forest]]. These are located around -1354, 112, -1758 (around Nek Castle grounds)
+Kill [[Demented fiend|demented fiends]] in [[Nektulos Forest]]. These are located around {{waypoint -1354, 112, -1758}} (around Nek Castle grounds)
 
 ## Rewards
 

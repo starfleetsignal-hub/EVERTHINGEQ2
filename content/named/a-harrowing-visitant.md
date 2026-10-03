@@ -37,7 +37,7 @@ source:
 
 ## Notes
 
-The entrance to the cave is on the other side of the hill/wall to the west of Palinpol at -59.32, 201.97, -58.16
+The entrance to the cave is on the other side of the hill/wall to the west of Palinpol at {{waypoint -59.32, 201.97, -58.16}}
 
 His Primary Magic (Zap) damage is anywhere from 22,000 - 25,000 per hit.
 

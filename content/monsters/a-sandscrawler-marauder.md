@@ -47,4 +47,4 @@ Shares its spawn point with [[A Sandscrawler diabolist]], [[A Sandscrawler marau
 
 ## Notes
 
-These can be found on top of the [[Scrawling Cliffs]].  A path to the top of the cliffs can be found at 441, -81, -881.
+These can be found on top of the [[Scrawling Cliffs]].  A path to the top of the cliffs can be found at {{waypoint 441, -81, -881}}

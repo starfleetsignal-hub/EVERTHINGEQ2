@@ -34,7 +34,7 @@ source:
 ## Steps
 
 1. Speak with [[Pitmaster Shar'rik]] About the leather scap.
-1. Speak with [[Cincia Gelt]] about the leather scrap. 1314 17 2,294 on Kerra Island, Sundered Frontier.
+1. Speak with [[Cincia Gelt]] about the leather scrap. {{waypoint 1314, 17, 2294}} on Kerra Island, Sundered Frontier.
 1. Cincia instructs you to throw the scalp into a fire found in the middle of the village. {{waypoint 1322, 45, 2134}}
 1. Talk to the ghost of [[Telloc Thaar]].
 1. Telloc requires you to take the claws of the largest tiger on [[Kerra Isle]].

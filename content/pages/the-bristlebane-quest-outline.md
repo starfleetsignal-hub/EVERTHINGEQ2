@@ -26,12 +26,12 @@ If you are any other phase of the quest series or working on the quest, [[Rescui
 
 ### Evil-aligned
 
-- [[The Commonlands]] Near the ruined towers west of the West Freeport gate ( -1104, -59, 55 )
+- [[The Commonlands]] Near the ruined towers west of the West Freeport gate {{waypoint -1104, -59, 55}}
 - [[Darklight Wood]] - immediately outside the gate for [[Neriak]]
-- [[Timorous Deep]] -Gorowyn Beach ( 2336, 20, 947 )
+- [[Timorous Deep]] -Gorowyn Beach {{waypoint 2336, 20, 947}}
 
 ### Good-aligned
 
-- [[Antonica]] not far from the gate for [[Qeynos Capitol District]] at ( 280, -14, 396 )
-- [[Greater Faydark]] Near the Green Knoll entrance to Kelethin ( 563, 44, 24 )
-- [[Frostfang Sea]] - speak to [[Garple Gigglegibber]] on the Erollis Dock at  ( -374, 31, 164 ), who gives you the quest [[Blat Bound]].
+- [[Antonica]] not far from the gate for [[Qeynos Capitol District]] at {{waypoint 280, -14, 396}}
+- [[Greater Faydark]] Near the Green Knoll entrance to Kelethin {{waypoint 563, 44, 24}}
+- [[Frostfang Sea]] - speak to [[Garple Gigglegibber]] on the Erollis Dock at  {{waypoint -374, 31, 164}}, who gives you the quest [[Blat Bound]].

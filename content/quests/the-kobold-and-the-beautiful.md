@@ -31,7 +31,7 @@ source:
 ## Steps
 
 1. Slay 12 kobolds in [[Butcherblock Mountains]]
-   - Seems any kobold will update the quest ([[A Yarpsnarl ravager]], [[A Yarpsnarl lookout]], etc...) Location: (297.74,186.21,508.31)
+   - Seems any kobold will update the quest ([[A Yarpsnarl ravager]], [[A Yarpsnarl lookout]], etc...) Location: {{waypoint 297.74, 186.21, 508.31}}
 1. Return to [[Brulten Hiltstill]]
 
 ## Rewards

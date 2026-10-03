@@ -24,4 +24,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-After signing the mercenary contract, this mercenary can be found at -11.95, 128.76, 749.42 in Wracklands.
+After signing the mercenary contract, this mercenary can be found at {{waypoint -11.95, 128.76, 749.42}} in Wracklands.

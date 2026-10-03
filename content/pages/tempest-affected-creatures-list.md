@@ -101,15 +101,15 @@ source:
 
 **[[Enchanted Lands]]**
 
-- West of [[Bramblefoot Hills]] -271 29, -964 (a tempest touched darkflight fairy)
+- West of [[Bramblefoot Hills]] {{waypoint -271, 29, -964}} (a tempest touched darkflight fairy)
 - Near [[Rivervale]] {{waypoint -147, 7, -195}}
 
 <br>
 
 **[[Lavastorm]]**
 
-- Near [[Fennin's Pass]] -504 -118, 369 (a tempest touched goblin) (an Arcane Science appentice)
-- Near Banner of Flame -754 -111, 318 (a tempest touched ???)
+- Near [[Fennin's Pass]] {{waypoint -504, -118, 369}} (a tempest touched goblin) (an Arcane Science appentice)
+- Near Banner of Flame {{waypoint -754, -111, 318}} (a tempest touched ???)
 
 <br>
 

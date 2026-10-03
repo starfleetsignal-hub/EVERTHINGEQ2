@@ -33,7 +33,7 @@ source:
 
 1. [[Zaag the Unburied]] {{waypoint -310, 105, -629}}
    - Teleports to adds. Chase him down, then tank and spank.Tip: clear all the adds leading up to this fight so the adds will not join.
-   - note: if on [[Visions of Vetrovia: Evil Dedraka]]  quest, click the corruption that spawns behind him after he is dead, at ( -293, 105, -614 ).
+   - note: if on [[Visions of Vetrovia: Evil Dedraka]]  quest, click the corruption that spawns behind him after he is dead, at {{waypoint -293, 105, -614}}.
    - note: Not 100% sure on this, but as a caster, I had to get up close and personal for him to take any damage,
 1. [[Scarfeather]] Epic X3 {{waypoint -415, 115, -422}}
    - Has increments. To increase damage to him, pull Scarfeather to the bubbles in front of [[A grazing ceredon]] or he'll seem to be impervious - pulling him out of the water he doesn't take any damage. Note: need to approach the front of the ceredon or they may not knock him down.
@@ -51,7 +51,7 @@ source:
    - Drag them down the hill: They have a buff next to the corruption.
    - Kill the non-elders twice to weaken the elder. Then kill the elder twice
    - Note: if on [[Visions of Vetrovia: Evil Dedraka]]  quest, click the corruption stone that is at their spawnpoint {{waypoint -647, 118, 126}} once they are dead.
-   - Speak to Vaziri who spawns at ( -645, 117, 112 ) .
+   - Speak to Vaziri who spawns at {{waypoint -645, 117, 112}} .
 
 ## Credits
 

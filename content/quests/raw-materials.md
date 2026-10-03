@@ -30,7 +30,7 @@ source:
 
 ## Steps
 
-1. Collect 20 trinkets from the Allu'thoa.  These are Small Chest drops from the Allu'thoa around the [[Lobha Peaks]] -1,248 128 -504.  You may get more than one trinket per chest, or no chest at all.
+1. Collect 20 trinkets from the Allu'thoa.  These are Small Chest drops from the Allu'thoa around the [[Lobha Peaks]] {{waypoint -1248, 128, -504}}.  You may get more than one trinket per chest, or no chest at all.
    - Trinkets may include:
      - [[A twisted necklace]]
      - [[A flaming obsidian axe]]

@@ -35,7 +35,7 @@ expansion_source: patch
 ## Steps
 
 1. Steal the militia's shift schedule from a bulletin board {{waypoint 150, -7, 139}} on the second floor of [[The Freeport Militia House]] in [[West Freeport]] at night or a guard will spawn and attack you.
-1. Exchange the schedule for a forged one from [[Juturna Postumus]] in [[Long Shadow Alley]] {{waypoint -114, -16, 291}} or ( -44, -3, -37 )
+1. Exchange the schedule for a forged one from [[Juturna Postumus]] in [[Long Shadow Alley]] {{waypoint -114, -16, 291}} or {{waypoint -44, -3, -37}}
 1. Go back to the Militia House in West Freeport to exchange the real schedule with the forged one but remember that a guard will spawn if you attempt it during the day.
 1. Return to [[Mehina]] to complete this quest.
 1. Return to [[Izzay Meestere]] in [[West Freeport]] for the next quest.

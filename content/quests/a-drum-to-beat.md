@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[Great Divide]]'
 timeline: '[[Great Divide Timeline]]'
 journal_category: Great Divide
-starts: Speak with [[Zalyn D'Kilneld]] at ( -113, -336, -28 ).
+starts: Speak with [[Zalyn D'Kilneld]] at {{waypoint -113, -336, -28}}.
 prerequisite: '[[Abducting the Abductors]]'
 next_quest: '[[Tizmak Targets]]'
 added_in: Destiny of Velious

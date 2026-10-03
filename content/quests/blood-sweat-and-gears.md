@@ -84,7 +84,7 @@ source:
    - [[The Clockwork Collector|The Clockwork Collector's]] former location {{waypoint 43, 4, -25}}
    - [[Enerjaws|Enerjaws']] former location {{waypoint 26, 13, -243}} (from this location jump down to the next location)
    - [[Bzzzzt Bzzap|Bzzzzt Bzzap's]] former location {{waypoint 26, 3, -274}}
-   - Just before door on way to Rhino at 59 4 -127.
+   - Just before door on way to Rhino at {{waypoint 59, 4, -127}}
 1. Kill [[Cogsteady Rhinocticus]] at {{waypoint 120, 3, -139}} (When it becomes invulnerable and starts to charge you, lead it into the electrified gears.)
 1. Talk to Boegie at {{waypoint 84, 3, -126}}
 

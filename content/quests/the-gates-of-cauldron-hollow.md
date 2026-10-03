@@ -47,7 +47,7 @@ source:
 1. Return to [[Arqis]] in Nektulos Forest {{waypoint -283, 0, 172}}.
 1. Speak with a fairy named [[Dalninia]] on the island in the Torrent River in [[Nektulos Forest]] {{waypoint -198, 0, -343}}.
 1. Get [[Dalninia]] to help you by proving yourself to [[Queen Thayilia]], queen of the Asilian fairies in the [[Nektulos Forest]] {{waypoint -499, 2, -292}}.
-1. [[Queen Thayilia]] ( -481, 4, -303) will ask you to slay [[Queen Dyleena]] (Level 29^), ruler of the rival Sullian faeries, found near Bone Lake {{waypoint -742, 145, -2199}}.
+1. [[Queen Thayilia]] {{waypoint -481, 4, -303}} will ask you to slay [[Queen Dyleena]] (Level 29^), ruler of the rival Sullian faeries, found near Bone Lake {{waypoint -742, 145, -2199}}.
    - ***Note:** Attacking [[Queen Dyleena]]  will summon multiple [[Sullian Royal Defenders]] (Level 28) to her aid.  The defenders are not linked to Queen Dyleena, and do not have to be killed for this quest.*
 1. Return to [[Queen Thayilia]] to let her know that [[Queen Dyleena]] has been dealt with.
 1. Now, with [[Queen Thayilia]]'s alliance return to [[Dalninia]].

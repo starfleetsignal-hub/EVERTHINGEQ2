@@ -42,6 +42,6 @@ source:
 
 ## Steps
 
-1. Speak to [[Anders Blackhammer]] -522,-44,300 uid1148 at [[The Crossroads]]. He is used in several quests, so you might have to wait for him to respawn.
+1. Speak to [[Anders Blackhammer]] {{waypoint -522, -44, 300}} at [[The Crossroads]]. He is used in several quests, so you might have to wait for him to respawn.
 1. Hail him for quest update, Anders will attack you. You do *not* have to fight him as he will probably kill you!  You can complete the quest even if you cannot defeat Anders. (He is level 20.)  Hail and run.
 1. Return to [[Brandus Levine|Brandus]] for the next quest.

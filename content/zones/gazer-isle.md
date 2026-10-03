@@ -23,7 +23,7 @@ source:
 
 ## Island Access
 
-- (750, 460, -108): [[Temple Grounds]], [[Fear Tainted Isle]], [[Ravasect Incursion Point]]
+- {{waypoint 750, 460, -108}}: [[Temple Grounds]], [[Fear Tainted Isle]], [[Ravasect Incursion Point]]
 
 ## NPCs
 

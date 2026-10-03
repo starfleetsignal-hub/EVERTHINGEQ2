@@ -67,7 +67,7 @@ This quest starts in **[[Sebilis]].
 
 ## [[A Sleeping Stone: The Stone Awakens]]
 
-1. Shul'da will send you to speak to [[Hollen the Runesage]] ( 1973, 488, -709 ) in [[Teren's Grasp]], [[Kylong Plains]].
+1. Shul'da will send you to speak to [[Hollen the Runesage]] {{waypoint 1973, 488, -709}} in [[Teren's Grasp]], [[Kylong Plains]].
 
 ## [[A Sleeping Stone: Old Man Across the Sea]]
 

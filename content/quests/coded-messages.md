@@ -33,7 +33,7 @@ source:
 
 ## Steps
 
-1. I must collect 20 Official Erudin Research Halls Cypher Bands.  (to reach the Erudin Research Halls, zone in at -557, 530, -150)
+1. I must collect 20 Official Erudin Research Halls Cypher Bands.  (to reach the Erudin Research Halls, zone in at {{waypoint -557, 530, -150}})
 1. Return the rings to Hatim
 
 ## Rewards

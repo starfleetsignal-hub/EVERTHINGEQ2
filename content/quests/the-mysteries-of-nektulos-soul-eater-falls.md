@@ -33,7 +33,7 @@ source:
 
 ## Steps
 
-1. Search the forest for signs of civilization at the falls to the north.  The falls referred to are [[Soul Eater Falls]] around ( 502, 27, -1530 ), found at the top end of the river that flows past Noxhil.
+1. Search the forest for signs of civilization at the falls to the north.  The falls referred to are [[Soul Eater Falls]] around {{waypoint 502, 27, -1530}}, found at the top end of the river that flows past Noxhil.
    - You need to pass over a specific point on the ground slightly downstream of the falls.  {{waypoint 456, 14, -1507}})
 1. Return to Noxhil V'Sek.
 

@@ -7,7 +7,7 @@ level: Scales
 difficulty: Heroic
 zone: '[[Antonica]]'
 journal_category: Antonica
-starts: Speak to [[Guide]] [[Harlan]] in [[Antonica]], west of the entrance to [[Blackburrow]] along the mountain wall. -1,275 1 818
+starts: Speak to [[Guide]] [[Harlan]] in [[Antonica]], west of the entrance to [[Blackburrow]] along the mountain wall. {{waypoint -1275, 1, 818}}
 in_game_name: The Gnollish Menace
 categories:
 - Antonica Heroic Quests

@@ -37,4 +37,4 @@ source:
 
 ## Reward
 
-Unlock the Days of Summer 2021: Week 2 Holiday event rewards that you can purchase at [[Pas Yu]] at 2292.99 -199.41 2505.71 198.75 0.00 0.00
+Unlock the Days of Summer 2021: Week 2 Holiday event rewards that you can purchase at [[Pas Yu]] at {{waypoint 2292.99, -199.41, 2505.71}}

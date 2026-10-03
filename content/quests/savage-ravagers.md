@@ -32,16 +32,16 @@ The spine reads, Savage Ravagers, which sounds ominous and should make me not wa
 
 ## Steps
 
-- Catalogue the Shadel leader, [[Gerarda T'ancred]] -155.99 64.73 -624.30 358.04 0.00 0.00
-- Catalogue the terrible rockhopper, [[Terrorclaw]] -724.95 43.38 -464.81 47.00 0.00 0.00
-- Catalogue the Great Tortoise Lord, [[Mayofdir]] -54.50 32.03 -123.28 47.02 0.00 0.00 or -71.61 12.67 -352.25 300.33 0.00 0.00
-- Catalogue the Ripper, [[Growlfear]] -824.29 46.10 -651.10 23.99 0.00 0.00
-- Catalogue the foul owlbear, [[Darkbeak]] -598.82 39.39 -331.12 297.19 0.00 0.00
-- Catalogue the Herculean cht'thk, [[Jopageri]] -332.27 77.08 -355.42 299.38 0.00 0.00
-- Catalogue the Skullcracker Warlord, [[Grungrina the Mad]] -26.34 41.47 -284.81 173.92 0.00 0.00
+- Catalogue the Shadel leader, [[Gerarda T'ancred]] {{waypoint -155.99, 64.73, -624.30}}
+- Catalogue the terrible rockhopper, [[Terrorclaw]] {{waypoint -724.95, 43.38, -464.81}}
+- Catalogue the Great Tortoise Lord, [[Mayofdir]] {{waypoint -54.50, 32.03, -123.28}} or {{waypoint -71.61, 12.67, -352.25}}
+- Catalogue the Ripper, [[Growlfear]] {{waypoint -824.29, 46.10, -651.10}}
+- Catalogue the foul owlbear, [[Darkbeak]] {{waypoint -598.82, 39.39, -331.12}}
+- Catalogue the Herculean cht'thk, [[Jopageri]] {{waypoint -332.27, 77.08, -355.42}}
+- Catalogue the Skullcracker Warlord, [[Grungrina the Mad]] {{waypoint -26.34, 41.47, -284.81}}
 - Catalogue the wolf lord, [[Sonus, Wolf Lord]] {{waypoint -817, 43, -634}}
-- Catalogue the the grimling warblood, [[Warblood Sindrig]] -1174.94 70.13 -558.75 260.30 0.00 0.00
-- Catalogue the tortoise of the depths, [[Langur, of the Depths]] -162.50 9.58 6.03 183.06 0.00 0.00 spawns after killing [[Sonus, Wolf Lord]] and [[Warblood Sindrig]]
+- Catalogue the the grimling warblood, [[Warblood Sindrig]] {{waypoint -1174.94, 70.13, -558.75}}
+- Catalogue the tortoise of the depths, [[Langur, of the Depths]] {{waypoint -162.50, 9.58, 6.03}} spawns after killing [[Sonus, Wolf Lord]] and [[Warblood Sindrig]]
 
 ## Rewards
 

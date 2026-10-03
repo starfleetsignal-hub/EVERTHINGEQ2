@@ -32,16 +32,16 @@ source:
 1. Use the [[Catalogue Creature]] skill on the following creatures in no particular order. The creatures are place holders for their other types so if some creatures do not appear you will need to kill the place holders and wait for their replacements to appear (about 5 min respawn).
    - **[[Antonica]], outside [[Blackburrow]] or [[The Commonlands]], near entrance to [[The Wailing Caves]]**
      - [[A blue widow spider]]
-       - Can be found by the entrance to Blackburrow -1,471 -1, 838
+       - Can be found by the entrance to Blackburrow {{waypoint -1471, -1, 838}}
        - Can be found near the Wailing Caves in The Commonlands {{waypoint -126.10, -42.86, -867.80}}
      - [[A ghast beetle]]
-       - Can be found by the entrance to Blackburrow -1,424 -3.5 816
+       - Can be found by the entrance to Blackburrow {{waypoint -1424, -3.5, 816}}
        - Can be found near the Wailing Caves in The Commonlands {{waypoint -126.10, -42.86, -867.80}}
      - [[A spongiform zombie]]
-       - Can be found by the entrance to Blackburrow -1,461 3 813
+       - Can be found by the entrance to Blackburrow {{waypoint -1461, 3, 813}}
        - Can be found near the Wailing Caves in The Commonlands {{waypoint -126.10, -42.86, -867.80}}
      - [[A false widow spider]]
-       - Can be found by the entrance to Blackburrow -1,471 -1, 838
+       - Can be found by the entrance to Blackburrow {{waypoint -1471, -1, 838}}
        - Can be found near the Wailing Caves in The Commonlands {{waypoint -126.10, -42.86, -867.80}}
      - [[Small skeletal brat|a small skeletal brat]]
        - Can be found by the Falls in Antonica. Antonica {{waypoint -1816, -14, 826}}

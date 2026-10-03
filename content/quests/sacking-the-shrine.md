@@ -27,11 +27,11 @@ source:
 
 ##  
 
-To get to the [[Donald 'The Hook' MacMillan]] and the altar you need to open the door by taken the elevator (-382, 55, -1957) upstairs. Press the three levers several times, until all watchers got alive and kill them all. Then you see a message on screen, that the door (-379, 63.75, -2062)  has opened.
+To get to the [[Donald 'The Hook' MacMillan]] and the altar you need to open the door by taken the elevator {{waypoint -382, 55, -1957}} upstairs. Press the three levers several times, until all watchers got alive and kill them all. Then you see a message on screen, that the door {{waypoint -379, 63.75, -2062}}  has opened.
 
 ## Steps
 
-1. Loot the Kromzek altar (-370, 130, -2756)
+1. Loot the Kromzek altar {{waypoint -370, 130, -2756}}
 1. Bring the shroud wrapped item to [[Donald 'The Hook' MacMillan]]
 
 ## Rewards

@@ -40,7 +40,7 @@ source:
 1. Kill [[The Enigma of Ice]] {{waypoint 544, 6, 384}} (Level 58^^^ Heroic book mob containing 5 other level 58 Heroics).
    - Placeholder - Group of five of a mix of any of the following: [[A Faro' Nuk legionnaire]], [[An Anuk' Sul visionary]], [[A Sulite devotee]], and [[A tome of medicine]], [[A tome of wizardry|a tome of wizardry]], [[A tome of evasion]], [[A tome of combat arts]], and [[A tome of coercion]]. Ten minute respawn, takes several to spawn the named.
 1. Right click on [[A wall of fire]] {{waypoint 437, 6, 403}} and speak incantation of ice.
-1. Climb up the wall of fire and kill [[The Enigma of Fire]]  ( 405, 58, 429 ) or {{waypoint 407, 58, 338}} (Level 58^^^ Heroic book mob containing 5 other level 58 Heroics).
+1. Climb up the wall of fire and kill [[The Enigma of Fire]]  {{waypoint 405, 58, 429}} or {{waypoint 407, 58, 338}} (Level 58^^^ Heroic book mob containing 5 other level 58 Heroics).
    - Placeholder - Group of five of a mix of any of the following: a Faro' Nuk legionnaire, an Anuk' Sul visionary, a Sulite devotee, and a tome of medicine, a tome of wizardry, a tome of evasion, a tome of combat arts, and a tome of coercion.  Ten minute respawn, takes several to spawn the named.
 1. Right click on [[A wall of ice]] near Explorer Punja {{waypoint 449, 13, 533}} and speak incantation of fire.
 1. Speak to Explorer Punja again.

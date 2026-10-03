@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Bonemire]]'
 timeline: '[[Bonemire Timeline]]'
 journal_category: Bonemire
-starts: Speak to [[Weneb Tacklenogg]] at [[Drednever Crash Site]] near ( -29, 44, 527 ).
+starts: Speak to [[Weneb Tacklenogg]] at [[Drednever Crash Site]] near {{waypoint -29, 44, 527}}.
 prerequisite: '[[All for Good Research]]'
 added_in: LU55
 achievement_xp: true

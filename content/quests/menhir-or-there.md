@@ -36,8 +36,8 @@ source:
 
 1. Gather and kill the following
    - Gather 5 beryl crystals found in the [[Caverns of Living Stone]] (they look like ore nodes and have a red sparkling effect).
-   - Gather 5 stibnite crystals, which spawn randomly around the pit area outside the western exit. The nodes have a white sparkling effect, but are not as visible from distance as the beryl. Close to 565.47, 510.67, 3960.68
-   - Kill 4 [[A rubble dervish|a rubble dervishes]] found outside of the east [[Caverns of Living Stone]] exit, south east of the Griffin Station. Approximate Location -271.10, -432.76, 3584.10
+   - Gather 5 stibnite crystals, which spawn randomly around the pit area outside the western exit. The nodes have a white sparkling effect, but are not as visible from distance as the beryl. Close to {{waypoint 565.47, 510.67, 3960.68}}
+   - Kill 4 [[A rubble dervish|a rubble dervishes]] found outside of the east [[Caverns of Living Stone]] exit, south east of the Griffin Station. Approximate Location {{waypoint -271.10, -432.76, 3584.10}}
 1. Speak with [[Phenocryst]]
 
 <gallery widths="150" position="center" captionalign="center">

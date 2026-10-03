@@ -7,7 +7,7 @@ level: '130'
 zone: '[[Aether Wroughtlands]]'
 timeline: '[[Ballads of Zimara Timeline]]'
 journal_category: Zimara Breadth
-starts: examine [[Starved Cyphered Tome Page (Quest Starter)|Starved Cyphered Tome Page]] dropped from [[A golden viper]] in the [[Am Dahab]] area of [[Aether Wroughtlands]] 642.71 208.45, 177.02
+starts: examine [[Starved Cyphered Tome Page (Quest Starter)|Starved Cyphered Tome Page]] dropped from [[A golden viper]] in the [[Am Dahab]] area of [[Aether Wroughtlands]] {{waypoint 642.71, 208.45, 177.02}}
 prerequisite: '[[Ballads of Zimara: Fractal Chorus Finale]]'
 in_game_name: Starved Cyphered Tome Page
 added_in: Ballads of Zimara

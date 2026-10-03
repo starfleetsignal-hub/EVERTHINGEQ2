@@ -28,10 +28,10 @@ source:
 
 ## Walkthrough
 
-1. [[Danariun, the Crypt Keeper]] 117.21 -38.72 -399.31 91.42 0.00 0.00 Strat :
+1. [[Danariun, the Crypt Keeper]] {{waypoint 117.21, -38.72, -399.31}} Strat :
    - Kill shed of pile of glowing bones in priority
    - Max level note: burn it
-1. [[Brutius the Skulk]] 304.10 -55.25 -93.02 6.25 0.00 0.00 Strat :
+1. [[Brutius the Skulk]] {{waypoint 304.10, -55.25, -93.02}} Strat :
    - CURE detriments and curse NEEDED
    - Keep aggro on tank especially when it emotes "prepares himself to release a mighty smash!" and joust out. Kill all cave blooddrinkers as they pop.
    - Alternatively, everyone dive behind the waterfall and fight from there.

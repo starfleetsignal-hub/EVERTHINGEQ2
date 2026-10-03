@@ -8,7 +8,7 @@ level: '123'
 slot: blue
 flags: heirloom no-value
 effect_name: Pack Mentality
-effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 30 seconds\n  - Reduces all damage done to group members (AE) by up to 1,926,630.\n  - Increases All Attributes of group members (AE) by 9.6%.\n  - Increases all damage done to caster by up to 2,889,945.\n  - Decreases All Attributes of caster by 16.0%.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
+effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 30 seconds\n  - Reduces all damage done to group members (AE) by up to {{waypoint 1, 926, 630}}\n  - Increases All Attributes of group members (AE) by 9.6%.\n  - Increases all damage done to caster by up to {{waypoint 2, 889, 945}}\n  - Decreases All Attributes of caster by 16.0%.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
 item_link: \aITEM 621312284 -1249098935:Pack Mentality\/a
 categories:
 - Adornments

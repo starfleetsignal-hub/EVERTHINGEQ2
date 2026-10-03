@@ -31,6 +31,6 @@ source:
 
 Sage Duppoditt ( lvl 50v ) others are ( lvl 50vvv)
 
-Go to /way -586, -57, -34 and keep watching in the southwest direction.  Sage Duppoditt and his group of like 5 or 6 come wondering towards you.
+Go to {{waypoint -586, -57, -34}} and keep watching in the southwest direction.  Sage Duppoditt and his group of like 5 or 6 come wondering towards you.
 
 Needed for the Cazic Thule God Diety Quest: Step 3 - " Forsaken ".

@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Ruins]]'
 timeline: '[[Crafting Tutorial Timeline]]'
 journal_category: Tradeskill
-starts: Talk to [[Fangtarn]] in [[The Ruins]] at (-106,-2,88)
+starts: Talk to [[Fangtarn]] in [[The Ruins]] at {{waypoint -106, -2, 88}}
 prerequisite: '[[Tutorial: Learning to Harvest]]'
 next_quest: '[[Tutorial: Forging Ahead]]'
 in_game_name: If I Had A Hammer

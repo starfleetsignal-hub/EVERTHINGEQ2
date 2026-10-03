@@ -28,7 +28,7 @@ source:
 
 ## Notes
 
-- Access to this zone is granted by completing the Hallmark quest [[The Prison That Kraytoc Built]] in [[Hold of Rime: The Ascent]], following [[The Immortal Pest]] from [[Viglundr Doomforge]] ( 525, -357, 823 ) in [[Great Divide]].
+- Access to this zone is granted by completing the Hallmark quest [[The Prison That Kraytoc Built]] in [[Hold of Rime: The Ascent]], following [[The Immortal Pest]] from [[Viglundr Doomforge]] {{waypoint 525, -357, 823}} in [[Great Divide]].
 - In order to complete this zone you need 3 characters to click the switches in the water simultanously. *(I managed to pull the levers in time two-boxing two characters: Position one at a lever. Pull another lever with the second char, swim straight to the third lever and pull it. Immediately pull the last lever with the first char. It took several tries, but worked out in the end.)*
 
 ## Walkthrough

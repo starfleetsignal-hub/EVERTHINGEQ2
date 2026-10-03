@@ -43,7 +43,7 @@ source:
 
 1. Find Marqusal at [[Danak Shipyards]] dock in [[Jarsath Wastes]] and deliver a message.
    - There's no Marqusal. Instead, speak with [[Roger Greenleaf]] at {{waypoint -309, -49, 1458}}.
-   - *Note:To travel to the Shipyard, head to the [[Crusader's Cave]], which connects to Jarsath at 826 262 1,244. Then take a [[Sokokar]] to the Shipyard in Jarsath.*
+   - *Note:To travel to the Shipyard, head to the [[Crusader's Cave]], which connects to Jarsath at {{waypoint 826, 262, 1244}}. Then take a [[Sokokar]] to the Shipyard in Jarsath.*
    - *Note:Use [[Anchor of Wanderer's Dock]], "Call to Home" or "Call to Guild Hall" and use the globus "Voyage Through Norrath" to travel to the Jarsath Shipyard*
 1. Return to Taelonar ({{waypoint -527, -85, -649}} (wanders the area)) in [[Obulus Frontier]] - +11,000 faction with **Nye'Caelona**.
    - *Note:if you finished [[Search and Rescue]] before this quest, you can use [[Twark Transport Totem]] to get back to [[Obulus Frontier]]*

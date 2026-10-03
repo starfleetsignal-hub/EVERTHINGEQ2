@@ -2,7 +2,7 @@
 title: Ekroosik's Replicators
 type: poi
 zone: '[[Haven]]'
-location: enter a tunnel (starts at -46,-68,-87) that finally ends in a large cave {{waypoint 26, -33, -150}}
+location: enter a tunnel (starts at {{waypoint -46, -68, -87}}) that finally ends in a large cave {{waypoint 26, -33, -150}}
 added_in: LU24
 categories:
 - Haven POIs

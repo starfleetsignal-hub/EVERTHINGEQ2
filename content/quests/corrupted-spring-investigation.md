@@ -33,7 +33,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Double-click any of the ballista here.4533.83 -822.48 395.32 293.21 0.00 0.00
+1. Double-click any of the ballista here.{{waypoint 4533.83, -822.48, 395.32}}
 
 ![](images/Examine_corroded_spring.png)
 

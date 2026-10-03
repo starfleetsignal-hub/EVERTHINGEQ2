@@ -84,6 +84,6 @@ Bartenders confirmed to work with this item include the following:
 - [[Turluk Qukila]] in [[Teren's Grasp]], in [[Kylong Plains]] {{waypoint 2202, 524, -97}}
 - [[Rasputin Zacani]] in the [[Village of Somborn]], in the [[Loping Plains]], {{waypoint -317, 12, -37}}
 - [[Lentak]] in [[Grobb]], in the [[Moors of Ykesha]], at {{waypoint -304, -77, -839}}
-- Ranik Calman in [[East Freeport]], loc -232.14, -55.18, 8.70
+- Ranik Calman in [[East Freeport]], {{waypoint -232.14, -55.18, 8.70}}
 - Remell T'Gyreius in [[Neriak]], loc 168.07, 29.85, 211.35. He's in the House D'Morte bar.
-- [[Aidan]] in Maldura, loc -53.60 -8.48 5.47, in the Mushroom Bar and Grill
+- [[Aidan]] in Maldura, {{waypoint -53.60, -8.48, 5.47}}, in the Mushroom Bar and Grill

@@ -18,8 +18,8 @@ We used to list locations in many, inconsistent ways here on EQ2I:
 
 - [-1, 2, 3]
 - [+1, -2, +3]
-- (1, 2, -3)
-- ( 1,2,3 )
+- {{waypoint 1, 2, -3}}
+- {{waypoint 1, 2, 3}}
 
 This is far from optimal. How can we improve? Use the discussion page.
 

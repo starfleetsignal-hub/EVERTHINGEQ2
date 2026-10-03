@@ -40,7 +40,7 @@ source:
 1. Speak to the [[Traveling tome trunk]] at {{waypoint 540, 85, 69}}.
 1. Speak to [[Kanlum]] at {{waypoint 497, 83, 47}}
 1. Gather 6 **clot water leeches** from the waters beside the [[Last House Crypts]]![A clot water leech on its' way back into the water](images/ClotWaterLeeches_example.jpg)
-   - *These can be found in the ponds to either the north or south of the crypts, e.g. 495.12 66.21 -16.04 356.97 0.00 0.00*
+   - *These can be found in the ponds to either the north or south of the crypts, e.g. {{waypoint 495.12, 66.21, -16.04}}*
 1. Travel to the [[Bubonic Boneyard]] near {{waypoint 262, 65, -344}} and release the **clot water leeches** near bubonians. Collect 6 **cyst-covered bubonian skins** after they die.
    - Get about 10-15m away and "use" the leech out of your inventory.
    - It's best to approach the bubonians from behind so they don't see you and aggro.

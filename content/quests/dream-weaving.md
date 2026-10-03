@@ -35,7 +35,7 @@ source:
 ## Steps
 
 1. Scribe the [[Snowfang Dreamcatcher Recipe]] that you received in the previous quest.
-1. Make 1 [[Snowfang Dreamcatcher (House Item)|Snowfang Dreamcatcher]] using a [[Sewing Table and Mannequin]]. There is one in Thurgadin Harbor (1256.33, -540.25, 434.67). You will need:
+1. Make 1 [[Snowfang Dreamcatcher (House Item)|Snowfang Dreamcatcher]] using a [[Sewing Table and Mannequin]]. There is one in Thurgadin Harbor {{waypoint 1256.33, -540.25, 434.67}}. You will need:
    - 1 [[Crystalline Spiderling Silk]]: Right-click on the spider called [[Ktlk]] (near [[Capru]]) and choose gather silk to receive two [[Crystalline Spiderling Silk]].
    - 2 [[Amber]], 2 [[Quicksilver cluster]], 1 [[Sumac lumber]], 1 [[Ethereal filament]]
 1. Return to [[Capru]]. At this point [[Capru]] asks you to 'Return later.' His concept of 'later' is about 2-3 game weeks (exactly 24 hours real time). When he is ready a quest feather will appear over his head.

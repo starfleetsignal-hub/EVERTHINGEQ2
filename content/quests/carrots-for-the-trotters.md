@@ -44,7 +44,7 @@ While attempting to find the important Bayle relic that the acolyte had been sen
 
 ## Steps
 
-1. Grab 3 carrots from the field outside the house ( -745,0,-660 ).
+1. Grab 3 carrots from the field outside the house {{waypoint -745, 0, -660}}.
 1. Lead 3 ![mini trotters](images/Image:a_startled_mini_trotter.jpg) back to the hay bale in Tagglefoot Farms {{waypoint -759, 0, -654}}. Note: right click them.
    1. Known locations for the mini trotters are:
       1. {{waypoint -870, 3, -600}}

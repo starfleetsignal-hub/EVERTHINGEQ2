@@ -29,15 +29,15 @@ source:
 
 ## Steps
 
-1. Go to Echo Caverns door and enter:  Quarry Quandary Solo ( 394, -36, 748 )
+1. Go to Echo Caverns door and enter:  Quarry Quandary Solo {{waypoint 394, -36, 748}}
 1. Clear Trash until you see: The Undertaker has arrived to consume your souls.
-1. Kill The Undertaker at ( 137, 108, -10 )
-1. Around (331, 145, 457 ) you will get a message that says you are on the right track.
-1. Kill Chief Broglyn ( 141, 158, 303 ) Note: you have to kill the Boglings to get him to spawn.
-1. Kill the Needlite Queen ( 720.54, 185.82, 302.42 ) Note: you need to kill Needlites to get her to spawn )
-1. Kill the lizard Killmodo ( -354, 218, -1 )
-1. Speak to Hrewa Medinal at ( -388, 216, -39 )
-1. Kill the Giant Lizard, Scyphodon at ( -388, 176, 328 )
+1. Kill The Undertaker at {{waypoint 137, 108, -10}}
+1. Around {{waypoint 331, 145, 457}} you will get a message that says you are on the right track.
+1. Kill Chief Broglyn {{waypoint 141, 158, 303}} Note: you have to kill the Boglings to get him to spawn.
+1. Kill the Needlite Queen {{waypoint 720.54, 185.82, 302.42}} Note: you need to kill Needlites to get her to spawn )
+1. Kill the lizard Killmodo {{waypoint -354, 218, -1}}
+1. Speak to Hrewa Medinal at {{waypoint -388, 216, -39}}
+1. Kill the Giant Lizard, Scyphodon at {{waypoint -388, 176, 328}}
 
 ## Rewards
 

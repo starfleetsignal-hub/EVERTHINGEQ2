@@ -26,4 +26,4 @@ expansion_source: source
 
 ## Notes
 
-[[Ykeshan shellfish]], found in the river at the top of waterfall near [[Tupta]]. ( -140, -95, 569 )
+[[Ykeshan shellfish]], found in the river at the top of waterfall near [[Tupta]]. {{waypoint -140, -95, 569}}

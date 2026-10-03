@@ -14,4 +14,4 @@ source:
 
 Drysla is located inside the instance:  Savage Weald: Fort Grim [Solo]
 
-She is located at ( 8, 34, -329 )
+She is located at {{waypoint 8, 34, -329}}

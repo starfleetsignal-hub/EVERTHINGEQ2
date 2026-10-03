@@ -44,15 +44,15 @@ Pick up the quest by zoning into [[The Hidden Village of Kugup]] in [[The Feerro
    - Four mobs of a Lizardman sentry and 2 enforcers (52 2x epic)
    - One mob of an Lizardman Eliminator and 3 Lizardman sentries 54 2x epic
 1. Clear the lower levels of all mobs.
-   - Go to /waypoint 61.11, -19.50, -108.71 click the vessel to spawn Enforcer Zifa and 3 minions (54^^^ 2x epic)
+   - Go to {{waypoint 61.11, -19.50, -108.71}} click the vessel to spawn Enforcer Zifa and 3 minions (54^^^ 2x epic)
     - **NOTE** Krakan The Wary (55^^^ 4x epic) spawns and attacks during Enforcer Zifa's encounter.
-   - Go to /waypoint -62.13, -19.50, -110.86 click on vessel to spawn Krakat the Cruel and 2 minions (56^^^ 3x epic)
+   - Go to {{waypoint -62.13, -19.50, -110.86}} click on vessel to spawn Krakat the Cruel and 2 minions (56^^^ 3x epic)
     - **NOTE** Enforcer Zifa, Krakat the Cruel, and Krakan The Wary all need to be killed to spawn Qzyk the Conqueror
    - Kill Qzyk the Conqueror and 3 lizard men sentries (54^^^ 4x epic) at /waypoint 0.10, -10.00, -151.44.
    - The Spirit of Marr's Chosen will pop, speak to him.
 1. The inside is now filled with epic mobs. You need to fight your way out since evac is disabled in the zone.
 1. [[Venekor (SotL)|Venekor]] has now spawned up top.
-   - Click on Statue at /waypoint -0.21, 23.83, -90.63 to disable fighter adds from spawning
+   - Click on Statue at {{waypoint -0.21, 23.83, -90.63}} to disable fighter adds from spawning
 
 ## Rewards
 

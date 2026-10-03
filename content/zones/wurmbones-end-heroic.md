@@ -31,7 +31,7 @@ This is the most challenging heroic instance in [[Chains of Eternity]] - do not 
 
 please post tips about boss fights!
 
-[[Seer Gh'char (Heroic)]] /waypoint -266.90, -97.90, -10.15
+[[Seer Gh'char (Heroic)]] {{waypoint -266.90, -97.90, -10.15}}
 
 Contrary to what you may hear in your server chat channels you can not get this mob into hard mode by pulling him off his platform.  Pulling him off his platform does the same thing in heroic as it does in solo; you get approximately four adds between each Spirit Rift AE.
 
@@ -39,9 +39,9 @@ This may be the method you want to use if you have heavy DPS as you can kill the
 
 [[Dirter Aggrog (Heroic)]]
 
-[[All-Blocker Mohngu (Heroic)]] /waypoint 25.21, -71.81, -190.08
+[[All-Blocker Mohngu (Heroic)]] {{waypoint 25.21, -71.81, -190.08}}
 
-[[Necromunger Garrkk (Heroic)]] - /waypoint -293.23, -6.22, -312.20 - pop waves with 4 adds during the fight that can be a pain for a solo heal to keep the group alive
+[[Necromunger Garrkk (Heroic)]] - {{waypoint -293.23, -6.22, -312.20}} - pop waves with 4 adds during the fight that can be a pain for a solo heal to keep the group alive
 
 Tip: seems as if the adds explode when they reach and stay near the necromunger for too long.  We had our entire party stay ranged and not use AOE's except the tank to grab aggro.  The aoe damage was significantly less and we seemed to also get a lot less adds as a result.  Took a few pulls but fight was easy once we did this.  We are not very well geared as we are returning players, but were able to clear the instance with this guy being the hardest.
 

@@ -23,8 +23,8 @@ source:
 
 ## Island Access
 
-- (352, 284, -609): [[Isle of the Guardians]], [[Isle of the Watchers]], [[Prisoner's Isle]], [[Strifewind Isle]], [[Whisperwind Isle]]
-- (483, 293, -538): [[Temple Grounds]]
+- {{waypoint 352, 284, -609}}: [[Isle of the Guardians]], [[Isle of the Watchers]], [[Prisoner's Isle]], [[Strifewind Isle]], [[Whisperwind Isle]]
+- {{waypoint 483, 293, -538}}: [[Temple Grounds]]
 
 ## Monsters
 

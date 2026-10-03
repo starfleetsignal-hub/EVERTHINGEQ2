@@ -33,7 +33,7 @@ expansion_source: patch
 
 1. You receive 5 [[Listenomitron|Listenomitrons]] to place at "strategic locations around Freeport".
    - You will get a message in the middle of your screen saying "**Strategic Location**" when you are in the right spot.  Right click the Listenomitron to get a popup window and select "Place the listening device".
-   - Place one in the the guild registrar's building on the table in [[East Freeport]] {{waypoint -92, -32, -18}} (I placed it at ( -111, -37, 41 ))
+   - Place one in the the guild registrar's building on the table in [[East Freeport]] {{waypoint -92, -32, -18}} (I placed it at {{waypoint -111, -37, 41}})
    - Place one on the third level of [[The Freeport Militia House]] on the table in [[West Freeport]] {{waypoint 158, 0, 123}}.
    - Place one on the second level of the [[Academy of Arcane Science]] in [[North Freeport]] {{waypoint -1, 7, -120}}.
    - Place one near the Seafury Buccaneer's boat in [[South Freeport]] {{waypoint -285, -58, 143}}.

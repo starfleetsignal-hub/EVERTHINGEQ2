@@ -69,7 +69,7 @@ source:
 - [[Mercenary: Kalidahd|Kalidahd, Ranger]], in Aether Wroughtlands at {{waypoint -38, 111, 536}}
 - [[Mercenary: Ferrous Boiler|Ferrous Boiler]], Inquisitor, in Zimara Breadth on Isle of Wisdom at {{waypoint -799, 191, 204}}
 - [[Mercenary: Lustron Aurulean|Lustron Aurulean]], Fury, in Aether Wroughtlands at {{waypoint 745, 255, 676}}
-- [[Mercenary: BU-T13-R|BU-T13-R]], in [[Aether Wroughtlands]] near Iron Flats ( 49, -15, -469 )
+- [[Mercenary: BU-T13-R|BU-T13-R]], in [[Aether Wroughtlands]] near Iron Flats {{waypoint 49, -15, -469}}
 
 Note: Mercenaries must be researched. See Researcher Ssiskmah in the Sanctuary at  {{waypoint 378.06, 286.73, 940.78}}
 

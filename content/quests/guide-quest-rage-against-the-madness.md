@@ -52,11 +52,11 @@ Speak to a Guide in the form of [[Ayesorr]], typically located in [[Enchanted La
    - [[Skur'rax Dead End]] at {{waypoint 451.07, 115.04, 221.61}}
 1. I should cull the horrors of Yon Gorroth - kill any Solo or Heroic named mob in Yon Gorroth. This includes:
    - [[Vortillent]] at {{waypoint -189.37, 4.98, 394.26}}
-   - Chitinback at (512, 57, -286)
-   - Sonarous at ( -40, 38, -559 )
-   - Scuttlecip at ( -383, -1, -535 )
-   - Ichorbelly at ( 425, 50, 708 )
-   - Spurgrasp at ( -605, 60, 578 )
+   - Chitinback at {{waypoint 512, 57, -286}}
+   - Sonarous at {{waypoint -40, 38, -559}}
+   - Scuttlecip at {{waypoint -383, -1, -535}}
+   - Ichorbelly at {{waypoint 425, 50, 708}}
+   - Spurgrasp at {{waypoint -605, 60, 578}}
 1. I should explore Oogothl Sprawl. Explore the monstrous amalgamations of the [[Oogothl Sprawl]] -
    - [[Tentacle Fields]] at {{waypoint 321.64, 34.94, -342.58}}
    - [[Detritus Rise]] at {{waypoint 482.75, 112.35, -463.15}}
@@ -67,8 +67,8 @@ Speak to a Guide in the form of [[Ayesorr]], typically located in [[Enchanted La
    - [[Synod Dais]] at {{waypoint -719.37, 287.31, -306.89}}. Access by flying up to this platform.
 1. I should cull the horrors of Oogothl Sprawl - Kill a Solo or Heroic named mob in Oogothl Sprawl. This Includes:
    - [[Corpsetaker]] at {{waypoint 434.73, 131.86, 498.31}}
-   - Razorglare at ( 628 76, 45 )
-   - Shade Eater at ( -148, 113, 287 )
+   - Razorglare at {{waypoint 628, 76, 45}}
+   - Shade Eater at {{waypoint -148, 113, 287}}
    - [[Trogleyet]] {{waypoint -365.72, 95.30, -206.08}}
 1. I should explore the mountainous spires and plateaued lands teeming with dangerous life within The Unknown
    - [[Carved Caps]] at {{waypoint -1087.43, 29.45, 1119.49}} or {{waypoint -952, 28, 884}}
@@ -79,10 +79,10 @@ Speak to a Guide in the form of [[Ayesorr]], typically located in [[Enchanted La
    - Brimboil Nursery at {{waypoint -645, 12, -976}}
    - Nightscar Mettle at {{waypoint -1199, 55, -736}} (Careful, there's a named by this location, which may be convenient)
 1. I am to search out unreal horrors and slay them - Kill a Solo or Heroic named mob in The Unknown. This Includes:
-   - Kark at ( -1199. 55, -730 )
-   - Spike Wing at ( -345, 137, -192 )
-   - Chlorice Wid at ( -598, 22, -852 )
-   - Sludgebag at ( -945, 35, -1099 )
+   - Kark at {{waypoint -1199, 55, -730}}
+   - Spike Wing at {{waypoint -345, 137, -192}}
+   - Chlorice Wid at {{waypoint -598, 22, -852}}
+   - Sludgebag at {{waypoint -945, 35, -1099}}
 
 ## Rewards
 

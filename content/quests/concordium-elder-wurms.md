@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. Kill 13 [[An elder wurm|elder wurms]] in Kylong Plains 2,231 186 -2,137 near the Jarsath Wastes zoneline.
+1. Kill 13 [[An elder wurm|elder wurms]] in Kylong Plains {{waypoint 2231, 186, -2137}} near the Jarsath Wastes zoneline.
 
 ## Rewards
 

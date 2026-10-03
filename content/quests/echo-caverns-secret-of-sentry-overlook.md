@@ -38,7 +38,7 @@ There appears to be a monument to a large amount of guards who perished in an at
 
 ## Steps
 
-1. Kill 15 [[A balanzite golem|balanzite golems]] in [[Shattered Chasm]].-168.70 113.87 -189.14 91.82 0.00 0.00
+1. Kill 15 [[A balanzite golem|balanzite golems]] in [[Shattered Chasm]].{{waypoint -168.70, 113.87, -189.14}}
 
 ## Rewards
 

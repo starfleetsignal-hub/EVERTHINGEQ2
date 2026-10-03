@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[The new "Travels" of Yun Zi - Feerrott Not, I Shall Find You]]'
 next_quest: '[[The new "Travels" of Yun Zi - Having Fun Storming Lavastorm]]'
 added_in: LU107

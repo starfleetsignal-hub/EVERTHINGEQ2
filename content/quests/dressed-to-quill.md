@@ -37,10 +37,10 @@ source:
    - Gather 8 **molted hawk feathers**. ![Molted Hawk Feather](images/Molted_Hawk_Feather.png)
      - *The most of them can be found near [[A prickly armapine|prickly armapines]]. These are exceedingly rare and respawn time very long. If you have unlocked flight or can scramble over from higher spots using Glide or a Safefall cloak (etc.), look atop the mesas as well as on the ground. Some possible locations include:
      - {{waypoint -177.47, 51.63, -16.83}} -- around this loc are plenty of them
-     - ( 121, 107, -191 )
+     - {{waypoint 121, 107, -191}}
      - {{waypoint -99.88, 28.84, -84.40}}
      - {{waypoint -88.39, 29.26, -92.62}}
-     - ( -77, 102, -185 )
+     - {{waypoint -77, 102, -185}}
      - {{waypoint -65.56, 7.74, -163.13}}
      - {{waypoint -33.25, 26.66, -296.37}}
      - {{waypoint 64.44, 4.35, -152.52}}

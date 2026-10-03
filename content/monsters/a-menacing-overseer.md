@@ -25,7 +25,7 @@ source:
 
 ## Notes
 
-they look the gazers and can be found around 47, 361, 437
+they look the gazers and can be found around {{waypoint 47, 361, 437}}
 
 lots of them around and they respawn really quick :)
 

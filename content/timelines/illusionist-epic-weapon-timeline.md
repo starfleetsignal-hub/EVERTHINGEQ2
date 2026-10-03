@@ -58,7 +58,7 @@ After following his lead and changing form a couple of times he offers you the q
 
 ## Lore
 
-An NPC, [[Modani Qu'loni]], in [[Jarsath Wastes]] at (706, -126, 278) near Maiden's Chamber in Howling Stones has the following dialog when hailed. Note that you need to speak the Sathirian language, for which you need to complete the [[Feathers for Sethis]]
+An NPC, [[Modani Qu'loni]], in [[Jarsath Wastes]] at {{waypoint 706, -126, 278}} near Maiden's Chamber in Howling Stones has the following dialog when hailed. Note that you need to speak the Sathirian language, for which you need to complete the [[Feathers for Sethis]]
 
 - You: Hail
   - Modani: The hidden self... inside a myriad of magic... is one that walks... quite softly.

@@ -4,7 +4,7 @@ type: npc
 expansion: Shattered Lands
 race: Sphinx
 zone: '[[Plane of Magic]]'
-location: Northwest part of the Pride of Pakiat quest area
+location: Northwest part of the Pride of Pakiat quest area {{waypoint -491.27, 129.45, -687.22}}
 categories:
 - NPC pages that need EQ2MAP uid
 - NPCs

@@ -39,10 +39,10 @@ source:
 | [[Stout Language Primer]] | 12s |
 
 - In Origins, languages are most easily learned from Spell Scroll sellers in each racial zone:
-  - Starcrest Commune for Erudite (*Ommanoden* at 821.53, -20.45, 286.20, inside *The Perfunctory Philosopher*, for 18-sivler.)
-  - Graystone Yard for *Barbarian* for Halasian (Barbarian?) and Dwarven (Boomcast at 826.05, -20.33, -103.36, inside *Boomcast's Books*, 18-silver).
-  - Nettleville for Kerra (*Varion Smitelin* at 638.48, -20.42, 283.90, inside *The Nettleville Quill*, for 18-silver.)
+  - Starcrest Commune for Erudite (*Ommanoden* at {{waypoint 821.53, -20.45, 286.20}}, inside *The Perfunctory Philosopher*, for 18-sivler.)
+  - Graystone Yard for *Barbarian* for Halasian (Barbarian?) and Dwarven (Boomcast at {{waypoint 826.05, -20.33, -103.36}}, inside *Boomcast's Books*, 18-silver).
+  - Nettleville for Kerra (*Varion Smitelin* at {{waypoint 638.48, -20.42, 283.90}}, inside *The Nettleville Quill*, for 18-silver.)
   - Castleview Hamlet for Guktan & Koada'Dal (Bleemeb at {{waypoint 696.48, -15.69, -138.86}}, inside *The Repository*, for 18-silver.)
-  - The Willow Wood - Salinia Brooklily for Feir'Dal and Ayr'Dal language at (821.89,-19.94,-605.76)
-  - The Baubbleshire - Stout and Gnomish language from Wazzleburn at (855.82, -18.28, -508.86)
+  - The Willow Wood - Salinia Brooklily for Feir'Dal and Ayr'Dal language at {{waypoint 821.89, -19.94, -605.76}}
+  - The Baubbleshire - Stout and Gnomish language from Wazzleburn at {{waypoint 855.82, -18.28, -508.86}}
   - Etc

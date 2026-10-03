@@ -63,9 +63,9 @@ For easy travel to the topmost level of the "Inner Caves" and back to "Outer Cav
 
 As of 2014 the city teleportation pad system has only two locations:
 
-- At the bottom of the ramp a teleportation pad is located at 2,507 13 1,217
+- At the bottom of the ramp a teleportation pad is located at {{waypoint 2507, 13, 1217}}
   - This is the level the docks are on. In the "Outer Cave" are NPCs like a merchant that sells [[Mount|mounts]] and the NPC to change your citizenship if you want to proclaim Gorowyn as your home.
-- The teleportation pad on the topmost level located at 1,267 123 1,128, close to the mailbox.
+- The teleportation pad on the topmost level located at {{waypoint 1267, 123, 1128}}, close to the mailbox.
   - The Upper Tenements (a small inner cave) is the hub of the city because it has player [[Housing|housing]], [[Tradeskill]] tables and merchants, and various NPCs like a [[Banker|banker]] and [[Broker|broker]].
 
 ## Housing

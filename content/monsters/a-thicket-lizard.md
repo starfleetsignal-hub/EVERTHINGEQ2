@@ -36,8 +36,8 @@ source:
 Thicket lizards are static spawns.  However, the individual locations they spawn at change - not with every respawn, but seemingly on at least a daily basis.  The best advice for finding them, if you don't have tracking, is to look up against trees and rocks.  Below is a list of some confirmed locations.
 
   - By a tree in front of the Oracle Tower {{waypoint -980, 2, -595}}
-  - By a different tree in front of the Oracle Tower -1,051 9 -588
+  - By a different tree in front of the Oracle Tower {{waypoint -1051, 9, -588}}
   - Up on the rocks southwest of the Oracle Tower {{waypoint -888, 0, -487}}
   - Between some rocks and a tree {{waypoint -714, -22, -422}}
-  - Next to a rock against the side of the plateau with the Oracle Tower -1,047 -33 -487
+  - Next to a rock against the side of the plateau with the Oracle Tower {{waypoint -1047, -33, -487}}
   - Behind a rock southeast of [[The Keep of the Ardent Needle]] {{waypoint -627, -6, -241}}

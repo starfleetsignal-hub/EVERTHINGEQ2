@@ -40,7 +40,7 @@ The Withered Lands is shaped roughly like a backwards S lying on its side.  Adve
 
 ### Travel
 
-To travel to this zone, first go to [[Great Divide]] (Thurgadin Docks) and hail the New Combine Flight Master with a griffon at 1,279 -540 305.
+To travel to this zone, first go to [[Great Divide]] (Thurgadin Docks) and hail the New Combine Flight Master with a griffon at {{waypoint 1279, -540, 305}}.
 
 Flying above the trees in this zone can be dangerous. See the description above for the quests to make travel safer in this zone.
 

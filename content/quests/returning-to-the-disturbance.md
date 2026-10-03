@@ -35,7 +35,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Interact with a bush at 1,166.12 -21.84 -742.83.
+1. Interact with a bush at {{waypoint 1166.12, -21.84, -742.83}}.
 1. A gnoll camp appears as the bushes vanish (they were an illusion to hide the camp).
 1. Pick up the book from the gnoll camp.
 1. Return to [[Acting Lieutenant Germain]] for your reward.

@@ -33,12 +33,12 @@ source:
 ## Steps
 
 1. Enter the [[City of Shar Vahl]].
-1. Speak with [[Scout Kiira]] in Shar Vhal -110.41 29.85 -273.26 167.68 0.00 0.00.
+1. Speak with [[Scout Kiira]] in Shar Vhal {{waypoint -110.41, 29.85, -273.26}}.
    1. Obtain the blessing of [[The Dar Khura]]...
       - *requires completion subquest-serie started at [[Khazla Aradir]] at {{waypoint 4, 9, -215}}:
         1. [[Aquatic Ailments Encountered]]
         1. [[Song of Healing]]
-   1. ...and obtain the support of [[The Jharin]]. (-91, 30, -391)
+   1. ...and obtain the support of [[The Jharin]]. {{waypoint -91, 30, -391}}
       - *Requires completion of [[Vahl That Remains]], started at [[Dahnji Hujara]] {{waypoint -275, 35, 130}}*
 1. Return to [[Scout Kiira]] in Shar Vhal and speak to her again.
 1. Click the palace door {{waypoint -48.21, 94.88, 342.30}} to enter [[Kerrath Palace: Royal Audience]].

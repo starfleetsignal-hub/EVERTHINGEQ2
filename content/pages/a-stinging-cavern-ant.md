@@ -10,4 +10,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Shadeweaver Thicket outside Ant caves at -560, 90, -10
+Shadeweaver Thicket outside Ant caves at {{waypoint -560, 90, -10}}

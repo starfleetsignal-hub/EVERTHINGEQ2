@@ -39,7 +39,7 @@ expansion_source: patch
 ## Steps
 
 1. Kill 2 [[Humator hivesister|Humator hivesisters]].*  around 3 minutes repop
-   - They are in the back of the cave located at ( 989, -96, 172 ),
+   - They are in the back of the cave located at {{waypoint 989, -96, 172}},
 1. Slay the [[The Humator Harridan]].*  around 7 minutes repop
 1. Return to [[Jimtun Rubbleyew]]
 

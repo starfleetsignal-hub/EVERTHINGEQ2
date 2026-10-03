@@ -35,7 +35,7 @@ source:
 
 1. Travel to the entrance of the [[Shattered Vale]] in [[Antonica]] {{waypoint -2334, 7, -69}}.
 1. Return to [[Rask Helstot]] in [[The Elddar Grove]].
-1. Speak to [[Dworn Soulforge]] in Antonica, south west of [[Keep of the Gnollslayers]] at -1,932 -14 753.
+1. Speak to [[Dworn Soulforge]] in Antonica, south west of [[Keep of the Gnollslayers]] at {{waypoint -1932, -14, 753}}.
 1. Return to [[Rask Helstot]] in Elddar Grove.
 
 ## Reward

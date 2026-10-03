@@ -38,7 +38,7 @@ source:
    - *See the walkthrough on the instance's page for detailed walkthrough steps for the dungeon.*
    - Gather 8 **apotropaic figures**. Some possible locations include:![Apotropaic Figure](images/Apotropaic_Figure.png)
      - {{waypoint 23.26, 32.04, -39.65}} On the walk-way at the entrance of the zone
-     - ( 52, 31, -21 )
+     - {{waypoint 52, 31, -21}}
      - {{waypoint 17.16, 28.69, 53.03}}  [[Antechamber of Antiquity]]
      - {{waypoint -41.21, 28.69, 60.47}} [[Antechamber of Antiquity]]
      - {{waypoint -270, 39, 191}} [[Trevaluen, the Branching Gateway]], South Chamber

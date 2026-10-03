@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The City of Freeport]]'
 timeline: '[[The City of Freeport Timeline]]'
 journal_category: The City of Freeport
-starts: Speak with [[Foci Tamara Paust]] (Librarian, Academy of Science)(20,-34,-145)
+starts: Speak with [[Foci Tamara Paust]] (Librarian, Academy of Science){{waypoint 20, -34, -145}}
 prerequisite: '[[Mysterious Freeblood]]'
 next_quest: '[[Keys to the Temple]]'
 in_game_name: Destructive Tendencies

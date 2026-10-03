@@ -4,7 +4,7 @@ type: item
 item_kind: Quest Item
 level: '1'
 flags: No-Trade
-obtained_from: Ricka Stonehide in New Halas or Beata Sringer in City of Fordel Midst, House of Midst (737, -8, 737)
+obtained_from: Ricka Stonehide in New Halas or Beata Sringer in City of Fordel Midst, House of Midst {{waypoint 737, -8, 737}}
 used_in_quest: '[[The Minions of the Mighty Creature Cataloging]]'
 categories:
 - Items

@@ -8,7 +8,7 @@ level: '121'
 slot: red
 flags: no-trade no-value
 effect_name: Shroud of Mettle
-effects: "- When Equipped:\n  - Reduces all damage done to caster by up to 1,926,630.\n  - Cannot be modified except by direct means"
+effects: "- When Equipped:\n  - Reduces all damage done to caster by up to {{waypoint 1, 926, 630}}\n  - Cannot be modified except by direct means"
 item_link: \aITEM 1103251817 -1248112588:Shroud of Mettle\/a
 categories:
 - Adornments

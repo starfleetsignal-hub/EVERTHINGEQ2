@@ -16,7 +16,7 @@ source:
 ## Notes
 
 With [[Planes of Prophecy]] a lot of new adornments got added. The Purple Adorns from [[Ascension#Adornments|Kunark Ascending]] are back as orange ones.<br>
-The orange version of the KA purple adorns are sold in the [[Coliseum of Valor]] by the adornment merchant Istar the Mighty <Adornments> (134.05, 0.00, 113.76) near the status merchant Amarat the Procurer <Status Merchant> (136.13, 0.00, 106.75).
+The orange version of the KA purple adorns are sold in the [[Coliseum of Valor]] by the adornment merchant Istar the Mighty <Adornments> {{waypoint 134.05, 0.00, 113.76}} near the status merchant Amarat the Procurer <Status Merchant> {{waypoint 136.13, 0.00, 106.75}}.
 
 - The new orange adorns come as drops or from mission crates from Heroic zones (maybe raid zones too).
 - Once you loot a specific orange adorn, it becomes unlocked on the adorn merchant in the Colosseum.

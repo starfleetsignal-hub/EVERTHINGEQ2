@@ -35,7 +35,7 @@ expansion_source: patch
 ## Steps
 
 1. Obtain a helmet and fur
-   - Kill [[Debitino Coperilus]] ( -126.40 -17.59 -547.44  )
+   - Kill [[Debitino Coperilus]] {{waypoint -126.40, -17.59, -547.44}}
    - Take Debitino's cooking pot
    - Kill [[Tamer Nicoli (Epic)|Tamer Nicoli]]
 1. Return to [[Strofy Frostfoot]]

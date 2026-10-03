@@ -22,5 +22,5 @@ expansion: The Shadow Odyssey
 expansion_source: source
 ---
 
-- golems in Plane of Magic, around   /way -657.74 74.43 -398.40
+- golems in Plane of Magic, around   {{waypoint -657.74, 74.43, -398.40}}
 - [[A rotforged horror]] in [[Yon Gorroth]]

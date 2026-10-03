@@ -24,7 +24,7 @@ source:
 
 A Scorched Sky mob that spawns all over Norrath.
 
-One was found on [[South Dshinn]] in [[The Tranquil Sea]] around (-1420,67,-326).
+One was found on [[South Dshinn]] in [[The Tranquil Sea]] around {{waypoint -1420, 67, -326}}.
 
 ## Related Quests
 

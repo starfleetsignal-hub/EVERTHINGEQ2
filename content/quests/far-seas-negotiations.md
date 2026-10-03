@@ -38,7 +38,7 @@ source:
 
 ## Steps
 
-1. Speak to [[Matthew]] {{waypoint -1639, -532, -2380}} on the dock in the Iceclad-Area on Icy Fingers Island (Near Lodizal). To get there, hail the Flight Master (griffon rider) at 1,336 -540 406 on the Thurgadin dock and ask to be sent to Icy Fingers; evac from anywhere within Great Divide; fast travel or take the globe to Sinking Sands docks, hail the othmir Stissa, Emissary of the Speaker and choose "I'm ready to go. . ." to be sent directly to Icy Fingers.
+1. Speak to [[Matthew]] {{waypoint -1639, -532, -2380}} on the dock in the Iceclad-Area on Icy Fingers Island (Near Lodizal). To get there, hail the Flight Master (griffon rider) at {{waypoint 1336, -540, 406}} on the Thurgadin dock and ask to be sent to Icy Fingers; evac from anywhere within Great Divide; fast travel or take the globe to Sinking Sands docks, hail the othmir Stissa, Emissary of the Speaker and choose "I'm ready to go. . ." to be sent directly to Icy Fingers.
    - HINT: While there be sure to fish up (fishingskill 400+ required) an iceclad cutlassfish for the [[Milly's Meals]] quest.
 1. Return to [[Aggi Stonefist]] {{waypoint 698, -312, 361}}
 

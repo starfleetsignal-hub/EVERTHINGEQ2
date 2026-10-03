@@ -8,7 +8,7 @@ level: '132'
 slot: blue
 flags: heirloom no-value
 effect_name: Pack Mentality
-effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 30 seconds\n  - Reduces all damage done to group members (AE) by up to 4,223,649.5.\n  - Increases All Attributes of group members (AE) by 21.1%.\n  - Increases Crit Bonus Overcap of group members (AE) by 410.7.\n  - Increases all damage done to caster by up to 6,335,474.\n  - Decreases All Attributes of caster by 35.2%.\n  - Increases Crit Bonus Overcap of caster by 821.4.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
+effects: "- Applies Pack Mentality when Activated.  Lasts for 30.0 seconds.\n  - Suspends the passive effect for 30 seconds\n  - Reduces all damage done to group members (AE) by up to 4,223,649.5.\n  - Increases All Attributes of group members (AE) by 21.1%.\n  - Increases Crit Bonus Overcap of group members (AE) by 410.7.\n  - Increases all damage done to caster by up to {{waypoint 6, 335, 474}}\n  - Decreases All Attributes of caster by 35.2%.\n  - Increases Crit Bonus Overcap of caster by 821.4.\n  - Cannot be modified except by direct means\n  - The casting time of Pack Mentality is 0.8 seconds and the reuse time of the spell is 1 minute"
 item_link: '\aITEM 652988924 -844994467:Formless Rune: Unknowable Pack Mentality\/a'
 categories:
 - Adornments

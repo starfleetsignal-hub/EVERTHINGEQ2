@@ -6,7 +6,7 @@ levels: '110'
 access: Raid
 difficulty: x4
 entered_from: '[[Plane of Magic]]'
-entrance: On [[Valor's Roost]] near the transporter pad (-762, 347, 1045)
+entrance: On [[Valor's Roost]] near the transporter pad {{waypoint -762, 347, 1045}}
 players: 3 hours-3 days
 aliases:
 - 'Shard of Hate: Utter Contempt (Raid)'

@@ -7,7 +7,7 @@ level: '96'
 difficulty: Heroic
 zone: '[[Outer Kael]]'
 journal_category: 'Kael Drakkel: Throne of Storms'
-starts: Talk to [[Cameron Barclay]], in Outer Kael -1,529.26 21.74 -653.68
+starts: Talk to [[Cameron Barclay]], in Outer Kael {{waypoint -1529.26, 21.74, -653.68}}
 prerequisite: '[[Going Down With the Keep]]'
 categories:
 - Heroic Quests

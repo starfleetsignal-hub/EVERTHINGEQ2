@@ -30,7 +30,7 @@ expansion_source: patch
 ## Steps
 
 1. Kill six [[Thexian Collaborator|Thexian Collaborators]] in [[Longshadow Alley: Daeneth Cloister|Longshadow Alley]]
-   1. The collaborators are found in rooms along the eastern side of  [[Longshadow Alley: Daeneth Cloister|Longshadow Alley]]. The collaborators won't attack until you talk to them. Note there are groups of heroic Thexian Rebels that will attack on sight throughout the area. (-17.80, 0.00, 19.33) (-50.54, 2.50, 4.44) (-54.80, 0.44, -9.69) (-28.49, -1.50, 30.78) (-33.52, -4.07, -53.10) If a glitch occurs and you can't find all collaborators, exit zone and reenter.
+   1. The collaborators are found in rooms along the eastern side of  [[Longshadow Alley: Daeneth Cloister|Longshadow Alley]]. The collaborators won't attack until you talk to them. Note there are groups of heroic Thexian Rebels that will attack on sight throughout the area. {{waypoint -17.80, 0.00, 19.33}} {{waypoint -50.54, 2.50, 4.44}} {{waypoint -54.80, 0.44, -9.69}} {{waypoint -28.49, -1.50, 30.78}} {{waypoint -33.52, -4.07, -53.10}} If a glitch occurs and you can't find all collaborators, exit zone and reenter.
 1. Look for the Thexian Lieutenant at the central plaza.
    1. Once you reach the plaza, you will be attacked by a [[Thexian Lieutenant]], an even-con mob.
 1. Return to [[Ambassador Anttel V'Xeath|Ambassador Anttel]] at {{waypoint -123, -38, 23}}

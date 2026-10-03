@@ -53,7 +53,7 @@ source:
 - Kill five of one of the following (random):
   - [[A Sandscrawler diabolist]]
   - [[A Sandscrawler shamaner]]
-  - These goblins are found on top of Sandscrawler Cliffs.  Head to /way 453.37, -87.85, -881.59 and take the ramp up
+  - These goblins are found on top of Sandscrawler Cliffs.  Head to {{waypoint 453.37, -87.85, -881.59}} and take the ramp up
 - Kill five of one of the following (random):
   - [[A desert lunatic]]
   - [[A desert prophet]]  Take carpet to Prophet's Peak, then find the cleft in the rock to go up the peak.  Otherwise you'll be grinding lunatics at the base of the peak to get respawns of prophets, wasting time.  You can also jump with a leaper from the Sandscrawler cliff to the Prophet's Peak, just be ready to be aggro'd.

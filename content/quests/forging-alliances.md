@@ -51,7 +51,7 @@ You must be a level 40+ Scout to be offered this quest.
    - {{waypoint 20, 0, 2}}
    - {{waypoint -20, 1, -11}}
 1. Return to [[T'ral D'zarn]] in the [[Academy of Arcane Science]].
-1. Speak to [[Privateer Twitchwhisker]] in South Freeport ( -234, -56, 155 )
+1. Speak to [[Privateer Twitchwhisker]] in South Freeport {{waypoint -234, -56, 155}}
 
 1. Go to the magistrate's office in [[The Freeport Militia House]] and swap the papers by clicking the table around {{waypoint 169, -23, 132}}. Note:it's downstairs, shiny Scroll on a table.
 1. Return to [[Privateer Twitchwhisker]] at {{waypoint -235, -56, 155}}.

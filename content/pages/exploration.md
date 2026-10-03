@@ -26,14 +26,14 @@ The Map Window is your friend.  The EQ2 map system was revised in 2008, and cons
   - You can look at a map of any region in the world, not just the one you're currently in.  The place names on the map are hotlinks that you can click.  You can also find a map by typing its name in the search field.
   - Many landmarks are shown on the map, marked with icons.  Some landmarks are also listed in a list beside the map.  You can click on any of these landmarks to "set a waypoint" to the landmark.  If you're in the same zone, then a glowing trail will appear in front of your character, showing you which way to travel to the waypoint.
 
-As you read this guide you will see a lot of people talk about a coordinate that a quest giver or an objective can be located at.  It is usually displayed as (1000, 14.0, 500).  You can find this number in-game by typing "/loc" (without the quotation marks).
+As you read this guide you will see a lot of people talk about a coordinate that a quest giver or an objective can be located at.  It is usually displayed as {{waypoint 1000, 14.0, 500}}.  You can find this number in-game by typing "/loc" (without the quotation marks).
 
 - To make the first number bigger, travel West
 - To make the first number smaller, travel East
 - To make the last number bigger, travel South
 - To make the last number smaller, travel North
 
-If you have only the coordinate where the quest giver or object is located you can type ingame /waypoint 1000, 14, 500 (for example) and a glow trail will lead you to that location and it will show up on the map as an glowing X.
+If you have only the coordinate where the quest giver or object is located you can type ingame {{waypoint 1000, 14, 500}} (for example) and a glow trail will lead you to that location and it will show up on the map as an glowing X.
 
 ## Discovering the World
 

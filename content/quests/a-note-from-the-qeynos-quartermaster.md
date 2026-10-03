@@ -32,7 +32,7 @@ source:
 
 ## Steps
 
-1. Speak with [[Matsy Rollingpin]] ( -730, 0, 240) at [[Frontier Farm]] in [[Antonica]]
+1. Speak with [[Matsy Rollingpin]] {{waypoint -730, 0, 240}} at [[Frontier Farm]] in [[Antonica]]
 
 ## Rewards
 

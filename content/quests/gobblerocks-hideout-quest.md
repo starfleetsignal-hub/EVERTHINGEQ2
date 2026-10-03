@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. Go into [[Gobblerock's Hideout]]. ( -1415, -70, 234 )
+1. Go into [[Gobblerock's Hideout]]. {{waypoint -1415, -70, 234}}
 1. Kill 5 [[A Gobblerock grunt|Gobblerock grunt]]s. {{waypoint -68, 0, 45}}
 1. Read the book.
 1. Kill 5 [[A Gobblerock butcher|Gobblerock butcher]]s. {{waypoint -53, 0, 11}}

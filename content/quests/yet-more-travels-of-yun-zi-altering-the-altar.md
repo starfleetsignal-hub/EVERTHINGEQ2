@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[Yet More "Travels" of Yun Zi - Returning to Tears]]'
 next_quest: '[[Traveler''s Feast - Coldwind Clam Chowder]]'
 added_in: LU111
@@ -35,7 +35,7 @@ expansion_source: timeline
 
 1. Collect three souvenirs.
    1. ![Malvonicus souvenir](images/Malvonicus_souvenir.png)A rune covered rock in [[Tranquil Sea]] near the tower, Malvonicus' Folly. Some known locations are {{waypoint 817, 21, 1439}}, {{waypoint 860, 16, 1415}}, {{waypoint 800, 33, 1372}}, {{waypoint 908, 13, 1338}}. Possibly on the tops of the cliffs.
-   1. ![Dshinn souvenir](images/Dshinn_souvenir.png)A small plant in [[Tranquil Sea]] in South Dshinn, the village. Known locations are {{waypoint -625, 7, 262}}, {{waypoint -649, 6, 263}}, {{waypoint -693, 8, 276}}, {{waypoint -706, 7.8, 301}},{{waypoint -677.92, 7.34, 296}},{{waypoint -655, 14, 360}}, (-679, 8, 261 )  Possibly near the docks.
+   1. ![Dshinn souvenir](images/Dshinn_souvenir.png)A small plant in [[Tranquil Sea]] in South Dshinn, the village. Known locations are {{waypoint -625, 7, 262}}, {{waypoint -649, 6, 263}}, {{waypoint -693, 8, 276}}, {{waypoint -706, 7.8, 301}},{{waypoint -677.92, 7.34, 296}},{{waypoint -655, 14, 360}}, {{waypoint -679, 8, 261}}  Possibly near the docks.
    1. ![Wanderer's souvenir](images/Wanderer's_souvenir.png)A globe in [[Phantom Sea]] on Wanderer's Dock. Known locations are {{waypoint 1228, 19, 1188}}, {{waypoint 1234, 19, 1196}}, {{waypoint 1243, 19, 1186}}, {{waypoint 1243.82, 19.32, 1167.04}}, {{waypoint 1277, 24, 1183}}, and {{waypoint 1233.22, 19.84, 1182.12}},
 1. Return to [[Yun Zi (Merchant)|Yun Zi]] in [[The Sundered Frontier]].
 

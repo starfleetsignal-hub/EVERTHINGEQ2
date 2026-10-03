@@ -41,7 +41,7 @@ expansion_source: patch
 
 ## Steps
 
-1. In [[South Qeynos]], travel to the gate leading to the [[Starcrest Commune: Shattered Sanctum|Starcrest Commune]] and zone in. (693.2, -20.5, 267.5 )
+1. In [[South Qeynos]], travel to the gate leading to the [[Starcrest Commune: Shattered Sanctum|Starcrest Commune]] and zone in. {{waypoint 693.2, -20.5, 267.5}}
    - Slay 6 [[A ghastly specter (Starcrest Commune: Shattered Sanctum)|ghastly specters]], [[A ghastly knight (Starcrest Commune: Shattered Sanctum)|ghastly knights]], and/or [[A portal guardian|portal guardians]].
    - Collect 6 scattered pages from the heretic's journal.
 1. Return to [[Bellengere the Three (Qeynos Capitol District)|Bellengere the Three]].

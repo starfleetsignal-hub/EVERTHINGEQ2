@@ -32,20 +32,20 @@ source:
 
 ## Steps
 
-1. Collect the bottle of ink on the floor close to [[The Mute Bard]] at ( 210, 224, -68 ) on the third floor of the West Tower in [[The Shimmering Citadel]].
+1. Collect the bottle of ink on the floor close to [[The Mute Bard]] at {{waypoint 210, 224, -68}} on the third floor of the West Tower in [[The Shimmering Citadel]].
 1. Speak to [[The Mute Bard]].
 1. Return to [[Nhjela the Mad Poet]].
    - Enter the Poet's Palace
-   - Go to the first mirror at ( -94, 146, 38 )
-   - Go to the second mirror at ( -107. 186, 32 )
+   - Go to the first mirror at {{waypoint -94, 146, 38}}
+   - Go to the second mirror at {{waypoint -107, 186, 32}}
    - Wait for one of the random 3 doors on the right to open, go through.
    - Wait for one of the second set of random doors in front of you to open, go through.
-   - Wait for the third set ( 32, 228, -104 ) of random door to open, go through.
-   - Turn to your right and manually open the door ( 52, 228, -122 ).
+   - Wait for the third set {{waypoint 32, 228, -104}} of random door to open, go through.
+   - Turn to your right and manually open the door {{waypoint 52, 228, -122}}.
    - Talk to the Mad Poet.
 1. To Exit, leave the Mad Poet's room and turn to the doors at your left.
 1. Retrace your steps through the three sets of randomly open doors.
-1. Step into the mirror at ( -174, 227, -61 ).
+1. Step into the mirror at {{waypoint -174, 227, -61}}.
 
 ## Rewards
 

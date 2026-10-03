@@ -4,7 +4,7 @@ type: npc
 expansion: Echoes of Faydwer
 race: Dwarf
 zone: '[[Loping Plains]]'
-location: ( -322, 12, -40 )
+location: '{{waypoint -322, 12, -40}}'
 added_in: Echoes of Faydwer
 categories:
 - Dwarf

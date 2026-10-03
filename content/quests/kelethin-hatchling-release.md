@@ -54,7 +54,7 @@ Doing this quest is the quickest method, if a bit tedious. What you're looking f
 
 - The [[Fathead fingerlings]] are released in [[Opal Pond]] at {{waypoint 167.62, 2.52, 96.79}}. right near the Kelethin horse station.
 
-- The Salmon are released at Tunare's Sapling around ( -64, -10, 61 ) near the river outflow. The salmon and fatheads can both be done most quickly by taking the quest, immediately walking over to the travel pad and selecting 'Old Kelethin Acorn Lift'.
+- The Salmon are released at Tunare's Sapling around {{waypoint -64, -10, 61}} near the river outflow. The salmon and fatheads can both be done most quickly by taking the quest, immediately walking over to the travel pad and selecting 'Old Kelethin Acorn Lift'.
 
 - On arrival at the Old Kelethin platform, walk either east along the edge of the platform (salmon), or west up the branch (fathead), till you are above the water needed and then drop off the platform to safely land in the water.
 

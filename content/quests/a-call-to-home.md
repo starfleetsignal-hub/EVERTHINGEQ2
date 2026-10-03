@@ -40,7 +40,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Find a turned shardhammer. Reported location is {{waypoint 17, -347, 1218}}  or {{waypoint -381.67, -377.24, 728.50}} - (found at -463, -365, 622 and was called "a turned Rime"-agee/splitpaw)
+1. Find a turned shardhammer. Reported location is {{waypoint 17, -347, 1218}}  or {{waypoint -381.67, -377.24, 728.50}} - (found at {{waypoint -463, -365, 622}} and was called "a turned Rime"-agee/splitpaw)
 1. Return to Drammind, who is **now** at {{waypoint -356, -280, 540}}, to complete the quest.
 
 ## Rewards

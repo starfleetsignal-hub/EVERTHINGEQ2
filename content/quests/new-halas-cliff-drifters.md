@@ -36,7 +36,7 @@ source:
 
 1. Kill 10 canopy drifters off the edge from the Dropship Landing Zone.
 
-They are commonly found near the druid ring ( 1760, 448, 980 ) COPY.
+They are commonly found near the druid ring {{waypoint 1760, 448, 980}} COPY.
 
 ## Rewards
 

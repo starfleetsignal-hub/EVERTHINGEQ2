@@ -10,5 +10,5 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Spawns at -120.91, 4.28, 138.28
+Spawns at {{waypoint -120.91, 4.28, 138.28}}
 the pods you walk to him to activate him are on the nearby beach.

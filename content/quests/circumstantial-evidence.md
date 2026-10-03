@@ -34,7 +34,7 @@ source:
 ## Steps
 
 1. Seek out the patrolling group of Tsol Ew. A group of three are across the river from the Ashen Tower at {{waypoint -430, -11, 826}}
-1. Follow the path of red shinies that starts at ( -447, -8, 799 ) to their hidden camp at {{waypoint -440, -7, 676}}
+1. Follow the path of red shinies that starts at {{waypoint -447, -8, 799}} to their hidden camp at {{waypoint -440, -7, 676}}
 1. Collect five reality crystal sparkles around the camp - they quickly respawn)
 1. Return the crystals to [[Nrik]] {{waypoint -311, -7, 832}}
 1. Speak with [[Kuule Vilehammer]] {{waypoint -726, 3, 551}} out near the Tower of Umber

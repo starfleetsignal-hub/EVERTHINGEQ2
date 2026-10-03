@@ -61,7 +61,7 @@ source:
 
 something like
 destillation inspiration (localized client)
-talk to an alchemist in Paineel (Dina at  1995, -299, 3345)
+talk to an alchemist in Paineel (Dina at  {{waypoint 1995, -299, 3345}})
 take a copy of the results (book behind Dina on table)
 buy the requested ingredient in Steamfont Headquarters
 can be bought from Gnort Fizzlebottom for 10g 80s.

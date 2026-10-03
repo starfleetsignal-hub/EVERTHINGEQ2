@@ -36,7 +36,7 @@ source:
 ## Steps
 
 1. Gather 8 spiteweed - you have to get close enough for its DOT of green noxious to trigger before it can be harvested.
-   - ![](images/Spiteweed.JPG)*Note: Most plants can be found in the forest outside Ghorkaal, between the mountain flank and the path to the south, around 971, 24, 1022. Many growing at the base of medium and large trees in the shaded area of your journal.*
+   - ![](images/Spiteweed.JPG)*Note: Most plants can be found in the forest outside Ghorkaal, between the mountain flank and the path to the south, around {{waypoint 971, 24, 1022}}. Many growing at the base of medium and large trees in the shaded area of your journal.*
 1. Report to [[Ritualist D'Rhivirr]] in [[Charnel Grove]].  *Note: You must speak with the ritualist with your Teir'dal illusion active to be able to update this stage.*
 1. Wait for ceremony to start.
 1. Apply the spiteweed to the ornate ring on the table.

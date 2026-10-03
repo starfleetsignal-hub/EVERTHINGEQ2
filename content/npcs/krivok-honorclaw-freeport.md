@@ -31,7 +31,7 @@ source:
 
 ## Description
 
-Brother to [[Krivix Honorclaw (Qeynos)]] and loyal member of the Lujien clan Krivok has been known to hire his services out to defend those who need protection. He only charges those he protects in order to repair his armor and further his studies.  He is downstairs, just past the bartender, on the right.  ( -220, -272, -8 )
+Brother to [[Krivix Honorclaw (Qeynos)]] and loyal member of the Lujien clan Krivok has been known to hire his services out to defend those who need protection. He only charges those he protects in order to repair his armor and further his studies.  He is downstairs, just past the bartender, on the right.  {{waypoint -220, -272, -8}}
 
 ## Abilities / SpellsHe is downstairs, just past the bartender, on the right.
 

@@ -25,4 +25,4 @@ expansion_source: source
 
 This item is needed for the collection: [[A Bug's Life (Collection)|A Bug's Life]]
 
-Found one in the Sandstone Delta at ( -250, 97, -516 )
+Found one in the Sandstone Delta at {{waypoint -250, 97, -516}}

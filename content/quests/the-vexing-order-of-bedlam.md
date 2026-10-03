@@ -8,7 +8,7 @@ difficulty: Epic
 zone: '[[City of Fordel Midst]]'
 timeline: '[[Reign of Shadows Timeline]]'
 journal_category: Hallmark
-starts: Speak to Nelon Hes ( 86, -1, -105 )
+starts: Speak to Nelon Hes {{waypoint 86, -1, -105}}
 prerequisite: '[[Spiritual Bedlam]]'
 added_in: Reign of Shadows
 categories:

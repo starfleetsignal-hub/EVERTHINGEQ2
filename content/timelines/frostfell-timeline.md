@@ -189,7 +189,7 @@ New feature in 2025 - holiday markable objects. You need to mark just one of the
   - [[Frostfell Wonderland Village]] on top of The Great Frostfell Tree behind Frestishan {{waypoint 430, 71, -1555}}
   - [[Frostfang Sea]] in New Halas by Frostfell tree {{waypoint -43, 147, -35}}
   - [[Frostfang Sea]] in New Halas by broker in housing/crafting area {{waypoint -347, 172, -118}}
-  - [[Frostfang Sea]] on New Halas dock /way -358, 29, 196
+  - [[Frostfang Sea]] on New Halas dock {{waypoint -358, 29, 196}}
 
 - **evergreen ceramic Frostfell tree**
   - [[Timorous Deep]] on dock by bartender {{waypoint 2331, 15, 1383}}

@@ -98,7 +98,7 @@ The mercenaries listed below are part of the Season 8 Mercenary collection that 
 
 ## Rage of Cthurath Signature Quests
 
-The Rage of Cthurath Signature Questline starts in the [[Antonica]] from [[Lady Najena]] at -2,084 5 117.
+The Rage of Cthurath Signature Questline starts in the [[Antonica]] from [[Lady Najena]] at {{waypoint -2084, 5, 117}}.
 
 1. [[Rage of Cthurath: Facing Avarice]]
 1. [[Rage of Cthurath: On the Brink of Oblivion]]

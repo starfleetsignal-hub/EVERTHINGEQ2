@@ -37,7 +37,7 @@ source:
 1. [[Captain D'Vall]] will randomly offer you one of the following tasks:
    - Destroy Weapon Crates in [[The Clefts of Rujark]] - second floor around war forge and third floor near the elevator - are harvest trackable.
    - Slay Steelslave enforcers in [[The Clefts of Rujark]].
-   - Gather Rin'Dal Ritual Daggers in [[The Living Tombs]] - Find 10 Rin'Dal ritual daggers around [[Pool of Immortality]] ( location : -634.51, 1.68, 150.09  )
+   - Gather Rin'Dal Ritual Daggers in [[The Living Tombs]] - Find 10 Rin'Dal ritual daggers around [[Pool of Immortality]] ( location : {{waypoint -634.51, 1.68, 150.09}}  )
    - Slay Anaz Mal Gravehowlers in [[The Living Tombs]] (in the Statue Court).
 1. Return to [[Captain D'Vall]] in [[The Freeport Militia House]]
 

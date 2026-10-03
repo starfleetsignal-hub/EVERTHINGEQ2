@@ -3,7 +3,7 @@ title: Broken Shore Bay
 type: poi
 expansion: Visions of Vetrovia
 zone: '[[Svarni Expanse]]'
-location: The waterway between [[Svarni Gateway]] and [[Kamapor]]
+location: The waterway between [[Svarni Gateway]] and [[Kamapor]] {{waypoint 375, 0.27, 478}}
 discovery_xp: y
 achievement: It's an Expansive Expanse
 added_in: Visions of Vetrovia

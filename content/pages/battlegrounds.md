@@ -12,7 +12,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Battlegrounds is a special PvP service available on all the servers. You have to travel to [[Champion's Respite]] by clicking on a brazier with three wings which can be found in all major cities. Since no one has ever mentioned where these portals are, I will mention the Qeynos one. It is located in the Qeynos Province District near the clocktower at 753,-21,-62. In Freeport the brazier is at -48, -20, -263<br>
+Battlegrounds is a special PvP service available on all the servers. You have to travel to [[Champion's Respite]] by clicking on a brazier with three wings which can be found in all major cities. Since no one has ever mentioned where these portals are, I will mention the Qeynos one. It is located in the Qeynos Province District near the clocktower at {{waypoint 753, -21, -62}} In Freeport the brazier is at {{waypoint -48, -20, -263}}<br>
 Next to the brazier are also 2 Questgivers: Scion of Discord <Victory Appraiser> and Scion of Discord <Carnage Appraiser>, but you can pick up these quests also once you're at [[Champion's Respite]].
 The reward merchands are also at these staging grounds.
 

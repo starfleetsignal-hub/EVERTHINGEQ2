@@ -37,7 +37,7 @@ source:
 
 ## Steps
 
-1. Find 3 sparkling crates along the docks in East and South Freeport. {{waypoint -210.05, -56.07, -21.00}} or (-251.28, -56.07, -73.60)
+1. Find 3 sparkling crates along the docks in East and South Freeport. {{waypoint -210.05, -56.07, -21.00}} or {{waypoint -251.28, -56.07, -73.60}}
 1. Find 3 sparkling chests around [[Champion's Coliseum]] in West Freeport. {{waypoint 270, -3.49, -101}} or {{waypoint 145, -4, -82}}
 1. Find 3 sparkling crates in [[The Jade Tiger's Den]]{{waypoint -73, -21, -72}}
 1. Enter the [[Jade Tiger's Den Cellar]] {{waypoint -136, -24, -90}}.

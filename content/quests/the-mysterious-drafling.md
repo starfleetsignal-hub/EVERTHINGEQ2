@@ -33,7 +33,7 @@ source:
 
 ## Steps
 
-1. Rescue [[Treedin Merrythorn]]. He can be found in [[Bogbottom Mill]] in [[Enchanted Lands]] at -3, 3, -623. You have to kill his goblin guards to progress the quest.
+1. Rescue [[Treedin Merrythorn]]. He can be found in [[Bogbottom Mill]] in [[Enchanted Lands]] at {{waypoint -3, 3, -623}}. You have to kill his goblin guards to progress the quest.
 1. Return to [[Bindo Halfbottom]]  in [[Rivervale]].
 1. Speak to [[Treedin Merrythorn]] in Rivervale. {{waypoint -99, -24, -89}}
 1. Search for clues in the [[The House of Circles]]. {{waypoint -826, -6, -111}}
