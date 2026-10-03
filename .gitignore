@@ -9,3 +9,21 @@ data/image-failures.json
 __pycache__/
 *.pyc
 *.tgz
+
+# build and conversion scratch space (tools/build_all.sh makes content.new/ and content.old/)
+content.new/
+content.old/
+/build-*/
+# image bundles belong on the "images" release, not in git
+*.tar
+*.tgz
+*.tar.gz
+*.zip
+# local environments and editor files
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+.idea/
+.vscode/

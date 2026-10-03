@@ -8,6 +8,7 @@ Markdown conventions for the site (kept simple so editors can write them by hand
 """
 import glob, html, json, os, re, sys, collections
 import yaml
+import wikifix
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 ROOT = os.path.normpath(os.path.join(HERE, ".."))
@@ -131,7 +132,8 @@ class Page:
         while i < len(s):
             if s.startswith("{{", i) or s.startswith("[[", i):
                 j = find_close(s, i, s[i:i+2], None)
-                if j < 0: out.append(s[i:]); break
+                if j < 0:        # an unclosed "[[" or "{{" (a typo on the wiki) must not leave the rest of the page unconverted
+                    i += 2; continue
                 inner = s[i + 2:j - 2]
                 if s.startswith("{{", i):
                     out.append(self.template(inner))
@@ -157,14 +159,20 @@ class Page:
         return self.unph(s)
 
     def wlink(self, target, text=None):
+        target = self.magic(target)              # a template argument can carry "Page{{!}}shown text"
+        if text is None and "|" in target: target, text = target.split("|", 1)
         target = norm_title(target)
         if not target: return text or ""
         if text is None or text.strip() == "" or text == target:
             return self.ph("[[%s]]" % target)
         return self.ph("[[%s|%s]]" % (target, text))
 
+    def magic(self, s):
+        """{{!}} and {{PAGENAME}} inside a link or file name are not expanded by the template pass (they sit in the target)."""
+        return wikifix.PAGENAME.sub(lambda m: self.title, wikifix.PIPE.sub("|", s)) if "{{" in s else s
+
     def link(self, inner, trail=""):
-        parts = split_params(inner)
+        parts = split_params(self.magic(inner))
         target = parts[0].strip()
         low = target.lower().lstrip(":")
         if re.match(r"(file|image):", low):
@@ -229,8 +237,9 @@ class Page:
             return self.wlink("%s (%s)" % (P(1), P(2)), "%s [%s]" % (P(1), P(2)))
         if key == "coin":
             bits = [f"{v}{u}" for v, u in ((P(1), "p"), (P(2), "g"), (P(3), "s"), (P(4), "c")) if v and v != "0"]
-            st = named.get("5") or P(5)
+            st = self.inline(named.get("5") or P(5))      # can hold a nested template, e.g. {{info|how much?}}
             if st: bits.append(f"{st} status")
+            if not bits and not any(P(n) for n in (1, 2, 3, 4)): return ""    # {{Coin|||||{{info}}}}: amount unknown
             return self.ph(" ".join(bits) or "0c")
         if key == "status":
             return self.ph(f"{P(1)} status")
@@ -238,7 +247,7 @@ class Page:
             amt = P(2) or "+100"
             return self.ph("%s faction with **%s**" % (amt, self.inline(P(1))))
         if key == "!": return "|"
-        if key == "pagename": return self.title
+        if key in ("pagename", "pagenamee", "basepagename", "fullpagename"): return self.title
         if key in ("repeatquest", "repeatable"):
             lim = named.get("limit") or P(1)
             self.fm["repeatable"] = int(lim) if lim.isdigit() else True
@@ -374,7 +383,7 @@ class Page:
         return loc.strip()
 
     def image(self, a, key="iname"):
-        v = (a.get(key) or "").strip()
+        v = self.magic((a.get(key) or "").strip())
         if v and v != "*":
             self.images.append(norm_title(v))
             return "images/" + norm_title(v).replace(" ", "_")
