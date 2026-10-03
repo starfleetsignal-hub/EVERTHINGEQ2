@@ -21,8 +21,8 @@ source:
   title: Undead of Ro Creature Cataloging
   url: https://eq2.fandom.com/wiki/Undead_of_Ro_Creature_Cataloging
   history: https://eq2.fandom.com/wiki/Undead_of_Ro_Creature_Cataloging?action=history
-  revision: 1722072
-  revised: '2023-04-25T10:49:22Z'
+  revision: 2030356
+  revised: '2026-09-23T20:17:25Z'
   license: CC BY-SA 3.0
 ---
 
@@ -39,14 +39,14 @@ source:
      - [[A commerce sentinel]] {{waypoint -633, 17, 222}}
      - [[A Faro'Nuk conscript]] {{waypoint -564, 4, 211}}
      - [[A market enforcer]] {{waypoint -642, -15, 242}}
-     - [[An Anaz Mal veilguard]] {{waypoint -189, -6, 392}} [[Statue Court]]
-     - [[A statue warden]] {{waypoint -101, -3, 360}} [[Statue Court]]
+     - [[An Anaz Mal veilguard]] {{waypoint -189, -6, 392}} - [[Statue Court]]
+     - [[A statue warden]] {{waypoint -101, -3, 360}} - [[Statue Court]]
    - **[[The Silent City]]**
-     - [[A guardian stalker]] {{waypoint 126, 0, 355}}
-     - [[A Blackfang savage]] {{waypoint 156, 31, 475}}
-     - [[A twisted arbor]] {{waypoint 457, 7, 461}}
-     - [[An Anuk'Sul visionary]] {{waypoint 474, 7, 451}}
-     - [[A Faro'Nuk legionnaire]] {{waypoint 442, 7, 424}}
+     - [[A guardian stalker]] {{waypoint 126, 0, 355}} - Silent City - East
+     - [[A Blackfang savage]] {{waypoint 156, 31, 475}} - Silent City - East
+     - [[A twisted arbor]] {{waypoint 457, 7, 461}} - Silent City - Center
+     - [[An Anuk'Sul visionary]] {{waypoint 474, 7, 451}} - Silent City - Center
+     - [[A Faro'Nuk legionnaire]] {{waypoint 442, 7, 424}} - Silent City - Center
 
 ## Rewards
 

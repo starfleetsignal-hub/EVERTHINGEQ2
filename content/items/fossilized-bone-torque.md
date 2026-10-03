@@ -17,6 +17,7 @@ stats:
 effect_name: Allied Energy
 effects: "- When Equipped:\n  - Increases the wearer's Potency by 75 if they have 2 or more grouped allies within 5 meters of them. If the wearer is in a raid with more than 8 people, the value is increased to 105."
 item_link: \aITEM 1268942903 -1468002903:Fossilized Bone Torque\/a
+image: images/Fossilized_Bone_Torque.png
 categories:
 - Allied Energy (Equipment)
 - Assassin Equipment
@@ -41,6 +42,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Fury Equipment
@@ -52,6 +54,7 @@ categories:
 - Mystic Equipment
 - Neck (Inventory Slot)
 - Necromancer Equipment
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 - Paladin Equipment
 - Potency (Equipment)
 - Predator Equipment
@@ -73,11 +76,11 @@ source:
   title: Fossilized Bone Torque
   url: https://eq2.fandom.com/wiki/Fossilized_Bone_Torque
   history: https://eq2.fandom.com/wiki/Fossilized_Bone_Torque?action=history
-  revision: 1661533
-  revised: '2023-03-14T13:40:53Z'
+  revision: 2030418
+  revised: '2026-09-24T18:53:22Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

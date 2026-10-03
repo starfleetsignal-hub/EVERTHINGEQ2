@@ -20,8 +20,8 @@ source:
   revision: 1393354
   revised: '2022-01-07T17:03:02Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Terrors of Thalumbra
+expansion_source: linked
 ---
 
 This item is needed for the collection: [[Aberrant Idols]]

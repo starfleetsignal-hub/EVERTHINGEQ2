@@ -2,6 +2,7 @@
 title: Augment
 type: spell
 spell_type: tradeskills
+category: Tradeskill
 icon: images/Spell_424.png
 levels: '1'
 target: self
@@ -17,15 +18,15 @@ effects: '- Decreases experimental progress by 1.0.
   - Cannot be modified except by direct means'
 categories:
 - Census Credits
-- Spell needing Category
 - Spells
 - Spells by Type Tradeskills
+- Tradeskill (Spell Type)
 source:
   title: Augment
   url: https://eq2.fandom.com/wiki/Augment
   history: https://eq2.fandom.com/wiki/Augment?action=history
-  revision: 1954374
-  revised: '2026-01-12T22:57:53Z'
+  revision: 2030346
+  revised: '2026-09-23T10:50:34Z'
   license: CC BY-SA 3.0
 ---
 

@@ -24,8 +24,8 @@ source:
   title: Prove Yourself
   url: https://eq2.fandom.com/wiki/Prove_Yourself
   history: https://eq2.fandom.com/wiki/Prove_Yourself?action=history
-  revision: 561908
-  revised: '2012-05-29T08:49:38Z'
+  revision: 2030375
+  revised: '2026-09-24T15:54:25Z'
   license: CC BY-SA 3.0
 ---
 
@@ -42,7 +42,7 @@ This quest is the first of a 19-quest series in the [[Nektulos Forest Timeline]]
 
 ## Rewards
 
-- At least 17s 13c
+- At least 1g 6s 33c
 - One of the following, based on Class:
   - [[Acolyte's Wrought Plate Gloves]]
   - [[Bandit's Light Iron Chain Gloves]]

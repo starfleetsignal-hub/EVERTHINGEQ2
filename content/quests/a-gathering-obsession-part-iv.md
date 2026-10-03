@@ -28,8 +28,8 @@ source:
   title: A Gathering Obsession, Part IV
   url: https://eq2.fandom.com/wiki/A_Gathering_Obsession,_Part_IV
   history: https://eq2.fandom.com/wiki/A_Gathering_Obsession,_Part_IV?action=history
-  revision: 1908647
-  revised: '2025-10-28T20:21:25Z'
+  revision: 2030667
+  revised: '2026-09-30T17:55:38Z'
   license: CC BY-SA 3.0
 ---
 
@@ -64,5 +64,5 @@ You need to be either level 36 adventurer or tradeskiller  (no longer a minimum 
 
 ## Rewards
 
-- At least 36g 41s 30c
+- At least 22g 42s 77c
 - Tradeskill experience

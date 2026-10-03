@@ -17,6 +17,7 @@ stats:
 effect_name: Understanding the Weak Spots
 effects: "- When Equipped:\n  - Increases Potency of caster by 20.0.\n  - Allows mastery attacks to be used on any target and increases the base damage by 200%"
 item_link: \aITEM 1266430452 550974392:Inspired Chain of Tactical Understanding\/a
+image: images/Inspired_Chain_of_Tactical_Understanding.png
 categories:
 - Attack Speed (Equipment)
 - Casting Speed (Equipment)
@@ -31,6 +32,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fury Equipment
 - Illusionist Equipment
 - Inquisitor Equipment
@@ -55,8 +57,8 @@ source:
   title: Inspired Chain of Tactical Understanding
   url: https://eq2.fandom.com/wiki/Inspired_Chain_of_Tactical_Understanding
   history: https://eq2.fandom.com/wiki/Inspired_Chain_of_Tactical_Understanding?action=history
-  revision: 2029125
-  revised: '2026-09-14T09:04:25Z'
+  revision: 2030596
+  revised: '2026-09-28T18:29:35Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: linked

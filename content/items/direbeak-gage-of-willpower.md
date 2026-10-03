@@ -18,6 +18,7 @@ stats:
   resolve: '455'
   dtype: Plate Armor
 item_link: \aITEM 1458466604 678865756:Direbeak Gage of Willpower\/a
+image: images/Direbeak_Gage_of_Willpower.png
 categories:
 - Berserker Equipment
 - Casting Speed (Equipment)
@@ -26,6 +27,7 @@ categories:
 - Crit Bonus (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Guardian Equipment
 - Hands (Inventory Slot)
 - Inquisitor Equipment
@@ -43,8 +45,8 @@ source:
   title: Direbeak Gage of Willpower
   url: https://eq2.fandom.com/wiki/Direbeak_Gage_of_Willpower
   history: https://eq2.fandom.com/wiki/Direbeak_Gage_of_Willpower?action=history
-  revision: 2029084
-  revised: '2026-09-13T21:25:35Z'
+  revision: 2030589
+  revised: '2026-09-28T17:46:59Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

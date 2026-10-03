@@ -22,8 +22,8 @@ source:
   title: 'The Ruins of Guk: Ykesha''s Outer Stronghold'
   url: https://eq2.fandom.com/wiki/The_Ruins_of_Guk:_Ykesha's_Outer_Stronghold
   history: https://eq2.fandom.com/wiki/The_Ruins_of_Guk:_Ykesha's_Outer_Stronghold?action=history
-  revision: 1804479
-  revised: '2024-06-25T20:47:32Z'
+  revision: 2030361
+  revised: '2026-09-24T03:41:11Z'
   license: CC BY-SA 3.0
 ---
 
@@ -61,7 +61,8 @@ Also sometimes abbreviated as **Guk: OS**.
 - [[Ferhustr Frupdor|Ferhustr]] is immune to damage. You can either use a [[Chaos Spark]] from the forge for a 25 second buff that allows you to damage him, or else wait until [[Lunchmeat]] casts an arcane debuff that allows the recipient to damage [[Ferhustr Frupdor|Ferhustr]].
   - * If you need more [[Chaos Spark|Chaos Sparks]], one person can run back to the forge and grab more, but the forge is beyond the leash point for this encounter, so the whole group can't go.*
 - It's possible to keep [[Lunchmeat]] alive but mezzed or just taunted with no damage while fighting [[Ferhustr Frupdor|Ferhustr]], and allows him to cast the debuff needed to damage [[Ferhustr Frupdor|Ferhustr]].
-- After killing [[Ferhustr Frupdor|Ferhustr]] and [[Lunchmeat]], speak with [[An ancient froglok sage]] at  {{waypoint 64.77, -8.03, -202.58}}.
+
+Speak with [[An ancient froglok sage]] at  {{waypoint 64.77, -8.03, -202.58}} and he will open the gate for you.
 
 ## [[Zraxth]]
 
@@ -74,6 +75,8 @@ Also sometimes abbreviated as **Guk: OS**.
   - If he Fears someone, watch for line-of-sight issues around the statues.
   - [[Zraxth]] can leash if the tank is feared into the SW corner.
   - A more detailed strategy can be found on [[Zraxth|Zraxth's]] page.
+
+Speak with [[An ancient froglok sage]] and he will open a portal sending you outside the front Entry in the Moors.
 
 ## [[A Ykeshan Quartermaster]]
 

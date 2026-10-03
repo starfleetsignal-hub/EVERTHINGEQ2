@@ -18,6 +18,7 @@ stats:
   resolve: '620'
   mitinc: '92.5'
 item_link: \aITEM -943897050 -1883679399:Mordant Charm of the Grathok\/a
+image: images/Mordant_Charm_of_the_Grathok.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -40,6 +41,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -73,8 +75,8 @@ source:
   title: Mordant Charm of the Grathok
   url: https://eq2.fandom.com/wiki/Mordant_Charm_of_the_Grathok
   history: https://eq2.fandom.com/wiki/Mordant_Charm_of_the_Grathok?action=history
-  revision: 1919377
-  revised: '2025-12-17T20:59:20Z'
+  revision: 2030606
+  revised: '2026-09-28T20:04:24Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: level

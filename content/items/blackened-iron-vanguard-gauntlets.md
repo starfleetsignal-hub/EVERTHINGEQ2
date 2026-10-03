@@ -14,6 +14,7 @@ stats:
   dtype: Plate Armor
 obtained_from: '*Crafted by [[Outfitter]] (level 16) from [[Advanced Outfitter Volume 16 (Normal)]] *Crafted by [[Outfitter]] (level 16) from [[Advanced Outfitter Volume 16 (No-Trade)]] *From [[Vanguard Plate Armor Pack (Level 12 Mastercrafted)]]'
 item_link: \aITEM -2099687051 -875024872:Blackened Iron Vanguard Gauntlets\/a
+image: images/Blackened_Iron_Vanguard_Gauntlets.png
 aliases:
 - Pristine Blackened Iron Vanguard Gauntlets
 categories:
@@ -23,6 +24,7 @@ categories:
 - Combat Skills (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Guardian Equipment
 - Hands (Inventory Slot)
 - Inquisitor Equipment
@@ -38,8 +40,8 @@ source:
   title: Blackened Iron Vanguard Gauntlets
   url: https://eq2.fandom.com/wiki/Blackened_Iron_Vanguard_Gauntlets
   history: https://eq2.fandom.com/wiki/Blackened_Iron_Vanguard_Gauntlets?action=history
-  revision: 1544402
-  revised: '2022-08-16T00:27:36Z'
+  revision: 2030388
+  revised: '2026-09-24T16:19:14Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

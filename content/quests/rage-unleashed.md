@@ -12,10 +12,13 @@ starts: Talk to [[Xilania Nevagon (GFay)|Xilania Nevagon]], near [[The Combine S
 prerequisite: '[[Into the Fold]]'
 next_quest: '[[A Necessary Step]]'
 added_in: Echoes of Faydwer
+achievement_xp: true
 categories:
+- AA Quests
 - Deity Quests
 - Echoes of Faydwer Quests
 - Faction Quests
+- Greater Faydark AA Quests
 - Greater Faydark Quests
 - Greater Faydark Solo Quests
 - Innoruuk (Faction)
@@ -28,15 +31,15 @@ source:
   title: Rage Unleashed
   url: https://eq2.fandom.com/wiki/Rage_Unleashed
   history: https://eq2.fandom.com/wiki/Rage_Unleashed?action=history
-  revision: 1843805
-  revised: '2024-12-06T21:08:34Z'
+  revision: 2030763
+  revised: '2026-10-02T20:04:36Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
 1. Speak with [[Maertha Pulzer]] inside a building at [[East Fort Irontoe]] in [[Butcherblock Mountains]]. She will give you a [[Crawler Net]]. {{waypoint -380, 161, -204}}
-1. Capture [[A crawler hatchling]]. Go to [[Mortartoe Mines]] and use the [[Crawler Net]] from your inventory to capture the hatchling. {{waypoint -615, 148, -198}}
+1. Capture [[A crawler hatchling (item) (Quest Item)|a crawler hatchling]]. Go to [[Mortartoe Mines]] and use the [[Crawler Net]] from your inventory to capture the hatchling. {{waypoint -615, 148, -198}}
 1. Return to Maertha Pulzer.
 1. Go to the top of the ramp leading down to the [[Butcherblock Docks]] to spawn [[Kargail]] {{waypoint 378, 181, 510}}. He will walk towards [[Highland Outposts]] where he will eventually stop behind some buildings. At this point hail and kill him. {{waypoint 355, 192, 510}}
 1. Use the [[A crawler hatchling (useable item)|crawler hatchling]] from your inventory and allow it feast on the corpse of Kargail.
@@ -48,7 +51,8 @@ source:
 
 ## Rewards
 
-- Experience
-- Achievement experience
-- [[Innoruuk's Tempered Signet]] -or- [[Innoruuk's Cloudy Sigil]]
-- 2500 faction with **Innoruuk**
+- At least 3g 78s 45c
+- 2,500 faction with **Innoruuk**
+- A choice of at least one of these items:
+  - [[Innoruuk's Tempered Signet]]
+  - [[Innoruuk's Cloudy Sigil]]

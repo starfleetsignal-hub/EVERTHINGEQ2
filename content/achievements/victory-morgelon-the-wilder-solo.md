@@ -8,10 +8,13 @@ subcategory: Chaos Descending
 points: '10'
 requirements:
 - Unknown
+rewards:
+- 49000 status
 categories:
 - 10 Point Achievements
 - Achievements
 - Achievements missing alink
+- Achievements with Rewards
 - Census Credits
 - Chaos Descending Achievements
 - Dungeons Achievements
@@ -19,8 +22,8 @@ source:
   title: 'Victory: Morgelon, the Wilder (Solo)'
   url: https://eq2.fandom.com/wiki/Victory:_Morgelon,_the_Wilder_(Solo)
   history: https://eq2.fandom.com/wiki/Victory:_Morgelon,_the_Wilder_(Solo)?action=history
-  revision: 1107808
-  revised: '2020-08-22T15:12:13Z'
+  revision: 2030535
+  revised: '2026-09-27T22:12:57Z'
   license: CC BY-SA 3.0
 ---
 

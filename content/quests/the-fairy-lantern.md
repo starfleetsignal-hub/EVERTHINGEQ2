@@ -21,8 +21,8 @@ source:
   title: The Fairy Lantern
   url: https://eq2.fandom.com/wiki/The_Fairy_Lantern
   history: https://eq2.fandom.com/wiki/The_Fairy_Lantern?action=history
-  revision: 1426451
-  revised: '2022-04-17T00:53:46Z'
+  revision: 2030785
+  revised: '2026-10-02T22:24:47Z'
   license: CC BY-SA 3.0
 ---
 
@@ -36,4 +36,4 @@ source:
 
 ## Rewards
 
-- [[A fairy lantern]]
+- [[A fairy lantern (Floor)|a fairy lantern]]

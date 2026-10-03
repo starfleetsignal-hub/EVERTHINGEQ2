@@ -1,30 +1,40 @@
 ---
 title: Gold Key of Fabled Rujark
 type: quest
-expansion: Shattered Lands
-expansion_source: category
 level: '1'
+difficulty: Solo
+zone: '[[The Fabled Clefts of Rujark]]'
 journal_category: Fabled Clefts of Rujark
+starts: Examine a cleansed key to receive [[A gold engraved key]] to open the chest
+prerequisite: '[[A Muddy Key]]'
+added_in: LU67
+achievement_xp: true
 categories:
+- AA Quests
 - Census Credits
 - Fabled Clefts of Rujark Quests
-- Quest articles needing next step
-- Quest articles needing rewards
-- Quest needing starting information
-- Quest needing starting zone
+- LU67 Quests
 - Quests
-- Shattered Lands Quests
 - Solo Quests
+- The Fabled Clefts of Rujark AA Quests
+- The Fabled Clefts of Rujark Quests
+- The Fabled Clefts of Rujark Solo Quests
 - Tier 1 Quests
 - Tier 1 Solo Quests
 source:
   title: Gold Key of Fabled Rujark
   url: https://eq2.fandom.com/wiki/Gold_Key_of_Fabled_Rujark
   history: https://eq2.fandom.com/wiki/Gold_Key_of_Fabled_Rujark?action=history
-  revision: 923255
-  revised: '2018-12-02T23:11:00Z'
+  revision: 2030812
+  revised: '2026-10-03T07:04:59Z'
   license: CC BY-SA 3.0
+expansion: Chains of Eternity
+expansion_source: patch
 ---
+
+## Steps
+
+Open the fabled golden chest {{waypoint 2.83, 10.25, -222.35}} in [[The Treasure Chamber]] in [[The Fabled Clefts of Rujark]].
 
 ## Rewards
 

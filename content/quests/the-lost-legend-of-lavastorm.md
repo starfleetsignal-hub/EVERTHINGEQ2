@@ -27,8 +27,8 @@ source:
   title: The Lost Legend of Lavastorm
   url: https://eq2.fandom.com/wiki/The_Lost_Legend_of_Lavastorm
   history: https://eq2.fandom.com/wiki/The_Lost_Legend_of_Lavastorm?action=history
-  revision: 2018500
-  revised: '2026-07-18T23:00:54Z'
+  revision: 2030646
+  revised: '2026-09-30T01:04:42Z'
   license: CC BY-SA 3.0
 ---
 
@@ -96,7 +96,7 @@ source:
 1. Speak once again with [[Tomekeeper Sunto]] in the library of the Temple of Solusek Ro. {{waypoint -438.60, -60.60, -686.50}}
 1. Hail the Tome of Tranix lying on the table a few steps away from Tomekeeper Sunto.
 1. Enter [[Solusek's Eye]] and examine the chest in the [[Chamber of the Speaker of Fates]] at {{waypoint 100, -357, 189}}.
-   - *Note: The quickest way is to take the teleport to the [[Chamber of the Speaker of Fates]] which is near the zone entrance at {{waypoint 16, 14, -42}}. However if doesn't work unless you've previously visited the [[Chamber of the Speaker of Fates]] and stood on the receiving teleport at {{waypoint 85, -359, 196}}.*
+   - *Note: The quickest way is to take the teleport to the [[Chamber of the Speaker of Fates]] which is near the zone entrance at {{waypoint 16, 14, -42}}. This doesn't work unless you've previously visited the [[Chamber of the Speaker of Fates]] and stood on the receiving teleport at {{waypoint 85, -359, 196}}.*
    - **Warning:** If the [[The Speaker of Fates|Speaker of Fates]] or his [[A fatespeaker of Thyr|placeholder]] is up, DO NOT KILL HIM, as he is needed for the following step!
    - Navigating Solusek's Eye can be overwhelming. Refer to the [[Solusek's Eye#Geographic Walkthrough|walkthrough]] for directions.
 1. Gather four circlets by killing:

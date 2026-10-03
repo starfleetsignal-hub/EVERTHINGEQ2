@@ -15,6 +15,7 @@ stats:
   potency: '8.6'
   aspeed: '13.2'
 item_link: \aITEM 610641758 -812117175:V'uulian Death Strike Bauble\/a
+image: images/V'uulian_Death_Strike_Bauble.png
 categories:
 - Attack Speed (Equipment)
 - Berserker Equipment
@@ -27,6 +28,7 @@ categories:
 - Crit Chance (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Guardian Equipment
@@ -41,8 +43,8 @@ source:
   title: V'uulian Death Strike Bauble
   url: https://eq2.fandom.com/wiki/V'uulian_Death_Strike_Bauble
   history: https://eq2.fandom.com/wiki/V'uulian_Death_Strike_Bauble?action=history
-  revision: 1688439
-  revised: '2023-03-16T16:06:42Z'
+  revision: 2030598
+  revised: '2026-09-28T18:33:04Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

@@ -2,6 +2,7 @@
 title: Tweak
 type: spell
 spell_type: tradeskills
+category: Tradeskill
 icon: images/Spell_415.png
 levels: '1'
 target: self
@@ -16,15 +17,15 @@ effects: '- Decreases experimental success chance by 1.0%.
   - Cannot be modified except by direct means'
 categories:
 - Census Credits
-- Spell needing Category
 - Spells
 - Spells by Type Tradeskills
+- Tradeskill (Spell Type)
 source:
   title: Tweak
   url: https://eq2.fandom.com/wiki/Tweak
   history: https://eq2.fandom.com/wiki/Tweak?action=history
-  revision: 1954379
-  revised: '2026-01-12T23:02:01Z'
+  revision: 2030351
+  revised: '2026-09-23T10:51:52Z'
   license: CC BY-SA 3.0
 ---
 

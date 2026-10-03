@@ -16,6 +16,7 @@ stats:
 effect_name: Discombobulate
 effects: "- When Equipped:\n  - On any combat or spell hit this spell may cast Discombobulate V on target of attack.  Triggers about 3.0 times per minute.\n    - Decreases Threat to target by 2,100,000\n    - Inflicts 686,400 mental damage on target.\n    - Cannot be modified except by direct means"
 item_link: \aITEM 1447589458 677216494:Inspired Band of Utter Confusion\/a
+image: images/Inspired_Band_of_Utter_Confusion.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -41,6 +42,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Fury Equipment
@@ -77,8 +79,8 @@ source:
   title: Inspired Band of Utter Confusion
   url: https://eq2.fandom.com/wiki/Inspired_Band_of_Utter_Confusion
   history: https://eq2.fandom.com/wiki/Inspired_Band_of_Utter_Confusion?action=history
-  revision: 1886435
-  revised: '2025-09-16T20:26:37Z'
+  revision: 2030569
+  revised: '2026-09-28T14:16:57Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: linked

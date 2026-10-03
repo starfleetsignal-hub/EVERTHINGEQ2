@@ -12,6 +12,7 @@ stats:
   sta: '+4'
 obtained_from: '*Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (Normal)]] *Crafted by [[Scholar]] (level 16) from [[Advanced Scholar Volume 16 (No-Trade)]]'
 item_link: \aITEM -764258590 2029318742:Fashioned Coral Earring\/a
+image: images/Fashioned_Coral_Earring_(Crafted).png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -33,6 +34,7 @@ categories:
 - Ear (Inventory Slot)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -63,8 +65,8 @@ source:
   title: Fashioned Coral Earring (Crafted)
   url: https://eq2.fandom.com/wiki/Fashioned_Coral_Earring_(Crafted)
   history: https://eq2.fandom.com/wiki/Fashioned_Coral_Earring_(Crafted)?action=history
-  revision: 1201739
-  revised: '2021-01-06T16:15:13Z'
+  revision: 2030619
+  revised: '2026-09-29T10:44:13Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

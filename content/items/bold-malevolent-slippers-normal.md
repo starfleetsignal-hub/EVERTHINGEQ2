@@ -16,6 +16,7 @@ stats:
   multi: '99.7'
   dtype: Cloth Armor
 item_link: \aITEM 1094377052 -821244786:Bold Malevolent Slippers\/a
+image: images/Bold_Malevolent_(Normal)_Slippers.png
 categories:
 - Census Credits
 - Cloth Armor (Equipment Type)
@@ -25,6 +26,7 @@ categories:
 - DPS (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Feet (Inventory Slot)
 - Illusionist Equipment
@@ -42,8 +44,8 @@ source:
   title: Bold Malevolent Slippers (Normal)
   url: https://eq2.fandom.com/wiki/Bold_Malevolent_Slippers_(Normal)
   history: https://eq2.fandom.com/wiki/Bold_Malevolent_Slippers_(Normal)?action=history
-  revision: 2029879
-  revised: '2026-09-17T11:17:00Z'
+  revision: 2030458
+  revised: '2026-09-25T11:36:23Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

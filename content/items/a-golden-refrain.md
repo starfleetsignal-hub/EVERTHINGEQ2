@@ -19,6 +19,8 @@ source:
   revision: 1731017
   revised: '2023-07-11T17:49:02Z'
   license: CC BY-SA 3.0
+expansion: Rise of Kunark
+expansion_source: linked
 ---
 
 

@@ -11,6 +11,8 @@ drops:
 - '[[Captains Barbed Whip]]'
 - '[[Ceremonial Incantators Dagger]]'
 - '[[Round Shield of the Brotherhood]]'
+- '[[Amber Loop of Energy]]'
+- '[[Nektulos Medium''s Girdle]]'
 achievement_xp: true
 aliases:
 - A Nerius scallywag
@@ -29,8 +31,8 @@ source:
   title: A Nerius Scallywag
   url: https://eq2.fandom.com/wiki/A_Nerius_Scallywag
   history: https://eq2.fandom.com/wiki/A_Nerius_Scallywag?action=history
-  revision: 855943
-  revised: '2018-03-10T06:30:04Z'
+  revision: 2030380
+  revised: '2026-09-24T16:05:53Z'
   license: CC BY-SA 3.0
 ---
 

@@ -23,10 +23,12 @@ source:
   title: Xigothid (Untold Heroic)
   url: https://eq2.fandom.com/wiki/Xigothid_(Untold_Heroic)
   history: https://eq2.fandom.com/wiki/Xigothid_(Untold_Heroic)?action=history
-  revision: 1990732
-  revised: '2026-03-15T00:29:04Z'
+  revision: 2030647
+  revised: '2026-09-30T02:14:27Z'
   license: CC BY-SA 3.0
 ---
+
+Ability and strategy information changes with stages (1-20/21-40/41+).
 
 ## Abilities
 
@@ -41,7 +43,7 @@ source:
 
 Xigothid summons [[Gazer gestation goo]] from the southern experiment orb, which begins wandering towards one of the remaining two experiment orbs. If it reaches its destination, it transforms into an Epic creature with its own Barrage attack.
 
-At 45%, black holes begin appearing on the platform. Players have a very short time to get out of the circle before falling through to the Gore Dump below. These holes remain for the duration of the fight.
+At (45%/45%/65%), black holes begin appearing on the platform. Players have a very short time to get out of the circle before falling through to the Gore Dump below. These holes remain for the duration of the fight.
 
 ## ACT Triggers
 

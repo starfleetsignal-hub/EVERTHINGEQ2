@@ -13,7 +13,11 @@ stats:
   recast: 0.0 seconds
 effect_name: Pink Two Tone Warg with Pink Saddle
 effects: "- Applies Pink Two Tone Warg with Pink Saddle when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n  - Increases Crushing of caster by 7.0.\n  - Increases Piercing of caster by 7.0.\n  - Increases Slashing of caster by 7.0.\n  - Increases Ranged of caster by 7.0.\n  - Increases Disruption of caster by 7.0.\n  - Increases damage done by spells and combat arts by up to 30."
+obtained_from: Sold by [[Verkaera Myr'zok]] (Horse Merchant) in [[Timorous Deep]]
 item_link: \aITEM 1703102610 -692977659:Pink Two-Tone Warg with Pink Saddle\/a
+image: images/DogWhistlePinkWarg1.jpg
+aliases:
+- Dog Whistle of the Pink Two Tone Warg with a Pink Saddle
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -38,6 +42,7 @@ categories:
 - Guardian Equipment
 - Illusionist Equipment
 - Inquisitor Equipment
+- Item pages with existing iname images
 - Items
 - Mage Equipment
 - Monk Equipment
@@ -65,11 +70,11 @@ source:
   title: Pink Two-Tone Warg with Pink Saddle
   url: https://eq2.fandom.com/wiki/Pink_Two-Tone_Warg_with_Pink_Saddle
   history: https://eq2.fandom.com/wiki/Pink_Two-Tone_Warg_with_Pink_Saddle?action=history
-  revision: 1933437
-  revised: '2026-01-02T17:43:27Z'
+  revision: 2030477
+  revised: '2026-09-25T19:34:34Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: linked
+expansion: Rise of Kunark
+expansion_source: source
 ---
 
 

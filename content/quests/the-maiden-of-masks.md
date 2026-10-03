@@ -28,8 +28,8 @@ source:
   title: The Maiden of Masks
   url: https://eq2.fandom.com/wiki/The_Maiden_of_Masks
   history: https://eq2.fandom.com/wiki/The_Maiden_of_Masks?action=history
-  revision: 2030245
-  revised: '2026-09-22T04:59:03Z'
+  revision: 2030491
+  revised: '2026-09-26T14:15:29Z'
   license: CC BY-SA 3.0
 ---
 
@@ -50,7 +50,7 @@ These are things you will need throughout the quest:
 
 ## Starting the Quest
 
-1. Kill [[A Rillisian slaver|Rillisian slavers]] near the Western Pens in [[Fens of Nathsar]] until you find [[A pens cell door key]]. This is a body drop.
+1. Kill [[A Rillisian slaver|Rillisian slavers]] near the Western or Eastern Pens in [[Fens of Nathsar]] until you find [[A pens cell door key]]. This is a body drop.
 1. Free the hafling [[Tofus Jepner]] at {{waypoint -693, -127, 684}} from his cell using the key.  Follow him around the corner and hail him.
 1. Perform the Illusions he asks of you in order and chat to him again to receive the quest. You will need to know the following illusions
    - Half-Elf

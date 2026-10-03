@@ -13,20 +13,23 @@ contains: '- [[Vigilant Source]]
 
   - [[Eyefinder]]'
 item_link: \aITEM 1926983715 -1288686859:Sharp Malicious Weapon\/a
+image: images/Sharp_Malicious_Weapon.png
 categories:
 - Census Credits
 - Crate (Item Type)
 - Fabled Items
+- Item pages with existing iname images
 - Items
+- 'Ossuary: Cathedral of Bones (Raid) Dropped Items'
 source:
   title: Sharp Malicious Weapon
   url: https://eq2.fandom.com/wiki/Sharp_Malicious_Weapon
   history: https://eq2.fandom.com/wiki/Sharp_Malicious_Weapon?action=history
-  revision: 1697917
-  revised: '2023-03-16T21:21:51Z'
+  revision: 2030405
+  revised: '2026-09-24T18:10:02Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
-expansion_source: level
+expansion_source: linked
 ---
 
 

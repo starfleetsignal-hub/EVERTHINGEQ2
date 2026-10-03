@@ -37,6 +37,7 @@ recipes: '- [[Blessed Steel Flail]]
   - [[Steel Tribal Spear]]'
 obtained_from: This recipe book drops from creatures (level 24).
 item_link: \aITEM -112417227 847633583:Advanced Weaponsmith Volume 24\/a
+image: images/Advanced_Weaponsmith_Volume_24_(Normal).png
 categories:
 - Census Credits
 - Recipe Books
@@ -46,8 +47,8 @@ source:
   title: Advanced Weaponsmith Volume 24 (Normal)
   url: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_24_(Normal)
   history: https://eq2.fandom.com/wiki/Advanced_Weaponsmith_Volume_24_(Normal)?action=history
-  revision: 1532433
-  revised: '2022-07-22T11:13:35Z'
+  revision: 2030663
+  revised: '2026-09-30T10:51:12Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

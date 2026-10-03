@@ -39,6 +39,8 @@ source:
   revision: 1391203
   revised: '2021-12-24T09:11:36Z'
   license: CC BY-SA 3.0
+expansion: Kunark Ascending
+expansion_source: linked
 ---
 
 |

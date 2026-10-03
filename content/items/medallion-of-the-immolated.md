@@ -20,8 +20,8 @@ source:
   revision: 1368245
   revised: '2021-11-18T19:31:17Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Terrors of Thalumbra
+expansion_source: linked
 ---
 
 This item is needed for the collection: [[Medallions of Thalumbra]]

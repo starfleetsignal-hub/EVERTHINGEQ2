@@ -24,6 +24,7 @@ stats:
   dtype: ranged
   wtype: Bow
 item_link: \aITEM -1211838642 -1561834013:Master Mora's Longbow of Force\/a
+image: images/Master_Mora's_Longbow_of_Force.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -38,6 +39,7 @@ categories:
 - Crusader Equipment
 - Dirge Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Guardian Equipment
 - Legendary Equipment
 - Paladin Equipment
@@ -59,8 +61,8 @@ source:
   title: Master Mora's Longbow of Force
   url: https://eq2.fandom.com/wiki/Master_Mora's_Longbow_of_Force
   history: https://eq2.fandom.com/wiki/Master_Mora's_Longbow_of_Force?action=history
-  revision: 1720172
-  revised: '2023-04-15T21:49:09Z'
+  revision: 2030561
+  revised: '2026-09-28T11:44:17Z'
   license: CC BY-SA 3.0
 expansion: Visions of Vetrovia
 expansion_source: level

@@ -32,8 +32,8 @@ source:
   title: 'Were Is the Messenger: Where the Weres Are'
   url: https://eq2.fandom.com/wiki/Were_Is_the_Messenger:_Where_the_Weres_Are
   history: https://eq2.fandom.com/wiki/Were_Is_the_Messenger:_Where_the_Weres_Are?action=history
-  revision: 1995887
-  revised: '2026-04-14T12:00:48Z'
+  revision: 2030704
+  revised: '2026-10-01T08:02:04Z'
   license: CC BY-SA 3.0
 ---
 
@@ -48,6 +48,7 @@ Mairen had been turned into a werewolf. Before I deliver the news of her death t
 ## Steps
 
 1. Speak with [[Renfry]] to receive [[Mairen's Note (A note)|Mairen's Note]].
+   - The note is a house item. If you want to keep it, place it in your house before speaking to Piccolo. You do not need it in your inventory to update the quest. The note rewarded at the end of the quest, or purchased from merchants, is a different item that is a copy of the note.
 1. Leave the basement and return to [[Forlorn Gist]] by clicking on the door at {{waypoint 0, 0, 29}}.
 1. Use [[Illusion: Werewolf]] once in [[Forlorn Gist]]
    - The illusion should prevent any nearby creatures from showing up as hostile, at least in the area around [[Little Town]] and [[District of Night]]

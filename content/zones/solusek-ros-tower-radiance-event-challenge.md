@@ -25,13 +25,19 @@ source:
   title: 'Solusek Ro''s Tower: Radiance (Event Challenge)'
   url: https://eq2.fandom.com/wiki/Solusek_Ro's_Tower:_Radiance_(Event_Challenge)
   history: https://eq2.fandom.com/wiki/Solusek_Ro's_Tower:_Radiance_(Event_Challenge)?action=history
-  revision: 1874338
-  revised: '2025-05-02T05:09:30Z'
+  revision: 2030433
+  revised: '2026-09-25T03:44:12Z'
   license: CC BY-SA 3.0
 ---
 
 ## Notes
 
-- You must have 6 players in your group to enter.
-- You can enter here with 3 players and 3 mercenaries. However when you are in there, mercenaries are suspended and this zone is designed to 6 players. You can hardly finish it with 3 players
-- Kill first named then have each person kill trash to unlock brazier then port into main room go into each brazier kill trash note name of symbol port back right click and set the brazier then click the now active brazier to fight next named kill him then port back out and youll be in sol ros room fight him hell give up and you get reward
+- MINIMUM of 500 resolve is needed for each toon if you want to do any damage to the mobs. If you're too low, you won't even do scratch damage. 525 will ensure marginally steady DPS, and higher resolve from there. If you're chronomentored, you'll one-shot.
+- Evac spells are completely disabled for this zone.
+- You must have 6 players in your group to enter. Mercenaries are suspended and this zone is designed for 6 players. You cannot finish with less than 4 players, and that's assuming that nobody gets stuck in one of the two stasis braziers.
+- Kill first named. It cycles through deathtouches to all but one class archetype before moving to the next. You can burn him if you're fast enough.
+- Each person must click on a Brazier. 2 players will be stuck in stasis while the other four must kill three mobs. They do not fight back, but there is a small chance you can die from the fire they're standing in. You can stand outside of the grate and still be in melee range.
+  - Teleportation spells like racial teleports or Call of the Tinkerer will result in an immediate death touch for trying to move to another toon to assist them.
+- Port to the next room. Each brazier has a small set of mobs to be killed before a symbol is revealed. Go back and right click on the same brazier to choose which symbol to set. You can complete all of them with one toon if you need.
+- Burn Sparky. You may want to throw up some healing wards first. He also power drains. Chronomentoring to 125 will not ensure your survival from the AOE that hits everyone at the start of the fight.
+- Burn Solusek Ro to finish. DO NOT immediately one-shot him. Smack him to give the game a chance to recognize that you've started combat in order for the final loot chest and shiny to spawn.

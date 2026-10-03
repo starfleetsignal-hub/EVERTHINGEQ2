@@ -74,8 +74,8 @@ source:
   revision: 1378678
   revised: '2021-12-06T08:32:02Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: level
+expansion: Tears of Veeshan
+expansion_source: linked
 ---
 
 ﻿

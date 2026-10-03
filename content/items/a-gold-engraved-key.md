@@ -45,6 +45,8 @@ source:
   revision: 1723303
   revised: '2023-05-10T13:27:04Z'
   license: CC BY-SA 3.0
+expansion: Desert of Flames
+expansion_source: source
 ---
 
 

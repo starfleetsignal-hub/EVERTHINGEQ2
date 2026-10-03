@@ -18,7 +18,9 @@ stats:
   abmod: +44,125
   aspeed: '75.6'
   vselemental: +142,340
+obtained_from: Potential reward from [[Empyral Mission Reward Crate]]
 item_link: \aITEM -1671302513 959261045:Adumbrated Steel Gilded Ring\/a
+image: images/Adumbrated_Steel_Gilded_Ring.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -44,6 +46,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Fury Equipment
@@ -80,8 +83,8 @@ source:
   title: Adumbrated Steel Gilded Ring
   url: https://eq2.fandom.com/wiki/Adumbrated_Steel_Gilded_Ring
   history: https://eq2.fandom.com/wiki/Adumbrated_Steel_Gilded_Ring?action=history
-  revision: 1770492
-  revised: '2024-01-01T11:59:40Z'
+  revision: 2030635
+  revised: '2026-09-29T21:27:11Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: level

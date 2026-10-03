@@ -19,6 +19,7 @@ stats:
   vselemental: +149,520
   mitinc: '14.1'
 item_link: \aITEM 9643159 -348440020:Trailwarden's Bracelet of Formidable Ire\/a
+image: images/Trailwarden's_Bracelet_of_Formidable_Ire.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -42,6 +43,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -79,8 +81,8 @@ source:
   title: Trailwarden's Bracelet of Formidable Ire
   url: https://eq2.fandom.com/wiki/Trailwarden's_Bracelet_of_Formidable_Ire
   history: https://eq2.fandom.com/wiki/Trailwarden's_Bracelet_of_Formidable_Ire?action=history
-  revision: 1686751
-  revised: '2023-03-16T15:24:15Z'
+  revision: 2030556
+  revised: '2026-09-28T11:30:32Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: level

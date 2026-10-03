@@ -27,18 +27,19 @@ source:
   title: Ritual of the Flame's Purification
   url: https://eq2.fandom.com/wiki/Ritual_of_the_Flame's_Purification
   history: https://eq2.fandom.com/wiki/Ritual_of_the_Flame's_Purification?action=history
-  revision: 2016601
-  revised: '2026-07-06T23:48:59Z'
+  revision: 2030666
+  revised: '2026-09-30T17:00:33Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
-1. Enter [[Solusek's Eye]] and go to [[Ledge of Molten Flame]]. {{waypoint 80, -600, -37}}
+1. Enter [[Solusek's Eye]] and go to [[Ledge of Molten Flame]]. {{waypoint 80, -600, -37}}  *(**NOTE:** the Ledge of Molten Flame is reached from Level 6.)*
    - Navigating Solusek's Eye is a challenge in it of itself. See the [[Solusek's Eye|dungeon page]] for help.
    - If you have slow fall, jump down the giant hole on the first level. It will take you to the lowest level. Make sure to steer and land on the last walkway, because if you reach the actual bottom where the wrecked expedition ship lies, you will die.
-1. Find and cross invisible path over the lava. {{waypoint 59, -602, -51}}.
+1. Find and cross invisible path over the lava. {{waypoint 59, -602, -51}}. *(**NOTE:** while the path is straight, walk carefully through the lava fall because if you go too far you will reach the end and fall to your death.)*
    - The path lights up when you move and disappears when you stand still. The path is straight, so do not fear falling off because of a turn once you're on it. The path can most easily be seen with graphic settings at *Balanced* or higher.
+   - Walk slowly until you see the [[Shrine of Ro]] at {{waypoint -5.78, -603.88, -45.36}}. Place your hand on it and meditate. Immediately after meditating, the Spirit of Ro will appear. READ the warning below.
 1. **WARNING: READ BEFORE CONTINUING TO NEXT STEP:** If you hail OR kill [[Spirit of Ro]] before it's done speaking, you will have to delete the quest and start over. The shrine does not reappear after relogging or rezoning unless you are on a fresh quest.
    - Update 10/1/2013 - The Spirit of Ro would not respond to a hail and did not speak. Killing it updated the quest. The mob was grey and may be a factor.
    - Update 6/7/2026 - The Spirit of Ro was not aggro. The Shrine was there. I prayed and the Spirit did not attack until several moments of waiting had passed. It is a quest mob and it can be killed for the update after praying.

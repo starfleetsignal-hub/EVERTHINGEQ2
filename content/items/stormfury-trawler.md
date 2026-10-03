@@ -64,8 +64,8 @@ source:
   title: Stormfury Trawler
   url: https://eq2.fandom.com/wiki/Stormfury_Trawler
   history: https://eq2.fandom.com/wiki/Stormfury_Trawler?action=history
-  revision: 1937426
-  revised: '2026-01-03T13:06:02Z'
+  revision: 2030801
+  revised: '2026-10-03T05:29:08Z'
   license: CC BY-SA 3.0
 ---
 

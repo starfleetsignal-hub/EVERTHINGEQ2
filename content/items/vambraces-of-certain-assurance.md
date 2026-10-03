@@ -19,6 +19,7 @@ stats:
   multi: '30.7'
   dtype: Plate Armor
 item_link: \aITEM -108333583 -752766464:Vambraces of Certain Assurance\/a
+image: images/Vambraces_of_Certain_Assurance.png
 categories:
 - Berserker Equipment
 - Census Credits
@@ -26,6 +27,7 @@ categories:
 - Crit Bonus (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Forearms (Inventory Slot)
 - Guardian Equipment
 - Inquisitor Equipment
@@ -38,13 +40,14 @@ categories:
 - Shadowknight Equipment
 - Templar Equipment
 - Tier 13 Equipment
+- Triad of Elements (Solo) Dropped Items
 - Warrior Equipment
 source:
   title: Vambraces of Certain Assurance
   url: https://eq2.fandom.com/wiki/Vambraces_of_Certain_Assurance
   history: https://eq2.fandom.com/wiki/Vambraces_of_Certain_Assurance?action=history
-  revision: 1810559
-  revised: '2024-07-02T21:01:20Z'
+  revision: 2030554
+  revised: '2026-09-28T11:25:56Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

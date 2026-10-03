@@ -17,6 +17,7 @@ stats:
   resolve: '630'
   vselemental: +418,973
 item_link: \aITEM -2058008296 237982694 0 0 0:Splendid Signet of the Umbrith\/a
+image: images/Splendid_Signet_of_the_Umbrith.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -41,6 +42,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Finger (Inventory Slot)
@@ -76,8 +78,8 @@ source:
   title: Splendid Signet of the Umbrith
   url: https://eq2.fandom.com/wiki/Splendid_Signet_of_the_Umbrith
   history: https://eq2.fandom.com/wiki/Splendid_Signet_of_the_Umbrith?action=history
-  revision: 2027613
-  revised: '2026-09-06T21:21:04Z'
+  revision: 2030625
+  revised: '2026-09-29T11:32:59Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: level

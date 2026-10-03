@@ -28,6 +28,7 @@ stats:
 effect_name: Equalize
 effects: "- When Equipped:\n  - On a hostile ability cast this spell has a 15% chance to cast Equalize on target of spell.  Lasts for 8.0 seconds.  This effect normalizes based off of a three second triggering event.\n    - Inflicts 9,605 divine damage on target.\n    - Decreases Combat Mitigation of target by 196.5.\n    - Cannot be modified except by direct means\n    - This effect can only trigger once every 10.0 - 15.0 seconds."
 item_link: \aITEM -596436946 1537545249:Adumbrated Steel Dagger\/a
+image: images/Adumbrated_Steel_Dagger.png
 categories:
 - AE Autoattack Chance (Equipment)
 - Ability Modifier (Equipment)
@@ -52,6 +53,7 @@ categories:
 - Enchanter Equipment
 - Equalize (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Guardian Equipment
 - Illusionist Equipment
@@ -84,8 +86,8 @@ source:
   title: Adumbrated Steel Dagger
   url: https://eq2.fandom.com/wiki/Adumbrated_Steel_Dagger
   history: https://eq2.fandom.com/wiki/Adumbrated_Steel_Dagger?action=history
-  revision: 1893561
-  revised: '2025-09-17T21:11:07Z'
+  revision: 2030483
+  revised: '2026-09-25T22:12:40Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: level

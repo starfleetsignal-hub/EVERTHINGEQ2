@@ -22,8 +22,8 @@ source:
   title: 'Far Seas Requisition: Special Order Crafting'
   url: https://eq2.fandom.com/wiki/Far_Seas_Requisition:_Special_Order_Crafting
   history: https://eq2.fandom.com/wiki/Far_Seas_Requisition:_Special_Order_Crafting?action=history
-  revision: 1855913
-  revised: '2025-02-02T02:55:29Z'
+  revision: 2030725
+  revised: '2026-10-02T02:52:35Z'
   license: CC BY-SA 3.0
 expansion: The Shadow Odyssey
 expansion_source: patch
@@ -44,16 +44,16 @@ expansion_source: patch
    - 4 drinks, either [[White Tea]] or [[Black Coffee]]:
      - White Tea:
        - 1 [[Aerated mineral water]]
-       - 1 [[Raw white tea leaf]]
+       - 2 [[Raw white tea leaf]]
        - 6 [[Basic Kindling]]
      - Black Coffee:
        - 1 [[Aerated mineral water]]
-       - 1 [[Black coffee bean]]
+       - 2 [[Black coffee bean]]
        - 1 [[Basic Kindling]]
    - 4 food items, either [[Sunfish Roll]] or [[Deer Steak]]
      - Sunfish Roll:
        - 1 [[Dough (Level 1)|Dough]]
-       - 1 [[Sunfish]]
+       - 2 [[Sunfish]]
        - 1 [[Basic Kindling]]
      - Deer Steak:
        - 1 [[Deer meat]]

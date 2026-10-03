@@ -24,8 +24,8 @@ source:
   title: Piratical Fashion
   url: https://eq2.fandom.com/wiki/Piratical_Fashion
   history: https://eq2.fandom.com/wiki/Piratical_Fashion?action=history
-  revision: 1907571
-  revised: '2025-10-12T18:55:36Z'
+  revision: 2030363
+  revised: '2026-09-24T11:37:46Z'
   license: CC BY-SA 3.0
 ---
 
@@ -44,6 +44,6 @@ source:
 
 ## Rewards
 
-- At least 5g
+- At least 7g
 - Tradeskill experience
 - [[Harvester's Balm (recipe book)|Harvester's Balm recipe book]]

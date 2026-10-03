@@ -18,8 +18,8 @@ source:
   revision: 795345
   revised: '2017-12-03T16:28:59Z'
   license: CC BY-SA 3.0
-expansion: Altar of Malice
-expansion_source: level
+expansion: Terrors of Thalumbra
+expansion_source: linked
 ---
 
 This item is needed for the collection: [[Stygian Threshold Keepsakes]]

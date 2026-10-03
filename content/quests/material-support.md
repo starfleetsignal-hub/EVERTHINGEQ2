@@ -30,8 +30,8 @@ source:
   title: Material Support
   url: https://eq2.fandom.com/wiki/Material_Support
   history: https://eq2.fandom.com/wiki/Material_Support?action=history
-  revision: 1907623
-  revised: '2025-10-13T18:51:34Z'
+  revision: 2030355
+  revised: '2026-09-23T19:28:02Z'
   license: CC BY-SA 3.0
 ---
 

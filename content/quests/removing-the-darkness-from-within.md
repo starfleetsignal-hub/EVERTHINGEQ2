@@ -27,8 +27,8 @@ source:
   title: Removing the Darkness From Within...
   url: https://eq2.fandom.com/wiki/Removing_the_Darkness_From_Within...
   history: https://eq2.fandom.com/wiki/Removing_the_Darkness_From_Within...?action=history
-  revision: 1812394
-  revised: '2024-07-24T10:06:28Z'
+  revision: 2030496
+  revised: '2026-09-26T23:48:56Z'
   license: CC BY-SA 3.0
 ---
 
@@ -62,7 +62,7 @@ source:
    - You cannot be grouped in order to see the some of these items. Merc OK
    - This is an auto update now .. all Rangers on this step will be updated.
    - No chest drops anymore... automatic update.
-1. Go to [[Fens of Nathsar]]. Start by finding a trail {{waypoint -556, -112, 1480}}, follow clues (Bloody Bones {{waypoint -755, -107, 1493}} and "a water hole" {{waypoint -755, -146, 1320}} to a froglok corpse {{waypoint -858, -120, 1240}}. Click it and [[An Enraged Razorfang]] lvl 85 ^^^ Heroic will spawn. He fears, but can be duo'd or trio'd with a [[Ranger]] or with ranged classes. This monster has about 450k to 460K HP, a duo is recommended.
+1. Go to [[Fens of Nathsar]]. Start by finding a trail {{waypoint -556, -112, 1480}}, follow clues (Bloody Bones {{waypoint -755, -107, 1493}} and "a water hole" {{waypoint -755, -146, 1320}} to a froglok corpse {{waypoint -858, -120, 1240}}. Click it and [[An Enraged Razorfang]] lvl 85 ^^^ Heroic will spawn. MUCH Harder than Enraged Wumpus.
    - You cannot be grouped in order to see the froglok corpse. Merc OK
 1. You need to head to [[Kunzar Jungle]], search around the poacher camp for an auto update {{waypoint -431, 22, 21}} similar to the ones before. You need to find and examine a campfire {{waypoint -613, 19, -99}} and a horse {{waypoint -415, 23, -173}}. Investigate the tent {{waypoint -525, 43, -180}} and an [[Enraged Poacher]] spawns. This is near [[Hunter Snake-Eye]] {{waypoint -455, 42, -199}}.
    - You cannot be grouped in order to see the tent. Merc OK
@@ -83,7 +83,7 @@ source:
    - Map page 3 - [[Stormhold]] Library (behind bookcases in middle of room) {{waypoint -118, -32, -141}} (Library back door in Antonica: {{waypoint -2480, -40, -232}})
    - Map page 4 - South Qeynos Mage Tower (under the staircase @ red portal) {{waypoint 707, 41, 94}}
 1. Return to  [[Ryvenar Sal'Vara (Npc)|Ryvenar Sal'Vara]]
-1. Head to [[Chardok]] to kill an ancient wyvern [[Severclaw]] level 86^^^ {{waypoint 758, -30, 218}} Past the blue (second) gate and the red (third) gate. Auto spawns when you move near back wall. He has a knock back but is easier fight than The Enraged Wumpus. Need good dps, if you kill too slow mobs in area repop (though if you stay carefully in the corner against the walls while fighting him you can avoid aggro). Also, if you're standing in the wrong spot, he may spawn again, so be ready! It is a chest drop, so Each Ranger in group has to kill and loot chest.
+1. Head to [[Chardok]] to kill an ancient wyvern [[Severclaw]] level 86^^^ {{waypoint 758, -30, 218}} Past the blue (second) gate and the red (third) gate. Auto spawns when you move near back wall. Need good dps, if you kill too slow mobs in area repop (though if you stay carefully in the corner against the walls while fighting him you can avoid aggro). Also, if you're standing in the wrong spot, he may spawn again, so be ready! It is a chest drop, so Each Ranger in group has to kill and loot chest.
 1. Return to [[Ryvenar Sal'Vara (Npc)|Ryvenar Sal'Vara]] to claim your bow! Congrats!
 
 STOP!

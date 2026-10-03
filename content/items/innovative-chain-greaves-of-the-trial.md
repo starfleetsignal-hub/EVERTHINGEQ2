@@ -20,6 +20,7 @@ stats:
   mitinc: '24.2'
   dtype: Chain Armor
 item_link: \aITEM -434328160 1804938927:Innovative Chain Greaves of the Trial\/a
+image: images/Innovative_Chain_Greaves_of_the_Trial.png
 events:
 - Tinkerfest
 categories:
@@ -33,6 +34,7 @@ categories:
 - Defiler Equipment
 - Dirge Equipment
 - Equipment
+- Equipment pages with existing iname images
 - 'Innovation: Tinkerer''s Trial (Solo) Dropped Items'
 - Legendary Equipment
 - Legs (Inventory Slot)
@@ -54,8 +56,8 @@ source:
   title: Innovative Chain Greaves of the Trial
   url: https://eq2.fandom.com/wiki/Innovative_Chain_Greaves_of_the_Trial
   history: https://eq2.fandom.com/wiki/Innovative_Chain_Greaves_of_the_Trial?action=history
-  revision: 1878622
-  revised: '2025-07-08T17:35:09Z'
+  revision: 2030395
+  revised: '2026-09-24T17:39:25Z'
   license: CC BY-SA 3.0
 expansion: Visions of Vetrovia
 expansion_source: level

@@ -10,6 +10,7 @@ zone: '[[The Clefts of Rujark]]'
 location: In the room with all the [[A Steelslave toiler|Steelslave toilers]] {{waypoint 104, -2, -127}}
 drops:
 - '[[Archaist Waist Wrap]]'
+- '[[Granite Ring]]'
 achievement_xp: true
 added_in: Desert of Flames
 categories:
@@ -31,8 +32,8 @@ source:
   title: Stonegorger
   url: https://eq2.fandom.com/wiki/Stonegorger
   history: https://eq2.fandom.com/wiki/Stonegorger?action=history
-  revision: 900902
-  revised: '2018-09-13T21:37:28Z'
+  revision: 2030788
+  revised: '2026-10-03T03:04:43Z'
   license: CC BY-SA 3.0
 ---
 

@@ -20,6 +20,7 @@ stats:
   cbovercap: '+314.1'
   dtype: Leather Armor
 item_link: \aITEM -823326621 -604075219:Trailwarden's Leather Boots of Flowing Water\/a
+image: images/Trailwarden's_Leather_Boots_of_Flowing_Water.png
 categories:
 - Ability Modifier (Equipment)
 - Brawler Equipment
@@ -30,6 +31,7 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Druid Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Feet (Inventory Slot)
 - Fury Equipment
 - Leather Armor (Equipment Type)
@@ -43,8 +45,8 @@ source:
   title: Trailwarden's Leather Boots of Flowing Water
   url: https://eq2.fandom.com/wiki/Trailwarden's_Leather_Boots_of_Flowing_Water
   history: https://eq2.fandom.com/wiki/Trailwarden's_Leather_Boots_of_Flowing_Water?action=history
-  revision: 1686780
-  revised: '2023-03-16T15:24:52Z'
+  revision: 2030519
+  revised: '2026-09-27T19:51:52Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: level

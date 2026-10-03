@@ -6,7 +6,7 @@ icon: images/Item_2173.png
 item_level: '0'
 flags: lore no-trade no-value
 description: This fancy steel key is tied to a leather strap.
-starts_quest: '[[The Key of Coins]]'
+starts_quest: '[[The Key of Coins (Fabled)|The Key of Coins]]'
 item_link: \aITEM -1180484945 -967564422:a fancy steel key\/a
 categories:
 - Census Credits
@@ -17,10 +17,10 @@ source:
   title: A fancy steel key (Version 2)
   url: https://eq2.fandom.com/wiki/A_fancy_steel_key_(Version_2)
   history: https://eq2.fandom.com/wiki/A_fancy_steel_key_(Version_2)?action=history
-  revision: 1823781
-  revised: '2024-09-28T21:15:30Z'
+  revision: 2030787
+  revised: '2026-10-03T02:34:53Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
+expansion: Chains of Eternity
 expansion_source: source
 ---
 
