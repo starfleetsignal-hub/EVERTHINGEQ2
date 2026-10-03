@@ -59,19 +59,19 @@ There are 3 Challenge Duo zones which you can access by clicking items in Cobalt
 
 ### Travel
 
-To travel to this zone, first go to [[Great Divide]] (Thurgadin Docks) and hail the New Combine Flight Master with a griffon at 1,279 -540 305.
+To travel to this zone, first go to [[Great Divide]] (Thurgadin Docks) and hail the New Combine Flight Master with a griffon at {{waypoint 1279, -540, 305}}.
 
 This zone was designed for the use of flying mounts, but travel even by air can be treacherous, due to flying monsters of all kinds.
 
 #### Griffin Travel
 
-You can travel to the zone via griffin from the Thurgadin Docks by hailing a NPC, simply named Combine Flight Master at the location: 1,277 -540 304. The griffin landing pad is at 3,480 -1,005 1,746. Landing here puts you very near the starting quest hub of [[Salt Breeze]].
+You can travel to the zone via griffin from the Thurgadin Docks by hailing a NPC, simply named Combine Flight Master at the location: {{waypoint 1277, -540, 304}}. The griffin landing pad is at {{waypoint 3480, -1005, 1746}}. Landing here puts you very near the starting quest hub of [[Salt Breeze]].
 
 The griffin landing pad that bring you to Cobalt Scar is the only one in the zone, but it does connect to a griffin in [[The Withered Lands]] and can be used to return to the dock just outside of [[Thurgadin, City of the Coldain]].
 
 #### Globe of Swift Travel and Spire
 
-There is a [[Globe of Swift Travel]] that now connects directly to [[Scarstone]]. Using a [[Ulteran Spires|Ulteran Spire]] has the **exact same** zone-in point, located at 4,377 -821 332.
+There is a [[Globe of Swift Travel]] that now connects directly to [[Scarstone]]. Using a [[Ulteran Spires|Ulteran Spire]] has the **exact same** zone-in point, located at {{waypoint 4377, -821, 332}}.
 
 There is no automated travel in this zone, like [[Stable Master|Stable Masters]].
 

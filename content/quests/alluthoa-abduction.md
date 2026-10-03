@@ -41,7 +41,7 @@ You receive [[Corrith's Barbed Grasp]] at the start of the quest.
    - Use the Corrith's Barbed Grasp on it; it de-aggros and returns to its spawn spot.  Left click to "capture" it.
 1. Return to the beach camp - quest updates when you get near Corrith
 1. Speak to Corrith, then interrogate the captured Allu'thoa.
-1. Found the high shaman at (-1074, 124, 1059).
+1. Found the high shaman at {{waypoint -1074, 124, 1059}}.
 
 ## Rewards
 

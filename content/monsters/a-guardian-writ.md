@@ -6,7 +6,7 @@ race: Tome
 level: 23-24
 difficulty: Heroic ^^^
 zone: '[[Stormhold]]'
-location: '[[The Library (SH)|The Library]] at'
+location: '[[The Library (SH)|The Library]] at {{waypoint -119, -32, -172}}'
 aggressive: true
 added_in: Shattered Lands
 aliases:

@@ -43,10 +43,10 @@ expansion_source: patch
    - *Note: To exit this instance before you finish it you can use the totem at {{waypoint 4409.49, -1092.98, 1997.93}}*
    - *Note:this quest step has silent updates you'll need to reach 4 different locations before this step will update finally. (May be based on time in the area. If not updating, go get a drink while standing in the area.)*
    - Explore the village
-     - 4,303.95 -1,080.98 1,760.47 *Make sure you are in the instance, not in Cobalt Scar, the blue quest area is also shown in Cobalt Scar but it will not update*
-     - 4,265.12 -1,081.01 1,741.71
-     - 4,345.61 -1,081.64 1,774.63
-     - 4,316.35 -1,083.09 1,818.65
+     - {{waypoint 4303.95, -1080.98, 1760.47}} *Make sure you are in the instance, not in Cobalt Scar, the blue quest area is also shown in Cobalt Scar but it will not update*
+     - {{waypoint 4265.12, -1081.01, 1741.71}}
+     - {{waypoint 4345.61, -1081.64, 1774.63}}
+     - {{waypoint 4316.35, -1083.09, 1818.65}}
 1. Speak to [[Meru]] {{waypoint 4299, -1080, 1764}}
 1. Use your Saltwater Cleansing ability on the three sick othmir near Meru
 1. Speak to [[Meru]] again

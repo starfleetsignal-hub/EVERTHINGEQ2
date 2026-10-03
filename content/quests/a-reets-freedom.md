@@ -8,7 +8,7 @@ difficulty: Heroic
 zone: '[[Sebilis]]'
 timeline: '[[Paladin Epic Weapon Timeline]]'
 journal_category: Signature
-starts: Speak to Blipd in the Reet Slave Quarters (SE most room) in Sebilis ( -255, -25, 434 )
+starts: Speak to Blipd in the Reet Slave Quarters (SE most room) in Sebilis {{waypoint -255, -25, 434}}
 prerequisite: '[[A Paladin''s Crusade]]'
 next_quest: '[[A Paladin''s Crusade]]'
 added_in: LU42

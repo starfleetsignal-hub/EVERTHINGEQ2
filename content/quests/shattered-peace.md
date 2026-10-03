@@ -44,7 +44,7 @@ source:
 1. Click on the bench in front of the Statue of Quellious. This will spawn 5 monks of peace.
 1. Slay the monks of peace.
 1. Click the bench in front of the statue again and then the statue to destroy it.
-1. Return to Kroota Gukbutcher at ( 220, -3, 100 )  in West Freeport for your reward.
+1. Return to Kroota Gukbutcher at {{waypoint 220, -3, 100}}  in West Freeport for your reward.
 
 ## Rewards
 

@@ -43,7 +43,7 @@ Go to [[The Ruins of Varsoon]]:
 1. Examine the book.
 1. Slay 3-8 clay guardians. {{waypoint 26, 0, 38}} and/or {{waypoint 161, 7, 7}}
 1. Examine the book.
-1. Slay 3-8 [[A spirited tome|spirited tomes]]. {{waypoint 258, -3, 124}} and {{waypoint 14, 4, 81}}; respawn times can be upwards of 20 minutes. (There is also a solo book that spwns at 162,0,97, in the [[Workshop of the Summoner]], and this is another quick-succession triple-spawn room. Another room of spawning tomes is at {{waypoint 231, -7, 51}}, where on a bookshelf you will find [[The Varsoon Collection, Volume 1 - Varsoon and the Combine Era (Quest)|The Varsoon Collection, Volume 1 - Varsoon and the Combine Era]] as well as [[The Blood of the Bear, Part Three (Quest)|The Blood of the Bear, Part Three]]).
+1. Slay 3-8 [[A spirited tome|spirited tomes]]. {{waypoint 258, -3, 124}} and {{waypoint 14, 4, 81}}; respawn times can be upwards of 20 minutes. (There is also a solo book that spwns at {{waypoint 162, 0, 97}}, in the [[Workshop of the Summoner]], and this is another quick-succession triple-spawn room. Another room of spawning tomes is at {{waypoint 231, -7, 51}}, where on a bookshelf you will find [[The Varsoon Collection, Volume 1 - Varsoon and the Combine Era (Quest)|The Varsoon Collection, Volume 1 - Varsoon and the Combine Era]] as well as [[The Blood of the Bear, Part Three (Quest)|The Blood of the Bear, Part Three]]).
 1. Examine the book.
 1. Slay 3-8 glimmer goblins. {{waypoint 93, 3, -53}}
 1. Examine the book.

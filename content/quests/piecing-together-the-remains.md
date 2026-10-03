@@ -37,7 +37,7 @@ expansion_source: patch
    - Seamus's wife's dowry chest - {{waypoint -387, -38, -760}}
    - Seamus's chair - {{waypoint -637, -38, -675}}
    - Seamus's family's table - {{waypoint -575, -37, -850}}
-   - Seamus's family's statue - {{waypoint -410, -38, -865}}  Finally found it at (-411.11, -38.25, -863.07)  It's a big as a person. 10/9/2020.
+   - Seamus's family's statue - {{waypoint -410, -38, -865}}  Finally found it at {{waypoint -411.11, -38.25, -863.07}}  It's a big as a person. 10/9/2020.
      - <s>In order to see the statue you must zoom-in to first person. </s>(Note: As of 6/7/20, it is no longer necessary to zoom in.)
    - Seamus's son's favorite boots - {{waypoint -590, -38, -770}}
 1. Return to Seamus.

@@ -34,12 +34,12 @@ I am to defeat **xx** mobs in **yy** zone (based on character level)
 Good
 
 - T1 - (10) Bog Faries in Peat Bog
-- T2 - (10) Decaying Skeletons or Risen Protectors in Antonica (On Bridgeway Isle, North of the North Qeynos Gate LOC 244, -30, -659.)
-- T3 - (10) Sirens swimming off the coast of Thundering Steps. (North of the Docks LOC -420, -78, -866). ( NOTE: Ghost Farmers are not Sirens.)
+- T2 - (10) Decaying Skeletons or Risen Protectors in Antonica (On Bridgeway Isle, North of the North Qeynos Gate {{waypoint 244, -30, -659}})
+- T3 - (10) Sirens swimming off the coast of Thundering Steps. (North of the Docks {{waypoint -420, -78, -866}}). ( NOTE: Ghost Farmers are not Sirens.)
 - T4 - (10) Seamist wardens or maidens in [[Enchanted Lands]]
-- T5 - (10) Arctic Behemoths or Arctic Wyrms in Everfrost LOC 32, 28, -474.
+- T5 - (10) Arctic Behemoths or Arctic Wyrms in Everfrost {{waypoint 32, 28, -474}}
 - T6 - (10) Windsister dustfeathers or jaggedfeather harpies near [[The Needle]] in [[The Pillars of Flame]]
-- T7 - (10) Redbeards in Loping Plans (Northern part of zone LOC -55, 22, -323) *or* cloudmist walkers or drifting cloudmists in the [[The Barren Sky]]
+- T7 - (10) Redbeards in Loping Plans (Northern part of zone {{waypoint -55, 22, -323}}) *or* cloudmist walkers or drifting cloudmists in the [[The Barren Sky]]
 - T8 - (10) Ageless Dragonslayers or Dragonmage Spellslingers located at {{waypoint -1437.43, -371.86, -1488.41}} inside the [[Field of Bone]] in [[Fens of Nathsar]](fighting the dragon spirit)
 
 Evil

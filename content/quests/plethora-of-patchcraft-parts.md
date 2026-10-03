@@ -5,7 +5,7 @@ level: Scales
 difficulty: Solo
 zone: '[[Enchanted Lands]]'
 journal_category: World Event
-starts: Speak with [[Rakshatta]] on the docks in Enchanted Lands -28 .48 52
+starts: Speak with [[Rakshatta]] on the docks in Enchanted Lands {{waypoint -28, 0.48, 52}}
 added_in: Bristlebane Day
 achievement_xp: true
 events:

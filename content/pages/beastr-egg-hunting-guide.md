@@ -163,8 +163,8 @@ By far, this is *the* most frustrating zone for egg hunting, primarily because t
 - {{waypoint 22, -43, -454}} in the goblin caves off the nursery
 - {{waypoint -558, 48, 175}} (unconfirmed, but was fresh location) on ledge with waterfall near entrance to Emerald Pond area
 - {{waypoint -468, 65, 104}} (unconfirmed, but it location indicates difficulty getting there) On mushroom shelf near [[Spire Shadow Outpost]]
-- (-116, 12, 118)  In Fendwyn Flitter's Shelter
-- (-176,57,46) Top of Memorial Hill
+- {{waypoint -116, 12, 118}}  In Fendwyn Flitter's Shelter
+- {{waypoint -176, 57, 46}} Top of Memorial Hill
 
 ### [[Qeynos Capitol District]]
 
@@ -205,12 +205,12 @@ One of the busier zones, this city is easy to hunt eggs in, provided there are n
 
 Though they will not attack outsiders, only those aligned with Gorowyn, Freeport, or Neriak will get help from the guards. This region has issues similar to Kelethin, due to its many platforms and levels; however, the placement of the eggs within the caves or far outside of the platformed city areas make it much easier to hunt in than Kelethin.
 
-- 2,481 46 900 near [[Eruwin Ska'Mok]] (chodaki trainer) and among the trees, far below the North Gorowyn cave entrance
-- 2,678 123 1,132 near teleport pad on that's just outside the broker, banking, and housing area of Gorowyn
-- 2,711 107 1,192 on the platform for the Gorowyn City Services (e.g. the guild registrar, cloak designer, guild merchant)
-- 2,595 120 1158 next to provisoner [[Dvorzylka Zum'lul]] who is found just inside the first room that leads to the Breathing Pools (hot springs inside of Gorowyn)
-- 2,811 43 913 On the Green Overlook, inside the cave that's *above* the blackshield pirates on the beach, behind the wall and near the [[A captured mountain throm|captured mountain throms]]
-- 2,661 66 1,162 on the first platform up from the ground level of the cave leading to Gorowyn, near [[Ambassador Zelzekla]] (citizenship change NPC).
-- 2,624 117 1,065 right next The Breathing Pools, on the rocky cave floor
+- {{waypoint 2481, 46, 900}} near [[Eruwin Ska'Mok]] (chodaki trainer) and among the trees, far below the North Gorowyn cave entrance
+- {{waypoint 2678, 123, 1132}} near teleport pad on that's just outside the broker, banking, and housing area of Gorowyn
+- {{waypoint 2711, 107, 1192}} on the platform for the Gorowyn City Services (e.g. the guild registrar, cloak designer, guild merchant)
+- {{waypoint 2595, 120, 1158}} next to provisoner [[Dvorzylka Zum'lul]] who is found just inside the first room that leads to the Breathing Pools (hot springs inside of Gorowyn)
+- {{waypoint 2811, 43, 913}} On the Green Overlook, inside the cave that's *above* the blackshield pirates on the beach, behind the wall and near the [[A captured mountain throm|captured mountain throms]]
+- {{waypoint 2661, 66, 1162}} on the first platform up from the ground level of the cave leading to Gorowyn, near [[Ambassador Zelzekla]] (citizenship change NPC).
+- {{waypoint 2624, 117, 1065}} right next The Breathing Pools, on the rocky cave floor
 - {{waypoint 2810.72, 39.95, 916.24}} inside the cave
 - {{waypoint 2173, 48, 648}} close to named [[Vict]]

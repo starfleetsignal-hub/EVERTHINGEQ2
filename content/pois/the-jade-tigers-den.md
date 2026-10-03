@@ -80,7 +80,7 @@ This section include the NPCs that can be found at The Jade Tiger's Den. There a
 
 ### Standard NPCs
 
-- [[Glaria]] - Freeblood Mentor ( -83, -21, -81 )
+- [[Glaria]] - Freeblood Mentor {{waypoint -83, -21, -81}}
 
 <br>
 
@@ -88,7 +88,7 @@ This section include the NPCs that can be found at The Jade Tiger's Den. There a
 
 - ***Hero's Festival***
   - [[Thumore D'armer]] (1st Floor Housing Lobby Room)
-  - [[Gimit Delerg]] ( -110, -21, -82 )
+  - [[Gimit Delerg]] {{waypoint -110, -21, -82}}
 
 <br>
 

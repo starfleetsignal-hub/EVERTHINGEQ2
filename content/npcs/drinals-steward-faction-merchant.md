@@ -5,7 +5,7 @@ expansion: Chains of Eternity
 purpose: Faction Merchant
 race: Humanoid
 zone: '[[Obol Plains]]'
-location: Church in Cardin Ward
+location: Church in Cardin Ward {{waypoint -367.72, 12.79, -27.94}}
 added_in: Chains of Eternity
 categories:
 - Chains of Eternity NPCs

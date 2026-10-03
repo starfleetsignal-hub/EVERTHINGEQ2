@@ -17,6 +17,6 @@ source:
   license: CC BY-SA 3.0
 ---
 
-These can be obtained from gehein mobs located around the Wizard Spire at /waypoint 79.82, 37.80, -335.13 in Obol Plains.
+These can be obtained from gehein mobs located around the Wizard Spire at {{waypoint 79.82, 37.80, -335.13}} in Obol Plains.
 
 Since the mobs are only up before you finish a specific quest, if you don't see the mobs at the spire Harrow's End is a good place to find gehein as well.

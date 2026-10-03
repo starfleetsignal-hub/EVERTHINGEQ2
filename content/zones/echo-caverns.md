@@ -49,9 +49,9 @@ Temporary map by Leucosia of Test Server for use in Beta [EQ2Maps](https://forum
 
 ## Public Quests
 
-- [[Bloodletter]] at ( 668, 136, 415 ) in [[Limestone Forest]]
-- [[The Great Saprophyte]] at ( 544, 86, -336 ) in [[Fungus Grove]]
-- Spawning after defeating these two, [[The Root Mother]] at ( -168, 193, 224 ) at the upper side of [[The Chlorochamber]].
+- [[Bloodletter]] at {{waypoint 668, 136, 415}} in [[Limestone Forest]]
+- [[The Great Saprophyte]] at {{waypoint 544, 86, -336}} in [[Fungus Grove]]
+- Spawning after defeating these two, [[The Root Mother]] at {{waypoint -168, 193, 224}} at the upper side of [[The Chlorochamber]].
 
 ## Similar Zones
 

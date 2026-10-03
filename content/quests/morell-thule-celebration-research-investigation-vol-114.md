@@ -41,7 +41,7 @@ The herald of Morell-Thule has informed me that summoning an Avatar requires the
 1. Collect 3 [[Infused Dream Shard|infused dream shards]] (random body drop from mobs in [[Splendor Sky Aerie]], confirmed drops from Floral Devourers and Beetle Crabs)
 1. Use the [[Infused Dream Shard|infused dream shards]] and empower an altar.  Random spawn in The Thundering Steppes, its yellow sparkles visible far away, possible locations of altar
    - {{waypoint 376, 13, -534}} near [[Antonican Road]], next to one of the towers
-   - ( 590, 0, -380 ) up the road from [[The Mirror]]
+   - {{waypoint 590, 0, -380}} up the road from [[The Mirror]]
    - {{waypoint 666, 1, -205}}
    - {{waypoint 184, -1, 606}}
    - {{waypoint 426, -1, 900}} east of [[Crater Mine]], near the start of the road

@@ -25,4 +25,4 @@ expansion_source: source
 
 This item is needed for the collection: [[Deadly Waterworks (Collection)|Deadly Waterworks]]
 
-Found one in the Sandstone Delta at ( -116, 15, -416 )
+Found one in the Sandstone Delta at {{waypoint -116, 15, -416}}

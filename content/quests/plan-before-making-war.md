@@ -7,7 +7,7 @@ level: '96'
 difficulty: Heroic
 zone: '[[Outer Kael]]'
 journal_category: 'Kael Drakkel: Throne of Storms'
-starts: Next to [[Breenus McFaylinn]], in Outer Kael on a wooden box, read the note on the left -1,521.89 21.74 -659.01
+starts: Next to [[Breenus McFaylinn]], in Outer Kael on a wooden box, read the note on the left {{waypoint -1521.89, 21.74, -659.01}}
 categories:
 - Heroic Quests
 - 'Kael Drakkel: Throne of Storms Quests'
@@ -34,12 +34,12 @@ You won't be able to decipher the notes on the box until you finished the quests
 
 1. Search the Throne of Storms for the Kromzek War Plans.
    - Plans found at:
-     - -448.05 20.17 1,679.70
-     - -397.09 20.17 1,774.74
-     - -146.84 -32.98 1,519.57
-     - 152.67 20.17 1,620.08
-     - 196.93 23.18 1,875.29
-     - 113.28 23.20 1,874.37
+     - {{waypoint -448.05, 20.17, 1679.70}}
+     - {{waypoint -397.09, 20.17, 1774.74}}
+     - {{waypoint -146.84, -32.98, 1519.57}}
+     - {{waypoint 152.67, 20.17, 1620.08}}
+     - {{waypoint 196.93, 23.18, 1875.29}}
+     - {{waypoint 113.28, 23.20, 1874.37}}
 1. Speak with Breenus McFaylinn to complete the quest.
 
 ## Rewards

@@ -26,58 +26,58 @@ source:
 
 ## NPC's
 
-1. [[Skymaster Akiz Hoopster]] <Skymaster> 1,906 453 1,015
-1. [[Kali Hodpodge]] <Scholars of the Lost> 1,862.5 453 952.5
-1. [[Hambert Cogpocket]] <Overseer of Operations> 1,837 453 869
+1. [[Skymaster Akiz Hoopster]] <Skymaster> {{waypoint 1906, 453, 1015}}
+1. [[Kali Hodpodge]] <Scholars of the Lost> {{waypoint 1862.5, 453, 952.5}}
+1. [[Hambert Cogpocket]] <Overseer of Operations> {{waypoint 1837, 453, 869}}
 1. [[Rickty Sprockwaggle]] <Scholars of the Lost> Location = Roaming
-1. [[Totheck Dragonforge]] 1,802 452.5 962
-1. [[Bittee Silvertail]] <The Shadow Odyssey Armorer> 1,801.5 452.5 971.5
-1. [[Tandy Sprinklecog]] <Tailor> 1,782 452.5 942.5
-1. [[Info bot z7.0]] 1,708.5 452.5 899, 1,747 452.5 957.5 and 1,787 452.5 965.5
-1. [[Dropship adjuster]] <Scholars of the Lost> 1,824.5 453 875, 1,826 453 856 and Roaming
-1. [[Dropship denizen]] <Scholars of the Lost> 1,739.5 451 859, 1,693 452.5 902.5 and 1,694 452.5 897.5
-1. [[Dropship engineer]] <Scholars of the Lost> 1,739 451 858 and 1,683 452.5 922.5
-1. [[Dropship surveyor]] <Scholars of the Lost> 1,737 451 860.5 and Roaming
-1. [[Dropship tavern patron]] <Scholars of the Lost> 1,684.5 452.5 921, 1,682.5 452.5 929.5 and 1,682 452.5 928
+1. [[Totheck Dragonforge]] {{waypoint 1802, 452.5, 962}}
+1. [[Bittee Silvertail]] <The Shadow Odyssey Armorer> {{waypoint 1801.5, 452.5, 971.5}}
+1. [[Tandy Sprinklecog]] <Tailor> {{waypoint 1782, 452.5, 942.5}}
+1. [[Info bot z7.0]] {{waypoint 1708.5, 452.5, 899}}, {{waypoint 1747, 452.5, 957.5}} and {{waypoint 1787, 452.5, 965.5}}
+1. [[Dropship adjuster]] <Scholars of the Lost> {{waypoint 1824.5, 453, 875}}, {{waypoint 1826, 453, 856}} and Roaming
+1. [[Dropship denizen]] <Scholars of the Lost> {{waypoint 1739.5, 451, 859}}, {{waypoint 1693, 452.5, 902.5}} and {{waypoint 1694, 452.5, 897.5}}
+1. [[Dropship engineer]] <Scholars of the Lost> {{waypoint 1739, 451, 858}} and {{waypoint 1683, 452.5, 922.5}}
+1. [[Dropship surveyor]] <Scholars of the Lost> {{waypoint 1737, 451, 860.5}} and Roaming
+1. [[Dropship tavern patron]] <Scholars of the Lost> {{waypoint 1684.5, 452.5, 921}}, {{waypoint 1682.5, 452.5, 929.5}} and {{waypoint 1682, 452.5, 928}}
 1. [[Dropship watcher]] <Scholars of the Lost> Location = Roaming
-1. [[Belfie Bentsprocket]] <Mender> 1,798 452.5 958.5
-1. [[Liliadod Cogspinner]] <Scholars of the Lost> 1,731 473 934.5
-1. [[Clockwork worker]] 1,881.5 465.5 893 and 1,623 452.5 852.5
-1. [[Ursel Wrenchwan]] <Scholars of the Lost> 1,874 465.5 861
-1. [[Aymee Quickspoke]] <Far Seas Trading Company Liaison> 1,869 452.5 845
-1. [[Holly Sparesprocket]] <Work Orders> 1,856.5 453 849.5
-1. [[Grimb Nogglewot]] <Rush Orders> 1,853 453 847.5
-1. [[Edna Wingrocket]] <Fuel Merchant> 1,845.5 453 844
-1. [[Lexia]] <Banker> 1,838.5 453 793
-1. [[Mingy Cobblepot]] <Banker> 1,836 453 789
-1. [[Goods bot 6vH]] <Broker> 1,785.5 453 780
-1. [[Hoppy Cogsplitter]] <Fence> 1,790.5 453 770.5
+1. [[Belfie Bentsprocket]] <Mender> {{waypoint 1798, 452.5, 958.5}}
+1. [[Liliadod Cogspinner]] <Scholars of the Lost> {{waypoint 1731, 473, 934.5}}
+1. [[Clockwork worker]] {{waypoint 1881.5, 465.5, 893}} and {{waypoint 1623, 452.5, 852.5}}
+1. [[Ursel Wrenchwan]] <Scholars of the Lost> {{waypoint 1874, 465.5, 861}}
+1. [[Aymee Quickspoke]] <Far Seas Trading Company Liaison> {{waypoint 1869, 452.5, 845}}
+1. [[Holly Sparesprocket]] <Work Orders> {{waypoint 1856.5, 453, 849.5}}
+1. [[Grimb Nogglewot]] <Rush Orders> {{waypoint 1853, 453, 847.5}}
+1. [[Edna Wingrocket]] <Fuel Merchant> {{waypoint 1845.5, 453, 844}}
+1. [[Lexia]] <Banker> {{waypoint 1838.5, 453, 793}}
+1. [[Mingy Cobblepot]] <Banker> {{waypoint 1836, 453, 789}}
+1. [[Goods bot 6vH]] <Broker> {{waypoint 1785.5, 453, 780}}
+1. [[Hoppy Cogsplitter]] <Fence> {{waypoint 1790.5, 453, 770.5}}
 1. [[Assessment bot]] Location = Roaming
-1. [[Ragheejb Yasir]] <a mysterious erudite> 1,734 451 865.5
-1. [[Ember Tizzlespring]] <Expedition Director> 1,738 451 857
-1. [[Udolpho Fiddletwig]] <Scholars of the Lost> 1,736.5 451 857.5
-1. [[Obidiah Punwicket]] <Food Engineer> 1,675.5 452.5 931.5
-1. [[Dirby Umbridge]] <Scholars of the Lost> 1,707 452.5 902
-1. [[Dead sokokar]] 1,708.5 452.5 903
-1. [[Dead stone gnawer]] 1,706 452.5 903.5
-1. [[Subdued sokokar]] 1,705.5 452.5 899
-1. [[A mysterious Quellthulian]] <Greater Shard Armor Merchant> 1,675.5 452.5 894.5
-1. [[A mysterious Quellthulian]] <Infused Shard Jewelry Merchant> 1,679 452.5 896
-1. [[A mysterious Quellthulian]] <Shard Miscellania Merchant> 1,680.5 452.5 889
-1. [[A mysterious Quellthulian]] <Shard Armor Merchant> 1,685 452.5 895
-1. [[A mysterious Quellthulian]] <Shard Jewelry Merchant> 1,681.5 452.5 898.5
-1. [[Gabblin Bittlegrip]] 1,656.5 452.5 878
-1. [[Wayth Bitsnbobs]] 1,695 452.5 780
-1. [[Poppy Sprockbock]] <Munitions Twinker> 1,682.5 453 799
-1. [[Torbil Wagglewrench]] <Weapons Worker> 1,678.5 453 800.5
-1. [[Amelia Bogstrutter]] 1,610 453 823.5
-1. [[Hoight McCrest]] 1,588 453 824
-1. [[Gunder MacMannan]] 1,585.5 453 824
-1. [[Chalkonli Myli`ki]] 1,612.5 452.5 869
-1. [[Armyna V'Threx]] 1,609 452.5 882
-1. [[Versokai]] 1,600 452.5 889.5
-1. [[Sken Elkheart]] 1,581 452.5 886
-1. [[Aino Boabaga]] 1,578 452.5 872
+1. [[Ragheejb Yasir]] <a mysterious erudite> {{waypoint 1734, 451, 865.5}}
+1. [[Ember Tizzlespring]] <Expedition Director> {{waypoint 1738, 451, 857}}
+1. [[Udolpho Fiddletwig]] <Scholars of the Lost> {{waypoint 1736.5, 451, 857.5}}
+1. [[Obidiah Punwicket]] <Food Engineer> {{waypoint 1675.5, 452.5, 931.5}}
+1. [[Dirby Umbridge]] <Scholars of the Lost> {{waypoint 1707, 452.5, 902}}
+1. [[Dead sokokar]] {{waypoint 1708.5, 452.5, 903}}
+1. [[Dead stone gnawer]] {{waypoint 1706, 452.5, 903.5}}
+1. [[Subdued sokokar]] {{waypoint 1705.5, 452.5, 899}}
+1. [[A mysterious Quellthulian]] <Greater Shard Armor Merchant> {{waypoint 1675.5, 452.5, 894.5}}
+1. [[A mysterious Quellthulian]] <Infused Shard Jewelry Merchant> {{waypoint 1679, 452.5, 896}}
+1. [[A mysterious Quellthulian]] <Shard Miscellania Merchant> {{waypoint 1680.5, 452.5, 889}}
+1. [[A mysterious Quellthulian]] <Shard Armor Merchant> {{waypoint 1685, 452.5, 895}}
+1. [[A mysterious Quellthulian]] <Shard Jewelry Merchant> {{waypoint 1681.5, 452.5, 898.5}}
+1. [[Gabblin Bittlegrip]] {{waypoint 1656.5, 452.5, 878}}
+1. [[Wayth Bitsnbobs]] {{waypoint 1695, 452.5, 780}}
+1. [[Poppy Sprockbock]] <Munitions Twinker> {{waypoint 1682.5, 453, 799}}
+1. [[Torbil Wagglewrench]] <Weapons Worker> {{waypoint 1678.5, 453, 800.5}}
+1. [[Amelia Bogstrutter]] {{waypoint 1610, 453, 823.5}}
+1. [[Hoight McCrest]] {{waypoint 1588, 453, 824}}
+1. [[Gunder MacMannan]] {{waypoint 1585.5, 453, 824}}
+1. [[Chalkonli Myli`ki]] {{waypoint 1612.5, 452.5, 869}}
+1. [[Armyna V'Threx]] {{waypoint 1609, 452.5, 882}}
+1. [[Versokai]] {{waypoint 1600, 452.5, 889.5}}
+1. [[Sken Elkheart]] {{waypoint 1581, 452.5, 886}}
+1. [[Aino Boabaga]] {{waypoint 1578, 452.5, 872}}
 1. [[Tanston]] <Ak'anon Tinkerer's Guild> {{waypoint 1749.04, 448.22, 731.36}}
 
 ## Monsters
@@ -86,7 +86,7 @@ source:
 
 ## Notes
 
-1. [[Upper Dropship Gnomecannon]] 1,563.5 453.5 817
+1. [[Upper Dropship Gnomecannon]] {{waypoint 1563.5, 453.5, 817}}
 
 ## Related Quests
 

@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Talk to Mei Lan at ( 2280, -198, 2527 )
+starts: Talk to Mei Lan at {{waypoint 2280, -198, 2527}}
 prerequisite: '[[Traveler''s Kunark Catalog: Still not a Panda!]]'
 next_quest: '[[Traveler''s Kunark Catalog: Angry, Angry, Angry]]'
 aliases:

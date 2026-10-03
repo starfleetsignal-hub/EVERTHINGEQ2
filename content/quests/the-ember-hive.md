@@ -37,7 +37,7 @@ source:
 
 ## Steps
 
-1. Kill any 10 ember wasps and loot their corpses for [[Ember Wasp Body|Ember Wasp Bodies]]. 1,544.17 206.11, -1,984.64
+1. Kill any 10 ember wasps and loot their corpses for [[Ember Wasp Body|Ember Wasp Bodies]]. {{waypoint 1544.17, 206.11, -1984.64}}
 1. Return to [[Traigia Hothkin]] in [[Highton]]. {{waypoint 1277, 163, -2097}}
 
 ## Rewards

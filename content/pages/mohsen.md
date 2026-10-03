@@ -10,5 +10,5 @@ source:
   license: CC BY-SA 3.0
 ---
 
-![A Bartender in Takish Badlands Loc: (650, 155, -715)](images/Mohsen.png)
+![A Bartender in Takish Badlands Loc: {{waypoint 650, 155, -715}}](images/Mohsen.png)
 Mohsen will set your Dhalgar Stein recall to his location. A benefit as this puts you right next to [[Hamdi]] the Tradeskill Researcher which you will use a great deal.

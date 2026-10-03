@@ -34,7 +34,7 @@ source:
 ## Steps
 
 1. Enter [[Evernight Abbey]]
-   - Go to -.5 -16 -357 where the Libant are holding [[Marcus Thex]] (autoupdate by entering room)
+   - Go to {{waypoint -0.5, -16, -357}} where the Libant are holding [[Marcus Thex]] (autoupdate by entering room)
 1. Kill each named vampire surrounding [[Marcus Thex]] in their own room (the room to which they have their backs).
 1. Then each member of the group clicks a different stone to get an ability. (You must have an open hotbar slot).
    - Note that multiple group members can get the same ability.

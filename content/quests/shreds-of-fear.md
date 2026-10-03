@@ -36,10 +36,10 @@ expansion_source: patch
 
 ## Steps
 
-1. Hail [[Danak Dhorentath]] at -1,828.54 -27.86 444.97 in [[The Feerrott]].
+1. Hail [[Danak Dhorentath]] at {{waypoint -1828.54, -27.86, 444.97}} in [[The Feerrott]].
 1. Collect 100 souls.
    - Put [[Soul Shredder|the Soul Shredder]] in your hotbar, target a monster and hit the hotkey. You can do this while fighting, but if the mob is non-agro you can just steal his soul without figting. NOTE: When a monster has no soul you will see a purple halo-like glow around its head. Additionally, not ALL monsters have souls to begin with!
-1. Return to [[Danak Dhorentath]] at -1,828.54 -27.86 444.97 in [[The Feerrott]] for your reward.
+1. Return to [[Danak Dhorentath]] at {{waypoint -1828.54, -27.86, 444.97}} in [[The Feerrott]] for your reward.
 
 ## Rewards
 

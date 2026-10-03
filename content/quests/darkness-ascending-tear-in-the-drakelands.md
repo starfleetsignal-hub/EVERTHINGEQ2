@@ -50,8 +50,8 @@ expansion_source: patch
 1. Speak to [[Norg Gorefist]] in front of the command tent. He will zone you into [[Scarstone Commander's Tent: New Combine's Requiem]].
 1. Follow the dialogue and events.
 1. Speak with [[Queen Antonia Bayle (Antonia Bayle's Chambers)|Queen Antonia Bayle]] (good aligned) in the [[Antonia Bayle's Chambers|Qeynos Palace]] or [[Overlord Lucan D'Lere|Lucan]] (evil aligned) in Freeport's [[Twilight Citadel|Dethknell Citadel]] to complete the quest.
-   - Go To Dethknell Citadel (portal at (8, -20, 13)) to speak [[Overlord Lucan D'Lere|Lucan]] in his office (The Overlord's Inner Sanctum).
-   - Go To Qeynos Castle (door at (490, 5, -20) in North Qeynos) to speak [[Antonia Bayle|Antonia]] in her home.
+   - Go To Dethknell Citadel (portal at {{waypoint 8, -20, 13}}) to speak [[Overlord Lucan D'Lere|Lucan]] in his office (The Overlord's Inner Sanctum).
+   - Go To Qeynos Castle (door at {{waypoint 490, 5, -20}} in North Qeynos) to speak [[Antonia Bayle|Antonia]] in her home.
 
 ![Portal to Deathknell Citadel](images/Portal_to_Deathknell_Citadel.jpg)
 

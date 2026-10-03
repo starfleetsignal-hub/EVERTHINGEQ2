@@ -39,7 +39,7 @@ source:
 
 ![leaves and twigs](images/BuildingAFireQuestObjects.JPG)
 
-1. Collect 4 piles of leaves in [[Treant Grove]] (around [[Butcherblock Canyon]] ( 779, 12, -78 ))
+1. Collect 4 piles of leaves in [[Treant Grove]] (around [[Butcherblock Canyon]] {{waypoint 779, 12, -78}})
 1. Collect 4 twigs
 1. Start the fire next to Amber by clicking it
 1. Speak to Amber

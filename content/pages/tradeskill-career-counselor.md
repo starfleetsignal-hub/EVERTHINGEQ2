@@ -20,11 +20,11 @@ Game Update #36 added the ability for Artisans to change their tradeskill class 
 1. [[Jonak Harvester]] in [[Coalition Crafter's Association]] off of [[West Freeport]]. [1]
 1. [[Vier N'vul]] in the [[Neriak Down Under]] near the [[Dockside Markets]].
 1. [[Salviln Grau'tuz]] in [[Gorowyn]] near the entrance to [[The Wards]].
-1. [[Padraig McDougal]] in [[New Halas]] near the [[Ravens' Roost]] at -329,176,-53
+1. [[Padraig McDougal]] in [[New Halas]] near the [[Ravens' Roost]] at {{waypoint -329, 176, -53}}
 
 After hailing one of these NPCs and confirming your decision, you will be reverted to a level 9 Artisan and all tradeskill class-specific recipes will be removed from your recipe books.
 
-[1] On Anashti Sul Origins server, the correct career counselor is [[Alethea Augustine]] (loc 29, -12, 90), on the 2nd floor of the N building. She has no quest indicator but responds when hailed. (Eliana (talk) 18:08, 26 March 2025 (UTC))
+[1] On Anashti Sul Origins server, the correct career counselor is [[Alethea Augustine]] {{waypoint 29, -12, 90}}, on the 2nd floor of the N building. She has no quest indicator but responds when hailed. (Eliana (talk) 18:08, 26 March 2025 (UTC))
 
 More info at http://eq2.allakhazam.com/wiki/Tradeskill_Respecialization_FAQ
 

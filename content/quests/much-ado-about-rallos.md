@@ -35,7 +35,7 @@ Kroota asks you to collect some items for a ceremony in honor of Rallos Zek.
 1. Speak to Zukogg, outside the Freeport Reserve bank, for the skins.  She sends you to Darby the tailor.
 1. Right-click on the barrel near Darby to collect the skins.
 1. Speak to Barch near The Torch of Oggok in the center of Big Bend.  He sends you to a room in the back alley to collect the blood.
-1. Harvest an elvish vase at ( loc: -36.33, 4, -43.24 ).
+1. Harvest an elvish vase at {{waypoint -36.33, 4, -43.24}}.
 1. Return to Barch.
 1. Speak to Crattok, in the alley near the Scribe shop, for the incense.  She wants payment for the fuel.
 1. Return to Kroota.  He tells you to give Crattok the rat carcasses.

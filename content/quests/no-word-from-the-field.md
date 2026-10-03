@@ -39,7 +39,7 @@ expansion_source: patch
 To receive the update for the following steps, you must click on the slain agent's corpse and slay the [[A Rime hydrolated battler|Rime hydrolated battler]] that spawns immediately after interaction:
 
 1. [[Danak Agent Sorus]]: {{waypoint 330, -22, -606}}
-1. [[Danak Agent Xakiti]]: -108 -5 -1,048
+1. [[Danak Agent Xakiti]]: {{waypoint -108, -5, -1048}}
 1. [[Danak Agent Tepin]]: {{waypoint -338, 0, -1189}}
 1. [[Danak Agent Retssok]]: {{waypoint -636, -25, -1230}}
 1. [[Danak Agent Vinnisk]]: {{waypoint -355, -40, -808}}

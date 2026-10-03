@@ -11,7 +11,7 @@ recipes: '- [[Simple roll of fabric]]
   - [[Simple spinning wheel]]
 
   - [[Stack of Coldain plates]]'
-obtained_from: Harvestable book clickable after completion of the New Halas Tradeskill timeline. At the corner of a table at ( 61, 154, -131 ).
+obtained_from: Harvestable book clickable after completion of the New Halas Tradeskill timeline. At the corner of a table at {{waypoint 61, 154, -131}}.
 item_link: \aITEM -460101630 624453828:Ironforge Exchange Basic Recipes\/a
 categories:
 - Artisan Recipe Books

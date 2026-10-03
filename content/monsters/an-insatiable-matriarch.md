@@ -6,7 +6,7 @@ race: Stirge
 level: '29'
 difficulty: Heroic ^^^
 zone: '[[Butcherblock Mountains]]'
-location: in the [[Stirge Cave]] at ( -248,166,201 )
+location: in the [[Stirge Cave]] at {{waypoint -248, 166, 201}}
 added_in: Echoes of Faydwer
 removed_from_game: Removed during an unknown update - probably when [[Sentinel's Fate]] revamped Butcherblock Mountains
 aliases:

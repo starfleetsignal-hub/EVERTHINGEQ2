@@ -35,7 +35,7 @@ source:
 ## Steps
 
 1. Find an old map of Tunaria {{waypoint 537.33, 123.12, -66.35}} (in the Sanctum) and bring it to The Duality.
-1. Go out from the Sanctum and find a sample of [[Tuft of roekillik fur|roekillik fur]] in the Roekillik caves (Entrance at 1,484 -116 3062 look for the sparkling crystal just inside the entrance) in the [[The Sundered Frontier|Sundered Frontier]] {{waypoint 1404.99, -129.49, 3077.74}}.
+1. Go out from the Sanctum and find a sample of [[Tuft of roekillik fur|roekillik fur]] in the Roekillik caves (Entrance at {{waypoint 1484, -116, 3062}} look for the sparkling crystal just inside the entrance) in the [[The Sundered Frontier|Sundered Frontier]] {{waypoint 1404.99, -129.49, 3077.74}}.
 1. Return with the fur to The Duality to receive the recipe, [[Roekillik illusion spell]] to craft the [[Roekillik Illusion]].
    - There is an engraved desk in the Sanctum {{waypoint 524.66, 130.09, -59.35}}.
 1. ![The Roekillik Elder's private lair](images/The_Roekillik_Elder's_private_lair.jpg)Enter the roekillik caves in Sundered Frontier and find the private lair at {{waypoint 1383.95, -134.07, 3050.61}}

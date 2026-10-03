@@ -34,7 +34,7 @@ I need to find more creatures that will drop planar ions.
 - Kill 10 people harrowers in the Hallowed Hollow.
   - Quest updates to find more planar ions.
 
-- Kill 10 a myconid greenblight, a myconid flushfiend, a myconid diremold in the cave at /way -958 1 -118
+- Kill 10 a myconid greenblight, a myconid flushfiend, a myconid diremold in the cave at {{waypoint -958, 1, -118}}
 
 ## Rewards
 

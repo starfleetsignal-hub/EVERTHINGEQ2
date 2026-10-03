@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The Sundered Frontier Timeline]]'
 journal_category: The Sundered  Frontier
-starts: Speak with [[Warriden Jupidor]] at 1,012.78 113.10 3,802.42
+starts: Speak with [[Warriden Jupidor]] at {{waypoint 1012.78, 113.10, 3802.42}}
 prerequisite: '[[A Toxic Concern]]'
 next_quest: '[[The Food Source]]'
 added_in: Sentinel's Fate

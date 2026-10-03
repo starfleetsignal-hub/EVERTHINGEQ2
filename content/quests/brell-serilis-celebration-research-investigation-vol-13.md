@@ -47,10 +47,10 @@ The herald of Brell Serilis has informed me that summoning an Avatar requires th
    - {{waypoint 242, 189, 430}} in The Highlands, close to the camps and griffon station
    - {{waypoint -390, 151, 42}} in The Quarry, south of the hole
    - {{waypoint -762, 105, 24}} next to the southern throne at The Chessboard
-   - ( -995, 100, -450)  next to Greater Faydark Station
-   - ( -490, 150, -440) on the path east from Kaladim.
-   - ( -465, 138, 607) next to the sign "The Estate of Unrest"
-   - (-145, 208, -109) Just west of Herald.
+   - {{waypoint -995, 100, -450}}  next to Greater Faydark Station
+   - {{waypoint -490, 150, -440}} on the path east from Kaladim.
+   - {{waypoint -465, 138, 607}} next to the sign "The Estate of Unrest"
+   - {{waypoint -145, 208, -109}} Just west of Herald.
 1. Return to [[Herald to the Duke of Below]] {{waypoint -241, 212, 56}} in [[Butcherblock Mountains]]
 
 ## Rewards

@@ -31,7 +31,7 @@ source:
 
 ## 2017
 
-Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at 2,300 -200 2,502 in [[The Sundered Frontier]].
+Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at {{waypoint 2300, -200, 2502}} in [[The Sundered Frontier]].
 
 1. [[The "Travels" of Yun Zi - An Oasis For Your Thoughts]]
 1. [[The "Travels" of Yun Zi - In a Kingdom Far Away]]
@@ -45,7 +45,7 @@ Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at 2,300 -200 2
 
 ## 2018
 
-Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at 2,300 -200 2,502 in [[The Sundered Frontier]].
+Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at {{waypoint 2300, -200, 2502}} in [[The Sundered Frontier]].
 
 1. [[The new "Travels" of Yun Zi - Antonica or Bust]]
 1. [[The new "Travels" of Yun Zi - Commonlands, Uncommon Heart]]
@@ -59,7 +59,7 @@ Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at 2,300 -200 2
 
 ## 2019
 
-Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at 2,300 -200 2,502 in [[The Sundered Frontier]].
+Quests given by [[Yun Zi (Merchant)|Yun Zi]] on [[Spire Island]] at {{waypoint 2300, -200, 2502}} in [[The Sundered Frontier]].
 
 1. [[Yet more "Travels" of Yun Zi - Once Again in the Desert]]
 1. [[Yet more "Travels" of Yun Zi - Skies the Limit]]

@@ -41,7 +41,7 @@ source:
    - 1 [[Amber]]
    - 1 [[Ethereal coal]]
 1. Head up the elevator and out to the barricades and release the Spybot around {{waypoint 641, -380, 965}}; if that location does not work, try {{waypoint 753.59, -376.48, 855.93}}
-1. Return to Fenwick. (1295, -540, 471)
+1. Return to Fenwick. {{waypoint 1295, -540, 471}}
 
 ## Rewards
 

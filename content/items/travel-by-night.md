@@ -25,4 +25,4 @@ expansion_source: source
 
 This item is needed for the collection: [[Avoiding Heat Stroke (Collection)|Avoiding Heat Stroke]]
 
-Found one in the Takish Badlands at ( -77, 112, -90 )
+Found one in the Takish Badlands at {{waypoint -77, 112, -90}}

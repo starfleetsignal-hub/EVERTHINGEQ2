@@ -34,4 +34,4 @@ source:
 
 Make sure to kill all Ritualist, else Sarinich will be invincible. Once the 8 Ritualist are killed, then it is a simple tank and spank.
 
-There is no need to kill any of the Ritualists, but you have to destoy two statues, one in Temple of Thulian Power (/loc -483.65, 13.91, 213.82) and one in Temple of Thulian Might (/loc -327.43, 13.91, 215.47). When both statues are destroyed Sarinich shouts "Fools! You will pay for defiling our temple!"
+There is no need to kill any of the Ritualists, but you have to destoy two statues, one in Temple of Thulian Power {{waypoint -483.65, 13.91, 213.82}} and one in Temple of Thulian Might {{waypoint -327.43, 13.91, 215.47}}. When both statues are destroyed Sarinich shouts "Fools! You will pay for defiling our temple!"

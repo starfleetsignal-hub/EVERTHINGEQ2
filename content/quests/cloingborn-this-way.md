@@ -43,7 +43,7 @@ Bynn Cloingborn is one of the gnemlin mages who have been maintaining the magica
 
 1. Hunt these components within the [[Abyssal Chasm]]:
    - Obtain 8 core essences from [[An abyssal aquata spirit|abyssal aquata spirits]] {{waypoint -13.79, -24.51, -261.95}}.
-   - Obtain 8 beaks from [[An abyssal fathomlurker|abyssal fathomlurkers]] -29. 79 -194..
+   - Obtain 8 beaks from [[An abyssal fathomlurker|abyssal fathomlurkers]] {{waypoint -29, 79, -194}}..
 1. Return to [[Bynn Cloingborn|Bynn]].
 
 ## Rewards

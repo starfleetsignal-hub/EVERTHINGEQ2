@@ -4,7 +4,7 @@ type: quest
 level: '102'
 zone: '[[Cobalt Scar]]'
 journal_category: Mission
-starts: Speak to [[Dallen Greenleaf]] in Scarstone ( 4409, -821, 406 )
+starts: Speak to [[Dallen Greenleaf]] in Scarstone {{waypoint 4409, -821, 406}}
 added_in: LU66
 categories:
 - Cobalt Scar Quests

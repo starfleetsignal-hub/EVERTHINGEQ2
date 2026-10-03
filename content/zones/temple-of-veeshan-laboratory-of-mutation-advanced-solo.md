@@ -91,7 +91,7 @@ Notes:
 
 Once The Experiment is dead, walk into portal in the back of this room then fly to the last named at the far East of the zone.
 
-## Barabes the Undying -1,920.91 300.98 715.12
+## Barabes the Undying {{waypoint -1920.91, 300.98, 715.12}}
 
 This fight happens in two stages. First, you burn him down (easy fight - don't hit him after he casts "Necromatic Sphere" as it will heal him (wait about 5-10sec)) and then a FAKE Exquisite Chest will drop. DO NOT click it until you are ready for the next stage.
 Barabes will revive and you fight him again. He's considerably harder this time and has adds. When the adds come, KILL THEM. They hit hard and will kill you. They don't have a whole lot of HPs. Once the last add is killed, Barabes hits much harder. Save your burst DPS / final burn until this point and get him from 25% to dead as fast as possible.

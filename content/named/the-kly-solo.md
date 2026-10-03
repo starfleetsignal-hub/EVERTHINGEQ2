@@ -29,7 +29,7 @@ source:
 
 <Lord of the Crypt>
 
-Look to the left and right side of the room to notice side rooms. At the end of each, is 'An inactive power source' {Left side (112, -173, -330)} {Right side (-112, -173, -330)}
+Look to the left and right side of the room to notice side rooms. At the end of each, is 'An inactive power source' {Left side {{waypoint 112, -173, -330}}} {Right side {{waypoint -112, -173, -330}}}
 
 Pick a side- doesn't matter which. Pull The Kly to that side just far enough into the room to see what color the orb becomes.
 
@@ -43,6 +43,6 @@ Return out to the rejuvenation room and pick a side again to rinse and repeat. V
 
 - Note: Failure to choose his match on time will cause "My body is whole once again." He will return to full health.
 
-Once he's dead, run up the ramp into the room up top. There is a teleport (-32, -163, -599) that will return you to the entrance of the zone to leave.
+Once he's dead, run up the ramp into the room up top. There is a teleport {{waypoint -32, -163, -599}} that will return you to the entrance of the zone to leave.
 
 If you fail to kill him on the first attempt, you must wait 90 minutes minimum to reset the zone and try again. If you fail on the first attempt, the orbs will not activate and there is no way to defeat The Kly

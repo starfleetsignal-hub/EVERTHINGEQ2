@@ -46,6 +46,6 @@ source:
 
 ## Notes
 
-These can be found on top of the [[Scrawling Cliffs]].  A path to the top of the cliffs can be found at 441, -81, -881.
+These can be found on top of the [[Scrawling Cliffs]].  A path to the top of the cliffs can be found at {{waypoint 441, -81, -881}}
 
 They always come in groups of four, surrounding [[A dusty tornado]].  The tornado can't be interacted with until the summoners are all defeated, at which point it becomes a MOB.

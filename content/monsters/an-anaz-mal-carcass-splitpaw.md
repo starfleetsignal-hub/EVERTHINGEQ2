@@ -30,4 +30,4 @@ source:
 
 ## Additional Locations
 
-Anaz Mal carcass mobs are also 57-60, both Heroic and Non-Heroic, in [[Sinking Sands]] around -205, -104, -574.
+Anaz Mal carcass mobs are also 57-60, both Heroic and Non-Heroic, in [[Sinking Sands]] around {{waypoint -205, -104, -574}}

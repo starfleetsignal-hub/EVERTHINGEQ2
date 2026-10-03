@@ -28,16 +28,16 @@ source:
 ### To Spawn
 
 - Kill 8 fireboars in Warrens at least:
-  - /way -64, 0, 117
-  - /way 118, 2, 158
-  - /way -171, -30, 113
-  - /way 12, -59, -120
-  - /way -97, -50, -265
-  - /way 21, 3, 276
-  - /way 14, -2, -162
-  - /way 63, -34, 197
-  - /way -7, 21, 314
-  - /way 12, 22, 201
+  - {{waypoint -64, 0, 117}}
+  - {{waypoint 118, 2, 158}}
+  - {{waypoint -171, -30, 113}}
+  - {{waypoint 12, -59, -120}}
+  - {{waypoint -97, -50, -265}}
+  - {{waypoint 21, 3, 276}}
+  - {{waypoint 14, -2, -162}}
+  - {{waypoint 63, -34, 197}}
+  - {{waypoint -7, 21, 314}}
+  - {{waypoint 12, 22, 201}}
 - Destroy Wall with [[Darkpaw Powder Keg]]
 - Repair Terraporter with a [[Darkpaw Terraporter Crystal]]
 - Kill Final 2 Boar in the 2 rooms beyond the terraporter

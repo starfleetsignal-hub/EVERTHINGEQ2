@@ -4,7 +4,7 @@ type: npc
 expansion: Echoes of Faydwer
 race: Dwarf
 zone: '[[Butcherblock Mountains]]'
-location: '[[Butcherblock Docks]] Loc (736, 26, 577) {{waypoint 736, 26, 577}}'
+location: '[[Butcherblock Docks]] Loc {{waypoint 736, 26, 577}} {{waypoint 736, 26, 577}}'
 added_in: Echoes of Faydwer
 categories:
 - Butcherblock Mountains NPCs

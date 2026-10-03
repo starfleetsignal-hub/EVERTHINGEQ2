@@ -25,7 +25,7 @@ A prison made of bones surrounded by guards. I was unable to discover a way to e
 
 ## Island Access
 
-- (509, -114, 13): [[Isle of Awakening]], [[Isle of Desolation]], [[Isle of the Guardians]]
+- {{waypoint 509, -114, 13}}: [[Isle of Awakening]], [[Isle of Desolation]], [[Isle of the Guardians]]
 
 ## Monsters
 

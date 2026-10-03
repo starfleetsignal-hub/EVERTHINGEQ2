@@ -58,16 +58,16 @@ source:
 1. Locate the **Azure scarab** inside [[The Poets Palace]] in one of the third floor rooms:
    - This scarab can be very difficult to see if it spawns on one the blue tiles!  If you have Ultravision, Sonic Vision, Heat vision, or any other vision alteration spell ability it will make the scarab much easier to see.
      - If you do not have vision alteration abilities, then swiveling the 3rd party camera view to be all the way down, level with the floor itself, will reduce the visibility of the offending tiles and allow anything sitting on top of the floor to stand out much easier in view.
-   - In room with [[Nhjela the Mad Poet]]. ( 53, 228, -149 ).
+   - In room with [[Nhjela the Mad Poet]]. {{waypoint 53, 228, -149}}.
    - In one of the scarab ring event rooms.
    - {{waypoint 76, 227, -112}}
    - {{waypoint -2, 227, -87}}
    - {{waypoint 41, 227, 5}}
    - {{waypoint 77, 227, -10}} or {{waypoint 77, 227, -8}}
-   - This was located in a hallway that only has one set of doors.  ( 77.35, 227.31, -109.17 )
+   - This was located in a hallway that only has one set of doors.  {{waypoint 77.35, 227.31, -109.17}}
 1. Locate the **Fire opal scarab** inside [[The Poets Palace]] in one of the fourth floor rooms:
    - In the room with the [[Keeper of Silence]]: {{waypoint -75, 300, -15}}
-   - In the room with [[A Creature of Beauty]], behind creature near the wall: (-57, 314, -141)
+   - In the room with [[A Creature of Beauty]], behind creature near the wall: {{waypoint -57, 314, -141}}
    - In the [[The Djinn Master]]'s room: {{waypoint -46, 314, 17}}
    - In middle room: {{waypoint -107, 295, -45}}
 1. When you have all four scarabs, examine the music box. You are given an option to put in the scarabs in a certain order. In the past, the order decided which of the five rewards you would get. As of 2019, the music box received is random.

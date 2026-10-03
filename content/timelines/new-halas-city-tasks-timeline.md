@@ -57,7 +57,7 @@ source:
 
 |  |  |
 |---|---|
-| {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff" | <h2 style="margin:0;background-color:#cedff2;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #a1a1b3;text-align:left;color:#000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">[[Lady Vienna Sanditerra]] - [[The Sundered Frontier]] 2,050 301 3,245</h2> |
+| {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5faff" | <h2 style="margin:0;background-color:#cedff2;font-family:sans-serif;font-size:120%;font-weight:bold;border:1px solid #a1a1b3;text-align:left;color:#000;padding-left:0.4em;padding-top:0.2em;padding-bottom:0.2em;">[[Lady Vienna Sanditerra]] - [[The Sundered Frontier]] {{waypoint 2050, 301, 3245}}</h2> |
 | *(81) [[New Halas: Stonecold Killing]]<br>*(83) [[New Halas: Grub Picking]]<br>*(86) [[New Halas: Stalking the Fear]]<br>*(87) [[New Halas: Nay Sayers]]<br>*(89) [[New Halas: The Darkest Spiders]] | } |
 
 |  |  |

@@ -42,7 +42,7 @@ expansion_source: patch
 ## Steps
 
 1. Head to [[The Elddar Grove (POI)|The Elddar Grove]] in [[Qeynos Province District]]. The Guards are level 55 at the gates, Lower level characters can avoid the guards by going through the Peat bog to the Vermin's Snye to Down Below, then the Elddar Grove.
-1. Click on the basement doors outside the [[In Range]] ammo shop in the Elddar Grove at Loc (575, -18, -398) and enter the instance [[The Seed of Tunarbos (Zone)|The Seed of Tunarbos]].
+1. Click on the basement doors outside the [[In Range]] ammo shop in the Elddar Grove at Loc {{waypoint 575, -18, -398}} and enter the instance [[The Seed of Tunarbos (Zone)|The Seed of Tunarbos]].
    - When you zone in there will be several aggressive creatures near the entrance.
    - You can invisible or stealth past most of the monsters in this instance.
    - The first floor has 2x [[A house plant|house plants]], 1x [[A Tunarian Alliance woodsman]], and 1x [[A Tunarian Alliance chef]] who appear to have a maximum level of 70.

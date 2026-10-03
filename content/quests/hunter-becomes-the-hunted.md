@@ -7,7 +7,7 @@ level: '96'
 difficulty: Heroic
 zone: '[[Outer Kael]]'
 journal_category: 'Kael Drakkel: Throne of Storms'
-starts: Next to [[Breenus McFaylinn]], in Outer Kael on a wooden box, read the note on the right -1,521.89 21.74 -659.01
+starts: Next to [[Breenus McFaylinn]], in Outer Kael on a wooden box, read the note on the right {{waypoint -1521.89, 21.74, -659.01}}
 categories:
 - Heroic Quests
 - 'Kael Drakkel: Throne of Storms Quests'

@@ -38,7 +38,7 @@ source:
 ## Steps
 
 1. Kill and gather 2 of the following:
-   - Hunt furry Manglers for pelts (need 12) - found around {{waypoint 376, 58.5, 312}} Note: I found Manglers at (506, 107, 338) - [confirmed at  (506, 107, 338)]
+   - Hunt furry Manglers for pelts (need 12) - found around {{waypoint 376, 58.5, 312}} Note: I found Manglers at {{waypoint 506, 107, 338}} - [confirmed at  {{waypoint 506, 107, 338}}]
      - Gather [[Buried nuts]] (need 8) - small dirt mounds around Sanctuary {{waypoint 121.30, 0.00, 643.91}}
    - ![](images/Sunset_Daisies.jpg)[[Sunset Daisies]] (Need 8) - small Daisy plant found around {{waypoint 311, 51, 40.21}}
      - Lots of daisies in the same area as the Furry Manglers above. {{waypoint 376, 58.5, 312}}

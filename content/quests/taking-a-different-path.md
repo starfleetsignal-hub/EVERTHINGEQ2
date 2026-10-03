@@ -27,7 +27,7 @@ expansion: Echoes of Faydwer
 expansion_source: patch
 ---
 
-Two thugs, (The names of the thugs are drawn from a random pool, apparently), are threatening a small human boy in an alley (loc 82.28,23.37,161.31) next to the player residence Inn in [[The New Foreign Quarter]]. If you do not leave when warned they will become aggro (*scaled to your level*) and attack!
+Two thugs, (The names of the thugs are drawn from a random pool, apparently), are threatening a small human boy in an alley {{waypoint 82.28, 23.37, 161.31}} next to the player residence Inn in [[The New Foreign Quarter]]. If you do not leave when warned they will become aggro (*scaled to your level*) and attack!
 
 After he is safe, the boy, [[Matteus Gaines]], will speak with you about conditions in the city, and send you to speak to the city ambassador.
 

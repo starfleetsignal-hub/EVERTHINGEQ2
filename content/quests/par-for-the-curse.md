@@ -34,7 +34,7 @@ source:
 1. Venture to [[Shattered Monolith Cay]]. Update around {{waypoint -96.80, 12.92, -734.64}}. The stones are all around the perimeter, and can be seen while flying.
 1. Destroy 10 **discordant stones**. ![Discordant Stone](images/Discordant_stone.png)
    - Breaking the stones creates [[A turmoil of discordant stone]] that is the actual update.
-1. Return to [[Salizar Ethaz (Mahngavi Wastes)|Salizar Ethaz]]. **NOTE:** Salizar Ethaz does *NOT* give the next quest "Market Flesh" at this location. You must **zone into Forlorn Gist and find him there at (-145, 17, 252)**
+1. Return to [[Salizar Ethaz (Mahngavi Wastes)|Salizar Ethaz]]. **NOTE:** Salizar Ethaz does *NOT* give the next quest "Market Flesh" at this location. You must **zone into Forlorn Gist and find him there at {{waypoint -145, 17, 252}}**
 
 ## Rewards
 

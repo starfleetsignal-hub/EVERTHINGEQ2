@@ -26,4 +26,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Just outside the Rubble Rabble Burrow at ( -76, -31, -86 )
+Just outside the Rubble Rabble Burrow at {{waypoint -76, -31, -86}}

@@ -67,7 +67,7 @@ Made up of the Isle of Refuge, Death Weave Island and South Dshinn.
 
 | Zone Name | Level Range | Direction | Access<br> |
 |---|---|---|---|
-| [[Brokenskull Bay: Spoils of Maraud (Contested)]] | 95-100 | Northwest island (288.53,5.85,-914.50) | click on raft |
+| [[Brokenskull Bay: Spoils of Maraud (Contested)]] | 95-100 | Northwest island {{waypoint 288.53, 5.85, -914.50}} | click on raft |
 
 ### Revive Locations
 

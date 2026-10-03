@@ -46,7 +46,7 @@ source:
 To reach this location, you can:
 
 - Ride a [[Sokokar]] from [[Dreg's Landing]], which is near the dock of [[Kylong Plains]], then take an inter-zone Sokokar to the shipyard.
-- If working on quests related to any of the Kunark Ascending expansion content, travel to the [[Crusader's Cave]] and go to the zone-in point at 826 262 1,244
+- If working on quests related to any of the Kunark Ascending expansion content, travel to the [[Crusader's Cave]] and go to the zone-in point at {{waypoint 826, 262, 1244}}
 
 ## NPCs
 

@@ -92,7 +92,7 @@ Players can find and open clam shells in 12 different zones, in waters at any of
 ## Quests
 
 - [[Beach Party Brawl]] - {{waypoint -369.19, -69.68, -807.32}} on the beach of the [[The Nursery]] in [[Greater Faydark]] (added in 2019) annually repeatable
-- [[Shell or High Water]] - -1,024.38 -145.40 -638.84 just off [[The Commonlands]] dock (added in 2019) annually repeatable
+- [[Shell or High Water]] - {{waypoint -1024.38, -145.40, -638.84}} just off [[The Commonlands]] dock (added in 2019) annually repeatable
 - [[To Shell and Back]] - {{waypoint -1216.18, -539.28, 3383.54}} near [[Nipik's Haven]] (added in 2020) annually repeatable
 - [[Oceansfull of Good Food]] - {{waypoint -1101, 24, 495}} [[Tranquil Sea]] from [[Hana]] (added in 2020) annually repeatable
 - [[Terrors Run Deep]] - offered by [[Mimmi]] at [[Nipik's Haven]] in [[Eastern Wastes]] (added in 2022) annually repeatable

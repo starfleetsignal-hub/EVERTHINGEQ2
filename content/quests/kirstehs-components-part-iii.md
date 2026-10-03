@@ -36,7 +36,7 @@ expansion_source: patch
 
 ## Steps
 
-- Go to [[Nektulos Forest]] and collect:   coords : /waypoint -298, -0.00, -754
+- Go to [[Nektulos Forest]] and collect:   coords : {{waypoint -298, -0.00, -754}}
   - 6 poison sacs from [[Ash viper]]s
   - 10 ash shriller pelts from [[Ash shriller]] bats
   - 8 organs from [[Haze stalker]] wolves

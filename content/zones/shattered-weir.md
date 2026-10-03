@@ -5,8 +5,8 @@ expansion: Kingdom of Sky
 patch: Kingdom of Sky
 zone: The Bonemire
 levelrange: 55-70
-aclouds: '[[Drednever Crash Site]], [[Halls of Fate (Island)|Halls of Fate Isle]] at ( -855,-463,352 )'
-dclouds: '[[Drednever Crash Site]], [[Halls of Fate (Island)|Halls of Fate Isle]] at ( -855,-463,352 )'
+aclouds: '[[Drednever Crash Site]], [[Halls of Fate (Island)|Halls of Fate Isle]] at {{waypoint -855, -463, 352}}'
+dclouds: '[[Drednever Crash Site]], [[Halls of Fate (Island)|Halls of Fate Isle]] at {{waypoint -855, -463, 352}}'
 spires: to [[Tenebrous Tangle]] at (???) and [[The Barren Sky]] at (???)
 categories:
 - Islands

@@ -30,4 +30,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Spawns after using Crystal Shaper at 630,-130,-190 (or 630,-130,-172), one wave of Enraged Water Spirit (4 total) prior to spawning
+Spawns after using Crystal Shaper at {{waypoint 630, -130, -190}} (or 630,-130,-172), one wave of Enraged Water Spirit (4 total) prior to spawning

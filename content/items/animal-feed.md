@@ -2,7 +2,7 @@
 title: Animal Feed
 type: item
 item_kind: Quest Item
-obtained_from: Found southwest of the griffon tower just outside the [[Village of Thundermist]] in [[The Thundering Steppes]], (830, -1, -125)
+obtained_from: Found southwest of the griffon tower just outside the [[Village of Thundermist]] in [[The Thundering Steppes]], {{waypoint 830, -1, -125}}
 image: images/Animal_feed.jpg
 categories:
 - Item pages with existing iname images

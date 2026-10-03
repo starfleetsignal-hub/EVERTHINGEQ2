@@ -50,9 +50,9 @@ Scales to crafting level
    - [[Froglok Guard]] in [[Firmroot Moot]] {{waypoint 148, -86, -421}} and other places such as Tupta
    - [[Pirdy]] <Balloon Safety Conductor> in [[Firmroot Moot]] {{waypoint 165, -80, -391}}  (Do not follow the game blue dot on map as it is incorrect. Follow this ^^ waypoint/to Firmroot Balloon Conductor only.)
    - [[Sissili]] <Balloon Safety Conductor> near the [[Boarfiend Caves]] {{waypoint 667, 350, 245}}
-   - [[Klip Marrsquire]] <Survival Accord> in the [[Shadowed Cleft]] -1,446 -1,013 -58
+   - [[Klip Marrsquire]] <Survival Accord> in the [[Shadowed Cleft]] {{waypoint -1446, -1013, -58}}
    - [[Agata]] <Far Seas Trading Company Liaison> in [[Tillage Patch]] {{waypoint -809, -917, -398}}
-   - [[Alden Strongaxe]] <Far Seas Trading Company Liaison> at [[The Overlook]] -1,118 -105 -271
+   - [[Alden Strongaxe]] <Far Seas Trading Company Liaison> at [[The Overlook]] {{waypoint -1118, -105, -271}}
 1. Upon [[Catalogue Creature|cataloging]] the last one, you will receive your reward.
 
 ## Rewards

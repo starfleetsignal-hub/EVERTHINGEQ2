@@ -2,7 +2,7 @@
 title: Effigy of Drakinvess Mortis (POI)
 type: poi
 zone: '[[Lyceum of the Recondite]], [[Lyceum of the Recondite (Challenge)]]'
-location: (380.61, 0.43, -62.54)
+location: '{{waypoint 380.61, 0.43, -62.54}}'
 added_in: LU63
 categories:
 - LU63 POIs

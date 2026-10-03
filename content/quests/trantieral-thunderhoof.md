@@ -36,7 +36,7 @@ expansion_source: patch
 1. Visit the following places in The Thundering Steppes:
    1. [[Thundermist Valley]] {{waypoint 970, 0, 70}}
    1. [[Shattered Gully]] {{waypoint 500, 0, 480}}
-   1. [[Ruins of Karana]] -222 -.71 566 (near [[Qeynos Tower 4]])
+   1. [[Ruins of Karana]] {{waypoint -222, -0.71, 566}} (near [[Qeynos Tower 4]])
    1. [[Dead River Basin]] {{waypoint 420, -23, 1075}}
 1. Return to the Watcher of the Fields. Click the banner corresponding to Trantieral to complete the quest.
 

@@ -52,7 +52,7 @@ Vadreem suspects that crystals placed on pillars around [[Oblivion's Bask]], on 
    1. click again to destroy voidflow reservoir stone.
 1. Destroy the following
    - Destroy total of 7 (6 more) obscured voidflow reservoir stones on pillars throughout the zone. Possible locations:
-     - {{waypoint -160, 133, 264}}, {{waypoint -66, 157, 226}}, {{waypoint 31, 157, 375}}, {{waypoint 92, 157, 14}}, {{waypoint 38, 157, 75}}, {{waypoint 47, 157, 37}}, {{waypoint 170, 156, 63}} (166, 157, 42) and more.
+     - {{waypoint -160, 133, 264}}, {{waypoint -66, 157, 226}}, {{waypoint 31, 157, 375}}, {{waypoint 92, 157, 14}}, {{waypoint 38, 157, 75}}, {{waypoint 47, 157, 37}}, {{waypoint 170, 156, 63}} {{waypoint 166, 157, 42}} and more.
    - Destroy the voidflow polestar gem at {{waypoint 199, 158, 90}} - you need to kill all named mobs in the zone in order to destroy gem.
      - *Note there's a huge knockback when you destroy it*
 1. Return to [[Vadreem]] on [[Nightscar Steppes]] in [[The Unknown]].

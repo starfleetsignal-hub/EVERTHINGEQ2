@@ -37,7 +37,7 @@ source:
 
 ## Steps
 
-1. Speak to [[Naisha Vallinasis]] at -67.12, 44.65, -221.90 Copy
+1. Speak to [[Naisha Vallinasis]] at {{waypoint -67.12, 44.65, -221.90}} Copy
 1. Gather 5 soil samples from around the teleportation spires. These are greenish mounds with a blue sparkle effect.
 1. Click on the pot to put the soil in, and speak with [[Naisha Vallinasis|Naisha]].
 1. Obtain 3 obol dreadleaf seeds. [[An obol dreadleaf|Obol dreadleaves]] are shamblers found southwest of the camp. This is an uncommon auto-update.

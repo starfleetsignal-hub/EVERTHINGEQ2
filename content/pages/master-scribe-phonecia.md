@@ -12,4 +12,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Location: 828.80, -23.50, 126.80![Master Scribe Phonetia](images/Scribe.png)
+Location: {{waypoint 828.80, -23.50, 126.80}}![Master Scribe Phonetia](images/Scribe.png)

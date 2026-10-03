@@ -25,9 +25,9 @@ This location is a small island off the coast of Thurgadin Harbor in The Great D
 
 To travel to this location you can:
 
-1. Hail the [[Stissa]], the Othmir NPC -1,502 -214 -386 on [[The Sinking Sands]] docks, near the giant sea turtle and ask to be sent to Velious (Great Divide, but puts you right at the Icy Fingers dock)
+1. Hail the [[Stissa]], the Othmir NPC {{waypoint -1502, -214, -386}} on [[The Sinking Sands]] docks, near the giant sea turtle and ask to be sent to Velious (Great Divide, but puts you right at the Icy Fingers dock)
 - **or**
-1. Travel to the [[Great Divide]] using the world-travel globe found on most docks, then hail the Flight Master (griffon rider) at 1,336 -540 406 on the Thurgadin dock. Ask to be sent to Icy Fingers.
+1. Travel to the [[Great Divide]] using the world-travel globe found on most docks, then hail the Flight Master (griffon rider) at {{waypoint 1336, -540, 406}} on the Thurgadin dock. Ask to be sent to Icy Fingers.
 - **or**
 1. If you already have a [[Mounts|flying mount]] you can travel to the [[Great Divide]] and fly from the docks of Thurgadin Harbor.
 

@@ -43,7 +43,7 @@ As you fight Advisor Svartmanehe he will spawn 2 types of adds, Ooze and Condens
 
 ### Phase 3
 
-Once Advisor Svartmanehe dies he spawns a ghost of himself The Spirit of Advisor Svartmane . Have your tank hit The Spirit of Advisor Svartmane a few times to get aggro then kill off any remaining Ooze or Condensed Spite.  At this point move your group to around -38.35, 776.61, 86.42 the Spirit Advisor will follow you there. Once there re-engage the Spirit Advisor.
+Once Advisor Svartmanehe dies he spawns a ghost of himself The Spirit of Advisor Svartmane . Have your tank hit The Spirit of Advisor Svartmane a few times to get aggro then kill off any remaining Ooze or Condensed Spite.  At this point move your group to around {{waypoint -38.35, 776.61, 86.42}} the Spirit Advisor will follow you there. Once there re-engage the Spirit Advisor.
 
 When he gets down to around 50% you will see 6 doors, A Shadow Door spawn around the zone. (As long as someone is hitting A Shadow Door no mobs come out of it). Once the doors spawn The Spirit of Advisor Svartmane will stop attacking so STOP ATTACKING him and focus on destroying all the Shadow Doors.  You want good DPS for this because the longer the Shadow Doors are up the more mobs pour through them.
 

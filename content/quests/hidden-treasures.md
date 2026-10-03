@@ -31,7 +31,7 @@ source:
 ## Steps
 
 1. Speak with [[Maareona Ludimintium]] to start the quest.
-1. Take the passage right next to her and follow it all the way down to find a ferryway (where the mariner's bell for this zone is located).  Swim to the northeastern end and click a crate at the bottom, behind the grate (718.1, -42.8, 282.8); you will receive a "small metal box and paper."
+1. Take the passage right next to her and follow it all the way down to find a ferryway (where the mariner's bell for this zone is located).  Swim to the northeastern end and click a crate at the bottom, behind the grate {{waypoint 718.1, -42.8, 282.8}}; you will receive a "small metal box and paper."
 1. Return to [[Maareona Ludimintium|Maareona]] to complete the quest.
 
 ## Rewards

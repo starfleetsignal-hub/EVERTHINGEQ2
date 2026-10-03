@@ -6,7 +6,7 @@ difficulty: Solo
 zone: '[[The Sundered Frontier]]'
 timeline: '[[The "Travels" of Yun Zi Timeline]]'
 journal_category: Miscellaneous
-starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at 2,297 -199 2,506
+starts: Speak to [[Yun Zi (Merchant)|Yun Zi]] on the [[Spire Island]] at {{waypoint 2297, -199, 2506}}
 prerequisite: '[[The new "Travels" of Yun Zi - Having Fun Storming Lavastorm]]'
 next_quest: '[[Yet more "Travels" of Yun Zi - Skies the Limit]]'
 added_in: LU107
@@ -52,7 +52,7 @@ Gather a "Shiny Bottle" fom the following locations in Deserts of Flames, in the
    1. {{waypoint 204.45, -81.83, -1414.07}}
    1. {{waypoint 181, -62.35, -1286}}
 1. ![A Souvenir Bottle](images/A_Souvenir_Bottle.webp)In [[Living Tombs]], (entrance from Sinking Sands {{waypoint -370.75, -142.75, -1041.84}}), a shiny bottle (see picture) on top of central pyramid in Trade Court around {{waypoint -645, 17, 235}}.  *Hint: use the climbable wall at {{waypoint -618, 9, 109}} to reach it.*
-1. In [[Silent City]], (go to the Port of Tears and take the carpet to the Silent City, or jump in the water and swim to the cave entrance at -890 -235 -1,259 then proceed to -944 -229 -1,043. A Harp (see picture) ![a souvenir Harp](images/ASouvenirHarp.jpg) on the ground in the first area. Possible Locations:
+1. In [[Silent City]], (go to the Port of Tears and take the carpet to the Silent City, or jump in the water and swim to the cave entrance at {{waypoint -890, -235, -1259}} then proceed to {{waypoint -944, -229, -1043}}. A Harp (see picture) ![a souvenir Harp](images/ASouvenirHarp.jpg) on the ground in the first area. Possible Locations:
    1. {{waypoint 139, 0, 453}}
    1. {{waypoint 114.51, 0, 420.66}}
    1. {{waypoint 117.07, 0, 465.65}}

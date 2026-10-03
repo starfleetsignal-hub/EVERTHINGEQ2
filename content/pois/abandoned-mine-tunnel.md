@@ -28,9 +28,9 @@ Click on the large boulder to enter.
 
 - Following the tracks and passing through this takes you to an exit in [[Fens of Nathsar]] at the [[Nurgan Mining Camp]].
 
-The exit to Obulus Frontier can be found by following the tracks to their western end, then on through the tunnel in the west wall and click the middle/back rock of cave-in at ( 98, 47, -2141 ).
+The exit to Obulus Frontier can be found by following the tracks to their western end, then on through the tunnel in the west wall and click the middle/back rock of cave-in at {{waypoint 98, 47, -2141}}.
 
-The exit to Fens of Nathsar can be found by following the tracks to their eastern end then turn left and click the cave-in at ( -270, 57, -2017 ).
+The exit to Fens of Nathsar can be found by following the tracks to their eastern end then turn left and click the cave-in at {{waypoint -270, 57, -2017}}.
 
 ## Quests
 

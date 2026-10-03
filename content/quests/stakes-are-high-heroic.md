@@ -5,7 +5,7 @@ level: '106'
 difficulty: Heroic
 zone: '[[The Fabled Crypt of Valdoon (Heroic)]]'
 journal_category: Mission
-starts: Click on "a sharp wooden stake" sticking out of the pillar at 3,-1,18.
+starts: Click on "a sharp wooden stake" sticking out of the pillar at {{waypoint 3, -1, 18}}
 in_game_name: Stakes Are High
 added_in: Update 2015.06.23
 achievement_xp: true

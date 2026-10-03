@@ -33,16 +33,16 @@ source:
 
 1. Collect 5 crystalline spider silks from the spiders within the cavern
 1. Find a way into the nest of [[Queen Drachnia]], and kill her to compare her silk with that of the crystalline spiders
-   1. Kill the Herbalist at ( -76, 14, -69 )
-   1. Kill all the tentacle terrors to spawn the Life Leech ( -11, -8, 19 )
-   1. Once the Life Leech is dead, kill Foreman Smason V at ( 42.52, -25.07, -75.94 )
-   1. The collapsible wall will come down. ( -90.03, 5.84, -13.57 )
+   1. Kill the Herbalist at {{waypoint -76, 14, -69}}
+   1. Kill all the tentacle terrors to spawn the Life Leech {{waypoint -11, -8, 19}}
+   1. Once the Life Leech is dead, kill Foreman Smason V at {{waypoint 42.52, -25.07, -75.94}}
+   1. The collapsible wall will come down. {{waypoint -90.03, 5.84, -13.57}}
    1. Kill the three geonid grapplers clinging to the wall.
    1. Once the geonid grapplers are dead, stand in the purple circle to be tossed up onto the wall.
    1. Kill the Gem Collector.
-   1. Go through the nearly crushed door at ( -80, 25, 28 ).
-   1. Kill Queen Drachnia at ( 185, -14, 49 ).
-   1. Speak to an injured coldain prisoner ( 194, -13, 39 ) to spawn an exit portal.
+   1. Go through the nearly crushed door at {{waypoint -80, 25, 28}}.
+   1. Kill Queen Drachnia at {{waypoint 185, -14, 49}}.
+   1. Speak to an injured coldain prisoner {{waypoint 194, -13, 39}} to spawn an exit portal.
 
 ## Rewards
 

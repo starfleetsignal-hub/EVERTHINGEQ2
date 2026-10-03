@@ -40,7 +40,7 @@ source:
      - *{{waypoint -575.66, 168.50, 72.21}} -- Floating island west of Drukyna Marsh*
      - {{waypoint -1278, 356, -848}} -- *Floating island above the ocean rim northeast of [[Pakiat Bluffs]].*
      - {{waypoint -1174, 214, -672}} -- *Floating island east of Pakiat Bluffs*
-     - ( 838.51, 14.01, 726.92 ) {{waypoint 838.51, 14.01, 726.92}} -- A rock in the water off the Stratafold.
+     - {{waypoint 838.51, 14.01, 726.92}} {{waypoint 838.51, 14.01, 726.92}} -- A rock in the water off the Stratafold.
      - {{waypoint -890, 297, 990}} -- *Near [[Valor's Roost]]*
    - Collect 6 [[Song-Polished Sand]] near {{waypoint 306, -153, 930}} in the [[Amphitheater of Song]].
      - *These look like small mounds of dirt emitting musical notes.*![Song-Polished_Sand](images/Song-Polished_Sand.jpg)

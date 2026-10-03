@@ -336,7 +336,7 @@ This page holds a full list of the slash commands available. See more at Slash C
 | /loc clipboard | Displays your current location and copies it to the clipboard |  |
 | /map2_show_zone_rect | /map2_show_zone_rect | Shows you the mapstyle name (internal DBG map name) and its ZoneRect, both needed for map mods. |
 | /show_map_style_name | /show_map_style_name 1 | 1 Enables and 0 Disables showing the mapstyle name of every zone that is entered, also needed for map mods. |
-| /waypoint<br>/way<br>/wa | /waypoint 100, 0, -100<br>/way 100, 0, -100<br>/wa 100, 0, -100<br>/way 100 0 -100 | Leads you to the location 100, 0, -100 in your current zone and a **•** will pop up on the map. <br> *the "," is optional for the coordinates.* |
+| /waypoint<br>/way<br>/wa | {{waypoint 100, 0, -100}}<br>{{waypoint 100, 0, -100}}<br>/wa 100, 0, -100<br>{{waypoint 100, 0, -100}} | Leads you to the location {{waypoint 100, 0, -100}} in your current zone and a **•** will pop up on the map. <br> *the "," is optional for the coordinates.* |
 | /waypoint_cancel | /waypoint_cancel | Cancels your current location. |
 
 ## User Interface

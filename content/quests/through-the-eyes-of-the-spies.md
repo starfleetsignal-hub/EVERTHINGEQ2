@@ -34,7 +34,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Examine [[The Eye of El'Arad]]. Take the transporter to the Eye of El'Arad station, then click on the telescope at -1,085 737 -427.
+1. Examine [[The Eye of El'Arad]]. Take the transporter to the Eye of El'Arad station, then click on the telescope at {{waypoint -1085, 737, -427}}.
    - *Note: you can safely examine the device **without** entering aggro range of [[Voidgazer Wazir]].*
 1. Return to [[Lochanya]].
 

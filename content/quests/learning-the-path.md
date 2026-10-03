@@ -27,8 +27,8 @@ source:
 
 ## Steps
 
-1. Reward Merchant: Enter Champion's Respite portal in Neriak (40, 17, 11)
-1. Writ Giver: Next to the Champion's Respite portal Neriak (40, 17, 11)
+1. Reward Merchant: Enter Champion's Respite portal in Neriak {{waypoint 40, 17, 11}}
+1. Writ Giver: Next to the Champion's Respite portal Neriak {{waypoint 40, 17, 11}}
 1. Complete the writ
 1. Return to the Priest of Discord
 

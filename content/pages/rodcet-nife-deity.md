@@ -48,6 +48,6 @@ Speak with [[Prophet Bainyn Fairwind]] at the [[Temple of Life]] in [[North Qeyn
 
 ## NPC
 
-The NPC version Rodcet Nife, Avatar of Health can be found in [[Antonica]] at -1,231 -5 746.
+The NPC version Rodcet Nife, Avatar of Health can be found in [[Antonica]] at {{waypoint -1231, -5, 746}}.
 
 - Note: this NPC may be related to a quest not yet on the wiki or here for a limited time. NPC loc added for those who may stumble into a quest that requires this location. Please add the quest if you happen upon one. Hailing the NPC indicates he may be here for a raid event, based on a system message.

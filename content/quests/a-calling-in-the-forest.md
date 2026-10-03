@@ -43,7 +43,7 @@ source:
 1. Visit the top of [[N'Mar's Ascent]]. {{waypoint -397, 60, -1298}}
 1. Visit [[Bone Lake]]. The quest update is on the shore on the north side of the lake, at {{waypoint -866, 141, -2148}}.
 1. Speak again with [[Theeral the nomad]] at {{waypoint -305, 0, 176}}.
-1. Kill [[A Dragoon lieutenant]] found wandering the ramparts of the [[Citadel of Gul'thex]] {{waypoint 695, 20, -705}} (placeholder is [[A Dragoon sentinel]]) or at ( -1032, 34, -1026).
+1. Kill [[A Dragoon lieutenant]] found wandering the ramparts of the [[Citadel of Gul'thex]] {{waypoint 695, 20, -705}} (placeholder is [[A Dragoon sentinel]]) or at {{waypoint -1032, 34, -1026}}.
 1. Examine the ward monuments surrounding [[Nektropos Castle (POI)|Nektropos Castle]].
    - The fist ward is at {{waypoint -1483, 112, -1988}}
    - The second ward is at {{waypoint -1586, 112, -1885}}

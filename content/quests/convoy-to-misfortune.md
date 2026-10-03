@@ -8,7 +8,7 @@ difficulty: Heroic
 zone: '[[The Hole]]'
 timeline: '[[The Hole Timeline]]'
 journal_category: The Hole
-starts: Speak to [[Belanum]] (-413, -16, -47) near the Hall of Insidious Plans, in Caertaxian Legion area
+starts: Speak to [[Belanum]] {{waypoint -413, -16, -47}} near the Hall of Insidious Plans, in Caertaxian Legion area
 added_in: Sentinel's Fate
 achievement_xp: true
 categories:

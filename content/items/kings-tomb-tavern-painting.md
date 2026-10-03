@@ -33,7 +33,7 @@ expansion_source: source
 
 ### Known Spawn Locations
 
-- {{waypoint -166, 149, 114}}    Access via climbing wall at (-154.76, 138.32, 107.87)
+- {{waypoint -166, 149, 114}}    Access via climbing wall at {{waypoint -154.76, 138.32, 107.87}}
 - {{waypoint -218, 160, -74}}
 
 ![](images/Damsel_painting.jpg)

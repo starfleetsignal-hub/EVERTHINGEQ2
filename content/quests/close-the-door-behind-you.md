@@ -49,13 +49,13 @@ expansion_source: patch
 Climbing the walls of the Hall of Steel
 
 1. Enter [[South Qeynos]].
-   - You can access [[South Qeynos]] by going from [[Antonica]] to [[The Peat Bog]] to [[Vermin's Snye]] to the [[Down Below]]. ( South Qeynos entrance is at ( -82, -0, -82 ) .
+   - You can access [[South Qeynos]] by going from [[Antonica]] to [[The Peat Bog]] to [[Vermin's Snye]] to the [[Down Below]]. ( South Qeynos entrance is at {{waypoint -82, -0, -82}} .
    - An easier path, especially for higher-level folks, is to enter [[Qeynos Harbor]] (harbor guards are around level 35), either via the sewer system path above, or from [[Graystone Yard]] (guards are around level 15). It is possible to scale the walls of the [[Hall of Steel]] to gain access to the secret back door into [[South Qeynos]] behind the building. This entrance to [[South Qeynos]] places you on the waterfront by the Concordium Tower, and all you must do is follow the wall to your right from here, there will be no guards.
 1. Make your way past the back side of the [[Concordium Tower]], avoiding the guards. There you will find a cellar door {{waypoint 760, -20, 102}} opening to [[The Summoning Chamber]] behind a tree and against the wall.
-   1. Use the path behind the stables ( 359, -20, 210 )
-   1. Stop  here and watch for the guards ( 414, -20, 236 )
-   1. Run Straight West to the archway at ( 702, -19, 192 )
-   1. Enter the door at ( 757, -20, 103 )
+   1. Use the path behind the stables {{waypoint 359, -20, 210}}
+   1. Stop  here and watch for the guards {{waypoint 414, -20, 236}}
+   1. Run Straight West to the archway at {{waypoint 702, -19, 192}}
+   1. Enter the door at {{waypoint 757, -20, 103}}
 1. The [[A Concordium watcher|Concordium watchers]], [[A Concordium guard|Concordium guards]], and [[A Concordium illusionist|Concordium illusionists]] inside do not see invis, so a totem or self-invisibility spell can be handy here. None of the Concordium personnel in this first room need to be killed. Sneak past then to the door on your right.
 1. The side room has [[A Concordium keeper]] plus at least one other Concordium researcher. Sneak to the corner with the keeper and kill her to obtain [[A Concordium signature emitter]]. You do not need to kill anything else in this room.
 1. Invis and go back out the door, and sneak up the stairs.

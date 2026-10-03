@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. use the [[Mystic Stone Vein Dram]] on 4 [[A Geonid repeller|a Geonid repellers]] or [[A Geonid watcher|a Geonid watchers]] at 691, -454, 3729 (doesn't work if they are fighting)
+1. use the [[Mystic Stone Vein Dram]] on 4 [[A Geonid repeller|a Geonid repellers]] or [[A Geonid watcher|a Geonid watchers]] at {{waypoint 691, -454, 3729}} (doesn't work if they are fighting)
 1. Return to [[Igneous]]
 
 ## Rewards

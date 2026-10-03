@@ -28,7 +28,7 @@ source:
 
 ## Notes
 
-- This NPC is way up on top of a ramp, not far off the platform when you exit the Skystrider to travel to the Moors from Sinking Sands. The *bottom* of the ramp to climb up to him is at 1,727 -164 943.
+- This NPC is way up on top of a ramp, not far off the platform when you exit the Skystrider to travel to the Moors from Sinking Sands. The *bottom* of the ramp to climb up to him is at {{waypoint 1727, -164, 943}}.
 
 ## Related Quests
 

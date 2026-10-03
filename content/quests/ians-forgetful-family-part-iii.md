@@ -41,7 +41,7 @@ This is part 3 of 6 in the  for residents of [[Qeynos]] and [[Kelethin]] who wea
 1. You must collect the following items:
    - Ian's cousin's lost 12 marble collection from [[A drowned trooper|drowned troopers]] skeletons in [[The Thundering Steppes]], around {{waypoint 159, -22, -220}}.
    - 5 Pieces of Silverware from [[A rock writher|rock writhers]] in Thundering Steppes, around {{waypoint 65, -22, -274}}.
-   - 10 Gaming Dice from any Hawks in Thundering Steppes. Known locs include 352.93 .51 -470.63 and {{waypoint 148, 6, 289}}. There are quite a few in the area of {{waypoint 118, 1.77, -562}} along Seaside Road, Antonican Road, and over Fallow Farmlands.
+   - 10 Gaming Dice from any Hawks in Thundering Steppes. Known locs include {{waypoint 352.93, 0.51, -470.63}} and {{waypoint 148, 6, 289}}. There are quite a few in the area of {{waypoint 118, 1.77, -562}} along Seaside Road, Antonican Road, and over Fallow Farmlands.
 1. Return to [[Ian Cathlan]] to receive your reward.
 
 ## Rewards

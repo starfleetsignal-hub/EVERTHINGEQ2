@@ -49,7 +49,7 @@ source:
 1. Enter [[The Library of Light]] in [[Maj'Dul]]. {{waypoint -202, 167, -158}}
 1. Pick up the book on top of a bookcase on the lower level. {{waypoint 6, -6, 9}}
    - This will cause you to be attacked by the library's guardians.
-   - The quest does not seem to update after clicking on the book. After you've dealt with the mobs, return to the location where you clicked the book and you should get a quest update. (I got the update upon returning to the door and running around a bit near -5.42, -0.19, 2.21)
+   - The quest does not seem to update after clicking on the book. After you've dealt with the mobs, return to the location where you clicked the book and you should get a quest update. (I got the update upon returning to the door and running around a bit near {{waypoint -5.42, -0.19, 2.21}})
 1. Return to [[Ahkarem of the Desert]].
 1. Bring peace to the spirits of the former leaders of [[The Courts of Maj'Dul]]. All are found in [[The Pillars of Flame]] and only spawn at night (8:00 pm - 6:00 am) Norrath Time:
    - [[The Ghost of Dukar]]: He roams around [[The Giant's Field]] {{waypoint 1341, -97, -499}}. After speaking with him, he will turn into a [[The Ghost of Dukar (Named)|named mob]]. Kill him for the quest update.

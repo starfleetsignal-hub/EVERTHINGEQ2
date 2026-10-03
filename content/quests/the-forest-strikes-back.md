@@ -38,7 +38,7 @@ source:
 1. Kill 8 [[Shadesire defender|Shadesire defenders]] outside [[East Fort Irontoe]]
 1. Return to [[Jonedorn Kilnkor]]
 
-UPDATE : you might get a random "killing mission" instead of this one. For example, kill 6 carnivorous graniteback at 44, 210, -54
+UPDATE : you might get a random "killing mission" instead of this one. For example, kill 6 carnivorous graniteback at {{waypoint 44, 210, -54}}
 
 ## Rewards
 

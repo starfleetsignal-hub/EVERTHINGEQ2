@@ -45,19 +45,19 @@ source:
 1. Open the door by clicking the statue "The Haggle Baron's Warden" at {{waypoint -1, 28, -51}}
 1. Go through to the teleport at the base of the glowing yellow pedestal at {{waypoint 0, 26, 112}}.
 1. Defeat the two [[A gooblin|a gooblins]] to spawn [[The Sacrificed]]
-1. Defeat [[The Sacrificed]] 0.05 -38.72 -239.00 37.30 0.00 0.00 in [[The Pit of Sacrifice]].
-1. Go through the door at 0.38 -38.55 -283.60 2.07 0.00 0.00 into the the next room [[Churche of Kly]]
-1. Go to the raised section of the altar at 0.12 -34.28 -434.74 0.38 0.00 0.00 (See altar image![](images/Kly_goblin_sacrifice.jpg)). 'You see "I witnessed a goblin being sacrificed to the Kly!"*
+1. Defeat [[The Sacrificed]] {{waypoint 0.05, -38.72, -239.00}} in [[The Pit of Sacrifice]].
+1. Go through the door at {{waypoint 0.38, -38.55, -283.60}} into the the next room [[Churche of Kly]]
+1. Go to the raised section of the altar at {{waypoint 0.12, -34.28, -434.74}} (See altar image![](images/Kly_goblin_sacrifice.jpg)). 'You see "I witnessed a goblin being sacrificed to the Kly!"*
 1. Speak to [[Chorch]] at {{waypoint -33, -38, -434}}, next to the altar. *"Chorch has been dazed by spell or toxin."* Find a way to restore the minds of the confused goblins. (**Important**:  You must kill and loot **the body** of Izzak Sira (see step 14) to get the *Rune of Awakening* to restore Chorch's mind.  It is a **body drop** and the body de-spawns quickly.  Keep this in mind.)
 1. Defeat [[Rector Droz'Kzar]]. It is damage immune as long it stands at its altar. So attack groups of [[A kly believers]] to make it angry. When it teleports/runs to you, defeat it (more details at [[Crypt of Dalnir: Ritual Chamber (Solo)]]).
 1. Activate three runes to spawn summon [[Izzak Sira]], the curator and keeper of the last rune.
-   - At 89.88 -38.33 -269.21 221.50 0.00 0.00 defeat [[A rune keeper]] and then click the pillar (yellow rune).
-   - At -91.51 -38.69 -267.89 128.95 0.00 0.00 defeat [[A rune keeper]] and then click the pillar (purple rune).
-   - At -121.37 -38.48 -403.81 86.24 0.00 0.00 defeat [[A rune keeper]] and then click the pillar (green rune).
-1. Defeat [[Izzak Sira]] in the area around 341.87 -38.73 -271.79 208.15 0.00 0.00 and loot its body drop (etc.)
+   - At {{waypoint 89.88, -38.33, -269.21}} defeat [[A rune keeper]] and then click the pillar (yellow rune).
+   - At {{waypoint -91.51, -38.69, -267.89}} defeat [[A rune keeper]] and then click the pillar (purple rune).
+   - At {{waypoint -121.37, -38.48, -403.81}} defeat [[A rune keeper]] and then click the pillar (green rune).
+1. Defeat [[Izzak Sira]] in the area around {{waypoint 341.87, -38.73, -271.79}} and loot its body drop (etc.)
    - Colored circles on the floor, run to the room with that rune. Be sure to have a healer merc with you as you will be dead before you can run to the correct rune. Follow instructions on [[Everquest2:Crypt of Dalnir: Ritual Chamber (Solo)|page for this instance]].
    - **Note:** You only have a few seconds to loot a [[Rune of Awakening]] from the body, used to break the spell on [[Chorch]].  If the body de-spawns before you loot it, you will have to restart the zone from scratch.
-1. Then click the pillar at 126.62 -38.52 -400.83 90.91 0.00 0.00 (red rune) to stop the timer. Maybe stopping the timer is not required for the quest.
+1. Then click the pillar at {{waypoint 126.62, -38.52, -400.83}} (red rune) to stop the timer. Maybe stopping the timer is not required for the quest.
 1. Go back to [[Chorch]] at {{waypoint -33, -38, -434}}, examine the [[Rune of Awakening]] on him.
 1. Hail him to complete quest and begin the next one.
 

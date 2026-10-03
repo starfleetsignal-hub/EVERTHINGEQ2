@@ -39,7 +39,7 @@ source:
 1. use and hunt the following in [[Sodden Archipelago]]
    - fill 6 facted kaborite with wild Ulteran magic
      - Target a wild Ulteran Magic (or placid Ulteran Magic) and use the Faceted Kaborite (or Rough Kaborite) in your inventory.
-     - These are trackable glowing yellow wispy orbs throughout Blackhook Territory and Bastion area. Possible locations:  (108.52, 216.23, -432.18 ), {{waypoint 63.61, 273.33, -711.99}}, {{waypoint 108.52, 216.23, -432.18}}, {{waypoint 96.16, 279.49, -754.92}}, {{waypoint 131.44, 280.38, -703.87}}
+     - These are trackable glowing yellow wispy orbs throughout Blackhook Territory and Bastion area. Possible locations:  {{waypoint 108.52, 216.23, -432.18}}, {{waypoint 63.61, 273.33, -711.99}}, {{waypoint 108.52, 216.23, -432.18}}, {{waypoint 96.16, 279.49, -754.92}}, {{waypoint 131.44, 280.38, -703.87}}
    - Hunt 10 Blackhook Shadowbanes and deathshades or 10 Blackhook sludgeweavers and grimencers (not a guaranteed update)
      - Found a bunch of them at {{waypoint -24.52, 201.02, -465.05}}
 

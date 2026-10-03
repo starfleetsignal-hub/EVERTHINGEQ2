@@ -38,4 +38,4 @@ You can body pull the mobs in the room into the hallway, leaving the named free 
 
 Repops about once an hour.
 
-/loc 75, -3, 232
+{{waypoint 75, -3, 232}}

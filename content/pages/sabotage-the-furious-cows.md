@@ -23,7 +23,7 @@ This is one of a group of quests in series 1 of a 3-series quest line in the [[F
 
 ## Starting the Quest
 
-Speak to [[Gil McMartin]] in the Commonlands (-1030, -50, -11) outside the West Freeport gates.
+Speak to [[Gil McMartin]] in the Commonlands {{waypoint -1030, -50, -11}} outside the West Freeport gates.
 
 ## Steps
 

@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[Greater Faydark]]'
 timeline: '[[Kelethin Betrayal Timeline]]'
 journal_category: Betrayal
-starts: Talk to [[Saelir Varryn]] (224, 112, 400)
+starts: Talk to [[Saelir Varryn]] {{waypoint 224, 112, 400}}
 prerequisite: '[[Saelir''s Plan: Necessary Components]]'
 next_quest: '[[Saelir''s Plan: The Sul Spheres]]'
 added_in: Echoes of Faydwer

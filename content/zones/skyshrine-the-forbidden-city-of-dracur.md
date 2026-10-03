@@ -20,7 +20,7 @@ source:
   license: CC BY-SA 3.0
 ---
 
-This zone is accessed during and after finishing the [[Skyshrine Timeline|Access quest series]]. It takes the form of a red and blue portal at -33.93, -0.41, -7.88 in the Skyshrine center area.
+This zone is accessed during and after finishing the [[Skyshrine Timeline|Access quest series]]. It takes the form of a red and blue portal at {{waypoint -33.93, -0.41, -7.88}} in the Skyshrine center area.
 
 ## Faction Merchant
 

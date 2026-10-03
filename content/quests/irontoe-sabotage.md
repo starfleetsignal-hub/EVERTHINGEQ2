@@ -36,7 +36,7 @@ source:
 ## Steps
 
 1. Collect sulphur from a barrel next to [[Fuddlesprock]] in [[Smuggler's Grotto]] in [[Qeynos Province District]] near [[Qeynos Harbor (POI)|Qeynos Harbor]] at {{waypoint 879, -31, 36}} Smuggler's Grotto is under water, the entrance is at /waypoint 899, -31, 43
-1. The barrel is located in the grotto at /waypoint 878, -31, 38
+1. The barrel is located in the grotto at {{waypoint 878, -31, 38}}
    - NOTE:  It may be easier to go to North Qeynos and sneak back, see info below under Sneaking through Qeynos.
 1. Dump the sulfur in the forge outside the armor shop in [[Qeynos Capitol District]]. It is the forge closest to the shop and moat in [[North Qeynos (POI)|North Qeynos]] at {{waypoint 404, -21, -176}}. Right click and choose "Use Forge".
 1. Head to the burned-out [[McQuibble's Farmhouse]] at {{waypoint -1857, -25, -210}} in [[Antonica]].

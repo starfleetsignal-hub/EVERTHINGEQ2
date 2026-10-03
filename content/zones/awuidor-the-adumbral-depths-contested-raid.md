@@ -27,7 +27,7 @@ source:
 - Various portions of Awuidor are under water. To avoid drowning, use a waterbreathing spell, the [[Fishbone Earring]], [[Totem of the Otter]], a tinkered [[Rebreather]], etc.
 - designed for 110 players, mobs are level 118. Bosses require some minimum number of people greater than one to activate.
 - There is no entrance in [[Myrist, the Great Library]]
-- 4 bosses are located at different zone-in locations: cobalt scar, fens of nasthar, Isle of Mara ( -269, 5, -119), & frostfang sea.
+- 4 bosses are located at different zone-in locations: cobalt scar, fens of nasthar, Isle of Mara {{waypoint -269, 5, -119}}, & frostfang sea.
 - The corinav portal is in the middle of the middle island which spawns after you beat all 8 bosses.
 
 ## Bosses

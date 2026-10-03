@@ -4,7 +4,7 @@ type: npc
 expansion: Rise of Kunark
 race: Iksar
 zone: '[[Enchanted Lands]]'
-location: '[[Lost Village of Bobick]]'
+location: '[[Lost Village of Bobick]] {{waypoint -27, 0.5, 47}}'
 added_in: Rise of Kunark
 image: images/Zherran_Tzizzink.png
 aliases:

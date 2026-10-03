@@ -3,7 +3,7 @@ title: Inaste Z'Zizin
 type: npc
 race: Dark Elf
 zone: '[[Neriak, City of Hate]]'
-location: in the [[Darklight Palace]] ( -582.15,49.37,-183.97 )
+location: in the [[Darklight Palace]] {{waypoint -582.15, 49.37, -183.97}}
 added_in: LU35
 image: images/'Zizin.jpg
 categories:

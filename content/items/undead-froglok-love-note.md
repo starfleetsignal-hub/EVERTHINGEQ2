@@ -20,4 +20,4 @@ expansion: Terrors of Thalumbra
 expansion_source: source
 ---
 
-Dropped off Ykeshan Frogloks in Moors. Take balloon to Guk Drop Point, and around /waypoint 784.45 140.89 -780.98 are the frogloks.
+Dropped off Ykeshan Frogloks in Moors. Take balloon to Guk Drop Point, and around {{waypoint 784.45, 140.89, -780.98}} are the frogloks.

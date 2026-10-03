@@ -6,7 +6,7 @@ icon: images/Item_942.png
 tier: Treasured
 item_level: '0'
 flags: no-trade no-value
-obtained_from: By harvesting the jug at -371.5 -63.5 -1,023 while on the quest [[Ramble On]]
+obtained_from: By harvesting the jug at {{waypoint -371.5, -63.5, -1023}} while on the quest [[Ramble On]]
 used_in_quest: '[[Ramble On]]'
 item_link: \aITEM 1469481452 1256544905:golden jug\/a
 image: images/Golden_jug.jpg

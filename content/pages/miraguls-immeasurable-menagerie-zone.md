@@ -16,7 +16,7 @@ Miragul's Immeasurable Menagerie is a zone that is progressed through endless ro
 
 ### Location:
 
-The entrance is in **Splendor Sky Aerie** on a platform above **Nemok Time-Touched** the **Crono Dungeon Merchant**.  (407.02 309.64 938.03) It is a portal that is mouse-over labeled "*Depart for the Celestial Conveyance*."
+The entrance is in **Splendor Sky Aerie** on a platform above **Nemok Time-Touched** the **Crono Dungeon Merchant**.  {{waypoint 407.02, 309.64, 938.03}} It is a portal that is mouse-over labeled "*Depart for the Celestial Conveyance*."
 
 ### Level Restriction:
 

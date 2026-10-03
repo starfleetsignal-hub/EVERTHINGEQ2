@@ -24,7 +24,7 @@ source:
 
 - [[Lavastorm]]: {{waypoint -418, -31, -576}}
 - [[Zek, the Orcish Wastes]]: {{waypoint -61.65, -33, 354}}
-- [[Everfrost]]: 430 -35 -1,348
+- [[Everfrost]]: {{waypoint 430, -35, -1348}}
 
 ## Related Quests
 

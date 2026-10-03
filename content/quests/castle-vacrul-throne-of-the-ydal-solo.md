@@ -37,13 +37,13 @@ source:
 ## Steps
 
 1. Clear the room to spawn Butler [[Zabrina Selymes]]: During fight she says "...eyes the xxx sigil".  xxx tells you in which direction the sigil must be destroyed to continue the fight.
-1. Open bookshelf-door at 18.98 -49.89 250.56 114.64 0.00 0.00
+1. Open bookshelf-door at {{waypoint 18.98, -49.89, 250.56}}
 1. Kill High Priest [[Veldahn Keyven]]: During the fight he spawns a series of adds. You have to defeat the different type of adds always in the same order as they are summoned.
 1. Clear all trash mobs in the throne room to spawn [[Mayong Mistmoore]] and [[Vishra]].
 1. Defeat [[Mayong Mistmoore]]:
-   1. First attack [[Vishra]]. Pull him into the pool below the coven at -156.68 -50.57 463.18 159.54 0.00 0.00 to be able to defeat him.
+   1. First attack [[Vishra]]. Pull him into the pool below the coven at {{waypoint -156.68, -50.57, 463.18}} to be able to defeat him.
    1. Then attack Mistmoore. During the fight he will transform into bats and fly to a group of werewolves in the room. Defeat the werewolves  before he can reach them. Rinse and repeat until he's done.
-1. Exit at -58.26 -57.97 461.39 245.52 0.00 0.00
+1. Exit at {{waypoint -58.26, -57.97, 461.39}}
 
 ## Rewards
 

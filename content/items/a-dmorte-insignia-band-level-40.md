@@ -11,7 +11,7 @@ stats:
   sta: '+13'
   agi: '+13'
   vselemental: '+120'
-obtained_from: By interacting with the trapdoor of the [[D'Morte Burial Chambers]] at ( 678, 2, -617 )  in [[Nektulos Forest]]
+obtained_from: By interacting with the trapdoor of the [[D'Morte Burial Chambers]] at {{waypoint 678, 2, -617}}  in [[Nektulos Forest]]
 item_link: \aITEM 170392698 1646368341:a D'Morte insignia band\/a
 image: images/A_D'Morte_insignia_band_(Level_40).png
 categories:

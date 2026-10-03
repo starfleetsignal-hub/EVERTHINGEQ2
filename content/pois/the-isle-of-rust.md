@@ -3,7 +3,7 @@ title: The Isle of Rust
 type: poi
 expansion: Shattered Lands
 zone: '[[Sunken City]]'
-location: Straight north of the Mariner's Bell at
+location: Straight north of the Mariner's Bell at {{waypoint -43, 0.5, -7}}
 discovery_xp: y
 added_in: Shattered Lands
 image: images/The_Isle_of_Rust.png

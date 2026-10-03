@@ -36,17 +36,17 @@ source:
 - You need to have access to all three mirrors within [[The Poets Palace]] (see [[Shimmering Citadel Timeline]]).
 - To speak to the Djinn Master:
   1. Enter the Poet's Palace.
-  1. Go to the first mirror at  ( -94, 146, 38 ).
-  1. Go to the second mirror at ( -107. 186, 32 ).
+  1. Go to the first mirror at  {{waypoint -94, 146, 38}}.
+  1. Go to the second mirror at {{waypoint -107, 186, 32}}.
   1. Wait for one of the random 3 doors on the right to open, go through.
   1. Wait for one of the next random doors in front of you to open, go through.
   1. Enter any one of the manual doors in the center structure.
   1. Go through the third mirror.
-  1. Exit the door at ( -25, 306, -54 ).
-  1. Turn right and go up the stairs ( -71, 298, -22 ).
+  1. Exit the door at {{waypoint -25, 306, -54}}.
+  1. Turn right and go up the stairs {{waypoint -71, 298, -22}}.
   1. Turn left and go up the next set of stairs.
-  1. Cross the courtyard to the next set of stairs ( -75, 314, 56 ).
-  1. Follow the stairs all the way up to the Djinn Master at ( -25, 327, 48 ).
+  1. Cross the courtyard to the next set of stairs {{waypoint -75, 314, 56}}.
+  1. Follow the stairs all the way up to the Djinn Master at {{waypoint -25, 327, 48}}.
 
 ## Steps
 

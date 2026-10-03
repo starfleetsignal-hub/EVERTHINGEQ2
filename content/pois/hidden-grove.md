@@ -26,7 +26,7 @@ source:
 ## Notes
 
 Click the shield to get the quest [[Aurelian Coast: Shield of the Coast]]
-Actual location of shield and PoI update need a negative for the last co-ordinate. I got it at 128.60, 158.56, -146.18 above the Sambata Village
+Actual location of shield and PoI update need a negative for the last co-ordinate. I got it at {{waypoint 128.60, 158.56, -146.18}} above the Sambata Village
 
 ## Related Quests
 

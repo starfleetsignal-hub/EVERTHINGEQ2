@@ -39,7 +39,7 @@ source:
 ## Steps
 
 1. Speak to [[Kreglebop Yekl]] in [[The City of Freeport]] at {{waypoint 295, -3, 23}}.
-   - For low-level players of Good-alignment, Freeport can be entered via [[The Thieves' Way]]. Enter The Thieves' Way via the manhole cover in [[The Commonlands]] at -1,251 -83 119, then enter [[West Freeport (POI)|West Freeport]] via the wall-grate at {{waypoint -101, 1, 62}}.
+   - For low-level players of Good-alignment, Freeport can be entered via [[The Thieves' Way]]. Enter The Thieves' Way via the manhole cover in [[The Commonlands]] at {{waypoint -1251, -83, 119}}, then enter [[West Freeport (POI)|West Freeport]] via the wall-grate at {{waypoint -101, 1, 62}}.
 1. Speak to [[Lodo Bightn (Qeynos Capitol District)|Lodo Bightn]] in the basement of [[Irontoes East]] within [[Qeynos Capitol District]] NORTH at {{waypoint 337, -27, 155}}. In order to access the basement you must pass through the curtain behind [[Bouncer Johbal]].
    - For low-level players of Evil-alignment, Qeynos can be entered via [[The Down Below]]. First, enter [[The Peat Bog]] via an underwater grate in [[Antonica]] at {{waypoint 543.65, -41.60, 471.91}}. Then, enter [[Vermin's Snye]] via a manhole cover at {{waypoint 581, -33, 507}}. Once inside, walk right across from where you zone-in to the Down Below grate at {{waypoint 112, -11, -98}}. Then finally, once in The Down Below, find the wall-grate for [[South Qeynos (POI)|North Qeynos]] at {{waypoint -101, -0.11, -105}}.
 1. Kill the [[A hired assassin (Crypt of Betrayal)|hired assassins]] in [[The Crypt of Betrayal]] that spawn as you approach {{waypoint 102, 6, 12}}.

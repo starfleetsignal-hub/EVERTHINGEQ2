@@ -47,7 +47,7 @@ expansion_source: patch
       - Obtain a marsh elemental's slimy skin. (Slay marsh elementals until update received.)
       - Obtain a marsh elemental's contained rage. (Slay marsh elementals until update received.)
    1. Slay [[A marsh fiend]]
-      - Note: They spawn when you move over a spot in the marsh where bubbles are rising. Possible location of bubbles at: (108, -745, -411)
+      - Note: They spawn when you move over a spot in the marsh where bubbles are rising. Possible location of bubbles at: {{waypoint 108, -745, -411}}
 1. Return to [[Researcher Deros]]
 
 ## Rewards

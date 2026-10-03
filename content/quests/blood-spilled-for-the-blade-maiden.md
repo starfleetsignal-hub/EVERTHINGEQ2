@@ -36,7 +36,7 @@ For fighters and scouts, the quest [[Nothing To Waste]] has to be completed to r
 
 ## Steps
 
-1. Kill 8 [[A Ry'Gorr invader|Ry'Gorr invader]]s ( 275, 20, 235 )
+1. Kill 8 [[A Ry'Gorr invader|Ry'Gorr invader]]s {{waypoint 275, 20, 235}}
 1. Return to Hillfred
 
 ## Rewards

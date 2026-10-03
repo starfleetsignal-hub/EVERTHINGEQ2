@@ -111,7 +111,7 @@ Warning: Guards within the city see through stealth. Sneak in via the sewers.
 - [[Qeynos Bounty: Meeglash Darkpaw]]
 - [[Qeynos Bounty: Smithe Bluth]]
 - [[Qeynos Bounty: Galzar Dankfur]]
-- [[Nektulos Forest Bounty: Dread Pirate Bertsto]] (564, -0.09, -98)
+- [[Nektulos Forest Bounty: Dread Pirate Bertsto]] {{waypoint 564, -0.09, -98}}
 - [[Qeynos Bounty: Zarla Vinlo]] (still looking)
 
 ### need to be moved to one of the above categories

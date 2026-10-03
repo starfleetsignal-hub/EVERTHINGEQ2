@@ -12,7 +12,7 @@ source:
 
 This is not realy a quest, Feodra just tells you the story of the Tomb of Varsoon, and wonders if it really exists.
 
-The tomb is on Forbidden Isle in Antonica (347.40,-20,-672.80).
+The tomb is on Forbidden Isle in Antonica {{waypoint 347.40, -20, -672.80}}.
 
 To visit the tomb, head out to Antonica from the south gate, turn north and keep the water to your left go past the aqueducts. You will see the island off to the left.
 

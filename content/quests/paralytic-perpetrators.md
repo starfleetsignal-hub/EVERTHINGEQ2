@@ -8,7 +8,7 @@ zone: '[[North Qeynos]]'
 timeline: '[[Qeynos City Tasks Timeline]]'
 journal_category: City Tasks
 city_faction: The Qeynos Guard
-starts: Speak with [[The Qeynos Guard (Faction)|Qeynos Guard]] representative [[Kai Ferdinand|Factor Kai Ferdinand]] at 456.47,-5.00,-10.57 in [[North Qeynos]], on the steps of the citadel.
+starts: Speak with [[The Qeynos Guard (Faction)|Qeynos Guard]] representative [[Kai Ferdinand|Factor Kai Ferdinand]] at {{waypoint 456.47, -5.00, -10.57}} in [[North Qeynos]], on the steps of the citadel.
 categories:
 - City Tasks Quests
 - Faction Quests

@@ -39,7 +39,7 @@ expansion_source: patch
 
 1. Pick up the [[Turtle Shell|Turtle Shells]] on the table next to Cordelia.![Turtle Shells](images/Turtle_Shells.jpg)
 1. Craft 2 [[Turtle Shell Buckler|Turtle Shell Bucklers]] and 2 [[Turtle Shell Mageshield|Turtle Shell Mageshields]] (at the nearby woodworking table {{waypoint 328.05, 188.61, 508.61}}).
-   - Scribe the [[Turtle Shell Shield Sketches]] recipe. (The turtle shells are on the table beside her. (329, 188, 505)
+   - Scribe the [[Turtle Shell Shield Sketches]] recipe. (The turtle shells are on the table beside her. {{waypoint 329, 188, 505}}
    - In addition to the shells you will need:
      - 4 [[Carbonite cluster]]
      - 8 [[Gold cluster]]

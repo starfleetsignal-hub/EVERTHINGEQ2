@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. Kill 13 [[A fallen crusader (Commonlands)|fallen crusaders]] in the Loc (380, -46, 248) [[The Commonlands]]. They can be found near [[The Ruins of Val`marr]].
+1. Kill 13 [[A fallen crusader (Commonlands)|fallen crusaders]] in the Loc {{waypoint 380, -46, 248}} [[The Commonlands]]. They can be found near [[The Ruins of Val`marr]].
 
 ## Rewards
 

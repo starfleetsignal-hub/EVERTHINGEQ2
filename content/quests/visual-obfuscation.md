@@ -34,7 +34,7 @@ expansion_source: patch
 ## Steps
 
 1. Plant the Obfuscator.
-   - Attach the [[Geographic Obfuscator]] to the base of the telescope ( -1083, 737, -426 ) in [[The Eye of El'Arad]].
+   - Attach the [[Geographic Obfuscator]] to the base of the telescope {{waypoint -1083, 737, -426}} in [[The Eye of El'Arad]].
    - *Note: the Obfuscator can be successfully attached without entering aggro range for [[Voidgazer Wazir]].*
 1. Return to [[Lochanya]].
 

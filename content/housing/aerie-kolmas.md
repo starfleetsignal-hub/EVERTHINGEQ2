@@ -29,4 +29,4 @@ This is not only the largest acorn available in Kelethin, but this Aerie offers 
 
 It has two rooms on main, two upstairs and three downstairs.  Off of the upstairs room that is above the main room that you are in when you enter the house, there is also a balcony that is as large as a room and serves as additional space (I set up a garden and also made it an area for my altar)
 
-One platform over (loc 385,106,504), off the 'stump tree,' there is a short-cut 'branch' you can travel from a nearby platform to the central 'branch' of Kelethin (loc coming).
+One platform over {{waypoint 385, 106, 504}}, off the 'stump tree,' there is a short-cut 'branch' you can travel from a nearby platform to the central 'branch' of Kelethin (loc coming).

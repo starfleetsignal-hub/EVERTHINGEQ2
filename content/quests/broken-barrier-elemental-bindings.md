@@ -50,7 +50,7 @@ source:
      - [[Chardok]] - Random drop off any Archimage in the zone, found in the Palace region past the red gate. Not a guaranteed drop, so it can take several kills. Found from {{waypoint 865, -21, 270}} to {{waypoint 745, -30, 170}} roaming in groups of 3.
    - **[[Elemental binding of fire]]**
      - [[Sebilis]] - [[Master Arcanist Guroth]] (82^^^) in the back of the Hidden Laboratory {{waypoint -310, -25, 375}}.
-     - Use the candlestick (-306, -22, 324) in the main library section to access the hidden lab. PH is "an apprentice" and only the named will give the binding, a 20-30 minute respawn. The hidden laboratory is full of caster-type iksar, so be prepared for tricky pulls and distance fighting if need be.
+     - Use the candlestick {{waypoint -306, -22, 324}} in the main library section to access the hidden lab. PH is "an apprentice" and only the named will give the binding, a 20-30 minute respawn. The hidden laboratory is full of caster-type iksar, so be prepared for tricky pulls and distance fighting if need be.
 1. Return to [[Veryn P'Neru]].
 
 ## Previous Quests

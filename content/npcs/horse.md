@@ -22,4 +22,4 @@ source:
 
 ## Known Locations
 
-- [[The Lesser Faydark]] in the camp at (-652,54,132) by the [[Greater Faydark]] passage.
+- [[The Lesser Faydark]] in the camp at {{waypoint -652, 54, 132}} by the [[Greater Faydark]] passage.

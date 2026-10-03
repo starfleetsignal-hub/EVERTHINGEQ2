@@ -32,12 +32,12 @@ source:
 
 1. Go to the third floor of [[The Poets Palace]] and speak with [[Nhjela the Mad Poet]].
    - Enter the Poet's Palace
-   - Go to the first mirror at ( -94, 146, 38 )
-   - Go to the second mirror at ( -107. 186, 32 )
+   - Go to the first mirror at {{waypoint -94, 146, 38}}
+   - Go to the second mirror at {{waypoint -107, 186, 32}}
    - Wait for one of the random 3 doors on the right to open, go through.
    - Wait for one of the second set of random doors in front of you to open, go through.
-   - Wait for the third set ( 32, 228, -104 ) of random door to open, go through.
-   - Turn to your right and manually open the door ( 52, 228, -122 ).
+   - Wait for the third set {{waypoint 32, 228, -104}} of random door to open, go through.
+   - Turn to your right and manually open the door {{waypoint 52, 228, -122}}.
    - Talk to [[Nhjela the Mad Poet]]. {{waypoint 53, 228, -149}}
 1. Read the book she gives you, [[The Twin Dragons]].
 1. Slay [[Barakah|Barakah the Golden, Dragon of Day]]. She has two spawns, both will update the quest:

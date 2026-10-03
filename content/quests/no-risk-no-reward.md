@@ -34,7 +34,7 @@ source:
 
 ## Steps
 
-1. Retrieve a stone from [[The Wailing Caves]] (-210, -43, -914). The stone is found in either of 2 places:
+1. Retrieve a stone from [[The Wailing Caves]] {{waypoint -210, -43, -914}}. The stone is found in either of 2 places:
    - Behind the blue rock that [[Cog Burn]] is standing on right at the zone in area, or
    - Behind the blue rock just down the tunnel from the zone in area {{waypoint -26, -4, -14}}
 1. Return to Madam Vi for your reward.

@@ -36,5 +36,5 @@ This is the location you need to visit to start almost all of the [[Brew Day]] q
 - Antonican entrance is very near the North Qeynos gates, at {{waypoint 64, -20, 5}}
 - Greater Faydark entrance is near the horse merchant, at {{waypoint 568.70, 44.52, 22.05}}
 - Entrance in Commonlands is just outside of the Freeport gates, at {{waypoint -1215.13, -80.98, 56.18}}
-- Entrance in Timorous Deep is on the docks, at 2,362.75 6.79 1,384.92
+- Entrance in Timorous Deep is on the docks, at {{waypoint 2362.75, 6.79, 1384.92}}
 - Entrance in Frostfang Sea is in New Halas, at {{waypoint -68.01, 148.33, -35.17}}

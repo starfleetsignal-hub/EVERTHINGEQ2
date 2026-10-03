@@ -7,7 +7,7 @@ levels: '130'
 access: Raid
 difficulty: x4
 entered_from: '[[Outer Kael]]'
-entrance: Glowing wisp at -1871.56, 2.45, -1051.00 80488
+entrance: Glowing wisp at {{waypoint -1871.56, 2.45, -1051.00}}
 players: 4 days 12 hours-6 days 18 hours
 related_quest: '[[Scars of Destruction: Thawing Rivalry - Part 4]]'
 categories:

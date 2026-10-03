@@ -54,8 +54,8 @@ Toadwart, the scrawny, albino goblin in Maldura's Mushroom Bar and Grill, is not
        - {{waypoint -68.79, 42.78, -453.28}}
        - {{waypoint -90.42, 62.70, -442.15}}
        - {{waypoint -191.29, 0.00, -560.77}}
-       - (-22, 38, -507) Two different spots right next to each other.
-       - (-27, 38, 503)
+       - {{waypoint -22, 38, -507}} Two different spots right next to each other.
+       - {{waypoint -27, 38, 503}}
 
 1. Return to [[Toadwart]] in [[Maldura]].
 

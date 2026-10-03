@@ -82,7 +82,7 @@ source:
    - Doll arm is on a platform at {{waypoint 221.97, 79.51, 34.79}} after you kill [[Elemy Elmonnier]]
      - after picking up the 2 doll parts here find a Magma Morsel and click on flame-branded stallion at {{waypoint 207, 67, 65}} to ride across lava to Lonely Isle
    - Doll body is behind the tower at {{waypoint -463, 57, 315}} after you kill [[Fireye]].
-     1. Fireye, sitting and drinking at the base of the tower on [[Lonely Isle]] at ( -428, 59, 293 ) Copy.
+     1. Fireye, sitting and drinking at the base of the tower on [[Lonely Isle]] at {{waypoint -428, 59, 293}} Copy.
         - Use a Firesilk Thread before attacking or he will be immune to damage.
      - enter portal inside tower at {{waypoint -427, 57, 293}} **CLICK PORTAL QUICKLY!** The entire inside of tower will burn you and kill you in 2 seconds. Rush in spam clicking portal.
    - Doll head is in the nest at {{waypoint -164.90, 78.29, 381.33}} after you kill [[Inquez the Ignited]] (her detrimental effect Phoenix Quills she puts on you MUST be cured or she will not die). When picking up doll part don't walk onto the nest or you will die quickly after receiving a warning in caps "IT REALLY BURNS". Stand on the North edge branches until you can click doll head.

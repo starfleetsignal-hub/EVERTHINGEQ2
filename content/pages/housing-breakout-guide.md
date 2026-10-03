@@ -123,7 +123,7 @@ Gorowyn Large Homes:
 
 Freeport Large Homes:
 
-- a mystery location: 43.37, -0.04, -21.61
+- a mystery location: {{waypoint 43.37, -0.04, -21.61}}
 - *Have a new coordinate? Remove this note and add it here!*
 
 ### Neriak
@@ -182,7 +182,7 @@ Tier 1 Guild Hall:
 
 Tier 3 or Tier 4 Guild Hall:
 
-- Mystery location: 162.63, -17.44, 654.53
+- Mystery location: {{waypoint 162.63, -17.44, 654.53}}
 - Bridge: 31.45707703, -5.81116867, 154.75904846
 - Overlooking the beach in Archer's Forest: -764.06713867,-9.46582699,732.92364502
 - *Have a new coordinate? Remove this note and add it here!*

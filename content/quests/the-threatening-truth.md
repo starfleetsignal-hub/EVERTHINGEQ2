@@ -41,7 +41,7 @@ source:
    - Note if you are attacked you will have to recast the flute.
    - I found one at: {{waypoint -212, 98, -331}} {{waypoint -220, 98, -300}} {{waypoint -261, 98, -297}} {{waypoint -188, 111, -272}}
    - Journal was found after many Orb discoveries. Be patient.
-   - The "*flute route*" ( -307.25 107.03 -404.42 ) to ( -217.65 98.43 -314.90 ) to ( -248.79 98.35 -296.19 )  (*just suggested points.*) Run around from point to point making a loop while playing the flute, looking around, and killing cobras and carpets as needed.  You will *eventually* find an Orb with the journal. You can turn your sound down if the dissonant flute sound gets on your nerves, there is an icon in your maintained spells window you can use to make sure the flute is active.)
+   - The "*flute route*" {{waypoint -307.25, 107.03, -404.42}} to {{waypoint -217.65, 98.43, -314.90}} to {{waypoint -248.79, 98.35, -296.19}}  (*just suggested points.*) Run around from point to point making a loop while playing the flute, looking around, and killing cobras and carpets as needed.  You will *eventually* find an Orb with the journal. You can turn your sound down if the dissonant flute sound gets on your nerves, there is an icon in your maintained spells window you can use to make sure the flute is active.)
 1. Return to [[Ismail]]
 
 ## Rewards

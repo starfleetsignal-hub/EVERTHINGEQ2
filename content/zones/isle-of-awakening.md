@@ -40,4 +40,4 @@ The Ulteran Spires in *any* zone can be used to travel to the Overealms: Tenebro
 
 ## Instances
 
-- [[Palace of the Awakened]] at ( 139,150,120 )
+- [[Palace of the Awakened]] at {{waypoint 139, 150, 120}}

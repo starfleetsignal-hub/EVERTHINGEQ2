@@ -191,7 +191,7 @@ After killing all of the bar's patrons, [[The Sadistic Bartender]] spawns, plann
 
 ***You will pay for that, trespasser! That servant was loyal to me.***
 
-You can now use a [[Very Watered Down Cocktail]] to snuff the fire in the fireplace and retrieve the [[Unrest Backdoor Key (no-value lore)|Unrest Backdoor Key]]. This key unlocks the door in the back of the bar (at -35,4,175 ) leading to the [[#Eastern Yard|Eastern Yard]].
+You can now use a [[Very Watered Down Cocktail]] to snuff the fire in the fireplace and retrieve the [[Unrest Backdoor Key (no-value lore)|Unrest Backdoor Key]]. This key unlocks the door in the back of the bar (at {{waypoint -35, 4, 175}} ) leading to the [[#Eastern Yard|Eastern Yard]].
 
 Now you need to go to the [[#Eastern Yard|Eastern Yard]] and talk to the [[Ghost of Kyll Rucksif]].
 

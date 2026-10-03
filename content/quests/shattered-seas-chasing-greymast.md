@@ -32,7 +32,7 @@ source:
 
 ## Starting the quest
 
-Players will speak to a different NPC to start the quest depending on whether they are Good or Evil aligned.  Evil characters speak with [[Harbinger Gloska]] (961, 7, 1466), Good characters speak with [[Murrar Shar]].  The only difference between the good and evil versions of the quest is a bit of flavor text.
+Players will speak to a different NPC to start the quest depending on whether they are Good or Evil aligned.  Evil characters speak with [[Harbinger Gloska]] {{waypoint 961, 7, 1466}}, Good characters speak with [[Murrar Shar]].  The only difference between the good and evil versions of the quest is a bit of flavor text.
 
 ## Steps
 

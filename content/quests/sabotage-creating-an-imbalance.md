@@ -44,7 +44,7 @@ source:
 ## Acid Beaker Locations
 
 - Broker in [[North Qeynos]] across from [[The Ironforge Exchange]].
-- The Fletching shop [[In Range]] in [[The Elddar Grove (POI)]] at Loc (572, -18, -412).
+- The Fletching shop [[In Range]] in [[The Elddar Grove (POI)]] at Loc {{waypoint 572, -18, -412}}.
 
 ## Weapon Rack Locations
 

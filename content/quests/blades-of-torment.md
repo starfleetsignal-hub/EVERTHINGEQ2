@@ -31,11 +31,11 @@ source:
 ## [[Marrowgut's Dinner Knife|Steps]]
 
 1. Find the blade of [[Vensidious]].
-Fens of Nathsar: On the large island of ice, on the far north of the map, click a box near -2645, -410, -2671. Should be able to get update without aggro.
+Fens of Nathsar: On the large island of ice, on the far north of the map, click a box near {{waypoint -2645, -410, -2671}} Should be able to get update without aggro.
 
 2. Find the tip of [[Vensidious]]. "Runnyeye:The Gathering" heroic zone:  Item drop from killing one of the named heroics.  It drops from [[Memnmamar Marrowgut|Marrowgut]], and it's called [[Marrowgut's Dinner Knife]]. It is a *body* drop. it does not come from the chest he drops.
 
-3. Find the hilt of of [[Vensidious]]. Palace of the Ancient One raid zone: first wing south section there is a blue shiny clicky around (-40, 0, 114).   Note: ("The Shiny is tough to see,  it can be anywhere within 25 meters of that area.")
+3. Find the hilt of of [[Vensidious]]. Palace of the Ancient One raid zone: first wing south section there is a blue shiny clicky around {{waypoint -40, 0, 114}}.   Note: ("The Shiny is tough to see,  it can be anywhere within 25 meters of that area.")
 
 4. Deep Forge heroic zone: click the forge.
 

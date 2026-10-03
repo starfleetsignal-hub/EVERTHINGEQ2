@@ -37,7 +37,7 @@ You no longer need to have at least 90 skill in Mining to harvest in [[The Thund
 
 ## Steps
 
-1. Speak with [[Gruffin Goldtooth]] in [[Qeynos Province District]] (Elddar Grove) at {{waypoint 753, -15, -291}} For Origins, Gruffin Goldtooth is in the Graystone Yard at (883.10, -23.45, -175.65)
+1. Speak with [[Gruffin Goldtooth]] in [[Qeynos Province District]] (Elddar Grove) at {{waypoint 753, -15, -291}} For Origins, Gruffin Goldtooth is in the Graystone Yard at {{waypoint 883.10, -23.45, -175.65}}
 1. Gather 40 rock samples from windswept stones in [[The Thundering Steppes]]
    - This requires 40 harvests not pieces. 1 update per successful harvest (except bountiful harvests give two updates)
    - *Note: If you haven't completed [[A Gathering Obsession, Part III]], or the first step of [[Journeyman Service]], now is a great time to multitask. You may also want to pick up [[Tiffin for Duggin]] and select to harvest around this area (Thundering Steppes).*

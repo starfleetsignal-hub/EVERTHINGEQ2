@@ -35,7 +35,7 @@ expansion_source: timeline
 - The [[Insectoid Communication Jammer]] will make you non-aggro to the mobs in the zone for 10 minutes, refresh it when it expires.
 - There are a lot of harvest nodes in this cave if you do not have the required materials
 - WARNING! **Totem of Escape** and **Tradeskill Epic Weapon**'s Arti<nowiki/>san's Escape disabled in this zone.  However, **Call to Guild** still works as does [[Fast Travel|fast travel]] (for subscribers).
-- The exit location is:  ( 334.84, 48.56, 167.49 )
+- The exit location is:  {{waypoint 334.84, 48.56, 167.49}}
 
 ### Materials Required
 

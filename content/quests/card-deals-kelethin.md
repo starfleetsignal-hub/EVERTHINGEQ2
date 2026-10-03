@@ -31,7 +31,7 @@ source:
 
 ## Steps
 
-1. Talk to Zoe Hertzflip in Gearheart Forge (loc 269, 125, 273)
+1. Talk to Zoe Hertzflip in Gearheart Forge {{waypoint 269, 125, 273}}
 
 ## Rewards
 

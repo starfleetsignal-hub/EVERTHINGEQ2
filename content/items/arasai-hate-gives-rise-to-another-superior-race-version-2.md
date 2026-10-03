@@ -45,4 +45,4 @@ source:
 ![Location of the book](images/Where_to_get_Unseelie_Form.png)
 
 - *Note that not all races can obtain the book from this spot, and **only** the Arasai can obtain the [[Unseelie Form]] from it.
-- * Non-Arasai races can gather the book here: /way -690, 18, 247  on the second shelf, the stand-alone 3 stack of books in the middle.}}
+- * Non-Arasai races can gather the book here: {{waypoint -690, 18, 247}}  on the second shelf, the stand-alone 3 stack of books in the middle.}}

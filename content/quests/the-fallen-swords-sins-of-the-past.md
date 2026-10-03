@@ -44,7 +44,7 @@ source:
 1. Speak to Rallin.
 1. Speak to General Rost Fellhammer in the Great Divide. {{waypoint 482.90, 200.91, 63.64}}
 1. Defeat the Kromzek Attack. 3 Giants will spawn, at level 92.
-1. Return to General Rost Fellhammer (484, -200, -63) in the Great Divide.
+1. Return to General Rost Fellhammer {{waypoint 484, -200, -63}} in the Great Divide.
 1. Speak with the Duality in Thurgadin (within the Temple of Brell) to finish the quest. {{waypoint 478.11, -212.12, 248.05}}
 
 ## Rewards

@@ -33,7 +33,7 @@ source:
 1. Kill 15 [[A ray-finned prowler|ray-finned prowlers]] around [[Accursed Chantry Island]]. Some possible locations:![](images/Rayfinnedprowler.png)
    - {{waypoint -425.73, -2.94, -347.73}}
    - {{waypoint -794, -14, -219}}
-   - ( -783, -5, -510 )
+   - {{waypoint -783, -5, -510}}
 
 ## Rewards
 

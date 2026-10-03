@@ -48,7 +48,7 @@ Mark of Manaar Quest NPC: [[Hafiz]] in [[The City of Paineel]] at {{waypoint 190
 
 **Key Mob and Chest**
 
-- The key mob is an 'underfoot drifter' and can be found floating near the bottom of the zone either in the area to the right after you climb down the 1st wall, next to the pillar that stands in front of the 1st named encounter {{waypoint -50, 10, 80}} (you can also go to 80.49, 54.97, -88.14 and see the mob), or to the left (North-East corner of zone at {{waypoint -573.87, -22.45, -181.64}}) of Nayt's ramp.
+- The key mob is an 'underfoot drifter' and can be found floating near the bottom of the zone either in the area to the right after you climb down the 1st wall, next to the pillar that stands in front of the 1st named encounter {{waypoint -50, 10, 80}} (you can also go to {{waypoint 80.49, 54.97, -88.14}} and see the mob), or to the left (North-East corner of zone at {{waypoint -573.87, -22.45, -181.64}}) of Nayt's ramp.
 - The Mark chest lies next to the fourth named, [[Nayt the Grate Keeper]].
 
 When you first zone in, speak to the roekillik, [[Pushu-ken]] to start the quest [[His Dark Agenda]]. Kill the trash mobs and make your way to the 1st named encounter. It's important that you kill all the phantom watchers before starting this fight as otherwise they will add. Phantom watchers can be found in front and in the areas to the right and left of the first named's location. Each of them is linked to a phantom flying high above that sweep down on your group a few seconds after the pull.

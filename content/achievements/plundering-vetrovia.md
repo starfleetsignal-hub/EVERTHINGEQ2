@@ -34,9 +34,9 @@ source:
   license: CC BY-SA 3.0
 ---
 
-- A tall Mahngavi Obelisk can be found in [[Mahngavi Wastes: Warpwood Cairn (Heroic I)]] at ( 21, 99, 574 )
+- A tall Mahngavi Obelisk can be found in [[Mahngavi Wastes: Warpwood Cairn (Heroic I)]] at {{waypoint 21, 99, 574}}
 - Vorigans Dumbwaiter can be found in [[Castle Vacrul: Caverns of the Forsaken (Heroic I)]] at ( - 196, - 68, - 138 )
-- an Aged Pygmy Skull can be found in [[Svarni Expanse: Carrion Crag (Heroic I)]] at ( -358, 193, -722 )
+- an Aged Pygmy Skull can be found in [[Svarni Expanse: Carrion Crag (Heroic I)]] at {{waypoint -358, 193, -722}}
 - a Corruption Stone can be found in [[Karuupa Jungle: Dedraka's Descent (Heroic I)]] at ( - 644, 118, 124 )
-- an Ancient Mahngavi Monolith can be found in [[Mahngavi Wastes: Phantasmal Shades (Heroic I)|Mahngavi Wastes: Phantasmal  Shades]] at ( -729, 26, -345 )
-- a Group of Forlorn Tombstones can be found in [[Forlorn Gist: Nightmares of Old (Heroic I)]] at ( 446, 110, 251 )
+- an Ancient Mahngavi Monolith can be found in [[Mahngavi Wastes: Phantasmal Shades (Heroic I)|Mahngavi Wastes: Phantasmal  Shades]] at {{waypoint -729, 26, -345}}
+- a Group of Forlorn Tombstones can be found in [[Forlorn Gist: Nightmares of Old (Heroic I)]] at {{waypoint 446, 110, 251}}

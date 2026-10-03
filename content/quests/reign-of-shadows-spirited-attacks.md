@@ -34,7 +34,7 @@ source:
 1. Travel to Chaotic Caverns {{waypoint -895, 74, -377}}, enter [[Savage Weald: Chaotic Caverns (Solo)|Savage Weald: Chaotic Caverns [Solo]]] and proceed through the zone.
    - *You may wish to do the quest [[Stirring Trouble]] simultaneously with this step.
    - I clicked on a portal near a purple wall at {{waypoint -1142.91, 69.20, -521.39}} then ran to {{waypoint -1078.15, 67.41, -494.27}}  to find the totem.
-1. Leave the zone by clicking at the portal at -1145.80 69.37 -483.12 224.12 0.00 0.00
+1. Leave the zone by clicking at the portal at {{waypoint -1145.80, 69.37, -483.12}}
 1. Return to [[Scout Kiira]] in the [[Savage Weald]] {{waypoint -726, 35, -95}} and speak with her and [[Head Scholar Nabihan]] next to [[Scout Kiira]].
 1. find the **Ward Totem** of [[Hollowshade Reach]] at {{waypoint -290, 60, -288}}.
 1. Click the **Ward Totem** of [[Hollowshade Reach]] {{waypoint -290, 60, -288}} to present the phylactery.

@@ -57,7 +57,7 @@ Every evil-aligned city and many of the villages have a "satisfied" or "delighte
      - {{waypoint -380, -50, 53}}
      - {{waypoint -363, -49, 24}}
      - {{waypoint -340, -50, 33}}
-   - 3 can be found near [[Wanderlust Fair]] (261, -20. -11)
+   - 3 can be found near [[Wanderlust Fair]] {{waypoint 261, -20, -11}}
      - {{waypoint 239, -19, 13}}
      - {{waypoint 248, -18, -27}}
      - {{waypoint 284, -21, -14}}

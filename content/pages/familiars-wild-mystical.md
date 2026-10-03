@@ -51,6 +51,6 @@ Abominations, Cockatrices, Manticores, Owlbears, Rust Monsters
 | 129 | [[A ghastly windtrotter\|Ghastly Windtrotter]] | [[Mahngavi Wastes]] | [[Ghastly Fate Point]] | {{waypoint -359, 117, -85}} |
 | [[Ghastly Fate Spires]] | {{waypoint -500, 40, -37}} |  |  |  |
 | [[Wailing Waterfalls]] | {{waypoint 253, 214, 757}} |  |  |  |
-| 129 | A crimson direbeak | Splendor Sky Aerie | Burrower's Timber | (626, 81, 159) |
+| 129 | A crimson direbeak | Splendor Sky Aerie | Burrower's Timber | {{waypoint 626, 81, 159}} |
 
 Return to the [[Familiars Wild/Mob List|Index Page]].

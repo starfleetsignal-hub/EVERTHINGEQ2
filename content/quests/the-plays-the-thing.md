@@ -55,7 +55,7 @@ Watch general chat; players who need to defeat each monster tend to "camp" in th
 
 - **[[Darathar (Heroes' Festival)|Darathar]]** (10th Epic x4): [[The Commonlands]] near [[The Crossroads]] {{waypoint -584, -47, -335}} or [[Antonica]] near the [[Frontier Farm]] at {{waypoint -910, -32, 235}}
 - **[[The Djinn Master (Heroes' Festival)|The Djinn Master]]** (20th Epic x4): [[The Sinking Sands]] on the beach north of the dock {{waypoint -1423, -229, -531}}
-- **[[Trakanon (Heroes' Festival)|Trakanon]]** (50th Epic x4): [[Kylong Plains]] between the docks and Ryjesium Lake ( 851, 12, 54 )
+- **[[Trakanon (Heroes' Festival)|Trakanon]]** (50th Epic x4): [[Kylong Plains]] between the docks and Ryjesium Lake {{waypoint 851, 12, 54}}
 - **[[Roehn Theer (Heroes' Festival)|Roehn Theer]]** (70th Epic x4): [[The Stonebrunt Highlands]] next to [[The Sundered Frontier]] landing pad {{waypoint -451, 372, 1444}}
 - **[[Baelon (Heroes' Festival)|Baelon]]** (95th Epic x4): [[The Eidolon Jungle]] in [[The Fearcreep]] {{waypoint -1630, 220, 743}}
 

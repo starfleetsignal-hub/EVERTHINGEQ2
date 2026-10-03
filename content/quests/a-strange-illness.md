@@ -32,7 +32,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Head to the [[North Qeynos]] Temple of Life and get a cure for the strange illness that has fallen on the bitten excavation team member (from [[Brandy Ritchey]] LOC 525, -32, -169 ).  If you are evil, go to [[North Freeport]] and speak to [[Riggs Thunderstone]] {{waypoint -66.25, -7.95, -84.92}} at the Temple of War.
+1. Head to the [[North Qeynos]] Temple of Life and get a cure for the strange illness that has fallen on the bitten excavation team member (from [[Brandy Ritchey]] {{waypoint 525, -32, -169}} ).  If you are evil, go to [[North Freeport]] and speak to [[Riggs Thunderstone]] {{waypoint -66.25, -7.95, -84.92}} at the Temple of War.
 1. Bring the cure back to [[Jimbo McDaniel]]. Take the carpet next to Jimbo to get to the Digmaster.
 1. Give the cure to the [[Digmaster Hidswinn]] (at [[A D.I.R.T.Y. Excavation Site]], {{waypoint -880, -101, -765}} in SS) so he can give it to the bitten excavator.
 1. Return to [[Jimbo McDaniel]].

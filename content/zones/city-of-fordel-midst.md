@@ -39,7 +39,7 @@ With the conclusion of Age's End, Kerafyrm and Roehn Theer were trapped into Luc
 
 ### Travel
 
-From the Aurelian Coast, Zone in at 169, 61, -677.37 and select "City of Fordel Midst"
+From the Aurelian Coast, Zone in at {{waypoint 169, 61, -677.37}} and select "City of Fordel Midst"
 
 ### Map
 

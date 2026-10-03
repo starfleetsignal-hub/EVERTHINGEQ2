@@ -92,14 +92,14 @@ source:
 1. Run the Nektulos Forest race within the time limit of 13:30.
    1. [[Behemoth Pond]]: {{waypoint -209, 0, -247}}
    1. [[Gargoyle Gorge]]: {{waypoint -926, 79, -1605}}
-      - You can take the griffon at the Commonlands station-230, 1, 150to [[N'Mar's Ascent]], then to [[Bone Lake]], jumping off near the Gorge.
+      - You can take the griffon at the Commonlands station{{waypoint -230, 1, 150}}to [[N'Mar's Ascent]], then to [[Bone Lake]], jumping off near the Gorge.
    1. [[Nektropos Castle]]: {{waypoint -1402, 121, -1856}}
    1. [[N'Mar's Ascent]]: {{waypoint -344, 1, -1264}}
-      - You can head west from Nektropos Castle to the griffon at [[Bone Lake]]-777, 142, -1878 and take it to [[N'Mar's Ascent]].
+      - You can head west from Nektropos Castle to the griffon at [[Bone Lake]]{{waypoint -777, 142, -1878}} and take it to [[N'Mar's Ascent]].
    1. [[D'Abth Bridge]]: {{waypoint -258, 0, -665}}
-      - From N'Mar's you can take the griffon-438, 61, -1305 back to the Docks station, jumping off when the griffon flies over the bridge.
+      - From N'Mar's you can take the griffon{{waypoint -438, 61, -1305}} back to the Docks station, jumping off when the griffon flies over the bridge.
    1. [[Port Naythex]]: {{waypoint 673, 0, -273}}
-   1. Run across the bridge near the Commonlands entrance. -284.16 -.33 198.15
+   1. Run across the bridge near the Commonlands entrance. {{waypoint -284.16, -0.33, 198.15}}
       - If you have an Evac ability, you can use this to get to the Commonlands entrance, run across the bridge, and run back to talk to Stro.
         - UPDATE: Attempted using Ranger evac on 05-12-23 Zarakon server and evac took me to Docks, not the CL entrance.
       - If you don't have Evac, you can take the griffon from the Docks to Commonlands as the quickest route.

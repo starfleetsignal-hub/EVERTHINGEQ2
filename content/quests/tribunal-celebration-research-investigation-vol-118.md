@@ -47,7 +47,7 @@ The herald of the Tribunal has informed me that summoning an Avatar requires the
    - {{waypoint 1989, 66, 211}} on a hill near the [[Tomb of the Shadow Lords]]
    - {{waypoint 1853, 120, -290}} near [[Haoaera]], by the aqueduct
    - {{waypoint 35, 20, -220}} near Excavation Site
-   - ( 1340, 160, 120) near [[Thulwun Station West]]
+   - {{waypoint 1340, 160, 120}} near [[Thulwun Station West]]
 1. Return to the [[Herald of the Seventh Hammer]] at {{waypoint 274, 180, -357}} in [[Timorous Deep]]
 
 ## Rewards

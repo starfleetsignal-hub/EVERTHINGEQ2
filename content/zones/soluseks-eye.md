@@ -59,8 +59,8 @@ If you are doing the To Speak As a Dragon quest, you can skip to Flame Lord Thyr
 - [[Solusek Mining Company Base]]: {{waypoint 33, 15, -33}}; quest-hub
 - One-way Teleporter cog to [[Chamber of the Speaker of Fates]]: {{waypoint 20, 14, -40}}; the destination teleporter must be touched first before this will become useable.
 - Teleporter cog deposits you at: {{waypoint 87.00, -358.20, 196.00}}.
-- Elevator to the [[#Second Level|Second Level]], domain of the Cinderfoot Goblins: {{waypoint 137, 6, 112}}  Deposits you at ( 140, -117, 98 )
-- Elevator to the [[#Third Level|Third Level]], domain of [[An efreeti soulslaver|efreeti soulslavers]] and the rest of the dungeon: {{waypoint -315, -40, -159}}  ***NOTE:** The elevator is located on the first floor, so you must go back to the first floor to use it.*  Deposits you at ( -326, -185, -146 )
+- Elevator to the [[#Second Level|Second Level]], domain of the Cinderfoot Goblins: {{waypoint 137, 6, 112}}  Deposits you at {{waypoint 140, -117, 98}}
+- Elevator to the [[#Third Level|Third Level]], domain of [[An efreeti soulslaver|efreeti soulslavers]] and the rest of the dungeon: {{waypoint -315, -40, -159}}  ***NOTE:** The elevator is located on the first floor, so you must go back to the first floor to use it.*  Deposits you at {{waypoint -326, -185, -146}}
 
 #### Named Monsters
 
@@ -87,7 +87,7 @@ If you are doing the To Speak As a Dragon quest, you can skip to Flame Lord Thyr
 1. At the first fork, {{waypoint -291, -185, -54}}, there is a rumbler path to the right and an efreeti path to the left. Both lead to the same choke point, listed next.
 1. Flame-golem choke point/path: {{waypoint -182, -227, 55}}
 1. At the second fork, {{waypoint -98, -227, -39}}, there is a centipede cave to the right and a twisting spider cave to the left. The spider cave contains the path to the rest of the dungeon: {{waypoint -72, -227, -52}}
-1. At the third fork, {{waypoint 25, -264, 107}}, there is a right path that leads to the [[Chamber of the Speaker of Fates]] ( 33, -358, 172 ) and a left path that leads to the [[Hand of the Caldera]]. Take the right path for the continuation of the dungeon.
+1. At the third fork, {{waypoint 25, -264, 107}}, there is a right path that leads to the [[Chamber of the Speaker of Fates]] {{waypoint 33, -358, 172}} and a left path that leads to the [[Hand of the Caldera]]. Take the right path for the continuation of the dungeon.
 
 #### Named Monsters
 

@@ -25,4 +25,4 @@ expansion: Ballads of Zimara
 expansion_source: linked
 ---
 
-![Kalidahd, Ranger, loc: -36.80, 111.58, 535.54](images/Kalidahd.png)
+![Kalidahd, Ranger, {{waypoint -36.80, 111.58, 535.54}}](images/Kalidahd.png)

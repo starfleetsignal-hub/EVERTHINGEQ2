@@ -36,7 +36,7 @@ Avoid the furnaces with visible flames. They'll root you for a short time and th
 
 ## Bosses
 
-1. **IMPORTANT**:  Do not talk to Meldrath the Marvelous (Clockwork) at (-16, 4, -122) until you have collected the "Magnetic Ether Compensator" at (-128, 4, -35) and "Maelin's Talismanic Whirlgurt" at (-19, 12, -170) or you will have to do the zone over again.
+1. **IMPORTANT**:  Do not talk to Meldrath the Marvelous (Clockwork) at {{waypoint -16, 4, -122}} until you have collected the "Magnetic Ether Compensator" at {{waypoint -128, 4, -35}} and "Maelin's Talismanic Whirlgurt" at {{waypoint -19, 12, -170}} or you will have to do the zone over again.
 1. Kill [[Repair Bot 5000]] at {{waypoint 36, 4, -31}}.
    - The mob has a stiff power drain. Bring power potions and cure arcane pots if you don't have power regen or cures.
 1. Kill the [[Powered Mechanization]] at {{waypoint -1, 4, -116}}.

@@ -55,7 +55,7 @@ source:
 1. The women are at the following respective locations:
    - [[Rinis Nightsong]] {{waypoint -9.64, 8.00, 30.51}}
    - [[Wensa Neldora]] {{waypoint -21.49, -10.00, -10.13}}
-   - [[Shelmay Wavecrest]] {{waypoint -29.39, -10.00, 11.61}} - For Shelmay's update, at least one person in group will need to obtain the key from Chief Torturer Goortz (-16, -10, -15) first. (Copied from eq2zam)
+   - [[Shelmay Wavecrest]] {{waypoint -29.39, -10.00, 11.61}} - For Shelmay's update, at least one person in group will need to obtain the key from Chief Torturer Goortz {{waypoint -16, -10, -15}} first. (Copied from eq2zam)
 1. Return to [[Infiltrator Stryjin]].
 1. After returning to [[Infiltrator Stryjin]], you must kill [[Emperor Fyst]].
 

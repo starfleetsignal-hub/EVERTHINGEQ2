@@ -30,7 +30,7 @@ source:
 
 ## Steps
 
-1. Take the ceremonial items to Somdoq ( loc: 55.43, -1.02, -10.13 )who is in a room in west Big Bend.  He will ask you to prepare the items for the ceremony.
+1. Take the ceremonial items to Somdoq {{waypoint 55.43, -1.02, -10.13}}who is in a room in west Big Bend.  He will ask you to prepare the items for the ceremony.
    1. Examine the incense in your inventory and burn it.
    1. Examine the skin in your inventory and tear it.
    1. Examine the vase in your inventory and smash it.

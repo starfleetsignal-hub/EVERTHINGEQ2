@@ -5,7 +5,7 @@ level: '106'
 difficulty: Solo
 zone: '[[The Fabled Crypt of Valdoon (Advanced Solo)]]'
 journal_category: Mission
-starts: Clicking on "a silver sword" sticking out of the ground at 40,-1,-111 starts the mission.
+starts: Clicking on "a silver sword" sticking out of the ground at {{waypoint 40, -1, -111}} starts the mission.
 in_game_name: No Hope For Lycanthropes
 added_in: Update 2015.06.23
 achievement_xp: true

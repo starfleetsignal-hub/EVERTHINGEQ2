@@ -33,10 +33,10 @@ source:
 ## Steps
 
 1. Gather foodstuffs for [[Xamira]] **in** and around [[Raj'Durabad]]. ![A highland charger](images/A_highland_charger.png)
-   - Hunt 8 [[A highland charger|a highland chargers]]. (-102, 103, -169) and {{waypoint -90, 107, -198}}
+   - Hunt 8 [[A highland charger|a highland chargers]]. {{waypoint -102, 103, -169}} and {{waypoint -90, 107, -198}}
    - Note: One source of Highland Chargers is to stand at ( -121.12 49.80 -23.81 303.22 0.00 0.00 ) and look over to the pillar that rises out of the water in the oasis.  There is usually one up there.  Targeting and pulling it with a mercenary (I was using a flying one, and I needed to tell it to back off once it got there,) will bring it down into the oasis so you can kill it.
-   - Note 2: Another place to find Highland Chargers is ( -19.57 107.66 -310.02 ) inside the Raj'Durabad area.
-   - Gather 8 **Wild Bulgur Wheat**. Often in between the tents of the Raj'Dur. ( -176, 107, -209 ) ![Wild bulgur wheat](images/Wild_Bulgur_Wheat.png)
+   - Note 2: Another place to find Highland Chargers is {{waypoint -19.57, 107.66, -310.02}} inside the Raj'Durabad area.
+   - Gather 8 **Wild Bulgur Wheat**. Often in between the tents of the Raj'Dur. {{waypoint -176, 107, -209}} ![Wild bulgur wheat](images/Wild_Bulgur_Wheat.png)
 1. Return to [[Xamira]]
 1. Find the silenced detractors along western edge of the [[Kalickia River]] {{waypoint -127, 100, -395}} (look for a Red Banner-Flag on a cliff-side right by the top of the Falls).  This is an auto-update when you approach the Skeletons on the pikes.
 1. Return to [[Xamira]]

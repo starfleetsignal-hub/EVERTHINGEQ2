@@ -7,7 +7,7 @@ level: '88'
 difficulty: Heroic
 zone: '[[The Hole]]'
 journal_category: The Hole
-starts: Talk to [[Lipit-ishtar]]( 21.31, 101.43, -61.22 )
+starts: Talk to [[Lipit-ishtar]]{{waypoint 21.31, 101.43, -61.22}}
 added_in: Sentinel's Fate
 achievement_xp: true
 categories:

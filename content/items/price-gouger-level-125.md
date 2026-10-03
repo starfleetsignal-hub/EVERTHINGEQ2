@@ -7,7 +7,7 @@ tier: Mythical
 level: '125'
 slot: Ranged
 flags: attunable heirloom
-description: Costs range from 1 to 4,400,444 platinum.
+description: Costs range from 1 to {{waypoint 4, 400, 444}} platinum.
 stats:
   sta: +6,210
   agi: +3,447

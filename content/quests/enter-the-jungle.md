@@ -34,7 +34,7 @@ expansion_source: patch
 
 ## Steps
 
-1. Head to the southern entrance of Kunzar Jungle -2,574 -403 1,328. As you approach, kill the two [[An Iksar defender|Iksar defenders]] that spawn and attack.
+1. Head to the southern entrance of Kunzar Jungle {{waypoint -2574, -403, 1328}}. As you approach, kill the two [[An Iksar defender|Iksar defenders]] that spawn and attack.
 1. Enter [[Kunzar Jungle]] and speak with [[Kellaen Mednevn]] in the Order of Rime camp on the bank of [[Murkdweller's River]]. {{waypoint 687, -91, 575}}
 1. Remember to re-cast your Illusion to be able to pick up the next quest [[Stockpiling Stone Mucus]] from [[Kellaen Mednevn]].
 

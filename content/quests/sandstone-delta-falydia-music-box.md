@@ -32,7 +32,7 @@ source:
 
 ## Some Possible Music Box Locations
 
-- <s>( 135, 147, -731)</s>  {{waypoint 142.92, 146.95, -722.35}} Note: Not the top cliff, the second one down from the top.
+- <s>{{waypoint 135, 147, -731}}</s>  {{waypoint 142.92, 146.95, -722.35}} Note: Not the top cliff, the second one down from the top.
 - {{waypoint 802.69, 147.10, -577.61}}
 - {{waypoint 785.20, 193.28, -252.84}}
 

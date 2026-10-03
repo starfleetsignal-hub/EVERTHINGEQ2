@@ -36,7 +36,7 @@ This quest has multiple possible starting locations for any alignment.
 
 ## Steps
 
-1. Speak with [[Priestess Annalisa Swornlove (Ant)|Priestess Annalisa Swornlove]] in next to the [[Druid Ring (Ant)|Druid Ring]] in [[Antonica]] at -2,235 -23 -705![](images/Valorian_bloom.jpg)
+1. Speak with [[Priestess Annalisa Swornlove (Ant)|Priestess Annalisa Swornlove]] in next to the [[Druid Ring (Ant)|Druid Ring]] in [[Antonica]] at {{waypoint -2235, -23, -705}}![](images/Valorian_bloom.jpg)
 1. Harvest a virtuous component. Look in [[The Commonlands]], south of the Freeport Station griffin tower, where the Avatar of Valor has been seen.
    - Harvest a valorian bloom, found around {{waypoint -591, -48, -629}}
 1. Return to [[Priestess Annalisa Swornlove (Ant)|Priestess Annalisa Swornlove]] and give her the valorian bloom.

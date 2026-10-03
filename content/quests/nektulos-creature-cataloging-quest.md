@@ -43,7 +43,7 @@ source:
    - [[A firelight shriller]] - {{waypoint -600, 70, 115}} hilltops in [[Death's Maw]] east of Commonlands gate
    - [[A scrounging ghoul]] - {{waypoint -673.77, 3.72, -247.21}} in the [[Ghoul Camp]] southeast of [[Mound Lake]]
    - [[A rumbleroot]] - {{waypoint -700, 50, -25}} valleys in [[Death's Maw]] east of Commonlands gate
-   - [[A Sullian corruptor]] - ( -1004, 134, -1811 ), {{waypoint -816, 141, -2171}} and {{waypoint -894, 134, -1811}} around [[Bone Lake]]
+   - [[A Sullian corruptor]] - {{waypoint -1004, 134, -1811}}, {{waypoint -816, 141, -2171}} and {{waypoint -894, 134, -1811}} around [[Bone Lake]]
      - Note: [[A Sullian partisan]] seems to be a placeholder for the corruptor.
    - [[A shadowed man (Nektulos Forest)|a shadowed man]] - between the [[Hidden Beach Path]] and [[D'Morte Burial Chambers]]
    - [[An ash owlbear]] - {{waypoint -565, 40, 125}} valleys in [[Death's Maw]] east of Commonlands gate

@@ -20,4 +20,4 @@ source:
   license: CC BY-SA 3.0
 ---
 
-Claimable in Coliseum of Valor at 166, 0, -49
+Claimable in Coliseum of Valor at {{waypoint 166, 0, -49}}

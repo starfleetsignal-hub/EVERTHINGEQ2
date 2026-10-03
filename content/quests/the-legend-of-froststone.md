@@ -42,7 +42,7 @@ expansion_source: patch
    - 6 rocks around [[Ry'Gorr Keep]]
    - 6 wood planks on the beach south of [[Ravaged Land]]
      - *see talk page for possible locations)*
-1. Speak to [[Docent Sally]] in [[Nipik's Haven]] -1,302 -539 3,436
+1. Speak to [[Docent Sally]] in [[Nipik's Haven]] {{waypoint -1302, -539, 3436}}
 1. Return to Grand Historian Elred Wintershade outside Thurgadin in Great Divide
 1. Speak to Docent Selly inside [[Thurgadin, City of the Coldain|Thurgadin]] in [[The Stand of Honor]] {{waypoint 871, -293, 330}}
 1. Find crates on the snowy shore near (below) [[Blisterrock Ridge]] in Great Divide {{waypoint -111, -526, -805}}  This is a location update only, no crates are visible.

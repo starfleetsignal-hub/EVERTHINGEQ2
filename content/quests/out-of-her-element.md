@@ -37,7 +37,7 @@ expansion_source: patch
 1. Enter the [[Atrium of Elements]] and defeat [[Captain Grush]]
 1. Enter [[The Edifice of Absolution]] and defeat [[Aiden]]
 1. Talk to [[Najena]] who will spawn after you kill [[Aiden]]
-1. Talk to [[Farminh Al'Ladar]] (-82, -129, 284) in [[Najena's Dungeon]] in Lavastorm in the top level of the tunnel as you enter the zone from LS
+1. Talk to [[Farminh Al'Ladar]] {{waypoint -82, -129, 284}} in [[Najena's Dungeon]] in Lavastorm in the top level of the tunnel as you enter the zone from LS
 
 *** Do not do these out of order.** It will mess up the entire thing and you'll have to redo the zone.
 

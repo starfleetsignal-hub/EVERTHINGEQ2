@@ -36,7 +36,7 @@ expansion_source: patch
 1. Upon returning to Qeynos Harbor, attempt to apply the potion to Brinn's corpse, but before you can finish, the Qeynos Guard arrests you and drags you off to A Back Room.
    - [[General Golias Sydwen (Back Room)|General Golias Sydwen]] chains you up (you can't escape the room until freed) and interrogates you in this back room about numerous charges against the kingdom and the crown.
 1. After [[Bellengere the Three (Back Room|Bellengere the Three]] uses Brinn's signet ring to recall an image of his death, Golias will free you and send you to warn Antonia at her royal hunting camp in Antonica.
-1. Enter the Royal Hunting Camp from Antonica -2,336 8 -64, where upon you can either listen to Murrar's speech (some of which will sound familiar if you did the Qeynos Claymore questline) or attack him outright.
+1. Enter the Royal Hunting Camp from Antonica {{waypoint -2336, 8, -64}}, where upon you can either listen to Murrar's speech (some of which will sound familiar if you did the Qeynos Claymore questline) or attack him outright.
    - Either way, you must defeat Murrar Shar in battle. Destroying the gem at Antonia's feet will allow her to aid you in the fight. But be warned, if you free the Queen and she gets the killing blow you won't get AA.
 1. Speak with Queen Antonia Bayle once you have slain him.
 

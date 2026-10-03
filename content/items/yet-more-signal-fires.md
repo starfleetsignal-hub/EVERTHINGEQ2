@@ -22,4 +22,4 @@ expansion_source: level
 
 This item is needed for the collection: [[Mysterious Locales (Collection)|Mysterious Locales]]
 
-Found one in the Sandstone Delta at ( -237, 110, -543 )
+Found one in the Sandstone Delta at {{waypoint -237, 110, -543}}

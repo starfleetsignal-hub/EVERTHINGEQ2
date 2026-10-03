@@ -36,7 +36,7 @@ source:
 
 ![sickly plant](images/Sickly_plant.png)
 
-1. Apply the [[Porous Salubrity]] on 8 sickly plants found around west side of Wakening Lands. 801, -459, 3992
+1. Apply the [[Porous Salubrity]] on 8 sickly plants found around west side of Wakening Lands. {{waypoint 801, -459, 3992}}
    - They are small bushes in the area where the [[An atrophy of growth]] and [[A melancholy of growth]] are
 1. Talk to [[Marblefist]]
 

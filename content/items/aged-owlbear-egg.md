@@ -10,7 +10,7 @@ stats:
   recast: 2 seconds
 effect_name: Hatch
 effects: "- Applies Hatch when Activated.\n  - Summons a pet maturing owlbear"
-obtained_from: Right click [[An elder ash owlbear]] nest egg at -871, 92, 80 in [[Nektulous Forest]]
+obtained_from: Right click [[An elder ash owlbear]] nest egg at {{waypoint -871, 92, 80}} in [[Nektulous Forest]]
 item_link: \aITEM -900249985 713162592:aged owlbear egg\/a
 image: images/An_aged_owlbear_egg.jpg
 aliases:

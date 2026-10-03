@@ -6,7 +6,7 @@ difficulty: solo
 zone: '[[Steamfont Mountains]]'
 timeline: '[[Tradeskill Timeline]]'
 journal_category: Tradeskill
-starts: Speak to [[Karalyn Cinderton]] at (-525, 177, 1056) in [[Gnomeland Security Headquarters]].
+starts: Speak to [[Karalyn Cinderton]] at {{waypoint -525, 177, 1056}} in [[Gnomeland Security Headquarters]].
 prerequisite: '[[Salt Of The Earth]]'
 next_quest: '[[Building A Better Dummy, Part 1]]'
 added_in: LU57

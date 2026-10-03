@@ -58,7 +58,7 @@ expansion_source: patch
 
 ### [[The Mysterious Mine]]
 
-1. Kill [[Tzkak the Dark]] {{waypoint 331.5, -77, -202}}(252, -79, -129)
+1. Kill [[Tzkak the Dark]] {{waypoint 331.5, -77, -202}}{{waypoint 252, -79, -129}}
 1. Activate the voice update at {{waypoint 332, -33, -141.5}}
 1. Kill [[Hunkta the Grey]] {{waypoint 341, -22.5, -188.5}}
 

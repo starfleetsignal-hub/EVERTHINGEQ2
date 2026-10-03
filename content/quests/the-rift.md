@@ -35,7 +35,7 @@ Obtain four different books in [[Nizara, City of the Nayad]]. These can be found
 
 1. Enter [[Nizara, City of the Nayad]] in [[The Forsaken City]] at {{waypoint 47.79, -89.40, -10.06}}.
    - As soon as you zone into the Forsaken City, drop down to the large pool at the bottom of the zone. Find the hole and swim through it. When you eventually surface you will be close to the entrance portal. If you do not see a purple portal at the location, kill [[Zin'vra, the Portal Keeper]] nearby, if she is up, to spawn the portal.
-1. The first book, **Celestial Glimmer,** sits on top of the bookcase in the first room up the stone ramp ( -38, -89, 16 ) from the entrance with [[Mai'sith, the Devouring One]]: {{waypoint 66, -70, 23}}
+1. The first book, **Celestial Glimmer,** sits on top of the bookcase in the first room up the stone ramp {{waypoint -38, -89, 16}} from the entrance with [[Mai'sith, the Devouring One]]: {{waypoint 66, -70, 23}}
 1. The second book, **The Avatar of All Seeing - Chapter V,** is found on the platform opposite [[Zsisae, the Quiet Thinker]]: {{waypoint -46, -33, -26}}
 1. The third book, **The False Gods - Chapter X,** is just up the stairs from the second book: {{waypoint 58, -22, 8}}
 1. The fourth book, **The Mirrored World - Chapter XI,** is on Level 4 next to the Summoning Diode (click on it to change the Epic to Heroic) from the last room exit at 90° to bridge; it should be in the next room after the long floor, immediately behind [[Aeri'ssth, the Magic Weaver]]: {{waypoint 1, -23, 78}}

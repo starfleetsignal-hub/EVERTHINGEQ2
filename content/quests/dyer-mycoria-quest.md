@@ -8,7 +8,7 @@ difficulty: Solo
 zone: '[[Greater Faydark]]'
 timeline: '[[Greater Faydark Timeline]]'
 journal_category: Greater Faydark
-starts: Speak to a Shroomba, [[Morganellus]] at -76, -56, -498
+starts: Speak to a Shroomba, [[Morganellus]] at {{waypoint -76, -56, -498}}
 next_quest: '[[Unwelcome Guests]]'
 in_game_name: Dyer Mycoria
 added_in: Echoes of Faydwer

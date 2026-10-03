@@ -44,7 +44,7 @@ This quest is repeatable up to 4 times.
 
 - Kill 7 [[A turbulent knot|turbulent knots]] in [[Toxxulia Forest]].
 
-found near /waypoint 936, 0, 3283
+found near {{waypoint 936, 0, 3283}}
 
 - If you take the druid ring (good area to kill Toxxulia Prowlers too) you can find them all over by the druid ring here is a way point {{waypoint 1099, -53, 3199}}
 

@@ -5,7 +5,7 @@ expansion: Shattered Lands
 purpose: Quest
 race: Dark Elf
 zone: '[[Sunken City]]'
-location: '[[The Isle of Rust]]'
+location: '[[The Isle of Rust]] {{waypoint -43, 0.5, -9}}'
 added_in: Shattered Lands
 categories:
 - Dark Elf

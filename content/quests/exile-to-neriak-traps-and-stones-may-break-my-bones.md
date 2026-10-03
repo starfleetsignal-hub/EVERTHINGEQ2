@@ -64,7 +64,7 @@ expansion_source: patch
 1. a Photostatic stone {{waypoint 629, -49, 61}}
 1. a Thexian Binding Caster at {{waypoint 584, -44, 28}}
 1. a Photostatic stone at {{waypoint 507, -43, -78}}
-1. a Photostatic stone at 509. -37 -157
+1. a Photostatic stone at {{waypoint 509, -37, -157}}
 1. a Thexian Binding Caster at {{waypoint 619, -44, -230}}
 
 Most of these locations are also available on [[EQ2MAP]].

@@ -31,7 +31,7 @@ source:
 ## Steps
 
 1. Travel to [[Darklight Wood]] and gather the following in order:
-   1. 3 Sablevein Tear pine cones around {{waypoint -464.19, -56.78, 307.42}}  I found some at ( -517, -55, 305 )
+   1. 3 Sablevein Tear pine cones around {{waypoint -464.19, -56.78, 307.42}}  I found some at {{waypoint -517, -55, 305}}
    1. 3 Nerian Highlands mushrooms around {{waypoint 51, -34, -213}}
    1. 3 Shadow Oak leaves amongst the roots of the big tree around {{waypoint 465, -32, -270}}
 1. Return to [[Bao Bao]].

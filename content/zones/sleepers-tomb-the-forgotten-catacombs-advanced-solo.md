@@ -31,7 +31,7 @@ source:
 1. clear the room, then kill [[Commander Vazkurlack Primescale (Adv. Solo)|the Commander]].
 1. Enter the northern hallway until you reach [[Pyre (Adv. Solo)|Pyre]]
    - you need to kill his adds asap, one for each column, to weaken him.
-   - grab the key (-321.01, -144.64, -319.93) at the backside of the room, and touch the [[A Recall Obelisk]] at {{waypoint -235.9, -149.49, -318.94}} to teleport back to entry hall.
+   - grab the key {{waypoint -321.01, -144.64, -319.93}} at the backside of the room, and touch the [[A Recall Obelisk]] at {{waypoint -235.9, -149.49, -318.94}} to teleport back to entry hall.
 1. Enter the southern hallway until you reach [[Frost (Adv. Solo)|Frost]]
    - drag the collected Globules to your hot bar
    - when Frost casts "Piledriver" (you get a warning message) use a Globule. This makes one of the pillars in the room attackable. Take down the pillar.

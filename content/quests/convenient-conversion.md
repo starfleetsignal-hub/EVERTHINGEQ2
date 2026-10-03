@@ -35,7 +35,7 @@ source:
 ## Steps
 
 1. Kill feral lujien until you find a [[A tattered Convert of the Silver Reaper robe]]. {{waypoint 302, 66, -178}}
-1. Return to [[Venox Tarkog|Venox]]. ( 219, 79, -46 ) He has an interesting, and disturbing, story to tell if you ask him about how he knows about the plants.
+1. Return to [[Venox Tarkog|Venox]]. {{waypoint 219, 79, -46}} He has an interesting, and disturbing, story to tell if you ask him about how he knows about the plants.
 1. Gather 5 [[A small flowering bulb|small flowering bulbs]]. These are fern-like plants with white sparkles and they respawn quickly.
    - You can find them at {{waypoint 403, 85, -85}} and more at {{waypoint 445, 76, -160}} .
    - Examine the [[A small flowering bulb|bulbs]] to apply them to the [[A tattered Convert of the Silver Reaper robe|robe]] ![](images/A_small_Ethernere_flower_bulb_instr.jpg)
