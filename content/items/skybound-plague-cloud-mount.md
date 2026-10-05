@@ -42,8 +42,8 @@ source:
   title: Skybound Plague Cloud (Mount)
   url: https://eq2.fandom.com/wiki/Skybound_Plague_Cloud_(Mount)
   history: https://eq2.fandom.com/wiki/Skybound_Plague_Cloud_(Mount)?action=history
-  revision: 2023843
-  revised: '2026-08-23T12:54:59Z'
+  revision: 2030919
+  revised: '2026-10-05T04:07:01Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

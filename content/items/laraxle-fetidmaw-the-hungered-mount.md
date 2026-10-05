@@ -41,8 +41,8 @@ source:
   title: Laraxle Fetidmaw, the Hungered (Mount)
   url: https://eq2.fandom.com/wiki/Laraxle_Fetidmaw,_the_Hungered_(Mount)
   history: https://eq2.fandom.com/wiki/Laraxle_Fetidmaw,_the_Hungered_(Mount)?action=history
-  revision: 1931504
-  revised: '2026-01-01T20:36:25Z'
+  revision: 2030958
+  revised: '2026-10-05T05:01:17Z'
   license: CC BY-SA 3.0
 expansion: Scars of Destruction
 expansion_source: linked

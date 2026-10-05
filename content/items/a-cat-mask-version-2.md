@@ -12,7 +12,10 @@ stats:
   agi: '+1'
   mit: '1'
   dtype: Cloth Armor
+obtained_from: '*[[Ghost Hunter: Antonica]] *[[Ghost Hunter: Commonlands]]'
 item_link: \aITEM 2058439071 -597825902:a cat mask\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -43,6 +46,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -63,11 +67,11 @@ source:
   title: A cat mask (Version 2)
   url: https://eq2.fandom.com/wiki/A_cat_mask_(Version_2)
   history: https://eq2.fandom.com/wiki/A_cat_mask_(Version_2)?action=history
-  revision: 945162
-  revised: '2019-03-17T23:08:03Z'
+  revision: 2030835
+  revised: '2026-10-03T21:38:49Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: level
+expansion: The Shadow Odyssey
+expansion_source: source
 ---
 
 

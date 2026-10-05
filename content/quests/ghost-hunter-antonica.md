@@ -24,8 +24,8 @@ source:
   title: 'Ghost Hunter: Antonica'
   url: https://eq2.fandom.com/wiki/Ghost_Hunter:_Antonica
   history: https://eq2.fandom.com/wiki/Ghost_Hunter:_Antonica?action=history
-  revision: 1908386
-  revised: '2025-10-23T22:06:55Z'
+  revision: 2030862
+  revised: '2026-10-04T03:28:33Z'
   license: CC BY-SA 3.0
 ---
 
@@ -43,28 +43,28 @@ Remove mount before standing on the starting pad.
 ![Mask options as of 2016. Top row, L to R: Nightblood, Amygdalan, Cat, Cursed Scarecrow; middle row: Cursed Skeleton, Goblin, Hatchet, Infernal Skeleton; bottom row: Black Mask, Noxious Scarecrow, Sinister Scarecrow, Snarling Werewolf](images/Notd-all-masks-2016.jpg)
 If you capture 1 or more ghosts you may pick a "small prize"
 
-- [[A cat mask]]
-- [[A goblin mask]]
+- [[A cat mask (Version 2)|a cat mask]]
+- [[A goblin mask (Version 3)|a goblin mask]]
 - 1 [[Candy Corn]]
 
 If you capture 36 or more ghosts you may pick a "medium prize"
 
-- [[A nightblood mask]]
-- [[A hatchet mask]]
-- [[A black mask]]
+- [[A nightblood mask (Version 1)|a nightblood mask]]
+- [[A hatchet mask (Version 2)|a hatchet mask]]
+- [[A black mask (Version 1)|a black mask]]
 - 2 [[Candy Corn]]
 
 If you capture 55 or more ghosts you may pick a "big prize"
 
-- [[An amygdalan mask]]
-- [[A cursed skeleton mask]]
+- [[An amygdalan mask (Version 2)|an amygdalan mask]]
+- [[A cursed skeleton mask (Version 2)|a cursed skeleton mask]]
 - [[An infernal skeleton mask]]
-- [[A snarling werewolf mask]]
+- [[A sinister scarecrow mask]]
+- [[A snarling werewolf mask (Version 1)|a snarling werewolf mask]]
 - 3 [[Candy Corn]]
 
 If you capture 90 or more ghosts you may pick a "huge prize"
 
-- [[A sinister scarecrow mask]]
 - [[Noxious Scarecrow Mask]]
 - [[Cursed Scarecrow Mask]]
 - [[Trusty Pitchfork]]
@@ -78,4 +78,4 @@ After five races you earn the prefix title, [[Apparition Abolisher]]
 In the past, these masks came from [[Trick or Treat|Trick or Treating]]. When that quest was retired and the races added, more masks were added as well. All masks chosen after the change have **no** stats, because they are true [[Appearance|appearance]] items.
 
 - Masks are Lore and you will not see it as a reward option if you already own one
-- Trusty Pitchfork and Zombiebane are Level 1, Treasured, Appearance-Only weapons that can be traded, transmuted and received multiple times.
+  - Trusty Pitchfork and Zombiebane are Level 1, Treasured, Appearance-Only weapons that can be traded, transmuted and received multiple times.

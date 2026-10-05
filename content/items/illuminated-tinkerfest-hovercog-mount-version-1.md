@@ -73,8 +73,8 @@ source:
   title: Illuminated Tinkerfest Hovercog (Mount) (Version 1)
   url: https://eq2.fandom.com/wiki/Illuminated_Tinkerfest_Hovercog_(Mount)_(Version_1)
   history: https://eq2.fandom.com/wiki/Illuminated_Tinkerfest_Hovercog_(Mount)_(Version_1)?action=history
-  revision: 1931227
-  revised: '2026-01-01T20:13:53Z'
+  revision: 2030929
+  revised: '2026-10-05T04:20:39Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

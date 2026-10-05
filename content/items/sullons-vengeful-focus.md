@@ -25,6 +25,7 @@ stats:
   wtype: Axe
 effect_name: Vengeance
 effects: "- When Equipped:\n  - On a melee hit this spell may cast Rage on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Potency of caster by 15.0.\n    - Cannot be modified except by direct means"
+obtained_from: merging [[Sullon's Vengeance (Weapon)]] with [[Sullon's Staff of Focus]]
 item_link: \aITEM -1266107111 -149572368:Sullon's Vengeful Focus\/a
 image: images/Sullon's_Vengeful_Focus.png
 categories:
@@ -80,8 +81,8 @@ source:
   title: Sullon's Vengeful Focus
   url: https://eq2.fandom.com/wiki/Sullon's_Vengeful_Focus
   history: https://eq2.fandom.com/wiki/Sullon's_Vengeful_Focus?action=history
-  revision: 1904725
-  revised: '2025-09-18T22:49:24Z'
+  revision: 2030963
+  revised: '2026-10-05T11:09:08Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

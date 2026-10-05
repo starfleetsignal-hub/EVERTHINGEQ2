@@ -2,6 +2,7 @@
 title: An Abyssal Carpet
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_2602.png
 tier: Treasured
 item_level: '0'
@@ -14,6 +15,7 @@ categories:
 - Census Credits
 - Collection Quest Rewards
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Item pages with existing iname images
 - Items
 - Items with Rent Status Reduction
@@ -23,8 +25,8 @@ source:
   title: An Abyssal Carpet
   url: https://eq2.fandom.com/wiki/An_Abyssal_Carpet
   history: https://eq2.fandom.com/wiki/An_Abyssal_Carpet?action=history
-  revision: 1303116
-  revised: '2021-04-08T22:05:45Z'
+  revision: 2030883
+  revised: '2026-10-05T02:40:17Z'
   license: CC BY-SA 3.0
 expansion: The Shadow Odyssey
 expansion_source: source

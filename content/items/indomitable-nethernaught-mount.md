@@ -41,8 +41,8 @@ source:
   title: Indomitable Nethernaught (Mount)
   url: https://eq2.fandom.com/wiki/Indomitable_Nethernaught_(Mount)
   history: https://eq2.fandom.com/wiki/Indomitable_Nethernaught_(Mount)?action=history
-  revision: 1931259
-  revised: '2026-01-01T20:15:45Z'
+  revision: 2030903
+  revised: '2026-10-05T03:50:36Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

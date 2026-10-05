@@ -26,8 +26,8 @@ source:
   title: A Thorn of Old
   url: https://eq2.fandom.com/wiki/A_Thorn_of_Old
   history: https://eq2.fandom.com/wiki/A_Thorn_of_Old?action=history
-  revision: 1822784
-  revised: '2024-09-23T20:48:34Z'
+  revision: 2030842
+  revised: '2026-10-04T01:57:22Z'
   license: CC BY-SA 3.0
 ---
 
@@ -67,7 +67,7 @@ source:
    - [[Sothis]], within [[The Halls of Fate]].
    - [[Harla Dar]], within [[The Temple of Scale: Pedestal of the Priestess]], which is accessed from a totem at the bottom of [[The Temple of Scale]] at {{waypoint 9.12, 57.63, -236.45}}.
    - [[Lord Vyemm]], within [[The Laboratory of Lord Vyemm]].
-1. Return to the old man in Tenebrous Tangle. He will give you a level 65 artisan recipe for The Wurmslayer and three vials of dragon blood.
+1. Return to the old man in Tenebrous Tangle. He will give you a level 65 artisan recipe for [[Blood-Imbued Wurmslayer]] and three vials of dragon blood.
 1. Return to the unique forge in Sanctum of the Scaleborn {{waypoint -116, 65, -34}}, and craft [[The Wurmslayer]].
    - You will need 7 Scintillating Incense.
    - If you destroy the vials of blood or the Formed Wurmslayer, simply return to the old man and he will reimburse them.

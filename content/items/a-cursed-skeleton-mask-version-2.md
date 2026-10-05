@@ -12,7 +12,7 @@ stats:
   agi: '+1'
   mit: '1'
   dtype: Cloth Armor
-obtained_from: '[[Ghost Hunting]]'
+obtained_from: '*[[Ghost Hunter: Antonica]] *[[Ghost Hunter: Commonlands]]'
 item_link: \aITEM -1761237736 -1275039254:a cursed skeleton mask\/a
 events:
 - Nights of the Dead
@@ -67,18 +67,17 @@ source:
   title: A cursed skeleton mask (Version 2)
   url: https://eq2.fandom.com/wiki/A_cursed_skeleton_mask_(Version_2)
   history: https://eq2.fandom.com/wiki/A_cursed_skeleton_mask_(Version_2)?action=history
-  revision: 2030774
-  revised: '2026-10-02T21:58:23Z'
+  revision: 2030854
+  revised: '2026-10-04T02:48:58Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: level
+expansion: The Shadow Odyssey
+expansion_source: source
 ---
 
 ## Notes
 
 This is one of the masks you can choose when you catch enough ghosts for a big prize.
 
-- **Current versions of the [[Nights of the Dead]] masks do not have any stats beyond 7 Mitigation.**
 - This mask was added in 2008.
 - About older versions:
 - The old version of this mask was from the (now retired) quest, [[Trick or Treat]].

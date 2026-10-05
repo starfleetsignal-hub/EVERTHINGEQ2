@@ -9,7 +9,6 @@ flags: lore no-trade
 stats:
   mit: '6'
   dtype: Cloth Armor
-obtained_from: '[[Ghost Hunting]]'
 item_link: \aITEM -50686214 -1538267388:an amygdalan mask\/a
 categories:
 - Assassin Equipment
@@ -61,18 +60,11 @@ source:
   title: An amygdalan mask (Version 1)
   url: https://eq2.fandom.com/wiki/An_amygdalan_mask_(Version_1)
   history: https://eq2.fandom.com/wiki/An_amygdalan_mask_(Version_1)?action=history
-  revision: 1863405
-  revised: '2025-03-06T06:12:04Z'
+  revision: 2030852
+  revised: '2026-10-04T02:42:06Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
 ---
 
-## Notes
 
-This is one of the masks you can choose when you catch the enough ghosts for a big prize.
-
-- **Current versions of the [[Nights of the Dead]] masks do not have any stats beyond 7 Mitigation.**
-- About older versions:
-- The old version of this mask was from the (now retired) quest, [[Trick or Treat]].
-- The old version had stats.

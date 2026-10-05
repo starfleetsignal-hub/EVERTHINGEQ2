@@ -70,8 +70,8 @@ source:
   title: Abyssal Carpet
   url: https://eq2.fandom.com/wiki/Abyssal_Carpet
   history: https://eq2.fandom.com/wiki/Abyssal_Carpet?action=history
-  revision: 2029728
-  revised: '2026-09-16T17:48:41Z'
+  revision: 2030884
+  revised: '2026-10-05T02:40:38Z'
   license: CC BY-SA 3.0
 expansion: The Shadow Odyssey
 expansion_source: source

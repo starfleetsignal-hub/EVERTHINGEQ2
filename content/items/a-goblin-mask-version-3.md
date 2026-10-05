@@ -12,7 +12,10 @@ stats:
   agi: '+1'
   mit: '1'
   dtype: Cloth Armor
+obtained_from: '*[[Ghost Hunter: Antonica]] *[[Ghost Hunter: Commonlands]]'
 item_link: \aITEM -1572955048 607647226:a goblin mask\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -43,6 +46,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -63,11 +67,11 @@ source:
   title: A goblin mask (Version 3)
   url: https://eq2.fandom.com/wiki/A_goblin_mask_(Version_3)
   history: https://eq2.fandom.com/wiki/A_goblin_mask_(Version_3)?action=history
-  revision: 945166
-  revised: '2019-03-17T23:08:11Z'
+  revision: 2030837
+  revised: '2026-10-03T21:45:22Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: level
+expansion: The Shadow Odyssey
+expansion_source: source
 ---
 
 

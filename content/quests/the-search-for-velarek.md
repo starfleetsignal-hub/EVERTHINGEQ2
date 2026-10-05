@@ -28,8 +28,8 @@ source:
   title: The Search for Vel'Arek
   url: https://eq2.fandom.com/wiki/The_Search_for_Vel'Arek
   history: https://eq2.fandom.com/wiki/The_Search_for_Vel'Arek?action=history
-  revision: 1117537
-  revised: '2020-08-31T20:04:20Z'
+  revision: 2030876
+  revised: '2026-10-04T14:21:32Z'
   license: CC BY-SA 3.0
 ---
 
@@ -75,6 +75,7 @@ Take [[The Bone Bladed Claymore]] with you to [[Jimbo]] &lt;The NEW Steel Warrio
 1. After you get all four updates, head back to Shard of Fear but you have to zone in a new one, or Urduuk won't give you updates. Speak to him and he will escape, also you get Shackles of Horror.
 1. Bring the Shackle back to Commonlands, where you found the body at {{waypoint 619, -57, 208}} , use the shackle and [[Urduuk the Desecrator]] will spawn as a lvl85^^^ mob, kill him and get the updates.
 1. Back to Kunzar Jungle and raise the ghost of Vel'Arek,back underground in cave behind waterfall {{waypoint 374, 6, -281}}. You'll see the wall you can 'break'. Strike it and walk through as before, then go in to {{waypoint 532, -7, -434}}. Click the sword, and the ghost of Vel'Arek will pop up. Talk to him. He wants you to recover 8 tags from military units of Rallosian of Glory. Tags can be gotten in any order:
+   - Remej's tag: Clickable skull off skeleton next to [[Vel'Arak]] in Kunzar Jungle {{waypoint 528, -8, -436}}
    - Cusmar's RoG tag (it's like the [[An Old Military ID Necklace]] dropped by [[Impaler Tzilug]], except the purchased one says "The name on it is 'Cusmar'", and it's tagged as *Required by the Quest "The Search for Vel'Arek"* ): Purchased from [[Dealer Zaynx]] (faction merchant) {{waypoint 623, 37, -127}} in [[City of Jinisk]] in Kunzar Jungle for 4p 80g (40,000 faction with The City of Jinisk required)
    - Eloc's tag: Harvestable (pile of tan dirt with ? over it) in Danak Shipyard in Jarsath Wastes e.g. {{waypoint -13, -40, 1094}}, {{waypoint -122, -50, 1231}}, {{waypoint -188, -47, 1217}} (random along the beach it seems, you can use a gnomish divining rod which helps significantly)also try {{waypoint -134, -34, 1074}}
    - [[An Old Military ID Necklace|Rabid's tag]]: Drop from [[Impaler Tzilug]] in [[Charasis: Maiden's Chamber]] instance in Jarsath Wastes
@@ -82,7 +83,6 @@ Take [[The Bone Bladed Claymore]] with you to [[Jimbo]] &lt;The NEW Steel Warrio
    - Tank's tag: Harvestable in [[Court of Korucust]] instance in [[Chardok]] {{waypoint -763, -57, 234}}
    - Elno's tag: Head to [[Fens of Nathsar]] {{waypoint -1567, -376, -1839}} clean trash mobs will spawn lvl85^^^ [[Digmaster Bonerattler]] with adds, kill it get the update.
    - Limik's tag: Limk's tag is from [[Thunderbelly]] in the Kromdeck Village (by Field of Bones) in Fens at {{waypoint -878, -292, -1938}} . You need to bring him 12 of each [[Crispy Fried King Prawn Heads]], [[Torsis Tea Ice Cream]], [[Juicy Cranberry Cobbler]], [[Cocoa-dusted Wedding Cake]].(You can buy on the broker or search a Provisioner for help)
-   - Remej's tag: Clickable skull of skeleton next to [[Vel'Arak]] in Kunzar Jungle {{waypoint 528, -8, -436}}
 1. After turning in the tags to Vel'Arek, he sends you to kill who was responsible for the siege of Tallon's Point. This is Ganak, so go to the [[Charasis: Vault of Eternal Sleep]], and grab the phylactery from in front of the final named.  If you have multiple Guardians in your group, only one can take the phylactery per instance (will have to wait for it to expire or reset in 17 hours).
    - **NOTE:** *Make sure ALL PARTIES know NOT to  click the Phylactery or you will NOT get the item you need!*
    - **NOTE:** *Make sure you have either completed or do not have the quest [[Safely-Kept Soul]] or you will auto update that quest and not have the Phylactery in your inventory to Spawn Ganak!*

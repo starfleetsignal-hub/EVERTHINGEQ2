@@ -41,8 +41,8 @@ source:
   title: Dralghist Spiritclaw, the Envious (Mount)
   url: https://eq2.fandom.com/wiki/Dralghist_Spiritclaw,_the_Envious_(Mount)
   history: https://eq2.fandom.com/wiki/Dralghist_Spiritclaw,_the_Envious_(Mount)?action=history
-  revision: 1929764
-  revised: '2026-01-01T17:36:34Z'
+  revision: 2030953
+  revised: '2026-10-05T04:57:24Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

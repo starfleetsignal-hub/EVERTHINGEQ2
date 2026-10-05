@@ -67,8 +67,8 @@ source:
   revision: 1773774
   revised: '2024-01-01T14:15:48Z'
   license: CC BY-SA 3.0
-expansion: Sentinel's Fate
-expansion_source: level
+expansion: Shattered Lands
+expansion_source: linked
 ---
 
 

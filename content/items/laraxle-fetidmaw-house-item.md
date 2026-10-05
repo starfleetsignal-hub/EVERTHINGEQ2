@@ -2,6 +2,7 @@
 title: Laraxle Fetidmaw (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_6026.png
 tier: Fabled
 item_level: '0'
@@ -12,6 +13,7 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Laraxle Fetidmaw (House Item)
   url: https://eq2.fandom.com/wiki/Laraxle_Fetidmaw_(House_Item)
   history: https://eq2.fandom.com/wiki/Laraxle_Fetidmaw_(House_Item)?action=history
-  revision: 1838497
-  revised: '2024-11-24T23:55:52Z'
+  revision: 2030950
+  revised: '2026-10-05T04:49:31Z'
   license: CC BY-SA 3.0
 ---
 

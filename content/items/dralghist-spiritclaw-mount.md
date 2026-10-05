@@ -41,8 +41,8 @@ source:
   title: Dralghist Spiritclaw (Mount)
   url: https://eq2.fandom.com/wiki/Dralghist_Spiritclaw_(Mount)
   history: https://eq2.fandom.com/wiki/Dralghist_Spiritclaw_(Mount)?action=history
-  revision: 1929763
-  revised: '2026-01-01T17:36:32Z'
+  revision: 2030946
+  revised: '2026-10-05T04:44:57Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
