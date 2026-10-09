@@ -2,6 +2,7 @@
 title: Winged Platinum Mechan-equus (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_108.png
 tier: Treasured
 item_level: '0'
@@ -11,14 +12,15 @@ item_link: \aITEM -947323844 183898358:Winged Platinum Mechan-equus\/a
 categories:
 - Census Credits
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Treasured Items
 source:
   title: Winged Platinum Mechan-equus (House Item)
   url: https://eq2.fandom.com/wiki/Winged_Platinum_Mechan-equus_(House_Item)
   history: https://eq2.fandom.com/wiki/Winged_Platinum_Mechan-equus_(House_Item)?action=history
-  revision: 2015689
-  revised: '2026-07-05T12:52:15Z'
+  revision: 2030892
+  revised: '2026-10-05T03:29:25Z'
   license: CC BY-SA 3.0
 ---
 

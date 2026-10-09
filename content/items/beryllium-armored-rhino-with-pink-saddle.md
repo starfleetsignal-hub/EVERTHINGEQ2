@@ -65,8 +65,8 @@ source:
   title: Beryllium Armored Rhino with Pink Saddle
   url: https://eq2.fandom.com/wiki/Beryllium_Armored_Rhino_with_Pink_Saddle
   history: https://eq2.fandom.com/wiki/Beryllium_Armored_Rhino_with_Pink_Saddle?action=history
-  revision: 1928478
-  revised: '2026-01-01T15:58:01Z'
+  revision: 2031121
+  revised: '2026-10-07T03:22:14Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

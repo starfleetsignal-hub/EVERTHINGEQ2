@@ -25,10 +25,12 @@ source:
   title: Infernal Tyrant Dennigrah (Untold Heroic)
   url: https://eq2.fandom.com/wiki/Infernal_Tyrant_Dennigrah_(Untold_Heroic)
   history: https://eq2.fandom.com/wiki/Infernal_Tyrant_Dennigrah_(Untold_Heroic)?action=history
-  revision: 2002267
-  revised: '2026-05-12T23:24:13Z'
+  revision: 2031556
+  revised: '2026-10-09T04:34:40Z'
   license: CC BY-SA 3.0
 ---
+
+Ability and strategy information changes at stages (1-20/21-40/41+).
 
 ## Abilities
 
@@ -47,13 +49,19 @@ source:
 - **Infernal Tyranny**
 - A curable curse that inflicts disease damage over time and reduces fervor. When cured, it summons an Ebonlith, which clears the reuse of [[Cure Curse]] when killed. The curse lands on all players except fighters.
 - **Cthurath's Will**
-- An incurable detriment that initially has 5 increments. It increases by 1 when a curse is cured from the target. It decreases by 1 if the target dies or if the target is hit by Testament to the Consumer (which also summons an Ebonlithe). If any player reaches 0 increments, or if any player reaches 10 increments, the entire party is killed.
+- An incurable detriment that initially has (5/4/3) increments. It increases by 1 when a curse is cured from the target. It decreases by 1 if the target dies or if the target is hit by Testament to the Consumer (which also summons an Ebonlithe). If any player reaches 0 increments, or if any player reaches (10/8/6) increments, the entire party is killed.
+- **Deadly Hubris [41+]**
+- A curable curse that lands on the main tank. It reduces power received by 100%. If it is cured while the target has more than 50% power, it kills both the target and the curer. When cured successfully, the curer's Cure Curse is reset.
+- **Seductive Embrace [41+]**
+- A buff that increases the flurry and flurry multiplier of Dennigrah for each [[Seeping seduction]] that reaches Dennigrah. At 100 increments, Dennigrah kills the entire group.
 
 ## Strategy
 
 Dennigrah casts Testament to the Consumer with a medium-length cast time. This spell targets one particular player, hitting that player and all nearby players. For each player it hits, it summons an Ebonlithe and decreases the increments on Cthurath's Will.
 
-Dennigrah summons a linked pair of [[A flight fiend]] and [[A fright fiend]].
+Dennigrah summons a linked pair of [[A flight fiend]] and [[A fright fiend]]. Killing the flight fiend causes a knockback. Killing the fright fiend causes a fear.
+
+[41+] At 36%, Dennigrah lifts parts of the floor into the sky, then summons massive amounts of [[Seeping seduction]]. At a random time, Dennigrah begins a 5-countdown before dropping the pieces of floor. Players under these pieces when they land are killed.
 
 ## ACT Triggers
 

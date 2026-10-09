@@ -40,8 +40,8 @@ source:
   title: Unflinching Nethernaught
   url: https://eq2.fandom.com/wiki/Unflinching_Nethernaught
   history: https://eq2.fandom.com/wiki/Unflinching_Nethernaught?action=history
-  revision: 2007607
-  revised: '2026-05-17T15:21:13Z'
+  revision: 2031336
+  revised: '2026-10-07T22:39:03Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: linked

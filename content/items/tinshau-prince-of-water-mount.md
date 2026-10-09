@@ -41,8 +41,8 @@ source:
   title: Tinshau, Prince of Water (Mount)
   url: https://eq2.fandom.com/wiki/Tinshau,_Prince_of_Water_(Mount)
   history: https://eq2.fandom.com/wiki/Tinshau,_Prince_of_Water_(Mount)?action=history
-  revision: 1935342
-  revised: '2026-01-02T19:43:56Z'
+  revision: 2031445
+  revised: '2026-10-08T04:19:15Z'
   license: CC BY-SA 3.0
 expansion: Chaos Descending
 expansion_source: source

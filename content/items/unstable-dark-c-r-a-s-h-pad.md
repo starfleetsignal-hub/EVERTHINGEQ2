@@ -68,11 +68,11 @@ source:
   title: Unstable Dark C.R.A.S.H. Pad
   url: https://eq2.fandom.com/wiki/Unstable_Dark_C.R.A.S.H._Pad
   history: https://eq2.fandom.com/wiki/Unstable_Dark_C.R.A.S.H._Pad?action=history
-  revision: 1935914
-  revised: '2026-01-02T20:10:08Z'
+  revision: 2031368
+  revised: '2026-10-08T00:14:57Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: source
+expansion_source: linked
 ---
 
 ## Notes

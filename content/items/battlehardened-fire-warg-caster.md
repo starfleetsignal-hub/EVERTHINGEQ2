@@ -69,8 +69,8 @@ source:
   title: Battlehardened Fire Warg (caster)
   url: https://eq2.fandom.com/wiki/Battlehardened_Fire_Warg_(caster)
   history: https://eq2.fandom.com/wiki/Battlehardened_Fire_Warg_(caster)?action=history
-  revision: 1928458
-  revised: '2026-01-01T15:57:03Z'
+  revision: 2031088
+  revised: '2026-10-07T02:40:04Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

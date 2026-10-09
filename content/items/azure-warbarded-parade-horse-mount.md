@@ -67,8 +67,8 @@ source:
   title: Azure Warbarded Parade Horse (Mount)
   url: https://eq2.fandom.com/wiki/Azure_Warbarded_Parade_Horse_(Mount)
   history: https://eq2.fandom.com/wiki/Azure_Warbarded_Parade_Horse_(Mount)?action=history
-  revision: 1928407
-  revised: '2026-01-01T15:55:03Z'
+  revision: 2030993
+  revised: '2026-10-05T21:50:11Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -41,8 +41,8 @@ source:
   title: Void Ember Flying Carpet (Mount)
   url: https://eq2.fandom.com/wiki/Void_Ember_Flying_Carpet_(Mount)
   history: https://eq2.fandom.com/wiki/Void_Ember_Flying_Carpet_(Mount)?action=history
-  revision: 1936093
-  revised: '2026-01-02T20:44:02Z'
+  revision: 2031304
+  revised: '2026-10-07T21:28:20Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

@@ -17,6 +17,7 @@ stats:
   dtype: Plate Armor
 obtained_from: From [[Malevolent Plate Greaves (Staunch, Unyielding, Resolute)|Malevolent Plate Greaves]]
 item_link: \aITEM 1595907836 1155378759:Resolute Greaves of Malice\/a
+image: images/Resolute_Greaves_of_Malice_(0_Gem).png
 categories:
 - Berserker Equipment
 - Casting Speed (Equipment)
@@ -25,6 +26,7 @@ categories:
 - Crit Bonus (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Guardian Equipment
 - Inquisitor Equipment
@@ -41,8 +43,8 @@ source:
   title: Resolute Greaves of Malice (0 Gem)
   url: https://eq2.fandom.com/wiki/Resolute_Greaves_of_Malice_(0_Gem)
   history: https://eq2.fandom.com/wiki/Resolute_Greaves_of_Malice_(0_Gem)?action=history
-  revision: 1946205
-  revised: '2026-01-04T10:41:13Z'
+  revision: 2031037
+  revised: '2026-10-06T11:26:55Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

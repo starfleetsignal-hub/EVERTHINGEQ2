@@ -18,6 +18,7 @@ stats:
   multi: '132.8'
   dtype: Leather Armor
 item_link: \aITEM -1928970430 -369347397:Bold Malevolent Leather Leggings\/a
+image: images/Bold_Malevolent_Leather_Leggings.png
 categories:
 - Brawler Equipment
 - Bruiser Equipment
@@ -27,6 +28,7 @@ categories:
 - DPS (Equipment)
 - Druid Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fury Equipment
 - Leather Armor (Equipment Type)
@@ -41,8 +43,8 @@ source:
   title: Bold Malevolent Leather Leggings
   url: https://eq2.fandom.com/wiki/Bold_Malevolent_Leather_Leggings
   history: https://eq2.fandom.com/wiki/Bold_Malevolent_Leather_Leggings?action=history
-  revision: 2030626
-  revised: '2026-09-29T11:39:23Z'
+  revision: 2031043
+  revised: '2026-10-06T11:40:19Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

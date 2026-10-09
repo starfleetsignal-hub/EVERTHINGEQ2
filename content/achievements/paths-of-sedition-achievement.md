@@ -12,16 +12,14 @@ categories:
 - 20 Point Achievements
 - Achievements
 - Achievements with Rewards
-- Affected by future updates
 - Census Credits
 - Live Events Achievements
-- Test
 source:
   title: Paths of Sedition (Achievement)
   url: https://eq2.fandom.com/wiki/Paths_of_Sedition_(Achievement)
   history: https://eq2.fandom.com/wiki/Paths_of_Sedition_(Achievement)?action=history
-  revision: 2029075
-  revised: '2026-09-13T20:45:47Z'
+  revision: 2031074
+  revised: '2026-10-06T21:36:19Z'
   license: CC BY-SA 3.0
 ---
 

@@ -67,8 +67,8 @@ source:
   title: Green C.R.A.S.H. Disk (Mount)
   url: https://eq2.fandom.com/wiki/Green_C.R.A.S.H._Disk_(Mount)
   history: https://eq2.fandom.com/wiki/Green_C.R.A.S.H._Disk_(Mount)?action=history
-  revision: 1930885
-  revised: '2026-01-01T19:19:02Z'
+  revision: 2031359
+  revised: '2026-10-08T00:12:31Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

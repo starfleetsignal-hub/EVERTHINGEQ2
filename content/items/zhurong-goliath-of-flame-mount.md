@@ -40,8 +40,8 @@ source:
   title: Zhurong, Goliath of Flame (Mount)
   url: https://eq2.fandom.com/wiki/Zhurong,_Goliath_of_Flame_(Mount)
   history: https://eq2.fandom.com/wiki/Zhurong,_Goliath_of_Flame_(Mount)?action=history
-  revision: 1936363
-  revised: '2026-01-02T21:06:14Z'
+  revision: 2031145
+  revised: '2026-10-07T04:04:02Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

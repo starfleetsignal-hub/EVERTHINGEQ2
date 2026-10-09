@@ -42,8 +42,8 @@ source:
   title: Bixie Skimmer (Mount)
   url: https://eq2.fandom.com/wiki/Bixie_Skimmer_(Mount)
   history: https://eq2.fandom.com/wiki/Bixie_Skimmer_(Mount)?action=history
-  revision: 2023743
-  revised: '2026-08-23T12:37:36Z'
+  revision: 2031122
+  revised: '2026-10-07T03:22:19Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

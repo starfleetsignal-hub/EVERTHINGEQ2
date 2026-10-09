@@ -40,8 +40,8 @@ source:
   title: Tan Canvas Oscillating Kajiggers
   url: https://eq2.fandom.com/wiki/Tan_Canvas_Oscillating_Kajiggers
   history: https://eq2.fandom.com/wiki/Tan_Canvas_Oscillating_Kajiggers?action=history
-  revision: 1935058
-  revised: '2026-01-02T19:24:57Z'
+  revision: 2031398
+  revised: '2026-10-08T03:08:55Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

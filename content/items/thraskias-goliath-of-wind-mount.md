@@ -40,8 +40,8 @@ source:
   title: Thraskias, Goliath of Wind (Mount)
   url: https://eq2.fandom.com/wiki/Thraskias,_Goliath_of_Wind_(Mount)
   history: https://eq2.fandom.com/wiki/Thraskias,_Goliath_of_Wind_(Mount)?action=history
-  revision: 1935281
-  revised: '2026-01-02T19:40:26Z'
+  revision: 2031415
+  revised: '2026-10-08T03:42:48Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

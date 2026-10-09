@@ -1,18 +1,15 @@
 ---
-title: Armored Highland Stalker (Mount)
+title: A nightblood mask (Version 2)
 type: item
 item_kind: Equipment
-tier: Fabled
+icon: images/Item_878.png
 level: '1'
-slot: Charm
-flags: LORE  NO-TRADE
+slot: Head
+flags: lore no-trade
 stats:
-  duration: Until Cancelled
-  charges: Unlimited
-  casting: 2.0 seconds
-  recast: 0.0 seconds
-effects: "- Applies Call Armored Highland Stalker when Activated.\n  - Summons a mount to ride that increases your speed by 65%"
-obtained_from: From Sentinel's Fate Collector's Edition
+  mit: '6'
+  dtype: Cloth Armor
+item_link: \aITEM -421526502 1007120633:a nightblood mask\/a
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -21,9 +18,10 @@ categories:
 - Brawler Equipment
 - Brigand Equipment
 - Bruiser Equipment
+- Census Credits
 - Channeler Equipment
-- Charm (Inventory Slot)
 - Cleric Equipment
+- Cloth Armor (Equipment Type)
 - Coercer Equipment
 - Conjuror Equipment
 - Crusader Equipment
@@ -32,10 +30,10 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
-- Fabled Equipment
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
+- Head (Inventory Slot)
 - Illusionist Equipment
 - Inquisitor Equipment
 - Mage Equipment
@@ -59,11 +57,11 @@ categories:
 - Warrior Equipment
 - Wizard Equipment
 source:
-  title: Armored Highland Stalker (Mount)
-  url: https://eq2.fandom.com/wiki/Armored_Highland_Stalker_(Mount)
-  history: https://eq2.fandom.com/wiki/Armored_Highland_Stalker_(Mount)?action=history
-  revision: 724451
-  revised: '2017-08-30T16:12:04Z'
+  title: A nightblood mask (Version 2)
+  url: https://eq2.fandom.com/wiki/A_nightblood_mask_(Version_2)
+  history: https://eq2.fandom.com/wiki/A_nightblood_mask_(Version_2)?action=history
+  revision: 2030844
+  revised: '2026-10-04T02:28:02Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

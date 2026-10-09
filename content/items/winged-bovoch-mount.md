@@ -42,8 +42,8 @@ source:
   title: Winged Bovoch (Mount)
   url: https://eq2.fandom.com/wiki/Winged_Bovoch_(Mount)
   history: https://eq2.fandom.com/wiki/Winged_Bovoch_(Mount)?action=history
-  revision: 2023882
-  revised: '2026-08-23T13:02:44Z'
+  revision: 2031235
+  revised: '2026-10-07T17:52:28Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

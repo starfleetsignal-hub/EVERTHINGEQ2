@@ -18,6 +18,7 @@ stats:
   vselemental: +388,245
 obtained_from: '[[Rage of Cthurath: Truth and Darou]]'
 item_link: \aITEM 195577761 2104027809:Industrial Bracelet of Expedition\/a
+image: images/Industrial_Bracelet_of_Expedition.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -42,6 +43,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -77,8 +79,8 @@ source:
   title: Industrial Bracelet of Expedition
   url: https://eq2.fandom.com/wiki/Industrial_Bracelet_of_Expedition
   history: https://eq2.fandom.com/wiki/Industrial_Bracelet_of_Expedition?action=history
-  revision: 2004167
-  revised: '2026-05-17T10:52:42Z'
+  revision: 2031546
+  revised: '2026-10-08T17:48:16Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

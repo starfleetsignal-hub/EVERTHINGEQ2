@@ -64,8 +64,8 @@ source:
   title: Ykeshan Spellbear with Silvered Blue Armor
   url: https://eq2.fandom.com/wiki/Ykeshan_Spellbear_with_Silvered_Blue_Armor
   history: https://eq2.fandom.com/wiki/Ykeshan_Spellbear_with_Silvered_Blue_Armor?action=history
-  revision: 1936336
-  revised: '2026-01-02T21:05:01Z'
+  revision: 2031186
+  revised: '2026-10-07T16:07:43Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

@@ -21,8 +21,8 @@ source:
   title: 'The Fabled Castle Highhold: Thresinet''s Den (Solo)'
   url: https://eq2.fandom.com/wiki/The_Fabled_Castle_Highhold:_Thresinet's_Den_(Solo)
   history: https://eq2.fandom.com/wiki/The_Fabled_Castle_Highhold:_Thresinet's_Den_(Solo)?action=history
-  revision: 2028795
-  revised: '2026-09-11T00:00:48Z'
+  revision: 2030882
+  revised: '2026-10-05T01:41:30Z'
   license: CC BY-SA 3.0
 ---
 
@@ -45,3 +45,5 @@ Located at {{waypoint 96.03, -86.03, 13.44}}. I clear all of the spiders on the 
 ### Thresinet
 
 Located at {{waypoint 95.77, 0.00, -187.60}}. Hardest fight in the zone by far. Don't rush in!! There are four 'a deathden' around her, two in the front left and right and two in the back left and right. They're "feeding" her something. Take out the two in the front from range. Then charge her and engage from behind her. Shortly after engaging, take out the last two deathdens from range (I use a target macro to make targeting them easier in the chaos). Once they're gone, beat her down. AOE the adds as, if, needed.
+
+Alternatively, avoid engaging her and dodge around the boxes in the periphery, killing the deathdens in sequence (and the skeletons they contain). There will be autotext that she is focusing you with decay - as long as you remain out of sight behind the boxes, you'll be fine. If you're out in the open, you'll take a bunch of damage. Repeat this until you kill the fourth deathden, at which point she automatically aggros. Fight her in a corner and it's a tank and spank.

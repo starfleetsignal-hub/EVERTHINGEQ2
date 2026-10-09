@@ -17,16 +17,17 @@ effects: '- Inflicts X cold damage on target.
   - Decreases strikethrough chance of target by Y%.'
 categories:
 - Census Credits
+- DD (Spell Type)
+- Debuff (Spell Type)
 - Elementalist Spells
-- Spell needing Category
 - Spells
 - Spells by Type Ascension
 source:
   title: Glacial Freeze
   url: https://eq2.fandom.com/wiki/Glacial_Freeze
   history: https://eq2.fandom.com/wiki/Glacial_Freeze?action=history
-  revision: 1854252
-  revised: '2025-01-21T01:02:07Z'
+  revision: 2031055
+  revised: '2026-10-06T16:07:31Z'
   license: CC BY-SA 3.0
 ---
 

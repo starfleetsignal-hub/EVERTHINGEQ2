@@ -65,8 +65,8 @@ source:
   title: White Cavalry Horse with War-barding
   url: https://eq2.fandom.com/wiki/White_Cavalry_Horse_with_War-barding
   history: https://eq2.fandom.com/wiki/White_Cavalry_Horse_with_War-barding?action=history
-  revision: 1936229
-  revised: '2026-01-02T20:54:09Z'
+  revision: 2031208
+  revised: '2026-10-07T16:33:03Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

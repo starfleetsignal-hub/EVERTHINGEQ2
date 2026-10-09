@@ -18,6 +18,7 @@ stats:
   dtype: Plate Armor
 obtained_from: From [[Malevolent Plate Greaves (Staunch, Unyielding, Resolute)|Malevolent Plate Greaves]]
 item_link: \aITEM 794073450 -483352090:Unyielding Leggings of Deathsbane\/a
+image: images/Unyielding_Leggings_of_Deathsbane_(0_Gem,_Potency).png
 categories:
 - Berserker Equipment
 - Block Chance (Equipment)
@@ -26,6 +27,7 @@ categories:
 - Crit Bonus (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Extra Parry Chance (Equipment)
 - Fabled Equipment
 - Guardian Equipment
@@ -42,8 +44,8 @@ source:
   title: Unyielding Leggings of Deathsbane (0 Gem, Potency)
   url: https://eq2.fandom.com/wiki/Unyielding_Leggings_of_Deathsbane_(0_Gem,_Potency)
   history: https://eq2.fandom.com/wiki/Unyielding_Leggings_of_Deathsbane_(0_Gem,_Potency)?action=history
-  revision: 1948799
-  revised: '2026-01-04T12:26:37Z'
+  revision: 2031033
+  revised: '2026-10-06T11:26:10Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

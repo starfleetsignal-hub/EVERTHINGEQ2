@@ -20,6 +20,7 @@ stats:
   vselemental: +8,514
 obtained_from: '*Made from [[A gold engraved key]] *Made from [[A ruby key]] *[[Gold Key of Fabled Rujark]]'
 item_link: \aITEM 450952203 -1500817443:Ring of the Deathfist Stalker\/a
+image: images/Ring_of_the_Deathfist_Stalker.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -38,6 +39,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Finger (Inventory Slot)
@@ -63,8 +65,8 @@ source:
   title: Ring of the Deathfist Stalker
   url: https://eq2.fandom.com/wiki/Ring_of_the_Deathfist_Stalker
   history: https://eq2.fandom.com/wiki/Ring_of_the_Deathfist_Stalker?action=history
-  revision: 1375881
-  revised: '2021-12-05T19:07:37Z'
+  revision: 2031508
+  revised: '2026-10-08T14:16:24Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

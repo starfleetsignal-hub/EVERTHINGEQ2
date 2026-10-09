@@ -40,8 +40,8 @@ source:
   title: Zephyrus, Colossus of Wind (Mount)
   url: https://eq2.fandom.com/wiki/Zephyrus,_Colossus_of_Wind_(Mount)
   history: https://eq2.fandom.com/wiki/Zephyrus,_Colossus_of_Wind_(Mount)?action=history
-  revision: 1936359
-  revised: '2026-01-02T21:06:03Z'
+  revision: 2031148
+  revised: '2026-10-07T04:04:09Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

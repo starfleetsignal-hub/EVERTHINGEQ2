@@ -61,8 +61,8 @@ source:
   title: Mordant Bow of Judgment
   url: https://eq2.fandom.com/wiki/Mordant_Bow_of_Judgment
   history: https://eq2.fandom.com/wiki/Mordant_Bow_of_Judgment?action=history
-  revision: 2029307
-  revised: '2026-09-15T18:08:25Z'
+  revision: 2031156
+  revised: '2026-10-07T09:21:47Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

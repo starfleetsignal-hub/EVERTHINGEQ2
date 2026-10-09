@@ -43,8 +43,8 @@ source:
   title: Umbra (Mount)
   url: https://eq2.fandom.com/wiki/Umbra_(Mount)
   history: https://eq2.fandom.com/wiki/Umbra_(Mount)?action=history
-  revision: 1935881
-  revised: '2026-01-02T20:08:43Z'
+  revision: 2031334
+  revised: '2026-10-07T22:36:11Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

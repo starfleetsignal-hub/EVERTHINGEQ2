@@ -41,8 +41,8 @@ source:
   title: Yulondo, the Steadfast (Mount)
   url: https://eq2.fandom.com/wiki/Yulondo,_the_Steadfast_(Mount)
   history: https://eq2.fandom.com/wiki/Yulondo,_the_Steadfast_(Mount)?action=history
-  revision: 1936348
-  revised: '2026-01-02T21:05:27Z'
+  revision: 2031191
+  revised: '2026-10-07T16:07:53Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

@@ -20,8 +20,8 @@ source:
   title: Unknown Thy Enemy
   url: https://eq2.fandom.com/wiki/Unknown_Thy_Enemy
   history: https://eq2.fandom.com/wiki/Unknown_Thy_Enemy?action=history
-  revision: 2013812
-  revised: '2026-06-29T00:30:14Z'
+  revision: 2031533
+  revised: '2026-10-08T16:14:38Z'
   license: CC BY-SA 3.0
 ---
 
@@ -34,7 +34,7 @@ source:
 
 ## Rewards
 
-- At least 38p 11g 01s 44c
+- At least 38p 11g 1s 44c
 - 125 [[Aethermatic Alloy]]
 - 2 [[Essence of Displacement]]
 - [[Status Token (100,000)]]

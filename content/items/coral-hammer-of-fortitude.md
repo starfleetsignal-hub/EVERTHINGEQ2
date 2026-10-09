@@ -24,6 +24,7 @@ stats:
   wtype: Mace
 obtained_from: '[[Rage of Cthurath: Sprawl Intents and Purposes]]'
 item_link: \aITEM 749140198 2069125620:Coral Hammer of Fortitude\/a
+image: images/Coral_Hammer_of_Fortitude.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -45,6 +46,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -82,8 +84,8 @@ source:
   title: Coral Hammer of Fortitude
   url: https://eq2.fandom.com/wiki/Coral_Hammer_of_Fortitude
   history: https://eq2.fandom.com/wiki/Coral_Hammer_of_Fortitude?action=history
-  revision: 2005311
-  revised: '2026-05-17T13:34:26Z'
+  revision: 2031562
+  revised: '2026-10-09T10:21:33Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

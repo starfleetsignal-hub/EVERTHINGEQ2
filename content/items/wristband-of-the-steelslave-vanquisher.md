@@ -17,6 +17,7 @@ stats:
   vselemental: +7,970
 obtained_from: '*Made from [[A sapphire key]] *Made from [[An ancient silver key]] *[[Silver Key of Fabled Rujark]]'
 item_link: \aITEM -1724224857 1488616145:Wristband of the Steelslave Vanquisher\/a
+image: images/Wristband_of_the_Steelslave_Vanquisher.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -35,6 +36,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Guardian Equipment
 - Item obtained from a Pattern
@@ -59,8 +61,8 @@ source:
   title: Wristband of the Steelslave Vanquisher
   url: https://eq2.fandom.com/wiki/Wristband_of_the_Steelslave_Vanquisher
   history: https://eq2.fandom.com/wiki/Wristband_of_the_Steelslave_Vanquisher?action=history
-  revision: 1371443
-  revised: '2021-12-05T14:46:32Z'
+  revision: 2031518
+  revised: '2026-10-08T14:41:05Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

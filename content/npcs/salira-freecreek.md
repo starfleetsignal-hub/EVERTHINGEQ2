@@ -7,21 +7,19 @@ zone: '[[The Commonlands]]'
 location: In [[The Crossroads]] at {{waypoint -526, -44, -314}}
 image: images/Salira_Freecreek.png
 categories:
-- Affected by future updates
 - Half Elf
 - NPC pages that need EQ2MAP uid
 - NPCs
 - Quest (NPC Type)
 - Shattered Lands NPCs
-- Test
 - The Commonlands NPCs
 - The Commonlands Quest NPCs
 source:
   title: Salira Freecreek
   url: https://eq2.fandom.com/wiki/Salira_Freecreek
   history: https://eq2.fandom.com/wiki/Salira_Freecreek?action=history
-  revision: 2029956
-  revised: '2026-09-18T00:19:20Z'
+  revision: 2031061
+  revised: '2026-10-06T21:27:37Z'
   license: CC BY-SA 3.0
 ---
 

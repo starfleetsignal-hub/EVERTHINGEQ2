@@ -66,11 +66,13 @@ source:
   title: Armored Bear
   url: https://eq2.fandom.com/wiki/Armored_Bear
   history: https://eq2.fandom.com/wiki/Armored_Bear?action=history
-  revision: 1928319
-  revised: '2026-01-01T15:50:52Z'
+  revision: 2030966
+  revised: '2026-10-05T19:50:48Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
 ---
 
+## Notes
 
+This can be turned into a house pet: [[Armored Bear Plushie]]

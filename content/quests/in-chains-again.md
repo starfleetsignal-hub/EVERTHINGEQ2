@@ -1,8 +1,8 @@
 ---
 title: In Chains Again
 type: quest
-expansion: Age of Discovery
-expansion_source: timeline
+expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'
@@ -10,11 +10,12 @@ timeline: '[[The City of Freeport Timeline]]'
 journal_category: The City of Freeport
 starts: Speak to [[Psellic]] at the south end of the [[Champion's Coliseum]] in [[West Freeport (POI)|West Freeport]] {{waypoint 169, -3, 20}}
 next_quest: '[[Psyching Out Psellic]]'
+added_in: Altar of Malice
 categories:
 - Aerakyn (Character Race)
+- Altar of Malice Quests
 - Quests
 - Scalable Quests
-- Shattered Lands Quests
 - Solo Quests
 - The City of Freeport Quests
 - The City of Freeport Solo Quests
@@ -22,8 +23,8 @@ source:
   title: In Chains Again
   url: https://eq2.fandom.com/wiki/In_Chains_Again
   history: https://eq2.fandom.com/wiki/In_Chains_Again?action=history
-  revision: 705875
-  revised: '2017-07-01T03:50:53Z'
+  revision: 2031589
+  revised: '2026-10-09T17:27:20Z'
   license: CC BY-SA 3.0
 ---
 

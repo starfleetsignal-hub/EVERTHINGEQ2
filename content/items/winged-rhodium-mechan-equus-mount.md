@@ -40,8 +40,8 @@ source:
   title: Winged Rhodium Mechan-equus (Mount)
   url: https://eq2.fandom.com/wiki/Winged_Rhodium_Mechan-equus_(Mount)
   history: https://eq2.fandom.com/wiki/Winged_Rhodium_Mechan-equus_(Mount)?action=history
-  revision: 2023885
-  revised: '2026-08-23T13:02:52Z'
+  revision: 2030888
+  revised: '2026-10-05T03:24:54Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

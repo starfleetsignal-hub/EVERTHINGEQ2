@@ -21,6 +21,7 @@ stats:
   dtype: Cloth Armor
 obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
 item_link: \aITEM 537024245 1461035179:Mesmerizer's Cowl\/a
+image: images/Mesmerizer's_Cowl_(Level_110).png
 categories:
 - AE Autoattack Chance (Equipment)
 - Census Credits
@@ -30,6 +31,7 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Head (Inventory Slot)
 - Illusionist Equipment
 - Item obtained from a Crate
@@ -49,8 +51,8 @@ source:
   title: Mesmerizer's Cowl (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Cowl_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Cowl_(Level_110)?action=history
-  revision: 909510
-  revised: '2018-10-27T12:53:58Z'
+  revision: 2031161
+  revised: '2026-10-07T09:33:38Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

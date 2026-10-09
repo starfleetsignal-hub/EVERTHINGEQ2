@@ -3,6 +3,7 @@ title: Cascading Force
 type: spell
 class: '[[Etherealist]]'
 spell_type: ascension
+category: DD
 icon: images/Spell_1063.png
 levels: '9'
 target: Enemy
@@ -22,16 +23,16 @@ effects: '- Inflicts X magic damage on target
   - Inflicts X magic damage on target'
 categories:
 - Census Credits
+- DD (Spell Type)
 - Etherealist Spells
-- Spell needing Category
 - Spells
 - Spells by Type Ascension
 source:
   title: Cascading Force
   url: https://eq2.fandom.com/wiki/Cascading_Force
   history: https://eq2.fandom.com/wiki/Cascading_Force?action=history
-  revision: 1853915
-  revised: '2025-01-20T05:23:21Z'
+  revision: 2031580
+  revised: '2026-10-09T16:23:57Z'
   license: CC BY-SA 3.0
 ---
 

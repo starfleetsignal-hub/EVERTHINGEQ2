@@ -2,6 +2,7 @@
 title: Zephyrus, Colossus of Wind (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_4964.png
 tier: Fabled
 item_level: '0'
@@ -12,6 +13,7 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Zephyrus, Colossus of Wind (House Item)
   url: https://eq2.fandom.com/wiki/Zephyrus,_Colossus_of_Wind_(House_Item)
   history: https://eq2.fandom.com/wiki/Zephyrus,_Colossus_of_Wind_(House_Item)?action=history
-  revision: 932859
-  revised: '2019-01-12T10:54:01Z'
+  revision: 2031147
+  revised: '2026-10-07T04:04:07Z'
   license: CC BY-SA 3.0
 ---
 

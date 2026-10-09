@@ -19,8 +19,8 @@ source:
   title: 'Siren''s Grotto: Tavalan Abyss (Advanced Solo)'
   url: https://eq2.fandom.com/wiki/Siren's_Grotto:_Tavalan_Abyss_(Advanced_Solo)
   history: https://eq2.fandom.com/wiki/Siren's_Grotto:_Tavalan_Abyss_(Advanced_Solo)?action=history
-  revision: 1876680
-  revised: '2025-05-19T10:51:07Z'
+  revision: 2031149
+  revised: '2026-10-07T05:06:12Z'
   license: CC BY-SA 3.0
 ---
 
@@ -57,9 +57,9 @@ There is another guy that will force you to not target anyone and will not allow
 ### [[Kira the Temptress]]
 
 At some point she will unleash two adds - Baraki the Abominable and Otyug the Noxious - both normally inflict crushing damage. Otyug can cast Eerie Gaze and Phosphorous Spittle.
-Kira has a Controlled Repulsion buff (?) that inflicts damage on the group. Kill the adds, then Kira.  **if your toon's base level is well above that of the zone (such as level 130) then you will need to mentor down (level 95), remove most or all of your combat buffs, and even switch to a lesser level of clothing in order to not "insta-kill" Kira in order to get the conch. If you don't get the conch, you can leave and reenter the zone to kill "Kira's Spirit" (as pointed out below) as many times as needed until you succeed in getting the chest with a conch in it. Experimentation is needed so that you don't insta-die yourself. I tried it "naked" which was a mistake.*
+Kira has a Controlled Repulsion buff (?) that inflicts damage on the group. Kill the adds, then Kira.
 
-Comment1: You can one shot everything in this dungeon if you are high level mentor to 95. Use 1 conch still open barriers to **Queen Dulseris**
+Notes:  You cannot get the chest drop with the conch shell that opens the barriers to the Queen's room if Kira cons grey.  Mentoring to 105 worked.  You might not get the drop if you insta-kill Kira.  If you don't get the conch, you can leave and reenter the zone to kill "Kira's Spirit" as many times as needed until you succeed in getting the chest with a conch in it.
 
 ### Queen Dulseris
 

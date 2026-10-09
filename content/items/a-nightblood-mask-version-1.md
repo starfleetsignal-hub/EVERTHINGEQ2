@@ -11,7 +11,10 @@ stats:
   wis: '+1'
   mit: '1'
   dtype: Cloth Armor
+obtained_from: '*[[Ghost Hunter: Antonica]] *[[Ghost Hunter: Commonlands]]'
 item_link: \aITEM 1336861036 1550873998:a nightblood mask\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -42,6 +45,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -62,11 +66,18 @@ source:
   title: A nightblood mask (Version 1)
   url: https://eq2.fandom.com/wiki/A_nightblood_mask_(Version_1)
   history: https://eq2.fandom.com/wiki/A_nightblood_mask_(Version_1)?action=history
-  revision: 945173
-  revised: '2019-03-17T23:08:25Z'
+  revision: 2030845
+  revised: '2026-10-04T02:28:42Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: level
+expansion: The Shadow Odyssey
+expansion_source: source
 ---
 
+## Notes
 
+This is one of the masks you can choose when you catch the enough ghosts to qualify for a medium prize.
+About older versions:
+
+- The old version of this mask was from the (now retired) quest, [[Trick or Treat]].
+
+![When on a Gnome, a nightblood mask is about three gnomes wide.](images/Nightbloodmask2.jpg)

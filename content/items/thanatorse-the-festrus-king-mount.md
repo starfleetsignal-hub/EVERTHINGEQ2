@@ -43,8 +43,8 @@ source:
   title: Thanatorse, the Festrus King (Mount)
   url: https://eq2.fandom.com/wiki/Thanatorse,_the_Festrus_King_(Mount)
   history: https://eq2.fandom.com/wiki/Thanatorse,_the_Festrus_King_(Mount)?action=history
-  revision: 1935109
-  revised: '2026-01-02T19:29:01Z'
+  revision: 2031413
+  revised: '2026-10-08T03:42:39Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

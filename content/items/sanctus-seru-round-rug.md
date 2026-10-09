@@ -8,7 +8,7 @@ tier: Mastercrafted
 item_level: '110'
 flags: no-value
 description: This item can be placed on the floor in any house type.
-obtained_from: 'Plundered from [[Sanctus Seru: Echelon of Order (Heroic)]] at {{waypoint -304, 90, 45}}'
+obtained_from: '*Plundered from [[Sanctus Seru: Echelon of Order (Heroic)]] at {{waypoint -304, 90, 45}} *Potential reward from daily [[Unknown Goodies (Tradeskill Daily Reward Version)|Unknown Goodies]] whilst on [[Elemental: Air Quotes]] in [[Oogothl Sprawl]].'
 item_link: \aITEM 143979818 -1736750048:Sanctus Seru Round Rug\/a
 categories:
 - Census Credits
@@ -23,8 +23,8 @@ source:
   title: Sanctus Seru Round Rug
   url: https://eq2.fandom.com/wiki/Sanctus_Seru_Round_Rug
   history: https://eq2.fandom.com/wiki/Sanctus_Seru_Round_Rug?action=history
-  revision: 1848762
-  revised: '2024-12-30T23:37:20Z'
+  revision: 2031531
+  revised: '2026-10-08T15:56:01Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: source

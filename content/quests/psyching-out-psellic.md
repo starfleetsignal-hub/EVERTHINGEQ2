@@ -1,8 +1,8 @@
 ---
 title: Psyching Out Psellic
 type: quest
-expansion: Age of Discovery
-expansion_source: timeline
+expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 difficulty: Solo
 zone: '[[The City of Freeport]]'
@@ -11,11 +11,12 @@ journal_category: The City of Freeport
 starts: Speak to [[Plex (West Freeport)|Plex]] at the south end of the [[Champion's Coliseum]] in [[West Freeport (POI)|West Freeport]] {{waypoint 169, -3, 9}}
 prerequisite: '[[In Chains Again]]'
 next_quest: '[[The Left Hand]]'
+added_in: Altar of Malice
 categories:
 - Aerakyn (Character Race)
+- Altar of Malice Quests
 - Quests
 - Scalable Quests
-- Shattered Lands Quests
 - Solo Quests
 - The City of Freeport Quests
 - The City of Freeport Solo Quests
@@ -23,8 +24,8 @@ source:
   title: Psyching Out Psellic
   url: https://eq2.fandom.com/wiki/Psyching_Out_Psellic
   history: https://eq2.fandom.com/wiki/Psyching_Out_Psellic?action=history
-  revision: 1847201
-  revised: '2024-12-23T02:39:43Z'
+  revision: 2031590
+  revised: '2026-10-09T17:28:13Z'
   license: CC BY-SA 3.0
 ---
 

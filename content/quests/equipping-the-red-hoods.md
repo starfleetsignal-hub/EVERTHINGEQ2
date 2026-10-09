@@ -11,21 +11,19 @@ journal_category: World Event
 starts: Speak with Draargas Strungbow at {{waypoint -15, -20, -2}}
 prerequisite: '[[''Round the Block and Tackle]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: Equipping the Red Hoods
   url: https://eq2.fandom.com/wiki/Equipping_the_Red_Hoods
   history: https://eq2.fandom.com/wiki/Equipping_the_Red_Hoods?action=history
-  revision: 2028791
-  revised: '2026-09-10T23:48:00Z'
+  revision: 2031070
+  revised: '2026-10-06T21:34:12Z'
   license: CC BY-SA 3.0
 ---
 

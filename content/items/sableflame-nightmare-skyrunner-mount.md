@@ -40,8 +40,8 @@ source:
   title: Sableflame Nightmare Skyrunner (Mount)
   url: https://eq2.fandom.com/wiki/Sableflame_Nightmare_Skyrunner_(Mount)
   history: https://eq2.fandom.com/wiki/Sableflame_Nightmare_Skyrunner_(Mount)?action=history
-  revision: 2023827
-  revised: '2026-08-23T12:53:37Z'
+  revision: 2030933
+  revised: '2026-10-05T04:24:14Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -42,8 +42,8 @@ source:
   title: Winged Bovoch Matriarch (Mount)
   url: https://eq2.fandom.com/wiki/Winged_Bovoch_Matriarch_(Mount)
   history: https://eq2.fandom.com/wiki/Winged_Bovoch_Matriarch_(Mount)?action=history
-  revision: 2023883
-  revised: '2026-08-23T13:02:46Z'
+  revision: 2031239
+  revised: '2026-10-07T17:53:03Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

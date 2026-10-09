@@ -40,8 +40,8 @@ source:
   title: Zhufeng, Harbinger of Mirth
   url: https://eq2.fandom.com/wiki/Zhufeng,_Harbinger_of_Mirth
   history: https://eq2.fandom.com/wiki/Zhufeng,_Harbinger_of_Mirth?action=history
-  revision: 1936362
-  revised: '2026-01-02T21:06:12Z'
+  revision: 2031146
+  revised: '2026-10-07T04:04:05Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

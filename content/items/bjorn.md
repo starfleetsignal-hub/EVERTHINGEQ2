@@ -68,9 +68,11 @@ source:
   title: Bjorn
   url: https://eq2.fandom.com/wiki/Bjorn
   history: https://eq2.fandom.com/wiki/Bjorn?action=history
-  revision: 1928493
-  revised: '2026-01-01T15:59:51Z'
+  revision: 2031124
+  revised: '2026-10-07T03:25:52Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+House Pet version: [[Bjorn, Elder of the Western Wastes]]

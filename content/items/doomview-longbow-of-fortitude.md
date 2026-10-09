@@ -26,6 +26,7 @@ stats:
   wtype: Bow
 obtained_from: '[[Writher and Yon]]'
 item_link: \aITEM -1162214313 1733035525:Doomview Longbow of Fortitude\/a
+image: images/Doomview_Longbow_of_Fortitude.jpg
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -40,6 +41,7 @@ categories:
 - Crusader Equipment
 - Dirge Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Guardian Equipment
 - Max Health (Equipment)
 - Paladin Equipment
@@ -61,8 +63,8 @@ source:
   title: Doomview Longbow of Fortitude
   url: https://eq2.fandom.com/wiki/Doomview_Longbow_of_Fortitude
   history: https://eq2.fandom.com/wiki/Doomview_Longbow_of_Fortitude?action=history
-  revision: 2005318
-  revised: '2026-05-17T13:35:09Z'
+  revision: 2031539
+  revised: '2026-10-08T16:23:10Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

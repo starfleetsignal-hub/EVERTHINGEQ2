@@ -63,8 +63,8 @@ source:
   title: Ykeshan Bear
   url: https://eq2.fandom.com/wiki/Ykeshan_Bear
   history: https://eq2.fandom.com/wiki/Ykeshan_Bear?action=history
-  revision: 1936334
-  revised: '2026-01-02T21:04:58Z'
+  revision: 2031184
+  revised: '2026-10-07T16:07:39Z'
   license: CC BY-SA 3.0
 ---
 

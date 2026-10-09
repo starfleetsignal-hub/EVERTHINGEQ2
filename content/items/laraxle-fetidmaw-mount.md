@@ -43,8 +43,8 @@ source:
   title: Laraxle Fetidmaw (Mount)
   url: https://eq2.fandom.com/wiki/Laraxle_Fetidmaw_(Mount)
   history: https://eq2.fandom.com/wiki/Laraxle_Fetidmaw_(Mount)?action=history
-  revision: 1931503
-  revised: '2026-01-01T20:36:23Z'
+  revision: 2030949
+  revised: '2026-10-05T04:49:29Z'
   license: CC BY-SA 3.0
 expansion: Scars of Destruction
 expansion_source: linked

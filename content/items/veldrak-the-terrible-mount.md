@@ -40,8 +40,8 @@ source:
   title: Veldrak the Terrible (Mount)
   url: https://eq2.fandom.com/wiki/Veldrak_the_Terrible_(Mount)
   history: https://eq2.fandom.com/wiki/Veldrak_the_Terrible_(Mount)?action=history
-  revision: 1935997
-  revised: '2026-01-02T20:13:43Z'
+  revision: 2031274
+  revised: '2026-10-07T20:13:28Z'
   license: CC BY-SA 3.0
 expansion: Chains of Eternity
 expansion_source: level

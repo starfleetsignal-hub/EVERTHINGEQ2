@@ -70,8 +70,8 @@ source:
   revision: 1773776
   revised: '2024-01-01T14:15:52Z'
   license: CC BY-SA 3.0
-expansion: Rise of Kunark
-expansion_source: level
+expansion: Shattered Lands
+expansion_source: linked
 ---
 
 

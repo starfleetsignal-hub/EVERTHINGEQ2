@@ -70,8 +70,8 @@ source:
   title: Voidspirit Unicorn (Mount)
   url: https://eq2.fandom.com/wiki/Voidspirit_Unicorn_(Mount)
   history: https://eq2.fandom.com/wiki/Voidspirit_Unicorn_(Mount)?action=history
-  revision: 1936148
-  revised: '2026-01-02T20:45:38Z'
+  revision: 2031306
+  revised: '2026-10-07T21:28:34Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

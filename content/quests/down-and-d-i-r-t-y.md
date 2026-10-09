@@ -11,12 +11,10 @@ journal_category: World Event
 starts: see how to start below
 next_quest: '[[Advancements in Devotion]]'
 categories:
-- Affected by future updates
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - The Commonlands Quests
 - The Commonlands Solo Quests
 - World Event Quests
@@ -24,8 +22,8 @@ source:
   title: Down and D.I.R.T.Y.
   url: https://eq2.fandom.com/wiki/Down_and_D.I.R.T.Y.
   history: https://eq2.fandom.com/wiki/Down_and_D.I.R.T.Y.?action=history
-  revision: 2030234
-  revised: '2026-09-22T02:38:27Z'
+  revision: 2031068
+  revised: '2026-10-06T21:32:28Z'
   license: CC BY-SA 3.0
 ---
 

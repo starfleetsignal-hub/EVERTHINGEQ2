@@ -3,6 +3,7 @@ title: Rousing Celebration
 type: spell
 class: '[[Troubador]]'
 spell_type: abilities
+category: Fun Spell
 icon: images/Spell_227.png
 levels: '20'
 cast_time: 1.0 second
@@ -11,7 +12,7 @@ duration: 10.0 seconds
 description: Plays a celebratory melody for the troubador's party.
 effects: '- Plays a celebratory melody for the troubador''s party.'
 categories:
-- Spell needing Category
+- Fun Spell (Spell Type)
 - Spells
 - Spells by Type Abilities
 - Troubador Spells
@@ -19,8 +20,8 @@ source:
   title: Rousing Celebration
   url: https://eq2.fandom.com/wiki/Rousing_Celebration
   history: https://eq2.fandom.com/wiki/Rousing_Celebration?action=history
-  revision: 2009400
-  revised: '2026-05-20T21:37:11Z'
+  revision: 2031490
+  revised: '2026-10-08T11:59:54Z'
   license: CC BY-SA 3.0
 ---
 

@@ -1,8 +1,8 @@
 ---
 title: Initiating the End
 type: quest
-expansion: Age of Discovery
-expansion_source: timeline
+expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[The City of Qeynos Timeline]]'
@@ -10,20 +10,21 @@ journal_category: The House of Endings
 starts: Find [[Lonce Jellysmots]] at {{waypoint 339, -22, -180}}
 prerequisite: '[[For the Lonce]]'
 next_quest: '[[The Next World]]'
+added_in: Altar of Malice
 categories:
+- Altar of Malice Quests
 - Qeynos Capitol District Quests
 - Qeynos Capitol District Solo Quests
 - Quests
 - Scalable Quests
-- Shattered Lands Quests
 - Solo Quests
 - The House of Endings Quests
 source:
   title: Initiating the End
   url: https://eq2.fandom.com/wiki/Initiating_the_End
   history: https://eq2.fandom.com/wiki/Initiating_the_End?action=history
-  revision: 1951228
-  revised: '2026-01-06T22:01:55Z'
+  revision: 2031587
+  revised: '2026-10-09T17:25:26Z'
   license: CC BY-SA 3.0
 ---
 

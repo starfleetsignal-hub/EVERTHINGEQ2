@@ -21,6 +21,7 @@ stats:
   dtype: Cloth Armor
 obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
 item_link: \aITEM 2062148579 -567487103:Mesmerizer's Pants\/a
+image: images/Mesmerizer's_Pants_(Level_110).png
 categories:
 - Ability Modifier (Equipment)
 - Casting Speed (Equipment)
@@ -31,6 +32,7 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Illusionist Equipment
 - Item obtained from a Crate
 - Legendary Equipment
@@ -49,8 +51,8 @@ source:
   title: Mesmerizer's Pants (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Pants_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Pants_(Level_110)?action=history
-  revision: 909517
-  revised: '2018-10-27T12:54:13Z'
+  revision: 2031167
+  revised: '2026-10-07T09:55:53Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

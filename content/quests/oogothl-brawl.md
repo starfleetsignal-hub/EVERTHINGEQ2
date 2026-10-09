@@ -20,8 +20,8 @@ source:
   title: Oogothl Brawl
   url: https://eq2.fandom.com/wiki/Oogothl_Brawl
   history: https://eq2.fandom.com/wiki/Oogothl_Brawl?action=history
-  revision: 2013811
-  revised: '2026-06-29T00:27:09Z'
+  revision: 2031534
+  revised: '2026-10-08T16:16:32Z'
   license: CC BY-SA 3.0
 ---
 
@@ -31,7 +31,7 @@ source:
 
 ## Rewards
 
-- At least 38p 11g 01s 44c
+- At least 38p 11g 1s 44c
 - 125 [[Aethermatic Alloy]]
 - 2 [[Essence of Displacement]]
 - [[Status Token (100,000)]]

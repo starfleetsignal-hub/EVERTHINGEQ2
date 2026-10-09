@@ -40,8 +40,8 @@ source:
   title: Tishan's Putrescent Nullfang
   url: https://eq2.fandom.com/wiki/Tishan's_Putrescent_Nullfang
   history: https://eq2.fandom.com/wiki/Tishan's_Putrescent_Nullfang?action=history
-  revision: 1935354
-  revised: '2026-01-02T19:44:36Z'
+  revision: 2031449
+  revised: '2026-10-08T04:24:56Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: linked

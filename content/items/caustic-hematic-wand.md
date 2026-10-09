@@ -21,6 +21,7 @@ stats:
   dtype: ranged
   wtype: Focus
 item_link: \aITEM -770824479 526839580:Caustic Hematic Wand\/a
+image: images/Caustic_Hematic_Wand.png
 categories:
 - Ability Modifier (Equipment)
 - Casting Speed (Equipment)
@@ -35,6 +36,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Focus (Weapon Type)
 - Fury Equipment
@@ -60,8 +62,8 @@ source:
   title: Caustic Hematic Wand
   url: https://eq2.fandom.com/wiki/Caustic_Hematic_Wand
   history: https://eq2.fandom.com/wiki/Caustic_Hematic_Wand?action=history
-  revision: 1979814
-  revised: '2026-02-13T09:43:29Z'
+  revision: 2031046
+  revised: '2026-10-06T15:35:20Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: linked

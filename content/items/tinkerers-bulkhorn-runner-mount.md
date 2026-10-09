@@ -68,8 +68,8 @@ source:
   title: Tinkerer's Bulkhorn Runner (Mount)
   url: https://eq2.fandom.com/wiki/Tinkerer's_Bulkhorn_Runner_(Mount)
   history: https://eq2.fandom.com/wiki/Tinkerer's_Bulkhorn_Runner_(Mount)?action=history
-  revision: 1935336
-  revised: '2026-01-02T19:43:26Z'
+  revision: 2031433
+  revised: '2026-10-08T04:08:27Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

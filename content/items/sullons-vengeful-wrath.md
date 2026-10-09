@@ -25,6 +25,7 @@ stats:
   wtype: Axe
 effect_name: Wrath, Vengeance
 effects: "- When Equipped:\n  - On a melee hit this spell may cast Ferocity on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Crit Bonus of caster by 15.0.\n    - Cannot be modified except by direct means\n- When Equipped:\n  - On a melee hit this spell may cast Rage on caster.  Lasts for 15.0 seconds.  Triggers about 2.2 times per minute.\n    - Increases Potency of caster by 15.0.\n    - Cannot be modified except by direct means"
+obtained_from: merging the three parts of sullon's weapon that can be obtained in sullon's raids
 item_link: \aITEM 1575688236 -1742952125 0 0 0:Sullon's Vengeful Wrath\/a
 image: images/Sullon's_Vengeful_Wrath_Beastlord_Brawler.png
 aliases:
@@ -83,8 +84,8 @@ source:
   title: Sullon's Vengeful Wrath
   url: https://eq2.fandom.com/wiki/Sullon's_Vengeful_Wrath
   history: https://eq2.fandom.com/wiki/Sullon's_Vengeful_Wrath?action=history
-  revision: 1904726
-  revised: '2025-09-18T22:49:26Z'
+  revision: 2030962
+  revised: '2026-10-05T09:58:23Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

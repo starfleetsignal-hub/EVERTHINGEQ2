@@ -5,10 +5,10 @@ expansion: Destiny of Velious
 expansion_source: patch
 level: '98'
 difficulty: Epic
-zone: '[[Tower of Frozen Shadow]]'
+zone: '[[Tower of Frozen Shadow: Shadowed Corridors]]'
 timeline: '[[Tower of Frozen Shadow Timeline]]'
 journal_category: Signature
-starts: Speak with [[Colonel Brewbeard]] inside [[Tower of Frozen Shadow]]
+starts: 'Speak with Colonel Brewbeard inside [[Tower of Frozen Shadow: Shadowed Corridors]]'
 prerequisite: '[[Coldain Hero''s Insignia Ring]]'
 next_quest: '[[Ring of Dain Frostreaver VI]]'
 added_in: Destiny of Velious
@@ -21,17 +21,18 @@ categories:
 - Epic Quests
 - Quests
 - Signature Quests
+- Subpage Redlinks
 - Tier 10 Epic Quests
 - Tier 10 Quests
-- Tower of Frozen Shadow AA Quests
-- Tower of Frozen Shadow Epic Quests
-- Tower of Frozen Shadow Quests
+- 'Tower of Frozen Shadow: Shadowed Corridors AA Quests'
+- 'Tower of Frozen Shadow: Shadowed Corridors Epic Quests'
+- 'Tower of Frozen Shadow: Shadowed Corridors Quests'
 source:
   title: Casting a Long Shadow
   url: https://eq2.fandom.com/wiki/Casting_a_Long_Shadow
   history: https://eq2.fandom.com/wiki/Casting_a_Long_Shadow?action=history
-  revision: 1789603
-  revised: '2024-04-01T01:57:47Z'
+  revision: 2031016
+  revised: '2026-10-06T07:24:17Z'
   license: CC BY-SA 3.0
 ---
 

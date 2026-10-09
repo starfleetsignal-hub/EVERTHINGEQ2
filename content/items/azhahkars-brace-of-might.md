@@ -17,6 +17,7 @@ stats:
   vselemental: +8,514
 obtained_from: '*Made from [[A gold engraved key]] *Made from [[A ruby key]] *[[Gold Key of Fabled Rujark]]'
 item_link: \aITEM -449495045 808168887:Azhahkar's Brace of Might\/a
+image: images/Azhahkar's_Brace_of_Might.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -35,6 +36,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Guardian Equipment
@@ -59,8 +61,8 @@ source:
   title: Azhahkar's Brace of Might
   url: https://eq2.fandom.com/wiki/Azhahkar's_Brace_of_Might
   history: https://eq2.fandom.com/wiki/Azhahkar's_Brace_of_Might?action=history
-  revision: 1374180
-  revised: '2021-12-05T17:52:20Z'
+  revision: 2031506
+  revised: '2026-10-08T14:16:04Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

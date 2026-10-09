@@ -22,6 +22,7 @@ stats:
   dtype: Cloth Armor
 obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
 item_link: \aITEM 498037862 -237383967:Mesmerizer's Robe\/a
+image: images/Mesmerizer's_Robe_(Level_110).png
 categories:
 - Attack Speed (Equipment)
 - Census Credits
@@ -32,6 +33,7 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Illusionist Equipment
 - Item obtained from a Crate
 - Legendary Equipment
@@ -50,8 +52,8 @@ source:
   title: Mesmerizer's Robe (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Robe_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Robe_(Level_110)?action=history
-  revision: 909518
-  revised: '2018-10-27T12:54:15Z'
+  revision: 2031164
+  revised: '2026-10-07T09:38:56Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

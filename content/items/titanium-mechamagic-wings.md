@@ -42,8 +42,8 @@ source:
   title: Titanium Mechamagic Wings
   url: https://eq2.fandom.com/wiki/Titanium_Mechamagic_Wings
   history: https://eq2.fandom.com/wiki/Titanium_Mechamagic_Wings?action=history
-  revision: 2023867
-  revised: '2026-08-23T12:59:26Z'
+  revision: 2031459
+  revised: '2026-10-08T04:33:04Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

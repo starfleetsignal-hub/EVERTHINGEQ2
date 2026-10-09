@@ -40,8 +40,8 @@ source:
   title: Vert Carpet of the Plundering Horde (Mount)
   url: https://eq2.fandom.com/wiki/Vert_Carpet_of_the_Plundering_Horde_(Mount)
   history: https://eq2.fandom.com/wiki/Vert_Carpet_of_the_Plundering_Horde_(Mount)?action=history
-  revision: 1936014
-  revised: '2026-01-02T20:14:38Z'
+  revision: 2031280
+  revised: '2026-10-07T20:50:03Z'
   license: CC BY-SA 3.0
 expansion: Visions of Vetrovia
 expansion_source: level

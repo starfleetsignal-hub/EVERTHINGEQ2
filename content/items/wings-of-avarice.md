@@ -43,8 +43,8 @@ source:
   title: Wings of Avarice
   url: https://eq2.fandom.com/wiki/Wings_of_Avarice
   history: https://eq2.fandom.com/wiki/Wings_of_Avarice?action=history
-  revision: 1936262
-  revised: '2026-01-02T20:56:13Z'
+  revision: 2031246
+  revised: '2026-10-07T18:05:33Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

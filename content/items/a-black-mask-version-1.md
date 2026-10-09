@@ -12,7 +12,10 @@ stats:
   agi: '+1'
   mit: '1'
   dtype: Cloth Armor
+obtained_from: '*[[Ghost Hunter: Antonica]] *[[Ghost Hunter: Commonlands]]'
 item_link: \aITEM 615161074 -2050880975:a black mask\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -43,6 +46,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -63,11 +67,18 @@ source:
   title: A black mask (Version 1)
   url: https://eq2.fandom.com/wiki/A_black_mask_(Version_1)
   history: https://eq2.fandom.com/wiki/A_black_mask_(Version_1)?action=history
-  revision: 945160
-  revised: '2019-03-17T23:07:59Z'
+  revision: 2030849
+  revised: '2026-10-04T02:37:24Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: level
+expansion: The Shadow Odyssey
+expansion_source: source
 ---
 
+## Notes
 
+This is one of the masks you can choose when you catch the when you qualify for a medium prize.
+About older versions:
+
+- The old version of this mask was from the (now retired) quest, [[Trick or Treat]].
+
+![A black mask does not hide glasses.](images/A_black_mask_2.JPG)

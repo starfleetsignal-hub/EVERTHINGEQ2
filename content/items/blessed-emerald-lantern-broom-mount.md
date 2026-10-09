@@ -39,8 +39,8 @@ source:
   title: Blessed Emerald Lantern Broom (Mount)
   url: https://eq2.fandom.com/wiki/Blessed_Emerald_Lantern_Broom_(Mount)
   history: https://eq2.fandom.com/wiki/Blessed_Emerald_Lantern_Broom_(Mount)?action=history
-  revision: 2014948
-  revised: '2026-07-05T11:36:15Z'
+  revision: 2030896
+  revised: '2026-10-05T03:36:05Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

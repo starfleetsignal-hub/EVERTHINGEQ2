@@ -18,6 +18,7 @@ stats:
   dtype: Plate Armor
 obtained_from: From [[Malevolent Plate Greaves (Staunch, Unyielding, Resolute)|Malevolent Plate Greaves]]
 item_link: \aITEM -948063915 -1037115032:Resolute Cuisse of Hate\/a
+image: images/Resolute_Cuisse_of_Hate_(0_Gem).png
 categories:
 - Ability Modifier (Equipment)
 - Berserker Equipment
@@ -26,6 +27,7 @@ categories:
 - Crit Bonus (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Guardian Equipment
 - Inquisitor Equipment
@@ -43,8 +45,8 @@ source:
   title: Resolute Cuisse of Hate (0 Gem)
   url: https://eq2.fandom.com/wiki/Resolute_Cuisse_of_Hate_(0_Gem)
   history: https://eq2.fandom.com/wiki/Resolute_Cuisse_of_Hate_(0_Gem)?action=history
-  revision: 1946190
-  revised: '2026-01-04T10:40:43Z'
+  revision: 2031036
+  revised: '2026-10-06T11:26:43Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

@@ -11,12 +11,10 @@ journal_category: World Event
 starts: see how to start below
 next_quest: '[[Revelations in Devotion]]'
 categories:
-- Affected by future updates
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - The Commonlands Quests
 - The Commonlands Solo Quests
 - World Event Quests
@@ -24,8 +22,8 @@ source:
   title: Artifacts or Fiction
   url: https://eq2.fandom.com/wiki/Artifacts_or_Fiction
   history: https://eq2.fandom.com/wiki/Artifacts_or_Fiction?action=history
-  revision: 2029826
-  revised: '2026-09-17T02:02:05Z'
+  revision: 2031062
+  revised: '2026-10-06T21:28:47Z'
   license: CC BY-SA 3.0
 ---
 
@@ -33,7 +31,7 @@ source:
 
 - **This is the adventure way of starting prelude event.** Right at the first conversation you have to choose if you want to go the crafting way, or the adventure way.
 - Speak with [[Salira Freecreek]] in The Commonlands at Crossroads {{waypoint -526, -44, -314}}
-- when given choice of answers choose the first option: "I'll take up the investigation to the southeast."
+- when given choice of answers choose the option: "I'll take up the investigation to the southeast."
 
 ## Notes
 

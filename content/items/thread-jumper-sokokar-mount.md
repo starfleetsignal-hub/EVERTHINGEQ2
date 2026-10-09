@@ -42,8 +42,8 @@ source:
   title: Thread Jumper Sokokar (Mount)
   url: https://eq2.fandom.com/wiki/Thread_Jumper_Sokokar_(Mount)
   history: https://eq2.fandom.com/wiki/Thread_Jumper_Sokokar_(Mount)?action=history
-  revision: 1935282
-  revised: '2026-01-02T19:40:30Z'
+  revision: 2031417
+  revised: '2026-10-08T03:42:57Z'
   license: CC BY-SA 3.0
 expansion: Chains of Eternity
 expansion_source: level

@@ -2,6 +2,7 @@
 title: Void Ember Flying Carpet (House Item)
 type: item
 item_kind: House Item
+item_subtype: Rug
 icon: images/Item_4047.png
 tier: Treasured
 item_level: '0'
@@ -12,13 +13,14 @@ categories:
 - Census Credits
 - House Item (Item Type)
 - Items
+- Rug (Item Subtype)
 - Treasured Items
 source:
   title: Void Ember Flying Carpet (House Item)
   url: https://eq2.fandom.com/wiki/Void_Ember_Flying_Carpet_(House_Item)
   history: https://eq2.fandom.com/wiki/Void_Ember_Flying_Carpet_(House_Item)?action=history
-  revision: 1725432
-  revised: '2023-05-24T19:59:44Z'
+  revision: 2031303
+  revised: '2026-10-07T21:28:18Z'
   license: CC BY-SA 3.0
 ---
 

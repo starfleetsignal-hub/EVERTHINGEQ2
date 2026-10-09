@@ -8,17 +8,15 @@ previous_timeline: '[[Rage of Cthurath Timeline]]'
 aliases:
 - Prelude to Paths of Sedition Timeline
 categories:
-- Affected by future updates
 - Shattered Lands Timelines
 - Solo Timelines
-- Test
 - Timelines
 source:
   title: Prelude Paths of Sedition Timeline
   url: https://eq2.fandom.com/wiki/Prelude_Paths_of_Sedition_Timeline
   history: https://eq2.fandom.com/wiki/Prelude_Paths_of_Sedition_Timeline?action=history
-  revision: 2030701
-  revised: '2026-10-01T04:09:14Z'
+  revision: 2031076
+  revised: '2026-10-06T21:42:37Z'
   license: CC BY-SA 3.0
 ---
 
@@ -89,7 +87,7 @@ After finishing main crafting series you can continue to complete repeatable que
 
 ## Achievements
 
-- [[Paths of Sedition (Achievement)]] Follow the clues and tread the Paths of Sedition to complete  "Operation: Faith Shaker". Rewards [[Basalt Rock Gnasher]] familiar.
+- [[Paths of Sedition (Achievement)|Paths of Sedition]] Follow the clues and tread the Paths of Sedition to complete  "Operation: Faith Shaker". Rewards [[Basalt Rock Gnasher]] familiar.
 
 ## Collection
 

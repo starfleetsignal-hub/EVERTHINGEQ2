@@ -17,6 +17,7 @@ stats:
   dtype: Plate Armor
 obtained_from: From [[Malevolent Plate Greaves (Staunch, Unyielding, Resolute)|Malevolent Plate Greaves]]
 item_link: \aITEM 1188194989 -1485052618:Staunch Legguards of Rancor\/a
+image: images/Staunch_Legguards_of_Rancor_(0_Gem).png
 categories:
 - AE Autoattack Chance (Equipment)
 - Berserker Equipment
@@ -26,6 +27,7 @@ categories:
 - Crusader Equipment
 - DPS (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Guardian Equipment
 - Inquisitor Equipment
@@ -42,8 +44,8 @@ source:
   title: Staunch Legguards of Rancor (0 Gem)
   url: https://eq2.fandom.com/wiki/Staunch_Legguards_of_Rancor_(0_Gem)
   history: https://eq2.fandom.com/wiki/Staunch_Legguards_of_Rancor_(0_Gem)?action=history
-  revision: 1947584
-  revised: '2026-01-04T11:36:36Z'
+  revision: 2031038
+  revised: '2026-10-06T11:27:19Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

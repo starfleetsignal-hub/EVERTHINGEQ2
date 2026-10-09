@@ -25,8 +25,8 @@ source:
   title: Gold Key of Fabled Rujark
   url: https://eq2.fandom.com/wiki/Gold_Key_of_Fabled_Rujark
   history: https://eq2.fandom.com/wiki/Gold_Key_of_Fabled_Rujark?action=history
-  revision: 2030812
-  revised: '2026-10-03T07:04:59Z'
+  revision: 2031496
+  revised: '2026-10-08T14:02:19Z'
   license: CC BY-SA 3.0
 expansion: Chains of Eternity
 expansion_source: patch
@@ -40,15 +40,15 @@ Open the fabled golden chest {{waypoint 2.83, 10.25, -222.35}} in [[The Treasure
 
 - At least 6p
 - One of the Following:
-  - [[Gatecaller's Emerald Stud]]
-  - [[Band of the Undefeated Orc]]
-  - [[Azhahkar's Brace of Might]]
-  - [[Shrakt's Earring of Control]]
-  - [[Nihx's Ring of Necromantic Energy]]
-  - [[Gak's Wristband of Gore]]
-  - [[Heart of the Clefts]]
-  - [[Gorakhul's band of Annihilation]]
-  - [[Badge of the Slaver]]
-  - [[Blademaster's Stud]]
-  - [[Ring of the Deathfist Stalker]]
-  - [[Bracelet of Daring Strategy]]
+  - [[Gatecaller's Emerald Stud]] - All Fighters; All Scouts
+  - [[Band of the Undefeated Orc]] - All Fighters; All Scouts
+  - [[Azhahkar's Brace of Might]] - All Fighters; All Scouts
+  - [[Shrakt's Earring of Control]] - All Priests; All Mages
+  - [[Nihx's Ring of Necromantic Energy]] - All Priests; All Mages
+  - [[Gak's Wristband of Gore]] - All Priests; All Mages
+  - [[Heart of the Clefts]] - All Priests; All Mages
+  - [[Gorakhul's band of Annihilation]] - All Priests; All Mages
+  - [[Badge of the Slaver]] - All Priests; All Mages
+  - [[Blademaster's Stud]] - All Fighters; All Scouts
+  - [[Ring of the Deathfist Stalker]] - All Fighters; All Scouts
+  - [[Bracelet of Daring Strategy]] - All Fighters; All Scouts

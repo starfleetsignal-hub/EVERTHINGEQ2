@@ -40,8 +40,8 @@ source:
   title: Winged Platinum Mechan-equus (Mount)
   url: https://eq2.fandom.com/wiki/Winged_Platinum_Mechan-equus_(Mount)
   history: https://eq2.fandom.com/wiki/Winged_Platinum_Mechan-equus_(Mount)?action=history
-  revision: 2023884
-  revised: '2026-08-23T13:02:49Z'
+  revision: 2030891
+  revised: '2026-10-05T03:29:13Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

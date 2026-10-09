@@ -20,9 +20,11 @@ source:
   title: Summon Arcane Prowler Kitten
   url: https://eq2.fandom.com/wiki/Summon_Arcane_Prowler_Kitten
   history: https://eq2.fandom.com/wiki/Summon_Arcane_Prowler_Kitten?action=history
-  revision: 2021940
-  revised: '2026-08-12T03:22:38Z'
+  revision: 2031307
+  revised: '2026-10-07T22:01:47Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+From the Spell Scroll [[Arcane Prowler Kitten]]

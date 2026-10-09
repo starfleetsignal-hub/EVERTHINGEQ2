@@ -2,6 +2,7 @@
 title: Bearded Frost Rhino (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_105.png
 tier: Treasured
 item_level: '0'
@@ -11,6 +12,7 @@ item_link: \aITEM 1857516589 272386122:Bearded Frost Rhino\/a
 categories:
 - Census Credits
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Bearded Frost Rhino (House Item)
   url: https://eq2.fandom.com/wiki/Bearded_Frost_Rhino_(House_Item)
   history: https://eq2.fandom.com/wiki/Bearded_Frost_Rhino_(House_Item)?action=history
-  revision: 1691476
-  revised: '2023-03-16T17:35:04Z'
+  revision: 2031097
+  revised: '2026-10-07T02:55:21Z'
   license: CC BY-SA 3.0
 ---
 

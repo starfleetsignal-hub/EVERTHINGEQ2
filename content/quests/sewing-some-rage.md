@@ -11,21 +11,19 @@ journal_category: World Event
 starts: Speak with Amahild Duskweft at {{waypoint -6, -13, 15}}
 prerequisite: '[[''Round the Block and Tackle]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: Sewing Some Rage
   url: https://eq2.fandom.com/wiki/Sewing_Some_Rage
   history: https://eq2.fandom.com/wiki/Sewing_Some_Rage?action=history
-  revision: 2028793
-  revised: '2026-09-10T23:48:52Z'
+  revision: 2031073
+  revised: '2026-10-06T21:35:15Z'
   license: CC BY-SA 3.0
 ---
 

@@ -42,8 +42,8 @@ source:
   title: Tinkerer's Cobalt Flappers
   url: https://eq2.fandom.com/wiki/Tinkerer's_Cobalt_Flappers
   history: https://eq2.fandom.com/wiki/Tinkerer's_Cobalt_Flappers?action=history
-  revision: 2023863
-  revised: '2026-08-23T12:59:12Z'
+  revision: 2031435
+  revised: '2026-10-08T04:08:40Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

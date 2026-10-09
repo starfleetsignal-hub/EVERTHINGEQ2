@@ -64,8 +64,8 @@ source:
   title: Ykeshan Spellbear with Silvered Red Armor
   url: https://eq2.fandom.com/wiki/Ykeshan_Spellbear_with_Silvered_Red_Armor
   history: https://eq2.fandom.com/wiki/Ykeshan_Spellbear_with_Silvered_Red_Armor?action=history
-  revision: 1936337
-  revised: '2026-01-02T21:05:05Z'
+  revision: 2031187
+  revised: '2026-10-07T16:07:45Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

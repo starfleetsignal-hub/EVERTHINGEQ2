@@ -15,16 +15,17 @@ description: When the ground becomes sodden with rain and gives way, nothing in 
 effects: "- Applies Mudslide.  Lasts for 2.0 seconds.\n  - Stuns target\n  - This stun will apply to most raid encounters. Raid encounters become immune to further applications of stun for ten times the duration of the original application.\n- Inflicts X crushing damage on target."
 categories:
 - Census Credits
+- DD (Spell Type)
 - Geomancer Spells
-- Spell needing Category
+- Proc (Spell Type)
 - Spells
 - Spells by Type Ascension
 source:
   title: Mudslide
   url: https://eq2.fandom.com/wiki/Mudslide
   history: https://eq2.fandom.com/wiki/Mudslide?action=history
-  revision: 1854265
-  revised: '2025-01-21T04:20:19Z'
+  revision: 2031150
+  revised: '2026-10-07T08:06:44Z'
   license: CC BY-SA 3.0
 ---
 

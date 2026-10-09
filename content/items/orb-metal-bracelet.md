@@ -20,6 +20,7 @@ stats:
   vselemental: +149,330
 obtained_from: 'Collection reward: [[Mons Letalis Artifacts]]'
 item_link: \aITEM -638090952 1203478015:Orb Metal Bracelet\/a
+image: images/Orb_Metal_Bracelet.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -46,6 +47,7 @@ categories:
 - Elemental Resistance (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -82,8 +84,8 @@ source:
   title: Orb Metal Bracelet
   url: https://eq2.fandom.com/wiki/Orb_Metal_Bracelet
   history: https://eq2.fandom.com/wiki/Orb_Metal_Bracelet?action=history
-  revision: 1218775
-  revised: '2021-01-07T12:27:40Z'
+  revision: 2031523
+  revised: '2026-10-08T14:47:51Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: source

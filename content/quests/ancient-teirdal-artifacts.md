@@ -3,7 +3,7 @@ title: Ancient Teir'Dal Artifacts
 type: quest
 level: '20'
 zone: '[[Den of Seditious Daenethians]]'
-collection_type: Pages
+collection_type: Purple
 pieces:
 - name: King Thex Brooch
 - name: Gemmed Teir'Dal Pommel
@@ -26,8 +26,8 @@ source:
   title: Ancient Teir'Dal Artifacts
   url: https://eq2.fandom.com/wiki/Ancient_Teir'Dal_Artifacts
   history: https://eq2.fandom.com/wiki/Ancient_Teir'Dal_Artifacts?action=history
-  revision: 2030521
-  revised: '2026-09-27T20:27:50Z'
+  revision: 2031075
+  revised: '2026-10-06T21:41:13Z'
   license: CC BY-SA 3.0
 ---
 

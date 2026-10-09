@@ -53,6 +53,7 @@ categories:
 - Rogue Equipment
 - Shadowknight Equipment
 - Shaman Equipment
+- Shard of Hate Dropped Items
 - Sorcerer Equipment
 - Summoner Equipment
 - Swashbuckler Equipment
@@ -68,11 +69,20 @@ source:
   title: Zhoul (Mount)
   url: https://eq2.fandom.com/wiki/Zhoul_(Mount)
   history: https://eq2.fandom.com/wiki/Zhoul_(Mount)?action=history
-  revision: 1936361
-  revised: '2026-01-02T21:06:09Z'
+  revision: 2031133
+  revised: '2026-10-07T03:53:54Z'
   license: CC BY-SA 3.0
 expansion: Echoes of Faydwer
 expansion_source: level
 ---
 
+## Notes
 
+This item is a tongue-in-cheek reference to the movie [Ghostbusters](http://en.wikipedia.org/wiki/Ghostbusters):
+
+> Dana Barrett: [reading from a printout] "Zuul was the minion of Gozer." What's Gozer?<br>
+> Dr. Peter Venkman: Gozer was very big in Sumeria.<br>
+> Dana Barrett: Well, what's he doing in my ice box?<br>
+> Dr. Peter Venkman: I'm working on that.
+>
+> — *Ghostbusters*, 1984

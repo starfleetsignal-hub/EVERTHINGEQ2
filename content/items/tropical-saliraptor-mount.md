@@ -43,8 +43,8 @@ source:
   title: Tropical Saliraptor (Mount)
   url: https://eq2.fandom.com/wiki/Tropical_Saliraptor_(Mount)
   history: https://eq2.fandom.com/wiki/Tropical_Saliraptor_(Mount)?action=history
-  revision: 1935812
-  revised: '2026-01-02T20:05:07Z'
+  revision: 2031461
+  revised: '2026-10-08T04:52:37Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

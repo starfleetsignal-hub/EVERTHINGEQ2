@@ -20,11 +20,13 @@ source:
   title: Armored Bear Plushie
   url: https://eq2.fandom.com/wiki/Armored_Bear_Plushie
   history: https://eq2.fandom.com/wiki/Armored_Bear_Plushie?action=history
-  revision: 1862771
-  revised: '2025-02-27T23:02:07Z'
+  revision: 2030965
+  revised: '2026-10-05T19:50:45Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source
 ---
 
+## Notes
 
+This turns into a Ground Mount: [[Armored Bear]]

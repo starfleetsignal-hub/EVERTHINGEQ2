@@ -40,8 +40,8 @@ source:
   title: Virindoon, Engineered Gyro-Galloper
   url: https://eq2.fandom.com/wiki/Virindoon,_Engineered_Gyro-Galloper
   history: https://eq2.fandom.com/wiki/Virindoon,_Engineered_Gyro-Galloper?action=history
-  revision: 1936048
-  revised: '2026-01-02T20:40:23Z'
+  revision: 2031305
+  revised: '2026-10-07T21:28:22Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

@@ -2,6 +2,7 @@
 title: Umbra (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_5083.png
 tier: Fabled
 item_level: '0'
@@ -12,6 +13,7 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Umbra (House Item)
   url: https://eq2.fandom.com/wiki/Umbra_(House_Item)
   history: https://eq2.fandom.com/wiki/Umbra_(House_Item)?action=history
-  revision: 1010250
-  revised: '2019-12-29T01:29:48Z'
+  revision: 2031333
+  revised: '2026-10-07T22:36:09Z'
   license: CC BY-SA 3.0
 ---
 

@@ -28,8 +28,8 @@ source:
   title: Altar of Malice - The Nebulous Newsies
   url: https://eq2.fandom.com/wiki/Altar_of_Malice_-_The_Nebulous_Newsies
   history: https://eq2.fandom.com/wiki/Altar_of_Malice_-_The_Nebulous_Newsies?action=history
-  revision: 1878163
-  revised: '2025-06-19T23:12:59Z'
+  revision: 2030868
+  revised: '2026-10-04T08:04:16Z'
   license: CC BY-SA 3.0
 ---
 
@@ -92,3 +92,4 @@ source:
   - 2p 4g 11s 80c 4,165,333 status @ lvl 120
   - 2p 4g 11s 80c 4,047,999 status @ lvl 125
   - 2p 4g 11s 80c 3,939,692 status @ lvl 130
+  - 2p 4g 11s 80c 3,839,407 status @ lvl 135

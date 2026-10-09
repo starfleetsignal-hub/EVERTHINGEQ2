@@ -45,8 +45,8 @@ source:
   title: Veteran Coldain Pegasus
   url: https://eq2.fandom.com/wiki/Veteran_Coldain_Pegasus
   history: https://eq2.fandom.com/wiki/Veteran_Coldain_Pegasus?action=history
-  revision: 1936015
-  revised: '2026-01-02T20:14:40Z'
+  revision: 2031288
+  revised: '2026-10-07T21:07:51Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

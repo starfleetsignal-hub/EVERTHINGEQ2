@@ -20,6 +20,7 @@ stats:
   dtype: Cloth Armor
 obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
 item_link: \aITEM -1492593504 -710208145:Mesmerizer's Mantle\/a
+image: images/Mesmerizer's_Mantle_(Level_110).png
 categories:
 - Ability Modifier (Equipment)
 - Casting Speed (Equipment)
@@ -30,6 +31,7 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Illusionist Equipment
 - Item obtained from a Crate
 - Legendary Equipment
@@ -48,8 +50,8 @@ source:
   title: Mesmerizer's Mantle (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Mantle_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Mantle_(Level_110)?action=history
-  revision: 909516
-  revised: '2018-10-27T12:54:11Z'
+  revision: 2031485
+  revised: '2026-10-08T11:36:45Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

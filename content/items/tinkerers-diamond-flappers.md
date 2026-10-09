@@ -42,8 +42,8 @@ source:
   title: Tinkerer's Diamond Flappers
   url: https://eq2.fandom.com/wiki/Tinkerer's_Diamond_Flappers
   history: https://eq2.fandom.com/wiki/Tinkerer's_Diamond_Flappers?action=history
-  revision: 2023865
-  revised: '2026-08-23T12:59:19Z'
+  revision: 2031440
+  revised: '2026-10-08T04:15:18Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

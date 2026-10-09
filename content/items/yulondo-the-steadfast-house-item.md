@@ -2,6 +2,7 @@
 title: Yulondo, the Steadfast (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_4018.png
 tier: Fabled
 item_level: '0'
@@ -12,13 +13,14 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 source:
   title: Yulondo, the Steadfast (House Item)
   url: https://eq2.fandom.com/wiki/Yulondo,_the_Steadfast_(House_Item)
   history: https://eq2.fandom.com/wiki/Yulondo,_the_Steadfast_(House_Item)?action=history
-  revision: 1391571
-  revised: '2021-12-25T15:30:58Z'
+  revision: 2031192
+  revised: '2026-10-07T16:07:55Z'
   license: CC BY-SA 3.0
 ---
 

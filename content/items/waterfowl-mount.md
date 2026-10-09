@@ -42,8 +42,8 @@ source:
   title: Waterfowl (Mount)
   url: https://eq2.fandom.com/wiki/Waterfowl_(Mount)
   history: https://eq2.fandom.com/wiki/Waterfowl_(Mount)?action=history
-  revision: 2023878
-  revised: '2026-08-23T13:02:33Z'
+  revision: 2031206
+  revised: '2026-10-07T16:32:59Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

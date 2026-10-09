@@ -42,8 +42,8 @@ source:
   title: Violet Nightmare Pegasus (Mount)
   url: https://eq2.fandom.com/wiki/Violet_Nightmare_Pegasus_(Mount)
   history: https://eq2.fandom.com/wiki/Violet_Nightmare_Pegasus_(Mount)?action=history
-  revision: 2023874
-  revised: '2026-08-23T13:01:34Z'
+  revision: 2031291
+  revised: '2026-10-07T21:07:57Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

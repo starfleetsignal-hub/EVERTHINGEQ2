@@ -67,8 +67,8 @@ source:
   title: Battlehardened Fire Warg (melee)
   url: https://eq2.fandom.com/wiki/Battlehardened_Fire_Warg_(melee)
   history: https://eq2.fandom.com/wiki/Battlehardened_Fire_Warg_(melee)?action=history
-  revision: 1928459
-  revised: '2026-01-01T15:57:05Z'
+  revision: 2031089
+  revised: '2026-10-07T02:40:06Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

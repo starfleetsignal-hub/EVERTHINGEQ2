@@ -2,6 +2,7 @@
 title: Zhurong, Goliath of Flame (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_4965.png
 tier: Fabled
 item_level: '0'
@@ -12,6 +13,7 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Zhurong, Goliath of Flame (House Item)
   url: https://eq2.fandom.com/wiki/Zhurong,_Goliath_of_Flame_(House_Item)
   history: https://eq2.fandom.com/wiki/Zhurong,_Goliath_of_Flame_(House_Item)?action=history
-  revision: 921514
-  revised: '2018-12-02T10:05:26Z'
+  revision: 2031144
+  revised: '2026-10-07T04:03:59Z'
   license: CC BY-SA 3.0
 ---
 
