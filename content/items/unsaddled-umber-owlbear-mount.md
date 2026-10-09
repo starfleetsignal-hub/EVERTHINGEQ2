@@ -14,6 +14,7 @@ stats:
   recast: 0.0 seconds
 effect_name: Call Unsaddled Umber Owlbear
 effects: "- Applies Call Unsaddled Umber Owlbear when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n  - Increases Focus of caster by 7.0.\n  - Increases Crushing of caster by 7.0.\n  - Increases Piercing of caster by 7.0.\n  - Increases Slashing of caster by 7.0.\n  - Increases Ranged of caster by 7.0."
+obtained_from: Sold by [[A Jubilation merchant]]
 item_link: \aITEM 1053047217 321523771:Unsaddled Umber Owlbear\/a
 categories:
 - Assassin Equipment
@@ -66,8 +67,8 @@ source:
   title: Unsaddled Umber Owlbear (Mount)
   url: https://eq2.fandom.com/wiki/Unsaddled_Umber_Owlbear_(Mount)
   history: https://eq2.fandom.com/wiki/Unsaddled_Umber_Owlbear_(Mount)?action=history
-  revision: 1935910
-  revised: '2026-01-02T20:09:59Z'
+  revision: 2031343
+  revised: '2026-10-07T22:49:24Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

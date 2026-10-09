@@ -15,8 +15,8 @@ source:
   title: Arcanist's Hover Platform (House Item)
   url: https://eq2.fandom.com/wiki/Arcanist's_Hover_Platform_(House_Item)
   history: https://eq2.fandom.com/wiki/Arcanist's_Hover_Platform_(House_Item)?action=history
-  revision: 994572
-  revised: '2019-09-14T22:11:21Z'
+  revision: 2030969
+  revised: '2026-10-05T20:08:15Z'
   license: CC BY-SA 3.0
 ---
 

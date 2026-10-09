@@ -74,8 +74,8 @@ source:
   title: Petrified Bone Cloak
   url: https://eq2.fandom.com/wiki/Petrified_Bone_Cloak
   history: https://eq2.fandom.com/wiki/Petrified_Bone_Cloak?action=history
-  revision: 2029131
-  revised: '2026-09-14T09:29:26Z'
+  revision: 2031040
+  revised: '2026-10-06T11:35:01Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

@@ -17,9 +17,11 @@ source:
   title: White Frosttail Reindeer (Spell)
   url: https://eq2.fandom.com/wiki/White_Frosttail_Reindeer_(Spell)
   history: https://eq2.fandom.com/wiki/White_Frosttail_Reindeer_(Spell)?action=history
-  revision: 2021552
-  revised: '2026-08-09T11:47:45Z'
+  revision: 2031210
+  revised: '2026-10-07T16:39:03Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+From the spell scroll [[White Frosttail Reindeer Stag]]

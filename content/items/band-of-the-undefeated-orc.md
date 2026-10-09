@@ -18,6 +18,7 @@ stats:
   mitinc: '4'
 obtained_from: '*Made from [[A gold engraved key]] *Made from [[A ruby key]] *[[Gold Key of Fabled Rujark]]'
 item_link: \aITEM 580566993 -2100317588:Band of the Undefeated Orc\/a
+image: images/Band_of_the_Undefeated_Orc.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -35,6 +36,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Finger (Inventory Slot)
@@ -59,8 +61,8 @@ source:
   title: Band of the Undefeated Orc
   url: https://eq2.fandom.com/wiki/Band_of_the_Undefeated_Orc
   history: https://eq2.fandom.com/wiki/Band_of_the_Undefeated_Orc?action=history
-  revision: 1374186
-  revised: '2021-12-05T17:52:32Z'
+  revision: 2031505
+  revised: '2026-10-08T14:15:54Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

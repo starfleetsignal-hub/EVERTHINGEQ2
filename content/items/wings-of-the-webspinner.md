@@ -42,8 +42,8 @@ source:
   title: Wings of the Webspinner
   url: https://eq2.fandom.com/wiki/Wings_of_the_Webspinner
   history: https://eq2.fandom.com/wiki/Wings_of_the_Webspinner?action=history
-  revision: 2023888
-  revised: '2026-08-23T13:02:58Z'
+  revision: 2031254
+  revised: '2026-10-07T18:20:11Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -2,6 +2,7 @@
 title: Typhos, Colossus of Chaos (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_4957.png
 tier: Fabled
 item_level: '0'
@@ -12,6 +13,7 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Typhos, Colossus of Chaos (House Item)
   url: https://eq2.fandom.com/wiki/Typhos,_Colossus_of_Chaos_(House_Item)
   history: https://eq2.fandom.com/wiki/Typhos,_Colossus_of_Chaos_(House_Item)?action=history
-  revision: 933754
-  revised: '2019-01-12T23:29:41Z'
+  revision: 2031479
+  revised: '2026-10-08T05:12:57Z'
   license: CC BY-SA 3.0
 ---
 

@@ -24,8 +24,8 @@ source:
   title: Unpowered Blod Rune, Radae (Quest)
   url: https://eq2.fandom.com/wiki/Unpowered_Blod_Rune,_Radae_(Quest)
   history: https://eq2.fandom.com/wiki/Unpowered_Blod_Rune,_Radae_(Quest)?action=history
-  revision: 1638998
-  revised: '2023-01-29T17:11:37Z'
+  revision: 2030872
+  revised: '2026-10-04T10:15:59Z'
   license: CC BY-SA 3.0
 ---
 
@@ -36,7 +36,7 @@ source:
 ## Rewards
 
 - 2p 52g 59s 84c
-- [[Empowered Tor Rune, Radae]] - *Heirloom Collectible*
+- [[Empowered Blod Rune, Radae]] - *Heirloom Collectible*
 - One of the following:
   - [[Protective Treasures of the Shrouded Isle]]
   - [[Aggressive Treasures of the Shrouded Isle]]

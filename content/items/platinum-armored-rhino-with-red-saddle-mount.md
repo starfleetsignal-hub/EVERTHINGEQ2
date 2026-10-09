@@ -66,8 +66,8 @@ source:
   title: Platinum Armored Rhino with Red Saddle (Mount)
   url: https://eq2.fandom.com/wiki/Platinum_Armored_Rhino_with_Red_Saddle_(Mount)
   history: https://eq2.fandom.com/wiki/Platinum_Armored_Rhino_with_Red_Saddle_(Mount)?action=history
-  revision: 1933517
-  revised: '2026-01-02T17:47:17Z'
+  revision: 2030937
+  revised: '2026-10-05T04:31:02Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

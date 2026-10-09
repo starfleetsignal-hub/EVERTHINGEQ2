@@ -18,6 +18,7 @@ stats:
   dtype: Plate Armor
 obtained_from: From [[Malevolent Plate Greaves (Staunch, Unyielding, Resolute)|Malevolent Plate Greaves]]
 item_link: \aITEM -622404834 1514418927:Staunch Legplates of Spite\/a
+image: images/Staunch_Legplates_of_Spite_(0_Gem).png
 categories:
 - Berserker Equipment
 - Census Credits
@@ -26,6 +27,7 @@ categories:
 - Crusader Equipment
 - DPS (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Guardian Equipment
 - Inquisitor Equipment
@@ -43,8 +45,8 @@ source:
   title: Staunch Legplates of Spite (0 Gem)
   url: https://eq2.fandom.com/wiki/Staunch_Legplates_of_Spite_(0_Gem)
   history: https://eq2.fandom.com/wiki/Staunch_Legplates_of_Spite_(0_Gem)?action=history
-  revision: 1947590
-  revised: '2026-01-04T11:36:48Z'
+  revision: 2031034
+  revised: '2026-10-06T11:26:19Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

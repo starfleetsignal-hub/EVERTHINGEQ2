@@ -21,8 +21,8 @@ source:
   title: Armored Highland Stalker (House Item)
   url: https://eq2.fandom.com/wiki/Armored_Highland_Stalker_(House_Item)
   history: https://eq2.fandom.com/wiki/Armored_Highland_Stalker_(House_Item)?action=history
-  revision: 1863470
-  revised: '2025-03-07T04:40:32Z'
+  revision: 2030977
+  revised: '2026-10-05T20:37:27Z'
   license: CC BY-SA 3.0
 ---
 

@@ -65,8 +65,8 @@ source:
   title: Black Cavalry Horse with War-barding
   url: https://eq2.fandom.com/wiki/Black_Cavalry_Horse_with_War-barding
   history: https://eq2.fandom.com/wiki/Black_Cavalry_Horse_with_War-barding?action=history
-  revision: 1928496
-  revised: '2026-01-01T16:01:45Z'
+  revision: 2031130
+  revised: '2026-10-07T03:45:45Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

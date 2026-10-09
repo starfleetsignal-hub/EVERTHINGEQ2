@@ -17,8 +17,8 @@ source:
   title: Illuminated Tinkerfest Hovercog (House Item) (Version 2)
   url: https://eq2.fandom.com/wiki/Illuminated_Tinkerfest_Hovercog_(House_Item)_(Version_2)
   history: https://eq2.fandom.com/wiki/Illuminated_Tinkerfest_Hovercog_(House_Item)_(Version_2)?action=history
-  revision: 1878991
-  revised: '2025-07-19T23:08:03Z'
+  revision: 2030928
+  revised: '2026-10-05T04:20:37Z'
   license: CC BY-SA 3.0
 ---
 

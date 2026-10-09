@@ -11,21 +11,19 @@ journal_category: World Event
 starts: Speak with Golgak Gutstooth at {{waypoint -16, -13, 14}}
 prerequisite: '[[''Round the Block and Tackle]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: Gutstooth's Gud Food
   url: https://eq2.fandom.com/wiki/Gutstooth's_Gud_Food
   history: https://eq2.fandom.com/wiki/Gutstooth's_Gud_Food?action=history
-  revision: 2028792
-  revised: '2026-09-10T23:48:21Z'
+  revision: 2031071
+  revised: '2026-10-06T21:34:28Z'
   license: CC BY-SA 3.0
 ---
 

@@ -15,6 +15,7 @@ stats:
   recast: 0.0 seconds
 effect_name: Battle Bred Meatbeast
 effects: "- Applies Battle Bred Meatbeast when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n  - Increases Max Health of caster by 2,600.0.\n  - Increases Max Power of caster by 2,600.0.\n  - Increases Crit Bonus of caster by 12.5.\n  - Increases Potency of caster by 12.5.\n  - Increases Crit Chance of caster by 65.0."
+obtained_from: Looted from [[Bristlebane (Arena)|Bristlebane]] in [[Arena of the Gods (Raid)]]
 item_link: \aITEM -1614756533 -409150117:Battle Bred Meatbeast\/a
 categories:
 - Assassin Equipment
@@ -68,11 +69,11 @@ source:
   title: Battle Bred Meatbeast (Mount)
   url: https://eq2.fandom.com/wiki/Battle_Bred_Meatbeast_(Mount)
   history: https://eq2.fandom.com/wiki/Battle_Bred_Meatbeast_(Mount)?action=history
-  revision: 1928456
-  revised: '2026-01-01T15:56:58Z'
+  revision: 2031012
+  revised: '2026-10-05T22:24:33Z'
   license: CC BY-SA 3.0
-expansion: Chains of Eternity
-expansion_source: level
+expansion: Shattered Lands
+expansion_source: source
 ---
 
 

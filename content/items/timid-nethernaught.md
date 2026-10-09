@@ -40,8 +40,8 @@ source:
   title: Timid Nethernaught
   url: https://eq2.fandom.com/wiki/Timid_Nethernaught
   history: https://eq2.fandom.com/wiki/Timid_Nethernaught?action=history
-  revision: 1935317
-  revised: '2026-01-02T19:42:34Z'
+  revision: 2031432
+  revised: '2026-10-08T04:08:23Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: linked

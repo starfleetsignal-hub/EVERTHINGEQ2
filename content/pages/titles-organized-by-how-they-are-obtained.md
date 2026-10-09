@@ -7,8 +7,8 @@ source:
   title: Titles organized by how they are obtained
   url: https://eq2.fandom.com/wiki/Titles_organized_by_how_they_are_obtained
   history: https://eq2.fandom.com/wiki/Titles_organized_by_how_they_are_obtained?action=history
-  revision: 2013273
-  revised: '2026-06-25T10:41:39Z'
+  revision: 2031551
+  revised: '2026-10-09T01:11:11Z'
   license: CC BY-SA 3.0
 ---
 
@@ -336,7 +336,7 @@ Each Erollisi Day roses achievement piggybacks onto the previous achievement. Ie
 - [[The Heartbreaker]] -- Hand out 500 additional roses. (1000 Total)
 - [[The Prurient]] (1000 roses) -- Hand out 1000 additional roses. (2000 Total.
 
-### [[Will of the Tyrant]]
+### [[Will of the Tyrant|Will of a Tyrant]]
 
 - [[Champion of Bayle]]
 - [[Champion of D'Lere]]

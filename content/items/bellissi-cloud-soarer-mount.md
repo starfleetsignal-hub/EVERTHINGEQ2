@@ -43,8 +43,8 @@ source:
   title: Bellissi, Cloud Soarer (Mount)
   url: https://eq2.fandom.com/wiki/Bellissi,_Cloud_Soarer_(Mount)
   history: https://eq2.fandom.com/wiki/Bellissi,_Cloud_Soarer_(Mount)?action=history
-  revision: 1928473
-  revised: '2026-01-01T15:57:51Z'
+  revision: 2031113
+  revised: '2026-10-07T03:12:59Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

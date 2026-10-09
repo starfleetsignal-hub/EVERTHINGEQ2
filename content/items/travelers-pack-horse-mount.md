@@ -70,8 +70,8 @@ source:
   title: Traveler's Pack Horse (Mount)
   url: https://eq2.fandom.com/wiki/Traveler's_Pack_Horse_(Mount)
   history: https://eq2.fandom.com/wiki/Traveler's_Pack_Horse_(Mount)?action=history
-  revision: 1935805
-  revised: '2026-01-02T20:04:53Z'
+  revision: 2031466
+  revised: '2026-10-08T04:56:41Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

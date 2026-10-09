@@ -40,8 +40,8 @@ source:
   title: Tishan's Fluffy Transport
   url: https://eq2.fandom.com/wiki/Tishan's_Fluffy_Transport
   history: https://eq2.fandom.com/wiki/Tishan's_Fluffy_Transport?action=history
-  revision: 1935351
-  revised: '2026-01-02T19:44:31Z'
+  revision: 2031451
+  revised: '2026-10-08T04:25:00Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: linked

@@ -14,6 +14,7 @@ stats:
   recast: 0.0 seconds
 effect_name: 'Summon: Taecetis, Sacred Spirit'
 effects: "- Applies Summon: Taecetis, Sacred Spirit when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%\n  - Your adventure level must be 120 or above to receive statistic bonuses.\n  - Increases Block Chance of caster by 5.0%.\n  - Increases Potency of caster by 32,845.0.\n  - Increases Crit Chance of caster by 565.0.\n  - Increases Ability Mod of caster by 1,433,610.0.\n  - Increases Max Power of caster by 102,579.0.\n  - Increases Max Health of caster by 1,657,098.0.\n  - Increases Mitigation of caster vs elemental damage by 24,300.\n  - Increases Mitigation of caster vs noxious damage by 24,300.\n  - Increases Mitigation of caster vs arcane damage by 24,300."
+obtained_from: Possible drop from the solo zones in Reign of Shadows
 item_link: \aITEM -627889843 -241468543:Taecetis, Sacred Spirit\/a
 categories:
 - Alchemist Equipment
@@ -40,8 +41,8 @@ source:
   title: Taecetis, Sacred Spirit (Mount)
   url: https://eq2.fandom.com/wiki/Taecetis,_Sacred_Spirit_(Mount)
   history: https://eq2.fandom.com/wiki/Taecetis,_Sacred_Spirit_(Mount)?action=history
-  revision: 1935050
-  revised: '2026-01-02T19:24:32Z'
+  revision: 2031385
+  revised: '2026-10-08T02:50:57Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

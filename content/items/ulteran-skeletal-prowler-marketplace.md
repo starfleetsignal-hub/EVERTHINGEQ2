@@ -69,8 +69,8 @@ source:
   title: Ulteran Skeletal Prowler (Marketplace)
   url: https://eq2.fandom.com/wiki/Ulteran_Skeletal_Prowler_(Marketplace)
   history: https://eq2.fandom.com/wiki/Ulteran_Skeletal_Prowler_(Marketplace)?action=history
-  revision: 1935879
-  revised: '2026-01-02T20:08:38Z'
+  revision: 2031319
+  revised: '2026-10-07T22:22:29Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -41,8 +41,8 @@ source:
   title: Azure Skystrider (Mount)
   url: https://eq2.fandom.com/wiki/Azure_Skystrider_(Mount)
   history: https://eq2.fandom.com/wiki/Azure_Skystrider_(Mount)?action=history
-  revision: 2023741
-  revised: '2026-08-23T12:34:19Z'
+  revision: 2030991
+  revised: '2026-10-05T21:50:04Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

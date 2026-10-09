@@ -42,8 +42,8 @@ source:
   title: Skybound Frostfell Snow Cloud (Mount)
   url: https://eq2.fandom.com/wiki/Skybound_Frostfell_Snow_Cloud_(Mount)
   history: https://eq2.fandom.com/wiki/Skybound_Frostfell_Snow_Cloud_(Mount)?action=history
-  revision: 2023842
-  revised: '2026-08-23T12:54:57Z'
+  revision: 2030899
+  revised: '2026-10-05T03:46:30Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

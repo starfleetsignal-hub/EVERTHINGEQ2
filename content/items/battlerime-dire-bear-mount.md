@@ -67,8 +67,8 @@ source:
   title: Battlerime Dire Bear (Mount)
   url: https://eq2.fandom.com/wiki/Battlerime_Dire_Bear_(Mount)
   history: https://eq2.fandom.com/wiki/Battlerime_Dire_Bear_(Mount)?action=history
-  revision: 1928461
-  revised: '2026-01-01T15:57:09Z'
+  revision: 2031100
+  revised: '2026-10-07T02:55:27Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

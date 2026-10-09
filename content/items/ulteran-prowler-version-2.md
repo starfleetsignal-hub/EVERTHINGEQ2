@@ -67,8 +67,8 @@ source:
   title: Ulteran Prowler (Version 2)
   url: https://eq2.fandom.com/wiki/Ulteran_Prowler_(Version_2)
   history: https://eq2.fandom.com/wiki/Ulteran_Prowler_(Version_2)?action=history
-  revision: 1935878
-  revised: '2026-01-02T20:08:35Z'
+  revision: 2031312
+  revised: '2026-10-07T22:06:22Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -23,10 +23,12 @@ source:
   title: Sinferzall (Untold Heroic)
   url: https://eq2.fandom.com/wiki/Sinferzall_(Untold_Heroic)
   history: https://eq2.fandom.com/wiki/Sinferzall_(Untold_Heroic)?action=history
-  revision: 2002256
-  revised: '2026-05-12T21:50:25Z'
+  revision: 2031372
+  revised: '2026-10-08T00:24:48Z'
   license: CC BY-SA 3.0
 ---
+
+Ability and strategy information changes at stages (1-20/21-40/41+).
 
 ## Abilities
 
@@ -40,6 +42,10 @@ source:
 - A curable noxious that lands on the furthest player from Sinferzall, teleporting that player to Sinferzall. It slows the target, decreases in-combat movement speed, and kills the target on expiration. It also kills the target if it is cured within 10 meters of Sinferzall.
 - **Rampant Aggression**
 - A buff that increments every 4 seconds if Sinferzall's target is not a fighter and decrements every 4 seconds otherwise.
+- **Marked for Blood [41+]**
+- A curable curse that lands on all players simultaneously. Completing an HO while this effect is active produces a chat message that states whether the caster is or is not the "marked target". Curing the marked target cures all players. If the curse expires, it kills the target.
+- **Sanguine Sphere [41+]**
+- A buff that increments 1 per second, starting from 0, to a max of 10. At 10 increments, Sinferzall heals for 5% multiplied by each target within 3 meters, excluding fighters and pets. The buff then resets to 0 increments.
 
 ## Strategy
 

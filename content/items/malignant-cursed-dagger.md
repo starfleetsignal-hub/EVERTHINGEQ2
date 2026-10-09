@@ -76,8 +76,8 @@ source:
   title: Malignant Cursed Dagger
   url: https://eq2.fandom.com/wiki/Malignant_Cursed_Dagger
   history: https://eq2.fandom.com/wiki/Malignant_Cursed_Dagger?action=history
-  revision: 2030423
-  revised: '2026-09-24T19:05:46Z'
+  revision: 2031152
+  revised: '2026-10-07T09:14:11Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: linked

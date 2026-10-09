@@ -42,8 +42,8 @@ source:
   title: Bennu Blazefeather (Mount)
   url: https://eq2.fandom.com/wiki/Bennu_Blazefeather_(Mount)
   history: https://eq2.fandom.com/wiki/Bennu_Blazefeather_(Mount)?action=history
-  revision: 1928476
-  revised: '2026-01-01T15:57:57Z'
+  revision: 2031119
+  revised: '2026-10-07T03:22:06Z'
   license: CC BY-SA 3.0
 expansion: Kunark Ascending
 expansion_source: source

@@ -22,6 +22,7 @@ stats:
   dtype: Cloth Armor
 obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
 item_link: \aITEM -1190726490 621874279:Mesmerizer's Boots\/a
+image: images/Mesmerizer's_Boots_(Level_110).png
 categories:
 - Ability Modifier (Equipment)
 - Census Credits
@@ -31,6 +32,7 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Feet (Inventory Slot)
 - Illusionist Equipment
 - Item obtained from a Crate
@@ -50,8 +52,8 @@ source:
   title: Mesmerizer's Boots (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Boots_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Boots_(Level_110)?action=history
-  revision: 909508
-  revised: '2018-10-27T12:53:54Z'
+  revision: 2031494
+  revised: '2026-10-08T13:12:18Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

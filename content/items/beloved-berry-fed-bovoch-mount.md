@@ -70,8 +70,8 @@ source:
   title: Beloved Berry-Fed Bovoch (Mount)
   url: https://eq2.fandom.com/wiki/Beloved_Berry-Fed_Bovoch_(Mount)
   history: https://eq2.fandom.com/wiki/Beloved_Berry-Fed_Bovoch_(Mount)?action=history
-  revision: 1928474
-  revised: '2026-01-01T15:57:53Z'
+  revision: 2031112
+  revised: '2026-10-07T03:12:56Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

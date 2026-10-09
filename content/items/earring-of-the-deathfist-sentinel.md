@@ -18,6 +18,7 @@ stats:
   vselemental: +7,970
 obtained_from: '*Made from [[A sapphire key]] *Made from [[An ancient silver key]] *[[Silver Key of Fabled Rujark]]'
 item_link: \aITEM -647369216 -64705654:Earring of the Deathfist Sentinel\/a
+image: images/Earring_of_the_Deathfist_Sentinel.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -35,6 +36,7 @@ categories:
 - Ear (Inventory Slot)
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Flurry Chance (Equipment)
 - Guardian Equipment
@@ -59,8 +61,8 @@ source:
   title: Earring of the Deathfist Sentinel
   url: https://eq2.fandom.com/wiki/Earring_of_the_Deathfist_Sentinel
   history: https://eq2.fandom.com/wiki/Earring_of_the_Deathfist_Sentinel?action=history
-  revision: 1374737
-  revised: '2021-12-05T18:19:35Z'
+  revision: 2031519
+  revised: '2026-10-08T14:41:16Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

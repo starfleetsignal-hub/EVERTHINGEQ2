@@ -41,8 +41,8 @@ source:
   title: Wings of Atathus
   url: https://eq2.fandom.com/wiki/Wings_of_Atathus
   history: https://eq2.fandom.com/wiki/Wings_of_Atathus?action=history
-  revision: 1936261
-  revised: '2026-01-02T20:56:10Z'
+  revision: 2031245
+  revised: '2026-10-07T18:05:29Z'
   license: CC BY-SA 3.0
 expansion: Renewal of Ro
 expansion_source: linked

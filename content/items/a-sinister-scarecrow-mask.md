@@ -10,8 +10,10 @@ description: This is a Nights of the Dead mask. You may wear this mask to look l
 stats:
   mit: '7'
   dtype: Cloth Armor
-obtained_from: Reward from the quest, [[Ghost Hunting]].
+obtained_from: '*[[Ghost Hunter: Antonica]] *[[Ghost Hunter: Commonlands]]'
 item_link: \aITEM 1453614073 343781250:a sinister scarecrow mask\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -43,6 +45,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -63,18 +66,17 @@ source:
   title: A sinister scarecrow mask
   url: https://eq2.fandom.com/wiki/A_sinister_scarecrow_mask
   history: https://eq2.fandom.com/wiki/A_sinister_scarecrow_mask?action=history
-  revision: 729194
-  revised: '2017-09-04T06:45:55Z'
+  revision: 2030857
+  revised: '2026-10-04T03:06:31Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: linked
+expansion: The Shadow Odyssey
+expansion_source: source
 ---
 
 ## Notes
 
-This is one of the masks you can choose when you catch enough ghosts for a huge prize.
+This is one of the masks you can choose when you catch enough ghosts for a large prize.
+About older versions:
 
-- **Current versions of the [[Nights of the Dead]] masks do not have any stats beyond 7 Mitigation.**
-- About older versions:
 - The old version of this mask was from the (now retired) quest, [[Trick or Treat]].
 - The old version had stats.

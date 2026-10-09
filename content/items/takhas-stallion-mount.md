@@ -67,8 +67,8 @@ source:
   title: Takha's Stallion (Mount)
   url: https://eq2.fandom.com/wiki/Takha's_Stallion_(Mount)
   history: https://eq2.fandom.com/wiki/Takha's_Stallion_(Mount)?action=history
-  revision: 1935054
-  revised: '2026-01-02T19:24:46Z'
+  revision: 2031387
+  revised: '2026-10-08T02:51:01Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -44,8 +44,8 @@ source:
   title: Terrorbird (Mount)
   url: https://eq2.fandom.com/wiki/Terrorbird_(Mount)
   history: https://eq2.fandom.com/wiki/Terrorbird_(Mount)?action=history
-  revision: 1935096
-  revised: '2026-01-02T19:28:02Z'
+  revision: 2031406
+  revised: '2026-10-08T03:21:11Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

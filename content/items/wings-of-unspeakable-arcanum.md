@@ -42,8 +42,8 @@ source:
   title: Wings of Unspeakable Arcanum
   url: https://eq2.fandom.com/wiki/Wings_of_Unspeakable_Arcanum
   history: https://eq2.fandom.com/wiki/Wings_of_Unspeakable_Arcanum?action=history
-  revision: 2007668
-  revised: '2026-05-17T15:23:51Z'
+  revision: 2031253
+  revised: '2026-10-07T18:20:09Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -1,18 +1,19 @@
 ---
 title: The Next World
 type: quest
-expansion: Age of Discovery
-expansion_source: timeline
+expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 zone: '[[The House of Endings]]'
 timeline: '[[The City of Qeynos Timeline]]'
 journal_category: The House of Endings
 starts: In the House of Endings, speak to Croyrr
 prerequisite: '[[Initiating the End]]'
+added_in: Altar of Malice
 categories:
+- Altar of Malice Quests
 - Quests
 - Scalable Quests
-- Shattered Lands Quests
 - Solo Quests
 - The House of Endings Quests
 - The House of Endings Solo Quests
@@ -20,8 +21,8 @@ source:
   title: The Next World
   url: https://eq2.fandom.com/wiki/The_Next_World
   history: https://eq2.fandom.com/wiki/The_Next_World?action=history
-  revision: 1864439
-  revised: '2025-03-15T05:31:12Z'
+  revision: 2031588
+  revised: '2026-10-09T17:25:44Z'
   license: CC BY-SA 3.0
 ---
 

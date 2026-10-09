@@ -41,8 +41,8 @@ source:
   title: Azure-Guard Saliraptor (Mount)
   url: https://eq2.fandom.com/wiki/Azure-Guard_Saliraptor_(Mount)
   history: https://eq2.fandom.com/wiki/Azure-Guard_Saliraptor_(Mount)?action=history
-  revision: 1928408
-  revised: '2026-01-01T15:55:05Z'
+  revision: 2030995
+  revised: '2026-10-05T21:50:19Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

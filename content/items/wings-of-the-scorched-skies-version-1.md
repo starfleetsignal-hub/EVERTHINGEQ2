@@ -42,8 +42,8 @@ source:
   title: Wings of the Scorched Skies (Version 1)
   url: https://eq2.fandom.com/wiki/Wings_of_the_Scorched_Skies_(Version_1)
   history: https://eq2.fandom.com/wiki/Wings_of_the_Scorched_Skies_(Version_1)?action=history
-  revision: 2023886
-  revised: '2026-08-23T13:02:54Z'
+  revision: 2031250
+  revised: '2026-10-07T18:13:35Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

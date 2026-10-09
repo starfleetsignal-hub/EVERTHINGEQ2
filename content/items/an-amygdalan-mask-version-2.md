@@ -11,8 +11,10 @@ stats:
   wis: '+1'
   mit: '1'
   dtype: Cloth Armor
-obtained_from: '[[Ghost Hunting]]'
+obtained_from: '*[[Ghost Hunter: Antonica]] *[[Ghost Hunter: Commonlands]]'
 item_link: \aITEM 1331166374 1607574870:an amygdalan mask\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -43,6 +45,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -63,18 +66,16 @@ source:
   title: An amygdalan mask (Version 2)
   url: https://eq2.fandom.com/wiki/An_amygdalan_mask_(Version_2)
   history: https://eq2.fandom.com/wiki/An_amygdalan_mask_(Version_2)?action=history
-  revision: 1863404
-  revised: '2025-03-06T06:11:59Z'
+  revision: 2030853
+  revised: '2026-10-04T02:42:27Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: level
+expansion: The Shadow Odyssey
+expansion_source: source
 ---
 
 ## Notes
 
 This is one of the masks you can choose when you catch the enough ghosts for a big prize.
+About older versions:
 
-- **Current versions of the [[Nights of the Dead]] masks do not have any stats beyond 7 Mitigation.**
-- About older versions:
 - The old version of this mask was from the (now retired) quest, [[Trick or Treat]].
-- The old version had stats.

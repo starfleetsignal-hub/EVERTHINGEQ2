@@ -25,8 +25,8 @@ source:
   title: Silver Key of Fabled Rujark
   url: https://eq2.fandom.com/wiki/Silver_Key_of_Fabled_Rujark
   history: https://eq2.fandom.com/wiki/Silver_Key_of_Fabled_Rujark?action=history
-  revision: 2030814
-  revised: '2026-10-03T14:39:35Z'
+  revision: 2031509
+  revised: '2026-10-08T14:28:13Z'
   license: CC BY-SA 3.0
 expansion: Chains of Eternity
 expansion_source: patch
@@ -40,15 +40,15 @@ Open the fabled silver chest {{waypoint 2.83, 10.25, -222.35}} in [[The Treasure
 
 - At least 3p
 - One of the following:
-  - [[Earring of the Steelslave Watcher]]
-  - [[Ring of the Steelslave Mauler]]
-  - [[Wristband of the Steelslave Vanquisher]]
-  - [[Earring of the Watcher of Ferocity]]
-  - [[Ring of the Watcher of Ferocity]]
-  - [[Bracelet of the Watcher of Ferocity]]
-  - [[Earring of the Spiritbound Apothecary]]
-  - [[Ring of the Spiritbound Mystic]]
-  - [[Bracelet of the Spiritbound Shaman]]
-  - [[Earring of the Deathfist Sentinel]]
-  - [[Ring of the Deathfist Brute]]
-  - [[Bracelet of the Deathfist Enforcer]]
+  - [[Earring of the Steelslave Watcher]] - All Fighters; All Scouts
+  - [[Ring of the Steelslave Mauler]] - All Fighters; All Scouts
+  - [[Wristband of the Steelslave Vanquisher]] - All Fighters; All Scouts
+  - [[Earring of the Watcher of Ferocity]] - All Priests; All Mages
+  - [[Ring of the Watcher of Ferocity]] - All Priests; All Mages
+  - [[Bracelet of the Watcher of Ferocity]] - All Priests; All Mages
+  - [[Earring of the Spiritbound Apothecary]] - All Priests; All Mages
+  - [[Ring of the Spiritbound Mystic]] - All Priests; All Mages
+  - [[Bracelet of the Spiritbound Shaman]] - All Priests; All Mages
+  - [[Earring of the Deathfist Sentinel]] - All Fighters; All Scouts
+  - [[Ring of the Deathfist Brute]] - All Fighters; All Scouts
+  - [[Bracelet of the Deathfist Enforcer]] - All Fighters; All Scouts

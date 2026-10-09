@@ -23,10 +23,12 @@ source:
   title: Do'Guen (Untold Heroic)
   url: https://eq2.fandom.com/wiki/Do'Guen_(Untold_Heroic)
   history: https://eq2.fandom.com/wiki/Do'Guen_(Untold_Heroic)?action=history
-  revision: 2002259
-  revised: '2026-05-12T22:16:45Z'
+  revision: 2031090
+  revised: '2026-10-07T02:50:46Z'
   license: CC BY-SA 3.0
 ---
+
+Ability and strategy information changes at stages (1-20/21-40/41+).
 
 ## Abilities
 
@@ -34,10 +36,10 @@ source:
 - An incurable arcane that deals divine damage over time, decreases power over time, and procs Defensive Breach, which deals magic damage.
 - **Hail Bent**
 - A incurable elemental that deals increasing cold damage over time, decreases power over time, stuns the target, and reduces fervor. It also knocks back players that are not fighters. This effect lands on players in front of Do'Guen.
-- **Void-Bound**
+- **Void-Rebound**
 - An incurable elemental that deals cold damage and decreases power multiplied by increments. Leaving the Void-Bound Aura removes all increments. It also increases melee weapon range and hostile ability range.
 - **Snatch Prey**
-- An attack that pulls the closest player into the center of the Void-Bound Aura.
+- An attack that pulls the closest or furthest (randomly) player into the center of the Void-Bound Aura.
 - **Unyielding Pain**
 - An incurable elemental that deals high damage. It can be removed with a fighter's [[Intercept]].
 - **Void-Cursed Bleeding**
@@ -47,9 +49,9 @@ source:
 
 When the fight begins, Do'Guen summons all remaining [[A void-bound companion|void-bound companions]] throughout the zone.
 
-At 75% and 25%, Do'Guen places a Void-Bound Aura (purple/blue bubble) around herself. While it is up, she is rooted to the center of the aura. Players within the aura are slowed and receive increasing damage. Purple pillars around the outside of the aura pull players back into the center. While the aura is up, Do'Guen continuously summons [[A void-bound slasher]].
+At 75% and 25% (1-20), or at 80%,50%,20% (41+), Do'Guen places a Void-Bound Aura (purple/blue bubble) around herself. While it is up, she is rooted to the center of the aura. Players within the aura are slowed and receive increasing damage. Purple pillars around the outside of the aura pull players back into the center. While the aura is up, Do'Guen continuously summons [[A void-bound slasher]], At 41+, the slashers cast Soul Gash. Players that are hit with Soul Gash while inside the aura are killed instantly.
 
-At 50%, Do'Guen releases her Void-Bound Aura and summons four [[A darkened slasher|darkened slashers]]. She is immune to all damage until these four companions are killed.
+At 50% (1-20), or at 60%,25% (41+), Do'Guen releases her Void-Bound Aura and summons four [[A darkened slasher|darkened slashers]]. She is immune to all damage until these four companions are killed.
 
 ## ACT Triggers
 

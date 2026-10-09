@@ -43,8 +43,8 @@ source:
   title: Zhuyon, the Everburning (Mount)
   url: https://eq2.fandom.com/wiki/Zhuyon,_the_Everburning_(Mount)
   history: https://eq2.fandom.com/wiki/Zhuyon,_the_Everburning_(Mount)?action=history
-  revision: 1936364
-  revised: '2026-01-02T21:06:15Z'
+  revision: 2031143
+  revised: '2026-10-07T04:03:57Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

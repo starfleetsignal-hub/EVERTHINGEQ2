@@ -19,6 +19,7 @@ stats:
   vselemental: +8,514
 obtained_from: '*Made from [[A gold engraved key]] *Made from [[A ruby key]] *[[Gold Key of Fabled Rujark]]'
 item_link: \aITEM 1202987353 823104346:Bracelet of Daring Strategy\/a
+image: images/Bracelet_of_Daring_Strategy.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -36,6 +37,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fabled Equipment
 - Fighter Equipment
 - Flurry Chance (Equipment)
@@ -61,8 +63,8 @@ source:
   title: Bracelet of Daring Strategy
   url: https://eq2.fandom.com/wiki/Bracelet_of_Daring_Strategy
   history: https://eq2.fandom.com/wiki/Bracelet_of_Daring_Strategy?action=history
-  revision: 1374285
-  revised: '2021-12-05T17:59:56Z'
+  revision: 2031503
+  revised: '2026-10-08T14:14:38Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

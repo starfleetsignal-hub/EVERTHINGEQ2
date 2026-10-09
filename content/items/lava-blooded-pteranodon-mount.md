@@ -41,8 +41,8 @@ source:
   title: Lava-blooded Pteranodon (Mount)
   url: https://eq2.fandom.com/wiki/Lava-blooded_Pteranodon_(Mount)
   history: https://eq2.fandom.com/wiki/Lava-blooded_Pteranodon_(Mount)?action=history
-  revision: 1931509
-  revised: '2026-01-01T20:36:36Z'
+  revision: 2030924
+  revised: '2026-10-05T04:10:07Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level

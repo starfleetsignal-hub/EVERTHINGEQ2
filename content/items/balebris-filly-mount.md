@@ -69,8 +69,8 @@ source:
   title: Balebri's Filly (Mount)
   url: https://eq2.fandom.com/wiki/Balebri's_Filly_(Mount)
   history: https://eq2.fandom.com/wiki/Balebri's_Filly_(Mount)?action=history
-  revision: 1928426
-  revised: '2026-01-01T15:55:51Z'
+  revision: 2031002
+  revised: '2026-10-05T21:58:12Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

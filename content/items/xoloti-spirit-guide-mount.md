@@ -42,8 +42,8 @@ source:
   title: Xoloti, Spirit Guide (Mount)
   url: https://eq2.fandom.com/wiki/Xoloti,_Spirit_Guide_(Mount)
   history: https://eq2.fandom.com/wiki/Xoloti,_Spirit_Guide_(Mount)?action=history
-  revision: 1936321
-  revised: '2026-01-02T21:03:07Z'
+  revision: 2031195
+  revised: '2026-10-07T16:12:54Z'
   license: CC BY-SA 3.0
 expansion: Reign of Shadows
 expansion_source: source

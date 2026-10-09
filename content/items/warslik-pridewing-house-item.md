@@ -2,6 +2,7 @@
 title: Warslik Pridewing (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_107.png
 tier: Treasured
 item_level: '0'
@@ -11,6 +12,7 @@ item_link: \aITEM -510865872 931854625:Warslik Pridewing\/a
 categories:
 - Census Credits
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Warslik Pridewing (House Item)
   url: https://eq2.fandom.com/wiki/Warslik_Pridewing_(House_Item)
   history: https://eq2.fandom.com/wiki/Warslik_Pridewing_(House_Item)?action=history
-  revision: 746622
-  revised: '2017-09-23T12:10:32Z'
+  revision: 2031205
+  revised: '2026-10-07T16:32:56Z'
   license: CC BY-SA 3.0
 ---
 

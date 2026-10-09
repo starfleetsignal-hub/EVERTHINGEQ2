@@ -67,8 +67,8 @@ source:
   title: Armored Fiend Steed (Mount)
   url: https://eq2.fandom.com/wiki/Armored_Fiend_Steed_(Mount)
   history: https://eq2.fandom.com/wiki/Armored_Fiend_Steed_(Mount)?action=history
-  revision: 1928322
-  revised: '2026-01-01T15:51:12Z'
+  revision: 2030973
+  revised: '2026-10-05T20:14:29Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

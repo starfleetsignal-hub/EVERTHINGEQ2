@@ -76,8 +76,8 @@ source:
   title: Hostile Cursed Dagger
   url: https://eq2.fandom.com/wiki/Hostile_Cursed_Dagger
   history: https://eq2.fandom.com/wiki/Hostile_Cursed_Dagger?action=history
-  revision: 2029292
-  revised: '2026-09-15T18:04:40Z'
+  revision: 2031154
+  revised: '2026-10-07T09:15:46Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

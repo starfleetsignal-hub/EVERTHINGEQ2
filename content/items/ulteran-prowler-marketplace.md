@@ -70,8 +70,8 @@ source:
   title: Ulteran Prowler (Marketplace)
   url: https://eq2.fandom.com/wiki/Ulteran_Prowler_(Marketplace)
   history: https://eq2.fandom.com/wiki/Ulteran_Prowler_(Marketplace)?action=history
-  revision: 1935877
-  revised: '2026-01-02T20:08:26Z'
+  revision: 2031311
+  revised: '2026-10-07T22:04:07Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

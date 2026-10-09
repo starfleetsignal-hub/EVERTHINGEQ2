@@ -42,8 +42,8 @@ source:
   title: Tinkerer's Ruby Flappers
   url: https://eq2.fandom.com/wiki/Tinkerer's_Ruby_Flappers
   history: https://eq2.fandom.com/wiki/Tinkerer's_Ruby_Flappers?action=history
-  revision: 2023866
-  revised: '2026-08-23T12:59:22Z'
+  revision: 2031441
+  revised: '2026-10-08T04:15:20Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

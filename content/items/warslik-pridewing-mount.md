@@ -15,6 +15,7 @@ stats:
   recast: 0.0 seconds
 effect_name: Summon Warslik Pridewing
 effects: "- Applies Summon Warslik Pridewing when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n    - Increases your air speed by 150%\n  - Increases Focus of caster by 5.0.\n  - Increases Disruption of caster by 5.0.\n  - Increases Ministration of caster by 5.0.\n  - Increases Subjugation of caster by 5.0.\n  - Increases Ordination of caster by 5.0.\n  - Increases Slashing of caster by 5.0.\n  - Increases Piercing of caster by 5.0.\n  - Increases Crushing of caster by 5.0.\n  - Increases Aggression of caster by 5.0.\n  - Increases Ranged of caster by 5.0."
+obtained_from: 'One of many rewards that can be "bought" for 0 copper from [[Pas Yu]] after completing [[Days of Summer 2017: Week 9]]'
 item_link: \aITEM -1834097923 931854625:Warslik Pridewing\/a
 categories:
 - Alchemist Equipment
@@ -41,11 +42,13 @@ source:
   title: Warslik Pridewing (Mount)
   url: https://eq2.fandom.com/wiki/Warslik_Pridewing_(Mount)
   history: https://eq2.fandom.com/wiki/Warslik_Pridewing_(Mount)?action=history
-  revision: 1936198
-  revised: '2026-01-02T20:51:15Z'
+  revision: 2031203
+  revised: '2026-10-07T16:32:45Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: level
 ---
 
+## Notes
 
+Only a level 100 season adventurer can see and purchase this item from [[Pas Yu]] if they have completed [[The "Travels" of Yun Zi - An Altar-Nate Malice]].

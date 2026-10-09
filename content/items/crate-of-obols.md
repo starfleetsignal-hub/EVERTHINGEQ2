@@ -18,6 +18,8 @@ source:
   revision: 1693192
   revised: '2023-03-16T18:32:28Z'
   license: CC BY-SA 3.0
+expansion: Shattered Lands
+expansion_source: linked
 ---
 
 

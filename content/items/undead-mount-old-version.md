@@ -68,8 +68,8 @@ source:
   title: Undead Mount (old version)
   url: https://eq2.fandom.com/wiki/Undead_Mount_(old_version)
   history: https://eq2.fandom.com/wiki/Undead_Mount_(old_version)?action=history
-  revision: 1935898
-  revised: '2026-01-02T20:09:25Z'
+  revision: 2031327
+  revised: '2026-10-07T22:35:56Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

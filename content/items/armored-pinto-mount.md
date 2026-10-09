@@ -14,7 +14,10 @@ stats:
   recast: 0.0 seconds
 effect_name: Call Armored Pinto
 effects: "- Applies Call Armored Pinto when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n  - Applies Friendly Experience instantly and every 4 seconds.\n    - Increases Combat XP of target by 10.0%.\n    - Only applies if the caster is mentoring\n    - Dispelled when target stops mentoring"
+obtained_from: Received from the [[Http://eq2players.station.sony.com/community/recruit-a-friend Recruit-a-Friend]] program.
 item_link: \aITEM 210855886 1321041396:Armored Pinto\/a
+aliases:
+- Armored Pinto whistle
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -67,8 +70,8 @@ source:
   title: Armored Pinto (Mount)
   url: https://eq2.fandom.com/wiki/Armored_Pinto_(Mount)
   history: https://eq2.fandom.com/wiki/Armored_Pinto_(Mount)?action=history
-  revision: 2023740
-  revised: '2026-08-23T12:34:03Z'
+  revision: 2030982
+  revised: '2026-10-05T20:58:39Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

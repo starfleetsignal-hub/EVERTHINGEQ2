@@ -15,8 +15,8 @@ source:
   title: Empowered Blod Rune, Radae
   url: https://eq2.fandom.com/wiki/Empowered_Blod_Rune,_Radae
   history: https://eq2.fandom.com/wiki/Empowered_Blod_Rune,_Radae?action=history
-  revision: 1500346
-  revised: '2022-06-16T15:29:40Z'
+  revision: 2030873
+  revised: '2026-10-04T10:18:26Z'
   license: CC BY-SA 3.0
 expansion: Visions of Vetrovia
 expansion_source: source

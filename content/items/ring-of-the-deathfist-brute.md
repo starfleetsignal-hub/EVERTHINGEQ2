@@ -19,6 +19,7 @@ stats:
   vselemental: +7,970
 obtained_from: '*Made from [[A sapphire key]] *Made from [[An ancient silver key]] *[[Silver Key of Fabled Rujark]]'
 item_link: \aITEM -916842555 1086331288:Ring of the Deathfist Brute\/a
+image: images/Ring_of_the_Deathfist_Brute.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -36,6 +37,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Flurry Chance (Equipment)
@@ -61,8 +63,8 @@ source:
   title: Ring of the Deathfist Brute
   url: https://eq2.fandom.com/wiki/Ring_of_the_Deathfist_Brute
   history: https://eq2.fandom.com/wiki/Ring_of_the_Deathfist_Brute?action=history
-  revision: 1370950
-  revised: '2021-12-05T14:31:45Z'
+  revision: 2031520
+  revised: '2026-10-08T14:41:26Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

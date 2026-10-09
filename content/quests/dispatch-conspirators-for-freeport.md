@@ -11,21 +11,19 @@ journal_category: World Event
 starts: Speak with [[Nikodim]] at bottom level {{waypoint -11, -20, 4}}
 prerequisite: '[[Spider Off Dead]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: Dispatch Conspirators for Freeport
   url: https://eq2.fandom.com/wiki/Dispatch_Conspirators_for_Freeport
   history: https://eq2.fandom.com/wiki/Dispatch_Conspirators_for_Freeport?action=history
-  revision: 2029992
-  revised: '2026-09-18T14:38:47Z'
+  revision: 2031065
+  revised: '2026-10-06T21:30:09Z'
   license: CC BY-SA 3.0
 ---
 

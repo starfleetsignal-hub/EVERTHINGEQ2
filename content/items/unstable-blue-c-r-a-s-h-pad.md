@@ -68,11 +68,11 @@ source:
   title: Unstable Blue C.R.A.S.H. Pad
   url: https://eq2.fandom.com/wiki/Unstable_Blue_C.R.A.S.H._Pad
   history: https://eq2.fandom.com/wiki/Unstable_Blue_C.R.A.S.H._Pad?action=history
-  revision: 1935913
-  revised: '2026-01-02T20:10:06Z'
+  revision: 2031369
+  revised: '2026-10-08T00:15:03Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: source
+expansion_source: linked
 ---
 
 ## Notes

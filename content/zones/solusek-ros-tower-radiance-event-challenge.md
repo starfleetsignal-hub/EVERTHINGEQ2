@@ -25,8 +25,8 @@ source:
   title: 'Solusek Ro''s Tower: Radiance (Event Challenge)'
   url: https://eq2.fandom.com/wiki/Solusek_Ro's_Tower:_Radiance_(Event_Challenge)
   history: https://eq2.fandom.com/wiki/Solusek_Ro's_Tower:_Radiance_(Event_Challenge)?action=history
-  revision: 2030433
-  revised: '2026-09-25T03:44:12Z'
+  revision: 2030877
+  revised: '2026-10-04T15:57:14Z'
   license: CC BY-SA 3.0
 ---
 
@@ -41,3 +41,4 @@ source:
 - Port to the next room. Each brazier has a small set of mobs to be killed before a symbol is revealed. Go back and right click on the same brazier to choose which symbol to set. You can complete all of them with one toon if you need.
 - Burn Sparky. You may want to throw up some healing wards first. He also power drains. Chronomentoring to 125 will not ensure your survival from the AOE that hits everyone at the start of the fight.
 - Burn Solusek Ro to finish. DO NOT immediately one-shot him. Smack him to give the game a chance to recognize that you've started combat in order for the final loot chest and shiny to spawn.
+  - Personal experience from Ouka of the Maj'Dul server - Chrono down to level 120 instead of 125. This lets me burn Solusek Ro with a single dragonfire without immediately one-shotting him, which the script recognizes as the factors fulfilled for the loot chest and final shiny to spawn. If you one-shot him, you just get status as a reward but no loot.

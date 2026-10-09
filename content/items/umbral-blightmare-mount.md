@@ -42,8 +42,8 @@ source:
   title: Umbral Blightmare (Mount)
   url: https://eq2.fandom.com/wiki/Umbral_Blightmare_(Mount)
   history: https://eq2.fandom.com/wiki/Umbral_Blightmare_(Mount)?action=history
-  revision: 2023871
-  revised: '2026-08-23T13:01:16Z'
+  revision: 2031330
+  revised: '2026-10-07T22:36:02Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

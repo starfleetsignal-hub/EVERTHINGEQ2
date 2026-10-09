@@ -43,8 +43,8 @@ source:
   title: Steadfast Nethernaught (Mount)
   url: https://eq2.fandom.com/wiki/Steadfast_Nethernaught_(Mount)
   history: https://eq2.fandom.com/wiki/Steadfast_Nethernaught_(Mount)?action=history
-  revision: 1934876
-  revised: '2026-01-02T19:14:20Z'
+  revision: 2030908
+  revised: '2026-10-05T03:53:45Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

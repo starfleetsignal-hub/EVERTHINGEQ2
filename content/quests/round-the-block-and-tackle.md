@@ -10,12 +10,10 @@ timeline: '[[Prelude Paths of Sedition Timeline]]'
 journal_category: World Event
 starts: Speak with [[Salira Freecreek]] in The Commonlands at Crossroads {{waypoint -526, -44, -314}}
 categories:
-- Affected by future updates
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - The Commonlands Quests
 - The Commonlands Solo Quests
 - World Event Quests
@@ -23,8 +21,8 @@ source:
   title: '''Round the Block and Tackle'
   url: https://eq2.fandom.com/wiki/'Round_the_Block_and_Tackle
   history: https://eq2.fandom.com/wiki/'Round_the_Block_and_Tackle?action=history
-  revision: 2029828
-  revised: '2026-09-17T02:34:30Z'
+  revision: 2031063
+  revised: '2026-10-06T21:29:16Z'
   license: CC BY-SA 3.0
 ---
 

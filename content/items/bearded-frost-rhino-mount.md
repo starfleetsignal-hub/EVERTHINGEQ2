@@ -69,8 +69,8 @@ source:
   title: Bearded Frost Rhino (Mount)
   url: https://eq2.fandom.com/wiki/Bearded_Frost_Rhino_(Mount)
   history: https://eq2.fandom.com/wiki/Bearded_Frost_Rhino_(Mount)?action=history
-  revision: 1928464
-  revised: '2026-01-01T15:57:16Z'
+  revision: 2031098
+  revised: '2026-10-07T02:55:23Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

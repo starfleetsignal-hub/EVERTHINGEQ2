@@ -11,21 +11,19 @@ journal_category: World Event
 starts: Speak with [[Tranessa Vexis]] at bottom level {{waypoint -29, -20, 1}}
 prerequisite: '[[Spider Off Dead]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: Dispatch Conspirators for Neriak
   url: https://eq2.fandom.com/wiki/Dispatch_Conspirators_for_Neriak
   history: https://eq2.fandom.com/wiki/Dispatch_Conspirators_for_Neriak?action=history
-  revision: 2029994
-  revised: '2026-09-18T14:42:39Z'
+  revision: 2031066
+  revised: '2026-10-06T21:31:11Z'
   license: CC BY-SA 3.0
 ---
 

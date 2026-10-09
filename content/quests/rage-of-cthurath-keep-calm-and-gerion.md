@@ -25,8 +25,8 @@ source:
   title: 'Rage of Cthurath: Keep Calm and Gerion'
   url: https://eq2.fandom.com/wiki/Rage_of_Cthurath:_Keep_Calm_and_Gerion
   history: https://eq2.fandom.com/wiki/Rage_of_Cthurath:_Keep_Calm_and_Gerion?action=history
-  revision: 2010342
-  revised: '2026-06-01T15:09:30Z'
+  revision: 2031576
+  revised: '2026-10-09T14:06:28Z'
   license: CC BY-SA 3.0
 ---
 
@@ -68,7 +68,7 @@ source:
 - [[Executioner's Fountain]]
 - [[Rage of Cthurath Account Flag: Gerion Dungeons Unlock]]
 - [[Status Coin (75,000)]]<br>
-- At least 4p 36g 48s 99c
+- At least 16p 54g 73s 48c
 - One of the following:
   - [[Gnarltree Greaves of Succession]]
   - [[Industrial Chausses of Saga]]

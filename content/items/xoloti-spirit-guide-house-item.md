@@ -2,6 +2,7 @@
 title: Xoloti, Spirit Guide (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_5168.png
 tier: Fabled
 item_level: '0'
@@ -12,6 +13,7 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Xoloti, Spirit Guide (House Item)
   url: https://eq2.fandom.com/wiki/Xoloti,_Spirit_Guide_(House_Item)
   history: https://eq2.fandom.com/wiki/Xoloti,_Spirit_Guide_(House_Item)?action=history
-  revision: 1345081
-  revised: '2021-07-07T23:47:39Z'
+  revision: 2031196
+  revised: '2026-10-07T16:12:56Z'
   license: CC BY-SA 3.0
 ---
 

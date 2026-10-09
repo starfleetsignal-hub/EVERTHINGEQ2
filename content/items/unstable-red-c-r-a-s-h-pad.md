@@ -68,8 +68,8 @@ source:
   title: Unstable Red C.R.A.S.H. Pad
   url: https://eq2.fandom.com/wiki/Unstable_Red_C.R.A.S.H._Pad
   history: https://eq2.fandom.com/wiki/Unstable_Red_C.R.A.S.H._Pad?action=history
-  revision: 1935920
-  revised: '2026-01-02T20:10:26Z'
+  revision: 2031365
+  revised: '2026-10-08T00:14:27Z'
   license: CC BY-SA 3.0
 expansion: Destiny of Velious
 expansion_source: source

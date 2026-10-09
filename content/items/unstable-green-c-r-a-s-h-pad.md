@@ -68,11 +68,11 @@ source:
   title: Unstable Green C.R.A.S.H. Pad
   url: https://eq2.fandom.com/wiki/Unstable_Green_C.R.A.S.H._Pad
   history: https://eq2.fandom.com/wiki/Unstable_Green_C.R.A.S.H._Pad?action=history
-  revision: 1935918
-  revised: '2026-01-02T20:10:21Z'
+  revision: 2031366
+  revised: '2026-10-08T00:14:38Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: source
+expansion_source: linked
 ---
 
 ## Notes

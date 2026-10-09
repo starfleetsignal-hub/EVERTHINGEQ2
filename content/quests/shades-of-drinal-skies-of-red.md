@@ -29,8 +29,8 @@ source:
   title: 'Shades of Drinal: Skies of Red'
   url: https://eq2.fandom.com/wiki/Shades_of_Drinal:_Skies_of_Red
   history: https://eq2.fandom.com/wiki/Shades_of_Drinal:_Skies_of_Red?action=history
-  revision: 1588936
-  revised: '2022-11-01T19:36:03Z'
+  revision: 2031550
+  revised: '2026-10-08T23:05:32Z'
   license: CC BY-SA 3.0
 ---
 
@@ -38,8 +38,8 @@ source:
 
 1. I should seek out the creature known as Gulthga in the Fearcreep, and see if I can help.
    - Seek out the creature known as [[Gulthga (NPC)|Gulthga]] {{waypoint -1349, 218, 606}} in the Fearcreep
-1. I have found Gulgutha, which turned out to be a creature of Fear - an amygdalian! However, he says he also needs help figuring out what has transpired here in Ethernere. I should do what I can to assist him for now.
-   - Help Gulthga find what is happening in the Fearcreep and Complete Gulthga's questline:
+1. I have found Gulthga, which turned out to be a creature of Fear - an amygdalian! However, he says he also needs help figuring out what has transpired here in Ethernere. I should do what I can to assist him for now.
+   - Help  [[Gulthga (NPC)|Gulthga]] {{waypoint -1349, 218, 606}} i find what is happening in the Fearcreep and Complete Gulthga's questline:
      - [[Fear Itself]]
      - [[Thule vs. Thule]]
      - [[Fortunes Turned]]

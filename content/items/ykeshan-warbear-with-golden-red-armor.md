@@ -64,8 +64,8 @@ source:
   title: Ykeshan Warbear with Golden Red Armor
   url: https://eq2.fandom.com/wiki/Ykeshan_Warbear_with_Golden_Red_Armor
   history: https://eq2.fandom.com/wiki/Ykeshan_Warbear_with_Golden_Red_Armor?action=history
-  revision: 1936340
-  revised: '2026-01-02T21:05:11Z'
+  revision: 2031190
+  revised: '2026-10-07T16:07:51Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

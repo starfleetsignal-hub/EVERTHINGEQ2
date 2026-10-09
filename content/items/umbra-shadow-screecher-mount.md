@@ -41,8 +41,8 @@ source:
   title: Umbra, Shadow Screecher (Mount)
   url: https://eq2.fandom.com/wiki/Umbra,_Shadow_Screecher_(Mount)
   history: https://eq2.fandom.com/wiki/Umbra,_Shadow_Screecher_(Mount)?action=history
-  revision: 1935882
-  revised: '2026-01-02T20:08:45Z'
+  revision: 2031332
+  revised: '2026-10-07T22:36:05Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: source

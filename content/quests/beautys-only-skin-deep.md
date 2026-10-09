@@ -27,8 +27,8 @@ source:
   title: Beauty's Only Skin Deep
   url: https://eq2.fandom.com/wiki/Beauty's_Only_Skin_Deep
   history: https://eq2.fandom.com/wiki/Beauty's_Only_Skin_Deep?action=history
-  revision: 1822002
-  revised: '2024-09-02T02:36:37Z'
+  revision: 2030860
+  revised: '2026-10-04T03:10:16Z'
   license: CC BY-SA 3.0
 ---
 
@@ -58,7 +58,7 @@ For step 3 below, the disruptive students spawn throughout the library (upstairs
    - The [[Sealed Moldy Scroll]] can be obtained on the fifth floor by completing the sub-quest [[Unhappily Ever After]].
    - The [[Sealed Timeworn Scroll]] can be obtained on the sixth floor at {{waypoint 19, 561, 43}}.
 1. Return to Marian Cross at {{waypoint -75, 49, 78}} in the frozen library. She deciphers the book for you and gives you excerpts of each chapter. She tells you that the book's author is Cara Omica and you need to speak to her.
-1. Go back to [[Tower of Frozen Shadow: Umbral Halls]] and defeat Cara Omica, the final named on the fourth floor (Darkness Rising).
+1. Go back to [[Tower of Frozen Shadow: Umbral Halls]], 4th floor, and defeat Cara Omica, the final named on the fourth floor (Darkness Rising).
    - *Note: You will have likely have defeated her as part of step 5, so you will need a new instance of the zone to do this in if that is the case.*
 1. Once Cara has been defeated, speak to her spirit.
 1. Return once again to Marian Cross in the frozen library to complete the quest.

@@ -11,21 +11,19 @@ journal_category: World Event
 starts: Speak with Iffa Dingmetal at {{waypoint -25, -20, 12}}
 prerequisite: '[[''Round the Block and Tackle]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: Recruit Requisitions
   url: https://eq2.fandom.com/wiki/Recruit_Requisitions
   history: https://eq2.fandom.com/wiki/Recruit_Requisitions?action=history
-  revision: 2028794
-  revised: '2026-09-10T23:49:18Z'
+  revision: 2031072
+  revised: '2026-10-06T21:34:55Z'
   license: CC BY-SA 3.0
 ---
 

@@ -64,8 +64,8 @@ source:
   title: Ykeshan Warbear with Golden Black Armor
   url: https://eq2.fandom.com/wiki/Ykeshan_Warbear_with_Golden_Black_Armor
   history: https://eq2.fandom.com/wiki/Ykeshan_Warbear_with_Golden_Black_Armor?action=history
-  revision: 1936338
-  revised: '2026-01-02T21:05:07Z'
+  revision: 2031188
+  revised: '2026-10-07T16:07:47Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

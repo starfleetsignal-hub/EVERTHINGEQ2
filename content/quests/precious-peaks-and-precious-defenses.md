@@ -26,8 +26,8 @@ source:
   title: Precious Peaks and Precious Defenses
   url: https://eq2.fandom.com/wiki/Precious_Peaks_and_Precious_Defenses
   history: https://eq2.fandom.com/wiki/Precious_Peaks_and_Precious_Defenses?action=history
-  revision: 1830812
-  revised: '2024-11-22T10:45:30Z'
+  revision: 2030866
+  revised: '2026-10-04T04:59:02Z'
   license: CC BY-SA 3.0
 ---
 
@@ -48,13 +48,13 @@ source:
 1. ![](images/Ballads_of_Zimara_-_Platinum_Tortile_Sigil.png)Use teleporter {{waypoint 726.80, 275.12, 205.55}} to access [[Albalatin Terrace]] {{waypoint -57.23, 651.65, -91.52}}and kill Zakir Rish Platinum mobs until small chest drops [[Platinum Tortile Sigil]] *for each char in the group*
      - **Be careful and target and inspect each mob the 3 up Heroics are very tough.**
 1. Disable the boundary wards
-   - ![](images/Ballads_of_Zimara_-_Albalatin_Boundary_Ward.png)Click to destroy **6** of the Albalatin boundary wards around the area. Possible locations include:
+   - Click to destroy **6** of the Albalatin boundary wards around the area. Possible locations include:
      - {{waypoint -108.49, 649.65, -62.83}}, {{waypoint -98.42, 648.73, -114.25}}
      - {{waypoint -83.29, 649.08, -144.96}}, {{waypoint 4.72, 650.30, -116.88}}
      - {{waypoint 79.86, 650.28, -104.42}}, {{waypoint 73.79, 650.25, -70.65}}
      - {{waypoint -77.72, 650.39, -25.12}}, {{waypoint -24.48, 648.69, -152.68}}
      - {{waypoint 11.00, 662.12, -150.64}}, {{waypoint 80.80, 662.36, -140.11}}
-       - Take the teleporter back to [[Glistervein Grove]] at {{waypoint -53.98, 651.61, -89.68}}
+   - Take the teleporter back to [[Glistervein Grove]] at {{waypoint -53.98, 651.61, -89.68}}
    - Click to destroy **6** Tincture wards around the area. Possible locations include:
      - {{waypoint 414.10, 253.13, 415.72}}, {{waypoint 469.02, 260.10, 555.21}}
      - {{waypoint 537.51, 252.64, 699.70}}, {{waypoint 752.57, 259.20, 590.91}}

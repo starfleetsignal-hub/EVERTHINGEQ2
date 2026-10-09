@@ -19,6 +19,7 @@ stats:
   dtype: Chain Armor
 obtained_from: '[[Rage of Cthurath: On to Oogothl]]'
 item_link: \aITEM -1471820093 -2029159637:Brokenskull Chain Boots of Incursions\/a
+image: images/Brokenskull_Chain_Boots_of_Incursions.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -30,6 +31,7 @@ categories:
 - Defiler Equipment
 - Dirge Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Feet (Inventory Slot)
 - Max Power (Equipment)
 - Mystic Equipment
@@ -48,8 +50,8 @@ source:
   title: Brokenskull Chain Boots of Incursions
   url: https://eq2.fandom.com/wiki/Brokenskull_Chain_Boots_of_Incursions
   history: https://eq2.fandom.com/wiki/Brokenskull_Chain_Boots_of_Incursions?action=history
-  revision: 2004108
-  revised: '2026-05-17T10:40:27Z'
+  revision: 2031560
+  revised: '2026-10-09T10:04:25Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

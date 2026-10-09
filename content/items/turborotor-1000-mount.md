@@ -42,8 +42,8 @@ source:
   title: Turborotor 1000 (Mount)
   url: https://eq2.fandom.com/wiki/Turborotor_1000_(Mount)
   history: https://eq2.fandom.com/wiki/Turborotor_1000_(Mount)?action=history
-  revision: 2023868
-  revised: '2026-08-23T13:01:06Z'
+  revision: 2031476
+  revised: '2026-10-08T05:12:52Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

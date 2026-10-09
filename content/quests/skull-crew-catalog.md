@@ -23,15 +23,15 @@ source:
   title: Skull Crew Catalog
   url: https://eq2.fandom.com/wiki/Skull_Crew_Catalog
   history: https://eq2.fandom.com/wiki/Skull_Crew_Catalog?action=history
-  revision: 2030337
-  revised: '2026-09-23T00:09:10Z'
+  revision: 2031558
+  revised: '2026-10-09T06:26:42Z'
   license: CC BY-SA 3.0
 ---
 
 ## Notes
 
-Upon accepting quest you receive ability [[Catalogue Creature]] if you did not have it already.<br>
-For the purpose of this quest killing the mobs if you can do it, also gives an update.
+Upon accepting this quest, you receive the ability [[Catalogue Creature]] if you did not have it already.<br>
+For the purpose of this quest killing the mobs, if you can do it, also gives an update.
 
 ## Steps
 

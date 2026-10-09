@@ -41,8 +41,8 @@ source:
   title: Noble Steadfast Nethernaught (Mount)
   url: https://eq2.fandom.com/wiki/Noble_Steadfast_Nethernaught_(Mount)
   history: https://eq2.fandom.com/wiki/Noble_Steadfast_Nethernaught_(Mount)?action=history
-  revision: 1932580
-  revised: '2026-01-01T22:27:12Z'
+  revision: 2030916
+  revised: '2026-10-05T04:02:40Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

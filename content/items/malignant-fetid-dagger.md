@@ -76,8 +76,8 @@ source:
   title: Malignant Fetid Dagger
   url: https://eq2.fandom.com/wiki/Malignant_Fetid_Dagger
   history: https://eq2.fandom.com/wiki/Malignant_Fetid_Dagger?action=history
-  revision: 2030566
-  revised: '2026-09-28T13:59:00Z'
+  revision: 2031153
+  revised: '2026-10-07T09:15:30Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

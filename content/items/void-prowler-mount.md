@@ -67,8 +67,8 @@ source:
   title: Void Prowler (Mount)
   url: https://eq2.fandom.com/wiki/Void_Prowler_(Mount)
   history: https://eq2.fandom.com/wiki/Void_Prowler_(Mount)?action=history
-  revision: 1936117
-  revised: '2026-01-02T20:44:44Z'
+  revision: 2031302
+  revised: '2026-10-07T21:28:16Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

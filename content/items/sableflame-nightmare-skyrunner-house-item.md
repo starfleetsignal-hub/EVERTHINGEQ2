@@ -2,6 +2,7 @@
 title: Sableflame Nightmare Skyrunner (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_108.png
 tier: Treasured
 item_level: '0'
@@ -11,14 +12,15 @@ item_link: \aITEM -1050073077 1124031440:Sableflame Nightmare Skyrunner\/a
 categories:
 - Census Credits
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Treasured Items
 source:
   title: Sableflame Nightmare Skyrunner (House Item)
   url: https://eq2.fandom.com/wiki/Sableflame_Nightmare_Skyrunner_(House_Item)
   history: https://eq2.fandom.com/wiki/Sableflame_Nightmare_Skyrunner_(House_Item)?action=history
-  revision: 1878995
-  revised: '2025-07-19T23:08:15Z'
+  revision: 2030934
+  revised: '2026-10-05T04:24:19Z'
   license: CC BY-SA 3.0
 ---
 

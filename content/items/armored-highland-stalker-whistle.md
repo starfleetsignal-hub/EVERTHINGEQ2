@@ -15,6 +15,8 @@ stats:
 effect_name: Call Armored Highland Stalker
 effects: "- Applies Call Armored Highland Stalker when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%"
 item_link: \aITEM -1357961801 1836413731:Armored Highland Stalker whistle\/a
+aliases:
+- Armored Highland Stalker (Mount)
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -67,11 +69,13 @@ source:
   title: Armored Highland Stalker whistle
   url: https://eq2.fandom.com/wiki/Armored_Highland_Stalker_whistle
   history: https://eq2.fandom.com/wiki/Armored_Highland_Stalker_whistle?action=history
-  revision: 1928323
-  revised: '2026-01-01T15:51:16Z'
+  revision: 2030978
+  revised: '2026-10-05T20:37:29Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
 ---
 
+## Notes
 
+This can be turned into a House Pet: [[Armored Highland Stalker (House Item)]]

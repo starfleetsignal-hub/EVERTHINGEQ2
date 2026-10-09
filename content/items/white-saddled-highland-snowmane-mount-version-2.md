@@ -69,8 +69,8 @@ source:
   title: White-Saddled Highland Snowmane (Mount) (Version 2)
   url: https://eq2.fandom.com/wiki/White-Saddled_Highland_Snowmane_(Mount)_(Version_2)
   history: https://eq2.fandom.com/wiki/White-Saddled_Highland_Snowmane_(Mount)_(Version_2)?action=history
-  revision: 1936234
-  revised: '2026-01-02T20:54:22Z'
+  revision: 2031221
+  revised: '2026-10-07T17:22:40Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

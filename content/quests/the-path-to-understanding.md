@@ -29,8 +29,8 @@ source:
   title: The Path to Understanding...
   url: https://eq2.fandom.com/wiki/The_Path_to_Understanding...
   history: https://eq2.fandom.com/wiki/The_Path_to_Understanding...?action=history
-  revision: 992389
-  revised: '2019-09-07T20:48:57Z'
+  revision: 2031480
+  revised: '2026-10-08T07:45:52Z'
   license: CC BY-SA 3.0
 ---
 
@@ -85,6 +85,7 @@ In order to complete this questline, you must:
      - *Note: to get to The Hole West. must zone into Dartain's Fortress.*
      - click on foreign bulb to spawn [[Kortaag]] that is a pita just like the one in Conservatory. Stun or precure, the AE is a killer at level 95.
      - *Note: If you do this Quest at level 95 you'll need two tanks, when the named splits during the fight and makes an exact clone of himself (including having the same name!).  You MUST separate the split mobs far apart [at least 50m] and then kill each clone to get update.  If you don't split the clones, they combine (after a certain amount of time) into a super Kortaag that will wipe the group. Position a solo healer between the two tanks.*
+     - Kortaag may not take any damage if you are able to one-shot him. Using [[Methodical Strikes]] or otherwise lessening your damage output will lower his health until the split triggers.
 1. Return to Warble.
    - After you speak to Warble he teleports you to a special instance which resembles Kerra Isle, cross the bridge and the NPC will advise you to make it to the center of the village as fast as possible. [Take the normal way as tunnels are blocked!]
 1. Quest completes and you will be ported back to Warble to continue the next quest

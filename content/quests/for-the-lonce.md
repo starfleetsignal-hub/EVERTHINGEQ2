@@ -1,28 +1,29 @@
 ---
 title: For the Lonce
 type: quest
-expansion: Age of Discovery
-expansion_source: timeline
+expansion: Altar of Malice
+expansion_source: patch
 level: Scales
 zone: '[[Qeynos Capitol District]]'
 timeline: '[[The City of Qeynos Timeline]]'
 journal_category: The City of Qeynos
 starts: Find [[Lonce Jellysmots]] at {{waypoint 339, -22, -180}}
 next_quest: '[[Initiating the End]]'
+added_in: Altar of Malice
 categories:
+- Altar of Malice Quests
 - Qeynos Capitol District Quests
 - Qeynos Capitol District Solo Quests
 - Quests
 - Scalable Quests
-- Shattered Lands Quests
 - Solo Quests
 - The City of Qeynos Quests
 source:
   title: For the Lonce
   url: https://eq2.fandom.com/wiki/For_the_Lonce
   history: https://eq2.fandom.com/wiki/For_the_Lonce?action=history
-  revision: 1951224
-  revised: '2026-01-06T22:00:30Z'
+  revision: 2031586
+  revised: '2026-10-09T17:25:06Z'
   license: CC BY-SA 3.0
 ---
 

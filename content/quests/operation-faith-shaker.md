@@ -11,27 +11,26 @@ journal_category: World Event
 starts: Speak with [[Jackal]] inside the [[Block and Tackle Storerooms]] at {{waypoint -7, -13, -4}}
 prerequisite: '[[Spider Off Dead]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: 'Operation: Faith Shaker'
   url: https://eq2.fandom.com/wiki/Operation:_Faith_Shaker
   history: https://eq2.fandom.com/wiki/Operation:_Faith_Shaker?action=history
-  revision: 2030608
-  revised: '2026-09-28T22:24:55Z'
+  revision: 2031553
+  revised: '2026-10-09T02:53:18Z'
   license: CC BY-SA 3.0
 ---
 
 ## Notes
 
-When accepting quest you are given [[Dismal Rage Disguise]] a troll illusion item that only works in zones related to this quest.
+When accepting quest you are given [[Dismal Rage Disguise]] a troll illusion item that only works in zones related to this quest.<br>
+Witnessing the speech **roots you in place and dismounts you**, remember to mount up after leaving the instance.
 
 ## Steps
 

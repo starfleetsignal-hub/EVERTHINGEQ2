@@ -42,8 +42,8 @@ source:
   title: Beloxx, the Undying (Mount)
   url: https://eq2.fandom.com/wiki/Beloxx,_the_Undying_(Mount)
   history: https://eq2.fandom.com/wiki/Beloxx,_the_Undying_(Mount)?action=history
-  revision: 2004481
-  revised: '2026-05-17T11:36:01Z'
+  revision: 2031110
+  revised: '2026-10-07T03:12:47Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

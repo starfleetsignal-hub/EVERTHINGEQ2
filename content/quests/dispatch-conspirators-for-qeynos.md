@@ -11,21 +11,19 @@ journal_category: World Event
 starts: Speak with [[Lachlyn Cauldthorn (Block and Tackle Storerooms)|Lachlyn Cauldthorn]] at {{waypoint -12, -13, -4}}
 prerequisite: '[[Spider Off Dead]]'
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms Quests
 - Block and Tackle Storerooms Solo Quests
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - World Event Quests
 source:
   title: Dispatch Conspirators for Qeynos
   url: https://eq2.fandom.com/wiki/Dispatch_Conspirators_for_Qeynos
   history: https://eq2.fandom.com/wiki/Dispatch_Conspirators_for_Qeynos?action=history
-  revision: 2030324
-  revised: '2026-09-22T23:06:24Z'
+  revision: 2031084
+  revised: '2026-10-07T02:00:11Z'
   license: CC BY-SA 3.0
 ---
 
@@ -42,6 +40,7 @@ source:
 1. Once inside:
    - Slay 15 x Daenethian Teir'Dal and Arasai
    - Destroy 18 weapon caches
+1. after clearing the zone. 2 named will pop. Kill them for a portal to open to return. A befouled Lord Knight of Truth & Mistress Vysessa of the Blood
 1. Return to Lachlyn
 
 ## Rewards

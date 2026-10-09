@@ -14,6 +14,7 @@ stats:
   recast: 0.0 seconds
 effect_name: Summon Arcanist's Hover Platform
 effects: "- Applies Summon Arcanist's Hover Platform when Activated.\n  - Summons a mount to ride\n    - Increases your ground speed by 130%\n  - Increases Max Health of caster by 200.0.\n  - Increases Max Power of caster by 200.0.\n  - Increases Crit Chance of caster by 2.0.\n  - Increases Casting Speed of caster by 2.0%.\n  - Reduces maximum falling speed of caster"
+obtained_from: Sold by [[A Flamebearer Supply Master]]
 item_link: \aITEM 522073471 947887230:Arcanist's Hover Platform\/a
 categories:
 - Assassin Equipment
@@ -66,8 +67,8 @@ source:
   title: Arcanist's Hover Platform (Mount)
   url: https://eq2.fandom.com/wiki/Arcanist's_Hover_Platform_(Mount)
   history: https://eq2.fandom.com/wiki/Arcanist's_Hover_Platform_(Mount)?action=history
-  revision: 1928308
-  revised: '2026-01-01T15:50:28Z'
+  revision: 2030970
+  revised: '2026-10-05T20:08:17Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: linked

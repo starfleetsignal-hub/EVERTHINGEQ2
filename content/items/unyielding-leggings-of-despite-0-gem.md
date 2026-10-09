@@ -19,6 +19,7 @@ stats:
   dtype: Plate Armor
 obtained_from: From [[Malevolent Plate Greaves (Staunch, Unyielding, Resolute)|Malevolent Plate Greaves]]
 item_link: \aITEM 1117912398 -1178188501:Unyielding Leggings of Despite\/a
+image: images/Unyielding_Leggings_of_Despite_(0_Gem).png
 categories:
 - Berserker Equipment
 - Casting Speed (Equipment)
@@ -27,6 +28,7 @@ categories:
 - Crit Bonus (Equipment)
 - Crusader Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Extra Parry Chance (Equipment)
 - Fabled Equipment
 - Guardian Equipment
@@ -46,8 +48,8 @@ source:
   title: Unyielding Leggings of Despite (0 Gem)
   url: https://eq2.fandom.com/wiki/Unyielding_Leggings_of_Despite_(0_Gem)
   history: https://eq2.fandom.com/wiki/Unyielding_Leggings_of_Despite_(0_Gem)?action=history
-  revision: 1948808
-  revised: '2026-01-04T12:26:55Z'
+  revision: 2031035
+  revised: '2026-10-06T11:26:31Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

@@ -20,6 +20,7 @@ stats:
   mitinc: '14.1'
 obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
 item_link: \aITEM -1998310452 -1701201888:Mesmerizer's Bolstered Cloak\/a
+image: images/Mesmerizer's_Bolstered_Cloak_(Level_110).png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -43,6 +44,7 @@ categories:
 - Druid Equipment
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Fury Equipment
 - Guardian Equipment
@@ -78,8 +80,8 @@ source:
   title: Mesmerizer's Bolstered Cloak (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Bolstered_Cloak_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Bolstered_Cloak_(Level_110)?action=history
-  revision: 1215577
-  revised: '2021-01-07T10:30:16Z'
+  revision: 2031173
+  revised: '2026-10-07T10:25:19Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

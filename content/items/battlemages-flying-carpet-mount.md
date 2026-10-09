@@ -42,8 +42,8 @@ source:
   title: Battlemage's Flying Carpet (Mount)
   url: https://eq2.fandom.com/wiki/Battlemage's_Flying_Carpet_(Mount)
   history: https://eq2.fandom.com/wiki/Battlemage's_Flying_Carpet_(Mount)?action=history
-  revision: 2023742
-  revised: '2026-08-23T12:37:33Z'
+  revision: 2031102
+  revised: '2026-10-07T02:55:31Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

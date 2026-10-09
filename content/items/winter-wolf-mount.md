@@ -67,8 +67,8 @@ source:
   title: Winter Wolf (Mount)
   url: https://eq2.fandom.com/wiki/Winter_Wolf_(Mount)
   history: https://eq2.fandom.com/wiki/Winter_Wolf_(Mount)?action=history
-  revision: 1936269
-  revised: '2026-01-02T20:56:33Z'
+  revision: 2031263
+  revised: '2026-10-07T19:57:05Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

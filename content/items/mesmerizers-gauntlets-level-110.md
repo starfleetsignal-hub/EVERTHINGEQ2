@@ -22,6 +22,7 @@ stats:
   dtype: Cloth Armor
 obtained_from: From [[A Packet of Level 110 Equipment (Illusionist)|A Packet of Level 110 Equipment]]
 item_link: \aITEM -2134510551 -2040826467:Mesmerizer's Gauntlets\/a
+image: images/Mesmerizer's_Gauntlets_(Level_110).png
 categories:
 - Attack Speed (Equipment)
 - Census Credits
@@ -31,6 +32,7 @@ categories:
 - Crit Bonus Overcap (Equipment)
 - Enchanter Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Hands (Inventory Slot)
 - Illusionist Equipment
 - Item obtained from a Crate
@@ -50,8 +52,8 @@ source:
   title: Mesmerizer's Gauntlets (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Gauntlets_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Gauntlets_(Level_110)?action=history
-  revision: 909514
-  revised: '2018-10-27T12:54:06Z'
+  revision: 2031170
+  revised: '2026-10-07T10:17:00Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

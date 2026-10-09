@@ -42,8 +42,8 @@ source:
   title: Winter Waterfowl (Mount)
   url: https://eq2.fandom.com/wiki/Winter_Waterfowl_(Mount)
   history: https://eq2.fandom.com/wiki/Winter_Waterfowl_(Mount)?action=history
-  revision: 2023889
-  revised: '2026-08-23T13:03:00Z'
+  revision: 2031265
+  revised: '2026-10-07T19:57:09Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

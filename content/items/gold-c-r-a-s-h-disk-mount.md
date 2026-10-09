@@ -67,8 +67,8 @@ source:
   title: Gold C.R.A.S.H. Disk (Mount)
   url: https://eq2.fandom.com/wiki/Gold_C.R.A.S.H._Disk_(Mount)
   history: https://eq2.fandom.com/wiki/Gold_C.R.A.S.H._Disk_(Mount)?action=history
-  revision: 1930778
-  revised: '2026-01-01T19:12:02Z'
+  revision: 2031363
+  revised: '2026-10-08T00:12:40Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

@@ -18,6 +18,7 @@ stats:
   mitinc: '4'
 obtained_from: '*Made from [[A sapphire key]] *Made from [[An ancient silver key]] *[[Silver Key of Fabled Rujark]]'
 item_link: \aITEM 1077652827 449420876:Ring of the Steelslave Mauler\/a
+image: images/Ring_of_the_Steelslave_Mauler.png
 categories:
 - Ability Modifier (Equipment)
 - Arcane Resistance (Equipment)
@@ -35,6 +36,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Finger (Inventory Slot)
 - Guardian Equipment
@@ -59,8 +61,8 @@ source:
   title: Ring of the Steelslave Mauler
   url: https://eq2.fandom.com/wiki/Ring_of_the_Steelslave_Mauler
   history: https://eq2.fandom.com/wiki/Ring_of_the_Steelslave_Mauler?action=history
-  revision: 1370952
-  revised: '2021-12-05T14:31:49Z'
+  revision: 2031517
+  revised: '2026-10-08T14:40:55Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

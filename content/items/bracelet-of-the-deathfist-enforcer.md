@@ -19,6 +19,7 @@ stats:
   vselemental: +7,970
 obtained_from: '*Made from [[A sapphire key]] *Made from [[An ancient silver key]] *[[Silver Key of Fabled Rujark]]'
 item_link: \aITEM 732632126 1561784737:Bracelet of the Deathfist Enforcer\/a
+image: images/Bracelet_of_the_Deathfist_Enforcer.png
 categories:
 - Arcane Resistance (Equipment)
 - Assassin Equipment
@@ -36,6 +37,7 @@ categories:
 - Dirge Equipment
 - Elemental Resistance (Equipment)
 - Equipment
+- Equipment pages with existing iname images
 - Fighter Equipment
 - Flurry Chance (Equipment)
 - Guardian Equipment
@@ -61,8 +63,8 @@ source:
   title: Bracelet of the Deathfist Enforcer
   url: https://eq2.fandom.com/wiki/Bracelet_of_the_Deathfist_Enforcer
   history: https://eq2.fandom.com/wiki/Bracelet_of_the_Deathfist_Enforcer?action=history
-  revision: 1374293
-  revised: '2021-12-05T18:00:13Z'
+  revision: 2031521
+  revised: '2026-10-08T14:41:38Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

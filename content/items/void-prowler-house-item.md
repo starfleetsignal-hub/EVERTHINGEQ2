@@ -2,6 +2,7 @@
 title: Void Prowler (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_107.png
 tier: Treasured
 item_level: '0'
@@ -11,6 +12,7 @@ item_link: \aITEM 17892005 162574230:Void Prowler\/a
 categories:
 - Census Credits
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Void Prowler (House Item)
   url: https://eq2.fandom.com/wiki/Void_Prowler_(House_Item)
   history: https://eq2.fandom.com/wiki/Void_Prowler_(House_Item)?action=history
-  revision: 1692253
-  revised: '2023-03-16T17:57:36Z'
+  revision: 2031301
+  revised: '2026-10-07T21:28:15Z'
   license: CC BY-SA 3.0
 ---
 

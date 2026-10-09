@@ -41,8 +41,8 @@ source:
   title: Uranon the Avenging (Mount)
   url: https://eq2.fandom.com/wiki/Uranon_the_Avenging_(Mount)
   history: https://eq2.fandom.com/wiki/Uranon_the_Avenging_(Mount)?action=history
-  revision: 1935934
-  revised: '2026-01-02T20:11:02Z'
+  revision: 2031345
+  revised: '2026-10-07T22:49:28Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

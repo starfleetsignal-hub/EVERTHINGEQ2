@@ -67,8 +67,8 @@ source:
   title: Unreliable C.R.A.S.H. Pad
   url: https://eq2.fandom.com/wiki/Unreliable_C.R.A.S.H._Pad
   history: https://eq2.fandom.com/wiki/Unreliable_C.R.A.S.H._Pad?action=history
-  revision: 1935909
-  revised: '2026-01-02T20:09:57Z'
+  revision: 2031342
+  revised: '2026-10-07T22:49:22Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

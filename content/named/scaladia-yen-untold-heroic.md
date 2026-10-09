@@ -24,26 +24,28 @@ source:
   title: Scaladia Yen (Untold Heroic)
   url: https://eq2.fandom.com/wiki/Scaladia_Yen_(Untold_Heroic)
   history: https://eq2.fandom.com/wiki/Scaladia_Yen_(Untold_Heroic)?action=history
-  revision: 2002276
-  revised: '2026-05-13T01:32:29Z'
+  revision: 2031108
+  revised: '2026-10-07T03:12:43Z'
   license: CC BY-SA 3.0
 ---
 
-Throughout the Tempting Plummet are roses of four colors. Each rose provides a class-specific buff. Players who click a rose of their class receive one increment of their buff. Players who click a rose of another color destroy the rose with no effect. The roses respawn quickly. All four buffs kill the target if they have more than 12 increments, and all four buffs lose an increment on death.
+Ability and strategy information changes at stages (1-20/21-40/41+).
 
-- **Love-Hate Relationship (red, fighters)**
-- A buff that increases Strikethrough per increment. Casting [[Rescue]] removes an increment and clears its recast.
-- **Lovestruck (purple, mages)**
-- A buff that loses an increment when [[Absorb Magic]] is cast and clears its recast.
-- **Lover's Gambit (black, scouts)**
-- A buff that increases Strikethrough and AE Auto Attack per increment.
-- **Labor of Love (yellow, priests)**
-- A buff that loses an increment when [[Cure Curse]] is cast and clears its recast.
+Throughout the Tempting Plummet are roses of four colors. Each rose provides a class-specific buff. Players who click a rose of their class receive one increment of their buff. Players who click a rose of another color destroy the rose with no effect (1-20) or kill the player (41+). The roses respawn quickly. All four buffs kill the target if they have more than 12 increments, and all four buffs lose an increment on death.
+
+- **Love-Hate Relationship (scarlet, fighters)**
+- A buff that increases Strikethrough per increment. Casting [[Rescue]] removes an increment and clears its recast. At stage 41+, it disables threat transfers to and from the target if increments are odd.
+- **Lovestruck (violet, mages)**
+- A buff that loses an increment when [[Absorb Magic]] is cast and clears its recast. At stage 41+, it decreases fervor if increments are odd.
+- **Lover's Gambit (ebon, scouts)**
+- A buff that increases Strikethrough and AE Auto Attack per increment. At stage 41+, it decreases crit bonus if increments are odd, and allows the scout to see Deathly Temptations
+- **Labor of Love (gilded, priests)**
+- A buff that loses an increment when [[Cure Curse]] is cast and clears its recast. At stage 41+, it sets casting speed to zero if increments are odd.
 
 ## Abilities
 
 - **Sinuous Grace**
-- A buff that grants 20 AE Auto Attack Avoid Chance.
+- A buff that grants (20/30/40) AE Auto Attack Avoid Chance.
 - **Enchanting Gaze**
 - A detriment that reduces power received and mesmerizes the target.
 - **Fatal Attraction**
@@ -67,3 +69,4 @@ Scaladia Yen places hearts throughout the platform, which hover in the air and a
 - An incurable arcane that inflicts magic damage, slows target, decreases in-combat movement speed, and removes a rose.
 - **Shriveled Heart (green)**
 - An incurable noxious that inflicts disease damage, knocks down the target, and removes a rose.
+- ****

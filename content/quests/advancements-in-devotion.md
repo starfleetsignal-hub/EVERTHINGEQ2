@@ -12,12 +12,10 @@ starts: Speak with [[Salira Freecreek]] in The Commonlands at Crossroads at {{wa
 prerequisite: '[[Down and D.I.R.T.Y.]]'
 next_quest: '[[''Round the Block and Tackle]]'
 categories:
-- Affected by future updates
 - Quests
 - Scalable Quests
 - Shattered Lands Quests
 - Solo Quests
-- Test
 - The Commonlands Quests
 - The Commonlands Solo Quests
 - World Event Quests
@@ -25,8 +23,8 @@ source:
   title: Advancements in Devotion
   url: https://eq2.fandom.com/wiki/Advancements_in_Devotion
   history: https://eq2.fandom.com/wiki/Advancements_in_Devotion?action=history
-  revision: 2030244
-  revised: '2026-09-22T04:47:40Z'
+  revision: 2031581
+  revised: '2026-10-09T16:32:20Z'
   license: CC BY-SA 3.0
 ---
 
@@ -61,6 +59,7 @@ This quest requires minimum level 10 crafting.<br>
    - you also need 1 savanna resin from Crossroads in The Commonlands and 3 Glowing Candles from any fuel merchant
    - Craft 1 corrosive muck on Alchemists' Bowl at {{waypoint -89, 0, -42}}
    - Click door at {{waypoint -77, 0, -34}} to apply muck, go inside cell and pick up any missing artifact. Loose brick at {{waypoint -70, 0, -36}}.
+   - NOTE: If you can not apply the corrosive muck, proceed to #4, the key on the wall.
 1. Reach upper room to search it - only after you finish all searches you can gather crypt skeleton key from wall at {{waypoint -62, 0, -30}}, then open door at the top of stairs {{waypoint -93, 8, -56}} and go inside.
    - You will get rooted in place and observe a conversation between 3 conspirators.
 1. Return to Salira in The Commonlands when quest updates and you are able to move.

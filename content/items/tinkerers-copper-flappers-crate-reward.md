@@ -40,8 +40,8 @@ source:
   title: Tinkerer's Copper Flappers (Crate Reward)
   url: https://eq2.fandom.com/wiki/Tinkerer's_Copper_Flappers_(Crate_Reward)
   history: https://eq2.fandom.com/wiki/Tinkerer's_Copper_Flappers_(Crate_Reward)?action=history
-  revision: 2023864
-  revised: '2026-08-23T12:59:14Z'
+  revision: 2031439
+  revised: '2026-10-08T04:15:16Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

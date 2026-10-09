@@ -24,14 +24,14 @@ source:
   title: Unpowered Blod Rune, Fehe (Quest)
   url: https://eq2.fandom.com/wiki/Unpowered_Blod_Rune,_Fehe_(Quest)
   history: https://eq2.fandom.com/wiki/Unpowered_Blod_Rune,_Fehe_(Quest)?action=history
-  revision: 1397389
-  revised: '2022-01-20T20:27:40Z'
+  revision: 2030874
+  revised: '2026-10-04T10:22:42Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
-1. Slay 15 [[A ghostly necromantis|ghostly necromantis]] {{waypoint -295, 9, -46}} or {{waypoint -271, 11, -182}} in [[Forlorn Gist]].![A Ghostly Necromantis](images/A_ghostly_necromantis.png)
+1. Slay 15 [[A ghostly necromantis|ghostly necromantis]] {{waypoint -295, 9, -46}} or {{waypoint -271, 11, -182}} in [[Forlorn Gist]].
 
 ## Rewards
 

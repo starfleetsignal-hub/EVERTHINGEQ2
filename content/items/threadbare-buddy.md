@@ -40,8 +40,8 @@ source:
   title: Threadbare Buddy
   url: https://eq2.fandom.com/wiki/Threadbare_Buddy
   history: https://eq2.fandom.com/wiki/Threadbare_Buddy?action=history
-  revision: 1935283
-  revised: '2026-01-02T19:40:33Z'
+  revision: 2031424
+  revised: '2026-10-08T03:49:50Z'
   license: CC BY-SA 3.0
 expansion: Renewal of Ro
 expansion_source: linked

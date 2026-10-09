@@ -8,7 +8,9 @@ level: '10'
 classes: Artisan
 flags: no-trade no-value
 recipes: '- [[Cimmerott Runic Ward]]'
+obtained_from: '[[Rage of Cthurath: Netherforged Challenge]]'
 item_link: \aITEM -312666953 -1648668852:Cimmerott Runic Ward\/a
+image: images/Cimmerott_Runic_Ward_(Recipe_Book).png
 categories:
 - Artisan Recipe Books
 - Census Credits
@@ -18,11 +20,11 @@ source:
   title: Cimmerott Runic Ward (Recipe Book)
   url: https://eq2.fandom.com/wiki/Cimmerott_Runic_Ward_(Recipe_Book)
   history: https://eq2.fandom.com/wiki/Cimmerott_Runic_Ward_(Recipe_Book)?action=history
-  revision: 1921088
-  revised: '2025-12-17T22:08:55Z'
+  revision: 2031572
+  revised: '2026-10-09T11:18:18Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
-expansion_source: linked
+expansion_source: source
 ---
 
 

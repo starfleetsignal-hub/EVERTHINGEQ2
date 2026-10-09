@@ -65,7 +65,7 @@ source:
   revision: 1933968
   revised: '2026-01-02T18:17:30Z'
   license: CC BY-SA 3.0
-expansion: Age of Discovery
+expansion: Altar of Malice
 expansion_source: source
 ---
 

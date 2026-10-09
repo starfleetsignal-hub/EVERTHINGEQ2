@@ -22,8 +22,8 @@ source:
   title: 'Rage of Cthurath: Who''s Zobboz?'
   url: https://eq2.fandom.com/wiki/Rage_of_Cthurath:_Who's_Zobboz%3F
   history: https://eq2.fandom.com/wiki/Rage_of_Cthurath:_Who's_Zobboz%3F?action=history
-  revision: 2023308
-  revised: '2026-08-21T14:15:47Z'
+  revision: 2031563
+  revised: '2026-10-09T10:32:37Z'
   license: CC BY-SA 3.0
 ---
 
@@ -36,7 +36,7 @@ source:
 
 ## Steps
 
-1. Use the portal at <s>{{waypoint -434, 83, 52}}</s>   {{waypoint -463, 82, 61}}  in [[Oogothl Sprawl]] to zone into [[Zon Zobboz]]
+1. Use the portal at {{waypoint -463, 82, 61}}  in [[Oogothl Sprawl]] to zone into [[Zon Zobboz]]
 1. enter [[Zon Zobboz: The Graftwerk (Solo)|Zon Zobboz: The Graftwerk [Solo]]] using the portal on the left at {{waypoint 128, 12, 820}}. ![scrykin](images/Scrykin.png) ![vistaar prana from dead scrykin](images/Vistaar_prana_from_dead_scrykin.png)
    - *for the walkthrough of the instance see [[Zon Zobboz: The Graftwerk (Solo)|Zon Zobboz: The Graftwerk [Solo]]]*
 1. Fill the Voidwell Vial by killing 14 Scrykin on the second island (after killing the second named), then using the [[Voidwell Vial]] on the vistaar prana.
@@ -55,7 +55,7 @@ source:
    - yuru cimmerott rune
    - olunt cimmerott rune
    - dokt cimmerott rune
-   - thiet cimmerott rune
+   - [[Thiet cimmerott rune]]
    - The **seq**, **voma**, **dokt** and **thiet** runes are dropped by **non-aggro many-eyed snappers** or **Nullites** (small chest drop). Not an actual item, just a quest update.
      1. Swim across to The [[Land of the Nullites]] island.
      1. Kill [[Lord Shomp]] on a shelf just above {{waypoint -253, 15, 911}}.

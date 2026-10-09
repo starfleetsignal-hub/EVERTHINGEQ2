@@ -28,8 +28,8 @@ source:
   title: The Maiden of Masks
   url: https://eq2.fandom.com/wiki/The_Maiden_of_Masks
   history: https://eq2.fandom.com/wiki/The_Maiden_of_Masks?action=history
-  revision: 2030491
-  revised: '2026-09-26T14:15:29Z'
+  revision: 2030865
+  revised: '2026-10-04T04:26:31Z'
   license: CC BY-SA 3.0
 ---
 
@@ -92,6 +92,7 @@ These are things you will need throughout the quest:
    - For the [[Teil'Dal Performing Arts Mask|performers mask]], talk to [[Kaliis P'Radaa]] overlooking [[Kurn's Tower]] in the Fens {{waypoint -1793, -320, -2113}} to receive the subquest [[Costume Acting 101]].
      - She has you collect 20 pristine burynai skins (uncommon update).  In return, you will be given an burynai illusion which you get to keep. Walk around with the illusion on by her to get a performer's pass, then take the pass to the [[Nightsong Opera House|opera]] in Neriak and talk to [[Typhonus J'Nix]] (Theater Master) {{waypoint -672, 29, -14}} with burynai illusion on. He gives you the mask for this step.
    - Tibby wants [[Drogan Ceremonial Mask|"a primitive ritual mask worn by someone to perform a ceremony"]]. Head to the end of the track (deeper into mountain) {{waypoint 5, 49, -2156}} in the [[Mines of Nu'roga]] (**not** the instance) in Fens of Nathsar and kill [[A Nurgan captor|the Nurgan Captor]] (level 80 heroic ^^) and his 2 guards (level 80 heroic ^) surrounding [[Captured Drogan Witchdoctor]] (lvl 84^^^), who will then attack when hailed and drop [[Drogan Ceremonial Mask|a single mask]] as a body drop.
+     - Must loot the Nurgan Captor Key before you can hail him.
    - For the [[Feathered Aviak Mask|mask covered in tropical feathers]], head to [[Barren Sky]] and speak with [[Hoo'Loh]] on [[Strifewind Isle]] {{waypoint 20.73, 7.03, -438.67}}. If you've done the Hoo'Loh hat quest, you can get the Spiroc illusion for free, otherwise it will cost you 5p. Then head to [[Timorous Deep]] {{waypoint 1109, 20, -526}} and, with the illusion on, speak to [[Twocan Jam]] (found on [[Mok Rent]]).  You **must** be in illusion form or he will fly away and despawn for a short time. After some chat, Twocan will become attackable. You need to engage him for 2 minutes, but not kill him.  Just keep him mezzed, and after the 2 minutes he should give you the mask.
    - For "a [[Desiccated Halfling Skin Mask|mask that is made out of skin]]", Kill the [[Queen Velazul Dizok]] 84^^^ or her placeholder in [[Chardok]] to obtain a [[Queen Velazul's Key|key]] (chest drop) and then go to the room on the left when you leave her room. In the back, in a Tightly Locked Chest is the mask in it {{waypoint 1069.05, -50.04, 80.95}}. You will not receive any update when using the chest, the mask will silently be placed in your inventory.
    - For [[The Maiden's Mask|the mask of the maiden]], you must speak to [[Modani Qu'loni]] in the scorpion pit between [[Charasis: Vault of Eternal Sleep]] and [[Charasis: Maiden's Chamber]] in [[Jarsath Wastes]]. She asks you to obtain three books, which you can get in any order. You must speak Sathirian for this step.

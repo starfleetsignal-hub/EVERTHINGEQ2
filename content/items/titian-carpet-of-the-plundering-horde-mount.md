@@ -40,8 +40,8 @@ source:
   title: Titian Carpet of the Plundering Horde (Mount)
   url: https://eq2.fandom.com/wiki/Titian_Carpet_of_the_Plundering_Horde_(Mount)
   history: https://eq2.fandom.com/wiki/Titian_Carpet_of_the_Plundering_Horde_(Mount)?action=history
-  revision: 1935359
-  revised: '2026-01-02T19:44:47Z'
+  revision: 2031458
+  revised: '2026-10-08T04:33:02Z'
   license: CC BY-SA 3.0
 expansion: Visions of Vetrovia
 expansion_source: level

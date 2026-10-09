@@ -49,8 +49,8 @@ source:
   title: Mesmerizer's Bracers (Level 110)
   url: https://eq2.fandom.com/wiki/Mesmerizer's_Bracers_(Level_110)
   history: https://eq2.fandom.com/wiki/Mesmerizer's_Bracers_(Level_110)?action=history
-  revision: 909509
-  revised: '2018-10-27T12:53:56Z'
+  revision: 2031487
+  revised: '2026-10-08T11:38:19Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

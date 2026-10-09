@@ -71,11 +71,13 @@ source:
   title: Timber Wolf Mount Whistle
   url: https://eq2.fandom.com/wiki/Timber_Wolf_Mount_Whistle
   history: https://eq2.fandom.com/wiki/Timber_Wolf_Mount_Whistle?action=history
-  revision: 1935314
-  revised: '2026-01-02T19:42:26Z'
+  revision: 2031427
+  revised: '2026-10-08T03:56:48Z'
   license: CC BY-SA 3.0
 expansion: Destiny of Velious
 expansion_source: source
 ---
 
+## Notes
 
+House Pet version is [[Timber Wolf]]

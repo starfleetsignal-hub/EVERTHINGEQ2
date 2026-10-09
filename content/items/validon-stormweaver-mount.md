@@ -70,8 +70,8 @@ source:
   title: Validon Stormweaver (Mount)
   url: https://eq2.fandom.com/wiki/Validon_Stormweaver_(Mount)
   history: https://eq2.fandom.com/wiki/Validon_Stormweaver_(Mount)?action=history
-  revision: 1935943
-  revised: '2026-01-02T20:11:29Z'
+  revision: 2031276
+  revised: '2026-10-07T20:13:32Z'
   license: CC BY-SA 3.0
 expansion: Age of Discovery
 expansion_source: source

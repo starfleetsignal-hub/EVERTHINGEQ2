@@ -65,9 +65,11 @@ source:
   title: T'Vosh
   url: https://eq2.fandom.com/wiki/T'Vosh
   history: https://eq2.fandom.com/wiki/T'Vosh?action=history
-  revision: 1935047
-  revised: '2026-01-02T19:24:15Z'
+  revision: 2031378
+  revised: '2026-10-08T02:38:05Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+The house pet version is [[T'Vosh, Munzok's Void-Destroyer]]

@@ -2,6 +2,7 @@
 title: Tinshau, Prince of Water (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_4959.png
 tier: Fabled
 item_level: '0'
@@ -12,6 +13,7 @@ categories:
 - Census Credits
 - Fabled Items
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 2 RSR Items
@@ -19,8 +21,8 @@ source:
   title: Tinshau, Prince of Water (House Item)
   url: https://eq2.fandom.com/wiki/Tinshau,_Prince_of_Water_(House_Item)
   history: https://eq2.fandom.com/wiki/Tinshau,_Prince_of_Water_(House_Item)?action=history
-  revision: 915627
-  revised: '2018-11-24T10:27:54Z'
+  revision: 2031444
+  revised: '2026-10-08T04:19:13Z'
   license: CC BY-SA 3.0
 ---
 

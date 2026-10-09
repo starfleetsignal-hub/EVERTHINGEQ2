@@ -42,8 +42,8 @@ source:
   title: Winged Berry-Fed Bovoch Matriarch (Mount)
   url: https://eq2.fandom.com/wiki/Winged_Berry-Fed_Bovoch_Matriarch_(Mount)
   history: https://eq2.fandom.com/wiki/Winged_Berry-Fed_Bovoch_Matriarch_(Mount)?action=history
-  revision: 2023881
-  revised: '2026-08-23T13:02:42Z'
+  revision: 2031236
+  revised: '2026-10-07T17:52:33Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

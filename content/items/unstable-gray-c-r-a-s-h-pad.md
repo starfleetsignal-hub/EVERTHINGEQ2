@@ -68,8 +68,8 @@ source:
   title: Unstable Gray C.R.A.S.H. Pad
   url: https://eq2.fandom.com/wiki/Unstable_Gray_C.R.A.S.H._Pad
   history: https://eq2.fandom.com/wiki/Unstable_Gray_C.R.A.S.H._Pad?action=history
-  revision: 1935917
-  revised: '2026-01-02T20:10:19Z'
+  revision: 2031367
+  revised: '2026-10-08T00:14:42Z'
   license: CC BY-SA 3.0
 expansion: Destiny of Velious
 expansion_source: source

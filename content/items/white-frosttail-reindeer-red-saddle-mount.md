@@ -42,8 +42,8 @@ source:
   title: White Frosttail Reindeer (red saddle) (Mount)
   url: https://eq2.fandom.com/wiki/White_Frosttail_Reindeer_(red_saddle)_(Mount)
   history: https://eq2.fandom.com/wiki/White_Frosttail_Reindeer_(red_saddle)_(Mount)?action=history
-  revision: 2023880
-  revised: '2026-08-23T13:02:37Z'
+  revision: 2031216
+  revised: '2026-10-07T17:15:49Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

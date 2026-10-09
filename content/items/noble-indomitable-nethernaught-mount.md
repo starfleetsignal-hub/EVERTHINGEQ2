@@ -41,8 +41,8 @@ source:
   title: Noble Indomitable Nethernaught (Mount)
   url: https://eq2.fandom.com/wiki/Noble_Indomitable_Nethernaught_(Mount)
   history: https://eq2.fandom.com/wiki/Noble_Indomitable_Nethernaught_(Mount)?action=history
-  revision: 1932579
-  revised: '2026-01-01T22:27:10Z'
+  revision: 2030912
+  revised: '2026-10-05T03:56:46Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

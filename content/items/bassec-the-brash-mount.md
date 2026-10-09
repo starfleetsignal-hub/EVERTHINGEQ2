@@ -41,8 +41,8 @@ source:
   title: Bassec, The Brash (Mount)
   url: https://eq2.fandom.com/wiki/Bassec,_The_Brash_(Mount)
   history: https://eq2.fandom.com/wiki/Bassec,_The_Brash_(Mount)?action=history
-  revision: 1928448
-  revised: '2026-01-01T15:56:40Z'
+  revision: 2031009
+  revised: '2026-10-05T22:24:26Z'
   license: CC BY-SA 3.0
 expansion: Altar of Malice
 expansion_source: level

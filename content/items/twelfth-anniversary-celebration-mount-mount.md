@@ -43,11 +43,32 @@ source:
   title: Twelfth Anniversary Celebration Mount (Mount)
   url: https://eq2.fandom.com/wiki/Twelfth_Anniversary_Celebration_Mount_(Mount)
   history: https://eq2.fandom.com/wiki/Twelfth_Anniversary_Celebration_Mount_(Mount)?action=history
-  revision: 1935865
-  revised: '2026-01-02T20:07:43Z'
+  revision: 2031471
+  revised: '2026-10-08T05:05:36Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
 ---
 
+## Notes
 
+This is a patchwork version of the Pridewing mount, but in Patchwork form, like all of the foes one can battle during the [[Heroes' Festival Timeline|Heroes' Festival]].
+
+- If you are under the normal level for flight or on the [[Server Types|TLE (Time Locked) server]] this mount will function like a Leaper Mount.
+- Like other most mounts, examining this mount will allow you to turn it into a [[Housing|house item]].
+- You can ride it as a ground mount at 10th level, but you cannot fly on it until you're level 35 (either adventurer or tradeskiller).
+
+## How to Obtain
+
+Any 6 from the [[Heroes' Festival Timeline]] will do, even those like [[Freeport Band Aid]] (for example) can be repeated six times.
+
+If you prefer 6 unique quests and prefer to work on achievements, these will also count:
+
+- [[Mischeva's Champion]] (defeat all 5 monsters named in the achievements below)
+- [[Roehn Theer's Reprise]]
+- [[The Djinn Master's Reprise]]
+- [[Trakanon's Reprise]]
+- [[Baelon's Reprise]]
+- [[Darathar's Reprise]]
+
+Those who completed the battles in 2015 were granted this on log in, in 2016. Those who had not done so yet can earn it.
