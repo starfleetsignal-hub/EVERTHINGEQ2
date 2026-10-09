@@ -702,8 +702,14 @@ def main():
     lines = {x: {k: [[n, [[q, pages[q]["fm"]["title"], str(pages[q]["fm"].get("level", ""))] for q in l]] for n, l in groups]
                  for k, groups in L.items()} for x, L in questlines().items()}
     zones = {pid: v for pid, v in by_type.get("zones", {}).items()}
+    # Hand-written news posts (data/news.json, newest first; the wiki sync never touches it), shown on the start page
+    news_path = os.path.join(ROOT, "data", "news.json")
+    news = [{"d": n["date"], "t": n["title"], "h": render(n["body"]),
+             "src": [[x["title"], x["url"]] for x in n.get("sources", [])]}
+            for n in (json.load(open(news_path, encoding="utf-8")) if os.path.exists(news_path) else [])]
     msz = put(os.path.join(data_dir, "meta"), {"chunks": nch, "width": width, "ext": ext, "counts": counts, "lines": lines,
-                                               "zones": zones, "collections": len(colls), "sx": list(sx), "repo": REPO, "src": bool(any(chunks_s))})
+                                               "zones": zones, "collections": len(colls), "sx": list(sx), "repo": REPO, "src": bool(any(chunks_s)),
+                                               "news": news})
     esz = put(os.path.join(data_dir, "events"), events())
     total += isz + ssz + msz + csz + esz
     tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html"), encoding="utf-8").read()

@@ -44,3 +44,9 @@ never as loose files: the shared folder errors out on thousands of small files. 
 `convert.py`. Pages converted before that still hold some of them, so `build_preview.py` runs the same fixes on the text it
 renders (`wikifix.fix_inline` / `fix_block`); the Markdown files are not rewritten. Re-running `convert.py` on a fresh download
 makes the build-time fixes unnecessary.
+
+## News posts (`data/news.json`)
+Hand-written news for the start page, newest first: `date`, `title`, `body` (the same Markdown as pages, `[[wiki links]]` and
+`[text](url)` included) and `sources` (`title`, `url`). Check every fact against the official announcement and list it under
+`sources`. `build_preview.py` renders the posts into the site's meta data and the start page shows the latest three. The wiki
+sync never touches this file.

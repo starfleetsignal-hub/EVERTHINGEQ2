@@ -250,6 +250,9 @@ td.num{font-variant-numeric:tabular-nums;white-space:nowrap}
 .gstats span b{color:var(--text);font-variant-numeric:tabular-nums}
 .gstats span.on{color:var(--green-soft)}
 .gstats span.on b{color:var(--green-soft)}
+.news{padding:12px 16px;margin:12px 0;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--red);border-radius:8px}
+.news h3{font-family:var(--display);margin:0 0 2px;font-size:1.15rem}
+.news .credit{margin-top:10px}
 .evnow{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:10px;margin:14px 0 6px}
 .evcard{display:grid;gap:4px;padding:12px 14px;background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--brown);border-radius:8px;text-decoration:none;color:var(--text)}
 .evcard:hover{border-color:var(--brown)}
@@ -527,6 +530,7 @@ function home(){
   <p class="lede">Zones, quests, items, spells, achievements, NPCs, monsters and landmarks from The Shattered Lands through Rage of Cthurath, converted from the EverQuest II Wiki into ${total().toLocaleString()} editable pages. Waypoint chips copy a <code>/waypoint</code> command; zone pages list everything found in them.</p>
   <div class="stats">${TYPES.filter(([t])=>count(t)).map(([t,l])=>`<a href="#browse.${t}"><b>${count(t).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
   ${META.collections?`<p>Hunting shinies? The <a href="#collections">collections tracker</a> lists all ${META.collections.toLocaleString()} collections and remembers which pieces you have found.</p>`:""}
+  ${(META.news||[]).length?`<h2>News</h2>${META.news.slice(0,3).map(n=>`<article class="news"><h3>${esc(n.t)}</h3><p class="derived">${esc(n.d)}</p>${n.h}${n.src.length?`<p class="credit">Source${n.src.length>1?"s":""}: ${n.src.map(([t,u])=>`<a href="${esc(u)}" rel="noopener" target="_blank">${esc(t)}</a>`).join(", ")}</p>`:""}</article>`).join("")}`:""}
   <div id="homeev"></div>
   <h2>Releases</h2>
   <div class="xgrid">${XP.map((x,i)=>`<a class="xcard" href="#x.${xslug(x)}"><b>${esc(x)}</b><span>${YEARS[i]} <span>${xTotal(x).toLocaleString()} pages</span></span></a>`).join("")}</div>`;
