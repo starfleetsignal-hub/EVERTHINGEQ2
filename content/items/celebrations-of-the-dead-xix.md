@@ -43,17 +43,21 @@ recipes: '- [[Fright Spiced Roll Cake]]
   - [[Tall Red Diseased Voidtree]]
 
   - [[Wide Barrage of Bats Gift Bag]]'
+obtained_from: Sold by [[A Nights of the Dead merchant]] for 60s 90c
 item_link: \aITEM -1903612905 807663163:Celebrations of the Dead XIX\/a
+events:
+- Nights of the Dead
 categories:
 - Artisan Recipe Books
 - Census Credits
+- Nights of the Dead
 - Recipe Books
 source:
   title: Celebrations of the Dead XIX
   url: https://eq2.fandom.com/wiki/Celebrations_of_the_Dead_XIX
   history: https://eq2.fandom.com/wiki/Celebrations_of_the_Dead_XIX?action=history
-  revision: 2029587
-  revised: '2026-09-15T18:50:55Z'
+  revision: 2031621
+  revised: '2026-10-10T04:56:10Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

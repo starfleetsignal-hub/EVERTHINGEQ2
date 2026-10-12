@@ -12,8 +12,8 @@ source:
   title: Erollisi Day Merchant Items (Douglas)
   url: https://eq2.fandom.com/wiki/Erollisi_Day_Merchant_Items_(Douglas)
   history: https://eq2.fandom.com/wiki/Erollisi_Day_Merchant_Items_(Douglas)?action=history
-  revision: 1957053
-  revised: '2026-01-24T01:42:33Z'
+  revision: 2031619
+  revised: '2026-10-10T04:09:12Z'
   license: CC BY-SA 3.0
 ---
 
@@ -202,11 +202,11 @@ Petamorph wands can only be used on combat pets, not on cosmetic pets.
 - [[Petamorph Wand: Mutated Butterfly]] 20 [[Erollisi coin]]
 - Cosmetic pets (anyone can cast these)
 - [[Black Erollisi Mantrap (Spell Scroll)|Black Erollisi Mantrap]] 20 [[Erollisi coin]]
-- [[Blushbeak Stork]] 20 [[Erollisi coin]]
-- [[Dragonfly]] 20 [[Erollisi coin]]
-- [[Sparking Passion]] (pink pet "sparkleball") 20 [[Erollisi coin]]
-- [[Sparking Romance]] (red pet "sparkleball") 20 [[Erollisi coin]]
-- [[Strawberry Zelniak Calf Clothwork]] 20 [[Erollisi coin]]
+- [[Blushbeak Stork (Spell Scroll)|Blushbeak Stork]] 20 [[Erollisi coin]]
+- [[Dragonfly (Spell Scroll)|Dragon Fly]] 20 [[Erollisi coin]]
+- [[Sparking Passion (Spell Scroll)|Sparking Passion]] (pink pet "sparkleball") 20 [[Erollisi coin]]
+- [[Sparking Romance (Spell Scroll)|Sparking Romance]] (red pet "sparkleball") 20 [[Erollisi coin]]
+- [[Strawberry Zelniak Calf Clothwork (Spell Scroll)|Strawberry Zelniak Calf Clothwork]] 20 [[Erollisi coin]]
 - House Pets
 - [[Amorous Glow Skimmer]] 5 [[Erollisi coin]]
 - [[An Erollisi Teddy Bear]] 6 [[Erollisi coin]]

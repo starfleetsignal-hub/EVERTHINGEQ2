@@ -24,8 +24,8 @@ source:
   title: Yon of the Living Dead
   url: https://eq2.fandom.com/wiki/Yon_of_the_Living_Dead
   history: https://eq2.fandom.com/wiki/Yon_of_the_Living_Dead?action=history
-  revision: 2000714
-  revised: '2026-05-04T13:38:58Z'
+  revision: 2031656
+  revised: '2026-10-10T11:01:20Z'
   license: CC BY-SA 3.0
 ---
 
@@ -50,6 +50,6 @@ source:
 - [[Blightcoil Revenant]]
 - At least 5p 86g 23s 58c
 - One of the following:
-  - [[Gerion Sandals of Rift]]
+  - [[Gerion Sandals of Rifts]]
   - [[Coral Forest Chain Boots of Force]]
   - [[Void Adventurer's Wage]] - unpacks into 15x [[Aethermatic Alloy]]

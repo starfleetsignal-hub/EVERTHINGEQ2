@@ -2,6 +2,7 @@
 title: Savage Treasure (House Item)
 type: item
 item_kind: House Item
+item_subtype: House Pet
 icon: images/Item_566.png
 item_level: '0'
 flags: no-value
@@ -10,6 +11,7 @@ item_link: \aITEM 1332746584 -1631746466:Savage Treasure\/a
 categories:
 - Census Credits
 - House Item (Item Type)
+- House Pet (Item Subtype)
 - Items
 - Items with Rent Status Reduction
 - Tier 1 RSR Items
@@ -17,8 +19,8 @@ source:
   title: Savage Treasure (House Item)
   url: https://eq2.fandom.com/wiki/Savage_Treasure_(House_Item)
   history: https://eq2.fandom.com/wiki/Savage_Treasure_(House_Item)?action=history
-  revision: 2029326
-  revised: '2026-09-15T18:11:55Z'
+  revision: 2031899
+  revised: '2026-10-12T13:35:39Z'
   license: CC BY-SA 3.0
 ---
 

@@ -24,8 +24,8 @@ source:
   title: 'Destination Unknown: Additional Tasks'
   url: https://eq2.fandom.com/wiki/Destination_Unknown:_Additional_Tasks
   history: https://eq2.fandom.com/wiki/Destination_Unknown:_Additional_Tasks?action=history
-  revision: 2010006
-  revised: '2026-05-26T16:03:21Z'
+  revision: 2031659
+  revised: '2026-10-10T11:11:45Z'
   license: CC BY-SA 3.0
 ---
 
@@ -78,9 +78,8 @@ File: Syndicate_Stone.png|Syndicate Stone
 - one advanced recipe book per tradeskill class
   - Assistant Flamebearer Silverpot will sell the additional two recipe books once the player reaches level 135 in their tradeskill class.
     - *Provisioners only have 1 advanced recipe book*
-- 75 x [[Token of the Formless Crafter]]
 - [[Status Coin (75,000)]]
-- At least 64p 66g 52s 78c
+- At least 64p 66g 52s 16c
 - Flight enabled in [[Yon Gorroth]], [[Oogothl Sprawl]]
   - flight in [[The Unknown]] requires getting to level 135 crafting
 - [[It's a Known Unknown]] achievement

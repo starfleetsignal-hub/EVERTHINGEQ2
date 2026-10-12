@@ -3,6 +3,7 @@ title: Unfetter
 type: spell
 class: '[[Ranger]]'
 spell_type: arts
+category: Buff
 icon: images/Spell_761.png
 levels: '100'
 power_cost: '1340'
@@ -17,16 +18,16 @@ effects: '- Increases Fervor of caster by X.
 
   - Removes the stealth requirement for Bow attacks.'
 categories:
+- Buff (Spell Type)
 - Ranger Spells
-- Spell needing Category
 - Spells
 - Spells by Type Combat Arts
 source:
   title: Unfetter
   url: https://eq2.fandom.com/wiki/Unfetter
   history: https://eq2.fandom.com/wiki/Unfetter?action=history
-  revision: 2014093
-  revised: '2026-07-01T04:18:02Z'
+  revision: 2031718
+  revised: '2026-10-10T15:41:54Z'
   license: CC BY-SA 3.0
 ---
 

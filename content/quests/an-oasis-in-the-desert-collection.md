@@ -23,7 +23,7 @@ pieces:
   note: Clickable broken vase in [[Maj'Dul]] at {{waypoint 190, 140, -74}}
 - name: An Oasis in the Desert - Page 22
   icon: images/Item_185.png
-  note: Clickable barrel in [[Maj'Dul]] at {{waypoint 136, 140, -121}}
+  note: Clickable barrel in [[Maj'Dul]] at {{waypoint 138, 140, -118}}
 categories:
 - Census Credits
 - Collection Quests
@@ -38,8 +38,8 @@ source:
   title: An Oasis in the Desert (Collection)
   url: https://eq2.fandom.com/wiki/An_Oasis_in_the_Desert_(Collection)
   history: https://eq2.fandom.com/wiki/An_Oasis_in_the_Desert_(Collection)?action=history
-  revision: 1830492
-  revised: '2024-11-18T23:13:07Z'
+  revision: 2031731
+  revised: '2026-10-11T14:23:19Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: patch

@@ -22,15 +22,16 @@ effects: '- Inflicts X melee damage on target
   - Resistibility increases against targets higher than level 112.'
 categories:
 - Assassin Spells
-- Spell needing Category
+- DD (Spell Type)
+- Root (Spell Type)
 - Spells
 - Spells by Type Combat Arts
 source:
   title: Paralyzing Strike VI
   url: https://eq2.fandom.com/wiki/Paralyzing_Strike_VI
   history: https://eq2.fandom.com/wiki/Paralyzing_Strike_VI?action=history
-  revision: 2013832
-  revised: '2026-06-29T03:11:43Z'
+  revision: 2031670
+  revised: '2026-10-10T15:32:47Z'
   license: CC BY-SA 3.0
 ---
 

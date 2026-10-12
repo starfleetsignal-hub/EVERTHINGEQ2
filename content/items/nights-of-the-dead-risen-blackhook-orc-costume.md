@@ -11,7 +11,10 @@ stats:
   recast: 0.0 seconds
 effect_name: Nights of the Dead Risen Blackhook Orc Costume
 effects: "- Applies Nights of the Dead Risen Blackhook Orc Costume  when Activated.\n  - This potion will grant you the illusion of being a risen Blackhook orc!"
+obtained_from: Sold by [[A Nights of the Dead merchant]]
 item_link: \aITEM 1968514465 -1661292745:Nights of the Dead Risen Blackhook Orc Costume\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -41,6 +44,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -60,8 +64,8 @@ source:
   title: Nights of the Dead Risen Blackhook Orc Costume
   url: https://eq2.fandom.com/wiki/Nights_of_the_Dead_Risen_Blackhook_Orc_Costume
   history: https://eq2.fandom.com/wiki/Nights_of_the_Dead_Risen_Blackhook_Orc_Costume?action=history
-  revision: 2029576
-  revised: '2026-09-15T18:49:33Z'
+  revision: 2031644
+  revised: '2026-10-10T05:00:57Z'
   license: CC BY-SA 3.0
 ---
 

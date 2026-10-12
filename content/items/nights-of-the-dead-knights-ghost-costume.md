@@ -11,7 +11,10 @@ stats:
   recast: 0.0 seconds
 effect_name: Nights of the Dead Knight's Ghost Costume
 effects: "- Applies Nights of the Dead Knight's Ghost Costume when Activated.\n  - This potion will grant you the illusion of being a knight's ghost!"
+obtained_from: Sold by [[A Nights of the Dead merchant]]
 item_link: \aITEM 1469782142 -948596057:Nights of the Dead Knight's Ghost Costume\/a
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -41,6 +44,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Predator Equipment
 - Ranger Equipment
@@ -60,8 +64,8 @@ source:
   title: Nights of the Dead Knight's Ghost Costume
   url: https://eq2.fandom.com/wiki/Nights_of_the_Dead_Knight's_Ghost_Costume
   history: https://eq2.fandom.com/wiki/Nights_of_the_Dead_Knight's_Ghost_Costume?action=history
-  revision: 2029575
-  revised: '2026-09-15T18:49:31Z'
+  revision: 2031643
+  revised: '2026-10-10T05:00:54Z'
   license: CC BY-SA 3.0
 ---
 

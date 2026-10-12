@@ -3,6 +3,7 @@ title: Virulent Outbreak II
 type: spell
 class: '[[Thaumaturgist]]'
 spell_type: ascension
+category: DD
 icon: images/Spell_1082.png
 levels: 6, 19
 target: Encounter
@@ -16,7 +17,7 @@ description: Your enemies will often think they are safer in a group. But the Th
 effects: '- Inflicts X disease damage on target encounter.'
 categories:
 - Census Credits
-- Spell needing Category
+- DD (Spell Type)
 - Spells
 - Spells by Type Ascension
 - Thaumaturgist Spells
@@ -24,8 +25,8 @@ source:
   title: Virulent Outbreak II
   url: https://eq2.fandom.com/wiki/Virulent_Outbreak_II
   history: https://eq2.fandom.com/wiki/Virulent_Outbreak_II?action=history
-  revision: 1854275
-  revised: '2025-01-21T05:04:01Z'
+  revision: 2031719
+  revised: '2026-10-10T15:42:19Z'
   license: CC BY-SA 3.0
 ---
 

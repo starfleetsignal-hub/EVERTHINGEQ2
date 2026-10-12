@@ -23,8 +23,8 @@ source:
   title: Skull Crew Catalog
   url: https://eq2.fandom.com/wiki/Skull_Crew_Catalog
   history: https://eq2.fandom.com/wiki/Skull_Crew_Catalog?action=history
-  revision: 2031558
-  revised: '2026-10-09T06:26:42Z'
+  revision: 2031868
+  revised: '2026-10-12T05:58:34Z'
   license: CC BY-SA 3.0
 ---
 
@@ -39,10 +39,10 @@ For the purpose of this quest killing the mobs, if you can do it, also gives an 
    - and orc skeleton - [[The Commonlands]] above dock
    - a Teir'Dal skeleton - [[Darklight Wood]], [[Nektulos Forest]]
    - a human skeleton - calcified skeletons spawning for event in [[Antonica]], [[The Commonlands]], [[Nektulos Forest]]
-   - a gnoll skeleton - [[Phantom Sea]], [[Loping Plains]], Upper Splitpaw
-   - an iksar skeleton - [[Timorous Deep]], [[Fens of Nathsar]]
-   - a droag skeleton - [[The Bonemire]]
-   - a Desert of Ro skeleton - [[The Sinking Sands]]
+   - a gnoll skeleton - [[Phantom Sea]], [[Loping Plains]], Upper Splitpaw (found in Phantom Sea at {{waypoint 572, 351, -120}}) (found in Loping Plains within Arkelek's Gash at {{waypoint -66.65, 37.96, 222.93}})
+   - an iksar skeleton - [[Timorous Deep]], [[Fens of Nathsar]] {{waypoint -173, 35, -1014}}
+   - a droag skeleton - [[The Bonemire]] {{waypoint 385, 199, -524}}
+   - a Desert of Ro skeleton - [[The Sinking Sands]] {{waypoint -1034, -101, -834}}
    - a dwarf skeleton - calcified skeletons spawning for event in [[Antonica]], [[The Commonlands]], [[Nektulos Forest]]
    - a gnome skeleton - calcified skeletons spawning for event in [[Antonica]], [[The Commonlands]], [[Nektulos Forest]]
 1. Return to [[Evie Cartahand]] in [[The Sinking Sands]]

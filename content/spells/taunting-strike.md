@@ -14,16 +14,17 @@ effects: '- Inflicts X melee damage on target
 
   - Increases Threat to target by Y'
 categories:
+- DD (Spell Type)
 - Guardian Spells
-- Spell needing Category
 - Spells
 - Spells by Type Combat Arts
+- Taunt (Spell Type)
 source:
   title: Taunting Strike
   url: https://eq2.fandom.com/wiki/Taunting_Strike
   history: https://eq2.fandom.com/wiki/Taunting_Strike?action=history
-  revision: 1923171
-  revised: '2025-12-30T05:39:51Z'
+  revision: 2031714
+  revised: '2026-10-10T15:40:53Z'
   license: CC BY-SA 3.0
 ---
 

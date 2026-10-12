@@ -8,7 +8,6 @@ tier: Treasured
 item_level: '0'
 flags: no-value
 description: This item can be placed on the floor in any house type.
-obtained_from: '*[[The Troubling Truth]] *Sold by [[A Nights of the Dead merchant]] for 5 [[Candy Corn]]'
 item_link: \aITEM -100616858 -1316455253:Destroyed Scarecrow Plushie\/a
 image: images/Destroyed_Scarecrow_Plushie.png
 categories:
@@ -22,11 +21,9 @@ source:
   title: Destroyed Scarecrow Plushie (Version 1)
   url: https://eq2.fandom.com/wiki/Destroyed_Scarecrow_Plushie_(Version_1)
   history: https://eq2.fandom.com/wiki/Destroyed_Scarecrow_Plushie_(Version_1)?action=history
-  revision: 1909801
-  revised: '2025-11-10T18:28:33Z'
+  revision: 2031647
+  revised: '2026-10-10T05:39:45Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: source
 ---
 
 

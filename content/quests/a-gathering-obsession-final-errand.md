@@ -28,8 +28,8 @@ source:
   title: A Gathering Obsession, Final Errand
   url: https://eq2.fandom.com/wiki/A_Gathering_Obsession,_Final_Errand
   history: https://eq2.fandom.com/wiki/A_Gathering_Obsession,_Final_Errand?action=history
-  revision: 1912591
-  revised: '2025-11-23T14:48:44Z'
+  revision: 2031730
+  revised: '2026-10-11T08:40:35Z'
   license: CC BY-SA 3.0
 ---
 

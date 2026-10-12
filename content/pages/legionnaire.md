@@ -1,6 +1,8 @@
 ---
 title: Legionnaire
 type: page
+aa: Y
+obtain: Granted to Crusaders who complete their intelligence [[Achievement Abilities|AA]] line.
 categories:
 - AA Titles
 - Prefix Titles
@@ -9,9 +11,9 @@ source:
   title: Legionnaire
   url: https://eq2.fandom.com/wiki/Legionnaire
   history: https://eq2.fandom.com/wiki/Legionnaire?action=history
-  revision: 93023
-  revised: '2007-03-29T23:40:43Z'
+  revision: 2031785
+  revised: '2026-10-12T03:10:09Z'
   license: CC BY-SA 3.0
 ---
 
-A prefix title awarded to [[Crusader|crusaders]] who complete their intelligence [[Achievement Abilities|AA]] line.
+

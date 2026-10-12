@@ -3,6 +3,7 @@ title: Elixir of Resuscitation
 type: spell
 class: '[[Paladin]]'
 spell_type: spells
+category: Resurrect
 icon: images/Spell_210.png
 levels: '44'
 target: Raid or Group Friend's Corpse
@@ -17,15 +18,15 @@ categories:
 - Census Credits
 - Ministration Spells
 - Paladin Spells
-- Spell needing Category
+- Resurrect (Spell Type)
 - Spells
 - Spells by Type Spells
 source:
   title: Elixir of Resuscitation
   url: https://eq2.fandom.com/wiki/Elixir_of_Resuscitation
   history: https://eq2.fandom.com/wiki/Elixir_of_Resuscitation?action=history
-  revision: 1996905
-  revised: '2026-04-22T05:09:49Z'
+  revision: 2031742
+  revised: '2026-10-11T20:57:53Z'
   license: CC BY-SA 3.0
 ---
 

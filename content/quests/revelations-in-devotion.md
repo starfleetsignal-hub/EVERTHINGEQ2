@@ -23,8 +23,8 @@ source:
   title: Revelations in Devotion
   url: https://eq2.fandom.com/wiki/Revelations_in_Devotion
   history: https://eq2.fandom.com/wiki/Revelations_in_Devotion?action=history
-  revision: 2031374
-  revised: '2026-10-08T00:30:49Z'
+  revision: 2031598
+  revised: '2026-10-09T19:14:57Z'
   license: CC BY-SA 3.0
 ---
 
@@ -37,8 +37,8 @@ Must go in solo because there aren't enough updates for 2 players. There is exac
 ## Steps
 
 1. Enter [[The Graveyard]]. This is the regular open zone next to [[The Commonlands]], zone in via gate at {{waypoint -1394, -86, -334}}
-1. Search for evidence of suspicious activity - move forward, pause by the first crypt on the right {{waypoint 20, -5, 15}} and observe two Teir'Dals walking down into that crypt.
-1. Enter [[Crypts of Devotion]] - click the door to crypt.
+1. Search for evidence of suspicious activity - move forward, pause by the first crypt on the right {{waypoint 20, -5, 15}} and observe two Teir'Dals walking down into that crypt.  *(NOTE: Do not skip this step. Make sure you pause and watch them enter, or you may not be able to complete this step as there will not be any 'risen residents' to kill.  The reset ( alt+z ) is minimum 1 hour and 30 minutes.)*
+1. *Enter [[Crypts of Devotion]] - click the door to crypt.*
    - Defeat risen residents for 5 artifacts.
    - Search grave goods for 11 artifacts - look for clickable jugs, urns, relic boxes, the last update will be behind door at {{waypoint -77, 0, -33}}.
 1. Reach the upper room and search it - go up the steps and the door there will now open. Observe the meeting between 3 conspirators.

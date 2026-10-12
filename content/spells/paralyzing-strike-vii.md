@@ -22,15 +22,16 @@ effects: '- Inflicts X melee damage on target
   - Resistibility increases against targets higher than level 122.'
 categories:
 - Assassin Spells
-- Spell needing Category
+- DD (Spell Type)
+- Root (Spell Type)
 - Spells
 - Spells by Type Combat Arts
 source:
   title: Paralyzing Strike VII
   url: https://eq2.fandom.com/wiki/Paralyzing_Strike_VII
   history: https://eq2.fandom.com/wiki/Paralyzing_Strike_VII?action=history
-  revision: 2013833
-  revised: '2026-06-29T03:11:45Z'
+  revision: 2031671
+  revised: '2026-10-10T15:32:57Z'
   license: CC BY-SA 3.0
 ---
 

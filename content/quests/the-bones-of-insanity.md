@@ -27,8 +27,8 @@ source:
   title: The Bones of Insanity
   url: https://eq2.fandom.com/wiki/The_Bones_of_Insanity
   history: https://eq2.fandom.com/wiki/The_Bones_of_Insanity?action=history
-  revision: 2029119
-  revised: '2026-09-14T05:23:51Z'
+  revision: 2031767
+  revised: '2026-10-11T23:27:25Z'
   license: CC BY-SA 3.0
 ---
 
@@ -42,11 +42,7 @@ source:
 
 ## Steps
 
-1. [[Dartain]] will ask to duel. He's a Heroic 85^^ Necromancer with a T8 tank pet. You only need to hurt him to 10%.
-   - Do NOT kill him. When he hits 10% health stop fighting and he'll show the quest book to update. If you DO kill him you will NOT get update if you don't hail him when the book is up. Unfortunately with the advent of ToV and gear, abilities you will need to use your lower level spells. Set pet passive, and try not to kill him. Might take several tries.
-   - *Note:  If you are already max level and wearing Resolve gear, then this is the **Naked Necro in Neriak** part of the story for you.  Take off ALL your gear and all your weapons.  Look at your skills.  Find one that does about 3000 damage (the animated dagger one from the Summoner tree is good).  Attack with melee attacks and carefully use the skill only once.  Observe the effect.  Once he is close to 10%, right click him, and choose "Hail" and he should stop attacking and you can talk to him. Make sure your pet and merc are dismissed.  For some reason they don't seem to "listen well" during this fight, and tend to meddle anyway.*
-   - If you are on-level, you can solo him but beware that from time to time he will disappear into the wall/ drop down one level. Either pull the pet off to get him out of the wall or jump down one level. A tough fight but definitely solo-able.
-   - ** solo confirmed.**  MC geared and AD3'd necro  - pulled him, rooted his pet and ran outside dragging my pet and [[Dartain]] outside for more room. Once his pet rejoins the fight, use your tainted heal AA line abilities on his pet and keep it rooted away from your pet and [[Dartain]].  Very easy fight this way.  Didn't even need lifeburn~
+1. [[Dartain]] will ask to duel. He's a Heroic 85^^ Necromancer with a T8 tank pet. You only need to hurt him to 10%, but you will get the update if you one-shot him.
 1. After you defeat him, speak to him to get the skull update and then head back to [[Qurst]]. Place the skull in the pot and this will spawn Qurst. Hail him to begin killing him.
 1. Kill [[Qurst]].  85 ^^^ with 2 85 ^ pets - Kill pet (Cry of Madness) first.  Pet hits like a truck - need well-geared full group for this step.  Necro's pets seem unusable for this fight - but swarms work fine. If you have an enchanter, mezzing the two pets and killing Qurst is easiest. The pets will die when Qurst does.
    - Solo confirmed at 86 with Basic spec and junk gear. Killed Qurst.

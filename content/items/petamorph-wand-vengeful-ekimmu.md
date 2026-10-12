@@ -13,7 +13,10 @@ stats:
   recast: 2 seconds
 effect_name: 'Petamorph: Vengeful Ekimmu'
 effects: "- Applies Petamorph: Vengeful Ekimmu on target Friend when Activated.\n  - Turns the caster's combat pet into a Vengeful Ekimmu. Does not work on cosmetic pets."
+obtained_from: Sold by [[A Nights of the Dead merchant]]
 item_link: '\aITEM -1599414804 1107265518:Petamorph Wand: Vengeful Ekimmu\/a'
+events:
+- Nights of the Dead
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -42,6 +45,7 @@ categories:
 - Monk Equipment
 - Mystic Equipment
 - Necromancer Equipment
+- Nights of the Dead
 - Paladin Equipment
 - Petamorph (Item Type)
 - Predator Equipment
@@ -63,8 +67,8 @@ source:
   title: 'Petamorph Wand: Vengeful Ekimmu'
   url: https://eq2.fandom.com/wiki/Petamorph_Wand:_Vengeful_Ekimmu
   history: https://eq2.fandom.com/wiki/Petamorph_Wand:_Vengeful_Ekimmu?action=history
-  revision: 2029579
-  revised: '2026-09-15T18:49:42Z'
+  revision: 2031645
+  revised: '2026-10-10T05:00:59Z'
   license: CC BY-SA 3.0
 ---
 

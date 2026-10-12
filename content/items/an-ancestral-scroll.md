@@ -18,8 +18,8 @@ source:
   title: An ancestral scroll
   url: https://eq2.fandom.com/wiki/An_ancestral_scroll
   history: https://eq2.fandom.com/wiki/An_ancestral_scroll?action=history
-  revision: 1720689
-  revised: '2023-04-18T08:51:10Z'
+  revision: 2031749
+  revised: '2026-10-11T21:44:45Z'
   license: CC BY-SA 3.0
 ---
 
@@ -47,7 +47,7 @@ This item will let you pick a Heritage Suffix Title, from the names of the EQ1 a
 - Firiona Vie
 - Hodstock
 - Innoruuk
-- Kael Drakkal
+- Kael Drakkel
 - Kane Bayle
 - Karana
 - Lanys T`vyl
@@ -66,7 +66,7 @@ This item will let you pick a Heritage Suffix Title, from the names of the EQ1 a
 - Rallos Zek
 - The Rathe
 - Rodcet Nife
-- Sarym
+- Saryrn
 - Sebilis
 - The Seventh Hammer
 - Dark Solace
@@ -78,7 +78,7 @@ This item will let you pick a Heritage Suffix Title, from the names of the EQ1 a
 - Tallon Zek
 - Tarew Marr
 - Terris-Thule
-- Toluxe Paells
+- Tholuxe Paells
 - Torvonnilous
 - The Tribunal
 - Tunare

@@ -7,7 +7,7 @@ tier: Treasured
 item_level: '0'
 flags: no-trade no-value
 description: A collection of rare materials ground into a powder to aid in the creation of Cimerott Voidnull Stones.
-obtained_from: created with a Recipe called *Ritual Preparation Powder*
+obtained_from: 'Crafted by [[Artisan]] (level 125) from [[Recipe Scroll: Tasks for the Unknown]]'
 used_in_quest: '[[Destination Unknown: Additional Tasks]]'
 item_link: \aITEM 97663180 -1784778586:Ritual Preparation Powder\/a
 categories:
@@ -20,11 +20,11 @@ source:
   title: Ritual Preparation Powder
   url: https://eq2.fandom.com/wiki/Ritual_Preparation_Powder
   history: https://eq2.fandom.com/wiki/Ritual_Preparation_Powder?action=history
-  revision: 1921916
-  revised: '2025-12-20T08:26:33Z'
+  revision: 2031596
+  revised: '2026-10-09T17:53:41Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
-expansion_source: linked
+expansion_source: source
 ---
 
 ## Material needed

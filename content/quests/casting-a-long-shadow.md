@@ -31,8 +31,8 @@ source:
   title: Casting a Long Shadow
   url: https://eq2.fandom.com/wiki/Casting_a_Long_Shadow
   history: https://eq2.fandom.com/wiki/Casting_a_Long_Shadow?action=history
-  revision: 2031016
-  revised: '2026-10-06T07:24:17Z'
+  revision: 2031600
+  revised: '2026-10-10T02:38:31Z'
   license: CC BY-SA 3.0
 ---
 
@@ -40,12 +40,18 @@ source:
 
 I entered the [[Tower of Frozen Shadow]] expecting an immediate fight. I was instead greeted by a coldain strike force who had invaded earlier in an attempt to defeat Tserrina. They hit a road block, however, when attempting to clear out the first floor. Aware of their imminent failure, they asked me to pick up their slack and defeat each floor's master. Once I've done that, I should be able to access the eighth and final floor, where Tserrina is waiting. I must kill her!
 
-The walkthrough for this zone can be found at [[Freeing the Dain]]. If you complete [[Finding the Dain]] first, you can complete Freeing the Dain and this quest at the same time, saving you some time and effort.
+Notes:
+
+- The walkthrough for this zone can be found at [[Freeing the Dain]]. Some floors require the completion of tasks in sequence to gain access to the next level.
+- If you complete [[Finding the Dain]] first, you can complete Freeing the Dain and this quest at the same time, saving you some time and effort.
+- You will not get updates if your level is too high and cons grey.
+
+Tasks:
 
 1. Defeat [[Xalgoti (Heroic)|Xalgoti]] on the [[First Floor: Submergence]].
 1. Defeat [[Spectral Librarian Emiida]] on the [[Second Floor: The Frozen Library]].
 1. Defeat [[Vethilot the Corpsemonger]] on the [[Third Floor: The Shadow Barracks]].
-1. Defeat [[Cara Omica (Epic)|Cara Omica]] on the [[Fourth Floor: Darkness Rising]].
+1. Defeat [[Cara Omica (Epic)|Cara Omica]] on the Fourth Floor - [[Tower of Frozen Shadow: Darkness Rising]].
 1. Defeat the [[Manifestation of Tserrina's Rage]] on the [[Fifth Floor: Bride's Scorn]].
 1. Defeat [[VhalSera]] on the [[Sixth Floor: Stewardship of VhalSera]].
 1. Defeat [[Necretia Widowmaker]] on the [[Seventh Floor: The Palindrome]].

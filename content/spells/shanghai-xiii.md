@@ -3,7 +3,6 @@ title: Shanghai XIII
 type: spell
 class: '[[Swashbuckler]]'
 spell_type: arts
-category: DD
 icon: images/Spell_301.png
 levels: 2, 9, 21, 35, 49, 63, 75, 85, 95, 105, 115, 123, 128, 133
 target: Enemy
@@ -16,7 +15,6 @@ effects: "- Applies Knockdown on termination. Lasts for 2.5 seconds.\n  - Throws
 categories:
 - DD (Spell Type)
 - Knock Down (Spell Type)
-- Spell needing Category
 - Spells
 - Spells by Type Combat Arts
 - Stun (Spell Type)
@@ -25,8 +23,8 @@ source:
   title: Shanghai XIII
   url: https://eq2.fandom.com/wiki/Shanghai_XIII
   history: https://eq2.fandom.com/wiki/Shanghai_XIII?action=history
-  revision: 2011178
-  revised: '2026-06-06T04:05:47Z'
+  revision: 2031700
+  revised: '2026-10-10T15:37:46Z'
   license: CC BY-SA 3.0
 ---
 

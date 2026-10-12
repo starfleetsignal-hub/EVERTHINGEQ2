@@ -22,8 +22,8 @@ source:
   title: Tower of Frozen Shadow
   url: https://eq2.fandom.com/wiki/Tower_of_Frozen_Shadow
   history: https://eq2.fandom.com/wiki/Tower_of_Frozen_Shadow?action=history
-  revision: 1789600
-  revised: '2024-04-01T01:22:23Z'
+  revision: 2031606
+  revised: '2026-10-10T03:54:01Z'
   license: CC BY-SA 3.0
 ---
 
@@ -38,9 +38,13 @@ The Tower of Frozen Shadow can be entered by clicking on a mirror at  {{waypoint
 - Tower of Frozen Shadow: Shadowed Corridors (Heroic) - This zone encompasses the 1st - 3rd floors of the Tower
 - Tower of Frozen Shadow: Umbral Halls (Heroic) - This zone encompasses the 4th - 6th floors of the Tower
 - Tower of Frozen Shadow: Haunt of Syl'Tor (Heroic) - This zone covers the 7th and 8th floors of the Tower
-- Tower of Frozen Shadow (Epicx2) - It contains all 7 floors as well as Tserrina on the 8th floor.
+- Tower of Frozen Shadow: Cursed Vault
+- Tserina's Frozen Library
+- Tower of Frozen Shadow - Raid zone (Epic x2).  It contains all 7 floors plus an 8th floor with Tserrina.
 
-This is the x2 version of all 3 Heroic zones.  It contains all 7 floors as well as [[Tserrina Syl'Tor|Tserrina]].
+## Tower of Frozen Shadow - Raid Zone
+
+This is the x2 version of all 3 Heroic zones (7 floors).  It contains all 7 floors as well as [[Tserrina Syl'Tor|Tserrina]].
 
 After clearing this zone up to Tserrina is needed to progress in Normal Mode x4 raid end encounters and all Challenge Mode x4 raid encounters because of a archetype specific debuff that is granted.  The fighter debuff is also needed to kill Tserrina.
 

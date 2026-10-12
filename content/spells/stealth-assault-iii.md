@@ -3,6 +3,7 @@ title: Stealth Assault III
 type: spell
 class: '[[Assassin]]'
 spell_type: arts
+category: DD
 icon: images/Spell_384.png
 levels: 28, 42, 56, 70, 80, 90, 100, 110, 120, 125, 130, 135
 power_cost: '115'
@@ -19,15 +20,15 @@ effects: '- Inflicts X melee damage on targets in Area of Effect
   - You must be in stealth or have Bloody Assault.'
 categories:
 - Assassin Spells
-- Spell needing Category
+- DD (Spell Type)
 - Spells
 - Spells by Type Combat Arts
 source:
   title: Stealth Assault III
   url: https://eq2.fandom.com/wiki/Stealth_Assault_III
   history: https://eq2.fandom.com/wiki/Stealth_Assault_III?action=history
-  revision: 2013732
-  revised: '2026-06-28T04:52:02Z'
+  revision: 2031704
+  revised: '2026-10-10T15:38:45Z'
   license: CC BY-SA 3.0
 ---
 

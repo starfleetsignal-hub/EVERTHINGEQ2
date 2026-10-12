@@ -1,6 +1,8 @@
 ---
 title: Chieftain
 type: page
+aa: Y
+obtain: Granted to [[Shaman|Shamans]] who complete their agility [[Achievement Abilities|AA]] line.
 categories:
 - AA Titles
 - Prefix Titles
@@ -9,9 +11,9 @@ source:
   title: Chieftain
   url: https://eq2.fandom.com/wiki/Chieftain
   history: https://eq2.fandom.com/wiki/Chieftain?action=history
-  revision: 93404
-  revised: '2007-03-30T18:52:39Z'
+  revision: 2031848
+  revised: '2026-10-12T05:03:02Z'
   license: CC BY-SA 3.0
 ---
 
-A prefix title awarded to [[Shaman|shamans]] who complete their agility [[Achievement Abilities|AA]] line.
+
