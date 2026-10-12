@@ -11,6 +11,7 @@ stats:
   abmod: +77,596
 obtained_from: '*Collection reward: [[Artifacts of the Blinding]] *Collection reward: [[Sambata Artifacts]] *Collection reward: [[Shadeling Weapons]] *Collection reward: [[Weapons of the Liches]]'
 item_link: \aITEM -873782908 66205547:Voidpiercer's Adornment of Modified Power\/a
+image: images/Voidpiercer's_Adornment_of_Modified_Power_(Collection_Reward).png
 categories:
 - Ability Modifier Adornments
 - Adornments
@@ -68,8 +69,8 @@ source:
   title: Voidpiercer's Adornment of Modified Power (Collection Reward)
   url: https://eq2.fandom.com/wiki/Voidpiercer's_Adornment_of_Modified_Power_(Collection_Reward)
   history: https://eq2.fandom.com/wiki/Voidpiercer's_Adornment_of_Modified_Power_(Collection_Reward)?action=history
-  revision: 1612481
-  revised: '2022-12-09T22:18:33Z'
+  revision: 2031890
+  revised: '2026-10-12T10:02:30Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: source

@@ -19,8 +19,8 @@ source:
   title: Mystic Epic Weapon Timeline
   url: https://eq2.fandom.com/wiki/Mystic_Epic_Weapon_Timeline
   history: https://eq2.fandom.com/wiki/Mystic_Epic_Weapon_Timeline?action=history
-  revision: 1848897
-  revised: '2024-12-31T06:16:48Z'
+  revision: 2031728
+  revised: '2026-10-10T23:46:09Z'
   license: CC BY-SA 3.0
 ---
 
@@ -75,7 +75,7 @@ This quest starts in **[[Sebilis]].
 
 ## [[A Sleeping Stone: Dark Shadows]]
 
-1. Travel to [[The Hidden Vale]].  It's [[Antonica]], the exact same location as the [[Shattered Vale]]. Only players of level 80 or higher may enter the instance.  The instance is full of aggressive level 80^^ human cultists, and several 80^^^ [[A darkened spirit|darkened spirits]] circling the druid ring in the center of the zone. The instance can be soloed at 80. Use Invisibility totems for faster progress.
+1. Travel to [[The Hidden Vale]] in [[Antonica]] {{waypoint -2289, -12, -59}} , the exact same location as the [[Shattered Vale]]. Only players of level 80 or higher may enter the instance.  The instance is full of aggressive level 80^^ human cultists, and several 80^^^ [[A darkened spirit|darkened spirits]] circling the druid ring in the center of the zone. The instance can be soloed at 80. Use Invisibility totems for faster progress.
 1. Kill 6 of the darkened spirits, which are overconned and significantly weaker than the cultists.
 1. Once they are dead, click on the altar at the center of the ring
 1. Return to Takk in Qeynos Province District. He gives you three quests that can be completed in any order.
@@ -98,7 +98,7 @@ This was once a quest, [[A Sleeping Stone: The Footsteps of Thalger]], which was
 ### [[A Sleeping Stone]]: Restoring Valor
 
 1. Seek out the second True Spirit: [[Rel'dekk]], Spirit of Preservation. His altar can be found in [[The Thundering Steppes]] near {{waypoint 475, -1, 740}}, not far from the crater mine. Closest port is Return to Splitpaw if you have it.
-1. Locate and cleanse [[The Defiled Tomb of Valor]], a special instance of [[The Tomb of Valor]]. Group members must be 80+ to enter.  A well geared 90 should be able to solo it. waypoint -15, -25, -44
+1. Locate and cleanse [[The Defiled Tomb of Valor]], a special instance of [[The Tomb of Valor]]. Group members must be 80+ to enter.  A well geared 90 should be able to solo it. {{waypoint -15, -25, -44}}
    1. Clear the various types of Sellok Cultists (80^^ Heroics)
    1. Kill [[Serrin Trelmist]]
       - Serrin Trelmist heals for 2% every time he receives melee damage. Use ranged attacks and spells to defeat him. The tank should turn auto-attack off and taunt only. Serrin is immune to root. He also has some sort of ability (no icon) that prevents affected characters from doing anything useful.

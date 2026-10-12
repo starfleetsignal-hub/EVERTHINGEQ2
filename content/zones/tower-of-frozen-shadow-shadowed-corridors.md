@@ -19,10 +19,32 @@ source:
   title: 'Tower of Frozen Shadow: Shadowed Corridors'
   url: https://eq2.fandom.com/wiki/Tower_of_Frozen_Shadow:_Shadowed_Corridors
   history: https://eq2.fandom.com/wiki/Tower_of_Frozen_Shadow:_Shadowed_Corridors?action=history
-  revision: 1988209
-  revised: '2026-02-18T11:57:06Z'
+  revision: 2031605
+  revised: '2026-10-10T03:53:24Z'
   license: CC BY-SA 3.0
 ---
+
+## Tower of Frozen Shadow (Heroic)
+
+Not the Tower of Frozen Shadow which is a raid zone (Epic x2)
+
+Tower of Frozen Shadow:  Shadowed Corridors
+
+- First Floor: Submergence
+- Second Floor: The Frozen Library
+- Third Floor: The Shadow Barracks
+
+Tower of Frozen Shadow:  Umbral Halls
+
+- Fourth Floor: Darkness Rising
+- Fifth Floor: A Bride's Scorn
+- Sixth Floor: Stewardship of VhalSera
+
+Tower of Frozen Shadow:  Haunt of Syl'Tor
+
+- Seventh Floor: The Palindrome
+
+Tower of Frozen Shadow:
 
 ## Access
 
@@ -64,7 +86,7 @@ The Key Mob is [[A moldy tome]] that can be found in the Frozen Library on the 2
 1. Go to {{waypoint 91.30, 44.85, 105.05}} and click on the floating book.  This will unlock the door in the next hall {{waypoint 101.31, 44.63, 56.12}}.
 1. Click on the book Tserrina's Unfinished Diary and accept the quest.
 1. Run around the library and pick up the missing pages.
-1. Find the missing pages of Tserrina's Diary on the [[2nd Floor:The Frozen Library]]
+1. Find the missing pages of Tserrina's Diary on the [[2nd Floor: The Frozen Library]]
    - Find the missing page 1 {{waypoint -114, 51, 53}}
    - Find the missing page 5 {{waypoint -89, 77, -97}}
    - Find the missing page 3 {{waypoint -91, 50, -137}}

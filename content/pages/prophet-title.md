@@ -1,6 +1,9 @@
 ---
 title: Prophet (Title)
 type: page
+aa: Y
+obtain: Granted to [[Shaman|Shamans]] who complete their strength [[Achievement Abilities|AA]] line.
+altname: Prophet
 categories:
 - AA Titles
 - Prefix Titles
@@ -9,9 +12,9 @@ source:
   title: Prophet (Title)
   url: https://eq2.fandom.com/wiki/Prophet_(Title)
   history: https://eq2.fandom.com/wiki/Prophet_(Title)?action=history
-  revision: 93405
-  revised: '2007-03-30T18:53:14Z'
+  revision: 2031847
+  revised: '2026-10-12T05:03:00Z'
   license: CC BY-SA 3.0
 ---
 
-A prefix title awarded to [[Shaman|shamans]] who complete their strength [[Achievement Abilities|AA]] line.
+

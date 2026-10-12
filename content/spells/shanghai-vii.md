@@ -3,7 +3,6 @@ title: Shanghai VII
 type: spell
 class: '[[Swashbuckler]]'
 spell_type: arts
-category: DD
 icon: images/Spell_301.png
 levels: 2, 9, 21, 35, 49, 63, 75, 85, 95, 105, 115, 123, 128, 133
 target: Enemy
@@ -16,7 +15,6 @@ effects: "- Applies Knockdown on termination. Lasts for 2.5 seconds.\n  - Throws
 categories:
 - DD (Spell Type)
 - Knock Down (Spell Type)
-- Spell needing Category
 - Spells
 - Spells by Type Combat Arts
 - Stun (Spell Type)
@@ -25,8 +23,8 @@ source:
   title: Shanghai VII
   url: https://eq2.fandom.com/wiki/Shanghai_VII
   history: https://eq2.fandom.com/wiki/Shanghai_VII?action=history
-  revision: 2011172
-  revised: '2026-06-06T04:05:32Z'
+  revision: 2031694
+  revised: '2026-10-10T15:37:21Z'
   license: CC BY-SA 3.0
 ---
 

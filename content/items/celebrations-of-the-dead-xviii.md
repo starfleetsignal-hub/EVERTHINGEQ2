@@ -41,17 +41,21 @@ recipes: '- [[Caramel Crypt Lollipop]]
   - [[Torturous Laboratory Ladder]]
 
   - [[Torturous Laboratory Wheel]]'
+obtained_from: Sold by [[A Nights of the Dead merchant]] for 60s 90c
 item_link: \aITEM 577620990 1397296068:Celebrations of the Dead XVIII\/a
+events:
+- Nights of the Dead
 categories:
 - Artisan Recipe Books
 - Census Credits
+- Nights of the Dead
 - Recipe Books
 source:
   title: Celebrations of the Dead XVIII
   url: https://eq2.fandom.com/wiki/Celebrations_of_the_Dead_XVIII
   history: https://eq2.fandom.com/wiki/Celebrations_of_the_Dead_XVIII?action=history
-  revision: 1906463
-  revised: '2025-09-23T20:45:26Z'
+  revision: 2031620
+  revised: '2026-10-10T04:55:41Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

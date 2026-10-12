@@ -2,7 +2,7 @@
 title: Theurgist
 type: page
 aa: Y
-obtain: Awarded to Summoners who complete their Strength AA line
+obtain: Granted to Summoners who complete their strength [[Achievement Abilities|AA]] line
 categories:
 - AA Titles
 - Prefix Titles
@@ -11,8 +11,8 @@ source:
   title: Theurgist
   url: https://eq2.fandom.com/wiki/Theurgist
   history: https://eq2.fandom.com/wiki/Theurgist?action=history
-  revision: 2028907
-  revised: '2026-09-13T13:08:02Z'
+  revision: 2031796
+  revised: '2026-10-12T03:26:21Z'
   license: CC BY-SA 3.0
 ---
 

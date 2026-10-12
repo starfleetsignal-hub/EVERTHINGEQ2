@@ -10,10 +10,12 @@ flags: no-value
 description: This item can be placed on the floor in any house type.<br><br>A blightcoil revenant house pet.
 obtained_from: '[[Yon of the Living Dead]]'
 item_link: \aITEM -353459178 -1200314830:Blightcoil Revenant\/a
+image: images/Blightcoil_Revenant.png
 categories:
 - Census Credits
 - House Item (Item Type)
 - House Pet (Item Subtype)
+- Item pages with existing iname images
 - Items
 - Items with Rent Status Reduction
 - Tier 1 RSR Items
@@ -22,8 +24,8 @@ source:
   title: Blightcoil Revenant
   url: https://eq2.fandom.com/wiki/Blightcoil_Revenant
   history: https://eq2.fandom.com/wiki/Blightcoil_Revenant?action=history
-  revision: 2012358
-  revised: '2026-06-17T05:32:51Z'
+  revision: 2031658
+  revised: '2026-10-10T11:03:33Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

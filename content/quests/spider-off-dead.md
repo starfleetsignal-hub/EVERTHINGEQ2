@@ -22,8 +22,8 @@ source:
   title: Spider Off Dead
   url: https://eq2.fandom.com/wiki/Spider_Off_Dead
   history: https://eq2.fandom.com/wiki/Spider_Off_Dead?action=history
-  revision: 2031578
-  revised: '2026-10-09T16:15:35Z'
+  revision: 2031599
+  revised: '2026-10-09T22:19:39Z'
   license: CC BY-SA 3.0
 ---
 
@@ -41,7 +41,7 @@ The starting zone [[Block and Tackle Storerooms]] is located in [[The City of Fr
 
 - Level 1-9  [[The Graveyard]], [[Oakmyst Forest]] or [[The Ruins]]
 - Level 10-19 [[The Caves]], [[Greater Faydark]] or [[The Wailing Caves]]
-- Level 20-39 Darkpaw Warrens
+- Level 20-39 Darkpaw Warrens (go to Zek, orchish wastes, enchanted lands or the ferrott) NO spiders in Darkpaw!
 - Level 50-60 The Sinking Sands west of the docks, near {{waypoint -1295.65, -145.66, -502.06}} and in the Northeast Dune Spiders near {{waypoint -1053.31, -132.58, -1293.80}}
 - Level 60-70 [[Loping Plains]]
 - Level 70-80 [[Fens of Nathsar]] or [[Moors of Ykesha]]

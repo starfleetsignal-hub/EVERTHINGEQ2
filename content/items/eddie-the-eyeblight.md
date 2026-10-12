@@ -17,7 +17,7 @@ effects: "- Applies Summon Familiar: Eddie the Eyeblight when Activated.\n  - In
   \ means\n    - This effect can only trigger once every 60.0 - 180.0 seconds."
 obtained_from: '[[Destination Unknown: Additional Tasks]]'
 item_link: \aITEM 861576627 -834558152:Eddie the Eyeblight\/a
-image: images/Eddie_the_Eyeblight_(summoned).png
+image: images/Eddie_the_Eyeblight.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -73,8 +73,8 @@ source:
   title: Eddie the Eyeblight
   url: https://eq2.fandom.com/wiki/Eddie_the_Eyeblight
   history: https://eq2.fandom.com/wiki/Eddie_the_Eyeblight?action=history
-  revision: 2004608
-  revised: '2026-05-17T11:46:37Z'
+  revision: 2031663
+  revised: '2026-10-10T11:32:34Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

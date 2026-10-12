@@ -1,6 +1,8 @@
 ---
 title: Blighter
 type: page
+aa: Y
+obtain: Granted to [[Shaman|Shamans]] who complete their intelligence [[Achievement Abilities|AA]] line.
 categories:
 - AA Titles
 - Prefix Titles
@@ -9,9 +11,9 @@ source:
   title: Blighter
   url: https://eq2.fandom.com/wiki/Blighter
   history: https://eq2.fandom.com/wiki/Blighter?action=history
-  revision: 532687
-  revised: '2011-05-26T17:50:32Z'
+  revision: 2031851
+  revised: '2026-10-12T05:03:09Z'
   license: CC BY-SA 3.0
 ---
 
-A prefix title awarded to shamans who complete their intelligence AA line.
+

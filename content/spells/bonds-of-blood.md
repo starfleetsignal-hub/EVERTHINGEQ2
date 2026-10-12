@@ -12,8 +12,9 @@ duration: '*see below*'
 radius: 15 meters
 effects: "- On a hostile ability cast this spell will cast Blood Infusion on target.  Lasts for X seconds.\n  - Increases Fervor of caster by Y, multiplied by increment stacks.\n  - Increases Ability Modifier of caster by Z, multiplied by increment stacks.\n  - This effect can only trigger once every 6.0 - 9.0 seconds."
 categories:
+- Buff (Spell Type)
 - Census Credits
-- Spell needing Category
+- Proc (Spell Type)
 - Spells
 - Spells by Type Ascension
 - Thaumaturgist Spells
@@ -21,8 +22,8 @@ source:
   title: Bonds of Blood
   url: https://eq2.fandom.com/wiki/Bonds_of_Blood
   history: https://eq2.fandom.com/wiki/Bonds_of_Blood?action=history
-  revision: 1854229
-  revised: '2025-01-20T22:47:06Z'
+  revision: 2031883
+  revised: '2026-10-12T09:28:51Z'
   license: CC BY-SA 3.0
 ---
 

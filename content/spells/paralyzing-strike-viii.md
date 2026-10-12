@@ -22,15 +22,16 @@ effects: '- Inflicts X melee damage on target
   - Resistibility increases against targets higher than level 132.'
 categories:
 - Assassin Spells
-- Spell needing Category
+- DD (Spell Type)
+- Root (Spell Type)
 - Spells
 - Spells by Type Combat Arts
 source:
   title: Paralyzing Strike VIII
   url: https://eq2.fandom.com/wiki/Paralyzing_Strike_VIII
   history: https://eq2.fandom.com/wiki/Paralyzing_Strike_VIII?action=history
-  revision: 2013834
-  revised: '2026-06-29T03:11:47Z'
+  revision: 2031672
+  revised: '2026-10-10T15:33:05Z'
   license: CC BY-SA 3.0
 ---
 

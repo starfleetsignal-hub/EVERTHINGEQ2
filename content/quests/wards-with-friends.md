@@ -27,8 +27,8 @@ source:
   title: Wards With Friends
   url: https://eq2.fandom.com/wiki/Wards_With_Friends
   history: https://eq2.fandom.com/wiki/Wards_With_Friends?action=history
-  revision: 2009836
-  revised: '2026-05-24T12:30:14Z'
+  revision: 2031649
+  revised: '2026-10-10T10:17:44Z'
   license: CC BY-SA 3.0
 ---
 
@@ -54,7 +54,7 @@ source:
 
 ## Rewards
 
+At least 5p 86g 23s 58c
+
 - 2 x [[Antique Darou Ward]]
 - [[Void Adventurer's Wage]] - unpacks into 15x [[Aethermatic Alloy]]
-
-At least 5p 86g 23s 58c

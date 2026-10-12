@@ -3,6 +3,7 @@ title: Stealth Assault XII
 type: spell
 class: '[[Assassin]]'
 spell_type: arts
+category: DD
 icon: images/Spell_384.png
 levels: 28, 42, 56, 70, 80, 90, 100, 110, 120, 125, 130, 135
 power_cost: '24705'
@@ -21,15 +22,15 @@ effects: '- Inflicts X melee damage on targets in Area of Effect
   - You must be in stealth or have Bloody Assault.'
 categories:
 - Assassin Spells
-- Spell needing Category
+- DD (Spell Type)
 - Spells
 - Spells by Type Combat Arts
 source:
   title: Stealth Assault XII
   url: https://eq2.fandom.com/wiki/Stealth_Assault_XII
   history: https://eq2.fandom.com/wiki/Stealth_Assault_XII?action=history
-  revision: 2013741
-  revised: '2026-06-28T04:52:19Z'
+  revision: 2031713
+  revised: '2026-10-10T15:39:22Z'
   license: CC BY-SA 3.0
 ---
 

@@ -1,6 +1,9 @@
 ---
 title: Harbinger (Title)
 type: page
+aa: Y
+obtain: Granted to Bards who complete their wisdom AA line.
+altname: Harbinger
 categories:
 - AA Titles
 - Prefix Titles
@@ -9,9 +12,9 @@ source:
   title: Harbinger (Title)
   url: https://eq2.fandom.com/wiki/Harbinger_(Title)
   history: https://eq2.fandom.com/wiki/Harbinger_(Title)?action=history
-  revision: 276006
-  revised: '2008-05-02T08:25:26Z'
+  revision: 2031839
+  revised: '2026-10-12T04:04:06Z'
   license: CC BY-SA 3.0
 ---
 
-A prefix title awarded to [[Bard|bards]] who complete their wisdom [[Achievement Abilities|AA]] line.
+

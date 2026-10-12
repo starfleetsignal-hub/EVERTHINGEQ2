@@ -22,15 +22,16 @@ effects: '- Inflicts X melee damage on target
   - Resistibility increases against targets higher than level 146.'
 categories:
 - Assassin Spells
-- Spell needing Category
+- DD (Spell Type)
+- Root (Spell Type)
 - Spells
 - Spells by Type Combat Arts
 source:
   title: Paralyzing Strike X
   url: https://eq2.fandom.com/wiki/Paralyzing_Strike_X
   history: https://eq2.fandom.com/wiki/Paralyzing_Strike_X?action=history
-  revision: 2013836
-  revised: '2026-06-29T03:11:51Z'
+  revision: 2031673
+  revised: '2026-10-10T15:33:28Z'
   license: CC BY-SA 3.0
 ---
 

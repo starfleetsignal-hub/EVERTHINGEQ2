@@ -1,6 +1,8 @@
 ---
 title: Prowler
 type: page
+aa: y
+obtain: Granted to Predators who complete their wisdom AA line.
 aliases:
 - Prowler (Title)
 categories:
@@ -11,9 +13,9 @@ source:
   title: Prowler
   url: https://eq2.fandom.com/wiki/Prowler
   history: https://eq2.fandom.com/wiki/Prowler?action=history
-  revision: 699614
-  revised: '2017-04-25T09:03:34Z'
+  revision: 2031861
+  revised: '2026-10-12T05:17:42Z'
   license: CC BY-SA 3.0
 ---
 
-A prefix title awarded to [[Predator|predators]] who complete their wisdom [[Achievement Abilities|AA]] line.
+
