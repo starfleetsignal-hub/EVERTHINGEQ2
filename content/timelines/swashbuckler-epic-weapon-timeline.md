@@ -115,12 +115,12 @@ If your goal is to have the Item for the [[Epic Conversion Timeline]], you do NO
 
 ## [[The Voice of the Sea]]
 
-1. Quest Starter "a siren" in Kylong Plains,  west of docks  {{waypoint 1298, 5, 37}}
+1. Quest starter: [[Shalryya]], a siren in [[Kylong Plains]], west of the docks {{waypoint 1298, 5, 37}}
 1. Kill the following mobs in any order:
    - [[Pawbuster]] in Execution Throne Room
    - [[The Leviathan]] in The Chamber of Destiny
    - [[Xygoz]] in  Veeshan's Peak
-1. Return to the "a siren" in Kylong Plains
+1. Return to [[Shalryya]] in Kylong Plains
 
 ***Reward: [[Charm's Way (Mythical)]]
 
