@@ -247,6 +247,16 @@ Scars of Destruction marks the 21st expansion of EverQuest 2. From discovering t
 
 Rage of  Cthurath is the 22nd expansion for EverQuest II, plunging players into the chaotic Void where the forces of Cthurath threaten Norrath. It raises the level cap to 135, adds new zones within the Xebrith Tendril like [[Yon Gorroth]] and [[Oogothl Sprawl]], introduces heroic dungeons, public quests, and advanced progression systems for both adventurers and tradeskillers.
 
+#### Descent to Val'Zyroth
+
+- Status: Beta (since October 13, 2026)
+- Releases: not announced yet
+- Levels: No level cap increase (stays at 135)
+- Free-to-Play: No
+- Zones: Val'Zyroth Ness, Keramos Caverns, Khor Boldir
+
+Descent to Val'Zyroth is the 23rd expansion. Queen Cristanos makes her move, and players head down through Subtunaria into the Underfoot, uncover the dark elves' schemes in the Duchy of the Dead and fight alongside the Tontu molemen. It introduces Personas, which let a character level any class on the same character, along with new and improved Untold Heroic dungeons, an Epic mount scavenger hunt, new Collections, and new solo, heroic and raid content. Every pre-order edition includes beta access. See the [official expansion page](https://www.everquest2.com/descent-to-valzyroth).
+
 ## Adventure Packs
 
 #### The Bloodline Chronicles
