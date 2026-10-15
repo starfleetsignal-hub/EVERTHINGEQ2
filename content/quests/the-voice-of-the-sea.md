@@ -8,7 +8,7 @@ difficulty: Epic
 zone: '[[Kylong Plains]]'
 timeline: '[[Swashbuckler Epic Weapon Timeline]]'
 journal_category: Signature
-starts: Speak with [[Shalryya]]
+starts: Speak with [[Shalryya]], a siren in [[Kylong Plains]], west of the docks {{waypoint 1298, 5, 37}}
 prerequisite: '[[High Seas Adventure]]'
 added_in: LU42
 achievement_xp: true
@@ -35,12 +35,17 @@ source:
   license: CC BY-SA 3.0
 ---
 
+## Requirements
+
+- Swashbuckler, level 80 or higher
+- Completed [[High Seas Adventure]]
+
 ## Steps
 
 1. I must find the Trinket of Swiftness, which is with the creature known as [[Pawbuster]] in the Execution Throne Room
 1. I must find the Circlet of Cunning which drops off of [[The Leviathan]] in the Chamber of Destiny
 1. I must find the item called the Gem of Grace, which is with a dragon known as [[Xygoz]] in Veeshan's Peak
-1. Return to Shalryya.
+1. Return to [[Shalryya]] in Kylong Plains {{waypoint 1298, 5, 37}}.
 
 ## Reward
 
