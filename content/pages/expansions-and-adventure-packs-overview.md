@@ -251,7 +251,7 @@ Rage of  Cthurath is the 22nd expansion for EverQuest II, plunging players int
 
 - Status: Beta (since October 13, 2026)
 - Releases: not announced yet
-- Levels: not announced yet
+- Levels: No level cap increase (stays at 135)
 - Free-to-Play: No
 - Zones: Val'Zyroth Ness, Keramos Caverns, Khor Boldir
 
