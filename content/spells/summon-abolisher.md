@@ -20,9 +20,11 @@ source:
   title: Summon Abolisher
   url: https://eq2.fandom.com/wiki/Summon_Abolisher
   history: https://eq2.fandom.com/wiki/Summon_Abolisher?action=history
-  revision: 2021424
-  revised: '2026-08-09T04:53:41Z'
+  revision: 2032343
+  revised: '2026-10-14T21:18:49Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Abolisher Companion]]

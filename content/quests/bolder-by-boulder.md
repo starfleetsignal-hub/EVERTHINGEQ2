@@ -21,8 +21,8 @@ source:
   title: Bolder by Boulder
   url: https://eq2.fandom.com/wiki/Bolder_by_Boulder
   history: https://eq2.fandom.com/wiki/Bolder_by_Boulder?action=history
-  revision: 2001761
-  revised: '2026-05-10T13:54:24Z'
+  revision: 2032060
+  revised: '2026-10-12T19:21:44Z'
   license: CC BY-SA 3.0
 ---
 
@@ -86,6 +86,7 @@ Other items used in crafting you will be asked to harvest in the zone. You can h
 
 - At least 11p 16g 55s 16c
 - [[Crag Irongrip]]
+- [[Status Coin (75,000)]]
 - unlocks tradeskill researcher [[Blargh Critterkeeper]] in [[Spiral of Vul (Contested)]].
 - unlocks daily tradeskill missions from [[Glarb]] (18 hours cycle)
 

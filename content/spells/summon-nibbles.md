@@ -2,7 +2,6 @@
 title: Summon Nibbles
 type: spell
 spell_type: abilities
-category: Summon Pet
 icon: images/Spell_473.png
 levels: '0'
 target: self
@@ -13,6 +12,7 @@ effects: '- Summons a pet Nibbles'
 categories:
 - Census Credits
 - Fluff Pet
+- Fun Spell (Spell Type)
 - Spells
 - Spells by Type Abilities
 - Summon Pet (Spell Type)
@@ -20,9 +20,11 @@ source:
   title: Summon Nibbles
   url: https://eq2.fandom.com/wiki/Summon_Nibbles
   history: https://eq2.fandom.com/wiki/Summon_Nibbles?action=history
-  revision: 2021346
-  revised: '2026-08-08T19:26:30Z'
+  revision: 2032539
+  revised: '2026-10-16T15:07:04Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Cosmetic Pet: Nibbles]]

@@ -7,8 +7,8 @@ source:
   title: Scrying
   url: https://eq2.fandom.com/wiki/Scrying
   history: https://eq2.fandom.com/wiki/Scrying?action=history
-  revision: 2010158
-  revised: '2026-05-29T00:31:28Z'
+  revision: 2032715
+  revised: '2026-10-18T19:31:41Z'
   license: CC BY-SA 3.0
 ---
 
@@ -175,6 +175,7 @@ Training tomes are quest starters and for this reason are of the highest value t
 
 - Around [[The Fools Gold]]: {{waypoint -55, -18, -21}}
 - [[Shakey's Farm]]: {{waypoint -324, -2, -261}}
+- Near [[The Laughing Trout]] {{waypoint -411, 1, -125}}
 - [[The Drafling Tower]]: {{waypoint -497, 15, 32}} {{waypoint -503, 4, -10}}
 
 ### [[Zek, the Orcish Wastes]]

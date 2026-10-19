@@ -2,6 +2,7 @@
 title: Tall Red Diseased Voidtree
 type: item
 item_kind: House Item
+item_subtype: Plant
 icon: images/Item_2111.png
 tier: Handcrafted
 item_level: '0'
@@ -13,12 +14,13 @@ categories:
 - Handcrafted Items
 - House Item (Item Type)
 - Items
+- Plant (Item Subtype)
 source:
   title: Tall Red Diseased Voidtree
   url: https://eq2.fandom.com/wiki/Tall_Red_Diseased_Voidtree
   history: https://eq2.fandom.com/wiki/Tall_Red_Diseased_Voidtree?action=history
-  revision: 2029551
-  revised: '2026-09-15T18:47:38Z'
+  revision: 2032112
+  revised: '2026-10-12T22:24:35Z'
   license: CC BY-SA 3.0
 ---
 

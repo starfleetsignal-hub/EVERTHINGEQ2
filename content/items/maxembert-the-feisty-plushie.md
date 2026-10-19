@@ -10,8 +10,6 @@ flags: no-trade no-value
 description: This item can be placed on the floor in any house type.
 obtained_from: Marketplace (399 Daybreak Cash)
 item_link: \aITEM -1398858241 -2046447202:Maxembert the Feisty Plushie\/a
-aliases:
-- Maxembert the Feisty
 categories:
 - Census Credits
 - EQ2 Marketplace Items
@@ -23,8 +21,8 @@ source:
   title: Maxembert the Feisty Plushie
   url: https://eq2.fandom.com/wiki/Maxembert_the_Feisty_Plushie
   history: https://eq2.fandom.com/wiki/Maxembert_the_Feisty_Plushie?action=history
-  revision: 2023179
-  revised: '2026-08-20T16:44:38Z'
+  revision: 2032190
+  revised: '2026-10-13T19:20:33Z'
   license: CC BY-SA 3.0
 ---
 

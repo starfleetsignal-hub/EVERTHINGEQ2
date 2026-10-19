@@ -21,9 +21,11 @@ source:
   title: Call Favored Mudball
   url: https://eq2.fandom.com/wiki/Call_Favored_Mudball
   history: https://eq2.fandom.com/wiki/Call_Favored_Mudball?action=history
-  revision: 2022456
-  revised: '2026-08-14T03:55:26Z'
+  revision: 2032131
+  revised: '2026-10-13T02:13:33Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Favored Mudball]]

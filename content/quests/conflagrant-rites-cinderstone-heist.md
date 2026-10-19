@@ -13,8 +13,8 @@ source:
   title: Conflagrant Rites - Cinderstone Heist
   url: https://eq2.fandom.com/wiki/Conflagrant_Rites_-_Cinderstone_Heist
   history: https://eq2.fandom.com/wiki/Conflagrant_Rites_-_Cinderstone_Heist?action=history
-  revision: 2012480
-  revised: '2026-06-20T03:42:08Z'
+  revision: 2032238
+  revised: '2026-10-14T02:52:28Z'
   license: CC BY-SA 3.0
 ---
 

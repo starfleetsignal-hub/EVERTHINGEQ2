@@ -11,6 +11,7 @@ prerequisite: '[[Stranger Dangerful]]'
 next_quest: '[[Treasures and Tributes Aplenty]]'
 added_in: LU128
 categories:
+- Census Credits
 - LU128 Quests
 - Quests
 - Solo Quests
@@ -22,18 +23,21 @@ source:
   title: Mucktongue Tributes
   url: https://eq2.fandom.com/wiki/Mucktongue_Tributes
   history: https://eq2.fandom.com/wiki/Mucktongue_Tributes?action=history
-  revision: 1951665
-  revised: '2026-01-10T15:28:37Z'
+  revision: 2032057
+  revised: '2026-10-12T19:15:49Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
-1. hunt and obtian the following
+*Sputter, one of the goblins I saved in the Spiral of Vul, explained that he, Blortch, and the other Mucktongues, can't return to their clan without the proper trinkets and tributes for their chief. He thinks that the Spiral of Vul has several potential items that might help appease their chief.*
+
+1. Hunt and obtain the following:
    - Hunt 10 ebonbane snapjaw for leather
    - Obtain 8 kaborite geodes
-1. Return to Sputter
+1. Return to [[Sputter]]
 
 ## Rewards
 
-- Agitated Kaborite Geode
+- At least 2p 33g 88s 74c
+- [[Agitated Kaborite Geode (Spell Scroll)]]

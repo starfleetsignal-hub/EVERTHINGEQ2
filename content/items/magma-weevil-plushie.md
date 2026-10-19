@@ -23,8 +23,8 @@ source:
   title: Magma Weevil Plushie
   url: https://eq2.fandom.com/wiki/Magma_Weevil_Plushie
   history: https://eq2.fandom.com/wiki/Magma_Weevil_Plushie?action=history
-  revision: 2023157
-  revised: '2026-08-20T16:02:48Z'
+  revision: 2032185
+  revised: '2026-10-13T18:59:59Z'
   license: CC BY-SA 3.0
 ---
 

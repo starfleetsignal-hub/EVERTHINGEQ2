@@ -20,6 +20,7 @@ contains: '- [[Forged Adamantite Spaulders]]
   - [[Forged Adamantite Chausses]]
 
   - [[Forged Adamantite Vambraces]]'
+obtained_from: Sold by [[Lyri Vasramel]] in [[Block and Tackle Storerooms]]
 item_link: \aITEM 284784742 839460659:Forged Adamantite Armor Crate\/a
 categories:
 - Census Credits
@@ -29,11 +30,11 @@ source:
   title: Forged Adamantite Armor Crate
   url: https://eq2.fandom.com/wiki/Forged_Adamantite_Armor_Crate
   history: https://eq2.fandom.com/wiki/Forged_Adamantite_Armor_Crate?action=history
-  revision: 2029567
-  revised: '2026-09-15T18:48:44Z'
+  revision: 2031986
+  revised: '2026-10-12T16:19:49Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: linked
+expansion_source: source
 ---
 
 

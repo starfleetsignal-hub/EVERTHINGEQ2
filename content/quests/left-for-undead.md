@@ -11,6 +11,7 @@ prerequisite: '[[To The Rescue]]'
 next_quest: '[[Skull Time Job]]'
 added_in: LU128
 categories:
+- Census Credits
 - LU128 Quests
 - Quests
 - Solo Quests
@@ -22,12 +23,14 @@ source:
   title: Left for Undead
   url: https://eq2.fandom.com/wiki/Left_for_Undead
   history: https://eq2.fandom.com/wiki/Left_for_Undead?action=history
-  revision: 1951673
-  revised: '2026-01-10T15:35:09Z'
+  revision: 2032051
+  revised: '2026-10-12T19:08:31Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
+
+*Blortch of Clan Mucktongue explained that the skeletons of slain Blackhook orcs were raised after Lord Tarinax's defeat by a force of powerful magicians to act as deterrents and defenders against others, while they venture even further into the fallen Blackhook stronghold.*
 
 1. locate  a staff
    - Destroy 8 eldritch staffs, found around
@@ -41,8 +44,9 @@ source:
      - {{waypoint 583, 248, 140}}
    - Slay 16 Vuldor skeletal orcs
    - Slay 3 duskbone hunters or their riders
-1. Return to Blortch
+1. Return to [[Blortch]]
 
 ## Rewards
 
+- At least 2p 33g 88s 74c
 - [[Eldritch Spellstone Staff]]

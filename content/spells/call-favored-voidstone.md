@@ -21,9 +21,11 @@ source:
   title: Call Favored Voidstone
   url: https://eq2.fandom.com/wiki/Call_Favored_Voidstone
   history: https://eq2.fandom.com/wiki/Call_Favored_Voidstone?action=history
-  revision: 2022461
-  revised: '2026-08-14T04:02:04Z'
+  revision: 2032132
+  revised: '2026-10-13T02:14:35Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Favored Voidstone]]

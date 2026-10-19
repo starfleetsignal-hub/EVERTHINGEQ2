@@ -7,7 +7,7 @@ tier: Treasured
 flags: ornate attunable heirloom no-value
 description: Cloaks you in an illusion that makes you appear to be an Irate Gingerdread Man.
 stats:
-  duration: 5 days
+  duration: Until Cancelled
   charges: Unlimited
   casting: 2 seconds
   recast: 10 seconds
@@ -63,8 +63,8 @@ source:
   title: Irate Gingerdread Illusion
   url: https://eq2.fandom.com/wiki/Irate_Gingerdread_Illusion
   history: https://eq2.fandom.com/wiki/Irate_Gingerdread_Illusion?action=history
-  revision: 1936972
-  revised: '2026-01-03T12:17:57Z'
+  revision: 2032356
+  revised: '2026-10-14T21:54:58Z'
   license: CC BY-SA 3.0
 ---
 

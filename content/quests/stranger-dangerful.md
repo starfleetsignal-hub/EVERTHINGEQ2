@@ -11,6 +11,7 @@ prerequisite: '[[To The Rescue]]'
 next_quest: '[[Mucktongue Tributes]]'
 added_in: LU128
 categories:
+- Census Credits
 - LU128 Quests
 - Quests
 - Solo Quests
@@ -22,16 +23,18 @@ source:
   title: Stranger Dangerful
   url: https://eq2.fandom.com/wiki/Stranger_Dangerful
   history: https://eq2.fandom.com/wiki/Stranger_Dangerful?action=history
-  revision: 1951663
-  revised: '2026-01-10T15:27:39Z'
+  revision: 2032056
+  revised: '2026-10-12T19:14:28Z'
   license: CC BY-SA 3.0
 ---
 
 ## Steps
 
+*Sputter, one of the Clan Mucktongue goblins I saved in the Spiral of Vul, mentioned some Blackhook orc spell casters would carry unstable kaborite, and that goblin sludgeweavers carried potion pouches. I'm interested in acquiring the unstable kaborite, while he wants the potion pouches.*
+
 1. Hunt 6 Vuldor Shadowcasters
 1. Gather 8 blue sludgeweaver potions from along the trails and in the crafting area
-1. Return to Sputter
+1. Return to [[Sputter]]
 
 ## Rewards
 

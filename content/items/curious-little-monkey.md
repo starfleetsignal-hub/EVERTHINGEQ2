@@ -9,13 +9,13 @@ description: This curious little monkey was found sick among the deserts of Sink
 stats:
   duration: Until Cancelled
   casting: 10.0 seconds
-  recast: 0.0 seconds
+  recast: Instant
 effects: '- Summons a pet Curious Little Monkey.'
 obtained_from: Sold by [[Jimbo McDaniel]] in [[The Sinking Sands]] for 3 [[D.I.R.T.Y. Money]] tokens
 item_link: \aITEM 500950009 -1004838930:Curious Little Monkey\/a
 image: images/Curious_Little_Monkey.jpg
 categories:
-- Fluff Pet
+- Census Credits
 - Item pages with existing iname images
 - Items
 - Spell Scroll (Item Type)
@@ -24,8 +24,8 @@ source:
   title: Curious Little Monkey
   url: https://eq2.fandom.com/wiki/Curious_Little_Monkey
   history: https://eq2.fandom.com/wiki/Curious_Little_Monkey?action=history
-  revision: 1850686
-  revised: '2025-01-05T05:54:37Z'
+  revision: 2032402
+  revised: '2026-10-15T03:36:46Z'
   license: CC BY-SA 3.0
 expansion: Desert of Flames
 expansion_source: source

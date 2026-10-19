@@ -12,8 +12,6 @@ obtained_from: Marketplace (399 Daybreak Cash)
 item_link: \aITEM -765920879 -1338403564:Andrina the Adorable Plushie\/a
 events:
 - Year of Darkpaw
-aliases:
-- Andrina the Adorable
 categories:
 - Census Credits
 - EQ2 Marketplace Items
@@ -26,8 +24,8 @@ source:
   title: Andrina the Adorable Plushie
   url: https://eq2.fandom.com/wiki/Andrina_the_Adorable_Plushie
   history: https://eq2.fandom.com/wiki/Andrina_the_Adorable_Plushie?action=history
-  revision: 1862566
-  revised: '2025-02-27T14:21:39Z'
+  revision: 2032121
+  revised: '2026-10-12T23:59:41Z'
   license: CC BY-SA 3.0
 ---
 

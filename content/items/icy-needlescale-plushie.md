@@ -21,8 +21,8 @@ source:
   title: Icy Needlescale Plushie
   url: https://eq2.fandom.com/wiki/Icy_Needlescale_Plushie
   history: https://eq2.fandom.com/wiki/Icy_Needlescale_Plushie?action=history
-  revision: 2023036
-  revised: '2026-08-19T22:47:22Z'
+  revision: 2032490
+  revised: '2026-10-16T03:01:17Z'
   license: CC BY-SA 3.0
 ---
 

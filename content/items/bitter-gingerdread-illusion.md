@@ -63,8 +63,8 @@ source:
   title: Bitter Gingerdread Illusion
   url: https://eq2.fandom.com/wiki/Bitter_Gingerdread_Illusion
   history: https://eq2.fandom.com/wiki/Bitter_Gingerdread_Illusion?action=history
-  revision: 1936825
-  revised: '2026-01-03T12:06:11Z'
+  revision: 2032300
+  revised: '2026-10-14T15:56:05Z'
   license: CC BY-SA 3.0
 ---
 

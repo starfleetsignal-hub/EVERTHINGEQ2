@@ -66,8 +66,8 @@ source:
   title: Cerulean Wakingdew (Familiar)
   url: https://eq2.fandom.com/wiki/Cerulean_Wakingdew_(Familiar)
   history: https://eq2.fandom.com/wiki/Cerulean_Wakingdew_(Familiar)?action=history
-  revision: 1928870
-  revised: '2026-01-01T16:23:50Z'
+  revision: 2032376
+  revised: '2026-10-15T02:18:36Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

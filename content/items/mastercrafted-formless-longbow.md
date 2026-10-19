@@ -26,6 +26,7 @@ stats:
   wtype: Bow
 obtained_from: Crafted by [[Woodworker]] (level 135) from [[Advanced Formless Woodworker's Volume I]]
 item_link: \aITEM 737853092 -549512634:Mastercrafted Formless Longbow\/a
+image: images/Mastercrafted_Formless_Longbow.png
 categories:
 - Assassin Equipment
 - Bard Equipment
@@ -40,6 +41,7 @@ categories:
 - Crusader Equipment
 - Dirge Equipment
 - Equipment
+- Equipment pages with existing iname images
 - Guardian Equipment
 - Mastercrafted Equipment
 - Max Health (Equipment)
@@ -61,8 +63,8 @@ source:
   title: Mastercrafted Formless Longbow
   url: https://eq2.fandom.com/wiki/Mastercrafted_Formless_Longbow
   history: https://eq2.fandom.com/wiki/Mastercrafted_Formless_Longbow?action=history
-  revision: 1924687
-  revised: '2025-12-31T14:14:48Z'
+  revision: 2032679
+  revised: '2026-10-18T11:17:26Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

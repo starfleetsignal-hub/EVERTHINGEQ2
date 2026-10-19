@@ -9,16 +9,16 @@ source:
   title: Guild Coalitions
   url: https://eq2.fandom.com/wiki/Guild_Coalitions
   history: https://eq2.fandom.com/wiki/Guild_Coalitions?action=history
-  revision: 1992041
-  revised: '2026-03-27T19:40:32Z'
+  revision: 2032597
+  revised: '2026-10-16T21:03:49Z'
   license: CC BY-SA 3.0
 ---
 
-The following information is from [Guild Coalitions](https://www.everquest2.com/guides/eq2-guild-coalitions) which got added with the [[Rage of Cthurath]] expansion in 2025.
+The following information is from [Guild Coalitions](https://www.everquest2.com/guides/eq2-guild-coalitions) which got added with the [[Rage of Cthurath]] expansion in 2025.  South Qeynos, Administrator Garvy 563,-9,166, Coalition Adjutant
 
 Let’s start off with a short synopsis of what this system is all about.
 
-Joining a coalition guild is just like joining any other guild. A guild coalition is a personal choice which you decide per character.
+Joining a coalition guild is just like joining any other guild. A guild coalition is a personal choice which you decide per character.  ( /coalition invite name )
 
 Your character will remain in your current guild, and you will also be able to join another guild with that same character. You would be able to set one of the guilds the character is in as the active guild, which would then display that guild tag. That actively set guild is the one that gains status, achievement progress, and such, until the character changes their active guild again.
 

@@ -30,6 +30,7 @@ contains: '- [[Akheva Ritual Binding]]
   - [[Stegoplatodon Hide Plate]]
 
   - [[Protectarach Guard Buckle]]'
+obtained_from: Reward from the weekly mission [[Fabled Rage of Malice]] once you have completed and turned in the Meta-collection [[Revelations of Malice (Collection)|Revelations of Malice]].
 item_link: \aITEM 1012931282 207934656:Revelations of Malice [Heroic] Collection Rares\/a
 categories:
 - Census Credits
@@ -40,9 +41,11 @@ source:
   title: Revelations of Malice (Heroic) Collection Rares (heirloom)
   url: https://eq2.fandom.com/wiki/Revelations_of_Malice_(Heroic)_Collection_Rares_(heirloom)
   history: https://eq2.fandom.com/wiki/Revelations_of_Malice_(Heroic)_Collection_Rares_(heirloom)?action=history
-  revision: 2028176
-  revised: '2026-09-06T21:42:32Z'
+  revision: 2032477
+  revised: '2026-10-16T01:59:17Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Normally, you will receive the (No-Trade) version of this item from the Weekly mission, until you complete (and turn in) the Meta-collection.  At which point any further rewards will be this (Heirloom) version.

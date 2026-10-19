@@ -2,6 +2,7 @@
 title: Nektropos Castle Roof Tile
 type: item
 item_kind: House Item
+item_subtype: Tile
 icon: images/Item_2600.png
 tier: Handcrafted
 item_level: '0'
@@ -15,12 +16,13 @@ categories:
 - Handcrafted Items
 - House Item (Item Type)
 - Items
+- Tile (Item Subtype)
 source:
   title: Nektropos Castle Roof Tile
   url: https://eq2.fandom.com/wiki/Nektropos_Castle_Roof_Tile
   history: https://eq2.fandom.com/wiki/Nektropos_Castle_Roof_Tile?action=history
-  revision: 2029517
-  revised: '2026-09-15T18:46:43Z'
+  revision: 2032101
+  revised: '2026-10-12T22:24:12Z'
   license: CC BY-SA 3.0
 ---
 

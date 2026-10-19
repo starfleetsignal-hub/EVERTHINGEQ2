@@ -20,9 +20,11 @@ source:
   title: Call Warpwolf Puppy
   url: https://eq2.fandom.com/wiki/Call_Warpwolf_Puppy
   history: https://eq2.fandom.com/wiki/Call_Warpwolf_Puppy?action=history
-  revision: 2021667
-  revised: '2026-08-10T04:13:40Z'
+  revision: 2032281
+  revised: '2026-10-14T05:47:16Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Warpwolf Puppy (Spell Scroll)|Warpwolf Puppy]]

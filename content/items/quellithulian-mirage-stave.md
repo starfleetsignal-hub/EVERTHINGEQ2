@@ -17,8 +17,8 @@ source:
   title: Quellithulian Mirage Stave
   url: https://eq2.fandom.com/wiki/Quellithulian_Mirage_Stave
   history: https://eq2.fandom.com/wiki/Quellithulian_Mirage_Stave?action=history
-  revision: 1869498
-  revised: '2025-04-11T09:45:19Z'
+  revision: 2032072
+  revised: '2026-10-12T19:40:38Z'
   license: CC BY-SA 3.0
 expansion: Scars of Destruction
 expansion_source: source

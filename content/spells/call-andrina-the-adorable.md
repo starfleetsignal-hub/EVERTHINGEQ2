@@ -19,8 +19,8 @@ source:
   title: Call Andrina the Adorable
   url: https://eq2.fandom.com/wiki/Call_Andrina_the_Adorable
   history: https://eq2.fandom.com/wiki/Call_Andrina_the_Adorable?action=history
-  revision: 2022425
-  revised: '2026-08-14T02:53:08Z'
+  revision: 2032119
+  revised: '2026-10-12T23:59:11Z'
   license: CC BY-SA 3.0
 ---
 

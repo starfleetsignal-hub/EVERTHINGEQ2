@@ -19,9 +19,11 @@ source:
   title: Call Sunscar Coyote
   url: https://eq2.fandom.com/wiki/Call_Sunscar_Coyote
   history: https://eq2.fandom.com/wiki/Call_Sunscar_Coyote?action=history
-  revision: 2022639
-  revised: '2026-08-17T23:57:16Z'
+  revision: 2032262
+  revised: '2026-10-14T05:06:10Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Sunscar Coyote (Spell Scroll)|Sunscar Coyote]]

@@ -13,6 +13,7 @@ stats:
   recast: 2 seconds
 effect_name: 'Petamorph: Nektulos Murkbloom'
 effects: "- Applies Petamorph: Nektulos Murkbloom on target Friend when Activated.\n  - Turns the caster's combat pet into a Nektulos murkbloom. Does not work on cosmetic pets."
+obtained_from: Sold by [[Lyri Vasramel]] in [[Block and Tackle Storerooms]]
 item_link: '\aITEM -189307823 922839672:Petamorph Wand: Nektulos Murkbloom\/a'
 categories:
 - Assassin Equipment
@@ -63,11 +64,11 @@ source:
   title: 'Petamorph Wand: Nektulos Murkbloom'
   url: https://eq2.fandom.com/wiki/Petamorph_Wand:_Nektulos_Murkbloom
   history: https://eq2.fandom.com/wiki/Petamorph_Wand:_Nektulos_Murkbloom?action=history
-  revision: 2028135
-  revised: '2026-09-06T21:41:10Z'
+  revision: 2031956
+  revised: '2026-10-12T15:56:24Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: linked
+expansion_source: source
 ---
 
 

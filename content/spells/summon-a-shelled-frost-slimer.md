@@ -11,6 +11,7 @@ duration: Until Cancelled
 effects: '- Summons a pet Shelled Frost Slimer'
 categories:
 - Census Credits
+- Fluff Pet
 - Fun Spell (Spell Type)
 - Spells
 - Spells by Type Abilities
@@ -19,8 +20,8 @@ source:
   title: Summon a Shelled Frost Slimer
   url: https://eq2.fandom.com/wiki/Summon_a_Shelled_Frost_Slimer
   history: https://eq2.fandom.com/wiki/Summon_a_Shelled_Frost_Slimer?action=history
-  revision: 2021458
-  revised: '2026-08-09T06:48:10Z'
+  revision: 2032327
+  revised: '2026-10-14T20:13:43Z'
   license: CC BY-SA 3.0
 ---
 

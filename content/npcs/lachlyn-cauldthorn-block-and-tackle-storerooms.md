@@ -7,7 +7,6 @@ zone: '[[Block and Tackle Storerooms]]'
 location: upper level of crafting room at {{waypoint -13, -13, -4}}
 image: images/Lachlyn_Cauldthorn_(Block_and_Tackle_Storerooms).png
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms NPCs
 - Block and Tackle Storerooms Quest NPCs
 - Human
@@ -15,13 +14,12 @@ categories:
 - NPCs
 - Quest (NPC Type)
 - Shattered Lands NPCs
-- Test
 source:
   title: Lachlyn Cauldthorn (Block and Tackle Storerooms)
   url: https://eq2.fandom.com/wiki/Lachlyn_Cauldthorn_(Block_and_Tackle_Storerooms)
   history: https://eq2.fandom.com/wiki/Lachlyn_Cauldthorn_(Block_and_Tackle_Storerooms)?action=history
-  revision: 2030323
-  revised: '2026-09-22T23:04:10Z'
+  revision: 2032432
+  revised: '2026-10-15T15:27:44Z'
   license: CC BY-SA 3.0
 ---
 

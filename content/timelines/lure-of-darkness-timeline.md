@@ -13,8 +13,8 @@ source:
   title: Lure of Darkness Timeline
   url: https://eq2.fandom.com/wiki/Lure_of_Darkness_Timeline
   history: https://eq2.fandom.com/wiki/Lure_of_Darkness_Timeline?action=history
-  revision: 1951672
-  revised: '2026-01-10T15:34:12Z'
+  revision: 2032055
+  revised: '2026-10-12T19:11:39Z'
   license: CC BY-SA 3.0
 ---
 
@@ -25,7 +25,7 @@ from [[Blortch]]
 1. [[To The Rescue]]
 1. [[Left for Undead]]
 1. [[Skull Time Job]]
-   - [[More for Blortch]] (Repeartable)
+   - [[More For Blortch]] (Repeatable)
    - [[More Bones About It]]
 
 from [[Sputter]]

@@ -20,9 +20,11 @@ source:
   title: Call Reanimated Hand
   url: https://eq2.fandom.com/wiki/Call_Reanimated_Hand
   history: https://eq2.fandom.com/wiki/Call_Reanimated_Hand?action=history
-  revision: 2021435
-  revised: '2026-08-09T05:16:03Z'
+  revision: 2032234
+  revised: '2026-10-14T02:39:46Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Reanimated Hand (Spell Scroll)|Reanimated Hand]]

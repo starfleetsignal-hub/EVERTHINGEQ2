@@ -20,9 +20,11 @@ source:
   title: Summon Arcane Greatmole
   url: https://eq2.fandom.com/wiki/Summon_Arcane_Greatmole
   history: https://eq2.fandom.com/wiki/Summon_Arcane_Greatmole?action=history
-  revision: 2021683
-  revised: '2026-08-10T04:32:07Z'
+  revision: 2032359
+  revised: '2026-10-14T21:59:06Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Arcane Greatmole]]

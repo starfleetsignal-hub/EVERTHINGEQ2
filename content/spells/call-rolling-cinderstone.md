@@ -19,9 +19,11 @@ source:
   title: Call Rolling Cinderstone
   url: https://eq2.fandom.com/wiki/Call_Rolling_Cinderstone
   history: https://eq2.fandom.com/wiki/Call_Rolling_Cinderstone?action=history
-  revision: 2022630
-  revised: '2026-08-17T23:33:02Z'
+  revision: 2032237
+  revised: '2026-10-14T02:51:59Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Rolling Cinderstone]]

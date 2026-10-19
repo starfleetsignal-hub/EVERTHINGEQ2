@@ -22,8 +22,8 @@ source:
   title: Nagafen's Lair
   url: https://eq2.fandom.com/wiki/Nagafen's_Lair
   history: https://eq2.fandom.com/wiki/Nagafen's_Lair?action=history
-  revision: 1397809
-  revised: '2022-02-01T16:28:28Z'
+  revision: 2032361
+  revised: '2026-10-14T22:09:30Z'
   license: CC BY-SA 3.0
 ---
 
@@ -35,8 +35,8 @@ To take the elevator at {{waypoint -316, -595, 187}} up from level 7 to 6, **RIG
 
 **ATTENTION : You need to target him then Hail him (default Key is "H", or use the slash command /Hail) in order to engage him!**
 
-During the fight you'll be exiled to a hanging barred cage. Kill the flame spirits that are burning you, and then send your merc (or another player if you're in a group) to kill [[Flame Lord Thyr]] (You can use ranged weapons too.
-Once defeated, you ll be freed and can enter [[Solusek's Eye]]
+During the fight you'll be exiled to a hanging barred cage. Kill the flame spirits that are burning you, and then send your merc (or another player if you're in a group) to kill [[Flame Lord Thyr]]. (You can also use ranged weapons, or long-range abilities.)<br>
+Once defeated, you'll be freed and can enter [[Solusek's Eye]]
 
 Other Details are covered in the article for quest [[To Speak as a Dragon]].
 

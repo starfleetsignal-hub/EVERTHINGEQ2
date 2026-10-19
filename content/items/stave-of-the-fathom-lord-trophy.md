@@ -18,8 +18,8 @@ source:
   title: Stave of the Fathom Lord Trophy
   url: https://eq2.fandom.com/wiki/Stave_of_the_Fathom_Lord_Trophy
   history: https://eq2.fandom.com/wiki/Stave_of_the_Fathom_Lord_Trophy?action=history
-  revision: 1923613
-  revised: '2025-12-31T13:01:10Z'
+  revision: 2032069
+  revised: '2026-10-12T19:40:32Z'
   license: CC BY-SA 3.0
 ---
 

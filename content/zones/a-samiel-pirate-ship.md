@@ -24,14 +24,14 @@ source:
   title: A Samiel Pirate Ship
   url: https://eq2.fandom.com/wiki/A_Samiel_Pirate_Ship
   history: https://eq2.fandom.com/wiki/A_Samiel_Pirate_Ship?action=history
-  revision: 900525
-  revised: '2018-09-11T13:13:08Z'
+  revision: 2032042
+  revised: '2026-10-12T18:48:49Z'
   license: CC BY-SA 3.0
 ---
 
 ## Background
 
-Samiel Pirates robbed a group of [[Qeynos|Qeynosian]] archaeologists that were digging up artifacts from around the same period as the strange army depicted on the drawing you took from the madman's corpse. Stow yourself away aboard their ship and wait for the opportune moment to snatch it from their theivin' hands!
+Samiel Pirates robbed a group of [[Qeynos|Qeynosian]] archaeologists that were digging up artifacts from around the same period as the strange army depicted on the drawing you took from the madman's corpse. Stow yourself away aboard their ship and wait for the opportune moment to snatch it from their thievin' hands!
 
 ## Notes
 

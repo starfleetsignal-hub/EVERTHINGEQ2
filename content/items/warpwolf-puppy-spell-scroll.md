@@ -9,12 +9,13 @@ description: This spell will summon a warpwolf puppy to your side to accompany y
 stats:
   duration: Until Cancelled
   casting: 2.0 seconds
-  recast: 0.0 seconds
+  recast: Instant
 effects: '- Summons a pet Warpwolf Puppy'
 obtained_from: purchased from [[A Jubilation merchant]] for 50 jubilation medals
-item_link: \aITEM -1771330182 1083242484:[Warpwolf Puppy]\/a
+item_link: \aITEM -1771330182 1083242484:Warpwolf Puppy\/a
 image: images/Warpwolf_Puppy_(Exam).png
 categories:
+- Census Credits
 - Item pages with existing iname images
 - Items
 - Spell Scroll (Item Type)
@@ -23,9 +24,11 @@ source:
   title: Warpwolf Puppy (Spell Scroll)
   url: https://eq2.fandom.com/wiki/Warpwolf_Puppy_(Spell_Scroll)
   history: https://eq2.fandom.com/wiki/Warpwolf_Puppy_(Spell_Scroll)?action=history
-  revision: 2011460
-  revised: '2026-06-09T04:30:31Z'
+  revision: 2032279
+  revised: '2026-10-14T05:45:22Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Gives the ability [[Call Warpwolf Puppy]]

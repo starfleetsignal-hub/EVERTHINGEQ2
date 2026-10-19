@@ -5,7 +5,7 @@ item_kind: Spell Scroll
 icon: images/Item_2708.png
 tier: Treasured
 flags: heirloom no-value no-exchange
-description: Show off your support of the great charity, &amp;quot;Child's Play&amp;quot; by adopting this baby bear cub!  For every baby bear cub purchased SOE will donate $10.00 to Child's Play.\nSOE will continue to contribute towards the Child’s Play Charity for each additional purchase made. This scroll may be scribed only once per character.
+description: Show off your support of the great charity, "Child's Play" by adopting this baby bear cub!  For every baby bear cub purchased SOE will donate $10.00 to Child's Play.<br>SOE will continue to contribute towards the Child’s Play Charity for each additional purchase made. This scroll may be scribed only once per character.
 stats:
   duration: Until Cancelled
   casting: 2.0 seconds
@@ -25,8 +25,8 @@ source:
   title: Child's Play Bouncing Baby Bear Cub
   url: https://eq2.fandom.com/wiki/Child's_Play_Bouncing_Baby_Bear_Cub
   history: https://eq2.fandom.com/wiki/Child's_Play_Bouncing_Baby_Bear_Cub?action=history
-  revision: 2024208
-  revised: '2026-08-23T20:31:59Z'
+  revision: 2032364
+  revised: '2026-10-14T22:36:23Z'
   license: CC BY-SA 3.0
 ---
 

@@ -13,6 +13,7 @@ pieces:
   note: (Reward from the collection [[Goblin Magic]])
 - name: Sandscrawler Trophy
   icon: images/Item_4878.png
+  note: Under a tent in the room with Chief Siltskin (Headstone, not a "?")
 - name: Brokentoe Trophy
   icon: images/Item_4878.png
   note: (Reward from the collection [[Goblin Loots]])
@@ -32,8 +33,8 @@ source:
   title: Runnyeye Trophies
   url: https://eq2.fandom.com/wiki/Runnyeye_Trophies
   history: https://eq2.fandom.com/wiki/Runnyeye_Trophies?action=history
-  revision: 1863752
-  revised: '2025-03-08T15:26:51Z'
+  revision: 2032211
+  revised: '2026-10-13T22:38:34Z'
   license: CC BY-SA 3.0
 ---
 

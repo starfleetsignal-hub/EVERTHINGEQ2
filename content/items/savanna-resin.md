@@ -7,16 +7,18 @@ item_level: '90'
 description: Traditional resin skillfully created using plants that grow on the savannas of the Commonlands.
 obtained_from: see notes below
 item_link: \aITEM -1143836297 -801822128:savanna resin\/a
+image: images/Savanna_resin.png
 categories:
 - Census Credits
+- Item pages with existing iname images
 - Items
 - Uncommon Items
 source:
   title: Savanna resin
   url: https://eq2.fandom.com/wiki/Savanna_resin
   history: https://eq2.fandom.com/wiki/Savanna_resin?action=history
-  revision: 2028463
-  revised: '2026-09-07T14:54:40Z'
+  revision: 2032182
+  revised: '2026-10-13T15:32:49Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: linked

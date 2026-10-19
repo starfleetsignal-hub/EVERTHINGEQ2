@@ -2,7 +2,6 @@
 title: Summon Self Help Manual
 type: spell
 spell_type: abilities
-category: Summon Pet
 icon: images/Spell_473.png
 levels: '0'
 target: self
@@ -12,6 +11,8 @@ duration: Until Cancelled
 effects: '- Summons a pet Dragonslaying For Dummies'
 categories:
 - Census Credits
+- Fluff Pet
+- Fun Spell (Spell Type)
 - Spells
 - Spells by Type Abilities
 - Summon Pet (Spell Type)
@@ -19,9 +20,11 @@ source:
   title: Summon Self Help Manual
   url: https://eq2.fandom.com/wiki/Summon_Self_Help_Manual
   history: https://eq2.fandom.com/wiki/Summon_Self_Help_Manual?action=history
-  revision: 2021573
-  revised: '2026-08-09T11:52:16Z'
+  revision: 2032739
+  revised: '2026-10-18T20:22:00Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Self Help Manual (Spell Scroll)|Self Help Manual]]

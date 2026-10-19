@@ -21,9 +21,11 @@ source:
   title: Call Favored Magma Rock
   url: https://eq2.fandom.com/wiki/Call_Favored_Magma_Rock
   history: https://eq2.fandom.com/wiki/Call_Favored_Magma_Rock?action=history
-  revision: 2022453
-  revised: '2026-08-14T03:46:45Z'
+  revision: 2032130
+  revised: '2026-10-13T02:12:21Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Favored Magma Rock]]

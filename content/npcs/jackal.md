@@ -7,7 +7,6 @@ zone: '[[Block and Tackle Storerooms]]'
 location: '{{waypoint -7, -13, -4}}'
 image: images/Jackal.png
 categories:
-- Affected by future updates
 - Block and Tackle Storerooms NPCs
 - Block and Tackle Storerooms Quest NPCs
 - Human
@@ -15,13 +14,12 @@ categories:
 - NPCs
 - Quest (NPC Type)
 - Shattered Lands NPCs
-- Test
 source:
   title: Jackal
   url: https://eq2.fandom.com/wiki/Jackal
   history: https://eq2.fandom.com/wiki/Jackal?action=history
-  revision: 2029957
-  revised: '2026-09-18T00:20:29Z'
+  revision: 2032423
+  revised: '2026-10-15T05:12:08Z'
   license: CC BY-SA 3.0
 ---
 

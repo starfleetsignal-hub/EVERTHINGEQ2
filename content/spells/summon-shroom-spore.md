@@ -20,9 +20,11 @@ source:
   title: Summon 'Shroom Spore
   url: https://eq2.fandom.com/wiki/Summon_'Shroom_Spore
   history: https://eq2.fandom.com/wiki/Summon_'Shroom_Spore?action=history
-  revision: 2021422
-  revised: '2026-08-09T04:51:06Z'
+  revision: 2032296
+  revised: '2026-10-14T15:35:37Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [['Shroom Spore (Spell Scroll)|'Shroom Spore]]

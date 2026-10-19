@@ -8,13 +8,14 @@ flags: NO-TRADE NO-VALUE
 description: This spell will summon the Milestone Alley Toyger to your side to accompany you during your travels.
 stats:
   duration: Until Cancelled
-  casting: 2.0 seconds
-  recast: 0.0 seconds
+  casting: 4.0 seconds
+  recast: Instant
 effects: '- Summons a pet Milestone Alley Toyger'
 obtained_from: From [[EverQuest II 2024 Milestone Celebration Crate]]
 item_link: \aITEM -593323648 -288567801:Leopard Mum\/a
 image: images/Milestone_Alley_Toyger.png
 categories:
+- Census Credits
 - Item obtained from a Crate
 - Item pages with existing iname images
 - Items
@@ -24,8 +25,8 @@ source:
   title: Milestone Alley Toyger
   url: https://eq2.fandom.com/wiki/Milestone_Alley_Toyger
   history: https://eq2.fandom.com/wiki/Milestone_Alley_Toyger?action=history
-  revision: 1950516
-  revised: '2026-01-05T18:28:53Z'
+  revision: 2032195
+  revised: '2026-10-13T19:25:45Z'
   license: CC BY-SA 3.0
 ---
 

@@ -17,8 +17,8 @@ source:
   title: Stave of the Damned
   url: https://eq2.fandom.com/wiki/Stave_of_the_Damned
   history: https://eq2.fandom.com/wiki/Stave_of_the_Damned?action=history
-  revision: 2029546
-  revised: '2026-09-15T18:47:33Z'
+  revision: 2032070
+  revised: '2026-10-12T19:40:34Z'
   license: CC BY-SA 3.0
 ---
 

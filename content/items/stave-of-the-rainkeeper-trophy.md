@@ -18,8 +18,8 @@ source:
   title: Stave of the Rainkeeper Trophy
   url: https://eq2.fandom.com/wiki/Stave_of_the_Rainkeeper_Trophy
   history: https://eq2.fandom.com/wiki/Stave_of_the_Rainkeeper_Trophy?action=history
-  revision: 1877973
-  revised: '2025-06-19T11:49:40Z'
+  revision: 2032068
+  revised: '2026-10-12T19:40:28Z'
   license: CC BY-SA 3.0
 ---
 

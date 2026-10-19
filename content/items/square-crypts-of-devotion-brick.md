@@ -2,24 +2,27 @@
 title: Square Crypts of Devotion Brick
 type: item
 item_kind: House Item
+item_subtype: Steps
 icon: images/Item_5840.png
 item_level: '0'
 flags: no-value
 description: This item can be placed on the floor in any house type.
+obtained_from: Sold by [[Lyri Vasramel]] in [[Block and Tackle Storerooms]]
 item_link: \aITEM -2003602384 864148867:Square Crypts of Devotion Brick\/a
 categories:
 - Census Credits
 - House Item (Item Type)
 - Items
+- Steps (Item Subtype)
 source:
   title: Square Crypts of Devotion Brick
   url: https://eq2.fandom.com/wiki/Square_Crypts_of_Devotion_Brick
   history: https://eq2.fandom.com/wiki/Square_Crypts_of_Devotion_Brick?action=history
-  revision: 2029540
-  revised: '2026-09-15T18:47:26Z'
+  revision: 2031946
+  revised: '2026-10-12T15:55:51Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: linked
+expansion_source: source
 ---
 
 

@@ -19,9 +19,11 @@ source:
   title: Call Undertok Minecrawler
   url: https://eq2.fandom.com/wiki/Call_Undertok_Minecrawler
   history: https://eq2.fandom.com/wiki/Call_Undertok_Minecrawler?action=history
-  revision: 2022644
-  revised: '2026-08-18T00:11:30Z'
+  revision: 2032276
+  revised: '2026-10-14T05:36:58Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Undertok Minecrawler]]

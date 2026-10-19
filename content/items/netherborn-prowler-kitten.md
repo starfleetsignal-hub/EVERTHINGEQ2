@@ -5,7 +5,7 @@ item_kind: Familiar
 icon: images/Item_4550.png
 tier: Celestial
 level: '1'
-flags: ornate
+flags: ornate no-transmute no-salvage
 description: Even though he is in a cage like the other beasties in the Conservatory, he sits proudly with his head up high. He clearly considers himself the king here, and I don't think anyone would challenge that notion. Or could. Event and promo familiars may not be consumed for familiar experience.
 stats:
   duration: Until Cancelled
@@ -66,8 +66,8 @@ source:
   title: Netherborn Prowler Kitten
   url: https://eq2.fandom.com/wiki/Netherborn_Prowler_Kitten
   history: https://eq2.fandom.com/wiki/Netherborn_Prowler_Kitten?action=history
-  revision: 1932484
-  revised: '2026-01-01T22:08:22Z'
+  revision: 2032537
+  revised: '2026-10-16T14:50:41Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

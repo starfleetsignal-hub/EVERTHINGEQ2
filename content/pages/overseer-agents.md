@@ -9,8 +9,8 @@ source:
   title: Overseer Agents
   url: https://eq2.fandom.com/wiki/Overseer_Agents
   history: https://eq2.fandom.com/wiki/Overseer_Agents?action=history
-  revision: 2024602
-  revised: '2026-08-29T03:35:21Z'
+  revision: 2032622
+  revised: '2026-10-16T22:31:27Z'
   license: CC BY-SA 3.0
 ---
 
@@ -179,21 +179,21 @@ Each new season unlocks for a player's entire account at levels 11, 21, 31, etc.
 |  | [[Kindo Youngfist (Overseer)\|Kindo Youngfist]] | [[Overseer Agents/None\|None]] |  |  |  |
 |  | [[Belizor Flamemaw]] | [[Overseer Agents/None\|None]] |  |  |  |
 |  | [[Dro'Therria]] | [[Overseer Agents/None\|None]] |  |  |  |
-| **Legendary** |  | [[Slaszh Vust]] | [[Overseer Agents/Inquisitive\|Inquisitive]] |  |  |
-|  | [[Gelif Zrashk]] | [[Overseer Agents/Shrewd\|Shrewd]] |  |  |  |
-|  | [[Gorrok the Bloody]] | [[Overseer Agents/Lucky\|Lucky]] |  |  |  |
-|  | [[Commander Klask]] | [[Overseer Agents/Strong\|Strong]] |  |  |  |
-|  | [[Klied Barrelbelly]] | [[Overseer Agents/Sly\|Sly]] |  |  |  |
-|  | [[Delgan Spellsinge]] | [[Overseer Agents/Unpredictable\|Unpredictable]] |  |  |  |
-| **Fabled** |  | [[Selekia Chanak]] | [[Overseer Agents/Adventurous\|Adventurous]] | [[Overseer Agents/Corrupt\|Corrupt]] |  |
-|  | [[Pudil Bellybrawl]] | [[Overseer Agents/Agile\|Agile]] | [[Overseer Agents/Forager\|Forager]] |  |  |
-|  | [[Master Mora (Overseer)\|Master Mora]] | [[Overseer Agents/Daring\|Daring]] | [[Overseer Agents/Explorative\|Explorative]] |  |  |
-|  | [[Marka Sailshot]] | [[Overseer Agents/Secretive\|Secretive]] | [[Overseer Agents/Unpredictable\|Unpredictable]] |  |  |
-| **Celestial** |  | [[Arok Kull]] | [[Overseer Agents/Heroic\|Heroic]] | [[Overseer Agents/Scholarly\|Scholarly]] |  |
-|  | [[Celestial Item: Dwarven Work Boots]] | [[Overseer Agents/Noble\|Noble]] | [[Overseer Agents/Unflappable\|Unflappable]] |  |  |
-|  | [[Celestial Item: Worker Sledgemallet]] | [[Overseer Agents/Explorative\|Explorative]] | [[Overseer Agents/Martial\|Martial]] |  |  |
-|  | [[Gatiro Zelk]] | [[Overseer Agents/Forager\|Forager]] | [[Overseer Agents/Marauding\|Marauding]] |  |  |
-|  | [[Celestial Item: Carotidcutter]] | [[Overseer Agents/Corrupt\|Corrupt]] | [[Overseer Agents/Unflappable\|Unflappable]] |  |  |
+| **Legendary** | ![](images/Slaszh_Vust-.png) | [[Slaszh Vust]] | [[Overseer Agents/Inquisitive\|Inquisitive]] |  |  |
+| ![](images/Gelif_Zrashk.PNG) | [[Gelif Zrashk]] | [[Overseer Agents/Shrewd\|Shrewd]] |  |  |  |
+| ![](images/Gorrok_the_Bloody.PNG) | [[Gorrok the Bloody]] | [[Overseer Agents/Lucky\|Lucky]] |  |  |  |
+| ![](images/Commander_Klask-.png) | [[Commander Klask]] | [[Overseer Agents/Strong\|Strong]] |  |  |  |
+| ![](images/Klied_Barrelbelly-.png) | [[Klied Barrelbelly]] | [[Overseer Agents/Sly\|Sly]] |  |  |  |
+| ![](images/Delgan_Spellsinge.PNG) | [[Delgan Spellsinge]] | [[Overseer Agents/Unpredictable\|Unpredictable]] |  |  |  |
+| **Fabled** | ![](images/Selekia_Chanak.PNG) | [[Selekia Chanak]] | [[Overseer Agents/Adventurous\|Adventurous]] | [[Overseer Agents/Corrupt\|Corrupt]] |  |
+| ![](images/Pudil_Bellybrawl.PNG) | [[Pudil Bellybrawl]] | [[Overseer Agents/Agile\|Agile]] | [[Overseer Agents/Forager\|Forager]] |  |  |
+| ![](images/Master_Mora-.png) | [[Master Mora (Overseer)\|Master Mora]] | [[Overseer Agents/Daring\|Daring]] | [[Overseer Agents/Explorative\|Explorative]] |  |  |
+| ![](images/Marka_Sailshot.PNG) | [[Marka Sailshot]] | [[Overseer Agents/Secretive\|Secretive]] | [[Overseer Agents/Unpredictable\|Unpredictable]] |  |  |
+| **Celestial** | ![](images/Arok_Kull.PNG) | [[Arok Kull]] | [[Overseer Agents/Heroic\|Heroic]] | [[Overseer Agents/Scholarly\|Scholarly]] |  |
+| ![](images/CelestialItemDwarvenWorkBoots.PNG) | [[Celestial Item: Dwarven Work Boots]] | [[Overseer Agents/Noble\|Noble]] | [[Overseer Agents/Unflappable\|Unflappable]] |  |  |
+| ![](images/Celestial_ItemWorker_Sledgemallet.PNG) | [[Celestial Item: Worker Sledgemallet]] | [[Overseer Agents/Explorative\|Explorative]] | [[Overseer Agents/Martial\|Martial]] |  |  |
+| ![](images/Gatiro_Zelk.PNG) | [[Gatiro Zelk]] | [[Overseer Agents/Forager\|Forager]] | [[Overseer Agents/Marauding\|Marauding]] |  |  |
+| ![](images/Celestial_Item_Carotidcutter.PNG) | [[Celestial Item: Carotidcutter]] | [[Overseer Agents/Corrupt\|Corrupt]] | [[Overseer Agents/Unflappable\|Unflappable]] |  |  |
 
 ## Season 6
 
@@ -212,14 +212,14 @@ Each new season unlocks for a player's entire account at levels 11, 21, 31, etc.
 |  | [[Robelia Julrest]] | [[Overseer Agents/Strong\|Strong]] | [[Overseer Agents/Tough\|Tough]] |  |  |  |
 |  | [[Qurgar Quirlik]] | [[Overseer Agents/Artisanal\|Artisanal]] | [[Overseer Agents/Sly\|Sly]] |  |  |  |
 |  | [[Melvana Truestrike]] | [[Overseer Agents/Agile\|Agile]] | [[Overseer Agents/Inquisitive\|Inquisitive]] |  |  |  |
-| **Fabled** |  | [[Norlak Kordal]] | [[Overseer Agents/Shrewd\|Shrewd]] | [[Overseer Agents/Stalwart\|Stalwart]] | [[Overseer Agents/Unpredictable\|Unpredictable]] |  |
-|  | [[Malcum Rebelsong]] | [[Overseer Agents/Adventurous\|Adventurous]] | [[Overseer Agents/Agile\|Agile]] | [[Overseer Agents/Explorative\|Explorative]] |  |  |
-|  | [[Darlena G'Erts]] | [[Overseer Agents/Artisanal\|Artisanal]] | [[Overseer Agents/Strong\|Strong]] | [[Overseer Agents/Tough\|Tough]] |  |  |
-|  | [[Velhira Fiercewing]] | [[Overseer Agents/Cunning\|Cunning]] | [[Overseer Agents/Daring\|Daring]] | [[Overseer Agents/Strong\|Strong]] |  |  |
-| **Celestial** |  | [[Telrysa El'Lav]] | [[Overseer Agents/Heroic\|Heroic]] | [[Overseer Agents/Ingenuity\|Ingenuity]] | [[Overseer Agents/Noble\|Noble]] |  |
-|  | [[Gimbal Furyfists]] | [[Overseer Agents/Artisanal\|Artisanal]] | [[Overseer Agents/Barterer\|Barterer]] | [[Overseer Agents/Persuasive\|Persuasive]] |  |  |
-|  | [[Najena's Ring of Readiness (Overseer)\|Najena's Ring of Readiness]] | [[Overseer Agents/Scholarly\|Scholarly]] | [[Overseer Agents/Secretive\|Secretive]] | [[Overseer Agents/Sly\|Sly]] |  |  |
-|  | [[Dark Mail Gauntlets]] | [[Overseer Agents/Persuasive\|Persuasive]] | [[Overseer Agents/Unpredictable\|Unpredictable]] | [[Overseer Agents/Vile\|Vile]] |  |  |
+| **Fabled** | ![](images/Norlak_Kordal-.PNG) | [[Norlak Kordal]] | [[Overseer Agents/Shrewd\|Shrewd]] | [[Overseer Agents/Stalwart\|Stalwart]] | [[Overseer Agents/Unpredictable\|Unpredictable]] |  |
+| ![](images/Malcum_Rebelsong-.PNG) | [[Malcum Rebelsong]] | [[Overseer Agents/Adventurous\|Adventurous]] | [[Overseer Agents/Agile\|Agile]] | [[Overseer Agents/Explorative\|Explorative]] |  |  |
+| ![](images/Darlena_G'Erts-.PNG) | [[Darlena G'Erts]] | [[Overseer Agents/Artisanal\|Artisanal]] | [[Overseer Agents/Strong\|Strong]] | [[Overseer Agents/Tough\|Tough]] |  |  |
+| ![](images/Velhira_Fiercewing-.PNG) | [[Velhira Fiercewing]] | [[Overseer Agents/Cunning\|Cunning]] | [[Overseer Agents/Daring\|Daring]] | [[Overseer Agents/Strong\|Strong]] |  |  |
+| **Celestial** | ![](images/Telrysa_El'Lav-.PNG) | [[Telrysa El'Lav]] | [[Overseer Agents/Heroic\|Heroic]] | [[Overseer Agents/Ingenuity\|Ingenuity]] | [[Overseer Agents/Noble\|Noble]] |  |
+| ![](images/Gimbal_Furyfists-.PNG) | [[Gimbal Furyfists]] | [[Overseer Agents/Artisanal\|Artisanal]] | [[Overseer Agents/Barterer\|Barterer]] | [[Overseer Agents/Persuasive\|Persuasive]] |  |  |
+| ![](images/Najena's_Ring_of_Readiness-.PNG) | [[Najena's Ring of Readiness (Overseer)\|Najena's Ring of Readiness]] | [[Overseer Agents/Scholarly\|Scholarly]] | [[Overseer Agents/Secretive\|Secretive]] | [[Overseer Agents/Sly\|Sly]] |  |  |
+| ![](images/Dark_Mail_Gauntlets-.PNG) | [[Dark Mail Gauntlets]] | [[Overseer Agents/Persuasive\|Persuasive]] | [[Overseer Agents/Unpredictable\|Unpredictable]] | [[Overseer Agents/Vile\|Vile]] |  |  |
 
 ## Season 7
 

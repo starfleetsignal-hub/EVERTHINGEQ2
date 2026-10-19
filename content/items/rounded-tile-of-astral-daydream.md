@@ -2,6 +2,7 @@
 title: Rounded Tile of Astral Daydream
 type: item
 item_kind: House Item
+item_subtype: Tile
 icon: images/Item_2598.png
 tier: Handcrafted
 item_level: '1'
@@ -15,12 +16,13 @@ categories:
 - Handcrafted Items
 - House Item (Item Type)
 - Items
+- Tile (Item Subtype)
 source:
   title: Rounded Tile of Astral Daydream
   url: https://eq2.fandom.com/wiki/Rounded_Tile_of_Astral_Daydream
   history: https://eq2.fandom.com/wiki/Rounded_Tile_of_Astral_Daydream?action=history
-  revision: 2029528
-  revised: '2026-09-15T18:47:09Z'
+  revision: 2032023
+  revised: '2026-10-12T16:41:44Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

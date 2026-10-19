@@ -19,9 +19,11 @@ source:
   title: Call Burning Shadow Spark
   url: https://eq2.fandom.com/wiki/Call_Burning_Shadow_Spark
   history: https://eq2.fandom.com/wiki/Call_Burning_Shadow_Spark?action=history
-  revision: 2023096
-  revised: '2026-08-20T03:48:07Z'
+  revision: 2032123
+  revised: '2026-10-13T00:20:05Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the [[Burning Shadow Spark (Spell Scroll)]]

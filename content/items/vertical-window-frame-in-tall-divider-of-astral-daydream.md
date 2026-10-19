@@ -2,6 +2,7 @@
 title: Vertical Window Frame in Tall Divider of Astral Daydream
 type: item
 item_kind: House Item
+item_subtype: Divider
 icon: images/Item_845.png
 tier: Handcrafted
 item_level: '1'
@@ -12,6 +13,7 @@ item_link: \aITEM 1381050605 1414457544:Vertical Window Frame in Tall Divider of
 categories:
 - Building Block (House Item Type)
 - Census Credits
+- Divider (Item Subtype)
 - Handcrafted Items
 - House Item (Item Type)
 - Items
@@ -19,8 +21,8 @@ source:
   title: Vertical Window Frame in Tall Divider of Astral Daydream
   url: https://eq2.fandom.com/wiki/Vertical_Window_Frame_in_Tall_Divider_of_Astral_Daydream
   history: https://eq2.fandom.com/wiki/Vertical_Window_Frame_in_Tall_Divider_of_Astral_Daydream?action=history
-  revision: 2029559
-  revised: '2026-09-15T18:47:50Z'
+  revision: 2032020
+  revised: '2026-10-12T16:41:30Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

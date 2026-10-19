@@ -63,8 +63,8 @@ source:
   title: Sulky Gingerdread Illusion
   url: https://eq2.fandom.com/wiki/Sulky_Gingerdread_Illusion
   history: https://eq2.fandom.com/wiki/Sulky_Gingerdread_Illusion?action=history
-  revision: 1937428
-  revised: '2026-01-03T13:06:06Z'
+  revision: 2032335
+  revised: '2026-10-14T21:02:51Z'
   license: CC BY-SA 3.0
 ---
 

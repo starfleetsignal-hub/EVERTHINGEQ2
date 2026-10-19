@@ -20,9 +20,11 @@ source:
   title: Call Wirehaired Retriever
   url: https://eq2.fandom.com/wiki/Call_Wirehaired_Retriever
   history: https://eq2.fandom.com/wiki/Call_Wirehaired_Retriever?action=history
-  revision: 2021680
-  revised: '2026-08-10T04:29:56Z'
+  revision: 2032286
+  revised: '2026-10-14T05:53:16Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Wirehaired Retriever (Spell Scroll)|Wirehaired Retriever]]

@@ -20,9 +20,11 @@ source:
   title: Call Cinder Slug
   url: https://eq2.fandom.com/wiki/Call_Cinder_Slug
   history: https://eq2.fandom.com/wiki/Call_Cinder_Slug?action=history
-  revision: 2022443
-  revised: '2026-08-14T03:24:36Z'
+  revision: 2032124
+  revised: '2026-10-13T00:21:31Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Cinder Slug]]

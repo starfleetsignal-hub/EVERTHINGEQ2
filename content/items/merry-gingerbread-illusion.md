@@ -63,8 +63,8 @@ source:
   title: Merry Gingerbread Illusion
   url: https://eq2.fandom.com/wiki/Merry_Gingerbread_Illusion
   history: https://eq2.fandom.com/wiki/Merry_Gingerbread_Illusion?action=history
-  revision: 1937001
-  revised: '2026-01-03T12:31:04Z'
+  revision: 2032326
+  revised: '2026-10-14T20:03:47Z'
   license: CC BY-SA 3.0
 ---
 

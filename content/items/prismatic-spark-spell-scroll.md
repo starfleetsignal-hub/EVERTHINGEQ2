@@ -13,7 +13,7 @@ effects: '- Summons a pet Prismatic Spark'
 obtained_from: Sold by [[Beluba]] in [[Sanctus Seru (City)]]
 item_link: \aITEM -269401984 -1752550094:Prismatic Spark\/a
 categories:
-- Fluff Pet
+- Census Credits
 - Items
 - Spell Scroll (Item Type)
 - Treasured Items
@@ -21,11 +21,13 @@ source:
   title: Prismatic Spark (Spell Scroll)
   url: https://eq2.fandom.com/wiki/Prismatic_Spark_(Spell_Scroll)
   history: https://eq2.fandom.com/wiki/Prismatic_Spark_(Spell_Scroll)?action=history
-  revision: 1994149
-  revised: '2026-04-06T05:37:03Z'
+  revision: 2032714
+  revised: '2026-10-18T19:25:53Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: source
 ---
 
+## Notes
 
+Gives the ability [[Summon Prismatic Spark]]
