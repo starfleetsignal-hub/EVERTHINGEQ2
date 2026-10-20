@@ -20,9 +20,11 @@ source:
   title: Summon Pale Cnidcara
   url: https://eq2.fandom.com/wiki/Summon_Pale_Cnidcara
   history: https://eq2.fandom.com/wiki/Summon_Pale_Cnidcara?action=history
-  revision: 2021431
-  revised: '2026-08-09T05:09:36Z'
+  revision: 2032558
+  revised: '2026-10-16T16:32:46Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Pale Cnidcara]]

@@ -1,0 +1,30 @@
+---
+title: Summon Halasian Mauler Pup
+type: spell
+spell_type: abilities
+icon: images/Spell_473.png
+levels: '0'
+target: self
+cast_time: 2.0 seconds
+recast: Instant
+duration: 1 day
+effects: '- Summons a pet a halasian mauler'
+categories:
+- Census Credits
+- Fluff Pet
+- Fun Spell (Spell Type)
+- Spells
+- Spells by Type Abilities
+- Summon Pet (Spell Type)
+source:
+  title: Summon Halasian Mauler Pup
+  url: https://eq2.fandom.com/wiki/Summon_Halasian_Mauler_Pup
+  history: https://eq2.fandom.com/wiki/Summon_Halasian_Mauler_Pup?action=history
+  revision: 2032481
+  revised: '2026-10-16T02:30:20Z'
+  license: CC BY-SA 3.0
+---
+
+## Notes
+
+Received from the Spell Scroll [[Halasian Mauler Companion]]

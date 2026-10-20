@@ -20,9 +20,11 @@ source:
   title: Call Milestone Alley Toyger
   url: https://eq2.fandom.com/wiki/Call_Milestone_Alley_Toyger
   history: https://eq2.fandom.com/wiki/Call_Milestone_Alley_Toyger?action=history
-  revision: 2021426
-  revised: '2026-08-09T04:59:58Z'
+  revision: 2032196
+  revised: '2026-10-13T19:26:19Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Milestone Alley Toyger]]

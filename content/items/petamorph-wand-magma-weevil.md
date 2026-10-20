@@ -63,8 +63,8 @@ source:
   title: 'Petamorph Wand: Magma Weevil'
   url: https://eq2.fandom.com/wiki/Petamorph_Wand:_Magma_Weevil
   history: https://eq2.fandom.com/wiki/Petamorph_Wand:_Magma_Weevil?action=history
-  revision: 1937253
-  revised: '2026-01-03T12:44:15Z'
+  revision: 2032186
+  revised: '2026-10-13T19:00:02Z'
   license: CC BY-SA 3.0
 ---
 

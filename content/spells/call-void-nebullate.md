@@ -19,9 +19,11 @@ source:
   title: Call Void Nebullate
   url: https://eq2.fandom.com/wiki/Call_Void_Nebullate
   history: https://eq2.fandom.com/wiki/Call_Void_Nebullate?action=history
-  revision: 2022650
-  revised: '2026-08-18T02:42:37Z'
+  revision: 2032278
+  revised: '2026-10-14T05:42:49Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Void Nebullate]]

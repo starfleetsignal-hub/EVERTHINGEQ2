@@ -32,8 +32,8 @@ source:
   title: 'Were Is the Messenger: Where the Weres Are'
   url: https://eq2.fandom.com/wiki/Were_Is_the_Messenger:_Where_the_Weres_Are
   history: https://eq2.fandom.com/wiki/Were_Is_the_Messenger:_Where_the_Weres_Are?action=history
-  revision: 2030704
-  revised: '2026-10-01T08:02:04Z'
+  revision: 2032150
+  revised: '2026-10-13T06:21:06Z'
   license: CC BY-SA 3.0
 ---
 
@@ -48,7 +48,7 @@ Mairen had been turned into a werewolf. Before I deliver the news of her death t
 ## Steps
 
 1. Speak with [[Renfry]] to receive [[Mairen's Note (A note)|Mairen's Note]].
-   - The note is a house item. If you want to keep it, place it in your house before speaking to Piccolo. You do not need it in your inventory to update the quest. The note rewarded at the end of the quest, or purchased from merchants, is a different item that is a copy of the note.
+   - The note is a house item. If you want to keep it, place it in your house before speaking to Piccolo. You do not need it in your inventory to update the quest. The note rewarded at the end of the quest, or purchased from merchants, is a different item that is a copy of the note. UPDATE: Since this was written, it seems like the two notes are, indeed, the same, but it never hurts to make sure.
 1. Leave the basement and return to [[Forlorn Gist]] by clicking on the door at {{waypoint 0, 0, 29}}.
 1. Use [[Illusion: Werewolf]] once in [[Forlorn Gist]]
    - The illusion should prevent any nearby creatures from showing up as hostile, at least in the area around [[Little Town]] and [[District of Night]]
@@ -74,8 +74,8 @@ Mairen had been turned into a werewolf. Before I deliver the news of her death t
    1. Craft [[Scroll of Equipment Enhancement]]
    1. Craft [[Far Seas Crafting Station (Quest Item)|Far Seas Crafting Station]]
       - Crafting this item requires paying careful attention to the six different counters (not three pairs of matching icons like normal crafting), which are unique/unusual, so craft with care and focus.
-      - *Note, however, that while there are 6 unique 'counters', the counters are still arranged in the 2 basic sets of 3 'progress' and 3 'durability' actions like normal crafting - BUT they are defaulted to opposite sides than normal crafting icons (Progess/Durability swapped). If not paying attention, the player could be constantly trying to increase durability on an already max durability craft, making progress creep along quite slower than normal and vice versa.*
-      - Failure to counter while crafting may result in death, however the crafting components will re-appear in your bag upon reviving. You will need to right-click to unpack them, though, before trying again...
+      - *Note, however, that while there are 6 unique 'counters', the counters are still arranged in the 2 basic sets of 3 'progress' and 3 'durability' actions like normal crafting - BUT they are defaulted to opposite sides than normal crafting icons (Progess/Durability swapped). If not paying attention, the player could be constantly trying to increase durability on an already max durability craft, making progress creep along quite slower than normal and vice versa. It's best to just pay attention to the icon when a complication arises and match that.*
+      - Failure to counter while crafting may result in death; however, the crafting components will re-appear in your bag upon reviving. You will need to right-click to unpack them, though, before trying again...
 1. Return to [[Renfry]], who will provide you with [[Renfry's Attunement Stone]]
 1. Speak to [[Piccolo]] {{waypoint 638, 7, 530}} at [[Svarni Gateway]] in [[Svarni Expanse]], who takes [[Mairen's Note]]
 1. Speak to [[Rithsar]] {{waypoint 641, 7, 532}}, who takes [[Renfry's Attunement Stone]]

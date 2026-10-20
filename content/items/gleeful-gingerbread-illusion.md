@@ -63,8 +63,8 @@ source:
   title: Gleeful Gingerbread Illusion
   url: https://eq2.fandom.com/wiki/Gleeful_Gingerbread_Illusion
   history: https://eq2.fandom.com/wiki/Gleeful_Gingerbread_Illusion?action=history
-  revision: 1936947
-  revised: '2026-01-03T12:16:25Z'
+  revision: 2032319
+  revised: '2026-10-14T16:52:45Z'
   license: CC BY-SA 3.0
 ---
 

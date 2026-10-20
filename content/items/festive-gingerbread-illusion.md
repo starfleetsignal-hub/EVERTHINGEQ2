@@ -63,8 +63,8 @@ source:
   title: Festive Gingerbread Illusion
   url: https://eq2.fandom.com/wiki/Festive_Gingerbread_Illusion
   history: https://eq2.fandom.com/wiki/Festive_Gingerbread_Illusion?action=history
-  revision: 1936916
-  revised: '2026-01-03T12:15:13Z'
+  revision: 2032315
+  revised: '2026-10-14T16:40:59Z'
   license: CC BY-SA 3.0
 ---
 

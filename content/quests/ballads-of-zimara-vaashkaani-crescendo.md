@@ -23,8 +23,8 @@ source:
   title: 'Ballads of Zimara: Vaashkaani Crescendo'
   url: https://eq2.fandom.com/wiki/Ballads_of_Zimara:_Vaashkaani_Crescendo
   history: https://eq2.fandom.com/wiki/Ballads_of_Zimara:_Vaashkaani_Crescendo?action=history
-  revision: 1997806
-  revised: '2026-04-25T09:38:15Z'
+  revision: 2032475
+  revised: '2026-10-16T01:23:54Z'
   license: CC BY-SA 3.0
 ---
 
@@ -71,8 +71,7 @@ source:
          - *Click the portal {{waypoint 105.13, 7.94, -319.53}} to return to [[Zimara Breadth]].*
 1. Enter [[Vaashkaani: Golden Rule (Solo)|Vaashkaani: Golden Rule [Solo]]]
    - Click on the Vaashkaani, Alcazar of Zimara portal and select [[Vaashkaani: Golden Rule (Solo)|Vaashkaani: Golden Rule [Solo]]].
-   - **Note**: *[[Storm's A Brewin']] is not offered until this quest is complete so cannot be run concurrently.*
-   - Note to the Note:  As of Jan 19th 2024, *[[Storm's A Brewin']] is offered after the [[Here Ghost Nothing]] and [[Vaashkaani: Golden Rule (Solo)|Vaashkaani: Golden Rule [Solo]]] are completed.*
+   - Note: as of October 15, 2026, *[[Storm's A Brewin']] is available prior to entering this instance, and can be completed at the same time.*
    1. Venture through Vaaskhaani in search of the palace throne.
       - [[An unwell wisher|Unwell wishers]] at {{waypoint 15.14, 3.86, 49.06}} and {{waypoint 14.37, 3.86, -47.29}}. Save or Attack.
       1. Clear the mobs including the two magic carpets on the ground floor at {{waypoint 8.98, 2.96, 41.36}}, {{waypoint 7.04, 2.96, -40.05}}.

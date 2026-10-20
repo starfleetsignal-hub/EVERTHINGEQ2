@@ -5,7 +5,7 @@ item_kind: Familiar
 icon: images/Item_4549.png
 tier: Fabled
 level: '1'
-flags: ornate heirloom
+flags: ornate heirloom no-exchange no-transmute no-salvage
 description: Most of the time, it just sits there, unmoving. No ethereal light, no clanking joints, nothing. But even then, I can't help but feel like it... sees me. Event and promo familiars may not be consumed for familiar experience.
 stats:
   duration: Until Cancelled
@@ -66,8 +66,8 @@ source:
   title: Opalescent Prowler Kitten (Familiar)
   url: https://eq2.fandom.com/wiki/Opalescent_Prowler_Kitten_(Familiar)
   history: https://eq2.fandom.com/wiki/Opalescent_Prowler_Kitten_(Familiar)?action=history
-  revision: 1933033
-  revised: '2026-01-02T17:08:20Z'
+  revision: 2032548
+  revised: '2026-10-16T15:28:41Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

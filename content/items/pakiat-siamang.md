@@ -9,12 +9,13 @@ description: This curious little monkey was found sick among the deserts of Sink
 stats:
   duration: Until Cancelled
   casting: 10.0 seconds
-  recast: 0.0 seconds
+  recast: Instant
 effects: '- Summons a pet Pakiat Siamang.'
 obtained_from: '[[Seven Tomes and No Sense]]'
 item_link: \aITEM -568006203 -217416102:Pakiat Siamang\/a
 image: images/Pakiat_Siamang.png
 categories:
+- Census Credits
 - Item pages with existing iname images
 - Items
 - Spell Scroll (Item Type)
@@ -23,8 +24,8 @@ source:
   title: Pakiat Siamang
   url: https://eq2.fandom.com/wiki/Pakiat_Siamang
   history: https://eq2.fandom.com/wiki/Pakiat_Siamang?action=history
-  revision: 1852649
-  revised: '2025-01-11T21:01:09Z'
+  revision: 2032554
+  revised: '2026-10-16T16:26:02Z'
   license: CC BY-SA 3.0
 expansion: Planes of Prophecy
 expansion_source: source

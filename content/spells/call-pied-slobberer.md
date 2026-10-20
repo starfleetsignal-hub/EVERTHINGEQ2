@@ -19,9 +19,11 @@ source:
   title: Call Pied Slobberer
   url: https://eq2.fandom.com/wiki/Call_Pied_Slobberer
   history: https://eq2.fandom.com/wiki/Call_Pied_Slobberer?action=history
-  revision: 2022523
-  revised: '2026-08-15T00:37:42Z'
+  revision: 2032200
+  revised: '2026-10-13T19:36:18Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Pied Slobberer]]

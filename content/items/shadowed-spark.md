@@ -13,7 +13,7 @@ effects: '- Summons a pet Shadowed Spark'
 obtained_from: Sold by [[Beluba]] in [[Sanctus Seru (City)]]
 item_link: \aITEM 538827042 -1130069670:Shadowed Spark\/a
 categories:
-- Fluff Pet
+- Census Credits
 - Items
 - Spell Scroll (Item Type)
 - Treasured Items
@@ -21,11 +21,13 @@ source:
   title: Shadowed Spark
   url: https://eq2.fandom.com/wiki/Shadowed_Spark
   history: https://eq2.fandom.com/wiki/Shadowed_Spark?action=history
-  revision: 1994145
-  revised: '2026-04-06T05:30:38Z'
+  revision: 2032742
+  revised: '2026-10-18T20:26:28Z'
   license: CC BY-SA 3.0
 expansion: Blood of Luclin
 expansion_source: source
 ---
 
+## Notes
 
+Gives the ability [[Summon Shadowed Spark]]

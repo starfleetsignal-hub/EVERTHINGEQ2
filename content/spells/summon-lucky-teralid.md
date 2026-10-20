@@ -20,9 +20,11 @@ source:
   title: Summon Lucky Teralid
   url: https://eq2.fandom.com/wiki/Summon_Lucky_Teralid
   history: https://eq2.fandom.com/wiki/Summon_Lucky_Teralid?action=history
-  revision: 2021416
-  revised: '2026-08-09T04:43:48Z'
+  revision: 2032511
+  revised: '2026-10-16T04:21:37Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Lucky Teralid (Spell Scroll)|Lucky Teralid]]

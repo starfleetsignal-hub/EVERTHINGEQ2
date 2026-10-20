@@ -18,9 +18,11 @@ source:
   title: Call Afrosta the Frigid
   url: https://eq2.fandom.com/wiki/Call_Afrosta_the_Frigid
   history: https://eq2.fandom.com/wiki/Call_Afrosta_the_Frigid?action=history
-  revision: 1955881
-  revised: '2026-01-21T08:01:05Z'
+  revision: 2032117
+  revised: '2026-10-12T23:53:20Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Obtained from the Spell Scroll [[Afrost the Frigid Pet Scroll]]

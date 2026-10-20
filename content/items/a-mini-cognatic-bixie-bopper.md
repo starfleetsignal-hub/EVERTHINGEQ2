@@ -20,8 +20,8 @@ source:
   title: A mini-cognatic bixie bopper
   url: https://eq2.fandom.com/wiki/A_mini-cognatic_bixie_bopper
   history: https://eq2.fandom.com/wiki/A_mini-cognatic_bixie_bopper?action=history
-  revision: 1858996
-  revised: '2025-02-19T00:42:09Z'
+  revision: 2032521
+  revised: '2026-10-16T04:42:21Z'
   license: CC BY-SA 3.0
 expansion: Sentinel's Fate
 expansion_source: source

@@ -20,9 +20,11 @@ source:
   title: Summon Jolly-Filled Frostfell Cube
   url: https://eq2.fandom.com/wiki/Summon_Jolly-Filled_Frostfell_Cube
   history: https://eq2.fandom.com/wiki/Summon_Jolly-Filled_Frostfell_Cube?action=history
-  revision: 2021406
-  revised: '2026-08-09T04:25:21Z'
+  revision: 2032497
+  revised: '2026-10-16T03:14:16Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Jolly-Filled Frostfell Cube (Spell Scroll)|Jolly-Filled Frostfell Cube]]

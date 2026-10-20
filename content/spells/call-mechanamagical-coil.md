@@ -19,9 +19,11 @@ source:
   title: Call Mechanamagical Coil
   url: https://eq2.fandom.com/wiki/Call_Mechanamagical_Coil
   history: https://eq2.fandom.com/wiki/Call_Mechanamagical_Coil?action=history
-  revision: 2022516
-  revised: '2026-08-14T23:48:25Z'
+  revision: 2032194
+  revised: '2026-10-13T19:22:37Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Mechanamagical Coil]]

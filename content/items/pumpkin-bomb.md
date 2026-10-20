@@ -66,8 +66,8 @@ source:
   title: Pumpkin Bomb
   url: https://eq2.fandom.com/wiki/Pumpkin_Bomb
   history: https://eq2.fandom.com/wiki/Pumpkin_Bomb?action=history
-  revision: 1933739
-  revised: '2026-01-02T18:03:02Z'
+  revision: 2032208
+  revised: '2026-10-13T21:48:45Z'
   license: CC BY-SA 3.0
 ---
 
@@ -98,6 +98,12 @@ Those who pick up the pieces of exploded pumpkin bombs get collection pieces:
 - [[Crunchy Candied Crickets]]
 - [[Ghoulish Masks]]
 - [[The Great Haunt]] - this is a meta-collection; all of the collections above reward you with a collection item that goes into this final collection. The rare collection item, **Jack's Lantern**, is also from the Pumpkin Bombs.
+- [[Ghost Hunter's Pack]]
+
+They might also receive house items:
+
+- [[Autumnal Goldleaf Sapling]]
+- [[Small Autumnal Blueleaf Sapling]]
 
 ### Tips and Tricks
 

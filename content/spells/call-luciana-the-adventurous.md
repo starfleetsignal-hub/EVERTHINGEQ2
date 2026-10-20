@@ -19,8 +19,8 @@ source:
   title: Call Luciana the Adventurous
   url: https://eq2.fandom.com/wiki/Call_Luciana_the_Adventurous
   history: https://eq2.fandom.com/wiki/Call_Luciana_the_Adventurous?action=history
-  revision: 2022503
-  revised: '2026-08-14T23:19:36Z'
+  revision: 2032146
+  revised: '2026-10-13T04:18:57Z'
   license: CC BY-SA 3.0
 ---
 

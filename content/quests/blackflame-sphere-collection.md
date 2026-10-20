@@ -23,7 +23,8 @@ categories:
 - Chaos Descending (CQ Category)
 - Chaos Descending Collection Quests
 - Collection Quests
-- Collections needing rewardtype
+- Collections that reward Collection Items
+- Collections that reward Legendary Items
 - 'Doomfire: The Enkindled Towers (Solo) Collection Quests'
 - Quests
 - Tier 12 Collection Quests
@@ -31,8 +32,8 @@ source:
   title: Blackflame Sphere (Collection)
   url: https://eq2.fandom.com/wiki/Blackflame_Sphere_(Collection)
   history: https://eq2.fandom.com/wiki/Blackflame_Sphere_(Collection)?action=history
-  revision: 1759168
-  revised: '2023-12-09T12:59:57Z'
+  revision: 2031990
+  revised: '2026-10-12T16:24:04Z'
   license: CC BY-SA 3.0
 expansion: Chaos Descending
 expansion_source: patch

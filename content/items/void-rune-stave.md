@@ -18,8 +18,8 @@ source:
   title: Void Rune Stave
   url: https://eq2.fandom.com/wiki/Void_Rune_Stave
   history: https://eq2.fandom.com/wiki/Void_Rune_Stave?action=history
-  revision: 1870787
-  revised: '2025-04-11T10:58:48Z'
+  revision: 2032071
+  revised: '2026-10-12T19:40:36Z'
   license: CC BY-SA 3.0
 expansion: Ballads of Zimara
 expansion_source: level

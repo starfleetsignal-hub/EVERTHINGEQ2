@@ -20,9 +20,11 @@ source:
   title: Call Putrescent Slime Cube
   url: https://eq2.fandom.com/wiki/Call_Putrescent_Slime_Cube
   history: https://eq2.fandom.com/wiki/Call_Putrescent_Slime_Cube?action=history
-  revision: 2021434
-  revised: '2026-08-09T05:13:34Z'
+  revision: 2032230
+  revised: '2026-10-14T02:29:22Z'
   license: CC BY-SA 3.0
 ---
 
+## Note
 
+Received from the Spell Scroll [[Putrescent Slime Cube]]

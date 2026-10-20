@@ -67,11 +67,9 @@ source:
   title: 'Petamorph Wand: Savage Treasure'
   url: https://eq2.fandom.com/wiki/Petamorph_Wand:_Savage_Treasure
   history: https://eq2.fandom.com/wiki/Petamorph_Wand:_Savage_Treasure?action=history
-  revision: 1937290
-  revised: '2026-01-03T12:47:34Z'
+  revision: 2032241
+  revised: '2026-10-14T03:00:07Z'
   license: CC BY-SA 3.0
-expansion: Shattered Lands
-expansion_source: source
 ---
 
 

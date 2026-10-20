@@ -19,9 +19,11 @@ source:
   title: Call Sizzlespit Goblin Fighter
   url: https://eq2.fandom.com/wiki/Call_Sizzlespit_Goblin_Fighter
   history: https://eq2.fandom.com/wiki/Call_Sizzlespit_Goblin_Fighter?action=history
-  revision: 2022635
-  revised: '2026-08-17T23:41:56Z'
+  revision: 2032243
+  revised: '2026-10-14T03:14:34Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Sizzlespit Goblin Fighter (Spell Scroll)|Sizzlespit Goblin Fighter]]

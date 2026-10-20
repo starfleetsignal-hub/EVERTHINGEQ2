@@ -23,8 +23,8 @@ source:
   title: Andrina the Adorable Pet Scroll
   url: https://eq2.fandom.com/wiki/Andrina_the_Adorable_Pet_Scroll
   history: https://eq2.fandom.com/wiki/Andrina_the_Adorable_Pet_Scroll?action=history
-  revision: 2022526
-  revised: '2026-08-15T03:12:13Z'
+  revision: 2032120
+  revised: '2026-10-12T23:59:19Z'
   license: CC BY-SA 3.0
 ---
 

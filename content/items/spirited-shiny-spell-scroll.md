@@ -9,11 +9,13 @@ description: This spell will summon a spirited shiny to your side to accompany y
 stats:
   duration: Until Cancelled
   casting: 2.0 seconds
-  recast: 0.0 seconds
+  recast: Instant
 effects: '- Summons a pet Spirited Shiny'
 obtained_from: 'Collection reward: [[Shining Distractions]]'
+item_link: \aITEM 1497925775 -1475558716:Spirited Shiny\/a
 image: images/Spirited_Shiny_(Spell_Scroll).png
 categories:
+- Census Credits
 - Collection Quest Rewards
 - Fluff Pet
 - Item pages with existing iname images
@@ -24,8 +26,8 @@ source:
   title: Spirited Shiny (Spell Scroll)
   url: https://eq2.fandom.com/wiki/Spirited_Shiny_(Spell_Scroll)
   history: https://eq2.fandom.com/wiki/Spirited_Shiny_(Spell_Scroll)?action=history
-  revision: 1871733
-  revised: '2025-04-13T11:39:53Z'
+  revision: 2032257
+  revised: '2026-10-14T03:53:23Z'
   license: CC BY-SA 3.0
 ---
 

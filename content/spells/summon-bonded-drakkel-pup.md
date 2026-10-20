@@ -19,9 +19,11 @@ source:
   title: Summon Bonded Drakkel Pup
   url: https://eq2.fandom.com/wiki/Summon_Bonded_Drakkel_Pup
   history: https://eq2.fandom.com/wiki/Summon_Bonded_Drakkel_Pup?action=history
-  revision: 2022402
-  revised: '2026-08-13T22:46:03Z'
+  revision: 2032374
+  revised: '2026-10-14T23:52:08Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Bonded Drakkel Pup]]

@@ -2,6 +2,7 @@
 title: Tall Column of Astral Daydream
 type: item
 item_kind: House Item
+item_subtype: Column
 icon: images/Item_1215.png
 tier: Handcrafted
 item_level: '1'
@@ -12,6 +13,7 @@ item_link: \aITEM -774406913 1401110925:Tall Column of Astral Daydream\/a
 categories:
 - Building Block (House Item Type)
 - Census Credits
+- Column (Item Subtype)
 - Handcrafted Items
 - House Item (Item Type)
 - Items
@@ -19,8 +21,8 @@ source:
   title: Tall Column of Astral Daydream
   url: https://eq2.fandom.com/wiki/Tall_Column_of_Astral_Daydream
   history: https://eq2.fandom.com/wiki/Tall_Column_of_Astral_Daydream?action=history
-  revision: 2029548
-  revised: '2026-09-15T18:47:35Z'
+  revision: 2032026
+  revised: '2026-10-12T16:41:57Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: source

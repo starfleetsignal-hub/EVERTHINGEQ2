@@ -63,8 +63,8 @@ source:
   title: Chipper Gingerbread Illusion
   url: https://eq2.fandom.com/wiki/Chipper_Gingerbread_Illusion
   history: https://eq2.fandom.com/wiki/Chipper_Gingerbread_Illusion?action=history
-  revision: 1936840
-  revised: '2026-01-03T12:08:11Z'
+  revision: 2032302
+  revised: '2026-10-14T16:04:08Z'
   license: CC BY-SA 3.0
 ---
 

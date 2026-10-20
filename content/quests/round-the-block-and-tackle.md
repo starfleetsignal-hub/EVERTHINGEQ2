@@ -21,20 +21,20 @@ source:
   title: '''Round the Block and Tackle'
   url: https://eq2.fandom.com/wiki/'Round_the_Block_and_Tackle
   history: https://eq2.fandom.com/wiki/'Round_the_Block_and_Tackle?action=history
-  revision: 2031063
-  revised: '2026-10-06T21:29:16Z'
+  revision: 2032633
+  revised: '2026-10-17T04:57:41Z'
   license: CC BY-SA 3.0
 ---
 
 ## Notes
 
-- Both ways of completing this timeline (adventure and crafting) share this quest.
+- Both paths of this timeline (adventure and crafting) share this quest.
 
 This quest takes all characters to [[The City of Freeport]].
 
 - Evil characters can simply use Fast Travel from map to go to Freeport.
 - Good characters can go to Commonlands dock and use "Voyage Through Norrath" travel bell (the large bell with spinning globe), select Freeport from the options.
-- Both these travel options place you on South Freeport dock, there are no guards in immediate area and the entrance to [[Block and Tackle Storerooms]] zone is just couple steps to the south, on corner of the building.
+- Both these travel options place you on South Freeport dock, there are no guards in immediate area and the entrance to [[Block and Tackle Storerooms]] zone is just couple steps to the south, at the corner of the building.
 
 ## Steps
 

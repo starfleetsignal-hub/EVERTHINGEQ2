@@ -70,11 +70,11 @@ source:
   title: Eustace
   url: https://eq2.fandom.com/wiki/Eustace
   history: https://eq2.fandom.com/wiki/Eustace?action=history
-  revision: 1930189
-  revised: '2026-01-01T18:11:37Z'
+  revision: 2032077
+  revised: '2026-10-12T21:50:54Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
 ---
 
-
+Visions of Vetrovia Familar

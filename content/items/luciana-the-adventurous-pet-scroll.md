@@ -23,8 +23,8 @@ source:
   title: Luciana the Adventurous Pet Scroll
   url: https://eq2.fandom.com/wiki/Luciana_the_Adventurous_Pet_Scroll
   history: https://eq2.fandom.com/wiki/Luciana_the_Adventurous_Pet_Scroll?action=history
-  revision: 2022504
-  revised: '2026-08-14T23:19:39Z'
+  revision: 2032147
+  revised: '2026-10-13T04:19:00Z'
   license: CC BY-SA 3.0
 ---
 

@@ -19,9 +19,11 @@ source:
   title: Call Visage of Growth
   url: https://eq2.fandom.com/wiki/Call_Visage_of_Growth
   history: https://eq2.fandom.com/wiki/Call_Visage_of_Growth?action=history
-  revision: 2022649
-  revised: '2026-08-18T00:18:22Z'
+  revision: 2032277
+  revised: '2026-10-14T05:41:53Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Visage of Growth]]

@@ -17,8 +17,8 @@ source:
   title: Kurista (Greater Faydark)
   url: https://eq2.fandom.com/wiki/Kurista_(Greater_Faydark)
   history: https://eq2.fandom.com/wiki/Kurista_(Greater_Faydark)?action=history
-  revision: 1992256
-  revised: '2026-03-29T15:48:28Z'
+  revision: 2032870
+  revised: '2026-10-19T03:54:42Z'
   license: CC BY-SA 3.0
 ---
 

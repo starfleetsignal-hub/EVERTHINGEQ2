@@ -24,12 +24,12 @@ source:
   title: Lord Shomp (Untold Heroic)
   url: https://eq2.fandom.com/wiki/Lord_Shomp_(Untold_Heroic)
   history: https://eq2.fandom.com/wiki/Lord_Shomp_(Untold_Heroic)?action=history
-  revision: 2011528
-  revised: '2026-06-10T00:46:53Z'
+  revision: 2032073
+  revised: '2026-10-12T20:19:11Z'
   license: CC BY-SA 3.0
 ---
 
-Ability and strategy information changes with stages (1-20/21+).
+Ability and strategy information changes with stages (1-20/21-40/41+).
 
 ## Abilities
 
@@ -40,7 +40,7 @@ Ability and strategy information changes with stages (1-20/21+).
 - **Zon Zobbonk!**
 - An incurable elemental that deals heat damage and drains power over time. It also procs Defensive Breach, which deals large amounts of magic damage.
 - **Despotic Decree**
-- A curable curse that kills the player when it expires.
+- A curable curse that kills the player when it expires. At stage 41+, the curse requires the target to be in one of several positions or perform one of several actions before being cured. If the requirement is not met, curing the curse kills the target. These requirements include (a) standing behind Shomp, (b) crouching, (c) standing in front of Shomp, (d) sitting, (e) standing within 2 meters of Shomp. Lord Shomp tells the target player (and only the targeted player) which action should be performed.
 - **Foothold**
 - A curable trauma cast by nullite foot soldiers. It inflicts crushing damage and roots the target. If two Footholds are on the same target, the root cannot be resisted.
 - **Timmmberrr!**
@@ -51,12 +51,14 @@ Ability and strategy information changes with stages (1-20/21+).
 - A buff that prevents all damage as long as any storm clouds are active.
 - **Cloud Burst**
 - An incurable arcane that inflicts divine damage and throws the target back. This spell is only cast while Flight of the Nullite is active.
+- **Make it Reign [41+]**
+- A buff that increases fervor, ability doublecast avoidance, flurry avoidance, and combat mitigation for each increment. Increments can be removed by arcane dispels or by damaging Shomp for 1% of his health.
 
 ## Strategy
 
-Lord Shomp summons [[A nullite foot soldier]] in groups of two.
+Lord Shomp summons [[A nullite foot soldier]] in groups of (2/2/3).
 
-At 76%, 51%, and 26%, Lord Shomp summons several storm clouds, which can be destroyed by dispelling them. He runs from cloud to cloud uncontrollably until the last cloud is dispelled.
+At 76%, 51%, and 26% [Stage 1-40], or at 80%, 60%, 40%, and 20% [Stage 41+], Lord Shomp summons several storm clouds, which can be destroyed by dispelling them. He runs from cloud to cloud uncontrollably until the last cloud is dispelled.
 
 ## ACT Triggers
 
@@ -68,3 +70,5 @@ At 76%, 51%, and 26%, Lord Shomp summons several storm clouds, which can be dest
 - Calls "cure curse" when Lord Shomp casts Despotic Decree.
 - **<code>&lt;Trigger R=&quot;(?&amp;#35;Shomp)TIMMMBERRR!&quot; SD=&quot;cure fallen&quot; ST=&quot;3&quot; CR=&quot;T&quot; C=&quot;Zon Zobboz**: The Chimeric Chain [Untold Heroic]&quot; T=&quot;F&quot; TN=&quot;&quot; Ta=&quot;F&quot; /&gt;</code>
 - Calls "group cure" when Lord Shomp casts Timmmberrr!
+- **<code>&lt;Trigger R=&quot;(?&amp;#35;Shomp)must be cured WHILE (?&amp;lt;Position&amp;gt;[A-Z ]+)!&quot; SD=&quot;${Position} then cure&quot; ST=&quot;3&quot; CR=&quot;T&quot; C=&quot;Zon Zobboz**: The Chimeric Chain [Untold Heroic]&quot; T=&quot;F&quot; TN=&quot;&quot; Ta=&quot;F&quot; /&gt;</code>
+- Calls "<Position> then cure" when Lord Shomp casts Despotic Decree at stages 41+.

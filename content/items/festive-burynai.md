@@ -9,7 +9,7 @@ description: This young burynai has discovered the joys of the Frostfell season,
 stats:
   duration: Until Cancelled
   casting: 2.0 second
-  recast: 0.0 seconds
+  recast: Instant
 effects: '- Summons a pet festive burynai'
 obtained_from: Marketplace (100 Daybreak Cash) during [[Frostfell]]
 item_link: \aITEM -76621281 -1057873306:Festive Burynai\/a
@@ -18,7 +18,6 @@ events:
 categories:
 - Census Credits
 - EQ2 Marketplace Items
-- Fluff Pet
 - Frostfell
 - Items
 - Spell Scroll (Item Type)
@@ -27,11 +26,11 @@ source:
   title: Festive Burynai
   url: https://eq2.fandom.com/wiki/Festive_Burynai
   history: https://eq2.fandom.com/wiki/Festive_Burynai?action=history
-  revision: 1852643
-  revised: '2025-01-11T20:34:10Z'
+  revision: 2032454
+  revised: '2026-10-15T22:16:03Z'
   license: CC BY-SA 3.0
-expansion: Desert of Flames
-expansion_source: source
 ---
 
+## Notes
 
+Gives the ability [[Summon Festive Burynai]]

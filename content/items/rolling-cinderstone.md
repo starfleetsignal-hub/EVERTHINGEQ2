@@ -11,6 +11,7 @@ stats:
   casting: 2.0 seconds
   recast: Instant
 effects: '- Summons a pet Rolling Cinderstone'
+obtained_from: Reward  from the [[Conflagrant Rites - Cinderstone Heist]]
 item_link: \aITEM -87787811 -1666778068:Rolling Cinderstone\/a
 image: images/Rolling_Cinderstone-Scroll.png
 categories:
@@ -23,8 +24,8 @@ source:
   title: Rolling Cinderstone
   url: https://eq2.fandom.com/wiki/Rolling_Cinderstone
   history: https://eq2.fandom.com/wiki/Rolling_Cinderstone?action=history
-  revision: 2022631
-  revised: '2026-08-17T23:33:05Z'
+  revision: 2032239
+  revised: '2026-10-14T02:52:57Z'
   license: CC BY-SA 3.0
 ---
 

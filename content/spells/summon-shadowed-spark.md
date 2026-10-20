@@ -20,9 +20,11 @@ source:
   title: Summon Shadowed Spark
   url: https://eq2.fandom.com/wiki/Summon_Shadowed_Spark
   history: https://eq2.fandom.com/wiki/Summon_Shadowed_Spark?action=history
-  revision: 2021452
-  revised: '2026-08-09T06:42:44Z'
+  revision: 2032743
+  revised: '2026-10-18T20:26:35Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Shadowed Spark]]

@@ -66,8 +66,8 @@ source:
   title: Skeletal Prowler Kitten (Version 1)
   url: https://eq2.fandom.com/wiki/Skeletal_Prowler_Kitten_(Version_1)
   history: https://eq2.fandom.com/wiki/Skeletal_Prowler_Kitten_(Version_1)?action=history
-  revision: 1934622
-  revised: '2026-01-02T19:02:26Z'
+  revision: 2032749
+  revised: '2026-10-18T20:41:28Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

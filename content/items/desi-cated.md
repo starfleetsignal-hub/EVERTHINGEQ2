@@ -67,11 +67,11 @@ source:
   title: Desi Cated
   url: https://eq2.fandom.com/wiki/Desi_Cated
   history: https://eq2.fandom.com/wiki/Desi_Cated?action=history
-  revision: 1929623
-  revised: '2026-01-01T17:30:59Z'
+  revision: 2032076
+  revised: '2026-10-12T21:49:57Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level
 ---
 
-
+2025 Event Familiar

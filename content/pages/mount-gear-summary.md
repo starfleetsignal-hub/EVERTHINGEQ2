@@ -7,8 +7,8 @@ source:
   title: Mount Gear Summary
   url: https://eq2.fandom.com/wiki/Mount_Gear_Summary
   history: https://eq2.fandom.com/wiki/Mount_Gear_Summary?action=history
-  revision: 1801829
-  revised: '2024-05-11T11:49:28Z'
+  revision: 2032644
+  revised: '2026-10-17T11:13:19Z'
   license: CC BY-SA 3.0
 ---
 
@@ -61,7 +61,7 @@ Each item grants a specific bonus and each comes in five tiers: Student's, Acade
 
 ### Barding - Bolstering (+ max. Health)
 
-| Name | Effect | Level | Pattern required? | special Harvests? | special Fuel? | Recipies available at |
+| Name | Effect | Level | Pattern required? | special Harvests? | special Fuel? | Recipe available at |
 |---|---|---|---|---|---|---|
 | [[Veilwalker's Barding of Bolstering\|Veilwalker's]] | +41.0 | 120 | no | common harvest | no | ??? |
 | [[Voidpiercer's Barding of Bolstering\|Voidpiercer's]] | +42.2 | 120 | no | rare harvest | no | ??? |
@@ -73,7 +73,7 @@ Each item grants a specific bonus and each comes in five tiers: Student's, Acade
 
 ### Barding - Striking (+ Crit. Bonus)
 
-| Name | Effect | Level | Pattern required? | special Harvests? | special Fuel? | Recipies available at |
+| Name | Effect | Level | Pattern required? | special Harvests? | special Fuel? | Recipe available at |
 |---|---|---|---|---|---|---|
 | [[Chronicler's Barding Pattern of Striking\|Chronicler's]] | +10.0 | 110 | yes | ??? | no | ??? |
 | [[Veilwalker's Barding of Striking\|Veilwalker's]] | +22.5 | 120 | no | common harvest | no | ??? |

@@ -9,12 +9,13 @@ description: This spell will summon a Tinkered Inspiration to your side to accom
 stats:
   duration: Until Cancelled
   casting: 2.0 seconds
-  recast: 0.0 seconds
+  recast: Instant
 effects: '- Summons a pet Tinkered Inspiration'
 obtained_from: 'Collection reward: [[Tinmizer''s Medals of Achievement]]'
 item_link: \aITEM 477757143 -980430441:Tinkered Inspiration\/a
 image: images/Tinkered_Inspiration.png
 categories:
+- Census Credits
 - Collection Quest Rewards
 - Item pages with existing iname images
 - Items
@@ -24,8 +25,8 @@ source:
   title: Tinkered Inspiration
   url: https://eq2.fandom.com/wiki/Tinkered_Inspiration
   history: https://eq2.fandom.com/wiki/Tinkered_Inspiration?action=history
-  revision: 2023591
-  revised: '2026-08-22T18:05:51Z'
+  revision: 2032266
+  revised: '2026-10-14T05:19:40Z'
   license: CC BY-SA 3.0
 ---
 

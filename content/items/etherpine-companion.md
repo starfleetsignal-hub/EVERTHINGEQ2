@@ -4,16 +4,17 @@ type: item
 item_kind: Spell Scroll
 icon: images/Item_2708.png
 tier: Treasured
-flags: Heirloom No value
+flags: Heirloom No-value
 stats:
   duration: 1 Day
   casting: 2.0 second
-  recast: 0.0 seconds
+  recast: Instant
 effects: Summons a pet Ally
 obtained_from: 'Collection reward: [[Etherpine Research]]'
 item_link: \aITEM -526747577 -456667605:Etherpine Companion\/a
 image: images/Etherpine_Companion.jpg
 categories:
+- Census Credits
 - Collection Quest Rewards
 - Eq2 Traders Credits
 - Item pages with existing iname images
@@ -24,8 +25,8 @@ source:
   title: Etherpine Companion
   url: https://eq2.fandom.com/wiki/Etherpine_Companion
   history: https://eq2.fandom.com/wiki/Etherpine_Companion?action=history
-  revision: 1852606
-  revised: '2025-01-11T17:57:24Z'
+  revision: 2032448
+  revised: '2026-10-15T21:52:42Z'
   license: CC BY-SA 3.0
 expansion: Tears of Veeshan
 expansion_source: source

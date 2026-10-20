@@ -23,14 +23,16 @@ source:
   title: A Nightmarish Illness
   url: https://eq2.fandom.com/wiki/A_Nightmarish_Illness
   history: https://eq2.fandom.com/wiki/A_Nightmarish_Illness?action=history
-  revision: 1907581
-  revised: '2025-10-12T19:52:57Z'
+  revision: 2032754
+  revised: '2026-10-18T20:48:50Z'
   license: CC BY-SA 3.0
 expansion: The Shadow Odyssey
 expansion_source: patch
 ---
 
 NOTE: This is a solo instance. (No mercenary)
+
+### **Important: PLEASE READ FIRST -** If you are trying to unlock the gleaming chest to obtain the necklace, you must complete ***this*** quest FIRST.  You will need to run the zone a second time and complete the [[Everquest2:Train to Zone!|Train the Zone!]] quest from the terrified gnome.  Finish the instance again after completing the terrified gnome quest.  The gleaming chest should then appear.  The lockpicks will not be in your bags, the game remembers that you received them from the last boss.
 
 - You must speak to two NPCs on the beach of Nektulous Forest before entering the hedge maze.
 - Once you enter this zone, you will need to complete tasks to unlock the next area of the maze.

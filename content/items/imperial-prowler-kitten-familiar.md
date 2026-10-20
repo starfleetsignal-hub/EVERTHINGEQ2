@@ -66,8 +66,8 @@ source:
   title: Imperial Prowler Kitten (Familiar)
   url: https://eq2.fandom.com/wiki/Imperial_Prowler_Kitten_(Familiar)
   history: https://eq2.fandom.com/wiki/Imperial_Prowler_Kitten_(Familiar)?action=history
-  revision: 1931245
-  revised: '2026-01-01T20:14:52Z'
+  revision: 2032494
+  revised: '2026-10-16T03:07:34Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
 expansion_source: level

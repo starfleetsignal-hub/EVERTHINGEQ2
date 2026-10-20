@@ -20,11 +20,11 @@ source:
   title: Call Skur'rax Drone
   url: https://eq2.fandom.com/wiki/Call_Skur'rax_Drone
   history: https://eq2.fandom.com/wiki/Call_Skur'rax_Drone?action=history
-  revision: 2021459
-  revised: '2026-08-09T06:56:14Z'
+  revision: 2032252
+  revised: '2026-10-14T03:31:05Z'
   license: CC BY-SA 3.0
 ---
 
 ## Notes
 
-[[Webbin' Feverishly]]
+Received from the Spell Scroll [[Skur'rax Drone]]

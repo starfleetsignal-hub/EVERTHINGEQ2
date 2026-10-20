@@ -4,7 +4,7 @@ type: item
 item_kind: Spell Scroll
 icon: images/Item_2708.png
 tier: Treasured
-flags: Heirloom No-value
+flags: Heirloom
 description: This spell will summon a Fog Wraith to your side to accompany you during your travels.
 stats:
   duration: Until Cancelled
@@ -26,8 +26,8 @@ source:
   title: Fog Wraith
   url: https://eq2.fandom.com/wiki/Fog_Wraith
   history: https://eq2.fandom.com/wiki/Fog_Wraith?action=history
-  revision: 2021393
-  revised: '2026-08-09T03:53:58Z'
+  revision: 2032136
+  revised: '2026-10-13T02:33:01Z'
   license: CC BY-SA 3.0
 expansion: Scars of Destruction
 expansion_source: source

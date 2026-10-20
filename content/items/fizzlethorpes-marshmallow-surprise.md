@@ -10,6 +10,7 @@ stats:
   recast: 0.0 seconds
 effect_name: Eat treat
 effects: "- Applies Eat treat when Activated.  Lasts for 5 minutes.\n  - Only the chef knows the secret of the recipe!"
+obtained_from: Rewarded by Guides
 item_link: \aITEM 1972523234 1737277297:Fizzlethorpe's Marshmallow Surprise\/a
 categories:
 - Assassin Equipment
@@ -58,8 +59,8 @@ source:
   title: Fizzlethorpe's Marshmallow Surprise
   url: https://eq2.fandom.com/wiki/Fizzlethorpe's_Marshmallow_Surprise
   history: https://eq2.fandom.com/wiki/Fizzlethorpe's_Marshmallow_Surprise?action=history
-  revision: 1930424
-  revised: '2026-01-01T18:27:04Z'
+  revision: 2032655
+  revised: '2026-10-18T01:40:47Z'
   license: CC BY-SA 3.0
 ---
 

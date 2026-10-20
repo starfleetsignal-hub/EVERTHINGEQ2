@@ -2,6 +2,7 @@
 title: Conflagration
 type: spell
 class: '[[Conjuror]]'
+category: Buff
 icon: images/Spell_242.png
 levels: '100'
 power_cost: '1340'
@@ -12,17 +13,17 @@ effects: '- [[Fire Seed]] increases the Fervor of the target by (X).
 
   - [[Fire Seed]] deals increased damage.'
 categories:
+- Buff (Spell Type)
 - Census Credits
 - Conjuror Spells
-- Spell needing Category
 - Spells
 - Spells by Type Spells
 source:
   title: Conflagration
   url: https://eq2.fandom.com/wiki/Conflagration
   history: https://eq2.fandom.com/wiki/Conflagration?action=history
-  revision: 1790525
-  revised: '2024-04-07T22:55:14Z'
+  revision: 2032428
+  revised: '2026-10-15T10:34:45Z'
   license: CC BY-SA 3.0
 ---
 

@@ -16,6 +16,7 @@ obtained_from: '[[Webbin'' Feverishly]]'
 item_link: \aITEM -289288446 -664465011:Skur'rax Drone\/a
 image: images/Skur'rax_Drone.png
 categories:
+- Census Credits
 - Item pages with existing iname images
 - Items
 - Spell Scroll (Item Type)
@@ -24,8 +25,8 @@ source:
   title: Skur'rax Drone
   url: https://eq2.fandom.com/wiki/Skur'rax_Drone
   history: https://eq2.fandom.com/wiki/Skur'rax_Drone?action=history
-  revision: 2021460
-  revised: '2026-08-09T06:56:45Z'
+  revision: 2032245
+  revised: '2026-10-14T03:22:04Z'
   license: CC BY-SA 3.0
 expansion: Rage of Cthurath
 expansion_source: source

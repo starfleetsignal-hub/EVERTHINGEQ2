@@ -12,8 +12,8 @@ source:
   title: Slash Commands
   url: https://eq2.fandom.com/wiki/Slash_Commands
   history: https://eq2.fandom.com/wiki/Slash_Commands?action=history
-  revision: 2028878
-  revised: '2026-09-12T17:29:20Z'
+  revision: 2032029
+  revised: '2026-10-12T17:21:01Z'
   license: CC BY-SA 3.0
 ---
 
@@ -95,7 +95,7 @@ This page holds a full list of the slash commands available. See more at Slash C
 
 | Command | Example | Notes |
 |---|---|---|
-| /combat_filter <filter#> | /combat_filter 0 | none *does not persist through zoning so you will have to set it each time you zone* |
+| /combat_filter <filter#> | /combat_filter 0 | no filter at all *does not persist through zoning so you will have to set it each time you zone* |
 | /combat_filter 1 | Self (you will only get combat messages for yourself/your pet)<br><br>*If you are seeing huge lag please try "/combat_filter 1" and see if that helps*<br><br>*does not persist through zoning so you will have to set it each time you zone* |  |
 | /combat_filter 2 | group *does not persist through zoning so you will have to set it each time you zone* |  |
 | /combat_filter 3 | raid *does not persist through zoning so you will have to set it each time you zone* |  |

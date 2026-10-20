@@ -20,9 +20,11 @@ source:
   title: Call Green Emergent Voidcyst
   url: https://eq2.fandom.com/wiki/Call_Green_Emergent_Voidcyst
   history: https://eq2.fandom.com/wiki/Call_Green_Emergent_Voidcyst?action=history
-  revision: 2022471
-  revised: '2026-08-14T04:22:07Z'
+  revision: 2032137
+  revised: '2026-10-13T03:55:05Z'
   license: CC BY-SA 3.0
 ---
 
-[[The Leashed You Can Do]]
+## Notes
+
+Received from the Spell Scroll [[Green Emergent Voidcyst]]

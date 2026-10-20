@@ -19,9 +19,11 @@ source:
   title: Call Malduran Whirlygig
   url: https://eq2.fandom.com/wiki/Call_Malduran_Whirlygig
   history: https://eq2.fandom.com/wiki/Call_Malduran_Whirlygig?action=history
-  revision: 2022507
-  revised: '2026-08-14T23:27:25Z'
+  revision: 2032189
+  revised: '2026-10-13T19:12:26Z'
   license: CC BY-SA 3.0
 ---
 
+## Notes
 
+Received from the Spell Scroll [[Malduran Whirlygig]]

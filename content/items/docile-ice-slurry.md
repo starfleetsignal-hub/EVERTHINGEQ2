@@ -13,8 +13,10 @@ stats:
 effects: '- Summons a pet Docile Ice Slurry'
 obtained_from: Reward option for the [[Frostfell]] quest [[A Frostfell Favor]].
 item_link: \aITEM 872824242 -115514000:Docile Ice Slurry\/a
+image: images/Docile_Ice_Slurry-Scroll.jpg
 categories:
-- Fluff Pet
+- Census Credits
+- Item pages with existing iname images
 - Items
 - Spell Scroll (Item Type)
 - Treasured Items
@@ -22,8 +24,8 @@ source:
   title: Docile Ice Slurry
   url: https://eq2.fandom.com/wiki/Docile_Ice_Slurry
   history: https://eq2.fandom.com/wiki/Docile_Ice_Slurry?action=history
-  revision: 1850693
-  revised: '2025-01-05T06:37:53Z'
+  revision: 2032310
+  revised: '2026-10-14T16:27:01Z'
   license: CC BY-SA 3.0
 expansion: Echoes of Faydwer
 expansion_source: source

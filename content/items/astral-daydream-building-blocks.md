@@ -42,6 +42,7 @@ recipes: '- [[Arched Door Frame of Astral Daydream]]
   - [[Triangle Tile of Astral Daydream]]
 
   - [[Vertical Window Frame in Tall Divider of Astral Daydream]]'
+obtained_from: Sold by [[Lyri Vasramel]] in [[Block and Tackle Storerooms]]
 item_link: \aITEM 1837711469 -920026906:Astral Daydream Building Blocks\/a
 categories:
 - Artisan Recipe Books
@@ -51,11 +52,11 @@ source:
   title: Astral Daydream Building Blocks
   url: https://eq2.fandom.com/wiki/Astral_Daydream_Building_Blocks
   history: https://eq2.fandom.com/wiki/Astral_Daydream_Building_Blocks?action=history
-  revision: 2029586
-  revised: '2026-09-15T18:50:53Z'
+  revision: 2031983
+  revised: '2026-10-12T16:12:55Z'
   license: CC BY-SA 3.0
 expansion: Shattered Lands
-expansion_source: linked
+expansion_source: source
 ---
 
 
