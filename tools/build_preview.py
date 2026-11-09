@@ -548,7 +548,7 @@ EVENTS = [
     ("Scorched Sky Celebration", "Scorched Sky", "Summer fireworks", (7, 2, 7, 15, 2026), ["Scorched Sky"]),
     ("Oceansfull Festival", "Oceansfull Festival", "", (8, 6, 8, 20, 2026), ["Oceansfull Festival", "Oceansfull"]),
     ("Nights of the Dead", "Nights of the Dead", "Halloween", (10, 9, 11, 2, 2026), ["Nights of the Dead"]),
-    ("Heroes' Festival", "Heroes' Festival Timeline", "EverQuest II's birthday", (11, 7, 11, 17, 2025), ["Heroes' Festival", "Heroes Festival"]),
+    ("Heroes' Festival", "Heroes' Festival Timeline", "EverQuest II's birthday", (11, 5, 11, 18, 2026), ["Heroes' Festival", "Heroes Festival"]),
     ("Frostfell", "Frostfell", "Winter holidays", (12, 2, 1, 5, 2025), ["Frostfell"]),
     ("City Festival", "City Festival", "Monthly", (0, 1, 0, 7), ["City Festival"]),
     ("Moonlight Enchantments", "Moonlight Enchantments", "Monthly", (0, 20, 0, 21), ["Moonlight Enchantments"]),
