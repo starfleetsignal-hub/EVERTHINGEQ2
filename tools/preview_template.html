@@ -335,7 +335,7 @@ footer.site p{max-width:none}
     <h2>Browse</h2>
     <ol id="snav"></ol>
     <h2>Events</h2>
-    <ol id="enav"><li><a href="#events">Holiday calendar<span></span></a></li></ol>
+    <ol id="enav"><li><a href="#events">Holiday calendar<span></span></a></li><li><a href="#wuoshi">Wuoshi progression<span></span></a></li></ol>
     <h2>Releases</h2>
     <ol id="xnav"></ol>
     <p class="sidenote">Converted from the EverQuest II Wiki. Names with a dotted grey underline point to wiki pages that are not on this site yet.</p>
@@ -531,6 +531,7 @@ function home(){
   <div class="stats">${TYPES.filter(([t])=>count(t)).map(([t,l])=>`<a href="#browse.${t}"><b>${count(t).toLocaleString()}</b><span>${l}</span></a>`).join("")}</div>
   ${META.collections?`<p>Hunting shinies? The <a href="#collections">collections tracker</a> lists all ${META.collections.toLocaleString()} collections and remembers which pieces you have found.</p>`:""}
   ${(META.news||[]).length?`<h2>News</h2>${META.news.slice(0,3).map(n=>`<article class="news"><h3>${esc(n.t)}</h3><p class="derived">${esc(n.d)}</p>${n.h}${n.src.length?`<p class="credit">Source${n.src.length>1?"s":""}: ${n.src.map(([t,u])=>`<a href="${esc(u)}" rel="noopener" target="_blank">${esc(t)}</a>`).join(", ")}</p>`:""}</article>`).join("")}`:""}
+  ${META.wuoshi?wuoshiStatus(META.wuoshi):""}
   <div id="homeev"></div>
   <h2>Releases</h2>
   <div class="xgrid">${XP.map((x,i)=>`<a class="xcard" href="#x.${xslug(x)}"><b>${esc(x)}</b><span>${YEARS[i]} <span>${xTotal(x).toLocaleString()} pages</span></span></a>`).join("")}</div>`;
@@ -598,12 +599,42 @@ function evCard(e){
 function evSoon(list, n){
   return list.filter(e=>e.when).map(e=>[e, evState(e.when)]).sort((a,b)=>(b[1].on-a[1].on) || a[1].days-b[1].days).slice(0, n).map(([e])=>e);
 }
+function isoDate(s){
+  if (!s) return "";
+  const [y,m,d] = s.split("-").map(Number);
+  return `${MON[m-1]} ${d}, ${y}`;
+}
+function wuoshiStatus(w){
+  if (!w) return "";
+  return `<section class="news" id="wuoshi-status">
+    <h2>Wuoshi</h2>
+    <p class="derived">${esc(w.kind || "Time Locked Expansion server")}</p>
+    <p>Current expansion: <strong>${esc(w.current)}</strong>. Next: <strong>${esc(w.next)}</strong> on <strong>${esc(isoDate(w.next_date))}</strong>. Level cap stays at ${esc(String(w.level_cap))}.</p>
+    <p><a href="#wuoshi">Wuoshi unlock calendar</a></p>
+  </section>`;
+}
+function wuoshiView(w){
+  if (!w) return `<div class="crumbs"><a href="#home">Home</a> › Events</div><p class="callout red">Wuoshi progression data is not available.</p>`;
+  const rows = (w.unlocks || []).map(u => {
+    const tag = u.status === "current" ? `<span class="tag green">Current</span>`
+              : u.status === "next" ? `<span class="tag">Next</span>`
+              : `<span class="tag">Unlocked</span>`;
+    return `<tr><td>${esc(u.expansion)}</td><td>${esc(isoDate(u.date))}</td><td>${tag}</td><td class="num">${esc(String(u.level_cap ?? ""))}</td><td>${esc(u.note || "")}</td></tr>`;
+  }).join("");
+  return `<div class="crumbs"><a href="#home">Home</a> › Events</div>
+  <div class="art-head"><h1>Wuoshi progression</h1></div>
+  <p class="lede">${esc(w.server)} is EverQuest II's current Time Locked Expansion server. ${esc(w.cadence)} The final expansion on this server will be ${esc(w.final_expansion)}.</p>
+  <p>Current expansion: <strong>${esc(w.current)}</strong>. Next: <strong>${esc(w.next)}</strong> on <strong>${esc(isoDate(w.next_date))}</strong>, per the official Discord announcement. No clock time has been posted.</p>
+  <div class="tablewrap"><table><thead><tr><th>Expansion</th><th>Date</th><th>Status</th><th>Level cap</th><th>Notes</th></tr></thead><tbody>${rows}</tbody></table></div>
+  <p class="derived">${esc(w.notes || "")} Later unlock dates are not listed here until they are announced. See the <a href="#events">holiday calendar</a> and <a href="#x.${xslug("The Shadow Odyssey")}">The Shadow Odyssey</a>.</p>`;
+}
 function calendar(list){
   const cur = new Date().getMonth() + 1;
   const monthly = list.filter(e=>e.when && !e.when[0]), past = list.filter(e=>!e.when);
   return `<div class="crumbs"><a href="#home">Home</a> › Events</div>
   <div class="art-head"><h1>Holiday calendar</h1></div>
   <p class="lede">EverQuest II's live events: seasonal quests, vendors, rewards and achievements, each gathered onto one page. Dates are the latest ones announced on each event's wiki page and change a little each year; where this year's dates aren't out yet, last year's are shown. The Calendar in the game's EQ2 menu has the exact times.</p>
+  ${META.wuoshi?wuoshiStatus(META.wuoshi):""}
   <h2>On now and coming up</h2><div class="evnow">${evSoon(list, 4).map(evCard).join("")}</div>
   <h2>Through the year</h2>
   <div class="months">${MON.map((m,i)=>`<div class="month${i+1===cur?" cur":""}"><h3>${m}</h3><ul>${
@@ -938,6 +969,9 @@ async function render(){
     try { list = await loadColls(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The collections could not be loaded. Reload to try again.</p>`; return; }
     if (my !== seq) return;
     main.innerHTML = tracker(h.split(".")[1], list); trackerWire();
+  }
+  else if (h === "wuoshi") {
+    main.innerHTML = wuoshiView(META.wuoshi);
   }
   else if (h === "events" || h.startsWith("ev.")) {
     const [, es, tab] = h.split(".");

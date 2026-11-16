@@ -707,9 +707,11 @@ def main():
     news = [{"d": n["date"], "t": n["title"], "h": render(n["body"]),
              "src": [[x["title"], x["url"]] for x in n.get("sources", [])]}
             for n in (json.load(open(news_path, encoding="utf-8")) if os.path.exists(news_path) else [])]
+    wuoshi_path = os.path.join(ROOT, "data", "wuoshi.json")
+    wuoshi = json.load(open(wuoshi_path, encoding="utf-8")) if os.path.exists(wuoshi_path) else None
     msz = put(os.path.join(data_dir, "meta"), {"chunks": nch, "width": width, "ext": ext, "counts": counts, "lines": lines,
                                                "zones": zones, "collections": len(colls), "sx": list(sx), "repo": REPO, "src": bool(any(chunks_s)),
-                                               "news": news})
+                                               "news": news, "wuoshi": wuoshi})
     esz = put(os.path.join(data_dir, "events"), events())
     total += isz + ssz + msz + csz + esz
     tpl = open(os.path.join(os.path.dirname(os.path.abspath(__file__)), "preview_template.html"), encoding="utf-8").read()

@@ -1,0 +1,35 @@
+{
+ "server": "Wuoshi",
+ "kind": "Time Locked Expansion",
+ "cadence": "An expansion every 3 months.",
+ "final_expansion": "Chaos Descending",
+ "current": "Rise of Kunark",
+ "next": "The Shadow Odyssey",
+ "next_date": "2026-12-09",
+ "next_source": "Official Discord announcement",
+ "level_cap": 80,
+ "notes": "Only Echoes of Faydwer and Rise of Kunark Avatars are available on Wuoshi. The Shadow Odyssey Avatars are not coming to this server. No clock time has been posted for the December 9 unlock.",
+ "unlocks": [
+  {
+   "expansion": "Echoes of Faydwer",
+   "date": "2026-06-09",
+   "status": "unlocked",
+   "level_cap": 70,
+   "note": "Server launch"
+  },
+  {
+   "expansion": "Rise of Kunark",
+   "date": "2026-09-09",
+   "status": "current",
+   "level_cap": 80,
+   "note": "Sarnak race and Timorous Deep"
+  },
+  {
+   "expansion": "The Shadow Odyssey",
+   "date": "2026-12-09",
+   "status": "next",
+   "level_cap": 80,
+   "note": "Per the official Discord announcement. No clock time posted."
+  }
+ ]
+}
