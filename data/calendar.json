@@ -1,0 +1,35 @@
+[
+ {
+  "n": "Descent to Val'Zyroth launches",
+  "s": "descent-to-valzyroth-launch",
+  "real": "",
+  "when": [12, 9, 12, 9, 2026],
+  "sum": "The Descent to Val'Zyroth expansion launches on December 9, 2026 at noon. No time zone was stated on the November 18, 2026 developer livestream. The level cap stays at 135. One raid zone opens at launch.",
+  "src": {
+   "title": "Descent to Val'Zyroth developer livestream (Nov 18, 2026)",
+   "url": "https://www.youtube.com/watch?v=tSoc5H6IZzE"
+  }
+ },
+ {
+  "n": "Val'Zyroth: three more raid zones",
+  "s": "valzyroth-raid-zones-january",
+  "real": "",
+  "when": [1, 12, 1, 12, 2027],
+  "sum": "Three more Descent to Val'Zyroth raid zones open on January 12, 2027, per the November 18, 2026 developer livestream.",
+  "src": {
+   "title": "Descent to Val'Zyroth developer livestream (Nov 18, 2026)",
+   "url": "https://www.youtube.com/watch?v=tSoc5H6IZzE"
+  }
+ },
+ {
+  "n": "Val'Zyroth: tier two raids",
+  "s": "valzyroth-tier-two-raids",
+  "real": "",
+  "when": [2, 9, 2, 9, 2027],
+  "sum": "Descent to Val'Zyroth tier two raids open on February 9, 2027. Tier three (the Duchy of the Dead raids) arrives with the first game update; no date was given. Source: the November 18, 2026 developer livestream.",
+  "src": {
+   "title": "Descent to Val'Zyroth developer livestream (Nov 18, 2026)",
+   "url": "https://www.youtube.com/watch?v=tSoc5H6IZzE"
+  }
+ }
+]
