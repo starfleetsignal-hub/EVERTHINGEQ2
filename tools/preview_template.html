@@ -570,6 +570,7 @@ const ord = n => n + (n % 10 === 1 && n !== 11 ? "st" : n % 10 === 2 && n !== 12
 function evDates(w){
   if (!w) return "2024 only, now retired";
   if (!w[0]) return `The ${ord(w[1])} to the ${ord(w[3])} of every month`;
+  if (w[0] === w[2] && w[1] === w[3]) return `${MON[w[0]-1]} ${w[1]}` + (w[4] ? `, ${w[4]}` : "");
   return `${MON[w[0]-1]} ${w[1]} to ${MON[w[2]-1]} ${w[3]}` + (w[4] ? ` (${w[4]}${w[2] < w[0] ? "–" + String(w[4] + 1).slice(2) : ""} dates)` : "");
 }
 // Dates from an earlier year: this year's run has not been announced yet, so the countdown is only a guess.
@@ -591,13 +592,37 @@ function evState(w, now = new Date()){
 }
 const evMonths = w => !w || !w[0] ? [] : w[2] >= w[0] ? Array.from({length:w[2]-w[0]+1}, (_,i)=>w[0]+i) : [...Array.from({length:13-w[0]}, (_,i)=>w[0]+i), ...Array.from({length:w[2]}, (_,i)=>i+1)];
 const evWhen = (st, old) => st.on ? (old ? "Usually on now" : "On now") : st.days === Infinity ? "Retired" : old ? `Usually starts in about ${st.days} days` : st.days === 1 ? "Starts tomorrow" : `Starts in ${st.days} days`;
+function evHref(e){ return e.href || `#ev.${e.s}`; }
 function evCard(e){
   const st = evState(e.when);
-  return `<a class="evcard${st.on?" on":""}" href="#ev.${e.s}"><b>${esc(e.n)}</b><small>${esc(evDates(e.when))}</small>
+  return `<a class="evcard${st.on?" on":""}" href="${esc(evHref(e))}"><b>${esc(e.n)}</b><small>${esc(evDates(e.when))}</small>
     <span><span class="tag ${st.on?"green":""}">${esc(evWhen(st, evOld(e.when)))}</span></span></a>`;
 }
 function evSoon(list, n){
   return list.filter(e=>e.when).map(e=>[e, evState(e.when)]).sort((a,b)=>(b[1].on-a[1].on) || a[1].days-b[1].days).slice(0, n).map(([e])=>e);
+}
+function datedEvents(list){
+  const extra = [...(META.calendar || [])];
+  const w = META.wuoshi;
+  if (w && w.next && w.next_date){
+    const [y,m,d] = String(w.next_date).split("-").map(Number);
+    if (y && m && d) extra.push({
+      n: `${w.next} unlocks on Wuoshi`,
+      s: "wuoshi-next-unlock",
+      real: w.kind || "",
+      when: [m, d, m, d, y],
+      href: "#wuoshi",
+      sum: `${w.next} unlocks on Wuoshi on ${isoDate(w.next_date)}.`
+    });
+  }
+  const seen = new Set();
+  const out = [];
+  for (const e of [...(list || []), ...extra]){
+    if (!e || !e.s || seen.has(e.s)) continue;
+    seen.add(e.s);
+    out.push(e);
+  }
+  return out;
 }
 function isoDate(s){
   if (!s) return "";
@@ -638,7 +663,7 @@ function calendar(list){
   <h2>On now and coming up</h2><div class="evnow">${evSoon(list, 4).map(evCard).join("")}</div>
   <h2>Through the year</h2>
   <div class="months">${MON.map((m,i)=>`<div class="month${i+1===cur?" cur":""}"><h3>${m}</h3><ul>${
-    list.filter(e=>evMonths(e.when).includes(i+1)).map(e=>`<li><a href="#ev.${e.s}">${esc(e.n)}</a></li>`).join("")}</ul></div>`).join("")}</div>
+    list.filter(e=>evMonths(e.when).includes(i+1)).map(e=>`<li><a href="${esc(evHref(e))}">${esc(e.n)}</a></li>`).join("")}</ul></div>`).join("")}</div>
   <h2>Every month</h2><div class="evnow">${monthly.map(evCard).join("")}</div>
   ${past.length?`<h2>Past events</h2><div class="evnow">${past.map(evCard).join("")}</div>`:""}`;
 }
@@ -655,7 +680,7 @@ function evRow(g, r){
 }
 function eventView(list, s, tab){
   const e = list.find(x=>x.s === s); if (!e) return calendar(list);
-  const n = k => (e.g[k]||[]).length;
+  const n = k => ((e.g && e.g[k])||[]).length;
   tab = EVTABS.some(([k])=>k===tab) && n(tab) ? tab : "overview";
   const st = evState(e.when);
   const bar = `<nav class="tabs" aria-label="${esc(e.n)} sections">${EVTABS.filter(([k])=>k==="overview"||n(k)).map(([k,l])=>`<a href="#ev.${s}${k==="overview"?"":"."+k}"${k===tab?' aria-current="page"':""}>${l}${k==="overview"?"":` <span class="count">${n(k)}</span>`}</a>`).join("")}</nav>`;
@@ -670,7 +695,9 @@ function eventView(list, s, tab){
     body = `${rows.length > 15 ? `<div class="filter"><input id="evf" type="search" placeholder="Filter by name" aria-label="Filter this list by name"><span id="evcount" aria-live="polite">${rows.length.toLocaleString()}</span></div>` : ""}
     <div class="tablewrap"><table><thead><tr>${EVCOLS[tab].map(c=>`<th>${c}</th>`).join("")}</tr></thead><tbody id="evrows">${rows.map(r=>`<tr data-f="${esc(r[1].toLowerCase())}">${evRow(tab, r)}</tr>`).join("")}</tbody></table></div>`;
   }
-  const credit = e.src ? `<p class="credit">The summary is adapted from <a href="${esc(e.src.url)}" rel="nofollow noopener" target="_blank">${esc(e.src.title)}</a> on the EverQuest II Wiki (Fandom), by <a href="${esc(e.src.history)}" rel="nofollow noopener" target="_blank">its contributors</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>. The lists gather every page tagged with this event.</p>` : "";
+  const credit = e.src ? (e.src.history
+    ? `<p class="credit">The summary is adapted from <a href="${esc(e.src.url)}" rel="nofollow noopener" target="_blank">${esc(e.src.title)}</a> on the EverQuest II Wiki (Fandom), by <a href="${esc(e.src.history)}" rel="nofollow noopener" target="_blank">its contributors</a>, licensed <a href="https://creativecommons.org/licenses/by-sa/3.0/" rel="noopener" target="_blank">CC BY-SA 3.0</a>. The lists gather every page tagged with this event.</p>`
+    : `<p class="credit">Source: <a href="${esc(e.src.url)}" rel="noopener" target="_blank">${esc(e.src.title)}</a></p>`) : "";
   return `<div class="crumbs"><a href="#home">Home</a> › <a href="#events">Holiday calendar</a></div>
   <div class="art-head"><h1>${esc(e.n)}</h1></div>
   <p class="evfacts"><span class="tag ${st.on?"green":"red"}">${esc(evWhen(st, evOld(e.when)))}</span> <span class="tag">${esc(evDates(e.when))}</span>${e.real?` <span class="tag">${esc(e.real)}</span>`:""}</p>
@@ -977,7 +1004,7 @@ async function render(){
     const [, es, tab] = h.split(".");
     main.innerHTML = `<p class="loading">Loading the events…</p>`;
     let list;
-    try { list = await loadEvents(); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The events could not be loaded. Reload to try again.</p>`; return; }
+    try { list = datedEvents(await loadEvents()); } catch(e){ if (my === seq) main.innerHTML = `<p class="callout red">The events could not be loaded. Reload to try again.</p>`; return; }
     if (my !== seq) return;
     main.innerHTML = es ? eventView(list, es, tab) : calendar(list);
   }
@@ -993,7 +1020,7 @@ async function render(){
   } else {
     main.innerHTML = home();
     loadEvents().then(list=>{ const el = document.getElementById("homeev"); if (el && my === seq)
-      el.innerHTML = `<h2>Holiday events</h2><div class="evnow">${evSoon(list, 3).map(evCard).join("")}</div><p><a href="#events">See the full holiday calendar</a></p>`; }).catch(()=>{});
+      el.innerHTML = `<h2>Holiday events</h2><div class="evnow">${evSoon(datedEvents(list), 3).map(evCard).join("")}</div><p><a href="#events">See the full holiday calendar</a></p>`; }).catch(()=>{});
   }
   window.scrollTo(0,0);
   syncTitle();
